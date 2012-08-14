@@ -1,6 +1,11 @@
 
 XexTool - xorloser
 
+This tool is for research purposes only.
+It must not be used for commercial/illegal/pirate uses.
+
+THIS WILL NOT MAGICALLY ALLOW YOU PLAY COPIED GAMES.
+
 
 
 
@@ -11,7 +16,21 @@ xex information to the console, alter xex attributes, extract executable code
 and other basefiles and create idc scripts files to help with disassembling
 the extracted executable code.
 
-Note: any altered or created retail xex files will not be correctly signed.
+Note: Any altered or created retail xex files will not be correctly signed.
+
+
+
+
+:: Install
+
+If you wish to run xextool from anywhere, copy the xextool.exe file to
+a location in your path that is used for exe files. If you are not sure
+you can check the %PATH% environment variable (type "echo %PATH%" from
+the command line) or just copy it into your windows directory.
+
+If you use the "Create IDC" feature of xex tool then you need to copy
+x360_imports.idc into your "IDA\idc" directory so that it will be found
+by any IDC script that you run.
 
 
 
@@ -34,40 +53,62 @@ The basefile can be optionally encrypted using aes encryption. All contents
 of the basefile are hashed and then rsa signed. Microsoft is the only one with
 access to the private key required to sign xexs in order to allow them to boot
 on a retail xbox360. A different key is used to sign xex files in order to
-allow them to boot on a development xbox360.
+allow them to boot on a development xbox360 (aka devkit).
 
 
 
 
 :: Usage
 
-Usage:    XexTool <options> <xex filename>
-Options:
           -l = print extended info list about xex file
           -p <xexp filename> = patch xex with xexp
           -b <base filename> = dump basefile from xex
           -i <idc filename>  = dump basefile info to idc file
           -d <res. dirname>  = dump all resources to a dir (can be '.')
           -o <xex filename>  = output altered xex to a new file
-          -r = remove xex limitations (a/m/r/b/k/l/c/z)
-               a = remove all limits (same as "mrbtlz")
+          -a <bounding path> = add bounding path to xex location
+          -u = fix patch updated xex to not require separate patch file
+          -s = do special xex specific patches (0/1/2/4/8/10/.../80000000)
+               bitflags are used to select one or more patches at a time
+               0 = list all patches for an xex
+              -1 = do all possible patches
+               1 = patch #1
+               2 = patch #2
+               4 = patch #3 (yes #3, not 4, because its a bitflag)
+          -r = remove xex limitations (a/m/r/b/d/i/y/v/k/l/c/z)
+               a = remove all limits (same as "mrbdiyvklcz")
                m = remove media limits (all media)
                r = remove region limits (all regions)
                b = remove bounding pathname
+               d = remove bounding device id
+               i = remove console id restriction
+               y = remove dates restriction
+               v = remove keyvault privileges restriction
                k = remove signed keyvault only limitation
                l = remove minimum library version limitations
                c = remove required revocation check
                z = zero the media id
-          -m = force output xex machine format (r/d)
-               r = force output xex to be retail
+          -m = force output xex machine format (d/r) (0=d, 1=r)
                d = force output xex to be devkit
-          -c = force output xex compression format (c/u/b)
-               c = force output xex to be compressed
+               r = force output xex to be retail
+          -c = force output xex compression format (u/c/b) (0=u, 1=c)
                u = force output xex to be uncompressed (no zeroed data)
+               c = force output xex to be compressed
                b = force output xex to be binary (has zeroed data)
-          -e = force output xex encryption format (d/e)
-               d = force output xex to be decrypted
+          -e = force output xex encryption format (u/e) (0=u, 1=e)
+               u = force output xex to be uncrypted
                e = force output xex to be encrypted
+          -x = xml output options (a/b/d/i/m/n/p/r/t/x)
+               a = extract everything
+               b = extract basefile type (ie dll, exe, patch, other)
+               d = extract media id
+               i = extract game icon
+               m = extract game supported medias
+               n = extract game name
+               p = extract bounding path
+               r = extract game supported regions
+               t = extract title id
+               x = extract xex machine format (retail or devkit xbox360)
 
 If "-o" is not used, the original xex file will be altered.
 Multiple options can be given at once, eg: "-m d -r mrl".
@@ -81,8 +122,9 @@ If no options are given, a shortened xex info list will be printed.
   version of higher. The usual imports are from xboxkrnl.exe and xam.exe.
 * Required revocation check requires the xex to be checked against
   a list of revocated xexs before allowing it to boot.
-* A media id can be used to lock block an xex from running if it matches
+* A media id can be used to block an xex from running if it matches known
   "banned" media ids. This is the case for xexs from the famous "kiosk disc".
+* Xml output enables usage of XexTool inside other programs
 
 
 
@@ -114,7 +156,7 @@ xextool -r mr default.xex
 xextool -r a -m d default.xex
 
 * Convert an xex into an unencrypted binary format:
-xextool -e d -c b -o default-binary.xex default.xex
+xextool -e u -c b -o default-binary.xex default.xex
 
 * Convert unencrypted binary xex back into an encrypted compressed xex:
 xextool -e e -c c -o default.xex default-binary.xex
@@ -133,7 +175,7 @@ detailed information on a few specific cases.
   How to make a retail xexs work on a development xbox360
 
 This is quite easy with this tool, just do the following:
-xextool -ra -m d default.xex
+xextool -r a -m d default.xex
 
 Not only will the xex work on a devkit, it will also now work from any media
 and run region independently.
@@ -147,10 +189,13 @@ patch files. These updates are stored inside package files in the Cache folder
 on you hard drive. A system update usually has "SU" as part of the filename,
 and a title update (game update) usually has a "TU" as part of the filename.
 
+Note: As of around November 2010 it seems that games are storing their updates
+on the internal hdd in the folder "Content\0000000000000000\xxxxxxxx\000B0000\".
+
 A patch file will only work when used with an untouched version of the original
 xex file it was created for. When you have the original xex file and the patch
 file you want to use with it, do the following to create the updated xex:
-xextool -p patch.xexp -o output.xex input.xex
+xextool -u -p patch.xexp -o output.xex input.xex
 
 Note: A retail xex requires a retail patch file, a devkit xex requires a devkit
 patch file. If an xex has been converted from a retail to a devkit xex, you need
@@ -160,6 +205,9 @@ resultant xex file into a devkit xex file.
 
 
   How to reverse engineer and alter the code in an xex file.
+
+Note: While the following still works, it has been superceeded by the separate
+Xex IDA Loader which will load the xex file directly into IDA.
 
 First extract the executable base file and idc script file as follows:
 xextool -b default.exe -i default.idc default.xex
@@ -187,7 +235,7 @@ changes to the exe basefile you extracted above (default.exe).
 
 Now you need to insert the basefile (default.exe) back into your xex file.
 So do the following to get a fully decrypted and decompressed xex:
-xextool -e d -c b -o default-hack.xex default.xex
+xextool -e u -c b -o default-hack.xex default.xex
 
 Now open default-hack.xex in a hex editor and find where the basefile starts.
 You can search for the "MZ" present in the exe header to find this.
@@ -208,6 +256,63 @@ for the output file if you wish.
 
 :: History
 
+v6.3
+	* fixed an issue where some xex files would not boot such as kinect xex files.
+	
+	* changed the special patching to list and let you select which patches to apply.
+	  patches are done via bitflags so that multiple patches can be selected in one go.
+	
+	* changed the internal search and patch data for special patching of xam and xbdm
+	  to support all known versions of these files.
+	
+v6.1
+	* changed update patching to patch multiple device strings as well
+	  as supporting unicode patching.
+	
+	* updated IDC creation to produce similar results as when using the
+	  xex loaders for IDA.
+	
+	* updated the IDC creation to check if the file was loaded as a ppc binary
+	  and to stop and warn the user if not.
+
+v6.0
+	* finally fixed the patching ability where the target file is smaller than
+	  the source file. hopefully it is fixed properly :)
+	
+	* fixed handling of bitfields in version structs (only affected big endian systems)
+	
+	+ added support for natal/kinect related flags
+	
+	+ added support for xex date restrictions
+	
+	+ added support for xex console id restrictions
+	
+	+ added support for xex device id restrictions
+	
+	+ added support for xex keyvault privileges restrictions
+	
+	+ added support for extra debug memory entry
+	
+	+ added support for a few new xex flags and system partitions
+
+v5.5
+	* i forget what changes were made... :P
+
+v5.4
+	+ added the ability to alter a patched xex file to use files from it's game
+	  directory rather than requiring them to be inside a patch package file.
+	
+	+ added special xex specific patches for use on certain xex files
+	
+	* finally fixed the compression problem that has existed since the first
+	  release of this tool. (this only affected a very small number of xex files)
+	
+v5.3
+	+ added xml output to stdout to make using XexTool from inside other
+	  programs easier
+	
+	+ added the ability to add a "bounding path" to an xex
+	
 v5.2
 	* fixed and updated the idc file creation
 	
@@ -261,20 +366,6 @@ no log was kept of earlier history - but there were lots of addition and fixes :
 + = added feature
 - = removed feature
 * = fixed or changed feature
-
-
-
-
-:: Bugs
-
-There is a rarely occurring bug in my compression routines. Of all the files I
-have tested, I have only seen about 2 or 3 files where this bug comes into play.
-It is obvious when it does as xextool will crash :)
-
-I had planned to fix this bug before releasing this tool, but it has now sat here
-for over six months without being released and I still havent got around to fixing
-it, so I thought I might as well release it and fix this bug later if I ever get
-around to it. (The bug should only affect around 0.1% of cases)
 
 
 
