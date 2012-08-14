@@ -9,93 +9,6 @@
             http://stackoverflow.com/questions/1440392/use-byte-as-key-in-dictionary
             </summary>
         </member>
-        <member name="M:CSharpUtils.MathFloat.Abs(System.Single)">
-            <summary>
-            
-            </summary>
-            <param name="Value"></param>
-            <returns></returns>
-        </member>
-        <member name="M:CSharpUtils.MathFloat.Cast(System.Single)">
-            <summary>
-            
-            </summary>
-            <param name="Value"></param>
-            <returns></returns>
-        </member>
-        <member name="M:CSharpUtils.MathFloat.Floor(System.Single)">
-            <summary>
-            
-            </summary>
-            <param name="Value"></param>
-            <returns></returns>
-        </member>
-        <member name="M:CSharpUtils.MathFloat.Ceil(System.Single)">
-            <summary>
-            
-            </summary>
-            <param name="Value"></param>
-            <returns></returns>
-        </member>
-        <member name="M:CSharpUtils.MathFloat.Round(System.Single)">
-            <summary>
-            
-            </summary>
-            <param name="Value"></param>
-            <returns></returns>
-        </member>
-        <member name="M:CSharpUtils.MathFloat.Rint(System.Single)">
-            <summary>
-            Rounds x to the nearest integer value, using the current rounding mode.
-            If the return value is not equal to x, the FE_INEXACT exception is raised.
-            nearbyint performs the same operation, but does not set the FE_INEXACT exception.
-            </summary>
-            <param name="Value"></param>
-            <returns></returns>
-        </member>
-        <member name="M:CSharpUtils.MathFloat.ReinterpretFloatAsUInt(System.Single)">
-            <summary>
-            
-            </summary>
-            <param name="Value"></param>
-            <returns></returns>
-        </member>
-        <member name="M:CSharpUtils.MathFloat.ReinterpretUIntAsFloat(System.UInt32)">
-            <summary>
-            
-            </summary>
-            <param name="Value"></param>
-            <returns></returns>
-        </member>
-        <member name="M:CSharpUtils.MathFloat.ReinterpretFloatAsInt(System.Single)">
-            <summary>
-            
-            </summary>
-            <param name="Value"></param>
-            <returns></returns>
-        </member>
-        <member name="M:CSharpUtils.MathFloat.ReinterpretIntAsFloat(System.Int32)">
-            <summary>
-            
-            </summary>
-            <param name="Value"></param>
-            <returns></returns>
-        </member>
-        <member name="M:CSharpUtils.MathFloat.Scalb(System.Single,System.Int32)">
-            <summary>
-            Math.scalb (12.0, 3) = 96.0
-            </summary>
-            <param name="Value"></param>
-            <param name="Count"></param>
-            <returns></returns>
-        </member>
-        <member name="T:CSharpUtils.LazyHolder`1">
-            <summary>
-            
-            </summary>
-            <typeparam name="T"></typeparam>
-            <see cref="T:System.Lazy`1"/>
-        </member>
         <member name="F:CSharpUtils.Containers.RedBlackTree.RedBlackTreeWithStats`1.CappedToNumberOfElements">
             <summary>
             Max number of elements that the collection will have.
@@ -114,246 +27,6 @@
             <summary>
             Slice is immutable, so don't need to clone.
             </summary>
-            <returns></returns>
-        </member>
-        <member name="M:CSharpUtils.Threading.GreenThread.SwitchTo">
-            <summary>
-            Called from the caller thread.
-            This will give the control to the green thread.
-            </summary>
-        </member>
-        <member name="M:CSharpUtils.Threading.GreenThread.Yield">
-            <summary>
-            Called from the green thread.
-            This will return the control to the caller thread.
-            </summary>
-        </member>
-        <member name="M:CSharpUtils.Factory.Factory.New``1">
-            <summary>
-            
-            </summary>
-            <typeparam name="T"></typeparam>
-            <returns></returns>
-        </member>
-        <member name="T:CSharpUtils.Wildcard">
-            <summary>
-            Represents a wildcard running on the
-            <see cref="N:System.Text.RegularExpressions"/> engine.
-            </summary>
-        </member>
-        <member name="M:CSharpUtils.Wildcard.#ctor(System.String)">
-            <summary>
-            Initializes a wildcard with the given search pattern.
-            </summary>
-            <param name="pattern">The wildcard pattern to match.</param>
-        </member>
-        <member name="M:CSharpUtils.Wildcard.#ctor(System.String,System.Text.RegularExpressions.RegexOptions)">
-            <summary>
-            Initializes a wildcard with the given search pattern and options.
-            </summary>
-            <param name="pattern">The wildcard pattern to match.</param>
-            <param name="options">A combination of one or more
-            <see cref="!:System.Text.RegexOptions"/>.</param>
-        </member>
-        <member name="M:CSharpUtils.Wildcard.WildcardToRegex(System.String)">
-            <summary>
-            Converts a wildcard to a regex.
-            </summary>
-            <param name="pattern">The wildcard pattern to convert.</param>
-            <returns>A regex equivalent of the given wildcard.</returns>
-        </member>
-        <member name="T:CSharpUtils.Streams.SliceStream">
-            <summary>
-            Class to create a SliceStream that will slice a base Stream with its own cursor.
-            </summary>
-            <example>
-            var File = File.OpenRead("file.txt");
-            var SliceFile = nSliceStream.CreateWithBounds(File, 10, 20);
-            </example>
-        </member>
-        <member name="F:CSharpUtils.Streams.SliceStream.ThisPosition">
-            <summary>
-            Cursor for this SliceStream.
-            </summary>
-        </member>
-        <member name="F:CSharpUtils.Streams.SliceStream.ThisStart">
-            <summary>
-            Start offset of this SliceStream relative to ParentStream.
-            </summary>
-        </member>
-        <member name="F:CSharpUtils.Streams.SliceStream.ThisLength">
-            <summary>
-            Length of this SliceStream.
-            </summary>
-        </member>
-        <member name="M:CSharpUtils.Streams.SliceStream.CreateWithLength(System.IO.Stream,System.Int64,System.Int64,System.Nullable{System.Boolean})">
-            <summary>
-            Creates a SliceStream specifying a start offset and a length.
-            </summary>
-            <param name="BaseStream">Base Stream</param>
-            <param name="ThisStart">Starting Offset</param>
-            <param name="ThisLength">Length of the Slice</param>
-            <param name="CanWrite">Determines if the Stream will be writtable.</param>
-            <returns>A SliceStream</returns>
-        </member>
-        <member name="M:CSharpUtils.Streams.SliceStream.CreateWithBounds(System.IO.Stream,System.Int64,System.Int64,System.Nullable{System.Boolean})">
-            <summary>
-            Creates a SliceStream specifying a start offset and a end offset.
-            </summary>
-            <param name="BaseStream">Parent Stream</param>
-            <param name="ThisStart">Starting Offset</param>
-            <param name="ThisLength">Length of the Slice</param>
-            <param name="CanWrite">Determines if the Stream will be writtable.</param>
-            <returns>A SliceStream</returns>
-        </member>
-        <member name="M:CSharpUtils.Streams.SliceStream.#ctor(System.IO.Stream,System.Int64,System.Int64,System.Nullable{System.Boolean})">
-            <summary>
-            Creates a SliceStream specifying a start offset and a length.
-            
-            Please use CreateWithLength or CreateWithBounds to initialite the object.
-            </summary>
-            <param name="BaseStream">Base Stream</param>
-            <param name="ThisStart">Starting Offset</param>
-            <param name="ThisLength">Length of the Slice</param>
-            <param name="CanWrite">Determines if the Stream will be writtable.</param>
-            <returns>A SliceStream</returns>
-        </member>
-        <member name="M:CSharpUtils.Streams.SliceStream.Seek(System.Int64,System.IO.SeekOrigin)">
-            <summary>
-            Seeks the SliceStream without altering the original Stream.
-            </summary>
-            <param name="offset">Offset to seek</param>
-            <param name="origin">Origin for the seeking</param>
-            <returns>Absolute offset after the operation</returns>
-        </member>
-        <member name="M:CSharpUtils.Streams.SliceStream.Read(System.Byte[],System.Int32,System.Int32)">
-            <summary>
-            Read a chunk from this SliceStream and move its cursor after that chunk.
-            Only will be able to read inside the bounds of this Slice.
-            It won't change the ParentStream cursor.
-            </summary>
-            <param name="buffer">ByteArray to write to</param>
-            <param name="offset">Offset of the ByteArray to write to</param>
-            <param name="count">Number of bytes to read</param>
-            <returns>Number of bytes readed</returns>
-        </member>
-        <member name="M:CSharpUtils.Streams.SliceStream.Write(System.Byte[],System.Int32,System.Int32)">
-            <summary>
-            Writes a chunk from this SliceStream and move its cursor after that chunk.
-            Only will be able to write inside the bounds of this Slice.
-            It won't change the ParentStream cursor.
-            </summary>
-            <param name="buffer">ByteArray to read from</param>
-            <param name="offset">Offset of the ByteArray to read from</param>
-            <param name="count">Number of bytes to write</param>
-        </member>
-        <member name="M:CSharpUtils.Streams.SliceStream.SetLength(System.Int64)">
-            <summary>
-            Not implemented.
-            </summary>
-            <param name="value"></param>
-        </member>
-        <member name="P:CSharpUtils.Streams.SliceStream.Length">
-            <summary>
-            Gets the length of the SliceStream.
-            </summary>
-        </member>
-        <member name="P:CSharpUtils.Streams.SliceStream.Position">
-            <summary>
-            Gets or sets the current cursor for this SliceStream.
-            </summary>
-        </member>
-        <member name="T:CSharpUtils.EnumerableComparer`1">
-            <summary>
-            Compares two sequences.
-            </summary>
-            <typeparam name="T">Type of item in the sequences.</typeparam>
-            <remarks>
-            Compares elements from the two input sequences in turn. If we
-            run out of list before finding unequal elements, then the shorter
-            list is deemed to be the lesser list.
-            </remarks>
-            <see cref="!:http://www.interact-sw.co.uk/iangblog/2007/12/13/natural-sorting"/>
-            <see cref="!:http://opensource.org/licenses/mit-license.php"/>
-        </member>
-        <member name="M:CSharpUtils.EnumerableComparer`1.#ctor">
-            <summary>
-            Create a sequence comparer using the default comparer for T.
-            </summary>
-        </member>
-        <member name="M:CSharpUtils.EnumerableComparer`1.#ctor(System.Collections.Generic.IComparer{`0})">
-            <summary>
-            Create a sequence comparer, using the specified item comparer
-            for T.
-            </summary>
-            <param name="comparer">Comparer for comparing each pair of
-            items from the sequences.</param>
-        </member>
-        <member name="F:CSharpUtils.EnumerableComparer`1.comp">
-            <summary>
-            Object used for comparing each element.
-            </summary>
-        </member>
-        <member name="M:CSharpUtils.EnumerableComparer`1.Compare(System.Collections.Generic.IEnumerable{`0},System.Collections.Generic.IEnumerable{`0})">
-            <summary>
-            Compare two sequences of T.
-            </summary>
-            <param name="x">First sequence.</param>
-            <param name="y">Second sequence.</param>
-        </member>
-        <member name="M:CSharpUtils.FileUtils.CopyTree(System.String,System.String)">
-            <summary>
-            
-            </summary>
-            <param name="SourcePath"></param>
-            <param name="DestinationPath"></param>
-            <see cref="!:http://stackoverflow.com/questions/58744/best-way-to-copy-the-entire-contents-of-a-directory-in-c"/>
-        </member>
-        <member name="T:CSharpUtils.BitWriter">
-            From DeflateLib
-            http://www.koders.com/csharp/fid4D158EE81EB65FC84BC0EE0216F6F1F62FC95BD1.aspx?s=mdef%3Acompute
-            
-            <summary>
-            Helper class for writing bit values, bit blocks in LSB and MSB bits formats.
-            </summary>
-        </member>
-        <member name="T:CSharpUtils.BitReader">
-            From DeflateLib
-            http://www.koders.com/csharp/fid4D158EE81EB65FC84BC0EE0216F6F1F62FC95BD1.aspx?s=mdef%3Acompute
-            
-            <summary>
-            Helper class for writing bit values, bit blocks in LSB and MSB bits formats.
-            Doesn't read bytes ahead -- reads next byte if necessary.
-            </summary>
-        </member>
-        <member name="M:LinqExExtensions.CreateDictionary``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1})">
-            <summary>
-            See ToDictionary.
-            </summary>
-            <typeparam name="TValue"></typeparam>
-            <typeparam name="TKey"></typeparam>
-            <param name="ListItems"></param>
-            <param name="KeySelector"></param>
-            <returns></returns>
-        </member>
-        <member name="T:CSharpUtils.ProduceConsumeBuffer`1">
-            <summary>
-             @TODO Have to improve performance without allocating memory all the time. Maybe a RingBuffer or so.
-            </summary>
-            <typeparam name="T"></typeparam>
-        </member>
-        <member name="M:CSharpUtils.Factory.MockeableFactory.MockType(System.Type,System.Type)">
-            <summary>
-            
-            </summary>
-            <param name="TypeToMock"></param>
-            <param name="MockedType"></param>
-        </member>
-        <member name="M:CSharpUtils.Factory.MockeableFactory.New``1">
-            <summary>
-            
-            </summary>
-            <typeparam name="T"></typeparam>
             <returns></returns>
         </member>
         <member name="T:CSharpUtils.Diff">
@@ -555,6 +228,193 @@
             </summary>
             <param name="data">reference to the buffer</param>
         </member>
+        <member name="T:CSharpUtils.BitReader">
+            From DeflateLib
+            http://www.koders.com/csharp/fid4D158EE81EB65FC84BC0EE0216F6F1F62FC95BD1.aspx?s=mdef%3Acompute
+            
+            <summary>
+            Helper class for writing bit values, bit blocks in LSB and MSB bits formats.
+            Doesn't read bytes ahead -- reads next byte if necessary.
+            </summary>
+        </member>
+        <member name="T:CSharpUtils.BitWriter">
+            From DeflateLib
+            http://www.koders.com/csharp/fid4D158EE81EB65FC84BC0EE0216F6F1F62FC95BD1.aspx?s=mdef%3Acompute
+            
+            <summary>
+            Helper class for writing bit values, bit blocks in LSB and MSB bits formats.
+            </summary>
+        </member>
+        <member name="M:CSharpUtils.Factory.Factory.New``1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.Factory.MockeableFactory.MockType(System.Type,System.Type)">
+            <summary>
+            
+            </summary>
+            <param name="TypeToMock"></param>
+            <param name="MockedType"></param>
+        </member>
+        <member name="M:CSharpUtils.Factory.MockeableFactory.New``1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.MathFloat.Abs(System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="Value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.MathFloat.Cast(System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="Value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.MathFloat.Floor(System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="Value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.MathFloat.Ceil(System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="Value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.MathFloat.Round(System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="Value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.MathFloat.Rint(System.Single)">
+            <summary>
+            Rounds x to the nearest integer value, using the current rounding mode.
+            If the return value is not equal to x, the FE_INEXACT exception is raised.
+            nearbyint performs the same operation, but does not set the FE_INEXACT exception.
+            </summary>
+            <param name="Value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.MathFloat.ReinterpretFloatAsUInt(System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="Value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.MathFloat.ReinterpretUIntAsFloat(System.UInt32)">
+            <summary>
+            
+            </summary>
+            <param name="Value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.MathFloat.ReinterpretFloatAsInt(System.Single)">
+            <summary>
+            
+            </summary>
+            <param name="Value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.MathFloat.ReinterpretIntAsFloat(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="Value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.MathFloat.Scalb(System.Single,System.Int32)">
+            <summary>
+            Math.scalb (12.0, 3) = 96.0
+            </summary>
+            <param name="Value"></param>
+            <param name="Count"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CSharpUtils.ProduceConsumeBuffer`1">
+            <summary>
+             @TODO Have to improve performance without allocating memory all the time. Maybe a RingBuffer or so.
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="T:CSharpUtils.EnumerableComparer`1">
+            <summary>
+            Compares two sequences.
+            </summary>
+            <typeparam name="T">Type of item in the sequences.</typeparam>
+            <remarks>
+            Compares elements from the two input sequences in turn. If we
+            run out of list before finding unequal elements, then the shorter
+            list is deemed to be the lesser list.
+            </remarks>
+            <see cref="!:http://www.interact-sw.co.uk/iangblog/2007/12/13/natural-sorting"/>
+            <see cref="!:http://opensource.org/licenses/mit-license.php"/>
+        </member>
+        <member name="M:CSharpUtils.EnumerableComparer`1.#ctor">
+            <summary>
+            Create a sequence comparer using the default comparer for T.
+            </summary>
+        </member>
+        <member name="M:CSharpUtils.EnumerableComparer`1.#ctor(System.Collections.Generic.IComparer{`0})">
+            <summary>
+            Create a sequence comparer, using the specified item comparer
+            for T.
+            </summary>
+            <param name="comparer">Comparer for comparing each pair of
+            items from the sequences.</param>
+        </member>
+        <member name="F:CSharpUtils.EnumerableComparer`1.comp">
+            <summary>
+            Object used for comparing each element.
+            </summary>
+        </member>
+        <member name="M:CSharpUtils.EnumerableComparer`1.Compare(System.Collections.Generic.IEnumerable{`0},System.Collections.Generic.IEnumerable{`0})">
+            <summary>
+            Compare two sequences of T.
+            </summary>
+            <param name="x">First sequence.</param>
+            <param name="y">Second sequence.</param>
+        </member>
+        <member name="M:CSharpUtils.FileUtils.CopyTree(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="SourcePath"></param>
+            <param name="DestinationPath"></param>
+            <see cref="!:http://stackoverflow.com/questions/58744/best-way-to-copy-the-entire-contents-of-a-directory-in-c"/>
+        </member>
+        <member name="T:CSharpUtils.LazyHolder`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <see cref="T:System.Lazy`1"/>
+        </member>
+        <member name="M:LinqExExtensions.CreateDictionary``2(System.Collections.Generic.IEnumerable{``0},System.Func{``0,``1})">
+            <summary>
+            See ToDictionary.
+            </summary>
+            <typeparam name="TValue"></typeparam>
+            <typeparam name="TKey"></typeparam>
+            <param name="ListItems"></param>
+            <param name="KeySelector"></param>
+            <returns></returns>
+        </member>
         <member name="M:CSharpUtils.MathUtils.ByteSwap(System.UInt16)">
             <summary>
             Useful for converting LittleEndian to BigEndian and viceversa.
@@ -586,6 +446,146 @@
             <param name="Value"></param>
             <param name="AlignValue"></param>
             <returns></returns>
+        </member>
+        <member name="T:CSharpUtils.Streams.SliceStream">
+            <summary>
+            Class to create a SliceStream that will slice a base Stream with its own cursor.
+            </summary>
+            <example>
+            var File = File.OpenRead("file.txt");
+            var SliceFile = nSliceStream.CreateWithBounds(File, 10, 20);
+            </example>
+        </member>
+        <member name="F:CSharpUtils.Streams.SliceStream.ThisPosition">
+            <summary>
+            Cursor for this SliceStream.
+            </summary>
+        </member>
+        <member name="F:CSharpUtils.Streams.SliceStream.ThisStart">
+            <summary>
+            Start offset of this SliceStream relative to ParentStream.
+            </summary>
+        </member>
+        <member name="F:CSharpUtils.Streams.SliceStream.ThisLength">
+            <summary>
+            Length of this SliceStream.
+            </summary>
+        </member>
+        <member name="M:CSharpUtils.Streams.SliceStream.CreateWithLength(System.IO.Stream,System.Int64,System.Int64,System.Nullable{System.Boolean})">
+            <summary>
+            Creates a SliceStream specifying a start offset and a length.
+            </summary>
+            <param name="BaseStream">Base Stream</param>
+            <param name="ThisStart">Starting Offset</param>
+            <param name="ThisLength">Length of the Slice</param>
+            <param name="CanWrite">Determines if the Stream will be writtable.</param>
+            <returns>A SliceStream</returns>
+        </member>
+        <member name="M:CSharpUtils.Streams.SliceStream.CreateWithBounds(System.IO.Stream,System.Int64,System.Int64,System.Nullable{System.Boolean})">
+            <summary>
+            Creates a SliceStream specifying a start offset and a end offset.
+            </summary>
+            <param name="BaseStream">Parent Stream</param>
+            <param name="ThisStart">Starting Offset</param>
+            <param name="ThisLength">Length of the Slice</param>
+            <param name="CanWrite">Determines if the Stream will be writtable.</param>
+            <returns>A SliceStream</returns>
+        </member>
+        <member name="M:CSharpUtils.Streams.SliceStream.#ctor(System.IO.Stream,System.Int64,System.Int64,System.Nullable{System.Boolean})">
+            <summary>
+            Creates a SliceStream specifying a start offset and a length.
+            
+            Please use CreateWithLength or CreateWithBounds to initialite the object.
+            </summary>
+            <param name="BaseStream">Base Stream</param>
+            <param name="ThisStart">Starting Offset</param>
+            <param name="ThisLength">Length of the Slice</param>
+            <param name="CanWrite">Determines if the Stream will be writtable.</param>
+            <returns>A SliceStream</returns>
+        </member>
+        <member name="M:CSharpUtils.Streams.SliceStream.Seek(System.Int64,System.IO.SeekOrigin)">
+            <summary>
+            Seeks the SliceStream without altering the original Stream.
+            </summary>
+            <param name="offset">Offset to seek</param>
+            <param name="origin">Origin for the seeking</param>
+            <returns>Absolute offset after the operation</returns>
+        </member>
+        <member name="M:CSharpUtils.Streams.SliceStream.Read(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            Read a chunk from this SliceStream and move its cursor after that chunk.
+            Only will be able to read inside the bounds of this Slice.
+            It won't change the ParentStream cursor.
+            </summary>
+            <param name="buffer">ByteArray to write to</param>
+            <param name="offset">Offset of the ByteArray to write to</param>
+            <param name="count">Number of bytes to read</param>
+            <returns>Number of bytes readed</returns>
+        </member>
+        <member name="M:CSharpUtils.Streams.SliceStream.Write(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            Writes a chunk from this SliceStream and move its cursor after that chunk.
+            Only will be able to write inside the bounds of this Slice.
+            It won't change the ParentStream cursor.
+            </summary>
+            <param name="buffer">ByteArray to read from</param>
+            <param name="offset">Offset of the ByteArray to read from</param>
+            <param name="count">Number of bytes to write</param>
+        </member>
+        <member name="M:CSharpUtils.Streams.SliceStream.SetLength(System.Int64)">
+            <summary>
+            Not implemented.
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="P:CSharpUtils.Streams.SliceStream.Length">
+            <summary>
+            Gets the length of the SliceStream.
+            </summary>
+        </member>
+        <member name="P:CSharpUtils.Streams.SliceStream.Position">
+            <summary>
+            Gets or sets the current cursor for this SliceStream.
+            </summary>
+        </member>
+        <member name="M:CSharpUtils.Threading.GreenThread.SwitchTo">
+            <summary>
+            Called from the caller thread.
+            This will give the control to the green thread.
+            </summary>
+        </member>
+        <member name="M:CSharpUtils.Threading.GreenThread.Yield">
+            <summary>
+            Called from the green thread.
+            This will return the control to the caller thread.
+            </summary>
+        </member>
+        <member name="T:CSharpUtils.Wildcard">
+            <summary>
+            Represents a wildcard running on the
+            <see cref="N:System.Text.RegularExpressions"/> engine.
+            </summary>
+        </member>
+        <member name="M:CSharpUtils.Wildcard.#ctor(System.String)">
+            <summary>
+            Initializes a wildcard with the given search pattern.
+            </summary>
+            <param name="pattern">The wildcard pattern to match.</param>
+        </member>
+        <member name="M:CSharpUtils.Wildcard.#ctor(System.String,System.Text.RegularExpressions.RegexOptions)">
+            <summary>
+            Initializes a wildcard with the given search pattern and options.
+            </summary>
+            <param name="pattern">The wildcard pattern to match.</param>
+            <param name="options">A combination of one or more
+            <see cref="!:System.Text.RegexOptions"/>.</param>
+        </member>
+        <member name="M:CSharpUtils.Wildcard.WildcardToRegex(System.String)">
+            <summary>
+            Converts a wildcard to a regex.
+            </summary>
+            <param name="pattern">The wildcard pattern to convert.</param>
+            <returns>A regex equivalent of the given wildcard.</returns>
         </member>
     </members>
 </doc>

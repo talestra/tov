@@ -16,7 +16,8 @@ namespace TalesOfVesperiaUtils.Text
 		public DetectPitfalls()
 		{
 			//ReferencesRegex = new Regex("(\x02|\x03)(\\(\\w+\\))", RegexOptions.Compiled | RegexOptions.Multiline);
-			Logger = new Logger(CSharpUtils.Logger.Level.Error);
+
+			Logger = new Logger();
 			ReferencesRegex = new Regex(@"[\x01|\x02|\x03|\x04|\x05](\(\w+\))", RegexOptions.Compiled | RegexOptions.Multiline);
 			ReferencesPitfalledRegex = new Regex(@"(^|[^\x01|\x02|\x03|\x04|\x05])(\(\w+\))", RegexOptions.Compiled | RegexOptions.Multiline);
 		}
@@ -28,14 +29,13 @@ namespace TalesOfVesperiaUtils.Text
 
 		public void DetectAndFix(String Base, ref String Modified)
 		{
-			Logger.Log(Logger.Level.Info, "Detecting Pitfalls: '{0}' -> '{1}'", Base, Modified);
+			Logger.Info("Detecting Pitfalls: '{0}' -> '{1}'", Base, Modified);
 
 			var BaseMatches = ReferencesRegex.Matches(Base);
 			var ModifiedMatches = ReferencesRegex.Matches(Modified);
 			if (BaseMatches.Count != ModifiedMatches.Count)
 			{
-				Logger.Log(
-					Logger.Level.Warning, 
+				Logger.Warning(
 					"Reference mismatch ({0} -> {1}) :: ('{2}' -> '{3}')",
 					BaseMatches.Count,
 					ModifiedMatches.Count,
@@ -47,8 +47,7 @@ namespace TalesOfVesperiaUtils.Text
 				foreach (Match Match in BaseMatches)
 				{
 					PitfallFixerDictionary[Match.Groups[1].Value] = Match.Groups[0].Value;
-					Logger.Log(
-						Logger.Level.Info,
+					Logger.Info(
 						"ADD_FIX: {0} -> {1}",
 						Match.Groups[1].Value,
 						Match.Groups[0].Value
@@ -67,8 +66,7 @@ namespace TalesOfVesperiaUtils.Text
 					{
 						ReplaceValue = PitfallFixerDictionary[BaseValue];
 
-						Logger.Log(
-							Logger.Level.Info,
+						Logger.Info(
 							"FIXED: '{0}' -> '{1}'",
 							BaseValue,
 							ReplaceValue
@@ -76,8 +74,7 @@ namespace TalesOfVesperiaUtils.Text
 					}
 					else
 					{
-						Logger.Log(
-							Logger.Level.Error,
+						Logger.Error(
 							"CAN'T FIX: '{0}'",
 							BaseValue
 						);
@@ -86,7 +83,7 @@ namespace TalesOfVesperiaUtils.Text
 					return PrependValue + ReplaceValue + AppendValue;
 				});
 
-				Logger.Log(Logger.Level.Warning, " --> " + Modified);
+				Logger.Warning(" --> " + Modified);
 			}
 		}
 	}
