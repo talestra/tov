@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{26B46DD3-FF59-4701-BC09-1E793D05DBEE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TalesOfVesperiaUtils</RootNamespace>
+    <AssemblyName>TalesOfVesperiaUtils</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSharpUtils, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\Libs\CSharpUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="CSharpUtils.Drawing">
+      <HintPath>..\..\Libs\CSharpUtils.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="CSharpUtils.Ext, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\Libs\CSharpUtils.Ext.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\Libs\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\Libs\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="protobuf-net">
+      <HintPath>..\..\Libs\protobuf-net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Compression\CAB\CABUtils.cs" />
+    <Compile Include="Compression\C\complib.cs" />
+    <Compile Include="Compression\C\complib.decode.cs" />
+    <Compile Include="Compression\C\lzx_vesp.cs" />
+    <Compile Include="Compression\LzxCompression.cs" />
+    <Compile Include="Compression\TalesCompression.cs" />
+    <Compile Include="Compression\TalesCompression1_3.cs" />
+    <Compile Include="Compression\TalesCompression4.cs" />
+    <Compile Include="Compression\TalesCompression15_Lzx.cs" />
+    <Compile Include="Compression\LZX\LZXState.cs" />
+    <Compile Include="Formats\ACME1.cs" />
+    <Compile Include="Formats\Packages\BasePackage.cs" />
+    <Compile Include="Formats\Packages\Dvd9Xbox360.cs" />
+    <Compile Include="Formats\Packages\Sample\Dvd9Xbox360Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formats\Packages\FPS4.cs" />
+    <Compile Include="Formats\Packages\TO8SCEL.cs" />
+    <Compile Include="Formats\Script\TSS.cs" />
+    <Compile Include="Formats\Packages\TO8CHTX.cs" />
+    <Compile Include="Formats\Script\TSS.Nodes.cs" />
+    <Compile Include="Formats\Script\TSS.Utils.cs" />
+    <Compile Include="Imaging\DXT5.cs" />
+    <Compile Include="Imaging\Swizzling.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Text\CharacterMapping.cs" />
+    <Compile Include="Text\DetectPitfalls.cs" />
+    <Compile Include="Text\TextProcessor.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CharacterMapping.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

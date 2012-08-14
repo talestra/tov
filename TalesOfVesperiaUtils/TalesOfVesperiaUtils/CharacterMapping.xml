@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<mapping>
+  <map from="ñ" to="ã" fromseq="C3 B1" toseq="C3 A3" />
+  <map from="Ñ" to="Ã" fromseq="C3 91" toseq="C3 83" />
+  <map from="¡" to="Ï" fromseq="C2 A1" toseq="C3 8F" />
+  <map from="¿" to="Ë" fromseq="C2 BF" toseq="C3 8B" />
+</mapping>

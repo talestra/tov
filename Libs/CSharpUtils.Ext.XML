@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CSharpUtils.Ext</name>
+    </assembly>
+    <members>
+        <member name="M:CSharpUtils.SpaceAssigner.SpaceAssigner1D.Allocate(System.Int64)">
+            Finds an Available Space Chunk that has a length greater or equals to
+            the specified one.
+        </member>
+        <member name="M:CSharpUtils.SpaceAssigner.SpaceAssigner1D.Allocate(System.Int64[])">
+            <summary>
+            @TODO In order to avoid a greedy behaviour, Allocate[] should have the code and
+                  Allocate should use this function with a single item.
+            </summary>
+            <param name="RequiredLengths"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CSharpUtils.Extensions.LinqExExtensionsExt.ForEach``1(System.Linq.ParallelQuery{``0},System.Action{``0})">
+            <summary>
+            http://msdn.microsoft.com/en-us/magazine/cc163329.aspx
+            http://stackoverflow.com/questions/3789998/parallel-foreach-vs-foreachienumerablet-asparallel
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="Items"></param>
+            <param name="action"></param>
+        </member>
+    </members>
+</doc>
