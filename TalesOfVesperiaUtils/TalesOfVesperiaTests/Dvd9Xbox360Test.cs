@@ -24,12 +24,13 @@ namespace TalesOfVesperiaTests
 			var Dvd9Xbox360 = new Dvd9Xbox360().Load(FileStreamAnalyzed);
 
 			// Analyze.
-			var MapStream = FileStreamAnalyzed.ConvertSpacesToMapStream(FileStreamAnalyzed.ReadUsage);
+			var MapStream = FileStreamAnalyzed.ConvertSpacesToMapStream(FileStreamAnalyzed.ReadUsage.JoinWithThresold());
 
 			// Dump the analyzed data.
             SerializerUtils.SerializeToMemoryStream(MapStream.Serialize).CopyToFile(Utils.TestInputPath + "/mini_iso.bin");
 #else
             var FileStream = MapStream.Unserialize(new MemoryStream(File.OpenRead(Utils.TestInputPath + "/mini_iso.bin").ReadAll()));
+			Console.WriteLine(FileStream.StreamEntries.ToStringArray("\r\n"));
             var Dvd9Xbox360 = new Dvd9Xbox360().Load(FileStream);
 #endif
             
