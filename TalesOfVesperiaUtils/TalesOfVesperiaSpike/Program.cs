@@ -11,7 +11,9 @@ using System.Drawing;
 using ProtoBuf;
 using Newtonsoft.Json;
 using TalesOfVesperiaUtils.Compression;
+using CSharpUtils.Streams;
 
+#if false
 namespace TalesOfVesperiaSpike
 {
 	class Program
@@ -320,6 +322,56 @@ namespace TalesOfVesperiaSpike
 #endif
 			Console.WriteLine("Done. Press any key to continue.");
 			Console.ReadKey();
+		}
+	}
+}
+#endif
+
+namespace TalesOfVesperiaSpike
+{
+	class Utils
+	{
+		static public string TestInputPath = "../../../TestInput";
+	}
+
+	public class Program
+	{
+		static void Main(string[] Args)
+		{
+#if true
+
+            //var FilePath = @"I:\isos\360\Tales of Vesperia [PAL] [Multi3] [English] [Xbox360].iso";
+			var FilePath = @"E:\Isos\360\games\Tales of Vesperia [PAL] [Multi3] [English] [Xbox360].iso";
+            var FileStream = File.OpenRead(FilePath);
+            var FileStreamAnalyzed = new ProxyStreamReadWriteAnalyzer(FileStream);
+
+			var Out = ConsoleUtils.CaptureOutput(() =>
+			{
+				var Dvd9Xbox360 = new Dvd9Xbox360().Load(FileStreamAnalyzed);
+			});
+
+			// Analyze.
+			var MapStream = FileStreamAnalyzed.ConvertSpacesToMapStream(FileStreamAnalyzed.ReadUsage.JoinWithThresold(Thresold: 32));
+
+			// Dump the analyzed data.
+            SerializerUtils.SerializeToMemoryStream(MapStream.Serialize).CopyToFile(Utils.TestInputPath + "/mini_iso.bin");
+#else
+			var FileStream = MapStream.Unserialize(new MemoryStream(File.OpenRead(Utils.TestInputPath + "/mini_iso.bin").ReadAll()));
+			//Console.WriteLine(FileStream.StreamEntries.ToStringArray("\r\n"));
+			var Out = ConsoleUtils.CaptureOutput(() =>
+			{
+				try
+				{
+					var Dvd9Xbox360 = new Dvd9Xbox360().Load(new ProxyStreamReadWriteAnalyzer(FileStream));
+				}
+				catch (Exception Exception)
+				{
+					Console.Error.WriteLine(Exception);
+				}
+			});
+#endif
+			Console.WriteLine(Out);
+			//Console.ReadKey();
 		}
 	}
 }
