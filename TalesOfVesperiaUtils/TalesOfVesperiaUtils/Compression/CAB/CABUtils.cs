@@ -6,7 +6,6 @@ using System.Runtime.InteropServices;
 using System.Diagnostics;
 using System.IO;
 using CSharpUtils;
-using CSharpUtils.Extensions;
 
 namespace TalesOfVesperiaUtils.Compression.CAB
 {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using CSharpUtils;
 using CSharpUtils.Streams;
-using CSharpUtils.Extensions;
+using CSharpUtils;
 using System.IO;
 
 namespace TalesOfVesperiaUtils.Formats.Script

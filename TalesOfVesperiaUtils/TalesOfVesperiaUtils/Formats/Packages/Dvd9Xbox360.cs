@@ -1,11 +1,12 @@
-﻿using System;
+﻿#define DEBUG_ISO_LOADING
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.IO;
 using CSharpUtils;
 using CSharpUtils.Streams;
-using CSharpUtils.Extensions;
 using System.Runtime.InteropServices;
 
 namespace TalesOfVesperiaUtils.Formats.Packages
@@ -56,7 +57,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			return SliceStream.CreateWithLength(Stream, LBA * SECTOR_SIZE, Size);
 		}
 
-		public void Load(Stream Stream)
+        public Dvd9Xbox360 Load(Stream Stream)
 		{
 			IsoStream = GetStreamByLBA(Stream, XDVDFS_SECTOR_XBOX360);
 			var StartStream = GetStreamByLBA(IsoStream, 0x20);
@@ -71,6 +72,8 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				RootStream: GetStreamByLBA(IsoStream, MediaHeader.RootSector, MediaHeader.RootSize),
 				EntryParent: RootEntry
 			);
+
+            return this;
 		}
 
 		public enum EntryAttributes : byte
@@ -237,7 +240,9 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			uint LeftNodeOffset = (uint)(NodeReader.ReadUInt16() * 4);
 			uint RightNodeOffset = (uint)(NodeReader.ReadUInt16() * 4);
 
-			//Console.WriteLine("LEFT: {0:X}, RIGHT: {1:X}", LeftNodeOffset, RightNodeOffset);
+#if DEBUG_ISO_LOADING
+			Console.WriteLine("LEFT: {0:X}, RIGHT: {1:X}", LeftNodeOffset, RightNodeOffset);
+#endif
 
 			var Entry = new Entry();
 			Entry.Dvd9Xbox360 = this;
@@ -270,9 +275,13 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 			{
 				EntryParent.Childs.Add(Entry);
-				//Console.Error.WriteLine("--- {0}", Entry.Name);
+#if DEBUG_ISO_LOADING
+				Console.Error.WriteLine("--- {0}", Entry.Name);
+#endif
 				EntryParent.ChildsByName.Add(Entry.Name, Entry);
-				//Console.WriteLine(Entry);
+#if DEBUG_ISO_LOADING
+				Console.WriteLine(Entry);
+#endif
 			}
 
 			if (RightNodeOffset > 0)

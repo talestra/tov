@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Runtime.InteropServices;
 using CSharpUtils;
-using CSharpUtils.Extensions;
 using System.IO;
 using TalesOfVesperiaUtils.Compression.C;
 using CSharpUtils.Endian;
