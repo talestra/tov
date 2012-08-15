@@ -11,13 +11,11 @@ namespace TalesOfVesperiaUtils.Text
 	{
 		public Regex ReferencesRegex;
 		public Regex ReferencesPitfalledRegex;
-		public Logger Logger;
+        public Logger Logger = Logger.CreateAnonymousLogger();
 
 		public DetectPitfalls()
 		{
 			//ReferencesRegex = new Regex("(\x02|\x03)(\\(\\w+\\))", RegexOptions.Compiled | RegexOptions.Multiline);
-
-			Logger = new Logger();
 			ReferencesRegex = new Regex(@"[\x01|\x02|\x03|\x04|\x05](\(\w+\))", RegexOptions.Compiled | RegexOptions.Multiline);
 			ReferencesPitfalledRegex = new Regex(@"(^|[^\x01|\x02|\x03|\x04|\x05])(\(\w+\))", RegexOptions.Compiled | RegexOptions.Multiline);
 		}

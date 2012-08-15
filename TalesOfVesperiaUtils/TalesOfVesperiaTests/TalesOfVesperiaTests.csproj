@@ -35,12 +35,6 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CSharpUtils, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\Libs\CSharpUtils.dll</HintPath>
-    </Reference>
-    <Reference Include="CSharpUtils.Ext, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\Libs\CSharpUtils.Ext.dll</HintPath>
-    </Reference>
     <Reference Include="ICSharpCode.SharpZipLib, Version=0.86.0.518, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\Libs\ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
@@ -86,6 +80,18 @@
     <Compile Include="Utils.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Drawing\CSharpUtils.Drawing.csproj">
+      <Project>{9B217880-48AE-43B6-AE1F-DC732FCCBC7A}</Project>
+      <Name>CSharpUtils.Drawing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Ext\CSharpUtils.Ext.csproj">
+      <Project>{C017FBBE-EF10-4030-A69E-204E766C8F9D}</Project>
+      <Name>CSharpUtils.Ext</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils\CSharpUtils.csproj">
+      <Project>{746FADF2-D613-4FFD-8551-2181ADAE3CD1}</Project>
+      <Name>CSharpUtils</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TalesOfVesperiaTranslationEngine\TalesOfVesperiaTranslationEngine.csproj">
       <Project>{4B155ADE-E14A-402D-89CB-2D4A85944BF3}</Project>
       <Name>TalesOfVesperiaTranslationEngine</Name>

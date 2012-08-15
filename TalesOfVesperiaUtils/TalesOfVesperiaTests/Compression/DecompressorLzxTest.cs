@@ -4,7 +4,6 @@ using System;
 using System.IO;
 using System.Security.Cryptography;
 using CSharpUtils;
-using CSharpUtils.Extensions;
 
 namespace TalesOfVesperiaTests
 {

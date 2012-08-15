@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 using System.IO;
 using CSharpUtils;
 using CSharpUtils.Streams;
-using CSharpUtils.Extensions;
+using CSharpUtils;
 using TalesOfVesperiaUtils.Compression;
 using CSharpUtils.Endian;
 

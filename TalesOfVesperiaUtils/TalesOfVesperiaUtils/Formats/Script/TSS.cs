@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using CSharpUtils;
 using CSharpUtils.Streams;
-using CSharpUtils.Extensions;
 using System.Runtime.InteropServices;
 using System.IO;
 using CSharpUtils.Endian;

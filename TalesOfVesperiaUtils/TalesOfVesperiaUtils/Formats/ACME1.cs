@@ -6,7 +6,7 @@ using ICSharpCode.SharpZipLib.Zip;
 using System.IO;
 using CSharpUtils;
 using CSharpUtils.Streams;
-using CSharpUtils.Extensions;
+using CSharpUtils;
 using System.Text.RegularExpressions;
 
 namespace TalesOfVesperiaUtils.Formats
