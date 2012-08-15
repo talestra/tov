@@ -14,41 +14,48 @@ namespace TalesOfVesperiaTests
 		[TestMethod]
 		public void LoadTest()
 		{
-			
-#if true
-            //var FilePath = @"I:\isos\360\Tales of Vesperia [PAL] [Multi3] [English] [Xbox360].iso";
-			var FilePath = @"E:\Isos\360\games\Tales of Vesperia [PAL] [Multi3] [English] [Xbox360].iso";
-            var FileStream = File.OpenRead(FilePath);
-            var FileStreamAnalyzed = new ProxyStreamReadWriteAnalyzer(FileStream);
-
-			var Dvd9Xbox360 = new Dvd9Xbox360().Load(FileStreamAnalyzed);
-
-			// Analyze.
-			var MapStream = FileStreamAnalyzed.ConvertSpacesToMapStream(FileStreamAnalyzed.ReadUsage.JoinWithThresold());
-
-			// Dump the analyzed data.
-            SerializerUtils.SerializeToMemoryStream(MapStream.Serialize).CopyToFile(Utils.TestInputPath + "/mini_iso.bin");
-#else
-            var FileStream = MapStream.Unserialize(new MemoryStream(File.OpenRead(Utils.TestInputPath + "/mini_iso.bin").ReadAll()));
-			Console.WriteLine(FileStream.StreamEntries.ToStringArray("\r\n"));
-            var Dvd9Xbox360 = new Dvd9Xbox360().Load(FileStream);
+#if false
+			bool GENERATE_MINI_ISO = false;
 #endif
-            
-			Assert.AreEqual(
-				"EntryStruct(FullName='/language/scenario_us.dat', Offset=689559, Size=64369024, Attributes=File)",
-				Dvd9Xbox360.RootEntry["/language/scenario_us.dat"].ToString()
-			);
-			var Stream = Dvd9Xbox360.RootEntry["/language/scenario_us.dat"].Open();
-			Console.WriteLine(Stream.ReadString(16, Encoding.UTF8));
+			Dvd9Xbox360 Dvd9Xbox360;
+			MapStream mapStream;
+			ProxyStreamReadWriteAnalyzer FileStreamAnalyzed;
+			Stream FileStream;
 
-			//Dvd9Xbox360.RootEntry["/language/scenario_us.dat.no"].ToString();
-
-			/*
-			foreach (var Item in Dvd9Xbox360.RootEntry.Descendant)
+#if false
+			if (GENERATE_MINI_ISO)
 			{
-				Console.WriteLine(Item);
+				//var FilePath = @"I:\isos\360\Tales of Vesperia [PAL] [Multi3] [English] [Xbox360].iso";
+				var FilePath = @"E:\Isos\360\games\Tales of Vesperia [PAL] [Multi3] [English] [Xbox360].iso";
+				FileStream = File.OpenRead(FilePath);
 			}
-			*/
+			else
+#endif
+			{
+				mapStream = MapStream.Unserialize(new MemoryStream(File.OpenRead(Utils.TestInputPath + "/mini_iso.bin").ReadAll()));
+				FileStream = mapStream;
+			}
+
+			FileStreamAnalyzed = new ProxyStreamReadWriteAnalyzer(FileStream);
+			Dvd9Xbox360 = new Dvd9Xbox360().Load(FileStreamAnalyzed);
+
+			Assert.AreEqual(
+				"EntryStruct(FullName='/snd/config.bin', Offset=366721, Size=3040, Attributes=File)",
+				Dvd9Xbox360.RootEntry["/snd/config.bin"].ToString()
+			);
+			var Stream = Dvd9Xbox360.RootEntry["/snd/config.bin"].Open();
+			var TextReaded = Stream.ReadString(4, Encoding.UTF8);
+
+			Assert.AreEqual("nusc", TextReaded);
+
+#if false
+			if (GENERATE_MINI_ISO)
+			{
+				// Analyze.
+				mapStream = FileStreamAnalyzed.ConvertSpacesToMapStream(FileStreamAnalyzed.ReadUsage.JoinWithThresold(Thresold: 32));
+				SerializerUtils.SerializeToMemoryStream(mapStream.Serialize).CopyToFile(Utils.TestInputPath + "/mini_iso.bin");
+			}
+#endif
 		}
 	}
 }

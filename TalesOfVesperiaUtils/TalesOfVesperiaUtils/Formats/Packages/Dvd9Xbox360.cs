@@ -1,4 +1,4 @@
-﻿#define DEBUG_ISO_LOADING
+﻿//#define DEBUG_ISO_LOADING
 
 using System;
 using System.Collections.Generic;
@@ -21,16 +21,31 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 		public Entry RootEntry;
 		protected Stream IsoStream;
 
+		/// <summary>
+		/// 
+		/// </summary>
 		[StructLayout(LayoutKind.Sequential)]
 		struct MediaHeaderStruct
 		{
+			/// <summary>
+			/// 
+			/// </summary>
 			[MarshalAs(UnmanagedType.ByValArray, SizeConst = 20, ArraySubType = UnmanagedType.AnsiBStr)]
 			public byte[] Magic;
 
+			/// <summary>
+			/// 
+			/// </summary>
 			public uint RootSector;
 
+			/// <summary>
+			/// 
+			/// </summary>
 			public uint RootSize;
 
+			/// <summary>
+			/// 
+			/// </summary>
 			String MagicString
 			{
 				get
@@ -39,6 +54,9 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				}
 			}
 
+			/// <summary>
+			/// 
+			/// </summary>
 			public void CheckValid()
 			{
 				if (MagicString != "MICROSOFT*XBOX*MEDIA")
