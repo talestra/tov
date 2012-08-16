@@ -336,6 +336,8 @@ namespace TalesOfVesperiaSpike
 
 	public class Program
 	{
+		static string VesperiaFolder = @"D:\isos\360\vesperia";
+
 		static void UncompressUiImage(string BaseFileName)
 		{
 			//Console.WriteLine();
@@ -343,15 +345,17 @@ namespace TalesOfVesperiaSpike
 
 			//var BaseFileName = "COMALL";
 
+			
+
 			var Txm = (new TXM()).Load(
-				File.OpenRead(@"C:\isos\360\vesperia\UI.svo.d\" + BaseFileName + ".TXM"),
-				File.OpenRead(@"C:\isos\360\vesperia\UI.svo.d\" + BaseFileName + ".TXV")
+				File.OpenRead(VesperiaFolder + @"\UI.svo.d\" + BaseFileName + ".TXM"),
+				File.OpenRead(VesperiaFolder + @"\UI.svo.d\" + BaseFileName + ".TXV")
 			);
 			//Console.WriteLine(Txm.ImageEntries.ToStringArray("\n"));
 			Console.WriteLine("{0}:", BaseFileName);
 			foreach (var ImageEntry in Txm.Surface2DEntries)
 			{
-				var ImageEntryFileName = @"C:\isos\360\vesperia\UI.svo.d\images\" + ImageEntry.Name + ".png";
+				var ImageEntryFileName = VesperiaFolder + @"\UI.svo.d\images\" + BaseFileName + "." + ImageEntry.Name + ".png";
 				Console.Write("  {0}.png : {1}...", ImageEntry.Name, ImageEntry.ImageEntry.ImageFileFormat.TextureFormat);
 				Console.WriteLine(ImageEntry.ImageEntry);
 				if (!File.Exists(ImageEntryFileName))
@@ -367,7 +371,7 @@ namespace TalesOfVesperiaSpike
 
 			foreach (var ImageEntry in Txm.Surface3DEntries)
 			{
-				var ImageEntryFileNameTest = @"C:\isos\360\vesperia\UI.svo.d\images\" + ImageEntry.Name + "." + 0 + ".png";
+				var ImageEntryFileNameTest = VesperiaFolder + @"\UI.svo.d\images\" + BaseFileName + "." + ImageEntry.Name + "." + 0 + ".png";
 
 				Console.Write("  {0}...", ImageEntry.Name);
 
@@ -376,7 +380,7 @@ namespace TalesOfVesperiaSpike
 					int n = 0;
 					foreach (var Bitmap in ImageEntry.Bitmaps.Bitmaps)
 					{
-						var ImageEntryFileName = @"C:\isos\360\vesperia\UI.svo.d\images\" + ImageEntry.Name + "." + n + ".png";
+						var ImageEntryFileName = VesperiaFolder + @"\UI.svo.d\images\" + BaseFileName + "." + ImageEntry.Name + "." + n + ".png";
 						Console.Write("  {0}.png : {1}...", ImageEntry.Name, ImageEntry.ImageEntry.ImageFileFormat.TextureFormat);
 						//Console.WriteLine(ImageEntry.ImageEntry);
 
@@ -408,7 +412,7 @@ namespace TalesOfVesperiaSpike
 			//var BaseFileName = "WORLDMAP";
 
 #if true
-			foreach (var BaseFullFileName in Directory.GetFiles(@"C:\isos\360\vesperia\UI.svo.d", "*.TXM", SearchOption.TopDirectoryOnly))
+			foreach (var BaseFullFileName in Directory.GetFiles(VesperiaFolder + @"\UI.svo.d", "*.TXM", SearchOption.TopDirectoryOnly))
 			{
 				UncompressUiImage(new FileInfo(BaseFullFileName).Name.Substr(0, -4));
 			}

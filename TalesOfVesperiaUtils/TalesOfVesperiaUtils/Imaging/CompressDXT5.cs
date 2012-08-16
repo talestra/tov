@@ -10,30 +10,48 @@ namespace TalesOfVesperiaUtils.Imaging
 {
 	unsafe public class CompressDXT5
 	{
-		public struct _Y_CO_CG_A
+		public struct byte4
 		{
 			public byte V0, V1, V2, V3;
 
-			static public implicit operator _Y_CO_CG_A(Y_CO_CG_A In)
+			public byte4(byte V0, byte V1, byte V2, byte V3)
 			{
-				return new _Y_CO_CG_A()
+				this.V0 = V0;
+				this.V1 = V1;
+				this.V2 = V2;
+				this.V3 = V3;
+			}
+
+			static public implicit operator byte4(Y_CO_CG_A In)
+			{
+				return new byte4()
 				{
-					V0 = In.CO,
-					V1 = In.CG,
+					V0 = (byte)In.CO,
+					V1 = (byte)In.CG,
 					V2 = In.A,
 					V3 = In.Y,
 				};
 			}
 
-			static public implicit operator Y_CO_CG_A(_Y_CO_CG_A In)
+			static public implicit operator Y_CO_CG_A(byte4 In)
 			{
 				return new Y_CO_CG_A()
 				{
-					CO = In.V0,
-					CG = In.V1,
+					CO = (byte)In.V0,
+					CG = (byte)In.V1,
 					A = In.V2,
 					Y = In.V3,
 				};
+			}
+
+			static public implicit operator ARGB_Rev(byte4 In)
+			{
+				return new ARGB_Rev(In.V0, In.V1, In.V2, In.V3);
+			}
+
+			static public implicit operator byte4(ARGB_Rev In)
+			{
+				return new byte4(In.A, In.R, In.G, In.B);
 			}
 		}
 
@@ -57,7 +75,7 @@ namespace TalesOfVesperiaUtils.Imaging
 		/// </summary>
 		const int C565_6_MASK = 0xFC;
 
-		static private void GetMinMaxYCoCg(_Y_CO_CG_A[] ColorBlock, out _Y_CO_CG_A MinColor, out _Y_CO_CG_A MaxColor)
+		static private void GetMinMaxYCoCg(byte4[] ColorBlock, out byte4 MinColor, out byte4 MaxColor)
 		{
 			MinColor.V0 = MinColor.V1 = MinColor.V2 = MinColor.V3 = 0xFF;
 			MaxColor.V0 = MaxColor.V1 = MaxColor.V2 = MaxColor.V3 = 0x00;
@@ -76,7 +94,7 @@ namespace TalesOfVesperiaUtils.Imaging
 			}
 		}
 
-		static private void ScaleYCoCg(_Y_CO_CG_A[] ColorBlock, ref _Y_CO_CG_A MinColor, ref _Y_CO_CG_A MaxColor)
+		static private void ScaleYCoCg(byte4[] ColorBlock, ref byte4 MinColor, ref byte4 MaxColor)
 		{
 			int i;
 			int m0 = Math.Abs(MinColor.V0 - 128);
@@ -110,7 +128,7 @@ namespace TalesOfVesperiaUtils.Imaging
 			}
 		}
 
-		static private void InsetYCoCgBBox(ref _Y_CO_CG_A minColor, ref _Y_CO_CG_A maxColor)
+		static private void InsetYCoCgBBox(ref byte4 minColor, ref byte4 maxColor)
 		{
 			var inset = stackalloc int[4];
 			var mini = stackalloc int[4];
@@ -145,7 +163,7 @@ namespace TalesOfVesperiaUtils.Imaging
 			maxColor.V3 = (byte)(maxi[3]);
 		}
 
-		static private void SelectYCoCgDiagonal(_Y_CO_CG_A[] colorBlock, ref _Y_CO_CG_A MinColor, ref _Y_CO_CG_A MaxColor)
+		static private void SelectYCoCgDiagonal(byte4[] colorBlock, ref byte4 MinColor, ref byte4 MaxColor)
 		{
 			int i;
 			byte c0, c1;
@@ -272,23 +290,42 @@ namespace TalesOfVesperiaUtils.Imaging
 
 		static public void CompressBlock(ARGB_Rev[] Colors, ref DXT5.Block Block)
 		{
-			var ColorsCoGg = new _Y_CO_CG_A[16];
-			for (int n = 0; n < 16; n++) ColorsCoGg[n] = (_Y_CO_CG_A)(Y_CO_CG_A)Colors[n];
+			var ColorsCoGg = new byte4[16];
+			Console.WriteLine(Colors.ToStringArray());
+			for (int n = 0; n < 16; n++) ColorsCoGg[n] = (byte4)Colors[n];
 			CompressBlock(ColorsCoGg, ref Block);
 		}
 
-		static public void CompressBlock(_Y_CO_CG_A[] Colors, ref DXT5.Block Block)
+		static public void CompressBlock(byte4[] Colors, ref DXT5.Block Block)
 		{
-			var MinColor = default(_Y_CO_CG_A);
-			var MaxColor = default(_Y_CO_CG_A);
+			var MinColor = default(byte4);
+			var MaxColor = default(byte4);
+
+			Console.WriteLine(Colors.Select(Color => (ARGB_Rev)(Y_CO_CG_A)Color).ToStringArray());
 
 			GetMinMaxYCoCg(Colors, out MinColor, out MaxColor);
+
+			Console.WriteLine("-");
+			Console.WriteLine((ARGB_Rev)MinColor);
+			Console.WriteLine((ARGB_Rev)MaxColor);
+
 			ScaleYCoCg(Colors, ref MinColor, ref MaxColor);
+
+			Console.WriteLine("-");
+			Console.WriteLine((ARGB_Rev)MinColor);
+			Console.WriteLine((ARGB_Rev)MaxColor);
+
 			InsetYCoCgBBox(ref MinColor, ref MaxColor);
+
+			Console.WriteLine("-");
+			Console.WriteLine((ARGB_Rev)MinColor);
+			Console.WriteLine((ARGB_Rev)MaxColor);
+
 			SelectYCoCgDiagonal(Colors, ref MinColor, ref MaxColor);
 
-			Console.WriteLine((ARGB_Rev)(Y_CO_CG_A)MinColor);
-			Console.WriteLine((ARGB_Rev)(Y_CO_CG_A)MaxColor);
+			Console.WriteLine("-");
+			Console.WriteLine((ARGB_Rev)MinColor);
+			Console.WriteLine((ARGB_Rev)MaxColor);
 		}
 	}
 }
