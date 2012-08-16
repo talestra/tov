@@ -8,6 +8,7 @@ using System.Drawing.Imaging;
 using System.IO;
 using CSharpUtils.Endian;
 using CSharpUtils;
+using CSharpUtils.Drawing;
 
 namespace TalesOfVesperiaUtils.Imaging
 {
@@ -19,7 +20,7 @@ namespace TalesOfVesperiaUtils.Imaging
 			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
 			int BlockWidth = Width / 4, BlockHeight = Height / 4;
 			var BlockCount = BlockWidth * BlockHeight;
-			var CurrentDecodedColors = new Color[16];
+			var CurrentDecodedColors = new ARGB_Rev[16];
 			var Blocks = new Block[(uint)BlockCount];
 
 			for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
@@ -50,46 +51,136 @@ namespace TalesOfVesperiaUtils.Imaging
 		{
 			if ((Width % 4) != 0 || (Height % 4) != 0) throw(new InvalidDataException());
 			var Bitmap = new Bitmap(Width, Height);
+			Bitmap.LockBitsUnlock(PixelFormat.Format32bppArgb, (BitmapData) =>
+			{
+				var Base = (ARGB_Rev*)BitmapData.Scan0.ToPointer();
+
+				int BlockWidth = Width / 4, BlockHeight = Height / 4;
+				var BlockCount = BlockWidth * BlockHeight;
+				var CurrentDecodedColors = new ARGB_Rev[16];
+				var Blocks = File.ReadStructVector<Block>((uint)BlockCount);
+
+				for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
+				{
+					int TileX, TileY;
+					if (Swizzled)
+					{
+						Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth, 16, out TileX, out TileY);
+					}
+					else
+					{
+						TileX = dxt5_n % BlockWidth;
+						TileY = dxt5_n / BlockWidth;
+					}
+
+					Blocks[dxt5_n].Decode(ref CurrentDecodedColors);
+
+					int PositionX = TileX * 4;
+					int PositionY = TileY * 4;
+					int n = 0;
+
+					if ((PositionX + 3 >= Bitmap.Width) || (PositionY + 3 >= Bitmap.Height))
+					{
+						Console.Error.Write("Warning!");
+						continue;
+					}
+
+					for (int y = 0; y < 4; y++)
+					{
+						for (int x = 0; x < 4; x++)
+						{
+							Base[(PositionY + y) * Width + (PositionX + x)] = CurrentDecodedColors[n];
+							n++;
+						}
+					}
+				}
+			});
+
+			return Bitmap;
+		}
+
+		static public BitmapList LoadSwizzled3D(Stream File, int Width, int Height, int Depth, bool Swizzled = true)
+		{
+			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
+
+			//Width *= 4;
+			//Height *= 4;
+
+			var BitmapList = new BitmapList(Depth);
+			var BitmapListData = new BitmapData[Depth];
+			var BitmapListPointers = new ARGB_Rev*[Depth];
+			for (int n = 0; n < Depth; n++)
+			{
+				BitmapList.Bitmaps[n] = new Bitmap(Width, Height);
+			}
+
+			for (int n = 0; n < Depth; n++)
+			{
+				var Bitmap = BitmapList.Bitmaps[n];
+				BitmapListData[n] = Bitmap.LockBits(Bitmap.GetFullRectangle(), ImageLockMode.WriteOnly, PixelFormat.Format32bppArgb);
+				BitmapListPointers[n] = (ARGB_Rev*)BitmapListData[n].Scan0.ToPointer();
+			}
+
 			int BlockWidth = Width / 4, BlockHeight = Height / 4;
-			var BlockCount = BlockWidth * BlockHeight;
-			var CurrentDecodedColors = new Color[16];
+			var BlockCount = BlockWidth * BlockHeight * Depth;
+			//var BlockCount = BlockWidth * BlockHeight;
+			var CurrentDecodedColors = new ARGB_Rev[16];
+			//Console.WriteLine(1);
 			var Blocks = File.ReadStructVector<Block>((uint)BlockCount);
+			//Console.WriteLine(2);
 
 			for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
 			{
 				int TileX, TileY;
+				int Z = 0;
+
 				if (Swizzled)
 				{
-					Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth, 16, out TileX, out TileY);
+					//Swizzling.XGAddress3DTiledXYZ(dxt5_n, BlockWidth, BlockHeight, GpuUtils.GetBitsPerPixelForEnum(GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5), out TileX, out TileY, out Z);
+					Swizzling.XGAddress3DTiledXYZ(dxt5_n, BlockWidth, BlockHeight, 16, out TileX, out TileY, out Z);
+
+					//Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth / 4, GpuUtils.GetBitsPerPixelForEnum(GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5), out TileX, out TileY);
+					//Z = 0;
 				}
 				else
 				{
 					TileX = dxt5_n % BlockWidth;
 					TileY = dxt5_n / BlockWidth;
+					Z = 0;
+					Console.Error.Write("Not implemented");
 				}
+
+				//Z = 0;
 
 				Blocks[dxt5_n].Decode(ref CurrentDecodedColors);
 
 				int PositionX = TileX * 4;
 				int PositionY = TileY * 4;
+
+				if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height))
+				{
+					Console.Error.Write("Warning!");
+					continue;
+				}
+
 				int n = 0;
-				try
+				for (int y = 0; y < 4; y++)
 				{
-					for (int y = 0; y < 4; y++)
+					for (int x = 0; x < 4; x++)
 					{
-						for (int x = 0; x < 4; x++)
-						{
-								Bitmap.SetPixel(PositionX + x, PositionY + y, CurrentDecodedColors[n]);
-							}
-							n++;
-						}
+						BitmapListPointers[Z][(PositionY + y) * Width + (PositionX + x)] = CurrentDecodedColors[n];
+						n++;
 					}
-				catch
-				{
 				}
 			}
 
-			return Bitmap;
+			for (int n = 0; n < Depth; n++)
+			{
+				BitmapList.Bitmaps[n].UnlockBits(BitmapListData[n]);
+			}
+
+
+			return BitmapList;
 		}
 
 		unsafe public struct Block
@@ -101,10 +192,11 @@ namespace TalesOfVesperiaUtils.Imaging
 
 			public void Encode(Color[] Colors)
 			{
-				throw(new NotImplementedException());
+				throw (new NotImplementedException());
 			}
 
-			public void EncodeSimpleUnoptimizedWhiteAlpha(Color[] input) {
+			public void EncodeSimpleUnoptimizedWhiteAlpha(ARGB_Rev[] input)
+			{
 				alpha = 0x00FF;
 				colors1 = colors0 = Color.White.Encode565();
 				var lookup = new byte[] { 1, 7, 6, 5, 4, 3, 2, 0 };
@@ -122,10 +214,13 @@ namespace TalesOfVesperiaUtils.Imaging
 			static void EXT_INS(ref ushort container, ref byte value, bool extract, int offset, int len, int offset_value = 0)
 			{
 				var mask = (ushort)((1 << len) - 1);
-				if (extract) {
+				if (extract)
+				{
 					value &= (byte)~((uint)mask << offset_value);
 					value |= (byte)((((int)container >> (int)offset) & mask) << offset_value);
-				} else {
+				}
+				else
+				{
 					container = (ushort)((container & ~(mask << offset)) | (((value >> offset_value) & mask) << offset));
 					//Console.WriteLine(container);
 				}
@@ -179,14 +274,16 @@ namespace TalesOfVesperiaUtils.Imaging
 				}
 			}
 
-			public void Decode(ref Color[] output)
+			public void Decode(ref ARGB_Rev[] output)
 			{
 				var alpha_table = new byte[8];
-				var color_table = new Color[4];
+				var color_table = new ARGB_Rev[4];
 
 
 				color_table[0] = ColorUtils.Encode(ColorFormats.RGBA_5650, colors0);
 				color_table[1] = ColorUtils.Encode(ColorFormats.RGBA_5650, colors1);
+				MathUtils.Swap(ref color_table[0].R, ref color_table[0].B);
+				MathUtils.Swap(ref color_table[1].R, ref color_table[1].B);
 
 				// Color table.
 				if (colors0 > colors1)
@@ -208,11 +305,14 @@ namespace TalesOfVesperiaUtils.Imaging
 				byte alpha_0 = alpha.Low;
 				byte alpha_1 = alpha.High;
 
-				if (alpha_0 > alpha_1) {
+				if (alpha_0 > alpha_1)
+				{
 					alpha_table[0] = alpha_0;
 					alpha_table[1] = alpha_1;
 					for (int n = 0; n < 6; n++) alpha_table[n + 2] = (byte)(((6 - n) * alpha_0 + (n + 1) * alpha_1) / 7);
-				} else {
+				}
+				else
+				{
 					alpha_table[0] = alpha_0;
 					alpha_table[1] = alpha_1;
 					for (int n = 0; n < 4; n++) alpha_table[n + 2] = (byte)(((4 - n) * alpha_0 + (n + 1) * alpha_1) / 5);

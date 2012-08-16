@@ -336,42 +336,88 @@ namespace TalesOfVesperiaSpike
 
 	public class Program
 	{
+		static void UncompressUiImage(string BaseFileName)
+		{
+			//Console.WriteLine();
+			//break;
+
+			//var BaseFileName = "COMALL";
+
+			var Txm = (new TXM()).Load(
+				File.OpenRead(@"C:\isos\360\vesperia\UI.svo.d\" + BaseFileName + ".TXM"),
+				File.OpenRead(@"C:\isos\360\vesperia\UI.svo.d\" + BaseFileName + ".TXV")
+			);
+			//Console.WriteLine(Txm.ImageEntries.ToStringArray("\n"));
+			Console.WriteLine("{0}:", BaseFileName);
+			foreach (var ImageEntry in Txm.Surface2DEntries)
+			{
+				var ImageEntryFileName = @"C:\isos\360\vesperia\UI.svo.d\images\" + ImageEntry.Name + ".png";
+				Console.Write("  {0}.png : {1}...", ImageEntry.Name, ImageEntry.ImageEntry.ImageFileFormat.TextureFormat);
+				Console.WriteLine(ImageEntry.ImageEntry);
+				if (!File.Exists(ImageEntryFileName))
+				{
+					ImageEntry.Bitmap.Save(ImageEntryFileName);
+					Console.WriteLine("Ok");
+				}
+				else
+				{
+					Console.WriteLine("Exists");
+				}
+			}
+
+			foreach (var ImageEntry in Txm.Surface3DEntries)
+			{
+				var ImageEntryFileNameTest = @"C:\isos\360\vesperia\UI.svo.d\images\" + ImageEntry.Name + "." + 0 + ".png";
+
+				Console.Write("  {0}...", ImageEntry.Name);
+
+				if (!File.Exists(ImageEntryFileNameTest))
+				{
+					int n = 0;
+					foreach (var Bitmap in ImageEntry.Bitmaps.Bitmaps)
+					{
+						var ImageEntryFileName = @"C:\isos\360\vesperia\UI.svo.d\images\" + ImageEntry.Name + "." + n + ".png";
+						Console.Write("  {0}.png : {1}...", ImageEntry.Name, ImageEntry.ImageEntry.ImageFileFormat.TextureFormat);
+						//Console.WriteLine(ImageEntry.ImageEntry);
+
+						if (!File.Exists(ImageEntryFileName))
+						{
+							Bitmap.Save(ImageEntryFileName);
+							Console.WriteLine("Ok");
+						}
+						else
+						{
+							Console.WriteLine("Exists");
+						}
+						n++;
+					}
+					Console.WriteLine("Ok");
+				}
+				else
+				{
+					Console.WriteLine("Exists");
+				}
+			}
+		}
+
 		static void Main(string[] Args)
 		{
+			//var Image = TXM.LoadAbgr(File.OpenRead(@"C:\isos\360\vesperia\UI.svo.d\COMALL.TXV"), 256, 1024);
+
+			//var BaseFileName = "COOK_BEAFSTEW";
+			//var BaseFileName = "WORLDMAP";
+
 #if true
-
-            //var FilePath = @"I:\isos\360\Tales of Vesperia [PAL] [Multi3] [English] [Xbox360].iso";
-			var FilePath = @"E:\Isos\360\games\Tales of Vesperia [PAL] [Multi3] [English] [Xbox360].iso";
-            var FileStream = File.OpenRead(FilePath);
-            var FileStreamAnalyzed = new ProxyStreamReadWriteAnalyzer(FileStream);
-
-			var Out = ConsoleUtils.CaptureOutput(() =>
+			foreach (var BaseFullFileName in Directory.GetFiles(@"C:\isos\360\vesperia\UI.svo.d", "*.TXM", SearchOption.TopDirectoryOnly))
 			{
-				var Dvd9Xbox360 = new Dvd9Xbox360().Load(FileStreamAnalyzed);
-			});
-
-			// Analyze.
-			var MapStream = FileStreamAnalyzed.ConvertSpacesToMapStream(FileStreamAnalyzed.ReadUsage.JoinWithThresold(Thresold: 32));
-
-			// Dump the analyzed data.
-            SerializerUtils.SerializeToMemoryStream(MapStream.Serialize).CopyToFile(Utils.TestInputPath + "/mini_iso.bin");
+				UncompressUiImage(new FileInfo(BaseFullFileName).Name.Substr(0, -4));
+			}
 #else
-			var FileStream = MapStream.Unserialize(new MemoryStream(File.OpenRead(Utils.TestInputPath + "/mini_iso.bin").ReadAll()));
-			//Console.WriteLine(FileStream.StreamEntries.ToStringArray("\r\n"));
-			var Out = ConsoleUtils.CaptureOutput(() =>
-			{
-				try
-				{
-					var Dvd9Xbox360 = new Dvd9Xbox360().Load(new ProxyStreamReadWriteAnalyzer(FileStream));
-				}
-				catch (Exception Exception)
-				{
-					Console.Error.WriteLine(Exception);
-				}
-			});
+			UncompressUiImage("FONTTEX00");
 #endif
-			Console.WriteLine(Out);
-			//Console.ReadKey();
+
+			Console.ReadKey();
+			//Image.Save(@"C:\isos\360\vesperia\UI.svo.d\COMALL.TXV.png");
 		}
 	}
 }
