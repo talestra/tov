@@ -226,52 +226,57 @@ namespace TalesOfVesperiaUtils.Imaging
 				}
 			}
 
-			private void exs_ins2(byte[] alpha_data_transfer, bool extract, uint m, uint n, int offset, int len, int offset_value = 0)
+			private void exs_ins2(byte[] data_transfer, ref ushort_be first_data, bool extract, uint m, uint n, int offset, int len, int offset_value = 0)
 			{
-				fixed (ushort_be* alpha_data = &alpha_data0)
+				fixed (ushort_be* data = &first_data)
 				{
-					ushort value = alpha_data[m];
-					EXT_INS(ref value, ref alpha_data_transfer[n], extract, offset, len, offset_value);
-					if (!extract) alpha_data[m] = value;
+					ushort value = data[m];
+					EXT_INS(ref value, ref data_transfer[n], extract, offset, len, offset_value);
+					if (!extract) data[m] = value;
 				}
 			}
 
 			private void transferAlphaData(ref byte[] alpha_data_transfer, bool extract)
 			{
-				exs_ins2(alpha_data_transfer, extract, 0, 0, 0, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 0, 1, 3, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 0, 2, 6, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 0, 3, 9, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 0, 4, 12, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 0, 5, 15, 1, 0); exs_ins2(alpha_data_transfer, extract, 1, 5, 0, 2, 1);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 0, 0, 0, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 0, 1, 3, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 0, 2, 6, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 0, 3, 9, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 0, 4, 12, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 0, 5, 15, 1, 0); exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 1, 5, 0, 2, 1);
 
-				exs_ins2(alpha_data_transfer, extract, 1, 6, 2, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 1, 7, 5, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 1, 8, 8, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 1, 9, 11, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 1, 10, 14, 2, 0); exs_ins2(alpha_data_transfer, extract, 2, 10, 0, 1, 2);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 1, 6, 2, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 1, 7, 5, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 1, 8, 8, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 1, 9, 11, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 1, 10, 14, 2, 0); exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 2, 10, 0, 1, 2);
 
-				exs_ins2(alpha_data_transfer, extract, 2, 11, 1, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 2, 12, 4, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 2, 13, 7, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 2, 14, 10, 3, 0);
-				exs_ins2(alpha_data_transfer, extract, 2, 15, 13, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 2, 11, 1, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 2, 12, 4, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 2, 13, 7, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 2, 14, 10, 3, 0);
+				exs_ins2(alpha_data_transfer, ref alpha_data0, extract, 2, 15, 13, 3, 0);
 			}
 
 			void transferColorData(ref byte[] color_data_transfer, bool extract)
 			{
-				fixed (ushort_be* color_data = &color_data0)
-				{
-					for (int m = 0; m < 2; m++)
-					{
-						for (int n = 0; n < 16; n += 2)
-						{
-							ushort value = color_data[m];
-							EXT_INS(ref value, ref color_data_transfer[n], extract, n, 2);
-							if (!extract) color_data[m] = value;
-						}
-					}
-				}
+				exs_ins2(color_data_transfer, ref color_data0, extract, 0,  0,  0, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 0,  1,  2, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 0,  2,  4, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 0,  3,  6, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 0,  4,  8, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 0,  5, 10, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 0,  6, 12, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 0,  7, 14, 2, 0);
+
+				exs_ins2(color_data_transfer, ref color_data0, extract, 1,  8, 0, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 1,  9, 2, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 1, 10, 4, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 1, 11, 6, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 1, 12, 8, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 1, 13, 10, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 1, 14, 12, 2, 0);
+				exs_ins2(color_data_transfer, ref color_data0, extract, 1, 15, 14, 2, 0);
 			}
 
 			public void Decode(ref ARGB_Rev[] output)
