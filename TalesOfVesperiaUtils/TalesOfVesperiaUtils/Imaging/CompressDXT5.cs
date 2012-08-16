@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using CSharpUtils;
@@ -9,6 +10,33 @@ namespace TalesOfVesperiaUtils.Imaging
 {
 	unsafe public class CompressDXT5
 	{
+		public struct _Y_CO_CG_A
+		{
+			public byte V0, V1, V2, V3;
+
+			static public implicit operator _Y_CO_CG_A(Y_CO_CG_A In)
+			{
+				return new _Y_CO_CG_A()
+				{
+					V0 = In.CO,
+					V1 = In.CG,
+					V2 = In.A,
+					V3 = In.Y,
+				};
+			}
+
+			static public implicit operator Y_CO_CG_A(_Y_CO_CG_A In)
+			{
+				return new Y_CO_CG_A()
+				{
+					CO = In.V0,
+					CG = In.V1,
+					A = In.V2,
+					Y = In.V3,
+				};
+			}
+		}
+
 		/// <summary>
 		/// inset color bounding box
 		/// </summary>
@@ -29,73 +57,32 @@ namespace TalesOfVesperiaUtils.Imaging
 		/// </summary>
 		const int C565_6_MASK = 0xFC;
 
-		byte* globalOutData;
-
-		ushort ColorTo565(byte* color)
+		static private void GetMinMaxYCoCg(_Y_CO_CG_A[] ColorBlock, out _Y_CO_CG_A MinColor, out _Y_CO_CG_A MaxColor)
 		{
-			return (ushort)(((color[0] >> 3) << 11) | ((color[1] >> 2) << 5) | (color[2] >> 3));
-		}
+			MinColor.V0 = MinColor.V1 = MinColor.V2 = MinColor.V3 = 0xFF;
+			MaxColor.V0 = MaxColor.V1 = MaxColor.V2 = MaxColor.V3 = 0x00;
 
-		void EmitByte(byte b)
-		{
-			globalOutData[0] = b;
-			globalOutData += 1;
-		}
-
-		void EmitWord(ushort s)
-		{
-			globalOutData[0] = (byte)((s >> 0) & 255);
-			globalOutData[1] = (byte)((s >> 8) & 255);
-			globalOutData += 2;
-		}
-
-		void EmitDoubleWord(uint i)
-		{
-			globalOutData[0] = (byte)((i >> 0) & 255);
-			globalOutData[1] = (byte)((i >> 8) & 255);
-			globalOutData[2] = (byte)((i >> 16) & 255);
-			globalOutData[3] = (byte)((i >> 24) & 255);
-			globalOutData += 4;
-		}
-
-		void ExtractBlock(byte* inPtr, int width, byte* colorBlock)
-		{
-			int j;
-			for (j = 0; j < 4; j++)
+			for (int i = 0; i < 16; i++)
 			{
-				PointerUtils.Memcpy(&colorBlock[j * 4 * 4], inPtr, 4 * 4);
-				inPtr += width * 4;
+				MinColor.V0 = Math.Min(MinColor.V0, ColorBlock[i].V0);
+				MinColor.V1 = Math.Min(MinColor.V1, ColorBlock[i].V1);
+				MinColor.V2 = Math.Min(MinColor.V2, ColorBlock[i].V2);
+				MinColor.V3 = Math.Min(MinColor.V3, ColorBlock[i].V3);
+
+				MaxColor.V0 = Math.Min(MaxColor.V0, ColorBlock[i].V0);
+				MaxColor.V1 = Math.Min(MaxColor.V1, ColorBlock[i].V1);
+				MaxColor.V2 = Math.Min(MaxColor.V2, ColorBlock[i].V2);
+				MaxColor.V3 = Math.Min(MaxColor.V3, ColorBlock[i].V3);
 			}
 		}
 
-		void GetMinMaxYCoCg(byte* colorBlock, byte* minColor, byte* maxColor)
+		static private void ScaleYCoCg(_Y_CO_CG_A[] ColorBlock, ref _Y_CO_CG_A MinColor, ref _Y_CO_CG_A MaxColor)
 		{
 			int i;
-
-			minColor[0] = minColor[1] = minColor[2] = minColor[3] = 255;
-			maxColor[0] = maxColor[1] = maxColor[2] = maxColor[3] = 0;
-
-			for (i = 0; i < 16; i++)
-			{
-				if (colorBlock[i * 4 + 0] < minColor[0]) minColor[0] = colorBlock[i * 4 + 0];
-				if (colorBlock[i * 4 + 1] < minColor[1]) minColor[1] = colorBlock[i * 4 + 1];
-				if (colorBlock[i * 4 + 2] < minColor[2]) minColor[2] = colorBlock[i * 4 + 2];
-				if (colorBlock[i * 4 + 3] < minColor[3]) minColor[3] = colorBlock[i * 4 + 3];
-
-				if (colorBlock[i * 4 + 0] > maxColor[0]) maxColor[0] = colorBlock[i * 4 + 0];
-				if (colorBlock[i * 4 + 1] > maxColor[1]) maxColor[1] = colorBlock[i * 4 + 1];
-				if (colorBlock[i * 4 + 2] > maxColor[2]) maxColor[2] = colorBlock[i * 4 + 2];
-				if (colorBlock[i * 4 + 3] > maxColor[3]) maxColor[3] = colorBlock[i * 4 + 3];
-			}
-		}
-
-		void ScaleYCoCg(byte* colorBlock, byte* minColor, byte* maxColor)
-		{
-			int i;
-			int m0 = Math.Abs(minColor[0] - 128);
-			int m1 = Math.Abs(minColor[1] - 128);
-			int m2 = Math.Abs(maxColor[0] - 128);
-			int m3 = Math.Abs(maxColor[1] - 128);
+			int m0 = Math.Abs(MinColor.V0 - 128);
+			int m1 = Math.Abs(MinColor.V1 - 128);
+			int m2 = Math.Abs(MaxColor.V0 - 128);
+			int m3 = Math.Abs(MaxColor.V1 - 128);
 
 			if (m1 > m0) m0 = m1;
 			if (m3 > m2) m2 = m3;
@@ -108,38 +95,38 @@ namespace TalesOfVesperiaUtils.Imaging
 			int mask1 = -((m0 <= s1) ? 1 : 0);
 			int scale = 1 + (1 & mask0) + (2 & mask1);
 
-			minColor[0] = (byte)((minColor[0] - 128) * scale + 128);
-			minColor[1] = (byte)((minColor[1] - 128) * scale + 128);
-			minColor[2] = (byte)((scale - 1) << 3);
+			MinColor.V0 = (byte)((MinColor.V0 - 128) * scale + 128);
+			MinColor.V1 = (byte)((MinColor.V1 - 128) * scale + 128);
+			MinColor.V2 = (byte)((scale - 1) << 3);
 
-			maxColor[0] = (byte)((maxColor[0] - 128) * scale + 128);
-			maxColor[1] = (byte)((maxColor[1] - 128) * scale + 128);
-			maxColor[2] = (byte)((scale - 1) << 3);
+			MaxColor.V0 = (byte)((MaxColor.V0 - 128) * scale + 128);
+			MaxColor.V1 = (byte)((MaxColor.V1 - 128) * scale + 128);
+			MaxColor.V2 = (byte)((scale - 1) << 3);
 
 			for (i = 0; i < 16; i++)
 			{
-				colorBlock[i * 4 + 0] = (byte)((colorBlock[i * 4 + 0] - 128) * scale + 128);
-				colorBlock[i * 4 + 1] = (byte)((colorBlock[i * 4 + 1] - 128) * scale + 128);
+				ColorBlock[i].V0 = (byte)((ColorBlock[i].V0 - 128) * scale + 128);
+				ColorBlock[i].V1 = (byte)((ColorBlock[i].V1 - 128) * scale + 128);
 			}
 		}
 
-		void InsetYCoCgBBox(byte* minColor, byte* maxColor)
+		static private void InsetYCoCgBBox(ref _Y_CO_CG_A minColor, ref _Y_CO_CG_A maxColor)
 		{
 			var inset = stackalloc int[4];
 			var mini = stackalloc int[4];
 			var maxi = stackalloc int[4];
 
-			inset[0] = (maxColor[0] - minColor[0]) - ((1 << (INSET_COLOR_SHIFT - 1)) - 1);
-			inset[1] = (maxColor[1] - minColor[1]) - ((1 << (INSET_COLOR_SHIFT - 1)) - 1);
-			inset[3] = (maxColor[3] - minColor[3]) - ((1 << (INSET_ALPHA_SHIFT - 1)) - 1);
+			inset[0] = (maxColor.V0 - minColor.V0) - ((1 << (INSET_COLOR_SHIFT - 1)) - 1);
+			inset[1] = (maxColor.V1 - minColor.V1) - ((1 << (INSET_COLOR_SHIFT - 1)) - 1);
+			inset[3] = (maxColor.V3 - minColor.V3) - ((1 << (INSET_ALPHA_SHIFT - 1)) - 1);
 
-			mini[0] = ((minColor[0] << INSET_COLOR_SHIFT) + inset[0]) >> INSET_COLOR_SHIFT;
-			mini[1] = ((minColor[1] << INSET_COLOR_SHIFT) + inset[1]) >> INSET_COLOR_SHIFT;
-			mini[3] = ((minColor[3] << INSET_ALPHA_SHIFT) + inset[3]) >> INSET_ALPHA_SHIFT;
+			mini[0] = ((minColor.V0 << INSET_COLOR_SHIFT) + inset[0]) >> INSET_COLOR_SHIFT;
+			mini[1] = ((minColor.V1 << INSET_COLOR_SHIFT) + inset[1]) >> INSET_COLOR_SHIFT;
+			mini[3] = ((minColor.V3 << INSET_ALPHA_SHIFT) + inset[3]) >> INSET_ALPHA_SHIFT;
 
-			maxi[0] = ((maxColor[0] << INSET_COLOR_SHIFT) - inset[0]) >> INSET_COLOR_SHIFT;
-			maxi[1] = ((maxColor[1] << INSET_COLOR_SHIFT) - inset[1]) >> INSET_COLOR_SHIFT;
-			maxi[3] = ((maxColor[3] << INSET_ALPHA_SHIFT) - inset[3]) >> INSET_ALPHA_SHIFT;
+			maxi[0] = ((maxColor.V0 << INSET_COLOR_SHIFT) - inset[0]) >> INSET_COLOR_SHIFT;
+			maxi[1] = ((maxColor.V1 << INSET_COLOR_SHIFT) - inset[1]) >> INSET_COLOR_SHIFT;
+			maxi[3] = ((maxColor.V3 << INSET_ALPHA_SHIFT) - inset[3]) >> INSET_ALPHA_SHIFT;
 
 			mini[0] = (mini[0] >= 0) ? mini[0] : 0;
 			mini[1] = (mini[1] >= 0) ? mini[1] : 0;
@@ -149,27 +136,27 @@ namespace TalesOfVesperiaUtils.Imaging
 			maxi[1] = (maxi[1] <= 255) ? maxi[1] : 255;
 			maxi[3] = (maxi[3] <= 255) ? maxi[3] : 255;
 
-			minColor[0] = (byte)((mini[0] & C565_5_MASK) | (mini[0] >> 5));
-			minColor[1] = (byte)((mini[1] & C565_6_MASK) | (mini[1] >> 6));
-			minColor[3] = (byte)(mini[3]);
+			minColor.V0 = (byte)((mini[0] & C565_5_MASK) | (mini[0] >> 5));
+			minColor.V1 = (byte)((mini[1] & C565_6_MASK) | (mini[1] >> 6));
+			minColor.V3 = (byte)(mini[3]);
 
-			maxColor[0] = (byte)((maxi[0] & C565_5_MASK) | (maxi[0] >> 5));
-			maxColor[1] = (byte)((maxi[1] & C565_6_MASK) | (maxi[1] >> 6));
-			maxColor[3] = (byte)(maxi[3]);
+			maxColor.V0 = (byte)((maxi[0] & C565_5_MASK) | (maxi[0] >> 5));
+			maxColor.V1 = (byte)((maxi[1] & C565_6_MASK) | (maxi[1] >> 6));
+			maxColor.V3 = (byte)(maxi[3]);
 		}
 
-		void SelectYCoCgDiagonal(byte* colorBlock, byte* minColor, byte* maxColor)
+		static private void SelectYCoCgDiagonal(_Y_CO_CG_A[] colorBlock, ref _Y_CO_CG_A MinColor, ref _Y_CO_CG_A MaxColor)
 		{
 			int i;
 			byte c0, c1;
-			byte mid0 = (byte)(((int)minColor[0] + maxColor[0] + 1) >> 1);
-			byte mid1 = (byte)(((int)minColor[1] + maxColor[1] + 1) >> 1);
+			byte mid0 = (byte)(((int)MinColor.V0 + MaxColor.V0 + 1) >> 1);
+			byte mid1 = (byte)(((int)MinColor.V1 + MaxColor.V1 + 1) >> 1);
 
 			byte side = 0;
 			for (i = 0; i < 16; i++)
 			{
-				byte b0 = (byte)((colorBlock[i * 4 + 0] >= mid0) ? 1 : 0);
-				byte b1 = (byte)((colorBlock[i * 4 + 1] >= mid1) ? 1 : 0);
+				byte b0 = (byte)((colorBlock[i].V0 >= mid0) ? 1 : 0);
+				byte b1 = (byte)((colorBlock[i].V1 >= mid1) ? 1 : 0);
 				side += (byte)(b0 ^ b1);
 			}
 
@@ -177,15 +164,16 @@ namespace TalesOfVesperiaUtils.Imaging
 
 			//if (NVIDIA_7X_HARDWARE_BUG_FIX) mask &= -( minColor[0] != maxColor[0] );
 
-			c0 = minColor[1];
-			c1 = maxColor[1];
+			c0 = MinColor.V1;
+			c1 = MaxColor.V1;
 
 			c0 ^= c1 ^= mask &= c0 ^= c1;
 
-			minColor[1] = c0;
-			maxColor[1] = c1;
+			MinColor.V1 = c0;
+			MaxColor.V1 = c1;
 		}
 
+		/*
 		void EmitAlphaIndices(byte* colorBlock, byte minAlpha, byte maxAlpha)
 		{
 
@@ -280,60 +268,27 @@ namespace TalesOfVesperiaUtils.Imaging
 
 			EmitDoubleWord(result);
 		}
+		*/
 
 		static public void CompressBlock(ARGB_Rev[] Colors, ref DXT5.Block Block)
 		{
-			int outputBytes = 0;
-			var CompressDXT5 = new CompressDXT5();
-			fixed (ARGB_Rev* ColorsPtr = Colors)
-			fixed (DXT5.Block* BlockPtr = &Block)
-			{
-				CompressDXT5.CompressYCoCgDXT5(
-					(byte*)ColorsPtr,
-					(byte*)BlockPtr,
-					4, 4,
-					out outputBytes
-				);
-			}
+			var ColorsCoGg = new _Y_CO_CG_A[16];
+			for (int n = 0; n < 16; n++) ColorsCoGg[n] = (_Y_CO_CG_A)(Y_CO_CG_A)Colors[n];
+			CompressBlock(ColorsCoGg, ref Block);
 		}
 
-		bool CompressYCoCgDXT5(byte* inBuf, byte* outBuf, int width, int height, out int outputBytes)
+		static public void CompressBlock(_Y_CO_CG_A[] Colors, ref DXT5.Block Block)
 		{
-			int i, j;
-			var block = stackalloc byte[64];
-			var minColor = stackalloc byte[4];
-			var maxColor = stackalloc byte[4];
+			var MinColor = default(_Y_CO_CG_A);
+			var MaxColor = default(_Y_CO_CG_A);
 
-			globalOutData = outBuf;
+			GetMinMaxYCoCg(Colors, out MinColor, out MaxColor);
+			ScaleYCoCg(Colors, ref MinColor, ref MaxColor);
+			InsetYCoCgBBox(ref MinColor, ref MaxColor);
+			SelectYCoCgDiagonal(Colors, ref MinColor, ref MaxColor);
 
-			for (j = 0; j < height; j += 4, inBuf += width * 4 * 4)
-			{
-				for (i = 0; i < width; i += 4)
-				{
-
-					ExtractBlock(inBuf + i * 4, width, block);
-
-					GetMinMaxYCoCg(block, minColor, maxColor);
-					ScaleYCoCg(block, minColor, maxColor);
-					InsetYCoCgBBox(minColor, maxColor);
-					SelectYCoCgDiagonal(block, minColor, maxColor);
-
-					EmitByte(maxColor[3]);
-					EmitByte(minColor[3]);
-
-					EmitAlphaIndices(block, minColor[3], maxColor[3]);
-
-					EmitWord(ColorTo565(maxColor));
-					EmitWord(ColorTo565(minColor));
-
-					EmitColorIndices(block, minColor, maxColor);
-				}
-			}
-
-			outputBytes = (int)(globalOutData - outBuf);
-
-			return true;
+			Console.WriteLine((ARGB_Rev)(Y_CO_CG_A)MinColor);
+			Console.WriteLine((ARGB_Rev)(Y_CO_CG_A)MaxColor);
 		}
-
 	}
 }
