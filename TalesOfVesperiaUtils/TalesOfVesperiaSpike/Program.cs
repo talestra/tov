@@ -413,7 +413,8 @@ namespace TalesOfVesperiaSpike
 				UncompressUiImage(new FileInfo(BaseFullFileName).Name.Substr(0, -4));
 			}
 #else
-			UncompressUiImage("FONTTEX00");
+			//UncompressUiImage("FONTTEX00");
+			UncompressUiImage("WORLDMAP");
 #endif
 
 			Console.ReadKey();
