@@ -16,6 +16,21 @@ namespace TalesOfVesperiaTests.Imaging
 	unsafe public class DXT5Test
 	{
 		[TestMethod]
+		public void TestCompressDXT5()
+		{
+			var Colors1 = new ARGB_Rev[16];
+			var Colors2 = new ARGB_Rev[16];
+			var Block = default(DXT5.Block);
+
+			CompressDXT5.CompressBlock(Colors1, ref Block);
+
+			Block.Decode(ref Colors2);
+
+			Console.WriteLine("{0}", Colors1.ToStringArray(","));
+			Console.WriteLine("{0}", Colors2.ToStringArray(","));
+		}
+
+		[TestMethod]
 		public void TestDecodeBlock()
 		{
 			var Block1Data = new byte[] { 0xD5, 0x5B, 0x5D, 0xB2, 0x49, 0x00, 0xFF, 0xB2, 0xE6, 0xF6, 0xDE, 0x94, 0xFF, 0xFF, 0x02, 0xFE };
