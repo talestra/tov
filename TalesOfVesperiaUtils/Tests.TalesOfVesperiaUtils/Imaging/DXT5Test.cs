@@ -18,7 +18,28 @@ namespace TalesOfVesperiaTests.Imaging
 		[TestMethod]
 		public void TestCompressDXT5()
 		{
-			var Colors1 = new ARGB_Rev[16];
+			var Colors1 = new ARGB_Rev[16]
+			{
+				Color.White,
+				Color.Black,
+				Color.Black,
+				Color.Black,
+
+				Color.White,
+				Color.Black,
+				Color.Black,
+				Color.Black,
+
+				Color.White,
+				Color.Black,
+				Color.Black,
+				Color.Black,
+
+				Color.White,
+				Color.Black,
+				Color.Black,
+				Color.Black,
+			};
 			var Colors2 = new ARGB_Rev[16];
 			var Block = default(DXT5.Block);
 

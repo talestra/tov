@@ -365,6 +365,7 @@ namespace TalesOfVesperiaUtils.Imaging
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
 						//Graphics.FromImage(Bitmap).DrawImage(DXT5.LoadSwizzled(this.SliceStream, Width, Height, this.Tiled), new Point(0, 0));
 						return DXT5.LoadSwizzled(this.SliceStream, Width, Height, this.Tiled);
+#if false
 						break;
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT1:
 						Console.Error.Write("Unimplemented GPUTEXTUREFORMAT_DXT1");
@@ -374,6 +375,7 @@ namespace TalesOfVesperiaUtils.Imaging
 						Console.Error.Write("Unimplemented GPUTEXTUREFORMAT_1");
 						Graphics.FromImage(Bitmap).DrawString("Unimplemented GPUTEXTUREFORMAT_1", new Font("Arial", 20), new SolidBrush(Color.Red), new Point(16, 16));
 						break;
+#endif
 					default:
 						throw (new NotImplementedException("Not implemented format : " + ImageEntry.ImageFileFormat.TextureFormat));
 				}
