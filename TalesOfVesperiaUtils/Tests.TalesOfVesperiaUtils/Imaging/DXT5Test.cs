@@ -8,6 +8,7 @@ using System.Drawing;
 using CSharpUtils;
 using System.IO;
 using CSharpUtils.Drawing;
+using System.Runtime.InteropServices;
 
 namespace TalesOfVesperiaTests.Imaging
 {
@@ -15,7 +16,24 @@ namespace TalesOfVesperiaTests.Imaging
 	unsafe public class DXT5Test
 	{
 		[TestMethod]
-		public void TestMethod1()
+		public void TestDecodeBlock()
+		{
+			var Block1Data = new byte[] { 0xD5, 0x5B, 0x5D, 0xB2, 0x49, 0x00, 0xFF, 0xB2, 0xE6, 0xF6, 0xDE, 0x94, 0xFF, 0xFF, 0x02, 0xFE };
+
+			var Block = new MemoryStream(Block1Data).ReadStruct<DXT5.Block>();
+			var Colors = new ARGB_Rev[16];
+			Block.Decode(ref Colors);
+
+			Assert.AreEqual(
+				"#E0D6A973,#E0D6A900,#E0D6A900,#E0D6A900,#E0D6A9BC,#E0D6A95B,#E0D6A95B,#E0D6A95B," +
+				"#E3DAAED5,#E0D6A9D5,#E0D6A9D5,#E0D6A9D5,#E3DAAE8B,#E6DEB4FF,#E6DEB4FF,#E6DEB4FF"
+				,
+				Colors.ToStringArray(",")
+			);
+		}
+
+		[TestMethod]
+		public void TestEncodeUnoptimizedWhiteAlpha()
 		{
 			var Block = default(DXT5.Block);
 			Block.EncodeSimpleUnoptimizedWhiteAlpha(
