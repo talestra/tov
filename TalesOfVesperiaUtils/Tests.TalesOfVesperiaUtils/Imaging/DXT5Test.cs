@@ -7,6 +7,7 @@ using TalesOfVesperiaUtils.Imaging;
 using System.Drawing;
 using CSharpUtils;
 using System.IO;
+using CSharpUtils.Drawing;
 
 namespace TalesOfVesperiaTests.Imaging
 {
@@ -18,7 +19,7 @@ namespace TalesOfVesperiaTests.Imaging
 		{
 			var Block = default(DXT5.Block);
 			Block.EncodeSimpleUnoptimizedWhiteAlpha(
-				new Color[] {
+				new ARGB_Rev[] {
 					Color.FromArgb(0xFF, 0xFF, 0xFF, 0xFF), // 0
 					Color.FromArgb(0x77, 0xFF, 0xFF, 0xFF), // 1
 					Color.FromArgb(0x33, 0xFF, 0xFF, 0xFF), // 2
