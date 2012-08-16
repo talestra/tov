@@ -20,35 +20,36 @@ namespace TalesOfVesperiaTests.Imaging
 		{
 			var Colors1 = new ARGB_Rev[16]
 			{
-				Color.White,
-				Color.Black,
-				Color.Black,
-				Color.Black,
-
-				Color.White,
-				Color.Black,
-				Color.Black,
-				Color.Black,
-
-				Color.White,
-				Color.Black,
-				Color.Black,
-				Color.Black,
-
-				Color.White,
-				Color.Black,
-				Color.Black,
-				Color.Black,
+				"#E0D6A973",
+				"#E0D6A900",
+				"#E0D6A900",
+				"#E0D6A900",
+				"#E0D6A9BC",
+				"#E0D6A95B",
+				"#E0D6A95B",
+				"#E0D6A95B",
+				"#E3DAAED5",
+				"#E0D6A9D5",
+				"#E0D6A9D5",
+				"#E0D6A9D5",
+				"#E3DAAE8B",
+				"#E6DEB4FF",
+				"#E6DEB4FF",
+				"#E6DEB4FF",
 			};
 			var Colors2 = new ARGB_Rev[16];
 			var Block = default(DXT5.Block);
+			var Color1 = default(ARGB_Rev);
+			var Color2 = default(ARGB_Rev);
 
+			//CompressionSimpleDXT5.FindColorPair(Colors1, out Color1, out Color2);
+			
 			CompressDXT5.CompressBlock(Colors1, ref Block);
 
-			Block.Decode(ref Colors2);
+			//Block.Decode(ref Colors2);
 
-			Console.WriteLine("{0}", Colors1.ToStringArray(","));
-			Console.WriteLine("{0}", Colors2.ToStringArray(","));
+			//Console.WriteLine("{0}", Colors1.ToStringArray(","));
+			//Console.WriteLine("{0}", Colors2.ToStringArray(","));
 		}
 
 		[TestMethod]
