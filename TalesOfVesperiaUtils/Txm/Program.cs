@@ -110,7 +110,6 @@ namespace Txm
 		/// <param name="args"></param>
 		static void Main(string[] args)
 		{
-			Console.WriteLine(Path.GetDirectoryName(@"c:\temp\test.bin"));
 			new Program().Run(args);
 		}
 	}
