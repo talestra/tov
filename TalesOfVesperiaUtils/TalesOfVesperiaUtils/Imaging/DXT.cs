@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Text;
 using CSharpUtils.Drawing;
@@ -12,8 +13,15 @@ using TalesOfVesperiaUtils.Imaging.Internal;
 
 namespace TalesOfVesperiaUtils.Imaging
 {
+	/// <summary>
+	/// 
+	/// </summary>
+	/// <typeparam name="TBlock"></typeparam>
 	unsafe abstract public class DXT<TBlock> where TBlock : struct
 	{
+		/// <summary>
+		/// 
+		/// </summary>
 		static protected readonly int BlockSize = Marshal.SizeOf(typeof(TBlock));
 
 		/// <summary>
@@ -196,9 +204,27 @@ namespace TalesOfVesperiaUtils.Imaging
 			return _LoadSwizzled(File, Width, Height, Depth, Swizzled);
 		}
 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Block"></param>
+		/// <param name="Colors"></param>
+		/// <param name="CompressionMode"></param>
 		abstract protected void EncodeBlock(ref TBlock Block, ref ARGB_Rev[] Colors, CompressDXT.CompressionMode CompressionMode);
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Block"></param>
+		/// <param name="Colors"></param>
 		abstract protected void DecodeBlock(ref TBlock Block, ref ARGB_Rev[] Colors);
 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Size"></param>
+		/// <returns></returns>
+		[MethodImpl(MethodImplOptions.AggressiveInlining)]
 		static internal void EXT_INS(ref ushort container, ref byte value, bool extract, int offset, int len, int offset_value = 0)
 		{
 			var mask = (ushort)((1 << len) - 1);
@@ -214,6 +240,12 @@ namespace TalesOfVesperiaUtils.Imaging
 			}
 		}
 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Size"></param>
+		/// <returns></returns>
+		[MethodImpl(MethodImplOptions.AggressiveInlining)]
 		static internal void exs_ins2(byte[] data_transfer, ref ushort_be first_data, bool extract, uint m, uint n, int offset, int len, int offset_value = 0)
 		{
 			fixed (ushort_be* data = &first_data)

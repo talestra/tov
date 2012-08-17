@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Windows.Forms;
+using TalesOfVesperiaFrontend.Properties;
 
 namespace TalesOfVesperiaFrontend
 {
@@ -13,9 +15,11 @@ namespace TalesOfVesperiaFrontend
 		[STAThread]
 		static void Main()
 		{
+			Console.WriteLine(Assembly.GetExecutingAssembly().GetManifestResourceNames().ToStringArray("\n"));
+
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new Form1());
+			Application.Run(new MainForm());
 		}
 	}
 }
