@@ -7,6 +7,24 @@ using TalesOfVesperiaUtils.Formats.Packages;
 
 namespace TalesOfVesperiaUtils.VirtualFileSystem
 {
+	/// <summary>
+	/// This class creates a Virtual File System for a Xbox360 Dvd9 ISO file.
+	/// This uses the CSharpUtils.Vfs package and the Dvd9Xbox360 class.
+	/// It doesn't allow to perform changes on the FileSystem, just read/write
+	/// files without changing its size.
+	/// </summary>
+	/// <remarks>
+	/// [X] Opening existent files
+	/// [X] Listing files/directories
+	/// [X] Get FileInfo
+	/// [X] Reading files
+	/// [X] Writing into existent files without changing its size
+	/// [ ] SetFileTime
+	/// [ ] Delete file
+	/// [ ] Delete directory
+	/// [ ] Create Directory
+	/// [ ] Movie File
+	/// </remarks>
 	public class Dvd9Xbox360FileSystem : FileSystem
 	{
 		Dvd9Xbox360 Dvd9Xbox360;

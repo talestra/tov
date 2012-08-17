@@ -223,8 +223,8 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				var AcmeEntrySets = AcmeEntry.Text.Split(new char[] { '\n' }, 2);
 
 				ChtxEntry.TextOriginal = "";
-				ChtxEntry.Title = TextProcessor.Get().ProcessAndDetectPitfalls(ChtxEntry.Title, AcmeEntrySets[0]);
-				ChtxEntry.TextTranslated = TextProcessor.Get().ProcessAndDetectPitfalls(ChtxEntry.TextTranslated, AcmeEntrySets[1]);
+				ChtxEntry.Title = TextProcessor.Instance.ProcessAndDetectPitfalls(ChtxEntry.Title, AcmeEntrySets[0]);
+				ChtxEntry.TextTranslated = TextProcessor.Instance.ProcessAndDetectPitfalls(ChtxEntry.TextTranslated, AcmeEntrySets[1]);
 			}
 		}
 

@@ -9,6 +9,7 @@ using CSharpUtils;
 using System.IO;
 using CSharpUtils.Drawing;
 using System.Runtime.InteropServices;
+using TalesOfVesperiaUtils.Imaging.Internal;
 
 namespace TalesOfVesperiaTests.Imaging
 {
@@ -118,7 +119,7 @@ namespace TalesOfVesperiaTests.Imaging
 				BitConverter.ToString(Bytes)
 			);
 
-			var Bitmap = DXT5.LoadSwizzled2D(File.OpenRead("../../../TestInput/FONTTEX05.TXV.mod.TXV"), 2048, 2048);
+			var Bitmap = (new DXT5()).LoadSwizzled2D(File.OpenRead("../../../TestInput/FONTTEX05.TXV.mod.TXV"), 2048, 2048);
 			Bitmap.Save("../../../Lol.png");
 		}
 	}

@@ -1,4 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  Since we cannot update the executable (signing it again) in order to map the unmapped
+  spanish characters, we have to remap some characters with similar width.
+  
+  1. The font is updated changing the characters ghlyphs with the new ones.
+     Ex. Replaced the "ã" glyph with the "ñ" one
+  2. When replacing english texts with spanish ones, it changes spanish characters to the mapped ones.
+     Ex. Replace "ñ" character/bytes with the "ã" character/bytes.
+-->
 <mapping>
   <map from="ñ" to="ã" fromseq="C3 B1" toseq="C3 A3" />
   <map from="Ñ" to="Ã" fromseq="C3 91" toseq="C3 83" />
