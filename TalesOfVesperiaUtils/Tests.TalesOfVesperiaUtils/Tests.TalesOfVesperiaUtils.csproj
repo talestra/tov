@@ -71,12 +71,14 @@
     <Compile Include="Compression\TalesCompression15_LzxTest.cs" />
     <Compile Include="Compression\TalesOfVesperiaCompressionWrapperTest.cs" />
     <Compile Include="Formats\ACME1Test.cs" />
+    <Compile Include="Formats\Packages\Dvd9Xbox360Test.cs" />
     <Compile Include="Formats\Packages\FPS4Test.cs" />
     <Compile Include="Formats\Packages\TO8CHTXTest.cs" />
     <Compile Include="Formats\Packages\TO8SCELTest.cs" />
     <Compile Include="Imaging\DXT5Test.cs" />
     <Compile Include="Imaging\Y_CO_CG_ATest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Text\CharacterMappingTest.cs" />
     <Compile Include="Utils.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -100,6 +102,9 @@
       <Project>{26b46dd3-ff59-4701-bc09-1e793d05dbee}</Project>
       <Name>TalesOfVesperiaUtils</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Formats\Script\" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

@@ -218,7 +218,7 @@ namespace TalesOfVesperiaUtils.Imaging
 				switch (ImageEntry.ImageFileFormat.TextureFormat)
 				{
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
-						return DXT5.LoadSwizzled3D(this.SliceStream, Width, Height, Depth, this.Tiled);
+						return (new DXT5()).LoadSwizzled3D(this.SliceStream, Width, Height, Depth, this.Tiled);
 						break;
 
 					default:
@@ -364,7 +364,7 @@ namespace TalesOfVesperiaUtils.Imaging
 						break;
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
 						//Graphics.FromImage(Bitmap).DrawImage(DXT5.LoadSwizzled(this.SliceStream, Width, Height, this.Tiled), new Point(0, 0));
-						return DXT5.LoadSwizzled2D(this.SliceStream, Width, Height, this.Tiled);
+						return (new DXT5()).LoadSwizzled2D(this.SliceStream, Width, Height, this.Tiled);
 #if false
 						break;
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT1:

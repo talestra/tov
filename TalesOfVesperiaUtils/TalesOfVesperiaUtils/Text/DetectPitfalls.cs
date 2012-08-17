@@ -7,12 +7,33 @@ using CSharpUtils;
 
 namespace TalesOfVesperiaUtils.Text
 {
-	public class DetectPitfalls
+	/// <summary>
+	/// Class that detects problems on the translated text.
+	/// 
+	/// Sometimes in translated text, translators remove accidentally some special characters or misses some required opcodes.
+	/// Or misses spaces at the end of the string and so.
+	/// This class allows to detect those kind of problems allowing later testing to be easier and safer.
+	/// </summary>
+	sealed public class DetectPitfalls
 	{
-		public Regex ReferencesRegex;
-		public Regex ReferencesPitfalledRegex;
-        public Logger Logger = Logger.CreateAnonymousLogger();
+		/// <summary>
+		/// 
+		/// </summary>
+		private Regex ReferencesRegex;
 
+		/// <summary>
+		/// 
+		/// </summary>
+		private Regex ReferencesPitfalledRegex;
+
+		/// <summary>
+		/// 
+		/// </summary>
+        public readonly Logger Logger = Logger.CreateAnonymousLogger();
+
+		/// <summary>
+		/// 
+		/// </summary>
 		public DetectPitfalls()
 		{
 			//ReferencesRegex = new Regex("(\x02|\x03)(\\(\\w+\\))", RegexOptions.Compiled | RegexOptions.Multiline);
@@ -20,12 +41,25 @@ namespace TalesOfVesperiaUtils.Text
 			ReferencesPitfalledRegex = new Regex(@"(^|[^\x01|\x02|\x03|\x04|\x05])(\(\w+\))", RegexOptions.Compiled | RegexOptions.Multiline);
 		}
 
-		public void Detect(String Base, String Modified)
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Base"></param>
+		/// <param name="Modified"></param>
+		/// <returns></returns>
+		public string Detect(String Base, String Modified)
 		{
-			DetectAndFix(Base, ref Modified);
+			DetectAndFix(Base, Modified);
+			return Modified;
 		}
 
-		public void DetectAndFix(String Base, ref String Modified)
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Base"></param>
+		/// <param name="Modified"></param>
+		/// <returns></returns>
+		public string DetectAndFix(String Base, String Modified)
 		{
 			Logger.Info("Detecting Pitfalls: '{0}' -> '{1}'", Base, Modified);
 
@@ -83,6 +117,8 @@ namespace TalesOfVesperiaUtils.Text
 
 				Logger.Warning(" --> " + Modified);
 			}
+
+			return Modified;
 		}
 	}
 }

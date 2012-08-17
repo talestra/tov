@@ -5,36 +5,70 @@ using System.Text;
 
 namespace TalesOfVesperiaUtils.Text
 {
-	public class TextProcessor
+	/// <summary>
+	/// Class that aggregates all the text processing stuff that has to be executed before
+	/// inserting the text in game.
+	/// </summary>
+	sealed public class TextProcessor
 	{
-		static protected TextProcessor _Instance;
-		protected CharacterMapping CharacterMapping;
-		protected DetectPitfalls DetectPitfalls;
+		/// <summary>
+		/// 
+		/// </summary>
+		static private TextProcessor _Instance;
 
-		public TextProcessor()
+		/// <summary>
+		/// 
+		/// </summary>
+		private CharacterMapping CharacterMapping;
+
+		/// <summary>
+		/// 
+		/// </summary>
+		private DetectPitfalls DetectPitfalls;
+
+		/// <summary>
+		/// 
+		/// </summary>
+		private TextProcessor()
 		{
 			this.CharacterMapping = CharacterMapping.Instance;
 			this.DetectPitfalls = new DetectPitfalls();
 		}
 
-		static public TextProcessor Get()
+		/// <summary>
+		/// 
+		/// </summary>
+		static public TextProcessor Instance
 		{
-			if (_Instance == null)
+			get
 			{
-				_Instance = new TextProcessor();
+				if (_Instance == null)
+				{
+					_Instance = new TextProcessor();
+				}
+				return _Instance;
 			}
-			return _Instance;
 		}
 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="String"></param>
+		/// <returns></returns>
 		public String Process(String String)
 		{
 			return CharacterMapping.Instance.Map(String);
 		}
 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Base"></param>
+		/// <param name="Modified"></param>
+		/// <returns></returns>
 		public String ProcessAndDetectPitfalls(String Base, String Modified)
 		{
-			DetectPitfalls.DetectAndFix(Base, ref Modified);
-			return Process(Modified);
+			return Process(DetectPitfalls.DetectAndFix(Base, Modified));
 		}
 	}
 }

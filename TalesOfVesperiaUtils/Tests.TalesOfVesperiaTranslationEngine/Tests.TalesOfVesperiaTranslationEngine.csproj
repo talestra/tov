@@ -61,7 +61,6 @@
     <Compile Include="..\Tests.TalesOfVesperiaUtils\Utils.cs">
       <Link>Utils.cs</Link>
     </Compile>
-    <Compile Include="Dvd9Xbox360Test.cs" />
     <Compile Include="PitfallDetectorTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TSSTest.cs" />

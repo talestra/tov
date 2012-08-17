@@ -9,201 +9,23 @@ using System.IO;
 using CSharpUtils.Endian;
 using CSharpUtils;
 using CSharpUtils.Drawing;
+using TalesOfVesperiaUtils.Imaging.Internal;
 
 namespace TalesOfVesperiaUtils.Imaging
 {
-	unsafe public class DXT5
+	/// <summary>
+	/// 
+	/// </summary>
+	unsafe public class DXT5 : DXT<DXT5.Block>
 	{
-		static public void SaveSwizzled2D(Bitmap Bitmap, Stream File, CompressDXT5.CompressionMode mode = CompressDXT5.CompressionMode.Normal)
+		protected override void EncodeBlock(ref DXT5.Block Block, ref ARGB_Rev[] Colors, CompressDXT5.CompressionMode CompressionMode)
 		{
-			int Width = Bitmap.Width, Height = Bitmap.Height;
-			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
-
-			Bitmap.LockBitsUnlock(PixelFormat.Format32bppArgb, (BitmapData) =>
-			{
-				var Base = (ARGB_Rev*)BitmapData.Scan0.ToPointer();
-
-				int BlockWidth = Width / 4;
-				int BlockHeight = Height / 4;
-				var BlockCount = BlockWidth * BlockHeight;
-				var CurrentDecodedColors = new ARGB_Rev[16];
-				var Blocks = new Block[(uint)BlockCount];
-
-				for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
-				{
-					int TileX, TileY;
-					Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth, 16, out TileX, out TileY);
-
-					int PositionX = TileX * 4;
-					int PositionY = TileY * 4;
-					int n = 0;
-
-					if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height))
-					{
-						Console.Error.WriteLine("Warning SaveSwizzled2D ({0}, {1})!", PositionX, PositionY);
-						continue;
-					}
-
-					for (int y = 0; y < 4; y++)
-					{
-						for (int x = 0; x < 4; x++)
-						{
-							CurrentDecodedColors[n] = Base[(PositionY + y) * Width + (PositionX + x)];
-							n++;
-						}
-					}
-
-					Blocks[dxt5_n].Encode(CurrentDecodedColors, mode);
-				}
-
-				File.WriteStructVector(Blocks);
-				File.Flush();
-			});
+			CompressDXT5.CompressBlock(Colors, out Block, CompressionMode);
 		}
 
-		/// <summary>
-		/// 
-		/// </summary>
-		/// <remarks>Seems to have problems with non-power of two Width/Height s</remarks>
-		/// <param name="File"></param>
-		/// <param name="Width"></param>
-		/// <param name="Height"></param>
-		/// <param name="Swizzled"></param>
-		/// <returns></returns>
-		static public Bitmap LoadSwizzled2D(Stream File, int Width, int Height, bool Swizzled = true)
+		protected override void DecodeBlock(ref DXT5.Block Block, ref ARGB_Rev[] Colors)
 		{
-			if ((Width % 4) != 0 || (Height % 4) != 0) throw(new InvalidDataException());
-			var Bitmap = new Bitmap(Width, Height);
-			Bitmap.LockBitsUnlock(PixelFormat.Format32bppArgb, (BitmapData) =>
-			{
-				var Base = (ARGB_Rev*)BitmapData.Scan0.ToPointer();
-
-				int BlockWidth = Width / 4, BlockHeight = Height / 4;
-				var BlockCount = BlockWidth * BlockHeight;
-				var CurrentDecodedColors = new ARGB_Rev[16];
-				var Blocks = File.ReadStructVector<Block>((uint)BlockCount);
-
-				for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
-				{
-					int TileX, TileY;
-					if (Swizzled)
-					{
-						Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth, 16, out TileX, out TileY);
-					}
-					else
-					{
-						TileX = dxt5_n % BlockWidth;
-						TileY = dxt5_n / BlockWidth;
-					}
-
-					Blocks[dxt5_n].Decode(ref CurrentDecodedColors);
-
-					int PositionX = TileX * 4;
-					int PositionY = TileY * 4;
-					int n = 0;
-
-					if ((PositionX + 3 >= Bitmap.Width) || (PositionY + 3 >= Bitmap.Height))
-					{
-						Console.Error.Write("Warning!");
-						continue;
-					}
-
-					for (int y = 0; y < 4; y++)
-					{
-						for (int x = 0; x < 4; x++)
-						{
-							Base[(PositionY + y) * Width + (PositionX + x)] = CurrentDecodedColors[n];
-							n++;
-						}
-					}
-				}
-			});
-
-			return Bitmap;
-		}
-
-		static public BitmapList LoadSwizzled3D(Stream File, int Width, int Height, int Depth, bool Swizzled = true)
-		{
-			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
-
-			//Width *= 4;
-			//Height *= 4;
-
-			var BitmapList = new BitmapList(Depth);
-			var BitmapListData = new BitmapData[Depth];
-			var BitmapListPointers = new ARGB_Rev*[Depth];
-			for (int n = 0; n < Depth; n++)
-			{
-				BitmapList.Bitmaps[n] = new Bitmap(Width, Height);
-			}
-
-			for (int n = 0; n < Depth; n++)
-			{
-				var Bitmap = BitmapList.Bitmaps[n];
-				BitmapListData[n] = Bitmap.LockBits(Bitmap.GetFullRectangle(), ImageLockMode.WriteOnly, PixelFormat.Format32bppArgb);
-				BitmapListPointers[n] = (ARGB_Rev*)BitmapListData[n].Scan0.ToPointer();
-			}
-
-			int BlockWidth = Width / 4, BlockHeight = Height / 4;
-			var BlockCount = BlockWidth * BlockHeight * Depth;
-			//var BlockCount = BlockWidth * BlockHeight;
-			var CurrentDecodedColors = new ARGB_Rev[16];
-			//Console.WriteLine(1);
-			var Blocks = File.ReadStructVector<Block>((uint)BlockCount);
-			//Console.WriteLine(2);
-
-			for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
-			{
-				int TileX, TileY;
-				int Z = 0;
-
-				if (Swizzled)
-				{
-					//Swizzling.XGAddress3DTiledXYZ(dxt5_n, BlockWidth, BlockHeight, GpuUtils.GetBitsPerPixelForEnum(GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5), out TileX, out TileY, out Z);
-					Swizzling.XGAddress3DTiledXYZ(dxt5_n, BlockWidth, BlockHeight, 16, out TileX, out TileY, out Z);
-
-					//Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth / 4, GpuUtils.GetBitsPerPixelForEnum(GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5), out TileX, out TileY);
-					//Z = 0;
-				}
-				else
-				{
-					TileX = dxt5_n % BlockWidth;
-					TileY = dxt5_n / BlockWidth;
-					Z = 0;
-					Console.Error.Write("Not implemented");
-				}
-
-				//Z = 0;
-
-				Blocks[dxt5_n].Decode(ref CurrentDecodedColors);
-
-				int PositionX = TileX * 4;
-				int PositionY = TileY * 4;
-
-				if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height))
-				{
-					Console.Error.Write("Warning!");
-					continue;
-				}
-
-				int n = 0;
-				for (int y = 0; y < 4; y++)
-				{
-					for (int x = 0; x < 4; x++)
-					{
-						BitmapListPointers[Z][(PositionY + y) * Width + (PositionX + x)] = CurrentDecodedColors[n];
-						n++;
-					}
-				}
-			}
-
-			for (int n = 0; n < Depth; n++)
-			{
-				BitmapList.Bitmaps[n].UnlockBits(BitmapListData[n]);
-			}
-
-
-			return BitmapList;
+			Block.Decode(ref Colors);
 		}
 
 		unsafe public struct Block
@@ -212,11 +34,6 @@ namespace TalesOfVesperiaUtils.Imaging
 			public ushort_be alpha_data0, alpha_data1, alpha_data2;
 			public ushort_be colors0, colors1;
 			public ushort_be color_data0, color_data1;
-
-			public void Encode(ARGB_Rev[] Colors, CompressDXT5.CompressionMode mode = CompressDXT5.CompressionMode.Normal)
-			{
-				CompressDXT5.CompressBlock(Colors, out this, mode);
-			}
 
 			public void EncodeSimpleUnoptimizedWhiteAlpha(ARGB_Rev[] input)
 			{
