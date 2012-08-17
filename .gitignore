@@ -5,3 +5,4 @@ TestResults
 *.suo
 *.user
 /TalesOfVesperiaUtils/_ReSharper.TalesOfVesperiaUtils
+/Misc/dxt/stb_dxt.c

@@ -37,19 +37,30 @@ namespace TalesOfVesperiaTests.Imaging
 				"#E6DEB4FF",
 				"#E6DEB4FF",
 			};
+			
 			var Colors2 = new ARGB_Rev[16];
 			var Block = default(DXT5.Block);
-			var Color1 = default(ARGB_Rev);
-			var Color2 = default(ARGB_Rev);
+			//var Color1 = default(ARGB_Rev);
+			//var Color2 = default(ARGB_Rev);
+
+			CompressDXT5.CompressBlock(Colors1.Select(Item => (RGBA)Item).ToArray(), out Block, CompressDXT5.CompressionMode.Normal);
+
+			Console.WriteLine(StructUtils.StructToBytes(Block).ToHexString().ToUpper());
+
+			Block.Decode(ref Colors2);
+
+			Assert.AreEqual(
+				"#E0D6A973,#E0D6A900,#E0D6A900,#E0D6A900,#E0D6A9BC,#E0D6A95B,#E0D6A95B,#E0D6A95B,#E3DAAED5,#E0D6A9D5,#E0D6A9D5,#E0D6A9D5,#E3DAAE8B,#E6DEB4FF,#E6DEB4FF,#E6DEB4FF",
+				Colors1.ToStringArray(",")
+			);
+			Assert.AreEqual(
+				"#DED6AC6D,#DED6AC00,#DED6AC00,#DED6AC00,#DED6ACB6,#DED6AC6D,#DED6AC6D,#DED6AC6D,#E0D8AEDA,#DED6ACDA,#DED6ACDA,#DED6ACDA,#E0D8AE91,#E6DEB4FF,#E6DEB4FF,#E6DEB4FF",
+				Colors2.ToStringArray(",")
+			);
 
 			//CompressionSimpleDXT5.FindColorPair(Colors1, out Color1, out Color2);
 			
-			CompressDXT5.CompressBlock(Colors1, ref Block);
-
-			//Block.Decode(ref Colors2);
-
-			//Console.WriteLine("{0}", Colors1.ToStringArray(","));
-			//Console.WriteLine("{0}", Colors2.ToStringArray(","));
+			//CompressYCoCgDXT5.CompressBlock(Colors1, ref Block);
 		}
 
 		[TestMethod]
