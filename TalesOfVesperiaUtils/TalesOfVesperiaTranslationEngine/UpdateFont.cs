@@ -36,7 +36,7 @@ namespace TalesOfVesperiaTranslationEngine
 			var Fps4 = new FPS4(UI_SVO);
 			using (var Out = Fps4["FONTTEX10.TXV"].Open())
 			{
-				DXT5.SaveSwizzled(new Bitmap(Image.FromStream(FontTex10ModifiedPng)), Out);
+				DXT5.SaveSwizzled2D(new Bitmap(Image.FromStream(FontTex10ModifiedPng)), Out);
 			}
 			Console.WriteLine("Ok");
 		}

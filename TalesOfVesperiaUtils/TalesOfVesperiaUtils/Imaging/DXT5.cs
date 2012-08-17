@@ -14,40 +14,46 @@ namespace TalesOfVesperiaUtils.Imaging
 {
 	unsafe public class DXT5
 	{
-		static public void SaveSwizzled(Bitmap Bitmap, Stream File)
+		static public void SaveSwizzled2D(Bitmap Bitmap, Stream File)
 		{
 			int Width = Bitmap.Width, Height = Bitmap.Height;
 			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
-			int BlockWidth = Width / 4, BlockHeight = Height / 4;
-			var BlockCount = BlockWidth * BlockHeight;
-			var CurrentDecodedColors = new ARGB_Rev[16];
-			var Blocks = new Block[(uint)BlockCount];
 
-			for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
+			Bitmap.LockBitsUnlock(PixelFormat.Format32bppArgb, (BitmapData) =>
 			{
-				int TileX, TileY;
-				Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth, 16, out TileX, out TileY);
+				var Base = (ARGB_Rev*)BitmapData.Scan0.ToPointer();
 
-				int PositionX = TileX * 4;
-				int PositionY = TileY * 4;
-				int n = 0;
-				for (int y = 0; y < 4; y++)
+				int BlockWidth = Width / 4, BlockHeight = Height / 4;
+				var BlockCount = BlockWidth * BlockHeight;
+				var CurrentDecodedColors = new ARGB_Rev[16];
+				var Blocks = new Block[(uint)BlockCount];
+
+				for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
 				{
-					for (int x = 0; x < 4; x++)
+					int TileX, TileY;
+					Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth, 16, out TileX, out TileY);
+
+					int PositionX = TileX * 4;
+					int PositionY = TileY * 4;
+					int n = 0;
+					for (int y = 0; y < 4; y++)
 					{
-						CurrentDecodedColors[n] = Bitmap.GetPixel(PositionX + x, PositionY + y);
-						n++;
+						for (int x = 0; x < 4; x++)
+						{
+							CurrentDecodedColors[n] = Base[(PositionY + y) * Width + (PositionX + x)];
+							n++;
+						}
 					}
+
+					Blocks[dxt5_n].Encode(CurrentDecodedColors);
 				}
 
-				Blocks[dxt5_n].EncodeSimpleUnoptimizedWhiteAlpha(CurrentDecodedColors);
-			}
-
-			File.WriteStructVector(Blocks);
-			File.Flush();
+				File.WriteStructVector(Blocks);
+				File.Flush();
+			});
 		}
 
-		static public Bitmap LoadSwizzled(Stream File, int Width, int Height, bool Swizzled = true)
+		static public Bitmap LoadSwizzled2D(Stream File, int Width, int Height, bool Swizzled = true)
 		{
 			if ((Width % 4) != 0 || (Height % 4) != 0) throw(new InvalidDataException());
 			var Bitmap = new Bitmap(Width, Height);
@@ -190,9 +196,9 @@ namespace TalesOfVesperiaUtils.Imaging
 			public ushort_be colors0, colors1;
 			public ushort_be color_data0, color_data1;
 
-			public void Encode(Color[] Colors)
+			public void Encode(ARGB_Rev[] Colors)
 			{
-				throw (new NotImplementedException());
+				CompressDXT5.CompressBlock(Colors, out this, CompressDXT5.CompressionMode.Normal);
 			}
 
 			public void EncodeSimpleUnoptimizedWhiteAlpha(ARGB_Rev[] input)
