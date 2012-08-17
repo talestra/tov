@@ -122,6 +122,9 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			public byte NameSize;
 			public String Name;
 
+			public bool IsDirectory { get { return (Attributes & EntryAttributes.Directory) != 0; } }
+			public bool IsFile { get { return (Attributes & EntryAttributes.File) != 0; } }
+
 			public String FullName
 			{
 				get
