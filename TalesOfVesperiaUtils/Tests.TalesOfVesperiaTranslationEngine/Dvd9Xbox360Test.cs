@@ -1,16 +1,38 @@
 ﻿using TalesOfVesperiaUtils.Formats.Packages;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using System.Linq;
 using System.IO;
 using CSharpUtils;
 using CSharpUtils.Streams;
 using System.Text;
+using TalesOfVesperiaUtils.VirtualFileSystem;
 
 namespace TalesOfVesperiaTests
 {
 	[TestClass]
 	public class Dvd9Xbox360Test
 	{
+		[TestMethod]
+		public void LoadVfsTest()
+		{
+			var Stream = MapStream.Unserialize(new MemoryStream(File.OpenRead(Utils.TestInputPath + "/mini_iso.bin").ReadAll()));
+			var Dvd9Xbox360 = new Dvd9Xbox360().Load(Stream);
+			var Vfs = new Dvd9Xbox360FileSystem(Dvd9Xbox360);
+
+			Assert.AreEqual(
+				"ai.svo,btl.svo,chara.svo,chat.svo,common.svo,cook.svo,effect.svo,item.svo,map.svo,menu.svo,mg.svo,string.svo,UI.svo",
+				Vfs.FindFiles("/", "*.svo").Select(Item => Item.Name).ToStringArray(",")
+			);
+
+			using (var ConfigStream = Vfs.OpenFile("/snd/config.bin", FileMode.Open))
+			{
+				var TextReaded = ConfigStream.ReadString(4, Encoding.UTF8);
+
+				Assert.AreEqual("nusc", TextReaded);
+			}
+		}
+
 		[TestMethod]
 		public void LoadTest()
 		{
