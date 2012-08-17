@@ -43,7 +43,7 @@ namespace TalesOfVesperiaTests.Imaging
 			//var Color1 = default(ARGB_Rev);
 			//var Color2 = default(ARGB_Rev);
 
-			CompressDXT5.CompressBlock(Colors1.Select(Item => (RGBA)Item).ToArray(), out Block, CompressDXT5.CompressionMode.Normal);
+			CompressDXT5.CompressBlock(Colors1, out Block, CompressDXT5.CompressionMode.Normal);
 
 			Console.WriteLine(StructUtils.StructToBytes(Block).ToHexString().ToUpper());
 
@@ -118,7 +118,7 @@ namespace TalesOfVesperiaTests.Imaging
 				BitConverter.ToString(Bytes)
 			);
 
-			var Bitmap = DXT5.LoadSwizzled(File.OpenRead("../../../TestInput/FONTTEX05.TXV.mod.TXV"), 2048, 2048);
+			var Bitmap = DXT5.LoadSwizzled2D(File.OpenRead("../../../TestInput/FONTTEX05.TXV.mod.TXV"), 2048, 2048);
 			Bitmap.Save("../../../Lol.png");
 		}
 	}

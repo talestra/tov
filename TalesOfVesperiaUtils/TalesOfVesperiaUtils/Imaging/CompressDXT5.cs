@@ -75,16 +75,16 @@ namespace TalesOfVesperiaUtils.Imaging
 			return (t + (t >> 8)) >> 8;
 		}
 
-		static void stb__From16Bit(byte* _out, ushort v)
+		static void stb__From16Bit(out ARGB_Rev _out, ushort v)
 		{
 			int rv = (v & 0xf800) >> 11;
 			int gv = (v & 0x07e0) >> 5;
 			int bv = (v & 0x001f) >> 0;
 
-			_out[0] = stb__Expand5[rv];
-			_out[1] = stb__Expand6[gv];
-			_out[2] = stb__Expand5[bv];
-			_out[3] = 0;
+			_out.R = stb__Expand5[rv];
+			_out.G = stb__Expand6[gv];
+			_out.B = stb__Expand5[bv];
+			_out.A = 0;
 		}
 
 		static ushort stb__As16Bit(int r, int g, int b)
@@ -106,11 +106,11 @@ namespace TalesOfVesperiaUtils.Imaging
 		}
 
 		// lerp RGB color
-		static void stb__Lerp13RGB(byte* _out, byte* p1, byte* p2)
+		static void stb__Lerp13RGB(ref ARGB_Rev _out, ARGB_Rev p1, ARGB_Rev p2)
 		{
-			_out[0] = (byte)stb__Lerp13(p1[0], p2[0]);
-			_out[1] = (byte)stb__Lerp13(p1[1], p2[1]);
-			_out[2] = (byte)stb__Lerp13(p1[2], p2[2]);
+			_out.R = (byte)stb__Lerp13(p1.R, p2.R);
+			_out.G = (byte)stb__Lerp13(p1.G, p2.G);
+			_out.B = (byte)stb__Lerp13(p1.B, p2.B);
 		}
 
 		/****************************************************************************/
@@ -147,17 +147,17 @@ namespace TalesOfVesperiaUtils.Imaging
 			}
 		}
 
-		static void stb__EvalColors(byte* color, ushort c0, ushort c1)
+		static void stb__EvalColors(ARGB_Rev* color, ushort c0, ushort c1)
 		{
-			stb__From16Bit(color + 0, c0);
-			stb__From16Bit(color + 4, c1);
-			stb__Lerp13RGB(color + 8, color + 0, color + 4);
-			stb__Lerp13RGB(color + 12, color + 4, color + 0);
+			stb__From16Bit(out color[0], c0);
+			stb__From16Bit(out color[1], c1);
+			stb__Lerp13RGB(ref color[2], color[0], color[1]);
+			stb__Lerp13RGB(ref color[3], color[1], color[0]);
 		}
 
 		// Block dithering function. Simply dithers a block to 565 RGB.
 		// (Floyd-Steinberg)
-		static void stb__DitherBlock(byte* dest, byte* block)
+		static void stb__DitherBlock(ARGB_Rev* dest, ARGB_Rev* block)
 		{
 			var err = stackalloc int[8];
 			int* ep1 = err;
@@ -168,12 +168,14 @@ namespace TalesOfVesperiaUtils.Imaging
 			fixed (byte* _stb__QuantGTab = stb__QuantGTab)
 			fixed (byte* _stb__QuantRBTab = stb__QuantRBTab)
 			{
+				var bpList = new byte*[] { &block->R, &block->G, &block->B };
+				var dpList = new byte*[] { &dest->R, &dest->G, &dest->B };
 
 				// process channels seperately
 				for (ch = 0; ch < 3; ++ch)
 				{
-					byte* bp = block + ch;
-					byte* dp = dest + ch;
+					byte* bp = bpList[ch];
+					byte* dp = dpList[ch];
 					byte* quant = (ch == 1) ? _stb__QuantGTab + 8 : _stb__QuantRBTab + 8;
 					PointerUtils.Memset((byte*)err, 0, sizeof(int) * 8);
 					for (y = 0; y < 4; ++y)
@@ -195,22 +197,22 @@ namespace TalesOfVesperiaUtils.Imaging
 		}
 
 		// The color matching function
-		static uint stb__MatchColorsBlock(byte* block, byte* color, bool dither)
+		static uint stb__MatchColorsBlock(ARGB_Rev* block, ARGB_Rev* color, bool dither)
 		{
 			uint mask = 0;
-			int dirr = color[0 * 4 + 0] - color[1 * 4 + 0];
-			int dirg = color[0 * 4 + 1] - color[1 * 4 + 1];
-			int dirb = color[0 * 4 + 2] - color[1 * 4 + 2];
+			int dirr = color[0].R - color[1].R;
+			int dirg = color[0].G - color[1].G;
+			int dirb = color[0].B - color[1].B;
 			var dots = stackalloc int[16];
 			var stops = stackalloc int[4];
 			int i;
 			int c0Point, halfPoint, c3Point;
 
 			for (i = 0; i < 16; i++)
-				dots[i] = block[i * 4 + 0] * dirr + block[i * 4 + 1] * dirg + block[i * 4 + 2] * dirb;
+				dots[i] = block[i].R * dirr + block[i].G * dirg + block[i].B * dirb;
 
 			for (i = 0; i < 4; i++)
-				stops[i] = color[i * 4 + 0] * dirr + color[i * 4 + 1] * dirg + color[i * 4 + 2] * dirb;
+				stops[i] = color[i].R * dirr + color[i].G * dirg + color[i].B * dirb;
 
 			// think of the colors as arranged on a line; project point onto that line, then choose
 			// next color out of available ones. we compute the crossover points for "best color in top
@@ -299,11 +301,11 @@ namespace TalesOfVesperiaUtils.Imaging
 		}
 
 		// The color optimization function. (Clever code, part 1)
-		static void stb__OptimizeColorsBlock(byte* block, ushort* pmax16, ushort* pmin16)
+		static void stb__OptimizeColorsBlock(ARGB_Rev* block, ushort* pmax16, ushort* pmin16)
 		{
 			int mind = 0x7fffffff, maxd = -0x7fffffff;
-			byte* minp = null;
-			byte* maxp = null;
+			var minp = default(ARGB_Rev);
+			var maxp = default(ARGB_Rev);
 			double magn;
 			int v_r, v_g, v_b;
 			const int nIterPower = 4;
@@ -341,9 +343,9 @@ namespace TalesOfVesperiaUtils.Imaging
 
 			for (i = 0; i < 16; i++)
 			{
-				int r = block[i * 4 + 0] - mu[0];
-				int g = block[i * 4 + 1] - mu[1];
-				int b = block[i * 4 + 2] - mu[2];
+				int r = block[i].R - mu[0];
+				int g = block[i].G - mu[1];
+				int b = block[i].B - mu[2];
 
 				cov[0] += r * r;
 				cov[1] += r * g;
@@ -393,23 +395,23 @@ namespace TalesOfVesperiaUtils.Imaging
 			// Pick colors at extreme points
 			for (i = 0; i < 16; i++)
 			{
-				int dot = block[i * 4 + 0] * v_r + block[i * 4 + 1] * v_g + block[i * 4 + 2] * v_b;
+				int dot = block[i].R * v_r + block[i].G * v_g + block[i].B * v_b;
 
 				if (dot < mind)
 				{
 					mind = dot;
-					minp = block + i * 4;
+					minp = block[i];
 				}
 
 				if (dot > maxd)
 				{
 					maxd = dot;
-					maxp = block + i * 4;
+					maxp = block[i];
 				}
 			}
 
-			*pmax16 = stb__As16Bit(maxp[0], maxp[1], maxp[2]);
-			*pmin16 = stb__As16Bit(minp[0], minp[1], minp[2]);
+			*pmax16 = stb__As16Bit(maxp.R, maxp.G, maxp.B);
+			*pmin16 = stb__As16Bit(minp.R, minp.G, minp.B);
 		}
 
 		static int stb__sclamp(float y, int p0, int p1)
@@ -423,7 +425,7 @@ namespace TalesOfVesperiaUtils.Imaging
 		// The refinement function. (Clever code, part 2)
 		// Tries to optimize colors to suit block contents better.
 		// (By solving a least squares system via normal equations+Cramer's rule)
-		static bool stb__RefineBlock(byte* block, ushort* pmax16, ushort* pmin16, uint mask)
+		static bool stb__RefineBlock(ARGB_Rev* block, ushort* pmax16, ushort* pmin16, uint mask)
 		{
 			var w1Tab = new int[4] { 3, 0, 2, 1 };
 			var prods = new int[4] { 0x090000, 0x000900, 0x040102, 0x010402 };
@@ -447,9 +449,9 @@ namespace TalesOfVesperiaUtils.Imaging
 				int r = 8, g = 8, b = 8;
 				for (i = 0; i < 16; ++i)
 				{
-					r += block[i * 4 + 0];
-					g += block[i * 4 + 1];
-					b += block[i * 4 + 2];
+					r += block[i].R;
+					g += block[i].G;
+					b += block[i].B;
 				}
 
 				r >>= 4; g >>= 4; b >>= 4;
@@ -465,9 +467,9 @@ namespace TalesOfVesperiaUtils.Imaging
 				{
 					int step = (int)(cm & 3);
 					int w1 = w1Tab[step];
-					int r = block[i * 4 + 0];
-					int g = block[i * 4 + 1];
-					int b = block[i * 4 + 2];
+					int r = block[i].R;
+					int g = block[i].G;
+					int b = block[i].B;
 
 					akku += prods[step];
 					At1_r += w1 * r;
@@ -506,15 +508,15 @@ namespace TalesOfVesperiaUtils.Imaging
 		}
 
 		// Color block compression
-		static void stb__CompressColorBlock(byte* dest, byte* block, CompressionMode mode)
+		static void stb__CompressColorBlock(byte* dest, ARGB_Rev* block, CompressionMode mode)
 		{
 			uint mask;
 			int i;
 			bool dither;
 			int refinecount;
 			ushort max16, min16;
-			var dblock = stackalloc byte[16 * 4];
-			var color = stackalloc byte[4 * 4];
+			var dblock = stackalloc ARGB_Rev[16];
+			var color = stackalloc ARGB_Rev[4];
 
 			dither = (mode & CompressionMode.Dither) != 0;
 			refinecount = ((mode & CompressionMode.HighQuality) != 0) ? 2 : 1;
@@ -526,7 +528,7 @@ namespace TalesOfVesperiaUtils.Imaging
 
 			if (i == 16)
 			{ // constant color
-				int r = block[0], g = block[1], b = block[2];
+				int r = block[0].R, g = block[0].G, b = block[0].B;
 				mask = 0xaaaaaaaa;
 				max16 = (ushort)((stb__OMatch5[r, 0] << 11) | (stb__OMatch6[g, 0] << 5) | stb__OMatch5[b, 0]);
 				min16 = (ushort)((stb__OMatch5[r, 1] << 11) | (stb__OMatch6[g, 1] << 5) | stb__OMatch5[b, 1]);
@@ -591,18 +593,18 @@ namespace TalesOfVesperiaUtils.Imaging
 		}
 
 		// Alpha block compression (this is easy for a change)
-		static void stb__CompressAlphaBlock(byte* dest, byte* src, CompressionMode mode)
+		static void stb__CompressAlphaBlock(byte* dest, ARGB_Rev* src, CompressionMode mode)
 		{
 			int i, dist, bias, dist4, dist2, bits, mask;
 
 			// find min/max color
 			int mn, mx;
-			mn = mx = src[3];
+			mn = mx = src[0].A;
 
 			for (i = 1; i < 16; i++)
 			{
-				if (src[i * 4 + 3] < mn) mn = src[i * 4 + 3];
-				else if (src[i * 4 + 3] > mx) mx = src[i * 4 + 3];
+				if (src[i].A < mn) mn = src[i].A;
+				else if (src[i].A > mx) mx = src[i].A;
 			}
 
 			// encode them
@@ -623,7 +625,7 @@ namespace TalesOfVesperiaUtils.Imaging
 
 			for (i = 0; i < 16; i++)
 			{
-				int a = src[i * 4 + 3] * 7 + bias;
+				int a = src[i].A * 7 + bias;
 				int ind, t;
 
 				// select index. this is a "linear scale" lerp factor between 0 (val=min) and 7 (val=max).
@@ -674,16 +676,23 @@ namespace TalesOfVesperiaUtils.Imaging
 
 		static bool init = true;
 
-		static public void CompressBlock(RGBA[] Colors, out DXT5.Block Block, CompressionMode mode = CompressionMode.HighQuality)
+		static public void CompressBlock(ARGB_Rev[] Colors, out DXT5.Block Block, CompressionMode mode = CompressionMode.HighQuality)
 		{
 			Block = default(DXT5.Block);
 
-			fixed (RGBA* ColorsPtr = Colors)
+			fixed (ARGB_Rev* ColorsPtr = Colors)
 			fixed (DXT5.Block* BlockPtr = &Block)
 			{
-				stb_compress_dxt_block((byte *)BlockPtr, (byte*)ColorsPtr, true, mode);
+				stb_compress_dxt_block((byte*)BlockPtr, ColorsPtr, true, mode);
 			}
 		}
+
+#if false
+		static public void CompressBlock(RGBA[] Colors, out DXT5.Block Block, CompressionMode mode = CompressionMode.HighQuality)
+		{
+			CompressBlock(Colors.Select(Item => (ARGB_Rev)Item).ToArray(), out Block, mode);
+		}
+#endif
 
 		/*
 		unsafe public struct Block
@@ -703,7 +712,7 @@ namespace TalesOfVesperiaUtils.Imaging
 			MathUtils.Swap(ref dest[6], ref dest[7]);
 		}
 
-		static private void stb_compress_dxt_block(byte* dest, byte* src, bool alpha, CompressionMode mode)
+		static private void stb_compress_dxt_block(byte* dest, ARGB_Rev* src, bool alpha, CompressionMode mode)
 		{
 			if (init)
 			{
@@ -713,12 +722,12 @@ namespace TalesOfVesperiaUtils.Imaging
 
 			if (alpha)
 			{
-				stb__CompressAlphaBlock(dest, (byte*)src, mode);
+				stb__CompressAlphaBlock(dest, src, mode);
 				scramble(dest);
 				dest += 8;
 			}
 
-			stb__CompressColorBlock(dest, (byte*)src, mode);
+			stb__CompressColorBlock(dest, src, mode);
 			scramble(dest);
 		}
 	}
