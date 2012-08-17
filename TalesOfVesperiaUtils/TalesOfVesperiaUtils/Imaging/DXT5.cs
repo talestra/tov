@@ -14,7 +14,7 @@ namespace TalesOfVesperiaUtils.Imaging
 {
 	unsafe public class DXT5
 	{
-		static public void SaveSwizzled2D(Bitmap Bitmap, Stream File)
+		static public void SaveSwizzled2D(Bitmap Bitmap, Stream File, CompressDXT5.CompressionMode mode = CompressDXT5.CompressionMode.Normal)
 		{
 			int Width = Bitmap.Width, Height = Bitmap.Height;
 			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
@@ -23,7 +23,8 @@ namespace TalesOfVesperiaUtils.Imaging
 			{
 				var Base = (ARGB_Rev*)BitmapData.Scan0.ToPointer();
 
-				int BlockWidth = Width / 4, BlockHeight = Height / 4;
+				int BlockWidth = Width / 4;
+				int BlockHeight = Height / 4;
 				var BlockCount = BlockWidth * BlockHeight;
 				var CurrentDecodedColors = new ARGB_Rev[16];
 				var Blocks = new Block[(uint)BlockCount];
@@ -36,6 +37,13 @@ namespace TalesOfVesperiaUtils.Imaging
 					int PositionX = TileX * 4;
 					int PositionY = TileY * 4;
 					int n = 0;
+
+					if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height))
+					{
+						Console.Error.WriteLine("Warning SaveSwizzled2D ({0}, {1})!", PositionX, PositionY);
+						continue;
+					}
+
 					for (int y = 0; y < 4; y++)
 					{
 						for (int x = 0; x < 4; x++)
@@ -45,7 +53,7 @@ namespace TalesOfVesperiaUtils.Imaging
 						}
 					}
 
-					Blocks[dxt5_n].Encode(CurrentDecodedColors);
+					Blocks[dxt5_n].Encode(CurrentDecodedColors, mode);
 				}
 
 				File.WriteStructVector(Blocks);
@@ -53,6 +61,15 @@ namespace TalesOfVesperiaUtils.Imaging
 			});
 		}
 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <remarks>Seems to have problems with non-power of two Width/Height s</remarks>
+		/// <param name="File"></param>
+		/// <param name="Width"></param>
+		/// <param name="Height"></param>
+		/// <param name="Swizzled"></param>
+		/// <returns></returns>
 		static public Bitmap LoadSwizzled2D(Stream File, int Width, int Height, bool Swizzled = true)
 		{
 			if ((Width % 4) != 0 || (Height % 4) != 0) throw(new InvalidDataException());
@@ -196,9 +213,9 @@ namespace TalesOfVesperiaUtils.Imaging
 			public ushort_be colors0, colors1;
 			public ushort_be color_data0, color_data1;
 
-			public void Encode(ARGB_Rev[] Colors)
+			public void Encode(ARGB_Rev[] Colors, CompressDXT5.CompressionMode mode = CompressDXT5.CompressionMode.Normal)
 			{
-				CompressDXT5.CompressBlock(Colors, out this, CompressDXT5.CompressionMode.Normal);
+				CompressDXT5.CompressBlock(Colors, out this, mode);
 			}
 
 			public void EncodeSimpleUnoptimizedWhiteAlpha(ARGB_Rev[] input)

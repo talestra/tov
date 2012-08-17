@@ -77,13 +77,13 @@
     <Compile Include="Formats\Script\TSS.Utils.cs" />
     <Compile Include="Imaging\BitmapList.cs" />
     <Compile Include="Imaging\CompressDXT5.cs" />
-    <Compile Include="Imaging\CompressYCoCgDXT5.cs" />
-    <Compile Include="Imaging\CompressionSimpleDXT5.cs" />
+    <Compile Include="Imaging\Unused\CompressYCoCgDXT5.cs" />
+    <Compile Include="Imaging\Unused\CompressionSimpleDXT5.cs" />
     <Compile Include="Imaging\DXT5.cs" />
     <Compile Include="Imaging\GpuEnums.cs" />
     <Compile Include="Imaging\Swizzling.cs" />
     <Compile Include="Imaging\TXM.cs" />
-    <Compile Include="Imaging\Y_CO_CG_A.cs" />
+    <Compile Include="Imaging\Unused\Y_CO_CG_A.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Text\CharacterMapping.cs" />
     <Compile Include="Text\DetectPitfalls.cs" />

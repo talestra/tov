@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using CSharpUtils.Getopt;
 using TalesOfVesperiaUtils.Formats.Packages;
@@ -44,7 +46,17 @@ namespace Svo
 
 		static void ShowHelp()
 		{
-			Console.WriteLine("SVO - Tales of Vesperia Utilities - 2012");
+			var CurrentAssembly = Assembly.GetEntryAssembly();
+			var VersionInfo = FileVersionInfo.GetVersionInfo(CurrentAssembly.Location);
+
+			Console.WriteLine(
+				"{0} - {1} - {2} - {3} - soywiz - {4}",
+				VersionInfo.FileDescription,
+				String.Join(".", VersionInfo.FileVersion.Split('.').Take(2)),
+				VersionInfo.Comments,
+				VersionInfo.CompanyName,
+				VersionInfo.LegalCopyright
+			);
 			Console.WriteLine("");
 			Console.WriteLine("Switches:");
 			Console.WriteLine("   -e - Extract SVO");
@@ -52,8 +64,8 @@ namespace Svo
 			Console.WriteLine("");
 			Console.WriteLine("Examples:");
 			Console.WriteLine("");
-			Console.WriteLine("   SVO.exe -e file.svo <folder>");
-			Console.WriteLine("   SVO.exe -c file.svo folder");
+			Console.WriteLine("   {0}.exe -e file.svo <folder>", CurrentAssembly.GetName().Name);
+			Console.WriteLine("   {0}.exe -c file.svo folder", CurrentAssembly.GetName().Name);
 		}
 
 		static void Main(string[] args)
@@ -88,6 +100,11 @@ namespace Svo
 			{
 				Console.Error.WriteLine(Exception.Message);
 				Environment.Exit(-1);
+			}
+
+			if (Debugger.IsAttached)
+			{
+				Console.ReadKey();
 			}
 		}
 	}
