@@ -77,6 +77,7 @@
     <Compile Include="Formats\Script\TSS.Utils.cs" />
     <Compile Include="Imaging\BitmapList.cs" />
     <Compile Include="Imaging\CompressDXT5.cs" />
+    <Compile Include="Imaging\CompressYCoCgDXT5.cs" />
     <Compile Include="Imaging\CompressionSimpleDXT5.cs" />
     <Compile Include="Imaging\DXT5.cs" />
     <Compile Include="Imaging\GpuEnums.cs" />

@@ -1,6 +1,19 @@
-﻿using System;
+﻿// configuration options for DXT encoder. set them in the project/makefile or just define
+// them at the top.
+
+// STB_DXT_USE_ROUNDING_BIAS
+//     use a rounding bias during color interpolation. this is closer to what "ideal"
+//     interpolation would do but doesn't match the S3TC/DX10 spec. old versions (pre-1.03)
+//     implicitly had this turned on. 
+//
+//     in case you're targeting a specific type of hardware (e.g. console programmers):
+//     NVidia and Intel GPUs (as of 2010) as well as DX9 ref use DXT decoders that are closer
+//     to STB_DXT_USE_ROUNDING_BIAS. AMD/ATI, S3 and DX10 ref are closer to rounding with no bias.
+//     you also see "(a*5 + b*3) / 8" on some old GPU designs.
+// #define STB_DXT_USE_ROUNDING_BIAS
+
+using System;
 using System.Collections.Generic;
-using System.Drawing;
 using System.Linq;
 using System.Text;
 using CSharpUtils;
@@ -10,322 +23,703 @@ namespace TalesOfVesperiaUtils.Imaging
 {
 	unsafe public class CompressDXT5
 	{
-		public struct byte4
+		// stb_dxt.h - v1.04 - DXT1/DXT5 compressor - public domain
+		// original by fabian "ryg" giesen - ported to C by stb
+		// use '#define STB_DXT_IMPLEMENTATION' before including to create the implementation
+		//
+		// USAGE:
+		//   call stb_compress_dxt_block() for every block (you must pad)
+		//     source should be a 4x4 block of RGBA data in row-major order;
+		//     A is ignored if you specify alpha=0; you can turn on dithering
+		//     and "high quality" using mode.
+		//
+		// version history:
+		//   v1.04  - (ryg) default to no rounding bias for lerped colors (as per S3TC/DX10 spec);
+		//            single color match fix (allow for inexact color interpolation);
+		//            optimal DXT5 index finder; "high quality" mode that runs multiple refinement steps.
+		//   v1.03  - (stb) endianness support
+		//   v1.02  - (stb) fix alpha encoding bug
+		//   v1.01  - (stb) fix bug converting to RGB that messed up quality, thanks ryg & cbloom
+		//   v1.00  - (stb) first release
+
+		// compression mode (bitflags)
+
+		public enum CompressionMode
 		{
-			public byte V0, V1, V2, V3;
+			/// <summary>
+			/// 
+			/// </summary>
+			Normal = 0,
 
-			public byte4(byte V0, byte V1, byte V2, byte V3)
-			{
-				this.V0 = V0;
-				this.V1 = V1;
-				this.V2 = V2;
-				this.V3 = V3;
-			}
+			/// <summary>
+			/// use dithering. dubious win. never use for normal maps and the like!
+			/// </summary>
+			Dither = 1,
 
-			static public implicit operator byte4(Y_CO_CG_A In)
+			/// <summary>
+			/// high quality mode, does two refinement steps instead of 1. ~30-40% slower.
+			/// </summary>
+			HighQuality = 2,
+		}
+
+		static byte[] stb__Expand5 = new byte[32];
+		static byte[] stb__Expand6 = new byte[64];
+		static byte[,] stb__OMatch5 = new byte[256, 2];
+		static byte[,] stb__OMatch6 = new byte[256, 2];
+		static byte[] stb__QuantRBTab = new byte[256 + 16];
+		static byte[] stb__QuantGTab = new byte[256 + 16];
+
+		static int stb__Mul8Bit(int a, int b)
+		{
+			int t = a * b + 128;
+			return (t + (t >> 8)) >> 8;
+		}
+
+		static void stb__From16Bit(byte* _out, ushort v)
+		{
+			int rv = (v & 0xf800) >> 11;
+			int gv = (v & 0x07e0) >> 5;
+			int bv = (v & 0x001f) >> 0;
+
+			_out[0] = stb__Expand5[rv];
+			_out[1] = stb__Expand6[gv];
+			_out[2] = stb__Expand5[bv];
+			_out[3] = 0;
+		}
+
+		static ushort stb__As16Bit(int r, int g, int b)
+		{
+			return (ushort)((stb__Mul8Bit(r, 31) << 11) + (stb__Mul8Bit(g, 63) << 5) + stb__Mul8Bit(b, 31));
+		}
+
+		// linear interpolation at 1/3 point between a and b, using desired rounding type
+		static int stb__Lerp13(int a, int b)
+		{
+#if STB_DXT_USE_ROUNDING_BIAS
+		   // with rounding bias
+		   return a + stb__Mul8Bit(b-a, 0x55);
+#else
+			// without rounding bias
+			// replace "/ 3" by "* 0xaaab) >> 17" if your compiler sucks or you really need every ounce of speed.
+			return (2 * a + b) / 3;
+#endif
+		}
+
+		// lerp RGB color
+		static void stb__Lerp13RGB(byte* _out, byte* p1, byte* p2)
+		{
+			_out[0] = (byte)stb__Lerp13(p1[0], p2[0]);
+			_out[1] = (byte)stb__Lerp13(p1[1], p2[1]);
+			_out[2] = (byte)stb__Lerp13(p1[2], p2[2]);
+		}
+
+		/****************************************************************************/
+
+		// compute table to reproduce constant colors as accurately as possible
+		static void stb__PrepareOptTable(byte* Table, byte* expand, int size)
+		{
+			int i, mn, mx;
+			for (i = 0; i < 256; i++)
 			{
-				return new byte4()
+				int bestErr = 256;
+				for (mn = 0; mn < size; mn++)
 				{
-					V0 = (byte)In.CO,
-					V1 = (byte)In.CG,
-					V2 = In.A,
-					V3 = In.Y,
-				};
-			}
+					for (mx = 0; mx < size; mx++)
+					{
+						int mine = expand[mn];
+						int maxe = expand[mx];
+						int err = Math.Abs(stb__Lerp13(maxe, mine) - i);
 
-			static public implicit operator Y_CO_CG_A(byte4 In)
-			{
-				return new Y_CO_CG_A()
-				{
-					CO = (byte)In.V0,
-					CG = (byte)In.V1,
-					A = In.V2,
-					Y = In.V3,
-				};
-			}
+						// DX10 spec says that interpolation must be within 3% of "correct" result,
+						// add this as error term. (normally we'd expect a random distribution of
+						// +-1.5% error, but nowhere in the spec does it say that the error has to be
+						// unbiased - better safe than sorry).
+						err += Math.Abs(maxe - mine) * 3 / 100;
 
-			static public implicit operator ARGB_Rev(byte4 In)
-			{
-				return new ARGB_Rev(In.V0, In.V1, In.V2, In.V3);
-			}
-
-			static public implicit operator byte4(ARGB_Rev In)
-			{
-				return new byte4(In.A, In.R, In.G, In.B);
+						if (err < bestErr)
+						{
+							Table[i * 2 + 0] = (byte)mx;
+							Table[i * 2 + 1] = (byte)mn;
+							bestErr = err;
+						}
+					}
+				}
 			}
 		}
 
-		/// <summary>
-		/// inset color bounding box
-		/// </summary>
-		const int INSET_COLOR_SHIFT = 4;
-		
-		/// <summary>
-		/// inset alpha bounding box
-		/// </summary>
-		const int INSET_ALPHA_SHIFT = 5;
-
-		/// <summary>
-		/// 0xFF minus last three bits
-		/// </summary>
-		const int C565_5_MASK = 0xF8;
-
-		/// <summary>
-		/// 0xFF minus last two bits
-		/// </summary>
-		const int C565_6_MASK = 0xFC;
-
-		static private void GetMinMaxYCoCg(byte4[] ColorBlock, out byte4 MinColor, out byte4 MaxColor)
+		static void stb__EvalColors(byte* color, ushort c0, ushort c1)
 		{
-			MinColor.V0 = MinColor.V1 = MinColor.V2 = MinColor.V3 = 0xFF;
-			MaxColor.V0 = MaxColor.V1 = MaxColor.V2 = MaxColor.V3 = 0x00;
+			stb__From16Bit(color + 0, c0);
+			stb__From16Bit(color + 4, c1);
+			stb__Lerp13RGB(color + 8, color + 0, color + 4);
+			stb__Lerp13RGB(color + 12, color + 4, color + 0);
+		}
 
-			for (int i = 0; i < 16; i++)
+		// Block dithering function. Simply dithers a block to 565 RGB.
+		// (Floyd-Steinberg)
+		static void stb__DitherBlock(byte* dest, byte* block)
+		{
+			var err = stackalloc int[8];
+			int* ep1 = err;
+			int* ep2 = err + 4;
+			int* et;
+			int ch, y;
+
+			fixed (byte* _stb__QuantGTab = stb__QuantGTab)
+			fixed (byte* _stb__QuantRBTab = stb__QuantRBTab)
 			{
-				MinColor.V0 = Math.Min(MinColor.V0, ColorBlock[i].V0);
-				MinColor.V1 = Math.Min(MinColor.V1, ColorBlock[i].V1);
-				MinColor.V2 = Math.Min(MinColor.V2, ColorBlock[i].V2);
-				MinColor.V3 = Math.Min(MinColor.V3, ColorBlock[i].V3);
 
-				MaxColor.V0 = Math.Min(MaxColor.V0, ColorBlock[i].V0);
-				MaxColor.V1 = Math.Min(MaxColor.V1, ColorBlock[i].V1);
-				MaxColor.V2 = Math.Min(MaxColor.V2, ColorBlock[i].V2);
-				MaxColor.V3 = Math.Min(MaxColor.V3, ColorBlock[i].V3);
+				// process channels seperately
+				for (ch = 0; ch < 3; ++ch)
+				{
+					byte* bp = block + ch;
+					byte* dp = dest + ch;
+					byte* quant = (ch == 1) ? _stb__QuantGTab + 8 : _stb__QuantRBTab + 8;
+					PointerUtils.Memset((byte*)err, 0, sizeof(int) * 8);
+					for (y = 0; y < 4; ++y)
+					{
+						dp[0] = quant[bp[0] + ((3 * ep2[1] + 5 * ep2[0]) >> 4)];
+						ep1[0] = bp[0] - dp[0];
+						dp[4] = quant[bp[4] + ((7 * ep1[0] + 3 * ep2[2] + 5 * ep2[1] + ep2[0]) >> 4)];
+						ep1[1] = bp[4] - dp[4];
+						dp[8] = quant[bp[8] + ((7 * ep1[1] + 3 * ep2[3] + 5 * ep2[2] + ep2[1]) >> 4)];
+						ep1[2] = bp[8] - dp[8];
+						dp[12] = quant[bp[12] + ((7 * ep1[2] + 5 * ep2[3] + ep2[2]) >> 4)];
+						ep1[3] = bp[12] - dp[12];
+						bp += 16;
+						dp += 16;
+						et = ep1; ep1 = ep2; ep2 = et; // swap
+					}
+				}
 			}
 		}
 
-		static private void ScaleYCoCg(byte4[] ColorBlock, ref byte4 MinColor, ref byte4 MaxColor)
+		// The color matching function
+		static uint stb__MatchColorsBlock(byte* block, byte* color, bool dither)
 		{
+			uint mask = 0;
+			int dirr = color[0 * 4 + 0] - color[1 * 4 + 0];
+			int dirg = color[0 * 4 + 1] - color[1 * 4 + 1];
+			int dirb = color[0 * 4 + 2] - color[1 * 4 + 2];
+			var dots = stackalloc int[16];
+			var stops = stackalloc int[4];
 			int i;
-			int m0 = Math.Abs(MinColor.V0 - 128);
-			int m1 = Math.Abs(MinColor.V1 - 128);
-			int m2 = Math.Abs(MaxColor.V0 - 128);
-			int m3 = Math.Abs(MaxColor.V1 - 128);
+			int c0Point, halfPoint, c3Point;
 
-			if (m1 > m0) m0 = m1;
-			if (m3 > m2) m2 = m3;
-			if (m2 > m0) m0 = m2;
+			for (i = 0; i < 16; i++)
+				dots[i] = block[i * 4 + 0] * dirr + block[i * 4 + 1] * dirg + block[i * 4 + 2] * dirb;
 
-			const int s0 = 128 / 2 - 1;
-			const int s1 = 128 / 4 - 1;
+			for (i = 0; i < 4; i++)
+				stops[i] = color[i * 4 + 0] * dirr + color[i * 4 + 1] * dirg + color[i * 4 + 2] * dirb;
 
-			int mask0 = -((m0 <= s0) ? 1 : 0);
-			int mask1 = -((m0 <= s1) ? 1 : 0);
-			int scale = 1 + (1 & mask0) + (2 & mask1);
+			// think of the colors as arranged on a line; project point onto that line, then choose
+			// next color out of available ones. we compute the crossover points for "best color in top
+			// half"/"best in bottom half" and then the same inside that subinterval.
+			//
+			// relying on this 1d approximation isn't always optimal in terms of euclidean distance,
+			// but it's very close and a lot faster.
+			// http://cbloomrants.blogspot.com/2008/12/12-08-08-dxtc-summary.html
 
-			MinColor.V0 = (byte)((MinColor.V0 - 128) * scale + 128);
-			MinColor.V1 = (byte)((MinColor.V1 - 128) * scale + 128);
-			MinColor.V2 = (byte)((scale - 1) << 3);
+			c0Point = (stops[1] + stops[3]) >> 1;
+			halfPoint = (stops[3] + stops[2]) >> 1;
+			c3Point = (stops[2] + stops[0]) >> 1;
 
-			MaxColor.V0 = (byte)((MaxColor.V0 - 128) * scale + 128);
-			MaxColor.V1 = (byte)((MaxColor.V1 - 128) * scale + 128);
-			MaxColor.V2 = (byte)((scale - 1) << 3);
+			if (!dither)
+			{
+				// the version without dithering is straightforward
+				for (i = 15; i >= 0; i--)
+				{
+					int dot = dots[i];
+					mask <<= 2;
+
+					if (dot < halfPoint)
+						mask |= (uint)((dot < c0Point) ? 1 : 3);
+					else
+						mask |= (uint)((dot < c3Point) ? 2 : 0);
+				}
+			}
+			else
+			{
+				// with floyd-steinberg dithering
+				var err = stackalloc int[8];
+				int* ep1 = err;
+				int* ep2 = err + 4;
+				int* dp = dots;
+				int y;
+
+				c0Point <<= 4;
+				halfPoint <<= 4;
+				c3Point <<= 4;
+				for (i = 0; i < 8; i++)
+					err[i] = 0;
+
+				for (y = 0; y < 4; y++)
+				{
+					int dot, lmask, step;
+
+					dot = (dp[0] << 4) + (3 * ep2[1] + 5 * ep2[0]);
+					if (dot < halfPoint)
+						step = (dot < c0Point) ? 1 : 3;
+					else
+						step = (dot < c3Point) ? 2 : 0;
+					ep1[0] = dp[0] - stops[step];
+					lmask = step;
+
+					dot = (dp[1] << 4) + (7 * ep1[0] + 3 * ep2[2] + 5 * ep2[1] + ep2[0]);
+					if (dot < halfPoint)
+						step = (dot < c0Point) ? 1 : 3;
+					else
+						step = (dot < c3Point) ? 2 : 0;
+					ep1[1] = dp[1] - stops[step];
+					lmask |= step << 2;
+
+					dot = (dp[2] << 4) + (7 * ep1[1] + 3 * ep2[3] + 5 * ep2[2] + ep2[1]);
+					if (dot < halfPoint)
+						step = (dot < c0Point) ? 1 : 3;
+					else
+						step = (dot < c3Point) ? 2 : 0;
+					ep1[2] = dp[2] - stops[step];
+					lmask |= step << 4;
+
+					dot = (dp[3] << 4) + (7 * ep1[2] + 5 * ep2[3] + ep2[2]);
+					if (dot < halfPoint)
+						step = (dot < c0Point) ? 1 : 3;
+					else
+						step = (dot < c3Point) ? 2 : 0;
+					ep1[3] = dp[3] - stops[step];
+					lmask |= step << 6;
+
+					dp += 4;
+					mask |= (uint)(lmask << (y * 8));
+					{ int* et = ep1; ep1 = ep2; ep2 = et; } // swap
+				}
+			}
+
+			return mask;
+		}
+
+		// The color optimization function. (Clever code, part 1)
+		static void stb__OptimizeColorsBlock(byte* block, ushort* pmax16, ushort* pmin16)
+		{
+			int mind = 0x7fffffff, maxd = -0x7fffffff;
+			byte* minp = null;
+			byte* maxp = null;
+			double magn;
+			int v_r, v_g, v_b;
+			const int nIterPower = 4;
+			float* covf = stackalloc float[6];
+			float vfr, vfg, vfb;
+
+			// determine color distribution
+			var cov = stackalloc int[6];
+			var mu = stackalloc int[3];
+			var min = stackalloc int[3];
+			var max = stackalloc int[3];
+			int ch, i, iter;
+
+			for (ch = 0; ch < 3; ch++)
+			{
+				byte* bp = ((byte*)block) + ch;
+				int muv, minv, maxv;
+
+				muv = minv = maxv = bp[0];
+				for (i = 4; i < 64; i += 4)
+				{
+					muv += bp[i];
+					if (bp[i] < minv) minv = bp[i];
+					else if (bp[i] > maxv) maxv = bp[i];
+				}
+
+				mu[ch] = (muv + 8) >> 4;
+				min[ch] = minv;
+				max[ch] = maxv;
+			}
+
+			// determine covariance matrix
+			for (i = 0; i < 6; i++)
+				cov[i] = 0;
 
 			for (i = 0; i < 16; i++)
 			{
-				ColorBlock[i].V0 = (byte)((ColorBlock[i].V0 - 128) * scale + 128);
-				ColorBlock[i].V1 = (byte)((ColorBlock[i].V1 - 128) * scale + 128);
+				int r = block[i * 4 + 0] - mu[0];
+				int g = block[i * 4 + 1] - mu[1];
+				int b = block[i * 4 + 2] - mu[2];
+
+				cov[0] += r * r;
+				cov[1] += r * g;
+				cov[2] += r * b;
+				cov[3] += g * g;
+				cov[4] += g * b;
+				cov[5] += b * b;
 			}
-		}
 
-		static private void InsetYCoCgBBox(ref byte4 minColor, ref byte4 maxColor)
-		{
-			var inset = stackalloc int[4];
-			var mini = stackalloc int[4];
-			var maxi = stackalloc int[4];
+			// convert covariance matrix to float, find principal axis via power iter
+			for (i = 0; i < 6; i++)
+				covf[i] = cov[i] / 255.0f;
 
-			inset[0] = (maxColor.V0 - minColor.V0) - ((1 << (INSET_COLOR_SHIFT - 1)) - 1);
-			inset[1] = (maxColor.V1 - minColor.V1) - ((1 << (INSET_COLOR_SHIFT - 1)) - 1);
-			inset[3] = (maxColor.V3 - minColor.V3) - ((1 << (INSET_ALPHA_SHIFT - 1)) - 1);
+			vfr = (float)(max[0] - min[0]);
+			vfg = (float)(max[1] - min[1]);
+			vfb = (float)(max[2] - min[2]);
 
-			mini[0] = ((minColor.V0 << INSET_COLOR_SHIFT) + inset[0]) >> INSET_COLOR_SHIFT;
-			mini[1] = ((minColor.V1 << INSET_COLOR_SHIFT) + inset[1]) >> INSET_COLOR_SHIFT;
-			mini[3] = ((minColor.V3 << INSET_ALPHA_SHIFT) + inset[3]) >> INSET_ALPHA_SHIFT;
+			for (iter = 0; iter < nIterPower; iter++)
+			{
+				float r = vfr * covf[0] + vfg * covf[1] + vfb * covf[2];
+				float g = vfr * covf[1] + vfg * covf[3] + vfb * covf[4];
+				float b = vfr * covf[2] + vfg * covf[4] + vfb * covf[5];
 
-			maxi[0] = ((maxColor.V0 << INSET_COLOR_SHIFT) - inset[0]) >> INSET_COLOR_SHIFT;
-			maxi[1] = ((maxColor.V1 << INSET_COLOR_SHIFT) - inset[1]) >> INSET_COLOR_SHIFT;
-			maxi[3] = ((maxColor.V3 << INSET_ALPHA_SHIFT) - inset[3]) >> INSET_ALPHA_SHIFT;
+				vfr = r;
+				vfg = g;
+				vfb = b;
+			}
 
-			mini[0] = (mini[0] >= 0) ? mini[0] : 0;
-			mini[1] = (mini[1] >= 0) ? mini[1] : 0;
-			mini[3] = (mini[3] >= 0) ? mini[3] : 0;
+			magn = Math.Abs(vfr);
+			if (Math.Abs(vfg) > magn) magn = Math.Abs(vfg);
+			if (Math.Abs(vfb) > magn) magn = Math.Abs(vfb);
 
-			maxi[0] = (maxi[0] <= 255) ? maxi[0] : 255;
-			maxi[1] = (maxi[1] <= 255) ? maxi[1] : 255;
-			maxi[3] = (maxi[3] <= 255) ? maxi[3] : 255;
+			if (magn < 4.0f)
+			{ // too small, default to luminance
+				v_r = 299; // JPEG YCbCr luma coefs, scaled by 1000.
+				v_g = 587;
+				v_b = 114;
+			}
+			else
+			{
+				magn = 512.0 / magn;
+				v_r = (int)(vfr * magn);
+				v_g = (int)(vfg * magn);
+				v_b = (int)(vfb * magn);
+			}
 
-			minColor.V0 = (byte)((mini[0] & C565_5_MASK) | (mini[0] >> 5));
-			minColor.V1 = (byte)((mini[1] & C565_6_MASK) | (mini[1] >> 6));
-			minColor.V3 = (byte)(mini[3]);
-
-			maxColor.V0 = (byte)((maxi[0] & C565_5_MASK) | (maxi[0] >> 5));
-			maxColor.V1 = (byte)((maxi[1] & C565_6_MASK) | (maxi[1] >> 6));
-			maxColor.V3 = (byte)(maxi[3]);
-		}
-
-		static private void SelectYCoCgDiagonal(byte4[] colorBlock, ref byte4 MinColor, ref byte4 MaxColor)
-		{
-			int i;
-			byte c0, c1;
-			byte mid0 = (byte)(((int)MinColor.V0 + MaxColor.V0 + 1) >> 1);
-			byte mid1 = (byte)(((int)MinColor.V1 + MaxColor.V1 + 1) >> 1);
-
-			byte side = 0;
+			// Pick colors at extreme points
 			for (i = 0; i < 16; i++)
 			{
-				byte b0 = (byte)((colorBlock[i].V0 >= mid0) ? 1 : 0);
-				byte b1 = (byte)((colorBlock[i].V1 >= mid1) ? 1 : 0);
-				side += (byte)(b0 ^ b1);
+				int dot = block[i * 4 + 0] * v_r + block[i * 4 + 1] * v_g + block[i * 4 + 2] * v_b;
+
+				if (dot < mind)
+				{
+					mind = dot;
+					minp = block + i * 4;
+				}
+
+				if (dot > maxd)
+				{
+					maxd = dot;
+					maxp = block + i * 4;
+				}
 			}
 
-			byte mask = (byte)(-((side > 8) ? 1 : 0));
+			*pmax16 = stb__As16Bit(maxp[0], maxp[1], maxp[2]);
+			*pmin16 = stb__As16Bit(minp[0], minp[1], minp[2]);
+		}
 
-			//if (NVIDIA_7X_HARDWARE_BUG_FIX) mask &= -( minColor[0] != maxColor[0] );
+		static int stb__sclamp(float y, int p0, int p1)
+		{
+			int x = (int)y;
+			if (x < p0) return p0;
+			if (x > p1) return p1;
+			return x;
+		}
 
-			c0 = MinColor.V1;
-			c1 = MaxColor.V1;
+		// The refinement function. (Clever code, part 2)
+		// Tries to optimize colors to suit block contents better.
+		// (By solving a least squares system via normal equations+Cramer's rule)
+		static bool stb__RefineBlock(byte* block, ushort* pmax16, ushort* pmin16, uint mask)
+		{
+			var w1Tab = new int[4] { 3, 0, 2, 1 };
+			var prods = new int[4] { 0x090000, 0x000900, 0x040102, 0x010402 };
+			// ^some magic to save a lot of multiplies in the accumulating loop...
+			// (precomputed products of weights for least squares system, accumulated inside one 32-bit register)
 
-			c0 ^= c1 ^= mask &= c0 ^= c1;
+			float frb, fg;
+			ushort oldMin, oldMax, min16, max16;
+			int i, akku = 0, xx, xy, yy;
+			int At1_r, At1_g, At1_b;
+			int At2_r, At2_g, At2_b;
+			uint cm = mask;
 
-			MinColor.V1 = c0;
-			MaxColor.V1 = c1;
+			oldMin = *pmin16;
+			oldMax = *pmax16;
+
+			if ((mask ^ (mask << 2)) < 4) // all pixels have the same index?
+			{
+				// yes, linear system would be singular; solve using optimal
+				// single-color match on average color
+				int r = 8, g = 8, b = 8;
+				for (i = 0; i < 16; ++i)
+				{
+					r += block[i * 4 + 0];
+					g += block[i * 4 + 1];
+					b += block[i * 4 + 2];
+				}
+
+				r >>= 4; g >>= 4; b >>= 4;
+
+				max16 = (ushort)((stb__OMatch5[r, 0] << 11) | (stb__OMatch6[g, 0] << 5) | stb__OMatch5[b, 0]);
+				min16 = (ushort)((stb__OMatch5[r, 1] << 11) | (stb__OMatch6[g, 1] << 5) | stb__OMatch5[b, 1]);
+			}
+			else
+			{
+				At1_r = At1_g = At1_b = 0;
+				At2_r = At2_g = At2_b = 0;
+				for (i = 0; i < 16; ++i, cm >>= 2)
+				{
+					int step = (int)(cm & 3);
+					int w1 = w1Tab[step];
+					int r = block[i * 4 + 0];
+					int g = block[i * 4 + 1];
+					int b = block[i * 4 + 2];
+
+					akku += prods[step];
+					At1_r += w1 * r;
+					At1_g += w1 * g;
+					At1_b += w1 * b;
+					At2_r += r;
+					At2_g += g;
+					At2_b += b;
+				}
+
+				At2_r = 3 * At2_r - At1_r;
+				At2_g = 3 * At2_g - At1_g;
+				At2_b = 3 * At2_b - At1_b;
+
+				// extract solutions and decide solvability
+				xx = akku >> 16;
+				yy = (akku >> 8) & 0xff;
+				xy = (akku >> 0) & 0xff;
+
+				frb = 3.0f * 31.0f / 255.0f / (xx * yy - xy * xy);
+				fg = frb * 63.0f / 31.0f;
+
+				// solve.
+				max16 = (ushort)(stb__sclamp((At1_r * yy - At2_r * xy) * frb + 0.5f, 0, 31) << 11);
+				max16 |= (ushort)(stb__sclamp((At1_g * yy - At2_g * xy) * fg + 0.5f, 0, 63) << 5);
+				max16 |= (ushort)(stb__sclamp((At1_b * yy - At2_b * xy) * frb + 0.5f, 0, 31) << 0);
+
+				min16 = (ushort)(stb__sclamp((At2_r * xx - At1_r * xy) * frb + 0.5f, 0, 31) << 11);
+				min16 |= (ushort)(stb__sclamp((At2_g * xx - At1_g * xy) * fg + 0.5f, 0, 63) << 5);
+				min16 |= (ushort)(stb__sclamp((At2_b * xx - At1_b * xy) * frb + 0.5f, 0, 31) << 0);
+			}
+
+			*pmin16 = min16;
+			*pmax16 = max16;
+			return (oldMin != min16) || (oldMax != max16);
+		}
+
+		// Color block compression
+		static void stb__CompressColorBlock(byte* dest, byte* block, CompressionMode mode)
+		{
+			uint mask;
+			int i;
+			bool dither;
+			int refinecount;
+			ushort max16, min16;
+			var dblock = stackalloc byte[16 * 4];
+			var color = stackalloc byte[4 * 4];
+
+			dither = (mode & CompressionMode.Dither) != 0;
+			refinecount = ((mode & CompressionMode.HighQuality) != 0) ? 2 : 1;
+
+			// check if block is constant
+			for (i = 1; i < 16; i++)
+				if (((uint*)block)[i] != ((uint*)block)[0])
+					break;
+
+			if (i == 16)
+			{ // constant color
+				int r = block[0], g = block[1], b = block[2];
+				mask = 0xaaaaaaaa;
+				max16 = (ushort)((stb__OMatch5[r, 0] << 11) | (stb__OMatch6[g, 0] << 5) | stb__OMatch5[b, 0]);
+				min16 = (ushort)((stb__OMatch5[r, 1] << 11) | (stb__OMatch6[g, 1] << 5) | stb__OMatch5[b, 1]);
+			}
+			else
+			{
+				// first step: compute dithered version for PCA if desired
+				if (dither)
+					stb__DitherBlock(dblock, block);
+
+				// second step: pca+map along principal axis
+				stb__OptimizeColorsBlock(dither ? dblock : block, &max16, &min16);
+				if (max16 != min16)
+				{
+					stb__EvalColors(color, max16, min16);
+					mask = stb__MatchColorsBlock(block, color, dither);
+				}
+				else
+					mask = 0;
+
+				// third step: refine (multiple times if requested)
+				for (i = 0; i < refinecount; i++)
+				{
+					uint lastmask = mask;
+
+					if (stb__RefineBlock(dither ? dblock : block, &max16, &min16, mask))
+					{
+						if (max16 != min16)
+						{
+							stb__EvalColors(color, max16, min16);
+							mask = stb__MatchColorsBlock(block, color, dither);
+						}
+						else
+						{
+							mask = 0;
+							break;
+						}
+					}
+
+					if (mask == lastmask)
+						break;
+				}
+			}
+
+			// write the color block
+			if (max16 < min16)
+			{
+				ushort t = min16;
+				min16 = max16;
+				max16 = t;
+				mask ^= 0x55555555;
+			}
+
+			dest[0] = (byte)(max16);
+			dest[1] = (byte)(max16 >> 8);
+			dest[2] = (byte)(min16);
+			dest[3] = (byte)(min16 >> 8);
+			dest[4] = (byte)(mask);
+			dest[5] = (byte)(mask >> 8);
+			dest[6] = (byte)(mask >> 16);
+			dest[7] = (byte)(mask >> 24);
+		}
+
+		// Alpha block compression (this is easy for a change)
+		static void stb__CompressAlphaBlock(byte* dest, byte* src, CompressionMode mode)
+		{
+			int i, dist, bias, dist4, dist2, bits, mask;
+
+			// find min/max color
+			int mn, mx;
+			mn = mx = src[3];
+
+			for (i = 1; i < 16; i++)
+			{
+				if (src[i * 4 + 3] < mn) mn = src[i * 4 + 3];
+				else if (src[i * 4 + 3] > mx) mx = src[i * 4 + 3];
+			}
+
+			// encode them
+			((byte*)dest)[0] = (byte)mx;
+			((byte*)dest)[1] = (byte)mn;
+			dest += 2;
+
+			// determine bias and emit color indices
+			// given the choice of mx/mn, these indices are optimal:
+			// http://fgiesen.wordpress.com/2009/12/15/dxt5-alpha-block-index-determination/
+			dist = mx - mn;
+			dist4 = dist * 4;
+			dist2 = dist * 2;
+			bias = (dist < 8) ? (dist - 1) : (dist / 2 + 2);
+			bias -= mn * 7;
+			bits = 0;
+			mask = 0;
+
+			for (i = 0; i < 16; i++)
+			{
+				int a = src[i * 4 + 3] * 7 + bias;
+				int ind, t;
+
+				// select index. this is a "linear scale" lerp factor between 0 (val=min) and 7 (val=max).
+				t = (a >= dist4) ? -1 : 0; ind = t & 4; a -= dist4 & t;
+				t = (a >= dist2) ? -1 : 0; ind += t & 2; a -= dist2 & t;
+				ind += (a >= dist) ? 1 : 0;
+
+				// turn linear scale into DXT index (0/1 are extremal pts)
+				ind = -ind & 7;
+				ind ^= (2 > ind) ? 1 : 0;
+
+				// write index
+				mask |= ind << bits;
+				if ((bits += 3) >= 8)
+				{
+					*dest++ = (byte)mask;
+					mask >>= 8;
+					bits -= 8;
+				}
+			}
+		}
+
+		static void stb__InitDXT()
+		{
+			int i;
+			for (i = 0; i < 32; i++)
+				stb__Expand5[i] = (byte)((i << 3) | (i >> 2));
+
+			for (i = 0; i < 64; i++)
+				stb__Expand6[i] = (byte)((i << 2) | (i >> 4));
+
+			for (i = 0; i < 256 + 16; i++)
+			{
+				int v = i - 8 < 0 ? 0 : i - 8 > 255 ? 255 : i - 8;
+				stb__QuantRBTab[i] = stb__Expand5[stb__Mul8Bit(v, 31)];
+				stb__QuantGTab[i] = stb__Expand6[stb__Mul8Bit(v, 63)];
+			}
+
+			fixed (byte* _stb__OMatch5 = &stb__OMatch5[0, 0])
+			fixed (byte* _stb__OMatch6 = &stb__OMatch6[0, 0])
+			fixed (byte* _stb__Expand5 = stb__Expand5)
+			fixed (byte* _stb__Expand6 = stb__Expand6)
+			{
+				stb__PrepareOptTable(_stb__OMatch5, _stb__Expand5, 32);
+				stb__PrepareOptTable(_stb__OMatch6, _stb__Expand6, 64);
+			}
+		}
+
+		static bool init = true;
+
+		static public void CompressBlock(RGBA[] Colors, out DXT5.Block Block, CompressionMode mode = CompressionMode.HighQuality)
+		{
+			Block = default(DXT5.Block);
+
+			fixed (RGBA* ColorsPtr = Colors)
+			fixed (DXT5.Block* BlockPtr = &Block)
+			{
+				stb_compress_dxt_block((byte *)BlockPtr, (byte*)ColorsPtr, true, mode);
+			}
 		}
 
 		/*
-		void EmitAlphaIndices(byte* colorBlock, byte minAlpha, byte maxAlpha)
+		unsafe public struct Block
 		{
-
-			int i;
-			//assert( maxAlpha >= minAlpha );
-
-			const int ALPHA_RANGE = 7;
-
-			byte mid, ab1, ab2, ab3, ab4, ab5, ab6, ab7;
-			var indexes = stackalloc byte[16];
-
-			mid = (byte)((maxAlpha - minAlpha) / (2 * ALPHA_RANGE));
-
-			ab1 = (byte)(minAlpha + mid);
-			ab2 = (byte)((6 * maxAlpha + 1 * minAlpha) / ALPHA_RANGE + mid);
-			ab3 = (byte)((5 * maxAlpha + 2 * minAlpha) / ALPHA_RANGE + mid);
-			ab4 = (byte)((4 * maxAlpha + 3 * minAlpha) / ALPHA_RANGE + mid);
-			ab5 = (byte)((3 * maxAlpha + 4 * minAlpha) / ALPHA_RANGE + mid);
-			ab6 = (byte)((2 * maxAlpha + 5 * minAlpha) / ALPHA_RANGE + mid);
-			ab7 = (byte)((1 * maxAlpha + 6 * minAlpha) / ALPHA_RANGE + mid);
-
-			for (i = 0; i < 16; i++)
-			{
-				byte a = colorBlock[i * 4 + 3];
-				int b1 = (a <= ab1) ? 1 : 0;
-				int b2 = (a <= ab2) ? 1 : 0;
-				int b3 = (a <= ab3) ? 1 : 0;
-				int b4 = (a <= ab4) ? 1 : 0;
-				int b5 = (a <= ab5) ? 1 : 0;
-				int b6 = (a <= ab6) ? 1 : 0;
-				int b7 = (a <= ab7) ? 1 : 0;
-				int index = (b1 + b2 + b3 + b4 + b5 + b6 + b7 + 1) & 7;
-				indexes[i] = (byte)(index ^ ((2 > index) ? 1 : 0));
-			}
-
-			EmitByte((byte)((indexes[0] >> 0) | (indexes[1] << 3) | (indexes[2] << 6)));
-			EmitByte((byte)((indexes[2] >> 2) | (indexes[3] << 1) | (indexes[4] << 4) | (indexes[5] << 7)));
-			EmitByte((byte)((indexes[5] >> 1) | (indexes[6] << 2) | (indexes[7] << 5)));
-
-			EmitByte((byte)((indexes[8] >> 0) | (indexes[9] << 3) | (indexes[10] << 6)));
-			EmitByte((byte)((indexes[10] >> 2) | (indexes[11] << 1) | (indexes[12] << 4) | (indexes[13] << 7)));
-			EmitByte((byte)((indexes[13] >> 1) | (indexes[14] << 2) | (indexes[15] << 5)));
-		}
-
-		void EmitColorIndices(byte* colorBlock, byte* minColor, byte* maxColor)
-		{
-			var colors = new ushort[4, 4];
-			int i;
-			uint result = 0;
-
-			colors[0, 0] = (ushort)((maxColor[0] & C565_5_MASK) | (maxColor[0] >> 5));
-			colors[0, 1] = (ushort)((maxColor[1] & C565_6_MASK) | (maxColor[1] >> 6));
-			colors[0, 2] = (ushort)((maxColor[2] & C565_5_MASK) | (maxColor[2] >> 5));
-			colors[0, 3] = (ushort)(0);
-			colors[1, 0] = (ushort)((minColor[0] & C565_5_MASK) | (minColor[0] >> 5));
-			colors[1, 1] = (ushort)((minColor[1] & C565_6_MASK) | (minColor[1] >> 6));
-			colors[1, 2] = (ushort)((minColor[2] & C565_5_MASK) | (minColor[2] >> 5));
-			colors[1, 3] = (ushort)(0);
-			colors[2, 0] = (ushort)((2 * colors[0, 0] + 1 * colors[1, 0]) / 3);
-			colors[2, 1] = (ushort)((2 * colors[0, 1] + 1 * colors[1, 1]) / 3);
-			colors[2, 2] = (ushort)((2 * colors[0, 2] + 1 * colors[1, 2]) / 3);
-			colors[2, 3] = (ushort)(0);
-			colors[3, 0] = (ushort)((1 * colors[0, 0] + 2 * colors[1, 0]) / 3);
-			colors[3, 1] = (ushort)((1 * colors[0, 1] + 2 * colors[1, 1]) / 3);
-			colors[3, 2] = (ushort)((1 * colors[0, 2] + 2 * colors[1, 2]) / 3);
-			colors[3, 3] = (ushort)(0);
-
-			for (i = 15; i >= 0; i--)
-			{
-				int c0, c1, d0, d1, d2, d3;
-
-				c0 = colorBlock[i * 4 + 0];
-				c1 = colorBlock[i * 4 + 1];
-
-				d0 = Math.Abs(colors[0, 0] - c0) + Math.Abs(colors[0, 1] - c1);
-				d1 = Math.Abs(colors[1, 0] - c0) + Math.Abs(colors[1, 1] - c1);
-				d2 = Math.Abs(colors[2, 0] - c0) + Math.Abs(colors[2, 1] - c1);
-				d3 = Math.Abs(colors[3, 0] - c0) + Math.Abs(colors[3, 1] - c1);
-
-				int b0 = (d0 > d3) ? 1 : 0;
-				int b1 = (d1 > d2) ? 1 : 0;
-				int b2 = (d0 > d2) ? 1 : 0;
-				int b3 = (d1 > d3) ? 1 : 0;
-				int b4 = (d2 > d3) ? 1 : 0;
-
-				int x0 = b1 & b2;
-				int x1 = b0 & b3;
-				int x2 = b0 & b4;
-
-				result |= (uint)((x2 | ((x0 | x1) << 1)) << (i << 1));
-			}
-
-			EmitDoubleWord(result);
+			public ushort_be alpha;
+			public ushort_be alpha_data0, alpha_data1, alpha_data2;
+			public ushort_be colors0, colors1;
+			public ushort_be color_data0, color_data1;
 		}
 		*/
 
-		static public void CompressBlock(ARGB_Rev[] Colors, ref DXT5.Block Block)
+		static private void scramble(byte* dest)
 		{
-			var ColorsCoGg = new byte4[16];
-			Console.WriteLine(Colors.ToStringArray());
-			for (int n = 0; n < 16; n++) ColorsCoGg[n] = (byte4)Colors[n];
-			CompressBlock(ColorsCoGg, ref Block);
+			MathUtils.Swap(ref dest[0], ref dest[1]);
+			MathUtils.Swap(ref dest[2], ref dest[3]);
+			MathUtils.Swap(ref dest[4], ref dest[5]);
+			MathUtils.Swap(ref dest[6], ref dest[7]);
 		}
 
-		static public void CompressBlock(byte4[] Colors, ref DXT5.Block Block)
+		static private void stb_compress_dxt_block(byte* dest, byte* src, bool alpha, CompressionMode mode)
 		{
-			var MinColor = default(byte4);
-			var MaxColor = default(byte4);
+			if (init)
+			{
+				stb__InitDXT();
+				init = false;
+			}
 
-			Console.WriteLine(Colors.Select(Color => (ARGB_Rev)(Y_CO_CG_A)Color).ToStringArray());
+			if (alpha)
+			{
+				stb__CompressAlphaBlock(dest, (byte*)src, mode);
+				scramble(dest);
+				dest += 8;
+			}
 
-			GetMinMaxYCoCg(Colors, out MinColor, out MaxColor);
-
-			Console.WriteLine("-");
-			Console.WriteLine((ARGB_Rev)MinColor);
-			Console.WriteLine((ARGB_Rev)MaxColor);
-
-			ScaleYCoCg(Colors, ref MinColor, ref MaxColor);
-
-			Console.WriteLine("-");
-			Console.WriteLine((ARGB_Rev)MinColor);
-			Console.WriteLine((ARGB_Rev)MaxColor);
-
-			InsetYCoCgBBox(ref MinColor, ref MaxColor);
-
-			Console.WriteLine("-");
-			Console.WriteLine((ARGB_Rev)MinColor);
-			Console.WriteLine((ARGB_Rev)MaxColor);
-
-			SelectYCoCgDiagonal(Colors, ref MinColor, ref MaxColor);
-
-			Console.WriteLine("-");
-			Console.WriteLine((ARGB_Rev)MinColor);
-			Console.WriteLine((ARGB_Rev)MaxColor);
+			stb__CompressColorBlock(dest, (byte*)src, mode);
+			scramble(dest);
 		}
 	}
 }

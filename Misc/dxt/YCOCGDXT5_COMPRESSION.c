@@ -14,6 +14,9 @@
     Lesser General Public License for more details.
 */
 
+#include <stdio.h>
+#include <assert.h>
+
 #define true 1 
 #define false 0
 typedef unsigned char   byte;
@@ -90,6 +93,7 @@ void ConvertCoCg_YToRGB( byte *image, int width, int height ) {
 typedef unsigned char   byte;
 typedef unsigned short  word;
 typedef unsigned int    dword;
+typedef unsigned int    uint;
  
 #define INSET_COLOR_SHIFT       4       // inset color bounding box
 #define INSET_ALPHA_SHIFT       5       // inset alpha bounding box
@@ -102,6 +106,7 @@ typedef unsigned int    dword;
 byte *globalOutData;
  
 word ColorTo565( const byte *color ) {
+	printf("COLOR: %02X%02X%02X%02X\n", color[0], color[1], color[2], color[3]);
     return ( ( color[ 0 ] >> 3 ) << 11 ) | ( ( color[ 1 ] >> 2 ) << 5 ) | ( color[ 2 ] >> 3 );
 }
  
@@ -110,13 +115,13 @@ void EmitByte( byte b ) {
     globalOutData += 1;
 }
  
-void EmitWord( word s ) {
+void EmitUShort( word s ) {
     globalOutData[0] = ( s >>  0 ) & 255;
     globalOutData[1] = ( s >>  8 ) & 255;
     globalOutData += 2;
 }
  
-void EmitDoubleWord( dword i ) {
+void EmitUInt( dword i ) {
     globalOutData[0] = ( i >>  0 ) & 255;
     globalOutData[1] = ( i >>  8 ) & 255;
     globalOutData[2] = ( i >> 16 ) & 255;
@@ -177,25 +182,27 @@ void ScaleYCoCg( byte *colorBlock, byte *minColor, byte *maxColor ) {
     if ( m3 > m2 ) m2 = m3;
     if ( m2 > m0 ) m0 = m2;
     
-    const int s0 = 128 / 2 - 1;
-    const int s1 = 128 / 4 - 1;
-    
-    int mask0 = -( m0 <= s0 );
-    int mask1 = -( m0 <= s1 );
-    int scale = 1 + ( 1 & mask0 ) + ( 2 & mask1 );
-    
-    minColor[0] = ( minColor[0] - 128 ) * scale + 128;
-    minColor[1] = ( minColor[1] - 128 ) * scale + 128;
-    minColor[2] = ( scale - 1 ) << 3;
-    
-    maxColor[0] = ( maxColor[0] - 128 ) * scale + 128;
-    maxColor[1] = ( maxColor[1] - 128 ) * scale + 128;
-    maxColor[2] = ( scale - 1 ) << 3;
-    
-    for ( i = 0; i < 16; i++ ) {
-        colorBlock[i*4+0] = ( colorBlock[i*4+0] - 128 ) * scale + 128;
-        colorBlock[i*4+1] = ( colorBlock[i*4+1] - 128 ) * scale + 128;
-    }
+	{
+		int s0 = 128 / 2 - 1;
+		int s1 = 128 / 4 - 1;
+		
+		int mask0 = -( m0 <= s0 );
+		int mask1 = -( m0 <= s1 );
+		int scale = 1 + ( 1 & mask0 ) + ( 2 & mask1 );
+		
+		minColor[0] = ( minColor[0] - 128 ) * scale + 128;
+		minColor[1] = ( minColor[1] - 128 ) * scale + 128;
+		minColor[2] = ( scale - 1 ) << 3;
+		
+		maxColor[0] = ( maxColor[0] - 128 ) * scale + 128;
+		maxColor[1] = ( maxColor[1] - 128 ) * scale + 128;
+		maxColor[2] = ( scale - 1 ) << 3;
+		
+		for ( i = 0; i < 16; i++ ) {
+			colorBlock[i*4+0] = ( colorBlock[i*4+0] - 128 ) * scale + 128;
+			colorBlock[i*4+1] = ( colorBlock[i*4+1] - 128 ) * scale + 128;
+		}
+	}
 }
  
 void InsetYCoCgBBox( byte *minColor, byte *maxColor ) {
@@ -237,7 +244,7 @@ void SelectYCoCgDiagonal( const byte *colorBlock, byte *minColor, byte *maxColor
 	byte c0, c1;
     byte mid0 = ( (int) minColor[0] + maxColor[0] + 1 ) >> 1;
     byte mid1 = ( (int) minColor[1] + maxColor[1] + 1 ) >> 1;
-    
+    byte mask;
     byte side = 0;
     for ( i = 0; i < 16; i++ ) {
         byte b0 = colorBlock[i*4+0] >= mid0;
@@ -245,7 +252,7 @@ void SelectYCoCgDiagonal( const byte *colorBlock, byte *minColor, byte *maxColor
         side += ( b0 ^ b1 );
     }
     
-    byte mask = -( side > 8 );
+    mask = -( side > 8 );
     
 #ifdef NVIDIA_7X_HARDWARE_BUG_FIX
     mask &= -( minColor[0] != maxColor[0] );
@@ -260,15 +267,14 @@ void SelectYCoCgDiagonal( const byte *colorBlock, byte *minColor, byte *maxColor
     maxColor[1] = c1;
 }
  
-void EmitAlphaIndices( const byte *colorBlock, const byte minAlpha, const byte maxAlpha ) {
+void EmitAlphaIndices( const byte *colorBlock, byte minAlpha, byte maxAlpha ) {
     
 	int i;
-    assert( maxAlpha >= minAlpha );
-    
-    const int ALPHA_RANGE = 7;
-    
+    int ALPHA_RANGE = 7;
     byte mid, ab1, ab2, ab3, ab4, ab5, ab6, ab7;
     byte indexes[16];
+
+    assert( (int)maxAlpha >= (int)minAlpha );
     
     mid = ( maxAlpha - minAlpha ) / ( 2 * ALPHA_RANGE );
     
@@ -326,26 +332,30 @@ void EmitColorIndices( const byte *colorBlock, const byte *minColor, const byte 
     
     for ( i = 15; i >= 0; i-- ) {
         int c0, c1, d0, d1, d2, d3;
+		bool b0, b1, b2, b3, b4;
+		int x0, x1, x2;
+		unsigned int index;
         
         c0 = colorBlock[i*4+0];
         c1 = colorBlock[i*4+1];
         
-        int d0 = abs( colors[0][0] - c0 ) + abs( colors[0][1] - c1 );
-        int d1 = abs( colors[1][0] - c0 ) + abs( colors[1][1] - c1 );
-        int d2 = abs( colors[2][0] - c0 ) + abs( colors[2][1] - c1 );
-        int d3 = abs( colors[3][0] - c0 ) + abs( colors[3][1] - c1 );
+        d0 = abs( colors[0][0] - c0 ) + abs( colors[0][1] - c1 );
+        d1 = abs( colors[1][0] - c0 ) + abs( colors[1][1] - c1 );
+        d2 = abs( colors[2][0] - c0 ) + abs( colors[2][1] - c1 );
+        d3 = abs( colors[3][0] - c0 ) + abs( colors[3][1] - c1 );
         
-        bool b0 = d0 > d3;
-        bool b1 = d1 > d2;
-        bool b2 = d0 > d2;
-        bool b3 = d1 > d3;
-        bool b4 = d2 > d3;
+        b0 = d0 > d3;
+        b1 = d1 > d2;
+        b2 = d0 > d2;
+        b3 = d1 > d3;
+        b4 = d2 > d3;
         
-        int x0 = b1 & b2;
-        int x1 = b0 & b3;
-        int x2 = b0 & b4;
+        x0 = b1 & b2;
+        x1 = b0 & b3;
+        x2 = b0 & b4;
         
         result |= ( x2 | ( ( x0 | x1 ) << 1 ) ) << ( i << 1 );
+		printf("%02d: %08X\n", i, result);
     }
     
     EmitUInt( result );
@@ -361,27 +371,69 @@ bool CompressYCoCgDXT5( const byte *inBuf, byte *outBuf, int width, int height, 
     
     for ( j = 0; j < height; j += 4, inBuf += width * 4*4 ) {
         for ( i = 0; i < width; i += 4 ) {
-            
-            ExtractBlock( inBuf + i * 4, width, block );
-            
-            GetMinMaxYCoCg( block, minColor, maxColor );
-            ScaleYCoCg( block, minColor, maxColor );
-            InsetYCoCgBBox( minColor, maxColor );
-            SelectYCoCgDiagonal( block, minColor, maxColor );
-            
-            EmitByte( maxColor[3] );
-            EmitByte( minColor[3] );
-            
-            EmitAlphaIndices( block, minColor[3], maxColor[3] );
-            
-            EmitUShort( ColorTo565( maxColor ) );
-            EmitUShort( ColorTo565( minColor ) );
-            
-            EmitColorIndices( block, minColor, maxColor );
+			ExtractBlock( inBuf + i * 4, width, block );
+
+			GetMinMaxYCoCg( block, minColor, maxColor );
+			
+			printf("[\n");
+			ColorTo565( maxColor );
+			ColorTo565( minColor );
+			printf("]\n");
+
+			//ScaleYCoCg( block, minColor, maxColor );
+
+			printf("[\n");
+			ColorTo565( maxColor );
+			ColorTo565( minColor );
+			printf("]\n");
+
+			InsetYCoCgBBox( minColor, maxColor );
+
+			printf("[\n");
+			ColorTo565( maxColor );
+			ColorTo565( minColor );
+			printf("]\n");
+
+			SelectYCoCgDiagonal( block, minColor, maxColor );
+
+			printf("[\n");
+			ColorTo565( maxColor );
+			ColorTo565( minColor );
+			printf("]\n");
+
+			EmitByte( maxColor[3] );
+			EmitByte( minColor[3] );
+			printf("Alpha: %02X - %02X\n", minColor[3], maxColor[3]);
+			EmitAlphaIndices( block, minColor[3], maxColor[3] );
+
+			EmitUShort( ColorTo565( maxColor ) );
+			EmitUShort( ColorTo565( minColor ) );
+
+			EmitColorIndices( block, minColor, maxColor );
         }
     }
     
     *outputBytes = globalOutData - outBuf;
     
     return true;
+}
+
+int main() {
+	int n;
+	int outputBytes;
+	byte dxtBlock[16] = {0};
+	byte rgba[16 * 4] = {0};
+	
+	for (n = 0; n < 16; n++) {
+		rgba[4 * n + 0] = 0x77;
+		rgba[4 * n + 1] = 0x33;
+		rgba[4 * n + 2] = 0x10 + n * 10;
+		rgba[4 * n + 3] = 0x10 + n * 10;
+	}
+	
+	CompressYCoCgDXT5(rgba, dxtBlock, 4, 4, &outputBytes);
+	
+	for (n = 0; n < 16; n++) printf("%02X ", dxtBlock[n]);
+	
+	return 0;
 }
