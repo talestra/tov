@@ -222,7 +222,7 @@ namespace TalesOfVesperiaUtils.Imaging
 						break;
 
 					default:
-						throw (new NotImplementedException("Not implemented format : " + ImageEntry.ImageFileFormat.TextureFormat));
+						throw (new NotImplementedException("[Surface3DEntryInfo] Not implemented format : " + ImageEntry.ImageFileFormat.TextureFormat));
 				}
 
 				return BitmapList;
@@ -269,15 +269,42 @@ namespace TalesOfVesperiaUtils.Imaging
 			public bool Tiled { get { return ImageEntry.ImageFileFormat.Tiled; } }
 			public int Width { get { return (int)(uint)ImageEntry.Width; } }
 			public int Height { get { return (int)(uint)ImageEntry.Height; } }
-			public int BitsPerPixel
-			{
-				get
-				{
-					return GpuUtils.g_XGTextureFormatBitsPerPixel[(int)ImageEntry.ImageFileFormat.TextureFormat];
-				}
-			}
+			public int BitsPerPixel { get { return GpuUtils.g_XGTextureFormatBitsPerPixel[(int)ImageEntry.ImageFileFormat.TextureFormat]; } }
 			public int Stride { get { return BitsPerPixel * Width / 8; } }
 			override public int TotalBytes { get { return Stride * Height; } }
+
+			private void _GenerateBitmapDecode(Bitmap Bitmap, Func<byte[], int, ARGB_Rev> Decode)
+			{
+				int BytesPerPixel = BitsPerPixel / 8;
+
+				Bitmap.LockBitsUnlock(PixelFormat.Format32bppArgb, (BitmapData) =>
+				{
+					int WidthHeight = Width * Height;
+					var Stream = SliceStream.SliceWithLength();
+					var Bytes = Stream.ReadBytes(TotalBytes);
+					int m = 0;
+					bool Tiled = this.Tiled;
+
+					var Base = (ARGB_Rev*)BitmapData.Scan0.ToPointer();
+
+					for (int n = 0; n < WidthHeight; n++)
+					{
+						int X, Y;
+
+						if (Tiled)
+						{
+							Swizzling.XGAddress2DTiledXY(n, Width, BytesPerPixel, out X, out Y);
+						}
+						else
+						{
+							Swizzling.UnswizzledXY(n, Width, BytesPerPixel, out X, out Y);
+						}
+
+						Base[Y * Width + X] = Decode(Bytes, m);
+						m += BytesPerPixel;
+					}
+				});
+			}
 
 			private Bitmap _GenerateBitmap()
 			{
@@ -286,98 +313,46 @@ namespace TalesOfVesperiaUtils.Imaging
 				switch (ImageEntry.ImageFileFormat.TextureFormat)
 				{
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_4_4_4_4:
-						Bitmap.LockBitsUnlock(PixelFormat.Format32bppArgb, (BitmapData) =>
+						_GenerateBitmapDecode(Bitmap, (byte[] Bytes, int m) =>
 						{
-							int WidthHeight = Width * Height;
-							var Stream = SliceStream.SliceWithLength();
-							var Bytes = Stream.ReadBytes(TotalBytes);
-							int m = 0;
-							bool Tiled = this.Tiled;
-
-							var Base = (ARGB_Rev*)BitmapData.Scan0.ToPointer();
-
-							for (int n = 0; n < WidthHeight; n++)
+							var Data = (uint)(((Bytes[m++] << 8) | Bytes[m++]));
+							return new ARGB_Rev()
 							{
-								int X, Y;
-								if (Tiled)
-								{
-									Swizzling.XGAddress2DTiledXY(n, Width, 2, out X, out Y);
-								}
-								else
-								{
-									Swizzling.UnswizzledXY(n, Width, 2, out X, out Y);
-								}
-								var Data = (uint)(((Bytes[m++] << 8) | Bytes[m++]));
-								ARGB_Rev C;
-								C.B = (byte)BitUtils.ExtractScaled(Data, 0, 4, 255);
-								C.R = (byte)BitUtils.ExtractScaled(Data, 8, 4, 255);
-								C.G = (byte)BitUtils.ExtractScaled(Data, 4, 4, 255);
-								C.A = (byte)BitUtils.ExtractScaled(Data, 12, 4, 255);
-
-								Base[Y * Width + X] = C;
-								//BitmapData.
-								//var COL = Color.FromArgb(A, R, G, B);
-								//Bitmap.SetPixel(X, Y, Color.FromArgb(A, R, G, B));
-							}
+								B = (byte)BitUtils.ExtractScaled(Data, 0, 4, 255),
+								R = (byte)BitUtils.ExtractScaled(Data, 8, 4, 255),
+								G = (byte)BitUtils.ExtractScaled(Data, 4, 4, 255),
+								A = (byte)BitUtils.ExtractScaled(Data, 12, 4, 255),
+							};
 						});
 						break;
+
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_8_8_8_8:
-						Bitmap.LockBitsUnlock(PixelFormat.Format32bppArgb, (BitmapData) =>
+						_GenerateBitmapDecode(Bitmap, (byte[] Bytes, int m) =>
 						{
-							int WidthHeight = Width * Height;
-							var Stream = SliceStream.SliceWithLength();
-							var Bytes = Stream.ReadBytes(TotalBytes);
-							int m = 0;
-							bool Tiled = this.Tiled;
-
-							var Base = (ARGB_Rev*)BitmapData.Scan0.ToPointer();
-
-							for (int n = 0; n < WidthHeight; n++)
+							var Data = (uint)(((Bytes[m++] << 24) | (Bytes[m++] << 16) | (Bytes[m++] << 8) | Bytes[m++]));
+							return new ARGB_Rev()
 							{
-								int X, Y;
-								if (Tiled)
-								{
-									Swizzling.XGAddress2DTiledXY(n, Width, 4, out X, out Y);
-								}
-								else
-								{
-									Swizzling.UnswizzledXY(n, Width, 4, out X, out Y);
-								}
-								var Data = (uint)(((Bytes[m++] << 24) | (Bytes[m++] << 16) | (Bytes[m++] << 8) | Bytes[m++]));
-								ARGB_Rev C;
-								C.B = (byte)BitUtils.ExtractScaled(Data, 0, 8, 255);
-								C.G = (byte)BitUtils.ExtractScaled(Data, 8, 8, 255);
-								C.R = (byte)BitUtils.ExtractScaled(Data, 16, 8, 255);
-								C.A = (byte)BitUtils.ExtractScaled(Data, 24, 8, 255);
-
-								//C.R = 0xFF;
-								//C.G = 0x00;
-								//C.B = 0x00;
-								//C.A = 0xFF;
-
-								Base[Y * Width + X] = C;
-								//BitmapData.
-								//var COL = Color.FromArgb(A, R, G, B);
-								//Bitmap.SetPixel(X, Y, Color.FromArgb(A, R, G, B));
-							}
+								B = (byte)BitUtils.ExtractScaled(Data, 0, 8, 255),
+								G = (byte)BitUtils.ExtractScaled(Data, 8, 8, 255),
+								R = (byte)BitUtils.ExtractScaled(Data, 16, 8, 255),
+								A = (byte)BitUtils.ExtractScaled(Data, 24, 8, 255),
+							};
 						});
+
 						break;
+
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
-						//Graphics.FromImage(Bitmap).DrawImage(DXT5.LoadSwizzled(this.SliceStream, Width, Height, this.Tiled), new Point(0, 0));
 						return (new DXT5()).LoadSwizzled2D(this.SliceStream, Width, Height, this.Tiled);
-#if false
-						break;
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT1:
-						Console.Error.Write("Unimplemented GPUTEXTUREFORMAT_DXT1");
-						Graphics.FromImage(Bitmap).DrawString("Unimplemented GPUTEXTUREFORMAT_DXT1", new Font("Arial", 20), new SolidBrush(Color.Red), new Point(16, 16));
-						break;
+						return (new DXT1()).LoadSwizzled2D(this.SliceStream, Width, Height, this.Tiled);
+#if false
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_1:
 						Console.Error.Write("Unimplemented GPUTEXTUREFORMAT_1");
 						Graphics.FromImage(Bitmap).DrawString("Unimplemented GPUTEXTUREFORMAT_1", new Font("Arial", 20), new SolidBrush(Color.Red), new Point(16, 16));
 						break;
 #endif
 					default:
-						throw (new NotImplementedException("Not implemented format : " + ImageEntry.ImageFileFormat.TextureFormat));
+						throw (new NotImplementedException("[Surface2DEntryInfo] Not implemented format : " + ImageEntry.ImageFileFormat.TextureFormat));
 				}
 
 				return Bitmap;
@@ -419,6 +394,13 @@ namespace TalesOfVesperiaUtils.Imaging
 			return this;
 		}
 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Stream"></param>
+		/// <param name="Width"></param>
+		/// <param name="Height"></param>
+		/// <returns></returns>
 		static public Bitmap LoadAbgr(Stream Stream, int Width, int Height)
 		{
 			var Data = Stream.ReadBytes(Width * Height * 4);
@@ -440,18 +422,6 @@ namespace TalesOfVesperiaUtils.Imaging
 			{
 				Console.Error.WriteLine(Exception);
 			}
-			/*
-			fixed (byte* DataPtr = Data)
-			{
-				BitmapUtils.TransferChannelsDataInterleaved(
-					Bitmap.GetFullRectangle(),
-					Bitmap,
-					DataPtr,
-					BitmapUtils.Direction.FromDataToBitmap,
-					BitmapChannel.Alpha, BitmapChannel.Red, BitmapChannel.Green, BitmapChannel.Blue
-				);
-			}
-			*/
 			//Bitmap.GetChannelsDataInterleaved
 			return Bitmap;
 		}

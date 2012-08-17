@@ -40,11 +40,11 @@ namespace TalesOfVesperiaTests.Imaging
 			};
 			
 			var Colors2 = new ARGB_Rev[16];
-			var Block = default(DXT5.Block);
+			var Block = default(DXT5.AlphaColorBlock);
 			//var Color1 = default(ARGB_Rev);
 			//var Color2 = default(ARGB_Rev);
 
-			CompressDXT5.CompressBlock(Colors1, out Block, CompressDXT5.CompressionMode.Normal);
+			CompressDXT.CompressBlockDXT5(Colors1, out Block, CompressDXT.CompressionMode.Normal);
 
 			Console.WriteLine(StructUtils.StructToBytes(Block).ToHexString().ToUpper());
 
@@ -69,7 +69,7 @@ namespace TalesOfVesperiaTests.Imaging
 		{
 			var Block1Data = new byte[] { 0xD5, 0x5B, 0x5D, 0xB2, 0x49, 0x00, 0xFF, 0xB2, 0xE6, 0xF6, 0xDE, 0x94, 0xFF, 0xFF, 0x02, 0xFE };
 
-			var Block = new MemoryStream(Block1Data).ReadStruct<DXT5.Block>();
+			var Block = new MemoryStream(Block1Data).ReadStruct<DXT5.AlphaColorBlock>();
 			var Colors = new ARGB_Rev[16];
 			Block.Decode(ref Colors);
 
@@ -84,7 +84,7 @@ namespace TalesOfVesperiaTests.Imaging
 		[TestMethod]
 		public void TestEncodeUnoptimizedWhiteAlpha()
 		{
-			var Block = default(DXT5.Block);
+			var Block = default(DXT5.AlphaColorBlock);
 			Block.EncodeSimpleUnoptimizedWhiteAlpha(
 				new ARGB_Rev[] {
 					Color.FromArgb(0xFF, 0xFF, 0xFF, 0xFF), // 0
@@ -109,7 +109,7 @@ namespace TalesOfVesperiaTests.Imaging
 			var Blocks = new[] { Block };
 			byte[] Bytes;
 
-			fixed (DXT5.Block* Pointer = &Blocks[0])
+			fixed (DXT5.AlphaColorBlock* Pointer = &Blocks[0])
 			{
 				Bytes = PointerUtils.PointerToByteArray((byte*)Pointer, 16);
 			}
