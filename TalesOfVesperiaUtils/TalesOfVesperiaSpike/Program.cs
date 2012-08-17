@@ -336,9 +336,9 @@ namespace TalesOfVesperiaSpike
 
 	public class Program
 	{
-		static string VesperiaFolder = @"D:\isos\360\vesperia";
+		static string VesperiaFolder = @"C:\isos\360\vesperia";
 
-#if false
+#if true
 		static void UncompressUiImage(string BaseFileName)
 		{
 			//Console.WriteLine();
@@ -425,7 +425,7 @@ namespace TalesOfVesperiaSpike
 			Console.ReadKey();
 			//Image.Save(@"C:\isos\360\vesperia\UI.svo.d\COMALL.TXV.png");
 		}
-#endif
+#else
 		static void Main(string[] Args)
 		{
 			var Image = new Bitmap(@"C:\projects\talestra_tov\icons0.png");
@@ -440,5 +440,6 @@ namespace TalesOfVesperiaSpike
 			Console.WriteLine("END");
 			Console.ReadKey();
 		}
+#endif
 	}
 }
