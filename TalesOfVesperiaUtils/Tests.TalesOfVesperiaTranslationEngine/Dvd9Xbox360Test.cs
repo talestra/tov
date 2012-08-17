@@ -15,7 +15,7 @@ namespace TalesOfVesperiaTests
 		public void LoadTest()
 		{
 #if false
-			bool GENERATE_MINI_ISO = false;
+			bool GENERATE_MINI_ISO = true;
 #endif
 			Dvd9Xbox360 Dvd9Xbox360;
 			MapStream mapStream;

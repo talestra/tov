@@ -338,6 +338,7 @@ namespace TalesOfVesperiaSpike
 	{
 		static string VesperiaFolder = @"D:\isos\360\vesperia";
 
+#if false
 		static void UncompressUiImage(string BaseFileName)
 		{
 			//Console.WriteLine();
@@ -423,6 +424,21 @@ namespace TalesOfVesperiaSpike
 
 			Console.ReadKey();
 			//Image.Save(@"C:\isos\360\vesperia\UI.svo.d\COMALL.TXV.png");
+		}
+#endif
+		static void Main(string[] Args)
+		{
+			var Image = new Bitmap(@"C:\projects\talestra_tov\icons0.png");
+			using (var Dxt5Stream = File.OpenWrite(@"C:\projects\talestra_tov\icons0.dxt5"))
+			{
+				DXT5.SaveSwizzled2D(Image, Dxt5Stream, CompressDXT5.CompressionMode.HighQuality);
+			}
+
+			var Image2 = DXT5.LoadSwizzled2D(File.OpenRead(@"C:\projects\talestra_tov\icons0.dxt5"), Image.Width, Image.Height);
+			Image2.Save(@"C:\projects\talestra_tov\icons0.dxt5.png");
+
+			Console.WriteLine("END");
+			Console.ReadKey();
 		}
 	}
 }
