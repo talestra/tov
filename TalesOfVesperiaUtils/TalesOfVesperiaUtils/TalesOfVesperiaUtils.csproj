@@ -74,7 +74,8 @@
     <Compile Include="Formats\Script\TSS.Utils.cs" />
     <Compile Include="Imaging\BitmapList.cs" />
     <Compile Include="Imaging\DXT.cs" />
-    <Compile Include="Imaging\Internal\CompressDXT5.cs" />
+    <Compile Include="Imaging\DXT1.cs" />
+    <Compile Include="Imaging\Internal\CompressDXT.cs" />
     <Compile Include="Imaging\Unused\CompressYCoCgDXT5.cs" />
     <Compile Include="Imaging\Unused\CompressionSimpleDXT5.cs" />
     <Compile Include="Imaging\DXT5.cs" />

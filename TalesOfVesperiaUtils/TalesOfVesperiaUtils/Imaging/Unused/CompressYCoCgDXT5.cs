@@ -288,7 +288,7 @@ namespace TalesOfVesperiaUtils.Imaging
 		}
 		*/
 
-		static public void CompressBlock(ARGB_Rev[] Colors, ref DXT5.Block Block)
+		static public void CompressBlock(ARGB_Rev[] Colors, ref DXT5.AlphaColorBlock Block)
 		{
 			var ColorsCoGg = new byte4[16];
 			Console.WriteLine(Colors.ToStringArray());
@@ -296,7 +296,7 @@ namespace TalesOfVesperiaUtils.Imaging
 			CompressBlock(ColorsCoGg, ref Block);
 		}
 
-		static public void CompressBlock(byte4[] Colors, ref DXT5.Block Block)
+		static public void CompressBlock(byte4[] Colors, ref DXT5.AlphaColorBlock Block)
 		{
 			var MinColor = default(byte4);
 			var MaxColor = default(byte4);

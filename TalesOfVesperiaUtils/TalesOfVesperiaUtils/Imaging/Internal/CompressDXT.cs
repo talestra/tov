@@ -43,7 +43,7 @@ namespace TalesOfVesperiaUtils.Imaging.Internal
 	///   v1.01  - (stb) fix bug converting to RGB that messed up quality, thanks ryg & cbloom
 	///   v1.00  - (stb) first release
 	/// </summary>
-	unsafe public class CompressDXT5
+	unsafe public class CompressDXT
 	{
 		/// <summary>
 		/// 
@@ -771,14 +771,31 @@ namespace TalesOfVesperiaUtils.Imaging.Internal
 		/// <param name="Colors"></param>
 		/// <param name="Block"></param>
 		/// <param name="mode"></param>
-		static public void CompressBlock(ARGB_Rev[] Colors, out DXT5.Block Block, CompressionMode mode = CompressionMode.HighQuality)
+		static public void CompressBlockDXT5(ARGB_Rev[] Colors, out DXT5.AlphaColorBlock Block, CompressionMode mode = CompressionMode.HighQuality)
 		{
-			Block = default(DXT5.Block);
+			Block = default(DXT5.AlphaColorBlock);
 
 			fixed (ARGB_Rev* ColorsPtr = Colors)
-			fixed (DXT5.Block* BlockPtr = &Block)
+			fixed (DXT5.AlphaColorBlock* BlockPtr = &Block)
 			{
 				stb_compress_dxt_block((byte*)BlockPtr, ColorsPtr, true, mode);
+			}
+		}
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Colors"></param>
+		/// <param name="Block"></param>
+		/// <param name="mode"></param>
+		static public void CompressBlockDXT1(ARGB_Rev[] Colors, out DXT1.ColorBlock Block, CompressionMode mode = CompressionMode.HighQuality)
+		{
+			Block = default(DXT1.ColorBlock);
+
+			fixed (ARGB_Rev* ColorsPtr = Colors)
+			fixed (DXT1.ColorBlock* BlockPtr = &Block)
+			{
+				stb_compress_dxt_block((byte*)BlockPtr, ColorsPtr, false, mode);
 			}
 		}
 

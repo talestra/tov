@@ -4,21 +4,25 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using CSharpUtils.Drawing;
+using CSharpUtils.Endian;
 using TalesOfVesperiaUtils.Imaging.Internal;
 
 namespace TalesOfVesperiaUtils.Imaging
 {
 	unsafe abstract public class DXT<TBlock> where TBlock : struct
 	{
+		static protected readonly int BlockSize = Marshal.SizeOf(typeof(TBlock));
+
 		/// <summary>
 		/// 
 		/// </summary>
 		/// <param name="Bitmap"></param>
 		/// <param name="File"></param>
 		/// <param name="mode"></param>
-		public void SaveSwizzled2D(Bitmap Bitmap, Stream File, CompressDXT5.CompressionMode mode = CompressDXT5.CompressionMode.Normal)
+		public void SaveSwizzled2D(Bitmap Bitmap, Stream File, CompressDXT.CompressionMode mode = CompressDXT.CompressionMode.Normal)
 		{
 			int Width = Bitmap.Width, Height = Bitmap.Height;
 			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
@@ -30,13 +34,13 @@ namespace TalesOfVesperiaUtils.Imaging
 				int BlockWidth = Width / 4;
 				int BlockHeight = Height / 4;
 				var BlockCount = BlockWidth * BlockHeight;
-				var CurrentDecodedColors = new ARGB_Rev[16];
+				var CurrentDecodedColors = new ARGB_Rev[4 * 4];
 				var Blocks = new TBlock[(uint)BlockCount];
 
 				for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
 				{
 					int TileX, TileY;
-					Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth, 16, out TileX, out TileY);
+					Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth, BlockSize, out TileX, out TileY);
 
 					int PositionX = TileX * 4;
 					int PositionY = TileY * 4;
@@ -44,7 +48,7 @@ namespace TalesOfVesperiaUtils.Imaging
 
 					if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height))
 					{
-						Console.Error.WriteLine("Warning SaveSwizzled2D ({0}, {1})!", PositionX, PositionY);
+						Console.Error.WriteLine("(Warning! [Write] Position outsude ({0}, {1}) - ({2}x{3}))", PositionX, PositionY, Width, Height);
 						continue;
 					}
 
@@ -68,80 +72,18 @@ namespace TalesOfVesperiaUtils.Imaging
 		/// <summary>
 		/// 
 		/// </summary>
-		/// <remarks>Seems to have problems with non-power of two Width/Height s</remarks>
 		/// <param name="File"></param>
 		/// <param name="Width"></param>
 		/// <param name="Height"></param>
+		/// <param name="_Depth"></param>
 		/// <param name="Swizzled"></param>
 		/// <returns></returns>
-		public Bitmap LoadSwizzled2D(Stream File, int Width, int Height, bool Swizzled = true)
-		{
-			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
-			var Bitmap = new Bitmap(Width, Height);
-			Bitmap.LockBitsUnlock(PixelFormat.Format32bppArgb, (BitmapData) =>
-			{
-				var Base = (ARGB_Rev*)BitmapData.Scan0.ToPointer();
-
-				int BlockWidth = Width / 4, BlockHeight = Height / 4;
-				var BlockCount = BlockWidth * BlockHeight;
-				var CurrentDecodedColors = new ARGB_Rev[16];
-				var Blocks = File.ReadStructVector<TBlock>((uint)BlockCount);
-
-				for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
-				{
-					int TileX, TileY;
-					if (Swizzled)
-					{
-						Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth, 16, out TileX, out TileY);
-					}
-					else
-					{
-						TileX = dxt5_n % BlockWidth;
-						TileY = dxt5_n / BlockWidth;
-					}
-
-					DecodeBlock(ref Blocks[dxt5_n], ref CurrentDecodedColors);
-
-					int PositionX = TileX * 4;
-					int PositionY = TileY * 4;
-					int n = 0;
-
-					if ((PositionX + 3 >= Bitmap.Width) || (PositionY + 3 >= Bitmap.Height))
-					{
-						Console.Error.Write("Warning!");
-						continue;
-					}
-
-					for (int y = 0; y < 4; y++)
-					{
-						for (int x = 0; x < 4; x++)
-						{
-							Base[(PositionY + y) * Width + (PositionX + x)] = CurrentDecodedColors[n];
-							n++;
-						}
-					}
-				}
-			});
-
-			return Bitmap;
-		}
-
-		/// <summary>
-		/// 
-		/// </summary>
-		/// <param name="File"></param>
-		/// <param name="Width"></param>
-		/// <param name="Height"></param>
-		/// <param name="Depth"></param>
-		/// <param name="Swizzled"></param>
-		/// <returns></returns>
-		public BitmapList LoadSwizzled3D(Stream File, int Width, int Height, int Depth, bool Swizzled = true)
+		private BitmapList _LoadSwizzled(Stream File, int Width, int Height, int? _Depth, bool Swizzled = true)
 		{
 			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
 
-			//Width *= 4;
-			//Height *= 4;
-
+			int Depth = _Depth ?? 1;
+			bool Is3D = _Depth.HasValue;
 			var BitmapList = new BitmapList(Depth);
 			var BitmapListData = new BitmapData[Depth];
 			var BitmapListPointers = new ARGB_Rev*[Depth];
@@ -157,54 +99,62 @@ namespace TalesOfVesperiaUtils.Imaging
 				BitmapListPointers[n] = (ARGB_Rev*)BitmapListData[n].Scan0.ToPointer();
 			}
 
-			int BlockWidth = Width / 4, BlockHeight = Height / 4;
+			int BlockWidth = Width / 4;
+			int BlockHeight = Height / 4;
 			var BlockCount = BlockWidth * BlockHeight * Depth;
-			//var BlockCount = BlockWidth * BlockHeight;
-			var CurrentDecodedColors = new ARGB_Rev[16];
-			//Console.WriteLine(1);
+			var CurrentDecodedColors = new ARGB_Rev[4 * 4];
 			var Blocks = File.ReadStructVector<TBlock>((uint)BlockCount);
-			//Console.WriteLine(2);
 
-			for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
+			for (int BlockN = 0; BlockN < BlockCount; BlockN++)
 			{
-				int TileX, TileY;
-				int Z = 0;
+				int TileX, TileY, TileZ;
 
 				if (Swizzled)
 				{
-					//Swizzling.XGAddress3DTiledXYZ(dxt5_n, BlockWidth, BlockHeight, GpuUtils.GetBitsPerPixelForEnum(GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5), out TileX, out TileY, out Z);
-					Swizzling.XGAddress3DTiledXYZ(dxt5_n, BlockWidth, BlockHeight, 16, out TileX, out TileY, out Z);
-
-					//Swizzling.XGAddress2DTiledXY(dxt5_n, BlockWidth / 4, GpuUtils.GetBitsPerPixelForEnum(GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5), out TileX, out TileY);
-					//Z = 0;
+					if (Is3D)
+					{
+						Swizzling.XGAddress3DTiledXYZ(BlockN, BlockWidth, BlockHeight, BlockSize, out TileX, out TileY, out TileZ);
+					}
+					else
+					{
+						Swizzling.XGAddress2DTiledXY(BlockN, BlockWidth, BlockSize, out TileX, out TileY);
+						TileZ = 0;
+					}
 				}
 				else
 				{
-					TileX = dxt5_n % BlockWidth;
-					TileY = dxt5_n / BlockWidth;
-					Z = 0;
-					Console.Error.Write("Not implemented");
+					TileX = BlockN % BlockWidth;
+					TileY = BlockN / BlockWidth;
+					TileZ = 0;
+					Console.Error.Write("(Not implemented!)");
 				}
 
-				//Z = 0;
-
-				DecodeBlock(ref Blocks[dxt5_n], ref CurrentDecodedColors);
+				DecodeBlock(ref Blocks[BlockN], ref CurrentDecodedColors);
 
 				int PositionX = TileX * 4;
 				int PositionY = TileY * 4;
 
 				if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height))
 				{
-					Console.Error.Write("Warning!");
+					Console.Error.WriteLine(
+						"(Warning! [Read] Position outsude ({0}, {1}) - ({2}x{3}) ;; ({4}, {5})) - ({6}x{7}) ;; {8}",
+						PositionX, PositionY,
+						Width, Height,
+						TileX, TileY,
+						BlockWidth, BlockHeight,
+						BlockN
+					);
 					continue;
 				}
 
 				int n = 0;
+				var BitmapPointer = BitmapListPointers[TileZ];
 				for (int y = 0; y < 4; y++)
 				{
+					int BaseOffset = (PositionY + y) * Width + (PositionX);
 					for (int x = 0; x < 4; x++)
 					{
-						BitmapListPointers[Z][(PositionY + y) * Width + (PositionX + x)] = CurrentDecodedColors[n];
+						BitmapPointer[BaseOffset + x] = CurrentDecodedColors[n];
 						n++;
 					}
 				}
@@ -215,11 +165,63 @@ namespace TalesOfVesperiaUtils.Imaging
 				BitmapList.Bitmaps[n].UnlockBits(BitmapListData[n]);
 			}
 
-
 			return BitmapList;
 		}
 
-		abstract protected void EncodeBlock(ref TBlock Block, ref ARGB_Rev[] Colors, CompressDXT5.CompressionMode CompressionMode);
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <remarks>Seems to have problems with non-power of two Width/Height s</remarks>
+		/// <param name="File"></param>
+		/// <param name="Width"></param>
+		/// <param name="Height"></param>
+		/// <param name="Swizzled"></param>
+		/// <returns></returns>
+		public Bitmap LoadSwizzled2D(Stream File, int Width, int Height, bool Swizzled = true)
+		{
+			return _LoadSwizzled(File, Width, Height, null, Swizzled).Bitmaps[0];
+		}
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="File"></param>
+		/// <param name="Width"></param>
+		/// <param name="Height"></param>
+		/// <param name="Depth"></param>
+		/// <param name="Swizzled"></param>
+		/// <returns></returns>
+		public BitmapList LoadSwizzled3D(Stream File, int Width, int Height, int Depth, bool Swizzled = true)
+		{
+			return _LoadSwizzled(File, Width, Height, Depth, Swizzled);
+		}
+
+		abstract protected void EncodeBlock(ref TBlock Block, ref ARGB_Rev[] Colors, CompressDXT.CompressionMode CompressionMode);
 		abstract protected void DecodeBlock(ref TBlock Block, ref ARGB_Rev[] Colors);
+
+		static internal void EXT_INS(ref ushort container, ref byte value, bool extract, int offset, int len, int offset_value = 0)
+		{
+			var mask = (ushort)((1 << len) - 1);
+			if (extract)
+			{
+				value &= (byte)~((uint)mask << offset_value);
+				value |= (byte)((((int)container >> (int)offset) & mask) << offset_value);
+			}
+			else
+			{
+				container = (ushort)((container & ~(mask << offset)) | (((value >> offset_value) & mask) << offset));
+				//Console.WriteLine(container);
+			}
+		}
+
+		static internal void exs_ins2(byte[] data_transfer, ref ushort_be first_data, bool extract, uint m, uint n, int offset, int len, int offset_value = 0)
+		{
+			fixed (ushort_be* data = &first_data)
+			{
+				ushort value = data[m];
+				EXT_INS(ref value, ref data_transfer[n], extract, offset, len, offset_value);
+				if (!extract) data[m] = value;
+			}
+		}
 	}
 }
