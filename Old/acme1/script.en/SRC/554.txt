@@ -1,0 +1,46 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS65_081)Those stairs...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS65_082)Seems like the top is just up there.<PAGE><VOICE>(VS65_083)Duke must be there too.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS65_084)This is the moment of truth. 
+Is everybody ready?
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS65_085)I've been ready. Let's do it.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS65_086)Yeah. We have 
+to do this.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS65_087)Right. Even this old man's 
+gonna put up a fight.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS65_088)People believe in us. They're 
+waiting for us. We must defeat 
+the Adephagos! For them!
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS65_089)And for Phaeroh and Belius... 
+For the memories of 
+the Entelexeia...
+
+## POINTER 8
+<STR>(RAP)
+<VOICE>(VS65_090)Woof!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS65_091)Let's go!

@@ -1,0 +1,79 @@
+## POINTER 0 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1251562961]
+Niños creciditos
+
+## POINTER 1 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265765875]
+(KAR)
+Oíd, ¿os importa si me tomo un gel?
+
+## POINTER 2 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265765875]
+(JUD)
+(KAR), creo que no deberías usarlos
+a no ser que sea necesario.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267291848]
+(KAR)
+¡Pero no puedo dejar de pensar en
+lo ricos que están! ¡O la sensación
+blandita que dejan en los dientes!
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267291848]
+(YUR)
+Ya decía yo que nos faltaban geles
+últimamente... Te los has estado
+comiendo, ¿verdad?
+
+## POINTER 5 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265765875]
+(RIT)
+¡Estoy tan loca por comerlos 
+que no puedo dormir! ¡¿Y tú vas
+y te los comes a escondidas?!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298135498]
+(KAR)
+¡Yo no he hecho nada de eso!
+Espera, (RIT), ¿los geles
+te están quitando el sueño?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298135498]
+(RIT)
+¡N-No! ¡Claro que no! Je, je... 
+N-No sé de qué me hablas.
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266837606]
+(RAV)
+No son chucherías, ¿sabéis? Pué ser que
+sean pequeños, pero cuestan lo suyo.
+
+## POINTER 9 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265765875]
+(EST_P)
+A mí no es que me gusten mucho su
+sabor o su textura...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298135498]
+(JUD)
+Tal vez no sean muy adecuados
+para el paladar de una princesa.
+
+## POINTER 11 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266837606]
+(YUR)
+No, no es eso.
+A mí tampoco me parecen gran cosa.
+
+## POINTER 12 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265765875]
+(KAR)
+Yo estoy enganchado a su sabor sencillo.
+Lo que pasa es que no lo entendéis...
+
+## POINTER 13 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266837606]
+(RAV)
+Hicieron los geles dulces y blandos pa
+que gustaran a los niños, después de tó.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298135498]
+(KAR)
+¿Insinúas que mis gustos son... infantiles?
+
+## POINTER 15 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265765875]
+(JUD)
+¿Y qué tiene de malo?
+Vosotros dos SOIS niños...

@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251897867]
+¡Se han ido!
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266236107]
+(RIT)
+No debí dejar
+sola a (EST_P).
+
+## POINTER 2 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925275]
+(RIT)
+Tal vez no hubiera podido hacer nada, pero debería
+haber estado con ella. Estaba muy deprimida...
+
+## POINTER 3 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266236107]
+(YUR)
+Esto no es culpa tuya. 
+Machacarte por ello no la hará volver.
+
+## POINTER 4 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925275]
+(RIT)
+Lo sé...
+
+## POINTER 5 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925275]
+(KAR)
+¿Y qué ha pasado con (RAV)?
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925275]
+(JUD)
+Se comportaba de manera algo extraña.
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925275]
+(KAR)
+¿Pensáis que han hecho esto juntos?
+
+## POINTER 8 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925275]
+(YUR)
+Dudo mucho que los dos hayan
+desaparecido al mismo tiempo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297634037]
+(KAR)
+Pero ¿por qué solo ellos dos?
+
+## POINTER 10 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925275]
+(YUR)
+No hagas que empiece a dudar
+de tu lealtad, (RAV)...

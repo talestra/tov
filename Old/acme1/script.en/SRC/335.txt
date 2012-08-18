@@ -1,0 +1,17 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS31_001)...Ohh.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS31_002)We...collapsed in 
+the desert...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS31_003)And this can't 
+be heaven...
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS31_004)Where are we?

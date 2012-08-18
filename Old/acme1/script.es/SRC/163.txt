@@ -1,0 +1,181 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+
+¿Qué os pica?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(EST_P)
+Nos gustaría tener audiencia con
+el magistrado Ragou, si es tan amable.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(KAR)
+<STR>(YUR), esos de ahí son mercenarios.
+Me pregunto a qué gremio
+pertenecerán...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(YUR)
+Eso explicaría la pinta de matones que llevan.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988249]
+Mmpf, ¡idos a casa! ¡Ahuecad!
+El magistrado es un hombre ocupado.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(YUR)
+No parece tan ocupado cuando se trata de apalizar a pueblerinos.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+
+¡Oye, vigila tu lengua,
+gamberro!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(KAR)
+¿Ves? Ya te había dicho que no
+nos iba a recibir. Larguémonos
+antes de que la cosa se ponga fea.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(YUR)
+Ahí el capitán <STR>(KAR) tiene toda la razón.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(EST_P)
+Pero tiene que haber alguna otra manera...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(RIT)
+Olvídalo. Vámonos.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(YUR)
+Será mejor dejar la parte de asaltar
+la mansión a los Caballeros Imperiales.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(RIT)
+Pero <STR>(FRE) estaba de tan mal humor
+precisamente porque no les está yendo
+muy bien en esa tarea, ¿no?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988224]
+<STR>(YUR)
+Mmpf. Puede que nos reciba
+si le traemos algún
+presente, por así decirlo.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(RIT)
+¿Un presente?
+¿A qué te refieres?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194481]
+<STR>(YUR)
+El rhybgaro. Vale un buen montón
+de dinero, ¿no?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(EST_P)
+Ahora que lo dices, aquel oficial
+mencionó el rhybgaro.<PAGE>Dijo que el que trajera su cuerno no tendría
+que volver a preocuparse de pagar impuestos.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(YUR)
+Si le traemos algo tan valioso, el magistrado
+nos tendrá que conceder una audiencia, al menos.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194481]
+<STR>(RIT)
+¿Estás proponiendo
+capturar el rhybgaro?
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(KAR)
+¡Es nuestra oportunidad!
+¡Está lloviendo, después de todo!
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(EST_P)
+¿Qué tiene que ver la lluvia con todo esto?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(KAR)
+¡El rhybgaro sale de su escondite
+cuando llueve!<PAGE>Es el único monstruo
+que conozco que sale
+en los días de lluvia.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(YUR)
+Gran observación,
+capitán <STR>(KAR). ¿Algo más?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(KAR)
+¿Cómo que «¿algo más?»?
+¡Eso es todo!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194481]
+<STR>(YUR)
+Pues bien, ¿dónde está el rhybgaro?
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(KAR)
+Eer, uh...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(RIT)
+Me lo imaginaba...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(EST_P)
+Bien, entonces vamos a hablar con la gente
+del pueblo a ver qué nos cuentan sobre esto.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272798449]
+<STR>(YUR)
+¿Estás segura de
+esto, <STR>(EST_P)?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(EST_P)
+Sí.
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(YUR)
+Si nos sale rana, puede que todos
+acabemos al otro lado de la ley.<PAGE>El que dicta las leyes en este lugar
+es el magistrado del Imperio.
+¿Estás segura de querer desafiarlo?
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(EST_P)
+Voy con vosotros.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237528]
+<STR>(YUR)
+Estás decidida, entonces.
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(EST_P)
+Sí.
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(YUR)
+<STR>(RIT), ¿a ti también te parece bien?
+
+## POINTER 35 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(RIT)
+Si te digo la verdad, tengo unas ganas locas
+de ver ese blastia que controla la meteorología.
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372207]
+<STR>(EST_P)
+¡Decidido!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194432]
+<STR>(YUR)
+Bien pues, lo primero
+es buscar el rhybgaro.

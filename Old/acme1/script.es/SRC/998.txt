@@ -1,0 +1,29 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1294856676]
+Tokunaga
+¡No nos podemos acercar más!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1294856676]
+<STR>(RIT)
+¡Pero <STR>(EST_P) está...!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006692]
+<STR>(YUR)
+Cálmate, <STR>(RIT).
+Intentaremos acercarnos por aire.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006692]
+<STR>(KAR)
+Pero seguirá siendo
+peligroso para Ba'ul...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1294856676]
+<STR>(JUD)
+Intentémoslo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1294856676]
+<STR>(YUR)
+Gracias.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1294856676]
+<STR>(JUD)
+¡Ba'ul!

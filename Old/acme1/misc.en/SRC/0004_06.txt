@@ -1,0 +1,301 @@
+## POINTER 733
+Altered Arte: Spiral dive and slash at the enemy.
+
+## POINTER 734
+Victory Light Spear
+
+## POINTER 735
+Altered Arte: Spin in the air and dive quickly
+down at an enemy.
+
+## POINTER 736
+Phantom Glacier
+
+## POINTER 737
+Altered Arte: Cause a glacier from beneath
+the enemy when they touch you while lying down.
+
+## POINTER 738
+Divine Dog
+
+## POINTER 739
+Burst Arte: Attack multiple times by somersaulting in midair.
+
+## POINTER 740
+Divine Dog - Blaze
+
+## POINTER 742
+Divine Dog - Tremble
+
+## POINTER 744
+Divine Dog - Savage
+
+## POINTER 746
+Divine Dog - Whirlpool
+
+## POINTER 748
+Slash!!
+
+## POINTER 750
+Regular Attack - ○
+
+## POINTER 752
+Regular Attack - ↑○
+
+## POINTER 754
+Regular Attack - ←→○
+
+## POINTER 756
+Regular Attack - ↓○
+
+## POINTER 758
+Regular Attack - Jumping - ○
+
+## POINTER 760
+Regular Attack - Jumping - ↓○
+
+## POINTER 762
+Regular Secondary Attack - ○
+
+## POINTER 764
+Regular Secondary Attack - ↑○
+
+## POINTER 766
+Regular Secondary Attack - ←→○
+
+## POINTER 768
+Regular Secondary Attack - ↓○
+
+## POINTER 770
+Regular Secondary Attack - Jumping - ○
+
+## POINTER 772
+Regular Secondary Attack - Jumping - ↓○
+
+## POINTER 774
+Free Run Attack
+
+## POINTER 776
+Indigo Fatal Strike
+
+## POINTER 778
+Crimson Fatal Strike
+
+## POINTER 780
+Viridian Fatal Strike
+
+## POINTER 782
+Demon Fang
+
+## POINTER 783
+Base Arte: Release a cutting shockwave
+along the ground.
+
+## POINTER 784
+Tiger Blade
+
+## POINTER 785
+Base Arte: Slice the enemy up, then cut them down.
+
+## POINTER 786
+Beast
+
+## POINTER 787
+Arcane Arte: Unleash the power of a lion to
+send the enemy flying.
+
+## POINTER 788
+Sonic Thrust
+
+## POINTER 789
+Base Arte: A rapid flurry of powerful thrusts.
+
+## POINTER 790
+Sword Rain: Alpha
+
+## POINTER 791
+Arcane Arte: Cut enemy to pieces with endless thrusts.
+
+## POINTER 792
+First Aid
+
+## POINTER 793
+Novice Spell: Restore a small amount of HP
+to one ally.
+
+## POINTER 826
+Over Limit
+
+## POINTER 828
+Over Limit
+
+## POINTER 848
+Combo 1 (3 hit combo)
+
+## POINTER 850
+Combo 2 (2 hit combo)
+
+## POINTER 852
+Diagonal Cut
+
+## POINTER 854
+Shock Thrust
+
+## POINTER 856
+Shining Chaos
+
+## POINTER 858
+Razor Fang
+
+## POINTER 860
+Death Blade
+
+## POINTER 862
+Dragon Ascendent
+
+## POINTER 864
+Havoc Heaven
+
+## POINTER 866
+Crimson Wolf
+
+## POINTER 868
+Punishing Decend
+
+## POINTER 870
+Punishing Divine Flash
+
+## POINTER 872
+Phantom Wolf
+
+## POINTER 874
+Punishing Beast
+
+## POINTER 876
+Moonbeam
+
+## POINTER 878
+Around
+
+## POINTER 880
+Light Spear
+
+## POINTER 882
+Flash
+
+## POINTER 884
+Flame Dragon
+
+## POINTER 886
+Bloody Howling
+
+## POINTER 888
+Tempest
+
+## POINTER 890
+Holy Rain
+
+## POINTER 892
+Stop Flow
+
+## POINTER 894
+Guilty Resolver
+
+## POINTER 896
+Healing Circle
+
+## POINTER 898
+Meteor Storm
+
+## POINTER 900
+Brave Vesperia
+
+## POINTER 902
+Brave Vesperia
+
+## POINTER 904
+Big Bang
+
+## POINTER 906
+Close Combo 1 (3 hit combo)
+
+## POINTER 908
+Mid-range Combo 1 (3 hit combo)
+
+## POINTER 910
+Close Combo 2 (2 hit combo)
+
+## POINTER 912
+Mid-range Combo 2 (2 hit combo)
+
+## POINTER 914
+Close Attack (Single Hit)
+
+## POINTER 916
+Mid-range Attack (Single Hit)
+
+## POINTER 918
+Ill Wind
+
+## POINTER 920
+Radiant Dragon
+
+## POINTER 922
+Apocalypse Toll
+
+## POINTER 924
+Apocalypse Toll
+
+## POINTER 926
+Guardian Frost
+
+## POINTER 928
+Grave Worm
+
+## POINTER 930
+Raging Ice Fang
+
+## POINTER 932
+Fire Ball
+
+## POINTER 934
+Stone Blast
+
+## POINTER 936
+Violent Pain
+
+## POINTER 938
+Thunder Blade
+
+## POINTER 940
+Holy Rain
+
+## POINTER 942
+Tidal Wave
+
+## POINTER 944
+Ground Dasher
+
+## POINTER 946
+Brilliant Cataclysm
+
+## POINTER 948
+Regular Attack
+
+## POINTER 950
+Regular Attack
+
+## POINTER 952
+Regular Attack
+
+## POINTER 954
+Jump Hammer
+
+## POINTER 956
+Hammer Roll
+
+## POINTER 958
+Head Shock
+
+## POINTER 960
+Macabre Hammer

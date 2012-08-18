@@ -1,0 +1,34 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252839819]
+Una barrera en un oasis
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266670742]
+(YUR)
+¿Por qué iba nadie a poner una
+barrera en un sitio como este?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298114973]
+(EST_P)
+Lo cierto es que simplemente descubrieron
+el blastia en el fondo del oasis y
+se limitan a utilizarlo desde ahí.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307608]
+(EST_P)
+Me lo ha dicho una persona del pueblo.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307608]
+(JUD)
+Y estando en el fondo del oasis, nadie
+podía moverlo, así que supongo que
+tuvieron que dejarlo donde estaba.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307608]
+(RIT)
+Nadie se molestaría en pasarlas negras
+para llegar a este infierno abrasador
+solo para poner una barrera.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266670742]
+(YUR)
+Ah, eso lo explica. Supongo
+que hay una razón para todo.

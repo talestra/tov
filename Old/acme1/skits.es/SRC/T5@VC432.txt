@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:evilluendas;time:1251845610]
+No del todo cálido
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115911]
+(KAR)
+La fuente de calor es el tipo de
+gremio fantasma del que la gente
+solo ha oído leyendas.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313610]
+(KAR)
+Nunca creí que fuera a verlo 
+con mis propios ojos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115911]
+(YUR)
+Un gremio fantasma, ¿eh?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115911]
+(EST_P)
+Si son un gremio, deben tener sus
+propias reglas y objetivos, ¿no?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115911]
+(KAR)
+Según los rumores que he escuchado,
+su propósito es proporcionar el 
+mejor servicio a sus clientes.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313610]
+(KAR)
+Según dicen, cualquier miembro
+que sea grosero con un cliente
+debe pagarlo con su vida.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266827440]
+(RIT)
+Sí que tienen unas reglas estrictas
+para un lugar tan tranquilo como este.

@@ -1,0 +1,49 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294857614]
+
+¡Lo siento muchísimo! ¡Quién hubiera
+pensado que no eras el chico nuevo!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294857614]
+<STR>(KAR)
+¡Si te lo he dicho! ¡Te lo he
+estado diciendo todo el rato!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907370]
+
+Lo siento. Me lo han
+comentado tus amigos.<PAGE>Acepta mis disculpas como pago
+por todo lo que has trabajado.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294857614]
+<STR>(KAR)
+La próxima vez ten más cuidado...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907370]
+<STR>(YUR)
+¿Qué os parece? Esto ha sido de
+rechupete para Gran Vesperia, ¿eh?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907370]
+<STR>(KAR)
+¿Eh? ¿<STR>(YUR)?
+Pero ¿qué dices?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907370]
+<STR>(YUR)
+Tómatelo como parte
+del trabajo del gremio.<PAGE>Además, esto nos viene bien
+como reclamo. Al mal tiempo,
+buena cara, ¿no te parece?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907370]
+<STR>(KAR)
+Visto así...<PAGE>Os preocupaba que no tuviéramos
+suficiente trabajo, ¿verdad?
+Bueno, esta es la solución.<PAGE>¡Avísanos si podemos
+ayudarte en algo más!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907370]
+
+¡Mu bien! Avisaré
+al jefe. Contamos
+con vosotros.

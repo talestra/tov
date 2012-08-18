@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956917]
+<STR>(JUD)
+¿Puedo preguntarte algo?
+¿Hay mercenarios que
+te vendan lanzas?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1294858830]
+
+Desde luego, de vez en cuando.
+Pero la mayoría son de segunda mano.
+¿Estás aquí por alguna de esas?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1294858720]
+<STR>(YUR)
+Si está buscando
+una lanza...<PAGE>No es del tipo que se daña
+fácilmente o se desafila,
+¿verdad, <STR>(JUD_P)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1294858720]
+<STR>(JUD)
+Sí, creo que tienes razón.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1294858830]
+
+Pues nadie ha traído una
+lanza así de buena, nop.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1294858720]
+<STR>(JUD)
+Ya veo...

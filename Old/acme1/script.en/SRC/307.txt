@@ -1,0 +1,240 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS27_055)Relax. Nobody's said we've 
+decided to take the job yet.<PAGE><VOICE>(VS27_056)That can wait till you tell 
+us what this is all about.
+
+## POINTER 1
+Regaey
+<VOICE>(VS27_057)A-all right. I would like you 
+to s-stop the man who is trying 
+to t-take over Palestralle.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS27_058)Take over...?! 
+This city?!
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS27_059)Hm, the plot thickens.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS27_060)Why are you so interested 
+in stopping them, though?<PAGE><VOICE>(VS27_061)It's not your guild, so 
+why not just let it be?
+
+## POINTER 5
+Regaey
+<VOICE>(VS27_062)Y-you see, we have been commissioned 
+by Palestralle to investigate the 
+r-ruins at the coliseum.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS27_063)Huh. Yeah, come to think of it, this 
+city's supposed to be super old.
+
+## POINTER 7
+Regaey
+<VOICE>(VS27_064)If s-someone else took c-control, 
+it would be discourteous to 
+the Entelexeia.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS27_065)Entele...what?
+
+## POINTER 9
+Regaey
+<VOICE>(VS27_066)Ah, oh yes. M-my apologies. 
+...D-do you not know of them?<PAGE><VOICE>(VS27_067)I have heard that th-they are the 
+ancient race who built this town, 
+and a-allow the guilds to b-be here.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS27_068)An ancient race, huh?
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS27_069)Like the Kritya?
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS27_070)Okay, so then who's this guy who's 
+tryin' ta rock the boat here?
+
+## POINTER 13
+Regaey
+<VOICE>(VS27_071)H-he's the champion 
+of the coliseum.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS27_072)Huh? What are you talking about?
+
+## POINTER 15
+Regaey
+<VOICE>(VS27_073)H-he is a man who has entered 
+the tournaments to t-take on 
+Palestralle directly.<PAGE><VOICE>(VS27_074)His c-consecutive 
+victories have brought him 
+closer to B-Belius.<PAGE><VOICE>(VS27_075)This m-man is terribly dangerous. 
+If he is not s-soon eliminated, I 
+fear that B-Belius may be...
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS27_076)So as long as he's winnin', 
+Palestralle couldn't get rid 
+of 'im even if they wanted to.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS27_077)So, long story short, you want 
+us to enter the tournament 
+and beat him, right?
+
+## POINTER 18
+Regaey
+<VOICE>(VS27_078)Y-yes. P-please f-forgive 
+my asking.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS27_079)Jeez, why didn't you just say so?<PAGE><VOICE>(VS27_080)Are you sure this guy 
+is really trying to take 
+over the coliseum?
+
+## POINTER 20
+Regaey
+<VOICE>(VS27_081)Of c-c-c-course, and he 
+is being b-b-b-backed by 
+L-Leviathan's Claw!<PAGE><VOICE>(VS27_082)L-L-L-Leviathan's Claw plans to 
+use the c-coliseum for income 
+to d-dominate the other guilds...!
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS27_083)That sounds like a plan someone like 
+Cumore might come up with...
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS27_084)No way...
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS27_085)We already know Cumore 
+and Leviathan's Claw are 
+working together.<PAGE><VOICE>(VS27_086)Hmm, wonder what'll fall out of this 
+tree if we shake it a little...
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS27_087)Whatever happens, we have 
+to stop Leviathan's Claw!<PAGE><VOICE>(VS27_088)Relations between the empire and the 
+guilds will only worsen if we don't.
+
+## POINTER 25
+<STR>(JUD)
+<VOICE>(VS27_089)What about Phaeroh? There's 
+no telling when you'll be able to 
+meet him if we get into this.
+
+## POINTER 26
+<STR>(EST_P)
+<VOICE>(VS27_090)U-um, but...
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VS27_091)<STR>(EST_P), what is it that 
+you really want to do?
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS27_092)What I really want to do...
+
+## POINTER 29
+Regaey
+<VOICE>(VS27_093)I-I beg your pardon, is this a 
+d-difficult decision for you all?
+
+## POINTER 30
+<STR>(JUD)
+<VOICE>(VS27_094)There isn't anything 
+difficult about it.
+
+## POINTER 31
+<STR>(EST_P)
+<VOICE>(VS27_095)What do you mean?
+
+## POINTER 32
+<STR>(JUD)
+<VOICE>(VS27_096)We're going to do it, aren't we? 
+We've listened to the story 
+now, at any rate.
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS27_097)R-right. As a guild, this 
+might not be something 
+we can just ignore...
+
+## POINTER 34
+<STR>(RAV)
+<VOICE>(VS27_098)So then, who'll be entering the tournament?
+
+## POINTER 35
+<STR>(KAR)
+<VOICE>(VS27_099)Well, we can't ask <STR>(EST_P), <STR>(RIT), 
+or <STR>(RAV) to participate.<PAGE><VOICE>(VS27_100)After all, this is a job Brave Vesperia 
+will be doing for Ruins' Gate.
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS27_101)Okay, so...
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VS27_102)No hard feelings, but I'd rather 
+not have to go up against <STR>(JUD_P).
+
+## POINTER 38
+<STR>(JUD)
+<VOICE>(VS27_103)Hm? And I was just getting ready 
+to enter. Oh well, I suppose 
+I can sit this one out.
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS27_104)The boss here shouldn't have 
+to trouble himself with this. 
+So it's up to me then, right?
+
+## POINTER 40
+<STR>(KAR)
+<VOICE>(VS27_105)Um, r-right.
+
+## POINTER 41
+Regaey
+<VOICE>(VS27_106)So...d-do you mean 
+you'll take the j-job?
+
+## POINTER 42
+<STR>(YUR)
+<VOICE>(VS27_107)Sure. Beating the champion 
+will be good for our guild's 
+reputation.<PAGE><VOICE>(VS27_108)It's not a bad deal for us at all.
+
+## POINTER 43
+<STR>(KAR)
+<VOICE>(VS27_109)Yeah, you're right...
+
+## POINTER 44
+Regaey
+<VOICE>(VS27_110)I see, w-well please proceed 
+to the r-registration area 
+wh-when you're ready.

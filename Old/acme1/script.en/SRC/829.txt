@@ -1,0 +1,161 @@
+## POINTER 0
+<STR>(KAR)
+W-who are you?
+
+## POINTER 1
+
+Ding-dong! I'm Kowz! You 
+can call me K-Z for short. 
+Nice to meetcha!
+
+## POINTER 2
+<STR>(RIT)
+K-Z? Don't you think Kowz 
+is plenty short enough?
+
+## POINTER 3
+
+No need to be so sassy, 
+Flatty McChesterson!
+
+## POINTER 4
+<STR>(RAV)
+F-flatty McChesterson!! Hah hah! 
+I like the cut of yer jib, K-Z!
+
+## POINTER 5
+<STR>(RIT)
+I'm surrounded by idiots... What's 
+the point of having big boobs,
+anyway? They just get in the way!
+
+## POINTER 6
+<STR>(RAV)
+I g-guess...
+
+## POINTER 7
+<STR>(YUR)
+So, what are you doing in 
+a place like this, anyway?
+
+## POINTER 8
+
+Goooood question! I guess 
+you could say I'm helping 
+out with some chores.
+
+## POINTER 9
+<STR>(EST_P)
+Oh, that's so nice of 
+you to help your mother 
+with the chores!
+
+## POINTER 10
+
+My mother? You crazy? Who said 
+anything about that? I'm helping 
+out the Ant Lion Man!
+
+## POINTER 11
+<STR>(JUD)
+Is Ant Lion Man the name of a 
+friend of yours, or something?
+
+## POINTER 12
+
+Yepperoo! Something 
+like that, Ms. Bouncy-bouncy.
+
+## POINTER 13
+<STR>(KAR)
+B-bouncy-bouncy...
+
+## POINTER 14
+
+Anyway, could ya let me borrow 
+an Apple Gel? If you do, I'll 
+show you what I mean.
+
+## POINTER 15
+
+Oh, thanks!
+
+## POINTER 16
+
+Round and round we go!
+Where we stop...only I know!
+
+## POINTER 17
+
+Catch!
+
+## POINTER 18
+
+Oo hoo! 
+Thankee, 
+thankee!
+
+## POINTER 19
+<STR>(YUR)
+What the heck was that...
+
+## POINTER 20
+
+That is my friend, the Ant 
+Lion Man. You can call him 
+A-to-the-L for short.
+
+## POINTER 21
+<STR>(RAV)
+I'm...at 
+a loss...
+
+## POINTER 22
+<STR>(JUD)
+So... He took that 
+apple gel, huh?
+
+## POINTER 23
+<STR>(KAR)
+I think so... I was too flabbergasted 
+by all this weirdness 
+to really notice.
+
+## POINTER 24
+<STR>(RIT)
+Yo, give that apple 
+gel back, you!
+
+## POINTER 25
+
+Give it back? Don't 
+be so heartless, 
+Flatty!
+
+## POINTER 26
+
+You'll just have to take 
+this instead. Here.
+
+## POINTER 27
+
+Fresh-squeezed from the udders 
+of yours truly! Moo hoo hoo. ∀
+
+## POINTER 28
+
+You can't fool me, you big 
+fibber! Don’t make offers 
+you can't back up!
+
+## POINTER 29
+
+Boy, you sure are stingy! ∀
+Come back if you 
+change your mind.
+
+## POINTER 30
+
+Ah, you're back. You have 
+a change of heart about 
+that apple gel, then?

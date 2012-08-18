@@ -1,0 +1,202 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS23_119)When we have time to take a 
+longer rest, we've got to decide 
+a few things about our guild.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS23_120)What is it with you 
+and taking breaks?
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS23_121)What do you hope to accomplish 
+by starting a guild?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS23_122)Accomplish...? Hmm...
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS23_123)I want our guild to 
+become really big.<PAGE><VOICE>(VS23_124)And then someday we'll follow 
+in the Don's footsteps and 
+protect Dahngrest ourselves.<PAGE><VOICE>(VS23_125)That way, I can show him 
+my gratitude for all the years 
+he's defended the city.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS23_126)That's a wonderful dream, <STR>(KAR).
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS23_127)I'll just stick with the boss, here.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS23_128)Huh? B-boss? 
+Me?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS23_129)You were the first one to 
+bring up this crazy idea.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS23_130)H-heh, I guess you're right.<PAGE><VOICE>(VS23_131)So, what's the first order of business?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS23_132)To calm down.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS23_133)Yeah.
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS23_134)Hehe... 
+You make guilds 
+sound like fun.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS23_135)Why don't you join the 
+guild as well, <STR>(JUD)?
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VS23_136)Hmm, I wonder. Do you 
+think they'd let me?
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS23_137)The most important thing is 
+obeying the guild's laws.<PAGE><VOICE>(VS23_138)Those who break the laws 
+will be severely punished. 
+Even friends or family.<PAGE><VOICE>(VS23_139)The laws are the source 
+of a guild's pride.<PAGE><VOICE>(VS23_140)No one can be admitted 
+without making a solemn 
+pledge to uphold them.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS23_141)And what are the laws 
+of your guild, <STR>(KAR)?
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS23_142)Umm...
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS23_143)Everybody supporting each other, 
+and always acting with the 
+interests of the guild in mind.<PAGE><VOICE>(VS23_144)Striving to always do the 
+right thing, while punishing 
+those who don't.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS23_145)What do you mean?
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS23_146)All for the guild and 
+the guild for all.<PAGE><VOICE>(VS23_147)Do justice, and 
+punish the unjust.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS23_148)Everyone's opinion will be 
+valued, so long as it doesn't 
+go against these laws.
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS23_149)<STR>(YUR)... That's just what I...
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS23_150)Right, boss?
+
+## POINTER 24
+<STR>(KAR)
+<VOICE>(VS23_151)All for the guild and 
+the guild for all...<PAGE><VOICE>(VS23_152)...Y-yeah! That's it! 
+Those are our laws!
+
+## POINTER 25
+<STR>(JUD)
+<VOICE>(VS23_153)It looks like these will be 
+my laws from now on as well.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS23_154)Sure it's okay to make 
+up your mind like that?
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VS23_155)Yes. You've got me curious. 
+All for the guild... 
+I like the way that sounds.
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS23_156)Well then...
+
+## POINTER 29
+<STR>(JUD)
+<VOICE>(VS23_157)I pledge to uphold the laws. For 
+the guild's sake...and my own.
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS23_158)How about your partner?
+
+## POINTER 31
+<STR>(JUD)
+<VOICE>(VS23_159)Thanks for your concern, but 
+it's all right. He won't mind.
+
+## POINTER 32
+<STR>(KAR)
+<VOICE>(VS23_160)Your partner...?
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS23_161)A friend I was traveling with earlier.
+
+## POINTER 34
+<STR>(KAR)
+<VOICE>(VS23_162)Huh, I didn't know you had someone like that.<PAGE><VOICE>(VS23_163)Okay, so from today on we'll 
+be your new partners, <STR>(JUD).
+
+## POINTER 35
+<STR>(JUD)
+<VOICE>(VS23_164)I look forward to it.
+
+## POINTER 36
+<STR>(KAR)
+<VOICE>(VS23_165)Me too!
+
+## POINTER 37
+<STR>(RAP)
+<VOICE>(VS23_166)Woof!
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS23_167)Then, I...
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS23_168)Okay, let's call it a day for now.
+
+## POINTER 40
+<STR>(KAR)
+<VOICE>(VS23_169)Yeah. I almost forgot how sore I am.

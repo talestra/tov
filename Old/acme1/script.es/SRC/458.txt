@@ -1,0 +1,101 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(RAV)
+<VOICE>(VS47_001)Brrr...<PAGE><VOICE>(VS47_002)B-B-Brrr... Q-Qué frío...
+Q-Qué... frío... leñe.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283645021]
+<STR>(RIT)
+<VOICE>(VS47_003)Vale, viejales, ya lo hemos pillado.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(RAV)
+<VOICE>(VS47_004)La gente de mi edá tiene la temperatura
+corporal mú baja, ¿sabéis? Aah, lo que
+daría por el calor de aquel desierto.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(YUR)
+<VOICE>(VS47_005)Acabarás resbalando y cayendo
+como no te calles...<PAGE><VOICE>(VS47_006)Ups, demasiado tarde.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283645021]
+<STR>(RAV)
+<VOICE>(VS47_007)Tened cuidao. Los viejos
+somos gente frágil.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(KAR)
+<VOICE>(VS47_008)Perdón...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(YUR)
+<VOICE>(VS47_009)Tío, en menudo sitio nos hemos metido.
+Es una mezcla extraña entre misterioso
+y directamente siniestro.<PAGE><VOICE>(VS47_010)Hay espadas saliendo del hielo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(RIT)
+<VOICE>(VS47_011)Sí, parecen estar por todas partes.
+¡¿Qué clase de sitio es este?!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283645021]
+<STR>(JUD)
+<VOICE>(VS47_012)Creía que el nombre de Zopheir
+venía de su frío cortante,
+pero supongo que me equivocaba.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(RAV)
+<VOICE>(VS47_013)Pa mí que no ibas desencaminao
+con lo de «frío como er vacío».
+*Escalofrío*
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(RAP)
+<VOICE>(VS47_014)Grrrr... ¡Guau! ¡Guau! ¡Guau!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(RIT)
+<VOICE>(VS47_015)¿Qué... qué es lo
+que le pasa? ¡Aaah!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(YUR)
+<VOICE>(VS47_016)¡...!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1283645021]
+<STR>(RAV)
+<VOICE>(VS47_017)¡Oaaah!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(KAR)
+<VOICE>(VS47_018)¡¿Q-Qué ha sido eso?!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(RIT)
+<VOICE>(VS47_019)Qué grande...<PAGE><VOICE>(VS47_020)¡¿E-Es un entelechia?!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(JUD)
+<VOICE>(VS47_021)No... No percibo
+inteligencia en él.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(KAR)
+<VOICE>(VS47_022)¡Entonces es un monstruo!
+Estaremos en un aprieto
+si ese bicho nos ataca.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1283645021]
+<STR>(YUR)
+<VOICE>(VS47_023)Si lo dejamos en paz no
+tendría por qué molestarnos.
+Olvidémonos de ello.<PAGE><VOICE>(VS47_024)Vamos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1283645021]
+<STR>(YUR)
+<VOICE>(VS47_025)¡<STR>(KAR)!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459950]
+<STR>(KAR)
+<VOICE>(VS47_026)¿Eh? ¡Oh, claro!

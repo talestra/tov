@@ -1,0 +1,30 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:parsec;time:1273926764]
+<STR>(KAR)
+¿Y esto qué hace?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:parsec;time:1273926764]
+<STR>(RIT)
+¡Quítale las zarpas de encima!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:parsec;time:1273926764]
+<STR>(YUR)
+¿Es una especie de interruptor?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005453]
+<STR>(EST_P)
+No ocurre nada.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:parsec;time:1273926764]
+<STR>(RIT)
+No tiene casi aer.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:parsec;time:1273926764]
+<STR>(YUR)
+No tiene casi aer...<PAGE>Quizás funcione si uso esa cosa
+que encontré en las ruinas de Shaikos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005453]
+<STR>(RIT)
+Ah, el Anillo del Hechicero.
+No estoy segura...<PAGE>Pero puedes intentarlo,
+ya que estamos.

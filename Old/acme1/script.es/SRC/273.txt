@@ -1,0 +1,111 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1275579543]
+<STR>(RIT)
+<VOICE>(VS24_131)¡Escondeos!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1279310255]
+<VOICE>(VS24_132)Ah, mi señorr. ¿No crréiss que
+deberríais dirigirros ya hasia
+lass Arrenas de Kogorrh?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988476]
+Cumore
+<VOICE>(VS24_133)Mmpf. No tengo por qué hacer
+caso de las órdenes de Alexei.<PAGE><VOICE>(VS24_134)Con el dinero y las armas
+de las que dispongo, pronto
+todo estará a mi alcance.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1279310255]
+<VOICE>(VS24_135)Y esperro que parra entonses recordéis
+agradeser el trabajo que ha hecho
+por voss la Garra del Leviatán.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1279310255]
+Cumore
+<VOICE>(VS24_136)Sí, todo quedará saldado, Yeager.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1304247921]
+Yeager
+<VOICE>(VS24_137)Os llevarréis lass arrmas que os he vendido,
+atacarréis a la Unión y... ¡BUM!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1279310255]
+Cumore
+<VOICE>(VS24_138)Je. Me temo que tengo objetivos más
+ambiciosos que atacar a la Unión.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1275579543]
+Yeager
+<VOICE>(VS24_139)Ignorrar al Don serría un gran error.
+Es un gran hombre, ¿ja?
+No oss olvidéiss de esso.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1275579543]
+Cumore
+<VOICE>(VS24_140)Ooh. Casi parece que sientas
+algún respeto por ese hombre.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1275579543]
+Yeager
+<VOICE>(VS24_141)Resspetarlo lo resspeto, perro la Garra
+del Leviatán siempre cumple con el trabajo.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1279310255]
+Cumore
+<VOICE>(VS24_142)Jo, jo, jo. Cuánta dedicación.
+Eso es precisamente
+lo que me gusta de ti.
+<PAGE><VOICE>(VS24_143)Pero no te preocupes. Estás
+hablando con el futuro comandante
+de los Caballeros Imperiales.<PAGE><VOICE>(VS24_144)Mira que decirme ese estúpido
+de Alexei que vigilara la Unión
+mientras él firma ese tratado.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1275579543]
+Yeager
+<VOICE>(VS24_145)¡Ja! ¡Ya lo creo!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1279310255]
+Cumore
+<VOICE>(VS24_146)Si por mi fuera, los aplastaría
+en un abrir y cerrar de ojos
+con tus adorables armas!<PAGE><VOICE>(VS24_147)La Unión no tiene ninguna
+posibilidad de detenerme.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1275579543]
+Yeager
+<VOICE>(VS24_148)Je, je, je... Ja, ja.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1279310255]
+<STR>(RIT)
+<VOICE>(VS24_149)¿Soy yo, o el tipo del pelo raro
+nos ha mirado y se ha reído?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1275579543]
+<STR>(YUR)
+<VOICE>(VS24_150)Está claro que
+nos ha pillado.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1279310255]
+<STR>(RIT)
+<VOICE>(VS24_151)Así que se divierte
+a nuestra costa.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1279310255]
+<STR>(YUR)
+<VOICE>(VS24_152)Siempre pasa lo mismo
+con estos garrulos.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1275579543]
+<STR>(YUR)
+<VOICE>(VS24_153)Ahora ya sabemos que tienen
+a gente retenida aquí abajo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1275579543]
+<STR>(RIT)
+<VOICE>(VS24_154)Sí.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1279310255]
+<STR>(YUR)
+<VOICE>(VS24_155)De acuerdo,
+vamos a liberarlos
+de los garrulos.

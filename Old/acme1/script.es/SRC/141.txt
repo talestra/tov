@@ -1,0 +1,184 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1274023423]
+<STR>(YUR)
+<VOICE>(VS11_042)¡O-Oye!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551772]
+<STR>(KAR)
+<VOICE>(VS11_043)Pero bueno, ¡¿qué es esta cosa?!
+¿También es un blastia?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1282649044]
+<STR>(YUR)
+<VOICE>(VS11_044)Lo que yo quiero es el aqua blastia.
+No esta... esta marioneta.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1274023423]
+<STR>(RIT)
+<VOICE>(VS11_045)Pero ¿qué hacéis?
+¡No tenéis que darle golpecitos!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1274023423]
+<STR>(RIT)
+<VOICE>(VS11_046)Si pudiera analizarlo, podría
+completar mi fórmula ánim... ¿Eh?<PAGE><VOICE>(VS11_047)¡No! ¡Le falta el núcleo!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1274023423]
+<STR>(YUR)
+<VOICE>(VS11_048)<STR>(RIT), parece que uno
+de tus amiguitos está por aquí.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1274023423]
+<STR>(RIT)
+<VOICE>(VS11_049)¡Eh, tú! ¿Quién eres?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1274023423]
+<VOICE>(VS11_050)¿Y-Yo? ¡Solo soy un
+investigador de Aspio!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1272380241]
+<STR>(YUR)
+<VOICE>(VS11_051)Sí que ha sonado convincente...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1274023423]
+<VOICE>(VS11_052)¿Y quiénes sois vosotros?
+¡Esta es una zona restringida, que lo sepáis!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1274023423]
+<STR>(RIT)
+<VOICE>(VS11_053)Me temo que acabas
+de delatarte.<PAGE><VOICE>(VS11_054)No sé quién eres, pero está
+claro que no eres de Aspio
+si no me reconoces.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1274023423]
+<STR>(KAR)
+<VOICE>(VS11_055)Parece que la modestia no es su fuerte.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1274023423]
+<VOICE>(VS11_056)¡Agh! Este trabajito no da más que disgustos.
+¡Si no son los Caballeros, es un hatajo de críos!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1272380241]
+<STR>(KAR)
+<VOICE>(VS11_057)¡Aaah, que se mueve!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1272380241]
+<STR>(EST_P)
+<VOICE>(VS11_058)¡<STR>(RIT)!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(EST_P)
+<VOICE>(VS11_059)¡Déjame ver!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(RIT)
+<VOICE>(VS11_060)Un momento.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(EST_P)
+<VOICE>(VS11_061)¡¿Qué?!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1272380241]
+<STR>(RIT)
+<VOICE>(VS11_062)¿Cómo has...?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(EST_P)
+<VOICE>(VS11_063)Solo intentaba curarte.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(KAR)
+<VOICE>(VS11_064)¡Eh, chicas! ¡Dejad de charlar
+y echadnos un cable!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1272380241]
+<STR>(RIT)
+<VOICE>(VS11_065)Grr... ¡Vale, vale!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1272380241]
+<STR>(RIT)
+<VOICE>(VS11_066)¡Voy tras ese lerdo!
+¡Vosotros ocupaos de esto!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(YUR)
+<VOICE>(VS11_067)
+¿Es que piensas dejarnos esto a nosotros?
+¿Y cómo crees que vas pasar?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(RIT)
+<VOICE>(VS11_068)¡Grr! ¡Ese idiota!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(YUR)
+<VOICE>(VS11_069)Parece que no nos queda otra
+que jugar con el chisme este.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(RIT)
+<VOICE>(VS11_070)¡Acabemos con esto
+y vayamos tras ese cretino!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(RIT)
+<VOICE>(VS11_071)
+Ya solo queda cortarle su fuente
+de energía. Lo siento...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1272380241]
+<STR>(KAR)
+<VOICE>(VS11_072)¡<STR>(RIT), deprisa!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(RIT)
+<VOICE>(VS11_073)¡Que sí, que sí!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1272380241]
+<STR>(RIT)
+<VOICE>(VS11_074)¡Venga! ¡Vamos!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1272380241]
+<STR>(EST_P)
+<VOICE>(VS11_075)Pero <STR>(FRE)...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(YUR)
+<VOICE>(VS11_076)
+No creo que haya muchos Caballeros
+por aquí si nuestro amiguito de la capa
+anda por aquí a sus anchas.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1272380241]
+<STR>(EST_P)
+<VOICE>(VS11_077)Entonces crees que <STR>(FRE) está...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(YUR)
+<VOICE>(VS11_078)No creo que aún esté por aquí. ¡Vamos!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(RIT)
+<VOICE>(VS11_079)¡Si hubiera tenido unos segundos más
+hubiera descifrado la fórmula ánima!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(KAR)
+<VOICE>(VS11_080)¿Por eso hemos tenido que pelear contra ese bicho?
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1272380241]
+<STR>(RIT)
+<VOICE>(VS11_081)Pues claro.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(KAR)
+<VOICE>(VS11_082)¡Eres lo peor!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(RIT)
+<VOICE>(VS11_083)Vosotros ya estabais buscando al ladrón.
+Tan solo he hecho que me ayudarais un poquito.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1274024152]
+<STR>(YUR)
+<VOICE>(VS11_084)¡Vamos, vamos!

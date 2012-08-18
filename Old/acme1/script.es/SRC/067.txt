@@ -1,0 +1,10 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270758717]
+<STR>(YUR)
+¿Un mago creando una tormenta
+en la sede de los Caballeros?
+Qué miedo...
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270758717]
+<STR>(YUR)
+Pero no puedo dejar a <STR>(KAR)
+así como así...

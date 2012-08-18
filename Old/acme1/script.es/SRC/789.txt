@@ -1,0 +1,90 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843915]
+
+¡Bienvenidos sean, queridos visitantes,
+al balneario del manantial termal Yumanju!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843915]
+<STR>(KAR)
+¿Ya habéis terminado
+de limpiar los baños?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843915]
+
+¡Sí, señor! ¡Los baños están limpios como
+una patena y listos para que los disfruten!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843915]
+<STR>(RAV)
+¡Síííí!
+¡Perfecto, perfecto!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843915]
+<STR>(EST_P)
+Entonces,
+¿podemos
+entrar ya?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843915]
+
+¡Por favor, cuando quieran!
+Serán 50.000 gald por persona.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843915]
+<STR>(KAR)
+¡¿Cin-cincuenta mil gald?!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843915]
+<STR>(RIT)
+¡E-Eso es un atraco
+a mano armada!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298844030]
+
+Los clientes más importantes
+de nuestro establecimiento
+son nobles adinerados.<PAGE>Nuestros precios sencillamente van acorde
+a nuestro sincero deseo de satisfacer cada
+necesidad de nuestra estimada clientela.<PAGE>Estoy convencido de que una vez hayan probado nuestros
+servicios, nuestros precios no les parecerán nada caros
+comparados con el nivel de satisfacción que recibirán.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290018803]
+<STR>(JUD)
+¿Qué hacemos,
+<STR>(YUR)?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290018803]
+¿Pagar la entrada al balneario?
+Sí
+No
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843915]
+<STR>(YUR)
+No hace falta que paguemos por <STR>(RAP);
+así que seis personas, ¿no?<PAGE>Toma.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290018803]
+Información
+Has pagado 300.000 gald.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298844030]
+
+¡Muchísimas gracias! El baño de las
+señoritas está a la derecha, y el de
+los caballeros a la izquierda.<PAGE>¡Que disfruten!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298844030]
+
+Oh, no disponen
+de suficiente gald.
+Por favor, vuelvan luego.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290018803]
+<STR>(YUR)
+Ya volveremos cuando podamos permitírnoslo.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298844030]
+
+¡Bienvenidos!
+Son 50.000 gald por persona.
+¿Visitarán hoy el manantial termal?

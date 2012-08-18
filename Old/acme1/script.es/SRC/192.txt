@@ -1,0 +1,137 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242045]
+Nan
+<VOICE>(VS17_105)Siempre que pasa algo, vas tú y...
+¡puf, desapareces! ¡Siempre, siempre
+tienes que salir huyendo!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242045]
+<STR>(KAR)
+<VOICE>(VS17_106)¡N-No es verdad!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+Nan
+<VOICE>(VS17_107)¡¿Que no es verdad?!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(KAR)
+<VOICE>(VS17_108)Como ya te dije, en Halure...
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+Nan
+<VOICE>(VS17_109)¡No estoy hablando
+de lo de Halure!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+Nan
+<VOICE>(VS17_110)Si no te avergüenzas de nada,
+¿por qué no te das prisa
+y vuelves con tus amigos?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(KAR)
+<VOICE>(VS17_111)Es solo que...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242045]
+Nan
+<VOICE>(VS17_112)A mí no tienes que darme explicaciones.
+Ya tienes otras personas para que te escuchen.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242045]
+<STR>(KAR)
+<VOICE>(VS17_113)¿Eh?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(KAR)
+<VOICE>(VS17_114)Chicos...
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(EST_P)
+<VOICE>(VS17_115)<STR>(KAR), qué alegría
+ver que estás bien.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(RIT)
+<VOICE>(VS17_116)¿Dónde narices te habías metido?
+Estábamos en un embrollo de tres
+pares de narices.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(KAR)
+<VOICE>(VS17_117)Lo... lo siento...
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(YUR)
+<VOICE>(VS17_118)Oye, al menos has conseguido
+salir de una pieza.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+Nan
+<VOICE>(VS17_119)Me voy.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(KAR)
+<VOICE>(VS17_120)Espera...
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+Nan
+<VOICE>(VS17_121)Piensa detenidamente en
+lo que has hecho. Eso es
+todo lo que voy a decirte.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242045]
+<STR>(KAR)
+<VOICE>(VS17_122)¡Oye, déjalo ya!
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(YUR)
+<VOICE>(VS17_123)Vamos, <STR>(KAR). 
+Estamos todos cansados.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(KAR)
+<VOICE>(VS17_124)<STR>(YUR)...
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(RIT)
+<VOICE>(VS17_125)Tío, estábamos totalmente equivocados.
+El Pacto de Sangre no estaba por ningún lado.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242045]
+<STR>(YUR)
+<VOICE>(VS17_126)
+Y que lo digas. Será mejor que a partir
+de ahora cojamos con pinzas cualquier
+información que nos pase ese tío.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(RIT)
+<VOICE>(VS17_127)¿«Ese tío»?...
+No te referirás a...
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(YUR)
+<VOICE>(VS17_128)Sí.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(RIT)
+<VOICE>(VS17_129)¡Ooh! Pienso hacerlo picadillo
+en el mismo instante en que
+lo vea.
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(EST_P)
+<VOICE>(VS17_130)
+Va... vamos a tomárnoslo
+con calma durante la vuelta.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(KAR)
+<VOICE>(VS17_131)Tampoco es que yo...
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(YUR)
+<VOICE>(VS17_132)¡Oye, que te vas a quedar atrás!
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272875272]
+<STR>(KAR)
+<VOICE>(VS17_133)¡Ya voy!

@@ -1,0 +1,86 @@
+## POINTER 0
+<STR>(FRE)
+It's good to see you, <STR>(YUR). 
+You must be tired. Feel 
+free to rest up here.
+
+## POINTER 1
+<STR>(YUR)
+I'd like to take you up 
+on that, but we're actually 
+in a bit of a hurry.
+
+## POINTER 2
+<STR>(JUD)
+We must be moving on once we've 
+asked what we came to ask.
+
+## POINTER 3
+<STR>(FRE)
+Ask who? Me?
+
+## POINTER 4
+<STR>(EST_P)
+Did you ever see a secret manual 
+for refining metal ore among the 
+items confiscated by the Knights?
+
+## POINTER 5
+<STR>(FRE)
+A secret...manual...?
+
+## POINTER 6
+<STR>(FRE)
+No. Confiscated items were 
+always under the jurisdiction 
+of the Schwann brigade...
+
+## POINTER 7
+<STR>(RAV)
+What? Starin' at me isn't 
+gonna help. I'm not that 
+Schwann guy, ya know...
+
+## POINTER 8
+<STR>(RIT)
+Oh yeah...?
+
+## POINTER 9
+<STR>(YUR)
+Sounds like Schwann was even more 
+clueless than I'd thought.
+
+## POINTER 10
+<STR>(FRE)
+Keeping track of all these items is 
+basically paperwork. It's not something 
+a captain usually deals with.
+
+## POINTER 11
+<STR>(RAV)
+Ya know, this one's not 
+so bad after all...
+
+## POINTER 12
+<STR>(FRE)
+...Thank you. Unless it's 
+a recent acquisition we should 
+have a copy here...<PAGE>But I'm not seeing anything that 
+looks like a manual here...
+
+## POINTER 13
+<STR>(YUR)
+Oh well... We had to check. Thanks, 
+man. We're gonna get going.
+
+## POINTER 14
+<STR>(FRE)
+Yo... <STR>(YUR).
+
+## POINTER 15
+<STR>(YUR)
+Huh?
+
+## POINTER 16
+<STR>(FRE)
+Give 'em hell out there.

@@ -1,0 +1,81 @@
+## POINTER 0
+Kellas
+Wait! You can't go out again after that girl went
+through the trouble of healing your wounds!
+
+## POINTER 1
+<STR>(YUR)
+Where are you off to with 
+that dangerous weapon?
+
+## POINTER 2
+Teagle
+That's no business of yours. I can't 
+have you sticking your nose into my affairs 
+just because you're curious!
+
+## POINTER 3
+Teagle
+Th-this is...?!
+
+## POINTER 4
+<STR>(YUR)
+Sorry for stealing your thunder 
+back at the inn. Maybe this'll 
+make it up to you.
+
+## POINTER 5
+Teagle
+Th-thank you so much!
+
+## POINTER 6
+Kellas
+Th-thank you so much!
+
+## POINTER 7
+<STR>(KAR)
+H-hold on! You're just 
+giving it to them?
+
+## POINTER 8
+<STR>(YUR)
+It's a small price to pay if 
+it saves their child's life.
+
+## POINTER 9
+<STR>(EST_P)
+You were planning on doing this 
+from the beginning, weren't you?
+
+## POINTER 10
+<STR>(YUR)
+Nope, it just came to me.
+
+## POINTER 11
+<STR>(RIT)
+You do realize that you just gave 
+away our gift for the magistrate, 
+right? Now what'll we do?
+
+## POINTER 12
+<STR>(YUR)
+No worries, we'll just find some other 
+way to get into the magistrate's place.
+
+## POINTER 13
+<STR>(EST_P)
+Shall we see how <STR>(FRE)'s 
+doing, then?
+
+## POINTER 14
+<STR>(KAR)
+Yes, maybe he's even gotten into Ragou's 
+palace already and set things straight!!
+
+## POINTER 15
+<STR>(YUR)
+Yeah, that sure would be nice...
+
+## POINTER 16
+<STR>(EST_P)
+Let's go pay a visit to the inn.

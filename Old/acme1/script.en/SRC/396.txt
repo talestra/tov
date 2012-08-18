@@ -1,0 +1,190 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS36_280)Waaait!!
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS36_281)<STR>(KAR)!
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS36_282)...Wait! *Huff* 
+*Wheeze*<PAGE><VOICE>(VS36_283)I'm...*Huff*... Coming 
+with you...
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS36_284)I might not fully understand 
+the things the Don wanted 
+to tell me yet.<PAGE><VOICE>(VS36_285)But Brave Vesperia is 
+my--no, our guild, so...so 
+I've gotta come with you guys!
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS36_286)<STR>(KAR).
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS36_287)I think if I ran away... If I 
+abandoned my friends, that'd be 
+the end! I couldn't come back...<PAGE><VOICE>(VS36_288)That's why...that's why I've gotta 
+go! Please let me come, too!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS36_289)Of course. You're the 
+boss of this outfit, Captain.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS36_290)<STR>(YUR)! Thanks!<PAGE><VOICE>(VS36_291)But... Don't call me 
+"boss" anymore.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS36_292)Hmm?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS36_293)I...I haven't done 
+anything to earn that 
+title yet...<PAGE><VOICE>(VS36_294)Until you really 
+think I'm a boss...<PAGE><VOICE>(VS36_295)Until I don’t feel embarrassed 
+when someone calls me "boss"...<PAGE><VOICE>(VS36_296)I'll just do my part 
+as a fellow member 
+of Brave Vesperia.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS36_297)...Understood, <STR>(KAR). 
+Not a bad plan.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS36_298)Alright!
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS36_299)It never ends with these guilds. 
+Bunch of hot-headed idiots.
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VS36_300)Hmm, yeah. Quite juvenile, isn't it?
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS36_301)Aaah! H-hey old man...?!
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS36_302)Ahh, how glorious is youth?
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS36_303)What are you up to?
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS36_304)Huh? Somethin' wrong 
+with my bein' here?
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS36_305)Well, don't you have your hands full,
+with the Don's passing and everything...?
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS36_306)Ya know, it all just seemed a little 
+too bothersome, so I ducked out.
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS36_307)But you owe a lot to the 
+Don. Aren't you sad?
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VS36_308)Sad? I cried and cried till 
+my throat was hoarse and there 
+wasn't a tear left in me.
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS36_309)Funny, it doesn't 
+show on you at all.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS36_310)Heh, so not even <STR>(RAV) the 
+Great can bear to ignore the 
+Don's parting words.
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS36_311)Wh-what're you talkin' about? 
+Ya heard me, didn't ya? That 
+burden's too heavy for this beast.
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS36_312)I'm sure they'll be able ta take 
+care of that piece of business 
+just fine without me.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS36_313)All right, we'll 
+leave it at that.
+
+## POINTER 27
+<STR>(RAV)
+<VOICE>(VS36_314)Oh man... These 
+kids today, I tell ya.
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS36_315)So now we can depart 
+for Desier, right?
+
+## POINTER 29
+<STR>(KAR)
+<VOICE>(VS36_316)Huh? Why are we going back there?
+
+## POINTER 30
+<STR>(RAV)
+<VOICE>(VS36_317)That's a pretty good hunch 
+ya had there. Mt. Temza's 
+north of the Sands of Kogorh.<PAGE><VOICE>(VS36_318)There's a Krityan city there, 
+if memory serves.
+
+## POINTER 31
+<STR>(RIT)
+<VOICE>(VS36_319)And why would you know 
+something like that?
+
+## POINTER 32
+<STR>(RAV)
+<VOICE>(VS36_320)Well I'm over twice your 
+age, so of course I 
+know twice as many things.
+
+## POINTER 33
+<STR>(RIT)
+<VOICE>(VS36_321)Right...
+
+## POINTER 34
+<STR>(RAV)
+<VOICE>(VS36_322)So are we goin' or aren't we?
+
+## POINTER 35
+<STR>(KAR)
+<VOICE>(VS36_323)Can we get to the north 
+of Kogorh by boat?
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS36_324)Guess we'll have to see 
+when we get there.

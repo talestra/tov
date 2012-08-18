@@ -1,0 +1,30 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1273611101]
+<STR>(YUR)
+¿Eh? Qué raro.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1273611101]
+<STR>(KAR)
+¿Qué pasa, <STR>(YUR)?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1273611406]
+<STR>(YUR)
+Parece que he perdido la cartera...
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1273611406]
+<STR>(KAR)
+¡¿En un momento como este?!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298313260]
+<STR>(YUR)
+Quizás se me cayó cuando
+estábamos con el Don...
+Voy a mirar. Esperad aquí.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1273611406]
+<STR>(KAR)
+Vale, pero no tardes mucho.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1273611406]
+<STR>(YUR)
+Vale, vamos a ver qué
+tal lo lleva <STR>(FRE)...

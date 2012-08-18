@@ -1,0 +1,172 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+<VOICE>(VS05_062)Oye, muchacho. ¿Te interesaría
+trabajar para mí?
+Te pagaría bien, naturalmente.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+<VOICE>(VS05_063)Sé educado con la presidenta.
+Y bien, ¿qué dices?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+<STR>(YUR)
+<VOICE>(VS05_064)¿No es de mala educación intentar
+reclutar a alguien sin haberse
+presentado siquiera?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+<VOICE>(VS05_065)¡Esa lengua!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+<VOICE>(VS05_066)Eres tan encantador como me esperaba.
+Soy Kaufman, del gremio de mercaderes
+Fortuna Mercantil.
+<PAGE><VOICE>(VS05_067)Nos ocupamos desde las ventas
+hasta la distribución.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+<STR>(YUR)
+<VOICE>(VS05_068)De un gremio, ¿eh?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+Kaufman
+<VOICE>(VS05_069)Verás, ando un poco apurada
+debido a estos temblores.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551811]
+<STR>(YUR)
+<VOICE>(VS05_070)
+No sé si quiero saberlo, pero ¿no
+se supone que se deben a un monstruo?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+Kaufman
+<VOICE>(VS05_071)Así es: el Señor de las Llanuras.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+<STR>(EST_P)
+<VOICE>(VS05_072)¿El Señor de las Llanuras?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+Kaufman
+<VOICE>(VS05_073)Es el líder de esa manada de monstruos.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+<STR>(YUR)
+<VOICE>(VS05_074)¿Su líder? Vaya, pues sí que hay
+cosas interesantes por aquí.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+<STR>(EST_P)
+<VOICE>(VS05_075)¿Sabe de algún otro modo
+de atravesar las llanuras?
+Tenemos prisa.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+Kaufman
+<VOICE>(VS05_076)Mmm, me temo que lo único que podéis hacer
+es esperar a que se marche el Señor de las Llanuras.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+<STR>(YUR)
+<VOICE>(VS05_077)Je, entonces supongo que no tiene
+sentido darle más vueltas al asunto.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+<STR>(EST_P)
+<VOICE>(VS05_078)¡Pero no puedo permitirme
+esperar! ¡Voy a pedir
+una segunda opinión!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+<STR>(RAP)
+<VOICE>(VS05_079)...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+<STR>(YUR)
+<VOICE>(VS05_080)¿Diriges un gremio que se dedica
+a la distribución de mercancías
+pero no conoces ninguna otra ruta?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+Kaufman
+<VOICE>(VS05_081)Podría contratarte y llevarte en cuanto
+se marchara el líder... pero no pareces
+estar muy interesado.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+<STR>(YUR)
+<VOICE>(VS05_082)Si lo que buscas es un guardaespaldas,
+¿por qué no contratas a los Caballeros?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+Kaufman
+<VOICE>(VS05_083)¿Acaso has olvidado que los miembros
+de los gremios renunciamos a nuestros
+derechos como ciudadanos del Imperio?
+<PAGE><VOICE>(VS05_084)Una vez lo abandonas no puedes
+esperar recibir mucha ayuda de ellos,
+que digamos.<PAGE><VOICE>(VS05_085)Así que los Caballeros nunca se dignarían
+a escoltar a gente como nosotros.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+<STR>(YUR)
+<VOICE>(VS05_086)Vaya, sí que os aferráis
+a vuestros principios.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+Kaufman
+<VOICE>(VS05_087)Es imposible llevar un gremio
+si no se tiene esa clase de determinación.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+<STR>(YUR)
+<VOICE>(VS05_088)Pues si tanta determinación tienes,
+ya podrías usarla para hacer algo
+respecto al tal Señor de las Llanuras.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+Kaufman
+<VOICE>(VS05_089)Ve a los bosques de Quoi,
+al oeste de aquí.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+Kaufman
+<VOICE>(VS05_090)Si lo atravesáis, acabaréis
+al otro lado de las llanuras.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+<STR>(YUR)
+<VOICE>(VS05_091)Si vosotros no lo habéis hecho ya...<PAGE><VOICE>(VS05_092)... eso quiere decir que más vale
+que nos preparemos para alguna sorpresita.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+Kaufman
+<VOICE>(VS05_093)Me gustan los hombres inteligentes,
+pero más todavía los que saben cómo
+no desaprovechar una buena inversión.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+<STR>(YUR)
+<VOICE>(VS05_094)Gracias, te debo una.<PAGE><VOICE>(VS05_095)Quién sabe, igual hablamos de nuevo
+de esa oferta de trabajo si nos volvemos a ver.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+<STR>(YUR)
+<VOICE>(VS05_096)<STR>(EST_P).
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431797]
+<STR>(EST_P)
+<VOICE>(VS05_097)N-No es que esté esperando
+a que se vayan los monstruos ni nada.
+Tan solo estoy descansando un poco.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1270639230]
+<STR>(YUR)
+<VOICE>(VS05_098)Oh, entiendo. Bueno, entonces supongo
+que tendré que ir yo solito por el otro
+camino que acabo de descubrir.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528713]
+<STR>(EST_P)
+<VOICE>(VS05_099)¿Qué? Pero ¿cómo has...?
+¡Oye, espérame!

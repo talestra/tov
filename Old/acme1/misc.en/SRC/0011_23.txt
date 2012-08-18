@@ -1,0 +1,301 @@
+## POINTER 3165
+Order of the Loyal Hound
+
+## POINTER 3166
+Granted to a Knight’s dog.
+A sign of strength and ability.
+
+## POINTER 3168
+Ghasfarost, Basement Key
+
+## POINTER 3169
+A spare key to enter the basement of
+Ghasfarost. Barbos holds the master key.
+
+## POINTER 3171
+Mother's Memento
+
+## POINTER 3172
+A keepsake <STR>(EST_P) received from her late
+mother. She always carries this with her.
+
+## POINTER 3174
+Bulsis' Mirror
+
+## POINTER 3175
+A mirror that came from within Bulsis' body.
+It appears to be man-made, but is formed naturally.
+
+## POINTER 3177
+Fake Gald
+
+## POINTER 3178
+Different in weight, glare, and texture.
+Made of gold, but you'll be caught if you try to use it.
+
+## POINTER 3180
+Yuri's Bonus Title 01
+
+## POINTER 3181
+Additional title for Yuri.
+
+## POINTER 3183
+Yuri's Bonus Title 02
+
+## POINTER 3184
+Additional title for Yuri.
+
+## POINTER 3186
+Yuri's Bonus Title 03
+
+## POINTER 3187
+Additional title for Yuri.
+
+## POINTER 3189
+Yuri's Bonus Title 04
+
+## POINTER 3190
+Additional title for Yuri.
+
+## POINTER 3192
+Yuri's Bonus Title 05
+
+## POINTER 3193
+Additional title for Yuri.
+
+## POINTER 3195
+Yuri's Bonus Title 06
+
+## POINTER 3196
+Additional title for Yuri.
+
+## POINTER 3198
+Yuri's Bonus Title 07
+
+## POINTER 3199
+Additional title for Yuri.
+
+## POINTER 3201
+Yuri's Bonus Title 08
+
+## POINTER 3202
+Additional title for Yuri.
+
+## POINTER 3204
+Yuri's Bonus Title 09
+
+## POINTER 3205
+Additional title for Yuri.
+
+## POINTER 3207
+Yuri's Bonus Title 10
+
+## POINTER 3208
+Additional title for Yuri.
+
+## POINTER 3210
+Estelle's Bonus Title 01
+
+## POINTER 3211
+Additional title for Estelle.
+
+## POINTER 3213
+Estelle's Bonus Title 02
+
+## POINTER 3214
+Additional title for Estelle.
+
+## POINTER 3216
+Estelle's Bonus Title 03
+
+## POINTER 3217
+Additional title for Estelle.
+
+## POINTER 3219
+Estelle's Bonus Title 04
+
+## POINTER 3220
+Additional title for Estelle.
+
+## POINTER 3222
+Estelle's Bonus Title 05
+
+## POINTER 3223
+Additional title for Estelle.
+
+## POINTER 3225
+Estelle's Bonus Title 06
+
+## POINTER 3226
+Additional title for Estelle.
+
+## POINTER 3228
+Estelle's Bonus Title 07
+
+## POINTER 3229
+Additional title for Estelle.
+
+## POINTER 3231
+Estelle's Bonus Title 08
+
+## POINTER 3232
+Additional title for Estelle.
+
+## POINTER 3234
+Estelle's Bonus Title 09
+
+## POINTER 3235
+Additional title for Estelle.
+
+## POINTER 3237
+Estelle's Bonus Title 10
+
+## POINTER 3238
+Additional title for Estelle.
+
+## POINTER 3240
+Karol's Bonus Title 01
+
+## POINTER 3241
+Additional title for Karol.
+
+## POINTER 3243
+Karol's Bonus Title 02
+
+## POINTER 3244
+Additional title for Karol.
+
+## POINTER 3246
+Karol's Bonus Title 03
+
+## POINTER 3247
+Additional title for Karol.
+
+## POINTER 3249
+Karol's Bonus Title 04
+
+## POINTER 3250
+Additional title for Karol.
+
+## POINTER 3252
+Karol's Bonus Title 05
+
+## POINTER 3253
+Additional title for Karol.
+
+## POINTER 3255
+Karol's Bonus Title 06
+
+## POINTER 3256
+Additional title for Karol.
+
+## POINTER 3258
+Karol's Bonus Title 07
+
+## POINTER 3259
+Additional title for Karol.
+
+## POINTER 3261
+Karol's Bonus Title 08
+
+## POINTER 3262
+Additional title for Karol.
+
+## POINTER 3264
+Karol's Bonus Title 09
+
+## POINTER 3265
+Additional title for Karol.
+
+## POINTER 3267
+Karol's Bonus Title 10
+
+## POINTER 3268
+Additional title for Karol.
+
+## POINTER 3270
+Rita's Bonus Title 01
+
+## POINTER 3271
+Additional title for Rita.
+
+## POINTER 3273
+Rita's Bonus Title 02
+
+## POINTER 3274
+Additional title for Rita.
+
+## POINTER 3276
+Rita's Bonus Title 03
+
+## POINTER 3277
+Additional title for Rita.
+
+## POINTER 3279
+Rita's Bonus Title 04
+
+## POINTER 3280
+Additional title for Rita.
+
+## POINTER 3282
+Rita's Bonus Title 05
+
+## POINTER 3283
+Additional title for Rita.
+
+## POINTER 3285
+Rita's Bonus Title 06
+
+## POINTER 3286
+Additional title for Rita.
+
+## POINTER 3288
+Rita's Bonus Title 07
+
+## POINTER 3289
+Additional title for Rita.
+
+## POINTER 3291
+Rita's Bonus Title 08
+
+## POINTER 3292
+Additional title for Rita.
+
+## POINTER 3294
+Rita's Bonus Title 09
+
+## POINTER 3295
+Additional title for Rita.
+
+## POINTER 3297
+Rita's Bonus Title 10
+
+## POINTER 3298
+Additional title for Rita.
+
+## POINTER 3300
+Raven's Bonus Title 01
+
+## POINTER 3301
+Additional title for Raven.
+
+## POINTER 3303
+Raven's Bonus Title 02
+
+## POINTER 3304
+Additional title for Raven.
+
+## POINTER 3306
+Raven's Bonus Title 03
+
+## POINTER 3307
+Additional title for Raven.
+
+## POINTER 3309
+Raven's Bonus Title 04
+
+## POINTER 3310
+Additional title for Raven.
+
+## POINTER 3312
+Raven's Bonus Title 05

@@ -1,0 +1,491 @@
+## POINTER 2400 [t:1;r:1;ru:memnoch;user:Lia;time:1301415814]
+¡Venga, no te guardes todos tus recuerdos!
+Podrías dar uno o dos...
+
+## POINTER 2401 [t:1;r:1;ru:memnoch;user:memnoch;time:1302730388]
+¡Bienvenido, bienvenido! ¿Te gustaría
+venderme algunos de tus sueños?
+¡Cinco gald por cada uno!<PAGE>¿Eh? ¿Demasiado barato? Mmpf...
+
+## POINTER 2402 [t:1;r:1;ru:memnoch;user:Lia;time:1301415945]
+¡Venga, no te guardes todos tus sueños!
+Podrías dar uno o dos...
+
+## POINTER 2403 [t:1;r:1;ru:memnoch;user:memnoch;time:1302730388]
+¡Bienvenido, bienvenido! ¿Te gustaría
+venderme algunas de tus esperanzas?
+¡Cinco gald por cada esperanza!<PAGE>¿Eh? ¿Demasiado barato? Mmpf...
+
+## POINTER 2404 [t:1;r:1;ru:memnoch;user:Lia;time:1301415945]
+¡Venga, no te guardes todas tus esperanzas!
+Podrías dar una o dos...
+
+## POINTER 2405 [t:1;r:1;ru:memnoch;user:memnoch;time:1302730388]
+¡Bienvenido, bienvenido! ¿Te gustaría
+venderme algo de tu orgullo?
+¡Cinco gald por un poco de orgullo!<PAGE>¿Eh? ¿Demasiado barato? Mmpf...
+
+## POINTER 2406 [t:1;r:1;ru:memnoch;user:Lia;time:1301415945]
+¡Venga, no te guardes todo tu orgullo!
+Podrías dar un poco...
+
+## POINTER 2407 [t:1;r:1;ru:memnoch;user:memnoch;time:1302730388]
+¡Bienvenido, bienvenido! ¿Te gustaría
+venderme algunos de tus placeres?
+¡Cinco gald por cada placer!<PAGE>¿Eh? ¿Demasiado barato? Mmpf...
+
+## POINTER 2408 [t:1;r:1;ru:memnoch;user:Lia;time:1301415945]
+¡Venga, no te guardes todos tus placeres!
+Podrías dar uno o dos...
+
+## POINTER 2409 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Bienvenido, bienvenido! ¿Te gustaría
+venderme algunas de tus normas?
+¡Cinco gald por cada norma!<PAGE>¿Eh? ¿Demasiado barato? Mmpf...
+
+## POINTER 2410 [t:1;r:1;ru:memnoch;user:Lia;time:1301415945]
+¡Venga, no te guardes todas tus normas!
+Podrías dar una o dos...
+
+## POINTER 2411 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Bienvenido, bienvenido! ¿Te gustaría
+venderme algunas de tus creencias?
+¡Cinco gald por cada creencia!<PAGE>¿Eh? ¿Demasiado barato? Mmpf...
+
+## POINTER 2412 [t:1;r:1;ru:memnoch;user:Lia;time:1301415945]
+¡Venga, no te guardes todas tus creencias!
+Podrías dar una o dos...
+
+## POINTER 2413 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Mi amiga se mudó
+a una ciudad
+llamada Heliord.<PAGE>Se supone que es una ciudad
+nueva que fundó el Imperio.
+
+## POINTER 2414 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Solíamos cartearnos,
+pero ya no me llega nada...
+¿Por qué será?
+
+## POINTER 2415 [t:1;r:1;ru:memnoch;user:Lia;time:1301416407]
+¿Qué tipo de lugar será la
+nueva ciudad del Imperio?
+
+## POINTER 2416 [t:1;r:1;ru:memnoch;user:Lia;time:1301416407]
+Mi amiga de Heliord por fin
+me ha enviado una carta.
+Dice que las cosas están fatal.
+
+## POINTER 2417 [t:1;r:1;ru:memnoch;user:Lia;time:1301416407]
+Todos los adultos están aterrados
+porque alguien a quien llaman el
+Don ha muerto. Pero yo estoy bien.
+
+## POINTER 2418 [t:1;r:1;ru:memnoch;user:Lia;time:1301416407]
+No puedes vivir si estás todo
+el santo día deprimido.
+
+## POINTER 2419 [t:1;r:1;ru:memnoch;user:Lia;time:1301416407]
+Todos los adultos dicen que
+ha pasado algo en Zaphias.
+Pero a mí no me preocupa.
+
+## POINTER 2420 [t:1;r:1;ru:memnoch;user:Lia;time:1301416407]
+No puedes vivir si estás todo
+el santo día preocupado.
+
+## POINTER 2421 [t:1;r:1;ru:memnoch;user:Lia;time:1301416407]
+Todos los adultos están alteradísimos
+por algo que ha salido del mar.
+Pero no tiene nada que ver conmigo.
+
+## POINTER 2422 [t:1;r:1;ru:memnoch;user:Lia;time:1301416407]
+No puedes vivir si estás todo
+el santo día asustado.
+
+## POINTER 2423 [t:1;r:1;ru:memnoch;user:Lia;time:1301416407]
+A todos los adultos les da
+miedo el monstruo del cielo.
+Pero a mí no.
+
+## POINTER 2424 [t:1;r:1;ru:memnoch;user:Lia;time:1301416407]
+¿No lo matará nadie?
+
+## POINTER 2425 [t:1;r:1;ru:memnoch;user:Lia;time:1301416595]
+¡Este puerto es el puente que conecta
+nuestro gremio con el mundo!<PAGE>¡Vamos a viajar por los seis continentes
+y dominaremos el mundo entero!
+
+## POINTER 2426 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Aunque supongo que si dominase el
+mundo, no pasaría nada en especial.
+
+## POINTER 2427 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Un mercader ambulante me contó que,
+en Halure, una chica milagrosa
+hizo florecer un árbol muerto.<PAGE>A mí me suena un poco raro,
+¡pero la barrera blastia
+está arreglada!
+
+## POINTER 2428 [t:1;r:1;ru:memnoch;user:kaene;time:1301422384]
+La verdad es que seguramente
+pagaron a algún mago que lo
+revivió en un momento.<PAGE>Y los pueblerinos de Halure
+se inventarían la historia
+de la joven milagrosa.
+
+## POINTER 2429 [t:1;r:1;ru:memnoch;user:kaene;time:1301422384]
+Si la Unión cae, puede que
+Torim se convierta en el
+centro de todos los gremios.
+
+## POINTER 2430 [t:1;r:1;ru:memnoch;user:kaene;time:1301422384]
+Si dos de los cinco grandes gremios
+están en jaque, ¿eso no hace que
+Fortuna Mercantil sea el más influyente?
+
+## POINTER 2431 [t:1;r:1;ru:memnoch;user:kaene;time:1301422384]
+Parece que últimamente el mundo
+se cae a pedazos... Supongo que
+no es buen momento para viajar.
+
+## POINTER 2432 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¿Qué voy a hacer ahora?
+
+## POINTER 2433 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+He oído que los Caballeros
+tenían mucha prisa
+por reunir una flota.
+
+## POINTER 2434 [t:1;r:1;ru:memnoch;user:kaene;time:1301422606]
+¿Crees que querrán ir a esa
+estructura que hay en el mar?
+
+## POINTER 2435 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+He estado por todo el mundo,
+y jamás había visto nada
+similar a ese monstruo.
+
+## POINTER 2436 [t:1;r:1;ru:memnoch;user:kaene;time:1301422606]
+Esa cosa me tiene alucinado.
+
+## POINTER 2437 [t:1;r:1;ru:memnoch;user:kaene;time:1301422606]
+Los marineros de mi
+época tenían mucho
+más brío, ¿sabes?<PAGE>¡Los jóvenes de hoy en
+día no valen para nada!
+
+## POINTER 2438 [t:1;r:1;ru:memnoch;user:kaene;time:1301422606]
+¡Parece que me veré
+obligado a aparcar
+mi jubilación!
+
+## POINTER 2439 [t:1;r:1;ru:memnoch;user:kaene;time:1301422606]
+¡Los hombres nacen
+para vivir! ¡Y morir!
+¡En el mar!
+
+## POINTER 2440 [t:1;r:1;ru:memnoch;user:kaene;time:1301422606]
+Los mares son algo
+maravilloso, ¿eh?
+
+## POINTER 2441 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Haber ayudado al Don en su
+primer viaje en barco me
+hace sentir muy orgulloso.
+
+## POINTER 2442 [t:1;r:1;ru:memnoch;user:memnoch;time:1297026606]
+Descanse en paz,
+Don...
+
+## POINTER 2443 [t:1;r:1;ru:memnoch;user:kaene;time:1301422802]
+Ha pasado algo
+en Ilyccia,¿eh?
+
+## POINTER 2444 [t:1;r:1;ru:memnoch;user:kaene;time:1301422802]
+No me preocupa lo que pasa
+más allá del mar. ¡Ya tengo
+bastante con lo que pasa aquí!
+
+## POINTER 2445 [t:1;r:1;ru:memnoch;user:memnoch;time:1304529333]
+Los Caballeros buscaban
+marineros con experiencia...
+Pero ¿por qué?
+
+## POINTER 2446 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Marineros con experiencia!
+¿Por qué no me preguntaron a mí?
+
+## POINTER 2447 [t:1;r:1;ru:memnoch;user:kaene;time:1301422802]
+Ni el marinero más experimentado
+puede navegar hacia el cielo.
+
+## POINTER 2448 [t:1;r:1;ru:memnoch;user:kaene;time:1301423081]
+Supongo que dejaré que los jóvenes
+se encarguen del monstruo del cielo.
+
+## POINTER 2449 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Oh, jo, jo, jo! ¿A que los barcos
+son una maravilla? Podemos llegar
+a tantos sitios gracias a ellos.<PAGE>¡Emoción! ¡Misterio! ¡Espectáculo!
+¡Todo para mí!
+
+## POINTER 2450 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¿Qué? ¿No tienes ningún
+barco? Qué lástima.
+
+## POINTER 2451 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Oh, jo, jo, jo! ¿A que los barcos
+son una maravilla? Podemos llegar
+a tantos sitios gracias a ellos.<PAGE>¡Milagros! ¡Maravillas!
+¡Todo para mí!
+
+## POINTER 2452 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Oh, jo, jo, jo! ¿A que los barcos
+son una maravilla? Podemos llegar
+a tantos sitios gracias a ellos.<PAGE>¡Riesgos! ¡Regresos!
+¡Todo para mí!
+
+## POINTER 2453 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Oh, jo, jo, jo! ¿A que los barcos
+son una maravilla? Podemos llegar
+a tantos sitios gracias a ellos.<PAGE>¡Pan! ¡Pastel!
+¡Todo para mí!
+
+## POINTER 2454 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Oh, jo, jo, jo! ¿A que los barcos
+son una maravilla? Podemos llegar
+a tantos sitios gracias a ellos.<PAGE>¡Tú! ¡Yo!
+¡Todo para mí!
+
+## POINTER 2455 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Oh, jo, jo, jo! ¿A que los barcos
+son una maravilla? Podemos llegar
+a tantos sitios gracias a ellos.<PAGE>Vous! Moi! 
+¡Todo para mí!
+
+## POINTER 2456 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Oh, jo, jo, jo! ¿A que los barcos
+son una maravilla? Podemos llegar
+a tantos sitios gracias a ellos.<PAGE>¡Monstruos gigantes! ¡Estructuras
+gigantes! ¡Todo para mí!
+
+## POINTER 2457 [t:1;r:1;ru:memnoch;user:kaene;time:1301423331]
+¡Los barcos de guerra del Imperio son
+geniales! ¡El diseño, el color, los
+Caballeros molones! ¡Estoy enamorada!
+
+## POINTER 2458 [t:1;r:1;ru:memnoch;user:kaene;time:1301423331]
+¿Eh? ¿Necesitas algo?
+¡Deja de mirarme así,
+baboso pervertido!
+
+## POINTER 2459 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Aah! ¿No te encanta que la brisa
+marina te acaricie la piel?<PAGE>Y el sol brilla tanto...
+¡Ooh, el mar es lo mejor!
+
+## POINTER 2460 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Ahora todos podemos dormir tranquilos
+porque se han cargado al gattuso que
+frecuentaba por Halure y Capua Nor! ∀<PAGE>¡Ojalá alguien se cargase los
+tritones que emergen del mar!
+
+## POINTER 2461 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡No lo aguanto! ¡El sonido de
+esos tritones me está matando!
+¡A ver si alguien se los carga!<PAGE>¿Eh? ¿Necesitas algo?
+¡Deja de mirarme así,
+baboso pervertido!
+
+## POINTER 2462 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Lanza tus problemas al mar
+y desaparecerán.
+¡Enseguida te sentirás mejor!
+
+## POINTER 2463 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+*Suspiro* Mírame, estoy pegajosa
+por la brisa del mar. ¡Pero eso
+no hace que sea menos maravilloso!
+
+## POINTER 2464 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¿Qué es eso? ¿Una estructura
+extraña ha salido en MI mar?<PAGE>¡Qué pasada! ¡Es
+un misterio marino! ∀
+
+## POINTER 2465 [t:1;r:1;ru:memnoch;user:kaene;time:1301424228]
+¡Devuélveme mi precioso cielo azul!
+¡Devuélveme mi brillante sol! Y ya
+que estamos, ¡devuélveme mi juventud!
+
+## POINTER 2466 [t:1;r:1;ru:memnoch;user:kaene;time:1301424228]
+¡Una lenta puesta de sol!
+¡Mi cielo es tan relajante!
+¡Es el pilar de mi fuerza!<PAGE>¡Es lo que hace que
+esté tan emocionada!
+
+## POINTER 2467 [t:1;r:1;ru:memnoch;user:kaene;time:1301424228]
+¡Algo ha explotado
+en el mar!<PAGE>¿Qué habrá sido?
+
+## POINTER 2468 [t:1;r:1;ru:memnoch;user:memnoch;time:1304364227]
+Eh, has llegado
+en barco, ¿no?<PAGE>¿Sabes algo de las explosiones
+que ha habido en el mar?
+
+## POINTER 2469 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Si viajas al sur por mar saliendo de este
+puerto, podrás ver el continente de Desier
+a la derecha, e Hypionia a la izquierda.<PAGE>En Desier está la ciudad
+del coliseo, ¿sabes?
+Me gustaría ir algún día.
+
+## POINTER 2470 [t:1;r:1;ru:memnoch;user:kaene;time:1301424673]
+El coliseo... Sangre derramada,
+vísceras volando. Me gustaría verlo
+con mis propios ojos, al menos una vez.
+
+## POINTER 2471 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+El coliseo de Nordopólica está
+administrado por un gremio
+que se llama Palestrale.
+
+## POINTER 2472 [t:1;r:1;ru:memnoch;user:kaene;time:1301424673]
+¿No te parece una pasada
+que haya un gremio que
+administre un coliseo?
+
+## POINTER 2473 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+El Don ha muerto...
+Era un valiente y
+un gran hombre.<PAGE>¡Si hubiera luchado en
+el coliseo, hubiera
+vencido a todos!
+
+## POINTER 2474 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Aah, cómo me gustaría
+ir a ver el coliseo,
+romper y desgarrar...
+
+## POINTER 2475 [t:1;r:1;ru:memnoch;user:kaene;time:1301424872]
+Rompería y desgarraría los
+vales de mis apuestas, claro.
+
+## POINTER 2476 [t:1;r:1;ru:memnoch;user:kaene;time:1301424872]
+Por favor, te lo suplico,
+¡llévame al coliseo
+antes de morir!
+
+## POINTER 2477 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¡Si pudiera ir al coliseo,
+podría morir en paz!
+
+## POINTER 2478 [t:1;r:1;ru:memnoch;user:kaene;time:1301424872]
+¡¿Has venido en un barco de
+guerra del Imperio?! ¿Eres
+algún pez gordo del Imperio?<PAGE>No tienes mucha pinta...
+
+## POINTER 2479 [t:1;r:1;ru:memnoch;user:kaene;time:1301424872]
+No me siento muy bien desde que
+ha venido ese barco del Imperio.
+
+## POINTER 2480 [t:1;r:1;ru:memnoch;user:kaene;time:1301425260]
+¿Ves esa barrera blastia?
+Es la gemela de la
+que hay en Capua Nor.<PAGE>Hace mucho, había una tercera
+en Capua Duo, en medio del mar,
+y las tres formaban una.
+
+## POINTER 2481 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Es gracias a la barrera
+blastia que podemos vivir
+con tanta comodidad.
+
+## POINTER 2482 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+El ambiente en Capua Nor ha
+mejorado muchísimo desde que
+han echado al magistrado Ragou.<PAGE>Ya puedo visitar a
+mi tío, que vive al
+otro lado del mar.
+
+## POINTER 2483 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+¿No he oído algo de
+un Caballero activo
+en Capua Nor, <STR>(FRE)?<PAGE>Esos Caballeros son los mejores.
+Deberíamos estar agradecidos.
+
+## POINTER 2484 [t:1;r:1;ru:memnoch;user:memnoch;time:1297026606]
+La barrera nos protegerá
+contra cualquier cosa.
+
+## POINTER 2485 [t:1;r:1;ru:memnoch;user:memnoch;time:1297026606]
+La barrera nos protegerá
+contra cualquier cosa.
+Quizá...
+
+## POINTER 2486 [t:1;r:1;ru:memnoch;user:kaene;time:1301425260]
+Bienvenido. Puedes
+descansar aquí por
+300 gald. ¿Te quedas?
+
+## POINTER 2487 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Muchas gracias.
+Vuelve cuando quieras.
+
+## POINTER 2488 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+En el continente de Tolbyccia
+están Capua Nor y Dahngrest.<PAGE>Y en Dahngrest está la
+Unión que aglutina a
+todos los gremios.
+
+## POINTER 2489 [t:1;r:1;ru:memnoch;user:kaene;time:1301425471]
+Al jefe de la Unión lo llaman
+el Don, y todo el mundo
+le tiene bastante miedo.
+
+## POINTER 2490 [t:1;r:1;ru:memnoch;user:memnoch;time:1303431437]
+¿Has conocido al Don?
+Es un cliente difícil.
+
+## POINTER 2491 [t:1;r:1;ru:memnoch;user:memnoch;time:1303430915]
+Gracias al Don, todos
+los gremios dispersos
+se han reunido en Dahngrest.
+
+## POINTER 2492 [t:1;r:1;ru:memnoch;user:kaene;time:1301425471]
+No puedo creer que el Don esté muerto.
+No era de esas personas que se
+mueren solo por que las mates.
+
+## POINTER 2493 [t:1;r:1;ru:memnoch;user:memnoch;time:1297026606]
+*Suspiro*
+
+## POINTER 2494 [t:1;r:1;ru:memnoch;user:memnoch;time:1303431480]
+Después de que muriera
+el Don, estaba demasiado
+asustado para volver...<PAGE>No puedo ni imaginar el caos que
+debe de haber en Dahngrest...
+
+## POINTER 2495 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Me preocupa Dahgnrest...
+Quizás debería volver.
+
+## POINTER 2496 [t:1;r:1;ru:memnoch;user:memnoch;time:1297026606]
+Me han dicho que
+el Imperio también
+está patas arriba.
+
+## POINTER 2497 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Quizás el Imperio
+caiga igual que
+la Unión, ¿no crees?
+
+## POINTER 2498 [t:1;r:1;ru:memnoch;user:kaene;time:1301425025]
+No es momento de discutir
+quién es de un gremio y
+quién es del Imperio.
+
+## POINTER 2499 [t:1;r:1;ru:memnoch;user:memnoch;time:1302731564]
+Todos acabaremos aplastados
+cuando llegue el día en que
+baje esa monstruosa mano.

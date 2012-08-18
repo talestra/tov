@@ -1,0 +1,130 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(YUR)
+Al final no has podido
+encontrar a Phaeroh.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(EST_P)
+Pero he descubierto cosas
+muy importantes.<PAGE>Los Hijos de la Luna Llena,
+los entelechia...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1283109406]
+<STR>(YUR)
+Pero lo único realmente nuevo que hemos
+descubierto es qué significan en realidad.<PAGE>Y no parece que vayamos a descubrir
+por qué quiere matarte Phaeroh hasta
+que se lo preguntemos directamente.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(EST_P)
+Pero ya has oído lo que ha dicho.
+Si me encuentro con Phaeroh,
+acabará conmigo sin más.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1283109406]
+<STR>(YUR)
+Supongo que entonces
+nunca sabremos la verdad...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1283109406]
+<STR>(EST_P)
+Después de todo lo que ha pasado...<PAGE>Es como si me hubiera dicho
+que debería rendirme...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(YUR)
+No, de eso nada.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(EST_P)
+Tal vez...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(YUR)
+¿Qué?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(EST_P)
+Tal vez no sea tan importante
+descubrir lo que ando buscando.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(YUR)
+¿Qué quieres decir?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1283109406]
+<STR>(EST_P)
+Si no te hubiera conocido, <STR>(YUR), 
+y hubiera seguido con mi vida
+en el castillo...<PAGE>Nunca hubiera sabido lo de
+los Hijos de la Luna Llena,
+o los entelechia.<PAGE>Así que a lo mejor debería
+seguir viviendo sin saber
+por qué Phaeroh me quiere muerta.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(YUR)
+¿Estás diciendo que piensas
+volver a la capital?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(EST_P)
+Creo que es una opción.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(YUR)
+Si es lo que quieres
+hacer... no intentaré
+detenerte.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1281953845]
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(YUR)
+Nuestro contrato ya ha vencido,
+al fin y al cabo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(EST_P)
+Es verdad...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(YUR)
+Es solo que... no me gustan
+las situaciones hipotéticas.
+No son la vida de verdad.<PAGE>Y no se me da nada bien
+fingir que he olvidado
+cosas que ya sé.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(EST_P)
+...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1283109406]
+<STR>(YUR)
+Si tú sí puedes hacer eso,
+entonces no veo ninguna pega.
+La pregunta es si eres realmente capaz.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1283109406]
+<STR>(EST_P)
+Entonces, yo...<PAGE>No... no puedo.
+No sería capaz.<PAGE>Pero no sé qué debería hacer
+en esta situación.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1283109406]
+<STR>(YUR)
+Quieres saber la verdad,
+pero no sabes qué hacer.<PAGE>La situación se reduce
+a eso, ¿no?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(EST_P)
+Sí...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1280148831]
+<STR>(YUR)
+Lo pillo.

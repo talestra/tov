@@ -1,0 +1,62 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070209]
+<STR>(JUD)
+Eres bastante fuerte.
+¿Eres capaz de
+usar un Límite?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070209]
+<STR>(YUR)
+Pues claro.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1279401822]
+<STR>(JUD)
+Bien. Intenta usar esto.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1279401822]
+<STR>(YUR)
+¿Eh? ¿Qué es?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070209]
+<STR>(JUD)
+Es el Límite Dúo.<PAGE>Tu espíritu combativo
+te permitirá utilizar
+Límites más poderosos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070209]
+<STR>(YUR)
+¿En serio?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070209]
+<STR>(JUD)
+Si de verdad tienes
+espíritu combativo, claro.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070209]
+<STR>(YUR)
+¿Qué más me puedes
+contar sobre estos
+Límites tan fuertes?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070209]
+<STR>(JUD)
+Serás más poderoso cuando ataques solo,
+aunque también dicen que puedes unir
+tu espíritu combativo con algo más.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070209]
+<STR>(YUR)
+Vaya...
+Sigo sin entenderlo.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070209]
+<STR>(JUD)
+¿De verdad?<PAGE>Quizá lo comprendas mejor
+cuando lo uses en una batalla.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070209]
+<STR>(YUR)
+Eso haré.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070209]
+<STR>(JUD)
+Muy bien. Continuemos, pues.

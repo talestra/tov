@@ -1,0 +1,194 @@
+## POINTER 0
+
+<VOICE>(VA022_031)What brings 
+you here?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA022_032)We're just travelers passing through.
+
+## POINTER 2
+
+<VOICE>(VA022_033)I'm sorry, but there is 
+no longer an inn or any 
+shops in this town.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VA022_034)Are you here alone?
+
+## POINTER 4
+
+<VOICE>(VA022_035)Yes. It's 
+just me.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA022_036)...You wouldn't 
+happen to be the 
+sage, would you?
+
+## POINTER 6
+
+<VOICE>(VA022_037)The humans of this town 
+once called me that.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VA022_038)Huh...?
+But didn't the sage die...?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VA022_039)Shh...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA022_040)This is an illusion Phaeroh 
+made, right...?
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VA022_041)So that would mean this is actually the 
+Yormgen of a thousand years ago...
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VA022_042)Yeah. I wonder if the lack of a barrier blastia 
+is the reason everyone else took off.
+
+## POINTER 12
+
+<VOICE>(VA022_043)How perceptive. Blastia cannot 
+easily be acquired, nor do we 
+have the clear ciel crystal...<PAGE><VOICE>(VA022_044)The Children of the Full Moon 
+should never have signed the 
+pact with the Entelexeia.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VA022_045)Pact?
+
+## POINTER 14
+
+<VOICE>(VA022_046)They agreed to bury most of the 
+blastia, with the Children standing 
+watch over the rest.
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VA022_047)In order to protect against the Adephagos.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VA022_048)So then... The ancient civilization 
+didn't collapse... 
+It was sealed up...
+
+## POINTER 17
+
+<VOICE>(VA022_049)Well, I thought you were perceptive, but 
+now I see you actually know nothing.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VA022_050)Wh-what...?
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VA022_051)Supervising the use of blastia... Doesn't 
+that remind you of the empire today?
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VA022_052)Well, <STR>(EST_P) is a Child of the Full Moon, not 
+to mention one of the heirs to the throne.
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VA022_053)Wait...! So then, the Children 
+of the Full Moon must have 
+founded the empire...
+
+## POINTER 22
+
+<VOICE>(VA022_054)Please, there's no need 
+to speak in hushed tones.<PAGE><VOICE>(VA022_055)The pact will surely be forsaken. 
+Unless, that is, all blastia can 
+be done away with for good.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VA022_056)But people couldn't live like 
+they do now without blastia.
+
+## POINTER 24
+
+<VOICE>(VA022_057)A certain type of life can be 
+led, even without blastia.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VA022_058)Yeah, the inconvenient type.
+
+## POINTER 26
+
+<VOICE>(VA022_059)So it has always been. They come 
+to depend on anything that 
+eases the burdens of life.
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VA022_060)Yet even knowing that, you helped 
+the people of this town to 
+build a barrier blastia?
+
+## POINTER 28
+
+<VOICE>(VA022_061)I, too, was poisoned by the desire 
+for greater things. I couldn't 
+ignore the convenience.
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VA022_062)Now what kind of a sage does that?
+
+## POINTER 30
+
+<VOICE>(VA022_063)To be a sage means only to be 
+rich in knowledge. I too belong 
+to the society of people.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VA022_064)Being a saint isn't a 
+prerequisite for leadership, 
+then, huh...?
+
+## POINTER 32
+
+<VOICE>(VA022_065)Well put. And the Children of 
+the Full Moon are no different.<PAGE><VOICE>(VA022_066)The role of supervisor will 
+turn into one of absolute 
+authority before long.
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VA022_067)Wh-what does that mean?
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VA022_068)It's pretty clear if you look 
+at what the Empire's become.
+
+## POINTER 35
+
+<VOICE>(VA022_069)Anyway, nothing remains 
+in this village. 
+Not even blastia.<PAGE><VOICE>(VA022_070)You are welcome to stay the 
+night, if you don't mind the 
+ramblings of an old man.
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VA022_071)Thanks.

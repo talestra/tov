@@ -1,0 +1,112 @@
+## POINTER 0
+Ragou
+<VOICE>(VS22_006)You must not be taken in by the Knights!<PAGE><VOICE>(VS22_007)They only plan to crush this town 
+once you've all been lured into 
+a false sense of safety!
+
+## POINTER 1
+<STR>(FRE)
+<VOICE>(VS22_008)On the honor of the Imperial 
+Knights, I swear that we would 
+never perpetrate such disloyalty.
+
+## POINTER 2
+Ragou
+<VOICE>(VS22_009)You're... 
+<STR>(FRE) Scifo!
+
+## POINTER 3
+<STR>(FRE)
+<VOICE>(VS22_010)The empire and the Union 
+have joined in a treaty 
+of friendship.
+
+## POINTER 4
+Ragou
+<VOICE>(VS22_011)What? Impossible...
+
+## POINTER 5
+<STR>(FRE)
+<VOICE>(VS22_012)At this moment, Don Whitehorse 
+and His Highness Ioder are 
+in council together.<PAGE><VOICE>(VS22_013)It's only a matter of time 
+until it's made official.
+
+## POINTER 6
+Ragou
+<VOICE>(VS22_014)But how...? I thought that cursed Alexei 
+was tied up in other matters.
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS22_015)Yes. It is true that our Commandant 
+could only make a brief appearance 
+before returning to the capital.
+
+## POINTER 8
+Ragou
+<VOICE>(VS22_016)Then...on whose authority...?
+
+## POINTER 9
+Ragou
+<VOICE>(VS22_017)...No! This can't mean my plans have 
+been ruined by this...this boy!
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS22_018)This will put an end to the suffering 
+of the people of Capua Nor as well.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS22_019)Here's hoping the next magistrate 
+they get is more of a stand up guy.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS22_020)I will do what I can to make sure 
+a worthy person is chosen when I 
+get back to the castle.
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS22_021)To the castle... You mean, you're 
+going back to the capital, <STR>(EST_P)?
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS22_022)...Yes. With Ragou gone, the 
+rest of the castle should have 
+returned to normal.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS22_023)But you don't really want to go back.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS22_024)What do you mean?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS22_025)I can see it in your face.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS22_026)No...I-I...
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS22_027)Well, you should do what suits 
+you best. You've made up 
+your own mind, right?
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS22_028)...I will go back.<PAGE><VOICE>(VS22_029)I don't want <STR>(FRE) or anyone else to 
+have to worry about me anymore...
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS22_030)It's going to be lonely without 
+her, won't it, <STR>(RAP)?

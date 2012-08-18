@@ -1,0 +1,72 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917117]
+<STR>(RIT)
+Oye, creía que
+habías ido
+a ver a <STR>(EST).
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484629]
+<STR>(YUR)
+Al parecer ya
+se había dormido.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917117]
+<STR>(YUR)
+Debe haberse quedado
+totalmente agotada.
+No quería despertarla.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917117]
+<STR>(YUR)
+Ya hablaremos mañana.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917117]
+<STR>(KAR)
+Sí. Volvamos a nuestras
+habitaciones.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917117]
+<STR>(RAP)
+...
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917117]
+<STR>(YUR)
+¿Qué pasa, <STR>(RAP)?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917117]
+<STR>(KAR)
+¿No escucháis un ruido raro?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917117]
+<STR>(RIT)
+Ahora que lo dices, sí...
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917177]
+
+Oh, he oído que últimamente
+la barrera blastia ha estado actuando
+de forma bastante rara...
+
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917568]
+<STR>(YUR)
+¡Quieta parada!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917221]
+<STR>(RIT)
+¡No puedo!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484629]
+<STR>(YUR)
+El comandante Alexei está aquí, ¿no?
+Seguro que él se puede ocupar de ello.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917587]
+<STR>(KAR)
+<STR>(RIT), si dejamos que vayas
+tú sola, volverá a pasar lo mismo
+que en la colina de Ehmead.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917587]
+<STR>(YUR)
+Bueno, si quieres, por lo menos
+deberíamos decirle algo a <STR>(FRE).

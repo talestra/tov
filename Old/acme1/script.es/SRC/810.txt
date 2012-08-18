@@ -1,0 +1,314 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1295993262]
+
+¡Señoras y señores!
+¡E aquí el acontecimiento que
+todos estábamos esperando!<PAGE>¡El primer combate de exhibición
+anual de Banquete de la Fortuna
+pronto dará comienzo!<PAGE>¡Este acontecimiento es posible gracias
+a Su Alteza Real Ioder, la Unión de Gremios
+y nuestro copatrocinador, Fortuna Mercantil!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1293818900]
+<STR>(RAV)
+Esto es tó un acontecimiento.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1295993262]
+<STR>(RIT)
+¿Ese principito no tiene
+nada mejor que hacer o qué?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1295993262]
+
+Primero explicaré las reglas. La competición
+se dividirá en tres platos: el entrante,
+el plato principal y el postre.<PAGE>¡Los competidores deberán impresionar
+a nuestros jueces con el sabor,
+el aspecto y el valor nutricional!<PAGE>Y ahora presentaremos a los competidores.
+¡De parte de los gremios, un orgulloso miembro
+de Gran Vesperia, el chef <STR>(YUR) Lowell!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1293818900]
+
+¡Y representando al Imperio,
+de parte de los Caballeros
+Imperiales, el chef <STR>(FRE) Scifo!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1293818900]
+<STR>(EST_P)
+¿Q-Qué hace <STR>(FRE) aquí?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1293818900]
+<STR>(RIT)
+A mí no me parece que
+le vayan este tipo de cosas.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1293818900]
+<STR>(RAV)
+Seguro que lo han metío en este marrón
+con tó eso de fomentar la buena voluntad
+entre l'Imperio y los gremios.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1295993262]
+<STR>(YUR)
+No paramos de batallar
+en coliseos, ¿eh?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1293819135]
+<STR>(FRE)
+Al menos esta vez no tendremos
+que pegarnos puñetazos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296164151]
+
+¡Y ahora, sin mas preámbulos, que dé
+comienzo el primer combate de exhibición
+anual de Banquete de la Fortuna!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1293825066]
+<STR>(EST_P)
+Me alegro mucho de que puedan
+competir así, pacíficamente.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1293820168]
+<STR>(RAV)
+Sí, l'alegra un poco
+er corazón a este viejo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165253]
+
+¡Apagad los fogones!
+¡Y ahora los jueces
+probarán los platos!<PAGE>Los evaluarán tres jueces de nuestros
+patrocinadores y dos personas de
+los equipos de los participantes.<PAGE>¡Y ahora, que empiecen a probar y a evaluar
+los platos! Comenzaremos por nuestro competidor
+de los gremios, el chef <STR>(YUR).
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+Leblanc
+Mmm... Esto está realmente delicioso.
+No tiene ni punto de comparación con
+la comida del comedor de los Caballeros.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+Kaufman
+No está malo. Podría
+pagar por ello y todo.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+Ioder
+Un sabor delicado unido a una
+pizca de aventura. Tal vez sea
+incluso mejor que los manjares
+del chef del castillo. Fantástico.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1295993262]
+<STR>(KAR)
+¡Qué gustito, qué placer andar en la cocina...! ♪
+¡Me encanta tu comida, <STR>(YUR)!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1293826037]
+Chef Maravillas
+¡Sé cómo escoger un buen chef!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1293826037]
+
+¡Al parecer los platos del chef <STR>(YUR) han
+dejado una grata impresión a nuestro jurado!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+Leblanc
+Mmpf, supongo
+que es comestible.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296161571]
+Kaufman
+El sabor no está nada mal.
+Si alguien me lo ofreciera, lo comería.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+Ioder
+Aah, así que esto es lo
+que come la gente normal...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+<STR>(KAR)
+Bah, yo lo habría hecho mejor.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+Chef Maravillas
+¿Puede ser... ? ¿Puede ser que
+me equivocara al escoger el chef?
+No, imposible. ¡No puede ser!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1293826471]
+
+¡¿Será este el fin
+para el chef <STR>(YUR)?!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+
+Sigamos con los platos de nuestro
+competidor imperial, ¡el chef <STR>(FRE)!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1295995102]
+<STR>(KAR)
+Caray, qué bonito...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1293826471]
+Ioder
+Esto es arte... Y este
+plato es el lienzo.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165175]
+Kaufman
+No cada día veo una comida
+tan preciosa que hasta
+casi me impida morderla.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+Chef Maravillas
+Ese hombre ha dominado la esencia
+de la cocina. ¡Es una fuerza
+culinaria digna de respeto!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+Leblanc
+Mmm... ¡¿Ugh?!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Lia;time:1293829541]
+Kaufman
+Puaj...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+<STR>(KAR)
+¡Aagh!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+
+¿Q-Qué está pasando? ¡Nuestro
+juzgado está sumido en el caos!
+¡Están cayendo como moscas!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1295995102]
+<STR>(FRE)
+¿Qué os parece, Su Alteza?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:Lia;time:1293829541]
+Ioder
+Al parecer me equivoqué
+al elegirte...
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+<STR>(FRE)
+¿No os ha gustado?
+Mis disculpas...<PAGE>Creía haber hecho un buen trabajo.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:Lia;time:1293917598]
+Chef Maravillas
+¡Esto es un sacrilegio contra
+el arte culinario! ¡¡Se te debería
+de caer la cara de vergüenza!!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:Lia;time:1293830248]
+<STR>(RAV)
+Adiós mu buenas,
+juzgao...
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:Lia;time:1293830248]
+<STR>(RIT)
+¿Es que <STR>(FRE) ha envenenado
+la comida o qué?
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1296161691]
+<STR>(JUD)
+Estaba mirando cómo cocinaba
+y me parece que simplemente
+no tiene sentido del gusto.<PAGE>Nadie con unas papilas
+gustativas normales
+sazonaría así la comida.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1304550982]
+<STR>(RAV)
+Pero ¡¿cómo leñes vas a sazonar algo
+tan malamente que hasta los jueces
+caen redondos?¡ ¡Es impresionante!
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:Lia;time:1293831274]
+<STR>(RIT)
+La comida horrible puede
+ser un arma formidable.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+
+¡¡Ha llegado la
+hora del veredicto!!
+Los jueces han escogido...
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+
+¡A los gremios!
+¡El chef <STR>(YUR) ha ganado!
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:Lia;time:1293831274]
+<STR>(YUR)
+Mala suerte, <STR>(FRE).
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:Lia;time:1293831274]
+<STR>(JUD)
+¡<STR>(YUR) es demasiado bueno como
+para perder en temas de cocina!
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:Lia;time:1293831274]
+<STR>(FRE)
+Admito mi derrota. Buen trabajo, <STR>(YUR).
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+<STR>(YUR)
+Si hubieses seguido
+bien la receta, seguro
+que hubiera perdido.
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+Sodia
+¡No puede ser!
+¡Dejadme probar esa comida!
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:memnoch;time:1295995102]
+Witcher
+Sodia, no quiero ofender al
+comandante interino, pero
+eso sería demasiado peligroso.
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:Lia;time:1293912507]
+
+Como prueba de tu victoria, chef
+<STR>(YUR), te concedemos el prestigioso
+título de Chef corriente.<PAGE>¡Felicidades!
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+
+¡Al Imperio!
+¡Ha ganado el chef <STR>(FRE)!
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:Lia;time:1293912453]
+<STR>(FRE)
+Gracias.
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+<STR>(YUR)
+Cachis. Supongo que me
+ha ganado en el aspecto
+y en el valor nutricional.
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:Lia;time:1293912453]
+
+¡Esperaremos con ansias que
+el año que viene los gremios
+tengan una oportunidad de ganar!
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:memnoch;time:1295994165]
+
+¡Y con esto termina el primer combate
+de exhibición anual de Banquete de la
+Fortuna! ¡Nos vemos el año que viene!

@@ -1,0 +1,93 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1293023428]
+<STR>(JUD)
+¿Sigues leyendo ese libro?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294515469]
+<STR>(RIT)
+Acabo de llegar a una parte muy buena..
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1293023428]
+<STR>(RIT)
+Uff... Tu padre fue un
+hombre increíble, <STR>(JUD).
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1293023428]
+<STR>(JUD)
+¿Por qué lo dices?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294515469]
+<STR>(RIT)
+Hermes ya había deducido cómo podíamos
+usar los espíritus elementales.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1293023428]
+<STR>(JUD)
+Sí, no es de extrañar que
+alguien tan inteligente como él
+pudiese conseguirlo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294515469]
+<STR>(RIT)
+Pero no usarlos como ahora, contra los desastres
+a los que nos enfrentamos, sino como
+una posibilidad en un futuro muy lejano.<PAGE>Mucho más tarde de que desaparezcan
+los humanos y probablemente después de que
+los entelechia hayan dejado este mundo.<PAGE>
+Cuando se acerquen los últimos díasde Terca Lumireis.<PAGE>Todo el aer sufrirá una conversión
+a espíritus a través del maná.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294515469]
+<STR>(JUD)
+Pero ahora mismo, inesperadamente,
+la conversión a espíritus la están
+llevando a cabo los humanos.<PAGE>Aunque la gente y el mismo mundo
+no están listos para ello.<PAGE>Ahora tenemos que encontrar una forma
+de seguir haciendo todas esas cosas.<PAGE>Las cosas que la gente hacía gracias al aer y los blastias
+y que tuvieron tanto tiempo que los dieron por sentados.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294515469]
+<STR>(RIT)
+Exacto. Pero este libro
+cuenta la complejidad del aer
+muy detalladamente.<PAGE>Usando esto y lo que sé para hacer
+experimentos con los espíritus elementales...<PAGE>Quizá se me ocurra un método para crear
+un nuevo tipo de blastia que no use aer.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1293024358]
+<STR>(JUD)
+¿De verdad?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294515469]
+<STR>(RIT)
+Sus fórmulas son un poco
+complejas, pero creo que
+vale la pena probarlas.<PAGE>Producir un modelo tan grande como una barrera
+blastia tal vez sea imposible, pero...<PAGE>Mejor eso que nada, ¿verdad?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1293024358]
+<STR>(JUD)
+Por supuesto.<PAGE>Estoy convencida de que puedes hacerlo, <STR>(RIT).
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1293024358]
+<STR>(RIT)
+Qué ganas que tengo
+de empezar ya.<PAGE>A lo mejor intento uno o dos experimentos ahora.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294515469]
+<STR>(JUD)
+No, no hay prisa. Tenemos que
+estar preparadas para las batallas
+que vienen, ¿sabes?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1293024358]
+<STR>(RIT)
+Ya...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1293024358]
+<STR>(JUD)
+Bueno, buenas noches.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294515469]
+<STR>(RIT)
+Buenas noches. Quizá dormir
+un poco no me iría tan mal...

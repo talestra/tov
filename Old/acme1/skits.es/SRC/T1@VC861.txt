@@ -1,0 +1,48 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251877831]
+¿Otra vez los Espadas Cazadoras?
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266404706]
+(YUR)
+¿Otra vez los Espadas Cazadoras?
+
+## POINTER 2 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267405479]
+(RAV)
+Esta vez simplemente no nos estamos cruzando.
+Vamos tras lo mismo. Es posible que tengamos
+que luchar.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297632315]
+(KAR)
+S-Si tenemos que hacer eso, no tenéis
+por qué preocuparos por mí, chicos.
+
+## POINTER 4 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266404706]
+(KAR)
+Pero no podemos hacer esperar
+a (JUD). ¡Vamos allá!
+
+## POINTER 5 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266404706]
+(EST_P)
+(KAR)...
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267405479]
+(RAV)
+Nuestro niñito tá creciendo.
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266404706]
+(YUR)
+Ya.
+
+## POINTER 8 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266404706]
+(EST_P)
+¿No podemos evitar de alguna manera
+luchar contra los Espadas Cazadoras?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297632315]
+(YUR)
+Eso espero, pero eso dependerá
+enteramente de ellos.
+
+## POINTER 10 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266404706]
+(RAV)
+Sip.

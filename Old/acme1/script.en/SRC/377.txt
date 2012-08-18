@@ -1,0 +1,137 @@
+## POINTER 0
+<STR>(RAV)
+Ah, there you are, boy.
+
+## POINTER 1
+<STR>(YUR)
+You sure have your own way 
+of doing things, old man.<PAGE>Then again, I guess that's your only redeeming quality.
+
+## POINTER 2
+<STR>(RAV)
+Hey, way to hurt a man's feelings! I've 
+got a ton of redeemin' qualities!
+
+## POINTER 3
+<STR>(YUR)
+That's one list you can 
+just keep to yourself.
+
+## POINTER 4
+<STR>(RAV)
+I hafta tell ya, I was so surprised to 
+find out that Belius was that beast--sorry, 
+I mean, Entelexeia, was it?
+
+## POINTER 5
+<STR>(YUR)
+Yeah. But it seems like the 
+story about her engineering 
+the Great War was a lie.
+
+## POINTER 6
+<STR>(RAV)
+Prolly just an excuse the empire made 
+up for them to invade Nordopolica.
+
+## POINTER 7
+<STR>(YUR)
+Maybe, yeah.<PAGE>So, is that the Don's 
+grandson? How'd he end 
+up here, anyway?
+
+## POINTER 8
+<STR>(RAV)
+This idiot got fed false information 
+by Leviathan's Claw and acted 
+without thinking.
+
+## POINTER 9
+Harry
+I heard that an ally of the Don's 
+had been captured by a monster, and 
+I thought I'd come to save him.<PAGE>And then I heard that the monster 
+possessed apatheia, so...
+
+## POINTER 10
+<STR>(YUR)
+They said that Belius 
+had been captured?
+
+## POINTER 11
+<STR>(RAV)
+Apparently that's what Leviathan's Claw 
+said. So they went down there with the 
+Hunting Blades to kill the monster.
+
+## POINTER 12
+<STR>(YUR)
+And that monster was actually Belius, so even 
+though you got the apatheia, the ally you 
+were supposed to save ended up dying.
+
+## POINTER 13
+Harry
+Yeah...
+
+## POINTER 14
+<STR>(RAV)
+You need ta learn ta take things slower. 
+Check your information before you rush 
+out all ready for battle...
+
+## POINTER 15
+Harry
+Damn it, what 
+the hell do 
+you know!
+
+## POINTER 16
+<STR>(RAV)
+...Things like this happen, I guess...<PAGE>Having the Don for a grandfather puts 
+a lot of pressure on the boy.
+
+## POINTER 17
+<STR>(YUR)
+Anyone with a grandfather like that would 
+be expected to work their butt off, yeah.
+
+## POINTER 18
+<STR>(RAV)
+Everyone expects too much of him. So 
+he works hard not to let anyone down, 
+and then things like this happen...
+
+## POINTER 19
+<STR>(YUR)
+...Palestralle's not going to 
+be too happy about this.<PAGE>Even if he didn't have any choice but to fight, 
+I doubt they'll take that for an excuse.
+
+## POINTER 20
+<STR>(RAV)
+That Natz guy should 
+forgive us, I think.
+
+## POINTER 21
+<STR>(YUR)
+That would be nice. But Natz isn't 
+the Duce. It's the others in the 
+guild we have to worry about.
+
+## POINTER 22
+<STR>(RAV)
+Well, I don't know how 
+to get out this mess!<PAGE>For now I'm going to take 
+him to see the Don.<PAGE>Take the ship to Dahngrest as soon 
+as it's workin' again, would ya?
+
+## POINTER 23
+<STR>(YUR)
+Gotcha.
+
+## POINTER 24
+<STR>(RAV)
+I actually do know how to 
+get out of this, but...<PAGE>An eye for an eye... It's a matter 
+between guilds, after all...

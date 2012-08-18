@@ -1,0 +1,89 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS12_034)If you're seeing us off, we'll say goodbye here.
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS12_035)I'm going with you.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS12_036)Y-you're doing what?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS12_037)Oh, so this is why you told us not to 
+leave without saying goodbye, huh?
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS12_038)Yeah.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS12_039)Is that it? Just "yeah?"
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS12_040)Can you just leave like that? You're 
+an important mage here right?
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS12_041)...Hmm...
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS12_042)I want to see Halure's barrier blastia 
+for myself. It's no good to the people 
+there if it's broken, right?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS12_043)Actually, the three of us fixed it together.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS12_044)Huh? What do you mean 
+you "fixed" it? You're 
+just amateurs.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS12_045)You know, we revived it. 
+It was great! Estel--
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS12_046)Let's just say it was beginner's luck.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS12_047)Now I'm really worried. I'll 
+have to go see if it's been 
+done properly or not.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS12_048)Suit yourself.
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS12_049)W-what?!
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS12_050)I've never had a real friend 
+my own age before!
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS12_051)I-I'm not so sure we're--
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS12_052)This is going to be so much fun!
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS12_053)Y-yeah...

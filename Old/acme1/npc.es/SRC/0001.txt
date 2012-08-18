@@ -1,0 +1,558 @@
+## POINTER 100 [t:1;r:1;ru:memnoch;user:memnoch;time:1303481657]
+¿Has estado en el castillo?
+¿Has visto a <STR>(FRE)?<PAGE>¡Dile que tenemos
+problemas en los
+barrios bajos!
+
+## POINTER 101 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Anda, ¿ya has vuelto?
+¿Ya no hace falta
+que huyas?<PAGE>¿Cómo? ¿Que te vas otra vez?
+¡Decídete!
+
+## POINTER 102 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Esto no es
+lo mismo
+sin ti, <STR>(YUR)...<PAGE>Mm... Olvídalo...
+
+## POINTER 103 [t:1;r:1;ru:memnoch;user:kaene;time:1302891885]
+¡<STR>(YUR)! Ayer vi
+tu cartel de «se busca».<PAGE>¡No me puedo creer que
+haya una recompensa por ti!
+¡Eres famoso en el Imperio!
+
+## POINTER 104 [t:1;r:1;ru:memnoch;user:Lia;time:1297505292]
+Pero <STR>(FRE) tiene que
+atrapar a la gente que tiene
+una recompensa por su cabeza, ¿no?<PAGE>No me gustaría nada
+que os peleaseis...
+
+## POINTER 105 [t:1;r:1;ru:memnoch;user:memnoch;time:1303481800]
+¡Ahora <STR>(FRE) es un capitán!
+¡Y nos devolvió el núcleo de los
+barrios bajos y todo! ¡Es increíble!<PAGE>Y sé que, aunque lo hayan
+ascendido, seguirá dándolo
+todo por los barrios bajos.
+
+## POINTER 106 [t:1;r:1;ru:memnoch;user:memnoch;time:1303481800]
+¿Has oído hablar de la Fuerza
+de Defensa de <STR>(FRE)?<PAGE>Pues me han obligado
+a contarles todo lo
+que sé de él.
+
+## POINTER 107 [t:1;r:1;ru:memnoch;user:Lia;time:1297506582]
+Ugh... 
+Me encuentro fatal...
+
+## POINTER 108 [t:1;r:1;ru:memnoch;user:Lia;time:1297506582]
+Desde que el cielo se volvió
+raro hay algo... que no va bien.
+Esto es horrible...
+
+## POINTER 109 [t:1;r:1;ru:memnoch;user:Lia;time:1297506582]
+¡Todo estaba patas arribe cuando
+volví a los barrios bajos!<PAGE>Estaban cubiertos de hierba
+del tamaño de troncos... No me
+podía creer lo que estaba viendo.
+
+## POINTER 110 [t:1;r:1;ru:memnoch;user:memnoch;time:1303482046]
+Me pregunto si <STR>(FRE) reconstruirá
+algo si se lo pedimos. ¡Lo comento
+porque ahora él es muy importante!<PAGE>¡Ve a preguntárselo
+en nuestro lugar, <STR>(YUR)!
+
+## POINTER 111 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+¡<STR>(YUR), estás bien!<PAGE>Tu amigo nos dijo que las cosas iban
+de mal en peor. Me estabas preocupando.
+
+## POINTER 112 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+No ibas a palmarla tan fácilmente,
+¿a que no, <STR>(YUR)?
+
+## POINTER 113 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+¡<STR>(FRE) ha construido
+una nueva ciudad en Hypionia! 
+¡¿No es alucinante?!<PAGE><STR>(FRE)... Está en
+otro nivel, en serio.
+
+## POINTER 114 [t:1;r:1;ru:memnoch;user:memnoch;time:1303482046]
+Todos los miembros de la Fuerza
+de Defensa de <STR>(FRE) le han
+seguido a su nueva ciudad.<PAGE>¡No lo entienden!
+Si pudiera, <STR>(FRE) se quedaría
+en los barrios bajos.
+
+## POINTER 115 [t:1;r:1;ru:memnoch;user:memnoch;time:1296991831]
+El aqua blastia se ha roto, ¿eh?<PAGE>No me extraña. A los barrios bajos
+solo nos traen los blastias más
+destartalados.
+
+## POINTER 116 [t:1;r:1;ru:memnoch;user:Lia;time:1297506827]
+Si te molesta ve a cantarles
+las cuarenta a la familia
+imperial o al Consejo.<PAGE>Ellos son los
+que lo deciden.
+
+## POINTER 117 [t:1;r:1;ru:memnoch;user:Lia;time:1297523749]
+¿Ves eso que hay detrás de aquellos edificios?
+Es nuestra barrera blastia, la Escalera de
+la Espada. Protege Zaphias de los monstruos.<PAGE>La barrera es imprescindible.
+Nuestras vidas y sustentos dependen de ella.
+
+## POINTER 118 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Casi todas las ciudades del Imperio
+tienen una barrera blastia;
+Zaphias no es la única que tiene.<PAGE>Los lugares que no tienen
+han de fortalecerse y armarse
+para poder echar a los monstruos.
+
+## POINTER 119 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Los Caballeros acabarán encontrando alguna
+razón para arrestar a gente que no les caiga
+bien, aunque no hayan hecho nada.<PAGE>No es un buen momento
+para volver, <STR>(YUR).
+
+## POINTER 120 [t:1;r:1;ru:memnoch;user:Lia;time:1297523749]
+Ni siquiera
+confío en <STR>(FRE).<PAGE>También están vigilando
+los barrios bajos.
+No deberías quedarte aquí.
+
+## POINTER 121 [t:1;r:1;ru:memnoch;user:Lia;time:1297523917]
+El Imperio monopoliza varios
+blastias de Zaphias, incluyendo
+la barrera blastia.
+
+## POINTER 122 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Desde el punto de vista histórico, los
+emperadores jamás han tenido la autoridad
+para controlar el acceso a los blastias.<PAGE>La familia imperial
+no sabe lo que hace.
+Son todos unos imbéciles.
+
+## POINTER 123 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Después de toda la movida con el
+magistrado Ragou, la reputación del
+Consejo está por los suelos.<PAGE>Ahora el equilibrio entre el Consejo y
+los Caballeros Imperiales está flaqueando.
+¿Qué ocurrirá con nuestro Imperio?
+
+## POINTER 124 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+No hay duda de que el
+Imperio está desconcertado.<PAGE>La familia imperial
+ya no tiene el poder para
+acabar con todo este caos.
+
+## POINTER 125 [t:1;r:1;ru:memnoch;user:Lia;time:1297524734]
+Anda, <STR>(YUR). 
+¿Buscabas algo? <PAGE>Cualquier cosa que necesites
+debería estar por ahí tirada.
+Llévate lo que necesites.
+
+## POINTER 126 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Cebollas, zanahorias y...
+¿Esta caja tiene bebidas alcohólicas?<PAGE>Menos mal que me he dado cuenta,
+¡estaba a punto de pegarle una patada
+y destrozarlas! ¡Qué poco ha faltado!
+
+## POINTER 127 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Así que has vuelto, <STR>(YUR)...
+He oído que has vuelto a tus viejos trucos.
+
+## POINTER 128 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+¿Y quién es
+esta señorita?<PAGE>Pobrecilla.
+Este asqueroso sitio no es un
+buen lugar para traer una chica.
+
+## POINTER 129 [t:1;r:1;ru:memnoch;user:Lia;time:1297525283]
+¡Eh, bienvenido!
+Me alegro de ver
+que sigues vivo.
+
+## POINTER 130 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Deberías visitar
+tu vieja habitación
+de vez en cuando, <STR>(YUR).<PAGE>¡Como no la cuides,
+el polvo que hay comenzará
+a formar estratos!
+
+## POINTER 131 [t:1;r:1;ru:memnoch;user:Lia;time:1297525578]
+La brigada de Schwann,
+la brigada de Cumore...
+¿Y ahora la brigada de <STR>(FRE)?<PAGE>El chaval impresiona.
+
+## POINTER 132 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Espero que los Caballeros
+Imperiales mejoren un mínimo.
+
+## POINTER 133 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+¡Quieto parado!
+Si sigues adelante
+saldrás de la ciudad.<PAGE>El mundo que hay tras la barrera de
+Zaphias está plagado de monstruos.
+Es muy peligroso que salgas con ese equipo.
+
+## POINTER 134 [t:1;r:1;ru:memnoch;user:memnoch;time:1304592718]
+No puedes salir de la ciudad
+con un equipo tan cutre.<PAGE>Vuelve cuando estés
+bien provisto.
+
+## POINTER 135 [t:1;r:1;ru:memnoch;user:kaene;time:1297592847]
+Hay orden de
+sitiar la capital.<PAGE>No se puede pasar.
+
+## POINTER 136 [t:1;r:1;ru:memnoch;user:kaene;time:1297592847]
+La puerta está cerrada.
+Nadie puede pasar hasta
+que se anule la orden.
+
+## POINTER 137 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Han ordenado que esta
+puerta permanezca cerrada.
+Eh, tú eres...<PAGE>Voy a mirar el cartel
+de los fugitivos.
+Espera aquí...
+
+## POINTER 138 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Mmm... No sé si
+te pareces al del
+cartel o no...
+
+## POINTER 139 [t:1;r:1;ru:memnoch;user:kaene;time:1297592847]
+Bienvenido a la capital
+imperial, Zaphias.
+
+## POINTER 140 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616064]
+Bienvenido a la capital
+imperial, Zap... ¿Eh?
+No eres... un viajero...<PAGE>Es que te
+pareces a...
+
+## POINTER 141 [t:1;r:1;ru:memnoch;user:memnoch;time:1297616890]
+¡Hay monstruos en la parte
+exterior de la barrera! 
+¡Se está más seguro en la capital!<PAGE>
+Mantengan la calma. Los Caballeros
+están protegiendo Zaphias.
+¡No existe razón para evacuar!
+
+## POINTER 142 [t:1;r:1;ru:memnoch;user:memnoch;time:1297617930]
+Maldita sea...
+¿Qué está pasando
+en el mundo?
+
+## POINTER 143 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+El comandante Alexei
+ha salido a perseguir
+un monstruo.<PAGE>Quizá debería
+ir tras él...
+
+## POINTER 144 [t:1;r:1;ru:memnoch;user:kaene;time:1297593195]
+Sin la barrera, los
+Caballeros son la última
+defensa de la capital.
+
+## POINTER 145 [t:1;r:1;ru:memnoch;user:kaene;time:1297593195]
+Si el comandante Alexei causó este
+desastre, nuestra misión es proteger
+la capital con nuestras vidas.
+
+## POINTER 146 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+Nos hemos encargado
+de los monstruos que
+invadieron la capital.<PAGE>La gente ya puede vivir de
+nuevo en paz en esta ciudad.
+
+## POINTER 147 [t:1;r:1;ru:memnoch;user:kaene;time:1297593195]
+Zaphias es segura.
+No hay razón para evacuar.
+
+## POINTER 148 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¡Bienvenido a
+mi humilde taller!<PAGE>¿Notas cómo ardo en este
+mismo instante con mi
+intenso poder creativo?
+
+## POINTER 149 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+Como ves, soy un artista.
+Pinto retratos, ¡y ahora mismo tengo
+delante un sujeto espectacular!<PAGE>¿Me permites que te haga un
+retrato? ¡Pondrá en marcha
+mis músculos creativos!
+
+## POINTER 150 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¡Espera un momento!
+¿Aún no has visto mis trabajos?
+¡La pasión salta a la vista!
+
+## POINTER 151 [t:1;r:1;ru:memnoch;user:memnoch;time:1303068211]
+¡Fui yo quien pintó
+tu cartel de «se busca»!<PAGE>Eres un joven muy singular;
+me acordaba bien de tu cara.
+Es una obra maestra, ¿verdad?
+
+## POINTER 152 [t:1;r:1;ru:memnoch;user:kaene;time:1297594430]
+¡Ah, el héroe ha vuelto!
+Espera, ¿han retirado los cargos?PAGE>Vaya, vaya, mi arte ya
+no se seguirá mostrando
+por toda la ciudad.
+
+## POINTER 153 [t:1;r:1;ru:memnoch;user:memnoch;time:1303068211]
+¡Ya lo tengo! ¡Lo pondré aquí!
+¡Sí, tu cartel de «se busca»!
+¿Qué? ¿No te parece bien?
+
+## POINTER 154 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+El cielo tiene el color
+del agua tras lavar
+mis pinceles.<PAGE>Los paisajes no son mi especialidad,
+pero, oooh, este color...
+
+## POINTER 155 [t:1;r:1;ru:memnoch;user:kaene;time:1297594430]
+¡El otro día pasó volando un
+dragón por encima de la ciudad!
+¡El orgullo alado en persona!<PAGE>Si alguna vez ves uno, dímelo.
+¡Debo plasmar esa heroica
+silueta en mi lienzo!
+
+## POINTER 156 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+El otro día, en el campo de refugiados,
+vi un dragón que volaba hacia Zaphias.<PAGE>¡Pero esa aurora extraña
+lo alcanzó y lo derribó!
+
+## POINTER 157 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¿Lo habré soñado?
+Debo admitir que me pasé
+toda la noche pintando...<PAGE>¡Da igual! ¡Sueño o ilusión,
+pintaré ese dragón! ¡Esa es
+la razón de ser del artista!
+
+## POINTER 158 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¿El comandante Alexei
+inició una rebelión?...<PAGE>Mmm, solo había oído cosas
+buenas de él. Quizás la
+codicia le nubló el juicio.
+
+## POINTER 159 [t:1;r:1;ru:memnoch;user:kaene;time:1297594936]
+¡Ah! ¡Los cielos me han dado
+una idea brillante! ¡Retratos
+de Alexei! ¡Oh, me haré rico!
+
+## POINTER 160 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¡Chico! Dicen que de pequeño
+eras amigo del joven capitán
+que ahora es tan popular.<PAGE>¿Me dejarías que os retratara
+a los dos juntos? ¡Dos héroes
+destinados a perdurar en la historia!
+
+## POINTER 161 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+Dos jóvenes, amigos de la infancia,
+y ahora uno persigue al otro.
+¡Oh, destino cruel!<PAGE>Así es como veo la pieza.
+Vuelve con el joven capitán.
+
+## POINTER 162 [t:1;r:1;ru:memnoch;user:soywiz;time:1304153966]
+¡Bienvenido! 
+Vaya, si eres tú, <STR>(YUR).<PAGE>¡Hoy tenemos buena
+mercancía a la venta!
+
+## POINTER 163 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¡Fortuna Mercantil, orgullosos
+de ofrecer ofertas con rostro
+sonriente! ¡Vuelve pronto!
+
+## POINTER 164 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¡Vaya, si es el ídolo de Zaphias!
+Deberíamos colgar un cartel que
+dijera: «Famosos compran aquí».
+
+## POINTER 165 [t:1;r:1;ru:memnoch;user:kaene;time:1297595213]
+¡Fortuna Mercantil, donde
+compran los famosos!
+¡Gracias por venir!
+
+## POINTER 166 [t:1;r:1;ru:memnoch;user:kaene;time:1297595213]
+No creo que sea
+buena idea que
+vengas por aquí.<PAGE>Vete antes de
+que te pillen.
+
+## POINTER 167 [t:1;r:1;ru:memnoch;user:kaene;time:1297595213]
+Han vuelto a subir los impuestos.
+Esto acabará afectando a los precios...
+
+## POINTER 168 [t:1;r:1;ru:memnoch;user:kaene;time:1297595213]
+¡Fortuna Mercantil, sacrificando
+los beneficios por el bien de
+nuestros clientes! ¡Gracias!
+
+## POINTER 169 [t:1;r:1;ru:memnoch;user:kaene;time:1297595213]
+Han sitiado la ciudad, ¿verdad?
+Que haya tan poca gente por
+aquí no ayuda a las ventas.
+
+## POINTER 170 [t:1;r:1;ru:memnoch;user:kaene;time:1297595213]
+¡Fortuna Mercantil, haciendo
+negocio mientra sigamos
+respirando! ¡Vuelve pronto!
+
+## POINTER 171 [t:1;r:1;ru:memnoch;user:kaene;time:1297595213]
+Zaphias estará en muy mala
+situación, pero de aquí no
+nos vamos. ¡Tómate tu tiempo!
+
+## POINTER 172 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¡Fortuna Mercantil, donde las
+sonrisas son gratuitas! Vuelve
+cuando necesites una sonrisa.
+
+## POINTER 173 [t:1;r:1;ru:memnoch;user:kaene;time:1297595566]
+Gracias a ese monstruo raro,
+estamos vendiendo como locos.
+No sé si debería alegrarme...
+
+## POINTER 174 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¡Fortuna Mercantil, donde...!
+Mm, no se me ocurre nada...
+Pero no se lo digas a nadie.
+
+## POINTER 175 [t:1;r:1;ru:memnoch;user:kaene;time:1297595566]
+Mientras tengamos a los Caballeros,
+Zaphias estará segura.
+Compra con tranqulidad.
+
+## POINTER 176 [t:1;r:1;ru:memnoch;user:kaene;time:1297595566]
+¡Fortuna Mercantil, donde
+la calidad es lo primero!
+¡Gracias por venir!
+
+## POINTER 177 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+Relajarme en una ciudad tan
+bella, sin ninguna preocupación,
+con mi amor a mi lado...<PAGE>¿No es pecado
+ser tan feliz?
+
+## POINTER 178 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+No hay mayor alegría
+que una vida de paz.<PAGE>Me alegro tanto
+de vivir aquí.
+
+## POINTER 179 [t:1;r:1;ru:memnoch;user:kaene;time:1297595566]
+¿Por qué está la
+ciudad tan agitada?<PAGE>Parece que los Caballeros
+están buscando a alguien.
+
+## POINTER 180 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+Ha habido mucho revuelo en
+los barrios bajos, cuando
+se les ha roto la fuente.<PAGE>Podrían callarse un poco,
+estoy intentando pasar un
+rato con mi amorcito.
+
+## POINTER 181 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+Tú eres el bribón que
+están buscando los
+Caballeros, ¿verdad?<PAGE>Desde luego que tienes
+cara de bribón.
+
+## POINTER 182 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¡Eh! Pensaba que los Caballeros
+ya te habían capturado.
+¡¿En qué quedamos, al final?!
+
+## POINTER 183 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+Tú eres el que estaban buscando
+antes los Caballeros, ¿verdad?<PAGE>¿Qué hiciste?
+¿Y cómo demonios
+ibas a ser inocente?
+
+## POINTER 184 [t:1;r:1;ru:memnoch;user:kaene;time:1297595969]
+Bah, da igual, no me molestes.
+Estoy pasando un rato con mi amor.<PAGE>¡No vas a robarme
+el corazón! ∀
+
+## POINTER 185 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¿Conoces al capitán <STR>(FRE)?
+Ha llegado a capitán aunque
+es de los barrios bajos.<PAGE>Es amable con los ciudadanos,
+no como los otros Caballeros.
+
+## POINTER 186 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+¡Y además de amable, el capitán
+<STR>(FRE) también es guapo! ∀<PAGE>Todas las chicas
+de Zaphias le han
+echado el ojo.
+
+## POINTER 187 [t:1;r:1;ru:memnoch;user:memnoch;time:1304155356]
+Con la barrera y las murallas,
+Zaphias es el lugar más
+seguro del mundo.<PAGE>Es donde vive el Emperador,
+así que los Caballeros Imperiales
+siempre están ojo avizor.
+
+## POINTER 188 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+Estoy orgulloso
+de ser de Zaphias.<PAGE>Es un lugar maravilloso para
+vivir y, además, aquí es
+donde conocí a mi chica.
+
+## POINTER 189 [t:1;r:1;ru:memnoch;user:kaene;time:1297596321]
+La capital ha estado sitiada
+por culpa de un ladrón que
+escapó en el distrito real.<PAGE>No dejan pasar a nadie
+por la barrera.
+
+## POINTER 190 [t:1;r:1;ru:memnoch;user:kaene;time:1297596321]
+¿Cerrar toda la ciudad
+no es un poco excesivo?
+Es una molestia para los ciudadanos.
+
+## POINTER 191 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+Aún no han cogido al ladrón.
+Han puesto retratos de él,
+pero son muy malos.<PAGE>Eh... Tú te le
+pareces un poco...
+
+## POINTER 192 [t:1;r:1;ru:memnoch;user:kaene;time:1297596321]
+Hasta un retrato así de
+malo puede reflejar lo más
+característico de una persona.
+
+## POINTER 193 [t:1;r:1;ru:memnoch;user:kaene;time:1297596321]
+Al fin han quitado el
+retrato del ladrón
+del distrito real.<PAGE>Supongo que al final lo habrán pillado.
+
+## POINTER 194 [t:1;r:1;ru:memnoch;user:kaene;time:1297596321]
+Son los Caballeros.
+Siempre protegen la
+paz en la capital.
+
+## POINTER 195 [t:1;r:1;ru:memnoch;user:kaene;time:1297596321]
+He oído que los Caballeros descubrieron
+la traición de un magistrado y
+salvaron a la gente de no sé dónde.<PAGE>¡Siempre se puede contar
+con los Caballeros!
+
+## POINTER 196 [t:1;r:1;ru:memnoch;user:kaene;time:1297596547]
+Gracias a que los Caballeros
+protegen la ciudad, nosotros
+podemos disfrutar de esta paz.
+
+## POINTER 197 [t:1;r:1;ru:memnoch;user:kaene;time:1297596547]
+Hace tiempo, mi pueblo natal
+fue destruido y tuve que
+venir a vivir a la capital.<PAGE>Es tan tranquila. Es un
+buen lugar para vivir.
+
+## POINTER 198 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+Vivir cómodamente
+también ayuda a
+enriquecer el corazón.<PAGE>Si tienes una vida estable,
+¿no tienes la mente más tranquila?
+
+## POINTER 199 [t:1;r:1;ru:memnoch;user:memnoch;time:1297625389]
+Toda la gente de la ciudad es muy amable.<PAGE>De vez en cuando también voy
+a los barrios bajos. Siempre hay
+mucho movimiento. ¡Es genial!

@@ -1,0 +1,177 @@
+## POINTER 0
+Kaufman
+<VOICE>(VS27_500)Good work. Thanks.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS27_501)No, no. Thank you! 
+You're a huge help.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS27_502)Right, mutual back-scratching 
+and all that.
+
+## POINTER 3
+
+<VOICE>(VS27_503)Oh, M-Madam P-President. 
+It's an honor t-to 
+have you here.
+
+## POINTER 4
+Kaufman
+<VOICE>(VS27_504)Excavating more ruins?<PAGE><VOICE>(VS27_505)I'm always impressed that the guild boss 
+himself supervises the excavations.
+
+## POINTER 5
+
+<VOICE>(VS27_506)Th-the excavation 
+of r-ruins is wh-what 
+I l-live for.
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS27_507)Who's that...?
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS27_508)That's Regaey, the head of Ruins' Gate.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS27_509)Ruins' Gate? That sounds familiar...
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS27_510)They're the guild that's 
+helping the imperial 
+mages excavate ruins.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS27_511)Oh, that's why I've 
+heard of them.
+
+## POINTER 11
+Regaey
+<VOICE>(VS27_512)W-well, I have f-friends 
+who are expecting me, so 
+if you'll excuse m-me...
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS27_513)He seems like a nice person.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS27_514)Hey, you were talking earlier 
+about a guild that's selling 
+hoplon blastia.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS27_515)You mean Leviathan's Claw?
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS27_516)Do you think they might be getting their blastia 
+under the table from those ruin guys?
+
+## POINTER 16
+Kaufman
+<VOICE>(VS27_517)Ruins' Gate is completely innocent.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS27_518)How can you 
+be so sure?
+
+## POINTER 18
+<STR>(RAV)
+<VOICE>(VS27_519)They're upstanding, serious, diligent... 
+That's what they're known for.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS27_520)...
+
+## POINTER 20
+Kaufman
+<VOICE>(VS27_521)Well, I'm off. 
+Take good care 
+of the Fiertia.<PAGE><VOICE>(VS27_522)Say hi to Tokunaga for me, too.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS27_523)Sure.
+
+## POINTER 22
+Kaufman
+<VOICE>(VS27_524)Good luck, Brave Vesperia!
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS27_525)Thanks!
+
+## POINTER 24
+<STR>(RIT)
+<VOICE>(VS27_526)Mages selling blastia 
+on the black market? 
+That is so not good.
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS27_527)<STR>(RIT).
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS27_528)Huh? Oh, yeah.
+
+## POINTER 27
+<STR>(RAV)
+<VOICE>(VS27_529)Well, I got some work 
+to do, myself.
+
+## POINTER 28
+<STR>(JUD)
+<VOICE>(VS27_530)Oh yeah, your letter. 
+It's for Belius, right?
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VS27_531)Yep.
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS27_532)Hey, why don't we all go?
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS27_533)Good idea. She probably knows 
+something about Phaeroh.<PAGE><VOICE>(VS27_534)We'll just tag along with 
+you and say hi to Belius.
+
+## POINTER 32
+<STR>(RAV)
+<VOICE>(VS27_535)I don't know if that's such a 
+good idea... 'Course, I've only 
+heard rumors, but...hmmm...
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS27_536)What? Is something wrong?
+
+## POINTER 34
+<STR>(RAV)
+<VOICE>(VS27_537)Huh? Nah, it's nothing...
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS27_538)Where can we 
+find Belius?
+
+## POINTER 36
+<STR>(KAR)
+<VOICE>(VS27_539)The Coliseum, probably, 
+since Belius is the 
+duce of Palestralle.

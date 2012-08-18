@@ -1,0 +1,214 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS24_028)It seems like the area 
+has returned to normal.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS24_029)Yeah. Doesn't look like it's 
+gone berserk since then.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS24_030)Hey, it's those guys we 
+met at Nor Harbor...
+
+## POINTER 3
+Pauly
+<VOICE>(VS24_031)Miss <STR>(EST_P)!
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS24_032)How have you been?
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS24_033)Who is this?
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS24_034)We helped these people 
+out at Nor Harbor.
+
+## POINTER 7
+Kellas
+<VOICE>(VS24_035)We can't thank you enough 
+for all you've done for us.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS24_036)Where is your father?
+
+## POINTER 9
+Kellas
+<VOICE>(VS24_037)I haven't seen Teagle--my 
+husband-- for the past 
+three days...
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS24_038)It sounds like that 
+rumor might be true...
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS24_039)Don't you have any hunches?
+
+## POINTER 12
+Kellas
+<VOICE>(VS24_040)Yes... The night before he 
+disappeared, he talked again 
+about working to become a noble...
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS24_041)Become a noble? 
+What do you mean?
+
+## POINTER 14
+Kellas
+<VOICE>(VS24_042)When this city is finally completed, 
+we will be able to live here as 
+members of the nobility.
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS24_043)Huh? That doesn't 
+sound quite right.
+
+## POINTER 16
+Kellas
+<VOICE>(VS24_044)What do you mean?
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS24_045)The rank of nobility is reserved for 
+those whose service has earned 
+the emperor's confidence.
+
+## POINTER 18
+Kellas
+<VOICE>(VS24_046)B-but, Sir Cumore gave his 
+word to us! He said we would 
+be welcomed as nobles!
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS24_047)Cumore... From the 
+Imperial Knights?
+
+## POINTER 20
+Kellas
+<VOICE>(VS24_048)Yes. He is acting as the current 
+magistrate of the city.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS24_049)I'll bet he is...
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS24_050)That is strange, though. 
+I mean, the imperial 
+throne is empty and all.
+
+## POINTER 23
+Kellas
+<VOICE>(VS24_051)But then... Then why on earth 
+have we been working this hard? 
+And what about Teagle...?
+
+## POINTER 24
+Pauly
+<VOICE>(VS24_052)Is Father not 
+coming back...?
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS24_053)Hey, <STR>(YUR)...
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS24_054)You're gonna ask me why 
+we don't take this on 
+as a guild, right?
+
+## POINTER 27
+<STR>(EST_P)
+<VOICE>(VS24_055)I promise to take care of 
+her fee when I pay my own.
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS24_056)Well...okay, that's fine.
+
+## POINTER 29
+Kellas
+<VOICE>(VS24_057)What? But I...
+
+## POINTER 30
+<STR>(JUD)
+<VOICE>(VS24_058)So this means our next job 
+is finding a missing person.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS24_059)And if Cumore's up to his usual 
+stunts, we'll just have to slap 
+him around till he stops.
+
+## POINTER 32
+<STR>(EST_P)
+<VOICE>(VS24_060)Right. The Knights do exist for the 
+protection of the people, after all.
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS24_061)L-let's just make 
+sure we're careful.<PAGE><VOICE>(VS24_062)The Knights could squash 
+a little guild like us if we 
+get on their bad side.
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS24_063)As you wish.
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS24_064)We'll find your father, 
+I promise. Just wait 
+right here.
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS24_065)Well, that's that. 
+We'll take the job.
+
+## POINTER 37
+Kellas
+<VOICE>(VS24_066)Thank you. 
+Thank you so much!
+
+## POINTER 38
+<STR>(YUR)
+<VOICE>(VS24_067)All right, let's go find him.
+
+## POINTER 39
+<STR>(JUD)
+<VOICE>(VS24_068)There's something very suspicious 
+about that area over there.
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS24_069)Yeah. Even more so 
+because it's marked 
+off-limits.
+
+## POINTER 41
+<STR>(EST_P)
+<VOICE>(VS24_070)I wonder if there's some 
+way we could get in...
+
+## POINTER 42
+<STR>(KAR)
+<VOICE>(VS24_071)Careful, guys. Remember? Careful...

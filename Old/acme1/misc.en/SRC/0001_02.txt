@@ -1,0 +1,313 @@
+## POINTER 188
+Field
+
+## POINTER 189
+Battle
+
+## POINTER 190
+Events
+
+## POINTER 192
+CG
+
+## POINTER 193
+Animation
+
+## POINTER 195
+General purpose
+
+## POINTER 196
+Place the prestigious Red Orb onto the pedestal.
+ Supply the Orb with power af all creation.
+A ray of light shall release the seal before you.
+
+## POINTER 197
+Do you wish to rest?
+
+## POINTER 198
+End save?
+
+## POINTER 199
+Yes
+No
+
+## POINTER 200
+Return
+
+## POINTER 201
+Select a dish to serve.
+
+## POINTER 202
+Northeast Hypionia
+
+## POINTER 203
+Locked
+
+## POINTER 204
+Unlocked
+
+## POINTER 205
+Handed over
+"<0B>(0)."
+
+## POINTER 206
+You cannot carry anymore of the following:
+
+## POINTER 207
+Material(s)
+
+## POINTER 208
+Monsters that drop
+
+## POINTER 209
+Habitat
+
+## POINTER 210
+Skill(s)
+
+## POINTER 211
+Info.
+
+## POINTER 212
+What is a Leaderboard?
+
+## POINTER 213
+Reunite with <02>(1)<0B>(0) and <02>(1)<0B>(1).
+
+## POINTER 214
+Reunite with <02>(1)<0B>(0), <02>(1)<0B>(1)
+and <02>(1)<0B>(2).
+
+## POINTER 215
+Reunited with everyone.
+
+## POINTER 216
+Select a location.
+
+## POINTER 217
+Who will enter the contest?
+
+## POINTER 218
+Participate?
+
+## POINTER 219
+Help?
+
+## POINTER 220
+Parted with
+<02>(1)<0B>(0) and <02>(1)<0B>(1).
+
+## POINTER 221
+Parted with
+<02>(1)<0B>(0), <02>(1)<0B>(1)
+and <02>(1)<0B>(2).
+
+## POINTER 222
+Parted with everyone.
+
+## POINTER 223
+......Have heard......<PAGE>
+...that <0B>(0) of the Giganto
+Monsters have been slain....<PAGE>
+...As far as we know...
+<0B>(1) still left.....
+
+## POINTER 224
+Vendor's Stall "Mallow"
+
+## POINTER 225
+Save Points are advanced formulas left in cities
+and forests created by mages for the purpose of
+collecting records of travelers.
+Even if you quit your journey, you can 
+resume from your last record, by saving your 
+progress over the Save Points.
+The Save Points are available in places all
+around the world. Make sure to save your
+progress when you find them!
+
+## POINTER 226
+Engage in battle?
+
+## POINTER 227
+Obtained:
+<02>(1)<0B>(0) x <0B>(1)
+<02>(1)<0B>(2) x <0B>(3)
+
+## POINTER 228
+Obtained:
+<02>(1)<0B>(0) x <0B>(1)
+<02>(1)<0B>(2) x <0B>(3)
+<02>(1)<0B>(4) x <0B>(5)
+
+## POINTER 229
+Lost
+<02>(1)<0B>(0).
+
+## POINTER 230
+Winner's Prize
+
+## POINTER 231
+Do you wish to rest?
+
+## POINTER 232
+OK?
+
+## POINTER 233
+Call Ba'ul and exit this place?
+
+## POINTER 234
+Do you wish to take a break?
+
+## POINTER 235
+Enter?
+
+## POINTER 236
+Are you ready?
+
+## POINTER 237
+Ready for departure?
+
+## POINTER 238
+Retire?
+
+## POINTER 239
+Who will distract the guards?
+
+## POINTER 240
+Who will act like a knight?
+
+## POINTER 241
+Depart with current members?
+
+## POINTER 242
+Pay 500,000 Gald?
+
+## POINTER 243
+What will you do?
+
+## POINTER 244
+Did you understand?
+
+## POINTER 245
+Will you help?
+
+## POINTER 246
+Are you ready?
+
+## POINTER 247
+Do you want to read the tutorial?
+
+## POINTER 248
+Are you OK?
+
+## POINTER 249
+The Infinite Melee
+
+## POINTER 250
+Pay the fee for the spa?
+
+## POINTER 251
+Do you wish to participate?
+
+## POINTER 252
+Do you understand now?
+
+## POINTER 253
+Nam Certificate: Question #1
+
+## POINTER 254
+Nam Certificate: Question #24
+
+## POINTER 255
+Nam Certificate: Question #52
+
+## POINTER 256
+Nam Certificate: Question #81
+
+## POINTER 257
+Nam Certificate: Question #100
+
+## POINTER 258
+Play game?
+
+## POINTER 259
+Watch skit?
+
+## POINTER 260
+Help at the restaurant?
+
+## POINTER 261
+Use the lift?
+
+## POINTER 262
+Rest for the night?
+
+## POINTER 263
+Stay at the inn?
+
+## POINTER 264
+Accept job?
+
+## POINTER 265
+Look for job?
+
+## POINTER 266
+Accept job?
+
+## POINTER 267
+Look for job?
+
+## POINTER 268
+Accept reward?
+
+## POINTER 269
+Stay at the inn?
+
+## POINTER 270
+What will you shout?
+
+## POINTER 271
+Enter the competition?
+
+## POINTER 272
+Select a participant.
+
+## POINTER 273
+Are you ready?
+
+## POINTER 274
+Withdraw from the match?
+
+## POINTER 275
+Buy ticket?
+
+## POINTER 276
+Give Apple Gel?
+
+## POINTER 277
+Give Trident?
+
+## POINTER 278
+Give Poison Ward,
+Paralyze Ward and
+Stone Ward?
+
+## POINTER 279
+Give All-Divide
+and Hourglass?
+
+## POINTER 280
+Give Silver Edge +1α?
+
+## POINTER 281
+Give Desier Gold Dust,
+Hypionia Tree Bark, and
+Yurzo Fruit?
+
+## POINTER 282
+Give Might Orb,
+Treant Flower,
+Crystal,
+Mystic Orb, and
+Great Leo Fang?

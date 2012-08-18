@@ -1,0 +1,144 @@
+## POINTER 0
+
+Hey, you guys are... Brave Vesperia...
+
+## POINTER 1
+<STR>(YUR)
+How nice of you to remember.
+
+## POINTER 2
+
+The boss isn't here anymore.<PAGE>Yeah, no reason for you to come 
+sniffing around here anymore.
+
+## POINTER 3
+<STR>(YUR)
+Anybody named Sebastian 
+come here lately?
+
+## POINTER 4
+
+Hmph. Never heard of him.
+
+## POINTER 5
+
+Wait. You know as well as 
+I do we've got no idea what 
+to do with that guy.
+
+## POINTER 6
+<STR>(JUD)
+Then he is here.
+
+## POINTER 7
+
+We kept him here under 
+house arrest while Yeager 
+was still with us.<PAGE>But to tell the truth, he's getting 
+to be a waste of space, these days.
+
+## POINTER 8
+
+What're you saying? You're 
+talking to Yeager's killers!
+
+## POINTER 9
+
+Yeager is dead and gone. 
+We're gonna have to face 
+facts sooner or later.<PAGE>But there's a condition.
+
+## POINTER 10
+<STR>(KAR)
+Condition?
+
+## POINTER 11
+
+We're trying to start an alliance with 
+a guild called the Soul Smiths.
+
+## POINTER 12
+<STR>(YUR)
+Why would we want to do 
+anything to help a bunch 
+of arms smugglers?
+
+## POINTER 13
+
+Go ahead, try and force 
+your way in, then!
+
+## POINTER 14
+<STR>(RAV)
+All righty, let's all play nice, now.
+
+## POINTER 15
+
+Hmph...
+
+## POINTER 16
+
+We need weapons to defend ourselves 
+against the monsters, don't we?<PAGE>Without Yeager, it's all we 
+can do to survive out here.
+
+## POINTER 17
+<STR>(YUR)
+...The Soul Smiths? Have 
+you heard of them?
+
+## POINTER 18
+<STR>(KAR)
+Of course I know them. They're one 
+of the five master guilds, and they 
+specialize in blacksmithing. <PAGE>But unlike the others, they keep 
+pretty much to themselves.<PAGE>They built a forge deep inside a 
+mountain, and they still live there, 
+tucked away from the world.
+
+## POINTER 19
+
+That's it. We need somebody 
+to find them for us.
+
+## POINTER 20
+<STR>(YUR)
+You want us to check every mountain 
+on the planet? Yeah right.
+
+## POINTER 21
+<STR>(RAV)
+Who said old <STR>(RAV) didn't have at 
+least a hunch up his sleeve, huh?
+
+## POINTER 22
+<STR>(KAR)
+No way!
+
+## POINTER 23
+<STR>(YUR)
+Heh, leave it to the No. 2 guy in the Union. 
+Guess this is a father-knows-best situation.
+
+## POINTER 24
+<STR>(RAV)
+Don't tell me ya forgot your first client, 
+Yu, already. He might be good ta chat with.
+
+## POINTER 25
+<STR>(KAR)
+Th-that guy?!
+
+## POINTER 26
+<STR>(RAV)
+Would this face ever lie to you?
+
+## POINTER 27
+<STR>(YUR)
+So if we can get a hold of 
+these Soul Smiths for you, 
+you'll let the butler go?
+
+## POINTER 28
+
+Don't see why we couldn't.

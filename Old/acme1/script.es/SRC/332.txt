@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705294]
+<STR>(KAR)
+¡Mirad ahí!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705294]
+<STR>(YUR)
+¡Salgamos de aquí!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408400]
+<STR>(KAR)
+¿S-Se encuentran bien?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408400]
+
+Oooh... Sois...
+sois vosotros...
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705294]
+<STR>(EST_P)
+¿Se encuentra mejor ahora?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408400]
+
+Ooh... Mi esposa. ¿Dónde está?...
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705294]
+<STR>(KAR)
+¿Se refiere a esta mujer? 
+Está aquí mismo.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705294]
+<STR>(EST_P)
+No se mueva, por favor.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408400]
+
+A-Agua...

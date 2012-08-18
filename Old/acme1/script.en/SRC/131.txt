@@ -1,0 +1,40 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS10_017)This is crazy... Who could 
+live in a place like this?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS10_018)You can pretty much live anywhere 
+you can eat and sleep, if you 
+set your mind to it.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS10_019)<STR>(YUR), don't you have something 
+to say first?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS10_020)Uh...Hello? We're 
+coming in.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS10_021)And the door?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS10_022)<STR>(KAR) here opened your 
+door. Sorry 'bout that.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS10_023)Honestly, <STR>(YUR)...
+Excuse us, is
+anyone home?
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS10_024)It's a good thing no one's here. That 
+means we get to look for evidence.

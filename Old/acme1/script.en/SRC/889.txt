@@ -1,0 +1,145 @@
+## POINTER 0
+<STR>(RIT)
+I see, so you ran away 
+to Halure after what 
+happened in Aspio.
+
+## POINTER 1
+Giovanni
+Yes. It's just not possible 
+to live there anymore, with 
+things as they are.<PAGE>Now then, if you'd be so 
+kind, I'd like to borrow your 
+Collector's Book now.
+
+## POINTER 2
+<STR>(EST_P)
+Yes, go right ahead.
+
+## POINTER 3
+<STR>(RIT)
+I don't mind... But you'll 
+have to give it back to 
+us by tomorrow morning.
+
+## POINTER 4
+Giovanni
+Of course, of course... Wait, what?!
+
+## POINTER 5
+<STR>(RIT)
+That's how it has to be. We're 
+running on a very tight schedule.<PAGE>We can't stay around here 
+indefinitely while we wait for 
+you to finish with our book.
+
+## POINTER 6
+Giovanni
+Oh... I see. Yes, I don't want 
+to cause you any inconvenience.
+
+## POINTER 7
+<STR>(EST_P)
+We're sorry...
+
+## POINTER 8
+Giovanni
+No, don't worry about it.<PAGE>Then I'll borrow 
+it for the night.
+
+## POINTER 9
+<STR>(RIT)
+Keep it safe!
+
+## POINTER 10
+Giovanni
+Of course!
+
+## POINTER 11
+Giovanni
+I've reserved the room next 
+door as well. You may feel free 
+to sleep there tonight.
+
+## POINTER 12
+<STR>(RIT)
+Ah, how thoughtful of you.
+
+## POINTER 13
+Giovanni
+No, it would be rude not to 
+offer. Well then, I'd better 
+get started right away!
+
+## POINTER 14
+<STR>(KAR)
+Hey, what do you think he's going to 
+do with that book in a single night?
+
+## POINTER 15
+<STR>(RIT)
+Oh, Giovanni's known among researchers 
+for his fast writing skills. He's probably 
+going to make a copy of the book.
+
+## POINTER 16
+<STR>(KAR)
+Really...? There's no 
+way he could do that...
+
+## POINTER 17
+Giovanni
+Here you go. Thank 
+you very much.
+
+## POINTER 18
+<STR>(KAR)
+Y-you actually managed to 
+copy it in a single night...
+
+## POINTER 19
+<STR>(RIT)
+Hah! I told you so! But Giovanni, 
+I'm impressed. It looks like you're 
+still as persistent as ever.
+
+## POINTER 20
+Giovanni
+Well, I'll admit, this time 
+was particularly tough.<PAGE>Ah yes, before I forget. 
+Take this as a token 
+of my thanks.
+
+## POINTER 21
+<STR>(EST_P)
+O-oh! Really?
+
+## POINTER 22
+Giovanni
+The data that you've given 
+me is far more valuable. This 
+is the least I can do.<PAGE>I must show my respect 
+for elite item maniacs 
+like yourselves...
+
+## POINTER 23
+<STR>(EST_P)
+Item maniacs? What 
+do you mean...?
+
+## POINTER 24
+<STR>(RIT)
+...I guess he just 
+means that we know 
+a lot about items.<PAGE>Well then, we'll 
+
+be going...
+......?
+
+## POINTER 25
+Giovanni
+...*snore*
+
+## POINTER 26
+<STR>(YUR)
+He fell asleep standing up...

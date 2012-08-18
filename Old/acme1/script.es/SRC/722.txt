@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284255554]
+<STR>(KAR)
+¡Iaah! ¡Iaaaaah!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284255554]
+Harry
+¡No mantienes una postura firme!<PAGE>¡A este paso nunca serás
+tan buen luchador como el Don!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1281088140]
+<STR>(KAR)
+¡Ugh!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1284255554]
+<STR>(KAR)
+¡Raaah! ¡Iaaah!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1281088140]
+Harry
+¡Eso es! ¡Imagínate a tu
+adversario enfrente de ti
+y blande tu espada así!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1284255554]
+<STR>(KAR)
+¡V-Vale!

@@ -1,0 +1,24 @@
+## POINTER 0
+<STR>(EST_P)
+<STR>(YUR)! We're 
+out!
+
+## POINTER 1
+<STR>(RIT)
+Where's the old pervert 
+and the little twerp?
+
+## POINTER 2
+<STR>(KAR)
+Oh, sorry. <STR>(RAV) 
+wasn't feeling 
+very well...
+
+## POINTER 3
+<STR>(JUD)
+Oh, are you all right?
+
+## POINTER 4
+<STR>(YUR)
+Well, this isn't going to work. I guess we'll 
+leave the hot springs for another time.

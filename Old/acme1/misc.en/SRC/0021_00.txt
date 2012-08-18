@@ -1,0 +1,231 @@
+## POINTER 2
+Max 99 Items
+
+## POINTER 3
+Possess up to 99 of each item.
+
+## POINTER 4
+Items
+
+## POINTER 5
+Inherit all items from previous play through.
+(Omit Valuable Items)
+
+## POINTER 6
+Gald
+
+## POINTER 7
+Inherit all Gald earned in previous play through.
+
+## POINTER 8
+Titles
+
+## POINTER 9
+Inherit all titles earned in previous play through.
+
+## POINTER 10
+Collector's Book
+
+## POINTER 11
+Inherit information in the Collector's Book.
+
+## POINTER 12
+Monster Book
+
+## POINTER 13
+Inherit information in the Monster Book.
+
+## POINTER 14
+Recipes
+
+## POINTER 15
+Inherit all recipes learned in previous play through.
+
+## POINTER 16
+Cooking Skill
+
+## POINTER 17
+Inherit current cooking skill level.
+
+## POINTER 18
+World Map
+
+## POINTER 19
+Inherit town and dungeon information on
+the World Map.
+
+## POINTER 20
+Synthesis Skill
+
+## POINTER 21
+Inherit current synthesis skill level.
+
+## POINTER 22
+Records
+
+## POINTER 23
+Inherit current information listed in the
+"Record" menu.
+
+## POINTER 24
+Artes
+
+## POINTER 25
+Inherit all Artes from previous play through.
+This option is for all characters.
+
+## POINTER 26
+Skills
+
+## POINTER 27
+Inherit all skills from previous play through.
+This option is for all characters.
+
+## POINTER 28
+Yuri Artes & Skills
+
+## POINTER 29
+Inherit Artes, Arte usage status and Skills from
+previous play through. This option is only for Yuri.
+
+## POINTER 30
+Estelle Artes & Skills
+
+## POINTER 31
+Inherit Artes, Arte usage status and Skills from
+previous play through. This option is only for Estelle.
+
+## POINTER 32
+Karol Artes & Skills
+
+## POINTER 33
+Inherit Artes, Arte usage status and Skills from
+previous play through. This option is only for Karol.
+
+## POINTER 34
+Rita Artes & Skills
+
+## POINTER 35
+Inherit Artes, Arte usage status and Skills from
+previous play through. This option is only for Rita.
+
+## POINTER 36
+Raven Artes & Skills
+
+## POINTER 37
+Inherit Artes, Arte usage status and Skills from
+previous play through. This option is only for Raven.
+
+## POINTER 38
+Judith Artes & Skills
+
+## POINTER 39
+Inherit Artes, Arte usage status and Skills from
+previous play through. This option is only for Judith.
+
+## POINTER 40
+Repede Artes & Skills
+
+## POINTER 41
+Inherit Artes, Arte usage status and Skills from
+previous play through. This option is only for Repede.
+
+## POINTER 42
+Increase Max HP
+
+## POINTER 43
+Start the game with maximum HP increased by 20%.
+Cannot be used with "Decrease Max HP".
+
+## POINTER 44
+Decrease Max HP
+
+## POINTER 45
+Start the game with maximum HP decreased by 20%.
+Cannot be used with "Increase Max HP".
+
+## POINTER 46
+Increase Max TP
+
+## POINTER 47
+Start the game with maximum TP increased by 20%.
+Cannot be used with "Decrease Max TP".
+
+## POINTER 48
+Decrease Max TP
+
+## POINTER 49
+Start the game with maximum TP decreased by 20%.
+Cannot be used with "Increase Max TP".
+
+## POINTER 50
+2x Gald
+
+## POINTER 51
+Earn twice the amount of Gald in battle.
+
+## POINTER 52
+Increase Over Limit
+
+## POINTER 53
+Doubles the speed at which the Over Limit
+gauge fills.
+
+## POINTER 54
+1/2 Experience
+
+## POINTER 55
+Decrease the amount of EXP earned to half.
+Cannot be used with other EXP related skills.
+
+## POINTER 56
+Double Experience
+
+## POINTER 57
+Earn twice the normal EXP in battle. Cannot be
+used in combination with other EXP related options.
+
+## POINTER 58
+10x Experience
+
+## POINTER 59
+Earn 10 times the normal EXP in battle.
+Cannot be used with other EXP related options.
+
+## POINTER 60
+2x Grade
+
+## POINTER 61
+Earn twice the amount of GRADE..
+
+## POINTER 62
+Skill SP 1
+
+## POINTER 63
+Reduce SP consumption for using skills to 1.
+
+## POINTER 64
+Increase Item Drop Rate
+
+## POINTER 65
+Doubles the chance of acquiring items from a battle.
+
+## POINTER 66
+Battle Techniques
+
+## POINTER 67
+Set EXP value to 1 and increase bonus
+EXP by 5x.
+
+## POINTER 68
+Unlock Battle Rank
+
+## POINTER 69
+Unlock battle difficulty "UNKNOWN".
+
+## POINTER 70
+Unlock All Skits
+
+## POINTER 71
+You can view all skits on the Skit Player at
+Nam Cobanda Isle located somewhere in this world.

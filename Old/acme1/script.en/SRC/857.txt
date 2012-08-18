@@ -1,0 +1,88 @@
+## POINTER 0
+<STR>(KAR)
+Fresh air!!
+
+## POINTER 1
+<STR>(EST_P)
+Phew... Thank goodness.
+
+## POINTER 2
+<STR>(JUD)
+Aww, I wanted to play 
+a little more.
+
+## POINTER 3
+<STR>(YUR)
+Should come back again? 
+We can try a different 
+route next time!
+
+## POINTER 4
+<STR>(RIT)
+You're not funny! Stop it!
+
+## POINTER 5
+<STR>(RAV)
+But I still gotta know...
+What's with that voice, anyway?
+
+## POINTER 6
+<STR>(YUR)
+Hmmm... No idea on that one.
+
+## POINTER 7
+<STR>(JUD)
+A ghost, probably.
+
+## POINTER 8
+<STR>(RIT)
+I told you! There's no such 
+thing as ghosts!!<PAGE>I'm sure it was just some lame old 
+mage who gets a kick from making
+illusions for people to get lost in!
+
+## POINTER 9
+<STR>(YUR)
+All right, let's leave it at that, then.
+
+## POINTER 10
+<STR>(JUD)
+Good idea. Otherwise <STR>(RIT)'ll 
+be in a rotten mood all week.
+
+## POINTER 11
+<STR>(RAV)
+But whaddaya think would make 
+anyone wanna do that?
+
+## POINTER 12
+<STR>(KAR)
+Our money, maybe?
+
+## POINTER 13
+<STR>(EST_P)
+No way...
+
+## POINTER 14
+<STR>(YUR)
+It's nice to see the 
+world is still full 
+of mysteries.
+
+## POINTER 15
+<STR>(EST_P)
+Yes, I agree.
+
+## POINTER 16
+<STR>(RIT)
+Anyway, let's get out of here! 
+We're done with this place!
+
+## POINTER 17
+<STR>(KAR)
+I second that. We should go before 
+we get yanked into another labyrinth.
+
+## POINTER 18
+<STR>(YUR)
+Okay, okay.

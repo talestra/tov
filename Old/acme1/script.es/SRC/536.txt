@@ -1,0 +1,32 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1287070789]
+<STR>(FRE)
+<VOICE>(VS61_032)¡Pronto estaremos en el centro!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1287070789]
+<STR>(YUR)
+<VOICE>(VS61_033)¡Yo aún puedo luchar más!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1287070789]
+<STR>(FRE)
+<VOICE>(VS61_034)Je, es como si te estuvieses
+divirtiendo en medio de todo esto.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1287070789]
+<STR>(YUR)
+<VOICE>(VS61_035)Je, je. Y tú también.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1287070789]
+<STR>(RAP)
+<VOICE>(VS61_036)¡Guau, guau!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1287070789]
+<STR>(FRE)
+<VOICE>(VS61_037)¡Ahora, <STR>(YUR)!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1287070789]
+<STR>(YUR)
+<VOICE>(VS61_038)¡Vale!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1287070789]
+<STR>(YUR)
+<VOICE>(VS61_039)¡Comeos esto!

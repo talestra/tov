@@ -1,0 +1,71 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS17_071)Him again!
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS17_072)Phew... Hey...I 
+feel better...
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS17_073)Th-the barrier's down!
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS17_074)Of course! That dragon freak
+broke the blastia!
+You're dead freak! Dead!!
+
+## POINTER 4
+Clint
+<VOICE>(VS17_075)Yeah, that's it. Show me some anger. 
+Show me what a monster's like!<PAGE><VOICE>(VS17_076)Now I'm gonna mop the floor with you!
+
+## POINTER 5
+Clint
+<VOICE>(VS17_077)...Huh?
+
+## POINTER 6
+Tison
+<VOICE>(VS17_078)Looks like he wants the first 
+piece of action, Clint.<PAGE><VOICE>(VS17_079)Well, come and get some, then!!
+
+## POINTER 7
+Tison
+<VOICE>(VS17_080)Graaah!!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS17_084)Whoa...!
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS17_085)Yaah!
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS17_086)Aah...!
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS17_087)Uaaah...!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS17_081)Damn... If we lose our balance...
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS17_082)...I've never seen anything 
+like it before...
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS17_083)Omigosh, omigosh, 
+omigosh...
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS17_088)I guess we gotta take care 
+of someone else's pet.

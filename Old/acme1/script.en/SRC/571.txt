@@ -1,0 +1,99 @@
+## POINTER 0
+<STR>(JUD)
+Oh! Her necklace...
+
+## POINTER 1
+<STR>(KAR)
+Ah...!
+
+## POINTER 2
+
+Wh-what is it?
+
+## POINTER 3
+<STR>(YUR)
+Hey, can you tell me how 
+you got that thing you're 
+wearing around your neck?
+
+## POINTER 4
+
+Oh, this? I found it by the riverside.
+
+## POINTER 5
+<STR>(KAR)
+Aha, just as we thought!
+
+## POINTER 6
+<STR>(YUR)
+Is there any way you'd consider 
+giving it to us?<PAGE>The original owner's sent us to come looking for it.
+
+## POINTER 7
+
+But I...
+
+## POINTER 8
+<STR>(RAV)
+Now, be a bit more accommodatin'. If it's money, 
+we'll reimburse ya however much ya want.
+
+## POINTER 9
+<STR>(YUR)
+Hey, old man, whose money are you talking about...!
+
+## POINTER 10
+<STR>(RAV)
+Oh, don't throw a hissy.
+
+## POINTER 11
+
+Well... I couldn't accept money for it.<PAGE>But you know, I guess I'd be
+willing to part with this if you
+gave me a small bird feather.
+
+## POINTER 12
+<STR>(YUR)
+All right, well then...
+
+## POINTER 13
+
+Hold it!
+
+## POINTER 14
+
+I'll be taking that necklace. 
+Even if I have to use force...<PAGE>No, I mustn't use force. Perhaps I'll 
+persuade her to give it to me.<PAGE>But I won't let 
+you all have it!
+
+## POINTER 15
+<STR>(KAR)
+She's already told us 
+that she'll exchange it for 
+a small bird feather, buddy...
+
+## POINTER 16
+
+Well then if I get here 
+with that small bird feather 
+first, will you give it to me?
+
+## POINTER 17
+
+I don't care which one of you gets it. I'll give the 
+necklace to the first person who brings a small bird feather to me.
+
+## POINTER 18
+
+All right, I'm off. Farewell!<PAGE>Dash...!
+
+## POINTER 19
+<STR>(JUD)
+And he's gone, just like that. 
+What a busy little man.
+
+## POINTER 20
+<STR>(YUR)
+We shouldn't loiter around waiting 
+for him to beat us to it. Let's go!

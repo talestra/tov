@@ -1,0 +1,34 @@
+## POINTER 0
+<STR>(KAR)
+Hey, are you done talking to her?
+
+## POINTER 1
+<STR>(JUD)
+Where were you?
+
+## POINTER 2
+<STR>(KAR)
+Oh, I just remembered something that I had to do.
+
+## POINTER 3
+<STR>(YUR)
+That's all well and good, but let us 
+know before you run off, would ya?
+
+## POINTER 4
+<STR>(KAR)
+Y-yeah, sure. Sorry about that.
+
+## POINTER 5
+<STR>(YUR)
+Anyway, let's go over 
+to where she said she 
+dropped the necklace.
+
+## POINTER 6
+<STR>(RAP)
+*Aggressive bark*
+
+## POINTER 7
+<STR>(YUR)
+I'm pretty sure she said she dropped it from the bridge.

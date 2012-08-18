@@ -1,0 +1,208 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(YUR)
+<VOICE>(VS64_244)Parece que habéis dormido bien.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(EST_P)
+<VOICE>(VS64_245)Sí.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839367]
+<STR>(KAR)
+<VOICE>(VS64_246)A pierna suelta.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(RAV)
+<VOICE>(VS64_247)La cama era mucho más cómoda que
+cuando vinimos por última vez.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(YUR)
+<VOICE>(VS64_248)Ya, toda la ciudad
+está genial.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839367]
+<STR>(JUD)
+<VOICE>(VS64_249)Una ciudad tan bonita
+necesita un nombre.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(RIT)
+<VOICE>(VS64_250)Pues hala, genio de los nombres. Te toca.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1290154871]
+<STR>(KAR)
+<VOICE>(VS64_251)Vale, vale.
+¡Villa Palet...!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(KAR)
+<VOICE>(VS64_252)¡Te odio!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839367]
+<STR>(EST_P)
+<VOICE>(VS64_253)Mm... La luz que derrite la nieve...
+«Aurnion». ¿Qué tal suena?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+Ioder
+<VOICE>(VS64_254)Aurnion... Es un buen nombre.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(YUR)
+<VOICE>(VS64_255)Ahora ya tiene el sello imperial
+y su aprobación. Decidido.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(FRE)
+<VOICE>(VS64_256)Ya casi es la hora.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(YUR)
+<VOICE>(VS64_257)Ya. Esta vez sí que
+es la batalla final.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839367]
+<STR>(FRE)
+<VOICE>(VS64_258)Witcher y Sodia ya se han ido.
+Han dicho que llegarían a tiempo como sea.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(YUR)
+<VOICE>(VS64_259)Contamos con ellos.<PAGE><VOICE>(VS64_260)Nos podemos ir
+cuando sea, ¿verdad?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(KAR)
+<VOICE>(VS64_261)¡Sí!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(RIT)
+<VOICE>(VS64_262)Por supuesto.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(RAP)
+<VOICE>(VS64_263)¡Guau!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(JUD)
+<VOICE>(VS64_264)Ba'ul también está esperando.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839367]
+<STR>(RAV)
+<VOICE>(VS64_265)Solo nus toca volar.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(EST_P)
+<VOICE>(VS64_266)¡Claro!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+Ioder
+<VOICE>(VS64_267)Hemos discutido sobre los blastias
+y los espíritus y qué hacer
+cuando todo se haya acabado.<PAGE><VOICE>(VS64_268)Pero a mi parecer,
+a algunos les costará
+aceptar estos cambios.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839367]
+<STR>(FRE)
+<VOICE>(VS64_269)Es cierto. Mucha gente
+no sabrá qué hacer.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1290154871]
+Ioder
+<VOICE>(VS64_270)Sin embargo, no pueden vivir
+en un mundo nuevo sin
+aceptar esos cambios.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(YUR)
+<VOICE>(VS64_271)Tienes razón.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839367]
+Ioder
+<VOICE>(VS64_272)Empezaré por hablar
+con la gente de aquí.<PAGE><VOICE>(VS64_273)Han construido esta maravillosa
+ciudad de Aurnion a partir de
+una simple llanura.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(FRE)
+<VOICE>(VS64_274)Sí, los residentes de aquí
+deberían aceptarlo.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(YUR)
+<VOICE>(VS64_275)Buena suerte. Nadie me escucharía
+aunque lo intentase.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(EST_P)
+<VOICE>(VS64_276)¡Anda ya!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+Ioder
+<VOICE>(VS64_277)<STR>(EST), chicos...
+cuidaos.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(FRE)
+<VOICE>(VS64_278)¡Ciudadanos! ¡Por favor! Dejad
+de trabajar un momento. ¡Su Majestad
+Ioder tiene algo que decir!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981079]
+Ioder
+<VOICE>(VS64_279)Debo deciros algo muy importante.<PAGE><VOICE>(VS64_280)Esto afectará al Imperio,
+a los gremios e incluso
+a los entelechia.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(JUD)
+<VOICE>(VS64_281)Me pregunto si todo irá bien.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(YUR)
+<VOICE>(VS64_282)Han confiado lo suficiente
+en nosotros como para enviarnos.
+Confiemos en ellos.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(EST_P)
+<VOICE>(VS64_283)Sí.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839367]
+<STR>(YUR)
+<VOICE>(VS64_284)Bueno, nos toca currar.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(YUR)
+<VOICE>(VS64_285)<STR>(KAR). Te toca.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839367]
+<STR>(KAR)
+<VOICE>(VS64_286)Vale.<PAGE><VOICE>(VS64_287)¡Chicos! ¡Ganaremos sí o sí!
+¡Adelante, Gran Vesperia!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(YUR)
+<VOICE>(VS64_288)¡Vale!
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(EST_P)
+<VOICE>(VS64_289)¡Claro!
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(RIT)
+<VOICE>(VS64_290)¡Sí!
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:xander;time:1290154871]
+<STR>(RAV)
+<VOICE>(VS64_291)Pos claro.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(JUD)
+<VOICE>(VS64_292)Entendido.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:Lia;time:1287916331]
+<STR>(RAP)
+<VOICE>(VS64_293)¡Guau!

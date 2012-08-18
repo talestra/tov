@@ -1,0 +1,16 @@
+## POINTER 139 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264107571]
+Parece que no se abre...
+Algo no va bien con esta puerta.
+
+## POINTER 140 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264107571]
+Está cerrado.
+
+## POINTER 141 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264107571]
+Está cerrado por el otro lado.
+
+## POINTER 142 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264107571]
+Está cerrado por algún tipo de fuerza.
+
+## POINTER 143 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533504]
+Está cerrado, pero no con una llave, sino con algo distinto.
+Debe haber alguna máquina que quite el cierre en alguna parte.

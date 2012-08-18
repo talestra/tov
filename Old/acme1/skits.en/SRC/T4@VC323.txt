@@ -1,0 +1,77 @@
+## POINTER 0
+"It"
+
+## POINTER 1
+(RIT)
+Hey, what's with making 
+me do all the cooking?!
+
+## POINTER 2
+(RAV)
+Ah, perhaps you've gotten better and 
+ya finally came to enjoy cookin'?
+
+## POINTER 3
+(RIT)
+No way! Cooking is a pain, and 
+it's a waste of time, too!
+
+## POINTER 4
+(RIT)
+The point of eating is to restore 
+your energy, right? Just eat some 
+bread or a banana or something!
+
+## POINTER 5
+(YUR)
+What, you want us to just 
+eat the ingredients raw?
+
+## POINTER 6
+(KAR)
+I remember (RIT) serving a sandwich 
+that was just two pieces of bread 
+with a raw egg in between...
+
+## POINTER 7
+(JUD)
+A raw egg? How original!
+
+## POINTER 8
+(RAV)
+Hey, don't get any ideas, now!
+
+## POINTER 9
+(RIT)
+Make me cook again...and I'll 
+put "it" in the food.
+
+## POINTER 10
+(RAV)
+Put what in the food?
+
+## POINTER 11
+(RIT)
+Something I've been saving 
+for a special occasion.
+
+## POINTER 12
+(JUD)
+Ooh, that sounds interesting.
+
+## POINTER 13
+(KAR)
+(JUD), don't encourage her!
+
+## POINTER 14
+(RIT)
+Don't you dare make me cook next time!
+
+## POINTER 15
+(EST_P)
+Aww, and I wanted to try what (RIT) was 
+saving for a special occasion...
+
+## POINTER 16
+(KAR)
+(EST_P), I don't think you do...

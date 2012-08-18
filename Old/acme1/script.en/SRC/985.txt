@@ -1,0 +1,86 @@
+## POINTER 0
+<STR>(YUR)
+So there are monsters
+down here too...
+
+## POINTER 1
+<STR>(EST)
+....Monsters...
+That's what these things are...?
+
+## POINTER 2
+<STR>(YUR)
+You've never seen one before...?
+
+## POINTER 3
+<STR>(EST)
+Uh, umm...
+
+## POINTER 4
+<STR>(YUR)
+...Well, let's hurry up
+and take care of this,
+shall we?
+
+## POINTER 5
+<STR>(EST)
+<STR>(YUR), they're coming
+from the front, too...!
+
+## POINTER 6
+<STR>(YUR)
+Ugh...this is annoying.
+
+## POINTER 7
+<STR>(YUR)
+...That should take care of it.
+
+## POINTER 8
+<STR>(EST)
+I didn't know what
+to do when they all
+attack at once...
+
+## POINTER 9
+<STR>(YUR)
+You generally have to defeat
+each monster one by one, but
+sometimes they come in groups.
+
+## POINTER 10
+<STR>(EST)
+Really?
+We should be careful
+when we go ahead.
+
+## POINTER 11
+<STR>(YUR)
+You can take on a monster
+one at a time, or take them
+on in a group. Your choice.
+
+## POINTER 12
+<STR>(EST)
+<STR>(YUR), which way do you
+think we should go?
+
+## POINTER 13
+<STR>(YUR)
+Whichever. Let's
+just get out of here.
+
+## POINTER 14
+<STR>(EST)
+Ah, wait...
+Wait for me.
+
+## POINTER 15
+Information
+When in contact with an enemy symbol,
+monsters that are a part of a nearby enemy
+symbol will enter the battle at the same time.
+
+## POINTER 16
+Information
+Beware, as you will be faced
+with a group of enemies.

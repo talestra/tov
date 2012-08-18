@@ -1,0 +1,32 @@
+## POINTER 0
+<STR>(YUR)
+Huh...? That's 
+strange.
+
+## POINTER 1
+<STR>(KAR)
+What's the matter, <STR>(YUR)?
+
+## POINTER 2
+<STR>(YUR)
+...It looks like I dropped my wallet somewhere.
+
+## POINTER 3
+<STR>(KAR)
+At a time like this?!
+
+## POINTER 4
+<STR>(YUR)
+Maybe it fell out of my pocket 
+at the Don's place? I'm going 
+to go look. You wait here.
+
+## POINTER 5
+<STR>(KAR)
+O-okay. Don't 
+take too long!
+
+## POINTER 6
+<STR>(YUR)
+All righty. Now to go and see 
+how <STR>(FRE)'s holding up...

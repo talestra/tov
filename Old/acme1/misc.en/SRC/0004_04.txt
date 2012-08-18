@@ -1,0 +1,310 @@
+## POINTER 493
+Arcane Arte: Send an enemy in the air with your
+blade, then follow by an arrow attack.
+
+## POINTER 494
+Falling
+
+## POINTER 495
+Arcane Arte: Jump and fire an arrow at the enemy.
+Attack changes with distance when a certain skill is set.
+
+## POINTER 496
+Azure Heavens
+
+## POINTER 497
+Arcane Arte: Shoot an arrow high up into the sky to
+cause multiple arrows to fall onto enemies in the area.
+
+## POINTER 498
+Falling Stars
+
+## POINTER 499
+Arcane Arte: Fire an arrow that gradually
+gains speed and power at an enemy.
+
+## POINTER 500
+Crime
+
+## POINTER 501
+Arcane Arte: Fire a series of arrows at the enemy.
+Attack changes with distance when a certain skill is set.
+
+## POINTER 502
+The Wind's Howl
+
+## POINTER 503
+Arcane Arte: Fire a swift, powerful arrow at the enemy.
+Attack changes with distance when a certain skill is set.
+
+## POINTER 504
+Rainsong
+
+## POINTER 505
+Altered Arte: Cause arrows shot during Guard
+Break to explode with Taunt.
+
+## POINTER 506
+Rain Down
+
+## POINTER 507
+Altered Arte: Fire an arrow high in the sky and
+wait patiently for the arrow to hit the enemy.
+
+## POINTER 508
+Around and Around
+
+## POINTER 509
+Altered Arte: Double slash with your blade and
+knife, then continue to swirl and slash.
+
+## POINTER 510
+Rain of Heaven's Tears
+
+## POINTER 511
+Altered Arte: Slash an enemy repeatedly in midair.
+
+## POINTER 512
+Cloud of Heaven's Tears
+
+## POINTER 513
+Altered Arte: Acrobatically slash an enemy in midair.
+
+## POINTER 514
+Falling Further
+
+## POINTER 515
+Altered Arte: Jump in the air to fire an arrow
+powerful enough to break the ground to pieces.
+
+## POINTER 516
+The Growing World
+
+## POINTER 517
+Altered Arte:  Arrows hitting the enemy will break
+off into smaller arrows, hitting nearby targets.
+
+## POINTER 518
+Violet Weasel
+
+## POINTER 520
+Punishment
+
+## POINTER 522
+Flying
+
+## POINTER 524
+The Wind's Rage
+
+## POINTER 526
+Wind Blade
+
+## POINTER 527
+Novice Spell: Slash and crush enemies with a wind blade.
+
+## POINTER 528
+Arrivederci
+
+## POINTER 529
+Intermediate Spell: Cause a small whirlwind to
+send enemies flying.
+
+## POINTER 530
+Havoc Gale
+
+## POINTER 531
+Advanced Spell: Send a violent tornado that block
+enemy movement then crushes with inner air pressure.
+
+## POINTER 532
+Vanji Lost
+
+## POINTER 533
+Advanced Spell: Hit enemies with a ray of light
+and temporarily inflict Charm.
+
+## POINTER 534
+Inverno
+
+## POINTER 535
+Altered Arte: Bring forth a sharp glacier from
+beneath the enemy.
+
+## POINTER 536
+Tempest
+
+## POINTER 537
+Altered Arte: Call forth a huge hurricane and
+lightning to strike the enemy.
+
+## POINTER 538
+Stop Flow
+
+## POINTER 539
+Altered Arte: Interference with aer stops
+time temporarily.
+
+## POINTER 540
+Fury Blast
+
+## POINTER 541
+Burst Arte: Charge up while firing arrows consecutively,
+then a final blow with the charged energy.
+
+## POINTER 542
+Chaotic Fury
+
+## POINTER 544
+Garnet Chaos
+
+## POINTER 546
+Kamikaze Fury
+
+## POINTER 548
+Storm of Chaos
+
+## POINTER 550
+Blast Heart
+
+## POINTER 552
+Arrow Revenge
+
+## POINTER 554
+Wide slice
+
+## POINTER 556
+High thrust
+
+## POINTER 558
+Middle thrust
+
+## POINTER 560
+Leg sweep
+
+## POINTER 562
+Jump cut
+
+## POINTER 564
+Jump thrust
+
+## POINTER 566
+Spin kick
+
+## POINTER 568
+Moonsault
+
+## POINTER 570
+Wide swing
+
+## POINTER 572
+Hit
+
+## POINTER 574
+Jump slice
+
+## POINTER 576
+Jump heel
+
+## POINTER 578
+Free Run Attack
+
+## POINTER 580
+Spinning jump cut
+
+## POINTER 582
+Jump kick
+
+## POINTER 584
+Indigo Fatal Strike
+
+## POINTER 586
+Crimson Fatal Strike
+
+## POINTER 588
+Viridian Fatal Strike
+
+## POINTER 590
+Crescent Moon
+
+## POINTER 591
+Base Arte: Charge at the enemy hit them
+with a kick.
+
+## POINTER 592
+Luna Fang
+
+## POINTER 593
+Base Arte: Jump into the air and land on the enemy.
+
+## POINTER 594
+Moonlight Havoc
+
+## POINTER 595
+Base Arte: Deliver a roundhouse kick in the
+air, then finish with another kick as you land.
+
+## POINTER 596
+New Moon Blade
+
+## POINTER 597
+Base Arte: Charge forward to attack with your lance.
+
+## POINTER 598
+Crescent Strike
+
+## POINTER 599
+Base Arte: Swing your lance like the full moon,
+then slash as if slashing the moon in half.
+
+## POINTER 600
+Luna Rise
+
+## POINTER 601
+Base Arte: Spin in the air while slashing,
+then finish off with a kick.
+
+## POINTER 602
+Moonlight Talon
+
+## POINTER 603
+Base Arte: Perform an uppercut slash to
+send an enemy in the air.
+
+## POINTER 604
+Dawn Moon
+
+## POINTER 605
+Base Arte: Jump, then quickly dive at the enemy.
+
+## POINTER 606
+Moonlight Blast
+
+## POINTER 607
+Base Arte: Spin around and knock the enemy
+down with the handle of your lance.
+
+## POINTER 608
+Luna Storm
+
+## POINTER 609
+Base Arte: Cause a whirlwind with your lance.
+
+## POINTER 610
+Piercing Moon
+
+## POINTER 611
+Base Arte: Perform a quick uppercut as if
+aiming for the moon.
+
+## POINTER 612
+Luna Gale
+
+## POINTER 613
+Arcane Arte: Continuously kick the enemy
+in midair during an upside-down spin.
+
+## POINTER 614
+Luna Ascendent
+
+## POINTER 615
+Arcane Arte: Rush and attack with an uppercut slash.

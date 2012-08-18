@@ -1,0 +1,54 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:soywiz;time:1251663303]
+Un sueño del viejales
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812128]
+(RAV)
+...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812128]
+(YUR)
+¿Qué ocurre, viejales? Has ganado.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812128]
+(RAV)
+E-Esto es un sueño. Guau, conquistar
+el coliseo tras tós estos años es...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812128]
+(JUD)
+¿Era uno de tus sueños
+ganar este torneo?
+
+## POINTER 5 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267440322]
+(RAV)
+Los miembros de los gremios de tó'l mundo
+ansían conseguir esto alguna vez en sus vidas.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812128]
+(YUR)
+¡Entonces tu sueño se ha hecho realidad!
+¡Eso es fantástico!
+
+## POINTER 7 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267440322]
+(RAV)
+No, no puede ser real.
+Esto's un sueño, lo sé.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812128]
+(YUR)
+Si fuese un sueño, no podrías
+sentir dolor, ¿no es así?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812128]
+(JUD)
+¡Salgamos de dudas!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812128]
+(RAV)
+¡Aaaah!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812128]
+(YUR)
+Vaya...
+Si el viejales no estaba ya durmiendo,
+ahora seguro que sí lo está.

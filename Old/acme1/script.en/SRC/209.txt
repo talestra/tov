@@ -1,0 +1,146 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS19_023)This is crazy. Where are all 
+these monsters coming from?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS19_024)Something isn't right...!
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS19_025)Doesn't something seem different 
+about the monsters as well?
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS19_026)Here they come!
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS19_027)Dammit! It's just one 
+right after the other!
+
+## POINTER 5
+
+<VOICE>(VS19_028)Aah...!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS19_029)Damn...!
+
+## POINTER 7
+
+<VOICE>(VS19_030)Th-thank you so much.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS19_031)Forget it! Run!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS19_032)Damn! I'm not gonna make it!
+
+## POINTER 10
+
+<VOICE>(VS19_033)Come on ya filthy maggots, I'll take 
+the lot of ya! Come see how it feels 
+ta get beat down by an old man!
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS19_034)That old guy is really going after 
+them. Who the hell is he?
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS19_035)It's the Don! 
+That's Don Whitehorse!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS19_036)So that's him, huh?
+
+## POINTER 14
+
+<VOICE>(VS19_037)It's the Don! The Don's here!
+
+## POINTER 15
+
+<VOICE>(VS19_038)Let's kick this monster scum 
+outta here! Defend the city!
+
+## POINTER 16
+
+<VOICE>(VS19_039)Nobody messes with the Clouds of Dawn!!
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS19_041)<STR>(FRE)!
+
+## POINTER 18
+<STR>(FRE)
+<VOICE>(VS19_042)We've come to help subdue 
+the monsters!
+
+## POINTER 19
+Don Whitehorse
+<VOICE>(VS19_043)Hold yer horses, knight-boy!
+
+## POINTER 20
+Don Whitehorse
+<VOICE>(VS19_044)We couldn't live with ourselves if 
+we let the Knights do our dirty work. 
+Now get the hell outta here!
+
+## POINTER 21
+<STR>(FRE)
+<VOICE>(VS19_045)Is this really the time for that?!
+
+## POINTER 22
+Don Whitehorse
+<VOICE>(VS19_046)Each and every one of these people 
+left the empire of their own free 
+will and joined a guild!<PAGE><VOICE>(VS19_047)There ain't a soul in this town 
+so spineless they'd go runnin' 
+ta you guys fer help.
+
+## POINTER 23
+<STR>(FRE)
+<VOICE>(VS19_048)But!
+
+## POINTER 24
+Don Whitehorse
+<VOICE>(VS19_049)These're the rules of the life we've 
+chosen. It's up to us to make sure 
+those rules don't get broken.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS19_050)Holding to your beliefs no 
+matter what's at stake...<PAGE><VOICE>(VS19_051)So that's what a real 
+guild is like.
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS19_052)Hey, you there! 
+Lead the way.
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VS19_053)I have a name you know!! 
+Wh-where are we going, anyway?
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS19_054)We're going to repair the barrier 
+blastia. If we don't, the city will 
+be overrun with monsters!
+
+## POINTER 29
+<STR>(RIT)
+<VOICE>(VS19_055)You're coming, too!
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS19_056)Guess that's my only option.

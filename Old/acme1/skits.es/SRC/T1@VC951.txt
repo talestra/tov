@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1251927898]
+La colina de Ehmead bloqueada
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266237811]
+(RIT)
+Si la colina de Ehmead está bloqueada, ninguno de
+los que están atrapados en la capital podrá escapar.
+
+## POINTER 2 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267435782]
+(RAV)
+Tienes razón. Y nu creo que les vayan a salir alas.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1266241686]
+(JUD)
+Si el aer que hay sobre la ciudad sigue aumentando,
+todos los seres vivos estarán en peligro.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266237811]
+(KAR)
+Y si dejamos que eso ocurra,
+no podremos acercarnos a la capital.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1266237811]
+(YUR)
+Razón de más para dejar de hablar
+y empezar a ponerse en marcha.

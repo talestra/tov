@@ -1,0 +1,128 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+¡Bienvenidos, bienvenidos!
+Sentíos como en casa.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+<STR>(EST_P)
+Muchas gracias. Por desgracia,
+tenemos que irnos cuanto antes.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+¿Vais a marcharos antes de que
+regrese aquel joven Caballero?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:evilluendas;time:1271937427]
+<STR>(YUR)
+La situación ha cambiado un poco.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273699003]
+¿Ha ocurrido algo?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:parsec;time:1271855480]
+<STR>(YUR)
+Se podría decir que sí.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+Si hay algo que pueda hacer,
+no dudéis en pedírmelo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+<STR>(EST_P)
+Le agradecemos el interés,
+pero no podemos pedirle ayuda.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+Entiendo... Sé que no es mucho,
+pero me gustaría que al menos
+aceptaras esto.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+<STR>(YUR)
+¿Quién, yo?
+Yo no he hecho nada.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+Pero ya que tu amiga
+nos ha ayudado tanto...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:parsec;time:1271960343]
+<STR>(KAR)
+Bueno, a mí no me...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:evilluendas;time:1271940367]
+<STR>(EST_P)
+¡No, no podemos aceptarlo!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+<STR>(KAR)
+Oh. esto...  Sí, creo que
+no podemos... aceptarlo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+¿Cómo os podría
+recompensar, entonces?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764020]
+<STR>(YUR)
+A ver qué te parece esto: la próxima vez
+que volvamos, nos reservarás los asientos donde
+mejor se disfrute de las vistas de la floración.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1273699003]
+<STR>(EST_P)
+¡Qué gran idea!
+Qué ganas de verlo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+Muy bien. ¡Cuando volváis, haré todo lo que
+esté en mi mano para agradeceros por todo
+lo que habéis hecho por nosotros!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764020]
+<STR>(YUR)
+¿Puedo preguntarte una cosa? 
+¿Has oído hablar de una ciudad llamada Aspio?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+¿Aspio? Ah, sí. Creo que
+así es como se llama
+la Ciudad de la Sombra.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:parsec;time:1272039328]
+<STR>(YUR)
+La Ciudad de la Sombra...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1273699003]
+Por lo que he oído, es una ciudad
+rodeada de montañas donde a duras
+penas alcanza la luz del sol.<PAGE>De vez en cuando se acercan a nuestra
+ciudad individuos vestidos con capas
+y capuchas en busca de suministros.<PAGE>Son un poco espeluznantes, la verdad.
+No tratamos mucho con ellos.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+<STR>(YUR)
+¿Dónde se encuentra Aspio?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+Al este, creo. Ojalá pudiera
+decirte la localización exacta...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+<STR>(EST_P)
+<STR>(FRE) había partido en
+dirección este, ¿verdad?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1273698928]
+<STR>(YUR)
+Sí. En fin, era de esperar que una
+«ciudad de los eruditos» tuviera 
+alguna relación con los blastias.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:parsec;time:1272039888]
+<STR>(YUR)
+Gracias, con esto nos vale.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:parsec;time:1272039888]
+<STR>(YUR)
+¡Voy a por ti, Mordio!

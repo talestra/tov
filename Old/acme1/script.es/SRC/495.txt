@@ -1,0 +1,87 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298498994]
+
+<VOICE>(VS51_075)Habéis llegado demasiado lejos.
+¡¡Jamás os dejaremos pasar de aquí!!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298498994]
+<STR>(EST_P)
+<VOICE>(VS51_076)¡La Guardia Real! Eso quiere decir
+que Alexei debe estar ahí delante.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298498994]
+<STR>(YUR)
+<VOICE>(VS51_077)Tiene que ser eso.
+¡Muy bien, chicos! ¡Vamos allá!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(JUD)
+<VOICE>(VS51_078)Casi me dan hasta pena y todo.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(FRE)
+<VOICE>(VS51_079)¡<STR>(YUR)!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(YUR)
+<VOICE>(VS51_080)¡<STR>(FRE)!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(EST_P)
+<VOICE>(VS51_081)¿Estáis todos bien?
+¿Os han estado atacando?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(FRE)
+<VOICE>(VS51_082)Los barcos están amarrados
+a una distancia segura. Tan
+solo hemos venido nosotros.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(JUD)
+<VOICE>(VS51_083)Vais a acabar con Alexei con
+el mínimo de sacrificios posible.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(KAR)
+<VOICE>(VS51_084)En plan misión suicida.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298498994]
+<STR>(RAV)
+<VOICE>(VS51_085)Mu listo. Si hubieseis
+venío y sus hubieran atrapao,
+s'habría acabao lo que se daba.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+Sodia
+<VOICE>(VS51_086)Nosotros nos ocuparemos del resto.
+Vosotros, civiles, retiraos.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(YUR)
+<VOICE>(VS51_087)Tan pizpireta como siempre, ¿eh? 
+Perdona, pero creo que vamos
+a ignorar eso último.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(RIT)
+<VOICE>(VS51_088)Yo creo que deberíamos cooperar,
+pero es solo mi opinión.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(FRE)
+<VOICE>(VS51_089)Tiene razón. Todos hemos
+venido para acabar con Alexei.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(YUR)
+<VOICE>(VS51_090)Bueno, y salvar el mundo
+ya que estamos, ¿no?
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286212921]
+<STR>(FRE)
+<VOICE>(VS51_091)Sí, eso he oído.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298498994]
+<STR>(YUR)
+<VOICE>(VS51_092)Bien entonces. Seamos buenos chicos y
+vamos a darle una buena zurra al tío ese.

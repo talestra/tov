@@ -1,0 +1,107 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272834125]
+
+<VOICE>(VS15_145)Vaya, vaya, ¿qué tenemos aquí?
+Más aperitivos para mis mascotas, al parecer.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272834125]
+<STR>(YUR)
+<VOICE>(VS15_146)Conque tú eres Ragou.
+Tienes unas aficiones
+la mar de asquerosas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239033]
+Ragou
+<VOICE>(VS15_147)¿Aficiones? Oh, debes
+referirte a mi sótano.<PAGE><VOICE>(VS15_148)Solo alguien con un gusto tan refinado
+como el mío podría entender la razón
+por la cual me resultan tan placenteras.<PAGE><VOICE>(VS15_149)Sois como esos vejestorios seniles
+del Consejo. Me aburrían mortalmente
+y no me dejaban disfrutar de ellas.<PAGE><VOICE>(VS15_150)No es sino un privilegio de mi elevada
+posición el que los plebeyos me... ayuden
+a librarme del aburrimiento.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239033]
+<STR>(EST_P)
+<VOICE>(VS15_151)No irá a decir que esa es su
+única razón para hacer tales cosas.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194387]
+Ragou
+<VOICE>(VS15_152)En fin, supongo que debería usaros
+para dar de comer al rhybgaro.<PAGE><VOICE>(VS15_153)Con tantos juguetes nuevos... seguro que ofrece
+un gran espectáculo. Si bien vosotros no viviréis
+lo suficiente como para contemplarlo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194387]
+<STR>(YUR)
+<VOICE>(VS15_154)Es inútil que vayas a buscar al rhybgaro.
+Ya nos hemos encargado de él.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272834125]
+Ragou
+<VOICE>(VS15_155)¿Qué has dicho?...
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272834125]
+<STR>(YUR)
+<VOICE>(VS15_156)¿Estás sordo o qué?
+He dicho que ya nos
+hemos encargado de él.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272834125]
+Ragou
+<VOICE>(VS15_157)Vosotros... ¿Qué le habéis hecho a mi mascota?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239033]
+<STR>(YUR)
+<VOICE>(VS15_158)Deberías haberle puesto un cascabel
+o algo así. Tal vez así no lo
+hubieras perdido.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272834125]
+Ragou
+<VOICE>(VS15_159)Oh, bueno. Con un poco más de dinero,
+no tardaré en reemplazarlo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239033]
+<STR>(EST_P)
+<VOICE>(VS15_160)¡Ragou! ¡¿Cómo puede hablar de tales
+atrocidades y seguir considerándose
+un servidor del Imperio?!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273478018]
+Ragou
+<VOICE>(VS15_161)¿Qué? ¡Vos!...
+¡Es imposible!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239033]
+Ragou
+<VOICE>(VS15_163)¡A-Atrás!
+¡¿Q-Qué intentáis hacer?!<PAGE><VOICE>(VS15_164)¡Que alguien arreste
+a estos intrusos!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239033]
+<STR>(YUR)
+<VOICE>(VS15_165)
+¡Acabaremos rodeados de enemigos
+si no nos damos prisa en acabar
+lo que hemos venido a hacer!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272834125]
+<STR>(YUR)
+<VOICE>(VS15_166)Espera.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239033]
+<STR>(RIT)
+<VOICE>(VS15_167)¿Qué? ¿No teníamos que crear una
+emergencia para que los Caballeros
+pudieran entrar?
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272834125]
+<STR>(YUR)
+<VOICE>(VS15_168)Es demasiado pronto. Primero tenemos
+que encontrar alguna prueba.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272834125]
+<STR>(EST_P)
+<VOICE>(VS15_169)Tenemos que encontrar el blastia
+que controla la meteorología.

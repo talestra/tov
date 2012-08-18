@@ -1,0 +1,95 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(YUR)
+<VOICE>(VS50_116)¿Qué estás haciendo, <STR>(JUD_P)?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(JUD)
+<VOICE>(VS50_117)Intento contactar
+con Phaeroh otra vez.<PAGE><VOICE>(VS50_118)Si Zaude está relacionado con
+la antigua catástrofe, quizá
+Phaeroh sepa algo del tema.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287524132]
+<STR>(YUR)
+<VOICE>(VS50_119)¿No preguntará por <STR>(EST_P)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(JUD)
+<VOICE>(VS50_120)Le diré que parece
+que todo saldrá bien. 
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(YUR)
+<VOICE>(VS50_121)De acuerdo. Gracias.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287524132]
+<STR>(JUD)
+<VOICE>(VS50_122)¿Sabes? La única meta que
+he tenido en mi vida ha sido
+la de destruir blastias hermes.<PAGE><VOICE>(VS50_123)No tenía que pensar en otras cosas mientras lo hacía.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(YUR)
+<VOICE>(VS50_124)¿Otras cosas?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(JUD)
+<VOICE>(VS50_125)Oh... Este mundo, yo, muchas cosas.<PAGE><VOICE>(VS50_126)Si no hubiese conocido a <STR>(EST_P),
+seguramente seguiría volando por ahí
+con Ba'ul, sin pensar en nada.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(YUR)
+<VOICE>(VS50_127)Phaeroh ya te dijo que habías cambiado.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1287524132]
+<STR>(JUD)
+<VOICE>(VS50_128)No me malinterpretes. Le diré
+que <STR>(EST_P) estará bien
+porque lo creo de verdad.<PAGE><VOICE>(VS50_129)No tengo intención de ignorar
+los blastias o el aer.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1285688599]
+<STR>(YUR)
+<VOICE>(VS50_130)¿Eso forma de parte de las
+«muchas cosas» que has dicho antes?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(JUD)
+<VOICE>(VS50_131)...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(YUR)
+<VOICE>(VS50_132)Perdona. Olvida lo que he dicho.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1287524132]
+<STR>(JUD)
+<VOICE>(VS50_133)No mataré a <STR>(EST_P). Ni dejaré
+que la maten. Y tampoco permitiré
+que Alexei continúe con su plan.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(YUR)
+<VOICE>(VS50_134)De acuerdo.<PAGE><VOICE>(VS50_135)Nos vamos mañana
+por la mañana.
+Vuelve para entonces.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(JUD)
+<VOICE>(VS50_136)Entendido.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(YUR)
+<VOICE>(VS50_137)<STR>(JUD_P).
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(JUD)
+<VOICE>(VS50_138)¿Mm?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(YUR)
+<VOICE>(VS50_139)Esta la ganaremos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1285688403]
+<STR>(JUD)
+<VOICE>(VS50_140)Claro.

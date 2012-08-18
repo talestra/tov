@@ -1,0 +1,315 @@
+## POINTER 2340 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261772147]
+Cuerno de insecto
+
+## POINTER 2341 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261772147]
+Cuerno de un insecto molón.
+¡Los de los insectos rey molan todavía más!
+
+## POINTER 2343 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261772147]
+Polvo paralizante
+
+## POINTER 2344 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264195382]
+Polvo peligroso que puede paralizar al inhalarse.
+Se usa a menudo para crear potentes medicinas.
+
+## POINTER 2346 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261772147]
+Pelaje de jabalí
+
+## POINTER 2347 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+La dura piel de un jabalí.
+No sirve para hacer ropas para los humanos
+
+## POINTER 2349 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Tinta negra azabache
+
+## POINTER 2350 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Líquido negro que segregan los moluscos.
+Un buen ingrediente de cocina.
+
+## POINTER 2352 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Pico afilado
+
+## POINTER 2353 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Pico de pájaro extremadamente afilado.
+Puede usarse como arma por sí solo.
+
+## POINTER 2355 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Crin
+
+## POINTER 2356 [t:1;r:1;ru:memnoch;user:memnoch;time:1264195382]
+Crin suave y esponjosa.
+Es muy suave y es perfecta para hacer bufandas.
+
+## POINTER 2358 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Piel de oso
+
+## POINTER 2359 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Pellejo de oso negro.
+Se usa para hacer prendas cálidas en regiones frías.
+
+## POINTER 2361 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Capullo rojo
+
+## POINTER 2362 [t:1;r:1;ru:memnoch;user:memnoch;time:1264195382]
+Capullo de una flor roja. Todavía no está listo
+para florecer, pero dentro tiene un almíbar especial.
+
+## POINTER 2364 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Cola suave
+
+## POINTER 2365 [t:1;r:1;ru:memnoch;user:memnoch;time:1264195382]
+Cola larga y flexible que no contiene ningún hueso.
+
+## POINTER 2367 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Aceite de sapo
+
+## POINTER 2368 [t:1;r:1;ru:memnoch;user:memnoch;time:1264195382]
+Aceite obtenido de monstruos anfibios. Muy útil
+como lubricante, pero desprende un ligero hedor.
+
+## POINTER 2370 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Daga rota
+
+## POINTER 2371 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Parte de una daga rota durante un combate.
+Sigue afilada y es peligroso dejarla por ahí.
+
+## POINTER 2373 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1262066117]
+Cuerno de rinoceronte
+
+## POINTER 2374 [t:1;r:1;ru:memnoch;user:memnoch;time:1264195382]
+Un liviano pero sólido cuerno recogido de un monstruo
+tipo rinoceronte. Es útil por su ligereza.
+
+## POINTER 2376 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Cuero duro
+
+## POINTER 2377 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Un trozo muy duro de cuero. ¿Cómo pueden
+moverse esas criaturas teniendo una piel así?
+
+## POINTER 2379 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Caparazón de cangrejo
+
+## POINTER 2380 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+El caparazón exterior de un cangrejo gigante.
+Parecen las sobras de una comida.
+
+## POINTER 2382 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Parra fuerte
+
+## POINTER 2383 [t:1;r:1;ru:memnoch;user:memnoch;time:1264195382]
+Esta parra no se rompe nunca por mucha fuerza
+que se le aplique. No pegues latigazos con esto.
+
+## POINTER 2385 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Pezuña
+
+## POINTER 2386 [t:1;r:1;ru:memnoch;user:memnoch;time:1264195382]
+Pezuña obtenida de un monstruo tipo equino.
+Las pezuñas tienen forma de «U».
+
+## POINTER 2388 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Agárico aérico
+
+## POINTER 2389 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Hongo que se alimenta de aer para crecer.
+Si se come provoca fuertes alucinaciones.
+
+## POINTER 2391 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Hueso de demonio
+
+## POINTER 2392 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Hueso de tamaño considerable. Es relativamente
+más débil que los huesos humanos o los de animal.
+
+## POINTER 2394 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Agua de Caballero
+
+## POINTER 2395 [t:1;r:1;ru:memnoch;user:memnoch;time:1264195382]
+Agua que los Caballeros usan para limpiarse
+durante una peregrinación. No es bebestible.
+
+## POINTER 2397 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261772147]
+Agua sagrada de Caballero
+
+## POINTER 2398 [t:1;r:1;ru:memnoch;user:memnoch;time:1264195382]
+Agua sagrada de Caballero que solo se usa
+en ceremonias especiales.
+
+## POINTER 2400 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Empuñadura de hierro
+
+## POINTER 2401 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Probablemente de una espada.
+Tal como está no sirve como arma.
+
+## POINTER 2403 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Punta de hierro
+
+## POINTER 2404 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Se usa como punta de lanza y de flecha.
+En tiempos de guerra le impregnaban veneno. Qué miedo...
+
+## POINTER 2406 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Poción cazadora
+
+## POINTER 2407 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Poción de fuertes efectos estimuladores.
+Se usa para vencer el miedo al luchar contra monstruos.
+
+## POINTER 2409 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Orbe poderoso
+
+## POINTER 2410 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Se sabe poco de este orbe, pero se dice que tiene enormes poderes mágicos.
+Se usa como catalizador para mejorar la magia física.
+
+## POINTER 2412 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Lentes rojas
+
+## POINTER 2413 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1261820455]
+Lentes que llevan equipadas los miembros de la
+Garra del Leviatán. ¿Cómo pueden ver con ellas?
+
+## POINTER 2415 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Tela mística
+
+## POINTER 2416 [t:1;r:1;ru:memnoch;user:memnoch;time:1264195382]
+Nadie sabe quién hizo esta tela,
+ni cómo se tejió, ni de qué material está hecha.
+
+## POINTER 2418 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Punta de flecha de acero
+
+## POINTER 2419 [t:1;r:1;ru:memnoch;user:memnoch;time:1264215437]
+Punta de flecha hecha de acero.
+Está tan afilada que puede usarse como arma tal cual.
+
+## POINTER 2421 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Página de grimorio
+
+## POINTER 2422 [t:1;r:1;ru:memnoch;user:memnoch;time:1264215437]
+La página de un grimorio. Se usa como catalizador.
+¿Esto no es peligroso?
+
+## POINTER 2424 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264073351]
+Hoja de filifolia
+
+## POINTER 2425 [t:1;r:1;ru:memnoch;user:memnoch;time:1264215437]
+Un hoja de filifolia. Igual que una hoja normal,
+pero la savia es diferente.
+
+## POINTER 2427 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1262122189]
+Pelusa
+
+## POINTER 2428 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1262122189]
+Una sedosa pelusa que era originalmente parte
+de una semilla. Se usa para ropa de cama.
+
+## POINTER 2430 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1262122189]
+Fruto de filifolia
+
+## POINTER 2431 [t:1;r:1;ru:memnoch;user:memnoch;time:1264215437]
+Un fruto de filifolia usado en la reproducción.
+Crecerá una nueva filifolia una vez plantado.
+
+## POINTER 2433 [t:1;r:2;ru:googol,memnoch;user:memnoch;time:1263043443]
+Flor de ent
+
+## POINTER 2434 [t:1;r:2;ru:googol,memnoch;user:memnoch;time:1263043443]
+Una flor que florece como un ent. Contiene aer
+y se suele usar para equipamiento mágico.
+
+## POINTER 2436 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Piedra helada
+
+## POINTER 2437 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+No es hielo, pero sí una piedra que se queda fría.
+Puede congelar si se sostiene durante mucho tiempo.
+
+## POINTER 2439 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1262066053]
+Polvo de hongo MX
+
+## POINTER 2440 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1262122232]
+Un polvo concentrado de hongo.
+Está cercano a su forma sólida.
+
+## POINTER 2442 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Tinta negro profundo
+
+## POINTER 2443 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+El color es más oscuro que el de la tinta normal.
+Es de un negro casi puro y es un pigmento muy preciado.
+
+## POINTER 2445 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Agujas de cactus
+
+## POINTER 2446 [t:1;r:1;ru:memnoch;user:memnoch;time:1264215437]
+Agujas afiladas de un cactus. Hacen daño solo con tocarlas.
+Lo último que querrías sería pincharte un dedo con ellas.
+
+## POINTER 2448 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Rosa
+
+## POINTER 2449 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Una rosa preciosa. Cuando se baña en aer,
+su sustancia cambia y se vuelve sólida.
+
+## POINTER 2451 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1262066100]
+Alaoreja de conejo
+
+## POINTER 2452 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Obtenida de un conejo que usa sus orejas como alas.
+Son más largas que las de un conejo normal y tienen magia flotante.
+
+## POINTER 2454 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Piedra llameante
+
+## POINTER 2455 [t:1;r:1;ru:memnoch;user:memnoch;time:1264215437]
+Una piedra que no se enfría nunca.
+Su temperatura es la justa para no provocar quemaduras.
+
+## POINTER 2457 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Ala abanico
+
+## POINTER 2458 [t:1;r:1;ru:memnoch;user:memnoch;time:1264215437]
+Ala con la forma de un abanico de papel.
+Es suave y dan ganas de abofetear a alguien con ella.
+
+## POINTER 2460 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1262066350]
+Picoclarín
+
+## POINTER 2461 [t:1;r:1;ru:memnoch;user:memnoch;time:1297190063]
+Pico en forma de trompeta que no emite ningún sonido.
+
+## POINTER 2463 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Pico martillo
+
+## POINTER 2464 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Pico en forma de martillo.
+Emite un pitido extraño cuando golpea.
+
+## POINTER 2466 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Ala de murciélago
+
+## POINTER 2467 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Un par de alas de murciélago. A pesar de su aspecto,
+en algunas regiones las usan para alejar el mal.
+
+## POINTER 2469 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Cola de tortuga
+
+## POINTER 2470 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Cola de una tortuga que normalmente está oculta
+bajo la concha. Pesa más de lo que aparenta.
+
+## POINTER 2472 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Cristal
+
+## POINTER 2473 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Emite electricidad cuando se le aplica presión.
+Se usa para muchas cosas.
+
+## POINTER 2475 [t:1;r:2;ru:googol,memnoch;user:xander;time:1261773942]
+Tela de araña

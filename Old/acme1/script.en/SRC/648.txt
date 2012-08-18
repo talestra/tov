@@ -1,0 +1,103 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VA050_022)...Someone's here...
+
+## POINTER 1
+
+<VOICE>(VA050_023)Traces left behind by the flow of aer...<PAGE><VOICE>(VA050_024)But where is it flowing...?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VA050_025)That monster sucked 
+all of it up.
+
+## POINTER 3
+
+<VOICE>(VA050_026)...Monster...?
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VA050_027)Yeah, that big, rough, spiky, 
+huuuuge monster...
+
+## POINTER 5
+
+<VOICE>(VA050_028)So... He was here 
+after all...
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VA050_029)He? You mean the monster?
+
+## POINTER 7
+
+<VOICE>(VA050_030)"Monster"...<PAGE><VOICE>(VA050_031)...It matters not what humans 
+call them, but...<PAGE><VOICE>(VA050_032)Such a name does them a disservice.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VA050_033)So...that wasn't 
+a monster?
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VA050_034)Just what makes something a monster, anyway?
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VA050_035)We call any creature 
+that viciously attacks 
+humans a monster...
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VA050_036)So that would mean that 
+thing's a monster, right?
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VA050_037)...Huh... But the kid 
+just gave us the human 
+point of view.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VA050_038)You mean we just lump them all together as 
+monsters, but there might be more to it?
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VA050_039)...What do you think that 
+guy was up to...?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VA050_040)Got me. Besides, we 
+got enough to think 
+about as it is.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VA050_041)You're right.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VA050_042)We met him earlier at Deidon 
+Hold, didn't we <STR>(YUR)?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VA050_043)I can't figure him out.
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VA050_043)I can't figure him out.
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VA050_044)Well, whatever, he's got nothing 
+to do with us, anyway.
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VA050_045)Y-yeah, I guess...

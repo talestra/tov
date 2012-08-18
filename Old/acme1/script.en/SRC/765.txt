@@ -1,0 +1,124 @@
+## POINTER 0
+
+How strange...
+
+## POINTER 1
+<STR>(EST_P)
+What's the matter?
+
+## POINTER 2
+
+The shaggothim flowers are only supposed 
+to open during the rainy season, and yet, 
+look! They're already in full bloom!
+
+## POINTER 3
+<STR>(YUR)
+That sounds pretty weird...
+
+## POINTER 4
+
+I know, right? I wonder if someone's 
+been coming here and watering 
+the ground, or something...
+
+## POINTER 5
+<STR>(EST_P)
+Would just that be enough to 
+make these flowers bloom?
+
+## POINTER 6
+<STR>(RIT)
+Another cause for flowers blooming early 
+could be an imbalance in the aer.
+
+## POINTER 7
+<STR>(RAV)
+So you're sayin' that this place...?
+
+## POINTER 8
+<STR>(RIT)
+It's okay. Even if my guess is right, 
+this level of aer imbalance can 
+occasionally be found in nature.<PAGE>Plants are simply more sensitive to 
+changes in the surrounding aer than 
+humans, and they're reacting to that.
+
+## POINTER 9
+<STR>(RAV)
+We wouldn't wanna have what happened 
+in Heliord happenin' here...
+
+## POINTER 10
+<STR>(YUR)
+......
+
+## POINTER 11
+<STR>(YUR)
+What the... <STR>(JUD_P)...?
+
+## POINTER 12
+
+Waaah! The warehouse's 
+aero blastia is...!
+
+## POINTER 13
+<STR>(RIT)
+I can't believe that dragon freak would 
+do this again...! I'm going to go see...!
+
+## POINTER 14
+<STR>(EST_P)
+Oh, <STR>(RIT)...!
+
+## POINTER 15
+<STR>(YUR)
+Dragon freak, huh...
+
+## POINTER 16
+<STR>(JUD)
+What's all this commotion about?
+
+## POINTER 17
+<STR>(YUR)
+Huh? It wasn't 
+you?
+
+## POINTER 18
+<STR>(JUD)
+I plead the 
+fifth.
+
+## POINTER 19
+<STR>(YUR)
+......
+
+## POINTER 20
+<STR>(RIT)
+It was terrible... There was 
+nothing left for me to fix.
+
+## POINTER 21
+<STR>(YUR)
+I'm sorry for your...loss.
+
+## POINTER 22
+<STR>(RIT)
+Urgh... The next time I see that freak, 
+I'm going to punch him into the stratosphere!! 
+Stupid dragon freak!
+
+## POINTER 23
+<STR>(RAV)
+Whoa, scary.
+
+## POINTER 24
+<STR>(YUR)
+I don't know what you're 
+trying to do, but...
+
+## POINTER 25
+<STR>(JUD)
+It's not causing any of 
+you any trouble, is it?<PAGE>I already told you.<PAGE>I'm not going to do anything that 
+would cause any of you harm.

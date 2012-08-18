@@ -1,0 +1,165 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(EST_P)
+<VOICE>(VS64_199)Ya casi es la hora.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_200)Ya. Me pongo a pensar en ello
+y luego soy incapaz de dormir.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287914547]
+<STR>(EST_P)
+<VOICE>(VS64_201)¿Tú también
+te pones así?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_202)Lo dices como si estuviera
+hecho de hierro o algo.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(EST_P)
+<VOICE>(VS64_203)¿Te importa si me siento a tu lado?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289835168]
+<STR>(EST_P)
+<VOICE>(VS64_204)Gracias... Je, je, se está calentito.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(EST_P)
+<VOICE>(VS64_205)Mañana nos enfrentaremos al adephagos.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_206)Resulta irónico que vayamos
+a usar las investigaciones
+de Alexei para combatirlo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1290154253]
+<STR>(EST_P)
+<VOICE>(VS64_207)Si tan solo las hubiera
+hecho pensando en los demás...
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_208)Ya. Pero fue decisión
+suya. Nosotros no podemos
+hacer nada al respecto.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291233244]
+<STR>(EST_P)
+<VOICE>(VS64_209)Decisiones... Tú siempre has tomado
+las tuyas propias, ¿verdad?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289835168]
+<STR>(YUR)
+<VOICE>(VS64_210)Pensé que si alguien
+debía decidir, podría
+ser yo mismo.<PAGE><VOICE>(VS64_211)Y no sabré si he tomado las elecciones
+correctas hasta el final.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1291328017]
+<STR>(EST_P)
+<VOICE>(VS64_212)Pero... eso es maravilloso.
+Tomar decisiones es muy difícil.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_213)Tú también las has tomado.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(EST_P)
+<VOICE>(VS64_214)Creo que lo he descubierto
+viajando con vosotros.<PAGE><VOICE>(VS64_215)Vivir significa
+decidir...<PAGE><VOICE>(VS64_216)y tener la resolución
+de tomar esas decisiones.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_217)Creo que te pasas un poco.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(EST_P)
+<VOICE>(VS64_218)Siempre me había limitado a cumplir
+el papel que se me daba.<PAGE><VOICE>(VS64_219)Me hacía feliz curar a la gente
+y que me dieran las gracias.<PAGE><VOICE>(VS64_220)Pero después descubrí que
+mi poder envenenaba el mundo...<PAGE><VOICE>(VS64_221)Siempre había alguien que me utilizaba.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289835316]
+<STR>(YUR)
+<VOICE>(VS64_222)¿Y ahora?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581348]
+<STR>(EST_P)
+<VOICE>(VS64_223)No... no lo sé.<PAGE><VOICE>(VS64_224)Pero... creo que estoy aquí,
+haciendo lo que hago, porque
+es lo que he elegido. Lo que deseo.<PAGE><VOICE>(VS64_225)Me alegro de haber podido
+hacer este viaje contigo, <STR>(YUR).
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_226)Yo también.<PAGE><VOICE>(VS64_227)No estaba muy seguro de lo
+que ocurriría cuando me pediste
+que te sacara del castillo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581348]
+<STR>(EST_P)
+<VOICE>(VS64_228)Me lo imagino.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_229)Me gusta viajar. Conocer a gente distinta
+y vivir distintas experiencias.<PAGE><VOICE>(VS64_230)Hemos viajado por todo el mundo,
+pero nunca me he cansado de ello.
+Supongo que es algo que va conmigo.<PAGE><VOICE>(VS64_231)Y creo que seguiré yendo por ahí.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(EST_P)
+<VOICE>(VS64_232)Y seguirás ayudando
+a los necesitados.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1291233244]
+<STR>(YUR)
+<VOICE>(VS64_233)Ja, ja, ja.<PAGE><VOICE>(VS64_234)Puede que haya por ahí
+alguna princesita marimacho
+perseguida por un monstruo maligno.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289835316]
+<STR>(EST_P)
+<VOICE>(VS64_235)Serás malo...
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_236)Ja, ja, ja.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581348]
+<STR>(EST_P)
+<VOICE>(VS64_237)Es extraño, pero ahora mismo...
+no siento miedo en absoluto.<PAGE><VOICE>(VS64_238)Como mucho, la idea de que un mundo
+nuevo está a punto de nacer es...
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_239)El adephagos no
+acabará con nosotros.
+Seguiremos viviendo.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(EST_P)
+<VOICE>(VS64_240)Y podré estar
+con todos vosotros...
+y contigo.
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_241)Gracias. Yo siento lo mismo.
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(YUR)
+<VOICE>(VS64_242)Acabemos con esto, y después
+sigamos viviendo en un futuro
+que nosotros elijamos.
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287569183]
+<STR>(EST_P)
+<VOICE>(VS64_243)¡Vale!

@@ -1,0 +1,142 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1280425218]
+<STR>(EST_P)
+Ioder, tengo que
+pediros un favor. 
+
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1280425218]
+Ioder
+¿Es sobre el orfanato 
+del puerto Torim?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1280426242]
+<STR>(EST_P)
+Sí... ¿Acaso os lo ha
+contado mi maestro?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+Ioder
+Así es. Vino a verme
+hace poco y lo comentamos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+Ioder
+Una investigación más exhaustiva ha revelado
+que los recientes desastres ha aumentado
+el número de huérfanos en muchas ciudades.<PAGE>Hemos discutido el problema y he decidido que parte del sueldo
+de los miembros del Consejo y los Caballeros Imperiales
+sea donado a esas ciudades para ayudar a los huérfanos.<PAGE>Eso incluye el orfanato 
+de Puerto Torim, por supuesto.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+<STR>(KAR)
+¿Todo el Consejo y los
+Caballeros Imperiales
+están de acuerdo con eso?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+Ioder
+Solo aquellos que han dado su consentimiento
+tendrán que donar parte de sus ingresos.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+<STR>(YUR)
+Así que aceptáis esta medida y os sacrificáis
+para mejorar vuestra imagen. ¿No es así?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294373470]
+<STR>(RIT)
+Además, el Consejo y los Caballeros
+Imperiales están en plena disputa.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+<STR>(JUD)
+¡Es más astuto
+de lo que parece!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294373470]
+Ioder
+Esa nunca fue mi intención,
+aunque se lo parezca a algunos.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+Ioder
+Ahora que lo pienso, <STR>(EST),
+hay que algo que quería daros.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:miyu;time:1280426786]
+<STR>(EST_P)
+¿Algo para mí?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+<STR>(EST_P)
+La insignia del vice emperador...
+La Vara azul cristal.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+<STR>(KAR)
+¿La insignia del vice emperador?
+¿Qué es un vice emperador?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+<STR>(EST_P)
+Es quien sirve como segundo al mando,
+y tiene casi tanta autoridad
+como el propio emperador.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294373470]
+<STR>(EST_P)
+La Vara azul cristal es un tesoro
+muy apreciado de la familia imperial,
+aunque no tanto como la Dein Nomos.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+<STR>(EST_P)
+Pero el cargo de vice emperador
+solo es temporal, y tampoco es
+un nombramiento oficial...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294373470]
+Ioder
+En tiempos como estos nos
+vendría bien toda la ayuda
+para apoyar al Imperio.<PAGE>Y necesito la vuestra, <STR>(EST).
+¿Me haríais este favor?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+<STR>(EST_P)
+Pero... tengo que
+seguir viajando
+con mis amigos...<PAGE>No, no tengo que... Quiero hacerlo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294373470]
+Ioder
+Lo comprendo.<PAGE>
+Pero no estaríais confinada en el trono imperial,
+sino que podríais viajar por todo el mundo
+y aconsejarme según vuestras experiencias.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+<STR>(RIT)
+No veo por qué
+no deberías aceptar.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294373470]
+<STR>(KAR)
+No sé muy bien qué implicaría,
+pero si podemos seguir viajando
+juntos, no suena tan mal, ¿no?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1294372929]
+<STR>(EST_P)
+Entonces, ¡acepto encantada!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:miyu;time:1280427612]
+Ioder
+¡Muchas gracias!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1294373470]
+Ioder
+La Vara azul cristal 
+destruye todo mal. Espero
+que os sea de utilidad.

@@ -1,0 +1,66 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221116]
+Casi terminado
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221116]
+(EST_P)
+Oye, (RIT). Échale un vistazo a esto.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221116]
+(RIT)
+¿Eh? Oh, es el Libro del coleccionista.
+Vamos a ver...
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221116]
+(EST_P)
+...
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221116]
+(RIT)
+Mmmm... Has hecho un buen trabajo hasta
+ahora. Has apuntado incluso las pequeñas
+diferencias entre las armas...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130286]
+(EST_P)
+¡¡Lo... lo he conseguido!!
+Bueno, (RIT), ¿lo vas a hacer?
+¿Vas a comerte tus palabras?
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221116]
+(RIT)
+Err... Sabes que es una forma de
+hablar, ¿verdad? Y además...
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221116]
+(EST_P)
+¿Además?
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221116]
+(RIT)
+Lo has hecho pero que muy bien,
+pero todavía te falta un poco.
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221116]
+(RIT)
+Todavía se me ocurren unos cuantos
+objetos que no están aquí.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130301]
+(EST_P)
+¿E-En serio?... Si aún hay objetos
+que conozcas, ¡apúntalos, por favor!
+
+## POINTER 11 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221116]
+(RIT)
+No seas idiota, si es por tu
+propio bien. Además, quedan
+muy poquitos. ¡Ánimo!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130286]
+(EST_P)
+Ugh... D-De acuerdo...
+¡Lo haré lo mejor que pueda!
+
+## POINTER 13 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221116]
+(YUR)
+¿De verdad que es por su propio bien?

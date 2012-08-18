@@ -1,0 +1,105 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS55_500)Ohhhh it's cold, cold, cold! 
+So cold cold cold cold cold...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS55_501)So? What are you 
+gonna do at the 
+aer krene?
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS55_502)I'm going to use the 
+energy to make an 
+aer converter.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS55_503)An aer...converter?
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS55_504)My plan is to efficiently convert 
+the aer into matter, decreasing 
+the overall amount of aer.<PAGE><VOICE>(VS55_505)But for that, it's ideal to have 
+the converter use energy 
+similar to both aer and matter.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS55_506)How's that energy 
+different from aer?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS55_507)Elementally-separated aer 
+transitions into matter in stages, 
+and eventually becomes stable.<PAGE><VOICE>(VS55_508)I'm going to stop its transition 
+between the two states and 
+develop a converter formula.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS55_509)So it won't be aer or matter?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS55_510)It's a state that's closer 
+to matter than to aer, 
+but it's still not quite matter.<PAGE><VOICE>(VS55_511)We call it "mana."
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS55_512)Mana...
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS55_513)It actually has a really 
+long, complicated name. 
+But mana's good enough.<PAGE><VOICE>(VS55_514)But it'll still be less stable than 
+actual matter, so we'll need 
+something to act as a core.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS55_515)The apatheia...
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS55_516)And a lot of aer and 
+<STR>(EST_P)'s power to 
+recombine the formula.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS55_517)Using my power without the 
+control formula will unbalance 
+the aer. It'll just flood out again...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS55_518)But we can't just sit here 
+and ignore that thing.<PAGE><VOICE>(VS55_519)And...
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS55_520)Yeah?
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS55_521)It's a bet I'm willing to take.
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS55_522)I guess I should be 
+the one trying to 
+stop you, but...<PAGE><VOICE>(VS55_523)I'm game to get in 
+on this bet too.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS55_524)The theory is correct. 
+It'll be okay.<PAGE><VOICE>(VS55_525)So let's go to 
+the aer krene.

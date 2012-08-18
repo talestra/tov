@@ -1,0 +1,303 @@
+## POINTER 100
+<06>(RBD)Confirm　<06>(RBR)Return
+
+## POINTER 101
+<06>(RBD)Confirm　<06>(RBR)Return
+
+## POINTER 102
+<06>(RBD)Switch member　<06>(RBL)Change leader
+
+## POINTER 103
+ARTES
+
+## POINTER 104
+EQUIP.
+
+## POINTER 105
+ITEMS
+
+## POINTER 106
+SKILLS
+
+## POINTER 107
+ORDERS
+
+## POINTER 108
+STRATEGY
+
+## POINTER 109
+FORMATION
+
+## POINTER 110
+COOKING
+
+## POINTER 111
+STATUS
+
+## POINTER 112
+LIBRARY
+
+## POINTER 113
+SYSTEM
+
+## POINTER 114
+MONSTER BOOK
+
+## POINTER 115
+COLLECTOR'S BOOK
+
+## POINTER 116
+CHARACTER BOOK
+
+## POINTER 117
+SYNOPSIS
+
+## POINTER 118
+ABORT
+
+## POINTER 119
+SAVE
+
+## POINTER 120
+LOAD
+
+## POINTER 121
+CONFIGS
+
+## POINTER 122
+RECORDS
+
+## POINTER 123
+WORLD MAP
+
+## POINTER 124
+BATTLE BOOK
+
+## POINTER 125
+BUY
+
+## POINTER 126
+SELL
+
+## POINTER 127
+SYNTHESIS
+
+## POINTER 128
+EMPTY
+
+## POINTER 129
+CORRUPT
+
+## POINTER 130
+Yes
+
+## POINTER 131
+No
+
+## POINTER 132
+Saving...
+Please do not turn off the Xbox 360 console or
+remove the storage device.
+
+## POINTER 133
+Saving game data.
+Proceed?
+
+## POINTER 134
+You will lose any 
+unsaved progress. 
+Are you sure you want to load?
+
+## POINTER 135
+Save Failed!Please try the process again.
+
+## POINTER 136
+Process Successfully Completed!
+
+## POINTER 137
+Proceed?
+
+## POINTER 138
+Loading...
+Please do not remove the storage device
+or turn off your Xbox 360 console.
+
+## POINTER 139
+DATE
+
+## POINTER 140
+GALD
+
+## POINTER 141
+PLACE
+
+## POINTER 142
+MAX HIT
+
+## POINTER 143
+COMMENT
+
+## POINTER 144
+ABORT
+
+## POINTER 145
+TIME
+
+## POINTER 146
+COLLECTOR'S BOOK
+
+## POINTER 147
+Drop by
+
+## POINTER 148
+Steal from
+
+## POINTER 149
+Available at
+
+## POINTER 150
+Memo
+
+## POINTER 151
+<06>(RBD)Confirm　<06>(RBR)Return
+
+## POINTER 152
+<06>(RBL)Material info. <06>(RBU)Skill info. <06>(R3)Synthesis <06>(L2)<06>(R2)Category <06>(L1)<06>(R1)Filter <06>(STA)Details
+
+## POINTER 153
+<06>(RBL)Material info. <06>(RBU)Skill info. <06>(L2)<06>(R2)Category <06>(L1)<06>(R1)Filter <06>(STA)Details
+
+## POINTER 154
+<06>(RBL)Material info. <06>(RBU)Skill info. <06>(L2)<06>(R2)Category <06>(L1)<06>(R1)Filter <06>(STA)Details
+
+## POINTER 155
+<06>(RBR)Return
+
+## POINTER 156
+<06>(RBL) Remove
+
+## POINTER 157
+<06>(L2)<06>(R2)Switch
+
+## POINTER 158
+E
+
+## POINTER 159
+Synthesis skill
+
+## POINTER 160
+Ingredients
+
+## POINTER 161
+EFFECT
+
+## POINTER 162
+Successfully cooked <0B>(0)!
+
+## POINTER 163
+Created <0B>(1) recipe!
+
+## POINTER 164
+HP <0B>(0)％
+
+## POINTER 165
+TP <0B>(1)％
+
+## POINTER 166
+Available skill: <0B>(2)
+
+## POINTER 167
+Cooking Shortcuts
+
+## POINTER 168
+The party is full.
+
+## POINTER 169
+Unable to battle.
+
+## POINTER 170
+LIBRARY
+
+## POINTER 171
+Save & Load
+
+## POINTER 172
+Save data.
+
+## POINTER 173
+Load data.
+
+## POINTER 174
+Display Collector's Book.
+
+## POINTER 175
+Display Monster Book.
+
+## POINTER 176
+Display Synopsis.
+
+## POINTER 177
+Escape.
+
+## POINTER 178
+TARGET: <0B>(0)P
+
+## POINTER 179
+Skill (Debug)
+
+## POINTER 180
+Item
+
+## POINTER 181
+Main
+
+## POINTER 182
+Sub
+
+## POINTER 183
+Head
+
+## POINTER 184
+Body
+
+## POINTER 185
+Accessories
+
+## POINTER 186
+Food
+
+## POINTER 187
+Synthesis materials
+
+## POINTER 188
+Valuables
+
+## POINTER 189
+Item Types
+
+## POINTER 190
+No Settings
+
+## POINTER 191
+Order in ID
+
+## POINTER 192
+ENCOUNTERS
+
+## POINTER 193
+None
+
+## POINTER 194
+P. ATK
+
+## POINTER 195
+P. DEF
+
+## POINTER 196
+M. ATK
+
+## POINTER 197
+M. DEF
+
+## POINTER 198
+AGL

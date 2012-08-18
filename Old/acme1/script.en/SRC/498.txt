@@ -1,0 +1,135 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS52_001)Ooh...aah...aah...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS52_002)My room...? 
+Why...?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS52_003)...Didn't think she hated me this much.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS52_004)Arg...
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS52_005)Huh...? The Child of the Full Moon?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS52_006)...The leaders of the ancients possessed 
+an innate power, and were called 
+the Children of the Full Moon.<PAGE><VOICE>(VS52_007)The Shrine of Zaude received their lives and power.
+It sealed the Adephagos away, saving the world.
+
+## POINTER 6
+Duke
+<VOICE>(VS52_008)You have awakened.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS52_009)Duke... So it was 
+you who saved me.
+
+## POINTER 8
+Duke
+<VOICE>(VS52_010)I couldn't afford to have this 
+sword lost to the sea forever.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS52_011)Okay... I still owe 
+you my thanks.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS52_012)So the Shrine of Zaude was 
+powered by the lives of the 
+Children of the Full Moon?
+
+## POINTER 11
+Duke
+<VOICE>(VS52_013)Humans brought forth the 
+Adephagos, and lead it.<PAGE><VOICE>(VS52_014)Consider it...atonement.
+
+## POINTER 12
+Duke
+<VOICE>(VS52_015)The few remaining Children of the Full 
+Moon, together with the Entelexeia, 
+decided on how the world would be.<PAGE><VOICE>(VS52_016)The Imperial family are their descendants.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS52_017)So that's how the Empire started.<PAGE><VOICE>(VS52_018)And that's why that sword--the key to 
+Zaude--will prove a true emperor.
+
+## POINTER 14
+Duke
+<VOICE>(VS52_019)As long as aer is used, no one 
+can oppose the Adephagos.<PAGE><VOICE>(VS52_020)For it is born 
+of aer itself.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS52_021)...You wanted to stop 
+the Adephagos, too.<PAGE><VOICE>(VS52_022)That's why you were going around 
+calming all the aer krene, right?
+
+## POINTER 16
+Duke
+<VOICE>(VS52_023)Correct.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS52_024)Why didn't you ask for help from 
+the empire or the guilds?<PAGE><VOICE>(VS52_025)You could have stopped 
+Alexei if you'd 
+done that.
+
+## POINTER 18
+Duke
+<VOICE>(VS52_026)I have aligned myself with the Entelexeia. I have 
+no intention of coexisting with humanity.<PAGE><VOICE>(VS52_027)What's more, the masses of humanity 
+will never come to any accord.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS52_028)So what are you trying to do?<PAGE><VOICE>(VS52_029)The Adephagos was too much even 
+for that ancient civilization.
+
+## POINTER 20
+Duke
+<VOICE>(VS52_030)There is a way.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS52_031)You say you despise humanity, but 
+what about us? Aren't we human?<PAGE><VOICE>(VS52_032)Why did you give me Dein Nomos? 
+Why did you cooperate?
+
+## POINTER 22
+Duke
+<VOICE>(VS52_033)You were the only ones who even attempted 
+to communicate with the Entelexeia.<PAGE><VOICE>(VS52_034)That is why... Nevermind. 
+It is done.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS52_035)...Wait, what are you going to do?
+
+## POINTER 24
+Duke
+<VOICE>(VS52_036)I will protect our world--our 
+Terca Lumireis.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS52_037)Hold on... Argh.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS52_038)Damn it...

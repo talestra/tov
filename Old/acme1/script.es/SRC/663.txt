@@ -1,0 +1,149 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1272140395]
+
+Ah, habéis vuelto.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1272140395]
+<STR>(YUR)
+Hola de nuevo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+<STR>(JUD)
+¿Por qué está el mural
+escondido, patriarca?<PAGE>¿No forma parte del legado de nuestros
+ancestros? ¿Acaso no es importante
+que todos lo conozcan?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+Somos una raza que renunció a los blastias para no
+cometer los mismos errores que nuestros ancestros.<PAGE>Por eso se nos legó este mural, para que 
+las generaciones futuras supieran lo nefastas
+que fueron las consecuencias de esos errores.
+<PAGE>Sin embargo, nuestros antepasados temían que
+este mural trajera confusión a nuestros hermanos,
+y decidieron esconderlo en esta pared.<PAGE>Los únicos que sabemos la verdad somos los
+que hemos transmitido el legado de los krityanos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1272472165]
+<STR>(JUD)
+¿En serio?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+
+Sí... Pero ahora que lo pienso,  quizá
+fue un error mantenerlo en secreto.
+<PAGE>Debimos habérselo contado a los demás
+y haber trabajado juntos para encontrar
+un modo de luchar contra el adephagos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+<STR>(EST_P)
+¡Pero... aún no
+es demasiado tarde!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+
+Gracias por los ánimos,
+señorita de la tierra.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+
+¡Hola! ¿Vais a venir
+vosotros todos?
+<PAGE>Ah... ¿Qué hace aquí esta pintura?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+
+Oh... Verás, este mural... es
+un legado de nuestros ancestros.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+
+Holaaa. Espero
+no llegar tarde...
+Eh, ¿qué es esto?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+
+Es esa cosa que está flotando en el cielo.
+¡Mirad, todos lo están atacando!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+
+¡Los krityanos hasta llevan lanzas!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+
+¡Guau, cómo mola!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+
+Así es, jovencito.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+<STR>(YUR)
+¿Seguro que has hecho bien? 
+Creía que no querías que lo supieran.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:miyu;time:1272140395]
+<STR>(JUD)
+No creo que sea para tanto. Mirad, 
+nadie parece preocupado por ello.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:miyu;time:1272140395]
+<STR>(YUR)
+Si tú lo dices...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855716]
+¿Cómo pudo quedarse algo tan 
+molón para usted solo, patriarca? 
+¡No es justo!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+
+Lo siento, pequeño, pero mi abuelo
+me pidió que lo cuidara muy bien.<PAGE>No me pareció buena idea dejarlo
+fuera, así que lo escondí.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+<STR>(JUD)
+Ah, lo que
+yo pensaba.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:miyu;time:1272472165]
+<STR>(EST_P)
+¿Y qué hay de mis palabras de ánimo?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:miyu;time:1272140395]
+
+¡Los krityanos también 
+lucharon contra el monstruo!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:miyu;time:1272140395]
+
+¡Y acabaron con él!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:miyu;time:1272140395]
+
+¡Nosotros también tenemos que ser valientes!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+<STR>(JUD)
+Entiendo que tengan dudas. Esto va en
+contra de los principios de los krityanos.
+<PAGE>Yo no era como el resto de mi gente. 
+Esa fue la razón por la que me fui
+de esta ciudad.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189572]
+
+¡Bien, que empiece la reunión! Tenemos que decidir
+qué medidas vamos a tomar contra ese monstruo.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:miyu;time:1272472165]
+
+Entonces, si me 
+disculpáis...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:miyu;time:1272140395]
+<STR>(YUR)
+Oh, claro, ya nos vamos.

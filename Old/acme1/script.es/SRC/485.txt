@@ -1,0 +1,126 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1285515255]
+<STR>(YUR)
+<VOICE>(VS50_087)¿Qué pasa, <STR>(KAR)?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+<STR>(KAR)
+<VOICE>(VS50_088)Oh, <STR>(YUR). Mira esto.
+¡Está como nuevo!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+<STR>(YUR)
+<VOICE>(VS50_089)Me alegra comprobar que eres
+tan manitas como siempre.
+Pero eso no es tuyo, ¿verdad?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1285515255]
+Hanks
+<VOICE>(VS50_090)Es mío.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1285515255]
+<STR>(YUR)
+<VOICE>(VS50_091)Hanks.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+Hanks
+<VOICE>(VS50_092)El chaval ha estado arreglando
+todas las cosas que se estropearon
+en aquel terremoto.<PAGE><VOICE>(VS50_093)Incluso ha ido a los
+barrios bajos a recoger
+todas estas cosas.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+<STR>(KAR)
+<VOICE>(VS50_094)Je. La verdad es que <STR>(RAP)
+ha encontrado la mayoría.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+
+<VOICE>(VS50_095)Estos son mis zapatos favoritos
+y casi ni puedes ver por dónde
+se han roto. ¡Este tío es genial!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+
+<VOICE>(VS50_096)Me ha cosido un vestido
+muy importante para mí.
+Gracias otra vez.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+<STR>(YUR)
+<VOICE>(VS50_097)¿Estás seguro de querer
+hacer esto, <STR>(KAR)? 
+Mañana es la batalla final.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+<STR>(KAR)
+<VOICE>(VS50_098)No pasa nada. La verdad es que
+estaba un poco preocupado.<PAGE><VOICE>(VS50_099)No podía dormir cuando me ponía
+a pensar en la batalla de mañana.<PAGE><VOICE>(VS50_100)Así que se me ha ocurrido...
+ayudar en todo lo que pudiese.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+<STR>(YUR)
+<VOICE>(VS50_101)Je.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+<STR>(KAR)
+<VOICE>(VS50_102)Aunque nunca hubiera imaginado
+que <STR>(RAP) vendría a ayudarme.
+Qué sorpresa.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+<STR>(YUR)
+<VOICE>(VS50_103)Probablemente había comprendido
+lo que estabas pensando. No es
+de los que toleran cualquier cosa.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1285687598]
+<STR>(KAR)
+<VOICE>(VS50_104)Je, je. Sí, supongo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1285687598]
+<STR>(YUR)
+<VOICE>(VS50_105)Ja, no te pases de listo.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1285687598]
+<STR>(KAR)
+<VOICE>(VS50_106)Oh, venga, <STR>(RAP).
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+Hanks
+<VOICE>(VS50_107)Oh, este mozuelo tiene
+un gran futuro por delante.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+<STR>(YUR)
+<VOICE>(VS50_108)Aquí tienes al ilustrísimo
+líder de nuestro gremio.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523862]
+Hanks
+<VOICE>(VS50_109)Tal vez puedas aprender
+un par de cosas de él.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1285687598]
+<STR>(YUR)
+<VOICE>(VS50_110)Has dado en el clavo.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1285687598]
+Hanks
+<VOICE>(VS50_111)Los recuerdos apoyan el corazón.
+Y nuestras queridas posesiones
+son las que contienen esos recuerdos.<PAGE><VOICE>(VS50_112)Gracias, jovencito.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1285687598]
+<STR>(KAR)
+<VOICE>(VS50_113)Haré un poco más
+y me iré a dormir.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1285687598]
+<STR>(YUR)
+<VOICE>(VS50_114)Vale, pero no te fuerces.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1285687598]
+<STR>(KAR)
+<VOICE>(VS50_115)Sí, lo sé.

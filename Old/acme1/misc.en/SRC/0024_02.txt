@@ -1,0 +1,111 @@
+## POINTER 189
+Congratulations!<PAGE>
+I'm at a loss for words! Our challenger
+has managed to emerge victorious
+despite overwhelming odds!<PAGE>
+We have a fantastic prize
+for our challenger, <0B>(0)!<PAGE>
+You've finally made it! One more level to go!<PAGE>
+Our one true hope for conquering the
+legendary Hundred Man Melee
+stands before us!<PAGE>
+Challenger, show us what you can do!!
+The final fight awaits!
+
+## POINTER 190
+Congratulations!<PAGE>
+Ladies and gentlemen! Here, now,
+in this very arena, you have just
+witnessed the birth of a legend!<PAGE>
+We have a fantastic prize
+for our challenger, <0B>(0)!<PAGE>
+Finally, you've made it to the top of 
+melee mountain! There’s no one left
+standing before you! Stand proud,
+<0B>(0), for you have earned it!!
+
+## POINTER 191
+C-c-congratulations!<PAGE>
+I, I, I can't
+believe it...<PAGE>
+Ladies and gentlemen, we have
+just witnessed history in the making!<PAGE>
+A level of melee few thought possible...
+And a victory even fewer thought possible!<PAGE>
+And yet, what trials you
+must have endured to get
+to this level of skill!<PAGE>
+You have earned the right to have
+ your name carved into the face of history!<PAGE>
+And that name...is <0B>(0)!!<PAGE>
+Ladies and gentlemen, join me in a huge
+round of applause for our champion, <0B>(0)!!
+
+## POINTER 192
+Your order will be coming right up.
+
+## POINTER 193
+Take a customer's order first.
+
+## POINTER 194
+Control Ba’ul to collect points in the air.
+Collect all 10 points within the allotted time to clear the game.
+There are two types of points: red points and yellow points.
+Red points can give you a time bonus.
+Collect red points consecutively to lower your overall time.
+Try to clear the game in the least amount of time.
+
+## POINTER 195
+Who will enter?
+
+## POINTER 196
+<STR>(YUR)
+
+## POINTER 197
+<STR>(EST_P)
+
+## POINTER 198
+<STR>(KAR)
+
+## POINTER 199
+<STR>(RIT)
+
+## POINTER 200
+<STR>(RAV)
+
+## POINTER 201
+<STR>(JUD)
+
+## POINTER 202
+<STR>(RAP)
+
+## POINTER 203
+<06>(RBL) Order
+
+## POINTER 204
+<06>(RBU) Reset
+
+## POINTER 205
+<06>(RBD) Change Number
+
+## POINTER 206
+<06>(RBR) Cancel
+
+## POINTER 207
+Thanks for the help. Come help out
+again when you have time.
+
+## POINTER 208
+LEVEL
+
+## POINTER 209
+TIME OVER
+
+## POINTER 210
+CLEAR
+
+## POINTER 211
+TIME
+
+## POINTER 212
+BEST TIME

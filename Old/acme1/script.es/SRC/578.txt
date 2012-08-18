@@ -1,0 +1,20 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1284732231]
+<STR>(JUD)
+¿Creéis que Rhianna sigue en la posada?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1284732231]
+<STR>(YUR)
+Podemos entrar y comprobarlo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935504]
+<STR>(KAR)
+Eh, yo... Mmm...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1284732231]
+<STR>(YUR)
+No quieres ver a tu antigua profesora,
+¿eh? Si quieres puedes esperar aquí.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1284732231]
+<STR>(KAR)
+Va-vale.

@@ -1,0 +1,96 @@
+## POINTER 0
+<STR>(RIT)
+So you use a spear too...
+
+## POINTER 1
+<STR>(JUD)
+Oh, do you know
+someone who 
+also uses a spear?
+
+## POINTER 2
+<STR>(RIT)
+Eh, well not quite.
+It just reminds me 
+of some jerk.
+
+## POINTER 3
+<STR>(KAR)
+Are you talking about
+that dragon rider?
+
+## POINTER 4
+<STR>(RIT)
+Yeah...<PAGE>Hey, don't you have something
+you need to tell me.
+
+## POINTER 5
+<STR>(YUR)
+What? Me?
+
+## POINTER 6
+<STR>(RIT)
+Yes.
+So where is that 
+dragon freak now.
+
+## POINTER 7
+<STR>(YUR)
+We got separated up on the roof. I'm pretty 
+sure he wasn't too badly hurt...
+
+## POINTER 8
+<STR>(RIT)
+Good, because I can't very well beat 
+him up if he's already injured!
+
+## POINTER 9
+<STR>(RAV)
+Whoa whoa, that's the whole 
+reason you came here?
+
+## POINTER 10
+<STR>(RIT)
+No! I also can't forgive this 
+Barbos guy for what he did!<PAGE>Abusing blastia like that! 
+Has he no shame?
+
+## POINTER 11
+<STR>(YUR)
+That's no reason to bring the 
+Princess along with you to a 
+dangerous place like this.
+
+## POINTER 12
+<STR>(EST_P)
+It's not <STR>(RIT)'s fault. 
+I decided to come 
+here, myself.<PAGE>I can't see bad people doing harm to 
+others and simply let it happen.
+
+## POINTER 13
+<STR>(JUD)
+I agree. Very 
+well said.
+
+## POINTER 14
+<STR>(YUR)
+Captain <STR>(KAR), don't let me down! 
+I'm counting on your skills!
+
+## POINTER 15
+<STR>(KAR)
+Yes, of course! Come on, let's 
+go take that jerk to school!
+
+## POINTER 16
+<STR>(YUR)
+I'm sorry, but would you mind keeping your 
+background to yourself? We've got someone 
+who might kind of explode if she knew.
+
+## POINTER 17
+<STR>(JUD)
+Sure, I understand. That'll 
+be best for both of our 
+interests.

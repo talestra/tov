@@ -1,0 +1,44 @@
+## POINTER 0
+<STR>(EST_P)
+Wh-what was that all about?
+
+## POINTER 1
+<STR>(YUR)
+It looks like somebody snitched on us.
+
+## POINTER 2
+<STR>(KAR)
+Snitched?
+
+## POINTER 3
+<STR>(RIT)
+You're too well-known for
+your own good, <STR>(YUR).
+
+## POINTER 4
+<STR>(YUR)
+Isn't guild influence really strong in Torim?
+Maybe that knight was overcompensating 
+for how impotent he must feel.
+
+## POINTER 5
+<STR>(EST_P)
+<STR>(YUR), that knight was just trying to do his job! I'd 
+appreciate it if you kept your insults to yourself.
+
+## POINTER 6
+<STR>(KAR)
+Ugh... I'm never gonna be 
+able to get a good night's 
+sleep at this rate...
+
+## POINTER 7
+<STR>(YUR)
+Well, at least we got away without getting 
+caught, right? We can be happy about that.
+
+## POINTER 8
+<STR>(RIT)
+Happy? This is annoying as all hell!<PAGE>The next time we stay at 
+an inn, you can sleep 
+outside with the dog!

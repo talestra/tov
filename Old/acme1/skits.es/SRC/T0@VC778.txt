@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1251564168]
+La armadura de (JUD)
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1262111798]
+(YUR)
+Oye, ¿por qué llevabas
+aquella armadura tan aparatosa?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283104]
+(JUD)
+¿Oh? ¿No te gustaba?
+Es bastante robusta y protege
+mi cuerpo de maravilla.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283104]
+(JUD)
+¿Ves? ¡Mira esta preciosa piel,
+libre de moratones e imperfecciones!
+
+## POINTER 4 [t:1;r:1;ru:xander;user:xander;time:1298244527]
+(YUR)
+Muy bonita... De hecho, me preocupa
+dónde puedo acabar mirando.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283104]
+(JUD)
+A mí no me pareces tan preocupado.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297114553]
+(YUR)
+Es que se me da bien poner cara de póquer.
+Bueno, ¿estás segura?
+¿No te importa dejar aquí tu armadura?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297114553]
+(JUD)
+Es robusta, pero pesa bastante.
+Caminar con ella me acaba cansando.
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283104]
+(YUR)
+Oye, no es que me queje.
+Siempre es mejor alegrarse la vista
+que ver una armadura aterradora.

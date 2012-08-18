@@ -1,0 +1,131 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS11_085)Look, there he is!
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS11_086)How can he just steal the core 
+and walk off like that...?
+
+## POINTER 2
+
+<VOICE>(VS11_087)Aaah! Stop! 
+M-make him 
+stop!
+
+## POINTER 3
+
+<VOICE>(VS11_088)I've only been hired to do a job... 
+I was told I'd get a good price for 
+any blastia cores I could find.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS11_089)You stole cores from the imperial 
+capital too, didn't you?
+
+## POINTER 5
+
+<VOICE>(VS11_090)The capital? No way, not me!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS11_091)Then maybe it was one 
+of your friends.
+
+## POINTER 7
+
+<VOICE>(VS11_092)Y-yeah! It's that 
+creep, Dedecchi.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS11_093)Where'd he run off to?
+
+## POINTER 9
+
+<VOICE>(VS11_094)He's probably picking up his money 
+from the client right now.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS11_095)Client, huh? And who exactly 
+might that be?
+
+## POINTER 11
+
+<VOICE>(VS11_096)All I know is he's somewhere in Torim Harbor. 
+I don't know any more than that!<PAGE><VOICE>(VS11_097)He was a huge bruiser of a guy with a scar
+on his right cheek and one eye missing.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS11_098)So is this the guy collecting 
+all the cores...?
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS11_099)And where did you steal 
+that Sorcerer's Ring?
+
+## POINTER 14
+
+<VOICE>(VS11_100)Wh-who says I stole it? The client 
+gave it to me, said it would 
+be useful for this job!
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS11_101)Liar. That's not something 
+the boss of some pickpockets 
+could get his hands on.
+
+## POINTER 16
+
+<VOICE>(VS11_102)H-honest! You 
+gotta believe me!
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS11_103)This thing sounds pretty big. You think 
+somebody important is behind it all?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS11_104)I think you're on the right track, Captain <STR>(KAR). This 
+doesn't sound like some ordinary band of thieves.
+
+## POINTER 19
+
+<VOICE>(VS11_105)Man! First the Knights, 
+then the monsters, now this...
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS11_106)Knight? Then <STR>(FRE) 
+was here after all.
+
+## POINTER 21
+
+<VOICE>(VS11_107)Yeah, that's him. 
+That damn knight!
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS11_108)Shut up!
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS11_109)Great, <STR>(RIT). You 
+knocked him out...
+Now what?
+
+## POINTER 24
+<STR>(RIT)
+<VOICE>(VS11_110)I'll have the city guards 
+come pick him up later.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS11_111)All right then, let's 
+get back to Aspio.

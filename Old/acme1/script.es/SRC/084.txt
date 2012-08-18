@@ -1,0 +1,30 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205999]
+<STR>(YUR)
+Ese debe ser...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:evilluendas;time:1269707987]
+<STR>(YUR)
+¡Ahí está!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:evilluendas;time:1269707987]
+<STR>(YUR)
+Eres Mordio,
+¿me equivoco?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:evilluendas;time:1269707987]
+<STR>(YUR)
+Buen chico.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205999]
+<STR>(YUR)
+¡Pero qué...! ¡El núcleo
+de blastia ya no está!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205999]
+<STR>(YUR)
+¡Vamos a recuperar ese núcleo! ¡Y a darle
+una lección al mago ese, ya que estamos!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269746183]
+<STR>(RAP)
+¡Guau!

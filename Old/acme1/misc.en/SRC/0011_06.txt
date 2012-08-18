@@ -1,0 +1,318 @@
+## POINTER 826
+Decorated with a heart-shaped floral pattern.
+The dye used contains a substance that conducts aer.
+
+## POINTER 828
+Avenger's Scroll
+
+## POINTER 829
+A scroll signed by those who gathered
+for vengeance. You can sense the strong will.
+
+## POINTER 831
+Avenger's Scroll +1
+
+## POINTER 832
+A scroll signed by those who gathered
+for vengeance. You can sense the strong will.
+
+## POINTER 834
+Avenger's Scroll +2
+
+## POINTER 835
+A scroll signed by those who gathered
+for vengeance. You can sense the strong will.
+
+## POINTER 837
+Perfect Green
+
+## POINTER 838
+A cloth colored with all sorts of plant dyes. The vibrant
+green color will not fade even after 100 years.
+
+## POINTER 840
+Perfect Green +1α
+
+## POINTER 841
+A cloth colored with all sorts of plant dyes. The vibrant
+green color will not fade even after 100 years.
+
+## POINTER 843
+Perfect Green +1β
+
+## POINTER 844
+A cloth colored with all sorts of plant dyes. The vibrant
+green color will not fade even after 100 years.
+
+## POINTER 846
+Rivet Belt
+
+## POINTER 847
+A belt with thorns attached. The decorative
+metal conducts aer well.
+
+## POINTER 849
+Ever Blue
+
+## POINTER 850
+A cloth dyed by a sea tribe. Some tie this
+to a ship’s mast to wish for a safe voyage.
+
+## POINTER 852
+Ever Blue +1α
+
+## POINTER 853
+A cloth dyed by a sea tribe. Some tie this
+to a ship’s mast to wish for a safe voyage.
+
+## POINTER 855
+Ever Blue +1β
+
+## POINTER 856
+A cloth dyed by a sea tribe. Some tie this
+to a ship’s mast to wish for a safe voyage.
+
+## POINTER 858
+Twinkle Star
+
+## POINTER 859
+Worn by a legendary wizard who summoned
+the stars. The design is sort of cute.
+
+## POINTER 861
+Psychedelica
+
+## POINTER 862
+A long cloth belt with a dazzling pattern.
+Originally used to distract attackers.
+
+## POINTER 864
+Psychedelica +1
+
+## POINTER 865
+A long cloth belt with a dazzling pattern.
+Originally used to distract attackers.
+
+## POINTER 867
+Death Contrast
+
+## POINTER 868
+A piece of painting that expresses light and shadow.
+The details are unknown but there is a trace of a seal.
+
+## POINTER 870
+Death Contrast +1
+
+## POINTER 871
+A piece of painting that expresses light and shadow.
+The details are unknown but there is a trace of a seal.
+
+## POINTER 873
+Death Contrast +2α
+
+## POINTER 874
+A piece of painting that expresses light and shadow.
+The details are unknown but there is a trace of a seal.
+
+## POINTER 876
+Death Contrast +2β
+
+## POINTER 877
+A piece of painting that expresses light and shadow.
+The details are unknown but there is a trace of a seal.
+
+## POINTER 879
+Milky Way
+
+## POINTER 880
+A beautiful fabric resembling a star-filled sky.
+The gold thread embroidery serves to store aer.
+
+## POINTER 882
+Milky Way +1
+
+## POINTER 883
+A beautiful fabric resembling a star-filled sky.
+The gold thread embroidery serves to store aer.
+
+## POINTER 885
+Anubis
+
+## POINTER 886
+A painting that only reveals its true form with the
+exchange of one’s soul. A big price to pay for the truth.
+
+## POINTER 888
+Anubis +1
+
+## POINTER 889
+A painting that only reveals its true form with the
+exchange of one’s soul. A big price to pay for the truth.
+
+## POINTER 891
+Measuring Tape
+
+## POINTER 892
+Good for measuring anything and everything...
+even the waistline! It won't guarantee your safety though...
+
+## POINTER 894
+Aspion
+
+## POINTER 895
+A simple weapon made of an aer processed
+sash. It can also be used as a blade.
+
+## POINTER 897
+Chain
+
+## POINTER 898
+A simple, ordinary chain. Some use it as a weapon
+by swinging it around, but that's not what it is meant for...
+
+## POINTER 900
+Chain +1
+
+## POINTER 901
+A simple, ordinary chain. Some use it as a weapon
+by swinging it around, but that's not what it is meant for...
+
+## POINTER 903
+Leather Whip
+
+## POINTER 904
+A whip thought to be used for torture.
+One slash can rip one's skin and flesh.
+
+## POINTER 906
+Leather Whip +1
+
+## POINTER 907
+A whip thought to be used for torture.
+One slash can rip one's skin and flesh.
+
+## POINTER 909
+Chain Whip
+
+## POINTER 910
+A metal whip used as a weapon. The weight
+at the tip increases its attack power.
+
+## POINTER 912
+Chain Whip +1
+
+## POINTER 913
+A metal whip used as a weapon. The weight
+at the tip increases its attack power.
+
+## POINTER 915
+High Power Yo-yo
+
+## POINTER 916
+A mechanical yo-yo which is capable of spinning for a long
+period of time. The attached blade can be extremely harmful.
+
+## POINTER 918
+High Power Yo-yo +1
+
+## POINTER 919
+A mechanical yo-yo which is capable of spinning for a long
+period of time. The attached blade can be extremely harmful.
+
+## POINTER 921
+Queen's Whip
+
+## POINTER 922
+A whip used by those with unique habits.
+Good as a weapon and dangerous overall.
+
+## POINTER 924
+Queen’s Whip +1α
+
+## POINTER 925
+A whip used by those with unique habits.
+Good as a weapon and dangerous overall.
+
+## POINTER 927
+Queen’s Whip +1β
+
+## POINTER 928
+A whip used by those with unique habits.
+Good as a weapon and dangerous overall.
+
+## POINTER 930
+Nova
+
+## POINTER 931
+A toy with a sharp spike and a heavy ball attached
+by a string. Swinging the ball could lead to serious injury.
+
+## POINTER 933
+Nova +1α
+
+## POINTER 934
+A toy with a sharp spike and a heavy ball attached
+by a string. Swinging the ball could lead to serious injury.
+
+## POINTER 936
+Nova +1β
+
+## POINTER 937
+A toy with a sharp spike and a heavy ball attached
+by a string. Swinging the ball could lead to serious injury.
+
+## POINTER 939
+Grim Cardian
+
+## POINTER 940
+A whip made from a bronze statue of an
+ancient temple. It was used to seal demons.
+
+## POINTER 942
+Grim Cardian +1α
+
+## POINTER 943
+A whip made from a bronze statue of an
+ancient temple. It was used to seal demons.
+
+## POINTER 945
+Grim Cardian +1β
+
+## POINTER 946
+A whip made from a bronze statue of an
+ancient temple. It was used to seal demons.
+
+## POINTER 948
+Glowing Ribbon
+
+## POINTER 949
+A ribbon soaked with liquid aer conductor.
+It becomes slightly hot and glows when used for dancing.
+
+## POINTER 951
+Glowing Ribbon +1α
+
+## POINTER 952
+A ribbon soaked with liquid aer conductor.
+It becomes slightly hot and glows when used for dancing.
+
+## POINTER 954
+Glowing Ribbon +1β
+
+## POINTER 955
+A ribbon soaked with liquid aer conductor.
+It becomes slightly hot and glows when used for dancing.
+
+## POINTER 957
+Rose Whip
+
+## POINTER 958
+A whip with thorns like the stem of a beautiful rose.
+The thorns never wither due to the aer within it.
+
+## POINTER 960
+One World
+
+## POINTER 961
+A metal toy with an exaggerated name.
+Swinging it around can be really dangerous.

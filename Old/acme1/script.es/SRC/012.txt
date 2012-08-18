@@ -1,0 +1,15 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:parsec;time:1269733367]
+
+<03>(2)Por favor, gran árbol...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:parsec;time:1269733367]
+
+<03>(2)<STR>(EST_P)...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:parsec;time:1269733367]
+
+<03>(2)Florece...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:parsec;time:1269767758]
+
+<03>(2)¿Eh? ¡Hala!

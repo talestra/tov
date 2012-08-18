@@ -1,0 +1,79 @@
+## POINTER 0
+
+Out of the way! The Don 
+is passing through!
+
+## POINTER 1
+<STR>(YUR)
+Is he really planning on going 
+to war just to lure those 
+rats out of hiding?
+
+## POINTER 2
+Don Whitehorse
+We'll teach those imperial 
+bastards to look down 
+on us!
+
+## POINTER 3
+<STR>(KAR)
+Oh, <STR>(YUR)!
+
+## POINTER 4
+<STR>(YUR)
+Have you finished healing the injured yet?
+
+## POINTER 5
+<STR>(EST_P)
+How did you know that?
+
+## POINTER 6
+<STR>(YUR)
+The Don told me. This is from him--his way of saying thanks.
+
+## POINTER 7
+<STR>(KAR)
+But <STR>(YUR), things have 
+gotten really bad!
+
+## POINTER 8
+<STR>(YUR)
+Yeah, I noticed.
+
+## POINTER 9
+<STR>(KAR)
+No, that's not what I mean.
+
+## POINTER 10
+<STR>(YUR)
+What else?
+
+## POINTER 11
+<STR>(KAR)
+I saw them!
+
+## POINTER 12
+<STR>(YUR)
+You saw...who?
+
+## POINTER 13
+<STR>(EST_P)
+The Blood Alliance! Barbos 
+wasn't with them, but...
+
+## POINTER 14
+<STR>(KAR)
+<STR>(RIT) and <STR>(RAP) are shadowing 
+them right now.
+
+## POINTER 15
+<STR>(YUR)
+Just what the Don wanted...
+
+## POINTER 16
+<STR>(KAR)
+Let's catch up with <STR>(RIT).
+
+## POINTER 17
+<STR>(YUR)
+Yeah.

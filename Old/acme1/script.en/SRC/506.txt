@@ -1,0 +1,174 @@
+## POINTER 0
+<STR>(YUR)
+The atmosphere is kind of strange.
+
+## POINTER 1
+<STR>(KAR)
+Yeah... The Union is
+falling apart...
+
+## POINTER 2
+<STR>(RAV)
+Cause nobody wants to step 
+in ta take the Don's place.
+
+## POINTER 3
+<STR>(RAV)
+And the Don's heir ain't quite up to 
+it. Come on, don't hang back, now.
+
+## POINTER 4
+Harry
+I was the one who led 
+Grandpa to his death.<PAGE>Someone like me could never become 
+a man like the Don was.
+
+## POINTER 5
+<STR>(RAV)
+Nobody's sayin' ya gotta become 
+a man like the Don was.<PAGE>We're just saying you should 
+at least show up to the 
+succession meetings.
+
+## POINTER 6
+<STR>(RIT)
+Hey, do you have the Don's 
+apatheia? We'd appreciate 
+if you could give it to us.
+
+## POINTER 7
+<STR>(KAR)
+Wow, that was quite 
+a fastball, <STR>(RIT)...
+
+## POINTER 8
+Harry
+...That apatheia belongs to 
+whoever succeeds the Don. 
+It's not given to outsiders.
+
+## POINTER 9
+<STR>(RIT)
+What? Well, when will they 
+choose a successor?
+
+## POINTER 10
+Harry
+I don't know. 
+Don't ask me.
+
+## POINTER 11
+<STR>(YUR)
+That boy's a real piece of work.<PAGE>Who's going to protect the city
+if the Union isn't.
+
+## POINTER 12
+
+What? That would be 
+our guild, of course!
+
+## POINTER 13
+
+Talking of who's guild?<PAGE>I know that you sent 
+in your Clouds of Dawn 
+members to Zaude
+
+## POINTER 14
+
+The Union has never been outstripped 
+by the empire. We cannot sit here 
+and risk falling behind!
+
+## POINTER 15
+
+I say it was imprudent. It could 
+have been taken as the Union's
+hostile act against the Empire.
+
+## POINTER 16
+
+In that case, we would defend 
+our honor on the battlefield.
+
+## POINTER 17
+
+And who will be leading the battle?
+The Clouds of Dawn?<PAGE>If the Don got wind of that 
+he'd burst out laughing.
+
+## POINTER 18
+
+So why don't you boys in Altosk 
+throw your hat into the ring?<PAGE>Maybe then we'd see just how 
+unpopular you really are!
+
+## POINTER 19
+<STR>(YUR)
+This is ridiculous. Continue 
+as you please till the 
+world comes to an end.<PAGE>But don't bring up a 
+war between the guilds. 
+This isn't a joke.
+
+## POINTER 20
+<STR>(KAR)
+It's all right to be helped by 
+your friends. Protect your friends 
+and they'll respond in kind.<PAGE>That was the last thing 
+that the Don said to me.
+
+## POINTER 21
+<STR>(YUR)
+<STR>(KAR).
+
+## POINTER 22
+
+What? Who's this kid?
+
+## POINTER 23
+<STR>(KAR)
+I can't do anything by myself, 
+but I have my friends!<PAGE>Because my friends are there 
+for me, I can do anything!<PAGE>They're still there for me, even now.
+
+## POINTER 24
+<STR>(KAR)
+Why isn't that good enough 
+for the Union?!
+
+## POINTER 25
+<STR>(RAV)
+The boy is right. The best thing 
+that the guilds ever had was their 
+ability to help each other.<PAGE>There is always a way to deal 
+with things even if ya aren't 
+some great big leader.
+
+## POINTER 26
+<STR>(YUR)
+The Don told you that from 
+now on, you have to walk 
+with your own feet.<PAGE>You know how to walk on 
+your own feet, don't you?
+
+## POINTER 27
+
+...
+
+## POINTER 28
+
+You make it sound so 
+easy, but actually--
+
+## POINTER 29
+<STR>(YUR)
+Let's go. I'm gonna get sick if 
+I have to stay here any longer.
+
+## POINTER 30
+<STR>(RIT)
+Hey, you, wait up!
+
+## POINTER 31
+Harry
+...

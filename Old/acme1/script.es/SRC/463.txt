@@ -1,0 +1,180 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(RAV)
+<VOICE>(VS47_088)Fiuu... Oíd, ¿soy el único
+al que eso de ahín le parece
+una salía?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(RIT)
+<VOICE>(VS47_089)¿Ya estás cansado?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(RAV)
+<VOICE>(VS47_090)Los ancianos andamos cortos
+de energías... <STR>(JUD),
+sé amable y llévalo tú un rato.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(JUD)
+<VOICE>(VS47_091)Oh, nunca se me ocurriría
+robarte tu trabajo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(YUR)
+<VOICE>(VS47_092)<STR>(KAR)... estás despierto, ¿verdad?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462135]
+<STR>(KAR)
+<VOICE>(VS47_093)¡N-No, para nada!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(KAR)
+<VOICE>(VS47_094)¡Ay!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462135]
+<STR>(RAV)
+<VOICE>(VS47_095)Mira que forzar a un anciano
+a dar el callo con este frío.<PAGE><VOICE>(VS47_096)Señor <STR>(KAR), tas hecho
+d'una pasta más dura de lo
+que creía.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(YUR)
+<VOICE>(VS47_097)¿Te encuentras mejor, <STR>(KAR)?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(KAR)
+<VOICE>(VS47_098)Sí.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(JUD)
+<VOICE>(VS47_099)Nos tenías muy preocupados.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(RIT)
+<VOICE>(VS47_100)Tú no lo parecías mucho, que digamos.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(JUD)
+<VOICE>(VS47_101)¿En serio? Eso sí que es raro.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(RIT)
+<VOICE>(VS47_102)No vuelvas a hacer
+algo así, ¿vale?
+Estamos en esto juntos.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(KAR)
+<VOICE>(VS47_103)De acuerdo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1283648068]
+<STR>(YUR)
+<VOICE>(VS47_104)¿Te importaría decirnos
+qué te hace tanta gracia?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462135]
+<STR>(KAR)
+<VOICE>(VS47_105)Tranquilo, <STR>(YUR).<PAGE><VOICE>(VS47_106)Tan solo estaba recordando
+algo que dijo el Don una vez.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462135]
+<STR>(YUR)
+<VOICE>(VS47_107)«Cuida de tus amigos y
+ellos estarán allí cuando
+los necesites», ¿verdad?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462135]
+<STR>(KAR)
+<VOICE>(VS47_108)Sí. Creo que es a esto
+a lo que se refería.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(YUR)
+<VOICE>(VS47_109)Bueno, si crees que ahora
+entiendes lo que dijo, es
+que vas por el buen camino.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(KAR)
+<VOICE>(VS47_110)Eso espero.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(YUR)
+<VOICE>(VS47_111)Vale, la salida está justo
+enfrente de nosotros. Vamos.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(JUD)
+<VOICE>(VS47_112)¿Todo va bien?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462135]
+<STR>(RIT)
+<VOICE>(VS47_113)Sí. Es que pensaba que
+a lo mejor todo este hielo
+lo ha producido el aer.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(KAR)
+<VOICE>(VS47_114)¿El hielo? ¿Por el aer?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462135]
+<STR>(JUD)
+<VOICE>(VS47_115)Si todo está compuesto
+de aer, tendría sentido.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(RIT)
+<VOICE>(VS47_116)El aer krene de aquí es bastante
+estable. Lo bastante como para que
+un monstruo lo controle.<PAGE><VOICE>(VS47_117)Tal vez si se pudieran solidificar
+grandes cantidades de aer, ayudaría
+a estabilizar las cosas.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(YUR)
+<VOICE>(VS47_118)¿Quieres decir que algo
+así podría equilibrar el aer
+y detener las distorsiones?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(RIT)
+<VOICE>(VS47_119)No estoy segura. Puede que
+sea necesaria una mayor eficacia,
+y necesitaría mucho más aer...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462135]
+<STR>(RAV)
+<VOICE>(VS47_120)Tonces ¿quieres quedarte aquín
+a investigar el aer krene?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462135]
+<STR>(RIT)
+<VOICE>(VS47_121)No. No hay tiempo para eso.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462135]
+<STR>(YUR)
+<VOICE>(VS47_122)Ya, y ya hemos perdido
+bastante tiempo. Vámonos.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(RIT)
+<VOICE>(VS47_123)<STR>(EST_P), aguanta, por favor...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(YUR)
+<VOICE>(VS47_124)...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(KAR)
+<VOICE>(VS47_125)Una vez salgamos de aquí,
+tenemos que preguntar a
+alguien qué pasa en la capital.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1283649207]
+<STR>(RAV)
+<VOICE>(VS47_126)Eso seguro.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462135]
+Información
+<03>(4)<STR>(KAR)<03>(0) se ha recuperado del todo.

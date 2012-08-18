@@ -1,0 +1,95 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280782897]
+<STR>(KAR)
+Oh, <STR>(YUR)...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280782897]
+<STR>(YUR)
+¿Qué pasa? Pareces más
+serio de lo normal.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410958]
+<STR>(KAR)
+Sí... Estaba pensando
+en lo difícil que es
+organizar un gremio.<PAGE>Creía que todo
+saldría bien porque
+estaba con vosotros, pero...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280782897]
+<STR>(YUR)
+¿Has perdido la fe en tu
+habilidad para dirigir el gremio?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280782897]
+<STR>(KAR)
+¡No, para nada! Estoy haciendo
+todo lo que puedo...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280828760]
+<STR>(YUR)
+Muy bien, entonces imitaré
+tu actitud y yo también
+haré todo lo que pueda.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280782897]
+<STR>(KAR)
+Oye, <STR>(YUR).
+¿Te puedo preguntar algo?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280782897]
+<STR>(YUR)
+Dime.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280782897]
+<STR>(KAR)
+¿Es cierto que... mataste
+a Ragou y a Cumore?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280782897]
+<STR>(YUR)
+Es cierto.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280828760]
+<STR>(KAR)
+¿Cómo pudiste ocultarme eso?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280782897]
+<STR>(YUR)
+Tenía pensado
+decírtelo.<PAGE>Lo siento.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280782897]
+<STR>(KAR)
+Aunque piense que no hiciste
+lo correcto... no te arrepientes
+de haberlos matado, ¿no?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280828760]
+<STR>(YUR)
+La verdad es que no.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280828760]
+<STR>(KAR)
+No sé...<PAGE><STR>(FRE) y <STR>(EST_P) también
+intentaban llevarlos a la justicia.<PAGE>¿En serio tenías
+que matarlos?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280828760]
+<STR>(YUR)
+Creo que hay cosas que
+debes hacer, aunque
+sean crímenes.<PAGE>Alguien debe hacerlas, aunque
+eso signifique asumir la culpa.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280828760]
+<STR>(KAR)
+Tal vez, pero aun así...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027287]
+<STR>(YUR)
+Solo hice lo que
+tenía que hacer.<PAGE>No deberías obligarte a aceptar lo que hice.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280782897]
+<STR>(KAR)
+Vale.

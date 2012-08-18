@@ -1,0 +1,317 @@
+## POINTER 144
+Compact Sword
+
+## POINTER 145
+A small, but well-balanced sword.
+Handy for beginners.
+
+## POINTER 147
+Compact Sword +1
+
+## POINTER 148
+A small, but well-balanced sword.
+Handy for beginners.
+
+## POINTER 150
+Karolian Sword
+
+## POINTER 151
+A sword designed to crush with its weight and
+blade. This is only a hand-made imitation though.
+
+## POINTER 153
+Karolian Sword +1
+
+## POINTER 154
+A sword designed to crush with its weight and
+blade. This is only a hand-made imitation though.
+
+## POINTER 156
+Scimitar
+
+## POINTER 157
+A shoddy sword with a crescent blade.
+The grip is designed to look like a lamp.
+
+## POINTER 159
+Saber
+
+## POINTER 160
+A sword designed to be easily handled on horseback.
+Mass produced and can be found in most shops.
+
+## POINTER 162
+Long Sword
+
+## POINTER 163
+An average sword, but difficult to handle.
+Former official equipment of the chevaliers.
+
+## POINTER 165
+Knight Sword
+
+## POINTER 166
+The official equipment used by the chevaliers.
+Mass produced yet durable with a good design.
+
+## POINTER 168
+Stiletto
+
+## POINTER 169
+A sword specialized for piercing. The grip is
+designed so that it could be held firmly.
+
+## POINTER 171
+Rapier
+
+## POINTER 172
+A long, thin sword that requires skill to use. Praised
+mainly by duelists for being a "gentleman's weapon".
+
+## POINTER 174
+Tsurugi
+
+## POINTER 175
+Replica of an ancient double edged sword.
+Don't underestimate the damage it can inflict.
+
+## POINTER 177
+Tsurugi +1
+
+## POINTER 178
+Replica of an ancient double edged sword.
+Don't underestimate the damage it can inflict.
+
+## POINTER 180
+Gladius
+
+## POINTER 181
+A standard short sword used since ancient times.
+Requires very little strength to wield.
+
+## POINTER 183
+Gladius +1
+
+## POINTER 184
+A standard short sword used since ancient times.
+Requires very little strength to wield.
+
+## POINTER 186
+Epee
+
+## POINTER 187
+An archetypal rapier, it is designed specifically 
+for piercing. It is more useful than it looks.
+
+## POINTER 189
+Epee +1
+
+## POINTER 190
+An archetypal rapier, it is designed specifically 
+for piercing. It is more useful than it looks.
+
+## POINTER 192
+Blue Dragon
+
+## POINTER 193
+A curved sword design passed down through word of mouth. Many
+versions have been made, but the true form is still unknown.
+
+## POINTER 195
+Blue Dragon +1
+
+## POINTER 196
+A curved sword design passed down through word of mouth. Many
+versions have been made, but the true form is still unknown.
+
+## POINTER 198
+Battle Sword
+
+## POINTER 199
+A versatile and useful military sword.
+The broad blade adds weight and durability.
+
+## POINTER 201
+Battle Sword +1
+
+## POINTER 202
+A versatile and useful military sword.
+The broad blade adds weight and durability.
+
+## POINTER 204
+Estoc
+
+## POINTER 205
+A solid sword designed to pierce through not the armor 
+joints, but the armor itself. Also known as an "Armor Piercer".
+
+## POINTER 207
+Estoc +1
+
+## POINTER 208
+A solid sword designed to pierce through not the armor 
+joints, but the armor itself. Also known as an "Armor Piercer".
+
+## POINTER 210
+Ice Coffin
+
+## POINTER 211
+A simply designed sword which is constantly covered with frost and ice.
+The source of its magic attribute is unknown.
+
+## POINTER 213
+Ice Coffin +1α
+
+## POINTER 214
+A simply designed sword which is constantly covered with frost and ice.
+The source of its magic attribute is unknown.
+
+## POINTER 216
+Ice Coffin +1β
+
+## POINTER 217
+A simply designed sword which is constantly covered with frost and ice.
+The source of its magic attribute is unknown.
+
+## POINTER 219
+Stinger
+
+## POINTER 220
+A sword with a narrow blade.
+The blade looks rusty but glows blue.
+
+## POINTER 222
+Stinger +1
+
+## POINTER 223
+A sword with a narrow blade.
+The blade looks rusty but glows blue.
+
+## POINTER 225
+Sentinel
+
+## POINTER 226
+A sword made with ancient technology.
+You can sense the aggression of the beasts from the design.
+
+## POINTER 228
+Sentinel +1
+
+## POINTER 229
+A sword made with ancient technology.
+You can sense the aggression of the beasts from the design.
+
+## POINTER 231
+Bastard Sword
+
+## POINTER 232
+A large sword capable of both piercing and slashing.
+More well-balanced than it actually looks.
+
+## POINTER 234
+Bastard Sword +1α
+
+## POINTER 235
+A large sword capable of both piercing and slashing.
+More well-balanced than it actually looks.
+
+## POINTER 237
+Bastard Sword +1β
+
+## POINTER 238
+A large sword capable of both piercing and slashing.
+More well-balanced than it actually looks.
+
+## POINTER 240
+Ogre Sword
+
+## POINTER 241
+A demonic sword known as the "Master Slayer".
+Appears during wars and spreads calamity and causes transition.
+
+## POINTER 243
+Ogre Sword +1
+
+## POINTER 244
+A demonic sword known as the "Master Slayer".
+Appears during wars and spreads calamity and causes transition.
+
+## POINTER 246
+Mythril Sword
+
+## POINTER 247
+An ancient sword forged out of "Lost Metal".
+The firm blade is like a well-polished mirror.
+
+## POINTER 249
+Damascus Sword
+
+## POINTER 250
+Forged from Damascus steel, it is a sword
+made with the sturdiest metal. The blade has a unique pattern.
+
+## POINTER 252
+High Tsurugi
+
+## POINTER 253
+An ancient sword discovered in excellent condition.
+Also known as the "Dragon Slayer".
+
+## POINTER 255
+Sinclair Saber
+
+## POINTER 256
+A beautiful long sword created with extra care.
+A masterpiece of true craftsmanship.
+
+## POINTER 258
+Rune Blade
+
+## POINTER 259
+An ancient sword forged from a special soil. It
+cannot be reproduced with current technology.
+
+## POINTER 261
+Rune Blade +1
+
+## POINTER 262
+An ancient sword forged from a special soil. It
+cannot be reproduced with current technology.
+
+## POINTER 264
+Basilard
+
+## POINTER 265
+A simple, yet well-made short sword.
+Easy to use and popular among swordsman.
+
+## POINTER 267
+Basilard +1
+
+## POINTER 268
+A simple, well-made short sword.
+Easy to use and popular among swordsman.
+
+## POINTER 270
+Zephyrus
+
+## POINTER 271
+A sword sealed with the power of the wind.
+Unable to release its powers without the belt.
+
+## POINTER 273
+Zephyrus +1α
+
+## POINTER 274
+A sword sealed with the power of the wind.
+Unable to release its powers without the belt.
+
+## POINTER 276
+Zephyrus +1β
+
+## POINTER 277
+A sword sealed with the power of the wind.
+Unable to release its powers without the belt.
+
+## POINTER 279
+Aries

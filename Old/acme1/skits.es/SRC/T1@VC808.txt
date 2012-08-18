@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:3;ru:lia,parsec,memnoch;user:xander;time:1251754758]
+Un nuevo viaje
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357365]
+(EST_P)
+¡Ahora que tenemos una meta y un destino
+estoy emocionadísima por continuar mi viaje!
+
+## POINTER 2 [t:1;r:3;ru:lia,parsec,memnoch;user:Lia;time:1266942731]
+(YUR)
+Esto es mucho más gordo que cuando nos
+escapamos de la capital para alcanzar a (FRE).
+
+## POINTER 3 [t:1;r:3;ru:lia,parsec,memnoch;user:xander;time:1266114196]
+(YUR)
+Ahora vamos en busca de
+un misterioso monstruo parlante.
+
+## POINTER 4 [t:1;r:3;ru:lia,parsec,memnoch;user:Lia;time:1266942731]
+(EST_P)
+Y para llegar a Desier, tendremos
+que cruzar el mar otra vez...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116092]
+(EST_P)
+Seguro que las Arenas de Kogorh
+serán un sitio caluroso y hostil.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357365]
+(EST_P)
+¡Pero aun así no puedo evitar emocionarme
+por poder continuar viajando!
+
+## POINTER 7 [t:1;r:3;ru:lia,parsec,memnoch;user:xander;time:1266114196]
+(EST_P)
+¡Más allá del horizonte nos aguardan
+paisajes que nunca hemos visto!
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357365]
+(YUR)
+Bueno, pero no te olvides a qué hemos venido.
+
+## POINTER 9 [t:1;r:3;ru:lia,parsec,memnoch;user:Lia;time:1266942731]
+(EST_P)
+Lo sé.

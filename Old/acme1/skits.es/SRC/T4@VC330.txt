@@ -1,0 +1,53 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:soywiz;time:1251807521]
+No demasiado acertado...
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314354]
+(KAR)
+Ugh... Esto está horrible.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314354]
+(YUR)
+¿Has seguido la receta?
+Tiene ingredientes
+que no debería tener.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266669467]
+(EST_P)
+En realidad, últimamente no he visto
+por ninguna parte nuestro libro de recetas...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112022]
+(RAV)
+Sí, me pregunto adónde habrá ido a pará.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314354]
+(RIT)
+¿Un libro de recetas?
+¿No será este por casualidad?
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314354]
+(JUD)
+(RIT), ¿lo tenías tú?
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314354]
+(RIT)
+No me extraña que lo notase tan frágil y debilucho.
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314354]
+(KAR)
+¿Lo has estado usando como arma?
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314354]
+(RIT)
+Alguien cambió mi libro por esto.
+No es culpa mía que nadie se diese cuenta
+de que habían desaparecido las recetas.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112022]
+(YUR)
+Eso no te lo puedo discutir.
+
+## POINTER 11 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314354]
+(JUD)
+Tampoco es que tengamos muchísimas recetas...
+Quizá deberíamos mostrar más interés en la cocina.

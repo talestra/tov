@@ -1,0 +1,24 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166107]
+
+¿Estás seguro de que quieres
+retirarte de la competición?
+No recuperarás el dinero.
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1269901171]
+¿Retirarte?
+Sí
+No
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1269901171]
+
+¡Gracias!
+¡Vuelve pronto!
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1269901171]
+
+Muy bien.
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1269901171]
+<STR>(YUR)
+¡Tenemos que llegar
+rápido al coliseo!

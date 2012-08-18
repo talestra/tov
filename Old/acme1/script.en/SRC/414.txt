@@ -1,0 +1,161 @@
+## POINTER 0
+<STR>(JUD)
+Good day!
+
+## POINTER 1
+
+Good day, my sister.
+
+## POINTER 2
+<STR>(JUD)
+<STR>(JUD).
+
+## POINTER 3
+
+I'm Tort.
+
+## POINTER 4
+<STR>(JUD)
+You wouldn't happen to know 
+anything about Myorzo, would 
+you? I'd like to go there.<PAGE>I need to know where Myorzo 
+is located...and how I 
+can get there.
+
+## POINTER 5
+Toth
+Even if you reach the city, there won't 
+be anything for you to see there. But what 
+do you plan on doing there, anyway?
+
+## POINTER 6
+<STR>(JUD)
+Is not a Krityan's interest 
+in her own ancestral city 
+reason enough to go?
+
+## POINTER 7
+Toth
+That is an acceptable reason. But 
+I'm afraid I don't know anything 
+about where it could be.
+
+## POINTER 8
+<STR>(JUD)
+I've heard your name 
+before, Tort.<PAGE>You help guide those Krityans remaining 
+on earth up to the heavens.
+
+## POINTER 9
+<STR>(JUD)
+Will you not tell me because 
+these humans are with me?
+
+## POINTER 10
+Toth
+Our ancient law states that we cannot 
+show anyone but our brothers and 
+sisters the way to Myorzo.
+
+## POINTER 11
+<STR>(JUD)
+Shouldn't it be a matter of whether 
+they can be trusted, rather than whether 
+they're Krityan or not?<PAGE>At the very least, these 
+humans can be trusted.
+
+## POINTER 12
+Toth
+...I shall ask once more.<PAGE>Why do you seek 
+Myorzo?
+
+## POINTER 13
+<STR>(YUR)
+The world is headed towards some bad 
+things, all thanks to blastia.<PAGE>We want to go to know what 
+happened in the past, and 
+how we can stop it.<PAGE>We want to help everyone, 
+not just the Krityans...how's 
+that?
+
+## POINTER 14
+Toth
+...Very well.<PAGE>I do not know if you'll find the 
+answers to your questions, but 
+I will show you the way.<PAGE>But there is one condition.
+
+## POINTER 15
+<STR>(YUR)
+What's the condition?
+
+## POINTER 16
+Toth
+To get to Myorzo, you must
+travel to Egothor Forest.
+
+## POINTER 17
+<STR>(KAR)
+The Egothor Forest? On the continent 
+of Hypionia, isn't it? I've heard 
+of it before...
+
+## POINTER 18
+<STR>(JUD)
+Yes, the sacred land of the 
+Krityans is located there.<PAGE>So that's where the 
+door to Myorzo is...
+
+## POINTER 19
+Toth
+Yes...but those lands are currently 
+being trampled under the feet of 
+an unknown group of people.<PAGE>They have not only invaded our sacred land, but they 
+have also brought strange blastia with them.<PAGE>I don't know what they're up 
+to, but it can't be good.
+
+## POINTER 20
+<STR>(YUR)
+So if we go to Myorzo, we have 
+to do something about them?
+
+## POINTER 21
+Toth
+Exactly. We need you 
+to restore peace to 
+our sacred land.
+
+## POINTER 22
+<STR>(JUD)
+What's happening?
+
+## POINTER 23
+Toth
+Once you have driven out the 
+interlopers, ring this bell.<PAGE>The door to Myorzo 
+will open for you.
+
+## POINTER 24
+<STR>(JUD)
+...Thank you.
+
+## POINTER 25
+Toth
+May the road rise up to meet you, sister.
+
+## POINTER 26
+<STR>(JUD)
+And you, as well...<PAGE>Let's go back to where 
+everyone's waiting.
+
+## POINTER 27
+<STR>(YUR)
+Yeah.
+
+## POINTER 28
+
+You're searching for Myorzo...?<PAGE>That's the name of the city that 
+they talk about in the Krityan 
+legends. That's all I know.<PAGE>Location?
+I don't know where it is.<PAGE>And even if I knew, I don't think
+it will be of any good to tell it to 
+someone other than a Krityan.

@@ -1,0 +1,54 @@
+## POINTER 0
+Agueron
+Oh, did you bring them?
+
+## POINTER 1
+<STR>(YUR)
+This should be everything, 
+right?
+
+## POINTER 2
+Agueron
+Wow, I knew you wouldn't 
+let me down. Thanks, man.
+
+## POINTER 3
+<STR>(YUR)
+So, what's next?
+
+## POINTER 4
+Agueron
+You catch on quick. This is what 
+I'd like you to bring me next.<PAGE>Might Orb, Treant Flower, 
+Crystal, Mystic Orb, and Great
+Leo Fang. I'll need three of each.
+
+## POINTER 5
+<STR>(YUR)
+That's a lot to ask.
+
+## POINTER 6
+Agueron
+Yeah, sorry about that.
+
+## POINTER 7
+<STR>(YUR)
+Nah, don't worry about 
+it. I'll go and get them 
+and bring them here.
+
+## POINTER 8
+Agueron
+Thanks so much.
+
+## POINTER 9
+Agueron
+No, this isn't quite enough yet...<PAGE>I need Desier Gold Dust, Hypionia 
+Tree Bark, and Yurzo Fruit. Three of 
+each. I'm counting on you, <STR>(YUR).
+
+## POINTER 10
+Agueron
+I need Desier Gold Dust, Hypionia 
+Tree Bark, and Yurzo Fruit. Three of 
+each. I'm counting on you, <STR>(YUR).

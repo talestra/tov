@@ -1,0 +1,30 @@
+## POINTER 0
+<STR>(YUR)
+So, are you hoping to become 
+a healer someday?
+
+## POINTER 1
+<STR>(EST_P)
+No... But even so...<PAGE>The only thing I've ever been 
+good at doing for others is 
+healing their wounds...<PAGE>I'd like to learn more about 
+what a healer does.
+
+## POINTER 2
+<STR>(YUR)
+I'd say you've done a lot more for 
+us than just heal our wounds.
+
+## POINTER 3
+<STR>(EST_P)
+Huh?
+
+## POINTER 4
+<STR>(YUR)
+Nah, forget it.<PAGE>Anyway, I don't think there's anything 
+wrong with learning more about healing 
+and seeing where it takes you.
+
+## POINTER 5
+<STR>(EST_P)
+Yes.

@@ -1,0 +1,107 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS56_051)The shining forest of Erealumen, and 
+the root of the world, Relewiese...
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS56_052)I've never heard of those places.
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS56_053)...
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS56_054)Ba'ul says he knows. 
+However...
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS56_055)？
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS56_056)He doesn't want to tell us.<PAGE><VOICE>(VS56_057)Apatheias only come from 
+the death of Entelexeia.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS56_058)He doesn't want to put his 
+friends in danger...
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS56_059)Ba'ul, listen.<PAGE><VOICE>(VS56_060)We want to protect the world. 
+But we don't want to sacrifice 
+anyone for it.<PAGE><VOICE>(VS56_061)We won't just take the 
+apatheia by force.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS56_062)Ba'ul...please.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS56_063)Tell us where the 
+Entelexeia are.
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS56_064)...Erealumen is in the northeast 
+part of Tolbyccia.<PAGE><VOICE>(VS56_065)Relewiese is...on the 
+continent of Weccea.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS56_066)Thank you, Ba'ul.
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS56_067)We also need to go to the Sands 
+of Kogorh, where Phaeroh is.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS56_068)Right.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS56_069)...Northeast Tolbyccia. I wonder 
+if that's the place where a new 
+land just recently crystallized.
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS56_070)Weccea's that continent to 
+the south of Ilyccia, where 
+the capital is. Right?
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS56_071)Weccea...
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS56_072)The emperor Calx III sent scouting 
+parties four times in order 
+to claim the land.<PAGE><VOICE>(VS56_073)But every time, they lost communication, 
+and no one ever returned.<PAGE><VOICE>(VS56_074)It's the last unexplored 
+land on Terca Lumireis.
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS56_075)Why does it have to be a place like that...?
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS56_076)If Weccea's that bad, then let's 
+leave Relewiese for last.
+
+## POINTER 20
+<STR>(JUD)
+<VOICE>(VS56_077)...He says he'll leave things up to you.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS56_078)Thanks, Ba'ul.

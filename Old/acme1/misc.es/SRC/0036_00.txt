@@ -1,0 +1,302 @@
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+This is Event Jump for 
+CHAPTER 1
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+CHAPTER  1 Event Jump
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP000 Opening
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP010 Zaphias_Lower Quater
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP020 Zaphias_Royal Quarter
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP030 Zaphias_Castle
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP040 Zaphias
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP050 Deidon Hold
+
+## POINTER 9 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP060 Quoi Woods
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP070 Town of Blossoms Halure
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP080 Quoi Woods
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP090 Town of Blossoms Halure
+
+## POINTER 13 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP100 Sealed Academic City Aspio
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP110 Shaikos Ruins
+
+## POINTER 15 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP120 Sealed Academic City Aspio
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP130 Town of Blossoms Halure
+
+## POINTER 17 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP140 Ehmead Hill
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP150 Capua Nor
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP160 Capua Torim
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP170 Caer Bocram
+
+## POINTER 21 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP180 The Rising City Heliord
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP190 Dahngrest
+
+## POINTER 23 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP195 Keiv Moc
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP200 Dahngrest
+
+## POINTER 25 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+EP210 Tower of Gears Ghasfarost
+
+## POINTER 27 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+We can't jump to that location.
+Sorry
+N/A
+
+## POINTER 29 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010　Let's go fix the fountain
+
+## POINTER 30 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020　The aque blastia core is missing
+
+## POINTER 31 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030　Infiltrate the royal quater
+
+## POINTER 33 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 Arrive at Mordio residence
+
+## POINTER 34 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 Retrieved money but Dedecchi escapes
+
+## POINTER 35 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+040 <STR>(YUR), arrested...
+
+## POINTER 37 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 In Prison, <STR>(RAV) next door
+
+## POINTER 38 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020 Escape prison
+
+## POINTER 39 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 Try not to be spotted by guards
+
+## POINTER 40 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+040 Meeting <STR>(EST)
+
+## POINTER 41 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+050 I smell something good
+
+## POINTER 42 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+070 This is <STR>(FRE)'s room
+
+## POINTER 43 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+080 Mistaken for <STR>(FRE), Zagi attacks
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+085 Fix the door (a part of Zagi event)
+
+## POINTER 45 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+090 The guard are under alert
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+100 <STR>(EST_P) changes outfit
+
+## POINTER 47 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+110 Find a hidden ladder, <STR>(EST_P)'s magic
+
+## POINTER 49 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 Exit to Royal Quarter
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020 Let's stop by at the weapon shop.
+
+## POINTER 51 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 Adecor, Boccos, Leblanc is back!
+
+## POINTER 52 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+040 I'm gonna leave Dahngrest for a while
+
+## POINTER 53 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+050 A departure
+
+## POINTER 55 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 Reach Deidon Hold
+
+## POINTER 56 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020 Gate closes, Rescue a girl and young lad
+
+## POINTER 57 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+021 Can't open the gate
+
+## POINTER 58 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 Info. from Kaufman, An alternative route
+
+## POINTER 60 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 Reach forbidden forest
+
+## POINTER 61 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+040 <STR>(EST_P) wakes up
+
+## POINTER 62 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+050 <STR>(KAR) attacks!
+
+## POINTER 64 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 Reach Halure
+
+## POINTER 65 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+011 <STR>(EST_P) heals people, Could not find <STR>(FRE)
+
+## POINTER 66 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020 <STR>(KAR) staggered
+
+## POINTER 67 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 Lets heal the tree of Halure
+
+## POINTER 68 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+040 Collect ingredient of Panacea Bottle
+
+## POINTER 69 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+045 Going to Quoi Woods
+
+## POINTER 70 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+050 Luluria Petal
+
+## POINTER 72 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 Why do <STR>(YUR) own bohdi blastia?
+
+## POINTER 73 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020 Obtained Nia Fruit
+
+## POINTER 74 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 Obtained Eggbear Claw
+
+## POINTER 75 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+040 The trio again...
+
+## POINTER 77 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 Making Panacea Bottle
+
+## POINTER 78 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020 Tree of Halure revives
+
+## POINTER 79 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 Let's get out of town quickly
+
+## POINTER 80 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+060 Depart Halure
+
+## POINTER 81 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+070 I'm a little glad
+
+## POINTER 83 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 This is Aspio
+
+## POINTER 84 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+011 The guards wan't let us through
+
+## POINTER 85 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020 Let take the back door
+
+## POINTER 86 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 Collect info from researchers
+
+## POINTER 87 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+040 This is Mordio's place
+
+## POINTER 88 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+050 No one home?
+
+## POINTER 89 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+060 A blastia replica
+
+## POINTER 90 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+070 A studious researcher
+
+## POINTER 91 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+080 The blastia code
+
+## POINTER 92 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+090 <STR>(RIT) appears. Follow me to Shaikos Ruins
+
+## POINTER 93 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+100 A girl's secret
+
+## POINTER 95 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 Arrive at Shaikos Ruins
+
+## POINTER 96 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+011 Find a stair to underground
+
+## POINTER 97 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020 Blastia will never betray me
+
+## POINTER 98 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 Blastia and it's core
+
+## POINTER 99 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+035 Recieve Sorcerer Ring (1)
+
+## POINTER 100 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+036 Recieve Sorcerer Ring (2)
+
+## POINTER 101 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+040 A man in robe and magic golem
+
+## POINTER 102 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+050 Captured man in robe
+
+## POINTER 104 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 Turn man in robe in to the guards, Head back home in advance
+
+## POINTER 105 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020 Send <STR>(EST_P) to Halure
+
+## POINTER 106 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 <STR>(RIT) joins the group
+
+## POINTER 108 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 <STR>(RIT), surprised to know the tree been cured
+
+## POINTER 109 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020 Information about <STR>(FRE) and bounty been assigned.
+
+## POINTER 110 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 Ask <STR>(RIT) to take care of <STR>(EST_P)
+
+## POINTER 111 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+040 Let go all togather
+
+## POINTER 113 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+010 The barrier is gone
+
+## POINTER 114 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+020 <STR>(RIT), a trouble maker and mixer
+
+## POINTER 115 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006793]
+030 Let take the beast trail

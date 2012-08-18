@@ -1,0 +1,74 @@
+## POINTER 0
+<STR>(RIT)
+Right here in the 
+back of this box...<PAGE>Aha! "Urban Planning for Bustling Cities."
+
+## POINTER 1
+<STR>(YUR)
+We've found what we're looking for, 
+but there's nobody around at all.
+
+## POINTER 2
+<STR>(RIT)
+What should we do?
+
+## POINTER 3
+<STR>(YUR)
+Excuse me! We'd like 
+to borrow this book! 
+That's okay, right?
+
+## POINTER 4
+<STR>(YUR)
+I don't hear any objections. 
+Let's take the book and go.
+
+## POINTER 5
+<STR>(RIT)
+I don't know how anyone could 
+hear such a quiet voice...
+
+## POINTER 6
+<STR>(YUR)
+All right, so you've finally 
+gotten all of them?
+
+## POINTER 7
+<STR>(RIT)
+Yep. I've collected 
+all five.<PAGE>Now I can go and 
+take that test.
+
+## POINTER 8
+<STR>(YUR)
+Going out to look for books all across 
+the world...what a crazy test!
+
+## POINTER 9
+<STR>(RIT)
+Oh, the real test has yet to begin.<PAGE>There'll be a written test that requires 
+using these books as reference material.
+
+## POINTER 10
+<STR>(YUR)
+Agh, just thinking about taking 
+tests makes my head hurt.
+
+## POINTER 11
+<STR>(RIT)
+Wouldn't you like to give it a 
+try? Just to see how you do.
+
+## POINTER 12
+<STR>(YUR)
+Nah, I wouldn't have a chance. I don't care 
+about that what's-his-face degree anyway.
+
+## POINTER 13
+<STR>(RIT)
+Yeah, giving something like that to you would 
+be like casting pearls before swine.
+
+## POINTER 14
+<STR>(YUR)
+Hey, who're you calling swine?!

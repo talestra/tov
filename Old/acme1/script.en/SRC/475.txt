@@ -1,0 +1,27 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS49_500)Hold on. Someone's there.
+
+## POINTER 1
+
+<VOICE>(VS49_501)Aaahhhhh!!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS49_504)Huh?!
+
+## POINTER 3
+
+<VOICE>(VS49_505)Waaaaahhhhh!
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS49_508)What the...?
+
+## POINTER 5
+
+<VOICE>(VS49_509)<STR>(YUR)?! It's <STR>(YUR)!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS49_510)Huh?! Hanks?!

@@ -1,0 +1,300 @@
+## POINTER 116 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+040 Billybally leafs
+
+## POINTER 117 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+041 Billybally leafs (different location)
+
+## POINTER 118 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+050 Defeat the beast that attacked Halure using billybally pollen
+
+## POINTER 119 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+060 First time to see the ocean
+
+## POINTER 121 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+010 Opression at port town
+
+## POINTER 122 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+020 Reunite with <STR>(FRE)
+
+## POINTER 123 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+030 Are the two in the room?
+
+## POINTER 124 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+040 Telling <STR>(FRE) about what has happened so far
+
+## POINTER 125 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+050 Let's go see Ragou
+
+## POINTER 126 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+051 Search for Rhybgaro
+
+## POINTER 127 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+052 <STR>(FRE) and <STR>(EST)
+
+## POINTER 128 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+060 Defeat Rhybgaro
+
+## POINTER 129 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+065 Lets just take the horns
+
+## POINTER 130 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+070 Hand Rhybgaro horn to parents
+
+## POINTER 131 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+080 If only there is a intruder...
+
+## POINTER 132 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+090 Been used as a decoy by <STR>(RAV)
+
+## POINTER 133 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+100 The lift is going down
+
+## POINTER 134 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+110 A extraordinary basement
+
+## POINTER 135 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+120 Save the boy
+
+## POINTER 136 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+130 Facing Ragou
+
+## POINTER 137 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+140 Weather blastia and Dragon rider
+
+## POINTER 138 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+150 Can you return by your self?
+
+## POINTER 139 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+160 Jump onto the crusier
+
+## POINTER 140 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+170 Battle on the ship
+
+## POINTER 141 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+180 <STR>(YUR) on the ocean
+
+## POINTER 143 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+010 Get off the ship
+
+## POINTER 144 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+020 Ioder, the next emperor
+
+## POINTER 145 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+030 You have a point...
+
+## POINTER 146 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+040 Mercenary guild is to the west.
+
+## POINTER 148 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+010 Nan and <STR>(KAR)
+
+## POINTER 149 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+020 Need to head back if it's a dead end
+
+## POINTER 150 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+030 MHG is one big team
+
+## POINTER 151 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+040 There's mana everywere
+
+## POINTER 152 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+050 Facing MHG, <STR>(JUD) destroyed death toad's barrier
+
+## POINTER 153 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+060 <STR>(KAR) returns
+
+## POINTER 154 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+070 Leblanc captured by Schwan, <STR>(EST_P)'s truth
+
+## POINTER 156 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+010 Interrogated but released
+
+## POINTER 157 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+011 Let's look around the city
+
+## POINTER 158 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+020 Successor and the change in the blastia
+
+## POINTER 159 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+021 Do you hear some weird noise?
+
+## POINTER 160 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+022 <STR>(RIT) want's to investigate the blastia
+
+## POINTER 161 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+023 Can I join until arrival to the capital?
+
+## POINTER 162 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+024 What happened to the barrier!?
+
+## POINTER 163 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+030 <STR>(RIT) is fixing the blastia
+
+## POINTER 164 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+040 <STR>(EST_P) heals people
+
+## POINTER 165 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+050 <STR>(KAR) feels down
+
+## POINTER 166 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+060 Dragon rider attackes <STR>(EST_P)
+
+## POINTER 167 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+070 Head to Dahngrest
+
+## POINTER 168 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+080 Can you make a research on the woods?
+
+## POINTER 170 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+010 Let go see Don
+
+## POINTER 171 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+020 The barrier disappeared!?
+
+## POINTER 172 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+030 A battle royal. Don appears
+
+## POINTER 173 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+040 Fixing the barrier
+
+## POINTER 174 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+050 Don exits the city, head to the woods first
+
+## POINTER 176 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+010 Woods of giant tree and bugs, <STR>(RAV) appears
+
+## POINTER 177 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+020 Who is <STR>(RAV) anyway!?
+
+## POINTER 178 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+030 Duke appears. Defeat enemy with Eternal Sword
+
+## POINTER 179 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+040 Head back to city of guilds
+
+## POINTER 181 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+010 <STR>(FRE) fall into a trap
+
+## POINTER 182 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+020 I lost my wallet
+
+## POINTER 183 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+040 <STR>(YUR) replaces <STR>(FRE)
+
+## POINTER 184 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+050 Blood Alliance spotted!
+
+## POINTER 185 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+060 In here?
+
+## POINTER 186 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+070 Ragou and Barbos
+
+## POINTER 187 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+080 <STR>(FRE) made it in time
+
+## POINTER 188 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+090 Going after Barbos
+
+## POINTER 190 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+010 Assult
+
+## POINTER 191 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+020 Defeat against Barbos
+
+## POINTER 192 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+030 Corporate with <STR>(JUD) and escape
+
+## POINTER 193 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+040 <STR>(JUD) introducing herself
+
+## POINTER 194 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+050 S. Ring enhanced
+
+## POINTER 195 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+060 Meeting up with everyone
+
+## POINTER 196 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+080 So what is with the dragon rider?
+
+## POINTER 197 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+090 Battle against Barbos?
+
+## POINTER 198 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+110 Blastia returned, End to the case
+
+## POINTER 199 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+Do you with to cancel?
+
+## POINTER 201 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+This is Event Jump for 
+CHAPTER 2
+
+## POINTER 202 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+CHAPTER  2 Event Jump
+
+## POINTER 203 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP220 Dahngrest
+
+## POINTER 204 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP230 Dahngrest
+
+## POINTER 205 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP240 The Rising City Heliord
+
+## POINTER 206 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP250 Capua Torim
+
+## POINTER 207 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP260 Ghost Ship Atherum
+
+## POINTER 208 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP270 The Colosseum City Nordopolica
+
+## POINTER 209 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP280 The Weasand of Cados
+
+## POINTER 210 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP290 Desert Oasis Mantaic
+
+## POINTER 211 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP300 Sands of Kogorh
+
+## POINTER 212 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP310 The Heartland Town Yormgen
+
+## POINTER 213 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP320 Desert Oasis Mantaic
+
+## POINTER 214 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP330 The Weasand of Cados
+
+## POINTER 215 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP340 The Colosseum City Nordopolica
+
+## POINTER 216 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP350 The Vessel of Hope and Glory Fiertia
+
+## POINTER 217 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP360 Dahngrest
+
+## POINTER 218 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP370 Mt. Temza
+
+## POINTER 219 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP380 Phaeroh's Crag
+
+## POINTER 220 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP390 Egothor Forest
+
+## POINTER 221 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP400 The Home of the Kritya Myorzo
+
+## POINTER 222 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP410 The Heartland Town Yormgen
+
+## POINTER 223 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP420 The Forgotten Shrine Baction
+
+## POINTER 224 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618269]
+EP430 Over the Sky

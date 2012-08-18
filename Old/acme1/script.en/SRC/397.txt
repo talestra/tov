@@ -1,0 +1,99 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS37_001)And here we are. Welcome 
+to Mt. Temza.
+
+## POINTER 1
+<STR>(RAP)
+<VOICE>(VS37_002)Woof!
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS37_003)These are human 
+footprints, right? There 
+sure are a lot of them.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS37_004)Could it be the Hunting Blades?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS37_005)That, or it might be the Knights.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS37_006)But why would the Knights be here?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS37_007)<STR>(FRE) was looking for apatheia 
+too. If that's what the Hunting 
+Blades are doing here...<PAGE><VOICE>(VS37_008)Then the Knights could be 
+here for the same reason.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS37_009)Why is everyone scrambling 
+to get their hands on 
+apatheia all of a sudden?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS37_010)We never had the 
+chance to get an 
+explanation from the Don...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS37_011)If <STR>(JUD_P)'ll clue us in on what she 
+knows, things might clear up.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS37_012)Hey! You guys, come look at 
+this! Th-this is crazy!
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS37_013)What the heck is 
+this? The mountain's 
+been...flattened.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS37_014)What could have happened...?
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS37_015)Is there really supposed 
+to be a town here...?
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VS37_016)Well, it was here ten years 
+ago, that I'm sure of.<PAGE><VOICE>(VS37_017)But I can't vouch for what's 
+happened since then.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS37_018)Ten years? That's quite 
+a ways back. What were you 
+doing way out here?
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS37_019)Uh, well...
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS37_020)That voice... Is that you, Freak?!
+
+## POINTER 18
+<STR>(RAV)
+<VOICE>(VS37_021)Here's hopin' everything's 
+all right.
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS37_022)Let's hurry!

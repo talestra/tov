@@ -1,0 +1,46 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS60_044)Looks like the Teagles got away too.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS60_045)Even with the road 
+through Ehmead Hill 
+open, I'm still worried..
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS60_046)I love port towns. They always have 
+stuff, even in times like this.<PAGE><VOICE>(VS60_047)Looks like things just might work.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS60_048)What did you buy?
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS60_049)One of each formula crest, 
+and...container parts.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS60_050)What are you trying to do?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS60_051)I'm making a device that will 
+converge the spirits' powers.<PAGE><VOICE>(VS60_052)A kind of make-shift Dein Nomos.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS60_053)Dein Nomos...<PAGE><VOICE>(VS60_054)I wonder what Duke 
+is doing now...
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS60_055)I don't know... But he seems 
+totally obsessed...
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS60_056)W-what's that?!

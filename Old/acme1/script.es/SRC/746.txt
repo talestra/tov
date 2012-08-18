@@ -1,0 +1,91 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518032]
+<STR>(RIT)
+Creo que está
+por aquí...<PAGE>¡Oh! ¡Aquí está, aquí está! ¡«La leyenda
+durmiente en las ardientes arenas»!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518032]
+<STR>(YUR)
+¡Vaya, vaya! Este libro
+es de la posada, ¿verdad?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518032]
+<STR>(RIT)
+Sí.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1293214357]
+
+¿Querían algo?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1293214357]
+<STR>(RIT)
+Bueno, acerca del libro que hay
+en esta estantería...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518032]
+
+Ah, ¿ese?<PAGE>Esa estantería está llena de libros que nuestros
+clientes se olvidaron durante su estancia.<PAGE>La verdad es que no nos sirven para nada,
+y los clientes casi nunca vuelven a por ellos.<PAGE>Pueden hacer lo que quieran
+con cualquier libro de esa estantería.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518032]
+<STR>(YUR)
+Vamos, que no te importa
+si nos llevamos uno.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518032]
+
+¡No, en absoluto! De hecho, la estantería
+se llena bastante rápido, y al final
+tenemos que acabar tirando los libros.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1293214432]
+<STR>(RIT)
+Genial, entonces nos
+lo llevamos. ¡Gracias!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1293214357]
+<STR>(YUR)
+Muy bien. ¿Por fin
+los tienes todos?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518032]
+<STR>(RIT)
+Sip. Tengo
+los cinco.<PAGE>Ahora ya puedo
+hacer el examen.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1293214357]
+<STR>(YUR)
+Ir a buscar libros por todo el mundo.
+¡Este examen es de locos!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518032]
+<STR>(RIT)
+Oh, pues la prueba final aún tiene que empezar.<PAGE>Habrá un examen escrito en el que
+necesitaré estos libros como referencia.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1293214357]
+<STR>(YUR)
+Agh, con solo pensar en exámenes
+ya me duele la cabeza.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1293214357]
+<STR>(RIT)
+¿No te gustaría intentarlo?
+Solo para ver qué tal lo haces.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518032]
+<STR>(YUR)
+Nah, suspendería antes de empezar.
+Y no me importa el doctorado comosellame.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518032]
+<STR>(RIT)
+Sí, darte algo así sería como
+echar margaritas a los cerdos.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518032]
+<STR>(YUR)
+Oye, ¡¿a quién estás llamando cerdo?!

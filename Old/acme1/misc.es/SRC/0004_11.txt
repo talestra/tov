@@ -1,0 +1,299 @@
+## POINTER 1762 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263131774]
+Dos cuchilladas traperas y un tajo lateral
+
+## POINTER 1764 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263131774]
+Dos cuchilladas traperas y un golpe inverso
+
+## POINTER 1766 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263122720]
+Tajo lateral
+
+## POINTER 1768 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263131774]
+Ataque
+
+## POINTER 1770 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263122720]
+Patada giratoria
+
+## POINTER 1772 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132058]
+Golpe en retirada
+
+## POINTER 1774 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132058]
+Golpe consecutivo
+
+## POINTER 1776 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132058]
+Barrido
+
+## POINTER 1778 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132058]
+Ataque de cañón arrodillado
+
+## POINTER 1780 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132058]
+Golpe de arcorifle
+
+## POINTER 1782 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132058]
+Disparo de francotirador
+
+## POINTER 1784 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262370546]
+Golpe
+
+## POINTER 1786 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263123017]
+Gran mandoble
+
+## POINTER 1788 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132058]
+Golpe en salto
+
+## POINTER 1790 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132507]
+Restitución de ataque manual
+
+## POINTER 1792 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132507]
+Giro de bastón
+
+## POINTER 1794 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1262998712]
+Bola de fuego
+
+## POINTER 1796 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1262999678]
+Champán
+
+## POINTER 1798 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263083320]
+Viento cortante
+
+## POINTER 1800 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1262999678]
+Estallido rocoso
+
+## POINTER 1802 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262370546]
+Salpicadura
+
+## POINTER 1804 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262370546]
+Estalagmita
+
+## POINTER 1806 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262368859]
+Primeros auxilios
+
+## POINTER 1808 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262370546]
+Erupción
+
+## POINTER 1810 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263085013]
+Hiedra arrasadora
+
+## POINTER 1812 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263085013]
+Lanza demoníaca
+
+## POINTER 1814 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263085013]
+Láser acuoso
+
+## POINTER 1816 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263085146]
+Lancero gélido
+
+## POINTER 1818 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263085233]
+Fotón
+
+## POINTER 1820 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263083658]
+Anillo de ángel
+
+## POINTER 1822 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1262999678]
+Dentellada
+
+## POINTER 1824 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263123017]
+Mandoble delantero
+
+## POINTER 1826 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1262999678]
+Embestida
+
+## POINTER 1828 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132507]
+Aplastar
+
+## POINTER 1830 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Ataque cañón
+
+## POINTER 1832 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Cabezazo
+
+## POINTER 1834 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Ataque cañón
+
+## POINTER 1836 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1264985761]
+Pinza de cangrejo
+
+## POINTER 1838 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132507]
+Giro de cola / Nudillos traseros
+
+## POINTER 1840 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132507]
+Tajo a dos manos
+
+## POINTER 1842 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Estocada de cola
+
+## POINTER 1844 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Garra de cola
+
+## POINTER 1846 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Lanzamiento de cola
+
+## POINTER 1848 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1262999678]
+Pota
+
+## POINTER 1850 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Tela de araña pequeña
+
+## POINTER 1852 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Tela de araña grande
+
+## POINTER 1854 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Púa de cactus
+
+## POINTER 1856 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Cortina de fuego de púas
+
+## POINTER 1858 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Pistola de cangrejo
+
+## POINTER 1860 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Ataque de brazo
+
+## POINTER 1862 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1262999678]
+Arma arrojadiza
+
+## POINTER 1864 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Aguijonazo
+
+## POINTER 1866 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Alcance
+
+## POINTER 1868 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Ataque de lengua
+
+## POINTER 1870 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Presa de cuerpo
+
+## POINTER 1872 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Potada pequeña / Escupe huevos
+
+## POINTER 1874 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132689]
+Potada media
+
+## POINTER 1876 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1264985761]
+Porrazo de cola
+
+## POINTER 1878 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Burbuja venenosa
+
+## POINTER 1880 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Burbuja mental
+
+## POINTER 1882 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Cabezazo
+
+## POINTER 1884 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Placaje
+
+## POINTER 1886 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Barrido de cola
+
+## POINTER 1888 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Barrido de cola combo
+
+## POINTER 1890 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Aguijonazo
+
+## POINTER 1892 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Ataque de esporas
+
+## POINTER 1894 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Ataque de espuma
+
+## POINTER 1896 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Ataque de cola de ardilla
+
+## POINTER 1898 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Gran salto
+
+## POINTER 1900 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Ataque barrido
+
+## POINTER 1902 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Corte cruzado
+
+## POINTER 1904 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Tajo elevador
+
+## POINTER 1906 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Dentellada
+
+## POINTER 1908 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263123017]
+Ataque a dos manos
+
+## POINTER 1910 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Placaje
+
+## POINTER 1912 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Aguijonazo
+
+## POINTER 1914 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Disparo de fuego
+
+## POINTER 1916 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Disparo de trueno
+
+## POINTER 1918 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1262999678]
+Dentallada
+
+## POINTER 1920 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Ataque corporal
+
+## POINTER 1922 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Patada trasera
+
+## POINTER 1924 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Bofetada de cola
+
+## POINTER 1926 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Arañazo
+
+## POINTER 1928 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Golpe espiritual bocazas
+
+## POINTER 1930 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Láser ventisca
+
+## POINTER 1932 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Colmillo venenoso
+
+## POINTER 1934 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Estocada elevadora
+
+## POINTER 1936 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Golpe de nariz en retirada
+
+## POINTER 1938 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1262999678]
+Embestida
+
+## POINTER 1940 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1262999678]
+Dentellada
+
+## POINTER 1942 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1264985761]
+Embestida neumática
+
+## POINTER 1944 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1264985761]
+Brinco neumático
+
+## POINTER 1946 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1264985761]
+Giro neumático
+
+## POINTER 1948 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Estallido eléctrico
+
+## POINTER 1950 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Hálito
+
+## POINTER 1952 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Embestida
+
+## POINTER 1954 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Patadón
+
+## POINTER 1956 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Movimiento de cola
+
+## POINTER 1958 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112922]
+Placaje
+
+## POINTER 1960 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263132946]
+Meneo

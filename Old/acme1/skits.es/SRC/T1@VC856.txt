@@ -1,0 +1,48 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251847338]
+Gremio contra gremio
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297631842]
+(YUR)
+Ahora el pueblo está tranquilo, pero
+las cosas pueden ponerse feas rápidamente.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297631842]
+(RIT)
+Sí, bueno. Ya hemos visto de todo.
+
+## POINTER 3 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266404133]
+(YUR)
+Pero nunca nada como esto.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297631842]
+(YUR)
+¿Crees que Palestrale dejará correr
+la muerte de Belius así, sin más?
+
+## POINTER 5 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266404133]
+(RIT)
+El nieto del Don también está metido en esto...
+Supongo que no pueden hacer la vista gorda.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297631842]
+(RIT)
+Sí que se toman en serio los gremios
+sus reglas y lo de saldar sus cuentas.
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266404133]
+(YUR)
+Exacto.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297631842]
+(RIT)
+Qué cansinos. De verdad
+que no lo entiendo.
+
+## POINTER 9 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266404262]
+(YUR)
+Nosotros también estamos metidos en esto, ¿sabes?
+Tú estate alerta por si algo sale mal.
+
+## POINTER 10 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266404262]
+(RIT)
+Lo sé.

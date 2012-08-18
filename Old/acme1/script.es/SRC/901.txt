@@ -1,0 +1,140 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294937609]
+Ted
+¡<STR>(YUR)!
+¿Estás bien?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294937609]
+<STR>(YUR)
+¿Eh? ¿A qué te refieres?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916069]
+Ted
+Me refiero a...
+Bueno, con todo
+lo que ha pasado...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294937609]
+<STR>(YUR)
+Oh, sí... Supongo que las
+cosas ya se arreglarán.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296922088]
+Ted
+¿Tú crees?<PAGE>Mucha gente ha huido, y los del
+barrio bajo están muy tristotes...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916069]
+<STR>(EST_P)
+Es cierto, no noto la
+misma energía de antes.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1294937609]
+<STR>(KAR)
+Han pasado muchas cosas
+desde entonces...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296922088]
+Ted
+Oye, <STR>(YUR). ¿Crees que habría
+alguna forma de animar a la gente?
+Ya sabes, para que estén como antes.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916069]
+<STR>(YUR)
+Mmm, buena pregunta. Quizás podamos
+subirles la moral de alguna forma
+y distraerlos de sus preocupaciones.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294937609]
+Ted
+Mmm...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296922088]
+Ted
+¡Ya sé! ¡Hagamos una carrera!
+Sí, hombre, como las
+que se organizaban antes.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923763]
+<STR>(YUR)
+Oh, ¿te refieres a la Carrera
+del Viejo? Seguro que eso
+entusiasmaría mucho a la gente.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1294938486]
+Ted
+¡Pues decidido!
+¡Voy a avisar
+a todo el mundo!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923763]
+<STR>(KAR)
+Oye, <STR>(YUR).
+¿Qué es eso de la
+«Carrera del Viejo»?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916069]
+<STR>(YUR)
+Es básicamente
+una carrera por
+toda la ciudad.<PAGE>Se participa de dos formas: uno corre
+y otro se encarga de la estrategia.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916069]
+<STR>(RIT)
+Mmm... ¿Y se supone que eso
+emocionará mucho a la gente?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1294938486]
+<STR>(YUR)
+Ya entenderás a lo que me refiero.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916069]
+Ted
+Ya se lo he contado a todos.
+¡Están de lo más expectantes!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916069]
+<STR>(YUR)
+Seguro que todos han estado buscando
+una excusa para celebrar una carrera.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1294938486]
+Ted
+¡Muy bien,
+vamos allá!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:kaene;time:1294938486]
+Ted
+¡Guau, ha sido
+muy emocionante!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296922088]
+<STR>(KAR)
+¡Ha sido genial!
+¡Y eso que solo
+estaba de público!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916069]
+<STR>(JUD)
+¿Tú no corres
+nunca, <STR>(YUR)?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:kaene;time:1294938486]
+Ted
+Nah, a <STR>(YUR) se
+le da mucho mejor la
+parte de la estrategia.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916069]
+<STR>(YUR)
+Sí; y además, correr es un rollo.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:kaene;time:1294938486]
+<STR>(RAV)
+Pa mí que lo que te gusta es decir a los demás
+lo que tienen que hacer, y nu lo contrario.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916069]
+Ted
+¡Hagamos otra algún día!

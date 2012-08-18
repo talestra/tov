@@ -1,0 +1,83 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(YUR)
+<VOICE>(VS44_167)¡¿Qué es esto?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1283548590]
+<STR>(RIT)
+<VOICE>(VS44_168)¡El blastia está fuera de control!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(YUR)
+<VOICE>(VS44_169)Parece que cuando Zagi destrozó
+el panel de control hizo más
+daño del que nos pensábamos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(RAV)
+<VOICE>(VS44_170)¿Qué leñe hacemos
+ahora con esto?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1283548590]
+<STR>(RIT)
+<VOICE>(VS44_171)¡Espera!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(JUD)
+<VOICE>(VS44_172)No creo que esperar
+nos beneficie en nada.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(RIT)
+<VOICE>(VS44_173)No, creo que ya lo tengo.
+¡Mira!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(KAR)
+<VOICE>(VS44_174)¡Agh! ¿Qué es eso?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(RIT)
+<VOICE>(VS44_175)Se está transfiriendo aer
+a gran velocidad.<PAGE><VOICE>(VS44_176)Solo existe un sitio
+al que algo tan enorme
+envíe tanta energía.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1283548590]
+<STR>(YUR)
+<VOICE>(VS44_177)¡¿Un cañón?!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(RIT)
+<VOICE>(VS44_178)Si destruimos
+ahora este blastia...<PAGE><VOICE>(VS44_179)Tal vez detengamos el Heracles,
+¡pero el cañón podría dispararse
+y borrar Zaphias del mapa!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(KAR)
+<VOICE>(VS44_180)¡No fastidies!
+¿Y-Y qué hacemos?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(JUD)
+<VOICE>(VS44_181)Bueno, sea como sea,
+tenemos que detener este aer.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1283638157]
+<STR>(RAV)
+<VOICE>(VS44_182)La Dein Nomos, ¿eh?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(KAR)
+<VOICE>(VS44_183)¡Oh, claro! Eso es lo que
+usaba Duke para mantener
+el aer bajo control.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279943]
+<STR>(RIT)
+<VOICE>(VS44_184)¿De verdad podrás hacerlo?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1283548590]
+<STR>(YUR)
+<VOICE>(VS44_185)No me queda otra.
+Vamos allá.

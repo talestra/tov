@@ -1,0 +1,180 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241351]
+<STR>(KAR)
+¿Q-Qué ocurre?
+De repente me siento mal.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(RIT)
+¿Hasta alguien tan corto
+como tú puede notarlo?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(KAR)
+¿A quién llamas tú...?
+Espera, ¿tú también
+lo estás sintiendo?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(YUR)
+Ugh, qué mareo...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241351]
+<STR>(KAR)
+<STR>(YUR)... ¿<STR>(EST_P), tú también?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(EST_P)
+Estoy b-bien.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241351]
+<STR>(YUR)
+No os sobresforcéis.
+Podemos descansar aquí y echar un vistazo.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(RIT)
+En serio, ¿qué está ocurriendo?
+Desde que hemos entrado aquí...
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(KAR)
+Si un monstruo nos atacara ahora,
+no creo que pudiera hacer nada.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273480277]
+<STR>(YUR)
+Decir esas cosas es como un imán
+para los monstruos, ¿lo sabías?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(EST_P)
+...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241351]
+<STR>(EST_P)
+¡<STR>(YUR)!
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273480277]
+<STR>(YUR)
+Si vas a desmayarte, ¿no podrías hacerlo
+en medio de una calle abarrotada de gente?
+No puedo estar cogiéndote toda la vida.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1277288370]
+<STR>(EST_P)
+S-Sí, gracias.
+Todavía estoy bien.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(RIT)
+Esto es aer...
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(KAR)
+¿Qué? Creía que el aer
+no podía verse a simple vista.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(RIT)
+Sí se puede si es lo bastante denso.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241351]
+<STR>(YUR)
+<STR>(EST_P), tú antes habías dicho
+algo sobre el tema, ¿no?<PAGE>Aquello de que si el aer es demasiado
+denso resulta perjudicial para la salud.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241351]
+<STR>(EST_P)
+Sí... «El aer de alta densidad puede
+provocar ocasionalmente efectos
+muy negativos en el cuerpo humano».
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(YUR)
+Es lo que hizo que te desmayaras
+en los bosques de Quoi.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241351]
+<STR>(RIT)
+¿En serio? Vaya.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(YUR)
+Será mejor que salgamos de aquí.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(EST_P)
+Pero todavía no hemos descubierto
+si los mercenarios están aquí o no.
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(YUR)
+Supongo que tienes razón, pero...
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(EST_P)
+Sigamos adelante.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(RIT)
+Parece que este blastia está
+conectado a la puerta.
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(KAR)
+¿Cómo la abrimos?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241351]
+<STR>(RIT)
+Parece que tenemos que colocar con cuidado
+los símbolos para formar la frase correcta.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(YUR)
+¿No acabaríamos antes
+rompiéndola?
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(RIT)
+No es una buena idea. ¿Qué pasaría
+si no la rompemos pero deja de funcionar?
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(YUR)
+Oye... algo está saliendo de ella.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241351]
+<STR>(RIT)
+Entonces, ¿no tenemos más
+que poner letras aquí?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241351]
+<STR>(KAR)
+Oye, ¿no habíamos cogido
+antes unos papelajos raros?
+
+## POINTER 33 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(EST_P)
+De hecho, si lo piensas...<PAGE>¿Es posible que esto sea
+una pista para hallar el código?
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(YUR)
+Parece que tendremos que darle al coco
+para encontrar la respuesta.
+Vamos a echar un vistazo al papel ese.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241351]
+<STR>(RIT)
+Entonces, ¿no tenemos más
+que poner letras aquí?
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(KAR)
+¿Qué letras?
+
+## POINTER 37 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272872881]
+<STR>(YUR)
+Tenemos que encontrar algún tipo de pista,
+o de lo contrario no podremos abrir la puerta.

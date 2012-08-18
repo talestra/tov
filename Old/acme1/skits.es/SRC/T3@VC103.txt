@@ -1,0 +1,69 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266520256]
+Hasta los perros tienen orgullo
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1304526799]
+(KAR)
+No entiendo a (RAP).
+Es un perro, con garras y colmillos,
+pero ¿aun así usa armas?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296913000]
+(RAP)
+Grr... ¡Guau!
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297937]
+(YUR)
+Ya, supongo que los perros normalmente
+luchan con sus garras y colmillos.
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297937]
+(EST_P)
+¿Eh? Pero (RAP) es un perro, ¿no?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296913000]
+(RAP)
+¡Guau, guau!
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297937]
+(YUR)
+(RAP) es (RAP).
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899685]
+(KAR)
+¿Qué quieres decir con eso?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296912978]
+(RAP)
+¡Guau, guau! ¡GUAU!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163032]
+(YUR)
+Sea lo que sea, (RAP) no se considera
+un perro. Por eso usa armas y objetos.
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297937]
+(YUR)
+Pero tampoco quiere decir
+que se considere un humano.
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297937]
+(EST_P)
+No creo entenderlo... 
+Pero él parece estar muy orgulloso.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296913000]
+(RAP)
+¡GUAU!
+
+## POINTER 13 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297937]
+(YUR)
+¡Sip! ¡Así que mostradle algo de respeto!
+
+## POINTER 14 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297937]
+(KAR)
+Oye, (YUR)... ¿Nos estás traduciendo
+lo que dice (RAP)?
+
+## POINTER 15 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297937]
+(YUR)
+Nah, son imaginaciones tuyas.

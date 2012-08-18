@@ -1,0 +1,173 @@
+## POINTER 0
+None
+
+## POINTER 1
+Boss defeated
+
+## POINTER 2
+Combo bonus at defeating boss
+
+## POINTER 3
+Ally did not receive frequent attacks
+
+## POINTER 4
+Struck down enemy by attacking its weakness
+
+## POINTER 5
+Struck down enemy using billybally.
+
+## POINTER 6
+Knocked enemy into sea
+
+## POINTER 7
+Knocked over enemy with close hand attack
+
+## POINTER 8
+Prevented enemy from recovering using Serpent
+
+## POINTER 9
+Prevented enemy from calling reinforcement
+
+## POINTER 10
+Let enemy absorb excessive amont of magic
+
+## POINTER 11
+Defeated Leader Bat and prevented from combining.
+
+## POINTER 12
+Destroyed core and prevented inverting day and night
+
+## POINTER 13
+Lit the candlestick.and eliminated phantom
+
+## POINTER 14
+Aimed between certain attack and struck down enemy
+
+## POINTER 15
+Hit enemy while holding it's heart
+
+## POINTER 16
+Forced enemy to recover from poison status
+
+## POINTER 17
+Hit thrice while enemy using Ice Edge
+
+## POINTER 18
+Used item:Mother's Memento
+
+## POINTER 19
+Attacked with Rain at Guard Break
+
+## POINTER 20
+Hit enemy a moment after it's Mystic arte
+
+## POINTER 21
+Knocked over enemy after it's tail pulled in
+
+## POINTER 22
+Aimed between attacks and struck down enemy
+
+## POINTER 23
+<STR>(FRE) used all artes available
+
+## POINTER 24
+Aimed moment after  ---- and struck down enemy
+
+## POINTER 25
+Defeated enemy by Mystic arte
+
+## POINTER 26
+Fatal Strike chained bonus
+
+## POINTER 27
+Damage taken
+
+## POINTER 28
+Combo damage taken
+
+## POINTER 29
+Blocked attack
+
+## POINTER 30
+Blocked with magic guard
+
+## POINTER 31
+Attacked with resistant attribute
+
+## POINTER 32
+Knocked away enemy on ground
+
+## POINTER 33
+Knocked staggered enemy into air
+
+## POINTER 34
+Struck down enemy in air
+
+## POINTER 35
+Player character defeated
+
+## POINTER 36
+Ally character defeated
+
+## POINTER 37
+10 hit combo
+
+## POINTER 38
+25 hit combo
+
+## POINTER 39
+50 hit combo
+
+## POINTER 40
+100 hit combo
+
+## POINTER 41
+250 hit combo
+
+## POINTER 42
+500 hit combo
+
+## POINTER 43
+999 hit combo
+
+## POINTER 44
+Burst Artes used
+
+## POINTER 45
+Fatal Strike used
+
+## POINTER 46
+Mystic Arte used
+
+## POINTER 47
+Finished in 2 sec or less
+
+## POINTER 48
+Finished in 5 sec or less
+
+## POINTER 49
+Finished in 10 sec or less
+
+## POINTER 50
+Finished in 20 sec or less
+
+## POINTER 51
+No damage taken
+
+## POINTER 52
+Heal item used
+
+## POINTER 53
+Max HP at end of battle
+
+## POINTER 54
+Max TP at end of battle
+
+## POINTER 55
+Player character K.O.ed at end of battle
+
+## POINTER 56
+Player character uncured
+
+## POINTER 57
+Manual mode

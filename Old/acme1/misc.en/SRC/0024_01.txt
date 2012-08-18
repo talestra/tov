@@ -1,0 +1,332 @@
+## POINTER 100
+This is not enough.
+
+## POINTER 101
+That's it?
+
+## POINTER 102
+Are you trying to bully an old man?
+
+## POINTER 103
+Huh? Is that all?
+
+## POINTER 104
+This isn't enough.
+
+## POINTER 105
+Where's the rest of my order?
+
+## POINTER 106
+I think you forgot something...
+
+## POINTER 107
+This can't be all of it.
+
+## POINTER 108
+Something is missing.
+
+## POINTER 109
+That's it?!
+
+## POINTER 110
+and
+
+## POINTER 111
+and
+
+## POINTER 112
+and
+
+## POINTER 113
+and
+
+## POINTER 114
+and
+
+## POINTER 115
+Forget that last one...
+
+## POINTER 116
+Forget that last one...
+
+## POINTER 117
+Forget that last one...
+
+## POINTER 118
+Forget that last one...
+
+## POINTER 119
+Forget that last one...
+
+## POINTER 120
+That's it.
+
+## POINTER 121
+That's it.
+
+## POINTER 122
+That's it.
+
+## POINTER 123
+That's it.
+
+## POINTER 124
+That's it.
+
+## POINTER 125
+Guess the sum of the 3 dice rolled by the Dice Master.
+The sum is considered ”low” if it's a number that
+falls between 3 and 10. It is considered ”high” if it
+falls between 11-18. The player makes a guess
+on whether the sum will be a ”high” or a ”low”number.
+Get three guesses correct in a row to win.
+It's game over if you miss even one!
+
+## POINTER 126
+Guess if the sum of 2 dice is an odd or even number.
+If the sum is a 2, 4, 6, 8, 10, or 12, it is ”even.”
+It is ”odd” if it is a 3, 5, 7, 9, or 11. Get 3 guesses
+in a row correct to win. It’s game over if you miss even one!
+
+## POINTER 127
+Start the game?
+
+## POINTER 128
+Confirm Rules
+Start
+
+## POINTER 129
+<06>(RBL) Order
+
+## POINTER 130
+<06>(RBU) Reset
+
+## POINTER 131
+<0B>(0)
+
+## POINTER 132
+Um, so where's my order?
+
+## POINTER 133
+When is that food I ordered coming?
+
+## POINTER 134
+Where's my food?
+
+## POINTER 135
+I'm starving...
+
+## POINTER 136
+Is it ready yet?
+Is it?
+
+## POINTER 137
+So...hungry...
+
+## POINTER 138
+How long is this going to take?
+
+## POINTER 139
+I'm going to starve to death
+if you don't hurry...
+
+## POINTER 140
+Not yet?!
+
+## POINTER 141
+Hey buddy!
+You've got some nerve...
+
+## POINTER 142
+Don't just stand around!
+Go get me my food!
+
+## POINTER 143
+Um, that wasn't very good.
+You're not getting paid this time.
+Try harder next time!
+
+## POINTER 144
+Thank you ∀
+
+## POINTER 145
+Try Level 2?
+
+## POINTER 146
+Try Level 3?
+
+## POINTER 147
+Have someone else try?
+
+## POINTER 148
+<STR>(EST_P)
+
+## POINTER 149
+<STR>(KAR)
+
+## POINTER 150
+<STR>(RIT)
+
+## POINTER 151
+<STR>(JUD)
+
+## POINTER 152
+<STR>(RAV)
+
+## POINTER 153
+It doesn't seem like anyone can do it.
+
+## POINTER 154
+Oh! Looks like some customers are arriving!
+
+## POINTER 155
+Playing the Game
+
+1. Go over to the customers to take their orders when called.
+2. Input the orders at the counter.
+3. Once the order is ready, take it to the respective customer.
+4. The game is finished when all the orders have been 
+        delivered to the customers.
+5. Pay will depend on how well you fulfill the orders.
+Good luck!
+
+## POINTER 156
+Hints:
+-Approach the customer to take their order once called.
+-The customer will only say the order once, so listen carefully!
+-You can only input one order at the counter each time.
+-Bring the dish to the customer as soon as it is ready.
+-The customer will not be happy if you incorrectly bring
+        them the number of dishes in their order.
+-Your payment will change depending on how well you delivered
+        the order and how quickly you serve the customers.
+-Conditions will change depending on the server.
+
+## POINTER 157
+Speedy Server Rules - 3
+
+## POINTER 158
+I'm counting on you.
+
+## POINTER 159
+Menu List
+
+## POINTER 160
+Thank you for waiting.∀
+Here's your order. Enjoy your food!
+
+## POINTER 161
+Game Controls
+
+## POINTER 162
+Quit?
+
+## POINTER 163
+<06>(RBD)Increase Amount
+
+## POINTER 164
+<06>(RBR)Cancel
+
+## POINTER 165
+Aer conducted by <STR>(RIT) will flow from
+right to left on the top line in color.<PAGE>
+Press the <06>(RBD), <06>(RBR), <06>(RBL), or
+<06>(RBU) button corresponding to the color of the aer
+at the correct timing when it overlaps <STR>(EST_P)’s
+force field, represented by the blue mark to reconstitute it.<PAGE>
+If the button is not pressed at the correct timing,
+aer will leak, so beware. The gauge on the right
+represents the amount of mana collected.
+Collect the specified amount to clear the game.
+
+## POINTER 166
+Successfully reconstituted aer!
+
+## POINTER 167
+Failed to reconstitute aer...
+
+## POINTER 168
+About Aer Master
+
+## POINTER 169
+Confirm Rules
+Start
+
+## POINTER 170
+Ask <STR>(RIT)?
+
+## POINTER 171
+Ask
+Retry
+
+## POINTER 172
+Asked <STR>(RIT).
+
+## POINTER 173
+Successfully reconstituted aer!
+
+## POINTER 174
+Gel Set
+
+## POINTER 175
+Bottle Set
+
+## POINTER 176
+Super Gel Set
+
+## POINTER 177
+Confirm Rules
+
+## POINTER 178
+Thirty Man Melee (3,000 Gald)
+
+## POINTER 179
+Fifty Man Melee (5,000 Gald)
+
+## POINTER 180
+Eighty Man Melee (8,000 Gald)
+
+## POINTER 181
+Hundred Man Melee (10,000 Gald)
+
+## POINTER 182
+The Mysterious Two Hundred Man Melee (20,000 Gald)
+
+## POINTER 183
+Do not participate
+
+## POINTER 184
+Will <0B>(0) be
+participating?
+
+## POINTER 185
+And we have a challenger!!<PAGE>
+Our challenger today comes
+from the guild, Brave Vesperia!<PAGE>
+Let's hear it folks, for 
+<0B>(0) <0B>(1)!!
+
+## POINTER 186
+Congratulations!<PAGE>
+That was amazing!
+The prize goes
+to <0B>(0)!<PAGE>
+There are plenty more fights 
+to be had here! We look forward 
+to your next appearance! Adios!
+
+## POINTER 187
+Ohhh...what a shame! Our challenger, 
+<0B>(0), has fallen! And what a 
+beautiful battle that was, too! 
+We look forward to your comeback!
+
+## POINTER 188
+Congratulations! <PAGE>
+You beat all fifty opponents!
+We have a fantastic prize
+for our challenger, <0B>(0)!<PAGE>
+You're only halfway to the
+real goal!! You should challenge
+the next level! We'll see you
+there! Adios!

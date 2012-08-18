@@ -1,0 +1,277 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279523322]
+<STR>(RIT)
+Unas condiciones anómalas en el aer provoca
+que los blastias pierdan el control, lo cual
+a su vez hace que los monstruos se enfurezcan...
+<PAGE>Si todo eso está relacionado con la «distorsión»
+que mencionó aquel tipo, entonces es posible
+que haya más sitios afectados aparte de este bosque.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298312496]
+<STR>(RAV)
+Te va mucho lo de hablar sola, ¿eh?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298312496]
+<STR>(KAR)
+¡Aaah! ¡¿Qué?!
+¿Nos atacan más monstruos?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(YUR)
+¡<STR>(KAR), baja el coco!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298312496]
+<STR>(EST_P)
+Son... son ellos...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298312496]
+<STR>(KAR)
+¡Don!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+¿Habéis hecho vosotros argo?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(YUR)
+¿Que si hemos hecho algo? ¿Qué quieres decir?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+¡Esos monstruos se han puesto de repente
+dóciles cual cachorritos y se han largao!
+¿Qué habéis hecho?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298312496]
+<STR>(EST_P)
+<STR>(YUR), debe deberse a
+que hemos detenido el flujo
+de aer...
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(KAR)
+¡Se han amansado
+porque hemos detenido
+el escape de aer!
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+¿Un escape de aer?
+Mmmm...
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(RIT)
+Oye, anciano.
+¡¿Es que sabes algo?!
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+Bueno, mi buena amiga, Belius,
+ya me mencionó argo al respecto
+alguna que otra vez...
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(KAR)
+Así que era verdad aquello de que
+el Don y Belius eran amigos...
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(RIT)
+¿Quién es Belius?
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(KAR)
+La Adalid que gobierna en
+el coliseo de Nordopólica.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(RIT)
+Nordopólica...
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+¿Y cómo era ese
+escape de aer?
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(KAR)
+¡Ha sido increíble! No paraban
+de salir monstruos cada vez más
+fuertes, pero al final hemos...
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+Niño, ese tipo de cosas es de las que
+es mejor guardarse pa uno mismo.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279535265]
+<STR>(KAR)
+¿Qué?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298312496]
+Don Whitehorse
+Uno no actúa pa después presumir
+ante los demás. Uno actúa pa proteger
+su ciudad y a sus amigos.
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279523322]
+<STR>(KAR)
+L-Lo siento...
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(EST_P)
+Disculpe. ¿Me deja
+que le eche un vistazo?
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+¿Qué?
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+
+Ooh... Sabes usar artes
+curativas... Gracias.
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+¿Mmm? Anda, ¿no es <STR>(RAV)
+ese que está ahín?
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+¡Deja de esconderte, sabandija!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988514]
+<STR>(RAV)
+Mmpf.
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279523322]
+Don Whitehorse
+Este subordinao mío no sus está
+dando problemas, ¿verdad?
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(RAV)
+¿Ein? ¿Cómo que si no doy problemas?
+Lo d'amansar a los monstruos fue
+cosa nuestra. ¡Y mía sobre tó!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298312496]
+<STR>(KAR)
+¡¿Eh?! ¡¿<STR>(RAV) es
+miembro de Altosk?!
+
+## POINTER 33 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(YUR)
+Eso parece, sí.
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(RAV)
+¡Aaay! ¡No
+te pases,
+abuelete!
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+¡Cierra el pico!
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(YUR)
+Don Whitehorse.
+
+## POINTER 37 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+¿Qué quieres?
+
+## POINTER 38 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(YUR)
+Ya sé que nos acabamos de conocer,
+pero necesito hablar contigo de un asunto.
+
+## POINTER 39 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+
+Don, siento interrumpir.
+
+## POINTER 40 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+Ah, entiendo. ¡Venga, panda
+de gandules! ¡Es hora de irnos!
+
+## POINTER 41 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+Don Whitehorse
+Me tendréis que perdonar, pero
+ha surgido argo. Tenemos que
+volver a Dahngrest.<PAGE>Si venís a la Unión, sus prestaré
+atención en cuanto tenga un momento
+libre. Espero que con eso sus valga.
+
+## POINTER 42 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(YUR)
+Si me das tu palabra,
+entonces de acuerdo.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1286989555]
+Don Whitehorse
+Mmpf, no te pones nada nervioso al hablar conmigo.
+Serías un buen fichaje pa mi gremio.
+
+## POINTER 44 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(YUR)
+Un gremio, ¿eh?
+
+## POINTER 45 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(KAR)
+Vamos a formar el nuestro, ¿verdad?
+
+## POINTER 46 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(YUR)
+Ya veremos.
+
+## POINTER 47 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(RAV)
+Bueno, ¿qué pensáis? ¿Ya sus habéis
+percatao de lo alucinante que soy?
+
+## POINTER 48 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(KAR)
+¡Lo que yo he visto ha sido
+de todo menos alucinante!
+
+## POINTER 49 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(RAV)
+¡Mira que te gusta
+criticar!
+
+## POINTER 50 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(YUR)
+Bueno, ya vale. Me gustaría
+volver a Dahngrest a ver si podemos
+ver al Don y seguir buscando a Barbos.
+
+## POINTER 51 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(EST_P)
+<STR>(RIT), en cuanto <STR>(YUR) haya
+acabado con lo suyo, deberíamos
+regresar para hacer el informe de...
+
+## POINTER 52 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(EST_P)
+¿<STR>(RIT)?
+
+## POINTER 53 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(RIT)
+Oh... ¿Decías algo?
+
+## POINTER 54 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(EST_P)
+Que en cuanto <STR>(YUR) haya terminado,
+deberíamos ir a informar a Alexei...
+
+## POINTER 55 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273960514]
+<STR>(EST_P)
+¿Te ocurre algo?
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:memnoch;time:1298312496]
+<STR>(RIT)
+N-No, no es nada.
+Venga, volvamos ya.

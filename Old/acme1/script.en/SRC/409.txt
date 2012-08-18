@@ -1,0 +1,259 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS37_159)Morning, <STR>(YUR).
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS37_160)Morning.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS37_161)It's a beautiful morning, but...<PAGE><VOICE>(VS37_162)Even as we stand here, the 
+aer is out of balance...<PAGE><VOICE>(VS37_163)And our world may 
+already be dying.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS37_164)...
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS37_165)That's right.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS37_166)Well, look who's 
+feeling better.
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS37_167)In the past, these slight 
+fluctuations of the aer have not 
+negatively affected our world.<PAGE><VOICE>(VS37_168)There have always been beings 
+who maintained the balance by 
+sensing changes in the aer flow.<PAGE><VOICE>(VS37_169)Beings like Phaeroh and 
+Ba'ul--the Entelexeia.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS37_170)So the Entelexeia were 
+responsible for keeping 
+the aer balanced...
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS37_171)For ages, the Entelexeia 
+have regulated the aer.<PAGE><VOICE>(VS37_172)But the recent increase 
+has been greater than 
+they could control.
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS37_173)Which is bein' caused 
+by the Hermes blastia.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS37_174)And which is also why you 
+were going around, taking down 
+as many of them as you could.
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS37_175)Yes. That was 
+my mission.<PAGE><VOICE>(VS37_176)The path I walk with Ba'ul, 
+to whom I owe my life.
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS37_177)The path you walk...
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS37_178)Now some would even hunt 
+the Entelexeia for apatheia.<PAGE><VOICE>(VS37_179)This has made the mission 
+of the Entelexeia even 
+more difficult.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS37_180)Why is everybody so crazy 
+about these apatheia, anyway?
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS37_181)I'm afraid I don't have an answer.<PAGE><VOICE>(VS37_182)The aer an Entelexeia absorbs 
+becomes condensed within 
+its body over time.<PAGE><VOICE>(VS37_183)When its life is at an end, 
+that condensed aer forms 
+a crystal--an apatheia.<PAGE><VOICE>(VS37_184)That's all I know. I imagine 
+Phaeroh could shed more 
+light on the subject, though.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS37_185)...So apatheia are crystals 
+of concentrated aer...<PAGE><VOICE>(VS37_186)If that's true, and the 
+energy could be extracted 
+from the apatheia...<PAGE><VOICE>(VS37_187)It would be a source 
+of overwhelming 
+power, I'm sure.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS37_188)Could we really do that?
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS37_189)I...I don't know.
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS37_190)I'd bet somebody wants 
+ta use these things for 
+the wrong reasons.
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS37_191)Why didn't you just tell us 
+all this from the beginning?
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS37_192)Seriously. We could have 
+avoided all this trouble if 
+you'd just talked to us.<PAGE><VOICE>(VS37_193)Am I wrong?
+
+## POINTER 22
+<STR>(JUD)
+<VOICE>(VS37_194)...Even if you had known...<PAGE><VOICE>(VS37_195)There are things not even 
+you could have prevented.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS37_196)What do you mean?
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS37_197)...I showed up at Heliord 
+because Ba'ul had sensed 
+a disturbance in the aer.<PAGE><VOICE>(VS37_198)Where there was a 
+disturbance, there was sure 
+to be a Hermes blastia...<PAGE><VOICE>(VS37_199)But what I found there was not 
+a blastia... It was a person. That 
+had never happened before.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS37_200)So it wasn't like you were 
+looking for <STR>(EST_P) in 
+particular back at Heliord.
+
+## POINTER 26
+<STR>(JUD)
+<VOICE>(VS37_201)Yet for some reason, 
+Ba'ul perceived <STR>(EST_P) as 
+a disturbance in the aer.<PAGE><VOICE>(VS37_202)I had to find out why. For the 
+sake of the path I've chosen.<PAGE><VOICE>(VS37_203)It was at that time that 
+Phaeroh first appeared.<PAGE><VOICE>(VS37_204)He seemed to have some 
+idea who <STR>(EST_P) was.
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VS37_205)My mission was to destroy 
+all the Hermes blastia.<PAGE><VOICE>(VS37_206)However, <STR>(EST_P) was obviously 
+not a blastia. I needed to make 
+absolutely certain...<PAGE><VOICE>(VS37_207)I made a deal with 
+Phaeroh, and he agreed 
+to grant me some time.
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS37_208)You mean...
+
+## POINTER 29
+<STR>(JUD)
+<VOICE>(VS37_209)If it became apparent that 
+her existence posed too 
+great a threat, then I...<PAGE><VOICE>(VS37_210)...I would kill her.
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS37_211)You what?!
+
+## POINTER 31
+<STR>(RAV)
+<VOICE>(VS37_212)Settle down. Obviously 
+<STR>(JUD) reached a 
+different conclusion.
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS37_213)All right. I get it.
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS37_214)Belius said you possess 
+a heart of compassion.<PAGE><VOICE>(VS37_215)If you can communicate that 
+to Phaeroh somehow...<PAGE><VOICE>(VS37_216)You may learn what 
+you should do.
+
+## POINTER 34
+<STR>(RIT)
+<VOICE>(VS37_217)H-hey, there's no real 
+reason for you to find 
+Phaeroh anymore, right?<PAGE><VOICE>(VS37_218)I mean, we know the Hermes 
+blastia are what's causing the 
+problem and everything.<PAGE><VOICE>(VS37_219)If we just make sure the apatheia 
+don't fall into the wrong hands...
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS37_220)...I still want to meet 
+Phaeroh. I want to hear 
+what he has to tell me.
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS37_221)But...
+
+## POINTER 37
+<STR>(EST_P)
+<VOICE>(VS37_222)Please try to understand.<PAGE><VOICE>(VS37_223)I have to know more 
+about myself, and take 
+responsibility for who I am.
+
+## POINTER 38
+<STR>(RIT)
+<VOICE>(VS37_224)All right...
+
+## POINTER 39
+<STR>(KAR)
+<VOICE>(VS37_225)Sorry, <STR>(YUR)... I don't think 
+we can decide what to 
+do about <STR>(JUD) right away...
+
+## POINTER 40
+<STR>(JUD)
+<VOICE>(VS37_226)I promise not to leave 
+again until things have been 
+"settled" as you said.<PAGE><VOICE>(VS37_227)I need to accept that 
+responsibility myself.
+
+## POINTER 41
+<STR>(YUR)
+<VOICE>(VS37_228)Let's go and find Phaeroh.<PAGE><VOICE>(VS37_229)We'll finally be getting 
+around to one of the first 
+things we set out to do.<PAGE><VOICE>(VS37_230)We can work out the 
+rest once this is finished.
+
+## POINTER 42
+<STR>(JUD)
+<VOICE>(VS37_231)There is a rocky crag in the 
+center of the Sands of Kogorh. 
+That is where Phaeroh lives.<PAGE><VOICE>(VS37_232)Ba'ul can take us there.
+
+## POINTER 43
+<STR>(YUR)
+<VOICE>(VS37_233)Okay. Let's go. This meeting's 
+been a long time coming.

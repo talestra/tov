@@ -1,0 +1,100 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294855992]
+
+No sé cómo agradeceros todo
+lo que habéis hecho por mí.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294855992]
+<STR>(RAV)
+Venga, nu tienes que darnos las
+gracias. Nus has pagao y tenemos
+unos uniformes mu majos. ∀
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1294855992]
+<STR>(RIT)
+Pareces tonto cuando hablas
+con chicas guapas, viejales.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906983]
+<STR>(KAR)
+Me pregunto si todo este trabajo que
+hemos hecho hubiera alegrado al Don...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906983]
+<STR>(EST_P)
+Claro que sí. Estoy segura
+de que le hubiera encantado
+que todos hayamos ayudado.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1294855992]
+
+Seguro que desde algún lugar
+nos está viendo, con una
+gran sonrisa en la cara.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1294855992]
+<STR>(KAR)
+Y tú al final no
+has trabajado nada,
+¿verdad. <STR>(YUR)?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906983]
+<STR>(YUR)
+No, yo no. Este tipo de
+trabajo no me va ni un pelo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906983]
+<STR>(JUD)
+Eh, nunca se sabe.
+Quizás seas un
+muy buen camarero.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294856289]
+<STR>(EST_P)
+Aunque fuera una vez, me gustaría
+ver a <STR>(YUR) sirviendo mesas...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906983]
+<STR>(YUR)
+Ya podéis mirarme todo
+lo que queráis.
+No pienso hacerlo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906983]
+
+Lástima. Seguro que serías muy popular.
+No todas las tabernas pueden decir que
+tienen un camarero tan testarudo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906983]
+<STR>(RIT)
+«¿Qué demonios te pongo?».
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906983]
+<STR>(RAV)
+«¡No pidas eso! ¡Está malísimo!».
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906983]
+<STR>(RIT)
+«¡Come esto, imbécil!».
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906983]
+<STR>(JUD)
+«¡No quiero tu dinero! ¡Vete a tu casa!».
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1294856289]
+<STR>(KAR)
+Sí, seguro que causaría sensación.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1294856289]
+<STR>(YUR)
+¿En serio soy así?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1294856289]
+<STR>(EST_P)
+Te sorprenderías a ti mismo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906983]
+<STR>(YUR)
+Creo que mejor
+os dejo esto de
+servir a vosotros...

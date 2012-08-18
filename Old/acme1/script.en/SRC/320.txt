@@ -1,0 +1,70 @@
+## POINTER 0
+<STR>(YUR)
+Hey old man, sorry to 
+have dragged you all 
+the way out here.
+
+## POINTER 1
+<STR>(RAV)
+...
+
+## POINTER 2
+<STR>(YUR)
+Whoa, what's with that face?
+
+## POINTER 3
+<STR>(RAV)
+Hearin' you apologize like 
+that puts me a little bit 
+on edge, is all.
+
+## POINTER 4
+<STR>(YUR)
+I mean, you still have 
+to deliver that letter 
+to Belius, right?
+
+## POINTER 5
+<STR>(RAV)
+Yeah, but if I can't see her until the 
+new moon, then that's that, ain't it?<PAGE>Till then, I'm at the mercy 
+of the princess's whims.
+
+## POINTER 6
+<STR>(YUR)
+Well well, aren't you easygoing.<PAGE>You sure about that? If we spend too 
+long out here and you miss the new moon, 
+the Don'll yell at you for sure.
+
+## POINTER 7
+<STR>(RAV)
+Meh, I'm used to bein' yelled 
+at. If I gotta wait, I can wait 
+until the next new moon.<PAGE>It ain't like we're gonna run 
+out of new moons anytime soon.
+
+## POINTER 8
+<STR>(YUR)
+You certainly sound patient. 
+You sure about this?
+
+## POINTER 9
+<STR>(RAV)
+Of course. Patience 
+is something you'll 
+learn with age.
+
+## POINTER 10
+<STR>(YUR)
+Ugh, I swear...
+
+## POINTER 11
+<STR>(RAV)
+Well, making the right decisions 
+is part of being an adult, too.<PAGE>I'll leave as soon as 
+I feel like I have to.<PAGE>Anyway, let me travel with you 
+kids for a while longer.
+
+## POINTER 12
+<STR>(YUR)
+Sure. Whatever you want.

@@ -1,0 +1,65 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS21_001)So that cyclone was his doing.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS21_002)Here comes trouble.
+
+## POINTER 2
+Barbos
+<VOICE>(VS21_003)You... You've destroyed 
+the blastia!
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS21_004)Hey, are you okay?!
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS21_005)Bastards...!
+
+## POINTER 5
+Barbos
+<VOICE>(VS21_006)You're next, punk!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS21_007)Come on, we're just getting started.
+
+## POINTER 7
+Barbos
+<VOICE>(VS21_008)Heh. My men won't have any trouble 
+taking care of a brat like you.
+
+## POINTER 8
+Barbos
+<VOICE>(VS21_009)Now rip him to pieces!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS21_010)Is that all you got?
+
+## POINTER 10
+Barbos
+<VOICE>(VS21_011)Looks like I'm gonna have to teach you your place.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS21_012)Huh... That's a handy 
+sword you've got.
+
+## POINTER 12
+Barbos
+<VOICE>(VS21_013)Think you lost because 
+of this sword, huh?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS21_014)I don't know, what 
+do you think?
+
+## POINTER 14
+Barbos
+<VOICE>(VS21_015)Yeah, talk it up while you've the chance. We've 
+got a nice painful death all set up for you.

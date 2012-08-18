@@ -1,0 +1,122 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+Duke
+<VOICE>(VA030_102)No me dejáis elección....<PAGE><VOICE>(VA030_103)¡Venid!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293387582]
+Duke
+<VOICE>(VA030_104)Ahora entiendo por qué Phaeroh
+os dio su aprobación.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+<STR>(YUR)
+<VOICE>(VA030_105)Tú también eres muy fuerte.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1293387582]
+Duke
+<VOICE>(VA030_106)Mmpf. Qué lástima. Ojalá nuestros
+caminos se hubiesen cruzado antes.<PAGE><VOICE>(VA030_107)Tal vez así las cosas hubieran sido distintas.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+<STR>(YUR)
+<VOICE>(VA030_108)Todavía estás a tiempo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+Duke
+<VOICE>(VA030_109)Te equivocas. Mi rumbo quedó
+fijado en el momento en el que
+el adephagos cubrió el cielo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+<STR>(YUR)
+<VOICE>(VA030_110)¡Maldito capullo cabeza cuadrada!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293387582]
+Duke
+<VOICE>(VA030_111)La mejor manera de crear
+un mundo que perdure es
+devolverlo a su estado natural.<PAGE><VOICE>(VA030_112)¡Ese es el camino que he escogido!
+Y daré mi vida por él.
+¡Amigo mío... dame tu fuerza!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+<STR>(EST_P)
+<VOICE>(VA030_113)¿Qué? ¡¿Qué está pasando?!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293283049]
+Duke
+<VOICE>(VA030_114)Imposible...
+Es la espiral draco...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293387582]
+<STR>(JUD)
+<VOICE>(VA030_115)¡Las armas perdidas están
+reaccionando con la Dein Nomos!
+¡¿Y qué es esa luz que rodea a Duke?!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551199]
+<STR>(RIT)
+<VOICE>(VA030_116)¡La Dein Nomos y la torre se están
+combinando para restablecer el poder
+de las armas perdidas! Pero ¡¿cómo?!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293387582]
+<STR>(RAV)
+<VOICE>(VA030_117)¡¿Que'stá pasando?!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1293387582]
+<STR>(EST_P)
+<VOICE>(VA030_118)¿Es esta la verdadera forma
+de las armas perdidas?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+<STR>(KAR)
+<VOICE>(VA030_119)¡No se parecen en nada
+a como eran antes!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1293387582]
+Duke
+<VOICE>(VA030_120)¡Ahora el antiguo rey
+de los entelechia
+luchará a mi lado!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+Duke
+<VOICE>(VA030_121)Es la voluntad del mismísimo
+planeta. ¡La voluntad de
+Terca Lumireis!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+<STR>(YUR)
+<VOICE>(VA030_122)¡Me la sudan tus
+ideas de loco!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+<STR>(YUR)
+<VOICE>(VA030_123)Nosotros decidimos lo que
+está bien y lo que está mal.
+El resto se lo dejo a mi espada.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+Duke
+<VOICE>(VA030_124)Ya veo que no os podré convencer.
+Tal vez sea lo mejor.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1292766916]
+Duke
+<VOICE>(VA030_125)¡Únete a mí en esta batalla,
+por el bien de este mundo!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1293387582]
+Duke
+<VOICE>(VA030_126)Perdóname... Elucifur...
+Parece que debo... romper mi promesa...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298484995]
+<STR>(YUR)
+<VOICE>(VA030_127)Uff, uff...<PAGE><VOICE>(VA030_128)
+No sé qué clase de tío era Elucifur,
+así que igual esto no significa
+gran cosa viniendo de mí.<PAGE><VOICE>(VA030_129)Pero si dio su vida en la Gran Guerra
+luchando por el bien de la humanidad,<PAGE><VOICE>(VA030_130)no creo que quisiese que
+vivieses tu vida rechazando
+a esa misma humanidad.

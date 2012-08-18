@@ -1,0 +1,69 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934649]
+Yu
+Oh, sois el gremio de aquella vez.
+Muchas gracias por lo que hicisteis.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1284570014]
+<STR>(KAR)
+Nosotros deberíamos agrecederle
+que nos diese trabajo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1284570014]
+Yu
+Lo cierto es que me venís de perlas.
+Me gustaría pediros un favor.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1284570014]
+<STR>(JUD)
+¿Cuál?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934649]
+Yu
+Mi amigo Nobis, aquel a quien le
+entregasteis el libro, está buscando
+gente que le haga un trabajillo.<PAGE>¿Os importaría ir
+y oír lo que tiene
+que decir?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1284570014]
+<STR>(KAR)
+Bueno...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934649]
+<STR>(YUR)
+Un momento, ¿podemos aceptar
+un trabajo sin consultarlo
+primero a la Unión?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291936127]
+<STR>(KAR)
+La Unión no prohíbe
+que otros gremios
+trabajen por su cuenta.<PAGE>El sistema de la Unión es solo para
+ayudar a los gremios que no pueden
+conseguir tareas por sí mismos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1284570014]
+<STR>(JUD)
+Así que hemos
+ascendido
+como gremio.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934649]
+<STR>(KAR)
+Exacto. Y como no hay tasa
+por haber encontrado trabajo,
+¡nosotros nos lo llevamos todo!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934649]
+<STR>(YUR)
+Ajá.<PAGE>Muy bien, hablaremos
+con tu amigo y decidiremos
+si lo hacemos o no.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934649]
+Yu
+Gracias. Seguramente
+lo encontraréis
+en Puerto Torim.<PAGE>Id allí y escuchad
+su propuesta, por favor.

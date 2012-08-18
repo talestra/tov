@@ -1,0 +1,139 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS51_035)It's beautiful...
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS51_036)Yeah, I can't believe
+we're inside a weapon.
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS51_037)<STR>(KAR), wait.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS51_038)Huh?
+
+## POINTER 4
+<STR>(RAP)
+<VOICE>(VS51_039)Grrr.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS51_040)Get out here. You're too 
+old for hide-and-seek.
+
+## POINTER 6
+
+<VOICE>(VS51_041)Bravo, bravo, my lad.
+
+## POINTER 7
+Yeager
+<VOICE>(VS51_042)Splendid! Such keen 
+intuition, such sharpened 
+instincts. Simply splendid!
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS51_043)Yeager!!
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS51_044)What is it this time? Are 
+you gonna show us 
+how to get to Alexei?
+
+## POINTER 10
+Yeager
+<VOICE>(VS51_045)Ja, oh ja. I will show you
+the way. To hell, that is!
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS51_046)...Just which way's 
+the wind blowin' with 
+this guy, anyway?
+
+## POINTER 12
+Yeager
+<VOICE>(VS51_047)Have you forgotten, my 
+pretties? We are still 
+sworn enemies, you know.<PAGE><VOICE>(VS51_048)Things were destined to 
+end this way between us.
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS51_049)Is this another trap...?
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS51_050)It's just like you said. 
+We're enemies.<PAGE><VOICE>(VS51_051)So let's do what 
+enemies do.
+
+## POINTER 15
+Yeager
+<VOICE>(VS51_052)You are correct! Come!
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS51_053)Bring it!!
+
+## POINTER 17
+Yeager
+<VOICE>(VS51_060)Wunderbar...
+
+## POINTER 18
+<STR>(RAV)
+<VOICE>(VS51_061)You know, I'm not really 
+one for vengeance and 
+all, but...this is for the Don.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS51_062)Be careful. He might 
+still have something 
+up his sleeve.
+
+## POINTER 20
+Yeager
+<VOICE>(VS51_063)No no no. These 
+sleeves are empty. 
+This is...ja, this is it.
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VS51_064)Your chest... Did Alexei 
+do that to you as well?
+
+## POINTER 22
+Yeager
+<VOICE>(VS51_065)My...I wonder. But 
+what's done is done.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS51_066)Why? Why did 
+you fight alone?<PAGE><VOICE>(VS51_067)With nothing and no 
+one to help you...
+
+## POINTER 24
+Yeager
+<VOICE>(VS51_068)Heh...<PAGE><VOICE>(VS51_069)...Goodbye.
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS51_070)...Why?
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS51_071)Hey...
+
+## POINTER 27
+<STR>(RIT)
+<VOICE>(VS51_072)What...? What was that all about?
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS51_073)He was...an awful person.<PAGE><VOICE>(VS51_074)But maybe he also...

@@ -1,0 +1,51 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215435]
+<STR>(YUR)
+<VOICE>(VS52_039)...
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215430]
+
+<VOICE>(VS52_040)Guau.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215430]
+
+<VOICE>(VS52_041)¿Qué pasa? 
+¡Oh!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215430]
+<STR>(EST_P)
+<VOICE>(VS52_042)¿<STR>(YUR)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499616]
+<STR>(YUR)
+<VOICE>(VS52_043)¿<STR>(EST_P)? ¿<STR>(RAP)?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215430]
+<STR>(EST_P)
+<VOICE>(VS52_044)¡<STR>(YUR)!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215430]
+<STR>(RAP)
+<VOICE>(VS52_045)¡Guau!
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215430]
+<STR>(EST_P)
+<VOICE>(VS52_046)¡Ja, ja, ja!
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215430]
+<STR>(YUR)
+<VOICE>(VS52_047)¡Ay! ¡Oye, espera un segundo!
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289241850]
+<STR>(EST_P)
+<VOICE>(VS52_048)<STR>(YUR), eres tú de verdad, ¿no? 
+¿No eres un fantasma ni nada? 
+¡Ah, bien! Tienes sombra.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215430]
+<STR>(YUR)
+<VOICE>(VS52_049)¡Sí, estoy vivito y coleando!
+¡Y quita, que esto duele!
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215430]
+<STR>(EST_P)
+<VOICE>(VS52_050)Qué alivio. Y qué alegría.

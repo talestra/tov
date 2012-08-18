@@ -1,0 +1,78 @@
+## POINTER 0
+Cook to Live
+
+## POINTER 1
+(EST_P)
+(YUR), you like cooking, don't you?
+
+## POINTER 2
+(YUR)
+I don't know about "like"... Why?
+
+## POINTER 3
+(EST_P)
+We've been making you cook for us all 
+the time, and you haven't refused once.
+
+## POINTER 4
+(RAV)
+Quiet, (EST_P)! We don't 
+want him ta stop!
+
+## POINTER 5
+(YUR)
+It's all right. I noticed.
+
+## POINTER 6
+(KAR)
+You don't mind? Isn't it a lot of work?
+
+## POINTER 7
+(YUR)
+I used to cook for myself when 
+I was living in the capital. 
+It's not bad at all.
+
+## POINTER 8
+(JUD)
+It's not bad...but you 
+don't really like it?
+
+## POINTER 9
+(YUR)
+Well...it was better than having 
+to eat dangerously awful 
+stuff every single day.
+
+## POINTER 10
+(YUR)
+He meant well, but he didn't 
+realize how bad he was. This 
+was the only way to stop him.
+
+## POINTER 11
+(RAV)
+Ya got my condolences, (YUR).
+
+## POINTER 12
+(RIT)
+Why are you looking at me?!
+
+## POINTER 13
+(YUR)
+(RIT)'s cooking is nothing compared 
+to this stuff, trust me.
+
+## POINTER 14
+(JUD)
+I'd like to meet someone who 
+could make food like that.
+
+## POINTER 15
+(RAV)
+It's like lookin' at a scary monster. 
+I'll pass on the food, though.
+
+## POINTER 16
+(YUR)
+...You already met him.

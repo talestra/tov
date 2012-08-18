@@ -1,0 +1,123 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1286470106]
+<STR>(JUD)
+¿Cómo lo llevas? ¿Algún progreso?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514881]
+<STR>(RIT)
+Cada página tiene algo diferente, pero 
+creo que se basa en una clave que cambia
+todas las letras del texto.<PAGE>Pero necesito tiempo para 
+averiguar la clave...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1286470106]
+<STR>(JUD)
+¿De qué habla
+el libro?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514881]
+<STR>(RIT)
+Primero creía que Hermes era un
+mago cualquiera que se servía de
+su conocimiento para hacer el mal...<PAGE>Pero no es así. Era un mago muy poderoso, con sueños
+sobre el potencial del blastia y el aer, que lo único
+que quería era saciar su curiosidad...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1286470106]
+<STR>(JUD)
+¿Qué es lo que te
+preocupa entonces?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1286470106]
+<STR>(RIT)
+Hay un montón de cosas interesantes 
+escritas en este libro.<PAGE>Como fórmulas mágicas de las que
+nunca he oído hablar, por ejemplo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:miyu;time:1286470106]
+<STR>(JUD)
+Así que fue un genio...
+¿Incluso mayor que tú?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514881]
+<STR>(RIT)
+Duele admitirlo, pero sí.<PAGE>Me ha sorprendido que escribiera tantas ideas
+y observaciones que yo nunca he tenido.<PAGE>También escribió una fórmula
+para destruir los blastia que
+están fuera de control...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:miyu;time:1286470106]
+<STR>(JUD)
+¡...!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514881]
+<STR>(RIT)
+Hermes era consciente de la posibilidad 
+del aumento de aer en el planeta.<PAGE>Sabía el peligro que podía
+representar el blastia que creó. 
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514881]
+<STR>(JUD)
+Mmmm... Vaya.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:miyu;time:1286470917]
+<STR>(RIT)
+Sí. Por eso estudiaba la magia, para destruir 
+el blastia en caso de que eso ocurriera.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514881]
+<STR>(JUD)
+¡Si existe una magia de este tipo,
+deberías usarla!<PAGE>Hermes buscaba a alguien que
+pudiera utilizarla para bien,
+quien fuera y como fuera.<PAGE>Buscaba a alguien que
+siguiera con su trabajo.
+Por eso dejó estas notas.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514881]
+<STR>(RIT)
+¿No sería su hija la más indicada 
+para continuar con su investigación?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527066]
+<STR>(JUD)
+Pero ¿y si esa hija
+no sabe usar magia?<PAGE>O quizá...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:miyu;time:1286470917]
+<STR>(RIT)
+...
+¿O quizá...?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:miyu;time:1286470917]
+<STR>(JUD)
+No llegaremos a ninguna parte
+formulando hipótesis.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:miyu;time:1286470917]
+<STR>(RIT)
+Ya, pero...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514881]
+<STR>(JUD)
+Aunque esa magia fuera pensada
+para destruir los blastias...<PAGE>Podrías darle otro uso,
+¿no te parece?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514881]
+<STR>(RIT)
+B-Bueno, sí, pero...<PAGE>Tienes razón. No creo que haya
+ningún otro mago aparte de mí que
+pueda usar esta fórmula correctamente.<PAGE>Puede que me la quede...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514881]
+<STR>(JUD)
+Je, je. Seguro que a Hermes le hubiera gustado.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:miyu;time:1286470917]
+<STR>(RIT)
+Solo lo dices por...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514881]
+<STR>(JUD)
+¡No, lo digo porque 
+creo que es verdad!

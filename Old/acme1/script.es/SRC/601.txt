@@ -1,0 +1,193 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+Markham
+Qué rápidos.
+¿La habéis encontrado?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(KAR)
+No, mm...
+La verdad es que no...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+Markham
+Entonces alguien se la
+debe haber llevado antes...
+Ay, madre mía...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1291405857]
+Joshua
+Venga, Mark, alegra esa cara.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(KAR)
+Lo... sentimos mucho...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+Markham
+No hace falta que te disculpes.
+Si la culpa es de alguien,
+es mía por dejármela allí.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1291405857]
+<STR>(EST_P)
+...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(KAR)
+Si... si quiere
+podemos buscar más...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1291405857]
+<STR>(RAV)
+Osú, para el carro, caballo desbocao.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(RIT)
+Quizá haya alguna pista
+que hayamos pasado por alto.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1291405857]
+<STR>(RAV)
+Tú también no, <STR>(RIT) Chiquita.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(RIT)
+Siento haber dicho que lo que
+decías no tenía sentido.<PAGE>
+No me di cuenta de
+lo importante que es
+tu pala para ti.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1291406371]
+<STR>(YUR)
+¿En serio creéis que hay
+alguna pista ahí abajo?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1291406371]
+<STR>(RAV)
+Mm, hola. Eso es lo qu'estoy diciendo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1291405857]
+<STR>(YUR)
+Por otro lado, no hay garantías
+de que volvamos con las manos vacías
+si echamos otro vistazo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1291405857]
+<STR>(RAV)
+Un momentín...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1291405857]
+<STR>(JUD)
+Bueno, supongo que esa
+posibilidad me vale.
+Me apunto.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(EST_P)
+Y-Yo también voy.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+Joshua
+Oh, Mark. Mark, ¿lo has oído?
+Esta gente va a seguir buscando.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(KAR)
+Pero a cambio nuestra paga
+subirá un poquitín. ♪
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1291406371]
+<STR>(EST_P)
+<STR>(KAR) no deja pasar ni una, ¿verdad?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+Markham
+Gracias, pero me temo que me
+basta con vuestra buena voluntad.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+Joshua
+¿Por qué, Mark?...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+Markham
+Ha sido una grata sorpresa encontrar
+a gente que entendiese lo importante
+que era esa pala para mi.<PAGE>Y en los gremios, cuando
+se ha hecho un trabajo,
+se acabó.<PAGE>En Portal de Ruinas no hacemos excepciones con esa regla.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1291453420]
+Joshua
+Sí...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1291453420]
+Markham
+Hicisteis lo que pudisteis. No tengo ningún
+problema en pagaros lo que os merecéis.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1291453420]
+<STR>(KAR)
+¿De verdad?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1291453420]
+Markham
+Es lógico.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1291453420]
+Markham
+Tendré que decirle adiós a mi
+vieja amiga y encontrar una nueva.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1291453420]
+Joshua
+Ese es el espíritu, Mark.
+En fin, deberíamos irnos.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(EST_P)
+Oh, un momento, por favor.
+¿Conocen al señor
+o señora Harmfall?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1291453420]
+Markham
+Harmfall...<PAGE>¿Te refieres a MI Harmfall?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Lia;time:1291453420]
+<STR>(KAR)
+¿Tu...?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(EST_P)
+Quizá me haya malinterpretado...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+Markham
+¡Harmfall! Así
+que estabas bien
+después de todo...
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(KAR)
+¿Ein?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(YUR)
+Espera, no querrás decir que...
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+Joshua
+Sí, esta es Harmfall, una
+pala legendaria que lleva
+generaciones en su familia.<PAGE>Oh, qué suerte hemos tenido.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(KAR)
+Entonces, ¿el nombre escrito
+en mango es el nombre de la pala?
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659151]
+<STR>(RIT)
+Supongo...

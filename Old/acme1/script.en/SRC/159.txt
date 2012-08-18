@@ -1,0 +1,31 @@
+## POINTER 0
+<STR>(KAR)
+Some guy just dragged 
+<STR>(EST_P) right by us...
+
+## POINTER 1
+<STR>(YUR)
+Are they both inside the inn?
+
+## POINTER 2
+<STR>(KAR)
+Yep. So that other guy 
+was <STR>(FRE), then?
+
+## POINTER 3
+<STR>(YUR)
+Yeah, well...
+
+## POINTER 4
+<STR>(RIT)
+You might not be able to get a word 
+in edgewise if you went in now.
+
+## POINTER 5
+<STR>(KAR)
+It seemed like they might be in there a while. 
+Wanna burn time walking around town a bit?
+
+## POINTER 6
+<STR>(YUR)
+...Sure, okay.

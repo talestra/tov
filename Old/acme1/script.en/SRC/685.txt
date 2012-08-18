@@ -1,0 +1,253 @@
+## POINTER 0
+<STR>(YUR)
+Shel?
+
+## POINTER 1
+Shel
+<STR>(YUR)! My brother 
+has returned!
+
+## POINTER 2
+<STR>(YUR)
+Huh? What?
+
+## POINTER 3
+Shel
+Like I said, my brother Clay is back... 
+But I'm sorry, I really have to go!
+
+## POINTER 4
+<STR>(KAR)
+So they finally found Clay! We 
+weren't very helpful at all.
+
+## POINTER 5
+<STR>(EST_P)
+But Shel seemed to be in such 
+a good mood. I'm happy for him.
+
+## POINTER 6
+<STR>(JUD)
+Maybe we should go meet 
+the long-lost brother?
+
+## POINTER 7
+Shel
+Waaahhh...!
+
+## POINTER 8
+<STR>(YUR)
+It's you...!
+
+## POINTER 9
+
+Looks like fate has 
+brought us together 
+again, <STR>(YUR) Lowell.
+
+## POINTER 10
+<STR>(RAV)
+Who is this?!
+
+## POINTER 11
+Shel
+My...brother... Why would you...
+
+## POINTER 12
+<STR>(KAR)
+Y-your brother? You 
+mean this man is...!
+
+## POINTER 13
+<STR>(YUR)
+So you're Clay?
+
+## POINTER 14
+Clay
+Why did you do it? That's 
+what I want to know.<PAGE>Why did you kill my master, Lune's father?
+
+## POINTER 15
+Shel
+B-but...I thought if 
+he were gone...you, 
+Lune, and I could...
+
+## POINTER 16
+Clay
+Is that what Lune wanted?
+
+## POINTER 17
+Shel
+I just wanted...the 
+three of us...<PAGE>My brother...Lune and I were...we were 
+waiting for you this whole time...
+
+## POINTER 18
+Lune
+Aaaahhhh!
+
+## POINTER 19
+Lune
+Shel! Shel!
+
+## POINTER 20
+Lune
+What happened to you...Clay! 
+Do you realize what 
+you've done?!<PAGE>How could you do that to Shel?! My father 
+didn't teach you to use a sword so 
+you could do something like this!
+
+## POINTER 21
+Clay
+I had to see that justice 
+was done...I couldn't 
+overlook what Shel did.
+
+## POINTER 22
+Lune
+Your justice was more important 
+than Shel's life?!
+
+## POINTER 23
+Clay
+......
+
+## POINTER 24
+Lune
+So stupid...
+
+## POINTER 25
+Lune
+I'm so stupid...I 
+should have 
+told Shel...<PAGE>He was always there for me...I should 
+have told him "thank you"...
+
+## POINTER 26
+<STR>(YUR)
+Clay! Are you happy 
+with all of this?
+
+## POINTER 27
+Clay
+I don't know...I don't 
+even know what justice 
+is anymore.
+
+## POINTER 28
+<STR>(YUR)
+Then why did you 
+attack Shel?
+
+## POINTER 29
+Clay
+I told you...it's who I am.<PAGE>If I hadn't brought him to justice, it would make 
+everything I've been until now a lie. I'd be brought 
+down to the level of the villains I hate.
+
+## POINTER 30
+<STR>(YUR)
+But you already 
+knew, didn't you?<PAGE>That's why you didn't go back to her. You'd gotten 
+your hands dirty in the pursuit of your "justice", 
+and you felt you were no longer worthy of her.
+
+## POINTER 31
+Clay
+It is as you say. I dirtied 
+these once innocent hands 
+for the sake of justice...<PAGE>I even cut down the people I wanted to 
+protect, all in the name of justice...
+
+## POINTER 32
+<STR>(YUR)
+If your resolve is that weak, 
+you shouldn't throw the word 
+"justice" around so lightly!
+
+## POINTER 33
+Clay
+...Huh?
+
+## POINTER 34
+<STR>(YUR)
+Anyone who learns to use 
+a sword should know...<PAGE>Swords should be used to protect others!<PAGE>Once it's clear to you what's 
+worth protecting, your resolve 
+won't waver ever again!
+
+## POINTER 35
+Clay
+What's worth protecting...
+
+## POINTER 36
+<STR>(YUR)
+What is it you wanted 
+to protect?
+
+## POINTER 37
+Clay
+Swords should be used to protect 
+others... That was the first thing 
+I ever learned from my teacher.<PAGE>I wonder where I ended up forgetting that.
+
+## POINTER 38
+Clay
+Your resolve never wavers, does it?
+
+## POINTER 39
+<STR>(YUR)
+I'm just lucky enough to have 
+a lot that's worth protecting.
+
+## POINTER 40
+Clay
+...Hey, I owe you one. 
+Take this. Consider it my 
+way of saying thank you.<PAGE>Maybe it'll help you protect 
+what's important to you.
+
+## POINTER 41
+<STR>(YUR)
+What are you going to do?
+
+## POINTER 42
+Clay
+I can't take back what I've done.
+But I won't run away. I'm going 
+to go atone for my sins.
+
+## POINTER 43
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 44
+<STR>(YUR)
+How are things going over there?
+
+## POINTER 45
+<STR>(RAV)
+We left the rest to the 
+knights. What about Clay?
+
+## POINTER 46
+<STR>(YUR)
+He went into the castle. I think 
+he plans to turn himself in.
+
+## POINTER 47
+<STR>(JUD)
+Good. Things should work 
+themselves out, then.
+
+## POINTER 48
+<STR>(KAR)
+Why did this have to happen...
+
+## POINTER 49
+<STR>(YUR)
+Don't cry, <STR>(KAR). 
+We've still got 
+a lot to do.

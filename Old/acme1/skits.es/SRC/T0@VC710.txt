@@ -1,0 +1,34 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251552746]
+Fuera de la barrera
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114893]
+(EST_P)
+Había oído rumores sobre la existencia
+de monstruos al otro lado de la barrera,
+¡y resulta que eran ciertos!
+
+## POINTER 2 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266280758]
+(YUR)
+Ya.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114867]
+(EST_P)
+Ahora entiendo por qué todo el mundo dice
+que el mundo de fuera es tan peligroso.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114867]
+(YUR)
+Cuando vives dentro es muy fácil olvidar 
+lo cerca que se encuentran los monstruos. 
+
+## POINTER 5 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266280758]
+(YUR)
+Será mejor no bajar la guardia.
+
+## POINTER 6 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266280758]
+(EST_P)
+Sí.
+
+## POINTER 7 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266280758]
+(RAP)
+¡Guau!

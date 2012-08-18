@@ -1,0 +1,36 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296168321]
+
+¡Hola, hola!
+¡Encantado de conoceros!
+¿Es la primera vez que venís aquí?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1294095257]
+<STR>(YUR)
+Sí.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1294095257]
+
+Para poder participar debéis
+emplear fichas. Aquí no está
+permitido usar dinero.<PAGE>Podéis cambiar gald
+o grado para conseguir
+fichas.<PAGE>Ya que venís por primera vez, os doy
+unas pocas para que vayáis empezando.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294095257]
+Información
+<STR>(YUR) recibe
+cinco fichas.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294509093]
+
+¡Juega tanto cuanto puedas para
+conseguir suficientes fichas y
+cambiarlas por grandes premios!
+<PAGE>Hablad con Antoleón,
+que está a mi lado,
+para hacer intercambios.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1294095257]
+
+¡Que os divirtáis!

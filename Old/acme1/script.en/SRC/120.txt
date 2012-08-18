@@ -1,0 +1,61 @@
+## POINTER 0
+
+Ah, you're back! Have you gotten 
+all the ingredients together?
+
+## POINTER 1
+<STR>(KAR)
+We sure did.
+
+## POINTER 2
+
+Eggbear claw, nia fruit, and luluria 
+petals... That's everything. All right, 
+let's get this stuff made.
+
+## POINTER 3
+<STR>(EST_P)
+Please, <STR>(KAR).
+
+## POINTER 4
+Information
+Select Synthesis from the shop
+to use materials to create items.
+If you have all the necessary
+materials to create an item,
+simply select the item from
+the list to create it.
+Try selecting "Panacea Bottle"
+from the list.
+
+## POINTER 5
+
+Here you go, one panacea bottle!
+
+## POINTER 6
+<STR>(KAR)
+Now we'll be able to cleanse 
+the poison! Let's hurry!
+
+## POINTER 7
+<STR>(YUR)
+Whoa whoa, settle down! 
+You'll drop the bottle 
+if you're not careful!
+
+## POINTER 8
+<STR>(KAR)
+R-right. Then, let's 
+hurry cautiously!
+
+## POINTER 9
+
+Sorry, but synthesis
+costs gald too.<PAGE>I'll give you a special rate of 10 Gald this
+time. Come back whenever you're ready.
+
+## POINTER 10
+
+Hey, I thought you wanted
+to make a Panacea Bottle?<PAGE>Select Panacea Bottle from
+the Synthesis menu. Now, try it again.

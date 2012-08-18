@@ -1,0 +1,107 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1285775070]
+<STR>(RIT)
+<VOICE>(VS50_032)Esto debería hacer que baje el valor,
+así que la discrepancia debería...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1285775070]
+<STR>(RIT)
+<VOICE>(VS50_033)No, está demasiado lejos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1285775070]
+<STR>(EST_P)
+<VOICE>(VS50_034)¡<STR>(YUR)!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1285775070]
+<STR>(YUR)
+<VOICE>(VS50_035)¿Qué estáis
+haciendo aquí?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1285775070]
+<STR>(RIT)
+<VOICE>(VS50_036)¡Cierra el pico y déjame en paz!
+Oh, eres tú.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1285775070]
+<STR>(YUR)
+<VOICE>(VS50_037)Yo también me alegro de verte.
+¿Qué tipo de experimento
+estáis haciendo?<PAGE><VOICE>(VS50_038)¿Algo va mal?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287522052]
+<STR>(RIT)
+<VOICE>(VS50_039)No, está bajo control
+y es estable.<PAGE><VOICE>(VS50_040)Odio admitirlo, pero la
+Dein Nomos y el sistema
+de Alexei son increíbles.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1285775070]
+<STR>(YUR)
+<VOICE>(VS50_041)¿Y cuál es el problema?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981452]
+<STR>(RIT)
+<VOICE>(VS50_042)El área de control efectiva es más
+limitada de lo que creía.<PAGE><VOICE>(VS50_043)La barrera de control se forma en la
+barrera blastia. Dentro se mantiene
+estable, pero no puede salir.<PAGE><VOICE>(VS50_044)Supongo que la Dein Nomos no puede
+reemplazar a todas esas apátheia.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1287522052]
+<STR>(YUR)
+<VOICE>(VS50_045)Vamos, que nada
+de viajes largos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1287522052]
+<STR>(RIT)
+<VOICE>(VS50_046)Además, la barrera blastia es parte del sistema.
+Mientras funcione, esta ciudad está indefensa.<PAGE><VOICE>(VS50_047)Por eso estoy intentando
+descubrir una manera para que
+pueda moverse libremente.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1287522052]
+<STR>(YUR)
+<VOICE>(VS50_048)¿Y por qué <STR>(EST_P) no se lleva
+la Dein Nomos adonde vaya y ya está?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1287522052]
+<STR>(RIT)
+<VOICE>(VS50_049)Fue diseñada solo para contener
+el aer que está fuera de control.<PAGE><VOICE>(VS50_050)No creo que afecte a <STR>(EST_P).
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1287522052]
+<STR>(YUR)
+<VOICE>(VS50_051)Supongo que viene a ser
+lo mismo que con Duke.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1287522052]
+<STR>(RIT)
+<VOICE>(VS50_052)Tú tranquilo. O se me ocurre
+algo o no me llamo <STR>(RIT) Mordio.<PAGE><VOICE>(VS50_053)No dejaré que <STR>(EST_P) acabe
+atrapada así otra vez.<PAGE><VOICE>(VS50_054)Nadie trata a mi amiga
+como una... cosa.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1287522052]
+<STR>(YUR)
+<VOICE>(VS50_055)Vale, te lo dejo a ti.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1287522052]
+<STR>(YUR)
+<VOICE>(VS50_056)
+No te preocupes.
+Tienes a la mejor genio
+de todos los tiempos contigo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1285775070]
+<STR>(EST_P)
+<VOICE>(VS50_057)Sí, sé que <STR>(RIT) puede ayudarme.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1285775070]
+<STR>(RIT)
+<VOICE>(VS50_058)Lo tendré listo para mañana.
+Vete a la cama.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1287522052]
+<STR>(YUR)
+<VOICE>(VS50_059)Vale, vale.
+Pero no te pases.
+Y tú tampoco, <STR>(EST_P).

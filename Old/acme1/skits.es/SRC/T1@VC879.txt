@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251901261]
+La Garra del Leviatán
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266926069]
+(KAR)
+¿En qué piensa Yeager? Casi parece
+que esté intentando ayudarnos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297709490]
+(JUD)
+Bueno, él mismo dijo que no quería que
+el Imperio se volviera demasiado poderoso.
+
+## POINTER 3 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267434923]
+(RAV)
+Tonces quizá lo mejor sea confiar en su palabra.
+
+## POINTER 4 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267434923]
+(RAV)
+Su actuación da qué pensar, 
+pero está en er negocio der tráfico de armas.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297709490]
+(YUR)
+Y si el Imperio lo dominara todo,
+trayendo la paz al mundo...
+Entonces nadie necesitaría más armas.
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267434923]
+(RAV)
+Eso tiene sentío.
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266240525]
+(YUR)
+Es decir, que pretende alargar la batalla tanto 
+como le sea posible. Y eso no es bueno para nadie.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297709490]
+(KAR)
+¡No... no pienso dejar que se salga con la suya!
+
+## POINTER 9 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266926069]
+(RAV)
+Sí...

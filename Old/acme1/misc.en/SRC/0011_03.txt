@@ -1,0 +1,317 @@
+## POINTER 417
+War Axe +1
+
+## POINTER 418
+An axe intended for mass production.
+The design is simple, yet useful.
+
+## POINTER 420
+Francisca
+
+## POINTER 421
+Used as proof of adulthood in the west.
+A high-quality throwing axe
+
+## POINTER 423
+Ogre Axe
+
+## POINTER 424
+A single-handed axe with the power of a fierce beast.
+The spirit of an ancient warrior is inherited in the axe.
+
+## POINTER 426
+Orge Axe +1
+
+## POINTER 427
+A single-handed axe with the power of a fierce beast.
+The spirit of an ancient warrior is inherited in the axe.
+
+## POINTER 429
+Crescent Axe
+
+## POINTER 430
+An axe with a crescent blade.
+The sharp, thick blade is effective against heavily armored enemies.
+
+## POINTER 432
+Crescent Axe +1
+
+## POINTER 433
+An axe with a crescent blade.
+The sharp, thick blade is effective against heavily armored enemies.
+
+## POINTER 435
+Crimson Axe
+
+## POINTER 436
+A blazing axe with an exotic design.
+More like a work of art than a weapon.
+
+## POINTER 438
+Crimson Axe +1α
+
+## POINTER 439
+A blazing axe with an exotic design.
+More like a work of art than a weapon.
+
+## POINTER 441
+Crimson Axe +1β
+
+## POINTER 442
+A blazing axe with an exotic design.
+More like a work of art than a weapon.
+
+## POINTER 444
+Zaghnal
+
+## POINTER 445
+A pickaxe shaped like a raven's beak.
+Designed for multiple purposes.
+
+## POINTER 447
+Zaghnal +1α
+
+## POINTER 448
+A pickaxe shaped like a raven's beak.
+Designed for multiple purposes.
+
+## POINTER 450
+Zaghnal +1β
+
+## POINTER 451
+A pickaxe shaped like a raven's beak.
+Designed for multiple purposes.
+
+## POINTER 453
+Kalinga
+
+## POINTER 454
+A small axe that can also be handled like a sword.
+The curved blade can tear apart the enemy's skin.
+
+## POINTER 456
+Kalinga +1
+
+## POINTER 457
+A small axe that can also be handled like a sword.
+The curved blade can tear apart the enemy's skin.
+
+## POINTER 459
+Celtis
+
+## POINTER 460
+A heavy axe often used as farm tool.
+Can inflict deadly damage.
+
+## POINTER 462
+Celtis +1
+
+## POINTER 463
+A heavy axe often used as farm tool.
+Can inflict deadly damage.
+
+## POINTER 465
+Masakari Cleaver
+
+## POINTER 466
+A heavy battle axe. Being able to handle this weapon
+means you should try wrestling a bear with your bare hands.
+
+## POINTER 468
+Masakari Cleaver +1α
+
+## POINTER 469
+A heavy battle axe. Being able to handle this weapon
+means you should try wrestling a bear with your bare hands.
+
+## POINTER 471
+Masakari Cleaver +1β
+
+## POINTER 472
+A heavy battle axe. Being able to handle this weapon
+means you should try wrestling a bear with your bare hands.
+
+## POINTER 474
+Tabar
+
+## POINTER 475
+An axe with a half-moon shaped blade.
+Relatively heavy compared to its compact size.
+
+## POINTER 477
+Tabar +1
+
+## POINTER 478
+An axe with a half-moon shaped blade.
+Relatively heavy compared to its compact size.
+
+## POINTER 480
+Bardiche
+
+## POINTER 481
+A giant axe with an intimidating form. The type
+with a longer handle is used by regular troops.
+
+## POINTER 483
+Bardiche +1
+
+## POINTER 484
+A giant axe with an intimidating form. The type
+with a larger handle is used by regular troops.
+
+## POINTER 486
+Bone Slasher
+
+## POINTER 487
+Battle axe with an edge as sharp as a razor.
+The blade can easily slash a bone in half.
+
+## POINTER 489
+Bone Slasher +1
+
+## POINTER 490
+Battle axe with an edge as sharp as a razor.
+The blade can easily slash a bone in half.
+
+## POINTER 492
+Bahamut's Tear
+
+## POINTER 493
+An axe found from inside a giant dragon's corpse.
+Extremely heavy and needs to be handled by a skilled warrior.
+
+## POINTER 495
+Bahamut's Tear +1
+
+## POINTER 496
+An axe found from inside a giant dragon's corpse.
+Extremely heavy and needs to be handled by a skilled warrior.
+
+## POINTER 498
+Gaia Cleaver
+
+## POINTER 499
+Large axe named after the god of terra.
+The weapon represents severity and kindness.
+
+## POINTER 501
+Minotauros
+
+## POINTER 502
+An extremely thick and heavy battle axe.
+Named after a legendary half beast.
+
+## POINTER 504
+Minotauros +1
+
+## POINTER 505
+An extremely thick and heavy battle axe.
+Named after a legendary half beast.
+
+## POINTER 507
+Silver Edge
+
+## POINTER 508
+A silver axe made in the image of the western war god.
+Symbolizes justice, equality and courage.
+
+## POINTER 510
+Silver Edge +1α
+
+## POINTER 511
+A silver axe made in the image of the western war god.
+Symbolizes justice, equality and courage.
+
+## POINTER 513
+Silver Edge +1β
+
+## POINTER 514
+A silver axe made in the image of the western war god.
+Symbolizes justice, equality and courage.
+
+## POINTER 516
+Infinity
+
+## POINTER 517
+A strange axe with a "∞" shaped blade. 
+The blade constantly rotates and keeps the edge sharp.
+
+## POINTER 519
+Glasya Labolas
+
+## POINTER 520
+A demonic axe haunted with anger and sorrow.
+The reason of the curse can only be revealed through battle.
+
+## POINTER 522
+Wrath Bringer: Glasya Labolas
+
+## POINTER 523
+A demonic axe haunted with anger and sorrow.
+The reason of the curse can only be revealed through battle.
+
+## POINTER 525
+War Pike
+
+## POINTER 526
+A common spear also used for throwing.
+Has a small tip and is unsuitable for slashing.
+
+## POINTER 528
+War Pike +1
+
+## POINTER 529
+A common spear also used for throwing.
+Has a small tip and is unsuitable for slashing.
+
+## POINTER 531
+Halberd
+
+## POINTER 532
+A versatile spear used by many armies.
+Requires time to be skilled at using it.
+
+## POINTER 534
+Trident
+
+## POINTER 535
+A spear originally used for fishing. The three-
+pronged tip helps to increase its accuracy.
+
+## POINTER 537
+Executioner
+
+## POINTER 538
+Halberd used to decapitate the condemned. 
+Designed to bring sudden death without any pain.
+
+## POINTER 540
+War Harpoon
+
+## POINTER 541
+A legendary hunter used this to
+hunt down a gigantic sea monster.
+
+## POINTER 543
+War Harpoon +1α
+
+## POINTER 544
+A legendary hunter used this to
+hunt down a gigantic sea monster.
+
+## POINTER 546
+War Harpoon +1β
+
+## POINTER 547
+A legendary hunter used this to
+hunt down a gigantic sea monster.
+
+## POINTER 549
+Naginata
+
+## POINTER 550
+An ancient spear with a refined blade. Still not in its
+complete form, but the blade is still very flexible.
+
+## POINTER 552
+Death Scythe

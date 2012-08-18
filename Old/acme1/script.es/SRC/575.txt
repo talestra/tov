@@ -1,0 +1,28 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1284569157]
+<STR>(KAR)
+¡Buenas!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934379]
+
+Eh, ¿qué pasa, tíos?
+¿Buscáis trabajo?<PAGE>Lo siento, pero ahora mismo
+no tengo ninguno que daros.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934379]
+<STR>(YUR)
+Mmm...
+Supongo que a veces
+no hay trabajo para todos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934379]
+<STR>(KAR)
+Sí, no siempre habrá
+algo esperándonos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1284569157]
+<STR>(JUD)
+Siempre podemos volver luego.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1284569157]
+<STR>(RAP)
+*Ladrido agresivo*

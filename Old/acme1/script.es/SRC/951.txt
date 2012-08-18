@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761388]
+
+¡Ah, estáis de vuelta! 
+¿Habéis conseguido todos los ingredientes?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:parsec;time:1272048310]
+<STR>(KAR)
+Tenemos todo lo necesario.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273699210]
+Vamos a ver.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273699210]
+Elige los ingredientes
+que vas a usar.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273699210]
+Garra de oso ovíparo, fruto de nía
+y pétalos de luluria... Eso es todo.<PAGE>Muy bien, vamos a darle al tema.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:parsec;time:1272048310]
+<STR>(EST_P)
+¡Sí, por favor!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273699210]
+¡Marchando una panacea!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1273699210]
+<STR>(KAR)
+¡Ahora podremos purgar el veneno!
+¡Rápido, vamos!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273699210]
+<STR>(YUR)
+¡Hala, hala, cuidado! 
+¡Tirarás el pomo
+si no vas alerta!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273699210]
+<STR>(KAR)
+Oh, es verdad. ¡Pues vamos rápido
+pero con cuidado!

@@ -1,0 +1,77 @@
+## POINTER 0
+<STR>(YUR)
+Here's the small bird 
+feather you asked for.
+
+## POINTER 1
+
+My, that was quick.<PAGE>Oh well. I had really taken 
+a liking to it...but 
+anyway, here you go.
+
+## POINTER 2
+<STR>(KAR)
+All right!
+
+## POINTER 3
+
+Wait wait wait! I brought it too! 
+Here you go, a small bird feather!
+
+## POINTER 4
+<STR>(KAR)
+It's already a little...beaten up...
+
+## POINTER 5
+
+But I promised I'd give the necklace to 
+the person who came back with the item 
+first, so I already gave it to them.
+
+## POINTER 6
+
+W-what! Y-you're not going 
+to give it to me!? 
+But I must have it!
+
+## POINTER 7
+<STR>(YUR)
+Unfortunately, we need this, 
+too. Sorry, man, but we 
+can't give it to you.
+
+## POINTER 8
+
+Damn...damn it! It looks like 
+I'll have to use force...
+
+## POINTER 9
+<STR>(RAP)
+*Big growl*
+
+## POINTER 10
+
+A-ack, no, violence 
+isn't the solution...<PAGE>...Hah...I give up...oh, 
+but, if only...
+
+## POINTER 11
+<STR>(KAR)
+I sort of feel bad for him.
+
+## POINTER 12
+<STR>(JUD)
+This is no time for pity, <STR>(KAR).
+
+## POINTER 13
+<STR>(YUR)
+This is Rhianna's necklace, anyway. It isn't 
+ours to give, even if we wanted to.
+
+## POINTER 14
+<STR>(KAR)
+Yeah. You're right.
+
+## POINTER 15
+<STR>(YUR)
+All right, let's go back to Dahngrest!

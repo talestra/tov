@@ -1,0 +1,97 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(YUR)
+Procura no tardar mucho, ¿vale?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(RIT)
+Claro.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283431337]
+<STR>(RIT)
+Ahora mismo está inactivo.
+Y eso que antes estaba como loco...
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283431337]
+<STR>(RIT)
+¿Fue así como se controló el aer?
+¿Cómo pudo un monstruo hacer algo así?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410783]
+<STR>(EST_P)
+¿El aer krene
+ahora es seguro?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(KAR)
+¡Se armará la gorda como se
+ponga a escupir aer como antes!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410783]
+<STR>(RIT)
+No parece que tengamos
+que preocuparnos por eso.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(YUR)
+¿Por qué ocurrió antes, entonces?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(RIT)
+Eso mismo es lo que me tiene intrigada.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(EST_P)
+A lo mejor era un fenómeno natural.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283431337]
+<STR>(RIT)
+Eso es poco probable, siendo optimistas.
+<PAGE>Si ese fuera el caso, se pondría
+a emitir aer a intervalos regulares.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(JUD)
+Si ocurriera tan a menudo, los
+alrededores se verían afectados.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(RIT)
+Acordaos de cómo crecían
+las plantas en Keiv Moc.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(RAV)
+Er sitio este parece
+de lo más normal.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527732]
+<STR>(RIT)
+Algo tuvo que afectar al
+aer krene para que se
+pusiera así.<PAGE>Pero ¿qué podría ser?
+<PAGE>Lo único que puede afectar así
+al aer es una fórmula o un blastia...
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(RAP)
+Grrr...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527732]
+<STR>(YUR)
+Maldición, nuestros admiradores están aquí.
+Parece que estos Caballeros son tan
+aplicados como su capitán.<PAGE><STR>(RIT), larguémonos. ¿Has acabado
+de inspeccionar el aer krene?
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(RIT)
+Déjame pensar un poco más...
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283431337]
+<STR>(JUD)
+¡Si lo único que necesitas es pensar, tendrás
+tiempo de sobra una vez hayamos salido de aquí!
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280744246]
+<STR>(RIT)
+Mmm... ¡Vale, vale!

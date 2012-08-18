@@ -1,0 +1,57 @@
+## POINTER 0
+
+<VOICE>(VS09_001)Oh! Have you made the antidote 
+to cleanse the tree of poison?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS09_002)<STR>(KAR), it's up to you. I'm no 
+good at this sort of thing.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS09_003)Who, me? Okay then, 
+here goes!
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS09_004)Didn't <STR>(KAR) say there was someone he wanted 
+to show the blossoms of Halure to?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS09_005)I think so. Here's hoping 
+we aren't too late.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS09_006)The tree is...
+
+## POINTER 6
+
+<VOICE>(VS09_007)Please, great tree 
+of Halure. Restore 
+the fallen barrier.
+
+## POINTER 7
+
+<VOICE>(VS09_008)Please...
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS09_009)No way! Was the dosage too small? Or maybe 
+this isn't the right way...
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS09_010)We'll have to get another panacea bottle!
+
+## POINTER 10
+
+<VOICE>(VS09_011)I'm afraid that's impossible. 
+That was the last of the 
+Luluria Petals.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS09_012)But... but we tried so hard...

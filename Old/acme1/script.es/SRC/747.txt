@@ -1,0 +1,134 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1293214749]
+<STR>(YUR)
+Ya veo que <STR>(FRE) sigue siendo
+un obseso por la limpieza.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518401]
+<STR>(RIT)
+Un momento...
+¿Y ese libro?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1293214749]
+<STR>(YUR)
+¿Eh? Pone: «Contra un telón
+de nueva esperanza».
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518401]
+<STR>(RIT)
+¡Bingo!
+¡Lo estaba buscando!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1293214749]
+<STR>(YUR)
+Oh, genial.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1293214749]
+<STR>(FRE)
+¿Vuelvo a mi habitación y
+me encuentro a un ladrón?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(YUR)
+¡Eh, eh, no seas así!
+¡Al menos dirígete a mí
+como un criminal honorable!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(FRE)
+Los criminales honorables casi nunca son tan
+orgullosos como para llamarse eso a ellos mismos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518401]
+<STR>(YUR)
+Bah, detalles,
+detalles.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(FRE)
+En fin, ¿qué hace este criminal
+honorable en mi habitación?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551093]
+<STR>(RIT)
+Perdona, pero ¿nos
+podrías dar este libro?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(FRE)
+¿<STR>(YUR)?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(YUR)
+<STR>(FRE), mi queridísimo amigo,
+¿nos podrías dar este libro,
+por favor?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1293387261]
+<STR>(RIT)
+Eso no suena muy sincero
+que se diga...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(FRE)
+<STR>(YUR), cuándo
+aprenderás...<PAGE>Vale.
+Os podéis quedar
+con el libro.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(RIT)
+¡Gracias!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(YUR)
+¡Gracias!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1293215815]
+<STR>(FRE)
+Serás zoquete, fingir ser educado es
+más difícil que preguntar directamente.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(YUR)
+Muy bien. ¿Por fin
+los tienes todos?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518401]
+<STR>(RIT)
+Sip. Tengo
+los cinco.<PAGE>Ahora ya puedo
+hacer el examen.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(YUR)
+Ir a buscar libros por todo el mundo.
+¡Este examen es de locos!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518401]
+<STR>(RIT)
+Oh, pues la prueba final aún tiene que empezar.<PAGE>Habrá un examen escrito en el que
+necesitaré estos libros como referencia.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(YUR)
+Agh, con solo pensar en exámenes
+ya me duele la cabeza.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1293215717]
+<STR>(RIT)
+¿No te gustaría intentarlo?
+Solo para ver qué tal lo haces.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518401]
+<STR>(YUR)
+Nah, suspendería antes de empezar.
+Y no me importa el doctorado comosellame.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518401]
+<STR>(RIT)
+Sí, darte algo así sería como
+echar margaritas a los cerdos.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294518401]
+<STR>(YUR)
+Oye, ¡¿a quién estás llamando cerdo?!

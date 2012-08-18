@@ -1,0 +1,72 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279527560]
+<STR>(YUR)
+Oye, viejales, perdona
+por traerte hasta aquí.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279527560]
+<STR>(RAV)
+...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279527560]
+<STR>(YUR)
+Hala, ¿a qué viene esa cara?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279527560]
+<STR>(RAV)
+Me resulta mazo raro oírte
+pedir disculpas tal que asín,
+eso es tó.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279527560]
+<STR>(YUR)
+Me refiero a que todavía
+tienes que entregarle
+la carta esa a Belius, ¿no?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283330262]
+<STR>(RAV)
+Sí, pero si no se la puede ver hasta
+la luna nueva, pos qué se le va a hacer, ¿no?
+<PAGE>Ta entonces, toy a merced de los
+caprichos de la princesilla.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283330262]
+<STR>(YUR)
+Pues sí que te lo tomas con filosofía.
+<PAGE>¿Estás seguro? Si nos quedamos aquí
+mucho rato y se te pasa la luna nueva,
+el Don te echará una buena bronca.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283330262]
+<STR>(RAV)
+Nah, toy acostumbrao a que me griten.
+Si me toca esperar, pos habrá que
+hacerlo hasta la siguiente luna nueva.
+<PAGE>Tampoco es que nus vayamos a quedar
+sin ellas dentro de poco.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279527560]
+<STR>(YUR)
+Sí que tienes paciencia.
+¿Estás seguro?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279527560]
+<STR>(RAV)
+Pos claro. La paciencia
+es argo que adquieres
+con la edá.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279527560]
+<STR>(YUR)
+Anda que...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298404835]
+<STR>(RAV)
+Bueno, ser adulto conlleva
+tomar las decisiones correctas.<PAGE>En cuanto vea que tenga que irme,
+sus tendré que dejar.<PAGE>Por ahora, espero que me dejéis
+ir con vosotros, chavales.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279527560]
+<STR>(YUR)
+Claro, como quieras.

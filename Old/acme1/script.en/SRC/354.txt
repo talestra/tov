@@ -1,0 +1,76 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS32_146)Ah, wait, <STR>(RAP)!
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS32_147)<STR>(YUR)...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS32_148)So, you heard it all?
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS32_149)I'm sorry.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS32_150)Are you afraid of me, <STR>(EST_P)?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS32_151)If you are, you can quit 
+right here. Join <STR>(FRE) 
+and go back to the castle.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS32_152)...I'm not going back.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS32_153)Hey...
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS32_154)...It's true the things you've 
+done are against the law.<PAGE><VOICE>(VS32_155)But I...I'm confused.<PAGE><VOICE>(VS32_156)It's also true that your 
+actions saved the lives 
+of others...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS32_157)You never know, 
+someday I might turn 
+my blade on you.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS32_158)You'd never do something like 
+that without a reason.<PAGE><VOICE>(VS32_159)If you ever end up pointing your 
+sword at me, I'm sure I will have 
+done something to deserve it.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS32_160)...<PAGE><VOICE>(VS32_161)If you're going to go with <STR>(FRE), 
+now's your chance. He seemed 
+like he was in a hurry.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS32_162)No. I'm going to 
+continue on this journey 
+with you. It's what I want.<PAGE><VOICE>(VS32_163)Traveling with you, I know 
+I'll find the right path 
+for myself, too.<PAGE><VOICE>(VS32_164)So what I'm thinking is...
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS32_165)Here's to the 
+road ahead.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS32_166)...Thanks.

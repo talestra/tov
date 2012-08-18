@@ -1,0 +1,261 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_054)<STR>(YUR)...
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_055)Creía que estaba siendo
+sigiloso, pero parece
+que me has oído.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298313995]
+<STR>(FRE)
+<VOICE>(VS20_056)¿Y bien? ¿Has venido para
+reírte de mí en esta situación
+tan lamentable?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_057)Sí, quería ver qué cara
+se te quedaba al verte
+metido en un calabozo.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_058)De vez en cuando tampoco viene mal verse obligado
+a ver las cosas desde detrás de unos barrotes.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_059)¿En qué narices pensabas
+al venir aquí con una carta
+como aquella?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_060)Tuvo que ser cosa de los ojos-rojos.
+Nos atacaron después de que os
+fueseis al bosque.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279537174]
+<STR>(YUR)
+<VOICE>(VS20_061)Tú nunca metes la pata de esa manera.
+¿Fue uno de los tuyos?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_062)Aunque así fuese, la responsabilidad es mía.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_063)Entiendo.<PAGE><VOICE>(VS20_064)Si los ojos-rojos están metidos en el ajo,
+entonces Ragou tiene que estar detrás de todo.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_065)¿Cómo sabes tú que...?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_066)Vimos a Ragou dando órdenes
+a uno de sus asesinos
+en el puerto.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_067)No me había enterado de eso.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_068)¿Sabes qué pretenden hacer?
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_069)Lo más seguro es que quieran
+provocar un conflicto entre
+los gremios y los Caballeros.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_070)Eso sería un marrón. ¿Crees que
+habrán enviado una carta falsa
+también a los Caballeros?
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_071)Sí, así los enfurecerían para luchar.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279537174]
+<STR>(YUR)
+<VOICE>(VS20_072)Si ya sabes eso, entonces
+sal de aquí y ve a por
+las cartas verdaderas.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_073)Ya me estaba empezando
+a preguntar si ibas a poder
+con esa cerradura del demonio.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_074)...
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_075)Tienes que quedarte aquí.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_076)¿Para qué? ¿Para ser tu chivo expiatorio?
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_077)Sí que tienes ganas
+de deshacerte de mí, ¿eh?
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_078)<STR>(YUR), si no
+consigo volver...
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(FRE)
+<VOICE>(VS20_079)Tendrás que morir tú en mi lugar.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_080)Ya...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298313995]
+Don Whitehorse
+<VOICE>(VS20_081)Juas. ¿Ocupas el lugar de tu amigo en
+una celda? ¿Has perdío la chaveta, hijo?
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_082)Y eso me lo dice un viejo
+que se deshace a propósito
+de sus propios guardias.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988486]
+Don Whitehorse
+<VOICE>(VS20_083)Mmpf. Quería pedirle un favor
+especial a ese caballero novato.
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_084)¿Te refieres a <STR>(FRE)?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298313995]
+Don Whitehorse
+<VOICE>(VS20_085)Las ratas que montan este tipo de
+espectáculos normalmente les gusta
+disfrutar de su trabajo viéndolo desde cerca.
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_086)Si ya sabías que la carta era falsa,
+¿por qué has incitado así a todo el mundo?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298313995]
+Don Whitehorse
+<VOICE>(VS20_087)¡Je! Si no desmadraba las cosas,
+entonces quienquiera que haya organizado
+esto no se presentaría ni en sueños.<PAGE><VOICE>(VS20_088)Además, hay un buen montón de cabezas huecas
+que no hubieran parado de darme la brasa
+si no hubiera armado gresca.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298313995]
+Don Whitehorse
+<VOICE>(VS20_089)Así están las cosas. Por supuesto,
+si tu amiguito el Caballero no vuelve
+a presentarse, tu vida será mía.
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_090)Lo sé.
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_091)Dime una cosa, de todas formas. ¿Qué es
+lo que te impulsó a fundar un gremio?
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+Don Whitehorse
+<VOICE>(VS20_092)Me di cuenta de que no podía proteger
+las cosas que eran importantes para mí
+si jugaba de acuerdo a las reglas del Imperio.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298313995]
+<STR>(YUR)
+<VOICE>(VS20_093)Pero tuvo que haber algunas de ellas
+que fueran más fáciles de proteger
+cuando estabas en el otro bando.<PAGE><VOICE>(VS20_094)Incluso en el lugar del que vengo,
+los barrios bajos, tenemos la barrera
+protegiéndonos.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528120]
+Don Whitehorse
+<VOICE>(VS20_095)Seguramente. Pero ¿estabas satisfecho
+quedándote ahí junto a todo aquello
+que detestabas?
+
+## POINTER 39 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_096)Bueno, yo...
+
+## POINTER 40 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279537174]
+Don Whitehorse
+<VOICE>(VS20_097)Si las reglas del Imperio
+no te sirven, entonces
+tienes dos opciones.<PAGE><VOICE>(VS20_098)Puedes hacer lo mismo que tu amigo,
+y darlo tó para conseguir 
+que el sistema cambie.<PAGE><VOICE>(VS20_099)O puedes dar la espalda al Imperio,
+y vivir con las reglas que crees
+pa ti mismo.
+
+## POINTER 41 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_100)Sí que lo has dejado claro...
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1298313995]
+Don Whitehorse
+<VOICE>(VS20_101)Sí... Me temo que tendrás que afrontar
+las consecuencias de haber ayudao
+a escapar a mi prisionero.
+
+## POINTER 43 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967551]
+<STR>(YUR)
+<VOICE>(VS20_102)¿Es que quieres que haga algo más
+aparte de pudrirme en esta celda?
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1298313995]
+Don Whitehorse
+<VOICE>(VS20_103)El mendrugo que ha armao
+este follón tiene que estar
+en alguna parte de la ciudad.<PAGE><VOICE>(VS20_104)Tenía pensao pedirle a tu amigo
+de la armadura que le diera caza
+por mí, pero...
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551710]
+<STR>(YUR)
+<VOICE>(VS20_105)Pero ¿qué? ¿Quieres que sea yo quien lo encuentre?
+
+## POINTER 46 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273968026]
+Don Whitehorse
+<VOICE>(VS20_106)Tu trabajo consiste en saldar esta deuda conmigo.
+El cómo lo hagas ya es cosa tuya.
+
+## POINTER 47 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279537174]
+Don Whitehorse
+<VOICE>(VS20_107)La jovencita que trajiste contigo
+anda corriendo de aquí pa allá
+ayudando a todos los heridos.<PAGE><VOICE>(VS20_108)No tienes pinta de ser de la clase
+de gente que se queda mirando a las musarañas
+mientras los demás trabajan, ¿me equivoco?
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1298313995]
+<STR>(YUR)
+<VOICE>(VS20_109)<STR>(EST_P)... Je, por qué
+no me extrañará.

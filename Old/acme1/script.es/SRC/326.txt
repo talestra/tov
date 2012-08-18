@@ -1,0 +1,152 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279558865]
+<STR>(YUR)
+Sí, gracias por tu ayuda.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407457]
+
+Mmm... No sé cuáles son vuestras razones
+para ir al desierto, pero...<PAGE>Os convendría mucho más
+que os quedarais en la ciudad.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407457]
+<STR>(YUR)
+Gracias, pero
+ya lo hemos
+decidido.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279558865]
+
+Ya veo. Tal y
+como os prometí.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279558865]
+<STR>(KAR)
+¡¿Nuestras cantimploras son así de pequeñas?!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279558865]
+<STR>(RIT)
+A mí me parece suficiente.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279558865]
+<STR>(JUD)
+Sí, deberíamos ser capaces de
+obtener agua de algunos tipos de
+cactus que crecen en el desierto.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279558865]
+<STR>(RIT)
+Claro, si los usamos para llenar nuestras
+cantimploras, no deberíamos tener
+problemas. Pues sí que sabes del tema.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+<STR>(EST_P)
+Muchísimas gracias.
+Nos ha ayudado mucho.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407457]
+
+Es lo mínimo que podía hacer.
+Os las regalo, así que no dudéis en
+usarlas todo lo que queráis.<PAGE>Al salir de aquí, girad a la derecha
+cuando el camino se bifurque. Id al
+lago que hay al final del camino.<PAGE>Allí podréis llenar
+vuestras cantimploras.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+<STR>(YUR)
+Muy bien.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+<STR>(RIT)
+Por cierto, ¿qué pasaba con
+el Caballero que estaba aquí?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+<STR>(RAV)
+No ha parao de vigilarme en toda la noche.
+¡Estaba mu nervioso!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+<STR>(KAR)
+Una mentira tras otra.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407457]
+
+Era un supervisor. Los Caballeros están aquí
+para asegurar que los ciudadanos no hablamos
+libremente con gente de fuera de la ciudad.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+<STR>(EST_P)
+¿Por qué hacen algo así?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407457]
+
+No conozco sus razones, pero son órdenes
+del magistrado. Solo los comerciantes
+como yo pueden salir de sus casas.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407457]
+<STR>(YUR)
+Ya veo. Así que por
+eso no hemos visto
+a ningún ciudadano.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+<STR>(KAR)
+A lo mejor aquí también hay
+un magistrado tarado.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407457]
+
+Hasta hace poco aquí no
+había ningún magistrado.
+Hasta que él llegó.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+<STR>(EST_P)
+¿De verdad?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407457]
+
+Sí.<PAGE>Últimamente los Caballeros Imperiales
+se están encaminando a Nordopólica.<PAGE>Parece que han ido para
+arrestar a Belius.<PAGE>Que hayan puesto un nuevo
+magistrado imperial en nuestra ciudad
+parece estar relacionado con eso.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+<STR>(KAR)
+¡¿Los Caballeros Imperiales
+van a arrestar a Belius?!
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+
+Dicen que Belius estaba tramando
+la Gran Guerra en secreto.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407457]
+<STR>(JUD)
+¡¿Belius hizo eso?!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1282961289]
+Eso es lo que están diciendo en la ciudad.<PAGE>Aunque no creo que el Imperio
+pueda hacer mucho si
+Palestrale sigue ahí, pero...
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+
+...
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+
+¡Muchas gracias por quedaros!
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+<STR>(KAR)
+Eh, pero...
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279646596]
+<STR>(YUR)
+Sí, gracias por tu ayuda.<PAGE>Vamos a llenarlas en el lago.

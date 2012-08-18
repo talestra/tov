@@ -1,0 +1,159 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+
+Di-dicen que bajo este árbol hay
+el cuerpo de una mujer enterrada...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+
+S-Sí, he oído que fue
+la esposa de un emperador
+de hace mucho tiempo...
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280845490]
+
+¡Que no! Yo he oído que
+murió antes de la boda. 
+No era su esposa.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+¡Qué importa!
+Da miedo igual, pero...
+¡creo que es cierto!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+
+Ya, las flores de Halure son tan chulas.
+Cuesta creer que pasara algo tan raro
+de verdad...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280845490]
+
+E-Eso explica por qué 
+este árbol nos parecía 
+siempre tan raro... 
+
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280845490]
+<STR>(EST_P)
+Perdón... Sabéis que la 
+historia no es cierta, ¿no?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+
+¡Mentira! ¡El alcalde
+nos la ha contado!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846094]
+<STR>(YUR)
+¿En qué estaría pensando
+ese vejestorio?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846094]
+
+¿Y qué me decís de esto?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846094]
+<STR>(JUD)
+Oh, qué velo tan bonito.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846094]
+<STR>(EST_P)
+¿De dónde lo has sacado?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846649]
+
+¡Una figura blanca, como
+un fantasma, lo perdió!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+<STR>(KAR)
+No me dirás que esa figura blanca
+era el fantasma de la difunta esposa...
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846094]
+<STR>(RIT)
+¡Imposible! ¡Ni los
+fantasmas ni las
+maldiciones existen!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846094]
+
+¡Es verdad!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+<STR>(RIT)
+¡No, no lo es! ¡No, no y no!<PAGE>Estoy segura de que este velo
+lo perdió alguien del pueblo.
+
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+
+El alcalde se lo preguntó a todo el mundo,
+pero nadie lo reclamó...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936099]
+<STR>(RIT)
+No puede ser... No es
+verdad y punto, ¡¿VALE?!
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846751]
+
+Esta chica da mucho
+miedo...
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846094]
+
+Larguémonos de aquí...
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846094]
+<STR>(EST_P)
+Eh, os dejáis esto...
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846751]
+<STR>(EST_P)
+<STR>(RIT)...
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280846094]
+<STR>(RIT)
+Lo siento...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+<STR>(EST_P)
+¿Qué debería hacer con esto?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+<STR>(RIT)
+Tíralo.<PAGE>No creo que los niños 
+quieran quedárselo.
+Da mal rollo.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+<STR>(EST_P)
+A mí no me parece que
+dé mal rollo, más bien 
+parece algo... sagrado.<PAGE>Pues me gusta bastante.
+¿Os importa si me lo llevo?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+<STR>(RIT)
+Argh... ¡Si te echa una
+maldición, luego no te quejes!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+<STR>(YUR)
+Acabas de decir que no crees en las maldiciones.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+<STR>(RIT)
+¡Ca-cállate, <STR>(YUR)!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+<STR>(EST_P)
+Quizá tenga una 
+explicación algo
+más... sagrada.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763756]
+<STR>(EST_P)
+Creo que está relacionado
+con algo mucho más hermoso...

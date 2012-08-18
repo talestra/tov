@@ -1,0 +1,132 @@
+## POINTER 0
+Don Whitehorse
+<VOICE>(VS36_128)Hang in there, kid. 
+Yer a boss now, right?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS36_129)But it's like there's nothing 
+I can do on my own...
+
+## POINTER 2
+Don Whitehorse
+<VOICE>(VS36_130)So then ask fer help. That's 
+what friends're for, right?
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS36_131)Don...!
+
+## POINTER 4
+Don Whitehorse
+<VOICE>(VS36_132)Take good care of them, 
+and they'll be there 
+whenever ya need 'em.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS36_133)...
+
+## POINTER 6
+Harry
+<VOICE>(VS36_134)I'm coming with you...
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS36_135)Like hell you are!
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS36_136)Well, old man, it's been fun.
+
+## POINTER 9
+Don Whitehorse
+<VOICE>(VS36_137)<STR>(RAV), you better 
+nail Yeager for me.
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS36_138)Hah hah. That's a heavy load 
+for somebody like me.
+
+## POINTER 11
+Don Whitehorse
+<VOICE>(VS36_139)Yer the only one I can ask.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS36_140)...Whitehorse.
+
+## POINTER 13
+
+<VOICE>(VS36_141)We're so grateful for 
+everything your darling 
+grandson's done to us. Really.
+
+## POINTER 14
+Don Whitehorse
+<VOICE>(VS36_142)The boy has made a mess of things. 
+He may be my idiot grandson, but 
+he's also a full member of the Union.<PAGE><VOICE>(VS36_143)And it falls on any leader ta take 
+responsibility for the mistakes of 
+their people. So say the laws.<PAGE><VOICE>(VS36_144)Take me then. Let my head 
+atone for Belius.
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS36_145)Don...
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS36_146)Idiot. These guilds... They're 
+all filled with nutcases...
+
+## POINTER 17
+Don Whitehorse
+<VOICE>(VS36_147)So... Who's gonna be my second?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS36_148)...It would be my honor.
+
+## POINTER 19
+Don Whitehorse
+<VOICE>(VS36_149)Guess yer stuck doin' a 
+job nobody much wants.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS36_150)You too.
+
+## POINTER 21
+Don Whitehorse
+<VOICE>(VS36_151)Heh. No kidding.<PAGE><VOICE>(VS36_152)<STR>(YUR). I was lookin' forward to 
+watchin' ya go places. I'll make 
+sure to save you a spot in hell.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS36_153)I don't think they'd 
+let me in to the 
+hell you're going to.
+
+## POINTER 23
+Don Whitehorse
+<VOICE>(VS36_154)Hah. I won't forget 
+that attitude, boy.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS36_155)And I won't forget your 
+resolve, Don Whitehorse.
+
+## POINTER 25
+
+<VOICE>(VS36_156)Don!
+
+## POINTER 26
+Don Whitehorse
+<VOICE>(VS36_157)Listen up! You all gotta stand on 
+yer own two feet from here on!<PAGE><VOICE>(VS36_158)There's a new age coming, 
+so get out there and 
+make it for yourselves!

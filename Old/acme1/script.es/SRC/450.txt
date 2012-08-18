@@ -1,0 +1,114 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1283549756]
+<STR>(RAV)
+<VOICE>(VS44_187)¡Hala, cuidao!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1283549756]
+<STR>(KAR)
+<VOICE>(VS44_188)Tú puedes, <STR>(YUR).
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283638681]
+<STR>(JUD)
+<VOICE>(VS44_189)La apátheia...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283638681]
+<STR>(RIT)
+<VOICE>(VS44_190)Está creando interferencias
+con el blastia y causando
+que el aer se descontrole.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280456]
+<STR>(KAR)
+<VOICE>(VS44_191)¿La vamos a romper?
+Es como el alma de
+un entelechia, ¿verdad?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280456]
+<STR>(RAV)
+<VOICE>(VS44_192)Me temo que no hay más remedio.<PAGE><VOICE>(VS44_193)Si el Heracles sigue palante,
+podemos decirle adiós
+mú buenas a Zaphias.<PAGE><VOICE>(VS44_194)Sin decir qu'a lo mejor
+er cañón se dispara igual.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1283549756]
+<STR>(YUR)
+<VOICE>(VS44_195)Sí. ¡Tenemos que actuar pero ya!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280474]
+<VOICE>(VS44_196)Gracias.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1283549756]
+<STR>(RIT)
+<VOICE>(VS44_197)¿Eh?...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1283549756]
+<STR>(RAV)
+<VOICE>(VS44_198)¿Ha parao?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1283549756]
+<STR>(YUR)
+<VOICE>(VS44_199)¡¿Y el cañón?!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280456]
+<STR>(RIT)
+<VOICE>(VS44_200)¡No va bien!
+¡A este paso se disparará!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280456]
+<STR>(KAR)
+<VOICE>(VS44_201)¡No puede ser! ¡Pero si le
+hemos cortado la energía!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280456]
+<STR>(JUD)
+<VOICE>(VS44_202)Menudo amiguito
+que tienes.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1283638681]
+<STR>(YUR)
+<VOICE>(VS44_203)Ja... Ya está otra vez.
+A hacerse el chulo, como siempre.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280456]
+<STR>(KAR)
+<VOICE>(VS44_204)¿Soy el único que
+ha oído una voz cuando
+has cortado la apátheia?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1283603100]
+<STR>(RAV)
+<VOICE>(VS44_205)No. Tal vez fuese
+la voz del entelechia
+qu'era antes.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1283603100]
+<STR>(JUD)
+<VOICE>(VS44_206)Es como si la consciencia
+de la apátheia quisiese que
+el aer volviera a la normalidad.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280456]
+<STR>(YUR)
+<VOICE>(VS44_207)Como que aquí hemos terminado.
+Ahora toca llegar a Zaphias
+y rescatar a <STR>(EST_P).
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280456]
+<STR>(JUD)
+<VOICE>(VS44_208)Llamaré a Ba'ul.
+Salgamos al aire libre.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280456]
+<STR>(RAV)
+<VOICE>(VS44_209)Hemos perdío mucho tiempo
+con el rollo der señuelo
+der Heracles.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1283603100]
+<STR>(KAR)
+<VOICE>(VS44_210)¡Deprisa!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981427]
+<STR>(RIT)
+<VOICE>(VS44_211)Quería que el aer volviese a la
+normalidad... Las apátheia y el aer...
+La fórmula Rizomata y <STR>(EST_P)...

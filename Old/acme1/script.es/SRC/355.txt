@@ -1,0 +1,119 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283430463]
+<STR>(RAV)
+<VOICE>(VS32_167)Hacía tiempo que no m'estaba
+dormío durante tanto rato. *Bostezo*
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(RIT)
+<VOICE>(VS32_168)Sí, es lo que tiene
+que se te peguen las sábanas.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(YUR)
+<VOICE>(VS32_169)Estamos preparados para
+salir, así que ya estás
+espabilándote.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(KAR)
+<VOICE>(VS32_170)¿Eh? No hay tantos
+Caballeros como ayer...
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(YUR)
+<VOICE>(VS32_171)Ya. <STR>(FRE) y los suyos
+se dirigen ahora a Nordopólica.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(JUD)
+<VOICE>(VS32_172)Entonces han salido
+de viaje en plena noche.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(KAR)
+<VOICE>(VS32_173)¿Les habrá surgido
+alguna emergencia?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(RIT)
+<VOICE>(VS32_174)Igual tienen que ir
+a por los monstruos
+del coliseo.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:memnoch;time:1282961264]
+<STR>(KAR)
+<VOICE>(VS32_175)Seguramente Palestrale les
+habrá pedido ayuda a los Caballeros.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(YUR)
+<VOICE>(VS32_176)Mmm, tendremos que esperar a verlo.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(EST_P)
+<VOICE>(VS32_177)¿...?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(YUR)
+<VOICE>(VS32_178)Bueno, es que <STR>(FRE) mencionó
+algo sobre una barricada.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(JUD)
+<VOICE>(VS32_179)¿Una barricada? ¿Qué querrá decir?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410359]
+<STR>(EST_P)
+<VOICE>(VS32_180)¿Habrán ido a arrestar a Belius
+por lo que ocurrió durante
+la Gran Guerra?
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:memnoch;time:1282961264]
+<STR>(KAR)
+<VOICE>(VS32_181)No creo que los Caballeros sean
+capaces de doblegar a Palestrale
+tan fácilmente.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410359]
+<STR>(YUR)
+<VOICE>(VS32_182)A mí me da que las cosas
+van a ponerse muy feas.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(RAV)
+<VOICE>(VS32_183)Tal vez nus deberíamos
+replantear lo de volver
+a Nordopólica por ahora.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(KAR)
+<VOICE>(VS32_184)Pero casi es luna nueva. Si perdemos
+esta oportunidad, vete a saber cuándo
+podremos ver a Belius.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283430463]
+<STR>(RAV)
+<VOICE>(VS32_185)Tó eso está mu bien. Solo digo que no
+tengo ninguna prisa en meterme en un
+follón con gente en armadura de por medio.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(YUR)
+<VOICE>(VS32_186)Lo mismo digo.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(KAR)
+<VOICE>(VS32_187)No tenemos más que ir con
+cuidado, como hacemos siempre.
+No sirve de nada asustarse por ello.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410359]
+<STR>(RIT)
+<VOICE>(VS32_188)No os olvidéis de que
+tengo que echar una ojeada
+al aer krene de Cados.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280741828]
+<STR>(YUR)
+<VOICE>(VS32_189)Tranquila, no me olvido.
+De acuerdo, vámonos.

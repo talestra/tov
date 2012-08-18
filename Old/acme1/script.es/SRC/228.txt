@@ -1,0 +1,61 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318712]
+<STR>(YUR)
+Bien, aquí está mi arma.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1274045244]
+<STR>(YUR)
+¿Encuentras la tuya?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1274045244]
+<STR>(JUD)
+Debe de habérsela
+llevado alguien.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1274045244]
+<STR>(YUR)
+Es posible. ¿Por qué
+no te llevas una de aquí?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1280086509]
+<STR>(JUD)
+Mm... Vale.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1280086509]
+<STR>(YUR)
+¿Le tenías un cariño especial a la tuya?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1280086509]
+<STR>(JUD)
+Sí.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1280086509]
+<STR>(JUD)
+Esta debería valerme por ahora.
+Me la llevo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1274045244]
+<STR>(YUR)
+¿Estás segura?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1280086509]
+<STR>(JUD)
+No creo que vaya a encontrar
+mi arma aquí. Ya la iré
+buscando mientras continuamos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1274045244]
+<STR>(YUR)
+Yo también estaré
+atento por si la veo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1274045244]
+<STR>(JUD)
+Gracias.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1274045244]
+Información
+<STR>(YUR) ha recuperado sus armas.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1274045244]
+Informaciónn
+<STR>(JUD) ha obtenido una lanza.

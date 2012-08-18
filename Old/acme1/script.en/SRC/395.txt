@@ -1,0 +1,137 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS36_245)Where's <STR>(KAR)?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS36_246)What is the deal with 
+everyone worrying so much?<PAGE><VOICE>(VS36_247)What are both of your 
+plans after this?
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS36_248)I'm going with you, of course.<PAGE><VOICE>(VS36_249)Like I said, I've decided to 
+stick with you guys while 
+I research the aer krene.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS36_250)Right, right.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS36_251)I want to go with you as well, <STR>(YUR).<PAGE><VOICE>(VS36_252)Now that we know the Hunting 
+Blades are out to get <STR>(JUD), 
+we've got to try and help her...
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS36_253)We're not obligated to 
+do anything for her.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS36_254)...<STR>(JUD) shared in our travels. 
+She's one of us...
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS36_255)...She also destroyed the 
+ceres blastia on the ship.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS36_256)But...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS36_257)I'm not going out on 
+any mercy mission.<PAGE><VOICE>(VS36_258)I told you I need to set 
+things straight, right?
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS36_259)<STR>(YUR)...
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS36_260)What does <STR>(JUD_P) know? 
+What doesn't she know...?<PAGE><VOICE>(VS36_261)I'm going to see that she comes 
+clean about all of it. I have to, 
+to find out where this guild stands.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS36_262)Well, we might just end up 
+saving her along the way.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS36_263)You two are worried 
+about her, I knew it.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS36_264)Wh-what are you talking about?! 
+We "might" is all I said!
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS36_265)Anyway, with all this talk about 
+setting the guild straight, is the 
+fearless leader himself gonna come?
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS36_266)It'll take more than this to 
+keep him down. He'll come.<PAGE><VOICE>(VS36_267)Now, let's go.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS36_268)What should we 
+do about <STR>(RAV)?
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS36_269)He couldn't come now. He 
+can't turn his back on this 
+town. They lost the Don.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS36_270)You're probably right. The old man 
+has his own agenda to take care of.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS36_271)...I'm going to miss him...
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS36_272)Think who you're talking about. 
+That guy might just pop up 
+when you least expect it.
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS36_273)So, where is this 
+Mt. Temza, anyway?
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS36_274)My guess is that it's somewhere 
+north of the Sands of Kogorh.<PAGE><VOICE>(VS36_275)She mentioned something about 
+living with Ba'ul on a mountain 
+to the north of a desert.
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS36_276)There certainly are plenty 
+of mountains in the 
+northern regions of Desier.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS36_277)Well let's start there, and 
+see where it takes us.<PAGE><VOICE>(VS36_278)First off we need to make 
+our way to Desier.<PAGE><VOICE>(VS36_279)Let's get to the ship.

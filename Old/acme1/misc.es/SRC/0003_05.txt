@@ -1,0 +1,135 @@
+## POINTER 504 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Editar detalles
+
+## POINTER 505 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Cambiar formación
+
+## POINTER 506 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359441]
+Convertir el equipo de <0B>(0) en materiales.
+
+## POINTER 507 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359441]
+Esto sobrescribirá los datos actuales.
+¿Estás seguro?
+
+## POINTER 508 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+<06>(RBD)Confirmar　<06>(RBR)Volver
+
+## POINTER 509 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246549]
+¡Derrota 30! Récords del coliseo
+
+## POINTER 510 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265231193]
+El dispositivo de almacenamiento seleccionado
+no está disponible. Elige otro dispositivo.
+
+## POINTER 511 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+¡DOMINADO!
+
+## POINTER 512 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246397]
+GALD
+
+## POINTER 513 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+TIEMPO DE JUEGO
+
+## POINTER 514 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265231193]
+GOLPES MÁX.
+
+## POINTER 515 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+LÍMITES
+
+## POINTER 516 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246549]
+<06>(RBD)Comprobar tarjeta de jugador <06>(RBR)Volver <06>
+(L2)10 más cercanos <06>(R2)TOP 20
+
+## POINTER 517 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Desconectado de Xbox LIVE.
+
+## POINTER 518 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246549]
+Necesitas iniciar sesión en
+Xbox LIVE para acceder a la
+tabla de ranking.
+
+## POINTER 519 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Habilidad ya obtenida de un arma.
+No tendrá efectos adicionales.
+
+## POINTER 520 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Carga fallida...
+Repite de nuevo el proceso.
+
+## POINTER 521 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+ARRIBA
+
+## POINTER 522 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+ARRIBA
+
+## POINTER 523 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+ID
+
+## POINTER 524 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Alfabético
+
+## POINTER 525 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246549]
+Atq F.
+
+## POINTER 526 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Def F.
+
+## POINTER 527 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Atq M.
+
+## POINTER 528 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Def M.
+
+## POINTER 529 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Precio
+
+## POINTER 530 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Reserva
+
+## POINTER 531 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Está aplicada al arma y no puede quitarse.
+
+## POINTER 532 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246549]
+<06>(RBD)Info. de enemigo <06>(RBL)Aumentar zoom <06>(RBU)Mapa perruno <06>(L2)
+<06>(R2)Categoría
+
+## POINTER 533 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183373]
+Espera, por favor... Accediendo a la tabla de ranking.
+
+## POINTER 534 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Revivido
+
+## POINTER 535 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246823]
+<06>(RBR)Volver <06>(RBL)Cambiar info. <06>(L2)
+<06>(R2)Categoría <06>(L1)<06>(R1)Girar
+
+## POINTER 536 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+<06>(LTN)Mover　<06>(RBL)Alejar zoom <06>(RBU)Mapa perruno
+
+## POINTER 537 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+<06>(L2)<06>(R2) Cambiar
+
+## POINTER 538 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359441]
+Habilidad disponible a través del equipo.
+
+## POINTER 539 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+El archivo de guardado
+parece estar dañado
+y no se puede cargar.
+
+## POINTER 540 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+No se puede encontrar el contenido
+descargable correspondiente a este archivo.
+No se puede cargar la partida. Descarga
+de nuevo el contenido del Bazar de Xbox LIVE.
+
+## POINTER 541 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+Cargando el archivo seleccionado.
+¿Estás de acuerdo?
+
+## POINTER 542 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265231193]
+Adquiridos este(os) objeto(s). Se desecharán los objetos
+que superen el máx. permitido. (Máx. normal: objetos: 15; materiales: 99).
+
+## POINTER 543 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819882]
+¿Quieres usar el objeto?

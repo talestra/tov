@@ -1,0 +1,136 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092010]
+<STR>(YUR)
+<VOICE>(VS18_026)¡<STR>(RIT)!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273485595]
+<STR>(RIT)
+<VOICE>(VS18_027)¡Déjame ir!
+¡No puedo dejarlo así!<PAGE><VOICE>(VS18_028)¡El aer está saliendo a raudales de este trasto!
+¡Con estos niveles de densidad, podría matar a alguien!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092010]
+<STR>(YUR)
+<VOICE>(VS18_029)¡¿Y tú qué?!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298287119]
+<STR>(YUR)
+<VOICE>(VS18_030)¡Maldita sea! ¡Esta tía
+se flipa con los blastias!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273485595]
+<STR>(RIT)
+<VOICE>(VS18_031)Tranquilo, solo tengo que reajustar
+el volumen del aer. ¡Quedarás como nuevo!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092130]
+<STR>(FRE)
+<VOICE>(VS18_032)¡Es demasiado peligroso! 
+¡¡Tienes que salir de ahí!!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298287119]
+Alexei
+<VOICE>(VS18_033)Evacuad a los civiles fuera
+de la ciudad, así como 
+a la Princesa y a los demás.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092130]
+<STR>(FRE)
+<VOICE>(VS18_034)Sí, señor.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298287119]
+Alexei
+<VOICE>(VS18_035)El aer está totalmente fuera
+de control. Es imposible predecir
+qué puede llegar a hacer.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092290]
+<STR>(RIT)
+<VOICE>(VS18_036)¡No! El flujo 
+de aer ha superado
+su límite.<PAGE><VOICE>(VS18_037)A este ritmo, 
+engullirá la ciudad
+o explotará.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273485595]
+
+<VOICE>(VS18_038)¿Explotar? 
+¿Habéis oído eso?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092290]
+
+<VOICE>(VS18_039)¡Todo el mundo fuera de aquí! ¡Rápido!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092290]
+<STR>(EST_P)
+<VOICE>(VS18_040)¡¡<STR>(RIT)!!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092290]
+Alexei
+<VOICE>(VS18_041)¡¿Princesa?!
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092290]
+<STR>(YUR)
+<VOICE>(VS18_042)¡Ah!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298287535]
+<STR>(FRE)
+<VOICE>(VS18_043)¡Su Alteza!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551731]
+<STR>(YUR)
+<VOICE>(VS18_044)Pero ¡¿qué...?!
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092344]
+<STR>(EST_P)
+<VOICE>(VS18_045)¡<STR>(RIT)! ¡Estoy aquí!
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092344]
+<STR>(RIT)
+<VOICE>(VS18_046)<STR>(EST)...
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092344]
+
+<VOICE>(VS18_047)¡¿Comandante?!
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273485384]
+<STR>(RIT)
+<VOICE>(VS18_048)Ahí, ya lo tengo...
+¡Aaaah!
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273092344]
+<STR>(EST_P)
+<VOICE>(VS18_049)¡¡...!!
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438523]
+<STR>(EST_P)
+<VOICE>(VS18_050)¡<STR>(RIT)! ¡¡Aguanta!!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485092]
+<STR>(EST_P)
+<VOICE>(VS18_051)Uff... Por favor... preparad
+una habitación... para <STR>(RIT)...
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273485384]
+<STR>(YUR)
+<VOICE>(VS18_052)¿Te das cuenta de lo que estás diciendo? 
+Tú estás tan hecha polvo como ella.
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273485384]
+<STR>(FRE)
+<VOICE>(VS18_053)¡Preparad unas habitaciones de inmediato!
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438523]
+<STR>(FRE)
+<VOICE>(VS18_054)Yo mismo la llevaré.
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438523]
+<STR>(YUR)
+<VOICE>(VS18_055)<STR>(KAR), ¿puedes levantarte?
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438523]
+<STR>(KAR)
+<VOICE>(VS18_056)Sí...
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438523]
+<STR>(YUR)
+<VOICE>(VS18_057)Venga, nosotros también vamos.

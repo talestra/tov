@@ -1,0 +1,53 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283330110]
+<STR>(KAR)
+Siento como si el mundo
+entero se estuviera derrumbando.
+<PAGE>No puedo creer que Portal
+de Ruinas se dedicara en
+secreto al tráfico de armas.
+<PAGE>Y que las sacaran de las ruinas
+como contrabando...
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279526610]
+<STR>(YUR)
+Supongo que donde hay luz
+tiene que haber sombra.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279526610]
+<STR>(KAR)
+Tal vez. Pero
+resulta tan triste...
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283330110]
+<STR>(YUR)
+Bueno, tampoco te comas mucho la cabeza
+por esos tíos. Tú sigue viviendo tu
+vida de la manera que creas justa.
+<PAGE>Y lleva a Gran Vesperia
+a la victoria con orgullo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298404289]
+<STR>(KAR)
+¡Sí, tienes razón!<PAGE>Ahora lo que nos toca es
+ocuparnos de lo de Phaeroh.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298404440]
+<STR>(YUR)
+Ya. Casi estamos en el desierto.
+Prácticamente lo hemos conseguido.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279526610]
+<STR>(KAR)
+Oye, en cuanto acabemos con este
+encargo, ¿te parece si volvemos
+una temporada a Dahngrest?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279526610]
+<STR>(YUR)
+Mmm... Mejor dejar finiquitado
+este trabajo antes de ponernos
+a pensar en eso.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279526610]
+<STR>(KAR)
+Oh, s-sí, claro.

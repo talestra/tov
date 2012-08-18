@@ -1,0 +1,72 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS59_001)So this is Relewiese?
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS59_002)Yes, Ba'ul says it is.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS59_003)But...I don't see any aer 
+krene or Entelexeia.
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS59_004)Looks like we can take 
+this path down...
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS59_005)It's a long way down.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS59_006)Yes, it is.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS59_007)Let's get going.
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS59_008)Yes. It looks like that's all we can do.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS59_009)Hey, why don't we just ride Ba'ul 
+all the way to the bottom?
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS59_010)No, it's narrow, and the wind is all over 
+the place. It's a little too dangerous.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS59_011)I can see a river way
+down at the bottom!
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS59_012)This is what happens when 
+a river wears away at the 
+earth for years and years.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS59_013)Ahh, the power of nature. 
+Who knows how long it 
+took to make this...
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS59_014)Whoa! I get all dizzy when I look straight down...
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS59_015)Idiot.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS59_016)Hah hah, just make sure you don't slip and fall.

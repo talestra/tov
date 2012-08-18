@@ -1,0 +1,20 @@
+## POINTER 0
+<STR>(JUD)
+...You think we might 
+be able to stop by
+the capital?
+
+## POINTER 1
+<STR>(YUR)
+The capital?
+
+## POINTER 2
+<STR>(JUD)
+Aren't there people left in the 
+lower quarter you'd like to see?
+
+## POINTER 3
+<STR>(YUR)
+There's not anyone I 
+absolutely HAVE to go 
+and see, but okay...

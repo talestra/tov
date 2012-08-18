@@ -1,0 +1,254 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(YUR)
+¿Shel?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Shel
+¡<STR>(YUR),
+mi hermano ha vuelto!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(YUR)
+¿Eh? ¿Qué?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Shel
+Pues eso, que mi hermano Clay ha vuelto. 
+¡Lo siento, pero tengo que irme!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(KAR)
+¡Al final han encontrado a Clay!
+No hemos sido de mucha ayuda.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(EST_P)
+Shel parecía estar de muy 
+buen humor. Me alegro por él.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(JUD)
+¿Deberíamos ir a ver 
+al hermano desaparecido?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Shel
+¡Aaaaah!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(YUR)
+¡Eres tú!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+
+Parece que el destino 
+ha vuelto a unirnos,
+<STR>(YUR) Lowell.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+<STR>(RAV)
+¡¿Quién es?!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Shel
+Hermano... ¿Por qué...?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+<STR>(KAR)
+¿Hermano?
+¿Este hombre es...?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(YUR)
+Así que eres Clay.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Clay
+¿Por qué lo hiciste?  
+Solo quiero saber eso.<PAGE>¿Por qué mataste a mi maestro, el padre de Lune?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Shel
+Po-porque... pensé 
+que si no estuviera,
+Lune y tú podríais...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Clay
+¿Es lo que quería Lune?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Shel
+Yo solo quería
+que los tres...<PAGE>Hermano, Lune y yo estuvimos 
+esperándote todo este tiempo...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Lune
+¡Aaaahhhh!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Lune
+¡Shel! ¡Shel!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Lune
+¿Qué te ha pasado? ¡Clay! 
+¡¿Te das cuenta de
+lo que has hecho?!<PAGE>
+¡¿Cómo has podido hacerle esto a Shel?!
+¡Mi padre no te enseñó a usar
+la espada para este fin!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Clay
+Tenía que hacer justicia...
+No podía ignorar lo que hizo Shel.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Lune
+¡¿Tu justicia era más importante 
+que la vida de tu hermano?!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Clay
+...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Lune
+Estúpida...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Lune
+Soy una estúpida... 
+Debí habérselo
+dicho...<PAGE>Shel siempre estuvo a mi lado... 
+Debí haberle dicho «gracias»...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(YUR)
+¡Clay! ¿Estás 
+contento ahora?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Clay
+No lo sé... 
+Ya no sé qué es 
+la justicia.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+<STR>(YUR)
+¿Por qué has atacado
+a Shel, entonces?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Clay
+Te lo dije... es lo que soy.<PAGE>Si no lo hubiera ajusticiado, todas mis acciones
+hasta ahora hubieran sido una mentira. Me hubiera
+rebajado al nivel de los criminales que tanto odio.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+<STR>(YUR)
+Pero ya lo sabías, 
+¿verdad?<PAGE>Por eso no regresabas. Te ensuciaste 
+las manos durante la búsqueda de tu «justicia», 
+y pensaste que ya no eras digno de ella.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Clay
+Tienes razón. Estas manos
+antes inocentes las ensucié
+por la justicia...
+<PAGE>Por su nombre las he alzado
+contra la gente que quería proteger...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(YUR)
+Si tu determinación es tan débil, 
+¡no deberías usar la palabra 
+«justicia» tan a la ligera!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Clay
+¿Eh?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+<STR>(YUR)
+Todo el que empuña
+una espada lo sabe.<PAGE>¡Que sirve para proteger a los demás!<PAGE>Cuando tienes claro lo que vale la
+pena proteger, ¡tu determinación
+no flaquea jamás!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+Clay
+Lo que vale la pena...
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(YUR)
+¿Qué es lo que 
+querías proteger?
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Clay
+Las espadas sirven para proteger
+a a las personas... Fue lo primero
+que aprendí de mi maestro.<PAGE>No sé por qué lo acabé olvidando.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Clay
+Tu determinación no flaquea jamás, ¿verdad?
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(YUR)
+Tengo la suerte de tener mucho 
+que merece la pena proteger.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Clay
+Te debo una...
+Toma. Considéralo mi 
+forma de agradecértelo.<PAGE>Quizá te ayude a proteger 
+aquello que te importa.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(YUR)
+¿Qué vas a hacer?
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+Clay
+No puedo borrar lo que he hecho.
+Pero no pienso huir.
+Voy a pagar por mis pecados.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:miyu;time:1274119936]
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243260]
+<STR>(YUR)
+¿Cómo va la cosa por ahí?
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:miyu;time:1277127069]
+<STR>(RAV)
+Los Caballeros s'ocuparán 
+der resto. ¿Y Clay?
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(YUR)
+Ha ido al castillo. 
+Creo que va a entregarse.
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(JUD)
+Bien. Así es 
+como debe ser.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(KAR)
+¿Por qué ha tenido que pasar esto?
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:miyu;time:1274119605]
+<STR>(YUR)
+No llores, <STR>(KAR). 
+Todavía tenemos
+mucho que hacer.

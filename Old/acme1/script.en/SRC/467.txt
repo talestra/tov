@@ -1,0 +1,123 @@
+## POINTER 0
+Ioder
+<VOICE>(VS48_001)...Oh, I'm so glad 
+you are all safe!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS48_002)Huh.<PAGE><VOICE>(VS48_003)You did this, right? Had 
+the inn open up its 
+rooms free of charge.
+
+## POINTER 2
+
+<VOICE>(VS48_004)And just who are you? 
+Watch your tongue. Do you 
+know to whom you are--
+
+## POINTER 3
+Ioder
+<VOICE>(VS48_005)There are many who have escaped with 
+only the shirts on their backs.<PAGE><VOICE>(VS48_006)I felt this was one service their 
+country could provide for them.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS48_007)Hmm, okay.<PAGE><VOICE>(VS48_008)Actually, I'm more 
+interested in what you can 
+tell me about the capital.
+
+## POINTER 5
+Ioder
+<VOICE>(VS48_009)The capital... Zaphias is no
+longer a city fit for any person.
+
+## POINTER 6
+
+<VOICE>(VS48_010)The city's barrier blastia began giving 
+off a great light... And the town was 
+wracked by earthquakes and lightning...
+
+## POINTER 7
+Ioder
+<VOICE>(VS48_011)However, the real terror came after that.<PAGE><VOICE>(VS48_012)A glowing fog appeared from the barrier 
+blastia, and quickly spread throughout  
+the city.<PAGE><VOICE>(VS48_013)The plants it touched grew hideously 
+large, and the water became poison... 
+It was hell itself.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS48_014)The aer is out of control...
+
+## POINTER 9
+
+<VOICE>(VS48_015)Oh, that such dire events could 
+befall Zaphias, jewel of our 
+glorious empire...
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS48_016)If the aer has covered 
+the entire city... 
+What is he doing to her...?
+
+## POINTER 11
+
+<VOICE>(VS48_017)Th-this is that turncoat 
+Alexei's doing, I'm sure of it!<PAGE><VOICE>(VS48_018)He came to us demanding our 
+obedience. When we refused, he 
+swore he would reduce us to dust!
+
+## POINTER 12
+
+<VOICE>(VS48_019)That beast even had the gall 
+to t-turn the Royal Guard on 
+us after we made our escape!
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS48_020)Then how did you come 
+all this way unharmed?
+
+## POINTER 14
+Ioder
+<VOICE>(VS48_021)<STR>(FRE) held them off for us. <PAGE><VOICE>(VS48_022)It is thanks to him that we 
+refugees arrived here safely.<PAGE><VOICE>(VS48_023)If he hadn't come to our aid
+just then, we all would've died.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS48_024)Oh, I'd love to hear more about 
+how great <STR>(FRE) is, believe me...<PAGE><VOICE>(VS48_025)But I haven't seen anyone 
+from the lower quarter here.<PAGE><VOICE>(VS48_026)What happened to them?
+
+## POINTER 16
+Ioder
+<VOICE>(VS48_027)I'm sorry. I haven't 
+seen anyone either.
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS48_028)They must have been 
+left behind. With all 
+that aer flooding out.
+
+## POINTER 18
+
+<VOICE>(VS48_029)I-it was all we could do to save 
+ourselves. With all that was happening we 
+were unable to take everyone with us.<PAGE><VOICE>(VS48_030)We did all we could! 
+You must understand!
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS48_031)...Oh yeah?
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS48_032)Hey...
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS48_033)I'll be at the inn.

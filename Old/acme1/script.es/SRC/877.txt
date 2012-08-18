@@ -1,0 +1,114 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290799542]
+<STR>(EST_P)
+...
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290799542]
+Karen
+Es un mapa, ¿verdad?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856768]
+<STR>(EST_P)
+Sí. Estaba pensando
+en los diferentes lugares
+a los que hemos viajado.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856768]
+Karen
+Oh, ¡qué suerte!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290799542]
+<STR>(EST_P)
+Pero si tu viaje también
+te ha llevado a muchísimos
+sitios diferentes, ¿no?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290799542]
+Karen
+Bueno, no nos acercamos ni a ciudades
+ni a lugares extraños, así que...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856768]
+<STR>(EST_P)
+¿De verdad?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290800570]
+Karen
+Sí. Un carruaje que hace
+de posada sería un poco extraño
+en una ciudad, ¿no crees?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290800570]
+<STR>(EST_P)
+Quizá...
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290800570]
+Karen
+Sí. Y no nos acercamos a bosques oscuros,
+ni a barrancos profundos ni nada de eso.
+Son demasiado peligrosos.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294609255]
+<STR>(EST_P)
+Ah...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856768]
+Karen
+¿Me podrías contar cosas de los
+sitios en los que has estado?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856768]
+<STR>(EST_P)
+¿Los sitios en los
+que he estado? Mmmm...
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290800570]
+Karen
+Sí, por favor. Me encantaría escucharte.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856768]
+<STR>(EST_P)
+Bueno, vale...
+Para empezar,
+tenemos la capital...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856768]
+<STR>(EST_P)
+... y después dejamos atrás
+la aldea misteriosa y
+seguimos nuestro camino.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856768]
+Karen
+¡Vaya, menudo viajecito
+os habéis pegado!
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290800570]
+<STR>(EST_P)
+La verdad es que
+aún nos queda...
+Ah, qué tarde es...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856768]
+Karen
+¡Oh! ¡Lo siento!
+¡He perdido la noción del tiempo!
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290800641]
+<STR>(EST_P)
+¡No, no pasa nada!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856768]
+Karen
+Si vinieses otra vez...
+¿te apetecería contarme
+más de tus historias?
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290800570]
+<STR>(EST_P)
+Sí, por supuesto.
+Volveré.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856768]
+Karen
+Ji, ji. ¡Qué ganas tengo de
+saber lo que pasa después! ♪

@@ -1,0 +1,132 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+Sodia
+<VOICE>(VS44_139)¡No, os están engañando!<PAGE><VOICE>(VS44_140)Alexei ha estado usando
+a los Caballeros para su
+propio beneficio!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+<VOICE>(VS44_141a)¡No digas disparates!<PAGE><VOICE>(VS44_141b)El Comandante es el honor
+de los Caballeros y un ejemplo
+a seguir para todos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+<VOICE>(VS44_142)<STR>(FRE) intenta
+deponer a Su Excelencia.
+¡Él es el verdadero traidor!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+<STR>(YUR)
+<VOICE>(VS44_143)¡Iaah!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+<VOICE>(VS44_144)¡Aaah!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+<VOICE>(VS44_145)¡Aaah!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+Sodia
+<VOICE>(VS44_146)No recuerdo
+haberte pedido ayuda...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1283637456]
+<STR>(YUR)
+<VOICE>(VS44_147)¿A los Caballeros no
+os enseñan algo tan simple
+como es dar las gracias?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+Sodia
+<VOICE>(VS44_148)¡Jamás en la vida
+te daría las gracias!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+Sodia
+<VOICE>(VS44_149)¿Piensas que te voy a
+dejar marchar así como así?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+<STR>(YUR)
+<VOICE>(VS44_150)Jopé, ¿cuántas veces voy a tener
+que repetírtelo? No tenemos
+tiempo que perder contigo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+<STR>(JUD)
+<VOICE>(VS44_151)Si vas en serio con esto,
+no nos contendremos.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+<STR>(RIT)
+<VOICE>(VS44_152)Tenemos otros asuntos
+pendientes, así que más
+te vale no entrometerte.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+Sodia
+<VOICE>(VS44_153)¿Planeáis rescatar a
+la señorita <STR>(EST)?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+<STR>(KAR)
+<VOICE>(VS44_154)Sí. Así que venga,
+envaina tu espada.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+<STR>(RAV)
+<VOICE>(VS44_155)Tiene toa la razón.
+Nadie saldría ganador
+en esta batalla.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+Sodia
+<VOICE>(VS44_156)Capitán Schwann...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+<STR>(RAV)
+<VOICE>(VS44_157)Llámame <STR>(RAV). 
+Te acordarás,
+¿verdad?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+Sodia
+<VOICE>(VS44_158)<STR>(YUR) Lowell.<PAGE><VOICE>(VS44_159)No creas que te he perdonado.
+Un criminal como tú no tiene derecho
+a estar al lado de mi capitán.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+<STR>(YUR)
+<VOICE>(VS44_160)¿Y? ¿Qué vas a
+hacer al respecto?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+Sodia
+<VOICE>(VS44_161)Cuando haya solucionado
+este desastre, volveré para
+que recibas tu merecido.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+<VOICE>(VS44_162)
+Hemos encontrado una gran fuerza enemiga más
+adelante. Son superiores a nuestras fuerzas.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+Sodia
+<VOICE>(VS44_163)Entendido.
+Enseguida voy.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1283546519]
+<STR>(KAR)
+<VOICE>(VS44_164)Parece que las tropas de <STR>(FRE)
+también tienen problemas.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+<STR>(YUR)
+<VOICE>(VS44_165)Si no detenemos esta cosa
+ahora mismo, van a tener más
+que un dolor de cabeza.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1285279372]
+<STR>(RAV)
+<VOICE>(VS44_166)Mú bien. A la sala
+de máquinas que nos vamos.

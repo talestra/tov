@@ -1,0 +1,41 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1252006113]
+Yormgen es raro
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266242718]
+(KAR)
+Este pueblo es muy raro. Está en mitad
+del desierto, pero mira cuántas plantas hay...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266242799]
+(RIT)
+Me recuerda un poco a Mantaic.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266242718]
+(YUR)
+Ya, pero tiene... algo distinto.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266242799]
+(EST_P)
+¿En serio?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1266398361]
+(JUD)
+Puede que este pueblo sea más de lo que parece.
+Tal vez la verdad esté oculta a nuestros ojos...
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267436153]
+(RAV)
+Y aquí está (JUD) pa poner
+las cosas en perspectiva.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1266242799]
+(YUR)
+Cuanta más intuición tienes, más llegas a ver.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1266242718]
+(EST_P)
+¡Yo tengo mucha intuición!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1266242799]
+(RIT)
+¡Oye! ¡Yo tengo intuición!

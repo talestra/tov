@@ -1,0 +1,11 @@
+## POINTER 0
+<STR>(FRE)
+<VOICE>(VS15_262)Damn. He'll get away!
+
+## POINTER 1
+Ragou
+<VOICE>(VS15_263)Prepare my ship!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS15_264)Where do you think you're going?!

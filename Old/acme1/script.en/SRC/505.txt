@@ -1,0 +1,104 @@
+## POINTER 0
+Harry
+<VOICE>(VS54_001)Damn it, why did I have to do it!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS54_002)That was...the 
+Don's grandson, 
+Harry...right?
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS54_003)Aaaaaah!!
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS54_004)<STR>(YUR)!!
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS54_005)...I can't believe you!<PAGE><VOICE>(VS54_006)You should've told me you were alive...
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS54_007)Sorry for worrying you.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS54_008)But I'm back!
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS54_009)Well aren't you tough. 
+Heh heh. That's my boy!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS54_010)We just saw Harry--did something 
+happen to him?
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS54_011)Ah, there's been just a 
+teency bit of trouble.<PAGE><VOICE>(VS54_012)The Union's kind of a ship without 
+a captain, right now.
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS54_013)So the people won't come together 
+unless there's some kind of core.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS54_014)Core...! 
+That's it!
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS54_015)What's it?
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS54_016)I've got it! Apatheia. It'll 
+work if I use apatheia.<PAGE><VOICE>(VS54_017)So even if the aer's stability 
+coefficient keeps changing, 
+if I connect one of those...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS54_018)Hold on. Forget the explanation. 
+We wouldn't understand 
+it anyway.
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS54_019)Oh, okay.<PAGE><VOICE>(VS54_020)The apatheia we gave to the Don 
+should still be around, right?
+
+## POINTER 16
+<STR>(JUD)
+<VOICE>(VS54_021)...That was Belius' apatheia, 
+the cyano ciel.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS54_022)<STR>(RIT)'s found a way 
+to control aer.
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS54_023)Really?! Cool!
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS54_024)Do you know what happened 
+to the cyano ciel 
+after the Don died?
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS54_025)Nope. But Harry 
+actually might...<PAGE><VOICE>(VS54_026)Good timing, too. I was just 
+about to take him back.<PAGE><VOICE>(VS54_027)Go to the Union headquarters. 
+We'll be back there soon.

@@ -1,0 +1,58 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VA022_072)I feel kinda dizzy...
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VA022_073)I can't believe he kept us up all 
+night tellin' those stories...
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VA022_074)Well I was fascinated by his epic 
+tale of the girl who fought with 
+a frying pan and a ladle!
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VA022_075)...<STR>(EST_P), it sounds like you 
+want to hear even more stories.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VA022_076)Yeah, well you can count me out...
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA022_077)Anyway, this is quite impressive for 
+something that's just an illusion.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VA022_078)It's so weird... It's an illusion, 
+but we can talk with people, 
+and everything feels so real...
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VA022_079)Perhaps it's because these 
+things really did exist 
+at one point in the past.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VA022_080)Humans could never give up blastia 
+completely... Which has brought 
+us to where we are today...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA022_081)The empire was only meant to 
+monitor the blastia, but they started 
+digging them up and studying them.
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VA022_082)The Entelexeia despised 
+the blastia, but humans 
+just can't let them go.

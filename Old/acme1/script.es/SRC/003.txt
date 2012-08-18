@@ -1,0 +1,72 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡¡<STR>(EST_P)<03>(2)!!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡Aaah!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡¡<STR>(EST_P)<03>(2)!!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡Detente, Alexei!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡No! ¡Estoy perdiendo
+el control!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡Tengo miedo!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡No te rindas, <STR>(EST_P)<03>(2)!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1271085953]
+
+<03>(2)¡Ahora voy!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:parsec;time:1270900025]
+
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡¡<STR>(YUR)<03>(2)!!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:parsec;time:1270900025]
+
+<03>(2)Es...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)Te lo suplico... antes
+de que hiera a más gente�c
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)Por favor�c
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)Mátame.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡¡...!!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡¡Aaaaaaaaah!!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡¡Aaaaaaaaah!!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:parsec;time:1270900013]
+
+<03>(2)¡¡<STR>(EST_P)<03>(2)!!

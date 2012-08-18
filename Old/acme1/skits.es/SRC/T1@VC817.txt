@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251757089]
+Lo que piensa (FRE)
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944752]
+(KAR)
+(FRE) pedía que (EST_P)
+regresara con él, ¿verdad?
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944752]
+(YUR)
+Los Caballeros no pueden evitar considerar que
+el mejor sitio para una princesa es un castillo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116760]
+(YUR)
+Tan solo le preocupa no poder tenerla vigilada.
+
+## POINTER 4 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944752]
+(JUD)
+Pero (EST_P) decidió emprender este viaje por
+voluntad propia y quieres respetar su decisión.
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266231240]
+(YUR)
+Tampoco es que le haya dado tantas vueltas.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116760]
+(RIT)
+Pero los Caballeros no dejarán de seguirte
+mientras (EST_P) siga a tu lado.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116760]
+(YUR)
+¿Qué clase de gremio seríamos si no nos
+metiéramos en líos con los Caballeros?
+
+## POINTER 8 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266231266]
+(KAR)
+No creo que llevarse a matar con los Caballeros
+sea un requisito para llevar un gremio...

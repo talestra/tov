@@ -1,0 +1,156 @@
+## POINTER 0
+<STR>(KAR)
+Hyeah!
+Hyeah...!
+
+## POINTER 1
+<STR>(YUR)
+Hmm, that's a pretty
+ancient-looking sword.
+
+## POINTER 2
+Rich
+...Hmpf...
+
+## POINTER 3
+<STR>(YUR)
+The blade's gotten really dull, too...
+
+## POINTER 4
+Rich
+...It's no longer anything more than an 
+antique, unfit to cut man or beast...
+
+## POINTER 5
+<STR>(YUR)
+Is that sword important 
+to you?
+
+## POINTER 6
+Rich
+...It belonged to someone I respect. 
+I can't just get rid of it...
+
+## POINTER 7
+<STR>(KAR)
+Rich...It seems like you're not 
+running a traveling inn just for 
+the heck of it. Am I right?
+
+## POINTER 8
+Rich
+...Hmpf...
+
+## POINTER 9
+<STR>(YUR)
+...You shouldn't be so nosy, <STR>(KAR).
+
+## POINTER 10
+Rich
+It's all right...<PAGE>...I'm...
+I'm a warrior, not an 
+innkeeper...<PAGE>...I left my village with Karen 
+to slay Giganto Monsters...
+I was 15 at the time...
+
+## POINTER 11
+<STR>(YUR)
+When you were 15? How 
+old are you now?
+
+## POINTER 12
+Rich
+...I'm 28...
+
+## POINTER 13
+<STR>(YUR)
+Thirteen years, huh...
+That's pretty long…
+
+## POINTER 14
+<STR>(KAR)
+The Giganto Monster... That's the 
+name of a giant type of monster 
+living all over the world.<PAGE>I heard that an extermination 
+force sent by the empire to kill 
+them was entirely wiped out.
+
+## POINTER 15
+Rich
+Until every single one of those 
+monsters has fallen, I cannot 
+go back to my hometown...
+
+## POINTER 16
+<STR>(KAR)
+Why's that...?
+
+## POINTER 17
+Rich
+......
+
+## POINTER 18
+<STR>(YUR)
+Sounds like there's something 
+you're not telling us.
+
+## POINTER 19
+<STR>(KAR)
+...Maybe we can help?<PAGE>It seems like you're having 
+a tough time of it.
+
+## POINTER 20
+Rich
+...But you see...
+
+## POINTER 21
+<STR>(YUR)
+I don't know the details, 
+but you committed to doing 
+this yourself, didn't you?
+
+## POINTER 22
+Rich
+...Y-yeah...
+
+## POINTER 23
+<STR>(YUR)
+Then it sounds like this 
+it up to him, <STR>(KAR).
+
+## POINTER 24
+<STR>(KAR)
+Y-yeah...
+
+## POINTER 25
+Rich
+......
+
+## POINTER 26
+<STR>(YUR)
+Thanks for letting 
+us stay the night.
+
+## POINTER 27
+Rich
+No problem...
+
+## POINTER 28
+Karen
+Come again!
+
+## POINTER 29
+<STR>(KAR)
+Maybe we should have 
+helped them...
+
+## POINTER 30
+<STR>(YUR)
+We can't solve all of the world's 
+problems by ourselves.<PAGE>Though if we ever happen to run into those 
+monsters that he was talking about...we 
+might as well take them out for him.<PAGE>I don't see any problem with doing that much.
+
+## POINTER 31
+<STR>(KAR)
+Yeah. All right.

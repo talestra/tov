@@ -1,0 +1,141 @@
+## POINTER 0
+
+Welcome, welcome!
+Here, make your 
+self at home.
+
+## POINTER 1
+<STR>(EST_P)
+Thank you. But unfortunately
+we need to be leaving very soon.
+
+## POINTER 2
+
+Are you leaving before 
+that young knight is back?
+
+## POINTER 3
+<STR>(YUR)
+The situation's changed a bit.
+
+## POINTER 4
+
+Did something come up?
+
+## POINTER 5
+<STR>(YUR)
+You could say that.
+
+## POINTER 6
+
+If there's anything I can do to 
+help, don't hesitate to ask.
+
+## POINTER 7
+<STR>(EST_P)
+We appreciate the sentiment, but 
+we can't ask for your help.
+
+## POINTER 8
+
+I see... Then, it's not 
+much, but I'd at least 
+like you to take this.
+
+## POINTER 9
+<STR>(YUR)
+Who, me? I didn't do 
+anything at all.
+
+## POINTER 10
+
+But since your friend helped 
+us out so much...
+
+## POINTER 11
+<STR>(KAR)
+Well then, I'd be happy to--
+
+## POINTER 12
+<STR>(EST_P)
+No, we can't take that!
+
+## POINTER 13
+<STR>(KAR)
+Oh... um... yeah, I guess 
+I can't... take that...
+
+## POINTER 14
+
+But then how will 
+I ever repay you?
+
+## POINTER 15
+<STR>(YUR)
+Well, how about this. The next time 
+we come into town, set us up with VIP 
+blossom viewing picnic seats!
+
+## POINTER 16
+<STR>(EST_P)
+That's a great idea! 
+I can't wait.
+
+## POINTER 17
+
+...All right then. The next time you're 
+here, I'll put my heart and soul into 
+paying back what you've done for us!
+
+## POINTER 18
+<STR>(YUR)
+Oh, can I ask you one thing? Have you 
+ever heard of a town called Aspio?
+
+## POINTER 19
+
+...Aspio? Ah yes, I believe 
+that was the name of the 
+City of Shade...
+
+## POINTER 20
+<STR>(YUR)
+The City of Shade...
+
+## POINTER 21
+
+From what I've heard, the town lies 
+between tall mountains, and sunlight 
+rarely reaches its gates.<PAGE>Every now and then, a few quiet 
+folks in cloaks and hoods come 
+to our town to get supplies...<PAGE>But they're quite creepy, to be honest. 
+Our town doesn't deal with them much.
+
+## POINTER 22
+<STR>(YUR)
+Where is the town located?
+
+## POINTER 23
+
+Towards the east, I think. I wish I 
+could tell you the exact location...
+
+## POINTER 24
+<STR>(EST_P)
+<STR>(FRE) was headed east 
+as well, wasn't he?
+
+## POINTER 25
+<STR>(YUR)
+Yeah. I suppose a "city of 
+scholars" might have some link 
+to blastia, after all.
+
+## POINTER 26
+<STR>(YUR)
+Thanks, that's all I needed.
+
+## POINTER 27
+<STR>(YUR)
+I'm coming for 
+you, Mordio!

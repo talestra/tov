@@ -1,0 +1,154 @@
+## POINTER 0
+
+<VOICE>(VS14_500)Hey, hey! 
+No outsiders allowed!
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS14_501)Let me through! 
+I'm <STR>(RIT) Mordio of the Imperial 
+Blastia Research Laboratory.
+
+## POINTER 2
+
+<VOICE>(VS14_502)Oh, you're a mage from Aspio? 
+Excuse me!
+
+## POINTER 3
+
+<VOICE>(VS14_503)Oh, but you can't just 
+do as you please! Let 
+me go and ask the--
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS14_504)Huh, I could use some 
+of her attitude.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS14_505)I think you have
+plenty already...
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS14_506)Hey! Listen to this!!<PAGE><VOICE>(VS14_507)It was like bam! A spear went thunk!
+The blastia went bang! And he
+flew off into the sky like whoosh!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS14_508)Who did what how... huh?
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS14_509)Someone riding a flying dragon,<PAGE><VOICE>(VS14_510)threw a giant spear at the blastia!<PAGE><VOICE>(VS14_511)And then just flew off!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS14_512)A human riding a dragon?
+No way.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS14_513)I've never heard of anything like that before.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS14_514)That's what I thought too, but a
+bunch of people here saw it happen!<PAGE><VOICE>(VS14_515)They say it was a "dragon rider."
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS14_516)A dragon rider... Hmmm. 
+Well, the world's just full of surprises.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS14_517)Hey! What do you think 
+you're doing?! Let me go!
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS14_518)There she goes again.
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS14_519)Something is definitely strange
+with this blastia formula!
+
+## POINTER 16
+
+<VOICE>(VS14_520)There's nothing 
+strange at all.
+Perhaps you are...
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS14_521)Just who do you 
+think I am!?
+
+## POINTER 18
+
+<VOICE>(VS14_522)I'm well aware of who you are. 
+The famed genius mage, correct?<PAGE><VOICE>(VS14_523)But surely there are 
+some formulas that even 
+you aren't familiar with!
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS14_524)You can't use a weird formula like 
+this! Think of the poor blastia!
+
+## POINTER 20
+
+<VOICE>(VS14_525)H-Hey! Stop 
+gawking and help 
+us catch her!
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS14_526)Fire! Hey, fiiiiire!
+
+## POINTER 22
+
+<VOICE>(VS14_527)What's with that kid?
+
+## POINTER 23
+
+<VOICE>(VS14_528)A fire? I don't hear 
+anything or smell anything...
+
+## POINTER 24
+
+<VOICE>(VS14_529)Hey! You little liar!
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS14_530)Crap...they caught on that fast?
+
+## POINTER 26
+
+<VOICE>(VS14_531)Hey! You are with 
+that kid...<PAGE><VOICE>(VS14_532)Wait a minute... You--there's a warrant for your--
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS14_533)It's now or never...
+
+## POINTER 28
+
+<VOICE>(VS14_534)Argh, you little--wait!
+
+## POINTER 29
+<STR>(EST_P)
+<VOICE>(VS14_535)I'm sorry.
+
+## POINTER 30
+
+<VOICE>(VS14_536)Hey! Stop goofing off 
+and help catch that kid!
+
+## POINTER 31
+
+<VOICE>(VS14_537)Damn...!

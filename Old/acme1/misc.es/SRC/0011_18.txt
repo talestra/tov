@@ -1,0 +1,317 @@
+## POINTER 2476 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271596066]
+Una tela fabricada por un monstruo arácnido. Es muy elástica
+y duradera comparada con las telas de araña normales.
+
+## POINTER 2478 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Cola de escorpión
+
+## POINTER 2479 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271596066]
+Cola de escorpión que contiene un veneno mortal.
+No puede inyectar el veneno por sí mismo.
+
+## POINTER 2481 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262122472]
+Huevo de meapit
+
+## POINTER 2482 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+No sirve para cocinar, así que se usa como combustible.
+
+## POINTER 2484 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Pluma de pájaro (mediana)
+
+## POINTER 2485 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+Cada pluma es extremadamente larga y tiene
+un hueso grueso. No sirve para la ropa de cama.
+
+## POINTER 2487 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+Abrigo de hombre mono
+
+## POINTER 2488 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+Abrigo recubierto del pelo grueso y basto de un
+hombre mono. ¿No se hacen daño con estos pelos?
+
+## POINTER 2490 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Casco de bellota
+
+## POINTER 2491 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Casco fabricado con una bellota grande.
+La han vaciado dejando solo la cáscara.
+
+## POINTER 2493 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262992376]
+Cono espinoso
+
+## POINTER 2494 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1262281737]
+Una fruta con púas. Incomestible.
+Los animales tampoco la tocan.
+
+## POINTER 2496 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Fósil de dragón
+
+## POINTER 2497 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+El fósil de un dragón extinto. Contiene materiales
+especiales que se pueden usar como combustible.
+
+## POINTER 2499 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Aguja larga
+
+## POINTER 2500 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+Una aguja muy larga de una planta.
+No obstante, no se puede usar para coser.
+
+## POINTER 2502 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Oreja de conejo
+
+## POINTER 2503 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+La oreja de un conejo.
+Es suave, pero relativamente duradera.
+
+## POINTER 2505 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Pelaje de conejo
+
+## POINTER 2506 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Esponjoso pelaje de conejito. Se usa a menudo en prendas.
+
+## POINTER 2508 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Piel de dragón escamosa
+
+## POINTER 2509 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Un conjunto de escamas resistentes al calor.
+Se pueden usar como escudo tal cual está.
+
+## POINTER 2511 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Colmillo de tritón
+
+## POINTER 2512 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Colmillos de un tritón. Muy afilados comparados
+con los de un lobo. Hay que manejarlos con cuidado.
+
+## POINTER 2514 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+Arma de hombre lagarto
+
+## POINTER 2515 [t:1;r:1;ru:memnoch;user:memnoch;time:1297190602]
+Arma usada por un hombre lagarto. Más pesada
+que las armas de los humanos. ¿Cómo las blanden?
+
+## POINTER 2517 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Piel de bestia
+
+## POINTER 2518 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Muy difícil de encontrar y se vende por mucho dinero.
+
+## POINTER 2520 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262122925]
+Colmillo de león
+
+## POINTER 2521 [t:1;r:1;ru:memnoch;user:memnoch;time:1297190602]
+Colmillos afilados recogidos de un monstruo tipo león.
+
+## POINTER 2523 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262122925]
+Gran colmillo de león
+
+## POINTER 2524 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262122925]
+Colmillos enormes, pesados, sólidos y afilados.
+Pueden usarse como arma.
+
+## POINTER 2526 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+Corteza de caucho
+
+## POINTER 2527 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271597090]
+Trozo de la corteza de un árbol de caucho. Se usa para
+fabricar goma. Este objeto no vale nada antes de tratarlo.
+
+## POINTER 2529 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Pincho de armadillo
+
+## POINTER 2530 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271597090]
+El pincho de un armadillo mutante.
+Cuidado cuando con sus ataque rodantes.
+
+## POINTER 2532 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+Aliento de hipopótamo
+
+## POINTER 2533 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+Aliento solidificado del bostezo de un hipopótamo.
+¡Esto sí que es tener mal aliento!
+
+## POINTER 2535 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Pelaje serrador
+
+## POINTER 2536 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Cada pelo tiene forma de sierra.
+Manejar con cuidado. No te hagas daño.
+
+## POINTER 2538 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Pico cubo
+
+## POINTER 2539 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+El pico de los pelícanos, donde guardan su comida.
+Es muy fino y se rasga con facilidad.
+
+## POINTER 2541 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Melena dorada
+
+## POINTER 2542 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Melena de color dorado brillante. Es tan precioso
+que puede poner a uno de los nervios.
+
+## POINTER 2544 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Cuerno sagrado
+
+## POINTER 2545 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Cuerno que crece en la frente de los unicornios.
+Su polvo es conocido por curar todas las enfermedades.
+
+## POINTER 2547 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Zarpa de oso
+
+## POINTER 2548 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262288031]
+Una garra recogida de un monstruo tipo oso.
+Ligeramente diferente de la de un oso ovíparo.
+
+## POINTER 2550 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262123129]
+Garra nefasta
+
+## POINTER 2551 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262123129]
+Se regenera rápidamente cuando recibe cortes.
+Debe contener mucha fuerza vital.
+
+## POINTER 2553 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262123129]
+Garra de cocatriz
+
+## POINTER 2554 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262123129]
+Una garra con magia de petrificación. No está
+muy afilada así que su poder de ataque es bajo.
+
+## POINTER 2556 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Bolsa apestosa
+
+## POINTER 2557 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+No quieras saber qué hay dentro de esta bolsa.
+Para ser sincero, tampoco querrías tener que llevarla.
+
+## POINTER 2559 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262123129]
+Pico de cocatriz
+
+## POINTER 2560 [t:1;r:1;ru:memnoch;user:memnoch;time:1297190602]
+Un pico con magia de petrificación.
+Ahora mismo carece de poder.
+
+## POINTER 2562 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Tela impermeable
+
+## POINTER 2563 [t:1;r:1;ru:memnoch;user:memnoch;time:1297190602]
+Tela que repele totalmente el agua.
+Puede usarse para prendas impermeables.
+
+## POINTER 2565 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Fragmento de espíritu
+
+## POINTER 2566 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+No se sabe si es un espíritu de verdad o no, pero es
+intangible. Aunque no hecha ninguna maldición si se toca.
+
+## POINTER 2568 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Áfido
+
+## POINTER 2569 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Un áfido común y corriente.
+No se tiene idea de para qué sirve.
+
+## POINTER 2571 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Piedra verde brillante
+
+## POINTER 2572 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+Piedra que emite un brillo verde.
+No tiene valor como joya.
+
+## POINTER 2574 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+Áfido gigante
+
+## POINTER 2575 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+El áfido más grande que hay.
+Tiene mucho valor en el mercado negro.
+
+## POINTER 2577 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1264074854]
+Guadaña del Diablo
+
+## POINTER 2578 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262123334]
+Guadaña que se dice que usa la Parca.
+El filo está relativamente afilado.
+
+## POINTER 2580 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586612]
+Pajarita de gentilhombre
+
+## POINTER 2581 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+La pajarita que lleva todo caballero.
+Puede que quieras llevar también un pañuelo con ella.
+
+## POINTER 2583 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Fragmento de hiperresonancia
+
+## POINTER 2584 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Objeto que parece el desecho de una fuerte resonancia.
+No es el resultado de un fenómeno natural.
+
+## POINTER 2586 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Piedra fónica
+
+## POINTER 2587 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Tiene una profecía grabada, pero nadie puede leerla
+y se desconocen sus detalles.
+
+## POINTER 2589 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Pelaje de cheagle
+
+## POINTER 2590 [t:1;r:1;ru:memnoch;user:memnoch;time:1297190602]
+Pelaje de una criatura sagrada que hace «¡Mieu!».
+Nadie ha conseguido encontrar a esta criatura.
+
+## POINTER 2592 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262123407]
+Mineral blastium J
+
+## POINTER 2593 [t:1;r:1;ru:memnoch;user:memnoch;time:1297190602]
+Contiene la mayoría de los poderes mágicos del
+mineral blastium. Muy escaso y valioso.
+
+## POINTER 2595 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262123513]
+Garra de caja falsa
+
+## POINTER 2596 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262123513]
+La garra, manchada con la sangre
+de muchos ladrones, de un imitador.
+
+## POINTER 2598 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262288820]
+Pierna de hierro
+
+## POINTER 2599 [t:1;r:1;ru:memnoch;user:memnoch;time:1297190602]
+Una especie de pierna hecha de metal.
+Es extraño que no se encuentren otro tipo de partes.
+
+## POINTER 2601 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Ojo de mandrágora
+
+## POINTER 2602 [t:1;r:1;ru:memnoch;user:memnoch;time:1297190602]
+El ojo de una mandrágora de grito mortal.
+Se usa como catalizador.
+
+## POINTER 2604 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Gema de estrella roja
+
+## POINTER 2605 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Una piedra única conocida como gema de estrella.
+Brilla con una luz roja.
+
+## POINTER 2607 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Gema de estrella azul
+
+## POINTER 2608 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Una piedra única conocida como gema de estrella.
+Brilla con una luz azul.
+
+## POINTER 2610 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Gema de estrella verde
+
+## POINTER 2611 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Una piedra única conocida como gema de estrella.
+Brilla con una luz verde.
+
+## POINTER 2613 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261783184]
+Gema de estrella naranja

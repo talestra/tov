@@ -1,0 +1,111 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1286464221]
+<STR>(KAR)
+¡Hola!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+Yu
+Aah... Pro si sois mi fiel gremio de entregas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527220]
+<STR>(YUR)
+Lamento si esto es un poco repentino,
+pero ¿estás con los Herreros Espirituales?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+Yu
+¿Herreros Espirituales? Oh, te refieres al gremio
+de forjadores. No, no tengo nada que ver con ellos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+<STR>(YUR)
+Mm, ¿<STR>(RAV)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+<STR>(RAV)
+Er libro ese que entregó esta gente...<PAGE>No era uno cualquiera, ¿verdá?
+Estaba escrito en código gremial.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+Yu
+¡¿Miraste dentro?!
+Un momento, ¿puedes
+leer códigos?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+<STR>(KAR)
+Los códigos gremiales solían ser
+una manera que tenían los gremios
+para comunicarse en secreto.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+<STR>(YUR)
+Ajá. Muy astuto.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1286464221]
+<STR>(RAV)
+Y a estas alturas los
+Herreros Espirituales son
+los únicos que los siguen usando.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+Yu
+«Comerciando con armas... con cuidado».
+Ese ha sido siempre el lema de nuestro gremio.<PAGE>Los que crean las mejores armas
+deben permanecer neutrales.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+<STR>(KAR)
+Entonces, ¿es uno
+de los Herreros?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1286464221]
+<STR>(JUD)
+Lo que quiere decir que
+el Nobis al cual le entregamos
+el libro también lo es.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1286464221]
+Yu
+Cachis,
+me habéis
+pescado.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1286464221]
+<STR>(YUR)
+Garra del Leviatán quiere
+contactar contigo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+Yu
+Oh, vaya...<PAGE>Nuestro jefe no soporta
+la imprevisibilidad de Yeager.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1286464221]
+<STR>(YUR)
+Ah, entonces...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1286464221]
+Yu
+Pero he oído que el tío ha muerto.
+Tal vez vaya siendo hora de cambiar.<PAGE>Al menos valdría la pena
+contactar con ellos.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+<STR>(KAR)
+Hala, ¡eso lo tenemos que escribir!
+Quieren una prueba de que hemos contactado
+con alguien de los Herreros Espirituales.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+Yu
+Supongo que puedo hacerlo...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1292164031]
+Yu
+Aquí tienes.<PAGE>Esta firma representa la voluntad de mi gremio. 
+Con la reputación del vuestro, debería bastar.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1286464221]
+<STR>(JUD)
+Deberíamos volver a la
+Mansión de los Infames.

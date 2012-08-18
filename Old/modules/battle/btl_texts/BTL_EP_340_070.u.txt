@@ -1,0 +1,1 @@
+{"text_path":"battle\/0000","text_id":"00003E64","linked_id":"e3e3ff24fe23809ac27bdec25869df0e","metainfo":{"textblock_ptr":15972},"texts":{"ja":["15846","15859"],"en":["15920","15927"],"es":["",""]}}

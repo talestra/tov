@@ -1,0 +1,64 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252189979]
+¿El primer síntoma de un catarro?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899503]
+(EST_P)
+¡Achís!
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297843]
+(KAR)
+¿Eh? ¿Estás pillando un catarro, (EST_P)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899503]
+(EST_P)
+No... Es solo... que tengo mucho frío
+desde que veo a (RIT) usar esa magia
+acuática suya...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899503]
+(KAR)
+¡Eso es terrible! ¿Seguro
+que está...? ¡Aaaachís!
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297843]
+(YUR)
+¿Ahora sois los dos? Deberíais
+decirle a (RIT) que deje de
+usar ese tipo de magia.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899503]
+(KAR)
+Ya puedo oír a (RIT) decir:
+«¡Ya decidiré yo qué tipos de
+magia usar, muchísimas gracias!».
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899503]
+(EST_P)
+Oh, vamos. Si le decimos que
+podemos acabar acatarrados,
+estoy segura de que...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899503]
+(RIT)
+¿Qué pasa? ¿Habláis de mí? ¡Achís!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899503]
+(KAR)
+Oye, ¿tú también estás pillando un catarro?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899503]
+(RIT)
+Tal vez es porque alguien está
+hablando de mí a mis espaldas...
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297843]
+(YUR)
+...
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297843]
+(EST_P)
+...
+
+## POINTER 13 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297843]
+(KAR)
+...

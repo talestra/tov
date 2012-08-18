@@ -1,0 +1,87 @@
+## POINTER 0
+
+<VOICE>(VS51_075)That's far enough... We'll 
+never let you through!!
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS51_076)The Royal Guard! Then Alexei 
+must be just up ahead.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS51_077)He's gotta be. All right, 
+guys! Let's do this!
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS51_078)I almost feel sorry for them.
+
+## POINTER 4
+<STR>(FRE)
+<VOICE>(VS51_079)<STR>(YUR)!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS51_080)<STR>(FRE)!
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS51_081)Are you all right? Did
+you come under attack?
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS51_082)The boats are moored at 
+a safe distance. We're the 
+only ones who've come.
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS51_083)Taking out Alexei with as 
+few sacrifices as possible.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS51_084)Like a suicide mission.
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS51_085)That's smart. If you came 
+in force and got caught, 
+that'd be the end of that.
+
+## POINTER 11
+Sodia
+<VOICE>(VS51_086)We will be taking over from 
+here. You civilians will pull back.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS51_087)Perky as ever, aren't you? 
+Sorry, but we're gonna 
+ignore you on that one.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS51_088)I think we should cooperate, 
+but that's just me.
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS51_089)She's right. We're all 
+here to bring Alexei down.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS51_090)Well, and save the world 
+in the process, right?
+
+## POINTER 16
+<STR>(FRE)
+<VOICE>(VS51_091)Yeah, I heard.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS51_092)Okay then, let's all play nice 
+and go pound this guy.

@@ -1,0 +1,122 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(EST_P)
+<VOICE>(VS25_001)No hay rastro de ellos.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1275581510]
+<STR>(RIT)
+<VOICE>(VS25_002)Al final se nos han escapado.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1275581510]
+<STR>(KAR)
+<VOICE>(VS25_003)¿Dónde estamos, a todo esto?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1275581510]
+<STR>(JUD)
+<VOICE>(VS25_004)Un bosque de Tolbyccia central.
+Si no me equivoco, Puerto Torim
+debería estar al este de aquí.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(YUR)
+<VOICE>(VS25_005)Entonces mejor ir directamente
+al puerto en vez de volver a Heliord.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(EST_P)
+<VOICE>(VS25_006)¿Qué? ¿Y qué hay de Cumore?
+¿Vamos a dejarlo marchar?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(JUD)
+<VOICE>(VS25_007)Creía que el objetivo de tu viaje
+era encontrar a Phaeroh.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1275581510]
+<STR>(EST_P)
+<VOICE>(VS25_008)Bueno, yo...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(JUD)
+<VOICE>(VS25_009)No me imaginaba que Gran Vesperia
+estuviera para obedecer los caprichos
+que te fueran surgiendo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(EST_P)
+<VOICE>(VS25_010)L-Lo siento, no era esa mi intención...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(YUR)
+<VOICE>(VS25_011)Solo está diciendo que te tranquilices.<PAGE><VOICE>(VS25_012)Además, <STR>(FRE) estaba allí, ¿no?
+Seguro que se ocupará de todo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(RIT)
+<VOICE>(VS25_013)¡Eh! ¿"Phaeroh"? ¿"Gran Vesperia"?
+Que alguien me lo explique.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(RAV)
+<VOICE>(VS25_014)Yo taba a punto de decir lo mismo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551599]
+<STR>(RIT)
+<VOICE>(VS25_015)¿Eh? Pero ¡¿qué...?!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1275581510]
+<STR>(RAV)
+<VOICE>(VS25_016)¿Qué pasa, señorita maga
+prodigio? ¿Tas olvidao de mí?
+Soy yo, <STR>(RAV) er Grande.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1275581510]
+<STR>(RIT)
+<VOICE>(VS25_017)Quién narices te...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(RAV)
+<VOICE>(VS25_018)Te lo he dicho, <STR>(RAV) er Grande.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1275581510]
+<STR>(RAV)
+<VOICE>(VS25_019)Macho... Das miedo, chiquilla.
+¿Lo sabías?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(YUR)
+<VOICE>(VS25_020)Y bien, ¿qué tramas ahora?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(RAV)
+<VOICE>(VS25_021)Con t'ol jaleo que habéis montao,
+han enviao aquí al pobre <STR>(RAV)
+pa echaros un ojo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1275581510]
+<STR>(KAR)
+<VOICE>(VS25_022)¿Por qué han hecho eso?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(RAV)
+<VOICE>(VS25_023)Lo primero es lo primero. Vamos
+a arguna posada de Puerto Torim.
+Sus lo explicaré to' allí.<PAGE><VOICE>(VS25_024)Er viejo <STR>(RAV) ta hambriento, ¿sabéis?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(YUR)
+<VOICE>(VS25_025)Supongo que no tiene
+sentido quedarse aquí.<PAGE><VOICE>(VS25_026)Puerto Torim
+es la mejor opción.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1275581510]
+<STR>(JUD)
+<VOICE>(VS25_027)A Puerto Torim, entonces.
+¿Te parece bien?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311901]
+<STR>(EST_P)
+<VOICE>(VS25_028)Sí, claro.<PAGE><VOICE>(VS25_029)Lo siento. No pretendía ser tan egoísta.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1275581510]
+<STR>(YUR)
+<VOICE>(VS25_030)Vale, vámonos.

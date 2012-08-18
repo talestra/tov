@@ -1,0 +1,59 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252497044]
+Liberar estrés
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299598]
+(YUR)
+Oh, vale, es por eso...
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299598]
+(KAR)
+Sí, ¿no crees?
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299598]
+(RIT)
+¿El qué?
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299598]
+(YUR)
+¿No te estresa quedarte mirando
+cómo pelean los demás todo el rato?
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299598]
+(RIT)
+¿Seguro que no me estás confundiendo
+contigo mismo?
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299598]
+(KAR)
+¿No te preguntas qué es lo que
+hace que los demás no quieran
+confiarte nada?
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,memnoch;user:evilluendas;time:1267316175]
+(RIT)
+Tal vez seas TÚ el que se siente así...
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299598]
+(KAR)
+Sí que tienes las
+cosas claras, (RIT)...
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265588087]
+(RIT)
+Me da tiempo para pensar en mis cosas
+cuando vosotros peleáis. Resulta agradable.
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265588087]
+(YUR)
+Mmmm, supongo que pegarle a (KAR)
+y al viejales no te libra tanto
+del estrés como yo pensaba.
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299598]
+(RIT)
+¿Qué pasa? ¿Piensas que
+estas cosas liberan estrés?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982085]
+(KAR)
+¡Ay! ¡Corta el rollo!

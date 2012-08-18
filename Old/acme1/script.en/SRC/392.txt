@@ -1,0 +1,132 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS36_210)...<STR>(KAR)... Do you think 
+he'll be all right...?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS36_211)He'll be fine.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS36_212)But...
+
+## POINTER 3
+Yeager
+<VOICE>(VS36_213)Well now, if it isn't the darling 
+boy and girl. How very nice 
+to see you both.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS36_214)Yeager...!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS36_215)You've got some nerve 
+showing your face after 
+planting the seeds of war.
+
+## POINTER 6
+Yeager
+<VOICE>(VS36_216)Seeds of war? I'm quite sure I don't 
+know what you're talking about.
+
+## POINTER 7
+Gauche
+<VOICE>(VS36_217)Attacking Palestralle is a matter 
+for the Union to decide.
+
+## POINTER 8
+Droite
+<VOICE>(VS36_218)Yup, that's right. We just helped 
+inform their decision.☆
+
+## POINTER 9
+Yeager
+<VOICE>(VS36_219)Exactly. Understand, 
+my little friends?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS36_220)I'll give you something 
+to smile about.
+
+## POINTER 11
+Yeager
+<VOICE>(VS36_221)...That's enough for today, I think.<PAGE><VOICE>(VS36_222)It is the day of the Don's 
+passing, after all.  We're 
+still in mourning, you see.<PAGE><VOICE>(VS36_223)The world lost a great man today, 
+it most certainly did.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS36_224)What is it you guys are after?<PAGE><VOICE>(VS36_225)Get the Don out of the way to 
+take control of the Union?
+
+## POINTER 13
+Yeager
+<VOICE>(VS36_226)Oh no no no.<PAGE><VOICE>(VS36_227)Our little business will most 
+surely be easier without the 
+poor Don around, but...<PAGE><VOICE>(VS36_228)...Ah, let's not go there. 
+...I've come today for my 
+own personal reasons.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS36_229)...I don't want to disgrace 
+the Don by doing 
+something I'll regret later.<PAGE><VOICE>(VS36_230)You should leave before 
+I change my mind.
+
+## POINTER 15
+Yeager
+<VOICE>(VS36_231)It is not only you 
+who are mourning 
+this death, you know.<PAGE><VOICE>(VS36_232)Be seeing you, then.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS36_233)Even Yeager is mourning 
+the Don...<PAGE><VOICE>(VS36_234)...I don't understand. Hadn't 
+he been trying to get rid 
+of Don Whitehorse himself...?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS36_235)The old man was a nuisance 
+to Leviathan's Claw, but...<PAGE><VOICE>(VS36_236)Maybe things were a little different 
+for Yeager on a personal level.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS36_237)You mean like the 
+difference between 
+guilds and individuals?
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS36_238)Yeah.<PAGE><VOICE>(VS36_239)To the Don, there was 
+Yeager the boss, and 
+Yeager the person.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS36_240)The Don did break his 
+own laws and take the 
+fight into his own hands.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS36_241)Well, we should be on our way.
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS36_242)Ah, all right. I told <STR>(RIT) 
+we would be meeting her 
+at the town exit.<PAGE><VOICE>(VS36_243)But what about <STR>(KAR)...?
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS36_244)I said he'll be fine. 
+Let's go.

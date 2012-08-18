@@ -1,0 +1,319 @@
+## POINTER 96 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835185]
+Pasar página
+
+## POINTER 97 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835185]
+Fin
+
+## POINTER 98 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835185]
+Fin
+
+## POINTER 99 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835185]
+Comienzo
+
+## POINTER 100 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835185]
+Comienzo
+
+## POINTER 101 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835185]
+????
+
+## POINTER 102 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835185]
+ x
+
+## POINTER 103 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+Una fuerza misteriosa
+te impide abrir esto.
+
+## POINTER 104 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+Usa esto si deseas salir.
+¿Quieres hacerlo?
+
+## POINTER 105 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835185]
+No puedes llevar nada más.
+
+## POINTER 106 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+Una fuerza misteriosa te bloquea el avance.
+Puedes oír los sonidos de
+los monstruos de este mundo...
+
+## POINTER 107 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Necesitas una gran cantidad de dinero
+para poder avanzar...
+
+## POINTER 108 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+1er piso
+2do piso
+3er piso
+Cancelar
+
+## POINTER 109 [t:1;r:1;ru:memnoch;user:memnoch;time:1282297350]
+Se ha activado el blastia montacargas.
+
+## POINTER 110 [t:1;r:1;ru:memnoch;user:memnoch;time:1282297350]
+El control del blastia montacargas
+se ha bloqueado.
+
+## POINTER 111 [t:1;r:1;ru:memnoch;user:memnoch;time:1282297350]
+Un panel de control para el montacargas
+que se usaba para llevar blastia.
+¿Transportar blastia?
+
+## POINTER 112 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Mover
+Cancelar
+
+## POINTER 113 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Parar
+Cancelar
+
+## POINTER 114 [t:1;r:1;ru:memnoch;user:memnoch;time:1282297350]
+¿Mover el blastia montacargas?
+
+## POINTER 115 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1266181306]
+Nivel superior
+Nivel medio
+Nivel inferior
+Cancelar
+
+## POINTER 116 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264242677]
+El agua sagrada volverá
+a los cielos cuando el poder
+de la creación se ofrezca
+a la Piedra Azul en el pedestal.
+
+## POINTER 117 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+La estatua bloquea el camino descendente.
+
+## POINTER 118 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+La estatua bloquea el camino.
+
+## POINTER 119 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264242677]
+Reiniciar
+Parar
+Continuar
+
+## POINTER 120 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+¿Cambiar por <0B>(0)?
+
+## POINTER 121 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Intercambio de premios
+
+## POINTER 122 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Intercambiar premio.
+
+## POINTER 123 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+No tienes suficientes fichas.
+
+## POINTER 124 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+¿Echar 10 fichas en la máquina expendedora de geles?
+
+## POINTER 125 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+¿Echar 50 fichas en la máquina expendedora de pomos?
+
+## POINTER 126 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+¿Echar 100 fichas en la máquina expendedora de armas?
+
+## POINTER 127 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+¿Echar 500 fichas en la máquina expendedora de comida?
+
+## POINTER 128 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263941926]
+¿Echar 500 fichas en la máquina expendedora de juguetes de Yumanju?
+
+## POINTER 129 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+¿Comprar una bebida
+por 120 gald?
+
+## POINTER 130 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+No puedes llevar más objetos.
+
+## POINTER 131 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264243107]
+No hay un perfil de jugador activo.
+
+## POINTER 132 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+??????
+
+## POINTER 133 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Date prisa y persigue a Ragou.
+
+## POINTER 134 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+No tienes suficiente dinero para intercambiar.
+
+## POINTER 135 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+No tienes suficiente grado para intercambiar.
+
+## POINTER 136 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+Necesitas fichas si quieres jugar en el gimnasio.
+Puedes obtener fichas a cambio de dinero y grado,
+pero no al revés.
+
+Se guardarán las fichas que tienes para que puedas
+utilizarlas en tu próxima visita.
+
+## POINTER 137 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+¿Comenzar?
+
+## POINTER 138 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Explicación
+
+## POINTER 139 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Confirmar
+
+## POINTER 140 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+No puedes llevar
+más fichas.
+
+## POINTER 141 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264243107]
+Ratio
+
+## POINTER 142 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+¿Entrar en las Arenas de Kogorh (Sur)?
+
+## POINTER 143 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+¿Entrar en las Arenas de Kogorh (Norte)?
+
+## POINTER 144 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1266181306]
+Entrar en el desierto
+Quedarse en el mapa
+Cancelar
+
+## POINTER 145 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+Está lleno con cosas de <STR>(FRE), muchas de las cuales
+las lleva usando desde que vivía en los barrios bajos.
+
+## POINTER 146 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+Algunas de las cosas de <STR>(FRE). Entre ellas
+un sobre sellado con una pegatina en forma de corazón.
+
+## POINTER 147 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+La ropa de <STR>(FRE)
+está perfectamente recogida.
+
+## POINTER 148 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264243107]
+¿Quitar <0B>(0) del miembro?
+
+## POINTER 149 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+No has elegido ningún dispositivo de almacenamiento.
+Necesitas un dispositivo de almacenamiento que tenga
+al menos (<0B>(0)KB) libres para poder guardar.
+¿Quieres empezar a jugar de todos modos?
+
+## POINTER 150 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+
+
+## POINTER 151 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+X
+
+## POINTER 152 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Nada
+
+## POINTER 153 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1266181306]
+No hay espacio para guardar una nueva partida.
+Necesitas por los menos (<0B>(0)KB) de espacio libre para guardar los datos.
+Puedes sobrescribir un partida ya existente.
+¿Quieres empezar a jugar de todos modos?
+
+## POINTER 154 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+Has obtenido «<0B>(0)».
+
+## POINTER 155 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Has obtenido
+un traje de camarera.
+
+## POINTER 156 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264243107]
+Estaba buscando ese traje de camarera.
+¿Podrías devolvérmelo?
+Te daré esto a cambio.
+
+## POINTER 157 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Has perdido
+el traje de camarera.
+
+## POINTER 158 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+Has obtenido 1.000 gald
+
+## POINTER 159 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Síntesis recomendadas para hoy
+
+## POINTER 160 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264243509]
+Consejillos
+
+## POINTER 161 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Info. de síntesis
+
+## POINTER 162 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Síntesis de armas
+
+## POINTER 163 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+Botín de los jefes
+
+## POINTER 164 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Armas secundarias
+
+## POINTER 165 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264243107]
+Sintetizando con armas equipadas
+
+## POINTER 166 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Complementos
+
+## POINTER 167 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218965]
+Mitad de daño
+
+## POINTER 168 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Mejorar Límite
+
+## POINTER 169 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Monstruos Giganto
+
+## POINTER 170 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Habilidades que pueden modificar artes
+
+## POINTER 171 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Condiciones meteorológicas
+
+## POINTER 172 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Siguiente
+
+## POINTER 173 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Fichas obtenidas:
+<0B>(0)
+
+## POINTER 174 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Tengo que irme...
+
+## POINTER 175 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263856392]
+Cerradura abierta
+
+## POINTER 176 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835279]
+Guión, capítulo 1
+
+## POINTER 177 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835279]
+Guión, capítulo 2
+
+## POINTER 178 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835279]
+Guión, capítulo 3
+
+## POINTER 179 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835279]
+Batalla
+
+## POINTER 180 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835279]
+Cocinar
+
+## POINTER 181 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264243107]
+Chat
+
+## POINTER 182 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835279]
+Descargar
+
+## POINTER 183 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835902]
+Skits
+
+## POINTER 184 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835279]
+Sonido
+
+## POINTER 185 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264243107]
+Vídeo
+
+## POINTER 186 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835279]
+Ciudad
+
+## POINTER 187 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835279]
+Mazmorra

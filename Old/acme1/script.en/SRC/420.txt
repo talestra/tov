@@ -1,0 +1,274 @@
+## POINTER 0
+
+<VOICE>(VS39_080)Those who obstruct the 
+work of the Knights shall 
+be treated as criminals!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS39_081)Wouldn't have it any other way!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS39_082)...How does it look, <STR>(RIT)?
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS39_083)Just like I thought, this formula 
+is protected by a code as well.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS39_084)Think you can break it?
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS39_085)I said I'd do it or die 
+trying, didn't I?<PAGE><VOICE>(VS39_086)This has nothing to 
+do with getting us 
+to Myorzo anymore.<PAGE><VOICE>(VS39_087)There's no way in hell I'll let 
+those idiot Knights go on using 
+these poor blastia like this.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS39_088)Okay, I'll leave this to you guys!
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS39_089)And where are you off to, <STR>(KAR)?
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS39_090)I'm gonna keep watch down 
+below, just in case more 
+Royal Guards show up!
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS39_091)Well then, I'll come 
+along and help out.
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS39_092)You guys are sorta freakin' 
+me out with your enthusiasm.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS39_093)...It's <STR>(YUR)'s influence.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS39_094)I guess the rest of us'll 
+stay here for now.
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VS39_095)...<STR>(YUR) himself is as laid 
+back as can be, though.
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS39_096)....True.
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS39_097)Looks like it'll be a while before 
+she can crack that code...
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS39_098)Royal Guard, huh? I wonder what 
+those guys were planning to do 
+with the blastia anyway...
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS39_099)Yah...!
+
+## POINTER 18
+
+<VOICE>(VS39_100)Aargh...!
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS39_101)The Knights have 
+come back...!
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS39_102)We've gotta hold 
+our ground here.
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS39_103)There's more of them...!
+
+## POINTER 22
+<STR>(JUD)
+<VOICE>(VS39_104)Yah!!
+
+## POINTER 23
+<STR>(RAV)
+<VOICE>(VS39_105)And one for you!
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS39_106)...It seems they're not 
+going to let us rest.
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS39_107)Y-yeah... They're just waiting 
+for us to get tired...
+
+## POINTER 26
+<STR>(EST_P)
+<VOICE>(VS39_108)Hyah!<PAGE><VOICE>(VS39_109)...Aah...
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS39_110)<STR>(EST_P), fall back...!
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS39_111)<STR>(RIT)! What are you...?!
+
+## POINTER 29
+<STR>(RIT)
+<VOICE>(VS39_112)We have to destroy him...! 
+You worry about the Knights!
+
+## POINTER 30
+<STR>(EST_P)
+<VOICE>(VS39_113)<STR>(RIT)... 
+But why?!
+
+## POINTER 31
+<STR>(RIT)
+<VOICE>(VS39_114)We're out of time!<PAGE><VOICE>(VS39_115)You can't possibly...
+
+## POINTER 32
+<STR>(EST_P)
+<VOICE>(VS39_116)<STR>(RIT)...
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS39_117)Can't possibly what? 
+Fight them all off?
+
+## POINTER 34
+<STR>(JUD)
+<VOICE>(VS39_118)Do you have no faith 
+in me...? In us?<PAGE><VOICE>(VS39_119)Succeed or die 
+trying, wasn't it?
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS39_120)We won't give in. 
+<STR>(RIT), do what you can 
+and save that blastia.
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS39_121)...I will! I'll fix this thing 
+if it's the last thing I do!<PAGE><VOICE>(VS39_122)And just so you know, 
+I'm expecting the 
+same from you guys!
+
+## POINTER 37
+<STR>(RAV)
+<VOICE>(VS39_123)*Sigh* ...Aw, hell. 
+Guess I'll give it all 
+I've got, too...
+
+## POINTER 38
+<STR>(YUR)
+<VOICE>(VS39_124)You joining the 
+shining youth brigade 
+or something?
+
+## POINTER 39
+<STR>(RAV)
+<VOICE>(VS39_125)Looks that way.
+
+## POINTER 40
+<STR>(RAV)
+<VOICE>(VS39_126)But man...this guy 
+must practice a lot.
+
+## POINTER 41
+<STR>(YUR)
+<VOICE>(VS39_127)I'm not too worried if 
+you're still making jokes.
+
+## POINTER 42
+<STR>(RAV)
+<VOICE>(VS39_128)I think I'd like ta retract 
+my previous statement.
+
+## POINTER 43
+<STR>(KAR)
+<VOICE>(VS39_129)Stop goofing around, 
+you guys! Fight!!
+
+## POINTER 44
+<STR>(RIT)
+<VOICE>(VS39_130)...It stopped!
+
+## POINTER 45
+<STR>(EST_P)
+<VOICE>(VS39_131)<STR>(RIT)!
+
+## POINTER 46
+<STR>(KAR)
+<VOICE>(VS39_132)Way to go, <STR>(RIT)!
+
+## POINTER 47
+<STR>(RAV)
+<VOICE>(VS39_133)Well, I'll be... She came through.
+
+## POINTER 48
+<STR>(KAR)
+<VOICE>(VS39_134)The Knights are pulling back!
+
+## POINTER 49
+<STR>(JUD)
+<VOICE>(VS39_135)Why? Because the blastia 
+stopped? I wonder what 
+they were trying to do.
+
+## POINTER 50
+<STR>(YUR)
+<VOICE>(VS39_136)Let's not look a gift horse in the 
+mouth. Now we've kept our promise 
+to Tort. <STR>(JUD), you take it from here.
+
+## POINTER 51
+<STR>(JUD)
+<VOICE>(VS39_137)Okay.
+
+## POINTER 52
+<STR>(KAR)
+<VOICE>(VS39_138)Ah, wh-whoa...
+
+## POINTER 53
+<STR>(YUR)
+<VOICE>(VS39_139)What is that thing...?!
+
+## POINTER 54
+<STR>(JUD)
+<VOICE>(VS39_140)The door has opened... 
+That is Myorzo. Homeland 
+of the Krityan people.
+
+## POINTER 55
+<STR>(RAV)
+<VOICE>(VS39_141)It's definitely...impressive.
+
+## POINTER 56
+<STR>(JUD)
+<VOICE>(VS39_142)Looks like they won't 
+keep it open for us very  
+long. We should hurry.<PAGE><VOICE>(VS39_143)Ba'ul!

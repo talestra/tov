@@ -1,0 +1,76 @@
+## POINTER 0
+<STR>(YUR)
+Hey, <STR>(KAR).
+
+## POINTER 1
+<STR>(KAR)
+What's up, <STR>(YUR)?
+
+## POINTER 2
+<STR>(YUR)
+We finished <STR>(EST_P)'s request. 
+Shouldn't Brave Vesperia start 
+looking for other jobs?
+
+## POINTER 3
+<STR>(KAR)
+Yeah, you're right. Hmm, I 
+wonder what we should do.<PAGE>We could get a job in 
+Dahngrest if we were 
+members of the Union...
+
+## POINTER 4
+<STR>(RAV)
+Hey kid, didn't ya know?<PAGE>The Union'll throw you work 
+even if ya don't join 'em. 
+They take a cut, but...
+
+## POINTER 5
+<STR>(KAR)
+Really?!
+
+## POINTER 6
+<STR>(RAV)
+Really!
+
+## POINTER 7
+<STR>(YUR)
+But it'll take us some time
+to return to Dahngrest 
+from here...
+
+## POINTER 8
+<STR>(RAV)
+If we can find a Union's 
+outpost staff around, we might
+be able to get a job.
+
+## POINTER 9
+<STR>(JUD)
+Then why not look for them?
+
+## POINTER 10
+<STR>(RAV)
+<STR>(JUD_P), ya coming?
+
+## POINTER 11
+<STR>(RAP)
+Woof!
+
+## POINTER 12
+<STR>(KAR)
+Uh... but, what should we do
+about Phaeroh?
+
+## POINTER 13
+<STR>(EST_P)
+If this is something we need to
+do as a guild, I don't mind.
+
+## POINTER 14
+<STR>(KAR)
+Thank you <STR>(EST_P)!
+
+## POINTER 15
+<STR>(YUR)
+OK, let's go.

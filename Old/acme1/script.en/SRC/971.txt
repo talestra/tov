@@ -1,0 +1,78 @@
+## POINTER 0
+<STR>(KAR)
+Why would something like this happen...?
+
+## POINTER 1
+<STR>(EST_P)
+I wonder if maybe the groundwater's 
+dried up...
+
+## POINTER 2
+<STR>(YUR)
+The groundwater?
+
+## POINTER 3
+<STR>(EST_P)
+Yes. The water in the lake comes 
+from an aquifer of groundwater 
+deep beneath the ground.
+
+## POINTER 4
+<STR>(YUR)
+Oh, okay. That makes 
+sense, then.
+
+## POINTER 5
+<STR>(EST_P)
+What do you mean?
+
+## POINTER 6
+<STR>(YUR)
+The spirits have been doing all sorts 
+of things to the planet lately.<PAGE>Making tree roots grow, sucking 
+up energy from magma...
+
+## POINTER 7
+<STR>(EST_P)
+So you're saying that could've changed 
+the flow of water beneath the surface?
+
+## POINTER 8
+<STR>(KAR)
+No way! We're talking about 
+an entire continent here...
+
+## POINTER 9
+<STR>(EST_P)
+There's something I've 
+heard of before...the 
+ground vein.<PAGE>It's a giant underground 
+water vein, flowing deep 
+beneath the ocean floor.
+
+## POINTER 10
+<STR>(YUR)
+With the spirits' power, changing 
+the flow of something like 
+that would be easy.
+
+## POINTER 11
+<STR>(KAR)
+Wow... The spirits are 
+really powerful...
+
+## POINTER 12
+<STR>(EST_P)
+If they wanted to, they could 
+probably even change the 
+seasons themselves.
+
+## POINTER 13
+<STR>(KAR)
+That's scary...
+
+## POINTER 14
+<STR>(EST_P)
+Anyway, it looks like 
+we can go down to the 
+old lake's floor now.

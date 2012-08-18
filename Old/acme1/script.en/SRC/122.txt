@@ -1,0 +1,78 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS09_015)Amazing...
+
+## POINTER 1
+
+<VOICE>(VS09_016)Can this be...?
+
+## POINTER 2
+
+<VOICE>(VS09_017)Is she using healing artes...?<PAGE><VOICE>(VS09_018)It's like a dream...<PAGE><VOICE>(VS09_019)There's no way... and yet...
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS09_020)*Huff*...*huff*...
+
+## POINTER 4
+
+<VOICE>(VS09_021)Yay! Yay! You're 
+the greatest!
+
+## POINTER 5
+
+<VOICE>(VS09_022)Thanks for making the tree 
+of Halure healthy again!
+
+## POINTER 6
+
+<VOICE>(VS09_023)We owe you our gratitude. 
+Thanks to this, our city 
+can live once more...
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS09_024)W-what did I just...?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS09_025)...That was incredible, 
+<STR>(EST_P). Can you get up?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS09_026)<STR>(YUR)!
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS09_027)<STR>(FRE)'s gonna be so surprised 
+to see the flowers blooming. 
+Hah, that'll show him.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS09_028)You and <STR>(FRE) seem to have such 
+a strange relationship. You 
+are friends, aren't you?
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS09_029)He's just someone I grew up with, that's all.
+
+## POINTER 13
+<STR>(RAP)
+<VOICE>(VS09_030)....
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS09_031)Aren't those the people from the castle...?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS09_033)We can't let these people get caught up 
+in this. Let's lay low for a while.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS09_034)Huh? What did I miss? Where 
+are you guys going?!

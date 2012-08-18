@@ -1,0 +1,64 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1291474612]
+Dyne
+Anda, habéis vuelto.
+¿Cómo ha ido?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1291474612]
+<STR>(KAR)
+¡Hemos acabado con él, mira!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1291474612]
+Dyne
+Eso lo confirma. Buen trabajo, chaval.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1291474612]
+<STR>(YUR)
+¿Este tío es
+tu cliente?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291495007]
+Dyne
+Sí, el mismo. No lo pillo. No veas qué manía
+le tenía al monstruo. Aunque jamás ha tenido
+ni la más remota posibilidad de ganarle.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660575]
+<STR>(EST_P)
+Debía desear
+mucho tener
+la livianita...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527204]
+<STR>(RIT)
+Pero ¿qué es lo que tiene la livianita
+que hace que se arriesgue así? Claro que
+ahora mismo no nos lo puede decir.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660575]
+<STR>(YUR)
+Creía que una de las reglas de los
+gremios era no meter las narices
+en los asuntos personales del cliente.<PAGE>Aunque mentiría si dijese
+que no me interesa.<PAGE>Al menos ha conseguido lo que quería.
+Esperemos que esto signifique que
+sus días de chifladuras han acabado.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527204]
+<STR>(JUD)
+Y tú, ¿cómo te sientes?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1291495007]
+Dyne
+¿Yo? Vuelvo a estar como una rosa. Pero me temo
+que aún no puedo decir lo mismo de mis compis.<PAGE>Nos habéis salvado el pellejo. Espero que
+esto os muestre lo mucho que lo apreciamos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660575]
+Dyne
+Yo cuidaré de
+don temerario.<PAGE>Gracias otra vez, <STR>(KAR).
+Has aprendido mucho, en serio.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1291495007]
+<STR>(KAR)
+Cuídate mucho, Dyne.

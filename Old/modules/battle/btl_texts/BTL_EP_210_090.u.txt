@@ -1,0 +1,4 @@
+{"text_path":"battle\/0000","text_id":"000042AC","linked_id":"1cfc80720405641557288b028eebf5d0","metainfo":{"textblock_ptr":17068},"texts":{"ja":["16944","16957"],"en":["17018","17025"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"00003E9C","linked_id":"c01dfdc828bbffe2863470b3829418f6","metainfo":{"textblock_ptr":16028},"texts":{"ja":["15846","15859"],"en":["15959","15966"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"00003F08","linked_id":"663acc59b93a39af41665b8089397905","metainfo":{"textblock_ptr":16136},"texts":{"ja":["16052","16059"],"en":["16104","16111"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"00003F9C","linked_id":"b744e55ba62526cfc2116ece1682f226","metainfo":{"textblock_ptr":16284},"texts":{"ja":["16160","16169"],"en":["16233","16242"],"es":["",""]}}

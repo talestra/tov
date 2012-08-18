@@ -1,0 +1,18 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS10_001)It looks like this is Aspio...
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS10_002)It's so gloomy and damp here... 
+It's giving me the chills, too.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS10_502)It's because the city is in a cavern.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS10_004)I wonder if the lack of sun drives 
+the people here to do shady things...
+Like stealing blastia cores.

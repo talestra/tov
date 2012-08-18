@@ -1,0 +1,24 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS42_232)Ooh...<STR>(RAV)...
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS42_233)That idiot... So he really 
+was one of us, after all.<PAGE><VOICE>(VS42_234)Damn it... You idiot!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS42_235)Look alive, we've got a 
+princess that needs 
+rescuing! Now step to it!
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS42_236)Stuck with another job 
+nobody much wants?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS42_237)...It's nothing. We are 
+actually in a hurry.

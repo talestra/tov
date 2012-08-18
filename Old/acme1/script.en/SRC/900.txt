@@ -1,0 +1,72 @@
+## POINTER 0
+
+Hey, I knew I can count
+on you! This place is
+spick and span!<PAGE>Here's your money,
+as promised.
+
+## POINTER 1
+<STR>(KAR)
+Hmm...I wonder if we'll just
+be known as the warehouse
+cleaning guild after this...<PAGE>If that happens, we're just
+going to keep getting jobs
+cleaning warehouses...
+
+## POINTER 2
+<STR>(YUR)
+Don't sweat it.
+We're just known as the
+go-to-guys in the warehouse biz.<PAGE>It's not like warehouses
+suddenly equals Brave
+Vesperia now...I think...
+
+## POINTER 3
+<STR>(KAR)
+Y-yeah...I guess you're right.
+
+## POINTER 4
+
+Did you know what
+that boss of yours is
+known as in our industry?
+
+## POINTER 5
+<STR>(KAR)
+??
+
+## POINTER 6
+
+You're known as the Warehouse Master!<PAGE>You're renowned for being
+a warehouse expert, ya see.
+Isn't that something to be proud of?
+
+## POINTER 7
+<STR>(KAR)
+W-warehouse master...
+
+## POINTER 8
+<STR>(RAV)
+Hey, good for ya, kid.
+Warehouse Master <STR>(KAR)!
+Yer like some sort of celebrity!
+
+## POINTER 9
+<STR>(JUD)
+Congratulations.
+Warehouse Master
+<STR>(KAR).
+
+## POINTER 10
+<STR>(EST_P)
+Warehouse Master <STR>(KAR)...
+It's got a nice ring to it.
+
+## POINTER 11
+
+Hey, it was just a joke...
+He-y, you listening?
+
+## POINTER 12
+<STR>(RIT)
+It sounds stupid, if you ask me...

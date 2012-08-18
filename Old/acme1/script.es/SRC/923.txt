@@ -1,0 +1,84 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953849]
+<STR>(EST_P)
+¡Maestro, así que
+estaba en Aurnion!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953849]
+Drake
+Sí... Pero me temo
+que pronto volveré
+a partir.<PAGE>He estado esperando aquí
+para hablar contigo,
+<STR>(YUR) Lowell.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1295120296]
+<STR>(YUR)
+¿Eh? ¿Conmigo?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1295120296]
+Drake
+Quisiera que volvieras a los Caballeros Imperiales
+para que apoyaras al comandante <STR>(FRE).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953849]
+<STR>(YUR)
+¿Apoyar a <STR>(FRE)? ¿Volver
+a los Caballeros? Estará de coña.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1295120296]
+Drake
+Siempre he pensado que los Caballeros
+Imperiales dejaron escapar a un
+gran hombre cuando te fuiste.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953849]
+<STR>(YUR)
+Maestro Drake, hágame la pelota todo
+cuanto quiera, pero no cambiaré de opinión.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1295120296]
+Drake
+No te estoy haciendo la pelota.
+Soy sincero. ¿Qué me dices?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953849]
+<STR>(YUR)
+Lo siento, pero ni
+aunque me ofreciera
+volver como Comandante...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296763684]
+Drake
+Claro, empezarías como aprendiz,
+pero con tu habilidad, llegarías
+a capitán en un suspiro.<PAGE>¡Toma esta armadura!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953849]
+<STR>(YUR)
+¡No la quiero!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953849]
+Drake
+Con <STR>(FRE) de Comandante,
+los Caballeros cambiarán
+para mejor.<PAGE>¿Aun así no te interesa?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296763684]
+<STR>(YUR)
+¿Con ese aguafiestas
+estirado por Comandante? 
+¡No, gracias!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1295120296]
+<STR>(EST_P)
+¡Oh, <STR>(YUR)! ¡Maestro, por favor,
+acepte mis disculpas en nombre de <STR>(YUR)!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1295120296]
+Drake
+...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1295120296]
+<STR>(YUR)
+Comandante <STR>(FRE), ¿eh?
+Pues no suena mal del todo...

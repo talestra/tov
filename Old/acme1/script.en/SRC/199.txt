@@ -1,0 +1,37 @@
+## POINTER 0
+<STR>(KAR)
+<STR>(EST_P)! You haven't 
+gone back yet!
+
+## POINTER 1
+<STR>(EST_P)
+No, I haven't.
+
+## POINTER 2
+<STR>(FRE)
+It'll be some time before the Imperial Knights 
+are able to move out, after all.
+
+## POINTER 3
+<STR>(EST_P)
+Oh by the way, <STR>(FRE).
+
+## POINTER 4
+<STR>(FRE)
+Yes, milady?
+
+## POINTER 5
+<STR>(EST_P)
+Is it okay if I stay with 
+<STR>(YUR) and his friends until 
+I go back to the capital?
+
+## POINTER 6
+<STR>(FRE)
+I understand. Only until 
+you return, though.
+
+## POINTER 7
+<STR>(EST_P)
+Yes. I won't cause you any 
+more trouble, <STR>(FRE).

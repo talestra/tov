@@ -1,0 +1,24 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1284389246]
+<STR>(JUD)
+<VOICE>(VS49_500)Un momento. Aquí hay alguien.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282648]
+<VOICE>(VS49_501)¡¡Aaaaaah!!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282648]
+<STR>(YUR)
+<VOICE>(VS49_504)¿Eh?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282648]
+<VOICE>(VS49_505)¡Uaaaaaaah!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551385]
+<STR>(YUR)
+<VOICE>(VS49_508)Pero ¿qué...?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282648]
+<VOICE>(VS49_509)¿<STR>(YUR)? ¡Es <STR>(YUR)!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1284389246]
+<STR>(YUR)
+<VOICE>(VS49_510)¡¿Eh?! ¡¿Hanks?!

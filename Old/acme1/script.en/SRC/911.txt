@@ -1,0 +1,139 @@
+## POINTER 0
+<STR>(KAR)
+Huh? What's 
+the matter?
+
+## POINTER 1
+
+Hey, <STR>(KAR), 
+and <STR>(RAV) 
+too!<PAGE>No, it's just...I've 
+got something on my 
+mind, is all...
+
+## POINTER 2
+<STR>(RAV)
+What's up?
+
+## POINTER 3
+<STR>(KAR)
+Tell us. Maybe Brave 
+Vesperia can help.
+
+## POINTER 4
+
+Well, I feel pretty dumb, but...I 
+lost the key to the storeroom. I 
+can't do any organizing at all!
+
+## POINTER 5
+<STR>(RAV)
+This sounds like 
+a job fer Captain 
+<STR>(KAR)!
+
+## POINTER 6
+<STR>(KAR)
+Huh? M-me?
+
+## POINTER 7
+<STR>(RAV)
+It's all on ya now, 
+master lockpicker!
+
+## POINTER 8
+<STR>(KAR)
+This lock looks pretty old. 
+I don't think I can get 
+it unlocked. I'm sorry...
+
+## POINTER 9
+
+Is that so...
+I wonder what 
+I should do, then...
+
+## POINTER 10
+<STR>(RAV)
+Aha! I'm
+a genius!
+
+## POINTER 11
+<STR>(KAR)
+What? What is it? I've got 
+a bad feeling about this...
+
+## POINTER 12
+<STR>(RAV)
+Just like last time, 
+kid! Hop up! I'll 
+give ya a boost.
+
+## POINTER 13
+<STR>(KAR)
+We did it!
+
+## POINTER 14
+
+Ohh, thank 
+you! You did 
+great!
+
+## POINTER 15
+<STR>(RAV)
+What else did ya expect 
+from the great <STR>(RAV)?
+
+## POINTER 16
+<STR>(KAR)
+But all you did was 
+give me a boost up!
+
+## POINTER 17
+
+I can't thank you enough. 
+You can have whatever's 
+in the storeroom.
+
+## POINTER 18
+<STR>(KAR)
+But weren't you planning 
+on tidying up 
+your things?
+
+## POINTER 19
+
+Well, I was originally planning on reorganizing 
+all of my boxes, and I'm sure that a lot of 
+them would've ended up getting thrown away.<PAGE>And I need to give 
+you a reward for the 
+work that you did!
+
+## POINTER 20
+<STR>(KAR)
+Okay, but don't you think 
+this is a bit much...
+
+## POINTER 21
+<STR>(RAV)
+It sounds okay to me. After 
+all, it's a reward fer hard 
+work done by Brave Vesperia!
+
+## POINTER 22
+
+Frankly, I don't 
+really even know 
+what's in there.
+
+## POINTER 23
+<STR>(KAR)
+All right, then 
+we'll take 
+it! Thanks!
+
+## POINTER 24
+
+Thanks for your help. If I ever 
+have another problem, I'll be 
+sure to ask Brave Vesperia!

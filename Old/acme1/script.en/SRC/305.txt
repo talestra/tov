@@ -1,0 +1,119 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS27_024)Are you missing the castle?
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS27_025)No, I just...I thought I'd come 
+out for some fresh air.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS27_026)I just can't shake those 
+words Phaeroh said to me.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS27_027)Oh yeah, what was it again?
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS27_028)The insipid poison of this 
+world must be purged...
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS27_029)The world's poison. Hm...<PAGE><VOICE>(VS27_030)Yeah, well the world is full of 
+pessimists, that's for sure.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS27_031)For what it's worth, you don't 
+look like poison to me.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS27_032)Was that your attempt 
+to cheer me up?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS27_033)Hey, I'm just trying to 
+be straight with you.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS27_034)Heh heh. I guess I do feel a little better.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS27_035)Hey...
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS27_036)<STR>(YUR), look at that.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS27_037)Hmm?
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS27_038)That's Brave Vesperia.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS27_039)The brightest star 
+in the night sky...
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS27_040)There's an old story 
+about that star:
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS27_041)In the days of old, a great 
+cataclysm occurred that 
+plunged the world into ruin.<PAGE><VOICE>(VS27_042)Countless lives were lost as 
+the people struggled to stand 
+against the oncoming disaster.<PAGE><VOICE>(VS27_043)Its energies all but spent, 
+humanity's hope seemed lost 
+when a pair of siblings appeared.<PAGE><VOICE>(VS27_044)This brother and sister together 
+fought the calamity, and saved 
+the world from annihilation.<PAGE><VOICE>(VS27_045)The sister they called Child of 
+the Full Moon. After the struggle, 
+she remained with the earth.<PAGE><VOICE>(VS27_046)Her brother they called Brave 
+Vesperia, and he ascended to 
+the skies to watch over the world.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS27_047)The end.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS27_048)Wow, so you went and gave our 
+guild a name with a lot of baggage.
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS27_049)Now that you know the story, you 
+should strive to make your guild 
+shine as bright as the star.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS27_050)Yeah... We'll have to 
+tell <STR>(KAR) about this.<PAGE><VOICE>(VS27_051)We'll definitely have to 
+live up to the name.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS27_052)I'm gonna head back. 
+You should, too, or <STR>(RIT)'s gonna 
+start worrying about you.
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS27_053)Okay.

@@ -1,0 +1,200 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS59_017)Hey... Hang on... This kind of 
+stuff gets to us old folks...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS59_018)Come on, old man.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS59_019)Yeah. You're gonna have to climb 
+back up when we're done.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS59_020)He's dead.
+
+## POINTER 4
+<STR>(RAP)
+<VOICE>(VS59_021)Grrrr.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS59_022)Someone's coming!
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS59_023)A person? Here?
+
+## POINTER 7
+Duke
+<VOICE>(VS59_024)You...!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS59_025)Duke! Appearing out 
+of nowhere, as usual.
+
+## POINTER 9
+Duke
+<VOICE>(VS59_026)...What are you doing here?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS59_027)We heard there was 
+an Entelexeia here.<PAGE><VOICE>(VS59_028)We came to ask it 
+to become a spirit.
+
+## POINTER 11
+Duke
+<VOICE>(VS59_029)A "spirit"?
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS59_030)A being that comes from reincarnating 
+an Entelexeia through an apatheia.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS59_031)We might be able to solve 
+the aer problem completely 
+with the spirits' power.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS59_032)By converting aer into mana.
+
+## POINTER 15
+Duke
+<VOICE>(VS59_033)...I see. That's 
+why...
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS59_034)Duke...?
+
+## POINTER 17
+Duke
+<VOICE>(VS59_035)...Reincarnation...converting 
+aer... You are trying to 
+remake the world itself.<PAGE><VOICE>(VS59_036)All to solve a problem that humans 
+themselves brought about.<PAGE><VOICE>(VS59_037)Such arrogance.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS59_038)But if we don't fix the aer problem, 
+the Adephagos will destroy the world.
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS59_039)Belius understood.<PAGE><VOICE>(VS59_040)She became Undine, and is 
+lending us her power.
+
+## POINTER 20
+<STR>(JUD)
+<VOICE>(VS59_041)Phaeroh, as well.<PAGE><VOICE>(VS59_042)He was reborn 
+as Efreet.
+
+## POINTER 21
+Duke
+<VOICE>(VS59_043a)The proper form of 
+Terca Lumireis...<PAGE><VOICE>(VS59_043b)...is one in which all living 
+things, including Entelexeia, 
+live in their natural state.<PAGE><VOICE>(VS59_044)You understand that as well.
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS59_045)But what about Gusios! He was 
+trying to control the aer!<PAGE><VOICE>(VS59_046)But then he took too much and 
+became really dangerous!
+
+## POINTER 23
+<STR>(RAV)
+<VOICE>(VS59_047)Yeah. I don't want to think what would have happened 
+if we hadn't reincarnated him as Gnome.
+
+## POINTER 24
+Duke
+<VOICE>(VS59_048)...Even so, 
+I do not accept 
+it.<PAGE><VOICE>(VS59_049)I will protect this world.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS59_050)You said that before. 
+So just how do you plan 
+to protect the world?
+
+## POINTER 26
+Duke
+<VOICE>(VS59_051)...I will not interfere with you. 
+So do not interfere with me.
+
+## POINTER 27
+Duke
+<VOICE>(VS59_052)Ahead lies one of the oldest 
+springs in the world. 
+Pay it due respect.
+
+## POINTER 28
+<STR>(JUD)
+<VOICE>(VS59_053)So you won't answer the main question?
+
+## POINTER 29
+Duke
+<VOICE>(VS59_054)...
+
+## POINTER 30
+Duke
+<VOICE>(VS59_055)...Farewell. I doubt 
+we shall meet again.
+
+## POINTER 31
+<STR>(KAR)
+<VOICE>(VS59_056)Uh, hey! ...He's 
+gone.
+
+## POINTER 32
+<STR>(RAV)
+<VOICE>(VS59_057)Such a...warm and fun-loving little fellow...
+
+## POINTER 33
+<STR>(EST_P)
+<VOICE>(VS59_058)...I wonder what he's 
+trying to do?
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS59_059)I don't know, but I have 
+a bad feeling about it.
+
+## POINTER 35
+<STR>(JUD)
+<VOICE>(VS59_060)<STR>(RIT), is something wrong?
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS59_061)Well...<PAGE><VOICE>(VS59_062)I bet with his sword-with Dein 
+Nomos-we could focus the spirits' 
+energy on the Adephagos.
+
+## POINTER 37
+<STR>(EST_P)
+<VOICE>(VS59_063)Should we chase him down and 
+ask him to lend it to us?
+
+## POINTER 38
+<STR>(RAV)
+<VOICE>(VS59_064)Yeah, I don't think he's in much 
+of a giving mood right now.
+
+## POINTER 39
+<STR>(KAR)
+<VOICE>(VS59_065)Me neither...
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS59_066)Well, whatever we do, we have 
+to get all the spirits first.<PAGE><VOICE>(VS59_067)Let's focus on that for now.

@@ -1,0 +1,65 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS58_001)This looks like the center of the crystalization.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS58_002)It's beautiful... Like 
+we're in a dream.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS58_003)It's aer that crystalized at 
+low density... Is this mana?<PAGE><VOICE>(VS58_004)I have to take a sample.
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS58_005)Just how do they 
+come up with such 
+different reactions...?
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS58_006)They just shatter! Hah hah hah! This is fun!
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS58_007)You're so stupid. 
+Nature didn't make 
+this, you know.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS58_008)Huh? What do you mean?
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS58_009)The center of a new land 
+that just crystalized...<PAGE><VOICE>(VS58_010)Somewhere around here is the one who made that happen.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS58_011)And an aer krene.
+
+## POINTER 9
+<STR>(RAP)
+<VOICE>(VS58_012)Woof!
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS58_013)What's up, <STR>(RAP)? 
+Find something?
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS58_014)This is...
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS58_015)Someone crushed these crystals...and 
+it wasn't us.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS58_016)Looks like someone got here 
+before us. Watch out.

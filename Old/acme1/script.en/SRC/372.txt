@@ -1,0 +1,27 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS34_238)What was <STR>(FRE) saying 
+about <STR>(YUR) and Ragou...?
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS34_239)Save it!<PAGE><VOICE>(VS34_240)You men, raise the anchor!
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS34_241)Yeah, men, raise the anchor.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS34_242)<STR>(RAV)! Where did 
+you come from...?
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VS34_243)Don't s'pose it'd be 
+too much trouble ta 
+take one more with us.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS34_244)Hey, that's the guy...!

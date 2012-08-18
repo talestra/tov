@@ -1,0 +1,122 @@
+## POINTER 0
+Duke
+<VOICE>(VA030_102)...You leave me no choice.<PAGE><VOICE>(VA030_103)Come!
+
+## POINTER 1
+Duke
+<VOICE>(VA030_104)I see now why Phaeroh granted 
+you his blessing.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VA030_105)You're pretty strong yourself.
+
+## POINTER 3
+Duke
+<VOICE>(VA030_106)Humph. How unfortunate. I wish 
+our paths had crossed earlier.<PAGE><VOICE>(VA030_107)Perhaps we would have met now 
+under different circumstances.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VA030_108)It's not too late.
+
+## POINTER 5
+Duke
+<VOICE>(VA030_109)It is. My path was 
+set when the Adephagos 
+covered the sky.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VA030_110)You stubborn bastard!
+
+## POINTER 7
+Duke
+<VOICE>(VA030_111)The best path for an 
+enduring world is to return 
+it to its natural state.<PAGE><VOICE>(VA030_112)That is the path I chose! I 
+will die for that. My friend...grant 
+me your strength!
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VA030_113)What? What's going on?!
+
+## POINTER 9
+Duke
+<VOICE>(VA030_114)Impossible... This is 
+the spiral draco...
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VA030_115)The fell arms are reacting 
+to Dein Nomos?! And what's 
+that light surrounding Duke...?!
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VA030_116)Dein Nomos and the tower are 
+combining to restore the power 
+of the fell arms! But how...?!
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VA030_117)What's going on...?!
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VA030_118)Are these the fell arms 
+in their true form...?!
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VA030_119)They're nothing like 
+they used to be!
+
+## POINTER 15
+Duke
+<VOICE>(VA030_120)Now, the ancient king 
+of the Entelexeia will 
+fight at my side...!
+
+## POINTER 16
+Duke
+<VOICE>(VA030_121)It is the will of the very 
+planet. The will of Terca 
+Lumireis itself!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VA030_122)I don't give a damn about 
+your crazy ideas!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VA030_123)We decide our own sense 
+of right and wrong. The 
+rest, I leave to my sword.
+
+## POINTER 19
+Duke
+<VOICE>(VA030_124)You will not be persuaded, I see... 
+Perhaps it is for the best.
+
+## POINTER 20
+Duke
+<VOICE>(VA030_125)Join me now in battle, for 
+the sake of this world!
+
+## POINTER 21
+Duke
+<VOICE>(VA030_126)Forgive me...Elucifur... It seems 
+I must...break my promise...
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VA030_127)*Huff* *huff*<PAGE><VOICE>(VA030_128)I don't know what sort of guy this 
+Elucifur was, so this may not count 
+for much coming from me,...<PAGE><VOICE>(VA030_129)But if he gave his life in the Great War 
+fighting for the sake of humanity,...<PAGE><VOICE>(VA030_130)I can't believe he'd want 
+you to live your life rejecting 
+that same humanity.

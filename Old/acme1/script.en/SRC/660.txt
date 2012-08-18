@@ -1,0 +1,170 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VA110_001)Try to match my formula's 
+rhythm. There...that's it.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA110_002)Ugh.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VA110_003)It's ready...<PAGE><VOICE>(VA110_004)Be careful to time the reformation 
+when it enters your force field
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VA110_005)Good...it entered the apatheia...<PAGE><VOICE>(VA110_006)You focus on recombining 
+the incoming aer at 
+just the right pace.<PAGE><VOICE>(VA110_007)I'll take care of the rest.<PAGE><VOICE>(VA110_008)Got it?
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VA110_009)Okay, here goes.<PAGE><VOICE>(VA110_010)...The amount of aer is increasing. 
+Here it comes...
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VA110_011)...It still looks all right...<PAGE><VOICE>(VA110_012)Okay, I'm gonna start 
+from the top...
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VA110_013)Nope. We'll have to try again...
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VA110_014)You've got to concentrate more.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VA110_015)You're pretty clumsy... I mean, 
+I knew that already, but...
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VA110_016)Keep at it!
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VA110_017)The aer is collecting 
+in the cyano ciel...
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VA110_018)*Huff* *huff*...
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VA110_019)It's...impossible...
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VA110_020)I'm sorry... If only 
+I could keep going...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VA110_021)The world hasn't been destroyed yet, 
+so it's still early to apologize.
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VA110_022)Yeah.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VA110_023)You're...right.
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VA110_024)...<STR>(EST_P)... I'm sorry 
+you have to...
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VA110_025)Don't worry about me... I've got 
+plenty of strength left...!
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VA110_026)...Okay, we'll try once more.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VA110_027)*Huff* *huff*...
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VA110_028)...It might be risky 
+to push <STR>(EST_P) any 
+further than this...
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VA110_029)...Yeah.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VA110_030)I'm sorry... This is straining 
+the rest of you...
+
+## POINTER 24
+<STR>(KAR)
+<VOICE>(VA110_031)Nah, this is nothing...!
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VA110_032)...Okay, I'd rather not have 
+to do this, but try and hold 
+on for just one more try.
+
+## POINTER 26
+<STR>(JUD)
+<VOICE>(VA110_033)What are you going to do?
+
+## POINTER 27
+<STR>(RIT)
+<VOICE>(VA110_034)I'll set the rhythm myself. 
+<STR>(EST_P), you match your 
+movements to it.
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VA110_035)Everyone ready...?
+
+## POINTER 29
+<STR>(RIT)
+<VOICE>(VA110_036)The formula is moving smoothly. The power 
+source is stable... It's going to work!
+
+## POINTER 30
+<STR>(EST_P)
+<VOICE>(VA110_037)Uhn... Ah...
+
+## POINTER 31
+Undine
+<VOICE>(VA110_038)Undine... I shall hereforth be 
+known as the spirit Undine.
+
+## POINTER 32
+Undine
+<VOICE>(VA110_039)Aah... I feel the power 
+swell within me...<PAGE><VOICE>(VA110_040)Such is the benefit of 
+the aer which you saw 
+fit to gather for me...
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VA110_041)...It wasn't any cakewalk, either...
+
+## POINTER 34
+Undine
+<VOICE>(VA110_042)Receive this now, as token 
+of my thanks...!
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VA110_043)Undine! We seek to control 
+the aer of this world! 
+Lend us your power.

@@ -1,0 +1,14 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS15_259)You!! What the hell do you think 
+you're doing?! How dare you 
+destroy those blastia!
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS15_260)There really is a person 
+riding a monster...
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS15_261)Wait!

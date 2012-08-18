@@ -1,0 +1,269 @@
+## POINTER 2162 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263085380]
+Onda sónica
+
+## POINTER 2164 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263085380]
+Combo de onda sónica
+
+## POINTER 2166 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Ráfaga de viento
+
+## POINTER 2168 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262515054]
+Martillo
+
+## POINTER 2170 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Hálito
+
+## POINTER 2172 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Hálito combo
+
+## POINTER 2174 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Ataque chispeante
+
+## POINTER 2176 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Ataque congelador
+
+## POINTER 2178 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Ola sellada
+
+## POINTER 2180 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Bofetada
+
+## POINTER 2182 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Ataque giratorio
+
+## POINTER 2184 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Cabezazo
+
+## POINTER 2186 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Cambio de expresión (enfadado)
+
+## POINTER 2188 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Cambio de expresión (llorando)
+
+## POINTER 2190 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Explosión
+
+## POINTER 2192 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Globo cohete
+
+## POINTER 2194 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Hálito / Habla
+
+## POINTER 2196 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Lanzamiento de pelota
+
+## POINTER 2198 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Lanzamiento de cuerda
+
+## POINTER 2200 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Teletransporte
+
+## POINTER 2202 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Ataque con tinta
+
+## POINTER 2204 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Barrido con tinta
+
+## POINTER 2206 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Ataque con tinta combo
+
+## POINTER 2208 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Hálito
+
+## POINTER 2210 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112108]
+Cabezazo
+
+## POINTER 2212 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1264986722]
+Cornada giratoria
+
+## POINTER 2214 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1264986722]
+Meneo de cuernos
+
+## POINTER 2216 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263121371]
+Corte de tijeras
+
+## POINTER 2218 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263121703]
+Tijeretazo
+
+## POINTER 2220 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263121703]
+Gran corte de tijeras
+
+## POINTER 2222 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263121371]
+Placaje
+
+## POINTER 2224 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133694]
+Apuñalamiento de aguijón
+
+## POINTER 2226 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133694]
+Golpe de brazo
+
+## POINTER 2228 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263121371]
+Tajo de espada
+
+## POINTER 2230 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263121371]
+Ataque centrado
+
+## POINTER 2232 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263121371]
+Cañonazo
+
+## POINTER 2234 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133694]
+Despedazar
+
+## POINTER 2236 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133694]
+Combo despedazador
+
+## POINTER 2238 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Corte de tijeras
+
+## POINTER 2240 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Dentellada
+
+## POINTER 2242 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Agarrar y morder
+
+## POINTER 2244 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Cuchillada venenosa
+
+## POINTER 2246 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Cuchillada lapidadora
+
+## POINTER 2248 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Ataque hoja
+
+## POINTER 2250 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Ataque hoja giratorio
+
+## POINTER 2252 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133694]
+Pelusa
+
+## POINTER 2254 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133694]
+Paso bajo y salto
+
+## POINTER 2256 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133952]
+Cortadora de hojas muertas
+
+## POINTER 2258 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263121703]
+Fluido corporal
+
+## POINTER 2260 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Embestida
+
+## POINTER 2262 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133952]
+Aplastar
+
+## POINTER 2264 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133952]
+Esparcir polen
+
+## POINTER 2266 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133952]
+Esparcir fruta
+
+## POINTER 2268 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133952]
+Esparcir piña
+
+## POINTER 2270 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133952]
+Esparcir bola de nieve
+
+## POINTER 2272 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263134269]
+Ataque de bicho
+
+## POINTER 2274 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263134269]
+Dos golpetazos
+
+## POINTER 2276 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263134269]
+Patada giratoria
+
+## POINTER 2278 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263134269]
+Despegue
+
+## POINTER 2280 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263134269]
+Llamada de auxilio
+
+## POINTER 2282 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Tragar -> Escupir
+
+## POINTER 2284 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Dispersar
+
+## POINTER 2286 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263121371]
+Ataque con tinta
+
+## POINTER 2288 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263134052]
+Disparo de púas
+
+## POINTER 2290 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263134052]
+Ataque de polen
+
+## POINTER 2292 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263134052]
+Ataque rodante
+
+## POINTER 2294 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263134052]
+Ataque de polen
+
+## POINTER 2296 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Ignición
+
+## POINTER 2298 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Apagar
+
+## POINTER 2300 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Daño pequeño
+
+## POINTER 2302 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263121371]
+Tambalear
+
+## POINTER 2304 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Flotar
+
+## POINTER 2306 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263134495]
+Disparado
+
+## POINTER 2308 [t:1;r:3;ru:squallido,parsec,memnoch;user:TheWing;time:1263121371]
+Golpe aéreo
+
+## POINTER 2310 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Abajo
+
+## POINTER 2312 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263134495]
+Pequeño daño + Giro del eje Y
+
+## POINTER 2314 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Rotura de guardia
+
+## POINTER 2316 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Rotura de guardia
+
+## POINTER 2318 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Aturdir
+
+## POINTER 2320 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Encantamiento
+
+## POINTER 2322 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Envenenar
+
+## POINTER 2324 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Contaminación neural
+
+## POINTER 2326 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Parálisis
+
+## POINTER 2328 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Petrificación
+
+## POINTER 2330 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Debilidad
+
+## POINTER 2332 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Arte sellado
+
+## POINTER 2334 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Habilidad sellada
+
+## POINTER 2336 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263112476]
+Dormir
+
+## POINTER 2338 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025400]
+Súper armadura activada
+
+## POINTER 2340 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025400]
+Súper armadura desactivada

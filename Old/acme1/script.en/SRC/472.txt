@@ -1,0 +1,78 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS49_001)It's hard to believe we're 
+really in the capital.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS49_002)The plants are all overgrown... 
+It's gotta be the aer.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS49_003)It's so dense...
+Too much of this stuff
+would kill anybody.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS49_004)We'd definitely be in trouble 
+without that sword.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS49_005)Yeah, stick close to me. 
+Especially you, old man.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS49_006)Hey, I've been on pins and 
+needles since we got here. 
+...Hold my hand, would ya?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS49_007)Gimme a break.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS49_008)Look, monsters got in here!
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS49_009)How?! The barrier is back 
+up and running fine...
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS49_010)They look like they're 
+goin' crazy, like the ones 
+we saw back at Keiv Moc.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS49_011)<STR>(YUR), what is it?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS49_012)Huh? Oh, it's 
+nothing.<PAGE><VOICE>(VS49_013)Let's go. We can't keep <STR>(EST_P) waiting.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS49_014)?
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VS49_015)The lower quarter's at 
+the bottom of that 
+slope. It's his home.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS49_016)...It's...it looks like it's 
+been overrun by the plants...
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS49_017)...

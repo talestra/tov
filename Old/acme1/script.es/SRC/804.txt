@@ -1,0 +1,73 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854744]
+
+¡Muchísimas gracias por
+su ayuda! No sé qué hubiera
+hecho sin ustedes.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854744]
+<STR>(EST_P)
+¡No se preocupe! Seguro
+que usted hubiera hecho
+lo mismo por nosotros.<PAGE>Y parece que todos
+se han divertido
+mientras trabajaban.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290445268]
+<STR>(KAR)
+Yo no...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854744]
+<STR>(RAV)
+Habla por ti...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854744]
+<STR>(JUD)
+¡Ha sido genial!
+He aprendido
+un montón.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854744]
+<STR>(RIT)
+Hemos currado que no veas,
+pero no ha estado tan mal.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854744]
+
+No podemos agradecérselo
+lo suficiente. Ah, como
+muestra de agradecimiento...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854744]
+
+Pueden quedarse
+con las ropas
+que llevan.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290445268]
+<STR>(EST_P)
+Vaya, ¿de verdad?
+¡Gracias!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854744]
+<STR>(RAV)
+M'alegro de tener los pases gratis, de verdá... pero
+los huesos me duelen tanto que creo que me va a dar argo.
+Y como qu'estas ropas no m'hacen mucha ilu...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854744]
+<STR>(KAR)
+Míralo por el lado bueno, <STR>(RAV).
+¡Quedas satisfecho por haber trabajado duro
+y además te han dado estas ropas tan chulas!<PAGE>Yo solo he conseguido
+una toalla de baño...
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290445268]
+<STR>(RAV)
+Mozuelo, algún día
+verás que tó esto
+es parte de madurar.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854744]
+<STR>(KAR)
+¿Ir por ahí con una toalla
+te ayuda a madurar?

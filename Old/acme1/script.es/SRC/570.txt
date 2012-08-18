@@ -1,0 +1,17 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931143]
+<STR>(YUR)
+Nada. Ni rastro del colgante.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931143]
+<STR>(JUD)
+Si se lo llevó la corriente,
+es posible que alguien
+lo haya encontrado ya.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931143]
+<STR>(KAR)
+¿Y si preguntamos por la ciudad?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1284211733]
+<STR>(YUR)
+Supongo que por algún sitio hay que empezar.

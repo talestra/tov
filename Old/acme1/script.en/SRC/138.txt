@@ -1,0 +1,93 @@
+## POINTER 0
+<STR>(YUR)
+Looks like no one's here... No Imperial Knights, thieves, or anyone else!
+
+## POINTER 1
+<STR>(EST_P)
+Maybe they're further in?
+
+## POINTER 2
+<STR>(YUR)
+How far in are we talking, here?
+
+## POINTER 3
+<STR>(KAR)
+It doesn't look like anyone's 
+been here, does it?
+
+## POINTER 4
+<STR>(RIT)
+The information about the underground 
+couldn't have gotten out, could it?
+
+## POINTER 5
+<STR>(EST_P)
+The underground?
+
+## POINTER 6
+<STR>(RIT)
+Recently, an entrance to an underground 
+area was uncovered here.<PAGE>A handful of mages are supposed to be 
+the only people who know about it...
+
+## POINTER 7
+<STR>(YUR)
+But it's okay for us to know this?
+
+## POINTER 8
+<STR>(RIT)
+I don't have much choice if 
+I'm to clear my name, do I?
+
+## POINTER 9
+<STR>(YUR)
+Clear your name, huh...
+
+## POINTER 10
+<STR>(KAR)
+The ground is scratched here.
+
+## POINTER 11
+<STR>(RIT)
+It's not like I would've minded letting the thieves have 
+the ruins above ground after we finished the excavation, 
+but it's a good thing we came here when we did.
+
+## POINTER 12
+<STR>(KAR)
+Well then, we'd better hurry up and follow 
+them. All we have to do is move this?
+
+## POINTER 13
+<STR>(KAR)
+*Huff* *huff*
+
+## POINTER 14
+<STR>(YUR)
+Come on. You have to put 
+your shoulder into it.
+
+## POINTER 15
+<STR>(KAR)
+Um, r-right.
+
+## POINTER 16
+<STR>(KAR)
+Urgh... Huh...
+
+## POINTER 17
+<STR>(YUR)
+Come on, just a little...more...
+
+## POINTER 18
+<STR>(EST_P)
+<STR>(KAR), are you okay?
+
+## POINTER 19
+<STR>(KAR)
+S-sure, that was a cinch... 
+*huff* *huff*
+
+## POINTER 20
+<STR>(RIT)
+Okay, here we go.

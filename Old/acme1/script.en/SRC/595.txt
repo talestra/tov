@@ -1,0 +1,87 @@
+## POINTER 0
+Leblanc
+<STR>(YUR) Lowell!
+
+## POINTER 1
+Adecor
+Here now, don't, I say, don't 
+interfere in our duties!
+
+## POINTER 2
+Boccos
+You'd better not keep 
+us from keeping watch!
+
+## POINTER 3
+Leblanc
+Pipe down, you two...!
+
+## POINTER 4
+<STR>(YUR)
+You can always count on 
+Tweedle A and B for a laugh.
+
+## POINTER 5
+Adecor
+I say, what did you say?
+
+## POINTER 6
+Leblanc
+Don't you have something 
+better to do than stand around 
+harassing public servants?
+
+## POINTER 7
+<STR>(YUR)
+You got it all wrong. We found some 
+people helping out the extremists. 
+Thought you might want to know.
+
+## POINTER 8
+Leblanc
+Y-you what?!
+
+## POINTER 9
+Adecor
+I say, this is of utmost importance!
+
+## POINTER 10
+Boccos
+Off we go, Adecor!
+
+## POINTER 11
+Leblanc
+Halt! ...Where did 
+you say they were?
+
+## POINTER 12
+<STR>(YUR)
+Check the alley 
+next to the inn.
+
+## POINTER 13
+Adecor
+I say, this time it's 
+really important!
+
+## POINTER 14
+Boccos
+Here we go again!
+
+## POINTER 15
+Leblanc
+Sorry about earlier.
+
+## POINTER 16
+<STR>(YUR)
+Forget it.
+
+## POINTER 17
+<STR>(RAV)
+Make me proud, Knights!
+
+## POINTER 18
+Mimula
+Release me! I am a 
+noble! How dare you 
+knights...! Ugh!

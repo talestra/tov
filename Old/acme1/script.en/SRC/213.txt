@@ -1,0 +1,128 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VSA1_020)Aww, don't mind me. Do 
+whatever you came to do.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VSA1_021)What should we do about him?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VSA1_022)Do you know any tricks that'll convince 
+us you're worth keeping around?
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VSA1_023)Do I look like some kinda 
+street magician ta you?
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VSA1_024)Hey, you. 
+C'mere a second.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VSA1_025)What? M-me...?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VSA1_026)Huh? What do you 
+want with <STR>(KAR)?
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VSA1_027)Aaah! Don't just 
+leave me here!
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VSA1_028)Show 'im what for, kid!
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VSA1_029)W-why me?
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VSA1_030)O-okay, this isn't funny anymore!
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VSA1_031)Should be any minute now...
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VSA1_032)Aaah!
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VSA1_033)It exploded from the inside!
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VSA1_034)What did you do?!
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VSA1_035)Ya just wait for 'em to let 
+their guard down, give 'em a 
+little poke and then...bam!
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VSA1_036)Jeez... I bet you're 
+great at parties.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VSA1_037)I suppose that was good enough.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VSA1_038)Really?
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VSA1_039)Yes.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VSA1_040)All right...
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VSA1_041)Hey, ya mean I passed? I can stay?
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VSA1_042)A-are you kidding...?
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VSA1_043)It'll be much easier 
+to do things to him if 
+we keep him nearby.
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VSA1_044)Whaddya mean "things...?"
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VSA1_045)...Hadn't thought about that.
+
+## POINTER 26
+<STR>(RAV)
+<VOICE>(VSA1_046)Okay, I just got a little 
+chill up my spine.
+
+## POINTER 27
+<STR>(EST_P)
+<VOICE>(VSA1_047)Well then, Mr. <STR>(RAV), 
+after you.
+
+## POINTER 28
+<STR>(RAV)
+<VOICE>(VSA1_048)Heh...right.

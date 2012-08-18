@@ -1,0 +1,91 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS07_001)Halure... 
+The "City of Blossoms."
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS07_002)Yeah, that's right.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS07_003)Don't they have a barrier here?
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS07_004)Yes, there should be...
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS07_005)You guys haven't been to Halure before, right?
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS07_006)So then you haven't heard 
+about the tree barrier.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS07_007)Tree barrier?
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS07_008)Some blastia fuse to plant life, 
+gain organic qualities and evolve.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS07_009)The tree barrier of Halure is one prime 
+example of this. I read that in a book.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS07_010)Well thank you, professor. 
+So what's happened to this 
+famous barrier?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS07_011)Doesn't look like it's doing much right now.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS07_012)Every year, just before the blossoms are in 
+full bloom, the barrier weakens for a while.<PAGE><VOICE>(VS07_013)It's just that time of year right now, and the 
+monsters took the opportunity to attack...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS07_014)Is that when the barrier went down?
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS07_015)Yeah, the monsters were taken care of, but 
+the tree is slowly starting to decay.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS07_016)Hey!
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS07_017)W-what is it?
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS07_018)Sorry, I've gotta run! 
+Bye!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS07_019)Does that kid ever sit still?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS07_020)So I guess you'll be looking 
+for <STR>(FRE) now, huh, <STR>(EST_P)?
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS07_021)Doesn't she know we need 
+to keep a low profile?<PAGE><VOICE>(VS07_022)And what happened to looking for <STR>(FRE)?

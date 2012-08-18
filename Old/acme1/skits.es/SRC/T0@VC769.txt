@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1251727464]
+¿Qué hacía aquí (FRE)?
+
+## POINTER 1 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1266109741]
+(KAR)
+Ahora que lo pienso,
+¿qué hacía (FRE) en Dahngrest?
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1266109741]
+(KAR)
+El Imperio y la Unión nunca se han llevado bien,
+así que los Caballeros no aparecen por aquí muy a menudo.
+
+## POINTER 3 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020174]
+(YUR)
+Dudo que estén aquí para contemplar las vistas.
+Tiene que tener algo que ver con alguna orden.
+
+## POINTER 4 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020174]
+(EST_P)
+¿Crees que (FRE) estará bien?
+Esa gente estaba siendo muy
+grosera con él.
+
+## POINTER 5 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020174]
+(YUR)
+(FRE) no es ninguna florecilla delicada.
+Puede soportar algo de presión.
+
+## POINTER 6 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020174]
+(YUR)
+No lo olvides. Antes de ser Caballero, tuvo que
+apañárselas en las calles de los barrios bajos.
+
+## POINTER 7 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020174]
+(EST_P)
+Espero que tengas razón...

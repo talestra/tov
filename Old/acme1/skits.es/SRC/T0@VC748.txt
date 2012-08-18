@@ -1,0 +1,33 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1251703558]
+Witcher y (RIT)
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100259]
+(YUR)
+(FRE) dijo que ese mago, Witcher,
+era de Aspio, ¿verdad?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267476858]
+(EST_P)
+¿Ya lo conocías, (RIT)?
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1264125620]
+(RIT)
+Mmmm...
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267281685]
+(KAR)
+¿Cómo que «mmmm»?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100259]
+(RIT)
+Tengo la sensación de haberme cruzado
+con él un par de veces...
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1267402932]
+(RIT)
+Aunque no lo recuerdo muy bien.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267476858]
+(KAR)
+Creo que ya sé por qué Witcher
+estaba tan mosqueado...

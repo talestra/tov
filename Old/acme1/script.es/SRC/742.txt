@@ -1,0 +1,205 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+
+¡Bienvenidos al complejo
+oficial de exámenes del CIAOIC!
+¿Venís a hacer el examen?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1293205415]
+<STR>(RAV)
+Yo, er...
+Ni siquiera sé qué
+decir a eso.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(EST_P)
+Antes de nada, ¿qué
+clase de lugar es este?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+
+¡Aquí puedes sacarte el certificado
+del Congreso Imperial Académico
+de la Organización de
+Investigación Colaborativa!<PAGE>Lo hemos puesto un poco difícil,
+¡pero si apruebas este examen
+conseguirás un doctorado especial!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(RIT)
+¡U-U-Un segundo! CIAOIC... ¿Te refieres
+a la mejor organización de investigación
+de todo el Imperio?<PAGE>¿Esa famosísima organización reconocida por Investigador
+semanal, la mejor revista académica por sus expertas
+evaluaciones y sus presentaciones de investigación?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+
+¡Oh, impresionante!
+Se nota que conoces nuestro
+campo de estudio.<PAGE>Entonces conocerás el
+doctorado Miska, ¿verdad?
+¡Aquí puedes hacer el examen para sacártelo!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(RIT)
+¡Deja de tomarme el pelo! ¡El doctorado
+Miska es el mayor honor que puede
+conseguir un investigador de blastias!<PAGE>¿Te piensas que me voy a creer
+que puedes hacer el examen en
+un lugar así o qué? ¡Lo llevas claro!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1293205415]
+<STR>(KAR)
+Oye, <STR>(YUR).
+¿Es cosa mía o están
+hablando en otro idioma?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1293205415]
+<STR>(YUR)
+Yo tampoco entiendo ni papa.
+Supongo que lo único que podemos
+hacer es esperar y ver qué pasa.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+
+Es cierto que el examen original solo se puede hacer
+en la capital. Sin embargo, nuestra instalación
+ha sido reconocida oficialmente como lugar alternativo.<PAGE>De hecho, fue aquí
+donde yo me saqué
+el doctorado.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(RIT)
+¡¿Me estás diciendo que TÚ eres
+la única persona en el mundo que
+ha conseguido el doctorado Miska?!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+
+Oh, me temo que se me
+ha olvidado presentarme.
+Me llamo Miska Jutalion.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(RIT)
+¡¿Quéééééééé?!
+¡¡No puede ser!!<PAGE>¿Me estás diciendo que eres Miska Jutalion,
+el descubridor de los anticuerpos mágicos?
+¡¿ESE Miska Jutalion?!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1293205624]
+<STR>(KAR)
+¿Es una persona?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1293205624]
+<STR>(YUR)
+Pues eso parece.
+Camina a dos patas,
+¿no?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+Miska
+Sí, soy el mismísimo Miska
+Jutalion, el descubridor
+de los anticuerpos mágicos.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(EST_P)
+Mmmm, ¿<STR>(RIT)?
+No creo que todos hayamos
+entendido la conversación...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(RIT)
+Aaah, vale. Resumiendo, este
+es el investigador de blastias
+más célebre del mundo.<PAGE>Siempre he sentido cierta conexión en lo que
+escribe en sus informes de investigación,
+y sus ideas se parecen mucho a las mías.<PAGE>Jamás lo había visto antes,
+pero supongo que sentía
+que aun así éramos afines.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(JUD)
+¿Y estabas intentando
+sacarte el doctorado Miska?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(RIT)
+La verdad es que nunca me he preocupado por
+premios o títulos, pero siempre he pensado
+que ojalá tuviese el doctorado Miska.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1293206666]
+Miska
+¡Vaya! ¡Me halaga
+que me respetes tanto
+por lo que he hecho!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(RAV)
+Supongo que no hay
+que juzgar a una vaca
+por su apariencia...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1293206666]
+Miska
+En fin, ¿qué me dices?
+¿Te apetece hacer el examen?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(EST_P)
+Ya que estamos aquí,
+¿qué te parece, <STR>(RIT)?
+¡Seguro que sacas matrícula de honor!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(KAR)
+<STR>(EST_P) tiene razón.
+Igualmente no podríamos ir a la capital
+a hacer el examen original.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1293206666]
+<STR>(RIT)
+¿Hace falta alguna cosa para poder hacer
+el examen de certificación? ¿Necesito algo?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+Miska
+Eres muy decidida. Lo sé
+por tu mirada. Me recuerdas
+a mí cuando era joven.<PAGE>Todos lo necesario para
+hacer el examen están escrito
+en esta hoja. No la pierdas.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+Miska
+Una vez vuelvas con
+esos cinco libros,
+podrás hacer el examen.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+<STR>(RIT)
+«La aldea de la alfombra floral».
+«Reflejos del aroma del mar».
+«Plan urbano para ciudades bulliciosas».
+<PAGE>«La leyenda durmiente en las ardientes arenas».
+«Contra un telón de nueva esperanza».
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1294516807]
+Miska
+Piensa dónde pueden estar esos libros,
+así como en la primera parte del examen.
+¡Buena suerte! ∀
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1293210025]
+<STR>(YUR)
+Ya que estamos buscando libros,
+deberíamos echar un vistazo en sitios
+donde normalmente hay cosas para leer.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1293210033]
+<STR>(RIT)
+Claro. Demos una vuelta
+a ver si encontramos
+un buen lugar en donde buscar.

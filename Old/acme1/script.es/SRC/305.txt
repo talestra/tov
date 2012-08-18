@@ -1,0 +1,126 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(YUR)
+<VOICE>(VS27_024)¿Echas de menos el castillo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298391546]
+<STR>(EST_P)
+<VOICE>(VS27_025)No, solo... pensaba
+en salir a tomar el aire.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282293219]
+<STR>(EST_P)
+<VOICE>(VS27_026)No me puedo quitar de la cabeza
+lo que me dijo Phaeroh.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(YUR)
+<VOICE>(VS27_027)Oh, ya. ¿Cómo era?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298391546]
+<STR>(EST_P)
+<VOICE>(VS27_028)«El insulso veneno de este
+mundo debe ser purgado».
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282293219]
+<STR>(YUR)
+<VOICE>(VS27_029)El veneno del mundo. Mmm...<PAGE>
+<VOICE>(VS27_030)Pues sí que el mundo está
+lleno de pesimistas, sí.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(YUR)
+<VOICE>(VS27_031)Pues que sepas que a mí
+no me pareces ningún veneno.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278242515]
+<STR>(EST_P)
+<VOICE>(VS27_032)¿Intentas animarme con eso?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(YUR)
+<VOICE>(VS27_033)Eh, solo intento ser sincero contigo.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278242457]
+<STR>(EST_P)
+<VOICE>(VS27_034)Je, je. Creo que me siento un poco mejor.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(EST_P)
+<VOICE>(VS27_035)Oye...
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(EST_P)
+<VOICE>(VS27_036)<STR>(YUR), mira.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(YUR)
+<VOICE>(VS27_037)¿Mmm?
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278242457]
+<STR>(EST_P)
+<VOICE>(VS27_038)Esa es Gran Vesperia.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(YUR)
+<VOICE>(VS27_039)La estrella que más
+brilla en la noche.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298391546]
+<STR>(EST_P)
+<VOICE>(VS27_040)Existe una vieja historia
+acerca de esa estrella:
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298391546]
+<STR>(EST_P)
+<VOICE>(VS27_041)
+«En la antigüedad, ocurrió
+un gran cataclismo que
+sumió el mundo en la ruina.<PAGE>
+<VOICE>(VS27_042)
+Se perdieron incontables vidas,
+mientras la gente luchaba por resistir
+el desastre que los acechaba.<PAGE>
+<VOICE>(VS27_043)Con la humanidad presa de la
+desesperanza y ya sin fuerzas,
+aparecieron dos hermanos.<PAGE>
+<VOICE>(VS27_044)El hermano y la hermana lucharon
+juntos contra la calamidad y salvaron
+el mundo de la aniquilación.<PAGE>
+<VOICE>(VS27_045)A la hermana la llamaron
+Hija de la Luna Llena. Después de
+la batalla, se quedó en la tierra.<PAGE>
+<VOICE>(VS27_046)A su hermano lo llamaron
+Gran Vesperia, y ascendió a los
+cielos para velar por el mundo».
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(EST_P)
+<VOICE>(VS27_047)Fin.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(YUR)
+<VOICE>(VS27_048)Vaya, pues le has puesto a nuestro
+gremio un nombre con mucha honra.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(EST_P)
+<VOICE>(VS27_049)Ahora que conoces la historia,
+deberías esforzarte para que tu gremio
+brille tanto como la estrella.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298391546]
+<STR>(YUR)
+<VOICE>(VS27_050)Sí. Tendremos que
+contárselo a <STR>(KAR).<PAGE>
+<VOICE>(VS27_051)Sin duda tendremos que
+estar a la altura del nombre.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298391546]
+<STR>(YUR)
+<VOICE>(VS27_052)Me empiezo a ir. Tú también
+deberías, o <STR>(RIT) empezará
+a preocuparse por ti.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1277376884]
+<STR>(EST_P)
+<VOICE>(VS27_053)Vale.

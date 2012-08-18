@@ -1,0 +1,241 @@
+## POINTER 0
+<STR>(KAR)
+Hello!
+
+## POINTER 1
+Nobis
+Hey, it's Brave Vesperia!
+Thanks for your help the
+other time.
+
+## POINTER 2
+<STR>(YUR)
+So, what happened
+to the Everlight after
+that?
+
+## POINTER 3
+Nobis
+I haven't heard
+a thing since then...<PAGE>On that note, do you think
+I can ask you to gather some
+information for me again?
+
+## POINTER 4
+Nobis
+A fiery soul into a sea of flames.
+
+## POINTER 5
+<STR>(KAR)
+It's you...!
+
+## POINTER 6
+Nobis
+Hello there.
+I apologize for not staying in touch.
+
+## POINTER 7
+<STR>(YUR)
+Why would you? All we did 
+was deliver a package.
+
+## POINTER 8
+Nobis
+Ah, that's a good point.
+
+## POINTER 9
+<STR>(KAR)
+We heard from Yu that there's something 
+you'd like to have done?
+
+## POINTER 10
+Nobis
+Really? Oh, I would 
+be so grateful..
+
+## POINTER 11
+<STR>(JUD)
+Thank goodness for friends, right?
+
+## POINTER 12
+Nobis
+Actually...I have a job for 
+you, if you're interested.
+
+## POINTER 13
+<STR>(KAR)
+A job? Huh? 
+For us?
+
+## POINTER 14
+Nobis
+I've actually heard your guild mentioned 
+here and there recently.<PAGE>I thought you could 
+probably find the 
+answer I seek.
+
+## POINTER 15
+<STR>(KAR)
+So you want 
+to hire Brave 
+Vesperia?
+
+## POINTER 16
+Nobis
+Yes, that's right. I'd actually 
+like you to go gather information 
+about a certain something.
+
+## POINTER 17
+<STR>(YUR)
+Gather information? Sounds like another 
+job that just keeps going and going...
+
+## POINTER 18
+Nobis
+Well, I tried to do it myself, and I've 
+also asked whatever guilds would help...<PAGE>So far though, there haven't 
+been any promising leads...<PAGE>However...I cannot afford to be dissuaded. 
+I must obtain what I seek at any cost.
+
+## POINTER 19
+<STR>(JUD)
+This sounds pretty...serious.
+
+## POINTER 20
+Nobis
+Yes. For me it is a matter 
+of great importance.
+
+## POINTER 21
+<STR>(KAR)
+Great importance, huh...? So what 
+is it you're looking for?
+
+## POINTER 22
+Nobis
+An ore of the metal known as Everlight.
+
+## POINTER 23
+<STR>(KAR)
+...But that's...
+
+## POINTER 24
+<STR>(JUD)
+The girl who asked for our help 
+back in Dahngrest...her necklace 
+was made of Everlight.
+
+## POINTER 25
+<STR>(YUR)
+She did say something about her dad 
+digging it up in a mine somewhere.
+
+## POINTER 26
+Nobis
+Really...?
+
+## POINTER 27
+<STR>(JUD)
+Yes. We might be able to get 
+more information if we asked 
+her a few questions.
+
+## POINTER 28
+Nobis
+Splendid. You will of 
+course be paid well for 
+useful information.<PAGE>Allow me to explain.
+
+## POINTER 29
+<STR>(KAR)
+You really need this Everlight... 
+What are you going 
+to use it for?
+
+## POINTER 30
+Nobis
+A dream I would give my life for...
+
+## POINTER 31
+<STR>(KAR)
+...A dream you'd...give your life for...
+
+## POINTER 32
+Nobis
+Sorry, I shouldn't bore 
+you with personal matters.
+Will you do this for me?
+
+## POINTER 33
+<STR>(YUR)
+Give us just a minute, would you?<PAGE>Can we really accept a job without 
+asking the Union first?
+
+## POINTER 34
+<STR>(KAR)
+The Union doesn't keep 
+other guilds from doing 
+their own work.<PAGE>The Union system for getting jobs 
+is just to help out guilds that 
+couldn't get work on their own.
+
+## POINTER 35
+<STR>(JUD)
+So we just 
+moved up as 
+a guild.
+
+## POINTER 36
+<STR>(KAR)
+Exactly. And this way, there's 
+no finder's fee, so we get 
+all the money ourselves!
+
+## POINTER 37
+<STR>(YUR)
+Ah, I see... All right...
+
+## POINTER 38
+Accept job?
+Yes
+No
+
+## POINTER 39
+<STR>(YUR)
+Well, guess we'd better see if
+we can't get this thing done.
+
+## POINTER 40
+Nobis
+Oh, really?
+
+## POINTER 41
+<STR>(KAR)
+We couldn't possibly refuse to help with 
+something that's so important to you!<PAGE>We accept this task in the name 
+of the brightest star in the 
+night sky--Brave Vesperia.
+
+## POINTER 42
+Nobis
+Thank you. I'm counting on you.<PAGE>I'll be waiting here in this 
+town for a while in case 
+you find some good news.
+
+## POINTER 43
+<STR>(YUR)
+Sorry, but we have
+matters we need to
+attend to.
+
+## POINTER 44
+Nobis
+I see...
+You are a well-reputed
+guild afterall.<PAGE>But if you find some free time, will you
+come back and listen to what I have to say?
+
+## POINTER 45
+<STR>(YUR)
+Sure thing.

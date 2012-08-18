@@ -1,0 +1,245 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS38_141)It's been another long 
+day. Let's save the 
+manhunt for tomorrow.
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VS38_142)I second that. How 
+long's it been since I've 
+slept in a proper bed?
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS38_143)Well, I suppose we can 
+all stay at my place...
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS38_144)Wait. There's something I 
+want to take care of first.
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS38_145)...You mean me.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS38_146)<STR>(KAR).
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS38_147)This is a guild thing. Best 
+for us not to get involved.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS38_148)I've thought about it a 
+lot. What we should 
+do, like, as a guild...<PAGE><VOICE>(VS38_149)And I realized...<PAGE><VOICE>(VS38_150)We have to figure out a 
+few things if we're going 
+to keep this guild going,
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS38_151)It sounds like you've 
+decided what we should do.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS38_152)Well, we said it before. 
+The most important thing 
+is obeying the guild's laws.<PAGE><VOICE>(VS38_153)Those who break the laws 
+suffer strict punishment. 
+Even if they're friends or family.<PAGE><VOICE>(VS38_154)They say that's the source
+of a guild's pride.
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS38_155)Yes...
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS38_156)So what I'm thinking is...<PAGE><VOICE>(VS38_157)We all have to 
+receive punishment.
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS38_158)What do you mean?
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS38_159)I didn't know that <STR>(JUD) 
+was fighting for our 
+planet, all on her own.<PAGE><VOICE>(VS38_160)But even though I didn't 
+know, I still failed to 
+help a fellow guild member.<PAGE><VOICE>(VS38_161)So I gotta accept 
+my punishment.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS38_162)<STR>(YUR).
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS38_163)Me?
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS38_164)Maybe you were trying to "follow 
+your own path," but you still 
+kept things hidden from us.<PAGE><VOICE>(VS38_165)There's no way that can be 
+for the good of the guild.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS38_166)Well...
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS38_167)So you gotta be punished, too.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS38_168)Now he's stretching it.
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS38_169)...The laws are important.<PAGE><VOICE>(VS38_170)What if someone does the 
+right thing, but still breaks the 
+law. Should they be punished?<PAGE><VOICE>(VS38_171)To be honest, I 
+just don't know yet...
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS38_172)So that's why we should all 
+just accept our punishment, 
+and start over from scratch.<PAGE><VOICE>(VS38_173)What do you think?
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS38_174)I can't promise I won't have 
+my secrets in the future.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS38_175)Well, if that's the way it is--if 
+you can't trust us--then 
+there's nothing you can do.<PAGE><VOICE>(VS38_176)That would be my fault.
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS38_177)And what if I destroy a 
+blastia that our guild was 
+planning on using again?<PAGE><VOICE>(VS38_178)That would be breaking the 
+law that says I should act 
+in the interest of the guild.
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS38_179)But you'd also be acting for 
+the sake of the world.<PAGE><VOICE>(VS38_180)Guilds aren't there just so 
+people can obey their laws.
+I think we can let that slide.
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS38_181)Um, doesn't that sort of 
+make your laws meaningless?
+
+## POINTER 27
+<STR>(RAV)
+<VOICE>(VS38_182)Hah hah hah. I've never heard 
+of a guild like this before.<PAGE><VOICE>(VS38_183)But you've got me interested, 
+I'll give ya that much.
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS38_184)Heh heh heh.
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS38_185)<STR>(KAR), you're just full of surprises.<PAGE><VOICE>(VS38_186)I'd thought plenty about myself 
+and what I should be doing...<PAGE><VOICE>(VS38_187)But I might not have 
+considered how my actions 
+would affect you guys.<PAGE><VOICE>(VS38_188)This is a way of settling things 
+I didn't even realize existed.
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS38_189)I...I just wanted to keep 
+traveling with all of you.<PAGE><VOICE>(VS38_190)I just wanted each of our 
+own paths to be the 
+same as Brave Vesperia's.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS38_191)Heh, sounds all right with me.<PAGE><VOICE>(VS38_192)You heard the man, <STR>(JUD_P). I 
+guess that's where we stand.
+
+## POINTER 32
+<STR>(JUD)
+<VOICE>(VS38_193)You really are some of 
+the oddest people I've 
+ever met... But...<PAGE><VOICE>(VS38_194)I suppose I can manage 
+to put up with you.
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS38_195)All right then, one more time. 
+Brave Vesperia, fall out!
+
+## POINTER 34
+<STR>(RIT)
+<VOICE>(VS38_196)They're just making it up 
+as they go, aren't they? 
+Is that all a guild is?
+
+## POINTER 35
+<STR>(RAV)
+<VOICE>(VS38_197)Heh, the Don ran his guild 
+just a teensy bit differently.
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS38_198)There's something beautiful 
+about this way, though.
+
+## POINTER 37
+<STR>(RAV)
+<VOICE>(VS38_199)So, what about 
+the punishment?
+
+## POINTER 38
+<STR>(KAR)
+<VOICE>(VS38_200)Oh yeah! I almost forgot. Umm...
+
+## POINTER 39
+<STR>(RIT)
+<VOICE>(VS38_201)Looks like you guys are on 
+Krityan researcher detail. 
+We'll be relaxing at my place.
+
+## POINTER 40
+<STR>(KAR)
+<VOICE>(VS38_202)Hey! Why do you 
+get to decide...?
+
+## POINTER 41
+<STR>(RIT)
+<VOICE>(VS38_203)Excuse me? Did I 
+hear a complaint?
+
+## POINTER 42
+<STR>(YUR)
+<VOICE>(VS38_204)Hah hah. 
+No ma'am.
+
+## POINTER 43
+<STR>(JUD)
+<VOICE>(VS38_205)No.
+
+## POINTER 44
+<STR>(KAR)
+<VOICE>(VS38_206)Uh-uh...

@@ -1,0 +1,103 @@
+## POINTER 0
+Wonder Chef
+It seems that you've managed to
+gather all of my recipes, and you've
+studied them diligently!<PAGE>My eyes have not deceived me. 
+All of you are now worthy to stand 
+atop the stage of glory!
+
+## POINTER 1
+<STR>(KAR)
+Huh?
+
+## POINTER 2
+Wonder Chef
+Before long, a cooking battle will be 
+held, in order to promote goodwill 
+between the Empire and the Guilds.<PAGE>I'd like to nominate you 
+to represent the Guilds.
+
+## POINTER 3
+<STR>(YUR)
+A cooking battle, 
+eh? Why not enter, 
+yourself?
+
+## POINTER 4
+Wonder Chef
+We chefs have our own
+competition against the
+chefs of the imperial court. <PAGE>The competition you will be
+appearing in is an exhibition match.
+
+## POINTER 5
+<STR>(RAV)
+Ya say ya compete against the 
+imperial chefs every year? 'Sfirst 
+I ever heard of that.
+
+## POINTER 6
+Wonder Chef
+In the kitchen, we chefs act with fairness and 
+equality. Our interactions with the imperial chefs 
+have always taken place behind closed doors.
+
+## POINTER 7
+<STR>(EST_P)
+With the recent cooperation between the 
+Empire and the Guilds, it's become possible 
+for you to do a public competition.
+
+## POINTER 8
+Wonder Chef
+What do you say? Surely I've 
+convinced you to enter?
+
+## POINTER 9
+<STR>(KAR)
+It's a chance to improve our 
+guild's reputation...but it would 
+be terrible if we lost...
+
+## POINTER 10
+Wonder Chef
+Stop making excuses 
+and just take this!
+
+## POINTER 11
+<STR>(KAR)
+Uhh... I don't know 
+about this...
+
+## POINTER 12
+Wonder Chef
+Fear not! Your opponent 
+is an amateur.<PAGE>And what's more, with what I'm about to give 
+you, victory will surely be within your grasp. 
+I present to you now...the ultimate dish!
+
+## POINTER 13
+Wonder Chef
+If you use that dish, along with all of my recipes 
+that you've mastered so far, surely nothing will stand 
+in the way of you becoming first-class chefs!<PAGE>Now go! Waste not a single moment! 
+Your training awaits!<PAGE>I'll be waiting for you on the stage of 
+glory, in Dahngrest's Cooking Coliseum!
+
+## POINTER 14
+<STR>(KAR)
+Wow, a cooking battle...
+
+## POINTER 15
+<STR>(JUD)
+Sounds like fun.
+
+## POINTER 16
+<STR>(EST_P)
+Promoting goodwill between the Empire 
+and the Guilds is important!
+
+## POINTER 17
+<STR>(YUR)
+Well then, it sounds like we'll need to pay 
+a visit to Dahngrest sometime soon.

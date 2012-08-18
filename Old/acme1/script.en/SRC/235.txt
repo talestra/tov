@@ -1,0 +1,70 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS22_500)<STR>(YUR)! It's terrible!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS22_501)Aw, man... 
+Just let me sleep...
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS22_502)Ragou, he, he...!
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS22_503)What did Ragou do?
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS22_504)They say he used his 
+standing in the Council 
+to reduce his charges!<PAGE><VOICE>(VS22_505)It looks like he's going to get 
+off with only a minor drop in 
+rank! After everything he did!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS22_506)This has gotta be a joke.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS22_507)It's not a joke! 
+It's the truth!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS22_508)So this is how the 
+empire works now, huh? 
+Damn it, this is not funny.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS22_509)What do we do, <STR>(YUR)?
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS22_510)Hmmm... I don't know.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS22_511)How can he not 
+get punished?!<PAGE><VOICE>(VS22_512)Wait! If we tell <STR>(EST_P), 
+maybe she can do 
+something about it!
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS22_513)Hey, don't go giving the 
+Princess too much trouble!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS22_514)Damn it. 
+What's <STR>(FRE) 
+doing, anyway?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS22_515)I wonder if he's at 
+his post right now...

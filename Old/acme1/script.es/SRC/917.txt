@@ -1,0 +1,89 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+<STR>(RIT)
+¡Quiero verlo, quiero verlo!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295116655]
+<STR>(YUR)
+¿Eh? ¿El qué?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+<STR>(RIT)
+¡Están haciendo síntesis!
+¿No quieres verlo tú también?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+<STR>(YUR)
+Yo, mmm, pues no...
+No me interesa demasiado...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+<STR>(RIT)
+Ugh, ¿lo dices en serio? ¡¿Es que ya a
+nadie le interesa aprender cosas nuevas?!<PAGE>¡Venga, por favor! ¡Déjame ver
+dónde se hacen las síntesis!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+
+Mmm... Me encantaría, pero eso significaría
+desvelarte grandes secretos comerciales...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952424]
+<STR>(RIT)
+¡Por favor!
+¡Somos amigos de tu jefa!<PAGE>¡No iremos por ahí contando
+secretos! ¡Lo prometemos!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1295116655]
+
+Mmm... Bien, espera un momento.
+Voy a asegurarme de que
+no haya ningún problema.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1295116655]
+<STR>(RIT)
+¡¿De verdad?! 
+¡Gracias!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+
+Así que todo se reduce
+a un pequeño quid pro quo.<PAGE>Si nos puedes traer ○○○○, te enseñaremos
+el lugar donde hacemos las síntesis.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+<STR>(RIT)
+Guau, ○○○○...<PAGE>Algo he oído, pero nunca
+lo he visto con mis ojos...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+
+Si encuentras ○○○○, 
+ve a Capua Torim.<PAGE>Lo puedes dejar en la oficina
+comercial de Fortuna Mercantil.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1295116655]
+<STR>(RIT)
+Entendido.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+<STR>(YUR)
+¿Y qué es ○○○○?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+<STR>(RIT)
+Aumenta la eficiencia del proceso de
+conversión de aer para núcleos de blastia.<PAGE>Es como una especie
+de adaptador.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+<STR>(YUR)
+Mmm, ¿forma parte
+de un blastia?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952368]
+<STR>(RIT)
+¡Sí! ¡Lo que significa que utilizan
+blastias para el trabajo que hacen aquí!<PAGE>¡Quiero verlo! ¡Tengo más
+ganas de verlo que antes!<PAGE>¡Muy bien!
+¡Vamos a buscar
+ese ○○○○!

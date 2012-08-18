@@ -1,0 +1,41 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251554266]
+Gremios
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597039]
+(YUR)
+La mujer que nos ha indicado adónde ir...
+Ha dicho que estaba en un gremio, ¿verdad?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1286139859]
+(EST_P)
+Era la señorita Kaufman, de Fortuna Mercantil.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597039]
+(YUR)
+Madre mía... Renunciar a sus derechos
+como ciudadanos del Imperio para...
+vivir libres.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597039]
+(EST_P)
+¿Te interesan los gremios, (YUR)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597039]
+(YUR)
+¿Interesarme? Qué va. Es solo que nunca
+he tenido mucho contacto con ellos.
+
+## POINTER 6 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1256410430]
+(YUR)
+En la capital no había ningún gremio con agallas
+para rechazar la protección de los Caballeros.
+
+## POINTER 7 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266284285]
+(EST_P)
+Puede que nos encontremos con mucha gente
+de los gremios durante este viaje.
+
+## POINTER 8 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266284285]
+(YUR)
+Espero que no sean tan agresivos
+como aquella mujer.

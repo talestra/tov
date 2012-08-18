@@ -1,0 +1,69 @@
+## POINTER 0
+<STR>(RAV)
+Better stop plodding along like a zombie, 
+or you'll only make yourself more tired!
+
+## POINTER 1
+<STR>(KAR)
+How are you in such good spirits?
+
+## POINTER 2
+<STR>(YUR)
+Some people take pleasure 
+in the suffering of 
+others...
+
+## POINTER 3
+<STR>(RIT)
+Why I oughta...
+
+## POINTER 4
+<STR>(YUR)
+Don't waste your energy.
+
+## POINTER 5
+<STR>(RIT)
+That sort of peppiness simply isn't healthy... 
+Hey, did you hear a voice?
+
+## POINTER 6
+<STR>(EST_P)
+No...not at all...
+
+## POINTER 7
+<STR>(RIT)
+By the way, why 
+were you in this 
+desert before?
+
+## POINTER 8
+<STR>(JUD)
+I used to live in a town up in the 
+mountains to the north of here. Together 
+with my friend Ba'ul.<PAGE>So I sometimes came down 
+near the desert.
+
+## POINTER 9
+<STR>(RIT)
+All the way to the desert...?
+
+## POINTER 10
+<STR>(JUD)
+Anyway, we hardly have time 
+to look for anything out here, 
+what with this heat...
+
+## POINTER 11
+<STR>(YUR)
+Seriously...if we 
+run out of water, 
+we'll be goners...
+
+## POINTER 12
+<STR>(KAR)
+We need to find something 
+like a clue soon...
+
+## POINTER 13
+<STR>(EST_P)
+Yes...

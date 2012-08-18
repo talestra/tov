@@ -1,0 +1,64 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1280777691]
+<STR>(YUR)
+Este sitio está hasta
+el cuello de Caballeros.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1280777515]
+<STR>(JUD)
+Tendremos que escapar por el puerto.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527652]
+<STR>(KAR)
+Pero ¿qué haremos si el puerto también está bloqueado?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1284695105]
+<STR>(RIT)
+El paso por la caverna
+de Cados está cortado.<PAGE>Si tenemos que salir de aquí, diría
+que el puerto es nuestra mejor opción.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1284695105]
+<STR>(KAR)
+Escapar por el mar puede
+que sea lo más adecuado, sí.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1280777515]
+<STR>(YUR)
+Exacto.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1284695105]
+<STR>(RIT)
+A todo esto, ¿dónde se ha metido el viejales?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284695105]
+<STR>(YUR)
+No te preocupes por él,
+ya volverá tarde o temprano.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1280828076]
+<STR>(JUD)
+Sí. Es el tipo de persona que aparece cuando
+empiezas a sentirte aliviado de que no esté.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1280835318]
+Sodia
+¡<STR>(YUR) Lowell,
+esto se acaba aquí!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1284695105]
+Witcher
+Mi señora <STR>(EST_P), tenéis que
+volver con nosotros. El capitán
+<STR>(FRE) está preocupado por vos.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1280777515]
+<STR>(EST_P)
+Pero yo... yo...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1280777515]
+<STR>(RIT)
+¡<STR>(EST_P) no va a volver con vosotros!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1284695130]
+<STR>(YUR)
+Genial, ¡vámonos pitando al puerto!

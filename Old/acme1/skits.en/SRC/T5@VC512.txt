@@ -1,0 +1,62 @@
+## POINTER 0
+Pouty (EST_P)
+
+## POINTER 1
+(EST_P)
+I love dinner cooked outside 
+over a campfire! ♪ Maybe it's 
+the spice of the stars...
+
+## POINTER 2
+(YUR)
+The spice of the stars, 
+huh? Heh, maybe so.
+
+## POINTER 3
+(RAP)
+*Woof*
+
+## POINTER 4
+(KAR)
+Nah, the food you get at an 
+inn in town is way better!
+
+## POINTER 5
+(RAV)
+The pretty young lady says somethin' 
+nice, and ya gotta go kill the mood!
+
+## POINTER 6
+(RAP)
+*Whine...*
+
+## POINTER 7
+(KAR)
+Wait, no... But...
+
+## POINTER 8
+(RIT)
+Food is food, no matter where 
+you eat it! It's all the same 
+mush in your stomach, anyway.
+
+## POINTER 9
+(RAV)
+And there's our little ray of 
+sunshine to chime in with somethin' 
+even more insensitive!
+
+## POINTER 10
+(EST_P)
+No, it's okay... You're right. Inns 
+do have better food, and it 
+doesn't matter where you eat...
+
+## POINTER 11
+(YUR)
+Aw, look, you made (EST_P) all pouty!
+
+## POINTER 12
+(RIT)
+Er, no, I mean, I, you see...
+Well, I guess... ...Sorry.

@@ -1,0 +1,155 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760141]
+<STR>(EST_P)
+¡Ah!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(RIT)
+¿Y ahora qué te pasa?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(EST_P)
+Estas flores son tan bonitas...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(RAV)
+¿Mmm? Anda, pero si es
+una flor de cyrtanthus.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(YUR)
+Sabes mucho de plantas,
+¿no, viejales?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:memnoch;time:1287312445]
+<STR>(RAV)
+Oh, es culturilla general. ♪
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(RIT)
+Mmpf. ¿Y cómo
+se llama esa?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287912166]
+<STR>(RAV)
+¿Ja? Un segundín, esa es...
+un tulipán Darwin.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(RIT)
+¿Y esa?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760141]
+<STR>(RAV)
+Por qué, mm... Una,
+mm... ¿flor arcoiris?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760141]
+<STR>(RIT)
+No. Nadesico carmesí y callicarpa.
+Menudo botánico estás hecho.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(RAV)
+Es que justamente esas no las conozco.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1290373215]
+<STR>(EST_P)
+Parece que solo
+conoces la
+flor de cyrtanthus.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(RAV)
+No, no, 
+de verdá que...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760141]
+<STR>(YUR)
+Y entonces, ¿cómo es que conoces
+las flores solanáceas esas?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(RAV)
+¡Argh! ¿Me queréis escuchar?
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(KAR)
+A mí me parece que tienes una razón especial.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287234625]
+<STR>(RAV)
+Veréis... Las solanáceas son unas flores que
+le solían gustar a un colega de los Caballeros.<PAGE>Su habitación siempre
+estaba repleta d'ellas.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(YUR)
+Anda, pero si tenías
+un par de amigos y todo.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(RAV)
+No lo digas como si te sorprendiese.
+Er pobre viejo <STR>(RAV) s'acurrucará y
+se morirá si lo dejas más solo que la una.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163496]
+<STR>(JUD)
+Me pregunto qué hay que decir
+cuando un hombre empieza a
+quejarse como un crío.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760141]
+<STR>(RAV)
+Pues dices: «Oh, <STR>(RAV), tontaina,
+pero si eres adorable».
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:memnoch;time:1287312445]
+<STR>(JUD)
+Ja... Esa no es la palabra que emplearía.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760141]
+<STR>(RAV)
+¡Argh! <STR>(JUD), cariñín,
+eres tan fría como un témpano.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163998]
+<STR>(RIT)
+Madre mía...
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163998]
+<STR>(EST_P)
+Es un poco como <STR>(FRE) y <STR>(YUR),
+el tener un amigo que está en
+los Caballeros y eso.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760141]
+<STR>(RAV)
+Cielos, no se puede comparar con el
+increíble peazo d'amistad que tienen
+esos dos chavales, pero sí. Éramos compis.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760141]
+<STR>(YUR)
+No creo que mi amistad con
+<STR>(FRE) sea tan «increíble».
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287164589]
+<STR>(RAV)
+¿De verdá? Pero la joventú es
+una cosa efímera pa tós nosotros.
+Aunque esa amistad acabó.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760141]
+<STR>(EST_P)
+¿Os peleasteis
+por algo?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760141]
+<STR>(RAV)
+Mm, sí, argo así.<PAGE>¿Serías tan amable de coger
+unas cuantas pa mí, señorita?
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287163998]
+<STR>(EST_P)
+¿Mmm? Oh, por supuesto.

@@ -1,0 +1,157 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280566894]
+<STR>(FRE)
+<VOICE>(VS32_106)¿Por qué no te sientas?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280566894]
+<STR>(YUR)
+<VOICE>(VS32_107)¿No decías que teníamos que hablar?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283426261]
+<STR>(FRE)
+<VOICE>(VS32_108)Dime... ¿Por qué has matado a Cumore?
+Sabes que no es cosa nuestra
+juzgar los crímenes de otros.<PAGE>
+<VOICE>(VS32_109)¡Iba a ser castigado
+según las leyes!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409904]
+<STR>(YUR)
+<VOICE>(VS32_110)¡¿Y qué puñeteras leyes crees
+que lo habrían castigado?!<PAGE>
+<VOICE>(VS32_111)¿Las mismas leyes que
+no pudieron castigar a Ragou?
+Lo llevas claro.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280571101]
+<STR>(FRE)
+<VOICE>(VS32_112)<STR>(YUR), tú...
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280740649]
+<STR>(YUR)
+<VOICE>(VS32_113)Las leyes siempre las han
+usado para sí aquellos que
+controlan el cotarro.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409904]
+<STR>(FRE)
+<VOICE>(VS32_114)Eso no justifica que la gente
+se tome la justicia por su mano,
+¡o que tú apliques tus propias leyes!<PAGE>
+<VOICE>(VS32_115)Si las leyes tienen la culpa,
+arreglarlas es lo primero.<PAGE>
+<VOICE>(VS32_116)¡Por esa misma razón sigo en
+los Caballeros Imperiales!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409904]
+<STR>(YUR)
+<VOICE>(VS32_117)Pero no puedes negar que
+se han salvado vidas gracias
+a la muerte de esos cabrones.<PAGE>
+<VOICE>(VS32_118)¿O acaso le dirías a esa gente:
+«Siento que tengáis que morir hoy, pero
+os prometo que pronto cambiarán las cosas»?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280571101]
+<STR>(FRE)
+<VOICE>(VS32_119)¡Eso no es lo que estoy diciendo!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409904]
+<STR>(YUR)
+<VOICE>(VS32_120)Están ahí afuera, por si no te das cuenta.
+Gente tan malvada que simplemente
+hace daño a los demás.<PAGE>
+<VOICE>(VS32_121)¿Qué puede hacer una
+persona normal sino ser
+víctima de esa gente?<PAGE>
+<VOICE>(VS32_122)Sabes que pasaba exactamente
+lo mismo con los habitantes
+de los barrios bajos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409904]
+<STR>(FRE)
+<VOICE>(VS32_123)Aun así, <STR>(YUR), lo que estás
+haciendo no es lo correcto.<PAGE>
+<VOICE>(VS32_124)¿Intentas impartir tu
+justicia a todos los
+villanos del mundo?<PAGE>
+<VOICE>(VS32_125)Así te estás comportando
+como un criminal del montón.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409904]
+<STR>(YUR)
+<VOICE>(VS32_126)Admito que es verdad.
+Y ya he tomado mi decisión.<PAGE>
+<VOICE>(VS32_127)Asesinar es un crimen.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409904]
+<STR>(FRE)
+<VOICE>(VS32_128)Y aun sabiendo eso, pretendes
+mancharte las manos.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280740649]
+<STR>(YUR)
+<VOICE>(VS32_129)¿Que lo pretendo?
+Ya lo he hecho.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280571101]
+<STR>(FRE)
+<VOICE>(VS32_130)Así que este es el camino que has elegido.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280571101]
+<STR>(YUR)
+<VOICE>(VS32_131)No me hagas repetirlo.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280571101]
+<STR>(FRE)
+<VOICE>(VS32_132)No lo haré. Pero parece
+que todavía no comprendes
+todo el peso de tus decisiones.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280740649]
+<STR>(FRE)
+<VOICE>(VS32_133)Como Caballero, no puedo
+dejar pasar tus crímenes.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280571101]
+Sodia
+<VOICE>(VS32_134)Capitán, por fin le encuentro.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280571101]
+<STR>(FRE)
+<VOICE>(VS32_135)¿Qué ocurre?
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283426261]
+Sodia
+<VOICE>(VS32_136)Nuestra barricada en Nordopólica
+está terminada.<PAGE>
+<VOICE>(VS32_137)También parece que los Espadas
+Cazadoras han avanzado.<PAGE>
+<VOICE>(VS32_138)Señor, debemos apresurarnos
+e ir a Nordopólica.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280571101]
+<STR>(FRE)
+<VOICE>(VS32_139)...
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280571101]
+Sodia
+<VOICE>(VS32_140)¿Capitán?
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280571101]
+<STR>(FRE)
+<VOICE>(VS32_141)Entendido.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280571101]
+Sodia
+<VOICE>(VS32_142)Señor.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409904]
+<STR>(FRE)
+<VOICE>(VS32_143)¿<STR>(YUR)?
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283426261]
+<STR>(FRE)
+<VOICE>(VS32_144)Te conozco mejor
+que nadie, <STR>(YUR).<PAGE>
+<VOICE>(VS32_145)Si insistes en seguir
+el camino de un criminal...

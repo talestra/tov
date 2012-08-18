@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1294850990]
+<STR>(RIT)
+¡Quieto parado! ¡¿Vas a volver AHÍ?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1294850990]
+<STR>(YUR)
+Sí. ¿Te importa?
+Te importa, ¿a que sí?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296763617]
+<STR>(RIT)
+Pues sí...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1294850990]
+<STR>(RIT)
+No nos hace falta ir, ¿verdad?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1294851028]
+<STR>(YUR)
+Es una ilusión hecha
+por algún mago, ¿no?
+¿De qué tienes miedo?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296763617]
+<STR>(RIT)
+D-De nada, pero aun así...

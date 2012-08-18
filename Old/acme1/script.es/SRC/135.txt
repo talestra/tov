@@ -1,0 +1,219 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(KAR)
+<VOICE>(VS10_025)¡Aaaah!
+¡¿Q-Q-Qué es eso?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_026)Cállate...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(KAR)
+<VOICE>(VS10_027)¿Eh? ¡Oye, un momento!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_028)Ladrones...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(KAR)
+<VOICE>(VS10_029)No, ¿qué estás...? ¡Espera!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_030)¡¡Desapareced!!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:parsec;time:1271974581]
+<STR>(KAR)
+<VOICE>(VS10_031)¡Auxilio!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298484539]
+<STR>(KAR)
+<VOICE>(VS10_032)*Cof, cof* ¿Por qué yo?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(EST_P)
+<VOICE>(VS10_033)¡¿Una chica?!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(YUR)
+<VOICE>(VS10_034)Si puedes hacer truquitos como ese,
+¿por qué te molestaste en escapar
+a toda prisa de Zaphias?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_035)¿Eh? ¿Escapar?
+¿Por qué iba yo a escapar?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:parsec;time:1272137004]
+<STR>(YUR)
+<VOICE>(VS10_036)Por robar el núcleo de un blastia
+de los barrios bajos de la capital.
+¿Por qué si no?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_037)¿Qué? ¿Me estás llamando ladrona?
+¿Alguna vez has oído hablar de algo
+llamado «sentido común»?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:parsec;time:1272137004]
+<STR>(YUR)
+<VOICE>(VS10_038)Claro.
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304462074]
+<VOICE>(VS10_039)
+Así que te cuelas en una casa, llamas a la dueña
+ladrona y la amenazas con un arma.
+¡¿Qué clase de sentido común patatero es ese?!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_040)¡Eh, perro! ¡Quieto,
+cacho... cacho perro!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_041)¡Y tú, chaval! 
+¡Devuélvemelo!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:parsec;time:1272137286]
+<STR>(KAR)
+<VOICE>(VS10_042)¿A qué te refieres?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_043)¡El blastia, el blastia!
+¡Devuélvemelo!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_044)¿Y a ti qué te pasa?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(EST_P)
+<VOICE>(VS10_045)Me llamo <STR>(EST).<PAGE><VOICE>(VS10_046)Lamentamos terriblemente
+haber irrumpido de esta manera.
+<STR>(YUR), <STR>(KAR)... vosotros también.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(KAR)
+<VOICE>(VS10_047)Lo siento...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_048)Y bueno, ¿qué queréis?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(EST_P)
+<VOICE>(VS10_049)Verás...<PAGE><VOICE>(VS10_050)<STR>(YUR) ha seguido a un ladrón de blastias
+desde la capital hasta aquí.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_051)¿Y?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(YUR)
+<VOICE>(VS10_052)Y ese ladrón de blastias...<PAGE><VOICE>(VS10_053)¡Llevaba una capa!<PAGE><VOICE>(VS10_054)¡Era bajito!<PAGE><VOICE>(VS10_055)¡Y se llamaba Mordio!<PAGE><VOICE>(VS10_056)Así que...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<VOICE>(VS10_057)
+Mmm. Bueno, Mordio es mi nombre
+sin ninguna duda. <STR>(RIT) Mordio,
+para ser exactos.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:parsec;time:1272137916]
+<STR>(KAR)
+<VOICE>(VS10_058)Y la altura también concuerda.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:parsec;time:1272137916]
+<STR>(YUR)
+<VOICE>(VS10_059)¿Qué tienes que decir a todo esto?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(RIT)
+<VOICE>(VS10_060)Ya lo he dicho, no tengo ni idea de qué... 
+Oh, no había caído en eso...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:parsec;time:1272137916]
+<STR>(RIT)
+<VOICE>(VS10_061)Seguidme.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(YUR)
+<VOICE>(VS10_062)
+¿Qué? Quizá no me hayas oído.
+Todavía no hemos terminado.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1272377505]
+<STR>(RIT)
+<VOICE>(VS10_063)Vosotros seguidme, ¿queréis?<PAGE><VOICE>(VS10_064)Se dice que han aparecido
+ladrones rondando por
+las ruinas de Shaikos.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:parsec;time:1272138338]
+<STR>(YUR)
+<VOICE>(VS10_065)¿Ladrones? 
+¿Estás segura?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(RIT)
+<VOICE>(VS10_066)Me lo dijo un Caballero Imperial
+que vino a pedirme ayuda.
+Debería ser información fiable.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(EST_P)
+<VOICE>(VS10_067)¿Crees que ese Caballero
+podría ser <STR>(FRE)?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(YUR)
+<VOICE>(VS10_068)Tiene que serlo. Aunque parece
+que ella se negó a colaborar.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:parsec;time:1272138492]
+<STR>(KAR)
+<VOICE>(VS10_069)Eh, ¿os acordáis del tipo
+aquel que decía que alguien
+estaba destrozando las ruinas?
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(EST_P)
+<VOICE>(VS10_070)
+Lo que quiere decir que el
+ladrón que robó el blastia
+puede estar allí.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(YUR)
+<VOICE>(VS10_071)Mmm, quizá.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:parsec;time:1272138744]
+<STR>(RIT)
+<VOICE>(VS10_072)¿Habéis terminado la charlita? 
+Vámonos.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(YUR)
+<VOICE>(VS10_073)Muy bien, pero que ni se te pase
+por la cabeza intentar escapar.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(RIT)
+<VOICE>(VS10_074)No tenéis por qué venir.
+Puedo llamar a los guardias,
+si queréis.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(EST_P)
+<VOICE>(VS10_075)
+¿Por qué no lo intentamos?
+Puede que hasta <STR>(FRE) esté allí.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013215]
+<STR>(RIT)
+<VOICE>(VS10_076)Vosotros elegís: ir a la cárcel,
+huir o seguirme. Una de las tres.
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:parsec;time:1272138744]
+<STR>(YUR)
+<VOICE>(VS10_077)Vale, vale.
+Iremos contigo.
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:parsec;time:1272138744]
+<STR>(RIT)
+<VOICE>(VS10_078)La ruinas de Shaikos
+están hacia el este,
+una vez fuera de la ciudad.

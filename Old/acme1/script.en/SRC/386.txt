@@ -1,0 +1,58 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS36_061)L-look...
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VS36_062)Whitehorse!
+
+## POINTER 2
+Gauche
+<VOICE>(VS36_063)Stand back.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS36_064)Didn't you say Leviathan's 
+Claw would never try 
+something like this, old man?
+
+## POINTER 4
+Droite
+<VOICE>(VS36_065)The Don's the one that started all this.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS36_066)What? Then, that means 
+the old man's...
+
+## POINTER 6
+Don Whitehorse
+<VOICE>(VS36_067)Just whaddya think yer doin' 
+here, ya damn fools?! Bringin' 
+young ones to a place like this!
+
+## POINTER 7
+Yeager
+<VOICE>(VS36_068)Bravo! I really should 
+thank you for such a 
+heart-rending performance!
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS36_069)What the hell's he talking about?!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS36_070)Gah! Get out of the way!
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS36_071)Where's the Don...?
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS36_072)He's gone after Yeager!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS36_073)Let's go!

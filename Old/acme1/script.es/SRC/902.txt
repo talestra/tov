@@ -1,0 +1,102 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294939267]
+Ted
+¡Hala, <STR>(YUR),
+qué pasada!
+¡Una victoria tras otra!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294939267]
+<STR>(YUR)
+¿Ah, sí?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1294939267]
+<STR>(EST_P)
+Se te da muy
+bien esto, <STR>(YUR).
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294939267]
+<STR>(JUD)
+Seguramente por que tienes facilidad para comprender a la gente.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294939267]
+<STR>(RAV)
+Eh, pos yo mempiezo
+a aburrir de
+mirar namás.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923266]
+Ted
+Entonces, ¿también quieres correr?
+No hay ningún problema.<PAGE>¿Querrán intentarlo las señoritas?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1294939267]
+<STR>(KAR)
+¿Las chicas también pueden?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923770]
+Ted
+Las chicas no pueden participar en
+la Carrera del Viejo, pero hay una
+modalidad de estilo libre para todos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923266]
+Leblanc
+¡<STR>(YUR) Lowell! ¡Sabía
+que te encontraría aquí!<PAGE>He oído que los barrios bajos estaban revolucionados,
+y he venido a echar un vistazo. ¡Y quién si no tú,
+armando jaleo mientras el resto del mundo está en crisis!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294939796]
+<STR>(YUR)
+Mira tú por dónde, si es
+nuestro viejo amigo Leblanc...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923266]
+Leblanc
+¿Quién te ha dado permiso para hacer esto?
+Deduzco que has sido tú el vil perpetrador.
+¡Me encargaré de darte una lección, <STR>(YUR) Lowell!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923266]
+<STR>(RAV)
+¿Qué problema hay con esto?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1294939796]
+Leblanc
+¡Señor <STR>(RAV), está
+clarísimo! E-El mundo
+está en peligro y...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923266]
+<STR>(RAV)
+<STR>(YUR) solo quiere poné algo de
+luz en las oscuras y tristes vidas
+de la gente de esta ciudá.<PAGE>¿Nu crees que eso merece un esfuerzo?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923266]
+Leblanc
+¡S-Sí, señor!
+¡Lamento haber
+hablado sin pensar!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923266]
+<STR>(EST_P)
+Además, todos se lo están pasando bien.
+¿No querría hacer una carrera con nosotros?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923266]
+Leblanc
+P-Princesa...
+¿V-Vos queréis
+que participe?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923266]
+<STR>(YUR)
+Ja, ja. Tú tranquilo,
+yo te enseñaré lo que
+tienes que hacer.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1294939796]
+Ted
+Muy bien, iré a
+preparar la carrera
+de estilo libre.

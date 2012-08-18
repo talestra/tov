@@ -1,0 +1,53 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1294522564]
+<STR>(KAR)
+Vimos a su padre y le
+dijimos su mensaje.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1294522564]
+Rich
+Ya veo...
+Gracias...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1294522564]
+<STR>(KAR)
+Dice que pueden volver a casa cuando sea,
+que acepta su matrimonio.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296769754]
+Rich
+Ajá...<PAGE>Quizá algún día nuestros
+deambulares nos lleven
+a Capua Torim...<PAGE>Así haríamos una visita...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1294522564]
+<STR>(KAR)
+Sí.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1294522564]
+<STR>(RIT)
+Has estado inusualmente
+calladito, viejales.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1294522564]
+<STR>(RAV)
+¿Qué cuentas? ¡Si soy un tío mu callao!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296769754]
+<STR>(RIT)
+Esperaba que soltases
+alguna de las tuyas.<PAGE>«¿Que te casas? ¡Y yo que ya t'estaba
+tirado los tejos!». Algo así.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296769754]
+<STR>(RAV)
+Nah, prefiero a mujeres
+mayores y más maduras.
+Ya sabes, como <STR>(JUD).<PAGE>
+Sigues sin entenderme, <STR>(RIT).
+Quizá nunca l'harás.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1294522564]
+<STR>(RIT)
+No tengo ni idea de
+por qué crees que
+quiero entenderte.

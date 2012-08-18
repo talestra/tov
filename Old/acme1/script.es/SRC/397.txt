@@ -1,0 +1,101 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(RAV)
+<VOICE>(VS37_001)Y aquí estamos.
+Bienvenidos al monte Temza.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(RAP)
+<VOICE>(VS37_002)¡Guau!
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(KAR)
+<VOICE>(VS37_003)Estas pisadas son
+de personas, ¿no?
+Hay un montonazo.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(EST_P)
+<VOICE>(VS37_004)¿Podrían ser los Espadas Cazadoras?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485685]
+<STR>(YUR)
+<VOICE>(VS37_005)Eso o los Caballeros.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527603]
+<STR>(EST_P)
+<VOICE>(VS37_006)Pero ¿por qué estarían aquí los Caballeros?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485685]
+<STR>(YUR)
+<VOICE>(VS37_007)<STR>(FRE) también estaba buscando
+una apátheia. Si eso es lo que están
+haciendo aquí los Espadas Cazadoras,<PAGE>
+<VOICE>(VS37_008)los Caballeros podrían estar
+por el mismo motivo.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(EST_P)
+<VOICE>(VS37_009)¿Por qué de repente todo
+el mundo se pelea por
+conseguir una apátheia?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(RIT)
+<VOICE>(VS37_010)No tuvimos la
+oportunidad de que el Don
+nos lo explicase.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(YUR)
+<VOICE>(VS37_011)Si <STR>(JUD_P) nos cuenta lo que sabe,
+puede que las cosas se aclaren.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284796547]
+<STR>(KAR)
+<VOICE>(VS37_012)¡Eh! ¡Chicos, tenéis que
+ver esto! ¡E-Es una locura!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527563]
+<STR>(RIT)
+<VOICE>(VS37_013)Pero ¿qué puñetas
+es esto? La montaña
+ha sido... arrasada.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(EST_P)
+<VOICE>(VS37_014)¿Qué puede haber ocurrido?
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(KAR)
+<VOICE>(VS37_015)¿En serio hay
+una ciudad por aquí?
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284796547]
+<STR>(RAV)
+<VOICE>(VS37_016)Al menos hace diez años
+estoy seguro de que la había.<PAGE>
+<VOICE>(VS37_017)Pero no sus puedo responder
+a lo que le pasó después.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(YUR)
+<VOICE>(VS37_018)¿Diez años?
+Anda que no hace de eso.
+¿Y qué hacías aquí?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485685]
+<STR>(RAV)
+<VOICE>(VS37_019)Eh, bueno...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485685]
+<STR>(RIT)
+<VOICE>(VS37_020)Esa voz... ¡¿eres tú, mamarracho?!
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(RAV)
+<VOICE>(VS37_021)Espero que
+tó vaya bien.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281811377]
+<STR>(EST_P)
+<VOICE>(VS37_022)¡Démonos prisa!

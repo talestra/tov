@@ -1,0 +1,89 @@
+## POINTER 0
+<STR>(FRE)
+<VOICE>(VS50_148)Going already?
+
+## POINTER 1
+<STR>(FRE)
+<VOICE>(VS50_149)It looks like things here 
+won't be settled for a while.<PAGE><VOICE>(VS50_150)I had hopes that we'd have 
+the guild ships at our disposal.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS50_151)I heard they've been 
+having some issues.
+
+## POINTER 3
+<STR>(FRE)
+<VOICE>(VS50_152)It seems they've been unable 
+to decide on a course of 
+action since the Don's passing.<PAGE><VOICE>(VS50_153)It looks like I'll be one step 
+behind you again this time.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS50_154)No hard feelings, no 
+matter which of us gets 
+to Alexei first, right?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS50_155)Oh yeah. Are you done 
+trying to get <STR>(EST_P) back?<PAGE><VOICE>(VS50_156)I mean, she's still a princess. 
+And what about all that stuff 
+with the imperial succession?
+
+## POINTER 6
+<STR>(FRE)
+<VOICE>(VS50_157)The Council has chosen 
+Ioder as their leader.<PAGE><VOICE>(VS50_158)For all intents and purposes 
+he's got their nomination 
+for the throne.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS50_159)Hm. Okay.<PAGE><VOICE>(VS50_160)So that's why you don't need 
+to chase her around anymore?
+
+## POINTER 8
+<STR>(FRE)
+<VOICE>(VS50_161)That's not it.<PAGE><VOICE>(VS50_162)It's just that I've finally come 
+to terms with the choices 
+she's made for herself.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS50_163)Wow. You sure loosened up.
+
+## POINTER 10
+<STR>(FRE)
+<VOICE>(VS50_164)Don't give me a hard time. 
+It's something I've had to 
+struggle with in my own way.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS50_165)Well, she'd be happy 
+to hear it.
+
+## POINTER 12
+<STR>(FRE)
+<VOICE>(VS50_166)I'll bring the problems of 
+the aer and the blastia to 
+His Highness' attention.<PAGE><VOICE>(VS50_167)He'll be able to come up with 
+some way of helping, I'm sure.<PAGE><VOICE>(VS50_168)As for Lady <STR>(EST)... <STR>(YUR), 
+you have my confidence.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS50_169)I appreciate it. Sorry 
+for being such a pain.<PAGE><VOICE>(VS50_170)Well, I'm gonna get going. 
+See you at Zaude.
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS50_171)...As far as anyone is concerned, the 
+capital was retaken because of my 
+efforts. It isn't just with this, though.<PAGE><VOICE>(VS50_172)No one knows the things you...
+that Brave Vesperia have done 
+for them. They probably never will.<PAGE><VOICE>(VS50_173)Are you satisfied with that?

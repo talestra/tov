@@ -1,0 +1,40 @@
+## POINTER 0
+(RAP) and (JUD)
+
+## POINTER 1
+(JUD)
+Is he also a member of your party?
+
+## POINTER 2
+(YUR)
+Yeah, he doesn't get along too well with 
+people, though. Don't let it get to you.
+
+## POINTER 3
+(JUD)
+I'm (JUD). Nice to meet you.
+
+## POINTER 4
+(RAP)
+*Whine*
+
+## POINTER 5
+(EST_P)
+Hey... Why is he letting 
+(JUD) pet him?
+
+## POINTER 6
+(RAV)
+Maybe the little pup's a fan of pretty girls?
+
+## POINTER 7
+(EST_P)
+B-but I'm a pretty girl too...
+
+## POINTER 8
+(JUD)
+My my.
+
+## POINTER 9
+(EST_P)
+...Why doesn't he like me?

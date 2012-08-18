@@ -1,0 +1,98 @@
+## POINTER 0
+<STR>(RIT)
+Looks like this little one is no good...
+
+## POINTER 1
+<STR>(KAR)
+Wow, so this is what blastia look 
+like before they're excavated.
+
+## POINTER 2
+<STR>(EST_P)
+I wonder why ancient people buried blastia 
+in ruins like this in the first place?
+
+## POINTER 3
+<STR>(RIT)
+I wish I could tell you. That's 
+something else being researched.
+
+## POINTER 4
+<STR>(YUR)
+With all of these blastia here, I don't suppose 
+there are any aque blastia lying around too...
+
+## POINTER 5
+<STR>(EST_P)
+None of them have cores in them.
+
+## POINTER 6
+<STR>(KAR)
+Really? Then they don't 
+work, do they?
+
+## POINTER 7
+<STR>(RIT)
+Blastia aren't excavated with the 
+cores and the bodies together.
+
+## POINTER 8
+<STR>(EST_P)
+"Cores produce magic through formulas. 
+Bodies control that magic. The two 
+combined are referred to as blastia."<PAGE>"Each blastia possesses 
+different attributes, and is
+marked by a crest that 
+indicates those attributes."<PAGE>"With current technology, 
+blastia bodies can be 
+manufactured, but the production
+of blastia cores is impossible."
+
+## POINTER 9
+<STR>(YUR)
+So basically, cores are very valuable, since 
+they have to be excavated. It's only natural 
+that thieves would want to steal them.
+
+## POINTER 10
+<STR>(RIT)
+That's not quite true. It 
+seems <STR>(EST_P)'s information
+is a little outdated.
+
+## POINTER 11
+<STR>(KAR)
+What's outdated about it?
+
+## POINTER 12
+<STR>(RIT)
+There's some degradation of quality, 
+but there's been some success in 
+the synthesis of simple blastia cores.
+
+## POINTER 13
+<STR>(EST_P)
+Really?!
+
+## POINTER 14
+<STR>(RIT)
+That's why I wouldn't do anything stupid 
+like go stealing people's cores!<PAGE>If I had time to waste doing things like that, I'd 
+rather be spending it researching better ways to 
+completely restore incomplete or degraded cores.<PAGE>That's what being a 
+mage is all about!
+
+## POINTER 15
+<STR>(YUR)
+A noble creed. But that 
+doesn't clear your name.
+
+## POINTER 16
+<STR>(RIT)
+...Yes, talk is
+cheap, I suppose.
+
+## POINTER 17
+<STR>(EST_P)
+P-perhaps there are still some 
+blastia left that can be used!

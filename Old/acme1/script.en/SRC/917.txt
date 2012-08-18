@@ -1,0 +1,90 @@
+## POINTER 0
+<STR>(RIT)
+...I wanna see, I wanna see!
+
+## POINTER 1
+<STR>(YUR)
+Huh? What?
+
+## POINTER 2
+<STR>(RIT)
+They're doing synthesis! Don't 
+you want to see, too?
+
+## POINTER 3
+<STR>(YUR)
+I, uh, not really... It doesn't 
+really interest me.
+
+## POINTER 4
+<STR>(RIT)
+Ugh, are you serious? Doesn't anyone care 
+about learning new things anymore?!<PAGE>Just...please! Let me see where 
+they do the synthesis!
+
+## POINTER 5
+
+Mmm... As much as I'd like to, that involves 
+you seeing very sensitive trade secrets...
+
+## POINTER 6
+<STR>(RIT)
+Come on, please! We're friends 
+with your boss, you know!<PAGE>We won't spill the beans about 
+your secrets! We promise!
+
+## POINTER 7
+
+Hmmm... Okay, hold on a minute, 
+okay? I'm going to go and 
+make sure it's okay.
+
+## POINTER 8
+<STR>(RIT)
+Really?! 
+Thanks!
+
+## POINTER 9
+
+...So it all boils down 
+to a little quid-pro-quo.<PAGE>If you can bring us ○○○○, we'll show 
+you where we do the synthesis.
+
+## POINTER 10
+<STR>(RIT)
+Wow, ○○○○...<PAGE>I've heard of it, but I've never 
+seen the real thing before...
+
+## POINTER 11
+
+If you find the ○○○○, 
+go to Capua Torim.<PAGE>You can drop it off at to Fortune's 
+Market's commercial office.
+
+## POINTER 12
+<STR>(RIT)
+Got it.
+
+## POINTER 13
+<STR>(YUR)
+What's ○○○○, 
+anyway?
+
+## POINTER 14
+<STR>(RIT)
+It raises the efficiency of the aer 
+conversion process for blastia cores.<PAGE>It's like an adapter, 
+of sorts...
+
+## POINTER 15
+<STR>(YUR)
+Mmm, so it's a type 
+of blastia part?
+
+## POINTER 16
+<STR>(RIT)
+Yes. Which means that they're definitely 
+using blastia to do their work here!<PAGE>I wanna see! I want to see 
+even more than before!<PAGE>All right! Let's 
+go look for 
+that ○○○○!

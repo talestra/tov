@@ -1,0 +1,53 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1251645552]
+Derretir el corazón de una jovencita
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266523238]
+(KAR)
+¿Cómo es que te ha dado por
+aprender a hacer crepes, (RAV)? 
+Creía que odiabas los dulces.
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267300258]
+(RAV)
+Muchacho, tienes mucho que aprendé
+sobre el milagroso poder que tienen
+los dulces sobre las damas.
+
+## POINTER 3 [t:1;r:2;ru:evilluendas,memnoch;user:evilluendas;time:1267316523]
+(RAV)
+Una exquisita crepe derrite el corazón
+de toda joven y la conduce derechita
+a los brazos del chef: ¡mi menda!
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,memnoch;user:evilluendas;time:1267316523]
+(EST_P)
+Para la gente a la que le gusta lo dulce,
+no hay nada más difícil de rechazar que
+una deliciosa crepe.
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266523238]
+(JUD)
+Y si sabes que alguien lo
+ha hecho expresamente para ti...
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,memnoch;user:evilluendas;time:1267316523]
+(KAR)
+Eh, vale. Supongo que las
+crepes atraen de verdad...
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266523537]
+(RIT)
+Me sé de alguien con quien lo está consiguiendo...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983025]
+(RAV)
+Lo que te he dicho. ¡Me adoran!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983025]
+(KAR)
+S-Sí, vale. Buena suerte, entonces.
+
+## POINTER 10 [t:1;r:2;ru:evilluendas,memnoch;user:evilluendas;time:1267316584]
+(RAV)
+No es suerte, hijo.
+Es habilidad.

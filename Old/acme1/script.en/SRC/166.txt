@@ -1,0 +1,59 @@
+## POINTER 0
+<STR>(KAR)
+Come on, let's take it back with us!
+
+## POINTER 1
+<STR>(EST_P)
+It's covered in scars and bruises... 
+I feel kind of sorry for it.
+
+## POINTER 2
+<STR>(YUR)
+I reckon it's been attacked by desperate 
+townspeople quite a few times.
+
+## POINTER 3
+<STR>(EST_P)
+It's not the people in town's fault!
+
+## POINTER 4
+<STR>(YUR)
+No, I understand.
+
+## POINTER 5
+<STR>(EST_P)
+<STR>(YUR)...?
+
+## POINTER 6
+<STR>(YUR)
+The horn is what's so valuable, right? 
+This'll be enough to satisfy that 
+money-grubbing magistrate.
+
+## POINTER 7
+<STR>(RIT)
+Wow, it's not like you to 
+show pity to a monster.
+
+## POINTER 8
+<STR>(KAR)
+While you guys are busy talking, 
+the monster's getting up!
+
+## POINTER 9
+<STR>(KAR)
+Wh-what? Why did it run away?
+
+## POINTER 10
+<STR>(EST_P)
+It understood what 
+we were thinking!
+
+## POINTER 11
+<STR>(KAR)
+The monster did? Seriously?
+
+## POINTER 12
+<STR>(YUR)
+Hey, we got the horn. 
+Who cares either way?

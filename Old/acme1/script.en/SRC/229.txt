@@ -1,0 +1,267 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS21_083)There, that's the last of 'em!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS21_084)Huh... Looks like you 
+guys have things 
+under control.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS21_085)<STR>(YUR)!
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS21_086)Hey, what gives...? Come 
+on, lay off, will ya?
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS21_087)Are you okay?! 
+Were you hurt?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS21_088)Never been better. 
+You worry too much.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS21_089)I thought I told 
+you all to stay put 
+for a while...
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS21_090)What do you expect? We 
+were worried about you!
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS21_091)Hey, just for the 
+record, I wasn't worrying 
+about him.
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS21_092)Well, I for one 
+was worried sick.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS21_093)Yeah right. And when did 
+you just start showing up 
+wherever we go, anyway?
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS21_094)It's like this, see?<PAGE><VOICE>(VS21_095)The Don's havin a fit sayin' there's no way 
+he'll let Barbos make a fool outta him, but 
+I'm the one he sends to do his dirty work.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS21_096)What do you guys think you're 
+doing, coming in this way?
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS21_097)Well, the front door was locked.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS21_098)That's not the point...
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS21_099)...A-and who might this 
+lovely Krityan be? Is 
+she a princess?
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS21_100)Layin' it on a little thick there, old man.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS21_101)This is <STR>(JUD). We were 
+locked up together.
+
+## POINTER 18
+<STR>(JUD)
+<VOICE>(VS21_102)Hello.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS21_103)Hi, I'm <STR>(KAR)!
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS21_104)I'm <STR>(EST).
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS21_105)<STR>(RIT) Mordio.
+
+## POINTER 22
+<STR>(RAV)
+<VOICE>(VS21_106)And I am the great...
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS21_107)Old man.
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS21_108)It's <STR>(RAV)! R-A-V-E-N! 
+<STR>(RAV)!!
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS21_109)You have to wonder about 
+people who introduce 
+themselves like that.
+
+## POINTER 26
+<STR>(RAV)
+<VOICE>(VS21_110)Hmm... That didn't quite have 
+the "zing" I was lookin' for.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS21_111)I think that'll 
+do for now.
+
+## POINTER 28
+<STR>(JUD)
+<VOICE>(VS21_112)Hehe... What an interesting 
+bunch of people.
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VS21_113)Ooh! I think she likes me!
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS21_114)Idiot...
+
+## POINTER 31
+<STR>(EST_P)
+<VOICE>(VS21_115)<STR>(JUD), what were 
+you doing in a place 
+like this?
+
+## POINTER 32
+<STR>(JUD)
+<VOICE>(VS21_116)I came to have a look at the blastia.
+
+## POINTER 33
+<STR>(RIT)
+<VOICE>(VS21_117)All the way out 
+here? Why?
+
+## POINTER 34
+<STR>(JUD)
+<VOICE>(VS21_118)I--
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS21_119)She was captured while she was 
+on a sort of...research trip.
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS21_120)Yeah, the Kritya do 
+like their research...
+
+## POINTER 37
+<STR>(JUD)
+<VOICE>(VS21_121)...
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS21_122)Were you able to locate 
+your aque blastia?
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS21_123)Nope, not this time either.
+
+## POINTER 40
+<STR>(KAR)
+<VOICE>(VS21_124)I wonder if it's somewhere 
+here in this tower...
+
+## POINTER 41
+<STR>(YUR)
+<VOICE>(VS21_125)We'll just have to ask Barbos about 
+it once we've caught him.
+
+## POINTER 42
+<STR>(RIT)
+<VOICE>(VS21_126)Okay, let's go.
+
+## POINTER 43
+<STR>(YUR)
+<VOICE>(VS21_127)What is it, old man?
+
+## POINTER 44
+<STR>(RAV)
+<VOICE>(VS21_128)Ah, nothing... Just thinking how you 
+could really brag ta your friends if 
+ya lived in a place like this.
+
+## POINTER 45
+<STR>(YUR)
+<VOICE>(VS21_129)Hmph...
+
+## POINTER 46
+<STR>(YUR)
+<VOICE>(VS21_130)<STR>(RAP), come on. I guess, 
+you too, old man...
+
+## POINTER 47
+<STR>(RAV)
+<VOICE>(VS21_131)You guess? What's that 
+supposed to mean?
+
+## POINTER 48
+<STR>(RAV)
+<VOICE>(VS21_132)Aren't you a little old for hide and 
+seek? What's wrong with pokin' your 
+head out every once in a while?
+
+## POINTER 49
+<STR>(RAV)
+<VOICE>(VS21_133)These kids are really givin' it a go. 
+They could use your help every 
+now and again.
+
+## POINTER 50
+Duke
+<VOICE>(VS21_134)If such a necessity arises, 
+I shall interfere. No such 
+necessity exists now.
+
+## POINTER 51
+<STR>(RAV)
+<VOICE>(VS21_135)All right, all right. I know 
+you've got your own business 
+to take care of.
+
+## POINTER 52
+Duke
+<VOICE>(VS21_136)...I do not have the time for these 
+clowning antics of yours.
+
+## POINTER 53
+<STR>(RAV)
+<VOICE>(VS21_137)Jeez, watch where yer 
+pointin' words like that.
+
+## POINTER 54
+Duke
+<VOICE>(VS21_138)The affairs of this world 
+hold no interest for me.

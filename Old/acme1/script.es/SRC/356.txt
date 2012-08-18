@@ -1,0 +1,118 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(EST_P)
+¡Buenos días!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410491]
+
+Ah, ¿vais hacia la caverna de Cados?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(YUR)
+Pues sí. ¿Por qué lo preguntas?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283430764]
+
+Los Caballeros Imperiales han
+bloqueado el paso por Cados.
+<PAGE>Pero no solo aquí. Han puesto bloqueos
+en todas las rutas de las montañas.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(RIT)
+¿Bloqueos?
+Por qué iban a...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410491]
+
+No conozco los detalles, pero he
+oído que tiene algo que ver con
+una amenaza en Nordopólica.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(EST_P)
+¿Qué hacemos? ¡Tenemos
+que llegar allí antes
+de la luna nueva!
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+
+Me gustaría poder ayudaros, pero
+ni siquiera a mí me dejan pasar.
+Y eso que tengo permiso de viajero.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(KAR)
+¿Eres miembro de
+Fortuna Mercantil?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+
+Así es.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(YUR)
+¿Cómo se consigue
+ese permiso?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410491]
+<STR>(KAR)
+El Imperio se los da a los miembros de ese gremio
+para que puedan viajar adonde quieran.
+O al menos, esa es la idea...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410491]
+
+Exacto. Pero los Caballeros
+no me permiten pasar.
+<PAGE>Voy a volver a Mantaic. Me temo
+que no hay ninguna manera de cruzar.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410491]
+<STR>(EST_P)
+¿Crees que ha sido <STR>(FRE)
+quien ha ordenado el bloqueo?
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(YUR)
+Mmmm, no sabría decirte.<PAGE>En cualquier caso, no nos podemos
+permitir quedarnos aquí parados
+por más tiempo.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(JUD)
+Sí, será toda una faena
+si perdemos la luna nueva.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(KAR)
+No creo que nos dejen
+pasar aunque se lo pidamos
+con educación.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(RAV)
+Si sus soy sincero, creo que podríamos
+ir y pensar una manera de pasar. Lo chungo
+vendrá cuando nus metamos dentro.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283430764]
+<STR>(EST_P)
+¿Qué quieres decir con lo de
+«cuando nos metamos dentro»?
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(RAV)
+Han puesto er bloqueo pa que sea
+difícil salir de la montañas...
+y seguramente pa entrar en ellas.<PAGE>Creo que eso es
+de esperar, mínimo.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(RIT)
+Bueno, ¿volvemos a Mantaic
+para acabar de prepararnos?
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280742714]
+<STR>(YUR)
+No, no hace falta prepararse
+otra vez. Iremos con lo puesto.

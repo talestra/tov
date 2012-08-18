@@ -1,0 +1,98 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS27_209)<STR>(RAP)...!
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS27_210)Look, is this...?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS27_211)<STR>(RAP)'ll be able to follow 
+his scent with this.
+
+## POINTER 3
+<STR>(RAP)
+<VOICE>(VS27_212)Woof!
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS27_213)We've gotta get that case back!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS27_214)Yeah, there's that too.
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS27_215)Guilds don't take kindly ta backstabbin' cheats.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS27_216)That's right.
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS27_217)He couldn't just cross the mountains 
+to the west without preparing first. We 
+should be able to catch up with him.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS27_218)All right. Let's get him.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS27_219)Do you think the coliseum 
+will be okay?
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS27_220)Are you worried about it?
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS27_221)Do you want to wait here 
+with <STR>(RIT), then?
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS27_222)What do you mean?
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VS27_223)This is a guild matter, after 
+all. Nothin for you little ladies 
+ta worry yourselves over.
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS27_224)Sorry, <STR>(EST_P), but I'm 
+going too. I'm curious 
+about that red case.<PAGE><VOICE>(VS27_225)Besides, I won't feel right till I 
+give that idiot a piece of my mind.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS27_226)Then, I...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS27_227)Decide for yourself.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS27_228)I... I'll come too.<PAGE><VOICE>(VS27_229)If he was trying to obstruct the 
+Knights, then this could be 
+connected to the empire.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS27_230)Hmm, maybe. Anyway, the 
+coliseum will be fine. <STR>(FRE)'s 
+got a handle on things.
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS27_231)Well then, let's get our things in 
+order and go after that jerk.

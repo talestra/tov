@@ -1,0 +1,37 @@
+## POINTER 0
+Tokunaga
+You can only disembark from the ship where 
+you see a dock, a port, or a beach.<PAGE>You won't be able to get onto 
+land where there are cliffs.<PAGE>Of course, the ship can't pass over rocks, but you'll also 
+have to keep her out of the shallows around islands.<PAGE>You might be able to take her into some 
+rivers, if they're deep enough.<PAGE>However, if there's a bridge spanning the 
+river, you won't be able to take her under. 
+We wouldn't want to clip off our mast!
+
+## POINTER 1
+Tokunaga
+There are other places you can
+disembark from.<PAGE>Beware that there are monsters
+on other continents much stronger
+than you can handle right now.
+
+## POINTER 2
+Information
+Controlling the Fiertia
+　
+<06>(LTN)　　　　Move
+<06>(RTN)　　　　Control camera
+<06>(R3)　　　　Rotate camera towards north 
+<06>(RBD)　　　　Perform action （Enter, board, land, etc.）
+<06>(RBL)　　　　Toggle navigation map
+<06>(RBU)　　　　Bring up Main Menu
+<06>(R1)　　　　Turn camera clockwise
+<06>(L1)　　　　Turn camera counter clockwise 
+<06>(R2)　　　　Forward
+<06>(L2)　　　　Backward
+<06>(STA)　　　　Pause
+<06>(SEL)　　　　Start Skit
+
+## POINTER 3
+Tokunaga
+And that's about it.

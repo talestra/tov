@@ -1,0 +1,95 @@
+## POINTER 0
+<STR>(KAR)
+Hyeaaah! Ryaaah!
+
+## POINTER 1
+Harry
+Hey!
+
+## POINTER 2
+<STR>(KAR)
+Wah! ...Y-you 
+startled me...<PAGE>Huh? Aren't 
+you...<PAGE>H-harry...right?
+
+## POINTER 3
+Harry
+Weren't you practicing 
+here last time, too?
+
+## POINTER 4
+<STR>(KAR)
+Oh...yeah... I always have 
+trouble sleeping whenever 
+I come back to this city...
+
+## POINTER 5
+Harry
+...Because of the Don?
+
+## POINTER 6
+<STR>(KAR)
+...Yeah. I want to
+be strong, like
+he was.<PAGE>Every time I think of what he did, I 
+feel like I have to work harder...
+
+## POINTER 7
+Harry
+......
+
+## POINTER 8
+Harry
+...You can borrow this.
+
+## POINTER 9
+<STR>(KAR)
+What's this...?
+
+## POINTER 10
+Harry
+It's the sword that the Don used.
+
+## POINTER 11
+<STR>(KAR)
+It's heavy... It 
+feels heavier than 
+it looks...
+
+## POINTER 12
+Harry
+Yes, all of the responsibility 
+of holding the guild together 
+is contained in that sword...
+
+## POINTER 13
+<STR>(KAR)
+...Yeah.
+
+## POINTER 14
+Harry
+I'll let you use it whenever you're practicing here. It should 
+make for better training than what you've had in the past.
+
+## POINTER 15
+<STR>(KAR)
+I can use this sword...?
+
+## POINTER 16
+Harry
+I'm just lending it to you, though! You 
+have to give it back in the morning.<PAGE>I still need to work on 
+mastering it, myself...
+
+## POINTER 17
+<STR>(KAR)
+I see... Thank you.
+
+## POINTER 18
+<STR>(KAR)
+The Don's sword... 
+All right then...
+
+## POINTER 19
+<STR>(KAR)
+Dyeeaah! Hyaaah!

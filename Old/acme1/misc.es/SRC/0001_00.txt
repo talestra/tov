@@ -1,0 +1,316 @@
+## POINTER 1 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+<02>(1)<0B>(0) se ha unido al grupo.
+
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+<02>(1)<0B>(0) ha abandonado el grupo.
+
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Has obtenido
+<02>(1)<0B>(0).
+
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Has perdido
+<02>(1)<0B>(0).
+
+## POINTER 5 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831199]
+HP y TP recuperados.
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Has entregado <02>(1)<0B>(0) x <0B>(1).
+
+## POINTER 7 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Has obtenido <02>(1)<0B>(0) x <0B>(1).
+
+## POINTER 8 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218224]
+<0B>(0) ha recibido el título de
+«<0B>(1)».
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218224]
+Has aprendido a cocinar
+«<0B>(0)».
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218224]
+<0B>(0) ha aprendido
+«<0B>(1)».
+
+## POINTER 11 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264241221]
+Te has desecho de <0B>(0) x <0B>(1) .
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264241221]
+<0B>(0)　x　<0B>(1)
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Has obtenido lo siguiente:
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264241221]
+¡Obtenido!
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264241221]
+Devuelto
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Perderás todos los objetos que no puedas llevar.
+¿Quieres cogerlo de todas formas?
+
+## POINTER 17 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Sí
+No
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Hablar
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Abrir
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Empujar
+
+## POINTER 21 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Guardar
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Salir
+
+## POINTER 23 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Entrar
+
+## POINTER 24 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Comprobar
+
+## POINTER 25 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264242055]
+Muestra
+
+## POINTER 26 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Subir
+
+## POINTER 27 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Bajar
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Montar
+
+## POINTER 29 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+Agarrar
+
+## POINTER 30 [t:1;r:1;ru:parsec;user:parsec;time:1266180962]
+Volver al mapa
+
+## POINTER 31 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+¿Cancelar?
+
+## POINTER 32 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831152]
+¡Completado!
+
+## POINTER 33 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Hay cofres del tesoro sin abrir.
+No podrás volver si te vas con el objeto.
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Devuelve los objetos que has recogido e inténtalo de nuevo.
+No devolver los objetos y abandonar
+Continuar
+
+## POINTER 35 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831199]
+Omitir
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263831199]
+¿Quieres omitir?
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Devolver todo incluido el dinero.
+
+## POINTER 38 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Devolverlo todo.
+
+## POINTER 39 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Has obtenido <0B>(0) gald.
+
+## POINTER 40 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Moverse hacia delante
+Moverse hacia la izquierda
+Moverse hacia la derecha
+Detenerse
+
+## POINTER 41 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Y nunca más se volvió a saber de ellos...
+
+## POINTER 42 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Cargar partida
+
+## POINTER 43 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Salir del juego
+
+## POINTER 44 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264242055]
+¿Ver el tutorial?
+
+## POINTER 45 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+No tienes dinero suficiente.
+
+## POINTER 46 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263768593]
+Fichas
+
+## POINTER 47 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263768593]
+Grado
+
+## POINTER 48 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Gald
+
+## POINTER 49 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263768593]
+Cancelar
+
+## POINTER 50 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263768593]
+Salir
+
+## POINTER 51 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+¿Te llevas contigo a <0B>(0)?
+
+## POINTER 52 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+¿Cambias a <0B>(0) por otro miembro?
+
+## POINTER 53 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Moverse hacia la izquierda
+Moverse hacia la derecha
+Detenerse
+
+## POINTER 54 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Moverse hacia delante
+Moverse hacia la derecha
+Detenerse
+
+## POINTER 55 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264242055]
+No hay un perfil de jugador activo.
+No podrás guardar si continúas.
+¿Deseas continuar?
+
+## POINTER 56 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Has obtenido
+<0B>(0) gald.
+
+## POINTER 57 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Has perdido
+<0B>(0) gald.
+
+## POINTER 58 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+¿Quieres descansar?
+
+## POINTER 62 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264242055]
+Ver el tutorial
+
+## POINTER 63 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264242055]
+Observar
+
+## POINTER 64 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Seleccionar
+
+## POINTER 65 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Error
+
+## POINTER 66 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Resultado
+
+## POINTER 67 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Información
+
+## POINTER 68 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Espacio insuficiente para guardar una partida nueva.
+Se necesitan al menos (<0B>(0)KB) libres para guardar los datos.
+ 
+¿Empezar a jugar de todos modos?
+
+## POINTER 69 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Victoria
+
+## POINTER 70 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Derrota
+
+## POINTER 71 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+¿Ir a la salida más próxima?
+
+## POINTER 72 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Intercambiar fichas
+
+## POINTER 73 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+???
+
+## POINTER 74 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Nivel 1
+
+## POINTER 75 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Nivel 2
+
+## POINTER 76 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Nivel 3
+
+## POINTER 77 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Nivel 4
+
+## POINTER 78 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Nivel 5
+
+## POINTER 79 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Nivel 6
+
+## POINTER 80 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Nivel 7
+
+## POINTER 81 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+¿A qué nivel quieres ir?
+
+## POINTER 82 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218224]
+<0B>(0) ha aprendido
+el arte básico «<0B>(1)».
+
+## POINTER 83 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218224]
+<0B>(0) ha aprendido
+el arte arcano «<0B>(1)<03>(0)».
+
+## POINTER 84 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218224]
+<0B>(0) ha aprendido
+la habilidad «<0B>(1)».
+
+## POINTER 85 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265218224]
+Puedes encontrar objetos en los
+puntos de búsqueda que se encuentran
+por todo el mundo.
+Los puntos de búsqueda se recargan
+al cabo de un tiempo, así que vuelve 
+de vez en cuando.
+Algunos puntos de búsqueda solo 
+aparecerán cuando se hayan cumplido
+ciertas condiciones.
+Puedes encontrar diferentes objetos
+en el mismo punto de búsqueda.
+Búscalos por varios lugares.
+
+## POINTER 86 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Se ha añadido una nueva página al Libro de batalla.
+
+## POINTER 87 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Puedes empezar desde el principio
+cargando el archivo de una partida completada.
+Se mantendrá el contenido descargable.
+
+## POINTER 88 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264242055]
+Esta partida aún no está completada.
+Volviendo al menú principal.
+
+## POINTER 89 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264242055]
+Vídeo
+
+## POINTER 90 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Sonido
+
+## POINTER 91 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Chat
+
+## POINTER 92 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Pregunta
+
+## POINTER 93 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264242091]
+Adelante
+
+## POINTER 94 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Siguiente
+
+## POINTER 95 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263855441]
+Volver a la página anterior

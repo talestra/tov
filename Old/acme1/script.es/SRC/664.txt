@@ -1,0 +1,83 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761118]
+
+Bueno, se dice que habéis estado
+dando vueltas por ahí haciéndoles
+cosas raras a los entelechia.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761118]
+<STR>(KAR)
+Ha-hace que 
+suene tan mal...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761118]
+<STR>(JUD)
+Los hemos estado transmutando
+de entelechia a espíritus elementales.
+<PAGE>Así podemos tomar prestado su poder, 
+que nos ayudará contra el adephagos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761118]
+
+Oh, ya veo...
+Lo que imaginaba.<PAGE>Sabía que estarías
+buscando la manera de  
+vencer al adephagos.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272189595]
+<STR>(RIT)
+Ya estamos con sus deducciones...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761118]
+
+Pero estoy en lo cierto, ¿verdad?<PAGE>Quizá os interese saber que nuestra gente
+está considerando bajar a la superficie.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272472236]
+<STR>(JUD)
+¿Bajar a la superfície?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761118]
+
+Pronto llegará el turno de Krones, 
+el entelechia que transporta Myorzo
+en el cielo,<PAGE>de convertirse en un espíritu elemental y 
+ayudaros en vuestra causa. ¿No lo habíais pensado?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272189595]
+<STR>(YUR)
+Tengo que admitir que 
+es muy probable, sí.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272189595]
+
+Los más impacientes ya han 
+descendido a la tierra.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761118]
+<STR>(JUD)
+¿Y dónde han ido?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272189595]
+
+No lo sé. Pero imagino
+que serán fácilmente
+reconocibles.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761118]
+<STR>(KAR)
+Me pregunto adónde habrán ido.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761118]
+<STR>(YUR)
+Hoy en día puedes encontrar krityanos
+en casi cualquier ciudad del mundo.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272472236]
+<STR>(JUD)
+Los krityanos podemos vivir
+en cualquier sitio. 
+Sabemos adaptarnos.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761118]
+
+Mmpf.

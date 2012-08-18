@@ -1,0 +1,272 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS24_156)Hmm? Look who's here.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS24_157)And a group of those red eyes...!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS24_158)Looks like Cumore's become 
+their new client.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS24_159)Hey, do you think that guy 
+who talks all funny could 
+be the red eyes' boss?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS24_160)It sure looks that 
+way from here.
+
+## POINTER 5
+Cumore
+<VOICE>(VS24_161)Get to work! No slacking 
+off, you worms!
+
+## POINTER 6
+Teagle
+<VOICE>(VS24_162)Urgh, ugh...
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS24_163)Look, that's... 
+It's Teagle.
+
+## POINTER 8
+Cumore
+<VOICE>(VS24_164)If it's money you want, you'll 
+have more than you can 
+use. Now work! Work!
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS24_165)Wait...
+
+## POINTER 10
+Cumore
+<VOICE>(VS24_166)Wh-who?!
+
+## POINTER 11
+Cumore
+<VOICE>(VS24_167)<STR>(YUR) Lowell! What are 
+you doing here?!
+
+## POINTER 12
+Cumore
+<VOICE>(VS24_168)P-Princess...?!
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS24_169)You have no right to call 
+yourself a knight!
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS24_170)Brute force is not the way to 
+honor the prestige of the empire. 
+Put down your weapons now.<PAGE><VOICE>(VS24_171)You will also release the people you 
+have tricked into coming down here!
+
+## POINTER 15
+Cumore
+<VOICE>(VS24_172)This all might be easier if 
+such a naive little Princess 
+were to simply disappear.
+
+## POINTER 16
+Cumore
+<VOICE>(VS24_173)All of your utopian ramblings 
+make me sick!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS24_174)That's not the kind of thing someone 
+with delusions of becoming 
+Commandant of the Knights would say.
+
+## POINTER 18
+Teagle
+<VOICE>(VS24_175)It's you...!
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS24_176)You'll be all right now.
+
+## POINTER 20
+Cumore
+<VOICE>(VS24_177)Yeager! Get rid of them!
+
+## POINTER 21
+Yeager
+<VOICE>(VS24_178)Ja, milord.
+
+## POINTER 22
+Yeager
+<VOICE>(VS24_179)Nothing personal, you 
+see. Just business!
+
+## POINTER 23
+Yeager
+<VOICE>(VS24_180)I must admit, you're 
+very strong.
+
+## POINTER 24
+
+<VOICE>(VS24_181)Sir Cumore! It's the <STR>(FRE) Brigade!
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS24_182)<STR>(FRE)...?!
+
+## POINTER 26
+Cumore
+<VOICE>(VS24_183)Well, send him away!
+
+## POINTER 27
+
+<VOICE>(VS24_184)We tried, but he insists 
+on coming down to perform 
+an inspection.
+
+## POINTER 28
+Cumore
+<VOICE>(VS24_185)That lower quarter lout. He simply has no tact!
+
+## POINTER 29
+Yeager
+<VOICE>(VS24_186)Gauche, Droite.
+
+## POINTER 30
+Gauche
+<VOICE>(VS24_187)Yes, Yeager.
+
+## POINTER 31
+Droite
+<VOICE>(VS24_188)This is our time to shine!
+
+## POINTER 32
+Yeager
+<VOICE>(VS24_189)I think we better be making 
+with the escape, ja?
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS24_190)Aah...what is this?!
+
+## POINTER 34
+Gauche
+<VOICE>(VS24_191)Please step this way.
+
+## POINTER 35
+Droite
+<VOICE>(VS24_192)Move! Move! Time 
+to get a move on!
+
+## POINTER 36
+Cumore
+<VOICE>(VS24_193)We'll get you 
+next time!
+
+## POINTER 37
+<STR>(JUD)
+<VOICE>(VS24_194)What an original line.
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS24_195)If we don't follow them they'll...!
+
+## POINTER 39
+<STR>(KAR)
+<VOICE>(VS24_196)Wait! Our job is 
+to rescue Teagle!
+
+## POINTER 40
+<STR>(EST_P)
+<VOICE>(VS24_197)But...
+
+## POINTER 41
+<STR>(RIT)
+<VOICE>(VS24_198)I don't know who's job 
+is what, but are we 
+following them or not?
+
+## POINTER 42
+<STR>(FRE)
+<VOICE>(VS24_199)Everyone freeze! 
+That's enough!
+
+## POINTER 43
+<STR>(YUR)
+<VOICE>(VS24_200)Hey, just in time.
+
+## POINTER 44
+<STR>(FRE)
+<VOICE>(VS24_201)<STR>(YUR)...?!
+
+## POINTER 45
+<STR>(YUR)
+<VOICE>(VS24_202)Can you get up?
+
+## POINTER 46
+Teagle
+<VOICE>(VS24_203)Y-yes...
+
+## POINTER 47
+<STR>(YUR)
+<VOICE>(VS24_204)Sorry, but it looks like 
+something's come up. You'll 
+have to head back by yourself.<PAGE><VOICE>(VS24_205)Say hi to the wife and kid for us.
+
+## POINTER 48
+Teagle
+<VOICE>(VS24_206)I will. And thank you.
+
+## POINTER 49
+<STR>(JUD)
+<VOICE>(VS24_207)So we are going after them.
+
+## POINTER 50
+<STR>(YUR)
+<VOICE>(VS24_208)Yeah. I'm sure <STR>(FRE) has things 
+under control here.<PAGE><VOICE>(VS24_209)Sound good, <STR>(KAR)?
+
+## POINTER 51
+<STR>(KAR)
+<VOICE>(VS24_210)Yeah. Plus, I think <STR>(EST_P)'s 
+going to take off after 
+them any minute.
+
+## POINTER 52
+<STR>(EST_P)
+<VOICE>(VS24_211)Sorry.
+
+## POINTER 53
+<STR>(RIT)
+<VOICE>(VS24_212)Jeez! We're going after them, 
+right? So let's get going!
+
+## POINTER 54
+<STR>(EST_P)
+<VOICE>(VS24_213)All right.
+
+## POINTER 55
+<STR>(FRE)
+<VOICE>(VS24_214)<STR>(YUR), wait!
+
+## POINTER 56
+<STR>(YUR)
+<VOICE>(VS24_215)Gotta run, <STR>(FRE)!
+
+## POINTER 57
+<STR>(FRE)
+<VOICE>(VS24_216)Lady <STR>(EST)! This 
+journey is far too 
+dangerous for...
+
+## POINTER 58
+<STR>(FRE)
+<VOICE>(VS24_217)......

@@ -1,0 +1,60 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536483]
+<STR>(YUR)
+¿Podemos pasar aquí la noche?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298406682]
+
+Hola. Bienvenidos a Mantaic,
+el Oasis del Desierto.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536483]
+<STR>(RIT)
+¿De qué va este Caballero?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536483]
+
+Pues, mmmm...
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1281295666]
+
+...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536483]
+¿Os... os vais a quedar esta noche?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536483]
+<STR>(YUR)
+Sí. Mañana iremos al desierto,
+así que estamos cogiendo provisiones
+y descansando antes de entrar.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536483]
+
+Oh, así que sois vosotros
+los que querían provisiones
+para el desierto.<PAGE>Veréis, es que...
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536483]
+<STR>(YUR)
+Ya sabemos que es peligroso.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298406726]
+
+Oh, ya veo...<PAGE>En ese caso, os daré todo
+lo que necesitáis antes
+de que partáis.<PAGE>La estancia os costará
+400 gald. ¿Os parece bien?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536483]
+¿Quieres descansar?
+Sí
+No
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536483]
+
+Pasad una buena noche.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536483]
+
+Venid cuando necesitéis
+descansar.

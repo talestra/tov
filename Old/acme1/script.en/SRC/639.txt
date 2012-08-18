@@ -1,0 +1,40 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VA030_054)Now we've found most of the fell arms.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VA030_055)They don't seem really powerful to me...
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VA030_056)Maybe there's something we have 
+to do to awaken them fully.
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VA030_057)We'd be gettin' a big boost to our own 
+strength if we could manage that.
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VA030_058)Though it wouldn't be good to 
+depend upon them too much.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VA030_059)That's right... Just like an 
+over-reliance on blastia led 
+to severe repercussions.<PAGE><VOICE>(VA030_060)If we rely on the power of the 
+fell arms, we might be repeating 
+the same mistakes.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VA030_061)Well, just don't use 'em then. We're just 
+gathering them up to make sure the 
+wrong type of people don't get them.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VA030_062)Right.

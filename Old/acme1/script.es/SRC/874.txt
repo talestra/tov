@@ -1,0 +1,99 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1294108003]
+
+Parece que habéis derrotado
+a una bestia enorme.<PAGE>¿Por qué no os quedáis
+a descansar? ¡Adelante!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1294108003]
+Rich
+En el mismísimo centro de Ilyccia...
+La Mariposa Quimera vive en el
+jardín secreto de un bosque...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296767729]
+Rich
+En una lejana isla de la costa del
+noreste de Ilyccia... El Fenrir habita
+en un bosque de cuarzo azul brillante...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296767729]
+Rich
+En el sur de Tolbyccia...
+El Brutal se esconde en lo
+profundo de un bosque sellado...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1294108003]
+Rich
+En el continente de Desier...
+La Mariposa Medusa vive en una
+tierra de ondas de arena abrasadoras...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296767913]
+Rich
+En el continente de Desier...
+Debajo de las montañas centrales,
+en un profundo agujero, vive el Taladro Eremita...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1294431381]
+Rich
+En Desier...
+El Pterobronc vive en las inhóspitas
+cordilleras del noroeste...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1294431381]
+Rich
+En el continente de Hypionia...
+El Bulsis vive en la tierra
+sagrada de los krytianos...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1294431234]
+Rich
+En el continente de Yurzorea...
+Se puede encontrar al Grifo
+en cierto campo...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1294431234]
+Rich
+Una isla pequeña que flota en el mar...
+Poseidón vive en un misterioso
+palacio bajo el mar...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1294431234]
+Rich
+Eso es todo...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1294431381]
+<STR>(YUR)
+Sí, nos lo encontramos mientras
+viajábamos y acabamos luchando.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1294431234]
+Rich
+Os lo agradezco...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1294431234]
+<STR>(YUR)
+No luchamos contra ese
+monstruo para ayudarte.<PAGE>Nos lo topamos de casualidad.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296767913]
+Rich
+Aun así... Gracias.<PAGE>Al menos quedaos esto.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1294431381]
+<STR>(YUR)
+Si has tirado la toalla en
+derrotarlos tú mismo, de acuerdo.<PAGE>Aunque no me gusta eso de contar
+con otra gente para hacer tu trabajo.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1294431234]
+Rich
+...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1294431234]
+<STR>(YUR)
+En fin, no te preocupes.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296767913]
+Rich
+Debo agradecéroslo.<PAGE>Llevaos esto, por favor.

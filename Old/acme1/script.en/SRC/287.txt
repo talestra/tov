@@ -1,0 +1,49 @@
+## POINTER 0
+Kaufman
+This is the Fiertia. She'll be 
+your ship as soon as you've escorted 
+her to Nordopolica.
+
+## POINTER 1
+Kaufman
+And this man is Tokunaga of Gull's 
+Song, a maritime guild affiliated 
+with Fortune's Market.<PAGE>Tokunaga is an expert in 
+piloting the Fiertia.
+
+## POINTER 2
+Tokunaga
+I'm Tokunaga. Very 
+nice to meet you.
+
+## POINTER 3
+Kaufman
+We're not in a hurry, but these 
+are important negotiations, so we 
+really appreciate your help.
+
+## POINTER 4
+<STR>(EST_P)
+What is the ship's cargo?
+
+## POINTER 5
+Kaufman
+That is confidential information.
+
+## POINTER 6
+<STR>(YUR)
+It's nothing we should be worried about, is it?
+
+## POINTER 7
+Kaufman
+Relax. We've got 
+it covered.<PAGE>All right, head towards Nordopolica.<PAGE>Go directly southwest from
+Torim Harbor and you'll see
+the Desier continent.<PAGE>Nordopolica is at the 
+eastern edge.
+
+## POINTER 8
+Tokunaga
+I hope you won't mind if 
+I go over the Fiertia's 
+controls for you.

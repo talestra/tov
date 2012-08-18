@@ -1,0 +1,92 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1295903716]
+
+Ah, ¡cuánto me alegro de veros!
+Y ya veo que lleváis
+vuestros uniformes.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1293652955]
+<STR>(EST_P)
+¡Nos encantan! ∀
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1295903716]
+<STR>(KAR)
+Solo he conseguido
+esta estúpida toalla...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1295903716]
+<STR>(RAV)
+No es que m'hiciese mucha ilu er taparrabos
+que llevo encima, pero m'empieza a gustar.<PAGE>¡Además, cuantas menos ropas lleves
+encima, más rápido te puedes meter
+en er baño! ¡Eso es un punto a favor!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1295903716]
+
+Bueno, ¿vais a ir hoy
+al manantial termal?<PAGE>
+Vuestros pases gratuitos os dan derecho
+a cualquiera de nuestros servicios,
+incluso a reservar el baño, si queréis.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1293654259]
+<STR>(JUD)
+Ya que estamos aquí,
+¿por qué no?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1295903716]
+<STR>(RIT)
+Muy bien, entonces las
+chicas iremos otra vez
+primero, ¿vale?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1293654259]
+<STR>(YUR)
+¿Y si nos metemos
+todos juntos? Vamos,
+¿cuál es el problema?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1293654259]
+<STR>(KAR)
+¡P-P-Pero eso
+significa...!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1293654550]
+<STR>(YUR)
+Los baños son muy grandes. Podríamos
+irnos cada uno a una punta y sería
+como tener nuestros propios baños.<PAGE>No habría ningún problema,
+¿a que no, <STR>(RAV)?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1295903716]
+<STR>(RAV)
+E-Exacto, <STR>(YUR)... Vamos,
+que tanto me da una forma
+como la otra, por supuesto...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1295903716]
+<STR>(RIT)
+Aquí hay tomate...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1293654550]
+<STR>(JUD)
+No, yo confío en <STR>(YUR). 
+No creo que debamos
+preocuparnos.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854798]
+<STR>(EST_P)
+Sí, ¡basta de
+preocupaciones
+y vayamos juntos!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1295903716]
+
+¡Adelante!
+¡Disfrutad de la visita!<PAGE>Pero os recomiendo que vayáis
+cuando se ponga el sol. ¡Os aseguro que
+el ambiente nocturno no es moco de pavo!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1295903727]
+<STR>(YUR)
+Buena idea.
+Eso haremos.

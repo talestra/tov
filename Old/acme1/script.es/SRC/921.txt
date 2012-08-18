@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1295118692]
+
+Perdone, señorita <STR>(RIT),
+tengo otro mensaje de mi jefa.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295118692]
+<STR>(RIT)
+Ah, ya era hora.
+¿Qué necesita?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952929]
+
+Verá, esta vez le ha pedido
+dos cosas: ○○○○ y ○○○○.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952929]
+<STR>(RIT)
+Ah, sí...
+Podría darle buen
+uso al ○○○○, sin duda...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952929]
+
+Como siempre, los objetos debería
+llevarlos a la oficina de Capua Torim.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1295118692]
+<STR>(RIT)
+¡Claro! En cuanto tenga los dos,
+los llevaré a la oficina.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1295118692]
+<STR>(YUR)
+Si se saca de contexto, esta conversación
+suena bastante rara...

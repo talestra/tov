@@ -1,0 +1,24 @@
+## POINTER 0
+<STR>(EST_P)
+Okay, we'll 
+go in first!
+
+## POINTER 1
+<STR>(RAV)
+Sure, sure. I'll jus' have a 
+little nap while I'm waitin'.<PAGE>Wake me up when the bath's free, wouldja?
+
+## POINTER 2
+<STR>(RIT)
+With him asleep, we can relax. 
+All right, let's go.
+
+## POINTER 3
+<STR>(KAR)
+Man, I hope they hurry up... 
+<STR>(YUR)'s asleep, too... Geez, 
+this is really boring...
+
+## POINTER 4
+<STR>(KAR)
+Urk...

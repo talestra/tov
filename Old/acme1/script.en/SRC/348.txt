@@ -1,0 +1,107 @@
+## POINTER 0
+<STR>(RIT)
+That Cumore punk is 
+a really lousy guy.
+
+## POINTER 1
+<STR>(RAV)
+I wonder why they're trying 
+to capture Phaeroh.
+
+## POINTER 2
+<STR>(EST_P)
+I don't know, 
+but...<PAGE>At this rate, they're going to 
+send all of the adults in the 
+town out into the desert.
+
+## POINTER 3
+<STR>(JUD)
+And once the adults are 
+gone, it might be the 
+children's turn, next.
+
+## POINTER 4
+<STR>(EST_P)
+No, that can't happen!<PAGE>If I just spoke to him as a representative 
+of the imperial family...!
+
+## POINTER 5
+<STR>(JUD)
+Are you forgetting what 
+happened in Heliord?
+
+## POINTER 6
+<STR>(KAR)
+Yeah, <STR>(EST_P). He didn't care that 
+you were the princess at all.
+
+## POINTER 7
+<STR>(EST_P)
+...
+
+## POINTER 8
+<STR>(RIT)
+So should we help the townspeople, 
+or should we help ourselves?
+
+## POINTER 9
+<STR>(EST_P)
+<STR>(RIT)...
+
+## POINTER 10
+<STR>(JUD)
+Don't you want to know what 
+the Entelexeia is thinking?<PAGE>If so, you should put this whole business with 
+Cumore out of your mind for the time being.
+
+## POINTER 11
+<STR>(RIT)
+It's a strange feeling to be agreeing with you, but...<PAGE>I think we should focus on 
+meeting Belius for now.
+
+## POINTER 12
+<STR>(RIT)
+Even if we captured Cumore, we wouldn't have 
+the authority to try him for his crimes.<PAGE>If we can't do anything about him, we should 
+focus on what we actually can do.
+
+## POINTER 13
+<STR>(EST_P)
+If only <STR>(FRE) were here...!
+
+## POINTER 14
+<STR>(KAR)
+<STR>(FRE)... But where 
+is he...?
+
+## POINTER 15
+<STR>(EST_P)
+I wish I knew...
+
+## POINTER 16
+<STR>(RIT)
+I'm sorry, <STR>(EST_P)... We don't 
+mean to be ganging up on you.<PAGE>It disgusts me, too, to imagine 
+that jerk snoring all nice and 
+cozy in his bed right now.<PAGE>But...
+
+## POINTER 17
+<STR>(EST_P)
+<STR>(RIT)...I understand.
+
+## POINTER 18
+<STR>(JUD)
+Lock up a guy like that, and as soon 
+as he's released he'll just end up 
+doing the same thing again.
+
+## POINTER 19
+<STR>(RAV)
+Yep. You know what they 
+say...the only cure for 
+stupidity is death.
+
+## POINTER 20
+<STR>(YUR)
+"The only cure for stupidity is death..."

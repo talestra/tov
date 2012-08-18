@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251900932]
+Zagi
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925590]
+(JUD)
+No es asunto mío comentar
+tus amistades, pero...
+
+## POINTER 2 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925590]
+(YUR)
+¿Qué ocurre, (JUD_P)?
+
+## POINTER 3 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925590]
+(JUD)
+Creo que sería mejor si cortaras
+tu relación con ese tal Zagi.
+
+## POINTER 4 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266236516]
+(YUR)
+¡Lo llevo intentando desde que lo conocí, créeme!
+
+## POINTER 5 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267434840]
+(RAV)
+¿Dónde t'encontraste con semejante...
+elemento? Parece ser un fan bastante cansino.
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925590]
+(YUR)
+En el castillo, justo antes
+de abandonar la capital.
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925590]
+(YUR)
+Se supone que (FRE) era su objetivo original,
+pero antes de que me diera cuenta parece que
+la tomó conmigo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297709034]
+(RIT)
+Tiene que ser duro tener un admirador tan majareta.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297709034]
+(YUR)
+¿Me lo dices o me lo cuentas?
+Es un tipo de amor del que podría prescindir.

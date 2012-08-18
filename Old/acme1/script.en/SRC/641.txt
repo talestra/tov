@@ -1,0 +1,99 @@
+## POINTER 0
+
+<VOICE>(VA030_080)Commandant <STR>(FRE) Scifo! Status report, Sir! There 
+is currently no sign of monster assault.
+
+## POINTER 1
+<STR>(FRE)
+<VOICE>(VA030_081)Understood. Thank you. Now, 
+go and get some rest.
+
+## POINTER 2
+
+<VOICE>(VA030_082)No, Sir! I'm just fine! 
+I will continue my watch.
+
+## POINTER 3
+<STR>(FRE)
+<VOICE>(VA030_083)Taking breaks is part of the job. You can't 
+protect people with enthusiasm alone.
+
+## POINTER 4
+
+<VOICE>(VA030_084)B-but...
+
+## POINTER 5
+<STR>(FRE)
+<VOICE>(VA030_085)Go get some rest.
+
+## POINTER 6
+
+<VOICE>(VA030_086)Y-yes, Sir...
+
+## POINTER 7
+
+<VOICE>(VA030_087)Commandant, we need your approval for 
+the distribution of the foodstuffs.
+
+## POINTER 8
+<STR>(FRE)
+<VOICE>(VA030_088)Very good. I'll be right there.
+
+## POINTER 9
+
+<VOICE>(VA030_089)Commandant <STR>(FRE). I'd like to 
+speak with you about the additional 
+building materials.
+
+## POINTER 10
+<STR>(FRE)
+<VOICE>(VA030_090)Yes, I haven't forgotten. However, I'm just 
+on my way to supervise the food distribution.<PAGE><VOICE>(VA030_091)I'm afraid you'll have to come with 
+me. We can discuss it on the way.
+
+## POINTER 11
+
+<VOICE>(VA030_092)Yes, Sir.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VA030_093)I guess it won't hurt us to hold onto 
+the fell arms for the time being.
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VA030_094)Huh? Why the change?
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VA030_095)I think <STR>(YUR)'s tryin' ta say 
+that we've all got a job ta do.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VA030_096)<STR>(FRE) wouldn't be able to 
+look after the fell arms with 
+all this stuff going on.
+
+## POINTER 16
+<STR>(JUD)
+<VOICE>(VA030_097)How kind of you.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VA030_098)Kindness has nothing to 
+do with it. Let's get going.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VA030_099)I think he might've blushed there.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VA030_100)Wow. Now I've seen everything.
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VA030_101)Hah hah hah. And thus, through 
+friendly teasing, the youth of today 
+form the bonds of tomorrow.

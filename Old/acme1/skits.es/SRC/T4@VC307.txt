@@ -1,0 +1,41 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1251646387]
+Un auténtico glotón
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265638491]
+(RIT)
+Oíd, esto de que personas coman 
+comida de perro es de locos.
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791830]
+(YUR)
+Al final todo es la misma pastucha
+una vez llega al estómago, ¿no?
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791830]
+(RIT)
+¡La comida de perro y la comida
+de persona no tienen nada que ver!
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791830]
+(KAR)
+Lo que pasa es que tienes
+miedo de que te acabe gustando.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1304526805]
+(EST_P)
+Pero ¿no creéis que su sabor es adictivo? 
+¡Me encanta ese gustillo tan inusual!
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791830]
+(YUR)
+Un gusto adquirido para
+el auténtico glotón.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983111]
+(RAP)
+¡Guau!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983111]
+(KAR)
+Tal vez ese es un gusto que
+no necesito adquirir...

@@ -1,0 +1,137 @@
+## POINTER 0
+
+<VOICE>(VS27_569)Ladies and gentlemen! 
+Welcome to the brutal battles 
+of the Nordopolica Coliseum!
+
+## POINTER 1
+
+<VOICE>(VS27_570)First off, let's go over the 
+rules of the tournament.
+
+## POINTER 2
+
+<VOICE>(VS27_571)This is a single-elimination 
+tournament! No second 
+chances here!<PAGE><VOICE>(VS27_572)If a fighter makes it through three 
+thrilling rounds, he or she will 
+then challenge the champion!<PAGE><VOICE>(VS27_573)Fighters, if you best our champion 
+in the ring, not only will you 
+receive a fantastic prize...<PAGE><VOICE>(VS27_574)...But you'll also take the 
+position of champion!
+
+## POINTER 3
+
+<VOICE>(VS27_575)And now, on to the first fight!
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS27_576)<STR>(YUR)! Good luuuck!
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS27_577)You'll do great, <STR>(YUR)!
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS27_578)Try not to hurt 
+yourself!
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS27_579)*Sigh* 
+I wanted to fight...
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS27_580)You're still going 
+on about that?
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS27_581)Look at all these people. 
+This should help 
+advertise our guild nicely.
+
+## POINTER 10
+
+<VOICE>(VS27_582)In today's first fight, a 
+new face in the coliseum!<PAGE><VOICE>(VS27_583)Hailing from the new guild, 
+Brave Vesperia, please 
+welcome Yuuuuri Loooweeeellll!
+
+## POINTER 11
+
+<VOICE>(VS27_584)His opponent, a former knight turned 
+political activist--with a prison 
+record, to boot--Gigantus Erungar!
+
+## POINTER 12
+Erungar
+<VOICE>(VS27_585)Erungar!!
+
+## POINTER 13
+
+<VOICE>(VS27_586)One, a battle-hardened fighter. 
+One, a fledgling youth. The 
+outcome looks set! But is it?!
+
+## POINTER 14
+
+<VOICE>(VS27_587)Welcome to the crossroad 
+between Heaven and Hell! 
+Our first fight is ON!<PAGE><VOICE>(VS27_588)Fight!
+
+## POINTER 15
+
+<VOICE>(VS27_589)For our second round, 
+we welcome the hellacious 
+bandanna-clad thief, Jugem Jerome!
+
+## POINTER 16
+Jugem
+<VOICE>(VS27_590)Keh heh heh, where 
+are the starfish...
+Give me the starfish...
+
+## POINTER 17
+
+<VOICE>(VS27_591)Versus Brave Vesperia's 
+<STR>(YUR) Loooowell!!
+
+## POINTER 18
+
+<VOICE>(VS27_592)Don't let your guard down, 
+young warrior, the battle 
+has only just begun!
+
+## POINTER 19
+
+<VOICE>(VS27_593)Knock your opponent 
+down to the gates of 
+Hades! Second round...<PAGE><VOICE>(VS27_594)Fight!
+
+## POINTER 20
+
+<VOICE>(VS27_595)On to the third round! A 
+masked warrior, undefeated with 
+the sword, Johann de Marc!
+
+## POINTER 21
+
+<VOICE>(VS27_596)Soon you will 
+know the exquisite 
+pain of my sword!
+
+## POINTER 22
+
+<VOICE>(VS27_597)Versus Brave Vesperia's 
+<STR>(YUR) Loooowell!!
+
+## POINTER 23
+
+<VOICE>(VS27_598)Is it blind luck? Is it pure 
+skill? Everything will be 
+decided in this one battle!<PAGE><VOICE>(VS27_599)Which of these warriors will 
+extinguish the flames of 
+their opponent's burning soul...<PAGE><VOICE>(VS27_600)Fight!

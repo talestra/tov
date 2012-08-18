@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:pacochan;time:1251757040]
+Preocupada por Ba'ul
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266926228]
+(JUD)
+Ba'ul...
+
+## POINTER 2 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266926228]
+(RIT)
+¿Tardarán mucho en curarse las heridas de Ba'ul?
+
+## POINTER 3 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266926228]
+(JUD)
+Vaya, ¿es preocupación lo que percibo en tu voz?
+
+## POINTER 4 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266240687]
+(RIT)
+Bueno, sí... Lo cierto es que
+le hemos exigido mucho.
+
+## POINTER 5 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266926228]
+(JUD)
+Tardará un tiempo, pero debería recuperarse.
+Es un gran luchador, ¿sabes?
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266926228]
+(RIT)
+Oh... Bien.
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266926228]
+(JUD)
+Así que no te angusties. ¿Vale, (RIT)?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297709885]
+(RIT)
+Vale, es solo que... ¡Oye, que la
+que estaba consolando aquí era yo!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297709885]
+(JUD)
+Deberías aprender a controlar 
+ese carácter, en serio...

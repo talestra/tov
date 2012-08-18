@@ -1,0 +1,314 @@
+## POINTER 257 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Arte básico: Golpea el suelo con gran fuerza
+para mandar escombros contra los enemigos.
+
+## POINTER 258 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Golpe tirita
+
+## POINTER 259 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Arte básico: Dibuja una fórmula en el suelo con el arma.
+Recupera una pequeña cantidad de HP a los aliados cercanos.
+
+## POINTER 260 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Tiro destructor doloroso
+
+## POINTER 261 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264772376]
+Arte básico: Reduce temporalmente la <06>(SC2)DEF F.
+del enemigo golpeándolo con la bolsa.
+
+## POINTER 262 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Onda relámpago
+
+## POINTER 263 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Arte básico: Emite una onda eléctrica con el arma.
+
+## POINTER 264 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Golpe recuperador
+
+## POINTER 265 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267365775]
+Arte básico: Dibuja una fórmula en el suelo con el arma. Al tiempo
+que ataca, cura los estados alterados físicos de los aliados cercanos.
+
+## POINTER 266 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993793]
+Aliento de bichos
+
+## POINTER 267 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Arte básico: Lanza un gas venenoso para atacar
+a los enemigos. Efectivo contra monstruos insecto.
+
+## POINTER 268 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Golpe castigador
+
+## POINTER 269 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Arte básico: Rueda para atacar a los enemigos.
+
+## POINTER 270 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Bicho Gea
+
+## POINTER 271 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Arte básico: Lanza tesoros al azar de tu bolsa.
+
+## POINTER 272 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Telaraña destructora
+
+## POINTER 273 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Arte básico: Invoca una tela de araña que reduce
+temporalmente la velocidad del objetivo.
+
+## POINTER 274 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Rotura caótica
+
+## POINTER 275 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267365775]
+Arte básico: Lanza el arma al aire para derribar
+enemigos voladores.
+
+## POINTER 276 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262722174]
+Espiral de exergía 
+
+## POINTER 277 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263079577]
+Arte básico: Concéntrate para aumentar 
+temporalmente el ATQ F.
+
+## POINTER 278 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Revolución crepitante
+
+## POINTER 279 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262538217]
+Arte básico: Rueda hacia delante para cargar contra
+el enemigo. ¡A rodar se ha dicho!
+
+## POINTER 280 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262810247]
+Bolsazo rompedor 
+
+## POINTER 281 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263079577]
+Arte básico: Gira tu bolsa para golpear al enemigo.
+Disminuye temporalmente en <06>(SC1) el ATQ F. del objetivo. 
+
+## POINTER 282 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262810247]
+Grapadora
+
+## POINTER 283 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262810247]
+Arte arcano: Clava tu arma en el suelo y 
+vuelve a golpear cuando la arranques. 
+
+## POINTER 284 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262963785]
+Cal y arena
+
+## POINTER 285 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764773]
+Arte arcano: Combinación de Golpe castigador
+y Golpe tirita.
+
+## POINTER 286 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262722174]
+Tiro del segador
+
+## POINTER 287 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267365775]
+Arte arcano: Saca una bola blanca de tu bolsa
+y lánzala contra el enemigo. ¡Buena puntería!
+
+## POINTER 288 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262967551]
+Castigo brutal
+
+## POINTER 289 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264772376]
+Arte arcano: Gira tu arma sobre tu cabeza
+y golpea al enemigo. 
+
+## POINTER 290 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262967551]
+Dragón crepitante
+
+## POINTER 291 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262967551]
+Arte arcano: Una combinación de Revolución 
+crepitante y Dragón ascendente. 
+
+## POINTER 292 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262967551]
+Furia diabólica 
+
+## POINTER 293 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264772376]
+Arte arcano: Haz que tu enemigo salga volando
+como si le persiguiese el mismísimo diablo. 
+
+## POINTER 294 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262967551]
+Caída desgarradora
+
+## POINTER 295 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264772376]
+Arte arcano: Salta y cae sobre tu arma
+para enviar una onda de choque a tu enemigo. 
+
+## POINTER 296 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262967551]
+Aniquilación divina 
+
+## POINTER 297 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264772376]
+Arte arcano: Hunde tu arma en el suelo y haz trizas
+a tus enemigos. ¡Si fallas, tropezarás!
+
+## POINTER 298 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Callejero destructor
+
+## POINTER 299 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Arte modificado: Embiste mientras golpea
+el suelo con el arma.
+
+## POINTER 300 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Golpe sanador
+
+## POINTER 301 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Arte modificado: Escribe una fórmula en el suelo.
+Recupera una cantidad media de HP a los aliados cercanos.
+
+## POINTER 302 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263079577]
+Golpe curador
+
+## POINTER 303 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Arte modificado: Escribe una fórmula en el suelo.
+Recupera una gran cantidad de HP a los aliados cercanos.
+
+## POINTER 304 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Castigo gemelo
+
+## POINTER 305 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Arte modificado: Aprovecha el peso de las armas
+para girarlas y arrasar con todo lo que se ponga por delante.
+
+## POINTER 306 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Trueno caótico
+
+## POINTER 307 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Arte modificado: Salta para atrapar un rayo en el aire
+y después atacar al enemigo con él al caer.
+
+## POINTER 308 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Seísmo mortal
+
+## POINTER 309 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Arte modificado: Desata un poderoso ataque que levanta la tierra.
+¡Si se apunta bien, puede atacar a todos los enemigos!
+
+## POINTER 310 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Mandoble ultra duro
+
+## POINTER 311 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262993698]
+Arte explosivo: Gira a toda velocidad, golpeando a los enemigos
+una y otra vez hasta que los manda por los aires.
+
+## POINTER 312 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262904561]
+Calor ultra duro
+
+## POINTER 314 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262904561]
+Aplastamiento ultra duro
+
+## POINTER 316 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262904561]
+Tifón ultra duro
+
+## POINTER 318 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262904561]
+Tifón ultra duro
+
+## POINTER 320 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262973417]
+Alma ultra dura
+
+## POINTER 322 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1254218822]
+Impacto soberano
+
+## POINTER 324 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal - ○
+
+## POINTER 326 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal - ↑○
+
+## POINTER 328 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal - ←→○
+
+## POINTER 330 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal - ↓○
+
+## POINTER 332 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal - En salto - ○
+
+## POINTER 334 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal - En salto - ↓○
+
+## POINTER 336 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal secundario - ○
+
+## POINTER 338 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal secundario - ↑○
+
+## POINTER 340 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal secundario - ←→○
+
+## POINTER 342 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal secundario - ↓○
+
+## POINTER 344 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal secundario - En salto - ○
+
+## POINTER 346 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque normal secundario - En salto - ↓○
+
+## POINTER 348 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345863]
+Ataque en movimiento libre
+
+## POINTER 350 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262352878]
+Ataque letal azul
+
+## POINTER 352 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262352878]
+Ataque letal rojo
+
+## POINTER 354 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262352878]
+Ataque letal verde
+
+## POINTER 356 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262290497]
+β×Ψ＝√
+
+## POINTER 357 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264772376]
+Arte básico: Vuestra gracia manda volar al enemigo.
+Utiliza el encantamiento «Rudolf».
+
+## POINTER 358 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262290497]
+ζ×Ψ＝Φ
+
+## POINTER 359 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263079577]
+Arte básico: Hace que los enemigos pierdan
+el equilibrio. Utiliza el encantamiento «Fi».
+
+## POINTER 360 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262290497]
+∠＝(x,y,z)
+
+## POINTER 361 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264772376]
+Arte básico: Invoca garras de bestia. ¡Arañando,
+que es gerundio! Usa el encantamiento «Descartes».
+
+## POINTER 362 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262290497]
+ζ＝δτ(ωρ)
+
+## POINTER 363 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263079577]
+Arte arcano: Da un capón al enemigo.
+Usa el encantamiento «Laplace».
+
+## POINTER 364 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262290497]
+∠＝∞
+
+## POINTER 365 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263079577]
+Arte arcano: Las páginas de un libro de conjuros
+acuchillan al enemigo. Usa el encantamiento «Wallis».
+
+## POINTER 366 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262290497]
+(δ/χ)λ＝ι
+
+## POINTER 367 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263079577]
+Arte arcano: Ataca al enemigo con energía.
+Usa el encantamiento «Ideal».
+
+## POINTER 368 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262290497]
+(δ/χ)λ＝ι
+
+## POINTER 370 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262448424]
+Bola de fuego
+
+## POINTER 371 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262448424]
+Habilidad de principiante: Manda una bola de fuego contra el enemigo.
+El uso continuado incrementa el número de bolas.
+
+## POINTER 372 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262448424]
+Estallido rocoso
+
+## POINTER 373 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267365923]
+Habilidad de principiante: Invoca piedras pequeñas
+ascendentes bajo los pies de los enemigos.

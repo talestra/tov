@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324182]
+<STR>(RIT)
+<VOICE>(VS24_072)¡Tenéis narices si
+os habéis atrevido a
+enjaularme de esta forma!<PAGE><VOICE>(VS24_073)¡¿Tenéis idea de con quién
+estáis tratando?! ¡Ve a por
+tu superior ahora mismo!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324182]
+<STR>(YUR)
+<VOICE>(VS24_074)¿<STR>(RIT)? ¿Qué está
+haciendo ella aquí?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324182]
+
+<VOICE>(VS24_075)¡Cálmate de una vez!
+¡Ya... ya voy a buscarlo!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570678]
+<STR>(RIT)
+<VOICE>(VS24_076)¡Cierra el pico!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570678]
+<STR>(YUR)
+<VOICE>(VS24_077)¡Madre! No puede decirse que haya cambiado.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279128379]
+<STR>(RIT)
+<VOICE>(VS24_078)¡S-Suéltame!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570678]
+<STR>(YUR)
+<VOICE>(VS24_079)Tranquilízate. Soy yo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324182]
+<STR>(RIT)
+<VOICE>(VS24_080)¿<STR>(YUR)?...
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279128379]
+<STR>(EST_P)
+<VOICE>(VS24_081)¿E-Estás bien?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324182]
+<STR>(EST_P)
+<VOICE>(VS24_082)¿<STR>(RIT)?

@@ -1,0 +1,167 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581631]
+
+Anda, pero si es Gran Pizzeria.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1284745565]
+<STR>(KAR)
+¡Es Gran VESPERIA!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+
+Perdonadme, soy malísimo
+para los nombres.<PAGE>¿Buscáis trabajo?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1284745565]
+¿Buscas trabajo?
+Sí
+No
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+
+Vale. Volved cuando
+necesitéis trabajo.
+Os buscaré uno.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+
+Estáis con ganas, ¿eh?<PAGE>Veamos... Oh, claro.
+Aún tenemos este... Mmm...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1284815393]
+<STR>(JUD)
+¿Ocurre algo?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+
+Nah... Es que este
+es una petición directa
+de la Unión.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1284815393]
+<STR>(KAR)
+¿Quieres decir que es un trabajo chungo?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+
+No necesariamente.<PAGE>Es como que el cliente
+no tiene mucha idea de cómo
+trabajan la Unión y los gremios.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+<STR>(YUR)
+«Me gustaría contactar
+con cierto gremio.
+-Mimula»
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1284815393]
+<STR>(KAR)
+¿Por qué la Unión te
+ha pasado este trabajo?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1284817126]
+
+Esta persona contactó directamente
+con la Unión para poder encontrar
+a ese gremio que menciona.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+<STR>(RAV)
+Y como que l'Unión no hace
+de celestina a gremios
+y sus mejores clientes.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+<STR>(JUD)
+Entonces, ¿por qué
+este trabajo está aquí?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+
+Porque nuestro negocio es echar una mano
+a los gremios nuevos que aún no pueden
+encontrar encargos por ellos mismos.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1284817126]
+<STR>(YUR)
+Je, así que eso es lo que pasa.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1284817126]
+<STR>(JUD)
+En fin, ¿qué os parece?
+¿Aceptamos el trabajo?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+<STR>(YUR)
+¿Qué quiere decir
+con «cierto gremio»?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1284817330]
+
+Me temo que eso solo lo sabe el gremio
+que acepta hacer el trabajo.<PAGE>La paga es de 6.000 gald.
+¿Aceptas?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1284817330]
+¿Aceptas el trabajo?
+Aceptar el trabajo
+Rechazar la oferta
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1284817698]
+
+El cliente está un poquito lejos.
+¿Podréis?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1284817698]
+<STR>(KAR)
+¿Dónde está?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1284817698]
+
+En la capital imperial, Zaphias.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1284817698]
+<STR>(YUR)
+Eso quiere decir que...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1284817698]
+<STR>(KAR)
+¿No conoces a
+la tal Mimula,
+<STR>(YUR)?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1284817698]
+<STR>(YUR)
+No, nunca había oído ese nombre.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1284817698]
+<STR>(RAP)
+*Gemido*
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+<STR>(YUR)
+Quizá haya llegado hace poco.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1284817698]
+<STR>(JUD)
+Podríamos echar un vistazo.
+Con la ayuda de Ba'ul
+es un viajecito de nada.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1284817698]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1284817698]
+<STR>(YUR)
+Muy bien, vamos.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Lia;time:1284817876]
+
+Vale. Cuando os dé
+por trabajar, decídmelo.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162024]
+
+Oh, el trabajo del que os hablé
+la última vez aún está disponible.
+¿Lo queréis?

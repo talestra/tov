@@ -1,0 +1,75 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1283113737]
+<STR>(YUR)
+Oye, viejales, si quieres ir
+a Nordopólica, ve y punto.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1283113737]
+<STR>(RAV)
+Buenas, jovenzuelo. Qué pasa,
+¿ya te quiés deshacer tan pronto de mí?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1283113737]
+<STR>(YUR)
+No. Pero no me gustaría que te perdieras
+la luna nueva y tu posibilidad de
+entregar la carta por nuestra culpa.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1280481336]
+<STR>(RAV)
+En serio, m'iría mejor
+si no te preocuparas.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1283113737]
+<STR>(YUR)
+Doble no.<PAGE>Si Gran Vesperia se interpone en los
+asuntos de Altosk, nos tiraríamos una
+eternidad disculpándonos al Don.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1283113737]
+<STR>(RAV)
+¿Lo cuálo? Eres mu joven pá
+preocuparte por pequeñeces.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1280220202]
+<STR>(YUR)
+Se trata de que vean a Gran Vesperia como
+un gremio de confianza. ¿Me entiendes?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1283113737]
+<STR>(RAV)
+Aún falta pá
+que sea luna nueva.
+Tú tranqui.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1280220202]
+<STR>(YUR)
+¿Seguro?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1283113737]
+<STR>(RAV)
+Además, ¡no pienso ir solo
+po'el desierto y la cueva esa!<PAGE>Si entregara la cuchara
+a mitá de camino, la carta
+no llegaría a su destino,<PAGE>y entonces sí que Gran Vesperia
+perdería to'a la confianza
+de los peces gordos, ¿no crees?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1283113737]
+<STR>(YUR)
+En ese caso, recogeríamos
+tus huesos y la carta y
+los entregaríamos por ti.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1283113737]
+<STR>(RAV)
+Oh, mira qué majo...<PAGE>¡Pero serás...!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1283113737]
+<STR>(YUR)
+En fin, me da igual mientras no me
+eches la culpa si no llegas a entregar
+la carta a tiempo. ¿Ha quedado claro?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1280220202]
+<STR>(RAV)
+¡Como el agua! ♪

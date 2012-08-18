@@ -1,0 +1,63 @@
+## POINTER 0
+<STR>(RAV)
+Sooo tired.... Ol' <STR>(RAV)'s 
+beat, kids. Tarqaron's just 
+too big, I tell ya!<PAGE>Come on, let's take a load off! A little 
+nap in the lovin' lap of sweet <STR>(JUD) and 
+I'll be back ta full health in a jiffy...
+
+## POINTER 1
+<STR>(RIT)
+Ugh...
+
+## POINTER 2
+<STR>(KAR)
+And just when I thought you'd 
+turned a new leaf, <STR>(RAV).
+
+## POINTER 3
+<STR>(YUR)
+That outfit doesn't look so believable on you anymore.
+
+## POINTER 4
+<STR>(RAV)
+Hey hey, <STR>(JUD) baby, whaddaya say?
+
+## POINTER 5
+<STR>(JUD)
+I know a much better way to get some 
+nice sleep than lying in my lap.
+
+## POINTER 6
+<STR>(RAV)
+Ohhh? ∀
+
+## POINTER 7
+<STR>(JUD)
+You might find it a little hard to wake up, though.
+
+## POINTER 8
+<STR>(RIT)
+Whatever it takes, <STR>(JUD), 
+just make him shut up!
+
+## POINTER 9
+<STR>(RAV)
+You're sure cold. Treat yer elders 
+a little nicer, won't ya?
+
+## POINTER 10
+<STR>(EST_P)
+It's nice to know we've still 
+got the same old <STR>(RAV) with us.
+
+## POINTER 11
+<STR>(KAR)
+I can't imagine <STR>(RAV) 
+as Captain Schwann 
+anymore...
+
+## POINTER 12
+<STR>(YUR)
+Yeah, maybe he was only plain 
+old <STR>(RAV), after all...

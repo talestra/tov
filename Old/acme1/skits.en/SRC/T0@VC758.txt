@@ -1,0 +1,30 @@
+## POINTER 0
+Doesn't Seem Like an Earthquake
+
+## POINTER 1
+(EST_P)
+Was this town really destroyed by an earthquake? 
+The buildings all look kind of strange...
+
+## POINTER 2
+(YUR)
+Yeah. They don't really look like they collapsed 
+from the ground shaking... Something's weird.
+
+## POINTER 3
+(KAR)
+Yeah, so...how were they destroyed, then?
+
+## POINTER 4
+(YUR)
+Got me. Maybe we can find out by asking 
+someone who used to live in the town.
+
+## POINTER 5
+(RIT)
+That's not really why we're here 
+though, so why should we care?
+
+## POINTER 6
+(YUR)
+You actually have a point there.

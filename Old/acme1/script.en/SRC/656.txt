@@ -1,0 +1,144 @@
+## POINTER 0
+Boccos
+<VOICE>(VA070_001)Stand back, Adecor!<PAGE><VOICE>(VA070_002)I'll handle this in the name of
+the Imperial Knights.
+
+## POINTER 1
+Adecor
+<VOICE>(VA070_003)I say, I shall be the one to defend the 
+good name of the Imperial Knights!<PAGE><VOICE>(VA070_004)Peons, I say, should stand back!
+
+## POINTER 2
+Boccos
+<VOICE>(VA070_005)You're the peon...!
+
+## POINTER 3
+Adecor
+<VOICE>(VA070_006)No, no, I say, I am your superior!
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VA070_007)I appreciate the sentiment, 
+guys, but let's cut the catfight 
+and get on with it!
+
+## POINTER 5
+Information
+Move forward and backward with <06>(LTR)<06>(LTL).
+Jump with <06>(GUD)＋<06>(LTU).
+
+## POINTER 6
+Information
+Target nearest enemy using <06>(CBR1).
+Change your target with <06>(LTN) while 
+holding  <06>(CBR1).
+
+## POINTER 7
+Information
+Move towards targeted enemy
+using <06>(LTR)<06>(LTL).
+
+## POINTER 8
+Information
+Move freely using <06>(CBL2)＋<06>(LTN).
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA070_008)Hey, let's go! You ready?
+
+## POINTER 10
+Boccos
+<VOICE>(VA070_009)I am your superior!
+
+## POINTER 11
+Adecor
+<VOICE>(VA070_010)Nay, Boccos! You are, I say, 
+clearly my subordinate!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VA070_011)I guess I just gotta whack 
+these guys a little.
+
+## POINTER 13
+Information
+Perform regular attack with <06>(ATK).
+
+## POINTER 14
+Information
+You can also perform attacks with <06>(ATK)
+while moving with <06>(CBL2)＋<06>(LTN).
+
+## POINTER 15
+Information
+Target will automatically switch 
+to the enemy you hit while moving 
+with <06>(CBL2)＋<06>(LTN).
+
+## POINTER 16
+Boccos
+<VOICE>(VA070_012)Owwww...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VA070_013)There, how'd that make you feel?
+
+## POINTER 18
+Boccos
+<VOICE>(VA070_014)How dare you! Hitting someone in the middle 
+of an argument is hardly proper manners!
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VA070_015)Didn't you hear me when I said "You 
+ready?" Or were you not listening?
+
+## POINTER 20
+Adecor
+<VOICE>(VA070_016)Damn it!
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VA070_017)Oh, brother...
+
+## POINTER 22
+Boccos
+<VOICE>(VA070_018)Argh... You... Stop right there!
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VA070_019)Does it look like 
+I'm running?
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VA070_021)Oops, time for a 
+little defense...
+
+## POINTER 25
+Information
+Use <06>(GUD) to guard against attacks.
+
+## POINTER 26
+Boccos
+<VOICE>(VA070_022)H-he blocked my attack...!
+
+## POINTER 27
+Adecor
+<VOICE>(VA070_023)I say, Sonic Thrust!
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VA070_024)Whoa...
+Come on, gimme a break...
+
+## POINTER 29
+Adecor
+<VOICE>(VA070_025)Oooh! I say, 
+how DARE you block 
+my arte!
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VA070_026)Man, you need to calm down...<PAGE><VOICE>(VA070_027)If you can use strike artes 
+here, then I can too!

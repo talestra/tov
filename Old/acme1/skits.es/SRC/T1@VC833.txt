@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251833978]
+Regaey
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267180146]
+(YUR)
+Maldito Regaey...
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267180146]
+(EST_P)
+¿Para qué querrá la caja?
+
+## POINTER 3 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267404824]
+(RAV)
+Bueno, la magia de nuestra maga prodigio taba algo rara.
+Debe d'haber pensao qu'estaba relacionao con esa caja.
+
+## POINTER 4 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266233106]
+(KAR)
+¿Crees que Regaey sabe
+lo que hay en ella?
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267180146]
+(RIT)
+La única manera de saberlo es ir tras él.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118438]
+(JUD)
+Si la ha robado sabiendo lo que contiene, entonces
+debe saber de qué es capaz el cristal cielo claro.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118438]
+(KAR)
+Si lo atrapamos, puede que
+descubramos algo sobre Yormgen.
+
+## POINTER 8 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267180146]
+(YUR)
+Vale, ahora sí que no podemos dejar que escape.
+
+## POINTER 9 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267180146]
+(EST_P)
+Sí, no hay un momento que perder.

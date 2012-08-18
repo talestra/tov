@@ -1,0 +1,119 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+Nas.
+¿Habéis venío a
+pillá batangi?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+<STR>(KAR)
+¿Batangi? ¿Eso no es un pez?
+¿Está bueno?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+¡Antes no! ¡Daba ajco solo de verlos!
+Ni un bocao podía' darle a los bicharracos.
+Pero ahora tán ricos, ricos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1280173639]
+<STR>(JUD)
+...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+<STR>(RAV)
+¿Nos estás diciendo que un pescao
+ha dejao porque sí de tener mal sabor?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+Sasto. Era un pez chiquitillo y apestoso que sabía a rayos.
+Y entonces se volvió grande y ahora tá mu rico. Merece un tiento.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+<STR>(RIT)
+Eso también podría deberse
+a un desequilibrio en el aer.<PAGE>Quizá haya algún aer krene
+en el fondo del océano...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+<STR>(YUR)
+<STR>(JUD_P)...
+Otra vez no...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057996]
+¡Es terrible! ¡Deprisa!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+¿Ein? ¿Y tó este follón?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+Por lo visto han destruido un blastia.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+¿A quién se l'ocurre hacer algo así?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+Nadie le ha visto la cara,
+pero parece que llevaba una lanza.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1280173639]
+<STR>(RIT)
+¡Una lanza! ¡Es el mamarracho del dragón!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+<STR>(EST_P)
+¡Oh, <STR>(RIT)!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+<STR>(KAR)
+<STR>(RIT) no para quieta,
+¿verdad, <STR>(JUD_P)?... ¿<STR>(JUD_P)?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+<STR>(YUR)
+Me parece que <STR>(JUD_P)
+no le anda a la zaga.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+<STR>(JUD)
+¿Ah, sí?
+Yo creo que no.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1280175354]
+<STR>(KAR)
+¿Dónde te habías metido?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+<STR>(JUD)
+Un caballero muy amable
+me ha invitado a un té.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1280175354]
+<STR>(RAV)
+¿Qué? ¡Imperdonable!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1280175354]
+<STR>(YUR)
+Tus comentarios sobran, viejales.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1280175354]
+<STR>(JUD)
+Cuánto alboroto.
+¿Ha pasado algo?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1280175354]
+<STR>(KAR)
+¡Han destruido un blastia! Y ha sido el
+mismo jinete del dragón que la última vez.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+<STR>(JUD)
+Oh. ¡Es espantoso!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1280175354]
+<STR>(YUR)
+Ya... Seguro que estás muerta de miedo.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1284057968]
+<STR>(RIT)
+Está hecho pedazos...<PAGE>
+¡Maldita sea! ¡Os juro que la
+próxima vez le partiré la cara
+a ese mamarracho del dragón!

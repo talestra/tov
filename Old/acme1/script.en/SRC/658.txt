@@ -1,0 +1,76 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VA090_001)It's the same with swrods or magic. The 
+only way to learn is to try it yourself.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA090_002)If you get recipes and practice making 
+them, you'll learn to cook in no time.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VA090_003)Get recipes and practice making them... I see.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VA090_004)Here, I'll show you 
+how it's done. Watch.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VA090_005)Cooking clears your mind. 
+And it's great for regaining 
+lost energy.<PAGE><VOICE>(VA090_006)Cooking has a lot of other 
+effects, as well.<PAGE><VOICE>(VA090_007)This is pretty much 
+everything I know how 
+to cook right now.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA090_008)So, in order to make a sandwich,
+you'll need bread and an egg.<PAGE><VOICE>(VA090_009)Which we just happen 
+to have right here!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VA090_010)After choosing the 
+ingredients, it's 
+time to cook!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VA090_011)And...there you are! 
+A delicious meal!
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VA090_012)You're so good at that...
+I'm not sure I'd be able to 
+get that good at cooking.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA090_013)Well, it comes more naturally 
+to some people than others.<PAGE><VOICE>(VA090_014)Just because you have a 
+recipe, doesn't mean it'll always 
+turn out like you think.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VA090_015)Really? So you 
+can mess it up...?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VA090_016)Well, you usually taste 
+your food while cooking...but 
+some people don't.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VA090_017)Taste the food?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VA090_018)You know, tasting? Mm-mm? Blech?

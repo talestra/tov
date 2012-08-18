@@ -1,0 +1,187 @@
+## POINTER 0
+<STR>(RAP)
+Woof!
+
+## POINTER 1
+<STR>(YUR)
+...Find something, <STR>(RAP)?
+
+## POINTER 2
+<STR>(RAP)
+Woof woof!
+
+## POINTER 3
+
+Agh...
+
+## POINTER 4
+<STR>(YUR)
+Those guys are Hunting Blades...<PAGE>What the hell happened?
+
+## POINTER 5
+
+We were done in by a huge monster... 
+Agh... If only the Chief were here...
+
+## POINTER 6
+
+Nan's all alone... 
+Please...
+
+## POINTER 7
+<STR>(KAR)
+Nan!!
+
+## POINTER 8
+<STR>(RAV)
+H-hey, whaddaya doin' chargin' in by yerself...
+
+## POINTER 9
+<STR>(EST_P)
+I-I'll go too...
+
+## POINTER 10
+<STR>(JUD)
+It's finally <STR>(KAR)'s time to 
+shine. Don't you think so?
+
+## POINTER 11
+<STR>(EST_P)
+...His time to shine...?
+
+## POINTER 12
+Nan
+*Pant* *pant*
+
+## POINTER 13
+
+Gheeeee!
+
+## POINTER 14
+Nan
+Agh!
+
+## POINTER 15
+
+Keeeeshaaah!
+
+## POINTER 16
+<STR>(KAR)
+Punishing Smash!
+
+## POINTER 17
+<STR>(KAR)
+Nan, are you okay?
+
+## POINTER 18
+Nan
+<STR>(KAR)! Why 
+are you...?
+
+## POINTER 19
+Tison
+Eh? What? What 
+happened here?
+
+## POINTER 20
+Clint
+Nan, explain this.
+
+## POINTER 21
+Nan
+Ah...yes sir... When you and the others 
+went in to hunt the monsters, a 
+huge monster suddenly appeared...
+
+## POINTER 22
+Tison
+And that monster beat everyone?
+
+## POINTER 23
+Nan
+...Yes. But <STR>(KAR)...<STR>(KAR) 
+defeated the 
+monster.
+
+## POINTER 24
+<STR>(KAR)
+Uh, but I didn't do it alone...
+
+## POINTER 25
+Tison
+<STR>(KAR), you did this...?
+
+## POINTER 26
+Clint
+...
+
+## POINTER 27
+<STR>(KAR)
+Ah...uhh...
+
+## POINTER 28
+Clint
+You helped us out. You have my thanks.
+
+## POINTER 29
+<STR>(KAR)
+Uh... Eh...?
+
+## POINTER 30
+Tison
+It's not every day that the Chief thanks someone... 
+Anyway, you have my thanks, as well.
+
+## POINTER 31
+<STR>(KAR)
+Uh, no... I mean, you don't have to...
+
+## POINTER 32
+Nan
+...This is for you.
+
+## POINTER 33
+<STR>(KAR)
+Huh...? What's 
+this...?
+
+## POINTER 34
+Nan
+It's a piece of clothing I made from the fangs 
+and tusks of a monster that I slew recently.<PAGE>It had the most amazing 
+golden tusks...
+
+## POINTER 35
+<STR>(KAR)
+Its tusks were made 
+of gold...?
+
+## POINTER 36
+Nan
+I thought it wouldn't look right on 
+anyone who wasn't strong enough, but 
+I think it will suit you just fine.
+
+## POINTER 37
+<STR>(KAR)
+Huh...? You 
+mean...
+
+## POINTER 38
+Nan
+Well, I'm going now... The 
+next time I see you...<PAGE>...I'm going to 
+be stronger, too!
+
+## POINTER 39
+<STR>(KAR)
+O-okay...!
+
+## POINTER 40
+<STR>(YUR)
+Looks like she dropped something.
+
+## POINTER 41
+<STR>(KAR)
+Then I'll get stronger, 
+too...

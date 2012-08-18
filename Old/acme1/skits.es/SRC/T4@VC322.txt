@@ -1,0 +1,80 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252526733]
+Hoy, ayer y antes de ayer...
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296194]
+(KAR)
+¡La comida está lista, chicos!
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296194]
+(EST_P)
+Mmm, (KAR)... ¿No es esto lo
+mismo que preparaste ayer?
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267317158]
+(RIT)
+¡No solo ayer, sino también
+anteayer y hace dos días!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108097]
+(RAV)
+Te debe gustar mucho pa
+hacerlo tó'l rato, ¿no?
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296194]
+(KAR)
+¡Pues sí! ¡Me gusta tanto que
+podría comerlo todos los días!
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267444712]
+(RAV)
+Ar viejo (RAV) le gustaría algo
+un poco más refinao y maduro.
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296194]
+(KAR)
+Ya que siempre estoy cocinando yo, pensé
+que era cosa mía decidir qué preparar.
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296194]
+(YUR)
+Bueno, no te falta razón.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108097]
+(RIT)
+¡Quieto parado! ¿De verdad te parece bien
+comer siempre lo mismo todos los días?
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296194]
+(YUR)
+Yo me conformo con tener algo que comer.
+Tampoco es que la cocina
+de (KAR) sea mala ni nada.
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296194]
+(KAR)
+¡Gracias, (YUR)! ¡Estoy impaciente
+por preparar algo delicioso mañana!
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:xander;time:1267197392]
+(RAV)
+¿Tonces nos tocará
+lo mismo que hoy?
+
+## POINTER 13 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296194]
+(JUD)
+Eso parece. Qué pena...
+
+## POINTER 14 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296194]
+(EST_P)
+A mí me preocupa más que
+esto nos acabe mal nutriendo.
+
+## POINTER 15 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296194]
+(RIT)
+¡Ni te molestes en preparar esto
+otra vez para mí! Prefiero pasar hambre.
+
+## POINTER 16 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296194]
+(KAR)
+Sabéis, también podríais intentar
+cocinar algo vosotros por una vez...

@@ -1,0 +1,208 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS27_111)Wow, look at <STR>(YUR) go.
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VS27_112)Looks like he's got the goods all right.
+
+## POINTER 2
+
+<VOICE>(VS27_113)Well it just keeps getting better! 
+Now it's time for the main event!<PAGE><VOICE>(VS27_114)Allow me to introduce...
+The current and undefeated 
+champion of the coliseum!
+
+## POINTER 3
+<STR>(RAP)
+<VOICE>(VS27_115)Arooo!
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS27_116)What...?!
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS27_117)Wh-what do you mean?
+
+## POINTER 6
+
+<VOICE>(VS27_118)It's the heartthrob with the 
+steely gaze! <STR>(FRE) Scifo!
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS27_119)...<STR>(YUR)? What are 
+you doing here...?!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS27_120)Huh, so you're the evil 
+villain who's trying to 
+take over the coliseum.
+
+## POINTER 9
+<STR>(FRE)
+<VOICE>(VS27_121)Very funny. Want to tell me 
+what you're talking about?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS27_122)Heh, so we're being used.
+
+## POINTER 11
+<STR>(FRE)
+<VOICE>(VS27_123)It seems that way.
+
+## POINTER 12
+
+<VOICE>(VS27_124)Men of the coliseum! Let the 
+flames of your valor burn bright! 
+It's time for the final showdown!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS27_142)Oh you gotta be kidding...
+
+## POINTER 14
+
+<VOICE>(VS27_143)What do we have here! Has someone 
+arrived to steal the spotlight from 
+the stars of the show?
+
+## POINTER 15
+Zagi
+<VOICE>(VS27_144)<STR>(YUR)! You've managed to stay alive 
+long enough for me to kill you! 
+Now let me show you my thanks!
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS27_145)Heh heh. Hate to disappoint 
+you, but I've got other reasons 
+for sticking around.
+
+## POINTER 17
+Zagi
+<VOICE>(VS27_146)You are the only man ever to 
+make me bleed, and I swear that 
+you will die by my hand!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS27_147)Man, why not do something 
+a little more productive 
+with all that energy?
+
+## POINTER 19
+Zagi
+<VOICE>(VS27_148)Watch this!
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS27_149)Whoa! What is that?!
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS27_150)It's a blastia! I can't believe 
+he'd try to use it like that...!
+
+## POINTER 22
+<STR>(RAV)
+<VOICE>(VS27_151)I've got a bad feelin' 
+about this.
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VS27_152)That blastia...!
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS27_153)<STR>(JUD)!
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS27_154)Hey, what are you doing...?
+
+## POINTER 26
+
+<VOICE>(VS27_155)What could this mean 
+for the tournament?! 
+...Oh screw this. I'm outta here!
+
+## POINTER 27
+Zagi
+<VOICE>(VS27_156)How do you like my arm? You did 
+this to me, and now I'll use it 
+to destroy you! Hah hah hah hah!
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS27_157)<STR>(YUR)!
+
+## POINTER 29
+Zagi
+<VOICE>(VS27_158)Come, <STR>(YUR)! 
+Let me show you 
+my new toy!
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS27_159)Now you're starting to 
+get on my nerves.
+
+## POINTER 31
+Information
+<STR>(YUR) is not in your party.
+Please form a party with <STR>(YUR).
+
+## POINTER 32
+Zagi
+<VOICE>(VS27_160)Uuh...gaah!!
+
+## POINTER 33
+<STR>(RIT)
+<VOICE>(VS27_161)It's out of his control! That's what 
+he gets for using it like that!
+
+## POINTER 34
+Zagi
+<VOICE>(VS27_162)This damn blastia's not 
+doing what I want it to!
+
+## POINTER 35
+<STR>(KAR)
+<VOICE>(VS27_163)M-monsters!
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS27_164)What are they doing here?!
+
+## POINTER 37
+<STR>(FRE)
+<VOICE>(VS27_165)They're kept here to be 
+used in the tournaments!<PAGE><VOICE>(VS27_166)That shock just now must have 
+destroyed the barrier blastia 
+that was holding them in!
+
+## POINTER 38
+Zagi
+<VOICE>(VS27_167)Graaah...!
+
+## POINTER 39
+<STR>(JUD)
+<VOICE>(VS27_168)He's getting away...!
+
+## POINTER 40
+<STR>(EST_P)
+<VOICE>(VS27_169)Aah!
+
+## POINTER 41
+<STR>(YUR)
+<VOICE>(VS27_170)Damn it, guess we'll 
+have to take care of 
+the monsters first.
+
+## POINTER 42
+<STR>(JUD)
+<VOICE>(VS27_171)...

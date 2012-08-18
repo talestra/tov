@@ -1,0 +1,88 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1252193713]
+¿Altas exigencias?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266852216]
+(RAV)
+Ahora que habéis visto cómo
+es er verdadero (RAV), creo
+qu'es vuestro turno.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(YUR)
+¿Nuestro turno para qué?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266852216]
+(RAV)
+Pa contarme vuestra vida
+amorosa, ¿pa qué si no?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(RIT)
+Mira que eres estúpido...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(EST_P)
+Creo... que yo también tengo interés
+en oír lo que tenéis que decir.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(JUD)
+¿Oh? Entonces empieza tú, (EST_P). 
+¿Cómo es tu hombre ideal?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141095]
+(EST_P)
+Mi hombre ideal... es alguien que sea como
+el Caballero Ámbar en el «Relato del planeta
+de jade».
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(JUD)
+¿Quién?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141095]
+(EST_P)
+En el «Relato del planeta de jade».
+Es un buen amigo del protagonista y...
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(RAV)
+Claro, claro. ¿Siguiente?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141095]
+(KAR)
+Yo prefiero a las chicas agradables,
+un poco calladas, tal vez cariñosas,
+no demasiado altas...
+
+## POINTER 12 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267396428]
+(RAV)
+La chica que t'hacía tilín...
+¿era asín?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(YUR)
+Yo creo recordar que era más
+bien de las tercas.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(KAR)
+(RIT) y (JUD), ¿y vosotras qué?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(RIT)
+Alguien que no sea como el viejales.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(JUD)
+Creo que estoy de acuerdo.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(YUR)
+Ya, yo también lo secundo.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191996]
+(RAV)
+¡Estos chavales no entienden
+la belleza de un hombre de
+mediana edad! Algún día, algún día...

@@ -1,0 +1,521 @@
+## POINTER 800 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Me han dicho que hay
+otro camino que te deja
+cerca de Halure.<PAGE>Lástima que no
+sepa dónde está.
+
+## POINTER 801 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Qué ganas tengo
+de ir a Halure
+a ver las flores.<PAGE>Una buena bebida a la sombra del árbol
+de Halure hace que valga la pena ir
+aunque el viaje sea peligroso.
+
+## POINTER 802 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Salir de las barreras
+no era habitual hace
+unos cuantos años.<PAGE>Cada vez hay más viajeros, pero
+a la mayoría de la gente le sigue
+dando miedo salir de las ciudades.
+
+## POINTER 803 [t:1;r:1;ru:memnoch;user:memnoch;time:1296917643]
+No hay forma de ir a Halure
+ahora que el fuerte está cerrado.
+
+## POINTER 804 [t:1;r:1;ru:memnoch;user:memnoch;time:1296917643]
+No te preocupes, ni siquiera
+el Señor de las Llanuras
+puede cruzar el fuerte.
+
+## POINTER 805 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Piensa en toda la gente que nunca ha salido
+de las barreras... Cuánto me alegro de tener
+que viajar en mi trabajo.<PAGE>¿Yo? Voy a entregar
+mercancías de
+Zaphias a Halure.
+
+## POINTER 806 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+En un principio, el fuerte Deidon
+fue construido como un puesto
+fronterizo para defender la capital.<PAGE>Pero también es un sitio
+genial para que descansar.
+
+## POINTER 807 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Seguramente tendré que organizar
+mis planes de nuevo por culpa del
+Señor de las Llanuras y todo eso...
+
+## POINTER 808 [t:1;r:1;ru:memnoch;user:Lia;time:1298043295]
+Esto es el colmo. Me pregunto
+si tendré que quedarme aquí
+hasta la siguiente estación.
+
+## POINTER 809 [t:1;r:1;ru:memnoch;user:Lia;time:1298047141]
+Esta reserva de provisiones
+es para la patrulla fronteriza.<PAGE>Lo siento mucho,
+pero no puedo
+darte nada.
+
+## POINTER 810 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Si necesitas provisiones, te recomiendo
+que hables con los mercaderes
+ambulantes que hay afuera.<PAGE>Seguro que te venden encantados
+una gran variedad de artículos
+de sus cargamentos.
+
+## POINTER 811 [t:1;r:1;ru:memnoch;user:Lia;time:1298047141]
+Nuestro deber consiste en asegurar que
+los viajeros que van y vienen de Zaphias
+tengan un viaje seguro y tranquilo.
+
+## POINTER 812 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Hoy en día el fuerte
+Deidon es la definición
+de la tranquilidad.
+
+## POINTER 813 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+He oído por ahí que el joven
+<STR>(FRE) ahora es capitán.
+Yo también tengo que darlo todo.
+
+## POINTER 814 [t:1;r:1;ru:memnoch;user:Lia;time:1298047430]
+Últimamente no hemos
+oído nada de Zaphias.
+¿Qué estará pasando?
+
+## POINTER 815 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Los rumores dicen que
+Heracles se ha estrellado
+contra Zaphias.<PAGE>Espero que la ciudad
+esté a salvo...
+
+## POINTER 816 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Como Caballero que soy, cumplo con
+mi deber de proteger Zaphias, pero...
+¿basta con defender el fuerte?
+
+## POINTER 817 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+He oído que ha salido
+algo increíble del mar.
+¿Qué será?
+
+## POINTER 818 [t:1;r:1;ru:memnoch;user:Lia;time:1298048355]
+¿Qué significa ser un verdadero
+Caballero? ¿Vigilar el fuerte
+mientras miro ese cielo tan extraño?
+
+## POINTER 819 [t:1;r:1;ru:memnoch;user:Lia;time:1298048355]
+Aquí no nos llegan
+noticias de nada.
+
+## POINTER 820 [t:1;r:1;ru:memnoch;user:Lia;time:1298048355]
+Dicen que <STR>(FRE) ha rescatado
+a la gente que escapó de Zaphias.
+Es el orgullo de los Caballeros Imperiales.
+
+## POINTER 821 [t:1;r:1;ru:memnoch;user:Lia;time:1298048355]
+Haré lo que sea
+con tal de ayudar.
+
+## POINTER 822 [t:1;r:1;ru:memnoch;user:Lia;time:1298048355]
+Esta estación es exclusiva
+para guardias.<PAGE>Las personas no autorizadas
+tienen prohibida la entrada.
+
+## POINTER 823 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Acceder a las escaleras
+de atrás está totalmente
+prohibido.<PAGE>Abstente de pisar
+el nivel superior
+de las murallas.
+
+## POINTER 824 [t:1;r:1;ru:memnoch;user:Lia;time:1298111210]
+El personal no autorizado
+tiene prohibida la entrada
+al cuartel.
+
+## POINTER 825 [t:1;r:1;ru:memnoch;user:Lia;time:1298111210]
+Acceder a las escaleras
+de atrás está totalmente
+prohibido.
+
+## POINTER 826 [t:1;r:1;ru:memnoch;user:Lia;time:1298111210]
+Acceder a las escaleras
+de atrás está totalmente
+prohibido.<PAGE>Es peligroso.
+
+## POINTER 827 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Nos aseguraremos de que nuestros
+ciudadanos estén a salvo.<PAGE>No permitiremos
+que alguien se
+ponga en peligro.
+
+## POINTER 828 [t:1;r:1;ru:memnoch;user:Lia;time:1298111531]
+Ahora mismo tenemos que
+concentrar nuestros esfuerzos
+en derrotar a los monstruos.
+
+## POINTER 829 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+¡Nos las hemos
+arreglado para
+escapar a salvo!<PAGE>¡Los Caballeros debemos
+defender a aquellos que
+han huido con nosotros!
+
+## POINTER 830 [t:1;r:1;ru:memnoch;user:Lia;time:1298112325]
+No lo comprendo...
+Solía tener una gran
+determinación, pero ahora...
+
+## POINTER 831 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Me pregunto cuánto
+tiempo estaremos aquí...<PAGE>En cualquier caso, tenemos que
+tomar medidas de emergencia
+para poder vivir aquí.
+
+## POINTER 832 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Y aun así, no tenemos
+suficientes suministros
+o gente disponible.<PAGE>Pero hay que
+hacer algo...
+
+## POINTER 833 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+¿Aquí no hay ninguna barrera blastia?
+Muy bien. ¡Ha llegado la hora de demostrar
+lo que valemos!<PAGE>Tú tranquilízate y
+déjanoslo a nosotros.
+
+## POINTER 834 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+El hecho de que hayamos conseguido
+vivir dentro de la barrera durante
+tanto tiempo es prueba de ello.
+
+## POINTER 835 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Mira, me alegro de haber sobrevivido...
+Pero ¿qué se supone que vamos a
+poder hacer en un lugar como este?
+
+## POINTER 836 [t:1;r:1;ru:memnoch;user:memnoch;time:1296918079]
+Quiero volver a Zaphias
+cuanto antes.
+
+## POINTER 837 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Está claro que no es
+momento de hacer negocios.
+
+## POINTER 838 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Les he dado a los Caballeros
+todo lo que tenía de utilidad.
+
+## POINTER 839 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Dicen que el hogar es donde
+reside el corazón, ¿no? Puedes
+vivir en cualquier sitio.<PAGE>Ya estábamos bastante mal
+en Zaphias. Aquí no hay
+diferencia alguna.
+
+## POINTER 840 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+¿No podrían los mercaderes
+sintetizar alguna tienda?
+
+## POINTER 841 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+¿Cuánto tiempo vamos a tener
+que estar sin barrera?<PAGE>¡Tengo miedo! ¡Un miedo
+de muerte! Seguro que
+los monstruos nos atacan...
+
+## POINTER 842 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Aaaah...
+¿Cómo pueden estar
+tan panchos esos dos?
+
+## POINTER 843 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Este sitio es genial; estamos en
+plena naturaleza. Claro que todavía
+está el peligro de los monstruos.<PAGE>Los humanos son parte de la cadena
+alimenticia, así que si nos comen,
+habrá que aguantarse.
+
+## POINTER 844 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+¡Ah! ¡Me encanta!
+Disfruto de la adversidad;
+nos hace descubrir cosas nuevas.
+
+## POINTER 845 [t:1;r:1;ru:memnoch;user:memnoch;time:1296918079]
+Oiga, señor...
+¿Cuándo podremos
+volver a casa?
+
+## POINTER 846 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Quiero ir a casa.
+Iré por mi cuenta...
+
+## POINTER 847 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Ahora la pregunta es:
+¿qué será de nosotros
+de ahora en adelante?
+
+## POINTER 848 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Y seguramente
+la respuesta es:
+«¿Quién sabe?».
+
+## POINTER 849 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Ugh... Ooooh...
+No... Estoy bien, de verdad.<PAGE>Solo me he hecho un corte...
+¡Aaagh!
+¡Ay, cómo duele!
+
+## POINTER 850 [t:1;r:1;ru:memnoch;user:memnoch;time:1296918079]
+Auch, auch...
+Me alegro de
+no haber muerto.
+
+## POINTER 851 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Estoy hasta las
+narices de huir.<PAGE>Y para colmo de males, un monstruo
+me ha dado un buen mordisco...
+
+## POINTER 852 [t:1;r:1;ru:memnoch;user:memnoch;time:1296918079]
+Me duelen un poco las
+piernas, pero estoy bien.<PAGE>La gente de aquí
+se reiría de mí
+si empezara a lloriquear.
+
+## POINTER 853 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Voy a protegerla
+a toda costa.<PAGE>La experiencia que hemos
+vivido me ha hecho tomar
+esa decisión.
+
+## POINTER 854 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Si nos queda algo de comida, aunque
+solo sea un poco, se la daré toda
+a ella. No me importa si muero yo.
+
+## POINTER 855 [t:1;r:1;ru:memnoch;user:memnoch;time:1304553422]
+Es muy bonito que alguien
+te quiera tanto...<PAGE>¡Pero este tío se lo toma
+tan a pecho que da miedo!
+
+## POINTER 856 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Y no parece importarle nada
+hacer de escudo humano por mí.
+Así que no puedo ser grosera con él...
+
+## POINTER 857 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Grrr... ¡Esta señora no para de
+quejarse! ¡Me pone de los nervios!<PAGE>Bueno, es mi esposa, así
+que no pasa nada, pero...
+
+## POINTER 858 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Ojalá supiera llevarlo mejor...<PAGE>Es decir, yo me he hecho un corte
+en el costado que duele que no veas,
+pero ¿me ves quejarme? No.
+
+## POINTER 859 [t:1;r:1;ru:memnoch;user:memnoch;time:1297972622]
+¡Me duele!
+¡Tengo hambre!
+¡Voy a morir!<PAGE>No puedo aguantar más.
+¡Auch!
+¡ODIO ESTO!
+
+## POINTER 860 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Me he roto un hueso. Lo sé.
+Me he roto algo. Bueno, ¡al
+menos es solo una fractura!
+
+## POINTER 861 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+No está mal, ¿eh?
+Ya casi parece una
+ciudad de verdad y todo.
+
+## POINTER 862 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Al menos es un comienzo.
+
+## POINTER 863 [t:1;r:1;ru:memnoch;user:memnoch;time:1298155228]
+Dummy: 
+Please enter a message Ver2
+
+## POINTER 864 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Ya hemos construido vallas
+y algunas casas. Ya empieza
+a parecer un pueblo de verdad.
+
+## POINTER 865 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Son tiempos difíciles. Traer
+suministros, establecer una
+autonomía... Hay mucho que hacer.
+
+## POINTER 866 [t:1;r:1;ru:memnoch;user:memnoch;time:1296918079]
+¡No puedo hablar!
+
+## POINTER 867 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Desenterraron un blastia
+mientras construían este
+poblado.<PAGE>Pero no funciona porque está roto
+y le falta el núcleo. Aunque sirve
+muy bien de monumento.
+
+## POINTER 868 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Aunque no funcione, este blastia
+puede servir como símbolo de 
+seguridad en este poblado.
+
+## POINTER 869 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+¡Me dirigía a Torim, pero
+<STR>(FRE) me ordenó venir aquí!<PAGE>¡Espero conocer a todos los habitantes
+y que se queden con mi cara!
+
+## POINTER 870 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Espero que los que no residan aquí
+también nos ayuden. ¡Hay que construir
+este poblado entre todos!
+
+## POINTER 871 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Se está mucho mejor
+aquí que en los
+barrios bajos.
+
+## POINTER 872 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Habrá que esperar a ver cómo
+queda todo, pero ahora mismo no
+me veo volviendo a Zaphias.
+
+## POINTER 873 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+La cuenca central de la isla central
+del archipiélago Surion, al noroeste
+de aquí, estaba bajo el agua.<PAGE>No sé cómo, pero dicen
+que el agua de allí
+ha desaparecido.
+
+## POINTER 874 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+«La Tierra Submarina»...
+Parece el título de
+un relato romántico.
+
+## POINTER 875 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+No me esperaba que el
+poblado quedara tan bien.<PAGE>Creo que podremos llevar aquí
+una vida mucho mejor que la que
+teníamos en los barrios bajos. ♪
+
+## POINTER 876 [t:1;r:1;ru:memnoch;user:memnoch;time:1304529426]
+Es un poco peligrosa, pero
+¿no crees que esta nueva vida
+no está pero que nada mal?
+
+## POINTER 877 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+¿Qué será del mundo
+si desaparecen los
+blastias?<PAGE>Mmm...
+
+## POINTER 878 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Oh, vaya... He intentado
+imaginarme el mundo sin los
+blastias... pero no me sale.
+
+## POINTER 879 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+¡Esto es horrible!
+¡No puede ser! ¡Una
+ciudad sin barrera!<PAGE>¿De qué sirve
+un blastia si
+no fuciona?
+
+## POINTER 880 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Mira al cielo.
+¡Ese monstruo
+no para quieto!
+
+## POINTER 881 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+¡Es horrible! 
+¿Cómo vamos a vivir
+sin una barrera?<PAGE>Pero si Su Alteza nos dice
+que lo hagamos, supongo que
+habrá que hacerlo...
+
+## POINTER 882 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+¡No quiero que me despidan
+por no obedecer las órdenes
+del Emperador!
+
+## POINTER 883 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+He ayudado un poco
+a construir casas.
+
+## POINTER 884 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+¡El maestro carpintero
+dice que tengo talento!
+
+## POINTER 885 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+¡Este sitio sirve de hospital
+y de posada! ¿Por qué no pasáis
+aquí la noche? Son solo 100 gald.
+
+## POINTER 886 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Venid cuando queráis...
+
+## POINTER 887 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Hemos convertido esta ciudad
+en un hogar. Podemos venir
+aquí siempre que queramos.
+
+## POINTER 888 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Voy a volver a
+casa yo solo...
+
+## POINTER 889 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+No se puede subestimar la capacidad
+de trabajo de los humanos. ¡Hemos
+terminado esta ciudad en un periquete!
+
+## POINTER 890 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Me gustaría ayudar...
+Pero, verás... soy
+bastante incompetente...
+
+## POINTER 891 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Su Alteza ha dicho que mataría
+a ese monstruo con el núcleo
+de blastia.<PAGE>Espero poder ayudar con eso para
+compensar el no haber podido
+ayudar a construir la ciudad.
+
+## POINTER 892 [t:1;r:1;ru:memnoch;user:memnoch;time:1298157106]
+Por suerte, estudio los blastias, así
+que creo que hay que considerar qué
+vamos a hacer cuando no ya no queden.
+
+## POINTER 893 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Supongo que siempre hay que dar
+el primer paso a partir de la
+nada, como hemos hecho aquí.
+
+## POINTER 894 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Y pensar que he tenido que llegar a
+esta edad tan avanzada para darme
+cuenta de la suerte que tengo...
+
+## POINTER 895 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+He montado esta tienda
+para mi amorcito yo
+solito.<PAGE>Les pregunté cómo hacerlo
+a los del gremio de arquitectos.
+
+## POINTER 896 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Una tienda solo para ella...
+Eso sí que es amor verdadero...
+
+## POINTER 897 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Oye, ¿qué te parece? Echa
+un vistazo. Ya es toda una
+señora ciudad, ¿verdad?
+
+## POINTER 898 [t:1;r:1;ru:memnoch;user:xander;time:1298148832]
+Ahora tenemos que protegerla
+con nuestras vidas.
+
+## POINTER 899 [t:1;r:1;ru:memnoch;user:memnoch;time:1296918079]
+¡Este, despejado! ¡Oeste, despejado! 
+¡Norte, despejado! ¡Sur, despejado!
+¡No hay moros en la costa!

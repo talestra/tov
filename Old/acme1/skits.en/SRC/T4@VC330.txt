@@ -1,0 +1,54 @@
+## POINTER 0
+Not Too Sharp...
+
+## POINTER 1
+(KAR)
+Ugh... This is terrible.
+
+## POINTER 2
+(YUR)
+Did you follow the recipe? There 
+are ingredients in this food that 
+really shouldn't be in it.
+
+## POINTER 3
+(EST_P)
+Actually, I haven't seen our recipe 
+book around recently...
+
+## POINTER 4
+(RAV)
+Yeah, I wonder where it went.
+
+## POINTER 5
+(RIT)
+Recipe book...? Is this 
+it, by any chance?
+
+## POINTER 6
+(JUD)
+(RIT), you had it?
+
+## POINTER 7
+(RIT)
+No wonder it seemed so flimsy and weak.
+
+## POINTER 8
+(KAR)
+You were using it as a weapon...?
+
+## POINTER 9
+(RIT)
+Someone replaced my book with this 
+thing. It's not my fault nobody 
+noticed the recipes were gone.
+
+## POINTER 10
+(YUR)
+Well, I can't argue with you there.
+
+## POINTER 11
+(JUD)
+We don't have very many recipes, 
+either... Maybe we should have 
+some more interest in cooking.

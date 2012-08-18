@@ -1,0 +1,155 @@
+## POINTER 0
+
+Halt! This area is currently 
+under the control of the 
+Imperial Knights!
+
+## POINTER 1
+<STR>(RAV)
+The Royal Guard... This is 
+the Commandant's private 
+force of elite knights.
+
+## POINTER 2
+<STR>(YUR)
+What are the Commandant's forces 
+doing in a forest like this 
+with hoplon blastia?
+
+## POINTER 3
+
+I have no reason to answer your questions. 
+And civilian activity is restricted 
+by law in this area.
+
+## POINTER 4
+<STR>(YUR)
+Hmmm, be that as it may, 
+why are you pointing that 
+weapon at us like that?
+
+## POINTER 5
+
+Bring it on!
+
+## POINTER 6
+<STR>(YUR)
+Man, that escalated 
+quickly.<PAGE>Well, we're off 
+to a good start.
+
+## POINTER 7
+<STR>(EST_P)
+So the mysterious group of people 
+was the Imperial Knights...
+
+## POINTER 8
+<STR>(KAR)
+But why did he 
+attack us?
+
+## POINTER 9
+<STR>(JUD)
+Maybe because they're doing something here 
+that they don't want anyone to know about?
+
+## POINTER 10
+<STR>(KAR)
+You mean...with that blastia?
+
+## POINTER 11
+<STR>(YUR)
+Maybe, yeah.
+
+## POINTER 12
+<STR>(EST_P)
+Watch out...!
+
+## POINTER 13
+<STR>(RIT)
+<STR>(EST_P)...!
+
+## POINTER 14
+<STR>(KAR)
+...What did you just do?
+
+## POINTER 15
+<STR>(RIT)
+Same as what she did in Heliord...!<PAGE><STR>(EST_P)'s power took the aer 
+and made it dissipate!
+
+## POINTER 16
+<STR>(RIT)
+You've got to stop doing crazy things like that...
+
+## POINTER 17
+<STR>(EST_P)
+I'm, I'm sorry! I just thought about 
+how everyone was in danger, and before 
+I knew it my power...
+
+## POINTER 18
+<STR>(JUD)
+Her power is starting to unconsciously 
+respond to her feelings...
+
+## POINTER 19
+<STR>(RIT)
+That last attack came from that blastia. 
+It was aiming straight at us.
+
+## POINTER 20
+<STR>(JUD)
+Which means that <STR>(EST_P) will 
+end up using her power every 
+time we're shot at.
+
+## POINTER 21
+<STR>(EST_P)
+...But then...what 
+should I do...
+
+## POINTER 22
+<STR>(YUR)
+Hey hey, you saved 
+us, didn't you?
+
+## POINTER 23
+<STR>(KAR)
+Yeah, if that had hit us head on, 
+we would've been goners for sure!<PAGE>We should be mad at the fact that they 
+shot at us, not that <STR>(EST_P) protected us!
+
+## POINTER 24
+<STR>(YUR)
+We've sworn to settle <STR>(EST_P)'s 
+problems along with the world's 
+problems.<PAGE>Everything we're doing right now is 
+towards that purpose. We shouldn't 
+let the details get in our way.
+
+## POINTER 25
+<STR>(RAV)
+But won't Phaeroh get mad if she 
+keeps doin' stuff like this?<PAGE>Whether it's by a blastia or by Phaeroh, 
+I don't wanna be barbecued alive!
+
+## POINTER 26
+<STR>(YUR)
+Come on, this is simple. We 
+just have to do something about 
+that blastia, right?
+
+## POINTER 27
+<STR>(JUD)
+That's right.
+
+## POINTER 28
+<STR>(RIT)
+Let's pummel the jerks who are 
+controlling that blastia!
+
+## POINTER 29
+<STR>(YUR)
+All right, let's go. Try 
+to keep a low profile.

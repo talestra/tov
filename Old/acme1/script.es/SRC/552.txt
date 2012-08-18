@@ -1,0 +1,55 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1288112249]
+<STR>(KAR)
+<VOICE>(VS65_020)Hala...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1288112249]
+<STR>(YUR)
+<VOICE>(VS65_021)Qué pasada... ¿Cómo ha podido
+estar esto bajo tierra
+durante tanto tiempo?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1288112249]
+<STR>(EST_P)
+<VOICE>(VS65_022)La antigua civilización geraios.
+Esto es más impresionante que
+lo que aparece en los libros.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1288112249]
+<STR>(RIT)
+<VOICE>(VS65_023)Algo no cuadra.<PAGE><VOICE>(VS65_024)Sé que esto es un arma, porque
+lo va a usar contra el adephagos.<PAGE><VOICE>(VS65_025)Pero desde fuera, parecía una ciudad.
+¿Convirtieron una ciudad entera en un arma?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839925]
+<STR>(JUD)
+<VOICE>(VS65_026)Este lugar es enorme.
+Muchísima gente
+debió vivir aquí.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839925]
+<STR>(YUR)
+<VOICE>(VS65_027)Y ahora, una única persona
+se ha atrincherado aquí para
+matar al resto del mundo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839925]
+<STR>(RAV)
+<VOICE>(VS65_028)Duke... Preferiría no encontrármelo
+si se puede evitar.<PAGE><VOICE>(VS65_029)Ese soldado ya era tó un
+héroe en la Gran Guerra.<PAGE><VOICE>(VS65_030)A saber lo mucho que se habrá
+fortalecido desde entonces.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291839925]
+<STR>(YUR)
+<VOICE>(VS65_031)¿De qué estás hablando?
+Acabaremos con el adephagos
+antes de enfrentarnos a Duke.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1288112249]
+<STR>(KAR)
+<VOICE>(VS65_032)Entonces Duke ya no tendrá motivos
+para sacrificar a la humanidad.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1288112249]
+<STR>(RAV)
+<VOICE>(VS65_033)Eso espero...

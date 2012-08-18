@@ -1,0 +1,177 @@
+## POINTER 0
+Rich
+...Hmpf...
+
+## POINTER 1
+Karen
+Welcome to the King of Adventure...
+Oh, it's you!
+Wonderful to see you again! ♪
+
+## POINTER 2
+<STR>(YUR)
+Yeah, it's been a while.
+
+## POINTER 3
+Karen
+What pleasant serendipity 
+that we would run into 
+each other yet again!
+
+## POINTER 4
+Rich
+...I thought we'd 
+see them again...
+
+## POINTER 5
+Karen
+Oh, big brother, you're 
+ever so blunt!
+
+## POINTER 6
+<STR>(KAR)
+Who are these people...?
+
+## POINTER 7
+<STR>(EST_P)
+This is Karen and Rich! 
+They're traveling around 
+and operating an inn.
+
+## POINTER 8
+Karen
+Nice to meet you! ∀
+
+## POINTER 9
+Rich
+......
+
+## POINTER 10
+<STR>(KAR)
+N-nice to meet you too...
+
+## POINTER 11
+Karen
+It seems you have more companions 
+since the last time we met. How nice!<PAGE>Perhaps you'd like 
+to stop and rest?
+
+## POINTER 12
+
+...Hmpf...
+
+## POINTER 13
+
+Welcome, good travelers! ♪
+Would you like to stop and rest?
+
+## POINTER 14
+<STR>(YUR)
+Huh...? An inn...?
+
+## POINTER 15
+
+It's the King of Adventure Travelers' Lodge♪
+
+## POINTER 16
+
+...Stop and rest...
+
+## POINTER 17
+
+Oh, big brother, you're 
+ever so blunt!
+
+## POINTER 18
+<STR>(KAR)
+It's a carriage and
+inn in one...?
+
+## POINTER 19
+<STR>(EST_P)
+What wonderful work
+you do.
+
+## POINTER 20
+
+We travel the world
+and run an inn at
+the same time.
+
+## POINTER 21
+Rich
+...I'm Rich...
+
+## POINTER 22
+Karen
+I..I'm Karen.<PAGE>Would you like to rest
+before heading out again?
+
+## POINTER 23
+Do you want to stay?
+Stay
+Do not stay
+
+## POINTER 24
+<STR>(YUR)
+Yeah, I could 
+use some rest.
+
+## POINTER 25
+<STR>(KAR)
+I agree. I'm kind of tired out, myself...
+
+## POINTER 26
+<STR>(EST_P)
+Well then, we'll take 
+you up on your offer.
+
+## POINTER 27
+Karen
+Please, make yourselves at home.
+
+## POINTER 28
+<STR>(KAR)
+*Yaaaaaaawn* ...
+
+## POINTER 29
+Karen
+Did you sleep well?
+
+## POINTER 30
+<STR>(YUR)
+Yeah, I slept like a trick yo-yo.
+
+## POINTER 31
+Karen
+If you ever happen to see us around 
+again, please stop and say hello!♪
+
+## POINTER 32
+<STR>(EST_P)
+Yes, thank you so much. 
+You're so kind!
+
+## POINTER 33
+Rich
+...Later...
+
+## POINTER 34
+Karen
+Big brother, I keep telling 
+you, try to be more friendly!
+
+## POINTER 35
+<STR>(YUR)
+We're not really that tired. 
+I think we'll pass this time.
+
+## POINTER 36
+Karen
+Oh, really?<PAGE>If you ever happen to see us around 
+again and you're feeling tired, please 
+stop by! We'll be waiting! ∀
+
+## POINTER 37
+Rich
+...Later...

@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1269770253]
+¿Habéis dicho «castillo»?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680780]
+(RIT)
+Oye, ¿no dijiste hace poco
+algo sobre el castillo?
+
+## POINTER 2 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266668860]
+(EST_P)
+¿Oh? Sí, bueno, verás...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680780]
+(YUR)
+Sí, viví en el castillo hace tiempo.
+Antes formaba parte de los Caballeros.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680780]
+(RIT)
+¿Tú? ¿Un Caballero?
+Por favor, no me hagas reír.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680780]
+(EST_P)
+Aunque no te lo creas,
+es cierto.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680780]
+(RIT)
+Bueno, los milagros existen...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680780]
+(YUR)
+¡¿Tan difícil es de creer?!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680780]
+(YUR)
+Venga, vámonos.
+
+## POINTER 9 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669011]
+(RIT)
+¡Oye! Que me han cambiado de tema...

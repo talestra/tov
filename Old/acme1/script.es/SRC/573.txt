@@ -1,0 +1,139 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+<STR>(RAV)
+<VOICE>(VA012_001)Aquí está, cariñín.
+Tu colgante de livianita.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+Rhianna
+<VOICE>(VA012_002)Ah... ¡Oh, Dios mío!
+¡Muchísimas gracias!
+¿Dónde lo habéis encontrado?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1284560363]
+<STR>(YUR)
+<VOICE>(VA012_003)Pues verás...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+Rhianna
+<VOICE>(VA012_004)Guau... Menudo milagro.
+Gracias al cielo.
+Sobre vuestra recompensa...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+<STR>(RAV)
+<VOICE>(VA012_005)Oh, ¡tu amor es
+recompensa suficiente!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1284560363]
+<STR>(YUR)
+<VOICE>(VA012_006)Tranquilito, viejales.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1284560363]
+
+<VOICE>(VA012_007)¡Rhianna!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+Rhianna
+<VOICE>(VA012_008)Tú...
+¿Dónde has estado?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1284560363]
+<STR>(JUD)
+<VOICE>(VA012_009)Eres ese hombre... el de Heliord.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+
+<VOICE>(VA012_010)
+¡Eh! ¡Vosotros! Rhianna,
+¿de qué conoces a esta gente?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1284560363]
+Rhianna
+<VOICE>(VA012_011)Estaban buscando
+mi colgante.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+
+<VOICE>(VA012_012)¡Pero qué...!
+¡Oh, así que por eso...!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1284560363]
+<STR>(RAV)
+<VOICE>(VA012_013)¡Exactamente!
+¿Y tú quién leches eres?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1284560363]
+
+<VOICE>(VA012_014)¡Soy un viejo amigo suyo!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+<STR>(RAV)
+<VOICE>(VA012_015)Así que un «viejo amigo», ¿eh? *Gruñido*
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+Rhianna
+<VOICE>(VA012_016)Eres un verdadero plasta. ¿Podrías cerrar
+la bocaza por un minuto, por favor?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1284561666]
+<STR>(RAV)
+<VOICE>(VA012_017)Vale, he captado la indirecta...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1284561666]
+Rhianna
+<VOICE>(VA012_018)¿Dónde has estado todo este tiempo?
+Te he estado buscando.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+
+<VOICE>(VA012_019)He estado buscando
+tu colgante.<PAGE><VOICE>(VA012_020)El colgante que decías que
+era un recuerdo de tu padre.<PAGE><VOICE>(VA012_021)Pero no podía encontrarlo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+Rhianna
+<VOICE>(VA012_022)No te preocupes. Yo misma quería
+encontrarlo por una razón.<PAGE><VOICE>(VA012_023)Al final tuve que pedir ayuda
+de esta gente, pero...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1284561666]
+Rhianna
+<VOICE>(VA012_024)Quería regalártelo como
+símbolo de nuestro compromiso.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1284561666]
+<STR>(RAV)
+<VOICE>(VA012_025)¿Ein? ¿Compromiso?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1284561666]
+
+<VOICE>(VA012_026)¿Lo hiciste por mí?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1284561666]
+<STR>(YUR)
+<VOICE>(VA012_027)Creo que deberíamos irnos.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527224]
+<STR>(EST_P)
+<VOICE>(VA012_028)¿Oh? Pero ¿y la paga?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1284562110]
+<STR>(YUR)
+<VOICE>(VA012_029)Considéralo un regalo de boda.<PAGE><VOICE>(VA012_030)¿Verdad, <STR>(KAR)?...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1284561666]
+<STR>(RIT)
+<VOICE>(VA012_031)Se ha ido.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1291933202]
+<STR>(JUD)
+<VOICE>(VA012_032)¿Mmm? Pues hace
+un momento estaba aquí.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1284561666]
+<STR>(YUR)
+<VOICE>(VA012_033)A lo mejor le ha vuelto a surgir algo.<PAGE><VOICE>(VA012_034)Eh, viejales, que nos vamos.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1284561666]
+<STR>(RAV)
+<VOICE>(VA012_035)¿Eh? Oh, claro.

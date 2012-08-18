@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242788]
+<STR>(KAR)
+Así que <STR>(EST_P) vuelve a casa, ¿eh?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272916641]
+<STR>(RIT)
+¿Esto te parece bien, <STR>(YUR)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242788]
+<STR>(YUR)
+No es decisión mía.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272916641]
+<STR>(RIT)
+Sí, bueno, es verdad, pero...
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272916641]
+<STR>(YUR)
+Es más importante saber dónde estamos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242788]
+<STR>(KAR)
+Esta es la ciudad de Heliord. Geográficamente
+hablando, se encuentra entre el puerto de Torim
+y la ciudad de Dahngrest.<PAGE>Se fundó hace poco.
+Es una ciudad muy joven.<PAGE>
+Si se sigue este camino hacia el este se llega a
+Caer Bocram, donde estuvimos antes. Si se va a hacia
+el oeste y luego al noroeste se llega a Dahngrest.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242788]
+<STR>(YUR)
+Ajá... Bueno, quizás debería
+dar una vuelta por la ciudad.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272916911]
+<STR>(RIT)
+Yo también tengo cosas que hacer.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272916911]
+<STR>(KAR)
+Mmm, y ahora qué hago...

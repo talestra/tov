@@ -1,0 +1,41 @@
+## POINTER 0
+The Hunting Blades and the Monster
+
+## POINTER 1
+(EST_P)
+What do you think that scary monster 
+we saw in Caer Bocram was?
+
+## POINTER 2
+(YUR)
+That beast was way tougher than 
+anything I've ever seen before.
+
+## POINTER 3
+(YUR)
+If it didn't run away when it did, 
+we'd have been in a world of hurt.
+
+## POINTER 4
+(RIT)
+That's a surprisingly cautious opinion, coming from you.
+
+## POINTER 5
+(RIT)
+Not that I disagree, when it 
+comes to a monster like that.
+
+## POINTER 6
+(EST_P)
+Do you think it was the Hunting Blades who 
+trapped it in a reverse barrier?
+
+## POINTER 7
+(YUR)
+...Yeah, probably... It looked like they'd 
+come to take that monster down.
+
+## POINTER 8
+(YUR)
+Whatever the case, I don't want to meet 
+up with a monster like that again.

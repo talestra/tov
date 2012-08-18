@@ -1,0 +1,312 @@
+## POINTER 188
+Defend 3
+
+## POINTER 189
+Increases physical defense by 15%.
+Increase due to equipment not affected.
+
+## POINTER 190
+Defend 4
+
+## POINTER 191
+Increases physical defense by 20%.
+Increase due to equipment not affected.
+
+## POINTER 192
+Defend T
+
+## POINTER 193
+Increases physical defense by 25% only when
+HP is over 75%. Increase due to equipment not affected.
+
+## POINTER 194
+Resist
+
+## POINTER 195
+Increases magic defense by 5%. 
+Increase due to equipment not affected.
+
+## POINTER 196
+Resist 2
+
+## POINTER 197
+Increases magic defense by 10%.
+Increase due to equipment not affected.
+
+## POINTER 198
+Resist 3
+
+## POINTER 199
+Increases magic defense by 15%.
+Increase due to equipment not affected.
+
+## POINTER 200
+Resist 4
+
+## POINTER 201
+Increases magic defense by 20%.
+Increase due to equipment not affected.
+
+## POINTER 202
+Resist T
+
+## POINTER 203
+Increases magic defense by 25% only when 
+HP is over 75%. Increase due to equipment not affected.
+
+## POINTER 204
+Critical Guard
+
+## POINTER 205
+Press <06>(GUD) ＋ <06>(LTR) to guard while advancing.
+Nullifies enemy attacks if performed at the correct time.
+
+## POINTER 206
+Guard Impact
+
+## POINTER 207
+Stuns and reflects enemy attacks for a short
+period with the success of a Critical Guard.
+
+## POINTER 208
+Magic Guard
+
+## POINTER 209
+Press <06>(GUD) ＋ <06>(LTD) to decrease magic damage
+taken. Effective only while button is held down.
+
+## POINTER 210
+Magic Guard 2
+
+## POINTER 211
+Extend the guard effect by holding the button
+during a Magic Guard. Consumes TP.
+
+## POINTER 212
+Aerial Guard
+
+## POINTER 213
+Able to guard in mid-air.
+
+## POINTER 214
+Aerial Magic Guard
+
+## POINTER 215
+Able to use Magic Guard in mid-air.
+Stays in mid-air during the effect.
+
+## POINTER 216
+Guard Plus
+
+## POINTER 217
+Decreases the amount of damage taken
+while guarding.
+
+## POINTER 218
+Guard Plus 2
+
+## POINTER 219
+Decreases the amount of damage taken
+from the side or rear.
+
+## POINTER 220
+Magic Guard Plus
+
+## POINTER 221
+Reduces damage received while using Magic Guard.
+
+## POINTER 222
+Guard Reflect
+
+## POINTER 223
+Reflects 1/5 of the damage taken during guard.
+
+## POINTER 224
+Guard Artes
+
+## POINTER 225
+Cancels guard motion and performs an arte.
+Invincible to attacks for a short period of time.
+
+## POINTER 226
+Extend Guard
+
+## POINTER 227
+Gradually recovers HP during guard.
+
+## POINTER 228
+Guard Supply
+
+## POINTER 229
+Recovers TP if guarded from enemy attacks.
+
+## POINTER 230
+Roll
+
+## POINTER 231
+Decreases damage taken by half
+when staggering.
+
+## POINTER 232
+Revenge Arrow
+
+## POINTER 233
+Release an arrow as <06>(ATK) is pressed while staggering.
+
+## POINTER 234
+Anti Element
+
+## POINTER 235
+Occasionally decreases damage from
+an elemental attack by half.
+
+## POINTER 236
+Anti Break
+
+## POINTER 237
+Reduces the chance of Guard Break.
+
+## POINTER 238
+Super Guard
+
+## POINTER 239
+Reduce physical damage to 1 when guarding.
+Damage doubles if not guarding.
+
+## POINTER 240
+Super Resist
+
+## POINTER 241
+Reduce magic damage to 1 when guarding.
+Damage doubles if not guarding.
+
+## POINTER 242
+Steel Defense
+
+## POINTER 243
+Reduce damage received to 10% when near K.O.
+
+## POINTER 244
+Status Guard
+
+## POINTER 245
+Reduces the effect of magical ailments.
+
+## POINTER 246
+Condition Guard
+
+## POINTER 247
+Reduces the effects of certain 
+physical ailments.
+
+## POINTER 248
+Immunity
+
+## POINTER 249
+Reduces the chance of receiving status effects.
+
+## POINTER 250
+Cure Guard
+
+## POINTER 251
+Recovers physical ailments by staying
+in a guard position for a short period.
+
+## POINTER 252
+Lion Heart
+
+## POINTER 253
+Greatly increases resistance for all negative
+status effects.
+
+## POINTER 254
+Cure Area
+
+## POINTER 255
+Allies near Flynn automatically recovers
+from status effects occasionally.
+
+## POINTER 256
+Guard Attack
+
+## POINTER 257
+Cancels guard and performs a normal attack.
+
+## POINTER 258
+Over Reaction
+
+## POINTER 259
+At taking damage, press the attack button to be knocked downed. Nullifies all attack while knocked to ground. Used to escape from combo attacks. Recovers automatically.
+
+## POINTER 260
+Endure
+
+## POINTER 261
+Decreases amount of time needed to recover
+from a stagger hit.
+
+## POINTER 262
+Void Attack
+
+## POINTER 263
+Occasionally prevents staggering
+when receiving a physical attack.
+
+## POINTER 264
+Void Magic
+
+## POINTER 265
+Occasionally prevents staggering
+when receiving a magic attack.
+
+## POINTER 266
+Step Away
+
+## POINTER 267
+Avoid staggering when hit during Backstep.
+
+## POINTER 268
+Escape Step
+
+## POINTER 269
+Nullifies all attacks during Backstep.
+
+## POINTER 270
+Guard All
+
+## POINTER 271
+Occasionally auto-guard against attacks
+ from the rear.
+
+## POINTER 272
+Absorption
+
+## POINTER 273
+Nullifies a magic attack when casting a spell
+of the same attribute.
+
+## POINTER 274
+Defend Artes
+
+## POINTER 275
+Avoid staggering when hit during a base arte combo.
+
+## POINTER 276
+Resilience
+
+## POINTER 277
+Avoid staggering while casting a spell.
+
+## POINTER 278
+Anti Magic
+
+## POINTER 279
+Resist all magic effects. Recover, attack and
+enhance magic are all nullified.
+
+## POINTER 280
+Perfect Magic
+
+## POINTER 281
+Consumes TP gradually while all enemy
+spells are nullified.

@@ -1,0 +1,34 @@
+## POINTER 0
+Destroyed by an Earthquake
+
+## POINTER 1
+(YUR)
+Hey (KAR), do you know anything else about that 
+city you said was destroyed in an earthquake?
+
+## POINTER 2
+(KAR)
+Just rumors. Supposedly, it was some guild's 
+headquarters about ten years ago.
+
+## POINTER 3
+(EST_P)
+Which guild was that?
+
+## POINTER 4
+(KAR)
+Sorry, I can't help you there.
+
+## POINTER 5
+(RIT)
+I've never heard of an earthquake 
+that destroyed an entire city.
+
+## POINTER 6
+(KAR)
+Well, Aspio is across the ocean... Maybe the 
+information just never made it that far?
+
+## POINTER 7
+(RIT)
+Hmm, I wonder...

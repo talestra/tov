@@ -1,0 +1,50 @@
+## POINTER 0
+<STR>(YUR)
+The barrier blastia's been making some 
+odd noises. Do you think it's okay?
+
+## POINTER 1
+<STR>(FRE)
+You came all the way here because 
+you were worried about that?<PAGE>As always, <STR>(YUR), you can't leave well enough 
+alone if you see anything amiss.
+
+## POINTER 2
+<STR>(YUR)
+Hey, it's not me! She was the one that--
+
+## POINTER 3
+<STR>(RIT)
+It's obvious that something's not right with 
+that blastia. Let me have a look at it!
+
+## POINTER 4
+<STR>(FRE)
+This blastia is currently 
+in a state of repair.<PAGE>I'm sorry, but I cannot 
+allow you to examine it.
+
+## POINTER 5
+<STR>(RIT)
+Why!
+
+## POINTER 6
+<STR>(YUR)
+What was that vibration?
+
+## POINTER 7
+<STR>(FRE)
+Don't tell me that was the blastia...
+
+## POINTER 8
+<STR>(EST_P)
+Maybe something's happened 
+to the blastia!
+
+## POINTER 9
+<STR>(YUR)
+Let's get outta here!
+
+## POINTER 10
+<STR>(FRE)
+Your Highness, you must stay here!

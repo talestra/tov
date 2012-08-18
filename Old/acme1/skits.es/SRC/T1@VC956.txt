@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240467]
+Los Bancos Afilados de Zopheir
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240572]
+(YUR)
+¿Qué clase de lugar son los
+Bancos Afilados de Zopheir, (KAR)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240467]
+(KAR)
+Nunca he llegado a estar allí, pero sé
+que está todo cubierto de placas de hielo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240572]
+(KAR)
+Nan me contó que esta es la mejor época para cazar
+monstruos, ya que es cuando el hielo está más sólido.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240467]
+(KAR)
+Y los monstruos de allí también son bastante fuertes.
+
+## POINTER 5 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267436028]
+(RAV)
+Cubierto de placas de hielo, ¿ein?
+M'empiezan a castañear los dientes solo de pensarlo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240467]
+(JUD)
+¿No nos pasará nada porque no nos hayamos preparado?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240572]
+(RIT)
+Por mucho frío que haga, no puede ser peor
+que el calor de las Arenas de Kogorh, ¿verdad?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240467]
+(YUR)
+No estoy seguro, pero se nos acaba el tiempo.
+Tendremos que entrar tal y como estamos.

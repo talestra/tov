@@ -1,0 +1,79 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269780359]
+
+Oye, ¿te has enterado de lo del blastia
+de los barrios bajos?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269780359]
+
+Sí, había oído algo de que se había roto
+y estaban reuniendo dinero para repararlo.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269780359]
+
+Así es. Por lo que sé, hasta tuvieron
+que vender sus tesoros para conseguirlo.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269780359]
+
+¿Tesoros, señor?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1304156031]
+
+En realidad, no eran más que chatarra.
+No creo que les dieran más de un gald por ellos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205953]
+
+¡¿Ni siquiera un gald?! No me imagino
+qué clase de tesoros debían ser.
+Me pica la curiosidad y todo...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1304156031]
+
+Ya te digo, ¡no eran nada
+más que chatarra! ¡Ja, ja!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270592505]
+<STR>(YUR)
+¡Mira a esos dos! Pobre Hanks.
+Aunque no puedo negar
+lo de la chatarra...
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269780359]
+
+¡Agh!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269780359]
+
+Pero qué... ¡¿Quién anda ahí?!
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269780359]
+
+¡Uuf!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205953]
+<STR>(YUR)
+Si no sabéis apreciar el valor de la «chatarra»,
+entonces vosotros valéis menos todavía que ella.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269780359]
+<STR>(YUR)
+<STR>(RAP), ¿puedes encontrar su rastro?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270592505]
+<STR>(YUR)
+Parece que también han estado robando
+núcleos por aquí. Por lo visto alguien
+tiene las manos largas.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1283966045]
+<STR>(YUR)
+Típico del distrito real.
+Roban un par de núcleos de
+blastias y ni se inmutan.<PAGE>Mientras que basta con que desaparezca uno en
+los barrios bajos para ponerlos patas arriba.<PAGE>¡Si les sobran los núcleos,
+ya podrían prestarnos alguno!
+
+## POINTER 15 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1269780359]
+<STR>(YUR)
+¡Encontrado!

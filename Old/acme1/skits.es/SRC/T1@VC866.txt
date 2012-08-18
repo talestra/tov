@@ -1,0 +1,67 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297633125]
+Reconciliación con (JUD)
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297633125]
+(YUR)
+(KAR), ¿has estado dándole vueltas todo
+este tiempo sobre qué hacer con (JUD_P)?
+
+## POINTER 2 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925013]
+(KAR)
+Sí, de hecho apenas he pensado en otra cosa
+desde que nos fuimos de Nordopólica.
+
+## POINTER 3 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266235685]
+(KAR)
+En eso... y en lo que les
+hiciste a Ragou y Cumore.
+
+## POINTER 4 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925013]
+(JUD)
+¿En serio? Me alegra oír que pensabas tanto
+en mí, incluso cuando no estaba presente.
+
+## POINTER 5 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266235685]
+(KAR)
+Sí... Al principio no estaba seguro.
+Qué estaba bien, qué estaba mal...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297633125]
+(KAR)
+Creo que tengo que agradecerle al Don
+que me mostrara el camino correcto.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297633125]
+(KAR)
+Sin las últimas palabras del Don, jamás hubiera
+hallado las respuestas para las preguntas que tenía.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297633125]
+(YUR)
+«Has de valerte por ti mismo».
+
+## POINTER 9 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266235685]
+(KAR)
+Sí, he pensado mucho sobre qué quería decir.
+
+## POINTER 10 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266235685]
+(KAR)
+Y antes de que me diera cuenta, ya no pensaba sobre lo que
+estaba bien. Pensaba sobre qué es lo que quiero hacer.
+
+## POINTER 11 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266235685]
+(JUD)
+Y eso te ha ayudado a decidir qué hacer con el gremio.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1297633125]
+(KAR)
+Claro. ¡Así que por
+un nuevo comienzo!
+
+## POINTER 13 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925013]
+(YUR)
+Sí.
+
+## POINTER 14 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925013]
+(JUD)
+Por un nuevo comienzo.

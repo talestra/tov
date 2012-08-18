@@ -1,0 +1,54 @@
+## POINTER 0
+Invisible Fur
+
+## POINTER 1
+(KAR)
+I knew there was an ice drift 
+north of Ilyccia, but I never 
+thought I'd walk across it!
+
+## POINTER 2
+(YUR)
+Well, it's nice to have the experience, 
+but I don't think I ever want to cross 
+that place again.
+
+## POINTER 3
+(JUD)
+Oh, why's that?
+
+## POINTER 4
+(KAR)
+Huh? Don't tell me you want to go 
+back to that freezing icebox again!
+
+## POINTER 5
+(JUD)
+Why not?
+
+## POINTER 6
+(JUD)
+I thought it was a very beautiful 
+place! Isn't that right, (RAP)?
+
+## POINTER 7
+(RAP)
+*Woof!*
+
+## POINTER 8
+(YUR)
+I can't believe (JUD_P) can stand 
+this cold in that outfit.
+
+## POINTER 9
+(KAR)
+Maybe she's got fur like (RAP)!
+
+## POINTER 10
+(JUD)
+?
+
+## POINTER 11
+(JUD)
+Heh heh, you boys look as if you've 
+never seen a girl before.

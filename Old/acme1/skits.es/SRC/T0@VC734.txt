@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251593470]
+El Anillo del Hechicero
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680391]
+(YUR)
+Me pregunto si la gente de antaño usaba
+anillitos como este para mover cosas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680391]
+(RIT)
+Sí, se han descubierto objetos de
+similares características en otras ruinas.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680391]
+(KAR)
+Mira que es útil para lo pequeño que es.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680391]
+(RIT)
+Al contrario que uno que yo me sé.
+
+## POINTER 5 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266668628]
+(KAR)
+¿Eh?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680391]
+(EST_P)
+Es increíble que te hayan confiado
+un Anillo del Hechicero, (RIT).
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680391]
+(EST_P)
+Tengo entendido que se los dan
+a muy pocas personas.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680391]
+(YUR)
+Mmmm. Parece que hay quien confía en ti.
+
+## POINTER 9 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266668628]
+(RIT)
+Tú eres el único que no lo hace.

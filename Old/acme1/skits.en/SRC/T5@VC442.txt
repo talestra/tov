@@ -1,0 +1,49 @@
+## POINTER 0
+(EST_P), the Historian
+
+## POINTER 1
+(EST_P)
+Wow... These buildings are from 
+the late Ellicasm civilization! 
+It must be a very old town.
+
+## POINTER 2
+(YUR)
+You seem to know a lot about 
+these things...as always.
+
+## POINTER 3
+(EST_P)
+It's such a shame they just let 
+the city fall apart like this...
+
+## POINTER 4
+(RIT)
+Do you really think we're in 
+any position to be sightseeing 
+around this moldy old city?
+
+## POINTER 5
+(YUR)
+We do have things we 
+need to be doing...
+
+## POINTER 6
+(RIT)
+Then shouldn't we be focusing on 
+them instead of this little tour?
+
+## POINTER 7
+(EST_P)
+Oh wow... That round roof is using 
+the Lian method, first developed 
+by Emperor Heliorus IV!
+
+## POINTER 8
+(RIT)
+But I guess we should do something 
+about that first...
+
+## POINTER 9
+(YUR)
+Yeah.

@@ -1,0 +1,56 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS51_001)So that's Zaude. 
+It's huge.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS51_002)It's sort of shaped like a ring.
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS51_003)Anybody with fingers big enough 
+for that wouldn't have any 
+trouble taking over the world.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS51_004)I wonder if we'll get in without being seen.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS51_006)Whoa, look! Over there!
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS51_007)Phaeroh...
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS51_008)He's...
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS51_009)But Phaeroh's one of the 
+strongest Entelexeia...
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS51_010)And even he couldn't do 
+anything to it. What'd we 
+get ourselves into?
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS51_011)It reconstituted itself 
+by manipulating the aer.<PAGE><VOICE>(VS51_012)...What processing speed...
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS51_013)Let's go in from below.<PAGE><VOICE>(VS51_014)Phaeroh's doing all the 
+work, but at least he's got 
+Alexei looking up for now.
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS51_015)Phaeroh...thank you.

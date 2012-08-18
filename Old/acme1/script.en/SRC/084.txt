@@ -1,0 +1,30 @@
+## POINTER 0
+<STR>(YUR)
+That must be...
+
+## POINTER 1
+<STR>(YUR)
+Found him!
+
+## POINTER 2
+<STR>(YUR)
+You are 
+Mordio, right?
+
+## POINTER 3
+<STR>(YUR)
+Good boy.
+
+## POINTER 4
+<STR>(YUR)
+What the...! The blastia 
+core is gone!
+
+## POINTER 5
+<STR>(YUR)
+Let's go and get that core back! And give 
+that mage a whooping while we're at it!
+
+## POINTER 6
+<STR>(RAP)
+Woof!

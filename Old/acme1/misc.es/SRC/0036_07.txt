@@ -1,0 +1,300 @@
+## POINTER 792
+Master all party member's artes
+
+## POINTER 794
+Mastered all member's artes全員のスキルを習得しました
+
+## POINTER 796
+All member
+
+## POINTER 798
+Obtained all recipe
+
+## POINTER 800
+Set a number
+
+## POINTER 802
+HP/TP control
+
+## POINTER 803
+Recover all
+
+## POINTER 804
+Near to K.O.
+
+## POINTER 806
+Unlock All
+
+## POINTER 807
+Erase All
+
+## POINTER 808
+Want Wonder Article
+
+## POINTER 810
+1 bit flag reset. 
+ Please be aware of scenario and
+gimmic condition mismatch.
+
+## POINTER 812
+Unlock Aurnion Level 3
+
+## POINTER 813
+Seal Aurnion Level 3
+
+## POINTER 815
+Unlocked all Library menu
+
+## POINTER 817
+Serious Flag Enabled
+Certain chats will not be
+available in game.
+
+## POINTER 818
+Serious Flag Disabled
+
+## POINTER 820
+This is town name display test
+
+## POINTER 821
+Town name display
+
+## POINTER 822
+The Imperial Capital Zaphias
+
+## POINTER 823
+Zaphias Lower Quater
+
+## POINTER 824
+Zaphias Royal Quater
+
+## POINTER 825
+Zaphias Castle
+
+## POINTER 826
+Deidon Hold
+
+## POINTER 827
+The City of Blossoms Halure
+
+## POINTER 828
+Sealed Academic City Aspio
+
+## POINTER 829
+Port Town Capua Nor
+
+## POINTER 830
+Port Town Capua Torim
+
+## POINTER 831
+Ragou's Residence
+
+## POINTER 832
+The Rising City Heliord
+
+## POINTER 833
+The Guilds' Den Dahngrest
+
+## POINTER 834
+The Colosseum City Nordopolica
+
+## POINTER 835
+Desert Oasis Mantaic
+
+## POINTER 836
+The Heartland Town Yormgen (Illusional)
+
+## POINTER 837
+The Home of the Kritya Myorzo
+
+## POINTER 838
+The Land of Hope Aurnion
+
+## POINTER 839
+The Land of Hope　<STR>(FRE) Town
+
+## POINTER 840
+The Vessel of Hope and Glory Fiertia
+
+## POINTER 841
+The Happy Place Nam Cobanda Isle
+
+## POINTER 842
+Hot Spring Spa Yumanju
+
+## POINTER 843
+Zaphias Castle
+
+## POINTER 844
+Quoi Woods
+
+## POINTER 845
+Shaikos Ruins
+
+## POINTER 846
+Ehmead Hill
+
+## POINTER 847
+Caer Bocram
+
+## POINTER 848
+Forest of Keiv Moc
+
+## POINTER 849
+The Tower of Gears Ghasfarost
+
+## POINTER 850
+The Ghost Ship Atherum
+
+## POINTER 851
+The Weasand of Cados
+
+## POINTER 852
+Sands of Kogorh
+
+## POINTER 853
+The Manor of the Wicked
+
+## POINTER 854
+Mt. Temza
+
+## POINTER 855
+The Forgotten Shrine Baction
+
+## POINTER 856
+The Mobile Fortress Heracles
+
+## POINTER 857
+Zopheir Rift
+
+## POINTER 858
+Egothor Forest
+
+## POINTER 859
+Enduring Shrine of Zaude
+
+## POINTER 860
+The Erealumen Crystallands
+
+## POINTER 861
+Relewiese Hollow
+
+## POINTER 862
+The Ancient Tower Tarqaron
+
+## POINTER 863
+Aer Krene
+
+## POINTER 864
+EX Dungeon
+
+## POINTER 865
+Bandam
+
+## POINTER 867
+......You can check out sub events
+
+## POINTER 868
+Sub event jump,
+
+## POINTER 869
+VS Duke battle / PC pattern (to main)
+
+## POINTER 870
+A guild's mission / Proof of friendship
+
+## POINTER 871
+A guild's mission / Lost memento
+
+## POINTER 872
+A guild's mission / A red stone
+
+## POINTER 873
+A guild's mission / Rescue prisoners
+
+## POINTER 874
+A guild's mission / Something lost in the Ruin
+
+## POINTER 875
+A guild's mission / Beast hunting
+
+## POINTER 876
+A guild's mission / Illmein's secret book
+
+## POINTER 877
+A guild's mission / A guild's mission
+
+## POINTER 878
+Entelexeia / Entelexeia<PAGE>
+
+## POINTER 879
+Entelexeia / In illusion
+
+## POINTER 880
+Entelexeia / Worries about transform (into spirits)
+
+## POINTER 881
+Entelexeia / Visit a grave
+
+## POINTER 882
+Entelexeia / Conversation between the spirits
+
+## POINTER 883
+Demon Blade
+
+## POINTER 884
+Leviathan's Claw / Behind the gate
+
+## POINTER 885
+Leviathan's Claw / What Yeager left behind
+
+## POINTER 886
+Mysterious Man
+
+## POINTER 887
+An Warrior of Grief
+
+## POINTER 888
+Battle basic control (jump to main)<PAGE>
+
+## POINTER 889
+Skill and how to set (jump to main)
+
+## POINTER 890
+How to cook and it's effects  (jump to main)
+
+## POINTER 891
+Ba'ul and it's controls (jump to main)
+
+## POINTER 892
+Master of Aer (jump to main)
+
+## POINTER 893
+The heart of Kritya / The Kritian way of fight
+
+## POINTER 894
+The heart of Kritya / Wall painting
+
+## POINTER 895
+The heart of Kritya / Battle skills
+
+## POINTER 896
+Wanted!
+
+## POINTER 897
+Younger Days / <STR>(YUR)and Imperial Knights
+
+## POINTER 898
+Younger Days / <STR>(YUR) and <STR>(FRE); Life in lower quater<PAGE>
+
+## POINTER 899
+Younger Days / <STR>(YUR) and <STR>(RAP)
+
+## POINTER 900
+Hope of the lower quater
+
+## POINTER 901
+Man of obligation / Call in
+
+## POINTER 902
+Man of obligation / Erase

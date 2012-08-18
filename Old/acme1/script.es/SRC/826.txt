@@ -1,0 +1,58 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1294099991]
+
+¡Me gustan las cápsulas, te gustan
+las cápsulas, nos gustan las
+cápsulas, sí, sí, sí! ♪<PAGE>¡Bienvenidos al rincón de
+las cápsulas! ¿Preparados
+para llevaros una cápsula?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1294096562]
+<STR>(EST_P)
+¿Qué quiere decir?
+¿Qué es una cápsula?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296168555]
+
+¡Ponéis un par de fichas y la máquina
+girará, y girará, y os dará una cápsula
+llena de amor y sueños!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294096562]
+<STR>(JUD)
+¿Qué tienen
+exactamente?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296168555]
+
+Sueños grandes,
+sueños pequeños...
+¡Sueños de todo tipo!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1294096562]
+<STR>(YUR)
+Es decir, que puede
+ser cualquier cosa.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1294096562]
+<STR>(RAV)
+Una apuesta de las
+gordas, en mi opinión.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1294096562]
+
+¡Los sueños apuestas
+son, amigos míos!<PAGE>¡Las máquinas valen, de derecha
+a izquierda, 1 ficha, 10 fichas,
+100 fichas y 500 fichas!<PAGE>¡Cuantas más fichas gastéis,
+mejor será el sueño!<PAGE>¡Id a la máquina que más os
+guste y conseguid vuestra cápsula!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296168555]
+<STR>(KAR)
+Me encantan las cápsulas. ♪
+Y gira, gira, gira, gira...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1294096562]
+<STR>(JUD)
+Je, sí que le gustan
+las capsulitas estas...

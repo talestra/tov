@@ -1,0 +1,302 @@
+## POINTER 199
+P. ATK & P. DEF
+
+## POINTER 200
+M. ATK & M. DEF
+
+## POINTER 201
+P. ATK & M. ATK
+
+## POINTER 202
+P. DEF & M. DEF
+
+## POINTER 203
+All Parameter
+
+## POINTER 204
+<0B>(2) increased by <0B>(3)!!
+
+## POINTER 205
+Equip
+
+## POINTER 206
+INFORMATION
+
+## POINTER 207
+<06>(RBU)Change storage device
+
+## POINTER 208
+<06>(RBU)Change storage device
+
+## POINTER 209
+<06>(L2)<06>(R2)Switch <06>(L1)<06>(R1)Rotate model
+
+## POINTER 210
+<06>(RBD)Confirm<06>(RBR)Return <06>(L2)<06>(R2)Category
+
+## POINTER 211
+Human Type
+
+## POINTER 212
+Beast Type
+
+## POINTER 213
+Bird Type
+
+## POINTER 214
+Magic Type
+
+## POINTER 215
+Plant Type
+
+## POINTER 216
+Aquatic Type
+
+## POINTER 217
+Insect Type
+
+## POINTER 218
+Inorganic Type
+
+## POINTER 219
+Scale Type
+
+## POINTER 220
+Usage
+
+## POINTER 221
+TP consumption
+
+## POINTER 222
+Lv.
+
+## POINTER 223
+Order by ID.
+
+## POINTER 224
+Resistance
+
+## POINTER 225
+Weak
+
+## POINTER 226
+EXP
+
+## POINTER 227
+LP
+
+## POINTER 228
+GALD
+
+## POINTER 229
+Memo
+
+## POINTER 230
+DROP ITEM
+
+## POINTER 231
+STEAL ITEM
+
+## POINTER 232
+Habitat
+
+## POINTER 233
+Chronology
+
+## POINTER 234
+NEXT
+
+## POINTER 235
+PARTY
+
+## POINTER 236
+Switch party member.
+
+## POINTER 237
+None
+
+## POINTER 243
+Confirm
+
+## POINTER 244
+Return
+
+## POINTER 245
+Default
+
+## POINTER 246
+Insufficient space on the storage device.
+Game data cannot be saved.
+Please select a storage device with more
+than <0B>(0)KB in order to save data.
+
+## POINTER 247
+<06>(L1)Change Strategy.
+
+## POINTER 248
+<06>(RBL)Change Camera.
+
+## POINTER 249
+Change settings.
+
+## POINTER 250
+Display records.
+
+## POINTER 251
+GRADE SHOP
+
+## POINTER 252
+Remaining
+
+## POINTER 253
+GRADE
+
+## POINTER 254
+Resistance
+
+## POINTER 255
+Weak
+
+## POINTER 256
+BATTLE BOOK
+
+## POINTER 257
+Chronology
+
+## POINTER 258
+Display Battle Book.
+
+## POINTER 259
+Total Time
+
+## POINTER 260
+Max. Gald
+
+## POINTER 261
+Total Gald Used
+
+## POINTER 262
+Skits Viewed
+
+## POINTER 263
+Number of Saves
+
+## POINTER 264
+Games Completed
+
+## POINTER 265
+Fastest Completion
+
+## POINTER 266
+Average Battle Time
+
+## POINTER 267
+Fastest Win
+
+## POINTER 268
+Encounters
+
+## POINTER 269
+Total Enemies Defeated
+
+## POINTER 270
+Max. Number of Hits
+
+## POINTER 271
+Total Number of FSs
+
+## POINTER 272
+Max FS Combo
+
+## POINTER 273
+Max. Damage
+
+## POINTER 274
+Total Damage Given
+
+## POINTER 275
+Total Damage Taken
+
+## POINTER 276
+Max. Grade
+
+## POINTER 277
+Total K.O.s
+
+## POINTER 278
+Total Escapes
+
+## POINTER 279
+Total Synthesis
+
+## POINTER 280
+Usage: <STR>(YUR)
+
+## POINTER 281
+Usage: <STR>(EST)
+
+## POINTER 282
+Usage: <STR>(KAR)
+
+## POINTER 283
+Usage: <STR>(RIT)
+
+## POINTER 284
+Usage: <STR>(RAV)
+
+## POINTER 285
+Usage: <STR>(JUD)
+
+## POINTER 286
+Usage: <STR>(RAP)
+
+## POINTER 287
+Usage: <STR>(FRE)
+
+## POINTER 288
+Usage: <STR>(PAT)
+
+## POINTER 289
+Message speed
+
+## POINTER 290
+Battle Difficulty
+
+## POINTER 291
+Controller Vibration
+
+## POINTER 292
+Field Camera Controls
+
+## POINTER 293
+Button Configuration
+
+## POINTER 294
+Sound Output
+
+## POINTER 295
+BGM Volume
+
+## POINTER 296
+SE Volume
+
+## POINTER 297
+Battle SE Volume
+
+## POINTER 298
+Engage Camera
+
+## POINTER 299
+Dynamic Camera
+
+## POINTER 300
+Battle Field Boundary
+
+## POINTER 301
+Battle Voice
+
+## POINTER 302
+Event Voices
+
+## POINTER 303
+Location Names

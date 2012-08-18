@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251895395]
+La leyenda
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925231]
+(KAR)
+Todo lo que dijo el anciano es cierto, ¿verdad?
+
+## POINTER 2 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266236029]
+(JUD)
+Su interpretación de los murales puede que no fuera perfecta,
+pero todo lo que nos contó... era muy convincente.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297633988]
+(YUR)
+Supimos que esto era un problema
+global cuando hablamos con Phaeroh.
+
+## POINTER 4 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925231]
+(YUR)
+Nos concedió tiempo porque sabía
+cómo reaccionarías al ver esto.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297633988]
+(RAV)
+Probablemente quería demostrarnos que la humanidá
+no'stá hecha pa tratar la situación.
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925240]
+(JUD)
+Y para hacer que abandonemos a (EST_P)...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297633988]
+(RIT)
+Entonces, ¡¿todo va según lo que Phaeroh había planeado?!
+¡No pienso permitirlo!
+
+## POINTER 8 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925231]
+(RIT)
+Nunca... No pienso abandonarla.

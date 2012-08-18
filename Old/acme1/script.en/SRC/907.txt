@@ -1,0 +1,121 @@
+## POINTER 0
+
+Welcome to the Captivating Game 
+Corner! Please, indulge yourself 
+in our wonderful diversions!
+
+## POINTER 1
+<STR>(RIT)
+Wow... Everything here 
+is something I've 
+never seen before.
+
+## POINTER 2
+<STR>(KAR)
+These aren't blastia, 
+are they?
+
+## POINTER 3
+
+Correct. No blastia 
+at all. We made everything 
+here by hand.<PAGE>How about that? 
+Pretty nice, huh?
+
+## POINTER 4
+<STR>(RAV)
+Ya mean ya little 
+tykes made all 
+this by hand?
+
+## POINTER 5
+
+Of course! We worked 
+our butts off, hey!
+
+## POINTER 6
+<STR>(EST_P)
+Wow, that's 
+great. But what 
+is this?
+
+## POINTER 7
+
+Seeing is believing, my 
+friends! And you won't see 
+it until you play it!
+
+## POINTER 8
+<STR>(YUR)
+Play it? We don't 
+even know how.
+
+## POINTER 9
+
+No worries, no worries! 
+You'll pick it 
+up quickly.<PAGE>Allow me to pick 
+one of you to give 
+it a test-run!<PAGE>Hmmmm...<PAGE>All right, let's go with Ms. 
+Bouncy-bouncy Krityan.
+
+## POINTER 10
+<STR>(JUD)
+Me? I don’t think 
+I'd be very good 
+at this...
+
+## POINTER 11
+
+Don't worry about it! 
+That just means it'll 
+be more fun for you!<PAGE>All right, right 
+this way, then.<PAGE>Okay, just stand there 
+for a sec...<PAGE>And now...
+Cha-ching!
+
+## POINTER 12
+<STR>(JUD)
+That was...Ba'ul, 
+wasn't it?
+
+## POINTER 13
+
+What you were imagining 
+in your mind showed up 
+on that very screen!<PAGE>I feel like that adds a bit of a game-like 
+quality to it, don't you?
+
+## POINTER 14
+<STR>(YUR)
+I don't get it at all.
+
+## POINTER 15
+<STR>(RAV)
+Ya mean...if someone else's doin' 
+the thinkin', something else'll 
+show up on the screen?
+
+## POINTER 16
+
+Sorry, that's all for now! 
+That was the last game machine 
+that wasn't in use.
+
+## POINTER 17
+<STR>(RAV)
+Aww, what a buzzkill!
+
+## POINTER 18
+<STR>(KAR)
+Hey, no big deal, right? We 
+can come back here some other 
+time and play, right?
+
+## POINTER 19
+
+Yes, come whenever you'd like. You'll 
+have your very own game machine, just 
+for Ms. Bouncy-bouncy and her friends.<PAGE>Oh, but the next time you 
+play, don't forget that 
+you'll need chips, too!

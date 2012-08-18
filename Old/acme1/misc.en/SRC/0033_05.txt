@@ -1,0 +1,303 @@
+## POINTER 769
+Hypionia
+
+## POINTER 770
+Hypionia
+
+## POINTER 771
+Hypionia
+
+## POINTER 772
+The continent where Baction is located.
+
+## POINTER 776
+Southern Hypionia
+
+## POINTER 777
+Southern Hypionia
+
+## POINTER 778
+Southern Hypionia
+
+## POINTER 779
+Southern Hypionia
+
+## POINTER 780
+An area filled with intricate terrain.
+
+## POINTER 784
+Western Hypionia
+
+## POINTER 785
+Western Hypionia
+
+## POINTER 786
+Western Hypionia
+
+## POINTER 787
+Western Hypionia
+
+## POINTER 788
+The area where the Egothor Forest is located.
+
+## POINTER 792
+Beldeabou Bay
+
+## POINTER 793
+Beldeabou Bay
+
+## POINTER 794
+Beldeabou Bay
+
+## POINTER 795
+Beldeabou Bay
+
+## POINTER 796
+An opposing bay to Sakkel Bay.
+
+## POINTER 800
+East Sulion Island
+
+## POINTER 801
+East Sulion Island
+
+## POINTER 802
+East Sulion Island
+
+## POINTER 803
+East Sulion Island
+
+## POINTER 804
+An island east of the group of islands off
+the southern Hypionia coast.
+
+## POINTER 808
+South Sulion Island
+
+## POINTER 809
+South Sulion Island
+
+## POINTER 810
+South Sulion Island
+
+## POINTER 811
+South Sulion Island
+
+## POINTER 812
+An island in the center of a group of islands.
+It is surrounded by mountains and is oddly shaped.
+
+## POINTER 816
+West Sulion Island
+
+## POINTER 817
+West Sulion Island
+
+## POINTER 818
+West Sulion Island
+
+## POINTER 819
+West Sulion Island
+
+## POINTER 820
+An island west of the group of islands off
+the southern Hypionia coast.
+
+## POINTER 824
+Weccea
+
+## POINTER 825
+Weccea
+
+## POINTER 826
+Weccea
+
+## POINTER 827
+Weccea
+
+## POINTER 828
+An uncharted continent.
+
+## POINTER 832
+Northeast Weccea
+
+## POINTER 833
+Northeast Weccea
+
+## POINTER 834
+Northeast Weccea
+
+## POINTER 835
+Northeast Weccea
+
+## POINTER 836
+An island northeast of Weccea.
+
+## POINTER 840
+Southeast Weccea
+
+## POINTER 841
+Southeast Weccea
+
+## POINTER 842
+Southeast Weccea
+
+## POINTER 843
+Southeast Weccea
+
+## POINTER 844
+An island southeast of Weccea.
+
+## POINTER 848
+Southwest Weccea
+
+## POINTER 849
+Southwest Weccea
+
+## POINTER 850
+Southwest Weccea
+
+## POINTER 851
+Southwest Weccea
+
+## POINTER 852
+An island southwest of Weccea.
+
+## POINTER 856
+Northern Sulzanni Islands
+
+## POINTER 857
+Northern Sulzanni Islands
+
+## POINTER 858
+Northern Sulzanni Islands
+
+## POINTER 859
+Northern Sulzanni Islands
+
+## POINTER 860
+A chain of islands to the west of Yurzorea.
+
+## POINTER 864
+The Sulzanni Island chains
+
+## POINTER 865
+The Sulzanni Island chains
+
+## POINTER 866
+The Sulzanni Island chains
+
+## POINTER 867
+The Sulzanni Island chains
+
+## POINTER 868
+A chain of islands to the west of Yurzorea.
+
+## POINTER 872
+South Sulzanni Islands
+
+## POINTER 873
+South Sulzanni Islands
+
+## POINTER 874
+South Sulzanni Islands
+
+## POINTER 875
+South Sulzanni Islands
+
+## POINTER 876
+A chain of islands to the west of Yurzorea.
+
+## POINTER 880
+Northern Yurzorea
+
+## POINTER 881
+Northern Yurzorea
+
+## POINTER 882
+Northern Yurzorea
+
+## POINTER 883
+Northern Yurzorea
+
+## POINTER 884
+A forest area on northern Yurzorea.
+The trees here are oddly shaped.
+
+## POINTER 888
+Northeast Yurzorea
+
+## POINTER 889
+Northeast Yurzorea
+
+## POINTER 890
+Northeast Yurzorea
+
+## POINTER 891
+Northeast Yurzorea
+
+## POINTER 892
+An elevated flat land surrounded by mountains.
+
+## POINTER 896
+Truffdae Mountains
+
+## POINTER 897
+Truffdae Mountains
+
+## POINTER 898
+Truffdae Mountains
+
+## POINTER 899
+Truffdae Mountains
+
+## POINTER 900
+A mountain range in the center of Yurzorea.
+
+## POINTER 904
+Southern Yurzorea
+
+## POINTER 905
+Southern Yurzorea
+
+## POINTER 906
+Southern Yurzorea
+
+## POINTER 907
+Southern Yurzorea
+
+## POINTER 908
+A land full of grasslands, forest, lakes and trails.
+
+## POINTER 912
+Eastern Yurzorea
+
+## POINTER 913
+Eastern Yurzorea
+
+## POINTER 914
+Eastern Yurzorea
+
+## POINTER 915
+Eastern Yurzorea
+
+## POINTER 916
+Grassland on the eastern side of the continent.
+
+## POINTER 920
+Niffel Lake
+
+## POINTER 921
+Niffel Lake
+
+## POINTER 922
+Niffel Lake
+
+## POINTER 923
+Niffel Lake
+
+## POINTER 924
+The largest lake in the world.
+
+## POINTER 928
+Northern Isles, Yurzorea

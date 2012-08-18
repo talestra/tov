@@ -1,0 +1,67 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296759079]
+
+Malditos serán aquellos
+que osen acercarse más...
+Ji, ji, ji...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294771604]
+<STR>(KAR)
+¿Q-Qué?...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1294771604]
+<STR>(RAV)
+Pone los pelos de punta, ¿eh?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294771604]
+<STR>(YUR)
+¡Sal y da la cara!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294771604]
+<STR>(RIT)
+Parece que a alguien le
+divierte amenazar a los demás. 
+¡Es hora de partir cabezas!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296759079]
+<STR>(EST_P)
+Pero si parece que
+aquí no hay nadie...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1294771604]
+<STR>(RIT)
+¿Q-Qué quieres
+decir, <STR>(EST_P)?<PAGE>S-Seguro que e-es muy bueno
+escondiéndose... ¡Sí, eso es!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294771604]
+<STR>(JUD)
+Si alguien te dice que no sigas, lo
+más normal es, bueno... seguir, ¿no?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1294771604]
+<STR>(YUR)
+Aunque también está la opción
+de hacer caso a la advertencia.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294771604]
+
+¡Si seguís, no podréis
+volver jamás! ¡Tenedlo en
+cuenta antes de avanzar!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296759079]
+<STR>(RIT)
+E-E-Entonces, quizás mejor si nos vamos, ¿no?
+Además, aquí no hay nada... ¿verdad, chicos?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1294771604]
+<STR>(JUD)
+Sí, sigamos adelante.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1294771604]
+<STR>(YUR)
+¿Vamos a investigar un poco más?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1294771604]
+<STR>(RIT)
+Urgh...

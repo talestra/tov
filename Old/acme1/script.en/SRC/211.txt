@@ -1,0 +1,127 @@
+## POINTER 0
+
+Hmm? Who are you all?
+
+## POINTER 1
+<STR>(YUR)
+We need to talk to the Don about something. 
+Help us out, could you?
+
+## POINTER 2
+<STR>(KAR)
+It's a matter that concerns 
+the five master guilds.
+
+## POINTER 3
+
+I haven't seen you around here recently. 
+What guild do you belong to?
+
+## POINTER 4
+<STR>(YUR)
+Er, we don't belong to a guild, exactly.
+
+## POINTER 5
+
+...Unfortunately, the Don has left 
+town in pursuit of the monsters.
+
+## POINTER 6
+<STR>(KAR)
+He went after the monsters?
+
+## POINTER 7
+
+Yes, he plans on taking out the 
+monster nests in one fell swoop.
+
+## POINTER 8
+<STR>(YUR)
+I see...
+Thanks for the information.
+
+## POINTER 9
+
+No worries.
+
+## POINTER 10
+<STR>(KAR)
+...If I went and helped them, I 
+could prove myself to the Don...
+
+## POINTER 11
+<STR>(YUR)
+Oh, well. Shall we go look 
+for information in town?
+
+## POINTER 12
+<STR>(KAR)
+...What? We're not going 
+to help the Don?
+
+## POINTER 13
+<STR>(YUR)
+So you know where the monster 
+nests are, then?
+
+## POINTER 14
+<STR>(KAR)
+Oh, good point...
+
+## POINTER 15
+<STR>(RIT)
+Since it seems like you won't be 
+making progress anytime soon, I'm 
+going to go check out Keiv Moc.
+
+## POINTER 16
+<STR>(KAR)
+How selfish!
+
+## POINTER 17
+<STR>(RIT)
+I just want to get it out of 
+the way as soon as possible.
+
+## POINTER 18
+<STR>(KAR)
+Then does that mean <STR>(EST_P)'s 
+going along with you?
+
+## POINTER 19
+<STR>(EST_P)
+Yes. I told Alexei 
+I was going to go, 
+after all...
+
+## POINTER 20
+<STR>(EST_P)
+Don't worry. We'll be fine 
+between the two of us.
+
+## POINTER 21
+<STR>(YUR)
+Sorry, 'fraid not. If you got 
+hurt or anything, <STR>(FRE) would 
+hunt me down and kill me.
+
+## POINTER 22
+<STR>(KAR)
+You're going to go, <STR>(YUR)?
+
+## POINTER 23
+<STR>(YUR)
+Well, we don't really have any 
+good leads around town 
+that we're following, anyway.
+
+## POINTER 24
+<STR>(EST_P)
+Then it's decided! 
+Let's go to the forest 
+of Keiv Moc.
+
+## POINTER 25
+
+Going to Keiv Moc, are they? 
+What a coincidence...

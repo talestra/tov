@@ -1,0 +1,123 @@
+## POINTER 0
+
+Ah yes, this is for you.
+
+## POINTER 1
+<STR>(RIT)
+...But this is...?
+A mage's battle robes...
+
+## POINTER 2
+
+Yes, it was tailored.
+Just for you.
+
+## POINTER 3
+<STR>(RIT)
+But, why...?
+Why me...?
+
+## POINTER 4
+
+Well, we thought you were
+just a kid before, but we can
+see you really know your stuff.
+
+## POINTER 5
+<STR>(RIT)
+Well, not really but...
+
+## POINTER 6
+
+Yes, you're the pride
+and joy of Aspio.
+
+## POINTER 7
+<STR>(RIT)
+R..really...?
+
+## POINTER 8
+
+What is this? It's not like
+you to get all emotional.
+
+## POINTER 9
+<STR>(RIT)
+.........
+
+## POINTER 10
+
+Well, there you go.
+Good luck.
+
+## POINTER 11
+<STR>(RIT)
+Wow...
+
+## POINTER 12
+<STR>(EST_P)
+<STR>(RIT), hurry and try it on!
+
+## POINTER 13
+<STR>(RIT)
+Huh, umm...
+
+## POINTER 14
+<STR>(EST_P)
+Oh my gosh! It's so cute!
+It looks great on you!
+
+## POINTER 15
+<STR>(RIT)
+Really? You think so...?
+
+## POINTER 16
+<STR>(EST_P)
+Those robes are the sign
+of a true researcher.
+
+## POINTER 17
+<STR>(RIT)
+More than that, they're a sign
+of an accomplished researcher.
+
+## POINTER 18
+<STR>(EST_P)
+That's perfect
+for you, <STR>(RIT)!
+
+## POINTER 19
+<STR>(RIT)
+I still have a long way to
+go with my research. There's
+still so much to learn.
+
+## POINTER 20
+<STR>(EST_P)
+That's the spirit, right?
+
+## POINTER 21
+<STR>(RIT)
+You can study and study, and there'll always be 
+something left to learn in the world of magic...<PAGE>There are so many mysteries. Like 
+an onion, peeling off one layer 
+just reveals another...
+
+## POINTER 22
+<STR>(EST_P)
+So, you're going to
+keep those clothes?
+
+## POINTER 23
+<STR>(RIT)
+Yeah, with pleasure.<PAGE>It makes me stand
+tall and proud when
+I'm wearing them.<PAGE>I don't know what it is...He he he...
+It makes me feel like I can churn
+out idea after idea with this...
+
+## POINTER 24
+<STR>(EST_P)
+G-good luck, <STR>(RIT)...<PAGE>...I think I've begun to 
+understand why everyone 
+calls <STR>(RIT) a weirdo...

@@ -1,0 +1,34 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997597]
+<STR>(KAR)
+El vapor
+se ha ido...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997597]
+Efreet
+He guardado suficiente para la batalla contra
+el adephagos. No tenéis de qué preocuparos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551868]
+<STR>(YUR)
+Esto está muy bien, pero ¿seguro
+que no pasa nada si haces esto?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997597]
+Efreet
+Solo he tomado la energía de la
+capa más superficial del suelo. 
+No hay nada que temer.<PAGE>Con el tiempo, la superficie volverá
+a su nivel de actividad normal.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1295177087]
+<STR>(YUR)
+Pues entonces bien.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997597]
+<STR>(JUD)
+Parece que Ba'ul puede aterrizar allí.
+¿Creéis que merece la pena?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997597]
+<STR>(YUR)
+Si encontramos algo útil, sí.

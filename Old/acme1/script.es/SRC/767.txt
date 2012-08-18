@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:miyu;time:1286467407]
+
+Todas las flores shaggothim
+se han marchitado...
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:miyu;time:1286467407]
+<STR>(RIT)
+Fuiste tú quien destruyó 
+el blastia de aquí, ¿no?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:miyu;time:1286467407]
+<STR>(JUD)
+Sí, fui yo.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294608445]
+<STR>(RIT)
+Ya veo... Estas flores florecían 
+así debido al desequilibrio de aer 
+procedente del blastia que destruiste.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:miyu;time:1286467407]
+<STR>(RIT)
+Igual que en el coliseo...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298807896]
+<STR>(JUD)
+Ya oíste lo que dijo ese pescador 
+sobre los peces de la zona, ¿verdad?<PAGE>Lo investigué y era a causa
+del blastia. Hice lo que debía.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:miyu;time:1286467407]
+<STR>(JUD)
+¿Estás enfadada?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294608445]
+<STR>(RIT)
+¡Pues claro que sí!<PAGE>Pero... es cosa del pasado.
+No me gusta discutir por 
+cosas que ya han pasado.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298807844]
+<STR>(JUD)
+A veces pienso
+que es DEMASIADO 
+comprensiva...

@@ -1,0 +1,320 @@
+## POINTER 2614 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Una piedra única conocida como gema de estrella.
+Brilla con una luz naranja.
+
+## POINTER 2616 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Gema de estrella oscura
+
+## POINTER 2617 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Una piedra única conocida como gema de estrella.
+Brilla constantemente con una luz negra.
+
+## POINTER 2619 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Gema de estrella de luz
+
+## POINTER 2620 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Una piedra única conocida como gema de estrella.
+Brilla constantemente con una luz blanca.
+
+## POINTER 2622 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262123850]
+Tentáculo de perchero
+
+## POINTER 2623 [t:1;r:1;ru:memnoch;user:memnoch;time:1297191371]
+El tentáculo de una criatura mágica.
+Está cubierto con un fluido viscoso. ¡Puaj!
+
+## POINTER 2625 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Metal extraordinario
+
+## POINTER 2626 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Material metálico tan raro que se cree que es ficticio.
+Muy sólido y difícil de forjar.
+
+## POINTER 2628 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Gran colmillo de lobo
+
+## POINTER 2629 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1263672103]
+Un colmillo de lobo muy grande.
+
+## POINTER 2631 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Gran caparazón de cangrejo
+
+## POINTER 2632 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+En este caparazón cabe una persona. ¡Sería estupendo
+tener un cangrejo de este tamaño para cenar!
+
+## POINTER 2634 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Gran pico de rapaz
+
+## POINTER 2635 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Pico gigante de un enorme pájaro.
+Sirve muy bien de arma, pero apesta.
+
+## POINTER 2637 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Garra de grifo
+
+## POINTER 2638 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Las garras afiladas de un grifo.
+Muchos viajeros han perdido la vida en ellas.
+
+## POINTER 2640 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Polvo de dragón
+
+## POINTER 2641 [t:1;r:1;ru:memnoch;user:memnoch;time:1297191371]
+Se dice que este polvo proviene del sudor seco
+de un dragón. Es blanco y es inodoro e insípido.
+
+## POINTER 2643 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Cuerno largo
+
+## POINTER 2644 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262123850]
+El cuerno de un monstruo tipo búfalo. Las puntas están
+ligeramente curvadas, pero siguen siendo peligrosas.
+
+## POINTER 2646 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262123850]
+Ala de toro
+
+## POINTER 2647 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262123850]
+El ala de un monstruo tipo toro.
+Se puede usar como orejas.
+
+## POINTER 2649 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261787412]
+Hielo de Ilyccia
+
+## POINTER 2650 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Hielo de la región glaciar de Ilyccia.
+Es teóricamente imposible, pero este hielo nunca se derrite.
+
+## POINTER 2652 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Agua de Tolbyccia
+
+## POINTER 2653 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016573]
+Agua mineral que solo se encuentra en el continente
+de Tolbyccia. También conocido como «Manantial de Tolbi».
+
+## POINTER 2655 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Pescado de Tolbyccia
+
+## POINTER 2656 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Pescado encontrado principalmente en Tolbyccia.
+Sabe fatal y no es comestible.
+
+## POINTER 2658 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262123850]
+Corteza de árbol de Hypionia
+
+## POINTER 2659 [t:1;r:1;ru:memnoch;user:memnoch;time:1297191371]
+Un trozo de la corteza de un árbol de Hypionia.
+La savia se puede utilizar para muchas cosas.
+
+## POINTER 2661 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262123850]
+Coral de Hypionia
+
+## POINTER 2662 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262123850]
+Coral que crece en la costa del continente
+de Hypionia. Brillante y muy bonito.
+
+## POINTER 2664 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Mineral de Weccea
+
+## POINTER 2665 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Mineral que se encuentra en el continente de Weccea.
+Se derrite ante un calor relativamente bajo y es fácil de tratar.
+
+## POINTER 2667 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262124225]
+Fruto de Yurzo
+
+## POINTER 2668 [t:1;r:1;ru:memnoch;user:memnoch;time:1297191371]
+La fruta de un árbol de Yurzo. Necesitas hervirla
+un rato antes de que sea comestible.
+
+## POINTER 2670 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262124225]
+Cristal de Yurzo
+
+## POINTER 2671 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1263672103]
+Un cristal poco frecuente que se forma después
+de que el árbol arda y cristalice.
+
+## POINTER 2673 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Base de gel
+
+## POINTER 2674 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+La materia prima para hacer geles. Es comestible
+una vez se trata, pero es blando y sin olor.
+
+## POINTER 2676 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Arena férrea de Desier
+
+## POINTER 2677 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Arena con hierro del continente de Desier.
+Mucho más dura que la arena normal.
+
+## POINTER 2679 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Polvo dorado de Desier
+
+## POINTER 2680 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Arena mezclada con oro del continente de Desier.
+Conseguir y forjar gran cantidad puede hacerte rico.
+
+## POINTER 2682 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262124225]
+Fósil de lagarto de Weccea
+
+## POINTER 2683 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262124225]
+Un fósil de lagarto.
+Muy valioso para la ciencia.
+
+## POINTER 2685 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262124225]
+Metalnaevi
+
+## POINTER 2686 [t:1;r:1;ru:memnoch;user:memnoch;time:1297191371]
+Un extraordinario metal que crece.
+Es peligroso porque se come a otras criaturas.
+
+## POINTER 2688 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Hierba medicinal
+
+## POINTER 2689 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Hierba que permite recuperar la fuera física.
+Hay que procesarla antes de usarla.
+
+## POINTER 2691 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Hierba espiritual
+
+## POINTER 2692 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Se dice que es buena para revitalizar la salud.
+Hay que procesarla antes de usarla.
+
+## POINTER 2694 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Resina mágica
+
+## POINTER 2695 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Líquido concentrado con poderes mágicos.
+Se crea refinando savia mágica.
+
+## POINTER 2697 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Piedra aérea
+
+## POINTER 2698 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Piedra que levita ligeramente en el aire.
+Es difícil darse cuenta a menos que se mire de cerca.
+
+## POINTER 2700 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Geopiedra
+
+## POINTER 2701 [t:1;r:1;ru:memnoch;user:memnoch;time:1297191371]
+Pequeña pero muy pesada... ¿no?
+Lo cierto es que no es para tanto.
+
+## POINTER 2703 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Mineral plateado
+
+## POINTER 2704 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1263672103]
+Si se refina se puede obtener plata.
+No tiene valor en este estado.
+
+## POINTER 2706 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Antibióticos
+
+## POINTER 2707 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Suplemento médico que puede curar el veneno.
+Hay que saber usarlos.
+
+## POINTER 2709 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Luz de poder
+
+## POINTER 2710 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+El poder fluye por tu cuerpo con solo tocarla.
+O tal vez sean imaginaciones mías.
+
+## POINTER 2712 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Luz protectora
+
+## POINTER 2713 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Tus músculos se solidifican con solo tocarla.
+O tal vez sean imaginaciones mías.
+
+## POINTER 2715 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Poción picante
+
+## POINTER 2716 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Una poción muy picante para adultos.
+¡Manténgase fuera del alcance de los niños!
+
+## POINTER 2718 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Velocidad luz
+
+## POINTER 2719 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Si la tocas serás tan ligero como el aire.
+O tal vez sean imaginaciones mías.
+
+## POINTER 2721 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Pieza misteriosa
+
+## POINTER 2722 [t:1;r:1;ru:memnoch;user:memnoch;time:1297191371]
+Pieza muy extraña.
+Ni siquiera recuerdo por qué la tenéis.
+
+## POINTER 2724 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Espejo extraño
+
+## POINTER 2725 [t:1;r:1;ru:memnoch;user:memnoch;time:1297191371]
+Un espejo que no refleja a los humanos,
+pero sí todo lo demás. ¿Por qué será?
+
+## POINTER 2727 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Manantial de sabiduría
+
+## POINTER 2728 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Orbe que según dicen contiene los recuerdos
+de una época antigua. Aunque solo es una leyenda...
+
+## POINTER 2730 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Piedra extraña
+
+## POINTER 2731 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016573]
+Un mineral extremadamente raro.
+Lo de «extraño» no es por su forma.
+
+## POINTER 2733 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Lentes arco iris
+
+## POINTER 2734 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Lentes extrañas que emiten los siete colores
+del arco iris en todos sus ángulos.
+
+## POINTER 2736 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Cuerno dorado
+
+## POINTER 2737 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262124436]
+El cuerno dorado y brillante de un rhybgaro.
+Es un objeto muy poco frecuente.
+
+## POINTER 2739 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262288048]
+Garra de oso ovíparo
+
+## POINTER 2740 [t:1;r:1;ru:memnoch;user:memnoch;time:1297191371]
+Una garra sólida y afilada. Se usa tal cual
+o molida para distintos propósitos.
+
+## POINTER 2742 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Mapamundi
+
+## POINTER 2743 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Imprescindible para todo viajero. Aunque no es más
+que un trozo de papel hasta que se completa
+
+## POINTER 2745 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Libro del coleccionista
+
+## POINTER 2746 [t:1;r:1;ru:memnoch;user:memnoch;time:1297191371]
+Libro que recoge todos los objetos que habéis obtenido.
+¡Intenta encontrarlos todos y complétalo!
+
+## POINTER 2748 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262124436]
+Libro de monstruos
+
+## POINTER 2749 [t:1;r:1;ru:memnoch;user:memnoch;time:1297191371]
+Libro que recoge los detalles de los enemigos.
+¡Consigue la información de todos y complétalo!
+
+## POINTER 2751 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261784870]
+Anillo del Hechicero

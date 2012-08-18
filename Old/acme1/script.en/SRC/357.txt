@@ -1,0 +1,67 @@
+## POINTER 0
+<STR>(EST_P)
+The <STR>(FRE) Brigade...
+
+## POINTER 1
+<STR>(JUD)
+So that's the blockade?
+
+## POINTER 2
+<STR>(KAR)
+Yeah, looks like it was <STR>(FRE) 
+Brigade's doing, after all...<PAGE>But...what are those monsters doing here?
+
+## POINTER 3
+<STR>(RAV)
+P'raps they've been tamed 
+by the knights?
+
+## POINTER 4
+<STR>(YUR)
+This brigade is reminding me 
+of <STR>(FRE) less and less...<PAGE>...What the hell is <STR>(FRE) doing 
+with his knights, anyway...
+
+## POINTER 5
+<STR>(RAV)
+With hardcore tactics like this, there ain't any 
+doubt in my mind this has something to do with 
+the talk of Belius engineering the Great War.
+
+## POINTER 6
+<STR>(KAR)
+So how do we get past this checkpoint...
+
+## POINTER 7
+<STR>(RAV)
+How about this?
+
+## POINTER 8
+
+Wh-what the hell!
+
+## POINTER 9
+
+Stop it! Settle down!
+
+## POINTER 10
+<STR>(JUD)
+Let's go now!
+
+## POINTER 11
+<STR>(RAV)
+Hey hey, don't leave 
+this old man behind!
+
+## POINTER 12
+
+What the-- 
+Come back, you!
+
+## POINTER 13
+Sodia
+<STR>(YUR) Lowell!
+
+## POINTER 14
+<STR>(RAV)
+See ya! Have fuuun!

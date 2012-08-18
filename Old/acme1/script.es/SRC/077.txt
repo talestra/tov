@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1271620701]
+<STR>(RIT)
+Llenemos las cantimploras aquí.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298203942]
+<STR>(KAR)
+Pero, esto es... 
+Oh, ¡auch!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298203942]
+<STR>(RIT)
+Idiota... ¡Usa la cabeza
+aunque sea por una vez!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269996504]
+<STR>(YUR)
+Parece que la situación requiere una ayudita extra...
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269996504]
+<STR>(YUR)
+¡La hora de la cantimplora!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298172063]
+<STR>(KAR)
+¡Luego yo! ♪
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298203942]
+<STR>(EST_P)
+Asegurémonos de hidratarnos bien.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298203942]
+<STR>(YUR)
+Sí. No creo que queramos
+pillar una insolación.<PAGE>Si ya estáis todos, 
+¡en marcha!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298203942]
+Información
+Perderás HP gradualmente si
+caminas cuando el agua de tu
+cantimplora llegue a cero.
+No pierdas de vista el contador.

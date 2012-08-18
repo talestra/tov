@@ -1,0 +1,154 @@
+## POINTER 0
+
+Welcome, travelers.<PAGE>....Oh! You were the ones
+that came by to synthesize
+a dress last time, right?<PAGE>I still have it
+right here. Do
+you want it?
+
+## POINTER 1
+<STR>(EST_P)
+Really?
+
+## POINTER 2
+
+Here you go.
+
+## POINTER 3
+<STR>(RAV)
+*Whistle*
+Sexy typhoon, mama!
+
+## POINTER 4
+<STR>(EST_P)
+S-sexy...t-typhoon...?
+
+## POINTER 5
+
+*Whistle*
+Sexy typhoon, mama!<PAGE>If you can bring me cheagle fur, a spirit
+fragment, two pices of sacred tree and two
+cockatrice claws, then I can get started.<PAGE>What about that young
+lady over there?
+
+## POINTER 6
+<STR>(KAR)
+N-no...It's okay...
+We don't need it...
+
+## POINTER 7
+<STR>(YUR)
+Let's take it since
+we came all this way.
+
+## POINTER 8
+<STR>(JUD)
+Who's going to wear it?
+
+## POINTER 9
+<STR>(RIT)
+Why don't you wear it, then?
+
+## POINTER 10
+<STR>(YUR)
+Let's have <STR>(KAR) wear it.
+
+## POINTER 11
+
+Would you ladies be interested
+in a dress that will be sure to
+catch any fella's heart?
+
+## POINTER 12
+<STR>(JUD)
+Now, that sounds like
+an interesting concept.
+
+## POINTER 13
+<STR>(RAV)
+Hey, <STR>(JUD) baby, if
+it's ol' <STR>(RAV)'s heart
+you're after...<PAGE>...you've got it, baby!
+
+## POINTER 14
+
+If you can bring me cheagle fur, a spirit
+fragment, two pices of sacred tree and two
+cockatrice claws, then I can get started.
+
+## POINTER 15
+<STR>(JUD)
+Oh my, thank
+you very much.
+
+## POINTER 16
+
+Here you go.
+
+## POINTER 17
+<STR>(RAV)
+J-<STR>(JUD_P), baby...
+T-his is against the rules...
+
+## POINTER 18
+<STR>(YUR)
+Hey, old man...?!
+
+## POINTER 19
+<STR>(KAR)
+Rules...?
+
+## POINTER 20
+<STR>(RAV)
+*Whistle*
+Sexy typhoon, mama!
+
+## POINTER 21
+<STR>(EST_P)
+S-sexy...t-typhoon...?
+
+## POINTER 22
+<STR>(JUD)
+Oh my, thank
+you very much.
+
+## POINTER 23
+
+Here you go.
+
+## POINTER 24
+<STR>(RAV)
+J-<STR>(JUD_P), baby...
+T-his is against the rules...
+
+## POINTER 25
+<STR>(YUR)
+Hey, old man...?!
+
+## POINTER 26
+<STR>(KAR)
+Rules...?
+
+## POINTER 27
+<STR>(EST_P)
+Look, <STR>(RIT), there's
+one for you too!
+
+## POINTER 28
+<STR>(RIT)
+Sorry, I'm not into
+that kind of thing.
+
+## POINTER 29
+<STR>(EST_P)
+Oh...
+
+## POINTER 30
+<STR>(RIT)
+Uh...I mean,<PAGE>It's kind of small on me.
+It's probably just about
+<STR>(KAR)'s size...
+
+## POINTER 31
+<STR>(EST_P)
+<STR>(KAR)...?

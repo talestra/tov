@@ -1,0 +1,162 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949367]
+Hanks
+¡Oh, <STR>(YUR)! Ya veo
+que sigues deambulando
+por ahí, como siempre.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+<STR>(YUR)
+Yo también me alegro
+de verte, viejo.
+¿Qué te cuentas?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949994]
+Hanks
+...
+No quería comentarlo,
+pero me estoy preparando
+para lo peor.<PAGE>Pensaba en mirar este recuerdo
+de mi mujer y rememorar los
+buenos tiempos mientras pueda.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949994]
+<STR>(EST_P)
+¡Un momento, el mundo aún no está
+condenado! ¡Encontraremos la forma
+de salvarlo! ¡Espere y verá!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949367]
+Hanks
+Es muy amable por tu parte decirme eso, pero
+no puedo evitar sentirme un poco pesimista
+cada vez que levanto la vista al cielo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+<STR>(YUR)
+¿Y estabas hablando con tu mujer
+sobre los momentos felices que
+pasasteis juntos cuando aún vivía?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949367]
+Hanks
+Ríete lo que quieras, pero no me queda
+mucho tiempo en este mundo, <STR>(YUR). 
+Pronto me reuniré con ella.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+<STR>(YUR)
+No sé si estará dispuesta a aguantarte
+en el cielo tal y como estás ahora.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+<STR>(EST_P)
+¡Exacto! Debería
+animarse. ¡No está
+siendo usted mismo!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+Hanks
+¿No estoy siendo yo mismo?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949367]
+<STR>(EST_P)
+Todos los de esta ciudad siempre
+se animan con su energía y su espíritu.
+Yo también, por supuesto.<PAGE>Pero ahora mismo
+duele verlo así...<PAGE>¡Mire a todos los de los barrios bajos! Aunque estén pasando
+un mal rato, se esfuerzan igual. ¡Y lo hacen por el futuro!
+¡Darse por vencido ahora es dar por seguro que todo se ha acabado!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+<STR>(YUR)
+<STR>(EST_P) tiene razón,
+viejo. No estás
+siendo tú mismo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949367]
+Hanks
+Je, je...<PAGE>Jua, ja, ja...<PAGE>Un vejestorio como yo jamás
+hubiera imaginado recibir tal
+sermón de una chiquilla.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+<STR>(EST_P)
+¡Per-perdóneme!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949367]
+Hanks
+No, no, soy yo el que
+debería disculparme.
+Lo he malinterpretado.<PAGE>¿Sabías que cuando te enfadas
+eres parecidísima a mi mujer
+cuando era joven?<PAGE>Ahora que me fijo,
+tienes un aire a ella.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+<STR>(EST_P)
+¿De verdad?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949367]
+Hanks
+Sí, eres su
+viva imagen.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949367]
+<STR>(YUR)
+¿Estás seguro? ¿No
+te parece que estás
+exagerando un poco?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+Hanks
+No sabes lo que dices, chaval.<PAGE>Y además, esa diadema que tienes
+se parece a una que le regalé
+hace muchísimo tiempo.<PAGE>Gracias. Me has hecho
+entrar en razón.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+<STR>(EST_P)
+¡Oh, no, en absoluto!
+Tan solo... ¡Es que
+me gusta que esté contento!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+Hanks
+Qué amable por tu parte.<PAGE>Por favor, acepta esto como
+muestra de agradecimiento.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949367]
+<STR>(EST_P)
+Pero si es el recuerdo
+de su mujer...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+Hanks
+Estoy seguro de que
+ella hubiese querido
+que te lo quedases.<PAGE>Por favor,
+acéptalo.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+<STR>(YUR)
+¿En serio no te importa?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949367]
+Hanks
+Nah, para nada.
+Quiero que se lo
+quede la jovencita.<PAGE>Aunque no tenga su recuerdo,
+los buenos momentos que pasamos
+jamás se irán de mi corazón.<PAGE>Eso es lo único que necesito.
+Así que lleváoslo, por favor.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1296949367]
+<STR>(EST_P)
+Lo comprendo. Pero si algún
+día quiere que se lo devuelva,
+hágamelo saber, por favor.<PAGE>Lo cuidaré muy, muy bien.
+No se preocupe.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1295101638]
+Hanks
+Gracias.

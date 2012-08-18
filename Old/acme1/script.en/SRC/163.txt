@@ -1,0 +1,182 @@
+## POINTER 0
+
+Whaddaya want?
+
+## POINTER 1
+<STR>(EST_P)
+I'd like to meet with Magistrate 
+Ragou, if you'd be so kind.
+
+## POINTER 2
+<STR>(KAR)
+<STR>(YUR), these men are mercenaries. 
+I wonder what guild they're 
+from...
+
+## POINTER 3
+<STR>(YUR)
+I guess that explains the thuggish look.
+
+## POINTER 4
+
+Hmph, go home! Scram! The 
+magistrate is a busy man.
+
+## POINTER 5
+<STR>(YUR)
+Surely not too busy to rough up the people in this town?
+
+## POINTER 6
+
+Hey, you better watch 
+your mouth, punk!
+
+## POINTER 7
+<STR>(KAR)
+See, I told you he wouldn't 
+see us. Let's get out of here 
+before things get sticky.
+
+## POINTER 8
+<STR>(YUR)
+I'd have to agree with Captain <STR>(KAR) on this one.
+
+## POINTER 9
+<STR>(EST_P)
+But, there must be some other way...
+
+## POINTER 10
+<STR>(RIT)
+Forget it. Let's go.
+
+## POINTER 11
+<STR>(YUR)
+We'd best leave the frontal assault on 
+the palace to the Imperial Knights.
+
+## POINTER 12
+<STR>(RIT)
+But isn't the fact that that's 
+going so badly precisely what's 
+got <STR>(FRE) in such a bad mood?
+
+## POINTER 13
+<STR>(YUR)
+Hmph. Maybe he'd see 
+us if we came bearing 
+gifts, so to speak?
+
+## POINTER 14
+<STR>(RIT)
+A gift? What 
+do you mean?
+
+## POINTER 15
+<STR>(YUR)
+The Rhybgaro. It's worth a fair 
+amount of money, right?
+
+## POINTER 16
+<STR>(EST_P)
+Come to think of it, that official 
+mentioned the Rhybgaro.<PAGE>He said that someone with its horn would 
+never have to worry about taxes again.
+
+## POINTER 17
+<STR>(YUR)
+If we brought something that valuable, the magistrate 
+would at least grant us an audience.
+
+## POINTER 18
+<STR>(RIT)
+You propose to catch 
+the Rhybgaro?
+
+## POINTER 19
+<STR>(KAR)
+This is our chance! It's 
+raining, after all!
+
+## POINTER 20
+<STR>(EST_P)
+What does rain have to do with it?
+
+## POINTER 21
+<STR>(KAR)
+The Rhybgaro comes out of 
+hiding when it's raining!<PAGE>Out of all the monsters I 
+know, it's the only one that 
+goes out in the rain.
+
+## POINTER 22
+<STR>(YUR)
+Capital observation, Captain 
+<STR>(KAR). What else?
+
+## POINTER 23
+<STR>(KAR)
+...What do you mean, "what else?" 
+That's all there is to it!
+
+## POINTER 24
+<STR>(YUR)
+So where's the Rhybgaro now?
+
+## POINTER 25
+<STR>(KAR)
+Er, uh...
+
+## POINTER 26
+<STR>(RIT)
+...Just as I thought.
+
+## POINTER 27
+<STR>(EST_P)
+Well then, let's go talk to the people in 
+town and get their side of the story.
+
+## POINTER 28
+<STR>(YUR)
+Are you okay with 
+this, <STR>(EST_P)?
+
+## POINTER 29
+<STR>(EST_P)
+Yes, <STR>(YUR).
+
+## POINTER 30
+<STR>(YUR)
+If we're unlucky, this could put all 
+of us on the wrong side of the law.<PAGE>The one who makes the laws in this town 
+is his lordship, the empire's magistrate. 
+You'd be okay with defying him?
+
+## POINTER 31
+<STR>(EST_P)
+...I'm going with you.
+
+## POINTER 32
+<STR>(YUR)
+You're okay with it, then.
+
+## POINTER 33
+<STR>(EST_P)
+Yes.
+
+## POINTER 34
+<STR>(YUR)
+<STR>(RIT), you don't have any problems with it?
+
+## POINTER 35
+<STR>(RIT)
+I have to say, I'm incredibly interested in 
+a blastia that can control the weather.
+
+## POINTER 36
+<STR>(EST_P)
+Then it's decided!
+
+## POINTER 37
+<STR>(YUR)
+So then, let's seek out 
+the Rhybgaro first.

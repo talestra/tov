@@ -1,0 +1,77 @@
+## POINTER 0
+<STR>(RIT)
+This blastia is 
+working. Why...?
+
+## POINTER 1
+<STR>(RIT)
+...This one is fitted with a core.
+
+## POINTER 2
+<STR>(JUD)
+Something's written here... 
+Warp blastia...?
+
+## POINTER 3
+<STR>(YUR)
+So in other words, someone 
+used this to leave Myorzo?
+
+## POINTER 4
+<STR>(JUD)
+It looks that way.
+
+## POINTER 5
+
+Hmph.<PAGE>What could a functional 
+blastia be doing here?
+
+## POINTER 6
+<STR>(KAR)
+It appears that someone's left the town.
+
+## POINTER 7
+<STR>(RIT)
+<STR>(EST_P)......where's <STR>(EST_P)?
+
+## POINTER 8
+<STR>(YUR)
+Wait, and where'd the old man go?
+
+## POINTER 9
+<STR>(KAR)
+Huh? You don't think...both 
+of them used this?
+
+## POINTER 10
+
+Hmm...<PAGE>The blastia in our town should 
+have all lost their cores back 
+in ancient times...
+
+## POINTER 11
+<STR>(RIT)
+A core was probably brought 
+in from outside the town.<PAGE>It should require adjustment to 
+function properly, but <STR>(EST_P)'s 
+an exception to the rules.<PAGE>If she can interact directly with aer, 
+she might also be able to reconstruct 
+aer to fit the core's formula.
+
+## POINTER 12
+<STR>(KAR)
+But why would she...
+
+## POINTER 13
+<STR>(JUD)
+Elder, could you get everyone 
+to help us search to see if 
+our friends are in town?
+
+## POINTER 14
+
+Hmph. Very well.
+
+## POINTER 15
+<STR>(YUR)
+Let's look for them, too.

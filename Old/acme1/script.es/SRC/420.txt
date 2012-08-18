@@ -1,0 +1,273 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298496701]
+
+<VOICE>(VS39_080)¡Los que se interpongan en el
+trabajo de los Caballeros serán
+considerados como criminales!
+
+## POINTER 1 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283382887]
+<STR>(YUR)
+<VOICE>(VS39_081)¡Hombre, faltaría más!
+
+## POINTER 2 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283372475]
+<STR>(YUR)
+<VOICE>(VS39_082)¿Qué te parece, <STR>(RIT)?
+
+## POINTER 3 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283372475]
+<STR>(RIT)
+<VOICE>(VS39_083)Tal y como pensaba, esta fórmula
+también está protegida por una clave.
+
+## POINTER 4 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(YUR)
+<VOICE>(VS39_084)¿Crees que puedes descifrarla?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298496701]
+<STR>(RIT)
+<VOICE>(VS39_085)He dicho que lo haría o moriría
+en el intento, ¿no?<PAGE><VOICE>(VS39_086)Esto ya no tiene
+nada que ver con
+llegar hasta Myorzo.<PAGE><VOICE>(VS39_087)¡De ninguna de las maneras voy a dejar
+que ese hatajo de Caballeros palurdos siga
+usando así estos pobres blastias!
+
+## POINTER 6 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(KAR)
+<VOICE>(VS39_088)Vale. ¡Os lo dejo a vosotros!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298496701]
+<STR>(JUD)
+<VOICE>(VS39_089)¿Y tú adónde vas, <STR>(KAR)?
+
+## POINTER 8 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(KAR)
+<VOICE>(VS39_090)Voy a vigilar aquí abajo
+por si vienen más
+Guardias Reales.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298496701]
+<STR>(JUD)
+<VOICE>(VS39_091)Pues entonces iré
+contigo a ayudarte.
+
+## POINTER 10 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285493616]
+<STR>(RAV)
+<VOICE>(VS39_092)M'estáis sacando de mis casillas
+con vuestro entusiasmo.
+
+## POINTER 11 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(EST_P)
+<VOICE>(VS39_093)Es la influencia de <STR>(YUR).
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298496701]
+<STR>(YUR)
+<VOICE>(VS39_094)Supongo que el resto
+nos quedaremos aquí, por ahora.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298497004]
+<STR>(RAV)
+<VOICE>(VS39_095)Aunque'r propio <STR>(YUR) es
+tan despreocupao como puede.
+
+## POINTER 14 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(EST_P)
+<VOICE>(VS39_096)Cierto.
+
+## POINTER 15 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(RAV)
+<VOICE>(VS39_097)Parece que tardará un buen rato
+en averiguar esa clave...
+
+## POINTER 16 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(YUR)
+<VOICE>(VS39_098)La Guardia Real, ¿eh?
+Me pregunto qué planean
+hacer con el blastia...
+
+## POINTER 17 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(JUD)
+<VOICE>(VS39_099)¡Iah!
+
+## POINTER 18 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+
+<VOICE>(VS39_100)¡Aagh!
+
+## POINTER 19 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(KAR)
+<VOICE>(VS39_101)¡Los Caballeros
+han vuelto!
+
+## POINTER 20 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(YUR)
+<VOICE>(VS39_102)Tenemos que
+mantener la posición.
+
+## POINTER 21 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(KAR)
+<VOICE>(VS39_103)¡Hay más!
+
+## POINTER 22 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(JUD)
+<VOICE>(VS39_104)¡¡Iah!!
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1285764269]
+<STR>(RAV)
+<VOICE>(VS39_105)¡Y una pa ti!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298497004]
+<STR>(JUD)
+<VOICE>(VS39_106)Parece que no nos
+van a dejar en paz.
+
+## POINTER 25 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283378115]
+<STR>(KAR)
+<VOICE>(VS39_107)Sí. Están esperando a
+que nos cansemos...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298497004]
+<STR>(EST_P)
+<VOICE>(VS39_108)¡Iah!<PAGE><VOICE>(VS39_109)¡Aah!
+
+## POINTER 27 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(YUR)
+<VOICE>(VS39_110)¡<STR>(EST_P), retrocede!
+
+## POINTER 28 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(EST_P)
+<VOICE>(VS39_111)¡<STR>(RIT)! ¡¿Qué estás...?!
+
+## POINTER 29 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(RIT)
+<VOICE>(VS39_112)¡Tenemos que destruirlo!
+¡Vosotros ocupaos de los Caballeros!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551468]
+<STR>(EST_P)
+<VOICE>(VS39_113)<STR>(RIT)... 
+Pero ¡¿por qué?!
+
+## POINTER 31 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(RIT)
+<VOICE>(VS39_114)¡No tenemos tiempo!<PAGE><VOICE>(VS39_115)No podéis...
+
+## POINTER 32 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(EST_P)
+<VOICE>(VS39_116)<STR>(RIT)...
+
+## POINTER 33 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(JUD)
+<VOICE>(VS39_117)¿No podemos qué?
+¿Aguantarlos a todos?
+
+## POINTER 34 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(JUD)
+<VOICE>(VS39_118)¿Es que acaso no confías
+en mí? ¿En nosotros?<PAGE><VOICE>(VS39_119)Hacerlo o morir
+en el intento, ¿no?
+
+## POINTER 35 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(EST_P)
+<VOICE>(VS39_120)No tiraremos la toalla.
+<STR>(RIT), haz lo que puedas
+y salva ese blastia.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1298497004]
+<STR>(RIT)
+<VOICE>(VS39_121)¡De acuerdo! ¡Arreglaré esta cosa
+aunque sea lo último que haga!<PAGE><VOICE>(VS39_122)¡Y para que os enteréis,
+espero lo mismo de vosotros!
+
+## POINTER 37 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(RAV)
+<VOICE>(VS39_123)*Suspiro* Oh, leñe.
+Ahora yo también tengo
+que darlo todo.
+
+## POINTER 38 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(YUR)
+<VOICE>(VS39_124)¿Te unes a la
+brigada de jóvenes
+brillantes o qué?
+
+## POINTER 39 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(RAV)
+<VOICE>(VS39_125)Eso parece.
+
+## POINTER 40 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(RAV)
+<VOICE>(VS39_126)Pero tío... este tiene
+que practicar un montón.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1298497004]
+<STR>(YUR)
+<VOICE>(VS39_127)No me preocupas mucho
+si aún estás de guasa.
+
+## POINTER 42 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285493811]
+<STR>(RAV)
+<VOICE>(VS39_128)Creo que me gustaría retirar
+mi última declaración.
+
+## POINTER 43 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(KAR)
+<VOICE>(VS39_129)¡Dejad de hacer el tonto,
+tíos! ¡¡Luchad!!
+
+## POINTER 44 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(RIT)
+<VOICE>(VS39_130)¡Ha parado!
+
+## POINTER 45 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(EST_P)
+<VOICE>(VS39_131)¡<STR>(RIT)!
+
+## POINTER 46 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(KAR)
+<VOICE>(VS39_132)¡Así se hace, <STR>(RIT)!
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:memnoch;time:1298497004]
+<STR>(RAV)
+<VOICE>(VS39_133)Vaya, mira tú por dónde... Lo ha conseguido.
+
+## POINTER 48 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(KAR)
+<VOICE>(VS39_134)¡Los Caballeros se están retirando!
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1298497004]
+<STR>(JUD)
+<VOICE>(VS39_135)¿Por qué? ¿Por qué
+ha parado el blastia?
+¿Qué intentaban hacer?
+
+## POINTER 50 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(YUR)
+<VOICE>(VS39_136)A caballo regalado no le mires
+el diente. Ya hemos cumplido lo que
+le prometimos a Tort. <STR>(JUD), te toca.
+
+## POINTER 51 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(JUD)
+<VOICE>(VS39_137)Vale.
+
+## POINTER 52 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283379170]
+<STR>(KAR)
+<VOICE>(VS39_138)Ah, ha-hala...
+
+## POINTER 53 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(YUR)
+<VOICE>(VS39_139)¡¿Qué es esa cosa?!
+
+## POINTER 54 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(JUD)
+<VOICE>(VS39_140)La puerta se ha abierto...
+Eso es Myorzo. La tierra natal
+de los krityanos. 
+
+## POINTER 55 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283382887]
+<STR>(RAV)
+<VOICE>(VS39_141)Pos sí que es... impresionante.
+
+## POINTER 56 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283377749]
+<STR>(JUD)
+<VOICE>(VS39_142)No parece que nos la
+vayan a dejar abierta
+mucho tiempo. Deprisa.<PAGE><VOICE>(VS39_143)¡Ba'ul!

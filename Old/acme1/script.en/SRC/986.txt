@@ -1,0 +1,31 @@
+## POINTER 0
+<STR>(KAR)
+What's this do?
+
+## POINTER 1
+<STR>(RIT)
+Get your grubby mitts off it!
+
+## POINTER 2
+<STR>(YUR)
+Some sort of switch?
+
+## POINTER 3
+<STR>(EST_P)
+Nothing's happening.
+
+## POINTER 4
+<STR>(RIT)
+It doesn't have enough aer.
+
+## POINTER 5
+<STR>(YUR)
+Not enough...aer...<PAGE>...Maybe it might work 
+if I used that ring I got 
+in the Shaikos Ruins.
+
+## POINTER 6
+<STR>(RIT)
+Ah, the Sorcerer's Ring. 
+I'm not sure...<PAGE>But you might as well 
+give it a try.

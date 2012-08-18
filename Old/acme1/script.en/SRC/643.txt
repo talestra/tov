@@ -1,0 +1,149 @@
+## POINTER 0
+<STR>(YUR)
+...There's someone here...
+
+## POINTER 1
+<STR>(RIT)
+Those guys are from Ruins' Gate.
+
+## POINTER 2
+<STR>(EST_P)
+Hearing about Ruins' Gate again 
+makes me think of Regaey...
+
+## POINTER 3
+<STR>(RIT)
+Don't forget that the Regaey 
+we saw was an imposter.
+
+## POINTER 4
+<STR>(YUR)
+Regaey was 
+Yeager.
+
+## POINTER 5
+<STR>(KAR)
+Wait, I thought that Yeager 
+was just disguising himself 
+as the real Regaey.
+
+## POINTER 6
+<STR>(YUR)
+Really?
+
+## POINTER 7
+
+Hey, look at this funny-looking 
+thingamabob I found.
+
+## POINTER 8
+
+Archie, you've found a part 
+of a blastia housing.
+
+## POINTER 9
+
+This is so awesome, Mark. I'll bet it's 
+a priceless historical artifact.
+
+## POINTER 10
+
+Let's get this back to Aspio 
+in a hurry and show it 
+to the researchers.
+
+## POINTER 11
+
+Don't forget to write your 
+name on it to prove you're 
+the one who found it.
+
+## POINTER 12
+<STR>(RIT)
+Just what do you guys 
+think you're doing...?!
+
+## POINTER 13
+
+Wh-what's going on?!
+
+## POINTER 14
+<STR>(RIT)
+Who do you think you are, 
+vandalizing a valuable 
+specimen like that?
+
+## POINTER 15
+
+It’s my natural right as 
+the one who found it.
+
+## POINTER 16
+<STR>(RIT)
+You idiot! What are you trying to do?!
+Ack! ...It's not coming off!<PAGE>Okay, you two, sit your 
+butts down, NOW!
+
+## POINTER 17
+<STR>(YUR)
+Uh, <STR>(RIT)? What're you doing?
+
+## POINTER 18
+<STR>(RIT)
+I'm going to explain to these half-wits 
+the importance of treating blastia 
+with a little respect!
+
+## POINTER 19
+
+Look, Archie, I think the 
+little mage is going to 
+give us a presentation.
+
+## POINTER 20
+
+Hmph... Why's she so 
+high and mighty...?
+
+## POINTER 21
+<STR>(RIT)
+Shut up and listen!
+
+## POINTER 22
+<STR>(RIT)
+...Got it?!
+
+## POINTER 23
+
+Yes, ma'am.
+
+## POINTER 24
+
+I've never heard so many words come 
+out of such a little person...
+
+## POINTER 25
+
+...I think we'd be better 
+off doing as she says.
+
+## POINTER 26
+<STR>(RIT)
+Sheesh... I'm gonna give Ruins' 
+Gate a piece of my mind when 
+I get back to Aspio...
+
+## POINTER 27
+<STR>(YUR)
+Still, they seem 
+really harmless.
+
+## POINTER 28
+<STR>(RIT)
+I guess you're right... But it's 
+the well-meaning idiots that 
+sometimes do the most damage.
+
+## POINTER 29
+<STR>(YUR)
+Aw, come on. Lighten up.

@@ -1,0 +1,71 @@
+## POINTER 0 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1253828713]
+Todo vuelve algún día
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298135411]
+(KAR)
+Oye... El cambio que nos han dado
+por lo que hemos comprado... lleva
+escrito el nombre de (RIT)...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298135411]
+(EST_P)
+¿Qué? ¡(RIT)! ¡¡(RIT)!!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298135411]
+(RIT)
+¿A qué viene tanto jaleo?
+
+## POINTER 4 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265765492]
+(EST_P)
+¡Nuestro dinero ha vuelto con lo
+último que hemos comprado! ¡Mira!
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267291524]
+(RIT)
+¿No os lo dije? ¡Nuestro dinero
+está de vuelta y viene con amigos!
+
+## POINTER 6 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265765492]
+(JUD)
+¿Eh? ¿Entonces no era
+un simple cuento de hadas?
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267291524]
+(KAR)
+«(RIT) Mordio». Es tu nombre completo...
+Qué vergüenza...
+
+## POINTER 8 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265765492]
+(YUR)
+Ya decía yo que (EST_P) estaba
+gastando más de lo normal...
+Así que era cosa tuya.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1304553935]
+(RAV)
+Lo der dinero pase, pero ¡¿ande
+vas escribiendo tu nombre también
+en tós nuestros objetos?!
+
+## POINTER 10 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265765492]
+(RIT)
+Digamos que alguien compra alguno
+y le gusta. ¡Puede que nos den
+algo especial a cambio!
+
+## POINTER 11 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267291524]
+(KAR)
+Las hay avariciosas...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1304526856]
+(RAV)
+Vale, pero ¿no podrías ar menos dejar
+d'escribir tu nombre en los geles?
+
+## POINTER 13 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267291524]
+(EST_P)
+(RIT)... son para comer...
+
+## POINTER 14 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265765492]
+(RIT)
+¡Pero... pero...!

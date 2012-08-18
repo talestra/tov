@@ -1,0 +1,229 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS25_031)Huh. So even the Union can't sit 
+still when it knows a princess of 
+the empire is out on the loose.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS25_032)Then the Don knows that 
+I'm a candidate for the 
+imperial throne too.
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS25_033)Yup. That's why he 
+told me ta come keep 
+an eye on ya.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS25_034)So you're here to observe her? 
+That's kind of creepy.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS25_035)Really?
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS25_036)What...? Is it just me?
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS25_037)Anyway, here I finally catch up 
+with ya and I wind up stickin' my 
+foot in that mess back there.<PAGE><VOICE>(VS25_038)It hasn't been easy 
+for old <STR>(RAV).
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS25_039)...But why worry so much about <STR>(EST_P)?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS25_040)It's only natural considering 
+the state of things between 
+the empire and the Union.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS25_041)Each side is trying to feel the 
+other out. The Don just wants 
+to keep track of their movements.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS25_042)So, you're all planning on looking 
+for this Phaeroh by going to 
+the Sands of Kogorh.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS25_043)Yes.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS25_044)Do you know what sort 
+of place a desert is?
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS25_045)Well it's hot, and dry, and they've 
+got a lot of sand there.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS25_046)That's putting it lightly. It's 
+not as easy as all that though.
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS25_047)Our plan is to get to 
+the area together first.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS25_048)And then?
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS25_049)Then I guess we'll go around 
+and ask where Phaeroh is.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS25_050)...I don't even know where to begin 
+commenting on that plan...<PAGE><VOICE>(VS25_051)So it's not just that you 
+don't want to go back to the 
+castle anymore, right?
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS25_052)Um...well.
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS25_053)It'd be easier on old 
+<STR>(RAV) if you did, though. 
+I'm just sayin'.
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS25_054)No. I'm sorry, but I have 
+to know the truth behind 
+Phaeroh's words...
+
+## POINTER 22
+<STR>(RAV)
+<VOICE>(VS25_055)Huh. Well the Desier continent 
+actually suits me just fine.
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VS25_056)Why is that?
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS25_057)I've got ta go to Nordopolica for another 
+errand I'm runnin' for the Don.<PAGE><VOICE>(VS25_058)Have to deliver a letter to Belius.
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS25_059)Whoa, that's pretty important.
+
+## POINTER 26
+<STR>(EST_P)
+<VOICE>(VS25_060)That's the boss of the coliseum 
+and ruler of Nordopolica, isn't it?
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VS25_061)Technically speaking, he's called the Duce.
+
+## POINTER 28
+<STR>(JUD)
+<VOICE>(VS25_062)Do you know what's written 
+in the letter?
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VS25_063)Hm. It's got somethin' ta do with those 
+monsters that attacked Dahngrest.<PAGE><VOICE>(VS25_064)In particular about that Phaeroh 
+chap you all are followin'.
+
+## POINTER 30
+<STR>(RAV)
+<VOICE>(VS25_065)The Don thinks Belius 
+will know somethin' 
+about that monster.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS25_066)Looks like it just became 
+worth our while to pay 
+this Belius a visit too.
+
+## POINTER 32
+<STR>(EST_P)
+<VOICE>(VS25_067)Right.
+
+## POINTER 33
+<STR>(RAV)
+<VOICE>(VS25_068)So if ya don't mind, <STR>(RAV) 
+here'll just tag along with ya.
+
+## POINTER 34
+<STR>(KAR)
+<VOICE>(VS25_069)That's fine. But you'll have to 
+follow the laws of Brave Vesperia.
+
+## POINTER 35
+<STR>(RAV)
+<VOICE>(VS25_070)Got it.<PAGE><VOICE>(VS25_071)It's not like I can go 
+joinin' your guild, ya 
+know. Ya understand.
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS25_072)Why can't you join 
+Brave Vesperia?
+
+## POINTER 37
+<STR>(KAR)
+<VOICE>(VS25_073)It's against the rules for anybody to 
+be in two guilds at the same time.<PAGE><VOICE>(VS25_074)And I guess technically speaking, 
+you are a member of Altosk.
+
+## POINTER 38
+<STR>(RAV)
+<VOICE>(VS25_075)Whaddya mean "technically?"
+
+## POINTER 39
+<STR>(RIT)
+<VOICE>(VS25_076)So are we done? I'm going 
+to go get some rest then.
+
+## POINTER 40
+<STR>(EST_P)
+<VOICE>(VS25_077)Okay.
+
+## POINTER 41
+<STR>(EST_P)
+<VOICE>(VS25_078)What...what do you think 
+<STR>(RIT)'s going to do?
+
+## POINTER 42
+<STR>(YUR)
+<VOICE>(VS25_079)Hmm, what indeed.
+
+## POINTER 43
+<STR>(JUD)
+<VOICE>(VS25_080)Does this mean we're on our 
+own until we leave tomorrow?
+
+## POINTER 44
+<STR>(KAR)
+<VOICE>(VS25_081)Yeah. We'll all 
+meet down at the 
+harbor then.

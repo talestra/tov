@@ -1,0 +1,201 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438537]
+<STR>(RAP)
+<VOICE>(VS17_134)Grrrr...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273481685]
+Cumore
+<VOICE>(VS17_135)Ah, la chusma de siempre. 
+Por fin te encuentro. 
+Ya has ido lo bastante lejos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242390]
+<STR>(YUR)
+<VOICE>(VS17_136)Los lacayos como vosotros deben tener
+mucho tiempo libre si lo habéis empleado
+para cruzar el océano y venir a vernos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1286989424]
+Cumore
+<VOICE>(VS17_137)Mmpf... No estás en condiciones
+de hablar de manera tan arrogante
+a alguien como yo.<PAGE><VOICE>(VS17_138)Ahora, Princesa, venid por aquí.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273481685]
+<STR>(KAR)
+<VOICE>(VS17_139)¿Eh? ¿A qué se refiere con lo de «Princesa»?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242390]
+<STR>(YUR)
+<VOICE>(VS17_140)A la princesita que tenemos
+justo frente de nuestras narices.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273481685]
+<STR>(EST_P)
+<VOICE>(VS17_141)Y-<STR>(YUR)... 
+¿Cómo lo has...?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438622]
+<STR>(KAR)
+<VOICE>(VS17_142)¿Qué? ¿<STR>(EST_P) es una princesa?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438622]
+<STR>(RIT)
+<VOICE>(VS17_143)Eso sospechaba yo...
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438622]
+<STR>(EST_P)
+<VOICE>(VS17_144)<STR>(RIT)... ¿tú también?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438622]
+<STR>(KAR)
+<VOICE>(VS17_145)Espera, no lo dirás en serio...
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438622]
+<STR>(EST_P)
+<VOICE>(VS17_146)¿Y qué les pasará a mis amigos?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+Cumore
+<VOICE>(VS17_147)Serán arrestados y descuartizados
+por secuestrar a un miembro
+de la familia real, por supuesto.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+<STR>(EST_P)
+<VOICE>(VS17_148)Espere, por favor.
+No me han secue...
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+Cumore
+<VOICE>(VS17_149)Ah, vaya una joven parlanchina
+estáis hecha. ¡Por aquí, por favor!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242390]
+<STR>(KAR)
+<VOICE>(VS17_150)¡<STR>(EST_P)!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+Cumore
+<VOICE>(VS17_151)¡Ahora morid como
+las moscas que sois!
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+Leblanc
+<VOICE>(VS17_154)Arrestad al culpable <STR>(YUR) 
+Lowell y a sus compinches.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324738]
+Cumore
+<VOICE>(VS17_153)Gah... vosotros. 
+¡La brigada de Schwann!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242390]
+Cumore
+<VOICE>(VS17_155)¡Esperad un momento!
+¡Este trofeo es mío! ¡No dejaré
+que me lo arrebatéis tan fácilmente!
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+Leblanc
+<VOICE>(VS17_156)¿«Trofeo»? Nuestro deber
+no tiene nada que ver
+con la cacería.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988540]
+Cumore
+<VOICE>(VS17_157)Mmpf...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242390]
+Leblanc
+<VOICE>(VS17_158)
+Y me ha parecido oír a alguien
+decir la palabra «morid»...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242390]
+Cumore
+<VOICE>(VS17_159)Así es. ¿Qué hay de malo en
+condenar a criminales a muerte?
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+Leblanc
+<VOICE>(VS17_160)¿No se supone que los criminales
+han de ser arrestados y juzgados
+según las leyes?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988540]
+Cumore
+<VOICE>(VS17_161)Mmpf... Supongo que puedo
+dejar que os quedéis
+con estos gusanos.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+Cumore
+<VOICE>(VS17_162)Cuando no es Schwann es <STR>(FRE). 
+Estos plebeyos advenedizos
+se lo tienen muy creído.<PAGE><VOICE>(VS17_163)Incluso ese comandante...
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+Leblanc
+<VOICE>(VS17_164)Por aquí, Alteza.
+Tened cuidado...
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+<STR>(EST_P)
+<VOICE>(VS17_165)Mmm, pero yo...
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+Boccos
+<VOICE>(VS17_166)¡Sí, por aquí!
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+Leblanc
+<VOICE>(VS17_167)¡Arrestadlos en nombre
+del capitán Schwann!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242390]
+Adecor
+<VOICE>(VS17_168)¡Así sea! ¡Banda de <STR>(YUR) Lowell,
+se cierra el telón para vosotros, proclamo!
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1275649856]
+<STR>(RIT)
+<VOICE>(VS17_169)¡¿Cómo que «banda»?! 
+¡Oye, quítame las zarpas de encima! 
+¡¿Tienes idea de quién soy yo?!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242390]
+<STR>(KAR)
+<VOICE>(VS17_170)¡P-Pero si yo no
+he hecho nada!
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+<STR>(EST_P)
+<VOICE>(VS17_171)¡No les hagáis daño! 
+¡Os lo ruego!
+
+## POINTER 35 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+<STR>(YUR)
+<VOICE>(VS17_172)<STR>(EST_P), no te preocupes.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242390]
+<STR>(EST_P)
+<VOICE>(VS17_173)¡<STR>(YUR)!
+
+## POINTER 37 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1276033580]
+Adecor
+<VOICE>(VS17_174)¡Empezad a caminar! 
+¡Que caminéis, proclamo!
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242390]
+<STR>(YUR)
+<VOICE>(VS17_175)¡Ay! ¡Oye, ojito
+con esos tirones!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242390]
+Leblanc
+<VOICE>(VS17_176)Señor Schwann, nos llevaremos
+a estos indeseables a Heliord.
+
+## POINTER 40 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273482644]
+Leblanc
+<VOICE>(VS17_177)¡Compañía, rompan filas!

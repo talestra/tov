@@ -1,0 +1,136 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(EST_P)
+¿Esta también es una barrera blastia?
+No está activada, pero...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(JUD)
+Tal vez la quieran dejar aquí
+como símbolo de protección de
+la ciudad, aunque no funcione.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(RIT)
+Creo que por fin
+lo pillo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(EST_P)
+¿Oh? ¿El qué?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(RIT)
+El por qué me gustan
+los blastias.<PAGE>Para mí, los blastias son como
+mis hermanos y hermanas.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512142]
+<STR>(YUR)
+¿Tus hermanos y hermanas?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1292936022]
+<STR>(RIT)
+Crecí sin padre y mi madre
+murió cuando era pequeña.<PAGE>Pero los blastias siempre estaban conmigo,
+incluso cuando estaba completamente sola.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512142]
+<STR>(JUD)
+Así que con eso te refieres a hermanos
+y hermanas... Tiene sentido.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(RIT)
+Y mi conocimiento por los
+blastias se desarrolló
+y creció conmigo.<PAGE>Quizá por eso siempre me he sentido
+muy cercana a ellos y por eso
+me cabreaba cuando se rompían.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(JUD)
+...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(RIT)
+Pero pronto tendré que decir adiós
+a todos esos blastias...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(JUD)
+Los hermanos y hermanas no pueden estar
+juntos para siempre. Algún día tendrás
+que dejarlos atrás y seguir adelante.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512142]
+<STR>(RIT)
+¿Algún día?...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512142]
+<STR>(JUD)
+Cuando encuentres a alguien que sea incluso más importante para ti.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(EST_P)
+Sin embargo, el separarse de ellos
+no implica que ese lazo importantísimo
+que compartís se rompa.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512142]
+<STR>(RIT)
+Quizá tengas razón...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(JUD)
+Y el hecho de haberse
+separado...<PAGE>no implica el tener que olvidar lo muy
+importantes que son o cuánto los quieres.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(RIT)
+<STR>(EST_P)... <STR>(JUD)...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(EST_P)
+Y <STR>(RIT), ya has encontrado
+mucha gente que te importa
+muchísimo, ¿no es cierto?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(RIT)
+Mmm...
+Aún os falta un mogollón
+para que seáis tan importantes
+como los blastias.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(JUD)
+¿Un mogollón?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(YUR)
+Eso parece.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(KAR)
+¡Eres horrible, <STR>(RIT)!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(RAV)
+¿Así es como me pagas mi amor? ¡Arpía!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(RIT)
+¡Sois unos pelmazos! ¡Y tú eres
+el peor de todos, viejales!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1292935844]
+<STR>(EST_P)
+A lo mejor algún día <STR>(RIT)
+aprende a demostrar su cariño
+como Dios manda.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512142]
+<STR>(JUD)
+No creo que sea para tanto. ¡A mí
+me parece uno de sus rasgos más monos!

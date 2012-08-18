@@ -1,0 +1,382 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314201]
+Ragou
+¡Barbos!
+¡Qué significa todo esto!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+No tengo la más mínima
+idea de qué me hablas.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1283187789]
+Ragou
+¡De la torre y los blastias, de qué si no!
+¡Todavía no me has informado de ellos!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+¿Y por que tengo que informarte
+sobre algo como eso?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+Ragou
+¡¿C-Cómo?! Te pusiste a construir
+esa estúpida torre sin decirle
+ni una palabra a tu propio jefe.<PAGE>¡Hasta te has servido de la Garra del Leviatán
+para que te ayuden!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+No soy tu perrito faldero,
+Ragou.<PAGE>Me limité a recoger los núcleos
+tal y como pediste.<PAGE>Fue gracias a mi esfuerzo
+que pudiste construir aquel blastia
+que controlaba la meteorología.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Ragou
+¡¿Y qué te hizo pensar que podías
+llevarte los núcleos que sobraron?!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+Barbos
+Nuestro acuerdo incluía un pacto
+de no intromisión, ¿recuerdas?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+Ragou
+¡¿Q-Qué?!
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+¿Acaso me metí yo
+con lo que hacías?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+Ragou
+¡Barbos, cómo te atreves!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+Barbos
+Ahora lárgate, magistrado.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Ragou
+¡Que no se te olvide, Barbos!
+¡La escoria como tú siempre
+acaba recibiendo su merecido!
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+Mira quién fue a hablar, Ragou.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279550113]
+<STR>(RIT)
+¡V-Vosotros!
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+¿Es la final del campeonato mundial de villanos
+y tú vas y te pillas el mejor asiento del estadio?
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+¿Qué clase de insensato se atreve
+a interrumpir mi exquisita representación?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+Barbos
+Vaya, pero si son los mocosos que encontré en el barco.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(EST_P)
+¡Tú eres el responsable
+de todo este caos!
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279550113]
+Barbos
+¿Y qué si lo soy?
+Jamás podréis
+atraparme, estúpidos.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(RIT)
+¿Ah, sí? ¿Y qué te hace pensar eso?
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+Un villano siempre se cree que es imposible
+que pierda. Por eso piensa así.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(KAR)
+Si es así, tú también serías un villano, <STR>(YUR).
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+Sip. Soy la vileza personificada.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+Tienes una lengua muy suelta, chaval.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+¿Cómo os atrevéis a desafiarme?
+Ya os dije que la próxima vez
+no os libraríais tan fácilmente.
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+¡Razón de más para ponerlo
+todo patas arriba!
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+¡Acabad con ellos!
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279550113]
+Barbos
+¡Ja, ja! ¡Esos estúpidos ya han emprendido la marcha!<PAGE>¡Ahora ese metomentodo de Don
+y los Caballeros se destruirán
+entre ellos!
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(KAR)
+¡¿Han hecho todo esto para destruir
+a la Unión y al Don?!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+<STR>(EST_P)
+¿Quién protegerá el Imperio
+si los Caballeros caen?
+<PAGE>Ragou, ¿cómo ha podido...? ¡Oh!
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(RIT)
+Pues claro... Va a debilitar a los Caballeros
+Imperiales para que el Consejo pueda controlar
+el Imperio entero.
+
+## POINTER 32 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(EST_P)
+Oh, no...
+
+## POINTER 33 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+Los Caballeros y la Unión caerían
+juntos... Tal y como dijo <STR>(FRE).
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1286989679]
+Barbos
+Mmpf. ¿Qué más dará que lo sepáis? 
+¡Por mucho que lo intentéis,
+ya no podréis detener la batalla!
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+Mmm. Eso ya lo veremos.
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+¡Y vuestra existencia
+acaba aquí y ahora!
+
+## POINTER 37 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+¡Mierda, llega tarde!
+
+## POINTER 38 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(EST_P)
+¡¿<STR>(FRE)?!
+
+## POINTER 39 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(FRE)
+¡Deteneos! ¡Envainad todos
+vuestras espadas! ¡Envainadlas!
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314688]
+<STR>(FRE)
+Soy el Caballero Imperial
+<STR>(FRE) Scifo. ¡Traigo una
+carta de Su Alteza Ioder!
+
+## POINTER 41 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(FRE)
+¡La carta que recibisteis antes
+era falsa! ¡Fue obra de un rebelde! 
+¡Retirad vuestros ejércitos de inmediato!
+
+## POINTER 42 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Don Whitehorse
+Ya creía que no
+ibas a volver.
+
+## POINTER 43 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(FRE)
+¿Y abandonar a <STR>(YUR) para que cargara
+él con la culpa? Ni en sueños.
+
+## POINTER 44 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+<VOICE>(VS20_113)Ragou, imbécil. No has cumplido
+tu parte del trato.
+
+## POINTER 45 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Ragou
+<VOICE>(VS20_114)¡No me hagas daño!
+
+## POINTER 46 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279551037]
+Barbos
+<VOICE>(VS20_115)¡Mierda!
+
+## POINTER 47 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(EST_P)
+<VOICE>(VS20_116)¡<STR>(YUR)! ¡Están apuntando 
+a <STR>(FRE)!
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+<STR>(KAR)
+<VOICE>(VS20_117)¡Le he dado!
+
+## POINTER 49 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+<VOICE>(VS20_118)¡Bien hecho, <STR>(KAR)!
+
+## POINTER 50 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+<VOICE>(VS20_119)¡¿Creéis que podéis
+detenerme, mocosos?!
+
+## POINTER 51 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(KAR)
+<VOICE>(VS20_120)¡Aaaah!
+
+## POINTER 52 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(EST_P)
+<VOICE>(VS20_121)¡Aaah!
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+<STR>(YUR)
+<VOICE>(VS20_122)Fuera de aquí. 
+Id a la salida.
+
+## POINTER 54 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(EST_P)
+<VOICE>(VS20_123)¡<STR>(YUR), no, es demasiado peligroso!
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+<STR>(RIT)
+<VOICE>(VS20_124)Le llevará algo de tiempo recargar el aer.
+Intentaré detenerlo antes de que lo haga.
+
+## POINTER 56 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(KAR)
+<VOICE>(VS20_125)¡Ahora!
+
+## POINTER 57 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+<VOICE>(VS20_126)¡Demasiado tarde!
+
+## POINTER 58 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(RIT)
+<VOICE>(VS20_127)¡No! ¡Ha recargado 
+demasiado rápido!
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316930]
+Barbos
+<VOICE>(VS20_128)¡¿Qué demonios...?!
+
+## POINTER 60 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(RIT)
+<VOICE>(VS20_129)¡Ah, así que vienes
+a por más, mamarracho!
+
+## POINTER 61 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+<VOICE>(VS20_130)¡<STR>(RIT), no empieces! 
+¡Nuestro enemigo es ese de ahí!
+
+## POINTER 62 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(RIT)
+<VOICE>(VS20_131)¡Mi enemigo es el mamarracho del dragón!
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316930]
+<STR>(YUR)
+<VOICE>(VS20_132)¡Déjalo en paz por ahora!
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988481]
+Barbos
+<VOICE>(VS20_133)Mmpf.
+
+## POINTER 65 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+Barbos
+<VOICE>(VS20_134)¡Voy a hacer que os arrepintáis
+de haber hecho eso!
+
+## POINTER 66 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(KAR)
+<VOICE>(VS20_135)¿Qué? ¡¿Puede volar?!
+
+## POINTER 67 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(RIT)
+<VOICE>(VS20_136)¡Ah! ¡Vuelve aquí, mamarracho!
+¡¿Te crees que te voy a dejar escapar?!
+
+## POINTER 68 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+<VOICE>(VS20_137)¡Si vas tras él, déjame ir contigo! Por aquí
+andamos algo cortos de criaturas voladoras.
+
+## POINTER 69 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+<STR>(RIT)
+<VOICE>(VS20_138)¿Estás majareta? 
+¡Este cretino es nuestro enemigo!
+
+## POINTER 70 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+<VOICE>(VS20_139)Tengo que atrapar
+a ese tío a toda costa.
+
+## POINTER 71 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279551037]
+<STR>(YUR)
+<VOICE>(VS20_140)¡Vamos!
+
+## POINTER 72 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+<VOICE>(VS20_141)¡Sí! ¡Gracias!
+
+## POINTER 73 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(KAR)
+<VOICE>(VS20_142)¡Espera! ¡¿Y nosotros qué?!
+
+## POINTER 74 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+<VOICE>(VS20_143)¡Este bicho ya va
+lo bastante cargado!
+
+## POINTER 75 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+<STR>(KAR)
+<VOICE>(VS20_144)Pero entonces, ¿qué hacemos?
+
+## POINTER 76 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279551037]
+<STR>(YUR)
+<VOICE>(VS20_145)¡Ocupaos de mantener el fuerte!
+
+## POINTER 77 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314624]
+<STR>(EST_P)
+<VOICE>(VS20_146)¡¿Qué?!
+
+## POINTER 78 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+<VOICE>(VS20_147)¡No os metáis en líos!
+
+## POINTER 79 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(KAR)
+<VOICE>(VS20_148)¡Maldita sea, <STR>(YUR)!
+
+## POINTER 80 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015236]
+<STR>(YUR)
+<VOICE>(VS20_149)¡Decidle a <STR>(FRE)
+que estaré fuera
+por un tiempo!

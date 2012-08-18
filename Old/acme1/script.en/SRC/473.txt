@@ -1,0 +1,44 @@
+## POINTER 0
+<STR>(YUR)
+Damn. It's shut up tight.
+
+## POINTER 1
+<STR>(KAR)
+Look up there. I might be 
+able to squeeze through.
+
+## POINTER 2
+<STR>(YUR)
+Nice. You can go through there and 
+open it from the other side.
+
+## POINTER 3
+<STR>(RIT)
+Hey, we're out of time. Why 
+don't we just blow it open?
+
+## POINTER 4
+<STR>(RAV)
+Just 'cause there's nobody out here 
+doesn't mean nobody's in there.<PAGE>It'd be a pain if we were discovered.
+
+## POINTER 5
+<STR>(RIT)
+The aer is all over the city, isn't it? 
+It's gotta be in the castle, too.
+
+## POINTER 6
+<STR>(JUD)
+Alexei must have taken 
+some sort of precautions 
+against that.
+
+## POINTER 7
+<STR>(KAR)
+Got it! Everybody 
+hurry!
+
+## POINTER 8
+<STR>(YUR)
+Good work. Okay, this 
+is it, folks.

@@ -1,0 +1,316 @@
+## POINTER 493 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266171997]
+Arte arcano: Lanza al enemigo por los aires
+con tu espada y sigue con un ataque con flechas.
+
+## POINTER 494 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262364320]
+Andanada
+
+## POINTER 495 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263082035]
+Arte arcano: Salta y dispara una flecha al enemigo.
+El ataque varía con la distancia si cierta habilidad está activada
+
+## POINTER 496 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262356576]
+Lluvia celestial
+
+## POINTER 497 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267477557]
+Arte arcano: Dispara una flecha al cielo para que caiga
+una lluvia de flechas sobre los enemigos de la zona. 
+
+## POINTER 498 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263082035]
+Estrellas fugaces
+
+## POINTER 499 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263082035]
+Arte arcano: Dispara una flecha que aumenta su 
+velocidad y potencia a medida que se acerca al enemigo. 
+
+## POINTER 500 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262356576]
+Crimen
+
+## POINTER 501 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263082035]
+Arte arcano: Dispara ráfagas de flechas al enemigo.
+El ataque varía con la distancia si cierta habilidad está activada.
+
+## POINTER 502 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262356818]
+Aullido del viento
+
+## POINTER 503 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267477557]
+Arte arcano: Dispara una rauda y devastadora flecha al enemigo.
+El ataque varía con la distancia si cierta habilidad está activada.
+
+## POINTER 504 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262357969]
+Canción de lluvia
+
+## POINTER 505 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262903196]
+Arte modificado: Consigue que las flechas lanzadas
+durante una Rotura de guardia exploten con Vacile.
+
+## POINTER 506 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262383209]
+Gota lenta 
+
+## POINTER 507 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte modificado: Dispara una flecha al cielo
+y espera pacientemente a que alcance al enemigo. 
+
+## POINTER 508 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262365729]
+Doblete con giro
+
+## POINTER 509 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183616]
+Arte modificado: Golpea dos veces con tu espada
+y tu puñal, gira y vuelve a golpear. 
+
+## POINTER 510 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262364320]
+Lluvia de lágrimas celestiales
+
+## POINTER 511 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte modificado:
+Corta muchas veces a tu enemigo en el aire.
+
+## POINTER 512 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262364320]
+Nube de lágrimas celestiales
+
+## POINTER 513 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte modificado:
+Corta acrobáticamente a tu enemigo en el aire. 
+
+## POINTER 514 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262364320]
+Andanada airada 
+
+## POINTER 515 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte modificado: Salta en el aire para lanzar
+una poderosa flecha capaz de convertir las rocas en polvo. 
+
+## POINTER 516 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262437220]
+Mundo creciente
+
+## POINTER 517 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263082035]
+Arte modificado: Las flechas que alcancen al enemigo se romperán
+en flechas más pequeñas que golpearán a objetivos cercanos. 
+
+## POINTER 518 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262374809]
+Comadreja violeta
+
+## POINTER 520 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262367249]
+Castigo
+
+## POINTER 522 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262367249]
+Vuelo
+
+## POINTER 524 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262437220]
+Furia del viento
+
+## POINTER 526 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263083301]
+Viento cortante
+
+## POINTER 527 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267477773]
+Habilidad de principiante: Corta y aplasta
+a tus enemigos con un viento cortante.
+
+## POINTER 528 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262367249]
+Arrivederci
+
+## POINTER 529 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Habilidad intermedia: Provoca un pequeño torbellino
+que hace volar a los enemigos. 
+
+## POINTER 530 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262387241]
+Vendaval destructor
+
+## POINTER 531 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Habilidad avanzada: Envía un violento tornado que bloquea
+el movimiento del enemigo y lo aplasta con la presión del aire.
+
+## POINTER 532 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262437220]
+Locura de Vanji
+
+## POINTER 533 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Habilidad avanzada: Golpea a los enemigos con
+un rayo de luz e inflige Hechizado temporalmente. 
+
+## POINTER 534 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262387241]
+Inverno
+
+## POINTER 535 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262437220]
+Arte modificado: Haz brotar un afilado glaciar bajo
+los pies de tu enemigo.
+
+## POINTER 536 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262446565]
+Tempestad
+
+## POINTER 537 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte modificado: Invoca un huracán gigante
+cuyos relámpagos golpean al enemigo.  
+
+## POINTER 538 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262387241]
+Tiempo cero 
+
+## POINTER 539 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262396398]
+Arte modificado: La interferencia con el aer 
+detiene el tiempo durante unos segundos. 
+
+## POINTER 540 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262388111]
+Ira explosiva
+
+## POINTER 541 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte explosivo: Dispara flechas sin parar mientras
+acumulas energía para liberarla en un disparo final.
+
+## POINTER 542 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Ira caótica 
+
+## POINTER 544 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Caos granate
+
+## POINTER 546 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Ira kamikaze
+
+## POINTER 548 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262446565]
+Tormenta del caos
+
+## POINTER 550 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1254219384]
+Estallido cardíaco
+
+## POINTER 552 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Flecha vengadora
+
+## POINTER 554 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Gran tajada
+
+## POINTER 556 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Estocada alta 
+
+## POINTER 558 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Estocada media 
+
+## POINTER 560 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Barrido 
+
+## POINTER 562 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Corte aéreo
+
+## POINTER 564 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Estocada aérea
+
+## POINTER 566 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Patada giratoria 
+
+## POINTER 568 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Salto lunar
+
+## POINTER 570 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Gran mandoble 
+
+## POINTER 572 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262290597]
+Golpe
+
+## POINTER 574 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Tajada aérea
+
+## POINTER 576 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Taconazo aéreo
+
+## POINTER 578 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Ataque en movimiento libre
+
+## POINTER 580 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Corte aéreo giratorio 
+
+## POINTER 582 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Patada voladora
+
+## POINTER 584 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262353000]
+Ataque letal azul
+
+## POINTER 586 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262353000]
+Ataque letal rojo
+
+## POINTER 588 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262353000]
+Ataque letal verde
+
+## POINTER 590 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Luna creciente 
+
+## POINTER 591 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte básico:
+Carga contra los enemigos y golpéalos con una patada. 
+
+## POINTER 592 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Colmillo de luna
+
+## POINTER 593 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte básico:
+Salta muy alto y aterriza sobre el enemigo. 
+
+## POINTER 594 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262521796]
+Estrago de luz lunar 
+
+## POINTER 595 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte básico: Propina una patada circular en el aire
+y termina con otra patada al aterrizar. 
+
+## POINTER 596 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Filo de luna nueva 
+
+## POINTER 597 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Arte básico: Carga hacia adelante para atacar con 
+tu lanza. 
+
+## POINTER 598 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Tajo creciente 
+
+## POINTER 599 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte básico: Oscila tu lanza creando
+una luna llena y pártela en dos mitades. 
+
+## POINTER 600 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Luna saliente
+
+## POINTER 601 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte básico: Gira en el aire
+mientras cortas y termina con una patada. 
+
+## POINTER 602 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262521859]
+Garra de luz lunar
+
+## POINTER 603 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte básico: Lanza un corte hacia arriba
+para enviar al enemigo a las nubes. 
+
+## POINTER 604 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Amanecer lunar
+
+## POINTER 605 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Arte básico: Salta y lánzate contra el enemigo. 
+
+## POINTER 606 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262521859]
+Estallido de luz lunar
+
+## POINTER 607 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte básico:
+Gira y tumba al enemigo con el mango de tu lanza. 
+
+## POINTER 608 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Tormenta lunar
+
+## POINTER 609 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Arte básico: Crea un torbellino con tu lanza. 
+
+## POINTER 610 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Perforación lunar 
+
+## POINTER 611 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte básico: Lanza un corte ascendente
+como si quisieras enviar al enemigo a la Luna.
+
+## POINTER 612 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262436787]
+Tempestad lunar
+
+## POINTER 613 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Arte arcano: Patea al enemigo sin parar
+en el aire durante un salto cabeza abajo. 
+
+## POINTER 614 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172979]
+Luna ascendente
+
+## POINTER 615 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267477925]
+Arte arcano:
+Acelera y ataca con un corte de abajo a arriba.

@@ -1,0 +1,31 @@
+## POINTER 0
+The Dragon Rider Rides Again
+
+## POINTER 1
+(KAR)
+I never thought we would meet the 
+dragon rider in Ragou's palace!
+
+## POINTER 2
+(YUR)
+That was a dragon? I'd never seen 
+a monster like that before.
+
+## POINTER 3
+(EST_P)
+Yes. It had a very different feeling 
+to it than any monster I'd ever seen.
+
+## POINTER 4
+(EST_P)
+I wonder where it flew away to after that.
+
+## POINTER 5
+(KAR)
+I'll bet it has a hideout somewhere, but we 
+don't have enough information to find it.
+
+## POINTER 6
+(RIT)
+Enough! Enough with that dragon freak! Just 
+thinking about that jerk makes me furious!

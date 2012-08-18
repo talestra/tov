@@ -1,0 +1,29 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS23_040)Monsters?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS23_041)<STR>(YUR)!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS23_042)<STR>(KAR)! Any idea what 
+that thing is?
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS23_043)No, I've never seen anything 
+like that before...
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS23_044)It's coming down!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS23_045)Come on, <STR>(KAR).
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS23_046)What? Hey, wait!

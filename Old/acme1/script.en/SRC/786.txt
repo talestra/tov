@@ -1,0 +1,72 @@
+## POINTER 0
+
+Agh! A monster!
+
+## POINTER 1
+
+It's a monster!
+
+## POINTER 2
+<STR>(RAP)
+(It's you...)
+
+## POINTER 3
+
+(It looks like you've marked your 
+territory in quite a few places.)
+
+## POINTER 4
+<STR>(RAP)
+(And now, I'm going to take all of your
+territory away from you in one swoop.)
+
+## POINTER 5
+
+(Well then, shall 
+we settle things 
+here and now?)<PAGE>(If I win, I get to take 
+all of the territory that's 
+currently yours.)<PAGE>(If you win, I may give you 
+my territory. You could 
+go and take all of it.)
+
+## POINTER 6
+<STR>(RAP)
+(It sounds like I'm getting the 
+shorter end of the stick, but...)<PAGE>(All right. I'll accept your challenge.)<PAGE>(If only to keep 
+things interesting.)
+
+## POINTER 7
+
+(Hmph, enough talk. 
+Let's take this out front!)
+
+## POINTER 8
+<STR>(EST_P)
+Ah, <STR>(RAP)...!
+
+## POINTER 9
+<STR>(YUR)
+<STR>(RAP), you won?
+
+## POINTER 10
+<STR>(RAP)
+Wooo...
+
+## POINTER 11
+<STR>(KAR)
+What are you carrying 
+in your mouth...?
+
+## POINTER 12
+<STR>(YUR)
+A trophy, huh...?
+
+## POINTER 13
+<STR>(YUR)
+So your nemesis has 
+been vanquished?
+
+## POINTER 14
+<STR>(RAP)
+Wooo...

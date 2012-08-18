@@ -1,0 +1,49 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265231739]
+¿Pienso demasiado?
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298505]
+(EST_P)
+Sabéis, al principio no me sentía muy cómoda
+al luchar, pero creo que últimamente me he
+ido acostumbrando.
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298505]
+(YUR)
+¿Ah, sí? Bueno, la verdad es
+que has estado luchando un montón.
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266576781]
+(JUD)
+Aunque creo que todavía malgastas
+energías ejecutando algún que otro
+movimiento inútil.
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298505]
+(EST_P)
+Siempre intento pensar en qué debo hacer
+a continuación, pero de alguna manera no
+consigo que me salga del todo bien...
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298505]
+(YUR)
+Tal vez piensas demasiado.
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298505]
+(JUD)
+Si pelearas de manera más visceral, puede que
+tu cuerpo respondiera de manera más fluida.
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298505]
+(EST_P)
+De manera más visceral... ¡Entiendo!
+¡Quieres decir que siga mi instinto!
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265231739]
+(YUR)
+¿No te da la sensación de que
+nos está malinterpretando?
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298505]
+(JUD)
+Tal vez, pero creo que
+sabrá apañárselas.

@@ -1,0 +1,218 @@
+## POINTER 0
+
+Hey! It's the healer girl!
+
+## POINTER 1
+<STR>(EST_P)
+Hi!
+
+## POINTER 2
+<STR>(YUR)
+The tree's flowers look as 
+red as ever... Too bad about 
+that bride's curse...
+
+## POINTER 3
+<STR>(EST_P)
+I'm pretty sure that's 
+wrong, <STR>(YUR).
+
+## POINTER 4
+<STR>(YUR)
+Wrong...? What's wrong?
+
+## POINTER 5
+<STR>(EST_P)
+This veil... 
+It told me...
+
+## POINTER 6
+<STR>(EST_P)
+Once upon a time, there 
+lived a kind-hearted 
+prince named Jarre.<PAGE>He adored flowers and insects, 
+and he loved the moon, the sun, 
+and the stars up in the sky.
+
+## POINTER 7
+<STR>(EST_P)
+One day, Jarre found a seed. 
+He took that seed to the top of 
+a great hill, and planted it there.
+
+## POINTER 8
+<STR>(EST_P)
+In time, the seed sprouted, and 
+became a long, thin trunk of a tree. 
+But its flowers did not bloom.
+
+## POINTER 9
+<STR>(EST_P)
+The impatient Prime Minister said, 
+"What's the point if it won't bloom. 
+Cut it down." But Jarre replied:
+
+## POINTER 10
+<STR>(EST_P)
+"Even if it doesn't bloom, it's putting 
+all of its effort into growing. Cutting 
+it down would be a terrible thing to do!"
+
+## POINTER 11
+<STR>(EST_P)
+Hearing this, the tree took 
+the form of a young woman, 
+and appeared before Jarre.
+
+## POINTER 12
+<STR>(EST_P)
+He instantly fell in love with her white 
+skin and beautiful figure. On a moonlit 
+night, he asked her to marry him.<PAGE>After their wedding, 
+the two of them were 
+as happy as can be.
+
+## POINTER 13
+<STR>(EST_P)
+But the Prime Minister, angry that the 
+Prince had married the maiden, had 
+her cruelly cast out of the castle.
+
+## POINTER 14
+<STR>(EST_P)
+Jarre was so sad that he shut himself up in 
+the castle. Day and night he cried, unable 
+to think of anything but his lost love.
+
+## POINTER 15
+<STR>(EST_P)
+The maiden learned of this, and stretched 
+her trunk and branches until several pure, 
+white flowers bloomed from their tips.
+
+## POINTER 16
+<STR>(EST_P)
+Jarre saw this from his castle window and 
+stopped crying. He went outside for the 
+first time since his maiden had gone.
+
+## POINTER 17
+<STR>(EST_P)
+Sitting beneath the newly 
+bloomed flowers, he 
+heard the maiden's voice.
+
+## POINTER 18
+<STR>(EST_P)
+"Don't cry. You'll always 
+be able to find me here."<PAGE>It was then that Jarre realized that 
+his love had actually been the tree, 
+transformed into a fair maiden.
+
+## POINTER 19
+<STR>(EST_P)
+When he gently kissed the bark of 
+the tree he had loved, all of its 
+flowers turned to a bright red.
+
+## POINTER 20
+<STR>(EST_P)
+And that is why this tree's 
+flowers symbolize eternal love, 
+permanent and unchanging.
+
+## POINTER 21
+
+Wow... So that's why 
+the flowers are red!
+
+## POINTER 22
+
+So that's the 
+real story!
+
+## POINTER 23
+
+Miss, thank you for 
+the wonderful story!
+
+## POINTER 24
+<STR>(EST_P)
+No, it was my pleasure.
+
+## POINTER 25
+
+You should tell that 
+story to the Mayor, too!
+
+## POINTER 26
+<STR>(KAR)
+Wow, I didn't know 
+about all that, <STR>(EST_P).
+
+## POINTER 27
+<STR>(YUR)
+Yeah, when did you 
+find all that out?
+
+## POINTER 28
+<STR>(EST_P)
+W-well... I didn't find 
+out about it, exactly... 
+I sort of...made it up.
+
+## POINTER 29
+<STR>(KAR)
+But you said the 
+veil told you...
+
+## POINTER 30
+<STR>(EST_P)
+That was a lie. 
+I'm sorry...<PAGE>I was just looking at this 
+veil, and the story came 
+to me all of a sudden...
+
+## POINTER 31
+<STR>(KAR)
+Wow, <STR>(EST_P)! You have a real 
+talent for making up stories!
+
+## POINTER 32
+<STR>(JUD)
+A hidden talent, huh? 
+Will wonders never cease...
+
+## POINTER 33
+<STR>(EST_P)
+Oh, heh heh...
+
+## POINTER 34
+<STR>(YUR)
+You ever think about becoming 
+a writer of children's stories?
+
+## POINTER 35
+<STR>(EST_P)
+N-not really...
+
+## POINTER 36
+<STR>(RAV)
+You can't force 
+her inta somethin' 
+like that!
+
+## POINTER 37
+<STR>(KAR)
+After all, <STR>(EST_P), 
+you're the Princess!♪
+
+## POINTER 38
+<STR>(EST_P)
+Yes, that's true.
+
+## POINTER 39
+<STR>(EST_P)
+...Children's stories, hmmm... 
+Maybe it wouldn't hurt to at least 
+give it some thought...right?

@@ -1,0 +1,61 @@
+## POINTER 0
+<STR>(KAR)
+Ack...!
+
+## POINTER 1
+
+*Sob* *sob* Papa... 
+Mama...
+
+## POINTER 2
+<STR>(EST_P)
+Everything's going to be okay.
+
+## POINTER 3
+<STR>(EST_P)
+Can you tell me what happened?
+
+## POINTER 4
+
+A scary old man brought 
+me here...<PAGE>He said it was 'cuz Papa and Mama 
+couldn't pay their taxes...
+
+## POINTER 5
+<STR>(KAR)
+Do you think that this is 
+the kid from before...?
+
+## POINTER 6
+<STR>(EST_P)
+...How horrible.
+
+## POINTER 7
+<STR>(KAR)
+All of these bones...could the 
+monsters have done this?
+
+## POINTER 8
+
+Papa... Mama... I 
+wanna go home...
+
+## POINTER 9
+<STR>(EST_P)
+It's okay. Everything's 
+okay now.
+What's your name?
+
+## POINTER 10
+
+Pauly...
+
+## POINTER 11
+<STR>(YUR)
+Come on Pauly, be a big boy. 
+No more crying. You'll see 
+your mom and dad soon.
+
+## POINTER 12
+Pauly
+Okay...

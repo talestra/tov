@@ -1,0 +1,299 @@
+## POINTER 335 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+060 Alf and Layla's Parents
+
+## POINTER 336 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+070 Mysterious enemy creature
+
+## POINTER 338 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Where is this place?
+
+## POINTER 339 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 This seems to be Yormgen
+
+## POINTER 340 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+030 Lon-Chi, Yui-Fung and the wiseman
+
+## POINTER 341 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+040 Ask Duke about entelexeiaく
+
+## POINTER 342 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+050 Depart tomorrow, <STR>(RIT)'s reserch
+
+## POINTER 343 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+060 N/A
+
+## POINTER 344 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+070 Return to Mantaic
+
+## POINTER 346 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Interfere Cumore
+
+## POINTER 347 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 Good to be safe
+
+## POINTER 348 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+030 An idiot never changes
+
+## POINTER 349 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+040 I'll do it in my way
+
+## POINTER 350 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+050 Assasination of Cumore
+
+## POINTER 351 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+060 Leave Cumore to death
+
+## POINTER 352 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+070 City freed
+
+## POINTER 353 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+080 Discord between <STR>(FRE)
+
+## POINTER 354 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+090 <STR>(EST_P) watching
+
+## POINTER 355 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+100 The knignts return to Nordopolica
+
+## POINTER 357 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Cados sealed by knights
+
+## POINTER 358 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 Break through <STR>(FRE) squadron
+
+## POINTER 359 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+030 Are the knights serious
+
+## POINTER 360 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+040 Reserch of Aer Krene
+
+## POINTER 361 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+050 <STR>(RAV)'s quick move
+
+## POINTER 363 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Full moon, we can see Belius tonight
+
+## POINTER 364 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 Let go see Belius
+
+## POINTER 365 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+030 Lead inside
+
+## POINTER 366 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+040 Talk with Belius, Hunting Blades intrudes
+
+## POINTER 367 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+050 Need to help Nath
+
+## POINTER 368 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+060 Is this a Union's order?
+
+## POINTER 369 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+070 Belius out of control by <STR>(EST_P)'s formula
+
+## POINTER 370 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+080 Belius' death
+
+## POINTER 371 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+090 City put under Knight control
+
+## POINTER 372 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+100 Facing <STR>(FRE)
+
+## POINTER 373 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+110 <STR>(JUD) destroys Ceres blastia
+
+## POINTER 375 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Let's go see everyone
+
+## POINTER 376 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 Talk with <STR>(KAR)
+
+## POINTER 377 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+030 Talk with <STR>(RIT)
+
+## POINTER 378 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+040 Talk with <STR>(RAV)
+
+## POINTER 379 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+050 Talk with <STR>(EST)
+
+## POINTER 380 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+060 Everything may be related to apatheia
+
+## POINTER 382 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Break up once
+
+## POINTER 383 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 Rest?
+
+## POINTER 384 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+030 Follow Don to the manor of the wicked
+
+## POINTER 385 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+040 <STR>(KAR) heads to Palestralle
+
+## POINTER 386 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+050 Are you ready?
+
+## POINTER 387 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+060 Arrive at manor, <STR>(JUD) is in danger
+
+## POINTER 388 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+070 Don and Yegar stand face to face
+
+## POINTER 389 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+080 Don defeats Yegar?
+
+## POINTER 390 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+090 This will lead to a war
+
+## POINTER 391 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+100 Don takes responsibility -Seppuku
+
+## POINTER 392 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+110 Let's head to <STR>(JUD)'s place
+
+## POINTER 393 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+120 <STR>(KAR) depressed
+
+## POINTER 394 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+130 Yegar's provoke
+
+## POINTER 395 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+140 Let go see how <STR>(KAR) is doing?
+
+## POINTER 396 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+150 Head to Mt. Temza
+
+## POINTER 397 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+160 <STR>(KAR) & <STR>(RAV) meet up
+
+## POINTER 399 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Heard Ba'ul's voice
+
+## POINTER 400 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 The remains of the War
+
+## POINTER 401 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+030 A small rest
+
+## POINTER 402 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+040 Reunion with <STR>(JUD)
+
+## POINTER 403 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+050 VS. Hunting Blades
+
+## POINTER 404 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+060 Ba'ul's evolution
+
+## POINTER 405 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+070 Ba'ul takes off
+
+## POINTER 406 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+080 We're up in the sky
+
+## POINTER 407 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+090 A strong will for one who punishes
+
+## POINTER 408 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+100 A damaged formula
+
+## POINTER 409 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+110 Raven served in the War
+
+## POINTER 410 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+120 Want to know about Child of the Full Moon
+
+## POINTER 411 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+130 Good time for a explanation
+
+## POINTER 412 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+140 <STR>(JUD)'s story
+
+## POINTER 414 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Phaeroh is up ahead
+
+## POINTER 415 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 Conversation with Phaeroh
+
+## POINTER 416 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+030 Let's head to Myorzo
+
+## POINTER 417 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+040 Let's all take the punishment
+
+## POINTER 418 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+050 A route to Myorzo
+
+## POINTER 419 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+060 A rest before departure
+
+## POINTER 421 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Look for Trina blastia
+
+## POINTER 422 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 How is Myorzo like?
+
+## POINTER 423 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+030 <STR>(EST_P) activates the blastia
+
+## POINTER 424 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+040 <STR>(EST_P) can modify the formula freely
+
+## POINTER 425 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+050 <STR>(RIT) unlocks the blastia key
+
+## POINTER 427 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Is that a entelexeia!?
+
+## POINTER 428 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 Surrounded by Krityan
+
+## POINTER 429 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+030 Lots of blastia
+
+## POINTER 430 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+040 Blastia and the Adephagos
+
+## POINTER 431 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+050 Rizomata Formula
+
+## POINTER 432 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+060 Kines blastia is still working!?
+
+## POINTER 433 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+070 Where is <STR>(RAV) and the others? (part 1)
+
+## POINTER 434 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+071 <STR>(YUR), <STR>(RAV) recollect's 1
+
+## POINTER 435 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+072 <STR>(YUR), <STR>(RAV) recollect's 2
+
+## POINTER 436 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+073 Where is <STR>(RAV) and the others? (part 2)
+
+## POINTER 438 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Alexei, Man behind the scene
+
+## POINTER 439 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 <STR>(FRE)'s dilemma and failure
+
+## POINTER 441 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+010 Hercules VS. Astar
+
+## POINTER 442 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+020 <STR>(FRE) squadron for reinforcement
+
+## POINTER 443 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+030 <STR>(FRE) is worried
+
+## POINTER 444 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+040 Let proceed as we create the map
+
+## POINTER 445 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+050 The ages of entelexeia
+
+## POINTER 446 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304621382]
+060 Receive Dein Nomos from Duke

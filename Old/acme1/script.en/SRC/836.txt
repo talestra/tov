@@ -1,0 +1,246 @@
+## POINTER 0
+Sicily
+Ciaaao!
+
+## POINTER 1
+<STR>(RAV)
+Th-that voice...!
+
+## POINTER 2
+Sicily
+We meet ancora!
+
+## POINTER 3
+<STR>(RIT)
+This is all you, old man.
+
+## POINTER 4
+<STR>(RAV)
+Why does it always hafta be me?
+
+## POINTER 5
+<STR>(JUD)
+Is there anything 
+we can do for you?
+
+## POINTER 6
+Sicily
+That barca that's tied up 
+in the port... Is she yours?
+
+## POINTER 7
+<STR>(KAR)
+Oh, the...boat? Yes, it's 
+ours. It used to belong 
+to Miss Kaufman, but...
+
+## POINTER 8
+Sicily
+I was wondering...
+Is okay I upgrade it?
+
+## POINTER 9
+<STR>(YUR)
+You want to upgrade it...?
+
+## POINTER 10
+<STR>(KAR)
+N-no way! What if 
+you mess it up and 
+it stops working?
+
+## POINTER 11
+<STR>(RAV)
+Upgrade it, ya say... What do 
+ya wanna do to it, anyway?
+
+## POINTER 12
+Sicily
+There's just something I'd like 
+to put onto it, capisce?<PAGE>I won't do anything bad 
+to it! You have my word.
+
+## POINTER 13
+<STR>(YUR)
+You think we're just going 
+to let you do who-knows-what 
+to our ship...?
+
+## POINTER 14
+<STR>(RAV)
+......<PAGE>Hey, <STR>(YUR). Ya think we 
+might just let 'im do it 
+and see what happens?
+
+## POINTER 15
+<STR>(YUR)
+...Do you know something 
+I don't, old man?
+
+## POINTER 16
+<STR>(RAV)
+Mmmm... Nah, not really. 
+Jus' thought we might 
+give 'im a chance.
+
+## POINTER 17
+<STR>(YUR)
+...Okay.
+...Go ahead 
+and do it.<PAGE>But if it doesn't work when you're 
+through... We're going to tie you 
+to the hull and give you a paddle.
+
+## POINTER 18
+Sicily
+Sure! Okay! Grazie!<PAGE>Bene, bene, just wait 
+here a little bit!
+
+## POINTER 19
+Sicily
+Guarda! I have finished!
+
+## POINTER 20
+<STR>(EST_P)
+There's...something 
+attached to the ship...
+
+## POINTER 21
+<STR>(RAV)
+What did ya do?
+
+## POINTER 22
+Sicily
+I attached a salvage 
+arm for you!<PAGE>With this, you can collect 
+treasures in the sea!
+
+## POINTER 23
+<STR>(YUR)
+What do you 
+think, <STR>(RIT)?
+
+## POINTER 24
+<STR>(RIT)
+...It's been placed 
+very well.<PAGE>The weight distribution and 
+hull balance have been 
+taken into account, too...<PAGE>This is just too perfect...
+
+## POINTER 25
+Sicily
+I also adjusted the bottom, to 
+get you through shallows that 
+you could not traverse before.
+
+## POINTER 26
+<STR>(KAR)
+W-wow...
+
+## POINTER 27
+<STR>(RAV)
+Hey, how'd ya do all this?
+
+## POINTER 28
+Sicily
+Oh, I've just been interested 
+in le barche lately, is all.
+
+## POINTER 29
+<STR>(RAV)
+Wow, what a strange guy...
+
+## POINTER 30
+Sicily
+Well, see you! 
+Arrivederci!
+
+## POINTER 31
+
+W-was that Professor Sicily just now?
+
+## POINTER 32
+<STR>(RIT)
+Huh? You know 
+that guy?
+
+## POINTER 33
+
+Of course! They call 
+him the Shining Star 
+of Core Engineering!<PAGE>There's no one in the world 
+who's better at manipulating 
+blastia cores!
+
+## POINTER 34
+<STR>(EST_P)
+Wow, that's amazing.
+
+## POINTER 35
+<STR>(JUD)
+<STR>(RIT), you haven't heard of him?
+
+## POINTER 36
+<STR>(RIT)
+No, I haven't.<PAGE>Blastia research has many subfields. 
+I always researched how to use 
+blastia to produce magical effects.<PAGE>But some blastia engineers develop new
+applications for cores and their effects.
+That's a totally different area of research.
+
+## POINTER 37
+<STR>(KAR)
+Wow... Blastia engineers, eh? I'll bet 
+the architects' guild would love to 
+get their hands on someone like him.
+
+## POINTER 38
+
+That's right!<PAGE>The architects' guild is working 
+frantically to find Professor 
+Sicily and get his help!
+
+## POINTER 39
+<STR>(YUR)
+This sounds like information Kaufman 
+would be interested in...
+
+## POINTER 40
+
+But they say that he's rather eccentric, 
+and he only works on projects that 
+interest him at the time...
+
+## POINTER 41
+<STR>(RAV)
+That sounds about right...
+
+## POINTER 42
+<STR>(YUR)
+Ha ha. Let's go see just 
+how useful that professor's 
+eccentricity can be.
+
+## POINTER 43
+<STR>(KAR)
+Yeah! Let's see what that 
+salvage arm can do!
+
+## POINTER 44
+Information
+A crane has been added
+to the Fiertia. Lower the
+arm near specific search
+points to uncover hidden
+items or Gald. You might
+even discover some
+other items.
+
+## POINTER 45
+Information
+In addition, the ship has
+been reinforced and now
+you are able to travel
+through shallow streams
+you were unable to reach
+before.

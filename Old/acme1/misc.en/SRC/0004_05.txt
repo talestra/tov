@@ -1,0 +1,313 @@
+## POINTER 616
+Luna Rondo
+
+## POINTER 617
+Arcane Arte: Spin and slash enemies within
+range. Executable only in midair.
+
+## POINTER 618
+Rising Moonlight Havoc
+
+## POINTER 619
+Altered Arte: Toss the enemy in the air,
+then do a combination of slashes and kicks.
+
+## POINTER 620
+Moonbeam
+
+## POINTER 621
+Arcane Arte: Teleport above the enemy,
+then strike down with your lance.
+
+## POINTER 622
+Luna Crush
+
+## POINTER 623
+Arcane Arte: Jump and strike down your
+lance with all your might.
+
+## POINTER 624
+Thunder Moon Rising
+
+## POINTER 625
+Arcane Arte: A combination of Luna Rise and
+Thunder Moon.
+
+## POINTER 626
+Luna Havoc
+
+## POINTER 627
+Arcane Arte: Jump high in the air and send
+a flying kick to the enemy.
+
+## POINTER 628
+Sundering Moon
+
+## POINTER 629
+Arcane Arte: Bring down your lance with a
+force that can bring down the moon.
+
+## POINTER 630
+Moon Glare
+
+## POINTER 631
+Arcane Arte: Swing and slash your lance in
+the image of the moon.
+
+## POINTER 632
+Luna Talon
+
+## POINTER 633
+Altered Arte: Jump in the air and land with
+a force to take down surrounding enemies.
+
+## POINTER 634
+Moonlight Drop
+
+## POINTER 635
+Altered Arte: Spin and slash in midair.
+
+## POINTER 636
+Raging Luna Storm
+
+## POINTER 637
+Altered Arte: Cause a whirlwind to slash nearby
+enemies, then send it to attack a far away enemy
+
+## POINTER 638
+Rising Luna Rondo
+
+## POINTER 639
+Altered Arte: Spin and slash enemies within
+range, then send them flying with the final blow.
+
+## POINTER 640
+Thunder Moon
+
+## POINTER 641
+Altered Arte: Spin into the air and bring down
+a bolt of lightning on the enemy.
+
+## POINTER 642
+Luna Storm
+
+## POINTER 643
+Altered Arte: Jump quickly into the air and
+kick back down at lightning speed.
+
+## POINTER 644
+Ashen Moonlight
+
+## POINTER 645
+Burst Arte: Seal enemies in a ball of light,
+then cause it to explode in midair.
+
+## POINTER 646
+Conflagration Blast
+
+## POINTER 648
+Crushing Grave
+
+## POINTER 650
+Quasi Seal
+
+## POINTER 652
+Midnight Flood
+
+## POINTER 654
+Radiant Moonlight
+
+## POINTER 656
+Touchdown
+
+## POINTER 658
+Regular Attack - ○
+
+## POINTER 660
+Regular Attack - ↑○
+
+## POINTER 662
+Regular Attack - ←→○
+
+## POINTER 664
+Regular Attack - ↓○
+
+## POINTER 666
+Regular Attack - Jumping - ○
+
+## POINTER 668
+Regular Attack - Jumping - ↓○
+
+## POINTER 670
+Regular Secondary Attack - ○
+
+## POINTER 672
+Regular Secondary Attack - ↑○
+
+## POINTER 674
+Regular Secondary Attack - ←→○
+
+## POINTER 676
+Regular Secondary Attack - ↓○
+
+## POINTER 678
+Regular Secondary Attack - Jumping - ○
+
+## POINTER 680
+Regular Secondary Attack - Jumping - ↓○
+
+## POINTER 682
+Free Run Attack
+
+## POINTER 684
+Indigo Fatal Strike
+
+## POINTER 686
+Crimson Fatal Strike
+
+## POINTER 688
+Viridian Fatal Strike
+
+## POINTER 690
+Sonic Dog
+
+## POINTER 691
+Base Arte: Send a series of sonic waves
+toward the enemies.
+
+## POINTER 692
+Crescent Fang
+
+## POINTER 693
+Base Arte: Attack with an uppercut spin.
+
+## POINTER 694
+Punishing Fang
+
+## POINTER 695
+Base Arte: Spin sideways and slash at enemies
+with a small knife.
+
+## POINTER 696
+Thievery
+
+## POINTER 697
+Base Arte: Steal an item from an enemy.
+
+## POINTER 698
+Falling Leaf
+
+## POINTER 699
+Base Arte: Get behind an enemy. This attack
+does not inflict damage on the enemy.
+
+## POINTER 700
+Shadow Fang
+
+## POINTER 701
+Base Arte: Slash at an enemy repeatedly
+with a small knife.
+
+## POINTER 702
+Demon Dog
+
+## POINTER 703
+Base Arte: Send a sonic wave with your blade.
+
+## POINTER 704
+Gale Dog
+
+## POINTER 705
+Base Arte: Distract enemies with a gush of wind.
+Temporarily blocks enemy attacks.
+
+## POINTER 706
+Shining Dog
+
+## POINTER 707
+Base Arte: Spin to send a small cyclone
+towards the enemy.
+
+## POINTER 708
+Sonic Return
+
+## POINTER 709
+Arcane Arte: Charge at the enemy at sonic
+speed, then quickly jump back.
+
+## POINTER 710
+Light Spear
+
+## POINTER 711
+Arcane Arte: Spin and slash up into the air.
+
+## POINTER 712
+Shadow Fang Punishment
+
+## POINTER 713
+Arcane Arte: A combination of Shadow Fang
+and Punishing Fang.
+
+## POINTER 714
+Phantom Fang
+
+## POINTER 715
+Arcane Arte: Spiral dive at the enemy that
+touches your force field while lying down.
+
+## POINTER 716
+Hell Hound
+
+## POINTER 717
+Arcane Arte: Throw a fireball at an enemy
+from mid-air.
+
+## POINTER 718
+Demon Spear
+
+## POINTER 719
+Arcane Arte: A combination of Demon Dog
+and Light Spear.
+
+## POINTER 720
+Cyclone Shot
+
+## POINTER 721
+Arcane Arte: Spin in the air to send enemies flying.
+
+## POINTER 722
+Hell Hound Return
+
+## POINTER 723
+Arcane Arte: A combination of Sonic Return
+and Hell Hound.
+
+## POINTER 724
+Shining Fang
+
+## POINTER 725
+Arcane Arte: Continuously spin and attack in midair.
+
+## POINTER 726
+Ghost Wolf
+
+## POINTER 727
+Arcane Arte: Charge at full speed to leave
+enemies spinning.
+
+## POINTER 728
+Lightning Dog
+
+## POINTER 729
+Altered Arte: Charge at the enemy as quick
+as lightning.
+
+## POINTER 730
+Demon Dog Rush
+
+## POINTER 731
+Altered Arte: Send a sonic wave and charge
+forward to slash at an enemy.
+
+## POINTER 732
+Sonic Fang

@@ -1,0 +1,74 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285465150]
+<STR>(KAR)
+¡Ugh! ¡Estoy hasta aquí de las trampas de las narices!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1283550924]
+<STR>(RIT)
+¡¿Cuántas veces caeremos hasta que estés contento?!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1283550775]
+<STR>(YUR)
+¡Es culpa de los puñeteros
+caminos por ser tan estrechos!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285465150]
+<STR>(KAR)
+O-Oye, que no me caigo aposta...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285465150]
+<STR>(JUD)
+Si no me equivoco, esta ha sido la tercera vez.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285465150]
+<STR>(KAR)
+Pero si eres tú quien lleva al grupo, <STR>(RIT).
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285465150]
+<STR>(RIT)
+Pues... eh... ¡Eso no tiene nada que ver! *Tos*
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285465150]
+<STR>(RIT)
+Ya no puedo más.
+Un segundín...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1283550775]
+<STR>(KAR)
+¿Qué haces?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1283550775]
+<STR>(RIT)
+Esto no nos pasaría si pudiésemos ver como
+Dios manda. Así que voy a hacer algo de luz.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285465150]
+<STR>(KAR)
+¿Qué?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1283550775]
+<STR>(RIT)
+Muy bien, ya está.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285465150]
+<STR>(KAR)
+Guau, qué rápido.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285465150]
+<STR>(YUR)
+¿Cómo te las has arreglado
+para hacer algo así?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1285465150]
+<STR>(RIT)
+¡La palabra «imposible» no está
+en mi diccionario! Le arranqué
+la página. Ale, arreando.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285465150]
+<STR>(JUD)
+Oh, cuánta luz.
+Ahora no deberíamos tener problemas.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1283550775]
+<STR>(YUR)
+Pues nada, vamos.

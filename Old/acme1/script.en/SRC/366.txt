@@ -1,0 +1,35 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS34_102)This is awful... Could 
+Nan have done this...?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS34_103)You all right?
+
+## POINTER 2
+
+<VOICE>(VS34_104)...Natz has...gone to defend 
+the coliseum...from the 
+Hunting Blades...<PAGE><VOICE>(VS34_105)Please... You gotta 
+help him...
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS34_106)W-wait, I'll...
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS34_107)If only we'd come sooner...
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS34_108)This is not the time for regrets.
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS34_109)We've got to go help that Natz guy...!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS34_110)Yeah. ...Which means going up.

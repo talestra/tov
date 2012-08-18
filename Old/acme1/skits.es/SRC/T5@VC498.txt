@@ -1,0 +1,89 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221327]
+La confesión del Libro del coleccionista
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221327]
+(EST_P)
+...
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221327]
+(RIT)
+...
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221327]
+(EST_P)
+...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182425]
+(RIT)
+Sí, con esto... yo diría que
+el Libro del coleccionista ya
+está terminado.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182425]
+(EST_P)
+¡¿E-En serio?! Entonces,
+¿vas a... comerte tus palabras?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182425]
+(RIT)
+C-Claro. Buen trabajo.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221327]
+(EST_P)
+Cómetelas.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182425]
+(RIT)
+Uuuh... *Ñam, ñam, ñam*
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182425]
+(EST_P)
+¡S-Sí, lo he conseguido!
+¡Mirad todos! ¡Mirad esto!
+
+## POINTER 10 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221327]
+(YUR)
+No hubieras sabido cuánto le faltaba
+si no fuera porque ya conocías la
+mayoría de los objetos que existen.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182425]
+(RIT)
+Ah, ¿te habías fijado? Bueno, había
+unos cuantos que no conocía al principio,
+como las apátheia o la Dein Nomos.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182425]
+(YUR)
+Claro que me había fijado.
+¿Por qué has hecho que (EST_P) 
+se tomara tantas molestias?
+
+## POINTER 13 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221327]
+(RIT)
+Bueno, s-sabía que tarde o temprano
+tendríamos que apuntar todo eso, pero...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182425]
+(RIT)
+N-No lo hice... eh... Ya sabes, porque
+no me apetecía tener que plasmar toda
+la información de mi cabeza en el papel...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182425]
+(RIT)
+¡E-En serio! ¡Solo era eso!... ¡¿Qué?!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182425]
+(YUR)
+Ella se ha criado entre libros...
+Supongo que le habrá venido bien
+trabajar sobre el campo.
+
+## POINTER 17 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221327]
+(RIT)
+...
+
+## POINTER 18 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221327]
+(YUR)
+...

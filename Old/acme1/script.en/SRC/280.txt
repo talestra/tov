@@ -1,0 +1,82 @@
+## POINTER 0
+<STR>(EST_P)
+...I'm just incorrigible...<PAGE>Whenever something or someone catches my eye, 
+I forget all about everything else...<PAGE>I really lose sight of 
+everything I was planning 
+on doing beforehand.
+
+## POINTER 1
+<STR>(YUR)
+Yep, that's about right.
+
+## POINTER 2
+<STR>(EST_P)
+I came to my senses after 
+<STR>(JUD) told me.<PAGE>Until now, I've been dragging 
+the rest of you around with me 
+like there's no tomorrow...
+
+## POINTER 3
+<STR>(YUR)
+Hey, it could be worse.<PAGE>If you were empress, one word from 
+you and the entire empire would 
+run off to do your bidding!
+
+## POINTER 4
+<STR>(EST_P)
+Yeah, hmmm...<PAGE>I kind of feel like coming with 
+you was the right choice.
+
+## POINTER 5
+<STR>(YUR)
+Oh yeah?
+
+## POINTER 6
+<STR>(EST_P)
+I've been able to see all 
+sorts of new things.<PAGE>I still don't know whether I'm going 
+to take the imperial throne, but...<PAGE>There are still so many 
+things left to learn about 
+in this world.
+
+## POINTER 7
+<STR>(YUR)
+And Phaeroh's one 
+of those things?
+
+## POINTER 8
+<STR>(EST_P)
+...It scares me to think about it, 
+but... I have to know who I am.<PAGE>I have to know what he meant 
+by saying I was the "insipid 
+poison of this world."
+
+## POINTER 9
+<STR>(YUR)
+It sounds like you've made up your mind.
+
+## POINTER 10
+<STR>(EST_P)
+<STR>(YUR)?
+
+## POINTER 11
+<STR>(YUR)
+Hmm?
+
+## POINTER 12
+<STR>(EST_P)
+I might end up trying 
+to order you guys 
+around again.<PAGE>Next time I do that, yell at me, would you?
+
+## POINTER 13
+<STR>(YUR)
+Heh, sure. It's not the sort of personality 
+trait that's easy to fix by yourself.<PAGE>Though there's another guy who's also a tough 
+nut to crack, so I think we'll let him be 
+the one we vent our frustration on.
+
+## POINTER 14
+<STR>(EST_P)
+Well, I'm going back to 
+the inn. I'll see you.

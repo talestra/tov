@@ -1,0 +1,69 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296168641]
+
+¡Vaya, es impresionante! ¡Has encontrado
+muchos tesoros raros! No habíamos
+tenido nunca a nadie con tanta suerte.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294245493]
+<STR>(JUD)
+¿Ah, sí? Solo había uno
+de cada, así que supuse
+que eran valiosos...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296168641]
+
+¡Desde luego! De todos
+los objetos que tenemos,
+esos eran muy especiales.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294245493]
+<STR>(YUR)
+Bueno, ha sido muy
+divertido. Y hemos
+conseguido muchas fichas.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294245493]
+<STR>(KAR)
+Sí, y además <STR>(JUD) 
+se lo ha pasado muy
+bien jugando.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1294245493]
+<STR>(JUD)
+Los juegos son tan simples
+y divertidos... Supongo
+que están hechos para mí.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296168641]
+
+Yo también te he estado observando.
+¡Pareces una jugadora nata!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294245493]
+<STR>(JUD)
+Oh, ¿por qué dices eso?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1294245667]
+
+Te estaba mirando cuando jugabas
+al póquer, y la expresión de
+tu cara no cambiaba nunca.<PAGE>¡Tienes muy
+buena cara
+de póquer!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294245667]
+<STR>(YUR)
+¿Creías que una pequeña
+mano de póquer podría
+perturbar a nuestra <STR>(JUD_P)?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296168641]
+<STR>(JUD)
+Je, je. ¿Eso que acabo de
+oír ha sido un cumplido?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1294245667]
+
+De verdad, estoy
+muy impresionado.<PAGE>¡Eres la mejor jugadora
+que ha pasado por aquí!

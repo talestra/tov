@@ -1,0 +1,154 @@
+## POINTER 0
+<STR>(EST_P)
+Master!
+
+## POINTER 1
+
+Princess...what are you doing 
+in a place like this?
+
+## POINTER 2
+<STR>(EST_P)
+...There's something I have 
+to talk to <STR>(FRE) about, so...
+
+## POINTER 3
+
+I heard about you slipping out of the castle.
+
+## POINTER 4
+<STR>(EST_P)
+Um, um, ummm...
+
+## POINTER 5
+<STR>(KAR)
+Who's this...?
+
+## POINTER 6
+
+I apologize for not having introduced myself 
+sooner. My name is Drake Dropwart.
+
+## POINTER 7
+<STR>(EST_P)
+He was the previous emperor's 
+swordmaster, and is 
+also my teacher.
+
+## POINTER 8
+<STR>(YUR)
+Ah...the knightly 
+patriot, Drake...
+
+## POINTER 9
+<STR>(KAR)
+The knightly patriot?
+
+## POINTER 10
+<STR>(EST_P)
+Master Drake has served 
+the empire with his sweat 
+and tears for decades.
+
+## POINTER 11
+<STR>(YUR)
+In the Imperial Knights, Drake 
+Dropwart is thought of as a model 
+for all knights to follow.
+
+## POINTER 12
+<STR>(EST_P)
+He's now an advisor to the 
+Imperial Knights, you know.
+
+## POINTER 13
+<STR>(KAR)
+Wow, really?
+
+## POINTER 14
+Drake
+I'm really an advisor in name only. 
+These days I'm pretty much retired.<PAGE>My only real duty of late is teaching 
+the Princess swordsmanship.
+
+## POINTER 15
+<STR>(EST_P)
+But didn't you come 
+here with the Commandant 
+as an advisor?
+
+## POINTER 16
+Drake
+Yes...I've heard everything 
+that's happened so far.<PAGE>How was it, setting foot into the 
+outside world for the first time?
+
+## POINTER 17
+<STR>(EST_P)
+Well, we've had a lot of bad things 
+happen to us, but all of it's 
+been a fantastic experience.
+
+## POINTER 18
+Drake
+A fantastic experience, 
+you say? I see...
+
+## POINTER 19
+<STR>(EST_P)
+...Ummm... Is something 
+wrong...?
+
+## POINTER 20
+Leblanc
+Mr. Drake, sir...!<PAGE>Wh-wh-wha...it's you...
+
+## POINTER 21
+Drake
+What do you want, Leblanc?
+
+## POINTER 22
+Leblanc
+Sir. His Excellency the Commandant 
+is calling for you, sir.
+
+## POINTER 23
+Drake
+All right.<PAGE>Well then, Princess, I must take 
+my leave. Try to avoid doing 
+anything too rash, won't you?
+
+## POINTER 24
+<STR>(EST_P)
+Yes, of course. Take care 
+of yourself, Master...
+
+## POINTER 25
+<STR>(YUR)
+I can't believe Drake Dropwart taught 
+<STR>(EST_P) how to fight with a sword...
+
+## POINTER 26
+<STR>(RIT)
+I'm surprised that a princess would know 
+how to use a sword at all, really.
+
+## POINTER 27
+<STR>(KAR)
+<STR>(EST_P), what made you learn 
+how to use a sword?
+
+## POINTER 28
+<STR>(EST_P)
+That's a good question... It might 
+take a while to tell the whole story. 
+The next time I get a chance...
+
+## POINTER 29
+<STR>(YUR)
+Yeah, I'd like to hear about it too, once 
+things have calmed down a little.
+
+## POINTER 30
+<STR>(EST_P)
+Sure!

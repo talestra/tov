@@ -1,0 +1,235 @@
+## POINTER 0
+
+Alas! Woe is me...
+When sorrows come, they 
+come not single spies, but in battalions...
+
+## POINTER 1
+<STR>(EST_P)
+Excuse me, is something the matter?
+
+## POINTER 2
+
+Oh? Why, you're...
+
+## POINTER 3
+<STR>(RIT)
+Hey, why are you looking at us like 
+that? You creep, learn some manners!
+
+## POINTER 4
+
+O-oh, pardon me, I apologize. I'm a member 
+of the actors' guild, Showtime.
+
+## POINTER 5
+<STR>(RAV)
+We never asked who ya were...
+
+## POINTER 6
+
+Ever since that strange monster appeared 
+in the sky, the other members have 
+stopped coming to perform...<PAGE>Please! Take their 
+place on stage!<PAGE>All of you are just the right height... I think 
+their costumes would fit perfectly on you.
+
+## POINTER 7
+<STR>(JUD)
+Oo, this sounds like fun!
+
+## POINTER 8
+
+At this rate, we'll lose all our credibility 
+and our guild will be through!<PAGE>Please! Help us! 
+I beg you!
+
+## POINTER 9
+<STR>(YUR)
+How could anyone turn down someone 
+in such obvious distress?<PAGE>But...I wonder if we can really pull it off..
+
+## POINTER 10
+
+Oh, you'll help! Okay, there are four parts to play, 
+so I'll need the young man, the pretty girl, the foul-mouthed 
+girl, and the boy to act in the play.<PAGE>The show will be starting soon, so please go and 
+change, and learn your lines as fast as you can!<PAGE>Men are this way! Women are that way!
+
+## POINTER 11
+<STR>(RIT)
+H-hey, quit your pushing!
+
+## POINTER 12
+<STR>(EST_P)
+So these are the costumes... 
+Wow, <STR>(RIT), yours 
+is so cute!
+
+## POINTER 13
+<STR>(RIT)
+Ugh! Do I really have to 
+wear this piece of trash?<PAGE>No way! I'm not doing it!<PAGE>Ngah, you can't make me wear that!!
+
+## POINTER 14
+<STR>(YUR)
+Man...no matter how you look at it, these 
+are some pretty butt-ugly clothes.
+
+## POINTER 15
+<STR>(KAR)
+At least you're better off than I am. They 
+even seem to fit your personality a bit...
+
+## POINTER 16
+<STR>(JUD)
+This is going to be great!
+
+## POINTER 17
+<STR>(RAV)
+Well, since it seems I blew the auditions 
+on this one, I might as well go an' 
+find me a seat in the audience.
+
+## POINTER 18
+<STR>(RAP)
+Woof!
+
+## POINTER 19
+Narrator
+After surmounting countless obstacles, 
+the heroine <STR>(EST_P) has finally infiltrated 
+the Dark Lord's castle.
+
+## POINTER 20
+Heroine
+Dark Lord <STR>(YUR)! I will 
+defeat you, and rescue 
+the princess!
+
+## POINTER 21
+<STR>(RAV)
+Oo, looks like she means business!
+
+## POINTER 22
+Princess
+H-heroine, s-save 
+meee!
+
+## POINTER 23
+Dark Lord
+Gah hah hah! What can 
+a measly human like you  
+hope to accomplish?!<PAGE>Today you will meet your  
+maker! Prepare yourself, 
+heroine <STR>(EST_P)!<PAGE><STR>(KAR), my minion! Get her!
+
+## POINTER 24
+Minion
+Filth like you is not worthy of crossing 
+swords with the Dark Lord!<PAGE>Take this! Yaa!
+
+## POINTER 25
+Princess
+H-heroine!
+
+## POINTER 26
+Heroine
+Now it's my turn!
+
+## POINTER 27
+Minion
+Waah, eeeek!
+
+## POINTER 28
+
+Oo, the action scenes are 
+great this time around!
+
+## POINTER 29
+Heroine
+And now for the fatal blow!
+
+## POINTER 30
+<STR>(RIT)
+What lame special effects!<PAGE>Time to spice things up a bit.
+
+## POINTER 31
+Minion
+Huh? Waah! What the 
+heck is this?!
+
+## POINTER 32
+Minion
+I'm done for...
+
+## POINTER 33
+
+Wow! The choreography is excellent! 
+That minion's acting was great, too.
+
+## POINTER 34
+<STR>(RAV)
+He wasn't actin'...
+
+## POINTER 35
+Princess
+Oh, heroine!
+
+## POINTER 36
+Heroine
+Prepare to die, Dark Lord!
+
+## POINTER 37
+Dark Lord
+You need to learn some humility, human!
+
+## POINTER 38
+Dark Lord
+You think that's enough to stop me?!
+
+## POINTER 39
+<STR>(EST_P)
+<STR>(YUR), let me beat you like 
+it says in the script!
+
+## POINTER 40
+<STR>(YUR)
+Nah, this way is more exciting. 
+Let's keep fighting a bit.
+
+## POINTER 41
+<STR>(EST_P)
+Oh, okay. Maybe that's even better.
+
+## POINTER 42
+
+Wow! This is great! Amazing!
+
+## POINTER 43
+Princess
+Heroine! Look out! A-and the 
+Dark Lord, too... I, agh!
+
+## POINTER 44
+
+Oh no, the princess suffered a direct hit!
+
+## POINTER 45
+<STR>(RIT)
+T-that wasn't 
+in the script!
+
+## POINTER 46
+<STR>(YUR)
+Perhaps our shenanigans have gone a bit too far.
+
+## POINTER 47
+<STR>(EST_P)
+...Why'd you have to hit me too...?
+
+## POINTER 48
+Narrator
+And thus, Princess <STR>(RIT) slayed 
+the Dark Lord herself, and restored 
+peace to the world.<PAGE>The end.

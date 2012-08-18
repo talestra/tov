@@ -1,0 +1,135 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+Chef Maravillas
+La cocina sale del corazón.
+No os fijéis tanto en los resultados.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+Chef Maravillas
+No puedo enseñarte nada más.<PAGE>Nos encontraremos de nuevo cuando hayas
+perfeccionado aún más tu arte en la cocina.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1294085630]
+<STR>(YUR)
+Por mí vale.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1294085630]
+Chef Maravillas
+Seguir la receta es esencial, pero
+experimentar nuevas posibilidades
+es incluso más importante.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1294085630]
+<STR>(EST_P)
+Sí, lo comprendo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+Chef Maravillas
+A tu sentido del gusto todavía le queda mucho
+por aprender. A medida que crezcas, verás que
+tus habilidades culinarias irán mejorando.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1294091254]
+<STR>(KAR)
+C-Como si fuera tan fácil...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+Chef Maravillas
+Tú... Ya debes saber qué te voy a decir, ¿verdad?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1294091254]
+<STR>(RIT)
+¿Qué quieres decir?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+Chef Maravillas
+¡Te será imposible dominar el fino arte de la cocina
+si no muestras un sincero amor hacia él!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+<STR>(RIT)
+Bah, ¿y a mí qué? Total, una vez en
+el estómago todo es la misma papilla.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+Chef Maravillas
+¡B-Blasfema!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+Chef Maravillas
+Tu estilo es fuerte y tenaz, como tu carácter.
+Pero dominar el arte culinario no es fácil.
+Todavía te queda mucho por aprender.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1294091254]
+<STR>(RAV)
+El arte culinario a mí me parece tó aburrío...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+Chef Maravillas
+Qué maestría... ¡Al fin,
+he aquí a la nueva
+Chef Maravillas!<PAGE>Ten, recibe este cuchillo.
+Te será de gran utilidad.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1294091254]
+<STR>(JUD)
+Gracias, pero paso.<PAGE>¿Me ves escondiéndome tras un disfraz
+de cactus o de helado gigante hasta
+que alguien tropezara conmigo? ¡Ji, ji!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+Chef Maravillas
+Ugh...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+Chef Maravillas
+¡Como iba diciendo!... El plato perfecto es el
+resultado de superar las más duras críticas.
+¡Solo entonces puede uno alcanzar la maestría!<PAGE>En otras palabras, la cocina no se basa solo
+en el esfuerzo de una persona, sino en el de
+varias. ¡Así pues, os otorgo estos títulos!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296165657]
+Chef Maravillas
+En cualquier caso, ha sido un gran torneo.
+¡Esperaré con ansia el día que nos volvamos a ver!<PAGE>¡Hasta la vista!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1294091254]
+<STR>(YUR)
+Perdona la espera, <STR>(RAP).
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1294091254]
+
+¡Guau, guau!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1295905638]
+<STR>(KAR)
+¡La batalla gastronómica ha sido muy diver!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1294091254]
+<STR>(EST_P)
+Sí. Y la cocina de <STR>(FRE)
+ha sido... sorprendente.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1295905638]
+<STR>(RIT)
+Ya ves. Con la buena pinta
+que tenía, y después...
+Una sorpresa muy desagradable.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1294091254]
+<STR>(YUR)
+¡Bienvenidos a mi mundo! ¡Y pensar que
+quería que fuera su catador personal!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1294091254]
+<STR>(JUD)
+¡Menos mal que a ti sí que se te da bien, <STR>(YUR)!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1294091254]
+<STR>(RAV)
+¡Pos sí, ni que lo digas!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1294091254]
+<STR>(KAR)
+Bueno, ¿nos vamos?

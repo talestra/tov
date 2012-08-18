@@ -1,0 +1,57 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1253829848]
+Un viaje inolvidable
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261869848]
+(KAR)
+La familia imperial y los gremios... 
+Puede que (EST_P) deje de estar
+de parte de ambos bandos.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261869848]
+(YUR)
+No sé qué pasará en el futuro.
+Si (EST_P) no cambia demasiado...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261869848]
+(EST_P)
+No creo que cambie mientras conserve
+los recuerdos que tengo ahora mismo.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191311]
+(EST_P)
+Pero me gustaría continuar este viaje
+con vosotros hasta el final...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140877]
+(YUR)
+No te preocupes. ¡Siempre puedo
+sacarte del castillo otra vez,
+como cuando nos conocimos!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191311]
+(KAR)
+¡Sí! ¡Y esta vez iré contigo
+para ayudarte con las cerraduras!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191311]
+(EST_P)
+Gracias a los dos.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191311]
+(EST_P)
+¡Pero los crímenes están muy mal!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261869848]
+(KAR)
+Bueno, pues entonces entraremos
+por la puerta como buenos ciudadanos,
+¿verdad, (YUR)?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191311]
+(YUR)
+Entrar por las puertas no es mi estilo.
+Tío... ¿de verdad tenemos que hacer eso?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267191311]
+(EST_P)
+¡Sí, por favor!

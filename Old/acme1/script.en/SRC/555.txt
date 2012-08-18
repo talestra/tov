@@ -1,0 +1,727 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS65_092)Duke...!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS65_093)Duke, we have the four elemental 
+spirits. Their power can 
+counter the Adephagos.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS65_094)There's no need to use people 
+to destroy the Adephagos!
+
+## POINTER 3
+Duke
+<VOICE>(VS65_095)Look at its size. Four spirits 
+are nothing against it.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS65_096)They're crucial. We'll make up the rest by 
+turning the blastia cores to spirits too.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS65_097)Every single core in the world!
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS65_098)And as a bonus, it'll put an 
+end to the blastia culture 
+that you hate so much.<PAGE><VOICE>(VS65_099)Not too shabby, huh?
+
+## POINTER 7
+Duke
+<VOICE>(VS65_100)...I doubt humans will hand 
+over their blastia quietly. 
+Or will you force them?
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS65_101)Can you not believe 
+that people can move 
+forward and change?
+
+## POINTER 9
+Duke
+<VOICE>(VS65_102)Humans will not let something 
+go once it is in their grasp.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS65_103)So you won't listen...<PAGE><VOICE>(VS65_104)We will destroy 
+the Adephagos 
+our own way.<PAGE><VOICE>(VS65_105)Please, wait just a little longer.
+
+## POINTER 11
+Duke
+<VOICE>(VS65_106)...And will the world return 
+to its former state?
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS65_107)Huh?
+
+## POINTER 13
+Duke
+<VOICE>(VS65_108)Will the aer be controlled 
+by the Entelexeia?<PAGE><VOICE>(VS65_109)Will all life return 
+to a time when 
+nature ruled?
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS65_110)No...
+
+## POINTER 15
+Duke
+<VOICE>(VS65_111)You are changing this world-our 
+Terca Lumireis-for what?<PAGE><VOICE>(VS65_112)For the convenience 
+of humans. Nothing 
+more.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS65_113)Can't you think that the 
+world might be growing?<PAGE><VOICE>(VS65_114)I think of the Entelexeia 
+becoming spirits as evolution. 
+Can't you see that?
+
+## POINTER 17
+Duke
+<VOICE>(VS65_115)...I would not presume to speak 
+on the choices of the Entelexeia.<PAGE><VOICE>(VS65_116)However, I also have my choices.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS65_117)So you won't listen 
+to us because 
+we're humans?
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS65_118)You say you can't trust people 
+so you just drop everything.<PAGE><VOICE>(VS65_119)Then when it's too late, you 
+try to wipe them out?!
+
+## POINTER 20
+Duke
+<VOICE>(VS65_120)...Do you know what 
+this tower is?<PAGE><VOICE>(VS65_121)Tarqaron was once a city, 
+but the ancients turned 
+it into a weapon.<PAGE><VOICE>(VS65_122)To destroy the Entelexeia!
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS65_123)！
+
+## POINTER 22
+Duke
+<VOICE>(VS65_124)To the ancients who did not recognize 
+the threat of the blastia...<PAGE><VOICE>(VS65_125)...the Entelexeia, who attacked the blastia, 
+were nothing more than a nuisance.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS65_126)And the aer went out of balance, 
+and the Adephagos appeared...
+
+## POINTER 24
+Duke
+<VOICE>(VS65_127)Only then did humans listen to 
+the words of the Entelexeia.<PAGE><VOICE>(VS65_128)Our world has seen many sacrifices. 
+Yet humans committed the same 
+offence. And they will again.<PAGE><VOICE>(VS65_129)Those who eat away and 
+ruin this world...<PAGE><VOICE>(VS65_130)Those who would change the world for 
+their own continued existence...<PAGE><VOICE>(VS65_131)They are apostles of destruction 
+greater than even the Adephagos.
+
+## POINTER 25
+Duke
+<VOICE>(VS65_132)I made a vow to my friend, that 
+I would protect this world.
+
+## POINTER 26
+<STR>(JUD)
+<VOICE>(VS65_133)Elucifur...
+
+## POINTER 27
+Duke
+<VOICE>(VS65_134)...So Khroma told you?
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS65_135)Yeah. She also told 
+us to stop you.
+
+## POINTER 29
+<STR>(EST_P)
+<VOICE>(VS65_136)She listened to 
+us, too, and became 
+a spirit.<PAGE><VOICE>(VS65_137)So please, we can do this together...
+
+## POINTER 30
+Duke
+<VOICE>(VS65_138)...Enough.<PAGE><VOICE>(VS65_139)If the Entelexeia would throw away their 
+mission, then I will take it up.<PAGE><VOICE>(VS65_140)I need not wait for your method. 
+Once I complete this formula, 
+the world will be saved.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS65_141)Duke... Stop!
+
+## POINTER 32
+Duke
+<VOICE>(VS65_142)As long as humans rule, they will commit 
+the same offence time and again.<PAGE><VOICE>(VS65_143)If that happens, their hearts 
+will grow wild, and the future 
+will be even more painful.
+
+## POINTER 33
+<STR>(EST_P)
+<VOICE>(VS65_144)Even if that happens, 
+it is the path we choose.<PAGE><VOICE>(VS65_145)Even if we are hurt or stopped, 
+we can still walk again as 
+long as we don't give up!
+
+## POINTER 34
+<STR>(RIT)
+<VOICE>(VS65_146)She's right.<PAGE><VOICE>(VS65_147)You'll never find anything 
+new if you're afraid of making 
+mistakes. Of failing.<PAGE><VOICE>(VS65_148)And unlike you, we 
+haven't chosen this 
+path on our own.<PAGE><VOICE>(VS65_149)Everyone decided on it.
+
+## POINTER 35
+<STR>(KAR)
+<VOICE>(VS65_150)Yeah! Going it alone 
+might be tough...<PAGE><VOICE>(VS65_151)...but we're not alone. If 
+one person can't do it, 
+then we do it together.<PAGE><VOICE>(VS65_152)I finally learned that we can 
+walk together like that!
+
+## POINTER 36
+Duke
+<VOICE>(VS65_153)That may be sufficient for those 
+who are connected to one another.<PAGE><VOICE>(VS65_154)However, there will always be some who 
+cannot accept a difficult future.<PAGE><VOICE>(VS65_155)You all surely 
+understand that.
+
+## POINTER 37
+<STR>(JUD)
+<VOICE>(VS65_156)It will be difficult, 
+but that is reality.<PAGE><VOICE>(VS65_157)But they will take what changes, 
+think, and change again. Both 
+the people and the world.<PAGE><VOICE>(VS65_158)So even if it takes tens, 
+hundreds of years...they 
+will listen someday.<PAGE><VOICE>(VS65_159)I know this now.<PAGE><VOICE>(VS65_160)That's what it 
+means to live.
+
+## POINTER 38
+<STR>(RAV)
+<VOICE>(VS65_161)Right. There are 
+things you have 
+to protect...<PAGE><VOICE>(VS65_162)But this old man wants to see what lies 
+ahead for people in the next era.<PAGE><VOICE>(VS65_163)See how the fools change. 
+For those who can't 
+see them anymore.
+
+## POINTER 39
+Duke
+<VOICE>(VS65_164)We are in contradiction...<PAGE><VOICE>(VS65_165)...However our feelings 
+for the world are no 
+different. How odd.
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS65_166)No, it's not.<PAGE><VOICE>(VS65_167)The future we chose...what 
+we see for the future...is 
+different.
+
+## POINTER 41
+Duke
+<VOICE>(VS65_168)The future must be protected. If it 
+is not, then destruction awaits.
+
+## POINTER 42
+<STR>(YUR)
+<VOICE>(VS65_169)We make the future. You trust the 
+path you choose and create it.
+
+## POINTER 43
+Duke
+<VOICE>(VS65_170)...It is inevitable.<PAGE><VOICE>(VS65_171)Come!
+
+## POINTER 44
+Duke
+<VOICE>(VA000_018)Child of the Full Moon... Why 
+would you stand in my way?
+
+## POINTER 45
+<STR>(EST_P)
+<VOICE>(VA000_019)A thousand years ago... 
+My ancestors gave their 
+lives to protect this world.<PAGE><VOICE>(VA000_020)I want to carry on 
+their bravery...!
+
+## POINTER 46
+Duke
+<VOICE>(VA000_021)You must understand by now. The 
+Children of the Full Moon are not 
+suited to living in this world.<PAGE><VOICE>(VA000_022)It is your duty, then, to 
+die here as your ancestors 
+did, with courage.
+
+## POINTER 47
+<STR>(EST_P)
+<VOICE>(VA000_023)They weren't brave just because 
+they chose to die.<PAGE><VOICE>(VA000_024)Their courage came from 
+refusing to give up hope, and 
+their pride in defending this world.
+
+## POINTER 48
+Duke
+<VOICE>(VA000_025)...Words are 
+cheap.
+
+## POINTER 49
+<STR>(EST_P)
+<VOICE>(VA000_026)Which is why I've come to 
+prove myself through my actions.
+
+## POINTER 50
+Duke
+<VOICE>(VA000_027)The time has come, then, 
+to show me that pride...<PAGE><VOICE>(VA000_028)Try to defeat me! Come!
+
+## POINTER 51
+Duke
+<VOICE>(VA000_041)Humans prey upon this world. 
+You cannot protect both.
+
+## POINTER 52
+<STR>(KAR)
+<VOICE>(VA000_042)Things are different now! 
+The world can change! That's 
+what the spirit conversion is for!
+
+## POINTER 53
+Duke
+<VOICE>(VA000_043)The world may change, 
+but its people will not.<PAGE><VOICE>(VA000_044)I cannot allow the world to 
+change simply because humans 
+will not change themselves.
+
+## POINTER 54
+<STR>(KAR)
+<VOICE>(VA000_045)People can change!
+
+## POINTER 55
+Duke
+<VOICE>(VA000_046)...We may feel the same 
+toward this world, but we 
+will never see eye to eye.
+
+## POINTER 56
+Duke
+<VOICE>(VA000_047)...You leave me no choice.<PAGE><VOICE>(VA000_048)Come!
+
+## POINTER 57
+Duke
+<VOICE>(VA000_058)Young mage... Can you 
+truly stand by while all 
+this world's blastia are lost...?
+
+## POINTER 58
+<STR>(RIT)
+<VOICE>(VA000_059)I don't care. My conviction 
+is what mattered. 
+My faith in blastia...<PAGE><VOICE>(VA000_060)...Actually, it was more like love.
+
+## POINTER 59
+Duke
+<VOICE>(VA000_061)In the end, though, 
+they were not worth 
+risking your life to save.
+
+## POINTER 60
+<STR>(RIT)
+<VOICE>(VA000_062)What are you, stupid? 
+It's not about "risking my life."<PAGE><VOICE>(VA000_063)Even without blastia, there 
+are plenty of things in 
+this world worth loving.
+
+## POINTER 61
+Duke
+<VOICE>(VA000_064)Abandoning the old for 
+the convenience of the new...
+Perhaps that would work...
+
+## POINTER 62
+Duke
+<VOICE>(VA000_065)But I for one will risk my life.<PAGE><VOICE>(VA000_066)Though I must endure the scorn 
+of youth, I will risk my 
+life to protect this world!
+
+## POINTER 63
+Duke
+<VOICE>(VA000_099)And so we must face each other...<PAGE><VOICE>(VA000_100)...Yet our feelings 
+for this world are no 
+different. How odd.
+
+## POINTER 64
+<STR>(RAV)
+<VOICE>(VA000_101)I don't get it either. How could 
+anybody wipe out a world with 
+so many gorgeous ladies?
+
+## POINTER 65
+Duke
+<VOICE>(VA000_102)You still insist on playing a fool...
+
+## POINTER 66
+<STR>(RAV)
+<VOICE>(VA000_103)Oh absolutely! I will fool around 
+as long as this mud ball and 
+its pretty ladies need savin'.<PAGE><VOICE>(VA000_104)...I'm gonna put my foot down 
+this time. Since I got my heart 
+set on livin', and all.
+
+## POINTER 67
+Duke
+<VOICE>(VA000_105)...Utter nonsense.<PAGE><VOICE>(VA000_106)Come!
+
+## POINTER 68
+<STR>(JUD)
+<VOICE>(VA000_080)I just don't get it.<PAGE><VOICE>(VA000_081)We started from 
+the same place...
+
+## POINTER 69
+Duke
+<VOICE>(VA000_082)...I do not understand it, either. 
+One would think we would also 
+strive for the same future.
+
+## POINTER 70
+Duke
+<VOICE>(VA000_083)Why are you...?
+
+## POINTER 71
+<STR>(JUD)
+<VOICE>(VA000_084)Why must we fight...?
+
+## POINTER 72
+Duke
+<VOICE>(VA000_085)…………
+
+## POINTER 73
+<STR>(JUD)
+<VOICE>(VA000_086)So...<PAGE><VOICE>(VA000_087)You don't even see yourself 
+in the future you envision...
+
+## POINTER 74
+Duke
+<VOICE>(VA000_088)...My existence, as well, may 
+one day bring ruin to this world.
+
+## POINTER 75
+<STR>(JUD)
+<VOICE>(VA000_089)How nice of you to 
+sacrifice yourself.
+
+## POINTER 76
+Duke
+<VOICE>(VA000_090)...Enough. Come!
+
+## POINTER 77
+<STR>(RAP)
+<VOICE>(VA000_115)Woof...!
+
+## POINTER 78
+Duke
+<VOICE>(VA000_116)...Even as a dog, you 
+would defend this world?<PAGE><VOICE>(VA000_117)Such valor and wisdom 
+deserve praise.
+
+## POINTER 79
+<STR>(RAP)
+<VOICE>(VA000_118)…………
+
+## POINTER 80
+Duke
+<VOICE>(VA000_119)However, be that as it may, 
+your choice is one of folly.<PAGE><VOICE>(VA000_120)In the world I would create, 
+you would go on living. Still, 
+you would risk your life to stop me?
+
+## POINTER 81
+<STR>(RAP)
+<VOICE>(VA000_121)Woof!
+
+## POINTER 82
+Duke
+<VOICE>(VA000_122)I would not wish for your 
+death... But if you stand in my 
+way I will have no choice...
+
+## POINTER 83
+Duke
+<VOICE>(VA000_123)Come!
+
+## POINTER 84
+Duke
+<VOICE>(VS65_172)Now I know what Phaeroh 
+saw in you...
+
+## POINTER 85
+<STR>(YUR)
+<VOICE>(VS65_173)You're pretty strong yourself.
+
+## POINTER 86
+Duke
+<VOICE>(VS65_174)Humph. How unfortunate. I wish 
+I could walk together with 
+you all a while longer.<PAGE><VOICE>(VS65_175)Perhaps we would have had a different encounter...
+
+## POINTER 87
+<STR>(YUR)
+<VOICE>(VS65_176)It's not too late.
+
+## POINTER 88
+Duke
+<VOICE>(VS65_177)It is. My path was 
+set when the Adephagos 
+covered the sky.
+
+## POINTER 89
+<STR>(YUR)
+<VOICE>(VS65_178)You stubborn bastard!
+
+## POINTER 90
+Duke
+<VOICE>(VS65_179)The best path for an 
+enduring world is to return 
+it to its natural state.<PAGE><VOICE>(VS65_180)That is the path I chose! I 
+will die for that. My friend...give 
+me your strength!
+
+## POINTER 91
+Duke
+<VOICE>(VA000_029)...So this is your pride... 
+The bravery of which you spoke...<PAGE><VOICE>(VA000_030)However, the past Children of 
+the Full Moon saw in their 
+deaths, humanity's final hope...<PAGE><VOICE>(VA000_031)Are you prepared to die for 
+your cause, as they did?
+
+## POINTER 92
+<STR>(EST_P)
+<VOICE>(VA000_032)I won't die. I will live, 
+and walk this new world 
+together with all people.<PAGE><VOICE>(VA000_033)Even with 
+you.<PAGE><VOICE>(VA000_034)You aren't the enemy 
+we should be fighting.
+
+## POINTER 93
+Duke
+<VOICE>(VA000_035)A future for everyone, together...
+That would be good....
+
+## POINTER 94
+<STR>(EST_P)
+<VOICE>(VA000_036)Then...
+
+## POINTER 95
+Duke
+<VOICE>(VA000_037)No, it is too late. 
+My path was set when the 
+Adephagos covered the sky.
+
+## POINTER 96
+<STR>(EST_P)
+<VOICE>(VA000_038)But...!
+
+## POINTER 97
+Duke
+<VOICE>(VA000_039)The best path for an 
+enduring world is to return 
+it to its natural state.<PAGE><VOICE>(VA000_040)That is the path I chose! 
+I will die for that. 
+My friend...grant me your strength!
+
+## POINTER 98
+Duke
+<VOICE>(VA000_049)Now I know what Phaeroh 
+saw in you...
+
+## POINTER 99
+<STR>(KAR)
+<VOICE>(VA000_050)You'll never beat us...!
+
+## POINTER 100
+Duke
+<VOICE>(VA000_051)Humph. How unfortunate. I wish 
+our paths had crossed earlier.<PAGE><VOICE>(VA000_052)Perhaps we would have met now 
+under different circumstances.
+
+## POINTER 101
+<STR>(KAR)
+<VOICE>(VA000_053)Would you have 
+agreed with the way 
+we did things?
+
+## POINTER 102
+Duke
+<VOICE>(VA000_054)...No, it could never have 
+worked. We have walked different 
+paths from the very start.
+
+## POINTER 103
+<STR>(KAR)
+<VOICE>(VA000_055)Then, I guess we 
+have to fight...
+
+## POINTER 104
+Duke
+<VOICE>(VA000_056)The best path for an 
+enduring world is to return 
+it to its natural state.<PAGE><VOICE>(VA000_057)That is the path I chose! 
+I will die for that. 
+My friend...grant me your strength!
+
+## POINTER 105
+<STR>(RIT)
+<VOICE>(VA000_067)You're just feeling sorry for 
+yourself because you can't change. 
+...Humph. Pathetic.
+
+## POINTER 106
+Duke
+<VOICE>(VA000_068)...Say what you will. 
+I will walk my own path...
+
+## POINTER 107
+<STR>(RIT)
+<VOICE>(VA000_069)I probably would've 
+said the same thing when 
+I was still in Aspio.
+
+## POINTER 108
+Duke
+<VOICE>(VA000_070)I have no intention of 
+betraying who I was.
+
+## POINTER 109
+<STR>(RIT)
+<VOICE>(VA000_071)I'm not ashamed of 
+who I was, either.<PAGE><VOICE>(VA000_072)I am the person I am now 
+precisely because of who I was.<PAGE><VOICE>(VA000_073)We don't just change. We 
+continue on from that point.
+
+## POINTER 110
+Duke
+<VOICE>(VA000_074)Such wishful thinking...
+
+## POINTER 111
+<STR>(RIT)
+<VOICE>(VA000_075)Humph. Call it whatever you want.<PAGE><VOICE>(VA000_076)So? Are you gonna 
+give up, or not?
+
+## POINTER 112
+Duke
+<VOICE>(VA000_077)I will press on with my 
+own path for as long 
+as I have strength.
+
+## POINTER 113
+<STR>(RIT)
+<VOICE>(VA000_078)Too bad...
+
+## POINTER 114
+Duke
+<VOICE>(VA000_079)I have no regrets. 
+I will die for that end. 
+My friend...grant me your strength!
+
+## POINTER 115
+Duke
+<VOICE>(VA000_107)Now I know what 
+Phaeroh saw in you...
+
+## POINTER 116
+<STR>(RAV)
+<VOICE>(VA000_108)The mighty hero of the Great 
+War's gotten rusty if he's losin' 
+ta li'l ol' me.
+
+## POINTER 117
+Duke
+<VOICE>(VA000_109)Our paths have parted ways...
+in the ten years since that war.
+
+## POINTER 118
+<STR>(RAV)
+<VOICE>(VA000_110)Those different paths 
+aren't yours or mine.<PAGE><VOICE>(VA000_111)There's just the path you should 
+follow, and the path you shouldn't.
+
+## POINTER 119
+Duke
+<VOICE>(VA000_112)...There has only ever 
+been one path for me...<PAGE><VOICE>(VA000_113)I must keep my promise to 
+Elucifur... And so I will return 
+this world to its natural state.<PAGE><VOICE>(VA000_114)I would die to fulfill 
+my promise. My friend...grant 
+me your strength!
+
+## POINTER 120
+Duke
+<VOICE>(VA000_091)Now I know what 
+Phaeroh saw in you...
+
+## POINTER 121
+<STR>(JUD)
+<VOICE>(VA000_092)...You're pretty strong yourself.<PAGE><VOICE>(VA000_093)How can someone 
+be so strong...<PAGE><VOICE>(VA000_094)...Even when they've decided to 
+give up their life for the world...
+
+## POINTER 122
+Duke
+<VOICE>(VA000_095)My feelings for this world give me strength.
+
+## POINTER 123
+<STR>(JUD)
+<VOICE>(VA000_096)You actually want to live. 
+You want to keep those 
+feelings alive.
+
+## POINTER 124
+Duke
+<VOICE>(VA000_097)Heh heh. I also promised a 
+fallen friend to return this 
+world to its natural state.<PAGE><VOICE>(VA000_098)And I would die to fulfill 
+my promise. My friend...grant 
+me your strength!
+
+## POINTER 125
+<STR>(RAP)
+<VOICE>(VA000_124)*Two barks*
+
+## POINTER 126
+Duke
+<VOICE>(VA000_125)...I had not expected such fortitude 
+in the face of my full power...<PAGE><VOICE>(VA000_126)Oh, if you were human...what 
+power you would have had...
+
+## POINTER 127
+<STR>(RAP)
+<VOICE>(VA000_127)*Two barks*
+
+## POINTER 128
+Duke
+<VOICE>(VA000_128)But I will show you far 
+greater power. I am sorry 
+for what I must do...<PAGE><VOICE>(VA000_129)Now, my friend...grant me your strength!!

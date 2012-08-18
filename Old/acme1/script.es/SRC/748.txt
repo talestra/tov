@@ -1,0 +1,525 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+Por esa mirada que tienes imagino
+que has traído los cinco libros.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294598487]
+<STR>(RIT)
+¡Sí, aquí los tengo!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+¡Muy bien! Entonces, ¿nos dejamos de rodeos
+y empezamos el examen escrito?<PAGE>Puede que te haga falta recurrir
+a los libros que has traído para
+responder a algunas preguntas.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(KAR)
+¿Cómo va a ser difícil aprobar
+un examen cuando puedes mirar
+las respuestas en los libros?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(YUR)
+Pues quizá deberías hacerlo tú también.
+Quién sabe, a lo mejor apruebas y todo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+¡Los de ahí!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1293216857]
+<STR>(KAR)
+Ah, ah, perdón...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+¿Cómo? ¿Quieres hacer el examen?
+El doctorado Miska es muy difícil.
+¡Deberías intentar el certificado de Nam!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(KAR)
+¿E-El certificado de Nam?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+Sí. Es una prueba para niños de
+más o menos diez años. ¡Es una de
+las atracciones más populares!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1293217835]
+<STR>(RAV)
+Uy, ¿no te da miedo suspender?
+Un test así podría ser chungo
+pa un crío como tú.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(KAR)
+¡No me insultes! ¡Ya tengo doce años!
+¡Soy dos años mayor que el nivel del examen!
+¡Debería ser pan comido para mí!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+Si eso has decidido, entonces preparaos
+los dos para hacer el examen.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RIT)
+No me distraigas,
+¿vale? Que esto
+no es un juego.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(KAR)
+Sí, lo sé.
+¡Mi orgullo también
+está en juego!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+Perfecto, vamos allá.
+¡Que empiece el examen!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Certificado de Nam: pregunta nº1
+¿Cuándo salió «Tales of Eternia»
+en Europa?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Selecciona
+1. Septiembre de 2001
+2. Diciembre de 2005
+3. Febrero de 2006
+4. Agosto de 2003
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(KAR)
+Agh, ¿me he equivocado?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Certificado de Nam: pregunta nº24
+En «Tales of Symphonia»,
+¿quién del grupo cocina peor?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+Selecciona
+1. Raine Sage
+2. Sheena Fujibayashi
+3. Lloyd Irving
+4. Zelos Wilder
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(KAR)
+Oh, así que
+era la otra...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Certificado de Nam: pregunta nº52
+¿Cómo se llama la hermana de Zelos,
+de «Tales of Symphonia»?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+Selecciona
+1. Tear
+2. Norma
+3. Alice
+4. Seles
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(KAR)
+Agh, no sé cuál es...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Certificado de Nam: pregunta nº81
+¿Cuál de los siguientes personajes
+NO aparece en «Tales of
+The World: Radiant Mythology»?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+Selecciona
+1. Arche Klein
+2. Stan Aileron
+3. Presea Combatir 
+4. Eugene Gallardo
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(KAR)
+C-Creo que esto es más chungo
+de lo que me imaginaba...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Certificado de Nam: pregunta nº100
+¿Quién es el verdadero padre
+de Lloyd, de «Tales of Symphonia»?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+Selecciona
+1. Kratos Aurion
+2. Zelos Wilder
+3. Regal Bryant
+4. Dirk
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(KAR)
+¡Agggh! Esto
+es chunguísimo...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+Miska
+¡Se acabó el tiempo!
+Bien hecho. Ahora corregiré
+vuestros exámenes.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(EST_P)
+¿Qué tal te ha ido, <STR>(RIT)?
+¿Crees que aprobarás?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RIT)
+Mmm... Era bastante difícil,
+incluso para mí.<PAGE>Pero creo que lo he hecho bastante bien.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(YUR)
+Esa sí que es la <STR>(RIT) que conozco.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(RAV)
+¿Y tú qué, chaval?
+¿Cómo t'ha ío?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(KAR)
+Creo que he aprobado.
+Tengo un buen presentimiento.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(JUD)
+Pareces bastante confiado.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(KAR)
+Je, je. Supongo.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+¡Perdonad la tardanza! ¡Ya tengo
+los resultados de los exámenes!
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+Primero la señorita <STR>(RIT) Mordio. 
+De 800 puntos, tienes...<PAGE>¡800 puntos!
+¡Has sacado la máxima
+nota posible!
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(EST_P)
+¡Vaya, <STR>(RIT)! ¡Eres increíble!
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RAV)
+Cuando quieres, puedes, chavalilla.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RIT)
+La verdad es que me quito un peso de encima.
+Solo una persona había aprobado
+este examen antes que yo.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(JUD)
+¡Entonces eres la segunda
+del mundo que lo consigue, <STR>(RIT)!
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(KAR)
+¡Chicos!
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(KAR)
+¡Aún no sé qué he sacado!
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+Miska
+Después tenemos a <STR>(KAR) Capel. 
+De 100 puntos tienes...<PAGE>¡82 puntos!
+¡Por poco
+no apruebas!
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:Lia;time:1293384607]
+<STR>(KAR)
+¡Toma ya! ¡¡Toma ya!!
+¡Síííííí! ¡He aprobado!
+¡He aprobado!
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:Lia;time:1293308110]
+<STR>(KAR)
+¿Eh? ¿Por qué soy el único
+que lo celebra?
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RAV)
+Bueno, son preguntas pa críos
+de diez años. Que un niño de doce
+apruebe como que no impresiona mucho.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RIT)
+Hubiese dado vergüenza ajena
+que hubieses suspendido.
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:Lia;time:1293309574]
+<STR>(KAR)
+V-Venga, va...
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:Lia;time:1293386308]
+Miska
+¡Y ahora les concederé los títulos
+correspondientes a cada estudiante!
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:Lia;time:1293386308]
+<STR>(YUR)
+Mírala...
+Pero qué...
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+Solo los que han recibido el
+honorario doctorado Miska
+pueden llevar este traje especial.
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(YUR)
+Claro, cómo no...
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(EST_P)
+¿Qué ocurre?
+¿No estás contenta, <STR>(RIT)?
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RIT)
+Uh... S-Sí, claro.
+Contentísima...
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RAV)
+¡Estás llorando como una Magdalena!
+¡Abrumada por la emoción!
+¡Lágrimas d'alegría más salás qu'el mar!
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:Lia;time:1293385338]
+<STR>(RIT)
+¡De-deja de decir sandeces! ¡Lo que pasa
+es que me ha entrado algo en el ojo!
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:Lia;time:1293385338]
+<STR>(JUD)
+Je, je. Claaaaro, <STR>(RIT).
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:Lia;time:1293385338]
+Miska
+Y también tenemos
+un título para
+<STR>(KAR).
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:Lia;time:1293385338]
+<STR>(KAR)
+¿Pa-para mí?
+¡¿De verdad?!
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:kaene;time:1295173363]
+Información
+<STR>(KAR) ha obtenido el título
+de «Profesor mozalbete».
+
+## POINTER 65 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(KAR)
+¡M-Mozalbete! ¡Creía que había
+conseguido el certificado de Nam!
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+El certificado de Nam consiste en varios
+niveles, y tú estás en el más bajo.
+Si sacas mejor nota, subirás de rango.
+
+## POINTER 67 [t:1;r:1;ru:memnoch;user:Lia;time:1293387798]
+<STR>(RAV)
+¡Cielo santo! ¡Profesor mozalbete!
+Sí señor, un título de lo más apropiao.
+
+## POINTER 68 [t:1;r:1;ru:memnoch;user:Lia;time:1293387798]
+<STR>(RIT)
+Un gran título... para un crío de diez años.
+
+## POINTER 69 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(KAR)
+Oh, no... ¡Oh, no! Agh, ¡no lo quiero!
+¡No puedo tener un título así!
+¡Te lo puedes quedar!
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:kaene;time:1295173357]
+Información
+<STR>(KAR) ha rechazado educadamente
+el título de «Profesor mozalbete».
+
+## POINTER 71 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+Yo creo que es un título genial...<PAGE>En fin. Señorita <STR>(RIT) Mordio, 
+felicidades.
+
+## POINTER 72 [t:1;r:1;ru:memnoch;user:Lia;time:1293387798]
+<STR>(RIT)
+Ah, sí. Gracias.
+
+## POINTER 73 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+Sigue con tu investigación
+y no mancilles el honor de lo
+que has conseguido hoy. ∀
+
+## POINTER 74 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RIT)
+Déjamelo a mí. ¡Esta
+maga prodigio acaba
+de empezar a deslumbrar!
+
+## POINTER 75 [t:1;r:1;ru:memnoch;user:Lia;time:1293388585]
+<STR>(RAV)
+¿Cómo t'ha ío?
+
+## POINTER 76 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RIT)
+Fatal... Por culpa de
+este canijo no me he
+podido concentrar nada.
+
+## POINTER 77 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(KAR)
+¡¿Cóóóómo?! ¡Si no lo has
+hecho bien no es culpa mía!
+
+## POINTER 78 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RIT)
+¿Cómo que no es culpa tuya?
+¡No parabas de refunfuñar!
+
+## POINTER 79 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(KAR)
+So-solo pensaba
+en voz alta...
+
+## POINTER 80 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+¡Perdonad la tardanza! ¡Ya tengo
+los resultados de los exámenes!
+
+## POINTER 81 [t:1;r:1;ru:memnoch;user:Lia;time:1293389176]
+Miska
+Señorita <STR>(RIT) Mordio,
+de 800 puntos, tienes...<PAGE>¡715 puntos!
+¡Te ha faltado un pelo,
+pero has aprobado!
+
+## POINTER 82 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(YUR)
+Oye, no está nada mal.
+
+## POINTER 83 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RIT)
+Mmpf. Me hubiese ido mejor de
+no ser por este cabeza de chorlito.
+
+## POINTER 84 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RAV)
+Nah, hacerlo tan bien incluso con toa
+esa distracción es toa una hazaña.
+Una maga prodigio, desde luego.
+
+## POINTER 85 [t:1;r:1;ru:memnoch;user:Lia;time:1293389176]
+<STR>(KAR)
+¿Y yo qué?
+¿Y yo qué?
+
+## POINTER 86 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+Ah, sí. Después tenemos a <STR>(KAR) Capel.
+De 100 puntos tienes...<PAGE>¡66 puntos!
+Por desgracia, no has aprobado.
+Más suerte la próxima vez.
+
+## POINTER 87 [t:1;r:1;ru:memnoch;user:Lia;time:1293389176]
+<STR>(KAR)
+¡Oh, no! ¡¡No puede ser!!
+Estás de broma,
+¿verdad?
+
+## POINTER 88 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+No, no. Lo siento,
+pero no has aprobado.
+No tienes suficientes puntos.
+
+## POINTER 89 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RAV)
+*Silbidos* ¡Un niño de doce años
+suspende un examen pa críos de diez!
+¡Ya te vale!
+
+## POINTER 90 [t:1;r:1;ru:memnoch;user:Lia;time:1293390248]
+<STR>(EST_P)
+Bueno, ¡es que hoy has tenido
+un mal día! ¿A que sí, <STR>(KAR)?
+
+## POINTER 91 [t:1;r:1;ru:memnoch;user:Lia;time:1293390248]
+<STR>(KAR)
+Yo... yo...
+Yo no...
+
+## POINTER 92 [t:1;r:1;ru:memnoch;user:Lia;time:1293390248]
+<STR>(YUR)
+No llores, <STR>(KAR). Todo el mundo
+mete la pata alguna vez.
+
+## POINTER 93 [t:1;r:1;ru:memnoch;user:Lia;time:1293390757]
+Miska
+No hay mal que por bien no venga.
+Deja que este fracaso te inspire
+a esforzarte más en el futuro.<PAGE>Y ahora, un título maravilloso
+para nuestra gran estudiante.
+
+## POINTER 94 [t:1;r:1;ru:memnoch;user:Lia;time:1293390757]
+<STR>(YUR)
+Mírala...
+Pero qué...
+
+## POINTER 95 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+Miska
+Solo los que han recibido el
+honorario doctorado Miska
+pueden llevar este traje especial.
+
+## POINTER 96 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(YUR)
+Claro, cómo no...
+
+## POINTER 97 [t:1;r:1;ru:memnoch;user:memnoch;time:1294520037]
+<STR>(RIT)
+¡Estoy muy contenta
+de saber que hice bien
+en creer en mí misma!
+
+## POINTER 98 [t:1;r:1;ru:memnoch;user:Lia;time:1293390757]
+<STR>(JUD)
+¡No serías la <STR>(RIT) que conocemos
+sin esa confianza en ti misma que tienes!
+
+## POINTER 99 [t:1;r:1;ru:memnoch;user:Lia;time:1293390757]
+<STR>(EST_P)
+¡Felicidades, <STR>(RIT)!

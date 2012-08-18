@@ -1,0 +1,67 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299351]
+La belleza imparable
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299351]
+(KAR)
+(JUD), siempre vas derechita
+hacia los enemigos, ¿no?
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299351]
+(EST_P)
+¡Sí, nunca dudas lo más mínimo!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981549]
+(RAP)
+¡Guau!
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299351]
+(JUD)
+Ji, ji, ji...
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299351]
+(YUR)
+Eres imparable.
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299351]
+(KAR)
+¿Eh? ¿Qué quieres decir con imparable, (YUR)?
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299351]
+(YUR)
+¡Me refiero a que arrasa con todo!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981549]
+(EST_P)
+Sí, es como si cada vez que (JUD)
+atacara con tal fuerza que nada ni
+nadie pudiera detenerla o evitarla.
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299351]
+(KAR)
+Eh... ¡Oye, (JUD) se ha ido!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981549]
+(RAP)
+¡Guau!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981549]
+(JUD)
+Perdonad, ya estoy aquí.
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299351]
+(EST_P)
+¿Adónde habías ido, (JUD)?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981549]
+(JUD)
+Oh, me ha parecido ver algo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981549]
+(JUD)
+Pero al final ha resultado
+que no era ningún monstruo.
+
+## POINTER 15 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265585657]
+(YUR)
+Ese instinto tuyo de atacar a todo lo que
+se mueve me recuerda al de un lobo...

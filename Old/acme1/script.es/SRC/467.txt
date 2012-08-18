@@ -1,0 +1,116 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+Ioder
+<VOICE>(VS48_001)¡Oh, cuánto me alegro
+de veros sanos y salvos!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+<STR>(YUR)
+<VOICE>(VS48_002)Mmpf.<PAGE><VOICE>(VS48_003)Has sido tú, ¿no? El que ha
+ordenado que las habitaciones
+de la posada sean gratuitas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+<VOICE>(VS48_004)¿Y tú quién eres?
+Cuidado con lo que dices. ¿Tienes la
+menor idea de con quién estás...?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+Ioder
+<VOICE>(VS48_005)Hay muchos que han escapado solo
+con lo que llevaban encima.<PAGE><VOICE>(VS48_006)He pensado que era un servicio que
+su país les podría proporcionar.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+<STR>(YUR)
+<VOICE>(VS48_007)Mmm, vale.<PAGE><VOICE>(VS48_008)La verdad es que me interesa más lo
+que me puedas decir sobre la capital.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1284361828]
+Ioder
+<VOICE>(VS48_009)La capital... Zaphias ya no es
+una ciudad adecuada para vivir.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+<VOICE>(VS48_010)La barrera blastia de la ciudad comenzó
+a emitir una gran luz... y la ciudad fue
+destruida por terremotos y rayos.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+Ioder
+<VOICE>(VS48_011)Sin embargo, lo peor vino después.<PAGE><VOICE>(VS48_012)Una niebla brillante apareció de
+la barrera blastia y se esparció
+rápidamente por la ciudad.<PAGE><VOICE>(VS48_013)Las plantas que tocaba crecían de forma
+espantosa, y el agua se tornó veneno...
+Era el mismísimo infierno.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1284206192]
+<STR>(RIT)
+<VOICE>(VS48_014)El aer está fuera de control...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+<VOICE>(VS48_015)Oh, que tales nefastos acontecimientos
+pudiesen ocurrirle a Zaphias, la joya
+de nuestro glorioso Imperio...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1284361828]
+<STR>(RIT)
+<VOICE>(VS48_016)Si el aer ha cubierto
+toda la ciudad...
+¿Qué le está haciendo a ella?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+<VOICE>(VS48_017)¡E-Esto es cosa del traidor
+de Alexei, estoy seguro!<PAGE><VOICE>(VS48_018)Vino a exigirnos que le
+obedeciésemos. Cuando nos negamos,
+¡juró que acabaría con nosotros!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+<VOICE>(VS48_019)¡Ese bestia incluso tuvo el descaro
+de a-atacarnos con la Guardia Real
+después de nuestra huida!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+<STR>(JUD)
+<VOICE>(VS48_020)Entonces ¿cómo llegasteis
+aquí ilesos?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1284208804]
+Ioder
+<VOICE>(VS48_021)<STR>(FRE) los combatió. <PAGE><VOICE>(VS48_022)Es gracias a él que todos los
+refugiados hayan llegado a salvo.<PAGE><VOICE>(VS48_023)Si no nos hubiese ayudado entonces,
+todos habríamos muerto.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+<STR>(YUR)
+<VOICE>(VS48_024)Oh, me encantaría oír más de
+lo genial que es <STR>(FRE), créeme.<PAGE><VOICE>(VS48_025)Pero no he visto a nadie
+de los barrios bajos.<PAGE><VOICE>(VS48_026)¿Qué les ha pasado?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1284208804]
+Ioder
+<VOICE>(VS48_027)Lo siento. Yo tampoco
+he visto nadie.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1284208804]
+<STR>(JUD)
+<VOICE>(VS48_028)Deben de haberse
+quedado atrás. Con toda
+esa inundación de aer.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+<VOICE>(VS48_029)E-Era todo lo que podíamos hacer para
+salvarnos. Con todo lo que estaba pasando
+fuimos incapaces de llevárnoslos a todos.<PAGE><VOICE>(VS48_030)¡Hicimos lo que pudimos!
+¡Tienes que entenderlo!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1284208804]
+<STR>(YUR)
+<VOICE>(VS48_031)¿Ah, sí?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1284208804]
+<STR>(RIT)
+<VOICE>(VS48_032)Oye...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1285464280]
+<STR>(YUR)
+<VOICE>(VS48_033)Estaré en la posada.

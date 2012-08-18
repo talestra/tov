@@ -1,0 +1,76 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296994043]
+<STR>(EST_P)
+¡Undine!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295175453]
+Undine
+Saludos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1295175453]
+<STR>(YUR)
+¿Qué ocurre? ¿Pasa algo?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1295175453]
+Undine
+Un gran artilugio me ha
+llamado la atención...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1295175453]
+<STR>(RIT)
+¿Un espíritu elemental
+interesado en un blastia?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296994043]
+Undine
+¿Tan extraño es?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296994043]
+<STR>(YUR)
+No. Después
+de todo, antes
+eras Belius.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296994043]
+<STR>(EST_P)
+Creo que tiene sentido
+que te interese algo así.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1295175453]
+Undine
+He pensado en usar mi
+poder para moverlo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296994043]
+<STR>(RIT)
+¡¿Q-Qué?! ¡No puedes hacer eso!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296994043]
+Undine
+¿No crees que serviría como prueba
+para medir los efectos de los poderes de
+los espíritus elementales en los blastias?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1295175453]
+<STR>(RIT)
+No, eso sería...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1295175453]
+Undine
+Volveré...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296994043]
+<STR>(YUR)
+Je... Hace lo que le da la gana.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296994043]
+<STR>(RIT)
+¡¿De qué te ríes?!
+¿No vas a detenerla?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1295175453]
+<STR>(YUR)
+Ya es un poco tarde para eso.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296994043]
+<STR>(EST_P)
+¿Ha empezado a moverse?

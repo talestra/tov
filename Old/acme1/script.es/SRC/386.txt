@@ -1,0 +1,58 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412966]
+<STR>(EST_P)
+<VOICE>(VS36_061)M-Mirad...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280922906]
+<STR>(RAV)
+<VOICE>(VS36_062)¡Whitehorse!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280922906]
+Gauche
+<VOICE>(VS36_063)Atrás.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1282550684]
+<STR>(YUR)
+<VOICE>(VS36_064)¿No decías que la Garra
+del Leviatán nunca intentaría
+algo así, viejales?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280922906]
+Droite
+<VOICE>(VS36_065)Ha empezado el Don.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280922906]
+<STR>(RAV)
+<VOICE>(VS36_066)¿Qué? Eso significa
+qu'el viejo...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551494]
+Don Whitehorse
+<VOICE>(VS36_067)Pero ¡¿qué os creéis qu'hacéis
+aquí, malditos tarados?! ¡Mira
+que traer jovencitas a un sitio así!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280922906]
+Yeager
+<VOICE>(VS36_068)¡Brravo! ¡Oss tengo que
+felisitarr porr essta
+essena tan conmovedorra!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551539]
+<STR>(RIT)
+<VOICE>(VS36_069)Pero ¡¿y este qué nos está contando?!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280922906]
+<STR>(YUR)
+<VOICE>(VS36_070)¡Agh! ¡Quitaos de en medio!
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280922906]
+<STR>(RAV)
+<VOICE>(VS36_071)¿Dónde está er Don?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280922906]
+<STR>(EST_P)
+<VOICE>(VS36_072)¡Se ha ido a por Yeager!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280922906]
+<STR>(YUR)
+<VOICE>(VS36_073)¡Vamos!

@@ -1,0 +1,32 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296993833]
+Irmine
+¡¿Quién se atreve a
+jorobarme la siesta?!<PAGE>Oh, si eres tú.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1295043745]
+<STR>(YUR)
+Buenas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296993833]
+Irmine
+¿Sabes qué? Toma esto como
+agradecimiento por la comida
+casera que me preparasteis, anda.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296993833]
+<STR>(YUR)
+Pero si ya nos
+diste las gracias...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296993833]
+Irmine
+¡¿Que qué?! ¡¿Pretendes insultar
+mi cordial pero humilde generosidad?!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1295043745]
+<STR>(YUR)
+No, no intentaba...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1295043745]
+Irmine
+Me voy a dormir.

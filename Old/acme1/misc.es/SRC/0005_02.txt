@@ -1,0 +1,313 @@
+## POINTER 188 [t:1;r:3;ru:memnoch,googol,parsec;user:parsec;time:1263241348]
+Defensa 3
+
+## POINTER 189 [t:1;r:3;ru:memnoch,googol,parsec;user:parsec;time:1263241348]
+Aumenta la defensa física un 15%.
+No afecta al incremento debido al equipo.
+
+## POINTER 190 [t:1;r:3;ru:memnoch,googol,parsec;user:parsec;time:1263241348]
+Defensa 4
+
+## POINTER 191 [t:1;r:3;ru:memnoch,googol,parsec;user:parsec;time:1263241348]
+Aumenta la defensa física un 20%.
+No afecta al incremento debido al equipo.
+
+## POINTER 192 [t:1;r:3;ru:memnoch,googol,parsec;user:parsec;time:1263241348]
+Defensa T
+
+## POINTER 193 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267979540]
+Aumenta la defensa física un 25% solo cuando el HP
+supera el 75%. No afecta al incremento debido al equipo.
+
+## POINTER 194 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241348]
+Resistir
+
+## POINTER 195 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241348]
+Aumenta la defensa mágica un 5%. 
+No afecta al incremento debido al equipo.
+
+## POINTER 196 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241348]
+Resistir 2
+
+## POINTER 197 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241348]
+Aumenta la defensa mágica un 10%. 
+No afecta al incremento debido al equipo.
+
+## POINTER 198 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241348]
+Resistir 3
+
+## POINTER 199 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241348]
+Aumenta la defensa mágica un 15%. 
+No afecta al incremento debido al equipo.
+
+## POINTER 200 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241348]
+Resistir 4
+
+## POINTER 201 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241348]
+Aumenta la defensa mágica un 20%. 
+No afecta al incremento debido al equipo.
+
+## POINTER 202 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241348]
+Resistir T
+
+## POINTER 203 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267979624]
+Aumenta la defensa mágica un 25% solo cuando el HP
+supera el 75%. No afecta al incremento debido al equipo.
+
+## POINTER 204 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263572128]
+Guardia crítica
+
+## POINTER 205 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265630687]
+Pulsa <06>(GUD) ＋ <06>(LTR) para defender mientras avanzas.
+Anula el daño enemigo si lo haces en el momento adecuado.
+
+## POINTER 206 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263579567]
+Impacto guardia
+
+## POINTER 207 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263579567]
+Aturde y refleja los ataques enemigos durante un corto
+periodo de tiempo si se ejecuta bien una Guardia crítica.
+
+## POINTER 208 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263579344]
+Guardia mágica
+
+## POINTER 209 [t:1;r:1;ru:memnoch;user:memnoch;time:1304455624]
+Pulsa <06>(GUD) ＋ <06>(LTD) para disminuir el daño mágico recibido.
+Efectivo solo cuando el botón se mantiene pulsado.
+
+## POINTER 210 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263706105]
+Guardia mágica 2
+
+## POINTER 211 [t:1;r:1;ru:memnoch;user:memnoch;time:1297063531]
+Aumenta el efecto de guardia manteniendo pulsado
+el botón durante una Guardia Mágica. Consume TP.
+
+## POINTER 212 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263572256]
+Guardia aérea
+
+## POINTER 213 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263579344]
+Permite defender en el aire.
+
+## POINTER 214 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263579344]
+Guardia aérea mágica
+
+## POINTER 215 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263579344]
+Permite usar Guardia mágica en el aire.
+Permanece en el aire durante el efecto.
+
+## POINTER 216 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263572256]
+Guardia plus
+
+## POINTER 217 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263572256]
+Reduce el daño recibido mientras defiendes.
+
+## POINTER 218 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263579344]
+Guardia plus 2
+
+## POINTER 219 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263579344]
+Reduce la cantidad de daño recibido
+desde un lateral y la retaguardia.
+
+## POINTER 220 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263579344]
+Guardia mágica plus
+
+## POINTER 221 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263579437]
+Reduce el daño recibido mientras se usa Guardia mágica.
+
+## POINTER 222 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263723287]
+Reflejo de guardia
+
+## POINTER 223 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263579437]
+Refleja un quinto del daño recibido durante la guardia.
+
+## POINTER 224 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263723287]
+Artes de guardia
+
+## POINTER 225 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263723176]
+Cancela la guardia y ejecuta un arte.
+Invencible a los ataques durante un corto período.
+
+## POINTER 226 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263723287]
+Prolongar guardia
+
+## POINTER 227 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265630687]
+Recupera HP gradualmente durante la guardia.
+
+## POINTER 228 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755724]
+Guardia regeneradora
+
+## POINTER 229 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263723522]
+Recupera TP al bloquear ataques enemigos.
+
+## POINTER 230 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755724]
+Cubrir
+
+## POINTER 231 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263724565]
+Reduce el daño recibido a la mitad 
+al tambalearse.
+
+## POINTER 232 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263724565]
+Flecha vengativa
+
+## POINTER 233 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263724565]
+Lanza una flecha con <06>(ATK) pulsado mientras te tambaleas.
+
+## POINTER 234 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265630869]
+Anti elemento
+
+## POINTER 235 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263724565]
+Ocasionalmente reduce el daño recibido
+de ataques elementales a la mitad.
+
+## POINTER 236 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263653441]
+Anti rotura
+
+## POINTER 237 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263653441]
+Reduce la posibilidad de una Rotura de guardia
+
+## POINTER 238 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025224]
+Súper guardia
+
+## POINTER 239 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265630869]
+Reduce el daño físico a un punto cuando defiendes.
+Recibes el doble de daño cuando no lo haces.
+
+## POINTER 240 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025224]
+Súper resistir
+
+## POINTER 241 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265630869]
+Reduce el daño mágico a un punto cuando defiendes.
+Recibes el doble de daño cuando no lo haces.
+
+## POINTER 242 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263653162]
+Defensa de acero
+
+## POINTER 243 [t:1;r:1;ru:memnoch;user:memnoch;time:1297063531]
+Reduce el daño recibido a un 10% cuando estás
+a punto de caer inconsciente.
+
+## POINTER 244 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263653162]
+Guardia de estado
+
+## POINTER 245 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263653162]
+Reduce el efecto de los estados alterados mágicos.
+
+## POINTER 246 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980128]
+Guardia de estado
+
+## POINTER 247 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263653162]
+Reduce el efecto de ciertos estados alterados físicos.
+
+## POINTER 248 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263653162]
+Inmunidad
+
+## POINTER 249 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267979881]
+Reduce la posibilidad de recibir estados alterados.
+
+## POINTER 250 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263653162]
+Guardia curadora
+
+## POINTER 251 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265631661]
+Recupera momentáneamente de los estados alterados
+físicos al mantenerse en posición de guardia.
+
+## POINTER 252 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263653162]
+Corazón de león
+
+## POINTER 253 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263653162]
+Aumenta considerablemente la resistencia a los
+estados alterados negativos.
+
+## POINTER 254 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267979881]
+Área de curación
+
+## POINTER 255 [t:1;r:1;ru:memnoch;user:memnoch;time:1297063531]
+Los aliados cercanos a Flynn se recuperan
+ocasionalmente de los efectos de estado.
+
+## POINTER 256 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263725803]
+Ataque guardia
+
+## POINTER 257 [t:1;r:3;ru:googol,parsec,memnoch;user:Xadou;time:1263725803]
+Cancela la guardia y ejecuta un ataque normal.
+
+## POINTER 258 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755724]
+Exageración
+
+## POINTER 259 [t:1;r:1;ru:memnoch;user:memnoch;time:1304456154]
+Cuando recibas daño, pulsa el botón de ataque para ser derribado. Anula cualquier ataque que recibas mientras caes al suelo. Útil para escapar de ataques combo. Se recupera automáticamente.
+
+## POINTER 260 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263749771]
+Soportar
+
+## POINTER 261 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263749771]
+Reduce el tiempo que necesitas para recuperarte
+de un golpe tambaleante.
+
+## POINTER 262 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263749771]
+Ataque nulo
+
+## POINTER 263 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263749771]
+De vez en cuando previene que te tambalees
+cuando recibes un ataque físico.
+
+## POINTER 264 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263749771]
+Magia nula
+
+## POINTER 265 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263749771]
+De vez en cuando previene que te tambalees
+cuando recibes un ataque mágico.
+
+## POINTER 266 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263750675]
+Paso defensor
+
+## POINTER 267 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267979881]
+Evita el tambalearse cuando recibes un golpe
+cuando retrocedes.
+
+## POINTER 268 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263750675]
+Paso seguro
+
+## POINTER 269 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267979881]
+Anula todos los ataques cuando retrocedes.
+
+## POINTER 270 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263751259]
+Guardia total
+
+## POINTER 271 [t:1;r:1;ru:memnoch;user:memnoch;time:1297063531]
+De vez en cuando te auto defiende de
+ataques a tu retaguardia.
+
+## POINTER 272 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263751259]
+Absorción
+
+## POINTER 273 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265631661]
+Anula un ataque mágico cuando conjuras un hechizo
+del mismo atributo.
+
+## POINTER 274 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755993]
+Artes de defensa
+
+## POINTER 275 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265631729]
+Evita el tambalearse cuando te golpean durante un 
+combo de artes básicas.
+
+## POINTER 276 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755993]
+Estabilidad
+
+## POINTER 277 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265631729]
+Evita el tambalearse mientras lanzas un hechizo. 
+
+## POINTER 278 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755993]
+Antimagia 
+
+## POINTER 279 [t:1;r:1;ru:memnoch;user:memnoch;time:1297063531]
+Resiste todos los efectos mágicos.
+Recuperar, atacar y mejorar magia son anulados. 
+
+## POINTER 280 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755993]
+Magia perfecta
+
+## POINTER 281 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755993]
+Consume TP poco a poco mientras todos los hechizos
+del enemigo son anulados.

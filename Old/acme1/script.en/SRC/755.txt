@@ -1,0 +1,63 @@
+## POINTER 0
+
+Ah! It's been a while since 
+we've seen you in here, baby. 
+What happened to you?
+
+## POINTER 1
+<STR>(RAV)
+Oho, what a nice surprise. I've 
+been out runnin' all over the 
+place on the Don's orders.
+
+## POINTER 2
+
+No way, baby! Are you 
+kidding? You and hard 
+work don't mix!
+
+## POINTER 3
+<STR>(RAV)
+Goin' on a world tour is pretty nice. You should try it sometime.
+
+## POINTER 4
+
+Tee hee hee! I'll bet you've 
+been partying it up everywhere 
+you've gone. You rascal!<PAGE>By the way...
+
+## POINTER 5
+
+Your friends don't seem like your usual crowd. You haven't been 
+trolling the local high schools for jailbait, have you?
+
+## POINTER 6
+<STR>(RAV)
+Nah, not at all.
+
+## POINTER 7
+
+Ah. Good. Well, let's 
+have a drink next time 
+you're free. See ya.
+
+## POINTER 8
+<STR>(KAR)
+A friend of yours?
+
+## POINTER 9
+<STR>(RAV)
+Just someone I know.
+
+## POINTER 10
+<STR>(KAR)
+I dunno, you two seemed pretty buddy-buddy, Old Man...
+
+## POINTER 11
+<STR>(YUR)
+<STR>(KAR), let's keep our nosy little 
+questions to ourselves, eh?
+
+## POINTER 12
+<STR>(RIT)
+What the hell's her problem?

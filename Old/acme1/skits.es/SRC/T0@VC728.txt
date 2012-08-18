@@ -1,0 +1,36 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251590518]
+(KAR) y (RAP)
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287674911]
+(KAR)
+¿Q-Qué ocurre, (RAP)?
+
+## POINTER 2 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266667181]
+(RAP)
+Grr...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287674911]
+(KAR)
+¿Po-por qué te enfadas?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287674911]
+(KAR)
+¡Q-Quieto! ¡¿No... no estarás
+pensando en comerme, verdad?!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287674911]
+(KAR)
+¡A-Ayúdame, (YUR)!
+
+## POINTER 6 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266667181]
+(YUR)
+¿Ocurre algo, (KAR)?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1287674911]
+(KAR)
+No... no es nada.
+Je. Ja, ja, ja, ja...
+
+## POINTER 8 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1258724055]
+(YUR)
+Toma cambio de humor...

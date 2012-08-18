@@ -1,0 +1,129 @@
+## POINTER 0
+Ted
+Hey, it's <STR>(YUR)! Wait 
+there, would ya?
+
+## POINTER 1
+Hanks
+<STR>(YUR), I've been waiting for 
+you and <STR>(FRE) to show up.
+
+## POINTER 2
+<STR>(YUR)
+You were waiting for me and...<STR>(FRE)?
+
+## POINTER 3
+Hanks
+Yep. I wanted to give this to you.
+
+## POINTER 4
+<STR>(RAV)
+Hmmm...that's quite the item. You can't find 
+anythin' like that in a store. How'd somethin' 
+like that end up in the lower quarter?
+
+## POINTER 5
+Hanks
+This sword belonged to a famous mercenary who visited 
+us in the lower quarter a long time ago.<PAGE>He only came through here by chance, 
+but he ended up liking it so much 
+that he stayed for a long time.<PAGE>Actually, it would be better 
+to say he lived here. We came 
+to think of him as one of us.
+
+## POINTER 6
+<STR>(YUR)
+That's the first time I've heard
+anything about someone like that.
+
+## POINTER 7
+Hanks
+It makes sense that you wouldn't know about 
+him. He left the capital and went on his way 
+a long time before you were even born.
+
+## POINTER 8
+<STR>(KAR)
+Where did the mercenary go after he left?
+
+## POINTER 9
+Hanks
+I don't know...a bunch of knights and guild 
+members came to ask if he'd left his sword 
+behind, but we were never able to find it.
+
+## POINTER 10
+<STR>(RIT)
+What do you mean? How could a mercenary 
+go off without his sword?
+
+## POINTER 11
+Ted
+But then, just a while back, when we were 
+cleaning up the city after things in the 
+capital got crazy, the sword turned up.
+
+## POINTER 12
+<STR>(KAR)
+...How could that be?
+
+## POINTER 13
+<STR>(EST_P)
+Maybe it was a gift to the people in the 
+lower quarter in return for your hospitality.
+
+## POINTER 14
+<STR>(RIT)
+Then why didn't he just 
+give it to them himself?
+
+## POINTER 15
+<STR>(RAV)
+He probably planned 
+on comin' back an' getting' 
+it someday.
+
+## POINTER 16
+<STR>(YUR)
+Then if that's the case, 
+we shouldn't be taking 
+it with us, right?
+
+## POINTER 17
+Hanks
+The mercenary always said 
+that swords should be 
+used to protect people.<PAGE>I don't think he'd mind if I left the 
+sword with our lower quarter boys, who 
+are working to protect the world.
+
+## POINTER 18
+<STR>(JUD)
+A weapon chooses its owner,
+not the other way around...<PAGE>It might not just be random chance that the 
+sword turned up now, after all those years.
+
+## POINTER 19
+Hanks
+Use the sword, <STR>(YUR). 
+You'd be doing all 
+of us a favor.
+
+## POINTER 20
+<STR>(YUR)
+All right. I'll hold 
+onto it for you.
+
+## POINTER 21
+Ted
+Don't forget to split it with <STR>(FRE).
+
+## POINTER 22
+<STR>(EST_P)
+That sword holds everyone's 
+hopes and dreams, doesn't it?
+
+## POINTER 23
+<STR>(YUR)
+Yeah. It's heavier 
+than it looks.

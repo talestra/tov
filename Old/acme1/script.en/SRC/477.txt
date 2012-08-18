@@ -1,0 +1,88 @@
+## POINTER 0
+
+<VOICE>(VS49_018)So you have come at last.
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS49_019)A Krityan?! No, wait, 
+you were...
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS49_020)Meet Khroma, special advisor 
+to the Imperial Knights... 
+Alexei's personal assistant.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS49_021)Then she's an enemy?!
+
+## POINTER 4
+Khroma
+<VOICE>(VS49_022)No, I am not. ...For the 
+time being, in any case.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS49_023)That's not a very comforting
+way to put it. Sorry, but we've 
+got somewhere to go.<PAGE><VOICE>(VS49_024)If you're here to fight, fine. If not, 
+maybe it could wait until later.
+
+## POINTER 6
+Khroma
+<VOICE>(VS49_025)Who is it you would 
+fight for?
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS49_026)What do you mean?
+
+## POINTER 8
+Khroma
+<VOICE>(VS49_027)That poor, pathetic young girl?
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS49_028)She doesn't need your pity!
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS49_029)You are bein' really vague. 
+Come on, spit it out already!
+
+## POINTER 11
+Khroma
+<VOICE>(VS49_030)I cannot know what that 
+one saw in all of you...<PAGE><VOICE>(VS49_031)But I wish for 
+you to stop him.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS49_032)Okay, that made no sense. Did anybody 
+get what she was trying to say...?
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS49_033)Maybe she wants us
+to stop Alexei?
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS49_034)Hmm, maybe. It would 
+add up, I guess.
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS49_035)Yes. <STR>(EST_P) should 
+be just up ahead.
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS49_036)Maybe it was more like, 
+"go nail that guy's 
+butt to the wall."
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS49_037)I could handle that. Come on!

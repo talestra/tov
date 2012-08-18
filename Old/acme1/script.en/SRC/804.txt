@@ -1,0 +1,74 @@
+## POINTER 0
+
+Everyone, thanks so much for 
+your help! I don't know what 
+I would've done without you.
+
+## POINTER 1
+<STR>(EST_P)
+Think nothing of it! 
+I'm sure you would've 
+done the same for us.<PAGE>And it seems like everyone 
+enjoyed themselves while 
+they worked, too.
+
+## POINTER 2
+<STR>(KAR)
+I didn't...
+
+## POINTER 3
+<STR>(RAV)
+Speak fer yerself...
+
+## POINTER 4
+<STR>(JUD)
+It was great! 
+I learned so 
+much, too.
+
+## POINTER 5
+<STR>(RIT)
+It was hard work, but 
+it wasn't so bad.
+
+## POINTER 6
+
+We can't thank you enough. 
+Ah, now for a token of 
+our appreciation...
+
+## POINTER 7
+
+The clothes you're 
+wearing are also 
+yours to keep.
+
+## POINTER 8
+<STR>(EST_P)
+Wow, really? 
+Thank you!
+
+## POINTER 9
+<STR>(RAV)
+I'm happy 'bout the complimentary passes, really I am...but 
+my bones ache so much, I feel like passin' out... I can't 
+say I'm too thrilled 'bout these clothes either...
+
+## POINTER 10
+<STR>(KAR)
+Look on the bright side, <STR>(RAV). You've got the 
+satisfaction of a hard day's work, and you've 
+even got some nice new clothes to wear!<PAGE>All I got was a 
+towel to go into 
+the bath...
+
+## POINTER 11
+<STR>(RAV)
+Young'un, you'll see 
+someday... This is all 
+part o' growin' up.
+
+## POINTER 12
+<STR>(KAR)
+Walking around in a towel 
+is part of growing up...?

@@ -1,0 +1,184 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS47_088)Whew... Hey, does 
+that look like an exit 
+ta anybody else?
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS47_089)Tired already?
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS47_090)We old folks lack stamina... 
+<STR>(JUD), be a dear and 
+take him for a spell.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS47_091)Oh, I wouldn't dream of 
+stealing your job from you.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS47_092)<STR>(KAR)...you're awake, aren't you.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS47_093)N-no I'm not!
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS47_094)Ow!
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS47_095)Forcing a poor old man 
+ta work in this cold...<PAGE><VOICE>(VS47_096)Mister <STR>(KAR). You're 
+made of tougher stuff 
+than I might've guessed.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS47_097)Feeling better, <STR>(KAR)?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS47_098)Yeah.
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS47_099)We were really worried about you.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS47_100)You didn't look that worried to me.
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS47_101)Really? That's weird.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS47_102)Just never do that 
+again okay? We're 
+all in this together.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS47_103)Okay.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS47_104)Mind telling me 
+what's so funny?
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS47_105)Hey. Easy, <STR>(YUR).<PAGE><VOICE>(VS47_106)...I was just remembering 
+something the Don said.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS47_107)"Take care of your friends 
+and they'll be there when 
+you need them"...was that it?
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS47_108)Yeah. I was thinking 
+maybe this is the 
+kind of thing he meant.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS47_109)Well, if you feel like you 
+understand what he said, I'm 
+sure you're on the right track.
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS47_110)I hope so.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS47_111)All right, the exit's right 
+in front of us. Let's go.
+
+## POINTER 22
+<STR>(JUD)
+<VOICE>(VS47_112)Everything all right?
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS47_113)Yeah. I was just thinking 
+that maybe all the ice 
+here was made by the aer.
+
+## POINTER 24
+<STR>(KAR)
+<VOICE>(VS47_114)The ice? From the aer?
+
+## POINTER 25
+<STR>(JUD)
+<VOICE>(VS47_115)Well, if all things are 
+made up of aer, that 
+would make sense.
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS47_116)The aer krene here was 
+actually quite stabilized. Enough 
+for a monster to control it.<PAGE><VOICE>(VS47_117)Maybe, if huge quantities of 
+aer could be made solid, it 
+would help stabilize things.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS47_118)You mean something like that 
+could restore the aer imbalance 
+and stop the disturbances?
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VS47_119)I'm not sure. It would probably 
+need to be more efficient, and it 
+would take a lot more aer...
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VS47_120)So you wanna stay here and 
+research this aer krene?
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS47_121)No. There isn't 
+time for that.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS47_122)Yeah, and we've already 
+burnt enough time here 
+as it is. Let's go.
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VS47_123)<STR>(EST_P), please be okay...
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS47_124)...
+
+## POINTER 34
+<STR>(KAR)
+<VOICE>(VS47_125)Once we're out of here, let's 
+ask somebody about what's 
+happening in the capital.
+
+## POINTER 35
+<STR>(RAV)
+<VOICE>(VS47_126)Sure thing.
+
+## POINTER 36
+Information
+<03>(4)<STR>(KAR)<03>(0) has been revived from KO.

@@ -1,0 +1,334 @@
+## POINTER 0
+<STR>(YUR)
+Eh? What's with 
+this crowd...?
+
+## POINTER 1
+
+Young man, would you like to take the challenge?<PAGE>This is Dahngrest's annual 
+"Big Voice Contest!"<PAGE>Anyone can participate! 
+Whoever yells the loudest 
+is declared the winner!<PAGE>And of course, our winner will receive a fantastic prize!
+
+## POINTER 2
+<STR>(EST_P)
+It seems...that it's 
+a yelling contest.
+
+## POINTER 3
+<STR>(RIT)
+...How lame can you get...
+
+## POINTER 4
+
+Our current champion is the manager 
+of the local inn, Shiva, with his 
+earth-shaking bellow at 765 points!
+
+## POINTER 5
+Shiva
+Eishrrraaaaah!
+
+## POINTER 6
+<STR>(JUD)
+Hey, this looks fun. Maybe 
+I'll give it a go?
+
+## POINTER 7
+<STR>(KAR)
+Ju-judith...?!
+
+## POINTER 8
+<STR>(RIT)
+What... Are 
+you for real?
+
+## POINTER 9
+
+What is this?! It appears we have a new 
+challenger, and a female, at that!
+
+## POINTER 10
+<STR>(JUD)
+Sheeeeyaaaaaa!!
+
+## POINTER 11
+
+...A, amazing! A new 
+record! 1192 points!!
+
+## POINTER 12
+Shiva
+I-impossible...
+
+## POINTER 13
+<STR>(YUR)
+...W-wow...
+
+## POINTER 14
+<STR>(EST_P)
+C-cool...
+
+## POINTER 15
+
+And now, with this amazing record, 
+has our contest been decided?!
+
+## POINTER 16
+
+Count us in, too.
+
+## POINTER 17
+<STR>(KAR)
+Nan!
+
+## POINTER 18
+<STR>(YUR)
+I didn't think we'd see you in a place like this... 
+Don't you guys specialize in hunting monsters?
+
+## POINTER 19
+Tison
+Aye! But we always love 
+a good competition!<PAGE>Here I go!
+
+## POINTER 20
+Tison
+Urrrraaaaaaaaargh!
+
+## POINTER 21
+
+Y-yet another amazing performance! 
+A stunning 1180 points!<PAGE>A formidable showing, and yet, it's 
+barely beaten by the score of our 
+previous competitor, Miss <STR>(JUD)!
+
+## POINTER 22
+Tison
+Arrrrgh!
+
+## POINTER 23
+<STR>(JUD)
+Heh heh.
+
+## POINTER 24
+Clint
+My turn.
+
+## POINTER 25
+Nan
+Ch-chief...!
+
+## POINTER 26
+<STR>(YUR)
+...Breaking out the big guns, 
+huh? This is getting serious...
+
+## POINTER 27
+Clint
+Gyaaaaaaoooo!!!
+
+## POINTER 28
+
+L-l-ladies and gentlemen, I've 
+never seen anything like this!<PAGE>An amazing...1300 points!<PAGE>Just when we thought Miss <STR>(JUD) had clinched the competition
+with her powerful voice, this is even higher still!
+
+## POINTER 29
+<STR>(JUD)
+Aw...
+
+## POINTER 30
+Tison
+That's our Chief...
+
+## POINTER 31
+<STR>(YUR)
+He's got a hulking voice to match 
+his hulking stature, huh...
+
+## POINTER 32
+<STR>(RIT)
+He's almost like a monster, himself...
+
+## POINTER 33
+
+Folks, it looks like our contest 
+has been decided! The winner of this 
+year's Big Voice Contest is...
+
+## POINTER 34
+<STR>(KAR)
+W-wait!
+
+## POINTER 35
+<STR>(KAR)
+I, I'm going to do it, too!
+
+## POINTER 36
+<STR>(YUR)
+Eh?
+
+## POINTER 37
+Clint
+......
+
+## POINTER 38
+<STR>(JUD)
+Heh... That makes sense, with that girl here and all.
+
+## POINTER 39
+Nan
+<STR>(KAR)...
+
+## POINTER 40
+
+Amazing! Just when it all seemed decided, the 
+voice of a new challenger rises from the crowds, 
+and that voice belongs to...a young boy!
+
+## POINTER 41
+What will you shout?
+A heated battle call
+A burning confession of love
+
+## POINTER 42
+<STR>(KAR)
+
+Rending...DROP!!
+
+## POINTER 43
+Nan
+......!!
+
+## POINTER 44
+
+F-f-fantastic!! A whopping 
+1322 points!<PAGE>Who would have thought such 
+a colossal voice could come 
+from such a small boy?!<PAGE>This beats the record of our previous competitor, Clint!
+
+## POINTER 45
+Clint
+Hmph...
+
+## POINTER 46
+Nan
+<STR>(KAR)...
+
+## POINTER 47
+<STR>(KAR)
+Ah... Nan...
+
+## POINTER 48
+
+What an unbelievable day 
+we've had here, folks...<PAGE>One record after another! A heated 
+battle the likes of which even 
+history itself seldom sees!<PAGE>And what's more! The victor of this battle is none 
+other than the prepubescent powerhouse, the 
+miniature mammoth, the one, the only...<STR>(KAR)!
+
+## POINTER 49
+<STR>(KAR)
+I, I did it!
+
+## POINTER 50
+
+For our winner, we have a powerful 
+weapon made by Dahngrest's 
+most skilled artisans!
+
+## POINTER 51
+<STR>(KAR)
+Oh...thanks!
+
+## POINTER 52
+<STR>(JUD)
+You were really great, <STR>(KAR).
+
+## POINTER 53
+<STR>(KAR)
+Th-thanks...
+
+## POINTER 54
+<STR>(KAR)
+I LOVE YOOOOOOOU!!
+
+## POINTER 55
+<STR>(YUR)
+Eh?
+
+## POINTER 56
+<STR>(RIT)
+Is he...insane?
+
+## POINTER 57
+Nan
+......!!
+
+## POINTER 58
+
+Woooooow! Ladies and gentlemen, we have 
+an unexpected confession of love!<PAGE>And yet another amazing 
+score! 1295 points!<PAGE>H-however! However! This bold proclamation 
+of affection is just barely beaten by the 
+score of our previous challenger, Clint!
+
+## POINTER 59
+<STR>(KAR)
+Damn it!
+
+## POINTER 60
+
+What an unbelievable day 
+we've had here, folks...<PAGE>One record after another! A heated 
+battle the likes of which even 
+history itself seldom sees!<PAGE>And what's more! The victor in this 
+battle is none other than the chief 
+of the Hunting Blades, Clint!
+
+## POINTER 61
+Clint
+Hmph...
+
+## POINTER 62
+
+For our winner, we have a powerful 
+weapon made by Dahngrest's 
+most skilled artisans!
+
+## POINTER 63
+Clint
+......
+
+## POINTER 64
+Clint
+I don't need this. 
+You can take it...
+
+## POINTER 65
+<STR>(KAR)
+Eh...? You...don't 
+mind?
+
+## POINTER 66
+<STR>(KAR)
+Ah...Nan...
+
+## POINTER 67
+<STR>(YUR)
+Hey, you gave it your all. That's what counts, right?
+
+## POINTER 68
+<STR>(RIT)
+I think you could've picked something 
+better to yell, but...
+
+## POINTER 69
+<STR>(JUD)
+You were really great, <STR>(KAR).
+
+## POINTER 70
+<STR>(KAR)
+Th-thanks...

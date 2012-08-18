@@ -1,0 +1,58 @@
+## POINTER 0
+<STR>(YUR)
+Is everyone ready to go?
+
+## POINTER 1
+<STR>(KAR)
+...S-sure...
+
+## POINTER 2
+<STR>(RIT)
+You're shaking, <STR>(KAR).
+
+## POINTER 3
+<STR>(RAV)
+Confrontin' the big cheese of a major guild about his 
+involvement with the Great War is pretty intimidatin'.
+
+## POINTER 4
+<STR>(YUR)
+Come on, he's a normal person, just like 
+us. There's nothing to be afraid of!
+
+## POINTER 5
+<STR>(KAR)
+B-but...
+
+## POINTER 6
+<STR>(RAV)
+You're sure the brave one, 
+missy. I'm impressed.
+
+## POINTER 7
+<STR>(EST_P)
+...I'm just doing my 
+best to be strong...
+
+## POINTER 8
+<STR>(RIT)
+You don't have to come if you don't want to, <STR>(EST_P).
+
+## POINTER 9
+<STR>(EST_P)
+I can't back down anymore. 
+I don't want to.<PAGE>I want to know about myself. 
+About who I really am.
+
+## POINTER 10
+<STR>(JUD)
+Sounds like you're ready to go.
+
+## POINTER 11
+<STR>(YUR)
+So then, let's 
+go see Belius.
+
+## POINTER 12
+<STR>(KAR)
+...Just my imagination...?

@@ -1,0 +1,121 @@
+## POINTER 0
+<STR>(FRE)
+<VOICE>(VS50_001)The Enduring Shrine of Zaude...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS50_002)That's what he said. 
+Have you heard of it?
+
+## POINTER 2
+<STR>(FRE)
+<VOICE>(VS50_003)No, that's the first time. 
+I wonder what it is.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS50_004)I don't know? But I know 
+what he's gonna use it for.
+
+## POINTER 4
+<STR>(FRE)
+<VOICE>(VS50_005)World domination... Do you 
+really think he can do that?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS50_006)He sure thought he could.
+
+## POINTER 6
+<STR>(FRE)
+<VOICE>(VS50_007)We Knights are always 
+one step behind.<PAGE><VOICE>(VS50_008)Without the rest of you, 
+we'd never have been able 
+to approach the capital.<PAGE><VOICE>(VS50_009)Much less stop the blastia 
+from spreading this danger 
+across the land...
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS50_010)It was the Knights that 
+protected the capital 
+from Heracles, though.
+
+## POINTER 8
+<STR>(FRE)
+<VOICE>(VS50_011)Even with Lady <STR>(EST)...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS50_012)Hey, <STR>(EST_P) came 
+back on her own.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS50_013)Alexei owes the 
+world for all he's done. 
+He owes us.<PAGE><VOICE>(VS50_014)Tomorrow I'm going to 
+the Shrine of Zaude.
+
+## POINTER 11
+<STR>(FRE)
+<VOICE>(VS50_015)I assume your friends 
+will be with you.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS50_016)Yeah. Everyone's resting 
+up for tomorrow.<PAGE><VOICE>(VS50_017)So spare me any 
+guilt trips tonight.
+
+## POINTER 13
+<STR>(FRE)
+<VOICE>(VS50_018)Okay.
+
+## POINTER 14
+Sodia
+<VOICE>(VS50_019)Captain, so this is 
+where you were. 
+...You again.
+
+## POINTER 15
+Sodia
+<VOICE>(VS50_020)Negotiations with the Union are 
+difficult. It seems they can't 
+even agree with each other.
+
+## POINTER 16
+Sodia
+<VOICE>(VS50_021)And one more thing.<PAGE><VOICE>(VS50_022)The council intends to cede all 
+authority to His Highness Ioder in 
+order to control the current crisis.
+
+## POINTER 17
+Sodia
+<VOICE>(VS50_023)Due to your success in liberating 
+the capital, His Highness has 
+pronounced you acting Commandant.<PAGE><VOICE>(VS50_024)Congratulations!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS50_025)Well this cleans up 
+one of our problems.<PAGE><VOICE>(VS50_026)Congrats.
+
+## POINTER 19
+Sodia
+<VOICE>(VS50_027)Watch your tone!
+
+## POINTER 20
+<STR>(FRE)
+<VOICE>(VS50_028)<STR>(YUR), you're the one 
+who really did all this...
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS50_029)Ahhh, details details. 
+Whatever.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS50_030)Well, I guess I'll go 
+check on the others.<PAGE><VOICE>(VS50_031)See ya.

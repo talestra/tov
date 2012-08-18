@@ -1,0 +1,45 @@
+﻿=====================================
+scenario_uk/0500.dat.u
+=====================================
+
+0003A194:'<VOICE>(VS01_001)¡<STR>(YUR)! ¡Tenemos un problema!'
+0003A230:'<VOICE>(VS01_002)¿Qué son esos gritos, \nTed?'
+0003A2FC:'<VOICE>(VS01_003)¡Mira! ¡El acueblastia se \nha vuelto a romper!'
+0003A394:'<VOICE>(VS01_004)¡Y justo acababan \nde repararlo!'
+0003A498:'<VOICE>(VS01_005)¿Cuál es el problema? Que se encarguen \nlos Caballeros del Imperio. Para eso están.'
+0003A56C:'<VOICE>(VS01_006)Je, ¿los Caballeros? Tú \nsabes que nunca vienen a \nlos barrios bajos.'
+0003A5F8:'<VOICE>(VS01_007)¿Y qué es de \n<STR>(FRE) el héroe?'
+0003A6F4:'<VOICE>(VS01_008)Ya he intentado \ntraerle.<PAGE><VOICE>(VS01_009)¡No me han \ndejado ni verle!'
+0003A78C:'<VOICE>(VS01_010)Oh, así que yo soy el \nreemplazo de <STR>(FRE), ¿eh?'
+0003A838:'<VOICE>(VS01_011)¡Qué más da, hombre! \n¡Necesitamos más gente!'
+0003A90C:'<VOICE>(VS01_012)¡Ted! ¡Ted! ¡Ven \naquí abajo! ¡Necesitan \ntu ayuda!'
+0003A998:'<VOICE>(VS01_013)¡Voy... voy en un segundo!'
+0003AA18:'<VOICE>(VS01_014)<STR>(YUR)... ¡Venga, vamos!'
+0003AAD8:'<VOICE>(VS01_015)Qué extraño. Él siempre viene, \nsea cual sea el problema...'
+0003AB98:'<VOICE>(VS01_016)Este lugar va a convertirse pronto \nen un acuario si esto sigue así.'
+
+=====================================
+scenario_uk/0501.dat.u
+=====================================
+
+00037C44:'<VOICE>(VS01_017)¡<STR>(YUR)!'
+
+====================================
+scenario_uk/0031.dat.u
+=====================================
+
+000EA428:'<03>(2)Nuestro mundo, Terca Lumireis.'
+000EA4C0:'<03>(2)Nadie sabe hasta dónde llegan \nsus tierras y océanos.'
+000EA590:'<03>(2)La gente no es rival para las hordas \nde monstruos que abundan en la tierra.'
+000EA69C:'<03>(2)Las barreras protegen las ciudades en las que vivimos, \ny dependemos completamente de ellas para sobrevivir.'
+000EA72C:'<03>(2)Los blastia generan dichas barreras.'
+000EA7F0:'<03>(2)Los blastia usan el poder primigenio del aer, \nel cual el mundo está lleno...'
+000EA8FC:'<03>(2)...Para proveernos de fuego, agua y luz. Nos provee de todo lo que ha hecho que el imperio prospere.'
+000EA950:'<03>(2)Tal vez algún día...'
+000EAA3C:'<03>(2)...Podamos olvidar la amenaza de los feroces monstruos \nque están a la espera tras las barreras.'
+000EAAA8:'<03>(2)Las bendiciones de los blastia...'
+000EAB9C:'<03>(2)...Proporcionarán más prosperidad al mundo y más paz a su gente.'
+000EABD8:'<03>(2)Oh, no...'
+000EAC8C:'<03>(2)No lo entiendo. \n¡¿Qué le habrá pasado a la barrera de esta ciudad?!'
+000EAD80:'<03>(2)Desde Zaphias, la capital imperial y cimiento de la paz, rezamos: \nQue la tranquilidad bendiga a este mundo.'
+000EADB4:'<03>(2)¡!'

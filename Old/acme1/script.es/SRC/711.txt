@@ -1,0 +1,153 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(RIT)
+...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(EST_P)
+¿No puedes dormir?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(RIT)
+
+¿Mm? No, no es eso...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(EST_P)
+Cuando venzamos al adephagos, 
+supongo que todos seguiremos 
+por caminos distintos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(RIT)
+¿Volverás al castillo, entonces?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(EST_P)
+Sí, es mi deber.<PAGE>¿Tú volverás a Aspio?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(EST_P)
+¡Entonces tendré que ir
+a verte de vez en cuando!<PAGE>¿Qué vas a hacer?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(RIT)
+Ayudar a reconstruir 
+Aspio, supongo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(EST_P)
+¡Pues yo también
+vendré a ayudar! 
+
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(RIT)
+Una princesa no puede ir por ahí  
+haciendo lo que le dé la gana.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(EST_P)
+Oh, claro...<PAGE>¿Seguirás siendo mi amiga 
+aunque regrese al castillo?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(RIT)
+Cuando regreses te olvidarás
+de mí enseguida, <STR>(EST_P).
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(EST_P)
+¡Claro que no!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(RIT)
+Si Su Tontaina llega a convertirse
+en emperatriz, no vas a tener tiempo
+para nada más.<PAGE>Gobernar un reino no es moco de pavo.
+No podrás hacer lo que quieras, como ahora.<PAGE>Tendrás asuntos que resolver día sí
+día también y estarás hasta el cuello
+con los problemas de los demás.<PAGE>Y mientras, todos los recuerdos que
+tengas de mí se perderán en el tiempo,
+como lágrimas en la lluvia...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(EST_P)
+P-Pero...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(RIT)
+Iré a verte...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(EST_P)
+¿Qué?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(RIT)
+¡He dicho que
+iré a verte!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(EST_P)
+¡<STR>(RIT)!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(RIT)
+¡No lo digo porque
+vaya a sentirme sola
+ni nada de eso, eh!
+
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(EST_P)
+Ya lo sé... <STR>(RIT), 
+¡eres una buena persona!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(RIT)
+¡Corta el rollo!
+¡No lo soy ni por asomo!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(EST_P)
+La gente buena siempre
+niega serlo, siempre.<PAGE>Solo las buenas personas
+se comportan como las malas.
+Como tú...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(RIT)
+Lo mismo se podría decir de muchos 
+miembros de nuestro grupo, ¿no?
+
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1294433970]
+<STR>(EST_P)
+Ja, ja. Ahora que lo dices, todos son así.<PAGE>¿Puedo preguntártelo otra vez?<PAGE>¿Serás siempre
+mi amiga?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(RIT)
+Siempre que 
+no me olvides.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(EST_P)
+¡Nunca!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(EST_P)
+Entonces lo seremos siempre.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(RIT)
+¿Siempre?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:miyu;time:1286377863]
+<STR>(EST_P)
+¡Por siempre jamááás!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:miyu;time:1286378435]
+<STR>(RIT)
+Madre mía, eso será mucho tiempo...

@@ -1,0 +1,312 @@
+## POINTER 4
+Regular Attack - ○
+
+## POINTER 6
+Regular Attack - ↑○
+
+## POINTER 8
+Regular Attack - ←→○
+
+## POINTER 10
+Regular Attack - ↓○
+
+## POINTER 12
+Regular Attack - Jumping - ○
+
+## POINTER 14
+Regular Attack - Jumping - ↓○
+
+## POINTER 16
+Regular Secondary Attack - ○
+
+## POINTER 18
+Regular Secondary Attack - ↑○
+
+## POINTER 20
+Regular Secondary Attack - ←→○
+
+## POINTER 22
+Regular Secondary Attack - ↓○
+
+## POINTER 24
+Regular Secondary Attack - Jumping - ○
+
+## POINTER 26
+Regular Secondary Attack - Jumping - ↓○
+
+## POINTER 28
+Free Run Attack
+
+## POINTER 30
+Indigo Fatal Strike
+
+## POINTER 32
+Crimson Fatal Strike
+
+## POINTER 34
+Viridian Fatal Strike
+
+## POINTER 36
+Azure Edge
+
+## POINTER 37
+Base Arte: Unleash the force of the wind.
+Able to attack far away enemies.
+
+## POINTER 38
+Cerberus Strike
+
+## POINTER 39
+Base Arte: Quickly punch the enemy three times.
+
+## POINTER 40
+Fang Strike
+
+## POINTER 41
+Base Arte: Slashes the enemy down and
+finishes off with an uppercut.
+
+## POINTER 42
+Wolf Strike
+
+## POINTER 43
+Base Arte: A sharp thrust attack followed
+by an uppercut.
+
+## POINTER 44
+Destruction Field
+
+## POINTER 45
+Base Arte: Send a shock wave crashing to the ground.
+Speed changes depending on the distance between the enemy.
+
+## POINTER 46
+Dhaos Blast
+
+## POINTER 48
+Shining Fang
+
+## POINTER 49
+Base Arte: Slash with a spinning sword.
+Looks like one is twirling the sword.
+
+## POINTER 50
+Tiger Blade
+
+## POINTER 51
+Base Arte: Slice the enemy up in the air,
+then strike them back to the ground.
+
+## POINTER 52
+Ghost Wolf
+
+## POINTER 53
+Base Arte: Lunge and attack, then quickly get
+behind the enemy to finish off with another attack.
+
+## POINTER 54
+Azure Wolf Strike
+
+## POINTER 55
+Arcane Arte: A combination of Azure Edge and
+Wolf Strike.
+
+## POINTER 56
+Crushing Eagle
+
+## POINTER 57
+Arcane Arte: Strike the ground and hit the
+enemy with the force from your weapon.
+
+## POINTER 58
+Dragon Swarm
+
+## POINTER 59
+Arcane Arte: Hit the enemy with spinning slashes.
+
+## POINTER 60
+Severing Fang
+
+## POINTER 61
+Arcane Arte: Kick the enemy up in the air,
+then strike them as you spin.
+
+## POINTER 62
+Shining Eagle
+
+## POINTER 63
+Arcane Arte: Swing your weapon while grazing
+the ground to bring forth a shockwave.
+
+## POINTER 64
+Shining Dragon Swarm
+
+## POINTER 65
+Arcane Arte: A combination of Shining Fang and
+Dragon Swarm.
+
+## POINTER 66
+Raging Blast
+
+## POINTER 67
+Arcane Arte: Unleash a burst of power from within that
+downs the enemy. First level only explodes upon contact.
+
+## POINTER 68
+Brutal Fang
+
+## POINTER 69
+Arcane Arte: Punch at the enemy repeatedly
+with your fist.
+
+## POINTER 70
+Wailing Havoc
+
+## POINTER 71
+Arcane Arte: Send an enemy flying with a roundhouse
+kick in midair, then finish off with a quick thrust.
+
+## POINTER 72
+Lone Wolf Charge
+
+## POINTER 73
+Arcane Arte: Unleash a burst of power in
+the form of a wolf.
+
+## POINTER 74
+Final Gale
+
+## POINTER 75
+Arcane Arte: Slash your blade in a circular motion
+to send a gale shockwave at the enemy.
+
+## POINTER 76
+Wailing Blast
+
+## POINTER 77
+Arcane Arte: A combination of Wailing Havoc
+and Destruction Field.
+
+## POINTER 78
+Rending Wolf Charge
+
+## POINTER 79
+Arcane Arte: A combination of Brutal Fang
+and Lone Wolf Charge.
+
+## POINTER 80
+Azure Storm
+
+## POINTER 81
+Altered Arte: Unleash two consecutive gales of
+shockwaves. Effective against far away enemies.
+
+## POINTER 82
+Azure Blast
+
+## POINTER 83
+Altered: Unleash an explosive shockwave
+that will knock down an enemy.
+
+## POINTER 84
+Cerberus Blast
+
+## POINTER 85
+Altered Arte: Hit with three quick punches and
+finish off with a quick stab.
+
+## POINTER 86
+Shining Fang Drop
+
+## POINTER 87
+Altered Arte: Send the enemy flying with a twirling
+blade then send them crashing to the ground.
+
+## POINTER 88
+Guardian Field
+
+## POINTER 89
+Altered Arte: Thrust weapon into the ground to attack
+nearby enemies while healing allies within area.
+
+## POINTER 90
+Pyre Havoc
+
+## POINTER 91
+Altered Arte: Send enemy in the air and kick
+with a fire kick. Send aerial enemies flying.
+
+## POINTER 92
+Lone Wolf Storm
+
+## POINTER 93
+Altered Arte: Unleash the power of the wolf to
+send the enemy flying.
+
+## POINTER 94
+Frigid Blast
+
+## POINTER 95
+Altered Arte: Slash your sword in a circular motion
+then send forth a shot of ice from your fist.
+
+## POINTER 96
+Divine Wolf
+
+## POINTER 97
+Burst Arte: Slash in a quick, circular motion.
+No one can withstand the clashing sword.
+
+## POINTER 98
+Divine Wolf - Blaze
+
+## POINTER 100
+Divine Wolf - Crush
+
+## POINTER 102
+Divine Wolf - Storm
+
+## POINTER 104
+Divine Wolf - Flood
+
+## POINTER 106
+Savage Wolf Fury
+
+## POINTER 108
+Step Combo
+
+## POINTER 110
+Regular Attack - ○
+
+## POINTER 112
+Regular Attack - ↑○
+
+## POINTER 114
+Regular Attack - ←→○
+
+## POINTER 116
+Regular Attack - ↓○
+
+## POINTER 118
+Regular Attack - Jumping - ○
+
+## POINTER 120
+Regular Attack - Jumping - ↓○
+
+## POINTER 122
+Regular Secondary Attack - ○
+
+## POINTER 124
+Regular Secondary Attack - ↑○
+
+## POINTER 126
+Regular Secondary Attack - ←→○
+
+## POINTER 128
+Regular Secondary Attack - ↓○
+
+## POINTER 130
+Regular Secondary Attack - Jumping - ○
+
+## POINTER 132
+Regular Secondary Attack - Jumping - ↓○

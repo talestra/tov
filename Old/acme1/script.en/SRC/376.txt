@@ -1,0 +1,130 @@
+## POINTER 0
+<STR>(RIT)
+...
+
+## POINTER 1
+<STR>(YUR)
+Does it look like it'll be okay?
+
+## POINTER 2
+<STR>(RIT)
+Oh...well, it's pretty bad...
+
+## POINTER 3
+<STR>(YUR)
+Geez, this isn't usable at all...
+
+## POINTER 4
+<STR>(RIT)
+...Damn it! I can't believe 
+that <STR>(JUD) was...
+
+## POINTER 5
+<STR>(YUR)
+And all the time she was with us she 
+didn't destroy any blastia at all.
+
+## POINTER 6
+<STR>(RIT)
+Why was she with us 
+in the first place?<PAGE>That dragon...Ba'ul, 
+right?<PAGE>It attacked us back in 
+Heliord, didn't it?
+
+## POINTER 7
+<STR>(YUR)
+You've got a 
+good memory.
+
+## POINTER 8
+<STR>(RIT)
+That's not the sort of 
+thing I easily forget.<PAGE>Do you think they were going 
+after <STR>(EST_P) back then?
+
+## POINTER 9
+<STR>(RIT)
+Yes...she knew. She knew 
+about <STR>(EST_P)...
+
+## POINTER 10
+<STR>(RIT)
+You didn't already know 
+that she was that dragon-freak, 
+did you?
+
+## POINTER 11
+<STR>(YUR)
+...Yeah.
+
+## POINTER 12
+<STR>(RIT)
+Damn it, I can't believe you...!
+
+## POINTER 13
+<STR>(YUR)
+We all have our reasons 
+for what we've done. 
+<PAGE>You and <STR>(JUD) both…
+
+## POINTER 14
+<STR>(RIT)
+...You mean...
+
+## POINTER 15
+<STR>(YUR)
+And me too, of course.
+
+## POINTER 16
+<STR>(RIT)
+You mean Ragou and Cumore? Hmph, I don't 
+care much about what happened to them.
+
+## POINTER 17
+<STR>(YUR)
+<STR>(JUD_P) was a loyal member 
+of our party.<PAGE>That's how it looked to me, at least...
+
+## POINTER 18
+<STR>(RIT)
+Yeah, that's true, but...<PAGE>If she had just shared what she knew about the Child 
+of the Full Moon, and about the Entelexeia...<PAGE><STR>(EST_P)'s problems 
+might already have 
+been solved by now.
+
+## POINTER 19
+<STR>(YUR)
+It depends, doesn't it? 
+Phaeroh told her she was 
+poison, after all.
+
+## POINTER 20
+<STR>(RIT)
+...You know, it's possible 
+she knew where Phaeroh was 
+from the very beginning.
+
+## POINTER 21
+<STR>(YUR)
+...Yeah, maybe so.
+
+## POINTER 22
+<STR>(RIT)
+Either way, I'll never 
+forgive her for breaking 
+that blastia!
+
+## POINTER 23
+<STR>(YUR)
+Well then, if <STR>(JUD_P) comes 
+back, you can feel free 
+to beat her up.
+
+## POINTER 24
+<STR>(RIT)
+...She's not coming 
+back...
+
+## POINTER 25
+<STR>(YUR)
+Hmmm, I couldn't say.

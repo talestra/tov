@@ -1,0 +1,71 @@
+## POINTER 0
+<STR>(YUR)
+Hey old man, there's something 
+I've been wondering.
+
+## POINTER 1
+<STR>(RAV)
+What?
+
+## POINTER 2
+<STR>(YUR)
+How come the Royal 
+Guard is so loyal 
+to Alexei?
+
+## POINTER 3
+<STR>(RAV)
+Well, did you know that most of 
+the Imperial Knights are taken as 
+apprentices from the nobility?
+
+## POINTER 4
+<STR>(YUR)
+Yeah, I wish I could forget.
+
+## POINTER 5
+<STR>(RAV)
+Well, the Royal Guard protects the emperor, 
+and they're made up of the finest soldiers 
+in the Imperial Knights.
+
+## POINTER 6
+<STR>(RIT)
+Hasn't it been several years since 
+we've had an emperor, though?
+
+## POINTER 7
+<STR>(RAV)
+Exactly. In that time, the Commandant's 
+cleverly made those knights into 
+his own personal army.
+
+## POINTER 8
+<STR>(YUR)
+It doesn't seem like that'd be enough to turn 
+them into such little lapdogs, though.
+
+## POINTER 9
+<STR>(RAV)
+Well, the ideals he offered them were 
+attractive in their own ways.<PAGE>"Lead our empire to prosperity!" 
+and what have ya.
+
+## POINTER 10
+<STR>(JUD)
+I'll bet there were a lot of 
+idealists in their ranks.
+
+## POINTER 11
+<STR>(KAR)
+...Like <STR>(FRE), you mean?
+
+## POINTER 12
+<STR>(RAV)
+It'd be nice if all of them could've 
+figured out the truth on their 
+own like that one...
+
+## POINTER 13
+<STR>(EST_P)
+...

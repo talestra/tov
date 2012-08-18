@@ -1,0 +1,311 @@
+## POINTER 282
+Shield
+
+## POINTER 283
+Occasionally nullifies a physical attack.
+
+## POINTER 284
+Magic Shield
+
+## POINTER 285
+Occasionally nullifies a magic attack.
+
+## POINTER 286
+Aerial Armor
+
+## POINTER 287
+Avoids staggering when hit while jumping.
+
+## POINTER 288
+Mobile Armor
+
+## POINTER 289
+Avoid staggering when hit during Free Run.
+
+## POINTER 290
+Glory
+
+## POINTER 291
+Avoid staggering for any kind of attacks.
+
+## POINTER 292
+Escape Jump
+
+## POINTER 293
+Able to jump when cancelling guard.
+Becomes invincible for a short time.
+
+## POINTER 294
+Devotion
+
+## POINTER 295
+Receive half the damage of a nearby ally during battle.
+
+## POINTER 296
+Energy Coat
+
+## POINTER 297
+Reduces damage of a physical attack.
+Consumes TP for every hit received.
+
+## POINTER 298
+Spell Cancel
+
+## POINTER 299
+Press the guard button while casting
+to cancel the spell.
+
+## POINTER 300
+Shield Charge
+
+## POINTER 301
+Press the attack button at the right timing
+to repel attacks when defending with a shield.
+
+## POINTER 302
+TP Condition
+
+## POINTER 303
+Increases physical defense slightly
+when TP is more than 75% of the max amount.
+
+## POINTER 304
+TP Condition 2
+
+## POINTER 305
+Increases physical defense when TP is
+less than 25% of the max amount.
+
+## POINTER 306
+TP Condition 3
+
+## POINTER 307
+Increases magic defense slightly
+when TP is more than 75% of the max amount
+
+## POINTER 308
+TP Condition 4
+
+## POINTER 309
+Increases magic defense when TP is
+less than 25% of the max amount.
+
+## POINTER 310
+Crucible
+
+## POINTER 311
+Changes an arte. Arte can be learned if used repeatedly.
+
+## POINTER 312
+Athenor
+
+## POINTER 313
+Changes an arte. Arte can be learned if used repeatedly.
+
+## POINTER 314
+Guardian
+
+## POINTER 315
+Reduces damage taken by allies when they
+are guarding.
+
+## POINTER 316
+Survive
+
+## POINTER 317
+Cannot be KO’ed by any attacks while guarding.
+HP will always be at 1 while guarding.
+
+## POINTER 318
+Break Down
+
+## POINTER 319
+Hit a stunned enemy to extend Stun once.
+
+## POINTER 320
+Down Hit
+
+## POINTER 321
+Inflicts 1.2 times more damage when attacking
+an enemy that has been knocked down.
+
+## POINTER 322
+Heavy Weight
+
+## POINTER 323
+Body becomes heavy to prevent staggering.
+It also decreases speed.
+
+## POINTER 324
+Healing Arte Charge
+
+## POINTER 325
+Able to use charge attacks for healing artes
+only when Mighty Charge is set.
+
+## POINTER 326
+Elemental Effect
+
+## POINTER 327
+Weather and climate will have a greater
+effect on spells.
+
+## POINTER 328
+Heavy Arrow
+
+## POINTER 329
+Increases the effect of an arrow attack while the 
+interval decreases. Limited to normal attacks.
+
+## POINTER 330
+Power Shot
+
+## POINTER 331
+Increases enemy staggering time.
+
+## POINTER 332
+Heavy Energy
+
+## POINTER 333
+Raises physical defense when
+a heavy bow is equipped.
+
+## POINTER 334
+Spear Master
+
+## POINTER 335
+Increases magic defense when
+a spear is equipped.
+
+## POINTER 336
+Rod Master
+
+## POINTER 337
+Increases physical defense when
+a rod is equipped.
+
+## POINTER 338
+Evade
+
+## POINTER 339
+Increases agility by 5%.
+Increase due to equipment not affected.
+
+## POINTER 340
+Evade 2
+
+## POINTER 341
+Increases agility by 10%.
+Increase due to equipment not affected.
+
+## POINTER 342
+Evade 3
+
+## POINTER 343
+Increases agility by 15%.
+Increase due to equipment not affected.
+
+## POINTER 344
+Evade 4
+
+## POINTER 345
+Increases agility by 20%.
+Increase due to equipment not affected.
+
+## POINTER 346
+Item Thrower
+
+## POINTER 347
+Able to use items on an ally.
+
+## POINTER 348
+Item Pro
+
+## POINTER 349
+Decreases the amount of time character is unable
+to move after using items.
+
+## POINTER 350
+Speedy Item
+
+## POINTER 351
+Items can be used immediately in a row
+without cooldown time.
+
+## POINTER 352
+In Step
+
+## POINTER 353
+Increases the advancing distance during
+a Critical Guard.
+
+## POINTER 354
+Backstep
+
+## POINTER 355
+Press <06>(GUD) ＋ <06>(LTL) to Backstep.
+
+## POINTER 356
+Landing Step
+
+## POINTER 357
+Able to cancel action with a Backstep upon
+landing. Can also Backstep repeatedly.
+
+## POINTER 358
+Long Step
+
+## POINTER 359
+Increases the Backstep distance.
+
+## POINTER 360
+Step Cancel
+
+## POINTER 361
+Able to cancel actions with Backstep.
+
+## POINTER 362
+Recover
+
+## POINTER 363
+While staggering, prevent being knocked
+down by a hit with the guard button.
+
+## POINTER 364
+Recovery Artes
+
+## POINTER 365
+Able to move in mid-air after Recover.
+
+## POINTER 366
+Dash
+
+## POINTER 367
+Increases moving speed during battle.
+
+## POINTER 368
+Dash Cancel
+
+## POINTER 369
+Able to cancel actions with free run.
+
+## POINTER 370
+Quick Turn
+
+## POINTER 371
+Able to turn around instantly even when dashing.
+
+## POINTER 372
+Runners
+
+## POINTER 373
+Recovers HP gradually during free run.
+
+## POINTER 374
+Runners 2
+
+## POINTER 375
+Recovers TP gradually during free run.
+
+## POINTER 376
+Run

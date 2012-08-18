@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1295120863]
+<STR>(KAR)
+¡Mirad ahí!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1295120863]
+<STR>(YUR)
+¡Heracles! Veo que Alexei
+se ha traído la artillería pesada.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297634443]
+<STR>(JUD)
+Ese de ahí es Ástal,
+un entelechia.<PAGE>Parece que Alexei sigue
+intentando conseguir apátheia.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1295120863]
+<STR>(RIT)
+Pero parece que ha escapado.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1295120863]
+<STR>(YUR)
+Ya, parece que le ha obligado
+a retirarse a esas ruinas.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1295120863]
+<STR>(JUD)
+Tienen toda la pinta de
+ser el templo de Baction.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1295120863]
+<STR>(KAR)
+¿Qué estará tramando
+Alexei esta vez?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1295120863]
+<STR>(RIT)
+Eso no importa.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1295120863]
+<STR>(YUR)
+Exacto. Hemos venido
+a salvar a <STR>(EST_P).

@@ -1,0 +1,81 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+Las aguas termales son «la jeche»
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(YUR)
+¡Sí que nos hemos partido el espinazo ahí!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192228]
+(RIT)
+¡No puedo creer que (EST_P) 
+se metiera tanto en el papel!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(KAR)
+Mira quién habla, (RIT). 
+¡Tú lo estabas gozando!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(KAR)
+No parabas de mirarte en el espejo
+una y otra vez...
+Te gusta ese traje y lo sabes.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(RIT)
+¡C-Cierra el pico!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(RIT)
+¡N-No sé de qué me hablas!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266856536]
+(RAV)
+¡Estás mu mona cuando te sonrojas!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192262]
+(RIT)
+¡Ja!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192228]
+(RAV)
+Gagh, agh...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(JUD)
+Ha venido muy bien bañarse al aire libre
+después de haber sudado tanto trabajando.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192228]
+(EST_P)
+Me encanta este modo de vida.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192228]
+(EST_P)
+¡Es divertidísimo que nos podamos relajar
+juntos en unas aguas termales al aire libre!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(RAV)
+G-Gagh... J-Ji... As aguaj
+termajej jon... la jeche...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(YUR)
+¿«La jeche»?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(EST_P)
+¿«La jeche»?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(KAR)
+¿«La jeche»?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(RIT)
+¿«La jeche»?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141344]
+(JUD)
+¿«La jeche»?

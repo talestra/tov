@@ -1,0 +1,124 @@
+## POINTER 0
+<STR>(YUR)
+What the... There 
+are Krityans here?
+
+## POINTER 1
+<STR>(JUD)
+I wonder what they're doing 
+in a place like this?
+
+## POINTER 2
+
+Hey, it's you.<PAGE>We heard that Myorzo's days of floating in 
+the sky might soon be over, so we've been 
+scoping out places to live on the surface.
+
+## POINTER 3
+<STR>(KAR)
+You're already planning a new place to live...?
+
+## POINTER 4
+<STR>(JUD)
+I don't think you need 
+to rush or anything.<PAGE>After all, Krones still hasn't made the decision 
+whether or not to turn into an elemental spirit.<PAGE>And our goal was to gather 
+together the Four Elementals, 
+which we're already done.
+
+## POINTER 5
+
+I see...what should 
+we do, then?
+
+## POINTER 6
+<STR>(JUD)
+I think you have to figure 
+that out for yourself.<PAGE>But perhaps it would be a good 
+idea to use the knowledge of the 
+Kritya to help people in need?
+
+## POINTER 7
+
+Hmmm...that sounds hard.
+
+## POINTER 8
+<STR>(YUR)
+I don't think it does at all...
+
+## POINTER 9
+
+I don't suppose something like this 
+would be of much use to anyone...
+
+## POINTER 10
+
+There's no way anyone would be able to 
+use an arcane spear arte like this...
+
+## POINTER 11
+<STR>(JUD)
+Could I see that?
+
+## POINTER 12
+<STR>(YUR)
+For a race that's mostly pacifists, the 
+Kritya certainly have a lot of artifacts 
+related to fighting, don't they?
+
+## POINTER 13
+
+It's possible that our people came 
+up with them back when we fought the 
+Adephagos, a thousand years ago.<PAGE>There are many artes that our own people do 
+not use...perhaps we only worked out the 
+theory, but never put them into practice.
+
+## POINTER 14
+
+Wow, amazing. For 
+a Krityan, you are 
+very skilled.
+
+## POINTER 15
+<STR>(JUD)
+...I think this could come in handy.
+
+## POINTER 16
+
+I see. We cannot lend you our force in battle, 
+so we shall lend you our wisdom.<PAGE>We're happy to do whatever we can if it will help you in your quest.
+
+## POINTER 17
+<STR>(JUD)
+Thank you. Keep 
+up the good work.
+
+## POINTER 18
+<STR>(YUR)
+Hey...that strike arte that you did just now was really...
+
+## POINTER 19
+<STR>(JUD)
+...Basic? Yes, I was just beating 
+my spear hard against the ground.<PAGE>There's a trick to it, but it's 
+not really that hard to do.
+
+## POINTER 20
+<STR>(YUR)
+It looks like they never tried 
+to do it themselves.
+
+## POINTER 21
+<STR>(JUD)
+The Krityan people could do things 
+like this if they tried.<PAGE>Then they'd discover all sorts of new 
+abilities they didn't know they had.
+
+## POINTER 22
+<STR>(YUR)
+Like you, <STR>(JUD)?
+
+## POINTER 23
+<STR>(JUD)
+Hee hee. Exactly!

@@ -1,0 +1,138 @@
+## POINTER 0
+<STR>(YUR)
+You did this one too, 
+didn't you, <STR>(JUD_P)?
+
+## POINTER 1
+<STR>(JUD)
+Yep, that's right.
+
+## POINTER 2
+<STR>(RIT)
+Hey <STR>(JUD)...the reason you were destroying 
+the hermes blastia was because they 
+were a danger to the planet, right?
+
+## POINTER 3
+<STR>(JUD)
+That's right.
+
+## POINTER 4
+<STR>(RIT)
+So in other words, you did it 
+to save the world from harm?
+
+## POINTER 5
+<STR>(JUD)
+I don't mind if you 
+think of it that way.
+
+## POINTER 6
+<STR>(RIT)
+...Something about that just 
+doesn't make sense to me.<PAGE>Why not just take down that Hermes 
+guy who was making the blastia?<PAGE>Either that, or tell a mage 
+about it, or something...
+
+## POINTER 7
+<STR>(JUD)
+...I was putting my life on the line to put 
+a stop to rogue blastia that were causing 
+strange effects on the world's aer...<PAGE>No one would believe a 
+crazy story like that.
+
+## POINTER 8
+<STR>(RIT)
+! If you had only told me...!
+
+## POINTER 9
+<STR>(JUD)
+You think you could have done something about 
+all of the hermes blastia in the world, when 
+you don't even know how many there are?<PAGE>I'm sure that you may have been 
+able to stop one or two of 
+them, with enough trying.<PAGE>But you would surely die before you had 
+managed to take care of all of them.
+
+## POINTER 10
+<STR>(RIT)
+......
+
+## POINTER 11
+<STR>(YUR)
+Since you were with Ba'ul, there was something you 
+could do about the blastia going out of control.<PAGE>Is that what you mean, <STR>(JUD_P)?
+
+## POINTER 12
+<STR>(JUD)
+I don't have any way of making adjustments to 
+the blastia, so destroying it was the only way 
+I could make sure it wouldn't be a problem.
+
+## POINTER 13
+<STR>(RIT)
+But...
+
+## POINTER 14
+<STR>(JUD)
+You think we might be able to go by Aspio 
+the next time we get some free time?
+
+## POINTER 15
+<STR>(RIT)
+Why bring that up all of the sudden?
+
+## POINTER 16
+<STR>(JUD)
+It's about the hermes blastia. 
+There's something I'd like 
+to investigate a bit.
+
+## POINTER 17
+<STR>(RIT)
+...But you see...
+
+## POINTER 18
+<STR>(YUR)
+Yeah, you'd like to go back 
+home, wouldn't you, <STR>(RIT)?
+
+## POINTER 19
+<STR>(RIT)
+Not particularly...
+
+## POINTER 20
+<STR>(YUR)
+All right, let's stop by there 
+when we have some time.
+
+## POINTER 21
+<STR>(JUD)
+The city of Aspio's pretty 
+much gone now, isn't it?
+
+## POINTER 22
+<STR>(RIT)
+Why bring that up all of the sudden?
+
+## POINTER 23
+<STR>(JUD)
+There were several things 
+I wanted to investigate regarding 
+the hermes blastia.
+
+## POINTER 24
+<STR>(RIT)
+...Most of the city's books and other 
+resources were probably taken out 
+of the city by the refugee mages.
+
+## POINTER 25
+<STR>(YUR)
+So then, if we find the mages that 
+fled from Aspio, <STR>(JUD_P) might be able 
+to investigate what she wants to.
+
+## POINTER 26
+<STR>(RIT)
+Right.

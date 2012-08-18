@@ -1,0 +1,43 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1251727909]
+La Ciudad de los Gremios, Dahngrest
+
+## POINTER 1 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020511]
+(EST_P)
+Dahngrest tiene un ambiente muy diferente
+al de la capital, ¿no os parece?
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020511]
+(EST_P)
+Parece una ciudad muy enérgica.
+¡Todo el mundo está lleno de vida!
+
+## POINTER 3 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020511]
+(KAR)
+¡Pues claro! Es la ciudad de gremios más grande.
+Todos viven de acuerdo con sus propios principios.
+
+## POINTER 4 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020511]
+(KAR)
+¿Te gusta Dahngrest, (EST_P)?
+
+## POINTER 5 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020511]
+(EST_P)
+Sí, creo que es encantadora.
+
+## POINTER 6 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020511]
+(KAR)
+¿Qué hay de ti, (YUR)?
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267317433]
+(YUR)
+Mmmm... Creo que sería una grandiosa ciudad
+si la barrera no hiciera de las suyas.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297113517]
+(KAR)
+¿Quieres dejar eso ya, (YUR)?
+
+## POINTER 9 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020511]
+(YUR)
+¡Es broma! La ciudad no está tan mal.
+Me recuerda un poco a los barrios bajos.

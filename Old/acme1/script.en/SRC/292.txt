@@ -1,0 +1,47 @@
+## POINTER 0
+<STR>(RIT)
+Aaah!
+
+## POINTER 1
+<STR>(EST_P)
+Aaah!
+
+## POINTER 2
+<STR>(KAR)
+Waaahh!!
+
+## POINTER 3
+<STR>(RAV)
+Whoooaaa...!!
+
+## POINTER 4
+<STR>(YUR)
+It's no good. It won't open.
+
+## POINTER 5
+<STR>(RAV)
+*Huff* This is why I 
+didn't wanna come!<PAGE>...I guess we just gotta keep movin'.
+
+## POINTER 6
+<STR>(EST_P)
+It looks like... We have no 
+choice but to keep moving...
+
+## POINTER 7
+<STR>(JUD)
+All right, let's keep moving, then.<PAGE>There's no use sticking around here.
+
+## POINTER 8
+<STR>(RIT)
+H-Hurry!
+Let's keep on moving...
+
+## POINTER 9
+<STR>(YUR)
+Yep. Let's go.
+
+## POINTER 10
+<STR>(YUR)
+I wonder if everyone we 
+left behind is okay...?

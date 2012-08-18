@@ -1,0 +1,141 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS18_058)...Come in.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS18_059)Glad to see you're awake.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS18_060)...And after I told her over and over 
+to call me before she collapses.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS18_061)You didn't think she'd really 
+listen to you, did you?
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS18_062)Uuh...
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS18_063)...Heh, she looks happy.
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS18_064)Hey so...what do 
+you think <STR>(EST) 
+thinks of me?
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS18_065)Why are you making that face?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS18_066)I just didn't think you were 
+the kind of person who cared 
+what other people thought.
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS18_067)F-forget it. 
+You can go now.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS18_068)Compared to those formulas 
+of yours, she should be easy 
+to figure out.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS18_069)Uuh... Huh? <STR>(RIT)! 
+You're awake!<PAGE><VOICE>(VS18_070)But be careful! It's just when 
+you think you've recovered 
+that you're in the most danger.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS18_071)It's all right, I'm fine.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS18_072)Also, you don't need to pretend to 
+be using that blastia anymore.
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS18_073)I... What do you mean?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS18_074)It's pretty cool that you can use 
+healing artes without a blastia.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS18_075)B-but how did you...?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS18_076)What the?
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS18_077)Hey, it's that dragon freak!
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS18_078)<STR>(RIT), are you all right?
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS18_079)Don't you ever learn...?
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS18_080)It sounds like the sky's falling 
+in here. What's going on? 
+...Huh? Aaaah!
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS18_081)W-What was that thing?
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS18_082)Just when the conversation 
+was getting interesting.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS18_083)That's enough talk about <STR>(EST_P)'s 
+healing artes for now.
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS18_084)Fine by me. I've pretty much 
+figured it out, anyway.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS18_085)Don't look at me like that. 
+Do I really look like that 
+much of a bad guy to you?
+
+## POINTER 27
+<STR>(RIT)
+<VOICE>(VS18_086)Yes.
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS18_087)...Heh heh heh.
+
+## POINTER 29
+<STR>(KAR)
+<VOICE>(VS18_088)...Hey wait. What's going on 
+you guys? Come on, tell me!

@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:evilluendas;time:1251843996]
+Nada de lo que preocuparse
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303371]
+(EST_P)
+Mmm... Si ese techo se hubiera hundido,
+nos habría enterrado vivos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298116113]
+(KAR)
+¡¿P-Por qué dices esas cosas,
+(EST_P)?! ¿Qué pasaría si hubiera
+ocurrido de verdad?
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303371]
+(RIT)
+Vamos, no seas tan llorica.
+Estas ruinas están hechas de 
+una pasta más dura que eso.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298116113]
+(KAR)
+¡¡Aaah!! ¡(EST_P), ahora el techo
+se va a hundir por haberlo dicho!
+... ¿Eh?
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303371]
+(YUR)
+Oh, perdona. Le he pegado
+una patada sin querer a 
+una piedra.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298116113]
+(RIT)
+Lo has hecho adrede, ¿verdad?
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303371]
+(EST_P)
+(YUR)... Eres malo...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298116113]
+(KAR)
+¡V-Vamos, terminemos rápido
+lo que estábamos haciendo y
+salgamos cuanto antes de aquí!

@@ -1,0 +1,56 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS45_001)There it is! 
+It's the capital! 
+...Huh?
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VS45_002)Whoa! No more barrier.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS45_003)I wonder if this is 
+Alexei's doing, too.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS45_004)Ready to go in?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS45_005)Take us there.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS45_006)<STR>(EST_P), where could you be?
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS45_007)Where do we even start 
+looking in a city this big...?
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS45_008)We follow the aer flow.<PAGE><VOICE>(VS45_009)If Alexei is using <STR>(EST_P) 
+and apatheia in his plans...<PAGE><VOICE>(VS45_010)It has to cause a disturbance in the aer.<PAGE><VOICE>(VS45_011)Ba'ul!
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS45_012)...He found it.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS45_013)There!
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS45_014)<STR>(EST_P)!
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS45_015)And Alexei's right there with her.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS45_016)<STR>(JUD_P), take us closer!

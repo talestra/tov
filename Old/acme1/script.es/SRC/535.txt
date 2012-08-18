@@ -1,0 +1,120 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156488]
+<STR>(FRE)
+<VOICE>(VS61_001)
+¡Detenedlos! ¡Mostradles de lo
+que es capaz un Caballero Imperial!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156488]
+Adecor
+<VOICE>(VS61_002)Proclamo, nos ha llegado la hora. 
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280406178]
+Boccos
+<VOICE>(VS61_003)Es el fin...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156488]
+Leblanc
+<VOICE>(VS61_004)¡Idiotas! ¡Basta
+ya de lamentarse! <PAGE><VOICE>(VS61_005)¡Uah!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280406178]
+<STR>(FRE)
+<VOICE>(VS61_006)¡Maldita sea!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280406178]
+<STR>(YUR)
+<VOICE>(VS61_007)¿Estás vivo?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280406178]
+<STR>(FRE)
+<VOICE>(VS61_008)¡<STR>(YUR)! ¡¿Qué haces aquí?!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1287474170]
+<STR>(YUR)
+<VOICE>(VS61_009)Tu segunda al mando, que se preocupa mucho por ti. 
+
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156488]
+<STR>(FRE)
+<VOICE>(VS61_010)¡¿Sodia?! Eh...<PAGE><VOICE>(VS61_011)Pero nuestra situación actual
+es bastante mala. No podremos
+aguantar por mucho más tiempo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1287474170]
+<STR>(RAV)
+<VOICE>(VS61_012)Nos hemos traío una cosilla que no veas.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1287474170]
+<STR>(FRE)
+<VOICE>(VS61_013)¿Cómo?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280841091]
+<STR>(YUR)
+<VOICE>(VS61_014)Enciende esto cuando estés
+entre los monstruos...<PAGE><VOICE>(VS61_015)¡Ahí sabrás lo que es una explosión!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280841091]
+<STR>(FRE)
+<VOICE>(VS61_016)Entre los monstruos... 
+Hay demasiados como para conseguirlo. 
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280841091]
+<STR>(YUR)
+<VOICE>(VS61_017)¡Venga, que somos nosotros!
+Esto no es nada. 
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280841091]
+<STR>(RAP)
+<VOICE>(VS61_018)¡Guau!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156488]
+<STR>(FRE)
+<VOICE>(VS61_019)Je... De acuerdo. 
+¡Vamos!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156488]
+<STR>(YUR)
+<VOICE>(VS61_020)¡Eh! Vamos a poner
+en marcha este chisme.<PAGE><VOICE>(VS61_021)¡Seguid a lo vuestro!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280841091]
+<STR>(RIT)
+<VOICE>(VS61_022)¿Vosotros solos?
+¿Sois idiotas?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156488]
+<STR>(FRE)
+<VOICE>(VS61_023)No podemos dejar
+esta zona desprotegida.<PAGE><VOICE>(VS61_024)Si no podemos defender este lugar,
+perderemos la única razón por la
+que luchamos contra los monstruos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156488]
+<STR>(KAR)
+<VOICE>(VS61_025)No hacemos esto para derrotar a los monstruos.
+Lo hacemos para proteger a la gente.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280841091]
+<STR>(RAV)
+<VOICE>(VS61_026)Es verdad. 
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156488]
+<STR>(EST_P)
+<VOICE>(VS61_027)Entendido.
+¡Nosotros nos ocupamos!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280841091]
+<STR>(JUD)
+<VOICE>(VS61_028)Tened cuidado.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280841091]
+<STR>(YUR)
+<VOICE>(VS61_029)¡Vamos!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280841091]
+<STR>(FRE)
+<VOICE>(VS61_030)¡Sí!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Dagorat;time:1280841091]
+<STR>(RAP)
+<VOICE>(VS61_031)¡Guau!

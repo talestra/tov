@@ -1,0 +1,525 @@
+## POINTER 4000 [t:1;r:1;ru:memnoch;user:memnoch;time:1303424390]
+Tengo órdenes de proteger tanto
+la capital como a sus ciudadanos. <PAGE>Pase lo que pase
+ahí fuera, tengo que
+cumplir con mi deber.
+
+## POINTER 4001 [t:1;r:1;ru:memnoch;user:memnoch;time:1303424390]
+Espero que aquellos que se fueron de
+la ciudad puedan enfrentarse a lo que
+está pasando fuera, sea lo que sea.
+
+## POINTER 4002 [t:1;r:1;ru:memnoch;user:Lia;time:1302767655]
+Ya me vale... Qué
+mala pata que tengo.<PAGE>No me puedo creer
+que tenga que vigilar
+los barrios bajos...
+
+## POINTER 4003 [t:1;r:1;ru:memnoch;user:memnoch;time:1303424390]
+Los barrios bajos
+están más allá
+de las murallas.<PAGE>Ya es mala suerte.
+Es el peor sitio
+para luchar.
+
+## POINTER 4004 [t:1;r:1;ru:memnoch;user:Lia;time:1302768226]
+<STR>(FRE) nos ayudó
+a evacuar a muchos
+residentes de la ciudad.<PAGE>Aunque la mayoría de la gente
+de los barrios bajos se quedó.
+Dijeron que jamás se irían.
+
+## POINTER 4005 [t:1;r:1;ru:memnoch;user:memnoch;time:1303424390]
+<STR>(FRE) nos pidió que cuidásemos
+de los barrios bajos, así que
+imagino que tiene pensado volver.
+
+## POINTER 4006 [t:1;r:1;ru:memnoch;user:memnoch;time:1303424390]
+Vale, ya paso.
+Paso de todo.<PAGE>Sin la barrera...
+todo ha terminado.
+No hay nada que hacer.
+
+## POINTER 4007 [t:1;r:1;ru:memnoch;user:memnoch;time:1303424390]
+¿Luchar contra
+los monstruos? ¿Yo? <PAGE>¡Anda ya! Buf.
+¡Ni de broma
+haría algo así!
+
+## POINTER 4008 [t:1;r:1;ru:memnoch;user:memnoch;time:1303424513]
+¡Aaaah! ¡Ya está!
+¡Esto es el fin!<PAGE>¡Ni siquiera los Caballeros
+pueden contra esa cosa!
+
+## POINTER 4009 [t:1;r:1;ru:memnoch;user:memnoch;time:1298057438]
+¡Ese monstruo se
+nos va a merendar!
+
+## POINTER 4010 [t:1;r:1;ru:memnoch;user:memnoch;time:1303352744]
+Una pregunta, ¿los
+Caballeros son malos?
+
+## POINTER 4011 [t:1;r:1;ru:memnoch;user:memnoch;time:1303426630]
+Todo el mundo dice que la
+capital se ha desmadrado
+por culpa de Alexei.<PAGE>Menudo chasco...
+
+## POINTER 4012 [t:1;r:1;ru:memnoch;user:memnoch;time:1303426630]
+¿Has oído hablar de la nueva
+ciudad que ha fundado el
+capitán <STR>(FRE) en Hypionia?<PAGE>Quiero vivir allí...
+
+## POINTER 4013 [t:1;r:1;ru:memnoch;user:memnoch;time:1303426630]
+¡Voy a ir a la nueva ciudad
+a que el capitán <STR>(FRE)
+me enseñe a usar la espada!<PAGE>¡Seré un Caballero,
+igual que él!
+
+## POINTER 4014 [t:1;r:1;ru:memnoch;user:memnoch;time:1303426630]
+¡Toda la brigada del capitán
+<STR>(FRE) se ha largado!<PAGE>¿Por qué tenemos que trabajar
+nosotros en la capital?
+
+## POINTER 4015 [t:1;r:1;ru:memnoch;user:memnoch;time:1303426630]
+¡Si no nos damos prisa, moriremos!
+¡Tenemos que abandonar Zaphias!
+
+## POINTER 4016 [t:1;r:1;ru:memnoch;user:memnoch;time:1303426630]
+Lo de la barrera es
+una chapuza temporal.<PAGE>Es cuestión de tiempo
+que falle otra vez y los
+monstruos nos ataquen.
+
+## POINTER 4017 [t:1;r:1;ru:memnoch;user:memnoch;time:1303426630]
+¡Todo ha terminad, todo!
+¡La capital! ¡Mi vida! Oooh...<PAGE>¿Por qué me
+hice Caballero?
+
+## POINTER 4018 [t:1;r:1;ru:memnoch;user:memnoch;time:1298057438]
+¡Guau, guau!
+
+## POINTER 4019 [t:1;r:1;ru:memnoch;user:memnoch;time:1298057438]
+¡Auuuu!
+
+## POINTER 4020 [t:1;r:1;ru:memnoch;user:memnoch;time:1298057438]
+¡Miau!
+
+## POINTER 4021 [t:1;r:1;ru:memnoch;user:memnoch;time:1298057438]
+¡Miau! ∀
+
+## POINTER 4022 [t:1;r:1;ru:memnoch;user:memnoch;time:1298057438]
+Miaaauuuu, miaaauuu.
+
+## POINTER 4023 [t:1;r:1;ru:memnoch;user:memnoch;time:1298057438]
+¡¡GUAU, GUAU!!
+
+## POINTER 4024 [t:1;r:1;ru:memnoch;user:kaene;time:1303057382]
+Tus amigos y tú os
+encargasteis del cielo
+ese raro, ¿a que sí, <STR>(YUR)?<PAGE>¡Ahora podemos salir a jugar!
+Gracias. Je, je. ♪
+
+## POINTER 4025 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427598]
+¿Te vas otra
+vez, <STR>(YUR)?<PAGE>¡Todos vamos a darlo todo para
+que la ciudad vuelva a estar como
+siempre, así que vuelve pronto!
+
+## POINTER 4026 [t:1;r:1;ru:memnoch;user:Lia;time:1302777340]
+<STR>(YUR),
+¿estás triste?
+
+## POINTER 4027 [t:1;r:1;ru:memnoch;user:Lia;time:1302777340]
+No tengo ni una pizca
+de miedo. Sé que te
+encargarás de esto, <STR>(YUR).
+
+## POINTER 4028 [t:1;r:1;ru:memnoch;user:memnoch;time:1304529182]
+Me han dicho que <STR>(FRE)
+ha fundado una nueva ciudad.
+Pero ¿a que tú no vas, <STR>(YUR)?<PAGE>Al fin y al cabo, este es tu hogar.
+
+## POINTER 4029 [t:1;r:1;ru:memnoch;user:Lia;time:1302777738]
+Este es tu hogar, <STR>(YUR). 
+¡Siempre te tendré preparado
+algo rico y calentito!
+
+## POINTER 4030 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+¡Hay sintavisos
+por todo el mundo!<PAGE>Si buscas alguno, recuerda
+que normalmente andamos
+por las tiendas.
+
+## POINTER 4031 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+La tecnología de síntesis avanza
+con el tiempo. Pregunta de vez en
+cuando para conocer las novedades.
+
+## POINTER 4032 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+Parece que mi hermanita
+ya se ha acostumbrado
+a esa cosa.<PAGE>Todos los adultos siguen
+preocupados, pero los niños
+nos adaptamos muy rápido.
+
+## POINTER 4033 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+Yo todavía tengo miedo...
+Aunque aún soy un niño.
+
+## POINTER 4034 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+¡Soy un sintaviso! ¡Te
+avisaré cuando haya objetos
+nuevos que puedas sintetizar!<PAGE>Ven a hablar conmigo
+cuando quieras. ¿Quién
+sabe lo que podrás crear?
+
+## POINTER 4035 [t:1;r:1;ru:memnoch;user:kaene;time:1302798763]
+¡Hay sintavisos por todo el mundo!
+Si buscas alguno, recuerda que
+normalmente andamos por las tiendas.
+
+## POINTER 4036 [t:1;r:1;ru:memnoch;user:kaene;time:1302798763]
+¡Hay sintavisos por todo el mundo!
+Si buscas alguno, recuerda que
+normalmente andamos por las tiendas.
+
+## POINTER 4037 [t:1;r:1;ru:memnoch;user:memnoch;time:1304641942]
+Detrás de la cordillera que
+hay al oeste, se encuentra
+un oasis llamado Mantaic.<PAGE>Es como una joya en mitad del desierto,
+con vegetación y un gran lago azul.
+Por eso lo llaman oasis. *¡Hip!*
+
+## POINTER 4038 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+Aunque hace muchísimo calor,
+y hay que cruzar una cordillera
+traicionera para llegar allí.
+
+## POINTER 4039 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+Los caballeros más viejos que quieren
+llegar a lo más alto, deben mantener
+la calma en estas situaciones...<PAGE>¡Y acabar con el monstruo
+de una estocada!
+
+## POINTER 4040 [t:1;r:1;ru:memnoch;user:kaene;time:1302798892]
+¡Hay sintavisos por todo el mundo!
+Si buscas alguno, recuerda que
+normalmente andamos por las tiendas.
+
+## POINTER 4041 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+Creo que existe demanda de
+información sobre síntesis.
+Por eso lo he empezado.
+
+## POINTER 4042 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+No hay tanta vigilancia en el distrito
+real porque es relativamente más seguro.<PAGE>Se atacaría primero a los barrios
+bajos y al distrito público. Todo
+el mundo está vigilando esas zonas.
+
+## POINTER 4043 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+Claro que los nobles están
+molestos porque dicen que
+no los estamos protegiendo.<PAGE>Por eso odio hacer guardia
+en el distrito real... Es más
+fácil lidiar con monstruos.
+
+## POINTER 4044 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+Este puesto va más de
+escuchar a los nobles
+quejarse que de seguridad.<PAGE>No lo aguanto más.
+Me va a dar algo...
+
+## POINTER 4045 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+Y el casco da tanto calor que
+a pleno sol es para morirse.
+Así no hay quien descanse.
+
+## POINTER 4046 [t:1;r:1;ru:memnoch;user:memnoch;time:1303428527]
+¡Oye! Tú eres <STR>(YUR),
+el amigo del comandante
+interino <STR>(FRE), ¿no?<PAGE>Oh, no te preocupes por
+eso de «solo nobles».
+¡Adelante!
+
+## POINTER 4047 [t:1;r:1;ru:memnoch;user:kaene;time:1302799437]
+Esta salida es solo para nobles,
+¡pero tú has salvado Zaphias!<PAGE>Puedo hacer una excepción
+contigo, <STR>(YUR).
+
+## POINTER 4048 [t:1;r:1;ru:memnoch;user:memnoch;time:1303428527]
+Estamos aquí para mantener la seguridad
+mientras se establece el nuevo mando
+tras la muerte de la adalid Belius.
+
+## POINTER 4049 [t:1;r:1;ru:memnoch;user:memnoch;time:1303428527]
+No tenemos intención de
+quedarnos, ni controlar
+esta ciudad.<PAGE>Puedes estar tranquilo.
+
+## POINTER 4050 [t:1;r:1;ru:memnoch;user:kaene;time:1302799730]
+Esa cosa será el enemigo más
+fiero al que los Caballeros
+nos hayamos enfrentado jamás.<PAGE>Es muy probable que nos
+toque a nosotros acabar
+con ese monstruo gigante.
+
+## POINTER 4051 [t:1;r:1;ru:memnoch;user:kaene;time:1302799730]
+Claro que nuestra máxima
+prioridad sigue siendo la
+seguridad de la ciudad.<PAGE>Ya es mala suerte.
+
+## POINTER 4052 [t:1;r:1;ru:memnoch;user:memnoch;time:1303428527]
+Mi mujer y mi hijo
+están en Zaphias.<PAGE>Estoy muy preocupado por ellos, pero...<PAGE>No. Debo cumplir mi deber
+y proteger esta ciudad.
+
+## POINTER 4053 [t:1;r:1;ru:memnoch;user:memnoch;time:1303427565]
+Cumplir la misión asignada
+es el cometido principal
+de un Caballero.
+
+## POINTER 4054 [t:1;r:1;ru:memnoch;user:memnoch;time:1298057438]
+¡Miau! ¡Miau! ¡Miau! ∀
+
+## POINTER 4055 [t:1;r:1;ru:memnoch;user:memnoch;time:1298057438]
+¡Miau! ¡Miau! ♪
+
+## POINTER 4056 [t:1;r:1;ru:memnoch;user:memnoch;time:1304641816]
+Dicen que Mantaic antes era independiente,
+tanto del Imperio como de los gremios.<PAGE>Pero por culpa del horrible mandato de
+uno de sus magistrados, los Caballeros
+ahora tienen jurisdicción allí. *¡Hip!*
+
+## POINTER 4057 [t:1;r:1;ru:memnoch;user:memnoch;time:1303428527]
+Teniendo a los Caballeros aquí,
+en Nordopólica, puedo comprender
+la situación que vive Mantaic.<PAGE>Me puedo poner en su lugar.
+
+## POINTER 4058 [t:1;r:1;ru:memnoch;user:memnoch;time:1303428527]
+Aparecen los Caballeros,
+la adalid Belius muere,
+se escapan los monstruos...<PAGE>Y ahora hay un campeón invicto.
+Esta ciudad se ha vuelto loca.
+
+## POINTER 4059 [t:1;r:1;ru:memnoch;user:memnoch;time:1304641816]
+Aah... Ojalá se vayan ya... *¡Hip!*
+
+## POINTER 4060 [t:1;r:1;ru:memnoch;user:memnoch;time:1304641816]
+Juro que vi un bicho gigante
+que andaba por encima del
+océano como si tal cosa.<PAGE>Supongo que lo soñé, pero
+parecía tan real... *¡Hip!*
+
+## POINTER 4061 [t:1;r:1;ru:memnoch;user:memnoch;time:1304641816]
+Un bicho... Sí, era un bicho.
+Como un escarabajo gigante.<PAGE>Un escarabajo en el mar...
+¡Je! Qué locura. *¡Hip!*
+
+## POINTER 4062 [t:1;r:1;ru:memnoch;user:memnoch;time:1304641816]
+Al principio no me di cuenta
+por culpa de la armadura, ¡pero
+los Caballeros son muy jóvenes!<PAGE>Sin la armadura no parecen más
+mayores que mi chaval, que se
+entrena en Dahngrest. *¡Hip!*
+
+## POINTER 4063 [t:1;r:1;ru:memnoch;user:memnoch;time:1304641816]
+*Suspiro* Ahora estoy
+pensando en mi hijo.<PAGE>Todos esos jóvenes Caballeros
+deben tener madres que los
+esperan como yo... *¡Hip!*
+
+## POINTER 4064 [t:1;r:1;ru:memnoch;user:memnoch;time:1304641816]
+¡Qué susto me dio ese monstruo!
+Pero tenemos a Palestrale, ¿verdad?<PAGE>¿Qué? ¿Los Caballeros? No...
+¡Si están todos asustados! *¡Hip!*
+
+## POINTER 4065 [t:1;r:1;ru:memnoch;user:memnoch;time:1304641816]
+No pueden confiar en los Caballeros.
+El gremio debería protegerlos. *Hip*
+
+## POINTER 4066 [t:1;r:1;ru:memnoch;user:memnoch;time:1304641816]
+Todos esos caballeretes
+echan de menos la comida
+casera, te lo digo yo.<PAGE>El otro día les llevé unas bolas de arroz
+y sopa de miso, ¡y deberías haber visto
+lo rápido que se lo comieron! *¡Hip!*
+
+## POINTER 4067 [t:1;r:1;ru:memnoch;user:memnoch;time:1304641816]
+Se agradece que alguien
+aprecie tus platos.<PAGE>Quizás la próxima vez les haga
+una tarta de melocotón. *¡Hip!*
+
+## POINTER 4068 [t:1;r:1;ru:memnoch;user:memnoch;time:1303429776]
+¡Los caballeros más viejos que quieren
+llegar a lo más alto, evitan revelar
+sus melodiosas voces demasiado pronto!<PAGE>
+¡En lugar de eso, rugen como bestias al luchar,
+pero al final lanzan un poderoso y a la vez bello
+grito de victoria! ¡Las chicas se vuelven locas!
+
+## POINTER 4069 [t:1;r:1;ru:memnoch;user:memnoch;time:1303429776]
+¡Los caballeros más viejos que
+quieren llegar a lo más alto, pasan
+desapercibidos y viven en la sombra!<PAGE>¡Solo nos descubrimos si nuestro amor verdadero
+está en apuros, la ayudamos en un abrir y cerrar
+de ojos, y nos marchamos como la brisa del viento!
+
+## POINTER 4070 [t:1;r:1;ru:memnoch;user:memnoch;time:1303429776]
+¡Los caballeros más viejos que
+quieren llegar a lo más alto,
+no sucumben a la tristeza!<PAGE>
+¡Nos tomamos todo con una sonrisa, luchamos para
+ganar, derramamos lágrimas viriles de victoria
+y nos adueñamos del corazón de las damas!
+
+## POINTER 4071 [t:1;r:1;ru:memnoch;user:memnoch;time:1303429776]
+¡Los caballeros más viejos que quieren llegar
+a lo más alto, nunca niegan la fuerza de sus
+oponentes, pero tampoco niegan sus debilidades!<PAGE>¡Aceptamos la realidad tal y como es,
+luchando para mejorar cada día más!
+
+## POINTER 4072 [t:1;r:1;ru:memnoch;user:memnoch;time:1303429776]
+¡Los caballeros más viejos que quieren llegar
+a lo más alto, se preocupan de sí mismos en
+último lugar y rescatan primero a los demás!<PAGE>¡Cuidamos de nosotros mismos mientras
+resolvemos las crisis de los demás!
+
+## POINTER 4073 [t:1;r:1;ru:memnoch;user:memnoch;time:1298057438]
+¡¿Qué?!
+¿La barrera...?<PAGE>Qué raro.
+
+## POINTER 4074 [t:1;r:1;ru:memnoch;user:kaene;time:1302801148]
+Lo estaba vigilando
+como un halcón.
+¡De verdad, lo juro!
+
+## POINTER 4075 [t:1;r:1;ru:memnoch;user:memnoch;time:1303429776]
+Me da pena el guardia
+que ha fallecido.<PAGE>¡Yo lo sucederé en el puesto
+y protegeré la barrera blastia
+hasta la muerte!
+
+## POINTER 4076 [t:1;r:1;ru:memnoch;user:memnoch;time:1303429776]
+¡Esta vez, la protegeré para
+que esto no vuelva a pasar!<PAGE>¡Todo irá bien!
+
+## POINTER 4077 [t:1;r:1;ru:memnoch;user:memnoch;time:1303429776]
+Hemos resistido el ataque de la
+bestia, pero eso no quita que
+los monstruos sigan existiendo.<PAGE>¡La paz de Dahngrest depende
+de la barrera blastia!
+
+## POINTER 4078 [t:1;r:1;ru:memnoch;user:memnoch;time:1303430905]
+Mi trabajo es muy
+importante: proteger
+la barrera blastia.<PAGE>¡Y por eso también
+es muy gratificante!
+
+## POINTER 4079 [t:1;r:1;ru:memnoch;user:memnoch;time:1303430905]
+D-Da igual el monstruo,
+la-la barrera blastia
+protegerá este pueblo...<PAGE>¡P-Pero nunca había
+visto un monstruo
+tan grande!
+
+## POINTER 4080 [t:1;r:1;ru:memnoch;user:memnoch;time:1303430905]
+Los monstruos han atravesado
+la barrera... La sabiduría humana
+ha perdido... ¡Oh, qué vergüenza!
+
+## POINTER 4081 [t:1;r:1;ru:memnoch;user:memnoch;time:1303431368]
+¿Qué era exactamente
+ese monstruo que ha
+atravesado la barrera?<PAGE>Hemos aumentado la seguridad
+de la ciudad tras ese incidente.
+¡Por ahora, todo va bien!
+
+## POINTER 4082 [t:1;r:1;ru:memnoch;user:memnoch;time:1303431368]
+¡Ese monstruo seguro
+que tenía algo distinto!<PAGE>¡No pienso tolerar ni una
+brecha más en la barrera!
+
+## POINTER 4083 [t:1;r:1;ru:memnoch;user:memnoch;time:1303431368]
+Guardo las últimas palabras
+del Don en mi corazón.<PAGE>¡Protegeré esta barrera para
+que la gente de esta ciudad
+pueda vivir según sus palabras!
+
+## POINTER 4084 [t:1;r:1;ru:memnoch;user:memnoch;time:1303431368]
+¡Puede que el Don se
+haya ido, pero sus
+sueños siempre vivirán!
+
+## POINTER 4085 [t:1;r:1;ru:memnoch;user:kaene;time:1302801438]
+¡El mundo es el que es, así
+que debemos proteger la barrera
+cueste lo que cueste!<PAGE>¡Los que tienen
+fe se salvarán!
+
+## POINTER 4086 [t:1;r:1;ru:memnoch;user:memnoch;time:1303431368]
+¡No hay nada que temer
+del monstruo del cielo
+mientras tengamos la barrera!
+
+## POINTER 4087 [t:1;r:1;ru:memnoch;user:kaene;time:1302801438]
+Hay un rumor que dice
+que Heracles se ha
+estrellado en Zaphias.<PAGE>¿Estará a salvo
+la capital?
+
+## POINTER 4088 [t:1;r:1;ru:memnoch;user:memnoch;time:1303431368]
+¿Qué significa de verdad ser un
+Caballero? ¿Es proteger el fuerte
+aunque el cielo esté así de raro?
+
+## POINTER 4089 [t:1;r:1;ru:memnoch;user:kaene;time:1302801725]
+Los forasteros no pueden
+entrar en la estación.
+
+## POINTER 4090 [t:1;r:1;ru:memnoch;user:kaene;time:1302801725]
+Muchas gracias.
+Vuelve otro día.
+
+## POINTER 4091 [t:1;r:1;ru:memnoch;user:kaene;time:1302801725]
+Bienvenido. Puedes descansar
+aquí por 300 gald.
+¿Te vas a quedar?
+
+## POINTER 4092 [t:1;r:1;ru:memnoch;user:kaene;time:1302801725]
+En el continente de Tolbyccia
+está Capua Torim y Dahngrest.<PAGE>En Dahngrest está la Unión,
+que aúna todos los gremios.
+
+## POINTER 4093 [t:1;r:1;ru:memnoch;user:memnoch;time:1303431413]
+Al jefe de la Unión lo llaman
+el Don, y todo el mundo
+le tiene bastante miedo.
+
+## POINTER 4094 [t:1;r:1;ru:memnoch;user:kaene;time:1302801725]
+¿Has conocido al Don?
+Es un cliente difícil.
+
+## POINTER 4095 [t:1;r:1;ru:memnoch;user:memnoch;time:1303430905]
+Gracias al Don, todos
+los gremios dispersos
+se han reunido en Dahngrest.
+
+## POINTER 4096 [t:1;r:1;ru:memnoch;user:kaene;time:1302798078]
+Suicidarse con su propia espada
+es una muerte que le pega.
+
+## POINTER 4097 [t:1;r:1;ru:memnoch;user:memnoch;time:1303431713]
+Después de que muriera
+el Don, estaba demasiado
+asustado para volver...<PAGE>No puedo ni imaginar el caos que
+debe de haber en Dahngrest...
+
+## POINTER 4098 [t:1;r:1;ru:memnoch;user:memnoch;time:1303431713]
+Estoy muy preocupado por mi mujer
+y mi hijo, que están en Dahngrest...
+¿Debería volver?
+
+## POINTER 4099 [t:1;r:1;ru:memnoch;user:kaene;time:1302798078]
+He oído que el Imperio
+también tiene problemas.

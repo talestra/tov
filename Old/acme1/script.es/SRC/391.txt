@@ -1,0 +1,111 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281209465]
+<STR>(KAR)
+<VOICE>(VS36_177)<STR>(YUR)...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298482324]
+<STR>(KAR)
+<VOICE>(VS36_178)Yo... no pude hacer nada.<PAGE>
+<VOICE>(VS36_179)El Don y todos vosotros
+os decidisteis e hicisteis
+lo que pudisteis. 
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298482324]
+<STR>(KAR)
+<VOICE>(VS36_180)En esta ciudad
+nadie va a escuchar lo
+que tenga que decir.<PAGE>
+<VOICE>(VS36_181)Así que pensé en hablar
+con Palestrale.<PAGE>
+<VOICE>(VS36_182)Pero a lo mejor ya habían
+hablado y fueron a atacar...
+Cuando pensé eso, yo...<PAGE>
+<VOICE>(VS36_183)Tenía demasiado miedo como para
+ir solo. Y al final no fui.<PAGE>
+<VOICE>(VS36_184)No valgo para nada...
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281211764]
+<STR>(YUR)
+<VOICE>(VS36_185)¿Y qué pasa con <STR>(JUD_P)?
+¿No ibas a buscarla?
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795189]
+<STR>(KAR)
+<VOICE>(VS36_186)No puedo...
+Ya no puedo
+ir contigo, <STR>(YUR)...<PAGE>
+<VOICE>(VS36_187)No estoy hecho para ser
+el jefe del gremio.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795189]
+<STR>(YUR)
+<VOICE>(VS36_188)¿Y ya está? ¿Eso es todo lo que significan
+los gremios y Gran Vesperia para ti?<PAGE>
+<VOICE>(VS36_189)¿Vas a dejar tu sueño
+así como así?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795189]
+<STR>(KAR)
+<VOICE>(VS36_190)¡Pero quería que fuésemos
+el mejor gremio! ¡Ser útiles al Don!
+¡Que se fijase en mí!<PAGE>
+<VOICE>(VS36_191)Era mi modelo a seguir...<PAGE>
+<VOICE>(VS36_192)Y ahora ya no está...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527600]
+<STR>(YUR)
+<VOICE>(VS36_193)¿Así que lo vas
+a dejar y punto?<PAGE>
+<VOICE>(VS36_194)Pero ¿por qué ha muerto el Don?<PAGE>
+<VOICE>(VS36_195)Tú, mejor que nadie,
+deberías saberlo.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795288]
+<STR>(KAR)
+<VOICE>(VS36_196)¡Tú siempre puedes hacer
+lo que quieras, <STR>(YUR)! ¡Nunca
+entenderás cómo me siento!<PAGE>
+<VOICE>(VS36_197)¡No soy tan fuerte como tú!<PAGE>
+<VOICE>(VS36_198)¡Nunca podré ser
+como tú o el Don!<PAGE>
+<VOICE>(VS36_199)Se acabó, nuestro gremio ha...
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281211764]
+<STR>(YUR)
+<VOICE>(VS36_200)¡<STR>(KAR)!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298482324]
+<STR>(YUR)
+<VOICE>(VS36_201)¡¿Es que no recuerdas todo
+lo que te ha dicho el Don?!<PAGE>
+<VOICE>(VS36_202)¿Has olvidado
+su determinación?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281211764]
+<STR>(KAR)
+<VOICE>(VS36_203)...
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795288]
+<STR>(YUR)
+<VOICE>(VS36_204)Como miembro de nuestro
+gremio, me voy al monte Temza
+a buscar a <STR>(JUD_P).
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298482324]
+<STR>(KAR)
+<VOICE>(VS36_205)¿Eh?
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795288]
+<STR>(YUR)
+<VOICE>(VS36_206)Gran Vesperia seguirá adelante,
+aunque tú no lo hagas.<PAGE>
+<VOICE>(VS36_207)Este gremio ya
+no es solo tú.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298482324]
+<STR>(KAR)
+<VOICE>(VS36_208)*Snif, snif*
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281211764]
+<STR>(KAR)
+<VOICE>(VS36_209)No quiero salir huyendo.
+No quiero, pero...

@@ -1,0 +1,76 @@
+## POINTER 0
+<STR>(EST_P)
+Is that man injured?
+
+## POINTER 1
+
+Back when we had that stand-off with Palestralle, 
+he got crushed in the stampede of onlookers, 
+and he ended up like that.
+
+## POINTER 2
+<STR>(YUR)
+Hmmm...<PAGE>...Hey, <STR>(EST_P)...
+
+## POINTER 3
+<STR>(YUR)
+Damn it... She always 
+has to be like this...
+
+## POINTER 4
+
+...Leave me alone!
+
+## POINTER 5
+<STR>(YUR)
+...?!
+
+## POINTER 6
+
+You're going to heal me, and then 
+I'll owe you tons of money, huh? 
+That's quite a scam! Hmph!
+
+## POINTER 7
+<STR>(EST_P)
+No, that's not true at all!
+
+## POINTER 8
+<STR>(YUR)
+The man wants to die, <STR>(EST_P). 
+You should leave him alone.
+
+## POINTER 9
+
+You think I'm gonna die from a 
+puny little wound like this?!
+
+## POINTER 10
+<STR>(YUR)
+Even a little scratch can get infected. And then 
+the infection can spread through your whole 
+body...and then...you die. It happens a lot.
+
+## POINTER 11
+
+Y-you can't be serious...!
+
+## POINTER 12
+<STR>(YUR)
+Let's go, <STR>(EST_P).
+
+## POINTER 13
+<STR>(EST_P)
+Please hold still!
+
+## POINTER 14
+<STR>(EST_P)
+It shouldn't hurt anymore.
+
+## POINTER 15
+<STR>(EST_P)
+Sorry to keep you waiting...
+
+## POINTER 16
+<STR>(YUR)
+All right, let's go.

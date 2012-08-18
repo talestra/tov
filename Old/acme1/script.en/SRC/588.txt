@@ -1,0 +1,116 @@
+## POINTER 0
+Leblanc
+Y-you there! It's curtains for...<PAGE>Oh, wait...
+
+## POINTER 1
+Adecor
+We're in the middle of carrying out 
+a secret, I say, secret mission...!
+
+## POINTER 2
+Boccos
+Adecor...! Our investigations 
+of anti-imperial activity 
+are strictly confidential!
+
+## POINTER 3
+<STR>(YUR)
+...You might want to reacquaint your boys 
+here with the meaning of the word "secret."
+
+## POINTER 4
+Leblanc
+Idiots...!
+
+## POINTER 5
+Adecor
+Beg, I say, beg your pardon, Sir!
+
+## POINTER 6
+Boccos
+Apologies, Sir!
+
+## POINTER 7
+Leblanc
+What did I do to deserve this...? As 
+you can see, I've got no time for 
+small talk with the likes of you!
+
+## POINTER 8
+<STR>(RAV)
+What's the deal? Those extremists 
+causin' problems for ya again?
+
+## POINTER 9
+Leblanc
+Yes Sir, Captain <STR>(RAV) SIR! 
+They're up to more mischief 
+than ever before!
+
+## POINTER 10
+Adecor
+I say, we've had reports of 
+them slinking and sneaking 
+around the lower quarter!
+
+## POINTER 11
+<STR>(RAV)
+Well then, I'm sure you'll get the job done.
+
+## POINTER 12
+<STR>(EST_P)
+Good luck to you.
+
+## POINTER 13
+Boccos
+I never dreamed we'd receive the praise of 
+the Princess and the Captain in person!
+
+## POINTER 14
+Leblanc
+Thank you for this gracious kindness!
+
+## POINTER 15
+<STR>(YUR)
+The extremists, huh? Those are the guys 
+who plant bombs, hurt people and put the 
+town in a general state of panic, right?
+
+## POINTER 16
+<STR>(RAV)
+The very ones. We hadn't heard much from 
+them for a while, but it sounds like 
+they're up to their old tricks again.
+
+## POINTER 17
+<STR>(EST_P)
+...Are there really people 
+who do things like that?
+
+## POINTER 18
+<STR>(YUR)
+Yeah. I can understand that they aren't 
+thrilled with the empire, but they've 
+got no right involving innocent people.
+
+## POINTER 19
+<STR>(RAV)
+Unlike the guilds, they're a pretty disorganized 
+bunch. People with chips on their 
+shoulders tend ta be that way.<PAGE>Makes it hard ta put a stop 
+to 'em once and for all.
+
+## POINTER 20
+<STR>(JUD)
+Well, it isn't like we have any 
+clues ourselves. Shouldn't we 
+just leave it to the Knights?
+
+## POINTER 21
+<STR>(RAV)
+S'pose you're right.
+
+## POINTER 22
+Leblanc
+You can count on us, 
+Your Highness! Sir!

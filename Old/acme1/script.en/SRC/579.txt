@@ -1,0 +1,92 @@
+## POINTER 0
+Rhianna
+Oh, it's you. Thanks again 
+for what you did for me.
+
+## POINTER 1
+<STR>(YUR)
+
+It was nothing.
+
+## POINTER 2
+<STR>(JUD)
+It was a lot of work, actually.
+
+## POINTER 3
+<STR>(YUR)
+I was trying to be polite...
+
+## POINTER 4
+<STR>(RAP)
+*Aggressive bark*
+
+## POINTER 5
+<STR>(YUR)
+Actually there's something 
+we want to ask you.
+
+## POINTER 6
+Rhianna
+Oh? I'd be happy to 
+help, if I can.
+
+## POINTER 7
+<STR>(YUR)
+That necklace you asked 
+us to find was made 
+of Everlight, right?
+
+## POINTER 8
+Rhianna
+Yes.
+
+## POINTER 9
+<STR>(YUR)
+You said your father mined 
+the ore for the necklace and 
+made it himself, right?<PAGE>Do you know where he got the ore from?
+
+## POINTER 10
+Rhianna
+I read in his diary a while 
+back that it came from a mountain 
+in western Desier.
+
+## POINTER 11
+<STR>(JUD)
+Mt. Temza...?
+
+## POINTER 12
+Rhianna
+Yes, that name 
+sounds right.<PAGE>He wrote that he went up to the 
+mountain after spending the night 
+in a Krityan village there.
+
+## POINTER 13
+<STR>(JUD)
+Do you know when this was?
+
+## POINTER 14
+Rhianna
+Before my parents got 
+married, so...over 
+twenty years ago.
+
+## POINTER 15
+<STR>(JUD)
+Twenty years ago...
+
+## POINTER 16
+<STR>(YUR)
+That long ago, huh...
+There's no telling if there's any
+Everlight left there anymore.
+
+## POINTER 17
+Rhianna
+...I'm afraid I don't know anything more than that...
+
+## POINTER 18
+<STR>(YUR)
+That's plenty. Thanks!

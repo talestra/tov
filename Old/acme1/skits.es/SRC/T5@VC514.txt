@@ -1,0 +1,107 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+Dónde te gustaría estar
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137002]
+(KAR)
+¡Aaagh!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(YUR)
+¿Qué pasa, (KAR)?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(KAR)
+He... he visto un bicho...
+¡Odio este bosque!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137002]
+(YUR)
+Vamos, hombre, este sitio es mil veces
+mejor que los Bancos Afilados de Zopheir, ¿no?
+¿Qué tienen de malo unos cuantos bichitos?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1265499458]
+(RAV)
+¡Y ese frío mataba a cualquiera!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1265499458]
+(RIT)
+Puedes resguardarte del frío con solo
+abrigarte. Lo que sí que no tiene
+remedio es el desierto.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137002]
+(JUD)
+Sí. Aunque te quites la ropa,
+siempre habrá un límite.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137002]
+(RAV)
+¡Tal vé es que no te quitas la suficiente!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(RIT)
+...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137002]
+(RAV)
+¡Ay!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261870619]
+(RIT)
+Tampoco soportaba
+el Atherum.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(JUD)
+Seguro que hay muchos lugares 
+en los que no quieres estar, (RIT).
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(RIT)
+Bueno, ¿y qué hay de ti?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(JUD)
+No me gusta demasiado el Heracles.
+Ese blastia gigante es...
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(RIT)
+Esa es la (JUD) que yo conozco...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137002]
+(RAP)
+¡Guau!
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(YUR)
+¿Y tú, (EST_P)?
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(EST_P)
+¿Eh? ¿Yo? Personalmente, prefiero
+cualquier sitio donde no haya monstruos.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(KAR)
+Sitios donde no haya monstruos...
+Quieres decir dentro de las barreras.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1265499458]
+(EST_P)
+¿Eh? No era eso exactamente
+lo que quería decir...
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(YUR)
+Creo que sé a qué te refieres.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(RIT)
+Ojalá todo el planeta fuera así, pero
+esa no es la realidad en la que vivimos.
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888154]
+(EST_P)
+Sí, lo sé...

@@ -1,0 +1,337 @@
+## POINTER 0
+Alexei
+<VOICE>(VS49_038)...Astounding. I thought 
+that crash would have 
+been the last of you.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS49_039)If we hadn't been 
+lucky, you just might've 
+gotten your wish.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS49_040)You can let her go now and 
+save yourself some pain, or we 
+can break you first. It's your call.
+
+## POINTER 3
+Alexei
+<VOICE>(VS49_041)Sorry to be a bore, but let's 
+say I refuse both of those?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS49_042)I'd be happy to decide for you.
+
+## POINTER 5
+Alexei
+<VOICE>(VS49_043)The Princess was splendid. 
+Her power equals the ancient 
+Children of the Full Moon.<PAGE><VOICE>(VS49_044)Every person has a role, and 
+the Princess has played 
+her part exceedingly well.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS49_045)If she's done her part, then we'll 
+take her back right now.
+
+## POINTER 7
+Alexei
+<VOICE>(VS49_046)As you wish.
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS49_047)<STR>(EST_P)!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS49_048)Hey!!
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS49_049)<STR>(EST_P)! Snap out of it!!
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS49_050)Wait. It looks like she's 
+being controlled.
+
+## POINTER 12
+Alexei
+<VOICE>(VS49_051)What would you do with the 
+Princess now? Her power has 
+subsumed her will entirely.<PAGE><VOICE>(VS49_052)Her power has finally been 
+controlled, by a system I 
+have put into place.<PAGE><VOICE>(VS49_053)Blastia that go out of 
+control must be destroyed. 
+You should know that.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS49_054)Don't talk about <STR>(EST_P) like she's just some...thing!!
+
+## POINTER 14
+Alexei
+<VOICE>(VS49_055)Oh, but the Princess was a 
+tool most crucial to my plans.<PAGE><VOICE>(VS49_056)As were you, Schwann. And since 
+you survived, I will use you again. 
+Return like the puppet you are.
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS49_057)Sorry, but you buried that 
+poor schmuck alive yourself. 
+I'm <STR>(RAV). Pleased ta meet ya.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS49_058)We all have a role to play,
+but each person has a
+say in what that role is.
+
+## POINTER 17
+Alexei
+<VOICE>(VS49_059)Even though so many live 
+such meaningless, mundane 
+lives? I think not.
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS49_060)If they choose that life,
+then so what? That's what
+deciding for yourself means!
+
+## POINTER 19
+Alexei
+<VOICE>(VS49_061)How unfortunate. We will 
+never see eye to eye.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS49_062)Noo!!
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS49_063)<STR>(EST_P), don't do 
+this! Damn it!!
+
+## POINTER 22
+Alexei
+<VOICE>(VS49_072)Hmm, perhaps that was not enough power.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS49_073)Aaaaaaaah!!
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS49_074)Este...aargh!!
+
+## POINTER 25
+Alexei
+<VOICE>(VS49_075)Thanks to you, this new 
+key to replace Dein 
+Nomos is now complete.<PAGE><VOICE>(VS49_076)As a show of my appreciation, 
+I will allow you to witness 
+the fruition of my plan.<PAGE><VOICE>(VS49_077)...The awakening of the 
+true Child of the Full Moon.
+
+## POINTER 26
+<STR>(RAV)
+<VOICE>(VS49_078)Ugh... What is...that...?
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VS49_079)We...saw that...at Myorzo...
+
+## POINTER 28
+Alexei
+<VOICE>(VS49_080)Heh heh...hah hah 
+hah... Success! At last... 
+At last I have done it!!<PAGE><VOICE>(VS49_081)Behold, the greatest 
+remnant of the ancients! 
+The Enduring Shrine of Zaude!<PAGE><VOICE>(VS49_082)The ultimate blastia which once 
+obliterated the catastrophe 
+that threatened our world!
+
+## POINTER 29
+<STR>(RIT)
+<VOICE>(VS49_083)That's a blastia?!
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS49_084)Maybe you could save this little 
+speech until you get some alone 
+time. You're embarrassing yourself.
+
+## POINTER 31
+Alexei
+<VOICE>(VS49_085)...The show, I am afraid, is over. 
+It is time for the final curtain.<PAGE><VOICE>(VS49_086)Now, Princess, do your friends 
+the favor of separating their 
+heads from their bodies.
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS49_087)...!! Bastard...!
+
+## POINTER 33
+Alexei
+<VOICE>(VS49_088)None of this would have 
+happened if you hadn't 
+insisted on coming here.<PAGE><VOICE>(VS49_089)Oh, how the poor girl will 
+feel when she comes to 
+her senses... Farewell.
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS49_090)Damn you, Alexei, wait! 
+Get back here!<PAGE><VOICE>(VS49_091)Alexei!!
+
+## POINTER 35
+<STR>(RIT)
+<VOICE>(VS49_092)...! <STR>(EST_P)...don't...!
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS49_093)...Yaah!!
+
+## POINTER 37
+<STR>(EST_P)
+<VOICE>(VS49_094)Please...before I can hurt 
+anyone else... Please...
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS49_095)Kill me.
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS49_096)...I'll set you free.
+
+## POINTER 40
+<STR>(JUD)
+<VOICE>(VS49_097)<STR>(YUR)...
+
+## POINTER 41
+<STR>(RIT)
+<VOICE>(VS49_098)<STR>(YUR)!
+
+## POINTER 42
+<STR>(KAR)
+<STR>(YUR)!
+
+## POINTER 43
+<STR>(YUR)
+<VOICE>(VS49_113)*Huff*...*huff*...
+
+## POINTER 44
+<STR>(EST_P)
+<VOICE>(VS49_114)Ah...uhhh...
+
+## POINTER 45
+<STR>(KAR)
+<VOICE>(VS49_115)You did it, <STR>(EST_P).
+You're you again!
+
+## POINTER 46
+<STR>(RIT)
+<VOICE>(VS49_116)Wait, the system!
+
+## POINTER 47
+<STR>(JUD)
+<VOICE>(VS49_117)It was being kept in 
+check by Alexei's 
+sword! Without that...!
+
+## POINTER 48
+<STR>(EST_P)
+<VOICE>(VS49_118)Uuh...aaaaaaah!!
+
+## POINTER 49
+<STR>(KAR)
+<VOICE>(VS49_119)Waah!!
+
+## POINTER 50
+<STR>(YUR)
+<VOICE>(VS49_120)Graah!!
+
+## POINTER 51
+<STR>(EST_P)
+<VOICE>(VS49_121)I can't...I can't stop it 
+now... Everyone, run...!!
+
+## POINTER 52
+<STR>(YUR)
+<VOICE>(VS49_122)Don't worry, we're 
+not gonna lose you!!
+
+## POINTER 53
+<STR>(JUD)
+<VOICE>(VS49_123)<STR>(RIT). It's up to you!
+
+## POINTER 54
+<STR>(RIT)
+<VOICE>(VS49_124)...Amazing...<PAGE><VOICE>(VS49_125)It's synchronized with <STR>(EST_P).
+Interference deactivation data,
+a formula to isolate surplus aer.<PAGE><VOICE>(VS49_126)But what could possibly take 
+the place of the apatheia...?
+
+## POINTER 55
+<STR>(YUR)
+<VOICE>(VS49_127)What about this sword?!<PAGE><VOICE>(VS49_128)This is the original that 
+Alexei based his on, right?!
+
+## POINTER 56
+<STR>(RIT)
+<VOICE>(VS49_129)...Let me try it!
+
+## POINTER 57
+<STR>(JUD)
+<VOICE>(VS49_130)Let me help. I'll keep 
+track of the flow of aer.
+
+## POINTER 58
+<STR>(KAR)
+<VOICE>(VS49_131)Me too!
+
+## POINTER 59
+<STR>(RAV)
+<VOICE>(VS49_132)Gah. Damn this useless body...
+
+## POINTER 60
+<STR>(EST_P)
+<VOICE>(VS49_133)Please, everyone...
+
+## POINTER 61
+<STR>(YUR)
+<VOICE>(VS49_134)What'd I say. We're not gonna 
+lose you. When Brave Vesperia 
+does something, we do it right.
+
+## POINTER 62
+<STR>(EST_P)
+<VOICE>(VS49_135)...Okay!
+
+## POINTER 63
+<STR>(RIT)
+<VOICE>(VS49_136)<STR>(YUR)! The sword!
+
+## POINTER 64
+<STR>(YUR)
+<VOICE>(VS49_137)Here!
+
+## POINTER 65
+<STR>(KAR)
+<VOICE>(VS49_138)All right!!
+
+## POINTER 66
+<STR>(YUR)
+<VOICE>(VS49_139)...Welcome back.
+
+## POINTER 67
+<STR>(EST_P)
+<VOICE>(VS49_140)...Nice to be back.

@@ -1,0 +1,314 @@
+## POINTER 471 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652184]
+Aumenta la duración del Límite.
+
+## POINTER 472 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652184]
+Alta tensión
+
+## POINTER 473 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652184]
+Aumenta la velocidad con la que se llena
+la barra de Límite.
+
+## POINTER 474 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652184]
+Vacile y evasión
+
+## POINTER 475 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652184]
+Vacila a un enemigo para evitar 
+ser elegido como objetivo.
+
+## POINTER 476 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Vacile arriesgado
+
+## POINTER 477 [t:1;r:1;ru:memnoch;user:memnoch;time:1297102139]
+Vacila a un enemigo para que sus estadísticas bajen durante un rato.
+Pero hay un 50% de posibilidades de que en vez de eso, suban.
+
+## POINTER 478 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Vacile en equipo
+
+## POINTER 479 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+La barra de Límite se llena más rápidamente
+si vacilas cerca de un aliado.
+
+## POINTER 480 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Vacilada extra
+
+## POINTER 481 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Vacila repetidamente para llenar la barra
+de Límite más rápidamente.
+
+## POINTER 482 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Remate letal
+
+## POINTER 483 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Recupera todo el HP al ejecutar con éxito un Ataque letal
+al final de un combo de un cierto número de golpes.
+
+## POINTER 484 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Remate letal extra
+
+## POINTER 485 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981189]
+Recupera totalmente el HP y el TP tras acabar
+una serie de cadenas AL con un Ataque letal.
+
+## POINTER 486 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Aceleración
+
+## POINTER 487 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Incrementa la velocidad de los ataques normales
+durante un Límite.
+
+## POINTER 488 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Aceleración 2
+
+## POINTER 489 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Incrementa la velocidad de las artes
+durante un Límite.
+
+## POINTER 490 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652281]
+Alambique
+
+## POINTER 491 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263808741]
+Cambia un arte. Se puede aprender
+si se usa repetidamente.
+
+## POINTER 492 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652281]
+Vendaval
+
+## POINTER 493 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263808756]
+Cambia un arte. Se puede aprender
+si se usa repetidamente.
+
+## POINTER 494 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652307]
+Rompe encuentros
+
+## POINTER 495 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247617]
+Evita entrar en combate por culpa de un encuentro combinado.
+
+## POINTER 496 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247617]
+Cambio de movimiento
+
+## POINTER 497 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247617]
+Cambia el movimiento de espera y acción.
+
+## POINTER 498 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652399]
+Fingir muerte
+
+## POINTER 499 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652399]
+Pulsa <06>(LTD) mientras estás derribado
+para recuperar HP y TP.
+
+## POINTER 500 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652399]
+Aliento sagrado
+
+## POINTER 501 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Alarga el tiempo que tienen efecto los pomos sagrados.
+
+## POINTER 502 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652399]
+Aliento oscuro
+
+## POINTER 503 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Alarga el tiempo que tienen efecto los pomos oscuros.
+
+## POINTER 504 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Bonificación de encuentro
+
+## POINTER 505 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981189]
+De vez en cuando, al entrar en batalla por la espalda
+del enemigo, todo el grupo empezará con su TP al máximo.
+
+## POINTER 506 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265653043]
+Posición de tirador
+
+## POINTER 507 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247617]
+Toma posición pulsando el botón de guardia dos veces. El poder de ataque
+aumentará. Pulsa el botón de guardia otras dos veces para cancelar.
+
+## POINTER 508 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811687]
+Flecha rauda 2
+
+## POINTER 509 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265653043]
+Acorta el tiempo necesario para disparar una flecha
+en los ataques normales, pero su poder disminuye.
+
+## POINTER 510 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Vitalidad
+
+## POINTER 511 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Aumenta el HP máximo en 200 puntos.
+
+## POINTER 512 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Vitalidad 2
+
+## POINTER 513 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Aumenta el HP máximo en 400 puntos.
+
+## POINTER 514 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Vitalidad 3
+
+## POINTER 515 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Aumenta el HP máximo en 800 puntos.
+
+## POINTER 516 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Vitalidad 4
+
+## POINTER 517 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Aumenta el HP máximo en 1200 puntos.
+
+## POINTER 518 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Espíritus
+
+## POINTER 519 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Aumenta el TP máximo en 20 puntos.
+
+## POINTER 520 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Espíritus 2
+
+## POINTER 521 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Aumenta el TP máximo en 50 puntos.
+
+## POINTER 522 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Espíritus 3
+
+## POINTER 523 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Aumenta el TP máximo en 100 puntos.
+
+## POINTER 524 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Espíritus 4
+
+## POINTER 525 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Aumenta el TP máximo en 150 puntos.
+
+## POINTER 526 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Suertudo
+
+## POINTER 527 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Aumenta la suerte en 15 puntos.
+
+## POINTER 528 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Suertudo 2
+
+## POINTER 529 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241923]
+Aumenta la suerte en 30 puntos.
+
+## POINTER 530 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Conversión de defensa
+
+## POINTER 531 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Incrementa un 25% la DEF M. a cambio de la DEF F.
+
+## POINTER 532 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Conversión de resistencia
+
+## POINTER 533 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Incrementa un 25% la DEF F. a cambio de la DEF M.
+
+## POINTER 534 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811687]
+Fuerza combativa
+
+## POINTER 535 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811687]
+Convierte un 25% del HP en la misma cantidad de TP.
+Es decir, el HP estará al 75% y el TP al 125%.
+
+## POINTER 536 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Experto en objetos 2
+
+## POINTER 537 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Incrementa la duración y el efecto 
+de los objetos durante la batalla.
+
+## POINTER 538 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Experto en objetos 3
+
+## POINTER 539 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Incrementa aún más la duración y el efecto
+de los objetos durante la batalla.
+
+## POINTER 540 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265653043]
+Objeto afortunado
+
+## POINTER 541 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+De vez en cuando los objetos no se consumen
+al utilizarse.
+
+## POINTER 542 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Apoyo de objetos
+
+## POINTER 543 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981189]
+Los aliados en reserva usarán de vez en cuando
+objetos para ayudar a los aliados en la batalla.
+
+## POINTER 544 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Comprobación total
+
+## POINTER 545 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263807387]
+Permite ver la información de todos los enemigos
+con una sola lente mágica.
+
+## POINTER 546 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811687]
+Escaneo
+
+## POINTER 547 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811687]
+Muestra sobre los enemigos el HP que les queda
+al usar una lente mágica.
+
+## POINTER 548 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263808359]
+Inspector
+
+## POINTER 549 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263808359]
+Permite ver los detalles de los enemigos
+al cambiar de objetivo sin usar lentes mágicas.
+
+## POINTER 550 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263808359]
+Tensión aérea
+
+## POINTER 551 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263808359]
+Recupera TP por cada combo de 3 golpes ejecutado en el aire.
+
+## POINTER 552 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263808359]
+Ovación
+
+## POINTER 553 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981189]
+Los personajes en reserva animarán a los aliados
+de vez en cuando. La barra de Límite se llenará ligeramente.
+
+## POINTER 554 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247617]
+Entrenamiento LP
+
+## POINTER 555 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247617]
+Los personajes que no luchan reciben
+la misma cantidad de LP que los aliados activos.
+
+## POINTER 556 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247617]
+Fin fácil
+
+## POINTER 557 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247617]
+Alarga la duración de los FB, pero el bonus
+se reduce.
+
+## POINTER 558 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247617]
+Fin avanzado
+
+## POINTER 559 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247617]
+Acorta la duración de los FB, pero el bonus
+aumenta.
+
+## POINTER 560 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263808359]
+Apoyo curativo
+
+## POINTER 561 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981189]
+Los aliados en reserva usarán de vez en cuando
+magia curativa sobre los aliados en combate.
+
+## POINTER 562 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811687]
+Impulso médico
+
+## POINTER 563 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811687]
+La potencia de los hechizos curativos dependerá del HP
+restante. Si está al máximo, la potencia será del 150%.
+
+## POINTER 564 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811687]
+Ataque médico
+
+## POINTER 565 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981189]
+La potencia de las artes curativa dependerá el HP
+restante. Si está al máximo, la potencia será del 150%.

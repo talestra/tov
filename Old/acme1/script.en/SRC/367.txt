@@ -1,0 +1,100 @@
+## POINTER 0
+Nan
+<VOICE>(VS34_111)The coliseum is now under the 
+authority of the Hunting Blades! 
+Withdraw immediately!
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS34_112)Nan! You've got to stop!
+
+## POINTER 2
+Nan
+<VOICE>(VS34_113)<STR>(KAR)? What are you doing here...?
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS34_114)You know that fights 
+between guilds are strictly 
+forbidden by the Union!
+
+## POINTER 4
+Nan
+<VOICE>(VS34_115)What are you talking about?! This 
+job was commissioned to us directly 
+by the Union itself!
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS34_116)What?!
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS34_117)Harry! What're you doin' here?!
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS34_118)Hey...isn't that someone 
+from the Union we met 
+in Dahngrest...?
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS34_119)That's the Don's grandson, Harry.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS34_120)The Don's grandson...?
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS34_121)Just what in blazes is 
+goin' on here, son?
+
+## POINTER 11
+Harry
+<VOICE>(VS34_122)You're under the same 
+orders from the Don yourself, 
+right? To locate apatheia?
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS34_123)Sure, but what does that have ta 
+do with all the commotion here?
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS34_124)<STR>(JUD)! What's she...? 
+H-hey, look, it's...!
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS34_125)Natz...!
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS34_126)Come on!
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS34_127)Damn it! I wasn't 
+done with him...!
+
+## POINTER 17
+Nan
+<VOICE>(VS34_128)Wait! I thought I ordered 
+you to withdraw!
+
+## POINTER 18
+Harry
+<VOICE>(VS34_129)<STR>(RAV) is with them, 
+and he's an ally. 
+Let them be.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS34_130)Nan...
+
+## POINTER 20
+Nan
+<VOICE>(VS34_131)...

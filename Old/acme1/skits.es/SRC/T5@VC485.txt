@@ -1,0 +1,60 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:evilluendas;time:1251676455]
+Soportando el calor
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218671]
+(RIT)
+Qué calor...
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218671]
+(EST_P)
+No hay sombras ni nada...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129651]
+(KAR)
+Agh... Ooh...
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218671]
+(YUR)
+¿Qué sucede, capitán (KAR)?
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218671]
+(JUD)
+Quizá hace tanto calor que 
+no puede ni hablar...
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266833998]
+(RAV)
+¿Ya sus estáis rajando?
+Tch, tch, tch. Blandengues. 
+¡Y encima siendo mucho más jóvenes que yo!
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266833998]
+(RIT)
+¿Te quieres callar?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129651]
+(EST_P)
+¿No tienes calor con tanto abrigo, (RAV)?
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218671]
+(RAV)
+Nah, esta ropa es especial, digamos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129651]
+(KAR)
+P-Préstamela...
+
+## POINTER 11 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266833998]
+(RAV)
+Ah, muchachito, si tanto estás
+sufriendo estaré encantao en 
+prestarte mi ropa olorosa y sudorosa.
+
+## POINTER 12 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218671]
+(KAR)
+Olvídalo...
+
+## POINTER 13 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266833998]
+(YUR)
+¡El calor es mejor
+que tu peste, viejales!

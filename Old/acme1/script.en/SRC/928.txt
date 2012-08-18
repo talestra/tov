@@ -1,0 +1,90 @@
+## POINTER 0
+<STR>(RIT)
+Does this stone look 
+really worn down 
+to anyone else?
+
+## POINTER 1
+<STR>(RAV)
+It looks like it's been 
+pretty worn down by wind.
+
+## POINTER 2
+<STR>(YUR)
+...Huh...?
+
+## POINTER 3
+<STR>(JUD)
+That's the sword we got 
+from the Elder in Myorzo.
+
+## POINTER 4
+<STR>(YUR)
+Ack!
+
+## POINTER 5
+<STR>(EST_P)
+Eeek!
+
+## POINTER 6
+<STR>(KAR)
+Waaah!
+
+## POINTER 7
+<STR>(RIT)
+Eek!
+
+## POINTER 8
+<STR>(RAV)
+Wahoo!
+
+## POINTER 9
+<STR>(JUD)
+Ahhh!
+
+## POINTER 10
+<STR>(JUD)
+...A spear came from inside the rock...?
+
+## POINTER 11
+<STR>(KAR)
+Its shape... It looks like 
+this is a fell arm, too.
+
+## POINTER 12
+<STR>(JUD)
+Yes, I think so.
+
+## POINTER 13
+<STR>(YUR)
+It seems like there's some sort 
+of strange power linking these 
+two weapons together.
+
+## POINTER 14
+<STR>(KAR)
+Hey, I think we can 
+get inside from here!
+
+## POINTER 15
+<STR>(YUR)
+It doesn't look like we can go in.
+
+## POINTER 16
+<STR>(KAR)
+Can you break that?
+
+## POINTER 17
+<STR>(JUD)
+I think it's impossible.<PAGE>A giant, hard rock like 
+this... No way.
+
+## POINTER 18
+<STR>(KAR)
+Maybe we can scale it?
+
+## POINTER 19
+<STR>(YUR)
+We don't need to get inside 
+that badly, do we? 
+Let's just go back.

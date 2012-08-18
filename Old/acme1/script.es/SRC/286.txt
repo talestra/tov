@@ -1,0 +1,188 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296862685]
+Kaufman
+<VOICE>(VS25_121)Vaya, pero si es el señor <STR>(YUR) 
+Lowell. Llegas justo a tiempo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+<STR>(YUR)
+<VOICE>(VS25_122)Je. Parece que esos carteles
+de «Se busca» hacen su trabajo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+Kaufman
+<VOICE>(VS25_123)Escucha, tengo un trabajo para ti
+que te viene como anillo al dedo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(YUR)
+<VOICE>(VS25_124)Uno difícil, ¿verdad?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+Kaufman
+<VOICE>(VS25_125)Me gustan los hombres que van al grano.<PAGE><VOICE>(VS25_126)Como ya sabrás, en esta época del año
+las manadas de tritones suelen atacar
+los barcos de carga.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+<STR>(KAR)
+<VOICE>(VS25_127)¿Cómo? Creía que ustedes tenían
+un gremio que siempre los escoltaban...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+Kaufman
+<VOICE>(VS25_128)Al parecer el líder de ese gremio
+acaba de fallecer repentinamente,
+así que no están disponibles.<PAGE><VOICE>(VS25_129)El resto de gremios guardaespaldas
+simplemente no tienen agallas
+para ello. Ya no sé qué hacer.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+<STR>(KAR)
+<VOICE>(VS25_130)¿Cómo se llama ese gremio que dice?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+Kaufman
+<VOICE>(VS25_131)El Pacto de Sangre.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(RIT)
+<VOICE>(VS25_132)Vaya. Me pregunto qué puede haberles pasado.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+<STR>(YUR)
+<VOICE>(VS25_133)Vosotros sois tan culpables como yo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+<STR>(YUR)
+<VOICE>(VS25_134)
+Siento decepcionarte,
+pero ya estamos en mitad de un
+encargo, así que... hasta otra.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(KAR)
+<VOICE>(VS25_135)¡Espera, <STR>(YUR)! ¿Y lo
+del barco qué?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+Kaufman
+<VOICE>(VS25_136)¿Mmm? ¿Un barco has dicho?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(YUR)
+<VOICE>(VS25_137)Hemos formado nuestro propio gremio.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(KAR)
+<VOICE>(VS25_138)¡Nos llamamos Gran Vesperia!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+Kaufman
+<VOICE>(VS25_139)Es un nombre magnífico. Entonces,
+¿qué os parece si hablamos de negocios?<PAGE><VOICE>(VS25_140)Una de las bases más importantes
+es el beneficio mutuo. Ya sabéis,
+hoy por mí y mañana por ti.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(YUR)
+<VOICE>(VS25_141)Lo siento, pero como ya he dicho,
+estamos en mitad de un encargo.
+Ahora mismo no podemos hacer nada más.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+Kaufman
+<VOICE>(VS25_142)En ese caso, no diremos que es un negocio.
+Diremos que somos dos gremios que se están
+ayudando mutuamente.<PAGE><VOICE>(VS25_143)De esa manera, no estaremos infringiendo
+ninguno de los principios de los gremios.<PAGE><VOICE>(VS25_144)Ir conmigo tiene... ventajas.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+<STR>(KAR)
+<VOICE>(VS25_145)Bueno...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(YUR)
+<VOICE>(VS25_146)De acuerdo, podemos hablar de ello,
+pero tenemos que ir a Nordopólica.
+Nada de dar rodeos.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+Kaufman
+<VOICE>(VS25_147)Por mí de acuerdo. Los tritones solo
+causan problemas en las aguas cercanas.<PAGE><VOICE>(VS25_148)Mientras consiga llegar a otro
+puerto, me doy por satisfecha.<PAGE><VOICE>(VS25_149)En cuanto lleguemos, no me costará encontrar
+otro barco que haga el resto del viaje.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(KAR)
+<VOICE>(VS25_150)Vaya, sí que va en serio.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+Kaufman
+<VOICE>(VS25_151)¿Hay trato?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+<STR>(RIT)
+<VOICE>(VS25_152)¿Por qué me da en la nariz
+que nos han enmarronado?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+<STR>(RAV)
+<VOICE>(VS25_153)
+La gente no ice que Fortuna Mercantil
+son los mejores mercaderes bajo er sol
+por ná.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+<STR>(JUD)
+<VOICE>(VS25_154)Tampoco está tan mal.
+Ahora podemos cruzar el mar
+hasta Desier.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+Kaufman
+<VOICE>(VS25_155)Hasta os daré un pequeño
+incentivo por la ayuda.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(KAR)
+<VOICE>(VS25_156)¿Un incentivo? ¿A qué se refiere?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+Kaufman
+<VOICE>(VS25_157)Si llegamos a Nordopólica sanos
+y salvos, os regalaré el barco que
+usaremos para llegar hasta allí.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+<STR>(KAR)
+<VOICE>(VS25_158)¡¿En serio?!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(JUD)
+<VOICE>(VS25_159)El barco está algo cochambroso,
+pero no deja de ser un buen trato.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+Kaufman
+<VOICE>(VS25_160)¿A que sí?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(YUR)
+<VOICE>(VS25_161)Sí que deben de ser feroces esos
+tritones si estás dispuesta a
+ceder un barco.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+Kaufman
+<VOICE>(VS25_162)Eso lo dejo a vuestra imaginación.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1275817424]
+<STR>(YUR)
+<VOICE>(VS25_163)Me lo figuraba.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373210]
+Kaufman
+<VOICE>(VS25_164)¡Maravilloso! Trato hecho, entonces.<PAGE><VOICE>(VS25_165)Ahora que hemos acordado los detalles,
+me gustaría que os pusierais ya a trabajar.<PAGE><VOICE>(VS25_166)
+Avisadme cuando lo tengáis todo listo.

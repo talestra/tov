@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1256411788]
+Belius
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118343]
+(YUR)
+¿Qué clase de persona
+es Belius, exactamente?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118343]
+(RAV)
+Bueno, no sabría decirte. He oído el nombre
+mu a menudo, pero nunca la he conocío en persona.
+
+## POINTER 3 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267180004]
+(EST_P)
+(KAR), ¿tú sabes algo?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118343]
+(KAR)
+Solo he vivido en Dahngrest, así que
+no sé mucho de los gremios de Nordopólica.
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267180004]
+(YUR)
+Lo último que necesitamos
+es toparnos con otro Don.
+
+## POINTER 6 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266233012]
+(RAV)
+Je, ni que lo digas.
+Con un Don basta y sobra.
+
+## POINTER 7 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267180004]
+(KAR)
+Ahora sí que estoy impaciente por conocer a Belius.

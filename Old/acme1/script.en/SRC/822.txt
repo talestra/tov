@@ -1,0 +1,91 @@
+## POINTER 0
+<STR>(KAR)
+What is this place...?
+
+## POINTER 1
+<STR>(RAV)
+It's sure gotta weird feelin' to it.
+
+## POINTER 2
+
+Good afternoon, 
+visitors!
+
+## POINTER 3
+
+This is your first time 
+here, am I right?<PAGE>First of all, you'll 
+need to buy tickets.
+
+## POINTER 4
+<STR>(RIT)
+Tickets? We need 
+tickets to go in?
+
+## POINTER 5
+
+Correct. They're only 
+10 Gald per person 
+to buy, though.
+
+## POINTER 6
+<STR>(YUR)
+That's all? You've gotta be joking.
+
+## POINTER 7
+
+Not at all! We're not doing this 
+to make a profit. For us, it's all 
+about helping others have fun.
+
+## POINTER 8
+<STR>(JUD)
+What's going on 
+here, anyway?
+
+## POINTER 9
+
+It's not easy to summarize, 
+but basically, it's like 
+a big, fun party!<PAGE>I think the best way to understand 
+what I mean would be to just go 
+in and have a look for yourself.
+
+## POINTER 10
+<STR>(EST_P)
+What should we do?
+
+## POINTER 11
+Buy ticket?
+Buy ticket
+Do not buy ticket
+
+## POINTER 12
+
+Thank you very 
+much. Here are 
+your tickets.
+
+## POINTER 13
+
+You can go and come as you please, 
+so just have a good time and 
+don't worry about anything!<PAGE>You'll need to use chips for everything while 
+you're here.  Make sure to go and exchange 
+your Gald for chips in the Gymnasium.
+
+## POINTER 14
+
+Oh... It looks like you 
+don't have enough Gald. 
+I'm terribly sorry...
+
+## POINTER 15
+
+Please come again!
+
+## POINTER 16
+
+Welcome. Tickets to enter 
+the festival cost 
+10 Gald per person.

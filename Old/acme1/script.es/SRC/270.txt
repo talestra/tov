@@ -1,0 +1,16 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1275570806]
+<STR>(EST_P)
+<VOICE>(VS24_083)¿Qué estará pasando ahí?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1275570806]
+<STR>(YUR)
+<VOICE>(VS24_084)Mmm, buena pregunta.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1283154884]
+<STR>(JUD)
+<VOICE>(VS24_085)<STR>(KAR) está dentro, ¿no?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1275570806]
+<STR>(YUR)
+<VOICE>(VS24_086)Sí. Será mejor
+echar un vistazo.

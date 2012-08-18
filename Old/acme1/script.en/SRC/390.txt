@@ -1,0 +1,69 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS36_159)Everyone here seems 
+to have calmed down.
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS36_160)It feels more like they're 
+expecting the end of the world.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS36_161)<STR>(KAR)'s been...taking 
+the Don's passing 
+pretty hard, too.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS36_162)And it looks like things are keeping 
+the old man busy. I guess it comes 
+with being a member of Altosk.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS36_164)Huh...
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS36_165)He gave up his own life to make 
+amends for what happened...<PAGE><VOICE>(VS36_166)Guilds take their laws 
+pretty seriously.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS36_167)...The pride of living by the laws of 
+the guild...taking responsibility...and 
+accepting the choices he'd made...<PAGE><VOICE>(VS36_168)The Don practiced 
+what he preached.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS36_169)And he was willing to stake 
+his life on those beliefs...
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS36_170)Responsibility...choices...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS36_171)...I've got to get these things 
+figured out myself.<PAGE><VOICE>(VS36_172)Best to start with our guild, 
+with Brave Vesperia.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS36_173)<STR>(YUR)? Where are you...?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS36_174)Just going for a walk.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS36_175)He probably went looking for <STR>(KAR).
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS36_176)<STR>(KAR).

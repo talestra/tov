@@ -1,0 +1,72 @@
+## POINTER 0
+<STR>(KAR)
+I never really noticed how 
+deep the water is here...
+
+## POINTER 1
+<STR>(YUR)
+So the client dropped her 
+necklace right down here...
+
+## POINTER 2
+<STR>(JUD)
+Then, we dive in to 
+get it, I suppose?
+
+## POINTER 3
+<STR>(RIT)
+Even if you jumped in, 
+I doubt the necklace 
+is there anymore.<PAGE>Everlight isn't all that heavy
+as far as metals go, so yeah. 
+I'm sure it's drifted downstream.
+
+## POINTER 4
+<STR>(YUR)
+...Well, that would mean it's lying somewhere 
+on the bottom of the ocean about now.
+
+## POINTER 5
+<STR>(RAP)
+*Whine*
+
+## POINTER 6
+
+I'd be careful if I were you.<PAGE>The current's pretty crazy around here, 
+thanks to the ocean tides. If you fell 
+in, you'd be swept off in a jiffy!
+
+## POINTER 7
+<STR>(YUR)
+The tides? This isn't the sea, though.
+
+## POINTER 8
+
+The water in this river is a mixture of ocean water 
+and fresh water that runs down from the mountains. 
+All of the rivers around here are like that.
+
+## POINTER 9
+<STR>(KAR)
+Wow, really...
+I had no idea...
+
+## POINTER 10
+
+Come to think of it, the body of the magistrate 
+that they say was dumped into this 
+river washed up over in Heliord.<PAGE>That just goes to show you how far the 
+current can carry things that fall in.
+
+## POINTER 11
+<STR>(JUD)
+...Sounds like starting this search 
+in Heliord might not be a bad idea.
+
+## POINTER 12
+<STR>(KAR)
+Thanks for your help, sir.
+
+## POINTER 13
+
+Huh? For what...?

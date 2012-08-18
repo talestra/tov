@@ -1,0 +1,548 @@
+## POINTER 0
+Please put the word __ Ver3
+
+## POINTER 1
+Welcome. May 
+I help you?
+
+## POINTER 2
+<shop>
+
+## POINTER 3
+Welcome to the 
+Fount of Warmth, 
+Yumanju.
+
+## POINTER 4
+Please enjoy your stay.
+
+## POINTER 5
+Welcome to Yumanju's 
+gift shop, Bubble Baubles. 
+Please have a look around.
+
+## POINTER 6
+Thank you very much. 
+We look forward 
+to serving you again.
+
+## POINTER 7
+Ooh...I can't get enough 
+of these hot springs. 
+Ohh, they feel sooo gooood.
+
+## POINTER 8
+Isn't it nice to 
+forget one's worldly 
+cares and just relax?
+
+## POINTER 9
+This place is really wonderful. 
+I didn't even know there were 
+such things as open-air baths.
+
+## POINTER 10
+I never imagined getting 
+a good soak in the great outdoors 
+would feel so good.
+
+## POINTER 11
+Klink! Klank! Klank! Klink! 
+Toss in a coin and 
+out comes a drink!
+
+## POINTER 12
+What's gonna come out?♪ 
+What's gonna come out?♪ 
+Tra-la-la-la-la, la-la-la-la!♪
+
+## POINTER 13
+The water just keeps gushing 
+out, and I can't swim! 
+I'm going to drown...
+
+## POINTER 14
+There was a big bang, and 
+the water just starting shooting 
+out, and the fountain broke!<PAGE>I'm scared, <STR>(YUR)! 
+Help us...
+
+## POINTER 15
+<STR>(YUR), where were you? 
+Everyone's been looking for you.
+
+## POINTER 16
+Is that girl your 
+new friend? <PAGE>Are you playing hooky to 
+go have fun with her? 
+That's no good!
+
+## POINTER 17
+Oh, it's <STR>(YUR)
+and <STR>(RAP)! <PAGE>You keep on making new 
+friends. I'm so jealous!
+
+## POINTER 18
+<STR>(RAP)!♪ 
+I love your big ol' ears!∀
+
+## POINTER 19
+I heard <STR>(FRE)'s 
+a captain now! <PAGE>Do captains live 
+in the castle?
+
+## POINTER 20
+Is <STR>(FRE) never 
+coming back to 
+the lower quarter?<PAGE>I don't want him to be a 
+captain if it means I never 
+get to see <STR>(FRE) again...
+
+## POINTER 21
+I dropped my dentures 
+and I can't find them... <PAGE>The water from the 
+broken fountain must 
+have washed them away.
+
+## POINTER 22
+Hmm? These? 
+Oh, I borrowed my 
+wife's dentures.
+
+## POINTER 23
+I eventually found my 
+dentures, you know. <PAGE>But now we've 
+lost my wife's...
+
+## POINTER 24
+You couldn't help me look 
+for them, could you, sonny?
+
+## POINTER 25
+My wie ook my 
+enturesh, ah ow 
+I ah alk righ...
+
+## POINTER 26
+*Cough, cough*
+
+## POINTER 27
+I found the dentures! <PAGE>Now we can finally 
+eat right.
+
+## POINTER 28
+You make sure you 
+don't lose anything 
+important too, sonny.
+
+## POINTER 29
+The sky is 
+so strange. <PAGE>I've never seen it 
+like this before...
+
+## POINTER 30
+I wonder if the same thing's 
+happening in Deidon Hold and 
+Halure. I hope they're all right...
+
+## POINTER 31
+It looks like the weirdness in the 
+sky cleared up, but some houses in 
+the lower quarter were damaged.<PAGE>The Knights won't do anything 
+for us, so I guess we'll take 
+care of things ourselves.
+
+## POINTER 32
+All we have to do with the 
+debris is clear it away, but the 
+main problem is the buildings. <PAGE>We just don't have enough 
+able-bodied folk to work. If only 
+the evacuees would return...
+
+## POINTER 33
+With the barriers down the 
+monsters can get in, but are 
+there really that many monsters?<PAGE>Even if there are, 
+I'm sure the Knights 
+will take care of them.
+
+## POINTER 34
+I hope the refugees that 
+fled Zaphias are all right...
+
+## POINTER 35
+There was a rumbling from 
+the north, like an earthquake. 
+What could that have been?
+
+## POINTER 36
+Maybe a giant monster like 
+the one in the sky erupted from 
+the ground? I sure hope not...
+
+## POINTER 37
+Welcome! I want to help 
+out too, but I have to keep 
+the business running. <PAGE>This shop stays open, no 
+matter what. Don't want to 
+inconvenience people, you know!
+
+## POINTER 38
+Thanks! Come back 
+any time. Like I said, 
+we're always open.
+
+## POINTER 39
+The whole fountain mess 
+seems to have calmed down. 
+Now you're totally free to shop!
+
+## POINTER 40
+Hi! Wow, it's been a while! 
+The Knights were chasing you, 
+weren't they? Is everything okay?
+
+## POINTER 41
+We'll always be here 
+to help you out.<PAGE>Stop by anytime.
+
+## POINTER 42
+Thanks! 
+Come back whenever 
+you're in Zaphias.
+
+## POINTER 43
+They say <STR>(FRE) is amazing! 
+I almost want to hold a sale 
+in his honor! ...Almost.
+
+## POINTER 44
+It was <STR>(FRE) that brought 
+back the fountain blastia 
+core, after all!<PAGE>Come on, <STR>(YUR)! 
+You can't let him beat you!
+
+## POINTER 45
+What's going on...? Is the barrier 
+blastia going weird? Yeah, 
+we're always open for business.
+
+## POINTER 46
+The sky may be weird, but I'm not 
+leaving Zaphias. As long as people 
+live here, they'll need shops.
+
+## POINTER 47
+I can't keep my products 
+arranged right, but look around 
+and pick out what you need.
+
+## POINTER 48
+Sorry it's still such a mess. 
+Don't let it put you off! 
+Come back soon!
+
+## POINTER 49
+Things may be crazy, 
+but you have to keep your cool. 
+You should shop with a clear mind.
+
+## POINTER 50
+Thanks! Come 
+back any time.
+
+## POINTER 51
+I hear <STR>(FRE)'s building a town 
+somewhere. You should buy him 
+something for all his hard work!
+
+## POINTER 52
+Thanks, buddy! 
+If you see <STR>(FRE), 
+give him my best.
+
+## POINTER 53
+The fountain blastia is 
+broken... At this rate even 
+the houses will be flooded!<PAGE>We have to stop the flow first. 
+We'll think about pumping out 
+the excess water later.
+
+## POINTER 54
+<STR>(YUR), don't just 
+stand there! 
+You help out too!
+
+## POINTER 55
+Well well, <STR>(YUR), the 
+Knights certainly are 
+fond of you.<PAGE>Leblanc and his troupe 
+were just running around 
+calling your name.
+
+## POINTER 56
+Be careful you don't do 
+something to get <STR>(FRE)
+chasing after you, too!
+
+## POINTER 57
+Hey, didn't you leave 
+the city because the 
+Knights were chasing you? <PAGE>What, did you forget something?
+
+## POINTER 58
+It'd be best if you 
+didn't come back. 
+You never know. <PAGE>Somebody could tell the 
+Knights about you.
+
+## POINTER 59
+If it isn't the wanted 
+man, <STR>(YUR)!♪<PAGE>You've got that big bounty 
+on your head, maybe you 
+want us to catch you?
+
+## POINTER 60
+Don't worry, <STR>(YUR). <PAGE>Turning you in for 
+a reward wouldn't make 
+me very happy.
+
+## POINTER 61
+Looks like the false 
+charges got dropped.<PAGE>I always believed in you, <STR>(YUR).<PAGE>Really! I did!
+
+## POINTER 62
+Do what's right, even if the 
+Knights are chasing you. 
+That's you, <STR>(YUR).
+
+## POINTER 63
+The fountain blastia's been fixed!♪ 
+It's all thanks to <STR>(FRE)
+getting the core back.∀<PAGE><STR>(FRE)'s so popular. 
+I hear there's even a 
+<STR>(FRE) Defense Force.
+
+## POINTER 64
+The <STR>(FRE) Defense 
+Force is really just 
+a fan club. <PAGE>It sounded like fun, 
+so I joined too!♪
+
+## POINTER 65
+To think the aque blastia 
+had just been repaired! 
+They must've done a shoddy job. <PAGE>I even used money I'd
+saved for my wedding 
+to get it fixed...
+
+## POINTER 66
+Well, whining isn't going to stop 
+all this water. We have to do 
+something about the fountain. <PAGE>I'd never forgive 
+myself if I let my 
+girl drown.
+
+## POINTER 67
+Well, the water stopped, but 
+now we can't use the fountain. 
+Sooner or later the water will run out. <PAGE>We better start 
+thinking about other 
+ways to get water.
+
+## POINTER 68
+I used the money I got 
+back from the shoddy repair to 
+find new sources of water.<PAGE>My wedding? Nah, we just put it 
+off for a little. She'll wait for me. 
+But thanks, <STR>(YUR).
+
+## POINTER 69
+The lower quarter's the same 
+as always. The fountain 
+blastia is still broken.<PAGE>There's no point in getting 
+worked up about it. 
+We'll fix it in good time.
+
+## POINTER 70
+That blastia breaking was bad, 
+but it brought the people of 
+the lower quarter together.<PAGE>Even my girl says 
+she's counting on me... 
+Heh heh.
+
+## POINTER 71
+Wow, <STR>(FRE)'s amazing! 
+You hear he made captain?<PAGE>It's thanks to him our fountain's 
+back in shape, too. He's the 
+pride of the lower quarter.
+
+## POINTER 72
+<STR>(FRE)'s promotion to 
+captain makes me as 
+happy as if it were myself.
+
+## POINTER 73
+What's that thing 
+in the sky that looks 
+like an aurora? <PAGE>Ever since it appeared, the 
+sky's been so strange...
+
+## POINTER 74
+What, now the barrier blastia's 
+broken? At least the monsters 
+haven't invaded yet.<PAGE>We have to protect this 
+city. The lower quarter 
+is my only home.
+
+## POINTER 75
+This is like the 
+devastation after a 
+giant storm, or something. <PAGE>When things are this bad, 
+even getting depressed 
+about it feels stupid.
+
+## POINTER 76
+No point in getting all weepy. 
+We've got to work 
+together and rebuild.<PAGE>If we can get the lower quarter
+back in shape, maybe everyone 
+who left will come back.
+
+## POINTER 77
+The refugees started coming 
+back after things got back 
+to normal in Zaphias.<PAGE>Of course, that was right when 
+the monsters showed up and the 
+barrier broke... What a life!
+
+## POINTER 78
+What's become of 
+our Zaphias?
+
+## POINTER 79
+<STR>(FRE) took everyone 
+to a town with a new barrier. <PAGE>What are you going 
+to do, <STR>(YUR)?
+
+## POINTER 80
+They have a barrier, so it's 
+safer there. But I don't want 
+to leave the lower quarter.<PAGE>I'm going to stay in the 
+lower quarter to the bitter end.
+
+## POINTER 81
+All water for the lower quarter
+came through that aque blastia... 
+Now the pumps in our homes are dry.<PAGE>I don't really understand it, 
+but my husband says the broken 
+fountain is the reason.
+
+## POINTER 82
+I'm worried about water in the 
+lower quarter. We can't cook, 
+wash clothes, take baths... <PAGE>I don't want to 
+shower with the 
+dirty river water.
+
+## POINTER 83
+Welcome back, <STR>(YUR). 
+Looks like you've caused 
+a ruckus again.<PAGE>They're watching you, 
+<STR>(YUR), so don't do anything 
+crazy, okay?
+
+## POINTER 84
+What are you going to do now? 
+<STR>(FRE)'s doing his duty as a 
+knight, but you...
+
+## POINTER 85
+If it isn't <STR>(YUR) and 
+the young lady.<PAGE>So you came back 
+to Zaphias.
+
+## POINTER 86
+Don't even think 
+about going uptown.<PAGE>The Knights are still looking 
+for you all, <STR>(YUR).
+
+## POINTER 87
+They say <STR>(FRE)'s doing a great 
+job with the Knights. It's all 
+the lower quarter can talk about.<PAGE>He brought back the fountain's core, 
+too. They can't praise <STR>(FRE)
+enough, as far as I'm concerned.
+
+## POINTER 88
+You never change, do you 
+<STR>(YUR)? Always letting 
+<STR>(FRE) take the lead.<PAGE>I hope you'll show us what 
+you're really made of one of 
+these days, <STR>(YUR).
+
+## POINTER 89
+I sold the comb my late 
+husband gave me to help raise 
+money to fix the blastia. <PAGE>It was the first gift 
+he ever gave me...
+
+## POINTER 90
+Will the house I spent so 
+many years together with 
+my husband in sink...? <PAGE>Why did I 
+even bother...?
+
+## POINTER 91
+Thank you so much, <STR>(YUR). 
+I think I'll be able to buy back 
+the comb my husband gave me. <PAGE>You seem to have some 
+trouble with the Knights... 
+Is everything all right?
+
+## POINTER 92
+The aque blastia 
+never got fixed, did it?<PAGE>What if the barrier 
+blastia broke, too? 
+That's a scary thought.
+
+## POINTER 93
+Is it safe for you to come 
+back here, <STR>(YUR)? <PAGE>The Knights are all worked 
+up looking for you.
+
+## POINTER 94
+Stay away from the 
+castle, you hear? 
+The Knights are on alert.
+
+## POINTER 95
+These are the 
+people you're 
+traveling with...? <PAGE>Isn't it a little dangerous 
+tromping around with 
+girls and children?
+
+## POINTER 96
+You be careful now.<PAGE>Leave the dangerous 
+things to the Knights. 
+Don't do anything crazy.
+
+## POINTER 97
+I knew you'd come! 
+<STR>(YUR), it had to be you!<PAGE>What are you gonna do? 
+What should I do to help?
+
+## POINTER 98
+<STR>(FRE) would always be here 
+in no time when stuff like 
+this happened. Why not now?<PAGE><STR>(FRE) shouldn't live in 
+the castle when he could just 
+commute from the lower quarter.
+
+## POINTER 99
+So, <STR>(YUR), you went and 
+got yourself arrested, huh? Idiot! 
+I guess that's like you, though.<PAGE>I went to the royal quarter
+since you never came back. All 
+the nobles were talking about you.

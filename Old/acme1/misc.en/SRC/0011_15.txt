@@ -1,0 +1,315 @@
+## POINTER 2062
+No, not ”Klonoa”. Protects against all
+Status Effects.
+
+## POINTER 2064
+Order of the Imperial Honor
+
+## POINTER 2065
+A crest for one who earned the greatest honor
+from the Empire. Increases chance of critical hit.
+
+## POINTER 2067
+Imperial Prestige
+
+## POINTER 2068
+A symbol with the glorious image of the Empire.
+Increases rate of Over Limit gauge.
+
+## POINTER 2070
+Strange Mark
+
+## POINTER 2071
+A crest that shortens the time a mage is immobile
+after casting a spell.
+
+## POINTER 2073
+Wonder Symbol
+
+## POINTER 2074
+A crest that shortens the time a mage is immobile
+after casting a spell.
+
+## POINTER 2076
+Rabbit's Foot
+
+## POINTER 2077
+A rabbit’s foot. Increases Luck.
+
+## POINTER 2079
+Warrior Symbol
+
+## POINTER 2080
+The crest of a great warrior.
+Increases physical attacks.
+
+## POINTER 2082
+Thief's Tattoo
+
+## POINTER 2083
+A crest in the shape of a typhoon.
+Increases chance of stealing an item.
+
+## POINTER 2085
+Leather Boots
+
+## POINTER 2086
+Normal, everyday, run-of-the-mill boots.
+Quite comfy during battles.
+
+## POINTER 2088
+Fine Boots
+
+## POINTER 2089
+Improved leather boots.
+Indispensable on a long journey.
+
+## POINTER 2091
+Iron Leggings
+
+## POINTER 2092
+Very heavy leg gear made of iron.
+Not made with speed in mind.
+
+## POINTER 2094
+Silver Leggings
+
+## POINTER 2095
+Boots made of silver.
+Normally reserved for ceremonial use.
+
+## POINTER 2097
+Mythril Boots
+
+## POINTER 2098
+Boots made of mythril.
+The ideal leg gear.
+
+## POINTER 2100
+Gold Leggings
+
+## POINTER 2101
+A luxurious pair of boots made of gold.
+Extremely valuable and infused with magic.
+
+## POINTER 2103
+Rare Boots
+
+## POINTER 2104
+A perfectly crafted masterpiece.
+
+## POINTER 2106
+Persian Boots
+
+## POINTER 2107
+Cute boots in the shape of cats’ paws.
+
+## POINTER 2109
+Garnet
+
+## POINTER 2110
+A gem said to prevent illness.
+Greatly increases Fire resistance.
+
+## POINTER 2112
+Aquamarine
+
+## POINTER 2113
+A mysterious blue gem. Greatly
+increases Water resistance.
+
+## POINTER 2115
+Opal
+
+## POINTER 2116
+A gem that disperses light like a rainbow.
+Greatly increases Wind resistance.
+
+## POINTER 2118
+Amethyst
+
+## POINTER 2119
+A gem that shines a subtle purple.
+Greatly increases Darkness resistance.
+
+## POINTER 2121
+Black Onyx
+
+## POINTER 2122
+Dispels evil to keep you balanced.
+Raises Max HP by 30%.
+
+## POINTER 2124
+Moonstone
+
+## POINTER 2125
+Makes one very sensitive.
+Raises Max TP by 30%.
+
+## POINTER 2127
+Magic Mist
+
+## POINTER 2128
+A crystal with smoke sealed inside.
+Increases escape speed.
+
+## POINTER 2130
+Alexandrite
+
+## POINTER 2131
+A jewel that strengthen one’s resolve.
+Increases Max HP and TP by 25%.
+
+## POINTER 2133
+Ruby
+
+## POINTER 2134
+A gem used for safeguarding love, happiness,
+and bravery. Greatly increases Earth resistance.
+
+## POINTER 2136
+Diamond
+
+## POINTER 2137
+Known as the hardest jewel in the world.
+Greatly increases Light resistance.
+
+## POINTER 2139
+Turquoise
+
+## POINTER 2140
+A gem used for protection since ancient times.
+Greatly increases Luck.
+
+## POINTER 2142
+Lapis Lazuli
+
+## POINTER 2143
+A beautiful, calming blue gem.
+Decrease time of immobility after use of item by 50%.
+
+## POINTER 2145
+Sephira
+
+## POINTER 2146
+A sculpture of an unnamed goddess. Equip it to
+earn 1.5 times more Gald!
+
+## POINTER 2148
+Blue Sephira
+
+## POINTER 2149
+A sculpture of an unnamed goddess. Equip it to
+earn 2 times more Gald!
+
+## POINTER 2151
+Dice
+
+## POINTER 2152
+Carved from animal fossil.
+Increases GRADE earned by 10%.
+
+## POINTER 2154
+Blue Dice
+
+## POINTER 2155
+Made from aqua sapphire.
+Raises GRADE earned by 20%.
+
+## POINTER 2157
+Rebirth Doll
+
+## POINTER 2158
+A statue symbolizing sacrifice. Automatically
+resurrects KO'd wearer one time.
+
+## POINTER 2160
+Hunter's Monocle
+
+## POINTER 2161
+A monocle infused with search magic.
+Drastically increases item drop rate.
+
+## POINTER 2163
+Barbatos' Ring
+
+## POINTER 2164
+A ring that greatly increases physical attack.
+Prohibits all item use.
+
+## POINTER 2166
+Dhaos' Cape
+
+## POINTER 2167
+Changes the arte "Destruction Field" to
+"Dhaos Blast".
+
+## POINTER 2169
+Shizel's Necklace
+
+## POINTER 2170
+Raises casting speed dramatically.
+
+## POINTER 2172
+Miracle Bangle
+
+## POINTER 2173
+A miraculous bangle. Restores 10% of
+Max HP and TP for every enemy defeated.
+
+## POINTER 2175
+Risky Ring
+
+## POINTER 2176
+P.DEF and M.DEF drastically decreases,
+but all artes only incurs 1 TP.
+
+## POINTER 2178
+Final Symbol
+
+## POINTER 2179
+Occasionally restores HP and TP by 3%.
+
+## POINTER 2181
+Ultimate Red Cape
+
+## POINTER 2182
+Nullify Fire, Earth, Light attacks. Damage from
+Water, Wind and Darkness attacks increase by 50%.
+
+## POINTER 2184
+Ultimate Blue Cape
+
+## POINTER 2185
+Nullify Water, Wind, Darkness attacks. Damage froｍ
+Fire, Earth, Light attacks increase by 50%.
+
+## POINTER 2187
+Maximum Dog Symbol
+
+## POINTER 2188
+Only given to the toughest dog.
+An item with great powers.
+
+## POINTER 2190
+Beef
+
+## POINTER 2191
+Meat this tasty only comes from cows
+raised on wide green pastures!
+
+## POINTER 2193
+Chicken
+
+## POINTER 2194
+A natural meat from healthy chickens.
+No additives or preservatives.
+
+## POINTER 2196
+Pork
+
+## POINTER 2197
+Meat full of energy and nutrition.
+
+## POINTER 2199
+Tuna

@@ -1,0 +1,165 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(RIT)
+<VOICE>(VS35_014)Vale, ya he acabado de
+ajustar el blastia.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411957]
+<STR>(KAR)
+<VOICE>(VS35_015)Genial. Ya podemos
+volver a usar el barco.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(RAV)
+<VOICE>(VS35_016)Si no sus importa, me gustaría
+primero llevar a Harry de vuelta
+a Dahngrest.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1284262259]
+<STR>(YUR)
+<VOICE>(VS35_017)Nosotros también
+debemos ir para allá.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(KAR)
+<VOICE>(VS35_018)Cierto. Tenemos que entregar
+la apátheia de Belius.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(RAV)
+<VOICE>(VS35_019)
+¿Por qué nu dejáis que er viejo <STR>(RAV) 
+se encargue d'eso por vosotros? 
+¿Qué sus parece?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(KAR)
+<VOICE>(VS35_020)No podemos pedirte eso.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(RAV)
+<VOICE>(VS35_021)Oh, eso ofende. ¿Después de tó
+lo que hemos pasao juntos
+y seguís sin confiar en mí?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411957]
+<STR>(KAR)
+<VOICE>(VS35_022)No fue una petición oficial,
+pero creo que deberíamos
+honrar la última voluntad de Belius.<PAGE><VOICE>(VS35_023)No sería justo que
+no la entregásemos nosotros.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(YUR)
+<VOICE>(VS35_024)Ya. Además, es culpa nuestra
+que Belius acabara así.<PAGE><VOICE>(VS35_025)Tenemos que afrontar
+lo que hemos hecho.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412047]
+<STR>(YUR)
+<VOICE>(VS35_026)También es posible que el Don sepa
+por qué todo el mundo anda tras
+las apátheia con tanto ahínco.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(RAV)
+<VOICE>(VS35_027)No nus olvidemos de que
+él también quería pillar una.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412047]
+<STR>(YUR)
+<VOICE>(VS35_028)Si sabemos más de las apátheia
+puede que descubramos por qué <STR>(FRE)
+ha estado actuando de manera tan radical.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(RAV)
+<VOICE>(VS35_029)Pos vale. Me aseguraré de
+que er Don sus atienda.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(KAR)
+<VOICE>(VS35_030)¿En serio?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:memnoch;time:1282961475]
+<STR>(RAV)
+<VOICE>(VS35_031)Un hombre más sabio que yo dijo
+una vez: «Incluso los encuentros
+casuales son cosa del destino».<PAGE><VOICE>(VS35_032)Si esto es el destino,
+no m'importa esforzarme
+por Gran Vesperia.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(RIT)
+<VOICE>(VS35_033)Yo también iré a ver al Don.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411957]
+<STR>(KAR)
+<VOICE>(VS35_034)¿Tú, <STR>(RIT)?
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(RIT)
+<VOICE>(VS35_035)Han pasado muchas cosas.<PAGE><VOICE>(VS35_036)Y me da que todo está
+relacionado de algún modo
+con la apátheia, así que...
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1283800491]
+<STR>(RAV)
+<VOICE>(VS35_037)Fue él quien nus pidió ir
+a buscar la apátheia. Er tío
+tiene que estar tramando argo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411957]
+<STR>(YUR)
+<VOICE>(VS35_038)Bueno <STR>(RIT), entonces
+¿vienes con nosotros hasta Dahngrest?
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(KAR)
+<VOICE>(VS35_039)Ya solo queda <STR>(EST_P)...
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1283800491]
+<STR>(RIT)
+<VOICE>(VS35_040)Creo que necesita estar
+un tiempo a solas.
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(YUR)
+<VOICE>(VS35_041)Tienes razón.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(KAR)
+<VOICE>(VS35_042)Me pregunto cuándo volveremos
+a ver a <STR>(JUD)...
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(KAR)
+<VOICE>(VS35_043)Oíd, cuando hayamos entregado
+la apátheia, ¿qué os parece
+si vamos a buscarla?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411957]
+<STR>(YUR)
+<VOICE>(VS35_044)No me parece mala la idea. Además, ha
+quebrantado las leyes del gremio, y
+ya sabes que no podemos hacer la vista gorda.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411957]
+<STR>(KAR)
+<VOICE>(VS35_045)C-Claro. Al menos no sin oír
+antes sus motivos.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(YUR)
+<VOICE>(VS35_046)Pero lo primero es Dahngrest.
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(RAV)
+<VOICE>(VS35_047)Hay una playa que se extiende
+por el extremo sur de Tolbyccia
+en la que podemos amarrar.<PAGE><VOICE>(VS35_048)Creo que es lo máximo que podemos
+acercarnos a Dahngrest.
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280831308]
+<STR>(YUR)
+<VOICE>(VS35_049)Vale. Parece que ya
+tenemos rumbo fijado.

@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251551580]
+Equipaje extra
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285537209]
+(YUR)
+Solo quería echar un vistazo a los barrios
+bajos y volver. No me esperaba equipaje extra.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298210773]
+(EST)
+¿Equipaje? Si quiere, puedo llevarlo a la
+oficina de objetos perdidos del castillo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285537209]
+(YUR)
+Tú serías la persona menos
+indicada para hacer eso.
+
+## POINTER 4 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266244726]
+(EST)
+¿Eh?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285537209]
+(YUR)
+No importa, no hace falta.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285537209]
+(EST)
+Muy bien. Hágamelo saber
+si cambia de opinión.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285537209]
+(YUR)
+Parece la clásica noblecita inocente.
+¿Por qué la perseguirían aquellos Caballeros?

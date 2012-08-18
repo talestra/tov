@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1264110375]
+La maldición según (EST_P)
+
+## POINTER 1 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266414655]
+(EST_P)
+¿Seguro que a través de este bosque 
+llegaremos al otro lado del fuerte?
+
+## POINTER 2 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266414655]
+(YUR)
+Si no es así, pues volvemos y ya está.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547924]
+(EST_P)
+Pero ¡¿qué hago si la maldición del bosque
+me convierte en una rana o una serpiente?!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597172]
+(YUR)
+Entonces yo cuidaría de ti.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597172]
+(EST_P)
+¿Tú... cuidarías de mí?
+
+## POINTER 6 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266414655]
+(YUR)
+Pues claro. Tranquila. 
+De pequeño tuve ranas y 
+serpientes como mascotas. 
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597172]
+(EST_P)
+Si tú te convirtieras en eso,
+no sabría qué darte de comer...

@@ -1,0 +1,163 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395891]
+<STR>(RIT)
+<VOICE>(VS28_001)Por ahora no hay rastro de él.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395891]
+<STR>(EST_P)
+<VOICE>(VS28_002)¿Creéis que se ha ido por aquí?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279009923]
+<STR>(RAV)
+<VOICE>(VS28_003)Igual uso esto pa llegar
+al otro lao de la montaña.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283282740]
+<STR>(KAR)
+<VOICE>(VS28_004)Pero esto es la
+caverna de Cados.<PAGE>
+<VOICE>(VS28_005)Aquí vive un poderoso monstruo
+llamado Pteropus. Se supone
+que es tremendamente peligroso.<PAGE>
+<VOICE>(VS28_006)O al menos eso
+me contó Nan.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279009923]
+<STR>(JUD)
+<VOICE>(VS28_007)Es posible que haya
+entrado sin saberlo.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279009923]
+<STR>(RAP)
+<VOICE>(VS28_008)¡Guau!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395891]
+Regaey
+<VOICE>(VS28_009)E-E-E-Esperad...
+P-Por favor, d-d-dejadme ir.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395891]
+<STR>(YUR)
+<VOICE>(VS28_010)Parece que se había escondido
+esperando que pasáramos de largo.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279009923]
+<STR>(RAV)
+<VOICE>(VS28_011)Pos bien. Vamos a tener
+una charlilla.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283282740]
+<STR>(YUR)
+<VOICE>(VS28_012)¿Qué intentabas conseguir
+engañándonos así en el coliseo?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279450987]
+<STR>(RIT)
+<VOICE>(VS28_013)¡Y devuelve esa caja!
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279450987]
+Regaey
+<VOICE>(VS28_014)No m-me dejáis otra.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279450987]
+<STR>(EST_P)
+<VOICE>(VS28_015)¡¿Garra del Leviatán?!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395891]
+<STR>(YUR)
+<VOICE>(VS28_016)Supongo que esto quiere decir
+que Portal de Ruinas y Garra
+del Leviatán están relacionados.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283282740]
+<STR>(RIT)
+<VOICE>(VS28_017)Así que pretenden ayudar en
+las excavaciones y después roban los
+materiales para luego venderlos, ¿eh?<PAGE>
+<VOICE>(VS28_018)Van a pagar por esto, lo juro.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279450987]
+<STR>(KAR)
+<VOICE>(VS28_019)¿Cómo ha podido hacer algo así
+un gremio tan famoso y tan
+célebre como Portal de Ruinas?
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279450987]
+<STR>(KAR)
+<VOICE>(VS28_020)¡<STR>(JUD), espera!
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279450987]
+<STR>(JUD)
+<VOICE>(VS28_021)Se escapará si
+no nos damos prisa.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395891]
+<STR>(KAR)
+<VOICE>(VS28_022)¿Te acuerdas de lo que he dicho?
+Hay un monstruo la mar de
+desagradable viviendo aquí.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395891]
+<STR>(RAV)
+<VOICE>(VS28_023)Oye. ¿Qué te parece si lo dejamos por hoy?<PAGE>
+<VOICE>(VS28_024)Er viejo <STR>(RAV) no puede
+permitirse alejarse mucho de Nordopólica
+sin darle esta carta a Belius. 
+<PAGE><VOICE>(VS28_025)Si no, el Don
+m'encargará otro de sus
+puñeteros trabajos.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283282740]
+<STR>(RIT)
+<VOICE>(VS28_026)Pues yo voy a por él.<PAGE>
+<VOICE>(VS28_027)¡No puedo dejar que alguien así
+haga lo que le dé la gana con el
+blastia que consigue de las ruinas!<PAGE>
+<VOICE>(VS28_028)¡Y también voy a recuperar esa caja!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395891]
+<STR>(EST_P)
+<VOICE>(VS28_029)¡Yo... yo también voy!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395891]
+<STR>(RIT)
+<VOICE>(VS28_030)¡¿Qué me estás contando?!
+Tú ahí quietecita.
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279452206]
+<STR>(EST_P)
+<VOICE>(VS28_031)No.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279452206]
+<STR>(YUR)
+<VOICE>(VS28_032)Ja. Esto no parece
+algo que Gran Vesperia
+pueda dejar pasar.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279452206]
+<STR>(KAR)
+<VOICE>(VS28_033)Sí. Nuestro trabajo
+es proteger a <STR>(EST_P).
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395891]
+<STR>(JUD)
+<VOICE>(VS28_034)Si vamos todos juntos,
+seguro que sacaremos algo.
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279452206]
+<STR>(RAV)
+<VOICE>(VS28_035)¿Seguro qu'estaréis
+bien sin er gran <STR>(RAV)?
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279452206]
+<STR>(YUR)
+<VOICE>(VS28_036)Me parece que sí. Buena suerte
+con lo de entregar la carta.
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279452288]
+<STR>(RAV)
+<VOICE>(VS28_037)...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395891]
+<STR>(RAV)
+<VOICE>(VS28_038)Leñe, ¿ni siquiera vais a
+intentar impedir que me vaya?

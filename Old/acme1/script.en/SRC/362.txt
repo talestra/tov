@@ -1,0 +1,63 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS34_001)Hmm, not as many knights 
+as I'd have guessed...
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS34_002)Yeah, security looks normal 
+even with all the commotion 
+after the tournament.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS34_003)It did sound like they had their 
+hands full with the monsters 
+that managed to escape.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS34_004)Yeah, but it's too quiet. 
+Especially compared to the 
+checkpoints back at Cados.<PAGE><VOICE>(VS34_005)I think <STR>(RAV)'s got it right. 
+The Knights are up to 
+something, and I don't like it.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS34_006)But it looks like we can 
+stay in town, as long 
+as we don't stand out.
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS34_007)So we'll meet with Belius on the 
+evening of the new moon...which 
+happens to be tonight.
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS34_008)Let's stop by the inn ta 
+freshen up, and then go 
+see about meetin' her. <PAGE><VOICE>(VS34_009)I'm finally gonna be able ta 
+get rid of the Don's letter.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS34_010)Hmm, I wonder if <STR>(FRE)'s 
+already here somewhere.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS34_011)Do you think?
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS34_012)When we finish up all our 
+business here, I've got a few 
+things I want to ask that guy...
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS34_013)When you do...take 
+me with you.

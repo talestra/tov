@@ -1,0 +1,299 @@
+## POINTER 400
+Mt. Temza 08_02 (Mercenary Guild: Hammer)/Weather B
+
+## POINTER 401
+Mt. Temza 09_01 (Eagle: Rabbit)/Weather B
+
+## POINTER 402
+Mt. Temza 09_02 (Eagle: Rabbit)/Weather B
+
+## POINTER 403
+Mt. Temza 09_03 (Eagle: Rabbit)/Weather B
+
+## POINTER 404
+Pterobronc/Weather AB
+
+## POINTER 405
+Tison and Nan
+
+## POINTER 406
+Egothor Forest 01_01 (Bird Polwigle)/Weather A
+
+## POINTER 407
+Egothor Forest 01_02 (Bird Polwigle)/Weather A
+
+## POINTER 408
+Egothor Forest 01_03 (Bird Polwigle)/Weather A
+
+## POINTER 409
+Egothor Forest 01_04 (Bird Polwigle)/Weather A
+
+## POINTER 410
+Egothor Forest 02_01 (Clukkit)/Weather A
+
+## POINTER 411
+Egothor Forest 02_02 (Clukkit)/Weather A
+
+## POINTER 412
+Egothor Forest 02_03 (Clukkit)/Weather A
+
+## POINTER 413
+Egothor Forest 02_04 (Clukkit)/Weather A
+
+## POINTER 414
+Egothor Forest 03_01 (Insect Plant)/Weather A
+
+## POINTER 415
+Egothor Forest 03_02 (Insect Plant)/Weather A
+
+## POINTER 416
+Egothor Forest 03_03 (Insect Plant)/Weather A
+
+## POINTER 417
+Egothor Forest 03_04 (Insect Plant)/Weather A
+
+## POINTER 418
+Egothor Forest 04_01 (Filifolia)/Weather A
+
+## POINTER 419
+Egothor Forest 04_02 (Filifolia)/Weather A
+
+## POINTER 420
+Egothor Forest 04_03 (Filifolia)/Weather A
+
+## POINTER 421
+Egothor Forest 05_01 (Mantis)/Weather A
+
+## POINTER 422
+Egothor Forest 05_02 (Mantis)/Weather A
+
+## POINTER 423
+Egothor Forest 05_03 (Mantis)/Weather A
+
+## POINTER 424
+Egothor Forest 05_04 (Mantis)/Weather A
+
+## POINTER 425
+Egothor Forest 01_01 (Bird Polwigle)/Weather B
+
+## POINTER 426
+Egothor Forest 01_02 (Bird Polwigle)/Weather B
+
+## POINTER 427
+Egothor Forest 01_03 (Bird Polwigle)/Weather B
+
+## POINTER 428
+Egothor Forest 01_04 (Bird Polwigle)/Weather B
+
+## POINTER 429
+Egothor Forest 02_01 (Clukkit)/Weather B
+
+## POINTER 430
+Egothor Forest 02_02 (Clukkit)/Weather B
+
+## POINTER 431
+Egothor Forest 02_03 (Clukkit)/Weather B
+
+## POINTER 432
+Egothor Forest 02_04 (Clukkit)/Weather B
+
+## POINTER 433
+Egothor Forest 03_01 (Insect Plant)/Weather B
+
+## POINTER 434
+Egothor Forest 03_02 (Insect Plant)/Weather B
+
+## POINTER 435
+Egothor Forest 03_03 (Insect Plant)/Weather B
+
+## POINTER 436
+Egothor Forest 03_04 (Insect Plant)/Weather B
+
+## POINTER 437
+Egothor Forest 04_01 (Filifolia)/Weather B
+
+## POINTER 438
+Egothor Forest 04_02 (Filifolia)/Weather B
+
+## POINTER 439
+Egothor Forest 04_03 (Filifolia)/Weather B
+
+## POINTER 440
+Egothor Forest 05_01 (Mantis)/Weather B
+
+## POINTER 441
+Egothor Forest 0５_02 (Mantis)/Weather B
+
+## POINTER 442
+Egothor Forest 05_03 (Mantis)/Weather B
+
+## POINTER 443
+Egothor Forest 05_04 (Mantis)/Weather B
+
+## POINTER 444
+Egothor Forest 06_01 (Mandragora: Bird Polwigle)/Weather B
+
+## POINTER 445
+Egothor Forest 06_02 (Mandragora: Bird Polwigle)/Weather B
+
+## POINTER 446
+Egothor Forest 06_03 (Mandragora: Bird Polwigle)/Weather B
+
+## POINTER 447
+Egothor Forest 07_01 (Mimic: Normal)/Weather AB
+
+## POINTER 448
+Brucis/Weather AB
+
+## POINTER 449
+Shrine of Baction 01_01 (Rabbit Polwigle)/Weather AB
+
+## POINTER 450
+Shrine of Baction 01_02 (Rabbit Polwigle)/Weather AB
+
+## POINTER 451
+Shrine of Baction 01_03 (Rabbit Polwigle)/Weather AB
+
+## POINTER 452
+Shrine of Baction 02_01 (Rabbio)/Weather AB
+
+## POINTER 453
+Shrine of Baction 02_02 (Rabbio)/Weather AB
+
+## POINTER 454
+Shrine of Baction 02_03 (Rabbio)/Weather AB
+
+## POINTER 455
+Shrine of Baction 04_01 (Drill Chirpee)/Weather AB
+
+## POINTER 456
+Shrine of Baction 04_02 (Drill Chirpee)/Weather AB
+
+## POINTER 457
+Shrine of Baction 04_03 (Drill Chirpee)/Weather AB
+
+## POINTER 458
+Shrine of Baction 05_01 (Uniceros)/Weather AB
+
+## POINTER 459
+Shrine of Baction 05_02 (Uniceros)/Weather AB
+
+## POINTER 460
+Shrine of Baction 05_03 (Uniceros)/Weather AB
+
+## POINTER 461
+Shrine of Baction 06_01 (Knights/Halberd: Alexei Brigade)/Weather A
+
+## POINTER 462
+Shrine of Baction 06_02 (Knights/Halberd: Alexei Brigade)/Weather A
+
+## POINTER 463
+Shrine of Baction 06_03 (Knights/Halberd: Alexei Brigade)/Weather A
+
+## POINTER 464
+Shrine of Baction 06_02 (Knights/Halberd: Alexei Brigade)/Weather A
+
+## POINTER 465
+Shrine of Baction 07_01 (Knights/Big Sword: Schwann Brigade)/Weather A
+
+## POINTER 466
+Shrine of Baction 07_02 (Knights/Big Sword: Schwann Brigade)/Weather A
+
+## POINTER 467
+Shrine of Baction 07_03 (Knights/Big Sword: Schwann Brigade)/Weather A
+
+## POINTER 468
+Shrine of Baction 07_02 (Knights/Big Sword: Schwann Brigade)/Weather A
+
+## POINTER 469
+Shrine of Baction 08_01 (Knights/Long Spear: Schwann Brigade)/Weather A
+
+## POINTER 470
+Shrine of Baction 08_02 (Knights/Long Spear: Schwann Brigade)/Weather A
+
+## POINTER 471
+Shrine of Baction 08_03 (Knights/Long Spear: Schwann Brigade)/Weather A
+
+## POINTER 472
+Shrine of Baction 08_04 (Knights/Long Spear: Schwann Brigade)/Weather A
+
+## POINTER 473
+Shrine of Baction 09_01 (Knights/Staff)/Weather A
+
+## POINTER 474
+Shrine of Baction 09_02 (Knights/Staff)/Weather A
+
+## POINTER 475
+Shrine of Baction 10_01 (Superstar Green)/Weather B
+
+## POINTER 476
+Shrine of Baction 10_02 (Superstar Green)/Weather B
+
+## POINTER 477
+Schwann
+
+## POINTER 478
+Heracles 01_01 (Robot)/Weather AB
+
+## POINTER 479
+Heracles 01_02 (Robot)/Weather AB
+
+## POINTER 480
+Heracles 01_03 (Robot)/Weather AB
+
+## POINTER 481
+Heracles 01_04 (Robot)/Weather AB
+
+## POINTER 482
+Heracles 02_01 (Robot Cutter)/Weather AB
+
+## POINTER 483
+Heracles 02_02 (Robot Cutter)/Weather AB
+
+## POINTER 484
+Heracles 02_03 (Robot Cutter)/Weather AB
+
+## POINTER 485
+Heracles 03_01 (Iron Eagle)/Weather AB
+
+## POINTER 486
+Heracles 03_02 (Iron Eagle)/Weather AB
+
+## POINTER 487
+Heracles 03_03 (Iron Eagle)/Weather AB
+
+## POINTER 488
+Heracles 04_01 (Knights/Halberd: Alexei Brigade)/Weather AB
+
+## POINTER 489
+Heracles 04_02 (Knights/Halberd: Alexei Brigade)/Weather AB
+
+## POINTER 490
+Heracles 04_03 (Knights/Halberd: Alexei Brigade)/Weather AB
+
+## POINTER 491
+Heracles 05_01 (Knights/Staff)/Weather AB
+
+## POINTER 492
+Heracles 05_02 (Knights/Staff)/Weather AB
+
+## POINTER 493
+Heracles 06_01 (Mimic: Iron)/Weather AB
+
+## POINTER 494
+Alexei Royal Guard
+
+## POINTER 495
+Zagi: Fight 4
+
+## POINTER 496
+Blade Drifts of Zopheir 01_01 (Ice Eagle)/Weather A
+
+## POINTER 497
+Blade Drifts of Zopheir 01_02 (Ice Eagle)/Weather A
+
+## POINTER 498
+Blade Drifts of Zopheir 01_03 (Ice Eagle)/Weather A
+
+## POINTER 499
+Blade Drifts of Zopheir 01_04 (Ice Eagle)/Weather A

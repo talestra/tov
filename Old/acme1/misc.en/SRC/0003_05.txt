@@ -1,0 +1,132 @@
+## POINTER 504
+Edit detail
+
+## POINTER 505
+Change formation
+
+## POINTER 506
+Turn <0B>(0)'s equipment into raw material.
+
+## POINTER 507
+This will overwrite current game data.
+Is this OK?
+
+## POINTER 508
+<06>(RBD)Confirm　<06>(RBR)Return
+
+## POINTER 509
+Defeat 30! Coliseum Records
+
+## POINTER 510
+The selected storage device is not available.
+ Please choose a different storage device.
+
+## POINTER 511
+MASTERED!
+
+## POINTER 512
+GALD
+
+## POINTER 513
+PLAY TIME
+
+## POINTER 514
+MAX HITS
+
+## POINTER 515
+OVER LIMITS
+
+## POINTER 516
+<06>(RBD)Check gamer card <06>(RBR)Return <06>(L2)Ｎeighboring 10 <06>(R2)TOP 20
+
+## POINTER 517
+Disconnected from Xbox LIVE.
+
+## POINTER 518
+You need to be signed into
+Xbox LIVE to access the
+leaderboard.
+
+## POINTER 519
+Skill already attached to weapon.
+No further effect available.
+
+## POINTER 520
+Load failed...
+Please repeat the process again.
+
+## POINTER 521
+UP
+
+## POINTER 522
+UP
+
+## POINTER 523
+ID
+
+## POINTER 524
+Alphabetical
+
+## POINTER 525
+P. Atk
+
+## POINTER 526
+P. Def
+
+## POINTER 527
+M. Atk
+
+## POINTER 528
+M. Def
+
+## POINTER 529
+Price
+
+## POINTER 530
+Reserve
+
+## POINTER 531
+Applied to weapon and cannot be removed.
+
+## POINTER 532
+<06>(RBD)Enemy Info. <06>(RBL)Zoom in <06>(RBU)Dog map <06>(L2)<06>(R2)Category
+
+## POINTER 533
+Please wait... Accessing leaderboard.
+
+## POINTER 534
+Revived from K.O.
+
+## POINTER 535
+<06>(RBR)Return <06>(RBL)Switch info. <06>(L2)<06>(R2)Category <06>(L1)<06>(R1)Rotate
+
+## POINTER 536
+<06>(LTN)Move　<06>(RBL)Zoom out <06>(RBU)Dog map
+
+## POINTER 537
+<06>(L2)<06>(R2) Switch
+
+## POINTER 538
+Skills available through EQUIP.
+
+## POINTER 539
+The save file appears
+to be damaged and
+cannot be loaded.
+
+## POINTER 540
+The downloadable content attached to this
+save cannot be found. Game data cannot
+be loaded. Please download the content
+from Xbox LIVE Marketplace once again.
+
+## POINTER 541
+Loading selected data.
+Is this OK?
+
+## POINTER 542
+Acquire these item(s). Items over max no. will be
+discarded. (Normal max - Items: 15, Materials: 99)
+
+## POINTER 543
+Do you wish to use the item?

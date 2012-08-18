@@ -1,0 +1,57 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282645689]
+<STR>(EST_P)
+Oh, <STR>(YUR).
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282645689]
+<STR>(YUR)
+Perdona si te he interrumpido.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298488272]
+<STR>(EST_P)
+Desde que le quité la vida
+a Belius sin querer,<PAGE>
+he querido saber qué significa ser
+la Hija de la Luna Llena, para que
+no volviera a ocurrir algo así...<PAGE>
+En el fondo, creo que siempre
+ha sido mi deber saberlo.<PAGE>
+Pero después de lo que le pasó a Belius...
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282645689]
+<STR>(YUR)
+Le pasa a todo el mundo. Hacen algo,
+aprenden de ello, hacen algo distinto
+y después aprenden más.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282645689]
+<STR>(EST_P)
+¿A ti también, <STR>(YUR)?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282645689]
+<STR>(YUR)
+Sí.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282645689]
+<STR>(EST_P)
+Si hubiera sabido todo de
+antemano, quizá no habría
+cometido ningún error.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282645689]
+<STR>(YUR)
+Mmmm... Tan solo puedo
+estar seguro de una cosa.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1286449942]
+<STR>(EST_P)
+¿De qué?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282645689]
+<STR>(YUR)
+No habrías cometido ningún
+error, pero todo habría
+sido mucho más aburrido.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282645689]
+<STR>(EST_P)
+No sé yo...

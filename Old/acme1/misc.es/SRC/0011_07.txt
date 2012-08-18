@@ -1,0 +1,314 @@
+## POINTER 963 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734929]
+Mundo unido +1
+
+## POINTER 964 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009853]
+Juguete de metal de nombre demasiado aparatoso.
+Agitarlo por ahí puede ser muy peligroso.
+
+## POINTER 966 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706469]
+Yoyó de hiperchoque
+
+## POINTER 967 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264017149]
+El motor integrado aumenta la potencia de ataque.
+Es peligroso, así que ándate con ojo.
+
+## POINTER 969 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261685626]
+Látigoespada
+
+## POINTER 970 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Espada que se convierte en látigo.
+Goza de un amplio radio de alcance en las batallas.
+
+## POINTER 972 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261685626]
+Látigoespada +1α
+
+## POINTER 973 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Espada que se convierte en látigo.
+Goza de un amplio radio de alcance en las batallas.
+
+## POINTER 975 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261685626]
+Látigoespada +1β
+
+## POINTER 976 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Espada que se convierte en látigo.
+Goza de un amplio radio de alcance en las batallas.
+
+## POINTER 978 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261750635]
+Espada de Ivy
+
+## POINTER 979 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Espada maligna embrujada. Se sabe poco de ella,
+salvo que lleva grabado el nombre de su dueña.
+
+## POINTER 981 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Cadena sagrada
+
+## POINTER 982 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Cadena forjada con metal de otro mundo.
+Contiene algo sellado que conduce a la verdad.
+
+## POINTER 984 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Uróboros
+
+## POINTER 985 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264017149]
+Fuente de odio y caos sin fin. Su forma varía
+constantemente y es imposible escapar de sus ataques.
+
+## POINTER 987 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Cadena calamitosa: Uróboros
+
+## POINTER 988 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264017149]
+Fuente de odio y caos sin fin. Su forma varía
+constantemente y es imposible escapar de sus ataques.
+
+## POINTER 990 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Filo cambiante
+
+## POINTER 991 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706469]
+Arco capaz de convertirse en una espada corta.
+Muy pocos son lo bastante hábiles para manejar esta arma.
+
+## POINTER 993 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Filo cambiante +1α
+
+## POINTER 994 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706469]
+Arco capaz de convertirse en una espada corta.
+Muy pocos son lo bastante hábiles para manejar esta arma.
+
+## POINTER 996 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Filo cambiante +1β
+
+## POINTER 997 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706469]
+Arco capaz de convertirse en una espada corta.
+Muy pocos son lo bastante hábiles para manejar esta arma.
+
+## POINTER 999 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261749561]
+Arco Xiphos
+
+## POINTER 1000 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Arco ligero y compacto ideal para principiantes.
+
+## POINTER 1002 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261749561]
+Arco Xiphos +1α
+
+## POINTER 1003 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Arco ligero y compacto ideal para principiantes.
+
+## POINTER 1005 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261749561]
+Arco Xiphos +1β
+
+## POINTER 1006 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Arco ligero y compacto ideal para principiantes.
+
+## POINTER 1008 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Aguja halcón
+
+## POINTER 1009 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706469]
+Arco espada con pinchos en lugar de cuchillas.
+Es ligero pero muy poderoso.
+
+## POINTER 1011 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Aguja halcón +1
+
+## POINTER 1012 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706469]
+Arco espada con pinchos en lugar de cuchillas.
+Es ligero pero muy poderoso.
+
+## POINTER 1014 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Aguja halcón +2α
+
+## POINTER 1015 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706469]
+Arco espada con pinchos en lugar de cuchillas.
+Es ligero pero muy poderoso.
+
+## POINTER 1017 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Aguja halcón +2β
+
+## POINTER 1018 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706469]
+Arco espada con pinchos en lugar de cuchillas.
+Es ligero pero muy poderoso.
+
+## POINTER 1020 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706469]
+Arco transformable
+
+## POINTER 1021 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264017149]
+Arco versátil con un diseño muy cuidado.
+En otros tiempos se portaba en el ejército.
+
+## POINTER 1023 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706469]
+Arco transformable +1α
+
+## POINTER 1024 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264017149]
+Arco versátil con un diseño muy cuidado.
+En otros tiempos se portaba en el ejército.
+
+## POINTER 1026 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706469]
+Arco transformable +1β
+
+## POINTER 1027 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264017149]
+Arco versátil con un diseño muy cuidado.
+En otros tiempos se portaba en el ejército.
+
+## POINTER 1029 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261749561]
+Asesino de tormentas
+
+## POINTER 1030 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Arco de batalla ligero pero potente.
+Puede arrasar un campo de batalla como una tormenta.
+
+## POINTER 1032 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261749561]
+Asesino de tormentas +1α
+
+## POINTER 1033 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Arco de batalla ligero pero potente.
+Puede arrasar un campo de batalla como una tormenta.
+
+## POINTER 1035 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261749561]
+Asesino de tormentas +1β
+
+## POINTER 1036 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Arco de batalla ligero pero potente.
+Puede arrasar un campo de batalla como una tormenta.
+
+## POINTER 1038 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261750035]
+Caestus doble
+
+## POINTER 1039 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Arco de batalla diseñado para ataques de impacto.
+Los bordes se alinean en un patrón radial para maximizar el daño.
+
+## POINTER 1041 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261750035]
+Caestus doble +1α
+
+## POINTER 1042 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Arco de batalla pensado para ataques de impacto.
+Los bordes se alinean en un patrón radial para maximizar el daño.
+
+## POINTER 1044 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261750035]
+Caestus doble +1β
+
+## POINTER 1045 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Arco de batalla pensado para ataques de impacto.
+Los bordes se alinean en un patrón radial para maximizar el daño.
+
+## POINTER 1047 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261750035]
+Siembravendavales
+
+## POINTER 1048 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Arco diabólico imbuido con los poderes de un huracán. Las flechas
+lanzadas crean un vacío e impactan en los enemigos como una espada.
+
+## POINTER 1050 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261750277]
+Extiendequemaduras
+
+## POINTER 1051 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264014641]
+Arco diabólico con el poder de crear grandes llamaradas.
+Sus ardientes flechas pueden quemar hasta los cielos.
+
+## POINTER 1053 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Gatillo rápido
+
+## POINTER 1054 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264017149]
+Arco ligerísimo diseñado para usarse de forma rápida
+y sencilla. Los bordes están afilados como cuchillas.
+
+## POINTER 1056 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Gatillo rápido +1α
+
+## POINTER 1057 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264017149]
+Arco ligerísimo diseñado para usarse de forma rápida
+y sencilla. Los bordes están afilados como cuchillas.
+
+## POINTER 1059 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Gatillo rápido +1β
+
+## POINTER 1060 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264017149]
+Arco ligerísimo diseñado para usarse de forma rápida
+y sencilla. Los bordes están afilados como cuchillas.
+
+## POINTER 1062 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1261736137]
+Tiro rápido
+
+## POINTER 1063 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016182]
+Arco ligero como una pluma que puede controlarse
+con el dedo meñique. Sus flechas son devastadoras.
+
+## POINTER 1065 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261750446]
+Águila en picado
+
+## POINTER 1066 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016182]
+Arco de precisión que nunca falla su objetivo.
+Ningún artesano actual sería capaz de crear otro igual.
+
+## POINTER 1068 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261750446]
+Águila en picado +1α
+
+## POINTER 1069 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016182]
+Arco de precisión que nunca falla su objetivo.
+Ningún artesano actual sería capaz de crear otro igual.
+
+## POINTER 1071 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261750446]
+Águila en picado +1β
+
+## POINTER 1072 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016182]
+Arco de precisión que nunca falla su objetivo.
+Ningún artesano actual sería capaz de crear otro igual.
+
+## POINTER 1074 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Estrella celestial
+
+## POINTER 1075 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261765426]
+Arco legendario que puede disparar a través del cielo.
+Se dice que derribó una nave estelar en una antigua batalla.
+
+## POINTER 1077 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Estrella celestial +1
+
+## POINTER 1078 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261765426]
+Arco legendario que puede disparar a través del cielo.
+Se dice que derribó una nave estelar en una antigua batalla.
+
+## POINTER 1080 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Eslinga letal
+
+## POINTER 1081 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016182]
+¡No dejes que te hipnotice! Una vez ha disparado
+la flecha, sembrará la muerte entre sus objetivos.
+
+## POINTER 1083 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Eslinga letal +1α
+
+## POINTER 1084 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016182]
+¡No dejes que te hipnotice! Una vez ha disparado
+la flecha, sembrará la muerte entre sus objetivos.
+
+## POINTER 1086 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Eslinga letal +1β
+
+## POINTER 1087 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016182]
+¡No dejes que te hipnotice! Una vez ha disparado
+la flecha, sembrará la muerte entre sus objetivos.
+
+## POINTER 1089 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Nebilim
+
+## POINTER 1090 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016182]
+Arco con dos virtudes y dos corazones.
+No existe nada que sus flechas no puedan perforar.
+
+## POINTER 1092 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1261738538]
+Tirachinas
+
+## POINTER 1093 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271585757]
+A los críos se les riñe por jugar con esto.
+Ahora incluso le incrustan una horrible cuchilla.
+
+## POINTER 1095 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261486131]
+Ángel infernal: Nebilim
+
+## POINTER 1096 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016182]
+Arco con dos virtudes y dos corazones.
+No existe nada que sus flechas no puedan perforar.
+
+## POINTER 1098 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261750497]
+Arco de asalto

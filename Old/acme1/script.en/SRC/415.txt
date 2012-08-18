@@ -1,0 +1,47 @@
+## POINTER 0
+<STR>(EST_P)
+Did you find out anything?
+
+## POINTER 1
+<STR>(YUR)
+We've got a lead in a place 
+called Egothor Forest.
+
+## POINTER 2
+<STR>(KAR)
+I'm pretty sure it's on the west side
+of Hypionia, to the south of here.
+
+## POINTER 3
+<STR>(RAV)
+So Myorzo's in 
+that forest?
+
+## POINTER 4
+<STR>(JUD)
+No, but a door is.
+
+## POINTER 5
+<STR>(RIT)
+Huh? A door? What do you mean?
+
+## POINTER 6
+<STR>(YUR)
+There's a door there that leads to Myorzo. It'd 
+be fastest to just go and check it out.
+
+## POINTER 7
+<STR>(KAR)
+First...let me rest...
+
+## POINTER 8
+<STR>(JUD)
+Perhaps we should get some rest before leaving?
+
+## POINTER 9
+<STR>(YUR)
+But...
+
+## POINTER 10
+<STR>(RIT)
+We don't really have a choice.

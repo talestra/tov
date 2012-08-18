@@ -1,0 +1,32 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253817708]
+Torim, el Centro de Comercio
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298113521]
+(RIT)
+Torim da más el pego de ciudad
+portuaria que Nor, ¿no os parece?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267305349]
+(EST_P)
+Sí. Está muy animado
+y lleno de barcos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298113521]
+(KAR)
+Eso es porque Torim está dirigido
+por Fortuna Mercantil. Controlan todos
+los viajes marítimos del mundo.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1256410858]
+(KAR)
+Estoy bastante seguro de que
+tienen su sede central aquí.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267305349]
+(YUR)
+Supongo que un negocio puede mantener
+una ciudad próspera si la gente así lo quiere.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1256410858]
+(YUR)
+Nunca lo había pensado.

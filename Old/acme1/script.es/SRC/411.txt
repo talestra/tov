@@ -1,0 +1,356 @@
+## POINTER 0 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285413148]
+<STR>(KAR)
+<VOICE>(VS38_001)Bueno, pues parece que aquí
+no está. A-A lo mejor está
+por ahí echándose una siesta...
+
+## POINTER 1 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1282925159]
+<STR>(JUD)
+<VOICE>(VS38_002)Phaeroh. Estás aquí,
+¿verdad?
+
+## POINTER 2 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1282925159]
+<STR>(KAR)
+<VOICE>(VS38_003)¡¡Uaaah!!
+
+## POINTER 3 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1282925159]
+Phaeroh
+<VOICE>(VS38_004)¡Insulso veneno,
+por fin apareces ante mí!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(YUR)
+<VOICE>(VS38_005)Así que estabas aquí.
+¿Así es como recibes a tus invitados,
+Phaeroh? ¿Insultándolos?
+
+## POINTER 5 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+Phaeroh
+<VOICE>(VS38_006)¿Por qué razón habéis venido a verme?<PAGE><VOICE>(VS38_007)Seguro que ya sabéis
+que puedo acabar con
+vosotros con solo pensarlo.
+
+## POINTER 6 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1282925159]
+<STR>(YUR)
+<VOICE>(VS38_008)Je. Te lo tienes
+muy creído, ¿no?<PAGE><VOICE>(VS38_009)Si de verdad quieres luchar,
+me sabría fatal decepcionarte.
+
+## POINTER 7 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1282925159]
+<STR>(EST_P)
+<VOICE>(VS38_010)¡<STR>(YUR), no! 
+¡Por favor, esperad!
+
+## POINTER 8 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1282925159]
+<STR>(RIT)
+<VOICE>(VS38_011)¡<STR>(EST_P)!
+
+## POINTER 9 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(EST_P)
+<VOICE>(VS38_012)¡Phaeroh, por favor, escuche
+lo que tengo que decir!
+
+## POINTER 10 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+Phaeroh
+<VOICE>(VS38_013)¿Acaso no tienes temor alguno
+a la muerte, pequeña? Pues has de
+saber que te hayas ante sus fauces.
+
+## POINTER 11 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(EST_P)
+<VOICE>(VS38_014)Sí que lo tengo. Pero temo
+más morir sin saber quién
+soy realmente.<PAGE><VOICE>(VS38_015)Belius me dijo que debía encontrarme
+con usted para conocer mi destino.<PAGE><VOICE>(VS38_016)Necesito saber en qué
+consiste ese sino.<PAGE><VOICE>(VS38_017)Entiendo que sea una amenaza
+para los entelechia. Pero usted
+dijo que era un veneno para el mundo...<PAGE><VOICE>(VS38_018)¿En qué consiste realmente
+este poder que tengo? ¿Quiénes
+son los Hijos de la Luna Llena?<PAGE><VOICE>(VS38_019)Si en verdad mi existencia
+es algo intolerable...<PAGE><VOICE>(VS38_020)entonces aceptaré mi muerte.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(EST_P)
+<VOICE>(VS38_021)¡Pero al menos tengo derecho
+a saber por qué razón he de morir!<PAGE><VOICE>(VS38_022)¡Dígamelo, por favor!
+¡Se lo suplico!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+Phaeroh
+<VOICE>(VS38_023)Tiempo ha, esta tierra era
+un vergel protegido por la
+bendición de un aer krene.
+
+## POINTER 14 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(RIT)
+<VOICE>(VS38_024)Así que había un aer
+krene aquí...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527560]
+<STR>(EST_P)
+<VOICE>(VS38_025)Pero ¿qué ocurrió? 
+¿Por qué cambió?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+Phaeroh
+<VOICE>(VS38_026)Lo que veis ante vosotros son los resultados
+de los efectos de un exceso de aer.<PAGE><VOICE>(VS38_027)Y la razón del descontrol del aer...
+está en el veneno advenido por
+los Hijos de la Luna Llena.
+
+## POINTER 17 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(EST_P)
+<VOICE>(VS38_028)¿Eh?
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1285764028]
+Phaeroh
+<VOICE>(VS38_029)El poder de los Hijos de la Luna
+Llena estimula los aer krene
+más que cualquier blastia.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(YUR)
+<VOICE>(VS38_030)¿Cómo?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(RIT)
+<VOICE>(VS38_031)Los blastias convierten el aer
+en energía mediante una fórmula.<PAGE><VOICE>(VS38_032)Así que si <STR>(EST_P) puede
+usar artes curativas sin
+la ayuda de un blastia...<PAGE><VOICE>(VS38_033)Entonces puede que tenga
+una fórmula en su propio
+ser que le permite hacerlo.<PAGE><VOICE>(VS38_034)<STR>(JUD) buscaba blastias que
+usaban una fórmula en concreto...<PAGE><VOICE>(VS38_035)Entonces... esa fórmula de <STR>(EST_P)
+también tiene que consumir grandes
+cantidades de aer.<PAGE><VOICE>(VS38_036)Eso hace que los aer krene se
+vuelvan más activos y generen
+más aer del debido...<PAGE><VOICE>(VS38_037)Esperaba que mi hipótesis
+fuese incorrecta...
+
+## POINTER 21 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283290402]
+<STR>(EST_P)
+<VOICE>(VS38_038)Entonces, yo...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+Phaeroh
+<VOICE>(VS38_039)Es tal como ha dicho.<PAGE><VOICE>(VS38_040)Con cada nuevo uso de su poder,
+la Hija de la Luna Llena consume
+mucho más aer que los blastias.<PAGE><VOICE>(VS38_041)Al hacerlo, el desequilibrio
+de aer en el mundo va a peor.<PAGE><VOICE>(VS38_042)Para este planeta, tal existencia
+no puede considerarse sino un veneno.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(YUR)
+<VOICE>(VS38_043)¿Y vas a aniquilarla sin más?
+Juzgas un poco demasiado deprisa,
+¿no te parece, Phaeroh?
+
+## POINTER 24 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+Phaeroh
+<VOICE>(VS38_044)Este es un poblema que afecta al planeta
+entero y ella es la causa. No hacer nada
+al respecto sería una insensatez sin par.
+
+## POINTER 25 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(YUR)
+<VOICE>(VS38_045)Si el problema es <STR>(EST_P), 
+entonces nos toca a nosotros resolverlo.<PAGE><VOICE>(VS38_046)Tú no pintas nada en nuestros asuntos.
+
+## POINTER 26 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+Phaeroh
+<VOICE>(VS38_047)La gravedad de la situación
+os supera con creces.
+
+## POINTER 27 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(YUR)
+<VOICE>(VS38_048)No pensarás en serio que si matas
+a <STR>(EST_P) todo será después
+felicidad y jolgorio, ¿verdad?
+
+## POINTER 28 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+Phaeroh
+<VOICE>(VS38_049)Al menos un problema
+quedará resuelto.
+
+## POINTER 29 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(JUD)
+<VOICE>(VS38_050)Phaeroh, en Heliord me detuve,
+y en Dahngrest tuve que
+detenerte a ti.<PAGE><VOICE>(VS38_051)Lo que creía que era un blastia
+resultó ser un humano. Antes de
+que me diera cuenta, me sentí perdida.<PAGE><VOICE>(VS38_052)Nunca llegué a pensar que esta niña
+fuera un peligro tan grande como pretendes.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+Phaeroh
+<VOICE>(VS38_053)Y debido a tu consternación,
+te concedí tiempo para que
+vieras la realidad.<PAGE><VOICE>(VS38_054)Y como resultado, mi hermana Belius
+ha perecido. Ya es suficiente.
+Su poder no traerá más que desdicha.
+
+## POINTER 31 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(RAV)
+<VOICE>(VS38_055)Mmm... Nu'stoy mu seguro de tó esto,
+pero si el problema es su poder, ¿por
+qué no simplemente deja de usarlo?
+
+## POINTER 32 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+Phaeroh
+<VOICE>(VS38_056)Nada garantiza que no
+vuelva a hacer uso de él.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(JUD)
+<VOICE>(VS38_057)Eso es cierto... Le cuesta mucho
+ignorar las cosas que ocurren
+a su alrededor.<PAGE><VOICE>(VS38_058)No cabe duda de que acabará usando
+su poder para ayudar a alguien.
+
+## POINTER 34 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(JUD)
+<VOICE>(VS38_059)Sin embargo, mientras mantenga ese espíritu
+compasivo, no se la puede considerar
+únicamente como dañina.<PAGE><VOICE>(VS38_060)Ella no es como un blastia.
+Sé que eres capaz de discernir
+la diferencia.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+Phaeroh
+<VOICE>(VS38_061)La compasión por sí sola no basta para salvar el mundo.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527556]
+<STR>(YUR)
+<VOICE>(VS38_062)Atiende, Phaeroh. Entiendo que
+has pensado en todo esto teniendo
+en cuenta lo mejor para todos.<PAGE><VOICE>(VS38_063)Pero ¿por qué no puede haber sitio
+en este mundo para <STR>(EST_P)?
+
+## POINTER 37 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+Phaeroh
+<VOICE>(VS38_064)A veces se necesita eliminar
+una parte para que el todo
+pueda salvarse.
+
+## POINTER 38 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(YUR)
+<VOICE>(VS38_065)No cuela.<PAGE><VOICE>(VS38_066)¿Qué te da a ti derecho a decidir
+quién debe ser eliminado y quién
+no, si se puede saber?
+
+## POINTER 39 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285413709]
+Phaeroh
+<VOICE>(VS38_067)Nosotros hemos resistido la ansiedad
+de la existencia durante un tiempo
+mayor del que vosotros podéis concebir.<PAGE><VOICE>(VS38_068)¡Las palabras de aquellos que hacen
+su hogar en este mundo por un momento
+tan ínfimo no tienen peso alguno!
+
+## POINTER 40 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(JUD)
+<VOICE>(VS38_069)Phaeroh, escúchame, por favor.<PAGE><VOICE>(VS38_070)Lo importante es hallar
+un modo de detener
+el exceso de aer, ¿verdad?<PAGE><VOICE>(VS38_071)Todavía nos queda tiempo
+para buscar una manera.
+
+## POINTER 41 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(EST_P)
+<VOICE>(VS38_072)<STR>(JUD)...
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(JUD)
+<VOICE>(VS38_073)Y si... y si los efectos del poder
+de <STR>(EST_P) llegan hasta
+su límite máximo...<PAGE><VOICE>(VS38_074)la mataré tal como prometí.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(JUD)
+<VOICE>(VS38_075)Esto no debería suponerte ningún problema.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(KAR)
+<VOICE>(VS38_076)O-Oye, <STR>(JUD),
+¡¿va en serio?!
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(JUD)
+<VOICE>(VS38_077)Gran Vesperia encontrará
+una solución antes de que
+eso ocurra, ¿verdad?
+
+## POINTER 46 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285414089]
+<STR>(KAR)
+<VOICE>(VS38_078)¡¿Lo qué?! Yo... esto...
+¡Sí, por supuesto!
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(YUR)
+<VOICE>(VS38_079)Minipunto para <STR>(JUD).<PAGE><VOICE>(VS38_080)Queda decidido, entonces.<PAGE><VOICE>(VS38_081)
+Si los humanos somos responsables del problema
+de <STR>(EST_P) y traemos el apocalipsis, entonces
+nos corresponde a nosotros arreglarlo.<PAGE><VOICE>(VS38_082)Si hacemos todo lo que podemos
+y aun así la jorobamos, por mí
+como si nos asas a la parrilla.
+
+## POINTER 48 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+Phaeroh
+<VOICE>(VS38_083)Has cambiado. Si todavía
+fueras la misma de antes...
+
+## POINTER 49 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(JUD)
+<VOICE>(VS38_084)¿Eso crees?<PAGE><VOICE>(VS38_085)Pues me alegra oirlo.
+
+## POINTER 50 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283290402]
+Phaeroh
+<VOICE>(VS38_086)Muy bien. ¡Mas no olvidéis
+que el tiempo vuela!
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(RIT)
+<VOICE>(VS38_087)¡Espera!<PAGE><VOICE>(VS38_088)Si las fórmulas son la causa
+del exceso de aer...<PAGE><VOICE>(VS38_089)Entonces ha tenido que
+pasar esto mismo otras
+veces en el pasado.<PAGE><VOICE>(VS38_090)Es decir, los blastias los
+inventó una civilización antigua.
+
+## POINTER 52 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285414089]
+Phaeroh
+<VOICE>(VS38_091)Hay quienes han heredado
+los pecados de tiempos
+pretéritos.<PAGE><VOICE>(VS38_092)Si alguien puede hablar
+de los días de la antigüedad,
+son ellos.
+
+## POINTER 53 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(KAR)
+<VOICE>(VS38_093)Se ha ido...
+
+## POINTER 54 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(EST_P)
+<VOICE>(VS38_094)Mmm, yo... quería darte
+las gracias, <STR>(YUR).<PAGE><VOICE>(VS38_095)Y a ti también, <STR>(JUD).
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1298493910]
+<STR>(YUR)
+<VOICE>(VS38_096)No pasa nada... Pero, oye...
+
+## POINTER 56 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(EST_P)
+<VOICE>(VS38_097)¿Qué?
+
+## POINTER 57 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285414089]
+<STR>(YUR)
+<VOICE>(VS38_098)¿«Entonces aceptaré mi muerte»?<PAGE><VOICE>(VS38_099)¿A qué narices ha venido eso?
+
+## POINTER 58 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(EST_P)
+<VOICE>(VS38_100)Lo siento...
+
+## POINTER 59 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(YUR)
+<VOICE>(VS38_101)No quiero volver a oírte decir eso.
+
+## POINTER 60 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283126003]
+<STR>(EST_P)
+<VOICE>(VS38_102)Lo siento...

@@ -1,0 +1,221 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(YUR)
+<VOICE>(VS25_031)Je. Así que ni siquiera la Unión
+sabe estarse quieta cuando una princesa
+del Imperio anda campando por ahí.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(EST_P)
+<VOICE>(VS25_032)Entonces el Don también sabe que
+soy una candidata al trono imperial.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(RAV)
+<VOICE>(VS25_033)Sip. Por eso m'ha dicho
+que venga pa vigilarte.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(KAR)
+<VOICE>(VS25_034)¿Has venido a observarla?
+Eso da mal rollo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(EST_P)
+<VOICE>(VS25_035)¿En serio?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(KAR)
+<VOICE>(VS25_036)¿Qué pasa? ¿Soy el único que lo piensa?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(RAV)
+<VOICE>(VS25_037)En cualquier caso, por fin
+sus alcanzo y acabo metiendo
+la pezuña en er embrollo de antes.<PAGE><VOICE>(VS25_038)Er viejo <STR>(RAV)
+lo ha tenío difícil.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(KAR)
+<VOICE>(VS25_039)Pero ¿por qué se preocupan tanto por <STR>(EST_P)?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(RIT)
+<VOICE>(VS25_040)Es lógico teniendo en cuenta
+cómo están las cosas ahora
+entre el Imperio y la Unión.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(YUR)
+<VOICE>(VS25_041)Cada bando quiere que el otro
+no se meta. El Don tan solo
+quiere seguir sus pasos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(RIT)
+<VOICE>(VS25_042)Entonces todos tenéis pensado
+ir a buscar a ese tal Phaeroh
+en las Arenas de Kogorh.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(EST_P)
+<VOICE>(VS25_043)Sí.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(RIT)
+<VOICE>(VS25_044)¿Tienes idea de qué clase
+de sitio es un desierto?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(KAR)
+<VOICE>(VS25_045)Es caluroso, seco
+y está lleno de arena.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(RIT)
+<VOICE>(VS25_046)Eso es quedarse corto.
+No es tan sencillo, ni de lejos.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(EST_P)
+<VOICE>(VS25_047)Nuestro plan consiste en
+llegar primero allí.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(RIT)
+<VOICE>(VS25_048)¿Y después?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(EST_P)
+<VOICE>(VS25_049)Supongo que entonces habrá
+que preguntar dónde está Phaeroh.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(RIT)
+<VOICE>(VS25_050)No sé ni por dónde empezar a
+decir cosas sobre ese plan...<PAGE><VOICE>(VS25_051)Imagino que no se trata solo
+de que no quieras volver
+al castillo, ¿verdad?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(EST_P)
+<VOICE>(VS25_052)Mmm... Bueno.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(RAV)
+<VOICE>(VS25_053)Yo solo digo que sería genial
+p'al viejo <STR>(RAV) que lo hicieras.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(EST_P)
+<VOICE>(VS25_054)No. Lo siento, pero tengo que
+saber qué quería decir Phaeroh...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(RAV)
+<VOICE>(VS25_055)Je. Bueno, er continente
+de Desier me viene la mar de bien.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(JUD)
+<VOICE>(VS25_056)¿Y eso?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(RAV)
+<VOICE>(VS25_057)Tengo que ir a Nordopòlica
+pa hacerle otro recao al Don.<PAGE><VOICE>(VS25_058)Me toca darle una carta a Belius.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(KAR)
+<VOICE>(VS25_059)Vaya, eso sí que es importante.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(EST_P)
+<VOICE>(VS25_060)Esa es la dueña del coliseo y dirigente
+de Nordopólica, ¿me equivoco?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(KAR)
+<VOICE>(VS25_061)Técnicamente sí. La llaman la Adalid.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(JUD)
+<VOICE>(VS25_062)¿Sabes qué hay escrito en la carta?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(RAV)
+<VOICE>(VS25_063)Mm. Solo que tiene argo que ver con
+el ataque de los monstruos a Dahngrest.<PAGE><VOICE>(VS25_064)Pa ser exactos, sobre er tal
+Phaeroh del que andáis hablando.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(RAV)
+<VOICE>(VS25_065)Er Don cree que Belius
+puede saber argo sobre
+ese monstruo.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(YUR)
+<VOICE>(VS25_066)Parece que a nosotros
+también nos convendría
+hacerle una visita a Belius.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(EST_P)
+<VOICE>(VS25_067)Cierto.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(RAV)
+<VOICE>(VS25_068)Pos si no sus importa, <STR>(RAV) 
+aquí presente, s'unirá a vosotros.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(KAR)
+<VOICE>(VS25_069)Está bien. Pero tendrás que seguir
+las leyes de Gran Vesperia.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(RAV)
+<VOICE>(VS25_070)Entendío.<PAGE><VOICE>(VS25_071)Pero no puedo unirme a
+vuestro gremio, ya me entendéis.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(EST_P)
+<VOICE>(VS25_072)¿Por qué no puedes
+unirte a Gran Vesperia?
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(KAR)
+<VOICE>(VS25_073)Va contra las reglas que alguien
+esté en dos gremios al mismo tiempo.<PAGE><VOICE>(VS25_074)Y supongo que, técnicamente,
+perteneces a Altosk.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(RAV)
+<VOICE>(VS25_075)¿Cómo que «técnicamente»?
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(RIT)
+<VOICE>(VS25_076)¿Hemos acabado?
+Quiero descansar un poco.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:xander;time:1275583675]
+<STR>(EST_P)
+<VOICE>(VS25_077)De acuerdo.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(EST_P)
+<VOICE>(VS25_078)¿Qué... qué creéis que
+hará ahora <STR>(RIT)?
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(YUR)
+<VOICE>(VS25_079)Eso me pregunto yo...
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(JUD)
+<VOICE>(VS25_080)¿Quiere esto decir que tenemos
+permiso hasta mañana?
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327042]
+<STR>(KAR)
+<VOICE>(VS25_081)Vale. Nos veremos en el puerto.

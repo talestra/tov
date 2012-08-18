@@ -1,0 +1,174 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269897079]
+<STR>(YUR)
+<VOICE>(VS03_092)Pues sí que tiene limpio este sitio.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269897079]
+<STR>(YUR)
+<VOICE>(VS03_093)<STR>(FRE) debe estar deambulando por ahí.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270593613]
+
+<VOICE>(VS03_094)Entonces... eso significa que he llegado tarde.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1272052454]
+<STR>(YUR)
+<VOICE>(VS03_095)Bueno, ¿y qué clase de atrocidad has hecho?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269897079]
+
+<VOICE>(VS03_096)¿Yo? No he hecho nada malo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+<STR>(YUR)
+<VOICE>(VS03_097)Y, sin embargo, unos Caballeros
+te perseguían por el castillo...
+Sí, eso tiene sentido.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+
+<VOICE>(VS03_098)Mmm... Verá... ¡<STR>(YUR)!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+<STR>(YUR)
+<VOICE>(VS03_099)¡Hala! ¿Qué pasa?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+
+<VOICE>(VS03_100)¡No puedo darle más detalles, pero
+<STR>(FRE) corre un grave peligro!<PAGE>
+<VOICE>(VS03_101)Debo ir a avisarle.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269897079]
+<STR>(YUR)
+<VOICE>(VS03_102)Pues si quieres ir, ve.
+¿Cuál es el problema?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269897079]
+
+<VOICE>(VS03_103)Ojalá lo supiese...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+<STR>(YUR)
+<VOICE>(VS03_104)Mira, ahora mismo tengo
+que encargarme de un asunto.<PAGE><VOICE>(VS03_105)En cuanto se calmen las cosas afuera,
+quiero volver a los barrios bajos.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+
+<VOICE>(VS03_106)En ese caso, ¿me puede llevar con usted?
+¿Por favor?<PAGE><VOICE>(VS03_107)A excepción de <STR>(FRE), no hay
+nadie con quien pueda contar.<PAGE><VOICE>
+(VS03_108)¿Me puede ayudar al menos a salir del castillo?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270593613]
+
+<VOICE>(VS03_109)Por favor, se lo ruego.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+<STR>(YUR)
+<VOICE>(VS03_110)*Suspiro* Vale, veo que vas en serio.
+Pero antes que nada necesito saber tu nombre.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269897079]
+
+<VOICE>(VS03_111)¡Aaah!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+
+<VOICE>
+(VS03_112)Prepárate para ser víctima de mi acero.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270074909]
+<STR>(YUR)
+<VOICE>(VS03_113)¿Es que no sabes lo que es llamar a la puerta?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+Zagi
+<VOICE>(VS03_114)Soy Zagi... El hombre que acabará con tu vida.
+¡Y ahora muere, <STR>(FRE) Scifo!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+<STR>(YUR)
+<VOICE>(VS03_130)Te has equivocado de tío.
+¿No se supone que deberías saberlo?
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269901212]
+
+<VOICE>(VS03_131)¡Él no es <STR>(FRE)!
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269900566]
+Zagi
+<VOICE>(VS03_132)Detalles, detalles.
+¡Venga!
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269901212]
+<STR>(YUR)
+<VOICE>(VS03_133)Este tío está como una cabra. 
+<STR>(FRE) ha hecho unos enemigos muy interesantes.
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269900566]
+
+<VOICE>(VS03_134)Zagi, nos vamos.
+Los Caballeros van tras nosotros.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269900566]
+
+<VOICE>(VS03_135)¡Cómo te atreves!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+Zagi
+<VOICE>(VS03_136)¡Jajajá! ¡Tú no te metas!
+¡Ahora es cuando viene lo mejor!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+
+<VOICE>(VS03_137)Deprisa, antes de que lleguen
+los Caballeros. ¿O es que quieres
+que hoy termine la diversión?
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269900566]
+<STR>(YUR)
+<VOICE>(VS03_138)Nosotros también deberíamos irnos.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269900566]
+<STR>(YUR)
+<VOICE>(VS03_139)Iremos a hacer una visita a la diosa
+y seguiremos nuestro camino.
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269900566]
+
+<VOICE>(VS03_140)<STR>(YUR), mmm...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+<STR>(YUR)
+<VOICE>(VS03_141)Sí, lo sé. Iremos juntos hasta
+que salgamos del castillo.
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270593613]
+<STR>(EST)
+<VOICE>(VS03_142)Oh. De acuerdo. Pero iba a decirle
+que mi nombre es <STR>(EST).
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269900566]
+<STR>(YUR)
+<VOICE>(VS03_143)Bueno, pues, <STR>(EST), 
+vámonos.
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270593613]
+<STR>(EST)
+<VOICE>(VS03_144)Espere, no podemos dejar así la puerta...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+<STR>(YUR)
+<VOICE>(VS03_145)La verdad es que no creo que sea el
+momento para preocuparse por algo así.
+
+## POINTER 35 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1269900566]
+<STR>(EST)
+<VOICE>(VS03_146)¡Pero...!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1298209803]
+<STR>(YUR)
+<VOICE>(VS03_147)
+Vale, vale.
+Dame... un minuto.

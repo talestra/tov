@@ -1,0 +1,32 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251755382]
+¿Soy... mono?
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944141]
+(KAR)
+Eh, aún estamos a tiempo, chicos.
+¿Por qué no seduce otro al guardia?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116377]
+(YUR)
+Cuando un hombre toma una decisión,
+ya no puede dar marcha atrás.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116377]
+(JUD)
+Esto también es un trabajo del gremio.
+No lo olvides: «¡Todo por el gremio!»
+
+## POINTER 4 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266230809]
+(KAR)
+Oye, eso es tergiversar sus leyes...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116377]
+(EST_P)
+¡Todo irá bien, (KAR)!
+¡Vas a ser la cosita más mona
+que ese guardia haya visto jamás!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116377]
+(KAR)
+Ser «la cosa más mona» nunca ha sido
+uno de mis objetivos en la vida...

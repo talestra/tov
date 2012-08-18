@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:3;ru:mocolostrocolos,parsec,memnoch;user:xander;time:1251900119]
+(RAV) era...
+
+## POINTER 1 [t:1;r:3;ru:mocolostrocolos,parsec,memnoch;user:xander;time:1266236378]
+(KAR)
+No puedo creer que (RAV) fuera
+un Caballero Imperial. ¡Y encima un capitán!
+
+## POINTER 2 [t:1;r:3;ru:mocolostrocolos,parsec,memnoch;user:mocolostrocolos;time:1266925471]
+(KAR)
+Y su cuerpo...
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357188]
+(KAR)
+Supongo que no sabíamos absolutamente
+nada de él. Pero aun así nos ha protegido.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357247]
+(YUR)
+Se alegraría mucho si supiera
+que has pensado eso.
+
+## POINTER 5 [t:1;r:3;ru:mocolostrocolos,parsec,memnoch;user:mocolostrocolos;time:1266925471]
+(YUR)
+Lo que nos da una razón más
+para no mirar atrás.
+
+## POINTER 6 [t:1;r:3;ru:mocolostrocolos,parsec,memnoch;user:mocolostrocolos;time:1266925471]
+(JUD)
+Cierto. Ha dado su vida para que
+nosotros podamos llegar hasta el final.
+
+## POINTER 7 [t:1;r:3;ru:mocolostrocolos,parsec,memnoch;user:mocolostrocolos;time:1266925471]
+(RIT)
+Sí...
+
+## POINTER 8 [t:1;r:3;ru:mocolostrocolos,parsec,memnoch;user:mocolostrocolos;time:1266925471]
+(KAR)
+¡Vamos allá!
+¡Salvemos a (EST_P)!

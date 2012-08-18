@@ -1,0 +1,46 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS51_016)Man, up close, this thing 
+is bigger than I thought.
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS51_017)Is this really one big blastia?! 
+There's no way...
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS51_018)It must possess 
+unimaginable power.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS51_019)Whoa, look! That's a Knight 
+battleship, right?
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS51_020)Could it be <STR>(FRE)?
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS51_021)Nah, I'd bet it's the Royal 
+Guard. Which means...
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS51_022)The place is crawlin' with 'em. 
+They've got the main 
+entrance covered.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS51_023)There aren't that many. We 
+could blow 'em away before
+they knew what hit them.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS51_024)Easy. We're not 
+here to get noticed.<PAGE><VOICE>(VS51_025)Let's see if there isn't 
+some other way in.

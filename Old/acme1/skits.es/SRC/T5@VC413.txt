@@ -1,0 +1,33 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252780384]
+La gente es distinta
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307146]
+(EST_P)
+¡Había una enorme cascada al final
+de la ciudad! ¿La has visto, (YUR)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298113830]
+(EST_P)
+Era magnífica, poderosa y realmente bella...
+¡Casi podía verse un arco iris!
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307146]
+(YUR)
+Sí, sí que la he visto. Resultaría muy
+útil tener toda esa agua fresca a mano.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1282572973]
+(YUR)
+Con algo así es posible que ni
+hiciera falta tener un aqua blastia.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307146]
+(KAR)
+(EST_P) ve la cascada como algo
+bello, pero (YUR) la ve como
+algo útil...
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307146]
+(RAV)
+Es lo que tiene tené distintos
+puntos de vista sobre la vida.

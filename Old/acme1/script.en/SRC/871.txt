@@ -1,0 +1,186 @@
+## POINTER 0
+<STR>(YUR)
+We've come a long way from the capital.
+
+## POINTER 1
+<STR>(EST_P)
+Yes...I wonder if 
+we're safe now.
+
+## POINTER 2
+<STR>(YUR)
+Hard to say. Those guys 
+are a sticky lot.
+
+## POINTER 3
+<STR>(RAP)
+Woof!
+
+## POINTER 4
+<STR>(YUR)
+Huh...?
+
+## POINTER 5
+
+...Hmpf...
+
+## POINTER 6
+
+Greetings.
+
+## POINTER 7
+<STR>(EST_P)
+Hello!
+
+## POINTER 8
+
+Welcome, good travelers! ♪
+
+## POINTER 9
+<STR>(EST_P)
+...Is this a shop?
+
+## POINTER 10
+
+...It's the King of Adventure Travelers' Lodge...
+
+## POINTER 11
+
+Oh, big brother, do try to 
+be a bit more friendly! ∀
+
+## POINTER 12
+
+...Sorry, Karen...
+
+## POINTER 13
+Karen
+Please, you'll have to excuse him. 
+My name is Karen, and this is Rich.
+
+## POINTER 14
+<STR>(EST_P)
+You're operating 
+a traveling inn?
+
+## POINTER 15
+<STR>(YUR)
+Doesn't the "King of Adventure" 
+refer to something else...something 
+more well-known?
+
+## POINTER 16
+<STR>(EST_P)
+The late emperor's brother, His Highness 
+Regin, was known by that name thanks to 
+his insatiable thirst for adventure.
+
+## POINTER 17
+Karen
+Indeed! We took our name from 
+His Highness Regin. It's true.
+
+## POINTER 18
+Rich
+...We respect 
+him...
+
+## POINTER 19
+<STR>(YUR)
+Hmmm, that's a pretty 
+nice name, then.
+
+## POINTER 20
+Karen
+So are the two of you married?
+
+## POINTER 21
+<STR>(EST_P)
+M-married...? 
+I, I...
+
+## POINTER 22
+<STR>(YUR)
+Do we look like we're married?
+
+## POINTER 23
+Karen
+Oh? It seems I was mistaken. 
+So very sorry!<PAGE>If you're tired, perhaps you'd 
+like to stay the night?
+
+## POINTER 24
+<STR>(EST_P)
+Wh-what should we do?
+
+## POINTER 25
+Do you want to rest?
+Rest
+Do not rest
+
+## POINTER 26
+<STR>(YUR)
+Sure, we'll sleep here.
+
+## POINTER 27
+Karen
+Excellent! Thank you very much!
+
+## POINTER 28
+Rich
+...Enjoy your shut-eye...
+
+## POINTER 29
+Karen
+Oh, big brother, please!
+I'm sorry! 
+I'm sorry!
+
+## POINTER 30
+<STR>(EST_P)
+N-no, it's quite all right...
+
+## POINTER 31
+Karen
+Did you rest 
+well?
+
+## POINTER 32
+<STR>(YUR)
+Yeah, thanks a lot.
+
+## POINTER 33
+Karen
+I do hope our paths will 
+cross again, somewhere 
+out on the road! ♪
+
+## POINTER 34
+<STR>(EST_P)
+Yes, I hope 
+so, too!
+
+## POINTER 35
+Rich
+...Later...
+
+## POINTER 36
+<STR>(YUR)
+Sorry, I think we'll pass 
+this time. We're kind 
+of in a bit of a hurry.
+
+## POINTER 37
+Karen
+Oh, is that so?<PAGE>I do hope our paths will 
+cross again, somewhere 
+out on the road! ♪
+
+## POINTER 38
+<STR>(EST_P)
+Yes, I hope 
+so, too!
+
+## POINTER 39
+Rich
+...Later...

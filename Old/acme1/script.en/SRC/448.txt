@@ -1,0 +1,136 @@
+## POINTER 0
+Sodia
+<VOICE>(VS44_139)No, you are all being fooled!<PAGE><VOICE>(VS44_140)Alexei has been using 
+the Knights for his own 
+personal gain...!
+
+## POINTER 1
+
+<VOICE>(VS44_141a)What are you talking about!<PAGE><VOICE>(VS44_141b)The Commandant is a 
+honor to the knights, and 
+someone we should all follow.
+
+## POINTER 2
+
+<VOICE>(VS44_142)<STR>(FRE) is trying to 
+overthrow His Excellency. 
+He's the real traitor!
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS44_143)Haah!
+
+## POINTER 4
+
+<VOICE>(VS44_144)Aaah!!
+
+## POINTER 5
+
+<VOICE>(VS44_145)Aaah!!
+
+## POINTER 6
+Sodia
+<VOICE>(VS44_146)I don't recall asking 
+for your help...
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS44_147)Don't they teach you 
+knights how to say a 
+simple thank you?
+
+## POINTER 8
+Sodia
+<VOICE>(VS44_148)I will never give thanks 
+to you as long as I live!
+
+## POINTER 9
+Sodia
+<VOICE>(VS44_149)You didn't think I could just 
+let you walk away, did you...?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS44_150)Jeez, how many times am I gonna 
+have to say this? We don't have 
+time to mess around with you.
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS44_151)If you really want to do this, 
+then we won't hold back.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS44_152)There's something else 
+we've gotta be doing, so 
+try and keep out of the way.
+
+## POINTER 13
+Sodia
+<VOICE>(VS44_153)So you plan to rescue 
+Lady <STR>(EST)?
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS44_154)Yeah. So come on, 
+put down your sword.
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS44_155)He's right, ya know. 
+Nobody'd come out 
+a winner in this fight.
+
+## POINTER 16
+Sodia
+<VOICE>(VS44_156)Captain Schwann...
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS44_157)The name's <STR>(RAV). 
+You'll remember that 
+for me, wontcha?
+
+## POINTER 18
+Sodia
+<VOICE>(VS44_158)<STR>(YUR) Lowell.<PAGE><VOICE>(VS44_159)Don't think I've forgiven you. 
+A criminal like you has no 
+place beside my Captain.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS44_160)And? What do you 
+plan to do about it?
+
+## POINTER 20
+Sodia
+<VOICE>(VS44_161)Once I finish cleaning up 
+to this mess, I'll be back 
+to deliver your punishment.
+
+## POINTER 21
+
+<VOICE>(VS44_162)We've encountered large numbers of the enemy 
+ahead. We are, at present, outnumbered.
+
+## POINTER 22
+Sodia
+<VOICE>(VS44_163)Understood. I will 
+come at once.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS44_164)It sounds like <STR>(FRE)'s troops 
+are having trouble too.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS44_165)If we don't bring this thing 
+down right now, they're gonna 
+have more than just a headache.
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS44_166)All right. Off ta the 
+engine room we go.

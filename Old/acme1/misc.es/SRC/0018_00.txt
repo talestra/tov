@@ -1,0 +1,113 @@
+## POINTER 0 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+-Arte místico-
+
+## POINTER 1 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+-Has aprendido-
+
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+-Has sido derrotado-
+
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+-Has escapado-
+
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+-Arte explosivo-
+
+## POINTER 5 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338575]
+¡<0B>(0) ha tenido éxito cocinando <0B>(1)!
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338575]
+¡<0B>(0) no ha conseguido cocinar <0B>(1)!
+
+## POINTER 8 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338575]
+Has robado «<0B>(0)»
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338575]
+Has aprendido la habilidad: «<0B>(0)»
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338575]
+Has aprendido el arte explosivo: «<0B>(0)»
+
+## POINTER 11 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338575]
+Has recibido el título de: «<0B>(0)»
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263062622]
+Lanza escoba
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263062622]
+Escoba mental
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263062221]
+Bonus de grado incrementado
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263062622]
+Bonus en ranking de batalla
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263062221]
+-Tiempo límite superado-
+
+## POINTER 17 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263062622]
+Luz solar
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263062622]
+Luz lunar
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263062221]
+No hay nada que robar
+
+## POINTER 20 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271601068]
+Doble bonus de grado
+
+## POINTER 21 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1262110196]
+-----------------
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1262110196]
+-------
+
+## POINTER 23 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338575]
+Has creado una nueva receta: «<0B>(0)»
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196726]
+¿?
+
+## POINTER 25 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263062622]
+Disturbio voltaico
+
+## POINTER 26 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263062622]
+Aplastamiento voltaico 3
+
+## POINTER 27 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+-Arte modificado-
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+EXP
+
+## POINTER 29 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+BONUS
+
+## POINTER 30 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+GOLPES MÁX
+
+## POINTER 31 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+LP
+
+## POINTER 32 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+GALD
+
+## POINTER 33 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+TIEMPO
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214432]
+GRADO
+
+## POINTER 35 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214609]
+Daño
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214609]
+Golpe
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214609]
+Golpes
+
+## POINTER 38 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262214609]
+Cadena

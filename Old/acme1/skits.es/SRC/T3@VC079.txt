@@ -1,0 +1,62 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1252961728]
+La preocupación de una damisela
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812247]
+(JUD)
+¿Eso es todo?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812247]
+(YUR)
+No ha sido lo bastante violento para ti, ¿eh?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812247]
+(JUD)
+¿Oh? ¿Tan agresiva crees que soy?
+Eso ofende, (YUR).
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1266569146]
+(RIT)
+Si intentas convencernos 
+de que eres una inocente damisela, 
+que sepas que no cuela.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1266569146]
+(YUR)
+Las damiselas inocentes se
+mantienen alejadas de
+torneos en coliseos.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1266569146]
+(JUD)
+Ni tampoco ganan campeonatos
+llenos de poderosos contrincantes.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812247]
+(YUR)
+¡Ja, ja, ja! Eso es verdad...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812247]
+(JUD)
+*Suspiro*
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1267171238]
+(RIT)
+No me digas que te
+acabas de deprimir.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812247]
+(RAV)
+Ah, el suspiro melancólico de una
+inocente damisela... ¡Qué pintoresco!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812247]
+(JUD)
+¿Oh?
+
+## POINTER 12 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267441380]
+(RAV)
+¿Qué? ¿No ha sío lo bastante violento pa ti?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1297812247]
+(JUD)
+*Suspiro*

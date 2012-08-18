@@ -1,0 +1,9 @@
+## POINTER 0
+<STR>(YUR)
+A mage causing up a storm
+in the Knight's quarters?
+That's dangerous...
+
+## POINTER 1
+<STR>(YUR)
+I can't just leave <STR>(KAR) like that...

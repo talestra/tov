@@ -1,0 +1,159 @@
+## POINTER 0
+
+Th-they say that some lady's body 
+is buried under this tree...
+
+## POINTER 1
+
+Y-yeah, I hear that she 
+was the wife of some emperor 
+a long time ago...
+
+## POINTER 2
+
+Nuh-uh! I heard that she 
+died before the wedding! 
+So she wasn't his wife.
+
+## POINTER 3
+
+Whatever! It's s-scary, 
+but... I think 
+it's true!
+
+## POINTER 4
+
+Yeah, Halure's flowers are so cool...it's 
+hard to believe something weird like
+that happened...
+
+## POINTER 5
+
+Th-this explains what's 
+been making us feel so funny 
+about this tree...
+
+## POINTER 6
+<STR>(EST_P)
+Excuse me... You know, that 
+story's not actually true.
+
+## POINTER 7
+
+Nuh-uh... The Mayor 
+told it to us!
+
+## POINTER 8
+<STR>(YUR)
+What the heck was that old 
+man thinking, anyway...
+
+## POINTER 9
+
+And what about this...?
+
+## POINTER 10
+<STR>(JUD)
+Oh, what a lovely veil.
+
+## POINTER 11
+<STR>(EST_P)
+Where did you get that?
+
+## POINTER 12
+
+A white shadow, like 
+a ghost, dropped it!
+
+## POINTER 13
+<STR>(KAR)
+You're not saying that the white shadow 
+was the ghost of the dead bride...?
+
+## POINTER 14
+<STR>(RIT)
+N-no way...! There's 
+no such thing as ghosts 
+and curses!
+
+## POINTER 15
+
+It's true!
+
+## POINTER 16
+<STR>(RIT)
+No it's not! It's not, it's not!<PAGE>I'm sure that veil was just dropped 
+by someone in your village!
+
+## POINTER 17
+
+The Mayor went around and asked everybody, 
+but it didn't belong to anybody...
+
+## POINTER 18
+<STR>(RIT)
+There's no way... It's 
+just not true, OKAY?!
+
+## POINTER 19
+
+This girl is really 
+scary...
+
+## POINTER 20
+
+Let's get out of here...
+
+## POINTER 21
+<STR>(EST_P)
+Oh, you forgot this...
+
+## POINTER 22
+<STR>(EST_P)
+<STR>(RIT)...
+
+## POINTER 23
+<STR>(RIT)
+I'm sorry...
+
+## POINTER 24
+<STR>(EST_P)
+What should I do with this...?
+
+## POINTER 25
+<STR>(RIT)
+Throw it away.<PAGE>The kids don't want 
+something as ominous 
+as that, I'm sure.
+
+## POINTER 26
+<STR>(EST_P)
+But I don't think it seems all 
+that ominous. I actually think 
+it seems more...holy...<PAGE>...I think I've taken a 
+liking to it. Do you mind 
+we take it with us?
+
+## POINTER 27
+<STR>(RIT)
+Argh... If you get cursed 
+it's your own fault!
+
+## POINTER 28
+<STR>(YUR)
+I thought you said there's no such thing as curses?
+
+## POINTER 29
+<STR>(RIT)
+Sh-shut up, <STR>(YUR)!
+
+## POINTER 30
+<STR>(EST_P)
+I wonder if there's 
+an explanation that's 
+more...holy...
+
+## POINTER 31
+<STR>(EST_P)
+It seems like there's something 
+more beautiful to all this...

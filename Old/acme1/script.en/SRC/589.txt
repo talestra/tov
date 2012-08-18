@@ -1,0 +1,179 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VA014_001)Are you Mimula?
+
+## POINTER 1
+Mimula
+<VOICE>(VA014_002)That's right. And just 
+who might you be?
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VA014_003)We're Brave Vesperia. The guild who took 
+the job you posted with the Union!
+
+## POINTER 3
+Mimula
+<VOICE>(VA014_004)It's about time! I will, of course, 
+dock your pay for all the 
+waiting you've made me do.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VA014_005)What?! That's not fair!
+
+## POINTER 5
+Mimula
+<VOICE>(VA014_006)Is this indecent young lady part of your 
+Brave...whatever you call it as well?
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VA014_007)Do you have a problem with how I'm dressed?
+
+## POINTER 7
+Mimula
+<VOICE>(VA014_008)It's your reputation. 
+Now, are you serious 
+about taking the job?
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VA014_009)Well, what does it involve?
+
+## POINTER 9
+Mimula
+<VOICE>(VA014_010)I haven't seen my butler, Sebastian, 
+since he left to negotiate 
+with a certain guild.<PAGE><VOICE>(VA014_011)I'd like to get some word from him, but 
+nobody seems willing to go for me!
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VA014_012)Have you considered going yourself? It 
+would make a lovely day trip, I'm sure.
+
+## POINTER 11
+Mimula
+<VOICE>(VA014_013)Oooh! This is no time for jokes! 
+I have no interest in going 
+any place that vile.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VA014_014)Which is where we come in, right?
+
+## POINTER 13
+Mimula
+<VOICE>(VA014_015)Naturally, the commoners must 
+heed the words of the nobility.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VA014_016)So what's a high and mighty noble like 
+you doing in the lower quarter?
+
+## POINTER 15
+Mimula
+<VOICE>(VA014_017)Well I...you see... 
+Oooh! How rude! Why 
+should you care?!
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VA014_018)And what guild are you talking about?
+
+## POINTER 17
+Mimula
+<VOICE>(VA014_019)They're called Leviathan's Claw.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VA014_020)Leviathan's...!
+
+## POINTER 19
+Mimula
+<VOICE>(VA014_021)You are to find out first, if Sebastian 
+is safe, and second, how the 
+negotiations have gone.
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VA014_022)What was he supposed to negotiate?
+
+## POINTER 21
+Mimula
+<VOICE>(VA014_023)That is none of 
+your concern.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VA014_024)...Yeah, it's not, but we don't 
+need any extra hassle.
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VA014_025)So basically, you'd like us to bring 
+this Sebastian back to you.
+
+## POINTER 24
+Mimula
+<VOICE>(VA014_026)That's right.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VA014_027)If we're dealing with Leviathan's Claw, I 
+guess we're off to the Manor of the Wicked.
+
+## POINTER 26
+<STR>(JUD)
+<VOICE>(VA014_028)Just what kind of dangerous 
+hobbies are you people into?
+
+## POINTER 27
+Mimula
+<VOICE>(VA014_029)Oooh! I thought I told you it 
+was none of your business!<PAGE><VOICE>(VA014_030)You need only concern yourselves with 
+the work I've hired you to do!
+
+## POINTER 28
+<STR>(JUD)
+<VOICE>(VA014_031)Such emotion is unbecoming of your ladyship.
+
+## POINTER 29
+Mimula
+<VOICE>(VA014_032)Hmph...
+
+## POINTER 30
+<STR>(RAP)
+<VOICE>(VA014_033)Woof!
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VA014_034)I hear you, <STR>(RAP). 
+Let's get going.
+
+## POINTER 32
+<STR>(KAR)
+<VOICE>(VA014_035)Right.<PAGE><VOICE>(VA014_036)We accept this task in the name 
+of the brightest star in the 
+night sky--Brave Vesperia.
+
+## POINTER 33
+Mimula
+<VOICE>(VA014_037)What...is that your little slogan? Please...
+
+## POINTER 34
+<STR>(JUD)
+<VOICE>(VA014_038)We can't possibly understand 
+the refined tastes of such 
+an elegant lady, <STR>(KAR).
+
+## POINTER 35
+<STR>(RAP)
+<VOICE>(VA014_039)Woof!
+
+## POINTER 36
+Mimula
+<VOICE>(VA014_040)Oooh! How dare you make fun of me?! 
+I won't stand for it... Oooh!

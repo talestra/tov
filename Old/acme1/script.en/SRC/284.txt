@@ -1,0 +1,158 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS25_500)Oh, Ioder...
+
+## POINTER 1
+Ioder
+<VOICE>(VS25_501)Oh... It's you all.
+We meet again.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS25_502)So what's a successor to the imperial 
+throne doing in a place like this?
+
+## POINTER 3
+Ioder
+<VOICE>(VS25_503)I've been working with 
+the Don to officially seal 
+our treaty of friendship.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS25_504)Is it going well?
+
+## POINTER 5
+Ioder
+<VOICE>(VS25_505)Well...I wish I could say 
+it were going better.
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS25_506)I can imagine.<PAGE><VOICE>(VS25_507)That Heracles monstrosity 
+kinda made the Union 
+really not like the empire.
+
+## POINTER 7
+Ioder
+<VOICE>(VS25_508)Yes, and now, prominent members 
+of the empire are voicing their 
+doubts regarding the friendship treaty.
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS25_509)The conditions the Don 
+gave the empire were for a 
+treaty of equality, after all.
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS25_510)And they are certainly 
+not on equal footing 
+with something like that.
+
+## POINTER 10
+Ioder
+<VOICE>(VS25_511)Yes... Had I known about 
+Heracles beforehand I could 
+have stopped them, but...
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS25_512)You didn't know about 
+that thing? You're in 
+line to be emperor!
+
+## POINTER 12
+Ioder
+<VOICE>(VS25_513)I know. But I have no authority 
+over the Imperial Knights.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS25_514)The Imperial Knights act on orders 
+from the emperor alone. They do 
+not report to anyone else.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS25_515)Well, then, it's easy. 
+Just become emperor.
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS25_516)...You mean...
+
+## POINTER 16
+Ioder
+<VOICE>(VS25_517)Becoming emperor isn't 
+as simple as that.
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS25_518)Why not?
+
+## POINTER 18
+Ioder
+<VOICE>(VS25_519)To ascend to the throne, 
+one must possess the imperial 
+treasure, Dein Nomos.
+
+## POINTER 19
+Ioder
+<VOICE>(VS25_520)But Dein Nomos went missing 
+around the time of the 
+Great War, ten years ago...
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS25_521)Hmm, so that's the real 
+story why we still don't 
+have an emperor...
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS25_522)...And that's why Ragou wanted to 
+get his hands on Dein Nomos...
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS25_523)What was that, <STR>(YUR)?
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS25_524)Forget it. It's nothing.
+
+## POINTER 24
+<STR>(RIT)
+<VOICE>(VS25_525)Anyway, is it really okay for 
+an imperial candidate to be 
+wandering the streets like this?
+
+## POINTER 25
+Ioder
+<VOICE>(VS25_526)I was just on my 
+way to Heliord.
+
+## POINTER 26
+<STR>(RAV)
+<VOICE>(VS25_527)Ah, that is closer to Dahngrest 
+than this place is. Negotiations 
+would probably go smoother there.
+
+## POINTER 27
+Ioder
+<VOICE>(VS25_528)I believe so, too.
+
+## POINTER 28
+
+<VOICE>(VS25_529)Master Ioder, we should be off.
+
+## POINTER 29
+Ioder
+<VOICE>(VS25_530)If you'll please 
+excuse me...
+
+## POINTER 30
+<STR>(EST_P)
+<VOICE>(VS25_531)...

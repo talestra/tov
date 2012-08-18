@@ -1,0 +1,47 @@
+## POINTER 0
+Natz
+I guess I'm saved again.
+
+## POINTER 1
+<STR>(KAR)
+It seems that this was the only
+city to be attacked. What bad luck.
+
+## POINTER 2
+<STR>(RIT)
+This isn't about luck.
+
+## POINTER 3
+<STR>(EST_P)
+Where were you <STR>(RIT)?
+
+## POINTER 4
+<STR>(RIT)
+I went to check the barrier blastia.<PAGE>Its power had been raised.<PAGE>And I guess the monsters 
+were drawn to it.<PAGE>The power is returned to normal now.
+
+## POINTER 5
+Natz
+We thought raising the power will protect
+us but, it turned out to be the opposite.
+
+## POINTER 6
+Natz
+I'll go see the citizens.<PAGE>Feel free to rest here 
+as long as you please.
+
+## POINTER 7
+<STR>(YUR)
+Thanks for the offer but 
+we still have business to do. 
+We better get moving.
+
+## POINTER 8
+Natz
+You are all welcome at
+anytime. Try stopping by
+when you have time.
+
+## POINTER 9
+<STR>(YUR)
+Thanks.

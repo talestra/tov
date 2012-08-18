@@ -1,0 +1,31 @@
+## POINTER 0
+The Broken Sword
+
+## POINTER 1
+(EST_P)
+(KAR), are you okay...e-even
+though your sword's still broken?
+
+## POINTER 2
+(KAR)
+Nah, it's lighter and 
+feels easier to use!
+
+## POINTER 3
+(YUR)
+Now your sword won't be swinging 
+you anymore. Sounds good to me.
+
+## POINTER 4
+(YUR)
+Breaking your sword to get it to just the right
+length... You're obviously some guild's ace!
+
+## POINTER 5
+(EST_P)
+...(YUR), you didn't break (KAR)'s 
+sword on purpose, did you?
+
+## POINTER 6
+(YUR)
+I'm not that good.

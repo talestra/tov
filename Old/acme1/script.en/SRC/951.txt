@@ -1,0 +1,47 @@
+## POINTER 0
+
+Ah, you're back! Have you gotten 
+all the ingredients together?
+
+## POINTER 1
+<STR>(KAR)
+We've got everything.
+
+## POINTER 2
+
+Let's see them.
+
+## POINTER 3
+
+Choose the ingredients 
+to use.
+
+## POINTER 4
+
+Eggbear claw, nia fruit, 
+and luluria petals...that's 
+everything.<PAGE>Alright, let's get this stuff made.
+
+## POINTER 5
+<STR>(EST_P)
+Yes, please!
+
+## POINTER 6
+
+Here you go, one panacea bottle!
+
+## POINTER 7
+<STR>(KAR)
+Now we'll be able to cleanse the 
+poison! Let's go, quickly!
+
+## POINTER 8
+<STR>(YUR)
+Whoa whoa, settle down! 
+You'll drop the bottle 
+if you're not careful!
+
+## POINTER 9
+<STR>(KAR)
+Oh, I see. Well then, 
+let's go...prudently!

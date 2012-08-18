@@ -1,0 +1,46 @@
+## POINTER 0
+
+Welcome to Palestralle's 
+famous Eighty Man Melee!!<PAGE>This level separates the chaff from 
+the wheat! Is our challenger a brave 
+hero...or a reckless fool?!<PAGE>Fight, after fight, after fight! 
+Eighty opponents defeated!
+Who would have imagined it!
+
+## POINTER 1
+<STR>(YUR)
+Woooo!
+
+## POINTER 2
+<STR>(EST_P)
+H-here I go!!
+
+## POINTER 3
+<STR>(KAR)
+I'm n-n-not...
+s-s-s-scared!!
+
+## POINTER 4
+<STR>(RIT)
+I'd better put some effort 
+into this, or else...
+
+## POINTER 5
+<STR>(RAV)
+Hmm.... I wonder if it's too late 
+ta get <STR>(YUR) ta do this instead...
+
+## POINTER 6
+<STR>(JUD)
+Heh heh. Really gets your
+heart pumping, doesn't it?
+
+## POINTER 7
+<STR>(RAP)
+Woooo!!
+
+## POINTER 8
+
+Prepare yourself! The 
+end may be near!<PAGE>Ready... 
+Fight!

@@ -1,0 +1,106 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS34_211)<STR>(FRE)...
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS34_212)Looks like we can't put 
+one over on this guy.
+
+## POINTER 2
+<STR>(FRE)
+<VOICE>(VS34_213)Return Lady <STR>(EST) 
+and the stone.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS34_214)...<STR>(FRE), what do you want 
+with the apatheia...?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS34_215)So the Knights are trying to 
+get ahold of this thing, too.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS34_216)That's why the Hunting 
+Blades were here...
+
+## POINTER 6
+<STR>(FRE)
+<VOICE>(VS34_217)Hand it over.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS34_218)Whoa, is he serious?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS34_219)Just what the hell 
+are you doing?
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS34_220)Using the military to get 
+control of the city? That's 
+taking things a bit far.<PAGE><VOICE>(VS34_221)Maybe you're carrying out your 
+"duty," but you can't just go 
+around doing everything by force.
+
+## POINTER 10
+Sodia
+<VOICE>(VS34_222)Captain, awaiting orders!
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS34_223)I thought you were 
+with the Knights to 
+change things like that.<PAGE><VOICE>(VS34_224)I don't know why I'm the one 
+who has to be saying this stuff. 
+You know it full well yourself.
+
+## POINTER 12
+<STR>(FRE)
+<VOICE>(VS34_225)...
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS34_226)Cat got your tongue?<PAGE><VOICE>(VS34_227)I mean, how's this any 
+different from what I've come 
+to expect from the empire?<PAGE><VOICE>(VS34_228)Are you gonna follow Ragou 
+and Cumore's examples?!
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS34_229)If I did, would you 
+just kill me as well?<PAGE><VOICE>(VS34_230)Would you do away with me like 
+you did Ragou and Cumore?
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS34_231)Huh? ...What does he...
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS34_232)If you go and become 
+a villain, you won't be 
+giving me much choice.
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS34_233)You mind saving this 
+charming little squabble 
+for another time?<PAGE><VOICE>(VS34_234)We're sort of in a hurry, right?!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS34_235)...Humph.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS34_236)Come on!
+
+## POINTER 20
+Sodia
+<VOICE>(VS34_237)Captain!

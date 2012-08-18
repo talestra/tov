@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253822890]
+Loco por los mapas
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129561]
+(RIT)
+Había oído rumores,
+pero vaya lugar para
+poner un coliseo.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218558]
+(EST_P)
+Está en el extremo del continente
+de Desier, al fin y al cabo.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218558]
+(YUR)
+Ahora que lo dices, este continente
+tiene una forma algo rara.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218558]
+(EST_P)
+¿Por qué tendrá esa forma?
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267317594]
+(KAR)
+Mmm, apuesto a que lo averiguaremos
+cuando lo rodeemos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129561]
+(YUR)
+¡Ahí está nuestro loco de los mapas,
+el capitán (KAR)! A mí no me gustan...
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266833833]
+(RIT)
+No, no. ¡Que no te dé vergüenza!
+Es una buena afición
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218558]
+(KAR)
+Ugh... Eso no ha sonado
+como un cumplido.

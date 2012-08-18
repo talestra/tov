@@ -1,0 +1,203 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+
+Buenas. ¿Os importaría
+decirme quiénes sois?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+<STR>(YUR)
+¿Cómo, no podemos comprarte
+cosas sin presentarnos?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+
+Me temo que no.
+Yo no soy como
+los otros mercaderes.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(KAR)
+¿Se refiere a que no es como
+la gente de Fortuna Mercantil?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+
+Sí, sí, algo así. Me llamo
+Mercedes Dunkel y soy un
+estraperlista extraordinario.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(RIT)
+¿Estraperlista?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+
+Un vendedor de Garra del Leviatán.
+Viajo por todo el mundo, vendiendo
+mis armas donde pongo la tienda.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+<STR>(YUR)
+Garra del Leviatán...
+¡¿Así que eres un esbirro de Yeager?!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+
+Ja, ja, ja.
+Esbirro suena muy malvado.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+<STR>(JUD)
+¿Qué cosas vendes?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(RIT)
+Perfecto, <STR>(JUD).
+Haceos amigos, de paso.
+Por qué no.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+<STR>(JUD)
+Tendrás que disculparme, pero ¿desde
+cuándo conocer a tu enemigo está mal?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+
+Ja, ja. Supongo que podría enseñarle
+mi mercancía a una señorita tan sincera.
+Aunque no puedo venderte nada.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+
+Mira. Es un blastia hoplón que
+puede lanzar llamas hasta a un
+enemigo que esté a cien metros.<PAGE>Es cierto que ya tiene sus años,
+pero lo he tratado como un rey,
+así que aún funciona bien.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(RIT)
+Oye, ¿y esto? Tiene
+un nombre escrito.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+
+Sí, debe ser el nombre
+de quien lo excavó.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+<STR>(KAR)
+Esos tíos de Portal de Ruinas que nos
+encontramos en las ruinas de Shaikos estaban
+escribiendo su nombre en lo que encontraban.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(RIT)
+Y lo que es peor, el nombre que hay
+escrito es el de aquel piltrafilla.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(RAV)
+Vaya por Dios. Eso es una prueba de
+la conexión de los dos en toa regla.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(RIT)
+¡¿Sabes algo del tema,
+a que sí, viejales?!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(RAV)
+Verás, er Don tenía una corazonadilla
+que l'hacía sospechar que Yeager
+y Regaey eran la misma persona.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(KAR)
+Anda ya. No creerás que los dos
+son el mismo tío...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(RAV)
+Aunque eso no cambia er hecho de que
+Garra del Leviatán y Portal de Ruinas
+son gremios diferentes.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+<STR>(EST_P)
+Pero la ley imperial prohíbe
+el tráfico de blastias.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+<STR>(RAV)
+Eso no tiene ná que ver con l'Unión.<PAGE>Fortuna Mercantil es casi l'único
+gremio que sigue las leyes del Imperio.
+Asuntos de negocios y tó eso.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+
+Oh, ya veo...
+Sois Gran Vesperia,
+¿verdad?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+<STR>(YUR)
+Parece que nos estamos
+haciendo famosos.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+
+Un hombre de negro, una señorita que parece
+una princesa, una maga, un hombre de la Unión,
+un chaval, una mujer fatal y un perro.<PAGE>Yeager me dijo que andara con mucho cuidado
+si algún día coincidía con vosotros.<PAGE>Y sabiendo eso, creo que nuestra
+pequeña charla ha llegado a su fin.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(JUD)
+¿Qué os parece,
+lo borramos del mapa?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+
+U-Un momentito. ¿Os va eso de amenazar
+a los pobres mercaderes indefensos?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+<STR>(JUD)
+Oh, cómo puedes decir eso
+con todas esas armas que tienes.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+
+Estos blastias son mi género.
+No puedo usarlos cuando quiera.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983031]
+<STR>(RIT)
+No vale la pena. Cargarse
+a este tío no detendrá el
+contrabando de blastias.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(RAV)
+Bueno, si llega a ser un problema pa
+l'Unión, se asegurarán de darle la del
+pulpo. Ya sabéis, como con Barbos.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:Lia;time:1292758087]
+
+Exactamente. Así que si
+os parece bien, continuaré
+ganándome la vida.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(RIT)
+Voy a investigar en serio
+todo esto de Portal de Ruinas
+cuando vuelva a Aspio.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:Lia;time:1292757853]
+<STR>(YUR)
+Dependiendo del próximo movimiento
+de Yeager, quizá dentro de poco
+nos toque intervenir en el asunto.

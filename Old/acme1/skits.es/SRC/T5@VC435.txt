@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:evilluendas;time:1251844580]
+A la carrera
+
+## POINTER 1 [t:1;r:2;ru:xander,memnoch;user:xander;time:1272810885]
+(EST_P)
+(YUR), usted fue caballero una vez, ¿verdad?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303245]
+(YUR)
+¿No decías que (FRE) ya te
+había hablado de mí?
+
+## POINTER 3 [t:1;r:2;ru:xander,memnoch;user:xander;time:1272810885]
+(EST_P)
+Bueno, es que... no parece que sepa
+moverse muy bien por el castillo...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115954]
+(EST_P)
+*Glups* ¡¿Es usted un impostor?!
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303245]
+(YUR)
+Vaya imaginación que tienes.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266827501]
+(YUR)
+¿Por qué querría yo hacerme pasar por
+un tío cualquiera de los barrios bajos?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115954]
+(EST_P)
+S-Supongo que tiene razón.
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303245]
+(YUR)
+Venga, vámonos antes de que nos
+atrapen los guardas del castillo.

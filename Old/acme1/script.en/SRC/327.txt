@@ -1,0 +1,185 @@
+## POINTER 0
+<STR>(KAR)
+We've filled up our water... 
+I think we're ready to go.
+
+## POINTER 1
+<STR>(EST_P)
+Right.
+
+## POINTER 2
+
+Stop it! Let go!
+
+## POINTER 3
+
+Bad boys and girls that 
+break curfew must be punished 
+by the magistrate!
+
+## POINTER 4
+
+No way, we're going 
+to look for Mommy 
+and Daddy...!
+
+## POINTER 5
+<STR>(YUR)
+Leave these children to me. I'll see 
+that they're properly disciplined.
+
+## POINTER 6
+
+Stay out of this, stranger!
+
+## POINTER 7
+<STR>(EST_P)
+Please, forgive these children.<PAGE>I will go and apologize 
+in person to the magistrate 
+on their behalf.
+
+## POINTER 8
+
+Hey...wait, aren't you...
+
+## POINTER 9
+
+My deepest apologies...!
+
+## POINTER 10
+<STR>(EST_P)
+Do you think that maybe...I could've 
+handled that better?
+
+## POINTER 11
+<STR>(YUR)
+Hey, it worked, didn't it?
+
+## POINTER 12
+
+Thanks for saving us 
+from those bad guys!
+
+## POINTER 13
+<STR>(EST_P)
+What are your names?
+
+## POINTER 14
+Alph
+My name is Alph! My 
+sister's Layla.
+
+## POINTER 15
+<STR>(JUD)
+What happened to 
+your mom and dad?
+
+## POINTER 16
+Alph
+They got taken into 
+the desert in the 
+magistrate's big wagon!<PAGE>Someone told me they're going 
+to look for Phaeroh!
+
+## POINTER 17
+<STR>(EST_P)
+Phaeroh...!
+
+## POINTER 18
+<STR>(YUR)
+Yeah...
+
+## POINTER 19
+<STR>(RAV)
+But what d'ya think they're plannin' 
+on doin' once they find 'im?
+
+## POINTER 20
+<STR>(KAR)
+And using the townspeople 
+to do their dirty work? 
+It's despicable!
+
+## POINTER 21
+Layla
+Hey...big bro, are we 
+going to go look for 
+Mommy and Daddy?
+
+## POINTER 22
+<STR>(JUD)
+No, you're not. If you 
+kids go into the desert, 
+you'll die for sure.
+
+## POINTER 23
+Alph
+Ack!
+
+## POINTER 24
+<STR>(EST_P)
+<STR>(JUD)!
+
+## POINTER 25
+<STR>(JUD)
+We'll look for your parents. You kids 
+can't go out into the desert.
+
+## POINTER 26
+Alph
+Really?
+
+## POINTER 27
+<STR>(JUD)
+I don't lie. ...You don't 
+mind, do you, <STR>(KAR)?
+
+## POINTER 28
+<STR>(KAR)
+Nope. Fine by me.
+
+## POINTER 29
+<STR>(RIT)
+You're surprisingly agreeable.
+
+## POINTER 30
+<STR>(EST_P)
+His guild is guided by 
+justice, after all.
+
+## POINTER 31
+Layla
+Thanks, everyone!
+
+## POINTER 32
+Alph
+Here, take this, 'cause you're so nice!
+
+## POINTER 33
+<STR>(KAR)
+...A glass bead?
+
+## POINTER 34
+<STR>(JUD)
+It's a precious gem.
+
+## POINTER 35
+<STR>(EST_P)
+It's our reward for taking the job.
+
+## POINTER 36
+<STR>(YUR)
+Now that we've gotten paid in advance, we've 
+got our work cut out for us, don't we, <STR>(KAR)?
+
+## POINTER 37
+<STR>(KAR)
+Yeah, you're right.
+
+## POINTER 38
+<STR>(YUR)
+...But what concerns me...
+
+## POINTER 39
+<STR>(YUR)
+...is that the empire is investigating Phaeroh...

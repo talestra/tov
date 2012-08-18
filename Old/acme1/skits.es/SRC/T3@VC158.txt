@@ -1,0 +1,64 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982419]
+La bolsa de (KAR): segunda parte
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299676]
+(KAR)
+Me pregunto por qué mi bolsa funciona
+tan bien cuando se trata de golpear enemigos...
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299676]
+(RIT)
+¿Eh? ¿No sabes cómo funciona
+tu propia bolsa?
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299676]
+(KAR)
+Pues, la verdad es que no.
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265588484]
+(RIT)
+Será que la bolsa tiene una alta
+conductividad aérica.
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299676]
+(KAR)
+¿Conductividad... aérica?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982419]
+(RIT)
+Es lo que mide la facilidad con la
+que el aer circula por un objeto.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982419]
+(RIT)
+El aer que produces cuando ejecutas un 
+arte ofensivo debe propagarse muy bien
+por esa bolsa.
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299676]
+(KAR)
+¿Y por eso mis enemigos se debilitan
+cuando les golpeo con ella?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982464]
+(RIT)
+Exacto. Con mi cinturón sucede lo mismo.
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299676]
+(RIT)
+Cada persona tiene algún objeto 
+que le ayuda a transportar aer.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982464]
+(KAR)
+Caray, qué interesante. ¡Gracias, (RIT)!
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299676]
+(RIT)
+Está claro que no sabes mucho
+de tus propias posesiones.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982477]
+(KAR)
+¡Será mejor que cuide
+muy bien mi bolsa!

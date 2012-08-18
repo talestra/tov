@@ -1,0 +1,150 @@
+## POINTER 0
+Drake
+All this laziness can't be good 
+for you, Schwann. Aren't your 
+skills getting a bit rusty?
+
+## POINTER 1
+<STR>(RAV)
+How rude! My name isn't even Schwann, 
+and my skills aren't gettin' rusty, 
+tarnished, or anything else!
+
+## POINTER 2
+Drake
+Then perhaps you'd be willing to go a round?
+
+## POINTER 3
+<STR>(RAV)
+Oh, ya wanna rumble?
+
+## POINTER 4
+<STR>(RAV)
+I surrender!
+
+## POINTER 5
+<STR>(YUR)
+You don't have to surrender...
+
+## POINTER 6
+Drake
+To think that Schwann Oltorain 
+could be bested by an 
+old codger like myself!
+
+## POINTER 7
+<STR>(RAV)
+I told ya, I'm 
+not Schwann!
+
+## POINTER 8
+Drake
+...Well then, have it your way.
+
+## POINTER 9
+Drake
+Alexei was a very capable man, 
+but he was too single-minded, 
+and lacked personal magnetism.
+
+## POINTER 10
+<STR>(RAV)
+I'll bet that wouldn't even be news 
+ta the former Commandant himself.
+
+## POINTER 11
+Drake
+In contrast, Schwann had a very 
+human personality. He was made of 
+the right stuff to lead others.
+
+## POINTER 12
+<STR>(RAV)
+Oh yeah? Hah hah hah...<PAGE>Hah...!
+
+## POINTER 13
+Drake
+Because he was such a born leader...there was 
+something that I wished to pass on to him.<PAGE>But if he's died, then I have 
+no one to give it to...
+
+## POINTER 14
+<STR>(YUR)
+What's the thing you wanted to pass on to him?
+
+## POINTER 15
+Drake
+The Imperial Knights' strongest arcane arte...<PAGE>The technique that was used to wipe out so 
+many monsters at once in the Great War.
+
+## POINTER 16
+<STR>(YUR)
+Wow, really?
+
+## POINTER 17
+Drake
+Besides Schwann, there's no one else in the Imperial 
+Knights worthy of carrying on this legacy.<PAGE>I may end up taking it with me to my grave.
+
+## POINTER 18
+<STR>(YUR)
+...It doesn't bother you that 
+such an amazing technique would 
+disappear from this world?
+
+## POINTER 19
+<STR>(RAV)
+Regardless...
+I'm not Schwann, 
+after all, so…<PAGE>...Argh!
+I must reveal the truth! 
+I am Schwann's...brother!
+
+## POINTER 20
+<STR>(YUR)
+Sheesh...
+Do you really expect 
+him to believe that tripe--
+
+## POINTER 21
+<STR>(RAV)
+So I'm askin' ya, Old Man! Would 
+you pass that technique on ta me, 
+in place of my dear brother?
+
+## POINTER 22
+Drake
+Hmpf... All right. 
+<STR>(RAV), was it?<PAGE>I shall bestow you with the Imperial Knights' strongest 
+arcane arte, in place of your brother.
+
+## POINTER 23
+Drake
+Make us proud.
+
+## POINTER 24
+<STR>(RAV)
+Yes, sir!
+
+## POINTER 25
+Drake
+I hope I don't have anything to worry about.
+
+## POINTER 26
+<STR>(RAV)
+...I don't know what yer talkin' about!
+
+## POINTER 27
+<STR>(YUR)
+Yeesh, wouldn't it be a whole lot easier 
+to just drop this <STR>(RAV) thing?
+
+## POINTER 28
+<STR>(RAV)
+Whaddaya mean? After all, 
+I'm <STR>(RAV)! Who's this 
+Schwann guy, anyway?
+
+## POINTER 29
+<STR>(YUR)
+Well, it's not like I care either way...

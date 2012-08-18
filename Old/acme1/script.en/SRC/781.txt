@@ -1,0 +1,62 @@
+## POINTER 0
+
+Heh, heh! Everyone's so careless, thinking their little barrier 
+will protect them from everything... That was a piece of cake!<PAGE>Now, I wonder how much I'll be able 
+to get for this little brat...
+
+## POINTER 1
+<STR>(RAP)
+Woo...woof woof woof woof woof!
+
+## POINTER 2
+
+You mangy hound... You dare 
+stand up to a human?
+
+## POINTER 3
+<STR>(RAP)
+Grrrr...
+
+## POINTER 4
+
+Damn it... Who 
+are you?
+
+## POINTER 5
+<STR>(YUR)
+I thought it was strange that a monster 
+would be inside the barrier.<PAGE>A companion of yours, I 
+see. Give back the kid.
+
+## POINTER 6
+
+You think I'll 
+hand him over 
+that easily?
+
+## POINTER 7
+<STR>(RAP)
+Grrrr.... Woof woof woof!
+
+## POINTER 8
+<STR>(RAP)
+Woooo, woof woof!
+
+## POINTER 9
+<STR>(YUR)
+Good job, <STR>(RAP)!
+
+## POINTER 10
+
+D-damn it... I won't 
+forget this...
+
+## POINTER 11
+<STR>(KAR)
+Ah...!
+
+## POINTER 12
+<STR>(YUR)
+Leave him. For now, the
+important thing is to get
+Pauly back to his parents.

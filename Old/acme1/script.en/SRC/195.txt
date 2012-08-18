@@ -1,0 +1,42 @@
+## POINTER 0
+<STR>(KAR)
+So <STR>(EST_P)'s going back home, huh.
+
+## POINTER 1
+<STR>(RIT)
+You don't have a problem with this, <STR>(YUR)?
+
+## POINTER 2
+<STR>(YUR)
+It's not my decision to make.
+
+## POINTER 3
+<STR>(RIT)
+Well...I guess that's true, but...
+
+## POINTER 4
+<STR>(YUR)
+More importantly, where are we?
+
+## POINTER 5
+<STR>(KAR)
+This is the city of Heliord. Geographically 
+speaking, it's located between Torim Harbor 
+and the city of Dahngrest.<PAGE>It was only just recently built. 
+It's still a very new town.<PAGE>If you follow this road to the east you'll hit Caer 
+Bocram, where we were earlier. Cut through the west 
+and go to the northwest to reach Dahngrest.
+
+## POINTER 6
+<STR>(YUR)
+I see...well, maybe I'll have 
+a look around the town a bit.
+
+## POINTER 7
+<STR>(RIT)
+...I've got my own business 
+to attend to.
+
+## POINTER 8
+<STR>(KAR)
+Hmmm, what to do...

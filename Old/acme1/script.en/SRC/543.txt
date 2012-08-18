@@ -1,0 +1,92 @@
+## POINTER 0
+<STR>(FRE)
+<VOICE>(VS64_042)You're not going to stay until the end?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS64_043)That's not 
+our job.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS64_044)Yeah. That's stuff for the important 
+people to work out.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS64_045)Somehow, I think people 
+will have a harder time 
+than they're thinking.<PAGE><VOICE>(VS64_046)It's their job to get ready 
+for that. Our job...
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS64_047)We have to crush the Adephagos 
+and stop Duke.
+
+## POINTER 5
+<STR>(FRE)
+<VOICE>(VS64_048)...I see.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS64_049)Sorry. We left all the 
+dirty work to you.
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS64_050)That's my line.<PAGE><VOICE>(VS64_051)We always leave the 
+hardest part to you 
+all. I apologize.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS64_052)All right. We 
+got work to do!
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS64_053)But how are we supposed to access 
+all the world's cores?
+
+## POINTER 10
+Witcher
+<VOICE>(VS64_054)I think I know a way...<PAGE><VOICE>(VS64_055)There was something in the research
+Alexei and Barbos did.<PAGE><VOICE>(VS64_056)Some note about creating 
+a network of blastia...
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS64_057)Really?! Where's 
+that note?
+
+## POINTER 12
+Witcher
+<VOICE>(VS64_058)Umm... I brought it with 
+my personal things.
+
+## POINTER 13
+Witcher
+<VOICE>(VS64_059)H-hey! Wait! You can't just 
+go looking in people's stuff!
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS64_060)Oh!<PAGE><VOICE>(VS64_061)I'm going too.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS64_062)They just took off...
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS64_063)Looks like there's a tiny bit of hope.
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS64_064)Yes, it does. I'm sure she'll find 
+an answer if she's that worked up.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS64_065)Let's just hang out until she does.

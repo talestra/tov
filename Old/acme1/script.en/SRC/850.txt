@@ -1,0 +1,41 @@
+## POINTER 0
+<STR>(KAR)
+I feel like the landscape 
+here is a little strange...
+
+## POINTER 1
+<STR>(EST_P)
+Yes... Wasn't this area supposed 
+to be a mountain range?
+
+## POINTER 2
+<STR>(JUD)
+It seems that the rumble we heard 
+back in Dahngrest came from here.
+
+## POINTER 3
+<STR>(RAV)
+...Ya sayin' an entire mountain 
+collapsed here? That's 
+a pretty big cave in.
+
+## POINTER 4
+<STR>(EST_P)
+Deep beneath a steep and winding mountain 
+range, on the sixth continent of Yurzorea, 
+slumbers a man who transcends time...
+
+## POINTER 5
+<STR>(YUR)
+Huh? Wasn't that what was 
+written in that book you 
+got back in Yormgen...?
+
+## POINTER 6
+<STR>(EST_P)
+Yes.
+
+## POINTER 7
+<STR>(YUR)
+Hmmm... It might have something to do
+with this. Let's go down and have a look.

@@ -1,0 +1,147 @@
+## POINTER 0
+
+Ah, so you've returned.
+
+## POINTER 1
+<STR>(YUR)
+Hey, good to see you again.
+
+## POINTER 2
+<STR>(JUD)
+Elder, why is the mural 
+hidden like this?<PAGE>Isn't this the lore of our 
+ancestors? Isn't it important 
+for everyone to know?
+
+## POINTER 3
+
+...We gave up blastia as a race so that we might 
+not repeat the mistakes of our ancestors. <PAGE>And then this mural was left behind, so 
+that the dire consequences of these mistakes 
+might be known to later generations.<PAGE>However, fearing that this knowledge would 
+bring confusion to our brethren, our ancestors 
+hid the mural within this wall.<PAGE>Those who handed down the lore of the Kritya were 
+the only ones entrusted with this truth...
+
+## POINTER 4
+<STR>(JUD)
+Really...?
+
+## POINTER 5
+
+Yes...but now that I think about it, perhaps 
+it was a mistake to keep it a secret.<PAGE>We should have told everyone of these events 
+earlier, and worked together to find 
+a way to fight against the Adephagos.
+
+## POINTER 6
+<STR>(EST_P)
+...But... It's 
+not too late!
+
+## POINTER 7
+
+Thank you, thank you, 
+Miss Earth-Dweller.
+
+## POINTER 8
+
+Hello! Is everyone 
+else coming...?<PAGE>Ah...what's that painting doing here?
+
+## POINTER 9
+
+Oh...well, you see, this was...passed 
+down from our ancestors...
+
+## POINTER 10
+
+Hellooo, I hope I'm 
+not late... Wait, 
+what is that...?
+
+## POINTER 11
+
+This is that thing that's floating up in the 
+sky out there. Look, everyone's fighting it!
+
+## POINTER 12
+
+The Krityans are holding spears, too!
+
+## POINTER 13
+
+Wooow, cool!
+
+## POINTER 14
+
+Indeed it is, little one.
+
+## POINTER 15
+<STR>(YUR)
+...Is this really okay? I thought 
+he didn't want them to know...
+
+## POINTER 16
+<STR>(JUD)
+Maybe it's not such a big deal. Look, 
+no one seems to be too disturbed by it.
+
+## POINTER 17
+<STR>(YUR)
+I guess...
+
+## POINTER 18
+
+How could you keep something as 
+cool as this all for yourself, 
+Mr. Elder? That's not fair!
+
+## POINTER 19
+
+Sorry, little one, but my grandfather 
+told me to take good care of it.<PAGE>It was too much trouble to 
+leave it out, so I hid it.
+
+## POINTER 20
+<STR>(JUD)
+Ah, I thought 
+as much.
+
+## POINTER 21
+<STR>(EST_P)
+But what about my encouraging words...
+
+## POINTER 22
+
+The Krityans fought against 
+the monster, too!
+
+## POINTER 23
+
+And then they wiped it out!
+
+## POINTER 24
+
+We need to be brave, too...!
+
+## POINTER 25
+<STR>(JUD)
+I understand their hesitation. This 
+is what being a Krityan is all about.<PAGE>I wasn't able to be like the rest 
+of my people. That's why I left 
+this city in the first place.
+
+## POINTER 26
+
+All right, let's have our meeting! We need to discuss 
+what measures we can take against the monster!
+
+## POINTER 27
+
+Well then, if you'll 
+excuse us...
+
+## POINTER 28
+<STR>(YUR)
+Oh, right, we'll be going now.

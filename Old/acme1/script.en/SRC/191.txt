@@ -1,0 +1,62 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS17_091)We made it...
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS17_092)...What about <STR>(KAR)?
+
+## POINTER 2
+Tison
+<VOICE>(VS17_093)There ain't a monster alive 
+that wasn't born to be 
+my punching bag.
+
+## POINTER 3
+Nan
+<VOICE>(VS17_094)Master! It's too dangerous!
+
+## POINTER 4
+Tison
+<VOICE>(VS17_095)This monster is mine, 
+even if it costs me my life!
+
+## POINTER 5
+Tison
+<VOICE>(VS17_096)Graaah!!
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS17_097)The ceiling... 
+It's not gonna hold!
+
+## POINTER 7
+Nan
+<VOICE>(VS17_098)Chief! We have to withdraw!<PAGE><VOICE>(VS17_099)We can't afford to stay here now 
+that the mark has escaped!
+
+## POINTER 8
+Clint
+<VOICE>(VS17_100)Damn. Hadn't seen a monster like 
+that in a while... What a letdown. 
+All right, pull out!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS17_101)We should leave, too.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS17_102)It's not fair. I wanted to beat 
+the hell out of that freak, too!
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS17_103)Wait, where did 
+<STR>(KAR) go?
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS17_104)If he isn't out here, he probably 
+left before us. We'll look 
+for him as we go.

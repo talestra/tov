@@ -1,0 +1,129 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<VOICE>(VS27_540)Detrás de esta puerta están
+los aposentos privados de Belius.
+No puedo permitir que continuéis.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(KAR)
+<VOICE>(VS27_541)Pero hemos venido a verla.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<VOICE>(VS27_542)¿Qué?
+¿Quiénes sois?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1277209336]
+<STR>(KAR)
+<VOICE>(VS27_543)¡Somos el gremio Gran Vesperia!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<VOICE>(VS27_544)Nunca he oído hablar de vosotros.
+¿Tenéis cita con la Adalid?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1277213692]
+<STR>(KAR)
+<VOICE>(VS27_545)¿Eh? ¿Cita?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<VOICE>(VS27_546)Por desgracia, mi señora
+solo recibe a personas
+con las que tenga cita.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1277209336]
+<STR>(RAV)
+<VOICE>(VS27_547)¿Qué tal un mensajero
+de Don Whitehorse?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<VOICE>(VS27_548)
+¿El Don? Oh, mis disculpas.<PAGE><VOICE>(VS27_549)Me llamo Natz.
+Soy el representante
+en funciones de la Adalid.<PAGE><VOICE>(VS27_550)Estaré encantado de hacerle
+saber cualquier mensaje
+que tengas para ella.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1277209336]
+<STR>(RAV)
+<VOICE>(VS27_551)Se siente, pero las órdenes del Don
+fueron darle esta carta a Belius en persona.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+Natz
+<VOICE>(VS27_552)Vaya... Es una lástima, pero Belius
+solamente recibe a invitados sin cita
+en las noches de luna nueva.<PAGE><VOICE>(VS27_553)Si pudieseis volver para entonces...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1277213692]
+<STR>(RIT)
+<VOICE>(VS27_554)¿La siguiente luna nueva?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(KAR)
+<VOICE>(VS27_555)¿Por qué solo en las
+noches de luna nueva?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(RIT)
+<VOICE>(VS27_556)Supongo que porque así
+es como hace las cosas.
+Hay gente rara en el mundo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(JUD)
+<VOICE>(VS27_557)Ahora mismo hay luna llena,
+así que todavía queda
+bastante para la nueva.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(RAV)
+<VOICE>(VS27_558)¿Así que nos volvemos?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(KAR)
+<VOICE>(VS27_559)No podemos hacer otra cosa
+mientras no nos reciba.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+Natz
+<VOICE>(VS27_560)Perdón por las molestias.
+Le haré saber que un mensajero
+del Don ha pasado por aquí.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(RAV)
+<VOICE>(VS27_561)Perfesto. Gracias.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(JUD)
+<VOICE>(VS27_562)¿Por qué no aprovechamos
+para averiguar lo que
+podamos del desierto?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(KAR)
+<VOICE>(VS27_563)Y ya de paso de Phaeroh.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(RIT)
+<VOICE>(VS27_564)A mí me gustaría reunir
+algo de información
+sobre el aer krene.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(EST_P)
+<VOICE>(VS27_565)No deberíamos tener problemas
+recolectando información de todo
+eso en una ciudad tan grande.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(RAV)
+<VOICE>(VS27_566)¿Os importaría que'l viejo <STR>(RAV)
+fuese tirando pa la posada? Debería enviar
+un informe de progresos al Don.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1277213692]
+<STR>(YUR)
+<VOICE>(VS27_567)Claro.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1281474398]
+<STR>(RIT)
+<VOICE>(VS27_568)Vale, vámonos nosotros también.

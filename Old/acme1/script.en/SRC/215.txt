@@ -1,0 +1,276 @@
+## POINTER 0
+<STR>(RIT)
+Anomalous aer conditions result in 
+blastia going out of control, which in 
+turn leads to monsters turning vicious...<PAGE>If this is related to the "distortion" 
+he was talking about, then it might not 
+be only this forest that's affected.
+
+## POINTER 1
+<STR>(RAV)
+You sure mumble to yourself a lot, don't you?
+
+## POINTER 2
+<STR>(KAR)
+Ack, what?! Another 
+monster attack?
+
+## POINTER 3
+<STR>(YUR)
+<STR>(KAR), keep your head down!
+
+## POINTER 4
+<STR>(EST_P)
+It's...it's them...
+
+## POINTER 5
+<STR>(KAR)
+Don...!
+
+## POINTER 6
+Don Whitehorse
+...You all do something?
+
+## POINTER 7
+<STR>(YUR)
+Do something? What do you mean?
+
+## POINTER 8
+Don Whitehorse
+Those savage monsters turned 
+docile as pups and ran off! 
+What did you do?
+
+## POINTER 9
+<STR>(EST_P)
+...<STR>(YUR), it must be because 
+we stopped the flow of 
+the aer...
+
+## POINTER 10
+<STR>(KAR)
+The monsters turned 
+tame because we stopped 
+the runaway aer!
+
+## POINTER 11
+Don Whitehorse
+Runaway aer?
+Hmmm...
+
+## POINTER 12
+<STR>(RIT)
+Hey, old man. Do you 
+know something!?
+
+## POINTER 13
+Don Whitehorse
+Well my old friend, Belius,
+used to say something 
+about it.
+
+## POINTER 14
+<STR>(KAR)
+...So it's true that Don and 
+Belius are friends...
+
+## POINTER 15
+<STR>(RIT)
+Who is Belius?
+
+## POINTER 16
+<STR>(KAR)
+The Duce who rules the 
+coliseum of Nordopolica.
+
+## POINTER 17
+<STR>(RIT)
+Nordopolica...
+
+## POINTER 18
+Don Whitehorse
+And what's with 
+that runaway aer?
+
+## POINTER 19
+<STR>(KAR)
+It was really amazing! More 
+and more really strong monsters 
+kept on coming, but we--
+
+## POINTER 20
+Don Whitehorse
+Boy, those are the sort of 
+things you keep to yourself.
+
+## POINTER 21
+<STR>(KAR)
+What...?
+
+## POINTER 22
+Don Whitehorse
+You don't do deeds like that so other people 
+will notice. You do them so that you can 
+protect your town and your friends.
+
+## POINTER 23
+<STR>(KAR)
+I-I'm sorry...
+
+## POINTER 24
+<STR>(EST_P)
+Excuse me, could I see 
+him for a moment?
+
+## POINTER 25
+Don Whitehorse
+What?
+
+## POINTER 26
+
+Ohh...you can use healing 
+artes... Thank you...
+
+## POINTER 27
+Don Whitehorse
+...Hmm? Ain't that 
+<STR>(RAV) over there?
+
+## POINTER 28
+Don Whitehorse
+Quit hidin', you!
+
+## POINTER 29
+<STR>(RAV)
+Humph.
+
+## POINTER 30
+Don Whitehorse
+Our man ain't givin' 
+you trouble, is he?
+
+## POINTER 31
+<STR>(RAV)
+Whaddaya mean, "trouble?" The 
+reason the monsters got tame was 
+our doing, mine especially!
+
+## POINTER 32
+<STR>(KAR)
+Huh?! <STR>(RAV)'s a member 
+of Altosk?!
+
+## POINTER 33
+<STR>(YUR)
+Somehow that seems to be the case.
+
+## POINTER 34
+<STR>(RAV)
+Ouch, gramps, 
+cut that 
+out!
+
+## POINTER 35
+Don Whitehorse
+Shut up, you!
+
+## POINTER 36
+<STR>(YUR)
+Don Whitehorse.
+
+## POINTER 37
+Don Whitehorse
+What is it?
+
+## POINTER 38
+<STR>(YUR)
+I know we've only just met, but I have 
+something I need to talk to you about.
+
+## POINTER 39
+
+Don, sorry to interrupt.
+
+## POINTER 40
+Don Whitehorse
+Ah, I see. All right you 
+dogs! Time to head out!
+
+## POINTER 41
+Don Whitehorse
+Sorry 'bout this, but something's 
+come up. We've gotta return 
+to Dahngrest.<PAGE>If ya come by the Union you'll 
+have my ear first chance I 
+get. Hope that's okay.
+
+## POINTER 42
+<STR>(YUR)
+If I have your word, 
+that's fine by me.
+
+## POINTER 43
+Don Whitehorse
+Hmph, you're not nervous at all to talk to me. You 
+all would make a good addition to our guild.
+
+## POINTER 44
+<STR>(YUR)
+Guild, huh.
+
+## POINTER 45
+<STR>(KAR)
+We're going to make one, right?
+
+## POINTER 46
+<STR>(YUR)
+We'll see.
+
+## POINTER 47
+<STR>(RAV)
+So, what do you think? Y'all finally 
+get a taste of how awesome I am?
+
+## POINTER 48
+<STR>(KAR)
+I sure didn't notice you being 
+too awesome out there!
+
+## POINTER 49
+<STR>(RAV)
+Always so quick 
+to criticize!
+
+## POINTER 50
+<STR>(YUR)
+All right, I'd like to go back 
+to Dahngrest to meet with the Don 
+and keep looking for Barbos.
+
+## POINTER 51
+<STR>(EST_P)
+<STR>(RIT), once <STR>(YUR)'s done with 
+his business, we should 
+go back to report...
+
+## POINTER 52
+<STR>(EST_P)
+<STR>(RIT)?
+
+## POINTER 53
+<STR>(RIT)
+...Oh, what was that?
+
+## POINTER 54
+<STR>(EST_P)
+Once <STR>(YUR)'s done, we should go 
+back to report to Alexei...
+
+## POINTER 55
+<STR>(EST_P)
+Is something the matter?
+
+## POINTER 56
+<STR>(RIT)
+N-no, it's nothing. Come 
+on, let's go back.

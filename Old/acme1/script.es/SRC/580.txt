@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935854]
+<STR>(KAR)
+Hola. ¿Habéis averiguado algo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1284734507]
+<STR>(YUR)
+Nos ha dicho que había hace veinte años, en el monte Temza.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1284734507]
+<STR>(KAR)
+¿Hace veinte años? ¿Eh? ¿«Había»?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1284734507]
+<STR>(RAV)
+Desde la Gran Guerra
+ese sitio es un páramo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935854]
+<STR>(JUD)
+Pero las rocas son rocas.
+Las guerras no deberían afectarlas.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935854]
+<STR>(YUR)
+¿No naciste allí, <STR>(JUD)?
+¿Has oído algo de esto?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935854]
+<STR>(JUD)
+Era muy joven cuando viví
+allí. Nunca escuché a nadie
+hablar sobre la livianita.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935854]
+<STR>(YUR)
+Mmm. De acuerdo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935854]
+<STR>(KAR)
+¿No sería más fácil ir
+nosotros mismos y comprobar
+si podemos conseguir un poco?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1284734507]
+<STR>(YUR)
+Sí, tienes razón. Vámonos
+de excursión al monte Temza.

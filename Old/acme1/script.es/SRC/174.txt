@@ -1,0 +1,119 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(KAR)
+<VOICE>(VS15_231)¿Este es el blastia que buscábamos?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528245]
+<STR>(RIT)
+<VOICE>(VS15_232)Strihm, laitos, 
+rockra, fleck...<PAGE><VOICE>(VS15_233)Han creado un blastia limitándose
+a unir varias fórmulas al tuntún...<PAGE><VOICE>(VS15_234)Con esta fórmula se puede controlar
+el tiempo, pero ¡¿cómo pueden haberla
+creado así?!<PAGE><VOICE>(VS15_235)Es como en la colina de Ehmead.
+No muestran ni el más mínimo respeto
+por lo que usan.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(EST_P)
+<VOICE>(VS15_236)Es justo la prueba que necesitábamos.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(EST_P)
+<VOICE>(VS15_237)<STR>(RIT), ¿no crees que es mejor que dejes eso para después?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(RIT)
+<VOICE>(VS15_238)Dadme un segundo.... Solo necesito
+comprobar un par de cosas...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273478329]
+<STR>(YUR)
+<VOICE>(VS15_239)Puedes pedirle a <STR>(FRE) que te deje
+echar un vistazo cuando acabemos. Ahora
+vayamos a crear nuestra «emergencia».
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273478329]
+<STR>(EST_P)
+<VOICE>(VS15_240)Rompamos algo que no vayan a echar de menos...
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(RIT)
+<VOICE>(VS15_241)¡¡Aaah!! ¡¡Maldita sea!!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239710]
+<STR>(KAR)
+<VOICE>(VS15_242)¡Jolín! ¡¿Y ahora
+qué narices te pasa?!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(RIT)
+<VOICE>(VS15_243)Lo que hay que hacer es darles a los Caballeros
+una buena razón para que se presenten, ¿no?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(EST_P)
+<VOICE>(VS15_244)Sí, pero no estoy segura de que debamos...
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+Ragou
+<VOICE>(VS15_245)En serio, vaya manera
+de comportarse en casa ajena.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1304552916]
+Ragou
+<VOICE>(VS15_246)Ha llegado la hora de que
+os ganéis vuestro sueldo.
+Quiero que los capturéis a todos.<PAGE><VOICE>(VS15_247)¡Pero pase lo que pase,
+no le hagáis daño a la joven dama!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240675]
+<STR>(KAR)
+<VOICE>(VS15_248)¡No puede ser! ¿Esos tíos no son
+de Pacto de Sangre?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239710]
+<STR>(RIT)
+<VOICE>(VS15_249)¡Y ahí tienes a otro más!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(YUR)
+<VOICE>(VS15_250)¡Ya es suficiente!
+¡A salir de aquí tocan!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(RIT)
+<VOICE>(VS15_251)¿De qué estás hablando? 
+¡Aún no he terminado!
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(YUR)
+<VOICE>(VS15_252)Si no nos vamos de aquí a la de ya,
+nos cruzaremos con <STR>(FRE),
+y me gustaría evitar eso.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(RIT)
+<VOICE>(VS15_253)No pensarás en serio que va
+a llegar tan rápidamente...
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(FRE)
+<VOICE>(VS15_254)Magistrado, no sé qué está
+sucediendo aquí, pero permitid
+que os ayudemos.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(EST_P)
+<VOICE>(VS15_255)¡¿<STR>(FRE)?!
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835285]
+<STR>(YUR)
+<VOICE>(VS15_256)¿Qué decía yo?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988575]
+Ragou
+<VOICE>(VS15_257)Mmpf. Sí que tiene entusiasmo...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239710]
+<STR>(KAR)
+<VOICE>(VS15_258)¡Hala! ¡¿E-Ese de ahí
+es el jinete de dragones?!

@@ -1,0 +1,11 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512193]
+<STR>(RIT)
+María... Volveré.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1292936083]
+<STR>(KAR)
+Y va y le pone otro nombre a otro blastia...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512193]
+<STR>(EST_P)
+¡Yo creo que es una cucada!

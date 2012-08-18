@@ -1,0 +1,58 @@
+## POINTER 0
+
+<03>(2)<STR>(EST_P)!!
+
+## POINTER 1
+
+
+## POINTER 2
+
+<03>(2)<STR>(EST_P)!!
+
+## POINTER 3
+
+<03>(2)Damn it! Stop it, Alexei!
+
+## POINTER 4
+
+<03>(2)No! I'm losing control 
+of myself! I'm scared!
+
+## POINTER 5
+
+<03>(2)You gotta fight it, <STR>(EST_P)! 
+Don't give up yet!
+
+## POINTER 6
+
+<03>(2)<STR>(YUR)!
+
+## POINTER 7
+
+<03>(2)<STR>(EST_P)...
+
+## POINTER 8
+
+<03>(2)Please, I beg of you... before 
+I cause anyone anymore pain...
+
+## POINTER 9
+
+<03>(2)Please <STR>(YUR)...
+
+## POINTER 10
+
+<03>(2)Kill me now.
+
+## POINTER 11
+
+
+## POINTER 12
+
+
+## POINTER 13
+
+
+## POINTER 14
+
+<03>(2)<STR>(EST_P)!!

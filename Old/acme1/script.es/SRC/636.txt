@@ -1,0 +1,89 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292707473]
+Duke
+<VOICE>(VA025_001)¿Qué estáis...?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294055614]
+<STR>(YUR)
+<VOICE>(VA025_002)¿A quién le estás
+presentando tus respetos?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292707473]
+Duke
+<VOICE>(VA025_003)A un viejo amigo.<PAGE><VOICE>(VA025_004)Un querido compañero que compartió mi causa
+y dio su vida en la batalla.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294186750]
+<STR>(RAV)
+<VOICE>(VA025_005)¿Batalla?
+¿Estaba en un gremio?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1292707473]
+Duke
+<VOICE>(VA025_006)¿Por qué lo dices?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294186750]
+<STR>(RAV)
+<VOICE>(VA025_007)A los Caballeros Imperiales que
+mueren cumpliendo con su deber se
+les organiza un funeral de Estado.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294186750]
+Duke
+<VOICE>(VA025_008)Esto no tiene nada que ver
+con el Imperio o los gremios.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294186750]
+<STR>(YUR)
+<VOICE>(VA025_009)¿Qué quiere decir eso?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1292752226]
+Duke
+<VOICE>(VA025_010)Esas instituciones no son mas que
+trivialidades creadas por el hombre.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294186750]
+<STR>(RAV)
+<VOICE>(VA025_011)¿Él es la razón por la cual estás
+d'aquí pa'llá tanto tiempo?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1292752226]
+Duke
+<VOICE>(VA025_012)Eso no es de tu incumbencia.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1292752226]
+<STR>(RAV)
+<VOICE>(VA025_013)Eh, no te me pongas cascarrabias.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551227]
+<STR>(YUR)
+<VOICE>(VA025_014)Pero, al final, ¿de quién es esta tumba?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1292752226]
+<STR>(RAV)
+<VOICE>(VA025_015)No es de un Caballero ni de alguien
+d'un gremio. Eso quiere decir que...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551243]
+<STR>(YUR)
+<VOICE>(VA025_016)Sé que hay gente que no puede
+permitirse un entierro, pero
+¿por qué ponerlo en un lugar así?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1292752226]
+<STR>(KAR)
+<VOICE>(VA025_017)<STR>(EST_P), ¿qué haces?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294186750]
+<STR>(EST_P)
+<VOICE>(VA025_018)Tal vez no sepamos de quién
+es esta tumba, pero creo que
+esto es lo correcto.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1292752226]
+<STR>(YUR)
+<VOICE>(VA025_019)Ya que estamos...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1292752226]
+<STR>(YUR)
+<VOICE>(VA025_020)Vale, volvamos abajo.
+Aquí no hay nada que hacer.

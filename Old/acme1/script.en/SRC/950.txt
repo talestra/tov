@@ -1,0 +1,130 @@
+## POINTER 0
+<STR>(RAP)
+Woo, woof!
+
+## POINTER 1
+<STR>(RIT)
+They're behind us!
+
+## POINTER 2
+<STR>(EST_P)
+Our party's order is in shambles!
+
+## POINTER 3
+<STR>(KAR)
+Be careful! We'll be fine 
+if we proceed with caution!
+
+## POINTER 4
+<STR>(YUR)
+It looks like they've 
+messed up our order... 
+Let's take 'em down!
+
+## POINTER 5
+<STR>(RIT)
+Uh, w-what the...I was leading up the rear 
+of the party, and now I'm in front?!
+
+## POINTER 6
+<STR>(EST_P)
+I, um, I was in the back 
+last time I checked...
+
+## POINTER 7
+<STR>(KAR)
+Hey, attacking from 
+behind is no fair!
+
+## POINTER 8
+<STR>(YUR)
+What the...! I was having so much 
+fun goofing off in the back of 
+the party... Okay, let's go!
+
+## POINTER 9
+<STR>(KAR)
+That was scary... I didn't expect to 
+be ambushed from behind like that.
+
+## POINTER 10
+<STR>(YUR)
+Well, I guess we just can't 
+ever let our guard down where 
+there are monsters about.
+
+## POINTER 11
+<STR>(EST_P)
+If they attack from the 
+rear, any of us could 
+get pulled into battle.
+
+## POINTER 12
+<STR>(YUR)
+Right...Let's be careful and hope
+that doesn't happen again.
+
+## POINTER 13
+<STR>(RIT)
+Hmm. This only happens
+with a preemptive attack.
+
+## POINTER 14
+Information
+Your party's order will be
+reshuffled when an enemy 
+approaches from behind,
+so be careful!
+
+## POINTER 15
+<STR>(YUR)
+Preemptive attacks, eh...
+
+## POINTER 16
+<STR>(RIT)
+What?
+
+## POINTER 17
+<STR>(KAR)
+You guys!
+It's back!
+
+## POINTER 18
+<STR>(RIT)
+Hit it with what I
+gave you just now!
+
+## POINTER 19
+<STR>(YUR)
+Huh? You mean with this...?
+
+## POINTER 20
+<STR>(RIT)
+Do it, now!
+
+## POINTER 21
+<STR>(YUR)
+I get it now, so
+that's how it works.
+
+## POINTER 22
+<STR>(EST_P)
+I didn't know it can be
+used like that, too.
+
+## POINTER 23
+<STR>(RIT)
+Right. Let's get
+a move on.
+
+## POINTER 24
+Information
+Fire a shot of aer with the
+Sorcerer's Ring at an enemy
+to temporarily stun them.
+
+## POINTER 25
+Information
+The enemies will be stunned for a
+short time at the start of the battle
+upon entering a battle in this state.

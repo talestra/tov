@@ -1,0 +1,89 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS43_001)We caught up to them!
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS43_002)Look!
+
+## POINTER 2
+<STR>(FRE)
+<VOICE>(VS43_003)The Imperial Knights must 
+show courage, regardless 
+of the threat they face!<PAGE><VOICE>(VS43_004)Everyone! Stand with me!
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS43_005)That's suicide.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS43_006)They're dead if they get 
+too close to Heracles.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS43_007)Well, it is <STR>(FRE). I wouldn't 
+think he'd be crazy enough 
+to ram that thing head on...<PAGE><VOICE>(VS43_008)Even so, their little fleet doesn't stand 
+a chance against that fortress.
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS43_009)Well, if we can't get in 
+from the bottom, we'll 
+just get in from the top.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS43_010)What?! Wait, let's think 
+this over a little more...
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS43_011)Ba'ul, take us up!
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS43_012)Hold on tight or you'll 
+be shaken off.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS43_013)Th-they're shooting at us!
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS43_014)Ba'ul!
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS43_015)There! The rear left! It's the 
+only area that isn't shooting.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS43_016)Okay, that's the spot! Do you 
+think he can get us there?
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VS43_017)He's a little hurt 
+that you'd even ask.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS43_018)Heh, sorry. All right. 
+It's up to him.
+
+## POINTER 16
+<STR>(JUD)
+<VOICE>(VS43_019)Take us in, Ba'ul.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS43_020)Let's go!
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS43_021)Uaaaaaaaagh!

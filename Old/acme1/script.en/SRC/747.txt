@@ -1,0 +1,134 @@
+## POINTER 0
+<STR>(YUR)
+I see that <STR>(FRE)'s a clean-freak 
+as always.
+
+## POINTER 1
+<STR>(RIT)
+Hold on. What's 
+that book...?
+
+## POINTER 2
+<STR>(YUR)
+Huh? It says "Against a 
+Backdrop of New Hope."
+
+## POINTER 3
+<STR>(RIT)
+Bingo! That's what 
+I was looking for!
+
+## POINTER 4
+<STR>(YUR)
+Oh, good.
+
+## POINTER 5
+<STR>(FRE)
+I come back to my room, and 
+what do I see but a thief?
+
+## POINTER 6
+<STR>(YUR)
+Hey, hey, don't be so harsh! 
+At least refer to me as 
+an honorable outlaw!
+
+## POINTER 7
+<STR>(FRE)
+Honorable outlaws are seldom so immodest 
+as to refer to themselves as such.
+
+## POINTER 8
+<STR>(YUR)
+Meh, details,
+details.
+
+## POINTER 9
+<STR>(FRE)
+So, what is such an honorable 
+outlaw doing in my room?
+
+## POINTER 10
+<STR>(RIT)
+Sorry, but could you 
+give us this book?
+
+## POINTER 11
+<STR>(FRE)
+<STR>(YUR)?
+
+## POINTER 12
+<STR>(YUR)
+<STR>(FRE), my dear friend, 
+could you somehow give 
+us this book, please?
+
+## POINTER 13
+<STR>(RIT)
+Somehow that doesn't sound 
+entirely sincere...
+
+## POINTER 14
+<STR>(FRE)
+<STR>(YUR), when will 
+you ever learn...<PAGE>All right. 
+You can have 
+the book.
+
+## POINTER 15
+<STR>(RIT)
+Thank you!
+
+## POINTER 16
+<STR>(YUR)
+Thank you!
+
+## POINTER 17
+<STR>(FRE)
+You fool, faking politeness is even 
+harder than just asking direct...
+
+## POINTER 18
+<STR>(YUR)
+All right, so you've finally 
+gotten all of them?
+
+## POINTER 19
+<STR>(RIT)
+Yep. I've collected 
+all five.<PAGE>Now I can go and 
+take that test.
+
+## POINTER 20
+<STR>(YUR)
+Going out to look for books all across 
+the world...what a crazy test!
+
+## POINTER 21
+<STR>(RIT)
+Oh, the real test has yet to begin.<PAGE>There'll be a written test that requires 
+using these books as reference material.
+
+## POINTER 22
+<STR>(YUR)
+Agh, just thinking about taking 
+tests makes my head hurt.
+
+## POINTER 23
+<STR>(RIT)
+Wouldn't you like to give it a 
+try? Just to see how you do.
+
+## POINTER 24
+<STR>(YUR)
+Nah, I wouldn't have a chance. I don't care 
+about that what's-his-face degree anyway.
+
+## POINTER 25
+<STR>(RIT)
+Yeah, giving something like that to you would 
+be like casting pearls before swine.
+
+## POINTER 26
+<STR>(YUR)
+Hey, who're you calling swine?!

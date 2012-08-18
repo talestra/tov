@@ -1,0 +1,37 @@
+## POINTER 0
+<STR>(KAR)
+So, what's the plan?
+
+## POINTER 1
+<STR>(EST_P)
+I'm going to go see 
+Magistrate Ragou.
+
+## POINTER 2
+<STR>(KAR)
+What? We'll get turned away at 
+the gate if we try to go there.<PAGE>Even a noblewoman like you would 
+have no chance of getting in.
+
+## POINTER 3
+<STR>(YUR)
+Yeah, but with the harbor 
+barricaded, we can't cross 
+over to Torim Harbor.<PAGE>And that thief Dedecchi, along with 
+that one-eyed giant, are both on 
+the other side of the water.
+
+## POINTER 4
+<STR>(RIT)
+Let's stop blabbing about it 
+and just go, why don't we?
+
+## POINTER 5
+<STR>(YUR)
+If he won't listen to what we have to 
+say, we can think of another plan.
+
+## POINTER 6
+<STR>(EST_P)
+All right, let's head to 
+Ragou's palace, then!

@@ -1,0 +1,172 @@
+## POINTER 0
+
+<VOICE>(VS03_001)So like I was sayin', the thief 
+made off with a priceless treasure 
+from that noble's mansion.
+
+## POINTER 1
+
+<VOICE>(VS03_002)I know, I know. Then he was caught, 
+and the loot was returned, right?
+
+## POINTER 2
+
+<VOICE>(VS03_003)No. See, that's just nobility tryin' 
+ta keep things quiet. The treasure in 
+the mansion right now's a fake.
+
+## POINTER 3
+
+<VOICE>(VS03_004)You're pulling my leg.
+
+## POINTER 4
+
+<VOICE>(VS03_005)Hey, ya didn't hear it from me, 
+bub. The Dark Wings are goin' nuts 
+lookin' for the hideout.
+
+## POINTER 5
+
+<VOICE>(VS03_006)You mean the thieves' guild?
+
+## POINTER 6
+
+<VOICE>(VS03_007)Ahem! That's enough 
+out of you. 
+Almost meal time.
+
+## POINTER 7
+
+<VOICE>(VS03_008)Hey neighbor! You're awake
+right? You gotta be gettin' 
+tired from keepin' so quiet.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS03_009)You think that little story up all by yourself, old man? 
+You must have plenty of time on your hands.
+
+## POINTER 9
+
+<VOICE>(VS03_010)"Old man?" Now you've gone
+and hurt this old man's feelings.<PAGE><VOICE>(VS03_011)Besides, I didn't make up nothin'. 
+I've got eyes and ears the world over 
+diggin' up information for me.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS03_012)Heh, sure you 
+do, old man.
+
+## POINTER 11
+
+<VOICE>(VS03_013)Hey, I am what I am. Go ahead and ask me something.
+I'll tell ya whatever ya want to know.<PAGE><VOICE>(VS03_014)Wanna know about the pirate guild's sunken treasure? 
+How 'bout the sorcerer who makes his home at the 
+ends of the earth? Or wait, I've got it...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS03_015)I just want to know how 
+to get out of here.
+
+## POINTER 13
+
+<VOICE>(VS03_016)Well I'm not sure what yer in for, 
+but they'll let ya out if ya keep 
+yer trap shut for ten days.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS03_017)The lower quarter'll be 
+underwater by then.
+
+## POINTER 15
+
+<VOICE>(VS03_018)The lower quarter... Ah yeah, 
+I heard about that.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS03_019)I wonder how they're all doing right now.
+
+## POINTER 17
+
+<VOICE>(VS03_020)Sorry, neighbor. That's one 
+piece of dirt I don't have.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS03_021)And what am I gonna do about 
+that damned Mordio.
+
+## POINTER 19
+
+<VOICE>(VS03_022)THE Mordio? You mean to say you've 
+got connections ta the famed mage 
+from Aspio, the City of Scholars?
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS03_023)Do you know about him?
+
+## POINTER 21
+
+<VOICE>(VS03_024)Oho! Want ta know, huh? 
+I'm afraid that information 
+won't come cheap...
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS03_025)The "famed mage from Aspio, 
+the City of Scholars" right? 
+I think I got it.
+
+## POINTER 23
+
+<VOICE>(VS03_026)W-wait, that's not it. He's the
+uh, the head of the gourmet guild!
+No wait, it's the uh, I mean...
+
+## POINTER 24
+
+<VOICE>(VS03_027)Out.
+
+## POINTER 25
+
+<VOICE>(VS03_028)Ah well, just when things were gettin' good.
+
+## POINTER 26
+
+<VOICE>(VS03_029)Hurry up.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS03_030)...What is Commandant Alexei doing here?
+
+## POINTER 28
+
+<VOICE>(VS03_031)Whoa!
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS03_032)Just who are you anyway? What does the 
+head of the Knights want with you?
+
+## POINTER 30
+
+<VOICE>(VS03_033)Beneath the statue of the goddess...
+
+## POINTER 31
+Alexei
+<VOICE>(VS03_034)What are you doing? I said hurry up.
+
+## POINTER 32
+
+<VOICE>(VS03_035)All right, easy. 
+I'm coming.
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS03_036)...I did say I was looking 
+for a way out of here.

@@ -1,0 +1,94 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971587]
+<STR>(JUD)
+<VOICE>(VA100_001)Puedo comunicarme con Ba'ul, pero
+hay ciertas cosas que deberíais saber.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971783]
+<STR>(YUR)
+<VOICE>(VA100_002)¿Como cuáles?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971587]
+<STR>(JUD)
+<VOICE>(VA100_003)Ba'ul solo puede aterrizar en 
+espacios abiertos y amplios.<PAGE><VOICE>
+(VA100_004)Así que nada de bajar en cordilleras
+de montañas ni en cañones estrechos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1271872325]
+<STR>(KAR)
+<VOICE>(VA100_005)¿Y en el agua?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1271872325]
+<STR>(JUD)
+<VOICE>(VA100_006)No, en el agua tampoco.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971587]
+<STR>(KAR)
+<VOICE>
+(VA100_007)¿Ah, no? Parece un buen nadador.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971587]
+<STR>(JUD)
+<VOICE>(VA100_008)Ja, ja; pues no.
+Se hundiría como una roca.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971587]
+<STR>(KAR)
+<VOICE>(VA100_009)Nadie lo diría.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971587]
+<STR>(YUR)
+<VOICE>(VA100_010)Para eso tenemos un barco, ¿no?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971783]
+<STR>(JUD)
+<VOICE>(VA100_011)Cierto. Cuando quieras
+navegar, házmelo saber.<PAGE><VOICE>
+(VA100_012)Ba'ul lo colocará en posición.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971587]
+<STR>(KAR)
+<VOICE>(VA100_013)Vale, pero ¿y si queremos
+volver a volar otra vez?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971587]
+<STR>(JUD)
+<VOICE>(VA100_014)Usa el «cuerno de Ba'ul» 
+para llamarlo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971587]
+<STR>(YUR)
+<VOICE>(VA100_015)El cuerno de Ba'ul...
+¿Qué tiene de especial?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1283971587]
+<STR>(JUD)
+<VOICE>(VA100_016)Los krityanos podemos comunicarnos
+con todos los entelechia gracias a<PAGE><VOICE>(VA100_017)un poder especial que poseemos que
+afecta a cierta región de su cerebro.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:miyu;time:1272915943]
+<STR>(YUR)
+<VOICE>(VA100_018)Así que podemos
+llamarlo usando esto.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:miyu;time:1271872325]
+<STR>(JUD)
+<VOICE>(VA100_019)Eso es.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760500]
+Información
+Controles de Ba'ul
+<06>(LTN)　　　　Mover a Ba'ul
+<06>(L3)　　　　Llamar a Ba'ul (en tierra o mar)
+<06>(RTN)　　　　Control de la cámara
+<06>(R3)　　　　Girar la cámara hacia el norte
+<06>(RBD)　　　　Aterrizar (solo en espacios permitidos）
+<06>(RBL)　　　　Mostrar el mapa de navegación
+<06>(RBU)　　　　Abrir el menú principal
+<06>(R1)　　　　Girar la cámara hacia la derecha
+<06>(L1)　　　　Girar la cámara hacia la izquierda
+<06>(R2)　　　　Avanzar
+<06>(L2)　　　　Retroceder
+<06>(STA)　　　　Pausa
+<06>(SEL)　　　　Ver la skit

@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:memnoch,xander;user:xander;time:1252004229]
+Qué pasa con (YUR)
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297710321]
+(RAV)
+Llevas un buen rato mirando de un lado pá otro.
+¿Buscas a alguien?
+
+## POINTER 2 [t:1;r:2;ru:memnoch,xander;user:memnoch;time:1266241162]
+(YUR)
+¿Qué? ¡No!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297710321]
+(JUD)
+No intentes negarlo. No has parado
+de escudriñar por todas partes con la mirada.
+
+## POINTER 4 [t:1;r:2;ru:xander,memnoch;user:xander;time:1266397618]
+(YUR)
+Vale, me has pillado.
+
+## POINTER 5 [t:1;r:2;ru:xander,memnoch;user:xander;time:1266397671]
+(YUR)
+A pesar de toda la gente que hay de la capital,
+aún no he visto a nadie de los barrios bajos.
+
+## POINTER 6 [t:1;r:2;ru:memnoch,xander;user:memnoch;time:1266241123]
+(JUD)
+Estás preocupado por ellos, ¿verdad?
+No tienes por qué avergonzarte.
+
+## POINTER 7 [t:1;r:2;ru:xander,memnoch;user:xander;time:1266397618]
+(YUR)
+Es solo que creo que ya tenemos
+bastantes cosas de las que preocuparnos...

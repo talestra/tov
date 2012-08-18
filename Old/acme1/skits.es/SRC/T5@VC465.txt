@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253563493]
+Normal y corriente
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134924]
+(YUR)
+Por mucho que andemos, este sitio
+parece... un bosque de lo más normal.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134924]
+(JUD)
+Tienes razón.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134924]
+(KAR)
+Pero un boque normal también tiene
+su encanto. Arroyos rebosantes,
+suaves colinas, árboles verdes...
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134924]
+(KAR)
+¡Resulta relajante!
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134924]
+(JUD)
+Qué perspectiva más bonita, (KAR).
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266829819]
+(RAV)
+A veces es fácil dejarse llevar
+por las preocupaciones y olvidarse
+de lo que de verdá importa.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298125652]
+(YUR)
+Ya, ya, árboles, agua, bosque;
+todo muy bonito. ¿Podemos seguir?
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134924]
+(KAR)
+Parece que a (YUR) no le va este rollo...

@@ -1,0 +1,58 @@
+## POINTER 0
+<STR>(KAR)
+Where'd this manual 
+wind up, anyway...?
+
+## POINTER 1
+<STR>(YUR)
+I wonder if Cumore didn't 
+just pocket it for himself.
+
+## POINTER 2
+<STR>(RAV)
+If he did, we'd find it at his 
+place in the royal quarter.
+
+## POINTER 3
+<STR>(RIT)
+A little light burglary, huh?
+
+## POINTER 4
+<STR>(EST_P)
+No, we should ask someone at 
+the house to go and see if 
+they can find it for us.
+
+## POINTER 5
+<STR>(YUR)
+We might as well go check the 
+place out... You know where 
+Cumore's pad is, old man?
+
+## POINTER 6
+<STR>(RAV)
+It's in the east end of the royal quarter 
+back at the capital, if memory serves.
+
+## POINTER 7
+<STR>(KAR)
+That's right. Cumore's from a pretty 
+well to do noble family, isn't he?
+
+## POINTER 8
+<STR>(YUR)
+Royal quarter, huh...? Wonder if they'll 
+be so kind as to let us in.
+
+## POINTER 9
+<STR>(EST_P)
+Don't worry. I'll see that 
+we're allowed to enter.
+
+## POINTER 10
+<STR>(YUR)
+That should make things go a little smoother.
+
+## POINTER 11
+<STR>(KAR)
+All right, come on, let's go!

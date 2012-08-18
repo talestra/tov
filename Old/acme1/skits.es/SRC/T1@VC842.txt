@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251837835]
+No era un monstruo normal
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119326]
+(YUR)
+¿Qué era aquel extraño monstruo con el que
+nos encontramos en las Arenas de Kogorh?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119326]
+(EST_P)
+Solo de pensar en él
+me entran escalofríos...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119326]
+(KAR)
+¿Estaba vivo siquiera?
+
+## POINTER 4 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403555]
+(YUR)
+¿Eh? ¿Qué quieres decir?
+
+## POINTER 5 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403555]
+(KAR)
+Bueno, no se parecía en nada a las demás
+criaturas que habitan en el desierto...
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403555]
+(YUR)
+Je. Otra astuta observación
+del capitán (KAR).
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119326]
+(EST_P)
+Fuera lo que fuera, espero que
+no nos lo volvamos a encontrar.
+
+## POINTER 8 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403555]
+(KAR)
+Yo también.

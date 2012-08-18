@@ -1,0 +1,122 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS58_500)Huh!
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS58_501)That weapon... !
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS58_502)Nan!
+
+## POINTER 3
+Nan
+<VOICE>(VS58_503)I warn you. The Hunting 
+Blades are currently patrolling 
+the area. Leave at...
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS58_504)Nan!
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS58_505)These wounds are terrible...
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS58_506)Come on, Nan!
+
+## POINTER 7
+Nan
+<VOICE>(VS58_507)<STR>(KAR)...
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS58_508)What are you doing alone!?
+Where's the boss and Tison?
+
+## POINTER 9
+Nan
+<VOICE>(VS58_509)Master and the others went on...
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS58_510)What!? They left you behind!?<PAGE><VOICE>(VS58_511)The boss is one thing
+but I can't believe Tison
+wouldn't take you...<PAGE><VOICE>(VS58_512)What happened?
+
+## POINTER 11
+Nan
+<VOICE>(VS58_513)We wound up fighting our target here.<PAGE><VOICE>(VS58_514)I-I couldn't do anything, just like always...
+
+## POINTER 12
+Nan
+<VOICE>(VS58_515)Master said it's because I had doubts.
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS58_516)Doubts?
+
+## POINTER 14
+Nan
+<VOICE>(VS58_517)I hate monsters. They shouldn't
+be alive. I still feel that way.<PAGE><VOICE>(VS58_518)But now, at a time like this, hunting 
+monsters isn't that important.<PAGE><VOICE>(VS58_519)There are other things 
+we should be doing...<PAGE><VOICE>(VS58_520)When I told him that...
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS58_521)They up and left you.
+
+## POINTER 16
+<STR>(JUD)
+<VOICE>(VS58_522)Fools. With everything the way 
+it is, how can they not take 
+another look at their lives.
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS58_523)That's terrible!
+I mean Nan's right!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS58_524)Relax <STR>(KAR).
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS58_525)Hey, the Hunting Blades are
+after entelexeia, right?
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS58_526)We should hurry.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS58_527)Yeah.
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS58_528)Nan, can you walk?
+
+## POINTER 23
+Nan
+<VOICE>(VS58_529)Huh? 
+Yeah, but...
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS58_530)
+It's too dangerous
+to be alone here.
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS58_531)Come with us Nan.
+
+## POINTER 26
+Nan
+<VOICE>(VS58_532)<STR>(KAR)... OK.

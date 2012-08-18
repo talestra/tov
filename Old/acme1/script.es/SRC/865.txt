@@ -1,0 +1,30 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765986]
+<STR>(YUR)
+¿Te gustaría convertirte
+en sanadora algún día?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1294106506]
+<STR>(EST_P)
+No... Pero aun así...<PAGE>Lo único que se me ha dado
+bien en la vida es curar
+las heridas de la gente...<PAGE>Me gustaría aprender más
+cosas sobre los sanadores.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1294106506]
+<STR>(YUR)
+Yo creo que has hecho por nosotros
+mucho más que curarnos las heridas.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294106506]
+<STR>(EST_P)
+¿Eh?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765986]
+<STR>(YUR)
+Nada, déjalo.<PAGE>En cualquier caso, no creo que haya nada
+de malo en que aprendas más sobre la
+sanación y ver adónde te lleva.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1294106506]
+<STR>(EST_P)
+Sí.

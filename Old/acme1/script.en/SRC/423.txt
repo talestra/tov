@@ -1,0 +1,183 @@
+## POINTER 0
+<STR>(RIT)
+There are so many types of blastia 
+I've never seen before...
+
+## POINTER 1
+<STR>(YUR)
+Looks like the Krityans really were the ones 
+who created blastia in the first place.
+
+## POINTER 2
+<STR>(RIT)
+...Yes. Seeing all this 
+blastia makes it very easy 
+to believe that.
+
+## POINTER 3
+<STR>(RAV)
+It sure would be nice if we happened 
+upon a way to do something about 
+your power, Miss <STR>(EST_P).
+
+## POINTER 4
+<STR>(EST_P)
+Really...that would 
+be nice, but...
+
+## POINTER 5
+<STR>(KAR)
+...It's not working.
+
+## POINTER 6
+<STR>(RIT)
+It doesn't have a core. It's just the body.
+
+## POINTER 7
+<STR>(JUD)
+This city has stopped using blastia. 
+What you see here is what everyone 
+threw out long ago.
+
+## POINTER 8
+<STR>(KAR)
+Why would they do that?
+
+## POINTER 9
+
+Because that was the 
+path we chose.
+
+## POINTER 10
+<STR>(JUD)
+It's been a long time, Elder.
+
+## POINTER 11
+
+So you were the cause of all 
+of this commotion outside! 
+You've returned to us.
+
+## POINTER 12
+<STR>(JUD)
+These children are humans who 
+are travelling with me.
+
+## POINTER 13
+
+Hmph.
+
+## POINTER 14
+
+This is...blastia, 
+is it not?
+
+## POINTER 15
+<STR>(YUR)
+Yes. It's my bodhi blastia that I use.
+
+## POINTER 16
+
+Hmmm. I thought that earth-dwellers 
+had stopped using blastia 
+like us...
+
+## POINTER 17
+<STR>(EST_P)
+Do you not use the blastia 
+here because it uses a special 
+formula, too?
+
+## POINTER 18
+
+There are no normal or special types of blastia.
+
+## POINTER 19
+
+Blastia is made by crushing apatheia, and processing 
+those pieces with technology to produce cores, 
+and through the absorption of aer...
+
+## POINTER 20
+<STR>(RIT)
+Hold it! Cores are made 
+from crushed apatheia?!
+
+## POINTER 21
+
+Indeed, that is what the stories 
+say. It appears apatheia was too 
+powerful in its original form.<PAGE>Even without that power, it is a stone 
+more valuable than any precious gem.<PAGE>This it why its power was restrained by breaking 
+it into pieces and carving formulas into it, 
+and thus its numbers were also increased.<PAGE>Our legends tell us that cores were 
+always produced in this way.
+
+## POINTER 22
+<STR>(YUR)
+...A bit ironic, huh?
+
+## POINTER 23
+<STR>(KAR)
+Yeah...<PAGE>The apatheia that comes from 
+Entelexeia, who hate blastia,<PAGE>is necessary to make the very 
+blastia that they hate...
+
+## POINTER 24
+<STR>(RAV)
+Maybe Phaeroh didn't tell us about 
+apatheia 'cause he felt uncomfortable 
+talkin' about it...y'think?
+
+## POINTER 25
+<STR>(JUD)
+Elder. There are many things 
+I'd like to ask you about.
+
+## POINTER 26
+<STR>(YUR)
+We're trying to find out 
+what sort of role blastia 
+played in ancient times.<PAGE>And if blastia ever brought disasters to this world, 
+we'd like to know how they might have been stopped.<PAGE>Myorzo must still have 
+some folklore, right?<PAGE>Perhaps you could tell us what you know.
+
+## POINTER 27
+
+Hmph. Very well.<PAGE>My home would be a better place 
+to speak of such things. Please 
+go inside and wait for me there.
+
+## POINTER 28
+<STR>(RAV)
+Hey there. Where are you goin'?
+
+## POINTER 29
+
+I was in the middle of my daily walk. I'll 
+return to my house before too long.
+
+## POINTER 30
+<STR>(EST_P)
+...
+
+## POINTER 31
+<STR>(YUR)
+Apatheia, blastia, aer disturbances, 
+Entelexeia... It looks like everything's 
+connected.
+
+## POINTER 32
+<STR>(RIT)
+We might see even more connections once 
+he's told us the Krityan folklore.
+
+## POINTER 33
+<STR>(JUD)
+The Elder's house is the large 
+building with a differently colored 
+roof than all the others.
+
+## POINTER 34
+<STR>(YUR)
+Gotcha.

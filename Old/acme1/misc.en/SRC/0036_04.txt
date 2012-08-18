@@ -1,0 +1,300 @@
+## POINTER 447
+070 What is Dein Nomos?
+
+## POINTER 448
+080 <STR>(RAV), who he is
+
+## POINTER 449
+090 Need to move on
+
+## POINTER 450
+100 Tell Leblanc about Schwann
+
+## POINTER 452
+010 Enter Hercules
+
+## POINTER 454
+010 Safe landing, <STR>(RAV) returns
+
+## POINTER 455
+020 Break the bars with S. Ring
+
+## POINTER 456
+030 Let's look for the control room
+
+## POINTER 457
+040 Alexei is nowhere
+
+## POINTER 458
+050 Cooperate with <STR>(FRE) squadron
+
+## POINTER 459
+070 Main gun fired!?
+
+## POINTER 460
+080 We need to destroy the core
+
+## POINTER 461
+090 Riding Ba'ul to capital
+
+## POINTER 463
+010 Fail to enter capital
+
+## POINTER 464
+020 Crackup
+
+## POINTER 466
+010 A big fuss
+
+## POINTER 467
+020 Where's that girl?
+
+## POINTER 468
+030 Hold up with Hercules' cannonry
+
+## POINTER 469
+040 Need to travel around Zopher
+
+## POINTER 471
+010 A large monster underneath!
+
+## POINTER 472
+020 Drive in Bitejaw 1
+
+## POINTER 473
+021 Drive in Bitejaw 2
+
+## POINTER 474
+022 Drive in Bitejaw 3
+
+## POINTER 475
+030 <STR>(KAR) struggles
+
+## POINTER 476
+040 To protect and a respond
+
+## POINTER 478
+010 This place is still secure
+
+## POINTER 479
+020 It's on me
+
+## POINTER 480
+030 Let go see the high ups of the capital
+
+## POINTER 481
+040 Aer out of control at capital
+
+## POINTER 482
+050 Is there any way to stop?
+
+## POINTER 483
+060 Someone has to do it
+
+## POINTER 485
+010 Everyone followed
+
+## POINTER 487
+010 Monsters within
+
+## POINTER 488
+020 <STR>(KAR) opens the grate
+
+## POINTER 489
+030 What a way to visit a castle
+
+## POINTER 490
+040 Leblanc and people of the lower quarter!?
+
+## POINTER 491
+045 Alexei is...?
+
+## POINTER 492
+050 Chroma's story
+
+## POINTER 493
+060 VS. <STR>(EST)
+
+## POINTER 495
+010 Conversation with <STR>(FRE)
+
+## POINTER 496
+020 <STR>(RIT)'s reserch
+
+## POINTER 497
+030 What to do from now
+
+## POINTER 498
+040 Duce of our guild
+
+## POINTER 499
+050 <STR>(JUD)'s change
+
+## POINTER 500
+055 Would you like to rest now?
+
+## POINTER 501
+060 No one knows
+
+## POINTER 502
+070 I will fight too
+
+## POINTER 504
+010 The force of Zaude
+
+## POINTER 505
+020 Imperial fleet
+
+## POINTER 506
+030 Infiltrate from vent
+
+## POINTER 507
+040 The royal guards
+
+## POINTER 508
+050 An end to Yeger
+
+## POINTER 509
+060 Meet up with <STR>(FRE)
+
+## POINTER 510
+070 <STR>(FRE) injured for protecting <STR>(YUR)
+
+## POINTER 511
+080 Battle against Alexei
+
+## POINTER 513
+This is Event Jump for 
+CHAPTER 3
+
+## POINTER 514
+CHAPTER  3 Event Jump
+
+## POINTER 515
+EP520 Zaphias
+
+## POINTER 516
+EP530 Sealed Academic City Aspio
+
+## POINTER 517
+EP540 Dahngrest
+
+## POINTER 518
+EP550 Zopheir Rift
+
+## POINTER 519
+EP560 The Colosseum City Nordopolica
+
+## POINTER 520
+EP570 Phaeroh's Crag
+
+## POINTER 521
+EP580 The Erealumen Crystallands
+
+## POINTER 522
+EP590 Relewiese Hollow
+
+## POINTER 523
+EP600 Capua Nor
+
+## POINTER 524
+EP610 The Land of Hope Aurnion
+
+## POINTER 525
+EP620 Dahngrest
+
+## POINTER 526
+EP630 The Colosseum City Nordopolica
+
+## POINTER 527
+EP640 The Land of Hope Aurnion 2
+
+## POINTER 528
+EP650 The Ancient Tower Tarqaron
+
+## POINTER 530
+Cancel? Ohhh...
+
+## POINTER 532
+010 <STR>(YUR) notices. Saved by Duke
+
+## POINTER 533
+020 <STR>(YUR) is alive！
+
+## POINTER 534
+030 How is everyone？
+
+## POINTER 535
+040 Leave it to Brave Vesperia
+
+## POINTER 536
+050 Good Bye Imperial Knights
+
+## POINTER 538
+010 Only a research lab
+
+## POINTER 539
+020 A method to control aer
+
+## POINTER 541
+010 Harry went out
+
+## POINTER 542
+020 Who is the new leader?
+
+## POINTER 543
+030 Cyano Ciel Crystal will be stolen
+
+## POINTER 545
+010 <STR>(RIT)'s plan
+
+## POINTER 546
+020 Zaude's true form and it's generator
+
+## POINTER 547
+030 Birth of spirit, Undine
+
+## POINTER 548
+040 Adephagos activated
+
+## POINTER 550
+010 The Adephagos is drawn to aer
+
+## POINTER 551
+020 Meeting up with Natts
+
+## POINTER 552
+030 Reason of the attack
+
+## POINTER 553
+035 What will happen when all is converted to spirit
+
+## POINTER 554
+040 The remaining place
+
+## POINTER 556
+010 Flying Phaeroh
+
+## POINTER 557
+020 Birth of Efreet
+
+## POINTER 559
+010 There is someone already
+
+## POINTER 560
+020 Nan injured and confused
+
+## POINTER 561
+030 Birth of Gnome
+
+## POINTER 563
+010 This is Relewiese
+
+## POINTER 564
+020 Explain Duke of the conversion
+
+## POINTER 565
+030 Birth of Sylph
+
+## POINTER 566
+040 Duke's reasons

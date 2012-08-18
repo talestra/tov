@@ -1,0 +1,82 @@
+## POINTER 0
+
+So, word has it that you've been 
+going around doing something or another 
+to the world's Entelexeia.
+
+## POINTER 1
+<STR>(KAR)
+Y-you make it 
+sound so bad...
+
+## POINTER 2
+<STR>(JUD)
+We've been getting Entelexeia to change into 
+a different form, called elemental spirits.<PAGE>This lets us borrow their power, which 
+will help us to break up the Adephagos.
+
+## POINTER 3
+
+Oh ho, I see...it 
+is as I thought.<PAGE>Indeed, I suspected that 
+you would be working to 
+defeat the Adephagos.
+
+## POINTER 4
+<STR>(RIT)
+Again with the impressive claims...
+
+## POINTER 5
+
+I am correct, am I not?<PAGE>Perhaps it would interest you to know that our people 
+have been considering going down to the surface.
+
+## POINTER 6
+<STR>(JUD)
+Going down to the surface...?
+
+## POINTER 7
+
+The time may soon come for Krones, 
+the Entelexeia who carries 
+Myorzo through the air,<PAGE>to turn into an elemental spirit and help 
+your cause. Do you not think that likely?
+
+## POINTER 8
+<STR>(YUR)
+I'll admit it's certainly 
+a possibility.
+
+## POINTER 9
+
+The less patient among us have already 
+gone down to the surface.
+
+## POINTER 10
+<STR>(JUD)
+...? Where did they go?
+
+## POINTER 11
+
+I do not know. Though 
+I would imagine they'd 
+be hard to miss.
+
+## POINTER 12
+<STR>(KAR)
+I wonder where they went.
+
+## POINTER 13
+<STR>(YUR)
+You can already find Krityans in 
+just about any city in the world.
+
+## POINTER 14
+<STR>(JUD)
+Krityans can live anywhere. 
+They're a very practical 
+people.
+
+## POINTER 15
+
+Mmph.

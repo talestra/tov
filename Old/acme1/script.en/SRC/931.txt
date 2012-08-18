@@ -1,0 +1,147 @@
+## POINTER 0
+<STR>(EST_P)
+So this is an aer 
+krene too...
+
+## POINTER 1
+<STR>(RAV)
+I guess there are more 
+around the world 
+than we thought?
+
+## POINTER 2
+<STR>(KAR)
+You think there are still 
+more in other places?
+
+## POINTER 3
+<STR>(JUD)
+I think there might be. There are surely 
+a lot of places on the planet that 
+humans haven't laid eyes on.
+
+## POINTER 4
+<STR>(RIT)
+How's it look, 
+<STR>(YUR)?
+
+## POINTER 5
+<STR>(YUR)
+All I have to do 
+is get close, right?
+
+## POINTER 6
+<STR>(KAR)
+Aha, there 
+we go!
+
+## POINTER 7
+<STR>(RIT)
+Let me see.
+
+## POINTER 8
+<STR>(RIT)
+The geometry's already 
+changed.
+
+## POINTER 9
+<STR>(RAV)
+And that means?
+
+## POINTER 10
+<STR>(YUR)
+Time for a test shot!
+
+## POINTER 11
+<STR>(KAR)
+Wow, it powered 
+up a lot!
+
+## POINTER 12
+<STR>(EST_P)
+It got faster, and 
+moves farther now!
+
+## POINTER 13
+<STR>(RIT)
+Judging from the size of the 
+Sorcerer's Ring, I think 
+it's reached its limit.
+
+## POINTER 14
+<STR>(YUR)
+I think this is 
+enough to do what 
+we need to do.
+
+## POINTER 15
+<STR>(RAV)
+I hafta say, I'm surprised 
+at all of the different 
+effects aer can have.
+
+## POINTER 16
+<STR>(RIT)
+Well, you see--
+
+## POINTER 17
+<STR>(YUR)
+But I feel like all of those effects 
+are simply different ways of 
+aer interacting with itself.
+
+## POINTER 18
+<STR>(RIT)
+Well, aer's high affinity creates--
+
+## POINTER 19
+<STR>(KAR)
+And then, the application of those effects 
+on certain objects allowed the technologies 
+of blastia and magic to be developed.
+
+## POINTER 20
+<STR>(RIT)
+Well, converted mana is--
+
+## POINTER 21
+<STR>(JUD)
+So aer is divided into different attributes in 
+the form of magic, and when it's used, it releases 
+energy and then turns into aer again.
+
+## POINTER 22
+<STR>(RAV)
+So that's how aer's helped 
+sustain our day-to-day 
+lives, eh...
+
+## POINTER 23
+<STR>(RIT)
+I give up...
+
+## POINTER 24
+<STR>(YUR)
+No, your explanations are just 
+too hard to understand!
+
+## POINTER 25
+<STR>(KAR)
+...But the civilization we have, 
+based on aer and blastia, is 
+about to come to an end...
+
+## POINTER 26
+<STR>(JUD)
+Well, we'll still have elemental spirits!
+
+## POINTER 27
+<STR>(RAV)
+Yeah, we've still got some time until 
+we gotta give it all up, too. 
+Until then, use it or lose it!
+
+## POINTER 28
+<STR>(KAR)
+...Yeah, you're right.<PAGE>Well, we can at least be thankful that the 
+Sorcerer's Ring is even more useful now.

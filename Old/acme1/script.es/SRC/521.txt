@@ -1,0 +1,395 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(JUD)
+<VOICE>(VS58_017)¡Gusios!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(KAR)
+<VOICE>(VS58_018)¡¿Ese es Gusios?!
+¿El de Caer Bocram?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(YUR)
+<VOICE>(VS58_019)Así que los Espadas Cazadoras
+ya lo conocían de antes.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(EST_P)
+<VOICE>(VS58_020)<STR>(JUD), espera.
+¡Algo va mal!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Tison
+<VOICE>(VS58_021)¡Uuuuaaa!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Nan
+<VOICE>(VS58_022)¡Maestro!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Clint
+<VOICE>(VS58_023)
+¡Ugh! ¿Por qué?
+¡¿Por qué no le afecta nada?!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(RIT)
+<VOICE>(VS58_024)Está devorando el aer. 
+¡Pero esto es...!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(KAR)
+<VOICE>(VS58_025)¡Nan! ¡Es demasiado peligroso!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Clint
+<VOICE>(VS58_026)Nan... ¿Qué haces aquí?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Tison
+<VOICE>(VS58_027)¡No sabes lo que haces! 
+¡Ya te he dicho que serías un estorbo!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Clint
+<VOICE>(VS58_028)¡Corre! ¡Aquí ya no
+puedes hacer nada!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Nan
+<VOICE>(VS58_029)¡No! ¡Este gremio es mi familia!
+¡No puedo dejar que muráis!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Tison
+<VOICE>(VS58_030)¡Mierda!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(KAR)
+<VOICE>(VS58_031)¡Nan!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Clint
+<VOICE>(VS58_032)Tú...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(JUD)
+<VOICE>(VS58_033)¡Gusios, cálmate!
+¡Dime qué ha ocurrido!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(YUR)
+<VOICE>(VS58_034)¡Agh!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(EST_P)
+<VOICE>(VS58_035)¡Aaaah!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(KAR)
+<VOICE>(VS58_036)¡Aaah!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(RIT)
+<VOICE>(VS58_037)¡Aah!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(RAV)
+<VOICE>(VS58_038)Arrgh.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(JUD)
+<VOICE>(VS58_039)¡Ugh!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(RAP)
+<VOICE>(VS58_040)*Gemido*
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Clint
+<VOICE>(VS58_041)¡Ugh!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Tison
+<VOICE>(VS58_042)¡Guah!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Nan
+<VOICE>(VS58_043)¡Aah!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(EST_P)
+<VOICE>(VS58_044)¡Undine!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Clint
+<VOICE>(VS58_045)¿Q-Qué es eso?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(JUD)
+<VOICE>(VS58_046)Un espíritu.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Nan
+<VOICE>(VS58_047)Un espíritu...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Undine
+<VOICE>(VS58_048)Gusios... Tú...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(YUR)
+<VOICE>(VS58_049)Undine, ¿qué le ha pasado?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(RAV)
+<VOICE>(VS58_050)¡Pa mí que no está d'humor
+pa ponerse a charlar!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Sylph
+<VOICE>(VS58_051)Existe un límite de aer que
+pueden ingerir los entelechia.<PAGE><VOICE>(VS58_052)Los que ingieren más
+de la cuenta no pueden
+resistirlo. Acaban cambiando.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Undine
+<VOICE>(VS58_053)Ni siquiera los entelechia pueden
+ingerir aer de manera ilimitada.
+<PAGE><VOICE>(VS58_054)Los que ingieren más
+de lo que pueden aguantar...
+acaban cambiando.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Undine
+<VOICE>(VS58_055)Y...
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(RIT)
+<VOICE>(VS58_056)¡No!
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Undine
+<VOICE>(VS58_057)Se convierten en un adephagos.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(YUR)
+<VOICE>(VS58_058)¡¿Qué?!
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(YUR)
+<VOICE>(VS58_059)Así que ha acabado así por
+intentar proteger el mundo.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(JUD)
+<VOICE>(VS58_060)Gusios...
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Efreet
+<VOICE>(VS58_061)Salvadlo...
+mientras siga
+siendo Gusios...
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Undine
+<VOICE>(VS58_062)Id y salvadlo.
+Mientras siga
+siendo Gusios...
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(YUR)
+<VOICE>(VS58_063)De acuerdo...
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(EST_P)
+<VOICE>(VS58_064)Vale...
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(JUD)
+<VOICE>(VS58_065)Gusios...
+Perdóname...
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(YUR)
+<VOICE>(VS58_066)¿Qué os pasa? Ya se ha ido. ¿O vais
+a decirme que pensáis odiar esto también?
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Clint
+<VOICE>(VS58_067)Eso es el alma de aquel monstruo.
+Tengo de destruirlo.
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(EST_P)
+<VOICE>(VS58_068)¡No es un monstruo! 
+¡Estaba intentando
+proteger este mundo!
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Clint
+<VOICE>(VS58_069)¡Me importa un bledo la razón
+por la que existan los entelechia!
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(YUR)
+<VOICE>(VS58_070)Ya lo sabíais... Durante todo este tiempo
+sabíais bien lo que eran los entelechia.
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(KAR)
+<VOICE>(VS58_071)¡¿Y a pesar de saberlo seguíais cazándolos?! 
+¡¿Con el mundo en el estado en el que está?!
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Clint
+<VOICE>(VS58_072)Los entelechia mataron
+a mi familia hace diez años.<PAGE><VOICE>(VS58_073)Y no soy solo yo. La mayoría de los
+Espadas Cazadoras perdieron algo
+importante por culpa de los monstruos.<PAGE><VOICE>(VS58_074)No importa lo que le pase al mundo.
+¡Lo que siento hacia esas...
+cosas, no cambiará jamás!
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(KAR)
+<VOICE>(VS58_075)Pero te equivocas.
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Clint
+<VOICE>(VS58_076)¿Cómo?
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(KAR)
+<VOICE>(VS58_077)No importa lo que hagas. No puedes
+traer a los muertos de vuelta.
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(RAV)
+<VOICE>(VS58_078)Vosotros no sois los únicos que perdisteis
+a seres queridos durante la guerra.
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(JUD)
+<VOICE>(VS58_079)Pero algunos intentan ser optimistas
+y continúan con sus vidas.
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(EST_P)
+<VOICE>(VS58_080)Proteger las ciudades de
+los monstruos es una labor
+encomiable, pero...
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(YUR)
+<VOICE>(VS58_081)No seáis unos cabezas cuadradas. Hacedlo
+cuando el mundo esté, ya sabéis, a salvo.
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Clint
+<VOICE>(VS58_082)Para mí ya es demasiado tarde para cambiar...
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988393]
+<STR>(YUR)
+<VOICE>(VS58_083)Mmpf. Si os vais a meter
+en nuestro camino... entonces
+saldaremos esto aquí y ahora.
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Nan
+<VOICE>(VS58_084)Jefe...
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Clint
+<VOICE>(VS58_085)...
+
+## POINTER 65 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(EST_P)
+<VOICE>(VS58_086)¡Esperad, por favor!
+Dejad que os cure al menos...
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Clint
+<VOICE>(VS58_087)¡En pie, alfeñiques! ¡Nos retiramos!
+
+## POINTER 67 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Nan
+<VOICE>(VS58_088)Gracias...
+
+## POINTER 68 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(KAR)
+<VOICE>(VS58_089)Me pregunto si lo habrá entendido...
+
+## POINTER 69 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(YUR)
+<VOICE>(VS58_090)Quién sabe...
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(JUD)
+<VOICE>(VS58_091)Bueno, creemos a un espíritu.
+
+## POINTER 71 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(RIT)
+<VOICE>(VS58_092)Creo que... ha funcionado.
+
+## POINTER 72 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Efreet
+<VOICE>(VS58_093)Su consciencia había desaparecido casi
+por completo. Tardará en despertarse.<PAGE><VOICE>(VS58_094)Ahora, dadle un nombre.
+
+## POINTER 73 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+Undine
+<VOICE>(VS58_095)Su consciencia había desaparecido casi
+por completo. Tardará en despertarse.<PAGE><VOICE>(VS58_094)Ahora, dadle un nombre.
+
+## POINTER 74 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(EST_P)
+<VOICE>(VS58_097)¿Cuál es su elemento?
+
+## POINTER 75 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Sylph
+<VOICE>(VS58_098)Un poder que reside en las entrañas
+del mundo... La propia tierra.
+
+## POINTER 76 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Undine
+<VOICE>(VS58_099)Un poder que reside en las entrañas
+del mundo... La propia tierra.
+
+## POINTER 77 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(EST_P)
+<VOICE>(VS58_100)La tierra... Mmm...
+El hacedor de raíces, Gnome.
+
+## POINTER 78 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(KAR)
+<VOICE>(VS58_101)Gnome, el espíritu de la tierra...
+
+## POINTER 79 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+Undine
+<VOICE>(VS58_102)Dejad que se lo digamos nosotros cuando despierte.
+
+## POINTER 80 [t:1;r:1;ru:memnoch;user:memnoch;time:1290983301]
+<STR>(RIT)
+<VOICE>(VS58_103)No puedo creer que los entelechia
+que intentan controlar el aer
+acaben convertidos en un adephagos.
+
+## POINTER 81 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988349]
+<STR>(YUR)
+<VOICE>(VS58_104)Mmpf. Lo único que puede llegar
+a entender la gente es lo que ven
+con sus propios ojos.
+
+## POINTER 82 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(RAV)
+<VOICE>(VS58_105)Ar final resulta que lo peor
+que hay en er mundo es la gente.
+
+## POINTER 83 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(EST_P)
+<VOICE>(VS58_106)Lo cual significa que tenemos
+que esforzarnos mucho más.
+
+## POINTER 84 [t:1;r:1;ru:memnoch;user:xander;time:1286729345]
+<STR>(YUR)
+<VOICE>(VS58_107)Sí, tienes razón.

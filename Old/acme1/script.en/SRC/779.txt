@@ -1,0 +1,103 @@
+## POINTER 0
+<STR>(RAP)
+Woof!
+
+## POINTER 1
+
+Bark!
+
+## POINTER 2
+<STR>(RAP)
+Woof woowoof!
+
+## POINTER 3
+
+Bark, woof!
+
+## POINTER 4
+<STR>(KAR)
+I wonder what they're talking about.
+
+## POINTER 5
+<STR>(YUR)
+Yeah, me too.
+
+## POINTER 6
+<STR>(KAR)
+You too...
+<STR>(YUR), I thought 
+you understood what <STR>(RAP) 
+means when he's barking?
+
+## POINTER 7
+<STR>(YUR)
+When did 
+I ever say 
+that?
+
+## POINTER 8
+<STR>(KAR)
+Oh... That dog ran off!
+
+## POINTER 9
+<STR>(RAV)
+But don't you interpret 
+what <STR>(RAP) says 
+sometimes?
+
+## POINTER 10
+<STR>(YUR)
+Nah, I've just been saying whatever I 
+think he might be thinking at the time.
+
+## POINTER 11
+<STR>(KAR)
+Really? I'm not so sure.
+
+## POINTER 12
+<STR>(YUR)
+Do I really look like 
+a dog whisperer to you?
+
+## POINTER 13
+<STR>(KAR)
+Ah, he came back!
+
+## POINTER 14
+<STR>(RAV)
+Hey! The puppy came 
+an' brought somethin' 
+fer the pup!
+
+## POINTER 15
+<STR>(KAR)
+What is it?
+
+## POINTER 16
+<STR>(YUR)
+Looks like the Little Wolf's fur.
+
+## POINTER 17
+<STR>(RAV)
+Ah, I see what's goin' on. The pups are 
+having a territory markin' competition.
+
+## POINTER 18
+<STR>(YUR)
+Right, and with that fur, <STR>(RAP) will 
+be able to use his sense of smell to 
+figure out where the Little Wolf is.
+
+## POINTER 19
+<STR>(KAR)
+Oh, I see! That dog went and brought back 
+some fur that had been left in town.
+
+## POINTER 20
+<STR>(RAV)
+With this, not even yer rival's 
+a match fer you! Right, pup?
+
+## POINTER 21
+<STR>(RAP)
+Woof!

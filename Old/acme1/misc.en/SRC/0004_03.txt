@@ -1,0 +1,311 @@
+## POINTER 374
+Champagne
+
+## POINTER 375
+Novice Spell: Cause a stream of water to bubble
+up from beneath an enemy.
+
+## POINTER 376
+Spread Zero
+
+## POINTER 377
+Novice Spell: Collect the darkness surrounding the
+enemies and send this force back to destroy them.
+
+## POINTER 378
+Splash
+
+## POINTER 379
+Intermediate Spell: Cause a stream of water to
+fall upon an enemy.
+
+## POINTER 380
+Stalagmite
+
+## POINTER 381
+Intermediate Spell: Call forth sharp rocks from
+beneath an enemy.
+
+## POINTER 382
+Tractor Beam
+
+## POINTER 383
+Intermediate Spell: Bring enemies in the area to
+the air and send them crashing down to the earth.
+
+## POINTER 384
+Negative Gate
+
+## POINTER 385
+Intermediate Spell: Bring forth an evil dimension
+that blocks enemy movement.
+
+## POINTER 386
+Spiral Flare
+
+## POINTER 387
+Intermediate Spell: Focus pure fire and thrust
+it at the enemy.
+
+## POINTER 388
+Tidal Wave
+
+## POINTER 389
+Advanced Spell: Draw forth a massive wave to
+wipe out enemies in a wide range.
+
+## POINTER 390
+Violent Pain
+
+## POINTER 391
+Advanced Spell: Summon the force of darkness to
+bring about a spear that will thrust at the enemy.
+
+## POINTER 392
+Blade Roll
+
+## POINTER 393
+Advanced Spell: Slice any enemies that get
+caught by the sweeping mystic blade.
+
+## POINTER 394
+Ground Dasher
+
+## POINTER 395
+Advanced Spell: Release the hidden power of
+the earth to crush the enemy.
+
+## POINTER 396
+Crimson Flare
+
+## POINTER 397
+Advanced Spell: Bring forth a large column of
+fire to burn all enemies within the area.
+
+## POINTER 398
+Meteor Storm
+
+## POINTER 399
+Advanced Spell: Summon large meteors to rain down
+from the heavens to cause great destruction to the area.
+
+## POINTER 400
+Eruption
+
+## POINTER 401
+Altered Arte: Cause a volcanic eruption from
+beneath to incinerate nearby enemies.
+
+## POINTER 402
+Ivy Rush
+
+## POINTER 403
+Altered Arte: Call forth a thorny ivy to entwine enemies.
+
+## POINTER 404
+Demon's Lance
+
+## POINTER 405
+Altered Arte: Unleash a lance of evil at full
+speed at the enemy.
+
+## POINTER 406
+Aqua Laser
+
+## POINTER 407
+Altered Arte: Cause a stream of water from
+beneath to wash away enemies.
+
+## POINTER 408
+Freeze Lancer
+
+## POINTER 409
+Altered Arte: Unleash spears of ice on the enemy.
+
+## POINTER 410
+Riot Horn
+
+## POINTER 411
+Altered Arte: Cause sharp rocks to run
+beneath enemies.
+
+## POINTER 412
+Gold Cat
+
+## POINTER 413
+Altered Arte: Drop a large golden cat on enemies. Coins
+scattered depends on the amount of Gald in possession.
+
+## POINTER 414
+Flame Dragon
+
+## POINTER 415
+Altered Arte: Summon a fire dragon to rip
+through enemies.
+
+## POINTER 416
+Bloody Howling
+
+## POINTER 417
+Altered Arte: Summon the force of darkness
+destroying those that get caught in the force field.
+
+## POINTER 418
+Thunder Blade
+
+## POINTER 419
+Altered Arte: Calls a blade of thunder down on
+the enemy and cause an explosion of lightning.
+
+## POINTER 420
+Mystic Drive
+
+## POINTER 421
+Burst Arte: Summon a powerful force from
+beneath the enemy and attack with bursts of light.
+
+## POINTER 422
+Raging Drive
+
+## POINTER 424
+Ruinous Drive
+
+## POINTER 426
+Fleeting Drive
+
+## POINTER 428
+Diffusional Drive
+
+## POINTER 430
+Ancient Catastrophe
+
+## POINTER 432
+Spell Revenge/Fire Ball
+
+## POINTER 434
+Spell Revenge/Champagne
+
+## POINTER 436
+Spell Revenge/Stone Blast
+
+## POINTER 438
+Spell Revenge/Spread Zero
+
+## POINTER 440
+Regular Attack - ○
+
+## POINTER 442
+Regular Attack - ↑○
+
+## POINTER 444
+Regular Attack - ←→○
+
+## POINTER 446
+Regular Attack - ↓○
+
+## POINTER 448
+Regular Attack - Jumping - ○
+
+## POINTER 450
+Regular Attack - Jumping - ↓○
+
+## POINTER 452
+Regular Secondary Attack - ○
+
+## POINTER 454
+Regular Secondary Attack - ↑○
+
+## POINTER 456
+Regular Secondary Attack - ←→○
+
+## POINTER 458
+Regular Secondary Attack - ↓○
+
+## POINTER 460
+Regular Secondary Attack - Jumping - ○
+
+## POINTER 462
+Regular Secondary Attack - Jumping - ↓○
+
+## POINTER 464
+Free Run Attack
+
+## POINTER 466
+Indigo Fatal Strike
+
+## POINTER 468
+Crimson Fatal Strike
+
+## POINTER 470
+Viridian Fatal Strike
+
+## POINTER 472
+Rain
+
+## POINTER 473
+Base Arte: Fire an arrow of light at enemies in front.
+Cause an explosion on enemies with Guard Break.
+
+## POINTER 474
+Bouquet
+
+## POINTER 475
+Base Arte: Shoot an arrow through the enemy's
+heart. Temporarily inflicts Charm on the enemy.
+
+## POINTER 476
+Serpent
+
+## POINTER 477
+Base Arte: Fire a magic arrow in the ground to set
+off an explosion when enemies move over the area.
+
+## POINTER 478
+Glimmer of Heaven
+
+## POINTER 479
+Base Arte: Shoot an arrow to the sky and have
+it fall back down on an enemy moments later.
+
+## POINTER 480
+Around
+
+## POINTER 481
+Base Arte: Double slash with your knife and blade.
+
+## POINTER 482
+Love Shot
+
+## POINTER 483
+Base Arte: Send an arrow to cure an ally
+low in HP. Can you feel the love?
+
+## POINTER 484
+Dark Chase
+
+## POINTER 485
+Base Arte: Send an arrow to slowly chase
+after an enemy.
+
+## POINTER 486
+Violet Snake
+
+## POINTER 487
+Base Arte: Crouch and fire an arrow at an enemy.
+Attack changes with distance when a certain skill is set.
+
+## POINTER 488
+Just Like Dancing
+
+## POINTER 489
+Arcane Arte: Twirl and slash with your knife and blade.
+
+## POINTER 490
+Cyan Instant
+
+## POINTER 491
+Arcane Arte: Shoot arrows around you to
+attack all enemies in the way.
+
+## POINTER 492
+Heaven's Tear

@@ -1,0 +1,80 @@
+## POINTER 0
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 1
+<STR>(YUR)
+Hey, why the long face?
+
+## POINTER 2
+<STR>(EST_P)
+Is the desert really 
+as dangerous as they 
+say...?
+
+## POINTER 3
+<STR>(YUR)
+I don't think <STR>(RIT)'d joke around with 
+such a serious look on her face.
+
+## POINTER 4
+<STR>(EST_P)
+Yeah, I guess not..<PAGE>I've dragged all 
+of you all the way 
+out here...
+
+## POINTER 5
+<STR>(YUR)
+You should stop worrying 
+about all of us.
+
+## POINTER 6
+<STR>(EST_P)
+Huh...?
+
+## POINTER 7
+<STR>(YUR)
+I mean, we're just 
+doing what we feel 
+like doing.<PAGE>But...what about 
+you? What do YOU 
+want to do?
+
+## POINTER 8
+<STR>(EST_P)
+Me...? 
+I...
+
+## POINTER 9
+<STR>(YUR)
+You were saying that you need to figure 
+out who you are, weren't you?
+
+## POINTER 10
+<STR>(EST_P)
+Yes...that's true, but...
+
+## POINTER 11
+<STR>(YUR)
+<STR>(EST_P), you're Brave 
+Vesperia's client.<PAGE>If you tell us to go somewhere, 
+we'll go there.<PAGE>And if you tell us to go for 
+you, we'll find Phaeroh and 
+drag him back here.
+
+## POINTER 12
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 13
+<STR>(EST_P)
+Then, I...
+
+## POINTER 14
+<STR>(YUR)
+...There's no need to rush to give 
+me an answer. Take your time.
+
+## POINTER 15
+<STR>(EST_P)
+...

@@ -1,0 +1,151 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293557050]
+<STR>(YUR)
+¿Qué pasa, <STR>(RAP)?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293557050]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293557050]
+
+¡Auuu!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+<STR>(YUR)
+¡Ese es...
+tu antiguo rival!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293557050]
+<STR>(KAR)
+¿Lo cuálo?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+<STR>(EST_P)
+Es el perro que decía <STR>(YUR),
+el que solía gobernar sobre todos
+los perros y gatos de la capital.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293559834]
+<STR>(YUR)
+Sí, es Lobito.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+<STR>(RAP)
+(Cuánto tiempo, viejo).
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+
+(No te creas que he olvidado cómo
+me echaste a patadas de la capital
+como si fuese un perro callejero).
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+<STR>(RAP)
+(Lo solucionamos todo en una batalla justa.
+No tienes derecho a guardarme rencor).
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+
+(Tuviste que
+compadecerte de mí).<PAGE>(¿Por qué no acabaste conmigo
+cuando tuviste la oportunidad?).
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+<STR>(RAP)
+(No he caído tan bajo como para levantarle
+la zarpa a un perdedor que ha sido derrotado).
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+
+(¿Yo, un perdedor?
+Chucho mugriento, aún no he perdido
+contra ti en combate singular).
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+<STR>(RAP)
+(¿Quieres una pelea perro a perro?).
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+
+(Veo que lo has captado).
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+
+(No, un enfrentamiento físico
+no sería una pelea imparcial).<PAGE>(Tiene que ser una batalla de marcas).
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+<STR>(RAP)
+(¿Qué quieres decir?).
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+
+(Consiste en ver quién puede marcar
+más lugares como nuestro territorio).<PAGE>(¡Una batalla que abarca el mundo entero!).
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+<STR>(RAP)
+(Mmmm, parece bastante interesante).<PAGE>(¿Seguro que
+podrás hacerlo?).
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+
+(Eso debería decirlo yo.
+No te duermas en los laureles
+o acabarás mordiendo el polvo).
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816690]
+<STR>(YUR)
+Mmpf, <STR>(RAP) lo alcanzará en nada.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293627140]
+<STR>(RAV)
+Sí, eso espero.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293627140]
+<STR>(KAR)
+¿Cuánto van a tardar?
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293627140]
+<STR>(YUR)
+¿Eh? Oh, <STR>(RAP), 
+has acabado.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293560765]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293560765]
+<STR>(YUR)
+¿Dónde te habías metido, <STR>(EST_P)?
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293560765]
+<STR>(EST_P)
+Toma, <STR>(KAR).
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293560765]
+<STR>(KAR)
+¿Q-Qué es esto?
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293560765]
+<STR>(EST_P)
+Puedes usar esto para tomar nota
+de los lugares en los que <STR>(RAP)
+ha marcado su territorio.
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293560765]
+<STR>(KAR)
+¿Ein? ¿Q-Quieres que lo haga yo?
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293560765]
+<STR>(YUR)
+¡Este tipo de cosas son las que
+se te dan mejor, capitán <STR>(KAR)!
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293560765]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 32 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293560765]
+<STR>(YUR)
+¡Contamos contigo!

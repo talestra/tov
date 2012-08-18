@@ -1,0 +1,53 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:parsec;time:1271974888]
+<STR>(YUR)
+Se necesita a una persona muy malvada para mentir
+tan convincentemente sobre sus crímenes.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:parsec;time:1271974888]
+<STR>(RIT)
+¡Oye! ¡Espera!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013479]
+<STR>(EST_P)
+¡El tocador de una chica
+es zona restringida!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:parsec;time:1271974888]
+<STR>(YUR)
+¿Incluso si está lleno de pruebas
+de sus fechorías?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:parsec;time:1271974888]
+<STR>(EST_P)
+Entonces miraré yo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013479]
+<STR>(RIT)
+Espera, ¿qué estás...?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:parsec;time:1271974888]
+<STR>(EST_P)
+No te preocupes.
+No se lo diré a nadie.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013479]
+<STR>(KAR)
+¿Qué crees que habrá encontrado?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:parsec;time:1271974888]
+<STR>(YUR)
+¡Secretos femeninos!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013479]
+<STR>(RIT)
+¡Oye!
+¡Esta te la haré pagar!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1274013479]
+<STR>(YUR)
+Mejor que tengas cuidado, <STR>(EST_P).
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:parsec;time:1271974976]
+<STR>(RIT)
+No, estoy hablando contigo.
+¡Contigo!

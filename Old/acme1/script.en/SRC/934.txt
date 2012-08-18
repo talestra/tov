@@ -1,0 +1,91 @@
+## POINTER 0
+
+What the... I never 
+thought you'd be able 
+to beat that!
+
+## POINTER 1
+<STR>(RIT)
+What now, 
+kid? Admit 
+defeat!
+
+## POINTER 2
+
+No way! I've 
+still got more 
+for you!
+
+## POINTER 3
+<STR>(RAV)
+Geez, this kid doesn't 
+know when ta give up!
+
+## POINTER 4
+<STR>(KAR)
+That reminds me of someone...
+
+## POINTER 5
+
+But I admit, you did well 
+to come this far.
+
+## POINTER 6
+<STR>(YUR)
+Hey, you said something 
+nice for once!
+
+## POINTER 7
+
+Here, this 
+is for you.
+
+## POINTER 8
+<STR>(EST_P)
+What's 
+this?
+
+## POINTER 9
+
+It's condensed dew from Krones's 
+bodily fluids. You can give 
+it to Ball to drink.
+
+## POINTER 10
+<STR>(YUR)
+It's Ba'ul.
+
+## POINTER 11
+<STR>(JUD)
+What'll happen when 
+he drinks it?
+
+## POINTER 12
+
+If your dragon is weak against 
+the cold, drinking that will 
+make him strong against it!<PAGE>He'll be able to land on 
+top of ice drifts, too.
+
+## POINTER 13
+<STR>(JUD)
+Wow! You don't mind giving 
+us something so useful?
+
+## POINTER 14
+
+Just don't go off running 
+away because you 
+got a nice prize!<PAGE>Cause I'm going to 
+make you an even 
+harder course!
+
+## POINTER 15
+<STR>(RIT)
+Hah! Do your 
+worst!
+
+## POINTER 16
+<STR>(RAV)
+Why's <STR>(RIT) actin' as the 
+go-between, again?

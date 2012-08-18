@@ -1,0 +1,69 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252962831]
+La cocina del viejales
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298578385]
+(RAV)
+¿No creéis que er viejo (RAV)
+ya ha cocinao bastante últimamente?
+¡Vamos! ¡Que alguien se cambie conmigo!
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313744]
+(RIT)
+Estás de broma. Ni hablar.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313744]
+(EST_P)
+Eres mejor cocinero que yo.
+Por favor, sigue así.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313744]
+(YUR)
+Todo tuyo.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313744]
+(JUD)
+¡Me gusta tu cocina!
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267444803]
+(RAV)
+¡¿Por qué naide quiere cambiarme er puesto?!
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313744]
+(KAR)
+¿Tal vez porque hay una buena razón?
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313744]
+(KAR)
+Además, tu cocina está muy rica.
+
+## POINTER 9 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267444803]
+(RAV)
+Bueno, m'alegro mucho d'eso,
+¡pero no quiero seguir haciéndolo!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108566]
+(RIT)
+Entonces, ¿no debería seguir cocinando
+solo porque no quieres? ¿Cómo puedes
+ser tan rematadamente egoísta?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108566]
+(RAV)
+¿Egoísta? ¡Mira quién habló, que la casa honró!
+
+## POINTER 12 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313744]
+(YUR)
+Pero preparar tú mismo la comida es una
+buena forma de evitar que se te olvide
+lo último que comiste, ¿no te parece?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108566]
+(RAV)
+Cierto, cierto. Últimamente mi memoria
+tá bastante poch... ¡Un segundo!
+¡Tampoco tengo TAN mala memoria!
+
+## POINTER 14 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267444808]
+(RAV)
+*Suspiro*
+¿Tan senil sus creéis qu'estoy?

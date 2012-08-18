@@ -1,0 +1,140 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS23_001)It's too bad we've 
+gotta split up.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS23_002)Please come visit the 
+castle anytime.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS23_003)He'll really come if you say that.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS23_004)What, didn't she just invite me?
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS23_005)Huh...
+Idiot...
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS23_006)With the treaty it'll become 
+easier for guild members 
+to enter the capital.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS23_007)That's right.
+
+## POINTER 7
+
+<VOICE>(VS23_008)Princess, we should be going.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS23_009)Oh, yes.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS23_010)I promise to do what I can about 
+Ragou. To see that he gets the 
+punishment he deserves.
+
+## POINTER 10
+
+<VOICE>(VS23_011)Princess, you 
+should know...
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS23_012)What?
+
+## POINTER 12
+
+<VOICE>(VS23_013)...You see...
+
+## POINTER 13
+
+<VOICE>(VS23_014)Lord Ragou has not been 
+seen since last night.<PAGE><VOICE>(VS23_015)We do not yet know the details... 
+His whereabouts are being investigated 
+as we speak...
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS23_016)What could this mean...?
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS23_017)Maybe he got scared and ran away.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS23_018)Well, I guess I'll be going, too. 
+I want to check out stuff 
+like those aer krene.
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS23_019)When I finish my analysis, 
+I'll...um...pay a visit 
+to the capital, too.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS23_020)I'm looking forward to it.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS23_021)O-okay then, see ya!
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS23_022)...And <STR>(KAR), where will 
+you go from here?
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS23_023)I want to start up 
+a guild with <STR>(YUR)...
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS23_024)That sounds like a good idea.
+
+## POINTER 23
+
+<VOICE>(VS23_025)Your Highness...
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS23_026)Sorry, I'm 
+ready now.
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS23_027)Shouldn't I...go 
+get <STR>(YUR)?
+
+## POINTER 26
+<STR>(EST_P)
+<VOICE>(VS23_028)No... I wouldn't 
+want to wake him.
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VS23_029)All right...
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS23_030)Well, this is it...
+
+## POINTER 29
+<STR>(KAR)
+<VOICE>(VS23_031)Yeah, I hope we see 
+each other again.

@@ -1,0 +1,244 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS29_012)<STR>(KAR), this is for you.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS29_013)Huh? What's going 
+on, <STR>(EST_P)...? 
+What's this?
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS29_014)This is payment for your 
+services. I'm sure you'll be 
+able to sell it for quite a sum.<PAGE><VOICE>(VS29_015)I want to thank you all for 
+everything you've done.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS29_016)Huh? What do you mean? You 
+haven't found what you're 
+looking for yet...
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS29_017)...I'm afraid I must take my 
+leave from you here.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS29_018)"Take your leave"...? 
+What are you gonna do?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS29_019)You're not thinking of 
+going alone, are you...?
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS29_020)My desire to meet Phaeroh 
+is a personal one.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS29_021)Are you crazy? That's 
+way too dangerous!
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS29_022)Which is why I must go alone.<PAGE><VOICE>(VS29_023)I won't have the rest of 
+you caught up any further 
+in my own selfish quest.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS29_024)Do justice, and 
+punish the unjust.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS29_025)Huh...? Oh, right. That's one 
+of the laws of our guild.
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS29_026)There's no justice in letting 
+<STR>(EST_P) march into the heart 
+of the desert all by herself.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS29_027)I don't think I have it in 
+me to break our laws. 
+How 'bout you, <STR>(KAR)?
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS29_028)Right!
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS29_029)It seems those are the rules.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS29_030)...I'm terribly flattered, really, 
+but I'm afraid I can't let you...
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS29_031)<STR>(EST_P), wait!<PAGE><VOICE>(VS29_032)Have you all lost your 
+marbles? We're talking about 
+a force of nature here!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS29_033)Which is why we're 
+all going together.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS29_034)I'll admit I'm a little 
+scared, but I can't just 
+let <STR>(EST_P) go off like that.
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS29_035)You! You talk some sense into them.
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VS29_036)If I start whining now, I'll have go 
+all the way back ta Nordopolica 
+by myself, right? That's no fun.
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS29_037)Ooh! There's no reasoning 
+with any of you.
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS29_038)Are you sure you're 
+dead set on this?
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS29_039)Yes. I've thought a lot about this.<PAGE><VOICE>(VS29_040)You all have something that's 
+important to you, a goal you 
+give everything to achieve.<PAGE><VOICE>(VS29_041)I realized that I didn't have 
+anything like that for myself...<PAGE><VOICE>(VS29_042)And I knew I had to find a 
+purpose of my own, something 
+I can dedicate myself to.<PAGE><VOICE>(VS29_043)I made the decision to begin 
+this journey, and I have to 
+finish what I've started.<PAGE><VOICE>(VS29_044)This...this is something I have to do for myself.
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS29_045)...Okay okay, you win. 
+So we'll be aiming for 
+the desert's center.
+
+## POINTER 26
+<STR>(EST_P)
+<VOICE>(VS29_046)Huh...?
+
+## POINTER 27
+<STR>(RIT)
+<VOICE>(VS29_047)Hey, I tried talking sense 
+into you idiots.
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS29_048)<STR>(RIT)...
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS29_049)There's actually no real need 
+for you to come, <STR>(RIT).<PAGE><VOICE>(VS29_050)You've got your aer 
+krene research to 
+worry about, don't you?
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS29_051)There's no telling what 
+you idiots will get into if 
+I don't keep an eye on you.<PAGE><VOICE>(VS29_052)The aer krene isn't going 
+anywhere. I'll go check 
+up on it later.
+
+## POINTER 31
+<STR>(RIT)
+<VOICE>(VS29_053)But!<PAGE><VOICE>(VS29_054)We're not leaving until 
+we've taken care of 
+all our preparations.
+
+## POINTER 32
+<STR>(EST_P)
+<VOICE>(VS29_055)I'm sorry to be such an 
+inconvenience to you all...
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS29_056)I think we had a pretty good 
+idea things would turn out 
+like this from the start.
+
+## POINTER 34
+<STR>(KAR)
+<VOICE>(VS29_057)Yeah.
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS29_058)Thank you!
+
+## POINTER 36
+<STR>(KAR)
+<VOICE>(VS29_059)Huh...? 
+Where's <STR>(JUD)?
+
+## POINTER 37
+<STR>(JUD)
+<VOICE>(VS29_060)Everything settled?
+
+## POINTER 38
+<STR>(RIT)
+<VOICE>(VS29_061)Yeah.
+
+## POINTER 39
+<STR>(JUD)
+<VOICE>(VS29_062)Well, what did you decide?
+
+## POINTER 40
+<STR>(EST_P)
+<VOICE>(VS29_063)We're going to the 
+center of the desert.
+
+## POINTER 41
+<STR>(JUD)
+<VOICE>(VS29_064)I had a feeling, so I've made 
+some arrangements. The 
+innkeeper has agreed to help us.
+
+## POINTER 42
+<STR>(RAV)
+<VOICE>(VS29_065)We'll wanna be good and 
+rested before we leave this 
+town behind, that's for sure.
+
+## POINTER 43
+<STR>(RIT)
+<VOICE>(VS29_066)You're always thinking about 
+your next nap, aren't you?
+
+## POINTER 44
+<STR>(RAV)
+<VOICE>(VS29_067)Yeah, but I sleep so 
+much better if I have 
+a little company.
+
+## POINTER 45
+<STR>(JUD)
+<VOICE>(VS29_068)I wonder what Phaeroh will do...

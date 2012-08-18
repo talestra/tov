@@ -1,0 +1,72 @@
+## POINTER 0
+<STR>(YUR)
+So this is where 
+Phaeroh is?
+
+## POINTER 1
+<STR>(JUD)
+Should be. I wasn't able to see him 
+when we came to the desert, but I think 
+this is where we can meet him.
+
+## POINTER 2
+<STR>(KAR)
+I hope nothing bad will happen... 
+What if he suddenly attacks us?
+
+## POINTER 3
+<STR>(JUD)
+I can't make any guarantees. I don't 
+think we'll have a say in the matter.
+
+## POINTER 4
+<STR>(YUR)
+<STR>(KAR), are you okay?
+
+## POINTER 5
+<STR>(KAR)
+No, I'm not okay... 
+I should go...
+
+## POINTER 6
+<STR>(RAV)
+Phaeroh sure did pick 
+a bleak place ta live 
+in, dontcha think?
+
+## POINTER 7
+<STR>(JUD)
+They say this area used to be 
+covered in lush greenery.
+
+## POINTER 8
+<STR>(EST_P)
+Why did it turn 
+into this rocky 
+desert?
+
+## POINTER 9
+<STR>(JUD)
+Hmmm, I don't know that much.
+
+## POINTER 10
+<STR>(RIT)
+<STR>(EST_P), are you really going to meet him?<PAGE>Even though you 
+could be killed?
+
+## POINTER 11
+<STR>(EST_P)
+Yes. I've already...made my 
+peace with this decision.
+
+## POINTER 12
+<STR>(YUR)
+<STR>(RIT), you've been acting a little funny ever 
+since hearing <STR>(JUD_P)'s story on the ship.<PAGE>Do you have a problem 
+with meeting Phaeroh?
+
+## POINTER 13
+<STR>(RIT)
+I just think it'll be hard on her 
+to hear what he has to say.<PAGE>But it's too late 
+to turn back now.<PAGE>We've come this far, after all.

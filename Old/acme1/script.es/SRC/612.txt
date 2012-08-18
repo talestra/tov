@@ -1,0 +1,23 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1291573501]
+<STR>(YUR)
+Oh, por cierto, <STR>(KAR).
+¿Vas a seguir pasando de
+encontrarte con tu profesora?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1291573501]
+<STR>(KAR)
+He estado pensado en ello...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1291573501]
+<STR>(JUD)
+¿Y qué has decidido?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661137]
+<STR>(KAR)
+Pues que no tiene sentido
+huir siempre de ella.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291573501]
+<STR>(EST_P)
+¡Entonces podemos ir
+todos juntos!

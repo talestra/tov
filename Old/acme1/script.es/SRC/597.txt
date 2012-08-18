@@ -1,0 +1,110 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1291046142]
+
+¿Qué pasa,
+Gran Vesperia?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575750]
+<STR>(KAR)
+Por fin te acuerdas
+de quiénes somos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575750]
+
+Por supuesto.
+Tengo por aquí una cosa
+a vuestro nombre.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1291046142]
+<STR>(YUR)
+¿Cómo?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291319954]
+
+Pero no os emocionéis,
+que es de un teniente de
+los Caballeros Imperiales.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1291046142]
+<STR>(JUD)
+Me pregunto de qué se trata.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1291046142]
+<STR>(RAV)
+¿Eh? ¿De quién es?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1291046142]
+
+Oh, tiene adjuntada una nota.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575750]
+<STR>(KAR)
+A ver... «Queridos Gran Vesperia,
+esperamos que cuando leáis esto estéis
+teniendo éxito en vuestras aventuras...».
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1291319954]
+<STR>(YUR)
+Sáltate esa parte.
+¿Qué quieren?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575750]
+<STR>(KAR)
+Uh, vale...: «Gracias por vuestra
+cooperación en las recientes
+detenciones de los anti Imperialistas».<PAGE>«En parte gracias a vuestra ayuda,
+el complot para derrocar el gobierno
+ha sido impedido».<PAGE>«Las compensaciones financieras por parte
+de los Caballeros Imperiales a los gremios
+están estrictamente prohibidas».<PAGE>«Sin embargo, mis dos subordinados
+y yo os ofrecemos humildemente
+nuestro más sincero agradecimiento».<PAGE>«Espero con ansias nuestra
+próxima cooperación. Qué tengáis
+fortuna y salud. -Leblanc».
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1291390508]
+<STR>(EST_P)
+¡...!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575750]
+<STR>(JUD)
+Vaya, qué caballeroso.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575835]
+<STR>(YUR)
+¿Próxima cooperación?
+¿En qué cree que
+vamos a cooperar?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1291390508]
+<STR>(KAR)
+Mm, sobre lo del
+trabajo de Mimula...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575835]
+<STR>(YUR)
+Supongo que esto nos sirve
+de paga por lo que hicimos.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575835]
+
+No es asunto mío, pero no es
+moco de pavo que los Caballeros
+envíen algo así a Dahngrest.<PAGE>Por aquí hay gente a la que
+no le gustaría llamar la atención
+del Imperio. Tened mucho cuidado. 
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575835]
+<STR>(YUR)
+No te preocupes,
+no es nada de eso.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1291390508]
+<STR>(KAR)
+Qué bien que por fin
+reconozcan nuestro
+duro trabajo, ¿eh, <STR>(YUR)?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1291390508]
+<STR>(YUR)
+Ya, a ver si
+seguimos así.

@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1294109617]
+
+¡Gracias a vosotros la actuación
+ha ido sobre ruedas!<PAGE>¡Si alguna vez tenéis oportunidad, venid
+a actuar en alguna de nuestras representaciones!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296863511]
+<STR>(RIT)
+Tienes que estar de guasa.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1294109617]
+<STR>(RAV)
+Vamos, ¿no crees que tó esto
+ha sío un buen cambio de aires?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294109617]
+<STR>(JUD)
+Sí, ha sido muy divertido.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1294109617]
+<STR>(EST_P)
+Yo me lo he pasado en grande.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1294109617]
+<STR>(KAR)
+Yo creo que ya he actuado bastante para una temporada...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296863511]
+
+Oh, antes de que se me olvide.
+Os podéis quedar los trajes de la función.
+Consideradlos un recuerdo de vuestra actuación.<PAGE>¡Nos esforzaremos por mejorar
+nuestras representaciones!<PAGE>¡Jamás olvidaré a Gran Vesperia,
+gremio de actores sin igual!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1294109617]
+<STR>(YUR)
+Gran Vesperia no es
+ningún gremio de actores...

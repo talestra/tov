@@ -1,0 +1,85 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Dagorat;time:1274811658]
+<STR>(EST_P)
+Vaya... Es como si la ciudad fuese menos
+bulliciosa que antes, ¿no os parece?
+
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320765]
+<STR>(YUR)
+Ya. Ahora tiene más pinta 
+de... ciudad fantasma. 
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Dagorat;time:1274811658]
+<STR>(KAR)
+No pensarás que el rumor 
+es cierto, ¿verdad?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320765]
+<STR>(YUR)
+¿Te refieres al de las personas
+que desaparecen de repente?
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Dagorat;time:1274811658]
+<STR>(JUD)
+Puede que no sea solo un rumor. 
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Dagorat;time:1274811658]
+<STR>(YUR)
+Ella tiene algo que ver con eso.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Dagorat;time:1274811658]
+<STR>(EST_P)
+¿Qué quieres decir?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Dagorat;time:1274811658]
+<STR>(JUD)
+Se le ve en la cara.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320765]
+<STR>(KAR)
+Si eso es verdad, primero debemos ir a la
+posada y decidir la estrategia a seguir.<PAGE>Al fin y al cabo, también hemos
+de echar un vistazo al blastia. 
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320765]
+<STR>(YUR)
+Ya. Y <STR>(EST_P) no es
+de las que dejan las 
+cosas estar así como así.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320765]
+<STR>(EST_P)
+No podemos ignorar los problemas
+de la gente, ¿no crees?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Dagorat;time:1274812256]
+<STR>(YUR)
+Vale, vale.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320765]
+<STR>(KAR)
+Entonces, en marcha. ¡A la posada!
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Dagorat;time:1274812256]
+<STR>(JUD)
+Se lo está tomando muy en serio. 
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Dagorat;time:1274812256]
+<STR>(EST_P)
+El haber puesto en marcha un gremio 
+con <STR>(YUR) le hace muy feliz. 
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320765]
+<STR>(YUR)
+Oye, que esto no lo hago
+solo por <STR>(KAR).
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Dagorat;time:1274812256]
+<STR>(JUD)
+Pero te preocupas por sus 
+sentimientos, ¿verdad?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320765]
+<STR>(YUR)
+Sí, bueno...<PAGE>Venga, aún tenemos que 
+llegar a la posada.

@@ -1,0 +1,116 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<STR>(YUR)
+<VOICE>(VS05_035)Y eso que yo quería
+pasar desapercibido.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1270633383]
+<STR>(EST_P)
+<VOICE>(VS05_036)¡<STR>(YUR)!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<VOICE>(VS05_037)¿Cómo puedo agradecértelo?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1270633383]
+<STR>(EST_P)
+<VOICE>(VS05_038)Oh, no ha sido nada, en serio.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<VOICE>(VS05_039)
+No sé qué habría pasado si
+no llegas a curarme. ¡Gracias!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1270633383]
+<STR>(EST_P)
+<VOICE>(VS05_040)Me alegro de que
+todos estén a salvo...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1270633383]
+<STR>(EST_P)
+<VOICE>(VS05_041)Aaah...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1271928554]
+<STR>(YUR)
+<VOICE>(VS05_042)Estás para el arrastre, ¿eh?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<STR>(EST_P)
+<VOICE>(VS05_043)Sí que es peligroso salir
+de las barreras cuando hay
+tantos monstruos merodeando.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<STR>(YUR)
+<VOICE>(VS05_044)A este sitio le vendría de perlas tener una
+contra las manadas tan grandes de por aquí.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1270633383]
+<STR>(EST_P)
+<VOICE>(VS05_045)¿No podrían instalar una?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1270633383]
+<STR>(YUR)
+<VOICE>(VS05_046)No. Las barreras
+son un bien escaso.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<STR>(EST_P)
+<VOICE>(VS05_047)Es verdad. Y con la tecnología
+actual es imposible fabricarlas.
+<PAGE><VOICE>(VS05_048)Ojalá pudiéramos recuperar los secretos
+de la civilización geraios. Fueron ellos
+los que crearon los blastias.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1270633383]
+<STR>(YUR)
+<VOICE>(VS05_049)Aunque se consiguiera, dudo mucho
+que el Imperio usase ese conocimiento
+para el bien común.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<VOICE>(VS05_050)Los dos de ahí. Me gustaría
+tener una charla con vosotros.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<VOICE>(VS05_051)¿Por qué no nos dejáis pasar? 
+¡Pienso darles la del pulpo a esos monstruos
+con mis propias manos!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<VOICE>(VS05_052)
+¿Cuántas veces tengo que repetirlo?
+¡Esos monstruos son más fuertes de lo que creéis!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<VOICE>(VS05_053)¿Te atreves a poner en duda el poder
+de los cazadores de monstruos?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<VOICE>(VS05_054)¡D-Detente!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<VOICE>(VS05_055)¡No te entrometas! ¡Los Caballeros nos habéis
+engatusado al ofrecernos este trabajo y ahora
+pensamos ponernos a currar!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<VOICE>(VS05_056)¡Oye, quieto!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431282]
+<VOICE>(VS05_057)¡Siempre pasa lo mismo con estos malditos gremios!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1270633383]
+<STR>(YUR)
+<VOICE>(VS05_058)
+Genial. Si esto sigue así no saldremos nunca.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1270633383]
+<STR>(EST_P)
+<VOICE>(VS05_059)Pero <STR>(FRE) se dirige a Halure,
+y nosotros estamos muy cerca.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1270633383]
+<STR>(YUR)
+<VOICE>(VS05_060)
+Bueno, no nos haría mucha gracia
+que nos pillaran los Caballeros.
+Será mejor encontrar otra forma de pasar.

@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:3;ru:parsec,maz,memnoch;user:xander;time:1252188904]
+¡Sin piedad!
+
+## POINTER 1 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292751]
+(JUD)
+La última batalla ha acabado en un abrir
+y cerrar de ojos. ¡Sois despiadados!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899149]
+(RIT)
+Hay que atacar antes de que el enemigo
+tenga ocasión de hacerlo. La única victoria
+segura es la preventiva.
+
+## POINTER 3 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292751]
+(KAR)
+¡No podemos mostrar piedad a nuestros enemigos!
+
+## POINTER 4 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267441585]
+(RAV)
+Si no vamos en serio, tonces es como si
+estuviésemos jugando con ellos. Eso hace
+que lo sienta por ellos, ¿pillas?
+
+## POINTER 5 [t:1;r:3;ru:parsec,maz,memnoch;user:xander;time:1266570841]
+(JUD)
+Aun así, creo que no hubiera estado mal
+algo de piedad, solo para ser justos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899149]
+(RAV)
+Tú eres probablemente la asesina más
+fría y despiadá de nosotros, (JUD), quería.
+
+## POINTER 7 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292751]
+(JUD)
+¿Oh? ¡¿En serio piensas eso?!
+
+## POINTER 8 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292751]
+(YUR)
+Parece que ni siquiera
+se da cuenta.
+
+## POINTER 9 [t:1;r:3;ru:parsec,maz,memnoch;user:xander;time:1266570846]
+(RIT)
+Para mí que solo finge no hacerlo.

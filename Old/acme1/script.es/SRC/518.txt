@@ -1,0 +1,189 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1286567709]
+<STR>(JUD)
+<VOICE>(VS57_009)Phaeroh... Phaeroh... 
+Reacciona...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(JUD)
+<VOICE>(VS57_010)Lo siento. Lo has hecho por nosotros...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(KAR)
+<VOICE>(VS57_011)¿Qué quieres decir?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(JUD)
+<VOICE>(VS57_012)Phaeroh hizo de señuelo
+para nosotros en Zaude.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+Phaeroh
+<VOICE>(VS57_013)El destino del mundo está decidido.
+Hallaremos nuestro fin sin haber realizado
+nuestro cometido. Qué mala ventura...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(YUR)
+<VOICE>(VS57_014)Sí que te rindes rápido para ser
+alguien que lleva tanto tiempo luchando.<PAGE><VOICE>(VS57_015)Lo siento, pero esto
+aún no ha acabado.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+Phaeroh
+<VOICE>(VS57_016)Zaude está perdido. El adephagos
+ha retornado. Ni los humanos ni
+nosotros poseemos el poder de antaño.<PAGE><VOICE>(VS57_017)¿Qué más podemos hacer?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(EST_P)
+<VOICE>(VS57_018)¡Aún queda esperanza! 
+¡Tenemos un nuevo poder!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(RIT)
+<VOICE>(VS57_019)Queremos pedirte que te conviertas
+en un espíritu. Un ser todavía más
+capaz de controlar el aer.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(YUR)
+<VOICE>(VS57_020)Pero para hacerlo...
+nos hará falta tu apátheia.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979685]
+Phaeroh
+<VOICE>(VS57_021)Estáis pidiendo que os entregue mi vida.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979685]
+Phaeroh
+<VOICE>(VS57_022)...<PAGE><VOICE>(VS57_023)Vuestro corazón por sí solo
+no puede salvar el mundo, pero
+habéis de tener corazón para salvarlo...
+<PAGE><VOICE>(VS57_024)No me queda mucho en este mundo... 
+Haced como deseéis.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979685]
+<STR>(RAV)
+<VOICE>(VS57_025)¿Y si no nus ayuda cuando
+se convierta en espíritu, qué?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(JUD)
+<VOICE>(VS57_026)Phaeroh ama este mundo.
+Todo irá bien.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(EST_P)
+<VOICE>(VS57_027)¿Lo hacemos?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(KAR)
+<VOICE>(VS57_028)Pero el aer krene de aquí
+está totalmente seco.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(EST_P)
+<VOICE>(VS57_029)Si sigo el flujo del aer,
+debería se capaz de extraerlo
+del interior del mundo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979685]
+<STR>(YUR)
+<VOICE>(VS57_030)¿De verdad puedes hacer eso?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979685]
+<STR>(EST_P)
+<VOICE>(VS57_031)Undine... me dice que sí.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(YUR)
+<VOICE>(VS57_032)De acuerdo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(RIT)
+<VOICE>(VS57_033)¡Ha funcionado!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(RAV)
+<VOICE>(VS57_034)¡Eh, eh, eh! ¡Quema, quema, quema!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(EST_P)
+<VOICE>(VS57_035)El espíritu del fuego.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979685]
+
+<VOICE>(VS57_036)Ooh... Siento un poder ilimitado.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+Undine
+<VOICE>(VS57_037)Ha pasado mucho tiempo, mi líder.
+Te felicito por tu conversión.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+
+<VOICE>(VS57_038)Esa amabilidad... ¿Belius?
+Entonces tú también has...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+Undine
+<VOICE>(VS57_039)Ahora soy Undine, 
+la gobernadora de las aguas.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979685]
+
+<VOICE>(VS57_040)He cambiado de forma, por lo que
+yo también preciso de un nombre nuevo.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979685]
+
+<VOICE>(VS57_041)Vosotros que me habéis reencarnado.
+Dadme un nombre.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1286526896]
+<STR>(KAR)
+<VOICE>(VS57_042)La Apabullante Bola de Fuego Ases...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1286726027]
+<STR>(EST_P)
+<VOICE>(VS57_043)Qué fuego tan poderoso y temible...
+El llameante Efreet.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979685]
+Efreet
+<VOICE>(VS57_044)Mi vínculo con el mundo es más fuerte,
+y todo parece haberse renovado.<PAGE><VOICE>(VS57_045)Incluso este yermo está
+rebosante de poder.
+¡Ja, ja, ja, ja! ¡Magnífico!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1286726027]
+<STR>(KAR)
+<VOICE>(VS57_046)¡Eh, ha salido volando!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979685]
+Undine
+<VOICE>(VS57_047)No temáis. Estamos conectados
+con vosotros. Allí donde vayáis,
+estaremos con vosotros.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1286726027]
+Undine
+<VOICE>(VS57_048)Los entelechia y los Hijos de la Luna
+Llena portan los espíritus.<PAGE><VOICE>(VS57_049)En verdad, la providencia
+de la naturaleza es poderosa.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1286726027]
+<STR>(RAV)
+<VOICE>(VS57_050)Tío, anda que no cambian ni ná después
+de haberse convertío en espíritus.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1286726027]
+<STR>(RIT)
+<VOICE>(VS57_051)¡Cambian por completo su punto
+de vista! Es como si... ¡Imaginad
+que un pez se convierte en un pájaro!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1286726027]
+<STR>(YUR)
+<VOICE>(VS57_052)Esto les viene mejor que ser unos sabios
+que están todo el día preocupados por el mundo.

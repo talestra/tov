@@ -1,0 +1,166 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS35_014)Well, I've finished making 
+adjustments to the blastia.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS35_015)That's great... We'll be able 
+to use the boat again.
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS35_016)If ya don't mind, I'd like 
+ta bring Harry back 
+to Dahngrest first.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS35_017)We need to head 
+to Dahngrest, too.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS35_018)Right. We've got to deliver 
+Belius' apatheia.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS35_019)Why don't ya let old <STR>(RAV) 
+take care of that for ya? 
+Whaddya say?
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS35_020)We couldn't ask that of you.
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS35_021)Oh, that hurts. Still can't 
+trust me after all we've 
+been through, huh?
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS35_022)It wasn't a formal request, 
+but I feel we should 
+honor Belius' dying wish...<PAGE><VOICE>(VS35_023)It would be unjust if 
+we didn't deliver it.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS35_024)Yeah. Besides, we're also 
+at fault for Belius ending 
+up like she did.<PAGE><VOICE>(VS35_025)We've gotta own up 
+to what we've done.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS35_026)The Don also might 
+know why everyone wants 
+these apatheia so badly.
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS35_027)He was tryin' ta get his hands 
+on one too, don't forget.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS35_028)If we can learn more about the 
+apatheia, we might find out why <STR>(FRE)'s 
+been using such extreme measures.
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VS35_029)Well then, I'll make 
+sure ta set things up 
+with the Don for ya.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS35_030)Really?
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS35_031)A wiser man than I once said, 
+"Even chance acquaintances 
+are decreed by destiny."<PAGE><VOICE>(VS35_032)If it's meant ta be I don't 
+mind puttin' in the effort 
+for Brave Vesperia.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS35_033)I'm going to meet with the Don too.
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS35_034)You too, <STR>(RIT)...?
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS35_035)A lot has happened.<PAGE><VOICE>(VS35_036)And I get the feeling it's 
+all connected to this 
+apatheia somehow. So...
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS35_037)It was the Don that told us ta go find 
+the apatheia in the first place. He just 
+might have somethin' up his sleeve.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS35_038)So <STR>(RIT), you're with us 
+as far as Dahngrest?
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS35_039)That only leaves <STR>(EST_P)...
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS35_040)I think she needs 
+some time alone.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS35_041)I agree.
+
+## POINTER 24
+<STR>(KAR)
+<VOICE>(VS35_042)I wonder when we'll 
+see <STR>(JUD) again...
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS35_043)Hey, once we've delivered 
+the apatheia, let's go see 
+if we can find her?
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS35_044)That's not a bad idea. Besides she 
+broke the guild laws, and you know 
+we can't just let that slide.
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VS35_045)R-right. At least not without 
+hearing her reason.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS35_046)But first up is Dahngrest.
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VS35_047)There'll be a stretch of beach 
+along the southern edge of 
+Tolbyccia where we can lay anchor.<PAGE><VOICE>(VS35_048)I'd wager that'd put us as close 
+to Dahngrest as we could hope.
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS35_049)Okay, sounds like we've 
+got our destination.

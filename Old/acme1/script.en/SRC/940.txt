@@ -1,0 +1,14 @@
+## POINTER 0
+<STR>(JUD)
+...It's definitely 
+gone...
+
+## POINTER 1
+<STR>(YUR)
+The spear?<PAGE>It looked like it was very valuable. 
+I'll bet the mercenaries 
+carried it off as loot.
+
+## POINTER 2
+<STR>(JUD)
+......

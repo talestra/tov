@@ -1,0 +1,181 @@
+## POINTER 0
+<STR>(KAR)
+Wh-what's up? I feel kind 
+of sick all of a sudden.
+
+## POINTER 1
+<STR>(RIT)
+Even someone as dense 
+as you can feel it?
+
+## POINTER 2
+<STR>(KAR)
+Who are you calling--
+Wait, does that mean 
+you can feel it, too?
+
+## POINTER 3
+<STR>(YUR)
+Ugh, what a feeling...
+
+## POINTER 4
+<STR>(KAR)
+<STR>(YUR)...<STR>(EST_P), too?
+
+## POINTER 5
+<STR>(EST_P)
+I'm f-fine.
+
+## POINTER 6
+<STR>(YUR)
+Don't overexert yourself. We can 
+rest here and have a look around.
+
+## POINTER 7
+<STR>(RIT)
+Seriously, what's going on? 
+Ever since we got here...
+
+## POINTER 8
+<STR>(KAR)
+If a monster attacked us right now, 
+I don't think I'd be up to it.
+
+## POINTER 9
+<STR>(YUR)
+Saying stuff like that is the best 
+way to attract monsters, you know.
+
+## POINTER 10
+<STR>(EST_P)
+...
+
+## POINTER 11
+<STR>(EST_P)
+<STR>(YUR)...!
+
+## POINTER 12
+<STR>(YUR)
+If you're going to keel over, couldn't you do it 
+in the middle of a crowded city street? I can't be 
+expected to be there to catch you every time.
+
+## POINTER 13
+<STR>(EST_P)
+Y-yes, thank you. I'm 
+still doing okay.
+
+## POINTER 14
+<STR>(RIT)
+...This is aer.
+
+## POINTER 15
+<STR>(KAR)
+What? I thought aer couldn't 
+be seen with the naked eye.
+
+## POINTER 16
+<STR>(RIT)
+If it's dense enough it can be.
+
+## POINTER 17
+<STR>(YUR)
+<STR>(EST_P), weren't you saying something 
+about that earlier?<PAGE>That dense aer is 
+bad for the body.
+
+## POINTER 18
+<STR>(EST_P)
+Yes... "High-density aer can occasionally 
+have very negative effects on 
+the human body."
+
+## POINTER 19
+<STR>(YUR)
+It made you pass out in 
+the Quoi Woods, too.
+
+## POINTER 20
+<STR>(RIT)
+...Really? Wow.
+
+## POINTER 21
+<STR>(YUR)
+Maybe we should get out of here.
+
+## POINTER 22
+<STR>(EST_P)
+But we still haven't made sure if 
+the mercenaries are here or not.
+
+## POINTER 23
+<STR>(YUR)
+I guess that's true, but...
+
+## POINTER 24
+<STR>(EST_P)
+Let's keep moving.
+
+## POINTER 25
+<STR>(RIT)
+It looks like this blastia 
+is linked to the door.
+
+## POINTER 26
+<STR>(KAR)
+How do we open it?
+
+## POINTER 27
+<STR>(RIT)
+It seems that we have to carefully 
+put together the symbols to form 
+the right phrase.
+
+## POINTER 28
+<STR>(YUR)
+Wouldn't it be faster 
+to break it?
+
+## POINTER 29
+<STR>(RIT)
+That's not a good idea. What if 
+it makes the door stop working?
+
+## POINTER 30
+<STR>(YUR)
+Hey...something's coming out of it.
+
+## POINTER 31
+<STR>(RIT)
+...So should we just put 
+some letters in here?
+
+## POINTER 32
+<STR>(KAR)
+Hey, didn't we pick up some 
+odd pieces of paper?
+
+## POINTER 33
+<STR>(EST_P)
+Actually, come to think of it...<PAGE>Could this be a clue to
+the passcode?
+
+## POINTER 34
+<STR>(YUR)
+Seems we need to use our 
+mind to get an answer.
+Let look at the paper again.
+
+## POINTER 35
+<STR>(RIT)
+...So should we just put 
+some letters in here?
+
+## POINTER 36
+<STR>(KAR)
+What letters?
+
+## POINTER 37
+<STR>(YUR)
+We need some sort of clue, or 
+else this door won't open.

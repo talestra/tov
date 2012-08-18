@@ -1,0 +1,275 @@
+## POINTER 0
+Gauche
+<VOICE>(VA042_001)Brave Vesperia! 
+Yeager's killers...!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA042_002)What are you doing here?
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VA042_003)Hey, hold on. It's not worth it. Revenge 
+is really overrated, ya know.
+
+## POINTER 3
+Droite
+<VOICE>(VA042_004)But we're sick of being so depressed. 
+We gotta do something.
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VA042_005)If you're gonna hold grudges, 
+you'd better not forget Alexei.
+
+## POINTER 5
+Gauche
+<VOICE>(VA042_006)Alexei's dead. 
+You're alive.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VA042_007)...Fine, you want a 
+fight, you got one.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VA042_008)Wait, <STR>(YUR)!<PAGE><VOICE>(VA042_009)...Why didn't you two fight 
+alongside Yeager? You just 
+stood there and watched.
+
+## POINTER 8
+Gauche
+<VOICE>(VA042_010)...
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VA042_011)Because that's what he 
+ordered them to do. Right?
+
+## POINTER 10
+Droite
+<VOICE>(VA042_012)Yeah, that's right.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VA042_013)So why're you still on this revenge 
+kick? That doesn't make any sense.
+
+## POINTER 12
+Gauche
+<VOICE>(VA042_014)Shut up! How could you 
+ever understand?!
+
+## POINTER 13
+Droite
+<VOICE>(VA042_015)Yeager had no choice but 
+to do that for us.
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VA042_016)What do you mean?
+
+## POINTER 15
+Droite
+<VOICE>(VA042_017)...Alexei found out about 
+everything Yeager had 
+done behind the scenes.<PAGE><VOICE>(VA042_018)The things he did to help us...
+
+## POINTER 16
+Gauche
+<VOICE>(VA042_019)That's enough, Droite.
+
+## POINTER 17
+Droite
+<VOICE>(VA042_020)...My bad.
+
+## POINTER 18
+Gauche
+<VOICE>(VA042_021)None of that matters. You 
+killed him. And we will never 
+forgive you for that.
+
+## POINTER 19
+Droite
+<VOICE>(VA042_022)Sorry, but we're gonna 
+have to fight you now.
+
+## POINTER 20
+<STR>(JUD)
+<VOICE>(VA042_023)It looks like they won't 
+take no for an answer.
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VA042_024)B-but...
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VA042_025)Here they come!
+
+## POINTER 23
+Droite
+<VOICE>(VA042_026)Are you okay, Gauche? 
+Oh man, we totally 
+lost!
+
+## POINTER 24
+Gauche
+<VOICE>(VA042_027)...We will challenge them until we 
+win. That's the pledge we made.
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VA042_028)How can you guys still 
+be so loyal to 
+him? He's gone!
+
+## POINTER 26
+Gauche
+<VOICE>(VA042_029)We owe him our lives.
+
+## POINTER 27
+<STR>(RAV)
+<VOICE>(VA042_034)Once ya knew his secret, ya worked 
+for him to return the favor. 
+How sad... Poor things.
+
+## POINTER 28
+Gauche
+<VOICE>(VA042_035)Don't touch me!
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VA042_036)Woops.
+
+## POINTER 30
+Droite
+<VOICE>(VA042_037)Hey, that's...!
+
+## POINTER 31
+Gauche
+<VOICE>(VA042_038)What are you doing with 
+that...? N-no, that 
+doesn't matter.<PAGE><VOICE>(VA042_039)Please. Give 
+it to us!
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VA042_040)Hey, it doesn't even 
+belong to you!!
+
+## POINTER 33
+Gauche
+<VOICE>(VA042_041)Please. That belonged to Casey, 
+someone very dear to Yeager. 
+We've looked everywhere for it.
+
+## POINTER 34
+<STR>(RAV)
+<VOICE>(VA042_042)Casey...
+
+## POINTER 35
+<STR>(KAR)
+<VOICE>(VA042_043)<STR>(RAV)...
+
+## POINTER 36
+<STR>(RAV)
+<VOICE>(VA042_044)Someone very dear to Yeager, huh...
+
+## POINTER 37
+<STR>(RAV)
+<VOICE>(VA042_045)Here. ...My condolences.
+
+## POINTER 38
+Gauche
+<VOICE>(VA042_046)……
+
+## POINTER 39
+Droite
+<VOICE>(VA042_047)Thanks a lot.
+
+## POINTER 40
+Gauche
+<VOICE>(VA042_048)That weapon should serve 
+as ample compensation.
+
+## POINTER 41
+<STR>(RAV)
+<VOICE>(VA042_049)Whoa, this... Isn't 
+this Casey's Bow? 
+You all had it?
+
+## POINTER 42
+Gauche
+<VOICE>(VA042_050)Now we owe you nothing. But we 
+still have a score to settle.
+
+## POINTER 43
+Droite
+<VOICE>(VA042_051)We'll see you again after 
+we train some more, 'kay?
+
+## POINTER 44
+<STR>(RIT)
+<VOICE>(VA042_052)...What the...?
+
+## POINTER 45
+<STR>(KAR)
+<VOICE>(VA042_053)They took off. You okay with that, <STR>(RAV)? 
+Wasn't that important to you?
+
+## POINTER 46
+<STR>(RAV)
+<VOICE>(VA042_054)Huh? Oh, well, yeah. Got somethin' 
+pretty nice in return, though. 
+I'll let this slide.
+
+## POINTER 47
+<STR>(JUD)
+<VOICE>(VA042_055)Ooh, is this a tale of lost love? 
+Or maybe a little jealousy?
+
+## POINTER 48
+<STR>(RAV)
+<VOICE>(VA042_056)Hey, <STR>(JUD) darlin', it's not 
+nice to tease your elders.
+
+## POINTER 49
+<STR>(EST_P)
+<VOICE>(VA042_057)I just don't know 
+what to make of it.<PAGE><VOICE>(VA042_058)Those two adoring Yeager knowing 
+how bad he was. And Yeager himself 
+donating to an orphanage...
+
+## POINTER 50
+<STR>(JUD)
+<VOICE>(VA042_059)And all the children saved by 
+a criminal's generosity! I can't 
+tell what's right or wrong?
+
+## POINTER 51
+<STR>(YUR)
+<VOICE>(VA042_060)Guess Yeager was even more 
+complicated than we thought.
+
+## POINTER 52
+<STR>(RAV)
+<VOICE>(VA042_061)Yup, there's always more goin' on 
+with people than ya first think.
+
+## POINTER 53
+<STR>(RIT)
+<VOICE>(VA042_062)So, what about you? Sounds like 
+things were pretty complicated 
+between you and this Casey.
+
+## POINTER 54
+<STR>(RAV)
+<VOICE>(VA042_063)Yeah, I feel like a big weight's 
+been lifted off my shoulders.<PAGE><VOICE>(VA042_064)Aw, but who cares an old man's 
+sorry past. Come on, let's go!
+
+## POINTER 55
+<STR>(RIT)
+<VOICE>(VA042_065)Hey, come back here!

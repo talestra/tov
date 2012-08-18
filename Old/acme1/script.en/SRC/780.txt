@@ -1,0 +1,107 @@
+## POINTER 0
+Pauly
+Oh, it's Miss <STR>(EST_P)!
+
+## POINTER 1
+<STR>(EST_P)
+Oh, Pauly! How 
+are you doing?
+
+## POINTER 2
+Pauly
+I'm good! How's 
+your doggy?
+
+## POINTER 3
+<STR>(RAP)
+Wooo...
+
+## POINTER 4
+<STR>(KAR)
+Wow, <STR>(RAP)'s being nice to someone...
+
+## POINTER 5
+<STR>(YUR)
+<STR>(RAP) loves playing with 
+kids who like dogs.
+
+## POINTER 6
+<STR>(KAR)
+Really?! What 
+about me, then?<PAGE>Look, <STR>(RAP)! 
+I like you thiiiiis 
+much!
+
+## POINTER 7
+<STR>(RAP)
+Woof!
+
+## POINTER 8
+Teagle
+Hi!
+
+## POINTER 9
+<STR>(YUR)
+Hey. I thought you left
+this place for good.
+
+## POINTER 10
+Teagle
+My kid likes this place.
+We come back from
+time to time.
+
+## POINTER 11
+<STR>(YUR)
+I see. That's great.
+
+## POINTER 12
+Kellas
+All right Pauly, it's time 
+to say bye bye now.<PAGE>Everyone, good seeing you all again.
+
+## POINTER 13
+Pauly
+Bye bye!
+
+## POINTER 14
+<STR>(RAP)
+Woof!
+
+## POINTER 15
+<STR>(EST_P)
+It was nice to see them so happy.
+
+## POINTER 16
+<STR>(RAP)
+Woo...woof!
+
+## POINTER 17
+Kellas
+Aaaaah!!
+
+## POINTER 18
+<STR>(EST_P)
+What is it?!
+
+## POINTER 19
+<STR>(RAP)
+Woof!
+
+## POINTER 20
+<STR>(EST_P)
+<STR>(RAP)...!
+
+## POINTER 21
+Teagle
+Pauly was kidnapped 
+by a monster...!
+
+## POINTER 22
+<STR>(YUR)
+A monster inside the barrier...?
+
+## POINTER 23
+<STR>(EST_P)
+<STR>(RAP) ran after them! 
+We should go too...!

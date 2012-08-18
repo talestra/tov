@@ -1,0 +1,100 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+¡Hola! ¡Bienvenidos
+a la posada Denébola!<PAGE>No os preocupéis por la cuenta.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283650270]
+<STR>(RIT)
+¿Eh? ¿Por qué?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+Antes ha pasado un oficial de esos
+importantes por la casa del alcalde
+y así lo ha ordenado.<PAGE>El gobierno cubre los gastos de la posada,
+así que todo el mundo puede quedarse gratis.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283650270]
+<STR>(JUD)
+Será por los refugiados
+que llegan al pueblo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+Esto es lo que hay, pero aunque le
+quite toda la gracia, tengo trabajo
+a manos llenas con tantos visitantes.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1283650270]
+<STR>(YUR)
+Parece un buen negocio
+para el Imperio.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+<STR>(RIT)
+¿Eso quiere decir que no
+quedan habitaciones libres?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+¡Estáis de suerte!
+Todavía me queda una.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+Entonces me la quedo,
+muchísimas gracias.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1283650270]
+<STR>(RAV)
+¡Eh, oye! ¡¿Qu'es
+eso de colarse?!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+Por supuesto, pienso pagar por ello.
+Le daré diez veces el precio normal.<PAGE>También le daré la misma cantidad a estos
+viajeros. Así todos contentos. ¿Qué me dicen?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1283650270]
+<STR>(YUR)
+Será hijo de...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463492]
+¡Oh, lo lamento mucho!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+He comprobado mejor el registro, y
+resulta que al final no me queda ninguna
+libre. ¡Lo siento mucho! ¡Vuelva otra vez!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+¡¿Cómo?! Sabía que este
+era un pueblo de paletos,
+pero esto ya es...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463492]
+Cariño, vamos a Puerto Nor.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+¡Bien dicho! Debería estar agradecido
+de no tener que dejar la ropa en
+una casucha mugrienta como esta.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+<STR>(RAV)
+Ya verás qué risa, tía Felisa, cuando
+intenten llegar a Puerto Nor... Je, je.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+Perdonad este desafortunado incidente.
+Vuestro cuarto está arriba, al frente.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+<STR>(RIT)
+¿Qué? Pero si has dicho que no quedaban...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1283650270]
+<STR>(YUR)
+El negocio es el negocio, ¿verdad?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1285463477]
+Sí, no os preocupéis por eso.
+No soporto a esa clase de gente.<PAGE>Además, ¿no fuisteis
+vosotros quienes sanaron
+el árbol de Halure?<PAGE>Es lo mínimo que podía hacer.
+¡Disfrutad de vuestra estancia!

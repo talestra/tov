@@ -1,0 +1,64 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253818388]
+Comida abrasadora en el sol abrasador
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314073]
+(RIT)
+¿A qué lumbrera se le ha ocurrido esto de freír
+fideos en mitad de un desierto abrasador?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1261797582]
+(EST_P)
+La gente debería pensarse mejor
+este tipo de decisiones...
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314073]
+(YUR)
+¡Ya! ¡Y no es solo que esté caliente!
+¡Este sabor tan fuerte te deja
+la garganta totalmente seca!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298109085]
+(RAP)
+¡Guau, guau, guau!
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314073]
+(JUD)
+Creo que me debilito
+a medida que como...
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266597366]
+(YUR)
+¡Y yo no dejo de sudar!
+¡¡Maldita sea, estoy chorreando!!
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314073]
+(KAR)
+(YUR), te veo más mosqueado
+de lo normal...
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314073]
+(RAV)
+Se podría decí que nos debes una, jefe...
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314073]
+(YUR)
+¿Que os debo una?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298109085]
+(RAV)
+Sé qué intentas conseguir haciéndot'el enfadao.
+Fuiste tú er que dijo ayer que quería comer fideos.
+
+## POINTER 11 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314073]
+(RAV)
+¿Los hiciste tú mismo?
+¿O se lo has pedío a arguien? Dinos.
+
+## POINTER 12 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314073]
+(YUR)
+Perdonad... Supongo que comer fideos
+en mitad del desierto no es buena idea.
+
+## POINTER 13 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314073]
+(RAP)
+*Gemido*

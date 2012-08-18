@@ -1,0 +1,185 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595738]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595738]
+<STR>(YUR)
+¿Has encontrado algo, <STR>(RAP)?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595738]
+<STR>(RAP)
+¡Guau, guau!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595738]
+
+Agh...
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595738]
+<STR>(YUR)
+Esos tíos son de los Espadas Cazadoras.<PAGE>¿Qué leches ha pasado?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764740]
+
+Nos ha atacado un monstruo enorme...
+Agh... Ojalá el jefe estuviese aquí...
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595738]
+
+Nan está sola...
+Por favor...
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595738]
+<STR>(KAR)
+¡¡Nan!!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595738]
+<STR>(RAV)
+Oye, qu'haces yendo tú solo por la vida...
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595738]
+<STR>(EST_P)
+Y-Yo también voy...
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595738]
+<STR>(JUD)
+Por fin llega el momentazo
+de <STR>(KAR), ¿no os parece?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764740]
+<STR>(EST_P)
+¿Su momentazo?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764740]
+Nan
+*Jadeo, jadeo*
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595936]
+
+¡Geeeee!
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595936]
+Nan
+¡Agh!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287595936]
+
+¡Keeeeshaaah!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596265]
+<STR>(KAR)
+¡Golpe castigador!
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596265]
+<STR>(KAR)
+Nan, ¿estás bien?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+Nan
+¡<STR>(KAR)!
+¿Por qué estás...?
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596265]
+Tison
+¿Eh? ¿Qué?
+¿Qué ha pasado?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+Clint
+Explícamelo, Nan.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+Nan
+Ah... Sí, señor. Cuando os
+fuisteis a cazar, de repente
+apareció un monstruo enorme.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+Tison
+¿Y os ha derrotado a todos?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+Nan
+Sí. Pero <STR>(KAR)...
+<STR>(KAR) lo ha vencido.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+<STR>(KAR)
+Pero no lo he hecho solo...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+Tison
+<STR>(KAR), ¿de verdad tú...?
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596265]
+Clint
+...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+<STR>(KAR)
+Ah... Uuh...
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596265]
+Clint
+Nos has ayudado. Gracias.
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596265]
+<STR>(KAR)
+Uh... ¿Eh?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+Tison
+El jefe no da las gracias cada día.
+En fin, también tienes mi gratitud.
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596265]
+<STR>(KAR)
+Uh, no... Quiero decir, no tenéis que...
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596265]
+Nan
+Esto es para ti.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+<STR>(KAR)
+¿Eh?
+¿Qué es?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+Nan
+Es un ropaje que hice con las garras y los
+colmillos de un monstruo que maté hace poco.<PAGE>Tenía unos colmillos
+dorados increíbles.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765039]
+<STR>(KAR)
+¿Colmillos dorados?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765098]
+Nan
+Creía que no le quedaría bien a alguien
+que no fuese lo suficientemente fuerte,
+pero creo que a ti no te quedará mal.
+
+## POINTER 37 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596663]
+<STR>(KAR)
+¿Eh? ¿Quieres
+decir que...?
+
+## POINTER 38 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596663]
+Nan
+Bueno, me voy. La próxima
+vez que te vea...<PAGE>¡yo también
+seré más fuerte!
+
+## POINTER 39 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596663]
+<STR>(KAR)
+¡V-Vale!
+
+## POINTER 40 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596663]
+<STR>(YUR)
+Ha dejado caer algo.
+
+## POINTER 41 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287596663]
+<STR>(KAR)
+Entonces yo también
+me haré más fuerte...

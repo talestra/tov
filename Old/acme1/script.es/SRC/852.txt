@@ -1,0 +1,74 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294771800]
+
+¡Es vuestro último aviso!<PAGE>¡Si seguís, no podréis volver!
+¿Os habéis decidido?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294771800]
+¿Estás listo?
+Sí
+No
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1294771800]
+<STR>(YUR)
+Sí, me he decidido. Déjame pasar.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294771800]
+<STR>(EST_P)
+¡Claro que sí!
+Yo entro.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296759412]
+<STR>(KAR)
+¡M-Me he
+decidido!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760515]
+<STR>(RIT)
+¡Argh! ¡Ya me he cansado
+de tus intentos de asustarme!<PAGE>¡Más vale que estés
+preparado, gamberro!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1294771800]
+<STR>(JUD)
+Sí, claro. Déjame
+pasar, por favor.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760515]
+<STR>(RAV)
+Sí, sí, me he decidío.
+Ma picao la curiosidad
+por ver qué escondes ahí.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760515]
+
+Entonces, pasa.<PAGE>Vas a entrar en un laberinto infinito y
+despiadado del que no podrás salir jamás.
+¡Te espera la confusión y la desesperanza!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294772048]
+<STR>(YUR)
+¡Suena bien! ¡Vamos allá!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1294772048]
+<STR>(EST_P)
+Allá voy...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296759412]
+<STR>(KAR)
+¡¿La-laberinto?! Uff...
+Espero no perderme...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1294772048]
+<STR>(RIT)
+¡¿Quién tiene miedo de un
+pequeño laberinto?! Yo no...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760515]
+<STR>(JUD)
+Je, je.
+Suena divertido.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1294772048]
+<STR>(RAV)
+Huy, qué miedo... Debería haberme
+traío unos pañales de recambio...

@@ -1,0 +1,25 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300136]
+Bienvenidos. ¿Pasarán la noche aquí?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300136]
+<STR>(YUR)
+Uno de los nuestros ya debería haber llegado.
+¿Ha pasado por aquí un viejo insolente?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298325714]
+Oh, ¿es amigo suyo?<PAGE>
+Ya ha pagado sus habitaciones.
+Por favor, siéntanse como en casa.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300136]
+<STR>(YUR)
+¿Lo dejamos por hoy?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300136]
+<STR>(EST_P)
+Sí, mejor. Nos merecemos
+un buen descanso.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300136]
+Por favor, háganmelo saber
+cuando quieran descansar.

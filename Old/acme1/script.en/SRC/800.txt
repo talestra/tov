@@ -1,0 +1,49 @@
+## POINTER 0
+<STR>(JUD)
+Hello! How may I help--oh, 
+<STR>(YUR), it's you.
+
+## POINTER 1
+<STR>(YUR)
+Oh, <STR>(JUD_P)? I didn't recognize 
+you at first. What do they 
+have you doing here?
+
+## POINTER 2
+<STR>(JUD)
+I'm running the souvenir shop. They sell 
+all sorts of interesting stuff here. 
+Just looking around is pretty fun.<PAGE>And keep this on the down-low, 
+but I'm also on the 
+lookout for <STR>(RAV).
+
+## POINTER 3
+<STR>(JUD)
+It looks like <STR>(EST_P) and <STR>(RIT) haven't caught 
+on yet, but when I saw how he passed out last 
+time, I knew exactly what was going on.
+
+## POINTER 4
+<STR>(JUD)
+I have to say, I'm surprised at how 
+little experience <STR>(RAV) actually has.
+
+## POINTER 5
+<STR>(YUR)
+So you noticed, <STR>(JUD_P)...
+
+## POINTER 6
+
+Oh, did I?
+
+## POINTER 7
+<STR>(YUR)
+No, no, I'm no match for you, 
+<STR>(JUD_P). Poster girl for the 
+souvenir shop, indeed.<PAGE>Those clothes look 
+great on you.
+
+## POINTER 8
+<STR>(JUD)
+Oh <STR>(YUR), you're nice and all, but 
+flattery will get you nowhere.

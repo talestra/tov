@@ -1,0 +1,115 @@
+## POINTER 0
+<STR>(EST_P)
+Are you really going to destroy it?
+
+## POINTER 1
+<STR>(JUD)
+Like <STR>(YUR) said, no matter how 
+much people swear that they're 
+not going to use blastia...<PAGE>...The temptation is too great. Someone will 
+inevitably show up who wants to use it again.
+
+## POINTER 2
+<STR>(RIT)
+That's why we have to make absolutely sure that 
+it will never be able to function again.
+
+## POINTER 3
+<STR>(EST_P)
+I see... I guess there's no other 
+choice than to destroy it...
+
+## POINTER 4
+<STR>(JUD)
+Ah, that's not true, actually.
+
+## POINTER 5
+<STR>(EST_P)
+Really?
+
+## POINTER 6
+<STR>(RIT)
+If we take away the blastia's core, 
+it won't be able to be used.<PAGE>So we can take the core out, and then use spirit 
+conversion on it. Then we'll be in the clear!
+
+## POINTER 7
+<STR>(EST_P)
+But isn't that stealing...?
+
+## POINTER 8
+<STR>(RIT)
+Yes, it is. That's why we wanted 
+to do this ourselves...
+
+## POINTER 9
+<STR>(JUD)
+No, I think at this point our only choice 
+is to make <STR>(EST_P) an accomplice.
+
+## POINTER 10
+<STR>(EST_P)
+Whawhawhaaa?!
+
+## POINTER 11
+<STR>(JUD)
+To make it so they
+don't know we've
+taken the core,<PAGE>We should really tear up the warehouse and everything around it. They 
+won't notice the core's missing in all the mess. What do you think?
+
+## POINTER 12
+<STR>(EST_P)
+Whawhawhaaa?!
+
+## POINTER 13
+<STR>(RIT)
+Good idea. Maybe we can put some scratches 
+on the blastia body as well...
+
+## POINTER 14
+<STR>(RIT)
+I guess this is the only way we can do it.
+
+## POINTER 15
+<STR>(JUD)
+I have to say, I was quite 
+pleased that you figured 
+out my plan so quickly.
+
+## POINTER 16
+<STR>(RIT)
+What are you saying? It was 
+a cinch to see what you 
+were thinking of doing.<PAGE>You were trying not to involve <STR>(EST_P) 
+and everyone else, right?<PAGE>Though I guess there's not much 
+point in that anymore...
+
+## POINTER 17
+<STR>(EST_P)
+I-I'm sorry...
+
+## POINTER 18
+<STR>(YUR)
+Come on... You didn't have 
+to go to all that trouble.<PAGE>You could get things done a lot 
+easier if you would just tell 
+<STR>(FRE) and His Royal Highness...
+
+## POINTER 19
+<STR>(JUD)
+Do you want to go in 
+there with us, too?
+
+## POINTER 20
+<STR>(EST_P)
+Huh? Is someone there?
+
+## POINTER 21
+<STR>(YUR)
+Oops...I think that's my cue to exit stage right.
+
+## POINTER 22
+<STR>(JUD)
+Well, now that we're all here, 
+let's go do a bang-up job!

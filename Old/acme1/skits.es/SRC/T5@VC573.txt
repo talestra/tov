@@ -1,0 +1,58 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1253218315]
+Una sorpresa tras otra
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261847525]
+(KAR)
+¡Gran Vesperia navega
+hacia el horizonte!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261847525]
+(JUD)
+Pero no estoy muy segura
+de hacia dónde nos dirigimos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140494]
+(KAR)
+¿Quieres decir que es como si estuviéramos
+rodeados de niebla por todas partes?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261847525]
+(YUR)
+A mí eso me gusta. Nunca se sabe
+qué nos espera más adelante.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140494]
+(RAP)
+¡GUAU, GUAU!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267190930]
+(JUD)
+Es más bien que no tenemos
+ningún plan a seguir.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140494]
+(KAR)
+¡Pero eso también es divertido!
+¡Puede que nos encontremos con
+un gran tesoro o incluso algo mejor!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261847525]
+(YUR)
+¡Ja, ja! ¡Sí que tienes entusiasmo
+para ser alguien que se asusta
+con tanta facilidad, capitán (KAR)!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140494]
+(KAR)
+¡M-Me gusta estar asustado! ¿Qué es
+una aventura si no tiene sus sorpresas?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267190930]
+(JUD)
+Je, eso me gusta. Muy bien,
+seguiremos adelante como
+hasta ahora. Como un gremio.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140494]
+(RAP)
+¡Guau!

@@ -1,0 +1,95 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1283617647]
+<STR>(RAV)
+¡Eh!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847600]
+
+¿Qué pasa <STR>(RAV)?<PAGE>Ese chaval de ahí...
+¿Ese no es el
+pequeño saltagremios?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1283617647]
+<STR>(KAR)
+¡Me llamo <STR>(KAR)! Y ahora soy
+un miembro del gremio Gran Vesperia.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1283617647]
+
+Oh, Gran Vesperia, ¿eh? 
+¿Y qué os traéis
+entre manos?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1283619726]
+<STR>(JUD)
+¿Este es el oficial de la Unión?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1283619726]
+
+Sí.
+¿Buscáis trabajo?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847600]
+
+Veamos... Esto es todo
+lo que tengo por ahora.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847600]
+<STR>(YUR)
+«Necesito que transportéis
+mis mercancías.
+-Yu Seron»<PAGE>¿Y esto qué narices significa?
+No hay ninguna aclaración ni nada.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1283619726]
+<STR>(KAR)
+Bueno, es la Unión. Probablemente
+serán trabajos muy normalitos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847600]
+
+No está mal si es de
+vuestros primeros trabajos.<PAGE>Se paga a 4.200 gald.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1283619726]
+<STR>(RAV)
+Un segundo. Gran Vesperia
+no es miembro de l'Unión.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1283619726]
+¿Aceptas el trabajo?
+Aceptar el trabajo
+Rechazar la oferta
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1283619726]
+<STR>(RAV)
+Así están las cosas. Hubiese sío
+peor si se hubiesen enterao después.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847600]
+<STR>(YUR)
+No pasa nada. Total, ya que
+estamos aquí lo hacemos, ¿no, <STR>(KAR)?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847600]
+
+Muy bien. Id a hablar con el
+cliente. Os contará todos
+los detalles del trabajo.<PAGE>Yu suele andar por el puente
+de la entrada de la ciudad.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1283619726]
+<STR>(KAR)
+Pues nada, vamos
+a hablar con él.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847600]
+
+Vale. Pasad a verme
+si necesitáis trabajo.
+Os buscaré uno.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1283619726]
+
+¿Qué me dices de ese
+trabajo del que
+te hablé la última vez?

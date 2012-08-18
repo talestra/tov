@@ -1,0 +1,299 @@
+## POINTER 1562 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Embestida
+
+## POINTER 1564 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130548]
+Cero absoluto
+
+## POINTER 1566 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Dentellada
+
+## POINTER 1568 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130548]
+Bofetada evasiva
+
+## POINTER 1570 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112631]
+Inmersión
+
+## POINTER 1572 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130548]
+Línea de hálito congelado
+
+## POINTER 1574 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130548]
+Barrido de hálito congelado
+
+## POINTER 1576 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130780]
+Carga de aletas vertebrales
+
+## POINTER 1578 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112631]
+Dentellada desde abajo
+
+## POINTER 1580 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130780]
+Espada glacial
+
+## POINTER 1582 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130780]
+Aguadilla
+
+## POINTER 1584 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112631]
+Carámbano
+
+## POINTER 1586 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130780]
+Momento chispeante
+
+## POINTER 1588 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Zarpazo inferior
+
+## POINTER 1590 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Zarpazo superior
+
+## POINTER 1592 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Zarpazo cruzado
+
+## POINTER 1594 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112737]
+Blandir cola
+
+## POINTER 1596 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130780]
+Aplastamiento con la cola
+
+## POINTER 1598 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130780]
+Sacudida
+
+## POINTER 1600 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265652003]
+Avalancha de rocas
+
+## POINTER 1602 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112631]
+Hálito
+
+## POINTER 1604 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112631]
+Disparo espiritual
+
+## POINTER 1606 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130903]
+Terremoto - Extiende alas
+
+## POINTER 1608 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112631]
+Pico infinito
+
+## POINTER 1610 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112631]
+Vendaval sin piedad
+
+## POINTER 1612 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130903]
+Garfio colmillo
+
+## POINTER 1614 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130903]
+Colmillo elevador
+
+## POINTER 1616 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265652003]
+Gancho corta brazos
+
+## POINTER 1618 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131345]
+Cruz corta brazos
+
+## POINTER 1620 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130903]
+Estocada de cola
+
+## POINTER 1622 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112631]
+Blandir cola
+
+## POINTER 1624 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112631]
+Batir de alas
+
+## POINTER 1626 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131345]
+Planear
+
+## POINTER 1628 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131345]
+Esparcir polvo incandescente
+
+## POINTER 1630 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131345]
+Polvo de piedra
+
+## POINTER 1632 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Dentellada
+
+## POINTER 1634 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131345]
+Estocada elevadora
+
+## POINTER 1636 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131345]
+Patada de rodeo
+
+## POINTER 1638 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131345]
+Cadera rotatoria
+
+## POINTER 1640 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Embestida
+
+## POINTER 1642 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Relámpago
+
+## POINTER 1644 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112737]
+Grito del Señor
+
+## POINTER 1646 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Dentellada
+
+## POINTER 1648 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131345]
+Estocada elevadora
+
+## POINTER 1650 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131345]
+Patada de rodeo
+
+## POINTER 1652 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Embestida
+
+## POINTER 1654 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131345]
+Inmersión planeadora
+
+## POINTER 1656 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267967950]
+Mandoble delantero amplio
+
+## POINTER 1658 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263084172]
+Tajo inferior
+
+## POINTER 1660 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263084172]
+Tajo lateral
+
+## POINTER 1662 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Estocada
+
+## POINTER 1664 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Aplastamiento
+
+## POINTER 1666 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Tajo amplio
+
+## POINTER 1668 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Tajo superior
+
+## POINTER 1670 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Escudo repelente
+
+## POINTER 1672 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263123495]
+Tajo inferior y lateral
+
+## POINTER 1674 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263123495]
+Aplastamiento y tajo lateral
+
+## POINTER 1676 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263123495]
+Tajo amplio y aplastamiento
+
+## POINTER 1678 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263123495]
+Escudo repelente y estocada
+
+## POINTER 1680 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Estocada
+
+## POINTER 1682 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Estocada combo
+
+## POINTER 1684 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Embestida
+
+## POINTER 1686 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131525]
+Estocada elevadora
+
+## POINTER 1688 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Tajo diagonal
+
+## POINTER 1690 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263084172]
+Tajo lateral
+
+## POINTER 1692 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Tajo superior
+
+## POINTER 1694 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Estocada tempestuosa
+
+## POINTER 1696 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Lanza sónica
+
+## POINTER 1698 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131525]
+Tajo diagonal y lateral
+
+## POINTER 1700 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Tajo diagonal
+
+## POINTER 1702 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Contra tajo diagonal
+
+## POINTER 1704 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Estocada
+
+## POINTER 1706 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131525]
+Estocada superior
+
+## POINTER 1708 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Pinchazo
+
+## POINTER 1710 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Garfio
+
+## POINTER 1712 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Elevador
+
+## POINTER 1714 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131525]
+Salto x2 y estocada
+
+## POINTER 1716 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131525]
+Salto x2 y estocada superior
+
+## POINTER 1718 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131525]
+Tajo cruzado
+
+## POINTER 1720 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131525]
+Salto mortal cortante
+
+## POINTER 1722 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Daga venenosa
+
+## POINTER 1724 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Daga mental
+
+## POINTER 1726 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Tajo inferior
+
+## POINTER 1728 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Cuchillada amplia
+
+## POINTER 1730 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267967795]
+Tajo superior cercano
+
+## POINTER 1732 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131630]
+Balanceo de martillo
+
+## POINTER 1734 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262998646]
+Aplastamiento
+
+## POINTER 1736 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131630]
+Cuchillada trapera
+
+## POINTER 1738 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265652003]
+Patada frontal
+
+## POINTER 1740 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131630]
+Golpe de hombro
+
+## POINTER 1742 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131630]
+Tajo inferior y golpe de hombro
+
+## POINTER 1744 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Golpear y acuchillar
+
+## POINTER 1746 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263084172]
+Tajo
+
+## POINTER 1748 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263131630]
+Dos cuchilladas traperas
+
+## POINTER 1750 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113380]
+Golpe inverso
+
+## POINTER 1752 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113424]
+Deslizamiento
+
+## POINTER 1754 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113424]
+Estocada a dos manos
+
+## POINTER 1756 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263123495]
+Lanzar katar
+
+## POINTER 1758 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113424]
+Giro lateral
+
+## POINTER 1760 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262557777]
+Helicóptero

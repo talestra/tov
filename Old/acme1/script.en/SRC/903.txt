@@ -1,0 +1,356 @@
+## POINTER 0
+Ted
+You won! Congratulations!
+
+## POINTER 1
+Leblanc
+Huff... Huff...
+
+## POINTER 2
+<STR>(YUR)
+It looks like he's speechless.
+
+## POINTER 3
+Ted
+I didn't expect you'd have 
+any speed or stamina, but 
+that was a nice job!
+
+## POINTER 4
+<STR>(YUR)
+Well, with the right direction, anyone can 
+do well... Isn't that right, Leblanc?
+
+## POINTER 5
+Leblanc
+Huff... Huff...
+
+## POINTER 6
+<STR>(YUR)
+Eh? What's 
+the matter?
+
+## POINTER 7
+<STR>(YUR)
+A weakling like myself 
+could never have won without 
+your help, <STR>(YUR)!
+
+## POINTER 8
+<STR>(YUR)
+Such powerful words of 
+thanks, Leblanc! You're 
+embarrassing me!
+
+## POINTER 9
+Leblanc
+
+Huff...!
+Huff...!
+
+## POINTER 10
+<STR>(YUR)
+Enough thanks, Leblanc. Let's 
+do this again sometime.
+
+## POINTER 11
+Ted
+<STR>(YUR), you're 
+amazing!
+
+## POINTER 12
+Information
+<STR>(YUR) received the 
+title "Old Man's 
+Strategist."
+
+## POINTER 13
+<STR>(EST_P)
+<STR>(YUR), I did 
+it! I won!
+
+## POINTER 14
+<STR>(YUR)
+Good job!
+
+## POINTER 15
+Ted
+That was some great 
+synergy out there.
+
+## POINTER 16
+<STR>(EST_P)
+I had fun running! And 
+<STR>(YUR) did a great job laying 
+out a path for me.
+
+## POINTER 17
+<STR>(YUR)
+Nah, I didn't do much at all. 
+You're just being modest.
+
+## POINTER 18
+<STR>(EST_P)
+Was that a compliment, 
+<STR>(YUR)?
+
+## POINTER 19
+<STR>(YUR)
+Of course it was! Don't 
+look at me like that!
+
+## POINTER 20
+<STR>(EST_P)
+Ahh...
+Yes, I thought 
+it might have been...
+
+## POINTER 21
+Ted
+I know how you feel, 
+young lady.<PAGE>Every now and then, 
+<STR>(YUR)'ll surprise you.
+
+## POINTER 22
+<STR>(EST_P)
+Hee hee. <STR>(YUR)'s not too good at 
+saying the right thing sometimes.
+
+## POINTER 23
+Ted
+Exactly! He could've just 
+said "congratulations," 
+but noooo, not <STR>(YUR)...<PAGE>So I'll say it. Congratulations, 
+young lady!
+
+## POINTER 24
+<STR>(EST_P)
+Thank you.
+
+## POINTER 25
+Information
+<STR>(EST_P) received 
+the title "Fleet-Footed 
+Princess."
+
+## POINTER 26
+<STR>(KAR)
+I did it, I did it! 
+I won the race!
+
+## POINTER 27
+Ted
+Wow, your small body makes for 
+fast turns... That was amazing!
+
+## POINTER 28
+<STR>(YUR)
+Yeah, that's Captain 
+<STR>(KAR)'s most useful 
+trait in racing.
+
+## POINTER 29
+Ted
+His stamina was impressive, as well! It seemed 
+like he's not the type to give up easily!
+
+## POINTER 30
+<STR>(YUR)
+Hmmm...I guess you're right. 
+He works pretty hard.
+
+## POINTER 31
+<STR>(KAR)
+Oh, come on... You're 
+making me blush!
+
+## POINTER 32
+Ted
+I think if you work even harder, 
+you'll become a truly remarkable 
+person someday.
+
+## POINTER 33
+<STR>(KAR)
+Wow, really? You really 
+think that?
+
+## POINTER 34
+Ted
+Yes, I do.
+
+## POINTER 35
+<STR>(KAR)
+I see... I see! Then maybe 
+this success was just 
+the first of many!
+
+## POINTER 36
+<STR>(YUR)
+Come on, Ted! If you inflate his 
+ego any more it's gonna pop!
+
+## POINTER 37
+Information
+<STR>(KAR) received 
+the title "Runner 
+in Training."
+
+## POINTER 38
+<STR>(RIT)
+Hee hee! You can always 
+count on <STR>(RIT) 
+for a sure win!
+
+## POINTER 39
+Ted
+Wow, you're really smart. Your 
+teamwork was perfect... It was like 
+you were sharing one brain.
+
+## POINTER 40
+<STR>(YUR)
+Well, she is a genius mage, after 
+all. She didn't have trouble with 
+what I was telling her at all.
+
+## POINTER 41
+<STR>(RIT)
+Of course I didn't! Who do you 
+take me for, an amateur?
+
+## POINTER 42
+<STR>(YUR)
+No, no, not at all!
+
+## POINTER 43
+Ted
+Your running style is fun 
+to watch... You just glide 
+past everything!
+
+## POINTER 44
+<STR>(RIT)
+Well, I was trying to 
+slip through as efficiently 
+as possible.
+
+## POINTER 45
+Ted
+So it was more like 
+you were slipping 
+than gliding!
+
+## POINTER 46
+<STR>(YUR)
+That's pretty 
+nice.
+
+## POINTER 47
+Information
+<STR>(RIT) received 
+the title "Slippery 
+Runner."
+
+## POINTER 48
+<STR>(JUD)
+Oh! It looks like I won.
+
+## POINTER 49
+<STR>(YUR)
+It's no wonder, <STR>(JUD_P). You've 
+got long legs and no small 
+amount of stamina.
+
+## POINTER 50
+Ted
+And the two of you 
+seemed to have great 
+chemistry, too.
+
+## POINTER 51
+<STR>(JUD)
+Oh really? Maybe our hearts 
+are connected...
+
+## POINTER 52
+<STR>(YUR)
+What do you mean by that...?<PAGE>You're really good at assessing the 
+situation at hand, <STR>(JUD_P). It was 
+fun telling you what to do, too.
+
+## POINTER 53
+Ted
+Come to think of it, this is the first 
+time we've had a Krityan win the race.
+
+## POINTER 54
+<STR>(YUR)
+Looks like a first-class dragon rider 
+can be just a speedy on foot.
+
+## POINTER 55
+Information
+<STR>(JUD_P) received 
+the title "Mach 
+Rider."
+
+## POINTER 56
+<STR>(RAV)
+I won! 
+Damn, I'm 
+good!
+
+## POINTER 57
+Ted
+You were great!
+
+## POINTER 58
+<STR>(YUR)
+I have to say, your 
+running style was 
+pretty inefficient.
+
+## POINTER 59
+<STR>(RAV)
+Well, that's just what happens 
+when ya get old.
+
+## POINTER 60
+<STR>(YUR)
+But you seemed to 
+excel in other categories 
+quite well.
+
+## POINTER 61
+<STR>(RAV)
+Yeah, when you get older, you 
+start to think more about how 
+you can impede your opponents.
+
+## POINTER 62
+<STR>(YUR)
+When it comes to annoying 
+one's enemies, you're the 
+tops, old man.
+
+## POINTER 63
+Ted
+But you've gotta be covered 
+in bruises after all of 
+that bumping into things!
+
+## POINTER 64
+<STR>(RAV)
+Black and blue, and proud to be so!
+
+## POINTER 65
+<STR>(YUR)
+Are you so old that you 
+can't feel pain anymore?
+
+## POINTER 66
+Information
+<STR>(RAV) received the 
+title "Black and 
+Blue Runner."

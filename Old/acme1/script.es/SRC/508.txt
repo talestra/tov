@@ -1,0 +1,104 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286224458]
+<STR>(RAV)
+<VOICE>(VS55_500)¡Ooooh, quéfrío, quéfrío, quéfrío! 
+Frío frío frío frío frío...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298573859]
+<STR>(YUR)
+<VOICE>(VS55_501)¿Y bien? ¿Qué piensas
+hacer en el aer krene?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298573859]
+<STR>(RIT)
+<VOICE>(VS55_502)Usar su energía para
+crear un conversor de aer.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1290372004]
+<STR>(EST_P)
+<VOICE>(VS55_503)¿Un... conversor?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298573859]
+<STR>(RIT)
+<VOICE>(VS55_504)Mi plan consiste en convertir el aer
+en materia, reduciendo así su
+cantidad total.<PAGE><VOICE>(VS55_505)Pero para eso, lo ideal es tener
+un conversor que use una energía
+similar tanto al aer como a la materia.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286224458]
+<STR>(YUR)
+<VOICE>(VS55_506)¿En qué se diferencia
+esa energía del aer?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298573859]
+<STR>(RIT)
+<VOICE>(VS55_507)
+El aer separado elementalmente
+pasa por ciertas fases hasta
+que se convierte en materia
+y se estabiliza.<PAGE><VOICE>(VS55_508)Voy a detener las fases que
+separan ambos estados y a
+desarrollar una fórmula conversora.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286451091]
+<STR>(KAR)
+<VOICE>(VS55_509)¿Y no será ni aer ni materia?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1290372004]
+<STR>(RIT)
+<VOICE>(VS55_510)Es un estado más parecido
+a la materia que al aer,
+pero tampoco es materia.<PAGE><VOICE>(VS55_511)Lo llamamos «maná».
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286451091]
+<STR>(EST_P)
+<VOICE>(VS55_512)Maná...
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1290372004]
+<STR>(RIT)
+<VOICE>(VS55_513)La verdad es que tiene un nombre
+muy largo y complicado. 
+Pero con «maná» ya está bien.<PAGE><VOICE>(VS55_514)Aun así, será más inestable
+que la materia en sí, por lo que
+necesitaremos algo que haga de núcleo.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286451091]
+<STR>(YUR)
+<VOICE>(VS55_515)La apátheia...
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286522658]
+<STR>(RIT)
+<VOICE>(VS55_516)Y mucho aer y el poder
+de <STR>(EST_P) para poder
+recombinar la fórmula.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286451091]
+<STR>(EST_P)
+<VOICE>(VS55_517)Usar mi poder sin el control
+de la fórmula desequilibrará
+el aer. Volverá a desbordarse...
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286522658]
+<STR>(YUR)
+<VOICE>(VS55_518)Pero no podemos sentarnos
+e ignorar a ese bicho.<PAGE><VOICE>(VS55_519)Además...
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286451091]
+<STR>(KAR)
+<VOICE>(VS55_520)¿Sí?
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286451091]
+<STR>(YUR)
+<VOICE>(VS55_521)Es un riesgo que estoy dispuesto a correr.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286522658]
+<STR>(JUD)
+<VOICE>(VS55_522)Creo que debería ser
+yo la que intentase
+detenerte, pero...<PAGE><VOICE>(VS55_523)yo también me la
+jugaría con esto.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298573859]
+<STR>(RIT)
+<VOICE>(VS55_524)La teoría es correcta.
+Todo irá bien.<PAGE><VOICE>(VS55_525)Vamos al aer krene.

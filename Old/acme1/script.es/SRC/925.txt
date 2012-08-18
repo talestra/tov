@@ -1,0 +1,65 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1295103144]
+<STR>(EST_P)
+¡Maestro!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1295104715]
+Drake
+¡Princesa! Parecéis
+estar bien.<PAGE>Os habéis vuelto una
+mujer muy fuerte.<PAGE>Estoy seguro de que habéis visto muchas cosas
+impresionantes a lo largo de vuestro viaje.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296954417]
+<STR>(EST_P)
+¡Desde luego! ¡Maestro, tengo
+que contarle tantísimas cosas!<PAGE>¡Hace poco vi el mar!
+¡Es increíble!<PAGE>Había leído sobre él en los libros, pero es
+muchísimo más grande de lo que me imaginaba.<PAGE>¡Pero eso no es todo! Cogimos un barco
+y había agua por todas partes,
+mirásemos por donde mirásemos.<PAGE>También nos adentramos en un desierto
+horrible. ¡Solo veíamos arena y más arena!
+Hacía tanto calor que parecía mentira.<PAGE>También fuimos a una ciudad que flotaba
+en el cielo, como en un sueño. Y también...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296954417]
+Drake
+Ja, ja.<PAGE>Todo fueron nuevas experiencias
+para vos, ¿verdad?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296954417]
+<STR>(EST_P)
+¡Sí! Me avergüenzo de lo poco que sabía
+del mundo que hay afuera del castillo...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296954417]
+Drake
+Aún os queda mucho por ver.
+No dejéis que vuestro viaje termine.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296954417]
+<STR>(EST_P)
+Sí, me encantaría ver y aprender
+muchísimas más cosas del mundo
+como miembro de la familia imperial.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296954417]
+Drake
+Hace un tiempo, el hermano del Emperador organizó
+el Cuerpo Expedicionario de Regin para explorar
+el mundo y mantener la paz en el Imperio.<PAGE>Veros ahora es como
+mirar a los ojos de
+Su Alteza Regin.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1295104519]
+<STR>(EST_P)
+Gracias...<PAGE>Maestro...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296954417]
+Drake
+Asegurarme de que sigáis el camino
+correcto. Ese es mi verdadero deber
+como vuestro súbdito, Princesa.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1295104519]
+<STR>(EST_P)
+Gracias.

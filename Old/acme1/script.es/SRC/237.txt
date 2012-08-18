@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176880]
+Ragou
+<VOICE>(VS22_064)Es posible que pecara de
+imprudente al pensar que
+Alexei no se inmiscuiría...<PAGE><VOICE>(VS22_065)<STR>(FRE) Scifo... Ese advenedizo
+impertinente. No pienso olvidar
+tu ofensa tan fácilmente.<PAGE><VOICE>(VS22_066)
+¡Me aseguraré de que toda la autoridad
+del Consejo caiga sobre ti!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176880]
+<VOICE>(VS22_067)¡Ahh!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551676]
+Ragou
+<VOICE>(VS22_068)Pero ¡¿qué...?!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176880]
+Ragou
+<VOICE>(VS22_069)¡Tú!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176880]
+Ragou
+<VOICE>(VS22_070)
+¿Pretendes matarme?...
+¡Soy un miembro del Consejo!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176880]
+Ragou
+<VOICE>(VS22_071)
+¡P-Puedo aplastarte
+c-con un simple ademán!<PAGE><VOICE>(VS22_072)¡No te saldrás con la tuya!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:parsec;time:1274676584]
+<STR>(YUR)
+<VOICE>(VS22_073)Puede que el Consejo
+y sus leyes te hayan indultado,
+pero yo no pienso hacer lo mismo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176880]
+Ragou
+<VOICE>(VS22_074)¡Aah, n-no te acerques!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318807]
+Ragou
+<VOICE>(VS22_075)Agh... Estaba tan...
+cerca... Dein Nomos...

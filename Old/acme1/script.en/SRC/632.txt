@@ -1,0 +1,36 @@
+## POINTER 0
+
+Is there something else you require?
+
+## POINTER 1
+<STR>(JUD)
+What have you been doing 
+in this town since all 
+of its people left?
+
+## POINTER 2
+
+As my fellow Krityans left for 
+their new home in the sky, I 
+too needed a place of refuge.
+
+## POINTER 3
+<STR>(JUD)
+You didn't go with them?
+
+## POINTER 4
+
+I got left behind in the commotion. 
+Didn't that happen to 
+you, too, young lady?
+
+## POINTER 5
+<STR>(EST_P)
+It must be so lonely, being 
+here all by yourself...
+
+## POINTER 6
+
+On the contrary, a pleasing 
+calm settled over this place 
+after everyone had moved on.

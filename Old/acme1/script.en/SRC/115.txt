@@ -1,0 +1,47 @@
+## POINTER 0
+<STR>(EST_P)
+Sir, you wouldn't happen to have 
+any Luluria Petals, would you?
+
+## POINTER 1
+
+Who'd you hear that from? 
+I mean, I do, but...
+
+## POINTER 2
+
+Ahh, so that's why you need a petal.
+
+## POINTER 3
+
+The luluria is one of the 
+three flowers that blooms 
+on Halure's tree.<PAGE>The petals are dried for half a year in 
+the shade, and they're very valuable.
+
+## POINTER 4
+
+This is my last petal, but if it'll restore the tree 
+to its old self, then I don't mind giving it to you.
+
+## POINTER 5
+<STR>(EST_P)
+Thank you!
+
+## POINTER 6
+<STR>(KAR)
+All right, now we can 
+make a panacea bottle!
+
+## POINTER 7
+<STR>(YUR)
+Let's go to the General Store.
+
+## POINTER 8
+<STR>(YUR)
+Next up on the list is the nia fruit...and 
+an eggbear claw, was it?
+
+## POINTER 9
+<STR>(KAR)
+Yep. Let's go to the Quoi Woods.

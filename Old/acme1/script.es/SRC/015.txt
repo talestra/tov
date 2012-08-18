@@ -1,0 +1,21 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1269748160]
+
+<03>(2)¡Vuelve con nosotros, <STR>(EST_P)!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1271097383]
+
+<03>(2)¡¿Vas a permitir que tu vida
+termine de esta forma, como si fueras
+una marioneta?!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:parsec;time:1269766642]
+
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1269748160]
+
+<03>(2)Quiero...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1269748160]
+
+<03>(2)¡Quiero ser yo misma!
+¡¡Quiero seguir viviendo!!

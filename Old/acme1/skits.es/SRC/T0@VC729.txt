@@ -1,0 +1,30 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251590708]
+El ex-caballero
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287675280]
+(KAR)
+Una cosa, (YUR)... Tu actitud y tu forma de
+comportarte no resultan muy... caballerescos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287675280]
+(YUR)
+¿A qué viene eso ahora?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287675280]
+(KAR)
+Míranos, nos estamos colando en la ciudad
+por una puerta trasera, como unos ladrones...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287675280]
+(YUR)
+Y eso lo dice el tío que
+ha forzado la cerradura...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287675280]
+(EST_P)
+Yo solo he venido para encontrar a (FRE)...
+¡y por vuestra culpa ahora soy una ladrona!
+
+## POINTER 6 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266667462]
+(YUR)
+¡Pero si no hemos robado nada! Anda que...

@@ -1,0 +1,128 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS50_087)What's up, <STR>(KAR)?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS50_088)Oh, <STR>(YUR). Take a look. 
+It's as good as new!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS50_089)Good to see you're as 
+useful as ever. That's 
+not yours though, is it?
+
+## POINTER 3
+Hanks
+<VOICE>(VS50_090)It's mine.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS50_091)Hanks.
+
+## POINTER 5
+Hanks
+<VOICE>(VS50_092)This boy's been fixing up all 
+the stuff that got knocked 
+around in that commotion.<PAGE><VOICE>(VS50_093)He even went back to 
+the lower quarter to 
+pick all these things up.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS50_094)Heh. Actually, <STR>(RAP)
+found most of it.
+
+## POINTER 7
+
+<VOICE>(VS50_095)These're my favorite shoes, and 
+you can't hardly see where they 
+got torn. This guy's awesome!
+
+## POINTER 8
+
+<VOICE>(VS50_096)He sewed up a dress that 
+was very important to me. 
+Thanks again for that.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS50_097)...Are you sure about 
+doing this, <STR>(KAR)? 
+Tomorrow's the final battle.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS50_098)It's okay...I was actually
+a little worried.<PAGE><VOICE>(VS50_099)I couldn't really sleep anyway, when I started 
+thinking about the battle tomorrow.<PAGE><VOICE>(VS50_100)I just thought... I might as 
+well help out if there was 
+anything I could do.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS50_101)Huh...
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS50_102)I didn't think <STR>(RAP) would 
+want to come help, though. 
+I was a little surprised.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS50_103)He probably guessed what 
+you were thinking. He doesn't 
+just go along with anything.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS50_104)Heh heh, yeah I guess.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS50_105)Hah, don't push your luck.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS50_106)Aw, come on <STR>(RAP).
+
+## POINTER 17
+Hanks
+<VOICE>(VS50_107)Ohh, this boy's got a bright 
+future ahead of him.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS50_108)You are looking at the 
+esteemed Boss of our guild.
+
+## POINTER 19
+Hanks
+<VOICE>(VS50_109)You might learn a 
+thing or two from him, 
+yourself, you know.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS50_110)I walked right into that one.
+
+## POINTER 21
+Hanks
+<VOICE>(VS50_111)Memories support the heart. 
+And our dearest possessions are 
+the vessels for those memories.<PAGE><VOICE>(VS50_112)Thank you, young man.
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS50_113)I'll just do a little more,
+and then I'll call it a night.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS50_114)Okay, just don't overdo it.
+
+## POINTER 24
+<STR>(KAR)
+<VOICE>(VS50_115)Yeah, I know.

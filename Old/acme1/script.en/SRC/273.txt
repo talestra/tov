@@ -1,0 +1,115 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS24_131)Hide...!
+
+## POINTER 1
+
+<VOICE>(VS24_132)Ah, milord. Are you sure you 
+shouldn't be going to the Sands 
+of Kogorh, now, Sir?
+
+## POINTER 2
+Cumore
+<VOICE>(VS24_133)Humph. I don't have to pay attention 
+to Alexei's orders.<PAGE><VOICE>(VS24_134)Using the money and 
+weapons I have, everything 
+will soon be within my reach.
+
+## POINTER 3
+
+<VOICE>(VS24_135)And I hope you'll remember to 
+appreciate the work Leviathan's 
+Claw has done for you.
+
+## POINTER 4
+Cumore
+<VOICE>(VS24_136)Yes, you will be taken 
+care of, Yeager.
+
+## POINTER 5
+Yeager
+<VOICE>(VS24_137)You'll take those weapons I sold you, 
+and attack the Union--BOOM!
+
+## POINTER 6
+Cumore
+<VOICE>(VS24_138)Heh. I'm afraid I have my sights set 
+on loftier things than the Union.
+
+## POINTER 7
+Yeager
+<VOICE>(VS24_139)Ignoring the Don is a big no-no. 
+He is a wonderful guy, ja? 
+Don't go forgetting that.
+
+## POINTER 8
+Cumore
+<VOICE>(VS24_140)My my. It almost sounds as 
+if you respect the man.
+
+## POINTER 9
+Yeager
+<VOICE>(VS24_141)Respect him I do, but Leviathan's 
+Claw always gets the job done.
+
+## POINTER 10
+Cumore
+<VOICE>(VS24_142)Oh ho ho... Such 
+dedication. That's just 
+what I like about you.<PAGE><VOICE>(VS24_143)Don't worry though. You are 
+looking at the future Commandant 
+of the Imperial Knights.<PAGE><VOICE>(VS24_144)That fool Alexei, telling me to 
+watch the Union while he 
+signs friendship treaties with them.
+
+## POINTER 11
+Yeager
+<VOICE>(VS24_145)Yeah! You tell 'im!
+
+## POINTER 12
+Cumore
+<VOICE>(VS24_146)If it were me, I'd crush them 
+in the blink of an eye with 
+your lovely weapons!<PAGE><VOICE>(VS24_147)The Union can't possibly 
+hope to stop me.
+
+## POINTER 13
+Yeager
+<VOICE>(VS24_148)Heh heh heh. Ja, ja...
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS24_149)Hey, that guy with the 
+weird hair looked over 
+here and laughed.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS24_150)He definitely spotted 
+us all right.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS24_151)So he thinks we're 
+funny, does he...?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS24_152)Man, it's always the same 
+thing with these idiots.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS24_153)So now we know there's 
+a bunch of people being 
+kept down there.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS24_154)Yeah.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS24_155)All right. Let's go 
+free them from 
+the idiots.

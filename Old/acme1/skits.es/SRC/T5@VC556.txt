@@ -1,0 +1,58 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1252195382]
+¡Qué escándalo!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189514]
+(EST_P)
+¿(RIT)? ¿Cuánto tiempo
+piensas llevar eso puesto?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189514]
+(RIT)
+¿Eh? No había pensado en ello, la verdad.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189514]
+(EST_P)
+¿No es algo que la gente lleva
+normalmente tras salir del baño?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189514]
+(RIT)
+Sip. Es fácil moverse con esto puesto
+y es muy fresco de llevar.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189514]
+(EST_P)
+¡No puedes llevar eso!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266840309]
+(EST_P)
+¡Una jovencita no puede ir por ahí
+llevando una ropa tan escandalosa
+y dejar que la vea todo el mundo!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189514]
+(EST_P)
+¿Y si te ataca algún hombre raro?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298139407]
+(RIT)
+Pues lo hago papilla.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298139407]
+(EST_P)
+¡Así es! Le das una buena... 
+¡No! ¡No cambies de tema!
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1265497944]
+(RIT)
+Esto lo lleva la gente normal, ¿no?
+Y si esto te parece escandaloso,
+¿qué pasa con (JUD)?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189514]
+(EST_P)
+Yo, esto...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298139407]
+(JUD)
+Tan escandaloso que deja sin habla, ¿verdad?

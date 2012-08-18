@@ -1,0 +1,101 @@
+## POINTER 0
+
+Howdy, welcome to the store! 
+What can I get for you today?
+
+## POINTER 1
+<STR>(YUR)
+Do you have panacea bottles?
+
+## POINTER 2
+
+Unfortunately we're sold out at the moment.
+
+## POINTER 3
+<STR>(EST_P)
+But how can that be...?
+
+## POINTER 4
+
+But you know, if I had the right ingredients, 
+I'd be able to fix some up for you.
+
+## POINTER 5
+<STR>(YUR)
+What would you need to make it?
+
+## POINTER 6
+
+I'd need three ingredients: 
+"eggbear claw," "nia fruit," 
+and "luluria petal."<PAGE>But why do you need a panacea 
+bottle so badly?<PAGE>A kid came by the other day asking 
+about the same exact thing.
+
+## POINTER 7
+<STR>(EST_P)
+We want to heal Halure's tree.
+
+## POINTER 8
+
+What's that? I've never heard 
+of using a panacea bottle 
+on a tree before...
+
+## POINTER 9
+<STR>(YUR)
+Hmmm, yeah...
+
+## POINTER 10
+<STR>(EST_P)
+What sort of thing is this 
+"nia fruit" you mentioned?
+
+## POINTER 11
+<STR>(YUR)
+That would be that bitter fruit you said 
+was so delicious back in the woods.
+
+## POINTER 12
+<STR>(EST_P)
+So what's an eggbear, then?
+
+## POINTER 13
+
+Sorry, I can't help you there. Monsters 
+are beyond my expertise.<PAGE>If a member of the Hunting Blades were 
+here they might be able to tell you. They 
+make their living hunting monsters.
+
+## POINTER 14
+<STR>(YUR)
+So that's why he was 
+in the forest...
+
+## POINTER 15
+<STR>(EST_P)
+What can you tell us 
+about the luluria petal?
+
+## POINTER 16
+
+You know the tree in the 
+middle of town, right? 
+It's a petal from that tree.<PAGE>Normally we use magic resin 
+but there isn't any around 
+these parts at all.
+
+## POINTER 17
+<STR>(EST_P)
+But the tree is all withered...
+
+## POINTER 18
+
+I believe the mayor has 
+some luluria petals. You 
+might try asking him.
+
+## POINTER 19
+<STR>(YUR)
+Gotcha. We'll come back when we've 
+gotten the ingredients together.

@@ -1,0 +1,115 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296756364]
+Sordeth
+¿Quiénes sois?
+¿Viajeros, quizá?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294770664]
+<STR>(KAR)
+¿No nos conocemos ya?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1294770664]
+<STR>(YUR)
+Parece que no se acuerda.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294770664]
+<STR>(RAV)
+Nu se ha olvidao...
+Creo que... hemos
+vuelto al pasao.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294770664]
+<STR>(JUD)
+Sí. Además, ahora el
+pueblo está lleno de gente.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296757566]
+Sordeth
+¿Qué estáis murmurando?<PAGE>Ah, a que queréis
+escuchar una historia
+interesante, ¿eh?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296757566]
+<STR>(RIT)
+No tengo tiempo
+para oír ninguna
+saga épica, abuelo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294770664]
+Sordeth
+No, seré muy breve, te lo aseguro.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1294770664]
+<STR>(YUR)
+Muy bien. Cuéntanos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296757566]
+Sordeth
+Pues veréis, hace un tiempo
+estuve ordenando mi biblioteca.<PAGE>Y entonces, del montón de libros....
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296757566]
+Sordeth
+... De repente,
+saltó un ratoncito...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1294770664]
+<STR>(RIT)
+No me lo creo... Lleva hablando dos horas...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296757566]
+<STR>(YUR)
+Err... ¿Podrías llegar
+al punto clave
+de la historia?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1294770772]
+Sordeth
+¿Qué quieres decir? ¡Esta parte es
+muy importante, además de interesante!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1294770664]
+<STR>(RAV)
+¡Venga, explícanos lo bueno!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1296757566]
+Sordeth
+Oh, muy bien. Bueno, pues
+al final, encontré cierto
+libro entre los montones.<PAGE>Y en él venía esto escrito:<PAGE>«En las profundidades de una montaña abrupta
+y sinuosa, en el sexto continente de Yurzorea,
+duerme un hombre que trasciende el tiempo...<PAGE>Cuando la doncella de la belleza emprenda
+su viaje, entrará en la cuarta dimensión
+y vigilará a un fiero joven.<PAGE>Cuando reciba el amor de los cielos, descenderá a
+un cuerpo humano y se rebelará contra los cielos».<PAGE>¿Eh? Es interesante, ¿verdad?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296757566]
+<STR>(YUR)
+¿Lo es?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296757566]
+<STR>(EST_P)
+Qué frases más misteriosas...
+Es muy interesante, sin duda.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296757566]
+Sordeth
+¿Queréis leer más?
+Os lo puedo dar, si queréis.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1294770772]
+<STR>(EST_P)
+¿No te importa?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296757566]
+Sordeth
+No, en absoluto.
+He memorizado todo el libro.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:kaene;time:1294770772]
+<STR>(EST_P)
+¡Muchísimas gracias!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:kaene;time:1294770772]
+<STR>(YUR)
+Hay que ver lo que te
+gustan los libros, <STR>(EST_P).

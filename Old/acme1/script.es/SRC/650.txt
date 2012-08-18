@@ -1,0 +1,56 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1279556710]
+Natz
+<VOICE>(VA050_068)Lo siento, pero ahora mismo
+la Adalid no recibe visitas.<PAGE><VOICE>(VA050_069)Vuelva luego.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1279556710]
+<STR>(YUR)
+<VOICE>(VA050_070)Vaya, siempre acabamos cruzándonos. Debe ser el destino.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284190560]
+Duke
+<VOICE>(VA050_071)No existe tal cosa.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1279556710]
+<STR>(YUR)
+<VOICE>(VA050_072)Puede que no.
+¿Qué te trae por aquí?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1284190560]
+Duke
+<VOICE>(VA050_073)He venido a portar nuevas a
+la vieja dueña de esta ciudad.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1284190560]
+<STR>(YUR)
+<VOICE>(VA050_074)¿Belius?<PAGE><VOICE>(VA050_075)¿Estás aquí por negocios
+con algún gremio?
+Como que no, ¿verdad?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1284190560]
+Duke
+<VOICE>(VA050_076)No se trata de algo tan vulgar.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284190560]
+<STR>(YUR)
+<VOICE>(VA050_077)¿Vulgar?... Muy bien,
+¿y qué clase de noble
+errante estás hecho?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1284190607]
+Duke
+<VOICE>(VA050_078)No necesito contestar a eso.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1284190607]
+<STR>(YUR)
+<VOICE>(VA050_079)
+No me digas que eres como esos héroes
+que quieren salvar el mundo o algo.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1279556710]
+Duke
+<VOICE>(VA050_080)...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1284190560]
+<STR>(YUR)
+<VOICE>(VA050_081)¿Qué mosca le ha picado?

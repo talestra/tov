@@ -1,0 +1,51 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS10_005)"Keep out. Seriously. --Mordio"
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS10_006)I guess this is the place...
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS10_007)I think people usually try knocking first...
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS10_008)Looks like no one's home. 
+What should we do?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS10_009)No point in hesitating when you're 
+heading into a den of thieves.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS10_010)No. I don't want us to 
+commit any more crimes.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS10_011)I guess that means it's my turn, then.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS10_012)What...? Your "turn"...?
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS10_013)We shouldn't do that either!
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS10_014)Nothin' to it.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS10_015)Wait for me!
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS10_016)Please wait! Why does 
+he always do that...?

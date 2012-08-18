@@ -1,0 +1,146 @@
+## POINTER 0
+<STR>(RIT)
+...Ah, so this is what they were 
+keeping in the lower levels.
+
+## POINTER 1
+<STR>(YUR)
+What is all this?
+
+## POINTER 2
+<STR>(RIT)
+That blastia network that Alexei was 
+trying to create... This is all equipment 
+that was to be used for that.
+
+## POINTER 3
+<STR>(YUR)
+This is...?
+
+## POINTER 4
+<STR>(RIT)
+Yes. It seems that he had Barbos 
+set up Ghasfarost as one of 
+the nodes in the network.
+
+## POINTER 5
+<STR>(YUR)
+So Alexei was behind what 
+Barbos was doing, after all.
+
+## POINTER 6
+<STR>(RIT)
+With Zaude at the center of the network, 
+and other nodes at Ghasfarost, the capital, 
+Capua, Halure, Heliord, and Aspio...<PAGE>This network siphoned aer from 
+blastia all over the world to Zaude, 
+giving him all that power.
+
+## POINTER 7
+<STR>(EST_P)
+Aer should be used so people can 
+live happily, but he wanted to use 
+it for his own personal gain...
+
+## POINTER 8
+<STR>(RAV)
+And that's what caused this 
+teensy little global catastrophe 
+we're dealin' with.<PAGE>I can't forgive what he did, 
+but I can't help feelin' 
+a little sorry fer him.
+
+## POINTER 9
+<STR>(JUD)
+There's no need to 
+feel sorry for him.<PAGE>It's because of Alexei's evil 
+deeds that our world is in 
+such trouble right now.
+
+## POINTER 10
+<STR>(KAR)
+There's no use arguing about
+someone who's already dead!<PAGE>What's important is that fight to 
+protect what's important to us now.
+
+## POINTER 11
+<STR>(YUR)
+I couldn't've said it 
+better myself, <STR>(KAR).
+
+## POINTER 12
+<STR>(KAR)
+Ah, it was nothing...
+
+## POINTER 13
+<STR>(RIT)
+What the... This is...
+
+## POINTER 14
+<STR>(YUR)
+What's up, <STR>(RIT)?
+
+## POINTER 15
+<STR>(YUR)
+This is what Alexei was using...
+
+## POINTER 16
+<STR>(EST_P)
+It's the fake Dein Nomos.
+
+## POINTER 17
+<STR>(YUR)
+How'd it get here...?
+
+## POINTER 18
+<STR>(KAR)
+Wasn't this destroyed 
+in the fortress 
+shrine of Zaude?
+
+## POINTER 19
+<STR>(RIT)
+Maybe they made 
+multiple copies.<PAGE>That would make sense... Each of the 
+copies is a control key for the blastia 
+in its node of the network.
+
+## POINTER 20
+<STR>(EST_P)
+Then the blastia here is also...?
+
+## POINTER 21
+<STR>(RIT)
+Yes... I thought it was strange!<PAGE>I never saw how Barbos could control this 
+tower's blastia, as immense as it is, 
+with that crude imitation he had.<PAGE>But if they had this one that 
+Alexei made, I can believe it.
+
+## POINTER 22
+<STR>(EST_P)
+Is it okay if we take that?
+
+## POINTER 23
+<STR>(RIT)
+It could cause the aer supply 
+to stop working, and make the 
+tower stop functioning, but...<PAGE>That's all right, right?
+
+## POINTER 24
+<STR>(RAV)
+Sure, sure, no problem at all. 
+Take it, would ya, lad?
+
+## POINTER 25
+<STR>(YUR)
+Take this...?
+
+## POINTER 26
+<STR>(YUR)
+So we're going to use the power that 
+released the Adephagos to go and defeat 
+it... I like the way that sounds.<PAGE>All right...
+
+## POINTER 27
+<STR>(YUR)
+Let's go!

@@ -1,0 +1,61 @@
+## POINTER 0
+<STR>(YUR)
+OK, this is my weapon.
+
+## POINTER 1
+<STR>(YUR)
+Can't find yours?
+
+## POINTER 2
+<STR>(JUD)
+Someone might 
+have just took it.
+
+## POINTER 3
+<STR>(YUR)
+Maybe. Why don't you 
+just pick one here.
+
+## POINTER 4
+<STR>(JUD)
+Un... right.
+
+## POINTER 5
+<STR>(YUR)
+...Was that something special for you?
+
+## POINTER 6
+<STR>(JUD)
+Yes it was.
+
+## POINTER 7
+<STR>(JUD)
+Well, this should do for a while.
+I'll take this.
+
+## POINTER 8
+<STR>(YUR)
+Are you fine with that?
+
+## POINTER 9
+<STR>(JUD)
+I don't think I will find 
+my weapon here,
+I'll look for it as I go on.
+
+## POINTER 10
+<STR>(YUR)
+I'll try looking
+for it too.
+
+## POINTER 11
+<STR>(JUD)
+Thank you.
+
+## POINTER 12
+Information
+<STR>(YUR) got his weapons back.
+
+## POINTER 13
+Information
+<STR>(JUD) obtained a spear.

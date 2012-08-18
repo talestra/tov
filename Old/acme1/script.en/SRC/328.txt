@@ -1,0 +1,69 @@
+## POINTER 0
+<STR>(EST_P)
+<STR>(YUR)? What's the matter?
+
+## POINTER 1
+<STR>(YUR)
+I was just thinking about what the 
+magistrate here could be planning.<PAGE>It's so strange that he'd be looking for Phaeroh.
+
+## POINTER 2
+<STR>(YUR)
+Though I guess it'd make sense if the 
+empire wanted to eliminate a monster that 
+was trying to kill the princess.
+
+## POINTER 3
+<STR>(RIT)
+But they don't know 
+that he's after <STR>(EST_P) 
+yet, do they?
+
+## POINTER 4
+<STR>(RAV)
+So why are they going after him, then?
+
+## POINTER 5
+<STR>(RIT)
+How should I know?
+
+## POINTER 6
+<STR>(JUD)
+And we still don't know why there's 
+a curfew in the town.
+
+## POINTER 7
+<STR>(KAR)
+Anyway, first, we should go 
+to the Sands of Kogorh.
+
+## POINTER 8
+<STR>(YUR)
+Right. We can look into 
+the mysteries of this town 
+once we come back.
+
+## POINTER 9
+<STR>(RAV)
+If we don't rescue those kids' 
+parents soon, they'll keel 
+over in this heat!
+
+## POINTER 10
+<STR>(EST_P)
+...That's true.
+
+## POINTER 11
+<STR>(RAV)
+So then, to get to the middle of the desert, 
+we should go through here, right?
+
+## POINTER 12
+<STR>(JUD)
+Yes. I think the parents of 
+those children were probably 
+taken this way, too.
+
+## POINTER 13
+<STR>(YUR)
+All right. Let's go.

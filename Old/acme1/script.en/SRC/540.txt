@@ -1,0 +1,58 @@
+## POINTER 0
+Natz
+I understand.
+We'll wait here
+until you return.
+
+## POINTER 1
+<STR>(EST_P)
+Yes. Thank you.
+
+## POINTER 2
+<STR>(RAV)
+That Natz sure is a 
+man of understanding.
+
+## POINTER 3
+<STR>(RIT)
+We got his approval really fast.
+
+## POINTER 4
+<STR>(JUD)
+He's seen through
+the world's changes
+before his very eyes.<PAGE>He doesn't have an ounce of 
+suspicion when it comes to others.
+
+## POINTER 5
+<STR>(KAR)
+I wonder if the Union and
+the Palestralle can get along.
+
+## POINTER 6
+<STR>(YUR)
+Of course they can.
+They are of the same guild afterall.
+
+## POINTER 7
+<STR>(EST_P)
+That's right. Now is the time
+to put their differences aside
+and join forces.<PAGE>They'll have to get along.
+
+## POINTER 8
+<STR>(KAR)
+You're right!
+
+## POINTER 9
+<STR>(RIT)
+There's still that little prince.
+
+## POINTER 10
+<STR>(EST_P)
+Let's go back to where
+<STR>(FRE) and the others are.<PAGE>Maybe they've made some progress.
+
+## POINTER 11
+<STR>(YUR)
+Yeah. Let's head back first.

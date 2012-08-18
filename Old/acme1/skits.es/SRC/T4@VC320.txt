@@ -1,0 +1,78 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252524016]
+Cocinar para vivir
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267295742]
+(EST_P)
+(YUR), a ti te gusta cocinar, ¿no?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298107162]
+(YUR)
+No sé yo si usar la palabra «gustar»... ¿Por qué?
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267295742]
+(EST_P)
+Últimamente has sido tú el único que
+ha cocinado y no te has quejado ni una vez.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298107162]
+(RAV)
+¡Chitón, (EST_P)!
+¡No queremos que pare!
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267295742]
+(YUR)
+Tranquilos. Me he dado cuenta.
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267295742]
+(KAR)
+¿Y no te importa? ¿No es mucho trabajo?
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266596632]
+(YUR)
+Antes solía cocinar para mí solo
+cuando vivía en la capital.
+No me molesta.
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266596632]
+(JUD)
+¿No te parece mal... 
+pero no llega a gustarte?
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267295742]
+(YUR)
+Bueno... es mejor que tener que
+comer lo que preparaba cierto
+individuo todos los días.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298107162]
+(YUR)
+No tenía mala intención, pero no se daba
+cuenta de lo mal que lo hacía. Esta era
+la única manera de hacer que parara.
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267295742]
+(RAV)
+Te doy mi pésame, (YUR).
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267295742]
+(RIT)
+¡¿Por qué me miráis a mí?!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298107162]
+(YUR)
+La cocina de (RIT) no es nada comparada
+con la del tío al que me refiero, creedme.
+
+## POINTER 14 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267295742]
+(JUD)
+Me gustaría conocer a alguien
+que pudiera hacer una comida así.
+
+## POINTER 15 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267295742]
+(RAV)
+Sería como mirar a un monstruo aterrador.
+Aunque pasaría de la comida, eso sí.
+
+## POINTER 16 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266596632]
+(YUR)
+Ya lo conocéis...

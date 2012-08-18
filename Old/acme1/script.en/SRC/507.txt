@@ -1,0 +1,73 @@
+## POINTER 0
+<STR>(RIT)
+What about the apatheia!
+
+## POINTER 1
+<STR>(YUR)
+If you've got enough spare time to be hanging 
+around those idiots, you'd be better off 
+using it to think of another plan.
+
+## POINTER 2
+<STR>(RIT)
+Another plan...
+It's not that easy...
+
+## POINTER 3
+Harry
+...Here.
+
+## POINTER 4
+<STR>(YUR)
+Are you...giving this to us?
+
+## POINTER 5
+Harry
+No, this is going to be stolen.
+
+## POINTER 6
+<STR>(KAR)
+What do you mean?
+
+## POINTER 7
+<STR>(YUR)
+...I owe you one.
+
+## POINTER 8
+Harry
+Get a move on before the 
+others realize it's gone.
+
+## POINTER 9
+<STR>(RAV)
+Ta what do we owe this generosity?
+
+## POINTER 10
+Harry
+I dunno. Maybe it just left a 
+bad feeling in my stomach to get 
+lectured by a kid like that.
+
+## POINTER 11
+<STR>(RAV)
+Maybe there's some hope for that boy after all.
+
+## POINTER 12
+<STR>(JUD)
+So now that we've gotten the 
+apatheia, what's next?
+
+## POINTER 13
+<STR>(RIT)
+Next up, we're going to the Zopheir Rift.<PAGE>I'm going to use the inactivated 
+aer krene that's there.
+
+## POINTER 14
+<STR>(RAV)
+The Rift? We're going someplace cold 
+again? Mind if ol' <STR>(RAV) waits here?
+
+## POINTER 15
+<STR>(YUR)
+You'd rather be cold than have the world 
+be destroyed, wouldn't you? Let's go.

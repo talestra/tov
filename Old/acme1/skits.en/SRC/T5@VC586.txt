@@ -1,0 +1,61 @@
+## POINTER 0
+Learn Well
+
+## POINTER 1
+(RAV)
+...My head hurts.
+
+## POINTER 2
+(EST_P)
+Are you okay? Should I 
+use my healing artes?
+
+## POINTER 3
+(RIT)
+Leave him, (EST_P).
+
+## POINTER 4
+(RIT)
+He's just not used to hard questions like 
+that. I think he sprained his brain.
+
+## POINTER 5
+(YUR)
+But (RIT)! I'm impressed! 
+You know everything!
+
+## POINTER 6
+(RIT)
+Well, you never know what might 
+be useful for research.
+
+## POINTER 7
+(JUD)
+Knowledge is no burden, they say.
+
+## POINTER 8
+(YUR)
+(EST_P)'s living proof of that.
+
+## POINTER 9
+(EST_P)
+Read enough books and you just learn 
+lots of things without realizing it.
+
+## POINTER 10
+(JUD)
+Maybe you absorb facts better because 
+you're already reading all the time.
+
+## POINTER 11
+(YUR)
+That tactic won't work 
+for the old man at all.
+
+## POINTER 12
+(KAR)
+Ugggh... My head hurts...
+
+## POINTER 13
+(RIT)
+Here comes the second doofus...

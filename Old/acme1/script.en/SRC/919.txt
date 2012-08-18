@@ -1,0 +1,38 @@
+## POINTER 0
+
+Ah, Miss <STR>(RIT), a message 
+for you from the boss.<PAGE>She'd like you to bring ○○○○ 
+to the Capua Torim office.
+
+## POINTER 1
+<STR>(RIT)
+So this time they need ○○○○, 
+hmmm...
+Okay, gotcha.
+
+## POINTER 2
+
+Thanks a lot!
+
+## POINTER 3
+<STR>(RIT)
+Sure.<PAGE>With that they might be able to...hmmm...
+And 
+then they could use that byproduct to...
+
+## POINTER 4
+<STR>(YUR)
+Hey, uh, <STR>(RIT)?
+
+## POINTER 5
+<STR>(RIT)
+Oh, sorry, sorry. Okay, let's 
+go look for that ○○○○!
+
+## POINTER 6
+<STR>(YUR)
+We'll go look as soon as we get some time.
+
+## POINTER 7
+<STR>(RIT)
+Sure, sure.

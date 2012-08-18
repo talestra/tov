@@ -1,0 +1,77 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1284394733]
+<STR>(YUR)
+Aquí tienes la pluma
+pequeña que pediste.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291932534]
+
+Vaya, qué rápidos.<PAGE>
+Con lo que me gustaba...
+Pero en fin, tomad.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1284394733]
+<STR>(KAR)
+¡Toma ya!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291932534]
+
+¡Esperad, esperad, esperad! ¡La he traído!
+¡Aquí tienes una pluma pequeña de un pájaro!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1284394733]
+<STR>(KAR)
+Como que has llegado... un poquito tarde.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1291932534]
+
+Había dicho que le daría el colgante
+al primero que me la trajera.
+Y han sido ellos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291932534]
+
+¿Q-Qué? ¡¿N-No
+me lo vas a dar?!
+¡Pero lo necesito!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291932534]
+<STR>(YUR)
+Por desgracia, nosotros también
+lo necesitamos. Lo siento, tío,
+pero no podemos dártelo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291932534]
+
+Mierda... Voy a tener
+que hacerlo por la fuerza...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1284397331]
+<STR>(RAP)
+*Ladrido amenazante*
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291932534]
+
+A-Agh. No, la violencia
+no es la solución...<PAGE>Je, me rindo...
+Oh, si tan solo...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1284397331]
+<STR>(KAR)
+Me sabe mal por él.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1284397331]
+<STR>(JUD)
+No es momento de lamentarse, <STR>(KAR).
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1291932534]
+<STR>(YUR)
+Este es el colgante de Rhianna.
+No podíamos dárselo aunque hubiéramos querido.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1284397331]
+<STR>(KAR)
+Sí, tienes razón.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1284397331]
+<STR>(YUR)
+Pues nada, ¡de vuelta a Dahngrest!

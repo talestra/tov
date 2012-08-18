@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252780204]
+Tres en uno
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298113610]
+(EST_P)
+Las dos barreras blastia
+de esta ciudad y Puerto Nor
+eran originalmente un único blastia.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307002]
+(YUR)
+¿Leíste eso en uno de tus
+libros del castillo?
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266670458]
+(EST_P)
+Sí. De hecho, había tres piezas.
+La tercera se hundió en el mar
+entre ambas ciudades.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298113610]
+(RAV)
+Me pregunto si se podría recuperar
+ese blastia. ¡Y si se vendiera, uno
+podría vivir com'un rey toa la vida!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298113610]
+(YUR)
+Si eso fuera posible, el Imperio ya
+lo habría hecho. Cualquier idiota
+podría haberlo pensado.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298113610]
+(RAV)
+No tienes por qué ser tan cruel...

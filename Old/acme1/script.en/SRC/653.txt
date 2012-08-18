@@ -1,0 +1,60 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VA050_129)Hey.
+
+## POINTER 1
+Duke
+<VOICE>(VA050_130)I will take back what I have loaned.<PAGE><VOICE>(VA050_131)You allowed that to rise again. You 
+cannot be trusted with Dein Nomos.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VA050_132)Do you know what that thing is?
+
+## POINTER 3
+Duke
+<VOICE>(VA050_133)The legacy of the ancients... A 
+giant blastia that could save 
+the world from impending doom.<PAGE><VOICE>(VA050_134)But you have allowed it to fall into hands 
+that would use it for ill purposes.<PAGE><VOICE>(VA050_135)All things must be returned to their proper 
+places. Begin by returning that sword to me.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VA050_136)Wait.<PAGE><VOICE>(VA050_137)If this should be returned to 
+its proper place, wouldn't that 
+mean giving it to <STR>(EST_P)?
+
+## POINTER 5
+Duke
+<VOICE>(VA050_138)...Nothing would be more fruitless 
+than giving it to one who 
+cannot use it properly.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VA050_139)For us, Dein Nomos was never 
+anything more than proof 
+of imperial lineage.<PAGE><VOICE>(VA050_140)So, perhaps you are 
+better suited to wield it.
+
+## POINTER 7
+Duke
+<VOICE>(VA050_141)...
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VA050_142)...So, if you don't mind, 
+could you let me keep 
+it a little longer?<PAGE><VOICE>(VA050_143)We're going to stop Alexei ourselves. 
+And we need this to do it...
+
+## POINTER 9
+Duke
+<VOICE>(VA050_144)...Very well... However, 
+if you should waver before 
+the task you face,...<PAGE><VOICE>(VA050_145)...I will come again to claim the sword.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VA050_146)Okay.<PAGE><VOICE>(VA050_147)...Let's go.

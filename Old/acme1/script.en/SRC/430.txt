@@ -1,0 +1,90 @@
+## POINTER 0
+<STR>(YUR)
+...! I can't believe I only 
+just remembered that...
+
+## POINTER 1
+<STR>(YUR)
+I've got a bad feeling about this.
+
+## POINTER 2
+<STR>(KAR)
+Hurry! We have to follow them!
+
+## POINTER 3
+<STR>(JUD)
+I understand how you're feeling, 
+but please try to calm down.
+
+## POINTER 4
+<STR>(RIT)
+What! Aren't you worried?!
+
+## POINTER 5
+<STR>(JUD)
+Of course I'm worried. That's why we should 
+calm down and think rationally, right?
+
+## POINTER 6
+<STR>(RIT)
+Oh, right... Yeah. 
+I see... I'm sorry.
+
+## POINTER 7
+<STR>(YUR)
+Got any ideas?
+
+## POINTER 8
+
+Ah, yes. The master of Myorzo 
+might have some idea.
+
+## POINTER 9
+<STR>(JUD)
+He's an Entelexeia, after 
+all. Maybe he felt the flow 
+of aer from the blastia.
+
+## POINTER 10
+<STR>(JUD)
+Did you hear it? Could you 
+tell us where it was?<PAGE>...Just a vague direction...to the 
+west, a sea of sand...a town?<PAGE>It's not too clear, but 
+a desert town...I think 
+it's Yormgen.
+
+## POINTER 11
+<STR>(KAR)
+That's the town in the Sands of Kogorh, 
+where we met Duke before.
+
+## POINTER 12
+<STR>(YUR)
+Let's head there now.
+
+## POINTER 13
+
+You're leaving, then?
+
+## POINTER 14
+<STR>(JUD)
+I am.
+
+## POINTER 15
+
+You don't need to shoulder 
+such a burden.<PAGE>Haven't you suffered enough?
+
+## POINTER 16
+<STR>(JUD)
+Thank you, Elder. But I'm 
+not suffering anymore.
+
+## POINTER 17
+
+Hmph.
+
+## POINTER 18
+<STR>(JUD)
+Heh. If you went into the outside 
+world you might understand, too.

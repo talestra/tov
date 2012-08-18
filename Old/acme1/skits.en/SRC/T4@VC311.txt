@@ -1,0 +1,61 @@
+## POINTER 0
+(RIT)'s 3-Second Cooking
+
+## POINTER 1
+(EST_P)
+Oooh, I'm following the recipes... 
+Why isn't my food coming out 
+as good as yours, (JUD)?
+
+## POINTER 2
+(JUD)
+I do all of my seasoning by 
+taste. Maybe that's it.
+
+## POINTER 3
+(RIT)
+Try changing the balance of ingredients, 
+or adding some seasoning 
+that's not in the recipe.
+
+## POINTER 4
+(EST_P)
+Good idea. I'll try that.
+
+## POINTER 5
+(JUD)
+(RIT), I never expected to hear such 
+practical advice coming from you!
+
+## POINTER 6
+(RIT)
+H-hey! I'm not the best cook, but 
+adding spices is like mixing chemicals. 
+It's just chemistry.
+
+## POINTER 7
+(JUD)
+I guess, in a way...but I also feel 
+like that's not all there is to it.
+
+## POINTER 8
+(EST_P)
+So do you and (YUR) use your 
+own special seasonings? Is that 
+why your food is so good?
+
+## POINTER 9
+(JUD)
+Exactly. If you just rely on 
+the recipe, your cooking will 
+never be really delicious.
+
+## POINTER 10
+(EST_P)
+Cooking is hard, but I'll keep trying. I 
+want to learn how to make better food!
+
+## POINTER 11
+(JUD)
+That desire is the most 
+important thing of all.

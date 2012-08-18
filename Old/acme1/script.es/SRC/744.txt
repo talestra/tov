@@ -1,0 +1,84 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294517517]
+<STR>(YUR)
+¿Este es el libro
+que estás buscando?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294517517]
+<STR>(RIT)
+Sí, no hay duda.
+Es «Reflejos del aroma del mar».
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294517517]
+Kaufman
+Oh, ¿os interesa mi autobiografía?
+¿Quizá el encanto de obtener beneficios en
+alta mar por fin os ha llamado la atención?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294517517]
+<STR>(YUR)
+¿Tú has escrito esto?
+Pero qué le... ups. Err,
+¿nos lo podemos quedar?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294517517]
+Kaufman
+Vas directo al grano, como siempre.
+Je, admiro tu franqueza.<PAGE>
+Si quieres te lo puedes quedar.
+Estúdiatelo; quizá aprendas algo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1293212455]
+<STR>(RIT)
+Gracias. Nos será
+de gran ayuda.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1293212455]
+Kaufman
+Vaya por Dios. ¿Todo este interés en la historia
+de mi vida y ahora me das las gracias? ¡Ya puedo
+sentir los vientos de cambio que soplan por el mar!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1293212455]
+<STR>(YUR)
+Muy bien. ¿Por fin
+los tienes todos?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294517517]
+<STR>(RIT)
+Sip. Tengo
+los cinco.<PAGE>Ahora ya puedo
+hacer el examen.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1293212455]
+<STR>(YUR)
+Ir a buscar libros por todo el mundo.
+¡Este examen es de locos!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294517610]
+<STR>(RIT)
+Oh, pues la prueba final aún tiene que empezar.<PAGE>Habrá un examen escrito en el que
+necesitaré estos libros como referencia.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1293212455]
+<STR>(YUR)
+Agh, con solo pensar en exámenes
+ya me duele la cabeza.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1293212455]
+<STR>(RIT)
+¿No te gustaría intentarlo?
+Solo para ver qué tal lo haces.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294517610]
+<STR>(YUR)
+Nah, suspendería antes de empezar.
+Y no me importa el doctorado comosellame.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294517610]
+<STR>(RIT)
+Sí, darte algo así sería como
+echar margaritas a los cerdos.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294517623]
+<STR>(YUR)
+Oye, ¡¿a quién estás llamando cerdo?!

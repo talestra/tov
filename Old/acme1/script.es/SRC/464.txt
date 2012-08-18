@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283649493]
+<STR>(YUR)
+Sí que hay gente por aquí.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462422]
+<STR>(RAV)
+Son tós refugiaos de la capital.
+¿No ves los trapitos pijillos que llevan?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462422]
+<STR>(RIT)
+Parece que por ahora no le
+pasa nada raro a la barrera.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485040]
+<STR>(KAR)
+Uff, uff...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462422]
+<STR>(JUD)
+¿Estás bien, <STR>(KAR)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462422]
+<STR>(RAV)
+No parece estarlo pa ná.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462422]
+<STR>(JUD)
+Tiene mucha fiebre. Se ha exigido demasiado.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462422]
+<STR>(RIT)
+¡Y todo por hacerse el héroe!
+Mira que llega a ser...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298497968]
+<STR>(RIT)
+¿<STR>(YUR)?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1285462422]
+<STR>(YUR)
+¿Eh? Oh, perdona. Vamos
+a la posada para dejar 
+que <STR>(KAR) descanse.

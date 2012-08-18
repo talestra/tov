@@ -1,0 +1,28 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007472]
+<STR>(KAR)
+Oh, echad un vistazo a esto.
+Es un modelo de blastia.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007472]
+<STR>(YUR)
+Mmm... Quienquiera que haya
+hecho esto, tiene talento.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1283155580]
+<STR>(EST_P)
+Es el modelo de un gran blastia,
+aunque no funciona.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1282648946]
+<STR>(YUR)
+¿Gran blastia?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298212385]
+<STR>(EST_P)
+«Se entiende por gran blastia los tipos
+de blastias especialmente grandes, 
+incluyendo entre otros las barreras blastias».
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007472]
+<STR>(YUR)
+¿A que eso también lo leíste en un libro?

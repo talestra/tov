@@ -1,0 +1,61 @@
+## POINTER 0
+<STR>(YUR)
+Can we stay the night here?
+
+## POINTER 1
+
+Hello. Welcome to the 
+desert oasis, Mantaic.
+
+## POINTER 2
+<STR>(RIT)
+What's with this knight?
+
+## POINTER 3
+
+Well, ummm...
+
+## POINTER 4
+
+...
+
+## POINTER 5
+
+...Will, will you be staying the night?
+
+## POINTER 6
+<STR>(YUR)
+Yeah. We're going into the desert, 
+so we came into town to gather 
+provisions and get some rest first.
+
+## POINTER 7
+
+Oh, so it's you who wanted 
+provisions for going into 
+the desert.<PAGE>You know, it's...
+
+## POINTER 8
+<STR>(YUR)
+We know it's dangerous.
+
+## POINTER 9
+
+Oh, I see...<PAGE>In that case, I'll get 
+your provisions together 
+before you set out.<PAGE>Your stay will cost 400 
+Gald. Is that okay?
+
+## POINTER 10
+Do you wish to rest?
+Yes
+No
+
+## POINTER 11
+
+Have a nice stay.
+
+## POINTER 12
+
+Come back when
+you need to rest.

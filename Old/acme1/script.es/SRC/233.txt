@@ -1,0 +1,21 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1280175255]
+<STR>(KAR)
+<VOICE>(VS22_001)Mirad, los Caballeros han vuelto.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1280175255]
+Ragou
+<VOICE>(VS22_002)¡Os digo que soy inocente! ¡Todo esto
+es un complot de los Caballeros
+para deshacer el Consejo!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1274050058]
+<STR>(RIT)
+<VOICE>(VS22_003)No sabe cuándo rendirse, ¿eh?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1280175255]
+<STR>(EST_P)
+<VOICE>(VS22_004)¿Dónde está <STR>(FRE)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1274050058]
+<STR>(YUR)
+<VOICE>(VS22_005)No puedo verlo desde aquí.

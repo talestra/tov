@@ -1,0 +1,62 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298210680]
+<STR>(EST)
+<VOICE>(VS03_160)Esta es mi habitación.<PAGE><VOICE>
+(VS03_161)Me voy a cambiar;
+deme un minutito.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269915915]
+<STR>(YUR)
+<VOICE>(VS03_162)Vale. Procura darte prisa.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269915915]
+<STR>(EST)
+<VOICE>(VS03_163)Por si acaso.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1270076839]
+<STR>(YUR)
+<VOICE>(VS03_164)No es que fuera a
+espiarte ni nada...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298210680]
+<STR>(EST)
+<VOICE>(VS03_165)<STR>(FRE) me dijo que
+tuviera cuidado con usted
+si algún día le conocía.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269915915]
+<STR>(YUR)
+<VOICE>(VS03_166)Gracias, <STR>(FRE).
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269915915]
+<STR>(EST)
+<VOICE>(VS03_167)Vale, ya estoy.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298210680]
+<STR>(EST)
+<VOICE>(VS03_168)¿Qué? ¿T-Tengo mala pinta?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298210680]
+<STR>(YUR)
+<VOICE>(VS03_169)No, nada... Estaba pensando
+que eso tampoco te queda bien.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269916654]
+<STR>(EST)
+<VOICE>(VS03_170)¿En serio?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269916654]
+<STR>(YUR)
+<VOICE>(VS03_171)¿Qué es eso?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298210680]
+<STR>(EST)
+<VOICE>(VS03_172)Un apretón de manos.
+Significa, «encantada de conocerle».
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269916654]
+<STR>(YUR)
+<VOICE>(VS03_173)Muy bien. En marcha.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269916654]
+<STR>(EST)
+<VOICE>(VS03_174)¡Gracias!

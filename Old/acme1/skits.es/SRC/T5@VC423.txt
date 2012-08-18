@@ -1,0 +1,29 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252840395]
+Hace mucho, mucho tiempo...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115424]
+(EST_P)
+Un libro del almacén decía que esta
+ciudad se alzó en el aire hacia 
+el final de la civilización geraios.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115424]
+(RIT)
+Mmm, ¿eso quiere decir
+que antes estaba en tierra?
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267308118]
+(EST_P)
+Esa parte no estaba muy clara, pero creo
+que hasta entonces probablemente
+se encontraba flotando en el mar.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115424]
+(KAR)
+Oh, y por eso se la acabó
+tragando una medusa gigante.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115424]
+(EST_P)
+No creo que fuera
+eso lo que ocurrió...

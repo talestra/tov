@@ -1,0 +1,67 @@
+## POINTER 0
+<STR>(RAP)
+*Whimper*
+
+## POINTER 1
+<STR>(YUR)
+What is it, <STR>(RAP)...?
+...Huh? 
+What's this?
+
+## POINTER 2
+Ted
+Oh, that would be a memory formula.
+
+## POINTER 3
+<STR>(YUR)
+A memory formula?
+
+## POINTER 4
+Ted
+A supposedly famous 
+mage wrote it there.
+
+## POINTER 5
+<STR>(YUR)
+Another mage, huh...
+That certainly doesn't 
+raise my confidence in this thing.
+
+## POINTER 6
+Ted
+But everyone's been using this memory 
+formula, and it doesn't seem to 
+present any sort of danger.<PAGE>Apparently, that mage has been trekking 
+across the planet, leaving behind formulas 
+like this one all over the place.
+
+## POINTER 7
+<STR>(YUR)
+What for?
+
+## POINTER 8
+Ted
+It seems like the mage wants to 
+collect the memories of travelers 
+who've journeyed to all sorts of places.<PAGE>They say this formula reads 
+in your memories, and then 
+they're saved inside it.
+
+## POINTER 9
+<STR>(YUR)
+Hmmm... I don't see what this 
+has to do with... Hey, what 
+are you doing, <STR>(RAP)...?
+
+## POINTER 10
+<STR>(RAP)
+Woof!
+
+## POINTER 11
+Ted
+He's telling you 
+to give it a try!
+
+## POINTER 12
+<STR>(YUR)
+Hey now...

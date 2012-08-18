@@ -1,0 +1,24 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294770901]
+
+Guau, ¿qué ha sido eso?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294770901]
+
+Creo que venía del oeste.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296757997]
+<STR>(KAR)
+Eso... no ha parecido un terremoto.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294770901]
+<STR>(JUD)
+Sí, parece que ha habido
+algún desprendimiento.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294770901]
+<STR>(RAV)
+Pues peazo desprendimiento.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1294770901]
+<STR>(YUR)
+Vamos a echar un ojo.

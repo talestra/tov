@@ -1,0 +1,33 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS57_001)Phaeroh!
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS57_002)He's hurt! Why's 
+he flying?!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS57_003)Any idiot could come along and take him out. 
+He couldn't put up a fight like this.
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS57_004)It's probably so humans won't get his apatheia.
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS57_005)Phaeroh...
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS57_006)Hey, he's landing!
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS57_007)It looks like he's...calling us.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS57_008)Let's go.

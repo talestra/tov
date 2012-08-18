@@ -1,0 +1,41 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294771187]
+<STR>(KAR)
+El paisaje de aquí
+tiene algo raro...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296758450]
+<STR>(EST_P)
+Sí... ¿En esta zona no
+había una cordillera?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296758450]
+<STR>(JUD)
+Parece que el estruendo que oímos
+en Dahngrest venía de aquí.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294771187]
+<STR>(RAV)
+¿Decís que se ha caío la
+montaña entera? Dentro hay
+una cueva bastante grande.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296758450]
+<STR>(EST_P)
+«En las profundidades de una montaña abrupta
+y sinuosa, en el sexto continente de Yurzorea,
+duerme un hombre que trasciende el tiempo...».
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296758450]
+<STR>(YUR)
+¿Eh? ¿Eso no es lo
+que decía el libro que
+te dieron en Yormgen?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1294771187]
+<STR>(EST_P)
+Sí.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294771187]
+<STR>(YUR)
+Mmm... Quizás tenga algo que ver.
+Entremos a echar un vistazo.

@@ -1,0 +1,299 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS50_174)Morning, <STR>(YUR)!
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VS50_175)Looks like I overslept a 
+little. My hair's a mess...
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS50_176)Is that all you're worried about...?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS50_177)Sounds like we're all good.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS50_178)Here ya go.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS50_179)You pulled it off.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS50_180)Now we just need 
+<STR>(JUD_P) and <STR>(EST_P).
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS50_181)Here I am. Good 
+morning, everyone.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS50_182)Ah, morning, <STR>(JUD)!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS50_183)Were you able to get in 
+touch with Phaeroh?
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS50_184)Yes, but you won't like what 
+he told me about Zaude...<PAGE><VOICE>(VS50_185)He says it is a place that 
+must be left undisturbed, by 
+both Entelexeia and humans.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS50_186)... I wonder why.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS50_187)Such an encouraging 
+send-off...
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS50_188)Well, it's not like we can 
+just say, "Oh! Thanks 
+for telling us!" and not go.<PAGE><VOICE>(VS50_189)Alexei's at Zaude, and 
+I'm really not in a 
+mood to just let him go.
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VS50_190)You're right. Phaeroh 
+will have to understand.
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS50_191)We already came this far.
+We can't stop now.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS50_192)Besides, if we just ignore it, the whole world's
+gonna be in all kinds of trouble.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS50_193)That's the sprit. Now 
+we just need <STR>(EST_P). 
+<STR>(RIT), did you see her?
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS50_194)<STR>(EST_P) won't be coming.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS50_195)Hm?!
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS50_196)She can't fight anymore.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS50_197)Wait, you don't mean...?
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS50_198)The control was a success.<PAGE><VOICE>(VS50_199)But she needs to avoid aer interference
+in order to keep her power from activating.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS50_200)Huh? But all blastia need
+aer to work, don't they?
+
+## POINTER 24
+<STR>(RIT)
+<VOICE>(VS50_201)Yes, so I tried the same thing
+as <STR>(RAV).
+
+## POINTER 25
+<STR>(JUD)
+<VOICE>(VS50_202)Using her own life 
+energy for power.
+
+## POINTER 26
+<STR>(RAV)
+<VOICE>(VS50_203)Are ya serious? I really 
+wouldn't recommend that.
+
+## POINTER 27
+<STR>(RIT)
+<VOICE>(VS50_204)I couldn't find any other
+way. At least she can
+use formulas without
+worrying about aer.<PAGE><VOICE>(VS50_205)But it's not just controlling the power of the
+Child of the Full Moon, even artes will use
+her life.<PAGE><VOICE>(VS50_206)She could be in serious danger 
+if she had to exert herself.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS50_207)...So she won't be 
+coming with us anymore.
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VS50_208)And was she okay with that?
+
+## POINTER 30
+<STR>(EST_P)
+<VOICE>(VS50_209)...No.
+
+## POINTER 31
+<STR>(KAR)
+<VOICE>(VS50_210)<STR>(EST_P)!
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VS50_211)Hey! Y-You're just here...
+to see us off, right?
+
+## POINTER 33
+<STR>(EST_P)
+<VOICE>(VS50_212)<STR>(RIT), I'm sorry. Please 
+take me with you.
+
+## POINTER 34
+<STR>(RIT)
+<VOICE>(VS50_213)What did I tell you?!
+You'll lose your life just
+by using your artes!<PAGE><VOICE>(VS50_214)You could go on living with no problem 
+if you just wouldn't use them.
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS50_215)I sat up all night thinking 
+about what you told me.<PAGE><VOICE>(VS50_216)At first I thought, 
+"Finally, I'll be able 
+to live a normal life."
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS50_217)Yeah, you've suffered enough.
+You can rest now.
+
+## POINTER 37
+<STR>(EST_P)
+<VOICE>(VS50_218)Thank you. <STR>(RIT).<PAGE><VOICE>(VS50_219)You all are risking your 
+lives to fight. Even the fate 
+of this world is at stake...<PAGE><VOICE>(VS50_220)Knowing that, my only choice 
+is to fight alongside you.
+
+## POINTER 38
+<STR>(KAR)
+<VOICE>(VS50_221)<STR>(EST_P)...
+
+## POINTER 39
+<STR>(EST_P)
+<VOICE>(VS50_222)There are still things I 
+can do. For my friends.<PAGE><VOICE>(VS50_223)So I'm asking you, please. 
+Take me with you.
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS50_224)I want to tell you no, but 
+you decided this for yourself. 
+I won't turn you down.
+
+## POINTER 41
+<STR>(JUD)
+<VOICE>(VS50_225)Yes. And she doesn't 
+really listen once she sets 
+her mind to something.
+
+## POINTER 42
+<STR>(RAV)
+<VOICE>(VS50_226)Ahh, let's take her. Nobody 
+likes havin' their friends 
+run off to steal all the fun.
+
+## POINTER 43
+<STR>(KAR)
+<VOICE>(VS50_227)Yeah, we'll all help out to
+make this easy on her.
+
+## POINTER 44
+<STR>(RIT)
+<VOICE>(VS50_228)...Promise me one thing, you will
+never, never, push yourself too hard.
+Got it?<PAGE><VOICE>(VS50_229)I'll never forgive you if you break that promise!
+
+## POINTER 45
+<STR>(EST_P)
+<VOICE>(VS50_230)All right.
+
+## POINTER 46
+<STR>(YUR)
+<VOICE>(VS50_232)Heh, trying to forbid this 
+bunch from pushing 
+themselves is pretty pointless.
+
+## POINTER 47
+<STR>(RAV)
+<VOICE>(VS50_233)So our next problem is 
+just how ta go about 
+actually gettin' ta Zaude.
+
+## POINTER 48
+<STR>(JUD)
+<VOICE>(VS50_234)Don't worry. There's one 
+friend you're forgetting.
+
+## POINTER 49
+<STR>(YUR)
+<VOICE>(VS50_235)Ba'ul? Is he okay?
+
+## POINTER 50
+<STR>(JUD)
+<VOICE>(VS50_236)I told you. He's strong.
+
+## POINTER 51
+Tokunaga
+<VOICE>(VS50_237)Everyone, I also just 
+finished the repairs 
+on the ship!
+
+## POINTER 52
+<STR>(KAR)
+<VOICE>(VS50_238)That's right, Tokunaga's here too!
+
+## POINTER 53
+<STR>(YUR)
+<VOICE>(VS50_239)So everything's ready. 
+This is it, the final battle!
+
+## POINTER 54
+<STR>(KAR)
+<VOICE>(VS50_240)Yeah!
+
+## POINTER 55
+<STR>(JUD)
+<VOICE>(VS50_241)Right.
+
+## POINTER 56
+<STR>(RAV)
+<VOICE>(VS50_242)Yep.
+
+## POINTER 57
+<STR>(RAP)
+<VOICE>(VS50_243)Woof!
+
+## POINTER 58
+<STR>(EST_P)
+<VOICE>(VS50_244)Okay.
+
+## POINTER 59
+<STR>(RIT)
+<VOICE>(VS50_245)Right.

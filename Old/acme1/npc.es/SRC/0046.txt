@@ -1,0 +1,446 @@
+## POINTER 4600 [t:1;r:1;ru:memnoch;user:memnoch;time:1303677339]
+En los barrios bajos
+nos odiaban por existir.
+
+## POINTER 4601 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+La vida en este pueblo es ahora
+mucho más fácil. Si las cosas
+fuera de la barrera se calmaran...
+
+## POINTER 4602 [t:1;r:1;ru:memnoch;user:memnoch;time:1303677339]
+Quizás pida demasiado.
+
+## POINTER 4603 [t:1;r:1;ru:memnoch;user:kaene;time:1303146852]
+Si nos lo proponemos,
+podemos hacer lo que sea.
+
+## POINTER 4604 [t:1;r:1;ru:memnoch;user:memnoch;time:1303677660]
+Eso he aprendido
+viviendo aquí.
+
+## POINTER 4605 [t:1;r:1;ru:memnoch;user:kaene;time:1303146852]
+Me encantaba vivir en Zaphias,
+pero me gusta más vivir aquí.
+
+## POINTER 4606 [t:1;r:1;ru:memnoch;user:kaene;time:1303146852]
+Me gusta sobre todo
+cuando pasa <STR>(FRE).
+
+## POINTER 4607 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+<STR>(FRE) la fundó, así que,
+en mi opinión, debería
+llamarse <STR>(FRE)landia.
+
+## POINTER 4608 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+Gracias a los Caballeros,
+es seguro salir de casa
+y pasear por la noche.<PAGE>En Zaphias, nunca pensé
+en lo importantes que son.
+
+## POINTER 4609 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+Cuanto más tiempo pasas en malas
+condiciones, más te das cuenta de
+lo que es importante en la vida.<PAGE>Lo que siento por los
+Caballeros puede ser...
+¡¿amor?!
+
+## POINTER 4610 [t:1;r:1;ru:memnoch;user:kaene;time:1303147235]
+Por favor, vuelve pronto.
+
+## POINTER 4611 [t:1;r:1;ru:memnoch;user:kaene;time:1303147235]
+Vuelve cuando quieras.
+
+## POINTER 4612 [t:1;r:1;ru:memnoch;user:kaene;time:1303147235]
+Ya es tarde. Ya nos
+pondremos en camino
+mañana por la mañana.
+
+## POINTER 4613 [t:1;r:1;ru:memnoch;user:kaene;time:1303147235]
+Dale recuerdos a <STR>(EST).
+
+## POINTER 4614 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+¡Acérquense todos, adelante!
+¡Fíjese qué maravilla de artículos!
+¡Esto no se encuentra en el Imperio!
+
+## POINTER 4615 [t:1;r:1;ru:memnoch;user:memnoch;time:1303677660]
+Altosk es genial...
+¿Has visto cómo se han cargado
+a todos esos monstruos?
+
+## POINTER 4616 [t:1;r:1;ru:memnoch;user:kaene;time:1303147580]
+Dahngrest es una ciudad de gremios.
+¡Probablemente el sitio más libre
+sobre la faz del planeta! ♪
+
+## POINTER 4617 [t:1;r:1;ru:memnoch;user:kaene;time:1303147580]
+Todos esos tipejos del
+Imperio ya podrían
+pirarse para su casa. ♪
+
+## POINTER 4618 [t:1;r:1;ru:memnoch;user:kaene;time:1303147580]
+¡Dahngrest es lo mejor! ¡Los
+monstruos no son nada mientras
+los gremios se mantengan unidos! ♪
+
+## POINTER 4619 [t:1;r:1;ru:memnoch;user:kaene;time:1303147580]
+¿El Don ha muerto?
+No puedo creerlo...
+¿Qué será de nosotros?
+
+## POINTER 4620 [t:1;r:1;ru:memnoch;user:kaene;time:1303147580]
+¡A-Ayuda!
+¡No siento las piernas!
+
+## POINTER 4621 [t:1;r:1;ru:memnoch;user:kaene;time:1303147580]
+Oye, ¿te importaría parar
+de curiosearlo todo? Es obvio
+que no eres de por aquí.<PAGE>No sé de dónde vendrás, pero
+no todo el mundo en Dahngrest
+es buena gente.
+
+## POINTER 4622 [t:1;r:1;ru:memnoch;user:kaene;time:1303147580]
+Veo que al Imperio
+también le va mal.
+
+## POINTER 4623 [t:1;r:1;ru:memnoch;user:memnoch;time:1303677660]
+¡Eh, venga, ya vale de mirar!
+¡Venid aquí a gastaros los cuartos!
+
+## POINTER 4624 [t:1;r:1;ru:memnoch;user:kaene;time:1303147700]
+Parece que algo malo ha pasado
+en Nordopólica, pero yo voy a
+seguir haciendo negocio aquí.
+
+## POINTER 4625 [t:1;r:1;ru:memnoch;user:memnoch;time:1303677339]
+Mantendremos la paz
+aquí, en Dahngrest.
+
+## POINTER 4626 [t:1;r:1;ru:memnoch;user:kaene;time:1303148180]
+Mantendremos la paz en
+Dahngrest también de noche.
+
+## POINTER 4627 [t:1;r:1;ru:memnoch;user:kaene;time:1303148180]
+No puedo creer que hayan aparecido
+monstruos en el pueblo... Seguro
+que el Imperio tiene algo que ver.
+
+## POINTER 4628 [t:1;r:1;ru:memnoch;user:kaene;time:1303148180]
+¡La barrera ha caído!
+¡Esto es un desastre!
+
+## POINTER 4629 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+¡Esto no va nada bien!
+¡Lo más sensato sería
+poner tierra de por medio!
+
+## POINTER 4630 [t:1;r:1;ru:memnoch;user:kaene;time:1303148180]
+No, no... ¡No huí!
+Todos luchamos mucho...
+¡Yo también, de verdad!
+
+## POINTER 4631 [t:1;r:1;ru:memnoch;user:kaene;time:1303148180]
+¿Ahora vamos a ir de la
+manita con los Caballeros
+y a tomar el té? ¡Anda ya!
+
+## POINTER 4632 [t:1;r:1;ru:memnoch;user:kaene;time:1303148361]
+Esto va de mal en peor...
+¡La única opción es salir
+por patas otra vez!
+
+## POINTER 4633 [t:1;r:1;ru:memnoch;user:memnoch;time:1303677339]
+¿Qué debería hacer?
+
+## POINTER 4634 [t:1;r:1;ru:memnoch;user:kaene;time:1303148361]
+Estoy desesperado.
+
+## POINTER 4635 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678832]
+He estado viajando en busca de
+monstruos fuertes, pero el tornado
+que hay al norte me impide seguir.
+
+## POINTER 4636 [t:1;r:1;ru:memnoch;user:kaene;time:1303148624]
+Un hombre no puede hacer nada
+contra un tornado. Es una
+pena, pero es inevitable.
+
+## POINTER 4637 [t:1;r:1;ru:memnoch;user:kaene;time:1303148624]
+Bueno... ¿qué monstruos
+debería cazar ahora?<PAGE>Esta noche me lo pensaré.
+
+## POINTER 4638 [t:1;r:1;ru:memnoch;user:kaene;time:1303148624]
+A este paso, hasta podríamos
+enfrentarnos al Imperio...
+
+## POINTER 4639 [t:1;r:1;ru:memnoch;user:kaene;time:1303148624]
+Si Barbos estuviera vivo,
+se encargaría de esa cosa
+en un abrir y cerrar de ojos.
+
+## POINTER 4640 [t:1;r:1;ru:memnoch;user:kaene;time:1303148821]
+¡Y luego borrar del
+mapa al Imperio!
+
+## POINTER 4641 [t:1;r:1;ru:memnoch;user:kaene;time:1303148821]
+Nadie va a ser
+amigo del Imperio.
+
+## POINTER 4642 [t:1;r:1;ru:memnoch;user:kaene;time:1303148821]
+Pero no te pienses que me
+ganaría en una pelea, ¿eh?
+
+## POINTER 4643 [t:1;r:1;ru:memnoch;user:kaene;time:1303148821]
+¿Es verdad que
+Belius ha muerto?
+
+## POINTER 4644 [t:1;r:1;ru:memnoch;user:kaene;time:1303148821]
+No es que me importe
+mucho, la verdad.
+
+## POINTER 4645 [t:1;r:1;ru:memnoch;user:kaene;time:1303148821]
+¿Q-Qué hacemos?
+Si nos quedamos más tiempo en este
+pueblo, estaremos en peligro.
+
+## POINTER 4646 [t:1;r:1;ru:memnoch;user:memnoch;time:1303677339]
+La gente de aquí
+anda nerviosa.
+¿Qué pasa ahora?
+
+## POINTER 4647 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+¿Eh? ¡Eh, vosotros!
+¡No os quedéis aquí
+mirando las musarañas!
+
+## POINTER 4648 [t:1;r:1;ru:memnoch;user:kaene;time:1303149170]
+¡Los Caballeros no sirven
+para nada! ¡Nosotros solos
+protegeremos Dahngrest!
+
+## POINTER 4649 [t:1;r:1;ru:memnoch;user:kaene;time:1303149170]
+¿Quieres ver al Don?
+Acaba de irse a la
+cabeza de unas tropas.
+
+## POINTER 4650 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+¿Adónde irán? ¿Quién sabe?
+Yo no tengo ni idea.
+
+## POINTER 4651 [t:1;r:1;ru:memnoch;user:kaene;time:1303149170]
+¿Dónde han metido a ese
+Caballero que han pillado?
+Quiero reírme en su cara.
+
+## POINTER 4652 [t:1;r:1;ru:memnoch;user:kaene;time:1303149170]
+¡Los monstruos son malvados, así
+que los matamos! Esa es la misión
+de los Espadas Cazadoras.
+
+## POINTER 4653 [t:1;r:1;ru:memnoch;user:kaene;time:1303149170]
+La sede de la Unión
+está más adelante.
+¿Quieres ver al Don?<PAGE>Seguro que a estas
+horas está durmiendo.
+
+## POINTER 4654 [t:1;r:1;ru:memnoch;user:kaene;time:1303149170]
+Hasta el Don duerme
+por la noche, claro.<PAGE>La gente mayor se suele
+acostar bien temprano.
+
+## POINTER 4655 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+He oído que el jefe se puso
+un poco tenso en Nordopólica.
+
+## POINTER 4656 [t:1;r:1;ru:memnoch;user:kaene;time:1303149431]
+Espero que Nan y
+Tison estén bien.
+
+## POINTER 4657 [t:1;r:1;ru:memnoch;user:kaene;time:1303149431]
+Hala, pero ¿qué
+demonios es esto?
+¿Qué está pasando?
+
+## POINTER 4658 [t:1;r:1;ru:memnoch;user:kaene;time:1303149431]
+Los del Imperio no valen
+para nada. Y lo mismo vale
+para los Caballeros esos.
+
+## POINTER 4659 [t:1;r:1;ru:memnoch;user:kaene;time:1303149431]
+Esto va mal. Es peligroso
+ponerse a malas con Palestrale.
+
+## POINTER 4660 [t:1;r:1;ru:memnoch;user:kaene;time:1303149431]
+¿Qué haría el Don?...
+
+## POINTER 4661 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+Ese bicho es demasiado
+grande para que parezca
+un monstruo de verdad.<PAGE>Bueno, ¡tenemos que acabar
+con él, como con cualquier
+otro monstruo!
+
+## POINTER 4662 [t:1;r:1;ru:memnoch;user:kaene;time:1303149431]
+¿Has podido conocer al Don?
+¡Él sí que es un gran hombre!
+
+## POINTER 4663 [t:1;r:1;ru:memnoch;user:kaene;time:1303149431]
+Bueno, ya sabes...
+¡Él es el Don!
+
+## POINTER 4664 [t:1;r:1;ru:memnoch;user:kaene;time:1303149721]
+La diversión nunca
+acaba en este pueblo.
+
+## POINTER 4665 [t:1;r:1;ru:memnoch;user:kaene;time:1303149721]
+Y claro, por eso
+me gusta Dahngrest.
+
+## POINTER 4666 [t:1;r:1;ru:memnoch;user:kaene;time:1303149721]
+La paz está bien.
+
+## POINTER 4667 [t:1;r:1;ru:memnoch;user:kaene;time:1303149721]
+El Don no era de los malos.
+¿Por qué se ha muerto?
+
+## POINTER 4668 [t:1;r:1;ru:memnoch;user:kaene;time:1303149721]
+Nunca imaginé que el
+Don se iría antes que
+este pobre viejo...
+
+## POINTER 4669 [t:1;r:1;ru:memnoch;user:kaene;time:1303149721]
+Vivir una vida tan
+provechosa y que
+acabe así...
+
+## POINTER 4670 [t:1;r:1;ru:memnoch;user:kaene;time:1303149721]
+Cerveza de Zaphias, vino de Ehmead,
+aguamiel de Desier... Esas bebidas
+sí que te calmarán la sed.
+
+## POINTER 4671 [t:1;r:1;ru:memnoch;user:kaene;time:1303149721]
+¡Cuando eso pase, sacaré
+mis mejores bebidas!
+
+## POINTER 4672 [t:1;r:1;ru:memnoch;user:kaene;time:1303150088]
+¿Va todo bien ahí fuera?
+Saldré si hay alguien
+que necesita ayuda.
+
+## POINTER 4673 [t:1;r:1;ru:memnoch;user:kaene;time:1303150088]
+Últimamente, los clientes
+no hacen más que quejarse.
+
+## POINTER 4674 [t:1;r:1;ru:memnoch;user:kaene;time:1303150088]
+Se quejan tanto que me dan
+ganas de quejarme yo también.
+
+## POINTER 4675 [t:1;r:1;ru:memnoch;user:kaene;time:1303150088]
+¿Qué va a ser? ¿Sidra?
+¿Un refresco? ¿Un batido?<PAGE>¿O el agua de lluvia es suficiente
+para ti? También tenemos sopa de
+miso caliente, por si te apetece.
+
+## POINTER 4676 [t:1;r:1;ru:memnoch;user:kaene;time:1303150088]
+¿Qué? ¿Un monstruo
+cubierto de llamas?
+¿Tú deliras o qué?
+
+## POINTER 4677 [t:1;r:1;ru:memnoch;user:kaene;time:1303150088]
+Sí, yo tengo mis cosas,
+pero yo no digo
+estupideces como tú.
+
+## POINTER 4678 [t:1;r:1;ru:memnoch;user:kaene;time:1303150088]
+Solo soy un mercenario.
+¿En qué estaría pensando cuando
+ayudé a reparar ese puente?
+
+## POINTER 4679 [t:1;r:1;ru:memnoch;user:kaene;time:1303150088]
+Bueno, supongo que no
+tener puente al final
+sería una molestia.
+
+## POINTER 4680 [t:1;r:1;ru:memnoch;user:kaene;time:1303150469]
+El Don fue el Don hasta el final.
+
+## POINTER 4681 [t:1;r:1;ru:memnoch;user:kaene;time:1303150469]
+Ooooh... *¡Eructo!*
+
+## POINTER 4682 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678832]
+Beber no resuelve
+nada, ya lo sé.<PAGE>Pero no puedo
+pasar sin alcohol.
+
+## POINTER 4683 [t:1;r:1;ru:memnoch;user:kaene;time:1303150469]
+La gente de este bar...
+Siempre son las mismas caras.
+
+## POINTER 4684 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+Parece que hay mucha
+gente con demasiado
+tiempo libre.
+
+## POINTER 4685 [t:1;r:1;ru:memnoch;user:kaene;time:1303150469]
+He oído por ahí que la
+Garra del Leviatán ha
+empezado a moverse.
+
+## POINTER 4686 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+Nada bueno sale de
+la Garra del Leviatán.<PAGE>Claro que eso
+es lo que quieren.
+
+## POINTER 4687 [t:1;r:1;ru:memnoch;user:kaene;time:1303150469]
+Una copa va bien de vez en cuando.
+Pero no bebas demasiado.
+
+## POINTER 4688 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+Ese monstruo con forma de
+pájaro será un problemón.<PAGE>Me da igual cuánta confianza
+haya recuperado, no pienso
+enfrentarme a esa cosa.
+
+## POINTER 4689 [t:1;r:1;ru:memnoch;user:kaene;time:1303150469]
+Búscate otro gremio
+que se lo cargue.
+
+## POINTER 4690 [t:1;r:1;ru:memnoch;user:kaene;time:1303146623]
+No me hables o te
+llevarás unos latigazos.
+
+## POINTER 4691 [t:1;r:1;ru:memnoch;user:kaene;time:1303146623]
+No me hables o te
+haré comer gusanos.
+
+## POINTER 4692 [t:1;r:1;ru:memnoch;user:kaene;time:1303146623]
+No me hables o te
+haré papilla.
+
+## POINTER 4693 [t:1;r:1;ru:memnoch;user:kaene;time:1303146623]
+No me hables o te
+dejaré amoratado.
+
+## POINTER 4694 [t:1;r:1;ru:memnoch;user:kaene;time:1303146623]
+No me hables o te
+aplastaré.
+
+## POINTER 4695 [t:1;r:1;ru:memnoch;user:kaene;time:1303146623]
+No me hables o te
+mataré a palos.
+
+## POINTER 4696 [t:1;r:1;ru:memnoch;user:kaene;time:1303146623]
+No me hables o invocaré
+una tormenta.
+
+## POINTER 4697 [t:1;r:1;ru:memnoch;user:kaene;time:1303146623]
+No me hables o te
+explotará el apéndice.
+
+## POINTER 4698 [t:1;r:1;ru:memnoch;user:memnoch;time:1303678621]
+No me hables o te
+cortaré a cachitos.
+
+## POINTER 4699 [t:1;r:1;ru:memnoch;user:kaene;time:1303146623]
+No mea hables o
+acabarás nadando.

@@ -1,0 +1,54 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1253217985]
+Somos un gremio
+
+## POINTER 1 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267323805]
+(EST_P)
+El proceso ha sido lento,
+pero Gran Vesperia por fin
+se ha convertido en un gremio.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267190671]
+(RIT)
+Creo que todavía ni se acerca a ser
+un gremio con todas las de la ley.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267190671]
+(EST_P)
+¡Pero todo el mundo está trabajando duro!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267190671]
+(RIT)
+Bueno, supongo que el gremio
+tiene algo de buen estilo.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267190671]
+(EST_P)
+¿Buen estilo?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1262280480]
+(RIT)
+Tenemos al enano dando la nota cómica,
+la krityana como el interés romántico
+y a (YUR) como el hombre serio.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140429]
+(EST_P)
+Oh. ¡Pensaba que te referías a que
+llevábamos trajes muy a la moda!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261847415]
+(RIT)
+Entonces tú serías la cadete espacial.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267190671]
+(EST_P)
+¿Y tú serías la chica seria?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267190671]
+(RIT)
+Yo no formo parte de esta comedia
+que tenéis montada.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140429]
+(YUR)
+Que somos un gremio, ¿sabes?

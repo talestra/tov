@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1274114985]
+
+¿El océano es más
+grande que el lago?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294240943]
+
+Mucho más grande y profundo. El océano es
+más azul que cualquier lago, ¡y más bonito!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1274114985]
+
+Allí viven peces, ¿no? 
+¿Dónde está?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1274114985]
+
+¿Está muy lejos?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1274114985]
+
+Sí, queda un poco lejos de aquí.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1274114985]
+
+¡Pues vaya!
+Quería ir a verlo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294240943]
+
+Podrás ir cuando seas mayor. ¡Podrás
+subir a un gran barco, visitar otras
+ciudades y ver un montón de cosas nuevas!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294240943]
+
+¡Yuju!

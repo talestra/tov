@@ -1,0 +1,148 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VA014_041)So...did we do the right thing...?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA014_042)Sure we did. Who knows what 
+kind of mess they'd cause 
+if we just left them alone.
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VA014_043)Gotta say though, it goes against the 
+guild code of conduct to tell secrets 
+ya find out when you're on a job.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VA014_044)Really?
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VA014_045)You gotta keep quiet 
+about any dirt you find out 
+during a job for your client.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VA014_046)...Wow, old man, that's 
+actually...honorable.
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VA014_047)Guilds gotta turn a blind 
+eye to stuff their clients 
+do, no matter how bad.<PAGE><VOICE>(VA014_048)Besides, stickin' your nose into 
+the client's business isn't gonna 
+earn ya any extra dough.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VA014_049)I guess you're right, but...
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VA014_050)Take the pay you got for 
+this job, for example.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA014_051)I don't know about just 
+doing the work, getting 
+paid, and leaving it at that.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VA014_052)Yeah... Like last time...
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VA014_053)Right. We did exactly what 
+the client asked, and look 
+how badly that turned out....
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VA014_054)Which reminds me... Have you 
+figured out what this whole 
+Brave Vesperia thing is for yet?<PAGE><VOICE>(VA014_055)Is it for the money? 
+Because you like it? 
+What?
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VA014_056)We...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VA014_057)"Do justice," right?
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VA014_058)Yes, Brave Vesperia 
+does what its members 
+feel is right.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VA014_059)Even if that doesn't 
+always make money like 
+<STR>(RAV) was talking about.<PAGE><VOICE>(VA014_060)...I-I mean, for now 
+we'll still do jobs 
+that pay, of course.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VA014_061)Huh. So that's what 
+Brave Vesperia does.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VA014_062)Hmph... Not sure how 
+much that actually 
+cleared up, but...
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VA014_063)You guys sure you're all right 
+with that? Bein' in a guild 
+isn't all fun n' games, ya know.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VA014_064)We never expected it to be.<PAGE><VOICE>(VA014_065)And even if it was, 
+that wouldn't change 
+how we feel..
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VA014_066)Yeah, we'll do things 
+our own way.
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VA014_067)Hmph, listen to this kid.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VA014_068)What?
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VA014_069)I think it sounds great!
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VA014_070)So that's where 
+things stand, old man.
+
+## POINTER 26
+<STR>(RAV)
+<VOICE>(VA014_071)Heh... Knowin' you kids, 
+you'll probably find a 
+way ta pull it off.
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VA014_072)Of course!

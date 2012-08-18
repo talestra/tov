@@ -1,0 +1,117 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486114]
+<STR>(YUR)
+De cerca es aún peor.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281813214]
+<STR>(RIT)
+Es imposible que esto haya
+pasado de forma natural.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486114]
+<STR>(EST_P)
+Es como si algo hubiese explotado...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486114]
+<STR>(KAR)
+Una explosión...
+¿Hay monstruos que
+puedan hacer algo así?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486114]
+<STR>(RAV)
+Los había. Pero fueron
+borrados del mapa.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486114]
+<STR>(EST_P)
+¿Qué quieres decir
+con borrados del mapa?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281813214]
+<STR>(RAV)
+Lo qu'estáis viendo es un
+campo de batalla de la Gran Guerra.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281813214]
+<STR>(KAR)
+¿Qué? ¿En serio?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980974]
+<STR>(EST_P)
+Eso quiere decir...
+que aquí lucharon los
+humanos y los entelechia...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486114]
+<STR>(EST_P)
+Los humanos salieron victoriosos,
+pero apenas quedaron supervivientes.<PAGE>Los detalles de la guerra
+están envueltos en el misterio...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486114]
+<STR>(EST_P)
+Ni siquiera los expedientes oficiales
+del gobierno informan de lo que pasó.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980974]
+<STR>(RIT)
+Así que los entelechia
+hicieron esto a las montañas.<PAGE>Qué poder tan temible.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486114]
+<STR>(YUR)
+Pero es la primera vez que oigo
+que la batalla fuera aquí.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1285406014]
+<STR>(RAV)
+El Imperio ha controlao mucho
+la información de la guerra.
+<PAGE>Tienen secretos hasta debajo de
+las piedras. Ya deberías saberlo.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281813214]
+<STR>(RIT)
+Ya me parecía raro que los
+monstruos hiciesen una guerra
+contra los humanos, pero...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980974]
+<STR>(EST_P)
+Lo que no querían que supiésemos
+era que esos monstruos
+eran los entelechia.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281813214]
+<STR>(KAR)
+Pues sí que sabes del tema, <STR>(RAV).
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281813214]
+<STR>(RAV)
+Si vivís lo suficiente, pasaréis
+por muchas cosas, chavalines.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281813214]
+<STR>(YUR)
+Venga, ya vale de clases de historia.
+Hemos venido aquí
+para buscar a <STR>(JUD_P).
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486114]
+<STR>(EST_P)
+La voz del monstruo
+que acabamos de oír...
+¿Y si <STR>(JUD) ya está en peligro?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486114]
+<STR>(RIT)
+¡Destrozar a ese mamarracho
+del dragón es MI trabajo!<PAGE>¡Nadie lo hará excepto yo!
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281813214]
+<STR>(YUR)
+Ya.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281813214]
+<STR>(EST_P)
+¡Deprisa!

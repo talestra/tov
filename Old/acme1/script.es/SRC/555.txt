@@ -1,0 +1,723 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+<STR>(YUR)
+<VOICE>(VS65_092)¡Duke!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(YUR)
+<VOICE>(VS65_093)Duke, tenemos a los cuatro
+espíritus elementales. Su poder
+puede neutralizar al adephagos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(EST_P)
+<VOICE>(VS65_094)¡No hay razón para sacrificar
+a la gente para destruirlo!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_095)Mirad su tamaño. Cuatro espíritus
+no son nada contra algo así.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(RIT)
+<VOICE>(VS65_096)Son cruciales. El resto lo conseguiremos
+transformando los núcleos de blastia en espíritus.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(KAR)
+<VOICE>(VS65_097)¡Todos y cada uno de los que hay en el mundo!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+<STR>(RAV)
+<VOICE>(VS65_098)Y encima, tó esto pondrá fin
+a la cultura de los blastias
+que tú odias tanto.<PAGE><VOICE>(VS65_099)No'stá mal, ¿eh?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_100)Dudo que los humanos vayan a renunciar
+a los blastias sin protestar.
+¿O acaso pensáis obligarlos?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(JUD)
+<VOICE>(VS65_101)¿No confías en que la gente
+sea capaz de avanzar en sus
+vidas y cambiar?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_102)Los humanos nunca renuncian
+a algo que se encuentra en su poder.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+<STR>(YUR)
+<VOICE>(VS65_103)Así que no piensas escucharnos...<PAGE><VOICE>(VS65_104)Vamos a destruir
+al adephagos a
+nuestra manera.<PAGE><VOICE>(VS65_105)¡Por favor, espera tan solo un poco más!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_106)¿Y ello devolverá al mundo
+a su estado primigenio?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(RIT)
+<VOICE>(VS65_107)¿Eh?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_108)¿Volverá el aer a ser
+controlado por los entelechia?<PAGE><VOICE>(VS65_109)¿Volverá la vida a los tiempos
+en los que la naturaleza
+era la que gobernaba?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(RIT)
+<VOICE>(VS65_110)No...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_111)Vais a cambiar el mundo; nuestra
+Terca Lumireis. ¿Y para qué?<PAGE><VOICE>(VS65_112)Para la conveniencia
+de los humanos.
+Nada más.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(EST_P)
+<VOICE>(VS65_113)¿No has pensado la posibilidad
+de que el mundo puede crecer?<PAGE><VOICE>(VS65_114)Yo creo que el que los entelechia
+se conviertan en espíritus es una
+evolución. ¿No puedes verlo así?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_115)No seré tan presuntuoso como para
+cuestionar las decisiones de los entelechia.<PAGE><VOICE>(VS65_116)No obstante, yo también tomo las mías.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(YUR)
+<VOICE>(VS65_117)¿Así que piensas
+pasar de nosotros
+porque somos humanos?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(RAV)
+<VOICE>(VS65_118)Dices que no puedes confiar en la gente,
+así que piensas renunciar a tó.<PAGE><VOICE>(VS65_119)¡¿Así que cuando es demasiado
+tarde, lo vas a destruir?!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_120)¿Sabéis qué es esta
+torre en realidad?<PAGE><VOICE>(VS65_121)Tárcaron era originalmente
+una ciudad, pero los antiguos
+la convirtieron en un arma.<PAGE><VOICE>(VS65_122)¡Un arma para destruir a los entelechia!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1290184482]
+<STR>(YUR)
+<VOICE>(VS65_123)¡...!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+Duke
+<VOICE>(VS65_124)Para los antiguos incapaces de
+ver el peligro de los blastias,<PAGE><VOICE>(VS65_125)los entelechia, que atacaron dichos
+blastias, no eran si no una molestia.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(KAR)
+<VOICE>(VS65_126)Y entonces el aer se descontroló
+y apareció el adephagos...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+Duke
+<VOICE>(VS65_127)Solo entonces fue cuando los humanos
+escucharon las palabras de los entelechia.
+<PAGE><VOICE>(VS65_128)Nuestro mundo ha sacrificado muchísimo,
+y aun así los humanos han cometido
+la misma ofensa. Y volverán a hacerlo.
+<PAGE><VOICE>(VS65_129)Aquellos que devoran el mundo
+y lo conducen a la ruina.<PAGE><VOICE>(VS65_130)Aquellos que cambian el mundo
+solo para mantener su existencia.<PAGE><VOICE>(VS65_131)¡Son apóstoles de la destrucción,
+mayores que el mismo adephagos!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_132)Le hice un juramento a mi amigo:
+que protegería este mundo.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(JUD)
+<VOICE>(VS65_133)Elucifur...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+Duke
+<VOICE>(VS65_134)Así que Khroma os lo contó...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(YUR)
+<VOICE>(VS65_135)Sí. También nos dijo
+que te detuviéramos.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+<STR>(EST_P)
+<VOICE>(VS65_136)Ella también nos escuchó
+y se convirtió en un espíritu.<PAGE><VOICE>(VS65_137)Por favor, podemos hacer esto juntos...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_138)Ya es suficiente...<PAGE><VOICE>(VS65_139)Si los entelechia han abandonado
+su misión, entonces yo la retomaré.<PAGE><VOICE>(VS65_140)No tengo por qué esperar a ver
+vuestro método. Una vez la fórmula
+esté completa, el mundo se salvará.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(YUR)
+<VOICE>(VS65_141)¡Duke, detente!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+Duke
+<VOICE>(VS65_142)Mientras los humanos imperen, cometerán
+la misma ofensa una y otra vez.<PAGE><VOICE>(VS65_143)Si eso ocurre, sus corazones
+se envilecerán y el futuro será
+más doloroso todavía.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(EST_P)
+<VOICE>(VS65_144)Aunque así sea, este es
+el camino que hemos escogido.<PAGE><VOICE>(VS65_145)¡Aunque nos hieran o nos detengan,
+siempre podremos volver a andar
+mientras no nos rindamos!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+<STR>(RIT)
+<VOICE>(VS65_146)¡Tiene razón!<PAGE><VOICE>(VS65_147)Nunca encontrarás nada nuevo
+si te da miedo cometer errores,
+no conseguirlo.<PAGE><VOICE>(VS65_148)Y a diferencia de ti,
+no hemos escogido este
+camino por nuestra cuenta.<PAGE><VOICE>(VS65_149)Lo hemos elegido todos.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+<STR>(KAR)
+<VOICE>(VS65_150)¡Sí! Puede que ir solo
+sea difícil,<PAGE><VOICE>(VS65_151)pero no estamos solos.
+Si una sola persona es incapaz,
+podemos hacerlo entre todos.<PAGE><VOICE>(VS65_152)¡Al final he podido aprender
+que es posible caminar juntos!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+Duke
+<VOICE>(VS65_153)Puede que eso baste para aquellos
+que tienen un vínculo con los demás.<PAGE><VOICE>(VS65_154)No obstante, siempre habrá aquellos que
+sean incapaces de aceptar un futuro difícil.<PAGE><VOICE>(VS65_155)Estoy seguro de que
+sois conscientes de eso.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+<STR>(JUD)
+<VOICE>(VS65_156)Será difícil,
+pero es la realidad.<PAGE><VOICE>(VS65_157)Pero aceptarán esos cambios, pensarán
+sobre ellos y volverán a cambiar.
+Tanto la gente como el mundo.<PAGE><VOICE>(VS65_158)Así que aunque les lleve décadas,
+o incluso siglos... algún día
+acabarán por escuchar.<PAGE><VOICE>(VS65_159)Ahora estoy segura de ello.<PAGE><VOICE>(VS65_160)Eso es lo que
+significa vivir.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+<STR>(RAV)
+<VOICE>(VS65_161)
+Pos sí. Puede que haya
+cosas que tú quieras
+proteger,<PAGE><VOICE>(VS65_162)pero este anciano quiere ver qué
+le espera a la gente en esta nueva era.<PAGE><VOICE>(VS65_163)Ver cómo los estúpidos cambian.
+Por aquellos que ya no están
+aquí para poder verlo.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1291842115]
+Duke
+<VOICE>(VS65_164)Estamos en total desacuerdo...<PAGE><VOICE>(VS65_165)No obstante, no hay diferencia
+en lo que sentimos por este mundo.
+Qué extraño.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(YUR)
+<VOICE>(VS65_166)No, te equivocas.<PAGE><VOICE>(VS65_167)El futuro que escogemos...
+Lo que vemos para el futuro...
+es diferente.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_168)El futuro debe ser protegido.
+De no hacerlo, nos espera la destrucción.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1291843074]
+<STR>(YUR)
+<VOICE>(VS65_169)El futuro lo creamos nosotros, confiando
+en el camino que hemos escogido.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_170)Es inevitable.<PAGE><VOICE>(VS65_171)¡Venid!
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1291843074]
+Duke
+<VOICE>(VA000_018)Hija de la Luna Llena...
+¿Por qué te interpones en mi camino?
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+<STR>(EST_P)
+<VOICE>(VA000_019)Hace mil años... mis antepasados
+dieron su vida a cambio de proteger
+este mundo.<PAGE><VOICE>(VA000_020)¡Quiero continuar con
+su legado de valentía!
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+Duke
+<VOICE>(VA000_021)Ya deberías haberlo entendido.
+Los Hijos de la Luna Llena no
+pueden vivir en este mundo.<PAGE><VOICE>(VA000_022)Tu deber es, pues, morir
+aquí como hicieron tus
+antepasados: con coraje.
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(EST_P)
+<VOICE>(VA000_023)No eran valientes solo
+por escoger la muerte.<PAGE><VOICE>(VA000_024)Su valor residía en su orgullo por proteger
+este mundo y en su decisión de negarse
+a abandonar toda esperanza.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_025)Hablar es fácil...
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+<STR>(EST_P)
+<VOICE>(VA000_026)Por eso mismo estoy aquí, para
+demostrar mis palabras con actos.
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_027)Ha llegado la hora, pues.
+Muéstrame ese orgullo...<PAGE><VOICE>(VA000_028)¡Intentad derrotarme! ¡Venid!
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_041)Los humanos son los depredadores del mundo.
+No podéis protegerlos a ambos.
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+<STR>(KAR)
+<VOICE>(VA000_042)¡Ahora las cosas son distintas!
+¡El mundo puede cambiar! ¡Para eso
+está la conversión de los espíritus!
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_043)Puede que el mundo pueda
+cambiar, pero la gente no.<PAGE><VOICE>(VA000_044)No puedo permitir que el mundo
+cambie solo porque los humanos
+sean incapaces de hacerlo.
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(KAR)
+<VOICE>(VA000_045)¡La gente puede cambiar!
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_046)Puede que sintamos lo mismo
+por este mundo, pero jamás
+podremos ponernos de acuerdo.
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_047)No me dejáis elección...<PAGE><VOICE>(VA000_048)¡Venid!
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_058)Joven maga... ¿En verdad eres
+capaz de permitir que los
+blastias desaparezcan?
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+<STR>(RIT)
+<VOICE>(VA000_059)No me importa. Lo que contaba
+eran mis convicciones.
+Mi fe en los blastias...<PAGE><VOICE>(VA000_060)De hecho, más bien era amor por ellos.
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+Duke
+<VOICE>(VA000_061)Mas al final, no los apreciabas
+tanto como para dar tu vida por ellos.
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+<STR>(RIT)
+<VOICE>(VA000_062)¿Tú eres tontolaba o qué?
+No se trata de «dar mi vida».<PAGE><VOICE>(VA000_063)Aunque no haya blastias, hay
+muchas cosas en este mundo
+que merece la pena amar.
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_064)Abandonar lo viejo por
+la conveniencia de lo nuevo...
+Quizás eso pueda funcionar...
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_065)Pero yo sí pienso dar mi vida.<PAGE><VOICE>(VA000_066)Aunque deba afrontar el desdén
+de la juventud, ¡daré mi vida
+para proteger este mundo!
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_099)Así que debemos batirnos en duelo...<PAGE><VOICE>(VA000_100)Aunque no haya diferencia alguna
+en lo que sentimos por este mundo.
+Qué extraño.
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(RAV)
+<VOICE>(VA000_101)Yo tampoco lo pillo. ¿A quién
+se le ocurre cargarse un mundo
+tó lleno de preciosas damas?
+
+## POINTER 65 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+Duke
+<VOICE>(VA000_102)Sigues empeñado en fingir estupidez...
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(RAV)
+<VOICE>(VA000_103)¡Oh, desde luego! M'haré el tonto mientras
+esta gran bola de barro con sus bellezones
+necesiten ser salvados.<PAGE><VOICE>(VA000_104)Voy a ir a por todas esta vez.
+Ahora tengo mi corazón decidido
+en vivir la vida y tó eso.
+
+## POINTER 67 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_105)Qué necedad.<PAGE><VOICE>(VA000_106)¡Venid!
+
+## POINTER 68 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+<STR>(JUD)
+<VOICE>(VA000_080)No lo entiendo.<PAGE><VOICE>(VA000_081)Ambos empezamos
+de la misma manera...
+
+## POINTER 69 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_082)Yo tampoco soy capaz de entenderlo.
+Uno pensaría que todos aspiramos
+al mismo futuro.
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+Duke
+<VOICE>(VA000_083)Entonces, ¿por qué?
+
+## POINTER 71 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(JUD)
+<VOICE>(VA000_084)¿Por qué hemos de luchar?...
+
+## POINTER 72 [t:1;r:1;ru:memnoch;user:Lia;time:1290184482]
+Duke
+<VOICE>(VA000_085)...
+
+## POINTER 73 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(JUD)
+<VOICE>(VA000_086)Entonces...<PAGE><VOICE>(VA000_087)Ni siquiera te ves a ti mismo
+viviendo en el futuro que anhelas...
+
+## POINTER 74 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_088)Mi propia existencia también puede
+llevar la ruina al mundo algún día.
+
+## POINTER 75 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(JUD)
+<VOICE>(VA000_089)Qué detalle por tu parte
+sacrificarte de esa manera.
+
+## POINTER 76 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_090)Ya es suficiente... ¡Venid!
+
+## POINTER 77 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+<STR>(RAP)
+<VOICE>(VA000_115)¡Guau!
+
+## POINTER 78 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+Duke
+<VOICE>(VA000_116)¿Incluso un perro está dispuesto
+a defender este mundo?<PAGE><VOICE>(VA000_117)Tal valor y sabiduría
+son dignos de admiración.
+
+## POINTER 79 [t:1;r:1;ru:memnoch;user:Lia;time:1290184482]
+<STR>(RAP)
+<VOICE>(VA000_118)...
+
+## POINTER 80 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_119)No obstante, aunque así sea,
+su decisión es insensata.<PAGE><VOICE>(VA000_120)En el mundo que pienso crear,
+tú seguirías viviendo. ¿Aun así,
+piensas arriesgar tu vida para detenerme?
+
+## POINTER 81 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(RAP)
+<VOICE>(VA000_121)¡Guau!
+
+## POINTER 82 [t:1;r:1;ru:memnoch;user:memnoch;time:1291844414]
+Duke
+<VOICE>(VA000_122)No deseo tu muerte... Pero si
+te empeñas en interponerte en
+mi camino, no me dejas elección...
+
+## POINTER 83 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_123)¡Venid!
+
+## POINTER 84 [t:1;r:1;ru:memnoch;user:memnoch;time:1291843074]
+Duke
+<VOICE>(VS65_172)Ahora comprendo qué es lo
+que vio Phaeroh en vosotros...
+
+## POINTER 85 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(YUR)
+<VOICE>(VS65_173)Tú también eres muy fuerte.
+
+## POINTER 86 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_174)Mmpf. Qué lástima. Desearía
+poder haberos acompañado
+durante más tiempo.<PAGE><VOICE>(VS65_175)Tal vez así las cosas hubieran sido distintas...
+
+## POINTER 87 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(YUR)
+<VOICE>(VS65_176)Todavía estás a tiempo.
+
+## POINTER 88 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VS65_177)Te equivocas. Mi rumbo quedó
+fijado en el momento en el que
+el adephagos cubrió el cielo.
+
+## POINTER 89 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(YUR)
+<VOICE>(VS65_178)¡Maldito capullo cabeza cuadrada!
+
+## POINTER 90 [t:1;r:1;ru:memnoch;user:memnoch;time:1293387331]
+Duke
+<VOICE>(VS65_179)La mejor manera de crear
+un mundo que perdure es
+devolverlo a su estado natural.<PAGE><VOICE>(VS65_180)¡Ese es el camino que he escogido!
+Y daré mi vida por él.
+¡Amigo mío... dame tu fuerza!
+
+## POINTER 91 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_029)Así que este es tu orgullo...
+La valentía de la que hablabas antes...
+<PAGE><VOICE>(VA000_030)No obstante, los anteriores Hijos de la
+Luna Llena vieron que su propia muerte
+representaba la esperanza de la humanidad...<PAGE><VOICE>(VA000_031)¿Estás preparada para dar tu vida
+por tu causa, al igual que ellos?
+
+## POINTER 92 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(EST_P)
+<VOICE>(VA000_032)No voy a morir. Viviré para
+caminar junto con el resto
+de la gente en el nuevo mundo.<PAGE><VOICE>(VA000_033)Incluso contigo.<PAGE><VOICE>(VA000_034)Tú no eres el enemigo contra
+el que deberíamos estar luchando.
+
+## POINTER 93 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+Duke
+<VOICE>(VA000_035)Un futuro para todo el mundo,
+caminando juntos... Eso estaría bien...
+
+## POINTER 94 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(EST_P)
+<VOICE>(VA000_036)Entonces...
+
+## POINTER 95 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+Duke
+<VOICE>(VA000_037)No, ya es tarde. Mi rumbo quedó
+fijado en el momento en el que
+el adephagos cubrió el cielo.
+
+## POINTER 96 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(EST_P)
+<VOICE>(VA000_038)¡Pero...!
+
+## POINTER 97 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+Duke
+<VOICE>(VA000_039)La mejor manera de crear
+un mundo que perdure es
+devolverlo a su estado natural.<PAGE><VOICE>(VA000_040)¡Ese es el camino que he escogido!
+Y daré mi vida por él.
+Amigo mío... ¡Dame tu fuerza!
+
+## POINTER 98 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+Duke
+<VOICE>(VA000_049)Ahora comprendo qué es lo
+que vio Phaeroh en vosotros...
+
+## POINTER 99 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(KAR)
+<VOICE>(VA000_050)¡Nunca conseguirás vencernos!
+
+## POINTER 100 [t:1;r:1;ru:memnoch;user:memnoch;time:1293387331]
+Duke
+<VOICE>(VA000_051)Mmpf. Qué lástima. Ojalá nuestros
+caminos se hubiesen cruzado antes.<PAGE><VOICE>(VA000_052)Tal vez así las cosas hubieran sido distintas.
+
+## POINTER 101 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+<STR>(KAR)
+<VOICE>(VA000_053)¿Habrías aceptado las
+decisiones que hemos tomado?
+
+## POINTER 102 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+Duke
+<VOICE>(VA000_054)No, eso no habría cambiado.
+Hemos tomado sendas distintas
+desde buen principio.
+
+## POINTER 103 [t:1;r:1;ru:memnoch;user:xander;time:1290160433]
+<STR>(KAR)
+<VOICE>(VA000_055)Entonces, supongo que
+debemos luchar...
+
+## POINTER 104 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+Duke
+<VOICE>(VA000_056)La mejor manera de crear
+un mundo que perdure es
+devolverlo a su estado natural.<PAGE><VOICE>(VA000_057)¡Ese es el camino que he escogido!
+Y daré mi vida por él.
+Amigo mío... ¡Dame tu fuerza!
+
+## POINTER 105 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+<STR>(RIT)
+<VOICE>(VA000_067)Lo único que haces es compadecerte
+de ti mismo porque eres incapaz de cambiar.
+Mmpf... Es patético.
+
+## POINTER 106 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+Duke
+<VOICE>(VA000_068)Di lo que quieras.
+Seguiré mi propio camino.
+
+## POINTER 107 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+<STR>(RIT)
+<VOICE>(VA000_069)Probablemente habría dicho
+lo mismo cuando estaba en Aspio.
+
+## POINTER 108 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+Duke
+<VOICE>(VA000_070)No pienso traicionar aquello
+que fui una vez.
+
+## POINTER 109 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+<STR>(RIT)
+<VOICE>(VA000_071)Tampoco me avergüenzo
+de cómo era yo entonces.<PAGE><VOICE>(VA000_072)Soy la persona que soy ahora precisamente
+por la que persona que una vez fui.<PAGE><VOICE>(VA000_073)No cambiamos sin más.
+Lo hacemos a partir de ese punto.
+
+## POINTER 110 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+Duke
+<VOICE>(VA000_074)Eso no es si no un deseo...
+
+## POINTER 111 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+<STR>(RIT)
+<VOICE>(VA000_075)Mmpf. Llámalo como quieras.<PAGE><VOICE>(VA000_076)Bueno, ¿vas a
+rendirte o no?
+
+## POINTER 112 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+Duke
+<VOICE>(VA000_077)Seguiré mi camino
+mientras me queden fuerzas.
+
+## POINTER 113 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+<STR>(RIT)
+<VOICE>(VA000_078)Qué lastima...
+
+## POINTER 114 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+Duke
+<VOICE>(VA000_079)No me arrepiento de nada.
+Moriré por mi cometido.
+Amigo mío... ¡Dame tu fuerza!
+
+## POINTER 115 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+Duke
+<VOICE>(VA000_107)Ahora comprendo qué es lo
+que vio Phaeroh en vosotros...
+
+## POINTER 116 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+<STR>(RAV)
+<VOICE>(VA000_108)Er poderoso héroe de la Gran Guerra
+tiene que estar tó oxidao si está
+perdiendo con un viejo como yo.
+
+## POINTER 117 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+Duke
+<VOICE>(VA000_109)Nuestros caminos se han separado
+durante estos últimos diez años.
+
+## POINTER 118 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+<STR>(RAV)
+<VOICE>(VA000_110)Esos caminos que difieren
+no son ni el tuyo ni el mio.<PAGE><VOICE>(VA000_111)Tan solo está el camino que
+debes seguir y el que no debes.
+
+## POINTER 119 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+Duke
+<VOICE>(VA000_112)Para mí tan solo ha
+habido un único camino...<PAGE><VOICE>(VA000_113)Debo mantener la promesa que le hice
+a Elucifur. Y para ello devolveré este
+mundo a su estado natural.<PAGE><VOICE>(VA000_114)Moriré para cumplir mi promesa.
+Amigo mío... ¡Dame tu fuerza!
+
+## POINTER 120 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+Duke
+<VOICE>(VA000_091)Ahora comprendo qué es lo
+que vio Phaeroh en vosotros...
+
+## POINTER 121 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+<STR>(JUD)
+<VOICE>(VA000_092)Tú también eres muy fuerte...<PAGE><VOICE>(VA000_093)
+¿Cómo puede alguien
+ser tan poderoso,<PAGE><VOICE>(VA000_094)incluso cuando ha decidido
+dar su vida por el mundo?
+
+## POINTER 122 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+Duke
+<VOICE>(VA000_095)Mi fuerza nace de lo que siento por este mundo.
+
+## POINTER 123 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+<STR>(JUD)
+<VOICE>(VA000_096)En realidad quieres vivir.
+Quieres mantener vivos
+esos sentimientos.
+
+## POINTER 124 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+Duke
+<VOICE>(VA000_097)Je, je. También prometí a un
+amigo fallecido que devolvería
+este mundo a su estado natural.
+<PAGE><VOICE>(VA000_098)Y moriré para cumplir mi promesa.
+Amigo mío... ¡Dame tu fuerza!
+
+## POINTER 125 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581397]
+<STR>(RAP)
+<VOICE>(VA000_124)¡Guau, guau!
+
+## POINTER 126 [t:1;r:1;ru:memnoch;user:memnoch;time:1291845771]
+Duke
+<VOICE>(VA000_125)No esperaba que mostraras
+tal fortaleza frente a mi poder...<PAGE><VOICE>(VA000_126)Oh, si fueras humano...
+cuán fuerte podrías haber sido.
+
+## POINTER 127 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581397]
+<STR>(RAP)
+<VOICE>(VA000_127)¡Guau, guau!
+
+## POINTER 128 [t:1;r:1;ru:memnoch;user:xander;time:1290161679]
+Duke
+<VOICE>(VA000_128)Pero te mostraré un poder
+mucho mayor. Lamento que deba
+hacer esto...<PAGE><VOICE>(VA000_129)Ahora, amigo mío... ¡¡Dame tu fuerza!!

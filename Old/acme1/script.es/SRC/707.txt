@@ -1,0 +1,11 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1286375427]
+<STR>(KAR)
+¡Es <STR>(RIT)!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294425880]
+<STR>(RAV)
+Va con una jovenzuela.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294425880]
+<STR>(YUR)
+¡Vamos a ver!

@@ -1,0 +1,49 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290435616]
+<STR>(JUD)
+¡Hola! ¿Puedo ayuda...?
+Oh, <STR>(YUR), eres tú.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290435616]
+<STR>(YUR)
+Oh, ¿<STR>(JUD_P)?
+No te había reconocido.
+¿Qué estás haciendo?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848855]
+<STR>(JUD)
+Estoy a cargo de la tienda de recuerdos.
+Venden un montón de cosas interesantes.
+Es de lo más entretenido.<PAGE>Y no se lo digas a nadie,
+pero también estoy
+vigilando a <STR>(RAV).
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848855]
+<STR>(JUD)
+Creo que <STR>(EST_P) y <STR>(RIT) aún no lo
+han cogido, pero cuando vi cómo se desmayó
+la otra vez, supe lo que había pasado.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290440230]
+<STR>(JUD)
+Tengo que decir que me impresionó
+la poca experiencia que tiene <STR>(RAV).
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290440230]
+<STR>(YUR)
+Así que te diste cuenta, <STR>(JUD_P)...
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290441058]
+<STR>(JUD)
+Oh, ¿en serio?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848855]
+<STR>(YUR)
+No, no, no te llego ni a la suela de
+los zapatos, <STR>(JUD_P). La chica que
+destaca en la tienda de recuerdos.<PAGE>Esa ropa te queda
+de fábula.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848861]
+<STR>(JUD)
+Oh, <STR>(YUR), eres majo y todo eso,
+pero los cumplidos no te servirán de nada.

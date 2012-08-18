@@ -1,0 +1,114 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284191437]
+<STR>(EST_P)
+¿Te importa si nos vamos
+a la habitación de al lado?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1272913392]
+<STR>(YUR)
+Es un poco pequeña, 
+pero como queráis.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284191437]
+<STR>(EST_P)
+¡Oh, esperadme!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1272913392]
+Ted
+¡Bienvenido, <STR>(YUR)!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1272915291]
+<STR>(YUR)
+Tan vital como siempre, Ted.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1272913392]
+Ted
+¿Eh? ¿<STR>(FRE) no 
+está contigo?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1284252648]
+<STR>(YUR)
+Está ocupado con los Caballeros.
+No podía pedirle al gran capitán
+que me ayudara con mis naderías.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284252648]
+Ted
+¿Os habéis peleado otra vez?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:miyu;time:1272913392]
+<STR>(KAR)
+¿Otra vez? ¿<STR>(FRE) y
+<STR>(YUR) se pelean mucho?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1284252648]
+Ted
+Vaya, día sí y día también. <STR>(YUR),
+más te  vale que hagas las paces con él.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1284252648]
+<STR>(YUR)
+La cosa no es tan simple.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1284252648]
+Ted
+¿Que no? ¡Pero si sois más simples
+que el mecanismo de un botijo!<PAGE>Como cuando no pudimos pagar al
+recaudador de impuestos, y no se os
+ocurrió otra que deshaceros de él.
+<PAGE>
+Así de zoquete es vuestra forma de pensar.
+Ni a mí se me ocurrirían soluciones así.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:miyu;time:1277126722]
+<STR>(RAV)
+Pos sí que son simples.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1284252648]
+Ted
+Y también son muy testarudos.
+Si cedieran un poquito entre ellos...
+<PAGE>
+Igual que cuando <STR>(YUR) dejó
+los Caballeros Imperiales...
+Así solo pueden empeorar las cosas.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:miyu;time:1272915291]
+Ted
+Sois incorregibles. 
+Toma, coge esto y ve a 
+arreglar las cosas con <STR>(FRE).
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1284252648]
+<STR>(KAR)
+¿Pan? ¿Por qué?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1284252648]
+Ted
+Porque puede compartirse. <STR>(YUR) y
+<STR>(FRE) lo han compartido todo desde 
+que eran unos renacuajos.<PAGE>
+Como su primera espada. Solo pudieron 
+comprarse una, así que se turnaban 
+todo el día para usarla.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1284252824]
+<STR>(KAR)
+Creo que ya empiezo a entender
+el parecido entre <STR>(YUR) y <STR>(FRE).
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1284252648]
+<STR>(YUR)
+Hemos crecido y vivido juntos en
+el mismo entorno. Es inevitable 
+que nos parezcamos un poco.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1284252824]
+Ted
+Más te vale que la próxima vez
+que te vea os hayáis reconciliado.<PAGE>¡Mi mamá os preparará
+una comilona para entonces!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:miyu;time:1272915291]
+<STR>(YUR)
+Reconciliarme con <STR>(FRE), ¿eh?
+<PAGE>Era más fácil cuando eramos niños...

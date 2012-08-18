@@ -1,0 +1,84 @@
+## POINTER 0
+<STR>(YUR)
+The rain's letting up.
+
+## POINTER 1
+<STR>(EST_P)
+But it's still 
+so gloomy...
+
+## POINTER 2
+<STR>(KAR)
+Yeah... I can't see the sun at all.
+
+## POINTER 3
+<STR>(YUR)
+Whether it's raining or 
+sunny doesn't much affect 
+our adventure, anyway.
+
+## POINTER 4
+<STR>(KAR)
+That's not true! Different 
+monsters come out in 
+different weather.<PAGE>There are monsters who can't stand 
+water, and others that love it.<PAGE>Monsters have a large effect on 
+what we do, don't you think?
+
+## POINTER 5
+<STR>(EST_P)
+<STR>(KAR), it's so nice to have a member of the Hunting 
+Blades with us who knows about these things!
+
+## POINTER 6
+<STR>(YUR)
+Well, regardless, we're going 
+to have to walk in the rain.
+
+## POINTER 7
+<STR>(RIT)
+Not necessarily. The weather might 
+be different in the morning.
+
+## POINTER 8
+<STR>(KAR)
+Yeah, maybe so.<PAGE>The best cure for a gloomy day like this 
+is sleeping it away, nice and cozy.
+
+## POINTER 9
+<STR>(RIT)
+...But tomorrow could be just 
+as cloudy and dismal as today.
+
+## POINTER 10
+<STR>(KAR)
+Way to rain on my parade...
+
+## POINTER 11
+<STR>(EST_P)
+But rainy days aren't 
+always so bad!<PAGE>They say all sorts of special things happen on 
+rainy days that don't happen when it's sunny.
+
+## POINTER 12
+<STR>(KAR)
+Is that something else that you read 
+in your books? Is that true...?
+
+## POINTER 13
+<STR>(EST_P)
+...That's what they say.
+
+## POINTER 14
+<STR>(YUR)
+Well, for now we'll just have to get some 
+sleep and wait for the sky to clear up.
+
+## POINTER 15
+<STR>(RIT)
+Tomorrow might be just 
+as rainy as today!
+
+## POINTER 16
+<STR>(KAR)
+<STR>(RIT)... You're pretty mean, you know that?

@@ -1,0 +1,312 @@
+## POINTER 374 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Champán
+
+## POINTER 375 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Habilidad de principiante: Provoca una corriente de agua
+que burbujea a los pies del enemigo.
+
+## POINTER 376 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262447808]
+Expansión nula
+
+## POINTER 377 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Habilidad de principiante: Recoge la oscuridad que rodea
+a los enemigos y usa su poder para destruirlos.
+
+## POINTER 378 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368470]
+Salpicadura
+
+## POINTER 379 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263080684]
+Habilidad intermedia: Provoca una corriente
+de agua que cae sobre el enemigo.
+
+## POINTER 380 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368470]
+Estalagmita
+
+## POINTER 381 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Habilidad intermedia: Invoca rocas afiladas
+que surgen de debajo del enemigo.
+
+## POINTER 382 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Campo de tracción
+
+## POINTER 383 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263080684]
+Habilidad intermedia: Eleva en el aire a los enemigos que se
+encuentren en la zona para después estamparlos contra el suelo.
+
+## POINTER 384 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368470]
+Portal negativo
+
+## POINTER 385 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Habilidad intermedia: Invoca una dimensión maligna
+que bloquea el movimiento del enemigo.
+
+## POINTER 386 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Llama espiral
+
+## POINTER 387 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Habilidad intermedia: Concentra fuego puro
+y lo lanza contra el enemigo.
+
+## POINTER 388 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368470]
+Maremoto
+
+## POINTER 389 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Habilidad avanzada: Genera una gigantesca ola
+que aniquila a todos los enemigos en una amplia zona.
+
+## POINTER 390 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Dolor iracundo
+
+## POINTER 391 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Habilidad avanzada: Invoca las fuerzas de la oscuridad
+para hacer aparecer una gran lanza que ensarta al enemigo.
+
+## POINTER 392 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263080684]
+Hoja giratoria
+
+## POINTER 393 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267477447]
+Habilidad avanzada: Rebana a cualquier enemigo
+que alcance esta mística espada.
+
+## POINTER 394 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262427746]
+Terremoto
+
+## POINTER 395 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Habilidad avanzada: Desata el poder oculto
+de la tierra para aplastar al enemigo.
+
+## POINTER 396 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Llamarada carmesí
+
+## POINTER 397 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Habilidad avanzada: Invoca una gran columna de fuego
+para incinerar a los enemigos de la zona.
+
+## POINTER 398 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368552]
+Meteoritos
+
+## POINTER 399 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Habilidad avanzada: Invoca grandes meteoritos que caen
+de los cielos creando una gran destrucción a su paso.
+
+## POINTER 400 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368552]
+Erupción
+
+## POINTER 401 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264772630]
+Arte modificado: Causa una erupción volcánica
+que incinera desde abajo a los enemigos cercanos.
+
+## POINTER 402 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Hiedra arrasadora
+
+## POINTER 403 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Arte modificado: Invoca una hiedra espinosa
+que atrapa al enemigo.
+
+## POINTER 404 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Lanza demoníaca
+
+## POINTER 405 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264783323]
+Arte modificado: Desata una velocísima
+lanza del mal sobre el enemigo.
+
+## POINTER 406 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Láser acuoso
+
+## POINTER 407 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Arte modificado: Provoca una corriente de agua
+que arrasa a los enemigos desde debajo.
+
+## POINTER 408 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263085112]
+Lancero gélido
+
+## POINTER 409 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Arte modificado: Arroja lanzas de hielo al enemigo.
+
+## POINTER 410 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267477447]
+Asta amotinadora
+
+## POINTER 411 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Arte modificado: Hace que rocas afiladas
+aparezcan a los pies de los enemigos.
+
+## POINTER 412 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Gato dorado
+
+## POINTER 413 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Arte modificado: Deja caer sobre los enemigos un enorme gato de oro.
+Las monedas que se dispersan dependen del gald que posees.
+
+## POINTER 414 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Dragón de fuego
+
+## POINTER 415 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Arte modificado: Invoca un dragón de fuego
+que arrasa a los enemigos.
+
+## POINTER 416 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Aullido sangriento
+
+## POINTER 417 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267477447]
+Arte modificado: Invoca a las fuerzas de la oscuridad
+destruyendo a todo aquel que quede atrapado en su campo de fuerza.
+
+## POINTER 418 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262903296]
+Espada voltaica
+
+## POINTER 419 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262446468]
+Arte modificado: Invoca una espada de trueno que cae
+sobre los enemigos y provoca una explosión de relámpagos.
+
+## POINTER 420 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262447808]
+Impulso místico
+
+## POINTER 421 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264783323]
+Arte explosivo: Invoca una poderosa fuerza
+a los pies del enemigo y ataca con explosiones de luz.
+
+## POINTER 422 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262447808]
+Impulso embravecido
+
+## POINTER 424 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262447808]
+Impulso ruinoso
+
+## POINTER 426 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262447808]
+Impulso flotante
+
+## POINTER 428 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263081625]
+Impulso difusivo
+
+## POINTER 430 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1254218913]
+Catástrofe ancestral
+
+## POINTER 432 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262449563]
+Conjuro de venganza / Bola de fuego
+
+## POINTER 434 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262449563]
+Conjuro de venganza / Champán
+
+## POINTER 436 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262449563]
+Conjuro de venganza / Estallido rocoso
+
+## POINTER 438 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262449563]
+Conjuro de venganza / Expansión nula
+
+## POINTER 440 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal - ○
+
+## POINTER 442 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal - ↑○
+
+## POINTER 444 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal - ←→○
+
+## POINTER 446 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal - ↓○
+
+## POINTER 448 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal - En salto - ○
+
+## POINTER 450 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal - En salto - ↓○
+
+## POINTER 452 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal secundario - ○
+
+## POINTER 454 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal secundario - ↑○
+
+## POINTER 456 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal secundario - ←→○
+
+## POINTER 458 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal secundario - ↓○
+
+## POINTER 460 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal secundario - En salto - ○
+
+## POINTER 462 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque normal secundario - En salto - ↓○
+
+## POINTER 464 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345950]
+Ataque en movimiento libre
+
+## POINTER 466 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262352974]
+Ataque letal azul
+
+## POINTER 468 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262352974]
+Ataque letal rojo
+
+## POINTER 470 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262352974]
+Ataque letal verde
+
+## POINTER 472 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262352974]
+Lluvia
+
+## POINTER 473 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264783323]
+Arte básico: Dispara una flecha de luz a los enemigos delanteros.
+Causa una explosión en los enemigos con Rotura de guardia.
+
+## POINTER 474 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262450861]
+Buqué
+
+## POINTER 475 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264783323]
+Arte básico: Dispara una flecha al corazón
+del enemigo. Lo deja temporalmente Hechizado.
+
+## POINTER 476 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262450861]
+Serpiente
+
+## POINTER 477 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262450861]
+Arte básico: Dispara una flecha al suelo que explosiona
+cuando un enemigo pasa por encima.
+
+## POINTER 478 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262450861]
+Lucero de los cielos
+
+## POINTER 479 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264783323]
+Arte básico: Dispara una flecha al aire
+que cae sobre el enemigo instantes después.
+
+## POINTER 480 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1262365700]
+Doblete 
+
+## POINTER 481 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264783323]
+Arte básico: Golpea dos veces con tu espada y tu puñal. 
+
+## POINTER 482 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262450861]
+Disparo de amor
+
+## POINTER 483 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264783323]
+Arte básico: Dispara una flecha que recupera
+el HP de un aliado. ¿Puedes sentir el amor?
+
+## POINTER 484 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262450861]
+Cazadora oscura
+
+## POINTER 485 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262450861]
+Arte básico: Dispara una flecha que persigue
+lentamente a un enemigo.
+
+## POINTER 486 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262450861]
+Serpiente violeta
+
+## POINTER 487 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1266172025]
+Arte básico: Dispara en cuclillas una flecha al enemigo.
+El ataque cambia según la distancia si cierta habilidad está activada.
+
+## POINTER 488 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262450861]
+Como bailar
+
+## POINTER 489 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262450861]
+Arte arcano: Gira sobre ti mismo blandiendo tus armas.
+
+## POINTER 490 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262450861]
+Instante cian
+
+## POINTER 491 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264783323]
+Arte arcano: Dispara flechas a tu alrededor
+para alcanzar a todos los enemigos.
+
+## POINTER 492 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267477599]
+Lágrima celestial

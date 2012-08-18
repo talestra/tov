@@ -1,0 +1,62 @@
+## POINTER 0
+Mimi
+You never learn, do you? 
+All right, you're on!
+
+## POINTER 1
+
+Oh, you came again! Can I ask you to help 
+with some things around the tavern?
+
+## POINTER 2
+
+Hold on, who are 
+all these people?
+
+## POINTER 3
+
+Oh, Mimi! Did you 
+just get back?
+
+## POINTER 4
+Mimi
+That's right. I have some 
+free time again, so I thought 
+I'd come and help out.<PAGE>What's this I hear about new 
+uniformed employees helping 
+you with work around here?!
+
+## POINTER 5
+
+Calm down, Mimi. I didn't know when 
+you'd come back, so I was just getting 
+them to help out until you did.
+
+## POINTER 6
+<STR>(RIT)
+It's not like we've been trying 
+to take your job or anything. 
+You don't have to get so mad.
+
+## POINTER 7
+<STR>(RAV)
+There's no need to 
+argue, right? Let's 
+be friends!
+
+## POINTER 8
+Mimi
+No way! We need to 
+settle this, now!
+
+## POINTER 9
+
+Once that girl gets 
+going, she's deaf 
+to reason...
+
+## POINTER 10
+Mimi
+All right? Okay, then we'll have 
+a competition to see who's the better 
+server! Put on your uniforms!

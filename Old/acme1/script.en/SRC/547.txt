@@ -1,0 +1,161 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS64_119)Can't sleep?
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS64_120)What about you?
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS64_121)Oh, I was just out talking 
+with Ba'ul and it got late.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS64_122)Well I was just checking to make sure 
+my calculations were correct.
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS64_123)Hehe.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS64_124)What?
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS64_125)Oh, nothing.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS64_126)...I hate it when 
+you say that.
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS64_127)That's strange. I don't 
+mean anything by it.
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS64_128)Hey. What are you going 
+to do after this is over?<PAGE><VOICE>(VS64_129)If all goes right, all the 
+blastia will stop working. 
+Including hermes blastia.
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS64_130)Right...
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS64_131)You won't have 
+anything to do.
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS64_132)I guess not...
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS64_133)That's all I had.<PAGE><VOICE>(VS64_134)Ba'ul was my only friend. Destroying 
+hermes blastia was my only purpose.<PAGE><VOICE>(VS64_135)I mean, I had my 
+reasons, but...
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS64_136)But?
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS64_137)After traveling around with you all, I 
+guess...I don't really care anymore.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS64_138)You're just gonna drop it like that?
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS64_139)What are you going to 
+do? You lived for your 
+blastia research.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS64_140)Th-there's tons of stuff 
+I could study.<PAGE><VOICE>(VS64_141)Besides...I realized there 
+are things I can believe 
+in besides blastia.<PAGE><VOICE>(VS64_142)I don't have any family, so 
+I don't...but...I kinda like, 
+you know, how we are.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS64_143)Hey. That's just between us. 
+You can't tell anybody.
+
+## POINTER 20
+<STR>(JUD)
+<VOICE>(VS64_144)I won't. I promise.<PAGE><VOICE>(VS64_145)..Heh heh. It's fun to have 
+secrets with someone.
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS64_146)You've changed. You never 
+would have said anything like 
+that when we first met.
+
+## POINTER 22
+<STR>(JUD)
+<VOICE>(VS64_147)*Sigh* All the different people, 
+different things on this 
+journey... You know?
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS64_148)Yeah, I do. I never dreamed 
+I'd end up like this... 
+I don't want to go back.
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS64_149)Me neither.
+
+## POINTER 25
+<STR>(JUD)
+<VOICE>(VS64_150)When everything's done...maybe 
+I'll just travel the 
+world with Ba'ul.
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS64_151)That's nice. Hey, 
+take <STR>(EST_P) too.<PAGE><VOICE>(VS64_152)There's still a lot in this 
+world she should see.
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VS64_153)You're not coming? It'll 
+be so lonely without you.
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VS64_154)Uh... W-well, I 
+guess I could...
+
+## POINTER 29
+<STR>(JUD)
+<VOICE>(VS64_155)Well, if we're going to do that, first 
+we have to protect the world.
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS64_156)Of course. We'll 
+show that thing.
+
+## POINTER 31
+<STR>(JUD)
+<VOICE>(VS64_157)Yes. We certainly will.

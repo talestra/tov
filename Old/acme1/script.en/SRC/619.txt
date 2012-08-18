@@ -1,0 +1,139 @@
+## POINTER 0
+<STR>(KAR)
+Hey! Look, over there!
+
+## POINTER 1
+Sebastian
+S-s-somebody, help me...
+
+## POINTER 2
+<STR>(YUR)
+Sebastian... So 
+this is where you've 
+been hiding.
+
+## POINTER 3
+<STR>(RIT)
+Good grief. Nothing's ever easy, is it?
+
+## POINTER 4
+Sebastian
+Y-you saved my life...
+
+## POINTER 5
+<STR>(RIT)
+So, where'd you stash 
+all the stuff you 
+ran off with?
+
+## POINTER 6
+Sebastian
+I-I don't know what you're talking about...
+
+## POINTER 7
+<STR>(JUD)
+We're talking about the items you stole 
+from your mistress, of course.
+
+## POINTER 8
+Sebastian
+Omigosh, stop...!<PAGE>I'll talk, I'll talk!<PAGE>I was just on my way to get them. 
+I've tucked them away where 
+nobody would bother looking.
+
+## POINTER 9
+<STR>(EST_P)
+A place no one 
+would look...?
+
+## POINTER 10
+Sebastian
+I put them smack dab in the middle 
+of the ruins of an old town 
+on the Tolbyccian continent.
+
+## POINTER 11
+<STR>(KAR)
+I wonder if he means Caer Bocram.
+
+## POINTER 12
+<STR>(YUR)
+...That's gotta be it. I don't suppose there was 
+a secret manual with the rest of the stuff.
+
+## POINTER 13
+Sebastian
+Secret manual...? You mean 
+that stone tablet engraved 
+with the ancient writing?
+
+## POINTER 14
+<STR>(KAR)
+A stone...tablet...?
+
+## POINTER 15
+Sebastian
+There was a black stone tablet with a 
+bunch of stuff written on it in red, but 
+it wasn't anything I could read...
+
+## POINTER 16
+<STR>(JUD)
+Are you sure that was all?
+
+## POINTER 17
+Sebastian
+That's all I can think of... 
+The rest was just money 
+and a few paintings...
+
+## POINTER 18
+<STR>(YUR)
+Then that just might be the 
+secret manual after all.
+
+## POINTER 19
+<STR>(EST_P)
+I had thought a manual would be 
+something more like a book.
+
+## POINTER 20
+<STR>(KAR)
+Hey...! 
+Wait...!<PAGE>A-aren't we going after him?!
+
+## POINTER 21
+<STR>(YUR)
+We're not under any obligation 
+to bring him in.
+
+## POINTER 22
+<STR>(RAV)
+We got the info we needed, so I'd 
+say we're still par for the course.
+
+## POINTER 23
+<STR>(JUD)
+I suppose he isn't our concern, then.<PAGE>At any rate, he's bound to have 
+a tough time of it, running off 
+on his own in a place like this.
+
+## POINTER 24
+<STR>(RIT)
+Heh, maybe you're right. I guess he'll 
+just be getting what he deserves.
+
+## POINTER 25
+<STR>(YUR)
+So our next stop 
+should be Caer 
+Bocram, then.
+
+## POINTER 26
+<STR>(EST_P)
+With any luck we'll finally 
+get a hold of the manual.
+
+## POINTER 27
+<STR>(KAR)
+Yeah.

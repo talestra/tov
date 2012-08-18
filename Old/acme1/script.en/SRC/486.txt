@@ -1,0 +1,97 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS50_116)What're you doing, <STR>(JUD_P)?
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS50_117)I'm trying to see if I can 
+contact Phaeroh again.<PAGE><VOICE>(VS50_118)If Zaude is connected to the 
+ancient catastrophe, Phaeroh 
+might know something about it.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS50_119)Isn't he gonna 
+ask about <STR>(EST_P)?
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS50_120)I'll tell him it looks like 
+everything will be okay.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS50_121)All right. Thanks.
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS50_122)You know, the only real goal 
+I've had in life has been to 
+destroy the Hermes blastia.<PAGE><VOICE>(VS50_123)I didn't have to think about other 
+things while I was doing that.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS50_124)Other things?
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS50_125)Oh... This world, me, lots of things.<PAGE><VOICE>(VS50_126)Had I never met <STR>(EST_P), I 
+might still be flying around with 
+Ba'ul, not thinking of anything.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS50_127)Phaeroh said you'd changed, too.
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS50_128)Don't get me wrong. I'm telling 
+him <STR>(EST_P) will be all right 
+because I really believe it.<PAGE><VOICE>(VS50_129)I have no intention of ignoring 
+the blastia or the aer.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS50_130)Is that part of the "lots of 
+things" you mentioned?
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS50_131)...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS50_132)Sorry. Forget I said that.
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS50_133)I won't kill <STR>(EST_P). Nor will 
+I let her be killed. I also 
+can't let Alexei go on.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS50_134)Okay.<PAGE><VOICE>(VS50_135)...We head out 
+tomorrow morning. 
+Just get back by then.
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS50_136)Understood.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS50_137)<STR>(JUD_P).
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS50_138)Hm?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS50_139)Let's win this one.
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS50_140)Okay.

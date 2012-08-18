@@ -1,0 +1,319 @@
+## POINTER 96
+Go to the next page
+
+## POINTER 97
+End
+
+## POINTER 98
+End
+
+## POINTER 99
+Start
+
+## POINTER 100
+Start
+
+## POINTER 101
+????
+
+## POINTER 102
+ x
+
+## POINTER 103
+You cannot open this due
+to a mysterious force...
+
+## POINTER 104
+You can exit if you use this.
+Do you want to exit?
+
+## POINTER 105
+You cannot carry anymore.
+
+## POINTER 106
+You cannot advance further
+due to a special force. You can hear the sounds
+of monsters in this world...
+
+## POINTER 107
+You need a large amount of Gald
+to advance further...
+
+## POINTER 108
+1st Floor
+2nd Floor
+3rd Floor
+Cancel
+
+## POINTER 109
+The blastia freight lift has been unlocked.
+
+## POINTER 110
+The control for the blastia
+freight lift is locked.
+
+## POINTER 111
+A control panel for a freight
+lift used to move blastia.
+Move blastia?
+
+## POINTER 112
+Move
+Cancel
+
+## POINTER 113
+Stop
+Cancel
+
+## POINTER 114
+Move the blastia lift?
+
+## POINTER 115
+Upper Level
+Ground Floor
+Lower Level
+Cancel
+
+## POINTER 116
+Holy water shall return to
+the heavens when the power
+of creation is offered to
+the Blue Stone upon the pedestal.
+
+## POINTER 117
+The statue is blocking you from going down.
+
+## POINTER 118
+The statue is blocking the way.
+
+## POINTER 119
+Reset
+Stop
+Continue
+
+## POINTER 120
+Switch with <0B>(0)?
+
+## POINTER 121
+Prize Exchange
+
+## POINTER 122
+Exchange prize.
+
+## POINTER 123
+You don't have enough chips.
+
+## POINTER 124
+Try the gel toy dispenser for 10 chips?
+
+## POINTER 125
+Try the bottle toy dispenser for 50 chips?
+
+## POINTER 126
+Try the weapon toy dispenser for 100 chips?
+
+## POINTER 127
+Try the food toy dispenser for 500 chips?
+
+## POINTER 128
+Try the Yumanju toy dispenser for 500 Gald?
+
+## POINTER 129
+Buy a drink
+for 120 Gald?
+
+## POINTER 130
+You cannot carry anymore items.
+
+## POINTER 131
+You are not signed in to a gamer profile.
+
+## POINTER 132
+??????
+
+## POINTER 133
+Hurry and go after Ragou.
+
+## POINTER 134
+You do not have enough Gald to exchange.
+
+## POINTER 135
+You do not have enough Grade to exchange.
+
+## POINTER 136
+You'll need Chips to play around in the 
+gym. Chips can be exchanged for Gald 
+and Grade but not vice versa.
+ 
+Chips you own will be saved and 
+can be used on your next visit.
+
+## POINTER 137
+Start?
+
+## POINTER 138
+Explanation
+
+## POINTER 139
+Confirm
+
+## POINTER 140
+You cannot carry
+anymore chips.
+
+## POINTER 141
+Rate
+
+## POINTER 142
+Enter the Sands of Kogorh (South)?
+
+## POINTER 143
+Enter the Sands of Kogorh (North)?
+
+## POINTER 144
+Enter the desert
+Stay on field
+Cancel
+
+## POINTER 145
+It is full of <STR>(FRE)'s belongings which
+is what has been used from youth in downtown.
+
+## POINTER 146
+Some of <STR>(FRE)'s belongings.
+There's a letter sealed with a heart-shaped sticker.
+
+## POINTER 147
+<STR>(FRE)'s clothes
+are neatly laid out.
+
+## POINTER 148
+Remove <0B>(0) from member?
+
+## POINTER 149
+You have not selected a storage device.
+You need a storage device with at least
+(<0B>(0)KB) of free space to save.
+Do you want to start the game anyway?
+
+## POINTER 150
+
+
+## POINTER 151
+X
+
+## POINTER 152
+None
+
+## POINTER 153
+Insufficient space to save a new game.
+At least (<0B>(0)KB) of free space is required to save data.
+You can overwrite existing save data.
+Start game anyway?
+
+## POINTER 154
+You've acquired a "<0B>(0)."
+
+## POINTER 155
+Obtained
+maid costume.
+
+## POINTER 156
+I was looking for that maid costume.
+Can I have it back?
+I'll give you this in return.
+
+## POINTER 157
+You have lost
+maid costume.
+
+## POINTER 158
+Obtained 1000 Gald
+
+## POINTER 159
+Today's suggested synthesis
+
+## POINTER 160
+Casual ear-grabber
+
+## POINTER 161
+Synthesis info
+
+## POINTER 162
+Weapon synthesis
+
+## POINTER 163
+Materials dropped by bosses
+
+## POINTER 164
+Sub-weapons
+
+## POINTER 165
+Synthesizing with equipped weapons
+
+## POINTER 166
+Attachment parts
+
+## POINTER 167
+Half damage
+
+## POINTER 168
+Level up Over Limit
+
+## POINTER 169
+Giganto monsters
+
+## POINTER 170
+Skills that can alter artes
+
+## POINTER 171
+Weather conditions
+
+## POINTER 172
+Next
+
+## POINTER 173
+Obtained chips:
+<0B>(0)
+
+## POINTER 174
+I've got to get moving...
+
+## POINTER 175
+Lock opened
+
+## POINTER 176
+Scenario Chapter 1
+
+## POINTER 177
+Scenario Chapter 2
+
+## POINTER 178
+Scenario Chapter 3
+
+## POINTER 179
+Battle
+
+## POINTER 180
+Cooking
+
+## POINTER 181
+Chat
+
+## POINTER 182
+Download
+
+## POINTER 183
+Skits
+
+## POINTER 184
+Sound
+
+## POINTER 185
+Movie
+
+## POINTER 186
+Town
+
+## POINTER 187
+Dungeon

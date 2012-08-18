@@ -1,0 +1,136 @@
+## POINTER 0
+<STR>(EST_P)
+Might I help heal 
+your wounds?
+
+## POINTER 1
+
+Oh my, you can use 
+healing artes?<PAGE>Why, that would be excellent! 
+...But I'm afraid we don't 
+have very much money...
+
+## POINTER 2
+<STR>(EST_P)
+No no, I don't need any money.
+
+## POINTER 3
+
+Amazing... The pain is all 
+gone. Th-thank you. Thank 
+you so very much.
+
+## POINTER 4
+<STR>(EST_P)
+Ah, uh, please, don't mention it...
+
+## POINTER 5
+
+My heavens, what amazing 
+healing artes you have...
+
+## POINTER 6
+
+How can we ever thank you?
+
+## POINTER 7
+<STR>(EST_P)
+No, really, think nothing of it.
+
+## POINTER 8
+
+What a humble young lady. I 
+wish the Imperial Knights could 
+follow your example.
+
+## POINTER 9
+
+Not a chance! The Knights refuse 
+to lift a finger to protect 
+us from the monsters!
+
+## POINTER 10
+
+Well, I guess the empire 
+couldn't care less what 
+happens to us here.
+
+## POINTER 11
+<STR>(EST_P)
+No...th-that's not true...
+
+## POINTER 12
+
+Ah, but that one knight sure 
+was different, wasn't he?
+
+## POINTER 13
+
+Yes, that young man. If 
+not for him, we would 
+have all been lost.<PAGE>The barrier weakened earlier than usual 
+this year, and we were attacked before 
+the guild could come to protect us.<PAGE>There was a knight who happened to be passing 
+through our town on a pilgrimage. He and his 
+brigade drove off all the monsters.
+
+## POINTER 14
+<STR>(EST_P)
+A knight on a pilgrimage...
+
+## POINTER 15
+<STR>(YUR)
+Was this knight named 
+<STR>(FRE), by any chance?
+
+## POINTER 16
+
+Yes, his name was <STR>(FRE) Scifo.
+
+## POINTER 17
+<STR>(EST_P)
+Is he still in the city?!
+
+## POINTER 18
+
+No, he left the village afterwards in search 
+of a mage who could fix the barrier.
+
+## POINTER 19
+<STR>(YUR)
+Do you know where he went?
+
+## POINTER 20
+
+It looked like he was headed east, but 
+beyond that I couldn't tell you...
+
+## POINTER 21
+<STR>(EST_P)
+I see.<PAGE>So we can wait here, and 
+<STR>(FRE) will come to us.
+
+## POINTER 22
+<STR>(YUR)
+Looks like we've caught up with him. 
+Don't you feel better now?
+
+## POINTER 23
+<STR>(EST_P)
+Yes...I won't be able to relax until 
+I see him, but I guess I feel better.
+
+## POINTER 24
+<STR>(YUR)
+I think I'll go have a look at this 
+famous tree. Wanna come with?
+
+## POINTER 25
+<STR>(EST_P)
+Ah, yes!<PAGE><STR>(YUR), you don't mind? You're okay not 
+going after the blastia core thief?
+
+## POINTER 26
+<STR>(YUR)
+I can spare enough time to 
+look at a tree, at least.

@@ -1,0 +1,135 @@
+## POINTER 0
+<STR>(YUR)
+So you weren't able to meet 
+Phaeroh, after all.
+
+## POINTER 1
+<STR>(EST_P)
+But I learned about some 
+very important things.<PAGE>The Child of the Full Moon, 
+and the Entelexeia...
+
+## POINTER 2
+<STR>(YUR)
+But the only new thing we learned 
+was what those words mean.<PAGE>As for the reason Phaeroh's trying to 
+kill you...it seems we won't know unless 
+we go and ask him directly.
+
+## POINTER 3
+<STR>(EST_P)
+But you heard what he was saying. 
+If I go to meet Phaeroh, he'll 
+just wipe me out.
+
+## POINTER 4
+<STR>(YUR)
+It looks like we'll never 
+know the truth, then...
+
+## POINTER 5
+<STR>(EST_P)
+After all this...<PAGE>It's like I'm being 
+told that I should 
+just give up...
+
+## POINTER 6
+<STR>(YUR)
+No, no way.
+
+## POINTER 7
+<STR>(EST_P)
+...Maybe...
+
+## POINTER 8
+<STR>(YUR)
+Huh...?
+
+## POINTER 9
+<STR>(EST_P)
+Maybe what I'm trying so hard 
+to figure out...isn't really that 
+important to know at all.
+
+## POINTER 10
+<STR>(YUR)
+What do you mean?
+
+## POINTER 11
+<STR>(EST_P)
+If I'd never met you, <STR>(YUR), 
+and I'd just kept living my 
+life in that castle,<PAGE>I would have lived without ever knowing 
+about the Child of the Full Moon, or 
+the Entelexeia, or any of that.<PAGE>So maybe I could just go on 
+living without knowing why 
+Phaeroh wants me dead.
+
+## POINTER 12
+<STR>(YUR)
+So you're saying you should 
+just go back to the capital?
+
+## POINTER 13
+<STR>(EST_P)
+I think that's definitely 
+an option.
+
+## POINTER 14
+<STR>(YUR)
+...If that's what 
+you want to do, I 
+won't stop you.
+
+## POINTER 15
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 16
+<STR>(YUR)
+Our contract with you is null and 
+void at this point, after all.
+
+## POINTER 17
+<STR>(EST_P)
+...That's true.
+
+## POINTER 18
+<STR>(YUR)
+It's just...I don't really 
+like hypothetical situations. 
+They're not real life.<PAGE>And I'm not too good at 
+pretending to forget things 
+that I already know.
+
+## POINTER 19
+<STR>(EST_P)
+...
+
+## POINTER 20
+<STR>(YUR)
+If you can do that, then I 
+don't have any problem with 
+it. But can you really?
+
+## POINTER 21
+<STR>(EST_P)
+Then, I...<PAGE>I can't do that, 
+either.<PAGE>But I have no idea what 
+I should do in this sort 
+of situation...
+
+## POINTER 22
+<STR>(YUR)
+You want to know the 
+truth, but you don't 
+know what to do...<PAGE>...That'd be a good summary 
+of your situation...right?
+
+## POINTER 23
+<STR>(EST_P)
+Yes...
+
+## POINTER 24
+<STR>(YUR)
+Gotcha.

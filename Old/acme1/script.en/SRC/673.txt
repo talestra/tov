@@ -1,0 +1,103 @@
+## POINTER 0
+<STR>(FRE)
+Hey, <STR>(RAP).
+
+## POINTER 1
+<STR>(EST_P)
+<STR>(RAP) really likes 
+<STR>(FRE), doesn't he? 
+He's so lucky...
+
+## POINTER 2
+<STR>(YUR)
+Well, <STR>(RAP) also thinks 
+of <STR>(FRE) as his owner.<PAGE>A long time ago, <STR>(FRE) and I used 
+to look after <STR>(RAP) together.
+
+## POINTER 3
+<STR>(EST_P)
+Did <STR>(RAP) use to 
+have such a cold 
+personality?
+
+## POINTER 4
+<STR>(YUR)
+Yeah, he did.
+
+## POINTER 5
+<STR>(EST_P)
+So how did you and <STR>(FRE) 
+get to be such good 
+friends with him?
+
+## POINTER 6
+<STR>(YUR)
+We just took care of him.<PAGE>One time, <STR>(RAP) got hurt really badly. 
+<STR>(FRE) and I stayed up all night tending
+his wounds and making sure he was okay.
+
+## POINTER 7
+<STR>(JUD)
+Is that maybe how <STR>(RAP) 
+got his scar?
+
+## POINTER 8
+<STR>(YUR)
+Yeah.
+
+## POINTER 9
+<STR>(KAR)
+Come to think of it, didn't you 
+say that <STR>(RAP) got his blastia 
+as a keepsake of his old owner?<PAGE>I wonder if his bodhi blastia 
+has anything to do with the 
+time that he got hurt...
+
+## POINTER 10
+<STR>(YUR)
+Hmmm, good question.
+
+## POINTER 11
+<STR>(EST_P)
+Were you the one who gave <STR>(RAP) his name?
+
+## POINTER 12
+<STR>(YUR)
+Nah, that was his last owner. <STR>(RAP) seems 
+to like his own name, so I didn't really 
+have the heart to give him a new one.
+
+## POINTER 13
+<STR>(EST_P)
+You're so nice, <STR>(YUR).
+
+## POINTER 14
+<STR>(RAV)
+Maybe <STR>(RAP)'s got a promise ta keep 
+ta his old owner, and that's why he 
+acts so unfriendly all the time.<PAGE>A hard-boiled hound who's still 
+loyal ta his old owner...sounds 
+pretty cool, dontcha think?
+
+## POINTER 15
+<STR>(RIT)
+He's playing with <STR>(FRE)!
+
+## POINTER 16
+<STR>(RAV)
+...Maybe he's just 
+a big softy inside?
+
+## POINTER 17
+<STR>(FRE)
+You've gotten so 
+strong, <STR>(RAP)!
+
+## POINTER 18
+<STR>(FRE)
+Take good care 
+of <STR>(YUR), okay?
+
+## POINTER 19
+<STR>(RAP)
+Woof!

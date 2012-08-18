@@ -1,0 +1,169 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS59_122)Whew... Finally, half-way up...
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS59_123)If the air were a little more stable, 
+I could get Ba'ul down here...
+
+## POINTER 2
+
+<VOICE>(VS59_124)My consciousness... This is what 
+it means to become a spirit...
+
+## POINTER 3
+
+<VOICE>(VS59_125)...Oh, to think of all the things 
+that were hidden from me...
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS59_126)Guess she's 
+awake. Um...
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS59_127)So...would you still prefer 
+to be called Khroma?
+
+## POINTER 6
+
+<VOICE>(VS59_128)No... I am no longer 
+the Entelexeia known 
+as Khroma.<PAGE><VOICE>(VS59_129)You should give me a new name.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS59_130)Well... How 
+about Sylph?<PAGE><VOICE>(VS59_131)It means the binder of winds.
+
+## POINTER 8
+
+<VOICE>(VS59_132)Sylph... Very well, that 
+shall be my name.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS59_133)OK, Sylph. Nice to 
+meet you...again.
+
+## POINTER 10
+Sylph
+<VOICE>(VS59_134)A pleasure to meet you too.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS59_135)...Sylph, would you 
+tell us why Duke 
+hates humans?
+
+## POINTER 12
+Sylph
+<VOICE>(VS59_136)...Very well.
+
+## POINTER 13
+Sylph
+<VOICE>(VS59_137)...You know about the Great War, right?
+
+## POINTER 14
+Sylph
+<VOICE>(VS59_138)There were Entelexeia who chose 
+to live with humans, and those 
+who chose to oppose them.<PAGE><VOICE>(VS59_139)The Great War was between humans
+who broke an ancient prohibition and
+the Entelexeia who opposed them.
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS59_140)And the war ended when 
+the hero Duke won victory 
+for the humans.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS59_141)Duke's a hero?!
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS59_142)Really...?
+
+## POINTER 18
+<STR>(RAV)
+<VOICE>(VS59_143)That's one of the truths 
+the empire's hiding.
+
+## POINTER 19
+Sylph
+<VOICE>(VS59_144)Humans alone could not 
+have won that war.<PAGE><VOICE>(VS59_145)Elucifur-the leader of the Entelexeia advocating 
+living with humans-fought alongside 
+them, and granted them victory.
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS59_146)Are you serious? ...Even 
+I never heard that...
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VS59_147)But...what does this 
+have to do with Duke 
+not trusting humans?
+
+## POINTER 22
+Sylph
+<VOICE>(VS59_148)Elucifur was Duke's friend.
+
+## POINTER 23
+Sylph
+<VOICE>(VS59_149)Duke fought with Elucifur against 
+the leader of the ones who opposed 
+humans, and defeated him.<PAGE><VOICE>(VS59_150)However, once the war ended, the 
+empire feared Elucifur's power.<PAGE><VOICE>(VS59_151)They assaulted the injured 
+Elucifur and took his life.<PAGE><VOICE>(VS59_152)He had promised Duke that he would 
+merely watch. But it didn't matter.
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS59_153)No...
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS59_154)Now I get it. Anyone would stop 
+trusting humans after that.
+
+## POINTER 26
+<STR>(JUD)
+<VOICE>(VS59_155)I had no idea that was going 
+on during the war.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS59_156)...But it doesn't matter how 
+badly he was betrayed.<PAGE><VOICE>(VS59_157)He has no right to sacrifice 
+every human life.
+
+## POINTER 28
+Sylph
+<VOICE>(VS59_158)If you do not destroy the Adephagos 
+before Duke, in the end...humanity 
+will be destroyed.<PAGE><VOICE>(VS59_159)Hurry.<PAGE><VOICE>(VS59_160)I have calmed the winds. 
+I believe Ba'ul can 
+reach you now.
+
+## POINTER 29
+<STR>(JUD)
+<VOICE>(VS59_161)Thank you, Sylph.
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS59_162)So the spirits are working out all right, but...
+
+## POINTER 31
+<STR>(RAV)
+<VOICE>(VS59_163)Duke isn't.
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS59_164)...Yeah.

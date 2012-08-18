@@ -1,0 +1,181 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1288117054]
+
+<VOICE>(VS65_034)¡Ya sabes que odio que
+me hagan esperar, <STR>(YUR) Lowell!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+Zagi
+<VOICE>(VS65_035)¿Adónde te crees que vas
+si yo estoy aquí?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1288112519]
+<STR>(JUD)
+<VOICE>(VS65_036)Estás vivo...
+¿No mueres nunca?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+<STR>(YUR)
+<VOICE>(VS65_037)No te cansas nunca.
+¿Cuántas veces tengo que decírtelo?
+¡No quiero tener nada que ver contigo!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1290155347]
+Zagi
+<VOICE>(VS65_038)¿Intentas salvar el mundo?
+Je, je, je.<PAGE><VOICE>(VS65_039)¿El mundo dirá adiós
+si no te das prisa? ¿Es eso?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1288112519]
+<STR>(KAR)
+<VOICE>(VS65_040)Si sabes tanto, ¡¿por qué
+no te quitas del medio?!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1290155347]
+Zagi
+<VOICE>(VS65_041)¡Oh, no, no, no, no, no! 
+¡Eso es justo lo que
+le da tanto sentido!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527230]
+<STR>(RIT)
+<VOICE>(VS65_042)Pero ¿qué dice este tío?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1288112760]
+Zagi
+<VOICE>(VS65_043)Mira.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+Zagi
+<VOICE>(VS65_044)Más adelante hay un sello.
+Si quieres pasar, tendrás
+que arrancarme este brazo.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+<STR>(YUR)
+<VOICE>(VS65_045)¡Cabrón!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1290155347]
+Zagi
+<VOICE>(VS65_046)¡Ah, ja, ja, ja, ja, ja! 
+¡Yuuuuuriiiii!<PAGE><VOICE>(VS65_047)Si quieres salvar el mundo,
+tendrá que ser por
+encima de mi cadáver.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1288112760]
+<STR>(EST_P)
+<VOICE>(VS65_048)¡¿Por qué?! ¿Por qué haces esto?
+¡No tiene ningún sentido!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1288112760]
+Zagi
+<VOICE>(VS65_049)¿Ningún sentido? ¿Ningún sentido?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1288112760]
+Zagi
+<VOICE>(VS65_050)¡Oh, pero claro que lo tiene! 
+De esta manera, lucharás
+con todas tus fuerzas.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1290155347]
+<STR>(YUR)
+<VOICE>(VS65_051)Zagi... No pensaba que
+estuvieras tan pirado.<PAGE><VOICE>(VS65_052)Vale. Acabemos con esto.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+Zagi
+<VOICE>(VS65_053)¡Ja, ja, ja!
+¡Enséñame tu ira! ¡Tu rabia!
+¡Ven a por todas!<PAGE><VOICE>(VS65_054)¡Porque si no lo haces,
+no llegarás más arriba!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+Zagi
+<VOICE>(VS65_055)Je, je, je. No duele...
+No duele nada...<PAGE><VOICE>(VS65_056)¿Mm? No me puedo mover.
+Qué cuerpo más débil...<PAGE><VOICE>(VS65_057)Mi próximo cuerpo también
+debería ser un blastia. Así nos
+divertiremos más. ¿Verdad, <STR>(YUR)?<PAGE><VOICE>(VS65_058)Je, je, je.
+Ah, ja, ja, ja, ja...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1288113341]
+Zagi
+<VOICE>(VS65_059)Ugh...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1288113341]
+<STR>(YUR)
+<VOICE>(VS65_060)Hazlo en el infierno.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+<STR>(JUD)
+<VOICE>(VS65_061)Nadie le entendía, por eso
+ponía tanto empeño en la lucha.
+Pobre...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+<STR>(RAV)
+<VOICE>(VS65_062)Aun así, su habilidad
+lo hizo bastante famoso.<PAGE><VOICE>(VS65_063)Algo le pasó cuando
+sus conoció a vosotros.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+<STR>(EST_P)
+<VOICE>(VS65_064)De verdad parecía que disfrutaba
+en las batallas.<PAGE><VOICE>(VS65_065)Quizá pensaba que podía
+darlo todo cuando luchaba
+contra <STR>(YUR).
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+<STR>(KAR)
+<VOICE>(VS65_066)¿Entonces <STR>(YUR) era la única
+persona con la que podía hacer eso?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+<STR>(YUR)
+<VOICE>(VS65_067)¿Y a mí qué me importa
+el majareta ese?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:kaene;time:1288113627]
+<STR>(RIT)
+<VOICE>(VS65_068)La caída de alguien
+con demasiado poder.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:kaene;time:1288113627]
+<STR>(YUR)
+<VOICE>(VS65_069)...<PAGE><VOICE>(VS65_070)Ya hemos malgastado
+demasiado tiempo. Vamos.<PAGE><VOICE>(VS65_071)¿<STR>(JUD_P)?...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:kaene;time:1288113627]
+<STR>(JUD)
+<VOICE>(VS65_072)Sí. Vale, entendido.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:kaene;time:1288113627]
+<STR>(YUR)
+<VOICE>(VS65_073)¿Le pasa algo a Ba'ul?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:kaene;time:1288113627]
+<STR>(JUD)
+<VOICE>(VS65_074)No, está bien.
+Solo le preguntaba que
+qué tal va ahí fuera.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:kaene;time:1288113627]
+<STR>(RIT)
+<VOICE>(VS65_075)¿Cuánto le queda a la fórmula
+que absorbe vida?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:kaene;time:1288113627]
+<STR>(JUD)
+<VOICE>(VS65_076)Ba'ul no sabe nada de fórmulas.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840424]
+<STR>(RIT)
+<VOICE>(VS65_077)Sí... supongo que tienes razón.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:kaene;time:1288113627]
+<STR>(JUD)
+<VOICE>(VS65_078)Le he pedido a Ba'ul que se mueva
+según le parezca.<PAGE><VOICE>(VS65_079)Nosotros también deberíamos continuar, ¿no?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:kaene;time:1288113627]
+<STR>(KAR)
+<VOICE>(VS65_080)Sí, démonos prisa.

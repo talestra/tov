@@ -1,0 +1,88 @@
+## POINTER 0
+Tokunaga
+<VOICE>(VS26_111)Everyone! The ceres blastia 
+is running again!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS26_112)So it seems.
+
+## POINTER 2
+Kaufman
+<VOICE>(VS26_113)Of all the... Why do I 
+always get sucked 
+into these messes?<PAGE><VOICE>(VS26_114)If it was anybody other 
+than me, you guys 
+would've been left behind.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS26_115)Sorry about that. We'll never 
+do it again, promise.
+
+## POINTER 4
+Kaufman
+<VOICE>(VS26_116)*Sigh*
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS26_117)I wonder what caused the ceres 
+blastia to break down?
+
+## POINTER 6
+Tokunaga
+<VOICE>(VS26_118)Who knows? It just came 
+back to life suddenly...
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS26_119)Ya really think there's 
+a curse then?
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS26_120)Perhaps the captain wanted to 
+pass the clear ciel crystal on to 
+someone, and reached out to us.
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS26_121)No way! Dead people 
+can't want to do anything...
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS26_122)Doors get stuck, the ceres 
+blastia stops working... 
+Sounds like a curse to me.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS26_123)I said it can't happen, 
+so it just can't!
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS26_124)What're you hitting me for...?
+
+## POINTER 13
+Tokunaga
+<VOICE>(VS26_125)I'm just glad that 
+no one was hurt.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS26_126)Well, the boss here's 
+seen better days.
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS26_127)Hey, are we going to 
+Nordopolica or not? Let's 
+get this thing out of here.
+
+## POINTER 16
+Kaufman
+<VOICE>(VS26_128)Right. I'm looking forward 
+to finally getting there 
+as well.

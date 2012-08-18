@@ -1,0 +1,299 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS41_001)What's happening?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS41_002)What's going on? It's 
+just a pile of ruins...
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS41_003)This didn't just happen 
+in a few days... This is, like, 
+hundreds of years.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS41_004)Quiet. Someone's here.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS41_005)Duke...!
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS41_006)This could be our clue about the Rizomata Formula!
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS41_007)That's...the dragon from 
+the Weasand of Cados.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS41_008)He's traveling with Duke, huh?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS41_009)I've got questions for 
+that guy, but we have 
+to find <STR>(EST_P) first...
+
+## POINTER 9
+Alexei
+<VOICE>(VS41_010)They got away...<PAGE><VOICE>(VS41_011)There's no time. This isn't 
+what I would have chosen, 
+but so be it.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS41_012)Alexei. What are you doing here...?
+
+## POINTER 11
+Alexei
+<VOICE>(VS41_013)Ah, looking for the Princess? 
+I'm impressed you found 
+your way here.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS41_014)Do you know 
+where <STR>(EST_P) is?!
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS41_015)Wh-what do you 
+think you're doing?!
+
+## POINTER 14
+Alexei
+<VOICE>(VS41_016)Urgh!
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS41_017)Is this your idea of 
+a joke, Commandant?
+
+## POINTER 16
+Alexei
+<VOICE>(VS41_018)I am at a loss as to 
+how to thank you.<PAGE><VOICE>(VS41_019)Your pitiful sense of justice 
+has allowed me to work 
+with little interruption.<PAGE><VOICE>(VS41_020)Ragou and Barbos did serve my 
+purposes, but you... I really 
+must commend your work.<PAGE><VOICE>(VS41_021)You're some of the most 
+talented and foolish 
+performers I've seen.
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS41_022)What?
+
+## POINTER 18
+Alexei
+<VOICE>(VS41_023)However, the time for fooling 
+around is over. It is time for 
+you to exit the stage.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS41_024)So that's it, huh?<PAGE><VOICE>(VS41_025)...It was you pulling everybody's 
+strings all this time...? Well I'm 
+not laughing, Alexei!!
+
+## POINTER 20
+<STR>(FRE)
+<VOICE>(VS41_026)Commandant!
+
+## POINTER 21
+Alexei
+<VOICE>(VS41_027)Humph. And yet 
+another fool arrives.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS41_028)<STR>(FRE)...
+
+## POINTER 23
+<STR>(FRE)
+<VOICE>(VS41_029)Commandant! How could you?!<PAGE><VOICE>(VS41_030)You're the pride of the 
+Imperial Knights. How 
+could you commit treason...?
+
+## POINTER 24
+Alexei
+<VOICE>(VS41_031)This is not treason. I am  
+merely following the path of 
+one who holds true authority.
+
+## POINTER 25
+<STR>(FRE)
+<VOICE>(VS41_032)And you just intend to 
+betray the trust of 
+His Highness Ioder?!
+
+## POINTER 26
+Alexei
+<VOICE>(VS41_033)His Highness... Yes, I think he'll 
+be relinquishing his rank soon.
+
+## POINTER 27
+<STR>(FRE)
+<VOICE>(VS41_034)This is madness...
+
+## POINTER 28
+Yeager
+<VOICE>(VS41_035)Milord. All is in readiness.
+
+## POINTER 29
+<STR>(KAR)
+<VOICE>(VS41_036)Yeager!
+
+## POINTER 30
+Alexei
+<VOICE>(VS41_037)Well done. I am headed for 
+Baction as planned. I will 
+leave this situation to you.<PAGE><VOICE>(VS41_038)...And Ioder's fate as well.
+
+## POINTER 31
+Yeager
+<VOICE>(VS41_039)Ja, you bet, milord.
+
+## POINTER 32
+<STR>(FRE)
+<VOICE>(VS41_040)Alexei! Wait!
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS41_041)Who said you could leave?!
+
+## POINTER 34
+Gauche
+<VOICE>(VS41_042)Stand back.
+
+## POINTER 35
+<STR>(JUD)
+<VOICE>(VS41_043)If you try to stop us...
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS41_044)Get the hell out of the way!
+
+## POINTER 37
+Yeager
+<VOICE>(VS41_045)Your princess friend is at 
+the Shrine of Baction as 
+well, you know.
+
+## POINTER 38
+<STR>(YUR)
+<VOICE>(VS41_046)What did you say?!
+
+## POINTER 39
+Droite
+<VOICE>(VS41_047)You'll be too late if 
+you don't hurry.
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS41_048)......
+
+## POINTER 41
+<STR>(FRE)
+<VOICE>(VS41_049)Go after Alexei and Yeager!
+
+## POINTER 42
+Witcher
+<VOICE>(VS41_050)Sir!
+
+## POINTER 43
+<STR>(KAR)
+<VOICE>(VS41_051)<STR>(YUR), come on!
+
+## POINTER 44
+<STR>(KAR)
+<VOICE>(VS41_052)<STR>(YUR)...?
+
+## POINTER 45
+Sodia
+<VOICE>(VS41_053)<STR>(YUR) Lowell, give 
+yourself up.
+
+## POINTER 46
+<STR>(FRE)
+<VOICE>(VS41_054)...The Shrine of Baction 
+is said to be located on 
+the Hypionian continent.
+
+## POINTER 47
+<STR>(JUD)
+<VOICE>(VS41_055)Hypionia... The continent 
+east of Desier. The 
+Egothor Forest is there.
+
+## POINTER 48
+<STR>(KAR)
+<VOICE>(VS41_056)Are we actually gonna 
+trust what Yeager said?!
+
+## POINTER 49
+<STR>(RIT)
+<VOICE>(VS41_057)If that's where Alexei 
+is headed, then <STR>(EST_P)'s 
+got to be there!
+
+## POINTER 50
+<STR>(JUD)
+<VOICE>(VS41_058)We don't have much 
+information, so I guess we'll 
+just have to go check it out.
+
+## POINTER 51
+<STR>(KAR)
+<VOICE>(VS41_059)But what about <STR>(RAV)?
+
+## POINTER 52
+<STR>(RIT)
+<VOICE>(VS41_060)I'll bet he delivered 
+<STR>(EST_P) to them, and
+then just took off!
+
+## POINTER 53
+<STR>(KAR)
+<VOICE>(VS41_061)No... <STR>(RAV)... 
+He wouldn't do that...
+
+## POINTER 54
+<STR>(RIT)
+<VOICE>(VS41_062)Well, the facts are that 
+she's been kidnapped, and 
+he's nowhere to be seen!
+
+## POINTER 55
+<STR>(RIT)
+<VOICE>(VS41_063)I mean, that's 
+only logical, right?!
+
+## POINTER 56
+<STR>(JUD)
+<VOICE>(VS41_064)It's possible he was 
+captured as well.
+
+## POINTER 57
+<STR>(RIT)
+<VOICE>(VS41_065)...Well, whatever. 
+Let's get going! 
+...<STR>(YUR)?
+
+## POINTER 58
+<STR>(FRE)
+<VOICE>(VS41_066)<STR>(YUR)...
+
+## POINTER 59
+<STR>(YUR)
+<VOICE>(VS41_067)...<STR>(FRE). A word?
+
+## POINTER 60
+<STR>(FRE)
+<VOICE>(VS41_068)Very well. Let's talk over there.

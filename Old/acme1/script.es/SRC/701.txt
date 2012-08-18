@@ -1,0 +1,155 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551164]
+<STR>(YUR)
+Pero ¡¿qué...?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1280851375]
+<STR>(EST_P)
+¡Espera!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+
+Gracias por esa encantadora historia.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(KAR)
+¿Historia? ¿Se refiere
+a a que se ha inventado
+<STR>(EST_P)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1280851375]
+<STR>(EST_P)
+¿Quién eres?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+
+He habitado en la base de este
+árbol durante generaciones...<PAGE>
+Si queréis darme un nombre, 
+podéis referiros a mí como 
+a la joven de la historia.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(EST_P)
+¿Quiere decir que ocurrió de verdad?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+
+Esos niños me vieron,
+y me temo que eso dio
+comienzo con los rumores.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(EST_P)
+¿Se refiere a lo del fantasma de la esposa?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+
+Sí... Y además he perdido mi velo...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(EST_P)
+Así que es suyo.
+Deje que se
+lo devuelva.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+
+No... Prefiero que
+te lo quedes tú.<PAGE>Gracias a ti los rumores
+por fin se han acallado.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(EST_P)
+Pero... Es que yo solo me 
+he inventado la historia...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:miyu;time:1280851061]
+
+No... Debería darte otra 
+cosa como agradecimiento.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:miyu;time:1280851061]
+<STR>(EST_P)
+¿Eh?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+
+Te he otorgado una nueva habilidad.<PAGE>Quizá te ayude 
+a proteger a 
+tus compañeros.<PAGE>Adiós...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:miyu;time:1280851061]
+<STR>(EST_P)
+¡Ah!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(YUR)
+¿Qué... qué
+ha sido eso?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:miyu;time:1280851061]
+<STR>(RIT)
+Un espíritu elemental, creo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:miyu;time:1280851061]
+<STR>(KAR)
+¿Cómo? Yo pensaba que esos espíritus
+venían de los entelechia.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(RIT)
+Como aquí hay una barrera blastia, 
+también hay un núcleo de blastia, donde
+podría originarse un espíritu elemental.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(RIT)
+El poder de <STR>(EST_P)
+llenó el núcleo de aer y
+creó un espíritu elemental.<PAGE>O quizá lo hicieron
+el árbol y el blastia
+por ellos mismos.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(YUR)
+Mm... Muy interesante.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(RIT)
+Aunque eso excluye a 
+las flores de la cuestión.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:miyu;time:1280851061]
+<STR>(JUD)
+¿La idea de un espíritu de las 
+flores no os parece romántica?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(EST_P)
+Está decidido.<PAGE>Cuando termine la lucha
+contra el adephagos,
+me haré escritora.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294190285]
+<STR>(KAR)
+¡¿Quéééé!?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(EST_P)
+Quiero difundir la felicidad,
+como he hecho con los niños y el espíritu.<PAGE>Quiero hacer feliz a 
+todo el mundo, como he
+hecho con este pueblo...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:miyu;time:1280851061]
+<STR>(YUR)
+¡Suena bien!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(KAR)
+¿Que te suena bien?
+Pero <STR>(EST_P) va a ser la...<PAGE>¡Aaaay!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1294418191]
+<STR>(RIT)
+Venga, vámonos.

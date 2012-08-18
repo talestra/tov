@@ -1,0 +1,109 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS50_032)This'll bring the value back down, so the 
+discrepancy with this should...
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS50_033)...Nope, it's nowhere near enough.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS50_034)<STR>(YUR)!
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS50_035)...What are you all 
+doing out here?
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS50_036)Shut up and leave me alone!
+Oh, it's you.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS50_037)Nice to see you too. So, 
+what kind of experiment 
+is this, anyway?<PAGE><VOICE>(VS50_038)...Is something wrong?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS50_039)No, it's being kept
+well under control,
+and it's stable.<PAGE><VOICE>(VS50_040)As annoying as it is to admit, 
+Dein Nomos and this sytem of 
+Alexei's are both pretty amazing.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS50_041)So then, where's the problem?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS50_042)The effective area of control is more
+limited than I thought.<PAGE><VOICE>(VS50_043)The control barrier originates at the
+barrier blastia. She's stable inside it,
+but she can't leave.<PAGE><VOICE>(VS50_044)I guess Dein Nomos alone couldn't take
+the place of all those apatheia.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS50_045)So long trips are out 
+of the question?
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS50_046)Also, the barrier blastia's part of the system.
+As long as it's in use, this city is defenseless.<PAGE><VOICE>(VS50_047)That's why I'm out here trying 
+to figure out a way for her to 
+move around freely.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS50_048)Why can't <STR>(EST_P) just take Dein Nomos
+with her wherever she goes?
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS50_049)It was really only designed to contain 
+aer that's gone out of control.<PAGE><VOICE>(VS50_050)I don't think it could actually affect
+<STR>(EST_P) in any way.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS50_051)I guess that's how it 
+was with Duke, too.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS50_052)Don't worry. I'll come up with 
+something, or my name
+isn't <STR>(RIT) Mordio.<PAGE><VOICE>(VS50_053)I won't let <STR>(EST_P) wind up 
+trapped like that again.<PAGE><VOICE>(VS50_054)Nobody treats my friend like
+just some... thing.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS50_055)Okay. I'll leave you to it.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS50_056)Nothing to worry about. 
+You've got the best genius 
+under the sun with you.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS50_057)Yes, I know <STR>(RIT) can help me.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS50_058)I'll have this ready by tomorrow.
+You get yourself to bed.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS50_059)Okay, okay. Don't push 
+yourself too hard. 
+Same to you, <STR>(EST_P).

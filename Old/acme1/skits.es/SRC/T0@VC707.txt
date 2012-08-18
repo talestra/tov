@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251552325]
+Bautizando a (EST_P)
+
+## POINTER 1 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266248860]
+(EST_P)
+(EST_P)... (EST_P)...
+
+## POINTER 2 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266022214]
+(YUR)
+Lleva ya un buen rato hablando sola...
+
+## POINTER 3 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266248860]
+(RAP)
+*Gemido*
+
+## POINTER 4 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266248860]
+(YUR)
+Oye, ¿vienes o qué? No tenemos todo el día.
+
+## POINTER 5 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266248860]
+(EST_P)
+(EST_P)... (EST_P)...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285610777]
+(YUR)
+Todavía está en su pequeño mundo.
+¡Oye! ¡(EST_P)!
+
+## POINTER 7 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266248860]
+(EST_P)
+¡Ah, sí! Perdona. ¡Ya voy!
+
+## POINTER 8 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266022214]
+(YUR)
+¿No usan apodos en el lugar de donde viene?

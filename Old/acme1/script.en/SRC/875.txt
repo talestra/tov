@@ -1,0 +1,84 @@
+## POINTER 0
+<STR>(YUR)
+Hey.
+
+## POINTER 1
+Rich
+...Hmpf...
+
+## POINTER 2
+<STR>(YUR)
+So you're looking at that sword again...the 
+one that belonged to someone you respect?
+
+## POINTER 3
+Rich
+...This sword belonged to His Highness
+Regin, the brother of the Emperor.
+
+## POINTER 4
+<STR>(YUR)
+Regin...isn't that the "King of Adventure" 
+you mentioned earlier? The one 
+you named your inn after?
+
+## POINTER 5
+Rich
+...A while back, His Highness led an 
+expedition into the wilderness...<PAGE>...It was called the Regin Expeditionary Force...<PAGE>...My father was a member 
+of that force...
+
+## POINTER 6
+<STR>(YUR)
+So is the expeditionary 
+force still active?
+
+## POINTER 7
+Rich
+...You don't know...?
+...You haven't 
+heard what happened...?
+
+## POINTER 8
+<STR>(YUR)
+Sorry, I'm not too knowledgeable 
+about famous historical figures.
+
+## POINTER 9
+Rich
+...The Regin Expeditionary Force set out to defeat the 
+world's Giganto Monsters, but they were annihilated...
+
+## POINTER 10
+<STR>(YUR)
+Ah, <STR>(KAR) mentioned something about that...
+So you've set out to avenge your father?
+
+## POINTER 11
+Rich
+...To avenge my father...
+No, it's nowhere near that noble...<PAGE>...If I defeat the Giganto Monsters, I 
+can finally go back to my hometown...<PAGE>...At least, that's what I planned on doing...<PAGE>But these days, we've been reduced 
+to mere wanderers...
+
+## POINTER 12
+<STR>(YUR)
+What's so bad about that?
+
+## POINTER 13
+Rich
+...I must defeat the Giganto Monsters...
+...Otherwise, we'll never be free...
+
+## POINTER 14
+<STR>(YUR)
+The Giganto Monsters means too much
+to you to be able enjoy the wandering life, eh?
+
+## POINTER 15
+Rich
+......
+
+## POINTER 16
+<STR>(YUR)
+...I see.

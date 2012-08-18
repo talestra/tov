@@ -1,0 +1,131 @@
+## POINTER 660
+Bark
+
+## POINTER 661
+Occasionally cancels all enemy and ally
+actions with Taunt.
+
+## POINTER 662
+Dispersion
+
+## POINTER 663
+Changes an arte. Can be learned
+if used repeatedly.
+
+## POINTER 664
+Great Deluge
+
+## POINTER 665
+Changes an arte. Can be learned
+if used repeatedly.
+
+## POINTER 666
+Eternity
+
+## POINTER 667
+Changes certain artes to another kind.
+
+## POINTER 668
+Bastion
+
+## POINTER 669
+Changes Crushing Eagle To Guardian Field.
+Can be learned if used repeatedly.
+
+## POINTER 670
+Life Healer
+
+## POINTER 671
+Recover HP after a battle.
+
+## POINTER 672
+Spirit Healer
+
+## POINTER 673
+Increases TP recovered after battle.
+
+## POINTER 674
+Life Up
+
+## POINTER 675
+Occasionally increases Max HP after battle.
+
+## POINTER 676
+Mental Up
+
+## POINTER 677
+Occasionally increases Max TP after battle.
+
+## POINTER 678
+Happiness
+
+## POINTER 679
+Occasionally increases EXP earned.
+(Only for characters with this skill set.)
+
+## POINTER 680
+Happiness 2
+
+## POINTER 681
+Occasionally increases LP earned.
+(Only for characters with this skill set.)
+
+## POINTER 682
+Happiness 3
+
+## POINTER 683
+Occasionally increases the amount of Gald
+after battle.
+
+## POINTER 684
+Safety
+
+## POINTER 685
+Occasionally earn more EXP by finishing
+battle without taking any damage.
+
+## POINTER 686
+Technical Half
+
+## POINTER 687
+Receive extra TP by not taking damage in
+battle. However, all status reduced to half.
+
+## POINTER 688
+Vacance
+
+## POINTER 689
+Increases Max HP occasionally if battle is
+won without attacking any enemies.
+
+## POINTER 690
+EXP Share
+
+## POINTER 691
+Earn bonus EXP without taking part in battle.
+
+## POINTER 692
+Coward
+
+## POINTER 693
+Avoids surprise encounters.
+
+## POINTER 694
+Cooking Plus
+
+## POINTER 695
+Occasionally increases effect of auto
+cooking after battles.
+
+## POINTER 696
+Treasure Fangs
+
+## POINTER 697
+Occasionally receive items dropped by
+enemies even if escaped from battle.
+
+## POINTER 698
+Standing Guard
+
+## POINTER 699
+Guard temporarily after standing up.

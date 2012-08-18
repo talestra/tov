@@ -1,0 +1,186 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS52_079)Alexei unleashed 
+something 
+terrible.<PAGE><VOICE>(VS52_080)I'm tired of all this "freeing the world" nonsense.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS52_081)Just what is the 
+Adephagos?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS52_082)Who knows? A catastrophe.
+It can't be anything good.<PAGE><VOICE>(VS52_083)*Sigh* Guess I get to fight a big one this time.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS52_084)It certainly is. So you're 
+going after it?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS52_085)It doesn't look like I'll have 
+a normal life if I don't.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS52_086)A normal life... 
+For everyone. That's 
+why we fight.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS52_087)Yeah. That's enough, right?
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS52_088)Yes, it is.
+
+## POINTER 8
+Hanks
+<VOICE>(VS52_089)I thought I heard 
+a familiar voice! 
+Oh, it's really you!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS52_090)Hanks! Everybody!
+
+## POINTER 10
+Hanks
+<VOICE>(VS52_091)Don't go taking that young lady around 
+everywhere. She must be tired.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS52_092)What do you mean? <STR>(EST_P), 
+were you using your power?
+
+## POINTER 12
+Hanks
+<VOICE>(VS52_093)She fixed up every wounded 
+person who came back.<PAGE><VOICE>(VS52_094)We're all in her debt.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS52_095)If there's anything else I 
+can do, please let me know.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS52_096)Nice to see the lower quarter's back to normal.
+
+## POINTER 15
+Hanks
+<VOICE>(VS52_097)It'd be perfect if only that thing 
+in the sky weren't there.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS52_098)Don't worry. Leave it 
+to Brave Vesperia.
+
+## POINTER 17
+Hanks
+<VOICE>(VS52_099)There you go again. Just 
+how are you going to close 
+up that hole in the sky?
+
+## POINTER 18
+
+<VOICE>(VS52_100)Hey, if anyone can do it, <STR>(YUR) can!
+
+## POINTER 19
+
+<VOICE>(VS52_101)Yeah! He never makes promises 
+he can't keep.
+
+## POINTER 20
+
+<VOICE>(VS52_102)That's far enough!
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS52_103)Now you? What do you want?
+
+## POINTER 22
+Adecor
+<VOICE>(VS52_104)Heh heh heh. I say, 
+take a look at this.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS52_105)Huh? A warrant? ...For me?!
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS52_106)...Just <STR>(YUR)?
+
+## POINTER 25
+Adecor
+<VOICE>(VS52_107)I say, a knight's duty is 
+to apprehend the unlawful.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS52_108)So I'm the only one with a bounty 
+on my head? Nobody else?
+
+## POINTER 27
+Boccos
+<VOICE>(VS52_109)That has nothing to do with the matter at hand!
+
+## POINTER 28
+Leblanc
+<VOICE>(VS52_110)Ahem! We have a proposal. 
+Return to the knights, 
+and this all goes away.
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS52_111)What?
+
+## POINTER 30
+Leblanc
+<VOICE>(VS52_112)Someone high up is making 
+a fuss about leaving you to 
+do as you please. So...
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS52_113)You'd feel better putting the reins on me.
+
+## POINTER 32
+Leblanc
+<VOICE>(VS52_114)Now you've got the idea.
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS52_115)...
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS52_116)Hey! Schwann!
+
+## POINTER 35
+Leblanc
+<VOICE>(VS52_117)What? Where?
+
+## POINTER 36
+Leblanc
+<VOICE>(VS52_118)Hey! Wait!
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VS52_119)So long, everyone!
+
+## POINTER 38
+Hanks
+<VOICE>(VS52_120)Take care!
+
+## POINTER 39
+Leblanc
+<VOICE>(VS52_121)...Heh heh heh.<PAGE><VOICE>(VS52_122)Just as I thought. And I wouldn't 
+have it any other way.<PAGE><VOICE>(VS52_123)Let's go! Arrest that man!

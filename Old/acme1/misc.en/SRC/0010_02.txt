@@ -1,0 +1,299 @@
+## POINTER 200
+Keiv Moc 04_03 (Stag Beetle: Base Type)/Weather A
+
+## POINTER 201
+Keiv Moc 05_01 (Mantis: Base Type)/Weather A
+
+## POINTER 202
+Keiv Moc 05_02 (Mantis: Base Type)/Weather A
+
+## POINTER 203
+Keiv Moc 05_03 (Mantis: Base Type)/Weather A
+
+## POINTER 204
+Keiv Moc 06_01 (Chirpee: Green Wing)/Weather A
+
+## POINTER 205
+Keiv Moc 06_02 (Chirpee: Green Wing)/Weather A
+
+## POINTER 206
+Keiv Moc 06_03 (Chirpee: Green Wing)/Weather A
+
+## POINTER 207
+Keiv Moc 01_01 (Filifolia: Nepenthes)/Weather B
+
+## POINTER 208
+Keiv Moc 01_02 (Filifolia: Nepenthes)/Weather B
+
+## POINTER 209
+Keiv Moc 01_03 (Filifolia: Nepenthes)/Weather B
+
+## POINTER 210
+Keiv Moc 01_04 (Filifolia: Nepenthes)/Weather B
+
+## POINTER 211
+Keiv Moc 02_01 (Insect Plant: Nepenthes)/Weather B
+
+## POINTER 212
+Keiv Moc 02_02 (Insect Plant: Nepenthes)/Weather B
+
+## POINTER 213
+Keiv Moc 02_03 (Insect Plant: Nepenthes)/Weather B
+
+## POINTER 214
+Keiv Moc 02_04 (Insect Plant: Nepenthes)/Weather B
+
+## POINTER 215
+Keiv Moc 03_01 (Bat: Leaf)/Weather B
+
+## POINTER 216
+Keiv Moc 03_02 (Bat: Leaf)/Weather B
+
+## POINTER 217
+Keiv Moc 03_03 (Bat: Leaf)/Weather B
+
+## POINTER 218
+Keiv Moc 04_01 (Stag Beetle: Base Type)/Weather B
+
+## POINTER 219
+Keiv Moc 04_02 (Stag Beetle: Base Type)/Weather B
+
+## POINTER 220
+Keiv Moc 04_03 (Stag Beetle: Base Type)/Weather B
+
+## POINTER 221
+Keiv Moc 05_01 (Mantis: Base Type)/Weather B
+
+## POINTER 222
+Keiv Moc 05_02 (Mantis: Base Type)/Weather B
+
+## POINTER 223
+Keiv Moc 05_03 (Mantis: Base Type)/Weather B
+
+## POINTER 224
+Keiv Moc 06_01 (Chirpee: Green Wing)/Weather B
+
+## POINTER 225
+Keiv Moc 06_02 (Chirpee: Green Wing)/Weather B
+
+## POINTER 226
+Keiv Moc 06_03 (Chirpee: Green Wing)/Weather B
+
+## POINTER 227
+Keiv Moc 07_01 (Mimic: Tree)/Weather AB
+
+## POINTER 228
+Brutal/Weather AB
+
+## POINTER 229
+Insect Boss
+
+## POINTER 230
+Ghasfarost 01_01 (Mercenary/Dagger)/Weather AB
+
+## POINTER 231
+Ghasfarost 01_02 (Mercenary/Dagger)/Weather AB
+
+## POINTER 232
+Ghasfarost 01_03 (Mercenary/Dagger)/Weather AB
+
+## POINTER 233
+Ghasfarost 01_04 (Mercenary/Dagger)/Weather AB
+
+## POINTER 234
+Ghasfarost 02_01 (Mercenary/Two-Handed)/Weather AB
+
+## POINTER 235
+Ghasfarost 02_02 (Mercenary/Two-Handed)/Weather AB
+
+## POINTER 236
+Ghasfarost 02_03 (Mercenary/Two-Handed)/Weather AB
+
+## POINTER 237
+Ghasfarost 02_04 (Mercenary/Two-Handed)/Weather AB
+
+## POINTER 238
+Ghasfarost 03_01 (Mercenary/Staff)/Weather AB
+
+## POINTER 239
+Ghasfarost 03_02 (Mercenary/Staff)/Weather AB
+
+## POINTER 240
+Ghasfarost 03_03 (Mercenary/Staff)/Weather AB
+
+## POINTER 241
+Ghasfarost 03_04 (Mercenary/Staff)/Weather AB
+
+## POINTER 242
+Ghasfarost 04_01 (Horse Eagle)/Weather AB
+
+## POINTER 243
+Ghasfarost 04_02 (Horse Eagle)/Weather AB
+
+## POINTER 244
+Ghasfarost 04_03 (Horse Eagle)/Weather AB
+
+## POINTER 245
+Ghasfarost 05_01 (Scissorbeak)/Weather AB
+
+## POINTER 246
+Ghasfarost 05_02 (Scissorbeak)/Weather AB
+
+## POINTER 247
+Ghasfarost 05_03 (Scissorbeak)/Weather AB
+
+## POINTER 248
+Ghasfarost 06_01 (Gear Golem)/Weather AB
+
+## POINTER 249
+Ghasfarost 06_02 (Gear Golem)/Weather AB
+
+## POINTER 250
+Ghasfarost 06_03 (Gear Golem)/Weather AB
+
+## POINTER 251
+Many Mercenaries
+
+## POINTER 252
+Barbos
+
+## POINTER 253
+Yeager and Leviathans Claw
+
+## POINTER 254
+Mermen
+
+## POINTER 255
+Atherum 01_01 (Poltergeist: Base Type)/Weather AB
+
+## POINTER 256
+Atherum 01_02 (Poltergeist: Base Type)/Weather AB
+
+## POINTER 257
+Atherum 01_03 (Poltergeist: Base Type)/Weather AB
+
+## POINTER 258
+Atherum 01_04 (Poltergeist: Base Type)/Weather AB
+
+## POINTER 259
+Atherum 01_05 (Poltergeist: Base Type)/Weather AB
+
+## POINTER 260
+Atherum 02_01 (Poltergeist: Mad)/Weather AB
+
+## POINTER 261
+Atherum 02_02 (Poltergeist: Mad)/Weather AB
+
+## POINTER 262
+Atherum 02_03 (Poltergeist: Mad)/Weather AB
+
+## POINTER 263
+Atherum 02_04 (Poltergeist: Mad)/Weather AB
+
+## POINTER 264
+Atherum 03_01 (Merfish: Shark)/Weather AB
+
+## POINTER 265
+Atherum 03_02 (Merfish: Shark)/Weather AB
+
+## POINTER 266
+Atherum 03_03 (Merfish: Shark)/Weather AB
+
+## POINTER 267
+Atherum 04_01 (Crab Man: Sword)/Weather AB
+
+## POINTER 268
+Atherum 04_02 (Crab Man: Sword)/Weather AB
+
+## POINTER 269
+Atherum 04_03 (Crab Man: Sword)/Weather AB
+
+## POINTER 270
+Atherum 04_04 (Crab Man: Sword)/Weather AB
+
+## POINTER 271
+Atherum 05_01 (Eagle: Base Type)/Weather AB
+
+## POINTER 272
+Atherum 05_02 (Eagle: Base Type)/Weather AB
+
+## POINTER 273
+Atherum 05_03 (Eagle: Base Type)/Weather AB
+
+## POINTER 274
+Atherum 05_04 (Eagle: Base Type)/Weather AB
+
+## POINTER 275
+Atherum 06_01 (Mimic: Normal)/Weather AB
+
+## POINTER 276
+Atherum (Event Battle)
+
+## POINTER 277
+Coliseum Erungar
+
+## POINTER 278
+Coliseum Jugem
+
+## POINTER 279
+Coliseum Johann
+
+## POINTER 280
+Flynn (Coliseum)
+
+## POINTER 281
+Zagi: Fight 3
+
+## POINTER 282
+Weasand of Cados 01_01 (Spider: Base Type)/Fight 1/Fight 2
+
+## POINTER 283
+Weasand of Cados 01_02 (Spider: Base Type)/Fight 1/Fight 2
+
+## POINTER 284
+Weasand of Cados 01_03 (Spider: Base Type)/Fight 1/Fight 2
+
+## POINTER 285
+Weasand of Cados 02_01 (Bat: Electric)/Fight 1/Fight 2
+
+## POINTER 286
+Weasand of Cados 02_02 (Bat: Electric)/Fight 1/Fight 2
+
+## POINTER 287
+Weasand of Cados 02_03 (Bat: Electric)/Fight 1/Fight 2
+
+## POINTER 288
+Weasand of Cados 02_04 (Bat: Electric)/Fight 1/Fight 2
+
+## POINTER 289
+Weasand of Cados 03_01 (Wolf: Strong Tail)/Fight 1
+
+## POINTER 290
+Weasand of Cados 03_02 (Wolf: Strong Tail)/Fight 1
+
+## POINTER 291
+Weasand of Cados 03_03 (Wolf: Strong Tail)/Fight 1
+
+## POINTER 292
+Weasand of Cados 04_01 (Mandragora: Mushroom)/Fight 1
+
+## POINTER 293
+Weasand of Cados 04_02 (Mandragora: Mushroom)/Fight 1
+
+## POINTER 294
+Weasand of Cados 04_03 (Mandragora: Mushroom)/Fight 1
+
+## POINTER 295
+Weasand of Cados 04_04 (Mandragora: Mushroom)/Fight 1
+
+## POINTER 296
+Weasand of Cados 05_01 (Egg Bear: Base Type)/Fight 1
+
+## POINTER 297
+Weasand of Cados 05_02 (Egg Bear: Base Type)/Fight 1
+
+## POINTER 298
+Weasand of Cados 05_03 (Egg Bear: Base Type)/Fight 1
+
+## POINTER 299
+Weasand of Cados 06_01 (Knights/Large Sword: Flynn Brigade)/Fight 2

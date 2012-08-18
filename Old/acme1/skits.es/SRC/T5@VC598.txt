@@ -1,0 +1,67 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1252193157]
+En el escenario
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141541]
+(EST_P)
+Al principio te resistías, pero al final
+te has metido en el papel, ¿eh, (RIT)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141541]
+(RIT)
+N-No, es solo que vosotros os tomabais
+vuestro papel tan en serio... que no tenía
+más remedio que seguiros la corriente.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141541]
+(JUD)
+Tu disfraz también era muy mono.
+¡Ha sido todo un regalo!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192611]
+(RIT)
+¡Oye!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192611]
+(YUR)
+Tú has clavado tu actuación, (KAR).
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141541]
+(KAR)
+Je. Bueno, al fin y al cabo,
+antes estaba en un gremio de actores...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141541]
+(RAV)
+Tú has estao en toa clase
+de gremios, chaval.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1265669594]
+(RIT)
+En cualquier caso, eso ni siquiera era actuar.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141541]
+(EST_P)
+A mí me gustaría actuar con todos
+vosotros en otra obra algún día.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192611]
+(RIT)
+¡Ni hablar! ¡Nunca más!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192611]
+(KAR)
+¡Yo tampoco! ¡No quiero que (RIT)
+me prenda fuego otra vez!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192611]
+(JUD)
+A mí me gustaría estar en la obra la próxima vez.
+
+## POINTER 13 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267396796]
+(RAV)
+Yo tengo que ser er protagonista, naturalmente.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192611]
+(YUR)
+Tenía mis dudas, pero parece que
+todo el mundo se lo ha pasado bien.

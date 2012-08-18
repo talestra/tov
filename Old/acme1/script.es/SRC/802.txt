@@ -1,0 +1,58 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298853988]
+<STR>(RIT)
+Ah... Con lo bien que
+estaría en el agua, y tengo
+que estar aquí limpiando...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290442976]
+<STR>(YUR)
+¿No deberías de estar trabajando
+en vez de quejarte?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290442976]
+<STR>(RIT)
+Pero es que con el baño aquí
+delante como que es muy difícil
+tener ganas de trabajar...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1304550989]
+<STR>(RIT)
+¡Un momento! Pero ¡¿qué porras
+haces aquí?! ¡Que sepas que
+este es el baño de las chicas!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298853988]
+<STR>(YUR)
+Solo he venido a ver si
+estabas ganduleando o no.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290442976]
+<STR>(RIT)
+No te pareces al
+pervertido de <STR>(RAV).<PAGE>¿Es que no se te ha
+pasado por la cabeza que
+a lo mejor estaba desnuda?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290442976]
+<STR>(YUR)
+Si pasa, pues pasa.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290442976]
+<STR>(RIT)
+Ugh... A veces
+no te aguanto.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298853988]
+<STR>(YUR)
+¿Cómo? ¿Esperas que piense que
+eres una mujer y no una chica?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298853988]
+<STR>(RIT)
+¡¿Q-Qué?!
+¡Largo de aquí!
+¡¡Vete a trabajar!!
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290444027]
+<STR>(YUR)
+¡Agh, qué miedo!

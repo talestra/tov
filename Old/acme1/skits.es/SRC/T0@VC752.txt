@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267281869]
+El jinete del dragón cabalga de nuevo
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267281869]
+(KAR)
+¡No esperaba encontrarnos con el jinete
+del dragón en el palacio de Ragou!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110896]
+(YUR)
+¿Aquello era un dragón? Nunca antes
+había visto a un monstruo como ese.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:Amarintia;time:1266329488]
+(EST_P)
+Sí. Parecía muy distinto a cualquier
+otro que haya visto nunca.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110896]
+(EST_P)
+Me pregunto adónde voló después.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110896]
+(KAR)
+Debe tener una guarida en alguna parte,
+pero no sabemos dónde poder encontrarla.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267281869]
+(RIT)
+¡Ya vale! ¡El mamarracho ese del dragón me tiene frita!
+¡Me pongo furiosa solo de pensar en ese cretino!

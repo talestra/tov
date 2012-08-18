@@ -1,0 +1,80 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(YUR)
+<VOICE>(VA090_001)Es como usar una espada o la magia.
+Se aprende a través de la práctica.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(YUR)
+<VOICE>(VA090_002)No tienes más que empezar
+con unas pocas recetas.
+Aprenderás antes de darte cuenta.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1271871015]
+<STR>(EST_P)
+<VOICE>(VA090_003)Practicar las recetas... vale.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(YUR)
+<VOICE>(VA090_004)Mira, voy a mostrarte cómo se hace.
+Observa y aprende.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(YUR)
+<VOICE>(VA090_005)Cocinar despeja la mente.
+Y viene de maravilla para
+recuperar fuerzas.<PAGE><VOICE>
+(VA090_006)También tiene otros muchos efectos.<PAGE><VOICE>
+(VA090_007)Esto es más o menos
+todo lo que sé cocinar
+ahora mismo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(YUR)
+<VOICE>(VA090_008)Así pues, para hacer un bocadillo
+se necesita pan y un huevo.<PAGE><VOICE>
+(VA090_009)¡Cosas que tenemos,
+mira tú por dónde!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(YUR)
+<VOICE>(VA090_010)¡Una vez escogidos los ingredientes,
+a cocinar tocan!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(YUR)
+<VOICE>(VA090_011)Y... ¡aquí tienes! 
+¡Un delicioso tentempié!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(EST_P)
+<VOICE>(VA090_012)Qué bien lo haces.
+No sé yo si seré capaz de llegar
+a ser tan buena cocinando.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(YUR)
+<VOICE>(VA090_013)Hay gente que se le da
+mejor que a otra.<PAGE><VOICE>(VA090_014)Solo porque conozcas la receta
+no quiere decir que te saldrá
+siempre como esperas.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(EST_P)
+<VOICE>(VA090_015)
+¿En serio? Entonces,
+¿puede salirte mal?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(YUR)
+<VOICE>(VA090_016)Lo normal es ir probando
+la comida mientras la cocinas,
+pero no todo el mundo lo hace.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(EST_P)
+<VOICE>(VS06_058)¿Probando?
+
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483480]
+<STR>(YUR)
+<VOICE>(VS06_059)Ya sabes, catarla. Mmm... ¡Puaj!

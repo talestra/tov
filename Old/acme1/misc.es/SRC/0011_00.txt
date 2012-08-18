@@ -1,0 +1,326 @@
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261225648]
+Gel de manzana
+
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261768106]
+Medicina dulce. Recupera el 30% del HP máximo.
+El sabor a manzana no tiene nada que ver con el efecto.
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261225648]
+Gel de limón
+
+## POINTER 7 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261768106]
+Medicina dulce. Recupera el 60% del HP máximo.
+El sabor ácido ayuda a combatir la somnolencia.  
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1261267989]
+Gel de naranja
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649027]
+Medicina dulce. Recupera el 30% del TP máximo.
+Con un agradable aroma a cítricos y sabor a naranja.
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1261267989]
+Gel de piña
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649027]
+Medicina dulce. Recupera el 60% del TP máximo.
+Puede dejar restos de fruta entre los dientes. 
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261228149]
+Gel mixto
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Medicina dulce. Recupera el 30% del HP y TP máximo.
+El ingrediente principal es un secreto.
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1261267989]
+Gel milagroso
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Medicina dulce. Recupera el 60% del HP y TP máximo.
+Sabe como los ángeles.
+
+## POINTER 21 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1261267989]
+Específico
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Todo el grupo recupera el 30% de su TP máximo. 
+Se recomienda esparcirlo alrededor cuando se use. 
+
+## POINTER 24 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1261267989]
+Delicia
+
+## POINTER 25 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Todo el grupo recupera el 30% de su HP máximo. 
+Se recomienda esparcirlo alrededor cuando se use.
+
+## POINTER 27 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261336198]
+Gel especial
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Medicina dulce. Recupera todo el HP y el TP.
+Es muy útil, pero también rara y escasa.
+
+## POINTER 30 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261336151]
+Gel lotería
+
+## POINTER 31 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Quizá sea bueno... o quizá no.
+No lo sabrás hasta que lo pruebes. 
+
+## POINTER 33 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261225804]
+Pomo antiveneno
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Medicina que cura el <06>(ST1)veneno.
+Tiene un refrescante aroma a hierbas.
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261225804]
+Pomo antiparálisis
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Medicina que cura la <06>(ST2)parálisis.
+Es muy potente; procura no abusar de ella.
+
+## POINTER 39 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261225804]
+Pomo antipetrificación
+
+## POINTER 40 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Medicina que cura la <06>(ST3)petrificación.
+Más te vale que no se derrame por tu habitación.
+
+## POINTER 42 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261225895]
+Pomo antisellado
+
+## POINTER 43 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Medicina que cura las <06>(ST5)artes
+y <06>(ST6)habilidades selladas.
+
+## POINTER 45 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261225895]
+Pomo antidebilidad
+
+## POINTER 46 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261768106]
+Medicina que cura la <06>(ST4)debilidad.
+¡Espabila!
+
+## POINTER 48 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261525725]
+Pomo anticontaminación
+
+## POINTER 49 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261768106]
+Medicina que cura la <06>(ST7)contaminación.
+
+## POINTER 51 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261225804]
+Pomo de vida
+
+## POINTER 52 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Agua sagrada que revive con 30% HP
+y 15% TP máximo a un aliado caído.
+
+## POINTER 54 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261347149]
+Pomo de curación
+
+## POINTER 55 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Líquido que cura todos los estados
+alterados físicos después de la batalla.
+
+## POINTER 57 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261347149]
+Pomo dinei
+
+## POINTER 58 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Líquido que cura todos los estados
+alterados mágicos durante la batalla.
+
+## POINTER 60 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261347149]
+Panacea
+
+## POINTER 61 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Cura los estados alterados físicos y mágicos.
+Conviene guardar alguna por si las moscas.
+
+## POINTER 63 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261347149]
+Pomo sagrado
+
+## POINTER 64 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Un recipiente que contiene pureza sacra.
+Los monstruos notan menos la presencia del grupo.
+
+## POINTER 66 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261347149]
+Pomo sagrado 2
+
+## POINTER 67 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Un recipiente que contiene pureza sacra.
+Los monstruos notan menos la presencia del grupo.
+
+## POINTER 69 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261341936]
+Pomo oscuro
+
+## POINTER 70 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Un recipiente que contiene oscuridad pura.
+Los monstruos notan más la presencia del grupo.
+
+## POINTER 72 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261347149]
+Jarabe
+
+## POINTER 73 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Previene durante 1 minuto los estados alterados físicos
+en la batalla. Solo puede utilizarse en combate.
+
+## POINTER 75 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261341936]
+Pomo de néctar
+
+## POINTER 76 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Previene durante 1 minuto los estados alterados mágicos
+en la batalla. Solo puede utilizarse en combate.
+
+## POINTER 78 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261341936]
+Pomo límite
+
+## POINTER 79 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Rellena por completo la barra de Límite.
+Solo puede utilizarse en combate.
+
+## POINTER 81 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261228455]
+Salvia
+
+## POINTER 82 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta el HP máximo en 10 puntos.
+
+## POINTER 84 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338952]
+Salvia roja
+
+## POINTER 85 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta el HP máximo en 30 puntos.
+
+## POINTER 87 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338952]
+Ajedrea
+
+## POINTER 88 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta el TP máximo en 10 puntos.
+
+## POINTER 90 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338952]
+Ajedrea roja
+
+## POINTER 91 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta el TP máximo en 30 puntos.
+
+## POINTER 93 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261228546]
+Lavanda
+
+## POINTER 94 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta el ATQ F. en 1 punto. 
+
+## POINTER 96 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338952]
+Lavanda roja
+
+## POINTER 97 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta el ATQ F. en 3 puntos.
+
+## POINTER 99 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338674]
+Verbena
+
+## POINTER 100 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta la DEF F. en 1 punto.
+
+## POINTER 102 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338674]
+Verbena roja
+
+## POINTER 103 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta la DEF F. en 3 puntos.
+
+## POINTER 105 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338674]
+Manzanilla
+
+## POINTER 106 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta el ATQ M. en 1 punto.
+
+## POINTER 108 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338674]
+Manzanilla roja
+
+## POINTER 109 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta el ATQ M. en 3 puntos.
+
+## POINTER 111 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338674]
+Albahaca
+
+## POINTER 112 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta la DEF M. en 1 punto.
+
+## POINTER 114 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338674]
+Albahaca roja
+
+## POINTER 115 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta la DEF M. en 3 puntos.
+
+## POINTER 117 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338674]
+Azafrán
+
+## POINTER 118 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta la AGL en 1 punto.
+
+## POINTER 120 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338674]
+Azafrán rojo
+
+## POINTER 121 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Hierba medicinal.
+Aumenta la AGL en 3 puntos.
+
+## POINTER 123 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261225987]
+Divisor
+
+## POINTER 124 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338674]
+Reduce en un 50% todo el daño infligido
+a los aliados y a los enemigos.
+
+## POINTER 126 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261225987]
+Reloj de arena
+
+## POINTER 127 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261338674]
+Congela temporalmente al enemigo durante la batalla.
+
+## POINTER 129 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261225987]
+Lente mágica
+
+## POINTER 130 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Misteriosa lente que revela detalles de los enemigos.
+¡Ni se te ocurra mirar el sol a través de ella!
+
+## POINTER 132 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Estera
+
+## POINTER 133 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263649996]
+Estera que se usa para acampadas.
+Recupera el 25% del HP y TP máximo.
+
+## POINTER 135 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Toldo
+
+## POINTER 136 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Tienda sencilla utilizada para acampar.
+Recupera el 50% del HP y TP máximo.
+
+## POINTER 138 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261341936]
+Tienda
+
+## POINTER 139 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Resistente tienda de campaña multiusos.
+Recupera el 75% del HP y TP máximo.
+
+## POINTER 141 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261341936]
+Barrera
+
+## POINTER 142 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263241856]
+Acogedora barrera que protege del viento y la lluvia.
+Recupera en paz y tranquilidad todo el HP y TP.

@@ -1,0 +1,216 @@
+## POINTER 0
+
+<VOICE>(VS03_037)Why don't we just go back?
+
+## POINTER 1
+
+<VOICE>(VS03_038)I can't go back now!
+
+## POINTER 2
+
+<VOICE>(VS03_039)This is for your own good, Miss, you know that.
+
+## POINTER 3
+
+<VOICE>(VS03_040)As for the "incident," we assume 
+full responsibility and will inform 
+the lieutenant ourselves.
+
+## POINTER 4
+
+<VOICE>(VS03_041)How can you say that 
+when you haven't done 
+anything to help me?
+
+## POINTER 5
+
+<VOICE>(VS03_042)Please, don't come any closer.
+
+## POINTER 6
+
+<VOICE>(VS03_043)Now, now, why don't you put that down? 
+You'll only end up hurting yourself...
+
+## POINTER 7
+
+<VOICE>(VS03_044)I know how to use a sword!
+
+## POINTER 8
+
+<VOICE>(VS03_045)I'm afraid you leave us no 
+choice. I was hoping it wouldn't 
+come to this...
+
+## POINTER 9
+
+<VOICE>(VS03_046)Hey! There she is! This way!
+
+## POINTER 10
+
+<VOICE>(VS03_047)Please, you've got 
+to let me go!<PAGE><VOICE>(VS03_048)I have to warn 
+<STR>(FRE)!
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS03_049)Did she say <STR>(FRE)?
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS03_050)Yah!
+
+## POINTER 13
+
+<VOICE>(VS03_051)Aaah!
+
+## POINTER 14
+
+<VOICE>(VS03_052)Hey!
+
+## POINTER 15
+
+<VOICE>(VS03_053)<STR>(FRE)...?! You came 
+to help me...?
+
+## POINTER 16
+
+<VOICE>(VS03_054)W-who are you?
+
+## POINTER 17
+
+<VOICE>(VS03_055)Identify yourself!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS03_060)Don't they teach these 
+guys manners in knight 
+school anymore?
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS03_061)...Damn it...
+
+## POINTER 20
+
+<VOICE>(VS03_062)Want some more, huh?
+
+## POINTER 21
+
+<VOICE>(VS03_063)Let's finish him!
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS03_064)Yah!
+
+## POINTER 23
+
+<VOICE>(VS03_065)Aaah!
+
+## POINTER 24
+
+<VOICE>(VS03_066)Aaah!
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS03_067)Phew... That was close...
+
+## POINTER 26
+
+<VOICE>(VS03_068)Hyah!
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS03_069)Hey! What, are you trying to kill me?
+
+## POINTER 28
+
+<VOICE>(VS03_070)Well... you don't belong
+in the castle, right?
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS03_071)No, and I'll take it as a compliment that 
+you can tell that by looking at me.
+
+## POINTER 30
+
+<VOICE>(VS03_072)<STR>(YUR) Looowell! 
+Where are yooou?
+
+## POINTER 31
+Adecor
+<VOICE>(VS03_073)You foul fugitive! 
+I say, we know you're trying 
+to make your escape.
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS03_074)Oh please, not them again. Guess 
+there's no point in going back 
+to the prison cell now.
+
+## POINTER 33
+
+<VOICE>(VS03_075)Louder, fools! Say it like you mean it!
+
+## POINTER 34
+Boccos
+<VOICE>(VS03_076)Lieutenant Leblanc, your voice 
+is TOO loud. My ears...
+
+## POINTER 35
+
+<VOICE>(VS03_077)<STR>(YUR) Lowell? You're one of <STR>(FRE)'s 
+friends, aren't you?
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS03_078)Yeah. Why?
+
+## POINTER 37
+
+<VOICE>(VS03_079)And you used to belong to 
+the Imperial Knights?
+
+## POINTER 38
+<STR>(YUR)
+<VOICE>(VS03_080)Just for three short months.<PAGE><VOICE>(VS03_081)You hear that from <STR>(FRE)?
+
+## POINTER 39
+
+<VOICE>(VS03_082)Yes.
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS03_083)Huh. Guess he managed to find someone at 
+the castle he could talk to after all.
+
+## POINTER 41
+
+<VOICE>(VS03_084)<STR>(YUR)! I need to 
+talk to <STR>(FRE)!
+
+## POINTER 42
+<STR>(YUR)
+<VOICE>(VS03_085)Hold on just a second. Who are 
+you supposed to be, anyway?<PAGE><VOICE>(VS03_086)I can tell you know <STR>(FRE), 
+but why are you being chased 
+by the Knights?
+
+## POINTER 43
+
+<VOICE>(VS03_087)Over here!
+
+## POINTER 44
+<STR>(YUR)
+<VOICE>(VS03_088)Listen, I want to hear the whole story, but we 
+can't really afford to stand around and chat.<PAGE><VOICE>(VS03_089)First things first, let's get to <STR>(FRE)'s 
+place. Want me to lead the way?
+
+## POINTER 45
+
+<VOICE>(VS03_090)Ah, yes!
+
+## POINTER 46
+<STR>(YUR)
+<VOICE>(VS03_091)Let's go.

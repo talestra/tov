@@ -1,0 +1,164 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS17_001)Man, this place is a total wreck.
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS17_002)Do you seriously think anybody would 
+come to a place like this?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS17_003)I wonder if we've been fed some 
+false information again.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS17_004)Again...?
+
+## POINTER 4
+
+<VOICE>(VS17_005)That's far enough! This area 
+is under the jurisdiction 
+of the Hunting Blades.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS17_006)That voice...?!
+
+## POINTER 6
+
+<VOICE>(VS17_007)These measures have been taken to prevent 
+the injury of innocent bystanders.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS17_008)Nan!
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS17_009)All right! I finally found you!
+
+## POINTER 9
+Nan
+<VOICE>(VS17_010)...
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS17_011)Are the chief and Tison with you? 
+Have you guys been getting 
+along okay without me?
+
+## POINTER 11
+Nan
+<VOICE>(VS17_012)Don't take that buddy-buddy tone with me.
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS17_013)Aw, don't be like that. 
+I only got a little lost.
+
+## POINTER 13
+Nan
+<VOICE>(VS17_014)A little lost? That's 
+a good one! You know 
+you just ran away!
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS17_015)I didn't run away, I swear!
+
+## POINTER 15
+Nan
+<VOICE>(VS17_016)Still making excuses, huh?
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS17_017)It's not an excuse! 
+I beat an eggbear, just 
+like I said I would!
+
+## POINTER 17
+Nan
+<VOICE>(VS17_018)More lies.
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS17_019)I-I mean it!
+
+## POINTER 19
+Nan
+<VOICE>(VS17_020)Is this how you repay being taken 
+in by the Hunting Blades...?
+
+## POINTER 20
+Nan
+<VOICE>(VS17_021)Remind me who it was that said, "I 
+swear I won't run away this time."<PAGE><VOICE>(VS17_022)You always run and hide at the first 
+sign of trouble. You've been kicked 
+out of every guild in the book.
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS17_023)Shut up! 
+You shut your mouth!
+
+## POINTER 22
+Nan
+<VOICE>(VS17_024)...Hah! Even we've 
+already fired you!
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS17_025)W-wait!
+
+## POINTER 24
+Nan
+<VOICE>(VS17_026)You have been warned by the Hunting 
+Blades! Leave this area at once!<PAGE><VOICE>(VS17_027)If you fail to heed this warning, you 
+do so at the risk of your own lives.
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS17_028)Nan!
+
+## POINTER 26
+<STR>(EST_P)
+<VOICE>(VS17_031)...
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS17_032)This still doesn't explain 
+what the Hunting Blades 
+are doing here.
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VS17_033)Good point.
+
+## POINTER 29
+<STR>(EST_P)
+<VOICE>(VS17_034)<STR>(RIT), wait. Are you forgetting 
+about the warning?
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS17_035)She never said we weren't 
+allowed to enter.
+
+## POINTER 31
+<STR>(EST_P)
+<VOICE>(VS17_036)But what about the "risking 
+our lives" part?
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VS17_037)Are you implying that I 
+should listen to that brat? 
+Don't make me laugh.
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS17_038)At any rate, the Blood Alliance 
+doesn't seem to be here. 
+Let's have a look around.

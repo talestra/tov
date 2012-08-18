@@ -1,0 +1,112 @@
+## POINTER 0
+<STR>(KAR)
+Hello!
+
+## POINTER 1
+Yu
+Ahh...if it isn't my faithful delivery guild...
+
+## POINTER 2
+<STR>(YUR)
+This may be a bit abrupt, but 
+are you with the Soul Smiths?
+
+## POINTER 3
+Yu
+Soul Smiths? Oh, you mean the blacksmith guild. 
+No, I'm afraid I have nothing to do with them.
+
+## POINTER 4
+<STR>(YUR)
+...Um, <STR>(RAV)...?
+
+## POINTER 5
+<STR>(RAV)
+That book these guys delivered for ya...<PAGE>That's no ordinary book, now, is it? There 
+were guild codes written in there.
+
+## POINTER 6
+Yu
+You mean you looked inside 
+it?! And wait. You 
+can read codes?
+
+## POINTER 7
+<STR>(KAR)
+Guild codes used to be a way 
+for the guilds to communicate 
+with each other in secret.
+
+## POINTER 8
+<STR>(YUR)
+Huh. Pretty clever.
+
+## POINTER 9
+<STR>(RAV)
+And the Soul Smiths're about 
+the only guild still usin' 
+'em at this point.
+
+## POINTER 10
+Yu
+"Dealing in weapons...carefully" 
+has always been our guild's motto.<PAGE>Those who make the best weapons 
+must always be neutral.
+
+## POINTER 11
+<STR>(KAR)
+...So then, you are 
+one of the Smiths?
+
+## POINTER 12
+<STR>(JUD)
+Which would make that Nobis 
+who picked the book 
+up a member as well.
+
+## POINTER 13
+Yu
+...It would seem 
+the jig is, as 
+they say, "up."
+
+## POINTER 14
+<STR>(YUR)
+Leviathan's Claw wants to 
+get in touch with you.
+
+## POINTER 15
+Yu
+Oh, do they...<PAGE>Our boss never had much 
+stomach for Yeager's 
+unpredictability...
+
+## POINTER 16
+<STR>(YUR)
+Ah, then...
+
+## POINTER 17
+Yu
+But...I hear that man is dead now.
+Perhaps change is on the wind.<PAGE>It would at least be worth 
+making contact with them.
+
+## POINTER 18
+<STR>(KAR)
+Whoa, we've gotta get that written down! 
+They'll want some sort of proof we actually 
+met one of the Soul Smiths.
+
+## POINTER 19
+Yu
+...If I must, I suppose.
+
+## POINTER 20
+Yu
+Here you are.<PAGE>This signature represents the will of my guild. When coupled 
+with our guild's reputation, it should be sufficient.
+
+## POINTER 21
+<STR>(JUD)
+Then we should be getting 
+back to the Fallen Manor.

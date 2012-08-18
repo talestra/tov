@@ -1,0 +1,101 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS55_087)Is Undine really here?
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS55_088)Yes. I can't really explain it, 
+but she is here. I can sense it.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS55_089)Well, she was created through <STR>(EST_P), 
+so maybe the two are connected.<PAGE><VOICE>(VS55_090)Very interesting...
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS55_091)Hey, save the research for later, okay?
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS55_092)I know, I know. You don't have to--
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS55_093)Wh-what was that just now?!
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS55_094)Isn't that where...
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS55_095)It came from the direction of Zaude.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS55_096)The Adephagos... No... Has 
+Zaude stopped working...?
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS55_097)Uh-oh. Do you think we might've 
+done somethin' to set this off?
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS55_098)That is the true catastrophe...
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS55_099)That thing does look like it 
+could eat the whole world.
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS55_100)What are we supposed to do 
+about something like that?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS55_101)Hey, <STR>(RIT). Duke said 
+the Adephagos was 
+born from aer.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS55_102)Huh?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS55_103)So if the spirits convert 
+aer into matter...<PAGE><VOICE>(VS55_104)Could we do something about the Adephagos 
+if we had enough spirits?
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS55_105)I don't know.,, I just...I don't know.<PAGE><VOICE>(VS55_106)But...I do think 
+it's worth a try.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS55_107)Let's try it, <STR>(YUR)!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS55_108)Then it's settled.
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS55_109)Ba'ul?!<PAGE><VOICE>(VS55_110)...Yes, I see. 
+Thank you.<PAGE><VOICE>(VS55_111)The servants of the Adephagos are 
+attacking a city--Nordopolica.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS55_112)！
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS55_113)I guess we can't ignore 
+something like that.<PAGE><VOICE>(VS55_114)Let's go!

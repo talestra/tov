@@ -1,0 +1,317 @@
+## POINTER 1647 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Manto de mítril
+
+## POINTER 1648 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Manto tejido con un hilo metálico mágico.
+Su textura es igual de suave que la de una prenda normal.
+
+## POINTER 1650 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769073]
+Blusa midi
+
+## POINTER 1651 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769073]
+Blusa hecha de tela mágica.
+Puede hacer que un hechizo se desvanezca.
+
+## POINTER 1653 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Manto de sirena
+
+## POINTER 1654 [t:1;r:1;ru:memnoch;user:memnoch;time:1297183113]
+Manto tan bello como la mítica criatura.
+No solo es bonito, sino que también aumenta la defensa.
+
+## POINTER 1656 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Manto de platino
+
+## POINTER 1657 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769073]
+Manto de alta calidad con propiedades defensivas.
+Está hecho con una tela mezclada con platino.
+
+## POINTER 1659 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Vestido gótico
+
+## POINTER 1660 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Vestido tejido de la manera tradicional.
+La sutileza de su diseño es lo que lo hace especial.
+
+## POINTER 1662 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Manto espejismo
+
+## POINTER 1663 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+El efecto ilusorio de esta prenda
+protege de los ataques.
+
+## POINTER 1665 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Manto de anciano
+
+## POINTER 1666 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769073]
+Solo pueden llevarlo aquellos que estén cualificados.
+Una prenda pensada para los sabios y experimentados.
+
+## POINTER 1668 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Manto lunar
+
+## POINTER 1669 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769073]
+Prenda hecha con una tela imbuida en la luz de la Luna.
+Aquel que la lleva queda protegido con magia.
+
+## POINTER 1671 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Manto elemental
+
+## POINTER 1672 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Prenda bendecida con los cuatro elementos.
+Ayuda a prevenir los efectos elementales.
+
+## POINTER 1674 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Manto rúnico
+
+## POINTER 1675 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Manto de mítril con propiedades defensivas.
+
+## POINTER 1677 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Vestido de emperatriz
+
+## POINTER 1678 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261699779]
+Una prenda muy sofisticada.
+Su elegancia y protección son dignos de la realeza.
+
+## POINTER 1680 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Impermeable
+
+## POINTER 1681 [t:1;r:1;ru:memnoch;user:memnoch;time:1297183113]
+Un abrigo normal y corriente.
+No está diseñado para usarse en combate.
+
+## POINTER 1683 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo de cuero
+
+## POINTER 1684 [t:1;r:1;ru:memnoch;user:memnoch;time:1297183113]
+Abrigo hecho con cuero.
+Es robusto, pero no es más que una prenda.
+
+## POINTER 1686 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo ligero
+
+## POINTER 1687 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo ligero como una pluma.
+No estorba al hacer ejercicio.
+
+## POINTER 1689 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo de cuero grueso
+
+## POINTER 1690 [t:1;r:1;ru:memnoch;user:memnoch;time:1297183113]
+Abrigo hecho con un cuero muy resistente.
+Puede soportar casi todos los ataques.
+
+## POINTER 1692 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo largo
+
+## POINTER 1693 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592622]
+Es solo un abrigo, pero puede resistir
+las vicisitudes comunes de un combate.
+
+## POINTER 1695 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo de mítril
+
+## POINTER 1696 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Se ha mezclado mítril en la tela, lo que le da
+una mayor capacidad defensiva a la prenda.
+
+## POINTER 1698 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo élfico
+
+## POINTER 1699 [t:1;r:1;ru:memnoch;user:memnoch;time:1297183113]
+Prenda fabricada con el método élfico tradicional.
+
+## POINTER 1701 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263906600]
+Abrigo salpicado
+
+## POINTER 1702 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261731453]
+Prenda cubierta con salpicaduras de agua.
+Hasta las mangas parecen salpicar.
+
+## POINTER 1704 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo extraordinario
+
+## POINTER 1705 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Esta delicada y sofisticada prenda lleva refuerzos
+de la mejor artesanía.
+
+## POINTER 1707 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo de plata
+
+## POINTER 1708 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo de tela tejida con plata.
+Sus propiedades mágicas incrementan la defensa.
+
+## POINTER 1710 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo sangriento
+
+## POINTER 1711 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Prenda teñida con un color rojo sangre profundo.
+El color se debe a un material especial en la tela.
+
+## POINTER 1713 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Rebeca gótica
+
+## POINTER 1714 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Tejida a la vieja usanza, esta prenda
+mantiene el calor durante todo el invierno.
+
+## POINTER 1716 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1262270592]
+Abrigo krityano
+
+## POINTER 1717 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263906600]
+Prenda tejida con un método transmitido durante
+generaciones por los krityanos, el cual no requiere magia.
+
+## POINTER 1719 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo sagrado
+
+## POINTER 1720 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Prenda llevada por los clérigos en sus ceremonias.
+Su base es muy firme y es bastante robusta.
+
+## POINTER 1722 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo heroico
+
+## POINTER 1723 [t:1;r:1;ru:memnoch;user:memnoch;time:1297183113]
+Abrigo digno de un verdadero héroe.
+Experimenta de primera mano el sabor de la gloria.
+
+## POINTER 1725 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo de reina
+
+## POINTER 1726 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592254]
+Solo para reinas. Su autenticidad es cuestionable,
+pero su calidad hace honor a su nombre, sin duda.
+
+## POINTER 1728 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo rúnico
+
+## POINTER 1729 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo de mítril con un mayor poder defensivo.
+
+## POINTER 1731 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Abrigo de dragón
+
+## POINTER 1732 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Prenda bendecida con el espíritu del dios dragón.
+Es una obra muy bella.
+
+## POINTER 1734 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Calientapanzas
+
+## POINTER 1735 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Esta pequeña prenda mantiene la tripita
+cómoda y calentita.
+
+## POINTER 1737 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Chupa de cuero
+
+## POINTER 1738 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Una chupa de cuero... para perros.
+Es muy popular entre los coleccionistas.
+
+## POINTER 1740 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Protector de hierro
+
+## POINTER 1741 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Armadura de hierro diseñada especialmente para perros.
+Es muy flexible y permite un amplio margen de movimientos.
+
+## POINTER 1743 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Chaqueta de ladrón
+
+## POINTER 1744 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261710346]
+Prenda para perros tejida con una famosa tela
+empleada para hacer chaquetas para ladrones.
+
+## POINTER 1746 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Capa de agua
+
+## POINTER 1747 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Un chubasquero común para perros.
+Está endurecido para el combate.
+
+## POINTER 1749 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Protector de acero
+
+## POINTER 1750 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Armadura sencilla construida con placas de acero sujetas 
+con cuerdas. Pueden pincharte a través de los huecos. ¡Ay!
+
+## POINTER 1752 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261750692]
+Chaqueta metálica
+
+## POINTER 1753 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261750692]
+Diseñada para proteger a los perros
+en los viajes largos. Una gran armadura.
+
+## POINTER 1755 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261750692]
+Collar mágico
+
+## POINTER 1756 [t:1;r:1;ru:memnoch;user:memnoch;time:1297183113]
+Collar con propiedades mágicas.
+Se encantó con magia.
+
+## POINTER 1758 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261750692]
+Chaqueta espinosa
+
+## POINTER 1759 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263907103]
+El diseño recuerda a siglos pretéritos.
+Ten cuidado de no pincharte al tocarlo.
+
+## POINTER 1761 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Protector de plata
+
+## POINTER 1762 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261750692]
+Armadura de plata para perros. Las propiedades mágicas
+de la plata protegen de todo daño.
+
+## POINTER 1764 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Calientapanzas estrafalario
+
+## POINTER 1765 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Esta extravagante prenda hace que los 
+chuchos se sientan como celebridades.
+
+## POINTER 1767 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Protector de mítril
+
+## POINTER 1768 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Armadura para perros con placas de mítril.
+Hecho por encargo.
+
+## POINTER 1770 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Protector de dragón
+
+## POINTER 1771 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261750692]
+Armadura para perros hecha con escamas de dragón.
+Hoy en día no es habitual ver a un perro llevarla.
+
+## POINTER 1773 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261769672]
+Calientapanzas leal
+
+## POINTER 1774 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261750692]
+Se dice que perteneció a un perro legendario.
+No está pensado para el combate, mas es muy robusto.
+
+## POINTER 1776 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261750692]
+Fragmento aérico
+
+## POINTER 1777 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592602]
+Cachitos y pedazos de aer. No es exactamente
+una armadura, pero repele a la mayoría de enemigos.
+
+## POINTER 1779 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261750692]
+Casco de cuero
+
+## POINTER 1780 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592602]
+Protector para la cabeza fabricado en cuero.
+
+## POINTER 1782 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261750692]
+Celada de hierro
+
+## POINTER 1783 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592602]
+Casco de guerra fabricado en hierro.
+Solo cubre la parte superior de la cara.

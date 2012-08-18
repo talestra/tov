@@ -1,0 +1,53 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:evilluendas;time:1251680973]
+Machaca casinos
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192053]
+(KAR)
+¡No sabía que fueras tan
+buena con las cartas, (JUD)!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192053]
+(JUD)
+¿Ah, sí? No creo que 
+sea nada especial.
+
+## POINTER 3 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267396566]
+(RAV)
+Ahora que lo pienso, había
+escuchao hablar d'ella.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192053]
+(YUR)
+¿En serio? ¿Tú lo sabías, (RAV)?
+
+## POINTER 5 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267396566]
+(RAV)
+Sí, escuché uno o dos rumores sobre una
+jugaora errante que montaba sobre un dragón.
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267396566]
+(RAV)
+Dicen que los casinos a los que ha ío
+han quebrao, uno tras otro...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141145]
+(KAR)
+¿Alguien montando un dragón?
+¡Esa tiene que ser (JUD)!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192053]
+(JUD)
+Las historias se hacen más grandes cada
+vez que se cuentan. Todo lo que hice en
+Nordopólica fue destruir el blastia.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267192053]
+(JUD)
+De todos modos, dejemos de hablar
+de estupideces y continuemos.
+
+## POINTER 10 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267396566]
+(RAV)
+Pos dicen que no fueron ni uno ni
+dos los casinos que tuvieron que 
+echar el cierre por esa jugaora, oye.

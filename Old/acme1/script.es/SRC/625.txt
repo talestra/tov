@@ -1,0 +1,8 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980410]
+<STR>(YUR)
+¿Adónde va a estas
+horas de la noche?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980410]
+<STR>(YUR)
+Aunque yo también debería estar durmiendo...

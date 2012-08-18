@@ -1,0 +1,127 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275647132]
+Adecor
+<VOICE>(VS02_001)¡<STR>(YUR)! Así pues, no sois sino vos el 
+responsable de tamaña algarada.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298207761]
+Boccos
+<VOICE>(VS02_002)Pase que sea pobre, pero colarse 
+en la casona de un ricachón...
+¡Quién te ha visto y quién te ve!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298207761]
+<STR>(YUR)
+<VOICE>(VS02_003)Lo que me faltaba, don Quijote y Sancho Panza.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275647132]
+Adecor
+<VOICE>(VS02_004)¡No admito semejantes apelativos, proclamo!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1273960937]
+Boccos
+<VOICE>(VS02_005)¡¿De dónde has sacado esos nombres?!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1269781750]
+Boccos
+<VOICE>(VS02_006)¡No tienes escapatoria! 
+¡Te tenemos rodeado!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1274026915]
+<STR>(YUR)
+<VOICE>(VS02_007)¿Tengo pinta de estar escapando? ¿No os dais cuenta
+de que por cosas como esta no os van a ascender nunca?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275647132]
+Boccos
+<VOICE>(VS02_008)¡Habrase visto!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275647132]
+Adecor
+<VOICE>(VS02_009)¡Retirad eso, proclamo!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1270592848]
+<STR>(YUR)
+<VOICE>(VS02_010)Supongo que se acabó el irse por las ramas.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1269781750]
+¿Quieres ver el tutorial?
+Sí
+No
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1273960937]
+<STR>(YUR)
+<VOICE>(VS02_011)¡Vamos, hombre! Podéis
+hacerlo mejor, ¿o no?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1269781750]
+<STR>(YUR)
+<VOICE>(VS02_012)Parece que los he subestimado...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1274026915]
+<STR>(YUR)
+<VOICE>(VS02_013)Y no llegaré a tiempo
+para atrapar el carruaje.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324763]
+Cumore
+<VOICE>(VS02_014)
+Qué típico de la brigada de Schwann.
+Son incapaces de capturar hasta
+una simple morralla.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298207761]
+Adecor
+<VOICE>(VS02_015)¡C-Capitán Cumore! Aceptad nuestras disculpas
+por tan pésima actuación, proclamo.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1269781750]
+Cumore
+<VOICE>(VS02_016)Me temo que no hay sitio en los Caballeros
+Imperiales para escoria como vosotros.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298207761]
+Boccos
+<VOICE>(VS02_017)Ah... P-Por favor,
+no le diga nada de esto
+al señor Schwann, señor.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1274026915]
+<STR>(YUR)
+<VOICE>(VS02_018)No puedo creer que tengamos que pagar el salario
+de estos tíos con nuestros impuestos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1274026915]
+<STR>(YUR)
+<VOICE>(VS02_019)Ahí está.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275647132]
+Adecor
+<VOICE>(VS02_020)¡Esto es el colmo, proclamo!
+¡Ya hasta su fiel sabueso lo abandona!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298207761]
+Boccos
+<VOICE>(VS02_021)¡Ja, ja, ja!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1296862740]
+Cumore
+<VOICE>(VS02_022)Vaya, vaya. Parece que has tenido
+el día movidito, señor <STR>(YUR) Lowell.<PAGE>
+<VOICE>(VS02_023)Yo también estoy ocupado, pero supongo
+que puedo permitirme jugar contigo un ratito.<PAGE><VOICE>(VS02_024)¡Caballeros!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1269781750]
+<STR>(YUR)
+<VOICE>(VS02_025)Son las ratas como vosotros los que hacen 
+que el trabajo de <STR>(FRE) resulte tan difícil.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298207761]
+Cumore
+<VOICE>(VS02_026)¿<STR>(FRE)? Lo que necesita ese teniente
+advenedizo es un poco de sufrimiento.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:evilluendas;time:1269787205]
+Cumore
+<VOICE>(VS02_027)Cuando acabéis con él, mandadlo
+al calabozo, como de costumbre.<PAGE><VOICE>(VS02_028)Unos diez días deberían
+enseñarle una lección.

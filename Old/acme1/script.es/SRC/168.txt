@@ -1,0 +1,134 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(YUR)
+Se te ve tan animado como siempre, <STR>(FRE).
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(FRE)
+Tengo mucho en lo que pensar, <STR>(YUR).
+No puede decirse que tú sepas muy bien qué es eso.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988221]
+<STR>(YUR)
+Mmpf...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238119]
+<STR>(FRE)
+¿Es que has salido afuera
+y te las ha apañado para
+subir el precio por tu cabeza?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(YUR)
+Creía que ibas a ir
+al palacio del magistrado.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(FRE)
+Ya he ido. Y además con una orden de inspección
+del laboratorio de investigación de blastias.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(YUR)
+Ah, conque has podido entrar
+y mirar por ahí dentro.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238119]
+<STR>(FRE)
+No... El magistrado nos
+ha denegado la entrada.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(KAR)
+¡¿Por qué?!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273477004]
+Witcher
+Nos ha intentado provocar y todo.
+Dice que si de verdad creíamos que tenía
+blastias, que intentáramos entrar por la fuerza.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273477004]
+Sodia
+Sabe que aquí no tenemos autoridad para hacer eso.
+¡Lo ha hecho solo para burlarse de nosotros!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238119]
+<STR>(YUR)
+Bueno, ¿acaso
+no tiene razón?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+Sodia
+¡¿Qué has dicho?!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(KAR)
+<STR>(YUR), ¿de parte de quién estás?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(YUR)
+No es cuestión de estar de parte de nadie. Si tan seguros
+estáis, no tenéis más que entrar por las malas.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238119]
+<STR>(FRE)
+No. Es una trampa.<PAGE>Ragou quiere que la Guardia Imperial cometa un error y usarlo
+como excusa para aumentar la autoridad del Consejo.<PAGE>Si entramos ahora, esconderá las
+pruebas y fingirá ser inocente.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(EST_P)
+¿El magistrado Ragou
+forma parte del Consejo?
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1275237035]
+<STR>(FRE)
+Sí.<PAGE>Tanto los Caballeros Imperiales como el Consejo son
+organizaciones esenciales que sustentan el Imperio.<PAGE>Pero Ragou parece haberse
+olvidado de este hecho.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238119]
+<STR>(YUR)
+En resumen, que no estamos tratando
+con un magistrado cualquiera.
+Bueno, ¿tenéis algún plan?
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(FRE)
+...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238119]
+<STR>(YUR)
+¿Qué pasa? ¿Se os han acabado las ideas?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238119]
+Witcher
+Si se produjera algún tipo de altercado dentro
+del palacio, los Caballeros podrían entrar
+con la excusa de una prerrogativa de emergencia.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238119]
+<STR>(EST_P)
+Ah, sí... «Los Caballeros Imperiales pueden emplear
+prerrogativas de emergencia para intervenir en
+situaciones especiales sea cual sea su jurisdicción».
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(YUR)
+¡Pues claro! Entonces si entra un ladrón
+y arma la marimorena, ya podríais entrar, ¿no?
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1275237035]
+<STR>(FRE)
+<STR>(YUR), sé que quieres
+ayudar, pero...
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272812715]
+<STR>(YUR)
+Pero no debería hacer ninguna locura, ¿verdad?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238119]
+<STR>(FRE)
+Voy a patrullar por la ciudad. Digamos... que acabo
+de recibir un soplo de que un fugitivo está intentando
+entrar en el palacio del magistrado.

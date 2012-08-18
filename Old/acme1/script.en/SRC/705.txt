@@ -1,0 +1,59 @@
+## POINTER 0
+
+Nora, come down from there!
+
+## POINTER 1
+<STR>(EST_P)
+What's the matter?
+
+## POINTER 2
+
+Our dear Nora is stuck 
+up there, and she 
+won't come down!
+
+## POINTER 3
+<STR>(RIT)
+Meow!
+
+## POINTER 4
+<STR>(EST_P)
+......?
+
+## POINTER 5
+<STR>(RIT)
+Meow!
+
+## POINTER 6
+<STR>(EST_P)
+<STR>(RIT)...?
+
+## POINTER 7
+
+Oh, Nora moved...
+
+## POINTER 8
+<STR>(KAR)
+...Hey, why were you meowing 
+like that, <STR>(RIT)?
+
+## POINTER 9
+<STR>(RIT)
+I've gotta go after her...!
+
+## POINTER 10
+<STR>(EST_P)
+Oh, I'll go too...!
+
+## POINTER 11
+<STR>(YUR)
+What's gotten into those two...?
+
+## POINTER 12
+<STR>(KAR)
+You don't think <STR>(RIT) was actually 
+talking to that cat, do you?
+
+## POINTER 13
+<STR>(YUR)
+No way...

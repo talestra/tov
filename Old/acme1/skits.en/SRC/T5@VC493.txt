@@ -1,0 +1,64 @@
+## POINTER 0
+The Monster Book is Mine
+
+## POINTER 1
+(EST_P)
+You've filled up quite a bit 
+of that Monster Book, (KAR)!
+
+## POINTER 2
+(KAR)
+We still have half of it to go, 
+but it's filling up nicely.
+
+## POINTER 3
+(YUR)
+You've been pretty diligent filling 
+it in. I thought you never 
+stuck to anything at all.
+
+## POINTER 4
+(KAR)
+O-oh yeah... Ah hah hah...
+
+## POINTER 5
+(RIT)
+He probably had to stick with it since he 
+showed it to just about everybody.
+
+## POINTER 6
+(KAR)
+N-no, it's not like that!
+
+## POINTER 7
+(RIT)
+Oh, it isn't? Well, then, as 
+long as you've made it halfway, 
+let's see you finish it up.
+
+## POINTER 8
+(KAR)
+Of course I will!
+
+## POINTER 9
+(YUR)
+All right. Good luck.
+
+## POINTER 10
+(EST_P)
+If you get tired of it, I'd 
+be happy to carry on from 
+where you left off, (KAR).
+
+## POINTER 11
+(YUR)
+I imagine you'd enjoy it, too, huh?
+
+## POINTER 12
+(EST_P)
+Hee hee...
+
+## POINTER 13
+(KAR)
+I want to finish this myself, 
+so I'll keep at it!

@@ -1,0 +1,231 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS59_068)Wow...
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS59_069)So this is the oldest spring in the world...
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS59_070)It's so quiet... The air is 
+so clear... It feels holy.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS59_071)Never would have thought 
+a place like this was at the 
+bottom of the mountain.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS59_072)Watch it. That's aer, not 
+water. It's really dense. 
+You shouldn't go near it.
+
+## POINTER 5
+
+<VOICE>(VS59_073)You came.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS59_074)Hey, that's...?!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS59_075)You're Khroma, right?<PAGE><VOICE>(VS59_076)It doesn't look like you're 
+trying to avenge Alexei.
+
+## POINTER 8
+Khroma
+<VOICE>(VS59_077)...Duke didn't listen 
+to you, did he?<PAGE><VOICE>(VS59_078)He is trying to protect 
+the world in his own way.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS59_079)So what is Duke 
+trying to do?!
+
+## POINTER 10
+Khroma
+<VOICE>(VS59_080)He is trying to exchange 
+the lives of humans 
+to protect the world.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS59_081)What?!
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS59_082)Why would Duke do something 
+like that?!
+
+## POINTER 13
+Khroma
+<VOICE>(VS59_083)He doesn't trust 
+humans.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS59_084)But Duke helped 
+us?!<PAGE><VOICE>(VS59_085)He even lent us his 
+precious sword...
+
+## POINTER 15
+Khroma
+<VOICE>(VS59_086)I assume he saw 
+some of himself 
+in you.<PAGE><VOICE>(VS59_087)Or perhaps he thought he wouldn't 
+have to get his hands dirty 
+as long as you were around.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS59_088)What do you...?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS59_089)Why are you telling 
+us about Duke?<PAGE><VOICE>(VS59_090)I think it's time you showed who 
+you really are, Entelexeia.
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS59_091)Huh?!
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS59_092)That form...!
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS59_093)What do you want? Is this just 
+a roundabout way of saying 
+you're not going to help?
+
+## POINTER 21
+Khroma
+<VOICE>(VS59_094)I, too, cannot trust humans. ...But 
+neither do I want to see him 
+take revenge on his own kind.
+
+## POINTER 22
+Khroma
+<VOICE>(VS59_095)If you can truly save the world, 
+then I will not refuse to help.<PAGE><VOICE>(VS59_096)However, you have chosen a 
+different path. You will likely 
+confront each other.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS59_097)Yeah...maybe.
+
+## POINTER 24
+Khroma
+<VOICE>(VS59_098)If he is beyond your power, 
+then nothing in this 
+world can stop him.
+
+## POINTER 25
+Khroma
+<VOICE>(VS59_099)I will test your 
+strength!
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS59_100)Here she comes!
+
+## POINTER 27
+Khroma
+<VOICE>(VS59_101)...Marvelous. Perhaps 
+you all...can indeed...save 
+the world...
+
+## POINTER 28
+<STR>(JUD)
+<VOICE>(VS59_102)Khroma...
+
+## POINTER 29
+Khroma
+<VOICE>(VS59_103)...Do as you wish.
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS59_104)<STR>(EST_P)...come 
+on. <STR>(JUD)...
+
+## POINTER 31
+<STR>(EST_P)
+<VOICE>(VS59_105)...Right.
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS59_106)Do it.
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS59_107)It worked!
+
+## POINTER 34
+<STR>(RIT)
+<VOICE>(VS59_108)She's sleeping...
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS59_109)It's the same as with Gnome.
+
+## POINTER 36
+Undine
+<VOICE>(VS59_110)A new comrade 
+has been born.
+
+## POINTER 37
+Efreet
+<VOICE>(VS59_111)...One who controls the winds. At 
+times calm, at times violent.
+
+## POINTER 38
+Undine
+<VOICE>(VS59_112)...One who controls the winds. At 
+times calm, at times violent.
+
+## POINTER 39
+Undine
+<VOICE>(VS59_113)She is not taken by 
+aer as was Gnome.<PAGE><VOICE>(VS59_114)She should wake before long.
+
+## POINTER 40
+Undine
+<VOICE>(VS59_115)There is nothing to fear. 
+She will awaken shortly.
+
+## POINTER 41
+<STR>(EST_P)
+<VOICE>(VS59_116)Thank you, 
+Undine.
+
+## POINTER 42
+<STR>(KAR)
+<VOICE>(VS59_117)It seemed like Khroma 
+knew a lot about Duke.
+
+## POINTER 43
+<STR>(JUD)
+<VOICE>(VS59_118)Indeed. Maybe we can ask her 
+more when she's awake.
+
+## POINTER 44
+<STR>(YUR)
+<VOICE>(VS59_119)Let's head back for now.
+
+## POINTER 45
+<STR>(RIT)
+<VOICE>(VS59_120)Right. We don't have time 
+to just hang around here.
+
+## POINTER 46
+<STR>(RAV)
+<VOICE>(VS59_121)Oh... Not that path again... These 
+old bones of mine are tired...

@@ -1,0 +1,74 @@
+## POINTER 0
+
+<VOICE>(VA050_001)…………
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA050_002)...Hey, hold on...
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VA050_003)Hello...
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VA050_004)Um, I beg your pardon, but...what are you looking at?
+
+## POINTER 4
+
+<VOICE>(VA050_005)...Humanity at work. 
+Their tenacious attachment 
+to this life...
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VA050_006)…………？
+
+## POINTER 6
+
+<VOICE>(VA050_007)Why...? Why must humans 
+live the lives they do?<PAGE><VOICE>(VA050_008)They fight for a share of monopolized 
+technology and hurt even 
+those closest to them...
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VA050_009)…………？
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VA050_010)...Are you talking about blastia?
+
+## POINTER 9
+
+<VOICE>(VA050_011)…………
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VA050_012)I can't speak for anyone else, but...<PAGE><VOICE>(VA050_013)It doesn't seem to me like 
+there's any reason why we 
+get dumped into the world.<PAGE><VOICE>(VA050_014)But once you're here, you just 
+do what you can to give this 
+life everything you've got.
+
+## POINTER 11
+
+<VOICE>(VA050_015)Perhaps there is truth in what you say...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VA050_016)H-hey...!
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VA050_017)He's gone... What was 
+that all about...?
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VA050_018)Got me. They say the heat can 
+make people go a little crazy.
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VA050_019)Is it hot?

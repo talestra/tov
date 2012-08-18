@@ -1,0 +1,59 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272373029]
+<STR>(KAR)
+¡Vamos, llevémoslo de vuelta con nosotros!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237714]
+<STR>(EST_P)
+Está lleno de heridas y moratones... 
+Me da mucha pena.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273475427]
+<STR>(YUR)
+Imagino que los habitantes del pueblo lo habrán
+atacado ya unas cuantas veces a la desesperada.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272373029]
+<STR>(EST_P)
+¡Esa gente no tiene la culpa!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272373029]
+<STR>(YUR)
+No, lo entiendo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237714]
+<STR>(EST_P)
+¿<STR>(YUR)?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272373029]
+<STR>(YUR)
+Lo que tiene tanto valor es solo
+su cuerno, ¿no? Eso debería bastarle
+al magistrado avaricioso ese.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273475427]
+<STR>(RIT)
+Vaya, no es muy propio de ti
+compadecerte de un monstruo.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272373029]
+<STR>(KAR)
+¡Seguid hablando, que mientras
+se está levantando!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237714]
+<STR>(KAR)
+¿Q-Qué? ¿Por qué ha huido?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272799097]
+<STR>(EST_P)
+¡Ha adivinado lo que
+pensábamos hacer!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272373029]
+<STR>(KAR)
+¿Que ha hecho qué? ¿En serio?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273475438]
+<STR>(YUR)
+Oye, que ya tenemos el cuerno. 
+¿Qué más da?

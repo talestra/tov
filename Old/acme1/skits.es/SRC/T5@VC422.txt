@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252840239]
+Una ciudad sin barrera
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115198]
+(KAR)
+No tenía ni idea de que hubiera
+aldeas en mitad de las Arenas de Kogorh.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115198]
+(RAV)
+Me sorprende que se las arreglen pa
+vivir sin una barrera que los proteja.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266670853]
+(YUR)
+Ni siquiera tienen una muralla. Cualquier
+monstruo podría destruirlo todo sin despeinarse.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266670853]
+(YUR)
+No creo que pudiera ser capaz de dormir
+bien en un sitio como este.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307921]
+(RAP)
+*Gemido*
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307921]
+(EST_P)
+Me pregunto qué harán para
+defenderse de los monstruos.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307921]
+(KAR)
+¡Será que todo el mundo
+aquí es muy fuerte!
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307921]
+(RIT)
+Más tonto y no naces...
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307921]
+(RAP)
+*Gemido*

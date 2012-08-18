@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253823134]
+La promesa de Hypionia
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219483]
+(YUR)
+Gracias a (FRE), parece que todo
+el mundo ha podido asentarse aquí
+sin problemas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129698]
+(RAP)
+¡Guau!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129698]
+(EST_P)
+Tiene el mismo clima que la capital.
+Eso hará que les sea más fácil vivir aquí.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219483]
+(JUD)
+Y con (FRE) ha venido gente que
+ya vivía en este continente.
+Era una tierra para humanos.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219483]
+(YUR)
+Será fantástico si viene cada vez
+más gente a Hypionia.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219483]
+(RAV)
+Exacto. El hogar está donde reside el corazón...
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219483]
+(KAR)
+A mí no me importaría vivir aquí...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129698]
+(RAP)
+¡Guau!

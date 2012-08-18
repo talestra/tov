@@ -1,0 +1,299 @@
+## POINTER 500
+Blade Drifts of Zopheir 02_01 (Ice Treant)/Weather A
+
+## POINTER 501
+Blade Drifts of Zopheir 02_02 (Ice Treant)/Weather A
+
+## POINTER 502
+Blade Drifts of Zopheir 02_03 (Ice Treant)/Weather A
+
+## POINTER 503
+Blade Drifts of Zopheir 02_04 (Ice Treant)/Weather A
+
+## POINTER 504
+Blade Drifts of Zopheir 03_01 (Rabbio: Female)/Weather A
+
+## POINTER 505
+Blade Drifts of Zopheir 03_02 (Rabbio: Female)/Weather A
+
+## POINTER 506
+Blade Drifts of Zopheir 03_03 (Rabbio: Female)/Weather A
+
+## POINTER 507
+Blade Drifts of Zopheir 04_01 (Merfish: Shark)/Weather A
+
+## POINTER 508
+Blade Drifts of Zopheir 04_02 (Merfish: Shark)/Weather A
+
+## POINTER 509
+Blade Drifts of Zopheir 04_03 (Merfish: Shark)/Weather A
+
+## POINTER 510
+Blade Drifts of Zopheir 05_01 (Merfish: Red)/Weather A
+
+## POINTER 511
+Blade Drifts of Zopheir 05_02 (Merfish: Red)/Weather A
+
+## POINTER 512
+Blade Drifts of Zopheir 05_03 (Merfish: Red)/Weather A
+
+## POINTER 513
+Blade Drifts of Zopheir 06_01 (Leviathan's Claw/Poison)/Weather A
+
+## POINTER 514
+Blade Drifts of Zopheir 06_02 (Leviathan's Claw/Poison)/Weather A
+
+## POINTER 515
+Blade Drifts of Zopheir 06_03 (Leviathan's Claw/Poison)/Weather A
+
+## POINTER 516
+Blade Drifts of Zopheir 07_01 (Leviathan's Claw/Long Range)/Weather A
+
+## POINTER 517
+Blade Drifts of Zopheir 07_02 (Leviathan's Claw/Long Range)/Weather A
+
+## POINTER 518
+Blade Drifts of Zopheir 07_03 (Leviathan's Claw/Long Range)/Weather A
+
+## POINTER 519
+Blade Drifts of Zopheir 10_01 (Ice Treant)/Weather B
+
+## POINTER 520
+Blade Drifts of Zopheir 10_02 (Ice Treant)/Weather B
+
+## POINTER 521
+Blade Drifts of Zopheir 10_03 (Ice Treant)/Weather B
+
+## POINTER 522
+Blade Drifts of Zopheir 10_04 (Ice Treant)/Weather B
+
+## POINTER 523
+Blade Drifts of Zopheir 11_01 (Rabbio: Female)/Weather B
+
+## POINTER 524
+Blade Drifts of Zopheir 11_02 (Rabbio: Female)/Weather B
+
+## POINTER 525
+Blade Drifts of Zopheir 11_03 (Rabbio: Female)/Weather B
+
+## POINTER 526
+Blade Drifts of Zopheir 11_04 (Rabbio: Female)/Weather B
+
+## POINTER 527
+Blade Drifts of Zopheir 12_01 (Golem: Arm Sled)/Weather B
+
+## POINTER 528
+Blade Drifts of Zopheir 12_02 (Golem: Arm Sled)/Weather B
+
+## POINTER 529
+Blade Drifts of Zopheir 12_03 (Golem: Arm Sled)/Weather B
+
+## POINTER 530
+Blade Drifts of Zopheir 12_04 (Golem: Arm Sled)/Weather B
+
+## POINTER 531
+Blade Drifts of Zopheir 13_01 (Wolf: White)/Weather B
+
+## POINTER 532
+Blade Drifts of Zopheir 13_02 (Wolf: White)/Weather B
+
+## POINTER 533
+Blade Drifts of Zopheir 13_03 (Wolf: White)/Weather B
+
+## POINTER 534
+Blade Drifts of Zopheir 14_01 (Merfish: Electric Catfish)/Weather B
+
+## POINTER 535
+Blade Drifts of Zopheir 14_02 (Merfish: Electric Catfish)/Weather B
+
+## POINTER 536
+Blade Drifts of Zopheir 14_03 (Merfish: Electric Catfish)/Weather B
+
+## POINTER 537
+Blade Drifts of Zopheir 15_01 (Balloon Ghost: Blizzard)/Weather B
+
+## POINTER 538
+Blade Drifts of Zopheir 15_02 (Balloon Ghost: Blizzard)/Weather B
+
+## POINTER 539
+Blade Drifts of Zopheir 15_03 (Balloon Ghost: Blizzard)/Weather B
+
+## POINTER 540
+Baitojoh (Karol Battle)
+
+## POINTER 541
+Baitojoh (Party Battle)
+
+## POINTER 542
+Destroyed Zaphias Castle 01_01 (Knight/Big Sword: Alexei Brigade)/Weather B
+
+## POINTER 543
+Destroyed Zaphias Castle 01_02 (Knight/Big Sword: Alexei Brigade)/Weather B
+
+## POINTER 544
+Destroyed Zaphias Castle 01_03 (Knight/Big Sword: Alexei Brigade)/Weather B
+
+## POINTER 545
+Destroyed Zaphias Castle 02_01 (Knight/Long Spear: Alexei Brigade)/Weather B
+
+## POINTER 546
+Destroyed Zaphias Castle 02_02 (Knight/Long Spear: Alexei Brigade)/Weather B
+
+## POINTER 547
+Destroyed Zaphias Castle 02_03 (Knight/Long Spear: Alexei Brigade)/Weather B
+
+## POINTER 548
+Destroyed Zaphias Castle 02_04 (Knight/Long Spear: Alexei Brigade)/Weather B
+
+## POINTER 549
+Destroyed Zaphias Castle 03_01 (Knight/Staff 2)/Weather B
+
+## POINTER 550
+Destroyed Zaphias Castle 03_02 (Knight/Staff 2)/Weather B
+
+## POINTER 551
+Destroyed Zaphias Castle 03_03 (Knight/Staff 2)/Weather B
+
+## POINTER 552
+Destroyed Zaphias Castle 04_01 (Robot)/Weather B
+
+## POINTER 553
+Destroyed Zaphias Castle 04_02 (Robot)/Weather B
+
+## POINTER 554
+Destroyed Zaphias Castle 04_03 (Robot)/Weather B
+
+## POINTER 555
+Destroyed Zaphias Castle 05_01 (Robot Cutter)/Weather B
+
+## POINTER 556
+Destroyed Zaphias Castle 05_02 (Robot Cutter)/Weather B
+
+## POINTER 557
+Destroyed Zaphias Castle 05_03 (Robot Cutter)/Weather B
+
+## POINTER 558
+Destroyed Zaphias Castle 06_01 (Wolf)/Weather B
+
+## POINTER 559
+Destroyed Zaphias Castle 07_01 (Axe Beak)/Weather B
+
+## POINTER 560
+Destroyed Zaphias Castle 08_01 (Egg Bear)/Weather B
+
+## POINTER 561
+Destroyed Zaphias Castle 09_01 (Giant Bee)/Weather B
+
+## POINTER 562
+Destroyed Zaphias Castle 10_01 (Mandragora)/Weather B
+
+## POINTER 563
+Estellise (Party Battle)
+
+## POINTER 564
+Estellise (Yuri Battle)
+
+## POINTER 565
+Zaude 01_01 (Knight/Big Axe: Alexei Brigade)/Weather AB
+
+## POINTER 566
+Zaude 01_02 (Knight/Big Axe: Alexei Brigade)/Weather AB
+
+## POINTER 567
+Zaude 01_03 (Knight/Big Axe: Alexei Brigade)/Weather AB
+
+## POINTER 568
+Zaude 01_04 (Knight/Big Axe: Alexei Brigade)/Weather AB
+
+## POINTER 569
+Zaude 02_01 (Knight/Big Sword: Alexei Brigade)/Weather AB
+
+## POINTER 570
+Zaude 02_02 (Knight/Big Sword: Alexei Brigade)/Weather AB
+
+## POINTER 571
+Zaude 02_03 (Knight/Big Sword: Alexei Brigade)/Weather AB
+
+## POINTER 572
+Zaude 02_04 (Knight/Big Sword: Alexei Brigade)/Weather AB
+
+## POINTER 573
+Zaude 02_05 (Knight/Big Sword: Alexei Brigade)/Weather AB
+
+## POINTER 574
+Zaude 03_01 (Knight/Long Spear: Alexei Brigade)/Weather AB
+
+## POINTER 575
+Zaude 03_02 (Knight/Long Spear: Alexei Brigade)/Weather AB
+
+## POINTER 576
+Zaude 03_03 (Knight/Long Spear: Alexei Brigade)/Weather AB
+
+## POINTER 577
+Zaude 03_04 (Knight/Long Spear: Alexei Brigade)/Weather AB
+
+## POINTER 578
+Zaude 04_01 (Knight/Staff 2)/Weather AB
+
+## POINTER 579
+Zaude 04_02 (Knight/Staff 2)/Weather AB
+
+## POINTER 580
+Zaude 04_03 (Knight/Staff 2)/Weather AB
+
+## POINTER 581
+Zaude 04_04 (Knight/Staff 2)/Weather AB
+
+## POINTER 582
+Zaude 05_01 (Robot: Big Cannon)/Weather AB
+
+## POINTER 583
+Zaude 05_02 (Robot: Big Cannon)/Weather AB
+
+## POINTER 584
+Zaude 05_03 (Robot: Big Cannon)/Weather AB
+
+## POINTER 585
+Zaude 06_01 (Leviathan's Claw/Katar)/Weather AB
+
+## POINTER 586
+Zaude 06_02 (Leviathan's Claw/Katar)/Weather AB
+
+## POINTER 587
+Zaude 06_03 (Leviathan's Claw/Katar)/Weather AB
+
+## POINTER 588
+Zaude 11_01 (Leviathan's Claw/Bowgun)/Weather AB
+
+## POINTER 589
+Zaude 11_02 (Leviathan's Claw/Bowgun)/Weather AB
+
+## POINTER 590
+Zaude 11_03 (Leviathan's Claw/Bowgun)/Weather AB
+
+## POINTER 591
+Zaude 07_01 (Squid Plant)/Weather AB
+
+## POINTER 592
+Zaude 07_02 (Squid Plant)/Weather AB
+
+## POINTER 593
+Zaude 07_03 (Squid Plant)/Weather AB
+
+## POINTER 594
+Zaude 08_01 (Crab Man: Gun)/Weather AB
+
+## POINTER 595
+Zaude 08_02 (Crab Man: Gun)/Weather AB
+
+## POINTER 596
+Zaude 08_03 (Crab Man: Gun)/Weather AB
+
+## POINTER 597
+Zaude 09_01 (Lizardman)/Weather AB
+
+## POINTER 598
+Zaude 09_02 (Lizardman)/Weather AB
+
+## POINTER 599
+Zaude 09_03 (Lizardman)/Weather AB

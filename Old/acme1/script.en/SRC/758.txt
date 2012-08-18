@@ -1,0 +1,28 @@
+## POINTER 0
+
+...Hey there...baby? Haven't we
+seen each other a few times?
+
+## POINTER 1
+<STR>(RAV)
+Ya. We used ta meet 
+every now and then.
+
+## POINTER 2
+
+I thought so. It's been a while. I'm 
+still in the same place as always, 
+if you want to come and visit...
+
+## POINTER 3
+<STR>(RAV)
+Ah, maybe one of these days.
+
+## POINTER 4
+
+Sure. Well then, until then.
+
+## POINTER 5
+<STR>(KAR)
+Wherever we go, we run into 
+girls who know <STR>(RAV)...

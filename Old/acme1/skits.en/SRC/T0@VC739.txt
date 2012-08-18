@@ -1,0 +1,42 @@
+## POINTER 0
+(RIT)'s Age
+
+## POINTER 1
+(EST_P)
+Have you been doing research in 
+Aspio for a long time, (RIT)?
+
+## POINTER 2
+(RIT)
+Yeah, I guess about five years.
+
+## POINTER 3
+(EST_P)
+Five years, wow...
+(RIT), how old are you, anyway?
+
+## POINTER 4
+(RIT)
+...I'm fifteen.
+
+## POINTER 5
+(EST_P)
+W-wow... Y-you're so grown up. I can't believe 
+you were researching blastia at ten...
+
+## POINTER 6
+(RIT)
+It's not a big deal.
+How old are you, (EST)?
+
+## POINTER 7
+(EST_P)
+Oh, umm, I just turned eighteen this year.
+
+## POINTER 8
+(RIT)
+Time to grow up.
+
+## POINTER 9
+(EST_P)
+R-right... I'll do my best.

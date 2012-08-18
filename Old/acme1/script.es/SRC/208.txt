@@ -1,0 +1,151 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+<STR>(RIT)
+<VOICE>(VS19_500)Oye, ¿qué haces?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+<STR>(KAR)
+<VOICE>(VS19_501)¿Qué? Eh, n-nada.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293619]
+
+<VOICE>(VS19_502)¿Mmm? ¡Vaya, vaya, pero si
+es el pequeñín de <STR>(KAR)!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293619]
+
+<VOICE>(VS19_503)¿Qué te crees que haces
+volviendo aquí?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293619]
+<STR>(KAR)
+<VOICE>(VS19_504)¡E-Eh!
+¡¿Qué mosca os ha picado?!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293619]
+
+<VOICE>(VS19_505)Sí, no veo a Nan contigo.
+¿Es que ya te ha dado calabazas?
+¡Ja, ja, ja, ja!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293619]
+<STR>(KAR)
+<VOICE>(VS19_506)¡D-De eso nada! ¡Era una gruñona
+de cuidado, así que me largué!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293619]
+<STR>(YUR)
+<VOICE>(VS19_507)Ahora entiendo por qué
+a <STR>(KAR) no le hacía
+mucha gracia volver a Dahngrest.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293619]
+
+<VOICE>(VS19_508)¿Vosotros sois el último gremio que
+lo ha acogido? ¡Podríais haber escogido
+a alguien mejor que a este pringado!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+
+<VOICE>(VS19_509)¡De lo único que puede presumir este chaval
+es del número de gremios en los que ha estado!
+Oh, espera. Eso no es algo bueno.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293619]
+<STR>(YUR)
+<VOICE>(VS19_510)¿Son estos tus amigos, <STR>(KAR)?
+Podrías haber escogido a alguien
+mejor que a estos pringados.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293619]
+
+<VOICE>(VS19_511)¡¿Q-Qué has dicho?!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+<STR>(EST_P)
+<VOICE>(VS19_512)¡Qué hombres más indecorosos!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+
+<VOICE>(VS19_513)¡Cierra el pico!
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+<STR>(RIT)
+<VOICE>(VS19_514)Sí que se os va la lengua.
+No es que os falte razón, pero...
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+
+<VOICE>(VS19_515)Eso, tú sigue hablando...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293619]
+<STR>(RIT)
+<VOICE>(VS19_517)¿Qué es ese ruido?
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+
+<VOICE>(VS19_518)Mierda... Han vuelto otra vez...
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+
+<VOICE>(VS19_519)¡Vamos!
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+<STR>(KAR)
+<VOICE>(VS19_520)La alarma... 
+Se acercan monstruos.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+<STR>(EST_P)
+<VOICE>(VS19_521)¿Monstruos? 
+Espera... ¿Este temblor
+son sus pisadas?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294425]
+<STR>(YUR)
+<VOICE>(VS19_522)Si es así, han traído
+a todo un ejército.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294425]
+<STR>(KAR)
+<VOICE>(VS19_523)
+Sí, pero no te preocupes.
+Por muchos monstruos que
+hayan aparecido últimamente,<PAGE><VOICE>(VS19_524)nuestra barrera es
+muy potente y nunca
+se ha estropeado.<PAGE><VOICE>(VS19_525)Además, los gremios se ocupan
+de los monstruos que están
+fuera de la barrera.
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+<STR>(KAR)
+<VOICE>(VS19_526)¿Eh?...
+¡¡Oh, porras!!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294425]
+<STR>(EST_P)
+<VOICE>(VS19_527)¿La barrera ha... desaparecido?
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+<STR>(RIT)
+<VOICE>(VS19_528)¡¿Qué leches pasa aquí?!
+¡Los monstruos va
+a metérsenos dentro!
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+<STR>(YUR)
+<VOICE>(VS19_529)Mierda, ¿por qué tienen
+que pasarme estas cosas
+a mí allí donde vaya?
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844644]
+<STR>(RIT)
+<VOICE>(VS19_530)Tienes que estar gafado.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273844512]
+<STR>(YUR)
+<VOICE>(VS19_531)Puede...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294425]
+<STR>(EST_P)
+<VOICE>(VS19_532)¡<STR>(YUR), tenemos que
+detener a los monstruos!

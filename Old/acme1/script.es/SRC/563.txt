@@ -1,0 +1,104 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1283620892]
+<STR>(KAR)
+¿Es usted el señor Seron?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1283620892]
+
+Sí, soy Yu Seron.<PAGE>¿Sois de la Unión?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1283620892]
+<STR>(KAR)
+Sí, somos el gremio
+Gran Vesperia.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1283620892]
+Yu
+Gran Ves... Mmm, nunca
+había oído hablar de vosotros.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1283623446]
+<STR>(KAR)
+¡No se preocupe, nosotros podemos!
+Necesita que alguien entregue algo, ¿no?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1283620892]
+Yu
+Sí. Me gustaría que le llevaseis
+a mi amigo un libro.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1283620892]
+<STR>(JUD)
+¿Un libro?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1283620892]
+Yu
+Sí, es muy importante.
+Es un libro que contiene
+muchos recuerdos para los dos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847810]
+<STR>(KAR)
+Lo cuidaremos
+como a un rey.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847810]
+Yu
+No lo perdáis, por favor.
+Si eso pasase,<PAGE>os haría pagar una compensación por
+el objeto perdido a través de la Unión.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1283620892]
+<STR>(YUR)
+<STR>(KAR) te ha dicho que no
+te preocupes, ¿no? Pues ya está.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1283620892]
+<STR>(JUD)
+¿Y quién es
+ese amigo tuyo?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847810]
+Yu
+Se llama Nobis Celestial.
+Ahora mismo está de viaje, así
+que no sé exactamente dónde está.<PAGE>Probablemente esté en
+alguna ciudad de 
+Tolbyccia o Desier.<PAGE>Quedaos con este emblema, por favor.<PAGE>Si lo lleváis con vosotros,
+lo reconocerá y os
+llamará él mismo.<PAGE>Si os dice: «Un alma
+apasionada en un mar
+de llamas», es que es Nobis.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1283621963]
+<STR>(KAR)
+De acuerdo.<PAGE>Aceptamos esta tarea en nombre
+de la estrella que más brilla
+en la noche, Gran Vesperia.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1283623034]
+Yu
+Gracias por vuestra ayuda.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1283622945]
+<STR>(JUD)
+¿Qué ha sido lo último
+que has dicho que
+parecía un hechizo?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1283622945]
+<STR>(KAR)
+Es un juramento por aceptar
+un trabajo nuevo. Es la prueba
+de que aceptas el pedido del cliente.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1283622945]
+<STR>(JUD)
+Interesante.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847810]
+<STR>(YUR)
+¡Muy bien, vamos a buscar a Nobis!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1283622945]
+<STR>(RAP)
+*Ladrido agresivo*

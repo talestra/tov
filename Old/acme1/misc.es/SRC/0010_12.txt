@@ -1,0 +1,263 @@
+## POINTER 1200
+Fourth Continent/53/54 (Human: Two-Handed) 2/Weather B
+
+## POINTER 1201
+Fourth Continent/53/54 (Human: Two-Handed) 3/Weather B
+
+## POINTER 1202
+Fourth Continent/53/54 (Spike Shoulder Bear) 1/Weather B
+
+## POINTER 1203
+Fourth Continent/53/54 (Spike Shoulder Bear) 2/Weather B
+
+## POINTER 1204
+Fourth Continent/53/54 (Spike Shoulder Bear) 3/Weather B
+
+## POINTER 1205
+Fourth Continent/52 (Fat Ribbit) 1/Weather A
+
+## POINTER 1206
+Fourth Continent/52 (Fat Ribbit) 2/Weather A
+
+## POINTER 1207
+Fourth Continent/52 (Fat Ribbit) 3/Weather A
+
+## POINTER 1208
+Fourth Continent/52 (Human: Two-Handed) 1/Weather A
+
+## POINTER 1209
+Fourth Continent/52 (Human: Two-Handed) 2/Weather A
+
+## POINTER 1210
+Fourth Continent/52 (Human: Two-Handed) 3/Weather A
+
+## POINTER 1211
+Fourth Continent/52 (Spike Shoulder Bear) 1/Weather A
+
+## POINTER 1212
+Fourth Continent/52 (Spike Shoulder Bear) 2/Weather A
+
+## POINTER 1213
+Fourth Continent/52 (Spike Shoulder Bear) 3/Weather A
+
+## POINTER 1214
+Fourth Continent/52 (Fat Ribbit) 1/Weather B
+
+## POINTER 1215
+Fourth Continent/52 (Fat Ribbit) 2/Weather B
+
+## POINTER 1216
+Fourth Continent/52 (Fat Ribbit) 3/Weather B
+
+## POINTER 1217
+Fourth Continent/52 (Human: Two-Handed) 1/Weather B
+
+## POINTER 1218
+Fourth Continent/52 (Human: Two-Handed) 2/Weather B
+
+## POINTER 1219
+Fourth Continent/52 (Human: Two-Handed) 3/Weather B
+
+## POINTER 1220
+Fourth Continent/52 (Spike Shoulder Bear) 1/Weather B
+
+## POINTER 1221
+Fourth Continent/52 (Spike Shoulder Bear) 2/Weather B
+
+## POINTER 1222
+Fourth Continent/52 (Spike Shoulder Bear) 3/Weather B
+
+## POINTER 1223
+Fourth Continent/59 (Gentleman) 1/Weather A
+
+## POINTER 1224
+Fourth Continent/59 (Gentletear) 1/Weather B
+
+## POINTER 1225
+Fifth Continent/48/49/50/51 (Stone Tortoise) 1/Weather A
+
+## POINTER 1226
+Fifth Continent/48/49/50/51 (Stone Tortoise) 2/Weather A
+
+## POINTER 1227
+Fifth Continent/48/49/50/51 (Stone Tortoise) 3/Weather A
+
+## POINTER 1228
+Fifth Continent/48/49/50/51 (Skunk) 1/Weather A
+
+## POINTER 1229
+Fifth Continent/48/49/50/51 (Skunk) 2/Weather A
+
+## POINTER 1230
+Fifth Continent/48/49/50/51 (Skunk) 3/Weather A
+
+## POINTER 1231
+Fifth Continent/48/49/50/51 (Killer Bee) 1/Weather A
+
+## POINTER 1232
+Fifth Continent/48/49/50/51 (Killer Bee) 2/Weather A
+
+## POINTER 1233
+Fifth Continent/48/49/50/51 (Stone Tortoise) 1/Weather B
+
+## POINTER 1234
+Fifth Continent/48/49/50/51 (Stone Tortoise) 2/Weather B
+
+## POINTER 1235
+Fifth Continent/48/49/50/51 (Stone Tortoise) 3/Weather B
+
+## POINTER 1236
+Fifth Continent/48/49/50/51 (Skunk) 1/Weather B
+
+## POINTER 1237
+Fifth Continent/48/49/50/51 (Skunk) 2/Weather B
+
+## POINTER 1238
+Fifth Continent/48/49/50/51 (Skunk) 3/Weather B
+
+## POINTER 1239
+Fifth Continent/48/49/50/51 (Killer Bee) 1/Weather B
+
+## POINTER 1240
+Fifth Continent/48/49/50/51 (Killer Bee) 2/Weather B
+
+## POINTER 1241
+Fifth Continent/50 (Superstar Black) 1/Weather B
+
+## POINTER 1242
+Fifth Continent/50 (Superstar Black) 2/Weather B
+
+## POINTER 1243
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Treant: Pinecone) 1/Weather A
+
+## POINTER 1244
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Treant: Pinecone) 2/Weather A
+
+## POINTER 1245
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Treant: Pinecone) 3/Weather A
+
+## POINTER 1246
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Mantis) 1/Weather A
+
+## POINTER 1247
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Mantis) 2/Weather A
+
+## POINTER 1248
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Mantis) 3/Weather A
+
+## POINTER 1249
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Goblin: Mushroom) 1/Weather A
+
+## POINTER 1250
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Goblin: Mushroom) 2/Weather A
+
+## POINTER 1251
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Goblin: Mushroom) 3/Weather A
+
+## POINTER 1252
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Boar: Rhino)  1/Weather A
+
+## POINTER 1253
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Boar: Rhino)  2/Weather A
+
+## POINTER 1254
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Boar: Rhino)  3/Weather A
+
+## POINTER 1255
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Treant: Pinecone) 1/Weather B
+
+## POINTER 1256
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Treant: Pinecone) 2/Weather B
+
+## POINTER 1257
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Treant: Pinecone) 3/Weather B
+
+## POINTER 1258
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Mantis) 1/Weather B
+
+## POINTER 1259
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Mantis) 2/Weather B
+
+## POINTER 1260
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Mantis) 3/Weather B
+
+## POINTER 1261
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Goblin: Mushroom) 1/Weather B
+
+## POINTER 1262
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Goblin: Mushroom) 2/Weather B
+
+## POINTER 1263
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Goblin: Mushroom) 3/Weather B
+
+## POINTER 1264
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Boar: Rhino)  1/Weather B
+
+## POINTER 1265
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Boar: Rhino)  2/Weather B
+
+## POINTER 1266
+Sixth Continent/2/3/4/5/6/7/9/10/11 (Boar: Rhino)  3/Weather B
+
+## POINTER 1267
+Sixth Continent/10 (Griffin)/Weather AB
+
+## POINTER 1268
+Sixth Continent/11 (Goblin: Judas) 1/Weather B
+
+## POINTER 1269
+Sixth Continent/11 (Goblin: Judas) 2/Weather B
+
+## POINTER 1270
+Sixth Continent/1 (Balloon Ghost: Big Face) 1/Weather AB
+
+## POINTER 1271
+Sixth Continent/1 (Balloon Ghost: Big Face) 2/Weather AB
+
+## POINTER 1272
+Sixth Continent/1 (Balloon Ghost: Big Face) 3/Weather AB
+
+## POINTER 1273
+Sixth Continent/1 (Superstar S) 1/Weather B
+
+## POINTER 1274
+Sixth Continent/8 (Gentleman) 1/Weather A
+
+## POINTER 1275
+Sixth Continent/8 (Gentlemieu) 1/Weather B
+
+## POINTER 1276
+Coliseum: Finish 30 People
+
+## POINTER 1277
+Coliseum: Finish 50 People
+
+## POINTER 1278
+Coliseum: Finish 80 People
+
+## POINTER 1279
+Coliseum: Finish 100 People
+
+## POINTER 1280
+Coliseum: Finish 200 People
+
+## POINTER 1281
+For Coliseum Event Location
+
+## POINTER 1282
+Coliseum Talk 01
+
+## POINTER 1283
+Coliseum Talk 02
+
+## POINTER 1284
+Coliseum Talk 03
+
+## POINTER 1285
+Coliseum Talk 04
+
+## POINTER 1286
+Coliseum Talk 05
+
+## POINTER 1287
+Coliseum Talk 06

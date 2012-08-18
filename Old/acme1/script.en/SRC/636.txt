@@ -1,0 +1,89 @@
+## POINTER 0
+Duke
+<VOICE>(VA025_001)What are you...?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA025_002)Who are you paying 
+your respects to?
+
+## POINTER 2
+Duke
+<VOICE>(VA025_003)...An old friend.<PAGE><VOICE>(VA025_004)A dear comrade who shared my cause, 
+and gave his life in battle...
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VA025_005)Battle...? Was 
+he in a guild?
+
+## POINTER 4
+Duke
+<VOICE>(VA025_006)Why would you think so?
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VA025_007)Well, Imperial Knights who 
+fall in the line of duty are 
+given a state funeral.
+
+## POINTER 6
+Duke
+<VOICE>(VA025_008)This has nothing to do with 
+the empire or the guilds.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VA025_009)What's that supposed to mean?
+
+## POINTER 8
+Duke
+<VOICE>(VA025_010)Those institutions are nothing more 
+than man-made trivialities.
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VA025_011)Is he the reason you've been 
+driftin' around so long?
+
+## POINTER 10
+Duke
+<VOICE>(VA025_012)That is none of your concern.
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VA025_013)Hey, no need ta get testy.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VA025_014)...Just whose grave is this, anyway?
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VA025_015)It's not a knight or somebody from 
+a guild. That's gotta mean...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VA025_016)I know some people can't afford 
+a burial, but why put them 
+in a place like this.?
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VA025_017)<STR>(EST_P), what are you doing?
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VA025_018)We may not know whose grave 
+this is, but this feels like 
+the right thing to do...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VA025_019)Might as well...
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VA025_020)Okay, let's head back down. 
+I think we're done here.

@@ -1,0 +1,179 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(YUR)
+<VOICE>(VA014_001)¿Eres Mimula?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+Mimula
+<VOICE>(VA014_002)Sí. ¿Y vosotros
+quiénes sois?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+<STR>(KAR)
+<VOICE>(VA014_003)
+Somos Gran Vesperia. El gremio que aceptó
+el trabajo que puso en la Unión.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+Mimula
+<VOICE>(VA014_004)¡Ya era hora! Por supuesto,
+os rebajaré la paga por lo
+que me habéis hecho esperar.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(KAR)
+<VOICE>(VA014_005)¡¿Qué?! ¡Eso no es justo!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+Mimula
+<VOICE>(VA014_006)¿Esta jovencita indecente también
+forma parte de vuestro Gran... lo que sea?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(JUD)
+<VOICE>(VA014_007)¿Tienes algún problema con mi vestimenta?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+Mimula
+<VOICE>(VA014_008)Es tu reputación.
+En fin, ¿en serio
+aceptáis el trabajo?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(KAR)
+<VOICE>(VA014_009)Bueno, ¿en qué consiste?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+Mimula
+<VOICE>(VA014_010)No he vuelto a ver a mi mayordomo
+Sebastian desde que se fue a negociar
+con cierto gremio.<PAGE><VOICE>(VA014_011)Me gustaría decirle algo,
+pero nadie quiere ir en mi lugar.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+<STR>(JUD)
+<VOICE>(VA014_012)¿Has pensado en ir tú misma?
+Sería un día de viaje encantador, seguro.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+Mimula
+<VOICE>(VA014_013)¡Ooh! ¡No es momento para bromas!
+No me interesa ir a un lugar tan vil.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(YUR)
+<VOICE>(VA014_014)Y ahí entramos nosotros, ¿no?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1288185925]
+Mimula
+<VOICE>(VA014_015)Naturalmente, los plebeyos deben
+atender las palabras de la nobleza.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(YUR)
+<VOICE>(VA014_016)¿Y qué hace una distinguida noble
+como tú en los barrios bajos?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+Mimula
+<VOICE>(VA014_017)Es que yo... verás...
+¡Oooh! ¡Qué grosero!
+¡¿Qué te importa?!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(KAR)
+<VOICE>(VA014_018)¿Y de qué gremio estamos hablando?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+Mimula
+<VOICE>(VA014_019)Se llama Garra del Leviatán.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(YUR)
+<VOICE>(VA014_020)¡Garra del...!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+Mimula
+<VOICE>(VA014_021)Primero tendréis que averiguar si Sebastian
+está a salvo, y después cómo han ido
+las negociaciones.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(KAR)
+<VOICE>(VA014_022)¿Qué tenía que negociar?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+Mimula
+<VOICE>(VA014_023)Eso no es
+asunto tuyo.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+<STR>(YUR)
+<VOICE>(VA014_024)Sí, no lo es, pero
+no queremos líos de más.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+<STR>(JUD)
+<VOICE>(VA014_025)Así que básicamente quieres
+que te traigamos a Sebastian.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+Mimula
+<VOICE>(VA014_026)Eso es.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(YUR)
+<VOICE>(VA014_027)Si tratamos con Garra del Leviatán, supongo
+que nos toca ir a la Mansión de los Infames.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+<STR>(JUD)
+<VOICE>(VA014_028)¿Qué tipo de aficiones
+peligrosas os gustan?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+Mimula
+<VOICE>(VA014_029)¡Oooh! ¡Ya os he dicho
+que no es asunto vuestro!<PAGE><VOICE>(VA014_030)¡Deberíais tener en mente solo
+el trabajo que os he dado y punto!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+<STR>(JUD)
+<VOICE>(VA014_031)Tal reacción no es apropiada para una señorita.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+Mimula
+<VOICE>(VA014_032)Mmpf.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(RAP)
+<VOICE>(VA014_033)¡Guau!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1284893150]
+<STR>(YUR)
+<VOICE>(VA014_034)Ya te he oído, <STR>(RAP). 
+Vámonos.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Lia;time:1284893402]
+<STR>(KAR)
+<VOICE>(VA014_035)Vale.<PAGE><VOICE>(VA014_036)Aceptamos esta tarea en nombre
+de la estrella que más brilla
+en la noche, Gran Vesperia.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162802]
+Mimula
+<VOICE>(VA014_037)¿Qué? ¿Ese es vuestro lema? Por favor...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:Lia;time:1284893402]
+<STR>(JUD)
+<VOICE>(VA014_038)Jamás podríamos entender
+los refinadísimos gustos de
+una señorita tan elegante, <STR>(KAR).
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:Lia;time:1284893402]
+<STR>(RAP)
+<VOICE>(VA014_039)¡Guau!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:Lia;time:1284893402]
+Mimula
+<VOICE>(VA014_040)¡Oooh! ¡¿Cómo osas reírte de mí?!
+No lo pienso tolerar. ¡Oooh!

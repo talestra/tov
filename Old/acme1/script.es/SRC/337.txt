@@ -1,0 +1,220 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1283095340]
+<VOICE>(VS31_500)Esa caja...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(EST_P)
+<VOICE>(VS31_501)¡¿Sabes algo sobre ella?!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<VOICE>(VS31_502)Era de Longchi... 
+¿Dónde la habéis encontrado?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(RAV)
+<VOICE>(VS31_503)En un navío llamado
+Atherum, señorita mía.
+¿Ha oío hablar de él?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<VOICE>(VS31_504)¡Por supuesto! ¡¿También
+sabéis lo del Atherum?!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<STR>(RAV)
+<VOICE>(VS31_505)S-Sí. Dio la casualidá de que
+nos cruzamos con él en el mar...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<VOICE>(VS31_506)¿Visteis a Longchi?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(RAV)
+<VOICE>(VS31_507)¿Y Longchi es...?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<VOICE>(VS31_508)Oh, Longchi es mi amado...
+Disculpadme si os molesto
+con mis problemas personales.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(RAV)
+<VOICE>(VS31_509)Tu amado... Leñe... 
+A ver, <STR>(KAR). Te toca.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(KAR)
+<VOICE>(VS31_510)Es para matarte...
+Mmm, todo lo que vimos fue...
+Esto... el propio barco.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<VOICE>(VS31_511)Oh, entiendo...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(JUD)
+<VOICE>(VS31_512)¿Podrías decirnos tu nombre?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<VOICE>(VS31_513)Me llamo Yuefan.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(EST_P)
+<VOICE>(VS31_514)Es el mismo nombre que
+vimos en el diario que
+encontramos en el Atherum.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(YUR)
+<VOICE>(VS31_515)¿Te suena de algo
+el cristal cielo claro?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(RIT)
+<VOICE>(VS31_516)Dicen que tiene el poder
+de rechazar a los monstruos.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+Yuefan
+<VOICE>(VS31_517)El sabio nos dijo que nos hacía
+falta para formar una barrera
+alrededor del poblado.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+Yuefan
+<VOICE>(VS31_518)¿E-Es eso lo que hay en la caja?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(EST_P)
+<VOICE>(VS31_519)Sí. Hemos venido
+a entregárosla.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+Yuefan
+<VOICE>(VS31_520)Y-Ya veo...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(RIT)
+<VOICE>(VS31_521)Oye... ¿Es esa la llave?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+Yuefan
+<VOICE>(VS31_522)¿Me dejáis la caja un momento?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(KAR)
+<VOICE>(VS31_523)Vaya... ¿Esto es
+el cristal cielo claro?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<STR>(RIT)
+<VOICE>(VS31_524)Eso parece.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(RAV)
+<VOICE>(VS31_525)¿Y quién es ese sabio
+que decías antes?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+Yuefan
+<VOICE>(VS31_526)Es un gran krityano que vino
+desde el desierto a nuestro poblado.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(KAR)
+<VOICE>(VS31_527)¿Un krityano?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(RIT)
+<VOICE>(VS31_528)Bueno, crear un barrera consiste
+básicamente en crear un blastia.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+Yuefan
+<VOICE>(VS31_529)¿Blas... qué? Eh...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<STR>(KAR)
+<VOICE>(VS31_530)
+Pero se supone que no se pueden crear
+blastias con nuestra tecnología actual, ¿no?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<STR>(RIT)
+<VOICE>(VS31_531)Hay gente capaz. Ya viste
+los blastias de la colina
+de Ehmead y Caer Bocram.<PAGE><VOICE>(VS31_532)
+Pero no creo que este sabio
+fuera quien construyó los
+de fórmulas raras.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+Yuefan
+<VOICE>(VS31_533)Lo... lo siento. Pero
+no os sigo en absoluto.
+<PAGE><VOICE>(VS31_534)En cualquier caso, el sabio dijo
+que nos hacía falta el cristal
+cielo claro para la barrera.<PAGE><VOICE>(VS31_535)Longchi salió en su búsqueda...
+pero ya han pasado tres años
+desde que se fue.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<STR>(YUR)
+<VOICE>(VS31_536)Tres años, ¿eh? 
+Debes estar preocupada.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(KAR)
+<VOICE>(VS31_537)Espera, esto no encaja.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(EST_P)
+<VOICE>(VS31_538)Sí, las historias
+no coinciden.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<STR>(RAV)
+<VOICE>(VS31_539)No iréis a creer que sá
+equivocao y ha contao mil
+años de menos, ¿no?
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(RIT)
+<VOICE>(VS31_540)¿Cuántos años tendrá?
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<STR>(JUD)
+<VOICE>(VS31_541)¿Ese sabio está ahora en
+el poblado? ¿Dónde vive?
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+Yuefan
+<VOICE>(VS31_542)Oh, sí. Su casa es
+la que está al fondo
+del pueblo.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<STR>(JUD)
+<VOICE>(VS31_543)Creo que nos enteraremos de todo
+mucho antes si vamos a hablar con él.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1283096835]
+<STR>(EST_P)
+<VOICE>(VS31_544)S-Sí, es posible.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+Yuefan
+<VOICE>(VS31_545)Mmmm... Si vais a ir allí, 
+¿os importaría entregarle
+el cristal cielo claro por mí?
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(EST_P)
+<VOICE>(VS31_546)Sí, por supuesto.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+Yuefan
+<VOICE>(VS31_547)Muchísimas gracias.
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:xander;time:1280140546]
+<STR>(KAR)
+<VOICE>(VS31_548)Vale, vamos allá.

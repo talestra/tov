@@ -1,0 +1,107 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284719830]
+<STR>(EST_P)
+<VOICE>(VS34_211)<STR>(FRE)...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1280828330]
+<STR>(RIT)
+<VOICE>(VS34_212)Creo que a este tío no vamos
+a poder engatusarlo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1280828330]
+<STR>(FRE)
+<VOICE>(VS34_213)Devolvednos a la señorita <STR>(EST) 
+y la piedra.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1284719830]
+<STR>(EST_P)
+<VOICE>(VS34_214)¿Para qué quieres
+la apátheia, <STR>(FRE)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1280828330]
+<STR>(YUR)
+<VOICE>(VS34_215)Así que los Caballeros
+también andan tras esta cosa.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1280778172]
+<STR>(KAR)
+<VOICE>(VS34_216)Por eso los Espadas
+Cazadoras estaban aquí.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1280778172]
+<STR>(FRE)
+<VOICE>(VS34_217)Dámela.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284719830]
+<STR>(KAR)
+<VOICE>(VS34_218)¡Hala, ¿va en serio?!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1284719830]
+<STR>(YUR)
+<VOICE>(VS34_219)
+¿Qué leches te crees
+que estás haciendo?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1284719830]
+<STR>(YUR)
+<VOICE>(VS34_220)¿Usas al ejército para obtener
+el control de la ciudad?
+Ahí te has pasado un poco.<PAGE><VOICE>(VS34_221)Tal vez estés cumpliendo
+con tu «deber», pero no puedes
+hacerlo todo por la fuerza.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1280828330]
+Sodia
+<VOICE>(VS34_222)¡Capitán, esperando órdenes!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1284719830]
+<STR>(YUR)
+<VOICE>(VS34_223)Creía que estabas en
+los Caballeros para
+cambiar estas cosas.<PAGE><VOICE>(VS34_224)Ni siquiera sé por qué
+estoy diciendo todo esto.
+Tú lo sabes perfectamente.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1280780575]
+<STR>(FRE)
+<VOICE>(VS34_225)...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1284719830]
+<STR>(YUR)
+<VOICE>(VS34_226)¿Te ha comido la lengua el gato?<PAGE><VOICE>(VS34_227)Vamos, ¿cuál es la diferencia
+entre esto y lo que esperaría
+del Imperio?<PAGE><VOICE>(VS34_228)¡¿Es que quieres seguir
+el camino de Ragou y Cumore?!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1284719830]
+<STR>(FRE)
+<VOICE>(VS34_229)Si lo hiciera,
+¿me matarías a mí también?<PAGE><VOICE>(VS34_230)¿Me borrarías del mapa,
+al igual que a ellos dos?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1280780575]
+<STR>(KAR)
+<VOICE>(VS34_231)¿Eh?... Qué quiere...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1284719830]
+<STR>(YUR)
+<VOICE>(VS34_232)Si te convirtieras
+en un villano, no me
+dejarías otra elección.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1284719830]
+<STR>(RIT)
+<VOICE>(VS34_233)¿Os importaría dejar
+esta encantadora riña
+para otro día?<PAGE><VOICE>(VS34_234)Ahora tenemos prisa, ¿no?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988446]
+<STR>(YUR)
+<VOICE>(VS34_235)Mmpf.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1280780575]
+<STR>(RIT)
+<VOICE>(VS34_236)¡Vamos!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1280780575]
+Sodia
+<VOICE>(VS34_237)¡Capitán!

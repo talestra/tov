@@ -1,0 +1,184 @@
+## POINTER 0
+<STR>(RIT)
+What are you 
+all up to?
+
+## POINTER 1
+Nobis
+...Eh? Well, if it isn't 
+Brave Vesperia!
+
+## POINTER 2
+<STR>(YUR)
+Oh, Nobis... It looks like you're doing 
+well. We were worried about you.
+
+## POINTER 3
+Nobis
+Yes, as you can see, I've 
+made a complete recovery.
+
+## POINTER 4
+<STR>(YUR)
+That's good. What have 
+you been doing with 
+these mages here?
+
+## POINTER 5
+Yu
+I made a weapon from the everlight 
+that you got for me.<PAGE>Now I've been trying to get these mages 
+to apply a formula to it for me.
+
+## POINTER 6
+
+I'm really looking forward 
+to working with everlight!<PAGE>As far as metals go, everlight has an amazingly 
+high level of aer conductance.
+
+## POINTER 7
+<STR>(KAR)
+Aer conductance...that's how easily 
+something can carry aer, right?
+
+## POINTER 8
+<STR>(RIT)
+Right. Formulas used on weapons with a high 
+level of aer conductance have stronger effects, 
+and make for more powerful attacks.
+
+## POINTER 9
+<STR>(KAR)
+Aer...conductance?
+
+## POINTER 10
+<STR>(RIT)
+It's a measure of how easily something carries aer.<PAGE>You know how you use your 
+bag to attack enemies?<PAGE>Formulas used on weapons with a high level 
+of aer conductance have stronger effects, 
+and make for more powerful attacks.
+
+## POINTER 11
+<STR>(KAR)
+So that's why enemies 
+get weaker when I hit 
+them with my bag...
+
+## POINTER 12
+<STR>(RIT)
+Right, same with my belt.
+
+## POINTER 13
+<STR>(KAR)
+Hmmm...I should take better 
+care of my bag...
+
+## POINTER 14
+<STR>(RIT)
+You sure don't know very much 
+about your own possessions...
+
+## POINTER 15
+
+We're going to try to apply the spirit 
+formula that we've recently developed.<PAGE>By our calculations, when the stored energy is 
+released as magic, it will be several times 
+more powerful than magic produced from aer.
+
+## POINTER 16
+<STR>(KAR)
+A technique for combining a sword with magic...very clever.
+
+## POINTER 17
+Nobis
+Yes...
+Well then, 
+if you're ready...
+
+## POINTER 18
+
+Yes, of course...
+
+## POINTER 19
+
+...It's finished!
+
+## POINTER 20
+Nobis
+Ohh... It's giving off a 
+fantastic level of power!<PAGE>Truly, the light of the Soul Smiths 
+has been restored to this blade!<PAGE>Now I have to find someone 
+to use the blade...
+
+## POINTER 21
+
+If you do, we'd also like to record 
+exactly how much of an effect the spirit 
+magic is having on the weapon.
+
+## POINTER 22
+<STR>(YUR)
+Oh yeah? I think I know just 
+the person for the job.
+
+## POINTER 23
+<STR>(RIT)
+...You mean me?
+
+## POINTER 24
+<STR>(YUR)
+Don't you think that weapon 
+would suit you pretty well?<PAGE>And you'd be able to record accurate data, too. 
+There's no one better suited to take it.
+
+## POINTER 25
+<STR>(RIT)
+That's true, but...
+
+## POINTER 26
+Nobis
+I'd be quite comfortable with you using it.
+
+## POINTER 27
+
+...I guess we don't have any choice. If 
+the client himself is suggesting it, 
+we'll have to let the weirdo have it.
+
+## POINTER 28
+<STR>(RIT)
+This is...
+
+## POINTER 29
+
+You can tell it's quite powerful
+just by holding it, can't you?
+
+## POINTER 30
+<STR>(EST_P)
+...We would love the chance 
+to use this weapon.
+
+## POINTER 31
+Nobis
+Certainly. I'd love if you could use 
+it in battle, all the while helping to 
+promote our guild and our services.<PAGE>Then perhaps the name of the Soul Smiths will once 
+again begin to be known across the world, and skilled 
+artisans will seek us out to join our ranks!
+
+## POINTER 32
+<STR>(YUR)
+This way, it works well for both of us.
+
+## POINTER 33
+Nobis
+Yes.
+
+## POINTER 34
+<STR>(EST_P)
+It looks like you've taken a liking to it.
+
+## POINTER 35
+<STR>(RIT)
+...Let's go.

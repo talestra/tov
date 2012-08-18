@@ -1,0 +1,116 @@
+## POINTER 0
+<STR>(EST_P)
+...We're too late. This 
+is so horrible.
+
+## POINTER 1
+<STR>(RIT)
+Outta the way!
+
+## POINTER 2
+<STR>(RIT)
+Hmm, I might be able to do something with this.
+
+## POINTER 3
+<STR>(EST_P)
+<STR>(RIT), watch out! Behind you!
+
+## POINTER 4
+
+We won't let you fix the barrier.
+
+## POINTER 5
+<STR>(RIT)
+What the hell! It's just one thing 
+after another! I'm sick of this!
+
+## POINTER 6
+<STR>(YUR)
+Looks like we have those guys to thank 
+for the barrier blastia failing on us.
+
+## POINTER 7
+<STR>(EST_P)
+But why?
+
+## POINTER 8
+<STR>(FRE)
+Looks like you've got your 
+hands full over here.
+
+## POINTER 9
+<STR>(YUR)
+So, the Don's little 
+lecture didn't stick?
+
+## POINTER 10
+<STR>(FRE)
+I'm just doing what I can to help. How's 
+the repair of the barrier blastia going?
+
+## POINTER 11
+<STR>(YUR)
+That'll depend on our genius mage, here.
+
+## POINTER 12
+<STR>(RIT)
+...The core is still there. They just fiddled 
+with your formula a bit and stopped it, didn't 
+they? What the...? This is...an amplifier?!<PAGE>And this formula again... The same as 
+they were using back on Ehmead Hill...
+
+## POINTER 13
+<STR>(YUR)
+The barrier disappeared when the monsters 
+attacked. It can't be a coincidence that 
+they happened at the same time, can it?
+
+## POINTER 14
+<STR>(FRE)
+...Probably not.
+
+## POINTER 15
+<STR>(YUR)
+So does your appearance here 
+mean this is tied up with all 
+of the empire's problems?
+
+## POINTER 16
+<STR>(FRE)
+I don't know. That's why I came 
+here to check things out.
+
+## POINTER 17
+<STR>(RIT)
+...That goes there, and 
+this goes...here!
+
+## POINTER 18
+<STR>(EST_P)
+That's our <STR>(RIT)!
+
+## POINTER 19
+<STR>(FRE)
+All right, time to clean up the monsters outside the barrier! The guilds 
+won't be able to complain if we fight monsters outside the city.
+
+## POINTER 20
+<STR>(YUR)
+We'll leave the monsters to 
+<STR>(FRE). Let's go to the Union 
+and ask about Barbos.
+
+## POINTER 21
+<STR>(EST_P)
+You really trust 
+<STR>(FRE), don't you?
+
+## POINTER 22
+<STR>(YUR)
+Only because there's no one else I 
+can trust. That's how I look at it.
+
+## POINTER 23
+<STR>(EST_P)
+<STR>(YUR), I don't get 
+you sometimes.

@@ -1,0 +1,210 @@
+## POINTER 0
+Natz
+<VOICE>(VS34_163)Duce Belius! Please control 
+yourself! Duce!!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS34_164)We've got no choice 
+but to try and stop 
+her with force!
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS34_165)But we're dead if we hold 
+anything back against 
+someone like this!
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS34_166)I can't believe this...!
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS34_167)Belius...
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS34_168)<STR>(EST_P), wake up!
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS34_169)Right...
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS34_170)Here she comes!
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS34_171)I-it's over...
+
+## POINTER 9
+Natz
+<VOICE>(VS34_172)Duce, no!!
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS34_173)What now?
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS34_174)I never thought this would happen...
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS34_175)I'm sorry... 
+I...I...
+
+## POINTER 13
+Belius
+<VOICE>(VS34_176)Worry...not...<PAGE><VOICE>(VS34_177)You were...thinking 
+only of saving me...
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS34_178)...Oh, I'm so sorry. 
+I just...
+
+## POINTER 15
+Belius
+<VOICE>(VS34_179)Power corrupts... But you, 
+you are different.<PAGE><VOICE>(VS34_180)Never lose that kindness...the compassion 
+you so readily show to others...
+
+## POINTER 16
+Belius
+<VOICE>(VS34_181)Now, go to Phaeroh... 
+If you would learn 
+of your destiny...
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS34_182)To Phaeroh?
+
+## POINTER 18
+Belius
+<VOICE>(VS34_183)Natz, there is much I owe you. Do not 
+harbor a grudge toward these people.
+
+## POINTER 19
+Natz
+<VOICE>(VS34_184)Duce, no!!
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS34_185)W-wait! 
+No, I beg you! 
+Don't go!
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VS34_186)Belius... (Farewell...)
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS34_187)This is... Is this the same 
+as what was in the case 
+from the ghost ship...?
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS34_188)An apatheia...
+
+## POINTER 24
+Belius
+<VOICE>(VS34_189)Convey my soul--this cyano ciel--to
+my ally, Don Whitehorse.
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS34_190)So this must've been 
+what Harry meant.
+
+## POINTER 26
+Clint
+<VOICE>(VS34_191)Humans... We'll be taking that stone.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS34_192)Is this what you guys were 
+after? Hope you don't 
+think we'll just let it go.
+
+## POINTER 28
+Clint
+<VOICE>(VS34_193)Then...we'll just have to 
+pound on you until you do.
+
+## POINTER 29
+Sodia
+<VOICE>(VS34_194)That's enough! Everyone 
+throw down your weapons!
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS34_195)Damn, look who's here.
+
+## POINTER 31
+Sodia
+<VOICE>(VS34_196)You... Take anyone still standing 
+in the coliseum into custody!
+
+## POINTER 32
+<STR>(RAV)
+<VOICE>(VS34_197)We're gonna wind up in chains 
+if we don't blow this scene.
+
+## POINTER 33
+<STR>(RIT)
+<VOICE>(VS34_198)But we haven't done anything 
+to warrant being arrested!
+
+## POINTER 34
+<STR>(KAR)
+<VOICE>(VS34_199)I don't think they'd have any 
+trouble cooking up a reason 
+to put us behind bars!
+
+## POINTER 35
+<STR>(JUD)
+<VOICE>(VS34_200)You're right. Escape 
+is our best option.
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS34_201)Okay, we're getting 
+out of here for now.
+
+## POINTER 37
+<STR>(EST_P)
+<VOICE>(VS34_202)No...I...I don't want 
+to go anywhere.<PAGE><VOICE>(VS34_203)My power... It really 
+is a poison...<PAGE><VOICE>(VS34_204)I thought I could help her, but 
+I only brought about her death. 
+I couldn't save her...!
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS34_205)Wh-what are you doing?!
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS34_206)There. You saved me, didn't you?
+
+## POINTER 40
+<STR>(EST_P)
+<VOICE>(VS34_207)What...? 
+Ah, but I...
+
+## POINTER 41
+<STR>(YUR)
+<VOICE>(VS34_208)Let's move.
+
+## POINTER 42
+<STR>(EST_P)
+<VOICE>(VS34_209)...Okay.
+
+## POINTER 43
+Sodia
+<VOICE>(VS34_210)Wait!

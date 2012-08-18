@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252240053]
+La mente serena de (RIT)
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298351]
+(EST_P)
+(RIT), pareces estar muy habituada a luchar
+para ser alguien que se ha pasado tanto
+tiempo investigando en Aspio.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899771]
+(RIT)
+Es solo que se me da bien la magia. Además,
+he trabajado para cultivar una mente serena.
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298351]
+(YUR)
+Una mente serena, ¿eh?
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298351]
+(EST_P)
+¿Tiene eso algo de malo?
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298351]
+(KAR)
+¡Buuuh!
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266576076]
+(KAR)
+¡¡Ay!!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899771]
+(RIT)
+Perdona, creía que eras un monstruo.
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298351]
+(KAR)
+Argh... Algún día te pillaré
+desprevenida, ya lo verás...

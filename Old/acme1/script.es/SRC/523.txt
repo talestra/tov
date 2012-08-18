@@ -1,0 +1,199 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(RAV)
+<VOICE>(VS59_017)Eh... Quietos paraos... Estas cosas
+nos sienta fatal a los ancianos...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(YUR)
+<VOICE>(VS59_018)Vamos, viejales.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(RIT)
+<VOICE>(VS59_019)Sí. Recuerda que nos tocará volver
+a subir en cuanto terminemos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(RIT)
+<VOICE>(VS59_020)Está muerto.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152419]
+<STR>(RAP)
+<VOICE>(VS59_021)¡Grrrr!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(EST_P)
+<VOICE>(VS59_022)¡Viene alguien!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(JUD)
+<VOICE>(VS59_023)¿Una persona? ¿Aquí?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152419]
+Duke
+<VOICE>(VS59_024)Vosotros.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(YUR)
+<VOICE>(VS59_025)¡Duke! Como siempre,
+apareciendo de la nada.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+Duke
+<VOICE>(VS59_026)¿Qué estáis haciendo aquí?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(YUR)
+<VOICE>(VS59_027)Nos hemos enterado de que
+aquí hay un entelechia.<PAGE><VOICE>(VS59_028)Hemos venido a pedirle
+que se convierta en un espíritu.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152419]
+Duke
+<VOICE>(VS59_029)¿Un «espíritu»?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(JUD)
+<VOICE>(VS59_030)Un ser resultante de la reencarnación
+de un entelechia a través de su apátheia.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(EST_P)
+<VOICE>(VS59_031)Es posible que podamos resolver
+el problema del aer por completo
+con el poder de los espíritus.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(RIT)
+<VOICE>(VS59_032)Convirtiendo el aer en maná.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152419]
+Duke
+<VOICE>(VS59_033)Entiendo...
+Por esa razón...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(YUR)
+<VOICE>(VS59_034)¿Duke?...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152419]
+Duke
+<VOICE>(VS59_035)Reencarnaciones... Convertir
+el aer... Estáis intentando
+rehacer el propio mundo.<PAGE><VOICE>(VS59_036)Todo para resolver un problema
+desencadenado por los humanos.<PAGE><VOICE>(VS59_037)Cuánta arrogancia.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(YUR)
+<VOICE>(VS59_038)Pero si no arreglamos este embrollo del aer,
+el adephagos acabará destruyendo el mundo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(EST_P)
+<VOICE>(VS59_039)Belius lo comprendió.<PAGE><VOICE>(VS59_040)Pasó a ser Undine, y nos
+está prestando su poder.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152419]
+<STR>(JUD)
+<VOICE>(VS59_041)Phaeroh también.<PAGE><VOICE>(VS59_042)Ha renacido como Efreet.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152419]
+Duke
+<VOICE>(VS59_043a)La forma real
+de Terca Lumireis<PAGE><VOICE>(VS59_043b)es aquella en la que todos los seres
+vivos, incluyendo los entelechia, viven
+en su estado natural.<PAGE><VOICE>(VS59_044)
+Vosotros también debéis entender eso.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152419]
+<STR>(KAR)
+<VOICE>(VS59_045)¡¿Y qué hay de Gusios?!
+¡Intentó controlar el aer!<PAGE><VOICE>(VS59_046)¡Pero acabó tragando demasiado
+y se volvió muy peligroso!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(RAV)
+<VOICE>(VS59_047)Pos sí. No quiero ni imaginar qué habría pasao
+si no llega a reencarnarse como Gnome.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1296763735]
+Duke
+<VOICE>(VS59_048)Aun así,
+no pienso
+aceptarlo.<PAGE><VOICE>(VS59_049)Protegeré este mundo.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(YUR)
+<VOICE>(VS59_050)Eso ya lo has dicho antes.
+¿Qué planeas hacer exactamente
+para protegerlo?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+Duke
+<VOICE>(VS59_051)No me entrometeré con vosotros.
+Así que vosotros haced lo propio.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152419]
+Duke
+<VOICE>(VS59_052)Más adelante se encuentra uno de los
+manantiales más antiguos del mundo.
+Mostrad el debido respeto.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(JUD)
+<VOICE>(VS59_053)¿No nos vas a contestar la pregunta mas importante?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+Duke
+<VOICE>(VS59_054)...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+Duke
+<VOICE>(VS59_055)Hasta siempre... Dudo que
+nos volvamos a encontrar.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(KAR)
+<VOICE>(VS59_056)¡Eh, oye! Se ha ido...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(RAV)
+<VOICE>(VS59_057)Este tío... es la alegría de la huerta...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(EST_P)
+<VOICE>(VS59_058)Me pregunto qué
+pretenderá hacer...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(YUR)
+<VOICE>(VS59_059)No lo sé, pero me da
+muy mala espina.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(JUD)
+<VOICE>(VS59_060)<STR>(RIT), ¿ocurre algo?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(RIT)
+<VOICE>(VS59_061)Bueno...<PAGE><VOICE>(VS59_062)Creo que si tuviéramos su espada,
+la Dein Nomos, podríamos concentrar
+la energía de los espíritus en el adephagos.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(EST_P)
+<VOICE>(VS59_063)¿Creéis que deberíamos seguirlo
+y pedirle que no la preste?
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152419]
+<STR>(RAV)
+<VOICE>(VS59_064)Sí, pa mí que ahora mismo no
+está mu caritativo, que digamos.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(KAR)
+<VOICE>(VS59_065)Para mí tampoco...
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:xander;time:1286730572]
+<STR>(YUR)
+<VOICE>(VS59_066)Bueno, en cualquier caso, primero
+tenemos que reunir a todos los espíritus.<PAGE><VOICE>(VS59_067)Centrémonos en eso por ahora.

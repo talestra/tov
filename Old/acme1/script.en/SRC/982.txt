@@ -1,0 +1,108 @@
+## POINTER 0
+
+Are you staying the night? We 
+just got a catch of some delicious 
+fatty fish in today!<PAGE>You should definitely stay at our inn and 
+experience our delicious seafood ricebowl!
+
+## POINTER 1
+<STR>(RAV)
+Oo, that sounds mighty tasty!
+
+## POINTER 2
+
+Do you like seafood ricebowls, young man?
+
+## POINTER 3
+<STR>(YUR)
+Sure, I guess.
+
+## POINTER 4
+
+Well then, this is for you.
+
+## POINTER 5
+<STR>(YUR)
+A recipe?
+
+## POINTER 6
+<STR>(JUD)
+It's a recipe for seafood ricebowl.
+
+## POINTER 7
+
+It's my grandson's favorite food, you see. 
+He's working in the Imperial Knights right 
+now, so I don't get to see him very much...<PAGE>He's right around the same age as you, young man. 
+I wish I could give my grandson a taste of his grandma's 
+home cooking, which I'm sure he's missing...<PAGE>Oh, I'm sorry... I must sound so selfish. 
+But please take it, if you'd like.
+
+## POINTER 8
+<STR>(KAR)
+A knight around the 
+same age as <STR>(YUR)...
+
+## POINTER 9
+<STR>(EST_P)
+He said his family lived 
+in Capua Nor, didn't he?
+
+## POINTER 10
+<STR>(YUR)
+Is your grandson's 
+name Hachette?
+
+## POINTER 11
+
+H-how did you know that?
+
+## POINTER 12
+<STR>(YUR)
+I used to be a knight, myself. 
+I trained with Hachette.
+
+## POINTER 13
+
+Well, well...!
+
+## POINTER 14
+<STR>(YUR)
+I have a message from him, actually. 
+He told me to tell you that 
+he's doing well in Heliord.
+
+## POINTER 15
+
+Yes, I'm sure he's working hard 
+for the Knights... I'm glad.<PAGE>Thank you for telling me that. I must give 
+you something for your thoughtfulness...
+
+## POINTER 16
+<STR>(YUR)
+No, you've given us enough already.
+
+## POINTER 17
+<STR>(JUD)
+We'll definitely use your 
+recipe. Thank you!
+
+## POINTER 18
+Wonder Chef
+That's my cue...<PAGE>Don't be hasty! The recipe for my Transcendent 
+Seafood Ricebowl, the holy grail 
+of cooking, is right here!<PAGE>And now, it is yours!!
+
+## POINTER 19
+<STR>(RIT)
+Uh, let's go...
+
+## POINTER 20
+<STR>(RAV)
+Good call...
+
+## POINTER 21
+Wonder Chef
+Wha?! Where are you going? You must take my recipe 
+for Transcendent Seafood Ricebowl! It is the end 
+product of my grueling and relentless research!

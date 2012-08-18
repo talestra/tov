@@ -1,0 +1,74 @@
+## POINTER 0
+<STR>(JUD)
+Thanks.
+
+## POINTER 1
+<STR>(YUR)
+For what?
+
+## POINTER 2
+<STR>(JUD)
+You're staying up to 
+keep watch, aren't you?
+
+## POINTER 3
+<STR>(YUR)
+Nah, not at all.
+
+## POINTER 4
+<STR>(JUD)
+You're so evasive.
+
+## POINTER 5
+<STR>(YUR)
+You're one to talk.
+
+## POINTER 6
+<STR>(JUD)
+Huh, weird. I've 
+always thought I was 
+pretty straightforward.
+
+## POINTER 7
+<STR>(YUR)
+Seriously? You haven't 
+even given your real 
+reason for joining our guild.
+
+## POINTER 8
+<STR>(JUD)
+I joined because I wanted to.
+
+## POINTER 9
+<STR>(YUR)
+That's it?
+
+## POINTER 10
+<STR>(JUD)
+No.
+
+## POINTER 11
+<STR>(JUD)
+So long as they don't go against 
+the laws of the guild, everyone's 
+wishes are respected, right?<PAGE>Don't worry. I said I'd 
+uphold the laws, and I will. 
+But in my own way.
+
+## POINTER 12
+<STR>(YUR)
+...All right.<PAGE>Well, I'll get you 
+to tell me the real 
+reason eventually.
+
+## POINTER 13
+<STR>(JUD)
+Thanks.
+
+## POINTER 14
+<STR>(YUR)
+For keeping watch?
+
+## POINTER 15
+<STR>(JUD)
+For talking.

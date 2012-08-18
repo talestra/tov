@@ -1,0 +1,9 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280610]
+<STR>(JUD)
+¡Ba'ul, llévanos
+a la capital!<PAGE>Sí, gracias.<PAGE>Subid, chicos.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280610]
+<STR>(YUR)
+¡Esta vez no te
+escaparás, Alexei!

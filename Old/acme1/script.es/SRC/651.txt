@@ -1,0 +1,83 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+<STR>(EST_P)
+<VOICE>(VA050_082)Es él...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+<STR>(RIT)
+<VOICE>(VA050_083)Si has venido por el aer krene,
+el monstruo ya lo ha puesto bajo control.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+Duke
+<VOICE>(VA050_084)Eso he oído...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+<STR>(KAR)
+<VOICE>(VA050_085)¿Oído? ¿De quién?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983373]
+<STR>(EST_P)
+<VOICE>(VA050_086)Pero Regaey... Mmm, quiero decir Yeager, era
+la única persona que estuvo en aquella ocasión.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+<STR>(KAR)
+<VOICE>(VA050_087)Un momento, ¡¿usted y Yeager...?!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983373]
+Duke
+<VOICE>(VA050_088)Creí haberos advertido.
+No os acerquéis al aer krene.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+<STR>(YUR)
+<VOICE>(VA050_089)Lo sentimos. Nos hemos topado
+con este de casualidad. En serio.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+Duke
+<VOICE>(VA050_090)Entonces os iréis ahora mismo.
+No volváis jamás.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+<STR>(RIT)
+<VOICE>(VA050_091)Un momento...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983373]
+<STR>(RIT)
+<VOICE>(VA050_092)Vale, ¿a qué viene esa actitud?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+<STR>(YUR)
+<VOICE>(VA050_093)Ya que estamos aquí, nos podemos ir
+después de que lo hayas examinado.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983373]
+<STR>(RIT)
+<VOICE>(VA050_094)Estás de coña, ¿no?<PAGE><VOICE>(VA050_095)¿No hay un montón de
+cosas que deberíamos
+estar haciendo?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983373]
+<STR>(YUR)
+<VOICE>(VA050_096)Nosotros sí, pero...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+<STR>(RIT)
+<VOICE>(VA050_097)...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+<STR>(EST_P)
+<VOICE>(VA050_098)Todos.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983373]
+<STR>(RIT)
+<VOICE>(VA050_099)<STR>(EST_P)...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1292968317]
+<STR>(YUR)
+<VOICE>(VA050_100)Pues nada. Vámonos.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983383]
+<STR>(YUR)
+<VOICE>(VA050_101)Tú también, <STR>(RIT).

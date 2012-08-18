@@ -1,0 +1,72 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298582086]
+Adecor
+¡Deteneos, proclamo!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275481694]
+Boccos
+¡Alto, pardiez!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298582086]
+<STR>(YUR)
+¡Pero si es don Quijote y su fiel Sancho Panza!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275481694]
+Boccos
+¡No nos llames así!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275481694]
+<STR>(YUR)
+¿En qué puedo ayudaros?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298582086]
+Adecor
+Pese a haber recibido la gracia y el perdón
+de Su Alteza Ioder, proclamo, ¡vuestros crímenes
+contra el Imperio no quedarán impunes!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1280178180]
+Boccos
+¡Como miembros de los Caballeros
+Imperiales, nuestro honor no nos 
+permite hacer la vista gorda!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298582086]
+Adecor
+¡<STR>(YUR) Lowell! ¡Ahora mismo
+os batiréis contra nosotros, 
+proclamo, en noble y justa lid!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1280178180]
+Boccos
+¡Si nos descalabras a los dos, 
+tus crímenes serán perdonados!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298582086]
+<STR>(YUR)
+No prometáis lo que no podéis cumplir.<PAGE>¿Desde cuándo tenéis autoridad para
+perdonar los crímenes de la gente?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275481694]
+Adecor
+¡No demoremos, pues las armas llaman!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275482015]
+Boccos
+¡A cascarse!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1280178180]
+<STR>(YUR)
+Si esto es lo que hace falta
+para dejaros contentos, no seré
+yo quien os niegue el favor.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1280178180]
+Boccos
+¡Muy bien!
+¡Vamos al grano!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1280178180]
+<STR>(YUR)
+Ahh... No hay nada mejor
+que un poco de ejercicio
+antes de irse a dormir.<PAGE>Debería volver cuanto antes a la posada.

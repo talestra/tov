@@ -1,0 +1,151 @@
+## POINTER 0
+
+Oh boy, oh boy! You've got something 
+very nice there, you do!
+
+## POINTER 1
+<STR>(YUR)
+I don't know 
+what you're 
+referring to.
+
+## POINTER 2
+
+Don't play dumb! I know 
+all about you getting the 
+"Luxury Toys" series!
+
+## POINTER 3
+<STR>(KAR)
+These things are 
+really popular!
+
+## POINTER 4
+<STR>(RIT)
+Surely only among 
+obsessive collectors, 
+right?
+
+## POINTER 5
+
+Lemme 
+see!
+
+## POINTER 6
+<STR>(EST_P)
+No!
+
+## POINTER 7
+
+Ahh, so you don't 
+like other people 
+to touch them!<PAGE>I get it! You don't want my 
+fingerprints on them. It's 
+okay! I just want to look.
+
+## POINTER 8
+
+Amazing! So retro! 
+So nostalgic! 
+Thank you!
+
+## POINTER 9
+<STR>(YUR)
+Sure, no problem.
+
+## POINTER 10
+<STR>(RAV)
+Hey, what've 
+ya got here?
+
+## POINTER 11
+
+This is treasure fishing! You 
+try to see what sort of treasures 
+you can catch on your line!<PAGE>You're guaranteed 
+to profit!
+
+## POINTER 12
+<STR>(EST_P)
+But...it looks like there 
+aren't any treasures...?
+
+## POINTER 13
+
+You're very observant, yes! Actually, 
+I'm still getting things set up. There 
+aren't any treasures to catch yet!
+
+## POINTER 14
+<STR>(JUD)
+You're still setting things up, and yet you're open for business?
+
+## POINTER 15
+
+I'm still trying to figure 
+out what to do... Do 
+you have any ideas?
+
+## POINTER 16
+<STR>(RAV)
+Ideas, huh. When you're 
+in need, who better to 
+ask but Brave Vesperia!
+
+## POINTER 17
+<STR>(KAR)
+What? Us? Nothing 
+comes to mind, 
+though...
+
+## POINTER 18
+
+Are you a guild, 
+by any chance?
+
+## POINTER 19
+<STR>(EST_P)
+Yes, we are. Our guild is 
+called Brave Vesperia.
+
+## POINTER 20
+
+Ah, so that's how you've gotten 
+all of the dolls! Are you 
+traveling around the world?
+
+## POINTER 21
+<STR>(JUD)
+Yes. We've been going all over the 
+place...hence the reason that 
+we've made it all the way here.
+
+## POINTER 22
+
+Then you can go and get treasure 
+chests across the world 
+and show them to me!<PAGE>The more treasure chests you 
+get, the better ideas I'll have 
+for treasures to put here!
+
+## POINTER 23
+<STR>(RIT)
+You're not saying we should give 
+you what we find, are you?
+
+## POINTER 24
+
+Not at all. All you have to 
+do is show me, and that'll be 
+enough for me to make it.
+
+## POINTER 25
+<STR>(EST_P)
+You're quite good at 
+making things, then?
+
+## POINTER 26
+
+I get by. So go out in the 
+world and open all the treasure 
+chests you see! ∀

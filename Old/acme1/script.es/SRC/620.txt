@@ -1,0 +1,246 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+<STR>(RIT)
+Buf, este sitio es tan sofocante como siempre.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1292010745]
+<STR>(KAR)
+¿No te gusta? A mí me parece
+que se está perfectamente.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292010745]
+<STR>(YUR)
+A ver, si fuese un mayordomo, ¿dónde escondería
+una losa de piedra en un lugar así?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+<STR>(RIT)
+Este sitio es enorme.
+¿Dónde empezamos a buscar?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1292011693]
+
+Venga va, que no nos vamos
+con las manos vacías.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+
+Aun así siempre me entra la depre
+cuando no encuentro ningún blastia.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1292011693]
+
+Ya, pero quizá esta sea la pista que necesitamos para
+resolver de una vez el misterio de los blastias.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1292011693]
+<STR>(RAV)
+¿Qu'están haciendo esos dos aquí?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1292011693]
+Markham
+Era Gran Vesperia,
+¿verdad?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1292011693]
+<STR>(KAR)
+¡Se ha acordado!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1292011693]
+Markham
+¿Cómo podría olvidar a la
+gente que me devolvió a
+mi queridísima Harmfall?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1292011693]
+<STR>(KAR)
+¿Qué es eso que
+tiene ahí?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+Markham
+Lo excavamos al fondo de las ruinas de esta ciudad.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1292011693]
+Joshua
+Tiene un escrito antiguo, así que
+creemos que puede contener información
+importante de los blastias.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1292011693]
+<STR>(YUR)
+¿Os importa si echamos un vistazo?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+<STR>(KAR)
+Una losa negra con
+inscripciones rojas. Esto es...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1292262055]
+<STR>(RAV)
+Mencanta cuando los planes salen bien. ♪
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1292262055]
+<STR>(RIT)
+Ya era hora...
+Estaba harta de
+este pilla-pilla...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1292262055]
+<STR>(EST_P)
+Pues a mí me han gustado
+todos los sitios interesantes
+que hemos visitado.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+<STR>(JUD)
+«No riegues demasiado las plantas
+antes de hora. Pero cuando den fruto,
+vigila que no se seque el terreno...».
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:kaene;time:1292262055]
+<STR>(KAR)
+¿Eh? ¿Qué significa eso, <STR>(JUD)?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:kaene;time:1292262055]
+<STR>(JUD)
+Es la manera para que crezcan
+unos pepinos deliciosos.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+<STR>(EST_P)
+Espera... ¿El patriarca
+de Myorzo no dijo
+algo parecido?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+<STR>(RIT)
+¡¿A quién le importa
+la horticultura ahora?!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:kaene;time:1292262197]
+<STR>(JUD)
+Solo he leído lo que
+pone en la losa.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+<STR>(YUR)
+¿Cómo? ¿Qué quieres decir?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+<STR>(JUD)
+Mm, lo que he dicho.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:kaene;time:1292262197]
+<STR>(KAR)
+¿Y qué hay del proceso
+para refinar livianita?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:kaene;time:1292262197]
+<STR>(JUD)
+Sí, bueno...
+Aquí no dice
+nada sobre eso.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:kaene;time:1292262197]
+<STR>(RIT)
+Entonces, ¿al final este trozo
+de piedra no es el manual secreto?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:kaene;time:1292262197]
+<STR>(RAV)
+Pero es la losa negra grabada
+con escritos rojos.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:kaene;time:1292262197]
+<STR>(EST_P)
+Es exactamente igual que
+la que Sebastian dijo
+que había traído aquí.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:kaene;time:1292262489]
+<STR>(YUR)
+Algo ha tenido que cambiar
+durante todo el tiempo que
+hemos pasado persiguiéndolo.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:kaene;time:1292262489]
+<STR>(RIT)
+No puede ser...
+Ahora parecemos
+unos idiotas...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:kaene;time:1292262489]
+Joshua
+Has comentado el proceso de
+refinamiento de livianita, ¿no?
+¿Por eso estáis aquí?
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:kaene;time:1292262489]
+<STR>(KAR)
+Sí, hemos venido a ver si lo
+encontrábamos, pero parece
+que nos hemos confundido...
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:kaene;time:1292262489]
+Markham
+Creo que Irmine sabría
+algo del tema.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:kaene;time:1292262489]
+<STR>(YUR)
+¿Quién?
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+Joshua
+Es un famoso fabricante de palas.
+Pero lleva unos cuantos años
+en la cárcel de la Unión.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:kaene;time:1292262489]
+Markham
+Si hay alguien que os pueda hablar sobre
+el refinamiento de livianita, es él.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:kaene;time:1292262489]
+<STR>(KAR)
+Vaya, ¿en serio?
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+Joshua
+Sí. Y no es ningún secreto que fue
+el mismo Irmine quien fabricó la
+preciada Harmfall de Mark.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+Markham
+Ni que mi Harmfall se fabricó
+entera con livianita.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:kaene;time:1292262747]
+<STR>(EST_P)
+¡¿De verdad?!
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+<STR>(KAR)
+Pero ¿qué hace alguien
+como él en la cárcel?
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+Markham
+Me temo que desconozco los detalles.
+Pero nunca me pareció un criminal.
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+<STR>(YUR)
+Ya nos preocuparemos de eso más tarde.
+Acabemos este asunto de la livianita de una vez.
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662863]
+<STR>(KAR)
+Sí, tienes razón. Nos ha dado muy buena
+información. Muchísimas gracias.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:kaene;time:1292262747]
+Markham
+La cárcel de la Unión no es un sitio muy
+agradable, ni para ir de visita. Tened cuidado.

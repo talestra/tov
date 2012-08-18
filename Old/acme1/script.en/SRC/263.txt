@@ -1,0 +1,51 @@
+## POINTER 0
+
+Oh ho, you've brought the items.<PAGE>Wait here while I make 
+you something nice!
+
+## POINTER 1
+<STR>(EST_P)
+What do you say?
+Does it look OK on me?
+
+## POINTER 2
+<STR>(YUR)
+You didn't have to
+change your costume 
+like that...
+
+## POINTER 3
+<STR>(KAR)
+So grown-ups are interested
+in these kinds of outfits...
+
+## POINTER 4
+<STR>(JUD)
+All is ready.
+Let's go.
+
+## POINTER 5
+<STR>(YUR)
+Hey... Are you seriously
+going in that outfit?
+
+## POINTER 6
+<STR>(JUD)
+Huh? Something
+wrong with this?
+
+## POINTER 7
+<STR>(YUR)
+... Well I could say everything...
+Uh,  never mind that.
+
+## POINTER 8
+<STR>(EST_P)
+It's very cute, and I have a 
+feeling that this is going 
+to work.
+
+## POINTER 9
+<STR>(YUR)
+Before that, could you do 
+something about your outfit?

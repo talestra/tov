@@ -1,0 +1,52 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251595537]
+La novia delicada
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287692512]
+(EST_P)
+Háblame sobre esa novia tan
+delicada que tienes, (KAR).
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287692512]
+(KAR)
+¡¿Q-Qué...?!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287692512]
+(EST_P)
+Quieres ir a Puerto Nor
+para verla, ¿verdad?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287692512]
+(KAR)
+¡¿C-Cómo has descubierto eso?!
+
+## POINTER 5 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669300]
+(EST_P)
+¡Lo sabía!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287692512]
+(KAR)
+¡N-No! Pero si ni siquiera
+está en Puerto Nor...
+
+## POINTER 7 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669300]
+(EST_P)
+¿No está en Puerto Nor?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1287692512]
+(KAR)
+¡N-No sé de qué
+me estás hablando!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1287692512]
+(YUR)
+Suéltalo ya, (KAR).
+Es evidente que (EST_P)
+no piensa rendirse.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1287692524]
+(KAR)
+¡Os equivocáis!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1287692512]
+(EST_P)
+(KAR)...

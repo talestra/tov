@@ -1,0 +1,137 @@
+## POINTER 0
+<STR>(YUR)
+Is that it down there!?
+
+## POINTER 1
+<STR>(KAR)
+That's some cloud of dust.
+Are those all monsters!?
+
+## POINTER 2
+<STR>(JUD)
+This seems to be a counter 
+effect of Astal's losing control. <PAGE>It's as if the monsters of the
+world all came and gathered here.
+
+## POINTER 3
+<STR>(EST_P)
+Is <STR>(FRE) really down
+there somewhere?
+
+## POINTER 4
+<STR>(YUR)
+Probably.
+
+## POINTER 5
+<STR>(RAV)
+What next? Are we gonna 
+fight every single one of 'em?
+
+## POINTER 6
+<STR>(YUR)
+<STR>(RIT), can't we use that 
+Dein Nomos you made?
+
+## POINTER 7
+<STR>(RAV)
+Ya gonna blow them away like
+doing it to the Adephagos?
+
+## POINTER 8
+<STR>(RIT)
+Right...<PAGE>Applying directivity to the power of
+spirits and forming a barrier-like force
+field to eliminate the monsters.....<PAGE>Yes, it should be possible.
+
+## POINTER 9
+<STR>(JUD)
+But this was made to be used
+against the Adephagos, right?
+
+## POINTER 10
+<STR>(KAR)
+But this is our only 
+option now.
+
+## POINTER 11
+<STR>(YUR)
+Could you let us use it?
+Please?
+
+## POINTER 12
+<STR>(EST_P)
+I beg you too.<PAGE>The Dein Nomos...
+I want to believe it
+can save mankind...
+
+## POINTER 13
+<STR>(RIT)
+Yes, if we can't deal with this 
+easily, there is no way we could
+stand up against the Adephagos.
+
+## POINTER 14
+<STR>(JUD)
+Alright. Let's do it.
+
+## POINTER 15
+<STR>(RAV)
+It's rare to hear <STR>(YUR)
+ask for a favor like that.
+
+## POINTER 16
+<STR>(KAR)
+It's our chance to do <STR>(YUR) a favor!
+
+## POINTER 17
+<STR>(YUR)
+Cut it out guys.
+
+## POINTER 18
+<STR>(JUD)
+So what's our plan?
+
+## POINTER 19
+<STR>(RIT)
+Activate it in the area where the monsters
+are all concentrated. That's it. Simple, right?
+
+## POINTER 20
+<STR>(YUR)
+Yeah it is.
+
+## POINTER 21
+<STR>(RAV)
+No kidding...
+
+## POINTER 22
+<STR>(KAR)
+Why don't we give it
+a name?<PAGE>We can't just call it the <STR>(RIT) Dein Nomos...
+
+## POINTER 23
+<STR>(RIT)
+Huh? ...I'll leave it up to you.
+
+## POINTER 24
+<STR>(KAR)
+Uh, mmm, ahh...I got it!
+How about the "Vesperia No. 1"?
+
+## POINTER 25
+<STR>(RIT)
+I should have known better...
+
+## POINTER 26
+<STR>(YUR)
+It's got a nice ring to it. 
+Besides, it's nice n' simple.
+
+## POINTER 27
+<STR>(JUD)
+Even Ba'ul will need to keep some distance.
+I'll land at a place.
+
+## POINTER 28
+<STR>(YUR)
+OK, let's do it.

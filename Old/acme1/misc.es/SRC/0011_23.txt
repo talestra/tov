@@ -1,0 +1,301 @@
+## POINTER 3165 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782257]
+Orden del perro leal
+
+## POINTER 3166 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782257]
+Concedida al perro de un Caballero.
+Un signo de fuerza y habilidad.
+
+## POINTER 3168 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782257]
+Ghasfarost, llave del sótano.
+
+## POINTER 3169 [t:1;r:1;ru:memnoch;user:memnoch;time:1297195682]
+Una llave de repuesto para entrar en el sótano
+de Ghasfarost. Barbos posee la original.
+
+## POINTER 3171 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782257]
+Recuerdo materno
+
+## POINTER 3172 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782257]
+Un recuerdo que <STR>(EST_P) recibió de su madre.
+Siempre lo lleva con ella.
+
+## POINTER 3174 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782257]
+Espejo de Bulsis
+
+## POINTER 3175 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782728]
+Un espejo originario del interior del cuerpo de Bulsis.
+Parece haber sido fabricado, pero se formó de manera natural.
+
+## POINTER 3177 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782728]
+Gald falso
+
+## POINTER 3178 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1263256029]
+Diferente en peso, brillo y textura.
+Fabricados en oro, te pillarán si lo intentas usar.
+
+## POINTER 3180 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 01 de Yuri
+
+## POINTER 3181 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781232]
+Título adicional para Yuri.
+
+## POINTER 3183 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 02 de Yuri
+
+## POINTER 3184 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781345]
+Título adicional para Yuri.
+
+## POINTER 3186 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 03 de Yuri
+
+## POINTER 3187 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781345]
+Título adicional para Yuri.
+
+## POINTER 3189 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 04 de Yuri
+
+## POINTER 3190 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781345]
+Título adicional para Yuri.
+
+## POINTER 3192 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 05 de Yuri
+
+## POINTER 3193 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781345]
+Título adicional para Yuri.
+
+## POINTER 3195 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 06 de Yuri
+
+## POINTER 3196 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781345]
+Título adicional para Yuri.
+
+## POINTER 3198 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 07 de Yuri
+
+## POINTER 3199 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781345]
+Título adicional para Yuri.
+
+## POINTER 3201 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 08 de Yuri
+
+## POINTER 3202 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781345]
+Título adicional para Yuri.
+
+## POINTER 3204 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 09 de Yuri
+
+## POINTER 3205 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781345]
+Título adicional para Yuri.
+
+## POINTER 3207 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 10 de Yuri
+
+## POINTER 3208 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781345]
+Título adicional para Yuri.
+
+## POINTER 3210 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 01 de Estelle
+
+## POINTER 3211 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Estelle.
+
+## POINTER 3213 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 02 de Estelle
+
+## POINTER 3214 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Estelle.
+
+## POINTER 3216 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 03 de Estelle
+
+## POINTER 3217 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Estelle.
+
+## POINTER 3219 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 04 de Estelle
+
+## POINTER 3220 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Estelle.
+
+## POINTER 3222 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 05 de Estelle
+
+## POINTER 3223 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Estelle.
+
+## POINTER 3225 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 06 de Estelle
+
+## POINTER 3226 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Estelle.
+
+## POINTER 3228 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 07 de Estelle
+
+## POINTER 3229 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Estelle.
+
+## POINTER 3231 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 08 de Estelle
+
+## POINTER 3232 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Estelle.
+
+## POINTER 3234 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 09 de Estelle
+
+## POINTER 3235 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Estelle.
+
+## POINTER 3237 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 10 de Estelle
+
+## POINTER 3238 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Estelle.
+
+## POINTER 3240 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 01 de Karol
+
+## POINTER 3241 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Karol.
+
+## POINTER 3243 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 02 de Karol
+
+## POINTER 3244 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Karol.
+
+## POINTER 3246 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1263255679]
+Título extra 03 de Karol
+
+## POINTER 3247 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Karol.
+
+## POINTER 3249 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781921]
+Título extra 04 de Karol.
+
+## POINTER 3250 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Karol.
+
+## POINTER 3252 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 05 de Karol
+
+## POINTER 3253 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Karol.
+
+## POINTER 3255 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 06 de Karol
+
+## POINTER 3256 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Karol.
+
+## POINTER 3258 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 07 de Karol
+
+## POINTER 3259 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Karol.
+
+## POINTER 3261 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 08 de Karol
+
+## POINTER 3262 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Karol.
+
+## POINTER 3264 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 09 de Karol
+
+## POINTER 3265 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Karol.
+
+## POINTER 3267 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 10 de Karol
+
+## POINTER 3268 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Karol.
+
+## POINTER 3270 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 01 de Rita
+
+## POINTER 3271 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Rita.
+
+## POINTER 3273 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 02 de Rita
+
+## POINTER 3274 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Rita.
+
+## POINTER 3276 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 03 de Rita
+
+## POINTER 3277 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Rita.
+
+## POINTER 3279 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 04 de Rita
+
+## POINTER 3280 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Rita.
+
+## POINTER 3282 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 05 de Rita
+
+## POINTER 3283 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781415]
+Título adicional para Rita.
+
+## POINTER 3285 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 06 de Rita
+
+## POINTER 3286 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781971]
+Título adicional para Rita.
+
+## POINTER 3288 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 07 de Rita
+
+## POINTER 3289 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781971]
+Título adicional para Rita.
+
+## POINTER 3291 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 08 de Rita
+
+## POINTER 3292 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781971]
+Título adicional para Rita.
+
+## POINTER 3294 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 09 de Rita
+
+## POINTER 3295 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781971]
+Título adicional para Rita.
+
+## POINTER 3297 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 10 de Rita
+
+## POINTER 3298 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781971]
+Título adicional para Rita.
+
+## POINTER 3300 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 01 de Raven
+
+## POINTER 3301 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781481]
+Título adicional para Raven.
+
+## POINTER 3303 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 02 de Raven
+
+## POINTER 3304 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781481]
+Título adicional para Raven.
+
+## POINTER 3306 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 03 de Raven
+
+## POINTER 3307 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781481]
+Título adicional para Raven.
+
+## POINTER 3309 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 04 de Raven
+
+## POINTER 3310 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261781481]
+Título adicional para Raven.
+
+## POINTER 3312 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261782087]
+Título extra 05 de Raven

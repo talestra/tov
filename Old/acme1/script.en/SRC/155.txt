@@ -1,0 +1,167 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS15_001)Man, the weather sure changed in a hurry.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS15_002)Let's find an inn before 
+we get soaked.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS15_003)<STR>(EST_P), what is it?
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS15_004)Oh, I-I just thought a 
+harbor town would 
+be more... lively than this.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS15_005)Yeah, this isn't exactly how 
+I imagined it either...
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS15_006)But it feels like the kind of place 
+that core thief you're looking for 
+would hang out
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS15_007)Dedecchi was headed 
+for Torim Harbor.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS15_008)I'm sure the two are pretty similar.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS15_009)No way. It's only Nor Harbor 
+that's scummy like this.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS15_010)What do you mean?
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS15_011)Nor Harbor is... It's all 
+because of the empire.
+
+## POINTER 11
+
+<VOICE>(VS15_012)I told you what would happen 
+to that little brat if you 
+didn't have our money!
+
+## POINTER 12
+
+<VOICE>(VS15_013)Please, sir!! Not that! 
+Please give me back my son!<PAGE><VOICE>(VS15_014)With this awful weather the last few months, 
+we haven't been able to launch the boats.<PAGE><VOICE>(VS15_015)Surely you realize sir, we can't 
+hope to pay our taxes like this.
+
+## POINTER 13
+
+<VOICE>(VS15_016)You'd better hurry up and 
+capture that Rhybgaro beast 
+then, shouldn't you?
+
+## POINTER 14
+
+<VOICE>(VS15_017)That's right. If you sell his horn, you'll 
+never have to worry about taxes again. How 
+many times do we have to tell you?
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS15_018)Savages...
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS15_019)Is that the sort of scum you 
+were talking about, <STR>(KAR)?
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS15_020)Yeah, the empire's influence 
+is really strong here.<PAGE><VOICE>(VS15_021)I heard things got even worse with the 
+new magistrate. He's some imperial big 
+shot who does whatever he wants.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS15_022)Which means there's no one 
+to complain to if his henchmen 
+act like that.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS15_023)...
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS15_024)But how can that be...?
+
+## POINTER 21
+
+<VOICE>(VS15_025)That's enough! You're hurt... 
+You might even get yourself 
+killed this time!
+
+## POINTER 22
+Teagle
+<VOICE>(VS15_026)But it's our son!
+If I don't go...
+
+## POINTER 23
+Teagle
+<VOICE>(VS15_027)Oow... What are you 
+trying to do?!
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS15_028)Oh, sorry about that. 
+Didn't see you there.
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS15_029)<STR>(YUR)!! 
+...My apologies, sir. Let 
+me take care of that.
+
+## POINTER 26
+Kellas
+<VOICE>(VS15_030)B-but I... I can't afford 
+this treatment...
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS15_031)Don't you have something 
+else to say?
+
+## POINTER 28
+Kellas
+<VOICE>(VS15_032)Huh...?
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS15_033)Jeez...You guys been 
+robbed of your manners 
+along with your money?
+
+## POINTER 30
+Kellas
+<VOICE>(VS15_034)...I-I'm sorry. Thank 
+you most kindly.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS15_035)...
+
+## POINTER 32
+<STR>(KAR)
+<VOICE>(VS15_036)Huh...? <STR>(YUR)?

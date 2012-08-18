@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298498549]
+<STR>(YUR)
+<VOICE>(VS51_026)Siento una brisa...
+Es un conducto de ventilación.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285956283]
+<STR>(KAR)
+<VOICE>(VS51_027)¡Déjamelo a mí!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298498549]
+<STR>(EST_P)
+<VOICE>(VS51_028)No te preocupes, <STR>(RIT). Estoy bien.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285956283]
+<STR>(RIT)
+<VOICE>(VS51_029)Por favor, n-no estoy preocupada.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285956283]
+<STR>(JUD)
+<VOICE>(VS51_030)Claro que lo estás.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298498549]
+<STR>(RIT)
+<VOICE>(VS51_031)Oh, ¡cierra el pico!
+¡Date prisa y abre la cosa esa!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285956283]
+<STR>(YUR)
+<VOICE>(VS51_032)Eres la única que está gritando.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285956283]
+<STR>(KAR)
+<VOICE>(VS51_033)¡Ya está!
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285956283]
+<STR>(RAV)
+<VOICE>(VS51_034)Perfecto, echemos
+un vistazo.

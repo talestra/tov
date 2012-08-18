@@ -1,0 +1,318 @@
+## POINTER 280
+Named after an ancient god of war, this is a
+weapon designed for total destruction.
+
+## POINTER 282
+Real Knight Sword
+
+## POINTER 283
+A sword granted to high ranking knights. It is only
+gifted to those who have accomplished many feats of valor.
+
+## POINTER 285
+Shadow Fang
+
+## POINTER 286
+A sword responsible for massive bloodshed.
+Choose to live in the dark or give up this weapon.
+
+## POINTER 288
+Shadow Fang +1
+
+## POINTER 289
+A sword responsible for massive bloodshed.
+Choose to live in the dark or give up this weapon.
+
+## POINTER 291
+Iron Maiden
+
+## POINTER 292
+A sword used for torture and punishment.
+Cursed with pain and malice.
+
+## POINTER 294
+Iron Maiden +1α
+
+## POINTER 295
+A sword used for torture and punishment.
+Cursed with pain and malice.
+
+## POINTER 297
+Iron Maiden +1β
+
+## POINTER 298
+A sword used for torture and punishment.
+Cursed with pain and malice.
+
+## POINTER 300
+Highlander
+
+## POINTER 301
+A sword created by a renowned blacksmith.
+A simple design, yet makes its owner proud.
+
+## POINTER 303
+Spine Ripper
+
+## POINTER 304
+A sword used by assassins to assault targets from behind.
+Only the tip is sharpened so that it can be hidden under clothing.
+
+## POINTER 306
+Spine Ripper +1
+
+## POINTER 307
+A sword used by assassins to assault targets from behind.
+Only the tip is sharpened so that it can be hidden under clothing.
+
+## POINTER 309
+Shiden
+
+## POINTER 310
+A sacred thunder sword believed to bring fertility.
+Now, it is mainly owned by collectors.
+
+## POINTER 312
+Kris Naga
+
+## POINTER 313
+An artistic short sword with a curvy blade.
+The shape resembles a flame inflicting deadly wounds.
+
+## POINTER 315
+Kris Naga +1α
+
+## POINTER 316
+An artistic short sword with a curvy blade.
+The shape resembles a flame inflicting deadly wounds.
+
+## POINTER 318
+Kris Naga +1β
+
+## POINTER 319
+An artistic short sword with a curvy blade.
+The shape resembles a flame inflicting deadly wounds.
+
+## POINTER 321
+Caladbolg
+
+## POINTER 322
+Once owned by a hero who left his country behind.
+It is said that this sword is cursed with betrayal and separation.
+
+## POINTER 324
+Holy Avenger
+
+## POINTER 325
+As implied by the name, this sword represents
+the goodness in mankind.
+
+## POINTER 327
+Holy Avenger +1
+
+## POINTER 328
+As implied by the name, this sword represents
+the goodness in mankind.
+
+## POINTER 330
+Riot
+
+## POINTER 331
+A deadly sword with highly lethal powers.
+The crooked blade is capable of inflicting fatal wounds.
+
+## POINTER 333
+Riot +1α
+
+## POINTER 334
+A deadly sword with highly lethal powers.
+The crooked blade is capable of inflicting fatal wounds.
+
+## POINTER 336
+Riot +1β
+
+## POINTER 337
+A deadly sword with highly lethal powers.
+The crooked blade is capable of inflicting fatal wounds.
+
+## POINTER 339
+Dark Avenger
+
+## POINTER 340
+As implied by the name, this sword represents
+the hidden hatred in mankind.
+
+## POINTER 342
+Dark Avenger +1
+
+## POINTER 343
+As implied by the name, this sword represents
+the hidden hatred in mankind.
+
+## POINTER 345
+Claíomh Solais
+
+## POINTER 346
+A divine sword restored after several decades.
+The one willing to fight to protect his people is its true owner.
+
+## POINTER 348
+Flamberge
+
+## POINTER 349
+A magic sword resembling a sunset. One touch
+of the scorching blade is enough to dry the sea.
+
+## POINTER 351
+Vorpal Sword
+
+## POINTER 352
+A magic sword resembling the midnight skies.
+The blade is cold enough to turn the sun to ice.
+
+## POINTER 354
+Vorpal Sword +1
+
+## POINTER 355
+A magic sword resembling the midnight skies.
+The blade is cold enough to turn the sun to ice.
+
+## POINTER 357
+Last Fencer
+
+## POINTER 358
+A sword that is the pure essence of genuine force.
+It provides a strong state of mind to the master.
+
+## POINTER 360
+Colossus
+
+## POINTER 361
+A broad sword representing a fierce warrior.
+Ownership of this sword is a sign of true victory.
+
+## POINTER 363
+Meteorite Blade
+
+## POINTER 364
+A sword made out of meteorite metals.
+Legend has it that the sword fell from the skies.
+
+## POINTER 366
+Mercurius
+
+## POINTER 367
+A sword made out of mercury, allowing it to
+be transformed into any shape it's owner desires.
+
+## POINTER 369
+Abyssion
+
+## POINTER 370
+A sword red as blood.
+The blade is filled with rage.
+
+## POINTER 372
+Shinai
+
+## POINTER 373
+A bamboo blade used for sword training.
+It helps correct one's posture and makes you want to shout out loud.
+
+## POINTER 375
+Bravior
+
+## POINTER 376
+A relic from the ancient wars.
+It somehow gives you courage.
+
+## POINTER 378
+False Dein Nomos
+
+## POINTER 379
+Created in the course of duplicating the original Dein Nomos.
+The core was lost, but the blade is still sharp.
+
+## POINTER 381
+Droite Sword
+
+## POINTER 382
+A sword owned by Yeager's follower, Droite.
+Even after a fierce battle, the blade is left unscratched.
+
+## POINTER 384
+Gauche Sword
+
+## POINTER 385
+A sword owned by Yeager's follower, Gauche.
+Even after a fierce battle, the blade is left unscratched.
+
+## POINTER 387
+White Knight Sword
+
+## POINTER 388
+A sword said to be granted to the next chevalier
+commander. One of the greatest honor for a young knight.
+
+## POINTER 390
+Second Star
+
+## POINTER 391
+"The first one is for him..."
+A sword named with a deep message.
+
+## POINTER 393
+Dein Nomos
+
+## POINTER 394
+A sword borrowed from Duke. It changes color according to
+its owner. The way it cuts may change as well...
+
+## POINTER 396
+Soul Blade Mercurius
+
+## POINTER 397
+A sword made out of mercury, allowing its owner to
+transform its shape into any shape he/she wishes.
+
+## POINTER 399
+Blazor Edge Abyssion
+
+## POINTER 400
+A sword as red as blood. Feel the
+rage of this weapon through its grip.
+
+## POINTER 402
+Hero's Sword
+
+## POINTER 403
+A sword which can only be owned by the one
+who stands against the demon lord.
+
+## POINTER 405
+Hand Axe
+
+## POINTER 406
+An axe that can be thrown at enemies.
+Light-weight and can be handled with one hand.
+
+## POINTER 408
+Great Axe
+
+## POINTER 409
+A large axe that requires both hands to handle.
+A simple, battle type axe.
+
+## POINTER 411
+Great Axe +1
+
+## POINTER 412
+A large axe that requires both hands to handle.
+A simple, battle type axe.
+
+## POINTER 414
+War Axe
+
+## POINTER 415
+An axe intended for mass production.
+The design is simple, yet useful.

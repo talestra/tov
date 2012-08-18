@@ -1,0 +1,71 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298106245]
+¿Otra vez?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298106245]
+(KAR)
+*Suspiro* ¿Otra vez?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298106245]
+(EST_P)
+Esta es una comida fundamental.
+Pero... no dejo de preguntarme por qué
+tenemos siempre lo mismo para comer.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298106245]
+(EST_P)
+Podríamos estar cocinando otras recetas.
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294584]
+(KAR)
+(RIT) dijo que le gustaba tanto
+que podría comerla todos los días.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298106245]
+(RIT)
+Oye, el viejales siempre se queja
+de lo mucho que odia todo lo demás.
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:xander;time:1267197113]
+(RAV)
+Bueno, ¡(YUR) siempre está pesao
+con el tema d'ahorrar dinero en comida!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298106245]
+(YUR)
+(JUD_P), ¿no decías que esta era una buena forma
+de comparar nuestra habilidad en la cocina?
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294584]
+(JUD)
+Creía que (EST_P) pretendía
+perfeccionar este plato...
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294584]
+(YUR)
+Quiero probar otra cosa...
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294584]
+(KAR)
+¡Yo también!
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294584]
+(RAV)
+¡Ya somos tres!
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294584]
+(RIT)
+¡Estoy cansada de esto!
+
+## POINTER 13 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294584]
+(JUD)
+¡Vamos a echar a perder las otras recetas!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298106245]
+(EST_P)
+La próxima vez comeremos
+algo diferente, ¿de acuerdo?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298106245]
+(KAR)
+Parece que yo no era el único
+que estaba cansado de esto...

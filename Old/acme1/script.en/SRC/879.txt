@@ -1,0 +1,224 @@
+## POINTER 0
+Rich
+...You defeated all of 
+the Giganto Monsters...
+
+## POINTER 1
+<STR>(YUR)
+Yeah... We ended up beating them all ourselves.
+
+## POINTER 2
+Rich
+Thank you...
+
+## POINTER 3
+Karen
+Thanks to you wonderful people, we can 
+finally go back to our hometown!
+
+## POINTER 4
+Rich
+...That's true, but...<PAGE>...Let's keep traveling 
+for a while...
+
+## POINTER 5
+Karen
+Huh...? 
+Why?!<PAGE>We can finally go home! 
+You can see your father!<PAGE>I'm sure he'll 
+acknowledge our 
+marriage, now!
+
+## POINTER 6
+<STR>(KAR)
+Huh? Did you just say "marriage?"
+
+## POINTER 7
+Rich
+...Yes...
+
+## POINTER 8
+<STR>(KAR)
+But wait...aren't you two 
+brother and sister...?
+
+## POINTER 9
+Karen
+My father and Rich's father were 
+both members of the Regin Expeditionary 
+Force together.<PAGE>Because of that, the two of us have 
+been friends since we were kids, and 
+we've been as close as siblings.
+
+## POINTER 10
+<STR>(KAR)
+But you're not actually siblings...
+
+## POINTER 11
+Karen
+Rich's father is the only 
+surviving member of the 
+expeditionary force.<PAGE>For that reason, he said he would never 
+acknowledge our marriage until we defeated 
+all of the Giganto Monsters.
+
+## POINTER 12
+Rich
+...And I was planning on doing that, too...<PAGE>...To fulfill His Highness's 
+lifelong wish...
+
+## POINTER 13
+<STR>(KAR)
+But defeating a Giganto 
+Monster by yourself? 
+That's insane!
+
+## POINTER 14
+Rich
+...Yes... It's insane. Suicide, 
+probably. But that wasn't 
+enough to make me stop...
+
+## POINTER 15
+<STR>(YUR)
+So you just got into the habit 
+of wandering around...<PAGE>You should've told us all 
+this sooner. You should've 
+asked us for help.<PAGE>We could've gotten it taken care of faster.
+
+## POINTER 16
+Rich
+...I'm sorry.
+
+## POINTER 17
+Karen
+...Come on, let's go back. Let's 
+go back to your father...
+
+## POINTER 18
+Rich
+...Why not just keep things the way they 
+are...? We won't need to be tied down 
+by all the formalities of marriage...<PAGE>...We can just wander around 
+forever... That wouldn't 
+be so bad, would it?<PAGE>...Forever, together.
+
+## POINTER 19
+Karen
+Big brother...
+
+## POINTER 20
+<STR>(KAR)
+...What the...<PAGE>You mean, we beat all 
+of those Giganto Monsters 
+for nothing?
+
+## POINTER 21
+Rich
+...No, that's not true...<PAGE>...You've brought honor back 
+to my father...and to His 
+Highness Regin as well...
+
+## POINTER 22
+Karen
+His Highness' biggest hope was that people 
+could live in peace, without having to 
+worry about being attacked by monsters.<PAGE>That's was why 
+he traveled around 
+the world. ∀
+
+## POINTER 23
+Rich
+...If you ever meet my father 
+in your travels...<PAGE>...Please tell him that 
+all of the Giganto Monsters 
+have been defeated...<PAGE>...My father should still 
+live in Capua Torim...
+
+## POINTER 24
+<STR>(YUR)
+Sure, I can try to remember.
+
+## POINTER 25
+Rich
+...Really...
+...Thank you...
+
+## POINTER 26
+<STR>(YUR)
+If you're going to thank anyone, you should thank 
+our monster-hunting all-star, right here.
+
+## POINTER 27
+<STR>(KAR)
+You mean m-me...?
+
+## POINTER 28
+Rich
+...Such a large weapon for 
+such a small person...<PAGE>...Fantastic...
+And still just a boy...<PAGE>...Truly fantastic...
+...You've got potential...
+
+## POINTER 29
+<STR>(KAR)
+H-heh, thank you!
+
+## POINTER 30
+Rich
+...It's just like a valiant,
+unfinished sword...
+
+## POINTER 31
+Karen
+That reminds me, I've got something for
+you. Please come with me to the carriage.
+
+## POINTER 32
+Karen
+We got this from Scicily, a guest
+who stayed with us last time.<PAGE>He said this is for when
+I have kids...But I'm not
+even married yet. ∀
+
+## POINTER 33
+<STR>(YUR)
+Do you really want
+us to have this?
+
+## POINTER 34
+Karen
+Yes, this'll probably be too
+big for kids, even when I
+do have them one day.
+
+## POINTER 35
+<STR>(RAV)
+We must be some special
+guest to receive this...
+
+## POINTER 36
+<STR>(JUD)
+It's cute!
+
+## POINTER 37
+<STR>(JUD)
+It suits you.
+
+## POINTER 38
+<STR>(RIT)
+Yeah...very kiddy?
+
+## POINTER 39
+Karen
+If you happen to see our carriage again, 
+please stop by and say hi! We'll always 
+have room for you to stay the night! ♪
+
+## POINTER 40
+<STR>(EST_P)
+Thank you!
+
+## POINTER 41
+Karen
+No, thank you!

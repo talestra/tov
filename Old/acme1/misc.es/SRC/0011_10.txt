@@ -1,0 +1,318 @@
+## POINTER 1372 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Escudo que protege de ataques de todo tipo.
+Es ligero y no estorba.
+
+## POINTER 1374 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Luz estelar
+
+## POINTER 1375 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768692]
+Juguete muy popular entre las chicas.
+¡Genera un hechizo secreto para transformarse!
+
+## POINTER 1377 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586516]
+Escudo de Caballero Blanco
+
+## POINTER 1378 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586516]
+La prueba de que a un Caballero le han asignado
+una misión especial. También es un signo de caballerosidad.
+
+## POINTER 1380 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261666018]
+Arredoval
+
+## POINTER 1381 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Peculiar escudo que existió en una época única.
+Está hecho con tecnología desconocida en este mundo.
+
+## POINTER 1383 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Cuero negro
+
+## POINTER 1384 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Guante hecho con piel de buey ennegrecida. Asegura
+una alta protección y permite propinar fuertes ataques.
+
+## POINTER 1386 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Puño de acero
+
+## POINTER 1387 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768692]
+Cinta con ribetes de acero que se enrolla en la mano.
+Es capaz de proteger el puño y de infligir mucho daño.
+
+## POINTER 1389 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Defensor
+
+## POINTER 1390 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Guantelete pesado hecho a medida. Aunque no cubre
+los dedos, protege el resto de la mano.
+
+## POINTER 1392 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Puño tirano
+
+## POINTER 1393 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592664]
+Guante fabricado con un material especial con gran poder
+de ataque. Con él se puede tirar al enemigo al suelo.
+
+## POINTER 1395 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Colmillo de Garm
+
+## POINTER 1396 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Guantelete mortal cuyo aspecto parece el de un perro furioso.
+Si se emplea correctamente otorga un gran poder de ataque.
+
+## POINTER 1398 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Sangre ardiente
+
+## POINTER 1399 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592340]
+Completo informe sobre la combustión espontánea
+humana. Solo unos pocos conocen la verdad oculta.
+
+## POINTER 1401 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263897231]
+Hidrónomos
+
+## POINTER 1402 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119956]
+Informe sobre la localización del sagrado templo del agua.
+Está escrito de forma ininteligible.
+
+## POINTER 1404 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Portador de la Tormenta
+
+## POINTER 1405 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271587007]
+Libro de conjuros que invoca la tormenta y el desastre. Es conocido
+por aparecer en forma de espada o lanza a lo largo de la Historia.
+
+## POINTER 1407 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263897231]
+Xaosólogos
+
+## POINTER 1408 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119956]
+Poderoso libro de conjuros capaz de conducir a la locura.
+Todavía se desconoce la mayoría de lo que está escrito en él.
+
+## POINTER 1410 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Canción de Gea
+
+## POINTER 1411 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119956]
+Libro de canciones transmitido de generación en generación. Se dice que
+la canción dura cinco días y que trae fertilidad, pero a cambio de vidas.
+
+## POINTER 1413 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263898265]
+Thanatólogos
+
+## POINTER 1414 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Libro de conjuros con información sobre los dioses de la antigüedad.
+Se eliminaron sus inexactitudes en medida de lo posible.
+
+## POINTER 1416 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Diccionario del gatito adorable
+
+## POINTER 1417 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119956]
+¡Todo sobre los gatos! Describe su comportamiento y cómo tratar
+con ellos a través de ilustraciones e imágenes adorables.
+
+## POINTER 1419 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261572288]
+Cuchillo de combate
+
+## POINTER 1420 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119956]
+Cuchillo pequeño forjado a la vieja usanza.
+¡Corta mejor que un cuchillo de panadero!
+
+## POINTER 1422 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261666018]
+Mano izquierda
+
+## POINTER 1423 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Daga corta para el ataque y la defensa.
+Un duelo entre espadachines puede ser muy intenso.
+
+## POINTER 1425 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Jitte
+
+## POINTER 1426 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Cuchillo pequeño modificado con una pieza para atrapar
+la hoja del rival. Tiene un gran poder defensivo.
+
+## POINTER 1428 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Rompeespadas
+
+## POINTER 1429 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Espada corta que puede destruir el arma del enemigo.
+Su afilada hoja puede cortar el acero.
+
+## POINTER 1431 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Misericordia
+
+## POINTER 1432 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016299]
+Espada corta para contener a los soldados enemigos.
+También se la conoce como «La Espada de la Piedad».
+
+## POINTER 1434 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Botas
+
+## POINTER 1435 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Es mejor llevar esto que ir descalzo.
+Son cómodas y no hacen sudar los pies.
+
+## POINTER 1437 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Botas de dragón
+
+## POINTER 1438 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1262270523]
+Botas forjadas con un metal maleable que emplea
+la raza de los krityanos. Son ligeras como una pluma.
+
+## POINTER 1440 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Tacones de cristal
+
+## POINTER 1441 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261703369]
+Zapatos artesanales hechas con cristales especialmente
+tratados. Su efecto mágico dura toda la noche.
+
+## POINTER 1443 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Piel de dragón
+
+## POINTER 1444 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769509]
+Par de botas de cuero hechas a partir de una muda
+de Ba'ul. Contienen la esencia de un dragón.
+
+## POINTER 1446 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Sandalias
+
+## POINTER 1447 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Son fáciles de poner y útiles para una visita rápida
+a la tienda. Es mejor que ir descalzo.
+
+## POINTER 1449 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261703369]
+Bolsa normal
+
+## POINTER 1450 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119956]
+Se desconoce cuánta carga puede llegar a llevar,
+pero es suficiente para transportar todos tus blastias.
+
+## POINTER 1452 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261703369]
+Bolsa mediana
+
+## POINTER 1453 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119956]
+Con esta bolsa tus posesiones parecerán muy ligeras
+sin importar cuántas pongas en su interior.
+
+## POINTER 1455 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261703369]
+Bolsa grande
+
+## POINTER 1456 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+¡Una bolsa tan grande que hasta Ba'ul podría caber dentro!
+Lo más extraño es que todos los objetos quedan bien colocados.
+
+## POINTER 1458 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263904252]
+Bolsa reina
+
+## POINTER 1459 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+La reina de las bolsas. Es lo mejor de lo mejor.
+Su calidad hace honor a su nombre.
+
+## POINTER 1461 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Collar de cadena
+
+## POINTER 1462 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271587007]
+Collar recibido del anterior dueño.
+Solo se lleva por formalidad.
+
+## POINTER 1464 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Collar de pinchos
+
+## POINTER 1465 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Collar para los perros duros.
+Es efectivo para asustar a la gente.
+
+## POINTER 1467 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Collar de metal
+
+## POINTER 1468 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Placa de metal que se lleva al cuello.
+Formaba parte de la armadura de un perro de lucha.
+
+## POINTER 1470 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Gladiador
+
+## POINTER 1471 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768692]
+Los guerreros lo enrollaban a su cuerpo en la antigüedad.
+Se llevaba más que nada para subir la moral.
+
+## POINTER 1473 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Anillo eterno
+
+## POINTER 1474 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Anillo gigante forjado con un poderoso metal.
+Puede que no esté pensado para que lo lleve un perro.
+
+## POINTER 1476 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261574115]
+Rey de las bestias
+
+## POINTER 1477 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Collar inspirado por el legendario rey de las bestias.
+Infunde una presencia noble y majestuosa.
+
+## POINTER 1479 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Malla de cuero
+
+## POINTER 1480 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Armadura básica de cuero
+para aventureros principiantes.
+
+## POINTER 1482 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Malla robusta
+
+## POINTER 1483 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768692]
+Armadura de metal que exige tener algo de 
+habilidad para apreciar todo su potencial.
+
+## POINTER 1485 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Malla de anillas
+
+## POINTER 1486 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271587007]
+Armadura de metal que requiere algo de 
+habilidad para apreciarla.
+
+## POINTER 1488 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Malla de hierro
+
+## POINTER 1489 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261703369]
+Malla de hierro que cubre todo el cuerpo.
+Hace falta tener experiencia para manejarla.
+
+## POINTER 1491 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Cota de malla
+
+## POINTER 1492 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261703369]
+Armadura para la parte superior del cuerpo
+que sirve para proteger la zona del pecho.
+
+## POINTER 1494 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Cuero laminado
+
+## POINTER 1495 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768692]
+Armadura formada por varias capas de cuero muy resistente.
+Es más robusta que una armadura metálica.
+
+## POINTER 1497 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Malla entablillada
+
+## POINTER 1498 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261703369]
+Cota de malla con pequeñas placas de hierros.
+Tiene el equilibrio perfecto entre firmeza y flexibilidad.
+
+## POINTER 1500 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Peto
+
+## POINTER 1501 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+La parte superior de esta armadura está hecha con metal
+de gran calidad, pensando en la movilidad y la durabilidad.
+
+## POINTER 1503 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Traje de batalla
+
+## POINTER 1504 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261584989]
+Se puso especial cuidado en cada una de las juntas de esta armadura.
+Una obra maestra de la movilidad y la durabilidad.
+
+## POINTER 1506 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586541]
+Armadura de Caballero
+
+## POINTER 1507 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592207]
+Armadura superior reservada solo a Caballeros de alto rango.
+Una sencilla, pero resistente armadura fácil de llevar.

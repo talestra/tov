@@ -1,0 +1,82 @@
+## POINTER 0
+<STR>(YUR)
+Can you see anything?
+
+## POINTER 1
+<STR>(EST_P)
+I don't see anything at all...
+
+## POINTER 2
+<STR>(EST_P)
+...After what happened 
+to Belius...<PAGE>And with <STR>(JUD) breaking our 
+blastia and running away...<PAGE>I just don't know what to think anymore.
+
+## POINTER 3
+<STR>(YUR)
+Oh yeah?
+
+## POINTER 4
+<STR>(EST_P)
+And then you went and cut your arm like that...
+
+## POINTER 5
+<STR>(YUR)
+Heh, that was painful.
+
+## POINTER 6
+<STR>(EST_P)
+It's not funny!
+
+## POINTER 7
+<STR>(YUR)
+But you healed me.
+
+## POINTER 8
+<STR>(EST_P)
+I couldn't just ignore 
+you, could I?<PAGE>I can't just ignore someone who's 
+injured in front of me...
+
+## POINTER 9
+<STR>(YUR)
+So what are you all rattled about?<PAGE>Don't you remember? Belius said to 
+take good care of your kind nature.
+
+## POINTER 10
+<STR>(EST_P)
+My power is the reason 
+that the Entelexeia hate 
+me, isn't it?
+
+## POINTER 11
+<STR>(YUR)
+What with you being able to use magic without blastia...
+
+## POINTER 12
+<STR>(EST_P)
+Even if I make an effort not to 
+use my power on the Entelexeia,<PAGE>... to them, I'll still be evil...<PAGE>That's why Phaeroh was trying to kill me.
+
+## POINTER 13
+<STR>(YUR)
+But Belius said you should try 
+to meet Phaeroh, didn't she?
+
+## POINTER 14
+<STR>(EST_P)
+Yeah, in order to discover my destiny...
+
+## POINTER 15
+<STR>(EST_P)
+But I wonder...is 
+that really right?
+
+## POINTER 16
+<STR>(EST_P)
+...No, that can't be. I'm the 
+one who'll decide my destiny.
+
+## POINTER 17
+<STR>(YUR)
+Now you've got the idea.

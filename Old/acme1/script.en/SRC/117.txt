@@ -1,0 +1,76 @@
+## POINTER 0
+<STR>(KAR)
+Next up is the eggbear claw.
+
+## POINTER 1
+<STR>(EST_P)
+Are we going to walk around the 
+woods and look for an eggbear?
+
+## POINTER 2
+<STR>(KAR)
+No, we'll never find one that way.
+
+## POINTER 3
+<STR>(YUR)
+Yeah? What'll we do then?
+
+## POINTER 4
+<STR>(KAR)
+Hand me a nia fruit, would 
+you? I'm going to use it to 
+lure out the eggbear.
+
+## POINTER 5
+<STR>(KAR)
+The eggbear has 
+very unusual tastes, 
+you see.
+
+## POINTER 6
+<STR>(RAP)
+...
+
+## POINTER 7
+<STR>(YUR)
+Jeez, you smell 
+horrible!
+
+## POINTER 8
+<STR>(KAR)
+ME? The smell isn't coming from me!
+
+## POINTER 9
+<STR>(EST_P)
+Please tell us when you're going to do something like that.
+
+## POINTER 10
+<STR>(EST_P)
+Oh, no! <STR>(RAP)!
+
+## POINTER 11
+<STR>(KAR)
+Everyone keep a lookout! An eggbear 
+could come out anytime now.<PAGE>And they're famous for their 
+terrible ferocity.
+
+## POINTER 12
+<STR>(YUR)
+So then, Captain <STR>(KAR), I'm assuming that you're going 
+to lead the charge against this terribly ferocious monster?
+
+## POINTER 13
+<STR>(KAR)
+Of course! But I could use 
+a hand from you, <STR>(YUR).
+
+## POINTER 14
+<STR>(EST_P)
+I'll help too. Oh, 
+and <STR>(RAP) also.
+
+## POINTER 15
+<STR>(YUR)
+Well then, how about 
+we have a bit of a walk 
+around the forest?

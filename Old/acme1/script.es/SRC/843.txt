@@ -1,0 +1,138 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294684414]
+
+¡Hombre, <STR>(YUR)!
+¡No esperaba verte por aquí!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294684414]
+<STR>(YUR)
+¿Eh? ¿Y tú quién eras?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682357]
+
+¡Ja, ja, ja!
+¡No has cambiado
+nada, <STR>(YUR)!<PAGE>¡Soy yo, tío! ¡Estábamos juntos
+en los Caballeros Imperiales!
+Soy Aguerón... ¿te acuerdas?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+<STR>(YUR)
+¿Aguerón? Aah, ya, creo que
+sí me acuerdo. Eras el que
+siempre robaba comida, ¿no?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+Aguerón
+Ese era otro...
+Bueno, da igual.<PAGE>Parece que te ha ido bastante
+bien desde que te fuiste.<PAGE>¡Yo voy a seguir currando
+para ayudar a <STR>(FRE) a
+construir esta nueva ciudad!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+<STR>(YUR)
+¡Así me gusta! A <STR>(FRE) le irá
+muy bien tu ayuda, estoy seguro.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682357]
+Aguerón
+Ahora la gente espera mucho de <STR>(FRE).
+Voy a ayudarle tanto como pueda,
+aunque no sea dando la cara.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294684414]
+<STR>(YUR)
+Muchas gracias. Bueno, si
+necesitas algo, avísame.
+Haré lo posible para ayudar.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+Aguerón
+Hombre, ahora que lo dices....<PAGE>La ciudad ha avanzado, pero parece
+que la gente ya no se interesa
+tanto por su desarrollo.<PAGE>Hasta ahora todo el mundo estaba unido...
+Todos trabajábamos juntos. Pero la gente
+del pueblo ha perdido el entusiasmo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+<STR>(YUR)
+Bueno, yo diría que es bastante
+normal que se sientan así.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+Aguerón
+Ya... La gente querrá
+relajarse, seguro.<PAGE>Pero algunas personas le han ido pasando
+el trabajo a <STR>(FRE)... incluso
+pequeños trabajos de todo el pueblo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+<STR>(YUR)
+¿Adónde quieres llegar?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+Aguerón
+Quiero ayudar al pueblo a recordar el
+espíritu del esfuerzo que los llevó a
+construir aquí sus hogares al principio.<PAGE>Pensaba que quizás... si pudieran notar
+algún tipo de logro, quizás ayudaría
+a que todos se unieran de nuevo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+<STR>(YUR)
+...
+¿Y qué propones que
+se haga, exactamente?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+Aguerón
+¿Podríais conseguir materiales
+de construcción que no se
+encuentren cerca del pueblo?<PAGE>Si tuviéramos más materiales,
+creo que podríamos mejorar
+aún más todo este sitio.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1294684889]
+<STR>(YUR)
+Bueno, al fin y
+al cabo, tenemos
+a Ba'ul...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+Aguerón
+¡Por favor,
+ayudad a nuestro
+pueblo a crecer!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+<STR>(YUR)
+Supongo que no tengo elección.
+Y doy por hecho que no quieres
+que le diga nada a <STR>(FRE), ¿no?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682357]
+Aguerón
+No... Tiene cosas mucho
+más importantes en las
+que centrarse ahora.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1294685321]
+<STR>(YUR)
+Suena bien. Así podemos
+hacer que se concentre en
+lo que tiene que hacer.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683024]
+Aguerón
+Gracias. ¡No hay ni un
+compañero Caballero para
+que me saque del apuro!<PAGE>
+Muy bien, ¿podrías traerme tres de lo
+siguiente?: polvo dorado de Desier, corteza
+de árbol de Hypionia y fruto de Yurzo.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:kaene;time:1294768772]
+<STR>(YUR)
+Polvo dorado de Desier, corteza de
+árbol de Hypionia y fruto de Yurzo...
+Tres de cada. Entendido.

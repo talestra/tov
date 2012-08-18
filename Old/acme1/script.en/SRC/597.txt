@@ -1,0 +1,110 @@
+## POINTER 0
+
+What's up, Brave 
+Vesperia?
+
+## POINTER 1
+<STR>(KAR)
+Looks like you finally 
+remembered who we are.
+
+## POINTER 2
+
+Well, of course I have. Got 
+something here with your 
+name on it, after all.
+
+## POINTER 3
+<STR>(YUR)
+What?
+
+## POINTER 4
+
+Don't get too excited, now. 
+It's from one of the lieutenants 
+in the Imperial Knights.
+
+## POINTER 5
+<STR>(JUD)
+I wonder what it could be.
+
+## POINTER 6
+<STR>(RAV)
+Huh? Who's it from?
+
+## POINTER 7
+
+Oh yeah, there's a note attached.
+
+## POINTER 8
+<STR>(KAR)
+Let's see... "Dear Brave Vesperia, 
+We hope this finds you succeeding 
+in all your ventures..."
+
+## POINTER 9
+<STR>(YUR)
+Skip that part. 
+What do they want?
+
+## POINTER 10
+<STR>(KAR)
+Uh, okay... "Thank you for your 
+cooperation in the recent 
+arrest of anti-Empire elements."<PAGE>"Due in part to your aid, a plot 
+to overthrow the government 
+has been averted."<PAGE>"Financial compensation of any 
+guild by the Imperial Knights 
+is strictly forbidden."<PAGE>"On behalf of myself and my two 
+subordinates however, I humbly 
+offer you our heartfelt thanks."<PAGE>"I look forward to future cooperation 
+between our parties. Good fortune 
+and good health. -Leblanc"
+
+## POINTER 11
+<STR>(EST_P)
+...!
+
+## POINTER 12
+<STR>(JUD)
+My my, how gentlemanly.
+
+## POINTER 13
+<STR>(YUR)
+Future cooperation? 
+What is he thinking we're 
+going to cooperate on?
+
+## POINTER 14
+<STR>(KAR)
+Huh, back from the job 
+we did for Mimula...
+
+## POINTER 15
+<STR>(YUR)
+I guess this'll have to take the 
+place of payment for that job.
+
+## POINTER 16
+
+It's none of my business, but it's a 
+pretty big deal for the Knights to send 
+anything like this to Dahngrest.<PAGE>There're folks around here who'd rather 
+not draw the Empire's attention. Do 
+make sure and watch yourselves.
+
+## POINTER 17
+<STR>(YUR)
+No worries, it's nothing 
+like that.
+
+## POINTER 18
+<STR>(KAR)
+Feels pretty nice to finally 
+get some recognition for 
+our hard work, huh <STR>(YUR)?
+
+## POINTER 19
+<STR>(YUR)
+Yeah, let's hope we 
+can keep this up.

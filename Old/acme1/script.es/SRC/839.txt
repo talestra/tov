@@ -1,0 +1,41 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294423576]
+<STR>(KAR)
+O-Oye...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296677902]
+Barrelow X
+¡¿Q-Q-Qué quieres?! ¡Clanc!
+¡N-No me siento solo ni nada, clanc!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296677902]
+<STR>(KAR)
+Yo creo que
+molas mucho.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296677902]
+Barrelow X
+¡Eso es obvio, clanc!
+¡¿Por qué dices cosas
+tan obvias, clanc?!<PAGE>¡Esa obviedad me ha dejado
+en estado de shock, clanc!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294423576]
+<STR>(KAR)
+Pensaba que quizás
+podríamos ser amigos...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296677902]
+Barrelow X
+S-Sí insistes... 
+Supongo que tú podrías
+ser mi esbirro, clanc...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296678074]
+<STR>(KAR)
+He dicho amigo,
+no esbirro...<PAGE>Bueno, volvamos con el
+profesor Sicily, ¿vale?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296677902]
+Barrelow X
+¡Vale, clanc!

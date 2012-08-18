@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251753073]
+¿Están bien en Dahngrest?
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942392]
+(EST_P)
+El puente se derrumbó con el ataque del monstruo.
+Espero que en Dahngrest estén bien.
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942392]
+(EST_P)
+Parece que hubo gente que resultó herida.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115906]
+(KAR)
+La ciudad estaba llena de Caballeros.
+Creo que pueden apañárselas bien por ahora.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115906]
+(KAR)
+Además el Don está en Dahngrest y todos
+los de los gremios son duros de pelar.
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942392]
+(YUR)
+(FRE) nos atraparía si volviésemos ahora,
+y eso sería el final de tus viajes.
+
+## POINTER 6 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942392]
+(EST_P)
+Tienes razón.
+Confiaré en los Caballeros
+Imperiales y en los gremios.
+
+## POINTER 7 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942392]
+(EST_P)
+He decidido ir con vosotros,
+y eso es lo que voy a hacer.

@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251833587]
+La caja
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:xander;time:1261779745]
+(RIT)
+Parece que no hay manera de abrir la caja
+que contiene el cristal cielo claro...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298577765]
+(RIT)
+Teniendo en cuenta el lugar donde lo encontramos,
+me gustaría que nos asegurásemos de que de verdad está dentro.
+
+## POINTER 3 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267179381]
+(KAR)
+¿No puedes romperla con tu magia?
+
+## POINTER 4 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267179381]
+(RIT)
+No, no puedo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118109]
+(EST_P)
+Es verdad. Si dañamos lo que contiene
+no podremos terminar la entrega.
+
+## POINTER 6 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266232922]
+(RIT)
+No, quiero decir que ya he intentado reventarla.
+La cajita esta tiene más aguante de lo que parece.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118109]
+(EST_P)
+E-Estoy sin palabras...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118109]
+(KAR)
+Olvídalo, (EST_P).
+Poco puedes decir a eso.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118109]
+(EST_P)
+E-En cualquier caso, supongo que tiene sentido
+meter algo tan importante en una caja irrompible.

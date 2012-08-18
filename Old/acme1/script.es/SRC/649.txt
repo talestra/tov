@@ -1,0 +1,91 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+<STR>(KAR)
+<VOICE>(VA050_046)Ese es el tipo que vimos en Keiv Moc.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1279398230]
+<STR>(EST_P)
+<VOICE>(VA050_047)¡Hola!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1279398300]
+Duke
+<VOICE>(VA050_048)...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+<STR>(YUR)
+<VOICE>(VA050_049)Y eso que <STR>(EST_P) ha sido educada.
+Alguien necesita aprender buenos modales.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+<STR>(KAR)
+<VOICE>(VA050_050)Mira quién habla, <STR>(YUR).<PAGE><VOICE>(VA050_051)Ese monstruo nos volverá
+a atacar si seguimos por aquí.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+<STR>(EST_P)
+<VOICE>(VA050_052)Sí, tienes razón.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+Duke
+<VOICE>(VA050_053)¿Eras tú el objetivo de su ataque?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+<STR>(EST_P)
+<VOICE>(VA050_054)¿Qué? O-Oh, sí.
+¿Sabe qué quiso decirme con insulso ve...?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+<STR>(YUR)
+<VOICE>(VA050_055)¿Es tu mascota o qué?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+Duke
+<VOICE>(VA050_056)Seguimos el mismo procedimiento.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+<STR>(YUR)
+<VOICE>(VA050_057)¿Cómo?
+¿Estás haciendo lo mismo que un monstruo?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+<STR>(EST_P)
+<VOICE>(VA050_058)¿Eso significa que también
+ha venido a atacarme?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+Duke
+<VOICE>(VA050_059)Mi hoja no existe para dictar
+sentencia sobre los humanos.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527122]
+Duke
+<VOICE>(VA050_060)Qué extraño...
+Se ha ido.
+Pero ¿por qué?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1279398300]
+<STR>(JUD)
+<VOICE>(VA050_061)...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+Duke
+<VOICE>(VA050_062)Quizá me haya equivocado...
+No.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084218]
+<STR>(YUR)
+<VOICE>(VA050_063)Este tío no deja de sorprenderme.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1279398230]
+<STR>(KAR)
+<VOICE>(VA050_064)¿Qué crees que está tramando?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1279398230]
+<STR>(YUR)
+<VOICE>(VA050_065)Quien sabe.<PAGE><VOICE>(VA050_066)Venga, no tenemos tiempo
+para quedarnos aquí
+disfrutando del paisaje.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1279398230]
+<STR>(KAR)
+<VOICE>(VA050_067)Oh, ya.
+¡Tenemos que irnos!

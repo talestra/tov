@@ -1,0 +1,109 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS42_238)The Heracles is gone!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS42_239)Just like <STR>(RAV) said, 
+they must have left 
+for Zaphias already.
+
+## POINTER 2
+
+<VOICE>(VS42_240)Y-<STR>(YUR) Lowell?! What 
+are you doing here?!
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS42_241)Leblanc?! Even Tweedle A 
+and Tweedle B are here.
+
+## POINTER 4
+Adecor
+<VOICE>(VS42_242)I say, don't you dare call me that!
+
+## POINTER 5
+Boccos
+<VOICE>(VS42_243)And what is a Tweedle?! Out with it!
+
+## POINTER 6
+Leblanc
+<VOICE>(VS42_244)Foools! This is not the 
+time for nonsense!
+
+## POINTER 7
+Leblanc
+<VOICE>(VS42_245)Did you not see our 
+Captain Schwann?<PAGE><VOICE>(VS42_246)I have had no word from him since 
+he joined the operation of His 
+Excellency the Commandant.<PAGE><VOICE>(VS42_247)I simply cannot comprehend 
+the Commandant's recent 
+actions.<PAGE><VOICE>(VS42_248)We have searched everywhere, but 
+were brought here by a report that 
+Heracles had been seen...
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS42_249)Alexei is on his way to the 
+capital. In Heracles.
+
+## POINTER 9
+Leblanc
+<VOICE>(VS42_250)Ah, we just missed him, then! 
+And what about Captain Schwann...
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS42_251)Rav...Schwann saved us.
+
+## POINTER 11
+Leblanc
+<VOICE>(VS42_252)Ooh, did he now?! So then, he's 
+aboard Heracles as well?
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS42_253)...He's in the shrine. 
+The deepest part.
+
+## POINTER 13
+Adecor
+<VOICE>(VS42_254)What...?
+
+## POINTER 14
+Boccos
+<VOICE>(VS42_255)Wait...you...
+
+## POINTER 15
+Leblanc
+<VOICE>(VS42_256)...No, this is not 
+happening. I-it can't be!<PAGE><VOICE>(VS42_257)You! Tell me what 
+happened! I want to 
+hear it, <STR>(YUR) Lowell!
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS42_258)We almost died 
+thanks to Alexei!<PAGE><VOICE>(VS42_259)The only reason we're 
+standing here now is 
+because of your Captain!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS42_260)Alexei apparently has some 
+sort of secret plan for the 
+empire, and it can't be good.<PAGE><VOICE>(VS42_261)We're going to make 
+sure he doesn't get the 
+chance to carry it out.<PAGE><VOICE>(VS42_262)If you're any kind of 
+knights at all, you 
+won't stand in our way.
+
+## POINTER 18
+Leblanc
+<VOICE>(VS42_263)...But how...how could 
+it have come to this...?
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS42_264)Let's hurry. 
+I'll call Ba'ul.

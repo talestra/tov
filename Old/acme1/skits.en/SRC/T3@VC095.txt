@@ -1,0 +1,64 @@
+## POINTER 0
+Items? Who Needs Items?
+
+## POINTER 1
+(KAR)
+H-hey, hold on a sec!
+
+## POINTER 2
+(YUR)
+What is it? Is something the matter?
+
+## POINTER 3
+(KAR)
+Help me organize these 
+items, would you?
+
+## POINTER 4
+(EST_P)
+Since when did we have 
+so many of those?
+
+## POINTER 5
+(JUD)
+We haven't been using 
+them. They add up.
+
+## POINTER 6
+(YUR)
+If we can get by without using them, 
+so much the better, right?
+
+## POINTER 7
+(EST_P)
+Is that how it works...?
+
+## POINTER 8
+(JUD)
+You don't want to get into the 
+habit of wasting items when 
+you don't need to, right?
+
+## POINTER 9
+(EST_P)
+Ummm... I'm simply not very 
+familiar with using items...
+
+## POINTER 10
+(KAR)
+Well, it doesn't matter what 
+you pick, just use some items... 
+They're going to waste!
+
+## POINTER 11
+(EST_P)
+H-he's right, (YUR). 
+Let's use our items.
+
+## POINTER 12
+(YUR)
+All right, if we need to.
+
+## POINTER 13
+(KAR)
+Or at least help me sort them out!

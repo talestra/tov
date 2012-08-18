@@ -1,0 +1,170 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS56_008)Natz was really 
+working hard.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS56_009)Yeah. It looks like he's doing a good 
+job leading since Belius passed away.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS56_010)I'd like him to 
+meet Undine. He'd 
+be so happy.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS56_011)Not right now.<PAGE><VOICE>(VS56_012)Once everything's settled down, though, 
+let's give him a nice surprise.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS56_013)Okay.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS56_014)...That monster.<PAGE><VOICE>(VS56_015)Palestralle was no 
+match for it. I can't 
+figure it out...
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS56_016)So how did we take it out?
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS56_017)Maybe there's something 
+different about us...
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS56_018)The spirits, perhaps?
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS56_019)If the Adephagos really is 
+close to aer, then the spirits 
+might actually affect it.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS56_020)So can we put up more of a fight 
+if we get the other three?
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS56_021)Who knows...<PAGE><VOICE>(VS56_022)The four elements alone could 
+control aer, but...we're talking 
+about the Adephagos.<PAGE><VOICE>(VS56_023)I just don't know.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS56_024)Yeah, and it's not like you can find 
+apatheia lying around just anywhere.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS56_025)There aren't many Entelexeia 
+left, either...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS56_026)Hey, there are tons of blastia 
+all over the world, right?
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS56_027)Yes. They're an indispensable 
+part of our society.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS56_028)And cores are just 
+pieces of apatheia.<PAGE><VOICE>(VS56_029)So if the four spirits 
+aren't enough...<PAGE><VOICE>(VS56_030)...we can just change all the cores of 
+the world into spirits, too. Right?
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS56_031)Are you nuts? How do you 
+propose to do that?
+
+## POINTER 18
+<STR>(JUD)
+<VOICE>(VS56_032)Even if we knew how, 
+we'd still have to go to 
+every single blastia.<PAGE><VOICE>(VS56_033)I doubt the Adephagos 
+would wait for us.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS56_034)I think that's your 
+specialty, genius.
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS56_035)...Oh no. This is your genius plan.
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS56_036)...Even if <STR>(YUR)'s 
+plan worked...<PAGE><VOICE>(VS56_037)...all the blastia would stop 
+working, wouldn't they?
+
+## POINTER 22
+<STR>(RAV)
+<VOICE>(VS56_038)Yeah, I guess so. All the 
+cores would be gone.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS56_039)What would the 
+world become?
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS56_040)People would lose the safety 
+promised by the barriers...
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS56_041)All the functions that the blastia 
+maintained. Gone. It'll be inconvenient, 
+to say the least.
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS56_042)Even bodhi blastia wouldn't 
+work. Oh...
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS56_043)There'll be a lot of unhappy people. 
+But we have to do it...
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS56_044)That thing will destroy the world. 
+I think we should do it.<PAGE><VOICE>(VS56_045)Even if no one other 
+than us understands.
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VS56_046)Well, for now, let's just get 
+the four elemental spirits.<PAGE><VOICE>(VS56_047)Once we do that, then we can 
+think about what to do next.
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS56_048)Yeah.
+
+## POINTER 31
+<STR>(KAR)
+<VOICE>(VS56_049)Ba'ul knows where the other 
+Entelexeia are, right?
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS56_050)Yeah. Let's get back to the ship and ask him.

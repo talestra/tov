@@ -1,0 +1,68 @@
+## POINTER 0
+
+Is the wanted man really 
+hiding in here?
+
+## POINTER 1
+
+I'm sure.<PAGE>I thought I'd seen him somewhere before. 
+And then I spotted the wanted poster,
+I immediately knew it was him.
+
+## POINTER 2
+
+That room up ahead, hmm... 
+All right. You stand back.
+
+## POINTER 3
+
+Yes, of course.
+
+## POINTER 4
+<STR>(YUR)
+Hey, wake up!
+
+## POINTER 5
+<STR>(RIT)
+Mmm...what do you want?
+It's the middle of the night!
+
+## POINTER 6
+<STR>(KAR)
+Not too much milk on my
+cereal...no, it'll get soggy...
+
+## POINTER 7
+<STR>(YUR)
+I said wake up, <STR>(KAR)! We 
+have to get out of here!
+
+## POINTER 8
+
+The wanted man has three friends 
+with him. They've also got a dog,
+so be careful.
+
+## POINTER 9
+
+An Imperial Knight won't be beaten 
+by the likes of a common criminal!
+
+## POINTER 10
+<STR>(RIT)
+<STR>(EST)! Kid! 
+Wake up, you two!
+
+## POINTER 11
+<STR>(RIT)
+<STR>(EST_P)! Kid! Wake 
+up, you two!
+
+## POINTER 12
+
+All right, put your hands 
+up and come quietly...huh?
+
+## POINTER 13
+
+They got away!!

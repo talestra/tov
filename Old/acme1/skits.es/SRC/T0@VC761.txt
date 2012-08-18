@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1251720531]
+Los Espadas Cazadoras y el monstruo
+
+## POINTER 1 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266846213]
+(EST_P)
+¿Qué creéis que era ese monstruo
+tan espantoso que vimos en Caer Bocram?
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266846213]
+(YUR)
+Esa bestia era más fuerte que
+cualquier otra que haya visto antes.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297112581]
+(YUR)
+Si no se hubiera marchado en ese momento,
+no lo hubiéramos contado.
+
+## POINTER 4 [t:1;r:1;ru:xander;user:xander;time:1298243068]
+(RIT)
+Esa opinión resulta sorprendentemente
+cauta viniendo de ti.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297112581]
+(RIT)
+Aunque estoy de acuerdo cuando
+se trata de un monstruo como aquel.
+
+## POINTER 6 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266846213]
+(EST_P)
+¿Crees que fueron los Espadas Cazadoras
+los que lo atraparon en la barrera invertida?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297112581]
+(YUR)
+Sí, puede ser... Parecía que habían ido
+expresamente a acabar con él.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297112581]
+(YUR)
+Sea como sea, no me gustaría encontrarme
+otra vez con un monstruo así.

@@ -1,0 +1,153 @@
+## POINTER 0
+
+You idiot! You've got no idea what 
+the hell you're talking about!
+
+## POINTER 1
+
+What did you just say, 
+you pea-brained peon?!
+
+## POINTER 2
+
+Damn it! You'd better watch your mouth...!
+
+## POINTER 3
+<STR>(YUR)
+This city hasn't changed a bit...
+
+## POINTER 4
+
+That's quite enough!
+
+## POINTER 5
+Natz
+You two will stop 
+fighting right now!
+
+## POINTER 6
+
+Who the hell are you...!
+
+## POINTER 7
+Natz
+I am Natz, of Palestralle. 
+I'm the provisional Duke.<PAGE>I do not know the cause of 
+your argument, but I shall 
+help you resolve it.
+
+## POINTER 8
+
+Resolve it?
+
+## POINTER 9
+Natz
+What's the point of crossing swords 
+out in public like this?<PAGE>If you have a problem, you should settle 
+it like men, in the Coliseum.<PAGE>If you beat him in battle, not only will 
+you resolve your dispute, but your reputation 
+will grow, as well. What do you say?
+
+## POINTER 10
+
+Son of a... I don't have time 
+for something like that...
+
+## POINTER 11
+Natz
+Oh? Then I'll use my guild authority 
+to have you locked up for disturbance 
+of the peace. How does that sound?
+
+## POINTER 12
+
+Damn it...
+This isn't worth 
+the trouble! Hmpf...
+
+## POINTER 13
+
+Thank you very 
+much, Natz.
+
+## POINTER 14
+Natz
+I don't know what happened here, 
+but if you'd fought, you would've 
+been given the same punishement.<PAGE>Please, be more careful in the future.
+
+## POINTER 15
+
+Yes...
+I-I'm sorry...
+
+## POINTER 16
+Natz
+Good luck with your business.
+
+## POINTER 17
+Natz
+Oh... It's you. Hello. I'm still indebted 
+to you for everything you've done.
+
+## POINTER 18
+<STR>(YUR)
+It looks like things've gotten tough 
+in town since Belius passed away.
+
+## POINTER 19
+Natz
+What happened with the Duce was
+unfortunate... But nonetheless.<PAGE>We couldn't go on forever 
+depending on her to solve
+our problems.<PAGE>This is a town of humans. It's up to us to come together 
+and figure out how to live together in peace.
+
+## POINTER 20
+<STR>(YUR)
+So you've been going around
+as the Duce's temporary
+replacement?
+
+## POINTER 21
+Natz
+Indeed. There will be a vote soon, to determine 
+who will officially end up taking her responsibilities...
+Who knows how that will turn out.
+
+## POINTER 22
+<STR>(YUR)
+I feel like Nordopolica's people have 
+already chosen you to lead them. That's 
+how it seems to me, at least.
+
+## POINTER 23
+
+Rarr, get outta the way! 
+Move, move, move!!
+
+## POINTER 24
+Natz
+...It never ends...
+
+## POINTER 25
+Natz
+Stop by again sometime, if you'd like.<PAGE>Maybe we can sit down over 
+some tea and share stories.
+
+## POINTER 26
+<STR>(YUR)
+Definitely...
+
+## POINTER 27
+<STR>(KAR)
+Wow, he's got it tough...♪
+
+## POINTER 28
+<STR>(YUR)
+Yeah, it can't be easy dealing with 
+all these crazies day in and day out.
+
+## POINTER 29
+<STR>(JUD)
+I hope he hangs in there...

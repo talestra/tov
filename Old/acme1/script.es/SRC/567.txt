@@ -1,0 +1,159 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1283797576]
+<STR>(JUD)
+¿Eres Rhianna?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1283797576]
+
+Sí, soy Rhianna Kale. 
+¿Quiénes sois?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1283797576]
+<STR>(YUR)
+Nos ha enviado la Unión.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848506]
+Rhianna
+Vaya, ¿sois el gremio
+que me buscará el
+colgante de mi madre?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929696]
+<STR>(RAV)
+Ah, pobre angelillo.
+¿Buscas desesperadamente
+un recuerdo de tu madre?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+Rhianna
+Sí. Es el colgante
+que le regaló mi padre
+cuando se casaron.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1283883720]
+<STR>(RAV)
+¡Oh! ¡El colgante que recibió
+el día de su boda! Qué historia
+tan maravillosa, querida.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+<STR>(RIT)
+Das un yuyu que no veas, viejales.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+Rhianna
+El colgante está hecho de un metal
+muy valioso llamado livianita.<PAGE>Mi padre extrajo el mineral
+y lo talló hasta darle forma.<PAGE>Era único en el mundo...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929757]
+<STR>(RAV)
+¿Y cómo podremos reconocer tu colgante?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+Rhianna
+La livianita es un metal
+rojo brillante.<PAGE>Mi padre hizo eslabones hexagonales
+a partir de él para formar un collar
+que después regaló a mi madre.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+<STR>(RAV)
+Un collar brillante de hexágonos rojos...
+Es bastante singular.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1283799404]
+<STR>(YUR)
+Sí, eso lo hará más fácil de encontrar.<PAGE>¿Sabes dónde
+lo perdiste?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1283799404]
+Rhianna
+Bueno, lo cierto es que...
+Se me cayó al río en el puente
+de la entrada de la ciudad...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1283799404]
+<STR>(RAV)
+¡¿Qué?!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1283799404]
+<STR>(YUR)
+¿Cómo se supone que vamos a encontrarlo?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+Rhianna
+¡Por favor!
+¡Es muy importante para mí!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1283799404]
+<STR>(JUD)
+Con todo lo que nos has contado
+eso nos ha quedado claro, pero...<PAGE>lo que nos pides es imposible.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1283799404]
+<STR>(YUR)
+Pero ya le hemos dicho a la Unión
+que aceptábamos el trabajo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+<STR>(JUD)
+Cualquier gremio rechazaría
+una petición así al darse cuenta
+de que no la puede cumplir.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1283799404]
+Rhianna
+No...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+<STR>(RAV)
+¡No! ¡No, no, no! ¡Cuando
+un gremio acepta un trabajo,
+no se puede rechazar!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1283799404]
+<STR>(YUR)
+¡¿Y ahora qué te pasa?!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+<STR>(RAV)
+¿Es que no veis que esta señorita
+está muy preocupada?<PAGE>¿Qué gremio se negaría a ayudar
+a una pobre chica tan guapa y dulce?<PAGE>¡Aceptamos esta tarea en nombre
+de la estrella que más brilla
+en la noche, Gran Vesperia!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1283883470]
+Rhianna
+¡Gracias!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1283883470]
+<STR>(JUD)
+¿Ahora mandas tú?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1283883470]
+<STR>(YUR)
+Da igual. Como que
+podemos ir empezando,
+¿no, <STR>(KAR)?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1283883470]
+<STR>(RIT)
+No está.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+<STR>(JUD)
+¿Eh? Hace nada estaba
+esperando en la entrada.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+<STR>(YUR)
+Eso explica por qué hay tanto silencio.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+<STR>(RAP)
+¡Guau, guau!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1291929420]
+<STR>(YUR)
+Vamos a buscarlo.

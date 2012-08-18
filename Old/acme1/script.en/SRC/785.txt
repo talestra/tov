@@ -1,0 +1,137 @@
+## POINTER 0
+
+Meooow!
+
+## POINTER 1
+<STR>(RIT)
+Oh, a cat...
+...Meow!
+
+## POINTER 2
+
+(Are you the one they call the Dog Warrior?)
+
+## POINTER 3
+<STR>(RAP)
+(I've been called that name. Can I help you with something?)
+
+## POINTER 4
+
+(A vicious dog showed up in town 
+recently, and he's been causing 
+us no end of trouble!)<PAGE>(He's causing trouble for all of the dogs 
+and cats in town, and the humans, too. 
+Could you please get rid of him?)
+
+## POINTER 5
+<STR>(RAP)
+(I don't usually do mercenary work, but...)
+
+## POINTER 6
+
+(Hey there, 
+pussycat. ∀)
+
+## POINTER 7
+
+(...That's him!)
+
+## POINTER 8
+<STR>(RAP)
+(It's you...!)
+
+## POINTER 9
+
+(Oh, lookie what the 
+cat dragged in!)
+
+## POINTER 10
+<STR>(RAP)
+(Stand back, ma'am.)
+
+## POINTER 11
+<STR>(RAP)
+(I hear you've been trotting around town like you 
+own the place. Causing trouble for the locals.)
+
+## POINTER 12
+
+(Oh, the things some people say. 
+I'm just trying to free this city 
+from the self-serving humans.)
+
+## POINTER 13
+
+(In our city, humans and animals 
+live together in peace! You should 
+mind your own business!)
+
+## POINTER 14
+
+(Sucking up to the humans, 
+eh? How pitiful.)
+
+## POINTER 15
+<STR>(RAP)
+(Sucking up to someone and getting along 
+with them aren't the same thing.)<PAGE>(But it looks like you never learned 
+the difference, Old Man.)
+
+## POINTER 16
+
+(As always, you don't know 
+when to keep your mouth shut. 
+How about I shut it for you...for 
+good?)
+
+## POINTER 17
+
+(Damn it... How did you beat 
+me so easily... I'll show you...!)
+
+## POINTER 18
+
+(...Th-thank you...)<PAGE>(As our way of showing our thanks, this town's 
+dogs and cats will work together to make sure 
+your territory around here stays protected.)
+
+## POINTER 19
+<STR>(RAP)
+(Oh... That'd be real 
+nice of you.)
+
+## POINTER 20
+
+(It's the least we can do for you, after 
+you made that terrible dog go away.)
+
+## POINTER 21
+<STR>(KAR)
+So maybe that means all 
+of <STR>(RAP)'s territory around 
+this city is safe?
+
+## POINTER 22
+<STR>(YUR)
+Yeah, I think so. Isn't 
+that great, <STR>(RAP)?
+
+## POINTER 23
+<STR>(RAP)
+Woof!
+
+## POINTER 24
+<STR>(RIT)
+I'm sure this town's cats don't want it to belong 
+to the likes of the Little Wolf, either.
+
+## POINTER 25
+<STR>(EST_P)
+You know, I have to say... I didn't 
+know all of you were so fluent 
+in the canine language!
+
+## POINTER 26
+<STR>(JUD)
+Heh heh. That would certainly be 
+a sight to see if it were true.

@@ -1,0 +1,181 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+<STR>(YUR)
+Nos hemos alejado mucho de la capital.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271161279]
+<STR>(EST_P)
+Sí... Me pregunto si ya
+estamos a salvo. 
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+<STR>(YUR)
+Eso nunca se sabe. Esos chicos
+pueden ser muy insistentes. 
+
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271152894]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+<STR>(YUR)
+¿Eh?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+Mmpf...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+Saludos. 
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271152894]
+<STR>(EST_P)
+¡Hola!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+¡Bienvenidos, ilustres viajeros! ♪
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+<STR>(EST_P)
+¿Esto es una tienda?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+Es la choza para viajeros del Rey de la Aventura.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+Oh, hermano, intenta ser 
+un poco más amable, ¿vale? ∀
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+Perdona, Karen...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1272810531]
+Karen
+Disculpadle, por favor. Me llamo Karen
+y este es mi hermano mayor Rich. 
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+<STR>(EST_P)
+¿Regentáis una
+posada ambulante?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271165041]
+<STR>(YUR)
+«Rey de la Aventura»... 
+¿Por qué me suena tanto ese nombre? 
+Me recuerda a alguien famoso. 
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+<STR>(EST_P)
+Su Alteza Regin, el hermano del último
+emperador, se le concedió ese nombre
+debido a su insaciable sed de aventura. 
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+Karen
+¡Así es! Lo tomamos prestado
+de Su Alteza Regin.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+Rich
+Nosotros lo 
+respetamos...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+<STR>(YUR)
+Mmm, entonces es un
+nombre muy bonito.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1272810531]
+Karen
+¿Y vosotros? ¿Estáis casados?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+<STR>(EST_P)
+¿C-Casados?
+Yo, esto...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1272810531]
+<STR>(YUR)
+¿Tenemos pinta de ser un matrimonio?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+Karen
+Oh. Me he confundido, entonces.
+¡Lo siento mucho!<PAGE>
+Si estáis cansados, quizá os interese
+pasar aquí la noche, ¿verdad?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+<STR>(EST_P)
+¿Q-Qué hacemos?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+¿Quieres descansar?
+Sí
+No
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271165041]
+<STR>(YUR)
+Claro, dormiremos aquí. 
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271165041]
+Karen
+¡Excelente! ¡Muchas gracias¡
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440772]
+Rich
+Que sobéis bien...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1272810531]
+Karen
+¡Oh, hermano, por favor!
+¡Os pido disculpas! 
+¡Os pido mil disculpas!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1273440710]
+<STR>(EST_P)
+T-Tranquila, no pasa nada.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271165041]
+Karen
+¿Habéis dormido bien?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271165041]
+<STR>(YUR)
+Sí, muchas gracias. 
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271165041]
+Karen
+¡Espero que nuestros pasos 
+vuelvan a cruzarse en algún 
+lugar del camino! ♪
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271165041]
+<STR>(EST_P)
+¡Claro, yo también 
+lo espero!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1272810531]
+Rich
+Si eso, luego...
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271165041]
+<STR>(YUR)
+Gracias, pero esta vez 
+no podrá ser. Tenemos 
+un poco de prisa. 
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271165041]
+Karen
+Oh, es una lástima.<PAGE>¡Espero que nuestros pasos 
+vuelvan a cruzarse en algún 
+lugar del camino! ♪
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271165041]
+<STR>(EST_P)
+¡Claro, yo también 
+lo espero!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:parsec;time:1271194311]
+Rich
+Hasta la vista...

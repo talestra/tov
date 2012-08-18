@@ -1,0 +1,144 @@
+## POINTER 0
+
+A fiery soul into a sea of flames...
+
+## POINTER 1
+<STR>(KAR)
+That's... That's what Mr. Seron said...
+
+## POINTER 2
+<STR>(JUD)
+Would you be Yu's friend, Nobis?
+
+## POINTER 3
+<STR>(YUR)
+Are you Yu's friend, Nobis?
+
+## POINTER 4
+Nobis
+Indeed. You were 
+sent to find me?
+
+## POINTER 5
+<STR>(KAR)
+Yes, we brought you something 
+from Yu Seron.
+
+## POINTER 6
+Nobis
+You haven't looked at 
+what's inside, have you?
+
+## POINTER 7
+<STR>(KAR)
+Huh? No, of course not...
+
+## POINTER 8
+Nobis
+Very well. If that is all...
+
+## POINTER 9
+<STR>(KAR)
+Oh, wait. I need to take 
+some proof of delivery 
+back to the client...
+
+## POINTER 10
+Nobis
+Ah, okay. Let's see...you 
+can take this to him 
+as proof of delivery.
+
+## POINTER 11
+Nobis
+Well then, say hello to Yu for me.
+
+## POINTER 12
+<STR>(KAR)
+Of course. Thanks!
+
+## POINTER 13
+<STR>(YUR)
+Pretty good for our first job.
+
+## POINTER 14
+<STR>(KAR)
+We're not done yet. We still gotta take 
+this proof of delivery back to Yu.
+
+## POINTER 15
+<STR>(JUD)
+And then we'll finally be 
+finished with the job.
+
+## POINTER 16
+<STR>(YUR)
+I'm glad we didn't lose the 
+book before we got it to him!
+
+## POINTER 17
+<STR>(KAR)
+That would've been bad. I don't 
+think you could just go out and 
+buy a replacement for that book.
+
+## POINTER 18
+<STR>(RIT)
+How would you even lose 
+something like that?
+
+## POINTER 19
+<STR>(RAV)
+Maybe if ya went ta the bathroom and accidentally 
+left it by the sink when ya washed your hands?
+
+## POINTER 20
+<STR>(RIT)
+Eww, that's dirty.
+
+## POINTER 21
+<STR>(RAV)
+What's dirty? You're 
+washin' yer hands!
+
+## POINTER 22
+<STR>(KAR)
+We need to make sure not to lose 
+the proof of delivery, too.
+
+## POINTER 23
+<STR>(YUR)
+Okay, enough talking. 
+Let's get moving!
+
+## POINTER 24
+<STR>(KAR)
+Yeah, let's go to Mantaic 
+and see the client.
+
+## POINTER 25
+<STR>(RAV)
+Yikes, are we going back all the way?
+
+## POINTER 26
+<STR>(KAR)
+The sooner, the better.
+Don't you want to tell the client?
+
+## POINTER 27
+<STR>(YUR)
+There's no need for a rush.
+Talking of things like this, the more you wait, the more you joy.
+
+## POINTER 28
+<STR>(KAR)
+Is that true... ?
+
+## POINTER 29
+<STR>(YUR)
+Let's see the client when we
+stop by at Mantaic later sometime.
+
+## POINTER 30
+<STR>(RAP)
+Woof!

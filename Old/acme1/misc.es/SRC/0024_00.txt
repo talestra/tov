@@ -1,0 +1,301 @@
+## POINTER 0 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254655]
+MG ficticio
+
+## POINTER 1 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Póquer
+
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264259056]
+¿Alta o baja?
+
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¿Par o impar?
+
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254757]
+Juego de dados
+
+## POINTER 5 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254757]
+Maestro de los dados
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254757]
+Carrera disparada
+
+## POINTER 7 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257913]
+Maestra del aer
+
+## POINTER 8 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Tales of Draspi
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257556]
+Camarero estresado
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264255716]
+Herramienta accionadora
+
+## POINTER 11 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264255716]
+Acción 3D
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264255716]
+Carrera de Dragón
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338396]
+Guarda de almacén
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Coliseo de batalla
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Elige una carta para cambiarla.
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+<06>(LBH) Mover cursor
+
+## POINTER 17 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+<06>(RBD) Elegir carta
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+<06>(RBU) Elegir todo
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+<06>(RBL) Cambiar cartas
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¿Doblas la apuesta?
+
+## POINTER 21 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264259056]
+ALTA
+BAJA
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263880465]
+Introduce la cantidad que quieres apostar.
+
+## POINTER 23 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¿Doblar la apuesta de nuevo?
+
+## POINTER 24 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¿A qué quieres apostar?
+
+## POINTER 25 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Ya no puedes doblar más veces la apuesta.
+
+## POINTER 26 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¡Doblada!
+
+## POINTER 27 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Apuesta perdida...
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¿Continuar?
+
+## POINTER 29 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338396]
+No te quedan fichas.
+Compra más para poder jugar.
+
+## POINTER 30 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Elige juego
+
+## POINTER 31 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264259056]
+Alto
+
+## POINTER 32 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264259056]
+Bajo
+
+## POINTER 33 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Par
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Impar
+
+## POINTER 35 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264256021]
+Té de amango
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264256021]
+Langostino picante
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264256021]
+Estofado de tortuga
+
+## POINTER 38 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Helado de espíritu terrestre
+
+## POINTER 39 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Bandeja de comida B
+
+## POINTER 40 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Espagueti carbonara
+
+## POINTER 41 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Sopa de tomate
+
+## POINTER 42 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Helado
+
+## POINTER 43 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Pez a la parrilla
+
+## POINTER 44 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Mandragosso
+
+## POINTER 45 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Masa guisada de Cabemov
+
+## POINTER 46 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Curry mabo
+
+## POINTER 47 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Especial de Don
+
+## POINTER 48 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Sopa de almejas
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:kaene;time:1295178202]
+Pasta con marisco
+
+## POINTER 50 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Cóctel de frutas
+
+## POINTER 51 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Filete de cerdinejo
+
+## POINTER 52 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Estofado de crema
+
+## POINTER 53 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Tarta de chocolate
+
+## POINTER 54 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Bandeja de comida A
+
+## POINTER 55 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Disculpa...
+
+## POINTER 56 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¡Hola!
+
+## POINTER 57 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Quiero pedir algo.
+
+## POINTER 58 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Mmm, ya sé qué pedir.
+
+## POINTER 59 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¿Puede atenderme alguien?
+
+## POINTER 60 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Disculpa...
+
+## POINTER 61 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¿Vale?
+
+## POINTER 62 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¿Alguien atiende?
+
+## POINTER 63 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¿Hola?
+
+## POINTER 64 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¡Oye!
+
+## POINTER 65 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¡Camarero!
+
+## POINTER 66 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¡Qué buena pinta!
+
+## POINTER 67 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Por aquí.
+
+## POINTER 68 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¡Al fin!
+
+## POINTER 69 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¿Por qué has tardado tanto?
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:memnoch;time:1297509809]
+Chachi. ∀
+
+## POINTER 71 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Gracias.
+
+## POINTER 72 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¡Gracias!
+
+## POINTER 73 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¡Gracias!
+
+## POINTER 74 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Helo aquí.
+
+## POINTER 75 [t:1;r:1;ru:memnoch;user:memnoch;time:1297509809]
+Qué hambre tengo.
+
+## POINTER 76 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Este. Quiero este de aquí.
+
+## POINTER 77 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+No era esto.
+
+## POINTER 78 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+No era esto.
+
+## POINTER 79 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Esto no es lo que he pedido...
+
+## POINTER 80 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+No, este no es mi pedido.
+
+## POINTER 81 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¿Eh?
+
+## POINTER 82 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Ups, esto no es lo que había pedido.
+
+## POINTER 83 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+No exactamente...
+
+## POINTER 84 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257341]
+Oh, pedido equivocado.
+
+## POINTER 85 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338396]
+Yo no he pedido esto.
+
+## POINTER 86 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¡Oye! ¡Te has equivocado!
+
+## POINTER 87 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Esto tiene que ser un error...
+
+## POINTER 88 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338396]
+Hazlo bien, chaval.
+
+## POINTER 89 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Que no es esto, leñe.
+
+## POINTER 90 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+No era esto.
+
+## POINTER 91 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338396]
+Has metido la pata hasta el fondo.
+
+## POINTER 92 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338396]
+Oye, que esto no es mío.
+
+## POINTER 93 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Perdona, pero esto no es mío.
+
+## POINTER 94 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Mmm, esto no es mío.
+
+## POINTER 95 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Esto no es mi pedido.
+
+## POINTER 96 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¡Vamos, hombre!
+
+## POINTER 97 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Te parecerá bonito, ¿eh?
+
+## POINTER 98 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+¡¿Estás de coña?!
+
+## POINTER 99 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263860874]
+Me muero de hambre...

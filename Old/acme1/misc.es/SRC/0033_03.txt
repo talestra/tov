@@ -1,0 +1,303 @@
+## POINTER 451 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Playa Pasillo
+
+## POINTER 452 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262407073]
+Una extensa línea de playas que abarcan de norte a sur.
+
+## POINTER 456 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Este de la península de Muluroccia
+
+## POINTER 457 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Este de la península de Muluroccia
+
+## POINTER 458 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Este de la península de Muluroccia
+
+## POINTER 459 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Este de la península de Muluroccia
+
+## POINTER 460 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256426702]
+Una zona al oeste de la colina de Ehmead.
+
+## POINTER 464 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Norte de la península de Muluroccia
+
+## POINTER 465 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Norte de la península de Muluroccia
+
+## POINTER 466 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Norte de la península de Muluroccia
+
+## POINTER 467 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Norte de la península de Muluroccia
+
+## POINTER 468 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262407073]
+La región septentrional de la península de Muluroccia.
+Ahí se encuentra Capua Nor.
+
+## POINTER 472 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Sur de la península de Muluroccia
+
+## POINTER 473 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Sur de la península de Muluroccia
+
+## POINTER 474 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Sur de la península de Muluroccia
+
+## POINTER 475 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Sur de la península de Muluroccia
+
+## POINTER 476 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256426702]
+Una meseta al sur de Capua Nor.
+
+## POINTER 480 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Las llanuras al sureste de la península de Muluroccia
+
+## POINTER 481 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Las llanuras al sureste de la península de Muluroccia
+
+## POINTER 482 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Las llanuras al sureste de la península de Muluroccia
+
+## POINTER 483 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Las llanuras al sureste de la península de Muluroccia
+
+## POINTER 484 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256426702]
+Estas praderas son inaccesibles a pie.
+
+## POINTER 488 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Montañas de Astefiellus
+
+## POINTER 489 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Montañas de Astefiellus
+
+## POINTER 490 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Montañas de Astefiellus
+
+## POINTER 491 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Montañas de Astefiellus
+
+## POINTER 492 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262407073]
+Hogar de la montaña más alta del mundo.
+El clima gélido mantiene alejados a los intrusos.
+
+## POINTER 496 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256426702]
+La isla oriental de Ilyccia
+
+## POINTER 497 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256426702]
+La isla oriental de Ilyccia
+
+## POINTER 498 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256426702]
+La isla oriental de Ilyccia
+
+## POINTER 499 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256426702]
+La isla oriental de Ilyccia
+
+## POINTER 500 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+La isla más grande del mundo, situada al este del continente de Ilyccia.
+
+## POINTER 504 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Isla Laulyse
+
+## POINTER 505 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Isla Laulyse
+
+## POINTER 506 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Isla Laulyse
+
+## POINTER 507 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Isla Laulyse
+
+## POINTER 508 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262407073]
+Un arrecife natural de formación rocosa.
+
+## POINTER 512 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262988105]
+Los Bancos Afilados septentrionales de Zopheir
+
+## POINTER 513 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262988105]
+Los Bancos Afilados septentrionales de Zopheir
+
+## POINTER 514 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262988105]
+Los Bancos Afilados septentrionales de Zopheir
+
+## POINTER 515 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262988105]
+Los Bancos Afilados septentrionales de Zopheir
+
+## POINTER 516 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+La región más ártica de Ilyccia.
+
+## POINTER 520 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262988854]
+Los Bancos Afilados de Zopheir
+
+## POINTER 521 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1262990272]
+Los Bancos Afilados de Zopheir
+
+## POINTER 522 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1262990272]
+Los Bancos Afilados de Zopheir
+
+## POINTER 523 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1262990272]
+Los Bancos Afilados de Zopheir
+
+## POINTER 524 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262985665]
+La zona más septentrional de Ilyccia. Se dice que sus
+temperaturas son tan bajas que te pueden helar la sangre.
+
+## POINTER 528 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Las llanuras orientales de Tolbyccia
+
+## POINTER 529 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Las llanuras orientales de Tolbyccia
+
+## POINTER 530 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Las llanuras orientales de Tolbyccia
+
+## POINTER 531 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Las llanuras orientales de Tolbyccia
+
+## POINTER 532 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262407073]
+La única llanura de Tolbyccia que se extiende desde el puerto de Torim.
+No recibe mucha lluvia debido a las montañas que la separan.
+
+## POINTER 536 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Tolbyccia oriental
+
+## POINTER 537 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Tolbyccia oriental
+
+## POINTER 538 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Tolbyccia oriental
+
+## POINTER 539 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Tolbyccia oriental
+
+## POINTER 540 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262407073]
+Una gran zona boscosa en mitad del continente de Tolbyccia.
+Rodeada de montañas, en ella se encuentra el lago Tisbem.
+
+## POINTER 544 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Centro-este de Tolbyccia
+
+## POINTER 545 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Centro-este de Tolbyccia
+
+## POINTER 546 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Centro-este de Tolbyccia
+
+## POINTER 547 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Centro-este de Tolbyccia
+
+## POINTER 548 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262985665]
+Una región boscosa llena de ríos y cascadas
+con Heliord en su centro.
+
+## POINTER 552 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Norte de Tolbyccia
+
+## POINTER 553 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Norte de Tolbyccia
+
+## POINTER 554 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Norte de Tolbyccia
+
+## POINTER 555 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Norte de Tolbyccia
+
+## POINTER 556 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262407073]
+Con Dahngrest en su centro, esta zona está
+dividida entre llanuras y regiones boscosas.
+
+## POINTER 560 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Centro-oeste de Tolbyccia
+
+## POINTER 561 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Centro-oeste de Tolbyccia
+
+## POINTER 562 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Centro-oeste de Tolbyccia
+
+## POINTER 563 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920261]
+Centro-oeste de Tolbyccia
+
+## POINTER 564 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Una zona alrededor del bosque de Keiv Moc.
+
+## POINTER 568 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Suroeste de Tolbyccia
+
+## POINTER 569 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Suroeste de Tolbyccia
+
+## POINTER 570 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Suroeste de Tolbyccia
+
+## POINTER 571 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Suroeste de Tolbyccia
+
+## POINTER 572 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Una meseta en el suroeste de Tolbyccia.
+
+## POINTER 576 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315490]
+Tolbyccia occidental
+
+## POINTER 577 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315490]
+Tolbyccia occidental
+
+## POINTER 578 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315490]
+Tolbyccia occidental
+
+## POINTER 579 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315490]
+Tolbyccia occidental
+
+## POINTER 580 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987845]
+Un bosque en Tolbyccia occidental donde
+se encuentra la Mansión de los Infames.
+
+## POINTER 584 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Sur de Tolbyccia
+
+## POINTER 585 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Sur de Tolbyccia
+
+## POINTER 586 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Sur de Tolbyccia
+
+## POINTER 587 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588499]
+Sur de Tolbyccia
+
+## POINTER 588 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Un bosque elevado, inaccesible a pie.
+
+## POINTER 592 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Isla Swendle
+
+## POINTER 593 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Isla Swendle
+
+## POINTER 594 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Isla Swendle
+
+## POINTER 596 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Una isla al norte de Tolbyccia.
+
+## POINTER 597 [t:1;r:1;ru:memnoch;user:memnoch;time:1297534420]
+Una isla al norte de Tolbyccia.
+La torre de Ghasfarost estaba antes aquí.
+
+## POINTER 600 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315490]
+Isla Swendle oriental
+
+## POINTER 601 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315490]
+Isla Swendle oriental
+
+## POINTER 602 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315490]
+Isla Swendle oriental
+
+## POINTER 603 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315490]
+Isla Swendle oriental
+
+## POINTER 604 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262407073]
+La zona este de la isla Swendle. No se convirtió en
+una selva tropical debido a las montañas que la rodean.
+
+## POINTER 608 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256487700]
+Islas Carapuson

@@ -1,0 +1,260 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS28_039)There he is...!
+
+## POINTER 1
+Regaey
+<VOICE>(VS28_040)B-b-but how did you...?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS28_041)Good work, <STR>(RAP). Looks 
+like our little game of tag 
+is over, Regaey.
+
+## POINTER 3
+Regaey
+<VOICE>(VS28_042)Heh, n-n-now... I'll have to show 
+you my really real power...!
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS28_043)No way...!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS28_044)Huh. So that's what's been going on.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS28_045)What does this mean? 
+Was he disguising 
+himself as Regaey...?
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS28_046)I don't think we have 
+time to worry about the 
+particulars right now.
+
+## POINTER 8
+Yeager
+<VOICE>(VS28_047)Oh me oh my, how terribly 
+frightening. I don't know what I'd 
+do if I were to end up like poor Ragou.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS28_048)What do you mean...? 
+What happened to him?
+
+## POINTER 10
+Yeager
+<VOICE>(VS28_049)They found his body 
+face-down in a riverbed 
+back in Dahngrest.<PAGE><VOICE>(VS28_050)I just couldn’t bear it if I 
+ended up like that, you know.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS28_051)Ragou is...dead? 
+But why?
+
+## POINTER 12
+Yeager
+<VOICE>(VS28_052)Afraid that's not for me 
+to say, nein, my lips are 
+zipped up tight for sure.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS28_053)...
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS28_054)Oh... Not that way!
+
+## POINTER 15
+Gauche
+<VOICE>(VS28_055)Yeager!
+
+## POINTER 16
+Droite
+<VOICE>(VS28_056)Ta-daah, the reinforcements have arrived!
+
+## POINTER 17
+Yeager
+<VOICE>(VS28_057)Gauche, Droite--the 
+rest I leave up to you.
+
+## POINTER 18
+Gauche
+<VOICE>(VS28_058)As you wish.
+
+## POINTER 19
+Droite
+<VOICE>(VS28_059)Aye aye, sir. ♪
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS28_060)He's getting away!
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS28_061)Not on my watch!
+
+## POINTER 22
+Yeager
+<VOICE>(VS28_062)See you in the funny 
+papers, leibchen!
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS28_063)That's him! 
+It's Pteropus!
+
+## POINTER 24
+Gauche
+<VOICE>(VS28_064)We need no succor from our enemies...
+
+## POINTER 25
+Droite
+<VOICE>(VS28_065)You're not gonna make fools of us...
+
+## POINTER 26
+<STR>(EST_P)
+<VOICE>(VS28_066)But, with those injuries...!
+
+## POINTER 27
+Gauche
+<VOICE>(VS28_067)Let us withdraw...
+
+## POINTER 28
+Droite
+<VOICE>(VS28_068)Bye bye for now...
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS28_069)Man this stinks... Where'd 
+this smoke come from...?
+
+## POINTER 30
+<STR>(RAP)
+<VOICE>(VS28_070)*Sniff, sniff.*
+
+## POINTER 31
+<STR>(RAV)
+<VOICE>(VS28_071)They're throwin' our canine 
+friend here off the scent...
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VS28_072)Aah... Wh-what is 
+with this heat...?
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS28_073)Those are the 
+Sands of Kogorh...
+
+## POINTER 34
+<STR>(RAV)
+<VOICE>(VS28_550)Whoa... We made it 
+all the way there?
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS28_551)The Sands of Kogorh.
+Phaeroh's here.
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS28_552)I...  I'm going on... 
+to meet Phaeroh.
+
+## POINTER 37
+<STR>(KAR)
+<VOICE>(VS28_553)Wait! We can't just
+let you go alone.<PAGE><VOICE>(VS28_554)I mean, our job right now 
+is to protect you.
+
+## POINTER 38
+<STR>(RAV)
+<VOICE>(VS28_555)Well...
+We did get the 
+stolen box back, right?
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS28_556)Yeah, I guess we 
+can't just keep 
+chasing him around.<PAGE><VOICE>(VS28_557)Hmm, all right, we'll take 
+care of 'em next time.
+
+## POINTER 40
+<STR>(RIT)
+<VOICE>(VS28_558)Hold on. Are you
+seriously going?<PAGE><VOICE>(VS28_078)Do you know what you're saying? 
+This is a desert. It's hot. 
+People die here. Get it?
+
+## POINTER 41
+<STR>(EST_P)
+<VOICE>(VS28_079)I'm ready for it...I think...
+
+## POINTER 42
+<STR>(JUD)
+<VOICE>(VS28_080)...The desert is divided 
+into three regions.
+
+## POINTER 43
+<STR>(RIT)
+<VOICE>(VS28_081)Huh?
+
+## POINTER 44
+<STR>(JUD)
+<VOICE>(VS28_082)The foothills to the west, the 
+center where it's hottest, and 
+the massive peaks to the east.
+
+## POINTER 45
+<STR>(RIT)
+<VOICE>(VS28_083)H-hey, hold on...
+
+## POINTER 46
+<STR>(JUD)
+<VOICE>(VS28_084)...There's a town between 
+the end of the western 
+foothills and the central area.
+
+## POINTER 47
+<STR>(RIT)
+<VOICE>(VS28_085)Where did you hear that?
+
+## POINTER 48
+<STR>(JUD)
+<VOICE>(VS28_086)I went there with a friend 
+once. It's a nice town 
+built up around an oasis.
+
+## POINTER 49
+<STR>(YUR)
+<VOICE>(VS28_087)We'll hold off on any 
+major decisions until 
+we get there, then.
+
+## POINTER 50
+<STR>(RAV)
+<VOICE>(VS28_088)Sounds good to me. Old 
+<STR>(RAV) won't be able ta think 
+straight till he cools off.
+
+## POINTER 51
+<STR>(EST_P)
+<VOICE>(VS28_089)...<STR>(RIT)...
+
+## POINTER 52
+<STR>(RIT)
+<VOICE>(VS28_090)...I know. We'll 
+make that our first 
+destination.

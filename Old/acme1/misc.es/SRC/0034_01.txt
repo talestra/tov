@@ -1,0 +1,299 @@
+## POINTER 941 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+DISEÑADORES GRÁFICOS DE MAPAS DE INTERIOR
+
+## POINTER 942 [t:1;r:1;ru:memnoch;user:parsec;time:1254944668]
+Chiharu Ishii
+
+## POINTER 943 [t:1;r:1;ru:memnoch;user:parsec;time:1254944668]
+Natsumi Amako
+
+## POINTER 944 [t:1;r:1;ru:memnoch;user:parsec;time:1254944668]
+Mayumi Sato
+
+## POINTER 945 [t:1;r:1;ru:memnoch;user:parsec;time:1254944668]
+Yutaka Nihei
+
+## POINTER 947 [t:1;r:1;ru:memnoch;user:parsec;time:1254944668]
+SKITS Y EVENTOS
+
+## POINTER 948 [t:1;r:1;ru:memnoch;user:memnoch;time:1255046693]
+AYUDANTE DE PROGRAMACIÓN
+
+## POINTER 949 [t:1;r:1;ru:memnoch;user:evilluendas;time:1255007122]
+Junji Okayama (CREEK & RIVER Co., Ltd.)
+
+## POINTER 951 [t:1;r:1;ru:memnoch;user:memnoch;time:1255048341]
+DISEÑADOR GRÁFICO JEFE DE MAPAS URBANOS
+
+## POINTER 952 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Tomohiro Hayashi
+
+## POINTER 954 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+DISEÑADORES GRÁFICOS DE MAPAS URBANOS
+
+## POINTER 955 [t:1;r:1;ru:memnoch;user:parsec;time:1254944668]
+Natsuko Terasawa
+
+## POINTER 956 [t:1;r:1;ru:memnoch;user:parsec;time:1254944668]
+Erina Shibata
+
+## POINTER 957 [t:1;r:1;ru:memnoch;user:parsec;time:1254944668]
+Hotta Masato
+
+## POINTER 959 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+DISEÑADORES GRÁFICOS DE EXTERIORES
+
+## POINTER 960 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Taku Matsuda
+
+## POINTER 961 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Yusuke Miyauchi
+
+## POINTER 963 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+DISEÑADORA GRÁFICA DE EFECTOS
+
+## POINTER 964 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Natsuko Taki
+
+## POINTER 966 [t:1;r:1;ru:memnoch;user:memnoch;time:1255047407]
+DISEÑADORES JEFE DE MODELADO DE PERSONAJES
+
+## POINTER 967 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Seika Arai
+
+## POINTER 968 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Masahiko Musya
+
+## POINTER 970 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+DISEÑADORES DE MODELADO DE PERSONAJES
+
+## POINTER 971 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Takuya Kishimoto
+
+## POINTER 972 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Keiichi Asai
+
+## POINTER 973 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Yoshinobu Maezawa
+
+## POINTER 974 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Nao Yanase
+
+## POINTER 975 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Yasuhiko Tanaka
+
+## POINTER 976 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Yuuichirou Takada
+
+## POINTER 977 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Miyuki Kobayashi
+
+## POINTER 978 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Kenichi Itou
+
+## POINTER 979 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Mituru Arai
+
+## POINTER 980 [t:1;r:1;ru:memnoch;user:parsec;time:1254944730]
+Yuuta Saitou
+
+## POINTER 982 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+DISEÑADORES GRÁFICOS DEL SISTEMA
+
+## POINTER 983 [t:1;r:1;ru:memnoch;user:parsec;time:1255023331]
+Nao Yanase
+
+## POINTER 984 [t:1;r:1;ru:memnoch;user:parsec;time:1255023331]
+Yuri Suziki
+
+## POINTER 986 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+DISEÑADORA GRÁFICA DE PERSONAJES 2D
+
+## POINTER 987 [t:1;r:1;ru:memnoch;user:parsec;time:1255023331]
+Asao Hurukawa
+
+## POINTER 989 [t:1;r:1;ru:memnoch;user:memnoch;time:1255047407]
+DISEÑADOR JEFE DE MONSTRUOS Y
+
+## POINTER 990 [t:1;r:1;ru:memnoch;user:parsec;time:1255023331]
+DISEÑADOR GRÁFICO DE MONSTRUOS
+
+## POINTER 991 [t:1;r:1;ru:memnoch;user:parsec;time:1255023331]
+Satoshi Nakamura
+
+## POINTER 993 [t:1;r:1;ru:memnoch;user:memnoch;time:1255048341]
+ANIMACIÓN DE MONSTRUOS Y
+
+## POINTER 994 [t:1;r:1;ru:memnoch;user:memnoch;time:1256513992]
+DISEÑO GRÁFICO DE MONSTRUOS
+
+## POINTER 995 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Takashi Shimano
+
+## POINTER 996 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Keisuke Nitta
+
+## POINTER 997 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Shinich Yamaguchi
+
+## POINTER 998 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Takayuki Tsumura
+
+## POINTER 999 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Tomoko Watanabe
+
+## POINTER 1000 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Hiroki Izume
+
+## POINTER 1001 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Yukari Mashiba
+
+## POINTER 1002 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Masashi Takagi
+
+## POINTER 1003 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Hiroshi Matuo
+
+## POINTER 1005 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+ANIMADORES JEFE DE PERSONAJES 3D
+
+## POINTER 1006 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Susumu Omameuda
+
+## POINTER 1007 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Hisato Ito
+
+## POINTER 1009 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+ANIMADORES DE EVENTOS
+
+## POINTER 1010 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Go Motoyama
+
+## POINTER 1011 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Naoko Hakamada
+
+## POINTER 1012 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Yutaka Aihara
+
+## POINTER 1013 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Miyuki Yamazaki
+
+## POINTER 1014 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Noriaki Inui
+
+## POINTER 1016 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+ANIMADORES DE BATALLAS
+
+## POINTER 1017 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Kazuhiro Watanabe
+
+## POINTER 1018 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Yuji Onishi
+
+## POINTER 1019 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Jinya Kitsui (Digisite Graphics)
+
+## POINTER 1020 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+(Digisite Graphics)
+
+## POINTER 1022 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+GESTOR DE PROCESOS
+
+## POINTER 1023 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Takeshi Yokoyama
+
+## POINTER 1025 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+PROGRAMADOR DE SONIDO
+
+## POINTER 1026 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Syuuji Ikegami
+
+## POINTER 1028 [t:1;r:1;ru:memnoch;user:memnoch;time:1260950887]
+COMPOSITORES MUSICALES
+
+## POINTER 1029 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Motoi Sakuraba
+
+## POINTER 1030 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Hibiki Aoyama
+
+## POINTER 1032 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+EFECTOS DE SONIDO
+
+## POINTER 1033 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Hiroshi Tamura
+
+## POINTER 1034 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Kenta Yabe
+
+## POINTER 1036 [t:1;r:1;ru:memnoch;user:memnoch;time:1255048341]
+EQUIPO DE DEPURACIÓN
+
+## POINTER 1037 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Atsushi Horiguchi
+
+## POINTER 1038 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Yohichi Takekoshi
+
+## POINTER 1039 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Akihiko Mori
+
+## POINTER 1041 [t:1;r:1;ru:memnoch;user:memnoch;time:1256513992]
+AGRADECIMIENTOS ESPECIALES
+
+## POINTER 1042 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Yoshihumi Osaki
+
+## POINTER 1043 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Yuri Handa
+
+## POINTER 1044 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Kaho Yamauchi
+
+## POINTER 1045 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Isao Kadowaki
+
+## POINTER 1046 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Chie Kubota
+
+## POINTER 1047 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Chiaki Sasakura
+
+## POINTER 1048 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Keita Matui
+
+## POINTER 1049 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Chikako Kiyota
+
+## POINTER 1050 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Hiroki Shirao
+
+## POINTER 1051 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Satoshi Segoe
+
+## POINTER 1052 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Ichio Takami
+
+## POINTER 1053 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Naoto Miyadera
+
+## POINTER 1054 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Masaaki Kanbayashi
+
+## POINTER 1055 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Go Murai
+
+## POINTER 1057 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+MINE LOADER SOFTWARE CO., LTD.
+
+## POINTER 1059 [t:1;r:1;ru:memnoch;user:memnoch;time:1255048341]
+GERENTE DE PRODUCTO
+
+## POINTER 1060 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Gong Lizhao
+
+## POINTER 1062 [t:1;r:1;ru:memnoch;user:memnoch;time:1262085164]
+DIRECTOR ARTÍSTICO
+
+## POINTER 1063 [t:1;r:1;ru:memnoch;user:xander;time:1254950037]
+Yan Shuang

@@ -1,0 +1,104 @@
+## POINTER 0
+<STR>(YUR)
+Hey, <STR>(EST_P).
+
+## POINTER 1
+<STR>(EST_P)
+...Oh... <STR>(YUR).
+
+## POINTER 2
+<STR>(YUR)
+Is that...what you were going 
+to give us as payment...?
+
+## POINTER 3
+<STR>(EST_P)
+Yes, it's a memento of my mother.
+
+## POINTER 4
+<STR>(YUR)
+Your mom... She 
+passed away?
+
+## POINTER 5
+<STR>(EST_P)
+Yes, when I was still a child.<PAGE>...What about your mother, <STR>(YUR)...?
+
+## POINTER 6
+<STR>(YUR)
+It happened when I was a baby. I don't 
+even remember what she looked like.
+
+## POINTER 7
+<STR>(EST_P)
+I see...
+
+## POINTER 8
+<STR>(EST_P)
+I thought that I was special, to never have 
+a father or mother while I was growing up.<PAGE>But you, and <STR>(KAR), and even <STR>(RIT)...you 
+all grew up by yourselves, too.
+
+## POINTER 9
+<STR>(YUR)
+Well, in my case, everyone in the 
+lower quarter helped raise me.
+
+## POINTER 10
+<STR>(EST_P)
+Everyone in the castle helped 
+to raise me, too.<PAGE>But I still felt lonely sometimes. Whenever that happened, 
+I would look at this memento and think of my mother. 
+It helped bring my spirits up a little.
+
+## POINTER 11
+<STR>(YUR)
+What're you doing trying to give 
+away something so important to 
+you? You should keep it safe!
+
+## POINTER 12
+<STR>(EST_P)
+After I started this journey, I completely 
+forgot about the memento of my mother.<PAGE>I think, because I was 
+with you, <STR>(YUR)...<PAGE>I didn't need it anymore...
+I had stopped getting lonely...
+
+## POINTER 13
+<STR>(YUR)
+...Are you going to get rid of it...?
+
+## POINTER 14
+<STR>(EST_P)
+We all have to leave our old memories 
+behind. Everyone else is living fiercely 
+and not worrying about the past.<PAGE>I need to learn how to grow 
+up and move on, too.
+
+## POINTER 15
+<STR>(YUR)
+If you don't want it, let 
+me hold onto it for you.
+
+## POINTER 16
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 17
+<STR>(YUR)
+The time will come when you're going to need it. 
+You're going to want to reevaluate who you are.<PAGE>You'll need it to remind yourself who 
+you were, and how far you've come.<PAGE>You don't want to make any rash decisions 
+now that you'll regret later.
+
+## POINTER 18
+<STR>(EST_P)
+Maybe...you're 
+right...<PAGE>But until then, please take 
+care of it for me, <STR>(YUR).<PAGE>If I lose sight of where 
+I'm going, I may have 
+to fall back on it.
+
+## POINTER 19
+<STR>(YUR)
+There'd be nothing wrong with that, either...

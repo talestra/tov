@@ -1,0 +1,12 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS15_039)<STR>(FRE)! What are you...?
+Hey! That's my line!
+
+## POINTER 1
+<STR>(FRE)
+<VOICE>(VS15_040)I've been looking all over for you.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS15_041)That one was mine, too.

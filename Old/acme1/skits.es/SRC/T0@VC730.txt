@@ -1,0 +1,56 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251591614]
+Un montón de libros
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287676070]
+(KAR)
+Menudo montón de libros tiene esta ciudad.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287676070]
+(YUR)
+Leer no es que me apasione, precisamente.
+Creo que me voy a aburrir
+como una ostra en este lugar.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287676070]
+(KAR)
+Pues sí, pareces demasiado activo como para
+quedarte mirando una cosa durante mucho tiempo.
+
+## POINTER 4 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266667975]
+(YUR)
+Mira quién habla.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287676070]
+(KAR)
+Oye, ¿qué le ha pasado a (EST_P)?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287676070]
+(YUR)
+Lleva leyendo libros
+desde que hemos entrado.
+
+## POINTER 7 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266667975]
+(EST_P)
+...
+
+## POINTER 8 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266667975]
+(KAR)
+¡(EST_P)! ¡Es hora de irnos!
+
+## POINTER 9 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266667975]
+(EST_P)
+...
+
+## POINTER 10 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266667975]
+(YUR)
+Cuando se pone a leer no hay quien la pare.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1287676070]
+(EST_P)
+¿Eh? ¿Decíais algo?
+¡Esta parece ser la literatura
+de una antigua civilización!
+
+## POINTER 12 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266667975]
+(YUR)
+Ni siquiera nos escucha...

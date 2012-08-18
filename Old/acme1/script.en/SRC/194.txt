@@ -1,0 +1,127 @@
+## POINTER 0
+Leblanc
+<VOICE>(VS18_001)Continuing on, we will 
+review the particulars 
+of your 18th crime.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS18_002)Please do.
+
+## POINTER 2
+Leblanc
+<VOICE>(VS18_003)Is it true that you threw a knight sent 
+to collect the taxes into the river?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS18_004)Wow, I'd forgotten about that. 
+Was that you, Tweedle A?
+
+## POINTER 4
+Adecor
+<VOICE>(VS18_005)That's right! I was in bed 
+with a cold for three whole 
+days thanks to you.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS18_006)...How many more of these are there? 
+This is getting pretty boring.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS18_007)...I wonder what'll 
+happen to me.
+
+## POINTER 7
+Boccos
+<VOICE>(VS18_008)So, I'll write you have "no signs 
+of remorse" in the report then...
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS18_009)Where's that do-nothing captain 
+of yours, anyway? What was 
+his name? Schwann?
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS18_010)Playing hooky because he's the big shot.
+
+## POINTER 10
+Leblanc
+<VOICE>(VS18_011)You dare mock our captain? Sir Schwann 
+is a legendary hero and a veteran of the 
+Great War ten years ago.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS18_012)So basically, his eminence would never stoop 
+so low as to deal with nobodies like us.
+
+## POINTER 12
+Adecor
+<VOICE>(VS18_013)Quiet, I say! Quiet! 
+Getting on to your next offense...
+
+## POINTER 13
+Leblanc
+<VOICE>(VS18_014)Y-your Excellency Commandant Alexei! 
+To what do we owe this pleasure?!
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS18_015)Alexei... What...?
+
+## POINTER 15
+Alexei
+<VOICE>(VS18_016)All your crimes are hereby pardoned 
+by the good graces of their 
+Highnesses <STR>(EST) and Ioder.
+
+## POINTER 16
+Leblanc
+<VOICE>(VS18_017)What?! But these foul criminals 
+have disturbed the peace 
+of the empire...!
+
+## POINTER 17
+Alexei
+<VOICE>(VS18_018)The Imperial Knights thank you 
+for rescuing Prince Ioder and 
+protecting Princess <STR>(EST).
+
+## POINTER 18
+
+<VOICE>(VS18_019)Please take this.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS18_020)We've got no need for this. It's 
+not like we did those things for 
+the sake of the Knights.
+
+## POINTER 20
+Alexei
+<VOICE>(VS18_021)I see.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS18_022)What about <STR>(EST_P)...?
+
+## POINTER 22
+Alexei
+<VOICE>(VS18_023)She has just given her consent to be 
+returned to the imperial capital.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS18_024)What? ...Well, I guess she 
+is a princess, after all.
+
+## POINTER 24
+Alexei
+<VOICE>(VS18_025)The Princess is waiting at 
+the inn. We would be pleased 
+if you made an appearance.

@@ -1,0 +1,99 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1284211990]
+<STR>(JUD)
+¡Oh! Ese colgante...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+<STR>(KAR)
+¡Ah!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+
+¿Q-Qué pasa?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+<STR>(YUR)
+Oye, ¿me podrías decir cómo
+has conseguido ese colgante que
+tienes alrededor del cuello?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1284211990]
+
+Oh, ¿esto? Lo encontré en la orilla del río.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+<STR>(KAR)
+¡Ajá, tal y como pensamos!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+<STR>(YUR)
+¿Podemos hacer algo para
+que consideres dárnoslo?<PAGE>Su dueña nos envió a buscarlo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1284211990]
+
+Pero yo...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+<STR>(RAV)
+Venga, hay que ser más cortés.
+Si quieres dinero, te pagaremos lo que quieras.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+<STR>(YUR)
+¡Viejales, de quién te crees que es ese dinero!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+<STR>(RAV)
+No me seas rácano.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+
+No podría aceptar dinero...<PAGE>Pero supongo que podría
+dároslo si me traéis una
+pluma pequeña de un pájaro.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1284295306]
+<STR>(YUR)
+De acuerdo, vamos a...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1284295306]
+
+¡Un momento!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+
+Pienso llevarme ese colgante
+aunque sea por la fuerza.<PAGE>No, no debo hacerlo así.
+Quizá si la convenzo para que me lo dé...<PAGE>¡Pero el caso es que
+no dejaré que lo tengáis!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+<STR>(KAR)
+Ya nos ha dicho que nos lo
+cambiará por una pluma pequeña
+de un pájaro, compañero.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+
+Entonces si te doy
+primero la pluma esa,
+¿me darás el colgante?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+
+No me importa quién la consiga.
+Se lo daré al primero que me traiga lo que he pedido.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+
+Perfecto. ¡Me las piro!<PAGE>¡Apartaos!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+<STR>(JUD)
+Y se va así, tal cual.
+Qué hombre tan ocupado.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931706]
+<STR>(YUR)
+Más nos vale espabilar
+o nos ganará. ¡Vamos!

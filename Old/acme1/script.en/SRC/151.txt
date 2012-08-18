@@ -1,0 +1,125 @@
+## POINTER 0
+<STR>(YUR)
+Phew, looks like we lost 'em.
+
+## POINTER 1
+<STR>(EST_P)
+*Huff* *huff* <STR>(RIT), you 
+should really think more 
+before you act!
+
+## POINTER 2
+<STR>(RIT)
+*Huff* ...That barrier blastia 
+was just so strange, I couldn't 
+help myself...
+
+## POINTER 3
+<STR>(YUR)
+Strange? Something fishy about it?
+
+## POINTER 4
+<STR>(RIT)
+I have a feeling that may 
+be an understatement.
+
+## POINTER 5
+<STR>(YUR)
+Well, our hands are already full as it is, 
+so could you please keep us out of it?
+
+## POINTER 6
+<STR>(RIT)
+...It doesn't concern 
+you, regardless.
+
+## POINTER 7
+Leblanc
+<STR>(YUR) Looowell! Where have 
+you run off to now?
+
+## POINTER 8
+<STR>(RIT)
+Hey, Mr. Famous, sounds like you've got a fan out there.
+
+## POINTER 9
+<STR>(YUR)
+Again? That guy gives a new meaning 
+to the word "workaholic."
+
+## POINTER 10
+Adecor
+Lady Estelliiiise! I say, 
+do come out of hiding!
+
+## POINTER 11
+<STR>(RIT)
+You guys have a lot of problems! 
+Just who are you, anyway?
+
+## POINTER 12
+<STR>(EST_P)
+Umm, well, I'm...
+
+## POINTER 13
+Boccos
+Yuuuri, come out, come out, wherever you are!
+
+## POINTER 14
+<STR>(YUR)
+You can talk about that later!
+
+## POINTER 15
+<STR>(KAR)
+Waaaah! Wait, 
+wait! It's me!
+
+## POINTER 16
+<STR>(EST_P)
+...Ack, <STR>(KAR)...don't 
+frighten us like that!
+
+## POINTER 17
+<STR>(YUR)
+Anyway, let's get our butts to Nor Harbor 
+before things get any more complicated.
+
+## POINTER 18
+<STR>(EST_P)
+Which way were we supposed 
+to go, again?
+
+## POINTER 19
+<STR>(KAR)
+Let's see, as the crow flies...
+
+## POINTER 20
+<STR>(RIT)
+Isn't this a beast trail? Can 
+we really go through here?
+
+## POINTER 21
+<STR>(YUR)
+We'll go as far as we can go, at least. 
+I don't want to get captured again.
+
+## POINTER 22
+<STR>(EST_P)
+We'll need to be on the lookout for monsters, then.
+
+## POINTER 23
+<STR>(YUR)
+Meh, what are one or 
+two monsters to the brave 
+Captain <STR>(KAR)?
+
+## POINTER 24
+<STR>(KAR)
+Y-yeah, that's right!<PAGE>Though if the barrier were up, we wouldn't 
+have to worry about monsters at all...
+
+## POINTER 25
+<STR>(RIT)
+I can't stand it! Why does some idiot 
+have to go around breaking blastia 
+and making our lives difficult?!

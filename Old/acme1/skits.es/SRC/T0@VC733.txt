@@ -1,0 +1,51 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251592882]
+Buscando en las ruinas
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680192]
+(EST_P)
+Estas ruinas cambian totalmente cuando las ves por dentro.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680192]
+(KAR)
+Sí, qué raro. Y hay un montón
+de cosas que no había visto nunca...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680192]
+(YUR)
+¿Esta es la primera vez que vienes, (KAR)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680192]
+(KAR)
+Pues sí. Mi especialidad
+es cazar monstruos.
+
+## POINTER 5 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266668478]
+(KAR)
+Eh, ¿qué creéis que es esto?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680192]
+(RIT)
+No deberías fisgonear por ahí.
+Este lugar está lleno de trampas.
+
+## POINTER 7 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266668478]
+(EST_P)
+¿Alguien más acaba de oír un clic?
+
+## POINTER 8 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266668478]
+(YUR)
+¡(KAR)! ¡Cuidado!
+
+## POINTER 9 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266668478]
+(KAR)
+¡Aaaaaah!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680192]
+(YUR)
+Lo siento, creía que estabas a punto
+de morir. He exagerado un poco.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1287680192]
+(KAR)
+Creo que me hubiera ido mejor
+si hubiera caído en la trampa...

@@ -1,0 +1,148 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+
+¡Vaya, vaya! ¡Aquí tienes una cosa
+muy interesante, sí señor!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+<STR>(YUR)
+No sé a qué
+te refieres.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296951608]
+
+¡No te hagas el tonto!
+¡Sé que conseguiste toda la
+colección de «juguetes de lujo»!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+<STR>(KAR)
+¡Sí que son populares
+estas cosas!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296951608]
+<STR>(RIT)
+Sí, entre
+coleccionistas
+obsesivos...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296951608]
+
+¡Déjame verla!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+<STR>(EST_P)
+¡No!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+
+¡Ah, no te gusta
+que los toquen
+otras personas!<PAGE>¡Ya lo pillo! No quieres que
+deje mis huellas dactilares.
+Da igual, solo quiero verlos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+
+¡Alucinante! ¡Qué retro! 
+¡Menuda nostalgia! 
+¡Gracias!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+<STR>(YUR)
+De nada, hombre.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+<STR>(RAV)
+Eh, ¿tú qué
+tienes ahí?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296951608]
+
+¡Es un pescador de tesoros!
+¡Te pones a ver qué tesoros
+se enganchan al sedal!<PAGE>¡Beneficio asegurado!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+<STR>(EST_P)
+Pero... parece que
+no hay tesoros...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296951608]
+
+¡Eres muy observadora! De hecho,
+todavía lo estoy preparando. ¡Aún
+no hay ningún tesoro que pescar!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296951608]
+<STR>(JUD)
+¿Aún lo estás preparando y tienes el negocio abierto?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+
+Aún no sé muy bien
+qué hacer...
+¿Alguna idea?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+<STR>(RAV)
+Ideas, ¿eh? ¡Cuando se
+está en apuros, lo mejor
+es preguntar a Gran Vesperia!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+<STR>(KAR)
+¿Qué? ¿A nosotros?
+Ahora no se me
+ocurre nada...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296951608]
+
+¿Sois un gremio,
+por casualidad?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+<STR>(EST_P)
+Sí, nuestro gremio se
+llama Gran Vesperia.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296951608]
+
+¡Ah, así es como habéis
+conseguido todos los muñecos!
+¿Viajáis por todo el mundo?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296951608]
+<STR>(JUD)
+Sí. Hemos estado por todas
+partes. He aquí la razón
+por la que estamos aquí.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+
+¡Entonces podéis coger los
+tesoros de los cofres de todo
+el mundo y enseñármelos!<PAGE>¡Cuantos más cofres abráis,
+mejores ideas se me ocurrirán
+para los tesoros que pondré aquí!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1296951608]
+<STR>(RIT)
+No nos estarás pidiendo que te
+demos lo que encontremos, ¿verdad?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+
+Nada más lejos. Solo me lo
+tendréis que enseñar, para
+que yo los pueda hacer.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:kaene;time:1295115196]
+<STR>(EST_P)
+Entonces, ¿se te da
+bien crear cosas?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1296951608]
+
+Me defiendo. ¡Id por todo
+el mundo y abrid todos los
+cofres que veáis! ∀

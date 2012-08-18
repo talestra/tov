@@ -1,0 +1,167 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS64_199)It's almost time.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS64_200)Yeah. I start to think about 
+it, and I can't sleep.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS64_201)You get that 
+way, too?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS64_202)You say it like I'm made 
+of iron or something.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS64_203)...Would you mind if I sat next to you?
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS64_204)Thank you...Heh heh, it's warm.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS64_205)Tomorrow we face that Adephagos.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS64_206)It's ironic that we're 
+actually using Alexei's 
+research to fight it.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS64_207)If they had only been able 
+to think of others...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS64_208)Yeah. But they made their 
+choices. Nothing we 
+can do about that.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS64_209)Choices... You've always made 
+your own choices, haven't you.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS64_210)I figured if someone's 
+gonna choose, it might 
+as well be me.<PAGE><VOICE>(VS64_211)And I won't find out if I made the 
+right choices until the end.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS64_212)But...that's wonderful. 
+Making a choice 
+is so hard.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS64_213)You made your own choice too.
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS64_214)I think I figured it out while 
+traveling with you all.<PAGE><VOICE>(VS64_215)To live means 
+to choose...<PAGE><VOICE>(VS64_216)...and to have the 
+resolve to make 
+those choices.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS64_217)I think that's kind of overdoing it.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS64_218)I always just played 
+the role I was given.<PAGE><VOICE>(VS64_219)I was happy to heal people 
+and be thanked.<PAGE><VOICE>(VS64_220)But then I learned my power 
+was poisoning the world...<PAGE><VOICE>(VS64_221)Someone was always using me...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS64_222)...What about now?
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS64_223)I...I don't know.<PAGE><VOICE>(VS64_224)But...I feel like I'm here, 
+doing what I am, because 
+it is my choice, my wish.<PAGE><VOICE>(VS64_225)I'm glad I came on this 
+journey with you, <STR>(YUR).
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS64_226)Me too.<PAGE><VOICE>(VS64_227)I wasn't too sure what would 
+happen when you asked me to 
+take you out of the castle.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS64_228)I'm sure.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS64_229)I like traveling. Lots of different 
+people, different experiences.<PAGE><VOICE>(VS64_230)We travelled the whole world, 
+but I never got tired of 
+it. I think it fits me.<PAGE><VOICE>(VS64_231)I think I'll just keep on going around.
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS64_232)And keep helping 
+people in need.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS64_233)Hah hah hah.<PAGE><VOICE>(VS64_234)Maybe there's some tomboy 
+princess out there being chased 
+by an evil monster.
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS64_235)...You're mean.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS64_236)Hah hah hah.
+
+## POINTER 26
+<STR>(EST_P)
+<VOICE>(VS64_237)...It's strange. Right now...I'm 
+not scared at all.<PAGE><VOICE>(VS64_238)If anything, the thought that a 
+new world is about to dawn is...
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS64_239)The Adephagos 
+won't kill us. 
+We'll live on.
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS64_240)And I'll be able 
+to stay with everyone. 
+With you.
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS64_241)Thanks. I feel the same way.
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS64_242)Let's get it over with, 
+and live on in a 
+future we choose.
+
+## POINTER 31
+<STR>(EST_P)
+<VOICE>(VS64_243)Okay!

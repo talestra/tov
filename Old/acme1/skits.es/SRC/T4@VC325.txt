@@ -1,0 +1,65 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252779495]
+Pobres e inocentes hombrecillos
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313904]
+(EST_P)
+(JUD), siempre estamos haciéndote cocinar
+para nosotros... ¿No te molesta?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108678]
+(YUR)
+¿No quieres que te ayudemos de vez en cuando?
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313904]
+(JUD)
+No, así estoy bien. Cocinar es divertido.
+Por supuesto, podemos intercambiarnos
+si no os gusta mi cocina...
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313904]
+(KAR)
+¡No, nos encantan tus platos!
+¡No podría cansarme de ellos!
+
+## POINTER 5 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267444847]
+(RAV)
+En efesto. Me trae recuerdos
+d'hace mucho... Es la clase de
+comida que tomaría tós los días.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313904]
+(JUD)
+¡Ji, ji! ¡Me alegro mucho!
+Es el tipo de cocina que
+he intentado hacer.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313904]
+(JUD)
+Es estupendo que un día acabes pensando:
+«¡Caray! Lo que daría yo por poder
+probar uno de los platos de (JUD)».
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108678]
+(YUR)
+Ya, no me importaría comer esto otra vez.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108678]
+(RIT)
+Cuidado, chicos. Por si no lo
+habíais notado, os está domando.
+
+## POINTER 10 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313904]
+(KAR)
+¡¿Qué?!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108678]
+(JUD)
+Vaya, parece que me han descubierto.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108678]
+(RAV)
+Je, je... Conque domando, ¿eh?
+
+## POINTER 13 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313904]
+(YUR)
+No sé yo si puedo resistirme...

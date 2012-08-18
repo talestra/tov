@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848672]
+<STR>(RAV)
+Venga, <STR>(YUR), cámbiale er sitio ar viejo
+<STR>(RAV), ¿fale? Aspiraré la entrada, le daré
+un repasico a los baños... ¡Lo que quieras!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848672]
+<STR>(YUR)
+¿No te han puesto aquí para
+que no te cueles a mirar
+en el baño de las chicas?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848672]
+<STR>(RAV)
+¡¿C-Cómo lo sabes?!<PAGE><STR>(YUR), tienes que creerme,
+¡no soy un mal tipo! Es que
+se me fue un poquillo la olla...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848672]
+<STR>(YUR)
+Que sí, que sí.
+Ya lo pillo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848672]
+<STR>(RAV)
+¡No, no,
+no lo pillas!<PAGE>¡No vi ná de ná!
+¡A nadie excepto
+a <STR>(JUD)!<PAGE>... ¡Oh!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290435378]
+<STR>(YUR)
+Oh, ¿viste a <STR>(JUD)? No me extraña que te
+desmayases la última vez que estuvimos aquí.<PAGE>En fin, intenta
+no montar un pollo.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290435378]
+<STR>(RAV)
+...

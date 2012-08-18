@@ -1,0 +1,51 @@
+## POINTER 0
+Searching the Ruins
+
+## POINTER 1
+(EST_P)
+These ruins feel very different once you're inside them.
+
+## POINTER 2
+(KAR)
+Yeah, it's weird. And there's all this 
+stuff I've never seen before...
+
+## POINTER 3
+(YUR)
+What, is this your first time too, (KAR)?
+
+## POINTER 4
+(KAR)
+Well, yeah. My specialty's 
+monster hunting.
+
+## POINTER 5
+(KAR)
+Hey, what do you think this is?
+
+## POINTER 6
+(RIT)
+You really shouldn't be fooling around over 
+there. This place is loaded with traps.
+
+## POINTER 7
+(EST_P)
+Did anyone else just hear a click?
+
+## POINTER 8
+(YUR)
+(KAR)! Watch out!
+
+## POINTER 9
+(KAR)
+Waaaaah!
+
+## POINTER 10
+(YUR)
+Sorry, I thought you were about 
+to get killed. I overdid it.
+
+## POINTER 11
+(KAR)
+I think I would have been better 
+off getting caught in the trap...

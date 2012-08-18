@@ -1,0 +1,100 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291154188]
+<STR>(YUR)
+<VOICE>(VS60_057)¡<STR>(JUD_P)! ¿Qué ha pasado?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+<STR>(RIT)
+<VOICE>(VS60_058)¡Espera!
+¡Ahí está Aspio!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+<STR>(KAR)
+<VOICE>(VS60_059)¡¿Qué está pasando?!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291154188]
+<STR>(RIT)
+<VOICE>(VS60_060)Aspio... ¿Qué le ha pasado a Aspio?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291154188]
+<STR>(RAV)
+<VOICE>(VS60_061)¿Qué leches es esa cosa?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+<STR>(EST_P)
+<VOICE>(VS60_062)Tárcaron...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+<STR>(KAR)
+<VOICE>(VS60_063)¿Eh?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+<STR>(EST_P)
+<VOICE>(VS60_064)Los espíritus me dicen que
+es la torre de Tárcaron.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291154243]
+<STR>(YUR)
+<VOICE>(VS60_065)Duke...
+Debe ser cosa suya.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291154243]
+<STR>(YUR)
+<VOICE>(VS60_066)Intentará usar eso
+contra el adephagos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+
+<VOICE>(VS60_067)¡Por favor! ¡Dejadme pasar!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1291154188]
+
+<VOICE>(VS60_068)Tú, el del pelo largo y negro.
+¿Tienes un momento?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+<STR>(YUR)
+<VOICE>(VS60_069)¿Qué quieres?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296763951]
+
+<VOICE>(VS60_070)Unos Caballeros querían
+que les avisara si veía a
+alguien con tu apariencia.<PAGE><VOICE>(VS60_071)
+Dicen que quieren hablar contigo
+sobre <STR>(FRE), el nuevo Comandante
+de los Caballeros Imperiales.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+<STR>(YUR)
+<VOICE>(VS60_072)¡¿Cómo?!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+
+<VOICE>(VS60_073)¿Eres la persona que buscan?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+<STR>(YUR)
+<VOICE>(VS60_074)Sí.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1291154188]
+<STR>(YUR)
+<VOICE>(VS60_075)Oye, ¿había una chica con ojos
+como de gato y un crío con
+una cabeza como de manzana?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1291154188]
+
+<VOICE>(VS60_076)¿Eh? Oh, sí, supongo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+<STR>(YUR)
+<VOICE>(VS60_077)...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:kaene;time:1286985680]
+<STR>(YUR)
+<VOICE>(VS60_078)¿Puedo esperar en la posada?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1291154188]
+
+<VOICE>(VS60_079)Sí, claro.
+Voy a avisarles.

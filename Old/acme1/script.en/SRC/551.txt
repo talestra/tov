@@ -1,0 +1,87 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS65_001)Damn, this is huge.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS65_002)It really feels like it reaches the sky.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS65_003)And this thing was just sleeping 
+in the ground near Aspio. 
+I can't believe it...
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS65_004)Is that field around it the formula 
+that is absorbing life force?
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS65_005)...It looks that way.<PAGE><VOICE>(VS65_006)This isn't good. It looks like it 
+came together pretty quickly.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS65_007)So there's not much time left.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS65_008)Hey, aren't we 
+in trouble too?
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS65_009)If it's absorbing life from 
+everyone, that should affect 
+us as well, but...
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS65_010)<STR>(EST_P)?
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS65_011)The spirits... They've swathed 
+us in their power.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS65_012)So we should be fine as long 
+as the spirits' power is greater 
+than that formula.
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS65_013)Can't we just get 
+on Ba'ul and fly 
+up to the top?
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS65_014)I doubt it would affect Ba'ul, but 
+we probably couldn't take it.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS65_015)You just don't want to climb up.
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VS65_016)Of course not! Who 
+do you think I am?!
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS65_017)Sorry old man, but it looks 
+like we're walking.
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS65_018)Yay...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS65_019)We don't know what's in 
+store for us. Stay sharp.

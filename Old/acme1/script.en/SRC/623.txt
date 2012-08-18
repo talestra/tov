@@ -1,0 +1,56 @@
+## POINTER 0
+<STR>(KAR)
+Is it okay for you to be up?
+
+## POINTER 1
+Nobis
+Yes, more or less. I'm feeling 
+much better now.
+
+## POINTER 2
+<STR>(YUR)
+Glad to hear it.<PAGE>Here's what you asked for...
+
+## POINTER 3
+Nobis
+I-is this the secret manual?
+
+## POINTER 4
+<STR>(KAR)
+We think so. We got it from 
+an old man named Irmine.
+
+## POINTER 5
+Nobis
+Yes...there's no mistake.
+This is the real thing.
+
+## POINTER 6
+<STR>(KAR)
+All right!
+
+## POINTER 7
+<STR>(YUR)
+So the old man had a few screws loose, 
+but the book's the genuine article.
+
+## POINTER 8
+Nobis
+With this we will be able to clean the Everlight of impurities.<PAGE>Mark my words. We will craft items to 
+surpass even the armaments of legend!
+
+## POINTER 9
+<STR>(KAR)
+And that'll mean the Soul Smiths 
+can get back on their feet again!
+
+## POINTER 10
+Nobis
+Yes, our day in the sun has come at last. 
+And it is all because of you. Thank you.<PAGE>...Oh yes, your payment.
+
+## POINTER 11
+<STR>(KAR)
+If you ever need help in 
+the future, don't hesitate 
+to call on Brave Vesperia.

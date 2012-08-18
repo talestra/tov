@@ -1,0 +1,73 @@
+## POINTER 0
+Adecor
+Wait, I saaay!
+
+## POINTER 1
+Boccos
+Wait, you!
+
+## POINTER 2
+<STR>(YUR)
+Hey, it's Tweedle-A and Tweedle-B!
+
+## POINTER 3
+Boccos
+Don't call us that!
+
+## POINTER 4
+<STR>(YUR)
+Something I can help you two with?
+
+## POINTER 5
+Adecor
+Even if you have a direct pardon from His Highness 
+Ioder, I say, that does not change the fact that 
+you committed crimes against the empire!
+
+## POINTER 6
+Boccos
+As members of the Imperial 
+Knights, our honor will not 
+allow us to simply let that slide!
+
+## POINTER 7
+Adecor
+<STR>(YUR) Lowell! You will 
+battle with us here, I 
+say, fair and square!
+
+## POINTER 8
+Boccos
+If you beat us, we'll recognize 
+you as innocent of your crimes!
+
+## POINTER 9
+<STR>(YUR)
+Don't make claims you can't back up.<PAGE>Since when did you two have 
+the authority to forgive 
+people their crimes?
+
+## POINTER 10
+Adecor
+Regardless, we must battle!
+
+## POINTER 11
+Boccos
+Battle!
+
+## POINTER 12
+<STR>(YUR)
+...If that's what it takes 
+to make you happy, I guess 
+I can humor you.
+
+## POINTER 13
+Boccos
+Excellent! Come 
+with us!
+
+## POINTER 14
+<STR>(YUR)
+Man... Nothing like some 
+good exercise before 
+turning in for the night.<PAGE>I guess I'll hurry back to the inn...

@@ -1,0 +1,162 @@
+## POINTER 0
+<STR>(YUR)
+It's huge 
+up close.
+
+## POINTER 1
+<STR>(EST_P)
+The tree's flowers should 
+blossom any day now.
+
+## POINTER 2
+<STR>(YUR)
+Yeah, I wish 
+I could see it 
+in bloom.
+
+## POINTER 3
+<STR>(EST_P)
+I know how you feel. There's something about the 
+image of a tall tree vibrant with blossoms and 
+protecting the city that's so...romantic.
+
+## POINTER 4
+<STR>(EST_P)
+You know, I'm going to stay here 
+and help heal the injured.
+
+## POINTER 5
+<STR>(YUR)
+Hmm, if you're going to heal something, 
+maybe you could heal the barrier itself?
+
+## POINTER 6
+<STR>(EST_P)
+What do you mean?
+
+## POINTER 7
+<STR>(YUR)
+When monsters come again, more 
+people are gonna get hurt.<PAGE>Those kids we just saw 
+could be among them.
+
+## POINTER 8
+<STR>(EST_P)
+That's true, but I have no idea 
+how I could heal the barrier.
+
+## POINTER 9
+<STR>(YUR)
+What you need to heal is this tree. 
+It wouldn't be in this condition just 
+because some monsters attacked it.
+
+## POINTER 10
+<STR>(EST_P)
+You think there's 
+some other reason?
+
+## POINTER 11
+<STR>(YUR)
+I think there's gotta be.
+
+## POINTER 12
+
+What are the two of 
+you doing over here?
+
+## POINTER 13
+<STR>(EST_P)
+We're trying to figure out why the 
+tree has withered like this.
+
+## POINTER 14
+
+I don't know if you'll make much progress 
+on that one. The knight <STR>(FRE) couldn't 
+figure out the reason either.
+
+## POINTER 15
+<STR>(EST_P)
+Oh, <STR>(KAR)! <STR>(KAR), 
+we need your help!
+
+## POINTER 16
+<STR>(KAR)
+...What are you talking about?
+
+## POINTER 17
+
+It seems these two are trying to figure 
+out the reason the tree's withered so.
+
+## POINTER 18
+<STR>(KAR)
+Oh, is that all?
+
+## POINTER 19
+<STR>(EST_P)
+What do you mean, "is that all?"
+
+## POINTER 20
+<STR>(KAR)
+I know the reason. It's why 
+I was in the forest looking 
+for the eggbear...
+
+## POINTER 21
+<STR>(YUR)
+Huh? What are you talking about?
+
+## POINTER 22
+<STR>(KAR)
+Look closely at the ground. 
+Notice the strange color?
+
+## POINTER 23
+<STR>(KAR)
+That color is where the ground absorbed the 
+blood of monsters who attacked the town.<PAGE>That blood has been poisoning 
+Halure's tree.
+
+## POINTER 24
+
+What! The monster blood? 
+I had no idea...
+
+## POINTER 25
+<STR>(EST_P)
+<STR>(KAR), you really know your stuff, don't you?
+
+## POINTER 26
+<STR>(KAR)
+...It was 
+nothing.
+
+## POINTER 27
+<STR>(YUR)
+Is there anything we can do 
+to get rid of the poison?
+
+## POINTER 28
+<STR>(KAR)
+I know a way, but...well, 
+no one believes me.
+
+## POINTER 29
+<STR>(YUR)
+Come on, try us.
+
+## POINTER 30
+<STR>(KAR)
+I think we'd be able to do it 
+if we had a panacea bottle.
+
+## POINTER 31
+<STR>(YUR)
+Maybe we can get one 
+in the General Store.
+
+## POINTER 32
+<STR>(EST_P)
+Let's go, <STR>(YUR)!

@@ -1,0 +1,56 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280781]
+<STR>(KAR)
+<VOICE>(VS45_001)¡Ahí está
+la capital!
+¿Eh?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280781]
+<STR>(RAV)
+<VOICE>(VS45_002)¡Ondia! No hay barrera.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1283608582]
+<STR>(YUR)
+<VOICE>(VS45_003)Me pregunto si esto también
+es cosa de Alexei.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1283608582]
+<STR>(JUD)
+<VOICE>(VS45_004)¿Preparados para entrar?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1283608582]
+<STR>(YUR)
+<VOICE>(VS45_005)Llévanos ahí.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285280781]
+<STR>(RIT)
+<VOICE>(VS45_006)¿Dónde estás, <STR>(EST_P)?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1283608582]
+<STR>(KAR)
+<VOICE>(VS45_007)¿Por dónde empezamos a buscar
+en esta ciudad tan grande?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981434]
+<STR>(JUD)
+<VOICE>(VS45_008)Sigamos el flujo del aer.<PAGE><VOICE>(VS45_009)Si Alexei está usando a <STR>(EST_P) 
+y las apátheia en sus planes,<PAGE><VOICE>(VS45_010)debe estar causando una distorsión en el aer.<PAGE><VOICE>(VS45_011)¡Ba'ul!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1283608582]
+<STR>(JUD)
+<VOICE>(VS45_012)La ha encontrado.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1283608582]
+<STR>(KAR)
+<VOICE>(VS45_013)¡Allí!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1283608582]
+<STR>(RIT)
+<VOICE>(VS45_014)¡<STR>(EST_P)!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1283608582]
+<STR>(RAV)
+<VOICE>(VS45_015)Y Alexei está a su lado.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1283608668]
+<STR>(YUR)
+<VOICE>(VS45_016)¡<STR>(JUD_P), acércanos!

@@ -1,0 +1,87 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(YUR)
+<VOICE>(VS43_001)¡Los hemos pillado!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(KAR)
+<VOICE>(VS43_002)¡Mirad!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(FRE)
+<VOICE>(VS43_003)¡Los Caballeros Imperiales
+han de mostrar coraje,
+sea cual sea la amenaza!<PAGE><VOICE>(VS43_004)¡Soldados! ¡Seguidme todos!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(JUD)
+<VOICE>(VS43_005)Eso es un suicidio.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(RIT)
+<VOICE>(VS43_006)Están muertos si se acercan
+demasiado al Heracles.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285191078]
+<STR>(YUR)
+<VOICE>(VS43_007)Se trata de <STR>(FRE). No creo que
+esté tan majareta como para cargar
+contra ese armatoste de frente...<PAGE><VOICE>(VS43_008)Aun así, su pequeña flota no tiene
+nada que hacer contra esa fortaleza.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285191078]
+<STR>(JUD)
+<VOICE>(VS43_009)Bueno, si no podemos entrar
+desde abajo, nos meteremos
+desde arriba.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(KAR)
+<VOICE>(VS43_010)¡¿Qué?! Espera, vamos
+a esperar un poco más...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(JUD)
+<VOICE>(VS43_011)¡Ba'ul, llévanos ahí!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1285191078]
+<STR>(JUD)
+<VOICE>(VS43_012)Agarraos o saldréis despedidos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285191078]
+<STR>(KAR)
+<VOICE>(VS43_013)¡N-Nos están disparando!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(JUD)
+<VOICE>(VS43_014)¡Ba'ul!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285191078]
+<STR>(RIT)
+<VOICE>(VS43_015)¡Ahí! ¡En la parte babor de la popa!
+Es la única zona que no está disparando.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285191078]
+<STR>(YUR)
+<VOICE>(VS43_016)¡Vale, ese es el sitio!
+¿Crees que nos puede dejar allí?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(JUD)
+<VOICE>(VS43_017)La duda le ofende.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285191078]
+<STR>(YUR)
+<VOICE>(VS43_018)Je, perdón. De acuerdo,
+confiamos en él.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(JUD)
+<VOICE>(VS43_019)Llévanos allí, Ba'ul.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(YUR)
+<VOICE>(VS43_020)¡Vamos!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1283518685]
+<STR>(KAR)
+<VOICE>(VS43_021)¡Uaaaaaaaagh!

@@ -1,0 +1,70 @@
+## POINTER 0
+<STR>(YUR)
+The city streets may look nice, but people's 
+lives are the same everywhere.
+
+## POINTER 1
+<STR>(EST_P)
+<STR>(YUR)?
+
+## POINTER 2
+<STR>(YUR)
+What're you doing awake this late at night?
+
+## POINTER 3
+<STR>(EST_P)
+I couldn't sleep. I kept hearing 
+noise from outside...
+
+## POINTER 4
+<STR>(EST_P)
+Even at this late hour, everyone's 
+still hard at work.
+
+## POINTER 5
+<STR>(YUR)
+Well, I don't think they're doing 
+it because they enjoy it.<PAGE>But if they don't keep working, they 
+won't be able to make a living.<PAGE>And even with all this work, they're 
+hardly able to get by.
+
+## POINTER 6
+<STR>(EST_P)
+...That's terrible...
+
+## POINTER 7
+<STR>(EST_P)
+Are you all right?
+
+## POINTER 8
+
+You're a noble, aren't 
+you? Stay away from me!
+
+## POINTER 9
+<STR>(EST_P)
+Oh!
+
+## POINTER 10
+<STR>(YUR)
+They've just learned to distrust 
+nobles and the empire.<PAGE>It's nothing personal 
+against you, <STR>(EST_P).<PAGE>Try not to let it bother you too much.
+
+## POINTER 11
+<STR>(EST_P)
+I wonder if it's something that can be changed...
+
+## POINTER 12
+<STR>(YUR)
+I dunno... It's not easy. For 
+his part, <STR>(FRE)'s trying his 
+hardest to change things.
+
+## POINTER 13
+<STR>(EST_P)
+......
+
+## POINTER 14
+<STR>(YUR)
+Let's go back and get some rest.

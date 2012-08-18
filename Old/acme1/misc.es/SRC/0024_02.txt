@@ -1,0 +1,110 @@
+## POINTER 189 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264343464]
+¡Enhorabuena!<PAGE>
+¡Me he quedado sin palabras! 
+¡Nuestro participante ha conseguido
+emerger victorioso y superar las
+aplastantes dificultades en su contra!<PAGE>
+¡Tenemos un fabuloso premio
+para nuestro participante, <0B>(0)!<PAGE>
+¡Lo has conseguido! ¡Solo te queda un nivel más!<PAGE>
+¡Nuestra única esperanza de éxito
+en la misteriosa refriega de cien rivales!<PAGE>
+Contendiente, ¡¡muéstranos lo que sabes hacer!!
+¡La batalla final te espera!
+
+## POINTER 190 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264340761]
+¡Enhorabuena!<PAGE>
+¡Señoras y caballeros! ¡Aquí y ahora,
+en esta misma arena, habéis presenciado
+el nacimiento de una leyenda!<PAGE>
+¡Tenemos un fantástico premio
+para nuestro participante, <0B>(0)!<PAGE>
+¡Por fin has llegado a la cima de las refriegas!
+¡Nadie puede medirse contigo y quedar en pie!
+¡¡Enorgullécete, <0B>(0), te lo has ganado!!
+
+## POINTER 191 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264340761]
+¡Enhorabuena!<PAGE>
+Yo, no... no puedo
+creerlo...<PAGE>
+¡Señoras y caballeros, acabamos
+de presenciar algo histórico!<PAGE>
+Un nivel de refriega que pocos pensaban posible...
+¡Y una victoria que menos aún pensaban factible!<PAGE>
+Y sin embargo, ¡qué pruebas
+habrá debido pasar para llegar a
+semejante nivel de habilidad!<PAGE>
+¡Te has ganado el derecho de que tu nombre
+se escriba en los libros de Historia!<PAGE>
+Y ese nombre es... ¡¡<0B>(0)!!<PAGE>
+¡!Señoras y caballeros, demos un gran aplauso
+a nuestro campeón, <0B>(0)!!
+
+## POINTER 192 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264340761]
+El pedido debe estar casi listo.
+
+## POINTER 193 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264340761]
+Primero tómale el pedido a un cliente.
+
+## POINTER 194 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264261611]
+Controla a Ba’ul para recoger los puntos del aire.
+Recoge los 10 puntos dentro del tiempo asignado para ganar.
+Hay dos tipos de puntos: los rojos y los amarillos.
+Los puntos rojos proporcionan tiempo extra.
+Recoge consecutivamente puntos rojos para bajar tu tiempo
+total. Intenta ganar el juego en el menor tiempo posible.
+
+## POINTER 195 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263861368]
+¿Quién participará?
+
+## POINTER 196 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125549]
+<STR>(YUR)
+
+## POINTER 197 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125549]
+<STR>(EST_P)
+
+## POINTER 198 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125549]
+<STR>(KAR)
+
+## POINTER 199 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125549]
+<STR>(RIT)
+
+## POINTER 200 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125549]
+<STR>(RAV)
+
+## POINTER 201 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125549]
+<STR>(JUD)
+
+## POINTER 202 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125549]
+<STR>(RAP)
+
+## POINTER 203 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263861368]
+<06>(RBL) Tomar pedido
+
+## POINTER 204 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264259265]
+<06>(RBU) Reiniciar
+
+## POINTER 205 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263861368]
+<06>(RBD) Cambiar número
+
+## POINTER 206 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263861368]
+<06>(RBR) Cancelar
+
+## POINTER 207 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263861368]
+Gracias por la ayuda. Ven a ayudarme
+cuando tengas algo de tiempo.
+
+## POINTER 208 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263861368]
+NIVEL
+
+## POINTER 209 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263861368]
+SE ACABÓ EL TIEMPO
+
+## POINTER 210 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263861368]
+COMPLETAR
+
+## POINTER 211 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263861368]
+TIEMPO
+
+## POINTER 212 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263861368]
+MEJOR TIEMPO

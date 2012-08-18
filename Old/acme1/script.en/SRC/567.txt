@@ -1,0 +1,160 @@
+## POINTER 0
+<STR>(JUD)
+Would you be Rhianna?
+
+## POINTER 1
+
+Yes, I'm Rhianna Kale. 
+Who are all of you?
+
+## POINTER 2
+<STR>(YUR)
+We've been sent by the Union.
+
+## POINTER 3
+Rhianna
+So you're the guild members 
+who'll look for my mother's 
+necklace for me?
+
+## POINTER 4
+<STR>(RAV)
+Ah, you poor, beautiful lady. 
+You're searching desperately 
+for a memento of your mother?
+
+## POINTER 5
+Rhianna
+That's right. It's the necklace 
+that my father gave my mother 
+when they got married.
+
+## POINTER 6
+<STR>(RAV)
+Oh! The necklace she received 
+on her wedding day...! What 
+a wonderful story, my sweet.
+
+## POINTER 7
+<STR>(RIT)
+It's getting kinda creepy, old man...
+
+## POINTER 8
+Rhianna
+This necklace is made of a rather 
+valuable metal called Everlight.<PAGE>My father mined the ore 
+himself and hand-crafted 
+it into a necklace.<PAGE>It was truly the only one of its kind...
+
+## POINTER 9
+<STR>(RAV)
+So, what sort of identifying features does your necklace have?
+
+## POINTER 10
+Rhianna
+Everlight is a bright 
+red metal.<PAGE>My father made that metal into 
+hexagonal links to form a necklace 
+and gave it to my mother.
+
+## POINTER 11
+<STR>(RAV)
+A necklace of bright red hexagons... 
+Quite distinctive.
+
+## POINTER 12
+<STR>(YUR)
+Yeah, that should make it easier to find.<PAGE>So, do you have any idea where 
+you might have lost it?
+
+## POINTER 13
+Rhianna
+Well, actually...
+I dropped it into the river from 
+the bridge at the entrance to town...
+
+## POINTER 14
+<STR>(RAV)
+What...?!
+
+## POINTER 15
+<STR>(YUR)
+How are we supposed to find that...?
+
+## POINTER 16
+Rhianna
+Please! It's extremely 
+important to me!
+
+## POINTER 17
+<STR>(JUD)
+We can see that, with all 
+you've told us, but...<PAGE>What you're asking is impossible.
+
+## POINTER 18
+<STR>(YUR)
+But we did tell the Union we'd 
+accept the task, after all.
+
+## POINTER 19
+<STR>(JUD)
+Any other guild would turn a request 
+like this down, once they realized 
+they couldn't do it.
+
+## POINTER 20
+Rhianna
+No...
+
+## POINTER 21
+<STR>(RAV)
+No! No, no, NO! Once a guild 
+has taken a job, it cannot 
+refuse to do it!
+
+## POINTER 22
+<STR>(YUR)
+What got into you?!
+
+## POINTER 23
+<STR>(RAV)
+Can't you see that this young 
+lady is deeply troubled?<PAGE>What kind of guild would refuse to help 
+such a poor, sweet, beautiful girl?<PAGE>We accept this task in the name 
+of the brightest star in the 
+night sky--Brave Vesperia!
+
+## POINTER 24
+Rhianna
+Thank you!
+
+## POINTER 25
+<STR>(JUD)
+And who put you in charge?
+
+## POINTER 26
+<STR>(YUR)
+...Oh well. I guess we'll 
+go ahead and take care 
+of it, right, <STR>(KAR)...?
+
+## POINTER 27
+<STR>(RIT)
+He's gone.
+
+## POINTER 28
+<STR>(JUD)
+Huh? He was waiting at the entrance 
+just a minute ago...
+
+## POINTER 29
+<STR>(YUR)
+That would explain why it's so quiet.
+
+## POINTER 30
+<STR>(RAP)
+*Two barks*
+
+## POINTER 31
+<STR>(YUR)
+Let's go and find him.

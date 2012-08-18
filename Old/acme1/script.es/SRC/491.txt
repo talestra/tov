@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194623]
+<STR>(YUR)
+<VOICE>(VS51_016)Anda, de cerca es
+aún más grande.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297113636]
+<STR>(RIT)
+<VOICE>(VS51_017)¡¿En serio esto es solo un blastia?!
+No puede ser...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285955138]
+<STR>(JUD)
+<VOICE>(VS51_018)Debe poseer
+un poder inimaginable.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285955138]
+<STR>(KAR)
+<VOICE>(VS51_019)¡Hala, mirad! Eso es un acorazado
+de los Caballeros, ¿no?
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285955138]
+<STR>(EST_P)
+<VOICE>(VS51_020)¿Será <STR>(FRE)?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285955138]
+<STR>(RAV)
+<VOICE>(VS51_021)Nah, seguro que es la
+Guardia Real. Lo que significa...
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289238182]
+<STR>(RAV)
+<VOICE>(VS51_022)Que este lugar está hasta er cuello
+de ellos. Tienen la entrada
+principal bien protegía.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285955138]
+<STR>(RIT)
+<VOICE>(VS51_023)No hay tantos. Podríamos
+volarlos por los aires antes
+de que supiesen qué les ha dado.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285955138]
+<STR>(YUR)
+<VOICE>(VS51_024)Tranquila. No estamos aquí
+para ser descubiertos.<PAGE><VOICE>(VS51_025)Miremos si hay
+otra entrada.

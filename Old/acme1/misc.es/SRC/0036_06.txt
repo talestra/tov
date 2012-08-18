@@ -1,0 +1,301 @@
+## POINTER 676
+Continent 3
+
+## POINTER 677
+Continent 4
+
+## POINTER 678
+Continent 5
+
+## POINTER 679
+Continent 6
+
+## POINTER 681
+Battle Mission
+
+## POINTER 682
+Zagi (1st Battle)
+
+## POINTER 683
+Goliearth
+
+## POINTER 684
+Gattuzo
+
+## POINTER 685
+Zagi (2nd Battle)
+
+## POINTER 686
+Gusios (1st Battle)
+
+## POINTER 687
+Giga Larva
+
+## POINTER 688
+Barbos
+
+## POINTER 689
+Zagi (3rd Battle)
+
+## POINTER 690
+Pterops
+
+## POINTER 691
+Out Breaker
+
+## POINTER 692
+Belius
+
+## POINTER 693
+Tison & Nan
+
+## POINTER 694
+Schwann
+
+## POINTER 695
+Zagi (4th Battle)
+
+## POINTER 696
+Bite Jaw
+
+## POINTER 697
+<STR>(EST)
+
+## POINTER 698
+Yeager
+
+## POINTER 699
+Alexei
+
+## POINTER 700
+Gusios (2nd Battle)
+
+## POINTER 701
+Khroma
+
+## POINTER 702
+<STR>(FRE)
+
+## POINTER 703
+Zagi (5th Battle)）
+
+## POINTER 704
+Duke
+
+## POINTER 705
+Info.
+
+## POINTER 706
+This is simple battle mission jump.<PAGE>
+Set auto load to 0 in your debug setting or
+Set Debug setting -> Battle dubug menu OFF to activate<PAGE>
+This changes will initialize all the flags so please be
+ noted that this could affect you game progress if used during game play.
+
+## POINTER 707
+Healed
+
+## POINTER 708
+Change who's status?
+
+## POINTER 709
+Change which control?
+
+## POINTER 710
+Confirm
+Cancel
+
+## POINTER 711
+Change which status?
+
+## POINTER 712
+All
+
+## POINTER 713
+Poison
+
+## POINTER 714
+Contamination
+
+## POINTER 715
+Paralysis
+
+## POINTER 716
+Petrify
+
+## POINTER 717
+Weak
+
+## POINTER 718
+Seal
+
+## POINTER 719
+Skill Seal
+
+## POINTER 720
+K.O.
+
+## POINTER 721
+Worst Status before BTL
+
+## POINTER 722
+Active member: KO + Petrify
+
+## POINTER 723
+Active member: KO
+
+## POINTER 724
+Active member: Petrify
+
+## POINTER 725
+Party: KO + Petrify
+
+## POINTER 726
+Party: KO
+
+## POINTER 727
+Party: Petrify
+
+## POINTER 728
+Recover at Inn
+
+## POINTER 729
+Battle Jump
+
+## POINTER 730
+Battle Jump
+
+## POINTER 731
+Engage Battle
+
+## POINTER 732
+BTL_TEST_01
+
+## POINTER 733
+BTL_TEST_02
+
+## POINTER 734
+BTL_TEST_03
+
+## POINTER 735
+カルロウX
+
+## POINTER 736
+Battle Mission
+
+## POINTER 737
+Ailment control
+
+## POINTER 738
+Worst condition before BTL
+
+## POINTER 739
+OFF→ON
+
+## POINTER 740
+ON→OFF
+
+## POINTER 753
+This is a museum mode
+
+## POINTER 754
+Karen's museum
+
+## POINTER 755
+Notice
+
+## POINTER 758
+Party Edit
+
+## POINTER 759
+Title
+
+## POINTER 760
+Artes
+
+## POINTER 761
+Skill
+
+## POINTER 762
+Level (Indivisual)
+
+## POINTER 763
+Level (Entire Party)
+
+## POINTER 764
+Cooking (Master all)
+
+## POINTER 765
+Item obtain
+
+## POINTER 766
+Max Gald
+
+## POINTER 767
+No Gald
+
+## POINTER 768
+HP/TP Control
+
+## POINTER 769
+Synopsis
+
+## POINTER 770
+Battle Book
+
+## POINTER 771
+Craft Level
+
+## POINTER 772
+Reset 1 Bit Flag
+
+## POINTER 773
+Set Sub-event 1 bit flag
+
+## POINTER 774
+Aurnion Level 3
+
+## POINTER 775
+Library Menu
+
+## POINTER 776
+Max Grade
+
+## POINTER 777
+Serious Flag Setting
+
+## POINTER 778
+Craft Info. Shop Simulate
+
+## POINTER 779
+No. of time gel used
+
+## POINTER 781
+Received all Title
+
+## POINTER 783
+<STR>(YUR): Master all artes
+
+## POINTER 784
+<STR>(EST): Master all artes
+
+## POINTER 785
+<STR>(KAR): Master all artes
+
+## POINTER 786
+<STR>(RIT): Master all artes
+
+## POINTER 787
+<STR>(RAV): Master all artes
+
+## POINTER 788
+<STR>(JUD): Master all artes
+
+## POINTER 789
+<STR>(RAP): Master all artes
+
+## POINTER 790
+<STR>(FRE): Master all artes (None, N/A)
+
+## POINTER 791
+<STR>(PAT): Master all artes (None, N/A)

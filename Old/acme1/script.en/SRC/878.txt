@@ -1,0 +1,90 @@
+## POINTER 0
+<STR>(YUR)
+What was that?
+
+## POINTER 1
+Karen
+Oh my, it looks like some of our 
+things fell from the carriage.
+
+## POINTER 2
+<STR>(YUR)
+<STR>(RAP)? What's that 
+in your mouth?
+
+## POINTER 3
+Karen
+Oh, that's the...
+
+## POINTER 4
+<STR>(YUR)
+...A medal?
+
+## POINTER 5
+Karen
+That belongs to <STR>(RAP)... That 
+is, the pup of the dog that 
+our father's friend owned.<PAGE>That medal is the mark of a knight's 
+dog. <STR>(RAP)'s mother received 
+it from the Imperial Knights.<PAGE>After she died, it was 
+supposed to have been 
+passed on to <STR>(RAP).
+
+## POINTER 6
+<STR>(YUR)
+...But no one knew 
+where to find him.
+
+## POINTER 7
+Karen
+Right. It ended up being 
+entrusted to us, at least 
+until <STR>(RAP) came back.<PAGE>It seems it was mixed 
+up with our bags...
+
+## POINTER 8
+Rich
+......
+
+## POINTER 9
+<STR>(YUR)
+Good job, <STR>(RAP).
+
+## POINTER 10
+Karen
+...Amazing...
+
+## POINTER 11
+Rich
+...Take it...
+
+## POINTER 12
+<STR>(YUR)
+Wait...isn't this 
+important to you?
+
+## POINTER 13
+Rich
+...He should be the 
+one to have it...
+
+## POINTER 14
+<STR>(RAP)
+Woof!
+
+## POINTER 15
+Karen
+Yes...
+There's no point 
+to us holding onto 
+it anymore...<PAGE>It seems your <STR>(RAP) has taken 
+a liking to it, too.
+
+## POINTER 16
+<STR>(YUR)
+I guess it's yours then, <STR>(RAP)...
+It makes you look pretty distinguished.
+
+## POINTER 17
+<STR>(RAP)
+Woof!

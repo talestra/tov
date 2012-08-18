@@ -1,0 +1,94 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+<STR>(YUR)
+<VOICE>(VA050_102)Tú...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1292970139]
+Duke
+<VOICE>(VA050_103)Al parecer fuiste
+incapaz de detenerla.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1293984105]
+<STR>(YUR)
+<VOICE>(VA050_104)¿Qué me estás contando?
+Acabamos de empezar.<PAGE><VOICE>(VA050_105)Tú quédate quietecito y observa, como un buen chico.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1293984105]
+<STR>(KAR)
+<VOICE>(VA050_106)¡<STR>(YUR), no seas
+maleducado! ¡Nos prestó
+la espada!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1293984105]
+<STR>(YUR)
+<VOICE>(VA050_107)Ya, tienes razón.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293984105]
+Duke
+<VOICE>(VA050_108)¿Por qué?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+<STR>(YUR)
+<VOICE>(VA050_109)¿...? ¿Por qué qué?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+Duke
+<VOICE>(VA050_110)¿Por qué sonríes en
+una situación así?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293984900]
+<STR>(YUR)
+<VOICE>(VA050_111)Es que soy muy de viva la vida.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+Duke
+<VOICE>(VA050_112)Qué estupidez.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+<STR>(YUR)
+<VOICE>(VA050_113)Je, supongo que
+no puedo evitarlo.
+Nací así.<PAGE><VOICE>(VA050_114)Vámonos.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+<STR>(KAR)
+<VOICE>(VA050_115)Le entendemos.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+Duke
+<VOICE>(VA050_116)...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+<STR>(KAR)
+<VOICE>(VA050_117)Puede que por fuera no se enfade,
+ni se ponga nervioso, ni llore,
+pero... le entendemos.<PAGE><VOICE>(VA050_118)Y ahora mismo está
+tan frustrado que
+se esfuerza para no gritar.<PAGE><VOICE>(VA050_119)Pero <STR>(YUR) lo esconde todo para
+que parezca que todo va bien.<PAGE><VOICE>(VA050_120)Y para mí, cuando veo que no hay ni una pizca de esperanza,
+su actitud hace que pueda seguir adelante y luchar.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+Duke
+<VOICE>(VA050_121)...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+<STR>(YUR)
+<VOICE>(VA050_122)<STR>(KAR), ¡¿vienes o qué?!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+<STR>(KAR)
+<VOICE>(VA050_123)¡Ya voy!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1292970071]
+Duke
+<VOICE>(VA050_124)¿Por qué me cuentas esto?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294185516]
+<STR>(KAR)
+<VOICE>(VA050_125)Buena pregunta.
+Algún día se lo contaré.<PAGE><VOICE>(VA050_126)Algún día...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1293984105]
+Duke
+<VOICE>(VA050_127)Verdadera amistad.<PAGE><VOICE>(VA050_128)Sin embargo, llegará el día en el que
+la esperanza se vuelva desesperación.

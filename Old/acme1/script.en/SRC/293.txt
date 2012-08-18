@@ -1,0 +1,110 @@
+## POINTER 0
+Kaufman
+Oh my...what happened?<PAGE>I can't believe the mast would suddenly collapse like that...
+
+## POINTER 1
+Tokunaga
+Are you all okay?
+
+## POINTER 2
+<STR>(KAR)
+We're fine, but...<PAGE>I hope <STR>(YUR) and the others are okay...
+
+## POINTER 3
+<STR>(RAV)
+I'm A-OK!<PAGE>But I dunno about the gang that 
+went off on their own...
+
+## POINTER 4
+<STR>(JUD)
+Yeah, it seems like I'm unharmed.<PAGE>I wonder how the kids that went 
+off to investigate are doing?
+
+## POINTER 5
+<STR>(EST_P)
+Yes. But are <STR>(YUR) and 
+the others okay?!
+
+## POINTER 6
+Kaufman
+I'd be surprised if they came out of an impact 
+like that without a few scratches.
+
+## POINTER 7
+<STR>(EST_P)
+I-I'm worried about everyone. Umm, would it 
+be all right if we went and checked on them?
+
+## POINTER 8
+<STR>(JUD)
+I think we've gotta go and make 
+sure they're okay. Is that okay?
+
+## POINTER 9
+<STR>(RAV)
+...Those troublesome kids. 
+You mind if I go and make 
+sure they're still alive?
+
+## POINTER 10
+Kaufman
+Now, hold on just a second. Who'll 
+protect the ship while you're gone?
+
+## POINTER 11
+<STR>(KAR)
+I'm sorry, but protecting 
+<STR>(EST_P) is the guild's 
+most important task!
+
+## POINTER 12
+<STR>(KAR)
+I'm sorry, but by ourselves 
+we wouldn't be much help in 
+protecting the ship, anyway.
+
+## POINTER 13
+<STR>(JUD)
+I have to look after <STR>(EST_P). 
+Don't worry. The mermen were 
+wiped out, after all.
+
+## POINTER 14
+<STR>(JUD)
+Don't worry, I don't think mermen would 
+show up in a place like this. At least, 
+my intuition says they wouldn't...
+
+## POINTER 15
+<STR>(RAV)
+Hey, I ain't in the guild, anyway! 
+I don't have to look after your 
+ship if I don't wanna!
+
+## POINTER 16
+<STR>(EST_P)
+I'm sorry! But I can't stand 
+not knowing what happened 
+to my friends...
+
+## POINTER 17
+Kaufman
+Yes... I suppose we don't have a choice...
+
+## POINTER 18
+Tokunaga
+Everyone, be careful.
+
+## POINTER 19
+Tokunaga
+It sure is creepy with 
+just us here...
+
+## POINTER 20
+Kaufman
+Eek, don't say things like that! 
+Talk about something more fun!
+
+## POINTER 21
+Tokunaga
+...

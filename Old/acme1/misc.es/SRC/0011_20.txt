@@ -1,0 +1,318 @@
+## POINTER 2752 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194309]
+Anillo misterioso que puede disparar aer.
+Puede distribuir aer por todo el objetivo.
+
+## POINTER 2754 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Anillo del Hechicero - Nv. 2
+
+## POINTER 2755 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194309]
+Anillo misterioso que puede disparar aer.
+Es capaz de golpear físicamente.
+
+## POINTER 2757 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Anillo del Hechicero - Nv. 3
+
+## POINTER 2758 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Anillo misterioso que puede disparar aer.
+Es más poderoso y puede destruir rocas.
+
+## POINTER 2760 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Anillo del Hechicero - Nv. 4
+
+## POINTER 2761 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Anillo misterioso que puede disparar aer.
+Está mejorado y ahora puede disparar llamas.
+
+## POINTER 2763 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Anillo del Hechicero - Nv. 5
+
+## POINTER 2764 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261829082]
+Anillo misterioso que puede disparar aer
+con mayor potencia y alcance.
+
+## POINTER 2766 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Selector
+
+## POINTER 2767 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Cambia el personaje controlado durante un combate
+abriendo el menú y pulsando <06>(STA).
+
+## POINTER 2769 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Botas aladas
+
+## POINTER 2770 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194309]
+Zapatos decorados con alas.
+Aumenta la velocidad a aquellos que tienen prisa.
+
+## POINTER 2772 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Bandera especial
+
+## POINTER 2773 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Bandera que te permite cambiar al líder del grupo
+en el menú. No da ninguna vida extra.
+
+## POINTER 2775 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Llave de la prisión
+
+## POINTER 2776 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271598979]
+Llave recibida de un desconocido.
+¿Esto me sacará de la prisión?
+
+## POINTER 2778 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Cuerno dorado
+
+## POINTER 2779 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1263670639]
+Un cuerno de rhybgaro. Ragou los colecciona.
+Quizá valga muy caro.
+
+## POINTER 2781 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Pista 1 de la contraseña
+
+## POINTER 2782 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016620]
+Una nota encontrada en Caer Bocram.
+La palabra «luz» está escrita en ella.
+
+## POINTER 2784 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Pista 2 de la contraseña
+
+## POINTER 2785 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016620]
+Una nota encontrada en Caer Bocram.
+La palabra «cielo» está escrita en ella.
+
+## POINTER 2787 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Pista 3 de la contraseña
+
+## POINTER 2788 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016620]
+Una nota encontrada en Caer Bocram.
+La palabra «esfera» está escrita en ella.
+
+## POINTER 2790 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956426]
+Registro Maravillas
+
+## POINTER 2791 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271598979]
+Un álbum de recortes entregado por el
+Periodista Maravillas. ¡Te sigue los pasos!
+
+## POINTER 2793 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262124982]
+Libro de batalla
+
+## POINTER 2794 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262124982]
+Una colección de notas con información relacionada
+con las batallas. ¡Es importante leerlo bien!
+
+## POINTER 2796 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271599071]
+Salvoconducto
+
+## POINTER 2797 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Documento necesario para entrar en Aspio.
+Es un préstamo, así que no hay que perderlo.
+
+## POINTER 2799 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Invitación al duelo de cocina
+
+## POINTER 2800 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194893]
+¡Un sitio solo para expertos chefs!
+¡¿Quién es digno de recibir el beso de la victoria?!
+
+## POINTER 2802 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Yumanju, pase gratis permanente
+
+## POINTER 2803 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+¡Qué burrada! ¡¡Menudo timo!! Aquí tienes una entrada
+gratis para entrar en este famoso balneario...
+
+## POINTER 2805 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Isla de Nam Cobandai, entrada
+
+## POINTER 2806 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194893]
+Entrada gratis para «El Paraíso Feliz».
+¡Puede ser difícil divertirse demasiado un lunes!
+
+## POINTER 2808 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Límite Dúo
+
+## POINTER 2809 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262992955]
+Mira dentro del orbe para recibir sus poderes.
+¡Mejora la barra de Límite!
+
+## POINTER 2811 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Límite Trío
+
+## POINTER 2812 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1263670639]
+Mira dentro del orbe para obtener conocimientos universales.
+¡Mejora la barra de Límite!
+
+## POINTER 2814 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Límite Cuarteto
+
+## POINTER 2815 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Mira dentro del orbe para adquirir valor.
+¡Mejora la barra de límite!
+
+## POINTER 2817 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261765016]
+(C) Estatua B
+
+## POINTER 2818 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163201]
+La estatua de «Bravura». La historia de un guerrero
+que conquistó una torre de sesenta pisos él solo.
+
+## POINTER 2820 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827798]
+(C) Estatua F
+
+## POINTER 2821 [t:1;r:1;ru:memnoch;user:kaene;time:1295112193]
+La estatua de «Fraternidad». La historia de
+un viajero y el espíritu que vive en su anillo.
+
+## POINTER 2823 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827851]
+(C) Estatua H
+
+## POINTER 2824 [t:1;r:1;ru:memnoch;user:kaene;time:1295112752]
+La estatua de «Hierro». La historia del que
+luchó con un dragón para salvar a la princesa.
+
+## POINTER 2826 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827851]
+(C) Estatua I
+
+## POINTER 2827 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271599648]
+La estatua de «Isla». La historia de reclamar
+la propia casa a gritos.
+
+## POINTER 2829 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827851]
+(C) Estatua J
+
+## POINTER 2830 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271599648]
+La estatua «Justicia». La historia de un niño dios
+que salvó al mundo del desastre
+
+## POINTER 2832 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827851]
+(C) Estatua L
+
+## POINTER 2833 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163201]
+La estatua de «Lealtad». La historia de una sacerdotisa
+que esperó a que su amante la rescatara de una torre.
+
+## POINTER 2835 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827851]
+(C) Estatua M
+
+## POINTER 2836 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163201]
+La estatua de «Mito». La historia del que cabalgó
+a Pegaso para rescatar a una diosa.
+
+## POINTER 2838 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827851]
+(C) Estatua N
+
+## POINTER 2839 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163201]
+La estatua de algo «Nuevo». La historia de un coche
+que coleccionaba banderas y cegaba a sus oponentes.
+
+## POINTER 2841 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827851]
+(C) Estatua P
+
+## POINTER 2842 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163201]
+La estatua de «Policía». La historia de un poli que
+persiguió a ladrones para recuperar tesoros perdidos.
+
+## POINTER 2844 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827851]
+(C) Estatua R
+
+## POINTER 2845 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163201]
+La estatua de «Recorrido». La historia de un corredor
+que evitó todas las trampas, a pesar de estar herido.
+
+## POINTER 2847 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827851]
+(C) Estatua S
+
+## POINTER 2848 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163201]
+La estatua de «Sitio». La historia de un guerrero que luchó
+contra criaturas malvadas en una fortaleza subterránea.
+
+## POINTER 2850 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1263670639]
+Campana guía a Myorzo
+
+## POINTER 2851 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262289367]
+La campana que abre la entrada a Myorzo.
+Era una posesión de un gran guía krityano.
+
+## POINTER 2853 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262124982]
+Grúa de rescate
+
+## POINTER 2854 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262124982]
+Un objeto muy útil para recuperar objetos del mar.
+¡Una máquina maravillosa!
+
+## POINTER 2856 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Cuchillo de cocina
+
+## POINTER 2857 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Cuchillo de cocina extremadamente afilado.
+También conocido como el legendario cuchillo blanco.
+
+## POINTER 2859 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Mapa de territorios
+
+## POINTER 2860 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Mapa que recoge los territorios que ha marcado Repede.
+Estos territorios pueden ser borrados.
+
+## POINTER 2862 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Orbe de Zaude
+
+## POINTER 2863 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Gema encontrada en el santuario de Zaude.
+Se cayó de su pedestal por alguna razón.
+
+## POINTER 2865 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Orbe rojo
+
+## POINTER 2866 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194893]
+Gema extraída de un pedestal.
+Hay que devolverla al lugar al que le corresponde.
+
+## POINTER 2868 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Fruto de nía
+
+## POINTER 2869 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271599648]
+Uno de los ingredientes para crear una panacea.
+Desprende un hedor desagradable si se quema.
+
+## POINTER 2871 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262288077]
+Garra de oso ovíparo
+
+## POINTER 2872 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194893]
+Uno de los ingredientes para crear una panacea.
+Tiene mal aspecto, pero es una medicina muy útil.
+
+## POINTER 2874 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Pétalo de luluria
+
+## POINTER 2875 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271599648]
+Uno de los ingredientes para crear una panacea.
+Pétalo precioso recibido del alcalde de Halure.
+
+## POINTER 2877 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Llave pequeña de lobo
+
+## POINTER 2878 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Llave que pertenecía a un monstruo.
+Tiene grabada la imagen de un lobo.
+
+## POINTER 2880 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Llave pequeña
+
+## POINTER 2881 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Llave que pertenecía a un monstruo.
+¿Qué puerta abrirá?
+
+## POINTER 2883 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Panacea
+
+## POINTER 2884 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261786320]
+Poción necesaria para revivir el árbol de Halure.
+¡No la derrames!
+
+## POINTER 2886 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194893]
+Núcleo de aqua blastia
+
+## POINTER 2887 [t:1;r:1;ru:memnoch;user:memnoch;time:1282297536]
+El núcleo de blastia que robó Dedecchi y cayó después
+en manos de Barbos. ¡Por fin lo hemos recuperado!

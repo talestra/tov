@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1251726698]
+Alexei
+
+## POINTER 1 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266933983]
+(KAR)
+Me alegro de que el comandante Alexei
+haya resultado ser tan razonable.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297113154]
+(RIT)
+Sí, esperaba que fuera un cretino cabezota.
+
+## POINTER 3 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266933983]
+(EST_P)
+¿Te lo habías encontrado alguna vez, (YUR)?
+
+## POINTER 4 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266933983]
+(YUR)
+Sabía quién era, pero dudo
+que él supiera quién era yo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297113154]
+(YUR)
+No estuve mucho tiempo en
+el cuerpo de los Caballeros.
+
+## POINTER 6 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1266108829]
+(KAR)
+Me pregunto qué clase de persona será.
+
+## POINTER 7 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266933983]
+(EST_P)
+A veces puede ser muy formal. Pero en cierto
+modo es como un símbolo para los Caballeros.
+
+## POINTER 8 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266933983]
+(EST_P)
+Muchos de los que son Caballeros ahora se
+alistaron siguiendo el ejemplo de Alexei.
+
+## POINTER 9 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1266108829]
+(YUR)
+¡Je! Una cosa está clara.
+No tengo demasiado en común con él.

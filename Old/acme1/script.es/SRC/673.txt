@@ -1,0 +1,106 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272975313]
+<STR>(FRE)
+Hola, <STR>(RAP).
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272975313]
+<STR>(EST_P)
+A <STR>(RAP) le gusta
+mucho <STR>(FRE), ¿verdad? 
+Qué suerte tiene...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761614]
+<STR>(YUR)
+Para <STR>(RAP), <STR>(FRE)
+también es su amo.
+<PAGE>Hace tiempo, <STR>(FRE) y yo  
+solíamos cuidar juntos de él.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272975313]
+<STR>(EST_P)
+¿<STR>(RAP) ya tenía
+esa personalidad  
+tan fría?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272975313]
+<STR>(YUR)
+Sí, ya la tenía.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761614]
+<STR>(EST_P)
+¿Y cómo lograsteis
+tener tan buena 
+relación con él?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761614]
+<STR>(YUR)
+Pues cuidándolo.<PAGE>Una vez, <STR>(RAP) se hizo una herida muy grave, 
+y <STR>(FRE) y yo estuvimos toda la noche
+pendiente de él para que se recuperase.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272994491]
+<STR>(JUD)
+¿Así fue como <STR>(RAP)
+se hizo esa cicatriz?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272975313]
+<STR>(YUR)
+Sí.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761614]
+<STR>(KAR)
+Ahora que me acuerdo, nos dijiste
+que el blastia de <STR>(RAP) era
+un recuerdo de su antiguo dueño, ¿no?
+<PAGE>Me pregunto si ese bodhi 
+blastia tiene algo que ver
+con la vez que se hizo daño...
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272975313]
+<STR>(YUR)
+Mm, buena pregunta.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272975313]
+<STR>(EST_P)
+¿Fuiste tú el que le dio el nombre de <STR>(RAP)?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761614]
+<STR>(YUR)
+No, fue su anterior dueño.
+Parecía gustarle su nombre, así
+que no me atreví a cambiárselo.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272975313]
+<STR>(EST_P)
+Eres muy considerado, <STR>(YUR).
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761614]
+<STR>(RAV)
+Quizá <STR>(RAP) hizo una promesa 
+a su otro dueño y por eso es 
+tan borde con los demás.<PAGE>Un férreo sabueso que se
+mantiene fiel a su antiguo amo... 
+Suena bien, ¿a que sí?
+
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272975313]
+<STR>(RIT)
+¡Está jugando con <STR>(FRE)!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1277126855]
+<STR>(RAV)
+Puede que en er fondo
+sea un trozo de pan.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761614]
+<STR>(FRE)
+¡Qué fuerte te has 
+vuelto, <STR>(RAP)!
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272994265]
+<STR>(FRE)
+Cuida mucho 
+de <STR>(YUR), ¿vale?
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272994265]
+<STR>(RAP)
+¡Guau!

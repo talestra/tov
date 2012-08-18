@@ -1,0 +1,84 @@
+## POINTER 0
+<STR>(EST_P)
+Oh my... Doesn't the city seem 
+less busy than before?
+
+## POINTER 1
+<STR>(YUR)
+Yeah. This place has gotten 
+a lot more...ghost-towny.
+
+## POINTER 2
+<STR>(KAR)
+You don't think that 
+rumor's true, do you?
+
+## POINTER 3
+<STR>(YUR)
+You mean that people have been suddenly disappearing?
+
+## POINTER 4
+<STR>(JUD)
+Maybe it's not just a rumor after all.
+
+## POINTER 5
+<STR>(YUR)
+She has to do something about it.
+
+## POINTER 6
+<STR>(EST_P)
+What do you mean?
+
+## POINTER 7
+<STR>(JUD)
+You can see it on her face.
+
+## POINTER 8
+<STR>(KAR)
+If that's the case, we should go to the 
+inn and have a strategy meeting first.<PAGE>After all, we need to go 
+check on the blastia too.
+
+## POINTER 9
+<STR>(YUR)
+Yeah. And it's not 
+like <STR>(EST_P) can 
+just let things go...
+
+## POINTER 10
+<STR>(EST_P)
+You can't just ignore people's 
+problems, can you?
+
+## POINTER 11
+<STR>(YUR)
+I know, I know.
+
+## POINTER 12
+<STR>(KAR)
+So then, let's go. To the inn!
+
+## POINTER 13
+<STR>(JUD)
+He sure is getting into it.
+
+## POINTER 14
+<STR>(EST_P)
+He's so happy that he was able 
+to start a guild with <STR>(YUR).
+
+## POINTER 15
+<STR>(YUR)
+Hey, it's not like I did this 
+just for <STR>(KAR)'s sake.
+
+## POINTER 16
+<STR>(JUD)
+But you care about 
+his feelings, don't 
+you?
+
+## POINTER 17
+<STR>(YUR)
+Yeah, well...<PAGE>Come on, we should 
+hurry to the inn.

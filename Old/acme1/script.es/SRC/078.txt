@@ -1,0 +1,74 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:soywiz;time:1269692392]
+
+<VOICE>(VS01_001)¡<STR>(YUR)! ¡Tenemos un problema!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298204309]
+<STR>(YUR)
+<VOICE>(VS01_002)¿A qué viene
+tanto grito, Ted?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1282648460]
+Ted
+<VOICE>(VS01_003)¡Mira! ¡El aqua blastia 
+se ha vuelto a romper!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:evilluendas;time:1269687615]
+Ted
+<VOICE>(VS01_004)Y justo acababan
+de repararlo.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:evilluendas;time:1269687615]
+<STR>(YUR)
+<VOICE>(VS01_005)¿Cuál es el problema? Que se encarguen
+los Caballeros Imperiales. Para eso están.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298204309]
+Ted
+<VOICE>(VS01_006)Ja, ¿los Caballeros?
+Sabes muy bien que nunca
+vienen a los barrios bajos.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1271621028]
+<STR>(YUR)
+<VOICE>(VS01_007)¿Y qué es de 
+<STR>(FRE), el héroe?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269776534]
+Ted
+<VOICE>(VS01_008)Ya he intentado
+traerlo.<PAGE><VOICE>(VS01_009)¡Pero no me han
+dejado ni verlo!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:evilluendas;time:1269687615]
+<STR>(YUR)
+<VOICE>(VS01_010)Oh, así que yo soy el
+reemplazo de <STR>(FRE), ¿eh?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:evilluendas;time:1269687615]
+Ted
+<VOICE>(VS01_011)¡Qué más da, hombre!
+¡Necesitamos más gente!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298204309]
+
+<VOICE>(VS01_012)¡Ted! ¡Ted! ¡Ven
+aquí abajo! ¡También 
+necesitan tu ayuda!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269776534]
+Ted
+<VOICE>(VS01_013)¡Vo-voy en un segundo!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:evilluendas;time:1269687615]
+Ted
+<VOICE>(VS01_014)<STR>(YUR)... ¡Venga, vamos!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298204309]
+<STR>(YUR)
+<VOICE>(VS01_015)Qué extraño. Siempre viene
+en cuanto hay problemas.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298204309]
+<STR>(YUR)
+<VOICE>(VS01_016)Como esto siga así, este lugar
+va a parecer un acuario.

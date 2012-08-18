@@ -1,0 +1,36 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251552935]
+Manco para la magia
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1286115303]
+(EST_P)
+No usas la magia, ¿verdad, (YUR)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1286115303]
+(YUR)
+No es que no la use, es que no puedo.
+
+## POINTER 3 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266281020]
+(YUR)
+Es un talento que no tengo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1286115303]
+(EST_P)
+Pero cualquiera que tenga un blastia debería
+poder usarla si aprende la teoría, ¿no?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1286115303]
+(YUR)
+¡Es que nunca he conseguido cogerle
+el tranquillo a eso de la teoría mágica!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1286115303]
+(EST_P)
+¿No se te da bien estudiar?
+
+## POINTER 7 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266281020]
+(YUR)
+Es una manera de decirlo.
+
+## POINTER 8 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266281020]
+(RAP)
+*Gemido*

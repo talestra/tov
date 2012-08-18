@@ -1,0 +1,56 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253821611]
+El esfuerzo mental es... esfuerzo
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135017]
+(KAR)
+Ugh... No entiendo nada de
+esto... Tío, qué peñazo...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298125815]
+(EST_P)
+¿Quién iba a molestarse a poner
+unos mecanismos tan complicados
+en el fondo del océano?
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135017]
+(YUR)
+Es una manera bastante
+común de alejar a los intrusos.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135017]
+(RIT)
+Con las ruinas de Shaikos pasaba igual.
+Es el tipo de lugares al que solo pueden
+entrar ciertas personas.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298125815]
+(EST_P)
+Entonces, ¿solo pueden entrar
+aquellos que sepan cómo hacerlo?
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135017]
+(YUR)
+Exacto. Pero si nos devanamos los sesos
+un poco puede que acabemos descifrándolo.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135017]
+(KAR)
+¿Y por qué no lo has descifrado todavía?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298125815]
+(YUR)
+¡Dímelo tú, capitán!
+Tú eres el experto en acertijos.
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135017]
+(KAR)
+¡¿Cóm...?! ¡¿Desde cuándo?!
+
+## POINTER 10 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135017]
+(YUR)
+Desde ya mismo. ¡Así que a
+romperse el tarro de las esencias!
+
+## POINTER 11 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135017]
+(KAR)
+Agggh... Será posible...

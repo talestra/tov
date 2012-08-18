@@ -1,0 +1,62 @@
+## POINTER 0
+<STR>(RAV)
+Hey, hold on.
+
+## POINTER 1
+<STR>(YUR)
+What is it, old man?
+
+## POINTER 2
+<STR>(RAV)
+Ya do realize what going 
+to the enemy's compound 
+means, right?
+
+## POINTER 3
+<STR>(YUR)
+What it...means...?
+
+## POINTER 4
+<STR>(RAV)
+We're gonna be on their 
+turf, playin' by their rules.<PAGE>If we get there and we're not ready to 
+roll, they could give us a mighty beatdown 
+and it'd be lights out for us...
+
+## POINTER 5
+<STR>(RIT)
+So, you're asking if we're 
+totally prepared to go?
+
+## POINTER 6
+Are you ready?
+As ready as I'll ever be
+Not yet
+
+## POINTER 7
+<STR>(YUR)
+We're ready to roll, old man!
+
+## POINTER 8
+<STR>(RAV)
+Y'sure?
+
+## POINTER 9
+<STR>(YUR)
+You're worrying more than 
+usual. We're ready.
+
+## POINTER 10
+<STR>(RAV)
+Yeah? Well then, 
+let's go.
+
+## POINTER 11
+<STR>(YUR)
+Hmm, now that you mention it, I guess 
+we could prepare a bit more.
+
+## POINTER 12
+<STR>(RAV)
+All right then, let's 
+go gear up!

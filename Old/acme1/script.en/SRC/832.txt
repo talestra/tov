@@ -1,0 +1,195 @@
+## POINTER 0
+
+Diiing! I'm Kowz! You can call me Li'l K for 
+short. Nice to meetcha, better to greetcha!<PAGE>The sky's all 
+squirmy...
+
+## POINTER 1
+<STR>(KAR)
+Does it bother you?
+
+## POINTER 2
+
+Me? Nah. Who cares? No 
+point in getting aaaall 
+worked up about it!
+
+## POINTER 3
+<STR>(RAV)
+So ya just take things as they 
+come? Ya take more of a
+philosophical view of things?
+
+## POINTER 4
+
+I have a philosophy of going with 
+the flow! You know, like a cloud, 
+floating along with the breeze...
+
+## POINTER 5
+<STR>(RIT)
+Hmmm, that mumbo jumbo almost 
+sounds believable...
+
+## POINTER 6
+
+You should shut that big yap of yours before someone 
+trips on it, Flatty. You wouldn't know hopes 
+and dreams if they smacked you in the face!
+
+## POINTER 7
+<STR>(RIT)
+Argh... You're really 
+asking for it now!
+
+## POINTER 8
+<STR>(YUR)
+<STR>(RIT), control yourself!
+
+## POINTER 9
+
+Oh, Pheromone-Boy! You're 
+so thoughtful. ∀<PAGE>To show my respect for you, 
+Pheromone-Boy, let me take 
+some of your excess items.
+
+## POINTER 10
+<STR>(EST_P)
+We have excess 
+items?
+
+## POINTER 11
+<STR>(KAR)
+Not that I know of. We pretty 
+much need what we have.
+
+## POINTER 12
+
+No, you definitely look like 
+you have some items to spare!
+
+## POINTER 13
+
+Come on, give them 
+here! Gimme gimme! 
+Pleeease!
+
+## POINTER 14
+<STR>(JUD)
+Why do you 
+want items 
+so badly?
+
+## POINTER 15
+
+My tale is sad to hear and even sadder to tell. The reasons for my 
+desires run deep, and are born of tears and sorrow! But it would take 
+too long to tell you everything, so just take my word for it.
+
+## POINTER 16
+<STR>(RIT)
+What the hell are you 
+going on about? Stop 
+being so vague!
+
+## POINTER 17
+
+Well, today's items du 
+jour are the All-Divide 
+and the Hourglass.<PAGE>Do you have any extras of these 
+two items? If so, gimme!
+
+## POINTER 18
+<STR>(YUR)
+Why do you want all 
+this stuff?
+Here, just take it.
+
+## POINTER 19
+
+Oh ho ho. Thanks 
+much!
+
+## POINTER 20
+
+Round and round we go!
+Where we stop...only I know!
+
+## POINTER 21
+
+Caatch!
+
+## POINTER 22
+
+Oh ho, oh 
+ho! Thankee, 
+thankee!
+
+## POINTER 23
+
+No, thank you!<PAGE>Now then, to return 
+the favor...
+
+## POINTER 24
+
+Tadaaa!
+
+## POINTER 25
+<STR>(RAV)
+Eh? Hmm... This 
+ain't so bad...
+
+## POINTER 26
+
+Your very own set of gels! 
+I like to call it the "Chewy 
+Chewy Yummy Pack!"
+
+## POINTER 27
+<STR>(RIT)
+I'd say we broke 
+about even...
+
+## POINTER 28
+<STR>(JUD)
+So what happens to the 
+items that we give you?
+
+## POINTER 29
+<STR>(KAR)
+Yeah, yeah, I wanna 
+know, too!
+
+## POINTER 30
+
+Hmmm... That'd take 
+a long time to explain. 
+I don't wanna...
+
+## POINTER 31
+<STR>(RIT)
+Come on, 
+tell us!
+
+## POINTER 32
+
+Oh, would you look at the time! 
+Come again, won't you? I'll 
+be waiting! Ding-dong-ding! ∀
+
+## POINTER 33
+
+You don't 
+have them, 
+you fools!
+
+## POINTER 34
+
+Agh, the bitter taste 
+of rejection!
+
+## POINTER 35
+
+Hello, hello! I've been waiting! 
+Did you come to give me an All-Divide 
+and an Hourglass?

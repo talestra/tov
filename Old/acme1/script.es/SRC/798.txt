@@ -1,0 +1,33 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290434875]
+<STR>(YUR)
+Creo que soy el último.
+Hala, ¿eres tú, <STR>(RAV)?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290434875]
+<STR>(RAV)
+¡¿Y por qué leñes tengo
+que ser yo er encargao?!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848536]
+<STR>(YUR)
+Tienes una pinta tronchante, viejales.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290434875]
+<STR>(RAV)
+Mira quién fue
+a hablar, mozuelo.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290434875]
+<STR>(YUR)
+¿Ah, sí?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290434875]
+<STR>(RAV)
+¿Me cambias er
+sitio, <STR>(YUR)?
+¡Vale la pena!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848536]
+<STR>(YUR)
+Paso. Tú diviértete, viejales.
+Voy a ver qué hacen los demás.

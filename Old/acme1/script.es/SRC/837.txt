@@ -1,0 +1,141 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+Sicily
+Aish...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(KAR)
+Es el profesor Sicily, ¿verdad?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(JUD)
+Anda, es verdad. Últimamente
+nos lo encontramos un montón.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296672160]
+<STR>(RIT)
+No creerás que nos sigue a
+todas partes y sabe adónde
+vamos a ir, ¿no?...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(EST_P)
+Eso me pregunto yo.
+¿Le saludamos?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(YUR)
+Viejales, ¿a qué
+estás esperando?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296672160]
+<STR>(RAV)
+¡¿Yo?! Bueno,
+por qué no...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294423297]
+<STR>(RAV)
+B-Buon giorno! 
+¿Cómo te va?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+Sicily
+Oh, eres tú... 
+Buon giorno...<PAGE>Aish...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296671819]
+<STR>(RAV)
+Pareces de
+capa caída.
+¿Qu'ha pasao?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+Sicily
+¿Mmm? Di ricente, no tengo
+ganas de hacer nada...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(RAV)
+¿A-Ah, no? Supongo que tól mundo
+está vago de vez en cuando.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(KAR)
+Oiga, mmm, ¿señor Sicily?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+Sicily
+¿Mmmm?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(KAR)
+¿Usted no es un gran
+ingeniero, señor Sicily?<PAGE>Puede crear armas y
+cosas de esas, ¿no?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1294399372]
+Sicily
+¿Eh? Sí...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(KAR)
+¡Entonces háganos un arma
+de aúpa, por favor!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+Sicily
+¿Un arma, dices?
+No, no me interesa mucho...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(KAR)
+Oh, ya veo...
+Qué lástima.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(YUR)
+Entonces es cierto que si
+no te interesa el trabajo
+no lo haces.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+Sicily
+...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296671819]
+Sicily
+Oye, bambino...
+¡Tu peinado es muy interessante!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(KAR)
+¿Eh? ¿Mi peinado?
+¿D-De verdad?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1296671819]
+Sicily
+¡Oh! ¡Se me ha ocurrido
+algo magnifico!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(KAR)
+¿Ein?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1296671819]
+Sicily
+¡Bambino, tu peinado
+me ha dado una idea! 
+Grazie! Grazie mille!<PAGE>¡Debo conseguir unas piezas! 
+Ciao, amici! ¡Hasta otra!
+Arrivederci!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(KAR)
+Se ha largado...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1294101898]
+<STR>(RIT)
+Qué tío más raro...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1296671819]
+<STR>(RAV)
+Me parece que mu pronto lo veremos otra vez.

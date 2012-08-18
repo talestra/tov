@@ -1,0 +1,299 @@
+## POINTER 0 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997390]
+Datos ficticios
+
+## POINTER 1 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero esgrimidor
+
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero guardián
+
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261920723]
+Caballero guerrero
+
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero esgrimidor H
+
+## POINTER 5 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero esgrimidor A
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero esgrimidor F
+
+## POINTER 7 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero esgrimidor K
+
+## POINTER 8 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero esgrimidor S
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261921142]
+Caballero guerrero H
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261921142]
+Caballero guerrero A
+
+## POINTER 11 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261921142]
+Caballero guerrero F
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261921142]
+Caballero guerrero K
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261921142]
+Caballero guerrero S
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261921142]
+Veta
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261921142]
+Caballero lancero
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261922019]
+Caballero receptor
+
+## POINTER 17 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero alabardero
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero alabardero A
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero alabardero F
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero alabardero K
+
+## POINTER 21 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262001850]
+Caballero alabardero S
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Erungar
+
+## POINTER 23 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Recuerdo de Erungar
+
+## POINTER 24 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261922260]
+Caballero lancero H
+
+## POINTER 25 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261922260]
+Caballero lancero A
+
+## POINTER 26 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261922260]
+Caballero lancero F
+
+## POINTER 27 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261922260]
+Caballero lancero K
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261922260]
+Caballero lancero S
+
+## POINTER 29 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Augusto
+
+## POINTER 30 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261922260]
+Centeno
+
+## POINTER 31 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261922260]
+Bandido
+
+## POINTER 32 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Bandido
+
+## POINTER 33 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261930883]
+Recuerdo de bandido
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Jugem
+
+## POINTER 35 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Recuerdo de Jugem
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261930883]
+Pícaro
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261930883]
+Ladrón
+
+## POINTER 38 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261930883]
+Ladrón de las arenas
+
+## POINTER 39 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Jun
+
+## POINTER 40 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Bre
+
+## POINTER 41 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Soya
+
+## POINTER 42 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Pepe
+
+## POINTER 43 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Seigle
+
+## POINTER 44 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261930883]
+Soldado
+
+## POINTER 45 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261930883]
+Soldado
+
+## POINTER 46 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261922427]
+Johann
+
+## POINTER 47 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261930883]
+Recuerdo de Johann
+
+## POINTER 48 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261930883]
+Guerrero
+
+## POINTER 49 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261930883]
+Atracador
+
+## POINTER 50 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261930883]
+Casco salvaje
+
+## POINTER 51 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997309]
+Octubre
+
+## POINTER 52 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262266894]
+Orge
+
+## POINTER 53 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1268571255]
+Maíz
+
+## POINTER 54 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262266894]
+Gingembre
+
+## POINTER 55 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1268571255]
+Cebada
+
+## POINTER 56 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268129]
+Lett
+
+## POINTER 57 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268129]
+Bronce
+
+## POINTER 58 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268129]
+Titanio
+
+## POINTER 59 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268129]
+Plomo
+
+## POINTER 60 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268129]
+Cuero
+
+## POINTER 61 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262998761]
+Cinc
+
+## POINTER 62 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268129]
+Estaño
+
+## POINTER 63 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268129]
+Hierro
+
+## POINTER 64 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268129]
+Plata
+
+## POINTER 65 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Caballero obispo
+
+## POINTER 66 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Caballero cardenal
+
+## POINTER 67 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Bruja
+
+## POINTER 68 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Recuerdo de bruja
+
+## POINTER 69 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Hechicera
+
+## POINTER 70 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Druida
+
+## POINTER 71 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1268571255]
+Julio
+
+## POINTER 72 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268129]
+Ajo
+
+## POINTER 73 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268129]
+Pimienta
+
+## POINTER 74 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Filifolia
+
+## POINTER 75 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Brote de filifolia
+
+## POINTER 76 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Filifolia en flor
+
+## POINTER 77 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Filifolia mutante
+
+## POINTER 78 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997361]
+Filihelia
+
+## POINTER 79 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Filifolia mustia
+
+## POINTER 80 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263043467]
+Ent
+
+## POINTER 81 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Vellón
+
+## POINTER 82 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Castadaño
+
+## POINTER 83 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Copero de nieve
+
+## POINTER 84 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Tocón
+
+## POINTER 85 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261934115]
+Insecto planta
+
+## POINTER 86 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997361]
+Trífido
+
+## POINTER 87 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Audreitz
+
+## POINTER 88 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Yons
+
+## POINTER 89 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997498]
+Aquicia
+
+## POINTER 90 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Roctus
+
+## POINTER 91 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997498]
+Cactus
+
+## POINTER 92 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Tuliper
+
+## POINTER 93 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262002010]
+Rosa camelia
+
+## POINTER 94 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Halcón
+
+## POINTER 95 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Hipohalcón
+
+## POINTER 96 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Aguinejo
+
+## POINTER 97 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262033257]
+Raptor Eón
+
+## POINTER 98 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263043531]
+Ave pavesa
+
+## POINTER 99 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262029797]
+Pingüinista

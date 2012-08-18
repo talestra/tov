@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297714237]
+El estado de Palestrale
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297714237]
+(RIT)
+Hay una cosa que reconocerle a Palestrale:
+son duros de pelar.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1266910240]
+(EST_P)
+Sí. El coliseo está
+tan lleno como siempre.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297714237]
+(YUR)
+Belius tenía mucho poder, pero Palestrale
+no dependía de ella. En eso son muy
+diferentes a la Unión.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1266507859]
+(RIT)
+La gente que vivía aquí tampoco ha cambiado.
+Así es la ciudad que creó Belius.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297714237]
+(EST_P)
+Están haciendo todo lo posible por vivir
+sus vidas. Puede que eso sea lo que
+define a esta ciudad y a Palestrale.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1266910240]
+(YUR)
+El mundo puede cambiar todo lo que quiera.
+A Nordopólica le irá bien.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1266910240]
+(EST_P)
+Sí, así es.

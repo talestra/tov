@@ -1,0 +1,57 @@
+## POINTER 0 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283382664]
+<STR>(EST_P)
+¡Todo el mundo a cubierto!
+
+## POINTER 1 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283382664]
+<STR>(YUR)
+¿Estáis todos bien?
+
+## POINTER 2 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283382664]
+<STR>(KAR)
+Sobreviviré...
+
+## POINTER 3 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283382664]
+<STR>(RIT)
+El viejales tiene pinta
+de estar para el arrastre.
+
+## POINTER 4 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283382664]
+<STR>(YUR)
+Eh, viejales. ¿Quieres
+quedarte sentado un rato?
+Podemos adelantarnos.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1285764321]
+<STR>(RAV)
+Si me dejáis atrás, nu me quedará
+ningún sitio ar que ir.
+
+## POINTER 6 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283382664]
+<STR>(KAR)
+Vamos, ni siquiera <STR>(YUR)
+te dejaría aquí tirado.<PAGE>Y aun así, tú siempre podrías
+regresar a Altosk, ¿no?
+
+## POINTER 7 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285493283]
+<STR>(RAV)
+Mmm. Supongo qu'es una posibilidá,
+pero ellos... ¿Cómo lo diría?
+Nu son como vosotros.
+
+## POINTER 8 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283382664]
+<STR>(KAR)
+¿En serio?
+
+## POINTER 9 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285493283]
+<STR>(YUR)
+Mmpf...
+
+## POINTER 10 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283382664]
+<STR>(RIT)
+Bueno, si te encuentras bien, viejales,
+vamos a por ese blastia antes de que
+recargue y nos ataque de nuevo.
+
+## POINTER 11 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283382664]
+<STR>(RAV)
+Sí, sí. A la orden.

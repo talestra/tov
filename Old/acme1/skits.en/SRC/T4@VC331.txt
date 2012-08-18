@@ -1,0 +1,42 @@
+## POINTER 0
+Imperial Chef
+
+## POINTER 1
+(EST_P)
+(YUR), the food you cooked was so 
+delicious! It might even be better 
+than the chefs in the castle!
+
+## POINTER 2
+(RAP)
+*Woof!*
+
+## POINTER 3
+(YUR)
+Flattery will get you 
+nowhere, you know.
+
+## POINTER 4
+(EST_P)
+(YUR), how about you become 
+a cook in the castle? I'll 
+write you a recommendation!
+
+## POINTER 5
+(RAP)
+*Woof, woof*
+
+## POINTER 6
+(YUR)
+You really know how to compliment 
+a guy, (EST_P).
+
+## POINTER 7
+(EST_P)
+You would have to do something 
+with your hair, though. The 
+kitchen staff is very strict.
+
+## POINTER 8
+(YUR)
+Just how serioius are you?

@@ -1,0 +1,173 @@
+## POINTER 0
+Toth
+I remember you from before. 
+What can I do for you today?
+
+## POINTER 1
+<STR>(RIT)
+I'd like you to teach me the
+magic known as Astion.
+
+## POINTER 2
+Toth
+You've heard of Astion? I'm
+impressed. But unfortunately,
+I cannot teach it to you.
+
+## POINTER 3
+<STR>(KAR)
+Isn't the some way...? We 
+want to do what we can 
+to stop the Adephagos!
+
+## POINTER 4
+Toth
+But you see...<PAGE>Oh, that Bush Baby 
+doll you have...
+
+## POINTER 5
+<STR>(EST_P)
+Oh, this...we got it from 
+the elder of Myorzo.
+
+## POINTER 6
+Toth
+Hmmm...alright, then let's have a trade. I'll
+teach you Astion if you'll give me that.
+
+## POINTER 7
+<STR>(RIT)
+Huh? Really truly?
+
+## POINTER 8
+<STR>(EST_P)
+Huh? But we can't...!
+
+## POINTER 9
+Toth
+That doll is an extremely valuable 
+item to the Kritya.<PAGE>It was originally used in the 
+ceremony to honor Krones.
+
+## POINTER 10
+<STR>(KAR)
+Krones...?
+
+## POINTER 11
+Toth
+Krones is the name of the one who carries Myorzo.<PAGE>To the Kritya of Myorzo, Krones is a being 
+held sacred above all others. That's why 
+that doll you have is so important.
+
+## POINTER 12
+<STR>(KAR)
+...The Elder sure handed it over without much of a fuss, didn't he?
+
+## POINTER 13
+<STR>(YUR)
+We might as well, right? If all we have 
+to do is give him that little trinket.
+
+## POINTER 14
+Toth
+"That little trinket"...?<PAGE>That is blatant disrespect 
+towards the Bush Baby 
+doll! Take that back!
+
+## POINTER 15
+<STR>(YUR)
+Oh, geez...I'm sorry.
+
+## POINTER 16
+<STR>(RIT)
+Hey, it's no skin off our backs. 
+Come on <STR>(EST_P), hand it over.
+
+## POINTER 17
+<STR>(EST_P)
+B-but... It's 
+so cute!
+
+## POINTER 18
+<STR>(RIT)
+What are you talking about? This thing's 
+our ticket to learning that magic!
+
+## POINTER 19
+<STR>(EST_P)
+I'd rather have this cute little doll than some stupid magic spell...
+
+## POINTER 20
+<STR>(RIT)
+Stop being such a baby 
+and give me the doll!
+
+## POINTER 21
+<STR>(YUR)
+You know, they say that sometimes dolls 
+have powerful curses on them that 
+affect anyone who touches them.
+
+## POINTER 22
+<STR>(EST_P)
+Eek...!
+
+## POINTER 23
+Toth
+Simply amazing. I never thought the day would 
+come when I would lay hands on this doll.<PAGE>...Now then, this is for you.<PAGE>All of the details about Astion
+are written in this book.
+
+## POINTER 24
+<STR>(EST_P)
+Ohhh, how could you trick me like that...?!
+
+## POINTER 25
+<STR>(RIT)
+Come on, grow up a little.
+
+## POINTER 26
+<STR>(RIT)
+Hmmm, this seems like it's 
+<STR>(EST_P)'s kind of magic.
+
+## POINTER 27
+<STR>(EST_P)
+What...? My kind of...?
+
+## POINTER 28
+<STR>(RIT)
+Read through that by tomorrow 
+and see if you can learn it.
+
+## POINTER 29
+<STR>(KAR)
+...Why do you say it's <STR>(EST_P)'s kind of magic?
+
+## POINTER 30
+<STR>(RIT)
+The formula's interesting because it's 
+so old, but it's really too bad...
+
+## POINTER 31
+<STR>(KAR)
+?
+
+## POINTER 32
+<STR>(RIT)
+I dunno, it's just a very simple kind 
+of magic. Frumpy, if you will.
+
+## POINTER 33
+<STR>(YUR)
+So you gave it to <STR>(EST_P) 
+because it's boring?
+
+## POINTER 34
+<STR>(RIT)
+Th-that's not a very nice way to put it! Some people are just 
+more naturally inclined towards certain types of things!
+
+## POINTER 35
+<STR>(KAR)
+...You're terrible...

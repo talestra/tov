@@ -1,0 +1,55 @@
+## POINTER 0
+<STR>(EST_P)
+Oh, <STR>(YUR).
+
+## POINTER 1
+<STR>(YUR)
+Sorry to interrupt while 
+you're thinking.
+
+## POINTER 2
+<STR>(EST_P)
+Ever since I took Belius' 
+life without meaning to...<PAGE>I've wanted to know what it means to 
+be the Child of the Full Moon so the 
+same thing doesn't happen again...<PAGE>I always thought that it 
+was my duty to know.<PAGE>But after what happened to Belius...
+
+## POINTER 3
+<STR>(YUR)
+That's how everyone is. They do 
+something, they learn, they do 
+something else, they learn more.
+
+## POINTER 4
+<STR>(EST_P)
+You too, <STR>(YUR)?
+
+## POINTER 5
+<STR>(YUR)
+Yeah.
+
+## POINTER 6
+<STR>(EST_P)
+...Maybe if I had known everything 
+ahead of time, I wouldn't have 
+made any mistakes.
+
+## POINTER 7
+<STR>(YUR)
+Hmmm... There's only one 
+thing I can say for sure.
+
+## POINTER 8
+<STR>(EST_P)
+What's that?
+
+## POINTER 9
+<STR>(YUR)
+Maybe you wouldn't have made 
+any mistakes, but it sure 
+would've been boring.
+
+## POINTER 10
+<STR>(EST_P)
+...I really wonder...

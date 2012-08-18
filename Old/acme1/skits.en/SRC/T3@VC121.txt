@@ -1,0 +1,67 @@
+## POINTER 0
+Beautiful Juggernaut
+
+## POINTER 1
+(KAR)
+(JUD), you always go right 
+for the enemies, don't you?
+
+## POINTER 2
+(EST_P)
+Yes, you never hesitate at all!
+
+## POINTER 3
+(RAP)
+*Woof!*
+
+## POINTER 4
+(JUD)
+*Giggle*
+
+## POINTER 5
+(YUR)
+You're a juggernaut.
+
+## POINTER 6
+(KAR)
+Huh? What does that mean, (YUR)?
+
+## POINTER 7
+(YUR)
+It means she charges like a boar!
+
+## POINTER 8
+(EST_P)
+A juggernaut means something 
+that has so much inertia that it 
+can't be stopped or redirected.
+
+## POINTER 9
+(KAR)
+Huh... Hey, (JUD)'s gone!
+
+## POINTER 10
+(RAP)
+*Woof!*
+
+## POINTER 11
+(JUD)
+Sorry, I'm back now.
+
+## POINTER 12
+(EST_P)
+Where did you go, (JUD)?
+
+## POINTER 13
+(JUD)
+Oh, I thought I saw something.
+
+## POINTER 14
+(JUD)
+Seems like it wasn't 
+a monster after all.
+
+## POINTER 15
+(YUR)
+That instinct of yours to attack anything 
+that moves reminds me of a wolf...

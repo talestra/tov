@@ -1,0 +1,123 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1293540312]
+
+Ah, sí. Esto es para ti.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+<STR>(RIT)
+Pero esto es...
+La ropa de combate para una maga...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+
+Sí, está hecho a medida.
+Solo para ti.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527058]
+<STR>(RIT)
+Pero ¿por qué?
+¿Por qué yo?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+
+Antes pensábamos que solo eras
+una cría, pero ahora nos hemos
+dado cuenta de que sabes lo que haces.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1293540312]
+<STR>(RIT)
+Bueno, tampoco es eso...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1293540312]
+
+Sí, eres el orgullo
+de Aspio.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+<STR>(RIT)
+¿De... de verdad?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+
+¿Qué te pasa? Qué raro
+que te emociones así.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1293540312]
+<STR>(RIT)
+...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+
+En fin, aquí tienes.
+Buena suerte.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1293540312]
+<STR>(RIT)
+Flipa...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+<STR>(EST_P)
+<STR>(RIT), ¡date prisa y póntela!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1293540312]
+<STR>(RIT)
+Em... mmm...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+<STR>(EST_P)
+¡Oh, Dios mío! ¡Qué cucada!
+¡Te sienta como un guante!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1293540312]
+<STR>(RIT)
+¿De verdad? ¿Eso crees?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+<STR>(EST_P)
+Esta ropa es el símbolo
+de un verdadero investigador.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+<STR>(RIT)
+Más que eso, es el símbolo
+de un gran investigador.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1293540312]
+<STR>(EST_P)
+¡Te va como anillo
+al dedo, <STR>(RIT)!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1293540312]
+<STR>(RIT)
+Pero aún me queda un largo camino
+por recorrer en mi investigación.
+Hay mucho que aprender.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+<STR>(EST_P)
+Ese es el espíritu, ¿verdad?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+<STR>(RIT)
+Puedes dejarte los codos estudiando, pero siempre
+habrá algo que aprender en el mundo de la magia.<PAGE>Hay tantos misterios...
+Es como una cebolla, le quitas
+una capa y ahí tienes otra.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1293540454]
+<STR>(EST_P)
+¿Te vas a quedar
+con esa ropa?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+<STR>(RIT)
+Sí, encantada.<PAGE>Cuando la llevo
+me siento orgullosa
+y segura de mí misma.<PAGE>No sé por qué... Je, je, je.
+Es como si con esto pudiese
+aclarar una idea detrás de otra.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530200]
+<STR>(EST_P)
+B-Buena suerte, <STR>(RIT)...<PAGE>Creo que empiezo a entender
+por qué todo el mundo
+la llama bicho raro...

@@ -1,0 +1,91 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1279329214]
+<STR>(YUR)
+*Suspiro* No puedo creer
+que tengamos que viajar contigo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1275686086]
+<STR>(RAV)
+¿Qué pasa? ¿No'stás contento?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1279329214]
+<STR>(YUR)
+No puede decirse que vaya a saltar de alegría.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1279329214]
+<STR>(RAV)
+Mira que eres... ¡Dame cuartelillo!
+<PAGE>¿Acaso no hemos estao ya juntos
+cara a cara contra la adversidá?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1275686086]
+<STR>(YUR)
+Solo porque ninguno de los dos
+tenía más remedio. No creas que
+me he olvidado de lo de Puerto Nor.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1279329214]
+<STR>(RAV)
+¿Todavía t'acuerdas d'esa?
+¿No has oío nunca aquello de «pelillos a la mar»?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1275686086]
+<STR>(YUR)
+No voy a ponerme a hacer una lista de tus jugarretas.<PAGE>Creo que es suficiente
+con decirte que preferiría
+que no nos acompañaras.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1275686086]
+<STR>(RAV)
+¡Tranqui, tranqui!
+¡Me pienso comportar!<PAGE>Ya lo hice en Keiv Moc
+y en Ghasfarost, ¿no?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1275686086]
+<STR>(YUR)
+Sí, estaría bien que siguieras así.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1279329214]
+<STR>(RAV)
+De l'único que tienes que preocuparte es
+de si estos viejos huesos podrán seguir
+el ritmo de unos jovenzuelos como vosotros.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1275686086]
+<STR>(YUR)
+Vas seguir con nosotros hasta que
+<STR>(EST_P) vuelva al castillo, ¿verdad?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1275686086]
+<STR>(RAV)
+Er Don me dijo que no le quitara
+ojo a la chiquilla. No es que tenga
+elección en er asunto este.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1279329214]
+<STR>(YUR)
+Parece un trabajo bien duro.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1275686086]
+<STR>(RAV)
+A ver si encuentro un modo
+de entregarla a los Caballeros...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1279329214]
+<STR>(YUR)
+Te lo huelo a kilómetros, viejales.
+Ya estás pensando en alguna argucia.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1279369169]
+<STR>(RAV)
+¡No, pá ná!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1275686086]
+<STR>(YUR)
+En fin, me sigue pareciendo un fastidio tenerte aquí,
+pero procuraremos sacarte partido.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1279329214]
+<STR>(RAV)
+¿Cómo que «un fastidio» y
+«sacarme partido»? Pues vaya...<PAGE>En cualquier caso, <STR>(RAV) er Grande se pira
+pa la posada. Nos vemos, chavalote.

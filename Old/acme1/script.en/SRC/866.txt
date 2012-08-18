@@ -1,0 +1,91 @@
+## POINTER 0
+<STR>(EST_P)
+Hello!
+
+## POINTER 1
+
+Oh, how are you?
+...It looks like you're just fine.
+
+## POINTER 2
+<STR>(EST_P)
+You can tell...?
+
+## POINTER 3
+
+Sure, I can tell from looking at your face.
+
+## POINTER 4
+
+Urgh... Doctor...
+
+## POINTER 5
+
+Oops, I was working!
+
+## POINTER 6
+<STR>(EST_P)
+Is that a patient of yours?
+
+## POINTER 7
+
+Yes, it appears he has some 
+sort of heart disease.<PAGE>Hold on, friend. I'll help 
+take away the pain.
+
+## POINTER 8
+
+Ugggh... It hurts...
+
+## POINTER 9
+
+It doesn't look like it's working...
+
+## POINTER 10
+
+Hmmm...
+Amazing magical power...
+
+## POINTER 11
+
+...Ah... It doesn't hurt anymore...
+
+## POINTER 12
+<STR>(EST_P)
+...Good!
+
+## POINTER 13
+
+Hmmm!
+
+## POINTER 14
+
+Thank you, 
+Doctor...
+
+## POINTER 15
+
+Y-yes, of course... Well, stay here a bit to get 
+your energy back before you head out again.
+
+## POINTER 16
+
+You have quite a rare 
+talent, young lady.
+
+## POINTER 17
+<STR>(EST_P)
+What? I do...?
+I don't think...
+
+## POINTER 18
+
+No, seriously, being able to 
+wield that level of healing 
+artes is no small feat.<PAGE>Technically speaking, your skills are a little rough around 
+the edges, but you're a born healer. I can't wait to 
+see how you'll turn out with a bit more training.
+
+## POINTER 19
+<STR>(EST_P)
+Yes...

@@ -1,0 +1,111 @@
+## POINTER 0
+<STR>(YUR)
+Man, those guys are a pain in the neck.
+
+## POINTER 1
+<STR>(EST_P)
+I wish we could wait here 
+for <STR>(FRE) to come back...
+
+## POINTER 2
+<STR>(KAR)
+Who's this <STR>(FRE) person?
+
+## POINTER 3
+<STR>(YUR)
+He's an Imperial Knight that 
+<STR>(EST_P)'s got a crush on.
+
+## POINTER 4
+<STR>(KAR)
+What?!
+
+## POINTER 5
+<STR>(EST_P)
+I don't have a crush on him!
+
+## POINTER 6
+<STR>(YUR)
+You don't? Ohh, I get it. You 
+two are already a thing then?
+
+## POINTER 7
+<STR>(EST_P)
+No, it's not like that at all!
+
+## POINTER 8
+<STR>(YUR)
+Well, anyway, we'd best be 
+getting away from the town.
+
+## POINTER 9
+<STR>(EST_P)
+Yes, you're right. We wouldn't 
+want to cause trouble for 
+the villagers.
+
+## POINTER 10
+<STR>(KAR)
+Do you know where this <STR>(FRE) guy went 
+off to? You could follow after him.
+
+## POINTER 11
+<STR>(YUR)
+Didn't they say he'd 
+gone off to the east?
+
+## POINTER 12
+<STR>(EST_P)
+Yes, they did.
+
+## POINTER 13
+<STR>(YUR)
+I'd like to get to 
+Aspio somehow...
+
+## POINTER 14
+<STR>(YUR)
+Anyway, let's get out of here before 
+the goon squad shows up.
+
+## POINTER 15
+
+Please wait.
+
+## POINTER 16
+
+You deserve a reward for restoring our tree.
+Please stop by at my house.
+
+## POINTER 17
+<STR>(EST_P)
+Oh, please don't mind.
+
+## POINTER 18
+
+I will be waiting at
+my house. Please come.
+
+## POINTER 19
+<STR>(EST_P)
+Uh, wait...
+
+## POINTER 20
+<STR>(KAR)
+A reward? What do you say?
+
+## POINTER 21
+<STR>(YUR)
+Well, I guess we can't ignore 
+his offer and leave.
+
+## POINTER 22
+<STR>(EST_P)
+I wasn't really sure what I 
+did back there. I don't think
+I deserve anything.
+
+## POINTER 23
+<STR>(YUR)
+Let's just stop by at the mayor's house.
+We can still decline his offer there.

@@ -1,0 +1,125 @@
+## POINTER 0
+<STR>(JUD)
+How's it going? Any progress?
+
+## POINTER 1
+<STR>(RIT)
+Each page is a little different, but it 
+looks like he's just using a cipher to shift 
+all of the characters in the text.<PAGE>It just takes time to figure 
+out the cipher...
+
+## POINTER 2
+<STR>(JUD)
+What sort of things 
+is the book about?
+
+## POINTER 3
+<STR>(RIT)
+...At first, I thought that Hermes 
+was an average mage who was using 
+his knowledge for evil...<PAGE>But he wasn't. He was an upright mage who had dreams 
+about the potential of blastia and aer, and he was just 
+innocently going wherever his curiosity led him..
+
+## POINTER 4
+<STR>(JUD)
+...So what is it that's 
+troubling you?
+
+## POINTER 5
+<STR>(RIT)
+There are so many interesting things 
+written in Hermes' notes.<PAGE>There are plenty of formulas for magic 
+I've never heard of, for example.
+
+## POINTER 6
+<STR>(JUD)
+So Hermes was a genius...even 
+compared to you?
+
+## POINTER 7
+<STR>(RIT)
+It hurts a little to admit it, but yes.<PAGE>I was shocked to see that he wrote down so many 
+ideas and observations I'd never had…<PAGE>And it seems he wrote down a formula 
+in this book to destroy blastia 
+that had gone out of control...
+
+## POINTER 8
+<STR>(JUD)
+......!
+
+## POINTER 9
+<STR>(RIT)
+Hermes fully understood the possibility 
+of the amount of aer on 
+the planet increasing.<PAGE>He understood the dangers of 
+the blastia he had created.
+
+## POINTER 10
+<STR>(JUD)
+Hmmm... Yes, I see.
+
+## POINTER 11
+<STR>(RIT)
+Yes. That's why he was studying magic to destroy 
+the blastia in case that happened.
+
+## POINTER 12
+<STR>(JUD)
+...If a type of magic like that exists, 
+I think that you should use it!<PAGE>No matter who or how, Hermes 
+was looking for someone who could 
+use that magic for good.<PAGE>He was looking for someone to take 
+over his work for him. That's 
+why he left behind these notes.
+
+## POINTER 13
+<STR>(RIT)
+Wouldn't the best person to continue 
+Hermes' work be his own daughter?
+
+## POINTER 14
+<STR>(JUD)
+Oh? But what if that daughter 
+doesn't know how to use magic?<PAGE>Or maybe...
+
+## POINTER 15
+<STR>(RIT)
+......
+Or 
+maybe...?
+
+## POINTER 16
+<STR>(JUD)
+We'll never get anywhere if we 
+keep talking in hypotheticals.
+
+## POINTER 17
+<STR>(RIT)
+Well, yes...
+
+## POINTER 18
+<STR>(JUD)
+Even if it's something that was 
+thought up to destroy blastia...<PAGE>...You could put it to some other 
+use. Don't you think so?
+
+## POINTER 19
+<STR>(RIT)
+W-well, that's true, but...<PAGE>...You're right. I don't think that 
+any other mage besides me could 
+ever use this formula properly.<PAGE>Perhaps I'll take it, after all...
+
+## POINTER 20
+<STR>(JUD)
+Heh heh. I'm sure Hermes would be very happy, too.
+
+## POINTER 21
+<STR>(RIT)
+You're just saying that...
+
+## POINTER 22
+<STR>(JUD)
+No, I'm saying it because 
+I really think it's true!

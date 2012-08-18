@@ -1,0 +1,53 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284721148]
+<STR>(RAV)
+<VOICE>(VS35_001)Nuestra maga prodigio tiene
+puestos los cinco sentíos
+en el blastia ceres.<PAGE><VOICE>(VS35_002)Parece qu'el núcleo
+del nuevo está destrozao.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284721148]
+Tokunaga
+<VOICE>(VS35_003)Acababa de cambiar
+el blastia ceres
+por un nuevo modelo.<PAGE><VOICE>(VS35_004)Quería hacerlo desde que nos
+encontramos con el barco fantasma,
+por si las moscas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284721148]
+<STR>(YUR)
+<VOICE>(VS35_005)Así que, por suerte, aún
+disponemos del blastia viejo.<PAGE><VOICE>(VS35_006)En fin, por ahora seguiremos
+un rato a la deriva.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1280827429]
+<STR>(RAV)
+<VOICE>(VS35_007)Eso parece.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1280827429]
+<STR>(YUR)
+<VOICE>(VS35_008)¿Qué están haciendo <STR>(KAR) y <STR>(EST_P)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1280827429]
+<STR>(RAV)
+<VOICE>(VS35_009)Están un poco depres.
+¿Por qué no vas y les hablas un poco?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1284721148]
+<STR>(YUR)
+<VOICE>(VS35_010)Seguro que tú los animarías
+mejor que yo, viejales.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284721148]
+<STR>(RAV)
+<VOICE>(VS35_011)Ya sabes que no tengo
+madera pa estas cosas.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1284721148]
+<STR>(YUR)
+<VOICE>(VS35_012)Supongo que en parte yo también
+soy responsable de que todos
+estén con la cara tan larga.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1280827429]
+<STR>(YUR)
+<VOICE>(VS35_013)Iré a ver cómo les va.

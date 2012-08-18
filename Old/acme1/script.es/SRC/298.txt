@@ -1,0 +1,36 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1281390136]
+<STR>(KAR)
+Si pudiéramos saltar desde aquí,
+llegaríamos al barco enseguida...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1276199191]
+<STR>(JUD)
+Sí.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1281390136]
+<STR>(RIT)
+¿D-De dónde has sacado eso?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1276199191]
+<STR>(JUD)
+Pensé que nos llegaría a hacer
+falta, ¡así que cogí una del
+interior del barco!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1280171420]
+<STR>(RIT)
+Mejor me callo...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1281390136]
+<STR>(KAR)
+Vale, todo el mundo
+al barco... ¡Aaaah!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1280171420]
+<STR>(RIT)
+Madre mía...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1282926874]
+<STR>(RAV)
+Si er blastia ceres ta arreglao, ¡entonces
+podemos decirle agur a este infierno!

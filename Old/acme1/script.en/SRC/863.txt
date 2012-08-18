@@ -1,0 +1,71 @@
+## POINTER 0
+<STR>(EST_P)
+Isn't this the same box that 
+we found in the Atherum and 
+delivered to that girl?
+
+## POINTER 1
+<STR>(KAR)
+It looks like it's unlocked.
+
+## POINTER 2
+<STR>(RAV)
+Eh? 'Zat a journal?
+
+## POINTER 3
+<STR>(EST_P)
+"I think that today is the day that I'm going 
+to stop waiting for you to come back."<PAGE>"It's been three years since those travelers 
+came to town with the box, but they came 
+with no word of what happened to you..."<PAGE>"The box that I gave you as a gift, which you guarded 
+with your life... There's no way you would have ever 
+given it up so long as you were strong and well."<PAGE>"I'm sure you would want 
+me to move on and look for 
+happiness yet again."<PAGE>"That's why it's time that I said farewell. 
+Thank you for everything you've done for me."
+
+## POINTER 4
+<STR>(JUD)
+Her name was Yuefan, wasn't 
+it? What a strong girl.
+
+## POINTER 5
+<STR>(RAV)
+Well, I guess ya can't really move on 
+in life if ya spend all yer time waitin' 
+for someone who's passed on.
+
+## POINTER 6
+<STR>(RIT)
+Y-you all don't think that there's
+something a little unusual about this?
+
+## POINTER 7
+<STR>(KAR)
+About what?
+
+## POINTER 8
+<STR>(JUD)
+The version of Yormgen that we went to 
+was an illusion that Phaeroh created...<PAGE>And yet the box we delivered in the illusion...is right here.
+
+## POINTER 9
+<STR>(RIT)
+And the travelers she wrote about in the 
+journal...that would be us, wouldn't it?
+
+## POINTER 10
+<STR>(EST_P)
+So the Atherum was in our modern 
+time, and the box was, too.
+
+## POINTER 11
+<STR>(KAR)
+H-huh? Y-you're right, but...how 
+could this be possible?
+
+## POINTER 12
+<STR>(YUR)
+It looks like the
+world's still chock
+full of mysteries.

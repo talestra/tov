@@ -1,0 +1,133 @@
+## POINTER 660 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263653479]
+Ladrido
+
+## POINTER 661 [t:1;r:1;ru:memnoch;user:memnoch;time:1297103706]
+De vez en cuando cancela todas las acciones
+enemigas y aliadas con Vacile.
+
+## POINTER 662 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+Dispersión
+
+## POINTER 663 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1263808696]
+Cambia un arte. Se puede aprender
+si se usa repetidamente.
+
+## POINTER 664 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+Gran diluvio
+
+## POINTER 665 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1263808724]
+Cambia un arte. Se puede aprender
+si se usa repetidamente.
+
+## POINTER 666 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+Eternidad
+
+## POINTER 667 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+Cambia ciertas artes a otra clase.
+
+## POINTER 668 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263653598]
+Bastión
+
+## POINTER 669 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1263808724]
+Cambia Águila demoledora a Campo guardián.
+Se puede aprender si se usa repetidamente.
+
+## POINTER 670 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+Curandero vital
+
+## POINTER 671 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+Recupera HP después de una batalla.
+
+## POINTER 672 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+Curandero espiritual
+
+## POINTER 673 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+Recupera TP después de una batalla.
+
+## POINTER 674 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+Longevidad
+
+## POINTER 675 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+De vez en cuando aumenta el HP máximo después
+de una batalla.
+
+## POINTER 676 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+Coeficiente intelectual
+
+## POINTER 677 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263579106]
+De vez en cuando aumenta el TP máximo después
+de una batalla.
+
+## POINTER 678 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263242128]
+Felicidad
+
+## POINTER 679 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263242128]
+De vez en cuando aumenta la EXP recibida.
+(Solo para los personajes con esta habilidad).
+
+## POINTER 680 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263242128]
+Felicidad 2
+
+## POINTER 681 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263242128]
+De vez en cuando aumenta el LP recibido.
+(Solo para los personajes con esta habilidad).
+
+## POINTER 682 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263242128]
+Felicidad 3
+
+## POINTER 683 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263242128]
+De vez en cuando aumenta el gald recibido
+después de las batallas.
+
+## POINTER 684 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263653598]
+Seguridad
+
+## POINTER 685 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263653598]
+De vez en cuando se gana más experiencia por terminar
+una batalla sin haber recibido nada de daño.
+
+## POINTER 686 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263750305]
+Mitad técnica
+
+## POINTER 687 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981769]
+Recibe TP extra por no sufrir daño durante la batalla.
+Sin embargo, todos los estados serán reducidos a la mitad.
+
+## POINTER 688 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263750305]
+Vacante
+
+## POINTER 689 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263750305]
+De vez en cuando incrementa el HP máximo si la
+batalla se gana sin atacar a ningún enemigo.
+
+## POINTER 690 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263750305]
+Experiencia compartida
+
+## POINTER 691 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263750305]
+Gana experiencia extra sin tomar parte en la batalla.
+
+## POINTER 692 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263242128]
+Cobarde
+
+## POINTER 693 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265581447]
+Evita los encuentros por sorpresa.
+
+## POINTER 694 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263750449]
+Alta cocina
+
+## POINTER 695 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263750449]
+De vez en cuando aumenta el efecto de la
+cocina automática después de las batallas.
+
+## POINTER 696 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263750449]
+Caza tesoros
+
+## POINTER 697 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263750449]
+De vez en cuando recibe objetos de los enemigos
+incluso si se escapa de la batalla.
+
+## POINTER 698 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263750449]
+Guardia de pie
+
+## POINTER 699 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263750449]
+Defiende temporalmente después de levantarse.

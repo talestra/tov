@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1282573115]
+Barrera blastia
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287600020]
+(YUR)
+Al fuerte Deidon le hubiera costado aguantar
+incluso si hubiera tenido una barrera.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287600020]
+(EST_P)
+Sí, las barreras suponen un profundo
+impacto en la vida cotidiana de la gente.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287600020]
+(YUR)
+Bueno, su sola presencia mantiene a
+las personas a salvo de los monstruos.
+
+## POINTER 4 [t:1;r:3;ru:dagorat,parsec,memnoch;user:Dagorat;time:1266418809]
+(YUR)
+No es de extrañar que cambien las cosas.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287600020]
+(EST_P)
+Quiero sanar cuanto antes el árbol de Halure
+para que todos vuelvan a sentirse seguros.

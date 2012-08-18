@@ -1,0 +1,43 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1251757708]
+Los fundadores del gremio
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116877]
+(KAR)
+Decidido. ¡Nuestro gremio ya está a plena potencia!
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283717]
+(RIT)
+¿Quién ha decidido qué?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116877]
+(KAR)
+¡Nuestro gremio se llamará Gran Vesperia! 
+¡A (EST_P) se le ha ocurrido para nosotros!
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1261845524]
+(RIT)
+Mmm... Gran Vesperia, ¿eh?
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1261845503]
+(RIT)
+No me digas que has hecho
+miembro a (EST_P).
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283717]
+(KAR)
+No, no...
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283717]
+(KAR)
+Por ahora somos solo nosotros tres.
+¡Yo soy el jefe, y después están
+también (YUR) y (JUD)!
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283717]
+(KAR)
+¿Qué te parece? ¡Una pasada, ¿verdad?!
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283717]
+(RIT)
+Sí, es asombroso...
+Que te dejen a ti ser el jefe.

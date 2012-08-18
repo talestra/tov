@@ -1,0 +1,140 @@
+## POINTER 0
+Ted
+<STR>(YUR)! You 
+okay?
+
+## POINTER 1
+<STR>(YUR)
+Huh? What do you mean?
+
+## POINTER 2
+Ted
+What do I mean...
+What with 
+everything that's happened...
+
+## POINTER 3
+<STR>(YUR)
+Oh yeah... Things'll work 
+themselves out, I think.
+
+## POINTER 4
+Ted
+Really...?<PAGE>A lot of people have fled town, and everyone 
+in the lower quarter has lost their spirit...
+
+## POINTER 5
+<STR>(EST_P)
+I definitely don't feel the same 
+energy here that I did before.
+
+## POINTER 6
+<STR>(KAR)
+A lot of things have happened 
+since then...
+
+## POINTER 7
+Ted
+Hey, <STR>(YUR). Do you think there's any 
+way to get people here to lighten 
+up? You know, like it was before.
+
+## POINTER 8
+<STR>(YUR)
+Hmmm, good question. Maybe we could 
+do something to refresh their spirits 
+and take their minds off of things.
+
+## POINTER 9
+Ted
+Hmmm...
+
+## POINTER 10
+Ted
+I've got it! Let's have a footrace! 
+You know, like the ones 
+we always used to have.
+
+## POINTER 11
+<STR>(YUR)
+Oh, you mean the "Old Man's 
+Race." That would definitely 
+get people's blood pumping.
+
+## POINTER 12
+Ted
+Then it's decided! 
+I'm going to go 
+tell everyone!
+
+## POINTER 13
+<STR>(KAR)
+Hey, <STR>(YUR). What's 
+an "Old Man's 
+Race?"
+
+## POINTER 14
+<STR>(YUR)
+Basically, it's 
+a race through 
+the city.<PAGE>There are two roles: one person runs, while 
+the other plays a more strategic role.
+
+## POINTER 15
+<STR>(RIT)
+Hmmm... And that's supposed to 
+get people's blood pumping?
+
+## POINTER 16
+<STR>(YUR)
+You'll know what I mean when you see it.
+
+## POINTER 17
+Ted
+I just told everyone. 
+They're so excited!
+
+## POINTER 18
+<STR>(YUR)
+I'll bet they've all been looking 
+for an excuse to have a race.
+
+## POINTER 19
+Ted
+All right, let's 
+do it!
+
+## POINTER 20
+Ted
+Wow, that was really 
+exciting!
+
+## POINTER 21
+<STR>(KAR)
+That was great! I 
+had a great time 
+just watching it!
+
+## POINTER 22
+<STR>(JUD)
+So <STR>(YUR), you don't 
+ever run?
+
+## POINTER 23
+Ted
+Nah, <STR>(YUR)'s much, much 
+better at the strategic 
+side of things.
+
+## POINTER 24
+<STR>(YUR)
+Yeah, running is a pain in the butt, too.
+
+## POINTER 25
+<STR>(RAV)
+I think ya like tellin' others what ta do more 
+than ya like bein' told what ta do yerself.
+
+## POINTER 26
+Ted
+Let's do this again sometime!

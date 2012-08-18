@@ -1,0 +1,153 @@
+## POINTER 0
+<STR>(YUR)
+Mr. Irmine, 
+I presume?
+
+## POINTER 1
+
+Shut yer hole and 
+leave me be.
+
+## POINTER 2
+<STR>(KAR)
+We've come to ask you about 
+the process for refining 
+Everlight, sir.
+
+## POINTER 3
+
+Everlight...whoo boy. Whoo 
+nanny, whoo nanny...
+
+## POINTER 4
+<STR>(RIT)
+What did he say...? What sort 
+of response is that...?
+
+## POINTER 5
+<STR>(EST_P)
+Will you tell us what you know?
+
+## POINTER 6
+
+Are ya sure that's what ya wanna know? Why don't 
+I tell ya the measurements of that fine young 
+thing who works in the item shop, instead?
+
+## POINTER 7
+<STR>(RAV)
+Hmm, he drives a hard 
+bargain... Oof...!
+
+## POINTER 8
+<STR>(JUD)
+Before you tell us anything... You are 
+the one called Irmine, are you not?
+
+## POINTER 9
+
+Now now, let's not stand on formalities and such.
+
+## POINTER 10
+<STR>(RIT)
+...Hey, are you sure this old 
+coot's right in the head?
+
+## POINTER 11
+<STR>(YUR)
+So long as this is our only option, we 
+don't really have much of a choice.
+
+## POINTER 12
+<STR>(KAR)
+Is he really our only option...? 
+He seems a bit on the 
+sketchy side to me...
+
+## POINTER 13
+Irmine
+Who're ya callin' sketchy?! The 
+sketchiest thing around here is 
+your sorry excuse for a haircut!
+
+## POINTER 14
+<STR>(EST_P)
+<STR>(YUR)... I think I'm 
+ready to go now...
+
+## POINTER 15
+<STR>(YUR)
+Come on, perk up a little.<PAGE>Listen, old man. We're here 
+to ask you something serious. 
+Enough with the games.
+
+## POINTER 16
+Irmine
+I don't get anymore serious 
+than this, sonny!
+
+## POINTER 17
+<STR>(YUR)
+...Okay then, we're here to ask 
+you about the method for refining 
+a metal called Everlight.
+
+## POINTER 18
+Irmine
+If ya think I'm givin' that sorta info 
+away fer free, you're plain nutty. You've 
+gotta be nuttier than a...than a...
+
+## POINTER 19
+<STR>(RAV)
+...A fruitcake, perhaps? Those're pretty nutty.
+
+## POINTER 20
+<STR>(YUR)
+You want money? Or wait, you're 
+not trying to get us to break 
+you out of this joint, are you?
+
+## POINTER 21
+Irmine
+Nah, that stuff's for amateurs!
+
+## POINTER 22
+<STR>(YUR)
+Then, what is it?
+
+## POINTER 23
+Irmine
+What I'd really love is a fine home-cooked meal.
+
+## POINTER 24
+<STR>(KAR)
+What?
+
+## POINTER 25
+Irmine
+If you're too dumb to understand 
+the first time, it's not going 
+to help for me to say it again!
+
+## POINTER 26
+<STR>(RAV)
+Okay, the old goat's even startin' 
+ta grate on me, believe it or not.
+
+## POINTER 27
+<STR>(YUR)
+That does it. We're gonna 
+make this old lunatic the 
+best meal he's ever had.
+
+## POINTER 28
+<STR>(KAR)
+Yeah, but what should 
+we fix for him?
+
+## POINTER 29
+<STR>(EST_P)
+Why don't we try asking 
+whoever's in charge of 
+preparing his meals?

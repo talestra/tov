@@ -1,0 +1,122 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1271094949]
+Kozakura
+Las armas son la clase de objetos
+que vas a sintetizar más a menudo.<PAGE>Esto se debe a que muchas
+tienen habilidades especiales.
+<PAGE>Normalmente tendrás que usar tus 
+armas viejas como materia 
+prima para sintetizar las nuevas.<PAGE>Te sugiero que no tires
+ni vendas ningún arma
+que encuentres.<PAGE>En cambio, para sintetizar
+armaduras no necesitas usar las viejas.
+<PAGE>Así que cuando andes corto de gald, 
+es mejor que vendas primero las armaduras.
+
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1271095211]
+Kozakura
+¿Ves la sección titulada ”Secundaria”,
+debajo del menú de equipo?<PAGE>Además del arma principal,
+cada personaje puede llevar 
+un arma adicional.<PAGE>Por ejemplo, <STR>(YUR) puede equiparse
+guantes y <STR>(RAP) collares
+como arma adicional.<PAGE>Estas armas son muy valiosas
+y no se venden en las tiendas. 
+Solo puedes crearlas si las sintetizas.
+<PAGE>Es muy recomendable crear armas 
+adicionales porque poseen habilidades
+que te serán útiles durante el viaje.
+<PAGE>Además, también modifican 
+el aspecto de los personajes.
+¡Prueba distintas combinaciones!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1271095830]
+Kozakura
+Puedes sintetizar 
+un nuevo objeto aunque
+lo tengas equipado.<PAGE>Por ejemplo, no tienes que quitar 
+la almádena de madera del equipo 
+para crear una almádena de madera +1.<PAGE>Puedes sintetizar con el objeto
+equipado, pero ten en cuenta 
+que necesitarás materias primas.<PAGE>Antes de sintetizar un arma nueva,
+asegúrate de que has terminado de 
+aprender la habilidad de la equipada.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1271095830]
+Kozakura
+¿Sabes qué son
+los complementos?<PAGE>No son de mucha utilidad,
+pero pueden cambiar el aspecto
+físico de los personajes.<PAGE>Puedes sintetizar complementos
+para conseguir de nuevos. 
+¡Solo tienes que buscar la receta!<PAGE>¡Diviértete cambiando el
+estilo de tus personajes!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1271095830]
+Kozakura
+¿Has oído hablar de la
+habilidad “Mitad de daño”?<PAGE>Esta habilidad te permite
+reducir por dos el daño a los enemigos.<PAGE>Y ahora te preguntarás,
+”¿y eso para qué me sirve?!”<PAGE>Pues a veces puede ser útil si quieres
+usar un Ataque letal para acabar con
+un enemigo al que le quede poco HP.<PAGE>Recibes más objetos y experiencia
+si rematas a un enemigo
+con un Ataque letal.<PAGE>¡Esta habilidad puede resultar
+más útil de lo que piensas!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:miyu;time:1270330199]
+Kozakura
+Parece que puedes
+usar Límites.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1271095830]
+Kozakura
+¿Sabías que puedes usar
+ciertos objetos para aumentar
+tu nivel de Límites?<PAGE>Como, por ejemplo,
+los objetos ”Límite trío”
+y ”Límite cuarteto”.<PAGE>Estos dos objetos solo se pueden
+obtener mediante la síntesis.
+Podría serte útil recordar esto.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297529355]
+Kozakura
+¿Has visto alguna vez un
+enemigo más grande de lo normal
+acechando en las mazmorras?
+<PAGE>Son conocidos como «monstruos Giganto»,
+y son mucho más fuertes
+que los enemigos normales.
+<PAGE>No es moco de pavo vencer
+a uno de estos, e incluso a veces 
+conviene más salir corriendo.<PAGE>Además, aunque derrotes a uno,
+volverá a aparecer en la misma área
+al cabo de un rato.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1271096055]
+Kozakura
+¿Has oído hablar de las habilidades
+que cambian las artes?<PAGE>Cuando están activas, ciertas
+artes se transforman 
+en otras diferentes.<PAGE>Por ejemplo, con la habilidad
+”Cadena” activada, el arte ”Filo azur”
+se transformará en ”Tormenta azur”.<PAGE>Algunas artes pueden requerir
+dos habilidades activadas para cambiar.<PAGE>Las artes alteradas se aprenden
+solas al utilizar otras una y otra vez.<PAGE>Una vez aprendidas, puedes seguir
+usando el arte sin necesidad
+de tener la habilidad activada.<PAGE>Deberías recordar esto,
+pues aumenta la profundidad
+táctica de cada batalla.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1271096055]
+Kozakura
+¿Te has fijado que 
+el tiempo cambia en 
+ciertas áreas del mundo?<PAGE>En los bosques de Quoi,
+por ejemplo, unas veces llueve
+y en otras hace sol.<PAGE>Algunos monstruos solo
+aparecen bajo circunstancias 
+meteorológicas concretas.<PAGE>Estos suelen dejar materias
+primas inusuales.<PAGE>Si quieres atrapar a alguno,
+espera en la posada más cercana
+o acampa hasta que cambie el tiempo.

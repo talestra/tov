@@ -1,0 +1,48 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122332]
+¿Por fin podremos ver a (FRE)?
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303562]
+(EST_P)
+Espero que nos encontremos por fin con 
+(FRE) cuando lleguemos a Puerto Nor.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122332]
+(YUR)
+Tengo el presentimiento de que
+se nos volverá a escapar...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122145]
+(KAR)
+Puede que ya esté al pie de la
+colina, de vuelta a la capital.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303562]
+(EST_P)
+¡Pero (FRE) nos ha dejado una carta! 
+¡Seguro que nos está esperando!
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303562]
+(YUR)
+Ya veremos...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122145]
+(RIT)
+¿Por qué tenemos que pasar
+por un sitio tan engorroso?
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303562]
+(KAR)
+¡Es culpa tuya!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122145]
+(RIT)
+¡¿Q-Qué otra cosa podía haber hecho?!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122145]
+(RIT)
+¡Deja de culpar a los demás y sigamos!
+¡O si no sí que acabaremos por perderlo!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122145]
+(EST_P)
+V-Vale. Vayamos cuanto antes a Puerto Nor.

@@ -1,0 +1,316 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS06_007)Did you hear something?
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS06_008)My feet feel cold all of a sudden... 
+Oh no! Is this the curse?!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS06_009)What sort of curse is it supposed to be, anyway?
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS06_010)The voices of corpses buried beneath
+the trees creep up and lure us to our
+doom...
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS06_011)Oh, brother.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS06_012)...What's that?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS06_013)A blastia? What's it doing 
+in a place like this?
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS06_014)Let's take a break.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS06_015EA)I-I'm all right.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS06_015EB)Huh? What's this?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS06_016)Ugh!
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS06_017)Aaah!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS06_018)<STR>(EST_P)!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS06_019)Damn, that's bitter.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS06_020)You all right?
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS06_021)Ooh...my head feels a little... 
+I'll be fine.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS06_022)What happened to me...?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS06_023)You just fell over all of a 
+sudden. Don't you remember?
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS06_024)Perhaps it was the aer 
+that made me dizzy.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS06_025)Aer. That's sort of like the fuel 
+that powers the blastia, right?<PAGE><VOICE>(VS06_026)I heard that even though we can't see it, 
+it's scattered through the atmosphere.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS06_027)Yes, that's aer.<PAGE><VOICE>(VS06_028)I read once that dense 
+aer can have negative 
+effects on people.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS06_029)Hmm. Maybe that's 
+what started the rumor 
+of the curse.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS06_030)Hey, you only just woke up. 
+You should rest a bit more.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS06_031)But I can't. If we don't catch 
+up with <STR>(FRE) soon...
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS06_032)And what if you collapse again, and this
+time you're out for the whole night?
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS06_033)...You're right. 
+I'm sorry.
+
+## POINTER 26
+<STR>(EST_P)
+<VOICE>(VS06_034)...Ugh.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS06_035)Heh, I suppose we'll never get 
+full trying to eat these.
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS06_036)It's delicious.
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS06_037)Hold on a sec. I can make 
+something simple.
+
+## POINTER 30
+<STR>(EST_P)
+<VOICE>(VS06_038)You can cook, <STR>(YUR)?
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS06_039)I'm not exactly a royal chef. 
+I just have a few recipes 
+I learned growing up.
+
+## POINTER 32
+<STR>(EST_P)
+<VOICE>(VS06_040)Aren't you worried at all 
+that <STR>(FRE) is in danger?
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS06_041)Huh? Does it look that way?
+
+## POINTER 34
+<STR>(EST_P)
+<VOICE>(VS06_042)Well...yes.
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS06_043)Honestly, I'm not worried about 
+him. He's always managed to 
+take care of himself.<PAGE><VOICE>(VS06_044)Actually, it's the guys who are 
+after him I feel sorry for.
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS06_045)What do you mean?
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VS06_046)Ever since we were kids, I've never 
+been able to beat <STR>(FRE) at anything. 
+Swords, racing, whatever.<PAGE><VOICE>(VS06_047)After he'd won, he'd always 
+have the nerve to say, "You 
+all right, <STR>(YUR)?"
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS06_048)That must be nice... 
+I've never had anyone 
+like that in my life.
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS06_049)You can count yourself lucky.
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS06_050)Well, dinner's ready.
+
+## POINTER 41
+<STR>(EST_P)
+<VOICE>(VS06_051)Thank you for the meal.
+
+## POINTER 42
+<STR>(YUR)
+<VOICE>(VS06_052)It wasn't anything special.
+
+## POINTER 43
+<STR>(EST_P)
+<VOICE>(VS06_053)I thought it was very tasty. 
+I can't imagine being able 
+to cook anything myself.
+
+## POINTER 44
+<STR>(YUR)
+<VOICE>(VS06_054)It's just like using a sword or magic. 
+You've got to learn it by doing it.
+
+## POINTER 45
+<STR>(YUR)
+<VOICE>(VS06_055)You just need to practice 
+with a few recipes. You'll be 
+cooking before you know it.
+
+## POINTER 46
+<STR>(EST_P)
+<VOICE>(VS06_056)Practice with recipes?
+
+## POINTER 47
+<STR>(YUR)
+<VOICE>(VA090_004)Here, I'll show you 
+how it's done. Watch.
+
+## POINTER 48
+<STR>(YUR)
+<VOICE>(VA090_005)Cooking clears your mind. 
+And it's great for regaining 
+lost energy.<PAGE><VOICE>(VA090_006)Cooking has a lot of other 
+effects, as well.<PAGE><VOICE>(VA090_007)This is pretty much 
+everything I know how 
+to cook right now.
+
+## POINTER 49
+<STR>(YUR)
+<VOICE>(VA090_008)So, in order to make a sandwich,
+you'll need bread and an egg.<PAGE><VOICE>(VA090_009)Which we just happen 
+to have right here!
+
+## POINTER 50
+<STR>(YUR)
+<VOICE>(VA090_010)After choosing the 
+ingredients, it's 
+time to cook!
+
+## POINTER 51
+<STR>(YUR)
+<VOICE>(VA090_011)And...there you are! 
+A delicious meal!
+
+## POINTER 52
+<STR>(EST_P)
+<VOICE>(VA090_012)You're so good at that...
+I'm not sure I'd be able to 
+get that good at cooking.
+
+## POINTER 53
+<STR>(YUR)
+<VOICE>(VA090_013)Well, it comes more naturally 
+to some people than others.<PAGE><VOICE>(VA090_014)Just because you have a 
+recipe, doesn't mean it'll always 
+turn out like you think.
+
+## POINTER 54
+<STR>(EST_P)
+<VOICE>(VA090_015)Really? So you 
+can mess it up...?
+
+## POINTER 55
+<STR>(YUR)
+<VOICE>(VA090_016)Well, you usually taste 
+your food while cooking...but 
+some people don't.
+
+## POINTER 56
+<STR>(EST_P)
+<VOICE>(VS06_058)Tasting?
+
+## POINTER 57
+<STR>(YUR)
+<VOICE>(VS06_059)You know, like when cooks 
+taste the food they make?
+
+## POINTER 58
+<STR>(YUR)
+<VOICE>(VS06_060)Well, you're a sheltered little 
+princess who's lived her life in 
+a castle. It's only normal.
+
+## POINTER 59
+<STR>(EST_P)
+<VOICE>(VS06_061)Sheltered little princess... 
+I suppose so.
+
+## POINTER 60
+<STR>(YUR)
+<VOICE>(VS06_062)What is it, <STR>(RAP)?
+
+## POINTER 61
+<STR>(YUR)
+<VOICE>(VS06_063)Well, shall we be going?
+
+## POINTER 62
+Information
+New recipes can be obtained when specific
+characters cook specific recipes. The higher
+a character's cooking level, the more likely
+they will discover a new recipe. The "Sandwich"
+recipe you've just obtained may evolve into
+a new recipe. Try different ways to discover
+new recipes!

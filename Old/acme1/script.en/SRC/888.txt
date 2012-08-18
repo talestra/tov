@@ -1,0 +1,26 @@
+## POINTER 0
+<STR>(RIT)
+Oh! Look, it's 
+Giovanni! Hey 
+Giovanni!
+
+## POINTER 1
+Giovanni
+Oh, it's you! Th-the Collector's 
+Book...is, is it...?!
+
+## POINTER 2
+<STR>(EST_P)
+Yes, we've finished. Sorry 
+to keep you waiting!
+
+## POINTER 3
+Giovanni
+Holy cow!
+W-why d-don't we 
+t-take our conv-v-versation 
+out of the street...<PAGE>And g-go to my room at the inn..
+
+## POINTER 4
+<STR>(RIT)
+Get a hold of yourself, man!

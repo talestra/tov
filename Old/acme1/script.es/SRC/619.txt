@@ -1,0 +1,139 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(KAR)
+¡Chicos, mirad!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662470]
+Sebastian
+Q-Q-Que alguien me ayude...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(YUR)
+Sebastian...
+Así que te
+escondías aquí.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662470]
+<STR>(RIT)
+Madre mía. No hay nada sencillo, ¿eh?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662470]
+Sebastian
+M-Me han salvado...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(RIT)
+A ver, ¿dónde has guardado
+todas las cosas con
+las que has huido?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662470]
+Sebastian
+N-No sé de qué me están hablando...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(JUD)
+Nos referimos a los objetos que le robaste
+a tu señora, por supuesto.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1292613537]
+Sebastian
+¡Oh, Dios mío, deténganse!<PAGE>¡Hablaré, hablaré!<PAGE>Iba de camino a buscarlas.
+Las guardé en un lugar en el cual
+nadie se molestaría en mirar.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(EST_P)
+¿Un lugar donde
+nadie miraría?...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662470]
+Sebastian
+Las dejé justo en el centro de las ruinas
+de una antigua ciudad que está
+en el continente de Tolbyccia.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(KAR)
+Me pregunto si se refiere a Caer Bocram.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(YUR)
+Seguramente. Supongo que no había un
+manual secreto con el resto de cosas.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1292011749]
+Sebastian
+¿Manual secreto?...
+¿Se refiere a la losa que tiene
+grabado un escrito antiguo?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662470]
+<STR>(KAR)
+¿Una losa?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1292011749]
+Sebastian
+Había una losa negra que tenía
+inscripciones en rojo,
+pero no pude leer nada...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(JUD)
+¿Seguro que no había nada más?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+Sebastian
+Es lo único que se me ocurre.
+El resto era dinero y
+unos cuantos cuadros viejos.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662470]
+<STR>(YUR)
+Quizá ese sea el manual
+secreto después de todo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(EST_P)
+Yo creía que un manual se
+parecería más a un libro.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662470]
+<STR>(KAR)
+¡Eh!
+¡Espere!<PAGE>¡¿N-No le perseguimos?!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(YUR)
+No estamos obligados
+a llevárnoslo.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662470]
+<STR>(RAV)
+Tenemos l'información que necesitábamos,
+asín que yo diría que vamos bien.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1292010318]
+<STR>(JUD)
+Supongo que no es de nuestra incumbencia.<PAGE>En cualquier caso, seguro que
+pasa un mal trago si va a
+corretear solo por un lugar así.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(RIT)
+Je, tienes razón. Me parece que
+va a recibir lo que se merece.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(YUR)
+Entonces nuestra
+próxima parada
+es Caer Bocram.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662470]
+<STR>(EST_P)
+Con un poco de suerte
+encontraremos el manual.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1292009892]
+<STR>(KAR)
+Sí.

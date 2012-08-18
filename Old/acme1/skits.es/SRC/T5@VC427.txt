@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252840719]
+El héroe de un nuevo pueblo
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115570]
+(RIT)
+Antes no había más que tierra yerma, pero ahora
+empieza a parecerse a un auténtico pueblo.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313311]
+(EST_P)
+Parece que también están construyendo
+cada vez más casas.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313311]
+(KAR)
+Pues sí. Mirad ese tejado de allí.
+El que está encima es el maestro del
+gremio de carpinteros.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313311]
+(KAR)
+Se ha enterado de lo de Aurnion y ha
+venido con sus ayudantes a echar una mano.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313311]
+(KAR)
+Hasta ha rechazado que les paguen
+por ello. ¡Qué generoso!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115570]
+(RAV)
+Mmm, ¡parece que esos carpinteros
+tan machotes lo'stán dando tó!
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313311]
+(RIT)
+Tú podrías aprender un
+par de cosillas de ellos.

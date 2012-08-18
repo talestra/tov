@@ -1,0 +1,102 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1295096079]
+<STR>(YUR)
+Oye, <STR>(EST_P).
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1295096079]
+<STR>(EST_P)
+Oh... <STR>(YUR).
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(YUR)
+¿Eso es lo que nos ibas
+a dar como paga?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1295096079]
+<STR>(EST_P)
+Sí, es un recuerdo de mi madre.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(YUR)
+¿Tu madre... falleció?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(EST_P)
+Sí, cuando era una niña.<PAGE>¿Y la tuya, <STR>(YUR)?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1295096816]
+<STR>(YUR)
+Murió cuando era un bebé.
+Ni siquiera recuerdo cómo era.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1295096079]
+<STR>(EST_P)
+Entiendo...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(EST_P)
+Creía que era especial por
+haber crecido sin padre ni madre.<PAGE>Pero tú, <STR>(KAR) e incluso <STR>(RIT)...
+También crecisteis solos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(YUR)
+Bueno, en mi caso todos en
+los barrios bajos me criaron.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(EST_P)
+En el mío los del castillo.<PAGE>Pero aun así a veces me sentía sola.
+Entonces miraba este recuerdo y pensaba
+en mi madre. Eso me animaba un poco.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1295096816]
+<STR>(YUR)
+¿Y se puede saber en qué estabas
+pensando al querer darnos algo
+tan importante? ¡Deberías cuidarlo!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(EST_P)
+Al empezar este viaje, me olvidé
+completamente del recuerdo de mi madre.<PAGE>Creo que fue porque
+estaba contigo, <STR>(YUR).<PAGE>Ya no lo necesitaba;
+dejé de sentirme sola.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(YUR)
+¿Te vas a deshacer de él?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1295098695]
+<STR>(EST_P)
+Algún día todos tendremos que dejar
+nuestros viejos recuerdos. Los demás son
+fuertes y no se preocupan por el pasado.<PAGE>Yo también tengo que crecer
+y seguir adelante.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(YUR)
+Si no lo quieres,
+deja que te lo guarde.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1295098695]
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(YUR)
+Algún día lo necesitarás,
+Querrás volver a evaluar quién eres.<PAGE>Lo necesitarás para que te recuerde
+quién eras y lo lejos que has llegado.<PAGE>No tomes decisiones precipitadas
+de las que te puedas arrepentir.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(EST_P)
+Tal vez...
+tengas razón.<PAGE>Pero hasta entonces,
+por favor, cuídalo, <STR>(YUR).<PAGE>Si pierdo mi rumbo,
+quizá necesite
+recurrir a él.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1297001285]
+<STR>(YUR)
+No habría nada malo en eso.

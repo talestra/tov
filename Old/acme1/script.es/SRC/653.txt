@@ -1,0 +1,61 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292971085]
+<STR>(YUR)
+<VOICE>(VA050_129)Eh.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1292971085]
+Duke
+<VOICE>(VA050_130)Me llevaré lo que te presté.<PAGE><VOICE>(VA050_131)Has permitido que vuelva a surgir.
+No se te puede confiar la Dein Nomos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292971085]
+<STR>(YUR)
+<VOICE>(VA050_132)¿Sabes qué es esa cosa?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1293984296]
+Duke
+<VOICE>(VA050_133)Un legado de los antiguos.
+Un blastia gigantesco que puede salvar
+el mundo de la perdición inminente.<PAGE><VOICE>(VA050_134)Sin embargo has permitido que caiga en manos
+que lo usarán para propósitos malvados.<PAGE><VOICE>(VA050_135)Todas las cosas deben volver a su lugar.
+Empezando por esa espada.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1292971085]
+<STR>(YUR)
+<VOICE>(VA050_136)Espera.<PAGE><VOICE>(VA050_137)Si hay que devolverla
+a su lugar, ¿no tendría
+que dársela a<STR>(EST_P)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293984296]
+Duke
+<VOICE>(VA050_138)Nada sería más inútil
+que dársela a alguien que
+no puede usarla como debiera.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755976]
+<STR>(EST_P)
+<VOICE>(VA050_139)
+Para nosotros, la Dein Nomos
+jamás ha sido nada más que
+una prueba de linaje imperial.<PAGE><VOICE>(VA050_140)Así que tal vez es más conveniente
+que la blanda usted.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1292971085]
+Duke
+<VOICE>(VA050_141)...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293984296]
+<STR>(YUR)
+<VOICE>(VA050_142)Si no te importa,
+¿me la podrías dejar
+un poco más?<PAGE><VOICE>(VA050_143)Vamos a detener a Alexei nosotros mismos.
+Y para poder hacerlo la necesitamos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293984296]
+Duke
+<VOICE>(VA050_144)Muy bien. Sin embargo,
+si vacilas ante la tarea
+a la que te enfrentas...<PAGE><VOICE>(VA050_145)volveré para reclamar la espada.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1292971085]
+<STR>(YUR)
+<VOICE>(VA050_146)Entendido.<PAGE><VOICE>(VA050_147)Vámonos.

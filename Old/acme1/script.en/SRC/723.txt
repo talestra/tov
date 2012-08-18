@@ -1,0 +1,71 @@
+## POINTER 0
+<STR>(KAR)
+Uryaaah! 
+Ryeeeah!
+
+## POINTER 1
+Harry
+Okay! One more attack, 
+and then take a break!
+
+## POINTER 2
+<STR>(KAR)
+
+Right!
+Dragon...Uppercuuuut!!
+
+## POINTER 3
+<STR>(KAR)
+*Pant* *pant* *pant*
+
+## POINTER 4
+Harry
+It looks like you've gotten pretty 
+good at using his sword...
+
+## POINTER 5
+<STR>(KAR)
+M-maybe... But...I still 
+have a long way to go.
+
+## POINTER 6
+<STR>(KAR)
+Huh...?
+
+## POINTER 7
+Harry
+Hmmm...looks like you've 
+surpassed me.
+
+## POINTER 8
+<STR>(KAR)
+What do you mean?
+
+## POINTER 9
+Harry
+You've learned the weapon arte 
+that's stored in that weapon.
+
+## POINTER 10
+<STR>(KAR)
+Oh, I see...but what's 
+this arte...?
+
+## POINTER 11
+Harry
+The Don used this weapon. It's 
+gotta be a good one, right?
+
+## POINTER 12
+<STR>(KAR)
+Yeah...seems like it.
+
+## POINTER 13
+Harry
+You've surpassed me... You won't need 
+to borrow this weapon anymore, I think.
+
+## POINTER 14
+<STR>(KAR)
+Yeah...right. Thank 
+you, Harry.

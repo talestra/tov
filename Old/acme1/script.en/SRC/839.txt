@@ -1,0 +1,41 @@
+## POINTER 0
+<STR>(KAR)
+H-hey...
+
+## POINTER 1
+Barrelow X
+Wh-wh-what do you want, jarnk! 
+I-I'm not lonely or anything, jarnk!
+
+## POINTER 2
+<STR>(KAR)
+You know, I think 
+you're really cool.
+
+## POINTER 3
+Barrelow X
+...Th-that's obvious, jarnk! 
+Why are you saying such 
+obvious things, jarnk?!<PAGE>I'm shocked at how obvious 
+that is, jarnk!
+
+## POINTER 4
+<STR>(KAR)
+I was thinking maybe we 
+could be friends...
+
+## POINTER 5
+Barrelow X
+...I-if you insist, I suppose 
+I could make you my 
+henchman, jarnk...
+
+## POINTER 6
+<STR>(KAR)
+Uh, I wanted to be your friend, 
+not your henchman...<PAGE>Anyway, let's go back to 
+Professor Sicily, okay?
+
+## POINTER 7
+Barrelow X
+Okay, jarnk!

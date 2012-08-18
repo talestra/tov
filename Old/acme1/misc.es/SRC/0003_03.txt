@@ -1,0 +1,305 @@
+## POINTER 304 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Títulos de skits
+
+## POINTER 305 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Subtítulos en skits
+
+## POINTER 306 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+Subtítulos en vídeos
+
+## POINTER 307 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Ajustes de brillo
+
+## POINTER 308 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Seleccionar fuente
+
+## POINTER 309 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Bazar de Xbox LIVE
+
+## POINTER 310 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+Volumen de skits
+
+## POINTER 311 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+Volumen de vídeos
+
+## POINTER 312 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Despacio
+
+## POINTER 313 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Normal
+
+## POINTER 314 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Rápido
+
+## POINTER 315 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+De golpe
+
+## POINTER 316 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Fácil
+
+## POINTER 317 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Normal
+
+## POINTER 318 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Difícil
+
+## POINTER 319 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+Desconocida
+
+## POINTER 320 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Normal
+
+## POINTER 321 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Invertido
+
+## POINTER 322 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Envolvente
+
+## POINTER 323 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Estéreo
+
+## POINTER 324 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Mono
+
+## POINTER 325 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+ON
+
+## POINTER 326 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+OFF
+
+## POINTER 327 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+A la pantalla de configuración
+
+## POINTER 328 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Tipo A
+
+## POINTER 329 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Tipo B
+
+## POINTER 330 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Tipo C
+
+## POINTER 331 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Invertido
+
+## POINTER 332 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Invertido
+
+## POINTER 333 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Invertido
+
+## POINTER 334 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Invertido
+
+## POINTER 335 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+Cambia la velocidad a la que se muestran los mensajes.
+
+## POINTER 336 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Cambia la dificultad de las batallas.
+
+## POINTER 337 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Activa o desactiva la vibración del mando.
+
+## POINTER 338 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Selecciona el tipo de rotación de la cámara.
+
+## POINTER 339 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Cambia la configuración de los botones para las batallas.
+
+## POINTER 340 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Elige el tipo de sonido.
+
+## POINTER 341 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Ajusta el volumen de la música de fondo.
+
+## POINTER 342 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Ajusta el volumen de los efectos de sonido.
+
+## POINTER 343 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Ajusta el volumen de los efectos de sonido en las batallas.
+
+## POINTER 344 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Actívalo para ver todo el grupo de enemigos antes de la batalla.
+
+## POINTER 345 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Actívalo para ver las batallas con una cámara dinámica.
+
+## POINTER 346 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Actívalo para poder ver los límites del campo de batalla.
+
+## POINTER 347 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Ajusta el volumen de las voces en las batallas.
+
+## POINTER 348 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+Ajusta el volumen de las voces en los vídeos.
+
+## POINTER 349 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Activa los nombres de tiendas, posadas, etc. cuando te acercas.
+
+## POINTER 350 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265230713]
+Selecciona para ver los títulos de las skits.
+
+## POINTER 351 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Activa los subtítulos durante las skits.
+
+## POINTER 352 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+Activa los subtítulos durante los vídeos.
+
+## POINTER 353 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815868]
+Ajusta el brillo de la pantalla.
+
+## POINTER 354 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Selecciona entre tres fuentes distintas
+para los mensajes del juego.
+
+## POINTER 355 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Descarga contenidos del Bazar de Xbox LIVE.
+
+## POINTER 356 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Ajusta el volumen de las voces en las skits.
+
+## POINTER 357 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265230713]
+Ajusta el volumen de las voces en los vídeos.
+
+## POINTER 358 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Ataque normal
+
+## POINTER 359 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Artes
+
+## POINTER 360 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Defensa
+
+## POINTER 361 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Menú
+
+## POINTER 362 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Elegir objetivo
+
+## POINTER 363 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Cancelar uso de objeto
+
+## POINTER 364 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Ataque letal
+
+## POINTER 365 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Movimiento libre
+
+## POINTER 366 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Reserva
+
+## POINTER 367 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Reserva
+
+## POINTER 368 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+1J
+
+## POINTER 369 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+2J
+
+## POINTER 370 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+3J
+
+## POINTER 371 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+4J
+
+## POINTER 372 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Por defecto
+
+## POINTER 373 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265230713]
+Aceptar
+
+## POINTER 374 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+<06>(RBD)Página siguiente <06>(RBR) Volver
+
+## POINTER 375 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+<06>(RBR) Volver
+
+## POINTER 376 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+<06>(RBD)Confirmar　
+<06>(RBR)Volver <06>(RBL)Cambiar muestra　<06>(L2)
+<06>(R2)Categoría <06>(L1)<06>(R1)Girar modelo
+
+## POINTER 377 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+<06>(RBD)Tabla de ranking <06>(RBR)Volver
+
+## POINTER 378 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1264184647]
+<06>(RBD)Confirmar  <06>(RBR) Volver
+
+## POINTER 379 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+<06>(RBR) Volver
+
+## POINTER 380 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+<06>(RBD) Confirmar
+
+## POINTER 381 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+<06>(RBD)<06>(RBR)<06>(RBL)<06>(RBU)<06>(L2)<06>(R2)
+<06>(L1)<06>(R1) Configuración de botones
+
+## POINTER 382 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Nada
+
+## POINTER 383 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Fleck
+
+## POINTER 384 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Rockra
+
+## POINTER 385 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Strihm
+
+## POINTER 386 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Laytos
+
+## POINTER 387 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Goldos
+
+## POINTER 388 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Sandor
+
+## POINTER 389 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Ailus
+
+## POINTER 390 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Twory
+
+## POINTER 391 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Nhosing
+
+## POINTER 392 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Kaon
+
+## POINTER 393 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Chrocs
+
+## POINTER 394 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246095]
+No hay un símbolo disponible.
+
+## POINTER 395 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359085]
+Incrementa el ataque físico durante un Límite.
+
+## POINTER 396 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359085]
+Incrementa la defensa física durante un Límite.
+
+## POINTER 397 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359085]
+Incrementa la movilidad durante un Límite.
+
+## POINTER 398 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359085]
+Recupera HP durante un Límite.
+
+## POINTER 399 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Incrementa el gald obtenido tras la batalla
+si se gana durante un Límite.
+
+## POINTER 400 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359085]
+Incrementa el ataque mágico durante un Límite.
+
+## POINTER 401 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359085]
+Incrementa la defensa mágica durante un Límite.
+
+## POINTER 402 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Incrementa la EXP ganada tras la batalla
+si se gana durante un Límite.
+
+## POINTER 403 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263818595]
+Este símbolo no tiene efectos especiales.

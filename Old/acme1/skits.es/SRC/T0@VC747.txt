@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1251703257]
+La maldad del magistrado
+
+## POINTER 1 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329242]
+(RIT)
+Una ciudad donde el magistrado puede hacer lo que
+le dé la real gana deja un pésimo sabor de boca.
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329242]
+(YUR)
+Parece inevitable que haya siempre algún
+imperial déspota en todas partes.
+
+## POINTER 3 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329242]
+(YUR)
+Lo que hemos visto al llegar a este pueblo...
+Siempre pasan cosas así en los barrios bajos.
+
+## POINTER 4 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329242]
+(KAR)
+Me alegro de vivir fuera del Imperio. No creo
+que pudiera soportar esto durante mucho tiempo...
+
+## POINTER 5 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329242]
+(EST_P)
+¿Por qué hace el magistrado cosas así?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100204]
+(YUR)
+Vamos, no debemos dejar que las malas
+vibraciones de esta ciudad nos afecten.
+
+## POINTER 7 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329242]
+(RIT)
+Así es.
+
+## POINTER 8 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329242]
+(EST_P)
+De acuerdo...

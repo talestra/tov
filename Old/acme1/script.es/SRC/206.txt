@@ -1,0 +1,192 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+<STR>(RIT)
+<VOICE>(VS18_105)Parece que ese tal <STR>(FRE) 
+no anda por aquí.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+<STR>(KAR)
+<VOICE>(VS18_106)¿Eso quiere decir que por ahora te quedas con nosotros?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+<STR>(EST_P)
+<VOICE>(VS18_107)Pues, yo...
+¿Pasaría algo si lo hiciera?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+<STR>(YUR)
+<VOICE>(VS18_108)<STR>(KAR), no le des ideas a la princesita.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+Alexei
+<VOICE>(VS18_109)No podéis hacer lo que os
+venga en gana. Su Alteza
+debe volver a la capital.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+Alexei
+<VOICE>(VS18_110)<STR>(FRE) acaba de marcharse
+para atender otros asuntos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+Alexei
+<VOICE>(VS18_111)Ahora bien. <STR>(RIT) Mordio,
+nos gustaría que investigaras
+la avería del blastia de ayer.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+<STR>(RIT)
+<VOICE>(VS18_112)Es inútil. Ya le he echado un ojo
+esta mañana y no he podido sacar
+en claro nada más.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273842136]
+Alexei
+<VOICE>(VS18_113)No, lo que te pedimos es que vayas
+al bosque de Keiv Moc.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+<STR>(KAR)
+<VOICE>(VS18_114)¿Eh, a Keiv Moc? Ah, claro,
+las plantas de aquí tienen el mismo aspecto
+que las que hay en ese bosque.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+Alexei
+<VOICE>(VS18_115)Se nos ha informado sobre mutaciones en
+los árboles y sobre un aumento de monstruos,
+tanto en número como en ferocidad.<PAGE><VOICE>(VS18_116)Hemos enviado emisarios a la capital,
+pero llevará mucho tiempo encontrar
+a un mago capacitado.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1283187857]
+<STR>(RIT)
+<VOICE>(VS18_117)Mi especialidad son los blastias.
+No sé nada sobre plantas.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+Alexei
+<VOICE>(VS18_118)Recuerda su conexión con el aer.
+Supongo que eso entra dentro
+de tus conocimientos.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+<STR>(RIT)
+<VOICE>(VS18_119)Además... S-Si <STR>(EST_P) vuelve
+a la capital, quiero ir con ella.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+<STR>(EST_P)
+<VOICE>(VS18_120)¿Qué quieres decir?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+Alexei
+<VOICE>(VS18_121)Eres una investigadora del laboratorio
+imperial de blastias. Debes encargarte
+de las tareas que te son asignadas.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+<STR>(EST_P)
+<VOICE>(VS18_122)Mm... No debería haber ningún
+problema si la acompaño hasta
+el bosque, ¿no?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+Alexei
+<VOICE>(VS18_123)Princesa, por favor. No hagáis
+sugerencias que no pueden cumplirse.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+<STR>(EST_P)
+<VOICE>(VS18_124)Si esto tiene que ver con el aer,
+entonces mis artes curativas
+podrían ser de utilidad.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+Alexei
+<VOICE>(VS18_125)Sí, lo serían...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+<STR>(EST_P)
+<VOICE>(VS18_126)¡Por favor, Alexei!
+Déjeme ayudarlos.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+Alexei
+<VOICE>(VS18_127)Alteza, no puedo permitir
+que vayáis a un bosque
+tan peligroso.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+<STR>(EST_P)
+<VOICE>(VS18_128)Bueno, y si...
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+<STR>(EST_P)
+<VOICE>(VS18_129)<STR>(YUR), ¿puedes venir con nosotras?
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+<STR>(YUR)
+<VOICE>(VS18_130)¿Yo?
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+<STR>(EST_P)
+<VOICE>(VS18_131)Si <STR>(YUR) viniera, no tendría
+de qué preocuparse, ¿verdad?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+Alexei
+<VOICE>(VS18_132)Joven, escolta a la Princesa, por favor.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+Alexei
+<VOICE>(VS18_133)Te lo pido solo porque sé que
+una vez ansiabas formar parte
+de los Caballero Imperiales.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273842136]
+<STR>(YUR)
+<VOICE>(VS18_134)De todos mis enchufes, ha tenido que...
+Yo no le dije a nadie que contara conmigo.
+Me estáis empujando a ello.
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+Alexei
+<VOICE>(VS18_135)Supongo que puedo interpretar esa respuesta
+como que aceptas este acuerdo.
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+<STR>(YUR)
+<VOICE>(VS18_136)Pero hay algo que tengo que hacer
+antes. Iremos a ese bosque después
+de pasar por Dahngrest.
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+Alexei
+<VOICE>(VS18_137)Muy bien.
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+Khroma
+<VOICE>(VS18_138)Excelencia...
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+Alexei
+<VOICE>(VS18_139)Creo que <STR>(FRE) se esperaba
+este resultado.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+<STR>(YUR)
+<VOICE>(VS18_140)¿Eh? ¿Que esperaba el qué?
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+Alexei
+<VOICE>(VS18_141)Me dijo que te diera este mensaje:
+«Cuida de Su Alteza».
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293034]
+<STR>(KAR)
+<VOICE>(VS18_142)¡De acuerdo! ¡Hacia el bosque de
+Keiv Moc con escala en Dahngrest!
+
+## POINTER 37 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273494864]
+Alexei
+<VOICE>(VS18_143)Tengo un trabajito para ti.

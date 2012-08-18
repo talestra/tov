@@ -1,0 +1,55 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS35_001)Our genius mage is givin' 
+the ceres blastia her 
+undivided attention.<PAGE><VOICE>(VS35_002)Sounds like the core 
+on the new blastia's 
+pretty much totalled.
+
+## POINTER 1
+Tokunaga
+<VOICE>(VS35_003)I just finished replacing 
+the ceres blastia with 
+a new model.<PAGE><VOICE>(VS35_004)I'd planned to do it ever 
+since we ran into the 
+ghost ship, just to make sure...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS35_005)So, luckily, we still had 
+the old blastia around?<PAGE><VOICE>(VS35_006)Either way, looks 
+like we'll be drifting 
+out here for now.
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS35_007)Looks that way.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS35_008)What are <STR>(KAR) and <STR>(EST_P) up to?
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS35_009)They're a bit down in the dumps. 
+Why don't ya go check in on 'em?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS35_010)You'd probably be better at 
+cheering them up, old man.
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS35_011)You know I'm not 
+cut out for that stuff.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS35_012)Guess I've had a hand 
+in dampening the 
+mood around here, too.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS35_013)Might as well see how they're doing.

@@ -1,0 +1,79 @@
+## POINTER 0
+<STR>(YUR)
+You're always out 
+walking around, 
+aren't you?
+
+## POINTER 1
+<STR>(JUD)
+Yes, I guess I'm a pretty 
+restless person.
+
+## POINTER 2
+<STR>(YUR)
+That's unexpected.
+
+## POINTER 3
+<STR>(JUD)
+You seem to have some 
+problems staying put, 
+yourself.
+
+## POINTER 4
+<STR>(YUR)
+I'm pretty restless, 
+myself.
+
+## POINTER 5
+<STR>(JUD)
+That's...not so unexpected, I think.
+
+## POINTER 6
+<STR>(YUR)
+...
+
+## POINTER 7
+<STR>(JUD)
+Maybe it's the wanderlust coming 
+back to me from when I used to fly 
+around with Ba'ul all the time.
+
+## POINTER 8
+<STR>(YUR)
+Yeah, back when you were wearing 
+that weird white armor...
+
+## POINTER 9
+<STR>(JUD)
+Yes.
+
+## POINTER 10
+<STR>(JUD)
+Are you going to go look 
+for Phaeroh by yourself?
+
+## POINTER 11
+<STR>(YUR)
+Nah
+
+## POINTER 12
+<STR>(JUD)
+Oh, then where were you 
+planning on going?
+
+## POINTER 13
+<STR>(YUR)
+Only a walk.
+
+## POINTER 14
+<STR>(JUD)
+Oh, I see.
+
+## POINTER 15
+<STR>(YUR)
+Doesn't it seem like we've been 
+meeting this way a lot recently?
+
+## POINTER 16
+<STR>(JUD)
+No, must be your imagination.

@@ -1,0 +1,352 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551424]
+<STR>(RAV)
+<VOICE>(VS44_058)Pero ¿qué...?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(KAR)
+<VOICE>(VS44_059)La Guardia Real ha
+caído derrotada...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+Zagi
+<VOICE>(VS44_060)¡Sabes que odio esperar,
+<STR>(YUR) Lowell!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(JUD)
+<VOICE>(VS44_061)Tú eres el que ha eliminado
+a toda esta gente.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+Zagi
+<VOICE>(VS44_062)No quiero que nadie
+se meta en mi camino.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(YUR)
+<VOICE>(VS44_063)No tenemos tiempo
+para jugar contigo.<PAGE><VOICE>(VS44_064)¿Dónde está Alexei? ¿Adónde
+se ha llevado a <STR>(EST_P)?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+Zagi
+<VOICE>(VS44_065)Je, je, je.
+¡No está aquí!
+Nunca lo ha estado.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(RIT)
+<VOICE>(VS44_066)¡¿Qué?!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(YUR)
+<VOICE>(VS44_067)
+¡Maldita sea! ¡Alexei, bastardo! 
+Así que ha usado este mastodonte
+este como señuelo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(RAV)
+<VOICE>(VS44_068)Je, hay admitirle el mérito...
+Nos atrae a nosotros y a los
+Caballeros hasta er Heracles,<PAGE><VOICE>(VS44_069)y mientras, él va
+y s'escabulle por atrás...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(RIT)
+<VOICE>(VS44_070)Ya ves, justo cuando
+creía que ya no podía
+odiar más a ese tío.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+Zagi
+<VOICE>(VS44_071)¡Eh! ¡Un minuto! 
+¡¿No os olvidáis
+de alguien?!<PAGE><VOICE>(VS44_072)¡A callar! ¡Que dé
+comienzo la fiesta!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(YUR)
+<VOICE>(VS44_073)Odio tener que repetirme.
+¡No tenemos tiempo para
+ti, así que date el piro!<PAGE><VOICE>(VS44_074)Si te interpones en nuestro
+camino, más te vale estar
+preparado para recibir una paliza.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+Zagi
+<VOICE>(VS44_075a)¡Ja, ja, ja!...
+Bien, <STR>(YUR)...<PAGE><VOICE>(VS44_075b)¡Ódiame! ¡Vamos!
+¡Ódiame!<PAGE><VOICE>(VS44_076)¡No hay mejor especia en
+todo el mundo! ¡Ja, ja, ja!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(KAR)
+<VOICE>(VS44_077)¿Se pone en medio solo
+para hacernos enfadar?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(JUD)
+<VOICE>(VS44_078)No tiene remedio.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+Zagi
+<VOICE>(VS44_079)¡Ahora... acabemos con
+esto, <STR>(YUR) Lowell!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+Zagi
+<VOICE>(VS44_080)¡Urgh! Je...
+Eres increíble...
+¡Yuuuuriiii!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(YUR)
+<VOICE>(VS44_081)Tienes problemas de
+dependencia, ¿lo sabías? 
+¡Hasta aquí hemos llegado!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+Zagi
+<VOICE>(VS44_082)¡Ugh!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(YUR)
+<VOICE>(VS44_083)¡<STR>(RIT)!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(RIT)
+<VOICE>(VS44_084)¡Ahora voy!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(RIT)
+<VOICE>(VS44_085)¡Ya! ¡Hecho!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(JUD)
+<VOICE>(VS44_086)Se ha parado.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(RAV)
+<VOICE>(VS44_087)Esta es nuestra maga prodigio.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(YUR)
+<VOICE>(VS44_088)Ahora <STR>(FRE) debería
+poder hacerse
+con el Heracles.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(RIT)
+<VOICE>(VS44_089)<STR>(EST_P)... ¿Adónde
+se la habrán llevado?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(KAR)
+<VOICE>(VS44_090)<STR>(RIT)...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(RIT)
+<VOICE>(VS44_091)¡Alexei la usa
+como un juguete!<PAGE><VOICE>(VS44_092)Si sigue obligando
+a <STR>(EST_P) a
+usar su poder...<PAGE><VOICE>(VS44_093)¡Puede que acabe
+desencadenando el adephagos!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(YUR)
+<VOICE>(VS44_094)No en nuestra presencia.<PAGE><VOICE>(VS44_095)Estamos aquí
+para eso, ¿no?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(JUD)
+<VOICE>(VS44_096)No hay un momento
+que perder.<PAGE><VOICE>(VS44_097)El Heracles también
+debe usar un
+blastia hermes.<PAGE><VOICE>(VS44_098)Solo eso podría
+dar potencia a
+algo tan grande.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(KAR)
+<VOICE>(VS44_099)¡Hay que encontrar
+a Alexei, y rápido!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(JUD)
+<VOICE>(VS44_100)Ba'ul puede seguir
+la distorsión de aer.<PAGE><VOICE>(VS44_101)Si obligan a <STR>(EST_P)
+a usar su poder, podremos
+encontrarla.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(YUR)
+<VOICE>(VS44_102)De acuerdo.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(YUR)
+<VOICE>(VS44_103)¡Aaah!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(KAR)
+<VOICE>(VS44_104)¡Uaah!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(RIT)
+<VOICE>(VS44_105)¡Aah!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(RAV)
+<VOICE>(VS44_106)¡Oaaah!
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(JUD)
+<VOICE>(VS44_107)¡Oh!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(RAP)
+<VOICE>(VS44_108)¡Auuuu!
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+Zagi
+<VOICE>(VS44_109)¡Jaaa, ja! ¡Yuri! 
+¡Esto aún no ha acabado!
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(RIT)
+<VOICE>(VS44_110)¡El panel de control!
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(RAV)
+<VOICE>(VS44_111)¡Nos movemos de nuevo!
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+Zagi
+<VOICE>(VS44_112)¡Jajajá! ¡<STR>(YUR)! 
+¡Vuela conmigo!
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(YUR)
+<VOICE>(VS44_113)Argh... 
+Mi cuerpo...
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(KAR)
+<VOICE>(VS44_114)Es inútil... No podemos tratar
+a todos a la vez sin las artes
+curativas de <STR>(EST_P).
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(JUD)
+<VOICE>(VS44_115)¡No podemos
+dejar que entre!
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+Zagi
+<VOICE>(VS44_116a)¡Ah, sí! ¡Es maravilloso!<PAGE><VOICE>(VS44_116b)¡Vamos allá!
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+Zagi
+<VOICE>(VS44_117)¡Uuf!
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+Zagi
+<VOICE>(VS44_118)¡Aaaah!
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+Yeager
+<VOICE>(VS44_119)Oh, jo, jo. Qué grrito
+máss cuco ha soltado.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(YUR)
+<VOICE>(VS44_120)¡Yeager! ¡¿Qué estás haciendo?!
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+Yeager
+<VOICE>(VS44_121)Sería muy malo; sí, muy malo
+parra el negossio si el Imperrio
+ser volvierra muy poderrosso.
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+Gauche
+<VOICE>(VS44_122)Alexei se ha ido a Zaphias.
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+Droite
+<VOICE>(VS44_123)La Escalera de la Espada de Zaphias 
+alberga un secreto, ¿sabéis?
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+Yeager
+<VOICE>(VS44_124)Esstaba segurro de que
+necesitarría la Dein
+Nomos como llave.<PAGE><VOICE>(VS44_125)Ja, perro parrece que en
+vez de esso va a usarr
+a la prrincessita.
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(RIT)
+<VOICE>(VS44_126)¡¿Qué?!
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(JUD)
+<VOICE>(VS44_127)No creo que este sea buen
+momento para discutir esto.
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(RAV)
+<VOICE>(VS44_128)Tío, esto tiene mu mala pinta.
+A este paso acabará chafando
+los barrios bajos de Zaphias.
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(YUR)
+<VOICE>(VS44_129)¡<STR>(RIT)!
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(RIT)
+<VOICE>(VS44_130)¡Esto no pinta nada bien!
+¡El cacharro este se ha vuelto loco!
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(KAR)
+<VOICE>(VS44_131)¡Tenemos que cortar
+su fuente de energía!
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+Yeager
+<VOICE>(VS44_132)¡Oss deseo toda la suerrte
+del mundo con eso! 
+¡Así que... adiosito!
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(KAR)
+<VOICE>(VS44_133)¡Oye, espera!
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(YUR)
+<VOICE>(VS44_134)Yeager... ¿Se puede saber
+qué es lo que pretende?
+
+## POINTER 65 [t:1;r:1;ru:memnoch;user:xander;time:1283521704]
+<STR>(JUD)
+<VOICE>(VS44_135)Ya pensaremos en eso
+luego. Ahora tenemos que
+detener el Heracles.
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:Lia;time:1283547125]
+<STR>(YUR)
+<VOICE>(VS44_136)Lo sé. Busquemos
+la sala de máquinas.
+
+## POINTER 67 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(KAR)
+<VOICE>(VS44_137)Yeager, ¡la próxima vez
+no te irás de rositas!
+
+## POINTER 68 [t:1;r:1;ru:memnoch;user:memnoch;time:1285275082]
+<STR>(RAV)
+<VOICE>(VS44_138)Solo yo debo atrapar a Yeager.
+Ni siquiera er jefe
+de Gran Vesperia.

@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292772194]
+<STR>(YUR)
+Te encantan los blastias, ¿verdad?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1292772194]
+<STR>(RIT)
+¡Oye, te he dicho que no toques a Victoria
+y menos con tus mugrientas manos!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511845]
+<STR>(KAR)
+¿Vic-victoria?
+¿Te refieres a este blastia?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1292772194]
+<STR>(YUR)
+¿Cómo es que te gustan tanto?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511845]
+<STR>(RIT)
+Pues... ¡Porque
+son divertidos!<PAGE>¡Cómo funcionan, sus teorías!...
+Agh, no sé.
+¡Nunca he pensado en ello!<PAGE>¿Puedes dar razones
+de por qué te gusta
+lo que te gusta?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1292772512]
+<STR>(YUR)
+Bueno, hay cosas que me gustan
+por que sí y punto.<PAGE>Supongo que la razón de por qué me gustan es porque... me gustan.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1292772512]
+<STR>(RIT)
+Exacto.

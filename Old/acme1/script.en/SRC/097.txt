@@ -1,0 +1,105 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS04_500)Man, it's bright.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS04_501)*Sigh* It's already morning. 
+I wasted an entire night.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS04_502)Looks like it led to the royal quarter.
+
+## POINTER 3
+<STR>(EST)
+<VOICE>(VS04_503)Everything looks so different 
+from the windows of the castle.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS04_504)Ah, come on. You sound 
+like this is your first time
+out of the castle.
+
+## POINTER 5
+<STR>(EST)
+<VOICE>(VS04_505)...Uh, well, I...
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS04_506)I guess a lady who lives in a 
+castle can't just take a walk 
+outside whenever she wants.
+
+## POINTER 7
+<STR>(EST)
+<VOICE>(VS04_507)Y-yes, you're right.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS04_508)Well, hey.  At least we
+made it out of the castle.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS04_509)Hah hah hah...
+
+## POINTER 10
+<STR>(EST)
+<VOICE>(VS04_510)Um. Was that not right?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS04_511)Nah...  It's fine...<PAGE><VOICE>(VS04_512)So <STR>(EST), what are you
+gonna do now that you're out?
+
+## POINTER 12
+<STR>(EST)
+<VOICE>(VS04_513)I'm going to find <STR>(FRE).
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS04_514)Do you know where he went?
+
+## POINTER 14
+<STR>(EST)
+<VOICE>(VS04_515)The other day, he said he was going 
+off on a knight's pilgrimage.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS04_516)Ohh, that thing.  
+Going around the cities of 
+the empire piling up good deeds?
+
+## POINTER 16
+<STR>(EST)
+<VOICE>(VS04_517)Yes. That's why I'm going to 
+the City of Blossoms, Halure.<PAGE><VOICE>(VS04_518)Halure is the first place that knights 
+traditionally visit on a pilgrimage.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS04_519)So you'll need to go outside the barrier.
+
+## POINTER 18
+<STR>(EST)
+<VOICE>(VS04_520)Have you ever been 
+beyond the barrier?
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS04_521)Little while back. I'd like to go
+but I can't just leave the 
+lower quarter like it is.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS04_522)Come on. I'll show you the 
+way out of town. It's on the 
+way to the lower quarter.
+
+## POINTER 21
+<STR>(EST)
+<VOICE>(VS04_523)Thank you!

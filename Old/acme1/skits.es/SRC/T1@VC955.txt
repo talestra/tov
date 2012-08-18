@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1251928979]
+No la arméis en Zaude
+
+## POINTER 1 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267435927]
+(RAV)
+Cuando alguien tan poderoso como Phaeroh te íce
+que no l'armes en Zaude, es que conviene hacerle caso.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266239957]
+(KAR)
+Aunque me gustaría que usara
+palabras más normales al hablar.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266239957]
+(YUR)
+Sin duda. Si fuera realmente tan peligroso,
+supongo que lo hubiera querido dejar bien claro.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266239957]
+(JUD)
+Tal vez era algo que a Phaeroh, a su manera,
+le resultaba difícil de expresar.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240121]
+(JUD)
+Se tomó la molestia de avisarnos. Eso demuestra
+al menos que se preocupa por nosotros, ¿no creéis?
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267435927]
+(YUR)
+¿Te refieres a que tal vez nos ha cogido argo d'aprecio?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240121]
+(JUD)
+Sí.

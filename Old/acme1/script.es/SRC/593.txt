@@ -1,0 +1,113 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1286563219]
+<STR>(EST_P)
+*Jadeo*
+¡Yur...!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291719813]
+<STR>(YUR)
+Ssh.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1292165963]
+Sebastian
+Gracias a la confusión que causó
+el grupo que enviasteis a mi rescate,
+pude escapar con un buen botín.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1286563219]
+Mimula
+Bien hecho, mi querido
+Sebastian.<PAGE>Por fin... Les daré una lección a esos idiotas imperiales
+por atreverse a menospreciar a mi familia.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1292165963]
+Sebastian
+Pero debéis darle algo de crédito a la Garra del Leviatán.
+Tenían una gran colección de armas.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1292165963]
+Mimula
+Esto también debería complacer
+a esos extremistas impacientes.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1292165963]
+Sebastian
+Con nosotros a su lado, seguro
+que llegará un nuevo amanecer
+para el Imperio. Je, je, je.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1292165963]
+Mimula
+¡Y con la llegada del sol, esta flor
+de la nobleza volverá a florecer!<PAGE>¡Esos mugrientos plebeyos
+se van a enterar!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1286563219]
+<STR>(EST_P)
+¿Quieren derrocar el Imperio?...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1292165963]
+<STR>(YUR)
+Una vez dijiste que el emperador
+es quien otorga los rangos
+de la nobleza, ¿verdad?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1292165963]
+<STR>(KAR)
+Entonces... si quita
+de en medio al Imperio,
+ya no será una noble.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1286563219]
+<STR>(JUD)
+Tal vez quiera el trono para ella.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1286563219]
+<STR>(RAV)
+¿Y bien? ¿Qué pensáis hacer?<PAGE>Una vez contratao, el gremio
+se limita a hacer er trabajo
+y a recoger la paga.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527209]
+<STR>(EST_P)
+Pero ¿vamos a pretender no haber oído
+sus planes sobre un golpe de estado?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1292165963]
+<STR>(RAV)
+No te preocupes, Princesa.
+Esos extremistas no causarán
+mucho revuelo.<PAGE>
+Como mucho causarán argo
+de pánico, y después vendrán
+los Caballeros a por ellos.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1286826286]
+<STR>(KAR)
+¿En serio?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1286826286]
+<STR>(RAV)
+¿Por qué no sus quedáis con
+la paga y salís por patas?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1292165963]
+<STR>(RIT)
+¿Te parece normal que un ex-capitán
+de los Caballeros diga cosas así?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1287317311]
+<STR>(RAV)
+Eh, que yo soy un defensor der utilitarismo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1286826286]
+<STR>(EST_P)
+Deberíamos informar de esto
+a los Caballeros ahora mismo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1292165963]
+<STR>(YUR)
+¿Tú qué crees, jefe?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1292165968]
+<STR>(KAR)
+No sé qué decir...

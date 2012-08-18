@@ -1,0 +1,155 @@
+## POINTER 0
+<STR>(YUR)
+Yeah, thanks for the help.
+
+## POINTER 1
+
+Umm...I don't know your reasons for 
+going out into the desert, but...<PAGE>It would really be a good idea 
+for you to stay in town...
+
+## POINTER 2
+<STR>(YUR)
+Thanks, but we've already 
+put a lot of thought 
+into it.
+
+## POINTER 3
+
+I see. Well, as 
+I promised...
+
+## POINTER 4
+<STR>(KAR)
+Our canteens are this small?!
+
+## POINTER 5
+<STR>(RIT)
+Looks like enough to me.
+
+## POINTER 6
+<STR>(JUD)
+Yeah, we should be able to get 
+more water from certain types of 
+cacti growing in the desert.
+
+## POINTER 7
+<STR>(RIT)
+Right, if we use them to fill up our canteens 
+whenever we need more water, we should 
+be fine. You sure know a lot.
+
+## POINTER 8
+<STR>(EST_P)
+Thank you very much. You've 
+been a great help.
+
+## POINTER 9
+
+It's the least I could do. I'm giving 
+that to you, so don't hesitate to 
+use it as much as you like.<PAGE>Go out and turn right where the 
+road forks. You'll find a lake 
+at the end of the road.<PAGE>You'll be able to 
+fill up your canteens 
+there.
+
+## POINTER 10
+<STR>(YUR)
+Gotcha.
+
+## POINTER 11
+<STR>(RIT)
+By the way, what was with 
+the knight who was here?
+
+## POINTER 12
+<STR>(RAV)
+He was guarding me all night. 
+I was so nervous!
+
+## POINTER 13
+<STR>(KAR)
+One lie after another...
+
+## POINTER 14
+
+...That was a supervisor. The knights are here 
+to make sure that townspeople don't talk freely 
+to visitors from outside of town.
+
+## POINTER 15
+<STR>(EST_P)
+Why would they do something like that?
+
+## POINTER 16
+
+I don't understand the reasons, but it's on the 
+magistrate's orders. People other than merchants 
+like myself aren't allowed out of their houses.
+
+## POINTER 17
+<STR>(YUR)
+I see... That's why 
+we didn't see any townspeople 
+outside.
+
+## POINTER 18
+<STR>(KAR)
+I wonder if there's a crooked 
+magistrate here, too.
+
+## POINTER 19
+
+There was no magistrate in this 
+town until recently, and then 
+finally he arrived...
+
+## POINTER 20
+<STR>(EST_P)
+Really?
+
+## POINTER 21
+
+Yes.<PAGE>The Imperial Knights have started 
+to move into Nordopolica of late.<PAGE>It seems they may've already 
+gone in to arrest Belius.<PAGE>The appointment of a new imperial 
+magistrate to our town seems to 
+be related to that, as well.
+
+## POINTER 22
+<STR>(KAR)
+The Imperial Knights are 
+going to arrest Belius?!
+
+## POINTER 23
+
+They say that Belius had something 
+to do with engineering the Great 
+War behind the scenes.
+
+## POINTER 24
+<STR>(JUD)
+Belius did that...?!
+
+## POINTER 25
+
+That's what they're saying in town.<PAGE>Well, I don't think the empire 
+will be able to do much so long 
+as Palestralle's there, but...
+
+## POINTER 26
+
+...
+
+## POINTER 27
+
+Thank you very much for your business!
+
+## POINTER 28
+<STR>(KAR)
+Wait...but...
+
+## POINTER 29
+<STR>(YUR)
+Yeah, thanks for the help.<PAGE>Let's go fill up at the lake.

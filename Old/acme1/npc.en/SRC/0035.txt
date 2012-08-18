@@ -1,0 +1,523 @@
+## POINTER 3500
+I'm not sure whether to be grateful or 
+perturbed. It's a strange feeling...
+
+## POINTER 3501
+You're awake.
+Are you alright?<PAGE>You passed out by
+the town entrance.
+
+## POINTER 3502
+You don't have to pay me.<PAGE>I brought you here
+in the first place.
+
+## POINTER 3503
+If you're looking for
+your friends, they're
+outside already.
+
+## POINTER 3504
+Welcome, travelers. 
+It's 50 Gald per night...will 
+you stay?
+
+## POINTER 3505
+Thank you. Come 
+back for a stay 
+any time.
+
+## POINTER 3506
+Hmm? Are you all right already?<PAGE>You can rest as long 
+as you need to.
+
+## POINTER 3507
+Don't you go getting yourselves 
+knocked out again, you hear?<PAGE>Next time, I'll be 
+charging boarding 
+fee! Tee-hee.
+
+## POINTER 3508
+You're all wearing such 
+unusual clothes.<PAGE>We don't really see anything 
+like them around here. Did you 
+come from very far away?
+
+## POINTER 3509
+Is your food 
+very different 
+as well?<PAGE>I'd love to hear 
+some recipes from 
+your hometowns.
+
+## POINTER 3510
+It's so hot...there's no shade 
+at all...wearing this armor 
+is like being on a grill...<PAGE>Stand guard here...? 
+It's torture...
+
+## POINTER 3511
+Our mission is to protect 
+the Ruins' Gate researchers 
+from monsters, but...<PAGE>...I think the heat is going 
+to kill us first...
+
+## POINTER 3512
+When will I be able 
+to...go home...?<PAGE>They swore...a relief unit was 
+coming to take over for us...
+
+## POINTER 3513
+...Hey...it scares me to 
+think about this, but...<PAGE>You don't think this is a demotion 
+transfer...do you...?
+
+## POINTER 3514
+Ah! You are friends 
+of Sir <STR>(FRE)?<PAGE>Please, ask me anything. 
+I'll be happy to tell 
+you whatever I can!
+
+## POINTER 3515
+We are here investigating the 
+ruins, to determine why Captain 
+Alexei came to these lands!<PAGE>However, with ruin excavation being 
+outside our realm of expertise, we have 
+employed the help of Ruins' Gate!
+
+## POINTER 3516
+I'm ashamed to say we have a knight 
+collapsing every single day here.<PAGE>My partner fell unconscious as well, 
+and was withdrawn back to Zaphias. He 
+always pushes himself too hard...
+
+## POINTER 3517
+The bizarre monster that 
+appeared in the sky...what 
+do you suppose it is?<PAGE>It smells like an emergency situation 
+to me, but with things as they are...we 
+wouldn't be any help...
+
+## POINTER 3518
+The <STR>(FRE) Brigade is a 
+ranger unit, so we were able to 
+see so many different places...<PAGE>To be frank, standing guard 
+here isn't very fun at 
+all. And it's so hot...
+
+## POINTER 3519
+Captain <STR>(FRE) may seem 
+so kind, but he pushes 
+his men hard.<PAGE>Of course, you can't really 
+complain when he's pushing 
+himself so hard, too.
+
+## POINTER 3520
+I haven't seen any other units 
+at all lately, let alone 
+our replacement unit...<PAGE>I wonder if all the other knights 
+have gone to deal with that 
+strange monster in the sky.
+
+## POINTER 3521
+I hear our captain 
+is leading the way.<PAGE>Say...you don't suppose Sir <STR>(FRE) 
+has forgotten about us because 
+of that monster, do you?
+
+## POINTER 3522
+I suppose things as strange as the Imperial 
+Knights hiring us for something other 
+than blastia excavation do happen.<PAGE>We're supposed to be searching for clues as to some 
+knight captain's motive. Do you think there's 
+been some internal friction among the Knights?
+
+## POINTER 3523
+Whatever the reason, all we have 
+to do is complete the investigation 
+we've been tasked with.<PAGE>The areas we have to search are 
+rather harsh on this job, though. 
+We'll have to charge extra...
+
+## POINTER 3524
+Our initial investigations have 
+revealed one thing. These ruins 
+are very mysterious...<PAGE>We believe they're some one thousand years 
+old, but we haven't been able to identify 
+the reasons for this weathering.
+
+## POINTER 3525
+Even supposing it collapsed 
+due to a monster attack...the 
+weathering is so unnatural.<PAGE>By the good name of 
+Ruins' Gate, we'll 
+solve this mystery!
+
+## POINTER 3526
+Hmm...these ruins 
+are so intriguing.<PAGE>Judging by the condition of these stone 
+fragments, I'd say this place is very old...perhaps 
+as much as a thousand years.
+
+## POINTER 3527
+Looking at these fragments, I think 
+it's safe to venture that this place 
+was destroyed by some outside force.<PAGE>There were no blastia yet, so 
+perhaps the collapse was because 
+of a monster attack...
+
+## POINTER 3528
+These ruins are so unusual...but 
+people definitely 
+lived here.<PAGE>We've found several 
+traces of habitation.
+
+## POINTER 3529
+Pieces of buildings, too. Monsters 
+don't really have architectural 
+skills, now do they?<PAGE>If I had to guess, 
+I'd say this was a Kritya 
+settlement...
+
+## POINTER 3530
+Our next show will be "The 
+Righteous Bandits" as performed 
+by the Dark Wings.<PAGE>Please be patient while 
+they finish getting 
+everything in order.
+
+## POINTER 3531
+The special stage
+is up ahead.<PAGE>You can watch plays
+and musicals there.
+
+## POINTER 3532
+Hey, hey.
+Come back anytime,
+ya hear?
+
+## POINTER 3533
+Welcome, welcome.
+Go right on ahead.<PAGE>Feel free to take a look,
+take a look.
+
+## POINTER 3534
+I bet this is 
+new to you. <PAGE>If you want, I can give you 
+a lecture♪
+
+## POINTER 3535
+Good times,
+good times.<PAGE>This brings back
+good memories.
+
+## POINTER 3536
+Well... I just wanted to 
+say something like that. <PAGE>I feel so different 
+in this costume.
+
+## POINTER 3537
+Hmmm. A festival for lower class people 
+is more fun than I was expecting. <PAGE>The world they live 
+is too different
+from the world I live in...
+
+## POINTER 3538
+I've seen their performance many times but 
+I don't get tired of them at all! <PAGE>Ahh, 
+I want to see their performance 
+more and more!!!
+
+## POINTER 3539
+Do you guys know? 
+The Showtime, play Guild is 
+here for their performance! <PAGE>They are famous for 
+their hard to get 
+tickets.
+
+## POINTER 3540
+There, there. It's there! 
+Hey, hurry up! <PAGE>Don't give me that weird look!
+
+## POINTER 3541
+Here, here! 
+The (c) M sculpture 
+is here! <PAGE>I wonder how many more times? 
+Two times? Three times? or 
+Humm...
+
+## POINTER 3542
+I am going to wear this 
+to the ball tonight. <PAGE>Well, it's only a Lantern 
+Festival Dance though..
+
+## POINTER 3543
+Tee-hee-hee. 
+Isn't this dress 
+cute! <PAGE>I secretly borrowed this from 
+the costume room. 
+Don't tell anybody!
+
+## POINTER 3544
+It's a double push!
+
+## POINTER 3545
+It's very unprofitable...
+
+## POINTER 3546
+I want to try goldfish scooping,
+but I also want some stir-fry
+noodles, or maybe even some pizza...
+
+## POINTER 3547
+There's so much
+to choose from! ∀
+
+## POINTER 3548
+This is made from
+the finest material.<PAGE>What do you think?
+Looks good, huh?
+
+## POINTER 3549
+Armor that covers the whole body 
+is heavy, but armor like this 
+is just the right weight. <PAGE>It makes me feel like I 
+want to kill monsters.
+
+## POINTER 3550
+An 8, huh?
+That’s a tough one.<PAGE>It seems like it could
+be a LOW, yet it could
+turn out to be a HIGH...
+
+## POINTER 3551
+Huh? 
+Of course, 
+I am talking about double-up. <PAGE>There is a trap
+after continuous successes.
+
+## POINTER 3552
+You can bring 
+your handouts 
+for this test. <PAGE>You might think it makes it easy, but 
+it means that it'll be that much harder.
+
+## POINTER 3553
+I am definitely going to get 
+a Mishica PhD!
+
+## POINTER 3554
+*Woo--f**
+
+## POINTER 3555
+*Woof Woof*
+
+## POINTER 3556
+*Meow?*
+
+## POINTER 3557
+*Meow* *Meow* *Meow?*
+
+## POINTER 3558
+*Meow...*
+
+## POINTER 3559
+*Meooow...*
+
+## POINTER 3560
+*Woof woof!*
+
+## POINTER 3561
+*Woof...*
+
+## POINTER 3562
+We can survive 
+even without blastia.<PAGE>I don't need anything 
+else, as long as I 
+have her love.
+
+## POINTER 3563
+Her love completes me, 
+body and sould. I'm sure 
+she feels the same.
+
+## POINTER 3564
+... I'm happy he built a 
+home for me and all, but...
+It's just a tent...<PAGE>I wish it had been a log 
+cabin or something, 
+like that one over there...
+
+## POINTER 3565
+A tent... Well, I guess it's 
+better than camping out on the 
+road like the last few days.
+
+## POINTER 3566
+What's gonna happen? I hear the 
+blastia will stop working... 
+I'm starving...<PAGE>This guy talks about 
+love, love, love... but 
+that's not all there is...
+
+## POINTER 3567
+More than love... there's money. 
+That's right! This guy 
+has money, right?<PAGE>He kind of goes 
+overboard, but I 
+guess I can deal...
+
+## POINTER 3568
+Come visit us any time!
+
+## POINTER 3569
+We're fully stocked up 
+on supplies now. 
+No more inconveniences!
+
+## POINTER 3570
+This is all thanks to the 
+support that Fortune's 
+Market gave us.
+
+## POINTER 3571
+Geez, my wife's 
+still complainin'. 
+I can't stand this!<PAGE>That woman, she just won't give 
+in... Even though she's really 
+gotten used to it here by now.
+
+## POINTER 3572
+When I'm working, I can 
+forget my wife's whining. 
+It feels great!
+
+## POINTER 3573
+I guess this is how 
+people form bonds.
+
+## POINTER 3574
+The world should never have 
+to face crises, but this 
+town owes its existence to one.
+
+## POINTER 3575
+There could still be
+a few monsters roaming
+in the residential district.<PAGE>We’re going to stay here
+until we can confirm it is safe.
+
+## POINTER 3576
+We’re going to keep
+this town safe.
+
+## POINTER 3577
+All lives carry with 
+them pain and burden.
+
+## POINTER 3578
+But the Tree of Halure endures 
+it all, in infinite patience.
+
+## POINTER 3579
+Most people are in 
+their beds sick. <PAGE>Maybe something's going 
+around. I seem to be the 
+only one who's okay.
+
+## POINTER 3580
+Everyone got sick after 
+that tower showed up.
+
+## POINTER 3581
+*Woof!*
+
+## POINTER 3582
+*Woof♪*
+
+## POINTER 3583
+Hey, were you 
+playing tag with 
+the Knights?
+
+## POINTER 3584
+Hey, why don't you join the 
+<STR>(FRE) Defense Force, too?<PAGE>Hee-hee. I'm the founder 
+of the <STR>(FRE) Defense 
+Force, you know.
+
+## POINTER 3585
+I've watched him for a while. 
+I formed the Defense Force 
+when he made captain. <PAGE>Our main activities are 
+rooting for <STR>(FRE) and 
+talking with other members.
+
+## POINTER 3586
+I was so worried with 
+the barrier gone.<PAGE>I don't know what 
+would've happened if the 
+barrier didn't get fixed.
+
+## POINTER 3587
+I have to thank whoever 
+fixed the barrier blastia.
+
+## POINTER 3588
+They say young 
+<STR>(FRE) built a 
+new town in Hypionia.<PAGE>Will you be joining <STR>(FRE)
+there, <STR>(YUR)?
+
+## POINTER 3589
+I'd love to go myself, 
+but traveling so far 
+at this age...
+
+## POINTER 3590
+This is all the imperial 
+family's fault. They neglected 
+their duties as our guardians.
+
+## POINTER 3591
+I'm not scared...
+I'm not scared.<PAGE>I can do it...
+I can do it.
+
+## POINTER 3592
+I-I gave up my life in
+Zaphias to be here.<PAGE>A few monsters a-aren’t
+going to s-scare me....
+
+## POINTER 3593
+T-the monsters are lose?!<PAGE>Eek! I-I'm scared...!
+
+## POINTER 3594
+What's going on upstairs?!
+Let's make a run for it...<PAGE>Oh! My legs can't move...
+
+## POINTER 3595
+I'm strong...yes, very strong.
+I'm the strongest one in the
+world...no, in the universe!
+
+## POINTER 3596
+But...no matter how much I encourage 
+myself, I've never been very 
+strong at all... Oh dear...
+
+## POINTER 3597
+No no no. I don't care if you're 
+desperate. Try again when you 
+are of the proper status. <PAGE>You would have no problem 
+if you were, say, the 
+Commandant of the Knights.
+
+## POINTER 3598
+This exit is for 
+nobles only. <PAGE>You cannot leave 
+from here. No no no.
+
+## POINTER 3599
+Well...I suppose I 
+could let you pass 
+if you were famous.

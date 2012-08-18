@@ -1,0 +1,84 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1251665933]
+La ayudante de (KAR)
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1267168632]
+(KAR)
+Buen trabajo... Sí... Descansa
+un poco, lo has hecho muy bien...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1267168632]
+(EST_P)
+¿Con quién hablas, (KAR)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297796206]
+(KAR)
+¡Aaaaah!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297796206]
+(EST_P)
+¡¡Aaaah!!
+N-No me des esos sustos...
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1267168632]
+(KAR)
+P-Perdona. ¿Me habéis oído?...
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1267168632]
+(JUD)
+Sí, lo hemos oído.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1266568206]
+(RIT)
+¡¿Le hablas a tu espada?!
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1267168632]
+(KAR)
+Corta mejor cuando lo hago.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1266510441]
+(KAR)
+De hecho, hemos ganado esta batalla
+gracias a que le había dado ánimos
+antes de empezar.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1267168632]
+(EST_P)
+¿En serio?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1267168632]
+(RIT)
+Tú mismo con tu mecanismo...
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1266568206]
+(JUD)
+Vaya, no me esperaba esa reacción.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1266568206]
+(RIT)
+¿Cómo?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1297796206]
+(JUD)
+Nada... Gracias por todo el trabajo
+que haces. ¡Estamos impacientes por
+ver qué tal lo harás la próxima vez!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1297796206]
+(RIT)
+¡Debe ser un fastidio tener un
+dueño tan tontaina! Solo podemos
+contar contigo.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1297796206]
+(EST_P)
+Mmm, esto... Buena suerte la próxima vez...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1297796206]
+(KAR)
+¡Caray, gracias, chicas! ¡Apuesto
+a que mis ataques serán el doble
+de fuertes en la próxima batalla!
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1267168632]
+(RIT)
+¡No te lo creas tanto!

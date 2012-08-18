@@ -1,0 +1,187 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS485_001)Hey, that's...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS485_002)Heh, I remember when <STR>(EST_P) 
+ate that nia fruit. That was 
+quite a face she made.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS485_003)Come to think of it, it's been 
+a long time since we've been 
+on our own, huh pal?<PAGE><VOICE>(VS485_004)I haven't been feeling like 
+myself, even when I'm fighting. 
+...It's like I'm tired, all of a sudden.<PAGE><VOICE>(VS485_005)...You mind keeping an eye 
+out for a while, <STR>(RAP)?
+
+## POINTER 3
+<STR>(RAP)
+<VOICE>(VS485_006)Woof.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS485_007)...
+
+## POINTER 5
+
+<VOICE>(VS485_008)...<STR>(YUR), you...
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS485_009)...?
+
+## POINTER 7
+
+<VOICE>(VS485_010)IDIOT!!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS485_011)Huh?!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS485_012)What the?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS485_013)What? <STR>(KAR)?!
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS485_014)You braindead 
+piece of crap!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS485_015)Hey, hold on a sec!
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS485_016)You trying to be some stupid
+lone wolf or something?!
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS485_017)Lone wolf... Wait, I...!
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS485_018)Save the excuses for later.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS485_019)Huh?!
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS485_020)For now you can drop dead!!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS485_021)Whoaaa!!
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS485_022)Hey there, sunshine. Still livin'?
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS485_023)...Maybe.
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VS485_024)Well it looks like you're 
+awake now. How nice.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS485_025)Jeez, <STR>(RAP). 
+What happened to 
+keeping a look out?
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VS485_026)He led us right to you, 
+like a good boy.<PAGE><VOICE>(VS485_027)He's pretty clever, you know.
+
+## POINTER 24
+<STR>(RIT)
+<VOICE>(VS485_028)Yeah, he told us if we came this way, we'd 
+see the biggest fool in the world.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS485_029)Do you guys know what's going on?<PAGE><VOICE>(VS485_030)Do you really 
+understand what has 
+to happen after this?
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS485_031)You're the one who 
+doesn't understand!
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS485_032)<STR>(KAR).
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS485_033)You can't... This is one 
+thing you can't just do 
+on your own, <STR>(YUR)!
+
+## POINTER 29
+<STR>(RIT)
+<VOICE>(VS485_034)What were you tryin' to prove?
+How far did you think you'd 
+get without us?
+
+## POINTER 30
+<STR>(RAV)
+<VOICE>(VS485_035)What it boils down to is...<PAGE><VOICE>(VS485_036)It's no fair keepin' all the 
+fun and glory to yourself.
+
+## POINTER 31
+<STR>(JUD)
+<VOICE>(VS485_037)Would it hurt for 
+you to believe in 
+us a little bit more?
+
+## POINTER 32
+<STR>(KAR)
+<VOICE>(VS485_038)Yeah. I mean, we're your friends!
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS485_039)...You got me, guys.
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS485_040)...All right, then. We're 
+all in this together. 
+Until the end.
+
+## POINTER 35
+<STR>(KAR)
+<VOICE>(VS485_041)Right!
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS485_042)Um, duh.
+
+## POINTER 37
+<STR>(RAP)
+<VOICE>(VS485_043)Woof!
+
+## POINTER 38
+<STR>(RAV)
+<VOICE>(VS485_044)So let's go do this thing!
+
+## POINTER 39
+<STR>(JUD)
+<VOICE>(VS485_045)Once we leave the 
+woods, the capital 
+is just right there.

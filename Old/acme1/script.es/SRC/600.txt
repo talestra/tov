@@ -1,0 +1,136 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1291457737]
+<STR>(KAR)
+¿Esta es la pala?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(EST_P)
+Parece que tiene escrito
+«Harmfall».
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(JUD)
+Pero no tiene
+el nombre de Markham.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(RIT)
+Así que esta no es.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(EST_P)
+¿Seguimos buscando?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(YUR)
+Si esto está aquí,
+¿no debería andar cerca?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(KAR)
+¿Y si la hemos pasado de largo?...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(JUD)
+No te preocupes, a mí
+no se me pasaría de vista.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(RIT)
+Entonces alguien
+se la habrá llevado.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(RAV)
+¿Quién va a pasar de casualidá
+a llevarse una pala?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(RIT)
+¿Y a mí qué me cuentas? Seguro que
+hay pirados de las palas por ahí sueltos.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(KAR)
+Como tú, que eres una fanática de los blastias.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(RIT)
+No soy una fanática.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(YUR)
+¿No hemos cumplido con el trabajo, entonces?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(JUD)
+Pero el objeto que nos mandaron encontrar no está
+aquí. No se puede decir que hemos fracasado.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1291457737]
+<STR>(RAV)
+Pero vuestro cliente
+seguramente no'sté
+mu d'acuerdo con eso.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(YUR)
+Jo...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(KAR)
+Bueno, ¿y qué tal esta?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(YUR)
+No hay por qué llevársela.
+Dejémosla aquí y ya está.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(RIT)
+Quizá hagas muy feliz
+al siguiente pirado
+de las palas que venga.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(KAR)
+Tú sabes cómo
+se sienten, ¿eh, <STR>(RIT)?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(YUR)
+Ya deberías saber que te va a zurrar.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(EST_P)
+Creo... creo que...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(YUR)
+¿Eh?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(EST_P)
+Cualquiera que se olvide una pala en un
+lugar así tiene que tener algo que ver
+con las excavaciones, ¿verdad?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(YUR)
+Eh, sí, seguramente.
+Pero...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(EST_P)
+¿Por qué no se la damos al
+cliente y le dejamos que
+decida que hacer con ella?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1293577043]
+<STR>(KAR)
+Mmm. Quizá esos dos
+conozcan al tal «Harmfall».
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1291403605]
+<STR>(YUR)
+No nos aclara mucho las cosas,
+pero se la podemos llevar.

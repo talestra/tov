@@ -1,0 +1,141 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(RIT)
+<VOICE>(VS18_058)Adelante.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(YUR)
+<VOICE>(VS18_059)Me alegra verte despierta.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(YUR)
+<VOICE>(VS18_060)Y mira que le dije a esta una y otra vez
+que me avisara antes de caer rendida.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(RIT)
+<VOICE>(VS18_061)No esperabas en serio que fuera
+a hacerte caso, ¿verdad?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(EST_P)
+<VOICE>(VS18_062)Uuh...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(RIT)
+<VOICE>(VS18_063)Je... Parece contenta.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(RIT)
+<VOICE>(VS18_064)Oye... ¿qué crees
+que piensa <STR>(EST) 
+de mí?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(RIT)
+<VOICE>(VS18_065)¿Por qué me pones esa cara?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(YUR)
+<VOICE>(VS18_066)Es que no te tenía por la clase
+de persona que le importa lo
+que los demás piensen de ella.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(RIT)
+<VOICE>(VS18_067)O-Olvídalo.
+Ya puedes largarte.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(YUR)
+<VOICE>(VS18_068)Ella debería ser más
+fácil de entender que
+esas fórmulas tuyas.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(EST_P)
+<VOICE>(VS18_069)Uuh... ¿Eh? ¡<STR>(RIT)!
+¡Estás despierta!<PAGE><VOICE>(VS18_070)¡Pero ten cuidado! Es justo
+cuando crees estar recuperado
+cuando estás más en peligro.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(RIT)
+<VOICE>(VS18_071)No pasa nada. Estoy bien.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(RIT)
+<VOICE>(VS18_072)Y por cierto, ya no hace falta que sigas
+fingiendo que usas ese blastia.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(EST_P)
+<VOICE>(VS18_073)Yo... ¿Qué quieres decir?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(YUR)
+<VOICE>(VS18_074)Es una pasada que seas capaz de
+usar artes curativas sin un blastia.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(EST_P)
+<VOICE>(VS18_075)¿P-Pero cómo lo...?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551722]
+<STR>(YUR)
+<VOICE>(VS18_076)Pero ¿qué...?
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(RIT)
+<VOICE>(VS18_077)¡Eh! ¡Es el mamarracho del dragón!
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(EST_P)
+<VOICE>(VS18_078)<STR>(RIT), ¿estás bien?
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(RIT)
+<VOICE>(VS18_079)¿Es que no aprendes nunca?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(KAR)
+<VOICE>(VS18_080)Ni que el cielo estuviera cayendo
+aquí dentro. ¿Qué está pasando?
+¿Eh? ¡Aaaaaah!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(KAR)
+<VOICE>(VS18_081)¡¿Qué era el bicho ese?!
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(RIT)
+<VOICE>(VS18_082)Justo cuando la conversación
+se estaba poniendo interesante.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(YUR)
+<VOICE>(VS18_083)Creo que ya hemos hablado bastante por ahora
+de las artes curativas de <STR>(EST_P).
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(RIT)
+<VOICE>(VS18_084)Por mí vale. De todas formas,
+ya lo he entendido más o menos todo.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(YUR)
+<VOICE>(VS18_085)No me miréis así.
+¿Tan mal tipo
+os parezco?
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273488573]
+<STR>(RIT)
+<VOICE>(VS18_086)Sí.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(EST_P)
+<VOICE>(VS18_087)Ji, ji. ji.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292406]
+<STR>(KAR)
+<VOICE>(VS18_088)Eh, esperad. ¿Qué está pasando
+aquí? ¡Decídmelo, venga!

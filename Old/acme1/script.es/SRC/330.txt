@@ -1,0 +1,68 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(RAV)
+¡Sería mejor que dejéis de ir en plan zombi,
+o solo sus cansaréis más todavía!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(KAR)
+¿Cómo puedes estar tan animado?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(YUR)
+Hay gente que disfruta
+viendo sufrir a los demás...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(RIT)
+Debería reventarte la...
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(YUR)
+No malgastes fuerzas.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(RIT)
+Ir por ahí así no puede ser sano...
+Eh, ¿a alguien más le ha parecido oír una voz?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(EST_P)
+No... La verdad es que no.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(RIT)
+A todo esto, ¿cómo
+es que ya habías
+estado aquí antes?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(JUD)
+Antes vivía en un poblado
+en las montañas del norte
+con mi amigo Ba'ul.<PAGE>Bajaba al desierto
+de vez en cuando.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(RIT)
+¿Te venías hasta aquí desde allí?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(JUD)
+En cualquier caso, con este
+calor no es que nos sobre
+el tiempo para buscar nada.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(YUR)
+En serio... Si nos quedamos
+sin agua ya nos podemos
+ir despidiendo.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(KAR)
+Tenemos que encontrar
+alguna pista pronto...
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279704162]
+<STR>(EST_P)
+Sí...

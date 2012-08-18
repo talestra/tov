@@ -1,0 +1,239 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486502]
+<STR>(JUD)
+<VOICE>(VS37_058)Bueno... ya sois conscientes
+de que este lugar fue donde
+tuvo lugar la Gran Guerra.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486502]
+<STR>(YUR)
+<VOICE>(VS37_059)Sí. Nos lo ha contado
+el viejales.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281887123]
+<STR>(JUD)
+<VOICE>(VS37_060)La Gran Guerra
+estalló por culpa de
+un tipo de blastia.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281887123]
+<STR>(RIT)
+<VOICE>(VS37_061)¡¿Qué?!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486502]
+<STR>(JUD)
+<VOICE>(VS37_062)No fue un blastia
+excavado.<PAGE><VOICE>(VS37_063)Se construyó en la
+ciudad de Temza usando
+una nueva tecnología.<PAGE><VOICE>(VS37_064)Los blastias hermes.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486502]
+<STR>(EST_P)
+<VOICE>(VS37_065)¿Blastias hermes?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1285407665]
+<STR>(RIT)
+<VOICE>(VS37_066)Es la primera vez que lo oigo.<PAGE>
+<VOICE>(VS37_067)Y dices que lo construyeron hacía poco...
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1285407665]
+<STR>(JUD)
+<VOICE>(VS37_068)Los modelos hermes
+eran muy efectivos
+convirtiendo el aer en energía.<PAGE>
+<VOICE>(VS37_069)Intentaron... revolucionar
+la tecnología de los blastias.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(YUR)
+<VOICE>(VS37_070)Pero algo salió rana.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1285407665]
+<STR>(JUD)
+<VOICE>(VS37_071)Los blastias que usaban
+la fórmula Hermes requerían
+enormes cantidades de aer.<PAGE>
+<VOICE>(VS37_072)Para compensarlo, los aer krene
+empezaron a emanar de manera anormal.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(RIT)
+<VOICE>(VS37_073)¡Eso no sería solo el fin de
+la humanidad, sino de toda
+la vida sobre el planeta!
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(RAV)
+<VOICE>(VS37_074)Lo mismo que vimos en Keiv Moc
+y la caverna de Cados. No me gustaría
+ver ocurrir eso por tós laos.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(JUD)
+<VOICE>(VS37_075)Los entelechia se dieron cuenta
+del peligro de los blastias hermes
+antes que los humanos.<PAGE><VOICE>(VS37_076)Y empezaron a destruirlos.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(YUR)
+<VOICE>(VS37_077)Lo que provocó un conflicto
+que acabó convirtiéndose
+en la Gran Guerra...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486620]
+<STR>(KAR)
+<VOICE>(VS37_078)Entonces, ¡¿los entelechia lucharon
+contra los humanos para poder
+salvar el planeta?!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551487]
+<STR>(EST_P)
+<VOICE>(VS37_079)Pero ¡¿por qué los entelechia
+no les dijeron a los humanos
+el peligro de esos blastias?!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486620]
+<STR>(RAV)
+<VOICE>(VS37_080)No creo que a ninguno de
+los bandos les importara
+mucho cómo acabara el otro.<PAGE>
+<VOICE>(VS37_081)Humanos y entelechia nunca s'an
+llevao mu bien que digamos.
+No debían de conversar mucho.<PAGE>
+<VOICE>(VS37_082)Aunque seguramente hubo
+otras razones.<PAGE>
+<VOICE>(VS37_083)Pero esto nu nos explica
+qué tiene que ver nuestra
+quería <STR>(JUD) en tó esto.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(JUD)
+<VOICE>(VS37_084)Temza sucumbió a las llamas
+de la guerra, y se creyó que los
+blastias hermes desaparecieron.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486620]
+<STR>(KAR)
+<VOICE>(VS37_085)Espera... ¡¿Insinúas que todavía quedan
+modelos hermes en funcionamiento?!
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1285408059]
+<STR>(JUD)
+<VOICE>(VS37_086)Sí. En la mansión de Ragou, la colina
+de Ehmead, Ghasfarost, y eso sin contar...
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(YUR)
+<VOICE>(VS37_087)El blastia ceres del Fiertia...
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(EST_P)
+<VOICE>(VS37_088)Así que te has dedicado
+a destruir los blastias
+en lugar de los entelechia...
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(RIT)
+<VOICE>(VS37_089)¡Podrías habérnoslo
+dicho!<PAGE><VOICE>(VS37_090)¡¿Por qué no dijiste nada?!
+¿Pretendías ir y salvar el mundo
+tú sola? ¡¿Estás tonta o qué?!
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1285408059]
+<STR>(KAR)
+<VOICE>(VS37_091)¿Q-Qué ha sido eso?
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(JUD)
+<VOICE>(VS37_092)¡Ba'ul!
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(KAR)
+<VOICE>(VS37_093)¡Nan!
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+Tison
+<VOICE>(VS37_094)Parece que hemos
+encontrado a nuestra presa.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486793]
+<STR>(JUD)
+<VOICE>(VS37_095)De aquí no pasáis.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+Nan
+<VOICE>(VS37_096)¡Eres humana, ¿no?! 
+¡¿Cómo puedes defender a un monstruo?!
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(YUR)
+<VOICE>(VS37_097)¿No os habéis quedado con la copla?
+Os dije que nadie va a ponerle
+la mano encima a uno de los nuestros.
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1285408059]
+<STR>(KAR)
+<VOICE>(VS37_098)¡N-No vamos a permitirlo! 
+¡Ni siquiera a ti, Nan!
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(RIT)
+<VOICE>(VS37_099)¡Estábamos hablando, por si no
+os habíais dado cuenta! ¡Ahuecad!
+
+## POINTER 32 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1285408059]
+<STR>(RAV)
+<VOICE>(VS37_100)Normalmente nu me gusta mancharme
+los zapatos, pero...
+
+## POINTER 33 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(JUD)
+<VOICE>(VS37_101)Chicos...
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1285408059]
+<STR>(EST_P)
+<VOICE>(VS37_102)¿Ahora los Espadas Cazadoras
+se dedican también a cazar personas?
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+Tison
+<VOICE>(VS37_103)Nadie que se asocie con
+monstruos tiene derecho
+a considerarse una persona.
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+Nan
+<VOICE>(VS37_104)<STR>(KAR). ¿Acaso
+has olvidado el credo
+del gremio? Apártate.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298486793]
+<STR>(KAR)
+<VOICE>(VS37_105)Los monstruos son el mal...
+Y los Espadas Cazadoras persiguen ese mal.<PAGE><VOICE>(VS37_106)¡Pero los entelechia
+no son así! Luchaban
+para salvar el mundo...
+
+## POINTER 38 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(YUR)
+<VOICE>(VS37_107)No dejes que te la peguen con
+la patraña esa del credo. Están
+trabajando. Vienen a por la apátheia.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988438]
+Tison
+<VOICE>(VS37_108)Mmpf. Parece que no atendéis a razones.
+<PAGE><VOICE>(VS37_109)Si no tenéis intención
+de apartaros...
+
+## POINTER 40 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+Nan
+<VOICE>(VS37_110)No nos dejáis elección.
+
+## POINTER 41 [t:1;r:2;ru:googol,memnoch;user:xander;time:1283647383]
+Información
+<STR>(JUD) no está en tu grupo.
+Forma un grupo en el que figure <STR>(JUD).
+
+## POINTER 42 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282558824]
+<STR>(KAR)
+<VOICE>(VS37_111)Nan... Lo siento.

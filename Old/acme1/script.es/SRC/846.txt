@@ -1,0 +1,74 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682436]
+Aguerón
+¿Cómo va? ¿Lo has
+encontrado todo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294686373]
+Información
+Has pagado 500.000 gald.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296753422]
+<STR>(YUR)
+Con esto ya
+está todo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682436]
+Aguerón
+Sí, exacto.... Siento haberte
+dado tantos problemas
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296753422]
+<STR>(YUR)
+Oh, para ya. Has hecho lo
+que has podido, Aguerón.
+Ahora nos tocaba a nosotros.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296753422]
+Aguerón
+Sí, tienes razón.
+Eres muy buen tío, <STR>(YUR).
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296753422]
+<STR>(YUR)
+¡Venga, déjalo ya!
+Ya vale de bromas.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296753422]
+Aguerón
+Je, veo que aún no soportas los cumplidos.
+Pero de verdad, gracias. No sé qué habría
+pasado si no nos hubieras ayudado.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1294686489]
+<STR>(YUR)
+¿Crees que esto ayudará
+al desarrollo del pueblo?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296753422]
+Aguerón
+Sí. Voy a usar todo lo que
+me has dado para que la
+gente coopere otra vez.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296753422]
+<STR>(YUR)
+Perfecto, buena suerte.
+Espero que todo vaya bien.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296753422]
+Aguerón
+¡Sí, y vuelve más adelante
+para ver cuánto hemos progresado!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682436]
+Aguerón
+Lo siento, sigue sin
+ser suficiente.<PAGE>Necesito una piedra verde brillante,
+tinta negro profundo, metal
+extraordinario y 500.000 gald.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682436]
+Aguerón
+Necesito una piedra verde brillante,
+tinta negro profundo, metal
+extraordinario y 500.000 gald.

@@ -1,0 +1,100 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+<STR>(YUR)
+Lo que me faltaba.
+Esto está lleno de Mordios.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+<STR>(EST_P)
+Perdone, ¿tiene un momento?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273783557]
+¿Q-Qué quieres?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273783557]
+<STR>(EST_P)
+¿No sabrá por casualidad si ha pasado
+por aquí un Caballero llamado <STR>(FRE) Scifo?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273783557]
+¿<STR>(FRE)? Oh, aquel tío.
+Decía algo sobre atrapar a alguien
+que estaba destrozando unas ruinas.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273783557]
+<STR>(EST_P)
+¡¿Sabe dónde está ahora?!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+No lo sé. Mi investigación me tiene demasiado
+ocupado como para prestar atención a cosas así.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+<STR>(EST_P)
+E-Entiendo. Lamento
+haberlo interrumpido.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+Ya va siendo hora de que me vaya.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+<STR>(YUR)
+Eh, espera.
+Dinos una cosa más.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+<STR>(YUR)
+¿Está por aquí un mago
+famoso llamado Mordio?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+¡Agh! ¡¿Hay gente que quiere ver a ese bicho raro?!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1272022358]
+<STR>(YUR)
+Así que tenía razón. ¿Conoces a Mordio?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+No, eh... no sé nada de nada.
+No me relaciono con gente así.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+<STR>(YUR)
+¡Espera, aún no he terminado!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+¡¿Q-Qué quieres?!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+<STR>(YUR)
+¡Dime dónde está!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+Mordio vive en una casucha al otro
+lado de la ciudad. ¡Ve y compruébalo
+por ti mismo si quieres!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1272022358]
+<STR>(YUR)
+Gracias.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1272022358]
+<STR>(KAR)
+¿Estás seguro de esto?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1272022358]
+<STR>(YUR)
+¿Mmm?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+<STR>(KAR)
+A todos se les cambia la expresión de la cara
+cuando escuchan el nombre de ese tío. Qué raro.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+<STR>(EST_P)
+Es cierto. ¿No te preocupa?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1274006011]
+<STR>(YUR)
+Es un ladrón de blastias, al fin y al cabo.
+No me extraña que a la gente no le guste.

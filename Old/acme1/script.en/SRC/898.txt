@@ -1,0 +1,68 @@
+## POINTER 0
+
+Thanks! I appreciate it!
+Here's a little something for ya!
+
+## POINTER 1
+<STR>(KAR)
+Thank you! Brave Vesperia
+is at your service!
+
+## POINTER 2
+<STR>(YUR)
+Hey, you did say, "that"
+Brave Vesperia just now,
+did you not?<PAGE>Just what is, "that"
+supposed to mean?
+
+## POINTER 3
+<STR>(RAV)
+Well, it's whatever
+ya like for it to mean?
+
+## POINTER 4
+<STR>(YUR)
+I thought so... I don't 
+know if that's a good 
+thing or a bad thing...
+
+## POINTER 5
+
+You wouldn't happen to be
+THE Brave Vesperia, would ya?
+
+## POINTER 6
+<STR>(KAR)
+Yes, we are! That Brave
+Vesperia is who we are!
+
+## POINTER 7
+
+Our warehouse is flooded with
+new shipments, and we haven't
+been able to tidy it up.<PAGE>We heard tidying up warehouses is
+your specialty. Can you help us out?
+
+## POINTER 8
+
+Hey, Brave Vesperia.
+Can you help tidy up 
+a warehouse?
+
+## POINTER 9
+<STR>(KAR)
+Umm...
+
+## POINTER 10
+<STR>(KAR)
+Sure! We'll take care of it!
+
+## POINTER 11
+
+All right, then.
+I'm counting on you.
+
+## POINTER 12
+
+I see. It seems like we caught you
+at a bad time. Maybe next time, then?

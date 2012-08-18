@@ -1,0 +1,44 @@
+## POINTER 0
+
+Welcome to Palestralle's 
+famous Fifty Man Melee!!<PAGE>Halfway to the Hundred Man Melee, with 
+half the opponents! But it'll take more 
+than half a hero to beat this battle!<PAGE>In a frantic fight where the 
+foes just keep coming, how many 
+can our challenger defeat?<PAGE>Don't let yourself miss a moment
+of today's fantastic fight!
+
+## POINTER 1
+<STR>(YUR)
+Yeah!
+
+## POINTER 2
+<STR>(EST_P)
+I, I can't lose...!
+
+## POINTER 3
+<STR>(KAR)
+I think I can, I think I can...!
+
+## POINTER 4
+<STR>(RIT)
+Geez, that guy needs 
+to can it...
+
+## POINTER 5
+<STR>(RAV)
+I guess I gotta do this...
+
+## POINTER 6
+<STR>(JUD)
+All right, let's go.
+
+## POINTER 7
+<STR>(RAP)
+Woof woof woof!
+
+## POINTER 8
+
+Release the fifty fierce 
+and fearsome opponents!<PAGE>Ready... 
+Fight!

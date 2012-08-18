@@ -1,0 +1,27 @@
+## POINTER 0
+<STR>(YUR)
+...<STR>(FRE) is by the lake.
+
+## POINTER 1
+<STR>(YUR)
+The guy playing with the kid...
+He seems suspicious...
+
+## POINTER 2
+<STR>(YUR)
+I don't want to wander too far...
+
+## POINTER 3
+<STR>(JUD)
+The inn is preparing that for us.
+Guess we don't need to go to 
+the desert yet.
+
+## POINTER 4
+<STR>(YUR)
+That's right.
+
+## POINTER 5
+<STR>(YUR)
+Let's just get to the spring
+so we can fill up our canteens.

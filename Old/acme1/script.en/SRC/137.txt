@@ -1,0 +1,57 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS11_001)These are the Shaikos Ruins.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS11_002)It looks like there aren't 
+any Imperial Knights around.
+
+## POINTER 2
+<STR>(RAP)
+<VOICE>(VS11_003)....
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS11_004)These footprints are still fresh. 
+There's a lot of them, too.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS11_005)Which means it's either the Knights, 
+the thieves, or both.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS11_006)Some of these footprints 
+must be <STR>(FRE)'s.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS11_007)Could be.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS11_008)Hey, over here. 
+Hurry up.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS11_009)I see. So first you get 
+us alone in the dark, then 
+you zap us, huh?
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS11_010)...Hmm, "ZAP." 
+I like the way 
+that sounds...
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS11_011)H-hey, what's that supposed to mean? 
+Why are you smiling like that?
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS11_012)Let's try to get along now, okay?

@@ -1,0 +1,68 @@
+## POINTER 0
+(RIT) Appears
+
+## POINTER 1
+(EST_P)
+Heh heh heh.
+
+## POINTER 2
+(RIT)
+What's with you? First you're 
+panicked, now you're laughing.
+
+## POINTER 3
+(KAR)
+You're pretty moody yourself, (RIT).
+
+## POINTER 4
+(YUR)
+You're not really one to talk, (KAR).
+
+## POINTER 5
+(RIT)
+Just shut up!
+
+## POINTER 6
+(EST_P)
+Heh heh. I'm so glad 
+we found you here.
+
+## POINTER 7
+(EST_P)
+I mean, I gave up going back to the 
+capital, so even if you had visited me, 
+I wouldn't have been there!
+
+## POINTER 8
+(YUR)
+Oh, how sweet, (RIT). 
+You were gonna go visit (EST_P).
+
+## POINTER 9
+(RIT)
+I...I wouldn't go to the capital just 
+to visit someone.
+
+## POINTER 10
+(RIT)
+I mean, I have to report my findings 
+on the aer krene.
+
+## POINTER 11
+(RIT)
+I just thought I'd say hi or something...
+
+## POINTER 12
+(JUD)
+I don't know.
+That sounds like an excuse 
+for a visit with (EST_P) to me.
+
+## POINTER 13
+(RIT)
+Y-you stay out of this!
+
+## POINTER 14
+(YUR)
+Aw come on. We're all together again. 
+Let's just be happy about that.

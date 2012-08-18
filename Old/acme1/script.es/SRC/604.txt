@@ -1,0 +1,197 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+
+¿Eres tú, <STR>(KAR)?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+<STR>(KAR)
+¡Dyne!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+<STR>(JUD)
+¿Quién es?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+<STR>(KAR)
+Os lo presentaré. Este es Dyne,
+de los Espadas Cazadoras.<PAGE>Se encargó mucho de mí
+cuando estaba en ese gremio.<PAGE>Estos son mis compañeros de Gran Vesperia.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+Dyne
+Me enteré de que empezaste un gremio por
+tu cuenta después de que nuestra querida
+Nan te mandase a tomar viento.<PAGE>¿Y? ¿Van bien las cosas?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+<STR>(KAR)
+Sí, nos las apañamos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+<STR>(YUR)
+<STR>(KAR).
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+<STR>(KAR)
+¿Eh? ¿Qué pasa?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+<STR>(YUR)
+¿Seguro que esto está bien?
+Tienes una historia un poco chunga
+con los Espadas Cazadoras, ¿no?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+<STR>(KAR)
+¿Lo qué? Oh, pero
+Dyne no es así.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+Dyne
+Este crío tiene la costumbre de intentar
+aparentar ser mayor de lo que es, y por
+eso los otros le echaban la bronca.<PAGE>Pero yo no. Cuando empecé era casi igual
+que él, así que me sentí identificado.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+<STR>(YUR)
+Ah.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+Dyne
+Me alegra ver que
+te llevas bien con
+tu nuevo grupo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+<STR>(KAR)
+Sí, siempre
+lo damos todo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+Dyne
+Oh, una cosa.<PAGE>Me gustaría pediros
+un favorcillo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+<STR>(KAR)
+¿Cuál?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+Dyne
+Pronto me iré a Desier a ocuparme
+de un monstruo. Aunque este es
+un bicho horrible de verdad.<PAGE>El jefe y Tison han ido por otro
+trabajo, así que no puedo pedírselo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+<STR>(KAR)
+Vamos, ¿qué quieres
+que te ayudemos?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+Dyne
+Sí, básicamente es eso.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+<STR>(KAR)
+¿Aceptamos el trabajo?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+¿Aceptar el trabajo?
+Aceptar
+Rechazar
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+Dyne
+Oh, ¿en serio lo haréis?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1291456189]
+<STR>(YUR)
+Claro, un amigo de <STR>(KAR) es nuestro amigo.
+Tú dinos lo que necesitas que hagamos.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+<STR>(KAR)
+¡Por el nombre de Gran Vesperia,
+la estrella que más brilla en
+la noche, aceptamos esta tarea!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+Dyne
+Hala, <STR>(KAR), diciendo eso
+ya pareces mayor y todo.<PAGE>Muy bien pues. Más os vale aseguraros
+de ir bien preparados. Hay que tener
+un buen par para ir a por ese bicho.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+<STR>(KAR)
+Vale.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+Dyne
+Mi cliente me está esperando en
+Mantaic, así que me adelantaré.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+<STR>(EST_P)
+Ha dicho Mantaic,
+¿verdad?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+<STR>(YUR)
+Sí. ¿Hay algo raro en eso?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+<STR>(EST_P)
+Me pregunto si el monstruo
+al que se refiere
+se trata de Phaeroh...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+<STR>(KAR)
+Si es eso, le tendremos
+que explicar la situación
+a Phaeroh.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+<STR>(KAR)
+Pero Phaeroh ya se
+ha convertido en Efreet...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+<STR>(YUR)
+Resumiendo, si resulta que Phaeroh
+es el objetivo de su trabajo,
+mejor no lo cogemos.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+<STR>(KAR)
+Pero ya hemos dicho que lo
+haríamos, y además es Dyne...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+<STR>(JUD)
+Vamos a Mantaic. Eso nos ayudará
+a decidir qué hacer.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+<STR>(KAR)
+Por mí guay.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+<STR>(EST_P)
+Asegurémonos de tener todo lo que
+necesitemos antes de partir.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+<STR>(YUR)
+Buena idea.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1293659971]
+Dyne
+No, ¿eh? No me esperaba esa respuesta.<PAGE>Pero no tiene sentido lamentarse.
+Tendré que buscar ayuda en otro sitio.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:Lia;time:1291457124]
+Dyne
+Oh, ¿haréis el trabajo?

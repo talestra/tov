@@ -1,0 +1,151 @@
+## POINTER 0
+<STR>(YUR)
+What's the matter, <STR>(RAP)?
+
+## POINTER 1
+<STR>(RAP)
+Woof!
+
+## POINTER 2
+
+Wooo!
+
+## POINTER 3
+<STR>(YUR)
+...That's your...former 
+nemesis!
+
+## POINTER 4
+<STR>(KAR)
+Say again?
+
+## POINTER 5
+<STR>(EST_P)
+That's the dog <STR>(YUR) was talking about, 
+who used to rule over all of the 
+dogs and cats in the capital...
+
+## POINTER 6
+<STR>(YUR)
+Yeah, it's the Little Wolf.
+
+## POINTER 7
+<STR>(RAP)
+(It's been a while, Old Man.)
+
+## POINTER 8
+
+(Don't think I've forgotten 
+how you drove me out of the 
+capital like a common stray.)
+
+## POINTER 9
+<STR>(RAP)
+(We settled everything fair and square in battle. 
+You have no right to still hold a grudge.)
+
+## POINTER 10
+
+(You had to go and 
+take pity on me...)<PAGE>(Why didn't you just kill me 
+when you had the chance?)
+
+## POINTER 11
+<STR>(RAP)
+(I haven't sunk so low as to raise 
+a paw against a defeated loser.)
+
+## POINTER 12
+
+(Me, a loser? You filthy 
+mutt. I've still never 
+lost to you in person.)
+
+## POINTER 13
+<STR>(RAP)
+(So you want to fight mano a mano?)
+
+## POINTER 14
+
+(You catch on quick.)
+
+## POINTER 15
+
+(No, a physical confrontation 
+wouldn't be a fair fight.)<PAGE>(It has to be a marking battle.)
+
+## POINTER 16
+<STR>(RAP)
+(What do you mean?)
+
+## POINTER 17
+
+(It's a battle to see which of us can mark more 
+places that we go as our own territory.)<PAGE>(A battle spanning the whole globe!)
+
+## POINTER 18
+<STR>(RAP)
+(Hmmm, sounds pretty interesting...)<PAGE>(You sure you'll be 
+able to keep up?)
+
+## POINTER 19
+
+(That's my line. Sit around 
+on your haunches and I'm gonna 
+leave you in the dust.)
+
+## POINTER 20
+<STR>(YUR)
+Hmph, <STR>(RAP)'ll catch up with him in no time.
+
+## POINTER 21
+<STR>(RAV)
+Yeah, I hope so.
+
+## POINTER 22
+<STR>(KAR)
+...How long are they going to be doing it?
+
+## POINTER 23
+<STR>(YUR)
+Huh? Oh, <STR>(RAP), 
+you're finished.
+
+## POINTER 24
+<STR>(RAP)
+Woof!
+
+## POINTER 25
+<STR>(YUR)
+Where'd you go off to, <STR>(EST_P)?
+
+## POINTER 26
+<STR>(EST_P)
+Here you go, <STR>(KAR).
+
+## POINTER 27
+<STR>(KAR)
+Wh-what's this...?
+
+## POINTER 28
+<STR>(EST_P)
+You can use this to make notes 
+of all of the places where <STR>(RAP)'s 
+marked his territory.
+
+## POINTER 29
+<STR>(KAR)
+Huh? Y-you want me to do it...?
+
+## POINTER 30
+<STR>(YUR)
+This sort of thing is what 
+Captain <STR>(KAR) does best!
+
+## POINTER 31
+<STR>(RAP)
+Woof!
+
+## POINTER 32
+<STR>(YUR)
+We're counting on you!

@@ -1,0 +1,161 @@
+## POINTER 0 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+<STR>(JUD)
+¡Buenas!
+
+## POINTER 1 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+
+Buenas, hermana.
+
+## POINTER 2 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+<STR>(JUD)
+<STR>(JUD).
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495496]
+
+Me llamo Tort.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495496]
+<STR>(JUD)
+Por casualidad no sabrás
+algo de Myorzo, ¿verdad?
+Me gustaría ir.<PAGE>Necesito saber dónde
+está Myorzo y cómo
+puedo llegar allí.
+
+## POINTER 5 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+Toth
+Aunque llegases a la ciudad,
+no tiene nada de especial.
+¿Qué planeas hacer allí?
+
+## POINTER 6 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+<STR>(JUD)
+¿Que una krityana tenga interés
+en su ciudad ancestral
+no es razón suficiente para ir?
+
+## POINTER 7 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+Toth
+Es una razón aceptable.
+Pero me temo que no tengo
+ni idea de dónde puede estar.
+
+## POINTER 8 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283196037]
+<STR>(JUD)
+Ya había oído
+tu nombre antes, Tort.<PAGE>Guías a los krityanos que están
+en la tierra a subir a los cielos.
+
+## POINTER 9 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+<STR>(JUD)
+¿No me lo dirás porque
+estos humanos van conmigo?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495496]
+Toth
+Una antigua ley dice que no podemos
+mostrar el camino a Myorzo a nadie
+excepto a nuestros hermanos y hermanas.
+
+## POINTER 11 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285488106]
+<STR>(JUD)
+¿No debería tener más importancia
+si son de confianza o no
+que si son krityanos?<PAGE>Al menos estos humanos
+son dignos de confianza.
+
+## POINTER 12 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+Toth
+Volveré a preguntar.<PAGE>¿Por qué queréis
+ir a Myorzo?
+
+## POINTER 13 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283196037]
+<STR>(YUR)
+Gracias a los blastias,
+el mundo va a ir al carajo.<PAGE>Queremos ir para saber
+qué pasó en el pasado y
+cómo podemos solucionarlo.<PAGE>Queremos ayudar a todo el mundo,
+no solo a los krityanos.
+¿Qué me dices? 
+
+## POINTER 14 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+Toth
+Muy bien.<PAGE>No sé si encontraréis
+las respuestas que buscáis,
+pero os lo diré.<PAGE>Aunque con una condición.
+
+## POINTER 15 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+<STR>(YUR)
+¿Cuál?
+
+## POINTER 16 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+Toth
+Para llegar a Myorzo debéis
+pasar por el bosque de Egothor.
+
+## POINTER 17 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+<STR>(KAR)
+¿El bosque de Egothor? ¿El que está
+en el continente de Hypionia?
+He oído hablar de él...
+
+## POINTER 18 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+<STR>(JUD)
+Sí, allí está la tierra
+sagrada de los krityanos.<PAGE>Así que la puerta
+a Myorzo está allí...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027156]
+Toth
+Exacto. Pero esas tierras están
+siendo arrasadas por un grupo
+desconocido de gente.<PAGE>No solo han invadido nuestra tierra sagrada,
+sino que también han traído blastias extraños.<PAGE>No sé qué pretenden,
+pero seguro que nada bueno.
+
+## POINTER 20 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283192503]
+<STR>(YUR)
+Vamos, que quieres que
+hagamos algo al respecto.
+
+## POINTER 21 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283196037]
+Toth
+Eso es. Quiero que
+devolváis la paz a
+nuestra tierra sagrada.
+
+## POINTER 22 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283194085]
+<STR>(JUD)
+¿Qué estará pasando?
+
+## POINTER 23 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283194085]
+Toth
+Una vez hayáis echado a los intrusos,
+haced sonar esta campana.<PAGE>Os abrirá la
+puerta a Myorzo.
+
+## POINTER 24 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283194085]
+<STR>(JUD)
+Gracias.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495496]
+Toth
+Que la buenaventura sea contigo, hermana.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495496]
+<STR>(JUD)
+Lo mismo digo.<PAGE>Vamos adonde nos
+están esperando.
+
+## POINTER 27 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283194085]
+<STR>(YUR)
+Sí.
+
+## POINTER 28 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283196037]
+
+¿Estás buscando Myorzo?<PAGE>Es la ciudad que mencionan en
+las leyendas krityanas.
+Es lo único que sé.<PAGE>¿Dónde está?
+Ni idea.<PAGE>Y aunque lo supiese,
+no estaría bien decírselo
+a alguien que no es un krityano.

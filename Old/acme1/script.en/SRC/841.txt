@@ -1,0 +1,375 @@
+## POINTER 0
+Sicily
+Oh, buona sera! How 
+have you been?
+
+## POINTER 1
+<STR>(KAR)
+Oh, it's Mr. Sicily!
+
+## POINTER 2
+<STR>(RIT)
+I swear, that kook 
+is definitely following us.
+
+## POINTER 3
+Karolow X
+Professor Sicily... 
+I missed you, jarnk!!
+
+## POINTER 4
+Sicily
+Oh, it's Sterrilow! 
+Have you been well, 
+Sterrilow?
+
+## POINTER 5
+Karolow X
+I've been very well, jaaaarnk! 
+It looks like you've been well 
+too, Professor Sicily! Jarnk!
+
+## POINTER 6
+<STR>(YUR)
+Sterrilow...? That's 
+not his name...
+
+## POINTER 7
+<STR>(JUD)
+So what? <STR>(KAR)ow doesn't 
+seem to mind, anyway.
+
+## POINTER 8
+
+Th-thieeeef! 
+Catch him!!
+
+## POINTER 9
+<STR>(YUR)
+Get him, <STR>(RAP)!
+
+## POINTER 10
+<STR>(RAP)
+Woof!
+
+## POINTER 11
+
+Y-you stupid mutt...!!
+
+## POINTER 12
+
+That was amazing...
+Thank you, my canine friend...
+
+## POINTER 13
+<STR>(RAP)
+Woof woof!
+
+## POINTER 14
+Sicily
+What an amazing dog!
+
+## POINTER 15
+<STR>(YUR)
+Yeah, you can count on 
+<STR>(RAP). He's more reliable 
+than most humans I know.
+
+## POINTER 16
+Sicily
+So he can really fight after 
+all... He has a weapon too!
+
+## POINTER 17
+<STR>(KAR)
+That's right! <STR>(RAP)'s faster 
+than just about anything!
+
+## POINTER 18
+<STR>(RAP)
+Woof!
+
+## POINTER 19
+Sicily
+Hmmm... This gives me 
+some motivazione...
+
+## POINTER 20
+<STR>(YUR)
+Huh? Now you've taken an 
+interest in <STR>(RAP)...?
+
+## POINTER 21
+Sicily
+Si, I think so...I think I could make
+something very nice... But could he 
+really use it to its full potential...?
+
+## POINTER 22
+<STR>(EST_P)
+It seems like...you have 
+something on your mind.
+
+## POINTER 23
+Karolow X
+Be quiet, jarnk! 
+Professor Sicily 
+is thinking!
+
+## POINTER 24
+Sicily
+Hmmm, it looks like 
+this dog should be 
+able to use it! Si!
+
+## POINTER 25
+<STR>(YUR)
+What's that? Something 
+about <STR>(RAP)?
+
+## POINTER 26
+Sicily
+Just wait un momento. 
+I will make you something 
+very good...
+
+## POINTER 27
+<STR>(RAV)
+I hope it's not some lousy let down 
+like <STR>(KAR)ow X again...
+
+## POINTER 28
+Karolow X
+Are you making fun of me?
+How dare you! How daaaare you!
+
+## POINTER 29
+Sicily
+Finito!!
+
+## POINTER 30
+<STR>(RAV)
+Wow, yer sure fast at this stuff...
+
+## POINTER 31
+Sicily
+I think this should be just 
+right for your canine amico!
+
+## POINTER 32
+<STR>(JUD)
+It looks like it's a 
+weapon for <STR>(RAP).
+
+## POINTER 33
+<STR>(YUR)
+Now this is something 
+we can use!
+
+## POINTER 34
+<STR>(RAP)
+Woof!
+
+## POINTER 35
+Karolow X
+You're the greatest, Professor 
+Sicily! It's amazing, jaarnk!
+
+## POINTER 36
+<STR>(YUR)
+Yeah, I've gotta say...thanks a lot.
+
+## POINTER 37
+Sicily
+You don't need to thank me! 
+Your dog just sparked my 
+interest a bit, you know?
+
+## POINTER 38
+<STR>(YUR)
+Ah, I see.
+
+## POINTER 39
+<STR>(RAV)
+G-good for you, <STR>(RAP)...
+
+## POINTER 40
+<STR>(JUD)
+Is someone getting a little 
+lonely because no one's 
+interested in him lately?
+
+## POINTER 41
+<STR>(RAV)
+Ha ha ha, whaddaya mean...? 
+Enough with the jokes, 
+<STR>(JUD) darlin'...
+
+## POINTER 42
+Sicily
+Well then, until we meet 
+again, amici! Arrivederci!
+
+## POINTER 43
+Sicily
+Hmmm, si... It appears you need 
+to be a bit stronger first...
+
+## POINTER 44
+<STR>(YUR)
+What's that? Something about <STR>(RAP)?
+
+## POINTER 45
+Sicily
+Your canine amico should come 
+back when he is stronger! I'll make 
+you something very nice if you do!
+
+## POINTER 46
+<STR>(RAV)
+I hope it's not some lousy let 
+down like <STR>(KAR)ow X again...
+
+## POINTER 47
+Karolow X
+Are you making fun of me?
+How dare you! How daaaare you!
+
+## POINTER 48
+<STR>(YUR)
+All right, we'll be sure to swing
+by once <STR>(RAP)'s gotten stronger
+than he is now.
+
+## POINTER 49
+Sicily
+Si, very good! Good luck!
+
+## POINTER 50
+<STR>(KAR)
+I wonder if he's planning 
+something crazy like last time?
+
+## POINTER 51
+<STR>(YUR)
+I dunno. I can't wait for <STR>(RAP) 
+to get a bit tougher so we can 
+see what he's got up his sleeve.
+
+## POINTER 52
+<STR>(JUD)
+We'd better hurry before 
+that guy finds something 
+else to get obsessed with.
+
+## POINTER 53
+<STR>(YUR)
+You ready to work hard, <STR>(RAP)?
+
+## POINTER 54
+<STR>(RAP)
+Woof!
+
+## POINTER 55
+Sicily
+Oh, your canine amico looks 
+much stronger than last time!
+
+## POINTER 56
+<STR>(RAP)
+Woof!
+
+## POINTER 57
+Sicily
+I think maybe he'll be 
+able to use it now...
+
+## POINTER 58
+Sicily
+Just wait un momento, okay? I will 
+make you something very good...
+
+## POINTER 59
+Sicily
+Finito!!
+
+## POINTER 60
+<STR>(RAV)
+Wow, yer sure fast at this stuff...
+
+## POINTER 61
+Sicily
+I think this should be just 
+right for your canine amico!
+
+## POINTER 62
+<STR>(JUD)
+It looks like it's a 
+weapon for <STR>(RAP).
+
+## POINTER 63
+<STR>(YUR)
+Now this is something we can use!
+
+## POINTER 64
+<STR>(RAP)
+Woof!
+
+## POINTER 65
+Karolow X
+You're the greatest, Professor 
+Sicily! It's amazing, jaarnk!
+
+## POINTER 66
+<STR>(YUR)
+Yeah, I've gotta say...thanks a lot.
+
+## POINTER 67
+Sicily
+You don't need to thank me! Your dog, he 
+just sparked my interest a bit, you know?
+
+## POINTER 68
+<STR>(YUR)
+Ah, I see.
+
+## POINTER 69
+<STR>(RAV)
+G-good for you, <STR>(RAP)...
+
+## POINTER 70
+<STR>(JUD)
+Is someone getting a little 
+lonely because no one's 
+interested in him lately?
+
+## POINTER 71
+<STR>(RAV)
+Ha ha ha, whaddaya mean...? 
+Enough with the jokes, 
+<STR>(JUD) darlin'...
+
+## POINTER 72
+Sicily
+Well then, until we meet again, 
+amici! Arrivederci!
+
+## POINTER 73
+Sicily
+Hmmm, your canine amico still isn't 
+strong enough. Signor Dog, come back 
+when you are more forte! More...robusto!
+
+## POINTER 74
+<STR>(YUR)
+Oh, I see...
+
+## POINTER 75
+<STR>(RAP)
+*Whimper*
+
+## POINTER 76
+<STR>(KAR)
+At least it seems like he's 
+still interested in <STR>(RAP)... 
+We should hurry.

@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298325296]
+<STR>(KAR)
+¡<STR>(FRE) ha enviado a sus
+Caballeros para ayudarnos!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283477297]
+<STR>(YUR)
+Ese idiota... ¡Mira que mandar aquí
+a sus mejores subordinados! Debería
+preocuparse de su propio trasero.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283477297]
+<STR>(RIT)
+Pero nos ha salvado.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285105288]
+<STR>(KAR)
+Debía estar preocupado de verdad.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283477297]
+<STR>(JUD)
+¿Por nosotros? 
+¿O por <STR>(EST_P)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1283477297]
+<STR>(RIT)
+Espero que por ambas cosas.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1283477297]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1283477306]
+<STR>(YUR)
+Anda que... Como si
+le sobrara tiempo para
+preocuparse por otros.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283477297]
+<STR>(YUR)
+Así que <STR>(FRE) todavía no
+ha perdido su parte cándida...

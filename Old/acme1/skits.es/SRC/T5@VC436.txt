@@ -1,0 +1,41 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298116033]
+¿Esta es la maldición?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298116033]
+(EST_P)
+No hay manera de encontrar el camino
+en este bosque. ¡Oh! ¿Es posible que
+esta sea la maldición?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298116033]
+(EST_P)
+¡¿Qué hacemos, (YUR)?! ¡Al final
+sí que había una maldición!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298116033]
+(YUR)
+No seas idiota.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303319]
+(EST_P)
+¿O... es que no tienes sentido
+de la orientación?
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303319]
+(YUR)
+No, por supuesto que tengo... creo...
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303319]
+(EST_P)
+¡Entonces quizá sea culpa mía!
+¿Qué deberíamos hacer?
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303319]
+(YUR)
+Dicen que no hay cura para la
+estupidez, pero ojalá se pudiera
+mejorar el sentido de la orientación.
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303319]
+(RAP)
+*Gemido*

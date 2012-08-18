@@ -1,0 +1,116 @@
+## POINTER 0
+
+Hey there, welcome, welcome! 
+How's it hangin'?<PAGE>I'll show you something 
+you don't see everyday!
+
+## POINTER 1
+<STR>(RAV)
+Hmm, just looks 
+like a regular ol' 
+model to me.
+
+## POINTER 2
+
+This is why I don't like giving 
+the presentation to amateurs! Meh! 
+Anyway, have a look, will ya?
+
+## POINTER 3
+<STR>(RIT)
+He's just talking to us like 
+he knows us...and yet, it's really 
+getting on my nerves...
+
+## POINTER 4
+<STR>(YUR)
+Try not to let it rile 
+you up so much, <STR>(RIT).
+
+## POINTER 5
+
+Come on now, enough 
+mumbling to yourselves! 
+Look! Look!
+
+## POINTER 6
+<STR>(KAR)
+Huh?
+Huuh? 
+Me?
+
+## POINTER 7
+<STR>(YUR)
+Who better than the 
+ever-curious Captain <STR>(KAR)? 
+It's right there...just do it.
+
+## POINTER 8
+<STR>(KAR)
+Why do I always have 
+to be the guinea pig...
+
+## POINTER 9
+<STR>(JUD)
+You're getting to be pioneer 
+of the group, twice in a row! 
+I think you should be proud!
+
+## POINTER 10
+<STR>(KAR)
+You're just trying to make 
+me feel better about it...
+
+## POINTER 11
+<STR>(KAR)
+Ugh... Okay, I'm 
+going to look... 
+I'm gonna do it!
+
+## POINTER 12
+<STR>(KAR)
+Awesome! I remember when 
+that happened, and now I 
+got to see it happen again!
+
+## POINTER 13
+
+See, I told ya! This isn't something 
+you see everyday, now is it?<PAGE>This wonderful device has 
+the all-too-appropriate name 
+of the "Movie Player V"!<PAGE>Its only function is to let 
+you watch events that've already 
+happened. Easy as pie!
+
+## POINTER 14
+<STR>(EST_P)
+This is some truly 
+remarkable blastia.
+
+## POINTER 15
+
+Blastia? That shabby excuse 
+for a technology? You 
+underestimate us!
+
+## POINTER 16
+<STR>(RIT)
+Shabby? Whaddya mean shabby?!
+
+## POINTER 17
+<STR>(YUR)
+<STR>(RIT), chill. So, we 
+can look at this whenever 
+we want, then?
+
+## POINTER 18
+
+So long as you wash your hands 
+before using it, yep! Oh, and try 
+not to hit or kick it, either!
+
+## POINTER 19
+<STR>(JUD)
+You don't need to worry. We're 
+all mature individuals here. 
+We'll come and see it again!

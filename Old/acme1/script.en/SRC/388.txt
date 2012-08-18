@@ -1,0 +1,76 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS36_108)<STR>(YUR)! It's terrible!
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS36_109)The Union and Palestralle are 
+squaring off against each 
+other with hoplon blastia!<PAGE><VOICE>(VS36_110)The Don is back, but 
+something's not right.
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS36_111)So, he made it back in 
+time. Looks like my 
+hunch was right, though...
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS36_112)What do you mean, 
+"your hunch?"
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VS36_113)He's been planning for this ta 
+end in his death all along.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS36_114)What?! Why would he want 
+to do something like that?
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS36_115)Belius died because of 
+Harry's rash behavior.<PAGE><VOICE>(VS36_116)She's the Duce of Nordopolica.
+Ya can't just say, "Sorry, I
+got some bad information."<PAGE><VOICE>(VS36_117)Which means there's 
+gotta be compensation ta 
+make up for losin' Belius.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS36_118)So the price Don mentioned back 
+at the Manor of the Wicked was...
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS36_119)His own life...<PAGE><VOICE>(VS36_120)Once he'd made up his mind to sacrifice 
+himself, taking down Yeager wasn't a problem, 
+even if it meant going against the laws.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS36_121)No! He can't do that!
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS36_122)There has to be some other way!
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS36_123)Both sides are at the breakin' 
+point, though. This thing could 
+go off at the drop of a hat.<PAGE><VOICE>(VS36_124)And if it starts, it'll mean 
+all-out war between 
+the Union and Palestralle.<PAGE><VOICE>(VS36_125)There might be another way, but 
+there isn't time ta look for it.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS36_126)...
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS36_127)...I'm going with <STR>(KAR).

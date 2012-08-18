@@ -1,0 +1,99 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(YUR)
+<VOICE>(VS25_082)¿Listos para irnos?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(EST_P)
+<VOICE>(VS25_083)¿Qué hacemos con lo de <STR>(RIT)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(JUD)
+<VOICE>(VS25_084)Ella ya tiene asuntos
+de los que ocuparse.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(YUR)
+<VOICE>(VS25_085)Supongo que tienes razón.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368768]
+<STR>(RIT)
+<VOICE>(VS25_086)Primero toca ir al puerto
+y después encontrar un barco, ¿no?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(KAR)
+<VOICE>(VS25_087)¿Eh? ¿Quieres decir que...?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(YUR)
+<VOICE>(VS25_088)¿Vienes con nosotros?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(RIT)
+<VOICE>(VS25_089)Claro.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(RAV)
+<VOICE>(VS25_090)¿No tenías k'hacer
+otras cosillas?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(EST_P)
+<VOICE>(VS25_091)Tenías que ir a investigar
+el aer krene, ¿no es así?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368768]
+<STR>(RIT)
+<VOICE>(VS25_092)Resulta que el que me pidió
+el comandante Alexei, el de
+Keiv Moc, ya está investigado.<PAGE><VOICE>(VS25_093)Y aún no tenía pensado ningún
+orden específico para investigar
+los que quedan.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368768]
+<STR>(JUD)
+<VOICE>(VS25_094)¿Así que piensas utilizarnos para
+ayudarte en tus investigaciones?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368768]
+<STR>(RIT)
+<VOICE>(VS25_095)No puedo garantizaros que
+no vaya a meterme en líos como
+en Heliord.<PAGE><VOICE>(VS25_096)Pero es más seguro que vaya
+con vosotros a que vaya sola.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(YUR)
+<VOICE>(VS25_097)Es un alivio ver que tu encantadora
+personalidad sigue intacta.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(EST_P)
+<VOICE>(VS25_098)¡Entonces volvemos a viajar
+todos juntos! ¡Qué alegría!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(RIT)
+<VOICE>(VS25_099)Ya, bueno... Mmmm...
+Ya sabes... No es para tanto.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368768]
+<STR>(RIT)
+<VOICE>(VS25_100)E-En fin, todo el mundo
+al puerto, ¿vale?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(RAV)
+<VOICE>(VS25_101)¡Ah, juventú, divino tesoro! Vaya que sí.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(RIT)
+<VOICE>(VS25_102)¡¿Tienes algo que decir?!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(RAV)
+<VOICE>(VS25_103)¡Ea! ¡Quieta pará, niña!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1275687815]
+<STR>(YUR)
+<VOICE>(VS25_104)Al puerto se ha dicho.

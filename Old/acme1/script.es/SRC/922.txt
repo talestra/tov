@@ -1,0 +1,145 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1295118839]
+<STR>(RIT)
+¿Eh? No hay nadie...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295118839]
+Kaufman
+Oh, ¿ya estás aquí? Perdona.
+Hemos estado muy ocupados,
+tal y como está el mundo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1295118839]
+<STR>(RIT)
+He traído ○○○○ 
+y ○○○○, como
+me pediste.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1295118839]
+Kaufman
+Pues adelante...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1295118839]
+<STR>(RIT)
+¡Déjamelo a mí!<PAGE>Vosotros...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(YUR)
+... esperáis aquí. Ya nos sabemos la frase.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1295118839]
+<STR>(RIT)
+Bien. Hasta luego...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(KAR)
+Allá va otra vez...
+Me pregunto qué hará allí dentro.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(YUR)
+Seguramente juguetear
+con los blastias.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(JUD)
+Las cosas que nos han pedido tenían
+relación con conversores de aer.<PAGE>Aunque no ha sido difícil
+de deducir, con lo emocionada
+que se ha puesto.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(YUR)
+¿Te has dado cuenta, <STR>(JUD_P)?
+¿Crees correcto que trabaje así con blastias?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(JUD)
+No parece que tenga relación
+con los blastias hermes.
+No hace falta que destruirlos.<PAGE>Pero necesitaríamos los núcleos y convertirlos
+en espíritus para poder detener el adephagos.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1295119299]
+<STR>(EST_P)
+Me da un poco
+de pena...<PAGE>Aunque saben que al final tendrán que destruirlos,
+siguen investigando para mejorarlos...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(YUR)
+<STR>(RIT) también lo sabe. Pero
+estará obsesionada con los blastias
+hasta el mismísimo final.<PAGE>No, en su caso, es más
+amor que obsesión, creo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(EST_P)
+Sí...
+Es exactamente
+lo que diría <STR>(RIT).
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(YUR)
+Bueno, de algo sirve, ¿verdad?
+Lo que consigan sintetizar
+nos ayudará en nuestro viaje.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1295119299]
+<STR>(KAR)
+Oh, sí...
+Sí, claro,
+tienes razón.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1295119750]
+<STR>(RIT)
+¡¡He vueltooo!!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1295119750]
+<STR>(YUR)
+Anda, bienvenida.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(EST_P)
+¡Estarás cansada después de trabajar tanto!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(RIT)
+¿...?<PAGE>Pensaba que diríais: «¡Llegas
+tarde!» y que gruñiríais un poco.
+¿A qué viene esta cálida bienvenida?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(YUR)
+Je, no le des más vueltas.
+Vamos a lo importante:
+¿qué tal con los blastias?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(RIT)
+¿Con quién te crees que hablas?
+¡Ha ido perfectamente, por supuesto!<PAGE>Con mi ayuda, la síntesis de blastias ha
+alcanzado todo su potencial de producción...<PAGE>E-Esperad, quiero decir, eh...
+¡Mierda, ya me he ido de la lengua!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+Kaufman
+Je, no te preocupes, <STR>(RIT).<PAGE>No podremos seguir con el negocio
+de los blastias por mucho tiempo.<PAGE>Como sabéis, hemos usado blastias
+en nuestro proceso de síntesis.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+<STR>(RIT)
+¡Era una pequeñita que no había
+visto nunca! No he podido evitar
+preocuparme por ella...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1296953591]
+Kaufman
+¡Por la síntesis de blastias,
+y por todo el mundo, necesito
+que os esforcéis al máximo!<PAGE>¡Espero muchas cosas de
+vosotros, Gran Vesperia!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:kaene;time:1295119750]
+<STR>(KAR)
+¡Muy bien! ¡Cuenta con nosotros!

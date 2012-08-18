@@ -1,0 +1,25 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660310]
+<STR>(KAR)
+¡Caray! ¡Esa cosa es enorme! Tiene que
+ser el monstruo que nos persiguió cuando
+vinimos aquí a por la livianita.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660310]
+<STR>(EST_P)
+¿Y el cliente secuestrado?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660310]
+<STR>(YUR)
+No lo veo por aquí.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1291463745]
+<STR>(RAV)
+No creerás que s'ha convertío en un tentempié, ¿no?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291463745]
+<STR>(JUD)
+Quizá lo sepamos si echamos una miradita de cerca.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1291463745]
+<STR>(YUR)
+Tienes razón.

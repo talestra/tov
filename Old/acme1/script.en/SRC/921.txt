@@ -1,0 +1,35 @@
+## POINTER 0
+
+Excuse me, Miss <STR>(RIT), I have 
+another message from my boss.
+
+## POINTER 1
+<STR>(RIT)
+Ah, finally. What does 
+she need this time?
+
+## POINTER 2
+
+Yes ma'am. This time she's asked 
+for two things: ○○○○ and ○○○○.
+
+## POINTER 3
+<STR>(RIT)
+Ah, yes...
+She could certainly 
+put ○○○○ to good use...
+
+## POINTER 4
+
+As usual, the items should be brought 
+to the Capua Torim office.
+
+## POINTER 5
+<STR>(RIT)
+Of course! I'll take them both to the office 
+as soon as I manage to acquire them.
+
+## POINTER 6
+<STR>(YUR)
+Taken out of context, that conversation 
+would sound pretty shady...

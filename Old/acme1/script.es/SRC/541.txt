@@ -1,0 +1,88 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289833203]
+<STR>(YUR)
+<VOICE>(VS64_001)¡Hala! ¿Ya han construido todo esto?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298579948]
+<STR>(EST_P)
+<VOICE>(VS64_002)No puedo creer que esta ciudad
+haya crecido tanto en tan poco tiempo...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(RAV)
+<VOICE>(VS64_003)Y pa mí que no han usao
+magia. Mirad.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(RIT)
+<VOICE>(VS64_004)Parece que se han dejado la piel.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(JUD)
+<VOICE>(VS64_005)Y que los Caballeros también han dado guerra.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(KAR)
+<VOICE>(VS64_006)Supongo que esto es lo que se consigue
+cuando la gente trabaja unida.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+Kaufman
+<VOICE>(VS64_007)¿Y bien? ¿Qué os parece?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(YUR)
+<VOICE>(VS64_008)Me quito el sombrero.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(FRE)
+<VOICE>(VS64_009)¿Cómo os ha ido
+a vosotros, <STR>(YUR)?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(YUR)
+<VOICE>(VS64_010)Hemos hablado con ellos.<PAGE><VOICE>(VS64_011)Les dijimos que hablaríamos con
+Su Majestad en cuanto pudiéramos.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(FRE)
+<VOICE>(VS64_012)Vale. He hablado con
+Su Majestad y parece
+dispuesto a venir.<PAGE><VOICE>(VS64_013)De hecho, viene
+ahora mismo en barco.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(JUD)
+<VOICE>(VS64_014)Va por el camino largo...<PAGE><VOICE>(VS64_015)Haré que Ba'ul lo recoja.
+También a Harry y a Natz.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(YUR)
+<VOICE>(VS64_016)¿En serio? ¿No se
+enfadará Ba'ul?
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(JUD)
+<VOICE>(VS64_017)No queda tiempo, ¿no?
+Ba'ul comprende bien eso.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(FRE)
+<VOICE>(VS64_018)Nos sería de gran ayuda.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(FRE)
+<VOICE>(VS64_019)Se nos acaba el tiempo.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(EST_P)
+<VOICE>(VS64_020)Así que los líderes del mundo
+por fin van a reunirse.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(KAR)
+<VOICE>(VS64_021)Solo nos queda ver si entenderán
+lo que pretendemos hacer.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287476510]
+<STR>(YUR)
+<VOICE>(VS64_022)Ya.

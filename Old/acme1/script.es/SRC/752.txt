@@ -1,0 +1,187 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1293394733]
+<STR>(RIT)
+¿Qué estáis
+haciendo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+Nobis
+¿Eh? Vaya, ¡pero
+si es Gran Vesperia!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+<STR>(YUR)
+Oh, Nobis. Parece que te van bien las cosas.
+Estábamos preocupados por ti.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1293394733]
+Nobis
+Sí, tal y como podéis ver,
+me he recuperado del todo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1293394733]
+<STR>(YUR)
+Genial. ¿Que estás
+haciendo con
+estos magos?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+Yu
+He forjado un arma con la livianita
+que me entregasteis.<PAGE>Ahora les he solicitado a estos magos
+que le apliquen una fórmula.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+
+¡Tengo muchísimas ganas de
+trabajar con livianita!<PAGE>
+En lo que respecta a los metales, la livianita
+tiene una conductancia increíble de aer.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1293537499]
+<STR>(KAR)
+Conductancia de aer... Eso es la facilidad
+que tiene algo de llevar aer, ¿verdad?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+<STR>(RIT)
+Exacto. Las fórmulas aplicadas a un arma con un
+nivel alto de conductancia de aer tienen efectos más
+poderosos, y eso conlleva a hacer ataques más fuertes.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+<STR>(KAR)
+¿Conductancia... de aer?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+<STR>(RIT)
+Es una medida de la facilidad que tiene algo de llevar aer.<PAGE>¿Sabes cómo usas tu bolsa
+para atacar a los enemigos?<PAGE>Las fórmulas aplicadas a un arma con un nivel
+alto de conductancia de aer tienen efectos más
+poderosos, y eso conlleva a hacer ataques más fuertes.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+<STR>(KAR)
+Así que por eso los enemigos
+se ponen pachuchos cuando
+les pego con mi bolsa.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+<STR>(RIT)
+Sí, y lo mismo pasa con mi cinturón.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1293537499]
+<STR>(KAR)
+Mmmm. Debería cuidar más
+a mi bolsa.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1293537499]
+<STR>(RIT)
+Pues vaya, no tienes
+ni idea de tus cosas.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1293538959]
+
+Vamos a intentar aplicarle la fórmula espiritual
+que hemos desarrollado hace poco.<PAGE>Según nuestros cálculos, cuando la energía
+acumulada se libere en forma de magia, será varias
+veces más poderosa que la magia producida de aer.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+<STR>(KAR)
+Una técnica que combina una espada con magia... Qué ingenioso.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1293538959]
+Nobis
+Sí.
+En fin, si estáis
+preparados...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1293538959]
+
+Por supuesto.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1293538959]
+
+¡Ya está!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+Nobis
+Oh... ¡Emite una cantidad
+de poder fantástica!<PAGE>¡En verdad la luz de los Herreros Espirituales
+ha sido restaurada gracia a este acero!<PAGE>Ahora debo encontrar
+a alguien que la use...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1293539142]
+
+Si la encuentras, nos gustaría medir
+exactamente cuánto efecto tiene
+la magia espiritual en el arma.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+<STR>(YUR)
+¿Ah, sí? Pues aquí tenemos
+a la persona idónea para eso.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1293538959]
+<STR>(RIT)
+¿Te refieres a mí?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+<STR>(YUR)
+¿No crees que esa arma
+te iría de perlas?<PAGE>
+Y también podrías anotar información precisa.
+Está que ni pintada para ti.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1293538959]
+<STR>(RIT)
+Es cierto, pero...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+Nobis
+Me encantaría que la empuñaras.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+
+Supongo que no nos queda elección...
+Como el mismísimo cliente lo ha sugerido,
+dejaremos que se la quede el bicho raro.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1293538959]
+<STR>(RIT)
+Esto es...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+
+¿A que con solo sostenerla
+ya notas que es muy poderosa?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1293538959]
+<STR>(EST_P)
+Nos encantaría tener la
+oportunidad de usarla.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+Nobis
+Ciertamente. Nos gustaría que la usases en
+la batalla y que nos ayudases a promocionar
+nuestro gremio y nuestros servicios.<PAGE>
+¡Así quizá el nombre de los Herreros Espirituales
+vuelva a conocerse por todo el mundo y los artesanos
+más duchos nos busquen para unirse a nosotros!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+<STR>(YUR)
+De esta forma nos beneficiamos todos.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:Lia;time:1293538959]
+Nobis
+Sí.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:Lia;time:1293538959]
+<STR>(EST_P)
+Parece que te gusta.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1294529849]
+<STR>(RIT)
+Vámonos...

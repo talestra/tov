@@ -1,0 +1,158 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(KAR)
+<VOICE>(VS60_001)Hemos conseguido reunir
+a los cuatro espíritus elementales.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(YUR)
+<VOICE>(VS60_002)Ya. Ahora...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(EST_P)
+<VOICE>(VS60_003)Tenemos que convertir los núcleos
+de los blastias de todo el mundo en espíritus.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(RIT)
+<VOICE>(VS60_004)Cierto...<PAGE><VOICE>(VS60_005)Si tan solo pudiéramos controlar
+el adephagos con esos cuatro solos,
+no necesitaríamos al resto...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(RAV)
+<VOICE>(VS60_006)Er bicho ese no es que se pueda
+tomar a la ligera.<PAGE><VOICE>(VS60_007)Más nus vale asegurarnos de que estamos
+listos. No habrá una segunda oportunidá.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(RIT)
+<VOICE>(VS60_008)Lo sé, lo sé...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(JUD)
+<VOICE>(VS60_009)Al crear a los espíritus
+ya hemos cambiado
+Terca Lumireis.<PAGE><VOICE>(VS60_010)Aunque haya sido para salvar el mundo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(EST_P)
+<VOICE>(VS60_011)Estas decisiones las hemos
+tomado por nuestra cuenta.<PAGE><VOICE>(VS60_012)Ahora vamos a cambiar las vidas
+de toda la población mundial.
+Esa decisión no puede ser solo nuestra.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(KAR)
+<VOICE>(VS60_013)Sí, tienes razón.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(YUR)
+<VOICE>(VS60_014)
+Si no conseguimos hacerles entender
+lo que pretendemos hacer,<PAGE><VOICE>(VS60_015)entonces no seremos
+mejores que Alexei.<PAGE><VOICE>(VS60_016)
+Pero no tenemos tiempo.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(KAR)
+<VOICE>(VS60_017)Pero todavía podemos hablar
+con los Caballeros Imperiales
+y con los gremios, ¿no?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(JUD)
+<VOICE>(VS60_018)Pero si no aprueban
+nuestros métodos...<PAGE><VOICE>(VS60_019)nos convertiremos en el mal.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(YUR)
+<VOICE>(VS60_020)No puedo soportar quedarme
+de brazos cruzados y ver
+cómo se destruye el mundo.<PAGE><VOICE>(VS60_021)
+Aunque Duke consiga salvar
+el mundo a su manera,<PAGE><VOICE>(VS60_022)no servirá de nada si no
+queda nadie para vivir en él.<PAGE><VOICE>(VS60_023)Así que no me importará que la gente me considere malvado.
+Pienso renunciar a los blastias para destruir al adephagos.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(YUR)
+<VOICE>(VS60_024)¿Qué vais a hacer vosotros?
+Si queréis dejarlo, ahora es el momento.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(RAV)
+<VOICE>(VS60_025)Yo voy. Mi vida ahora
+pertenece a Gran Vesperia
+de tós modos.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(JUD)
+<VOICE>(VS60_026)Yo también. Phaeroh
+y Belius nos confiaron
+esta misión.<PAGE><VOICE>(VS60_027)Y ya sabéis que no me
+gusta dejar las cosas a medias.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(RIT)
+<VOICE>(VS60_028)Sé lo se siente cuando uno se
+arrepiente de no haber hecho algo.<PAGE><VOICE>(VS60_029)Si lo dejo ahora, me arrepentiré de verdad.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(KAR)
+<VOICE>(VS60_030)Sí, yo igual. No quiero sentirme de esa manera.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(EST_P)
+<VOICE>(VS60_031)Podré resistir lo que ocurra,
+sea cual sea el camino que elija.<PAGE><VOICE>(VS60_032)Es algo que he aprendido
+durante este viaje.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(KAR)
+<VOICE>(VS60_033)¡Y los habitantes
+del mundo lo
+entenderán!<PAGE><VOICE>(VS60_034)¡Podrán resistir
+que el mundo cambie!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(YUR)
+<VOICE>(VS60_035)Ya. Actuamos hoy para
+poder reír mañana.
+Eso es en lo que creo.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(RAP)
+<VOICE>(VS60_036)¡Guau, guau! ¡Guau!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(YUR)
+<VOICE>(VS60_037)De acuerdo, chicos.
+Juntos hasta el final.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(KAR)
+<VOICE>(VS60_038)Preparémonos y después vayamos
+a hablar con Su Majestad Ioder
+y con la gente de los gremios.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(RAV)
+<VOICE>(VS60_039)¿Y qué necesitas exactamente
+pa estar preparao?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153647]
+<STR>(RIT)
+<VOICE>(VS60_040)Dejádmelo a mí.<PAGE><VOICE>(VS60_041)Quiero ir a una ciudad.
+Tengo que comprar
+unas cuantas cosas.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(KAR)
+<VOICE>(VS60_042)¿Qué te parece Puerto Nor?
+Está al borde de Ilyccia.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1286733704]
+<STR>(YUR)
+<VOICE>(VS60_043)A mí me gustaría saber qué ha pasado
+en la colina de Ehmead desde que el
+caminó quedó bloqueado. Vamos allá.

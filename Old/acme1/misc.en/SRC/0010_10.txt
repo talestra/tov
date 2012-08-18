@@ -1,0 +1,299 @@
+## POINTER 1000
+Second Continent/15 (Crab Man: Base Type) 2/Weather AB
+
+## POINTER 1001
+Second Continent/15 (Crab Man: Base Type) 3/Weather AB
+
+## POINTER 1002
+Second Continent/18 (Stag Beetle: Caucasus)  1/Weather AB
+
+## POINTER 1003
+Second Continent/18 (Stag Beetle: Caucasus)  2/Weather AB
+
+## POINTER 1004
+Second Continent/18 (Stag Beetle: Caucasus)  3/Weather AB
+
+## POINTER 1005
+Second Continent/18 (Stag Beetle: Base Type)  1/Weather AB
+
+## POINTER 1006
+Second Continent/18 (Stag Beetle: Base Type)  2/Weather AB
+
+## POINTER 1007
+Second Continent/18 (Stag Beetle: Base Type)  3/Weather AB
+
+## POINTER 1008
+Second Continent/18 (Wandering Field/Staff 2) 1/Weather B
+
+## POINTER 1009
+Second Continent/18 (Gentleman: Match) 1/Weather B
+
+## POINTER 1010
+Second Continent/18 (Gentleman: Match) 2/Weather B
+
+## POINTER 1011
+Second Continent/19 (Giant Bee: Speed) 1/Weather AB
+
+## POINTER 1012
+Second Continent/19 (Giant Bee: Speed) 2/Weather AB
+
+## POINTER 1013
+Second Continent/19 (Giant Bee: Speed) 3/Weather AB
+
+## POINTER 1014
+Second Continent/19 (Giant Bee: Base Type)  1/Weather AB
+
+## POINTER 1015
+Second Continent/19 (Giant Bee: Base Type)  2/Weather AB
+
+## POINTER 1016
+Second Continent/19 (Giant Bee: Base Type)  3/Weather AB
+
+## POINTER 1017
+Second Continent/24 (Wolf: One Horn) 1/Weather AB
+
+## POINTER 1018
+Second Continent/24 (Wolf: One Horn) 2/Weather AB
+
+## POINTER 1019
+Second Continent/24 (Sworpion: Sword) 1/Weather AB
+
+## POINTER 1020
+Second Continent/24 (Sworpion: Sword) 2/Weather AB
+
+## POINTER 1021
+Second Continent/24 (Fire Spirit: Crystal) 1/Weather AB
+
+## POINTER 1022
+Second Continent/24 (Fire Spirit: Crystal) 2/Weather AB
+
+## POINTER 1023
+Second Continent/24 (Yellow Roper) 1/Weather AB
+
+## POINTER 1024
+Third Continent/61/62/64 (Wolf: Strong Tail) 1/Weather AB
+
+## POINTER 1025
+Third Continent/61/62/64 (Wolf: Strong Tail) 2/Weather AB
+
+## POINTER 1026
+Third Continent/61/62/64 (Wolf: Strong Tail) 3/Weather AB
+
+## POINTER 1027
+Third Continent/61/62/64 (Wolf: Strong Tail) 4/Weather AB
+
+## POINTER 1028
+Third Continent/61/62/64 (Mantis: Strong Scythe)  1/Weather AB
+
+## POINTER 1029
+Third Continent/61/62/64 (Mantis: Strong Scythe)  2/Weather AB
+
+## POINTER 1030
+Third Continent/61/62/64 (Mantis: Strong Scythe)  3/Weather AB
+
+## POINTER 1031
+Third Continent/61/62/64 (Eagle: Base Type)  1/Weather AB
+
+## POINTER 1032
+Third Continent/61/62/64 (Eagle: Base Type)  2/Weather AB
+
+## POINTER 1033
+Third Continent/61/62/64 (Eagle: Base Type)  3/Weather AB
+
+## POINTER 1034
+Third Continent/61/62/64 (Polwigle: Squirrel)  1/Weather AB
+
+## POINTER 1035
+Third Continent/61/62/64 (Polwigle: Squirrel)  2/Weather AB
+
+## POINTER 1036
+Third Continent/61/62/64 (Polwigle: Squirrel)  3/Weather AB
+
+## POINTER 1037
+Third Continent/61/62/64 (Gaina Firefly) 1/Weather B
+
+## POINTER 1038
+Third Continent/61/62/64 (Gaina Firefly) 2/Weather B
+
+## POINTER 1039
+Third Continent/61/62/64 (Gaina Firefly) 3/Weather B
+
+## POINTER 1040
+Third Continent/66 (Spider: Cactus)  1/Weather AB
+
+## POINTER 1041
+Third Continent/66 (Spider: Cactus)  2/Weather AB
+
+## POINTER 1042
+Third Continent/66 (Spider: Cactus)  3/Weather AB
+
+## POINTER 1043
+Third Continent/66 (Roctus: Cactus)  1/Weather AB
+
+## POINTER 1044
+Third Continent/66 (Roctus: Cactus)  2/Weather AB
+
+## POINTER 1045
+Third Continent/66 (Roctus: Cactus)  3/Weather AB
+
+## POINTER 1046
+Third Continent/65/67/69 (Axe Beak) 1/Weather AB
+
+## POINTER 1047
+Third Continent/65/67/69 (Axe Beak) 2/Weather AB
+
+## POINTER 1048
+Third Continent/65/67/69 (Human Dagger) 1/Weather AB
+
+## POINTER 1049
+Third Continent/65/67/69 (Human Dagger) 2/Weather AB
+
+## POINTER 1050
+Third Continent/65/67/69 (Cockatrice: Base Type)  1/Weather A
+
+## POINTER 1051
+Third Continent/65/67/69 (Cockatrice: Base Type)  2/Weather A
+
+## POINTER 1052
+Third Continent/65/67/69 (Cockatrice: Base Type)  3/Weather A
+
+## POINTER 1053
+Third Continent/65/67/69 (Cockatrice: Base Type)  1/Weather B
+
+## POINTER 1054
+Third Continent/65/67/69 (Cockatrice: Base Type)  2/Weather B
+
+## POINTER 1055
+Third Continent/65/67/69 (Cockatrice: Base Type)  3/Weather B
+
+## POINTER 1056
+Third Continent/70/72/73 (Axe Beak) 1/Weather AB
+
+## POINTER 1057
+Third Continent/70/72/73 (Axe Beak) 2/Weather AB
+
+## POINTER 1058
+Third Continent/70/72/73 (Axe Beak) 3/Weather AB
+
+## POINTER 1059
+Third Continent/70/72/73 (Human Dagger) 1/Weather AB
+
+## POINTER 1060
+Third Continent/70/72/73 (Human Dagger) 2/Weather AB
+
+## POINTER 1061
+Third Continent/70/72/73 (Human Dagger) 3/Weather AB
+
+## POINTER 1062
+Third Continent/70/72/73 (Human Staff) 1/Weather AB
+
+## POINTER 1063
+Third Continent/70/72/73 (Human Staff) 2/Weather AB
+
+## POINTER 1064
+Third Continent/70/72/73 (Human Staff) 3/Weather AB
+
+## POINTER 1065
+Third Continent/70/72/73 (Axe Polwigle)  1/Weather AB
+
+## POINTER 1066
+Third Continent/70/72/73 (Axe Polwigle)  2/Weather AB
+
+## POINTER 1067
+Third Continent/70/72/73 (Dryad) 1/Weather B
+
+## POINTER 1068
+Third Continent/70/72/73 (Dryad) 2/Weather B
+
+## POINTER 1069
+Third Continent/68 (Axe Beak: Axe) 1/Weather A
+
+## POINTER 1070
+Third Continent/68 (Axe Beak: Axe) 2/Weather A
+
+## POINTER 1071
+Third Continent/68 (Axe Beak: Axe) 3/Weather A
+
+## POINTER 1072
+Third Continent/68 (Cockatrice: Base Type)  1/Weather A
+
+## POINTER 1073
+Third Continent/68 (Cockatrice: Base Type)  2/Weather A
+
+## POINTER 1074
+Third Continent/68 (Axe Beak: Axe) 1/Weather B
+
+## POINTER 1075
+Third Continent/68 (Axe Beak: Axe) 2/Weather B
+
+## POINTER 1076
+Third Continent/68 (Axe Beak: Axe) 3/Weather B
+
+## POINTER 1077
+Third Continent/68 (Cockatrice: Base Type)  1/Weather B
+
+## POINTER 1078
+Third Continent/68 (Cockatrice: Base Type)  2/Weather B
+
+## POINTER 1079
+Third Continent/74 (Axe Beak: Axe) 1/Weather AB
+
+## POINTER 1080
+Third Continent/74 (Axe Beak: Axe) 2/Weather AB
+
+## POINTER 1081
+Third Continent/74 (Treant: Dead Tree)  1/Weather AB
+
+## POINTER 1082
+Third Continent/74 (Treant: Dead Tree)  2/Weather AB
+
+## POINTER 1083
+Third Continent/74 (Superstar: Red)  1 Weather Change/Weather B
+
+## POINTER 1084
+Third Continent/74 (Superstar: Red)  2 Weather Change/Weather B
+
+## POINTER 1085
+Third Continent/75 (Filifolia: Base Type) 1/Weather A
+
+## POINTER 1086
+Third Continent/75 (Filifolia: Base Type) 2/Weather A
+
+## POINTER 1087
+Third Continent/75 (Filifolia: Base Type) 3/Weather A
+
+## POINTER 1088
+Third Continent/75 (Mandragora: Polwigle)  1/Weather A
+
+## POINTER 1089
+Third Continent/75 (Mandragora: Polwigle)  2/Weather A
+
+## POINTER 1090
+Third Continent/75 (Mandragora: Polwigle)  3/Weather A
+
+## POINTER 1091
+Third Continent/75 (Balloon Ghost: Filifolia) 1/Weather A
+
+## POINTER 1092
+Third Continent/75 (Balloon Ghost: Filifolia) 2/Weather A
+
+## POINTER 1093
+Third Continent/75 (Filifolia: Bud) 1/Weather A
+
+## POINTER 1094
+Third Continent/75 (Filifolia: Bud) 2/Weather A
+
+## POINTER 1095
+Third Continent/75 (Filifolia: Base Type) 1/Weather B
+
+## POINTER 1096
+Third Continent/75 (Filifolia: Base Type) 2/Weather B
+
+## POINTER 1097
+Third Continent/75 (Filifolia: Base Type) 3/Weather B
+
+## POINTER 1098
+Third Continent/75 (Mandragora: Polwigle)  1/Weather B
+
+## POINTER 1099
+Third Continent/75 (Mandragora: Polwigle)  2/Weather B

@@ -1,0 +1,75 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS18_089)Well, take care on the way 
+back to the capital.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS18_090)Okay.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS18_091)Do you have everything? 
+Wouldn't want to have to 
+come back later.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS18_092)If I forget anything, you'll bring 
+it to me, won't you, <STR>(YUR)?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS18_093)Hah, yeah right. 
+Okay, let's go find <STR>(FRE). 
+I'll take you that far.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS18_094)U-um, what are you all 
+going to do after this?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS18_095)Hmm. Well we did lose 
+track of the Blood Alliance...
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS18_096)That's easy, we can just go 
+to Dahn...grest. Or not.<PAGE><VOICE>(VS18_097)Man, if I go back there now, 
+they'll all just laugh at me...
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS18_098)Dahngrest? That's the 
+guild city, right?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS18_099)Y-yeah. I thought we 
+could find out about the 
+Blood Alliance there...
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS18_100)What direction is it from here?
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS18_101)Well, it's to the west I guess, but...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS18_102)Let's check it out, then. Might 
+be helpful for anybody thinking 
+of starting a guild, too.
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS18_103)Huh? For starting a guild? 
+Well let's go, then!
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS18_104)...

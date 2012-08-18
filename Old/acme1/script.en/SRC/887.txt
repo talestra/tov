@@ -1,0 +1,107 @@
+## POINTER 0
+<STR>(EST_P)
+Ack!
+E-excuse me!
+
+## POINTER 1
+
+Oh no, excuse me. Here, 
+you dropped this book.
+
+## POINTER 2
+<STR>(EST_P)
+Oh, yes... Thank 
+you very much.
+
+## POINTER 3
+
+The Collector's Book, eh...? Yours contains 
+an impressive amount of data. <PAGE>It seems you've found lots of rare 
+items. This is quite intriguing.
+
+## POINTER 4
+<STR>(EST_P)
+Oh? It is?
+
+## POINTER 5
+<STR>(EST_P)
+<STR>(RIT)'s always saying how we haven't 
+found nearly enough...
+
+## POINTER 6
+
+Ahem!
+If it wouldn't be 
+too much trouble...
+
+## POINTER 7
+<STR>(EST_P)
+Y-yes?
+
+## POINTER 8
+
+Do you think I might be able to borrow 
+this book for a short while?<PAGE>If I had one month...no, even two 
+weeks, that would be enough! Please! 
+Please let me borrow it.
+
+## POINTER 9
+<STR>(EST_P)
+Ah, well...
+
+## POINTER 10
+<STR>(RIT)
+No, you can't. That's 
+too long, anyway.
+
+## POINTER 11
+
+Ack! Mordio!
+Y-you know this
+young lady?!
+
+## POINTER 12
+<STR>(RIT)
+Yeah. I know you don't wanna hear this...<PAGE>But we can't give 
+you the book yet.
+
+## POINTER 13
+
+Wh-why?!
+
+## POINTER 14
+<STR>(RIT)
+We still haven't completed it yet. If 
+you'd like to look at it, wouldn't 
+a complete book be better, anyway?<PAGE>We don't want to have to lend 
+it to you every time we 
+make an update, either.
+
+## POINTER 15
+
+Err, I... I see, yes.<PAGE>Then once you've finished filling in that book, 
+allow me to borrow it for a bit! Of course, I 
+don't expect you to lend it to me for nothing.
+
+## POINTER 16
+<STR>(EST_P)
+Oh, you don't have to give us anything! Really, 
+it's quite all right. We'll bring it to 
+you once we've finished updating it.
+
+## POINTER 17
+
+Th-thank you!<PAGE>My name is Giovanni. You probably 
+already know this, but 
+I'm a researcher her.
+
+## POINTER 18
+<STR>(EST_P)
+Okay, Mr. Giovanni. We'll bring 
+you the Collector's Book as 
+soon as it's completed.
+
+## POINTER 19
+Giovanni
+Oh, thank you so much! I'm 
+looking forward to it.

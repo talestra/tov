@@ -1,0 +1,146 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(YUR)
+<VOICE>(VS21_500)Me alegro mucho de que
+el núcleo esté a salvo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:parsec;time:1273963514]
+<STR>(EST_P)
+<VOICE>(VS21_501)Vaya, pues sí que es pequeño
+el núcleo del aqua blastia.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1280174876]
+<STR>(KAR)
+<VOICE>(VS21_194)Así que ya lo has conseguido.
+Un problema menos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1280174876]
+<STR>(EST_P)
+<VOICE>(VS21_195)Sí, pero no hemos
+podido poner a Barbos
+bajo arresto...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551693]
+<STR>(RIT)
+<VOICE>(VS21_196)Pero ¿qué dices?
+¡Ese asqueroso está mejor...!
+¡Aaay!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1280174876]
+<STR>(YUR)
+<VOICE>(VS21_197)Todavía es pronto para decir que
+está todo solucionado. Tengo que
+asegurarme de que todavía funciona.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(RIT)
+<VOICE>(VS21_198)Los núcleos de blastia
+no se rompen tan fácilmente.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(KAR)
+<VOICE>(VS21_199)Je. Apuesto a que eso
+no lo sabías, ¿verdad, Ra...?
+¿<STR>(RAV)?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027327]
+<STR>(RIT)
+<VOICE>(VS21_200)Pero bueno, ¿de qué va
+ese tipo? Aparece solo
+cuando le da la gana.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(KAR)
+<VOICE>(VS21_201)Mira quién habla, <STR>(RIT).
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1280174876]
+<STR>(JUD)
+<VOICE>(VS21_202)Supongo que tiene que haber de todo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(YUR)
+<VOICE>(VS21_203)Probablemente estará de camino a Dahngrest.
+Seguro que nos lo encontramos si hace falta.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(EST_P)
+<VOICE>(VS21_204)¿Por qué pones una cara tan triste? 
+¿Estás bien?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(YUR)
+<VOICE>(VS21_205)Tan solo pensaba en que todavía le debo
+una paliza a ese engendro de Dedecchi.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1280174876]
+<STR>(KAR)
+<VOICE>(VS21_206)
+Ya has recuperado tu blastia, ¿no?
+¿Por qué molestarte en ir
+tras un estúpido ladrón?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1280174876]
+<STR>(YUR)
+<VOICE>(VS21_207)Ya, supongo que tienes razón.
+Pero si me lo vuelvo a encontrar,
+le esperará una buena sorpresita.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1280174876]
+<STR>(YUR)
+<VOICE>(VS21_208)Así que me esperaré en el infierno, ¿eh?
+¿Por qué ha tenido que decir algo así?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1280174876]
+<STR>(KAR)
+<VOICE>(VS21_209)Eh, vamos, hombre.
+Volvamos ya a Dahngrest.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(EST_P)
+<VOICE>(VS21_210)Sí. Tenemos que contarle
+a <STR>(FRE) qué ha sucedido
+con Barbos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1280174876]
+<STR>(YUR)
+<VOICE>(VS21_211)Hablando de <STR>(FRE).
+¿Ha sido capaz de calmar
+los ánimos en Dahngrest?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1280174876]
+<STR>(EST_P)
+<VOICE>(VS21_212)Sí. Gracias a él, el Imperio
+y los gremios depusieron
+sus armas.<PAGE><VOICE>(VS21_213)Después de eso partió
+en busca de Ragou.
+Ya debe haberlo capturado.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(YUR)
+<VOICE>(VS21_214)Oh...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(JUD)
+<VOICE>(VS21_215)Bueno, yo os dejo aquí.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(YUR)
+<VOICE>(VS21_216)¿Te vas con tu compañero?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(EST_P)
+<VOICE>(VS21_217)¿Su compañero? 
+¿A quién te refieres?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(JUD)
+<VOICE>(VS21_218)Iremos cada uno por su cuenta
+a partir de ahora. Así no nos
+entorpeceremos mutuamente.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(YUR)
+<VOICE>(VS21_219)Entiendo. Bueno, pues ya nos veremos.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1274049955]
+<STR>(JUD)
+<VOICE>(VS21_220)Sí...

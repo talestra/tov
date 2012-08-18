@@ -1,0 +1,519 @@
+## POINTER 3400 [t:1;r:1;ru:memnoch;user:kaene;time:1302025841]
+Ha sonado como una explosión
+¿Qué habrá sido?
+
+## POINTER 3401 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Arreglar el blastia es
+trabajo de los magos.<PAGE>De las negociaciones sin
+importancia se encargan los
+Caballeros de rango más bajo.
+
+## POINTER 3402 [t:1;r:1;ru:memnoch;user:memnoch;time:1303087717]
+¿Yo? ¡Don Cumore
+me ha dado la noble
+tarea de supervisar!
+
+## POINTER 3403 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Te digo que los plebeyos
+no sirven para nada.<PAGE>Han dejado que el blastia
+perdiera el control.
+¡¿En qué estarían pensando?!
+
+## POINTER 3404 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Parece que nosotros,
+la nobleza, vamos a tener
+que vigilarlos mejor.
+
+## POINTER 3405 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Esos plebeyos... Dicen que no existe división
+de clases dentro de los Caballeros.<PAGE>Grrrr...
+¡Me sacan de quicio!
+
+## POINTER 3406 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Apenas han pasado cinco años desde
+el cambio de régimen y ya se ignora
+a la nobleza.
+
+## POINTER 3407 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+¡Esta ciudad está prosperando gracias
+a nosotros, la brigada de Cumore, y
+a nuestra forma de dirigir a la gente!<PAGE>¡En cualquier caso, los plebeyos tendrían
+que estar controlados por la nobleza!
+
+## POINTER 3408 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+¡Gloria para Heliord, la ciudad
+construida por los nobles!
+
+## POINTER 3409 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Sabía que lo haría. Ese <STR>(FRE)...
+Es un gran Caballero.<PAGE>Tengo suerte de servir
+bajo sus órdenes.
+
+## POINTER 3410 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Los estúpidos arrogantes
+como Cumore nunca triunfan.
+
+## POINTER 3411 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+He servido bajo las órdenes de algunos
+superiores realmente inútiles.<PAGE>Cuanto más inútiles, mejores
+se creen. Tratar con gente
+así es muy difícil...
+
+## POINTER 3412 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Pero este <STR>(FRE) parece 
+ser una excepción.<PAGE>Un buen comandante no mete las narices 
+donde no le llaman, ni delega 
+para todo en sus subordinados.
+
+## POINTER 3413 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Puede que las autoridades estén por encima
+de otros hombres, pero eso no quiere decir
+que puedan mirarlos con aires de superioridad.<PAGE>Al revés, necesitan ser lo suficientemente
+humildes para ponerse en el lugar de otros
+y entender su punto de vista.
+
+## POINTER 3414 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+<STR>(FRE) supera esa prueba.
+
+## POINTER 3415 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Somos fieles a nuestro Imperio, aunque sería 
+más acertado decir que guardamos lealtad 
+a la gente que nos apoya.<PAGE>Nuestra familia 
+y nuestros amigos.
+
+## POINTER 3416 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Proteger esta ciudad formando parte de la
+brigada de <STR>(FRE) es una forma de demostrar 
+nuestro amor hacia el capitán <STR>(FRE).<PAGE>¿Qué?
+No me mires
+así...
+
+## POINTER 3417 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+El entrenamiento y la disciplina no suelen
+proporcionar resultados rápidos.<PAGE>Aun así, no debemos descuidar
+nuestro entrenamiento diario.
+
+## POINTER 3418 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Estoy convencido.<PAGE>Creo que entrenar duro
+siempre trae su recompensa.
+
+## POINTER 3419 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Estás instalaciones son de los Caballeros.
+Más vale que te vayas si no estás aquí
+para resolver algún asunto con nosotros.<PAGE>No tenemos nada que sea
+de tu incumbencia.
+
+## POINTER 3420 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Es una pena que la gente
+nos evite por el simple
+hecho de ser Caballeros.<PAGE>Pero da igual, es una carga que va unida
+a nuestro oficio y hay que soportarla.
+
+## POINTER 3421 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+...
+¿Cómo? ¿Quieres quedarte
+aquí? Pues vas a tener
+que soltar 100 gald.
+
+## POINTER 3422 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Si te dejamos quedar
+es gracias a don Cumore.
+Deberías estarle agradecido.
+
+## POINTER 3423 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Lo sentimos. Aún no estamos
+abiertos al público.<PAGE>Por favor, vuelve más tarde.
+
+## POINTER 3424 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+He dicho que no aún no estamos 
+listos. Vuelve más tarde.
+
+## POINTER 3425 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+¿Te gustaría quedarte?
+Solo por 350 gald.
+
+## POINTER 3426 [t:1;r:1;ru:memnoch;user:Mashmallow;time:1302031906]
+Muchas gracias. 
+Disfruta de tu estancia.
+
+## POINTER 3427 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Los Caballeros seguimos un estricto
+entrenamiento que dura de sol a sol.<PAGE>Y lo peor es que tenemos que aparecer
+los primeros si hay algún problema.
+
+## POINTER 3428 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Sinceramente, me arrepiento de haberme unido
+a los Caballeros. No es un buen trabajo.
+
+## POINTER 3429 [t:1;r:1;ru:memnoch;user:Mashmallow;time:1302033321]
+Pocas veces podemos poner
+en práctica lo que entrenamos
+a diario.<PAGE>Empiezo a sentir que el
+entrenamiento no sirve para nada.
+
+## POINTER 3430 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Uuh... ¿Qué se supone que debemos
+hacer en un momento como este?
+
+## POINTER 3431 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Ese entrenamiento tan duro que teníamos solo era
+para que el capitán martirizara a sus subordinados.
+
+## POINTER 3432 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Ya te digo yo que nuestro entrenamiento
+normal no servía para nada.
+
+## POINTER 3433 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Los Caballeros entrenamos tanto
+todos los días porque tenemos
+gente a quien proteger.
+
+## POINTER 3434 [t:1;r:1;ru:memnoch;user:kaene;time:1302114322]
+¿Para qué sirve tu entrenamiento?<PAGE>Entrenar no sirve de nada si
+no piensas tú mismo esas cosas.
+
+## POINTER 3435 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+¡Hay algo podrido en Heliord!<PAGE>¡Los explotadores viven de lujo
+y los trabajadores en la pobreza!
+
+## POINTER 3436 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+¿La gente se marcha porque el
+trabajo es demasiado agotador?<PAGE>¿O se van porque son débiles
+y no lo pueden aguantar?
+Oh, no me hagas caso...
+
+## POINTER 3437 [t:1;r:1;ru:memnoch;user:kaene;time:1302114322]
+Bienvenido.
+¿Qué necesitas?
+
+## POINTER 3438 [t:1;r:1;ru:memnoch;user:kaene;time:1302114322]
+Bienvenido.
+¡Tengo armas nuevas! Echa un ojo
+y compra lo que más te guste.
+
+## POINTER 3439 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+¿Sabías que la brigada de Cumore
+está formada por Caballeros
+arrogantes de clase noble?<PAGE>Pero estos nobles
+están a años luz
+de la clase real.
+
+## POINTER 3440 [t:1;r:1;ru:memnoch;user:kaene;time:1302114665]
+Los Caballeros son Caballeros, ¿no?
+¿Por qué fanfarronean tanto?
+
+## POINTER 3441 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+*Suspiro* No me uní a los Caballeros
+Imperiales para ser esclavo de un
+gruñón que habla mucho pero no actúa.
+
+## POINTER 3442 [t:1;r:1;ru:memnoch;user:memnoch;time:1303088246]
+Aunque no pueda hacer las guardias,
+me pregunto si podría formar parte
+de la brigada de Schwann...
+
+## POINTER 3443 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Primero me ponen en una brigada
+que yo no había elegido, y luego
+el blastia deja de funcionar...<PAGE>Lo que no me pase a mí...
+
+## POINTER 3444 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Tendré que partir en un retiro espiritual...
+
+## POINTER 3445 [t:1;r:1;ru:memnoch;user:kaene;time:1302114665]
+Ha sido tan repentino...
+¿Tener un encantador de
+dragones entre nosotros?<PAGE>Yo estaba comiendo, así
+que no he podido ir.
+
+## POINTER 3446 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Ya está bien.
+No quiero trabajar
+más de vigilante.
+
+## POINTER 3447 [t:1;r:1;ru:memnoch;user:kaene;time:1302114665]
+Pasa algo raro últimamente.
+La gente del pueblo
+está desapareciendo.<PAGE>No ha pasado nada parecido desde que
+empecé a trabajar como Caballero...
+
+## POINTER 3448 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+¿Así es la vida cotidiana en
+el continente de Tolbyccia?<PAGE>No lo aguanto...
+Quiero volver a Zaphias...
+O al menos a Puerto Torim...
+
+## POINTER 3449 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Bienvenido.
+¿Te quedarás?
+Son 350 gald.
+
+## POINTER 3450 [t:1;r:1;ru:memnoch;user:kaene;time:1302114936]
+Que tengas un
+buen viaje.
+
+## POINTER 3451 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Me escapé de la
+brigada de Cumore
+por un pelo.<PAGE>¿Dónde estarán
+esos chicos ahora?
+
+## POINTER 3452 [t:1;r:1;ru:memnoch;user:memnoch;time:1303088246]
+¡Ahora soy un Caballero
+de la brigada de <STR>(FRE)!
+
+## POINTER 3453 [t:1;r:1;ru:memnoch;user:kaene;time:1302114936]
+Bienvenidos, viajeros.
+Echad un vistazo a
+nuestra mercancía.
+
+## POINTER 3454 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Muchas gracias.
+Estaremos a la espera de
+vuestra próxima visita.
+
+## POINTER 3455 [t:1;r:1;ru:memnoch;user:kaene;time:1302114936]
+Bienvenidos.
+¿Quieres comprar un recuerdo?
+Aquí sin duda lo encontrarás.
+
+## POINTER 3456 [t:1;r:1;ru:memnoch;user:kaene;time:1302114936]
+Gracias, que tengas
+un buen viaje.
+
+## POINTER 3457 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+El coliseo, escenario de innumerables
+batallas... Es tan emocionante.
+Yo quiero morir en la arena...<PAGE>Ese es muy sueño. A que mola, ¿eh?
+Es una pena que el coliseo quede
+tan lejos de aquí...
+
+## POINTER 3458 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+El ambiente pausado
+de Yormgen no me va,
+sencillamente.<PAGE>Juro que algún día estaré en
+el coliseo... ¡y nacerán flores
+rojas de las piedras del suelo!
+
+## POINTER 3459 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Dime, ¿has estado alguna
+vez en el coliseo?<PAGE>
+¡Dicen que el ambiente es como
+un frenesí de locura! ¿Es cierto?
+
+## POINTER 3460 [t:1;r:1;ru:memnoch;user:kaene;time:1302115332]
+¿Qué? ¿De verdad has luchado
+en el coliseo? ¡No puedo creer
+que hayas salido de una pieza!<PAGE>Las apariencias engañan.
+¿Qué delito cometiste?
+
+## POINTER 3461 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+El jefe de nuestro pueblo es un gran
+hombre, pero el Sabio lo es aún más.<PAGE>El Sabio puede repeler a cualquier
+monstruo que nos ataque.
+
+## POINTER 3462 [t:1;r:1;ru:memnoch;user:kaene;time:1302115332]
+El Sabio está pensando
+en nuevas técnicas para
+expulsar a los monstruos.
+
+## POINTER 3463 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+He oído que vosotros nos habéis
+traído el cristal cielo claro.<PAGE>Con el poder del cristal, nuestro pueblo
+estará a salvo de cualquier monstruo.
+
+## POINTER 3464 [t:1;r:1;ru:memnoch;user:Lia;time:1302184584]
+Ahora nuestro pueblo
+estará a salvo de
+los monstruos.<PAGE>Es todo gracias al Sabio.
+Le estamos muy agradecidos.
+
+## POINTER 3465 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Esa caja... Creo
+haberla visto antes.<PAGE>Mmm... Aunque
+no recuerdo dónde.
+
+## POINTER 3466 [t:1;r:1;ru:memnoch;user:Lia;time:1302185253]
+¡A ver, que te he dicho que
+no recuerdo dónde la vi!
+Eres un plasta.<PAGE>No recuerdas qué tipo de zapatos
+lleva la gente cuando vas
+por la calle, ¿a que no?
+
+## POINTER 3467 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+El Sabio dice que está haciendo
+un chisme de una especie de cosa
+de cristal. ¿No es alucinante?<PAGE>No recuerdo el nombre
+de lo que está haciendo,
+pero era alucinante.
+
+## POINTER 3468 [t:1;r:1;ru:memnoch;user:memnoch;time:1303181927]
+¿Que por qué era alucinante?
+¡Ya te he dicho que no lo recuerdo!
+Mira que eres plasta.<PAGE>Pues vale. Venga, dime ahora mismo
+por qué el océano es alucinante.
+¿A que no puedes?
+
+## POINTER 3469 [t:1;r:1;ru:memnoch;user:Lia;time:1302185253]
+Bienvenidos, viajeros
+de tierras lejanas.<PAGE>Me temo que nuestro
+pueblo no tiene nada
+especial que ofreceros...
+
+## POINTER 3470 [t:1;r:1;ru:memnoch;user:Lia;time:1302185253]
+Sois aquellos que encontraron
+inconscientes, ¿no es así?<PAGE>Sentíos como en casa,
+por favor.
+
+## POINTER 3471 [t:1;r:1;ru:memnoch;user:memnoch;time:1303181927]
+¿Sois amigos
+del Sabio?<PAGE>No tenía ni idea. Ya me
+preguntaba yo por qué habíais
+venido a esta pequeña aldea.
+
+## POINTER 3472 [t:1;r:1;ru:memnoch;user:Lia;time:1302185888]
+Siento que no podamos
+prepararos algo especial.<PAGE>Oh, por cierto, ¿habéis visto
+las montañas del norte?
+El paisaje es precioso.
+
+## POINTER 3473 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+¿Sois extranjeros?<PAGE>¿A que este lugar es
+muy bonito, con todas
+estas flores floreciendo?
+
+## POINTER 3474 [t:1;r:1;ru:memnoch;user:Lia;time:1302185888]
+Todos los extranjeros dicen
+que es un pueblo precioso.
+
+## POINTER 3475 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+¿El desierto? ¿Ese lugar
+que solo tiene arena?
+¿Has venido de un desierto?<PAGE>¿Dónde hay un desierto?
+
+## POINTER 3476 [t:1;r:1;ru:memnoch;user:Lia;time:1302186595]
+Jamás he visto un
+desierto. Debes de
+venir desde muy lejos.
+
+## POINTER 3477 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+¿Vienes del otro lado del mar?
+Debes estar reventado.<PAGE>Habrás estado en barco mucho
+tiempo, ¿no? ¿Cómo? ¿No?
+¿«Blastia»? ¿Y eso qué es?
+
+## POINTER 3478 [t:1;r:1;ru:memnoch;user:Lia;time:1302186595]
+¿Ein? ¿Apátheia?
+¿Eso se come?
+
+## POINTER 3479 [t:1;r:1;ru:memnoch;user:memnoch;time:1304553148]
+Al parecer si construimos una «barrera»
+de esas, los monstruos dejarán de venir...
+Pero ¿de verdad que es segura?<PAGE>Supongo que sí,
+si el Sabio lo dice...
+
+## POINTER 3480 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Si el Sabio dice que es segura,
+es que es segura.<PAGE>¡Dudar de la palabra del
+Sabio sería algo absurdo!
+
+## POINTER 3481 [t:1;r:1;ru:memnoch;user:memnoch;time:1304529250]
+Este pueblo está pasando por
+una terrible crisis. Los ataques
+de los monstruos gigantes...<PAGE>Todos dicen que podemos hacer cualquier
+cosa mientras el Sabio siga a nuestro
+lado, pero ¿está bien creer eso?
+
+## POINTER 3482 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Este lugar es tan pacífico
+que nadie conoce el valor
+de la desconfianza.<PAGE>No quiero hablar mal del
+Sabio, pero podría pasar
+cualquier cosa, ¿verdad?
+
+## POINTER 3483 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+¿De verdad que los monstruos no se
+acercarán a nosotros por una piedrecita
+como el cristal cielo claro?<PAGE>¿Y si deciden
+ir a por todas y
+matarnos a todos?
+
+## POINTER 3484 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+No me malinterpretes,
+no quiero dudar de las
+palabras del sabio, pero...<PAGE>Esos monstruos pueden hablar
+la lengua humana... ¿Y si están
+influenciando al Sabio en secreto, qué?
+
+## POINTER 3485 [t:1;r:1;ru:memnoch;user:Mashmallow;time:1302032362]
+...<PAGE>No sé quién eres...
+
+## POINTER 3486 [t:1;r:1;ru:memnoch;user:Mashmallow;time:1302032362]
+No puedo... hablar 
+con desconocidos...
+
+## POINTER 3487 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+...<PAGE>*Eructo*
+
+## POINTER 3488 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Oh... Lárgate
+de una vez...
+
+## POINTER 3489 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Si tienes alguna pregunta,
+puedes hacérsela al Sabio.<PAGE>Se puede contar con él.
+Nuestro alcalde es demasiado
+joven y poco fiable.
+
+## POINTER 3490 [t:1;r:1;ru:memnoch;user:Lia;time:1302189821]
+El alcalde de un pueblo tiene
+que hablar por experiencia.<PAGE>La sabiduría del Sabio
+es la prueba de que ha tenido
+muchísimas experiencias.
+
+## POINTER 3491 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Aunque nuestro pueblo no tuviese
+problemas con los monstruos, para
+el alcalde seguiría siendo algo temporal.<PAGE>Quizá deberíamos
+elegir al Sabio para
+que fuese el alcalde...
+
+## POINTER 3492 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Sí, ¿no crees que lo mejor sería
+que el Sabio fuese el alcalde?<PAGE>Tengo que sugerírselo
+a todo el pueblo.
+
+## POINTER 3493 [t:1;r:1;ru:memnoch;user:kaene;time:1302114322]
+Por cierto, ¿qué tal
+le iba a Longchi?
+
+## POINTER 3494 [t:1;r:1;ru:memnoch;user:memnoch;time:1303176459]
+Nunca... nunca
+dejo de pensar en él.<PAGE>Quiero verlo...
+
+## POINTER 3495 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Aun ahora puedo ver
+la sonrisa de Longchi...<PAGE>Me pregunto cuándo
+volverá a casa.
+
+## POINTER 3496 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Y bien, ¿has hablado
+con el Sabio?<PAGE>Es una persona muy accesible,
+así que seguramente estará
+dispuesto a escucharte.
+
+## POINTER 3497 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Me encontré gobernando este pueblo
+cuando mi padre falleció súbitamente,
+pero no va demasiado bien...<PAGE>No sé qué haría sin
+la ayuda del Sabio.
+
+## POINTER 3498 [t:1;r:1;ru:memnoch;user:kaene;time:1302025697]
+¿El Sabio?
+Vive en la mansión
+más grande.
+
+## POINTER 3499 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208099]
+Lo cierto es que la fe
+que tienen los ciudadanos
+en mí está flaqueando...

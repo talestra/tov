@@ -1,0 +1,116 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1275421367]
+<STR>(EST_P)
+¡Maestro!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244270]
+Drake
+Ah, Princesa, cuánto tiempo. 
+¿Gozáis de buena salud?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1275421367]
+<STR>(EST_P)
+Sí, usted también tiene
+buen aspecto, maestro.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244270]
+Drake
+Parece que habéis viajado a multitud
+de sitios desde la última vez que nos vimos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1275421367]
+<STR>(EST_P)
+¡Sí! He visto y oído tantas cosas... 
+Ha sido una experiencia increíble.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527109]
+Drake
+Pero ¿esa experiencia era 
+realmente necesaria para 
+heredar el trono imperial?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:miyu;time:1275421367]
+<STR>(EST_P)
+¿Qué quiere decir?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:miyu;time:1275421367]
+Drake
+Habéis estado deambulando con personas
+de carácter cuestionable, sin consideración 
+por la buena educación ni los principios.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244270]
+<STR>(YUR)
+¿Carácter cuestionable, dice?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:miyu;time:1279797252]
+Drake
+¿Os habéis parado a pensar si este 
+comportamiento es adecuado para
+un candidato al trono imperial?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298413566]
+<STR>(EST_P)
+Pero maestro, me dijo que necesitaba
+experiencia en muchos campos...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:miyu;time:1275421367]
+Drake
+No hay nada malo en 
+ampliar horizontes.<PAGE>El problema son vuestras acciones.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:miyu;time:1275421367]
+<STR>(EST_P)
+¿Mis acciones?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244270]
+Drake
+¡Si vuestra forma de comportaros ha sido
+la correcta para alguien que va a ocupar
+el puesto sagrado de emperatriz!<PAGE>
+Os pido que penséis en los actos que habéis 
+realizado desde que dejasteis el castillo 
+<PAGE>y que consideréis si 
+han sido decisiones
+correctas o no.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:miyu;time:1277125432]
+<STR>(RIT)
+Qué viejo tan arrogante...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:miyu;time:1277125432]
+<STR>(KAR)
+La otra vez que lo vimos no lo parecía.
+¿Es siempre así?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244270]
+<STR>(EST_P)
+Sí, el maestro siempre ha sido muy... estricto.
+Ya estoy acostumbrada.<PAGE>Supongo que él es la razón por
+la que estoy viajando con vosotros.<PAGE>Quiero demostrarle lo que valgo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:miyu;time:1277125432]
+<STR>(JUD)
+¿Solo lo supones?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244270]
+<STR>(EST_P)
+Yo... Lo siento.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244270]
+<STR>(YUR)
+No pasa nada si no estás segura.
+Quieres demostrarle tu valía, ¿no?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:miyu;time:1277125432]
+<STR>(EST_P)
+Sí.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:miyu;time:1277125432]
+<STR>(RIT)
+Vale, ¡entonces un día deberías cogerlo
+por banda y decirle lo que piensas!
+
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:miyu;time:1277125432]
+<STR>(EST_P)
+De acuerdo.

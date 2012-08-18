@@ -1,0 +1,58 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1251902184]
+Alabar a (KAR)
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297710003]
+(RAV)
+(KAR)... ¿Por qué has tenío
+qu'hacerte el héroe?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180702]
+(RIT)
+Si es que... ¡¿Cuándo aprenderá este crío
+a comportarse como un niño bueno de su edad?!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180702]
+(RAP)
+¡Guau, guau!
+
+## POINTER 4 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267435198]
+(RAV)
+Nunca le había visto mostrar tanto valor.
+Os juro que he perdío un año de vida solo por verlo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180702]
+(RIT)
+Bueno, casi perdemos la vida entera,
+así que le debemos una.
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267435198]
+(RAV)
+Pero ha sío una locura.
+Una auténtica locura.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180702]
+(RIT)
+Lo sé. Tendremos que vigilarlo y asegurarnos
+de que no vuelva a hacer un disparate similar.
+
+## POINTER 8 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267435198]
+(RAV)
+Sí. No pienso perder más años de vida
+por culpa de las diabluras d'este niño.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180702]
+(RAP)
+¡Guau!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180702]
+(YUR)
+Por fin se han puesto de acuerdo en algo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180702]
+(JUD)
+Todos nos sentimos orgullosos de (KAR)
+por lo que ha hecho, cada uno a su manera.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180702]
+(YUR)
+¡Ja, ja! Aunque a algunos nos resulta más fácil admitirlo.

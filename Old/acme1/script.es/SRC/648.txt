@@ -1,0 +1,102 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(YUR)
+<VOICE>(VA050_022)Hay alguien aquí.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983202]
+
+<VOICE>(VA050_023)Quedan rastros del flujo del aer.<PAGE><VOICE>(VA050_024)Pero ¿hacia dónde fluye?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(YUR)
+<VOICE>(VA050_025)Aquel monstruo
+lo absorbió todo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+
+<VOICE>(VA050_026)¿Monstruo?...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983202]
+<STR>(KAR)
+<VOICE>(VA050_027)Sí, ese monstruo tan grande,
+rugoso, con pinchos y enooorme.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+
+<VOICE>(VA050_028)Así que después de todo
+estuvo aquí...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(EST_P)
+<VOICE>(VA050_029)¿Te refieres al monstruo?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983202]
+
+<VOICE>(VA050_030)«Monstruo»...<PAGE><VOICE>(VA050_031)No importa cómo
+los llamen los humanos, pero...<PAGE><VOICE>(VA050_032)Tal nombre los menosprecia.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(EST_P)
+<VOICE>(VA050_033)Entonces... ¿aquello
+no era un monstruo?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(RIT)
+<VOICE>(VA050_034)Pero a ver, ¿qué hace a algo un monstruo?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(KAR)
+<VOICE>(VA050_035)Llamamos monstruo a cualquier
+criatura que ataca
+ferozmente a los humanos.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(YUR)
+<VOICE>(VA050_036)Vamos, que aquella cosa
+era monstruo, ¿no?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(RIT)
+<VOICE>(VA050_037)Mm... Pero el niño este
+solo nos ha dado el
+punto de vista humano.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(EST_P)
+<VOICE>(VA050_038)¿Te refieres a que los englobamos a todos
+como monstruos pero tal vez eso no es todo?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983202]
+<STR>(KAR)
+<VOICE>(VA050_039)¿Qué creéis que pretendía ese tío?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(YUR)
+<VOICE>(VA050_040)Ni idea. Además,
+ya tenemos suficientes
+cosas en las que pensar.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(EST_P)
+<VOICE>(VA050_041)Tienes razón.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(EST_P)
+<VOICE>(VA050_042)Nos lo encontramos en el fuerte
+de Deidon, ¿verdad, <STR>(YUR)?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(YUR)
+<VOICE>(VA050_043)No le entiendo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1292967287]
+<STR>(EST_P)
+<VOICE>(VA050_043)No le entiendo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983202]
+<STR>(RIT)
+<VOICE>(VA050_044)Bah, qué importa, ese tío no tiene
+nada que ver con nosotros.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1293983202]
+<STR>(KAR)
+<VOICE>(VA050_045)S-Sí, supongo.

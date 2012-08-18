@@ -1,0 +1,144 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1286468942]
+
+Ah... Tú eres 
+<STR>(RIT) Mordio.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294513199]
+<STR>(RIT)
+¿Me conoces? Debes
+ser un mago de Aspio.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1286468942]
+
+¿Por qué has venido aquí?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294513199]
+<STR>(RIT)
+Solo hemos hecho una parada en nuestro viaje.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1286468942]
+<STR>(JUD)
+Perdona... 
+¿Me dejas ver ese 
+libro que tienes ahí?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1286468942]
+
+¿Cuál? ¿Este? 
+Claro, toma.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(RIT)
+¡Pero si es «Disertaciones sobre el aer»,
+de Ifmunft Nepmayjup!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(JUD)
+¿Cómo? ¿Ya habías
+oído hablar de él?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(RIT)
+Este libro estaba en mi casa.
+Creo que perteneció al anterior inquilino.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(JUD)
+Ajá... Ya veo.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(RIT)
+Estaba lleno de códigos que no conseguía
+entender, así que no me interesó demasiado.<PAGE>Acabé dándoselo a la primera
+persona que me lo pidió.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(JUD)
+Ifmunft Nepmayjup.
+Ese fue el seudónimo.
+de Hermes.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(RIT)
+¡¿Qué?! ¡¿En serio?!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(YUR)
+¿Eso quiere decir
+que Hermes solía
+vivir en Aspio?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(JUD)
+Sí, eso creemos.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:miyu;time:1286469487]
+<STR>(RIT)
+Otra vez ocultándonos
+información valiosa...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(JUD)
+Lo siento. No estaba segura
+del todo hasta ahora.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:miyu;time:1286469487]
+<STR>(RIT)
+*Suspiro* Pues vaya.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(YUR)
+¿Qué... es esto? No entiendo nada 
+de lo que pone...: «Kdvkxosktzgr 
+hrgyzog iuarj hk jgtmkxuay...».<PAGE>Es como si hubiese escrito palabras al azar.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(RIT)
+Todo está codificado.
+Intenté averiguarlo
+un par de veces, pero...<PAGE>Estas puñeteras formas de escribir normalmente
+las usan para apuntar notas personales y tal,
+pero no en libros de investigación.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+
+En la portada dice: «Dedicado a mi hija».
+Y también: «Intenta leerlo».<PAGE>
+Parece un reto que lanzó a su hija,
+más que un cuaderno en el que apuntar
+sus cosas.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:miyu;time:1286468942]
+<STR>(JUD)
+Sí, yo pienso igual.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(RIT)
+Pues vaya un científico
+más estúpido y ridículo.<PAGE>Ni siquiera sabía de qué
+eran capaces los blastias
+que creó.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:miyu;time:1286468942]
+<STR>(JUD)
+Sí...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:miyu;time:1286469487]
+<STR>(RIT)
+¡Decidido! Me llevaré 
+el libro e intentaré
+descifrarlo.<PAGE>Dámelo, por favor.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:miyu;time:1286624242]
+
+Claro, cógelo. 
+Ni siquiera puedo leerlo...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514577]
+<STR>(RIT)
+Cuando descifre el código, buscaré
+a su hija y se lo devolveré.<PAGE>¡Se va a enterar ese panoli de los blastias!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:miyu;time:1286469487]
+<STR>(JUD)
+...

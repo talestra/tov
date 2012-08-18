@@ -1,0 +1,57 @@
+## POINTER 0
+
+Thank you so much.
+It's not much, but please accept
+this as a token of our appreciate.
+
+## POINTER 1
+<STR>(KAR)
+Thank you! Brave Vesperia
+is at your service!
+
+## POINTER 2
+
+...I see...
+Oh well...<PAGE>Well, no pressure.
+Come back whenever
+you’re ready.
+
+## POINTER 3
+
+Excuse me, but, would you
+happen to be the Brave Vesperia?
+
+## POINTER 4
+<STR>(KAR)
+Huh? Yes, we are...
+
+## POINTER 5
+
+I have a bit of a favor to ask
+of you. Would you mind helping
+me tidy up this warehouse?<PAGE>We're a bit short on help at the moment and
+it would mean a lot if you could lend us a
+hand. We will pay you for your work of course.
+
+## POINTER 6
+
+What do you say? Can you help
+us tidy up the warehouse?
+
+## POINTER 7
+<STR>(KAR)
+Hmm...
+
+## POINTER 8
+<STR>(KAR)
+No problem! Leave it up to us!
+
+## POINTER 9
+
+Thank you very much!
+Let's get started.
+
+## POINTER 10
+
+Is that so? That's too bad.
+Let me know if you change your mind.

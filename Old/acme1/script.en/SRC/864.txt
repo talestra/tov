@@ -1,0 +1,116 @@
+## POINTER 0
+
+Oh, hello. We've met before 
+somewhere, haven't we?
+
+## POINTER 1
+<STR>(KAR)
+You helped us out 
+back in Capua Nor.
+
+## POINTER 2
+<STR>(YUR)
+That was back when 
+you'd been captured 
+by Alexei.
+
+## POINTER 3
+
+...You can use healing artes?
+
+## POINTER 4
+<STR>(EST_P)
+Huh...? You can tell?
+
+## POINTER 5
+
+All healers have a characteristic mark 
+on their left thumb, from which their 
+artes are released when they're used.
+
+## POINTER 6
+<STR>(EST_P)
+There's a little dark spot...
+You could tell from just this...?
+
+## POINTER 7
+
+Doctors have to be observant. Plus, I'm 
+a practitioner of healing artes as well.
+
+## POINTER 8
+
+Grandma suddenly started 
+feeling ill...
+
+## POINTER 9
+
+It's too late, Doc! I'm not 
+long for this world...
+
+## POINTER 10
+<STR>(EST_P)
+Oh no...
+This is serious...
+
+## POINTER 11
+
+Hold on. A healer can't let 
+herself get flustered when there 
+are sick people to help.<PAGE>Ma'am, could you tell me what 
+sort of discomfort you're 
+having, and where it hurts?
+
+## POINTER 12
+
+My side hurts, like it's
+being squeezed real tight...
+And my fingers feel all stiff...
+
+## POINTER 13
+
+Hmmm... Well, let's 
+have a look...
+
+## POINTER 14
+
+I feel all better! 
+Thank you, Doctor!
+
+## POINTER 15
+
+Oh, you don't need to thank 
+me. This is my job.
+
+## POINTER 16
+<STR>(YUR)
+You were using your healing artes precisely, 
+only on the parts of her body that 
+needed it. That takes some skill.
+
+## POINTER 17
+
+It can actually be harmful to focus one's 
+healing artes on healthy parts of the body.
+
+## POINTER 18
+<STR>(EST_P)
+R-really?
+
+## POINTER 19
+
+If a healer works too hastily, she 
+can cause her patient undue stress, 
+and worsen their conditions.<PAGE>A healer must always 
+be calm and focused.
+
+## POINTER 20
+<STR>(EST_P)
+I, I see..Please excuse 
+my ignorance.
+
+## POINTER 21
+
+No, not at all! You're still learning. The path to 
+becoming a healer is a tough one, to say the least.<PAGE>Please, come and visit again. There 
+is much I'd like to teach you.

@@ -1,0 +1,24 @@
+## POINTER 0
+<STR>(YUR)
+Oh right, <STR>(KAR). Are you 
+still gonna take a pass 
+on meeting your teacher?
+
+## POINTER 1
+<STR>(KAR)
+...I've been thinking about that...
+
+## POINTER 2
+<STR>(JUD)
+And what did you come up with?
+
+## POINTER 3
+<STR>(KAR)
+Well, I figure there's 
+no point hiding from 
+her forever...
+
+## POINTER 4
+<STR>(EST_P)
+Then we can all 
+go together!

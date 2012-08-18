@@ -1,0 +1,34 @@
+## POINTER 0
+<STR>(YUR)
+Looks like I'm the last one out... 
+Whoa, is that you, <STR>(RAV)?
+
+## POINTER 1
+<STR>(RAV)
+Why do I hafta be 
+the head clerk?!
+
+## POINTER 2
+<STR>(YUR)
+You look hilarious, old man.
+
+## POINTER 3
+<STR>(RAV)
+You're one ta 
+talk, boy.
+
+## POINTER 4
+<STR>(YUR)
+Oh yeah?
+
+## POINTER 5
+<STR>(RAV)
+Ya wanna trade me
+places, <STR>(YUR)? I'll make
+it worth yer while!
+
+## POINTER 6
+<STR>(YUR)
+I'll pass on that one. You have 
+fun, old man. I'm going to go 
+see what the others are doing.

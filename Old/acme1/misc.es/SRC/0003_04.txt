@@ -1,0 +1,307 @@
+## POINTER 404 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Recupera TP durante un Límite.
+
+## POINTER 405 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265230992]
+Aumenta el tiempo en que está activado el Límite.
+
+## POINTER 406 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Detalles de grado
+
+## POINTER 407 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Cocina
+
+## POINTER 408 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
++
+
+## POINTER 409 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265230992]
+No ha conseguido cocinar <0B>(0)
+
+## POINTER 410 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Veneno curado
+
+## POINTER 411 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1264184985]
+Contaminación curada
+
+## POINTER 412 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1264184985]
+Parálisis curada
+
+## POINTER 413 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1264185261]
+Petrificación curada
+
+## POINTER 414 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1264185261]
+Enfermedad curada
+
+## POINTER 415 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246364]
+Sellado curado
+
+## POINTER 416 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1264185261]
+Habilidades selladas curadas
+
+## POINTER 417 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Curados todos los estados negativos
+
+## POINTER 418 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Comida de perro preparada con éxito.
+
+## POINTER 419 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Muestra el mapamundi
+
+## POINTER 420 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Ciudad
+
+## POINTER 421 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Mazmorra
+
+## POINTER 422 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Campo
+
+## POINTER 423 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+?
+
+## POINTER 424 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264259284]
+<06>(RBL)+<06>(L3) Reiniciar
+
+## POINTER 425 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(RBL)+<06>(L2) Ampliar zoom
+
+## POINTER 426 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(RBL)+<06>(R2) Ángulo
+
+## POINTER 427 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Omitir
+
+## POINTER 428 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(RBL)Atrás <06>(STA)Confirmar
+
+## POINTER 429 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(RBD)Info. de tienda <06>(RBL)Ampliar zoom <06>(RBU)Mapa perruno <06>(L2)<06>(R2)Categoría
+
+## POINTER 430 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(RBD)Comprobar <06>(STA)Comenzar
+
+## POINTER 431 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(RBD)<06>(RBR)Volver
+
+## POINTER 432 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+¿Proseguir?
+
+## POINTER 433 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+????
+
+## POINTER 434 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Récord
+
+## POINTER 435 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246364]
+Tabla de ranking
+
+## POINTER 436 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+TOP 20
+
+## POINTER 437 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+10 posiciones arriba/abajo
+
+## POINTER 438 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+X
+
+## POINTER 439 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+AUTO
+
+## POINTER 440 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+SEMI-AUTO
+
+## POINTER 441 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+MANUAL
+
+## POINTER 442 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Ajusta la configuración de brillo de tu pantalla
+hasta que se vean con claridad los colores de la barra.
+
+## POINTER 443 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(CBL1) Cancelar
+
+## POINTER 444 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+¿Quieres usar este objeto?
+
+## POINTER 445 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Has conseguido un nuevo título.
+
+## POINTER 446 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Has obtenido algo de gald.
+
+## POINTER 447 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Has obtenido un objeto.
+
+## POINTER 448 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Has ganado una medalla.
+
+## POINTER 449 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Subes de nivel.
+
+## POINTER 450 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Has aprendido una nueva receta.
+
+## POINTER 451 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Libro completado.
+
+## POINTER 452 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Has obtenido algunas hierbas.
+
+## POINTER 453 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Has obtenido un gel.
+
+## POINTER 454 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Has aprendido una nueva habilidad.
+
+## POINTER 455 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Invertido
+
+## POINTER 456 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Invertido
+
+## POINTER 457 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(RBD)Cambiar　<06>(RBR)Volver
+
+## POINTER 458 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Ratio de AL
+
+## POINTER 459 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Tales of Draspi
+
+## POINTER 460 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Carrera de Dragón Nv. 1
+
+## POINTER 461 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Nuevo
+
+## POINTER 462 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Herramientas
+
+## POINTER 463 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Principal
+
+## POINTER 464 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Secundaria
+
+## POINTER 465 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Cabeza
+
+## POINTER 466 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358056]
+Pecho
+
+## POINTER 467 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Accesorios
+
+## POINTER 468 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Ingredientes
+
+## POINTER 469 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Materiales de síntesis
+
+## POINTER 470 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Valiosos
+
+## POINTER 471 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Xbox LIVE
+
+## POINTER 472 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Reserva
+
+## POINTER 473 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Carrera de Dragón Nv. 2
+
+## POINTER 474 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Carrera de Dragón Nv. 3
+
+## POINTER 475 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Carrera de Dragón Nv. 4
+
+## POINTER 476 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Carrera de Dragón Nv. 5
+
+## POINTER 477 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246364]
+<06>(RBL)Quitar <06>(L3)Atajo <06>(L2)
+<06>(R2)Cambiar <06>(SEL)Modo <06>(STA)Detalles de la habilidad
+
+## POINTER 478 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(STA)Detalles de la habilidad
+
+## POINTER 479 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246364]
+<06>(RBL)ON/OFF <06>(L2)
+<06>(R2)Cambiar <06>(SEL)Modo <06>(STA)Detalles de la habilidad
+
+## POINTER 480 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Cancelar
+
+## POINTER 481 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Atributo
+
+## POINTER 482 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246364]
+Configuración (solo debug)
+
+## POINTER 483 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Por defecto
+
+## POINTER 484 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265230992]
+Restaurar la configuración por defecto.
+
+## POINTER 485 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264246364]
+Reiniciar
+
+## POINTER 486 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(RBD)Usar
+
+## POINTER 487 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(RBD)Usar <06>(L2)<06>(R2)Categoría <06>(STA)Info. de objeto
+
+## POINTER 488 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(RBD)Usar <06>(L2)<06>(R2)Categoría
+
+## POINTER 489 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359314]
+<06>(RBD)Equipo <06>(L2)
+<06>(R2)Categoría <06>(STA)Info. de objeto
+
+## POINTER 490 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359314]
+<06>(RBD)Equipo <06>(L2)
+<06>(R2)Categoría <06>(STA)Info. de objeto
+
+## POINTER 491 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359314]
+<06>(RBD)Equipo <06>(L2)
+<06>(R2)Categoría <06>(STA)Info. de objeto
+
+## POINTER 492 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359314]
+<06>(RBD)Equipo <06>(L2)
+<06>(R2)Categoría <06>(STA)Info. de objeto
+
+## POINTER 493 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267359314]
+<06>(RBD)Equipo <06>(L2)
+<06>(R2)Categoría <06>(STA)Info. de objeto
+
+## POINTER 494 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(L2)<06>(R2)Categoría <06>(STA)Info. de objeto
+
+## POINTER 495 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<<06>(L2)<06>(R2)Categoría <06>(STA)Info. de objeto
+
+## POINTER 496 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(L2)<06>(R2)Categoría
+
+## POINTER 497 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+<06>(RBD)Usar <06>(L2)<06>(R2)Categoría
+
+## POINTER 498 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Configurando...
+
+## POINTER 499 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Atacar
+
+## POINTER 500 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Defender
+
+## POINTER 501 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Moverse
+
+## POINTER 502 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Ayudar
+
+## POINTER 503 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263819264]
+Todos

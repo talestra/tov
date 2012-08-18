@@ -1,0 +1,86 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VSA1_001)I had no idea trees 
+this big existed...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VSA1_002)Yeah, but it doesn't exactly look healthy 
+for them to be this overgrown.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VSA1_003)It's just like you said, <STR>(KAR).<PAGE><VOICE>(VSA1_004)It's like what happened 
+at Heliord when the 
+blastia went berserk.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VSA1_005)Be careful... There's somebody here.
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VSA1_006)Hey, what a coincidence!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VSA1_007)What the hell are you doing 
+in a place like this?
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VSA1_008)Ya know, out for a forest stroll, 
+takin' in the nature...
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VSA1_009)Something smells fishy...
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VSA1_010)What? Where's my welcome?
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VSA1_011)You didn't think we'd honestly 
+be glad to see you, right?
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VSA1_012)Aw, ya don't mean that. I 
+can come in handy ya know.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VSA1_013)...You're not thinking of 
+coming with us, right?
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VSA1_014)Of course! It's lonely bein' out here 
+all by my lonesome. What, no dice?
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VSA1_015)You'd better watch your back. If you 
+try anything funny, you're dead.
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VSA1_016)Hey, ya don't really think my 
+story stinks that bad, do ya?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VSA1_017)Yeah, the stench is sort of 
+coming off of you in waves.
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VSA1_018)Really... !? *sniff*
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VSA1_019)I can't take responsibility for 
+what I'll do if you make any sudden 
+moves. Don't forget that.

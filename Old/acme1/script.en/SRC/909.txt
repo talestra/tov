@@ -1,0 +1,120 @@
+## POINTER 0
+
+Come on! Come on! Look 
+at this! Look at this!
+
+## POINTER 1
+<STR>(KAR)
+What's this? It looks 
+like a model...but what 
+a strange shape...
+
+## POINTER 2
+
+Yes, yes! It's a 
+model! A model!
+
+## POINTER 3
+<STR>(RIT)
+Does this guy's way of talking tick 
+off anyone else, or is it just me...?
+
+## POINTER 4
+<STR>(YUR)
+No, I feel ya.
+
+## POINTER 5
+
+It's heard...Everything 
+that you've...Been saying...<PAGE>Everything...
+What you were talking about...
+Here and there...
+
+## POINTER 6
+<STR>(RAV)
+I don't know what the hell 
+yer talkin' about. Put it 
+in words we can understand!
+
+## POINTER 7
+
+Peek! Peek inside! You'll 
+understand when you 
+see, no problem!
+
+## POINTER 8
+<STR>(EST_P)
+Hmmm, maybe we should 
+just have a look?
+
+## POINTER 9
+<STR>(JUD)
+Yeah, good idea. For the experience, 
+if for nothing else.
+
+## POINTER 10
+<STR>(KAR)
+Wha? Wha? Why's everyone 
+looking at me?
+
+## POINTER 11
+<STR>(YUR)
+You're the closest, and the shortest, 
+too. It's easiest for you to do it.
+
+## POINTER 12
+<STR>(KAR)
+Once again, I'm sacrificed 
+for the greater good...<PAGE>I'm always taking the fall 
+for everyone else...
+
+## POINTER 13
+<STR>(RIT)
+You're so lucky, <STR>(KAR)! Getting to experience 
+new, mysterious things before anyone 
+else, and twice! I'm so jealous!
+
+## POINTER 14
+<STR>(KAR)
+Ugh...
+Argh...here 
+goes nothing!
+
+## POINTER 15
+<STR>(KAR)
+Whoa, that's awesome! 
+I remember saying that! 
+What the heck?!
+
+## POINTER 16
+
+You can call it the 
+"Chat Player V"!<PAGE>It shows you the conversations, 
+the ones in your heads, 
+from long, long ago!
+
+## POINTER 17
+<STR>(RIT)
+I'm totally lost, but...this 
+lets you read conversations you 
+had a long time ago, then?
+
+## POINTER 18
+
+Yeees!
+
+## POINTER 19
+<STR>(YUR)
+Hey, this seems pretty handy. We should 
+be able to put it to some good use. We 
+can use it whenever we want, right?
+
+## POINTER 20
+
+Yeees! You can use it 
+whenever you like!
+
+## POINTER 21
+<STR>(EST_P)
+All right, we'll 
+come again, then.

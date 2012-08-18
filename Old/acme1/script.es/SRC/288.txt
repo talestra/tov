@@ -1,0 +1,168 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(EST_P)
+Sería un alivio si los tritones
+nos dejaran en paz.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+<STR>(RIT)
+Creo que sería pedir demasiado.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(RAV)
+Pos sí qu'eres pesimista
+pa tu edá, pequeña.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(RIT)
+Tan solo soy realista.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+Kaufman
+Gracias por la ayuda, de todos modos.
+Creo que conseguiremos llegar a tiempo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+Sí. La Garra del Leviatán nos habría ganado
+de no haber encontrado una buena escolta.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+<STR>(YUR)
+La Garra del Leviatán, ¿eh? Estamos
+oyendo ese nombre muy a menudo últimamente.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1283155982]
+Kaufman
+¿Ah, sí? Es el gremio especialista
+en el mercado de blastias hoplón.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(RIT)
+Eso explica lo ocurrido en Heliord...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+Kaufman
+Últimamente han estado
+intentando quitarnos
+los clientes.<PAGE>Si no hubiéramos podido atravesar
+el mar, nos habrían arrebatado
+a uno de los más importantes.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+Aun así, no dejo de preguntarme
+de dónde consiguen su mercancía
+esos truhanes.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1283155982]
+Kaufman
+En efecto. Los blastias hoplón
+no son precisamente fáciles
+de encontrar.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(RIT)
+No estaréis pensando... que el Imperio está detrás...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+<STR>(RIT)
+No, no es posible... Los magos son los
+encargados de distribuir los blastias.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+Kaufman
+Ah, justo a tiempo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+Tokunaga
+¡Cuidado todo el mundo!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+Kaufman
+Estáis a la altura de vuestra reputación.
+Hice bien en traeros conmigo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+<STR>(RAV)
+En serio, Gran Vesperia no tiene vergüenza
+en machacar a un anciano a trabajar.<PAGE>Ni siquiera cuando
+taba buscando la apátheia.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+<STR>(YUR)
+¿La apátheia? ¿No era lo que
+andabas buscando en Puerto Nor?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(RAV)
+Pos sí.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+<STR>(RIT)
+No es más que un cuento de hadas.<PAGE>Lo estuve investigando hace tiempo,
+pero acabé descubriendo que es imposible
+que algo así existiera, ni siquiera en la teoría.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(RAV)
+Sé perfectamente que la peña
+piensa qu'es un cuento.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+<STR>(EST_P)
+¿Por qué la andas buscando?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(RAV)
+Bueno... Porque
+er Don me lo pidió.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+Kaufman
+Bueno, tengo negocios que atender.
+Dejaré a Tokunaga a cargo del timón.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+Tokunaga
+De hecho, señora presidenta,
+¿le importa si se lo cedo
+a ellos por un rato?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+Kaufman
+Ah, por supuesto. Vamos mejor de tiempo
+de lo que esperaba. Hasta podemos permitirnos
+un par de rodeos.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(JUD)
+Con un barco podemos ir prácticamente
+a cualquier sitio que queramos.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527755]
+<STR>(KAR)
+Ya sé que quieres ir a
+buscar a Phaeroh, <STR>(EST_P)...<PAGE>Pero ¿no crees que ahora mismo tenemos
+asuntos más importantes que atender?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(EST_P)
+¿Eso crees?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(RIT)
+Yo haré lo que me plazca.
+No os preocupéis por mí.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+<STR>(YUR)
+Acabamos de fundar nuestro gremio...
+Yo creo que deberíamos ir a lo seguro,
+¿no crees, <STR>(KAR)?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1279374157]
+<STR>(KAR)
+C-Claro.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1275819287]
+Tokunaga
+De acuerdo. Os dejo
+el barco a vosotros.

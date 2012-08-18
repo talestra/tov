@@ -1,0 +1,353 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294940694]
+Ted
+¡Has ganado! ¡Felicidades!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294940694]
+Leblanc
+Uff... Uff...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923739]
+<STR>(YUR)
+Se ha quedado sin palabras.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294940694]
+Ted
+No esperaba que tuvieras
+ni velocidad ni resistencia,
+¡pero lo has hecho muy bien!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294940694]
+<STR>(YUR)
+Hombre, con unas buenas instrucciones,
+cualquiera puede conseguirlo, ¿eh, Leblanc?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1294940694]
+Leblanc
+Uff... Uff...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923739]
+<STR>(YUR)
+¿Eh?
+¿Qué te pasa?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294940694]
+<STR>(YUR)
+¡Un blandengue como yo
+nunca hubiera podido ganar
+sin tu ayuda, <STR>(YUR)!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923739]
+<STR>(YUR)
+¡Qué magníficas palabras
+de agradecimiento, Leblanc!
+¡Me voy a poner colorado!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294940694]
+Leblanc
+
+¡Uff!...
+¡Uff!...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923739]
+<STR>(YUR)
+No me des tanto las gracias, Leblanc.
+Ya repetiremos otro día.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296923739]
+Ted
+¡Eres increíble, <STR>(YUR)!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+Información
+<STR>(YUR) ha obtenido
+el título de «Estratega
+del Viejo».
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1294940694]
+<STR>(EST_P)
+¡<STR>(YUR), lo he
+conseguido! ¡He ganado!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1294940694]
+<STR>(YUR)
+¡Muy bien hecho!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1294940694]
+Ted
+Menuda sinergia
+habéis demostrado.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(EST_P)
+¡Me lo he pasado bien corriendo!
+Y <STR>(YUR) me ha ido
+guiando maravillosamente.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(YUR)
+Nah, si casi no he hecho nada.
+No seas tan modesta.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1294940986]
+<STR>(EST_P)
+¿Eso ha sido un
+cumplido, <STR>(YUR)?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1294940986]
+<STR>(YUR)
+¡Claro que sí!
+¡No me mires así!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(EST_P)
+Aah...
+Sí, pensaba que
+quizás sería...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+Ted
+Sé cómo te sientes,
+señorita.<PAGE>A veces <STR>(YUR) te sorprenderá.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(EST_P)
+Ji, ji. No se le da bien
+responder de forma apropiada.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+Ted
+¡Exacto! Podría haber dicho
+«felicidades», pero noooo,
+<STR>(YUR) no...<PAGE>Así que te lo digo yo.
+¡Felicidades, señorita!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(EST_P)
+¡Gracias!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+Información
+<STR>(EST_P) ha obtenido
+el título de «Princesa de
+pies ligeros».
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:kaene;time:1294941443]
+<STR>(KAR)
+¡Lo he conseguido! ¡Sí!
+¡He ganado la carrera!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+Ted
+Guau, como eres bajito
+giras muy rápido. ¡Increíble!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:kaene;time:1294941443]
+<STR>(YUR)
+Sí, es la característica
+más útil del capitán 
+<STR>(KAR) para correr.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:kaene;time:1295026663]
+Ted
+¡Y su resistencia también es impresionante!
+¡No parece de los que se rinden fácilmente!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(YUR)
+Mmm... Tienes razón.
+Se esfuerza mucho.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(KAR)
+Oh, venga ya...
+¡Me voy a poner colorado!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:kaene;time:1294941443]
+Ted
+Si te esfuerzas aún más,
+te convertirás en una
+persona excepcional.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:kaene;time:1294941443]
+<STR>(KAR)
+Hala, ¿en serio?
+¿De verdad la crees?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:kaene;time:1294941443]
+Ted
+Sí, de verdad.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:kaene;time:1294941443]
+<STR>(KAR)
+Ya veo... ¡Ya veo!
+¡Puede que este éxito
+sea el primero de muchos!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(YUR)
+¡Venga, Ted! ¡Como sigas hinchándole
+el ego al final va a explotar!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+Información
+<STR>(KAR) ha obtenido
+el título de «Proyecto
+de corredor».
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(RIT)
+¡Ji, ji! ¡Siempre puedes
+contar con <STR>(RIT) 
+para una victoria segura!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:kaene;time:1294941443]
+Ted
+Guau, eres muy lista. Vuestro
+trabajo en equipo ha sido perfecto.
+Como si compartierais el mismo cerebro.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(YUR)
+Después de todo, es una maga prodigio.
+No ha tenido ninguna dificultad
+en seguir lo que le iba diciendo.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:kaene;time:1294941718]
+<STR>(RIT)
+¡Pues claro que no! ¿Por quién
+me tomas, por una aficionada?
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:kaene;time:1294941718]
+<STR>(YUR)
+¡No, no, claro que no!
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+Ted
+Tu estilo al correr
+es muy divertido de ver.
+¡Te deslizas por todo!
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(RIT)
+Es que trataba de
+colarme de la forma
+más eficiente.
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:kaene;time:1294941718]
+Ted
+¡Así que más que
+deslizarte, lo que
+hacías era colarte!
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:kaene;time:1294941718]
+<STR>(YUR)
+No está
+nada mal.
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+Información
+<STR>(RIT) ha obtenido
+el título de «Deslizadora
+profesional»,
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:kaene;time:1294941718]
+<STR>(JUD)
+¡Oh! Parece que he ganado.
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:kaene;time:1294941943]
+<STR>(YUR)
+No me extraña, <STR>(JUD_P). Tienes
+unas piernas largas y
+muchísima resistencia.
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+Ted
+Y parecía que
+entre los dos
+había química.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:kaene;time:1294941943]
+<STR>(JUD)
+¿Ah, sí? Quizás nuestros
+corazones estén conectados...
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:kaene;time:1294941943]
+<STR>(YUR)
+¿Qué quieres decir con eso?...<PAGE>Eres buena analizando la situación
+a la que te enfrentas, <STR>(JUD_P).
+Ha sido divertido darte órdenes.
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:kaene;time:1294941943]
+Ted
+Ahora que lo pienso, es la primera
+vez que un krytiano gana la carrera.
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:kaene;time:1294941943]
+<STR>(YUR)
+Parece que una buena jinete de dragones
+también puede ser rápida a pie.
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+Información
+<STR>(JUD_P) ha obtenido
+el título de «Jinete
+de marcha».
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(RAV)
+¡He ganao!
+¡Qué bueno soy!
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:kaene;time:1294941943]
+Ted
+¡Has estado genial!
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(YUR)
+Aunque tengo que decirte
+que tu manera de correr
+ha sido muy poco eficaz.
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:kaene;time:1294942221]
+<STR>(RAV)
+Bueno, es lo que pasa
+cuando te haces viejo.
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:kaene;time:1294942221]
+<STR>(YUR)
+Pero en otras categorías
+destacabas sin muchos
+problemas, ¿no?
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+<STR>(RAV)
+Sí, cuando uno ya tiene una edad,
+empieza a pensar más en cómo fastidiar
+a sus contrincantes.
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:kaene;time:1294942221]
+<STR>(YUR)
+A mosquear enemigos
+no hay quien te
+gane, viejales.
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:kaene;time:1294942221]
+Ted
+¡Pero tienes que estar
+lleno de morados, después
+de chocarte con todo!
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:kaene;time:1294942221]
+<STR>(RAV)
+¡Amoratado y orgulloso!
+
+## POINTER 65 [t:1;r:1;ru:memnoch;user:kaene;time:1294942221]
+<STR>(YUR)
+¿Tan viejo eres, que
+ya no sientes ni dolor?
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:memnoch;time:1296924793]
+Información
+<STR>(RAV) ha obtenido
+el título de «Corredor
+amoratado».

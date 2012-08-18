@@ -1,0 +1,198 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(YUR)
+<VOICE>(VS42_001)¡Alexei!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+Alexei
+<VOICE>(VS42_002)
+Yeager, gusano inútil.
+¿Ni siquiera es capaz de acabar
+con unas moscas incordiosas?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(KAR)
+<VOICE>(VS42_003)¡Devuélvenos a <STR>(EST_P)!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(RIT)
+<VOICE>(VS42_004)¡<STR>(EST_P), despierta,
+vamos! ¡<STR>(EST_P)!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+Alexei
+<VOICE>(VS42_005)Es inútil.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(EST_P)
+<VOICE>(VS42_006)¡Aah!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(EST_P)
+<VOICE>(VS42_007)¡¡A... aaah!!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(YUR)
+<VOICE>(VS42_008)¡Agh!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(KAR)
+<VOICE>(VS42_009)¡Ay!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(RIT)
+<VOICE>(VS42_010)¡Aah!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(JUD)
+<VOICE>(VS42_011)¡Ooh!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285105211]
+<STR>(RAP)
+<VOICE>(VS42_012)¡Guaaauu!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(EST_P)
+<VOICE>(VS42_013)¡<STR>(YUR)! ¡Chicos!
+¡Uh!... ¡Aah!...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285105211]
+Alexei
+<VOICE>(VS42_014)Como podéis ver, la vida de
+la Princesa se va extinguiendo
+cada vez que usa su poder.<PAGE><VOICE>(VS42_015)
+Si os importa en algo,
+no sigáis interfiriendo. 
+Je, je, je.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(YUR)
+<VOICE>(VS42_016)Maldito... cabrón...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285105211]
+<VOICE>(VS42_017)¡Arriba! ¡¿Cuánto tiempo
+pensáis estar ahí tirados?!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(YUR)
+<VOICE>(VS42_018)¿Eh? Tú ibas con <STR>(FRE)... 
+¿Qué estás haciendo aquí?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243623]
+Witcher
+<VOICE>(VS42_019)Son órdenes del capitán.
+Nos mandó aquí cuando
+supo lo del Heracles.<PAGE><VOICE>(VS42_020)Deberíais agradecer
+la previsión del capitán.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(YUR)
+<VOICE>(VS42_021)El muy... Dile a <STR>(FRE)
+que no necesitamos que meta
+las narices donde no le llaman.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243623]
+Sodia
+<VOICE>(VS42_022)Nuestro capitán no ha flaqueado
+en el ejercicio de su deber desde
+que habló contigo.<PAGE><VOICE>(VS42_023)Pero mírate ahora, después
+del sermón que le echaste.
+Patético.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243623]
+<STR>(YUR)
+<VOICE>(VS42_024)Perdona, pero al contrario que tu
+capitán del alma, no somos perfectos.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(YUR)
+<VOICE>(VS42_025)Eh, ¿estáis todos bien?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1285105211]
+<STR>(RIT)
+<VOICE>(VS42_026)Aah... ¿Eh? ¿Qué están...?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(YUR)
+<VOICE>(VS42_027)Parece que tenemos ayuda.
+<STR>(FRE) los ha enviado aquí.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298325334]
+Sodia
+<VOICE>(VS42_028)Cómo puede alguien como tú...<PAGE><VOICE>(VS42_029)¡¿Cómo puede el capitán
+considerar como amigo
+a alguien como tú?!<PAGE><VOICE>(VS42_030)Nuestro capitán es el ideal al que
+todos aspiramos. ¡Es el prototipo
+de los Caballeros Imperiales!
+<PAGE><VOICE>(VS42_031)
+¡Y aun así!<PAGE><VOICE>(VS42_032)Por alguna razón, cuando
+está contigo no es él mismo.
+Como la última vez...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(YUR)
+<VOICE>(VS42_033)Pues vale. Si buscas a alguien con quien
+tener una conversación seria, prueba con
+el cabeza manzana este.<PAGE><VOICE>(VS42_034)No tenemos tiempo para quedarnos
+aquí sentados para que nos hagas
+de consejera.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1285105211]
+Witcher
+<VOICE>(VS42_035)¡¿C-Cabeza manzana?!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+Sodia
+<VOICE>(VS42_036)¡¡Ya es suficiente!!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+Witcher
+<VOICE>(VS42_037)¡Sodia, no, quieta!
+¡Sodia!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243623]
+Sodia
+<VOICE>(VS42_038)Escúchame bien, 
+<STR>(YUR) Lowell.<PAGE><VOICE>(VS42_039)Tu misma existencia
+perjudica a nuestro capitán.
+¡No vuelvas a acercarte a él!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(JUD)
+<VOICE>(VS42_040)Sí que se lo toma a pecho.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1285105211]
+Witcher
+<VOICE>(VS42_041)Mm, <STR>(FRE) también quería
+que te diera un mensaje.<PAGE><VOICE>(VS42_042)«Cuídate».<PAGE><VOICE>(VS42_043)D-De acuerdo, ya he cumplido con
+todo lo que tenía que hacer aquí.<PAGE><VOICE>(VS42_044)Ahora estáis solos en esto.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+Sodia
+<VOICE>(VS42_045)
+¡Pelotón, rompan filas! 
+Debemos volver con la
+brigada cuanto antes.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(KAR)
+<VOICE>(VS42_046)<STR>(YUR)...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(YUR)
+<VOICE>(VS42_047)De acuerdo, vamos tras Alexei.
+Tenemos que darnos prisa.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(JUD)
+<VOICE>(VS42_048)Vale.<PAGE><VOICE>(VS42_049)Si la obligan a usar su poder,
+será demasiado tarde para salvarla
+o para arreglar lo del aer.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:Lia;time:1283516216]
+<STR>(RIT)
+<VOICE>(VS42_050)Ese cabrón... ¡Cómo se atreve
+a usarla como si fuera un juguete!<PAGE><VOICE>(VS42_051)¡Lo pagará muy caro!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1283476914]
+<STR>(KAR)
+<VOICE>(VS42_052)¡Vamos!

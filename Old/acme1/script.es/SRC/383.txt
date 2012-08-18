@@ -1,0 +1,142 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833104]
+<STR>(RIT)
+¿Por qué hay tanta gente aquí?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833104]
+<STR>(EST_P)
+¡Ahí está <STR>(KAR)!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412587]
+
+El Don protegió esta ciudad del
+Imperio... ¡Protegió nuestro honor!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833104]
+
+Aunque seamos los únicos, ¡se lo debemos
+al Don por proteger esta ciudad!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833104]
+<STR>(RAV)
+¡Un momento! Tranquilizaos
+todos. ¿Qué está pasando?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:memnoch;time:1282961228]
+¡Hemos oído que un grupo
+de Palestrale está
+cerca de Heliord! 
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833104]
+<STR>(RAV)
+Su líder ha muerto por un error
+de uno de los nuestros. Es natural
+que quieran hablar d'ello.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833104]
+
+¡Cuando sepan que el Don no está en la ciudad,
+esto podría ponerse muy feo!<PAGE>Debemos defender
+la ciudad hasta que
+el Don vuelva.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833104]
+<STR>(RAV)
+Seréis tontainas. Sino estuvieseis
+tan ansiosos por luchar,
+el Don no s'habría ido.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833104]
+<STR>(RAV)
+Cuando sepan que hay un
+pique entre gremios,<PAGE>¿no creéis que los Caballeros volverán
+a meter las narices donde no les llaman?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833104]
+
+¡Dahngrest es independiente
+del Imperio!<PAGE>¡Los Caballeros Imperiales no
+tienen derecho a decirnos qué hacer!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412587]
+<STR>(RAV)
+El tratao amistoso aún
+no está firmao.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833104]
+<STR>(KAR)
+¡<STR>(YUR)! ¿Qué hacemos? ¡Esto se
+convertirá en una guerra entre
+gremios si no hacemos algo!<PAGE>Si el Don estuviese aquí...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412587]
+<STR>(YUR)
+Dicen que el Don puede haber ido
+a la guarida de la Garra del Leviatán,
+la Mansión de los Infames.
+
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833288]
+<STR>(KAR)
+¿Qué? ¡¿Va en serio?!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833288]
+<STR>(EST_P)
+Bueno... puede ser.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833288]
+<STR>(YUR)
+Estábamos a punto de ir.
+¿Te vienes?
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280833288]
+<STR>(KAR)
+Pero... puede que el Don
+no esté allí, ¿verdad?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412587]
+<STR>(RIT)
+Sí, solo es una
+corazonada del viejales.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412587]
+<STR>(KAR)
+Si no está ahí...<PAGE>la guerra podría empezar
+mientras lo buscamos.<PAGE><STR>(YUR), ¿qué hacemos?
+¿Qué sería lo mejor?
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280834225]
+<STR>(YUR)
+Bueno, nosotros nos las apañaremos
+en la Mansión de los Infames.<PAGE>Tú haz lo que
+creas que debas hacer.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412587]
+<STR>(KAR)
+S-Sí. ¡Pues voy
+a hablar con todos!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412587]
+<STR>(EST_P)
+¿Crees que es lo correcto?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412587]
+<STR>(RIT)
+Seguir al Don o defender
+la ciudad. No podemos
+hacer las dos cosas.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280834225]
+<STR>(EST_P)
+Ojalá encontremos al Don
+en la Mansión de los Infames.
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280834225]
+<STR>(YUR)
+Somos su apoyo.<PAGE>Si el Don va contra Yeager,
+necesitará toda
+la ayuda posible.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412587]
+<STR>(RAV)
+Eh, pero ¿sabéis por dónde se va? 
+¡Es tó al oeste desde aquí!<PAGE>Un momento, ¡esperadmeee!

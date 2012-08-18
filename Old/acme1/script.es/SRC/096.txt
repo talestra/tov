@@ -1,0 +1,76 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269917774]
+<STR>(EST)
+<VOICE>(VS03_182)¡...!
+¡Ha funcionado!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025749]
+<STR>(YUR)
+<VOICE>(VS03_183)Pues mira tú por dónde. Parece
+que el viejales estaba en lo cierto.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270593833]
+<STR>(EST)
+<VOICE>
+(VS03_184)¿Cree que nos conducirá afuera?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269917774]
+<STR>(YUR)
+<VOICE>(VS03_185)No te lo puedo garantizar.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269917774]
+<STR>(YUR)
+<VOICE>(VS03_186)Bueno, yo bajo. ¿Qué haces tú?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211156]
+<STR>(EST)
+<VOICE>(VS03_187)B-Bajo también...
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269917774]
+<STR>(YUR)
+<VOICE>(VS03_188)Muy valiente por tu parte.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025749]
+<STR>(YUR)
+<VOICE>(VS03_189)¿Quién era el tío ese?
+Resultaba bastante sospechoso.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269918532]
+<STR>(YUR)
+<VOICE>(VS03_190)¿Qué pasa? 
+¿Te lo has pensado?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270593833]
+<STR>(EST)
+<VOICE>(VS03_191)No, es su mano... La tiene herida. 
+Déjeme echarle un vistazo.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269918532]
+<STR>(YUR)
+<VOICE>(VS03_192)¿Mmm?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269918532]
+<STR>(EST)
+<VOICE>(VS03_193)¡Aaah!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1304130678]
+<STR>(YUR)
+<VOICE>(VS03_194)Eh, lo siento. N-Nunca antes
+había visto un blastia como ese.
+No... no lo he hecho aposta.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025749]
+<STR>(EST)
+<VOICE>(VS03_195)¿Seguro que solo ha sido eso?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1304130632]
+<STR>(YUR)
+<VOICE>(VS03_196)Sí, solo eso. La mano
+está mucho mejor. Gracias.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025749]
+<STR>(EST)
+<VOICE>(VS03_197)No... Es lo menos que podía hacer.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1304130644]
+<STR>(YUR)
+<VOICE>(VS03_198)Bien pues, vamos.

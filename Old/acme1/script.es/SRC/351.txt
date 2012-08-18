@@ -1,0 +1,106 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283425189]
+Cumore
+<VOICE>(VS32_064)¡E-Espera!<PAGE>
+<VOICE>(VS32_065)¡Yo no tengo la culpa de nada!
+¡Tan solo recibía órdenes!
+¡No tenía elección!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494402]
+<STR>(YUR)
+<VOICE>(VS32_066)No me odies, entonces.
+Odia a aquellos que
+te ordenaron hacerlo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409288]
+Cumore
+<VOICE>(VS32_067)¡E-Espera!
+¡¿Qué te parece esto?!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494402]
+Cumore
+<VOICE>(VS32_068)¡Puedo usar mi autoridad para
+indultar todos tus crímenes!
+¡Podrás empezar de nuevo!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494402]
+Cumore
+<VOICE>(VS32_069)¡Puede que incluso consiga que
+te vuelvan a admitir en los Caballeros!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283425189]
+Cumore
+<VOICE>(VS32_070)Tengo dinero de sobra. Con el
+suficiente, puedo hacer realidad
+cualquier deseo que tengas.<PAGE>
+<VOICE>(VS32_071)¡Adelante! ¡Dime qué
+es lo que quieres!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494402]
+<STR>(YUR)
+<VOICE>(VS32_072)Tan solo hay una cosa
+que quiero de ti.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283425189]
+Cumore
+<VOICE>(VS32_073)¿Y-Y de qué se trata?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283425189]
+Cumore
+<VOICE>(VS32_074)N-No, detente... ¡Atrás! 
+¡No te me acerques,
+mala bestia!<PAGE>
+<VOICE>(VS32_075)¡Soy Cumore, capitán de los
+Caballeros Imperiales! ¡El hombre
+destinado a ser el nuevo comandante!
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494402]
+Cumore
+<VOICE>(VS32_076)¡Uaaaaaaagh!
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283425189]
+Cumore
+<VOICE>(VS32_077)¡T-Te lo suplico!
+¡Perdóname la vida!
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283425189]
+Cumore
+<VOICE>(VS32_078)¡N-No, por favor! 
+¡Así no! ¡N-No quiero
+morir así!
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283425189]
+<STR>(YUR)
+<VOICE>(VS32_079)Dime... ¿En cuántas ocasiones
+te han dicho a ti justo esas
+mismas palabras?
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494402]
+Cumore
+<VOICE>(VS32_080)¡Aaaaaah!
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494402]
+<STR>(FRE)
+<VOICE>(VS32_081)Mi gente ha tomado el control
+de la situación. Los habitantes
+de este pueblo ya no sufrirán más.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409288]
+<STR>(YUR)
+<VOICE>(VS32_082)Con esto ya debes estar
+cerca de tu nuevo ascenso.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494402]
+<STR>(YUR)
+<VOICE>(VS32_083)Voy a volver con los demás.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494402]
+<STR>(FRE)
+<VOICE>(VS32_084)<STR>(YUR), tenemos que hablar más tarde.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494402]
+<STR>(YUR)
+<VOICE>(VS32_085)Lo sé...
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494402]
+<STR>(FRE)
+<VOICE>(VS32_086)Te estaré esperando en el lago...

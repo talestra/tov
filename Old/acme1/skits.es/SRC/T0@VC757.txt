@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1251713741]
+(KAR) despedido
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297111777]
+(KAR)
+Jolín... ¿Por qué ha tenido que acabar así?
+Me han... me han d-d-despedido...
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531023]
+(EST_P)
+¡(KAR), no te desanimes!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297111777]
+(KAR)
+Ya no puedo ser feliz... Sus palabras
+se han clavado como una daga en mi corazón...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297111777]
+(YUR)
+Tan solo estaba preocupada por que fuera
+demasiado peligroso para ti. Aún hay esperanza.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297111777]
+(KAR)
+¿Eh? ¡¿T-Tú crees?!
+Bah, qué más da.
+¡No me importa lo que piense!
+
+## POINTER 6 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531023]
+(YUR)
+El problema es el gremio, 
+¿verdad? Ya lo pillo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297111777]
+(KAR)
+S-Sí, claro.
+Nan no me importa...
+
+## POINTER 8 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531023]
+(RIT)
+Esto da vergüenza ajena.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297111777]
+(EST_P)
+¡Cuenta con mi apoyo, (KAR)!

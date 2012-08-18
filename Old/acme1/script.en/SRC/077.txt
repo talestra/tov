@@ -1,0 +1,42 @@
+## POINTER 0
+<STR>(RIT)
+Let's fill up our water here.
+
+## POINTER 1
+<STR>(KAR)
+But, this is... 
+Ow, ouuuch...!
+
+## POINTER 2
+<STR>(RIT)
+What an idiot... Use 
+your head a little!
+
+## POINTER 3
+<STR>(YUR)
+Looks like this situation calls for a little extra help...
+
+## POINTER 4
+<STR>(YUR)
+Canteen-fillin' time!
+
+## POINTER 5
+<STR>(KAR)
+Me next!♪
+
+## POINTER 6
+<STR>(EST_P)
+We need to make sure to keep hydrated.
+
+## POINTER 7
+<STR>(YUR)
+Right...we wouldn't want 
+to get sunstroke.<PAGE>If everyone's finished, 
+let's go!
+
+## POINTER 8
+Information
+You will lose HP gradually as
+you walk when the water level
+of the canteen reaches zero.
+Watch your canteen as you advance.

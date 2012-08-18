@@ -1,0 +1,530 @@
+## POINTER 0
+Miska
+From the look on your face, I'd guess that 
+you've brought back all five books.
+
+## POINTER 1
+<STR>(RIT)
+Yep, every single one!
+
+## POINTER 2
+Miska
+All right! Then without further ado, shall 
+we get started with the written test?<PAGE>You may refer to the books that 
+you brought to answer all of 
+the questions that follow.
+
+## POINTER 3
+<STR>(KAR)
+How hard can it be to ace a 
+test where you can look up 
+all the answers in books?
+
+## POINTER 4
+<STR>(YUR)
+Then maybe you should take it 
+too, <STR>(KAR). Who knows--you might 
+surprise yourself and pass.
+
+## POINTER 5
+Miska
+You there!
+
+## POINTER 6
+<STR>(KAR)
+Ah, ah, I'm sorry...
+
+## POINTER 7
+Miska
+Did I hear you say you'd like to take the test? 
+The Miska Doctoral Degree is pretty tough. 
+You should sit for the Nam Certificate!
+
+## POINTER 8
+<STR>(KAR)
+Th-the Nam Certificate?
+
+## POINTER 9
+Miska
+Yes. It's a test for kids around 
+age ten. It's one of our 
+most popular attractions!
+
+## POINTER 10
+<STR>(RAV)
+Oho, aren't ya scared ya might 
+fail? A test like this could 
+be tough for a kid like you.
+
+## POINTER 11
+<STR>(KAR)
+Don't insult me! I'm already twelve years 
+old! That's a full two years above the age 
+level for the test. It should be a cinch!
+
+## POINTER 12
+Miska
+If that's what you've decided, then both 
+of you, get ready to take the test.
+
+## POINTER 13
+<STR>(RIT)
+Hey, don't distract me 
+or anything, okay? This 
+isn't a game, you know!
+
+## POINTER 14
+<STR>(KAR)
+Yeah, I understand. It's 
+not just your pride that's 
+on the line here!
+
+## POINTER 15
+Miska
+All right, let's go. 
+Let the test begin!
+
+## POINTER 16
+Nam Certificate: Question #1
+When was "Tales of Eternia"
+released in Europe?
+
+## POINTER 17
+Select
+1. September, 2001
+2. December, 2005
+3. February, 2006
+4. August, 2003
+
+## POINTER 18
+<STR>(KAR)
+Ack, that was wrong?
+
+## POINTER 19
+Nam Certificate: Question #24
+In "Tales of Symphonia", who is
+the worst cook in the party?
+
+## POINTER 20
+Select
+1. Raine Sage
+2. Sheena Fujibayashi
+3. Lloyd Irving
+4. Zelos Wilder
+
+## POINTER 21
+<STR>(KAR)
+Oh, so it was the 
+other one...
+
+## POINTER 22
+Nam Certificate: Question #52
+What  is the name of Zelos' sister in
+"Tales of Symphonia"?
+
+## POINTER 23
+Select
+1. Tear
+2. Norma
+3. Alice
+4. Seles
+
+## POINTER 24
+<STR>(KAR)
+Agh, I don't know the answer...
+
+## POINTER 25
+Nam Certificate: Question #81
+Which of the following characters 
+does NOT appear in "Tales of 
+The World: Radiant Mythology"?
+
+## POINTER 26
+Select
+1. Arche Klein
+2. Stan Aileron
+3. Presea Combatir 
+4. Eugene Gallardo
+
+## POINTER 27
+<STR>(KAR)
+M-maybe this is tougher 
+than I thought...?
+
+## POINTER 28
+Nam Certificate: Question #100
+Who was Llyod's real father
+from "Tales of Symphonia"?
+
+## POINTER 29
+Select
+1. Kratos Aurion
+2. Zelos Wilder
+3. Regal Bryant
+4. Dirk
+
+## POINTER 30
+<STR>(KAR)
+Aghhh! This 
+is so hard...
+
+## POINTER 31
+Miska
+That's the end! Good 
+work. Now, I'll total 
+up your points.
+
+## POINTER 32
+<STR>(EST_P)
+<STR>(RIT), how did it go? Do 
+you think you passed?
+
+## POINTER 33
+<STR>(RIT)
+Mmm...it was pretty 
+tough, even for me...<PAGE>...But I think I probably did all right.
+
+## POINTER 34
+<STR>(YUR)
+That sounds like the <STR>(RIT) I know.
+
+## POINTER 35
+<STR>(RAV)
+What about you, 
+kid? How'd ya do?
+
+## POINTER 36
+<STR>(KAR)
+I think I probably passed. I've 
+got a good feeling about it.
+
+## POINTER 37
+<STR>(JUD)
+It sounds like you're pretty confident.
+
+## POINTER 38
+<STR>(KAR)
+Heh heh, I guess.
+
+## POINTER 39
+Miska
+Sorry to keep you waiting! I would like 
+to present the results of your tests!
+
+## POINTER 40
+Miska
+First, Miss <STR>(RIT) Mordio. 
+Out of a possible 800 
+points, you received...<PAGE>800 points!
+You passed with 
+a perfect score!
+
+## POINTER 41
+<STR>(EST_P)
+Wow, <STR>(RIT)! You're amazing!
+
+## POINTER 42
+<STR>(RAV)
+When it comes down ta it, ya can get things done, kid.
+
+## POINTER 43
+<STR>(RIT)
+I'm actually quite relieved... 
+Only one other person has
+ever passed this test before.
+
+## POINTER 44
+<STR>(JUD)
+So then, that makes you the second
+person in the world to pass it, <STR>(RIT)!
+
+## POINTER 45
+<STR>(KAR)
+You guys!
+
+## POINTER 46
+<STR>(KAR)
+I still haven't gotten my results yet!
+
+## POINTER 47
+Miska
+Next, we have <STR>(KAR) Capel. 
+Out of a possible 100 
+points, you received...<PAGE>82 points!
+You just barely 
+passed!
+
+## POINTER 48
+<STR>(KAR)
+I did it! I did it!! 
+Yeesssss! I passed, 
+I passed!
+
+## POINTER 49
+<STR>(KAR)
+Eh? Why isn't everyone 
+else celebrating?
+
+## POINTER 50
+<STR>(RAV)
+Well...they're questions written fer 
+a ten-year-old. A twelve-year-old
+passin' them just isn't too impressive.
+
+## POINTER 51
+<STR>(RIT)
+It would've been pretty 
+shameful if you'd failed.
+
+## POINTER 52
+<STR>(KAR)
+C-come on...
+
+## POINTER 53
+Miska
+Now, to bestow the honored titles 
+onto the successful test-takers!
+
+## POINTER 54
+<STR>(YUR)
+Just look at them...
+What the...
+
+## POINTER 55
+Miska
+Only those who has earned the
+honored Miska Doctoral Degree
+gets to put on this special costume.
+
+## POINTER 56
+<STR>(YUR)
+But, of course...
+
+## POINTER 57
+<STR>(EST_P)
+What's the matter? Aren't 
+you happy, <STR>(RIT)?
+
+## POINTER 58
+<STR>(RIT)
+Uh...y-yes, of course. 
+I'm happy...
+
+## POINTER 59
+<STR>(RAV)
+You're cryin'! Overwhelmed by 
+emotion! Reduced ta tears! 
+Salty, salty tears of joy!
+
+## POINTER 60
+<STR>(RIT)
+S-stop saying such ridiculous things! There 
+was just something in my eye, that's all!
+
+## POINTER 61
+<STR>(JUD)
+Heh heh. Suuure, <STR>(RIT).
+
+## POINTER 62
+Miska
+Now then, next off, 
+we have a title for 
+<STR>(KAR), as well.
+
+## POINTER 63
+<STR>(KAR)
+F-for me? 
+Really?!
+
+## POINTER 64
+Information
+<STR>(KAR) obtained the title,
+"Little Shrimp Professor".
+
+## POINTER 65
+<STR>(KAR)
+L-little shrimp! I thought I was 
+getting the Nam Certificate!
+
+## POINTER 66
+Miska
+The Nam Certificate has various levels, and 
+you're at the lowest of those levels. If you 
+get a higher score, you'll go up in rank.
+
+## POINTER 67
+<STR>(RAV)
+Hoo boy! Little shrimp professor! 
+A fittin' title, if I do say so myself.
+
+## POINTER 68
+<STR>(RIT)
+A good title...for a ten-year-old.
+
+## POINTER 69
+<STR>(KAR)
+Oh no...oh no! Ack, I don't want 
+it! I can't have a title like 
+that! You can have it back!
+
+## POINTER 70
+Information
+<STR>(KAR) gracefully declined the
+"Little Shrimp Professor" title.
+
+## POINTER 71
+Miska
+I think it's a perfectly good title...<PAGE>Anyway, Miss <STR>(RIT) Mordio, 
+congratulations.
+
+## POINTER 72
+<STR>(RIT)
+Ah, yeah, thanks.
+
+## POINTER 73
+Miska
+Keep up your research so as 
+to not soil the honor that 
+you have earned today. ∀
+
+## POINTER 74
+<STR>(RIT)
+Leave it to me. This 
+genius mage has yet 
+begun to shine!
+
+## POINTER 75
+<STR>(RAV)
+So, how'd it go?
+
+## POINTER 76
+<STR>(RIT)
+Terrible... Thanks to this 
+little bozo, I couldn't 
+concentrate at all.
+
+## POINTER 77
+<STR>(KAR)
+Whaaaaat?! It's not my fault 
+if you didn't do well!
+
+## POINTER 78
+<STR>(RIT)
+What do you mean it's not your 
+fault? You were the one groaning 
+in despair the entire time!
+
+## POINTER 79
+<STR>(KAR)
+Th-that was just me 
+thinking out loud...
+
+## POINTER 80
+Miska
+Sorry to keep you waiting! I have 
+the results of your tests!
+
+## POINTER 81
+Miska
+Miss <STR>(RIT) Mordio, out of a possible 
+800 points, you received...<PAGE>715 points!
+You just squeaked by! 
+You passed!!
+
+## POINTER 82
+<STR>(YUR)
+Hey, not half bad.
+
+## POINTER 83
+<STR>(RIT)
+Hmph. I would've done better if 
+not for that little squirt.
+
+## POINTER 84
+<STR>(RAV)
+Nah, doin' that well even with all 
+that distraction...that's quite 
+a feat. Genius mage, indeed.
+
+## POINTER 85
+<STR>(KAR)
+What about me? 
+What about me?
+
+## POINTER 86
+Miska
+Ah, yes. Next we have <STR>(KAR) 
+Capel. Out of a possible 100 
+points, you received...<PAGE>66 points!
+Unfortunately, you didn't 
+pass. Better luck next time.
+
+## POINTER 87
+<STR>(KAR)
+Oh no! It can't 
+be true!! This is 
+a joke, right?
+
+## POINTER 88
+Miska
+No, no. Sorry, you just 
+didn't pass. You didn't 
+have enough points.
+
+## POINTER 89
+<STR>(RAV)
+*Whistles* A 12-year-old failin' 
+a test with problems written fer 
+a 10-year-old! It's a new low!
+
+## POINTER 90
+<STR>(EST_P)
+Well, you were just having an 
+off day today! Right, <STR>(KAR)?
+
+## POINTER 91
+<STR>(KAR)
+I, I...
+I don't...
+
+## POINTER 92
+<STR>(YUR)
+Don't cry, <STR>(KAR). We all flub 
+up every now and then.
+
+## POINTER 93
+Miska
+Every cloud has a silver lining. 
+Let this failure inspire you 
+to try harder in the future.<PAGE>So then, a glorious title for 
+the successful test-taker.
+
+## POINTER 94
+<STR>(YUR)
+Just look at them...
+What the...
+
+## POINTER 95
+Miska
+Only those who has earned the
+honored Miska Doctoral Degree
+gets to put on this special costume.
+
+## POINTER 96
+<STR>(YUR)
+But, of course...
+
+## POINTER 97
+<STR>(RIT)
+I'm just so happy to 
+know that I was right 
+to believe in myself!
+
+## POINTER 98
+<STR>(JUD)
+You wouldn't be the <STR>(RIT) we know without 
+that self-confidence of yours!
+
+## POINTER 99
+<STR>(EST_P)
+Congratulations, <STR>(RIT)!

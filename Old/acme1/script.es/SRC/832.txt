@@ -1,0 +1,190 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+
+¡Diiing! ¡Soy el Vacaz! Llamadme Peque V, que es
+más corto. O no, da igual. ¡Encantado de veros!<PAGE>El cielo está
+como raro...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294311523]
+<STR>(KAR)
+¿Te molesta?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1294311523]
+
+¿A mí? Qué va, me da igual.
+¡No tiene sentido rallarse
+por algo así!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294311523]
+<STR>(RAV)
+¿Así que te tomas las cosas
+como vienen? ¿O te lo tomas
+en plan así como filosófico?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294311523]
+
+¡Mi filosofía es seguir la corriente!
+Ya sabes, como una nube que
+se deja llevar por la brisa...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1294311523]
+<STR>(RIT)
+Mmm, esa palabrería
+suena hasta creíble...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1294682867]
+
+Tendrías que cerrar esa bocaza que tienes antes de
+que alguien te la pise, Maite Taplana. ¡No conocerías
+nunca la felicidad si alguien te partiera la cara!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662368]
+<STR>(RIT)
+¡Argh! ¡Ahora sí que
+te la estás ganando!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662368]
+<STR>(YUR)
+¡Contrólate, <STR>(RIT)!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296169461]
+
+¡Oh, Feromonio!
+¡Qué considerado eres! ∀<PAGE>Para demostrarte mi respeto,
+Feromonio, deja que me quede
+con los objetos que te sobran.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+<STR>(EST_P)
+¿Nos sobran objetos?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662368]
+<STR>(KAR)
+No, que yo sepa.
+Tenemos todo lo necesario.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+
+¡No, sin duda tenéis
+algunos objetos de sobra!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662368]
+
+¡Venga, dádmelos!
+¡Dadme, dadme!
+¡Porfiii!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1294311998]
+<STR>(JUD)
+¿Por qué quieres
+tantos objetos?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+
+Mi historia es triste de oír y más triste de contar. ¡Los motivos
+de mis deseos son profundos, nacidos de las lágrimas y la pena!
+Pero sería muy largo de explicar, así que quedaos con mi palabra.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+<STR>(RIT)
+¿De qué demonios hablas?
+¡Deja de andarte por las ramas!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1294311998]
+
+Bueno, los objetos du 
+jour son un divisor
+y un reloj de arena.<PAGE>¿Os sobran estos dos
+objetos? ¡Si es así, dádmelos!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1294311998]
+<STR>(YUR)
+¿Para qué quieres
+todas estas cosas?
+Anda, toma.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+
+Oh, jo, jo.
+¡Muchas gracias!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:kaene;time:1294311998]
+
+¡Vuelta y vuelta y a girar!
+¡Solo yo sé dónde vamos a parar!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+
+¡Toma!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+
+¡Oh, jo, jo, jo!
+¡Gracias,
+gracitas!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:kaene;time:1294311998]
+
+¡No, gracias!<PAGE>Y ahora, para
+devolveros el favor...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+
+¡Tarááá!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:kaene;time:1294312488]
+<STR>(RAV)
+¿Eh? Mmm... Esto
+no está nada mal.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+
+¡Son vuestros geles!
+¡Son la colección
+«Ñam, ñam, qué rico»!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:kaene;time:1294312488]
+<STR>(RIT)
+Creo que nos hemos
+quedado igual...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:kaene;time:1294312488]
+<STR>(JUD)
+¿Y qué pasa con los
+objetos que te hemos dado?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:kaene;time:1294312488]
+<STR>(KAR)
+¡Eso, eso, yo también
+lo quiero saber!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:kaene;time:1294312488]
+
+Mmm... Sería muy
+largo de explicar.
+No quiero...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:kaene;time:1294312488]
+<STR>(RIT)
+¡Venga,
+dínoslo!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+
+¡Oh, pero mira qué hora es!
+Volved, ¿vale? ¡Os espero!
+¡Ding, dong, ding! ∀
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:kaene;time:1294312488]
+
+¡No los tenéis,
+tontos!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1294849085]
+
+¡Agh, el amargo sabor del rechazo!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:kaene;time:1294312488]
+
+¡Hola, hola! ¡Os estaba esperando!
+¿Venís a darme el divisor
+y el reloj de arena?

@@ -1,0 +1,61 @@
+## POINTER 0
+
+...To think that my son left 
+home 13 years ago, with 
+no word from him since...<PAGE>I wonder where he could be...
+
+## POINTER 1
+<STR>(KAR)
+Hey, would you happen to be the 
+father of Rich, by any chance?
+
+## POINTER 2
+
+You...know Rich?
+
+## POINTER 3
+<STR>(KAR)
+Yes, we met him while we were traveling.
+
+## POINTER 4
+
+Where is my son...?
+
+## POINTER 5
+<STR>(KAR)
+I think he's off somewhere, continuing 
+his travels with Karen.
+
+## POINTER 6
+
+He's on a journey, then... I see...
+That's why he wasn't in any of the cities.
+
+## POINTER 7
+<STR>(KAR)
+Oh, but Rich wanted us to tell 
+you... All of the Giganto 
+Monsters have been beaten.
+
+## POINTER 8
+
+What the... The two of 
+them managed that...?
+
+## POINTER 9
+<STR>(KAR)
+No, we were the ones who beat them, 
+actually. We even have proof.
+
+## POINTER 10
+
+These are from the Giganto Monsters...
+Amazing... 
+This is simply amazing.<PAGE>If you happen to meet Rich again 
+in the course of your travels...<PAGE>Would you mind telling him that I'll 
+allow their marriage? Tell him 
+that he should come back home!
+
+## POINTER 11
+<STR>(KAR)
+Okay, I will!

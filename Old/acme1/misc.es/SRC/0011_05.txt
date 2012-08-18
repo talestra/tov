@@ -1,0 +1,316 @@
+## POINTER 690 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263800418]
+Bastón de sierpe
+
+## POINTER 691 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263931646]
+Bastón tallado a imagen de una sierpe gigante.
+Es tan poderoso que un hechicero puede valerse por sí mismo.
+
+## POINTER 693 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261565227]
+Shakujo
+
+## POINTER 694 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263800418]
+Bastón con anillos de metal en la punta. El tintineo de
+estos aleja a las bestias y te mantiene a salvo en tu viaje.
+
+## POINTER 696 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732951]
+Bastón de acero
+
+## POINTER 697 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592654]
+Bastón sencillo fabricado en metal.
+Un arma perfecta para golpear a los objetivos.
+
+## POINTER 699 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732951]
+Diente de dragón
+
+## POINTER 700 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Lanza con un diente de dragón como punta.
+Sus golpes son como mordiscos de esta bestia legendaria.
+
+## POINTER 702 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732951]
+Bastón de Hanuman
+
+## POINTER 703 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Bastón perteneciente al dios mono.
+Ligero pero resistente, es un arma poderosa si se usa bien.
+
+## POINTER 705 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732951]
+Bastón de Hanuman +1
+
+## POINTER 706 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Bastón perteneciente al dios mono.
+Ligero pero resistente, es un arma poderosa si se usa bien.
+
+## POINTER 708 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732951]
+Bastón de Hanuman +2α
+
+## POINTER 709 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Bastón perteneciente al dios mono.
+Ligero pero resistente, es un arma poderosa si se usa bien.
+
+## POINTER 711 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732951]
+Bastón de Hanuman +2β
+
+## POINTER 712 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Bastón perteneciente al dios mono.
+Ligero pero resistente, es un arma poderosa si se usa bien.
+
+## POINTER 714 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732951]
+Bastón de Forte
+
+## POINTER 715 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Bastón que perteneció a un famoso hechicero.
+También puede usarse para golpear.
+
+## POINTER 717 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732951]
+Bastón de Forte +1α
+
+## POINTER 718 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Bastón que perteneció a un famoso hechicero.
+También puede usarse para golpear.
+
+## POINTER 720 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732951]
+Bastón de Forte +1β
+
+## POINTER 721 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Bastón que perteneció a un famoso hechicero.
+También puede usarse para golpear.
+
+## POINTER 723 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1261565150]
+Cuerno de unicornio
+
+## POINTER 724 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Se dice que fue recogido de un monstruo marino.
+La lanza resplandece de poder místico.
+
+## POINTER 726 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1261565382]
+Cuerno de unicornio +1α
+
+## POINTER 727 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Se dice que fue recogido de un monstruo marino.
+La lanza resplandece de poder místico.
+
+## POINTER 729 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1261565382]
+Cuerno de unicornio +1β
+
+## POINTER 730 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Se dice que fue recogido de un monstruo marino.
+La lanza resplandece de poder místico.
+
+## POINTER 732 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261733338]
+Caduceus
+
+## POINTER 733 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Bastón utilizado para transmitir oráculos.
+Trae buenas nuevas cuando brilla con luz azulada.
+
+## POINTER 735 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261733338]
+Caduceus +1
+
+## POINTER 736 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Bastón utilizado para transmitir oráculos.
+Trae buenas nuevas cuando brilla con luz azulada.
+
+## POINTER 738 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261733338]
+Escoba de cubierta
+
+## POINTER 739 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Escoba utilizada para limpiar la cubierta.
+Duele que te den con el mango... ¡Eh, no juegues con ella!
+
+## POINTER 741 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261703146]
+Maza
+
+## POINTER 742 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Arma sencilla capaz de infligir heridas letales
+incluso contra enemigos embutidos en armaduras.
+
+## POINTER 744 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261733338]
+Báculo
+
+## POINTER 745 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261766208]
+Pequeño báculo que mejora la concentración.
+Algunos lo llevan consigo como amuleto.
+
+## POINTER 747 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261702492]
+Estrella del alba
+
+## POINTER 748 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886409]
+Sencilla pero poderosa. Un solo golpe puede
+desgarrar la carne y machacar los huesos.
+
+## POINTER 750 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261702492]
+Estrella del alba +1
+
+## POINTER 751 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263930776]
+Sencilla pero poderosa. De un solo golpe
+puede desgarrar la carne y machacar los huesos.
+
+## POINTER 753 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261703146]
+Cuerno de mago
+
+## POINTER 754 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263931646]
+Cuerno que sacó varias veces de un apuro a magos legendarios.
+Fabricado en metal, también puede ser utilizado como arma.
+
+## POINTER 756 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261703146]
+Cuerno de mago +1α
+
+## POINTER 757 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263931646]
+Cuerno que sacó varias veces de un apuro a magos legendarios.
+Fabricado en metal, también puede ser utilizado como arma.
+
+## POINTER 759 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261703146]
+Cuerno de mago +1β
+
+## POINTER 760 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263931646]
+Cuerno que sacó varias veces de un apuro a magos legendarios.
+Fabricado en metal, también puede ser utilizado como arma.
+
+## POINTER 762 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261733338]
+Báculo de rubí
+
+## POINTER 763 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886791]
+Báculo con una gema roja engarzada.
+Sostener esta arma inspira a su portador.
+
+## POINTER 765 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261733338]
+Báculo de rubí +1α
+
+## POINTER 766 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886791]
+Báculo con una gema roja engarzada.
+Sostener esta arma inspira a su portador.
+
+## POINTER 768 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261733338]
+Báculo de rubí +1β
+
+## POINTER 769 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886791]
+Báculo con una gema roja engarzada.
+Sostener esta arma inspira a su portador.
+
+## POINTER 771 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261565458]
+Gran cetro
+
+## POINTER 772 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886791]
+Pica fabricada con un metal bendito. Es más pesado
+de lo que parece e inflige un gran daño a los oponentes.
+
+## POINTER 774 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261565502]
+Gran cetro +1α
+
+## POINTER 775 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886791]
+Pica fabricada con un metal bendito. Es más pesado
+de lo que parece e inflige un gran daño a los oponentes.
+
+## POINTER 777 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261565502]
+Gran cetro +1β
+
+## POINTER 778 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886791]
+Pica fabricada con un metal bendito. Es más pesado
+de lo que parece e inflige un gran daño a los oponentes.
+
+## POINTER 780 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261733338]
+Vara estelar
+
+## POINTER 781 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886791]
+Vara con forma de estrella.
+Calma la mente y mejora la concentración del portador.
+
+## POINTER 783 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261733564]
+Vara estelar +1
+
+## POINTER 784 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886791]
+Vara con forma de estrella.
+Calma la mente y mejora la concentración del portador.
+
+## POINTER 786 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261733564]
+Vara AC
+
+## POINTER 787 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263931646]
+Vara que porta un brillante cristal azul.
+Su nombre completo es «Vara Azul Cristal».
+
+## POINTER 789 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261733564]
+Báculo energético
+
+## POINTER 790 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261766208]
+Arma experimental diseñada para disparar una fuerza comprimida.
+Una mente fuerte mejora su potencia de ataque.
+
+## POINTER 792 [t:1;r:1;ru:memnoch;user:memnoch;time:1297104381]
+Pincha gatos
+
+## POINTER 793 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263886791]
+Pequeño báculo que incita a tu gato a cazar.
+
+## POINTER 795 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734066]
+Vara
+
+## POINTER 796 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263931646]
+Vara tallada con esmero y bendecida para proteger a los viajeros.
+La punta tiene la forma de una pequeña pica.
+
+## POINTER 798 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734066]
+Vara +1
+
+## POINTER 799 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263931646]
+Vara tallada con esmero y bendecida para proteger a los viajeros.
+La punta tiene la forma de una pequeña pica.
+
+## POINTER 801 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734066]
+Luz de cometa
+
+## POINTER 802 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263931646]
+Varita mágica que concede deseos.
+¡Agítala y pide lo que quieras!
+
+## POINTER 804 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734721]
+Faja
+
+## POINTER 805 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263930776]
+Fabricada con una fibra de alta conductividad aérica.
+Se puede estirar controlando su presión.
+
+## POINTER 807 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734721]
+Faja +1
+
+## POINTER 808 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263930776]
+Fabricada con una fibra de alta conductividad aérica.
+Se puede estirar controlando su presión.
+
+## POINTER 810 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261703224]
+Bufanda
+
+## POINTER 811 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263930776]
+Tejida con lana de ovejas que pacen en una zona
+de alta densidad aérica. Es muy calentita y esponjosa.
+
+## POINTER 813 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261703224]
+Bufanda +1
+
+## POINTER 814 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263930776]
+Tejida con lana de ovejas que pacen en una zona
+de alta densidad aérica. Es muy calentita y esponjosa.
+
+## POINTER 816 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261766208]
+Cinturón de talla grande
+
+## POINTER 817 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263931646]
+Cinturón de tamaño increíble
+que crece aún más si le aplicas aer.
+
+## POINTER 819 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261766208]
+Cinturón de talla grande +1
+
+## POINTER 820 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263930776]
+Cinturón de tamaño increíble
+que crece aún más si le aplicas aer.
+
+## POINTER 822 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734470]
+Corazón sin fin
+
+## POINTER 823 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261766208]
+Decorado con un motivo floral en forma de corazón.
+El tinte usado contiene una sustancia que conduce el aer.
+
+## POINTER 825 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734470]
+Corazón sin fin +1

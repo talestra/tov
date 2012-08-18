@@ -1,0 +1,188 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VA060_001)Never gets any easier, no matter 
+how many times I come.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA060_002)...Bad memories 
+of the Great War?
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VA060_003)Yeah, there're those too...
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VA060_004)Ah... What are you...?
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VA060_005)I mentioned I had a 
+friend that liked 
+this flower, right?<PAGE><VOICE>(VA060_006)My friend is here.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VA060_007)Why would you have a friend here...?
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VA060_008)You mean a friend from 
+the Knights...?
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VA060_009)Some waste their lives while they're alive, 
+others waste their lives by dyin' too soon...
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VA060_010)...Your friend died in the Great War.
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VA060_011)Yeah. Humans...what
+a sad bunch.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VA060_012)Oh, I didn't realize...
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VA060_013)Way better knight than me. Always 
+used the family's famed bow. 
+Man...such a brave knight...<PAGE><VOICE>(VA060_014)Never did find out what 
+happened ta that bow...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VA060_015)Maybe it's still somewhere 
+here in this field...?
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VA060_016)Could be. Findin' it would
+be pretty tough, though.<PAGE><VOICE>(VA060_017)*Sigh*... Thought maybe if I just 
+bummed around, Casey'd get mad enough 
+to come back, but... Heh.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VA060_018)That's so sad...
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VA060_019)...Hey hey hey. Don't go 
+gettin' all gloomy on me.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VA060_020)What are you talking about? You're 
+the one who started this sob-fest.
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VA060_021)I, uh...sorry.<PAGE><VOICE>(VA060_022)Anyway... Rest well, 
+Casey. I know you're 
+in a better place.
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VA060_023)Hey, something's falling out of the sky.
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VA060_024)Huh...?
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VA060_025)Wh-what is it...?
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VA060_026)Oh, you gotta be kiddin'...
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VA060_027)So what is it?
+
+## POINTER 23
+<STR>(RAV)
+<VOICE>(VA060_028)This was Casey's favorite 
+compact...
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VA060_029)But how...?
+
+## POINTER 25
+<STR>(JUD)
+<VOICE>(VA060_030)The ghost of your 
+friend must be watching 
+over you.
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VA060_031)Ghost...?! That's impossible!
+It was just a coincidence!
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VA060_032)You call this a coincidence?
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VA060_033)Like maybe a bird picked it up, 
+and then dropped it by mistake! 
+Yeah, that's gotta be it!
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VA060_034)So...was this Casey 
+friend of yours 
+a woman?
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VA060_035)Woman? What?
+Ooooh, a lady from the old man's past?
+
+## POINTER 31
+<STR>(RAV)
+<VOICE>(VA060_036)Now, <STR>(RIT), remember 
+your blood 
+pressure...
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VA060_037)Oh come on, I want all 
+the juicy details.
+
+## POINTER 33
+<STR>(RAV)
+<VOICE>(VA060_038)Sorry, there ain't much. For 
+starters, another guy already 
+had his heart set on her.
+
+## POINTER 34
+<STR>(JUD)
+<VOICE>(VA060_039)A tale of unrequited love, then?
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VA060_040)A love on war's fickle sea...
+A lady gone too soon...
+Oh, such a tragedy...
+
+## POINTER 36
+<STR>(RAV)
+<VOICE>(VA060_041)Okay, that's enough... You guys go ahead 
+and think what ya like, though.
+
+## POINTER 37
+<STR>(RAV)
+<VOICE>(VA060_042)Here's ta you, Casey... I'm 
+doin' okay with these kids 
+here. I'm doin' okay...

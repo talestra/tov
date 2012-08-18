@@ -1,0 +1,119 @@
+## POINTER 0
+
+Welcome! Oh, it's you... 
+You're the Don's 
+friends, right?
+
+## POINTER 1
+<STR>(RAV)
+Yeah, I guess ya could say that.
+
+## POINTER 2
+<STR>(KAR)
+Hey, the Don worked with 
+this tavern, didn't he?
+
+## POINTER 3
+
+Hmmm? No, not exactly. 
+He just came here 
+often to drink.
+
+## POINTER 4
+<STR>(JUD)
+Maybe this was his safe haven...
+Where he could relax...
+
+## POINTER 5
+
+Exactly. We always worked hard, 
+so the Don would have a place 
+to take his mind off of things!
+
+## POINTER 6
+<STR>(EST_P)
+Keep up the good work. If 
+there's anything we can 
+do to help, let us know!
+
+## POINTER 7
+
+Oh, really? In that 
+case, I have a favor 
+to ask of you.
+
+## POINTER 8
+<STR>(YUR)
+You don't waste any time.
+
+## POINTER 9
+
+To tell the truth, the girl who used 
+to help us around the tavern set off 
+on an excavation trip or some such.<PAGE>That leaves us in a tight spot--we're 
+short on help. I don't know when 
+that girl's coming back, either.
+
+## POINTER 10
+<STR>(RAV)
+So ya want us to take 
+her place an' help ya 
+with yer customers?
+
+## POINTER 11
+
+Right. It would only be a temp 
+job, so I wouldn't be able 
+to hire you officially.
+
+## POINTER 12
+<STR>(KAR)
+No, that's fine. We 
+don't want to become 
+official employees.
+
+## POINTER 13
+
+Oh, I see. Too bad. Anyway, 
+it's hard work, so I'd 
+be paying you, as well.
+
+## POINTER 14
+<STR>(RAV)
+Hey, Gald is Gald. 
+Might as well, eh?
+
+## POINTER 15
+<STR>(RIT)
+Looks like the Old Man is his 
+usual money-grubbing self...
+
+## POINTER 16
+
+I only need one person 
+to help. Feel free to choose 
+whoever you like.
+
+## POINTER 17
+<STR>(YUR)
+Knock yourselves 
+out, guys.
+
+## POINTER 18
+<STR>(EST_P)
+<STR>(YUR), you're not 
+going to help?
+
+## POINTER 19
+<STR>(RAV)
+A rude waiter like <STR>(YUR)'d be 
+bad fer business. The customers 
+would take off in no time.
+
+## POINTER 20
+<STR>(RIT)
+You've got a point, old man.
+
+## POINTER 21
+
+Thanks, I appreciate the help.

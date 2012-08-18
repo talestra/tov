@@ -1,0 +1,64 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1280744733]
+<STR>(RAV)
+<VOICE>(VS34_001)Mmm, no hay tantos Caballeros
+como m'esperaba...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284580741]
+<STR>(RIT)
+<VOICE>(VS34_002)Sí, no parece haber aumentado
+la seguridad a pesar de la
+que se montó en el torneo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1280744733]
+<STR>(EST_P)
+<VOICE>(VS34_003)Daba la impresión de que
+estaban ocupados con los
+monstruos que habían escapado.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1280744733]
+<STR>(YUR)
+<VOICE>(VS34_004)Ya, pero está demasiado tranquilo. 
+Sobre todo si lo comparamos con
+el bloqueo en Cados.<PAGE><VOICE>(VS34_005)Creo que <STR>(RAV) tiene razón. 
+Los Caballeros traman algo,
+y no me gusta un pelo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1280744733]
+<STR>(KAR)
+<VOICE>(VS34_006)Aunque parece que podemos
+quedarnos en la ciudad mientras
+no llamemos la atención.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1284580741]
+<STR>(JUD)
+<VOICE>(VS34_007)
+Entonces veremos a Belius
+en la noche de luna nueva...
+que casualmente es hoy.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1284580741]
+<STR>(RAV)
+<VOICE>(VS34_008)Vamos a la posá pa
+acicalarnos; luego
+podremos ir a ver a verla.<PAGE><VOICE>(VS34_009)Ar fin podré despedirme
+de la carta esta der Don.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1280744733]
+<STR>(YUR)
+<VOICE>(VS34_010)Mmm, me pregunto si <STR>(FRE)
+andará por aquí.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1280744733]
+<STR>(EST_P)
+<VOICE>(VS34_011)¿Eso crees?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1284580741]
+<STR>(YUR)
+<VOICE>(VS34_012)Cuando acabemos lo que hemos venido
+a hacer aquí me gustaría preguntarle
+un par de cositas a ese tío...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1280744733]
+<STR>(EST_P)
+<VOICE>(VS34_013)Cuando lo hagas...
+llévame contigo.

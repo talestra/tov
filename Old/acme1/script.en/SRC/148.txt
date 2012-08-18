@@ -1,0 +1,145 @@
+## POINTER 0
+Leblanc
+Now, come back with 
+us while you can!
+
+## POINTER 1
+Adecor
+I say, we've come to courteously 
+escort you back to the capital!
+
+## POINTER 2
+Boccos
+And then we can clamp <STR>(YUR) 
+in chains where he belongs!
+
+## POINTER 3
+Leblanc
+I've been waiting for 
+you, <STR>(YUR) Looowell! Don't 
+you move a muscle!
+
+## POINTER 4
+<STR>(YUR)
+Jeez, this guy never lets up, does he?
+
+## POINTER 5
+Leblanc
+An old acquaintance you may be, but today I 
+can overlook your transgressions no longer!
+
+## POINTER 6
+<STR>(EST_P)
+<STR>(YUR) isn't a bad 
+person. I asked him 
+to go with me!
+
+## POINTER 7
+Leblanc
+Argh, <STR>(YUR), you ruffian! 
+You're coercing Lady 
+<STR>(EST)!
+
+## POINTER 8
+<STR>(EST_P)
+No! This is what 
+I really want!<PAGE>I'll go back to the castle. Just 
+leave me be for a little longer!
+
+## POINTER 9
+Leblanc
+I cannot allow that! Return 
+to the castle with us!
+
+## POINTER 10
+<STR>(EST_P)
+I can't go back. Please 
+understand this!
+
+## POINTER 11
+Leblanc
+We have no choice. We'll 
+have to apprehend the 
+criminal as well...
+
+## POINTER 12
+Leblanc
+Urrgh!
+What a shame!
+
+## POINTER 13
+<STR>(KAR)
+Uh, <STR>(RIT)...
+
+## POINTER 14
+<STR>(RIT)
+She says she's not going 
+back, so get lost!
+
+## POINTER 15
+<STR>(EST_P)
+<STR>(YUR)! It's 
+them again!
+
+## POINTER 16
+<STR>(YUR)
+Damn it, I knew they 
+were still after us.
+
+## POINTER 17
+<STR>(RIT)
+What is it this time?!
+
+## POINTER 18
+<STR>(KAR)
+Wh-what do you mean?
+
+## POINTER 19
+<STR>(YUR)
+I'll explain later! 
+<STR>(KAR), which way 
+is Nor Harbor?
+
+## POINTER 20
+<STR>(KAR)
+Uh, ah, it's west! West! You 
+go over Ehmead Hill and Capua 
+Nor is right there.
+
+## POINTER 21
+<STR>(RIT)
+All right, let's go now, then.
+
+## POINTER 22
+<STR>(EST_P)
+But, I can't...
+
+## POINTER 23
+<STR>(RIT)
+...Argh! Make a decision!<PAGE>Which do you really want to do? Keep 
+traveling with us, or go home?
+
+## POINTER 24
+<STR>(EST_P)
+...I'm going to keep traveling.
+
+## POINTER 25
+<STR>(RIT)
+A wise choice! And one that 
+those knights surely wouldn't 
+be able to agree with.
+
+## POINTER 26
+<STR>(YUR)
+Imperial Knight Point #1: "With 
+this sword I shall protect the 
+people," wasn't it?
+
+## POINTER 27
+Leblanc
+Indeed!! Come on boys, let's show them 
+what the Imperial Knights are made of!
+
+## POINTER 28
+<STR>(EST_P)
+...I'm sorry.

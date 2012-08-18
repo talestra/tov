@@ -1,0 +1,27 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1294110572]
+<STR>(YUR)
+¿Eh? ¿Qué es esto?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1294110572]
+<STR>(RIT)
+¡Oh, el Libro del coleccionista!<PAGE>Es un libro que se va rellenando automáticamente
+con datos de los objetos que uno se va encontrando.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1294110572]
+<STR>(YUR)
+Conque se rellena automáticamente, ¿eh? Supongo
+que tendré que verlo para ver a qué te refieres.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294110572]
+<STR>(RIT)
+Claro, como quieras.<PAGE>Es un libro muy útil.
+Nos lo podemos traer.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1294110572]
+<STR>(YUR)
+¿Eh? ¡Anda, mirad esto! 
+Está casi en blanco...<PAGE>¿Seguro que eres una investigadora de fama mundial?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1294110572]
+<STR>(RIT)
+...

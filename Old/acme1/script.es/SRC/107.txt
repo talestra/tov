@@ -1,0 +1,317 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_007)¿Has oído eso?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(EST_P)
+<VOICE>(VS06_008)De repente se me han enfriado los pies...
+¡Oh, no! ¡¿Es esta la maldición?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_009)¿Qué clase de maldición chustera sería esa?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(EST_P)
+<VOICE>(VS06_010)
+Los lamentos de los muertos enterrados
+bajo los árboles arrastrándonos
+a nuestra perdición...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VS06_011)Oh, lo que faltaba.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_012)¿Qué es eso?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_013)¿Un blastia? ¿Qué hace
+en un sitio así?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_014)Vamos a descansar un poco.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(EST_P)
+<VOICE>(VS06_015EA)E-Estoy bien.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_015EB)¿Eh? ¿Qué es esto?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_016)¡Ugh!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_017)¡Aaah!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_018)¡<STR>(EST_P)!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:parsec;time:1270988669]
+<STR>(YUR)
+<VOICE>(VS06_019)Maldita sea, qué amargo
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_020)¿Te encuentras bien?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_021)Ooh... tengo la cabeza un poco... 
+Estoy bien.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_022)¿Qué me ha pasado?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_023)Te has desmayado de repente.
+¿Es que no te acuerdas?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(EST_P)
+<VOICE>(VS06_024)Supongo que me habré
+mareado por culpa del aer.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VS06_025)El aer. Eso es algo así como
+el combustible de los blastias, ¿no?<PAGE><VOICE>(VS06_026)Tengo entendido que está por toda
+la atmósfera, aunque no puede verse.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(EST_P)
+<VOICE>(VS06_027)Sí, eso es el aer.<PAGE><VOICE>(VS06_028)Una vez leí que si es demasiado denso
+puede producir efectos negativos en la gente.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_029)Mmm. Tal vez sea ese
+el origen de los rumores
+sobre la maldición.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VS06_030)Vamos, que te acabas de despertar.
+Es mejor que descanses un poco más.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_031)No puedo. Si no encontramos
+pronto a <STR>(FRE)...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_032)¿Y qué pasa si te vuelves a desmayar
+y esta vez no te levantas en toda la noche?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_033)Tienes razón...
+Lo siento.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_034)Ugh...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VS06_035)Je, parece que comiendo esto
+nunca nos llegaremos a saciar.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_036)Está delicioso.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VS06_037)Espera un segundo.
+Puedo preparar algo sencillo.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_038)¿Sabes cocinar, <STR>(YUR)?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VS06_039)No soy ningún chef ni nada de eso.
+Tan solo conozco unas cuantas recetas
+que he aprendido con el tiempo.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_040)
+¿Es que no te preocupa nada
+que <STR>(FRE) esté en peligro?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_041)¿Eh? ¿Esa es la impresión que doy?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_042)Bueno... Sí.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VS06_043)Si te soy sincero, no me preocupo
+por él. Pero eso es porque siempre
+ha sabido cuidarse solo.<PAGE><VOICE>(VS06_044)A decir verdad, siento lástima por quienesquiera
+que sean los que van tras él.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_045)¿Qué quieres decir?
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VS06_046)
+Desde que éramos pequeños, nunca he sido
+capaz de superar a <STR>(FRE) en nada. 
+En esgrima, carreras... lo que sea.<PAGE><VOICE>(VS06_047)Y cada vez que me ganaba, tenía las narices
+de decirme: «¿Estás bien, <STR>(YUR)?».
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_048)Qué bonito es eso...
+Yo nunca he tenido
+a nadie así en mi vida.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_049)Pues considérate afortunada.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_050)Bueno, la cena está lista.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_051)Gracias por la cena.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VS06_052)No ha sido nada especial.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_053)Pues me ha gustado mucho.
+Yo sería incapaz de cocinar
+nada sola.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_054)Es como usar una espada o la magia.
+Se aprende a través de la práctica.
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_055)
+No tienes más que empezar
+con unas pocas recetas.
+Aprenderás antes de darte cuenta.
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(EST_P)
+<VOICE>(VS06_056)¿Practicar con recetas?
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VA090_004)Mira, voy a mostrarte cómo se hace.
+Observa y aprende.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VA090_005)Cocinar despeja la mente.
+Y viene de maravilla para
+recuperar fuerzas.<PAGE><VOICE>(VA090_006)También tiene otros muchos efectos.<PAGE><VOICE>(VA090_007)Esto es más o menos
+todo lo que sé cocinar
+ahora mismo.
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VA090_008)Así pues, para hacer un bocadillo
+se necesita pan y un huevo.<PAGE><VOICE>(VA090_009)¡Cosas que tenemos,
+mira tú por dónde!
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VA090_010)¡Una vez escogidos los ingredientes,
+a cocinar tocan!
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VA090_011)Y... ¡aquí tienes! 
+¡Un delicioso tentempié!
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(EST_P)
+<VOICE>(VA090_012)Qué bien lo haces.
+No sé yo si seré capaz de llegar
+a ser tan buena cocinando.
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VA090_013)Hay gente que se le da
+mejor que a otra.<PAGE><VOICE>(VA090_014)Solo porque conozcas la receta
+no quiere decir que te saldrá
+siempre como esperas.
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:memnoch;time:1273483383]
+<STR>(EST_P)
+<VOICE>(VA090_015)
+¿En serio? Entonces,
+¿puede salirte mal?
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VA090_016)Lo normal es ir probando
+la comida mientras la cocinas,
+pero no todo el mundo lo hace.
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(EST_P)
+<VOICE>(VS06_058)¿Probando?
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:xander;time:1271929127]
+<STR>(YUR)
+<VOICE>(VS06_059)Ya sabes. Cuando el cocinero
+va degustando la comida que hace.
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(YUR)
+<VOICE>(VS06_060)Aunque teniendo en cuenta que has vivido
+como una princesita confinada en su castillo,
+supongo que es normal.
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:memnoch;time:1273437954]
+<STR>(EST_P)
+<VOICE>(VS06_061)Como una princesita confinada...
+Supongo que es verdad.
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_062)¿Qué ocurre, <STR>(RAP)?
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:xander;time:1270654307]
+<STR>(YUR)
+<VOICE>(VS06_063)Bueno, ¿seguimos?
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:parsec;time:1270988891]
+Información
+Se pueden aprender nuevas recetas si los personajes
+cocinan platos específicos. Cuanto mayor sea
+el nivel de habilidad de cocina del personaje,
+mayores serán las posibilidades de inventar algo nuevo.
+La receta de bocadillo puede acabar evolucionando
+en una receta totalmente nueva. ¡Ve probando para
+descubrir nuevos horizontes culinarios!

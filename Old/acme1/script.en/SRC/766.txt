@@ -1,0 +1,129 @@
+## POINTER 0
+
+Crivvens, d'ye 
+come ta eat 
+batangi too?
+
+## POINTER 1
+<STR>(KAR)
+Batangi? That's a type of fish, 
+right? Is it any good...?
+
+## POINTER 2
+
+It useta be as bad as a brine-soaked 
+boot! Ye couldna ate it if ye tried. 
+But now, it's rather tasty!
+
+## POINTER 3
+<STR>(JUD)
+......
+
+## POINTER 4
+<STR>(RAV)
+Ya say the fish useta taste 
+bad, and now it's good?
+
+## POINTER 5
+
+Aye, it was a wee, gamey fishie, wit' nae meat oughtlins. But it got 
+all nice an' fat all o' the sudden. It makes a right braw meal now!
+
+## POINTER 6
+<STR>(RIT)
+This could be caused by a local 
+aer imbalance, as well.<PAGE>I wonder if there's an aer krene 
+at the bottom of the ocean...
+
+## POINTER 7
+<STR>(YUR)
+...<STR>(JUD_P)...
+Not 
+again...
+
+## POINTER 8
+
+It's terrible! Hurry!
+
+## POINTER 9
+
+Eh? What's all this hubbub aboot?
+
+## POINTER 10
+
+I don't know any details... Simply 
+that a blastia has been destroyed.
+
+## POINTER 11
+
+Who'd do a thing like that?
+
+## POINTER 12
+
+No one saw their face, but apparently 
+it was someone wielding a spear.
+
+## POINTER 13
+<STR>(RIT)
+A spear...! It's that dragon freak!
+
+## POINTER 14
+<STR>(EST_P)
+Oh, <STR>(RIT)...!
+
+## POINTER 15
+<STR>(KAR)
+<STR>(RIT)'s always running off to one place or 
+another! Isn't that right, <STR>(JUD_P)... <STR>(JUD_P)?
+
+## POINTER 16
+<STR>(YUR)
+I think <STR>(JUD_P)'s very much the 
+same way, to be honest.
+
+## POINTER 17
+<STR>(JUD)
+Eh? I don't think 
+that's true.
+
+## POINTER 18
+<STR>(KAR)
+Where were you?
+
+## POINTER 19
+<STR>(JUD)
+A very nice gentleman 
+invited me out to tea.
+
+## POINTER 20
+<STR>(RAV)
+What? Inconceivable!
+
+## POINTER 21
+<STR>(YUR)
+We don't need your commentary, old man.
+
+## POINTER 22
+<STR>(JUD)
+It seems like there's some 
+commotion going on. 
+Did something happen?
+
+## POINTER 23
+<STR>(KAR)
+A blastia was destroyed! By the same 
+dragon rider as last time, too.
+
+## POINTER 24
+<STR>(JUD)
+Oh. How frightening!
+
+## POINTER 25
+<STR>(YUR)
+Yeah... I'll bet you're scared stiff...
+
+## POINTER 26
+<STR>(RIT)
+It was torn to pieces...<PAGE>Damn it! I swear, I'm going to make 
+a permanent imprint of my fist into 
+that dragon freak's face...!

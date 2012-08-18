@@ -1,0 +1,61 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296769640]
+
+Y pensar que mi hijo se fue
+de casa hace trece años y no sé
+nada de él desde entonces...<PAGE>Dónde estará...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1294520656]
+<STR>(KAR)
+Oiga, ¿por casualidad no será
+usted el padre de Rich?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1294520656]
+
+¿Conocéis... a Rich?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1294520656]
+<STR>(KAR)
+Sí, nos lo encontramos mientras viajábamos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296769640]
+
+¿Dónde está mi hijo?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296769640]
+<STR>(KAR)
+Creo que sigue por ahí,
+continuando su viaje con Karen.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1294520656]
+
+Entonces está viajando... Ya veo.
+Por eso no estaba en ninguna ciudad.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297529545]
+<STR>(KAR)
+Oh, pero Rich quería que le
+comunicásemos que los monstruos
+Giganto han sido derrotados.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296769640]
+
+C-Cómo...
+¿Los dos han podido...?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1294520656]
+<STR>(KAR)
+No, lo cierto es que fuimos nosotros
+los que los derrotamos. Tenemos pruebas.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297529545]
+
+Son de monstruos Giganto...
+Increíble...
+Esto es simplemente increíble.<PAGE>Si en vuestros viajes os
+encontráis con Rich otra vez,<PAGE>¿le podríais decir que aprobaré
+su matrimonio? ¡Decidle que
+debería volver a casa!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1294520656]
+<STR>(KAR)
+¡Claro, eso haré!

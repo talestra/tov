@@ -1,0 +1,13 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298163175]
+<STR>(EST_P)
+Mmm...
+¿Por qué no buscamos primero a <STR>(KAR)?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298163161]
+<STR>(RIT)
+No lo veo viniendo
+hasta aquí a él solito.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1269796601]
+<STR>(YUR)
+Ya veo.

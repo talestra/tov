@@ -1,0 +1,103 @@
+## POINTER 0
+<STR>(YUR)
+Mrngh... Where are you going...?
+
+## POINTER 1
+<STR>(JUD)
+The moon's so pretty, so I thought 
+I'd go out and take a walk.
+
+## POINTER 2
+<STR>(KAR)
+...What? What was that sound?
+
+## POINTER 3
+<STR>(RAV)
+...What strange sounds...
+
+## POINTER 4
+<STR>(RIT)
+So noisy... What's 
+going on...?
+
+## POINTER 5
+<STR>(JUD)
+It's nothing, everyone. 
+Go back to sleep.
+
+## POINTER 6
+<STR>(YUR)
+Ugh, now we're all awake. 
+Stupid noisy son of a...
+
+## POINTER 7
+<STR>(RIT)
+Nope, one of us is still sound asleep.
+
+## POINTER 8
+<STR>(EST_P)
+...Mrngh mrngh...
+No, no more tapioca...
+
+## POINTER 9
+<STR>(RAV)
+...What happened?
+
+## POINTER 10
+<STR>(KAR)
+There was some weird sound outside the door. 
+Like someone carrying something heavy.
+
+## POINTER 11
+<STR>(RIT)
+...This late at night? 
+That's strange.
+
+## POINTER 12
+<STR>(KAR)
+Anyway, you want to go 
+and see what it was?
+
+## POINTER 13
+<STR>(YUR)
+Yeah, good idea.
+
+## POINTER 14
+<STR>(RIT)
+Hey, <STR>(EST_P), get 
+up. We're going 
+out for a bit.
+
+## POINTER 15
+<STR>(EST_P)
+Huh...? A party, 
+for me...?
+
+## POINTER 16
+<STR>(KAR)
+She's still dreaming...
+
+## POINTER 17
+<STR>(RAV)
+I'm sleeping too...
+
+## POINTER 18
+<STR>(RIT)
+Argh, I swear...
+
+## POINTER 19
+<STR>(YUR)
+<STR>(RAP)'s also asleep. We should 
+just let them rest.
+
+## POINTER 20
+<STR>(JUD)
+......
+
+## POINTER 21
+<STR>(YUR)
+...You're coming, right?
+
+## POINTER 22
+<STR>(JUD)
+Yes.

@@ -1,0 +1,318 @@
+## POINTER 2752
+A mysterious ring that can shoot aer.
+Capable of distributing aer to targets.
+
+## POINTER 2754
+Sorcerer's Ring Lv. 2
+
+## POINTER 2755
+A mysterious ring that can shoot aer.
+Capable of making physical impact.
+
+## POINTER 2757
+Sorcerer's Ring Lv. 3
+
+## POINTER 2758
+A mysterious ring that can shoot aer.
+More powerful and can now crush rocks.
+
+## POINTER 2760
+Sorcerer's Ring Lv. 4
+
+## POINTER 2761
+A mysterious ring that can shoot aer.
+Enhanced and can now shoot flames.
+
+## POINTER 2763
+Sorcerer's Ring Lv. 5
+
+## POINTER 2764
+A mysterious ring that can shoot aer
+with increased power and range.
+
+## POINTER 2766
+Moon Selector
+
+## POINTER 2767
+Change the controlled character during
+battle by opening the menu and pressing the <06>(STA) button.
+
+## POINTER 2769
+Winged Boots
+
+## POINTER 2770
+Shoes decorated with wings. Increases
+speed for those in a hurry.
+
+## POINTER 2772
+Special Flag
+
+## POINTER 2773
+A flag that allows you to change party leaders
+in the Menu. It won't give you an extra life.
+
+## POINTER 2775
+Prison Key
+
+## POINTER 2776
+A key received from a stranger
+This should get me out of prison...?
+
+## POINTER 2778
+Golden Horn
+
+## POINTER 2779
+A Rhybgaro’s horn. Ragou collects them.
+Maybe it’s worth a lot...?
+
+## POINTER 2781
+Password Clue 1
+
+## POINTER 2782
+A research note found in Caer Bocram.
+The word "Light" is written on it.
+
+## POINTER 2784
+Password Clue 2
+
+## POINTER 2785
+A research note found in Caer Bocram.
+The word "Sky" is written on it.
+
+## POINTER 2787
+Password Clue 3
+
+## POINTER 2788
+A research note found in Caer Bocram.
+The word "Sphere" is written on it.
+
+## POINTER 2790
+Wonder Log
+
+## POINTER 2791
+A scrapbook of articles brought to you by
+the Wonder Press. Trace your footsteps!
+
+## POINTER 2793
+Battle Book
+
+## POINTER 2794
+A collection of notes on all sorts of battle related
+information. It’s important to go back to the basics!
+
+## POINTER 2796
+Passport
+
+## POINTER 2797
+A document necessary to enter Aspio.
+It’s borrowed temporarily, so don’t lose it.
+
+## POINTER 2799
+Cooking Match Invitation
+
+## POINTER 2800
+A place only for master chefs!
+Who is worthy of receiving the kiss of victory!?
+
+## POINTER 2802
+Yumanju, Permanent Free Pass
+
+## POINTER 2803
+Overpriced! It's a rip off!! Here’s a free ticket
+to enter the notorious spa resort...
+
+## POINTER 2805
+Nam Cobanda Isle, Entry Ticket
+
+## POINTER 2806
+A free ticket to "The Happy Paradise".
+Having too much fun could be tough on a Monday!
+
+## POINTER 2808
+Limit Duo
+
+## POINTER 2809
+Look into the orb to receive its powers.
+It enhances Over Limits!
+
+## POINTER 2811
+Limit Trio
+
+## POINTER 2812
+Look into the orb to gain the wisdoms
+of the world. Enhances Over Limits!
+
+## POINTER 2814
+Limit Quartet
+
+## POINTER 2815
+Look into the orb to gain courage.
+Enhances Over Limits!
+
+## POINTER 2817
+(C) B Statue
+
+## POINTER 2818
+A statue of "Bravery" The story of a warrior 
+that conquered a 60-story tower alone.
+
+## POINTER 2820
+(C) F Statue
+
+## POINTER 2821
+A statue of "Fellowship". The story of a traveler 
+and the spirit that lives in his ring.
+
+## POINTER 2823
+(C) H Statue
+
+## POINTER 2824
+A statue of "Helmet". The story of one who 
+fought a dragon with to save a princess
+
+## POINTER 2826
+(C) I Statue
+
+## POINTER 2827
+A statue of an "Island". The story of 
+reclaiming one's home with a loud voice.
+
+## POINTER 2829
+(C) J Statue
+
+## POINTER 2830
+A statue of ”Justice”. The story of a child 
+of god who saved the world from disaster.
+
+## POINTER 2832
+(C) L Statue
+
+## POINTER 2833
+A statue of"Love". The story of a priestess who
+waited for her lover to rescue her from a tower.
+
+## POINTER 2835
+(C) M Statue
+
+## POINTER 2836
+A statue of a "Myth". The story of one who 
+rode a Pegasus to rescue a goddess.
+
+## POINTER 2838
+(C) N Statue
+
+## POINTER 2839
+A statue of something ”New”. The story of 
+a car that collected flags and blinded opponents.
+
+## POINTER 2841
+(C) P Statue
+
+## POINTER 2842
+A statue of ”Police”. The story of a cop that 
+went after thieves to recover stolen treasures.
+
+## POINTER 2844
+(C) R Statue
+
+## POINTER 2845
+A statue of a "Runner". The story of a runner 
+who avoided all the traps, despite being hurt.
+
+## POINTER 2847
+(C) S Statue
+
+## POINTER 2848
+A statue of "Space".  The story of a warrior
+who fought evil creatures in an underground fortress.
+
+## POINTER 2850
+Guide Bell to Myorzo
+
+## POINTER 2851
+A bell that opens the entrance to Myorzo.
+It was owned by the great Krityan guide.
+
+## POINTER 2853
+Salvage Crane
+
+## POINTER 2854
+A useful item capable of salvaging items
+undersea. An awesome machine!
+
+## POINTER 2856
+Kitchen Knife
+
+## POINTER 2857
+An extremely sharp kitchen knife.
+Also known as the legendary white knife.
+
+## POINTER 2859
+Marking Map
+
+## POINTER 2860
+A map that records locations marked by
+Repede. The locations can be erased.
+
+## POINTER 2862
+Zaude Orb
+
+## POINTER 2863
+A gem found in Zaude shrine. It fell off
+the pedestal for some reason.
+
+## POINTER 2865
+Red Orb
+
+## POINTER 2866
+A gem removed from a pedestal. It needs
+to be returned to its original place.
+
+## POINTER 2868
+Nia Fruit
+
+## POINTER 2869
+One of the ingredients for a panacea bottle.
+It gives off a bad stench when burned.
+
+## POINTER 2871
+Eggbear Claw
+
+## POINTER 2872
+One of the ingredients for a panacea bottle.
+It looks bad, but is a useful medicine.
+
+## POINTER 2874
+Luluria Petal
+
+## POINTER 2875
+One of the ingredients for a panacea bottle.
+A precious petal from the mayor of Halure.
+
+## POINTER 2877
+Small Wolf Key
+
+## POINTER 2878
+A key owned by a monster.
+A picture of wolf is engraved on it.
+
+## POINTER 2880
+Small Key
+
+## POINTER 2881
+A key owned by a monster.
+Which door does it open?
+
+## POINTER 2883
+Panacea Bottle
+
+## POINTER 2884
+A potion necessary to revive the tree of Halure.
+Don’t drop it!
+
+## POINTER 2886
+Aque Blastia Core
+
+## POINTER 2887
+The blastia core stolen by Dedecchi and
+then passed on to Barbos. We finally got it back!

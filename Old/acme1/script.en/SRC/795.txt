@@ -1,0 +1,69 @@
+## POINTER 0
+<STR>(KAR)
+(...T-this...
+This place
+is...)
+
+## POINTER 1
+<STR>(RAV)
+(Shh! Quiet, boy! 
+The ladies have 
+already gone in.)
+
+## POINTER 2
+<STR>(RAV)
+(This'll be good fer ya, boy. You might 
+learn a little bit 'bout the world.)<PAGE>(Though I guess if we're caught, 
+that makes ya my accomplice, 
+don't it? Heh heh!)
+
+## POINTER 3
+<STR>(RIT)
+Ahh... This 
+feels so nice...
+
+## POINTER 4
+<STR>(EST_P)
+<STR>(RIT)! Come 
+on, hurry!
+
+## POINTER 5
+<STR>(RAV)
+(Come on, who cares 
+about <STR>(RIT)? <STR>(JUD)! 
+I wanna see <STR>(JUD)!)
+
+## POINTER 6
+<STR>(JUD)
+Ahh, the open-air spring 
+feels so amazing. I 
+feel so liberated!
+
+## POINTER 7
+<STR>(RIT)
+You're certainly taking 
+that to heart. Lose 
+your towel?
+
+## POINTER 8
+<STR>(JUD)
+Oh, it's just us girls here, <STR>(RIT). 
+Why would I need a towel?
+
+## POINTER 9
+<STR>(RIT)
+I guess you're right, but...with you just 
+letting it all hang out like that, I don't 
+feel comfortable looking at you.<PAGE>And look at <STR>(EST_P)!  She's 
+been struck speechless 
+by your bold display.
+
+## POINTER 10
+<STR>(RAV)
+(I-I'm speechless 
+too...)
+
+## POINTER 11
+<STR>(KAR)
+(R-raven! Are 
+you okay?)

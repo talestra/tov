@@ -1,0 +1,58 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294772409]
+<STR>(KAR)
+¿Eh? ¿Una moneda?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294772409]
+
+¡Ya tienes una!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1294772409]
+<STR>(YUR)
+¿Y esta moneda?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294772409]
+<STR>(EST_P)
+No es gald...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760944]
+
+Para llegar a la tierra de los
+muertos, debéis ahorrar para pagar
+el precio del viaje. Ji, ji, ji...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760944]
+<STR>(RIT)
+¿D-De dónde viene esta voz?
+N-No es que tenga miedo ni nada...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760944]
+<STR>(KAR)
+Oíd... ¿queréis volver?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294772409]
+<STR>(YUR)
+No creo que podamos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760944]
+
+Si queréis volver a la tierra de los vivos,
+lo más prudente sería reunir monedas.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294772539]
+<STR>(RAV)
+Parece que ahorrar esas monedas
+es lo único que podemos hacer.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1294772539]
+<STR>(YUR)
+¡A no ser que nos queramos
+quedar aquí para siempre!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760944]
+<STR>(RIT)
+¡D-Déjate de bromas!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1294772539]
+<STR>(YUR)
+Oh, vale.
+Sigamos adelante.

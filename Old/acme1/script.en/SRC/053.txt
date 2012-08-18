@@ -1,0 +1,14 @@
+## POINTER 0
+Information
+You used the small
+key to open the door.
+
+## POINTER 1
+Information
+The key broke...
+You can't use it anymore.
+
+## POINTER 2
+Information
+It's locked.
+You can't go in.

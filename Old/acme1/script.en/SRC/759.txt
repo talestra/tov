@@ -1,0 +1,109 @@
+## POINTER 0
+
+<STR>(RAV)!
+
+## POINTER 1
+
+Welcome back!
+
+## POINTER 2
+<STR>(RAV)
+Hey.
+
+## POINTER 3
+<STR>(KAR)
+That's a bit different from 
+the usual reaction he 
+gets, don't you think?
+
+## POINTER 4
+
+Where were you travelling, this time? 
+Tell me all about your journey!<PAGE>How would you like some tea? I 
+baked a cake yesterday, too. 
+You're all invited, of course.
+
+## POINTER 5
+<STR>(RAV)
+Ya know I don't like 
+sweet things, right?
+
+## POINTER 6
+
+Oh, maybe I should have made dinner 
+instead of tea and cake.
+
+## POINTER 7
+<STR>(JUD)
+Everyone's got their 
+own tastes, I guess.
+
+## POINTER 8
+<STR>(YUR)
+Seems that way.
+
+## POINTER 9
+<STR>(RAV)
+I'm tired, so I think I'll be on my 
+way. You have someone else ta 
+eat your cake for you, right?
+
+## POINTER 10
+
+I want to feed you, <STR>(RAV)!
+
+## POINTER 11
+<STR>(RAV)
+Come on, there's no use 
+wasting your precious time 
+on a bitter old fogey like me.<PAGE>Don'tcha have an up-and-comin' 
+young lad ta keep ya company? 
+Go and be with him.
+
+## POINTER 12
+
+...You mean Harry?<PAGE>No thank you! He's so 
+wimpy and negative all 
+the time...I hate it!
+
+## POINTER 13
+<STR>(RAV)
+Men change for women everyday! 
+I'm sure you'd be able ta change 
+him inta yer dream guy in no time.<PAGE>Stop just makin' excuses 
+and get a move on.
+
+## POINTER 14
+
+I'm not making excuses! 
+<STR>(RAV), you're so mean!
+
+## POINTER 15
+<STR>(YUR)
+Wow.
+
+## POINTER 16
+<STR>(KAR)
+Hmmm...I don't know what to 
+think about <STR>(RAV) anymore.
+
+## POINTER 17
+<STR>(EST_P)
+I feel sorry for that girl after 
+he treated her so harshly...
+
+## POINTER 18
+<STR>(JUD)
+Really? I think I see <STR>(RAV) 
+in a whole new light.
+
+## POINTER 19
+<STR>(RAV)
+Oh yeah? Ol' <STR>(RAV)'ll welcome 
+ya with open arms, ya sweet 
+thing. Just say the word.
+
+## POINTER 20
+<STR>(KAR)
+I think I've finally realized just 
+how much <STR>(RAV) likes girls!

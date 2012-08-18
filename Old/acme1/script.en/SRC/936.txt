@@ -1,0 +1,154 @@
+## POINTER 0
+
+Oh, Miss! 
+You came!
+
+## POINTER 1
+<STR>(JUD)
+How've you been doing?
+
+## POINTER 2
+
+Good! I've been watching all of the great things 
+you've been doing from up here in the sky!
+
+## POINTER 3
+<STR>(KAR)
+Can you really see all 
+that from up here?
+
+## POINTER 4
+<STR>(JUD)
+Krityans do have better 
+sight than humans, but...<PAGE>I still think that'd 
+be impossible.
+
+## POINTER 5
+
+Actually...I was using this.
+
+## POINTER 6
+<STR>(RIT)
+Does that magnify the image of whatever it's pointed at?<PAGE>Blastia? No... I get the feeling 
+it's somehow different.
+
+## POINTER 7
+
+They say that someone 
+named Hermes made it, 
+a long, long time ago.<PAGE>But I don't know how it works.
+
+## POINTER 8
+<STR>(RAV)
+That's pretty cool, 
+bein' able ta see 
+things so far away.
+
+## POINTER 9
+
+Yeah! I love watching 
+Ball fly all over 
+the world.
+
+## POINTER 10
+<STR>(YUR)
+It's Ba'ul.
+
+## POINTER 11
+
+Hey Miss, you were knocking 
+a bunch of monsters into 
+the sky, weren't you?
+
+## POINTER 12
+<STR>(EST_P)
+Wow, you could 
+even see that?
+
+## POINTER 13
+
+Yeah! It was so cool! 
+I even counted how 
+many there were!
+
+## POINTER 14
+<STR>(KAR)
+You counted?
+
+## POINTER 15
+
+Yeah, you know... Those monsters 
+that you hit up into the air and 
+then they disappear! Poof!
+
+## POINTER 16
+<STR>(RAV)
+Sounds like he's talkin' 'bout fatal strikes.
+
+## POINTER 17
+
+I counted more than 
+1000 of them! You 
+guys are awesome!
+
+## POINTER 18
+<STR>(RIT)
+You're pretty awesome, yourself, 
+for counting all of those.
+
+## POINTER 19
+
+It was so fun watching! I want 
+to give you something to show 
+you how much I liked it.
+
+## POINTER 20
+<STR>(YUR)
+That's very thoughtful of you.
+
+## POINTER 21
+
+I, I made this! 
+It's for you!!
+
+## POINTER 22
+<STR>(JUD)
+Thank you.
+
+## POINTER 23
+
+C-can you try it on?
+
+## POINTER 24
+<STR>(JUD)
+All right. Just 
+a minute.
+
+## POINTER 25
+<STR>(JUD)
+What do you think?
+
+## POINTER 26
+<STR>(RAV)
+*Whistles*
+
+## POINTER 27
+<STR>(EST_P)
+It looks great on you, <STR>(JUD)!
+
+## POINTER 28
+<STR>(KAR)
+Wow. It doesn't 
+look hand-made 
+at all.
+
+## POINTER 29
+
+Heh, I thought you'd like it! I actually 
+wanted to give it to you after I counted 
+300 monsters, but it wasn't ready yet...
+
+## POINTER 30
+<STR>(JUD)
+I'll take good care 
+of it. Thank you.

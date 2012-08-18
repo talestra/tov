@@ -1,0 +1,22 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS22_001)Look, the Knights 
+have come back.
+
+## POINTER 1
+Ragou
+<VOICE>(VS22_002)I'm innocent, I tell you! This 
+is a plot by the Knights to 
+destroy the Council!
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS22_003)He doesn't know when to quit, does he?
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS22_004)...Where's <STR>(FRE)...?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS22_005)I can't make him out from here.

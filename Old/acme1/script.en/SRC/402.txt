@@ -1,0 +1,152 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS37_112)What's happening?
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS37_113)Ba'ul is trying to 
+evolve...as an 
+Entelexeia.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS37_114)It looks like he's suffering.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS37_115)Ba'ul...come on...
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS37_116)No!
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS37_117)I want to heal your 
+wounds, but there's 
+nothing I can do...<PAGE><VOICE>(VS37_118)My power is poison 
+to you, isn't it...?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS37_119)Healing wounds isn't 
+your power, <STR>(EST_P).
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS37_120)What do you mean?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS37_121)Don't you remember 
+Belius' words?
+
+## POINTER 9
+Belius
+<VOICE>(VS37_122)Power corrupts... But you, 
+you are different.<PAGE><VOICE>(VS37_123)Never lose that kindness...the compassion 
+you so readily show to others...
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS37_124)My compassion for others...
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS37_125)Your thoughts are 
+reaching Ba'ul. 
+I'm sure of it...
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS37_126)All we can do now 
+is hope for the best.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS37_127)...
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VS37_128)Well, now...
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS37_129)Amazing...
+
+## POINTER 16
+<STR>(JUD)
+<VOICE>(VS37_130)I knew you could do it.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS37_131)Your partner seems like he's 
+going to be just fine.
+
+## POINTER 18
+<STR>(JUD)
+<VOICE>(VS37_132)Yes.<PAGE><VOICE>(VS37_133)Thank you all, for helping 
+to protect him...<PAGE><VOICE>(VS37_134)This is something I couldn't 
+have done alone.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS37_135)You're one of us. 
+Of course we'd help!
+
+## POINTER 20
+<STR>(JUD)
+<VOICE>(VS37_136)Didn't I tell you? You 
+got through to him.
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS37_137)Heh heh.
+
+## POINTER 22
+<STR>(JUD)
+<VOICE>(VS37_138)You may get through 
+to Phaeroh as well.
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VS37_139)Will you be going to meet him?
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS37_140)That's up to <STR>(EST_P) to decide.
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS37_141)...I'll go. It's been the purpose 
+of my journey, after all.
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS37_142)Are you sure? What if you 
+end up getting killed?
+
+## POINTER 27
+<STR>(EST_P)
+<VOICE>(VS37_143)Even still. I've got to 
+stand firm on this...
+
+## POINTER 28
+<STR>(RAV)
+<VOICE>(VS37_144)It won't be too long 
+before the Hunting Blades 
+send reinforcements.<PAGE><VOICE>(VS37_145)How about a change in 
+scenery before they show 
+up and spoil the party?
+
+## POINTER 29
+<STR>(KAR)
+<VOICE>(VS37_146)There is only one path 
+down from here, though. 
+We're bound to run into them.
+
+## POINTER 30
+<STR>(JUD)
+<VOICE>(VS37_147)Get on. We'll fly as 
+far as the Fiertia.<PAGE><VOICE>(VS37_148)We can finish talking 
+once we arrive.

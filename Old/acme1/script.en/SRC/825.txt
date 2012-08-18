@@ -1,0 +1,64 @@
+## POINTER 0
+
+Welcome, great to 
+see you. This is 
+the Poker table.
+
+## POINTER 1
+<STR>(RAV)
+Well I'll be! 
+They've got 
+Poker, eh?
+
+## POINTER 2
+<STR>(KAR)
+<STR>(RAV), you know what this 
+"Poke-her" thing is?
+
+## POINTER 3
+<STR>(RAV)
+......
+Young'un, this is Poker.
+It's a type of card game.
+
+## POINTER 4
+
+Correct. In Poker, players are dealt 
+from a deck of 54 cards, and compete 
+to get the highest hand.
+
+## POINTER 5
+<STR>(KAR)
+It sounds hard...
+
+## POINTER 6
+<STR>(RIT)
+Well, it might be difficult 
+for a little shrimp 
+like you, but...
+
+## POINTER 7
+
+No, no, not at all! I think 
+you'll find it a nice, 
+leisurely diversion.<PAGE>Just ask at any time if there's 
+something you don't understand, 
+so you needn't worry!
+
+## POINTER 8
+<STR>(YUR)
+So, we'll need 
+chips, right?
+
+## POINTER 9
+
+You'll need at 
+least one chip 
+to play.<PAGE>However, the more chips you bet, the 
+better your payout if you win!<PAGE>What do you say? Would 
+you like to play?
+
+## POINTER 10
+
+Thank you very much! 
+Please come again.

@@ -1,0 +1,120 @@
+## POINTER 0
+Agueron
+Hey there, <STR>(YUR). Did you manage 
+to collect the materials?
+
+## POINTER 1
+<STR>(YUR)
+Sorry to keep you waiting. 
+This should do, right?
+
+## POINTER 2
+Agueron
+Yep, it's exactly what I need. It 
+must've been tough getting it all.
+
+## POINTER 3
+<STR>(YUR)
+Nah, it wasn't so bad.
+
+## POINTER 4
+Agueron
+Heh, yeah...I'll bet it was a cinch 
+for someone like you, <STR>(YUR).
+
+## POINTER 5
+<STR>(YUR)
+Hey now, hold on here. Are you trying 
+to butter me up so you can ask for 
+something really hard to get?
+
+## POINTER 6
+Agueron
+I can't fool you, <STR>(YUR). Come 
+on...join the Knights again. 
+<STR>(FRE) could use your help.
+
+## POINTER 7
+<STR>(YUR)
+I've got my own work to do.
+Besides, I'm helping enough
+as it is, aren't I?
+
+## POINTER 8
+Agueron
+Well, I guess that's more
+your style, anyway.
+
+## POINTER 9
+<STR>(YUR)
+So, what's next?
+
+## POINTER 10
+Agueron
+This next one is the last request 
+I'll make of you. With this, we 
+should have everything we need.<PAGE>I'm going to need one Greenlight
+Stone, one Pitch-black Ink, one
+Rare Metal, and...well...
+
+## POINTER 11
+<STR>(YUR)
+And...what? Come 
+on, spit it out.
+
+## POINTER 12
+Agueron
+It's...hard to say. 
+I don't feel right asking 
+you for this...
+
+## POINTER 13
+<STR>(YUR)
+So it's Gald, then? Just say 
+it like it is. You're still 
+as hesitant as ever, I see.
+
+## POINTER 14
+Agueron
+And you're as perceptive
+as ever. You're right.
+It's Gald.
+
+## POINTER 15
+<STR>(YUR)
+So how much you need?
+
+## POINTER 16
+Agueron
+Err... About 500,000 Gald. With that, 
+we'll be able to have any remaining 
+resources we need shipped in.
+
+## POINTER 17
+<STR>(YUR)
+Okay. So that's a Greenlight
+Stone, a Pitch-black Ink, a
+Rare Metal, and 500,000 Gald.
+
+## POINTER 18
+Agueron
+I know it's a lot, but...I'm counting on you, 
+<STR>(YUR). I promise this is the last time.
+
+## POINTER 19
+<STR>(YUR)
+Gotcha. Be patient, 
+okay?
+
+## POINTER 20
+Agueron
+I'm sorry... It looks like you 
+don't have everything.<PAGE>I need three of each of the following: 
+Might Orb, Treant Flower, Crystal,
+Mystic Orb, and Great Leo Fang.
+
+## POINTER 21
+Agueron
+I need three of each of the following: 
+Might Orb, Treant Flower, Crystal,
+Mystic Orb, and Great Leo Fang.

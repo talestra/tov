@@ -1,0 +1,94 @@
+## POINTER 0
+<STR>(JUD)
+You're still reading that book...?
+
+## POINTER 1
+<STR>(RIT)
+I've just gotten to a really good part...
+
+## POINTER 2
+<STR>(RIT)
+...Phew... Your dad was really 
+a great man, <STR>(JUD).
+
+## POINTER 3
+<STR>(JUD)
+Why do you say that?
+
+## POINTER 4
+<STR>(RIT)
+Hermes had already deduced how elemental 
+spirit conversion could be used.
+
+## POINTER 5
+<STR>(JUD)
+Yes... It's not hard to believe that 
+someone as smart as he was would have 
+been able to accomplish that...
+
+## POINTER 6
+<STR>(RIT)
+But not as something to use for the disasters 
+that we're facing now, but rather, as a 
+possibility for the far, far-off future.<PAGE>Long after humans have been wiped out, 
+and probably after the Entelexeia themselves 
+are gone from the world...<PAGE>When the planet Terca Lumireis is approaching 
+the twilight years of its life...<PAGE>All aer on the planet will undergo 
+spirit conversion, through mana.
+
+## POINTER 7
+<STR>(JUD)
+But right now, quite unexpectedly, 
+spirit conversion is being 
+done by human hands.<PAGE>Even though people...and the world itself...aren't 
+ready for it to happen.<PAGE>Now we have to find a 
+way to continue to do 
+all of those things.<PAGE>Those things that people have used blastia and aer for 
+so long to do that they take them for granted...
+
+## POINTER 8
+<STR>(RIT)
+Yes... But this book goes 
+into great depth about 
+the intricacies of aer.<PAGE>If I used this and what I know to do some 
+experiments with elemental spirits... <PAGE>...I might be able to come up with a method of creating 
+a new type of blastia...one that doesn't use aer.
+
+## POINTER 9
+<STR>(JUD)
+Really...?
+
+## POINTER 10
+<STR>(RIT)
+His formulas are a little bit 
+complicated...but I think I'd 
+like to give them a try.<PAGE>A high-output model like a barrier 
+blastia might be impossible, but...<PAGE>Anything is better than nothing, right?
+
+## POINTER 11
+<STR>(JUD)
+Yes. Of course.<PAGE>I'm sure you'll be able to do it, <STR>(RIT).
+
+## POINTER 12
+<STR>(RIT)
+I'm so impatient 
+to get started.<PAGE>Maybe I'll just try an experiment or two right now...
+
+## POINTER 13
+<STR>(JUD)
+No, don't rush. We all have 
+to stay in tip-top shape for 
+the battles ahead, you know?
+
+## POINTER 14
+<STR>(RIT)
+Yeah...
+
+## POINTER 15
+<STR>(JUD)
+Well, good night.
+
+## POINTER 16
+<STR>(RIT)
+All right. Maybe some 
+sleep might be nice...

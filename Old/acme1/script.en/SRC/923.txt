@@ -1,0 +1,84 @@
+## POINTER 0
+<STR>(EST_P)
+Master, so you were 
+here in Aurnion!
+
+## POINTER 1
+Drake
+Yes...But I regret 
+that I must set out 
+again quite soon.<PAGE>I've been waiting here 
+so that I could speak 
+with you, <STR>(YUR) Lowell.
+
+## POINTER 2
+<STR>(YUR)
+Huh, me?
+
+## POINTER 3
+Drake
+I would like you to return to the Imperial Knights, 
+and provide support for Commandant <STR>(FRE).
+
+## POINTER 4
+<STR>(YUR)
+Support for <STR>(FRE)? Return to the 
+Knights? You gotta be kidding me.
+
+## POINTER 5
+Drake
+I've always thought that the Imperial 
+Knights let a very precious 
+asset go when they lost you.
+
+## POINTER 6
+<STR>(YUR)
+Master Drake, flatter me all you like, 
+but it's not going to change my mind.
+
+## POINTER 7
+Drake
+It's not flattery; I'm being 
+sincere. What do you say?
+
+## POINTER 8
+<STR>(YUR)
+I'm sorry, but even 
+if you offered to make 
+me Commandant...
+
+## POINTER 9
+Drake
+Of course, you'd be starting off as 
+an apprentice, but with your abilities, 
+you'd make captain in no time.<PAGE>...Take this armor!
+
+## POINTER 10
+<STR>(YUR)
+I don't want it!
+
+## POINTER 11
+Drake
+With <STR>(FRE) as Commandant, 
+the Knights will change 
+for the better.<PAGE>...Still, you are not interested?
+
+## POINTER 12
+<STR>(YUR)
+With that stuffy spoilsport 
+as Commandant? 
+No thanks!
+
+## POINTER 13
+<STR>(EST_P)
+Oh, <STR>(YUR)! Master, please accept 
+my apology on <STR>(YUR)'s behalf!
+
+## POINTER 14
+Drake
+......
+
+## POINTER 15
+<STR>(YUR)
+Commandant <STR>(FRE), huh...I can't say
+it doesn't have a nice ring to it...

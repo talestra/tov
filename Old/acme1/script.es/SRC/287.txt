@@ -1,0 +1,51 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373443]
+Kaufman
+Este barco es el Fiertia.
+Será vuestro en cuanto
+lleguemos a Nordopólica.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1275818299]
+Kaufman
+Y este caballero es Tokunaga. Pertenece
+a Canto de Gaviota, un gremio de marinos
+afiliado a Fortuna Mercantil.<PAGE>Es todo un experto
+gobernando este navío.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1275818299]
+Tokunaga
+Hola. Encantado
+de conoceros.
+
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1275818299]
+Kaufman
+No tenemos ninguna prisa, pero estamos
+con un negocio muy importante, así
+que agradecemos mucho vuestra ayuda.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1275818299]
+<STR>(EST_P)
+¿Qué están transportando en el barco?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1275818299]
+Kaufman
+Eso es información confidencial.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1275818299]
+<STR>(YUR)
+No es nada que deba preocuparnos, ¿verdad?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373443]
+Kaufman
+Tranquilos. Nosotros
+nos encargamos de ello.<PAGE>
+Muy bien, pues, rumbo a Nordopólica.<PAGE>Tan solo hay que ir en dirección
+suroeste desde Puerto Torim y
+llegaremos al continente de Desier.<PAGE>Nordopólica está
+en la costa este.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1279373443]
+Tokunaga
+Espero que no os importe
+que yo me encargue de
+gobernar el Fiertia.

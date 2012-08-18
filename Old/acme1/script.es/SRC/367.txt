@@ -1,0 +1,101 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692273]
+Nan
+<VOICE>(VS34_111)¡El coliseo se encuentra bajo la
+autoridad de los Espadas Cazadoras!
+¡Retiraos inmediatamente!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692273]
+<STR>(KAR)
+<VOICE>(VS34_112)¡Nan, detente!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692273]
+Nan
+<VOICE>(VS34_113)¿<STR>(KAR)? ¿Qué haces aquí?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692273]
+<STR>(KAR)
+<VOICE>(VS34_114)
+¡Sabes perfectamente que la Unión
+prohíbe tajantemente los enfrentamientos
+entre los gremios!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692273]
+Nan
+<VOICE>(VS34_115)¿De qué estás hablando?
+¡Ha sido la propia Unión quien
+nos ha encargado este trabajo!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1280769419]
+<STR>(RAV)
+<VOICE>(VS34_116)¡¿Qué?!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692273]
+<STR>(RAV)
+<VOICE>(VS34_117)¡Harry! ¿Qué 'tás haciendo aquí?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692273]
+<STR>(RIT)
+<VOICE>(VS34_118)Eh... ¿A ese no lo vimos
+en Dahngrest? ¿No es un
+miembro de la Unión?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1280769489]
+<STR>(RAV)
+<VOICE>(VS34_119)Es er nieto del Don, Harry.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1280769419]
+<STR>(KAR)
+<VOICE>(VS34_120)¿El nieto del Don?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692273]
+<STR>(RAV)
+<VOICE>(VS34_121)¿Qué carajo está
+pasando aquí, hijo?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1280827271]
+Harry
+<VOICE>(VS34_122)Tú también estás bajo las
+mismas órdenes del Don, ¿verdad?
+¿Localizar una apátheia?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527659]
+<STR>(RAV)
+<VOICE>(VS34_123)Claro, pero ¿qué tiene que ver eso
+con el follón que s'a montao aquí?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692273]
+<STR>(KAR)
+<VOICE>(VS34_124)¡<STR>(JUD)! ¿Qué está...?
+¡Eh, mirad! Es...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1280769419]
+<STR>(EST_P)
+<VOICE>(VS34_125)¡Natz!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1280769419]
+<STR>(YUR)
+<VOICE>(VS34_126)¡Venga!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1280827271]
+<STR>(RAV)
+<VOICE>(VS34_127)¡Leñe!
+¡Aún no había terminao!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692273]
+Nan
+<VOICE>(VS34_128)¡Esperad! ¡Os he dicho
+que os retiréis!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1280769419]
+Harry
+<VOICE>(VS34_129)<STR>(RAV) está con ellos
+y es nuestro aliado.
+Déjalos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1280769419]
+<STR>(KAR)
+<VOICE>(VS34_130)Nan...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1280769419]
+Nan
+<VOICE>(VS34_131)...

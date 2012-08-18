@@ -1,0 +1,186 @@
+## POINTER 0
+<STR>(KAR)
+Hi, um, we're looking 
+for Mr. Markham...
+
+## POINTER 1
+
+I am Markham. You are?
+
+## POINTER 2
+
+Mark, it's you know who. That 
+request you posted...
+
+## POINTER 3
+<STR>(JUD)
+Have we met?
+
+## POINTER 4
+
+I'm Mark's friend, 
+Joshua.
+
+## POINTER 5
+Markham
+You're here because of my little 
+want ad with the Union?
+
+## POINTER 6
+<STR>(KAR)
+Yep, that's us. We'd like to 
+hear a little more about it.
+
+## POINTER 7
+Markham
+It was the last time I went to the excavation 
+site. Believe it or not I forgot my shovel there. 
+I'd like for you to go and get it for me.
+
+## POINTER 8
+<STR>(YUR)
+Did you say, shovel?
+
+## POINTER 9
+Joshua
+That's right, shovel. They're also 
+called trowels or spades sometimes.
+
+## POINTER 10
+<STR>(YUR)
+That's it?
+
+## POINTER 11
+Markham
+What do you mean, "that's 
+it?" This is no trifling matter! 
+Have some respect!
+
+## POINTER 12
+Joshua
+Now, Mark...calm down.
+
+## POINTER 13
+Markham
+Calm down?! He dismissed our 
+precious tool of the trade 
+as if it were nothing!
+
+## POINTER 14
+Joshua
+I heard it too, but you've gotta take some deep breaths now.
+
+## POINTER 15
+<STR>(YUR)
+If it's so precious to you, why'd you 
+go and forget it in the first place?
+
+## POINTER 16
+Markham
+Urk... Well, you see..
+
+## POINTER 17
+Joshua
+He was set upon by monsters and 
+forced to leave it behind. 
+He wept the whole way back.
+
+## POINTER 18
+Markham
+Of course we'd love to go get 
+it ourselves, but without 
+some help, there's no way.
+
+## POINTER 19
+<STR>(JUD)
+Why not cut your losses 
+and buy a new one?
+
+## POINTER 20
+<STR>(YUR)
+If you can afford to pay 
+us, that sounds like 
+an easier fix to me.
+
+## POINTER 21
+Markham
+Do you know what you're saying? If a tool 
+doesn't fit the hand just so, it's impossible 
+to get any real work done!
+
+## POINTER 22
+Joshua
+It's just a shovel.
+But it's far more than a shovel.
+
+## POINTER 23
+<STR>(RIT)
+This makes no sense...
+
+## POINTER 24
+Markham
+Without my shovel, 
+I've got no 
+job. Please!
+
+## POINTER 25
+<STR>(KAR)
+Okay, then. We'll do it.<PAGE>You can't always pick and choose 
+the work that comes your way.
+
+## POINTER 26
+<STR>(YUR)
+You don't say... Hey, why 
+not? You're starting to 
+sound like a boss again.
+
+## POINTER 27
+<STR>(KAR)
+Heh heh... Think so?
+
+## POINTER 28
+<STR>(RIT)
+Don't go heaping too much praise on 
+him. It goes straight to his head.
+
+## POINTER 29
+<STR>(KAR)
+By the name of Brave Vesperia, the 
+brightest star on the canvas of the 
+night sky, we accept this task!
+
+## POINTER 30
+Markham
+The place is the temple of Baction 
+on the Hypionian continent. 
+I'm depending on you.
+
+## POINTER 31
+<STR>(YUR)
+Of course it would have to be there...
+
+## POINTER 32
+<STR>(KAR)
+What part of the temple?
+
+## POINTER 33
+Markham
+As I recall, I headed to the northern 
+side as soon as I got underground.<PAGE>I went one floor deeper, and 
+I remember checking out 
+the area around there...
+
+## POINTER 34
+<STR>(JUD)
+That information's a little vague.
+
+## POINTER 35
+Markham
+Also, you can tell 
+it's mine by the name 
+on the handle.
+
+## POINTER 36
+<STR>(KAR)
+We'll just have to go 
+with those clues then.

@@ -1,0 +1,395 @@
+## POINTER 55
+Open the Battle Menu with <06>(MEN).
+Hold down <06>(CBL1) while using <06>(LTL)<06>(LTR)
+to change Strategy settings.
+
+Holding down <06>(CBL1) while pressing
+<06>(LTU) at the start of a battle will return
+settings to default.
+
+Settings changed during battle only
+applies to that current battle.
+
+## POINTER 56
+Personal Call
+
+## POINTER 57
+Open the Battle Menu with the
+<06>(MEN). Hold <06>(LTD) 
+while pressing <06>(CBL1) to
+give specific instructions to
+individual characters in your
+party.
+
+This is known as Personal Call.
+
+Try changing the character you
+control.
+
+## POINTER 58
+Attributes
+
+## POINTER 59
+Some artes and equipments have
+elemental attributes.
+
+Attacks that have attributes will do
+far more damage to a character that
+has a weakness for the associated
+element.
+
+Knowing your enemies' weakness
+and resistances will allow you to
+equip armor and spells to your
+advantage.
+
+## POINTER 60
+Types of Attributes
+
+## POINTER 61
+There are 7 types of attributes:
+
+<06>(EL1)Fire
+<06>(EL2)Earth
+<06>(EL3)Wind
+<06>(EL4)Water
+<06>(EL5)Light
+<06>(EL6)Darkness
+<06>(EL7)Physical
+
+You can check an enemy’s attribute
+with a Magic Lens.
+
+## POINTER 62
+Opposing Attributes
+
+## POINTER 63
+Each of the 6 elemental attributes
+has an opposing attribute.
+
+<06>(EL1)Fire opposes <06>(EL4)Water.
+<06>(EL2)Earth opposes <06>(EL3)Wind.
+<06>(EL5)Light opposes <06>(EL6)Darkness.
+
+In many cases, enemies weak
+against fire have a water elemental
+attribute and vice versa. Take
+opposing elemental attributes into
+consideration during battles.
+
+## POINTER 64
+Fatal Strike 1
+
+## POINTER 65
+A magic force field glowing
+red, blue, or green will appear 
+when you continuously attack 
+an enemy during battle.
+
+If timed correctly, you can execute a
+Fatal Strike to defeat all regular enemies
+in a single blow with the <06>(CBR2).
+
+Try various methods to discover how to
+bring forth these magical force fields.
+
+## POINTER 66
+Fatal Strike 2
+
+## POINTER 67
+You can receive a bonus at the end
+of each battle when you finish an
+enemy off with a Fatal Strike.
+
+There are 3 types of bonuses:
+・ An EXP bonus
+・ A LP bonus
+・ Item drop rate bonus
+
+The type of bonus depends on the
+color of the force field and the
+enemy type.
+
+## POINTER 68
+Fatal Strike 3
+
+## POINTER 69
+The color of the force field depends on
+the artes used for the Fatal Strike.
+
+Artes corresponding to the
+type of Fatal Strike is represented by
+an icon in the Artes menu.
+ 
+<06>(FS3)Red Fatal Strike
+<06>(FS1)Blue Fatal Strike
+<06>(FS2)Green Fatal Strike
+
+## POINTER 70
+FS Chain
+
+## POINTER 71
+Characters receive various
+effect changes after a series of
+Fatal Strikes.
+
+This is known as a FS Chain.
+
+Effects differ depending on the color
+of the force field at the time the
+chain ends. The strength of the effect
+also increase with the number of
+successful chains.
+
+## POINTER 72
+Fatal Strike on Boss Enemies
+
+## POINTER 73
+Unlike using Fatal Strikes on
+Regular enemies, boss enemies 
+cannot be defeated in a single 
+blow with a Fatal Strike.
+It only will result in a large
+amount of damage.
+
+Use FS Chains for boss 
+battles instead.
+
+## POINTER 74
+FS and Enemy Types
+
+## POINTER 75
+The following is dependent on 
+the enemy type when using 
+a FS (Fatal Strike):
+
+- The difficulty in triggering 
+   a red, blue or green FS.
+- The 3 types of bonuses.
+
+Use the Monster Book to check the
+enemy type.
+
+## POINTER 76
+FS: Human Enemies
+
+## POINTER 77
+All 3 types of FS are equally easy
+to trigger when used against 
+<06>(MC1)Human type enemies.
+
+For the FS Bonuses:
+- Blue FS: Increases EXP
+- Red FS: Increases LP
+- Green FS: Increases drop rate
+
+## POINTER 78
+FS: Beasts and Magic Types
+
+## POINTER 79
+Green FS are easily triggered
+against <06>(MC2)Beast type and
+<06>(MC4)Magic type enemies, while 
+red FS are more difficult to 
+trigger against these types 
+of enemies.
+
+For the FS Bonuses:
+- Blue FS: Increase EXP
+- Red FS: Increase LP
+- Green FS: Increase drop rate
+
+## POINTER 80
+FS: Birds and Insects
+
+## POINTER 81
+Red FS are easily triggered
+against <06>(MC7)Insect type and
+<06>(MC3)Bird type enemies, while 
+blue FS are more difficult to 
+trigger against these types 
+of enemies.
+
+For the FS Bonuses:
+- Blue FS: Increases LP
+- Red FS: Increases drop rate
+- Green FS: Increases EXP
+
+## POINTER 82
+FS: Plants and Aquatics
+
+## POINTER 83
+Blue FS are easily triggered 
+against <06>(MC5)Plant type and 
+<06>(MC6)Aquatic type enemies,
+while green FS are more difficult 
+to trigger against these types 
+of enemies.
+
+For the FS Bonuses:
+- Blue FS: Increases drop rate
+- Red FS: Increases EXP
+- Green FS: Increases LP
+
+## POINTER 84
+FS: Inorganics and Scales
+
+## POINTER 85
+All FS are difficult to trigger
+against <06>(MC8)Inorganic and 
+<06>(MC9)Scale type enemies.
+
+However, FS bonuses are higher.
+
+For the FS Bonuses:
+- Blue FS: Increases EXP
+- Red FS: Increases LP
+- Green FS: Increases drop rate
+
+## POINTER 86
+Over Limit
+
+## POINTER 87
+Over Limit can be activated
+with the <06>(LBN) when
+the gauge on the left side
+of the screen fills up.
+
+Once a character reaches Over Limit,
+they will be able to use attacks and
+Artes continuously.
+
+Combos can be executed easily
+during this time, so use this
+to your advantage.
+
+## POINTER 88
+Level 2 Over Limit
+
+## POINTER 89
+You can trigger a Lv. 2 Over Limit 
+when the Over Limit gauge reaches 
+the second level.
+
+Press the <06>(LBR) to use one bar
+of the gauge. Press <06>(LBU)<06>(LBD)<06>(LBL) to use 
+two bars of the gauge at once.
+
+In addition to a Lv. 1 attack, 
+a Lv. 2 Over Limit will inflict 
+additional damage on a 
+fallen enemy.
+
+## POINTER 90
+OL and Skill Symbols
+
+## POINTER 91
+When two characters go into Over Limit
+at the same time, both characters can gain
+the effects of the other's Skill Symbol
+on top of their own.
+
+For instance, if one has the Skill Symbol,
+Fleck and the other, Strihm, both characters'
+attack power and speed will increase when
+they go into Over Limit at the same time.
+
+## POINTER 92
+Level 3 Over Limit
+
+## POINTER 93
+A Lv. 3 Over Limit is possible 
+when the gauge reaches the
+third level. 
+
+Press the <06>(LBR) to use one bar.
+Press the <06>(LBD) to use two bars.
+Press the <06>(LBU) or <06>(LBL) to use
+three bars at once.
+
+In addition to the effects of a Lv. 2
+attack, TP will not be incurred for 
+artes used during this time.
+
+## POINTER 94
+Level 4 Over Limit: 1
+
+## POINTER 95
+A Lv. 4 Over Limit is possible
+when all four bars of the gauge
+are full.
+
+Press the <06>(LBR) to use one bar.
+Press the <06>(LBD) to use two bars.
+Press the <06>(LBL) to use three bars.
+Press the <06>(LBU) to use all four bars.
+
+## POINTER 96
+Level 4 Over Limit: 2
+
+## POINTER 97
+In addition to the effects of
+a Lv. 3 attack, characters will be
+invincible to enemy attacks during
+a Lv. 4 Over Limit.
+
+It takes time to stock the 
+OL gauge to Lv. 4, but the 
+outcome can be rewarding.
+
+## POINTER 98
+Burst Artes
+
+## POINTER 99
+Right after using an Arcane Arte 
+or an Altered Arte during
+Over Limit, hold down <06>(ART) to 
+use a more powerful type 
+of arte known as a Burst Arte.
+
+The higher the Over Limit level,
+the stronger the Burst Arte.
+
+## POINTER 100
+Altered Arte 1
+
+## POINTER 101
+Once set, some skills will cause 
+certain Artes to change.
+ 
+For instance, Yuri's Base Arte,
+"Azure Edge" changes into
+"Azure Storm" when the skill,
+"Chain" is set.
+
+This is known as an Altered Arte.
+Some Artes will only change 
+when multiple skills are set.
+Try various combinations.
+
+## POINTER 102
+Altered Arte 2
+
+## POINTER 103
+The scope of an Altered Arte
+is further increased when 
+the Skills Super Chain 4 
+and Super Chain 5 are set.
+ 
+It is possible to trigger a 
+combo of a Base Arte, an 
+Altered Arte, and an 
+Arcane Arte.
+
+## POINTER 104
+Altered Arte 3
+
+## POINTER 105
+You can learn an Altered Arte
+by using the attack repeatedly.
+
+Once learned, it can be
+set just like other Artes.
+
+## POINTER 106
+Battle Camera

@@ -1,0 +1,102 @@
+## POINTER 0
+<STR>(JUD)
+...Do you hear that voice...?
+
+## POINTER 1
+<STR>(RAV)
+Sounds like a kid's voice ta me.
+
+## POINTER 2
+<STR>(EST_P)
+What would a child be doing in a place like this...?
+
+## POINTER 3
+<STR>(EST_P)
+Oh, you poor thing...there there...
+
+## POINTER 4
+<STR>(RIT)
+Hey, let me see 
+it for a second.
+
+## POINTER 5
+<STR>(RIT)
+Stop crying, you!
+
+## POINTER 6
+<STR>(KAR)
+You can't just expect it to stop crying if you ask...
+
+## POINTER 7
+<STR>(EST_P)
+Wow... <STR>(RIT), you've really 
+got a mother's touch!
+
+## POINTER 8
+<STR>(RIT)
+What's that supposed to mean...
+
+## POINTER 9
+<STR>(KAR)
+Hey, do you think this child was abandoned by its parents?
+
+## POINTER 10
+<STR>(YUR)
+If so, we should probably take it 
+to the knights to take care of.
+
+## POINTER 11
+<STR>(EST_P)
+But it's so late to 
+be doing that...
+
+## POINTER 12
+<STR>(RIT)
+...We might as well wait until the morning. 
+We can look after this little one until then.
+
+## POINTER 13
+<STR>(YUR)
+...I'll pass.
+
+## POINTER 14
+<STR>(RIT)
+W-why?!
+
+## POINTER 15
+<STR>(YUR)
+I'm really sorry, but I'm not too 
+good with children so young that 
+they can't even understand me.
+
+## POINTER 16
+<STR>(JUD)
+I'll have to bow out on this one, too. It's 
+so small, I'm afraid of breaking it...
+
+## POINTER 17
+<STR>(RAV)
+Ya really think I look like 
+I'd make a good babysitter?
+
+## POINTER 18
+<STR>(KAR)
+Well, I think...
+
+## POINTER 19
+<STR>(RIT)
+Ugh, whatever! You 
+all are useless!
+
+## POINTER 20
+<STR>(KAR)
+B-but I hadn't even 
+said anything yet...
+
+## POINTER 21
+<STR>(RIT)
+Let's go, <STR>(EST_P).
+
+## POINTER 22
+<STR>(EST_P)
+Oh, uh, all right...!

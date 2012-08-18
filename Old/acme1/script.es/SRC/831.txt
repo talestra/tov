@@ -1,0 +1,197 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+
+¡Dingui, dong! ¡Soy el Vacaz!
+Pero llamadme Az, que es
+más corto. ¡Holita!!<PAGE>¡Ah, que habéis venido
+otra vez! No podéis
+vivir sin mí, ¿eh?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296169528]
+<STR>(RIT)
+Me estoy hartando
+de oír tus
+tonterías...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1294683008]
+
+¿Y a ti qué te pasa, con ese
+careto que tienes, Maite Taplana?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294248814]
+<STR>(RIT)
+Vale, ya me he cansado
+de tus tonterías.
+¿Quieres pelea?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294248814]
+<STR>(RAV)
+Oye, tranquila, <STR>(RIT).
+No nus gustaría ver una pelea
+de gatos entre dos críos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1294248814]
+
+¿Crío? ¿Quién es un crío?
+¡Yo soy un adulto glorioso!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+<STR>(KAR)
+Mmm... ¿estás seguro?
+Pareces un niño.
+¡Eres muy pequeño!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294248814]
+
+Mira quién fue a hablar,
+enano pelo-escobilla.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+<STR>(RIT)
+¡Ah, ja, ja!
+Enano pelo-escobilla...
+Ji, ji.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+
+¡Vamos a lo que importa!
+El objeto du jour es...
+Tará, tará, tará... ¡PAM!<PAGE>¡Defensa antiveneno, defensa
+antiparálisis y defensa antipetrificación!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+<STR>(EST_P)
+¿Y por qué ahora
+son tres objetos?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+
+Mmm... ¿Por qué no te guardas
+esas molestas preguntas para ti,
+señorita Inocentona?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+<STR>(EST_P)
+¿Señorita Inocentona? 
+¿Qué quiere decir eso?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1294249223]
+<STR>(RAV)
+La ignorancia es una bendición,
+cielo, y ojos que nu ven
+corazón que nu siente.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1294249223]
+
+¡Bueno, pues cuando os
+vaya bien me los dais! ∀
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1294249223]
+<STR>(RAV)
+Nus darás algo valioso
+a cambio, ¿verdad? ∀
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+
+¡Claro, claro,
+no te preocupes!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1294249223]
+
+¡Gracias!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1294249223]
+
+¡Vuelta y vuelta y a girar!
+¡Solo yo sé dónde vamos a parar!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1294249223]
+
+¡Aquí tenéis!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+
+¡Vaya, vaya!
+¡Gracias otra vez!
+Oh, jo, je, je, je.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:kaene;time:1294249223]
+<STR>(JUD)
+No sé si me acostumbraré a ver
+a esa cosa saliendo de ahí.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+<STR>(YUR)
+No me extraña.
+Es muy raro.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:kaene;time:1294249223]
+<STR>(RAV)
+Bien, te hemos dao
+tres cosas...
+¿Qué nus darás tú?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+
+Ah, es verdad.
+Hoy os voy a dar...
+Tachán, tachán...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:kaene;time:1294249456]
+
+¡Aquí tenéis!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:kaene;time:1294249456]
+<STR>(KAR)
+¿Tre-tres de lo mismo?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:kaene;time:1294249456]
+
+¿No es suficiente?
+¿Queréis más?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:kaene;time:1294249456]
+<STR>(RAV)
+¿Quién va a querer un
+montón de lo mismo?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+
+¡¿E-En serio?!
+Creía que os iría
+bien en el desierto...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:kaene;time:1294249456]
+<STR>(RAV)
+¡Bieeeen! ¡Toma ya!
+¡Estamos mu contentos!
+¿A que sí, <STR>(KAR)?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+<STR>(KAR)
+¡Oh, ya te digo!
+¡Estoy que me salgo!
+¡Guau, no tengo palabras!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+
+Oh, bien.
+¡Guárdalos bien!
+¡Nos vemos! ¡Ding! ∀
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1296662078]
+
+¿Qué? Pero si no
+tienes las tres cosas.
+¡Trolero!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:kaene;time:1294249456]
+
+¡Buu! ¡Buu!
+¡Tacaño!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:Lia;time:1294765343]
+
+¡Chachi! ¡Habéis vuelto,
+habéis vuelto!<PAGE>¿Me daréis una defensa antiveneno,
+una defensa antiparálisis y una
+defensa antipetrificación?

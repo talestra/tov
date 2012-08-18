@@ -1,0 +1,314 @@
+## POINTER 616 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262368593]
+Rondo lunar
+
+## POINTER 617 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267478430]
+Arte arcano: Gira y corta a los enemigos cercanos.
+Solo se puede hacer en el aire.
+
+## POINTER 618 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262521965]
+Estrago de luz lunar saliente
+
+## POINTER 619 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Arte modificado: Lanza el enemigo en el aire
+y combina cortes y patadas.
+
+## POINTER 620 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262519894]
+Rayo lunar
+
+## POINTER 621 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262858809]
+Arte arcano: Te teletransporta encima del enemigo
+y lo abate con tu lanza.
+
+## POINTER 622 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262519894]
+Luna aplastante
+
+## POINTER 623 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262519894]
+Arte arcano: Salta y usa tu lanza para golpear
+con toda tu fuerza.
+
+## POINTER 624 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262521361]
+Trueno lunar saliente
+
+## POINTER 625 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Arte arcano: Combinación de Luna saliente
+y Trueno lunar.
+
+## POINTER 626 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262522070]
+Estrago lunar
+
+## POINTER 627 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Arte arcano: Salta muy alto en el aire
+y propina una patada voladora al enemigo.
+
+## POINTER 628 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262521361]
+Apocalipsis lunar
+
+## POINTER 629 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Arte arcano: Usa tu lanza para golpear con
+una fuerza que puede partir en dos la Luna.
+
+## POINTER 630 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262521361]
+Luna centellante
+
+## POINTER 631 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262545106]
+Arte arcano: Oscila y corta con tu lanza
+la imagen de la Luna.
+
+## POINTER 632 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262522487]
+Garra lunar
+
+## POINTER 633 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1266171335]
+Arte modificado: Salta en el aire y aterriza con
+fuerza para derribar a los enemigos cercanos.
+
+## POINTER 634 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262523620]
+Gota de luz lunar
+
+## POINTER 635 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262523620]
+Arte modificado: Gira y corta en el aire.
+
+## POINTER 636 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262523620]
+Tormenta lunar explosiva
+
+## POINTER 637 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262523620]
+Arte modificado: Causa un vendaval que corta enemigos
+cercanos y lo envía a atacar a un enemigo más alejado.
+
+## POINTER 638 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262523620]
+Rondo lunar saliente
+
+## POINTER 639 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Arte modificado: Gira, corta enemigos dentro de un cierto
+perímetro y después los derriba con un golpe final.
+
+## POINTER 640 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262523818]
+Trueno lunar
+
+## POINTER 641 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Arte modificado: Gira en el aire
+y descarga un relámpago sobre el enemigo.
+
+## POINTER 642 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262524852]
+Tormenta lunar
+
+## POINTER 643 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262524852]
+Arte modificado: Salta rápidamente en el aire y da
+una patada en diagonal a la velocidad del rayo.
+
+## POINTER 644 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262524852]
+Luz lunar pálida
+
+## POINTER 645 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262524852]
+Arte explosivo: Encierra al enemigo en una esfera
+de luz que explota en el aire.
+
+## POINTER 646 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262524852]
+Explosión abrasadora
+
+## POINTER 648 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262524852]
+Tumba aplastante
+
+## POINTER 650 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262524997]
+Semi sello
+
+## POINTER 652 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262524997]
+Inundación nocturna
+
+## POINTER 654 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1254219111]
+Luz lunar radiante
+
+## POINTER 656 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262903675]
+Touchdown
+
+## POINTER 658 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal - ○
+
+## POINTER 660 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal - ↑○
+
+## POINTER 662 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal - ←→○
+
+## POINTER 664 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal - ↓○
+
+## POINTER 666 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal - En salto - ○
+
+## POINTER 668 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal - En salto - ↓○
+
+## POINTER 670 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal secundario - ○
+
+## POINTER 672 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal secundario - ↑○
+
+## POINTER 674 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal secundario - ←→○
+
+## POINTER 676 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal secundario - ↓○
+
+## POINTER 678 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal secundario - En salto - ○
+
+## POINTER 680 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque normal secundario - En salto - ↓○
+
+## POINTER 682 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346135]
+Ataque en movimiento libre
+
+## POINTER 684 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262353054]
+Ataque letal azul
+
+## POINTER 686 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262353054]
+Ataque letal rojo
+
+## POINTER 688 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262353054]
+Ataque letal verde
+
+## POINTER 690 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262860347]
+Perro sónico
+
+## POINTER 691 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262860347]
+Arte básico: Manda una serie de ondas sónicas
+hacia los enemigos.
+
+## POINTER 692 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262860347]
+Colmillo creciente
+
+## POINTER 693 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262860347]
+Arte básico: Ataca con un corte hacia arriba.
+
+## POINTER 694 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262861363]
+Colmillo castigador
+
+## POINTER 695 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Arte básico: Gira hacia un lado y corta
+a tus enemigos con un cuchillo pequeño.
+
+## POINTER 696 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262861363]
+Robo
+
+## POINTER 697 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262861363]
+Arte básico: Roba un objeto de un enemigo.
+
+## POINTER 698 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263082991]
+Hoja de otoño
+
+## POINTER 699 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Arte básico: Te lleva detrás de un enemigo.
+No hace daño al enemigo.
+
+## POINTER 700 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262861363]
+Colmillo oscuro
+
+## POINTER 701 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Arte básico: Corta al enemigo constantemente
+con un cuchillo pequeño.
+
+## POINTER 702 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262862423]
+Perro demoníaco
+
+## POINTER 703 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262862423]
+Arte básico: Manda una onda sónica con tu arma.
+
+## POINTER 704 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262862423]
+Perro tempestuoso
+
+## POINTER 705 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262862423]
+Arte básico: Distrae a los enemigos con una ráfaga
+de viento. Bloquea temporalmente los ataques enemigos.
+
+## POINTER 706 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262862423]
+Perro brillante
+
+## POINTER 707 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262862423]
+Arte básico: Gira y manda un pequeño ciclón
+hacia el enemigo.
+
+## POINTER 708 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262862423]
+Regreso sónico
+
+## POINTER 709 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Arte arcano: Arremete contra el enemigo
+a velocidad sónica y salta hacia atrás.
+
+## POINTER 710 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262904325]
+Lanza de luz
+
+## POINTER 711 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262866517]
+Arte arcano: Gira y corta en el aire.
+
+## POINTER 712 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262866517]
+Castigo oscuro
+
+## POINTER 713 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262866517]
+Arte arcano: Combinación de Colmillo oscuro y
+Colmillo castigador.
+
+## POINTER 714 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262866517]
+Colmillo fantasma
+
+## POINTER 715 [t:1;r:2;ru:parsec,memnoch;user:Maz;time:1266163722]
+Arte arcano: Salto en espiral contra un enemigo
+que toque tu campo de fuerza mientras te agachas.
+
+## POINTER 716 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262903675]
+Sabueso del infierno
+
+## POINTER 717 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262866517]
+Arte arcano: Salta y lanza una bola de fuego
+a un enemigo.
+
+## POINTER 718 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262867459]
+Lanza demoníaca
+
+## POINTER 719 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262904325]
+Arte arcano: Una combinación de Perro demoníaco y
+Lanza de luz.
+
+## POINTER 720 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267966679]
+Disparo ciclón
+
+## POINTER 721 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262867459]
+Arte arcano: Gira en el aire para hacer volar
+a los enemigos.
+
+## POINTER 722 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262904325]
+Regreso del sabueso del infierno
+
+## POINTER 723 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262904325]
+Arte arcano: Una combinación de Regreso sónico y
+Sabueso del infierno.
+
+## POINTER 724 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267478430]
+Colmillo brillante
+
+## POINTER 725 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262867459]
+Arte arcano: Gira y ataca en el aire sin parar.
+
+## POINTER 726 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262870626]
+Lobo espectral
+
+## POINTER 727 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Arte arcano: Arremete a toda velocidad
+y deja a los enemigos girando.
+
+## POINTER 728 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262870626]
+Perro relámpago
+
+## POINTER 729 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262870626]
+Arte modificado: Arremete contra el enemigo a la
+velocidad del rayo.
+
+## POINTER 730 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183921]
+Perro demoníaco acelerado
+
+## POINTER 731 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267478430]
+Arte modificado: Lanza una onda sónica y arremete
+hacia adelante cortando a un enemigo.
+
+## POINTER 732 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1262871134]
+Colmillo sónico

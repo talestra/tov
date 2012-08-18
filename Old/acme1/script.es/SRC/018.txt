@@ -1,0 +1,27 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:parsec;time:1269767673]
+
+<VOICE>(VS03_053)
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:parsec;time:1269767673]
+
+<VOICE>(VS03_054)
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:parsec;time:1269767673]
+
+<VOICE>(VS03_055)
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:parsec;time:1269767673]
+
+<VOICE>(VS03_056)
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:parsec;time:1269767673]
+<STR>(YUR)
+<VOICE>(VS03_057)
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:parsec;time:1269767673]
+
+<VOICE>(VS03_058)
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:parsec;time:1269767673]
+
+<VOICE>(VS03_059)

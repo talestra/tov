@@ -1,0 +1,374 @@
+## POINTER 0
+
+You're very graceful 
+as you move... 
+It's fantastic!
+
+## POINTER 1
+<STR>(EST_P)
+Really? Maybe it's because 
+I like working with 
+other people so much.
+
+## POINTER 2
+<STR>(YUR)
+It sounds like your good breeding 
+is showing through.
+
+## POINTER 3
+
+Oh, really? That ought to attract customers, 
+too. We don't have many people of proper 
+upbringing around these parts.
+
+## POINTER 4
+<STR>(EST_P)
+I don't think I did 
+anything special...
+
+## POINTER 5
+<STR>(YUR)
+Your "nothing special" is different 
+from ours, <STR>(EST_P).
+
+## POINTER 6
+
+Do you think you'll 
+come and help again?
+
+## POINTER 7
+<STR>(EST_P)
+Y-yes, if I 
+could help...
+
+## POINTER 8
+
+Thank you. Here, take this. It's my 
+best attempt at a uniform for you.
+
+## POINTER 9
+<STR>(YUR)
+Hey, not bad. Why not 
+try it on right now?
+
+## POINTER 10
+<STR>(EST_P)
+Sure!
+
+## POINTER 11
+<STR>(EST_P)
+What do you think?
+
+## POINTER 12
+
+It looks great on you. Please 
+come back and help again soon.
+
+## POINTER 13
+<STR>(KAR)
+Phew! I worked my butt off!
+
+## POINTER 14
+<STR>(YUR)
+Good job, <STR>(KAR).
+
+## POINTER 15
+
+You sure do work 
+hard for a kid!
+
+## POINTER 16
+<STR>(KAR)
+For a kid? What's 
+that supposed 
+to mean?
+
+## POINTER 17
+<STR>(YUR)
+<STR>(KAR), it was a compliment.
+
+## POINTER 18
+
+Please come back and help out 
+again sometime. I've even made 
+a special uniform for you.
+
+## POINTER 19
+<STR>(KAR)
+Really? Sweet! Thank 
+you! I'll try it 
+on right now.
+
+## POINTER 20
+<STR>(KAR)
+......
+I look like 
+a lunchlady.
+
+## POINTER 21
+
+There's nothing cuter than 
+a kid wearing an apron!
+
+## POINTER 22
+<STR>(RIT)
+Phew! Well, that 
+about does it.
+
+## POINTER 23
+
+Amazing! You handled 
+so many customers with 
+such finesse...
+
+## POINTER 24
+<STR>(YUR)
+Well, she is a genius mage, after all.
+
+## POINTER 25
+
+I could really use some employees who 
+know how to go with the flow... How 
+about you work for me full-time?
+
+## POINTER 26
+<STR>(RIT)
+You've gotta be joking. I'll pass.
+
+## POINTER 27
+
+Oh, really? Well, please let me 
+know if you change your mind.
+
+## POINTER 28
+<STR>(YUR)
+<STR>(RIT), that's great! Now you have a 
+place to go if that whole blastia 
+research thing doesn't work out.
+
+## POINTER 29
+
+I'd like you to come and help out again 
+sometime, so I've made you a uniform. 
+Please wear it, won't you?
+
+## POINTER 30
+<STR>(RIT)
+Right now?
+
+## POINTER 31
+<STR>(YUR)
+Sure, throw it on and 
+see how it fits.
+
+## POINTER 32
+
+Mmm, very nice! With a personality 
+like yours and cute cat ears 
+like that, you'll be a hit!
+
+## POINTER 33
+<STR>(RIT)
+What do you mean I'll be a hit?!
+
+## POINTER 34
+
+A hit with the customers, of course. 
+You look purrrrfect. I can't wait 
+to see you working in that outfit!
+
+## POINTER 35
+<STR>(RIT)
+A cat, eh...
+Heh 
+heh. Meow.
+
+## POINTER 36
+<STR>(YUR)
+Eh? Did you say something?
+
+## POINTER 37
+<STR>(RIT)
+Who, meeee...ow?
+
+## POINTER 38
+<STR>(YUR)
+Huh?
+
+## POINTER 39
+<STR>(RIT)
+I, uh, didn't say anything...
+
+## POINTER 40
+
+You give off such 
+a professional air 
+when you work.
+
+## POINTER 41
+<STR>(JUD)
+Oh really? I was 
+just acting the way 
+I normally do.
+
+## POINTER 42
+<STR>(YUR)
+It must be because <STR>(JUD) 
+is always so relaxed.
+
+## POINTER 43
+
+You're great. Really, 
+just great. How'd you 
+like to work here?
+
+## POINTER 44
+<STR>(JUD)
+Sorry, I'll pass. 
+I've got things 
+I need to do.<PAGE>I don't mind helping every now and then, though.
+
+## POINTER 45
+
+Aw, rejected... Oh 
+well, I thought you 
+might say that.<PAGE>But since you said you don't mind 
+helping on occasion, I'd like 
+to give you this uniform.
+
+## POINTER 46
+<STR>(JUD)
+Oh, thank you! 
+I'll try it 
+on right now.
+
+## POINTER 47
+<STR>(YUR)
+You look good no matter 
+what you wear, <STR>(JUD_P).
+
+## POINTER 48
+
+Wow, it looks great. Your 
+body compliments the 
+outfit quite nicely.
+
+## POINTER 49
+<STR>(JUD)
+It's a little tight 
+in the chest area...
+
+## POINTER 50
+
+It looks like your curves were 
+even beyond what I imagined. 
+I'm a little jealous...
+
+## POINTER 51
+<STR>(RAV)
+Phew! That was some 
+tough work!
+
+## POINTER 52
+
+Good job. You've helped 
+me out quite a bit.
+
+## POINTER 53
+<STR>(RAV)
+What else wouldja expect? I am 
+the Great <STR>(RAV), after all.
+
+## POINTER 54
+<STR>(YUR)
+That was the first time I've seen you 
+do any serious work in a long time.
+
+## POINTER 55
+<STR>(RAV)
+Whaddaya mean? I'm always 
+serious about working!
+
+## POINTER 56
+
+Well, with as many customers as 
+we get, there's not really any 
+time to slack off, anyway.
+
+## POINTER 57
+<STR>(YUR)
+Yeah, he didn't have any 
+time to goof off or flirt 
+with any cute girls.
+
+## POINTER 58
+<STR>(RAV)
+Phew, I'm beat!
+
+## POINTER 59
+
+Yes, thank you again. Please take 
+this new uniform as a token of my 
+appreciation for your hard work.
+
+## POINTER 60
+<STR>(RAV)
+Eh? For me?
+
+## POINTER 61
+
+Yes. This is my best attempt at 
+making a uniform for a male employee. 
+It's sort of a trial model.
+
+## POINTER 62
+<STR>(RAV)
+No, no, it looks great! And a 
+present from a pretty lass, no 
+less! I'll take it with pride!
+
+## POINTER 63
+<STR>(RAV)
+Hey, hey! Not 
+bad at all!
+
+## POINTER 64
+
+It looks great on you. 
+It matches your hairstyle, 
+too. A perfect fit!
+
+## POINTER 65
+<STR>(RAV)
+What's this strange warmth? Love, 
+perhaps? Wearing this, I can feel 
+yer warm feelin's of affection...
+
+## POINTER 66
+
+You can feel the love?
+
+## POINTER 67
+<STR>(RAV)
+Yeah, it's filled with 
+it! This handiwork 
+is second ta none!
+
+## POINTER 68
+
+Thank you. I'll 
+tell my father that 
+you like it.
+
+## POINTER 69
+<STR>(RAV)
+......
+Ah, er, 
+yer father...made 
+this...?
+
+## POINTER 70
+<STR>(YUR)
+Tell him that 
+we could feel 
+the love.

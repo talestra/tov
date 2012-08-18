@@ -1,0 +1,299 @@
+## POINTER 1162
+Soaring Raptor Blast
+
+## POINTER 1164
+Cut
+
+## POINTER 1166
+Cut up
+
+## POINTER 1168
+Thrust
+
+## POINTER 1170
+Wide cut
+
+## POINTER 1172
+Cut (secondary)
+
+## POINTER 1174
+Cut up (secondary)
+
+## POINTER 1176
+Demon Fang
+
+## POINTER 1178
+Tiger Blade
+
+## POINTER 1180
+Beast
+
+## POINTER 1182
+Demonic Chaos
+
+## POINTER 1184
+Demonic Circle
+
+## POINTER 1186
+Sonic Thrust
+
+## POINTER 1188
+Sword Rain: Alpha
+
+## POINTER 1190
+Guardian Field
+
+## POINTER 1192
+Dragon Swarm
+
+## POINTER 1194
+First Aid
+
+## POINTER 1196
+Holy Lance
+
+## POINTER 1198
+Radiant Dragon Fang
+
+## POINTER 1200
+Regular 3-hit Combo
+
+## POINTER 1202
+Regular 2-hit Combo 1
+
+## POINTER 1204
+Regular 2-hit Combo 2
+
+## POINTER 1206
+Just Like Dancing
+
+## POINTER 1208
+Apocalypse Toll
+
+## POINTER 1210
+Violet Weasel
+
+## POINTER 1212
+Falling
+
+## POINTER 1214
+Ill Wind
+
+## POINTER 1216
+Wind Blade
+
+## POINTER 1218
+Arrivederci
+
+## POINTER 1220
+Inferno
+
+## POINTER 1222
+Blast Heart
+
+## POINTER 1224
+Cut
+
+## POINTER 1226
+Cut up
+
+## POINTER 1228
+Thrust
+
+## POINTER 1230
+Wide cut
+
+## POINTER 1232
+Front jump cut
+
+## POINTER 1234
+Down jump cut
+
+## POINTER 1236
+Counter cut (secondary)
+
+## POINTER 1238
+Cut up (secondary)
+
+## POINTER 1240
+Thrust (secondary)
+
+## POINTER 1242
+Wide counter cut (secondary)
+
+## POINTER 1244
+Free Run Attack
+
+## POINTER 1246
+Star Stroke
+
+## POINTER 1248
+Pierce Cluster
+
+## POINTER 1250
+Cavalry
+
+## POINTER 1252
+Delight Roll
+
+## POINTER 1254
+Dividing Edge
+
+## POINTER 1256
+Air Divide
+
+## POINTER 1258
+Extreme Stars
+
+## POINTER 1260
+First Aid
+
+## POINTER 1262
+Sharpness
+
+## POINTER 1264
+Barrier
+
+## POINTER 1266
+Resist
+
+## POINTER 1268
+Photon
+
+## POINTER 1270
+Healing Circle
+
+## POINTER 1272
+Angel Ring
+
+## POINTER 1274
+Nurse
+
+## POINTER 1276
+Cut 1
+
+## POINTER 1278
+Cut 2
+
+## POINTER 1280
+Thrust
+
+## POINTER 1282
+Kick up
+
+## POINTER 1284
+Slash
+
+## POINTER 1286
+Cut 2 -> Cut 1
+
+## POINTER 1288
+Wide Slash
+
+## POINTER 1290
+Sonic Thrust
+
+## POINTER 1292
+Sword Rain
+
+## POINTER 1294
+Thrust
+
+## POINTER 1296
+Smash
+
+## POINTER 1298
+Cut Sideways
+
+## POINTER 1300
+Spin Attack
+
+## POINTER 1302
+Hip Attack
+
+## POINTER 1304
+Storm Thrust
+
+## POINTER 1306
+Havoc Blast
+
+## POINTER 1308
+Cut
+
+## POINTER 1310
+Cut up
+
+## POINTER 1312
+Thrust
+
+## POINTER 1314
+Secondary cut
+
+## POINTER 1316
+Cut up -> Secondary cut -> Cut
+
+## POINTER 1318
+Thrust -> Cut up
+
+## POINTER 1320
+Demon Fang
+
+## POINTER 1322
+Double Demon Fang
+
+## POINTER 1324
+Fierced Demon Fang
+
+## POINTER 1326
+Sonic Thrust
+
+## POINTER 1328
+Lightning Blade
+
+## POINTER 1330
+Super Lightning Blade
+
+## POINTER 1332
+Light Spear
+
+## POINTER 1334
+Guardian Field
+
+## POINTER 1336
+First Aid
+
+## POINTER 1338
+Shining Bind
+
+## POINTER 1340
+Horizon Slash
+
+## POINTER 1342
+Punch
+
+## POINTER 1344
+Upper
+
+## POINTER 1346
+Dhaos Blast
+
+## POINTER 1348
+Dhaos Laser
+
+## POINTER 1350
+Tetra Assault
+
+## POINTER 1352
+Tetra Spell
+
+## POINTER 1354
+Tidal Wave
+
+## POINTER 1356
+Tempest
+
+## POINTER 1358
+Tractor Beam
+
+## POINTER 1360
+Meteor Storm

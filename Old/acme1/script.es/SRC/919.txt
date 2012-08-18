@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952684]
+
+Ah, señorita <STR>(RIT), tengo
+un mensaje de la jefa.<PAGE>Quiere que consiga ○○○○ y que lo
+lleve a la oficina de Capua Torim.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952684]
+<STR>(RIT)
+Ahora necesitan ○○○○.
+Mmm... Muy bien,
+entendido.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1295118215]
+
+¡Muchas gracias!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952684]
+<STR>(RIT)
+Claro.<PAGE>Con eso podrían... mmm...
+Y entonces podrían producir...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952684]
+<STR>(YUR)
+¿Eh? ¿<STR>(RIT)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1295118215]
+<STR>(RIT)
+Oh, perdón, perdón.
+¡Vamos a buscar ○○○○!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1295118215]
+<STR>(YUR)
+Lo buscaremos cuando tengamos tiempo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1295118215]
+<STR>(RIT)
+Claro, claro.

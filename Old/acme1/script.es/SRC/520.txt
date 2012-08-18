@@ -1,0 +1,123 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(YUR)
+<VOICE>(VS58_500)¡Eh!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1290981130]
+<STR>(JUD)
+<VOICE>(VS58_501)¡Esa arma!...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(KAR)
+<VOICE>(VS58_502)¡Nan!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1290981130]
+Nan
+<VOICE>(VS58_503)Os lo advierto. Los Espadas
+Cazadoras están patrullando
+la zona. Salid de aquí de...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(KAR)
+<VOICE>(VS58_504)¡Nan!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(EST_P)
+<VOICE>(VS58_505)Estas heridas son horribles...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(KAR)
+<VOICE>(VS58_506)¡Vamos, Nan!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+Nan
+<VOICE>(VS58_507)<STR>(KAR)...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1290981130]
+<STR>(KAR)
+<VOICE>(VS58_508)¡¿Qué haces aquí tú sola?!
+¿Dónde están Tiso y el jefe?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+Nan
+<VOICE>(VS58_509)El Maestro y los otros han seguido adelante...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1290981130]
+<STR>(KAR)
+<VOICE>(VS58_510)¡¿Qué?! ¡¿Te han dejado atrás?!<PAGE><VOICE>(VS58_511)Me lo esperaría del jefe,
+pero no puedo creer que Tison
+no quisiera llevarte consigo...<PAGE><VOICE>(VS58_512)¿Qué ha pasado?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1290981130]
+Nan
+<VOICE>(VS58_513)Acabamos luchando contra nuestro objetivo aquí.<PAGE><VOICE>(VS58_514)N-No pude hacer nada, como siempre...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+Nan
+<VOICE>(VS58_515)El Maestro dijo que era porque tenía dudas.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(KAR)
+<VOICE>(VS58_516)¿Dudas?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+Nan
+<VOICE>(VS58_517)Odio a los monstruos. Sigo
+pensando que no merecen vivir.
+<PAGE><VOICE>(VS58_518)Pero ahora, en un momento así, no
+creo que cazarlos sea tan importante.
+<PAGE><VOICE>(VS58_519)Hay otras cosas que
+debería estar haciendo...<PAGE><VOICE>(VS58_520)Y cuando le dije eso...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(RAV)
+<VOICE>(VS58_521)Fueron y te dejaron tirá.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1290981130]
+<STR>(JUD)
+<VOICE>(VS58_522)Insensatos. Tal y como están
+las cosas, ¿cómo es que no
+pueden replantearse la vida?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(KAR)
+<VOICE>(VS58_523)¡Es horrible!
+¡Nan tiene razón!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1290981130]
+<STR>(YUR)
+<VOICE>(VS58_524)Tranquilízate, <STR>(KAR).
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(YUR)
+<VOICE>(VS58_525)Oye, los Espadas Cazadoras van
+tras los entelechia, ¿verdad?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(RIT)
+<VOICE>(VS58_526)Debemos darnos prisa.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(YUR)
+<VOICE>(VS58_527)Ya.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(KAR)
+<VOICE>(VS58_528)Nan, ¿puedes caminar?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+Nan
+<VOICE>(VS58_529)¿Eh?
+Sí, pero...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1290981130]
+<STR>(EST_P)
+<VOICE>(VS58_530)Es demasiado peligroso
+que te quedes aquí sola.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+<STR>(KAR)
+<VOICE>(VS58_531)Ven con nosotros, Nan.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1286727162]
+Nan
+<VOICE>(VS58_532)<STR>(KAR)... Vale.

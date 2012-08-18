@@ -1,0 +1,53 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691035]
+<VOICE>(VS09_001)¡Oh! ¿Has preparado el antídoto
+para anular el veneno del árbol?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691035]
+<STR>(YUR)
+<VOICE>(VS09_002)<STR>(KAR), eso es cosa tuya. No
+se me dan muy bien estas cosas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691035]
+<STR>(KAR)
+<VOICE>(VS09_003)¿Quién, yo? Muy bien,
+¡allá voy!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691035]
+<STR>(EST_P)
+<VOICE>(VS09_004)¿No había dicho <STR>(KAR) que había alguien
+a quien quería enseñarle las flores de Halure?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691035]
+<STR>(YUR)
+<VOICE>(VS09_005)Eso creo. Aquí solo esperan que
+no hayamos llegado demasiado tarde.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Amarintia;time:1271853049]
+<STR>(EST_P)
+<VOICE>(VS09_006)El árbol se está...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691035]
+<VOICE>(VS09_007)Por favor, gran árbol 
+de Halure, restaura 
+la barrera caída.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691035]
+<VOICE>(VS09_008)Por favor.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691035]
+<STR>(KAR)
+<VOICE>(VS09_009)¡Nada! ¿La dosis no era suficiente?
+O a lo mejor es que no se hace así...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Amarintia;time:1271853559]
+<STR>(EST_P)
+<VOICE>(VS09_010)¡Necesitamos otra panacea!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691035]
+<VOICE>(VS09_011)Me temo que eso es imposible. 
+Ese era el último 
+pétalo de luluria.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:parsec;time:1271866282]
+<STR>(EST_P)
+<VOICE>(VS09_012)P-Pero nos hemos esforzado tanto...

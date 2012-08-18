@@ -1,0 +1,74 @@
+## POINTER 0
+
+<VOICE>(VS25_105)Against that many?! You've 
+gotta be crazy!
+
+## POINTER 1
+
+<VOICE>(VS25_106)I wouldn't do that even 
+if I had nine lives!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS25_107)What's going on?
+
+## POINTER 3
+Kaufman
+<VOICE>(VS25_108)Halt! If you won't do the 
+work I've paid you for, then 
+I want my money back!
+
+## POINTER 4
+Kaufman
+<VOICE>(VS25_109)Add the Indigo Beasts 
+to the blacklisted guilds!
+
+## POINTER 5
+
+<VOICE>(VS25_110)Yes, Madam President.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS25_111)Isn't that the woman we met at Deidon Hold?
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS25_112)Yeah, that's her all right...
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS25_113)Wh-why do you guys know her?
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS25_114)We just met her once a while 
+back. She a friend of yours?
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS25_115)I wouldn't say I know her. She's 
+the president of Fortune's Market, 
+one of the five master guilds.
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS25_116)In other words, she's one of 
+the top dogs of the Union.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS25_117)Humph...
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS25_118)Hey, I just got an idea...!
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS25_119)What's up, <STR>(KAR)?
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS25_120)Maybe she could get 
+a boat for us to take 
+across to Desier.

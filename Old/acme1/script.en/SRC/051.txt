@@ -1,0 +1,13 @@
+## POINTER 0
+<STR>(KAR)
+Should we go inside?
+
+## POINTER 1
+Enter?
+Yes
+No
+
+## POINTER 2
+<STR>(YUR)
+Let’s look around town
+some more.

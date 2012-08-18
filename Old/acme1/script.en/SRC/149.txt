@@ -1,0 +1,62 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS14_001)So this is Ehmead Hill?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS14_002)Yeah...but...
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS14_003)That's weird... 
+The barrier's gone.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS14_004)You mean there was 
+a barrier here?
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS14_005)There was when I came before.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS14_006)Sort of a waste to have a barrier in a 
+place with no people, if you ask me.
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS14_007)Are you sure you aren't mistaken?
+I'm pretty familiar with the barrier
+locations, but here?
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS14_008)You just haven't heard about 
+this one. Nan told me it was 
+only put here recently.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS14_009)Who is Nan, <STR>(KAR)?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS14_010)Huh...? Uh, she's um... 
+You know, she's just a 
+friend from my guild.<PAGE><VOICE>(VS14_011)I-I'm gonna go see if I 
+can find anything out!
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS14_012)I think I'll have a look myself.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS14_013)All right, never mind us, guys. I'm not 
+gonna go look for them if they get lost.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS14_014)Shall we, <STR>(YUR)?

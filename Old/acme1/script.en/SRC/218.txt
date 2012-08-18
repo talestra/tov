@@ -1,0 +1,262 @@
+## POINTER 0
+<STR>(FRE)
+<VOICE>(VS20_054)<STR>(YUR)...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS20_055)Thought I was being 
+quiet, but I guess you 
+heard me.
+
+## POINTER 2
+<STR>(FRE)
+<VOICE>(VS20_056)So, you've come to 
+have a laugh at me 
+in this sorry state?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS20_057)Yeah, I wanted to see what 
+kind of expression being locked 
+up put on your face.
+
+## POINTER 4
+<STR>(FRE)
+<VOICE>(VS20_058)It doesn't hurt to be forced to view things 
+from behind bars every now and then.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS20_059)What the hell you think you 
+were doing, coming here with 
+a letter like that?
+
+## POINTER 6
+<STR>(FRE)
+<VOICE>(VS20_060)That was the red eyes
+doing. They attacked
+after you left.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS20_061)You don't screw up like that. 
+Was it one of your people?
+
+## POINTER 8
+<STR>(FRE)
+<VOICE>(VS20_062)Even if it was, the responsibility is mine.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS20_063)I see.<PAGE><VOICE>(VS20_064)If the red eyes are involved, then 
+Ragou's gotta be behind it all.
+
+## POINTER 10
+<STR>(FRE)
+<VOICE>(VS20_065)But how do you know...?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS20_066)At the harbor, we saw Ragou 
+giving orders to one of 
+their assassins.
+
+## POINTER 12
+<STR>(FRE)
+<VOICE>(VS20_067)I hadn't heard about that.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS20_068)Do you know what they're 
+trying to do?
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS20_069)...Most likely they want to 
+force a clash between the 
+guilds and the Knights.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS20_070)That'd be bad. You think another 
+one of those false letters 
+went to the Knights?
+
+## POINTER 16
+<STR>(FRE)
+<VOICE>(VS20_071)Yes, to put them in a fighting mood.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS20_072)If you know that much, then 
+get out there and get the 
+real letters back.
+
+## POINTER 18
+<STR>(FRE)
+<VOICE>(VS20_073)I was wondering how 
+long it'd take you to get 
+rid of that damn lock.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS20_074)...
+
+## POINTER 20
+<STR>(FRE)
+<VOICE>(VS20_075)You've got to stay here.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS20_076)What, and be your scapegoat?
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS20_077)You're just itching to get 
+rid of me, aren't you?
+
+## POINTER 23
+<STR>(FRE)
+<VOICE>(VS20_078)<STR>(YUR), if I don't 
+make it back...
+
+## POINTER 24
+<STR>(FRE)
+<VOICE>(VS20_079)You'll have to die in my place.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS20_080)Yeah...
+
+## POINTER 26
+Don Whitehorse
+<VOICE>(VS20_081)Taking your friend's place in a jail 
+cell? You lost your mind, son?
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS20_082)This coming from an old 
+man who gets rid of his 
+own guards on purpose.
+
+## POINTER 28
+Don Whitehorse
+<VOICE>(VS20_083)Humph. I had a special favor 
+ta ask that rookie knight.
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS20_084)You mean <STR>(FRE)?
+
+## POINTER 30
+Don Whitehorse
+<VOICE>(VS20_085)The rats that plan these sorta stunts 
+usually like ta enjoy their handiwork 
+from somewhere nearby.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS20_086)If you knew the letter was fake, why'd 
+you fire everyone up like that?
+
+## POINTER 32
+Don Whitehorse
+<VOICE>(VS20_087)If I didn't make a good show of 
+things, whoever's behind all this 
+wouldn't bother ta come watch.<PAGE><VOICE>(VS20_088)Besides, we've got a lot of hotheads 
+around here who'd never let me hear the 
+end of it if I didn't raise hell.
+
+## POINTER 33
+Don Whitehorse
+<VOICE>(VS20_089)So that's where it stands. Of course 
+if our friend the knight doesn't 
+show up again, your life is mine.
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS20_090)I know.
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS20_091)Tell me one thing, though. What made you 
+want to start a guild in the first place?
+
+## POINTER 36
+Don Whitehorse
+<VOICE>(VS20_092)I realized I couldn't protect the 
+things that were important ta me, 
+playin' by the empire's rules.
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VS20_093)There have to be some things that 
+were easier to protect when you 
+were on the other side, though.<PAGE><VOICE>(VS20_094)Even in the lower quarter where 
+I'm from, we still had the barrier 
+to protect us.
+
+## POINTER 38
+Don Whitehorse
+<VOICE>(VS20_095)Sure, but were ya happy with 
+just puttin' up with all the 
+things ya didn't like?
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS20_096)Well, I...
+
+## POINTER 40
+Don Whitehorse
+<VOICE>(VS20_097)So if the rules the empire 
+sets don't suit ya, you've 
+got two choices.<PAGE><VOICE>(VS20_098)You can do like your friend is, 
+and put everything you've got 
+into changin' the system.<PAGE><VOICE>(VS20_099)Or ya can turn yer back on 
+the empire, and live by the 
+rules ya set fer yerself.
+
+## POINTER 41
+<STR>(YUR)
+<VOICE>(VS20_100)That's pretty clear cut...
+
+## POINTER 42
+Don Whitehorse
+<VOICE>(VS20_101)...Yep. I think yer gonna have 
+ta take responsibility for 
+lettin' my prisoner go.
+
+## POINTER 43
+<STR>(YUR)
+<VOICE>(VS20_102)You want me to do something 
+besides rotting in this cell?
+
+## POINTER 44
+Don Whitehorse
+<VOICE>(VS20_103)The sap who's been puttin' 
+together this little show's gotta 
+be somewhere in this city.<PAGE><VOICE>(VS20_104)I'd been plannin' on askin' 
+yer armor-wearin friend ta 
+hunt 'em down for me, but...
+
+## POINTER 45
+<STR>(YUR)
+<VOICE>(VS20_105)So what, you want me to find them?
+
+## POINTER 46
+Don Whitehorse
+<VOICE>(VS20_106)Your job is ta pay this debt back ta 
+me. How ya go about it is up ta you.
+
+## POINTER 47
+Don Whitehorse
+<VOICE>(VS20_107)That young lady ya brought with 
+ya is runnin' all over the place 
+helpin' with the injured folks.<PAGE><VOICE>(VS20_108)Yer not the type ta be the 
+only one sittin around 
+twiddlin' his thumbs, right?
+
+## POINTER 48
+<STR>(YUR)
+<VOICE>(VS20_109)...<STR>(EST_P). Huh, that 
+sounds like her.

@@ -1,0 +1,41 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS32_053)Cumore.
+
+## POINTER 1
+Cumore
+<VOICE>(VS32_054)Y-y-you're...! 
+No! <STR>(YUR), it's you!
+
+## POINTER 2
+Cumore
+<VOICE>(VS32_055)Wh-what are you doing here?!
+
+## POINTER 3
+Cumore
+<VOICE>(VS32_056)Someone! Someone 
+come quick!
+
+## POINTER 4
+Cumore
+<VOICE>(VS32_057)Y-you would cross swords 
+with a noble?<PAGE><VOICE>(VS32_058)V-very well, I accept your challenge.
+
+## POINTER 5
+Cumore
+<VOICE>(VS32_059)N-no! How could this...!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS32_060)You talk too much, Cumore.<PAGE><VOICE>(VS32_061)The time's come for you 
+to make your exit.
+
+## POINTER 7
+Cumore
+<VOICE>(VS32_062)D-do you have any idea 
+the trouble you're in for even 
+pointing that thing at me?!
+
+## POINTER 8
+Cumore
+<VOICE>(VS32_063)A-aaah...!

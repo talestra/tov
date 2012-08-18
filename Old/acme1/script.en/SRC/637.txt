@@ -1,0 +1,166 @@
+## POINTER 0
+Efreet
+<VOICE>(VA027_001)When faced with a daunting foe, 
+they often betray their comrades 
+and save themselves.<PAGE><VOICE>(VA027_002)They gain more power than 
+they need, and grow over-
+confident once they have it.<PAGE><VOICE>(VA027_003)This had been my understanding 
+of human nature.
+
+## POINTER 1
+Undine
+<VOICE>(VA027_004)Humans are quite interesting. 
+They become distrustful 
+once betrayed.<PAGE><VOICE>(VA027_005)One moment they may slander 
+a friend, and the next be 
+moved to feelings of love.<PAGE><VOICE>(VA027_006)Their hearts may grow more 
+compassionate, or be lost to 
+depravity. Truly puzzling creatures.
+
+## POINTER 2
+Sylph
+<VOICE>(VA027_007)All of that makes them dangerous.
+How long until they are drowned 
+by their thirst for power?<PAGE><VOICE>(VA027_008)How long until they betray all 
+those dear to them, in their 
+struggle for supremacy?<PAGE><VOICE>(VA027_009)When they stand before 
+a mighty enemy, will they 
+keep their resolve?
+
+## POINTER 3
+Gnome
+...
+
+## POINTER 4
+Undine
+<VOICE>(VA027_011)Do you not believe 
+in them, Sylph?
+
+## POINTER 5
+Sylph
+<VOICE>(VA027_012)I wished only to convey the 
+delicacy of the situation.
+
+## POINTER 6
+Efreet
+<VOICE>(VA027_013)Should they ever become too 
+great a nuisance, we need only 
+burn them to the ground.
+
+## POINTER 7
+Undine
+<VOICE>(VA027_014)It seems that the conversion 
+to spirit form has not tempered 
+our leader's fiery wrath.
+
+## POINTER 8
+Sylph
+<VOICE>(VA027_015)Nor has there been any change 
+in the optimism that so 
+characterized you, Undine.
+
+## POINTER 9
+Efreet
+<VOICE>(VA027_016)And you remain every bit 
+as cautious and careful 
+as you ever were.
+
+## POINTER 10
+Undine
+<VOICE>(VA027_017)Has not that fear kept you 
+in constant concern over 
+the catastrophe in the sky?
+
+## POINTER 11
+Sylph
+<VOICE>(VA027_018)It was all the Entelexeia 
+and humans could do to seal 
+it away 1,000 years ago.<PAGE><VOICE>(VA027_019)The humans have said that as 
+spirits we possess the power 
+to defeat it. However...
+
+## POINTER 12
+Undine
+<VOICE>(VA027_020)Say no more. Speaking 
+it out loud will only further 
+increase your worry.
+
+## POINTER 13
+Efreet
+<VOICE>(VA027_021)We are a new power that will form 
+the cornerstone of this world. 
+The Adephagos is nothing.
+
+## POINTER 14
+Sylph
+<VOICE>(VA027_022)We may possess enough power to defeat 
+the Adephagos once and for all.<PAGE><VOICE>(VA027_023)But all our work will have been 
+for naught if the humans cannot 
+face this threat.<PAGE><VOICE>(VA027_024)Do not forget that it is the 
+mortals who must use our powers 
+against the Adephagos.
+
+## POINTER 15
+Undine
+<VOICE>(VA027_025)Did you not place your 
+faith in their hands?
+
+## POINTER 16
+Sylph
+<VOICE>(VA027_026)As there are no others to whom we can turn... 
+I will entrust them with our final hope.
+
+## POINTER 17
+Undine
+<VOICE>(VA027_027)Then be content to stand by, and 
+watch over them. Believe in them.
+
+## POINTER 18
+Efreet
+<VOICE>(VA027_028)I too await the day when I 
+make known my full power.
+
+## POINTER 19
+Sylph
+<VOICE>(VA027_029)…………
+
+## POINTER 20
+Efreet
+<VOICE>(VA027_030)Speak, Gnome, if you have 
+something we should know.
+
+## POINTER 21
+Sylph
+<VOICE>(VA027_031)He says "We are left to make 
+one of two choices..."<PAGE><VOICE>(VA027_032)"Perish along with this 
+world, or entrust our powers 
+to the humans..."<PAGE><VOICE>(VA027_033)"They may be fragile, but their hearts 
+burn with a determination to live. 
+I will stand with them."
+
+## POINTER 22
+Undine
+<VOICE>(VA027_034)Do you mean it, Gnome?
+
+## POINTER 23
+Sylph
+<VOICE>(VA027_035)He says, "I, too, share 
+their desire to go on living."
+
+## POINTER 24
+Efreet
+<VOICE>(VA027_036)That is the life for those 
+who grow old and die. We must 
+live as suits our nature.
+
+## POINTER 25
+Undine
+<VOICE>(VA027_037)No. Like them, the oncoming 
+catastrophe could sow the 
+seeds of our obliteration as well.<PAGE><VOICE>(VA027_038)Gnome, let us, too, struggle 
+for as long as we can. 
+As the humans do.
+
+## POINTER 26
+Undine
+<VOICE>(VA027_039)Goodbye...

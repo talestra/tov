@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1252076695]
+(EST_P) es libre
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266330131]
+(RIT)
+Je, je, je.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266330131]
+(YUR)
+(RIT), pareces... contenta.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266330131]
+(KAR)
+Tú también, (YUR).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266330131]
+(RIT)
+Ya no hay nada que limite a (EST_P).
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1266330131]
+(RIT)
+Ahora puede utilizar su poder sin
+hacerse daño ni desequilibrar el aer.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1266330131]
+(RIT)
+Así que sí, estoy contenta.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1266330131]
+(KAR)
+¡(EST_P) es libre por fin!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1266330131]
+(YUR)
+Pero esto no nos asegura que no
+volverá a pasarse de la raya...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1266330179]
+(RIT)
+La vigilamos más atentamente y listos.
+Si no, puede que vuelva a intentar curar
+a todo el mundo hasta caer rendida.

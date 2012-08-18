@@ -1,0 +1,33 @@
+## POINTER 0
+<STR>(RIT)
+It worked...but...
+
+## POINTER 1
+<STR>(KAR)
+What's this...?
+
+## POINTER 2
+<STR>(YUR)
+...I should have just gone ahead 
+and activated it before, then?
+
+## POINTER 3
+<STR>(EST_P)
+Yeah... What if it was 
+a trap or something...?
+
+## POINTER 4
+<STR>(RIT)
+<STR>(YUR), you should point 
+things like that out as 
+soon as you notice!
+
+## POINTER 5
+<STR>(YUR)
+No, I only realized 
+just now, actually.
+
+## POINTER 6
+<STR>(KAR)
+Maybe if we go upstairs we 
+might figure something out?

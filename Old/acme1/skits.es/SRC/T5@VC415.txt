@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253220937]
+El líder de cien gremios
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307281]
+(YUR)
+¿Cuántos gremios hay en esta ciudad?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266670540]
+(KAR)
+No sé el número exacto,
+pero creo que son más de cien.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298113884]
+(YUR)
+¡Hala! ¿Tantos?
+¿Y todos están en la Unión?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298113884]
+(RAP)
+¡¿Guau?!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298113884]
+(KAR)
+No, todos no, pero...
+Creo que algo así como el 90%
+son miembros de la misma.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307281]
+(YUR)
+Vaya, y el Don está en la cima
+de todo eso... Ese hombre es increíble.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267307281]
+(KAR)
+¡Por eso él es el Don!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298113884]
+(RIT)
+¿Y por qué te enorgulleces?
+El que es increíble es el Don, no TÚ.

@@ -1,0 +1,149 @@
+## POINTER 0
+<STR>(KAR)
+
+<STR>(RAP)!
+Catch!
+
+## POINTER 1
+<STR>(KAR)
+Same ol' 
+<STR>(RAP)...
+
+## POINTER 2
+Rich
+...<STR>(RAP)...?
+
+## POINTER 3
+Karen
+<STR>(RAP)? I can't believe it...
+
+## POINTER 4
+<STR>(YUR)
+Huh? What do you mean?
+
+## POINTER 5
+Karen
+Oh, it's just...he has the same 
+name as a dog that someone 
+we know used to have.
+
+## POINTER 6
+<STR>(YUR)
+You don't say...
+
+## POINTER 7
+Karen
+Were you the one who 
+named him <STR>(RAP)?
+
+## POINTER 8
+<STR>(YUR)
+No... It was a name given to 
+him by his previous owner.
+
+## POINTER 9
+Rich
+...Then he must be...
+
+## POINTER 10
+Karen
+But...
+
+## POINTER 11
+<STR>(YUR)
+What is it?
+
+## POINTER 12
+Rich
+...Hold on...
+
+## POINTER 13
+Rich
+...Take this...
+
+## POINTER 14
+<STR>(RAP)
+Wooo...
+
+## POINTER 15
+<STR>(YUR)
+Hey now, what's this all about?
+
+## POINTER 16
+Rich
+...This is an arte that was 
+given to us by your mother...
+
+## POINTER 17
+Karen
+You see, <STR>(RAP) was the name of one 
+of the pups of a dog who belonged 
+to an acquaintance of my father.<PAGE>But...after my father's friend 
+died, <STR>(RAP) went missing.<PAGE>Soon after, <STR>(RAP)'s mother passed 
+away, and she left behind a manual 
+of technique that she used.
+
+## POINTER 18
+<STR>(YUR)
+There's still no guarantee that <STR>(RAP)'s 
+the same person-- dog, I mean-- 
+as the one in your story.<PAGE>It's still okay 
+if we take that?
+
+## POINTER 19
+Rich
+...Yes...
+...Take 
+it...
+
+## POINTER 20
+Karen
+Hmmm, yes...
+Only a dog 
+would be able to use 
+that arte, anyway.<PAGE>And it's only fitting that it 
+be kept by a person-- a dog, 
+that is-- who can use it.
+
+## POINTER 21
+<STR>(YUR)
+Really...
+Well then, 
+we'll gladly take it.
+
+## POINTER 22
+<STR>(RAP)
+Woof!
+
+## POINTER 23
+<STR>(YUR)
+...But you can't 
+read this, 
+can you?
+
+## POINTER 24
+<STR>(RAP)
+Woof woof!
+
+## POINTER 25
+<STR>(YUR)
+Okay, okay, I'll 
+help you out.
+
+## POINTER 26
+<STR>(RAP)
+Wooo!
+
+## POINTER 27
+<STR>(KAR)
+Wow! <STR>(RAP) learned 
+how to do it!<PAGE>...<STR>(YUR), were you up all night too?
+
+## POINTER 28
+<STR>(YUR)
+Yeah. I'm 
+pooped.<PAGE>Are you happy, <STR>(RAP)?
+
+## POINTER 29
+<STR>(RAP)
+Wooo!

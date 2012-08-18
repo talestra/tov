@@ -1,0 +1,90 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290510174]
+<STR>(KAR)
+¿Y este sitio?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294608019]
+<STR>(RAV)
+Como qu'es un pelín rarillo.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290510174]
+
+¡Buenas tardes,
+visitantes!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290510174]
+
+Es la primera vez que
+venís, ¿verdad?<PAGE>Lo primero que debéis hacer
+es comprar las entradas.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298855435]
+<STR>(RIT)
+¿Entradas? ¿Necesitamos
+entradas para pasar?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297026996]
+
+Exacto. Aunque solo
+cuestan 10 gald
+por persona.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298855435]
+<STR>(YUR)
+¿Solo eso? Debes estar de broma.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290510960]
+
+¡Para nada! No hacemos esto para
+sacar provecho, sino para ayudar
+a que la gente se lo pase bien.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298855435]
+<STR>(JUD)
+¿Qué pasa
+ahí dentro?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551942]
+
+Es difícil de resumir
+pero, básicamente, ¡es una
+fiesta la mar de divertida!<PAGE>Creo que lo mejor será
+que entréis y que lo veáis
+por vosotros mismos.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290510960]
+<STR>(EST_P)
+¿Qué hacemos?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290510960]
+¿Comprar entradas?
+Comprar entradas
+No comprar entradas
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298855435]
+
+Muchísimas gracias.
+Aquí tenéis.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298855435]
+
+¡Podéis entrar y salir cuando
+queráis, así que pasadlo bien
+y no os preocupéis por nada!<PAGE>Tendréis que usar fichas para todo
+mientras estéis aquí. Aseguraos de ir
+al gimnasio a cambiar gald por fichas.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290527927]
+
+Oh... No disponéis
+de suficiente gald.
+Lo siento muchísimo.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290527927]
+
+¡Volved otra vez, por favor!
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290527927]
+
+Bienvenidos. Las entradas
+para el festival cuestan
+10 gald por persona.

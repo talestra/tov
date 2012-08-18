@@ -1,0 +1,89 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS64_001)Whoa. They've already built this much...?
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS64_002)I can't believe the city's 
+come this far so quickly...
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS64_003)And it doesn't look like 
+they used magic. Look.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS64_004)Looks like they burned themselves out.
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS64_005)Looks like the knights put up a fight, too.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS64_006)I guess this is what people 
+do when they work together.
+
+## POINTER 6
+Kaufman
+<VOICE>(VS64_007)So? How do you like it?
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS64_008)Hats off to you.
+
+## POINTER 8
+<STR>(FRE)
+<VOICE>(VS64_009)How are things on 
+your end, <STR>(YUR)?
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS64_010)We talked to them.<PAGE><VOICE>(VS64_011)We also told them that we'd talk 
+to His Majesty when we could.
+
+## POINTER 10
+<STR>(FRE)
+<VOICE>(VS64_012)Okay. I talked to His 
+Majesty, and it looks 
+like he'll come.<PAGE><VOICE>(VS64_013)He's coming 
+by ship now.
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS64_014)He's taking the slow route...<PAGE><VOICE>(VS64_015)I'll take Ba'ul to 
+pick him up. Harry 
+and Natz, too.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS64_016)Really? Won't Ba'ul 
+get angry?
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS64_017)There's no time, right? Ba'ul 
+understands that, too.
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS64_018)That would be a great help.
+
+## POINTER 15
+<STR>(FRE)
+<VOICE>(VS64_019)...There's no time left.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS64_020)So the leaders of the world 
+will finally come together.
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS64_021)Now we just have to see if they 
+understand what we're doing.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS64_022)Yeah.

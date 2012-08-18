@@ -1,0 +1,161 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS64_158)Humph... That's 
+the last one.
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VS64_159)Good work.<PAGE><VOICE>(VS64_160)Sorry for making you work right 
+before the final battle.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS64_161)Don't worry about it! I'm a member 
+of a guild. I have to do something.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS64_162)Hey, <STR>(RAV). It's nice 
+to be able to do things 
+for others.
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VS64_163)Ohhh, such grown-up words 
+from master <STR>(KAR).
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS64_164)Yeah, I never did stuff 
+just for other people.<PAGE><VOICE>(VS64_165)I wanted to show others 
+that I could do stuff.<PAGE><VOICE>(VS64_166)I thought that was my 
+dream, but I guess not.
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS64_167)To make a guild. 
+To make the guild big. 
+To be a respected boss.<PAGE><VOICE>(VS64_168)All boys have those dreams. It's fine.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS64_169)But that was all just 
+so I would look cool.<PAGE><VOICE>(VS64_170)I mean, there's 
+so much you can't 
+do alone.
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS64_171)Yeah, I guess so.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS64_172)I thought I had to do it alone 
+or I'd look bad or it'd 
+be worthless or whatever.<PAGE><VOICE>(VS64_173)That's not helping 
+people.
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS64_174)I see.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS64_175)If you work together, you 
+can do a lot more and make 
+a lot more people happy.<PAGE><VOICE>(VS64_176)I realized that traveling with 
+everyone. I like that a lot more.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS64_177)...Young master <STR>(KAR), you 
+are something. So far 
+ahead of this old man.<PAGE><VOICE>(VS64_178)You are cool enough just as you are.
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS64_179)You're cool, too, <STR>(RAV). Not 
+as cool as <STR>(YUR), but...
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VS64_180)Oh! I'm hurt!
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS64_181)Heh heh. So what's 
+your dream, <STR>(RAV)?
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS64_182)Me? To be stinking rich with 
+bevies of gorgeous women all 
+around, mmmm... I'm kidding.
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS64_183)Now... Hmm... I'm finally 
+back to just living.<PAGE><VOICE>(VS64_184)So I guess my dream is to be 
+able to dream again someday.
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS64_185)That sounds pretty hard... 
+But I'm sure you can do it.
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS64_186)Thank you. I think 
+I'll get it.
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS64_187)Hey, is your heart...OK?
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VS64_188)Yeah, it's weird, but it's fine. Even 
+if I work it hard, it just keeps going.
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS64_189)I guess that's the effect of the spirits.
+
+## POINTER 23
+<STR>(RAV)
+<VOICE>(VS64_190)I guess this plan 
+isn't all bad.
+
+## POINTER 24
+<STR>(KAR)
+<VOICE>(VS64_191)I'm glad I met everyone. I 
+mean, you too, of course.
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS64_192)I'm glad I met you
+too. Really.
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS64_193)...We're going to win tomorrow.
+
+## POINTER 27
+<STR>(RAV)
+<VOICE>(VS64_194)In a big way.<PAGE><VOICE>(VS64_195)All right, we should get to 
+bed soon. Lack of sleep is 
+the elderly's worst enemy.
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS64_196)Okay. 'Night.
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VS64_197)Yeah. Good night.
+
+## POINTER 30
+<STR>(RAV)
+<VOICE>(VS64_198)Dreams are so not my style, 
+but here I am. Dreaming. 
+What am I gonna do with myself?

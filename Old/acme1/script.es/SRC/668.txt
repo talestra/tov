@@ -1,0 +1,143 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+Ted
+¡Oh, <STR>(YUR)!
+¡Cuánto tiempo sin verte!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+<STR>(YUR)
+Lo mismo digo. Nunca hubiera
+imaginado que te vería en compañía
+de una mujer de clase alta.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+Ted
+¡Es la señorita Lune!
+Viene leernos libros
+muy a menudo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1272392206]
+<STR>(YUR)
+Así que tú eres Lune.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1272392206]
+Lune
+¿Nos conocemos?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1272392206]
+<STR>(YUR)
+Shel nos ha hablado de ti.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+Lune
+Entiendo. Estos niños también
+me han contado muchas cosas
+sobre usted, <STR>(YUR).
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:miyu;time:1277126180]
+<STR>(RAV)
+¡Parece que estás en boca de toa la capital!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+Lune
+¿En qué puedo ayudarle?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:miyu;time:1272393398]
+<STR>(YUR)
+Me preguntaba si podrías ayudarnos
+a localizar a tu novio, Clay.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+Lune
+¿Están buscando a Clay? 
+Shel ha sido quien se
+lo ha pedido, ¿verdad?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+<STR>(EST_P)
+Sí. Le prometo que
+lo encontraremos.
+¡Tenga paciencia!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+Lune
+Os lo agradezco, pero no 
+tienen que molestarse.<PAGE>Me alegraría de su vuelta,
+por supuesto,
+pero ya soy feliz así.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:miyu;time:1272917312]
+<STR>(EST_P)
+¿Está segura?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+Lune
+Sí. Ahora ya conozco la felicidad 
+que se siente al saber que siempre 
+tendré a alguien con quien contar.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:miyu;time:1272472701]
+<STR>(YUR)
+Vaya...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+Lune
+Os agradezco enormemente
+vuestra amabilidad.
+<PAGE>Oh, sí.<STR>(YUR), es un 
+espadachín, ¿verdad? Quizá 
+esto le sea de utilidad.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+Lune
+Este libro perteneció a mi padre.
+Fue un espadachín muy famoso
+de los Caballeros Imperiales.
+<PAGE>Enseñó a muchos alumnos, pero
+ninguno fue capaz de dominar
+esta técnica. ¿Lo intentaría?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:miyu;time:1272393183]
+<STR>(RAV)
+¿Puedes hacerlo?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+<STR>(YUR)
+A ver... ¡¿Así?!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:miyu;time:1272393183]
+Ted
+¡Ese es nuestro <STR>(YUR)!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+<STR>(RAV)
+¡Hala, y a la primera!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+Lune
+¡Impresionante!
+En verdad posee un 
+don con la espada, <STR>(YUR).
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:miyu;time:1272393183]
+<STR>(YUR)
+No es para tanto.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1283974384]
+Lune
+No, es increíble que haya
+dominado una técnica que
+ningún otro alumno pudo.
+<PAGE>Quiero que se quede con el libro
+como agradecimiento por vuestra 
+amabilidad. Espero que le sea útil.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:miyu;time:1272393183]
+<STR>(EST_P)
+¿Crees que haremos bien si 
+dejamos de buscar a Clay?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:miyu;time:1272472701]
+<STR>(YUR)
+No sé... Shel parecía 
+bastante preocupado por él.
+Busquémoslo un poco más.

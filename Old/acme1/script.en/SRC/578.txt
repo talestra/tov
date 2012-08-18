@@ -1,0 +1,20 @@
+## POINTER 0
+<STR>(JUD)
+Do you think Rhianna is still at the inn?
+
+## POINTER 1
+<STR>(YUR)
+Well, let's just go inside and take a look.
+
+## POINTER 2
+<STR>(KAR)
+Hey...I um...
+
+## POINTER 3
+<STR>(YUR)
+Don't want to see your old teacher, 
+huh? You can wait here if you want.
+
+## POINTER 4
+<STR>(KAR)
+O-okay...

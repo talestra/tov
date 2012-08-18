@@ -1,0 +1,164 @@
+## POINTER 0
+Barbos
+<VOICE>(VS20_113)Ragou, you fool. You didn't keep 
+up your end of the bargain.
+
+## POINTER 1
+Ragou
+<VOICE>(VS20_114)Don't hurt me...!
+
+## POINTER 2
+Barbos
+<VOICE>(VS20_115)Damn...!
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS20_116)<STR>(YUR)! They're aiming 
+at <STR>(FRE)!
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS20_117)Got 'im!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS20_118)Nice shot, <STR>(KAR)!
+
+## POINTER 6
+Barbos
+<VOICE>(VS20_119)You brats think you 
+can stop me?!
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS20_120)Gyaaah!
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS20_121)Aaah!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS20_122)Get out of here. 
+Head for the exit.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS20_123)<STR>(YUR), no, it's too dangerous!
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS20_124)It should take time for the 
+aer to recharge. I'll try and 
+stop him before then...
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS20_125)Now!
+
+## POINTER 13
+Barbos
+<VOICE>(VS20_126)You're too late!
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS20_127)No! It charged 
+up too quickly!
+
+## POINTER 15
+Barbos
+<VOICE>(VS20_128)Wh-what the hell...?!
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS20_129)Oh, so you're back 
+for more, dragon freak!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS20_130)<STR>(RIT), knock it off! Our 
+enemy's over there...!
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS20_131)My enemy is this dragon freak!
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS20_132)Leave it alone for now!
+
+## POINTER 20
+Barbos
+<VOICE>(VS20_133)Humph.
+
+## POINTER 21
+Barbos
+<VOICE>(VS20_134)I'm gonna make you wish 
+you hadn't done that!
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS20_135)What? He can fly?!
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS20_136)Ah! Get back here you freak! Think 
+I'm just gonna let you get away?!
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS20_137)If you're going after him, let me come with you! 
+We're a little short on wings around here.
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS20_138)Are you crazy? 
+This jerk's our enemy!
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS20_139)No matter what happens, 
+I've gotta catch that guy.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS20_140)...Come on!
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS20_141)Yes! Thanks!
+
+## POINTER 29
+<STR>(KAR)
+<VOICE>(VS20_142)Wait! What about us...?!
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS20_143)This guy's overloaded 
+enough as it is!
+
+## POINTER 31
+<STR>(KAR)
+<VOICE>(VS20_144)But, what should we...?
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS20_145)You guys hold down the fort here!
+
+## POINTER 33
+<STR>(EST_P)
+<VOICE>(VS20_146)What...?!
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS20_147)Stay out of trouble!
+
+## POINTER 35
+<STR>(KAR)
+<VOICE>(VS20_148)Dammit, <STR>(YUR)!
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS20_149)And let <STR>(FRE) know 
+I'm stepping out 
+for a while!

@@ -1,0 +1,167 @@
+## POINTER 196
+Theater
+
+## POINTER 197
+Chips Counter
+
+## POINTER 198
+Skit Player - V
+
+## POINTER 199
+Movie Player - V
+
+## POINTER 200
+Ticket Counter
+
+## POINTER 210
+The Fount of Warmth "Yumanju"
+
+## POINTER 211
+Fortune's Market (Yumanju)
+
+## POINTER 220
+The Imperial Capital, Zaphias
+
+## POINTER 221
+Deidon Hold
+
+## POINTER 222
+The City of Blossoms, Halure
+
+## POINTER 223
+The Sealed Academic City, Aspio
+
+## POINTER 224
+The Port Town, Capua Nor
+
+## POINTER 225
+The Port Town, Capua Torim
+
+## POINTER 226
+The Rising City, Heliord
+
+## POINTER 227
+The Den of Guilds, Dahngrest
+
+## POINTER 228
+The Coliseum City, Nordopolica
+
+## POINTER 229
+The Desert Oasis, Mantaic
+
+## POINTER 230
+The Heartland Town, Yormgen
+
+## POINTER 231
+The Home of the Kritya, Myorzo
+
+## POINTER 232
+The Land of Hope, Aurnion
+
+## POINTER 233
+Flynn Town
+
+## POINTER 234
+The Vessel of Hope and Glory, Fiertia
+
+## POINTER 235
+The Happy Place, Nam Cobanda Isle
+
+## POINTER 236
+The Fount of Warmth, Yumanju
+
+## POINTER 237
+Quoi Woods
+
+## POINTER 238
+Shaikos Ruins
+
+## POINTER 239
+Ehmead Hill
+
+## POINTER 240
+The Fallen City, Caer Bocram
+
+## POINTER 241
+Forest of Keiv Moc
+
+## POINTER 242
+The Tower of Gears, Ghasfarost
+
+## POINTER 243
+The Ghost Ship, Atherum
+
+## POINTER 244
+The Weasand of Cados
+
+## POINTER 245
+The Sands of Kogorh
+
+## POINTER 246
+The Manor of the Wicked
+
+## POINTER 247
+Mt. Temza
+
+## POINTER 248
+The Forgotten Shrine, Baction
+
+## POINTER 249
+The Mobile Fortress, Heracles
+
+## POINTER 250
+The Blade Drifts of Zopheir
+
+## POINTER 251
+Egothor Forest
+
+## POINTER 252
+The Enduring Shrine of Zaude
+
+## POINTER 253
+The Erealumen Crystallands
+
+## POINTER 254
+Relewiese Hollow
+
+## POINTER 255
+The Ancient Tower, Tarqaron
+
+## POINTER 256
+Aer Krene (Ilyccia)
+
+## POINTER 257
+Aer Krene (Tolbyccia)
+
+## POINTER 258
+Aer Krene (Desier)
+
+## POINTER 259
+Aer Krene (Yurzorea)
+
+## POINTER 260
+Labyrinth of Memories
+
+## POINTER 261
+Phaeroh's Crag
+
+## POINTER 262
+Northeastern Hypionia
+
+## POINTER 269
+Zaphias (Lower Quarter)
+
+## POINTER 270
+Zaphias (Public Quarter)
+
+## POINTER 271
+Zaphias (Royal Quarter & Gate)
+
+## POINTER 272
+Heliord (Labor Camp)
+
+## POINTER 273
+Sands of Kogorh (South)
+
+## POINTER 274
+Sands of Kogorh (North)

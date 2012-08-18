@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1251569005]
+Qué mono
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189940]
+(JUD)
+¡Oh, (EST_P), estás muy mona!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140158]
+(EST_P)
+¿D-De verdad? Me alegro... Me preocupaba
+que esta ropa no me fuera a sentar bien...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189940]
+(RIT)
+Parece un poco anticuada.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189940]
+(EST_P)
+¡Eso es lo que hace que sea mona!
+¡Ah! ¡No me refería a mí misma!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189940]
+(RIT)
+No, no pasa nada.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189940]
+(EST_P)
+Me refería a que la ropa
+es mona, no yo...
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189940]
+(RIT)
+¡No tienes por qué ser tan modesta!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267189940]
+(JUD)
+Qué monas que sois...

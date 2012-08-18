@@ -1,0 +1,71 @@
+## POINTER 0
+Sodia
+<VOICE>(VS60_118)<STR>(YUR) Lowell!
+
+## POINTER 1
+Sodia
+<VOICE>(VS60_119)Why?! Why didn't you 
+call me out for my 
+actions that time?<PAGE><VOICE>(VS60_120)I... I tried to kill you...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS60_121)Oh, I'm not letting it go.<PAGE><VOICE>(VS60_122)But I don't have time to 
+deal with someone who 
+gave up on everything.
+
+## POINTER 3
+Sodia
+<VOICE>(VS60_123)I haven't given up...
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS60_124)No? So why haven't you gone 
+to help <STR>(FRE), even alone?<PAGE><VOICE>(VS60_125)You wanted to protect him so 
+badly you'd kill me. Why won't 
+you protect him now?!
+
+## POINTER 5
+Sodia
+<VOICE>(VS60_126)I...I can't protect him by myself... 
+Please...save him...<PAGE><VOICE>(VS60_127)Please...
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS60_128)You don't have to 
+tell me to do that.
+
+## POINTER 7
+Sodia
+<VOICE>(VS60_129)Please...
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS60_130)You know, there's 
+one thing I agree 
+with you on.
+
+## POINTER 9
+Sodia
+<VOICE>(VS60_131)？
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS60_132)I'm a criminal. I could 
+be killed any time.<PAGE><VOICE>(VS60_133)<STR>(FRE) is the perfect knight. 
+A perfect leader. He doesn't 
+need a criminal by his side.
+
+## POINTER 11
+Sodia
+<VOICE>(VS60_134)...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS60_135)I'm just standing in 
+until the right person 
+comes along.
+
+## POINTER 13
+Sodia
+<VOICE>(VS60_136)<STR>(YUR)...

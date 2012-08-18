@@ -1,0 +1,97 @@
+## POINTER 0
+<STR>(RAP)
+Woof!
+
+## POINTER 1
+<STR>(YUR)
+Huh? Is this aer?
+
+## POINTER 2
+<STR>(RIT)
+...It appears so. Aer is flowing 
+through this pipe.
+
+## POINTER 3
+<STR>(RAV)
+Ain't it dangerous getting' 
+so close to it?
+
+## POINTER 4
+<STR>(RIT)
+This aer isn't very 
+thick. It's safe.
+
+## POINTER 5
+<STR>(KAR)
+But why is aer 
+flowing through 
+the Heracles?
+
+## POINTER 6
+<STR>(RIT)
+It seems that aer is what's making 
+this giant contraption work.
+
+## POINTER 7
+<STR>(JUD)
+It's being supplied with aer, without 
+the need for aer krene...wow...
+
+## POINTER 8
+<STR>(KAR)
+The Sorcerer's Ring 
+is glowing...
+
+## POINTER 9
+<STR>(JUD)
+I saw it do the same thing 
+back in Ghasfarost.
+
+## POINTER 10
+<STR>(YUR)
+Yeah, we were together when that happened.
+
+## POINTER 11
+<STR>(RIT)
+Let me see that.
+
+## POINTER 12
+<STR>(RIT)
+...
+
+## POINTER 13
+<STR>(YUR)
+Aww, I've always wanted to 
+hold hands with you, <STR>(RIT).
+
+## POINTER 14
+<STR>(RIT)
+It's being affected by the aer. The 
+interior geometry is changing.
+
+## POINTER 15
+<STR>(RIT)
+Try pointing it 
+at this gate.
+
+## POINTER 16
+<STR>(KAR)
+...It really seems a lot more 
+powerful than it was before.<PAGE>Are you sure that's okay?
+
+## POINTER 17
+<STR>(YUR)
+If it can destroy everything it shoots, 
+that would definitely be dangerous.
+
+## POINTER 18
+<STR>(RIT)
+That was a reaction between the aer inside 
+the gate and the aer that the ring shot.<PAGE>It won't destroy anything and 
+everything. You can relax.
+
+## POINTER 19
+<STR>(JUD)
+Let's use the Sorcerer's 
+Ring to destroy that 
+gate, too.

@@ -1,0 +1,132 @@
+## POINTER 0
+<STR>(JUD)
+All right, on to the next step.
+
+## POINTER 1
+<STR>(KAR)
+Huh...what?
+
+## POINTER 2
+<STR>(JUD)
+It should be easier to go in 
+if you dress like a knight.
+
+## POINTER 3
+<STR>(YUR)
+Who, me?
+
+## POINTER 4
+<STR>(JUD)
+<STR>(KAR) would work just as well.
+
+## POINTER 5
+<STR>(KAR)
+Wah, again?
+
+## POINTER 6
+<STR>(KAR)
+Wah, m-me?
+
+## POINTER 7
+<STR>(YUR)
+Yeah, maybe you're right...
+
+## POINTER 8
+Who will disguise as a knight?
+<STR>(YUR)
+<STR>(KAR)
+
+## POINTER 9
+<STR>(YUR)
+I guess I'll have 
+to do it.<PAGE>But really, a knight, 
+of all things...
+
+## POINTER 10
+<STR>(YUR)
+Oh well, if this helps us 
+fool them, all the better.
+
+## POINTER 11
+
+Hey! Quit goofing 
+off over there!
+
+## POINTER 12
+<STR>(YUR)
+Huh? What's the matter?
+
+## POINTER 13
+
+You should get back to your post before 
+things get even more out of hand!
+
+## POINTER 14
+<STR>(YUR)
+What do you mean, "out of hand?"
+
+## POINTER 15
+
+The mage we captured 
+is running wild! 
+Hurry up!
+
+## POINTER 16
+<STR>(YUR)
+Roger! Okay, be 
+right back.
+
+## POINTER 17
+<STR>(KAR)
+Huh? <STR>(YUR)?
+
+## POINTER 18
+<STR>(YUR)
+<STR>(KAR), you do it.
+
+## POINTER 19
+<STR>(KAR)
+Y-you want me to dress up as a knight? 
+But...will the suit fit me?
+
+## POINTER 20
+<STR>(KAR)
+Urgh, it's hard to move around.
+
+## POINTER 21
+<STR>(YUR)
+Don't worry, you'll get 
+used to it quickly.
+
+## POINTER 22
+<STR>(KAR)
+I wonder...
+
+## POINTER 23
+
+Hey! Quit goofing 
+off over there!
+
+## POINTER 24
+<STR>(KAR)
+Uh, uhh...?
+
+## POINTER 25
+
+You should get back to your post before 
+things get even more out of hand!
+
+## POINTER 26
+<STR>(KAR)
+No, you've got it all wrong! 
+Wait, let go, heeeelp!
+
+## POINTER 27
+<STR>(EST_P)
+...<STR>(YUR), why didn't 
+you help him out?
+
+## POINTER 28
+<STR>(YUR)
+I, uhh...I was taken by surprise, 
+it all happened so fast...<PAGE>We should go and see what's happened...

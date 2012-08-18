@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1251925772]
+Los barrios bajos están a salvo
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266182713]
+(KAR)
+¡¿No es genial?! Ahora todos en
+los barrios bajos están a salvo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266182855]
+(YUR)
+Sí. Ya solo queda aplastar
+a Alexei y salvar a (EST_T).
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266182713]
+(RIT)
+Debes estar orgulloso de que tus hombres
+por fin estén haciendo algo de provecho.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266182713]
+(RAV)
+Mira que te lo he dicho: no tengo «hombres».
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1266182734]
+(JUD)
+¿Cómo puede alguien tan respetado
+ser tan frío con sus amigos?
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267435549]
+(RAV)
+Mu bien, er viejo (RAV) empieza
+a pensar que ya vale de tanta tontería.

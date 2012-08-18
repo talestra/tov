@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287589233]
+<STR>(RIT)
+¡Argh, ya te vale!
+¡Que me esperes!<PAGE>Y vosotros os quedáis ahí.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287589233]
+<STR>(YUR)
+¿Eh? Bueno, vale, pero...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287589233]
+<STR>(EST_P)
+¡Yo también voy!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287589233]
+<STR>(RIT)
+No, tú ahí quietecita.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287589233]
+<STR>(EST_P)
+Si tú y <STR>(JUD) vais solas,
+¡os capturarán en nada!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294611014]
+<STR>(YUR)
+Deberías confiar un poco más
+en <STR>(JUD_P) y en <STR>(RIT), ¿no crees?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1304552822]
+<STR>(EST_P)
+¡Pero sería más sencillo si no se
+tuviesen que preocupar por los guardias!<PAGE>¡<STR>(JUD), espéranos!
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287589233]
+<STR>(RIT)
+No, ¡que no vengas!
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287589233]
+<STR>(YUR)
+En fin...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298808610]
+<STR>(KAR)
+<STR>(YUR), ¿adónde vas?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287589233]
+<STR>(YUR)
+Oh, a dar una vuelta.

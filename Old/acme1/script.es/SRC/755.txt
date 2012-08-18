@@ -1,0 +1,63 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530482]
+
+¡Ah! Hacía tiempo que no
+te veíamos por aquí, nene.
+¿Dónde te habías metido?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530482]
+<STR>(RAV)
+Ahí va, mira quién va.
+He estao d'aquí pa'llá
+por órdenes der Don.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530482]
+
+¡Anda ya, nene! ¿Estás de
+broma? ¡Tú y trabajar duro
+no pegáis ni con cola!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1293542491]
+<STR>(RAV)
+Ir alrededor del mundo no está ná mal. Deberías probar.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1293545055]
+
+¡Ji, ji, ji! ¡Seguro que has estado
+de fiesta en todos los lugares
+en los que has estado!<PAGE>Por cierto...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530482]
+
+Tus amigos no parecen ser de tu compañía habitual. No estarás
+usándolos como cebo para pescar jovenzuelas, ¿verdad?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530482]
+<STR>(RAV)
+Nah, para nada.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530276]
+
+Ah, chachi. En fin,
+en cuanto estés libre
+vayamos a tomar algo. Nos vemos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1293545055]
+<STR>(KAR)
+¿Una amiga tuya?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1293545055]
+<STR>(RAV)
+Alguien que conozco.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1293545055]
+<STR>(KAR)
+No sé, parecíais muy amiguitos, viejales...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1293545055]
+<STR>(YUR)
+<STR>(KAR), mejor nos guardamos
+las preguntas cotillas, ¿vale?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1293545076]
+<STR>(RIT)
+¿Y a esa qué narices le pasa?

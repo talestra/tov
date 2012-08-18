@@ -1,0 +1,72 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS07_500)*Sigh* I had the wrong person... 
+And none of the others from 
+the guild are here, either...<PAGE><VOICE>(VS07_501)I kept her waiting so long. 
+She must've gotten mad and left...
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS07_502)I wanted to show her 
+Halure's flowers in 
+full bloom... Then maybe...
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS07_503)<STR>(KAR), what's the matter?
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS07_504)Where'd she go? 
+Is she really gone?
+I'm doing the best I can...
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS07_505)<STR>(KAR)?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS07_506)Let's give him some time alone.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS07_507)It's over, it's over. It's all 
+over, it's really over. Everything, 
+everything is over...
+
+## POINTER 7
+
+<VOICE>(VS07_508)Yeah! We got weapons now!
+We're gonna beat those monsters!
+
+## POINTER 8
+
+<VOICE>(VS07_509)The mayor's gonna
+let us fight now!
+
+## POINTER 9
+
+<VOICE>(VS07_510)Let's beat up those monsters, 
+just like <STR>(FRE)!
+
+## POINTER 10
+
+<VOICE>(VS07_511)Yeah!
+
+## POINTER 11
+
+<VOICE>(VS07_512)Yeah!
+
+## POINTER 12
+
+<VOICE>(VS07_513)Yeah!
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS07_514)Even those kids are trying to fight... 
+I hope the barrier is restored soon.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS07_515)Me too.

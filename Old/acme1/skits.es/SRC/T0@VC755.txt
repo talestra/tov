@@ -1,0 +1,22 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1266107238]
+De (RAV) y conseguir información
+
+## POINTER 1 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266502671]
+(YUR)
+Por su aspecto, Barbos debería llamar
+mucho la atención en la ciudad.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297111504]
+(YUR)
+Sería de mucha ayuda si alguien hubiera
+visto adónde se dirigían él y su banda.
+
+## POINTER 3 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266502671]
+(YUR)
+Ahora que lo pienso... me pregunto qué pasó
+con (RAV) en el palacio de Ragou.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267281915]
+(YUR)
+Supongo que se asustó y huyó en cuanto aparecieron
+el jinete del dragón y los Caballeros.

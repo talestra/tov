@@ -1,0 +1,27 @@
+## POINTER 0
+
+<VOICE>(VS53_001)Eureka!!
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS53_002)Oh! <STR>(RIT), <STR>(YUR) is...
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS53_003)It seems like she's blind to everything 
+but her research right now.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS53_004)...I can't really blame the people here 
+for treating her like such a weirdo.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS53_005)She looked so happy. She must 
+have discovered something.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS53_006)I hope so. Let's 
+go and see.

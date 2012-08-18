@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1294858031]
+<STR>(JUD)
+¿Puedo preguntarte algo?
+¿Fortuna Mercantil
+comercia con lanzas?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956861]
+Kaufman
+Sí, pero si quieres vender esa,
+lo mejor será que vayas directamente
+a la tienda en vez de preguntarme a mí.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956861]
+<STR>(JUD)
+No, no quiero venderla. Quería
+saber si podía echar un vistazo
+a las lanzas que te han vendido.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1294858031]
+<STR>(YUR)
+Aún intentas encontrar
+tu lanza, ¿verdad?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1294858031]
+<STR>(JUD)
+...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956861]
+Kaufman
+Al parecer tienes un interés personal,
+pero creo que no nos la han vendido.<PAGE>
+Si cualquiera de nuestros vendedores hubiese
+recibido un objeto valioso, fuera lo que fuera,
+me hubiera enterado.<PAGE>Y no he oído nada...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1294858031]
+<STR>(JUD)
+Ajá...

@@ -1,0 +1,107 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1280493503]
+<STR>(RIT)
+Ese bicho inmundo de Cumore
+es lo más bajo que hay.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(RAV)
+Me pregunto pa qué estará
+intentando pillar a Phaeroh.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(EST_P)
+No lo sé, pero...<PAGE>
+A este paso acabará mandando
+al desierto a todos los adultos
+de este poblado.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(JUD)
+Y cuando ya no quede ninguno,
+supongo que le tocará
+el turno a los niños.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(EST_P)
+¡No, no puedo permitirlo!<PAGE>¡Si hablo con él como miembro
+de la familia imperial!...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1280493503]
+<STR>(JUD)
+¿Te has olvidado ya
+de lo que pasó en Heliord?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(KAR)
+Tiene razón, <STR>(EST_P). Le importó
+cero que fueras la princesa o no.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1280493503]
+<STR>(EST_P)
+...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1280493503]
+<STR>(RIT)
+¿Ayudamos a los habitantes de aquí
+o seguimos con lo nuestro?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1280493503]
+<STR>(EST_P)
+<STR>(RIT)...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1280493503]
+<STR>(JUD)
+¿No querías saber lo que
+quería el entelechia?<PAGE>Si es así, lo que más te conviene
+es olvidar todo este asunto por ahora.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(RIT)
+Me resulta raro coincidir contigo, pero...<PAGE>Creo que ahora mismo deberíamos
+concentrarnos en ver a Belius.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(RIT)
+Además, aunque capturásemos a Cumore, careceríamos
+de la autoridad necesaria para llevarlo a la justicia.<PAGE>Mientras estemos en las mismas, deberíamos
+ir a por aquello que esté a nuestro alcance.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(EST_P)
+¡Si <STR>(FRE) estuviera aquí!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(KAR)
+<STR>(FRE)...
+¿Dónde se habrá metido?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1280493503]
+<STR>(EST_P)
+Ojalá lo supiera...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(RIT)
+Lo siento, <STR>(EST_P)... No es
+que queramos echarte la regañina.<PAGE>A mí también me da arcadas la idea
+de que ese cretino debe de estar
+ahora mismo en su cama tan pancho.<PAGE>Pero...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1280493503]
+<STR>(EST_P)
+<STR>(RIT)Lo comprendo.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1280493503]
+<STR>(JUD)
+Si encerramos a un tipo así,
+volverá a las andadas en cuanto
+ponga un pie fuera de prisión.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(RAV)
+Pos sí. Ya sabéis lo que dicen:
+la muerte es la única
+cura pá la estupidez.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1282962527]
+<STR>(YUR)
+«La muerte es la única cura para la estupidez»...

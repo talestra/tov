@@ -1,0 +1,139 @@
+## POINTER 0
+<STR>(EST_P)
+This is...
+
+## POINTER 1
+<STR>(RIT)
+It looks like it's 
+an aer krene.
+
+## POINTER 2
+<STR>(JUD)
+Wow, who would've thought 
+a natural aer krene 
+would be left here...
+
+## POINTER 3
+<STR>(RAV)
+With that giant rock sealin' it up, it makes 
+sense that nobody'd get inta here until now.
+
+## POINTER 4
+<STR>(KAR)
+What's up, <STR>(YUR)?
+
+## POINTER 5
+<STR>(EST_P)
+You shouldn't get 
+too close...
+
+## POINTER 6
+<STR>(RIT)
+W-wait, let 
+me see that!
+
+## POINTER 7
+<STR>(RIT)
+Aha, just as I thought! It's just 
+like the ones we saw before. The 
+internal geometry is changing.
+
+## POINTER 8
+<STR>(KAR)
+What...what do you think will 
+happen if you use it?
+
+## POINTER 9
+<STR>(RIT)
+Why don't you give it a try?
+
+## POINTER 10
+<STR>(YUR)
+How's this?
+
+## POINTER 11
+<STR>(KAR)
+Whoa...
+The orb's color is different
+from last time...W-what is it?
+
+## POINTER 12
+<STR>(RIT)
+...The difference in color is
+due to an increase in fire attributes..
+
+## POINTER 13
+<STR>(EST_P)
+Fire...I wonder if it could 
+burn anything you wanted.
+
+## POINTER 14
+<STR>(RIT)
+I think...that's probably 
+not the case.<PAGE>It seems beyond the Sorcerer's 
+Ring's capabilities.
+
+## POINTER 15
+<STR>(KAR)
+What was it? The two types 
+of aer are reacting to each 
+other, or something?
+
+## POINTER 16
+<STR>(RIT)
+On a basic level, that's 
+pretty much right.
+
+## POINTER 17
+<STR>(RAV)
+I seeee. So the ring can burn 
+a tree or a vine, since they've 
+got aer runnin' through 'em.
+
+## POINTER 18
+<STR>(RIT)
+Not all material has aer flowing through 
+it, so there are a lot of things the Sorcerer's 
+Ring wouldn't be able to ignite.
+
+## POINTER 19
+<STR>(JUD)
+So depending on what's hit by the 
+blast, some things will break, 
+and other things will burn?
+
+## POINTER 20
+<STR>(YUR)
+I'd think most objects wouldn't 
+even react at all.
+
+## POINTER 21
+<STR>(RIT)
+Yes, that's right.<PAGE>Normally, aer mixes with the 
+surrounding atmosphere, and 
+nothing happens at all.<PAGE>But if you take a mass of aer 
+and collide it with a material 
+that already contains aer...<PAGE>The violence of the sudden confluence 
+of aer can destroy or ignite the 
+original object that was struck.
+
+## POINTER 22
+<STR>(KAR)
+Mmm, that makes sense.
+
+## POINTER 23
+<STR>(YUR)
+That's all a bit too complicated 
+for me to wrap my head around.<PAGE>But at least it's clear that we 
+can put this ring to good use.
+
+## POINTER 24
+<STR>(KAR)
+So you mean...we could use this to burn 
+up walls or trees that are blocking us from 
+getting somewhere we need to go...!
+
+## POINTER 25
+<STR>(YUR)
+Yeah, we can go places 
+we couldn't before...<PAGE>Let's go around and see...!

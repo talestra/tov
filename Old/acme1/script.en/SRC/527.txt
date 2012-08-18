@@ -1,0 +1,45 @@
+## POINTER 0
+<STR>(YUR)
+This place has become
+quite a place, hasn't it?
+
+## POINTER 1
+<STR>(EST_P)
+Has every one evacuated 
+crossing the Blade Drifts?
+
+## POINTER 2
+<STR>(KAR)
+I think they escaped to 
+Tolbyccia, around Torim.
+
+## POINTER 3
+<STR>(JUD)
+Maybe the ships are 
+back in service now.
+
+## POINTER 4
+<STR>(RAV)
+Anyone would think of running
+away under a sky like this.
+
+## POINTER 5
+<STR>(RIT)
+OK, I'm gonna 
+go shopping.
+
+## POINTER 6
+<STR>(EST_P)
+Can I join you?
+
+## POINTER 7
+<STR>(RIT)
+Uh, yes.
+
+## POINTER 8
+<STR>(RIT)
+You all wait up at the inn.
+
+## POINTER 9
+<STR>(YUR)
+OK,

@@ -1,0 +1,336 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1287435048]
+Alexei
+<VOICE>(VS49_038)Increíble. Creía que aquel
+aterrizaje había acabado
+con vosotros.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1285342428]
+<STR>(YUR)
+<VOICE>(VS49_039)Si no hubiésemos
+tenido suerte, quizá
+hubiese sido así.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1285342428]
+<STR>(YUR)
+<VOICE>(VS49_040)Puedes dejarla marchar y
+ahorrarte una paliza o podemos
+acabar contigo. Tú decides.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287435048]
+Alexei
+<VOICE>(VS49_041)Lamento seros un incordio, pero
+digamos que me niego a las dos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1285342428]
+<STR>(YUR)
+<VOICE>(VS49_042)Estaré encantado de decidir por ti.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287435048]
+Alexei
+<VOICE>(VS49_043)La Princesa ha estado espléndida.
+Su poder iguala al de los antiguos
+Hijos de la Luna Llena.<PAGE><VOICE>(VS49_044)Cada persona tiene un papel,
+y ella ha desempeñado
+el suyo de forma encomiable.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1286211291]
+<STR>(YUR)
+<VOICE>(VS49_045)Si ya ha hecho su parte,
+nos la llevamos ahora mismo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1285342428]
+Alexei
+<VOICE>(VS49_046)Como quieras.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1285342428]
+<STR>(JUD)
+<VOICE>(VS49_047)¡<STR>(EST_P)!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1285342428]
+<STR>(YUR)
+<VOICE>(VS49_048)¡¡Eh!!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1285342428]
+<STR>(KAR)
+<VOICE>(VS49_049)¡<STR>(EST_P)! ¡¡Despierta!!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1285342428]
+<STR>(JUD)
+<VOICE>(VS49_050)Un momento. Parece que
+la están controlando.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1287435048]
+Alexei
+<VOICE>(VS49_051)¿Y ahora qué haréis con la
+Princesa? Su poder ha consumido
+por completo su voluntad.<PAGE><VOICE>(VS49_052)Por fin se ha logrado controlar
+su poder gracias a un sistema
+que he implementado.<PAGE><VOICE>(VS49_053)Los blastias que están fuera de
+control deben ser destruidos.
+Deberíais saberlo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1287435048]
+<STR>(RIT)
+<VOICE>(VS49_054)¡No hables de <STR>(EST_P) como si fuese un... objeto!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+Alexei
+<VOICE>(VS49_055)Oh, pero la Princesa ha sido una
+herramienta crucial en mis planes.<PAGE><VOICE>(VS49_056)Y tú también, Schwann. Y como
+has sobrevivido, te volveré a utilizar.
+Vuelve a mí como el títere que eres.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(RAV)
+<VOICE>(VS49_057)Se siente, pero tú mismo
+enterraste vivo a ese pobre tontolaba.
+Soy <STR>(RAV). Encantao.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(YUR)
+<VOICE>(VS49_058)Todo el mundo tiene un papel que desempeñar,
+pero todos tenemos derecho a decidir cuál es.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1285343603]
+Alexei
+<VOICE>(VS49_059)¿Aunque la mayoría vivan
+vidas tan insignificantes y
+rutinarias? Yo creo que no.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1285343603]
+<STR>(KAR)
+<VOICE>(VS49_060)Si han escogido esa vida,
+¿qué más da? ¡Eso es lo que
+significa decidir por ti mismo!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1286211291]
+Alexei
+<VOICE>(VS49_061)Qué lástima. Nunca
+nos pondremos de acuerdo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(YUR)
+<VOICE>(VS49_062)¡¡No!!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(YUR)
+<VOICE>(VS49_063)¡<STR>(EST_P), no lo hagas!
+¡¡Mierda!!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+Alexei
+<VOICE>(VS49_072)Mmm, quizá eso no haya sido suficiente.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1285343603]
+<STR>(EST_P)
+<VOICE>(VS49_073)¡¡Aaaaaaaah!!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1285343603]
+<STR>(YUR)
+<VOICE>(VS49_074)Este... ¡¡aargh!!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+Alexei
+<VOICE>(VS49_075)Gracias a vosotros, esta nueva
+llave que reemplaza la Dein
+Nomos por fin está completa.<PAGE><VOICE>(VS49_076)
+Como muestra de mi gratitud,
+os permitiré ser testigos de
+la fase final de mi plan.<PAGE><VOICE>(VS49_077)¡El despertar del verdadero
+Hijo de la Luna Llena!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(RAV)
+<VOICE>(VS49_078)Ugh... ¿Qué es... eso?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(JUD)
+<VOICE>(VS49_079)Lo vimos... en Myorzo.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+Alexei
+<VOICE>(VS49_080)Jejejé... ¡Jajajajá!
+¡Lo he conseguido!
+¡Por fin lo he hecho!<PAGE><VOICE>(VS49_081)¡Contemplad la mayor
+reliquia de los antiguos!
+¡El santuario eterno de Zaude!<PAGE><VOICE>(VS49_082)¡El blastia supremo que una
+vez destruyó la catástrofe
+que amenazaba nuestro mundo!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1285492772]
+<STR>(RIT)
+<VOICE>(VS49_083)¡¿Eso es un blastia?!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(YUR)
+<VOICE>(VS49_084)Como que te podrías guardar la charla
+para cuando estés a solas.
+Das vergüenza ajena.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+Alexei
+<VOICE>(VS49_085)Me temo que el espectáculo ha acabado.
+Es hora de bajar el telón.<PAGE><VOICE>(VS49_086)Y ahora, Princesa, hazles el
+favor a tus amigos de separarles
+la cabeza del cuerpo.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Lia;time:1285492772]
+<STR>(YUR)
+<VOICE>(VS49_087)¡¡...!! ¡Cabrón!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+Alexei
+<VOICE>(VS49_088)Nada de esto hubiera ocurrido
+si no hubierais insistido
+en venir aquí.<PAGE><VOICE>(VS49_089)Oh, cómo se sentirá la
+pobre chica cuando
+entre en razón... Adiós.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1286211291]
+<STR>(YUR)
+<VOICE>(VS49_090)¡Alexei, maldito cabrón! ¡Espera!
+¡Que vuelvas te digo!<PAGE><VOICE>(VS49_091)¡¡Alexei!!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(RIT)
+<VOICE>(VS49_092)¡<STR>(EST_P), no!...
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1286211291]
+<STR>(YUR)
+<VOICE>(VS49_093)¡¡Aaah!!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:Lia;time:1285492772]
+<STR>(EST_P)
+<VOICE>(VS49_094)Por favor... antes de que hiera
+a más gente... Por favor...
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:Lia;time:1285492772]
+<STR>(EST_P)
+<VOICE>(VS49_095)Mátame.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:xander;time:1286211291]
+<STR>(YUR)
+<VOICE>(VS49_096)Te liberaré...
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:Lia;time:1285492772]
+<STR>(JUD)
+<VOICE>(VS49_097)<STR>(YUR)...
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:Lia;time:1285492772]
+<STR>(RIT)
+<VOICE>(VS49_098)¡<STR>(YUR)!
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:Lia;time:1285492772]
+<STR>(KAR)
+¡<STR>(YUR)!
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485029]
+<STR>(YUR)
+<VOICE>(VS49_113)Uff, uff...
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(EST_P)
+<VOICE>(VS49_114)Ah... Aah...
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:Lia;time:1285492772]
+<STR>(KAR)
+<VOICE>(VS49_115)Lo has conseguido, <STR>(EST_P).
+¡Vuelves a ser tú!
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:Lia;time:1285492772]
+<STR>(RIT)
+<VOICE>(VS49_116)Un momento, ¡el sistema!
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:Lia;time:1285494250]
+<STR>(JUD)
+<VOICE>(VS49_117)¡Estaba restringido
+por la espada de Alexei!
+¡Sin ella...!
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:xander;time:1286211291]
+<STR>(EST_P)
+<VOICE>(VS49_118)Uuh...¡¡Aaaaaaah!!
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(KAR)
+<VOICE>(VS49_119)¡Uaah!
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(YUR)
+<VOICE>(VS49_120)¡Gaah!
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(EST_P)
+<VOICE>(VS49_121)No puedo... ahora no puedo
+pararlo... ¡Chicos, corred!
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(YUR)
+<VOICE>(VS49_122)Tranquila,
+¡no te perderemos!
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(JUD)
+<VOICE>(VS49_123)<STR>(RIT), depende de ti.
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527369]
+<STR>(RIT)
+<VOICE>(VS49_124)Increíble...<PAGE><VOICE>(VS49_125)Está sincronizado con <STR>(EST_P).
+Datos de desactivación de interferencias,
+una fórmula para aislar el aer sobrante...<PAGE><VOICE>(VS49_126)Pero ¿qué podría reemplazar la apátheia?
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:xander;time:1286211291]
+<STR>(YUR)
+<VOICE>(VS49_127)¡¿Qué te parece esta espada?!<PAGE><VOICE>(VS49_128)¡La de Alexei está
+basada en ella, ¿no?!
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:Lia;time:1285494250]
+<STR>(RIT)
+<VOICE>(VS49_129)¡Déjame intentarlo!
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(JUD)
+<VOICE>(VS49_130)Dejadme ayudar.
+Controlaré el flujo de aer.
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:Lia;time:1285494250]
+<STR>(KAR)
+<VOICE>(VS49_131)¡Yo también!
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:xander;time:1286211291]
+<STR>(RAV)
+<VOICE>(VS49_132)Agh. Puñetas, este cuerpo tan inútil...
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:Lia;time:1285494250]
+<STR>(EST_P)
+<VOICE>(VS49_133)Por favor, chicos...
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(YUR)
+<VOICE>(VS49_134)Ya te lo he dicho: no vamos a
+perderte. Cuando Gran Vesperia
+hace algo, lo hacemos bien.
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:memnoch;time:1287437999]
+<STR>(EST_P)
+<VOICE>(VS49_135)Vale...
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:Lia;time:1285494250]
+<STR>(RIT)
+<VOICE>(VS49_136)¡<STR>(YUR)! ¡La espada!
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:Lia;time:1285494250]
+<STR>(YUR)
+<VOICE>(VS49_137)¡Aquí!
+
+## POINTER 65 [t:1;r:1;ru:memnoch;user:Lia;time:1285494250]
+<STR>(KAR)
+<VOICE>(VS49_138)¡¡Genial!!
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:Lia;time:1285494250]
+<STR>(YUR)
+<VOICE>(VS49_139)Bienvenida.
+
+## POINTER 67 [t:1;r:1;ru:memnoch;user:Lia;time:1285495205]
+<STR>(EST_P)
+<VOICE>(VS49_140)Por fin he vuelto.

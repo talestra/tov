@@ -1,0 +1,95 @@
+## POINTER 97
+A traditional home cooked meal. It's difficult
+to get the flavoring just right. Increases Agility.
+
+## POINTER 98
+Agility up (Small, 20 sec.)
+
+## POINTER 99
+Vegetable Stir Fry
+
+## POINTER 100
+A nutritious dish that can be made with any
+kinds of vegetables. Increases Agility greatly.
+
+## POINTER 101
+Agility up (Mid, 10 sec.)
+
+## POINTER 102
+Beef Stew
+
+## POINTER 103
+A savory meal made with chunks of beef and vegetables.
+Increases Agility greatly for a fair amount of time.
+
+## POINTER 104
+Agility up (Mid, 20 sec.)
+
+## POINTER 105
+Soup Noodles
+
+## POINTER 106
+Noodles and stir fried vegetables served in
+a light chicken broth. Increases Agility greatly.
+
+## POINTER 107
+Agility + (Large, 20 sec.)
+
+## POINTER 108
+Sorbet
+
+## POINTER 109
+A frozen and refreshing dessert made with
+fruit juice. Restores some TP.
+
+## POINTER 110
+TP 10%
+
+## POINTER 111
+Pudding
+
+## POINTER 112
+A creamy custard dessert with a rich
+caramel sauce. Restores some TP.
+
+## POINTER 113
+TP 20%
+
+## POINTER 114
+Cake
+
+## POINTER 115
+A sweet treat topped with a big, red
+strawberry. De-lish! Restores moderate amount of TP.
+
+## POINTER 116
+TP 30%
+
+## POINTER 117
+Crepe
+
+## POINTER 118
+A very thin pancake eaten with fresh
+cream and fruit. Restores a moderate amount of TP.
+
+## POINTER 119
+TP 40%
+
+## POINTER 120
+Fruit Parfait
+
+## POINTER 121
+Fruits, ice cream and pudding! Oh my!
+Restores great amount of TP.
+
+## POINTER 122
+TP 50%
+
+## POINTER 123
+Dog Food
+
+## POINTER 124
+Um...dogs seem to find this tasty.
+
+## POINTER 125
+???

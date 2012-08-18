@@ -1,0 +1,197 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287911476]
+
+Uno, due, tre...
+Quattro...<PAGE>No, ¡es demasiado difficile como para
+hacerlo solo! Qué hago, qué hago...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(YUR)
+¿Pe-pero qué?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(RIT)
+Ese tío es la definición de espeluznante.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(RAV)
+Pos sí. ¿Y si
+pasamos de él?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+
+Oh, buon giorno!
+¡Llegáis en un buen momento!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(KAR)
+¿Y a este qué le pasa?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+
+¡Me llamo Sicily! 
+Piacere!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287911476]
+<STR>(EST_P)
+Ah, encantada de conocerlo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(YUR)
+<STR>(EST_P),
+no le animes...
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287911476]
+Sicily
+Tengo que decir que estoy
+teniendo un piccolo problema...
+¿Os importaría ayudarme?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287911476]
+<STR>(RAV)
+¿Eh? ¿Quieres que t'echemos un cable?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287911476]
+<STR>(JUD)
+¿En qué quieres que te ayudemos?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+Sicily
+Verás, signorina, ¡he estado contando
+los pétalos que caen de este árbol! Pero
+es demasiado difficile hacerlo solo...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(YUR)
+Ajá... Ya va siendo
+hora de darnos el piro.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287911476]
+<STR>(JUD)
+Buena idea.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+Sicily
+Aspetta! ¡Per favore,
+esperad! ¿Por qué
+no queréis ayudarme?
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287911476]
+<STR>(RIT)
+Menudo petardo...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1297026979]
+Sicily
+¡Solo necesito alguien que
+me ayude! ¡Incluso ese
+signore me vale! Per favore?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(RAV)
+¡¿Ein?! ¿Yo? ¿Y qué quieres
+decir con «incluso ese signore»?
+¿Qué estás insinuando?
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287911476]
+<STR>(YUR)
+Muy bien, <STR>(RAV).
+Contamos contigo.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287911476]
+<STR>(RIT)
+Sí, y rapidito, ¿vale?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1304526938]
+<STR>(KAR)
+Aún no me he enterado de lo que pasa
+pero, mmmm... ¿buena suerte?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(EST_P)
+Mmmm... ¿Vale?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287911476]
+<STR>(JUD)
+El viejales lo conseguirá.
+¡Es un máquina!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+Sicily
+Bene! Molto bene!
+Bueno, signore,
+¡tú mira por ahí!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(RAV)
+¡U-Un momento!
+Pero si no he dicho
+que vaya a ayud...
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287913917]
+<STR>(JUD)
+Sería mejor que te rindieses
+y aceptases tu destino, viejales.
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287913917]
+<STR>(RIT)
+Eso. Y no tardes mucho, ¿eh?
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287913917]
+<STR>(RAV)
+Urgh...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(RAV)
+¿Cómo acabo metido
+en estos marrones?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(RAV)
+Los... los he contado todos.
+¡De ahí hasta aquí
+hay 97.201 pétalos!
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287913917]
+Sicily
+¡Sí! Sabía que
+habían esos más
+o menos.¡Grazie!
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287913917]
+<STR>(RAV)
+¿Y tó esto pa qué?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+Sicily
+Ooh, signore, ¡no puedo
+decírtelo! ¡Es un secreto!
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287913917]
+<STR>(RAV)
+Un secreto, ¿eh?
+Da igual...
+Me tengo que ir.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+Sicily
+Aspetta, signore!
+¿Cuál es tu nombre?
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287913917]
+<STR>(RAV)
+<STR>(RAV).
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+Sicily
+<STR>(RAV), hoy has hecho un
+buen trabajo. ¡Estoy seguro
+de que tendrás buena suerte!<PAGE>Arrivederci!
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856000]
+<STR>(RAV)
+¿Que tendré buena suerte?
+Pos no estaría ná mal.<PAGE>¡Oye! ¡Acabo... acabo
+de darme cuenta de argo!
+
+## POINTER 39 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287913917]
+<STR>(RAV)
+Soy un tío mu complicao...

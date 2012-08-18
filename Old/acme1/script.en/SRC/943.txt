@@ -1,0 +1,118 @@
+## POINTER 0
+<STR>(YUR)
+Yaaawn!
+
+## POINTER 1
+<STR>(EST_P)
+Good morning!
+
+## POINTER 2
+<STR>(RIT)
+This town's gotten 
+pretty cozy.
+
+## POINTER 3
+<STR>(KAR)
+Good morning, everybody!<PAGE>Huh? Is <STR>(JUD) 
+still asleep?
+
+## POINTER 4
+<STR>(EST_P)
+She wasn't in her room...
+
+## POINTER 5
+<STR>(JUD)
+Oh, good morning, everyone!
+
+## POINTER 6
+Kaufman
+Well, I'll be off. 
+Sorry I couldn't be 
+of any more help.
+
+## POINTER 7
+<STR>(JUD)
+No, not at all. Thanks for your time.
+
+## POINTER 8
+<STR>(RAV)
+Ya had business with the president 
+of Fortune's Market?
+
+## POINTER 9
+<STR>(JUD)
+She just came to give me an update on something 
+I'd asked her about a while ago.
+
+## POINTER 10
+<STR>(YUR)
+Something you asked her about... 
+You mean the spear that was taken 
+from you back in Ghasfarost?
+
+## POINTER 11
+<STR>(JUD)
+Yes.
+
+## POINTER 12
+<STR>(RIT)
+...The spear that you used to 
+destroy all that blastia...<PAGE>So you've been looking for it.
+
+## POINTER 13
+<STR>(RAV)
+That was a pretty nice spear...
+
+## POINTER 14
+<STR>(YUR)
+So, did President Kaufman 
+tell you anything useful?
+
+## POINTER 15
+<STR>(JUD)
+There hasn't been any news, 
+so far as spears out on 
+the market are concerned.<PAGE>So she said it might be a 
+good idea to try to track 
+down the Blood Alliance.
+
+## POINTER 16
+<STR>(KAR)
+The Blood Alliance, eh...
+I wonder if they had another 
+base besides Ghasfarost...
+
+## POINTER 17
+<STR>(EST_P)
+So do you want to look for it?
+
+## POINTER 18
+<STR>(JUD)
+...Nah, that's okay.
+
+## POINTER 19
+<STR>(YUR)
+Really? But you were so 
+intent on finding it.
+
+## POINTER 20
+<STR>(JUD)
+...Yeah. But it's reached the 
+point that it might not be 
+worth the trouble anymore.<PAGE>The Adephagos isn't going 
+to wait for us while we 
+look for it...you know?
+
+## POINTER 21
+<STR>(YUR)
+I see. Well, if you really don't mind, 
+then we don't have to look for it.<PAGE>Anyway, we're all together... 
+Shall we head out?
+
+## POINTER 22
+<STR>(KAR)
+Yeah!
+
+## POINTER 23
+<STR>(JUD)
+......

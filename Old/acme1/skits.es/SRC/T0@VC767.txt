@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1251725625]
+Pasando a ser (EST_P)
+
+## POINTER 1 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266934283]
+(RIT)
+(EST_P), quería preguntarte algo.
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1266109092]
+(EST_P)
+¿Sí, de qué se trat...? ¡Espera!
+
+## POINTER 3 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266934283]
+(RIT)
+¿Qué ocurre?
+
+## POINTER 4 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266934283]
+(EST_P)
+¿Podrías repetir lo que acabas de decir?
+
+## POINTER 5 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266934283]
+(RIT)
+He dicho que quería preguntarte algo.
+
+## POINTER 6 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266934283]
+(EST_P)
+¡No! ¡Antes de eso!
+
+## POINTER 7 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266934283]
+(RIT)
+¿Es... telle?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297113201]
+(EST_P)
+¡Sí! ¡Por fin me has llamado (EST_P)!
+¡Tengo que contárselo a los demás!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297113201]
+(RIT)
+Ah, vale... Je, je...

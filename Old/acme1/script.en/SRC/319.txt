@@ -1,0 +1,51 @@
+## POINTER 0
+<STR>(KAR)
+I feel like my world is 
+crashing down around me.<PAGE>I can't believe Ruins' 
+Gate was secretly selling 
+weapons.<PAGE>And that they were smuggling them 
+illegally out of ruins...
+
+## POINTER 1
+<STR>(YUR)
+...Sometimes you have to have shadow 
+where there's light, I guess.
+
+## POINTER 2
+<STR>(KAR)
+...That's so 
+sad, though.
+
+## POINTER 3
+<STR>(YUR)
+Well, you don't need to worry about 
+those guys. Just keep living your 
+life the way you know is right...<PAGE>And lead Brave Vesperia 
+to victory with pride.
+
+## POINTER 4
+<STR>(KAR)
+Yeah, you're right!<PAGE>Anyway, we need to worry 
+about Phaeroh for now.
+
+## POINTER 5
+<STR>(YUR)
+Yeah, we've finally made it 
+into the desert...it feels 
+like we're almost there.
+
+## POINTER 6
+<STR>(KAR)
+Hey, once we're done with this 
+commission you think we could 
+go back to Dahngrest for a bit?
+
+## POINTER 7
+<STR>(YUR)
+Hmm...let's wait until we've 
+wrapped up our current 
+job to talk about that.
+
+## POINTER 8
+<STR>(KAR)
+Oh, y-yeah, sure.

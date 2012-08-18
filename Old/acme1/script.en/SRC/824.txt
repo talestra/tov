@@ -1,0 +1,35 @@
+## POINTER 0
+
+Hello, hello! Pleased 
+to meet you! Is this 
+your first time here?
+
+## POINTER 1
+<STR>(YUR)
+Yes.
+
+## POINTER 2
+
+In order to enjoy yourself 
+here, you'll need chips. You 
+won't be able to use Gald.<PAGE>You can exchange 
+either Gald or Grades 
+for chips.<PAGE>Since it's your first time, here's a little 
+something on the house, to get you started.
+
+## POINTER 3
+Information
+<STR>(YUR) received
+5 chips.
+
+## POINTER 4
+
+Play lots of games to save 
+up enough chips to exchange 
+them for marvelous prizes!<PAGE>Just talk to the Ant 
+Lion Man next to 
+me for exchanges.
+
+## POINTER 5
+
+Enjoy yourself!

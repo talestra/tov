@@ -1,0 +1,38 @@
+## POINTER 0
+<STR>(YUR)
+What'll you do while 
+we're away?
+
+## POINTER 1
+Tokunaga
+I was thinking of going around 
+and buying some tools for the 
+maintenance of the ship.
+
+## POINTER 2
+<STR>(KAR)
+You're not expecting us to 
+pay for that, are you?
+
+## POINTER 3
+Tokunaga
+Don't worry. Madam President Kaufman is paying 
+for all of the ship's maintenance costs.<PAGE>I'd like to get a new ceres 
+blastia as well, but it's 
+so expensive...
+
+## POINTER 4
+<STR>(RIT)
+Yep, very true. That's due to the 
+Empire's supervision of its sales.
+
+## POINTER 5
+Tokunaga
+Therefore, it's possible 
+I may not be here when 
+you come back.<PAGE>If that's the case, please wait 
+for me to return, would you?
+
+## POINTER 6
+<STR>(KAR)
+Sure thing!

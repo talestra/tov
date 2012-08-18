@@ -1,0 +1,102 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS27_001)So there's Nordopolica.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS27_002)Yep, otherwise known as the Coliseum City.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS27_003)Once popular among the nobility as 
+a place for pitting criminals against 
+each other in brutal contest...<PAGE><VOICE>(VS27_004)...Nordopolica is currently run by 
+the guild Palestralle, and has 
+become a city of entertainment.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS27_005)Yeah, Palestralle's just 
+as big a guild as the Don's 
+Altosk, and...
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS27_006)My, how pretty.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS27_007)So, a party in the streets everyday, 
+huh? This is gonna be great!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS27_008)Since when are you 
+on vacation?
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS27_009)Oh yeah, right... A minion's 
+work is never done.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS27_010)You're the Don's messenger, 
+so don't be rude to Belius!
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS27_011)Young man, you are looking at a 
+veritable paragon of manners and 
+good breeding. Nya hah hah hah.
+
+## POINTER 10
+Kaufman
+<VOICE>(VS27_012)We've arrived safely, 
+thanks to you all.<PAGE><VOICE>(VS27_013)Once I've unloaded my 
+cargo, the Fiertia belongs 
+to you, as promised.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS27_014)Thanks! We'll take 
+good care of her.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS27_015)So are the Sands of Kogorh 
+still a long way from here?
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS27_016)They lie far to the 
+west of Nordopolica.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS27_017)Aren't there some big 
+mountains on the way there?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS27_018)That'd make going by foot 
+a problem. Wonder if we 
+could get there by boat.
+
+## POINTER 16
+<STR>(JUD)
+<VOICE>(VS27_019)I don't think that's possible.<PAGE><VOICE>(VS27_020)Not many people go to the 
+desert. I doubt there would 
+be a place to moor a boat.
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS27_021)Are you seriously going through 
+with this? I told you, the desert 
+is really dangerous.<PAGE><VOICE>(VS27_022)I can't just let you go 
+to a place like that all 
+by your... I-I mean...!
+
+## POINTER 18
+Tokunaga
+<VOICE>(VS27_023)Dropping anchor.

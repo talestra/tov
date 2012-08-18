@@ -1,0 +1,78 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252500213]
+¡Comamos de una vez!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983546]
+(KAR)
+¡Qué... hambre... tengo!
+¡La vamos a palmar de inanición!
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265585487]
+(JUD)
+Guarda energías, (KAR).
+Solo conseguirás tener más hambre aún.
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265585360]
+(EST_P)
+El hambre es tan maestra que hasta
+a los animales adiestra, (KAR).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983546]
+(KAR)
+¿Y eso qué significa?
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265585360]
+(YUR)
+Significa que el hambre es capaz de hacer
+que la gente se vuelva como animales...
+y acaben atacándose unos a otros.
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267300218]
+(RAV)
+Pa mí que no lo has pillao...
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267300218]
+(RAV)
+Aun así, (YUR) y (RIT) parecen
+bastante tranquilos a pesá de
+haber estao un tiempo sin comer.
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266827612]
+(YUR)
+Estoy acostumbrado.
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266827612]
+(RIT)
+Estoy acostumbrada.
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266827612]
+(RAV)
+Ajá...
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266827612]
+(EST_P)
+¡Ah! Hay un delicioso filete
+sobre el lomo de (RAP)...
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266827612]
+(JUD)
+¡Es una trampa! No caigas en la tentación.
+
+## POINTER 13 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266827612]
+(YUR)
+Creo será mejor hacer algo
+al respecto...
+
+## POINTER 14 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266827612]
+(KAR)
+¡(YUR)! ¡(YUR)! ¡He encontrado
+un trozo de pan verde vegetariano
+en mi bolsa! Puedo comérmelo, ¿verdad?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1304553851]
+(YUR)
+Pero ¿qué...? ¡No, (KAR), quieto!
+
+## POINTER 16 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265585441]
+(YUR)
+Esto se está poniendo pero que muy feo.
+¡Comamos algo de una vez!

@@ -1,0 +1,7 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS03_148)There, good as new. Now let's get going.
+
+## POINTER 1
+<STR>(EST)
+<VOICE>(VS03_149)O-okay...!

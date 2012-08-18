@@ -1,0 +1,82 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1275684902]
+<STR>(EST_P)
+Soy incorregible...<PAGE>En cuanto algo atrae mi atención,
+me olvido totalmente de todo lo demás...<PAGE>Pierdo de vista todo
+aquello que tenía
+planeado hacer antes.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328744]
+<STR>(YUR)
+Sí, en eso no te falta razón.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1275684902]
+<STR>(EST_P)
+Me dí cuenta en cuanto
+<STR>(JUD) me llamó la atención.<PAGE>Hasta ahora, lo único que he hecho
+ha sido llevaros de un sitio
+a otro sin ton ni son...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1275684902]
+<STR>(YUR)
+Bueno, podría haber sido peor.<PAGE>¡Si ya fueras emperatriz, no tendrías más
+que chasquear los dedos y toda tu servidumbre
+saldría disparada a complacerte!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328744]
+<STR>(EST_P)
+Sí, mmmm...<PAGE>
+Siento que venir con vosotros
+ha sido la decisión correcta.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1275684902]
+<STR>(YUR)
+¿Ah, sí?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328744]
+<STR>(EST_P)
+He podido ver de todo y más.<PAGE>Todavía no estoy segura de si quiero
+tomar el trono imperial o no, pero...
+<PAGE>Este mundo está lleno de cosas
+que todavía quiero descubrir.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328744]
+<STR>(YUR)
+¿Y Phaeroh es una de ellas?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328744]
+<STR>(EST_P)
+Me da miedo pensar en ello, pero...
+tengo que saber quién soy.<PAGE>Tengo que saber qué quería decir
+con aquello de que soy «el insulso
+veneno de este mundo».
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1275684902]
+<STR>(YUR)
+Parece que te has decidido.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1275684902]
+<STR>(EST_P)
+¿<STR>(YUR)?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1275684902]
+<STR>(YUR)
+¿Sí?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328744]
+<STR>(EST_P)
+Es posible que acabe pidiéndoos
+en otro momento algo que nos desvíe
+de nuestro camino.<PAGE>
+Si ocurre, no te cortes y dímelo bien clarito, ¿vale?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1279377742]
+<STR>(YUR)
+Je, claro. Ese tipo de rasgo de personalidad no es
+de los que resulten fáciles de corregir por uno mismo.
+<PAGE>Aunque hay otro tío que también es muy testarudo,
+así que nos desahogaremos cebándonos con él.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328869]
+<STR>(EST_P)
+En fin, voy a volver
+al posada. Hasta luego.

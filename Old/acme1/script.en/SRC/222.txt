@@ -1,0 +1,26 @@
+## POINTER 0
+<STR>(FRE)
+Stop! All of you, sheathe 
+your blades! Sheathe them!
+
+## POINTER 1
+<STR>(FRE)
+I am <STR>(FRE) Scifo of the Imperial 
+Knights. I have come bearing a 
+letter from Master Ioder!
+
+## POINTER 2
+<STR>(FRE)
+The letter you received from the empire 
+was false! It was the work of a rebel! 
+Draw back your armies at once!
+
+## POINTER 3
+Don Whitehorse
+I thought you weren't 
+coming back.
+
+## POINTER 4
+<STR>(FRE)
+And leave <STR>(YUR) behind to take the fall 
+for me? I wouldn't dream of it.

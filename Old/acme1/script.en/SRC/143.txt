@@ -1,0 +1,127 @@
+## POINTER 0
+<STR>(EST_P)
+...So <STR>(FRE) wasn't 
+in there, either.
+
+## POINTER 1
+<STR>(RIT)
+So who is this knight, exactly?
+
+## POINTER 2
+<STR>(EST_P)
+He's <STR>(YUR)'s friend.
+
+## POINTER 3
+<STR>(RIT)
+Hmmm, "your" friend? 
+That must be a pain.
+
+## POINTER 4
+<STR>(YUR)
+Huh?
+
+## POINTER 5
+<STR>(RIT)
+Never mind. So 
+what brings him 
+to this town?
+
+## POINTER 6
+<STR>(EST_P)
+He was looking for a mage to repair 
+Halure's barrier blastia...
+
+## POINTER 7
+<STR>(RIT)
+Ohh...that rookie... He 
+came to see me, too.
+
+## POINTER 8
+<STR>(EST_P)
+<STR>(FRE) did? Was he all right?
+
+## POINTER 9
+<STR>(RIT)
+Yeah, I guess.
+
+## POINTER 10
+<STR>(KAR)
+You guess?
+
+## POINTER 11
+<STR>(RIT)
+Since he's a knight, I'm sure he got 
+some mage or another to help. Maybe 
+he's already back in Halure?
+
+## POINTER 12
+<STR>(EST_P)
+...Oh, no...
+
+## POINTER 13
+<STR>(RIT)
+Well? Do you trust me yet?
+
+## POINTER 14
+<STR>(EST_P)
+I don't think <STR>(RIT)'s the 
+sort of person to steal.
+
+## POINTER 15
+<STR>(YUR)
+Vouch for her character all you like, 
+but that doesn't prove her innocence.
+
+## POINTER 16
+<STR>(EST_P)
+But...!
+
+## POINTER 17
+<STR>(RIT)
+Don't bother trying to make him believe
+me. But, I really didn't do it, y'know.
+
+## POINTER 18
+<STR>(YUR)
+Hmph. Well, I guess research seems 
+to fit you better than robbery.
+
+## POINTER 19
+<STR>(EST_P)
+<STR>(YUR) isn't very good at expressing his feelings.
+
+## POINTER 20
+<STR>(RIT)
+...What a weirdo.
+
+## POINTER 21
+<STR>(RIT)
+I'm going to go let the city guards
+know about what happened. 
+Go and wait for me in my lab.
+
+## POINTER 22
+<STR>(YUR)
+I don't think those stubborn 
+guards will let us pass through 
+the entrance.
+
+## POINTER 23
+<STR>(RIT)
+True. Then take 
+this with you.
+
+## POINTER 24
+<STR>(RIT)
+Show this to the guard and 
+they should let you through.
+
+## POINTER 25
+<STR>(YUR)
+Thanks.
+
+## POINTER 26
+<STR>(RIT)
+Got it? Don't leave town 
+without my permission 
+or you'll be sorry!

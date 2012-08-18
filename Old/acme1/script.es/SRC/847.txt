@@ -1,0 +1,150 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296756093]
+<STR>(KAR)
+Guau...
+¡Ha cambiado totalmente!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294767127]
+<STR>(EST_P)
+¡Han dejado el
+pueblo precioso!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296753692]
+<STR>(RAV)
+Me alegra de
+haberlos ayudao.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294767127]
+<STR>(JUD)
+La gente del pueblo parece
+tener un brillo especial
+en la mirada, ¿no os parece?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296756093]
+<STR>(YUR)
+¡Sí, porque han superado todas las
+adversidades y han terminado el pueblo!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1294767127]
+<STR>(RIT)
+Se sentirán muy satisfechos
+con este logro.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682460]
+Aguerón
+¡Eh, <STR>(YUR)! ¿Qué te
+parece ahora el pueblo?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294767127]
+<STR>(YUR)
+¡Está impresionante!
+Ahora el pueblo podrá
+valerse por sí mismo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682460]
+Aguerón
+Y todo gracias a ti y
+a tus amigos, <STR>(YUR).
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294767409]
+<STR>(RAV)
+Anda, anda... Si esto
+es er pan de cada día
+der viejo <STR>(RAV).
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1294767409]
+<STR>(RIT)
+¿Acaso has hecho algo
+remotamente útil?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1294767409]
+<STR>(FRE)
+¡Eh, <STR>(YUR)!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296756093]
+<STR>(YUR)
+Buenas, <STR>(FRE). Parece que
+has estado ocupado por aquí.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1294767600]
+<STR>(FRE)
+¡Le dijo la sartén al cazo!<PAGE>He oído lo que ha pasado...
+Parece que has ayudado mucho al pueblo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682460]
+Aguerón
+Perdona, <STR>(YUR). Pensé
+que lo acabaría sabiendo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1294767600]
+<STR>(YUR)
+Oye, que no es que quisiera
+mantenerlo en secreto ni nada.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1294768044]
+<STR>(FRE)
+Parece que cada vez que necesito ayuda,
+allí estás tú para echarme una mano, <STR>(YUR).
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1294768044]
+<STR>(YUR)
+Yo solo no.
+Todos han ayudado.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1294768044]
+<STR>(FRE)
+Sí, exacto. De parte de nuestro pueblo,
+quisiera daros las gracias a todos,
+desde lo más hondo de nuestros corazones.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296756093]
+<STR>(EST_P)
+No hay de qué, <STR>(FRE). Has hecho
+lo que has podido. Era nuestra
+oportunidad de hacer lo mismo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:kaene;time:1294768044]
+<STR>(KAR)
+Eso te lo ha enseñado
+<STR>(YUR), ¿a que sí?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:kaene;time:1294768044]
+<STR>(FRE)
+<STR>(YUR), quédate esto
+como señal de mi gratitud.
+¿Lo aceptas?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:kaene;time:1294768044]
+<STR>(YUR)
+Nah, no lo quiero.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1296756093]
+<STR>(JUD)
+Venga, ¿por qué no?<PAGE>Los regalos son
+la expresión física
+de las emociones.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:kaene;time:1294768044]
+<STR>(RAV)
+Tiene razón, chaval.
+Acéptalo y ya está.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:kaene;time:1294768044]
+<STR>(FRE)
+No sé si os será útil o no,
+pero usadlo si queréis.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1296756093]
+<STR>(EST_P)
+Sin duda nos vendrá muy bien.
+¿A que sí, <STR>(YUR)?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:kaene;time:1294768044]
+<STR>(YUR)
+Mmm, sí, claro.
+Me aseguraré de
+darle un buen uso.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:kaene;time:1294768044]
+<STR>(EST_P)
+¡Qué bien que hayas aceptado algo
+con gentileza por una vez, <STR>(YUR)!

@@ -1,0 +1,242 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(EST_P)
+<VOICE>(VS40_037)¿De verdad creéis que
+podemos entrar sin más?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(RIT)
+<VOICE>(VS40_038)Él mismo nos ha dicho
+que lo esperásemos aquí.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(KAR)
+<VOICE>(VS40_039)Supongo que los krityanos
+son diferentes de verdad.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(RAV)
+<VOICE>(VS40_040)Ta claro que no tienen
+ninguna prisa por hacer
+las cosas.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(JUD)
+<VOICE>(VS40_041)Lo sé. Es gente la mar
+de rara, ¿verdad?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(KAR)
+<VOICE>(VS40_042)A decir verdad, tú también
+eres un poco así, <STR>(JUD).
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(JUD)
+<VOICE>(VS40_043)Qué raro. A mí no me
+lo parece en absoluto.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_044)Ah, aquí estáis.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(EST_P)
+<VOICE>(VS40_045)B-Bienvenido.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_046)Os he hecho esperar.
+Ahora, venid por aquí,
+si sois tan amables.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(YUR)
+<VOICE>(VS40_047)¿...?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_048)Así es como se transmiten
+las tradiciones de Myorzo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(RAV)
+<VOICE>(VS40_049)Pero, esto... Si es una paré.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_050)<STR>(JUD), usa el nageeg 
+mientras tocas la pared
+y repite estas palabras:<PAGE><VOICE>(VS40_051)«Ciudad de los sueños envuelta
+en la neblina, amplía la realidad».
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(JUD)
+<VOICE>(VS40_052)¿«Ciudad de los sueños envuelta
+en la neblina, amplía la realidad»?...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(RIT)
+<VOICE>(VS40_053)¿Qué está pasando?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_054)
+Los krityanos poseemos un antiguo poder
+conocido como «nageeg», capaz de revelar
+la historia oculta en los objetos.<PAGE><VOICE>(VS40_055)Estos murales aparecen solo
+cuando este poder se une
+al encantamiento adecuado.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(KAR)
+<VOICE>(VS40_056)E-Esta pintura da un poco de mal rollo.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(JUD)
+<VOICE>(VS40_057)Los krityanos. Senescales de la sabiduría,
+fundadores de los poderosos geraios,
+antiguos sabios.<PAGE><VOICE>(VS40_058)Nuestro mal logrado saber solo
+ha acarreado las semillas del desastre.<PAGE><VOICE>(VS40_059)Los blastias que creamos fueron
+una bendición, mas también emponzoñaron
+el aer, fuente de la vida de este mundo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(EST_P)
+<VOICE>(VS40_060)Entonces <STR>(RIT) estaba
+en lo cierto. Ya existieron
+distorsiones en el aer en el pasado.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(YUR)
+<VOICE>(VS40_061)¿Creéis que esto representa
+una de esas distorsiones?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(KAR)
+<VOICE>(VS40_062)Más bien parece que el
+aer esté intentando...
+engullir el planeta.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_063)Mmm. Se dice que una gran masa
+de aer amenazaba con devorar
+el mundo entero.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(JUD)
+<VOICE>(VS40_064)La ponzoña se hizo más fuerte,
+y trajo consigo el cataclismo.<PAGE><VOICE>(VS40_065)En nuestro horror,
+le dimos un nombre al
+cataclismo: el adephagos.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(EST_P)
+<VOICE>(VS40_066)El adephagos...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(JUD)
+<VOICE>(VS40_067)El mundo se unió para desafiar
+al adephagos, y destruyeron el
+inmundo poder que le dio origen.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(RIT)
+<VOICE>(VS40_068)Oye, ¿estos de aquí
+no son los entelechia?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(RAV)
+<VOICE>(VS40_069)Parece como si los monstruos
+y los humanos pelearan juntos
+contra argo.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_070)Aunque la civilización geraios halló
+su perdición, el adephagos fue
+finalmente aplacado.<PAGE><VOICE>(VS40_071)El que estemos hoy aquí
+es prueba más que
+concluyente de ello.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(RIT)
+<VOICE>(VS40_072)Entonces, ¿esta pintura muestra
+cómo se sometió al adephagos?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(KAR)
+<VOICE>(VS40_073)Oye, ¿qué es lo que pone aquí al final?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(YUR)
+<VOICE>(VS40_074)¿<STR>(JUD_P)?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(JUD)
+<VOICE>(VS40_075)Atendiendo las oraciones del mundo,
+la vida abandonó al Hijo de la Luna Llena.
+El adephagos desapareció en el vacío.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:Lia;time:1283449584]
+<STR>(YUR)
+<VOICE>(VS40_076)¡¿Qué?!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(EST_P)
+<VOICE>(VS40_077)Las oraciones del mundo...
+La vida abandonó a los
+Hijos de la Luna Llena...
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(JUD)
+<VOICE>(VS40_078)Nuestro mundo perduró, mas la historia
+permanecerá aquí para que las generaciones
+venideras sepan de nuestros pecados.<PAGE><VOICE>(VS40_079)Año 240 de la era Asule.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(RIT)
+<VOICE>(VS40_080)¿Qué se supone que quiere decir eso?
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_081)No hay más explicación del
+significado de estas frases.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_082)Nuestros ancestros crearon los blastias,
+que terminaron conllevando la caída
+de toda su civilización.<PAGE><VOICE>(VS40_083)Entonces decidieron abandonar
+los blastias y el contacto
+con el mundo exterior.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(KAR)
+<VOICE>(VS40_084)¡<STR>(EST_P)!
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:Lia;time:1283449584]
+<STR>(YUR)
+<VOICE>(VS40_085)Déjala.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_086)Este es el legado
+de Myorzo.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(YUR)
+<VOICE>(VS40_087)Gracias. Nos has dado
+mucho en que pensar.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_088)¿Sabéis qué más es útil? Existe
+un pepino mágico que convierte
+cualquier plato en un manjar...
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<STR>(JUD)
+<VOICE>(VS40_089)Creo que pasamos. ¿Te importa
+que nos quedamos a descansar
+en alguna parte?<PAGE><VOICE>(VS40_090)Me parece que tendremos
+que andar por aquí hasta
+que nuestra amiga se calme.
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855629]
+<VOICE>(VS40_091)Mmpf.<PAGE><VOICE>(VS40_092)Podéis usar la casa
+de al lado. Ahora
+mismo nadie vive allí.
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:xander;time:1283392188]
+<STR>(JUD)
+<VOICE>(VS40_093)Gracias. Muy bien,
+vamos allá.

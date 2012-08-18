@@ -1,0 +1,115 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162303]
+Leblanc
+¡E-El de ahí! Te ha llegado la...<PAGE>Oh, un momento...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162303]
+Adecor
+Estamos llevando a cabo un secreto;
+¡una misión secreta, proclamo!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581925]
+Boccos
+¡Adecor! ¡Nuestras investigaciones
+sobre la actividad anti imperial
+son estrictamente confidenciales!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162303]
+<STR>(YUR)
+Tal vez quieras darles un repaso a tus chicos
+de lo que significa la palabra «secreto».
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1284890202]
+Leblanc
+¡Idiotas!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581852]
+Adecor
+Perdonadme, proclamo, ¡perdonadme, señor!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1284890202]
+Boccos
+¡Mis disculpas, señor!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1284890202]
+Leblanc
+¿Qué he hecho para merecer esto?...
+¡Como podéis ver, no tengo tiempo
+para charlar con gente como vosotros!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1284890202]
+<STR>(RAV)
+¿Qué pasa? ¿Los extremistas
+jorobándoos otra vez?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162303]
+Leblanc
+¡Sí, señor, capitán <STR>(RAV), SEÑOR!
+¡Están causando más daños que antes!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581925]
+Adecor
+¡Nos han informado
+de que se han huido
+por los barrios bajos!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1284890202]
+<STR>(RAV)
+Estoy seguro de que lo conseguiréis.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1284890202]
+<STR>(EST_P)
+Buena suerte.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243580]
+Boccos
+¡Jamás imaginé que recibiríamos los elogios
+de la princesa y el capitán en persona!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1284890202]
+Leblanc
+¡Mil gracias por esta gentil amabilidad!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1284890202]
+<STR>(YUR)
+Los extremistas, ¿eh? Esos son los tíos que
+colocan bombas, hieren a la gente y ponen
+a la ciudad en general en estado de pánico, ¿no?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162303]
+<STR>(RAV)
+Los mismos. Hacía tiempo que no sabíamos
+ná d'ellos, pero parece qu'an vuelto
+a las andadas.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162303]
+<STR>(EST_P)
+¿De verdad hay gente
+que hace tales cosas?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162303]
+<STR>(YUR)
+Sí. Entiendo que no estén contentos
+con el Imperio, pero no tienen derecho
+a involucrar a gente inocente.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162303]
+<STR>(RAV)
+Son un grupo muy desorganizado,
+no como los gremios.
+Los resentíos suelen ser así.<PAGE>Es chungo hacer que paren
+d'una vez por todas.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1292162303]
+<STR>(JUD)
+Pero nosotros no tenemos
+ninguna pista. ¿Y si se
+lo dejamos a los Caballeros?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1284890202]
+<STR>(RAV)
+Qué remedio.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581947]
+Leblanc
+¡Puede contar con nosotros,
+Su Alteza! ¡Señor!

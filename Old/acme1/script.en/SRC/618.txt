@@ -1,0 +1,60 @@
+## POINTER 0
+
+Darn it. I'm in a real pickle now...
+
+## POINTER 1
+
+You got a look at them, though, didn't 
+you? The one that stole the boat...
+
+## POINTER 2
+
+Oh I saw 'im all right. He was carryin' 
+this big ol' black bag, and 
+he was dressed like a butler.
+
+## POINTER 3
+
+Well, why didn't you get another boat, 
+and take off after him, then?<PAGE>Oh phooey, you're just hopeless...
+
+## POINTER 4
+<STR>(EST_P)
+Someone dressed like a butler... 
+Could it be Sebastian?
+
+## POINTER 5
+<STR>(RAV)
+Looks like he got out onto the ocean.
+
+## POINTER 6
+<STR>(RIT)
+Yeah, but where exactly? The ocean's a 
+pretty good hiding place. It's huge!
+
+## POINTER 7
+<STR>(JUD)
+That's right. I wonder if we'll be able to find him.
+
+## POINTER 8
+<STR>(KAR)
+We're always one step behind him...
+
+## POINTER 9
+<STR>(RAV)
+Who knew lookin' for old Nobi's little 
+manual was gonna be this tough...?
+
+## POINTER 10
+<STR>(RIT)
+For real... If only he'd just 
+stay put for a while.
+
+## POINTER 11
+<STR>(YUR)
+It might not get us anywhere, but we'd better set 
+sail and see if we can't find this boat he's taken.
+
+## POINTER 12
+<STR>(EST_P)
+Yes, I agree.

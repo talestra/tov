@@ -1,0 +1,168 @@
+## POINTER 0
+Sicily
+Buon giornooo!
+
+## POINTER 1
+<STR>(RAV)
+Just as I thought... 
+We meet again...
+
+## POINTER 2
+<STR>(JUD)
+Heh heh... He looks like 
+he's cheered up a bit.
+
+## POINTER 3
+<STR>(RAV)
+Yeah, maybe he has.
+
+## POINTER 4
+<STR>(EST_P)
+It looks like he's got 
+something...with him?
+
+## POINTER 5
+Sicily
+Guarda! Havva look at this! 
+It's my masterpiece!
+
+## POINTER 6
+Barrelow X
+I am Barrelow X, jarnk! 
+I am Professor 
+Sicily's helper, jarnk!
+
+## POINTER 7
+<STR>(RIT)
+What the...?
+
+## POINTER 8
+<STR>(YUR)
+It looks just like <STR>(KAR)...
+
+## POINTER 9
+Sicily
+Pretty cool, eh?
+
+## POINTER 10
+Barrelow X
+Pretty cool, huh? 
+JAAARNK!
+
+## POINTER 11
+<STR>(RIT)
+I-is this a blastia? 
+It looks like a toy...
+
+## POINTER 12
+Barrelow X
+A t-toy?! You 
+take that back!<PAGE>Professor Sicily! 
+Say something, 
+please! Jarnk!
+
+## POINTER 13
+Sicily
+Hmmm, well, si, you are 
+pretty much just a toy...
+
+## POINTER 14
+Barrelow X
+Big shock!! Jaaarnk!
+
+## POINTER 15
+Sicily
+In verita, I was thinking 
+that I might give this toy 
+to you, my kind amici...
+
+## POINTER 16
+Barrelow X
+B-bigger shock!!
+
+## POINTER 17
+<STR>(RIT)
+He's fully autonomous, right...? 
+I just can't feel the same way about 
+him as I do with other blastia...
+
+## POINTER 18
+<STR>(YUR)
+So that can happen 
+to even you, <STR>(RIT)...
+
+## POINTER 19
+<STR>(RIT)
+I'm sorry! I don't want him! 
+I mean, well maybe...<PAGE>No, I'm sorry, I can't! 
+I can't take him!
+
+## POINTER 20
+Barrelow X
+Shock...!!
+...I-i-impossible...!!
+
+## POINTER 21
+<STR>(YUR)
+He ran away...
+
+## POINTER 22
+<STR>(EST_P)
+You don't think we should 
+go after him...?
+
+## POINTER 23
+Sicily
+My amici...you 
+all are very 
+unique people!
+
+## POINTER 24
+<STR>(YUR)
+He's not paying attention...
+
+## POINTER 25
+<STR>(RAV)
+I think ya got us beat in 
+the uniqueness category...
+
+## POINTER 26
+Sicily
+Un cane! You have a dog! Signor 
+Dog, do you fight, too?
+
+## POINTER 27
+<STR>(RAP)
+Woof!
+
+## POINTER 28
+Barrelow X
+Y-you don't care 
+about me anymore! 
+Big shock!!
+
+## POINTER 29
+<STR>(KAR)
+Come on, we should 
+follow him!
+
+## POINTER 30
+Sicily
+Che cosa? Follow who?
+
+## POINTER 31
+<STR>(KAR)
+Barrelow X!
+
+## POINTER 32
+Sicily
+Oh yes? Si, si, I see. I'll 
+stay here and relax.
+
+## POINTER 33
+<STR>(KAR)
+Let's go!
+
+## POINTER 34
+<STR>(YUR)
+Y-yeah...

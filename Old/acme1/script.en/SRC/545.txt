@@ -1,0 +1,172 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS64_072)So are you going to tell me why you're so serious?
+
+## POINTER 1
+<STR>(FRE)
+<VOICE>(VS64_073)Are you just going to go like this?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS64_074)Huh?
+
+## POINTER 3
+<STR>(FRE)
+<VOICE>(VS64_075)The people who command 
+the entire world are 
+gathered here.<PAGE><VOICE>(VS64_076)Now's the time to tell 
+them all you've done.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS64_077)Not this again...
+
+## POINTER 5
+<STR>(FRE)
+<VOICE>(VS64_078)Half of my achievements-or
+more-are really yours...
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS64_079)So what? It doesn't 
+matter who did them.
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS64_080)It does. Why do you always choose 
+the option that's bad for you?<PAGE><VOICE>(VS64_081)Why do you try to bear 
+everything by yourself?<PAGE><VOICE>(VS64_082)Do you think I can't take the burden?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS64_083)...You're carrying 
+what I can't.<PAGE><VOICE>(VS64_084)I know I can do what I want 
+only because someone's 
+watching out for me.
+
+## POINTER 9
+<STR>(FRE)
+<VOICE>(VS64_085)But...!
+
+## POINTER 10
+<STR>(FRE)
+<VOICE>(VS64_086)...Forget it. I can't explain. 
+I'll just yell at you again.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS64_087)Heh heh. In that case...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS64_088)Try it like this.
+
+## POINTER 13
+<STR>(FRE)
+<VOICE>(VS64_089)<STR>(YUR)...!
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS64_090)You're not going to beat 
+me in an argument.<PAGE><VOICE>(VS64_091)But you know what you can beat me in...
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS64_092)This.
+
+## POINTER 16
+<STR>(FRE)
+<VOICE>(VS64_094)Yeah... You're 
+right. Just 
+like always.
+
+## POINTER 17
+<STR>(FRE)
+<VOICE>(VS64_095)Everything I feel 
+is in this sword!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS64_096)...Good. Come on!
+
+## POINTER 19
+<STR>(FRE)
+<VOICE>(VS64_097)I can't even win with a sword anymore...
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS64_098)Hah hah hah. 
+Loser.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS64_099)You never go easy on me.
+
+## POINTER 22
+<STR>(FRE)
+<VOICE>(VS64_100)I told you. Everything 
+I feel.
+
+## POINTER 23
+<STR>(FRE)
+<VOICE>(VS64_101)You've gotten better, <STR>(YUR).
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS64_102)...You too.<PAGE><VOICE>(VS64_103)You would've beaten me easy if you 
+were still like when we were kids.
+
+## POINTER 25
+<STR>(FRE)
+<VOICE>(VS64_104)Didn't we swear on our swords when we were 
+kids? We would fight to make people smile.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS64_105)Yeah...<PAGE><VOICE>(VS64_106)Even if we followed different paths.
+
+## POINTER 27
+<STR>(FRE)
+<VOICE>(VS64_107)Even if we bear different burdens.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS64_108)Even if people praised 
+us, or hated us...
+
+## POINTER 29
+<STR>(FRE)
+<VOICE>(VS64_109)The knights and the guilds won't change.<PAGE><VOICE>(VS64_110)Right?
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS64_111)There are places in each of 
+us the other can't reach.
+
+## POINTER 31
+<STR>(FRE)
+<VOICE>(VS64_112)That's why we're not alone.
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS64_113)...
+
+## POINTER 33
+<STR>(FRE)
+<VOICE>(VS64_114)...
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS64_115)Heh.
+
+## POINTER 35
+<STR>(FRE)
+<VOICE>(VS64_116)Hah.
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS64_117)Hah hah hah hah hah hah
+
+## POINTER 37
+<STR>(FRE)
+<VOICE>(VS64_118)Hah hah hah hah hah hah

@@ -1,0 +1,43 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251755848]
+No pareces tú
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116468]
+(EST_P)
+Con esa armadura pareces un Caballero
+de verdad, (YUR). ¡Estás guapísimo!
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266230931]
+(JUD)
+Te están haciendo un cumplido, ¿sabes?
+Sonreír un poco no te va a matar.
+
+## POINTER 3 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944268]
+(YUR)
+Llevar estas pintas no es que
+me vuelva loco, precisamente.
+
+## POINTER 4 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944268]
+(YUR)
+Me trae malos recuerdos de (FRE) partiéndose
+la caja de lo estúpido que parezco con ellas...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116468]
+(KAR)
+Bueno... Creo que lo entiendo...
+¡Es como si... alguien te hubiera disfrazado!
+¡Ja, ja, ja, ja, ja!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116468]
+(EST_P)
+¡No, para nada, (YUR)!
+Está bien que cambies
+tu apariencia habitual.
+
+## POINTER 7 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944268]
+(JUD)
+Aunque (YUR) es bastante diferente
+incluso con una armadura normal.
+
+## POINTER 8 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944268]
+(YUR)
+¡Por esto mismo detesto este uniforme!

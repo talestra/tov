@@ -1,0 +1,312 @@
+## POINTER 566 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263319935]
+Curación
+
+## POINTER 567 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+Cura a un aliado para recuperar algo de HP.
+
+## POINTER 568 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263319935]
+Protección eterna
+
+## POINTER 569 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263319935]
+Efectos de magia protectora que en
+ocasiones duran toda la batalla.
+
+## POINTER 570 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263319935]
+Debilidad eterna
+
+## POINTER 571 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+Efectos de conjuro de debilitamiento que
+en ocasiones duran toda la batalla.
+
+## POINTER 572 [t:1;r:3;ru:memnoch,squallido,parsec;user:Amarintia;time:1263319935]
+Embestida de arte protector
+
+## POINTER 573 [t:1;r:3;ru:memnoch,squallido,parsec;user:memnoch;time:1265313970]
+Capaz de usar ataques de embestida para las artes
+protectoras. Solo con embestidas poderosas.
+
+## POINTER 574 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263321090]
+Voz imitadora
+
+## POINTER 575 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265044948]
+Recita las frases de Yuri al ganar una batalla.
+
+## POINTER 576 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263321090]
+Recuperación crítica
+
+## POINTER 577 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263321090]
+Recupera TP por golpe crítico.
+
+## POINTER 578 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263646031]
+Relax Vital
+
+## POINTER 579 [t:1;r:1;ru:memnoch;user:memnoch;time:1297103267]
+Recupera HP poco a poco por no hacer nada en la batalla.
+
+## POINTER 580 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263321090]
+Absorción conversa
+
+## POINTER 581 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+Posibilidad de absorber el HP y TP restante al
+acabar con los enemigos mediante un conjuro.
+
+## POINTER 582 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263492421]
+Ataque debilitador
+
+## POINTER 583 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+A veces, un aliado de reserva aparece en el campo de batalla
+y usa un tipo de arte debilitador sobre los enemigos.
+
+## POINTER 584 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+Artes de curación
+
+## POINTER 585 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263492368]
+En ocasiones lanza hechizos de curación
+sin consumir TP.
+
+## POINTER 586 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263492368]
+Magia milagrosa
+
+## POINTER 587 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+En ocasiones disminuye la cantidad de TP
+consumido cuando se lanza un hechizo.
+
+## POINTER 588 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263492368]
+Reductor
+
+## POINTER 589 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263492368]
+Disminuye el consumo de TP cuando se usa un
+hechizo de forma consecutiva.
+
+## POINTER 590 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265043301]
+Centro de atención
+
+## POINTER 591 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265043301]
+Recibe EXP adicional por derrotar a un enemigo 
+mientras eres el objetivo del resto.
+
+## POINTER 592 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263494883]
+Balfour
+
+## POINTER 593 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263494883]
+Tras la batalla devuelve la lanza a otra dimensión.
+
+## POINTER 594 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263494883]
+Concentración
+
+## POINTER 595 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263494883]
+Aumenta la concentración por 10.
+
+## POINTER 596 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265043301]
+Apoyo de TP
+
+## POINTER 597 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263494883]
+El consumo de TP de Flynn se divide cuando se
+usan artes básicas cerca de él durante la batalla.
+
+## POINTER 598 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263496459]
+Ira
+
+## POINTER 599 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+Todos los parámetros aumentan cuando un aliado está inconsciente.
+Los parámetros vuelven a la normalidad cuando revive.
+
+## POINTER 600 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+Plus sin artes
+
+## POINTER 601 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263496459]
+Aumenta la EXP ganada por los aliados al terminar
+una batalla sin usar artes básicas o arcanas.
+
+## POINTER 602 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263496459]
+Sin salida
+
+## POINTER 603 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263496459]
+En ocasiones evita que el enemigo se escape.
+
+## POINTER 604 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265043301]
+Apoyo de LIM
+
+## POINTER 605 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265043301]
+Si Flynn no está en el grupo, animará desde fuera 
+del campo de batalla, aumentando la barra de Límite.
+
+## POINTER 606 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263644606]
+Recuperación de HP
+
+## POINTER 607 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263644606]
+Aumenta la cantidad de HP recuperado.
+
+## POINTER 608 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263644606]
+Recuperación de TP
+
+## POINTER 609 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263644606]
+Aumenta la cantidad de TP recuperado.
+
+## POINTER 610 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263644606]
+Renacer
+
+## POINTER 611 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263753427]
+Recupera poco a poco una cantidad de HP igual
+a la mitad del último daño recibido.
+
+## POINTER 612 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263644851]
+Renacer 2
+
+## POINTER 613 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+Recupera poco a poco una cantidad de HP igual
+a un cuarto del daño recibido en el último combo.
+
+## POINTER 614 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263646010]
+Alma milagrosa
+
+## POINTER 615 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263646010]
+En ocasiones recupera TP cuando estás
+en el suelo inconsciente.
+
+## POINTER 616 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263646010]
+Mejora mágica
+
+## POINTER 617 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263646010]
+Aumenta el efecto de los refuerzos mágicos.
+
+## POINTER 618 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263646212]
+Dulces sueños
+
+## POINTER 619 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263646212]
+Recupera HP poco a poco mientras duermes.
+
+## POINTER 620 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263646212]
+Autocuración
+
+## POINTER 621 [t:1;r:3;ru:squallido,parsec,memnoch;user:Amarintia;time:1263646212]
+En ocasiones lanzas hechizos de curación
+mientras recibes daño. 
+
+## POINTER 622 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768003]
+Absorción de espíritu
+
+## POINTER 623 [t:1;r:1;ru:memnoch;user:memnoch;time:1297103267]
+A veces, si recibes un ataque mágico mientras lanzas un hechizo,
+recuperas la cantidad de TP usado para ese hechizo.
+
+## POINTER 624 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263767832]
+Golpe de suerte
+
+## POINTER 625 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1265044948]
+De vez en cuando revive a un caído
+cuando la suerte supera los 100 puntos.
+
+## POINTER 626 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263767832]
+Resurrección
+
+## POINTER 627 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263767832]
+De vez en cuando revive a un caído automáticamente.
+
+## POINTER 628 [t:1;r:1;ru:memnoch;user:memnoch;time:1297103267]
+Lágrima de ángel
+
+## POINTER 629 [t:1;r:1;ru:memnoch;user:memnoch;time:1297103267]
+Revive automáticamente a un caído una vez por batalla.
+
+## POINTER 630 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263767832]
+Solitario
+
+## POINTER 631 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263767832]
+Todos los parámetros aumentan si se lucha solo
+en el campo de batalla.
+
+## POINTER 632 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263767832]
+Perro encantador
+
+## POINTER 633 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263767832]
+Todos los parámetros se incrementan con Repede
+en el grupo activo.
+
+## POINTER 634 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263767832]
+Caballerosidad
+
+## POINTER 635 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263767832]
+Todos los parámetros se incrementan dependiendo
+del número de aliadas en el campo de batalla.
+
+## POINTER 636 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768003]
+Cazador 2
+
+## POINTER 637 [t:1;r:1;ru:memnoch;user:memnoch;time:1297103267]
+Aumenta la experiencia obtenida después de derrotar a un
+enemigo aéreo. (Se aplica a todos los aliados del grupo).
+
+## POINTER 638 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768003]
+Vara
+
+## POINTER 639 [t:1;r:1;ru:memnoch;user:memnoch;time:1297103267]
+Reduce el gasto de TP cuando está equipada una vara.
+
+## POINTER 640 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768003]
+Lanza de la suerte
+
+## POINTER 641 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768003]
+De vez en cuando aumenta la cantidad de experiencia
+obtenida cuando una lanza está equipada.
+
+## POINTER 642 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768171]
+Bonus de Límite
+
+## POINTER 643 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+De vez en cuando se restaura todo el HP
+durante un Límite.
+
+## POINTER 644 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768171]
+Bonus de Límite 2
+
+## POINTER 645 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+De vez en cuando se restaura todo el TP
+durante un Límite.
+
+## POINTER 646 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768171]
+Límite tranquilo
+
+## POINTER 647 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768171]
+Llena la barra de Límite gradualmente
+por no hacer nada en la batalla.
+
+## POINTER 648 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263241962]
+Vacile
+
+## POINTER 649 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768171]
+Vacila con <06>(RTN) para llenar la barra de Límite.
+La acción no se parece a Vacile 2.
+
+## POINTER 650 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768171]
+Vacile 2
+
+## POINTER 651 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768171]
+Vacila con <06>(RTN) para llenar la barra de Límite.
+La acción no se parece a Vacile.
+
+## POINTER 652 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768171]
+Vacile de Límite
+
+## POINTER 653 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768171]
+Vacila durante el Límite para recuperar HP.
+
+## POINTER 654 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768171]
+Vacile de Límite 2
+
+## POINTER 655 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768171]
+Vacila durante el Límite para recuperar TP.
+
+## POINTER 656 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768259]
+Blanco atractivo
+
+## POINTER 657 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267981603]
+Aumenta la posibilidad de ser el objetivo
+de los enemigos al usar Vacile.
+
+## POINTER 658 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768259]
+Tentación
+
+## POINTER 659 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263768259]
+De vez en cuando confunde a un enemigo
+al usar Vacile.

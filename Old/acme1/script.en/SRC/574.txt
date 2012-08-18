@@ -1,0 +1,108 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VA012_036)Are you done? Sorry, I remembered 
+I had to do something...<PAGE><VOICE>(VA012_037)So did you get the payment?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA012_038)Nah, no payment this time.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VA012_039)What! What are you talking 
+about?! How can you not take 
+payment for a guild job?!
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VA012_040)Let's just say this job was a wedding present.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VA012_041)A wedding present... Huh? You 
+mean, Professor Rhianna is...?!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA012_042)Professor...?
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VA012_043)Uh, well, umm...
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VA012_044)You did say that you knew her 
+from a guild you used to be in.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VA012_045)Actually...she was sort of 
+my teacher in the guild...<PAGE><VOICE>(VA012_046)She was famous for being really strict. 
+I know I got my share of beatings...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA012_047)Hmmm, so that's why you didn't 
+come with us to meet her.<PAGE><VOICE>(VA012_048)Well, no biggie.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VA012_049)No...no biggie? Yes biggie!
+You didn't get a payment!
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VA012_050)There is something besides payment 
+that I'd like to settle.
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VA012_051)Huh? What do you mean, <STR>(JUD)?
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VA012_052)So far, we've delivered stuff and found stuff. 
+Two totally different kinds of work.<PAGE><VOICE>(VA012_053)What is Brave Vesperia 
+for? What does this guild 
+I belong to...do?
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VA012_054)She's got a point.<PAGE><VOICE>(VA012_055)What are you doing all this for? 
+Money? You like doing it?<PAGE><VOICE>(VA012_056)Looking at it from the 
+outside, I can't tell 
+what you want to do.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VA012_057)Uhh...well, uh...
+Errr...
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VA012_058)I mean, I'm not a member or 
+anything, so...whatever...
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VA012_059)Okay, let's just say this
+is a trial period while
+we're figuring that out.
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VA012_060)Huh? Y-yeah, okay...
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VA012_061)If we can't come up with an answer right 
+now, we'll just think on it for a while.
+
+## POINTER 20
+<STR>(RAP)
+<VOICE>(VA012_062)*Aggressive bark*
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VA012_063)...Right.

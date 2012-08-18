@@ -1,0 +1,53 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251879768]
+Phaeroh
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297632625]
+(EST_P)
+Tú sabes cómo es Phaeroh, ¿no es así, (JUD)?
+
+## POINTER 2 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266924886]
+(KAR)
+¿De verdad es tan aterrador como parece?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297632625]
+(JUD)
+Veamos... Algunas veces es racional,
+otras veces es emotivo.
+
+## POINTER 4 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266924886]
+(JUD)
+Puede llegar a dar auténtico miedo
+o ser verdaderamente amable.
+
+## POINTER 5 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266924886]
+(RIT)
+Vale, eso no nos ayuda mucho, que digamos.
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1264686560]
+(JUD)
+Una cosa es segura: su poder es extraordinario,
+incluso entre los entelechia.
+
+## POINTER 7 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267434127]
+(RAV)
+Esperemos no acabar como er pobre
+monte Temza cuando lo encontremos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297632625]
+(YUR)
+Si le puede hacer eso a una montaña,
+de nosotros no dejaría ni las cenizas.
+
+## POINTER 9 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266235388]
+(KAR)
+Me gustaría que no bromearais sobre cosas así.
+
+## POINTER 10 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266235388]
+(RIT)
+¿Por qué tenemos que asustarnos antes de llegar
+allí siquiera? Especialmente si es tan fuerte.
+
+## POINTER 11 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266924886]
+(KAR)
+Ojalá pudiera tomármelo tan
+a la ligera como tú y (YUR)...

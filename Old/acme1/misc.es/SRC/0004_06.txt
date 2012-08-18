@@ -1,0 +1,306 @@
+## POINTER 733 [t:1;r:1;ru:memnoch;user:memnoch;time:1297024572]
+Arte modificado: Lanzamiento hacia el enemigo
+en espiral cortante. 
+
+## POINTER 734 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267966190]
+Lanza de luz victoriosa
+
+## POINTER 735 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262525289]
+Arte modificado: Gira en el aire y lánzate en 
+picado hacia el enemigo. 
+
+## POINTER 736 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262525289]
+Glaciar fantasma 
+
+## POINTER 737 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262525289]
+Arte modificado: Cuando hayas caído y el enemigo
+te ataque, haz surgir un glaciar bajo sus pies. 
+
+## POINTER 738 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262525289]
+Perro divino
+
+## POINTER 739 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262525289]
+Arte explosivo: Haz un salto mortal en el aire y 
+golpea muchas veces. 
+
+## POINTER 740 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262525289]
+Perro divino - Inferno
+
+## POINTER 742 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262525289]
+Perro divino - Seísmo
+
+## POINTER 744 [t:1;r:1;ru:memnoch;user:memnoch;time:1297024572]
+Perro divino - Bersérker
+
+## POINTER 746 [t:1;r:3;ru:googol,parsec,memnoch;user:TheWing;time:1263072748]
+Perro divino - Remolino
+
+## POINTER 748 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1254219131]
+¡¡Cuchillada!!
+
+## POINTER 750 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal - ○
+
+## POINTER 752 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal - ↑○
+
+## POINTER 754 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal - ←→○
+
+## POINTER 756 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal - ↓○
+
+## POINTER 758 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal - En salto - ○
+
+## POINTER 760 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal - En salto - ↓○
+
+## POINTER 762 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal secundario - ○
+
+## POINTER 764 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal secundario - ↑○
+
+## POINTER 766 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal secundario - ←→○
+
+## POINTER 768 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal secundario - ↓○
+
+## POINTER 770 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal secundario - En salto - ○
+
+## POINTER 772 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque normal secundario - En salto - ↓○
+
+## POINTER 774 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346034]
+Ataque en movimiento libre
+
+## POINTER 776 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262353090]
+Ataque letal azul
+
+## POINTER 778 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262353090]
+Ataque letal rojo
+
+## POINTER 780 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262353090]
+Ataque letal verde
+
+## POINTER 782 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262368691]
+Colmillo demoníaco
+
+## POINTER 783 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265557617]
+Arte básico: Crea una onda de choque cortante 
+que recorre el suelo.
+
+## POINTER 784 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262368691]
+Tajo del tigre
+
+## POINTER 785 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265557617]
+Arte básico: Taja al enemigo hacia arriba y luego 
+córtalo hacia abajo.
+
+## POINTER 786 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262368691]
+Bestia
+
+## POINTER 787 [t:1;r:1;ru:memnoch;user:memnoch;time:1297024572]
+Arte arcano: Desata la fuerza de un león
+para hacer volar a tu enemigo.
+
+## POINTER 788 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262368691]
+Golpe sónico
+
+## POINTER 789 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262525289]
+Arte básico: una rápida ráfaga de potentes 
+estocadas. 
+
+## POINTER 790 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263082857]
+Lluvia de espadas: Alfa
+
+## POINTER 791 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262525289]
+Arte arcano: Despedaza al enemigo con interminables
+estocadas. 
+
+## POINTER 792 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262368720]
+Primeros auxilios
+
+## POINTER 793 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262368806]
+Habilidad de principiante: Devuelve una pequeña
+cantidad de HP a un aliado.
+
+## POINTER 826 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262368736]
+Límite
+
+## POINTER 828 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262368736]
+Límite
+
+## POINTER 848 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262290743]
+Combo 1 (combo de 3 golpes)
+
+## POINTER 850 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262290743]
+Combo 2 (combo de 2 golpes)
+
+## POINTER 852 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262525289]
+Corte oblicuo
+
+## POINTER 854 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Impacto aturdidor
+
+## POINTER 856 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Resplandor del caos 
+
+## POINTER 858 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Diente de sable
+
+## POINTER 860 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Filo letal
+
+## POINTER 862 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Ascensión de dragón
+
+## POINTER 864 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Destrucción celestial 
+
+## POINTER 866 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Lobo carmesí 
+
+## POINTER 868 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Desplome castigador
+
+## POINTER 870 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Halo divino de castigo
+
+## POINTER 872 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Lobo fantasma 
+
+## POINTER 874 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Bestia castigadora 
+
+## POINTER 876 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Haz de luna 
+
+## POINTER 878 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Doblete 
+
+## POINTER 880 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Lanza de luz
+
+## POINTER 882 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Destello
+
+## POINTER 884 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Llama de dragón 
+
+## POINTER 886 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Aullido sangriento
+
+## POINTER 888 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262535100]
+Tempestad
+
+## POINTER 890 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262559211]
+Lluvia sacra
+
+## POINTER 892 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Tiempo cero 
+
+## POINTER 894 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Ejecutor de sentencia
+
+## POINTER 896 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Círculo curativo
+
+## POINTER 898 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262535100]
+Meteoritos
+
+## POINTER 900 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262535100]
+Gran Vesperia
+
+## POINTER 902 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262535100]
+Gran Vesperia
+
+## POINTER 904 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262535100]
+Big Bang
+
+## POINTER 906 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267966443]
+Combo cercano 1 (combo de 3 golpes)
+
+## POINTER 908 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267966443]
+Combo de media distancia 1 (combo de 3 golpes)
+
+## POINTER 910 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267966443]
+Combo cercano 2 (combo de 2 golpes)
+
+## POINTER 912 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267966443]
+Combo de media distancia 2 (combo de 2 golpes)
+
+## POINTER 914 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Ataque cercano (1 golpe)
+
+## POINTER 916 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Ataque de media distancia (1 golpe)
+
+## POINTER 918 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263083025]
+Viento enfermizo
+
+## POINTER 920 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Dragón resplandeciente
+
+## POINTER 922 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1264968335]
+Tañido del Apocalipsis
+
+## POINTER 924 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1264968335]
+Tañido del Apocalipsis
+
+## POINTER 926 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Hielo guardián
+
+## POINTER 928 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Gusano de sepultura 
+
+## POINTER 930 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Dentellada de hielo 
+
+## POINTER 932 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Bola de fuego
+
+## POINTER 934 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263082467]
+Estallido rocoso
+
+## POINTER 936 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267966443]
+Dolor iracundo
+
+## POINTER 938 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262903433]
+Espada voltaica
+
+## POINTER 940 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262559211]
+Lluvia sacra
+
+## POINTER 942 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262463143]
+Maremoto
+
+## POINTER 944 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262463143]
+Terremoto
+
+## POINTER 946 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1254220544]
+Cataclismo brillante
+
+## POINTER 948 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346066]
+Ataque normal
+
+## POINTER 950 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346066]
+Ataque normal
+
+## POINTER 952 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262346066]
+Ataque normal
+
+## POINTER 954 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Martillo aéreo
+
+## POINTER 956 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Martillo giratorio 
+
+## POINTER 958 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Conmoción cerebral
+
+## POINTER 960 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1262541711]
+Martillo macabro

@@ -1,0 +1,310 @@
+## POINTER 134
+Free Run Attack
+
+## POINTER 136
+Indigo Fatal Strike
+
+## POINTER 138
+Crimson Fatal Strike
+
+## POINTER 140
+Viridian Fatal Strike
+
+## POINTER 142
+Pow Hammer
+
+## POINTER 143
+Base Arte: Throw a pow hammer that knocks
+the enemy silly.
+
+## POINTER 144
+Star Stroke
+
+## POINTER 145
+Base Arte: Send an energy wave along the ground.
+
+## POINTER 146
+Pierce Cluster
+
+## POINTER 147
+Base Arte: Stab and slice an enemy, then
+bounce them off your shield.
+
+## POINTER 148
+Cavalry
+
+## POINTER 149
+Base Arte: Prevent from staggering temporarily.
+
+## POINTER 150
+Dividing Edge
+
+## POINTER 151
+Base Arte: Regain posture after maintaining some
+distance from the enemy and charge at full speed.
+
+## POINTER 152
+Marche Waltz
+
+## POINTER 153
+Base Arte: Continuously slash at the enemy
+while dancing the waltz.
+
+## POINTER 154
+Delight Roll
+
+## POINTER 155
+Arcane Arte: Spin and use your weapon to send
+enemies into the air, while releasing a ray of light.
+
+## POINTER 156
+Ray Sting
+
+## POINTER 157
+Arcane Arte: Knock the enemy's shield into
+the air, then attack with a quick thrust.
+
+## POINTER 158
+Air Divide
+
+## POINTER 159
+Altered Arte: Lunge at the enemy and zig-zag
+across the sky for an upper cut slash.
+
+## POINTER 160
+First Aid
+
+## POINTER 161
+Novice Spell: Restore a small amount of HP
+to one ally.
+
+## POINTER 162
+Recover
+
+## POINTER 163
+Novice Spell: Cure one ally of all Physical Ailments.
+
+## POINTER 164
+Sharpness
+
+## POINTER 165
+Novice Spell: Temporarily increase  <06>(SC1)P. ATK
+of one ally.
+
+## POINTER 166
+Barrier
+
+## POINTER 167
+Novice Spell: Temporarily increase <06>(SC2) P. DEF
+of one ally.
+
+## POINTER 168
+Astion
+
+## POINTER 169
+Novice Spell: Temporarily increase <06>(SC3)M. ATK
+of one ally.
+
+## POINTER 170
+Resist
+
+## POINTER 171
+Novice Spell: Temporarily increase <06>(SC4)M. DEF
+of one ally.
+
+## POINTER 172
+Photon
+
+## POINTER 173
+Novice Spell: Attack enemy with an explosion of light.
+
+## POINTER 174
+Healing Circle
+
+## POINTER 175
+Intermediate Spell: Restore a medium amount
+of HP to allies within range during battle.
+
+## POINTER 176
+Resurrection
+
+## POINTER 177
+Intermediate Spell: Resurrect one KO'ed ally.
+
+## POINTER 178
+Dispel
+
+## POINTER 179
+Intermediate Spell: Cure all allies of any Physical 
+or Magical Ailments.
+
+## POINTER 180
+Angel Ring
+
+## POINTER 181
+Intermediate Spell: Bring forth a ring of light
+to collect all enemies in one area.
+
+## POINTER 182
+Nurse
+
+## POINTER 183
+Intermediate Spell: Summon an angel to restore
+a medium amount of HP to all allies.
+
+## POINTER 184
+Holy Lance
+
+## POINTER 185
+Advanced Spell: Run an enemy through with
+a divine spear.
+
+## POINTER 186
+Revitalize
+
+## POINTER 187
+Advanced Spell: Restore a large amount of HP
+to allies within range during batttle.
+
+## POINTER 188
+Force Field
+
+## POINTER 189
+Advanced Spell: Set up a barrier to protect
+allies within range from enemy attacks.
+
+## POINTER 190
+Variable Hex
+
+## POINTER 191
+Altered Arte: Temporarily raise P. DEF of all
+allies within range.
+
+## POINTER 192
+Resist Field
+
+## POINTER 193
+Altered Arte: Temporarily raise M. DEF of all
+allies within range.
+
+## POINTER 194
+Grand Chariot
+
+## POINTER 195
+Altered Arte: Send seven exploding stars toward
+the enemy for seven consecutive hits.
+
+## POINTER 196
+Revive
+
+## POINTER 197
+Altered Arte: Automatically revive an ally once
+when KO'd in battle.
+
+## POINTER 198
+Regenerate
+
+## POINTER 199
+Altered Arte: Revive all KO'd allies within range.
+
+## POINTER 200
+Nightingale
+
+## POINTER 201
+Altered Arte: Summon a tiny angel to restore
+a large amount of HP to all allies.
+
+## POINTER 202
+Holy Rain
+
+## POINTER 203
+Altered Arte: A divine rain falls upon the earth
+and attacks all creatures related to darkness.
+
+## POINTER 204
+Extreme Stars
+
+## POINTER 205
+Burst Arte: Stab quickly and beautifully like a shooting star.
+
+## POINTER 206
+Star Sign - Flame
+
+## POINTER 208
+Star Sign - Geo
+
+## POINTER 210
+Star Sign - Gale
+
+## POINTER 212
+Star Sign - Aqua
+
+## POINTER 214
+Sacred Penance
+
+## POINTER 216
+Sacred Penance
+
+## POINTER 218
+Pow Hammer Revenge
+
+## POINTER 220
+Auto Medicine
+
+## POINTER 222
+Regular Attack - ○
+
+## POINTER 224
+Regular Attack - ↑○
+
+## POINTER 226
+Regular Attack - ←→○
+
+## POINTER 228
+Regular Attack - ↓○
+
+## POINTER 230
+Regular Attack - Jumping - ○
+
+## POINTER 232
+Regular Attack - Jumping - ↓○
+
+## POINTER 234
+Regular Secondary Attack - ○
+
+## POINTER 236
+Regular Secondary Attack - ↑○
+
+## POINTER 238
+Regular Secondary Attack - ←→○
+
+## POINTER 240
+Regular Secondary Attack - ↓○
+
+## POINTER 242
+Regular Secondary Attack - Jumping - ○
+
+## POINTER 244
+Regular Secondary Attack - Jumping - ↓○
+
+## POINTER 246
+Free Run Attack
+
+## POINTER 248
+Indigo Fatal Strike
+
+## POINTER 250
+Crimson Fatal Strike
+
+## POINTER 252
+Viridian Fatal Strike
+
+## POINTER 254
+Dragon Upper
+
+## POINTER 255
+Base Arte: Swing a heavy weapon to send
+enemies up in to the air.
+
+## POINTER 256
+Destroying Rock

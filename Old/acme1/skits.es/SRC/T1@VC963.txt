@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1254223863]
+La comunicación de (JUD)
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243160]
+(YUR)
+Jamás hubiera imaginado que eras capaz
+de hablar con los entelechia.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243160]
+(JUD)
+Bueno, empleo una técnica krityana para hacerlo.
+Espera... ¿Eso que percibo son celos?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243160]
+(YUR)
+Mmm... Puede.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243160]
+(YUR)
+¿Verdad, (RAP)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243160]
+(RAP)
+¡Guau!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1266398463]
+(EST_P)
+(YUR)... ¿es que quieres hablar con (RAP)?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1266398463]
+(JUD)
+Creo que vosotros dos
+ya os entendéis bastante bien...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243160]
+(YUR)
+Yo ya le tengo cogido el truco,
+pero no sé si él me entiende a mí.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243160]
+(RAP)
+¡Guau! ¡Guau, guau!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243179]
+(JUD)
+Creo que (RAP) piensa lo mismo...

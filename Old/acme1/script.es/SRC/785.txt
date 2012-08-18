@@ -1,0 +1,136 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293628832]
+
+¡Miaaaau!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293628832]
+<STR>(RIT)
+Oh, un gato.
+¡Miau!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817691]
+
+(¿Eres aquel al que llaman Perro Guerrero?).
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817691]
+<STR>(RAP)
+(Es uno de mis nombres. ¿Puedo ayudarte en algo?).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817691]
+
+(¡Hace poco ha llegado a la
+ciudad un perro muy feroz que
+no para de causar problemas!).<PAGE>
+(Está perturbando la paz de los perros
+y los gatos, e incluso la de los humanos.
+¿Podrías encargarte de él, por favor?).
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817691]
+<STR>(RAP)
+(No suelo trabajar de mercenario, pero...).
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817691]
+
+(Hola, minina. ∀).
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817691]
+
+(¡Es él!).
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817691]
+<STR>(RAP)
+(¡Eres tú!).
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817691]
+
+(Oh, ¡mira a quién
+ha traído la gata!).
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817691]
+<STR>(RAP)
+(Atrás, señora).
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+<STR>(RAP)
+(Me he enterado de que andas por la ciudad como
+si fuese tuya, mortificando a sus habitantes).
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+
+(Oh, eso no son más que habladurías.
+Lo único que hago es intentar liberar
+este sitio de esos humanos egoístas).
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+
+(¡En nuestra ciudad los humanos
+y los animales viven en armonía!
+¡Métete en tus asuntos!).
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+
+(Adulando a los humanos,
+¿eh? Qué pena me dais).
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+<STR>(RAP)
+(Adular y llevarse bien
+con ellos no es lo mismo).<PAGE>(Pero tú nunca has sabido
+diferenciarlos, viejo).
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+
+(Nunca aprenderás a cerrar
+esa bocaza. ¿Qué te parece...
+si te la cierro pasa siempre?).
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+
+(Maldición... ¿Cómo has logrado
+derrotarme tan rápido? ¡Ya verás!).
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+
+(Gra-gracias).<PAGE>(Como muestra de agradecimiento,
+los animales de esta ciudad te ayudarán
+a proteger siempre este territorio).
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+<STR>(RAP)
+(Oh...
+Muy amables).
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+
+(Es lo mínimo que podemos hacer después
+de haber echado a ese perro tan terrible).
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+<STR>(KAR)
+¿Eso quiero decir que todo el
+territorio de <STR>(RAP) que
+rodea esta ciudad está a salvo?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+<STR>(YUR)
+Sí, eso creo.
+Qué bien, ¿eh, <STR>(RAP)?
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293646283]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+<STR>(RIT)
+Seguro que los gatos de esta ciudad no quieren
+que pertenezca a alguien parecido a Lobito.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298818251]
+<STR>(EST_P)
+¡Debo admitir que no tenía
+ni idea de que dominaseis
+el idioma canino!
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293646283]
+<STR>(JUD)
+Je, je. Valdría la pena verlo
+si fuese cierto.

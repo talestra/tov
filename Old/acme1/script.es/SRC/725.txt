@@ -1,0 +1,13 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284257306]
+<STR>(KAR)
+Ooooh...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284257264]
+<STR>(KAR)
+¿Eh? ¿Era un sueño?
+Pero qué bonito era...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284257264]
+<STR>(YUR)
+Todos podríamos tener sueños
+bonitos si cerrases el pico.

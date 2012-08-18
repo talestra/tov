@@ -1,0 +1,146 @@
+## POINTER 0
+<STR>(RIT)
+Huh? No one's here...?
+
+## POINTER 1
+Kaufman
+Oh, you're here? I apologize. 
+We've all been so busy, with the 
+world in the state it's in.
+
+## POINTER 2
+<STR>(RIT)
+I brought the ○○○○ 
+and the ○○○○, 
+as you asked.
+
+## POINTER 3
+Kaufman
+Then shall we...
+
+## POINTER 4
+<STR>(RIT)
+Leave it to me!<PAGE>You guys...
+
+## POINTER 5
+<STR>(YUR)
+...can wait right here. We know the drill.
+
+## POINTER 6
+<STR>(RIT)
+Right. Well then...
+
+## POINTER 7
+<STR>(KAR)
+There she goes again... I wonder what 
+she's doing in there, anyway.
+
+## POINTER 8
+<STR>(YUR)
+She's probably fiddling 
+with blastia, right?
+
+## POINTER 9
+<STR>(JUD)
+The things they've been asking us for have 
+all had to do with aer conversion devices.<PAGE>Though it wasn't hard to 
+tell that, from how excited 
+she's been getting.
+
+## POINTER 10
+<STR>(YUR)
+So you noticed, <STR>(JUD_P)? But is it really okay 
+for her to be working on blastia like that?
+
+## POINTER 11
+<STR>(JUD)
+It seems like it's not related 
+to Hermes blastia. It doesn't 
+need to be destroyed.<PAGE>But their cores should still go through spirit conversion, 
+in order to help us beat the Adephagos.
+
+## POINTER 12
+<STR>(EST_P)
+That's a little 
+sad...<PAGE>Even though they know they have destroy them eventually, 
+they're still doing research to improve them...
+
+## POINTER 13
+<STR>(YUR)
+<STR>(RIT) knows that, too. But she'll 
+be obsessed with blastia 
+until the bitter end...<PAGE>No, in her case, it's more a case 
+of love than obsession, I think.
+
+## POINTER 14
+<STR>(EST_P)
+Yes...
+That's definitely 
+what <STR>(RIT) 
+would say.
+
+## POINTER 15
+<STR>(YUR)
+Anyway, it's not useless, right? 
+Whatever they can synthesize will 
+be useful for us in our journey.
+
+## POINTER 16
+<STR>(KAR)
+Oh yeah...
+Yeah, 
+you're right.
+
+## POINTER 17
+<STR>(RIT)
+I'm baaack!!
+
+## POINTER 18
+<STR>(YUR)
+Hey, welcome back.
+
+## POINTER 19
+<STR>(EST_P)
+You must be tired after all that work!
+
+## POINTER 20
+<STR>(RIT)
+???<PAGE>I thought you'd just say "you're 
+late!" and grumble a little. What's 
+with the warm reception?
+
+## POINTER 21
+<STR>(YUR)
+Heh, don't worry about that. 
+More important, how'd 
+it go with the blastia?
+
+## POINTER 22
+<STR>(RIT)
+Who do you think you're talking 
+to? It went perfectly, of course!<PAGE>With my help, the synthesis blastia is 
+now at its full production potential...<PAGE>...W-wait, I mean, uh... Crap, 
+I spilled the beans!
+
+## POINTER 23
+Kaufman
+Heh, don't worry about it, <STR>(RIT).<PAGE>We won't be able to do business 
+using blastia for much longer.<PAGE>As you know, we've been using blastia 
+in our synthesis process.
+
+## POINTER 24
+<STR>(RIT)
+It was a little one that I'd never 
+seen before! I couldn't help but 
+want to take care of it...
+
+## POINTER 25
+Kaufman
+For that synthesis blastia, and 
+for everyone else, I need you all 
+to work hard and do your best!<PAGE>I'm expecting big things 
+from you, Brave Vesperia!
+
+## POINTER 26
+<STR>(KAR)
+Okay! You can count on us!

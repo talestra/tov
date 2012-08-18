@@ -1,0 +1,131 @@
+## POINTER 0
+<STR>(FRE)
+<VOICE>(VS22_031)Doesn't anyone knock anymore?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS22_032)You knew I'd be coming.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS22_033)That outfit...
+
+## POINTER 3
+<STR>(FRE)
+<VOICE>(VS22_034)As of today, I've been assigned 
+the post of captain.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS22_035)So, the birth of the <STR>(FRE) Brigade, huh? 
+Looks like I've been one-upped again.
+
+## POINTER 5
+<STR>(FRE)
+<VOICE>(VS22_036)If that's how you feel, you should 
+come back to the Knights.<PAGE><VOICE>(VS22_037)You'd be able to--
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS22_038)Don't waste your breath.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS22_039)Congratulations on making captain.
+
+## POINTER 8
+<STR>(FRE)
+<VOICE>(VS22_040)Thank you.
+
+## POINTER 9
+<STR>(FRE)
+<VOICE>(VS22_041)You didn't come down here 
+to celebrate my promotion.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS22_042)No, I didn't.
+
+## POINTER 11
+<STR>(FRE)
+<VOICE>(VS22_043)It's Ragou, isn't it.
+
+## POINTER 12
+<STR>(FRE)
+<VOICE>(VS22_044)Appropriating Nor Harbor for his 
+own purposes. Committing 
+treason by his collusion with Barbos.<PAGE><VOICE>(VS22_045)Add to this stealing from the populace and 
+the extermination of even his own people 
+simply because he didn't like them.<PAGE><VOICE>(VS22_046)The people he killed were either 
+fed to monsters or sold to those 
+who will pay money for corpses.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS22_047)Sick bastard...
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS22_048)That he should be able to 
+do those things and not 
+have to answer for them...!<PAGE><VOICE>(VS22_049)The authority of the Council...is far 
+more powerful than I'd imagined...
+
+## POINTER 15
+<STR>(FRE)
+<VOICE>(VS22_050)I thought with this promotion to captain 
+that I'd gotten a bit closer to my goal.<PAGE><VOICE>(VS22_051)But I have to face the fact 
+that the law can't even punish 
+a single person like Ragou.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS22_052)...You know it doesn't end here.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS22_053)You'll climb even higher until 
+you can make the right changes.
+
+## POINTER 18
+<STR>(FRE)
+<VOICE>(VS22_054)True, but many people will continue 
+to suffer in the meantime--needlessly. 
+When I consider that, I...
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS22_055)Don't go flying off the handle 
+and smacking him around.<PAGE><VOICE>(VS22_056)The progress you've made would all be for nothing.
+
+## POINTER 20
+<STR>(FRE)
+<VOICE>(VS22_057)...
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS22_058)If he's above you, you go 
+even higher, and then...
+
+## POINTER 22
+<STR>(FRE)
+<VOICE>(VS22_059)Yes. Someday I'll create a legal order that 
+treats everyone with equality. I have to.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS22_060)Good. And I'll do things 
+my own way.
+
+## POINTER 24
+<STR>(FRE)
+<VOICE>(VS22_061)<STR>(YUR)?
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS22_062)How would you go about punishing 
+the villains that the law can't touch?
+
+## POINTER 26
+<STR>(FRE)
+<VOICE>(VS22_063)I'm still trying to figure that out...

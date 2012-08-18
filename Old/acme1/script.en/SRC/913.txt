@@ -1,0 +1,165 @@
+## POINTER 0
+Hanks
+Oh, <STR>(YUR)! Loitering 
+around as usual, 
+I see.
+
+## POINTER 1
+<STR>(YUR)
+Hey, good to see you 
+too, Old Man. What 
+are you up to?
+
+## POINTER 2
+Hanks
+......
+I didn't want to say 
+this, but I've started preparing 
+for the worst.<PAGE>I thought I'd look at this memento 
+of my wife and reminisce about the 
+good times while I still can...
+
+## POINTER 3
+<STR>(EST_P)
+Wait! The world isn't over 
+yet! We'll do something to save 
+it...just wait and see!
+
+## POINTER 4
+Hanks
+That's quite nice of you to say, but 
+I can't help feeling a little pessimistic 
+when I look up in the sky.
+
+## POINTER 5
+<STR>(YUR)
+So you were talking with your 
+wife about the happy times 
+you had when she was alive?
+
+## POINTER 6
+Hanks
+Laugh at me all you want. I'm 
+not long for this world, <STR>(YUR). 
+I'll be with her soon.
+
+## POINTER 7
+<STR>(YUR)
+I don't know if she'd feel like putting 
+up with you up in heaven, what with 
+the way you're being right now.
+
+## POINTER 8
+<STR>(EST_P)
+Yes! You should cheer 
+up... You're not 
+being yourself!
+
+## POINTER 9
+Hanks
+I'm not being myself?
+
+## POINTER 10
+<STR>(EST_P)
+Everyone in town is always cheered 
+up by your energy and spirit. This 
+goes for me too, of course.<PAGE>But now it hurts 
+to look at you...<PAGE>Look at everyone in the lower quarter! Even though they're having 
+tough times, they're working hard...working for the future! The 
+only way to guarantee that the end will come is to give up now!
+
+## POINTER 11
+<STR>(YUR)
+<STR>(EST_P)'s right, 
+Old Man. You're 
+not yourself.
+
+## POINTER 12
+Hanks
+Heh heh...<PAGE>Fwa hah hah...<PAGE>An old man like myself never 
+expected to receive such a 
+lecture from a young girl.
+
+## POINTER 13
+<STR>(EST_P)
+I'm, I'm sorry!
+
+## POINTER 14
+Hanks
+No, no, I should be the 
+one to apologize. It seems 
+I misunderstood.<PAGE>You know, when you're angry, 
+you sound just like my wife, 
+when she was young.<PAGE>You even look like her, 
+come to think of it.
+
+## POINTER 15
+<STR>(EST_P)
+I do?
+
+## POINTER 16
+Hanks
+Yes, you're her 
+spitting image.
+
+## POINTER 17
+<STR>(YUR)
+Are you sure? You don't 
+think you're exaggerating 
+a bit?
+
+## POINTER 18
+Hanks
+You don't know what you're talking about, boy.<PAGE>That tiara you have looks 
+like one I gave her 
+a long time ago, too.<PAGE>Thank you. You've brought 
+me back to my senses.
+
+## POINTER 19
+<STR>(EST_P)
+Oh, no, not at all! I was 
+just... That is, I like 
+you when you're happy!
+
+## POINTER 20
+Hanks
+What a nice thing to say...<PAGE>Please take this, as my 
+way of saying thanks.
+
+## POINTER 21
+<STR>(EST_P)
+But isn't this the memento 
+of your wife...
+
+## POINTER 22
+Hanks
+I'm sure she would've 
+wanted you 
+to have it.<PAGE>Please, 
+take it.
+
+## POINTER 23
+<STR>(YUR)
+You really don't mind?
+
+## POINTER 24
+Hanks
+Nah, it's okay. 
+I want the young 
+lady to have it.<PAGE>Even if I give away my keepsake 
+of her, the good memories I 
+have won't leave my heart.<PAGE>My memories are all 
+that I need. So please, 
+take this.
+
+## POINTER 25
+<STR>(EST_P)
+I understand. But if you 
+ever want me to give it 
+back, just let me know.<PAGE>I'll take very, very 
+good care of it. 
+Don't worry.
+
+## POINTER 26
+Hanks
+Thank you.

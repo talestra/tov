@@ -1,0 +1,100 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS60_057)<STR>(JUD_P)! What happened?
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS60_058)Wait! That's 
+where Aspio 
+is!
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS60_059)What's going on?!
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS60_060)Aspio... What happened to Aspio...?
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VS60_061)What the hell is that thing?
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS60_062)...Tarqaron.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS60_063)Huh?
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS60_064)The spirits are telling me that's 
+the Tower of Tarqaron.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS60_065)...Duke. It's 
+got to be him.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS60_066)He's going to try to use that 
+against the Adephagos.
+
+## POINTER 10
+
+<VOICE>(VS60_067)Please! Let me through!
+
+## POINTER 11
+
+<VOICE>(VS60_068)You, with the long, black hair. 
+Do you have a moment?!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS60_069)What do you want?
+
+## POINTER 13
+
+<VOICE>(VS60_070)Some people with the knights wanted 
+me to tell them if I saw someone 
+with your appearance.<PAGE><VOICE>(VS60_071)They said they wanted to talk to 
+you about <STR>(FRE), the new Commandant 
+of the Imperial Knights.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS60_072)What?!
+
+## POINTER 15
+
+<VOICE>(VS60_073)I believe you are the right person?
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS60_074)Yeah.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS60_075)Hey, was it a girl with kinda 
+cat-looking eyes and a kid 
+with a head like an apple?
+
+## POINTER 18
+
+<VOICE>(VS60_076)Huh? Oh...yes, I suppose so.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS60_077)...
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS60_078)So can I wait at the Inn?
+
+## POINTER 21
+
+<VOICE>(VS60_079)Yes. That's fine. 
+I'll call them.

@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272918019]
+<STR>(KAR)
+¡<STR>(EST_P)!
+¡No te has ido!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272918019]
+<STR>(EST_P)
+No, no lo he hecho.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272918019]
+<STR>(FRE)
+Aún pasará algún tiempo hasta que los Caballeros
+Imperiales se pongan en marcha.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272918019]
+<STR>(EST_P)
+Por cierto, <STR>(FRE).
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484889]
+<STR>(FRE)
+¿Sí, mi señora?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272918019]
+<STR>(EST_P)
+¿No pasa nada si me quedo con
+<STR>(YUR) y sus amigos hasta que
+vuelva a la capital?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298243037]
+<STR>(FRE)
+Entiendo. Pero solo
+hasta vuestro regreso.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272918019]
+<STR>(EST_P)
+Sí, no quiero causar
+más problemas, <STR>(FRE).

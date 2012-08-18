@@ -1,0 +1,140 @@
+## POINTER 0
+<STR>(KAR)
+Ah, <STR>(YUR).
+
+## POINTER 1
+Leblanc
+What's all this commotion?!
+
+## POINTER 2
+<STR>(YUR)
+Ah, top of the morning to you, gentlemen!
+
+## POINTER 3
+Boccos
+<STR>(YUR) Lowell!
+
+## POINTER 4
+Adecor
+You are no doubt behind all of this! Yet again, I saaay!
+
+## POINTER 5
+<STR>(YUR)
+Hmmm...maybe I am, indeed.
+
+## POINTER 6
+<STR>(KAR)
+What? <STR>(YUR), you mean...
+
+## POINTER 7
+Leblanc
+Urgggh! How 
+insolent!<PAGE>You're under arrest!
+
+## POINTER 8
+<STR>(YUR)
+Hey <STR>(KAR), old man. 
+Let's get outta here.
+
+## POINTER 9
+<STR>(KAR)
+Huh?
+
+## POINTER 10
+<STR>(RAV)
+Uh?
+
+## POINTER 11
+<STR>(YUR)
+Get everything taken care of?
+
+## POINTER 12
+<STR>(JUD)
+Yes, thanks to you.
+
+## POINTER 13
+<STR>(KAR)
+<STR>(RIT), what's in that bag?
+
+## POINTER 14
+<STR>(RIT)
+Nothing at all!
+
+## POINTER 15
+<STR>(YUR)
+You can tell him. We're all accomplices 
+to core theft now.
+
+## POINTER 16
+<STR>(KAR)
+What! What do you mean theft?
+
+## POINTER 17
+<STR>(RIT)
+Wait, you knew...?
+
+## POINTER 18
+<STR>(RAV)
+Ahh, I see. That's a 
+blastia core, then!
+
+## POINTER 19
+<STR>(KAR)
+How the heck did I become a thief 
+without even realizing it?
+
+## POINTER 20
+<STR>(EST_P)
+I'm sorry, <STR>(KAR)...
+
+## POINTER 21
+<STR>(YUR)
+Hah hah! Let's get 
+out of here before 
+Leblanc comes back!
+
+## POINTER 22
+<STR>(RIT)
+<STR>(JUD).
+
+## POINTER 23
+<STR>(RIT)
+That is, uh, thank you. For 
+not destroying that blastia.
+
+## POINTER 24
+<STR>(JUD)
+Oh. A surprising bit of humility, coming from you.
+
+## POINTER 25
+<STR>(RIT)
+But why did you do it? You 
+didn't have any trouble destroying 
+blastia before now.
+
+## POINTER 26
+<STR>(JUD)
+I just wanted you to like me!
+
+## POINTER 27
+<STR>(RIT)
+N-no way! You're 
+joking, right?!
+
+## POINTER 28
+<STR>(JUD)
+Yes.
+
+## POINTER 29
+<STR>(RIT)
+You...
+
+## POINTER 30
+<STR>(JUD)
+When I was by myself, the only way I could stop them was by 
+destroying them. But now I know that there are different ways 
+of taking care of the the blastia, when I'm with friends.<PAGE>I can count on you, right?
+
+## POINTER 31
+<STR>(RIT)
+S-sure.

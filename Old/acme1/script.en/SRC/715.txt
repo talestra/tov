@@ -1,0 +1,109 @@
+## POINTER 0
+<STR>(YUR)
+...Hey, so we meet again.
+
+## POINTER 1
+Clint
+Hmph...
+
+## POINTER 2
+<STR>(KAR)
+W-wait! I, I want 
+to talk to Nan...
+
+## POINTER 3
+Nan
+<STR>(KAR)...
+
+## POINTER 4
+Tison
+...Nan, what about you? 
+Do you have anything 
+to say to this kid?
+
+## POINTER 5
+Nan
+M-master... 
+I...
+
+## POINTER 6
+Clint
+......<PAGE>We're heading to Dahngrest. 
+Make sure you're back 
+by tomorrow morning.
+
+## POINTER 7
+Nan
+Chief...thank you.
+
+## POINTER 8
+<STR>(KAR)
+......
+
+## POINTER 9
+Nan
+...So, what is it, <STR>(KAR)?
+
+## POINTER 10
+<STR>(KAR)
+Well... There's something 
+I wanted to talk to 
+you about, Nan.<PAGE>I'm sorry for always being so wishy-washy...and 
+for causing you nothing but trouble.<PAGE>But during my travels with <STR>(YUR) and 
+everyone else, I've figured out 
+what's really important to me.<PAGE>That's why...
+
+## POINTER 11
+Nan
+Can you just stop bothering me? ...You 
+only ever think about yourself, <STR>(KAR).
+
+## POINTER 12
+<STR>(KAR)
+Nan...
+
+## POINTER 13
+Nan
+Even if you've learned what's important 
+to you, nothing's ever going to change 
+if you stay as weak as you are.
+
+## POINTER 14
+<STR>(KAR)
+I'll get stronger. I'll 
+prove myself to you, Nan.
+
+## POINTER 15
+Nan
+I wonder... You've always 
+talked big. But nothing 
+ever comes of it.
+
+## POINTER 16
+<STR>(KAR)
+It, it might be impossible...but 
+I want you to believe me. I'm 
+different, Nan. I've changed.
+
+## POINTER 17
+Nan
+...All right. I'll 
+teach you a technique 
+of mine.<PAGE>If you can master it in one night, I'll 
+reconsider how I feel about you.
+
+## POINTER 18
+<STR>(KAR)
+In, in one night...
+
+## POINTER 19
+<STR>(YUR)
+Sounds like we'll be spending the night here!
+
+## POINTER 20
+<STR>(RAP)
+Woof!
+
+## POINTER 21
+<STR>(KAR)
+Thanks, <STR>(YUR)...

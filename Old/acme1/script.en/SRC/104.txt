@@ -1,0 +1,124 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS05_035)So much for keeping 
+a low profile!
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS05_036)<STR>(YUR)!
+
+## POINTER 2
+
+<VOICE>(VS05_037)How can I ever thank you?
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS05_038)Oh, it's nothing, really...
+
+## POINTER 4
+
+<VOICE>(VS05_039)I'm not sure what I would have done 
+if you hadn't cured me. Thanks!
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS05_040)...I'm just thankful that 
+everyone's safe...
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS05_041)Whoa...
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS05_042)All worn out, huh?
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS05_043)It really is dangerous beyond 
+the barriers with so many 
+ferocious monsters around.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS05_044)This place could definitely use a 
+barrier against a pack that big.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS05_045)Couldn't they install a 
+barrier blastia here?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS05_046)No. Barriers are a 
+precious resource.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS05_047)You're right...and with 
+the current technology, 
+we can't make anymore.<PAGE><VOICE>(VS05_048)If only we could recover the secrets 
+of the ancient Geraios civilization... 
+They created the blastia.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS05_049)Even if that were to happen, I 
+can't see the empire using the 
+knowledge for the common good.
+
+## POINTER 14
+
+<VOICE>(VS05_050)You two there. I'd like 
+to have a word with you.
+
+## POINTER 15
+
+<VOICE>(VS05_051)So why don't you let us through? 
+I'll beat those monsters to a pulp 
+with these fists of mine!
+
+## POINTER 16
+
+<VOICE>(VS05_052)How many times do I have to say it? These 
+monsters are tougher than you think!
+
+## POINTER 17
+
+<VOICE>(VS05_053)You dare to doubt the power 
+of the monster hunters?
+
+## POINTER 18
+
+<VOICE>(VS05_054)S-stop!
+
+## POINTER 19
+
+<VOICE>(VS05_055)Stay out of this! You Knights cheated 
+us out of a job back there, and now 
+we're gonna work off some steam!
+
+## POINTER 20
+
+<VOICE>(VS05_056)Hey, hold it!
+
+## POINTER 21
+
+<VOICE>(VS05_057)It's always the same with these guild idiots!
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS05_058)Great, we'll never get through 
+as long as this keeps up.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS05_059)But <STR>(FRE) is headed to Halure, 
+and we're so close.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS05_060)Well, getting caught by the 
+Knights wouldn't be too fun. Let's 
+find another way through.

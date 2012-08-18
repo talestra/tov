@@ -1,0 +1,75 @@
+## POINTER 0
+
+<VOICE>(VS01_001)<STR>(YUR)! This is not good!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS01_002)What's with all the 
+yelling, Ted?
+
+## POINTER 2
+Ted
+<VOICE>(VS01_003)Look! The aque blastia's 
+broken again!
+
+## POINTER 3
+Ted
+<VOICE>(VS01_004)And they just 
+finished fixing it.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS01_005)What's the big deal? Just leave it 
+to the mighty Imperial Knights. That's 
+what they're there for.
+
+## POINTER 5
+Ted
+<VOICE>(VS01_006)Hah, the Knights? You 
+know they never come to 
+the lower quarter.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS01_007)What about the 
+heroic <STR>(FRE)?
+
+## POINTER 7
+Ted
+<VOICE>(VS01_008)I already tried 
+to get <STR>(FRE).<PAGE><VOICE>(VS01_009)They wouldn't even 
+let me see him!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS01_010)Oh, so I'm <STR>(FRE)'s 
+replacement, huh?
+
+## POINTER 9
+Ted
+<VOICE>(VS01_011)Never mind that, come on! 
+We're short on people!
+
+## POINTER 10
+
+<VOICE>(VS01_012)Ted! Ted! You get 
+down here! They need 
+your help, too!
+
+## POINTER 11
+Ted
+<VOICE>(VS01_013)I'll...I'll be there in a sec!
+
+## POINTER 12
+Ted
+<VOICE>(VS01_014)<STR>(YUR)... Come on already!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS01_015)That's weird. He always comes running 
+whenever there's trouble...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS01_016)This place is gonna become an aquarium 
+soon if this keeps up.

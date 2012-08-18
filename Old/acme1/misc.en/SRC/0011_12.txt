@@ -1,0 +1,318 @@
+## POINTER 1647
+Mythril Cloak
+
+## POINTER 1648
+A cloak made from a magic metallic thread.
+The texture is as soft as a regular piece of clothing.
+
+## POINTER 1650
+Midi Blouse
+
+## POINTER 1651
+A blouse made from a magic cloth.
+Can cause a spell to dissipate.
+
+## POINTER 1653
+Mermaid Cloak
+
+## POINTER 1654
+A cloak as beautiful as a make-believe creature.
+Not only does it look nice, it adds to one’s defense as well.
+
+## POINTER 1656
+Platinum Cloak
+
+## POINTER 1657
+A high-quality cloak with defensive properties.
+It is made from a fabric mixed with platinum.
+
+## POINTER 1659
+Gothic Dress
+
+## POINTER 1660
+A traditionally made dress.
+The subtleness of the design is what makes it special.
+
+## POINTER 1662
+Mirage Cloak
+
+## POINTER 1663
+The illusionary effect of this garment
+protects one from attacks.
+
+## POINTER 1665
+Elder Cloak
+
+## POINTER 1666
+Only the qualified can wear this cloak.
+A garment for the experienced and the wise.
+
+## POINTER 1668
+Moon Cloak
+
+## POINTER 1669
+A garment made with a fabric soaked in
+moonlight. One who wears this is protected by magic.
+
+## POINTER 1671
+Elemental Cloak
+
+## POINTER 1672
+A garment blessed by the elements.
+It helps to prevent one from elemental effects.
+
+## POINTER 1674
+Rune Cloak
+
+## POINTER 1675
+A mythril cloak with magic defense properties.
+
+## POINTER 1677
+Empress Dress
+
+## POINTER 1678
+A highly sophisticated garment.
+The elegance and protective properties are fit for royalty.
+
+## POINTER 1680
+Trench Coat
+
+## POINTER 1681
+An ordinary coat.
+Not designed for combat use.
+
+## POINTER 1683
+Leather Coat
+
+## POINTER 1684
+A leather coat. It is sturdy, but is nothing
+more than a piece of clothing.
+
+## POINTER 1686
+Feather Coat
+
+## POINTER 1687
+A coat as light as feather.
+It won’t interfere with you when exercising.
+
+## POINTER 1689
+Hard Leather Coat
+
+## POINTER 1690
+A coat made with a tough leather.
+It can withstand most attacks.
+
+## POINTER 1692
+Long Coat
+
+## POINTER 1693
+It is not just a long coat, but it can
+withstand the wear and tear of combat.
+
+## POINTER 1695
+Mythril Coat
+
+## POINTER 1696
+Mythril is mixed into the fabric, adding
+defense to the garment.
+
+## POINTER 1698
+Elven Coat
+
+## POINTER 1699
+A garment made with the traditional
+Elven method.
+
+## POINTER 1701
+Splash Dress
+
+## POINTER 1702
+A garment coated with a splash of water.
+Even the sleeves resemble a splash.
+
+## POINTER 1704
+Rare Coat
+
+## POINTER 1705
+This delicate and sophisticated garment was
+reinforced with the finest craftsmanship.
+
+## POINTER 1707
+Silver Coat
+
+## POINTER 1708
+A coat made with silver woven fabric.
+The magical properties increases defense.
+
+## POINTER 1710
+Bloody Coat
+
+## POINTER 1711
+A garment dyed a deep blood red. The color is
+actually due to a special material in the fabric.
+
+## POINTER 1713
+Gothic Cardigan
+
+## POINTER 1714
+Made the traditional way, this garment
+will keep you warm through the winter.
+
+## POINTER 1716
+Kritya Coat
+
+## POINTER 1717
+A garment made by a method passed down
+by the Krityas. It doesn’t involve the use of magic.
+
+## POINTER 1719
+Holy Coat
+
+## POINTER 1720
+A garment worn by clerics during ceremonies.
+It has a firm base and is quite sturdy.
+
+## POINTER 1722
+Hero Coat
+
+## POINTER 1723
+A coat worthy of a true hero.
+Experience the glory firsthand.
+
+## POINTER 1725
+Queen's Coat
+
+## POINTER 1726
+Only fit for a queen. Authenticity is questionable,
+but the quality is certainly worthy of its name.
+
+## POINTER 1728
+Rune Coat
+
+## POINTER 1729
+A mythril coat with added defense.
+
+## POINTER 1731
+Dragon Coat
+
+## POINTER 1732
+A garment infused with the spirit of the dragon
+god. It is a beautiful piece of work.
+
+## POINTER 1734
+Belly Warmer
+
+## POINTER 1735
+This little piece of clothing will keep your
+tummy snug and warm.
+
+## POINTER 1737
+Leather Jacket
+
+## POINTER 1738
+A leather jacket...for dogs.
+It is popular with collectors.
+
+## POINTER 1740
+Iron Protector
+
+## POINTER 1741
+An iron armor designed especially for dogs.
+It is very flexible and allows for a high degree of movement.
+
+## POINTER 1743
+Thief's Jacket
+
+## POINTER 1744
+A garment for dogs made from a popular
+fabric used to make a thief’s jacket.
+
+## POINTER 1746
+Rain Cape
+
+## POINTER 1747
+A commonly sold raincoat for dogs.
+It is strengthened for combat.
+
+## POINTER 1749
+Steel Protector
+
+## POINTER 1750
+A simple armor made of steel plates connected by ropes.
+Flesh can get pinched between the gaps sometimes. Ouch!
+
+## POINTER 1752
+Metal Jacket
+
+## POINTER 1753
+Designed to protect your dog on a tough
+journey. A serious piece of armor.
+
+## POINTER 1755
+Magical Collar
+
+## POINTER 1756
+A collar with magical properties.
+It was crafted with magic.
+
+## POINTER 1758
+Spiny Jacket
+
+## POINTER 1759
+The design resembles something from another
+century. Be careful not to poke yourself.
+
+## POINTER 1761
+Silver Protector
+
+## POINTER 1762
+A silver armor for dogs. The magical properties of
+silver serves to protect one from harm.
+
+## POINTER 1764
+Fancy Belly Warmer
+
+## POINTER 1765
+This extravagant piece will make your
+pooch feel like a celebrity.
+
+## POINTER 1767
+Mythril Protector
+
+## POINTER 1768
+A dog’s armor made from mythril plates.
+It is custom made.
+
+## POINTER 1770
+Dragon Protector
+
+## POINTER 1771
+A dog’s armor made from dragon scales.
+It is rare to find a dog wearing one these days.
+
+## POINTER 1773
+Loyal Belly Warmer
+
+## POINTER 1774
+Said to be worn by a legendary dog.
+Not meant for combat, yet extremely sturdy.
+
+## POINTER 1776
+Aer Fragment
+
+## POINTER 1777
+Bits and pieces of aer.
+Not exactly armor, but repels most enemies.
+
+## POINTER 1779
+Leather Helm
+
+## POINTER 1780
+Protective head gear made of leather.
+
+## POINTER 1782
+Iron Sallet
+
+## POINTER 1783
+An iron war helmet.
+It only covers the upper half of the face.

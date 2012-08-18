@@ -1,0 +1,121 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1272740909]
+<STR>(RIT)
+¿Qué es esto?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1273704604]
+<STR>(KAR)
+¡Es un equipo de acampada!<PAGE>Con él puedes acampar en 
+cualquier sitio y dormir sin 
+necesidad de ir a una posada. 
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859140]
+<STR>(RIT)
+¡Qué bien! ¡Ahora podrás acampar a lo 
+«chico salvaje» cuando durmamos en una
+posada y así nos saldrá más barato! 
+
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528843]
+<STR>(KAR)
+P-Pero ¿qué dices?
+¡Los  equipos de acampada
+son de un solo uso!
+
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1273704604]
+<STR>(EST_P)
+¡<STR>(RIT), no 
+seas tan mala!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1273704604]
+<STR>(RIT)
+¡Mmpf!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859140]
+<STR>(YUR)
+Parece muy 
+útil, <STR>(KAR).
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528843]
+<STR>(KAR)
+Sí, son imprescindibles
+cuando estás de viaje.<PAGE>Además del equipo de acampada,
+también puedes dormir en colchonetas.
+<PAGE>Pero la mejor opción es el equipo
+de acampada. ¡Para levantarte fresco y
+descansado, nada como haber acampado!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859140]
+<STR>(EST_P)
+¡Nos viene de perlas!
+Se nota que escalar os
+ha dejado agotados...
+
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859140]
+<STR>(RIT)
+Tú también estás hecha un trapo...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859140]
+<STR>(YUR)
+Ya, y además nos queda un buen trecho
+hasta la ciudad. ¿Qué tal si acampamos
+aquí mismo?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859140]
+<STR>(KAR)
+¡De acuerdo, yo me ocuparé de todo!<PAGE>Ah, cuando acampas en un sitio, 
+no puedes hacerlo de nuevo por los
+alrededores hasta pasado un tiempo. 
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1273704604]
+<STR>(YUR)
+¿Y eso por qué?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859140]
+<STR>(KAR)
+Después de acampar en un lugar, la barrera básica
+incluida en el equipo de acampada dejará de funcionar
+hasta que te alejes del lugar donde acampaste.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1273704604]
+<STR>(RIT)
+¿Barrera básica? ¿Qué es eso?
+No existen blastias así. 
+
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859140]
+<STR>(KAR)
+En realidad, no es un blastia.<PAGE>Es algo que desprende un olor
+repelente para los monstruos.  
+Por eso lo llaman «barrera».<PAGE>Mantiene alejados a los monstruos
+por una noche,<PAGE>pero con el tiempo se acostumbran al olor
+y entonces dejas de estar a salvo. 
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1273704916]
+<STR>(RIT)
+Mmm...
+Eso tiene 
+sentido...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859140]
+<STR>(YUR)
+Muy bien, tú te ocupas
+de todo, <STR>(KAR).
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859140]
+<STR>(KAR)
+Vale. Vamos a 
+acampar un poco 
+más adelante. 
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859283]
+Información
+Acampa usando una estera, un
+toldo, una tienda o una barrera
+en el mapa para recuperar HP y
+TP. La cantidad de HP y TP que
+recuperes dependerá del objeto.
+No podrás usar un objeto para
+acampar de nuevo hasta después
+del siguiente combate.

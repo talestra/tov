@@ -1,0 +1,154 @@
+## POINTER 0
+Leblanc
+<VOICE>(VS04_041)<STR>(YUR) Looowell!! You've given my 
+two lackeys a headache. Now be a
+good boy and turn yourself iiin!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS04_042)Well, that's our cue. Looks like I won't 
+be coming back here for a while.
+
+## POINTER 2
+Hanks
+<VOICE>(VS04_043)Never a dull moment 
+with <STR>(YUR) around.
+
+## POINTER 3
+Hanks
+<VOICE>(VS04_044)After this, I'll be even with you 
+for getting that money back.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS04_045)Just make sure you don't kick the bucket 
+blowing it all on some crazy party.
+
+## POINTER 5
+Hanks
+<VOICE>(VS04_046)Heh, same to you. See that you 
+don't go dying in any ditches.
+
+## POINTER 6
+<STR>(EST)
+<VOICE>(VS04_047)Wait for me! It was nice 
+to meet you, sir.
+
+## POINTER 7
+Hanks
+<VOICE>(VS04_048)He'll probably be quite a pain in the 
+neck. You make sure and 
+take care of yourself, now.
+
+## POINTER 8
+<STR>(EST)
+<VOICE>(VS04_049)I will. 
+Thank you.
+
+## POINTER 9
+
+<VOICE>(VS04_050)When are you going to fix the fountain, Sir Knight?<PAGE><VOICE>(VS04_051)Hey cool, a knight!<PAGE><VOICE>(VS04_052)Hooray! Hooray!<PAGE><VOICE>(VS04_053)Won't you help this old 
+man find his dentures?
+
+## POINTER 10
+Leblanc
+<VOICE>(VS04_054)Foools! You're in my way! 
+Do not interfere in the 
+affairs of the empire!
+
+## POINTER 11
+
+<VOICE>(VS04_055)Don't you make her cry!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS04_056)What are you talking about? 
+...Hey, quit pushing! ...Hey, who just 
+hit me? I'm gonna remember that!
+
+## POINTER 13
+
+<VOICE>(VS04_057)This might come in handy if 
+you're going to Halure.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS04_058)Huh? A map? Wait a sec, this only 
+has the roads written on it.
+
+## POINTER 15
+
+<VOICE>(VS04_059)What did you expect? It's better 
+than nothing considering people 
+don't normally leave the city.<PAGE><VOICE>(VS04_060)You'll have to fill in the 
+empty spaces on your own.<PAGE><VOICE>(VS04_061)First off, you should head for 
+Deidon Hold to the north.
+
+## POINTER 16
+<STR>(EST)
+<VOICE>(VS04_062)Wow, <STR>(YUR). They're all going 
+to miss you so much.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS04_063)Honestly, they're probably 
+thrilled to finally get rid of me.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS04_064)Hey, hold it...! 
+Who put money in here?! 
+I can't take this.
+
+## POINTER 19
+Leblanc
+<VOICE>(VS04_065)Haaalt! Get out 
+of my way!
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS04_066)Huh... I guess I'll have 
+to keep it for now.
+
+## POINTER 21
+Leblanc
+<VOICE>(VS04_067)What?!
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS04_068)Nice one, <STR>(RAP).
+
+## POINTER 23
+<STR>(EST)
+<VOICE>(VS04_069)A dog?
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS04_070)Well, for now it's north 
+to Deidon Hold.
+
+## POINTER 25
+<STR>(EST)
+<VOICE>(VS04_071)What? Oh, right!
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS04_072)I'm not sure how long we'll be together, 
+but here's to the road ahead, <STR>(EST_P).
+
+## POINTER 27
+<STR>(EST)
+<VOICE>(VS04_073)Yes, I...? Huh? ...Es...telle...? 
+<STR>(EST_P)... <STR>(EST_P).
+
+## POINTER 28
+<STR>(EST)
+<VOICE>(VS04_074)To the road ahead, <STR>(YUR)!
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS04_075)Well, so long for now.
+
+## POINTER 30
+<STR>(EST)
+<VOICE>(VS04_076)We hope to be back soon.

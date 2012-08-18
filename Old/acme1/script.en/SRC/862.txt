@@ -1,0 +1,89 @@
+## POINTER 0
+<STR>(YUR)
+Hey, it looks like things have calmed 
+down a bit for Palestralle.
+
+## POINTER 1
+Natz
+Whenever I see your 
+faces, I can't help 
+but remember Belius.
+
+## POINTER 2
+<STR>(YUR)
+Yeah, I still feel bad about that...
+
+## POINTER 3
+Natz
+No, don't. I've got more good 
+memories than bad ones.<PAGE>Like when I first met 
+her, or when I joined 
+Palestralle.<PAGE>I remember it like it was yesterday...
+
+## POINTER 4
+Natz
+I'd been traveling on a solo journey around 
+the world. The night that I first saw 
+her, a full moon hung in the sky.<PAGE>I shivered with anticipation. It 
+was a monster I've never seen before! 
+If I beat it, I'd be famous!
+
+## POINTER 5
+<STR>(YUR)
+Y-you're saying that you 
+challenged Belius?
+
+## POINTER 6
+Natz
+Well, I was pretty foolhardy back then. And much 
+to my surprise, I got my butt handed to me.<PAGE>When I came to, I was in the 
+Coliseum, lying on a bed.
+
+## POINTER 7
+<STR>(YUR)
+You fought Belius and lived...that's 
+pretty impressive in and of itself.
+
+## POINTER 8
+Natz
+No...I wasn't even in the 
+same league as Belius.
+
+## POINTER 9
+<STR>(YUR)
+Ahh, so she let you live?
+
+## POINTER 10
+Natz
+When I asked her why she spared 
+my life, she told me this:<PAGE>"There's nothing to be gained by making 
+a short life even shorter."
+
+## POINTER 11
+<STR>(YUR)
+...That sounds like something only 
+an age-old Entelexeia could say.
+
+## POINTER 12
+Natz
+I'm sure she's seen thousands of humans 
+come and go in her lifetime.<PAGE>Even if they became her friends, or her subordinates, 
+she'd eventually outlive all of them. I can't 
+even imagine how lonely that must be.<PAGE>But when she passed away, 
+she was finally freed from 
+that terrible loneliness.<PAGE>That's why I think...that what happened wasn't such a bad thing at all.
+
+## POINTER 13
+<STR>(YUR)
+Hmmm...maybe you're right.
+
+## POINTER 14
+Natz
+Oops, sorry if I got off on a tangent there. 
+I never know when to stop talking.
+
+## POINTER 15
+<STR>(YUR)
+No, I don't mind at all. I 
+feel like I understand Belius 
+a little better now.

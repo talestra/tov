@@ -1,0 +1,318 @@
+## POINTER 1923 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Cinta mágica
+
+## POINTER 1924 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Cinta con potentes poderes mágicos.
+
+## POINTER 1926 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Cinta antigua
+
+## POINTER 1927 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Cinta hecha con un material raro y antiguo.
+
+## POINTER 1929 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Defensa antiveneno
+
+## POINTER 1930 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+50% de posibilidades de prevenir un envenenamiento.
+También es ligeramente resistente al agua.
+
+## POINTER 1932 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Dije antiveneno
+
+## POINTER 1933 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Previene el envenenamiento.
+También es ligeramente resistente al agua.
+
+## POINTER 1935 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Defensa antiparálisis
+
+## POINTER 1936 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+50% de posibilidades de prevenir la parálisis.
+También es ligeramente resistente al viento.
+
+## POINTER 1938 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Dije antiparálisis
+
+## POINTER 1939 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Previene la parálisis.
+También es ligeramente resistente al viento.
+
+## POINTER 1941 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Defensa antipetrificación
+
+## POINTER 1942 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+50% de posibilidades de prevenir la petrificación.
+También es ligeramente resistente a la tierra.
+
+## POINTER 1944 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Dije antipetrificación
+
+## POINTER 1945 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Previene la petrificación.
+También es ligeramente resistente a la tierra.
+
+## POINTER 1947 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Defensa antiagotamiento
+
+## POINTER 1948 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+50% de posibilidades de prevenir el agotamiento.
+También es ligeramente resistente al fuego.
+
+## POINTER 1950 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Dije antiagotamiento
+
+## POINTER 1951 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Previene el agotamiento.
+También es ligeramente resistente al fuego.
+
+## POINTER 1953 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Brazalete antiaturdidor
+
+## POINTER 1954 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Brazalete que reduce la duración
+del aturdimiento en un 50%. ¡Protégete!
+
+## POINTER 1956 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Talismán antiaturdidor
+
+## POINTER 1957 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Previene el aturdimiento.
+Ahora puedes luchar con la mente en paz.
+
+## POINTER 1959 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Brazalete curativo
+
+## POINTER 1960 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Recupera el 10% del HP máximo por cada enemigo derrotado.
+Para luchadores agresivos.
+
+## POINTER 1962 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Brazalete espiritual
+
+## POINTER 1963 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Recupera el 5% del TP máximo por cada enemigo derrotado.
+Para luchadores estratégicos.
+
+## POINTER 1965 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Amuleto
+
+## POINTER 1966 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Previene todos los estados alterados físicos. 
+
+## POINTER 1968 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Laurel
+
+## POINTER 1969 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Previene todos los estados alterados mágicos.
+
+## POINTER 1971 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Dije mundial
+
+## POINTER 1972 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263982369]
+50% de posibilidades de prevenir los estados alterados.
+Un accesorio excelente.
+
+## POINTER 1974 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Talismán
+
+## POINTER 1975 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Incrementa la defensa física en un 5％.
+
+## POINTER 1977 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Talismán azul
+
+## POINTER 1978 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Incrementa la defensa física en un 10％.
+¡Mejor que una armadura barata!
+
+## POINTER 1980 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo de hada
+
+## POINTER 1981 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo grabado con un hada.
+Reduce el consumo de TP en un 50%.
+
+## POINTER 1983 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo sagrado
+
+## POINTER 1984 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Un anillo sagrado.
+Recupera periódicamente un 1% de HP en batalla. 
+
+## POINTER 1986 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo espiritual
+
+## POINTER 1987 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Un anillo espiritual.
+Recupera periódicamente un 1% de TP en batalla.
+
+## POINTER 1989 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo de ataque
+
+## POINTER 1990 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo grabado con una espada.
+Aumenta el ataque en batalla en un 10%.
+
+## POINTER 1992 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo de defensa
+
+## POINTER 1993 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo grabado con un escudo.
+Aumenta la defensa en batalla en un 10%.
+
+## POINTER 1995 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo protector
+
+## POINTER 1996 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo grabado con un dios de la guerra.
+Reduce el daño físico en un 10%. 
+
+## POINTER 1998 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo de fuerza
+
+## POINTER 1999 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo grabado con un dios de la guerra.
+Reduce el daño físico en un 20%.
+
+## POINTER 2001 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo esmeralda
+
+## POINTER 2002 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo con una esmeralda.
+Reduce el consumo de TP en un 33%.
+
+## POINTER 2004 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo resistente
+
+## POINTER 2005 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo imbuido con magia.
+Reduce el daño elemental en un 10%.
+
+## POINTER 2007 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo reflectante
+
+## POINTER 2008 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo grabado con una diosa.
+Reduce el daño elemental en un 20%.
+
+## POINTER 2010 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo efecti
+
+## POINTER 2011 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Anillo grabado con un diablo.
+Reduce todo el daño en un 15%.
+
+## POINTER 2013 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189345]
+Anillo resurrección
+
+## POINTER 2014 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Si tienes suerte esto puede resucitarte después de caer
+en combate. ¡Todavía se puede creer en los milagros!
+
+## POINTER 2016 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa
+
+## POINTER 2017 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa genérica hecha de tela.
+Un accesorio estándar para novatos.
+
+## POINTER 2019 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa de cuero
+
+## POINTER 2020 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Una capa hecha de cuero.
+Un accesorio estándar para un aventurero.
+
+## POINTER 2022 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa de ladrón
+
+## POINTER 2023 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+La capa preferida por los ladrones.
+Aumenta ligeramente la agilidad.
+
+## POINTER 2025 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa llamarada
+
+## POINTER 2026 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Capa con el emblema del fuego.
+Aumenta la resistencia al fuego un 50%.
+
+## POINTER 2028 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa agua
+
+## POINTER 2029 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Capa con el emblema del agua.
+Aumenta la resistencia al agua un 50%.
+
+## POINTER 2031 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa viento
+
+## POINTER 2032 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Capa con el emblema del viento.
+Aumenta la resistencia al viento un 50%.
+
+## POINTER 2034 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa tierra
+
+## POINTER 2035 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Capa con el emblema de la tierra.
+Aumenta la resistencia a la tierra un 50%.
+
+## POINTER 2037 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa de paladín
+
+## POINTER 2038 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa digna de un auténtico caballero.
+
+## POINTER 2040 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa de rey
+
+## POINTER 2041 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Capa que pertenece al rey del cosmos.
+¡Su elegancia y belleza son fabulosas!
+
+## POINTER 2043 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Símbolo sagrado
+
+## POINTER 2044 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Una reliquia sagrada.
+Recupera periódicamente un 3% del HP máximo.
+
+## POINTER 2046 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Símbolo espiritual
+
+## POINTER 2047 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188882]
+Una reliquia espiritual.
+Recupera periódicamente un 3% del TP máximo.
+
+## POINTER 2049 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Marca mística
+
+## POINTER 2050 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+La marca de un mago.
+Reduce ligeramente el tiempo de conjuro.
+
+## POINTER 2052 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Símbolo místico
+
+## POINTER 2053 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+La marca de un hechicero.
+Reduce el tiempo de conjuro.
+
+## POINTER 2055 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Sello oscuro
+
+## POINTER 2056 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271593472]
+EXP x1,5. Daño enemigo x2. Artes selladas.
+Debe equiparse antes de la batalla.
+
+## POINTER 2058 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Sello demoníaco
+
+## POINTER 2059 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+EXP x2. Provoca estados alterados físicos en batalla.
+Debe equiparse antes de la batalla.
+
+## POINTER 2061 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261767586]
+Símbolo de Krona

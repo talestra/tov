@@ -1,0 +1,40 @@
+## POINTER 0
+Leader of a Hundred Guilds
+
+## POINTER 1
+(YUR)
+How many guilds are there in this city?
+
+## POINTER 2
+(KAR)
+I don't know the exact number, but I 
+think there are more than a hundred.
+
+## POINTER 3
+(YUR)
+Whoa, that many? Are all 
+of them in the Union?
+
+## POINTER 4
+(RAP)
+*Woof?!*
+
+## POINTER 5
+(KAR)
+Nah, not all of them, but... 
+I'd guess around 90% of 
+them are Union members.
+
+## POINTER 6
+(YUR)
+Wow, and the Don's at the top of 
+them all... That guy's amazing.
+
+## POINTER 7
+(KAR)
+That's why he's the Don!
+
+## POINTER 8
+(RIT)
+What are YOU so proud about? The 
+Don's the amazing one, not you.

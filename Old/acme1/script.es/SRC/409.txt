@@ -1,0 +1,263 @@
+## POINTER 0 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(KAR)
+<VOICE>(VS37_159)Buenos días, <STR>(YUR).
+
+## POINTER 1 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(YUR)
+<VOICE>(VS37_160)Buenas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298489444]
+<STR>(EST_P)
+<VOICE>(VS37_161)Es una mañana hermosa, pero...<PAGE><VOICE>(VS37_162)Ahora mismo el aer
+sigue perdiendo el control.<PAGE><VOICE>(VS37_163)Puede que nuestro mundo
+esté muriendo.
+
+## POINTER 3 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(RIT)
+<VOICE>(VS37_164)...
+
+## POINTER 4 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(JUD)
+<VOICE>(VS37_165)Así es.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298489444]
+<STR>(RAV)
+<VOICE>(VS37_166)Vaya, mira quién parece
+estar tó recuperada.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298489444]
+<STR>(JUD)
+<VOICE>(VS37_167)En el pasado, estas ligeras
+fluctuaciones en el aer no
+afectaban negativamente al mundo.
+<PAGE><VOICE>(VS37_168)Siempre han existido seres capaces
+de mantener el equilibrio gracias
+a que podían sentir el flujo de aer.<PAGE><VOICE>(VS37_169)Seres como Phaeroh y Ba'ul.
+Es decir, los entelechia.
+
+## POINTER 7 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(EST_P)
+<VOICE>(VS37_170)Es decir, que los entelechia
+eran los responsables
+de mantener el equilibrio...
+
+## POINTER 8 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(JUD)
+<VOICE>(VS37_171)Durante siglos, los entelechia
+han estado regulando el aer.<PAGE><VOICE>(VS37_172)Pero el aumento que ha ocurrido
+recientemente es tan grande
+que no pueden controlarlo.
+
+## POINTER 9 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(RAV)
+<VOICE>(VS37_173)Tó por culpa de la que han
+armao los blastias hermes.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298489444]
+<STR>(YUR)
+<VOICE>(VS37_174)Lo cual también es la razón
+por la que has ido destruyendo
+por ahí todos los que podías.
+
+## POINTER 11 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(JUD)
+<VOICE>(VS37_175)Sí. Esa era
+mi misión.<PAGE><VOICE>(VS37_176)Un camino que he recorrido
+junto a Ba'ul, a quien debo mi vida.
+
+## POINTER 12 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(KAR)
+<VOICE>(VS37_177)Un camino que has recorrido...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981366]
+<STR>(JUD)
+<VOICE>(VS37_178)Ahora hay quienes cazan
+a los entelechia por las apátheia.
+<PAGE><VOICE>(VS37_179)Esto ha hecho que la misión
+de los entelechia resulte
+todavía más difícil.
+
+## POINTER 14 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(YUR)
+<VOICE>(VS37_180)¿Por qué están todos tan locos
+por conseguirlas, de todas formas?
+
+## POINTER 15 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(JUD)
+<VOICE>(VS37_181)
+Me temo que no lo sé.<PAGE><VOICE>(VS37_182)El aer que absorben los entelechia
+se condensa dentro de su cuerpo
+con el tiempo.<PAGE><VOICE>(VS37_183)Cuando su vida llega a su fin,
+ese aer concentrado forma
+un cristal: una apátheia.<PAGE><VOICE>(VS37_184)Eso es todo lo que sé. Aunque
+creo que Phaeroh puede arrojar
+algo de luz sobre el tema.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298489444]
+<STR>(RIT)
+<VOICE>(VS37_185)Así que las apátheia
+son cristales de aer
+concentrado...<PAGE><VOICE>(VS37_186)Si eso es cierto y se encontrara
+un modo de extraer energía de ellas...<PAGE><VOICE>(VS37_187)Se convertirían en una
+fuente de energía totalmente
+abrumadora, sin duda.
+
+## POINTER 17 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(EST_P)
+<VOICE>(VS37_188)¿Es eso posible?
+
+## POINTER 18 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(RIT)
+<VOICE>(VS37_189)No... no lo sé.
+
+## POINTER 19 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285410803]
+<STR>(RAV)
+<VOICE>(VS37_190)Pa mí que tiene que
+haber arguien que lo
+quiere pa hacer fechorías.
+
+## POINTER 20 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(KAR)
+<VOICE>(VS37_191)¿Por qué no nos contaste nada
+de esto desde el principio?
+
+## POINTER 21 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(YUR)
+<VOICE>(VS37_192)En serio, si nos lo hubieras
+dicho podríamos habernos
+ahorrado todos estos problemas.<PAGE><VOICE>(VS37_193)¿Me equivoco?
+
+## POINTER 22 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(JUD)
+<VOICE>(VS37_194)Aunque lo hubieseis sabido...<PAGE><VOICE>(VS37_195)Hay cosas que ni siquiera
+vosotros habrías podido evitar.
+
+## POINTER 23 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(KAR)
+<VOICE>(VS37_196)¿Qué quieres decir?
+
+## POINTER 24 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285410803]
+<STR>(JUD)
+<VOICE>(VS37_197)Fui a Heliord porque Ba'ul
+había sentido una distorsión
+en el aer.<PAGE><VOICE>(VS37_198)Allí donde hay distorsiones,
+tiene que haber un blastia
+hermes...<PAGE><VOICE>(VS37_199)Pero lo que me encontré no fue
+un blastia... sino una persona.
+Eso no había pasado nunca antes.
+
+## POINTER 25 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285410803]
+<STR>(YUR)
+<VOICE>(VS37_200)Entonces no es que estuvieras
+buscando expresamente
+a <STR>(EST_P) en Heliord.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298492581]
+<STR>(JUD)
+<VOICE>(VS37_201)Aun así, por alguna razón,
+Ba'ul percibió a <STR>(EST_P) 
+como una distorsión en el aer.<PAGE><VOICE>(VS37_202)Tenía que descubrir el porqué
+para seguir correctamente mi camino.<PAGE><VOICE>(VS37_203)Fue entonces cuando apareció
+Phaeroh por primera vez.<PAGE><VOICE>(VS37_204)Parecía saber bien quién
+era realmente <STR>(EST_P).
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298492581]
+<STR>(JUD)
+<VOICE>(VS37_205)Mi misión consistía en destruir
+todos los blastias hermes.<PAGE><VOICE>(VS37_206)No obstante, estaba claro que
+<STR>(EST_P) no lo era.
+Tenía que asegurarme...<PAGE><VOICE>(VS37_207)Llegué a un acuerdo con
+Phaeroh, y me concedió
+algo de tiempo.
+
+## POINTER 28 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(KAR)
+<VOICE>(VS37_208)Te refieres a que...
+
+## POINTER 29 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285411740]
+<STR>(JUD)
+<VOICE>(VS37_209)Si descubría que su existencia
+representaba una amenaza demasiado
+grande, entonces...<PAGE><VOICE>(VS37_210)tendría que matarla.
+
+## POINTER 30 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(RIT)
+<VOICE>(VS37_211)¡¿Lo qué?!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298492581]
+<STR>(RAV)
+<VOICE>(VS37_212)Quieta pará. Ta claro
+que <STR>(JUD) no llegó
+a esa conclusión.
+
+## POINTER 32 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285411740]
+<STR>(YUR)
+<VOICE>(VS37_213)Ya. Lo pillo.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298492581]
+<STR>(JUD)
+<VOICE>(VS37_214)Belius dijo que poseías
+un corazón compasivo.<PAGE><VOICE>(VS37_215)Si eres capaz de hacer
+que Phaeroh vea eso,<PAGE><VOICE>(VS37_216)puede que descubras
+qué debes hacer.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1298492581]
+<STR>(RIT)
+<VOICE>(VS37_217)O-Oye, ya no hace falta
+que encuentres a Phaeroh,
+¿verdad?<PAGE><VOICE>(VS37_218)Me refiero a que ahora sabemos
+que son los blastias hermes los
+que causan todo el problema.<PAGE>
+<VOICE>(VS37_219)Si tan solo nos aseguramos de que
+la apátheia no caiga en malas manos, entonces...
+
+## POINTER 35 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285411740]
+<STR>(EST_P)
+<VOICE>(VS37_220)Aun así quiero encontrarlo.
+Quiero oír lo que
+tiene que decir de mí.
+
+## POINTER 36 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(RIT)
+<VOICE>(VS37_221)Pero...
+
+## POINTER 37 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(EST_P)
+<VOICE>(VS37_222)Por favor, trata de entenderlo.<PAGE><VOICE>(VS37_223)Tengo que saber más sobre
+mí misma y afrontar la
+responsabilidad de lo que soy.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1298492581]
+<STR>(RIT)
+<VOICE>(VS37_224)Está bien...
+
+## POINTER 39 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(KAR)
+<VOICE>(VS37_225)Lo siento, <STR>(YUR)... No creo
+que podamos decidir nada sobre
+<STR>(JUD) todavía...
+
+## POINTER 40 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1282928901]
+<STR>(JUD)
+<VOICE>(VS37_226)Prometo no irme otra vez
+hasta que las cosas queden
+«claras», como tú dices.<PAGE><VOICE>(VS37_227)Yo misma necesito aceptar
+esa responsabilidad.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1298492581]
+<STR>(YUR)
+<VOICE>(VS37_228)Vamos a buscar a Phaeroh.<PAGE><VOICE>(VS37_229)Tenemos que acabar de una vez
+una de las primeras cosas
+que nos propusimos hacer.<PAGE><VOICE>(VS37_230)Ya nos preocuparemos del
+resto cuando acabemos.
+
+## POINTER 42 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(JUD)
+<VOICE>(VS37_231)Hay un peñasco rocoso en el
+centro de las Arenas de Kogorh.
+Phaeroh vive allí.<PAGE><VOICE>(VS37_232)Ba'ul puede llevarnos allí.
+
+## POINTER 43 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1282659555]
+<STR>(YUR)
+<VOICE>(VS37_233)Vale, vamos allá. Este encuentro
+ya se ha retrasado lo suficiente.

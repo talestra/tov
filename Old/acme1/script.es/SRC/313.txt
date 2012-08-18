@@ -1,0 +1,104 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(EST_P)
+<VOICE>(VS27_209)¡<STR>(RAP)!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(JUD)
+<VOICE>(VS27_210)Mirad, ¿es no es...?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(YUR)
+<VOICE>(VS27_211)<STR>(RAP) podrá seguir
+su rastro con esto.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(RAP)
+<VOICE>(VS27_212)¡Guau!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(RIT)
+<VOICE>(VS27_213)¡Hay que recuperar la caja!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(YUR)
+<VOICE>(VS27_214)Sí, eso también.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(RAV)
+<VOICE>(VS27_215)A los gremios no les hace mucha gracia
+las puñalás traperas.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(KAR)
+<VOICE>(VS27_216)Así es.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395270]
+<STR>(JUD)
+<VOICE>(VS27_217)No podrá cruzar las montañas
+al oeste sin prepararse antes.
+Deberíamos poder alcanzarlo.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(YUR)
+<VOICE>(VS27_218)Vale. Vamos tras él.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283282323]
+<STR>(EST_P)
+<VOICE>(VS27_219)¿Crees que las cosas irán bien
+en el coliseo?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(JUD)
+<VOICE>(VS27_220)¿Te preocupas por ello?
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283282323]
+<STR>(KAR)
+<VOICE>(VS27_221)¿Quieres esperar aquí
+con <STR>(RIT), entonces?
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(EST_P)
+<VOICE>(VS27_222)¿Qué quieres decir?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395270]
+<STR>(RAV)
+<VOICE>(VS27_223)Esto es un asunto de gremios.
+Unas damiselas como vosotras no
+tienen por qué verse enredás en él.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395270]
+<STR>(RIT)
+<VOICE>(VS27_224)
+Perdona, <STR>(EST_P), pero
+yo también voy a ir. Siento
+curiosidad por la caja.<PAGE>
+<VOICE>(VS27_225)Además, no me quedaré tranquila hasta
+que le dé a ese lerdo una buena tunda.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(EST_P)
+<VOICE>(VS27_226)Entonces, yo...
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(YUR)
+<VOICE>(VS27_227)Decídete.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298395270]
+<STR>(EST_P)
+<VOICE>(VS27_228)Yo... yo también voy.<PAGE>
+<VOICE>(VS27_229)
+Si pretendía entorpecer a los
+Caballeros, puede que tenga
+algo que ver con el Imperio.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283282323]
+<STR>(YUR)
+<VOICE>(VS27_230)
+Mmm, es posible. En cualquier caso,
+<STR>(FRE) lo tiene todo controlado
+en el coliseo. Todo irá bien.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279008496]
+<STR>(RIT)
+<VOICE>(VS27_231)Vale, pues pongámonos al tema
+y vamos tras ese cretino.

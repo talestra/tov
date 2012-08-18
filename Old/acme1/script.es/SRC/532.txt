@@ -1,0 +1,72 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1287065159]
+Sodia
+<VOICE>(VS60_118)¡<STR>(YUR) Lowell!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291155435]
+Sodia
+<VOICE>(VS60_119)¡¿Por qué?! ¿Por qué no
+me has delatado por lo
+que hice aquella vez?<PAGE><VOICE>(VS60_120)Intenté... matarte...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1287065159]
+<STR>(YUR)
+<VOICE>(VS60_121)Oh, no lo estoy dejando pasar.<PAGE><VOICE>(VS60_122)Es que no tengo tiempo
+para tratar con alguien
+que se ha rendido en todo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1287065159]
+Sodia
+<VOICE>(VS60_123)No me he rendido...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291155435]
+<STR>(YUR)
+<VOICE>(VS60_124)¿No? ¿Y por qué no has ido a
+ayudar a <STR>(FRE), aunque sea sola?<PAGE><VOICE>(VS60_125)
+¡Lo querías proteger tanto
+que hasta intentaste matarme!
+¡¿Por qué no estás protegiéndolo ahora?!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1287473818]
+Sodia
+<VOICE>(VS60_126)No... no puedo protegerlo yo sola.
+Por favor... sálvalo...<PAGE><VOICE>(VS60_127)Por favor...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291155435]
+<STR>(YUR)
+<VOICE>(VS60_128)No hace falta que me lo digas.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1287066261]
+Sodia
+<VOICE>(VS60_129)Por favor...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1287066261]
+<STR>(YUR)
+<VOICE>(VS60_130)Mira, hay una cosa
+en la que estoy
+de acuerdo contigo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1287066261]
+Sodia
+<VOICE>(VS60_131)¿...?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291155435]
+<STR>(YUR)
+<VOICE>(VS60_132)
+Soy un criminal. Me podrían
+matar en cualquier momento.<PAGE><VOICE>(VS60_133)<STR>(FRE) es el Caballero perfecto.
+El líder perfecto. No necesita
+un criminal a su lado.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1287066261]
+Sodia
+<VOICE>(VS60_134)...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1287066261]
+<STR>(YUR)
+<VOICE>(VS60_135)Solo estoy de suplente
+hasta que llegue
+la persona adecuada.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1287066261]
+Sodia
+<VOICE>(VS60_136)<STR>(YUR)...

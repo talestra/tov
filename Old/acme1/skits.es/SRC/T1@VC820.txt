@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283871]
+Esto no va naaaaada bien
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116954]
+(YUR)
+Acabamos de empezar y ya estamos trabajando
+con uno de los cinco grandes gremios.
+Esto marcha.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283871]
+(JUD)
+Sí. Estás un paso más cerca de hacer tu
+sueño realidad, (KAR). ¿No estás contento?
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1261845548]
+(RIT)
+¿Hablas con el chaval?
+Está por ahí mascullando algo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116954]
+(KAR)
+Tritones... Lo primero ha tenido que ser tritones.
+Mira que tiene mala suerte Gran Vesperia...
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1256411140]
+(KAR)
+¡¿Qué pensará de nosotros la presidenta
+de Fortuna Mercantil si fracasamos?!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116954]
+(KAR)
+Esto no va bien. Pero que naaaaada bien.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283871]
+(EST_P)
+No parece estar muy contento.
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283871]
+(JUD)
+Se lo toma con cautela, eso es todo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116954]
+(RIT)
+Eso no es cautela, es salir por patas.

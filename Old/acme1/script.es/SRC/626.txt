@@ -1,0 +1,115 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980702]
+<STR>(YUR)
+<VOICE>(VA021_001)Pero ¿qué comen
+para ser tan grandes?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980702]
+<STR>(JUD)
+<VOICE>(VA021_002)Nada más que aer.<PAGE><VOICE>(VA021_003)El aer que no se convierte
+en apátheia se metaboliza
+y los hace así de grandes.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292760066]
+<STR>(YUR)
+<VOICE>(VA021_004)¿Y pueden vivir solo con eso?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1292760066]
+<STR>(JUD)
+<VOICE>(VA021_005)El aer contiene todos los ingredientes
+necesarios para la vida.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1292760066]
+<STR>(YUR)
+<VOICE>(VA021_006)Ajá. Ese es un truquillo que
+los humanos no podemos hacer.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981105]
+<STR>(JUD)
+<VOICE>(VA021_007)Todos los entelechia han
+evolucionado a una forma particular
+de acuerdo con sus necesidades.<PAGE><VOICE>(VA021_008)Conlleva mucho tiempo. Muchas, muchas veces la duración de una vida humana.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980702]
+<STR>(YUR)
+<VOICE>(VA021_009)Así que por eso son solitarios,
+aunque formen parte del mismo grupo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981105]
+<STR>(JUD)
+<VOICE>(VA021_010)Sí.<PAGE><VOICE>(VA021_011)El saber de los humanos no puede
+compararse con el que han acumulado
+los entelechia a lo largo de su vida.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1292760066]
+<STR>(YUR)
+<VOICE>(VA021_012)Pero aunque son más listos que
+los humanos, no usan magia.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981105]
+<STR>(JUD)
+<VOICE>(VA021_013)Los entelechia no necesitan depender
+de la magia para poder defenderse.<PAGE><VOICE>(VA021_014)A diferencia de los humanos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1292760066]
+<STR>(YUR)
+<VOICE>(VA021_015)Vale, pero la magia se puede usar para
+otras cosas, no solo para defensa propia.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980702]
+<STR>(JUD)
+<VOICE>(VA021_016)Supongo que no desean otro poder
+más que el de protegerse a sí mismos.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1292760066]
+<STR>(YUR)
+<VOICE>(VA021_017)Así que tienen cualidades totalmente diferentes.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980702]
+<STR>(JUD)
+<VOICE>(VA021_018)Esas «cualidades diferentes»
+han iniciado las guerras entre
+los humanos y los entelechia.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980702]
+<STR>(YUR)
+<VOICE>(VA021_019)Y los dos bandos se aliaron
+vete a saber cómo en el pasado
+para derrotar al adephagos.<PAGE><VOICE>(VA021_020)Debió ser una época de locos.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980702]
+<STR>(JUD)
+<VOICE>(VA021_021)No lo sé... Ba'ul aún es joven.
+En aquellos tiempos
+aún no había nacido.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980702]
+<STR>(YUR)
+<VOICE>(VA021_022)Aun así, ya tiene más de
+cien años, ¿verdad?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980702]
+<STR>(JUD)
+<VOICE>(VA021_023)Je, sí. Pero eso es 
+como tener veinte años
+si fuese un humano.<PAGE><VOICE>(VA021_024)Imagino que Phaeroh
+sabrá de los acontecimientos
+de esos tiempos.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1292761119]
+<STR>(YUR)
+<VOICE>(VA021_025)Me pregunto si querrá
+contarnos algo del tema.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980702]
+<STR>(JUD)
+<VOICE>(VA021_026)No lo sabremos hasta que no se lo preguntemos.<PAGE><VOICE>(VA021_027)¿Vamos a verlo para que se lo preguntes en persona?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980702]
+<STR>(YUR)
+<VOICE>(VA021_028)Pronto lo veremos.<PAGE><VOICE>(VA021_029)Aún no hemos encontrado ninguna
+solución para lo de <STR>(EST_P), así que
+seguramente nos caería una bronca.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1292761044]
+<STR>(JUD)
+<VOICE>(VA021_030)Tienes razón.

@@ -1,0 +1,51 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272873681]
+<STR>(EST_P)
+<VOICE>(VS17_059)¡¿<STR>(RIT)?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241575]
+<STR>(RIT)
+<VOICE>(VS17_060)Tranquilos. Lo arreglo
+en un santiamén...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272873681]
+<STR>(RAP)
+<VOICE>(VS17_061)¡¡Guau!!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1277289022]
+Tison
+<VOICE>(VS17_062)¿Quiénes son los cabeza hueca que han decidido
+ignorar nuestra amistosa advertencia?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241575]
+<STR>(YUR)
+<VOICE>(VS17_063)Lo siento. Me temo que ninguno de nosotros es
+tan buenazo como para tomar vuestra «amistosa»
+advertencia demasiado en serio.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241575]
+Tison
+<VOICE>(VS17_064)Mmpf. Lo que tú di... Vaya, mira.
+Pero si es ese enano de <STR>(KAR),
+a quien pusimos de patitas en la calle.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241575]
+Tison
+<VOICE>(VS17_065)El aer debe haberles afectado.
+Parece estar muy condensado por ahí.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241575]
+Clint
+<VOICE>(VS17_066)Es justo lo que necesitamos. Vosotros
+quedaos ahí y portaos como niños buenos.<PAGE><VOICE>(VS17_067)Tan solo nos interesa
+acabar con este brutote.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241575]
+<STR>(YUR)
+<VOICE>(VS17_068)Veo que os gusta fanfarronear.
+Tener una mascota es una
+gran responsabilidad, que lo sepáis.<PAGE><VOICE>(VS17_069)Ni se os ocurra abandonarlo
+para que lo cuide otro.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272873681]
+<STR>(EST_P)
+<VOICE>(VS17_070)¡Aaah!

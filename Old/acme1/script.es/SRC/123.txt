@@ -1,0 +1,107 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:parsec;time:1271708944]
+<STR>(YUR)
+Madre mía, qué pesados.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:parsec;time:1271872825]
+<STR>(EST_P)
+Ojalá pudiéramos esperar a que
+volviese <STR>(FRE)...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+<STR>(KAR)
+¿Quién es ese tal <STR>(FRE)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+<STR>(YUR)
+Es un Caballero Imperial
+que le chifla a <STR>(EST_P).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:parsec;time:1271708715]
+<STR>(KAR)
+¡¿Qué?!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:parsec;time:1271708715]
+<STR>(EST_P)
+¡No es cierto!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+<STR>(YUR)
+Oh, ¿no? Vaya... así que
+ya habéis pasado a mayores.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1272375852]
+<STR>(EST_P)
+¡No, te equivocas!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+<STR>(YUR)
+Bueno, da igual; será mejor que
+salgamos cuanto antes de la ciudad.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:parsec;time:1271708944]
+<STR>(EST_P)
+Sí, tienes razón.
+No queremos causarles problemas
+a los aldeanos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+<STR>(KAR)
+¿Sabéis adónde ha ido ese tal <STR>(FRE)?
+Podríamos seguirlo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:parsec;time:1271709109]
+<STR>(YUR)
+¿No nos dijeron que 
+se dirigía hacia el este?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+<STR>(EST_P)
+Sí, eso es.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1273700221]
+<STR>(YUR)
+Me gustaría llegar a Aspio.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+<STR>(YUR)
+Salgamos de aquí antes de que
+aparezca la banda de esbirros.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+Esperad.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+Os merecéis una recompensa por curar el árbol.
+Pasaos por mi casa, por favor.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:parsec;time:1271872825]
+<STR>(EST_P)
+Oh, no se moleste.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+Os estaré esperando en mi casa.
+Por favor, venid.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+<STR>(EST_P)
+Eh, espere...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:parsec;time:1271873056]
+<STR>(KAR)
+¿Una recompensa? ¿En serio?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+<STR>(YUR)
+Muy bien, supongo que no podemos
+ignorar su oferta e irnos.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+<STR>(EST_P)
+La verdad es que no estoy
+segura de lo que he hecho.
+No creo que me merezca nada.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1273691851]
+<STR>(YUR)
+Aun así, pasémonos por la casa del alcalde.
+Siempre podemos rechazar su oferta.

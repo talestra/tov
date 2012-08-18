@@ -1,0 +1,101 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1274628723]
+<STR>(YUR)
+<VOICE>(VS23_047)¿Qué está pasando aquí?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215565]
+<STR>(FRE)
+<VOICE>(VS23_048)¡<STR>(YUR)!
+¡Protege a Su Alteza!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215565]
+<STR>(KAR)
+<VOICE>(VS23_049)¡<STR>(YUR), mira!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1274628723]
+Witcher
+<VOICE>(VS23_052)¡Por aquí, maldito demonio!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1274628723]
+Sodia
+<VOICE>(VS23_053)¿Por qué nos ignora?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1274628723]
+<STR>(EST_P)
+<VOICE>(VS23_054)¿Viene... a por mí?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215565]
+<STR>(FRE)
+<VOICE>(VS23_055)El Comandante...
+¿Qué está haciendo aquí?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215565]
+Alexei
+<VOICE>(VS23_056)Nuestros mejores Caballeros...<PAGE><VOICE>(VS23_057)No tengo elección.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1274628723]
+Alexei
+<VOICE>(VS23_058)¡Detendremos a esta bestia
+con la ayuda de Heracles!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215565]
+Alexei
+<VOICE>(VS23_059)¡<STR>(YUR), espera! 
+¡No hay nada que puedas hacer!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215565]
+<STR>(YUR)
+<VOICE>(VS23_060)¡Ja! ¿Acaso esperas que me quede
+de brazos cruzados mientras el bicho
+ese se zampa a <STR>(EST_P)?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215565]
+<VOICE>(VS23_061)El insulso veneno de este mundo
+debe ser purgado.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084758]
+<STR>(EST_P)
+<VOICE>(VS23_062)¡Puede hablar!
+¿Qu-quién eres?...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1274628723]
+<STR>(EST_P)
+<VOICE>(VS23_063)¡<STR>(YUR)!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1274628723]
+<STR>(YUR)
+<VOICE>(VS23_064)Estás a salvo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215565]
+<STR>(YUR)
+<VOICE>(VS23_065)¿Qué es eso?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1274628723]
+<STR>(EST_P)
+<VOICE>(VS23_066)Heracles...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215565]
+<STR>(KAR)
+<VOICE>(VS23_067)¡Tenemos que salir de aquí!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215565]
+<STR>(YUR)
+<VOICE>(VS23_068)Voy a irme de la ciudad
+y continuar mi viaje.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1274628777]
+<STR>(EST_P)
+<VOICE>(VS23_069)¿Qué quieres decir?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215565]
+<STR>(YUR)
+<VOICE>(VS23_070)
+Si piensas volver a la capital,
+no deberías hacer esperar a <STR>(FRE).
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1274628723]
+<STR>(YUR)
+<VOICE>(VS23_071)La elección es tuya.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1274628723]
+<STR>(EST_P)
+<VOICE>(VS23_072)Entonces, yo...

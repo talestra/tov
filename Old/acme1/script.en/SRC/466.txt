@@ -1,0 +1,55 @@
+## POINTER 0
+<STR>(JUD)
+All those refugees...the capital 
+must be in a sorry state.
+
+## POINTER 1
+<STR>(RAV)
+What evil y'think that bastard Alexei's 
+going to perpetrate next?
+
+## POINTER 2
+<STR>(RIT)
+Who cares about Alexei?<PAGE>...<STR>(EST_P). I want 
+to save <STR>(EST_P).
+
+## POINTER 3
+<STR>(JUD)
+Yes. But to do that we need 
+to take care of Alexei.<PAGE>And we need to come up with 
+a better plan to do it.<PAGE>We can't let ourselves get blasted all 
+the way back to Nor Harbor again.
+
+## POINTER 4
+<STR>(RIT)
+...
+
+## POINTER 5
+<STR>(YUR)
+...
+
+## POINTER 6
+<STR>(RAV)
+Well, we can't go anywhere 'til <STR>(KAR) gets 
+better, so we might as well gather some 
+info 'round town, dontcha think?
+
+## POINTER 7
+<STR>(JUD)
+...Good idea. Someone might end up saying 
+just the thing we need to hear.
+
+## POINTER 8
+<STR>(YUR)
+...Wasn't the innkeeper saying that someone important 
+from the capital was in the Mayor's house?<PAGE>Let's go and have a look-see.
+
+## POINTER 9
+<STR>(YUR)
+...Old man?
+
+## POINTER 10
+<STR>(RAV)
+Someone's gotta look after the 
+boy, don't they? Leave that to 
+me. You kids go on ahead.

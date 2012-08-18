@@ -1,0 +1,109 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283517953]
+<STR>(RIT)
+<VOICE>(VS42_238)¡El Heracles se ha ido!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190668]
+<STR>(YUR)
+<VOICE>(VS42_239)Tal y como ha dicho <STR>(RAV),
+deben haber partido en
+dirección a Zaphias.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190668]
+<VOICE>(VS42_240)¿Y-<STR>(YUR) Lowell?
+¡¿Qué estás haciendo aquí?¡
+
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Dagorat;time:1276272205]
+<STR>(YUR)
+<VOICE>(VS42_241)¿Leblanc? Hasta Don Quijote 
+y Sancho Panza están aquí. 
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Dagorat;time:1276272205]
+Adecor
+<VOICE>(VS42_242)¡Dejad de llamarme así, proclamo!
+
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Dagorat;time:1276272205]
+Boccos
+<VOICE>(VS42_243)¡Basta ya! ¿Y quién diantres es ese Sancho Panza?
+
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Dagorat;time:1276272205]
+Leblanc
+<VOICE>(VS42_244)¡Idiotas! ¡Este no es 
+momento para tonterías!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190668]
+Leblanc
+<VOICE>(VS42_245)¿Habéis visto a nuestro
+capitán Schwann?<PAGE><VOICE>(VS42_246)No he hablado con él desde que
+se unió a la operación de 
+Su Excelencia el Comandante.<PAGE><VOICE>(VS42_247)Lo cierto es que no alcanzo 
+a comprender las últimas 
+acciones del Comandante.<PAGE><VOICE>(VS42_248)Hemos buscado por todas partes,
+hasta que nos han informado de la
+presencia del Heracles en este lugar.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283518014]
+<STR>(YUR)
+<VOICE>(VS42_249)Alexei va camino de la 
+capital. En el Heracles.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Dagorat;time:1276643478]
+Leblanc
+<VOICE>(VS42_250)¡Vaya, entonces llegamos tarde!
+¿Y qué hay del capitán Schwann?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190668]
+<STR>(KAR)
+<VOICE>(VS42_251)Rav... Schwann nos ha salvado.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190668]
+Leblanc
+<VOICE>(VS42_252)Ooh, ¿os ha salvado? Entonces,
+¿también está a bordo del Heracles?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190668]
+<STR>(JUD)
+<VOICE>(VS42_253)Está en la grieta...
+En la parte más profunda...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Dagorat;time:1276643478]
+Adecor
+<VOICE>(VS42_254)¿Disculpad?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Dagorat;time:1276643478]
+Boccos
+<VOICE>(VS42_255)Espera, espera...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190668]
+Leblanc
+<VOICE>(VS42_256)No, no puede ser...
+¡Me niego a creerlo!<PAGE><VOICE>(VS42_257)¡Cuéntame lo que ha pasado!
+¡Quiero oírlo todo, <STR>(YUR) Lowell!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190668]
+<STR>(RIT)
+<VOICE>(VS42_258)¡Casi morimos por 
+culpa de Alexei!<PAGE><VOICE>(VS42_259)¡Si seguimos vivos es gracias 
+a vuestro capitán!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190668]
+<STR>(YUR)
+<VOICE>(VS42_260)Por lo visto, Alexei tiene algún
+tipo de plan secreto para el
+Imperio, y no puede ser bueno.<PAGE><VOICE>(VS42_261)Vamos a asegurarnos de que
+no tenga ni la más mínima
+posibilidad de realizarlo.<PAGE><VOICE>(VS42_262)Si todavía os consideráis
+Caballeros, os apartaréis
+y nos dejaréis pasar.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527455]
+Leblanc
+<VOICE>(VS42_263)Pero ¿cómo... cómo ha 
+podido acabar así?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Dagorat;time:1276643478]
+<STR>(JUD)
+<VOICE>(VS42_264)Démonos prisa. 
+Llamaré a Ba'ul.

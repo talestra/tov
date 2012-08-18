@@ -1,0 +1,299 @@
+## POINTER 0
+Test Name
+
+## POINTER 1
+The Coliseum City, Nordopolica
+
+## POINTER 2
+Test Name
+
+## POINTER 3
+The Fount of Warmth, Yumanju
+
+## POINTER 4
+The Fount of Warmth, Yumanju
+
+## POINTER 5
+The Fount of Warmth, Yumanju
+
+## POINTER 6
+The Fount of Warmth, Yumanju
+
+## POINTER 7
+The Ghost Ship, Atherum
+
+## POINTER 8
+The Ghost Ship, Atherum
+
+## POINTER 9
+The Ghost Ship, Atherum
+
+## POINTER 10
+The Ghost Ship, Atherum
+
+## POINTER 11
+The Ghost Ship, Atherum
+
+## POINTER 12
+The Ghost Ship, Atherum
+
+## POINTER 13
+The Ghost Ship, Atherum
+
+## POINTER 14
+Hope and Glory, Fiertia
+
+## POINTER 15
+Hope and Glory, Fiertia
+
+## POINTER 16
+The Imperial Army, Battleship
+
+## POINTER 17
+Hope and Glory, Fiertia
+
+## POINTER 18
+Forest of Keiv Moc
+
+## POINTER 19
+Forest of Keiv Moc
+
+## POINTER 20
+Forest of Keiv Moc
+
+## POINTER 21
+Forest of Keiv Moc
+
+## POINTER 22
+Forest of Keiv Moc
+
+## POINTER 23
+Forest of Keiv Moc
+
+## POINTER 24
+Forest of Keiv Moc
+
+## POINTER 25
+Forest of Keiv Moc
+
+## POINTER 26
+Forest of Keiv Moc
+
+## POINTER 27
+Forest of Keiv Moc
+
+## POINTER 28
+The Imperial Capital, Zaphias, Lower Quarter
+
+## POINTER 29
+The Imperial Capital, Zaphias, Lower Quarter
+
+## POINTER 30
+The Imperial Capital, Zaphias, Lower Quarter
+
+## POINTER 31
+The Imperial Capital, Zaphias, Lower Quarter
+
+## POINTER 32
+The Imperial Capital, Zaphias, Lower Quarter
+
+## POINTER 33
+The Imperial Capital, Zaphias, Lower Quarter
+
+## POINTER 34
+The Imperial Capital, Zaphias, Royal Quarter
+
+## POINTER 35
+The Imperial Capital, Zaphias, Royal Quarter
+
+## POINTER 36
+The Imperial Capital, Zaphias, Royal Quarter
+
+## POINTER 37
+The Imperial Capital, Zaphias, Royal Quarter
+
+## POINTER 38
+The Imperial Capital, Zaphias, Dungeon
+
+## POINTER 39
+The Imperial Capital, Zaphias Castle
+
+## POINTER 40
+The Imperial Capital, Zaphias Castle
+
+## POINTER 41
+The Imperial Capital, Zaphias Castle
+
+## POINTER 42
+The Imperial Capital, Zaphias Castle, Dining Hall
+
+## POINTER 43
+The Imperial Capital, Zaphias Castle
+
+## POINTER 44
+The Imperial Capital, Zaphias Castle, <STR>(FRE)'s Room
+
+## POINTER 45
+The Imperial Capital, Zaphias Castle
+
+## POINTER 46
+The Imperial Capital, Zaphias Castle
+
+## POINTER 47
+The Imperial Capital, Zaphias Castle
+
+## POINTER 48
+The Imperial Capital, Zaphias Castle
+
+## POINTER 49
+The Imperial Capital, Zaphias Castle
+
+## POINTER 50
+The Imperial Capital, Zaphias Castle
+
+## POINTER 51
+The Imperial Capital, Zaphias Castle
+
+## POINTER 52
+The Imperial Capital, Zaphias Castle
+
+## POINTER 53
+The Imperial Capital, Zaphias Castle
+
+## POINTER 54
+The Imperial Capital, Zaphias Castle
+
+## POINTER 55
+The Imperial Capital, Zaphias Castle
+
+## POINTER 56
+The Imperial Capital, Zaphias Castle
+
+## POINTER 57
+The Imperial Capital, Zaphias Castle
+
+## POINTER 58
+The Imperial Capital, Zaphias Castle
+
+## POINTER 59
+The Imperial Capital, Zaphias Castle, Inn
+
+## POINTER 60
+The Imperial Capital, Zaphias Castle, Inn, Yuri's Room
+
+## POINTER 61
+The Imperial Capital, Zaphias Castle, Mordio Palace
+
+## POINTER 62
+The Imperial Capital, Zaphias, Public Quarter
+
+## POINTER 63
+The Imperial Capital, Zaphias, Royal Quarter
+
+## POINTER 64
+The Imperial Capital, Zaphias, Lower Quarter
+
+## POINTER 65
+The Imperial Capital, Zaphias, Lower Quarter
+
+## POINTER 66
+The Imperial Capital, Zaphias, Lower Quarter
+
+## POINTER 67
+The Imperial Capital, Zaphias, Lower Quarter
+
+## POINTER 68
+The Imperial Capital, Zaphias, Royal Quarter
+
+## POINTER 69
+The Imperial Capital, Zaphias, Royal Quarter
+
+## POINTER 70
+The Imperial Capital, Zaphias, Royal Quarter
+
+## POINTER 71
+The Imperial Capital, Zaphias, Royal Quarter
+
+## POINTER 72
+The Imperial Capital, Zaphias Castle, The Sword Stair
+
+## POINTER 73
+The Imperial Capital, Zaphias Castle
+
+## POINTER 74
+The Imperial Capital, Zaphias Castle
+
+## POINTER 75
+The Imperial Capital, Zaphias Castle, Statue Room
+
+## POINTER 76
+The Imperial Capital, Zaphias Castle, Statue Room
+
+## POINTER 77
+The Imperial Capital, Zaphias Castle
+
+## POINTER 78
+The Imperial Capital, Zaphias Castle
+
+## POINTER 79
+The Imperial Capital, Zaphias Castle
+
+## POINTER 80
+The Imperial Capital, Zaphias Castle, Statue Room
+
+## POINTER 81
+The Imperial Capital, Zaphias Castle, Statue Room
+
+## POINTER 82
+The Imperial Capital, Zaphias Castle, Audience Chamber
+
+## POINTER 83
+The Imperial Capital, Zaphias Castle
+
+## POINTER 84
+The Imperial Capital, Zaphias Castle
+
+## POINTER 85
+The Weasand of Cados
+
+## POINTER 86
+The Weasand of Cados
+
+## POINTER 87
+The Weasand of Cados
+
+## POINTER 88
+The Weasand of Cados
+
+## POINTER 89
+The Weasand of Cados
+
+## POINTER 90
+The City of Blossoms, Halure
+
+## POINTER 91
+The City of Blossoms, Halure
+
+## POINTER 92
+The City of Blossoms, Halure
+
+## POINTER 93
+The City of Blossoms, Halure
+
+## POINTER 94
+The City of Blossoms, Halure, Inn
+
+## POINTER 95
+The City of Blossoms, Halure, Inn
+
+## POINTER 96
+The City of Blossoms, Halure, Mayor's Residence
+
+## POINTER 97
+The City of Blossoms, Halure
+
+## POINTER 98
+The City of Blossoms, Halure
+
+## POINTER 99
+The City of Blossoms, Halure

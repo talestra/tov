@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282560172]
+<STR>(YUR)
+<VOICE>(VS37_149)¡¿<STR>(JUD_P)?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298487735]
+<STR>(EST_P)
+<VOICE>(VS37_150)Está dormida.
+Debía estar agotada.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298487735]
+<STR>(KAR)
+<VOICE>(VS37_151)
+Sí. Vamos, acaba
+de caer redonda.<PAGE><VOICE>(VS37_152)Eso no me lo esperaba.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298487735]
+<STR>(YUR)
+<VOICE>(VS37_153)
+Seguramente estuvo velando a Ba'ul
+mientras intentaba evolucionar.
+No creo que mientras haya dormido mucho.<PAGE><VOICE>(VS37_154)Tampoco creo que se esperase
+que fueran a atacarla los
+Espadas Cazadoras.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282560172]
+<STR>(RAV)
+<VOICE>(VS37_155)Puede que se estuviera haciendo
+la dura, pero ta claro que era
+tó fachada.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1285408721]
+<STR>(RIT)
+<VOICE>(VS37_156)Lo que pasa es que
+es incapaz de expresar sus
+sentimientos como es debido.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282560172]
+<STR>(YUR)
+<VOICE>(VS37_157)Ya acabaremos de hablar
+con ella mañana. Lo mejor
+ahora es dejarla dormir.<PAGE><VOICE>(VS37_158)Y a decir verdad, a mí
+tampoco me vendría mal.

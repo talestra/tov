@@ -1,0 +1,162 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS24_098)Have you calmed down?
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS24_099)Yeah...
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS24_100)So, what are you doing 
+in a place like this?
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS24_101)I thought I'd check out 
+the blastia here, before 
+investigating the aer krene.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS24_102)And you wound up biting off 
+a little more than you could 
+chew. Just like always.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS24_103)But what was it you 
+got involved in?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS24_104)They sneaked the blastia into 
+the labor camp at night. I mean, 
+that's already pretty shady.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS24_105)Don't tell me you were sneaking 
+around investigating it when 
+you got caught.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS24_106)Of course not. I was very stealthy about it.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS24_107)...And then you got caught.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS24_108)Well, I couldn't just sit around 
+while they were trying to do 
+something weird with the blastia.<PAGE><VOICE>(VS24_109)The people here have been 
+threatened by the Knights 
+and are being made to work.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS24_110)I bet Teagle's 
+in there, too.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS24_111)We cannot allow this to go on.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS24_112)And what about this 
+blastia you saw?
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS24_113)It was a hoplon blastia. 
+It looks like they're gathering 
+them up for a war.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS24_114)They wouldn't... You don't think they're 
+planning on attacking Dahngrest again?!
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS24_115)But why? After they've 
+just set up the friendship 
+agreement...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS24_116)It's gotta be Cumore. There's no 
+way he intends to keep any promises 
+he made to the guilds.
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS24_117)Do you know him, <STR>(YUR)?
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS24_118)You met him once, 
+at Caer Bocram.
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS24_119)Ah, you mean the guy with 
+the creepy voice.
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VS24_120)I don't mind discussing 
+things here, but aren't we 
+forgetting something?
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS24_121)That's right! We've got to rescue 
+Teagle and the others!
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS24_122)Then we'll put an end to that forced 
+labor, get rid of all the blastia 
+they're gathering...and, um...
+
+## POINTER 24
+<STR>(RIT)
+<VOICE>(VS24_123)You can't just get rid of 
+blastia. They need to be 
+recovered and taken care of.
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS24_124)Then we'll have the mages in 
+Aspio come pick them up.
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS24_125)Wait. We're being 
+careful, right...?
+
+## POINTER 27
+<STR>(EST_P)
+<VOICE>(VS24_126)But...
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS24_127)One thing at a time.
+
+## POINTER 29
+<STR>(EST_P)
+<VOICE>(VS24_128)R-right.
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS24_129)Okay, then let's get back to 
+our original plan and head down.
+
+## POINTER 31
+<STR>(EST_P)
+<VOICE>(VS24_130)Okay.

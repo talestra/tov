@@ -1,0 +1,83 @@
+## POINTER 0
+
+There ya are! Ya finally got here!<PAGE>Hey, time's a wastin'.
+Come on, hurry along now!
+
+## POINTER 1
+<STR>(KAR)
+Huh? Who?
+Me?
+
+## POINTER 2
+
+Who else does it look
+like I'm talking to?<PAGE>Youngsters these days...
+Showing up late the first day on the job...
+
+## POINTER 3
+<STR>(KAR)
+Ah, um, I think you
+got the wrong person...
+
+## POINTER 4
+
+Let me tell ya something, cleaning
+warehouses is a wonderful job.
+Don't you think any less of it.
+
+## POINTER 5
+<STR>(KAR)
+Um...ah...
+
+## POINTER 6
+
+All right, let's get going now!
+
+## POINTER 7
+<STR>(KAR)
+W..wait!
+
+## POINTER 8
+<STR>(EST_P)
+Um...ah...<STR>(KAR) went off
+with someone...
+
+## POINTER 9
+<STR>(JUD)
+Shouldn't we stop him?
+
+## POINTER 10
+<STR>(YUR)
+Ah, just let him be.
+
+## POINTER 11
+WarehouseＮＰＣ
+Hey, hey! Break time’s over!
+Start working again?
+
+## POINTER 12
+Will you help?
+Yes
+No
+
+## POINTER 13
+WarehouseＮＰＣ
+Let’s getta move on!
+
+## POINTER 14
+<STR>(KAR)
+Huh? Hey!
+Don’t just watch!
+
+## POINTER 15
+<STR>(EST_P)
+<STR>(YUR)?!
+
+## POINTER 16
+<STR>(YUR)
+It was funny, that’s all.
+
+## POINTER 17
+WarehouseＮＰＣ
+What? Still need more rest?
+Okay...just a little bit more.

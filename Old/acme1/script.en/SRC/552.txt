@@ -1,0 +1,55 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS65_020)Whoa...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS65_021)Man... How could all 
+of this be kept underground 
+for so long?
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS65_022)The ancient Geraios civilization. 
+This is more amazing than 
+anything in a book.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS65_023)Something feels strange.<PAGE><VOICE>(VS65_024)I know this is a weapon, because he's 
+going to use it against the Adephagos.<PAGE><VOICE>(VS65_025)But from outside, it looked like a city. Did 
+they turn an entire city into a weapon?
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS65_026)This place is enormous. 
+So many people must 
+have lived here.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS65_027)And now one man is holed 
+up in here to destroy 
+every last person.
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS65_028)Duke... I'd rather not meet 
+him if we don't have to.<PAGE><VOICE>(VS65_029)That soldier was already 
+a hero in the Great War.<PAGE><VOICE>(VS65_030)Who knows how much stronger 
+he's gotten since.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS65_031)What are you talking about?
+We'll just kill the Adephagos 
+before we fight Duke.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS65_032)Then Duke won't have a reason 
+to sacrifice humanity.
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS65_033)I hope so...

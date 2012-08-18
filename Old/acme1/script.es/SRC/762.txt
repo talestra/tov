@@ -1,0 +1,175 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296850975]
+<STR>(YUR)
+¿Cómo te va, Leblanc?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+Leblanc
+¡Capitán Schwaaaaaann!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296850975]
+<STR>(RAV)
+Nah, m'has confundío con otro.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324814]
+Leblanc
+¡Le pido disculpas!
+¡Es señor Raaaaaaven, a secas!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324814]
+<STR>(KAR)
+Ya está con lo de
+«señor <STR>(RAV), a secas».
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324574]
+<STR>(RAV)
+¿Qué hace un ex oficial de élite
+de la brigada de Schwann pastando
+por aquín?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296850975]
+Leblanc
+Ah, bueno, verá, en realidad...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(RAV)
+Un informe mu conciso, Leblanc.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324574]
+Leblanc
+¡Sí, señor! ¡Estaba sufriendo
+lo indecible por el futuro
+de la brigada de Schwann, señor!<PAGE>Creo que deberíamos unirnos a la brigada
+de <STR>(FRE), pero los demás tenientes opinan
+que deberíamos quedarnos en la capital.<PAGE>¡Nuestros subordinados perderán la fe en
+sus líderes si la duda nos paraliza!<PAGE>¡Es una vergüenza!
+¡¿Cómo puedo presentarme ante el
+capitán Schwann de esta manera?!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296850975]
+<STR>(RIT)
+¿Y qué pasaría si resultara...
+no sé... que lo tienes delante?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+Leblanc
+¡¡Lo siento mucho!!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(EST_P)
+¡<STR>(RIT)!
+Esto... ¿<STR>(RAV)?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(RAV)
+Bueno, tampoco puedo darle la espalda
+a la brigada. Fue Schwann quien los metió
+en este fregao.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324574]
+<STR>(JUD)
+¿Vas a reunir a los miembros
+de la brigada de Schwann
+y a volver a liderarlos?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296850975]
+<STR>(RAV)
+Leblanc... ¿Es eso lo
+que quieres que haga?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324814]
+Leblanc
+¡Señor, no, señor!
+¡No quiero causarle
+problemas, señor <STR>(RAV)!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(RAV)
+En ese caso, ¿quién va a decidir
+el futuro de la brigada?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296850975]
+Leblanc
+¡Señor, ese soy yo, señor!
+¡Será un honor responsabilizarme
+del liderazgo de la brigada!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324574]
+<STR>(RAV)
+Si vas a tomar una decisión,
+actúa de acuerdo a ella.<PAGE>Y pa mí que al Schwann ese le parecería buena
+idea que ayudarais a la brigada de <STR>(FRE),
+además de defender la capital.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+Leblanc
+¡Sí, señor!
+¡Gracias, señor!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(KAR)
+Le has dado
+un buen consejo.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(JUD)
+Nah, <STR>(RAV) solo les ha dado
+un empujoncillo. Leblanc ya sabía
+lo que quería hacer.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1304552834]
+<STR>(EST_P)
+La primera vez que oí que eras
+el capitan Schwann, no podía creerlo. 
+¡Pero estás a la altura de los rumores!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1296850975]
+<STR>(RIT)
+¿A la altura de los rumores,
+pero no de cómo tú pensabas
+que sería el capitán de marras?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(EST_P)
+¡No! Es decir...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(YUR)
+Ya hiciste lo mismo cuando Harry y los gremios
+te pidieron ayuda. En realidad te preocupas
+de cuidar de los demás, ¿verdad, viejales?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(RAV)
+Nah, he escuchado lo que Leblanc
+quería decirme. Ná más.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(JUD)
+Oh, ¿el señorito se sonroja?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1296851748]
+<STR>(RAV)
+Au, <STR>(JUD), cariño, dale cuartelillo
+ar viejo <STR>(RAV), ¿de acuerdo?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(KAR)
+Ayudas a la gente sin llegar a mimarlos...
+Eso es mazo difícil. Me pregunto si podré
+llegar a ser como tú, <STR>(RAV)...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(RAV)
+Poner ar viejo <STR>(RAV) en un pedestal
+no te llevará a ninguna parte en la vida, chaval.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1296850975]
+<STR>(EST_P)
+Mucha gente respeta
+y admira al capitán Schwann.<PAGE>No creo que tengas que
+negarlo todo acerca de él.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1293821436]
+<STR>(RAV)
+¡Soy incapaz de discutir
+con semejante monada!

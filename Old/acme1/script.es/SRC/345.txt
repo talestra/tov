@@ -1,0 +1,132 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(RAV)
+<VOICE>(VS31_156)Por fin llegas.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(YUR)
+<VOICE>(VS31_157)Perdonad la espera.<PAGE><VOICE>(VS31_158)Vosotros vais a volver,
+¿verdad?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1283287529]
+<VOICE>(VS31_159)Sí. Gracias por vuestra ayuda
+ya hemos recuperado las fuerzas.<PAGE><VOICE>(VS31_160)Hemos pensado en cruzar el desierto
+con vosotros... si no os importa.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(RAV)
+<VOICE>(VS31_161)Mientras no sus vayáis por ahín...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(KAR)
+<VOICE>(VS31_162)¿Y nosotros qué?
+¿Qué vamos a hacer ahora?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(RIT)
+<VOICE>(VS31_163)Yo iré al aer krene
+de la caverna de Cados.<PAGE><VOICE>(VS31_164)Aunque siento curiosidad
+por los entelechia esos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(RAV)
+<VOICE>(VS31_165)Yo tengo el honor de tener
+que entregarle la cartita
+esta a Belius.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1283287529]
+<STR>(KAR)
+<VOICE>(VS31_166)Yo también quiero ver a Belius al menos
+una vez. ¡Va en serio! ¡Es la Adalid!<PAGE><VOICE>(VS31_167)Quiero ver qué clase de persona es
+quien dirige el único gremio capaz
+de rivalizar con Altosk.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1283287529]
+<STR>(YUR)
+<VOICE>(VS31_168)Yo también voy a Nordopólica. Voy a ver
+a <STR>(FRE) a ver qué dice sobre los
+Caballeros de Mantaic.<PAGE><VOICE>(VS31_169)Suponiendo que siga estando
+allí, claro.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1283287529]
+<STR>(EST_P)
+<VOICE>(VS31_170)Yo... quiero saber por qué
+los entelechia odian tanto
+a los Hijos de la Luna Llena.<PAGE><VOICE>(VS31_171)Lo que significa que debo
+encontrar a Phaeroh...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(RIT)
+<VOICE>(VS31_172)Tiene que haber una manera
+de descubrir eso y que no
+implique tener que verlo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(YUR)
+<VOICE>(VS31_173)Claro... Además, no te será nada
+fácil encontrarlo si vas por ahí
+dando tumbos por el desierto.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(JUD)
+<VOICE>(VS31_174)¿Por qué no vamos todos
+a Nordopólica, entonces?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(JUD)
+<VOICE>(VS31_175)Lo único que quieres saber
+es por qué razón... te atacó
+un entelechia, ¿no es así?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1283287529]
+<STR>(EST_P)
+<VOICE>(VS31_176)S-Sí...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1283287529]
+<STR>(JUD)
+<VOICE>(VS31_177)Creo que es posible que Belius
+sea capaz de decírtelo si la ves.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(RIT)
+<VOICE>(VS31_178)¿Y eso por qué? ¿Por la relación
+entre los entelechia y el origen
+del coliseo?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1283287529]
+<STR>(RAV)
+<VOICE>(VS31_179)Es cierto que Yeager mencionó
+argo sobre los entelechia
+de Nordopólica.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(YUR)
+<VOICE>(VS31_180)Suponiendo que podamos
+creernos nada de lo que dijo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(RAV)
+<VOICE>(VS31_181)Bueno, pos pasaremos por
+la caverna de Cados de
+camino a Belius. ¿Os vale?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(YUR)
+<VOICE>(VS31_182)Nos vale. Pues, adelante.
+A Nordopólica se ha dicho.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(KAR)
+<VOICE>(VS31_183)Vale. Antes habrá que
+volver a Mantaic.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1280491444]
+<STR>(EST_P)
+<VOICE>(VS31_184)¿No se supone que Belius solo recibe
+visitas en las noches de luna nueva?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1283287529]
+<STR>(YUR)
+<VOICE>(VS31_185)Pues sí. Habrá que aligerar
+si queremos verla.<PAGE><VOICE>(VS31_186)Si nos saltamos la luna nueva y
+nos toca esperar otro mes, me daré
+de cabezazos contra un muro.

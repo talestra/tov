@@ -1,0 +1,38 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS23_104)I know we've got to 
+get out of town, but 
+I'm dyin' here.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS23_105)You're just not used to a 
+little morning exercise.<PAGE><VOICE>(VS23_106)It's not much further. 
+Come on, <STR>(KAR).
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS23_107)Just how far are we going?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS23_108)I guess Heliord's our closest destination. 
+So at least until there.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS23_109)What?!
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS23_110)Should we rest a little once 
+we get out of the city?
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS23_111)A-agreed!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS23_112)Okay, okay. Now 
+let's get moving.

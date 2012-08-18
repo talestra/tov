@@ -1,0 +1,108 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1295178555]
+
+¿Vas a pasar la noche aquí?
+¡Hoy mismo hemos pescado
+un pez gordote y delicioso!<PAGE>¡Deberíais quedaros en nuestra posada y
+probar el maravilloso arroz con marisco!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295178555]
+<STR>(RAV)
+¡Oh, eso sí que suena bueno!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1295178555]
+
+¿Te gusta el arroz con marisco, joven?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1295178555]
+<STR>(YUR)
+Sí, claro.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1295178555]
+
+Entonces, esto es para ti.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1295178555]
+<STR>(YUR)
+¿Una receta?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1295178555]
+<STR>(JUD)
+Es la receta del arroz con marisco.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297002211]
+
+Es el plato preferido de mi nieto, ¿sabes?
+Ahora trabaja con los Caballeros Imperiales
+y ya no lo veo muy a menudo.<PAGE>Tendrá más o menos la misma edad que tú, joven.
+Me encantaría darle a mi nieto un poco de la comida
+casera de su abuela. Seguro que la echa de menos...<PAGE>Oh, lo siento. Suelo irme por las ramas.
+Por favor, aceptadlo si os gusta.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297002211]
+<STR>(KAR)
+Un Caballero de la
+misma edad que <STR>(YUR)...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1295178555]
+<STR>(EST_P)
+Dijo que su familia vivía
+en Capua Nor, ¿verdad?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1295178555]
+<STR>(YUR)
+¿Tu nieto se
+llama Hachette?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1295178555]
+
+¿C-Cómo lo sabes?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1297002211]
+<STR>(YUR)
+Yo antes era Caballero.
+Entrené con él.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1295178950]
+
+¡Vaya, vaya!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1297002211]
+<STR>(YUR)
+De hecho, tengo un mensaje de él.
+Me pidió que te dijera que
+le va muy bien en Heliord.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1297002211]
+
+Sí, estoy seguro de que trabaja muy duro
+para los Caballeros... Me alegro.<PAGE>Gracias por decírmelo.
+Tengo que darte algo por tu consideración...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1295178950]
+<STR>(YUR)
+No, ya nos ha dado suficiente.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1295178950]
+<STR>(JUD)
+Seguro que usaremos tu
+receta. ¡Muchas gracias!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1297002211]
+Chef Maravillas
+Esa es mi frase...<PAGE>¡No tan deprisa! ¡La receta de mi arroz
+con marisco trascendental, el santo grial
+de la cocina, está justo aquí!<PAGE>¡¡Y ahora es vuestra!!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1297002211]
+<STR>(RIT)
+Ugh, vámonos...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:kaene;time:1295178950]
+<STR>(RAV)
+Por dicho...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1297002222]
+Chef Maravillas
+¡¿Qué?! ¿Adónde vais? ¡Tenéis que coger la
+receta de mi arroz con marisco trascendental!
+¡Es el resultado de mi agotadora investigación!

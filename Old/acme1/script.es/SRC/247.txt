@@ -1,0 +1,79 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1279364413]
+<STR>(YUR)
+¿Aún no te has dormido?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(KAR)
+Nah. Estaba pensando en un nombre para nuestro gremio.<PAGE>Tiene que ser algo que se salga.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(YUR)
+Claro, estoy impaciente.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(KAR)
+¿<STR>(YUR)?
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(YUR)
+¿Mmm?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(KAR)
+Ahora que lo pienso... Hemos formado
+el gremio sin jurar primero fidelidad
+a sus leyes, ¿verdad?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(YUR)
+Ya, pero ya lo hemos hecho esta mañana,
+¿no? No te preocupes.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(KAR)
+Sí. Oye, <PAGE><STR>(YUR).
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(YUR)
+¿Qué pasa?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(KAR)
+¿Esas leyes te las has inventado
+tú solo, o se las oíste decir
+a alguien?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(YUR)
+Simplemente me vinieron a la cabeza. ¿Qué pasa? ¿No te parecen buenas?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1279329319]
+<STR>(KAR)No, para nada. Es solo... que yo estaba
+pensando justamente en las mismas.<PAGE>No sabes cuánto me alegro de poder
+formar este gremio contigo, <STR>(YUR).
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(YUR)
+¡Ja, ja, ja! Qué cosas dices... No te me pongas pastelón.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(KAR)
+¡Ja, ja! Si yo... ¡Oh!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320020]
+<STR>(YUR)
+¿Q-Qué pasa ahora?
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(KAR)
+¡Se me ha ocurrido un nombre!<PAGE>¡Los Grandes Ultra Valientes Valerosos!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320020]
+<STR>(YUR)
+¡Ja, ja, ja! Un nombre muy propio del capitán
+<STR>(KAR), sin duda. Pues vamos con ello,
+entonces.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274631350]
+<STR>(KAR)
+¡Vale!

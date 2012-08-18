@@ -1,0 +1,106 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+Pauly
+Oh, ¡es la señorita <STR>(EST_P)!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+<STR>(EST_P)
+¡Oh, Pauly!
+¿Cómo estás?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+Pauly
+¡Bien! ¿Cómo está
+el perrito?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+<STR>(RAP)
+Auuu...
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398648]
+<STR>(KAR)
+Hala, <STR>(RAP) siendo amable con alguien.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809526]
+<STR>(YUR)
+A <STR>(RAP) le encanta jugar con
+niños que quieren a los perros.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809526]
+<STR>(KAR)
+¡¿De verdad?!
+¿Y yo qué?<PAGE>¡Mira, <STR>(RAP)! 
+¡Me gustas
+muchííííísimo!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+Teagle
+¡Hola!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809526]
+<STR>(YUR)
+Vaya, pensaba que os habíais ido
+de este sitio para siempre.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809526]
+Teagle
+A mi hijo le gusta este sitio.
+Venimos de vez en cuando.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809526]
+<STR>(YUR)
+Ya veo. Eso está bien.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809526]
+Kellas
+Bueno, Pauly, es hora
+de despedirnos.<PAGE>Me alegro mucho de veros.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+Pauly
+¡Adiós!
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809526]
+<STR>(EST_P)
+Me alegra verlos tan felices.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809526]
+<STR>(RAP)
+¡Guau, guau!
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+Kellas
+¡¡Aaaaah!!
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398648]
+<STR>(EST_P)
+¡¿Qué ha pasado?!
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+<STR>(EST_P)
+¡<STR>(RAP)!
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+Teagle
+¡Un monstruo ha
+secuestrado a Pauly!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809526]
+<STR>(YUR)
+¿Un monstruo dentro de una barrera?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284398524]
+<STR>(EST_P)
+¡<STR>(RAP) ha ido tras él! 
+¡Vamos!

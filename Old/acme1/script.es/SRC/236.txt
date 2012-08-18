@@ -1,0 +1,134 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1274051255]
+<STR>(FRE)
+<VOICE>(VS22_031)¿Es que la gente ya nunca llama a la puerta?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1274051255]
+<STR>(YUR)
+<VOICE>(VS22_032)Sabías que iba a venir.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1274051255]
+<STR>(YUR)
+<VOICE>(VS22_033)Ese uniforme...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1274051255]
+<STR>(FRE)
+<VOICE>(VS22_034)En el día de hoy, me han ascendido
+al puesto de capitán.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324711]
+<STR>(YUR)
+<VOICE>(VS22_035)Y así nace la brigada de <STR>(FRE), ¿eh? 
+Parece que has vuelto a superarme.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1274051255]
+<STR>(FRE)
+<VOICE>(VS22_036)Si así es como te sientes,
+deberías volver al cuerpo.<PAGE><VOICE>(VS22_037)Así podrías...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1274051255]
+<STR>(YUR)
+<VOICE>(VS22_038)No malgastes saliva.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1274051255]
+<STR>(YUR)
+<VOICE>(VS22_039)Felicidades por tu ascenso.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176505]
+<STR>(FRE)
+<VOICE>(VS22_040)Gracias...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1274626930]
+<STR>(FRE)
+<VOICE>(VS22_041)Pero no has venido aquí
+para celebrar nada.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1274051255]
+<STR>(YUR)
+<VOICE>(VS22_042)No, la verdad es que no.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1274051255]
+<STR>(FRE)
+<VOICE>(VS22_043)Es por lo de Ragou, ¿verdad?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176505]
+<STR>(FRE)
+<VOICE>(VS22_044)Adueñarse de Puerto Nor para su 
+propio beneficio. Cometer traición
+por su alianza con Barbos.<PAGE><VOICE>(VS22_045)Añade a todo eso robar al pueblo
+e incluso el exterminio de su propia gente,
+por la simple razón de que no le gustaban.<PAGE><VOICE>(VS22_046)Sus víctimas acabaron siendo 
+comida para monstruos o vendidos
+a quien pagara por un cadáver.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1274626930]
+<STR>(YUR)
+<VOICE>(VS22_047)Cabrón chiflado...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176505]
+<STR>(FRE)
+<VOICE>(VS22_048)¡Haber cometido semejantes
+crímenes y ni siquiera tener 
+que pagar por ellos!...<PAGE><VOICE>(VS22_049)La influencia del Consejo es mucho
+más poderosa de lo que imaginaba...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1274626930]
+<STR>(FRE)
+<VOICE>(VS22_050)Pensaba que con este ascenso a capitán
+estaría algo más cerca de mi objetivo.<PAGE><VOICE>(VS22_051)Pero he de aceptar el hecho de
+que la ley no puede castigar
+a alguien como Ragou.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176505]
+<STR>(YUR)
+<VOICE>(VS22_052)Pero sabes que no es el final.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176505]
+<STR>(YUR)
+<VOICE>(VS22_053)Ascenderás hasta que puedas 
+cambiar las cosas de verdad. 
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176505]
+<STR>(FRE)
+<VOICE>(VS22_054)Cierto, pero mientras mucha gente 
+seguirá sufriendo innecesariamente.
+Cuando pienso en eso, yo...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176505]
+<STR>(YUR)
+<VOICE>(VS22_055)No vayas a desesperarte
+y mandarlo todo a paseo.<PAGE><VOICE>(VS22_056)
+O todo lo que has avanzado no habrá servido para nada. 
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Dagorat;time:1274274001]
+<STR>(FRE)
+<VOICE>(VS22_057)...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Dagorat;time:1274274001]
+<STR>(YUR)
+<VOICE>(VS22_058)Si está por encima de ti, 
+sigue ascendiendo y...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176505]
+<STR>(FRE)
+<VOICE>(VS22_059)Sí. Algún día crearé un orden legal que trate
+a todo el mundo de forma imparcial. Debo hacerlo.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1280176505]
+<STR>(YUR)
+<VOICE>(VS22_060)Bien. Y yo seguiré haciendo 
+las cosas a mi manera. 
+
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Dagorat;time:1274274001]
+<STR>(FRE)
+<VOICE>(VS22_061)¿<STR>(YUR)?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Dagorat;time:1274274001]
+<STR>(YUR)
+<VOICE>(VS22_062)¿Cómo lograrías castigar a los 
+villanos que la ley no puede tocar?
+
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Dagorat;time:1274274001]
+<STR>(FRE)
+<VOICE>(VS22_063)Aún no lo he descubierto...

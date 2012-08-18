@@ -1,0 +1,241 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(RIT)
+<VOICE>(VS32_001)Fiuu... Ya hemos llegado.
+Ya he visto suficiente arena
+para el resto de mi vida.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<STR>(KAR)
+<VOICE>(VS32_002)Y que lo digas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(EST_P)
+<VOICE>(VS32_003)Mirad. Hay gente
+fuera de la ciudad.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(RIT)
+<VOICE>(VS32_004)Igual han levantado
+el toque de queda.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(RIT)
+<VOICE>(VS32_005)¡Cumore!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(RAV)
+<VOICE>(VS32_006)Quieta pará. No nos precipitemos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+Cumore
+<VOICE>(VS32_007)Rápido, rápido, subid todos.
+Vamos a disfrutar de este
+paseo por el desierto, ¿os parece?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<VOICE>(VS32_008)¡Pero si nos vamos,
+los niños...!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+Cumore
+<VOICE>(VS32_009)Prometo cubrir de riquezas
+a aquel que me traiga el cadáver
+de aquel enorme monstruo alado.<PAGE><VOICE>(VS32_010)Entonces vuestros hijos podrán
+disfrutar de una vida de lujos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288467]
+<VOICE>(VS32_011)¡Por favor, no nos hagáis ir!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+Cumore
+<VOICE>(VS32_012)¡Cesad vuestros lloriqueos!
+¡Os he dicho que subáis,
+chusma!<PAGE><VOICE>(VS32_013)
+¡Hacedlo inmediatamente!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<VOICE>(VS32_014)Así es como nos
+han enviado al desierto.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<STR>(KAR)
+<VOICE>(VS32_015)El enorme monstruo alado
+debe de ser Phaeroh.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551553]
+<STR>(RAV)
+<VOICE>(VS32_016)Pos sí. Pero ¿pa qué
+quieren capturarlo
+con tantas ganas?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(JUD)
+<VOICE>(VS32_017)Y bien, ¿qué hacemos?
+No iremos a quedarnos
+mirando, ¿verdad?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(EST_P)
+<VOICE>(VS32_018)Yo...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(YUR)
+<VOICE>(VS32_019)No creo que al cenutrio ese
+le vaya a dar por escuchar
+a nuestra princesita.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(EST_P)
+<VOICE>(VS32_020)¿Qué hacemos entonces?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<STR>(YUR)
+<VOICE>(VS32_021)<STR>(KAR), acércate.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<STR>(KAR)
+<VOICE>(VS32_022)¿Qué? Sí, puedo hacerlo,
+pero me harían falta herramientas.
+Espera, ¿te refieres a...?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(JUD)
+<VOICE>(VS32_023)Sí, puede ser de ayuda.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(KAR)
+<VOICE>(VS32_024)Qué oportuno...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(KAR)
+<VOICE>(VS32_025)Más os vale sacarme de ahí
+si las cosas se tuercen.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<STR>(YUR)
+<VOICE>(VS32_026)Así que al final lo cogiste.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<STR>(JUD)
+<VOICE>(VS32_027)Bueno, estaba ahí tirado.
+Pensé que podría resultar útil.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(RIT)
+<VOICE>(VS32_028)Lo que tú digas...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(RAV)
+<VOICE>(VS32_029)Ahora lo que nus toca es
+confiar en el chaval.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+Cumore
+<VOICE>(VS32_030)¿Qué mosca les ha picado a estos
+plebeyos? Son auténticas tortugas.
+¡Subid, maldita sea!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1303088548]
+<VOICE>(VS32_031)¡Don Cumore, todos
+están a bordo!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+Cumore
+<VOICE>(VS32_032)Todos salvo tú.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<VOICE>(VS32_033)¿Qué? ¿Y-Yo?...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+Cumore
+<VOICE>(VS32_034)Los que son lentos en
+su trabajo solo aprenden
+mediante escarmientos.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1303088548]
+<VOICE>(VS32_035)¡Don Cumore, por favor, se lo ruego! 
+Tengo mujer e hija...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+Cumore
+<VOICE>(VS32_036)Si tanto quieres quedarte...
+puedo arreglarlo para que
+ellas ocupen tu lugar.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+Cumore
+<VOICE>(VS32_037)¡Ahora desaparece de mi vista!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(EST_P)
+<VOICE>(VS32_038)<STR>(KAR).
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(JUD)
+<VOICE>(VS32_039)Tranquila. Ese jovencito
+es más que capaz.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+Cumore
+<VOICE>(VS32_040)¡¿Qué pasa aquí?! ¡¿Quién
+ha preparado este carruaje?!
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+Cumore
+<VOICE>(VS32_041)¡Agh! ¡Arreglad el carruaje
+del demonio! ¡Atraparé
+al responsable de esto!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<STR>(RIT)
+<VOICE>(VS32_042)Tengo que admitirlo.
+El renacuajo lo ha hecho muy bien.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<STR>(YUR)
+<VOICE>(VS32_043)Lo has conseguido.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(KAR)
+<VOICE>(VS32_044)Jolín... Creía que se me
+salía el corazón del pecho.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(RIT)
+<VOICE>(VS32_045)Pero esto como mucho nos
+da un poco de tiempo.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(JUD)
+<VOICE>(VS32_046)No creo que podamos hacer
+nada más por el momento.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(YUR)
+<VOICE>(VS32_047)Ya, el capitán <STR>(KAR) se pondría
+a llorar si nos pusiéramos a zurrar
+a los Caballeros.
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(RAV)
+<VOICE>(VS32_048)¿Qué sus parece si ahuecamos
+el ala antes de que la gente
+se ponga demasiado curiosa?
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<VOICE>(VS32_049)Supongo que es hora de separarnos, entonces...
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:xander;time:1280492847]
+<STR>(YUR)
+<VOICE>(VS32_050)Sí. Vuestros hijos se alegrarán un montón
+de veros. Pero recordad que no siempre
+habrá alguien ahí para rescataros.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<VOICE>(VS32_051)Gracias de nuevo
+por vuestra ayuda.
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1283288435]
+<STR>(YUR)
+<VOICE>(VS32_052)Creo que nos convendría
+descansar en la posada.

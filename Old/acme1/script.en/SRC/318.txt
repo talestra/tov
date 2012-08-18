@@ -1,0 +1,91 @@
+## POINTER 0
+<STR>(YUR)
+You can't open that 
+without a key.
+
+## POINTER 1
+<STR>(RIT)
+I know.
+
+## POINTER 2
+<STR>(YUR)
+Are you really going to return it?
+
+## POINTER 3
+<STR>(RIT)
+Yes, I am. You got a problem with that?
+
+## POINTER 4
+<STR>(YUR)
+Nope...
+
+## POINTER 5
+<STR>(RIT)
+You saw what happened in Nordopolica. 
+This thing made it so I couldn't 
+control my magic.<PAGE>The clear ciel crystal 
+inside this box interferes 
+with aer somehow.
+
+## POINTER 6
+<STR>(YUR)
+Interferes with aer? How 
+could a tiny box like this 
+do something like that?
+
+## POINTER 7
+<STR>(RIT)
+I don't know. That's why 
+I wish I could open this 
+box somehow...
+
+## POINTER 8
+<STR>(YUR)
+There's a good chance that 
+we'd be able to find a key 
+for the box in Yormgen.
+
+## POINTER 9
+<STR>(RIT)
+For me, this doesn't have anything 
+to do with <STR>(EST_P) wanting to 
+return it anymore.
+
+## POINTER 10
+<STR>(YUR)
+So then you're going to look 
+for the town of Yormgen that 
+was mentioned in that diary?
+
+## POINTER 11
+<STR>(RIT)
+Yes, if I can...
+
+## POINTER 12
+<STR>(YUR)
+If you can?
+
+## POINTER 13
+<STR>(RIT)
+I can't leave <STR>(EST_P) 
+behind.
+
+## POINTER 14
+<STR>(YUR)
+Sure you can, if you want to.
+
+## POINTER 15
+<STR>(RIT)
+I'd like to leave her 
+behind. But...I can't.
+
+## POINTER 16
+<STR>(YUR)
+...
+
+## POINTER 17
+<STR>(RIT)
+Until now, she was 
+so careful...how 
+could she...<PAGE>She couldn't be serious about going 
+alone into the desert...could she?

@@ -1,0 +1,230 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(RAV)
+<VOICE>(VS59_068)Hala...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(JUD)
+<VOICE>(VS59_069)Conque este es el manantial más antiguo del mundo...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(EST_P)
+<VOICE>(VS59_070)Cuánta tranquilidad... El aire
+es tan puro... Transmite divinidad.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(YUR)
+<VOICE>(VS59_071)Jamás habría imaginado que
+pudiera haber un sitio así
+al pie de la montaña.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152898]
+<STR>(RIT)
+<VOICE>(VS59_072)¡Cuidado! Eso de ahí es aer,
+no agua. Y muy concentrado.
+Mejor que no os acerquéis.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+
+<VOICE>(VS59_073)Habéis venido.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(KAR)
+<VOICE>(VS59_074)¡Eh, esa es...!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(YUR)
+<VOICE>(VS59_075)Eres Khroma, ¿verdad?<PAGE><VOICE>(VS59_076)No tiene pinta de que quieras
+intentar vengar a Alexei.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152898]
+Khroma
+<VOICE>(VS59_077)Duke no os ha escuchado, ¿verdad?<PAGE><VOICE>(VS59_078)Intenta proteger el mundo a su manera.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(KAR)
+<VOICE>(VS59_079)¡¿Qué pretende hacer
+Duke, entonces?!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152898]
+Khroma
+<VOICE>(VS59_080)Dar las vidas de toda
+la humanidad a cambio
+de la salvación del mundo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(RIT)
+<VOICE>(VS59_081)¡¿Cómo?!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152898]
+<STR>(EST_P)
+<VOICE>(VS59_082)¿Por qué iba Duke
+a hacer algo así?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+Khroma
+<VOICE>(VS59_083)No confía
+en los humanos.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152898]
+<STR>(KAR)
+<VOICE>(VS59_084)¡Pero Duke ya nos
+ha ayudado antes!<PAGE><VOICE>(VS59_085)Hasta nos prestó
+su apreciada espada...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152898]
+Khroma
+<VOICE>(VS59_086)Supongo que vio algo
+de sí mismo en
+vosotros.<PAGE><VOICE>(VS59_087)O puede que pensara que
+no tenía por qué ensuciarse
+las manos teniéndoos a vosotros.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(EST_P)
+<VOICE>(VS59_088)¿Qué estás...?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152898]
+<STR>(YUR)
+<VOICE>(VS59_089)¿Por qué nos cuentas
+esto de Duke?<PAGE><VOICE>(VS59_090)Creo que ya va siendo hora de que muestres
+quién eres en realidad, entelechia.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(KAR)
+<VOICE>(VS59_091)¡¿Ein?!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152898]
+<STR>(JUD)
+<VOICE>(VS59_092)¡Esa forma!...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(YUR)
+<VOICE>(VS59_093)¿Qué es lo que quieres?
+¿Intentas decirnos con rodeos
+que no nos vas a ayudar?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+Khroma
+<VOICE>(VS59_094)Yo tampoco puedo confiar en los humanos...
+Pero tampoco quiero ver cómo se cobra
+una venganza con los de su propia especie.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+Khroma
+<VOICE>(VS59_095)Si en verdad podéis salvar este mundo,
+no me negaré a ayudaros.<PAGE><VOICE>(VS59_096)No obstante, habéis escogido
+una senda distinta. Probablemente
+acabaréis enfrentándoos a él.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(YUR)
+<VOICE>(VS59_097)Ya... Puede.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+Khroma
+<VOICE>(VS59_098)Si está más allá de vuestro poder,
+entonces no hay nada ni nadie en
+este mundo que pueda detenerlo.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152898]
+Khroma
+<VOICE>(VS59_099)¡Debo poner a prueba
+vuestra fuerza!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152898]
+<STR>(YUR)
+<VOICE>(VS59_100)¡Que viene!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1291152898]
+Khroma
+<VOICE>(VS59_101)
+Maravilloso...
+Es posible... que en verdad...
+podáis salvar el mundo...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(JUD)
+<VOICE>(VS59_102)Khroma...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+Khroma
+<VOICE>(VS59_103)Haced como gustéis.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(RIT)
+<VOICE>(VS59_104)<STR>(EST_P)... 
+Vamos. <STR>(JUD)...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(EST_P)
+<VOICE>(VS59_105)Sí...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(YUR)
+<VOICE>(VS59_106)Hacedlo.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(KAR)
+<VOICE>(VS59_107)¡Ha funcionado!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(RIT)
+<VOICE>(VS59_108)Está durmiendo...
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(EST_P)
+<VOICE>(VS59_109)Ha pasado lo mismo que con Gnome.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+Undine
+<VOICE>(VS59_110)Ha nacido un
+nuevo camarada.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+Efreet
+<VOICE>(VS59_111)La que controla los vientos.
+A veces sosegada, a veces iracunda.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+Undine
+<VOICE>(VS59_112)La que controla los vientos.
+A veces sosegada, a veces iracunda.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+Undine
+<VOICE>(VS59_113)No está afectada por el
+aer, como pasó con Gnome.<PAGE><VOICE>(VS59_114)No tardará en despertarse.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+Undine
+<VOICE>(VS59_115)No hay nada que temer.
+Se despertará dentro de poco.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(EST_P)
+<VOICE>(VS59_116)Gracias, 
+Undine.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(KAR)
+<VOICE>(VS59_117)Parece que Khroma 
+conocía bien a Duke.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(JUD)
+<VOICE>(VS59_118)Así es. Puede que podamos
+preguntarle más cuando despierte.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(YUR)
+<VOICE>(VS59_119)Por ahora, regresemos.
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(RIT)
+<VOICE>(VS59_120)Sí. No nos sobra el tiempo
+para malgastarlo por aquí.
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:xander;time:1286731635]
+<STR>(RAV)
+<VOICE>(VS59_121)Oh... Er camino ese otra vez no...
+Mis viejos huesos tan mu cansaos...

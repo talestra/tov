@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523924]
+Natz
+Supongo que me habéis salvado otra vez.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523924]
+<STR>(KAR)
+Parece que solo han atacado
+esta ciudad. Qué mala suerte.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523924]
+<STR>(RIT)
+Esto no tiene nada que ver con la suerte.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523924]
+<STR>(EST_P)
+¿Dónde estabas, <STR>(RIT)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576098]
+<STR>(RIT)
+Comprobando la barrera blastia.<PAGE>Le habían aumentado la potencia.<PAGE>Creo que eso ha sido lo que
+ha atraído a los monstruos.<PAGE>Su poder ha vuelto a la normalidad.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1290372796]
+Natz
+Creíamos que aumentando la potencia nos protegeríamos
+mejor, pero ha tenido el efecto contrario.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523924]
+Natz
+Iré a ver a los ciudadanos.<PAGE>Podéis descansar aquí
+el tiempo que queráis.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576098]
+<STR>(YUR)
+Se agradece la oferta, pero
+tenemos cosas que hacer.
+Deberíamos ponernos en marcha.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576098]
+Natz
+Aquí seréis siempre bienvenidos.
+Intentad pasar por aquí cuando
+tengáis tiempo.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523924]
+<STR>(YUR)
+Gracias.

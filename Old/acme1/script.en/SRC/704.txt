@@ -1,0 +1,32 @@
+## POINTER 0
+
+
+## POINTER 1
+<STR>(RIT)
+
+## POINTER 2
+<STR>(KAR)
+
+## POINTER 3
+<STR>(EST_P)
+
+## POINTER 4
+<STR>(RIT)
+
+## POINTER 5
+<STR>(EST_P)
+
+## POINTER 6
+<STR>(RIT)
+
+## POINTER 7
+<STR>(EST_P)
+
+## POINTER 8
+<STR>(RIT)
+
+## POINTER 9
+<STR>(EST_P)
+
+## POINTER 10
+<STR>(RIT)

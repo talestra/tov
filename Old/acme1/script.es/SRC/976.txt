@@ -1,0 +1,91 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(KAR)
+El engranaje no se mueve...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(KAR)
+Parece que es
+porque sus dientes
+no están engranados.<PAGE>Debería moverse
+si lo empujáramos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(YUR)
+No vamos a malgastar energía
+moviendo mecanismos extraños.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(RIT)
+Comprendo... Así que esto es lo
+que impulsa el suministro de aer.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(KAR)
+Parece que es
+porque sus dientes
+no están engranados.<PAGE>Debería moverse
+si lo empujáramos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(YUR)
+No vamos a malgastar energía
+moviendo mecanismos extraños.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(RIT)
+Comprendo... Así que esto es lo
+que impulsa el suministro de aer.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(YUR)
+Entonces, ¿si movemos esto
+podremos bajar la escalera?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(RIT)
+Mmmm... Quizá, aunque no estoy segura.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(KAR)
+Parece que es
+porque sus dientes
+no están engranados.<PAGE>Debería moverse
+si lo empujáramos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(KAR)
+Uff... Uff... Y-<STR>(YUR)...
+Échame una mano...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(EST_P)
+Esto me recuerda a lo
+de las ruinas de Shaikos.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(YUR)
+Entonces puede que no
+se mueva ni un pelo
+por mucho que lo intente.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(JUD)
+Ahora que lo dices,
+¿por qué no usamos esa cosita?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(YUR)
+¿Una cosita?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(JUD)
+Sí, ya sabes. ¿Te acuerdas
+de cuando absorbió el aer?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(EST_P)
+¿De qué cosita hablas, <STR>(JUD)?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1280070952]
+<STR>(YUR)
+Ah, sí; el Anillo del Hechicero, ¿verdad?

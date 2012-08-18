@@ -1,0 +1,117 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS33_001)Take cover.
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VS33_002)Huh. Guess it's only 
+natural they're guarding 
+this end, too.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS33_003)<STR>(RAV), can you do something 
+like you did before?
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS33_004)Best not ta press your luck 
+when the Knights're takin' 
+their work so seriously.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS33_005)They don't look that 
+serious from here.
+
+## POINTER 5
+Adecor
+<VOICE>(VS33_006)I say, woe is me!
+
+## POINTER 6
+Boccos
+<VOICE>(VS33_007)How has our illustrious Schwann 
+Brigade ever been reduced to 
+playing back up for <STR>(FRE)?!
+
+## POINTER 7
+Leblanc
+<VOICE>(VS33_008)Enough complaining! If you 
+don't like it, we'd better 
+produce some results!
+
+## POINTER 8
+
+<VOICE>(VS33_009)There they are! Capture them!
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS33_010)They found us...
+
+## POINTER 10
+Adecor
+<VOICE>(VS33_011)What is this?
+
+## POINTER 11
+
+<VOICE>(VS33_012)You three! Don't 
+let them escape!
+
+## POINTER 12
+Leblanc
+<VOICE>(VS33_013)Ah, if it isn't 
+Mr. <STR>(YUR) Lowell!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS33_014)Hey, Leblanc. 
+It's been a while.
+
+## POINTER 14
+Leblanc
+<VOICE>(VS33_015)A-and Your Highness!
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS33_016)Wh-what're we gonna do?!
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS33_017)Oh, well. Here goes nothing!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS33_018)Wait!
+
+## POINTER 18
+<STR>(RAV)
+<VOICE>(VS33_019)A-ten-SHUN!
+
+## POINTER 19
+Leblanc
+<VOICE>(VS33_020)Y-yes, sir!
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS33_021)Not sure what's going on, 
+but now's our chance!
+
+## POINTER 21
+Leblanc
+<VOICE>(VS33_022)Huh...? 
+Whoa...!
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS33_023)<STR>(RAV), what did you do...?
+
+## POINTER 23
+<STR>(RAV)
+<VOICE>(VS33_024)Ahh, it's nothing.<PAGE><VOICE>(VS33_025)Enough standin' around. 
+They'll catch up in no time 
+if we don't get movin'.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS33_026)Yeah. Let's head for 
+Nordopolica, quick.

@@ -1,0 +1,103 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242927]
+<STR>(YUR)
+Oh, ¡así que estabais los
+dos por aquí todo el rato!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+<STR>(FRE)
+<STR>(YUR), haz el favor de cuidar
+tus modales frente a Su Alteza Real.<PAGE>Al menos podrías mostrar algo de cortesía
+ante el indultador de tus crímenes.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242927]
+Ioder
+No pasa nada, <STR>(FRE).
+La señorita <STR>(EST) y yo
+hemos actuado por voluntad propia.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242927]
+<STR>(FRE)
+Por lo que veo, ya te has enterado
+de lo de la princesa <STR>(EST).
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+<STR>(YUR)
+Sí, me he enterado.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+<STR>(FRE)
+<STR>(YUR), pensaba que viajar contigo
+le vendría bien a Su Alteza, pero...
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+Ioder
+La familia real no tiene permitido
+campar libremente por el mundo.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+<STR>(YUR)
+Viniendo de ti, eso
+no suena muy convincente.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+Ioder
+Ja, ja, discúlpame. Pero ahora se requiere más
+que nunca que los asuntos de la familia real
+no sean de dominio público.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+<STR>(YUR)
+¿Los asuntos? ¿Te refieres a si
+el siguiente en la línea sucesoria
+al trono eres tú o la Princesa?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+Ioder
+Correcto. Ahora mismo hay dos opiniones enfrentadas:
+la los Caballeros Imperiales y la del Consejo.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+<STR>(FRE)
+¡Alteza!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+Ioder
+No tiene sentido esconderle detalles
+cuando ya sabe tantas cosas.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+Ioder
+Los Caballeros Imperiales apoyan
+que sea yo quien suba al trono.<PAGE>Por otra parte, la señorita <STR>(EST)
+tiene el apoyo del Consejo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242927]
+<STR>(YUR)
+Es una princesa, después de todo.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+Ioder
+Sí. Su parentesco puede que sea
+bastante lejano, pero no hay
+duda de que es de sangre real.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298242927]
+<STR>(YUR)
+Eso tiene que ser un palo también para los Caballeros.<PAGE>Por mucho que sea la rival de su candidato
+al trono, tampoco es que puedan dejar
+de proteger a la Princesa, ¿verdad?
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+<STR>(FRE)
+<STR>(YUR), este asunto es...
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+<STR>(YUR)
+No me sé de nadie que sea tan raro como
+para estar interesado en información como esta.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484541]
+<STR>(YUR)
+Bueno, voy a ver a <STR>(EST_P)
+y después me pegaré una buena siesta
+es la posada. Gracias por la charla.

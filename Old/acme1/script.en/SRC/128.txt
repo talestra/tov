@@ -1,0 +1,90 @@
+## POINTER 0
+<STR>(YUR)
+Doors like this never open when you want them to!
+
+## POINTER 1
+<STR>(EST_P)
+I guess we'll have to climb over the 
+wall and open it from the inside.
+
+## POINTER 2
+<STR>(YUR)
+A little quick to jump to our last resort, aren't you?
+
+## POINTER 3
+<STR>(EST_P)
+Let's wait for <STR>(FRE) 
+to come out, then.
+
+## POINTER 4
+<STR>(YUR)
+Even if <STR>(FRE) comes out, it's not like he's 
+going to bring Mordio out with him.
+
+## POINTER 5
+<STR>(EST_P)
+Well, if <STR>(FRE) comes outside, we can 
+just ask him to let us in, can't we?
+
+## POINTER 6
+<STR>(YUR)
+He'd never go for a plan 
+like this. He's far too 
+much of a goody-goody.
+
+## POINTER 7
+<STR>(EST_P)
+<STR>(KAR), what are you doing?
+
+## POINTER 8
+<STR>(KAR)
+There, it's open!
+
+## POINTER 9
+<STR>(EST_P)
+Huh...? Y-you can't 
+do that!
+
+## POINTER 10
+<STR>(YUR)
+...Your guild specializes in hunting 
+monsters, right? Or are you guys into 
+thieves' guild-type stuff, too?
+
+## POINTER 11
+<STR>(KAR)
+Heh, umm, yeah... Well, I'm 
+pretty much the only one who 
+can do anything like this.
+
+## POINTER 12
+<STR>(YUR)
+Well, good job! Shall we?
+
+## POINTER 13
+<STR>(EST_P)
+No, that's bad! We should 
+just wait here for <STR>(FRE).
+
+## POINTER 14
+<STR>(YUR)
+I don't have the patience to wait 
+for <STR>(FRE) to just happen to walk 
+out of this town by chance.<PAGE>It was unquestioning obedience to laws and authority 
+in times like this that made me quit the Imperial 
+Knights in the first place!
+
+## POINTER 15
+<STR>(EST_P)
+But, but...
+
+## POINTER 16
+<STR>(YUR)
+Well then, <STR>(EST_P), keep a lookout 
+for us here, won't you?
+
+## POINTER 17
+<STR>(EST_P)
+Wait, but, but, 
+umm...!! I-I'm going 
+with you!

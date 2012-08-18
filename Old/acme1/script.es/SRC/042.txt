@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1270040656]
+<STR>(YUR)
+Menudo lugar para
+perderse...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298163232]
+<STR>(EST_P)
+Mmm... Respecto a cruzar
+el fuerte Deidon...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1270040656]
+<STR>(YUR)
+¿Te parece bien?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1270040656]
+<STR>(EST_P)
+¿No hemos pasado ya por aquí?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298163232]
+<STR>(YUR)
+Oh. Así que era eso...
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1270898651]
+<STR>(EST_P)
+Este bosque...
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1270898651]
+<STR>(YUR)
+¿Eh?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1270898651]
+<STR>(EST_P)
+Oh... Nada, nada...<PAGE>Volvamos.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1270898651]
+<STR>(YUR)
+Sí.

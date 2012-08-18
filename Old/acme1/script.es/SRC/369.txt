@@ -1,0 +1,210 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1280828013]
+Natz
+<VOICE>(VS34_163)¡Adalid Belius! ¡Por favor,
+contrólese! ¡¡Adalid!!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(YUR)
+<VOICE>(VS34_164)¡No nos queda otra que
+detenerla a la fuerza!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(RIT)
+<VOICE>(VS34_165)¡Pero no lo lograremos
+si nos contenemos
+contra alguien así!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(KAR)
+<VOICE>(VS34_166)¡No puedo creerlo!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1280773868]
+<STR>(JUD)
+<VOICE>(VS34_167)Belius...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(RIT)
+<VOICE>(VS34_168)¡<STR>(EST_P), espabila!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1280773868]
+<STR>(EST_P)
+<VOICE>(VS34_169)Sí...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(RAV)
+<VOICE>(VS34_170)¡Que viene!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(KAR)
+<VOICE>(VS34_171)S-Se ha acabado...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1280773868]
+Natz
+<VOICE>(VS34_172)¡Adalid, no!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1280773868]
+<STR>(RIT)
+<VOICE>(VS34_173)¿Y ahora qué?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1280828013]
+<STR>(JUD)
+<VOICE>(VS34_174)Nunca imaginé que ocurriría esto...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1280773868]
+<STR>(EST_P)
+<VOICE>(VS34_175)Lo siento...
+Yo... yo...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+Belius
+<VOICE>(VS34_176)No... te preocupes...<PAGE><VOICE>(VS34_177)Tu intención...
+era la de salvarme...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(EST_P)
+<VOICE>(VS34_178)Oh, lo siento mucho...
+Yo solo...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1280828013]
+Belius
+<VOICE>(VS34_179)El poder corrompe... Pero tú,
+tú eres diferente.<PAGE><VOICE>(VS34_180)Nunca pierdas esa bondad... esa compasión
+tan desinteresada que muestras a los demás...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+Belius
+<VOICE>(VS34_181)
+Ahora ve con Phaeroh...
+Así conocerás
+tu destino...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1280773868]
+<STR>(EST_P)
+<VOICE>(VS34_182)¿Con Phaeroh?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+Belius
+<VOICE>(VS34_183)Natz, te debo mucho.
+No le guardes rencor a esta gente.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1280773868]
+Natz
+<VOICE>(VS34_184)¡¡Adalid, no!!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(EST_P)
+<VOICE>(VS34_185)¡E-Espere!
+¡No, se lo suplico!
+¡No se vaya!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(JUD)
+<VOICE>(VS34_186)Belius... Hasta siempre...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(RIT)
+<VOICE>(VS34_187)¿Esto no es... lo mismo
+que estaba en la caja
+del barco fantasma?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1280828013]
+<STR>(KAR)
+<VOICE>(VS34_188)Una apátheia...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+Belius
+<VOICE>(VS34_189)Entrégale mi alma, este cielo cian,
+a mi aliado... Don Whitehorse.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(RAV)
+<VOICE>(VS34_190)Así qu'esto es a lo
+que se refería Harry.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1280774924]
+Clint
+<VOICE>(VS34_191)Humanos... esa piedra es nuestra.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1280774924]
+<STR>(YUR)
+<VOICE>(VS34_192)¿Esto era lo que buscabais?
+Espero que ni se os pase por la cabeza
+que os la daremos por las buenas.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+Clint
+<VOICE>(VS34_193)Entonces... os machacaremos
+hasta que nos la deis.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+Sodia
+<VOICE>(VS34_194)¡Ya basta! ¡Que todo el mundo
+deponga las armas!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(YUR)
+<VOICE>(VS34_195)No, la que faltaba...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1280774924]
+Sodia
+<VOICE>(VS34_196)Tú... ¡Arrestad a todos
+los que estén en el coliseo!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(RAV)
+<VOICE>(VS34_197)Acabaremos encadenaos si nos quedamos
+contemplando la escenita esta.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1280828013]
+<STR>(RIT)
+<VOICE>(VS34_198)¡Pero si no hemos hecho nada
+para que nos arresten!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(KAR)
+<VOICE>(VS34_199)¡No creo que les importe mucho
+inventarse cualquier excusa
+con tal de meternos entre rejas!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(JUD)
+<VOICE>(VS34_200)Tienes razón.
+Lo mejor será que escapemos.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1280828013]
+<STR>(YUR)
+<VOICE>(VS34_201)Muy bien, por ahora
+larguémonos de aquí a la de ya.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(EST_P)
+<VOICE>(VS34_202)No... Yo... yo no
+quiero ir a ninguna parte.<PAGE><VOICE>(VS34_203)Mi poder... es un
+veneno de verdad...<PAGE><VOICE>(VS34_204)Creía que podía ayudarla,
+pero solo le he traído la muerte.
+¡No he podido salvarla!
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694700]
+<STR>(EST_P)
+<VOICE>(VS34_205)¡¿Q-Qué te crees que haces?!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:Lia;time:1280775800]
+<STR>(YUR)
+<VOICE>(VS34_206)Ahí estamos. Me has salvado, ¿no?
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:Lia;time:1280775800]
+<STR>(EST_P)
+<VOICE>(VS34_207)¿Qué?...
+Ah, pero yo...
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:Lia;time:1280775800]
+<STR>(YUR)
+<VOICE>(VS34_208)Vámonos.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:Lia;time:1280775800]
+<STR>(EST_P)
+<VOICE>(VS34_209)Vale...
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1284694748]
+Sodia
+<VOICE>(VS34_210)¡Esperad!

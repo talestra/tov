@@ -1,0 +1,123 @@
+## POINTER 0
+
+Hello, fine visitors, and welcome to 
+the Yumanju Hot Spring Spa!<PAGE>Ah, so you're back! I'm glad you enjoyed 
+our hot springs so much the last time.
+
+## POINTER 1
+<STR>(RIT)
+We didn't enjoy them at all! What 
+the hell was with that partition? 
+You can see right through it!
+
+## POINTER 2
+
+No, no, we simply folded up 
+the partitions to open up the 
+space as much as possible.<PAGE>Besides, it's a question of morals. I doubt any visitor 
+to our springs would be of such despicable moral fiber 
+as to spy on members of the opposite gender!
+
+## POINTER 3
+<STR>(RAV)
+Hey, hey, I didn't get 
+to see anything!
+
+## POINTER 4
+<STR>(JUD)
+You certainly would've, 
+given half the chance.
+
+## POINTER 5
+
+If it's that much of a concern for 
+you, perhaps you'd like to rent 
+out a spring for personal use?<PAGE>You would be the only ones using your particular 
+spring, so you could all go into the same bath 
+with no problems, males and females together.
+
+## POINTER 6
+<STR>(RAV)
+T-t-t-together?!<PAGE>This is an excellent idea! Let's 
+do this! We should do this.
+
+## POINTER 7
+<STR>(YUR)
+Hey old man, if you want us to all 
+go in together, it's just going 
+to be you and <STR>(KAR) in there.
+
+## POINTER 8
+<STR>(KAR)
+Whaaat? Alone in there with 
+<STR>(RAV)? No, I think even 
+I'll pass on that one.
+
+## POINTER 9
+<STR>(EST_P)
+Well, what if we rented 
+out a spring and went in 
+one gender at a time?
+
+## POINTER 10
+<STR>(YUR)
+One gender at a time, eh... 
+If that works for you girls, 
+it sounds good to me.
+
+## POINTER 11
+
+All right then! Now then, 
+exclusive hot spring rental 
+will be 600,000 Gald.
+
+## POINTER 12
+<STR>(RIT)
+S-six hundred thousand Gald?!
+
+## POINTER 13
+<STR>(KAR)
+That's twice as much as 
+it was last time...
+
+## POINTER 14
+
+Since you're reserving the room for just 
+yourselves, the price is a bit higher...<PAGE>But it's really quite a bargain!
+
+## POINTER 15
+Pay the fee for the spa?
+Yes
+No
+
+## POINTER 16
+<STR>(YUR)
+The girls deserve to have 
+a good time, too...<PAGE>Here you go.
+
+## POINTER 17
+Information
+You paid 600,000 Gald.
+
+## POINTER 18
+
+Thank you very 
+much! Enjoy 
+your visit!
+
+## POINTER 19
+
+Oh my! It appears you 
+don't have enough Gald. 
+Please come again.
+
+## POINTER 20
+<STR>(YUR)
+We'll come back once we've 
+saved up enough Gald.
+
+## POINTER 21
+
+Welcome! Reserving a hot spring 
+costs 600,000 Gald. Will you be 
+visiting the springs today?

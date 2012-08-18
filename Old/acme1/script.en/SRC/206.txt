@@ -1,0 +1,196 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS18_105)It doesn't seem like that <STR>(FRE) 
+character is around here.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS18_106)Does that mean you're staying with us for now?
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS18_107)Well, I... 
+Would that be all right?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS18_108)<STR>(KAR), don't fill the princess's head with ideas.
+
+## POINTER 4
+Alexei
+<VOICE>(VS18_109)You cannot simply do as 
+you wish. Your Highness 
+must return to the capital.
+
+## POINTER 5
+Alexei
+<VOICE>(VS18_110)<STR>(FRE) has already set out 
+to tend to other business.
+
+## POINTER 6
+Alexei
+<VOICE>(VS18_111)Now then. <STR>(RIT) Mordio, we 
+would like you to investigate 
+yesterday's blastia malfunction.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS18_112)...That's pointless. I looked at 
+him this morning, but I couldn't 
+figure anything out.
+
+## POINTER 8
+Alexei
+<VOICE>(VS18_113)No, we would ask that you go 
+to the forest of Keiv Moc.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS18_114)...Keiv Moc, huh? Oh yeah, the plants 
+affected by the disaster here look 
+just like the ones in that forest.
+
+## POINTER 10
+Alexei
+<VOICE>(VS18_115)We have reports of tree mutations 
+and of monsters increasing in 
+both number and aggressiveness.<PAGE><VOICE>(VS18_116)Messengers have gone to the 
+capital, but much time will be 
+wasted finding a gifted mage.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS18_117)I specialize in blastia. 
+Plants are out of my league.
+
+## POINTER 12
+Alexei
+<VOICE>(VS18_118)Consider their connection 
+to the aer. I imagine that 
+is within your league.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS18_119)Besides...I... If <STR>(EST_P) is 
+going back to the capital, 
+I want to go with her.
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS18_120)What do you mean?
+
+## POINTER 15
+Alexei
+<VOICE>(VS18_121)You are a researcher in an imperial 
+blastia laboratory. You must 
+undertake the tasks assigned to you.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS18_122)Um... Then there should 
+be no problem if I accompany 
+her to the forest, right?
+
+## POINTER 17
+Alexei
+<VOICE>(VS18_123)Princess, please, do not 
+make suggestions that are 
+simply out of the question.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS18_124)If this does have something 
+to do with aer, then my healing 
+artes would prove useful.
+
+## POINTER 19
+Alexei
+<VOICE>(VS18_125)Yes, they would...
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS18_126)Please, Alexei! Let me 
+do my part to help.
+
+## POINTER 21
+Alexei
+<VOICE>(VS18_127)Your Highness, I simply 
+cannot allow you to go to 
+such a dangerous forest.
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS18_128)Well, what if...
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS18_129)<STR>(YUR), would you come with us?
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS18_130)Me?
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS18_131)If <STR>(YUR) were to come, you 
+wouldn't be worried right?
+
+## POINTER 26
+Alexei
+<VOICE>(VS18_132)Young man, please 
+escort the Princess.
+
+## POINTER 27
+Alexei
+<VOICE>(VS18_133)I ask this of you only 
+because you once sought 
+to join the Imperial Knights.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS18_134)...Of all the underhanded... I 
+didn't ask anybody to count on 
+me. You're pushing me into this.
+
+## POINTER 29
+Alexei
+<VOICE>(VS18_135)It seems I can take that reply 
+as indication of your agreement.
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS18_136)But there's something I have 
+to do as well. We go to the 
+forest after Dahngrest.
+
+## POINTER 31
+Alexei
+<VOICE>(VS18_137)Very well.
+
+## POINTER 32
+Khroma
+<VOICE>(VS18_138)Your Excellency...
+
+## POINTER 33
+Alexei
+<VOICE>(VS18_139)It seems <STR>(FRE) foresaw 
+this outcome.
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS18_140)Huh? He did what?
+
+## POINTER 35
+Alexei
+<VOICE>(VS18_141)He left this message for you: 
+"Take care of Her Highness."
+
+## POINTER 36
+<STR>(KAR)
+<VOICE>(VS18_142)All right then, it's the 
+forest of Keiv Moc by 
+way of Dahngrest!
+
+## POINTER 37
+Alexei
+<VOICE>(VS18_143)I have a job for you.

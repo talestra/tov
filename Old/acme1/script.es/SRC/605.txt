@@ -1,0 +1,50 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1291460986]
+<STR>(YUR)
+Oye, ¿no había una persona
+herida en esta habitación?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660055]
+
+Ah, ¿sois amigos
+de Nobis Celestia?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1291460986]
+<STR>(KAR)
+Era más como un compañero
+de negocios para nosotros.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1291460986]
+
+Hace poco estaba
+aquí, pero ha
+desaparecido...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291460986]
+<STR>(KAR)
+Creía que su estado era tan malo
+que no debía ni moverse.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660055]
+
+Sí, es cierto. Sin embargo,
+de repente se levantó y se fue.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551352]
+<STR>(YUR)
+Pero ¿en qué está
+pensando el palurdo ese?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1291460986]
+
+Si por casualidad os lo encontráis,
+¿os importaría traerlo aquí?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1291460986]
+<STR>(YUR)
+Sí, nos aseguraremos de dejarle un par
+de moratones de más antes de traértelo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660061]
+<STR>(KAR)
+¿Qué he dicho de pegar
+a gente herida, <STR>(YUR)?

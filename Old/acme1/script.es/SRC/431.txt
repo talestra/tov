@@ -1,0 +1,297 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(YUR)
+<VOICE>(VS41_001)¿Qué ocurre aquí?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(KAR)
+<VOICE>(VS41_002)¿Qué pasa? Es solo
+un montón de ruinas...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(RIT)
+<VOICE>(VS41_003)Esto no ha pasado de un día
+para otro. Parece más bien
+que ha llevado siglos...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(JUD)
+<VOICE>(VS41_004)Callaos. Hay alguien aquí.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(YUR)
+<VOICE>(VS41_005)¡Duke!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(RIT)
+<VOICE>(VS41_006)¡Esta podría ser una pista para la fórmula Rizomata!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(KAR)
+<VOICE>(VS41_007)Ese... es el dragón
+de la caverna de Cados.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(YUR)
+<VOICE>(VS41_008)Viaja con Duke, ¿eh?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(RIT)
+<VOICE>(VS41_009)Tengo preguntas que hacerle
+a ese tío, pero encontrar 
+a <STR>(EST_P) es lo primero.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+Alexei
+<VOICE>(VS41_010)Se han escapado...<PAGE><VOICE>(VS41_011)No queda tiempo. Esto no es
+lo que esperaba, pero que
+así sea.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(YUR)
+<VOICE>(VS41_012)Alexei. ¿Qué estás haciendo aquí?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+Alexei
+<VOICE>(VS41_013)Ah, ¿buscáis a la Princesa? 
+Es sorprendente que hayáis
+llegado hasta aquí.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(RIT)
+<VOICE>(VS41_014)¡¿Sabes dónde
+está <STR>(EST_P)?!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(KAR)
+<VOICE>(VS41_015)¡¿Q-Qué te crees
+que haces?!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+Alexei
+<VOICE>(VS41_016)¡Urgh!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(YUR)
+<VOICE>(VS41_017)¿Esto es lo que entiendes
+tú por una broma, Comandante?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+Alexei
+<VOICE>(VS41_018)No sé ni cómo
+expresaros mi gratitud.<PAGE><VOICE>(VS41_019)Vuestro patético sentido
+de la justicia me ha permitido
+actuar sin apenas interrupciones.<PAGE><VOICE>(VS41_020)Ragou y Barbos cumplieron con
+su cometido, pero vosotros...
+habéis hecho un trabajo encomiable.<PAGE><VOICE>(VS41_021)Sois los peones de mayor
+talento y estupidez
+que jamás haya visto.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(KAR)
+<VOICE>(VS41_022)¿Qué?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+Alexei
+<VOICE>(VS41_023)No obstante, ha llegado el momento
+de dejarse de tonterías. Es hora
+de que salgáis del escenario.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(YUR)
+<VOICE>(VS41_024)Conque era eso, ¿eh?<PAGE><VOICE>(VS41_025)¿Eras tú quien controlaba
+los hilos todo este tiempo?
+¡Pues no tiene gracia, Alexei!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(FRE)
+<VOICE>(VS41_026)¡Comandante!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+Alexei
+<VOICE>(VS41_027)Mmpf. Y aquí llega
+otro estúpido.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(YUR)
+<VOICE>(VS41_028)<STR>(FRE)...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(FRE)
+<VOICE>(VS41_029)¡Comandante! ¡¿Cómo habéis podido?!<PAGE><VOICE>(VS41_030)Sois el orgullo de los
+Caballeros Imperiales.
+¿Cómo podéis cometer esta traición?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+Alexei
+<VOICE>(VS41_031)Esto no es traición. Tan solo
+sigo el camino de la verdadera
+autoridad.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(FRE)
+<VOICE>(VS41_032)¡¿Y pretendéis traicionar
+la confianza de Su Alteza Ioder?!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+Alexei
+<VOICE>(VS41_033)Su Alteza... Sí, creo que se verá
+despojado de su título muy pronto.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(FRE)
+<VOICE>(VS41_034)Esto es una locura...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+Yeager
+<VOICE>(VS41_035)Milord, todo esstá lissto.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(KAR)
+<VOICE>(VS41_036)¡Yeager!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+Alexei
+<VOICE>(VS41_037)Bien hecho. Me dirigiré a Baction
+tal como estaba planeado. Te dejo
+a ti al cargo de esta situación...<PAGE><VOICE>(VS41_038)y del sino de Ioder.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+Yeager
+<VOICE>(VS41_039)Ja, como orrdene, Milord.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(FRE)
+<VOICE>(VS41_040)¡Alexei! ¡Esperad!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(YUR)
+<VOICE>(VS41_041)¿Quién ha dicho que puedas largarte?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+Gauche
+<VOICE>(VS41_042)Atrás.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(JUD)
+<VOICE>(VS41_043)Si intentáis detenernos...
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(RIT)
+<VOICE>(VS41_044)¡Quitad el culo de en medio!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+Yeager
+<VOICE>(VS41_045)Vuesstrra prrincessita
+también está en el templo
+de Baction, ¿sabéiss?
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(YUR)
+<VOICE>(VS41_046)¡¿Cómo dices?!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+Droite
+<VOICE>(VS41_047)Llegaréis tarde si
+no os dais prisa.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(YUR)
+<VOICE>(VS41_048)...
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(FRE)
+<VOICE>(VS41_049)¡Ve tras Alexei y Yeager!
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+Witcher
+<VOICE>(VS41_050)¡Sí, señor!
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(KAR)
+<VOICE>(VS41_051)¡<STR>(YUR), vamos!
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(KAR)
+<VOICE>(VS41_052)¿<STR>(YUR)?
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+Sodia
+<VOICE>(VS41_053)<STR>(YUR) Lowell, ríndete.
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(FRE)
+<VOICE>(VS41_054)Se dice que el templo de Baction
+está situado en el continente
+de Hypionia.
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(JUD)
+<VOICE>(VS41_055)Hypionia... El continente
+al este de Desier. Donde se
+encuentra el bosque de Egothor.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(KAR)
+<VOICE>(VS41_056)¡¿Vamos a creernos lo
+que nos ha dicho Yeager?!
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(RIT)
+<VOICE>(VS41_057)¡Si Alexei se dirige
+hacia allí, entonces <STR>(EST_P)
+tiene que estar allí!
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(JUD)
+<VOICE>(VS41_058)No tenemos mucha información,
+así que tendremos que ir
+allí y comprobarlo.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(KAR)
+<VOICE>(VS41_059)¿Y qué pasa con <STR>(RAV)?
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(RIT)
+<VOICE>(VS41_060)¡Seguro que fue él quien
+les entregó a <STR>(EST_P)
+y después se esfumó!
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(KAR)
+<VOICE>(VS41_061)No... <STR>(RAV)... 
+Él no haría algo así...
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(RIT)
+<VOICE>(VS41_062)¡Pues los hechos son que
+la han secuestrado y que no
+aparece por ninguna parte!
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(RIT)
+<VOICE>(VS41_063)Vamos,
+¿es lógico, no?
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(JUD)
+<VOICE>(VS41_064)Puede que lo hayan
+capturado a él también.
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:memnoch;time:1285103776]
+<STR>(RIT)
+<VOICE>(VS41_065)Bueno, qué más da.
+¡Vámonos de una vez!
+¿<STR>(YUR)?
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(FRE)
+<VOICE>(VS41_066)<STR>(YUR)...
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(YUR)
+<VOICE>(VS41_067)<STR>(FRE)... ¿Charlamos?
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:xander;time:1283463653]
+<STR>(FRE)
+<VOICE>(VS41_068)Muy bien. Hablemos allí.

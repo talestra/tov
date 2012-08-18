@@ -1,0 +1,110 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1280175589]
+Ragou
+<VOICE>(VS22_006)¡No debéis confiar en los Caballeros!<PAGE><VOICE>(VS22_007)¡Su única intención es destruir
+esta ciudad en cuanto os confiéis
+y bajéis la guardia!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+<STR>(FRE)
+<VOICE>(VS22_008)Juro por el honor de los Caballeros
+Imperiales que jamás perpetraríamos
+tamaña deshonra.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+Ragou
+<VOICE>(VS22_009)¡Tú eres... 
+<STR>(FRE) Scifo!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+<STR>(FRE)
+<VOICE>(VS22_010)El Imperio y la Unión
+han acordado un pacto
+de amistad.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+Ragou
+<VOICE>(VS22_011)¿Qué? Imposible...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1280175589]
+<STR>(FRE)
+<VOICE>(VS22_012)Ahora mismo, Don Whitehorse y
+Su Majestad Ioder están reunidos.<PAGE><VOICE>(VS22_013)Es solo cuestión de tiempo
+que se haga oficial.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551683]
+Ragou
+<VOICE>(VS22_014)Pero ¿cómo? Creía ese maldito Alexei
+estaba ocupado con otros asuntos.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296764045]
+<STR>(FRE)
+<VOICE>(VS22_015)Así es. Nuestro Comandante tan solo
+pudo hacer una aparición fugaz
+antes de volver a la capital.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+Ragou
+<VOICE>(VS22_016)Entonces... ¿quién ha dado la orden de...?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1280175589]
+Ragou
+<VOICE>(VS22_017)¡No! ¡No puedo creer que mis planes
+hayan sido frustrados por este... niño!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+<STR>(EST_P)
+<VOICE>(VS22_018)Esto también acabará con el sufrimiento
+de las gentes de Capua Nor.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+<STR>(YUR)
+<VOICE>(VS22_019)Esperemos que el próximo magistrado
+sea alguien de mayor decencia.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+<STR>(EST_P)
+<VOICE>(VS22_020)En cuanto vuelva al castillo
+haré todo lo que pueda para
+que elijan a alguien digno.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1280175589]
+<STR>(KAR)
+<VOICE>(VS22_021)Al castillo... Entonces, ¿vas
+a volver a la capital, <STR>(EST_P)?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1280175589]
+<STR>(EST_P)
+<VOICE>(VS22_022)Sí. Ahora que han arrestado
+a Ragou, todo debería
+volver a la normalidad.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1280175589]
+<STR>(YUR)
+<VOICE>(VS22_023)Pero lo cierto es que no quieres volver.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+<STR>(EST_P)
+<VOICE>(VS22_024)¿Qué quieres decir?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+<STR>(YUR)
+<VOICE>(VS22_025)Puedo verlo en tu cara.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1280175589]
+<STR>(EST_P)
+<VOICE>(VS22_026)No... Y-Yo...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1280175589]
+<STR>(YUR)
+<VOICE>(VS22_027)Deberías hacer lo que creas mejor
+para ti. Ya te has decidido, ¿verdad?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+<STR>(EST_P)
+<VOICE>(VS22_028)Voy a volver...<PAGE><VOICE>(VS22_029)No quiero que <STR>(FRE) ni nadie más
+tenga que seguir preocupándose por mí...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1274050616]
+<STR>(YUR)
+<VOICE>(VS22_030)La vamos a echar mucho de menos,
+¿no te parece, <STR>(RAP)?

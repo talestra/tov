@@ -1,0 +1,231 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS10_025)Gyaaah! Wh-wh-what 
+is that?!
+
+## POINTER 1
+
+<VOICE>(VS10_026)...Shut up...
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS10_027)Huh? Hey, hold on!
+
+## POINTER 3
+
+<VOICE>(VS10_028)Thieves...
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS10_029)No, what're you... Wait!
+
+## POINTER 5
+
+<VOICE>(VS10_030)...Be gone!!
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS10_031)Heeelp!
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS10_032)*Hack, cough*. Why me...?
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS10_033)A g-girl?!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS10_034)If you can pull tricks like 
+that, why'd you bother skipping 
+town back in Zaphias?
+
+## POINTER 10
+
+<VOICE>(VS10_035)Huh? Skipping town?
+Why would I need
+to skip town?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS10_036)For stealing the core of a blastia 
+from the lower quarter in the 
+capital. What else?
+
+## POINTER 12
+
+<VOICE>(VS10_037)What? You're calling me 
+a thief. Have you ever 
+heard of "common sense"?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS10_038)Sure.
+
+## POINTER 14
+
+<VOICE>(VS10_039)So you break into a home, call the owner 
+a thief, and wave a sword in their face. 
+What the hell kind of sense is that?!
+
+## POINTER 15
+
+<VOICE>(VS10_040)Hey, dog! You stay 
+back, you...you dog!!
+
+## POINTER 16
+
+<VOICE>(VS10_041)And you! Kid! 
+Give him back!!
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS10_042)What do you mean?
+
+## POINTER 18
+
+<VOICE>(VS10_043)The blastia, the blastia!! 
+Give him back to me!
+
+## POINTER 19
+
+<VOICE>(VS10_044)W-what's with you?
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS10_045)My name is <STR>(EST).<PAGE><VOICE>(VS10_046)We're terribly sorry for
+barging in on you like this!
+...<STR>(YUR), <STR>(KAR), you too.
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS10_047)S-sorry.
+
+## POINTER 22
+
+<VOICE>(VS10_048)So...? What do you want?
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS10_049)Well, you see...<PAGE><VOICE>(VS10_050)<STR>(YUR) has followed a blastia 
+thief here all the way from 
+the imperial capital.
+
+## POINTER 24
+
+<VOICE>(VS10_051)And?
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS10_052)And that blastia thief...<PAGE><VOICE>(VS10_053)Wore a cape!<PAGE><VOICE>(VS10_054)Was short!<PAGE><VOICE>(VS10_055)And their name was Mordio!<PAGE><VOICE>(VS10_056)So...
+
+## POINTER 26
+
+<VOICE>(VS10_057)Hmm, well Mordio is certainly 
+my name. <STR>(RIT) Mordio, 
+to be exact.
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VS10_058)And the height matches up, too.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS10_059)What do you have to say for yourself?
+
+## POINTER 29
+<STR>(RIT)
+<VOICE>(VS10_060)I told you, I have no idea what you're... 
+...Oh, I hadn't thought of that.
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS10_061)Follow me.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS10_062)What? Maybe you didn't 
+hear me. We're not 
+finished here...
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VS10_063)Just follow me, would you?<PAGE><VOICE>(VS10_064)There's talk that some 
+thieves have turned up 
+in the Shaikos Ruins.
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS10_065)Thieves? Are you 
+sure about that?
+
+## POINTER 34
+<STR>(RIT)
+<VOICE>(VS10_066)It came from an Imperial 
+Knight who asked me for help. 
+It should be trustworthy.
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS10_067)Do you think that knight 
+might have been <STR>(FRE)?
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS10_068)...It's gotta be. Looks like 
+she shot him down, though.
+
+## POINTER 37
+<STR>(KAR)
+<VOICE>(VS10_069)Hey, remember what that guy 
+outside said about someone 
+vandalizing the ruins?
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS10_070)Which means, the thief 
+who stole the blastia 
+core could be there.
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS10_071)Hmm, maybe...
+
+## POINTER 40
+<STR>(RIT)
+<VOICE>(VS10_072)Finished chatting? 
+Let's go.
+
+## POINTER 41
+<STR>(YUR)
+<VOICE>(VS10_073)All right, but don't even think 
+of making a break for it.
+
+## POINTER 42
+<STR>(RIT)
+<VOICE>(VS10_074)You don't have to come. 
+If you want, I'll just 
+call the guards.
+
+## POINTER 43
+<STR>(EST_P)
+<VOICE>(VS10_075)Why don't we give it a try? It sounds
+like <STR>(FRE) might even be there.
+
+## POINTER 44
+<STR>(RIT)
+<VOICE>(VS10_076)It's up to you: Go to jail,
+make a run for it, or follow
+me. Pick one.
+
+## POINTER 45
+<STR>(YUR)
+<VOICE>(VS10_077)Okay, okay. We'll 
+go with you.
+
+## POINTER 46
+<STR>(RIT)
+<VOICE>(VS10_078)The Shaikos Ruins are 
+even further to the east, 
+once you leave the city.

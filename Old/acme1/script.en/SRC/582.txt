@@ -1,0 +1,89 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VA013_001)Are you kidding? That thing's
+still following us?!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA013_002)My guess is it's 
+not after us.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VA013_003)You think it wants the Everlight?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VA013_004)Probably.
+
+## POINTER 4
+
+<VOICE>(VA013_005)Stop right there!!!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA013_006)That voice...
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VA013_007)...Wh-where did you come from...!
+
+## POINTER 7
+Zagi
+<VOICE>(VA013_008)<STR>(YUR)... Where're you going 
+in such a hurry? Hmm...?<PAGE><VOICE>(VA013_009)We've got all the time in the world.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VA013_010)Hey, you kinda caught 
+us at a bad time...
+
+## POINTER 9
+Zagi
+<VOICE>(VA013_011)Gah hah hah hah! It's never 
+a good time when you're 
+in reach of my blade!<PAGE><VOICE>(VA013_012)<STR>(YUR) Lowell!
+
+## POINTER 10
+Zagi
+<VOICE>(VA013_013)Huuh? Who the hell are you...? 
+Stay out of this!!
+
+## POINTER 11
+Zagi
+<VOICE>(VA013_014)You couldn't hope to satisfy me!<PAGE><VOICE>(VA013_015)...You wanna die first? Huh?
+
+## POINTER 12
+Zagi
+<VOICE>(VA013_016)Hmph. Piece of crap...
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VA013_017)...Should we be going?
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VA013_018)Yeah, I don't want to fight any 
+pointless battles. Right, <STR>(KAR)?
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VA013_019)Y-yeah...we don't really have 
+time for this, anyway.
+
+## POINTER 16
+Zagi
+<VOICE>(VA013_020)Gyaaaahhh!
+I'm gonna rip your ugly head off, monster!!
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VA013_021)I-I wonder if he's okay.
+
+## POINTER 18
+<STR>(JUD)
+<VOICE>(VA013_022)Which one of them do you mean?
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VA013_023)Uh...hmm.

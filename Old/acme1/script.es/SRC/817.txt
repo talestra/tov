@@ -1,0 +1,32 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854874]
+
+¡Gracias por su duro trabajo!
+Esto es para usted.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290793222]
+<STR>(YUR)
+¿Eh? ¿Qué es?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296768380]
+
+¡Se lo doy bajo las órdenes
+del comandante <STR>(FRE)!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854874]
+<STR>(YUR)
+De parte de <STR>(FRE), ¿eh?
+¿Qué será?
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290793222]
+<STR>(EST_P)
+¿Ocurre algo, <STR>(YUR)?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290793222]
+<STR>(KAR)
+¡<STR>(YUR)!
+¿Qué haces?
+¡Venga, vamos!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290793222]
+<STR>(YUR)
+Ya voy.

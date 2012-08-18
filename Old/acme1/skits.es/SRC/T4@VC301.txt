@@ -1,0 +1,70 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1251557560]
+El ingrediente secreto
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299768]
+(KAR)
+¡Las croquetas de (YUR) son las mejores!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297794087]
+(RIT)
+Qué raro... No son más que bolas
+de patatas machacadas, pero...
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299768]
+(JUD)
+¡Tiene que haber un ingrediente secreto!
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299768]
+(RAV)
+¿Ah, sí? ¿Qué les has puesto, (YUR)?
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299768]
+(YUR)
+Amor.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297794087]
+(RIT)
+¡Agh!... *Cof, cof* ¡Agh, puaj!
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1265669306]
+(KAR)
+¿Qu-quién eres tú
+y qué has hecho con (YUR)?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297794087]
+(RAV)
+Mi oído ya no es lo qu'era. ¿Cuál
+has dicho qu'era el ingrediente secreto?
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265589241]
+(YUR)
+¡Amor! La mujer que llevaba la posada
+donde vivía siempre solía decir que
+la cocina era todo cuestión de amor.
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265589241]
+(YUR)
+Les he puesto todo el amor que he podido.
+Así que comedlas bien, ¿eh?
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299768]
+(KAR)
+Croquetas rellenas del amor de (YUR)...
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299768]
+(RIT)
+Ugh...
+
+## POINTER 13 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267443303]
+(RAV)
+Ojalá no'stuvieran tan ricas...
+
+## POINTER 14 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265589241]
+(JUD)
+Un ingrediente secreto es el mayor tesoro
+de un cocinero. Lo que pasa es que no
+quieres decirlo, ¿verdad?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1297794087]
+(YUR)
+La verdad es que no les he puesto nada especial.

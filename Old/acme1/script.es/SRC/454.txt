@@ -1,0 +1,56 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285444595]
+¿Qué demonios está pasando?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285444595]
+¡Ay, la que se nos cae encima!
+¡Es una señal del Apocalipsis!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285444595]
+¡No, por Dios!
+¡Justo cuando acababa
+de construir mi casa!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285444595]
+<STR>(JUD)
+Menuda se ha liado.
+Aunque no les culpo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285444595]
+<STR>(YUR)
+Seguro que en la capital deben andar igual.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285444595]
+¿De dónde venís?
+¿Habéis oído algo?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1283611742]
+<STR>(YUR)
+No, nosotros...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285444622]
+¿Por qué estáis
+todos aquí?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1283611742]
+Teagle
+¡Vaya pintas lleváis!
+¿Qué os ha pasado?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1285444595]
+<STR>(YUR)
+Oh, eres tú. Nos ha pasado de todo.
+¿Sabes si por aquí hay un médico?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1283611742]
+Teagle
+Claro, conozco un doctor, pero...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285444595]
+<STR>(RAV)
+¿Te importaría traer a
+ese doctor a la posá?<PAGE>Estamos mu hechos polvo
+como pa caminar y tó eso.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285444595]
+Teagle
+Por supuesto. Ahora vuelvo.

@@ -1,0 +1,56 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285954221]
+<STR>(YUR)
+<VOICE>(VS51_001)Así que eso es Zaude.
+Es enorme.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285954221]
+<STR>(KAR)
+<VOICE>(VS51_002)Tiene forma de anillo.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289237984]
+<STR>(RAV)
+<VOICE>(VS51_003)Cualquiera con unos deos así de grandes
+no tendría ningún problema
+pá apoderarse der mundo.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285954221]
+<STR>(KAR)
+<VOICE>(VS51_004)Me pregunto si nos colaremos sin que nos vean.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285954221]
+<STR>(RIT)
+<VOICE>(VS51_006)¡Hala, mirad! ¡Allí!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285954221]
+<STR>(JUD)
+<VOICE>(VS51_007)Phaeroh...
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285954221]
+<STR>(KAR)
+<VOICE>(VS51_008)Está...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981074]
+<STR>(JUD)
+<VOICE>(VS51_009)Pero si Phaeroh es uno de
+los entelechia más fuertes...
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285954221]
+<STR>(RAV)
+<VOICE>(VS51_010)Y ni siquiera él l'ha podio
+hacer argo. ¿En qué marrón
+nos hemos metío?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285954221]
+<STR>(RIT)
+<VOICE>(VS51_011)Se ha reconstruido a sí mismo
+manipulando el aer.<PAGE><VOICE>(VS51_012)Menuda velocidad de procesamiento...
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1285954221]
+<STR>(YUR)
+<VOICE>(VS51_013)Vamos por abajo.<PAGE><VOICE>(VS51_014)Phaeroh está haciendo toda
+la faena, pero al menos ahora
+tiene a Alexei mirando hacia arriba.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289237984]
+<STR>(JUD)
+<VOICE>(VS51_015)Phaeroh... gracias.

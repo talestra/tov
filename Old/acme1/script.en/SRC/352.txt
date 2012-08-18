@@ -1,0 +1,87 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS32_087)Who'd have guessed this town 
+could ever be this lively?
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS32_088)Yes. It's a great relief 
+to know the people here 
+can live freely again.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS32_089)I'm still in shock that 
+<STR>(FRE) actually came.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS32_090)That was amazing timing.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS32_091)But Cumore might 
+just cause more pain 
+somewhere else.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS32_093)You watch. <STR>(FRE)'ll have 
+that guy behind bars in 
+no time. Right, <STR>(YUR)?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS32_094)...Oh, uh, yeah.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS32_095)...<STR>(YUR)...?
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS32_096)<STR>(RAV), you're gonna 
+catch a cold.
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS32_097)He wore himself out playing 
+with all the children. You'd 
+think he was 12 years old.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS32_098)Welcome back.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS32_099)They're still going out there. 
+I can't keep up with them.
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS32_100)I saw you having a good 
+time, though. You're an 
+awesome dancer, <STR>(RIT).
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS32_101)Shut up.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS32_102)Huh...? The old man's 
+asleep already?
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS32_103)Heh. That was quick.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS32_104)<STR>(YUR)?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS32_105)Just gonna go have a word 
+with <STR>(FRE). I'll be back.

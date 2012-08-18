@@ -1,0 +1,198 @@
+## POINTER 0
+
+Hey, is that you, <STR>(KAR)?
+
+## POINTER 1
+<STR>(KAR)
+Dyne!
+
+## POINTER 2
+<STR>(JUD)
+Who might this be?
+
+## POINTER 3
+<STR>(KAR)
+I'll do the introductions. This 
+is Dyne from the Hunting Blades.<PAGE>He really took care of me 
+while I was in that guild.<PAGE>These are the rest of my guildmates in Brave Vesperia.
+
+## POINTER 4
+Dyne
+I'd heard you started up a guild 
+of your own after our darling 
+Nan gave you the boot.<PAGE>So? Things going well so far?
+
+## POINTER 5
+<STR>(KAR)
+Yeah, we're getting by.
+
+## POINTER 6
+<STR>(YUR)
+<STR>(KAR)...
+
+## POINTER 7
+<STR>(KAR)
+Huh...? What's up?
+
+## POINTER 8
+<STR>(YUR)
+You sure this is okay...? You've 
+got a bit of a rocky history with 
+the Hunting Blades, don't you...?
+
+## POINTER 9
+<STR>(KAR)
+I what...? Oh, Dyne's 
+not like that at all.
+
+## POINTER 10
+Dyne
+This kid has a habit of trying to 
+act way bigger than he is, and the 
+others gave him hell about it.<PAGE>Not me though. I was a fair bit like him 
+when I got started, so I could relate.
+
+## POINTER 11
+<STR>(YUR)
+Huh.
+
+## POINTER 12
+Dyne
+Glad to see you seem to be 
+getting along just fine 
+with your new group here.
+
+## POINTER 13
+<STR>(KAR)
+Yeah, we're giving 
+it our best shot.
+
+## POINTER 14
+Dyne
+...Oh, say,<PAGE>I actually have a bit of 
+a favor to ask you all.
+
+## POINTER 15
+<STR>(KAR)
+What is it?
+
+## POINTER 16
+Dyne
+I'm headed to Desier soon to take care 
+of a monster. This one sounds like 
+a real nasty piece of work, though.<PAGE>The Chief and Tison are off on another 
+job, so I can't ask them.
+
+## POINTER 17
+<STR>(KAR)
+So you want us to 
+help you out?
+
+## POINTER 18
+Dyne
+That's about the half of it, I guess.
+
+## POINTER 19
+<STR>(KAR)
+Well, should we take the job?
+
+## POINTER 20
+Accept job?
+Accept
+Do not accept
+
+## POINTER 21
+Dyne
+Oh yeah, you'll do it?
+
+## POINTER 22
+<STR>(YUR)
+Sure, a friend of <STR>(KAR)'s is a friend of ours. 
+Just let us know what you need done.
+
+## POINTER 23
+<STR>(KAR)
+By the name of Brave Vesperia, the 
+brightest star on the canvas of the 
+night sky, we accept this task!
+
+## POINTER 24
+Dyne
+Whoa, <STR>(KAR), listen to you 
+sounding all grown up.<PAGE>All right then, you all'd better make 
+sure and get yourselves good and 
+ready. This guy's the real deal.
+
+## POINTER 25
+<STR>(KAR)
+Right.
+
+## POINTER 26
+Dyne
+My client's waiting for me at 
+Mantaic, so I'll go on ahead.
+
+## POINTER 27
+<STR>(EST_P)
+He did say Mantaic, 
+right?
+
+## POINTER 28
+<STR>(YUR)
+Yeah. Anything odd about that?
+
+## POINTER 29
+<STR>(EST_P)
+I just wondered what we'd do 
+if the monster he's after 
+turned out to be Phaeroh...
+
+## POINTER 30
+<STR>(KAR)
+If that's what's going on, we'll 
+just have to explain the situation 
+to Phaeroh himself.
+
+## POINTER 31
+<STR>(KAR)
+But Phaeroh's already 
+become Efreet...
+
+## POINTER 32
+<STR>(YUR)
+So basically, if Phaeroh does turn 
+out to be the target for this job, 
+we'd be better off not taking it.
+
+## POINTER 33
+<STR>(KAR)
+We have already said we'd do 
+it though, and it is Dyne...
+
+## POINTER 34
+<STR>(JUD)
+Let's get ourselves to Mantaic. That should 
+help us decide on a course of action.
+
+## POINTER 35
+<STR>(KAR)
+Sounds good to me.
+
+## POINTER 36
+<STR>(EST_P)
+Let's make sure we have everything 
+we need before we set out.
+
+## POINTER 37
+<STR>(YUR)
+That's probably 
+not a bad idea.
+
+## POINTER 38
+Dyne
+No, huh? Not exactly the answer I was hoping for...<PAGE>No point moping over it, though. I'll 
+just have to look somewhere else.
+
+## POINTER 39
+Dyne
+Oh, you'll take the job?

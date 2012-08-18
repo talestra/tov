@@ -1,0 +1,83 @@
+## POINTER 0
+
+Hey, thanks for the help back there.<PAGE>And you reproduced the move I used 
+back in Nordopolica perfectly...
+
+## POINTER 1
+<STR>(YUR)
+I thought it'd be a good way 
+to attract your attention.<PAGE>You're the man who was with those kids down 
+by the lake in the afternoon, right?
+
+## POINTER 2
+
+Ah, so you noticed. We're two 
+of a kind, you know. Maybe 
+fate's brought us together.
+
+## POINTER 3
+<STR>(YUR)
+How do you know...
+
+## POINTER 4
+
+I know who you are. <STR>(YUR) Lowell, 
+you're a man who's had to get 
+his hands dirty, just like me.
+
+## POINTER 5
+<STR>(YUR)
+Well, that's not fair. 
+I hardly know anything 
+about you.
+
+## POINTER 6
+
+Unfortunately, I don't think I really 
+have time for us to get all chummy.<PAGE>But just for tonight, I'll 
+let you ask me one question. 
+Besides my name, that is.
+
+## POINTER 7
+<STR>(YUR)
+Just tell me why...you've had 
+to get your hands dirty.
+
+## POINTER 8
+
+Let's just say my reasons 
+are not the same as yours.<PAGE>I'm looking for the man who killed my swordsmanship 
+teacher. I'm just purging the world 
+of a few villains in the meantime.
+
+## POINTER 9
+<STR>(YUR)
+You don't mind murdering people along your quest?
+
+## POINTER 10
+
+Just a little collateral 
+damage. But it's 
+who I am.
+
+## POINTER 11
+<STR>(YUR)
+It's who you are...?
+
+## POINTER 12
+
+It's fine if you don't understand. 
+Maybe it's better, even.<PAGE>You can still turn back.
+
+## POINTER 13
+<STR>(YUR)
+What are you talking about...?
+
+## POINTER 14
+
+I thought I told you, you only get one question.<PAGE>Well, I'm off. I hope that our 
+paths don't cross again.
+
+## POINTER 15
+<STR>(YUR)
+Yeah, I'm not too crazy about seeing you anytime soon, either.

@@ -1,0 +1,367 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523333]
+<STR>(KAR)
+<VOICE>(VS55_001)No volverá a aparecer
+el monstruo aquel, ¿verdad?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523333]
+<STR>(RAV)
+<VOICE>(VS55_002)Si aparece, le darás una buena
+tunda como la otra vez, ¿no?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(KAR)
+<VOICE>(VS55_003)Qué malo eres...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(RIT)
+<VOICE>(VS55_004)Vale, estoy lista.
+<STR>(EST_P), acércate.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523333]
+<STR>(RIT)
+<VOICE>(VS55_005)Voy a desactivar la fórmula de control.
+Cuando lo haga, el aer krene reaccionará
+y empezará a producir más aer.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(RIT)
+<VOICE>(VS55_006)Quiero que recompongas la fórmula
+del aer y que la conviertas en una
+fórmula estable parecida al maná.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(EST_P)
+<VOICE>(VS55_007)Mmm... No lo entiendo...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(RIT)
+<VOICE>(VS55_008)Ya... Vale...<PAGE><VOICE>(VS55_009)El elemento agua es fuerte en esta zona,
+así que imagina el agua fluyendo
+y deja que tu cuerpo fluya con el aer.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(RIT)
+<VOICE>(VS55_010)La teoría para materializar el aer
+es la misma que para hacer magia.<PAGE><VOICE>(VS55_011)Si <STR>(EST_P) puede recomponer
+el aer en un estado parecido al maná,<PAGE><VOICE>(VS55_012)entonces yo podría guiar
+el aer hacia el cielo cian.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(KAR)
+<VOICE>(VS55_013)¿Nosotros podemos ayudar?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(RIT)
+<VOICE>(VS55_014)No. Echad una siesta o algo.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(RAV)
+<VOICE>(VS55_015)¡Nos moriríamos congelaos si
+echáramos una siesta aquín!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(JUD)
+<VOICE>(VS55_016)Podemos usar la fórmula de
+conversión que encontramos en Zaude.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(RIT)
+<VOICE>(VS55_017)¡Esa era para sustituir vida
+por aer! ¡Tu vida!<PAGE><VOICE>(VS55_018)¡No puedes hacer eso!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(JUD)
+<VOICE>(VS55_019)Pero si esto no sale bien, habrá una
+inundación de aer que nos engullirá.
+Moriríamos igual, ¿no?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(YUR)
+<VOICE>(VS55_020)Todos estamos arriesgando
+nuestras vidas.<PAGE><VOICE>(VS55_021)Déjanos ayudar.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(RIT)
+<VOICE>(VS55_022)Está bien...<PAGE><VOICE>(VS55_023)Utilizaré vuestra energía vital
+para guiar el aer hacia
+el cielo cian.<PAGE><VOICE>(VS55_024)Si lo hacemos así, creo que <STR>(EST_P)
+entenderá el flujo de aer sin
+que yo tenga que intervenir.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(YUR)
+<VOICE>(VS55_025)Muy bien, chicos.
+Vamos allá.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(EST_P)
+<VOICE>(VS55_026)¡Vale!
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(KAR)
+<VOICE>(VS55_027)¡Sí!
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(RAV)
+<VOICE>(VS55_028)Claro, ¿por qué no?
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(JUD)
+<VOICE>(VS55_029)Está bien.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286469228]
+<STR>(RAP)
+<VOICE>(VS55_030)¡Guau!
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(RIT)
+<VOICE>(VS55_031)¿Lista, <STR>(EST_P)? 
+Allá vamos.<PAGE><VOICE>(VS55_032)Chicos, acercaos.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(EST_P)
+<VOICE>(VS55_033)Adelante.
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(RIT)
+<VOICE>(VS55_034)Trata de sincronizarte con
+mi fórmula. Así... muy bien.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470600]
+<STR>(YUR)
+<VOICE>(VS55_035)Ugh...
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(RIT)
+<VOICE>(VA110_017)El aer se está acumulando
+en el cielo cian...
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(RIT)
+<VOICE>(VS55_036)La fórmula funciona. El campo de fuerza
+es estable... ¡Va a salir bien!
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523333]
+<STR>(EST_P)
+<VOICE>(VS55_037)Ugh... Ah...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(EST_P)
+<VOICE>(VS55_038)¡Aaah!
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(YUR)
+<VOICE>(VS55_039)¿Qué ha pasado?
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(KAR)
+<VOICE>(VS55_040)¿N-No ha funcionado?
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1290372555]
+<STR>(RIT)
+<VOICE>(VS55_041)¡No! Sigue bajo control pero...
+¡¿esto qué es?!
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(RIT)
+<VOICE>(VS55_042)¡¿Una fórmula para reorganizar
+la apátheia?! ¿Se está reformulando
+a sí misma?...
+
+## POINTER 35 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+
+<VOICE>(VS55_043)Soy...
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(JUD)
+<VOICE>(VS55_044)Esa voz... ¡¿Belius?!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+
+<VOICE>(VS55_045)¿<STR>(JUD)? Sí, soy yo, 
+Belius... o más bien...<PAGE><VOICE>(VS55_046)Fui Belius...
+pero ya no.
+
+## POINTER 38 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(YUR)
+<VOICE>(VS55_047)¿Qué está pasando?
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(RIT)
+<VOICE>(VS55_048)¿La voluntad de Belius que contenía
+la apátheia ha...?
+
+## POINTER 40 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(RIT)
+<VOICE>(VS55_049)Increíble...
+
+## POINTER 41 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+
+<VOICE>(VS55_050)Siento las aguas del mundo bajo mi mando.
+Soy la gobernante de las aguas.
+
+## POINTER 42 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(RAV)
+<VOICE>(VS55_051)Vale... Entonces...
+¿Ha funcionao?
+
+## POINTER 43 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(RIT)
+<VOICE>(VS55_052)Ha funcionado, pero esto
+va más allá...<PAGE><VOICE>(VS55_053)Nunca pensé que adquiriría una voluntad propia...
+
+## POINTER 44 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+
+<VOICE>(VS55_054)Humanos, ¿qué ser soy yo?
+Ya no soy Belius, la entelechia...<PAGE><VOICE>(VS55_055)Me habéis dado la vida.
+Os pido que me deis un nombre.
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(YUR)
+<VOICE>(VS55_056)Un ser que controla la esencia de
+una materia... Quizás seas un espíritu.
+
+## POINTER 46 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+
+<VOICE>(VS55_057)Y mi nombre será...
+
+## POINTER 47 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523333]
+<STR>(KAR)
+<VOICE>(VS55_058)La Reina Acuática Salpicant...
+
+## POINTER 48 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(EST_P)
+<VOICE>(VS55_059)Una palabra antigua para la gobernante
+de las aguas... ¿Qué tal Undine?
+
+## POINTER 49 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+Undine
+<VOICE>(VS55_060)Undine... En adelante, se me conocerá
+como el espíritu Undine.
+
+## POINTER 50 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+Undine
+<VOICE>(VA110_039)Aah... Noto el poder que
+crece en mi interior...<PAGE><VOICE>(VA110_040)Tal es el beneficio
+del aer que creísteis
+oportuno entregarme...
+
+## POINTER 51 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(KAR)
+<VOICE>(VA110_041)Tampoco ha sido coser y cantar...
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+Undine
+<VOICE>(VA110_042)¡Tomad esto como muestra
+de mi gratitud!
+
+## POINTER 53 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(YUR)
+<VOICE>(VS55_061)¡Undine! Necesitamos que el aer
+del mundo esté bajo control.
+Por favor, préstanos tu poder.
+
+## POINTER 54 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+Undine
+<VOICE>(VS55_062)Muy bien. Sin embargo, únicamente
+con mis poderes no será suficiente.
+
+## POINTER 55 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470281]
+<STR>(KAR)
+<VOICE>(VS55_063)¿Eh?
+
+## POINTER 56 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470600]
+Undine
+<VOICE>(VS55_064)Yo solo controlo las aguas.
+Debéis reunir a aquellos que
+controlan los demás elementos.
+
+## POINTER 57 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470600]
+<STR>(RIT)
+<VOICE>(VS55_065)Los elementos son tierra, agua, aire
+y fuego... Necesitamos por lo menos tres más...
+
+## POINTER 58 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523333]
+<STR>(RAV)
+<VOICE>(VS55_066)Necesitaremos que los otros
+entelechia nus echen un cable, ¿no?
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(KAR)
+<VOICE>(VS55_067)Dudo que se conviertan en espíritus
+solo porque se lo pidamos por favor...
+
+## POINTER 60 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470600]
+<STR>(JUD)
+<VOICE>(VS55_068)Quedan muy pocos
+entelechia. Phaeroh, 
+Gusios...
+
+## POINTER 61 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470600]
+<STR>(KAR)
+<VOICE>(VS55_069)Y Ba'ul.
+
+## POINTER 62 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523333]
+<STR>(JUD)
+<VOICE>(VS55_070)Ba'ul no. No ha tomado
+suficiente aer como para
+crear una apátheia.<PAGE><VOICE>(VS55_071)Y además, no pienso
+permitirlo.
+
+## POINTER 63 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470600]
+<STR>(YUR)
+<VOICE>(VS55_072)Undine, ¿tienes alguna idea?
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+Undine
+<VOICE>(VS55_073)El bosque brillante de Erealumen,
+y Relewiese, la raíz del mundo.<PAGE><VOICE>(VS55_074)Vuestro amigo Ba'ul debería
+saber dónde están estos lugares.
+
+## POINTER 65 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470759]
+<STR>(KAR)
+<VOICE>(VS55_075)¡Ha desaparecido!
+
+## POINTER 66 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470759]
+<STR>(EST_P)
+<VOICE>(VS55_076)No... está aquí.
+La siento.
+
+## POINTER 67 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470759]
+<STR>(JUD)
+<VOICE>(VS55_077)Además, parece que el aer krene
+se ha calmado...<PAGE><VOICE>(VS55_078)A pesar de que no estamos
+controlando el poder de <STR>(EST_P).
+
+## POINTER 68 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470759]
+<STR>(RIT)
+<VOICE>(VS55_079)¡¿De verdad?!
+
+## POINTER 69 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(RIT)
+<VOICE>(VS55_080)Así que... ¿Undine está
+controlando el poder de <STR>(EST_P)?
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574893]
+<STR>(KAR)
+<VOICE>(VS55_081)¿Quieres decir que <STR>(EST_P)
+por fin es libre?
+
+## POINTER 71 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470759]
+<STR>(RIT)
+<VOICE>(VS55_082)Sí... ¡Sí!
+
+## POINTER 72 [t:1;r:2;ru:squallido,memnoch;user:kaene;time:1286470759]
+<STR>(YUR)
+<VOICE>(VS55_083)Es genial, <STR>(EST_P).
+
+## POINTER 73 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523333]
+<STR>(RAV)
+<VOICE>(VS55_084)Bueno, parece que tó esto
+cada vez es más raro.
+
+## POINTER 74 [t:1;r:1;ru:memnoch;user:memnoch;time:1298574904]
+<STR>(YUR)
+<VOICE>(VS55_085)Ya, no habría soñado 
+en la vida que
+pasaría algo así.<PAGE><VOICE>(VS55_086)Pero ya vemos la luz al final del túnel.

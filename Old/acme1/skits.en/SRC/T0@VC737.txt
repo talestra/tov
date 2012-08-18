@@ -1,0 +1,53 @@
+## POINTER 0
+The Frail Girlfriend
+
+## POINTER 1
+(EST_P)
+So tell me about this frail 
+girlfriend of yours, (KAR).
+
+## POINTER 2
+(KAR)
+Wha?!
+
+## POINTER 3
+(EST_P)
+The reason you want to 
+go to Nor Harbor is so 
+you can see her, isn't it?
+
+## POINTER 4
+(KAR)
+H-how do you know about her?!
+
+## POINTER 5
+(EST_P)
+I knew it!
+
+## POINTER 6
+(KAR)
+N-no! I mean, she's not 
+even in Nor Harbor...
+
+## POINTER 7
+(EST_P)
+Oh, it's not Nor Harbor?
+
+## POINTER 8
+(KAR)
+I d-don't know what 
+you're talking about!
+
+## POINTER 9
+(YUR)
+You might as well come 
+clean, (KAR). It's obvious 
+(EST_P)'s not going to give up.
+
+## POINTER 10
+(KAR)
+You've got it all wrong!
+
+## POINTER 11
+(EST_P)
+(KAR)...

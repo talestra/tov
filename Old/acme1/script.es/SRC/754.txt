@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1279576684]
+<STR>(RIT)
+Tened cuidado. El aer es el causante
+de todas estas anomalías botánicas.<PAGE>Es muy probable que este lugar
+contenga gran cantidad de él.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1279576684]
+<STR>(RAV)
+Sip, demasiao aer pué tener
+efectos negativos en personas
+y en er blastia.<PAGE>Pué hacer que tu metabolismo
+vaya má deprisa, haciendo que
+canses má rápido de lo habitual.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1279401470]
+<STR>(RIT)
+Vaya, sabes más de lo que pensaba.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1279576684]
+<STR>(RAV)
+¿Eh? ¡Pero si es sentío común!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1279576684]
+<STR>(RIT)
+Daba por hecho que la gente conocía
+los efectos del aer en el cuerpo humano.<PAGE>Pero no imaginaba que supiera
+que los blastias pueden saturarse
+de aer si se usan incorrectamente.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1279401470]
+<STR>(RAV)
+Nah, ¡cualquiera que use un
+bodhi blastia debería saberlo!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1279576684]
+<STR>(KAR)
+Reconozco que nunca lo había oído
+hasta que <STR>(RIT) lo ha mencionado.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1279576684]
+<STR>(RAV)
+¡Estás atolondrao, chaval! ¡Tienes que darle má a los codos!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1279576684]
+<STR>(YUR)
+...

@@ -1,0 +1,34 @@
+## POINTER 0
+<STR>(YUR)
+You really like blastia, don't you?
+
+## POINTER 1
+<STR>(RIT)
+Hey, I told you not to touch Victoria 
+with your grimy little hands!
+
+## POINTER 2
+<STR>(KAR)
+Vic-Victoria? Do you 
+mean this blastia...?
+
+## POINTER 3
+<STR>(YUR)
+How come you like them so much?
+
+## POINTER 4
+<STR>(RIT)
+How come... Because 
+they're fun!<PAGE>The way they work, the theory behind them...<PAGE>Argh, I don't know... I've 
+never thought about it!<PAGE>Can you give reasons 
+why you like the 
+things you like?
+
+## POINTER 5
+<STR>(YUR)
+Well, there are definitely some things 
+I like for no particular reason.<PAGE>I guess the reason I like them is because...I like them.
+
+## POINTER 6
+<STR>(RIT)
+Exactly.

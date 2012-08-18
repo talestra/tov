@@ -1,0 +1,316 @@
+## POINTER 1
+<02>(1)<0B>(0) joined the party.
+
+## POINTER 2
+<02>(1)<0B>(0) left the party.
+
+## POINTER 3
+Obtained 
+<02>(1)<0B>(0).
+
+## POINTER 4
+Lost 
+<02>(1)<0B>(0).
+
+## POINTER 5
+HP and TP were restored.
+
+## POINTER 6
+Handed over <02>(1)<0B>(0) x <0B>(1).
+
+## POINTER 7
+Obtained <02>(1)<0B>(0) x <0B>(1).
+
+## POINTER 8
+<0B>(0) earned the
+"<0B>(1)" title.
+
+## POINTER 9
+Learned the recipe for
+"<0B>(0)."
+
+## POINTER 10
+<0B>(0) learned
+"<0B>(1)."
+
+## POINTER 11
+Discarded <0B>(0) x <0B>(1) .
+
+## POINTER 12
+<0B>(0)　x　<0B>(1)
+
+## POINTER 13
+Acquired the following:
+
+## POINTER 14
+acquired!
+
+## POINTER 15
+Returned
+
+## POINTER 16
+All items you cannot carry will be lost.
+ Do you want to pick up the item?
+
+## POINTER 17
+Yes
+No
+
+## POINTER 18
+Talk
+
+## POINTER 19
+Open
+
+## POINTER 20
+Push
+
+## POINTER 21
+Save
+
+## POINTER 22
+Exit
+
+## POINTER 23
+Enter
+
+## POINTER 24
+Check
+
+## POINTER 25
+Sample
+
+## POINTER 26
+Climb Up
+
+## POINTER 27
+Climb Down
+
+## POINTER 28
+Ride
+
+## POINTER 29
+Grab
+
+## POINTER 30
+Return to Field Map
+
+## POINTER 31
+Cancel?
+
+## POINTER 32
+Cleared!
+
+## POINTER 33
+There are unopened treasure boxes.
+You will not be able to return if you leave with the item.
+
+## POINTER 34
+Return items you've picked up and try again.
+Do not return items and quit.
+Continue
+
+## POINTER 35
+Skip
+
+## POINTER 36
+Do you want to skip?
+
+## POINTER 37
+Return everything including the Gald.
+
+## POINTER 38
+Return everything.
+
+## POINTER 39
+Obtained <0B>(0) Gald.
+
+## POINTER 40
+Move forward
+Move to the left
+Move to the right
+Stop
+
+## POINTER 41
+And they were never heard from again...
+
+## POINTER 42
+Load Data
+
+## POINTER 43
+Quit Game
+
+## POINTER 44
+Check tutorial?
+
+## POINTER 45
+You do not have enough Gald.
+
+## POINTER 46
+Chips
+
+## POINTER 47
+Grade
+
+## POINTER 48
+Gald
+
+## POINTER 49
+Cancel
+
+## POINTER 50
+Quit
+
+## POINTER 51
+Take <0B>(0) with you?
+
+## POINTER 52
+Exchange <0B>(0) with other members?
+
+## POINTER 53
+Move to the left
+Move to the right
+Stop
+
+## POINTER 54
+Move forward
+Move to the right
+Stop
+
+## POINTER 55
+You are not signed in to a gamer profile.
+You will not be able to save if you continue.
+Do you wish to continue anyway?
+
+## POINTER 56
+Acquired
+<0B>(0) Gald.
+
+## POINTER 57
+Lost
+<0B>(0) Gald.
+
+## POINTER 58
+Do you want to rest?
+
+## POINTER 62
+Check tutorial
+
+## POINTER 63
+Notice
+
+## POINTER 64
+Select
+
+## POINTER 65
+Error
+
+## POINTER 66
+Result
+
+## POINTER 67
+Information
+
+## POINTER 68
+Insufficient space to save a new game.
+At least (<0B>(0)KB) of free space is required to save data.
+ 
+Start game anyway?
+
+## POINTER 69
+Win
+
+## POINTER 70
+Lose
+
+## POINTER 71
+Move to the nearest exit?
+
+## POINTER 72
+Exchange Chips
+
+## POINTER 73
+???
+
+## POINTER 74
+Level 1
+
+## POINTER 75
+Level 2
+
+## POINTER 76
+Level 3
+
+## POINTER 77
+Level 4
+
+## POINTER 78
+Level 5
+
+## POINTER 79
+Level 6
+
+## POINTER 80
+Level 7
+
+## POINTER 81
+Which level do you want to move to?
+
+## POINTER 82
+<0B>(0) learned
+the "<0B>(1)" Base Arte.
+
+## POINTER 83
+<0B>(0) learned
+the "<0B>(1)<03>(0)" Arcane Arte.
+
+## POINTER 84
+<0B>(0) learned
+the "<0B>(1)" Skill.
+
+## POINTER 85
+You can find items at various
+Search Points located throughout
+the world.
+Search Points are restored after
+some time, so check back from
+time to time.
+Some Search Points will only
+appear after certain conditions
+have been fulfilled.
+You can find different items
+from the same Search Point.
+Try looking for them at various places.
+
+## POINTER 86
+A new page has been added to the Battle Book.
+
+## POINTER 87
+You can start from the beginning
+by loading a cleared game data file.
+Downloadable content will be carried over.
+
+## POINTER 88
+The game has not been cleared.
+Returning to the Title Screen.
+
+## POINTER 89
+Movie
+
+## POINTER 90
+Sound
+
+## POINTER 91
+Chat
+
+## POINTER 92
+Question
+
+## POINTER 93
+Forward
+
+## POINTER 94
+Next
+
+## POINTER 95
+Return to the previous page

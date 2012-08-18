@@ -1,0 +1,53 @@
+## POINTER 0
+<STR>(EST_P)
+That's a blastia formula.
+
+## POINTER 1
+<STR>(YUR)
+Feel free to step inside, if 
+you'd like. Aren't you cold?
+
+## POINTER 2
+<STR>(EST_P)
+I've had enough crimes 
+for today, thank you.
+
+## POINTER 3
+<STR>(YUR)
+Meh, it's not such a big deal.
+
+## POINTER 4
+<STR>(EST_P)
+Not a big deal? "Breaking and entering is a crime punishable by 
+at least a year in prison and a fine of up to 10,000 Gald!"
+
+## POINTER 5
+<STR>(KAR)
+Did you notice how messy this writing 
+is? I can write nicer than this!
+
+## POINTER 6
+<STR>(YUR)
+But they say people with bad 
+handwriting have good hearts.
+
+## POINTER 7
+<STR>(KAR)
+Well, I have good handwriting and 
+a good heart! How about that?
+
+## POINTER 8
+<STR>(YUR)
+<STR>(EST_P), do you know what 
+this formula means?
+
+## POINTER 9
+<STR>(EST_P)
+It resembles a magic circle that 
+uses fire, but I'm not sure...
+
+## POINTER 10
+<STR>(YUR)
+...But at least you understand 
+it a little bit. It means 
+nothing to me at all.

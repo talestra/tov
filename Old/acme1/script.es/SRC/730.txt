@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292772024]
+<STR>(KAR)
+¡Agh!<PAGE>Au, au, auuu...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511677]
+<STR>(KAR)
+¡¿Q-Qué está pasando?!<PAGE>Yo, mm... ¿chicos?
+¿Dónde estáis?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511677]
+<STR>(KAR)
+Mmmm...
+¿Sabes qué? Esto tampoco está tan mal.<PAGE>¡Ta, ta, da, da!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1292772024]
+<STR>(YUR)
+*Silbido*
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511677]
+<STR>(EST_P)
+¿Estás enfadado,
+<STR>(KAR)?
+
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1292772024]
+<STR>(KAR)
+Sois más malos que el demonio...
+Y yo que os iba
+a salvar a todos...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1294059561]
+<STR>(RAV)
+Pues no nos habíamos enterado,
+bello durmiente.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294059561]
+<STR>(YUR)
+Oye, no pasa nada, ¿verdad?
+Además, parece que te
+gusta levantarte así.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1294059561]
+<STR>(KAR)
+¡¿Que me g-g-gusta?!
+¡No es verdad!

@@ -1,0 +1,319 @@
+## POINTER 2200 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Un pescado muy popular. Especialmente sabroso
+si ha sido pescado durante el invierno.
+
+## POINTER 2202 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261769340]
+Caballa
+
+## POINTER 2203 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189701]
+Un pez popular a un precio razonable.
+A la parrilla o al vapor, se sirve con arroz hervido.
+
+## POINTER 2205 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261769340]
+Vieira
+
+## POINTER 2206 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271594053]
+Solo parte de la carne se usa para cocinar.
+
+## POINTER 2208 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261769340]
+Salmón
+
+## POINTER 2209 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261769417]
+Un pez común que se puede servir crudo,
+a la parrilla o al vapor.
+
+## POINTER 2211 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261769417]
+Calamar
+
+## POINTER 2212 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189701]
+Un molusco de diez piernas que tiene
+buen sabor tanto crudo como cocinado.
+
+## POINTER 2214 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261769581]
+Langostino
+
+## POINTER 2215 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189701]
+Una criatura marina con un duro caparazón y un cuerpo tierno.
+Se dice que representa la longevidad.
+
+## POINTER 2217 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261770174]
+Col
+
+## POINTER 2218 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261770174]
+Cruda, al horno, en escabeche y salteada.
+Una verdura usada en muchos platos
+
+## POINTER 2220 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261770174]
+Lechuga
+
+## POINTER 2221 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261770367]
+Un vegetal frondoso usado principalmente en ensaladas.
+Obligatorio en toda ensalada que se precie.
+
+## POINTER 2223 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261770367]
+Pepino
+
+## POINTER 2224 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189701]
+Una hortaliza de verano.
+Disfruta de su sabor crujiente y fresco.
+
+## POINTER 2226 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261770367]
+Zanahoria
+
+## POINTER 2227 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189701]
+Una hortaliza de forma y color bonitos.
+Hervida sabe más dulce. 
+
+## POINTER 2229 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261770367]
+Cebolla
+
+## POINTER 2230 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189701]
+Especialmente picante,
+puede hacer llorar al cortarla.
+
+## POINTER 2232 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261770367]
+Rábano
+
+## POINTER 2233 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Verdura blanca y jugosa que se usa en estofados.
+
+## POINTER 2235 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Shiitake
+
+## POINTER 2236 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261787510]
+Un hongo que se reproduce por esporas.
+Se sabe que algunos son venenosos.
+
+## POINTER 2238 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Tomate
+
+## POINTER 2239 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Una verdura que se sirve tanto fría como caliente.
+A menudo se usa para hacer zumo o salsas. 
+
+## POINTER 2241 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Patata
+
+## POINTER 2242 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Se usa en muchos platos, pero es mejor servirla
+hervida con la piel y sal.
+
+## POINTER 2244 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261787510]
+Col del este
+
+## POINTER 2245 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Riquísima con pepinillos y en guisos.
+Una verdura de crujientes hojas.
+
+## POINTER 2247 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Melocotón
+
+## POINTER 2248 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Se dice que los santos comían esta fruta.
+Su delicado y dulce aroma resulta adictivo.
+
+## POINTER 2250 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261787525]
+Manzana
+
+## POINTER 2251 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Fruta fresca y dulce. ¡También crujiente y jugosa!
+
+## POINTER 2253 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Kiwi
+
+## POINTER 2254 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263985561]
+A pesar de su aspecto extraño,
+es una fruta muy dulce y jugosa.
+
+## POINTER 2256 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Fresa
+
+## POINTER 2257 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Son sabrosas con leche y nata.
+Van de maravilla para decorar pasteles. 
+
+## POINTER 2259 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Plátano
+
+## POINTER 2260 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Una fruta envuelta en una piel amarilla.
+
+## POINTER 2262 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Naranja
+
+## POINTER 2263 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Fruta cítrica de refrescante olor.
+Su zumo es realmente delicioso.
+
+## POINTER 2265 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Arroz
+
+## POINTER 2266 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1264547452]
+Alimento básico que va bien con todo tipo de platos.
+Normalmente se cuece antes de servirlo.
+
+## POINTER 2268 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Pan
+
+## POINTER 2269 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271594053]
+Masa horneada de harina y agua.
+Es delicioso cuando está recién salido del horno.
+
+## POINTER 2271 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Harina
+
+## POINTER 2272 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Versátil ingrediente de cocina que se obtiene del trigo.
+Normalmente se amasa y se cocina de diferentes maneras.
+
+## POINTER 2274 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Huevo
+
+## POINTER 2275 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Un ingrediente para platos variados.
+Es muy rico en proteínas.
+
+## POINTER 2277 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Leche
+
+## POINTER 2278 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Leche de vaca. Muy nutritiva e ideal
+para el desayuno. ¡Una gran fuente de calcio!
+
+## POINTER 2280 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Tofu
+
+## POINTER 2281 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Comida fermentada que se obtiene de las semillas de soja.
+Es popular por su suave textura.
+
+## POINTER 2283 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Alga kelp
+
+## POINTER 2284 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Uno de los ingredientes empleados en estofados.
+Rica en minerales.
+
+## POINTER 2286 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Alga marina seca
+
+## POINTER 2287 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263985561]
+Alga marina secada. Es delgada como una
+hoja de papel. Va bien con arroz cocido.
+
+## POINTER 2289 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Miso
+
+## POINTER 2290 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263985561]
+Una compacta pasta de semillas hecha
+con mucho cuidado. Va bien en brochetas.
+
+## POINTER 2292 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Concha
+
+## POINTER 2293 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189701]
+Caparazón exterior de una criatura marina.
+Se puede oír el sonido del mar si se pone junto a la oreja.
+
+## POINTER 2295 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Ala de insecto
+
+## POINTER 2296 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Ala de insecto extremadamente fina.
+Quebradiza y muy frágil.
+
+## POINTER 2298 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Escama de basilisco
+
+## POINTER 2299 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Escama muy dura comparada con las de otros monstruos.
+Parece que esté hecha de piedra.
+
+## POINTER 2301 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Pluma de pájaro (pequeña)
+
+## POINTER 2302 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Pluma suave y ligera. No pesa prácticamente nada.
+
+## POINTER 2304 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Colmillo de lobo
+
+## POINTER 2305 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Colmillo afilado. No tanto como la punta de una espada o una aguja.
+Es la presión de la mandíbula al morder lo que los hace letales.
+
+## POINTER 2307 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Trigo de Ilyccia
+
+## POINTER 2308 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Planta común que crece en el continente de Ilyccia.
+
+## POINTER 2310 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+Árbol sagrado
+
+## POINTER 2311 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261776510]
+La ramita de un árbol sagrado.
+No hay duda de que es distinta a otras ramitas.
+
+## POINTER 2313 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Mineral blastium
+
+## POINTER 2314 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Mineral que contiene aer.
+Se usa para fabricar objetos mágicos.
+
+## POINTER 2316 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Aleta de tritón
+
+## POINTER 2317 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263985561]
+Aleta grande que no se parece a la de un pez.
+Muy flexible y elástica.
+
+## POINTER 2319 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Concha de tortuga
+
+## POINTER 2320 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Caparazón exterior de una criatura marina de larga vida.
+Extremadamente dura y se usa para prevenir ataques enemigos.
+
+## POINTER 2322 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Hoja afilada
+
+## POINTER 2323 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+La hoja de un arma cortante.
+Está afilada, así que cuidado al manejarla.
+
+## POINTER 2325 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Pinzas grandes
+
+## POINTER 2326 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189701]
+Las pinzas de un monstruo crustáceo.
+Son como tijeras, pero no pueden usarse como tales.
+
+## POINTER 2328 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Orbe místico
+
+## POINTER 2329 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Orbe misterioso que contiene poderes mágicos.
+No se sabe si es un objeto auténtico o artificial.
+
+## POINTER 2331 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Polvo de hongos
+
+## POINTER 2332 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Las esporas de un hongo.
+Son peligrosas si se inhalan.
+
+## POINTER 2334 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Espina sólida
+
+## POINTER 2335 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Una espina afilada.
+A veces crece en cosas bellas.
+
+## POINTER 2337 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261778467]
+Arma de tritón
+
+## POINTER 2338 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271594053]
+El arma usada por un tritón.
+Es parecida a la de un humano.

@@ -1,0 +1,59 @@
+## POINTER 0
+<STR>(YUR)
+All these rooms look the 
+same. I wonder if they're 
+all like this.
+
+## POINTER 1
+<STR>(KAR)
+I'm going to go check out what's ahead.
+
+## POINTER 2
+<STR>(YUR)
+<STR>(RAP).
+
+## POINTER 3
+<STR>(RIT)
+We don't really have time to be dawdling...
+
+## POINTER 4
+<STR>(YUR)
+It's okay. Relax.
+
+## POINTER 5
+<STR>(KAR)
+As we thought, the rooms 
+all look the same from 
+here on out.<PAGE><STR>(RAP)'s sense of smell doesn't seem 
+to be working too well here, either.
+
+## POINTER 6
+<STR>(YUR)
+I see. We can't afford 
+to get lost in here.
+
+## POINTER 7
+<STR>(JUD)
+Here, use these.<PAGE>Let's make a map as we go.
+
+## POINTER 8
+<STR>(KAR)
+Y-you're always so well prepared!
+
+## POINTER 9
+<STR>(YUR)
+<STR>(KAR), can you do this?
+
+## POINTER 10
+<STR>(KAR)
+Yeah, I'm good with maps. 
+Leave it to me.
+
+## POINTER 11
+<STR>(RIT)
+We'll be in a lot of trouble if you mess up, you know!
+
+## POINTER 12
+<STR>(KAR)
+D-don't say that, come on...everything'll 
+be fine, probably...

@@ -1,0 +1,126 @@
+## POINTER 0
+
+Hey, looks like someone's playing 
+our games! Looks like someone's 
+having fun! Eh? Eh?
+
+## POINTER 1
+<STR>(RAV)
+I tell ya, once I start doin' this kinda 
+thing, ya can't pull me away from it.
+
+## POINTER 2
+<STR>(KAR)
+Me too, me too! This 
+is super fun!
+
+## POINTER 3
+<STR>(RIT)
+Yeesh, you all are 
+so immature...
+
+## POINTER 4
+<STR>(RAV)
+Look who's talking! It's Miss 
+"No, no, you're going the 
+wrong way!" backseat gamer!
+
+## POINTER 5
+<STR>(JUD)
+Hee hee.
+Oh, <STR>(RIT)...
+
+## POINTER 6
+
+That's right, Flatty! 
+You looked like you 
+were quite into it.
+
+## POINTER 7
+<STR>(RIT)
+That was just... I was just 
+looking to see how poorly 
+they were doing, is all!
+
+## POINTER 8
+
+Right, right. Of course, 
+of course.
+
+## POINTER 9
+
+But you know, Papa 
+Ponytail...
+
+## POINTER 10
+<STR>(RAV)
+Huh? Ya 
+mean me?
+
+## POINTER 11
+
+You're pretty talented, Papa 
+Ponytail! You've got some 
+pretty slick skills.
+
+## POINTER 12
+<STR>(RAV)
+Well, I am pretty good 
+at this kinda thing.
+
+## POINTER 13
+
+You like games, do you?
+
+## POINTER 14
+<STR>(RAV)
+Sure, I like 'em a fair bit. 
+Well, I prefer chasin' ladies 
+ta mashin' buttons, though.
+
+## POINTER 15
+
+Me too, Papa! 
+Me too!
+
+## POINTER 16
+<STR>(RAV)
+Nice, very nice! I see ya got 
+yer priorities straight!
+
+## POINTER 17
+<STR>(RIT)
+Oh great, they're 
+bonding...
+
+## POINTER 18
+
+Papa, I 
+like you!<PAGE>I'm going to let you 
+play for free from now 
+on. No chips needed!
+
+## POINTER 19
+<STR>(RAV)
+Hey hey, that's mighty kind of ya! I can 
+tell we're on the same wavelength... It already 
+feels like I've known ya fer years!
+
+## POINTER 20
+
+I agree! I think I'll give 
+you a nickname now, since 
+we're already such chums.<PAGE>How about "Ponytailed 
+Gamer?" Sounds 
+good, eh?
+
+## POINTER 21
+<STR>(RAV)
+Hey, how about that! That's 
+a pretty wild and crazy 
+name... Suits me!
+
+## POINTER 22
+<STR>(RIT)
+These two are 
+beyond help...

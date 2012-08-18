@@ -1,0 +1,12 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1294856244]
+<STR>(RIT)
+¡Ha funcionado!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005491]
+<STR>(EST_P)
+¡Quizá esto quiere decir que podemos usar
+el blastia teleportador de arriba!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1294856244]
+<STR>(YUR)
+¡Vamos!

@@ -1,0 +1,49 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253562374]
+La sede de la Garra del Leviatán
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297380407]
+(YUR)
+¿En qué estarían pensando cuando
+decidieron construir una mansión
+en medio de ningún sitio?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266829082]
+(RAV)
+¿Es que no tá clarinete?
+¡Por las conspiraciones y la intriga!
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134280]
+(EST_P)
+Será mejor darse prisa y
+acabar lo que tenemos que hacer
+antes de que nos atrapen.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266829082]
+(RAV)
+Tampoco tá tan mal, (EST_P). ¿Por qué
+no nos tomamos un tiempo en recorrerla?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297380107]
+(YUR)
+¿Piensas desentrañar alguna
+«conspiración» y resolver alguna 
+«intriga» mientras estamos aquí?
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134280]
+(RAV)
+Nah, no estaba pensando en ná
+de eso. Tan solo que estar en
+casa de otra persona es relajante.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134280]
+(RIT)
+Mira que eres...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297380107]
+(YUR)
+No hay tiempo para esto.
+Nosotros nos adelantamos, viejales.
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134280]
+(RAV)
+No, no, esperadmeeee...

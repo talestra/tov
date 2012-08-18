@@ -1,0 +1,179 @@
+## POINTER 0
+
+Good timing. I could use 
+your help right now.
+
+## POINTER 1
+<STR>(YUR)
+What happened?!
+
+## POINTER 2
+
+There was a landslide. They 
+were bringing down building 
+materials for town...
+
+## POINTER 3
+<STR>(YUR)
+It looks like you're short on 
+help. Can we lend a hand?
+
+## POINTER 4
+
+That would be great.<PAGE>We're running low on water...would 
+you mind going and bringing 
+some from the watering hole?
+
+## POINTER 5
+<STR>(YUR)
+Hey old man, <STR>(KAR), did you hear that?
+
+## POINTER 6
+
+Some of the injured are still back 
+where the landslide happened.<PAGE>The Imperial Knights have gone out to rescue 
+them, but I'm sure they're short on hands. 
+If you could somehow help them...
+
+## POINTER 7
+<STR>(YUR)
+<STR>(JUD_P), take Ba'ul.
+
+## POINTER 8
+<STR>(RAP)
+Woof!
+
+## POINTER 9
+<STR>(YUR)
+Okay, you go 
+too, <STR>(RAP).
+
+## POINTER 10
+
+You two can go and buy supplies.<PAGE>Go get the materials in the Imperial 
+Knights' facility and take them to the 
+shop to synthesize into medicine.
+
+## POINTER 11
+<STR>(YUR)
+Gotcha. Let's 
+go, <STR>(RIT).
+
+## POINTER 12
+<STR>(EST_P)
+Doctor, I've used my healing 
+artes on the people outside. 
+How are things in here?
+
+## POINTER 13
+
+Almost everyone here's been healed, too. 
+But there are more people on the way.<PAGE>For now, take care 
+of those people.
+
+## POINTER 14
+<STR>(EST_P)
+Okay...!
+
+## POINTER 15
+<STR>(YUR)
+...It looks like things have calmed down here.
+
+## POINTER 16
+
+Everyone outside wasn't wounded 
+too badly, so we sent them home 
+after they were healed.
+
+## POINTER 17
+<STR>(EST_P)
+I'm so glad no 
+one was hurt 
+too badly.
+
+## POINTER 18
+
+You've gotten quite good at the motions 
+and techniques involved in healing.<PAGE>I'd say you're well on your way 
+to becoming a fine healer!
+
+## POINTER 19
+<STR>(EST_P)
+U-ummm...
+About that...
+
+## POINTER 20
+
+Eh? What is it, young lady?
+
+## POINTER 21
+<STR>(EST_P)
+I don't want to 
+become a healer! 
+I'm sorry!!
+
+## POINTER 22
+
+I see...
+
+## POINTER 23
+<STR>(EST_P)
+I think that healing others like 
+a doctor does is an amazing 
+thing to do. I really do.<PAGE>But my dreams lie 
+somewhere else...
+
+## POINTER 24
+
+I see, I see...
+It appears I jumped to conclusions.
+I'm the one who should be sorry.
+
+## POINTER 25
+<STR>(EST_P)
+Not at all...
+It was my fault for
+not telling you sooner...<PAGE>I'm so sorry.
+
+## POINTER 26
+
+No, no. Don't worry about it.<PAGE>Besides, whatever you want to 
+be eventually, you already make 
+a remarkable co-medical.
+
+## POINTER 27
+<STR>(EST_P)
+A...co-medical?
+
+## POINTER 28
+
+It's someone who's neither a doctor nor a 
+healer, but who helps doctors to treat the 
+injured and the sick in a number of ways.<PAGE>Allow me to give you this, as a testament to your abilities.
+
+## POINTER 29
+<STR>(EST_P)
+A nurse's cap...
+
+## POINTER 30
+
+You possess the
+special gift of healing,
+young lady.<PAGE>If you come across someone who is 
+in pain, you must use this gift 
+to help them, however you can.<PAGE>Even if you're not officially a healer, 
+healing the pain of others is one of the 
+finest things you can do in this world.
+
+## POINTER 31
+<STR>(EST_P)
+Yes, it is!
+
+## POINTER 32
+
+Good luck in pursuing 
+those dreams of yours.
+
+## POINTER 33
+<STR>(EST_P)
+Thank you.

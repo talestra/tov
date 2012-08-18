@@ -1,0 +1,83 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VA050_082)...It's him...
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VA050_083)If you're here for the aer krene, the 
+monster already got it under control.
+
+## POINTER 2
+Duke
+<VOICE>(VA050_084)I heard...
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VA050_085)Heard? From who...?
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VA050_086)But Regaey--err, I mean Yeager--was 
+the only other person here then...
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VA050_087)Wait, then you and Yeager are...?!
+
+## POINTER 6
+Duke
+<VOICE>(VA050_088)I thought I told you... Stay 
+away from the aer krene.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VA050_089)Sorry about that. We just totally stumbled 
+on this one by accident. Honest.
+
+## POINTER 8
+Duke
+<VOICE>(VA050_090)Then you will leave immediately. 
+Do not return again.
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VA050_091)Hold on a second...
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VA050_092)...Okay, what is with his attitude...?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VA050_093)We're already here so...we can just 
+leave after you've examined it.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VA050_094)...You're kidding, right?<PAGE><VOICE>(VA050_095)Aren't there plenty of 
+other things we should 
+be doing instead?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VA050_096)Well, WE do, but...
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VA050_097)…………
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VA050_098)We all do.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VA050_099)...<STR>(EST_P).
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VA050_100)All right, then. Let's go.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VA050_101)<STR>(RIT), you too.

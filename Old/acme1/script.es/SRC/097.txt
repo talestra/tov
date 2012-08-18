@@ -1,0 +1,110 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211223]
+<STR>(YUR)
+<VOICE>(VS04_500)Anda, cuánta luz.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1270080721]
+<STR>(YUR)
+<VOICE>(VS04_501)*Suspiro* Ya ha amanecido. 
+He desperdiciado toda la noche.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:evilluendas;time:1270033346]
+<STR>(YUR)
+<VOICE>
+(VS04_502)Parece que hemos acabado 
+en el distrito real.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1304130948]
+<STR>(EST)
+<VOICE>(VS04_503)Todo es muy distinto a como se
+veía desde la ventana del castillo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1304131075]
+<STR>(YUR)
+<VOICE>(VS04_504)Venga, mujer. Lo dices como
+si esta fuera tu primera vez
+fuera del castillo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(EST)
+<VOICE>(VS04_505)Mm, bueno, yo...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(YUR)
+<VOICE>(VS04_506)Supongo que una dama que vive
+en un castillo no puede dar una
+vuelta por ahí cuando le apetezca.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(EST)
+<VOICE>(VS04_507)S-Sí, tiene razón.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(YUR)
+<VOICE>(VS04_508)Bueno, oye. Al final hemos
+logrado salir del castillo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(YUR)
+<VOICE>(VS04_509)Ja, ja, ja.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270081340]
+<STR>(EST)
+<VOICE>(VS04_510)Mmm. ¿No lo he hecho bien?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(YUR)
+<VOICE>(VS04_511)Bah... Nada grave.<PAGE><VOICE>
+(VS04_512)Y bien, <STR>(EST), ¿que harás
+ahora que campas a tus anchas?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:evilluendas;time:1270033346]
+<STR>(EST)
+<VOICE>(VS04_513)Tengo que encontrar a <STR>(FRE).
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(YUR)
+<VOICE>(VS04_514)¿Sabes adónde ha ido?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(EST)
+<VOICE>(VS04_515)El otro día dijo que se iba al
+peregrinaje de los Caballeros.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(YUR)
+<VOICE>(VS04_516)Ooh, eso.  
+¿Ir por las ciudades del Imperio
+realizando actos de buena fe?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(EST)
+<VOICE>(VS04_517)Sí. Por eso iré a la ciudad
+de las flores, Halure.<PAGE><VOICE>
+(VS04_518)Es allí donde tradicionalmente empieza
+el peregrinaje de los Caballeros.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(YUR)
+<VOICE>
+(VS04_519)Necesitarás cruzar la barrera, entonces.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270593935]
+<STR>(EST)
+<VOICE>(VS04_520)¿Ha estado alguna vez más 
+allá de la barrera?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(YUR)
+<VOICE>(VS04_521)No hace mucho. Me gustaría ir,
+pero no puedo abandonar de
+esa forma los barrios bajos.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211659]
+<STR>(YUR)
+<VOICE>(VS04_522)Vamos. Te enseñaré cómo salir
+de la ciudad. Está de camino
+a los barrios bajos.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269921297]
+<STR>(EST)
+<VOICE>(VS04_523)¡Gracias!

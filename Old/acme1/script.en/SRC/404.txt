@@ -1,0 +1,42 @@
+## POINTER 0
+<STR>(YUR)
+Are you thinking about <STR>(JUD_P)?
+
+## POINTER 1
+<STR>(KAR)
+Yeah. I'm wondering what we should do about her.
+
+## POINTER 2
+<STR>(YUR)
+It's true that she broke 
+the guild's laws and 
+betrayed us.
+
+## POINTER 3
+<STR>(KAR)
+I always thought that a guild's 
+strict adherence to its own 
+laws was what kept it together.<PAGE>That there could be no exceptions... no lenience
+for those who would break the laws.<PAGE>But...
+
+## POINTER 4
+<STR>(YUR)
+She did what she did to save the world.<PAGE><STR>(JUD) is destroying blastia because she knows it's the 
+right thing to do, even if it makes people hate her.
+
+## POINTER 5
+<STR>(KAR)
+Yup...<PAGE><STR>(JUD) didn't break 
+our laws in order to 
+do something bad.<PAGE>I know this, now.<PAGE>I'm going to talk with her about 
+it and give it some more thought. 
+I'll figure this out eventually.
+
+## POINTER 6
+<STR>(YUR)
+Oh yeah?
+
+## POINTER 7
+<STR>(KAR)
+Maybe if I become a little bit more decisive, 
+Nan will listen to me, too...

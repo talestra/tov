@@ -1,0 +1,167 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS14_015)It's beautiful...
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS14_016)This is...
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS14_017)Look, <STR>(YUR). It's the ocean.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS14_018)I can see that. 
+...The wind feels great.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS14_019)I've seen pictures in books 
+before, but I've never seen 
+it up close like this.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS14_020)Well, people don't usually travel 
+outside the barriers.<PAGE><VOICE>(VS14_021)If we keep going, we can see all 
+sorts of things, like the jungle 
+or the City of Waterfalls....
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS14_022)There are so many more things 
+we could learn...if only our 
+journey would continue...
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS14_023)I guess it's true... I really 
+was living in a small world.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS14_024)That's a rare moment of 
+sincerity, coming from you.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS14_025)It's your first time seeing it too, right?
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS14_026)Well, yes, but...
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS14_027)Aww... You must've had such 
+a lonely life, tied to your 
+research like that.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS14_028)Having you pity me makes me 
+want to jump off this cliff.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS14_029)This water has traversed the world's oceans, 
+and has seen all there is to see.<PAGE><VOICE>(VS14_030)The ocean binds the lands 
+of our world together...
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS14_031)Here she goes again. It's really 
+just one big puddle, you know.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS14_032)Whatever.
+You were pretty moved back there, too.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS14_033)H-huh?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS14_034)So this is the world as he sees it.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS14_035)<STR>(YUR)?
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS14_036)<STR>(FRE) must have stood on this spot earlier, 
+and looked out at this same scene.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS14_037)That's true. His duties do take 
+him to many different places.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS14_038)Always telling me to catch up 
+with him. Easy for him to say.
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS14_039)Nor Harbor is just around the 
+corner from Ehmead Hill. We'll 
+catch up to him in no time.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS14_040)That's not what I was talking about.
+
+## POINTER 24
+<STR>(KAR)
+<VOICE>(VS14_041)Huh? What do you mean?
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS14_042)All right, let's get moving before 
+Leblanc and friends show up again.
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS14_043)Just follow the ocean road to the 
+west after leaving here to get to 
+Nor Harbor. We can't miss it.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS14_044)We'll have plenty more chances to
+see the ocean. Your journey will
+continue for as long as you want.
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS14_045)...
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS14_046)It's all up to you. You've made 
+it this far, haven't you?
+
+## POINTER 30
+<STR>(EST_P)
+<VOICE>(VS14_047)...That's true.
+
+## POINTER 31
+<STR>(KAR)
+<VOICE>(VS14_048)Last one down's a rotten egg!
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS14_049)You're gonna fall if you don't watch out.
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS14_050)Gyaaaah!
+
+## POINTER 34
+<STR>(RIT)
+<VOICE>(VS14_051)Idiot...

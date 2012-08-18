@@ -1,0 +1,184 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+<STR>(RAV)
+<VOICE>(VS36_015)Pa mí que esto es
+la Mansión de los Infames.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+<STR>(EST_P)
+<VOICE>(VS36_016)Está muy vigilada.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412869]
+<STR>(YUR)
+<VOICE>(VS36_017)Ssh. Están discutiendo algo.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+Droite
+<VOICE>(VS36_018)¿Qué es lo que no has
+entendido de «déjanos entrar»?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412869]
+
+<VOICE>(VS36_019)Ya te lo he dicho,
+llegáis en un mal momento.<PAGE><VOICE>(VS36_020)¿No tenéis nada que pruebe
+que sois quienes decís?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+Gauche
+<VOICE>(VS36_021)¿Sabes qué? Pues no. Déjanos pasar de una vez.<PAGE><VOICE>(VS36_022)El Don está aquí.
+No hay tiempo que perder. 
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+<STR>(RAV)
+<VOICE>(VS36_023)Así qu'er viejo
+sí que estaba aquí.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412869]
+
+<VOICE>(VS36_024)Pero ¿no os fuisteis a buscar
+pruebas de que los Espadas Cazadoras
+van tras el jinete de dragones?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+Gauche
+<VOICE>(VS36_025)Ya te lo dicho, nos enteramos
+de que el Don se dirigía hacia aquí
+antes de llegar al monte Temza.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+Droite
+<VOICE>(VS36_026)Y como que no podíamos ignorar
+unas noticias así, ¿no te parece?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+<STR>(YUR)
+<VOICE>(VS36_027)¿Los Espadas Cazadoras
+van detrás de <STR>(JUD_P)?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+Droite
+<VOICE>(VS36_028)¡¿A qué estás esperando?!<PAGE><VOICE>(VS36_029)No le serás de utilidad
+a Yeager si te acabamos
+dando una paliza.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988443]
+<VOICE>(VS36_030)Mmpf...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412869]
+
+<VOICE>(VS36_031)Os dejaremos pasar, pero
+no sin un escolta.
+Espero que no os importe.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412869]
+Gauche
+<VOICE>(VS36_032)Nos da igual, pero déjanos pasar.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412869]
+<STR>(RAV)
+<VOICE>(VS36_033)Qué chiripa. ♪ Ahora hay menos guardias
+de los que preocuparse.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+<STR>(YUR)
+<VOICE>(VS36_034)Aprovechemos ahora.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+
+<VOICE>(VS36_035)¿Qui-quiénes leches sois?
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+
+<VOICE>(VS36_036)¡Eh!
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+<STR>(YUR)
+<VOICE>(VS36_037)¡Muy buena, <STR>(RAP)!
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280837647]
+<STR>(YUR)
+<VOICE>(VS36_038)Creo que seguimos a salvo.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280838107]
+<STR>(RAV)
+<VOICE>(VS36_039)Pos vamos a lo de
+colarnos dentro.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280921498]
+<STR>(EST_P)
+<VOICE>(VS36_040)¿Por qué creéis que los Espadas
+Cazadoras van tras <STR>(JUD)?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412869]
+<STR>(RIT)
+<VOICE>(VS36_041)Si están buscando una
+apátheia, quizás quieran
+el dragón que monta.<PAGE><VOICE>(VS36_042)Si es un entelechia,
+puede que se convierta en
+una apátheia, como Belius.<PAGE><VOICE>(VS36_043)Me refiero... a cuando muera.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981357]
+<STR>(RAV)
+<VOICE>(VS36_044)Eso quiere decir que la petición
+de Harry no es la única razón
+por la que querían matar a Belius.<PAGE><VOICE>(VS36_045)Quieren esas apátheia
+cosa mu mala.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1296663579]
+<STR>(YUR)
+<VOICE>(VS36_046)Puede que <STR>(JUD_P) esté
+en peligro, pero primero
+tenemos que ayudar al Don.<PAGE><VOICE>(VS36_047)Sobre todo con esas
+dos encantadoras señoritas.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280921498]
+<STR>(RAV)
+<VOICE>(VS36_048)Sí. Vamos pa ya. 
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280921498]
+<STR>(EST_P)
+<VOICE>(VS36_049)Estoy preocupada por <STR>(JUD).
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280921498]
+<STR>(YUR)
+<VOICE>(VS36_050)¿Te vas al
+monte Temza?
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280921498]
+<STR>(EST_P)
+<VOICE>(VS36_051)Pero el Don...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412869]
+<STR>(YUR)
+<VOICE>(VS36_052)Estamos practicando el decidir
+por nosotros mismos, ¿recuerdas?
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280921498]
+<STR>(YUR)
+<VOICE>(VS36_053)Vamos.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412869]
+<STR>(EST_P)
+<VOICE>(VS36_054)¡Yo también voy!<PAGE><VOICE>(VS36_055)Se enfadaría si
+dejase al Don así
+para ir a buscarla.<PAGE><VOICE>(VS36_056)Ya puedo oírla diciéndome:
+«Vaya, ¿qué creías
+que estabas haciendo?».
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280921498]
+<STR>(RIT)
+<VOICE>(VS36_057)No te preocupes por ella.
+Es dura de pelar.
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280921498]
+<STR>(YUR)
+<VOICE>(VS36_058)Muy bien, saquemos
+de aquí al viejo Don.
+
+## POINTER 35 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280921498]
+<STR>(YUR)
+<VOICE>(VS36_059)Parece que ahora tenemos
+una cosa más de la que ocuparnos.
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280921498]
+<STR>(EST_P)
+<VOICE>(VS36_060)¡Vale!

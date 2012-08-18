@@ -1,0 +1,131 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217274]
+<STR>(RIT)
+<VOICE>(VS13_500)¡E-Eh! ¿Ya está
+floreciendo el árbol?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272572727]
+<STR>(KAR)
+<VOICE>(VS13_501)Je, je. Te lo dije.
+Revivimos el árbol.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272572727]
+
+<VOICE>(VS13_502)Oh, ¡habéis vuelto!
+Tal y como dijo el Caballero.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217274]
+<STR>(EST_P)
+<VOICE>(VS13_503)Mmm. ¿Se refiere a <STR>(FRE)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217274]
+
+<VOICE>(VS13_504)Por desgracia,
+se acaba de ir.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272636937]
+<STR>(KAR)
+<VOICE>(VS13_505)¡Jope! Otra vez...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217274]
+
+<VOICE>(VS13_506)Le sorprendió bastante que
+la barrera estuviese arreglada.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217274]
+<STR>(EST_P)
+<VOICE>(VS13_507)Mmm... ¿Por casualidad no
+sabrá adónde se ha ido?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272572727]
+
+<VOICE>(VS13_508)No, lo siento. No lo sé.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272572727]
+
+<VOICE>(VS13_509)Sin embargo, me
+confió una carta.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217526]
+<STR>(KAR)
+<VOICE>(VS13_510)¿Q-Qué? ¿U-Un cartel
+de Se busca? ¿Por qué?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217274]
+<STR>(YUR)
+<VOICE>(VS13_511)Parece que me he pasado
+con las travesuras.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217526]
+<STR>(KAR)
+<VOICE>(VS13_512)¡¿Q-Qué tipo de travesuras
+te meten en estos marrones?!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217274]
+<STR>(EST_P)
+<VOICE>(VS13_513)E-Es culpa mía...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217526]
+<STR>(YUR)
+<VOICE>(VS13_514)¡Oh, vamos!
+¿Solo 5.000 gald de nada?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217526]
+<STR>(KAR)
+<VOICE>(VS13_515)¡Eso es demasiado por una
+simple fuga de la cárcel!
+¡Has tenido que haber hecho algo más!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272636937]
+<STR>(EST_P)
+<VOICE>(VS13_516)Bu-bueno, ¿y qué
+dice la carta?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217526]
+<STR>(EST_P)
+<VOICE>(VS13_517)«Me voy a Puerto Nor».<PAGE><VOICE>(VS13_518)«Alcánzame».
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272637130]
+<STR>(YUR)
+<VOICE>(VS13_519)«Alcánzame», ¿eh?
+Para él es fácil decirlo.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272572727]
+<STR>(EST_P)
+<VOICE>(VS13_520)También ha escrito que tengamos
+cuidado con los asesinos.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272637130]
+<STR>(YUR)
+<VOICE>(VS13_521)Vaya, ¡incluso sabe que
+nos están persiguiendo!
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272572727]
+<STR>(KAR)
+<VOICE>(VS13_522)Parece que este tío
+sabe lo que hace.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272637130]
+<STR>(YUR)
+<VOICE>(VS13_523)Y también que ahora tenemos
+gente peligrosa persiguiéndonos.
+¿Qué vas a hacer?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272572727]
+<STR>(EST_P)
+<VOICE>(VS13_524)Bueno, mmm...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217526]
+<STR>(YUR)
+<VOICE>(VS13_525)Voy a Puerto Nor.
+Si quieres, le doy
+un mensaje de tu parte.
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272572727]
+<STR>(EST_P)
+<VOICE>(VS13_526)Pero... yo...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217526]
+<STR>(YUR)
+<VOICE>(VS13_527)Piensa qué quieres hacer.
+Voy a asegurarme de que <STR>(RIT)
+no esté causando muchos problemas.

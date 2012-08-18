@@ -1,0 +1,2 @@
+{"text_path":"battle\/0000","text_id":"00003E50","linked_id":"94f005d24a349198632cc1e9303ad456","metainfo":{"textblock_ptr":15952},"texts":{"ja":["15846","15859"],"en":["15896","15902"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"00003EAC","linked_id":"3a5aad64b8f5a638483befec5565dd6d","metainfo":{"textblock_ptr":16044},"texts":{"ja":["15976","15983"],"en":["16017","16021"],"es":["",""]}}

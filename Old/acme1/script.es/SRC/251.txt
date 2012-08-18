@@ -1,0 +1,286 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279091783]
+<STR>(KAR)
+<VOICE>(VS23_170)Espero que podamos encontrar
+trabajo ahora que hemos formado
+nuestro gremio.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(YUR)
+<VOICE>(VS23_171)Tranquilo, tigre.<PAGE><VOICE>(VS23_172)¿Y bien, <STR>(EST_P)?
+¿Qué piensas hacer tú?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(EST_P)
+<VOICE>(VS23_173)Voy a buscar a aquel
+monstruo parlante.<PAGE><VOICE>(VS23_174)Si iba a por mí,
+quiero saber por qué.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274654614]
+<STR>(YUR)
+<VOICE>(VS23_175)El asunto te está comiendo
+el coco de verdad, ¿eh?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(KAR)
+<VOICE>(VS23_176)Pero... ¿cómo piensas hacer eso?
+¿Cómo vas a buscar a ese monstruo
+si no sabes ni por dónde empezar?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:memnoch;time:1279364473]
+<STR>(YUR)
+<VOICE>(VS23_177)Creía que tú eras el
+gran experto en monstruos.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274654614]
+<STR>(KAR)
+<VOICE>(VS23_178)¡A mí no me preguntes!
+Ni siquiera yo había visto
+nunca nada parecido.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(JUD)
+<VOICE>(VS23_179)No era ningún monstruo.
+Se llama Phaeroh.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274654614]
+<STR>(EST_P)
+<VOICE>(VS23_180)¿Lo conoces?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(JUD)
+<VOICE>(VS23_181)Lo vi hace tiempo mientras viajaba
+con mi amigo. Era él quien sabía
+su nombre.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_182)¿Y cómo sabía ese amigo tuyo
+el nombre de algo así?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(EST_P)
+<VOICE>(VS23_183)¿Dónde lo viste?
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(JUD)
+<VOICE>(VS23_184)En las Arenas de Kogorh,
+en el continente de Desier.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293313]
+<STR>(EST_P)
+<VOICE>(VS23_185)Ese es el continente
+al suroeste de Tolbyccia.<PAGE><VOICE>(VS23_186)El continente de Desier... El desierto...
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(YUR)
+<VOICE>(VS23_187)Uno no se va al desierto
+porque haya visto por ahí
+a un monstruo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(KAR)
+<VOICE>(VS23_188)Tiene razón...
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(EST_P)
+<VOICE>(VS23_189)Me pregunto si aquella fábula podría ser...
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_190)¿Qué fábula?
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(EST_P)
+<VOICE>(VS23_191)Una que leí en el castillo.
+Era una historia sobre un monstruo
+parlante que vivía en las Arenas de Kogorh.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_192)Hay muchas historias como esa.
+Como la del monstruo del mar
+que le habla a la gente.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(JUD)
+<VOICE>(VS23_193)Creo que lo entiendes al revés.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_194)¿Cómo que al revés?
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(JUD)
+<VOICE>(VS23_195)Esas criaturas existen, pero simplemente
+han pasado a formar parte de leyendas.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(EST_P)
+<VOICE>(VS23_196)Ya conoces el dicho:
+«Cuando el río suena, agua lleva».
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(KAR)
+<VOICE>(VS23_197)Ya, pero... ¿Piensas
+ir a un sitio así
+tú sola, <STR>(EST_P)?
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274644906]
+<STR>(EST_P)
+<VOICE>(VS23_198)¿Eh? Bueno, yo...
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275348026]
+<STR>(YUR)
+<VOICE>(VS23_199)Si no seguimos con nuestra pequeña
+tarea de guardaespaldas, entonces
+se irá sola de verdad.<PAGE><VOICE>(VS23_200)¿Qué os parece?
+Este podría ser nuestro
+primer encargo como gremio.
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279092126]
+<STR>(KAR)
+<VOICE>(VS23_201)¡Oye, tienes razón! De hecho,
+si la dejamos ir sola, estaríamos
+infringiendo nuestras propias leyes.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274654338]
+<STR>(JUD)
+<VOICE>(VS23_202)Cierto.
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279092126]
+<STR>(KAR)
+<VOICE>(VS23_203)Pero si va a ser un trabajo de verdad...
+tendremos que cobrarle a <STR>(EST_P).
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(YUR)
+<VOICE>(VS23_204)Creo que no tenemos por qué preocuparnos
+de algo como el dinero, ¿no crees?
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_205)Nop, no puede haber excepciones. Hace falta
+dinero para poder llevar un gremio.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(EST_P)
+<VOICE>(VS23_206)Mmm... Creo que ahora mismo
+no llevo mucho dinero encima...
+
+## POINTER 33 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(JUD)
+<VOICE>(VS23_207)En ese caso, ¿por qué no dejamos
+el tema para después?
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(EST_P)
+<VOICE>(VS23_208)Os prometo que os pagaré cuando pueda.
+¡Ahora vayamos todos juntos!
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(YUR)
+<VOICE>(VS23_209)Vale, parece que está decidido.
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(EST_P)
+<VOICE>(VS23_210)Así todos podremos seguir con el viaje...
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(KAR)
+<VOICE>(VS23_211)¡De acuerdo! ¡Grandes Ultra
+Valientes Valerosos, adelante!
+
+## POINTER 38 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279092126]
+<STR>(EST_P)
+<VOICE>(VS23_212)¿Q-Qué has dicho?
+
+## POINTER 39 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_213)¿Eh? ¡Pues el nombre de nuestro gremio!
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(EST_P)
+<VOICE>(VS23_214)¡No podéis ponerle un nombre así!
+¡Os hace falta algo más sencillo
+de pronunciar y que tenga gancho!
+
+## POINTER 41 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_215)Oh, ¿en serio? 
+Bueno...
+
+## POINTER 42 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279092126]
+<STR>(EST_P)
+<VOICE>(VS23_216)¿Qué os parece algo como...
+«Gran Vesperia»?
+<PAGE><VOICE>(VS23_217)Es el nombre de la estrella
+más brillante del firmamento.
+
+## POINTER 43 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_218)La estrella más brillante. ¡Cómo mola!
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(YUR)
+<VOICE>(VS23_219)Gran Vesperia... Mmm. 
+Me gusta. Quedémonos con ese nombre.
+
+## POINTER 45 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_220)¡Vale! ¡Decidido!
+
+## POINTER 46 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_221)¡Vamos a Puerto Torim a conseguir
+un barco! ¡Nos vamos de viaje
+hasta el continente de Desier!
+
+## POINTER 47 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(YUR)
+<VOICE>(VS23_222)¿No querías descansar
+en Heliord primero?
+
+## POINTER 48 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_223)Ah, ¿quién lo necesita?
+
+## POINTER 49 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(YUR)
+<VOICE>(VS23_224)En cualquier caso, para llegar
+a Puerto Torim tenemos que pasar
+por Heliord.
+
+## POINTER 50 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(EST_P)
+<VOICE>(VS23_225)Me gustaría ver cómo les va por allí
+desde que pasó lo del blastia que
+perdió el control.
+
+## POINTER 51 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(YUR)
+<VOICE>(VS23_226)Ya, la verdad es que fue una locura.
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(KAR)
+<VOICE>(VS23_227)De acuerdo, pues haremos un alto
+allí para echar un vistazo rápido
+a la ciudad.
+
+## POINTER 53 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(EST_P)
+<VOICE>(VS23_228)De acuerdo.
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320595]
+<STR>(YUR)
+<VOICE>(VS23_229)Primero a Heliord,
+y después desde Torim
+hasta Desier en barco.
+
+## POINTER 55 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(KAR)
+<VOICE>(VS23_230)Vale, voy a intentarlo de nuevo... 
+¡Gran Vesperia, adelante!
+
+## POINTER 56 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274633801]
+<STR>(RAP)
+<VOICE>(VS23_231)¡Guau!

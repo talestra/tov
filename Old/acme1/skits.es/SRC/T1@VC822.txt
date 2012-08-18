@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251759297]
+¡Atrás!
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267177358]
+(KAR)
+¡Oye, espera, (YUR)! Deberíamos ir
+más despacio y procurar no hacer ruido.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297117066]
+(YUR)
+Ya, pero no hay quien camine
+contigo a mi espalda, capitán.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297117066]
+(KAR)
+N-No, no. Tranquilo.
+Puedo caminar bien. No hay problema.
+
+## POINTER 4 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266231804]
+(YUR)
+No, quiero decir que no me dejas caminar a MÍ.
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267177358]
+(KAR)
+Lo sé, y yo he dicho que YO no tengo
+problemas para caminar.
+
+## POINTER 6 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267177358]
+(YUR)
+¡No, escucha...! *Suspiro*
+Está bien, dejémoslo.

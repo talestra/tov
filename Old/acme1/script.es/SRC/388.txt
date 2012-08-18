@@ -1,0 +1,81 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183163]
+<STR>(KAR)
+<VOICE>(VS36_108)¡<STR>(YUR)! ¡Es terrible!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284646141]
+<STR>(KAR)
+<VOICE>(VS36_109)¡La Unión y Palestrale
+se están atacando
+con blastias hoplón!<PAGE>
+<VOICE>(VS36_110)El Don ha vuelto,
+pero algo no va bien.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183163]
+<STR>(RAV)
+<VOICE>(VS36_111)Así que ha vuelto a tiempo.
+Mi corazonada era cierta...
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183163]
+<STR>(EST_P)
+<VOICE>(VS36_112)¿Qué quieres decir
+con «corazonada»?
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183163]
+<STR>(RAV)
+<VOICE>(VS36_113)Estaba planeando tó esto pa
+que acabase con su muerte.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183163]
+<STR>(RIT)
+<VOICE>(VS36_114)¡¿Qué?!
+¿Por qué haría algo así?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298480741]
+<STR>(RAV)
+<VOICE>(VS36_115)Belius murió porque
+Harry se precipitó.<PAGE>
+<VOICE>(VS36_116)Es la Adalid de Nordopólica.
+No puedes decir: «Lo siento, es
+que me llegó información falsa».<PAGE>
+<VOICE>(VS36_117)Lo que quiere decir que
+tiene que haber algo que
+compense la pérdida de Belius.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298480741]
+<STR>(EST_P)
+<VOICE>(VS36_118)Entonces, el precio que dijo el Don
+en la Mansión de los Infames, es...
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284646141]
+<STR>(YUR)
+<VOICE>(VS36_119)Su propia vida.<PAGE>
+<VOICE>(VS36_120)Una vez se decidió a sacrificarse,
+cargarse a Yeager no era ningún problema,
+aunque fuese en contra de las leyes.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183163]
+<STR>(KAR)
+<VOICE>(VS36_121)¡No! ¡No puede hacer eso!
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183163]
+<STR>(EST_P)
+<VOICE>(VS36_122)¡Tiene que haber otra manera!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298480741]
+<STR>(RAV)
+<VOICE>(VS36_123)Pero los dos laos están a una gota
+de colmar el vaso. Las cosas podrían
+ponerse feas en un abrir y cerrar de ojos.<PAGE>
+<VOICE>(VS36_124)Y si eso pasa,
+será una guerra terrible
+entre la Unión y Palestrale.<PAGE>
+<VOICE>(VS36_125)Tal vez haya otra manera,
+pero no hay tiempo pa buscarla.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183163]
+<STR>(EST_P)
+<VOICE>(VS36_126)...
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183163]
+<STR>(YUR)
+<VOICE>(VS36_127)Me voy con <STR>(KAR).

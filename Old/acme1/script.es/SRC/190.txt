@@ -1,0 +1,71 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272874083]
+<STR>(RIT)
+<VOICE>(VS17_071)¡Él otra vez!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272874083]
+<STR>(EST_P)
+<VOICE>(VS17_072)Fiuu... Anda...
+Me encuentro mejor...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1277289183]
+<STR>(KAR)
+<VOICE>(VS17_073)¡L-La barrera ha desaparecido!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241784]
+<STR>(RIT)
+<VOICE>(VS17_074)¡Pues claro que sí! ¡Ese mamarracho del dragón
+ha destruido el blastia! ¡Estás muerto, mamarracho!
+¡¡MUERTO!!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272874083]
+Clint
+<VOICE>(VS17_075)Sí, eso es. Muéstrame tu ira.
+¡Muéstrame cómo es de verdad un monstruo!<PAGE><VOICE>(VS17_076)¡Pienso barrer el suelo contigo!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1277289183]
+Clint
+<VOICE>(VS17_077)¿Eh?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241784]
+Tison
+<VOICE>(VS17_078)Parece que quiere llevar
+la iniciativa, Clint.<PAGE><VOICE>(VS17_079)¡¡Bien, pues ven a que te dé para el pelo!!
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272874083]
+Tison
+<VOICE>(VS17_080)¡¡Graaah!!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241784]
+<STR>(YUR)
+<VOICE>(VS17_084)¡Oaaah!
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272874083]
+<STR>(EST_P)
+<VOICE>(VS17_085)¡Yaah!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241784]
+<STR>(RIT)
+<VOICE>(VS17_086)¡Aah!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241784]
+<STR>(KAR)
+<VOICE>(VS17_087)¡Uaaah!
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272874083]
+<STR>(YUR)
+<VOICE>(VS17_081)Mierda... Si perdemos el equilibrio...
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272874083]
+<STR>(EST_P)
+<VOICE>(VS17_082)Nunca antes había
+visto nada igual...
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1277289183]
+<STR>(KAR)
+<VOICE>(VS17_083)Oh, diomío, diomío,
+diomío...
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272874083]
+<STR>(YUR)
+<VOICE>(VS17_088)Parece que nos toca ocuparnos
+de la mascotita de otro.

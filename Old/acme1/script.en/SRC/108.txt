@@ -1,0 +1,172 @@
+## POINTER 0
+<STR>(RAP)
+<VOICE>(VS06_064)Grrr...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS06_065)Hmm?
+
+## POINTER 2
+
+<VOICE>(VS06_066)P-prepare to die, eggbear!
+
+## POINTER 3
+
+<VOICE>(VS06_067)Whoa!
+
+## POINTER 4
+
+<VOICE>(VS06_068)Waaaaah! OOF!
+
+## POINTER 5
+
+<VOICE>(VS06_069)Ooh, man that hurt...
+
+## POINTER 6
+
+<VOICE>(VS06_070)Gyaah!
+
+## POINTER 7
+
+<VOICE>(VS06_071)I-I'm warning you! 
+I don't taste very good. 
+You'll get the runs!
+
+## POINTER 8
+<STR>(RAP)
+<VOICE>(VS06_072)Woof!!
+
+## POINTER 9
+
+<VOICE>(VS06_073)Oh my gosh, s-s-somebody 
+h-h-help me--! Aaaah!!
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS06_074)Is this kid for real?
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS06_075)It's all right now.
+
+## POINTER 12
+
+<VOICE>(VS06_076)Huh? The monster turned into a girl?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS06_077)Oh, brother. This should 
+be interesting.
+
+## POINTER 14
+
+<VOICE>(VS06_078)I'm <STR>(KAR) Capel! I'm a member of the Hunting 
+Blades guild. We travel the globe in search 
+of the toughest monsters.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS06_079)I'm <STR>(YUR). This is <STR>(EST_P), and 
+you've met <STR>(RAP) already.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS06_080)Anyway, nice to meet you.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS06_081EA)What? <STR>(YUR), wait!
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS06_081EB)My apologies.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS06_082)Huh? ...Hey, wait up! 
+Where you guys going?!
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS06_083)You guys are here to enter 
+the woods, right? Well then, I'll...
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS06_084)Actually, we've just finished 
+coming through the woods, and 
+we're on our way to Halure.
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS06_085)No way! You guys made it through the cursed woods?<PAGE><VOICE>(VS06_086)Did you guys run into 
+any eggbears?
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS06_087)Do you know what he's talking about, <STR>(YUR)?
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS06_088)Nope. I don't think we've seen any.
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS06_089)Man... Wonder if I 
+should head back to 
+town, then...<PAGE><VOICE>(VS06_090)They definitely won't like it if I keep 
+them waiting... All right!<PAGE><VOICE>(VS06_091)I'm not sure you two would make it on your 
+own, but never fear. The star member of the 
+Hunting Blades will be your escort.
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS06_092)See that? I've even 
+got my own blastia.
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VS06_093)What? You guys both have 
+one, too? O-oh yeah? 
+Well how'dya like this?!
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS06_094)It has information about 
+monsters. Hm? After a certain 
+point, all the pages are blank.
+
+## POINTER 29
+<STR>(KAR)
+<VOICE>(VS06_095)Th-that's 'cause I'm gonna fill it up 
+with piles of monsters after this.
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS06_096)Hey, wait! Who said you could 
+just write in there?!
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS06_097)It might hurt your "star member" status 
+if it got out that you broke your sword.
+
+## POINTER 32
+<STR>(KAR)
+<VOICE>(VS06_098)Oh, that? I had to give myself 
+some kinda handicap, or else it 
+wouldn't have been a fair fight.
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS06_099)Hey, that's actually not too bad.
+
+## POINTER 34
+<STR>(KAR)
+<VOICE>(VS06_100)Yo! Do you guys even know where you're 
+going? Halure's to the north once 
+you get out of the woods.
+
+## POINTER 35
+<STR>(KAR)
+<VOICE>(VS06_101)Come on, guys! Wait for me!

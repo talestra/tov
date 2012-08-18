@@ -1,0 +1,131 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1280852413]
+<STR>(RIT)
+Otra vez no...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(EST_P)
+¿Por qué siempre deja de llorar
+cuando lo coges tú, <STR>(RIT)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(RIT)
+Yo qué sé.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(RIT)
+¿Y ahora por qué lloras?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(EST_P)
+Ah, mmm...
+Quizá tenga
+hambre...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1280852413]
+<STR>(RIT)
+¿Y si le damos
+un plátano?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(RIT)
+Agh, ¡qué daño!
+¡¿Quién ha sido!?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(EST_P)
+Es demasiado pequeño
+para darle plátanos.<PAGE>Quizá deberíamos probar
+con leche o algo así...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(RIT)
+¿Quién se hubiera imaginado que
+se haría pis de buenas a primeras?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(EST_P)
+Voy a ver si, mmm,
+encuentro algo que
+sirva como pañal.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(EST_P)
+¿Quién está feliz como un perdiz
+ahora que se ha tomado la lechita, eh?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:miyu;time:1280852413]
+<STR>(RIT)
+Buen chico, buen chico.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(EST_P)
+Qué sorpresa descubrir que
+en realidad era un chico.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:miyu;time:1280852413]
+<STR>(RIT)
+Estás como un tomate, <STR>(EST_P).
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(EST_P)
+¡¿Eh?!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:miyu;time:1280852413]
+<STR>(RIT)
+Je, era broma.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(EST_P)
+Ji, ji. ¡Duerme muy profundamente!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(RIT)
+*Bostezo* Yo
+también tendría
+que irme a dormir...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(EST_P)
+Y aun así te has
+pasado horas 
+vigilándolo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(RIT)
+No podía dejarlo solo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(EST_P)
+Me pregunto adónde 
+habrán ido <STR>(YUR) 
+y los demás.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:miyu;time:1280852830]
+<STR>(RIT)
+Sí...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:miyu;time:1280852830]
+<STR>(EST_P)
+¿No crees que parecemos
+un papá y una mamá? 
+¡Una parejita feliz!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:miyu;time:1280852942]
+<STR>(RIT)
+¿Eh? ¡Qué cosas dices!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(EST_P)
+Si... si no encontramos a su
+madre, podríamos adoptarlo
+y educarlo juntas...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(RIT)
+Se te va la chaveta, <STR>(EST_P)...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294424944]
+<STR>(RIT)
+Eh, crío...
+Más te vale que
+mañana no nos olvides.

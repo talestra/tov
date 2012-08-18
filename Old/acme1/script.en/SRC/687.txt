@@ -1,0 +1,67 @@
+## POINTER 0
+<STR>(FRE)
+I'm glad to see that you're 
+all safe. You must be tired.<PAGE>Someone please show 
+them to their rooms.
+
+## POINTER 1
+<STR>(JUD)
+Let's go.
+
+## POINTER 2
+<STR>(EST_P)
+All right.
+
+## POINTER 3
+<STR>(FRE)
+Do you really have time 
+to be lounging around?
+
+## POINTER 4
+<STR>(YUR)
+We can't afford to make any mistakes. 
+We have to be careful about things.
+
+## POINTER 5
+<STR>(FRE)
+That doesn't sound 
+like you, <STR>(YUR).<PAGE>Aren't you the one who's always 
+acting irrational and reckless?
+
+## POINTER 6
+<STR>(YUR)
+Nah, I think you're thinking 
+of yourself, <STR>(FRE).
+
+## POINTER 7
+<STR>(FRE)
+I can't imagine you'd be 
+hesitating at this point, so...
+What is it that you need?<PAGE>It is just some encouragement?
+
+## POINTER 8
+<STR>(YUR)
+...I'm still looking for the right finishing move.
+
+## POINTER 9
+<STR>(FRE)
+If that's the case, maybe I can be of assistance.
+
+## POINTER 10
+<STR>(YUR)
+Your work can wait?
+
+## POINTER 11
+<STR>(FRE)
+I can't think of anyone who'd make 
+a better practice partner for you.<PAGE>And it appears Captain Schwann prefers 
+to use a bow to fight, anyway.
+
+## POINTER 12
+<STR>(YUR)
+I appreciate the help. I'll 
+take you up on your offer.
+
+## POINTER 13
+<STR>(FRE)
+Excellent.

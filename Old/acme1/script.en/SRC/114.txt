@@ -1,0 +1,58 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS07_023)Come on <STR>(KAR), we're going back to the Quoi Woods.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS07_024)What do you mean?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS07_025)Remember? 
+"Prepare to die, eggbear!"
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS07_026)You mean you believe what I said 
+about the panacea bottle?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS07_027)Were you lying?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS07_028)Well then, we'll have to go 
+with what you've told us.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS07_029)<STR>(YUR)...<PAGE><VOICE>(VS07_030)All right, I'll help you out just this once. 
+I'm a very busy person, you know.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS07_031)It's settled then! The three of us 
+will restore the barrier together.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS07_032)You're coming too, <STR>(EST_P)?
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS07_033)Well, of course I am.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS07_034)What about waiting for <STR>(FRE)?
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS07_035)Wasn't it you who said "if you're going to 
+heal something it should be the tree"?
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS07_036)We'll just have to fix the tree before he gets 
+back. Can't wait to see the look on his face.

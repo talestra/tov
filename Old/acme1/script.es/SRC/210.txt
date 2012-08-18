@@ -1,0 +1,117 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294854]
+<STR>(EST_P)
+Hemos llegado tarde...
+Esto es horrible.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(RIT)
+¡Quitad de en medio!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(RIT)
+Mmm, tal vez pueda hacer algo con esto.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(EST_P)
+¡<STR>(RIT), cuidado! ¡Detrás de ti!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+
+No permitiremos que reparéis la barrera.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(RIT)
+¡Pero qué leches! ¡Cuando no es una cosa,
+es otra! ¡Esto me tiene negra!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(YUR)
+Parece que estos tíos son los responsables
+de que la barrera haya caído.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528124]
+<STR>(EST_P)
+Pero ¿por qué?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(FRE)
+Parece que estáis ocupados
+por aquí.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(YUR)
+Veo que no haces mucho caso
+del sermoncito del Don.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294854]
+<STR>(FRE)
+Solo voy a hacer lo que pueda para ayudar.
+¿Cómo va la reparación de la barrera blastia?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(YUR)
+Eso depende de nuestra maga prodigo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551716]
+<STR>(RIT)
+Todavía tienes tu núcleo... Lo único que han hecho
+ha sido amañar tu fórmula para detenerla, ¿verdad?
+Pero ¿qué...? Pero si esto es... ¡¿un amplificador?!<PAGE>Y otra vez esta fórmula...
+La misma que usaban en la colina de Ehmead.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(YUR)
+La barrera ha desaparecido justo
+cuando han atacado los monstruos.
+No puede ser una coincidencia, ¿no crees?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(FRE)
+Seguramente...
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(YUR)
+¿Tu presencia aquí quiere decir
+que todo esto tiene que ver
+con los problemas del Imperio?
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(FRE)
+No lo sé. Por eso he venido
+a comprobarlo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294854]
+<STR>(RIT)
+Esto va aquí,
+y esto va... ¡aquí!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294854]
+<STR>(EST_P)
+¡Esta es nuestra <STR>(RIT)!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294854]
+<STR>(FRE)
+¡Vale, ahora toca acabar con los monstruos de afuera!
+Los gremios no tendrán nada que objetar si luchamos
+contra ellos fuera de la ciudad.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(YUR)
+Dejémosle los monstruos
+a <STR>(FRE). Vayamos a la Unión
+a preguntar sobre Barbos.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273847135]
+<STR>(EST_P)
+Confías mucho
+en <STR>(FRE), ¿verdad?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294854]
+<STR>(YUR)
+Solo porque no hay nadie más en quien
+pueda hacerlo. Así es como lo veo yo.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294854]
+<STR>(EST_P)
+<STR>(YUR), hay veces
+que no te entiendo.

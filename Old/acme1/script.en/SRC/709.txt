@@ -1,0 +1,98 @@
+## POINTER 0
+
+Thank you so much!
+
+## POINTER 1
+<STR>(RIT)
+Meow!
+
+## POINTER 2
+<STR>(EST_P)
+Make sure you don't let her run away again!
+
+## POINTER 3
+<STR>(RIT)
+Meow!
+
+## POINTER 4
+<STR>(KAR)
+What's all this meowing mean, 
+anyway?! I don't get it!!
+
+## POINTER 5
+<STR>(RIT)
+You did well, <STR>(EST_P).
+
+## POINTER 6
+<STR>(EST_P)
+Hey, it was a team effort!
+
+## POINTER 7
+<STR>(YUR)
+Where'd you come 
+from back there, 
+<STR>(EST_P)?
+
+## POINTER 8
+<STR>(EST_P)
+Where'd I come from? I just went around the back, 
+then I got in through the second-story window.
+
+## POINTER 9
+<STR>(YUR)
+...The second-story window? 
+You climbed up to there?
+
+## POINTER 10
+<STR>(RIT)
+Hey, that's not half bad, <STR>(EST_P)!
+
+## POINTER 11
+<STR>(EST_P)
+Well, it was your 
+idea to use a pincer 
+technique, <STR>(RIT).
+
+## POINTER 12
+<STR>(RIT)
+But it was your idea to come 
+in from a back exit, <STR>(EST_P).
+
+## POINTER 13
+<STR>(EST_P)
+Well, that was only because I was so 
+moved by your selfless desire to help 
+that nice lady get her cat back.
+
+## POINTER 14
+<STR>(RIT)
+...Who, me? Nah, I was 
+just doing it for fun.
+
+## POINTER 15
+<STR>(EST_P)
+It's okay, <STR>(RIT), you don't have to pretend. 
+You're a good person! I can tell.
+
+## POINTER 16
+<STR>(RIT)
+No, you've got me all wrong... Well... 
+I guess it's not worth arguing about...
+
+## POINTER 17
+<STR>(KAR)
+If <STR>(RIT)'s a good person, what 
+does that make <STR>(EST_P)...?
+
+## POINTER 18
+<STR>(YUR)
+People can be good in their own ways, I think...
+
+## POINTER 19
+<STR>(RAV)
+...Couldn't've said it better myself.
+
+## POINTER 20
+<STR>(RIT)
+You guys are so 
+full of it...

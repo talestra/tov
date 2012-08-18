@@ -1,0 +1,95 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS36_177)<STR>(YUR)...
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS36_178)I... There wasn't anything I could do...<PAGE><VOICE>(VS36_179)The Don...and all the rest of 
+you, you'd all made up your 
+minds and did what you could.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS36_180)Nobody in this town's 
+gonna listen to anything 
+I've got to say...<PAGE><VOICE>(VS36_181)So I was thinking I should try talking 
+with Palestralle instead.<PAGE><VOICE>(VS36_182)But they might be done talking 
+and just attack anyway... 
+When I thought that, I...<PAGE><VOICE>(VS36_183)I was too scared to go alone...
+So I ended up not going at all.<PAGE><VOICE>(VS36_184)I'm not good for anything...
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS36_185)What about <STR>(JUD_P)? Weren't you 
+going to look for her?
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS36_186)...I can't. 
+I can't go with 
+you anymore, <STR>(YUR)...<PAGE><VOICE>(VS36_187)I'm just not cut out to be 
+the boss of a guild...
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS36_188)Is that it, then? Is that all guilds 
+and Brave Vesperia mean to you?<PAGE><VOICE>(VS36_189)Just walking away from 
+the dream like that?
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS36_190)But I wanted to be the best guild! 
+To be useful to the Don! 
+For him to notice me!<PAGE><VOICE>(VS36_191)He's been a role model for me...<PAGE><VOICE>(VS36_192)And now he's not around...
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS36_193)So you're just gonna 
+pack it up and quit?<PAGE><VOICE>(VS36_194)Just what was it the Don died for?<PAGE><VOICE>(VS36_195)You of all people should
+know the answer to that.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS36_196)You can always do everything 
+you want, <STR>(YUR)! You'd never 
+understand how I feel!<PAGE><VOICE>(VS36_197)I'm not tough like you!<PAGE><VOICE>(VS36_198)There's no way I can be 
+like you or the Don!<PAGE><VOICE>(VS36_199)It’s over. Our guild is--
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS36_200)<STR>(KAR)!
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS36_201)Don't you remember all 
+the Don told you?!<PAGE><VOICE>(VS36_202)Did you forget 
+his resolve?
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS36_203)...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS36_204)As a member of our 
+guild, I'm going to Mt. 
+Temza to find <STR>(JUD_P).
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS36_205)Huh...?
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS36_206)Brave Vesperia will go 
+on, even if you don't.<PAGE><VOICE>(VS36_207)This guild is more 
+than just you now.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS36_208)*Sob* *sob*...
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS36_209)I don't want to run away... 
+I don't want to, but...

@@ -1,0 +1,36 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251552100]
+Gracias a los barrios bajos
+
+## POINTER 1 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266245135]
+(EST_P)
+Un mapa, equipamiento e incluso dinero.
+¡Tus amigos son muy generosos, (YUR)!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285610749]
+(YUR)
+*Suspiro* No pueden permitirse todo esto.
+Apenas pueden arreglárselas con lo que tienen.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285610749]
+(EST_P)
+Estoy segura de que se preocupan por ti
+y quieren que tengas un buen viaje.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285610749]
+(YUR)
+Más bien se alegran de deshacerse
+de un muchacho tan problemático.
+
+## POINTER 5 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266245135]
+(EST_P)
+¡Eso no es verdad!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285610749]
+(YUR)
+Supongo que ahora que me han dado todo esto
+no podré volver con las manos vacías.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1282572949]
+(YUR)
+Debo recuperar el aqua blastia.
+Sea como sea.

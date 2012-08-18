@@ -1,0 +1,64 @@
+## POINTER 0
+Shel
+...Why won't my brother come 
+back... No one's left to 
+oppose the marriage...<PAGE>Lune's been waiting for him this entire 
+time! I have to do something, so that 
+the three of us can be happy again...<PAGE>I can't rely on anyone else anymore. 
+I have to help him...
+
+## POINTER 1
+<STR>(KAR)
+Does something seem odd 
+about Shel to you?
+
+## POINTER 2
+<STR>(YUR)
+Hey, Shel.
+
+## POINTER 3
+Shel
+Oh, hello. Do you 
+need something?
+
+## POINTER 4
+<STR>(JUD)
+Well, it's about 
+your brother.
+
+## POINTER 5
+Shel
+Oh, don't worry about that anymore.<PAGE>I'm sorry I asked such an odd 
+favor of you. Please, forget I 
+ever said anything about it.
+
+## POINTER 6
+<STR>(EST_P)
+But what about Clay...?
+
+## POINTER 7
+Shel
+I've been thinking about it, and I've 
+decided that I can't entrust this 
+sort of thing to anyone else.<PAGE>This is something that I have to do 
+myself, so please, don't let it trouble 
+you. Now, if you'll excuse me...
+
+## POINTER 8
+<STR>(RIT)
+What was that all about?
+
+## POINTER 9
+<STR>(RAV)
+He said he'd handle it himself...ya think he's 
+got some idea where his brother might be?
+
+## POINTER 10
+<STR>(YUR)
+Hard to say. It still bothers me a bit, 
+but if he says he doesn't want our 
+help, I guess that's the end of it.
+
+## POINTER 11
+<STR>(RIT)
+This leaves a bad taste in my mouth...

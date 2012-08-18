@@ -1,0 +1,96 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1274014593]
+<STR>(YUR)
+Parece que aquí no hay nadie.
+Ni Caballeros Imperiales, ni ladrones.
+Nadie.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1274014593]
+<STR>(EST_P)
+Tal vez estén más adentro.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271796123]
+<STR>(YUR)
+¿Cuánto es exactamente «más adentro»?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1274014593]
+<STR>(KAR)
+Parece como si nadie
+hubiera pasado por aquí.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1274014593]
+<STR>(RIT)
+No puede haber salido a la luz
+información sobre el subterráneo, ¿verdad?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1274014593]
+<STR>(EST_P)
+¿El subterráneo?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1274014593]
+<STR>(RIT)
+Hace poco se descubrió un pasadizo
+que lleva a un nivel subterráneo.<PAGE>
+Se supone que solo un puñado de magos
+sabe de su existencia.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Dagorat;time:1271943605]
+<STR>(YUR)
+Pero ahora nosotros también lo sabemos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1274014593]
+<STR>(RIT)
+No me queda otra elección si
+quiero limpiar mi nombre, ¿no?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1274014593]
+<STR>(YUR)
+Así que limpiar tu nombre...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1274014593]
+<STR>(KAR)
+Aquí hay unos arañazos.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1274015021]
+<STR>(RIT)
+No me hubiera importado dejar a unos ladrones saquear
+las ruinas superiores después de terminar con la excavación,
+pero aun así me alegro de que hayamos llegado a tiempo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1274015021]
+<STR>(KAR)
+Entonces será mejor que nos demos prisa
+y los sigamos. Basta con mover esto, ¿no?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485182]
+<STR>(KAR)
+Uff, uff...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1274015021]
+<STR>(YUR)
+Tienes que hacer fuerza
+con los hombros.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:parsec;time:1271960815]
+<STR>(KAR)
+Mmm, sí.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1274015021]
+<STR>(KAR)
+Urg... ah...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1274015021]
+<STR>(YUR)
+Vamos, solo un poco... más...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1274015021]
+<STR>(EST_P)
+¿Estás bien, <STR>(KAR)?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485182]
+<STR>(KAR)
+Claro, no ha sido nada... 
+Uff, uff...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:parsec;time:1271960978]
+<STR>(RIT)
+Bien, allá vamos.

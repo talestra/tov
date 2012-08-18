@@ -1,0 +1,255 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RAV)
+<VOICE>(VS47_027)Eh, ¿qué pasa con esto de aquín?
+Estoy seguro de que me suena d'argo...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RIT)
+<VOICE>(VS47_028)¡Es un aer krene!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(YUR)
+<VOICE>(VS47_029)Je, hasta aquí hay uno.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(JUD)
+<VOICE>(VS47_030)Pero no parece estar emanando
+aer. Tal vez se secó y esto
+es todo cuanto queda de él.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RIT)
+<VOICE>(VS47_031)Esta zona no parece estar
+estar tan desolada para eso.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(JUD)
+<VOICE>(VS47_032)¡Chicos, estad alerta!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(KAR)
+<VOICE>(VS47_033)¡Oh, tío, a-ahí viene otra vez!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RAV)
+<VOICE>(VS47_034)Estamos sobre una roca,
+¿no? No nus pasara ná.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RAV)
+<VOICE>(VS47_035)O sí.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(YUR)
+<VOICE>(VS47_036)¡...!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RIT)
+<VOICE>(VS47_037)¡¿El aer krene?!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(YUR)
+<VOICE>(VS47_038)¡Cuidado!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(KAR)
+<VOICE>(VS47_039)¡Aah! ¡Y-<STR>(YUR)!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(YUR)
+<VOICE>(VS47_040)¡Uaaagh!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(JUD)
+<VOICE>(VS47_041)¿Un monstruo que usa
+un aer krene para
+atrapar a sus presas?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(YUR)
+<VOICE>(VS47_042)¡<STR>(KAR), corre!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(KAR)
+<VOICE>(VS47_043)¡D-De eso nada!
+¡Os acabará comiendo a todos!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(YUR)
+<VOICE>(VS47_044)¡Eso no es algo que
+puedas derrotar tú solo!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(KAR)
+<VOICE>(VS47_045)¡Pero...!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(KAR)
+<VOICE>(VS47_046)¡Aah!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(KAR)
+<VOICE>(VS47_047)Tengo que hacer esto... 
+Tengo que hacerlo ahora.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(YUR)
+<VOICE>(VS47_048)¡¡<STR>(KAR)!!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(KAR)
+<VOICE>(VS47_049)¡¡Ahora o nunca!!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(KAR)
+<VOICE>(VS47_050)¡¡Aaaaah!!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(JUD)
+<VOICE>(VS47_056)¡<STR>(KAR), detente! 
+¡Es una locura!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(YUR)
+<VOICE>(VS47_057)No puedo ver esto...
+¡Te he dicho que salieras de aquí!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(KAR)
+<VOICE>(VS47_058)E-Estoy bien...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RIT)
+<VOICE>(VS47_059)¡Eso no te lo crees ni tú!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(KAR)
+<VOICE>(VS47_060)No, estoy bien. Vosotros
+estáis aquí conmigo.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(YUR)
+<VOICE>(VS47_061)<STR>(KAR)... no lo hagas...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(KAR)
+<VOICE>(VS47_062)Estáis dándome vuestro apoyo.<PAGE><VOICE>(VS47_063)Así que no importa la paliza
+que me den. No puedo perder.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RAV)
+<VOICE>(VS47_064)¡Moveos, leñe! Si no lo
+hacemos, el chaval va a...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(YUR)
+<VOICE>(VS47_065)¡¡<STR>(KAR)!!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(JUD)
+<VOICE>(VS47_066)¡¿Cómo ha...?!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(KAR)
+<VOICE>(VS47_067)¡Ya te tengo!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RAV)
+<VOICE>(VS47_068)¿Cómo le ha podío
+salir bien eso? 
+Oye, ¿sigue vivo?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(KAR)
+<VOICE>(VS47_069)Eh, chicos...
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(YUR)
+<VOICE>(VS47_070)Perdona la tardanza. No veas cómo
+estaba el tráfico. ¿Te encuentras bien?
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(KAR)
+<VOICE>(VS47_071)¡S-Sí, claro!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(YUR)
+<VOICE>(VS47_072)
+¡Vale, vamos a hacerle pagar a
+este bicho por todos los golpes
+que te ha arreado! ¡Con intereses!
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+Información
+<STR>(KAR) no está en tu grupo.
+Forma uno que incluya a <STR>(KAR).
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(RIT)
+<VOICE>(VS47_073)¡Serás cenutrio! ¿En qué narices
+pensabas lanzándote a esto tú solo?
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RIT)
+<VOICE>(VS47_074)¡<STR>(KAR)!
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(YUR)
+<VOICE>(VS47_075)¡<STR>(KAR)!
+¡Oye, <STR>(KAR)!
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RAV)
+<VOICE>(VS47_076)¡Vamos! ¡Reacciona,
+chavalillo!
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(JUD)
+<VOICE>(VS47_077)Se encuentra bien.<PAGE><VOICE>(VS47_078)En cuanto se ha calmado
+le ha venido todo de golpe.
+Tan solo se ha desmayado.
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RIT)
+<VOICE>(VS47_079)Este enano... ¿Y si llegas
+a estirar la pata antes de
+salvar a <STR>(EST_P), qué?
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RAV)
+<VOICE>(VS47_080)Dale cuartelillo, mujer.
+Pa convertirse en un hombre
+hay que enfrentarse a retos asín.<PAGE><VOICE>(VS47_081)Eso sin mencionar que nus
+ha salvao el trasero.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(YUR)
+<VOICE>(VS47_082)Ya. De no ser por <STR>(KAR)
+no lo hubiéramos contado.
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(RAP)
+<VOICE>(VS47_083)¡Guau!
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(JUD)
+<VOICE>(VS47_084)Salgamos de aquí rápido.
+<STR>(KAR) está muy débil;
+no puede ser bueno para él.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(RIT)
+<VOICE>(VS47_085)Cierto.
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1285461524]
+<STR>(YUR)
+<VOICE>(VS47_086)Te debo una, jefe.
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:xander;time:1283647336]
+<STR>(JUD)
+<VOICE>(VS47_087)Ha sido realmente impresionante.
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:parsec;time:1275725616]
+Información
+<03>(4)<STR>(KAR)<03>(0) está inconsciente.
+No podrá luchar.

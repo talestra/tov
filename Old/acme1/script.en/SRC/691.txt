@@ -1,0 +1,114 @@
+## POINTER 0
+<STR>(EST_P)
+Master!
+
+## POINTER 1
+Drake
+Ah, Princess, it's been a while. 
+Are you in good health?
+
+## POINTER 2
+<STR>(EST_P)
+Yes. Master, you look 
+quite well, yourself.
+
+## POINTER 3
+Drake
+It seems you've traveled to a great 
+many places since last we met.
+
+## POINTER 4
+<STR>(EST_P)
+Yes! I've seen and heard so many things...it's 
+been an amazing experience.
+
+## POINTER 5
+Drake
+But was that experience really 
+necessary in order for you to 
+take the imperial throne?
+
+## POINTER 6
+<STR>(EST_P)
+What do you mean...?
+
+## POINTER 7
+Drake
+You've been cavorting about with people 
+of questionable character, without any regard 
+to proper behavior or principles.
+
+## POINTER 8
+<STR>(YUR)
+Questionable character, huh...
+
+## POINTER 9
+Drake
+Have you given any thought to whether or 
+not these have been the right actions 
+for a candidate to the imperial throne?
+
+## POINTER 10
+<STR>(EST_P)
+But Master, you said that I needed to 
+have a wide range of experience...
+
+## POINTER 11
+Drake
+There's nothing wrong with 
+broadening your horizons.<PAGE>The problem is your own actions.
+
+## POINTER 12
+<STR>(EST_P)
+My own...actions...?
+
+## POINTER 13
+Drake
+It's a question of whether or not you've 
+been conducting yourself in a manner fitting 
+of the sacred role of empress!<PAGE>I'd like you to reexamine the actions that you, 
+yourself have taken since you left the castle.<PAGE>And consider whether or 
+not those were truly the 
+correct actions to take.
+
+## POINTER 14
+<STR>(RIT)
+What a self-righteous old geezer...
+
+## POINTER 15
+<STR>(KAR)
+I didn't notice that attitude the last time 
+we met him. Is he always like that?
+
+## POINTER 16
+<STR>(EST_P)
+Yes, Master Drake has always been very...strict. 
+I'm pretty used to it, though...<PAGE>...But really, he might 
+just be the reason that 
+I'm traveling with you.<PAGE>I mean, I want to prove myself to him...
+
+## POINTER 17
+<STR>(JUD)
+That's just a guess, right?
+
+## POINTER 18
+<STR>(EST_P)
+I'm sorry, actually...
+
+## POINTER 19
+<STR>(YUR)
+No, it's fine if you're just guessing. It's true 
+that you want to prove yourself to him, right?
+
+## POINTER 20
+<STR>(EST_P)
+Yes.
+
+## POINTER 21
+<STR>(RIT)
+All right, then you should set him aside and 
+give him a piece of your mind someday!
+
+## POINTER 22
+<STR>(EST_P)
+Okay.

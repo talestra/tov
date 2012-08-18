@@ -1,0 +1,114 @@
+## POINTER 0
+<STR>(KAR)
+We weren't able 
+to find Phaeroh 
+after all...
+
+## POINTER 1
+<STR>(YUR)
+Yeah, our first job as a guild 
+was an egregious failure.<PAGE>What do you think, should 
+we go back to Dahngrest?
+
+## POINTER 2
+<STR>(KAR)
+That might be best...but would 
+you be okay with that, <STR>(YUR)?<PAGE>And what about <STR>(EST_P)?
+
+## POINTER 3
+<STR>(YUR)
+I'd be fine with it. 
+As for <STR>(EST_P)...<PAGE>I'll leave that answer 
+up to her.
+
+## POINTER 4
+<STR>(KAR)
+All right...
+
+## POINTER 5
+<STR>(YUR)
+This sure is a serene 
+little town.
+
+## POINTER 6
+<STR>(KAR)
+Huh? Oh, yeah...it 
+is, isn't it?<PAGE>No guilds, no empire...it's 
+a little strange.
+
+## POINTER 7
+<STR>(YUR)
+Yeah, but I think 
+it's relaxing.
+
+## POINTER 8
+<STR>(KAR)
+Yeah... But even 
+so, I prefer Dahngrest.
+
+## POINTER 9
+<STR>(YUR)
+That's how everyone is. 
+Everybody prefers the place 
+where they grew up.
+
+## POINTER 10
+<STR>(KAR)
+You too, <STR>(YUR)?
+
+## POINTER 11
+<STR>(YUR)
+Well, yeah, sure.
+
+## POINTER 12
+<STR>(KAR)
+But if we're going to work together in 
+Brave Vesperia, we'll have to decide on 
+a single place for our home base.
+
+## POINTER 13
+<STR>(YUR)
+We could always make someplace 
+new, you know.
+
+## POINTER 14
+<STR>(KAR)
+Someplace new...?
+
+## POINTER 15
+<STR>(YUR)
+Yeah, you know. Everyone thinks 
+of Dahngrest as the Union's city, 
+but it's really Altosk's city.<PAGE>It could be like that. 
+Brave Vesperia could 
+make its own city.
+
+## POINTER 16
+<STR>(KAR)
+Brave Vesperia's own city... 
+Yeah, I like that idea...
+
+## POINTER 17
+<STR>(YUR)
+Well, either way.<PAGE>We've got a lot of jobs as a guild 
+ahead of us before we can be thinking 
+about things like that.
+
+## POINTER 18
+<STR>(KAR)
+Yeah...!<PAGE>...Now that you mention it, 
+Nordopolica is Palestralle's 
+city, isn't it?
+
+## POINTER 19
+<STR>(YUR)
+Yeah, if you think of it that way, 
+Nordopolica's more of a guild city 
+than Dahngrest, even.
+
+## POINTER 20
+<STR>(KAR)
+Yeah. And Belius rules 
+the city, too...<PAGE>Nordopolica, hmmm.... Leader of 
+a city, Duce of a guild...<PAGE>I wonder what sort of 
+person Belius is...?

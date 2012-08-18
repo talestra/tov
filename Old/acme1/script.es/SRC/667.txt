@@ -1,0 +1,32 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1283973125]
+Shel
+Ah, <STR>(YUR). 
+¿Ha encontrado alguna pista 
+sobre el paradero de mi hermano?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1283973125]
+<STR>(YUR)
+Todavía no.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1272391530]
+Shel
+Vaya...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1283973125]
+<STR>(KAR)
+Nos costará encontrarlo
+cuando lo único que sabemos
+es su nombre.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297376205]
+Shel
+Entonces vayan a ver
+a Lune, la novia
+de mi hermano.
+<PAGE>La encontrarán con 
+los niños en el
+distrito público.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1272391892]
+<STR>(EST_P)
+Bien, vamos a echar un vistazo.

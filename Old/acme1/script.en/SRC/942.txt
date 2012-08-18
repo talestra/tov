@@ -1,0 +1,31 @@
+## POINTER 0
+<STR>(JUD)
+Can I ask you something? 
+Do mercenaries ever come 
+in and sell spears here?
+
+## POINTER 1
+
+They do indeed, on occasion. But most of 
+them are secondhand, used items. Are you 
+in the market for something like that?
+
+## POINTER 2
+<STR>(YUR)
+If it's the spear she's 
+looking for...<PAGE>It's not the sort of thing 
+to be easily damaged or 
+dulled. Right, <STR>(JUD_P)?
+
+## POINTER 3
+<STR>(JUD)
+Yeah, I think you're right.
+
+## POINTER 4
+
+No one's brought in a fancy 
+spear like that, nope.
+
+## POINTER 5
+<STR>(JUD)
+I see...

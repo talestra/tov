@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760648]
+<STR>(KAR)
+¿Eh? ¿No conozco
+yo este lugar?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294772229]
+<STR>(EST_P)
+Es Zaphias... 
+¿Por qué?...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760648]
+<STR>(YUR)
+Ja, ja...
+No sé cómo hacen esto,
+pero voy pillando la idea.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760648]
+<STR>(KAR)
+¿Qué idea?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294772229]
+<STR>(YUR)
+Esto es una especie de espejismo, ¿vale?
+Divirtámonos lo máximo posible.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1294772229]
+<STR>(KAR)
+¿Nos podemos divertir en un sitio así?...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296760648]
+
+¡Los monstruos que os atacarán
+aquí no serán fáciles de derrotar!
+Cuidaos en las batallas.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294772229]
+<STR>(JUD)
+¡Oh, está bien saberlo!
+¡Muchas gracias,
+eres muy amable!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1294772229]
+<STR>(YUR)
+No hace falta que nos digas
+que tengamos cuidado. Vamos.

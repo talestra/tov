@@ -1,0 +1,316 @@
+## POINTER 2062 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263983111]
+«Krona», no «Klonoa».
+Protege contra todos los estados alterados.
+
+## POINTER 2064 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261768251]
+Orden del Honor Imperial
+
+## POINTER 2065 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263983111]
+Emblema para los que se ganan el máximo honor del Imperio.
+Incrementa la probabilidad de realizar golpes críticos.
+
+## POINTER 2067 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261768251]
+Prestigio Imperial
+
+## POINTER 2068 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189320]
+Símbolo con la gloriosa imagen del Imperio.
+Incrementa la velocidad a la que rellena la barra de Límite.
+
+## POINTER 2070 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261768251]
+Marca extraña
+
+## POINTER 2071 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261768251]
+Emblema que reduce el tiempo durante el que un mago
+está inmóvil después de lanzar un conjuro.
+
+## POINTER 2073 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261768251]
+Símbolo milagroso
+
+## POINTER 2074 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261768251]
+Emblema que reduce el tiempo durante el que un mago
+está inmóvil después de lanzar un conjuro.
+
+## POINTER 2076 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261768251]
+Pata de conejo.
+
+## POINTER 2077 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263984407]
+Una pata que aumenta la suerte.
+
+## POINTER 2079 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261768251]
+Símbolo de guerrero
+
+## POINTER 2080 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263984407]
+El emblema de un gran guerrero.
+Incrementa el poder de los ataques físicos.
+
+## POINTER 2082 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261768251]
+Tatuaje de ladrón
+
+## POINTER 2083 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261768251]
+Emblema con la forma de un tifón.
+Incrementa las posibilidades de robar objetos.
+
+## POINTER 2085 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Botas de cuero
+
+## POINTER 2086 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189320]
+Botas corrientes y molientes.
+Cómodas durante la batalla.
+
+## POINTER 2088 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Botas buenas
+
+## POINTER 2089 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Botas de cuero mejoradas.
+Indispensables en los viajes largos.
+
+## POINTER 2091 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Calzas de hierro
+
+## POINTER 2092 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271593713]
+Equipo muy pesado para las piernas fabricado en hierro.
+No se hicieron pensando en la velocidad.
+
+## POINTER 2094 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Calzas de plata
+
+## POINTER 2095 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592279]
+Botas hechas de plata.
+Normalmente se usan solo en ceremonias.
+
+## POINTER 2097 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Botas de mítril
+
+## POINTER 2098 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Botas fabricadas en mítril.
+El equipamiento ideal para las piernas.
+
+## POINTER 2100 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Calzas de oro
+
+## POINTER 2101 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Un lujoso par de botas fabricadas en oro.
+Su valor es altísimo y están imbuidas en magia.
+
+## POINTER 2103 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Botas extraordinarias
+
+## POINTER 2104 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Una perfecta obra maestra de artesanía.
+
+## POINTER 2106 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Botas persas
+
+## POINTER 2107 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Unas botas muy monas con forma de zarpas de gato.
+
+## POINTER 2109 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Granate
+
+## POINTER 2110 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Gema que se dice que previene las enfermedades.
+Incrementa enormemente la resistencia al fuego.
+
+## POINTER 2112 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Aguamarina
+
+## POINTER 2113 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Una misteriosa gema azul.
+Incrementa enormemente la resistencia al agua.
+
+## POINTER 2115 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Ópalo
+
+## POINTER 2116 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Gema que refracta la luz en un arco iris.
+Incrementa enormemente la resistencia al viento.
+
+## POINTER 2118 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Amatista
+
+## POINTER 2119 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Gema que brilla con un sutil color morado.
+Incrementa enormemente la resistencia a la oscuridad.
+
+## POINTER 2121 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Ónice negro
+
+## POINTER 2122 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Ahuyenta el mal para mantenerte equilibrado.
+Aumenta el HP un 30%.
+
+## POINTER 2124 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Piedra lunar
+
+## POINTER 2125 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Hace a uno muy sensible.
+Aumenta el TP un 30%.
+
+## POINTER 2127 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Niebla mágica
+
+## POINTER 2128 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Un cristal con humo sellado dentro.
+Incrementa la velocidad de huida. 
+
+## POINTER 2130 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Alejandrita
+
+## POINTER 2131 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263984407]
+Joya que fortalece tu determinación.
+Aumenta el HP y el TP un 25%. 
+
+## POINTER 2133 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Rubí
+
+## POINTER 2134 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Usada para proteger el amor, la alegría y el coraje.
+Incrementa enormemente la resistencia a la tierra.
+
+## POINTER 2136 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Diamante
+
+## POINTER 2137 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263984407]
+Conocido por ser la joya más dura del mundo.
+Incrementa enormemente la resistencia a la luz.
+
+## POINTER 2139 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Turquesa
+
+## POINTER 2140 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Gema que protege desde tiempos inmemoriales.
+Incrementa enormemente la suerte.
+
+## POINTER 2142 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Lapislázuli
+
+## POINTER 2143 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263984407]
+Gema bella y relajante. Reduce un 50% el tiempo
+de inmovilidad tras usar un objeto.
+
+## POINTER 2145 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Séfira
+
+## POINTER 2146 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Escultura de una diosa sin nombre.
+¡Equípala para ganar un 50% más de gald!
+
+## POINTER 2148 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Séfira azul
+
+## POINTER 2149 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Escultura de una diosa sin nombre.
+¡Equípala para ganar un 100% más de gald!
+
+## POINTER 2151 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Dado
+
+## POINTER 2152 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Esculpido a partir del fósil de un animal.
+Aumenta el grado ganado en un 10%.
+
+## POINTER 2154 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Dado azul
+
+## POINTER 2155 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1262281684]
+Hecho con un zafiro de agua.
+Aumenta en un 20% el grado ganado.
+
+## POINTER 2157 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Muñeca resurrección
+
+## POINTER 2158 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189320]
+Estatua que simboliza el sacrificio. De un solo uso.
+Revive automáticamente a su portador al quedar KO.
+
+## POINTER 2160 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Monóculo de cazador
+
+## POINTER 2161 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271593713]
+Monóculo imbuido con magia buscadora. Aumenta
+la probabilidad de obtener objetos tras la batalla.
+
+## POINTER 2163 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Anillo de Barbatos
+
+## POINTER 2164 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Anillo que potencia enormemente los ataques físicos.
+Prohíbe del todo el uso de objetos.
+
+## POINTER 2166 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Capa de Dhaos
+
+## POINTER 2167 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262992347]
+Cambia el arte «Campo destructor» a
+«Estallido de Dhaos».
+
+## POINTER 2169 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Colgante de Shizel
+
+## POINTER 2170 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Incrementa enormemente la velocidad
+a la que se recita un conjuro.
+
+## POINTER 2172 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Pulsera milagro
+
+## POINTER 2173 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189320]
+Una pulsera milagrosa.
+Recupera un 10% de HP y TP por cada enemigo derrotado.
+
+## POINTER 2175 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Anillo de riesgo
+
+## POINTER 2176 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189320]
+La DEF F. y la DEF M. se reducen muchísimo,
+pero todas las artes consumen solo 1 TP.
+
+## POINTER 2178 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Símbolo final
+
+## POINTER 2179 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1262125442]
+Recupera periódicamente el HP y el TP en un 3%.
+
+## POINTER 2181 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Capa roja definitiva
+
+## POINTER 2182 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Anula los ataques de fuego, tierra y luz. El daño
+de agua, viento y oscuridad se incrementa un 50%.
+
+## POINTER 2184 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Capa azul definitiva
+
+## POINTER 2185 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Anula los ataques de agua, viento y oscuridad.
+El daño de fuego, tierra y luz se incrementa un 50%.
+
+## POINTER 2187 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Símbolo perruno máximo
+
+## POINTER 2188 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592279]
+Recibido solo por los perros más duros.
+Un objeto con grandes poderes.
+
+## POINTER 2190 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Carne de vaca
+
+## POINTER 2191 [t:1;r:1;ru:memnoch;user:memnoch;time:1297189320]
+¡Carne tan sabrosa como esta solo puede proceder
+de vacas criadas en extensos pastos verdes!
+
+## POINTER 2193 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770728]
+Pollo
+
+## POINTER 2194 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770824]
+Carne natural de pollos sanos.
+Sin aditivos ni conservantes.
+
+## POINTER 2196 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770824]
+Carne de cerdo
+
+## POINTER 2197 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770824]
+Carne llena de energía y nutrientes.
+
+## POINTER 2199 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261770824]
+Atún

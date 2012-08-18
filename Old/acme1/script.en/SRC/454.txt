@@ -1,0 +1,62 @@
+## POINTER 0
+
+What the heck is going on?
+
+## POINTER 1
+
+Is this a sign we're about to get 
+hit with some kind of disaster?
+
+## POINTER 2
+
+I just finished building 
+my house, for crying 
+out loud!
+
+## POINTER 3
+<STR>(JUD)
+They're really in an uproar. 
+Not that I blame them.
+
+## POINTER 4
+<STR>(YUR)
+I'll bet things are pretty crazy in the capital, too.
+
+## POINTER 5
+
+Where did you come from? 
+Did you hear anything?
+
+## POINTER 6
+<STR>(YUR)
+No, we were...
+
+## POINTER 7
+
+Why are all 
+of you here?
+
+## POINTER 8
+Teagle
+You look terrible! What 
+happened to you?
+
+## POINTER 9
+<STR>(YUR)
+Oh, it's you. We've been through 
+a lot. Do you know any doctors 
+around here?
+
+## POINTER 10
+Teagle
+Sure, I know a doctor, but...
+
+## POINTER 11
+<STR>(RAV)
+Well, do ya think ya might be able 
+ta bring the doc to the inn?<PAGE>We're too beat to even 
+walk anymore...
+
+## POINTER 12
+Teagle
+All right. I'll be back soon.

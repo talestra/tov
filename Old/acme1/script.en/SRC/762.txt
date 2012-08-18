@@ -1,0 +1,177 @@
+## POINTER 0
+<STR>(YUR)
+What's going on, Leblanc?
+
+## POINTER 1
+Leblanc
+Captain Schwaaaaaann!
+
+## POINTER 2
+<STR>(RAV)
+Nah, ya got me mixed up with somebody else.
+
+## POINTER 3
+Leblanc
+I apologize! You are Sir Raaaaaaven, 
+plain and simple!
+
+## POINTER 4
+<STR>(KAR)
+There he goes again with the "Sir 
+<STR>(RAV), plain and simple."
+
+## POINTER 5
+<STR>(RAV)
+What's a former elite officer of 
+the Schwann Brigade doin' loiterin' 
+around a place like this?
+
+## POINTER 6
+Leblanc
+Ah, well, you see, that is...
+
+## POINTER 7
+<STR>(RAV)
+Concise reporting, Leblanc.
+
+## POINTER 8
+Leblanc
+Yes, sir! I was agonizing 
+over the future of the 
+Schwann Brigade, sir!<PAGE>I believe that we should go help to fill the ranks 
+of the <STR>(FRE) Brigade, but other lieutenants 
+claim that we should remain in the capital.<PAGE>With the officers paralyzed with hesitation 
+about our next step, our subordinates are 
+losing their faith in us as leaders!<PAGE>I am so ashamed! How 
+can I ever face Captain 
+Schwann like this?!
+
+## POINTER 9
+<STR>(RIT)
+And yet, what if he happened to be 
+standing right in front of you?
+
+## POINTER 10
+Leblanc
+I am so sorry!!
+
+## POINTER 11
+<STR>(EST_P)
+<STR>(RIT)!
+Ummm...<STR>(RAV)?
+
+## POINTER 12
+<STR>(RAV)
+Well, I can't just turn a blind 
+eye ta the brigade. It was Schwann 
+who led 'em inta all this.
+
+## POINTER 13
+<STR>(JUD)
+Are you going to gather the members 
+of the Schwann Brigade together 
+and lead them yourself?
+
+## POINTER 14
+<STR>(RAV)
+...Leblanc. Is that what 
+ya want me ta do?
+
+## POINTER 15
+Leblanc
+Sir, no sir! I do not 
+want to cause trouble 
+for you, Sir <STR>(RAV)!
+
+## POINTER 16
+<STR>(RAV)
+So then, who's going to decide 
+where the brigade will go?
+
+## POINTER 17
+Leblanc
+Sir, that would be me, sir! I will proudly 
+bear the weight of the responsibility 
+and guidance for my brigade!
+
+## POINTER 18
+<STR>(RAV)
+If ya've made yer decision, 
+then act on that decision.<PAGE>And I'm willin' ta bet that Schwann would think 
+it's important ta support the <STR>(FRE) Brigade 
+in addition ta guardin' the capital.
+
+## POINTER 19
+Leblanc
+Yes, sir! 
+Thank you, sir!
+
+## POINTER 20
+<STR>(KAR)
+Sounds like you gave 
+him some good advice.
+
+## POINTER 21
+<STR>(JUD)
+Nah, <STR>(RAV) just gave him a 
+little push. Leblanc already 
+knew what he wanted to do.
+
+## POINTER 22
+<STR>(EST_P)
+The first time I heard you were actually 
+Captain Schwann, I didn't believe it. 
+But you're just like the rumors said!
+
+## POINTER 23
+<STR>(RIT)
+Just like the rumors said, 
+but not just like you thought 
+Captain Schwann would be?
+
+## POINTER 24
+<STR>(EST_P)
+No! That is, I mean...
+
+## POINTER 25
+<STR>(YUR)
+It was the same when Harry and the guild 
+members asked for your help. You really 
+watch out for others, don't you, old man?
+
+## POINTER 26
+<STR>(RAV)
+Nah, I listened ta what Leblanc 
+had ta say. That's all I did.
+
+## POINTER 27
+<STR>(JUD)
+Oh, is somebody embarrassed?
+
+## POINTER 28
+<STR>(RAV)
+Aw, <STR>(JUD) baby, cut ol' <STR>(RAV) 
+some slack, would ya?
+
+## POINTER 29
+<STR>(KAR)
+You helping people without pampering 
+them... That's tough. I wonder if 
+I'll ever be like you, <STR>(RAV)...
+
+## POINTER 30
+<STR>(RAV)
+Puttin' ol' <STR>(RAV) up on a pedestal 
+won't get ya anywhere in life, kid.
+
+## POINTER 31
+<STR>(EST_P)
+Lots of people respect and 
+admire Captain Schwann.<PAGE>So I don't think you 
+really have to deny 
+everything about him.
+
+## POINTER 32
+<STR>(RAV)
+I can't argue with 
+such a pretty girl!
