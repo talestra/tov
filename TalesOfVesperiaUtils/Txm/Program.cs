@@ -25,6 +25,7 @@ namespace Txm
 		protected void ExtractSvo(string TxmPath, string OutputDirectory = null)
 		{
 			var BasePath = Path.GetDirectoryName(TxmPath);
+			if (BasePath == "") BasePath = ".";
 
 			if (TxmPath.Contains('*'))
 			{
@@ -57,14 +58,22 @@ namespace Txm
 				Console.Write("  {0}.png : {1}...", ImageEntry.Name, ImageEntry.ImageEntry.ImageFileFormat.TextureFormat);
 				//
 				Console.WriteLine(ImageEntry.ImageEntry);
-				if (!File.Exists(ImageEntryFileName))
+				try
 				{
-					ImageEntry.Bitmap.Save(ImageEntryFileName);
-					Console.WriteLine("Ok");
+					if (!File.Exists(ImageEntryFileName))
+					{
+						ImageEntry.Bitmap.Save(ImageEntryFileName);
+						Console.WriteLine("Ok");
+					}
+					else
+					{
+						Console.WriteLine("Exists");
+					}
 				}
-				else
+				catch (Exception Exception)
 				{
-					Console.WriteLine("Exists");
+					Console.WriteLine("Error");
+					Console.Error.WriteLine(Exception);
 				}
 			}
 
@@ -83,14 +92,22 @@ namespace Txm
 						Console.Write("  {0}.png : {1}...", ImageEntry.Name, ImageEntry.ImageEntry.ImageFileFormat.TextureFormat);
 						//Console.WriteLine(ImageEntry.ImageEntry);
 
-						if (!File.Exists(ImageEntryFileName))
+						try
 						{
-							Bitmap.Save(ImageEntryFileName);
-							Console.WriteLine("Ok");
+							if (!File.Exists(ImageEntryFileName))
+							{
+								Bitmap.Save(ImageEntryFileName);
+								Console.WriteLine("Ok");
+							}
+							else
+							{
+								Console.WriteLine("Exists");
+							}
 						}
-						else
+						catch (Exception Exception)
 						{
-							Console.WriteLine("Exists");
+							Console.WriteLine("Error");
+							Console.Error.WriteLine(Exception);
 						}
 						n++;
 					}

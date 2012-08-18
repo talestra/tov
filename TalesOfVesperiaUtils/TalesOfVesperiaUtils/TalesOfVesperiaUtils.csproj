@@ -62,6 +62,7 @@
     <Compile Include="Compression\C\lzx_vesp.cs" />
     <Compile Include="Compression\LzxCompression.cs" />
     <Compile Include="Compression\TalesCompression.cs" />
+    <Compile Include="Compression\TalesCompression0.cs" />
     <Compile Include="Compression\TalesCompression1_3.cs" />
     <Compile Include="Compression\TalesCompression4.cs" />
     <Compile Include="Compression\TalesCompression15_Lzx.cs" />

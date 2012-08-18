@@ -90,3 +90,222 @@ Los vídeos están en DUAL japonés/inglés. Con el VLC por ejemplo podéis verlos.
 Los subtítulos de los vídeos no están embebidos en los vídeos, y están en los archivos de script. Así que estos archivos no hay que
 tocarlos.
 
+-----------------------------
+Archivos lib_data/shader.dat:
+-----------------------------
+
+Shaders del juego en formato binario.
+
+----------------------------------------------
+Archivos lib_data (syspack.dat | syspack.dav):
+----------------------------------------------
+
+El archivo .dat es un SVO y el DAV parecen imágenes.
+El SVO es un tanto especial: tiene un archivo llamado SYSTEX.TXV cuyo offset es 0 en el SVO es 0 y que además tiene un "1" en un campo
+al final. Parece que ese archivo se mapea al archivo syspack.dav.
+En cualquier caso parece que contiene texturas genéricas sin texto. Así que no nos interesa para la traducción.
+
+------
+AI.SVO
+------
+
+Este paquete contiene archivos que parecen hacer referencia a mapas en el juego.
+No parece tener texto ni nada relevante para la traducción. ¿Quizá configuraciones de las habitaciones?
+
+--------
+CHAT.SVO
+--------
+
+Este paquete contiene las skits. Las skits están en formato: VC[XXX][YY].DAT siendo XXX un número y YY [DE, FR, UK, US].
+Los DAT esos están comprimidos con el formato 15 (nuevo formato para el vesperia). Una vez descomprimidos son archivos SVO/FPS4.
+Los subarchivos que tiene no tienen nombre, así que se hacen por referencia.
+Dentro tienen 5 archivos, excepto el CHATNO999.DAT que tiene 4 archivos y que además tienen nombre.
+	- El archivo con índice "0" es un SWG, que debe ser la animación de la skit en algún formato similar a flash.
+	- El archivo con índice "1" es un TXM y el archivo con índice "2" es el TXV correspondiente (con las imágenes
+	  usadas en las skits).
+	- El archivo con índice "3" es el que nos interesa de cara a la traducción, es un .cht con magic TO8CHTX.
+	  Clases relacionadas:
+		- TalesOfVesperiaUtils.Formats.Packages.TO8CHTX
+		- TalesOfVesperiaTranslationEngine.TranslateSkits
+		- TalesOfVesperiaTests.TO8CHTXTest
+	- El archivo con índice "4" es un archivo de audio. ¿Un XACT?
+Nota: Los títulos de las skits están en otros archivos.
+
+------
+BTL.SVO
+------
+
+Contiene los archivos de batalla. Está el BTL_EFFECT.DAT y luego 4 archivos para BTL_PACK: _DE, _FR, _UK_US.
+Los BTL_PACK son un SVO sin nombres, así que los archivos se referencian por índice. Tiene 20 archivos (0-19).
+
+	- El de índice "0" contiene archivitos "T8BTMO  ". Posiblemente con información sobre los monstruos.
+	- El de índice "1" contiene archivitos "T8BTAT  "
+	- El de índice "2" contiene archivitos "T8BTSL  " 
+	- El de índice "3", es el más grande de los archivos. No he mirado aún lo que contiene. Quizá modelos y texturas.
+	- El de índice "4" contiene un "T8BTMA  "
+	- El de índice "5" contiene un "T8BTEMST"
+	- El de índice "6" contiene un "T8BTEMGP"
+	- El de índice "7" contiene un "T8BTEMEG"
+	- El de índice "8" contiene un "T8BTAS  "
+	- El de índice "9", es el segundo más grande de los archivos.
+	- El de índice "10" contiene un "T8BTSK  "
+	- El de índice "11" contiene un "T8BTTA  "
+	- El de índice "12" contiene archivitos "T8BTBS  "
+	- El de índice "13" contiene un "T8BTEFF "
+	- El de índice "14" contiene un "T8BTBG  "
+	- El de índice "15" contiene un "T8BTLV  "
+	- El de índice "16" contiene un "T8BTGR  "
+	- El de índice "17" contiene un "T8BTBTGR"
+	- El de índice "18" contiene un "T8BTEV  "
+	- El de índice "19" contiene un "T8BTVA  "
+	
+Posiblemente los nombres de los enemigos y los textos de batalla estén en el 3 o en el 9. Actualmente
+el SVO no funciona con estos packs, hay que mirarlo porque hubo un momento en el que sí que funcionó.
+
+---------
+CHARA.SVO
+---------
+
+Potencialmente contiene todos los modelos de los personajes del juego tanto de mapa como de batalla.
+Están comprimidos con el nuevo algoritmo y dentro son archivos SVO con dentro más SVO.
+
+----------
+COMMON.SVO
+----------
+
+- TEXTURE.DAT es un SVO comprimido que contiene dentro un TXM y un TXV con texturas generales
+- REGION contiene "ENGLISH"
+- EVENTMAPDEF.DAT contiene información FOG de los mapas.
+
+Nada relevante para la traducción.
+	
+--------
+COOK.SVO
+--------
+
+Contiene COOKDATA.BIN con la información relevante al sistema de cocina del juego.
+
+----------
+EFFECT.SVO
+----------
+
+Archivos comprimidos con FPS4 dentro que parece que contiene texturas y quizá otras cosas,
+aunque no parece relevante para la traducción.
+
+--------
+ITEM.SVO
+--------
+
+Información sobre items. Irrelevante para la traducción.
+
+--------
+MENU.SVO
+--------
+
+Información sobre el menú. Irrelevante para la traducción.
+
+------
+MG.SVO
+------
+
+Contiene un TO8LAYD tras descompresiones y extracciones. Irrelevante para la traducción.
+
+----------
+STRING.SVO
+----------
+
+- DUMMY.SO - Contiene textos generales en inglés en formato "TSS" (script del vesperia)
+- STRING_DIC.SO - Contiene textos generales en japonés en formato "TSS"
+
+No tengo claro que este SVO se utilice en la versión PAL.
+
+-------
+UI.SVO
+-------
+
+- Contiene archivos TXM y TXV con imágenes de la interfaz, items etc.
+  Los que se tienen que traducir, están ya mas o menos localizados.
+  Los más importantes son los archivos de fuente.
+- Contiene archivos DAT y DAV. Los DAT son FPS4.
+  Mientras que los DAV podrían ser archivos mapeados de los FPS4 del DAV (mirar).
+  Parece que contienen texturas y otras cosas. Quizá podrían ser relevantes (investigar).
+- MENUPOS.BIN. Parece información sobre posicionamiento de los menús (?)
+
+-------
+MAP.SVO
+-------
+
+- ** IMPORTANTE ** Contiene un SCENARIO.DAT equivalente a los language/scenario_*.dat.
+  El juego en español utiliza ese SCENARIO.DAT y no los de la carpeta language.
+
+- El resto de archivos son archivos .DAT comprimidos con la compresión nueva.
+  Contienen texturas, modelos y otra información del mapa. Aunque esta información
+  no es relevante para la traducción.
+  
+  El único archivo relevante es el SCENARIO.DAT y para no tener que regenerar el
+  archivo este entero, conviene que el SCENARIO.DAT ocupe menos que el original.
+
+----------------
+MAP/SCENARIO.DAT
+----------------
+
+Como he comentado antes, este es el SCENARIO.DAT que se usa, y los de la carpeta language
+únicamente se usarán cuando el idioma del juego matchee lo que corresponda. Lo suyo es traducir
+ese y copiar el contenido a los otros archivos si ocupase menos. Lo ideal sería que estando
+la consola en cualquier idioma, el juego se siga viendo en español. También si está el mismo
+archivo varias veces en la iso exáctamente, se comprimirá mejor. Especialmente ese que ya está
+comprimido.
+
+El archivo está en formato "TO8SCEL". Este es otro archivo de paquete numerado que usa el juego.
+Es como un FPS4 que en vez de por nombre, se accede por índice. La utilidad SVO es capaz de extraer
+estos archivos.
+
+Clases relacionadas:
+- TalesOfVesperiaUtils.Formats.Packages.TO8SCEL
+- TalesOfVesperiaTests.Formats.Packages.TO8SCELTest
+
+Cada archivito (que está comprimido), son archivos TSS de script.
+
+----------
+TSS/Script
+----------
+
+Los archivos TSS/Script del Vesperia son archivos de una máquina virtual que usa el juego. Es una
+máquina virtual propia de ellos. Consiste en opcodes y en datos y cadenas de texto al final del
+archivo. Las cadenas están referenciadas a lo loco por todos los opcodes. El traductor lo que hace
+es intentar localizar los opcodes PUSH_STRING y extraer el texto.
+
+Clases relacionadas:
+- TalesOfVesperiaUtils.Formats.Script.TSS
+- TalesOfVesperiaTests.TSSTest
+
+-------
+TXM/TXV
+-------
+
+Los archivos TXM son archivos que contienen información sobre texturas. Los archivos TXM siempre van
+emparejados con un archivo TXV que es el que contiene los píxeles de la imagen.
+Los TXM contienen un listado de texturas con información de ancho/alto/largo (soporta texturas 2d
+y texturas 3d). Las texturas suelen estar swizzleadas y en formato 4444, 8888 y DXT1/DXT4_5.
+
+Clases relacionadas:
+- TalesOfVesperiaUtils.Imaging.TXM
+- TalesOfVesperiaUtils.Imaging.DXT*
+- Txm.Program
+
+----------------
+Fuente del juego
+----------------
+
+El juego soporta 3 fuentes. La fuente por defecto en PAL es la número 10, aunque están también las fuentes
+japonesas y algunas más. Las fuentes son de bitstream.
+Como al juego le faltan algunos caracteres españoles que no tiene, toca modificar las 3 fuentes y hacer un
+mapeado de caracteres.
+Las fuentes están como texturas 3D en DXT5 y swizzleadas.
+
+Los caracteres que faltan: "ñ", "Ñ", "¿", "¡", "«", "»"
+NOTA: Hay que ver si falta también "ü" y "Ü"
+
+Archivos relacionados:
+- TalesOfVesperiaUtils.Text.CharacterMapping
+- TalesOfVesperiaUtils.CharacterMapping.xml

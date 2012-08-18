@@ -26,39 +26,68 @@ namespace Svo
 		/// <summary>
 		/// 
 		/// </summary>
+		/// <param name="OutputFileName"></param>
+		/// <param name="InputStreamGet"></param>
+		private void _ExtractFile(string OutputFileName, Func<Stream> InputStreamGet)
+		{
+			Console.Write("{0}...", OutputFileName);
+			try
+			{
+				if (!File.Exists(OutputFileName) || Overwrite)
+				{
+					using (var InputStream = InputStreamGet())
+					{
+						InputStream.CopyToFile(OutputFileName);
+					}
+					Console.WriteLine("Ok");
+				}
+				else
+				{
+					Console.WriteLine("Exists");
+				}
+			}
+			catch (Exception Exception)
+			{
+				Console.WriteLine("Error({0})", Exception.Message);
+			}
+		}
+
+		/// <summary>
+		/// 
+		/// </summary>
 		/// <param name="SvoPath"></param>
 		/// <param name="OutputDirectory"></param>
 		[Command("-e", "--extract")]
-		[Description("Extracts a SVO file to a folder")]
+		[Description("Extracts a FPS4/TO8SCEL file to a folder")]
 		[Example("-e file.svo <folder>")]
 		protected void ExtractSvo(string SvoPath, string OutputDirectory = null)
 		{
+			if (OutputDirectory == null)
+			{
+				OutputDirectory = SvoPath + ".d";
+			}
+
+			try { Directory.CreateDirectory(OutputDirectory); }
+			catch { }
+
 			using (var Stream = File.OpenRead(SvoPath))
 			{
-				var FPS4 = new FPS4(Stream);
-
-				if (OutputDirectory == null)
+				if (Stream.SliceWithLength().ReadString(7) == "TO8SCEL")
 				{
-					OutputDirectory = SvoPath + ".d";
-				}
+					var TO8SCEL = new TO8SCEL(Stream);
 
-				try { Directory.CreateDirectory(OutputDirectory); } catch { }
-
-				foreach (var Entry in FPS4)
-				{
-					var OutputFileName = OutputDirectory + "/" + Entry.Name;
-					Console.Write("{0}...", OutputFileName);
-					if (!File.Exists(OutputFileName) || Overwrite)
+					foreach (var Entry in TO8SCEL)
 					{
-						using (var OutputStream = Entry.Open())
-						{
-							OutputStream.CopyToFile(OutputFileName);
-						}
-						Console.WriteLine("Ok");
+						_ExtractFile(OutputDirectory + "/" + Entry.Index, () => Entry.UncompressedStream);
 					}
-					else
+				}
+				else
+				{
+					var FPS4 = new FPS4(Stream);
+
+					foreach (var Entry in FPS4)
 					{
-						Console.WriteLine("Exists");
+						_ExtractFile(OutputDirectory + "/" + Entry.Name, () => Entry.Open());
 					}
 				}
 			}

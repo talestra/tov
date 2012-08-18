@@ -43,11 +43,24 @@ namespace TalesOfVesperiaUtils.Compression
 			var Warnings = new List<String>();
 
 			if (MagicData.Length < 0x10) throw (new Exception("Start to short"));
-			// Version type (1, 3, 4)
+			// Version type (0, 1, 3, 4)
 			{
 				var HeaderStruct = StructUtils.BytesToStruct<TalesCompression1_3.HeaderStruct>(MagicData);
+
+				bool Handled = true;
+
 				switch (HeaderStruct.Version)
 				{
+					case 0:
+						if (HeaderStruct.CompressedLength != HeaderStruct.UncompressedLength)
+						{
+							Warnings.Add("Compressed/Uncompressed Length must match");
+						}
+						if (HeaderStruct.CompressedLength >= 64 * 1024 * 1024)
+						{
+							Warnings.Add("Compressed/Uncompressed Length too big");
+						}
+						break;
 					case 1:
 					case 3:
 					case 4:
@@ -63,11 +76,19 @@ namespace TalesOfVesperiaUtils.Compression
 						{
 							Warnings.Add("Compressed size is bigger than the uncompressed size");
 						}
-						if (!Warnings.Any())
-						{
-							return CreateFromVersion(HeaderStruct.Version); 
-						}
+
 						break;
+					default:
+						Handled = false;
+						break;
+				}
+
+				if (Handled)
+				{
+					if (!Warnings.Any())
+					{
+						return CreateFromVersion(HeaderStruct.Version);
+					}
 				}
 			}
 			// Check other types.
@@ -85,6 +106,7 @@ namespace TalesOfVesperiaUtils.Compression
 		{
 			switch (Version)
 			{
+				case 0: return new TalesCompression0();
 				case 1: case 3: return new TalesCompression1_3(Version);
 				case 15: return new TalesCompression15_Lzx();
 				case 4: throw (new NotImplementedException());

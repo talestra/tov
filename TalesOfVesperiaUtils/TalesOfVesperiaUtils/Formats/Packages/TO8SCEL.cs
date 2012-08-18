@@ -72,7 +72,9 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			}
 		}
 
-		public class Entry {
+		public class Entry
+		{
+			public int Index;
 			public TO8SCEL TO8SCEL;
 			public EntryStruct EntryStruct;
 
@@ -127,10 +129,11 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				}
 			}
 
-			public Entry(TO8SCEL TO8SCEL, EntryStruct EntryStruct)
+			public Entry(TO8SCEL TO8SCEL, EntryStruct EntryStruct, int Index)
 			{
 				this.TO8SCEL = TO8SCEL;
 				this.EntryStruct = EntryStruct;
+				this.Index = Index;
 			}
 		}
 
@@ -164,7 +167,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 			for (int n = 0; n < Header.ListCount; n++)
 			{
-				var Entry = new Entry(this, Stream.ReadStruct<EntryStruct>());
+				var Entry = new Entry(this, Stream.ReadStruct<EntryStruct>(), n);
 				//Console.WriteLine(Entry.EntryStruct);
 				Entries.Add(Entry);
 			}
