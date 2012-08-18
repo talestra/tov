@@ -14,54 +14,66 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 {
 	public class FPS4 : BasePackage, IDisposable, IEnumerable<FPS4.Entry>
 	{
-		[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
+		[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1, Size = 0x001C)]
 		public struct HeaderStruct
 		{
 			/// <summary>
 			/// Magic of the file its contents should be always "FPS4" for a valid file.
 			/// </summary>
 			[MarshalAs(UnmanagedType.ByValArray, SizeConst = 4)]
+			//[FieldOffset(0x0000)]
 			public byte[] Magic;
 
 			/// <summary>
 			/// Number of entries for this package.
 			/// </summary>
+			//[FieldOffset(0x0004)]
 			public uint_be ListCount;
 
 			/// <summary>
 			/// Start of entry definitions.
 			/// Note: Offset relative to the start of the file.
 			/// </summary>
+			//[FieldOffset(0x0008)]
 			public uint_be ListStart;
 
 			/// <summary>
 			/// Ends of entry definitions.
 			/// Note: Offset relative to the start of the file.
 			/// </summary>
+			//[FieldOffset(0x000C)]
 			public uint_be ListEnd;
 
 			/// <summary>
 			/// Size of each entry.
 			/// </summary>
+			//[FieldOffset(0x0010)]
 			public ushort_be EntrySizeof;
 
 			/// <summary>
-			/// Format of each entry.
+			/// Format of each entry??
+			/// Probably a BitField? But not sure bit meanings.
 			/// </summary>
+			//[FieldOffset(0x0012)]
 			public ushort_be EntryFormat;
 
 			/// <summary>
-			/// ?
+			/// Format 2 of each entry.
 			/// </summary>
-			public uint_be Unk2;
+			//[FieldOffset(0x0014)]
+			public uint_be Unk;
 
 			/// <summary>
 			/// Offset to a string containing the original file path.
 			/// Note: Offset relative to the start of the file.
 			/// </summary>
+			//[FieldOffset(0x0018)]
 			public uint_be FilePos;
 		}
 
+		/// <summary>
+		/// 
+		/// </summary>
 		[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
 		public struct EntryStruct
 		{
@@ -90,6 +102,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			public EntryStruct EntryStruct;
 			public uint Index;
 			public String Name;
+			public uint MappedFileIndex;
 			protected Entry _LinkedTo;
 			protected Stream _Stream;
 
@@ -154,6 +167,12 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 			public Stream Open()
 			{
+#if false
+				if (MappedFileIndex > 0)
+				{
+					return SliceStream.CreateWithLength(new ZeroStream(this.EntryStruct.LengthReal), 0, this.EntryStruct.LengthReal);
+				}
+#endif
 				return SliceStream.CreateWithLength(this._Stream, 0, this._Stream.Length);
 			}
 
@@ -271,41 +290,71 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 		override public void Load(Stream Stream)
 		{
 			this.Stream = Stream;
-			var BinaryReader = new BinaryReader(Stream);
 
 			Header = Stream.ReadStruct<HeaderStruct>();
 			if (Encoding.ASCII.GetString(Header.Magic) != "FPS4") throw (new Exception("Invalid Magic"));
 
-			Stream.Position = Header.FilePos;
-			OriginalFilePath = Stream.ReadStringz(0x100, Encoding.GetEncoding("Shift-JIS"));
+			if (Header.FilePos != 0)
+			{
+				Stream.Position = Header.FilePos;
+				OriginalFilePath = Stream.ReadStringz(0x100, Encoding.GetEncoding("Shift-JIS"));
+			}
+			else
+			{
+				OriginalFilePath = "";
+			}
 
 			Stream.Position = Header.ListStart;
+			//Console.WriteLine("{0:X8}", Stream.Position);
 
 			if (Header.ListCount > 10000) throw (new Exception("List too big (" + Header.ListCount + ")"));
 
 			for (uint n = 0; n < Header.ListCount; n++)
 			{
-				var EntryStruct = Stream.ReadStruct<EntryStruct>();
+				var EntryStream = Stream.ReadStream(Header.EntrySizeof);
+				var EntryStruct = default(EntryStruct);
 				var ExtraEntrySizeof = Header.EntrySizeof - 0x0C;
 				var IndexName = String.Format("{0}", n);
 				var Name = "";
+				uint MappedFileIndex = 0;
 
-				switch (ExtraEntrySizeof)
+				switch ((int)Header.EntryFormat)
 				{
-					case 0:
-					break;
-					case 4:
-						var Offset = BinaryReader.ReadUInt32();
-						// Pointer to string name.
-						if (Offset != 0)
-						{
-							throw (new NotImplementedException());
-						}
-					break;
+					case 0x8D:
+						EntryStruct.Offset = EntryStream.ReadStruct<uint_be>();
+						EntryStruct.LengthReal = EntryStruct.LengthSectorAligned = EntryStream.ReadStruct<uint_be>();
+						Name = EntryStream.ReadStringz(0x20);
+						MappedFileIndex = EntryStream.ReadStruct<uint_be>();
+						break;
 					default:
-					IndexName = Name = Stream.ReadStringz(ExtraEntrySizeof);
-					break;
+						EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+
+						switch (ExtraEntrySizeof)
+						{
+							case 0:
+								{
+								}
+								break;
+							case 4:
+								{
+									var Offset = EntryStream.ReadStruct<uint>();
+									// Pointer to string name.
+									if (Offset != 0)
+									{
+										throw (new NotImplementedException());
+									}
+								}
+								break;
+							default:
+								{
+									IndexName = Name = EntryStream.ReadStringz(ExtraEntrySizeof);
+								}
+								break;
+						}
+						break;
 				}
+
+				//Console.WriteLine("Name: {0}", Name);
 
 				if (n == Header.ListCount - 1)
 				{
@@ -316,7 +365,13 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 					}
 				}
 
+				if (Name.Length == 0)
+				{
+					Name = IndexName;
+				}
+
 				var Entry = new Entry(this, EntryStruct, Name);
+				Entry.MappedFileIndex = MappedFileIndex;
 				Entry.Index = n;
 				Entries.Add(IndexName, Entry);
 			}

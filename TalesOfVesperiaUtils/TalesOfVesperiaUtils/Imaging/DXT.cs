@@ -56,7 +56,7 @@ namespace TalesOfVesperiaUtils.Imaging
 
 					if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height))
 					{
-						Console.Error.WriteLine("(Warning! [Write] Position outsude ({0}, {1}) - ({2}x{3}))", PositionX, PositionY, Width, Height);
+						Console.Error.WriteLine("(Warning! [Write] Position outside ({0}, {1}) - ({2}x{3}))", PositionX, PositionY, Width, Height);
 						continue;
 					}
 
@@ -145,7 +145,7 @@ namespace TalesOfVesperiaUtils.Imaging
 				if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height))
 				{
 					Console.Error.WriteLine(
-						"(Warning! [Read] Position outsude ({0}, {1}) - ({2}x{3}) ;; ({4}, {5})) - ({6}x{7}) ;; {8}",
+						"(Warning! [Read] Position outside ({0}, {1}) - ({2}x{3}) ;; ({4}, {5})) - ({6}x{7}) ;; {8}",
 						PositionX, PositionY,
 						Width, Height,
 						TileX, TileY,

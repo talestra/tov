@@ -300,6 +300,12 @@ namespace TalesOfVesperiaUtils.Imaging
 							Swizzling.UnswizzledXY(n, Width, BytesPerPixel, out X, out Y);
 						}
 
+						if (X >= Width || Y >= Height)
+						{
+							Console.Error.WriteLine("(Warning: Outside! ({0}, {1}) - ({2}x{3}))", X, Y, Width, Height);
+							continue;
+						}
+
 						Base[Y * Width + X] = Decode(Bytes, m);
 						m += BytesPerPixel;
 					}

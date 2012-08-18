@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF2903E9-8282-4121-B7FD-3F37F2C50A1C}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CompTov</RootNamespace>
+    <AssemblyName>CompTov</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\Bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\Bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Drawing\CSharpUtils.Drawing.csproj">
+      <Project>{9b217880-48ae-43b6-ae1f-dc732fccbc7a}</Project>
+      <Name>CSharpUtils.Drawing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Ext\CSharpUtils.Ext.csproj">
+      <Project>{c017fbbe-ef10-4030-a69e-204e766c8f9d}</Project>
+      <Name>CSharpUtils.Ext</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Vfs\CSharpUtils.Vfs.csproj">
+      <Project>{49f6b357-35ae-498a-9e5a-67aa62a327c6}</Project>
+      <Name>CSharpUtils.Vfs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils\CSharpUtils.csproj">
+      <Project>{746fadf2-d613-4ffd-8551-2181adae3cd1}</Project>
+      <Name>CSharpUtils</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TalesOfVesperiaTranslationEngine\TalesOfVesperiaTranslationEngine.csproj">
+      <Project>{4b155ade-e14a-402d-89cb-2d4a85944bf3}</Project>
+      <Name>TalesOfVesperiaTranslationEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TalesOfVesperiaUtils\TalesOfVesperiaUtils.csproj">
+      <Project>{26b46dd3-ff59-4701-bc09-1e793d05dbee}</Project>
+      <Name>TalesOfVesperiaUtils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
