@@ -14,7 +14,7 @@ PUSHD %~dp0
 	SET FILES=%FILES% "%BASE_FOLDER%\TalesOfVesperiaTranslationEngine.dll"
 	SET FILES=%FILES% "%BASE_FOLDER%\TalesOfVesperiaUtils.dll"
 	
-	SET TARGET=/targetplatform:v4,"%ProgramFiles(x86)%\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0"
+	SET TARGET=/targetplatform:v4,"%ProgramFiles(x86)%\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5"
 	"%~dp0\..\Tools\ILMerge.exe" %TARGET% /out:TalesOfVesperia.exe %FILES%
 POPD
 GOTO END
