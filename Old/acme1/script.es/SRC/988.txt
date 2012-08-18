@@ -1,0 +1,33 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860388]
+<STR>(RIT)
+Ha funcionado, pero...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860388]
+<STR>(KAR)
+¿Qué es esto?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860388]
+<STR>(YUR)
+¿Debería haber ido y
+activarlo antes, entonces?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860388]
+<STR>(EST_P)
+Sí... ¿Qué hubiera pasado
+si hubiera sido una trampa?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860388]
+<STR>(RIT)
+¡<STR>(YUR), deberías decir
+esas cosas en cuanto te
+des cuenta de ellas!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860388]
+<STR>(YUR)
+Lo cierto es que acabo
+de darme cuenta ahora mismo.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273525241]
+<STR>(KAR)
+Puede que si volvemos arriba
+descubramos algo.

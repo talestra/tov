@@ -1,0 +1,230 @@
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286529]
+99 objetos máx
+
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Puedes llevar hasta 99 unidades de cada objeto.
+
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Objetos
+
+## POINTER 5 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Mantienes todos los objetos de la partida anterior.
+(No incluye los objetos valiosos).
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Gald
+
+## POINTER 7 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286529]
+Conservas todo el gald ganado en la partida anterior.
+
+## POINTER 8 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Títulos
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Conservas todos los títulos obtenidos de la partida anterior.
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Libro del coleccionista
+
+## POINTER 11 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Conservas toda la información del Libro del coleccionista.
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262992863]
+Libro de monstruos
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262992863]
+Conservas toda la información del Libro de monstruos.
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Recetas
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286529]
+Conservas todas las recetas aprendidas en la partida anterior.
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286529]
+Habilidad de cocinillas
+
+## POINTER 17 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286529]
+Conservas las habilidades culinarias obtenidas en la partida anterior.
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Mapamundi
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286529]
+Conservas toda la información sobre las ciudades
+y las mazmorras en el mapamundi.
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Habilidad de síntesis
+
+## POINTER 21 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286529]
+Conservas el nivel de habilidad de síntesis.
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286529]
+Récords
+
+## POINTER 23 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Conservas toda la información actual 
+listada en el menú de «Récords».
+
+## POINTER 24 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Artes
+
+## POINTER 25 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Conservas todas las artes obtenidas
+de todos los personajes en la partida anterior.
+
+## POINTER 26 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Habilidades
+
+## POINTER 27 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Conservas todas las habilidades obtenidas
+de todos los personajes en la partida anterior.
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Artes y habilidades de Yuri
+
+## POINTER 29 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286529]
+Conservas las artes, número de usos y habilidades
+obtenidas por Yuri en la partida anterior.
+
+## POINTER 30 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Artes y habilidades de  Estelle
+
+## POINTER 31 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286710]
+Conservas las artes, número de usos y habilidades
+obtenidas por Estelle en la partida anterior.
+
+## POINTER 32 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286894]
+Artes y habilidades de Karol
+
+## POINTER 33 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286710]
+Conservas las artes, número de usos y habilidades
+obtenidas por Karol en la partida anterior.
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286894]
+Artes y habilidades de Rita
+
+## POINTER 35 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286710]
+Conservas las artes, número de usos y habilidades
+obtenidas por Rita en la partida anterior.
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Artes y habilidades de  Raven
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286710]
+Conservas las artes, número de usos y habilidades
+obtenidas por Raven en la partida anterior.
+
+## POINTER 38 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286894]
+Artes y habilidades de Judith
+
+## POINTER 39 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286710]
+Conservas las artes, número de usos y habilidades
+obtenidas por Judith en la partida anterior.
+
+## POINTER 40 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286894]
+Artes y habilidades de Repede
+
+## POINTER 41 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Conservas las artes, número de usos y habilidades
+obtenidas por Repede en la partida anterior.
+
+## POINTER 42 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Incrementar HP máximo
+
+## POINTER 43 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Empiezas la partida con un 20% más de HP máximo.
+No puede seleccionarse junto a «Reducir HP máximo».
+
+## POINTER 44 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286710]
+Reducir HP máximo
+
+## POINTER 45 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Empiezas la partida con un 20% menos de HP máximo.
+No puede seleccionarse junto a «Incrementar HP máximo».
+
+## POINTER 46 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Incrementar TP máximo
+
+## POINTER 47 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Empiezas la partida con un 20% más de TP máximo.
+No puede seleccionarse junto a «Reducir TP máximo».
+
+## POINTER 48 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Reducir TP máximo.
+
+## POINTER 49 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Empiezas la partida con un 20% menos de TP máximo.
+No puede seleccionarse junto a «Incrementar TP máximo».
+
+## POINTER 50 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Gald x2
+
+## POINTER 51 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Ganas el doble de gald tras las batallas.
+
+## POINTER 52 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262992863]
+Incrementar Límite
+
+## POINTER 53 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Dobla la velocidad en la que se llena la barra de Límite.
+
+## POINTER 54 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Experiencia 1/2
+
+## POINTER 55 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Reduce a la mitad la cantidad de EXP que ganas. No puede
+seleccionarse junto a con otras opciones relacionadas con la EXP.
+
+## POINTER 56 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Experiencia x2
+
+## POINTER 57 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Ganas el doble de EXP tras las batallas. No puede
+seleccionarse junto a otras opciones relacionadas con la EXP.
+
+## POINTER 58 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Experiencia x10
+
+## POINTER 59 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Ganas diez veces más de EXP tras las batallas. No puede
+seleccionarse junto a otras opciones relacionadas con la EXP.
+
+## POINTER 60 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Grado x2
+
+## POINTER 61 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Ganas el doble de grado tras las batallas.
+
+## POINTER 62 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Habilidades a 1 SP
+
+## POINTER 63 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Cada habilidad consume un solo SP.
+
+## POINTER 64 [t:1;r:1;ru:parsec;user:parsec;time:1267967272]
+Aumenta la cantidad de objetos obtenidos
+
+## POINTER 65 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262286894]
+Dobla las posibilidades de conseguir objetos tras una batalla.
+
+## POINTER 66 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Técnicas de batalla
+
+## POINTER 67 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+La EXP normal se reduce a uno, pero las
+bonificaciones de EXP se multiplican por cinco.
+
+## POINTER 68 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262285410]
+Desbloquear rango de combate
+
+## POINTER 69 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Desbloquear dificultad «DESCONOCIDA»
+
+## POINTER 70 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Desbloquear todas las skits
+
+## POINTER 71 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263065415]
+Puedes ver todas las skits en el reproductor correspondiente
+en la isla de Nam Cobandai, situada en algún lugar del mundo.

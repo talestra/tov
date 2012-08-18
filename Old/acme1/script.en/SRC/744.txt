@@ -1,0 +1,83 @@
+## POINTER 0
+<STR>(YUR)
+Is this the book you're 
+looking for?
+
+## POINTER 1
+<STR>(RIT)
+Yes, there's no mistaking it. That's "Reflections 
+on the Scent of the Sea."
+
+## POINTER 2
+Kaufman
+Oh, so you're interested in my autobiography? 
+Perhaps the allure of high seas profit 
+has finally caught your eye?
+
+## POINTER 3
+<STR>(YUR)
+You wrote this? What 
+the--oops, I mean, 
+could we have it?
+
+## POINTER 4
+Kaufman
+Straight and to the point, as usual. 
+Heh, I admire your candor.<PAGE>You may have that book if you like.
+Study it well...you might learn something.
+
+## POINTER 5
+<STR>(RIT)
+Thank you. This 
+helps a lot.
+
+## POINTER 6
+Kaufman
+Oh my, all this interest in my life story and 
+now words of thanks from you? I can feel
+the winds of change blowing across the sea!
+
+## POINTER 7
+<STR>(YUR)
+All right, so you've finally 
+gotten all of them?
+
+## POINTER 8
+<STR>(RIT)
+Yep. I've collected 
+all five.<PAGE>Now I can go and 
+take that test.
+
+## POINTER 9
+<STR>(YUR)
+Going out to look for books all across 
+the world...what a crazy test!
+
+## POINTER 10
+<STR>(RIT)
+Oh, the real test has yet to begin.<PAGE>There'll be a written test that requires 
+using these books as reference material.
+
+## POINTER 11
+<STR>(YUR)
+Agh, just thinking about taking 
+tests makes my head hurt.
+
+## POINTER 12
+<STR>(RIT)
+Wouldn't you like to give it a 
+try? Just to see how you do.
+
+## POINTER 13
+<STR>(YUR)
+Nah, I wouldn't have a chance. I don't care 
+about that what's-his-face degree anyway.
+
+## POINTER 14
+<STR>(RIT)
+Yeah, giving something like that to you would 
+be like casting pearls before swine.
+
+## POINTER 15
+<STR>(YUR)
+Hey, who're you calling swine?!

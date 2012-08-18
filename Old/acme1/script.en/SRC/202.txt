@@ -1,0 +1,73 @@
+## POINTER 0
+<STR>(EST_P)
+...C-come in.
+
+## POINTER 1
+<STR>(YUR)
+You can't keep using your healing 
+artes on her forever, <STR>(EST_P).<PAGE>Come on, let's let 
+her rest for now.
+
+## POINTER 2
+<STR>(EST_P)
+Yes...
+
+## POINTER 3
+<STR>(YUR)
+I can't believe she had to go and do something like that.
+
+## POINTER 4
+<STR>(EST_P)
+Yes. Once <STR>(RIT) chooses to 
+do something, she won't listen 
+to anyone else...
+
+## POINTER 5
+<STR>(YUR)
+You're one to talk! You were 
+just as bad as she was.
+
+## POINTER 6
+<STR>(EST_P)
+...I'm sorry.
+
+## POINTER 7
+<STR>(YUR)
+I'm going to stay here. You should 
+go rest. Aren't you tired from using 
+your healing artes so much?
+
+## POINTER 8
+<STR>(EST_P)
+I'm jealous of <STR>(RIT). She has something 
+she cares about so much...
+
+## POINTER 9
+<STR>(YUR)
+And so can you, if you spend enough time looking for 
+it. But you need to go and get some sleep now.
+
+## POINTER 10
+<STR>(EST_P)
+No, I'm fine. <STR>(YUR), you should 
+get some sleep, yourself.
+
+## POINTER 11
+<STR>(YUR)
+<STR>(FRE) will get mad at 
+me if you pass out.
+
+## POINTER 12
+<STR>(EST_P)
+So let him get mad at you.
+
+## POINTER 13
+<STR>(YUR)
+Look, don't come asking me to take your 
+place when you collapse from exhaustion!
+
+## POINTER 14
+<STR>(EST_P)
+I can't ask you to take 
+my place if I've already 
+collapsed, can I?

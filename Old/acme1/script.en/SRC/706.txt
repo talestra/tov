@@ -1,0 +1,58 @@
+## POINTER 0
+<STR>(EST_P)
+Meow!
+
+## POINTER 1
+<STR>(RIT)
+No, no, you've got it 
+all wrong... Meow!
+
+## POINTER 2
+<STR>(EST_P)
+Meow!
+
+## POINTER 3
+<STR>(RIT)
+Meow!
+
+## POINTER 4
+<STR>(RIT)
+Meow!
+
+## POINTER 5
+<STR>(KAR)
+Hey <STR>(YUR), what's going on?
+
+## POINTER 6
+<STR>(YUR)
+Some sort of ritual, maybe?
+
+## POINTER 7
+<STR>(RIT)
+Ah, she's getting away!
+
+## POINTER 8
+<STR>(EST_P)
+Uh oh! We'll be able to get where 
+she's going faster if we cut 
+through the royal quarter!
+
+## POINTER 9
+<STR>(RIT)
+Got it...
+
+## POINTER 10
+<STR>(YUR)
+Hey, wait up!
+
+## POINTER 11
+<STR>(JUD)
+...Those girls are crazy.
+
+## POINTER 12
+<STR>(KAR)
+Hey, do you think...<PAGE>...<STR>(RIT) might like cats, maybe?
+
+## POINTER 13
+<STR>(RAV)
+Looks like she's crazy about 'em ta me.

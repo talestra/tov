@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272797826]
+<STR>(KAR)
+Un tío ha pasado por aquí trayendo
+a <STR>(EST_P) a rastras...
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272365248]
+<STR>(YUR)
+¿Se han metido en la posada?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298236613]
+<STR>(KAR)
+Sip. Entonces,
+¿ese tío es <STR>(FRE)?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272365248]
+<STR>(YUR)
+Ya, bueno...
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272365248]
+<STR>(RIT)
+Si entras ahora no creo que puedas
+meter baza en la conversación.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272365248]
+<STR>(KAR)
+Parecía que iban a estar un buen rato.
+¿Quieres dar un paseo para matar el tiempo?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272365248]
+<STR>(YUR)
+Claro, por qué no...

@@ -1,0 +1,100 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843559]
+
+¡Bienvenidos sean, queridos visitantes,
+al balneario del manantial termal Yumanju!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1294181509]
+<STR>(KAR)
+Oye, ¿qué es
+este sitio?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843163]
+
+Señor, ¡ha llegado al balneario del manantial
+termal Yumanju, la casa que ofrece los mejores
+baños al aire libre de Terca Lumireis!<PAGE>Los manantiales Yumanju
+son famosos por todo el mundo.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1289847450]
+<STR>(RAV)
+¿Qu'es un baño al aire libre?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843163]
+<STR>(EST_P)
+Es un manantial termal donde puedes
+relajarte dándote un baño afuera.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843163]
+<STR>(RIT)
+¿Darte un baño afuera?
+Nunca había oído algo así.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843534]
+
+¡Estoy seguro de que los liberará
+de todo el estrés que puedan tener!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843534]
+<STR>(YUR)
+Me meto en la bañera y
+cuando esté limpio para afuera.
+¿Qué más da lo bien que se esté?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843534]
+<STR>(EST_P)
+Lo mejor para tu cuerpo, <STR>(YUR),
+sería remojarse en el agua
+un rato y relajarse.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843534]
+<STR>(JUD)
+Baños al aire libre, ¿eh? Vale la pena echar un ojo.
+Me pregunto qué tal se estará en ellos.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1289938867]
+<STR>(KAR)
+¡Hala, esto suena de fábula!
+¡Yo quiero ir! ♪
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843534]
+<STR>(RAV)
+¡Yo también creo que vale la pena echar un ojo!
+Si entendéis a lo que me refiero... *Guiño*
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1289938867]
+<STR>(RIT)
+...
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1289938867]
+<STR>(EST_P)
+¿Podemos entrar?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1289938867]
+
+¡Por desgracia, no!
+¡No podéis!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843534]
+<STR>(KAR)
+¡¿Quéééé?!
+¿Por qué no podemos?
+¡Serás malote!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843534]
+
+Le aseguro que no soy un «malote». Es que
+ahora mismo estamos limpiando los baños.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843534]
+<STR>(RAV)
+¿En serio?
+¡Menuda gracia!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843534]
+<STR>(JUD)
+Ya volveremos cuando podamos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298843534]
+
+¡Lo siento muchísimo!
+¡Esperamos su próxima visita!

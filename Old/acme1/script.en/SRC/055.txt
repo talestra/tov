@@ -1,0 +1,45 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS11_013)This one's still 
+got a core in it.
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS11_014)Here, try shooting 
+this at the core.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS11_015)This ring's set with something that 
+looks just like a blastia core.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS11_016)Glyph Crystallization of 
+a formula allows this blastia 
+to emit aer as needed.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS11_017)That's not quite the best way to put it.<PAGE><VOICE>(VS11_018)It's actually used to charge 
+other blastia with aer.<PAGE><VOICE>(VS11_019)...But wait, how did you know that?
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS11_020)In the castle I read that 
+the ring acts as a kind of 
+key in ancient ruins.
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS11_021)Castle?
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS11_022)So all I do is point?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS11_023)Just aim the Sorcerer's Ring 
+at the core of that blastia.<PAGE><VOICE>(VS11_024)Face your target, and shoot.<PAGE><VOICE>(VS11_025)There's a limit to its range, 
+though. Go on. Try it.

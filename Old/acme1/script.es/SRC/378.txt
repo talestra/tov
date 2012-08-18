@@ -1,0 +1,81 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1283800253]
+<STR>(YUR)
+¿Has sacado algo en claro?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(EST_P)
+Nada de nada...
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(EST_P)
+Después de lo que
+ha pasado con Belius...<PAGE>Y de que <STR>(JUD) rompiera
+nuestro blastia y huyera...
+<PAGE>Ya no sé qué pensar.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(YUR)
+¿En serio?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411606]
+<STR>(EST_P)
+¿Y cómo pudiste cortarte tu propio brazo así?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(YUR)
+Je, la verdad es que picó un poco.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(EST_P)
+¡No tiene gracia!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(YUR)
+Pero después me curaste.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411606]
+<STR>(EST_P)
+No pude evitarlo, ¿vale?<PAGE>Soy incapaz de darle la espalda
+a alguien que está herido frente a mí...
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(YUR)
+¿Y por qué te comes la cabeza?<PAGE>¿No te acuerdas de lo que te dijo Belius?
+Intenta ser siempre así de bondadosa.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1283777890]
+<STR>(EST_P)
+Los entelechia me odian
+por mi poder, ¿verdad?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411606]
+<STR>(YUR)
+Y qué pasa si eres capaz de usar magia sin usar un blastia.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411606]
+<STR>(EST_P)
+Aunque procure no usar mi poder
+en los entelechia,<PAGE>para ellos sigo siendo un mal.<PAGE>Por eso intenta matarme Phaeroh.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(YUR)
+Pero Belius te dijo
+que intentaras encontrarlo, ¿no?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(EST_P)
+Sí, para poder conocer mi destino...
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(EST_P)
+Pero ahora dudo...
+de que eso sea lo correcto.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(EST_P)
+No, no puede ser... Yo soy
+la única que decide mi destino.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830416]
+<STR>(YUR)
+Así me gusta.

@@ -1,0 +1,174 @@
+## POINTER 0
+
+<VOICE>(VS05_062)You there, how about coming 
+to work for me? 
+You'll be paid, of course.
+
+## POINTER 1
+
+<VOICE>(VS05_063)Watch your manners around the 
+President. Well, whaddya say?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS05_064)So it's not bad manners to 
+try and buy someone without 
+even introducing yourself?
+
+## POINTER 3
+
+<VOICE>(VS05_065)Watch your mouth!
+
+## POINTER 4
+
+<VOICE>(VS05_066)You're just as charming as I 
+expected. I'm Kaufman of the 
+merchants' guild, Fortune's Market.<PAGE><VOICE>(VS05_067)We handle everything from 
+trade to distribution.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS05_068)Guilds, huh...
+
+## POINTER 6
+Kaufman
+<VOICE>(VS05_069)You see, I'm in quite a tight spot, and 
+it's all thanks to these tremors.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS05_070)I'd rather not know, but was 
+that the work of a monster?
+
+## POINTER 8
+Kaufman
+<VOICE>(VS05_071)Yes, the Lord of the Plains.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS05_072)Lord of the Plains?
+
+## POINTER 10
+Kaufman
+<VOICE>(VS05_073)He's the leader of that pack of monsters.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS05_074)The leader? Man, there's some 
+amazing things out there.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS05_075)Do you know if there's another 
+way we can cross the plains? 
+We're in a hurry.
+
+## POINTER 13
+Kaufman
+<VOICE>(VS05_076)Hmm, I'm afraid you'll just have to wait 
+for the Lord of the Plains to leave.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS05_077)Huh. I guess there's no point 
+getting worked up over it.
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS05_078)But I can't afford to just 
+sit and wait. I'm going to 
+get a second opinion!
+
+## POINTER 16
+<STR>(RAP)
+<VOICE>(VS05_079)......
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS05_080)You're with a guild that does 
+product distribution, but you 
+don't know any other routes?
+
+## POINTER 18
+Kaufman
+<VOICE>(VS05_081)I could hire you and just charge 
+through once the leader moves on, 
+but...you don't seem interested.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS05_082)If it's bodyguards you want, 
+why not hire the Knights?
+
+## POINTER 20
+Kaufman
+<VOICE>(VS05_083)Are you forgetting that we guild 
+members have thrown away our 
+rights as imperial citizens?<PAGE><VOICE>(VS05_084)Once leave the empire behind, 
+you can't expect them to help 
+you a whole lot.<PAGE><VOICE>(VS05_085)So naturally, the Imperial Knights would 
+never deign to escort the likes of us.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS05_086)Wow. You really stick 
+to your principles.
+
+## POINTER 22
+Kaufman
+<VOICE>(VS05_087)Without that level of determination, 
+one could never hope to run a guild.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS05_088)Well, maybe you could use your 
+determination to do something 
+about that Lord of the Plains.
+
+## POINTER 24
+Kaufman
+<VOICE>(VS05_089)Go to the Quoi Woods that 
+lie to the west of here.
+
+## POINTER 25
+Kaufman
+<VOICE>(VS05_090)If you pass through the forest, you'll 
+come out on the far side of the plains.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS05_091)But the fact that you guys 
+aren't going that way...<PAGE><VOICE>(VS05_092)...must mean we have some surprise 
+to look forward to.
+
+## POINTER 27
+Kaufman
+<VOICE>(VS05_093)I like a boy with quick wits, but I 
+like one that doesn't waste a 
+potential investment even better.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS05_094)Thanks, I owe you one.<PAGE><VOICE>(VS05_095)Maybe I'll talk to you about 
+that job if we meet again.
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS05_096)<STR>(EST_P).
+
+## POINTER 30
+<STR>(EST_P)
+<VOICE>(VS05_097)I...I'm not waiting around for 
+the monsters to leave or anything. 
+I'm just resting a little.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS05_098)Oh, I see. Well then, I guess 
+I'll just have to take the other 
+way around by myself.
+
+## POINTER 32
+<STR>(EST_P)
+<VOICE>(VS05_099)What? How did you...? 
+Hey, wait for me!

@@ -1,0 +1,114 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(KAR)
+<VOICE>(VS08_001)Todo el mundo en guardia.
+Es muy feroz...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(YUR)
+<VOICE>(VS08_002)Por favor, intrépido líder,
+no puedes salir con algo así
+para luego esconderte.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(KAR)
+<VOICE>(VS08_003)El prota siempre da
+el golpe de gracia.
+¡Todo el mundo lo sabe!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(EST_P)
+<VOICE>(VS08_004)No, no lo creo...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:parsec;time:1271279731]
+<STR>(KAR)
+<VOICE>(VS08_005)¡Aaah!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(EST_P)
+<VOICE>(VS08_006)¿E-Eso es un oso ovíparo?...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1272375427]
+<STR>(YUR)
+<VOICE>(VS08_007)Bueno, lo admito, capitán <STR>(KAR). 
+La operación bomba fétida ha sido todo un éxito.
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304471309]
+<STR>(KAR)
+<VOICE>(VS08_008)Oye, no te rías
+de mi plan.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(YUR)
+<VOICE>(VS08_009)Saca pecho cuando digas
+cosas como esas.
+
+## POINTER 9 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304471217]
+<STR>(YUR)
+<VOICE>(VS08_010)<STR>(KAR), ven y coge la garra.
+No sé qué tengo que hacer.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(KAR)
+<VOICE>(VS08_011)¡¿Qué?! E-Eso lo hace cualquiera. 
+Sale sola.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(EST_P)
+<VOICE>(VS08_012)Venga, déjame ayudar.
+Uf...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Amarintia;time:1271425240]
+<STR>(YUR)
+<VOICE>(VS08_013)<STR>(EST_P), ¿por qué no aseguras el perímetro?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(EST_P)
+<VOICE>(VS08_014)V-Vale.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(KAR)
+<VOICE>(VS08_015)Estás completamente seguro
+de que está muerto, ¿verdad?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1272375427]
+<STR>(YUR)
+<VOICE>(VS08_016)¡Groaaaaar!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1272375427]
+<STR>(KAR)
+<VOICE>(VS08_017)¡Aaaaah!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(YUR)
+<VOICE>(VS08_018)Venga, capitán. Si no supiera
+que estás de broma, juraría que 
+te habías asustado de verdad.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(KAR)
+<VOICE>(VS08_019)Eh... Ja, ja, ja... 
+Muy buena, ¿eh?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:parsec;time:1271509069]
+<STR>(YUR)
+<VOICE>(VS08_020)¿Cómo va la nariz, <STR>(RAP)?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(YUR)
+<VOICE>(VS08_021)Muy bien, volvamos.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:parsec;time:1271509069]
+<STR>(KAR)
+<VOICE>(VS08_022)Ahora ya solo nos falta 
+el pétalo de luluria, ¿verdad?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(EST_P)
+<VOICE>(VS08_023)Volvamos otra vez
+a casa del alcalde.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1273614106]
+<STR>(EST_P)
+<VOICE>(VS08_022)Ahora ya solo nos falta 
+el pétalo de luluria, ¿verdad?<PAGE><VOICE>(VS08_023)Volvamos otra vez
+a casa del alcalde.

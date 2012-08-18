@@ -1,0 +1,116 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(RAV)
+<VOICE>(VS46_001)Así que después de tó
+sí que le dio a argo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(JUD)
+<VOICE>(VS46_002)Menos mal que no acertó
+en ninguna ciudad.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(YUR)
+<VOICE>(VS46_003)¿Seguro que estáis bien?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(KAR)
+<VOICE>(VS46_004)No, me duele todo, pero<PAGE><VOICE>(VS46_005)<STR>(EST_P) está en peligro y no
+pienso quedarme de brazos cruzados.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(RIT)
+<VOICE>(VS46_006)Sí, lo mismo digo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(RAV)
+<VOICE>(VS46_007)¿Qué hacemos ahora?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(RIT)
+<VOICE>(VS46_008)Si no podemos ir por la
+colina de Ehmead, ¿no nos
+basta con coger un barco?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+Teagle
+<VOICE>(VS46_009)Me temo que no.<PAGE><VOICE>(VS46_010)Hace poco vinieron los Caballeros
+y se llevaron todos los buques
+preparados para los viajes largos.<PAGE><VOICE>(VS46_011)Por su culpa no hay ni
+un alma en el puerto.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(YUR)
+<VOICE>(VS46_012)Justamente ahora...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+Teagle
+<VOICE>(VS46_013)Bueno, existe otra manera,
+pero no sé si debería
+recomendárosla...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(YUR)
+<VOICE>(VS46_014)
+Escucharemos cualquier opción.
+Necesitamos llegar a la capital
+cuanto antes.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+Teagle
+<VOICE>(VS46_015)
+Me temo que os obligará
+a tomar un rodeo bastante
+considerable, pero<PAGE><VOICE>(VS46_016)si os dirigís hacia el norte, justo
+antes de la colina de Ehmead, veréis
+una playa estrecha que recorre el litoral.<PAGE><VOICE>(VS46_017)Llega a un callejón sin salida, pero
+en esta época del año se congela
+y forma grandes bancos de hielo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1283643548]
+<STR>(JUD)
+<VOICE>(VS46_018)Los Bancos Afilados de Zopheir.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+Teagle
+<VOICE>(VS46_019)Exacto. Si tenéis suerte,
+deberíais ser capaces
+de atravesarlos a pie.<PAGE><VOICE>(VS46_020)
+Si atajáis por allí,
+terminaríais por salir
+en mitad del continente.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(KAR)
+<VOICE>(VS46_021)Así que los Bancos
+Afilados de Zopheir...<PAGE><VOICE>(VS46_022)
+He oído que nadie se acerca
+allí, ni siquiera pescadores.
+Se cuentan muchas historias.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+Teagle
+<VOICE>(VS46_023)
+Os la jugáis con la naturaleza;
+nadie os garantiza que podáis
+pasar.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(RIT)
+<VOICE>(VS46_024)Si ese es nuestro único camino,
+por allí tendremos que ir.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459488]
+<STR>(YUR)
+<VOICE>(VS46_025)Muy bien, lo haremos.<PAGE><VOICE>(VS46_026)Gracias por tu ayuda.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1286202366]
+Teagle
+<VOICE>(VS46_027)
+Es lo menos que podía hacer.
+No quedaría gran cosa de mi
+familia de no ser por vosotros.<PAGE><VOICE>(VS46_028)Tan solo os pido que no
+decepcionéis a mi chico.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1283643548]
+<STR>(KAR)
+<VOICE>(VS46_029)¡Tranquilo!

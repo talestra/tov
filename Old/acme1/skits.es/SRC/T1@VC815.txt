@@ -1,0 +1,68 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251756687]
+(RIT) aparece
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944610]
+(EST_P)
+Ji, ji, ji.
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266231105]
+(RIT)
+¿Qué mosca te ha picado? 
+Primero te asustas y ahora te ríes.
+
+## POINTER 3 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266254777]
+(KAR)
+Tú sí que cambias mucho de humor, (RIT).
+
+## POINTER 4 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944610]
+(YUR)
+Mira quién fue hablar, (KAR).
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944610]
+(RIT)
+¡Cerrad el pico!
+
+## POINTER 6 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944610]
+(EST_P)
+Ji, ji. Me alegro mucho de que
+te hayamos encontrado aquí.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116641]
+(EST_P)
+Me refiero a que renuncié a volver a la capital,
+así que aunque me hubieses ido a visitar,
+¡yo no hubiera estado allí!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116641]
+(YUR)
+Oh, mira qué cuca, (RIT). 
+Ibas a ir a visitar a (EST_P).
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116641]
+(RIT)
+Y-Yo jamás iría a la capital
+solo para visitar a alguien.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116641]
+(RIT)
+Bueno, tengo que informar de
+mis descubrimientos en el aer krene.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116641]
+(RIT)
+Solo pensaba en ir a saludar o algo así...
+
+## POINTER 12 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944610]
+(JUD)
+No sé yo.
+Eso a mí me suena a excusa
+para visitar a (EST_P).
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116641]
+(RIT)
+¡T-Tú no metas las narices!
+
+## POINTER 14 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944610]
+(YUR)
+Ah, vamos. Estamos todos juntos de nuevo. 
+Alegrémonos por ello.

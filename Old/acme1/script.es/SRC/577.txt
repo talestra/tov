@@ -1,0 +1,238 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1284570905]
+<STR>(KAR)
+¡Hola!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1284570905]
+Nobis
+¡Anda, Gran Vesperia!
+Gracias por vuestra ayuda
+la otra vez.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1284570905]
+<STR>(YUR)
+¿Qué pasó con
+la livianita después
+de aquello?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+Nobis
+Pues no tengo
+ni idea.<PAGE>A propósito, ¿os importaría
+buscarme algo de información?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1284571427]
+Nobis
+Un alma apasionada en un mar de llamas.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+<STR>(KAR)
+¡Es usted!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1284571427]
+Nobis
+Buenas.
+Perdonad que no sigamos en contacto.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1284571427]
+<STR>(YUR)
+¿Por qué deberías hacerlo?
+Lo único que hicimos fue entregar un paquete.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+Nobis
+Ah, tienes razón.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1284741299]
+<STR>(KAR)
+Yu nos dijo que hay algo
+que quiere que hagamos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1284571427]
+Nobis
+¿En serio? Oh, os estaría
+muy agradecidos.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1284571427]
+<STR>(JUD)
+Menos mal que sois amigos, ¿eh?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1284571427]
+Nobis
+La verdad es que tengo un trabajo
+para vosotros, si estáis interesados.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1284571427]
+<STR>(KAR)
+¿Un trabajo? ¿Eh?
+¿Para nosotros?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1284571427]
+Nobis
+Últimamente he oído hablar
+de vuestro gremio.<PAGE>Y creo que podéis
+encontrar la respuesta
+que busco.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+<STR>(KAR)
+Vamos, que quiere
+contratar a
+Gran Vesperia...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1284571427]
+Nobis
+Sí, eso es. Me gustaría
+que buscaseis información
+sobre algo en concreto.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1284571427]
+<STR>(YUR)
+¿Buscar información? Eso tiene toda la pinta
+de ser uno de esos trabajos que se alargan un montón.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+Nobis
+He intentado hacerlo yo mismo y también
+he pedido ayuda a otros gremios.<PAGE>Pero hasta ahora no hemos encontrado
+ni una pista que valiera la pena.<PAGE>Pero no pienso darme por vencido.
+Obtendré lo que quiero cueste lo que cueste.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+<STR>(JUD)
+Eso suena muy... serio.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1284571710]
+Nobis
+Sí. Para mí es algo
+extremadamente importante.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1284571710]
+<STR>(KAR)
+Extremadamente importante, ¿eh?
+¿Y qué es?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1284571710]
+Nobis
+El mineral de un metal llamado livianita.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1284571710]
+<STR>(KAR)
+Pero eso es...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+<STR>(JUD)
+La chica que nos pidió ayuda
+en Dahngrest... Su colgante
+estaba hecho de livianita.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+<STR>(YUR)
+Comentó que su padre lo excavó
+en una mina o algo por el estilo.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1284571710]
+Nobis
+¿En serio?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+<STR>(JUD)
+Sí. Tal vez consigamos
+más información si se
+lo preguntamos a ella.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+Nobis
+Espléndido.
+Os pagaré bien si me
+dais información útil.<PAGE>Dejad que os lo explique.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+<STR>(KAR)
+Pues sí que necesita la livianita.
+¿Para qué la va a usar?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1284731328]
+Nobis
+Un sueño por el que daría mi vida.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+<STR>(KAR)
+Un sueño por el que daría su vida...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934939]
+Nobis
+Perdonad, no os quiero aburrir
+con asuntos personales.
+¿Lo haréis?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:Lia;time:1284732085]
+<STR>(YUR)
+Danos un minuto, ¿vale?<PAGE>¿En serio podemos aceptar un trabajo
+sin consultárselo primero a la Unión?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935343]
+<STR>(KAR)
+La Unión no prohíbe
+que otros gremios
+trabajen por su cuenta.<PAGE>El sistema de la Unión es solo para
+ayudar a los gremios que no pueden
+conseguir tareas por sí mismos.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:Lia;time:1284732085]
+<STR>(JUD)
+Así que hemos
+ascendido
+como gremio.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935343]
+<STR>(KAR)
+Exacto. Y como no hay tasa
+por haber encontrado trabajo,
+¡nosotros nos lo llevamos todo!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:Lia;time:1284732085]
+<STR>(YUR)
+Ah, ya veo. Pues...
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:Lia;time:1284732085]
+¿Aceptas el trabajo?
+Sí
+No
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935343]
+<STR>(YUR)
+Supongo que lo mejor será
+ver si podemos hacerlo.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935343]
+Nobis
+¿En serio?
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935343]
+<STR>(KAR)
+¡De ninguna manera nos negaríamos a hacer
+algo que es tan importante para usted!<PAGE>Aceptamos esta tarea en nombre
+de la estrella que más brilla
+en la noche, Gran Vesperia.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:Lia;time:1284732085]
+Nobis
+Gracias. Cuento con vosotros.<PAGE>Estaré esperando en
+esta ciudad por si
+averiguáis algo.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935343]
+<STR>(YUR)
+Lo siento, pero tenemos
+otras cosas que hacer.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1291935343]
+Nobis
+Ya veo...
+Después de todo sois
+un gremio con buena reputación.<PAGE>Pero si os sobra el tiempo, ¿pasaréis por
+aquí y escucharéis lo que tengo que decir?
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:Lia;time:1284732085]
+<STR>(YUR)
+Faltaría más

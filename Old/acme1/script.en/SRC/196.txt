@@ -1,0 +1,104 @@
+## POINTER 0
+<STR>(YUR)
+Oh, so both of you were 
+here the whole time!
+
+## POINTER 1
+<STR>(FRE)
+<STR>(YUR), please watch your speech 
+in front of His Royal Highness.<PAGE>You could at least show due courtesy to 
+the gracious pardoner of your crimes.
+
+## POINTER 2
+Ioder
+It's okay, <STR>(FRE). Miss 
+<STR>(EST) and I acted 
+of our own volition.
+
+## POINTER 3
+<STR>(FRE)
+You've already heard about Princess 
+<STR>(EST) then, I see.
+
+## POINTER 4
+<STR>(YUR)
+Yeah, I heard.
+
+## POINTER 5
+<STR>(FRE)
+<STR>(YUR), I thought that traveling 
+with you would be to Her Highness' 
+own benefit, but...
+
+## POINTER 6
+Ioder
+The royal family can't be allowed to romp all 
+over the countryside without restraint.
+
+## POINTER 7
+<STR>(YUR)
+That's not very convincing, 
+coming from you.
+
+## POINTER 8
+Ioder
+Haha, I apologize. But now especially, it's 
+undesirable for the royal family's concerns 
+to be brought into the public eye.
+
+## POINTER 9
+<STR>(YUR)
+Concerns? You mean whether you 
+or the Princess is next in line 
+for the imperial throne?
+
+## POINTER 10
+Ioder
+Correct. There are currently two opinions, that of 
+the Imperial Knights, and that of the Council.
+
+## POINTER 11
+<STR>(FRE)
+Your Highness!
+
+## POINTER 12
+Ioder
+There's no use hiding any details from 
+him when he already knows so much.
+
+## POINTER 13
+Ioder
+The Imperial Knights are backing 
+my own ascension to the throne.<PAGE>Meanwhile, Miss <STR>(EST) has 
+the support of the Council.
+
+## POINTER 14
+<STR>(YUR)
+She's a princess, after all.
+
+## POINTER 15
+Ioder
+Yes, her relation may be a 
+distant one, but she's unmistakably 
+of royal blood.
+
+## POINTER 16
+<STR>(YUR)
+That's gotta be tough for the Knights, too.<PAGE>Even if she's the rival of their candidate 
+for the throne, it's not like they can just 
+stop protecting the Princess, is it?
+
+## POINTER 17
+<STR>(FRE)
+<STR>(YUR), this matter is...
+
+## POINTER 18
+<STR>(YUR)
+I don't know anyone odd enough to be 
+interested in information like this.
+
+## POINTER 19
+<STR>(YUR)
+Well, I'm going to go drop by <STR>(EST_P)'s 
+place, and then I'm gonna take a load 
+off at the inn. Thanks for the chat.

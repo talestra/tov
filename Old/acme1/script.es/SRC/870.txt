@@ -1,0 +1,177 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+
+Justo a tiempo. Me vendría
+bien algo de ayuda.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(YUR)
+¡¿Qué ha pasado?!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+
+Ha habido un desprendimiento.
+Estaban trayendo materiales
+de construcción...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(YUR)
+Parece que estáis algo desbordados.
+¿Podemos ayudar en alguna cosa?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766995]
+
+Sería genial.<PAGE>Nos estamos quedando sin agua.
+¿Podéis traer un poco del pozo?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(YUR)
+<STR>(KAR), viejales, ¿lo habéis oído?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+
+Todavía queda gente herida
+en el lugar del desprendimiento.<PAGE>Los Caballeros Imperiales han organizado
+un rescate, pero están cortos de personal.
+Si podéis ayudarlos...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(YUR)
+<STR>(JUD_P), ve tú con Ba'ul.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(YUR)
+De acuerdo, acompáñalos,
+<STR>(RAP).
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+
+Vosotros dos id a por suministros.<PAGE>Hay materiales en el cuartel de los
+Caballeros Imperiales. Llevadlos a
+la tienda para que sinteticen medicinas.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(YUR)
+Recibido.
+Vamos, <STR>(RIT).
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(EST_P)
+Doctor, he usado mis artes
+curativas con la gente de fuera.
+¿Cómo van las cosas aquí dentro?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+
+Ya casi he terminado por aquí.
+Pero hay más gente en camino.<PAGE>Encárgate de ellos
+por ahora.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766995]
+<STR>(EST_P)
+¡De acuerdo!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(YUR)
+Parece que las cosas se han calmado.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+
+Los que estaban fuera no presentaban
+heridas graves, así que los he enviado
+a casa en cuanto los he tratado.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(EST_P)
+Me alegro mucho
+de que nadie estuviera
+demasiado grave.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766995]
+
+Has aprendido bien los movimientos
+y técnicas de la sanación.<PAGE>¡Yo diría que vas por buen camino para
+convertirte en una sanadora de primera!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(EST_P)
+M-Mmmm...
+Sobre eso...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766995]
+
+¿Sí? ¿Qué ocurre, jovencita?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766995]
+<STR>(EST_P)
+¡No quiero ser sanadora! 
+¡¡Lo siento mucho!!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+
+Entiendo...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(EST_P)
+Creo que curar a la gente
+como doctor es algo maravilloso.
+Lo digo en serio.<PAGE>Pero ese no
+es mi sueño...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766995]
+
+Lo entiendo, lo entiendo. Parece
+que saqué conclusiones precipitadas.
+Soy yo el que debe disculparse.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(EST_P)
+En absoluto...
+Tendría que habérselo
+dicho mucho antes...<PAGE>Lo siento.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766478]
+
+No, no lo sientas.<PAGE>Además, sea cual sea tu ilusión,
+ya has demostrado ser una gran 
+co médico.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766478]
+<STR>(EST_P)
+¿Co-co médico?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766995]
+
+Alguien que no es ni doctor ni sanador,
+pero que ayuda a un doctor a tratar a
+sus pacientes.<PAGE>Permíteme que te dé esto, como reconocimiento a tu destreza.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(EST_P)
+Un gorro de enfermera...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766995]
+
+Estás dotada para
+la sanación,
+jovencita.<PAGE>Siempre que veas a alguien
+dolorido, usa este regalo
+para ayudarlos como puedas.<PAGE>Aunque no seas oficialmente una sanadora, aliviar
+el dolor de la gente es una de las cosas más
+maravillosas que se pueden hacer en este mundo.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(EST_P)
+¡Sí, tiene razón!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+
+Te deseo suerte en la
+persecución de tu sueño.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1294108793]
+<STR>(EST_P)
+Gracias.

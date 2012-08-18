@@ -1,0 +1,58 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298852905]
+<STR>(EST_P)
+¡Ah, <STR>(YUR)! Aunque seas un
+empleado, ¡no puedo dejar que
+entres en el baño de las chicas!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298853752]
+<STR>(YUR)
+Más que empleados somos trabajadores
+a tiempo parcial...<PAGE>En fin, he venido
+a ver si estabas
+dándolo todo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298853752]
+<STR>(EST_P)
+¡Sí, estoy trabajando
+mucho! ¡Mira, mira!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298853752]
+<STR>(YUR)
+Olé. ¿Y ese traje a
+qué viene? ¿Estamos
+ya en carnavales?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298852905]
+<STR>(EST_P)
+¡Ugh! ¡No!
+¡Soy una estilista!
+¡Una estilista!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298852905]
+<STR>(YUR)
+¿Una estitista?
+<STR>(EST_P) la estitusti...
+¿Estás de guasa?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298853752]
+<STR>(EST_P)
+¡Soy una masajista! ¡Les doy
+masajes a las mujeres y hago
+que se sientan de lo más guapas!<PAGE>¡Es duro, pero también divertido!
+Mientras lo hago hablo con mucha gente
+diferente, así que nunca no me aburro.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290442385]
+<STR>(YUR)
+Mmmm, bueno, me alegro
+de que te lo estés
+pasando bien. Sigue así.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290442385]
+<STR>(EST_P)
+¡Claro! ¡Y no te
+escaquees, <STR>(YUR)!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290442385]
+<STR>(YUR)
+Que sí, que sí.

@@ -1,0 +1,120 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1290188666]
+<STR>(EST_P)
+<VOICE>(VA030_113)¿Qué? ¡¿Qué está pasando?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293283054]
+Duke
+<VOICE>(VA030_114)Imposible...
+Es la espiral draco...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1293386835]
+<STR>(JUD)
+<VOICE>(VA030_115)¡Las armas perdidas están
+reaccionando con la Dein Nomos!
+¡¿Y qué es esa luz que rodea a Duke?!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551375]
+<STR>(RIT)
+<VOICE>(VA030_116)¡La Dein Nomos y la torre se están
+combinando para restablecer el poder
+de las armas perdidas! Pero ¡¿cómo?!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1293386835]
+<STR>(RAV)
+<VOICE>(VA030_117)¡¿Que'stá pasando?!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293386835]
+<STR>(EST_P)
+<VOICE>(VA030_118)¿Es esta la verdadera forma
+de las armas perdidas?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1292765662]
+<STR>(KAR)
+<VOICE>(VA030_119)¡No se parecen en nada
+a como eran antes!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293387605]
+Duke
+<VOICE>(VA030_120)¡Ahora el antiguo rey
+de los entelechia
+luchará a mi lado!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1292765662]
+Duke
+<VOICE>(VA030_121)Es la voluntad del mismísimo
+planeta. ¡La voluntad de
+Terca Lumireis!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1292765662]
+<STR>(YUR)
+<VOICE>(VA030_122)¡Me la sudan tus
+ideas de loco!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1292765662]
+<STR>(YUR)
+<VOICE>(VA030_123)Nosotros decidimos lo que
+está bien y lo que está mal.
+El resto se lo dejo a mi espada.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1292765662]
+Duke
+<VOICE>(VA030_124)Ya veo que no os podré convencer.
+Tal vez sea lo mejor.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1292765662]
+Duke
+<VOICE>(VA030_125)¡Únete a mí en esta batalla,
+por el bien de este mundo!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1293386835]
+Duke
+<VOICE>(VS65_181)Perdóname... Elucifur...
+No he podido... mantener mi promesa...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485001]
+<STR>(YUR)
+<VOICE>(VS65_182)Uff, uff...<PAGE><VOICE>(VS65_183)No sé qué clase de personalidad
+tenía Elucifur, así que igual esto
+no significa gran cosa viniendo de mí.<PAGE><VOICE>(VS65_184)Pero si él luchó del lado de los
+humanos durante la Gran Guerra,<PAGE><VOICE>(VS65_185)no creo yo que hubiera
+querido que su amigo le
+diera la espalda a la humanidad.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1290188666]
+Duke
+<VOICE>(VS65_186)El deseo de Elucifur...<PAGE><VOICE>(VS65_187)Era proteger el mundo...
+La paz para todos
+los seres vivos...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1290188666]
+<STR>(KAR)
+<VOICE>(VS65_188)¡<STR>(YUR)! ¡Deprisa!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1290188666]
+<STR>(YUR)
+<VOICE>(VS65_189)Ya voy.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1290188666]
+<STR>(RIT)
+<VOICE>(VS65_190)Allá vamos... <STR>(EST_P), sincronízate.
+<STR>(JUD), échame una mano.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1290188666]
+<STR>(EST_P)
+<VOICE>(VS65_191)¡Vale!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1290188666]
+<STR>(JUD)
+<VOICE>(VS65_192)Entendido.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1290188666]
+<STR>(RIT)
+<VOICE>(VS65_193)¡<STR>(YUR), adelante!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1290188666]
+<STR>(RAV)
+<VOICE>(VS65_194)¡Contamos contigo, jefe!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1290188666]
+<STR>(YUR)
+<VOICE>(VS65_195)¡Aaaah!

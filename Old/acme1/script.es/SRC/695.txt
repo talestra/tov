@@ -1,0 +1,354 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1287522136]
+
+¿Qué tal unas hermosas flores para 
+regalar a sus padres? ¿Su hermana? 
+¿A la novia? Eh, usted...<PAGE>Ah, eres tú...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(EST_P)
+¿Usted no es la señora del orfanato?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(KAR)
+¡Así que es florista!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+
+N-No... 
+No exactamente...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(EST_P)
+Entonces, ¿por qué vende flores?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(JUD)
+Necesitas dinero, ¿verdad?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+
+Pu-pues...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(RIT)
+Ah, claro. Supongo que como
+Yeager se ha ido, el orfanato
+se ha quedado sin dinero.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+
+Por desgracia, así es...
+Alquilamos el edificio a un
+hombre muy conocido en el pueblo.<PAGE>Pero como ya no recibimos
+ningún donativo de Yeager,
+no podemos pagar las deudas.<PAGE>Y además del alquiler, también necesitamos
+dinero para dar de comer a los niños...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(RAV)
+¿No hay críos fuera currando?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+
+Todos luchan por ganarse la vida.
+No podemos pedirles ayuda para esto.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+¿Y qué hay de esas chicas del orfanato?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:miyu;time:1280423463]
+
+Gauche y Droite están en la misma situación.<PAGE>Trabajaban para Yeager.
+<PAGE>Pero ahora que ha fallecido, 
+seguramente lo estarán pasando
+tan mal como todos.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+
+Oh, señor...
+¿Le gustaría comprar flores?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(KAR)
+¿De verdad crees que a este paso
+podrá pagar la deuda?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+Algo ganará, claro,
+pero no sé yo si podrá 
+con la deuda...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(RIT)
+Da un poco de
+pena verlo, ¿no?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(EST_P)
+Coja esto, por favor. Seguro que
+lo podrá vender por mucho dinero.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(YUR)
+¡Hala, espera! 
+¿Seguro que quieres
+regalar esto?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(EST_P)
+Solo hago lo que el
+Imperio debería haber
+hecho ya. Nada más.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(KAR)
+Pero si se lo das, no te quedará
+nada que demuestre que eres
+de la familia imperial.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(EST_P)
+No importa. Aunque
+no lo tenga no
+cambiará quién soy.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(JUD)
+Antes de que sigáis...
+¿Cuánto necesitas exactamente?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+
+Pues... Nos debería bastar
+con 500.000 gald.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(JUD)
+Nos llega.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(KAR)
+Sí, claro que lo
+tenemos, pero sigue
+siendo mucha pasta...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(YUR)
+Ya...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+¿Dar 500.000 gald?
+Dar
+No dar
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:miyu;time:1280423463]
+<STR>(YUR)
+Te daremos los
+500.000 gald.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551170]
+<STR>(KAR)
+Pero ¡¿qué dices!?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(RIT)
+¡No seas agarrado, niño!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+
+No puedo permitir que
+me deis tanto dinero
+de vuestro bolsillo...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+No te lo estamos
+dando nosotros.<PAGE>¿No es así, <STR>(EST_P)?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(EST_P)
+¿Eh? ¿Cómo?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+Tú misma has dicho que hacías
+lo que el Imperio debería haber
+hecho ya, ¿no?<PAGE>
+Pues esta vez nos encargamos nosotros;
+pero tendrán que devolvérnoslo.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(EST_P)
+¿Eh? Quieres decir que...
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+Cuando regreses, mira a ver si
+consigues que el Consejo nos devuelva
+el dinero que damos al orfanato.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(EST_P)
+S-Sí...
+¡Lo haré!
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+
+¿De qué estáis hablando?
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+Piensa en este dinero como una ayuda del Imperio.
+Así no te sentirás mal por aceptarlo.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+
+Mmm... No lo acabo
+de entender, pero...
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(YUR)
+Es un coñazo
+explicarlo.
+Hazlo tú, <STR>(KAR).
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(KAR)
+¿Quién? ¿Yo?
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+Te gusta explicar cosas, ¿no?
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(KAR)
+N-No especialmente...
+Pero lo intentaré.
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(KAR)
+Ha dicho que trabajará
+duro y nos lo devolverá,
+pero...
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+El Imperio será quien lo haga.
+¿Verdad, <STR>(EST_P)?
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(EST_P)
+Se lo preguntaré a Ioder.
+Si se niega... lo siento.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(KAR)
+¡¿Cómo que «lo siento»?!
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+Ya nos preocuparemos de eso cuando
+toque. Solo te pedimos que presiones
+un poco a Su Alteza.
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(EST_P)
+¡Haré lo
+que pueda!
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:miyu;time:1280422164]
+<STR>(YUR)
+Bien, en marcha.
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:miyu;time:1280423463]
+Información
+Has pagado 500.000 gald.
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:miyu;time:1280422639]
+<STR>(YUR)
+Es mucho dinero. No tenemos por qué
+tomar una decisión ahora mismo.
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:miyu;time:1280422639]
+<STR>(KAR)
+Bien dicho, <STR>(YUR).
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:miyu;time:1280423077]
+<STR>(EST_P)
+Supongo que la única
+solución es darle mi...
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+Por mucho que valga,
+no creo que sea suficiente.
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:miyu;time:1280423077]
+<STR>(EST_P)
+Pero...
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+Tranquilicémonos y pensemos con calma 
+si podremos arreglárnoslas aunque
+le demos el dinero.
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+Siento no poder ayudarte
+ahora mismo...
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:miyu;time:1280423077]
+
+No, tranquilos...
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(JUD)
+Es una suma considerable.
+Me temo que no tenemos tanto dinero.
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:miyu;time:1280423077]
+<STR>(EST_P)
+Supongo que la única solución es darle mi...
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+Podemos esforzarnos 
+y ahorrar un poco,
+¿no creéis?
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(EST_P)
+Quieres decir que...
+
+## POINTER 65 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(RIT)
+Quiere decir que entendemos
+cómo te sientes, <STR>(EST_P), y
+que queremos ayudar, ¿verdad?
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(YUR)
+Sí... se podría decir así.
+
+## POINTER 67 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+<STR>(KAR)
+Volveremos cuando hayamos ahorrado
+lo suficiente. ¡Tenga paciencia! ♪
+
+## POINTER 68 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+
+¿Qué? Yo... 
+¿De verdad?...
+
+## POINTER 69 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+
+Uff... ¿Qué puedo hacer?
+Ojalá tuviera 500.000 gald...
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:memnoch;time:1294363982]
+¿Dar 500.000 gald?
+Dar
+No dar

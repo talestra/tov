@@ -1,0 +1,89 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955714]
+
+Pero qué...
+¡Nunca imaginé que
+pudieseis con eso!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1283555699]
+<STR>(RIT)
+¿Y ahora qué,
+niño? ¡Admite
+tu derrota!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955714]
+
+¡Flipas colorines!
+¡Aún tengo más!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955714]
+<STR>(RAV)
+Leñe, ¡este chavalín
+no sabe qué es rendirse! 
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1283555699]
+<STR>(KAR)
+Me recuerda a alguien...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1283558077]
+
+Pero admito que lo habéis
+hecho muy bien hasta ahora.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1283555699]
+<STR>(YUR)
+Eh, ¡por fin
+dices algo amable!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955714]
+
+Tomad,
+para vosotros.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1283555699]
+<STR>(EST_P)
+¿Qué es?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1283558077]
+
+Es rocío condensado de los
+fluidos corporales de Krones.
+Dejad que se lo beba Azul.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1283558077]
+<STR>(YUR)
+Es Ba'ul.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955714]
+<STR>(JUD)
+¿Qué pasará
+cuando lo haga?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955714]
+
+Si tu dragón es débil
+contra el hielo, ¡dejará
+de serlo cuando se lo beba!<PAGE>También será capaz
+de aterrizar en el hielo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1283558077]
+<STR>(JUD)
+¡Vaya! ¿No te importa
+darnos algo tan útil?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955714]
+
+¡Pero no os paséis de listos
+solamente porque os haya dado
+un buen premio!<PAGE>¡Porque os va a tocar
+un recorrido
+ultra difícil!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1283558077]
+<STR>(RIT)
+¡Ja!
+¡Pues vale!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955714]
+<STR>(RAV)
+¿Por qué <STR>(RIT) está haciendo
+d'intermediaria otra vez?

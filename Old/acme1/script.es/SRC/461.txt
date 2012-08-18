@@ -1,0 +1,25 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285460187]
+<STR>(JUD)
+Qué raro. Ese monstruo hay
+veces que nos molesta y otras
+veces que nos deja en paz.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283645646]
+<STR>(YUR)
+Ya. No me gusta un pelo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283645646]
+<STR>(KAR)
+Si vamos por hielo grueso creo
+que no tenemos que preocuparnos
+de que nos ataque...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283645646]
+<STR>(RIT)
+Volvamos a tierra
+firme cuanto antes.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285460221]
+<STR>(RAV)
+¡Y a un sitio en el que
+haga más ca...! ¡Aaaachís!

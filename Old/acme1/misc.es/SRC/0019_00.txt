@@ -1,0 +1,299 @@
+## POINTER 0 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Posada y taberna «Cometa»
+
+## POINTER 1 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604636]
+Habitación de <STR>(YUR)
+
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263043310]
+Fortuna Mercantil (capital imperial)
+
+## POINTER 3 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604636]
+Castillo de Zaphias
+
+## POINTER 4 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604636]
+Residencia de Mordio
+
+## POINTER 5 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604636]
+Comedor
+
+## POINTER 6 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604636]
+Habitación de <STR>(FRE)
+
+## POINTER 7 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+Habitación de <STR>(EST)
+
+## POINTER 8 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+Sala de audiencias
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196710]
+¿?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196710]
+¿?
+
+## POINTER 22 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+∀∀∀∀∀
+
+## POINTER 23 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Gremio de los topógrafos «Sótano del Mundo»
+
+## POINTER 24 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+Fortuna Mercantil
+
+## POINTER 25 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Depósito de suministros «Adecor»
+
+## POINTER 26 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#06
+
+## POINTER 27 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#07
+
+## POINTER 28 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#08
+
+## POINTER 29 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#09
+
+## POINTER 30 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605085]
+#10
+
+## POINTER 31 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#11
+
+## POINTER 32 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#12
+
+## POINTER 33 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#13
+
+## POINTER 34 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#14
+
+## POINTER 35 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#15
+
+## POINTER 36 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#16
+
+## POINTER 37 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#17
+
+## POINTER 38 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#18
+
+## POINTER 39 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+#19
+
+## POINTER 40 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604815]
+Puesto de guardia
+
+## POINTER 41 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604895]
+Almacén
+
+## POINTER 42 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Puesto de venta «Vega»
+
+## POINTER 43 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604895]
+Cabina
+
+## POINTER 50 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604895]
+Residencia del alcalde
+
+## POINTER 51 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727908]
+Bazar «Régulo»
+
+## POINTER 52 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Posada «Denébola»
+
+## POINTER 60 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257604963]
+Fortuna Mercantil (Aspio)
+
+## POINTER 61 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263043310]
+Salón «Estante de libros»
+
+## POINTER 62 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605085]
+Cabaña de <STR>(RIT)
+
+## POINTER 70 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Posada «Pólux»
+
+## POINTER 71 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605085]
+Fortuna Mercantil (Nor)
+
+## POINTER 72 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605085]
+Palacio del magistrado
+
+## POINTER 73 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1261922235]
+Casa del maestro de los dados 
+
+## POINTER 80 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605410]
+Hogar del farero
+
+## POINTER 81 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605410]
+Almacén de Torim
+
+## POINTER 82 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263046752]
+Fortuna Mercantil (sede)
+
+## POINTER 83 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Posada «Pólux T»
+
+## POINTER 84 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605410]
+Fortuna Mercantil (Torim)
+
+## POINTER 90 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263046752]
+Sede de los Caballeros
+
+## POINTER 91 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605410]
+Posada y tienda
+
+## POINTER 92 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Posada «Betelgeuse»
+
+## POINTER 93 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605410]
+Fortuna Mercantil (Heliord)
+
+## POINTER 100 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605410]
+Fortuna Mercantil (Dahngrest)
+
+## POINTER 101 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605410]
+Fortuna Mercantil (Dahngrest 1)
+
+## POINTER 102 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605410]
+Fortuna Mercantil (Dahngrest 2)
+
+## POINTER 103 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605410]
+Fortuna Mercantil (Dahngrest 3)
+
+## POINTER 104 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Posada «Arturo»
+
+## POINTER 105 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Taberna «Estrellas Carmesíes»
+
+## POINTER 106 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Taberna «Sagitario»
+
+## POINTER 107 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263046752]
+Sede del gremio la Unión
+
+## POINTER 108 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605548]
+Habitación del Don
+
+## POINTER 109 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605548]
+Prisión
+
+## POINTER 110 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263043310]
+Estadio de cocina «Bistró Agujero Negro»
+
+## POINTER 120 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605625]
+Coliseo
+
+## POINTER 121 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Posada «Fomalhaut»
+
+## POINTER 122 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605884]
+Fortuna Mercantil (Nordopólica 1)
+
+## POINTER 123 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605884]
+Fortuna Mercantil (Nordopólica 2)
+
+## POINTER 124 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727908]
+Bazar «Supernova»
+
+## POINTER 125 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263043310]
+Recepción del coliseo (torneo individual)
+
+## POINTER 126 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263043310]
+Recepción del coliseo (torneo por equipos)
+
+## POINTER 127 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263043310]
+Coliseo (torneo especial)
+
+## POINTER 128 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605884]
+Coliseo
+
+## POINTER 129 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605884]
+Habitación de Belius
+
+## POINTER 130 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605884]
+Almacén de Nordopólica
+
+## POINTER 131 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605884]
+Fortuna Mercantil (Nordopólica)
+
+## POINTER 140 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Posada «Antares»
+
+## POINTER 141 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605884]
+Fortuna Mercantil (Mantaic)
+
+## POINTER 150 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Posada «Septentriones»
+
+## POINTER 151 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727908]
+Bazar «Estrella Polar»
+
+## POINTER 152 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605884]
+Residencia del Sabio
+
+## POINTER 153 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727908]
+Soplón de síntesis
+
+## POINTER 160 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727908]
+Bazar «Deneb»
+
+## POINTER 161 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605884]
+Almacén de Myorzo
+
+## POINTER 162 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257605884]
+Residencia del anciano
+
+## POINTER 163 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262469786]
+Chris el Experto
+
+## POINTER 170 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262727795]
+Posada «Canopo»
+
+## POINTER 171 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606070]
+Fortuna Mercantil
+
+## POINTER 172 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606070]
+Fortuna Mercantil (Aurnion 1)
+
+## POINTER 173 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606070]
+Fortuna Mercantil (Aurnion 2)
+
+## POINTER 174 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263046752]
+Sede de Aurnion
+
+## POINTER 175 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606070]
+Almacén
+
+## POINTER 176 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606070]
+Dojo del maestro espadachín
+
+## POINTER 177 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606070]
+Fortuna Mercantil
+
+## POINTER 180 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606070]
+Cabina
+
+## POINTER 190 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606070]
+Taquillas para los zapatos
+
+## POINTER 191 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606070]
+Gimnasio
+
+## POINTER 192 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606070]
+Galería de tiro
+
+## POINTER 193 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1261922209]
+Mostrador de premios 
+
+## POINTER 194 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606070]
+Póquer
+
+## POINTER 195 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1261922209]
+Shooter 2D

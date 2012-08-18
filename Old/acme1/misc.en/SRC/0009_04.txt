@@ -1,0 +1,299 @@
+## POINTER 400
+Second Continent/18（Gentleman: Match)/Weather B
+
+## POINTER 401
+Second Continent/19（Giant Bee: Speed)/Weather AB
+
+## POINTER 402
+Second Continent/19（Giant Bee: Base Type)/Weather AB
+
+## POINTER 403
+Second Continent/24（Wolf: One Horn) 1/Weather AB
+
+## POINTER 404
+Second Continent/24（Sworpion: Sword) 1/Weather AB
+
+## POINTER 405
+Second Continent/24（Fire Spirit: Crystal) 1/Weather AB
+
+## POINTER 406
+Second Continent/24（Yellow Roper) 1/Weather AB
+
+## POINTER 407
+Third Continent/61/62/64（Wolf: Strong Tail)/Weather AB
+
+## POINTER 408
+Third Continent/61/62/64（Mantis: Strong Scythe)/Weather AB
+
+## POINTER 409
+Third Continent/61/62/64（Eagle: Base Type)/Weather AB
+
+## POINTER 410
+Third Continent/61/62/64（Polwigle: Squirrel)/Weather AB
+
+## POINTER 411
+Third Continent/61/62/64（Gaina Firefly)/Weather B
+
+## POINTER 412
+Third Continent/66（Spider: Cactus)/Weather AB
+
+## POINTER 413
+Third Continent/66（Roctus: Cactus)/Weather AB
+
+## POINTER 414
+Third Continent/65/67/69（Axe Beak)/Weather AB
+
+## POINTER 415
+Third Continent/65/67/69（Dagger)/Weather AB
+
+## POINTER 416
+Third Continent/65/67/69（Roctus: Base Type)/Weather A
+
+## POINTER 417
+Third Continent/65/67/69（Roctus: Base Type)/Weather B
+
+## POINTER 418
+Third Continent/70/72/73（Axe Beak)/Weather AB
+
+## POINTER 419
+Third Continent/70/72/73（Dagger)/Weather AB
+
+## POINTER 420
+Third Continent/70/72/73（Human Staff)/Weather AB
+
+## POINTER 421
+Third Continent/70/72/73（Axe Polwigle)/Weather AB
+
+## POINTER 422
+Third Continent/70/72/73（Dryad)/Weather B
+
+## POINTER 423
+Third Continent/68（Axe Beak)/Weather A
+
+## POINTER 424
+Third Continent/68（Roctus: Base Type)/Weather A
+
+## POINTER 425
+Third Continent/68（Axe Beak)/Weather B
+
+## POINTER 426
+Third Continent/68（Roctus: Base Type)/Weather B
+
+## POINTER 427
+Third Continent/74（Axe Beak)/Weather AB
+
+## POINTER 428
+Third Continent/74（Treant: Dead Tree）/Weather AB
+
+## POINTER 429
+Third Continent/74（Superstar Red)/Weather B
+
+## POINTER 430
+Third Continent/75（Filifolia: Base Type)/Weather A
+
+## POINTER 431
+Third Continent/75（Mandragora: Filifolia)/Weather A
+
+## POINTER 432
+Third Continent/75（Balloon: Filifolia)/Weather A
+
+## POINTER 433
+Third Continent/75（Filifolia: Bud)/Weather A
+
+## POINTER 434
+Third Continent/75（Filifolia: Base Type)/Weather B
+
+## POINTER 435
+Third Continent/75（Mandragora: Filifolia)/Weather B
+
+## POINTER 436
+Third Continent/75（Balloon: Filifolia)/Weather B
+
+## POINTER 437
+Third Continent/75（Filifolia: Bud)/Weather B
+
+## POINTER 438
+Third Continent/71（Gentleman)/Weather A
+
+## POINTER 439
+Third Continent/71（Gentleman)/Weather B
+
+## POINTER 440
+Fourth Continent/63（Wolf)/Weather A
+
+## POINTER 441
+Fourth Continent/63（Mantis）/Weather A
+
+## POINTER 442
+Fourth Continent/63（Chirpee: Hand)/Weather A
+
+## POINTER 443
+Fourth Continent/63（Wolf)/Weather B
+
+## POINTER 444
+Fourth Continent/63（Mantis）/Weather B
+
+## POINTER 445
+Fourth Continent/63（Chirpee: Hand)/Weather B
+
+## POINTER 446
+Fourth Continent/55/57/58（Bird Polwigle）/Weather AB
+
+## POINTER 447
+Fourth Continent/55/57/58（Rabbit Polwigle）/Weather AB
+
+## POINTER 448
+Fourth Continent/55/57/58（Wolf Spotted)/Weather AB
+
+## POINTER 449
+Fourth Continent/55/57/58（Tortoise)/Weather AB
+
+## POINTER 450
+Fourth Continent/55/57/58（Fat Ribbit)/Weather AB
+
+## POINTER 451
+Fourth Continent/55/57/58/60（Mandragora: Bird Polwigle）/Weather B
+
+## POINTER 452
+Fourth Continent/55/57/58（Egg Bear: Wolfman)/Weather B
+
+## POINTER 453
+Fourth Continent/60（Bird Polwigle）/Weather A
+
+## POINTER 454
+Fourth Continent/60（Wolf Spotted)/Weather A
+
+## POINTER 455
+Fourth Continent/60（Tortoise)/Weather A
+
+## POINTER 456
+Fourth Continent/60（Fat Ribbit)/Weather A
+
+## POINTER 457
+Fourth Continent/60（Bird Polwigle）/Weather B
+
+## POINTER 458
+Fourth Continent/60（Wolf Spotted)/Weather B
+
+## POINTER 459
+Fourth Continent/60（Tortoise)/Weather B
+
+## POINTER 460
+Fourth Continent/60（Fat Ribbit)/Weather B
+
+## POINTER 461
+Fourth Continent/56（Octopus Ghost)/Weather AB
+
+## POINTER 462
+Fourth Continent/56（Insect Plant)/Weather B
+
+## POINTER 463
+Fourth Continent/53/54（Rabbit Polwigle）/Weather A
+
+## POINTER 464
+Fourth Continent/53/54（Wolf Spotted)/Weather A
+
+## POINTER 465
+Fourth Continent/53/54（Tortoise)/Weather A
+
+## POINTER 466
+Fourth Continent/53/54（Human: Two-Handed)/Weather A
+
+## POINTER 467
+Fourth Continent/53/54（Spike Shoulder Bear)/Weather A
+
+## POINTER 468
+Fourth Continent/53/54（Rabbit Polwigle）/Weather B
+
+## POINTER 469
+Fourth Continent/53/54（Wolf Spotted)/Weather B
+
+## POINTER 470
+Fourth Continent/53/54（Tortoise)/Weather B
+
+## POINTER 471
+Fourth Continent/53/54（Human: Two-Handed)/Weather B
+
+## POINTER 472
+Fourth Continent/53/54（Spike Shoulder Bear)/Weather B
+
+## POINTER 473
+Fourth Continent/52（Fat Ribbit)/Weather A
+
+## POINTER 474
+Fourth Continent/52（Human: Two-Handed)/Weather A
+
+## POINTER 475
+Fourth Continent/52（Spike Shoulder Bear)/Weather A
+
+## POINTER 476
+Fourth Continent/52（Fat Ribbit)/Weather B
+
+## POINTER 477
+Fourth Continent/52（Human: Two-Handed)/Weather B
+
+## POINTER 478
+Fourth Continent/52（Spike Shoulder Bear)/Weather B
+
+## POINTER 479
+Fourth Continent/59（Gentleman)/Weather A
+
+## POINTER 480
+Fourth Continent/59（Gentletear)/Weather B
+
+## POINTER 481
+Fifth Continent/48/49/50/51（Stone Tortoise)/Weather A
+
+## POINTER 482
+Fifth Continent/48/49/50/51（Skunk)/Weather A
+
+## POINTER 483
+Fifth Continent/48/49/50/51（Killer Bee)/Weather A
+
+## POINTER 484
+Fifth Continent/48/49/50/51（Stone Tortoise)/Weather B
+
+## POINTER 485
+Fifth Continent/48/49/50/51（Skunk)/Weather B
+
+## POINTER 486
+Fifth Continent/48/49/50/51（Killer Bee)/Weather B
+
+## POINTER 487
+Fifth Continent/50（Superstar Black）/Weather B
+
+## POINTER 488
+Sixth Continent/2/3/4/5/6/7/9/10/11（Treant: Pine)/Weather A
+
+## POINTER 489
+Sixth Continent/2/3/4/5/6/7/9/10/11（Mantis)/Weather A
+
+## POINTER 490
+Sixth Continent/2/3/4/5/6/7/9/10/11（Goblin: Mushroom)/Weather A
+
+## POINTER 491
+Sixth Continent/2/3/4/5/6/7/9/10/11（Boar: Rhino）/Weather A
+
+## POINTER 492
+Sixth Continent/2/3/4/5/6/7/9/10/11（Treant: Pine)/Weather B
+
+## POINTER 493
+Sixth Continent/2/3/4/5/6/7/9/10/11（Mantis)/Weather B
+
+## POINTER 494
+Sixth Continent/2/3/4/5/6/7/9/10/11（Goblin: Mushroom)/Weather B
+
+## POINTER 495
+Sixth Continent/2/3/4/5/6/7/9/10/11（Boar: Rhino）/Weather B
+
+## POINTER 496
+Sixth Continent/10（Griffin)/Weather AB
+
+## POINTER 497
+Sixth Continent/11（Goblin: Judas)/Weather B
+
+## POINTER 498
+Sixth Continent/1（Balloon Ghost: Big Face)/Weather AB
+
+## POINTER 499
+Sixth Continent/1（Superstar S）1/Weather B

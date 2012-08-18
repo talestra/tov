@@ -1,0 +1,312 @@
+## POINTER 471
+Increases the duration of Over Limit.
+
+## POINTER 472
+High Tension
+
+## POINTER 473
+Increases rate at which Over Limit gauge fills.
+
+## POINTER 474
+Taunt & Evade
+
+## POINTER 475
+Taunt an enemy to avoid being targeted.
+
+## POINTER 476
+Taunt Gamble
+
+## POINTER 477
+Taunt to raise or drop enemy status for
+a short time. There is a 50% chance of their status raising or falling.
+
+## POINTER 478
+Member Taunt
+
+## POINTER 479
+Over Limit gauge fills more quickly when
+taunting near an ally.
+
+## POINTER 480
+Double Appeal
+
+## POINTER 481
+Taunt consecutively to fill Over Limit gauge
+more quickly.
+
+## POINTER 482
+Fatal Finish
+
+## POINTER 483
+Recover full HP upon successfully completing a
+Fatal Strike combo with a certain number of hits.
+
+## POINTER 484
+Fatal Finish Plus
+
+## POINTER 485
+Fully recovers HP and TP upon a successful
+Fatal Strike after a series of FS chains.
+
+## POINTER 486
+Speed Up
+
+## POINTER 487
+Increases the speed of normal attacks
+during Over Limit.
+
+## POINTER 488
+Speed Up 2
+
+## POINTER 489
+Increases the speed of artes attacks
+during Over Limit.
+
+## POINTER 490
+Alembic
+
+## POINTER 491
+Changes an arte. Can be learned
+if used repeatedly.
+
+## POINTER 492
+Gale
+
+## POINTER 493
+Changes an arte. Can be learned
+if used repeatedly.
+
+## POINTER 494
+Link Slash
+
+## POINTER 495
+Avoids entering a battle from a link encounter.
+
+## POINTER 496
+Motion Change
+
+## POINTER 497
+Changes standby and moving motion.
+
+## POINTER 498
+Play Dead
+
+## POINTER 499
+Hold <06>(LTD) while knocked down to
+recover your HP and TP.
+
+## POINTER 500
+Holy Breath
+
+## POINTER 501
+Extends the amount of time Holy Bottle is in effect.
+
+## POINTER 502
+Dark Breath
+
+## POINTER 503
+Extends the amount of time Dark Bottle is in effect.
+
+## POINTER 504
+Encounter Bonus
+
+## POINTER 505
+Encounter an enemy symbol from the rear
+to occasionally recover the entire party's TP upon entering a battle.
+
+## POINTER 506
+Shooter's Position
+
+## POINTER 507
+Take position by pressing the guard button
+twice. Attack power will increase. Press the guard button twice again to cancel.
+
+## POINTER 508
+Quick Arrow 2
+
+## POINTER 509
+Decreases amount of time needed to fire an arrow,
+but power decreases. Limited to normal attacks only.
+
+## POINTER 510
+Vitality
+
+## POINTER 511
+Increases Max HP by 200.
+
+## POINTER 512
+Vitality 2
+
+## POINTER 513
+Increases Max HP by 400.
+
+## POINTER 514
+Vitality 3
+
+## POINTER 515
+Increases Max HP by 800.
+
+## POINTER 516
+Vitality 4
+
+## POINTER 517
+Increases Max HP by 1200.
+
+## POINTER 518
+Spirits
+
+## POINTER 519
+Increases Max TP by 20.
+
+## POINTER 520
+Spirits 2
+
+## POINTER 521
+Increases Max TP by 50.
+
+## POINTER 522
+Spirits 3
+
+## POINTER 523
+Increases Max TP by 100.
+
+## POINTER 524
+Spirits 4
+
+## POINTER 525
+Increases Max TP by 150.
+
+## POINTER 526
+Lucky Plus
+
+## POINTER 527
+Increases default luck by 15.
+
+## POINTER 528
+Lucky Plus 2
+
+## POINTER 529
+Increases default luck by 30.
+
+## POINTER 530
+Defend Conversion
+
+## POINTER 531
+Adds 25% of M. DEF value to P. DEF.
+
+## POINTER 532
+Resist Conversion
+
+## POINTER 533
+Adds 25% of P. DEF value to M. DEF.
+
+## POINTER 534
+Combat Force
+
+## POINTER 535
+Converts 25% of HP to the same amount of TP.
+If HP->75%, then TP->125%.
+
+## POINTER 536
+Item Pro 2
+
+## POINTER 537
+Increases duration and effect of items used
+during battle.
+
+## POINTER 538
+Item Pro 3
+
+## POINTER 539
+Increases duration and effect of items used
+during battle even more.
+
+## POINTER 540
+Lucky Item
+
+## POINTER 541
+Occasionally, item used will not be consumed
+after it has been used.
+
+## POINTER 542
+Item Support
+
+## POINTER 543
+Standby allies occasionally uses items on
+active allies from outside the battlefield.
+
+## POINTER 544
+Full Check
+
+## POINTER 545
+Able to see all enemy info with a single
+Magic Lens.
+
+## POINTER 546
+Scanning
+
+## POINTER 547
+Displays remaining HP over enemy with
+Magic Lens.
+
+## POINTER 548
+Inspector
+
+## POINTER 549
+Able to view enemy details when switching
+targets without using Magic Lens.
+
+## POINTER 550
+Aerial Tension
+
+## POINTER 551
+Recovers TP for every 3‐hit combos in midair.
+
+## POINTER 552
+Rally
+
+## POINTER 553
+Standby characters will occasionally cheer
+on allies. Slightly fills the OVL gauge.
+
+## POINTER 554
+Training LP
+
+## POINTER 555
+Characters on standby will receive the same
+amount of LP as active allies.
+
+## POINTER 556
+Easy Finish
+
+## POINTER 557
+Extends the FB frame duration, but bonus
+is reduced.
+
+## POINTER 558
+Advanced Finish
+
+## POINTER 559
+Shortens the FB frame duration, but bonus
+is increased.
+
+## POINTER 560
+Heal Support
+
+## POINTER 561
+Standby allies will occasionally use heal magic
+on active allies.
+
+## POINTER 562
+Medical Boost
+
+## POINTER 563
+Strength of cure spell proportional to remaining
+HP. Strength increases by 1.5 times with Max HP.
+
+## POINTER 564
+Medical Smash
+
+## POINTER 565
+Strength of heal arte proportional to remaining
+HP. Strength increases by 1.5 times with Max HP.

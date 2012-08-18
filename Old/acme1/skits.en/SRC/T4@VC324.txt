@@ -1,0 +1,70 @@
+## POINTER 0
+The Old Man's Cooking
+
+## POINTER 1
+(RAV)
+Don't ya think ya've made ol' 
+(RAV) cook enough lately? Come 
+on, somebody switch with me!
+
+## POINTER 2
+(RIT)
+You're kidding. No way.
+
+## POINTER 3
+(EST_P)
+You're a better cook than I am, too... 
+Please, keep up the good work.
+
+## POINTER 4
+(YUR)
+It's all you.
+
+## POINTER 5
+(JUD)
+I like your cooking!
+
+## POINTER 6
+(RAV)
+Why won't anybody trade 
+places with me?!
+
+## POINTER 7
+(KAR)
+Maybe there's a good reason for that?
+
+## POINTER 8
+(KAR)
+And besides, your cooking tastes good.
+
+## POINTER 9
+(RAV)
+Well, I'm sure yer happy with 
+that, but I don't wanna do it!
+
+## POINTER 10
+(RIT)
+So you shouldn't have to cook 
+just because you don't want 
+to? How selfish can you get?
+
+## POINTER 11
+(RAV)
+...Selfish? You're one ta talk!
+
+## POINTER 12
+(YUR)
+But cooking the food yourself is 
+a good way to avoid forgetting when 
+you last ate, don't you think?
+
+## POINTER 13
+(RAV)
+True, true, lately my memory's 
+been jus' horrib-- Wait a sec, 
+my memory's not THAT bad!
+
+## POINTER 14
+(RAV)
+*Sigh* Just how much of an old 
+fart do you think I am...?

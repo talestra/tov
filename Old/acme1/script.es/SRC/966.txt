@@ -1,0 +1,27 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959845]
+<STR>(KAR)
+¡Agh!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295176120]
+<STR>(YUR)
+No nos asustes así...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1295176120]
+Efreet
+¡La tierra de las llamas
+abrasadoras, el Valle Infernal!
+¡Noto su poder!<PAGE>¡Humanos, esperad y ved!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551862]
+<STR>(KAR)
+¿Que esperemos y veamos?
+Pero ¿qué...?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959845]
+<STR>(YUR)
+Vosotros siempre hacéis
+lo que os apetece, ¿eh?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1295176120]
+<STR>(EST_P)
+¡M-Mirad eso!

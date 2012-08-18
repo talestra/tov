@@ -1,0 +1,100 @@
+## POINTER 0
+
+Hello, fine visitors, and welcome to 
+the Yumanju Hot Spring Spa!
+
+## POINTER 1
+<STR>(KAR)
+Hey, what is 
+this place?
+
+## POINTER 2
+
+Sir, you have arrived at Yumanju Hot 
+Spring Spa, home of the finest open-air 
+baths that Terca Lumireis has to offer!<PAGE>The Yumanju springs are 
+famous the world over.
+
+## POINTER 3
+<STR>(RAV)
+What's an open-air bath?
+
+## POINTER 4
+<STR>(EST_P)
+It's a hot spring where you go 
+outside to take a bath and relax.
+
+## POINTER 5
+<STR>(RIT)
+Take a bath outside? I've never 
+heard of anything like it.
+
+## POINTER 6
+
+I think you'll find that it feels 
+quite nice, and liberating, too!
+
+## POINTER 7
+<STR>(YUR)
+I just get in the bathtub and hop 
+right out as soon as I'm clean. 
+Who cares how "nice" it is?
+
+## POINTER 8
+<STR>(EST_P)
+<STR>(YUR), it's best for your 
+body if you soak for 
+a while and relax.
+
+## POINTER 9
+<STR>(JUD)
+Open-air baths, huh? Sounds like quite a sight to 
+see. I wonder what it feels like to sit in them.
+
+## POINTER 10
+<STR>(KAR)
+Oh wow, this sounds great! 
+I want to go in! ♪
+
+## POINTER 11
+<STR>(RAV)
+I think it sounds like quite a sight to 
+see, too! If you know what I mean. *Wink*
+
+## POINTER 12
+<STR>(RIT)
+......
+
+## POINTER 13
+<STR>(EST_P)
+Can we go in?
+
+## POINTER 14
+
+Unfortunately, you 
+cannot! You cannot!
+
+## POINTER 15
+<STR>(KAR)
+Whaaaat!! Why can't 
+we go in? You 
+big meanie!
+
+## POINTER 16
+
+I assure you, I am not a "meanie." The baths 
+are simply being cleaned right now.
+
+## POINTER 17
+<STR>(RAV)
+Seriously? What 
+a tease!
+
+## POINTER 18
+<STR>(JUD)
+Let's come back the next time we get a chance.
+
+## POINTER 19
+
+I am terribly sorry! We look 
+forward to your next visit!

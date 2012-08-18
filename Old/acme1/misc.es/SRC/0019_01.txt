@@ -1,0 +1,167 @@
+## POINTER 196 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606172]
+Teatro
+
+## POINTER 197 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262469352]
+Mostrador de fichas
+
+## POINTER 198 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606172]
+Reproductor de skits - V
+
+## POINTER 199 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606172]
+Reproductor de vídeos - V
+
+## POINTER 200 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263043324]
+Taquilla
+
+## POINTER 210 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606172]
+La fuente de calor, Yumanju
+
+## POINTER 211 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606172]
+Fortuna Mercantil (Yumanju)
+
+## POINTER 220 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606172]
+La capital imperial, Zaphias
+
+## POINTER 221 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606172]
+Fuerte Deidon
+
+## POINTER 222 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262728349]
+La ciudad de las flores, Halure
+
+## POINTER 223 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1262985099]
+La Academia Sellada, Aspio 
+
+## POINTER 224 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257610066]
+La ciudad portuaria, Capua Nor
+
+## POINTER 225 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257610066]
+La ciudad portuaria, Capua Torim
+
+## POINTER 226 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262989203]
+La Ciudad en Alza, Heliord 
+
+## POINTER 227 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257610066]
+El refugio de los gremios, Dahngrest
+
+## POINTER 228 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262989203]
+La Ciudad Coliseo, Nordopólica
+
+## POINTER 229 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262989203]
+El Oasis del Desierto, Mantaic
+
+## POINTER 230 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257610066]
+La ciudad en calma, Yormgen 
+
+## POINTER 231 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1262289329]
+El hogar de los krityanos, Myorzo
+
+## POINTER 232 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262989203]
+La Tierra de la Esperanza, Aurnion
+
+## POINTER 233 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257610066]
+La ciudad de Flynn
+
+## POINTER 234 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257610066]
+El navío Esperanza y Gloria, Fiertia
+
+## POINTER 235 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262989203]
+El Lugar Feliz, isla de Nam Cobandai
+
+## POINTER 236 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257610066]
+La fuente de calor, Yumanju
+
+## POINTER 237 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+Bosques de Quoi
+
+## POINTER 238 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+Ruinas de Shaikos
+
+## POINTER 239 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+Colina de Ehmead
+
+## POINTER 240 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+La ciudad en ruinas, Caer Bocram
+
+## POINTER 241 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+Bosque de Keiv Moc
+
+## POINTER 242 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262989203]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 243 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+El barco fantasma, Atherum
+
+## POINTER 244 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262989203]
+La caverna de Cados
+
+## POINTER 245 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262989203]
+Las Arenas de Kogorh
+
+## POINTER 246 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262989203]
+La Mansión de los Infames 
+
+## POINTER 247 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+Monte Temza
+
+## POINTER 248 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+El templo olvidado, Baction 
+
+## POINTER 249 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+La fortaleza móvil, Heracles
+
+## POINTER 250 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1262989203]
+Los Bancos Afilados de Zopheir 
+
+## POINTER 251 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+Bosque de Egothor
+
+## POINTER 252 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+El santuario eterno de Zaude
+
+## POINTER 253 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621415]
+Las tierras cristalinas de Erealumen
+
+## POINTER 254 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257622596]
+Cañón de Relewiese 
+
+## POINTER 255 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257622596]
+La antigua torre de Tárcaron
+
+## POINTER 256 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606232]
+Aer krene (Ilyccia)
+
+## POINTER 257 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606232]
+Aer krene (Tolbyccia)
+
+## POINTER 258 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606232]
+Aer krene (Desier)
+
+## POINTER 259 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257606232]
+Aer krene (Yurzorea)
+
+## POINTER 260 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263002141]
+El Laberinto de los Recuerdos
+
+## POINTER 261 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621519]
+Risco de Phaeroh
+
+## POINTER 262 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621519]
+Noreste de Hypionia
+
+## POINTER 269 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621519]
+Zaphias (barrios bajos)
+
+## POINTER 270 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1257621519]
+Zaphias (distrito público)
+
+## POINTER 271 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263002721]
+Zaphias (distrito real)
+
+## POINTER 272 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263002721]
+Heliord (campo de trabajo)
+
+## POINTER 273 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263002721]
+Las Arenas de Kogorh (sur)
+
+## POINTER 274 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263002721]
+Las Arenas de Kogorh (norte)

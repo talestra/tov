@@ -1,0 +1,55 @@
+## POINTER 0
+<STR>(KAR)
+Look over there!
+
+## POINTER 1
+<STR>(YUR)
+Heracles...! Alexei brought 
+out the big guns, I see.
+
+## POINTER 2
+<STR>(JUD)
+...That's the Entelexeia, 
+Astal.<PAGE>Alexei's still trying to 
+get apatheia, it seems.
+
+## POINTER 3
+<STR>(RIT)
+It looked like it got away, though.
+
+## POINTER 4
+<STR>(YUR)
+Yeah, it looked like it was 
+forced into those ruins.
+
+## POINTER 5
+<STR>(JUD)
+Those ruins definitely 
+appear to be the temple, 
+Baction.
+
+## POINTER 6
+<STR>(KAR)
+I wonder what Alexei's 
+plotting this time.
+
+## POINTER 7
+<STR>(RIT)
+It doesn't matter 
+what Alexei's planning 
+to do.
+
+## POINTER 8
+<STR>(YUR)
+Right. We're just here 
+to rescue <STR>(EST_P).
+
+## POINTER 9
+<STR>(JUD)
+But if we get too close like this, 
+we'll end up like Astal.
+
+## POINTER 10
+<STR>(YUR)
+Let's land a little bit away from 
+it and approach on the ground.

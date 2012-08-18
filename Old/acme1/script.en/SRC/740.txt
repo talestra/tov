@@ -1,0 +1,180 @@
+## POINTER 0
+<STR>(RIT)
+Come to think of it, 
+I forgot to ask.<PAGE>You said you were looking 
+for a book. Why?
+
+## POINTER 1
+<STR>(JUD)
+Oh, did I 
+say that?
+
+## POINTER 2
+<STR>(RIT)
+You can stop playing dumb, <STR>(JUD). I'm 
+not going to fall for it anymore.
+
+## POINTER 3
+<STR>(JUD)
+...He's my dad.
+
+## POINTER 4
+<STR>(RIT)
+Huh? Who is?
+
+## POINTER 5
+<STR>(JUD)
+Hermes.
+
+## POINTER 6
+<STR>(RIT)
+...Huh...?<PAGE>What...?!<PAGE>What the...? I mean, how... But you...? 
+And you broke all those blastia...?
+
+## POINTER 7
+<STR>(JUD)
+I destroyed the blastia precisely because 
+it was my dad who'd made them.
+
+## POINTER 8
+<STR>(RIT)
+W-why didn't you tell me that sooner? Don't 
+you think that's important to know?!
+
+## POINTER 9
+<STR>(JUD)
+I don't really think the connection between Hermes 
+and myself is that important, myself...
+
+## POINTER 10
+<STR>(RIT)
+...*Sigh*... You don't seem to 
+realize the importance of sharing 
+any of your knowledge...<PAGE>So? You were destroying the blastia your father 
+had made...to atone for his mistakes?
+
+## POINTER 11
+<STR>(JUD)
+No, I'm hardly that noble. I 
+was just trying to clean up his 
+mess before anyone noticed.
+
+## POINTER 12
+<STR>(RIT)
+What do you mean...? So, you weren't 
+doing it for the planet...you 
+were doing it for your father?
+
+## POINTER 13
+<STR>(JUD)
+Yes...I guess so.
+
+## POINTER 14
+<STR>(RIT)
+I can't understand how you could 
+feel that sort of sympathy. 
+I don't have a father, so...
+
+## POINTER 15
+<STR>(JUD)
+You don't remember your father?
+
+## POINTER 16
+<STR>(RIT)
+He left right after I was 
+born. There's no way 
+I could remember him.<PAGE>I hardly even remember what my 
+own mother's face looked like.
+
+## POINTER 17
+<STR>(JUD)
+...I see.
+
+## POINTER 18
+<STR>(RIT)
+What's that...?
+
+## POINTER 19
+<STR>(JUD)
+It's a keepsake of my dad. A thermo blastia, 
+used to measure the temperature.<PAGE>He created some things that 
+weren't harmful, too...
+
+## POINTER 20
+<STR>(RIT)
+Hermes must have been really 
+amazing... To create new blastia 
+so easily like that...
+
+## POINTER 21
+<STR>(JUD)
+You can have it.
+
+## POINTER 22
+<STR>(RIT)
+What do you mean? Isn't it 
+a memento of your father?
+
+## POINTER 23
+<STR>(JUD)
+That's why I'm giving it to you.
+
+## POINTER 24
+<STR>(RIT)
+That's why you're...what?
+
+## POINTER 25
+<STR>(JUD)
+...I think you'd be a better person 
+to have it than I would. I don't 
+know much about blastia, anyway.<PAGE>Don't you think it's better for the 
+blastia if you're holding onto it?
+
+## POINTER 26
+<STR>(RIT)
+Wait, but why should I...?
+
+## POINTER 27
+<STR>(JUD)
+You should keep the blastia. Think 
+of it as...for its own good.
+
+## POINTER 28
+<STR>(RIT)
+B-but...
+
+## POINTER 29
+<STR>(JUD)
+All right, how about we call it a night?
+
+## POINTER 30
+<STR>(RIT)
+Ah...
+
+## POINTER 31
+<STR>(JUD)
+Good night!
+
+## POINTER 32
+<STR>(RIT)
+......
+Good 
+night...
+
+## POINTER 33
+<STR>(JUD)
+...Feel free to give it a name, if you'd like.
+
+## POINTER 34
+<STR>(RIT)
+But... I mean...<PAGE>All right then, Juana it is...
+
+## POINTER 35
+<STR>(JUD)
+Tee hee... That's a cute 
+name... I'm sure she's 
+quite happy with it.
+
+## POINTER 36
+<STR>(RIT)
+...Juana...

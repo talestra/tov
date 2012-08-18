@@ -1,0 +1,54 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1285409269]
+<STR>(RAV)
+¿Qué pinta aquí un viejo
+qu'ha visto mejores días?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298488181]
+<STR>(YUR)
+¿De qué te quejas, viejales?
+¿Qué es eso de que
+has visto mejores días?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298488181]
+<STR>(RAV)
+Mmmm. Lo que <STR>(JUD) nos estaba
+contando antes... los blastias hermes,
+¿verdá?<PAGE>Blastias creados con técnicas
+que deberían haberse perdío
+pero que siguen activas...<PAGE>¿Te das cuenta de
+lo que quiere decir esto?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298488181]
+<STR>(YUR)
+Supongo que alguien que sobrevivió
+a la guerra trajo consigo
+esos blastias o técnicas. 
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1282842739]
+<STR>(RAV)
+Si esa persona siguiese usando
+esos blastias aún sabiendo que
+son perjudiciales pa el planeta...<PAGE>Alguien así estaría
+hecho tó un bellaco. 
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1282842739]
+<STR>(YUR)
+Viejales, no me digas que tú...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027176]
+<STR>(RAV)
+Quieto parao. Por aquel entonces
+este menda solo era un joven inocente,
+como Dios manda.<PAGE>No haría algo así
+ni en mis peores días.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298488181]
+<STR>(YUR)
+Je, tan solo intentaba engañarte
+para que te descubrieras un poco.
+¡Eres duro de pelar!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298488181]
+<STR>(RAV)
+¡Serás hijo de...! ¡A ver cuándo aprendes
+a mostrar algo de respeto por tus mayores!

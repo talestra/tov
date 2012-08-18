@@ -1,0 +1,52 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253562095]
+Y dura... y dura...
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133983]
+(KAR)
+Escuchad, me gustaría decir algo importante.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298124455]
+(RIT)
+Qué coincidencia.
+Yo también quería decir algo.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133983]
+(KAR)
+¡Salgamos de este desierto!
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133983]
+(RIT)
+¡Salgamos de este desierto!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298124455]
+(RAV)
+¿Eso es tó? Yo creo que
+deberíais intentar disfrutar
+d'este caluroso y arenoso paisaje.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133983]
+(EST_P)
+¿Cómo quieres que disfrutemos de esto?
+Tenemos que salir de aquí pero ya.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133983]
+(YUR)
+Démonos prisa...
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133983]
+(RAV)
+(JUD), ¡apóyame!
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133983]
+(JUD)
+Hay que encontrar una salida...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298124455]
+(RAV)
+¡Vamo'!
+
+## POINTER 11 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133983]
+(RAV)
+Qué lamentable... Supongo que
+habrá que decidirse ya si salir
+de verdá o continuar...

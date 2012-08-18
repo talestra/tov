@@ -1,0 +1,139 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VA012_001)Here it is, darlin'. Your very 
+own Everlight necklace.
+
+## POINTER 1
+Rhianna
+<VOICE>(VA012_002)Ah...oh my gosh...! Thank 
+you so much...! Where 
+did you ever find it?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VA012_003)Well, you see...
+
+## POINTER 3
+Rhianna
+<VOICE>(VA012_004)Oh, wow...what a miracle. 
+Thank goodness... Now, 
+for your reward...
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VA012_005)Oh, your love is 
+reward enough...!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA012_006)Settle down, old man...
+
+## POINTER 6
+
+<VOICE>(VA012_007)Rhianna...!
+
+## POINTER 7
+Rhianna
+<VOICE>(VA012_008)You...where have 
+you been...!
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VA012_009)You're that man...from Heliord...
+
+## POINTER 9
+
+<VOICE>(VA012_010)Hey! You! Rhianna, 
+how do you know 
+these people...?
+
+## POINTER 10
+Rhianna
+<VOICE>(VA012_011)They were looking 
+for my necklace.
+
+## POINTER 11
+
+<VOICE>(VA012_012)What the..! Oh, so that's 
+why you were...!
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VA012_013)That's right!
+So, who the hell are you?
+
+## POINTER 13
+
+<VOICE>(VA012_014)I'm an old friend of hers!
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VA012_015)An "old friend," huh... *grumble*
+
+## POINTER 15
+Rhianna
+<VOICE>(VA012_016)You know, you are really annoying. Could 
+you just shut up for a minute? Please?
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VA012_017)All right, I can take a hint...
+
+## POINTER 17
+Rhianna
+<VOICE>(VA012_018)Where were you all this time?
+I've been looking for you.
+
+## POINTER 18
+
+<VOICE>(VA012_019)I've been out looking 
+for your necklace.<PAGE><VOICE>(VA012_020)The necklace that you said was 
+a memento of your father...<PAGE><VOICE>(VA012_021)But I couldn't find it...
+
+## POINTER 19
+Rhianna
+<VOICE>(VA012_022)Don't worry. There's a reason that 
+I wanted to find it myself.<PAGE><VOICE>(VA012_023)In the end I had to get some help 
+from these people, but...
+
+## POINTER 20
+Rhianna
+<VOICE>(VA012_024)I wanted to be the one to give you this, 
+as a symbol of our engagement...
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VA012_025)Huh? Engagement...?
+
+## POINTER 22
+
+<VOICE>(VA012_026)You did that for me...?
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VA012_027)I think we should be on our way..
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VA012_028)Oh? But what about our payment...?
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VA012_029)Consider it a wedding present.<PAGE><VOICE>(VA012_030)Right, <STR>(KAR)...?
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VA012_031)He's gone.
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VA012_032)Hmm? He was right 
+here a moment ago.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VA012_033)Maybe something came up again.<PAGE><VOICE>(VA012_034)Hey old man, let's go!
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VA012_035)Huh? Oh, right...

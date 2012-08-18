@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314421]
+Cocinero imperial
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314421]
+(EST_P)
+¡(YUR), la comida que has hecho estaba
+muy rica! ¡Puede que hasta mejor que la
+que hacen los cocineros del castillo!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112038]
+(RAP)
+¡Guau!
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266669558]
+(YUR)
+No vas a conseguir nada
+haciéndome la pelota, ¿sabes?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112207]
+(EST_P)
+(YUR), ¿y si te haces
+cocinero en el castillo?
+¡Puedo recomendarte!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112207]
+(RAP)
+¡Guau, guau!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112207]
+(YUR)
+Tú sí que sabes cómo
+elogiar a un chico, (EST_P).
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314421]
+(EST_P)
+Aunque deberías hacer algo con tu pelo.
+El personal de la cocina se lo toma
+todo muy en serio.
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314421]
+(YUR)
+¿Tan en serio como tú?

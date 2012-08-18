@@ -1,0 +1,30 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1251715876]
+No parece un terremoto
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297112141]
+(EST_P)
+¿Seguro que esta ciudad la destruyó un terremoto? 
+Todos los edificios tienen una forma extraña...
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531214]
+(YUR)
+Ya. No tienen ninguna pinta de haberse derrumbado
+por un temblor de tierra... Aquí pasa algo raro.
+
+## POINTER 3 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1264126199]
+(KAR)
+Sí, pero entonces... ¿cómo fue destruida?
+
+## POINTER 4 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531214]
+(YUR)
+Ni idea. Tal vez lo averigüemos si encontramos
+a alguien que viviera en el pueblo.
+
+## POINTER 5 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531214]
+(RIT)
+Pero no estamos aquí por eso.
+¿Por qué debería importarnos?
+
+## POINTER 6 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531214]
+(YUR)
+La verdad es que no te falta razón.

@@ -1,0 +1,89 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160770]
+<STR>(KAR)
+<VOICE>(VA013_001)¿Estás de broma? ¡Esa cosa
+aún nos está siguiendo!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160770]
+<STR>(YUR)
+<VOICE>(VA013_002)No creo que vaya
+a por nosotros.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1284742665]
+<STR>(RIT)
+<VOICE>(VA013_003)¿Crees que quiere la livianita?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1284742665]
+<STR>(YUR)
+<VOICE>(VA013_004)Probablemente.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160770]
+
+<VOICE>(VA013_005)¡¡Detente!!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1284742665]
+<STR>(YUR)
+<VOICE>(VA013_006)Esa voz...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160770]
+<STR>(KAR)
+<VOICE>(VA013_007)¡D-De dónde has salido!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160770]
+Zagi
+<VOICE>(VA013_008)¿Adónde te crees que vas
+con esas prisas, <STR>(YUR)? ¿Mmm?<PAGE><VOICE>(VA013_009)Tenemos todo el tiempo del mundo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160770]
+<STR>(YUR)
+<VOICE>(VA013_010)Como que nos pillas
+en un mal momento...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1284742665]
+Zagi
+<VOICE>(VA013_011)¡Gah, ja, ja, ja! ¡Nunca es
+un buen momento cuando estás
+al alcance de mi acero!<PAGE><VOICE>(VA013_012)¡<STR>(YUR) Lowell!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1284742665]
+Zagi
+<VOICE>(VA013_013)¿Eh? ¿Y tú quién puñetas eres?
+¡¡No te metas!!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1284742665]
+Zagi
+<VOICE>(VA013_014)¡Jamás podrías satisfacerme!<PAGE><VOICE>(VA013_015)¿Quieres morir primero? ¿Eh?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1284742665]
+Zagi
+<VOICE>(VA013_016)Mmpf. Eres un mierda...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1284742665]
+<STR>(RIT)
+<VOICE>(VA013_017)¿Nos vamos?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160770]
+<STR>(YUR)
+<VOICE>(VA013_018)Sí, no quiero meterme en batallas
+sin sentido, ¿verdad <STR>(KAR)?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160770]
+<STR>(KAR)
+<VOICE>(VA013_019)S-Sí. Además, no tenemos
+tiempo para esto.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160770]
+Zagi
+<VOICE>(VA013_020)¡Gyaaaaah! ¡¡Voy a arrancarte
+tu horrible cabeza, monstruo!!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160770]
+<STR>(KAR)
+<VOICE>(VA013_021)Me pregunto si estará bien...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160785]
+<STR>(JUD)
+<VOICE>(VA013_022)¿A quién te refieres?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160770]
+<STR>(KAR)
+<VOICE>(VA013_023)Uh... Mmm...

@@ -1,0 +1,312 @@
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262271341]
+Chico de barrio
+
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265207228]
+Un zagal de los barrios bajos de Zaphias buscado por
+los Caballeros Imperiales, aunque no parece importarle.
+
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Vigilante
+
+## POINTER 5 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265185049]
+Aquel que se niega a obedecer la ley
+pero decide tomarse la justicia por su mano.
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Superviviente
+
+## POINTER 7 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Has sobrevivido a muchos encuentros con la muerte.
+¿No será que la suerte se te está acabando?
+
+## POINTER 8 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Soldado certificado
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Detestas la desagradable verdad de ser un caballero.
+Pero merece la pena creer en algunas de sus virtudes.
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Ejecutor oscuro
+
+## POINTER 11 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265185654]
+Destruyes el mal con tu espada de luz,
+pero también eres presa de la justicia de la ley.
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261919583]
+Caballero de corazón
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+No hace falta estar hasta arriba de medallas
+para que te reconozcan como un auténtico caballero.
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Improvisador
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265207228]
+Un maestro del fino arte de la improvisación.
+Es capaz de superar a los más reputados actores.
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Amante de las camisetas sin mangas
+
+## POINTER 17 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265207228]
+¡La mejor manera de relajarse tras una ducha!
+Ojalá todos los viajes fueran tan plácidos.
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Esperanza de la ciudad
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Muchos sueños y esperanzas dependen de tu éxito.
+Si tan solo hubiera alguien con quien compartir esta carga.
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265185654]
+Chef corriente
+
+## POINTER 21 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Eres hábil con el cuchillo y tienes buen gusto.
+¿Hay algo que no sepas hacer?
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Celebridad del reino
+
+## POINTER 23 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Ya sea para bien o para mal,
+todo el mundo conoce tu nombre.
+
+## POINTER 24 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Guardián de los recuerdos
+
+## POINTER 25 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+El dinero no puede comprar tus recuerdos.
+
+## POINTER 26 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Maestro sensorial
+
+## POINTER 27 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Tus sentidos y perspicacia no tienen parangón.
+Estás entre lo mejor de lo mejor.
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+León oscuro
+
+## POINTER 29 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265185654]
+El rey de todas las bestias.
+El emblema del león negro luce alto y orgulloso.
+
+## POINTER 30 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Cazador de tesoros
+
+## POINTER 31 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265185654]
+No se te escapa ningún cofre... ¡aunque estén vacíos!
+
+## POINTER 32 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Espadachín principiante
+
+## POINTER 33 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Aquel que practica el estilo básico de los Caballeros
+Imperiales al tiempo que añade toques del suyo propio.
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Espadachín hábil
+
+## POINTER 35 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Aquel que corta a sus enemigos como el viento.
+¡Adelante!
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Maestro espadachín
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Aquel cuyo nombre pasará a la posteridad.
+
+## POINTER 38 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Espadachín legendario
+
+## POINTER 39 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265217699]
+Tu habilidad sobrepasa la de los mejores espadachines.
+
+## POINTER 40 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262270065]
+Novato de los combos
+
+## POINTER 41 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Prueba de que alguien ha empezado a acostumbrarse
+al arte de los combos. ¡La batalla acaba de empezar!
+
+## POINTER 42 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262270065]
+Jefe de los combos
+
+## POINTER 43 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265185654]
+Un ducho usuario de combos entre los aventureros.
+Todavía puedes seguir mejorando.
+
+## POINTER 44 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Maestro de los combos
+
+## POINTER 45 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265217699]
+¡Tanta práctica ha dado sus frutos!
+¡Eres todo un profesional!
+
+## POINTER 46 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Rey de los combos
+
+## POINTER 47 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265185654]
+Prueba de que alguien ha dominado el arte
+de los combos letales a base de perseverancia.
+
+## POINTER 48 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262271114]
+Golpeador fatídico
+
+## POINTER 49 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265185654]
+Aquel que puede acabar con sus enemigos de un solo golpe.
+¡De ahí lo de golpeador fatídico!
+
+## POINTER 50 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265185654]
+Bersérker
+
+## POINTER 51 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265185654]
+Has luchado hasta convertirte en un dios de la guerra.
+
+## POINTER 52 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Repudiador de objetos
+
+## POINTER 53 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+Te cuesta prescindir de cosas, pero no acumularlas.
+
+## POINTER 100 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Sanadora del castillo
+
+## POINTER 101 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Título entregado a una chica misteriosa
+con artes curativas que intentó escapar del castillo.
+
+## POINTER 102 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Sucesora real
+
+## POINTER 103 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265217699]
+Aquella que mantiene su identidad en secreto.
+En realidad es la sucesora al trono.
+
+## POINTER 104 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Bella encantadora
+
+## POINTER 105 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+Aquella que aún no se ha dado cuenta
+de su encanto natural y aura carismática.
+
+## POINTER 106 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Buscadora de la Verdad
+
+## POINTER 107 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Estigmatizada por un monstruo gigante como el veneno
+del mundo, continúa su viaje en busca de la verdad.
+
+## POINTER 108 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Princesa decidida
+
+## POINTER 109 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Aquella que se mantiene firme en sus convicciones
+incluso ante las peores adversidades.
+
+## POINTER 110 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Camarera gentil
+
+## POINTER 111 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+Amable y considerada, siempre tratas
+a los demás con suma cortesía y respeto.
+
+## POINTER 112 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+Paramédico entregada
+
+## POINTER 113 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+Una sanadora fiel a su deber.
+Pero no mimes en exceso a tus pacientes.
+
+## POINTER 114 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Princesa noble
+
+## POINTER 115 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265217699]
+¡Eres firme en tus convicciones a pesar de ser
+de la realeza! Vives tu vida con nobles virtudes.
+
+## POINTER 116 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Masajista terapéutica
+
+## POINTER 117 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265217699]
+¡Tu toque curativo puede sanar
+cualquier dolor mental o físico!
+
+## POINTER 118 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Princesa curiosa
+
+## POINTER 119 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265217699]
+¡Aquella que le fascina todo lo que la rodea!
+
+## POINTER 120 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Cordon Bleu
+
+## POINTER 121 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+¡La práctica hace la perfección!
+¡Estudiar las recetas de mamá también ayuda!
+
+## POINTER 122 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Tejedora de cuento de hadas
+
+## POINTER 123 [t:1;r:1;ru:parsec;user:parsec;time:1271619758]
+Poética pero sentimental,
+recordarás sus historias para siempre.
+
+## POINTER 124 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Objetomaníaca
+
+## POINTER 125 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+¿Maníaca? ¿Significa alguien que sabe mucho de objetos?
+
+## POINTER 126 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Actriz heroica
+
+## POINTER 127 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265217699]
+¡Qué talento! ¡Qué voz! ¡Qué gracilidad al bailar!
+Deberían nominarte para algún premio.
+
+## POINTER 128 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Ruiseñor combatiente
+
+## POINTER 129 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+Fuerte pero grácil. Tu preciosa voz
+parece resonar por todo el campo de batalla.
+
+## POINTER 130 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Amiga del alma
+
+## POINTER 131 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+La querida amiga de Rita.
+Una amistad que durará hasta el fin de los tiempos.
+
+## POINTER 132 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Aventurera mundial
+
+## POINTER 133 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+A pesar de tu estatus real,
+usas tu fortaleza para combatir el mal.
+
+## POINTER 134 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263809803]
+Doncella mágica
+
+## POINTER 135 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+Mágica y mística, todos adoran tu grácil presencia.
+
+## POINTER 136 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+Sanadora
+
+## POINTER 137 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+Una atractiva sanadora que cuida con delicadeza
+a sus aliados en el campo de batalla.
+
+## POINTER 138 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265206601]
+Clérigo
+
+## POINTER 139 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261883407]
+¡No es solo una cara bonita! ¡Su majestuosa
+presencia está a la altura de cualquier caballero!

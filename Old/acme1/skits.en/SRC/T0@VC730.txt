@@ -1,0 +1,57 @@
+## POINTER 0
+Lots of Books
+
+## POINTER 1
+(KAR)
+This city sure has a lot of books.
+
+## POINTER 2
+(YUR)
+I'm not really too crazy about 
+reading. I'm gonna have a hard 
+time sleeping in this place.
+
+## POINTER 3
+(KAR)
+Yeah, you seem like you're too jittery to sit 
+still and look at something for too long.
+
+## POINTER 4
+(YUR)
+You're one to talk.
+
+## POINTER 5
+(KAR)
+Hey, what happened 
+to (EST_P)?
+
+## POINTER 6
+(YUR)
+She's been over there reading 
+books ever since we got here.
+
+## POINTER 7
+(EST_P)
+......
+
+## POINTER 8
+(KAR)
+(EST_P)! Time to get going!
+
+## POINTER 9
+(EST_P)
+......
+
+## POINTER 10
+(YUR)
+Once she starts reading, you can't pull her away.
+
+## POINTER 11
+(EST_P)
+Huh? Did you say something?
+This seems to be literature 
+from an ancient civilization!
+
+## POINTER 12
+(YUR)
+She's not even listening.

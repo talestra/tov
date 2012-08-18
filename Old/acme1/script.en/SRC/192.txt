@@ -1,0 +1,135 @@
+## POINTER 0
+Nan
+<VOICE>(VS17_105)Something comes up, and it's just 
+*poof*, you're gone! Always, always 
+running away by yourself!
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS17_106)It-It's not like that!
+
+## POINTER 2
+Nan
+<VOICE>(VS17_107)Not like what?!
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS17_108)Like I said, back in Halure...
+
+## POINTER 4
+Nan
+<VOICE>(VS17_109)I'm not talking 
+about Halure!
+
+## POINTER 5
+Nan
+<VOICE>(VS17_110)If you're not ashamed of 
+anything, then shouldn't you 
+hurry back to your friends?
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS17_111)It's just that...
+
+## POINTER 7
+Nan
+<VOICE>(VS17_112)No need to explain to me. I think you've 
+got other people who'll listen to you.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS17_113)Huh...?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS17_114)Guys...
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS17_115)<STR>(KAR), I'm so glad 
+you're safe.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS17_116)Where the hell did 
+you go? We were really 
+in a jam back there.
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS17_117)I'm... I'm sorry...
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS17_118)Hey, at least you made 
+it out in one piece.
+
+## POINTER 14
+Nan
+<VOICE>(VS17_119)I'm leaving.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS17_120)Wait...
+
+## POINTER 16
+Nan
+<VOICE>(VS17_121)You think long and hard about 
+what you've done. That's all 
+I have to say to you.
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS17_122)Hey, cut it out!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS17_123)Let's get going, <STR>(KAR). 
+We're all tired.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS17_124)<STR>(YUR)...
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS17_125)Man, we were way off. The Blood 
+Alliance was nowhere to be seen.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS17_126)No kidding. We'll have to take 
+any information that guy gives 
+us with a grain of salt.
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS17_127)"Guy"...? You 
+don't mean...?
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS17_128)Yeah.
+
+## POINTER 24
+<STR>(RIT)
+<VOICE>(VS17_129)Ooh! I am gonna roast 
+that deadbeat the moment 
+I see him.
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS17_130)Let's...let's take it 
+easy on the way back.
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS17_131)...It's not like I...
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS17_132)Hey! You're gonna get left behind!
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS17_133)I'm coming!

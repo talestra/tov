@@ -1,0 +1,313 @@
+## POINTER 96 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263223096]
+Combo plus 2
+
+## POINTER 97 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263223096]
+Añade dos golpes más al ataque normal.
+
+## POINTER 98 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263223096]
+Combo plus 3
+
+## POINTER 99 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263223096]
+Añade tres golpes más al ataque normal.
+
+## POINTER 100 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263146953]
+Paso combo
+
+## POINTER 101 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025300]
+Pulsa <06>(ATK) mientras retrocedes
+para realizar un ataque en salto.
+
+## POINTER 102 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Rompedragones
+
+## POINTER 103 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Pulsa <06>(LTD) + <06>(ATK) durante el salto
+para activar un ataque Rompedragones.
+
+## POINTER 104 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263223300]
+Embestida poderosa
+
+## POINTER 105 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263223300]
+Pulsa y mantiene <06>(ATK) para aumentar la
+fuerza del primer golpe de un ataque.
+
+## POINTER 106 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263624708]
+Mantener embestida
+
+## POINTER 107 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Mantiene cargada una Embestida poderosa
+incluso después de un fallo.
+
+## POINTER 108 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Embestida veloz
+
+## POINTER 109 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Reduce la velocidad de carga
+de una Embestida poderosa.
+
+## POINTER 110 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Embestida aplastante
+
+## POINTER 111 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025282]
+Rotura de guardia al enemigo durante una
+Embestida poderosa. Súper armadura excluida.
+
+## POINTER 112 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263625108]
+Embestida de artes
+
+## POINTER 113 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Capaz de acumular ataques para artes ofensivas.
+Debe equiparse la Embestida poderosa.
+
+## POINTER 114 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263253855]
+Tiro infinito
+
+## POINTER 115 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263253855]
+Dispara flechas continuamente manteniendo <06>(ATK).
+A veces hace retroceder a los enemigos.
+
+## POINTER 116 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263253855]
+Defensor
+
+## POINTER 117 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Un aliado inactivo se une brevemente
+a la batalla y ataca con Filo azur.
+
+## POINTER 118 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263253855]
+Ayuda mágica
+
+## POINTER 119 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Aliados inactivos pueden unirse y lanzar
+conjuros desde fuera del campo de batalla.
+
+## POINTER 120 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263625587]
+Soporte de flechas
+
+## POINTER 121 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Un aliado inactivo lanzará ocasionalmente
+flechas de fuego desde fuera del campo de batalla.
+
+## POINTER 122 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263625587]
+Cuchillada vertical
+
+## POINTER 123 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267969346]
+Hace que el ataque después un Salto aéreo
+sea un Rompedragones.
+
+## POINTER 124 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Soporte aéreo
+
+## POINTER 125 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263627640]
+Un aliado inactivo descenderá del cielo
+para atacar a un enemigo.
+
+## POINTER 126 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263627640]
+Embestida tensada
+
+## POINTER 127 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Aumenta la velocidad de ataque en un 30%
+cuando el HP esté extremadamente bajo.
+
+## POINTER 128 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Combo voltaico
+
+## POINTER 129 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267969346]
+Recupera TP después de 2 combos consecutivos de 3 golpes.
+También recupera en combos múltiples de 3.
+
+## POINTER 130 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263629814]
+Combinación
+
+## POINTER 131 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263653302]
+Aumenta el daño una vez para un combo: 
+3 golpes normales → básico → arcano
+
+## POINTER 132 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263653302]
+Combinación 2
+
+## POINTER 133 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Aumenta el daño y la barra de Límite una vez para un combo: 
+3 golpes normales → básico → modificado → arcano
+
+## POINTER 134 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263653302]
+Combinación 3
+
+## POINTER 135 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Aumenta el daño y recupera TP para un combo:
+3 golpes normales → básico → modificado → arcano → místico
+
+## POINTER 136 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1263565566]
+Alta tensión
+
+## POINTER 137 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Llena la barra de Límite al nivel 1 con un combo de 28 golpes.
+La duración del Límite solamente dura la mitad de lo normal.
+
+## POINTER 138 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Hipertensión
+
+## POINTER 139 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Llena la barra de Límite al nivel 2 con un combo de 50 golpes.
+La duración del Límite solamente dura la mitad de lo normal.
+
+## POINTER 140 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1263565566]
+Máxima tensión
+
+## POINTER 141 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Llena la barra de Límite al nivel 3 con un combo de 72 golpes.
+La duración del Límite solamente dura la mitad de lo normal.
+
+## POINTER 142 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263629834]
+Ataques cruzados
+
+## POINTER 143 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Incrementa el daño cuando un ataque
+golpea a un enemigo atacante.
+
+
+## POINTER 144 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263242363]
+Reflejar
+
+## POINTER 145 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Refleja una cierta cantidad de daño de un ataque.
+
+## POINTER 146 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1263566085]
+Destello
+
+## POINTER 147 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+De vez en cuando aturde al enemigo durante el Límite.
+
+## POINTER 148 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263242363]
+Bonus AL
+
+## POINTER 149 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Recupera HP cada vez que un Ataque letal
+golpea a un enemigo.
+
+## POINTER 150 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263242363]
+Bonus AL 2
+
+## POINTER 151 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Recupera TP cada vez que un Ataque letal
+golpea a un enemigo.
+
+## POINTER 152 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1263569002]
+Colmillo de cazador
+
+## POINTER 153 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229406]
+Aumenta el bonus de un Ataque letal verde.
+
+## POINTER 154 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1263569002]
+Potencia AE
+
+## POINTER 155 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1263569002]
+Aumenta el poder de las artes explosivas.
+
+## POINTER 156 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1263568241]
+Límite afortunado
+
+## POINTER 157 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1263568241]
+De vez en cuando llena la barra de Límite
+después de un arte explosivo o místico.
+
+## POINTER 158 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1263568241]
+Especial
+
+## POINTER 159 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1263568241]
+Realiza un arte místico con un Límite de nivel 3 o más.
+Mantén pulsado <06>(ATK) después de un arte arcano o superior.
+
+## POINTER 160 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229808]
+Golpe plus
+
+## POINTER 161 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263630380]
+Pulsa <06>(ATK) repetidamente durante un arte místico
+para añadir golpes al ataque.
+
+## POINTER 162 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229808]
+Trabajo en equipo
+
+## POINTER 163 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025358]
+Al usar un arte místico, todos el grupo
+estará Súper armado durante 5 segundos.
+
+## POINTER 164 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980105]
+Estado HP
+
+## POINTER 165 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229808]
+Aumenta ligeramente los ataques físicos
+cuando el HP está a más del 75% máximo.
+
+## POINTER 166 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980105]
+Estado HP 2
+
+## POINTER 167 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263630380]
+Aumenta los ataques físicos cuando
+el HP está a menos del 25% máximo.
+
+## POINTER 168 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980105]
+Estado HP 3
+
+## POINTER 169 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229808]
+Aumenta ligeramente los ataques mágicos
+cuando el HP está a más del 75% máximo.
+
+## POINTER 170 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980105]
+Estado HP 4
+
+## POINTER 171 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229808]
+Aumenta los ataques mágicos cuando
+el HP está a menos del 25% máximo.
+
+## POINTER 172 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263242363]
+Cadena
+
+## POINTER 173 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229808]
+Cambia un arte.
+Se puede aprender si se usa repetidamente.
+
+## POINTER 174 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229808]
+Fuego infernal
+
+## POINTER 175 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265229808]
+Cambia un arte.
+Se puede aprender si se usa repetidamente.
+
+## POINTER 176 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263653375]
+Individualista
+
+## POINTER 177 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263653375]
+Derrota a todos los enemigos sin ayuda
+para ganar experiencia extra.
+
+## POINTER 178 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263242363]
+Mitad de daño
+
+## POINTER 179 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263242363]
+El daño infligido se reducirá a la mitad. 
+
+## POINTER 180 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263242363]
+Cuarto de daño
+
+## POINTER 181 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263242363]
+El daño infligido se reducirá a un cuarto.
+
+## POINTER 182 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263242363]
+Daño mínimo
+
+## POINTER 183 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263242363]
+El daño infligido se reducirá a un punto.
+
+## POINTER 184 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263241078]
+Defensa
+
+## POINTER 185 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263241119]
+Aumenta la defensa física un 5%.
+No afecta al incremento debido al equipo.
+
+## POINTER 186 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263241119]
+Defensa 2
+
+## POINTER 187 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263241119]
+Aumenta la defensa física un 10%.
+No afecta al incremento debido al equipo.

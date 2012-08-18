@@ -1,0 +1,64 @@
+## POINTER 0
+Sodia
+<STR>(YUR)...<PAGE>Thank you... for um,
+saving... <STR>(FRE).<PAGE>...
+
+## POINTER 1
+<STR>(YUR)
+You guys go on ahead first.
+I'll catch up.
+
+## POINTER 2
+<STR>(YUR)
+I'm not gonna
+tell anyone.
+
+## POINTER 3
+Sodia
+...Why?
+
+## POINTER 4
+<STR>(YUR)
+Because I can understand
+why you tried to kill me 
+back there.<PAGE>There's something you just want to protect,
+even if it means dirtying your own hands.<PAGE>You lose your senses in the heat
+of the moment and find yourself
+doing things you'd never imagine.
+
+## POINTER 5
+Sodia
+...<PAGE>I know what I have 
+done is unforgivable.<PAGE>It would have been easier
+if you'd blame me for this.
+
+## POINTER 6
+<STR>(YUR)
+Don't flatter yourself!<PAGE>Don't think I'm here doing
+this for your own good.<PAGE>I'm not going to put the blame on you
+just so you can ease your conscience.
+
+## POINTER 7
+Sodia
+W-what...should I do...?
+
+## POINTER 8
+<STR>(YUR)
+I have no intention of
+lecturing you about
+rights and wrongs.<PAGE>Go figure it out yourself.
+
+## POINTER 9
+Sodia
+...
+
+## POINTER 10
+<STR>(YUR)
+If you can't, go ask someone
+you can talk to about this.
+But, not me.<PAGE>As <STR>(FRE)'s friend, I'm grateful for
+the loyalty you've shown towards him.
+
+## POINTER 11
+Sodia
+Uh...

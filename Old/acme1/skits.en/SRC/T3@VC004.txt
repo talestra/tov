@@ -1,0 +1,73 @@
+## POINTER 0
+Eat or Be Eaten
+
+## POINTER 1
+(EST_P)
+Monsters are easier to 
+beat than I thought...
+
+## POINTER 2
+(YUR)
+Isn't that better than being 
+harder than you thought?
+
+## POINTER 3
+(EST_P)
+But I feel sorry for them...
+
+## POINTER 4
+(RAP)
+*Whiiine*
+
+## POINTER 5
+(YUR)
+...You're way too nice. I don't particularly 
+enjoy being someone else's dinner.
+
+## POINTER 6
+(EST_P)
+You're right... This is different 
+from inside the castle... 
+The strong eat the weak.
+
+## POINTER 7
+(YUR)
+Well, we're not gonna be eating 
+any of these monsters.
+
+## POINTER 8
+(RAP)
+*Woof!*
+
+## POINTER 9
+(EST_P)
+...I...I won't hesitate 
+to defeat any monsters!
+
+## POINTER 10
+(EST_P)
+But I will never forget what I 
+fought or where I fought it.
+
+## POINTER 11
+(YUR)
+Well...suit yourself, I guess...
+
+## POINTER 12
+(EST_P)
+Then, when I return to the capital, 
+I will make graves in memory of 
+all the monsters I've killed.
+
+## POINTER 13
+(YUR)
+I...uh...I guess you could do that...
+
+## POINTER 14
+(YUR)
+...I don't understand 
+this girl at all...
+
+## POINTER 15
+(RAP)
+*Whiiine*

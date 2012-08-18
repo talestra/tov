@@ -1,0 +1,26 @@
+## POINTER 0
+<STR>(KAR)
+Look, it's Lune.
+
+## POINTER 1
+<STR>(EST_P)
+She's smiling...
+
+## POINTER 2
+<STR>(JUD)
+She can smile, because she has 
+people who will smile with her.
+
+## POINTER 3
+<STR>(EST_P)
+...She's such a strong person.
+
+## POINTER 4
+<STR>(YUR)
+It's up to us to make sure nothing 
+happens to those smiling faces.
+
+## POINTER 5
+<STR>(RAV)
+Right on, kid. Come on, 
+we've got work to do.

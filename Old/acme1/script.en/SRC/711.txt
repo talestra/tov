@@ -1,0 +1,155 @@
+## POINTER 0
+<STR>(RIT)
+......
+
+## POINTER 1
+<STR>(EST_P)
+Having trouble sleeping?
+
+## POINTER 2
+<STR>(RIT)
+
+Mmm? Not exactly...
+
+## POINTER 3
+<STR>(EST_P)
+Once we beat the Adephagos, 
+I guess we'll all end up 
+going our separate ways.
+
+## POINTER 4
+<STR>(RIT)
+Will you go back to the 
+castle when that happens?
+
+## POINTER 5
+<STR>(EST_P)
+Yeah, I'll 
+have to.<PAGE>...Will you go back to Aspio?
+
+## POINTER 6
+<STR>(EST_P)
+Well then, I guess I'll 
+have to go visit you 
+from time to time!<PAGE>...What are you going to do?
+
+## POINTER 7
+<STR>(RIT)
+Help with the reconstruction 
+of Aspio, I suppose.
+
+## POINTER 8
+<STR>(EST_P)
+Well then, I'll 
+go and help, too!
+
+## POINTER 9
+<STR>(RIT)
+A princess can't exactly go wandering 
+around doing whatever she wants.
+
+## POINTER 10
+<STR>(EST_P)
+Oh, I forgot...<PAGE>...Will you still be my friend 
+after I go back to the castle?
+
+## POINTER 11
+<STR>(RIT)
+<STR>(EST_P), you'll forget all about 
+me as soon as you go back.
+
+## POINTER 12
+<STR>(EST_P)
+No, I won't!
+
+## POINTER 13
+<STR>(RIT)
+Even if His Dumbness becomes the 
+emperor somehow, you won't exactly 
+have your hands free.<PAGE>Running a kingdom is a lot of work. You won't 
+be able to just do whatever you want.<PAGE>You'll have new stuff coming up day 
+in and day out, and you'll be up to 
+your neck in people's problems.<PAGE>And in the meantime, all of those memories you 
+have of me will be thrown to the farthest reaches 
+of your memory, like sand on the wind...
+
+## POINTER 14
+<STR>(EST_P)
+B-but...
+
+## POINTER 15
+<STR>(RIT)
+...I'll go and visit you.
+
+## POINTER 16
+<STR>(EST_P)
+What...?
+
+## POINTER 17
+<STR>(RIT)
+I said, I'll 
+go and visit 
+you!
+
+## POINTER 18
+<STR>(EST_P)
+<STR>(RIT)...!
+
+## POINTER 19
+<STR>(RIT)
+Don't misunderstand me. 
+It's not because I'll 
+be lonely or anything.
+
+## POINTER 20
+<STR>(EST_P)
+I understand. ...<STR>(RIT), 
+you're a good person!
+
+## POINTER 21
+<STR>(RIT)
+Will you cut that out? I'm not 
+anything like a good person!
+
+## POINTER 22
+<STR>(EST_P)
+All good people deny being 
+good. Just like that.<PAGE>Only good people act 
+like bad ones. Like 
+you, for example...
+
+## POINTER 23
+<STR>(RIT)
+You could really say that about a lot 
+of people in our party, couldn't you?
+
+## POINTER 24
+<STR>(EST_P)
+Ah ha ha, come to think of it, everyone's 
+like that, aren't they?<PAGE>...Do you mind if I ask again?<PAGE>...Will you always 
+be my friend?
+
+## POINTER 25
+<STR>(RIT)
+So long as you don't 
+forget about me.
+
+## POINTER 26
+<STR>(EST_P)
+I won't!
+
+## POINTER 27
+<STR>(EST_P)
+We'll be friends forever, then.
+
+## POINTER 28
+<STR>(RIT)
+Forever?
+
+## POINTER 29
+<STR>(EST_P)
+Forever and eeeever!
+
+## POINTER 30
+<STR>(RIT)
+Oh boy... That sounds like a long time...

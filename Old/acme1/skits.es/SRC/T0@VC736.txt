@@ -1,0 +1,32 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251595096]
+Limpiando el nombre de (RIT)
+
+## POINTER 1 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1266104528]
+(EST_P)
+Menos mal que el ladrón que 
+andabas buscando ha resultado
+no ser (RIT), ¿verdad, (YUR)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287681197]
+(YUR)
+¿Eh? ¿De dónde sacas eso?
+Me importa un comino
+quién sea el ladrón.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287681197]
+(YUR)
+Ojalá hubiera sido ella.
+Hace tiempo que habría terminado.
+
+## POINTER 4 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1266104528]
+(KAR)
+Yo que tú no diría eso con ella cerca...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287681197]
+(YUR)
+Por lo menos ahora vamos tras
+la pista del verdadero criminal.
+
+## POINTER 6 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669122]
+(YUR)
+De eso no puedo quejarme.

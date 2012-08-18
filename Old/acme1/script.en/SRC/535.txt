@@ -1,0 +1,118 @@
+## POINTER 0
+<STR>(FRE)
+<VOICE>(VS61_001)Stop them! Show them what 
+an Imperial Knight can do!
+
+## POINTER 1
+Adecor
+<VOICE>(VS61_002)I-I say, we're done for.
+
+## POINTER 2
+Boccos
+<VOICE>(VS61_003)This is the end...
+
+## POINTER 3
+Leblanc
+<VOICE>(VS61_004)You idiots! Stop 
+your whining!<PAGE><VOICE>(VS61_005)Guah!
+
+## POINTER 4
+<STR>(FRE)
+<VOICE>(VS61_006)Damn!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS61_007)You alive?
+
+## POINTER 6
+<STR>(FRE)
+<VOICE>(VS61_008)<STR>(YUR)! What are you doing here?!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS61_009)Thank your second-in-command for thinking of you.
+
+## POINTER 8
+<STR>(FRE)
+<VOICE>(VS61_010)Sodia?! Huh...<PAGE><VOICE>(VS61_011)But our current situation
+is bad. It's only a matter
+of time until we fall.
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS61_012)We have a little special something.
+
+## POINTER 10
+<STR>(FRE)
+<VOICE>(VS61_013)What?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS61_014)Light this thing up in the 
+middle of the monsters...<PAGE><VOICE>(VS61_015)Then, watch it go boom!
+
+## POINTER 12
+<STR>(FRE)
+<VOICE>(VS61_016)In the middle of the monsters...
+They're a lot to get through.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS61_017)Come on, it's us! 
+This is nothing.
+
+## POINTER 14
+<STR>(RAP)
+<VOICE>(VS61_018)Woof!
+
+## POINTER 15
+<STR>(FRE)
+<VOICE>(VS61_019)Huh. All right. 
+Let's go!
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS61_020)Hey! We're gonna go 
+turn this thing on.<PAGE><VOICE>(VS61_021)Keep things going here!
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS61_022)Just you two?!
+Are you stupid?
+
+## POINTER 18
+<STR>(FRE)
+<VOICE>(VS61_023)We cannot let our 
+guard down here.<PAGE><VOICE>(VS61_024)If we can't defend this place, 
+we lose the very reason for 
+taking out the monsters.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS61_025)This isn't to defeat the monsters. 
+This is to protect the people.
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS61_026)That's right.
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS61_027)Understood. Leave 
+it to us!
+
+## POINTER 22
+<STR>(JUD)
+<VOICE>(VS61_028)Take care, you two.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS61_029)Let's go!
+
+## POINTER 24
+<STR>(FRE)
+<VOICE>(VS61_030)Right!
+
+## POINTER 25
+<STR>(RAP)
+<VOICE>(VS61_031)Woof!

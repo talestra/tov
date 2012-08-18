@@ -1,0 +1,49 @@
+## POINTER 0
+
+Oh ho, you've brought the items.<PAGE>Wait here while I make 
+you something nice!
+
+## POINTER 1
+<STR>(EST_P)
+What do you say?
+Does it look OK on me?
+
+## POINTER 2
+<STR>(YUR)
+....Yeah, it actually 
+does...
+
+## POINTER 3
+<STR>(KAR)
+....And why is <STR>(JUD) 
+changed in that outfit?
+
+## POINTER 4
+<STR>(JUD)
+Well, I had mine made
+too while waiting.
+
+## POINTER 5
+<STR>(YUR)
+... I think your dress is 
+kind of ... too unique...
+
+## POINTER 6
+<STR>(JUD)
+Really? 
+I think it is 
+very lovely...
+
+## POINTER 7
+<STR>(YUR)
+Anyway, let's have <STR>(EST_P) 
+distract the guard as planned.
+
+## POINTER 8
+<STR>(EST_P)
+OK.
+
+## POINTER 9
+<STR>(YUR)
+<STR>(JUD), can you do something
+about that outfit first.

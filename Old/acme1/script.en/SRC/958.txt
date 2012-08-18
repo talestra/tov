@@ -1,0 +1,102 @@
+## POINTER 0
+Boccos
+Kiss your freedom goodbye, 
+for it ends today!
+
+## POINTER 1
+Adecor
+I say, prepare to face the 
+Imperial Knights' ultimate fighting 
+technique: the burst arte!
+
+## POINTER 2
+<STR>(YUR)
+Again, you're claiming regular 
+techniques as your own... That 
+doesn't belong to the Knights!
+
+## POINTER 3
+Adecor
+I say, be quiet!
+
+## POINTER 4
+<STR>(YUR)
+The Burst Arte, huh...
+I've heard of it before, but...
+
+## POINTER 5
+Boccos
+You don't know how 
+it's done? You fool!
+
+## POINTER 6
+Adecor
+I say, we shall show you!<PAGE>But before that happens, you'll be 
+reduced to no more than a worthless 
+caterpillar crawling on the ground!
+
+## POINTER 7
+Adecor
+Rargh!
+
+## POINTER 8
+<STR>(YUR)
+Maybe it has something 
+to do with Over Limit...
+
+## POINTER 9
+Boccos
+Go! Show him 
+how it's done, 
+Adecor!
+
+## POINTER 10
+Adecor
+I say, watch me now...!<PAGE>The arcane arte of 
+the Imperial Knights!
+
+## POINTER 11
+Boccos
+It didn't hit him! 
+What are you doing?!
+
+## POINTER 12
+<STR>(YUR)
+Huh. Burst artes 
+can be linked from 
+an arcane arte.<PAGE>I wonder if I could imitate that...
+
+## POINTER 13
+Adecor
+Ha, there's no way an 
+amateur could do 
+something like that, I say!
+
+## POINTER 14
+Information
+Press <06>(LBN) to go 
+into Over Limit.
+
+## POINTER 15
+<STR>(YUR)
+...And now, Over Limit...!
+
+## POINTER 16
+Boccos
+Wah, be careful! 
+<STR>(YUR) Lowell's going 
+to attack!
+
+## POINTER 17
+<STR>(YUR)
+Arcane arte...!
+
+## POINTER 18
+<STR>(YUR)
+...I don't actually know any of 
+those, but how about this?!
+
+## POINTER 19
+Information
+<03>(6)(0)<03>(0) learned the 
+arcane arte <03>(4)Crushing Eagle<03>(0).

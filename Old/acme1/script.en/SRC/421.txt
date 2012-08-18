@@ -1,0 +1,47 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS40_001)A flying city. Who'd have guessed?
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS40_002)Forget the city! What about 
+that huge thing?! It looks 
+like a living creature...
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS40_003)It's an Entelexeia. Though 
+not one I've spoken to.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS40_004)An Entelexeia?! How 
+did something like that 
+swallow an entire city?
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS40_005)That I don't know.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS40_006)I had absolutely no idea a 
+city like this existed.
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS40_007)That is because Myorzo 
+cut off contact with the 
+outside world ages ago.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS40_008)It's not gonna attack 
+us or anything if we 
+get closer, right?
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS40_009)Don't worry. As long as 
+Ba'ul is with us, we should 
+be allowed to enter.

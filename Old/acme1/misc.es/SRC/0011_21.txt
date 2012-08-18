@@ -1,0 +1,321 @@
+## POINTER 2889 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Canica de cristal
+
+## POINTER 2890 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Recompensa recibida de un niño.
+Una canica normal pero de enorme valor sentimental.
+
+## POINTER 2892 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1263669291]
+Cristal azul cielo
+
+## POINTER 2893 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Gema encontrada en una caja roja.
+Hay que entregársela al «hombre sabio».
+
+## POINTER 2895 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Pluma de Phaeroh
+
+## POINTER 2896 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1263669291]
+Pluma del color de las llamas.
+¡No es una pluma corriente!
+
+## POINTER 2898 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264459175]
+Apátheia, cristal cielo cian
+
+## POINTER 2899 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Pedazo de aer de gran densidad en el que
+se transformó Belius. Se sabe poco de él.
+
+## POINTER 2901 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Dein Nomos
+
+## POINTER 2902 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Espada cedida por Duke.
+Cambia de color y de filo según su portador.
+
+## POINTER 2904 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Libro de la amistad
+
+## POINTER 2905 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Libro lleno de teorías y fórmulas complicadas
+sobre los lazos afectivos entre los hombres.
+
+## POINTER 2907 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Manual de Irmine
+
+## POINTER 2908 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Algunas notas escritas por el vejete testarudo, Irmine.
+Mencionan la manera de procesar las piedras de livianita.
+
+## POINTER 2910 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1262282451]
+Colgante de livianita
+
+## POINTER 2911 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+Colgante forjado en livianita.
+¡Color rojo pasión! Atrae también a los toros...
+
+## POINTER 2913 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1262282451]
+Mineral de livianita
+
+## POINTER 2914 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Piedra de livianita en bruto.
+Es muy difícil de procesar.
+
+## POINTER 2916 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1262214976]
+Rocío de Krones
+
+## POINTER 2917 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+Haz que Ba'ul beba esto y se volverá más fuerte.
+Muy amargo y no tiene ningún efecto en los humanos.
+
+## POINTER 2919 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Cuerno de Ba'ul
+
+## POINTER 2920 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Cuerno extraído del cuerpo de Ba'ul.
+Pulsa <06>(L3) para llamar a Ba'ul en el mapamundi.
+
+## POINTER 2922 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1262214976]
+Bola de pelo de la amistad
+
+## POINTER 2923 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Un símbolo de amistad y confianza. Puedes contar
+con tus amigos sin importar cuán lejos estés.
+
+## POINTER 2925 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1262288645]
+Muñeco de gálago 
+
+## POINTER 2926 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+También conocido como gálago.
+¡Sus grandes ojos vidriosos son tan monos!
+
+## POINTER 2928 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1262125757]
+Garra de Pterobronc
+
+## POINTER 2929 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194934]
+Las garras frontales de Pterobronc.
+Muy afiladas; ándate con ojo o te cortarás.
+
+## POINTER 2931 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Anotaciones de Hermes
+
+## POINTER 2932 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Recopilación de las anotaciones que escribió
+el famoso mago Hermes en sus investigaciones.
+
+## POINTER 2934 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Lirio de fuego
+
+## POINTER 2935 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+La flor favorita de alguien que le gustaba a Raven.
+Tal vez también le guste a cierta persona.
+
+## POINTER 2937 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1262282451]
+Emblema fraterno
+
+## POINTER 2938 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Tiene grabados los perfiles de dos hombres.
+Representa una fuerte amistad.
+
+## POINTER 2940 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Carta de desafío (Garra del Leviatán)
+
+## POINTER 2941 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Desafío lanzado por Gauche y Droite.
+«Esto no tiene nada que ver con la venganza».
+
+## POINTER 2943 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Emblema imperial
+
+## POINTER 2944 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+El emblema de la familia real.
+Vale una fortuna, ¡pero no lo vendas!
+
+## POINTER 2946 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Carta a la Garra del Leviatán
+
+## POINTER 2947 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Carta de los Herreros Espirituales a la Garra del Leviatán.
+Habla sobre futuros tratos entre los dos gremios.
+
+## POINTER 2949 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1262288540]
+Disco de recuerdos
+
+## POINTER 2950 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Un disco dejado atrás por alguien que le gustaba a Raven.
+Le trae recuerdos agridulces.
+
+## POINTER 2952 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1262288540]
+Marcador arco iris
+
+## POINTER 2953 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+¡Te marearás si lo miras demasiado rato!
+Úsalo para marcar la página de un libro.
+
+## POINTER 2955 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Carta de desafío (Espadas Cazadoras)
+
+## POINTER 2956 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Desafío lanzado por Tison y Nan. No es exactamente
+una carta de amor, pero parece escrito por una niña.
+
+## POINTER 2958 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Carta de desafío (Flynn)
+
+## POINTER 2959 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Desafío lanzado por Flynn.
+«¡Ganaré en nombre de los Caballeros Imperiales!».
+
+## POINTER 2961 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Pala
+
+## POINTER 2962 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Una pala común y corriente que parece muy resistente.
+Se podría destrozar una roca con ella.
+
+## POINTER 2964 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1262215445]
+Carta de desafío (Leyenda)
+
+## POINTER 2965 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+Desafío lanzado por el guerrero del laberinto.
+«Completa tu misión antes de morir».
+
+## POINTER 2967 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1262215445]
+La leyenda del Guerrero Azul Oscuro.
+
+## POINTER 2968 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+La leyenda del hombre que se enfrentó a los cielos.
+Llegó de otro mundo.
+
+## POINTER 2970 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Caja roja
+
+## POINTER 2971 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+Caja misteriosa encontrada en el barco fantasma.
+Debe contener algo muy importante...
+
+## POINTER 2973 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Vesperia Nº1
+
+## POINTER 2974 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264459224]
+La clave para la victoria contra el adephagos.
+El arma definitiva de Gran Vesperia.
+
+## POINTER 2976 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Linterna mágica
+
+## POINTER 2977 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Lámpara hecha de metales de desecho.
+Muy útil para iluminar las salas oscuras de Baction.
+
+## POINTER 2979 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Sombrero negro
+
+## POINTER 2980 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+Sombrero negro que destila elegancia.
+No tiene propiedades defensivas.
+
+## POINTER 2982 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Sombrero blanco
+
+## POINTER 2983 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Sombrero blanco que destila elegancia.
+Es inútil en combate, pero complementa tu traje.
+
+## POINTER 2985 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Parche para el ojo
+
+## POINTER 2986 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Hace que alguien que empuñe una espada
+parezca fuerte y cruel. ¡Qué raro!
+
+## POINTER 2988 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Cantimplora corriente.
+
+## POINTER 2989 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Cantimplora de la posada de Mantaic.
+Su diseño es muy sencillo.
+
+## POINTER 2991 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Gafas de sol
+
+## POINTER 2992 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Póntelas y parecerás un tipo duro.
+Hace que uno se sienta como un adulto.
+
+## POINTER 2994 [t:1;r:1;ru:memnoch;user:memnoch;time:1282573370]
+Nuevo bodhi blastia
+
+## POINTER 2995 [t:1;r:1;ru:memnoch;user:memnoch;time:1282573370]
+Bodhi blastia con sus habilidades de conversión
+de aer mejoradas. Es casi igual a los normales.
+
+## POINTER 2997 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Príncipe
+
+## POINTER 2998 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+¡Un pequeño príncipe capaz
+de tener éxito en asuntos de gran escala!
+
+## POINTER 3000 [t:1;r:3;ru:squallido,memnoch,parsec;user:parsec;time:1262288304]
+Orejas de conejo negras
+
+## POINTER 3001 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+¡No pienso llevar esto!
+¡He dicho que no!
+
+## POINTER 3003 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Pipa grande
+
+## POINTER 3004 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+Pipa con un bigote. Póntela y parecerás famoso.
+Es ideal para las fiestas.
+
+## POINTER 3006 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Tiara
+
+## POINTER 3007 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261787768]
+Tiara elegante.
+Muy adecuada para una noble.
+
+## POINTER 3009 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261791027]
+Velo
+
+## POINTER 3010 [t:1;r:3;ru:squallido,memnoch,parsec;user:Squallido;time:1263669291]
+¿Algo que toda mujer sueña con llevar alguna vez?
+¡Es delicado, pero no subestimes sus poderes!
+
+## POINTER 3012 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261791027]
+Gafas
+
+## POINTER 3013 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+Son algo molestas durante las batallas,
+pero hay quien las encuentra la mar de chics.
+
+## POINTER 3015 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261791027]
+Cantimplora cara
+
+## POINTER 3016 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261791027]
+Cantimplora de la posada de Mantaic.
+Está decorada con elegantes ornamentos.
+
+## POINTER 3018 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261791027]
+Conjunto de ángel
+
+## POINTER 3019 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264288894]
+Alas con aureola a juego.
+Su simple visión calma la mente de uno.
+
+## POINTER 3021 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261791027]
+Gorro de Mint
+
+## POINTER 3022 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264286595]
+Réplica del gorro de la heroína
+de la «Historia de la leyenda».
+
+## POINTER 3024 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261791027]
+Orejas de conejo para chicas
+
+## POINTER 3025 [t:1;r:3;ru:squallido,memnoch,parsec;user:xander;time:1261791027]
+Unas orejas de conejito la mar de monas.
+La que está inclinada resulta adorable.

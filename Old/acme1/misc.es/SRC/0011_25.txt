@@ -1,0 +1,128 @@
+## POINTER 3460 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196055]
+Un juego de materiales para la síntesis.
+Treinta materiales poco frecuentes de cinco piezas cada uno.
+
+## POINTER 3462 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826533]
+Equipo de síntesis: Nv. 3
+
+## POINTER 3463 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196055]
+Un juego de materiales para la síntesis. Treinta y nueve
+materiales muy poco frecuentes de una o tres piezas cada uno.
+
+## POINTER 3465 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826773]
+Paquete de habilidades de prueba: Yuri
+
+## POINTER 3466 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196055]
+Un juego de habilidades para Yuri.
+Permite que Yuri aprenda seis habilidades básicas.
+
+## POINTER 3468 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826773]
+Paquete de habilidades de prueba: Estelle
+
+## POINTER 3469 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196055]
+Un juego de habilidades para Estelle.
+Permite que Estelle aprenda seis habilidades básicas.
+
+## POINTER 3471 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826773]
+Paquete de habilidades de prueba: Karol
+
+## POINTER 3472 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196055]
+Un juego de habilidades para Karol.
+Permite que Karol aprenda seis habilidades básicas.
+
+## POINTER 3474 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826773]
+Paquete de habilidades de prueba: Rita
+
+## POINTER 3475 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196055]
+Un juego de habilidades para Rita.
+Permite que Rita aprenda seis habilidades básicas.
+
+## POINTER 3477 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826773]
+Paquete de habilidades de prueba: Raven
+
+## POINTER 3478 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196055]
+Un juego de habilidades para Raven.
+Permite que Raven aprenda seis habilidades básicas.
+
+## POINTER 3480 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826773]
+Paquete de habilidades de prueba: Judith
+
+## POINTER 3481 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196055]
+Un juego de habilidades para Judith.
+Permite que Judith aprenda seis habilidades básicas.
+
+## POINTER 3483 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826773]
+Paquete de habilidades de prueba: Repede
+
+## POINTER 3484 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196055]
+Un juego de habilidades para Repede.
+Permite que Repede aprenda seis habilidades básicas.
+
+## POINTER 3486 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826931]
+Paquete personalizado: Yuri
+
+## POINTER 3487 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1267358266]
+Un juego de trajes, títulos y
+complementos para Yuri
+
+## POINTER 3489 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826931]
+Paquete personalizado: Estelle
+
+## POINTER 3490 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1267358266]
+Un juego de trajes, títulos y
+complementos para Estelle.
+
+## POINTER 3492 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826931]
+Paquete personalizado: Karol
+
+## POINTER 3493 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1267358266]
+Un juego de trajes, títulos y
+complementos para Karol.
+
+## POINTER 3495 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826931]
+Paquete personalizado: Rita
+
+## POINTER 3496 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1267358266]
+Un juego de trajes, títulos y
+complementos para Rita.
+
+## POINTER 3498 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826931]
+Paquete personalizado: Raven
+
+## POINTER 3499 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1267358266]
+Un juego de trajes, títulos y
+complementos para Raven.
+
+## POINTER 3501 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826931]
+Paquete personalizado: Judith
+
+## POINTER 3502 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1267358266]
+Un juego de trajes, títulos y
+complementos para Judith.
+
+## POINTER 3504 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261826931]
+Paquete personalizado: Repede
+
+## POINTER 3505 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1267358285]
+Un juego de complementos para Repede.
+
+## POINTER 3507 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827086]
+Juego de recetas: Recuperación de HP
+
+## POINTER 3508 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196055]
+Un juego de recetas nutritivas y sabrosas
+que recuperan HP. ¡Ingredientes incluidos! 
+
+## POINTER 3510 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196055]
+Juego de recetas: Incremento de parámetros
+
+## POINTER 3511 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827086]
+Un juego de recetas que incrementan los
+parámetros de estado. ¡Ingredientes incluidos! 
+
+## POINTER 3513 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827086]
+Juego de recetas: Recuperación de TP
+
+## POINTER 3514 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1261827086]
+Un juego de recetas que rellenan TP.
+¡Ingredientes incluidos!

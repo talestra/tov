@@ -1,0 +1,33 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298210997]
+<STR>(YUR)
+<VOICE>(VS03_175)Debe ser aquí.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269917344]
+<STR>(EST)
+<VOICE>
+(VS03_176)¿Tiene algo de especial esta estatua?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269917344]
+<STR>(YUR)
+<VOICE>
+(VS03_177)Se supone que tiene algún secreto.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298210997]
+<STR>(EST)
+<VOICE>
+(VS03_178)No parece que tenga nada
+especialmente misterioso...
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304470963]
+<STR>(YUR)
+<VOICE>(VS03_179)Quizá si la movemos aparezca
+un pasaje secreto o algo así.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270593742]
+<STR>(EST)
+<VOICE>(VS03_180)No creerá qué...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298210997]
+<STR>(YUR)
+<VOICE>(VS03_181)No lo sabremos
+si no lo probamos.

@@ -1,0 +1,19 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805557]
+<STR>(RIT)
+¿Os importa que me vaya por ahí un rato?
+Quiero hablar con los magos de aquí
+sobre la conversión de espíritus.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286878158]
+<STR>(YUR)
+Claro, adelante.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805588]
+<STR>(RAV)
+De toas formas su investigación
+de blastias dentro de poco
+no servirá pa ná.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286878158]
+<STR>(RIT)
+En fin, intentaré no tardar demasiado.

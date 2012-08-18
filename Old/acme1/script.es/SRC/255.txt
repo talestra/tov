@@ -1,0 +1,9 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320822]
+<STR>(EST_P)
+Bien, ¿echamos un ojo
+por la ciudad?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1274217489]
+<STR>(KAR)
+También tenemos que ver qué pasó con el blastia
+que se fue de madre la última vez.

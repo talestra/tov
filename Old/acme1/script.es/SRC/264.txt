@@ -1,0 +1,29 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323606]
+
+¡Ajá! Han traído los objetos.<PAGE>¡En un abrir y cerrar de ojos tendrán
+un vestido para caerse de espaldas!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275567284]
+<STR>(JUD)
+Todo listo.
+Podemos irnos.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275567308]
+<STR>(YUR)
+¿En serio vamos a hacerlo
+con el vestido este?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275567284]
+<STR>(JUD)
+¿Eh? Yo no le veo
+ninguna pega.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275567284]
+<STR>(YUR)
+Pues yo no sabría ni por dónde empezar...
+En fin, dejémoslo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323606]
+<STR>(EST_P)
+¡Es una verdadera monada!
+Es imposible que falle el plan.

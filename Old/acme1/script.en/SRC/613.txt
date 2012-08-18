@@ -1,0 +1,158 @@
+## POINTER 0
+
+Welcome to the Galactic Gearbox 
+shop. What sort of trinket 
+are you in the market for?
+
+## POINTER 1
+
+We've got some dazzling 
+earrings made with the 
+finest silver. Step right up!
+
+## POINTER 2
+<STR>(JUD)
+You don't have much in the way 
+of weapons and armor, do you?
+
+## POINTER 3
+
+Fraid not, ma'am.
+We focus on aesthetics here. ♪
+
+## POINTER 4
+<STR>(YUR)
+We didn't exactly come 
+here to go shopping.
+
+## POINTER 5
+<STR>(JUD)
+Heh, that's right. I'd 
+almost forgotten.
+
+## POINTER 6
+
+Well, if you're not here to shop, 
+what is it we can help you with?
+
+## POINTER 7
+<STR>(KAR)
+We're actually wondering if you 
+can shed some light on the 
+method for refining Everlight.
+
+## POINTER 8
+
+Hey, you think he means that 
+stuff Kale had written down 
+in that old book of his?
+
+## POINTER 9
+
+That would be my best guess.
+
+## POINTER 10
+<STR>(KAR)
+That's it...! That's what 
+Nobis is looking for...
+
+## POINTER 11
+
+I dunno what we'd have done 
+without that old book.
+
+## POINTER 12
+
+Processing Everlight is a pretty 
+tricky business, you see.
+
+## POINTER 13
+<STR>(EST_P)
+Would you consider lending it to 
+us? We could even make a copy for 
+ourselves if it isn't too long.
+
+## POINTER 14
+
+Problem is, we don't 
+have it anymore.
+
+## POINTER 15
+
+The Imperial Knights came 
+some time ago, and took it 
+with them when they left.
+
+## POINTER 16
+<STR>(KAR)
+The Imperial Knights?
+
+## POINTER 17
+<STR>(RAV)
+Whoa, hold on. I'm bein' 
+framed, framed I tell ya!<PAGE>You happen ta hear what this group 
+of knights called themselves?
+
+## POINTER 18
+
+Wasn't it somethin' like 
+the Cumore brigade?
+
+## POINTER 19
+<STR>(EST_P)
+...Cumore...
+
+## POINTER 20
+<STR>(YUR)
+...Never thought we'd be hearing 
+that name all the way out here.
+
+## POINTER 21
+
+Yeah, he snatched that book right 
+up. Called it "heretical." 'Course 
+he was just feedin' us a line.
+
+## POINTER 22
+
+You should have seen his face light 
+up when he first heard us mention it.
+
+## POINTER 23
+<STR>(YUR)
+He must have seen it as a 
+sure-fire way to start making 
+some heavy weaponry.
+
+## POINTER 24
+<STR>(RIT)
+It's the no-talent hacks that 
+always seem obsessed with 
+making the biggest toys.
+
+## POINTER 25
+<STR>(KAR)
+Well, what now...? If Cumore 
+took it with him, then...
+
+## POINTER 26
+<STR>(RAV)
+I'd imagine the Knights'd 
+keep a pretty close eye on 
+the stuff they confiscate.<PAGE>Not too familiar with the 
+protocol myself, though.
+
+## POINTER 27
+<STR>(EST_P)
+Why don't we try 
+asking <STR>(FRE)?
+
+## POINTER 28
+<STR>(YUR)
+Maybe that's our safest bet if 
+the old man here can't help us.
+
+## POINTER 29
+<STR>(KAR)
+Looks like we're 
+headed to Aurnion.

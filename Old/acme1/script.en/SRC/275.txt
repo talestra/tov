@@ -1,0 +1,129 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS25_001)...There's no sign of them...
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS25_002)Looks like they ended up getting away.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS25_003)Where are we, anyway?
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS25_004)...A forest in central Tolbyccia. 
+If I'm right, Torim Harbor 
+is east of here.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS25_005)We should probably just get 
+to the harbor rather than 
+going back to Heliord.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS25_006)What? But what about 
+Cumore?! Do we just 
+let him go?
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS25_007)I thought the purpose 
+of your journey was 
+to find Phaeroh.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS25_008)Well I...
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS25_009)I wasn't aware Brave Vesperia 
+was formed to follow your 
+random whims.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS25_010)...I-I'm sorry. That was 
+never my intention...
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS25_011)Aww, she's just telling you to relax.<PAGE><VOICE>(VS25_012)Besides, <STR>(FRE)'s on the scene, 
+right? You can be sure he'll 
+take care of things.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS25_013)Hey. "Phaeroh"? "Brave Vesperia"? 
+Start explaining.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS25_014)Just about ta ask the same questions myself.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS25_015)Huh? 
+Wh-what the?!
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VS25_016)What's wrong, miss genius 
+mage? Forget me already? 
+It's me, <STR>(RAV) the Great.
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS25_017)Who the hell do you...
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS25_018)I told ya, <STR>(RAV) the Great...
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS25_019)...Man. Yer a scary little 
+kid, ya know that?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS25_020)So? What are you up to?
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS25_021)With all the stuff you've been doin', 
+poor <STR>(RAV) got sent all the way 
+out here to keep an eye on ya.
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS25_022)Why would they do that?
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VS25_023)First things first, let's go 
+find an inn at Torim Harbor. 
+I'll tell ya everything there.<PAGE><VOICE>(VS25_024)<STR>(RAV)'s pretty hungry, ya see...
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS25_025)I suppose there's no point 
+in hanging around here.<PAGE><VOICE>(VS25_026)Torim Harbor's 
+a good first step.
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VS25_027)Torim Harbor, then. Would 
+that be all right?
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS25_028)Yes, of course.<PAGE><VOICE>(VS25_029)I'm sorry. I didn't 
+mean to be selfish.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS25_030)Okay, let's go.

@@ -1,0 +1,59 @@
+## POINTER 0
+Gnome
+......
+
+## POINTER 1
+<STR>(EST_P)
+...Gnome...?
+
+## POINTER 2
+Sylph
+I must thank you for the wonderful 
+names you gave us.
+
+## POINTER 3
+<STR>(EST_P)
+O-of course...
+
+## POINTER 4
+<STR>(YUR)
+Well? What brings you 
+two out into the open?
+
+## POINTER 5
+Sylph
+Down below us, there used 
+to be a vibrant forest, 
+bustling with life.<PAGE>For years, it has been sunk below the water. 
+Yet, he says, this is against his will.
+
+## POINTER 6
+<STR>(EST_P)
+You mean...the island 
+below us?
+
+## POINTER 7
+Sylph
+Indeed.
+
+## POINTER 8
+Sylph
+Give him but a short while, and all will become right.
+
+## POINTER 9
+<STR>(YUR)
+What are you going to do?
+
+## POINTER 10
+Sylph
+......
+
+## POINTER 11
+<STR>(KAR)
+
+Ah, he disappeared...
+Waaah...
+
+## POINTER 12
+<STR>(EST_P)
+An earthquake...?

@@ -1,0 +1,73 @@
+## POINTER 0
+<STR>(RIT)
+Do you really plan on helping 
+<STR>(EST_P) find that Phaeroh...whatever?
+
+## POINTER 1
+<STR>(YUR)
+Yeah, I guess so.
+
+## POINTER 2
+<STR>(RIT)
+Didn't that thing say that 
+<STR>(EST_P) was an insipid poison 
+or something?
+
+## POINTER 3
+<STR>(YUR)
+Yeah, I heard.
+
+## POINTER 4
+<STR>(RIT)
+After something like that I, guess 
+you can't just tell her to forget 
+about the whole thing.<PAGE>But it won't help her if she uses that 
+as an excuse not to deal with the issue 
+of the succession to the throne.
+
+## POINTER 5
+<STR>(YUR)
+Yeah, I'm worried that might happen.
+
+## POINTER 6
+<STR>(RIT)
+Wh-what are you talking about? 
+That's what IS happening!
+
+## POINTER 7
+<STR>(YUR)
+Yeah, maybe.
+
+## POINTER 8
+<STR>(RIT)
+But...!
+
+## POINTER 9
+<STR>(YUR)
+You're saying I should take her back to the castle?
+
+## POINTER 10
+<STR>(RIT)
+Yes. That's exactly what I'm saying.
+
+## POINTER 11
+<STR>(YUR)
+It was her decision. We have 
+to let her figure out what 
+she should really do.
+
+## POINTER 12
+<STR>(RIT)
+You realize it might come 
+to blows with this Phaeroh 
+guy, right?<PAGE>She won't get to figure out 
+anything at all if she dies!
+
+## POINTER 13
+<STR>(YUR)
+She's not going to die. That's 
+why I'm going with her.
+
+## POINTER 14
+<STR>(RIT)
+Argh, have it your way then!

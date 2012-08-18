@@ -1,0 +1,75 @@
+## POINTER 0
+<STR>(EST_P)
+Undine...!
+
+## POINTER 1
+Undine
+Salutations.
+
+## POINTER 2
+<STR>(YUR)
+What's the matter? What is it?
+
+## POINTER 3
+Undine
+This large contraption has 
+caught my interest...
+
+## POINTER 4
+<STR>(RIT)
+An elemental spirit, interested in blastia?
+
+## POINTER 5
+Undine
+Is it strange?
+
+## POINTER 6
+<STR>(YUR)
+No. You used 
+to be Belius, 
+after all.
+
+## POINTER 7
+<STR>(EST_P)
+I feel like it makes sense you'd be 
+interested in something like this.
+
+## POINTER 8
+Undine
+I'm contemplating using 
+my power to move it.
+
+## POINTER 9
+<STR>(RIT)
+Wha... What?! You can't do that...!
+
+## POINTER 10
+Undine
+Don't you think it would provide viable 
+proof of the effects of the powers 
+of elemental spirits over blastia?
+
+## POINTER 11
+<STR>(RIT)
+No, that would be...
+
+## POINTER 12
+Undine
+I shall return...
+
+## POINTER 13
+<STR>(YUR)
+Hah... She does whatever she wants, I see.
+
+## POINTER 14
+<STR>(RIT)
+You're laughing?! Aren't 
+you going to stop her...?
+
+## POINTER 15
+<STR>(YUR)
+It's a little late for that.
+
+## POINTER 16
+<STR>(EST_P)
+It's started to move...?

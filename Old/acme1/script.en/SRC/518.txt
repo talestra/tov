@@ -1,0 +1,189 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS57_009)Phaeroh... Phaeroh... 
+Come on...
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS57_010)I'm sorry. It was all for us...
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS57_011)What do you mean?
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS57_012)Phaeroh was a decoy 
+for us at Zaude.
+
+## POINTER 4
+Phaeroh
+<VOICE>(VS57_013)The fate of the world is set. 
+We shall meet our end, duty 
+unfulfilled. How unfortunate...
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS57_014)You give up pretty fast for someone 
+who fought for so long.<PAGE><VOICE>(VS57_015)Sorry, but things 
+aren't over yet.
+
+## POINTER 6
+Phaeroh
+<VOICE>(VS57_016)Zaude is lost. The Adephagos has 
+returned. Neither humans nor 
+we possess the power of old.<PAGE><VOICE>(VS57_017)What more can be done?
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS57_018)There's still hope! 
+There is a new power!
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS57_019)We would like you to become 
+a spirit...a being that can 
+control aer even more.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS57_020)But to do that...we 
+need your apatheia.
+
+## POINTER 10
+Phaeroh
+<VOICE>(VS57_021)...You ask me to hand over my life.
+
+## POINTER 11
+Phaeroh
+<VOICE>(VS57_022)...<PAGE><VOICE>(VS57_023)Your heart alone cannot 
+save the world, but you must 
+have the heart to save it...<PAGE><VOICE>(VS57_024)I am not long for this world... 
+Do with me as you please.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS57_025)...What if he doesn't help us 
+when he becomes a spirit...?
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS57_026)Phaeroh loves the world. 
+It'll be fine.
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS57_027)Shall we?
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS57_028)But the aer krene here 
+is all dried up.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS57_029)If I follow the flow of the aer 
+back, I should be able to pull 
+it from within the world.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS57_030)Can you really do that?
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS57_031)Undine is...telling 
+me that.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS57_032)Okay.
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS57_033)It worked!
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VS57_034)Hey hey hey hey! Hot! Hot! Hot!
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS57_035)...The spirit of fire.
+
+## POINTER 23
+
+<VOICE>(VS57_036)Ohh...I feel unlimited power.
+
+## POINTER 24
+Undine
+<VOICE>(VS57_037)It has been a long time, hasn't it, my leader. 
+I congratulate you on your conversion.
+
+## POINTER 25
+
+<VOICE>(VS57_038)...Such consideration...Belius? 
+So you too have...
+
+## POINTER 26
+Undine
+<VOICE>(VS57_039)I am now called Undine, 
+the ruler of the waters.
+
+## POINTER 27
+
+<VOICE>(VS57_040)I have changed form, so I, 
+too, require a new name.
+
+## POINTER 28
+
+<VOICE>(VS57_041)You who have reincarnated 
+me. Give me a name.
+
+## POINTER 29
+<STR>(KAR)
+<VOICE>(VS57_042)The Fearsome Fiery Fireball Ki--
+
+## POINTER 30
+<STR>(EST_P)
+<VOICE>(VS57_043)Such a powerful, terrible fire... 
+The blazing one, Efreet.
+
+## POINTER 31
+Efreet
+<VOICE>(VS57_044)I am now connected strongly to the 
+world, and all seems new again.<PAGE><VOICE>(VS57_045)Even this wasteland is 
+filled with power. Hah 
+hah hah hah! Wonderful!
+
+## POINTER 32
+<STR>(KAR)
+<VOICE>(VS57_046)Hey, he flew away!
+
+## POINTER 33
+Undine
+<VOICE>(VS57_047)Fear not. We are bound 
+to you. Wherever you 
+go, we are with you.
+
+## POINTER 34
+Undine
+<VOICE>(VS57_048)The Entelexeia and the Child of 
+the Full Moon bear spirits.<PAGE><VOICE>(VS57_049)...Nature's providence 
+is great indeed.
+
+## POINTER 35
+<STR>(RAV)
+<VOICE>(VS57_050)Man, they are so different before 
+and after becoming spirits.
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS57_051)They have totally different 
+points of view! It's like... 
+Imagine if a fish became a bird!
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VS57_052)This is better for them than being some 
+sage, always worrying about the world.

@@ -1,0 +1,46 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VA013_037)Look, we brought you 
+the Everlight!
+
+## POINTER 1
+Nobis
+<VOICE>(VA013_038)Ooohhh... I never imagined you would 
+deliver it to me directly...<PAGE><VOICE>(VA013_039)Thank you so very much.<PAGE><VOICE>(VA013_040)With this, we can finally 
+revive our guild...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VA013_041)Revive...?
+Did something happen to your guild?
+
+## POINTER 3
+Nobis
+<VOICE>(VA013_042)No, it's-it's nothing...<PAGE><VOICE>(VA013_043)Here. Take this as a show of my gratitude.
+
+## POINTER 4
+Nobis
+<VOICE>(VA013_044)Now that I've acquired 
+it, I mustn't waste 
+even a single moment!
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VA013_045)You think he'll be all right?
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VA013_046)Must really be in a hurry if he's 
+headin' out of town on his own.
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VA013_047)That voice...
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VA013_048)I-I don't believe it...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA013_049)...Damn, he sure is persistent...<PAGE><VOICE>(VA013_050)Nobis is in trouble. Let's go!

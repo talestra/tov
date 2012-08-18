@@ -1,0 +1,107 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(EST_P)
+<VOICE>(VS56_051)El bosque brillante de Erealumen,
+y la raíz del mundo, Relewiese...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(KAR)
+<VOICE>(VS56_052)Nunca había oído hablar de esos sitios.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(JUD)
+<VOICE>(VS56_053)...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(JUD)
+<VOICE>(VS56_054)Ba'ul dice que los conoce.
+Pero...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576737]
+<STR>(YUR)
+<VOICE>(VS56_055)¿...?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981466]
+<STR>(JUD)
+<VOICE>(VS56_056)No nos lo quiere decir.<PAGE><VOICE>(VS56_057)Las apátheia se forman a partir
+de la muerte de un entelechia.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(EST_P)
+<VOICE>(VS56_058)No quiere poner a sus
+amigos en peligro...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981466]
+<STR>(YUR)
+<VOICE>(VS56_059)Ba'ul, escúchame.<PAGE><VOICE>(VS56_060)Queremos proteger este mundo.
+Pero no queremos hacerlo
+sacrificando a nadie.<PAGE><VOICE>(VS56_061)No vamos a hacernos con
+las apátheia por la fuerza.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(EST_P)
+<VOICE>(VS56_062)Ba'ul... Por favor.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(YUR)
+<VOICE>(VS56_063)Dinos dónde están
+los entelechia.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(JUD)
+<VOICE>(VS56_064)Erealumen está al
+noreste de Tolbyccia.<PAGE><VOICE>(VS56_065)Relewiese... en el
+continente de Weccea.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(EST_P)
+<VOICE>(VS56_066)Gracias, Ba'ul.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(JUD)
+<VOICE>(VS56_067)También tendremos que ir a las Arenas
+de Kogorh, donde está Phaeroh.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(YUR)
+<VOICE>(VS56_068)Cierto.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576737]
+<STR>(RIT)
+<VOICE>(VS56_069)El noreste de Tolbyccia...
+Me pregunto si será el sitio donde
+se cristalizó una zona recientemente.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(RAV)
+<VOICE>(VS56_070)Weccea es er contintente ese
+al sur de Ilyccia, donde
+está la capital, ¿no?
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(EST_P)
+<VOICE>(VS56_071)Weccea...
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(EST_P)
+<VOICE>(VS56_072)El emperador Calx III envió
+equipos para reclamar la tierra
+hasta en cuatro ocasiones.<PAGE><VOICE>(VS56_073)Pero siempre perdían la comunicación con los
+enviados, y no se volvió a saber de ellos.<PAGE><VOICE>(VS56_074)Es la última tierra sin
+explorar de Terca Lumireis.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576737]
+<STR>(KAR)
+<VOICE>(VS56_075)¿Por qué tiene que habernos tocado un sitio así?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576737]
+<STR>(YUR)
+<VOICE>(VS56_076)Si tan mal está Weccea,
+dejaremos Relewiese para el final.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(JUD)
+<VOICE>(VS56_077)Dice que os deja el resto a vosotros.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525830]
+<STR>(YUR)
+<VOICE>(VS56_078)Gracias, Ba'ul.

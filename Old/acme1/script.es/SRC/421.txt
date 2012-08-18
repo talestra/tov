@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283384774]
+<STR>(RAV)
+<VOICE>(VS40_001)Una ciudad flotante. Menuda estampita.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284852132]
+<STR>(RIT)
+<VOICE>(VS40_002)¡Olvídate de la ciudad!
+¡¿Y ese enorme bicho qué?!
+Parece un ser vivo...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284852132]
+<STR>(JUD)
+<VOICE>(VS40_003)Es un entelechia. Aunque
+con ese no he hablado nunca.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298497020]
+<STR>(YUR)
+<VOICE>(VS40_004)¡¿Un entelechia?!
+¿Cómo ha podido tragarse
+una ciudad entera algo así?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283384774]
+<STR>(JUD)
+<VOICE>(VS40_005)Eso ya no lo sé.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1283384774]
+<STR>(EST_P)
+<VOICE>(VS40_006)No tenía ni idea de que
+existiera una ciudad así.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1283384774]
+<STR>(JUD)
+<VOICE>(VS40_007)Eso es porque Myorzo cortó
+todo contacto con el mundo
+exterior hace siglos.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1283384774]
+<STR>(KAR)
+<VOICE>(VS40_008)No nos va a atacar
+ni nada si nos
+acercamos, ¿verdad?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283384774]
+<STR>(JUD)
+<VOICE>(VS40_009)No te preocupes. Mientras
+tengamos a Ba'ul con nosotros
+deberían dejarnos entrar.

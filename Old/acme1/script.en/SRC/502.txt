@@ -1,0 +1,82 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS52_124)*Huff* *Puff*<PAGE><VOICE>(VS52_125)This hill's pretty brutal.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS52_126)Those knights are amazing.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS52_127)They are...tenacious.
+
+## POINTER 3
+
+<VOICE>(VS52_128)Oh!
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS52_129)Huh?
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS52_130)Hey! <STR>(JUD)!
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS52_131)<STR>(EST_P), I just came to get you.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS52_132)Where's <STR>(RIT)?
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS52_133)<STR>(RIT)'s in Aspio, putting together 
+all of her research.
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS52_134)You'll come too, right?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS52_135)Yeah, if you don't mind me catching a ride.
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS52_136)Then let's go.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS52_137)Sorry to make you worry, <STR>(JUD_P).
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS52_138)My heart was about to burst 
+from worrying so much.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS52_139)Yeah, right.
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS52_140)Hey. I really mean it.
+
+## POINTER 16
+Leblanc
+<VOICE>(VS52_141)Waaaait!!!!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS52_142)Not again. Just once! Just once, I want 
+to take it easy when I leave some place.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS52_143)Goodbye, Knights!
+
+## POINTER 19
+Leblanc
+<VOICE>(VS52_144)Get back here!

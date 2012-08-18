@@ -1,0 +1,212 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS64_244)Looks like you slept well.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS64_245)Yes, I did.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS64_246)Like a log.
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS64_247)The bed was so much more comfortable 
+than when we were here before.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS64_248)Yeah, the whole town is 
+in really good shape.
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS64_249)A city this nice 
+needs a name.
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS64_250)All right, naming genius. Give it a shot.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS64_251)Okay, okay.
+Scrappy Head--
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS64_252)You suck!
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS64_253)Um... The light that 
+melts away the snow... 
+Aurnion. How's that?
+
+## POINTER 10
+Ioder
+<VOICE>(VS64_254)Aurnion... That's a nice name.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS64_255)Now it's got the imperial seal 
+of approval. That settles it.
+
+## POINTER 12
+<STR>(FRE)
+<VOICE>(VS64_256)It's almost time.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS64_257)Yeah. This time it really 
+is the final battle.
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS64_258)Witcher and Sodia already left. They say 
+they'll be in time no matter what.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS64_259)We're counting on them.<PAGE><VOICE>(VS64_260)We can leave at 
+any time. Right?
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS64_261)Right!
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS64_262)Of course.
+
+## POINTER 18
+<STR>(RAP)
+<VOICE>(VS64_263)Woof!
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS64_264)Ba'ul is waiting, too.
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS64_265)Now we just have to fly.
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS64_266)Right!
+
+## POINTER 22
+Ioder
+<VOICE>(VS64_267)We have discussed the blastia 
+and spirits and what to do 
+after everything is done.<PAGE><VOICE>(VS64_268)But I think it will 
+take time for some to 
+accept this change.
+
+## POINTER 23
+<STR>(FRE)
+<VOICE>(VS64_269)You're right... Many people
+will be so lost.
+
+## POINTER 24
+Ioder
+<VOICE>(VS64_270)However, they cannot live 
+in a new world without 
+accepting the changes.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS64_271)...You're right.
+
+## POINTER 26
+Ioder
+<VOICE>(VS64_272)I will start by talking 
+with the people here.<PAGE><VOICE>(VS64_273)They built this wonderful 
+city of Aurnion from 
+nothing but a plain.
+
+## POINTER 27
+<STR>(FRE)
+<VOICE>(VS64_274)Yes, the residents here 
+should accept it.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS64_275)Good luck. No one would listen 
+to me even if I tried.
+
+## POINTER 29
+<STR>(EST_P)
+<VOICE>(VS64_276)No way!
+
+## POINTER 30
+Ioder
+<VOICE>(VS64_277)<STR>(EST), everyone...take 
+care.
+
+## POINTER 31
+<STR>(FRE)
+<VOICE>(VS64_278)Everyone! Please! Stop working 
+for a moment. His Majesty 
+Ioder has something to say!
+
+## POINTER 32
+Ioder
+<VOICE>(VS64_279)I have something very important 
+to tell you all.<PAGE><VOICE>(VS64_280)This will affect the 
+empire, the guilds and 
+even the Entelexeia.
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS64_281)I wonder if they'll be OK?
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS64_282)They believed in us 
+enough to send us. 
+Let's believe in them.
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS64_283)Yes.
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS64_284)Well, we have our 
+own work to do.
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VS64_285)<STR>(KAR). Do your thing.
+
+## POINTER 38
+<STR>(KAR)
+<VOICE>(VS64_286)Right.<PAGE><VOICE>(VS64_287)Everybody! We will win 
+no matter what! Onward 
+Brave Vesperia!
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS64_288)Okay!
+
+## POINTER 40
+<STR>(EST_P)
+<VOICE>(VS64_289)Right!
+
+## POINTER 41
+<STR>(RIT)
+<VOICE>(VS64_290)Yeah!
+
+## POINTER 42
+<STR>(RAV)
+<VOICE>(VS64_291)Yeah, sure.
+
+## POINTER 43
+<STR>(JUD)
+<VOICE>(VS64_292)Understood.
+
+## POINTER 44
+<STR>(RAP)
+<VOICE>(VS64_293)Woof!

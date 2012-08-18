@@ -1,0 +1,90 @@
+## POINTER 0
+
+Ah, Doctor, thank you for 
+your help the other day.
+
+## POINTER 1
+<STR>(EST_P)
+D-doctor... Y-you 
+mean me...?
+
+## POINTER 2
+
+Yes, of course. You 
+treated me in the hospital 
+the other day.<PAGE>You're not usually working 
+in the hospital 
+though, are you?
+
+## POINTER 3
+<STR>(EST_P)
+N-no...
+I'm usually 
+out traveling...<PAGE>But you know, I'm 
+not really a Doc--
+
+## POINTER 4
+
+Hey, what's up?
+
+## POINTER 5
+
+This is the doctor at the hospital 
+I was telling you about.
+
+## POINTER 6
+
+Oh, I didn't think she'd be this 
+young. Maybe I'll go and pay 
+you a visit sometime soon.<PAGE>My shoulder's been hurting 
+me a bit lately, y'see.
+
+## POINTER 7
+<STR>(EST_P)
+Ummm... But I'm not...
+
+## POINTER 8
+
+Oh, so this is the 
+famous doctor girl?
+
+## POINTER 9
+
+Yeah, it's her! Thanks to this miracle 
+worker, I'm the very picture of health!
+
+## POINTER 10
+
+I see! Keep 
+up the good 
+work, Doctor!
+
+## POINTER 11
+<STR>(EST_P)
+R-right...
+
+## POINTER 12
+
+Thanks again, Doctor!
+
+## POINTER 13
+
+If I feel sick, I'll be sure to come and see you!
+
+## POINTER 14
+<STR>(EST_P)
+I... But... You see...
+
+## POINTER 15
+<STR>(YUR)
+Looks like you're developing quite a fan club, <STR>(EST_P).
+
+## POINTER 16
+<STR>(JUD)
+Maybe you should start
+collecting magazines to
+put in your waiting room?
+
+## POINTER 17
+<STR>(EST_P)
+This is a bit of a pickle...

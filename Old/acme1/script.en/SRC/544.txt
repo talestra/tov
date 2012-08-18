@@ -1,0 +1,16 @@
+## POINTER 0
+<STR>(FRE)
+<VOICE>(VS64_066)<STR>(YUR), do you have a minute?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS64_067)Hm? Yeah, sure. What's up?
+
+## POINTER 2
+<STR>(FRE)
+<VOICE>(VS64_068)...Not here. I'll be waiting 
+at the entrance.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS64_069)...?

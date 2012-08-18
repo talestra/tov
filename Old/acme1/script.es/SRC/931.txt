@@ -1,0 +1,146 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289587269]
+<STR>(EST_P)
+Así que esto también
+es un aer krene...
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294610583]
+<STR>(RAV)
+Me da a mí que hay más
+de los que pensábamos
+por ahí en er mundo.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289587269]
+<STR>(KAR)
+¿Crees que hay aún más
+lugares de estos?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289587269]
+<STR>(JUD)
+Quizá. Hay un montón de sitios
+del planeta que los humanos
+aún no han visto.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289587269]
+<STR>(RIT)
+¿Cómo lo ves,
+<STR>(YUR)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027386]
+<STR>(YUR)
+Solo tengo
+que acercarme, ¿no?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289587269]
+<STR>(KAR)
+Ajá, ¡ahí
+estamos!
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289587269]
+<STR>(RIT)
+A ver.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289587269]
+<STR>(RIT)
+La geometría ya
+ha cambiado.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858538]
+<STR>(RAV)
+¿Y eso qué significa?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289587269]
+<STR>(YUR)
+¡Que toca hacer un tiro de prueba!
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289587269]
+<STR>(KAR)
+Hala, ¡menuda
+potencia!
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289587269]
+<STR>(EST_P)
+¡Ahora va más rápido
+y más lejos!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858538]
+<STR>(RIT)
+Considerando el tamaño del
+Anillo del Hechicero, yo
+diría que este es su límite.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858538]
+<STR>(YUR)
+Nos basta para
+lo que necesitamos
+hacer.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294610583]
+<STR>(RAV)
+Tengo que decir que m'ha sorprendío
+todos los diferentes efectos
+que puede tener el aer.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289587269]
+<STR>(RIT)
+Bueno, verás...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027391]
+<STR>(YUR)
+Pero me da la sensación de que todos esos
+efectos solo son diferentes maneras que
+tiene el aer de interactuar consigo mismo.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858538]
+<STR>(RIT)
+Bueno, una alta afinidad del aer crea...
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289589303]
+<STR>(KAR)
+Y después la aplicación de esos efectos en
+ciertos objetos permite que las tecnologías
+de los blastias y la magia se desarrollen.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289589303]
+<STR>(RIT)
+Bueno, el maná convertido es...
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289590754]
+<STR>(JUD)
+Así que el aer se divide en diferentes atributos
+en forma de magia y cuando se usa libera
+energía y se vuelve a transformar en aer.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858538]
+<STR>(RAV)
+Así que así es como nos ha ayudao
+el aer en nuestro día a día, ¿eh?
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289590754]
+<STR>(RIT)
+Me rindo...
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289590754]
+<STR>(YUR)
+No, ¡tus explicaciones son
+demasiado difíciles de entender!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858538]
+<STR>(KAR)
+Pero la civilización que tenemos
+está basada en el aer y los blastias,
+y pronto terminará...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858538]
+<STR>(JUD)
+Bueno, ¡pero tenemos los espíritus elementales!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858538]
+<STR>(RAV)
+Sastamente. Además, aún tenemos
+tiempo hasta que lo dejemos.
+Hasta entonces, ¡a aprovechar!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858538]
+<STR>(KAR)
+Sí, tienes razón.<PAGE>En fin, al menos podemos dar las gracias de
+que el Anillo del Hechicero sea aún más útil.

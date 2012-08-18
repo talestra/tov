@@ -1,0 +1,102 @@
+## POINTER 0
+Ted
+Wow, <STR>(YUR). You're 
+great. Win 
+after win!
+
+## POINTER 1
+<STR>(YUR)
+Oh, really?
+
+## POINTER 2
+<STR>(EST_P)
+You're really skilled 
+at that, <STR>(YUR).
+
+## POINTER 3
+<STR>(JUD)
+Yeah, probably because you're good at understanding people.
+
+## POINTER 4
+<STR>(RAV)
+Hey, I'm gettin' 
+pretty bored with 
+just watchin'.
+
+## POINTER 5
+Ted
+Well then, would you like to try running? 
+It would be absolutely fine.<PAGE>...Would you ladies like to try, too?
+
+## POINTER 6
+<STR>(KAR)
+Girls are allowed to run, too?
+
+## POINTER 7
+Ted
+Girls can't run in the Old Man's 
+Race, but there's an freestyle 
+race that anyone can enter.
+
+## POINTER 8
+Leblanc
+<STR>(YUR) Lowell! I thought 
+I might find you here!<PAGE>I heard that the lower quarter has been in an uproar lately, 
+so I came to have a look! And who do I find but you, stirring 
+up trouble while the whole world's in a crisis...!
+
+## POINTER 9
+<STR>(YUR)
+Hoo boy, if it isn't our 
+old friend Leblanc...
+
+## POINTER 10
+Leblanc
+Who gave you permission for this? <STR>(YUR) Lowell, you are 
+the chief perpetrator here, I assume? It looks like 
+you need to be taught a lesson in responsibility!
+
+## POINTER 11
+<STR>(RAV)
+Hey now, is there a problem here?
+
+## POINTER 12
+Leblanc
+Sir <STR>(RAV), plain and 
+simple! Th-the world's 
+in danger, and...
+
+## POINTER 13
+<STR>(RAV)
+<STR>(YUR)'s just tryin' to shine some 
+light inta the dark an' dreary 
+lives of the city's people.<PAGE>Don't ya think that's a worthwhile effort?
+
+## POINTER 14
+Leblanc
+Y-yes, sir! I apologize 
+for speaking 
+out of turn!
+
+## POINTER 15
+<STR>(EST_P)
+And everyone's having a good time, too. Maybe 
+you'd like to try racing with us, too?
+
+## POINTER 16
+Leblanc
+P-princess...
+Y-you 
+want me to race?
+
+## POINTER 17
+<STR>(YUR)
+Hah hah. Don't worry, 
+I'll show you exactly 
+what to do.
+
+## POINTER 18
+Ted
+Okay, then I'll set 
+things up for the 
+freestyle race.

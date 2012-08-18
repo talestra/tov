@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959484]
+Tokunaga
+Solo puedes desembarcar donde veas
+un muelle, un puerto o una playa.<PAGE>No podrás ir a tierra
+donde haya montañas.<PAGE>El barco no puede pasar por rocas, y tampoco puede
+navegar por zonas poco profundas cercanas a las islas.<PAGE>Quizás puedas hacerlo ir por algunos
+ríos, si son lo bastante profundos.<PAGE>Pero si hay algún puente que cruce
+el río, no podrás pasar por debajo.
+¡No querrás arrancar el mástil!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295174957]
+Tokunaga
+Hay otros lugares donde
+puedes desembarcar.<PAGE>Ten en cuenta que, en otros
+continentes, hay monstruos
+mucho más fuertes que tú.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959495]
+Información
+Controlar el Fiertia
+　
+<06>(LTN)　　　　Mover
+<06>(RTN)　　　　Controlar la cámara
+<06>(R3)　　　　Girar la cámara al norte
+<06>(RBD)　　　　Accíon (Entrar, embarcar, desembarcar, etc.）
+<06>(RBL)　　　　Abrir mapa de navegación
+<06>(RBU)　　　　Ir al Menú Principal
+<06>(R1)　　　　Girar cámara: sentido horario
+<06>(L1)　　　　Girar cámara: sentido anti horario
+<06>(R2)　　　　Adelante
+<06>(L2)　　　　Atrás
+<06>(STA)　　　　Pausa
+<06>(SEL)　　　　Activar skit
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1295174957]
+Tokunaga
+Eso es todo.

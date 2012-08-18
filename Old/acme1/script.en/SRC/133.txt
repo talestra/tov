@@ -1,0 +1,23 @@
+## POINTER 0
+<STR>(EST_P)
+The person who lives here must 
+be quite an ardent scholar.
+
+## POINTER 1
+<STR>(YUR)
+Just because someone studies hard, 
+that doesn't mean that their actions 
+are right or just.
+
+## POINTER 2
+<STR>(KAR)
+Hey, the cover's about to fall off this one!
+
+## POINTER 3
+<STR>(EST_P)
+Treat books with respect! Priceless information 
+is written on their pages!
+
+## POINTER 4
+<STR>(KAR)
+Y-yes...

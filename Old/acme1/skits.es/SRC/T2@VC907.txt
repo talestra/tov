@@ -1,0 +1,48 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1252062710]
+El nacimiento de los espíritus
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266329975]
+(JUD)
+El mundo está cambiando.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266329975]
+(EST_P)
+¿Qué ocurre, (JUD)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266329975]
+(JUD)
+Una elección equivocada podría haber
+llevado a una destrucción aún mayor,
+pero en vez de eso nacieron los espíritus.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266329975]
+(EST_P)
+A veces se han de tomar decisiones difíciles
+para que las cosas cambien...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1266329975]
+(EST_P)
+Los espíritus son la prueba de ello.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1264686686]
+(JUD)
+Tal vez sus formas actuales nos muestran
+el futuro que los entelechia esperaban crear.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1266329975]
+(EST_P)
+Sí... Creo que tienes razón.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1266329975]
+(BAU)
+...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1266329975]
+(JUD)
+Un día... puede que Ba'ul tenga que afrontar
+la decisión de convertirse en un espíritu.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1264686700]
+(JUD)
+Si los espíritus representan la evolución
+para los entelechia, entonces...

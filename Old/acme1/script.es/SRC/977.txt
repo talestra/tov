@@ -1,0 +1,99 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(EST_P)
+Parece un callejón sin salida...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(JUD)
+No lo es. ¡Mira!
+Hay una escalera.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(KAR)
+Pero no podemos usarla para ascender.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(RAV)
+¿Y no hay ná que podamos
+usar pá que que baje?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1279492091]
+<STR>(RIT)
+Necesitamos aer.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1279492091]
+<STR>(EST_P)
+¿Aer?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(RIT)
+Exacto. La escalera
+podría bajar si este tubo
+conductor suministrase aer.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1279492470]
+<STR>(KAR)
+¿Cómo lo hacemos?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(RIT)
+¿Por qué no piensas tú solito por una vez en tu vida?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(KAR)
+¿Tal vez usando los engranajes?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(RIT)
+Correcto. Aunque mover un engranaje
+no bastará para impulsar el flujo de aer.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(YUR)
+Vamos, que necesitamos mover unos cuantos más.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(YUR)
+Muy bien, a buscar tocan.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(KAR)
+No sabrás cuáles son, ¿verdad?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(RIT)
+No lo vas a pillar
+hasta que te zurre
+una buena, ¿eh?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(KAR)
+Un momento, ¿eso quiere decir que las
+otras veces no me pegabas en serio?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(YUR)
+Dejadlo ya, anda.
+Empecemos a buscar
+alguna forma de subir.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1279493135]
+<STR>(KAR)
+¿Y si usamos ese engranaje?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(RIT)
+Bien. Lo has pescado
+rápido para ser tú.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(KAR)
+¡Chúpate esa!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(RIT)
+¡No te emociones tanto!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1280071785]
+<STR>(YUR)
+Bueno, ¿qué tal si
+movemos ese engranaje?

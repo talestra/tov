@@ -1,0 +1,83 @@
+## POINTER 0
+<STR>(RIT)
+Argh, what the hell! Who rides 
+a monster like that!
+
+## POINTER 1
+<STR>(KAR)
+That was the dragon rider.
+
+## POINTER 2
+<STR>(RIT)
+Dragon rider? More like 
+dragon freak! Hurting my 
+blastia like that!
+
+## POINTER 3
+<STR>(KAR)
+"Dragon freak"...*sigh* You know, <STR>(RIT), 
+that blastia wasn't even yours.
+
+## POINTER 4
+<STR>(EST_P)
+Anyway, why do you think 
+someone would go around 
+destroying blastia?
+
+## POINTER 5
+<STR>(YUR)
+That's a good question. I'd like 
+to sit down and pick that dragon 
+rider's brain sometime.
+
+## POINTER 6
+<STR>(RIT)
+As if you could have a normal conversation 
+with someone like that!
+
+## POINTER 7
+<STR>(YUR)
+Do you think you can go home by yourself?
+
+## POINTER 8
+
+You're going to go get that bad 
+Ragou person, aren't you?
+
+## POINTER 9
+<STR>(YUR)
+Yeah, we want to hurry.
+
+## POINTER 10
+
+It's okay. I can go 
+home by myself.
+
+## POINTER 11
+<STR>(YUR)
+There's a good boy.
+
+## POINTER 12
+<STR>(KAR)
+...<STR>(EST_P), what's the matter?
+
+## POINTER 13
+<STR>(EST_P)
+I still can't believe the 
+magistrate could do such 
+terrible things...
+
+## POINTER 14
+<STR>(KAR)
+Sadly, it's pretty common.
+
+## POINTER 15
+<STR>(YUR)
+Haven't you already seen what 
+the empire's capable of several 
+times on this trip already?
+
+## POINTER 16
+<STR>(KAR)
+While you guys are having a nice little 
+chat, Ragou's escaping in his ship!

@@ -1,0 +1,66 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567935]
+<STR>(KAR)
+<VOICE>(VS07_500)
+*Suspiro* Me he equivocado de persona...
+Y encima nadie del gremio
+ha aparecido por aquí...<PAGE><VOICE>(VS07_501)La he hecho esperar tanto que seguro
+que se ha enfadado y se ha ido...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567935]
+<STR>(KAR)
+<VOICE>(VS07_502)Quería enseñarle las flores
+de Halure en plena floración.
+Y entonces, quizá...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567935]
+<STR>(EST_P)
+<VOICE>(VS07_503)¿Qué te ocurre, <STR>(KAR)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:parsec;time:1271507895]
+<STR>(KAR)
+<VOICE>(VS07_504)¿Adónde ha ido? 
+¿De verdad se ha largado?
+Lo hago lo mejor que puedo...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:parsec;time:1271213857]
+<STR>(EST_P)
+<VOICE>(VS07_505)¿<STR>(KAR)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273568221]
+<STR>(YUR)
+<VOICE>(VS07_506)Dejémoslo solo un rato.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273568221]
+<STR>(KAR)
+<VOICE>(VS07_507)Se ha acabado, se ha acabado.
+Todo se ha acabado, acabado.
+Todo, todo se ha acabado...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1273568221]
+<VOICE>(VS07_508)¡Sí! ¡Por fin tenemos armas!
+¡Vamos a aplastar a esos monstruos!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273568221]
+<VOICE>(VS07_509)¡Ahora el alcalde nos dejará luchar!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273568221]
+<VOICE>(VS07_510)¡Vamos a destrozar esos monstruos
+como hizo <STR>(FRE)!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1273568221]
+<VOICE>(VS07_511)¡Sí!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1273568221]
+<VOICE>(VS07_512)¡Sí!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273568221]
+<VOICE>(VS07_513)¡Sí!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1273568221]
+<STR>(EST_P)
+<VOICE>(VS07_514)Hasta esos críos quieren luchar.
+Ojalá la barrera se restablezca pronto.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1273568221]
+<STR>(YUR)
+<VOICE>(VS07_515)Eso espero.

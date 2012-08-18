@@ -1,0 +1,37 @@
+## POINTER 0
+<STR>(KAR)
+Look, up ahead...!
+
+## POINTER 1
+<STR>(YUR)
+Let's get outta here!
+
+## POINTER 2
+<STR>(KAR)
+A-are you okay?
+
+## POINTER 3
+
+Oooo.... It's, 
+it's you...
+
+## POINTER 4
+<STR>(EST_P)
+Do you feel better now?
+
+## POINTER 5
+
+Ohh...my wife, where's my wife...
+
+## POINTER 6
+<STR>(KAR)
+Do you mean this woman...? 
+She's right here.
+
+## POINTER 7
+<STR>(EST_P)
+Please, hold still.
+
+## POINTER 8
+
+W-water...

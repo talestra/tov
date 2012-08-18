@@ -1,0 +1,120 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VA030_113)What? What's going on?!
+
+## POINTER 1
+Duke
+<VOICE>(VA030_114)Impossible... This is 
+the spiral draco...
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VA030_115)The fell arms are reacting 
+to Dein Nomos?! And what's 
+that light surrounding Duke...?!
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VA030_116)Dein Nomos and the tower are 
+combining to restore the power 
+of the fell arms! But how...?!
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VA030_117)What's going on...?!
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VA030_118)Are these the fell arms 
+in their true form...?!
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VA030_119)They're nothing like 
+they used to be!
+
+## POINTER 7
+Duke
+<VOICE>(VA030_120)Now, the ancient king 
+of the Entelexeia will 
+fight at my side...!
+
+## POINTER 8
+Duke
+<VOICE>(VA030_121)It is the will of the very 
+planet. The will of Terca 
+Lumireis itself!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA030_122)I don't give a damn about 
+your crazy ideas!
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VA030_123)We decide our own sense 
+of right and wrong. The 
+rest, I leave to my sword.
+
+## POINTER 11
+Duke
+<VOICE>(VA030_124)You will not be persuaded, I see... 
+Perhaps it is for the best.
+
+## POINTER 12
+Duke
+<VOICE>(VA030_125)Join me now in battle, for 
+the sake of this world!
+
+## POINTER 13
+Duke
+<VOICE>(VS65_181)I'm sorry...Elucifur... I could 
+not keep...my promise...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS65_182)*Huff*...*huff*...<PAGE><VOICE>(VS65_183)I don't know what Elucifur 
+was like, so this doesn't 
+mean much coming from me.<PAGE><VOICE>(VS65_184)But if Elucifur fought for humans 
+during the Great War...<PAGE><VOICE>(VS65_185)...then I don't think 
+he'd want his friend 
+to reject humanity.
+
+## POINTER 15
+Duke
+<VOICE>(VS65_186)Elucifur's wish...<PAGE><VOICE>(VS65_187)To protect the world... 
+Peace for all living 
+things...
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS65_188)<STR>(YUR)! Hurry!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS65_189)I'm on it.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS65_190)Here we go... <STR>(EST_P), synchronize. 
+<STR>(JUD), give me support.
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS65_191)Okay!
+
+## POINTER 20
+<STR>(JUD)
+<VOICE>(VS65_192)Understood.
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS65_193)<STR>(YUR), let's go!
+
+## POINTER 22
+<STR>(RAV)
+<VOICE>(VS65_194)We're counting on you, boss!
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS65_195)Haaah!

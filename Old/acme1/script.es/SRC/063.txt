@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166583]
+
+¡¡Bienvenidos a la famosa refriega
+de ochenta rivales de Palestrale!!<PAGE>¡Este nivel separa el grano de la paja!
+¡¿Es nuestro participante un valiente
+o un loco imprudente?!<PAGE>¡Lucha tras lucha tras lucha!
+¡Ochenta enemigos derrotados!
+¡Quién lo habría imaginado!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166583]
+<STR>(YUR)
+¡Ooooh!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166583]
+<STR>(EST_P)
+¡¡A-Allá voy!!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166583]
+<STR>(KAR)
+¡N-No te-tengo mi-miedo!!
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270896230]
+<STR>(RIT)
+A ver si me esfuerzo 
+un poco, no vaya a...
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270896230]
+<STR>(RAV)
+Mmm.... Me pregunto si no es demasiao
+tarde pa que <STR>(YUR) haga esto por mí...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166583]
+<STR>(JUD)
+Je, je. El corazón
+me late muy deprisa.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166583]
+<STR>(RAP)
+¡¡Auuuuu!!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166583]
+
+¡Prepárense! 
+¡El final puede estar cerca!<PAGE>Preparados... 
+¡A luchar!

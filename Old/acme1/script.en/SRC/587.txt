@@ -1,0 +1,167 @@
+## POINTER 0
+
+Well now, if it isn't the Brave Pizzeria.
+
+## POINTER 1
+<STR>(KAR)
+It's Brave VESPERIA!
+
+## POINTER 2
+
+You're gonna have to forgive me. 
+Never been very good with names.<PAGE>Here for more work?
+
+## POINTER 3
+Look for job?
+Yes
+No
+
+## POINTER 4
+
+Well, whenever you're in need of 
+work, feel free to stop by. I 
+should be able to hook you up.
+
+## POINTER 5
+
+So you're up to it, huh?<PAGE>Well let's see here... Oh, right. 
+There is that one thing... Hmm...
+
+## POINTER 6
+<STR>(JUD)
+Something the matter?
+
+## POINTER 7
+
+Nah... It's just that this 
+one's come as a direct request 
+from the Union itself.
+
+## POINTER 8
+<STR>(KAR)
+Does that mean it's a tough job?
+
+## POINTER 9
+
+Not necessarily.<PAGE>More likely that the client isn't 
+too familiar with the way the 
+Union and the guilds work.
+
+## POINTER 10
+<STR>(YUR)
+I wish to be put in contact 
+with a certain guild.
+-Mimula
+
+## POINTER 11
+<STR>(KAR)
+Why did the Union pass 
+this job to you?
+
+## POINTER 12
+
+This person approached the Union 
+directly about getting a hold of 
+this guild they mention here.
+
+## POINTER 13
+<STR>(RAV)
+And the Union isn't a matchmakin' 
+service for guilds and their 
+potential clients.
+
+## POINTER 14
+<STR>(JUD)
+Then why is the job 
+being posted here?
+
+## POINTER 15
+
+Because we're in the business of lending 
+a hand to the newer guilds that can't 
+find work on their own yet.
+
+## POINTER 16
+<STR>(YUR)
+Heh, so that's what's up.
+
+## POINTER 17
+<STR>(JUD)
+Well, what do you think? 
+Should we take the job?
+
+## POINTER 18
+<STR>(YUR)
+What do they mean 
+by "certain guild?"
+
+## POINTER 19
+
+That's something only the guild that takes 
+the job gets to know, I'm afraid.<PAGE>The reward is 6000 Gald. 
+Will you take it?
+
+## POINTER 20
+Accept job?
+Accept job
+Decline offer
+
+## POINTER 21
+
+The client for this job isn't exactly 
+nearby. Are you up to it?
+
+## POINTER 22
+<STR>(KAR)
+Where are they?
+
+## POINTER 23
+
+The imperial capital of Zaphias.
+
+## POINTER 24
+<STR>(YUR)
+That means...
+
+## POINTER 25
+<STR>(KAR)
+This Mimula isn't 
+somebody you know, 
+is it <STR>(YUR)?
+
+## POINTER 26
+<STR>(YUR)
+No...not a name I've heard before...
+
+## POINTER 27
+<STR>(RAP)
+*Whine*...
+
+## POINTER 28
+<STR>(YUR)
+Maybe a more recent arrival...
+
+## POINTER 29
+<STR>(JUD)
+We might as well have a look. 
+With Ba'ul's help it's just 
+a short flight away.
+
+## POINTER 30
+<STR>(RAP)
+Woof!
+
+## POINTER 31
+<STR>(YUR)
+All right, let's go.
+
+## POINTER 32
+
+I see. If you feel like doing 
+some more work, let me know.
+
+## POINTER 33
+
+Oh, the job I mentioned last 
+time is still open. Would 
+you like to take it?

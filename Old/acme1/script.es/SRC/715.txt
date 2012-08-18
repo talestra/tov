@@ -1,0 +1,110 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1286466328]
+<STR>(YUR)
+Volvemos a encontrarnos.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1286466328]
+Clint
+Mmpf...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294510803]
+<STR>(KAR)
+¡E-Esperad!
+Quiero hablar con Nan...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1286466375]
+Nan
+<STR>(KAR)...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1286466328]
+Tison
+¿Y bien, Nan? 
+¿Tienes algo que 
+decir a este chico?
+
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1286466328]
+Nan
+M-Maestro... 
+Yo...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:miyu;time:1286466328]
+Clint
+...<PAGE>Nos vamos a Dahngrest. 
+Asegúrate de estar aquí 
+por la mañana.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294434235]
+Nan
+Jefe... Gracias.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:miyu;time:1286466328]
+<STR>(KAR)
+...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:miyu;time:1286466328]
+Nan
+¿Qué quieres, <STR>(KAR)?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294510803]
+<STR>(KAR)
+Pues... hay algo
+de lo que quería 
+hablarte, Nan.<PAGE>Siento haber sido siempre tan indeciso... 
+y haberte causado tantos problemas.<PAGE>Pero al viajar con <STR>(YUR) y
+los demás, he comprendido qué es
+lo que me importa de verdad.<PAGE>Y por eso...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294510803]
+Nan
+¿Podrías dejar de fastidiarme?
+Tú... solo piensas en ti mismo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:miyu;time:1286624111]
+<STR>(KAR)
+Nan...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294510803]
+Nan
+Ahora sabes lo que te importa
+de verdad. ¿Y qué? Nada cambiará
+si sigues siendo igual de débil.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:miyu;time:1286466328]
+<STR>(KAR)
+Me haré más fuerte.
+Te lo prometo, Nan.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294510803]
+Nan
+Ya... Siempre dices
+lo mismo, pero nunca
+lo cumples.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294510803]
+<STR>(KAR)
+Pu-puede que así fuera pero... 
+confía en mí. Esta vez es
+diferente, Nan. He cambiado.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294510803]
+Nan
+De acuerdo.
+Voy a enseñarte una
+técnica que conozco.<PAGE>Si logras dominarla en una noche,
+cambiaré de opinión respecto a ti.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294510803]
+<STR>(KAR)
+¿En... una noche?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294510814]
+<STR>(YUR)
+¡Tendremos que pasar la noche aquí, entonces!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:miyu;time:1286466328]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:miyu;time:1286466328]
+<STR>(KAR)
+Gracias, <STR>(YUR)...

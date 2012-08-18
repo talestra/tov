@@ -1,0 +1,49 @@
+## POINTER 0
+Built Like a Maze
+
+## POINTER 1
+(EST_P)
+Hmmm, how interesting...
+
+## POINTER 2
+(KAR)
+(EST_P) looks as interested
+in cities as always...
+
+## POINTER 3
+(YUR)
+(EST_P)! C'mon, let's stick together!
+
+## POINTER 4
+(EST_P)
+I'm fine!
+
+## POINTER 5
+(YUR)
+The buildings are run-down, it's 
+overgrown, and this place is seriously 
+built like a maze...
+
+## POINTER 6
+(RIT)
+With all these obstacles
+in the way, it's pretty tough
+to go where you want to go.
+
+## POINTER 7
+(KAR)
+Huh...? (EST_P)?!
+
+## POINTER 8
+(EST_P)
+Sorry, I got sidetracked!
+
+## POINTER 9
+(YUR)
+I thought I just said 
+to stick together!
+
+## POINTER 10
+(RIT)
+You all need to be more careful. I've 
+never seen anyone get lost so easily!

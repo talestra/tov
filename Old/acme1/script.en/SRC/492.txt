@@ -1,0 +1,38 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS51_026)There's a breeze... 
+It's a vent.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS51_027)Leave it to me!
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS51_028)<STR>(RIT), don't worry. I'm fine.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS51_029)Please, I-I'm not worried.
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS51_030)You clearly are.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS51_031)Oh, shut up! Hurry up
+and get that thing open!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS51_032)You're the only one shouting.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS51_033)Got it!
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS51_034)Wonderful, let's
+take a look.

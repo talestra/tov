@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251835457]
+¡Se ha comido el aer!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118633]
+(RIT)
+¿Un monstruo que consume aer?
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:xander;time:1256412024]
+(EST_P)
+¿Qué era aquella criatura?
+
+## POINTER 3 [t:1;r:2;ru:lia,memnoch;user:xander;time:1256412024]
+(KAR)
+De algún modo parecía distinta al resto de monstruos.
+
+## POINTER 4 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267180940]
+(YUR)
+Sí, eso está claro...
+También parecía que nos estaba mirando.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118633]
+(RAV)
+Tal vez taba decidiendo
+a quién de nosotros comerse primero.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118633]
+(EST_P)
+D-De hecho, me miró a los ojos
+durante un buen rato...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118633]
+(JUD)
+Qué suerte tienes.
+Debió pensar que tú
+eras la más apetitosa.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297118633]
+(EST_P)
+Yo no llamaría «suerte» a eso...

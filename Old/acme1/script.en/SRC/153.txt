@@ -1,0 +1,52 @@
+## POINTER 0
+<STR>(KAR)
+Wh...what's that?
+
+## POINTER 1
+<STR>(KAR)
+Gyaaaah!
+
+## POINTER 2
+<STR>(KAR)
+Th-that's one of the monsters 
+that attacked Halure village!
+
+## POINTER 3
+<STR>(YUR)
+A survivor, 
+huh?
+
+## POINTER 4
+<STR>(RIT)
+If we leave it here it'll 
+surely go back and try to 
+attack Halure again...
+
+## POINTER 5
+<STR>(EST_P)
+But Halure has the barrier protecting it now.
+
+## POINTER 6
+<STR>(YUR)
+Even so, how are the people of Halure supposed 
+to sleep at night with beasts like this crawling 
+around just outside the barrier?
+
+## POINTER 7
+<STR>(KAR)
+Wh-what the heck! It hardly 
+put up a fight!
+
+## POINTER 8
+<STR>(EST_P)
+But there could be a dozen more 
+just around the corner...
+
+## POINTER 9
+<STR>(KAR)
+N-no worries, seriously!
+
+## POINTER 10
+<STR>(YUR)
+Well, let's just hope there aren't 
+too many more where it came from.

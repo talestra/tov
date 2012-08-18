@@ -1,0 +1,175 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1272010007]
+Toth
+Me acuerdo de vosotros. 
+¿En qué puedo ayudaros?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1272010007]
+<STR>(RIT)
+Quiero que me enseñes a usar
+una magia llamada Astion.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+Toth
+¿La conoces? Impresionante.
+Pero, por desgracia,
+no puedo enseñártela.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(KAR)
+¿Y no hay algún modo? 
+¡Haremos lo que haga falta 
+para detener al adephagos!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+Toth
+Aun así...<PAGE>Oh, ¿eso es...
+un muñeco de gálago?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(EST_P)
+Oh, ¿esto? Nos lo regaló
+el patriarca de Myorzo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+Toth
+Mmm... Hagamos un trato, pues.
+Os enseñaré la Astion si me dais el muñeco.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:miyu;time:1272010555]
+<STR>(RIT)
+¿Eh? ¿De verdad de la buena?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:miyu;time:1272916502]
+<STR>(EST_P)
+¡Pero no podemos hacerlo!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:miyu;time:1272010555]
+Toth
+Este muñeco es un objeto extremadamente 
+valioso para los krityanos.
+<PAGE>Originalmente se usaba para 
+la ceremonia en honor a Krones.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:miyu;time:1272916502]
+<STR>(KAR)
+¿Krones?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+Toth
+Krones es el nombre del que transporta Myorzo.<PAGE>Para los krityanos de Myorzo, Krones es
+el ser más sagrado de todos. Por eso
+este muñeco que tenéis es tan importante.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1284855782]
+<STR>(KAR)
+Pues al patriarca no le importó deshacerse de él...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(YUR)
+Nosotros también deberíamos. Si lo que
+quiere es esta baratija, se la daremos.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+Toth
+¿«Esta baratija»?...
+<PAGE>¡Menuda falta de respeto
+hacia el muñeco de gálago!
+¡Retíralo!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(YUR)
+Oh, vale... Lo siento.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:miyu;time:1272012924]
+<STR>(RIT)
+Ni nos va ni nos viene. 
+Venga, <STR>(EST_P), dáselo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(EST_P)
+P-Pero es que...  
+¡Es tan mono!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(RIT)
+¿Y qué? ¡Esta cosa nos
+permitirá aprender la magia!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:miyu;time:1272012924]
+<STR>(EST_P)
+Prefiero este muñeco adorable a ese estúpido hechizo...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(RIT)
+¡Deja de comportarte
+como una niña y dámelo!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:miyu;time:1272012924]
+<STR>(YUR)
+¿Sabías que algunos muñecos están
+atados a fuertes maldiciones que 
+afectan a todo el que los toca?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(EST_P)
+¡Aaah!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:miyu;time:1272471965]
+Toth
+Increíble. Jamás pensé que llegaría el día
+en que tuviera este muñeco en mis manos.<PAGE>Esto es para ti.<PAGE>Toda la información sobre la Astion
+está escrita en este libro.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(EST_P)
+Ooooh. ¡¿Cómo habéis podido engañarme así?!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(RIT)
+Madura un poco, anda.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:miyu;time:1272012924]
+<STR>(RIT)
+Mmm, parece que esta magia 
+es del tipo de <STR>(EST_P).
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(EST_P)
+¿Eh? ¿Mi tipo?...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:miyu;time:1272012924]
+<STR>(RIT)
+Léete esto para mañana y
+veremos si puedes usarla.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:miyu;time:1272012924]
+<STR>(KAR)
+¿Por qué dices que es del tipo de <STR>(EST_P)?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(RIT)
+La fórmula es muy interesante porque
+es antigua, pero a mí no me sirve.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:miyu;time:1272916502]
+<STR>(KAR)
+¿...?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(RIT)
+¿Como lo diría? Es una magia demasiado
+simple. Muy rústica, si lo prefieres así.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:miyu;time:1272012924]
+<STR>(YUR)
+¿Así que se la das a <STR>(EST_P) 
+porque te parece aburrida?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(RIT)
+¡Dicho así suena fatal! Lo que pasa es que a algunas
+personas les interesan más un cierto tipo de cosas.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189169]
+<STR>(KAR)
+Eres lo peor...

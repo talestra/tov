@@ -1,0 +1,32 @@
+## POINTER 0
+<STR>(FRE)
+<VOICE>(VS61_032)We're about to the middle!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS61_033)I'm still up for some more fighting!
+
+## POINTER 2
+<STR>(FRE)
+<VOICE>(VS61_034)Heh, you look like you're actually having 
+fun in the middle of all this.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS61_035)Heh heh. You do too.
+
+## POINTER 4
+<STR>(RAP)
+<VOICE>(VS61_036)Woof woof!
+
+## POINTER 5
+<STR>(FRE)
+<VOICE>(VS61_037)Now, <STR>(YUR)!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS61_038)Right!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS61_039)Take this!

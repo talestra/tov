@@ -1,0 +1,39 @@
+## POINTER 0
+A Nia Fruit? Here?
+
+## POINTER 1
+(EST_P)
+Why would a nia fruit be lying 
+on the ground in the forest?
+
+## POINTER 2
+(EST_P)
+I didn't see a nia 
+tree nearby...
+
+## POINTER 3
+(KAR)
+Oh, that'd be the monsters in the forest. 
+It's how they mark their territory.
+
+## POINTER 4
+(EST_P)
+Can we really just take it, then? 
+...I suppose there's no way 
+for us to ask permission.
+
+## POINTER 5
+(YUR)
+Yeah, I don't really speak "monster." 
+(KAR), they don't teach that 
+in your guild, do they?
+
+## POINTER 6
+(KAR)
+The Hunting Blades hunt monsters! 
+We don't need to waste time 
+making friends with them!
+
+## POINTER 7
+(EST_P)
+...That's a shame.

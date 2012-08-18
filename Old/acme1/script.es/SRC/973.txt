@@ -1,0 +1,18 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287071383]
+<STR>(JUD)
+¡Hay una cerradura
+en esta palanca!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859400]
+<STR>(YUR)
+Ahora que lo dices, ¿no hemos
+conseguido una llave hace poco?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298859400]
+<STR>(YUR)
+¿Oh?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287071383]
+<STR>(JUD)
+Tal vez se mueva si usas
+el Anillo del Hechicero.

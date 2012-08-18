@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251838918]
+Cumore desaparecido
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297236520]
+(KAR)
+Las cosas solo pueden ir a mejor aquí, en 
+Mantaic, ahora que (FRE) ha liberado la ciudad.
+
+## POINTER 2 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403619]
+(JUD)
+Aunque han dejado escapar al cabecilla.
+
+## POINTER 3 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266234411]
+(KAR)
+¿Cumore? ¡(FRE) lo atrapará en un periquete!
+¿Verdad, (YUR)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297236520]
+(YUR)
+¿Mmm? Oh, claro. Seguro que sí.
+
+## POINTER 5 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403619]
+(JUD)
+¿Le ocurre algo? Parecía preocupado...
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403619]
+(RIT)
+(EST_P) tampoco está tan alegre como siempre.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297236520]
+(EST_P)
+N-No es verdad.
+Me alegro tanto como vosotros
+de que hayan librado Mantaic.
+
+## POINTER 8 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403619]
+(RIT)
+Si tú lo dices...

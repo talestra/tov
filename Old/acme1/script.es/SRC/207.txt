@@ -1,0 +1,113 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(KAR)
+<VOICE>(VS19_001)Esta es Dahngrest, 
+mi ciudad natal.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(YUR)
+<VOICE>(VS19_002)Parece un lugar muy alegre.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(KAR)
+<VOICE>(VS19_003)Bueno, es la segunda ciudad más grande
+del mundo después de la capital imperial.
+Está dirigida íntegramente por gremios.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293213]
+<STR>(YUR)
+<VOICE>(VS19_004)Me la esperaba más oscura
+y cochambrosa, ¿sabes?
+Como un nido de villanos.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(KAR)
+<VOICE>(VS19_005)Eso no es más que un prejuicio
+que tiene la gente sobre los gremios.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293213]
+<STR>(EST_P)
+<VOICE>(VS19_006)Seguramente esa mala reputación
+se deba al Pacto de Sangre.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(KAR)
+<VOICE>(VS19_007)Sí. Jolín, <STR>(YUR). Haces
+que yo mismo parezca un villano.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(RIT)
+<VOICE>(VS19_008)Si tú eres un villano,
+¿qué sería él, entonces?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(YUR)
+<VOICE>(VS19_009)Indirecta captada.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293213]
+<STR>(YUR)
+<VOICE>(VS19_010)En fin, ¿cómo hacemos
+para rastrear a Barbos?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(KAR)
+<VOICE>(VS19_011)El mejor sitio donde empezar a buscar
+sería en la sede de la Unión.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293213]
+<STR>(EST_P)
+<VOICE>(VS19_012)La Unión. Una asociación de gremios
+dirigida por los llamados
+«grandes gremios»... ¿verdad?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293213]
+<STR>(KAR)
+<VOICE>(VS19_013)Sí. La Unión también hace
+las veces de gobierno de la ciudad.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528127]
+<STR>(RIT)
+<VOICE>(VS19_014)Pero ¿cómo va a ayudarnos eso?
+¿Acaso el Pacto de Sangre de Barbos
+no es uno de los cinco grandes gemios?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(YUR)
+<VOICE>(VS19_015)Es decir, que si la tomamos con él
+nos estaremos buscando problemas
+también con el resto de la Unión.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293213]
+<STR>(KAR)
+<VOICE>(VS19_016)No podremos estar seguros de eso
+hasta que hablemos con el Don.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(YUR)
+<VOICE>(VS19_017)El Don es el jefe de la Unión, ¿verdad?
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(KAR)
+<VOICE>(VS19_018)Sip. Don Whitehorse, líder
+de Altosk, el más poderoso
+de los cinco grandes gremios.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(YUR)
+<VOICE>(VS19_019)De acuerdo, vamos a ver qué tiene
+que decir el Don al respecto.
+Tú sabes por dónde es, ¿verdad, <STR>(KAR)?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293213]
+<STR>(KAR)
+<VOICE>(VS19_020)Oye, espera. Él no es la clase de persona
+con la que puedas encontrarte sin más.
+No estoy seguro de que...
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273495434]
+<STR>(EST_P)
+<VOICE>(VS19_021)¿Por favor?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293213]
+<STR>(KAR)
+<VOICE>(VS19_022)La sede de la Unión está
+hacia el norte de la ciudad...

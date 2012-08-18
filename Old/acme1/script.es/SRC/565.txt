@@ -1,0 +1,108 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1283699102]
+<STR>(KAR)
+<VOICE>(VA011_024)Entregamos el libro tal y como nos pidió.<PAGE><VOICE>(VA011_025)Mire, esta es la prueba
+de que terminamos el trabajo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848205]
+Yu
+<VOICE>(VA011_026)Oh, es cierto.
+Eso es de Nobis, seguro.<PAGE><VOICE>(VA011_027)¡Muchas gracias
+por vuestra ayuda!<PAGE><VOICE>(VA011_028)Aquí está la paga que os prometí.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848205]
+<STR>(KAR)
+<VOICE>(VA011_029)¡Si algún día necesita algo más,
+no dude en pedírselo a Gran Vesperia! ♪
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848205]
+Yu
+<VOICE>(VA011_030)Por supuesto... Nos vemos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1283770543]
+<STR>(EST_P)
+<VOICE>(VA011_032)Un símbolo de su amistad. Qué bonito.
+Me pregunto qué tipo de libro era.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1283770543]
+<STR>(KAR)
+<VOICE>(VA011_031)Una prueba de su amistad, ¿eh?
+Es bonito en cierto modo.
+Me pregunto qué tipo de libro era.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1283770543]
+<STR>(RAV)
+<VOICE>(VA011_033)Era un libro normal
+y corriente. Parecía d'economía.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1283770543]
+<STR>(KAR)
+<VOICE>(VA011_034)¿Lo leíste, <STR>(RAV)?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1283770543]
+<STR>(RAV)
+<VOICE>(VA011_035)¿Y qué si lo hice?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848205]
+<STR>(KAR)
+<VOICE>(VA011_036)Bueno, vale, pero...
+¿y si el cliente hubiese escrito
+algo privado en el libro, qué?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1283795868]
+<STR>(RAV)
+<VOICE>(VA011_037)Oh, no pasa ná. No hay problema
+si no ha afectao er trabajo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1287316775]
+<STR>(YUR)
+<VOICE>(VA011_038)Un libro de economía, ¿eh?
+No parece muy divertido.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1283795868]
+<STR>(JUD)
+<VOICE>(VA011_039)¡Hubiese sido divertido si una
+novela romántica fuese la prueba
+de la amistad de dos chicos!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848205]
+<STR>(YUR)
+<VOICE>(VA011_040)¿En serio?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1283795868]
+<STR>(KAR)
+<VOICE>(VA011_041)En fin, supongo que ya hemos
+terminado nuestro primer
+trabajo de la Unión.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1283795868]
+<STR>(YUR)
+<VOICE>(VA011_042)Así que esto es trabajar en un gremio.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1283795868]
+<STR>(KAR)
+<VOICE>(VA011_043)Sí. Si estuviésemos en los Espadas
+Cazadoras probablemente nos darían
+trabajos de exterminar monstruos.<PAGE><VOICE>(VA011_044)Fortuna Mercantil suele transportar
+productos a largas distancias y tal.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848205]
+<STR>(JUD)
+<VOICE>(VA011_045)Entonces, ¿Gran Vesperia se centra en hacer entregas?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1283795868]
+<STR>(KAR)
+<VOICE>(VA011_046)Bueno, nosotros...
+Uh...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1283795868]
+<STR>(RAP)
+<VOICE>(VA011_047)*Aullido* ¡Guau, guau!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1283795868]
+<STR>(YUR)
+<VOICE>(VA011_048)Podemos ir pensándolo mientras
+probamos trabajos diferentes.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1283795868]
+<STR>(KAR)
+<VOICE>(VA011_049)¡Sí, claro!

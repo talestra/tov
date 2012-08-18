@@ -1,0 +1,109 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+
+¡<STR>(RAV)!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+
+¡Bienvenido!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+<STR>(RAV)
+Hola.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+<STR>(KAR)
+Esa reacción es un pelín
+diferente a la de siempre,
+¿no os parece?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530854]
+
+¿Adónde has ido esta vez?
+¡Cuéntame cosas de tu viaje!<PAGE>¿Quieres un poco de té?
+Ayer hice una tarta. Estáis
+todos invitados, por supuesto.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1293551379]
+<STR>(RAV)
+Sabes que no me gustan
+los dulces, ¿verdá?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1293551379]
+
+Oh, quizá debería haber hecho
+una cena en vez de té y tarta.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+<STR>(JUD)
+Supongo que cada uno
+tiene sus gustos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+<STR>(YUR)
+Eso parece.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530854]
+<STR>(RAV)
+Estoy hecho picadillo, así que me
+las piro. Hay más personas que se
+pueden comer tu tarta, ¿a que sí?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+
+¡Quiero darte de comer, <STR>(RAV)!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530854]
+<STR>(RAV)
+Venga, no pierdas tu preciadísimo
+tiempo con un viejo amargao
+y anticuao como yo.<PAGE>¿No tienes a un buen muchachote
+que viene a hacerte compañía?
+Ve con él.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+
+¿Te refieres a Harry?<PAGE>¡No, gracias! Es súper
+cobarde y negativo
+todo el rato. ¡Le odio!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1293549435]
+<STR>(RAV)
+¡Los hombres cambian por las mujeres
+cada día! Estoy seguro de que lo convertirás
+en er hombre de tus sueños en un santiamén.<PAGE>Deja de poner excusas
+y haz argo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530854]
+
+¡No estoy poniendo ninguna excusa!
+¡<STR>(RAV), qué malo eres!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+<STR>(YUR)
+Vaya.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530854]
+<STR>(KAR)
+Mmmm... Ya no sé
+qué pensar de <STR>(RAV).
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530854]
+<STR>(EST_P)
+Me sabe mal por la chica,
+la ha tratado con mucha dureza...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+<STR>(JUD)
+¿En serio? Yo creo que ahora
+veo a <STR>(RAV) con otros ojos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+<STR>(RAV)
+¿Ah, sí? Er viejo <STR>(RAV)
+te recibirá con los brazos abiertos,
+amorcito mío. Tú dímelo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1293549155]
+<STR>(KAR)
+¡Acabo de darme cuenta de lo mucho
+que le gustan las chicas a <STR>(RAV)!

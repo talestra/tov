@@ -1,0 +1,24 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1253564273]
+Zagi, el intruso
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285610171]
+(EST)
+¿Hay mucha gente fuera del castillo
+como ese hombre de antes, Zagi?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285610171]
+(YUR)
+Qué va, es único en su especie.
+Es bastante complicado encontrar
+a alguien tan pirado como él.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285610171]
+(EST)
+Es un alivio saberlo.
+No sabría qué hacer si todo
+el mundo se comportara así...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285610190]
+(YUR)
+Ya, la vida sería un infierno si el mundo
+estuviera lleno de tipos como él.

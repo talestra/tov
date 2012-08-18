@@ -1,0 +1,158 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS60_001)We managed to get the 
+four elemental spirits.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS60_002)Yeah. Now...
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS60_003)We have to convert the world's 
+blastia cores to spirits.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS60_004)...Right.<PAGE><VOICE>(VS60_005)If we could control the Adephagos 
+with just those four, then we 
+wouldn't need the others...
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VS60_006)That thing is not exactly something 
+you want to take on lightly.<PAGE><VOICE>(VS60_007)We better make damn sure we're 
+set. There's no second chance.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS60_008)I know, I know...
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS60_009)Just by creating the spirits, 
+we've already changed 
+Terca Lumireis.<PAGE><VOICE>(VS60_010)Even if it is to save the world.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS60_011)We've been making these 
+decisions all on our own.<PAGE><VOICE>(VS60_012)Now we're changing the lives 
+of everyone in the world. That 
+can't be just our decision.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS60_013)Yeah, you're right...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS60_014)If we can't get them to understand 
+what we're trying to do...<PAGE><VOICE>(VS60_015)...then we're just 
+as bad as Alexei.<PAGE><VOICE>(VS60_016)But we don't 
+have time...
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS60_017)But we can still talk to 
+the Imperial Knights and 
+the Guilds, right?
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS60_018)But if they don't approve of 
+how we're doing things...<PAGE><VOICE>(VS60_019)...we will become 
+the great evil.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS60_020)...I can't stand by 
+and watch the world 
+be destroyed.<PAGE><VOICE>(VS60_021)Even if Duke manages to 
+save the world his way...<PAGE><VOICE>(VS60_022)...it doesn't mean anything if 
+there's no one left to live in it.<PAGE><VOICE>(VS60_023)So I don't care if people call me evil. I will 
+give up the blastia to defeat the Adephagos.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS60_024)What are you going to do? If you 
+want to get off, now's the time.
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VS60_025)I'm going. My life 
+belongs to Brave 
+Vesperia anyway.
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS60_026)Me too. Phaeroh 
+and Belius left 
+it to us.<PAGE><VOICE>(VS60_027)And I don't like leaving 
+things half-finished.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS60_028)I know what it feels like to 
+regret what you didn't do.<PAGE><VOICE>(VS60_029)If I stop now, I'll really regret it.
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS60_030)Yeah, me too. I don't want to feel like that.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS60_031)No matter what path 
+I choose, I can take 
+whatever happens...<PAGE><VOICE>(VS60_032)I've learned that 
+on this journey.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS60_033)...And the people 
+of the world will 
+understand!<PAGE><VOICE>(VS60_034)They're strong enough 
+to take a changing world!
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS60_035)Yeah. We do this today, 
+so we can laugh tomorrow. 
+That's what I believe.
+
+## POINTER 21
+<STR>(RAP)
+<VOICE>(VS60_036)Woof woof! Woof!
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS60_037)All right, everyone. Together 
+until the end.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS60_038)So let's get ready and then 
+go talk to His Majesty Ioder 
+and the people in the Union.
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS60_039)So what exactly do you 
+need to get ready?
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS60_040)Leave it to me.<PAGE><VOICE>(VS60_041)I want to stop by a city 
+somewhere. I need to 
+pick up some stuff.
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS60_042)How about port Nor? It's 
+at the edge of Ilyccia.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS60_043)I want to find out what's happened 
+at Ehmead Hill since the road 
+was blocked, too. Let's go.

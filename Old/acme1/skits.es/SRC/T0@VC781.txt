@@ -1,0 +1,49 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1251731716]
+La Torre de Ghasfarost
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115289]
+(YUR)
+La base de la torre parece antigua,
+pero la parte superior es nueva...
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283475]
+(JUD)
+Será que alguien la construyó
+sobre una estructura ya existente.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283475]
+(KAR)
+No tenía ni idea de que 
+hubiera torres en esta zona.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283475]
+(KAR)
+Me pregunto cuándo la construyeron.
+
+## POINTER 5 [t:1;r:1;ru:xander;user:xander;time:1298244746]
+(RAV)
+Bueno, a juzgar por la pinta de la parte
+superior, yo diría qu'es bastante reciente.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1265749495]
+(EST_P)
+¿Creéis que la ha construido Barbos?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115289]
+(KAR)
+El Pacto de Sangre es uno de los gremios más grandes,
+pero ni siquiera ellos podrían construir algo así.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115289]
+(YUR)
+Ragou. Él debió financiarlos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115289]
+(KAR)
+Eh, pues sí.
+Eso tendría sentido.
+
+## POINTER 10 [t:1;r:1;ru:xander;user:xander;time:1298244746]
+(RAV)
+Aunque eso no nus acerca a 
+averiguar POR QUÉ la construyeron...

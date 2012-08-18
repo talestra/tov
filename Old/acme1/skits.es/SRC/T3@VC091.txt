@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1253740956]
+Deteniendo a los enemigos
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297813265]
+(KAR)
+Guau, el reloj de arena es impresionante.
+¡Los enemigos dejan de moverse!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297813265]
+(YUR)
+Ya, sí que hace más fácil
+el ganar las batallas.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297813265]
+(KAR)
+¡Puedes prepararte para lo que venga:
+cambiar la formación de la batalla,
+atacar a los enemigos!...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297813265]
+(KAR)
+Y si nos cuesta huir de ellos,
+¡esto lo hace pan comido!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297813265]
+(KAR)
+Oh, ¡y hasta nos permite evitar que
+los enemigos escapen! ¡Es una pasada!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297813265]
+(RIT)
+¡Reloj de arena!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297813265]
+(KAR)
+¡Agh!...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297813265]
+(RIT)
+Personalmente, este método
+me parece el más sencillo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297813265]
+(YUR)
+...

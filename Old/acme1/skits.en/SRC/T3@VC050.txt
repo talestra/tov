@@ -1,0 +1,54 @@
+## POINTER 0
+Just Use Both
+
+## POINTER 1
+(YUR)
+......
+
+## POINTER 2
+(KAR)
+What's up, (YUR)? Is something 
+wrong with your weapon?
+
+## POINTER 3
+(YUR)
+No, I was just thinking about how different 
+axes and swords feel to use...
+
+## POINTER 4
+(RAP)
+*Whine?*
+
+## POINTER 5
+(EST_P)
+Ah, you use both swords 
+and axes, don't you.
+
+## POINTER 6
+(YUR)
+Yeah, but my artes change depending 
+on which I use. It's not a 
+problem or anything, but...
+
+## POINTER 7
+(KAR)
+Hmmm... Well, I think you look cooler 
+when you're using axes, (YUR). It 
+makes you look stronger, too.
+
+## POINTER 8
+(RAP)
+*Woof!*
+
+## POINTER 9
+(EST_P)
+Really? I prefer (YUR) when 
+he's using swords, myself.
+
+## POINTER 10
+(JUD)
+You should just use one in each hand.
+
+## POINTER 11
+(YUR)
+Give me a break...

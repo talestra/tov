@@ -1,0 +1,144 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS05_001)Do you think those knights 
+followed you here?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS05_002)I wonder. Well, let's do our 
+best not to stand out.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS05_003)Okay. And I want to 
+catch up with <STR>(FRE) 
+as soon as I can.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS05_004)All right, let's see if we can 
+just pass through the Hold.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS05_005)Where's she off to now?
+
+## POINTER 5
+
+<VOICE>(VS05_006)Welcome. I've got some nice 
+gear in stock today.<PAGE><VOICE>(VS05_007)This blade was forged by none other 
+than Assam the blademaster. It even 
+comes equipped with weapon skills.<PAGE><VOICE>(VS05_008)No traveler should be without them. 
+Feel free to give it a try.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS05_009)Huh? What do you mean?
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS05_010)The special techniques 
+contained in weapons.<PAGE><VOICE>(VS05_011)These techniques were originally 
+passed down from master to pupil...<PAGE><VOICE>(VS05_012)...but the blademaster Assam used 
+a special process to seal them 
+within the weapons themselves. <PAGE><VOICE>(VS05_013)Bodhi blastia can acquire techniques 
+from weapons imbued with this power.<PAGE><VOICE>(VS05_014)With continued use, weapon artes 
+can eventually be learned by the 
+person using the weapon.
+
+## POINTER 8
+
+<VOICE>(VS05_015)My, this young lady knows her 
+stuff. That about sums it up.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS05_016)I read in a book that the Kritya gave 
+this knowledge to humans long ago.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS05_017)Huh. I thought bodhi blastia 
+only let you use strike 
+and magic artes.
+
+## POINTER 11
+
+<VOICE>(VS05_018)In order to find the fighting style 
+that meets your needs...<PAGE><VOICE>(VS05_019)...it's best to think carefully 
+about weapon skills when 
+choosing your weapon.<PAGE><VOICE>(VS05_020)There are even weapons without weapon skills, 
+that focus instead on raw attack power. 
+It all depends on your preference.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS05_021)I can't imagine business is all 
+that great in a place like this.
+
+## POINTER 13
+
+<VOICE>(VS05_022)Don't get me wrong, I'm not 
+here because I want to be.<PAGE><VOICE>(VS05_023)There are monsters on the far side 
+of the Hold, so I'm stuck.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS05_024)Monsters, huh...?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS05_025)...Did you hear that?
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS05_026)Hmm...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS05_027)And...she's not listening.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS05_028)...Huh? Did you 
+say something?
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS05_029)I said I'm going to go get some information, 
+so you wait right there.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS05_030)Oh, I'll come too.
+
+## POINTER 21
+
+<VOICE>(VS05_031)That's all right, go ahead and take it. 
+It's pretty old and it has some pages 
+missing, but it's yours if you like.
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS05_032)Th-thank you very much.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS05_033)Is that book any good?
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS05_034)It's fascinating. 
+You can read it as 
+soon as I finish.
+
+## POINTER 25
+Information
+You can check the status of
+the battle via the Battle Book.
+
+## POINTER 26
+Information
+You can also get information on
+weapon artes here. Check back
+when you want to find out more.

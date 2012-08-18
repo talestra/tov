@@ -1,0 +1,82 @@
+## POINTER 0
+<STR>(EST_P)
+U-um... Excuse 
+me, Mr. Knight?
+
+## POINTER 1
+
+Huh... W-Wha...  You're
+wearing  such a... Uh... <PAGE>Hmm? Hey... 
+You... No it can't be...
+Not in that kind of...
+
+## POINTER 2
+<STR>(EST_P)
+Mm? D-do you know me?
+
+## POINTER 3
+
+It's just that you look...a 
+little like the Princess...
+
+## POINTER 4
+<STR>(EST_P)
+...Oh, y-yes, I 
+get that a lot.
+
+## POINTER 5
+<STR>(KAR)
+Hehe, did you hear that?
+
+## POINTER 6
+<STR>(YUR)
+Shh, pipe down!
+
+## POINTER 7
+
+Come a little closer, 
+could you?
+
+## POINTER 8
+<STR>(EST_P)
+No, I'd like you 
+to come to me...
+
+## POINTER 9
+
+Why would you run 
+away like that?
+
+## POINTER 10
+<STR>(EST_P)
+U-umm... 
+I'm just... 
+...a little bit shy...
+
+## POINTER 11
+
+Ha ha ha...
+
+## POINTER 12
+<STR>(EST_P)
+Tee hee hee...
+
+## POINTER 13
+<STR>(KAR)
+...And as I predicted, it came 
+to blows in the end anyway.
+
+## POINTER 14
+<STR>(YUR)
+If we hadn't done that, <STR>(EST_P) would've 
+been in a tight spot, don't you think?
+
+## POINTER 15
+<STR>(EST_P)
+Yes, he might have gotten mad if he'd found 
+out I was lying about my identity.
+
+## POINTER 16
+<STR>(YUR)
+That's not quite 
+what I meant...

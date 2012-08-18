@@ -1,0 +1,49 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251838084]
+Phaeroh desaparecido
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403571]
+(YUR)
+Así que después de atravesar el desierto,
+resulta que no podemos ver a Phaeroh.
+
+## POINTER 2 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266248666]
+(EST_P)
+Y eso después de que arriesgarais
+la vida para ayudarme...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297178011]
+(KAR)
+Quizá lo mejor es que no nos lo hayamos encontrado.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297178011]
+(RAV)
+Sí. Si ahora tuviéramos
+que luchar contra él ahora,
+puede que no lo contáramos.
+
+## POINTER 5 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266233972]
+(YUR)
+Ahora que lo pienso, Phaeroh puede volar.
+Puede estar en cualquier lugar en cualquier momento.
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403571]
+(YUR)
+Seguirle la pista va a ser mucho pedir
+a no ser que tenga alguna guarida por aquí.
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403571]
+(EST_P)
+...
+
+## POINTER 8 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403571]
+(JUD)
+Nadie dice que encontrarlo vaya a ser imposible.
+
+## POINTER 9 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403571]
+(RIT)
+Puede que consigamos algo de información
+si preguntamos por el pueblo.
+
+## POINTER 10 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403571]
+(EST_P)
+Tienes razón. Gracias a los dos.

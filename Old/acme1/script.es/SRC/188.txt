@@ -1,0 +1,84 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273480338]
+<STR>(KAR)
+<VOICE>(VS17_039)¿Esa agua está... flotando?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272873278]
+<STR>(YUR)
+<VOICE>(VS17_040)Parece que lo está provocando ese blastia.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272873278]
+<STR>(EST_P)
+<VOICE>(VS17_041)Y puede que también esta extraña sensación...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241476]
+<STR>(RIT)
+<VOICE>(VS17_042)¿Eh? Es muy parecido a los que había
+en la colina de Ehmead y en Capua Nor.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1277288775]
+<STR>(KAR)
+<VOICE>(VS17_043)¿Está roto?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241476]
+<STR>(RIT)
+<VOICE>(VS17_044)Cuando un blastia se rompe,
+pierde su capacidad de recoger aer.
+Es imposible que se ponga de este modo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241476]
+<STR>(EST_P)
+<VOICE>(VS17_045)Entonces... ¿qué está pasando?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272873278]
+<STR>(RIT)
+<VOICE>(VS17_046)No lo sé...
+¿Qué estará intentando hacer?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1277288775]
+<STR>(EST_P)
+<VOICE>(VS17_047)¿E-Eso de ahí era un monstruo?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1277288775]
+<STR>(KAR)
+<VOICE>(VS17_048)¡Un m-m-monstruo!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241476]
+<STR>(YUR)
+<VOICE>(VS17_049)Tranquilízate. No te encuentras bien,
+y no tenemos a ningún médico por aquí.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241476]
+<STR>(KAR)
+<VOICE>(VS17_050)¿Eh?
+Pero... pero yo...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241476]
+<STR>(KAR)
+<VOICE>(VS17_051)¡Uaaaah!
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1277288775]
+<STR>(YUR)
+<VOICE>(VS17_052)¡La barrera va a romperse!
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272873278]
+<STR>(RIT)
+<VOICE>(VS17_053)Tranquilo. Es una barrera invertida.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241476]
+<STR>(KAR)
+<VOICE>(VS17_054)¿Una barrera... «invertida»?
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272873278]
+<STR>(RIT)
+<VOICE>(VS17_055)Es una barrera diseñada para tener
+monstruos atrapados. No va a salir
+de ahí en mucho rato.<PAGE><VOICE>(VS17_056)Pero todo este aer...
+Esto no es normal.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272873278]
+<STR>(YUR)
+<VOICE>(VS17_057)Esto me da muy mala espina...
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272873278]
+<STR>(KAR)
+<VOICE>(VS17_058)¡La barrera está desapareciendo!

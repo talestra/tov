@@ -1,0 +1,189 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(RAP)
+<VOICE>(VS28_500)¡¡Guau!!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283329244]
+Regaey
+<VOICE>(VS28_501)¡Aaah! ¡A-Ayuda!
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283329244]
+<STR>(EST_P)
+<VOICE>(VS28_502)¿Aer?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(RIT)
+<VOICE>(VS28_503)¡Esto es lo mismo
+que en Keiv Moc! ¿Aquí
+también hay un aer krene?
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(RAV)
+<VOICE>(VS28_504)¿Qué hacemos?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(YUR)
+<VOICE>(VS28_505)¡Ir a saco!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(JUD)
+<VOICE>(VS28_506)Va a ser que no.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(EST_P)
+<VOICE>(VS28_507)¡<STR>(JUD) tiene razón!
+¡Tocar un aer tan
+denso es peligroso!
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283329244]
+Regaey
+<VOICE>(VS28_508)N-No p-puedo creer
+que a-algo así me
+haya s-salvado...
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(RIT)
+<VOICE>(VS28_509)¡Espera!
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(KAR)
+<VOICE>(VS28_510)¡Agh!
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(JUD)
+<VOICE>(VS28_511)Parece que tendremos que
+mantener las distancias.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+Regaey
+<VOICE>(VS28_512)¿Q-Qué es este te-temblor?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+<STR>(YUR)
+<VOICE>(VS28_513)¿Ese es el monstruo
+que decías, <STR>(KAR)?
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283329244]
+<STR>(KAR)
+<VOICE>(VS28_514)N-No. Nunca
+había visto a
+un monstruo así...
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283329244]
+<STR>(RIT)
+<VOICE>(VS28_515)¿Se ha comido el aer?
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(KAR)
+<VOICE>(VS28_516)¡Aaah!
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(EST_P)
+<VOICE>(VS28_517)N-No puedo moverme...
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(RIT)
+<VOICE>(VS28_518)Oh, no...
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279524688]
+<STR>(YUR)
+<VOICE>(VS28_519)Esto no va... nada bien...
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(RAV)
+<VOICE>(VS28_520)Eh, puedo moverme.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(JUD)
+<VOICE>(VS28_521)¡No te vas a
+escapar otra vez!
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(EST_P)
+<VOICE>(VS28_522)¡<STR>(RIT), ten cuidado!
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(RIT)
+<VOICE>(VS28_523)No te preocupes.
+No es perjudicial en
+su densidad actual.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(RAV)
+<VOICE>(VS28_524)¿Qué leches ha pasao?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+<STR>(RIT)
+<VOICE>(VS28_525)
+El monstruo que acabamos de ver
+ha logrado normalizar no sé cómo el
+aer krene que estaba fuera de control.<PAGE>
+<VOICE>(VS28_526)Pero eso quiere decir
+que puede controlar el aer...<PAGE>
+<VOICE>(VS28_527)¡¿Podría ser lo mismo
+que hizo ese tío con
+su espada en Keiv Moc?!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+<STR>(YUR)
+<VOICE>(VS28_528)¿Podemos
+pasar ya?...
+¡<STR>(RIT)!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+<STR>(RIT)
+<VOICE>(VS28_529)Oh, mm, s-sí.
+No debería pasar nada.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+<STR>(JUD)
+<VOICE>(VS28_530)¿Qué ocurre?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+<STR>(RIT)
+<VOICE>(VS28_531)Tengo que investigar
+esto... Bueno, es que
+por eso estoy viajando.
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279454575]
+<STR>(YUR)
+<VOICE>(VS28_532)Venga, <STR>(RIT).
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+<STR>(RIT)
+<VOICE>(VS28_533)Lo sé, lo sé.
+Tenemos que ir tras él,
+pero... es que...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+<STR>(RAV)
+<VOICE>(VS28_534)Ese aer krene
+no va a salir
+por patas, ¿no?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+<STR>(RIT)
+<VOICE>(VS28_535)¡Pues claro que no, tontolaba!<PAGE>
+<VOICE>(VS28_536)Oh... Ya sé qué quieres decir.
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279456103]
+<STR>(RIT)
+<VOICE>(VS28_537)Vale, vamos.
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279456103]
+<STR>(YUR)
+<VOICE>(VS28_538)Oído cocina.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+<STR>(YUR)
+<VOICE>(VS28_539)<STR>(KAR), ¿estás bien?
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398449]
+<STR>(KAR)
+<VOICE>(VS28_540)S-Sí... de fábula...
+No, en serio, estoy bien.
+
+## POINTER 38 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279456103]
+<STR>(RIT)
+<VOICE>(VS28_541)El poder de ese
+monstruo... ¿También era
+la fórmula Rizomata?

@@ -1,0 +1,296 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(KAR)
+<VOICE>(VS50_174)¡Buenas, <STR>(YUR)!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(RAV)
+<VOICE>(VS50_175)Creo que he dormío demasiao.
+Tengo el pelo to arremolinao.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(KAR)
+<VOICE>(VS50_176)¿Y eso es lo que te preocupa?...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(YUR)
+<VOICE>(VS50_177)Parece que todos vamos bien.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(RIT)
+<VOICE>(VS50_178)Toma.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(YUR)
+<VOICE>(VS50_179)Lo conseguiste.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(YUR)
+<VOICE>(VS50_180)Ahora solo nos faltan
+<STR>(JUD_P) y <STR>(EST_P).
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(JUD)
+<VOICE>(VS50_181)Estoy aquí.
+Buenos días, chicos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(KAR)
+<VOICE>(VS50_182)¡Ah, buenas, <STR>(JUD)!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(YUR)
+<VOICE>(VS50_183)¿Pudiste contactar
+con Phaeroh?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981069]
+<STR>(JUD)
+<VOICE>(VS50_184)Sí, pero no te va a gustar
+lo que me dijo de Zaude.<PAGE><VOICE>(VS50_185)Me dijo que es un lugar que
+no debe ser perturbado ni por
+humanos ni por entelechia.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(KAR)
+<VOICE>(VS50_186)Me pregunto por qué.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(RAV)
+<VOICE>(VS50_187)Qué despedida
+tan esperanzadora.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(YUR)
+<VOICE>(VS50_188)Como que no vamos a decir:
+«¡Oh! ¡Gracias por decírnoslo!»
+y no ir.<PAGE><VOICE>(VS50_189)Alexei está en Zaude
+y no estoy de humor
+para dejarlo marchar.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(JUD)
+<VOICE>(VS50_190)Tienes razón. Phaeroh
+lo tendrá que entender.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1285945673]
+<STR>(RAV)
+<VOICE>(VS50_191)Ya hemos llegao hasta aquí.
+Ahora no tiraremos la toalla.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(KAR)
+<VOICE>(VS50_192)Además, si lo ignoramos el mundo
+se meterá en un montón de problemas.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(YUR)
+<VOICE>(VS50_193)Así se habla. Ahora
+solo nos falta <STR>(EST_P). 
+<STR>(RIT), ¿la has visto?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(RIT)
+<VOICE>(VS50_194)<STR>(EST_P) no va a venir.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(YUR)
+<VOICE>(VS50_195)¡¿Mm?!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(RIT)
+<VOICE>(VS50_196)Ya no puede luchar.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(YUR)
+<VOICE>(VS50_197)Un momento, ¿no querrás decir...?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(RIT)
+<VOICE>(VS50_198)El control fue un éxito.<PAGE><VOICE>(VS50_199)Pero tiene que evitar interferencias de aer
+para prevenir que su poder se active.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(KAR)
+<VOICE>(VS50_200)¿Eh? Pero todo blastia necesita
+aer para funcionar, ¿no?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(RIT)
+<VOICE>(VS50_201)Sí, así que intenté
+lo mismo que con <STR>(RAV).
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1285948953]
+<STR>(JUD)
+<VOICE>(VS50_202)Usar su vida como
+energía para su poder.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(RAV)
+<VOICE>(VS50_203)¿Vas en serio?
+No lo recomiendo para nada.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(RIT)
+<VOICE>(VS50_204)No pude encontrar otra
+forma. Al menos puede usar
+fórmulas sin preocuparse
+por el aer.<PAGE><VOICE>(VS50_205)Pero es que no es solo controlar el poder de
+la Hija de la Luna Llena, incluso sus artes
+consumirán su vida.<PAGE><VOICE>(VS50_206)Estaría en grave peligro
+si se forzase demasiado.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(YUR)
+<VOICE>(VS50_207)Así que ya no vendrá
+con nosotros.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(RAV)
+<VOICE>(VS50_208)¿Y estuvo de acuerdo?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(EST_P)
+<VOICE>(VS50_209)No.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(KAR)
+<VOICE>(VS50_210)¡<STR>(EST_P)!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(RIT)
+<VOICE>(VS50_211)¡Oye! S-Solo estás aquí
+para despedirnos, ¿verdad?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(EST_P)
+<VOICE>(VS50_212)<STR>(RIT), perdóname.
+Por favor, llevadme con vosotros.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(RIT)
+<VOICE>(VS50_213)¡¿Qué te dije?!
+¡Perderás tu vida por
+solo usar tus artes!<PAGE><VOICE>(VS50_214)Podrías vivir perfectamente sin ellas.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(EST_P)
+<VOICE>(VS50_215)Estuve despierta toda la noche
+pensando en lo que me dijiste.<PAGE><VOICE>(VS50_216)Lo primero que pensé fue:
+«Al fin podré vivir
+una vida normal».
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(RIT)
+<VOICE>(VS50_217)Exacto, has sufrido suficiente.
+Ya puedes descansar.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(EST_P)
+<VOICE>(VS50_218)Gracias, <STR>(RIT).<PAGE><VOICE>(VS50_219)Todos vosotros estáis arriesgando vuestras
+vidas luchando. Incluso el destino
+de este mundo está en peligro.<PAGE><VOICE>(VS50_220)Sabiendo eso, mi única elección
+es luchar a vuestro lado.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(KAR)
+<VOICE>(VS50_221)<STR>(EST_P)...
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(EST_P)
+<VOICE>(VS50_222)Aún hay cosas que puedo
+hacer. Por mis amigos.<PAGE><VOICE>(VS50_223)Así que os lo pido por favor.
+Llevadme con vosotros.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(YUR)
+<VOICE>(VS50_224)Me gustaría decirte que no,
+pero lo has decidido tú misma.
+Así que no lo haré.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(JUD)
+<VOICE>(VS50_225)Sí. Y no te escucha una
+vez se ha propuesto algo.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(RAV)
+<VOICE>(VS50_226)Aah, mejor nos la llevamos.
+A nadie le gusta que sus amigos
+le quiten toa la diversión.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(KAR)
+<VOICE>(VS50_227)Sí, la ayudaremos a que
+esto le sea más fácil.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+<STR>(RIT)
+<VOICE>(VS50_228)Prométeme una cosa:
+nunca, NUNCA te forzarás.
+¿Vale?<PAGE><VOICE>(VS50_229)¡Nunca te perdonaré si rompes esa promesa!
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:Lia;time:1285948343]
+<STR>(EST_P)
+<VOICE>(VS50_230)De acuerdo.
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(YUR)
+<VOICE>(VS50_232)Je, prohibirle a
+esta peña que se fuercen
+no tiene mucho sentido.
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(RAV)
+<VOICE>(VS50_233)Así que nuestro próximo
+problema es cómo
+colarnos en Zaude.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(JUD)
+<VOICE>(VS50_234)No te preocupes. Te estás
+olvidando de un amigo.
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(YUR)
+<VOICE>(VS50_235)¿Ba'ul? ¿Está bien?
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(JUD)
+<VOICE>(VS50_236)Ya te lo dije. Es fuerte.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:memnoch;time:1287282519]
+Tokunaga
+<VOICE>(VS50_237)¡Chicos, acabo de terminar
+las reparaciones del barco!
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(KAR)
+<VOICE>(VS50_238)Es verdad, ¡que Tokunaga también está!
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(YUR)
+<VOICE>(VS50_239)Todos listos.
+¡Aquí viene la batalla final!
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(KAR)
+<VOICE>(VS50_240)¡Sí!
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(JUD)
+<VOICE>(VS50_241)Claro.
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(RAV)
+<VOICE>(VS50_242)Sep.
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(RAP)
+<VOICE>(VS50_243)¡Guau!
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(EST_P)
+<VOICE>(VS50_244)Vale.
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:Lia;time:1285950623]
+<STR>(RIT)
+<VOICE>(VS50_245)Claro.

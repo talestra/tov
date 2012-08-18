@@ -1,0 +1,300 @@
+## POINTER 225 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+EP440 The Mobile Fortress Heracles
+
+## POINTER 226 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+EP450 Over the Sky
+
+## POINTER 227 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+EP460 Capua Nor
+
+## POINTER 228 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+EP470 Zopheir Rift
+
+## POINTER 229 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+EP480 The City of Blossoms Halure
+
+## POINTER 230 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+EP485 Quoi Woods
+
+## POINTER 231 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+EP490 Zaphias Castle
+
+## POINTER 232 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+EP500 Zaphias
+
+## POINTER 233 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+EP510 The Enduring Shrine of Zaude
+
+## POINTER 235 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+Event select canceled......
+Wise Choice...
+
+## POINTER 237 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+010 Ragou arrested
+
+## POINTER 238 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+020 <STR>(FRE)'s popularity
+
+## POINTER 239 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+030 Amiable Arrangement between Empire and Guild
+
+## POINTER 240 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+040 Ragou crime commuted
+
+## POINTER 241 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+050 <STR>(FRE)'s advancement and Ragou's treatment
+
+## POINTER 242 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+060 Ragou put to an end
+
+## POINTER 243 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+070 Return to inn
+
+## POINTER 245 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+010 Split up with <STR>(EST_P)
+
+## POINTER 246 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+020 It's noisy outside
+
+## POINTER 247 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+030 Shadow of Phaeroh
+
+## POINTER 248 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+040 Phaeroh VS. mobile fortress (Part 1)
+
+## POINTER 249 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+041 Phaeroh VS. mobile fortress (Part 2)
+
+## POINTER 250 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+050 Head to Heliord
+
+## POINTER 251 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+060 Let take a rest
+
+## POINTER 252 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+070 The rule of the guild
+
+## POINTER 253 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+080 Talk with party member
+
+## POINTER 254 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+090 Guild named as Brave Vesperia
+
+## POINTER 256 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+010 People disappearing!?
+
+## POINTER 257 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+020 Mind other people's business
+
+## POINTER 258 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+030 <STR>(JUD) and Ba'ul
+
+## POINTER 259 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+040 Let's go see the city
+
+## POINTER 260 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+050 Kellas and Polly's farther
+
+## POINTER 261 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+060 NPC conversation
+
+## POINTER 262 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+070 How should we distract the soldiers?
+
+## POINTER 263 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+080E Create a dress by crafting <STR>(EST_P)）
+
+## POINTER 264 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+080J Create a dress by crafting（<STR>(JUD)）
+
+## POINTER 265 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+080K Create a dress by crafting（<STR>(KAR)）
+
+## POINTER 266 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+090E Made a dress（<STR>(EST_P)）
+
+## POINTER 267 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+090J Made a dress（<STR>(JUD)）
+
+## POINTER 268 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+090K Made a dress（<STR>(KAR)）
+
+## POINTER 269 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+100E Breach the guard（<STR>(EST_P)）
+
+## POINTER 270 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+100J Breach the guard（<STR>(JUD)）
+
+## POINTER 271 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+100K Breach the guard（<STR>(KAR)）
+
+## POINTER 272 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+110 <STR>(RIT) is caught（<STR>(YUR)）
+
+## POINTER 273 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+120 <STR>(KAR) goes in and...（<STR>(KAR)）
+
+## POINTER 274 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+130 <STR>(RIT) is caught（<STR>(KAR)）
+
+## POINTER 275 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+140 Cumore prepares for war?
+
+## POINTER 276 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+150 Cumore and Yegar
+
+## POINTER 277 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+160 Face Cumore
+
+## POINTER 279 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+010 Head to Port Trim
+
+## POINTER 280 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+020 Let's go to the inn
+
+## POINTER 281 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+030 <STR>(RAV)'s secret
+
+## POINTER 282 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+040 Talk with party member
+
+## POINTER 283 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+050 Along with <STR>(RIT) too
+
+## POINTER 284 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+060 Dein Nomos needed for the succession to the throne
+
+## POINTER 285 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+070 Kaufman is a Union's heavyweight
+
+## POINTER 286 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+080 Deal done with Fortune's market
+
+## POINTER 287 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+090 I'm Tokunaga of the Fiertia
+
+## POINTER 288 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+100 Cleaned up swarm of Merman
+
+## POINTER 290 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+010 A ghost ship!
+
+## POINTER 291 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+020 Who should I take with me?
+
+## POINTER 292 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+030 The mast falls
+
+## POINTER 293 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+040 Need to proceed
+
+## POINTER 294 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+050 Second team departs
+
+## POINTER 295 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+060 Meet up, Look for another exit
+
+## POINTER 296 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+070 Ship's log
+
+## POINTER 297 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+080 Clear ciel crystal
+
+## POINTER 298 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+090 The door unlocked!?
+
+## POINTER 299 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+100 Using a ladder
+
+## POINTER 300 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+110 The ship's ceres blastia is fixed!
+
+## POINTER 302 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+010 That is Nordopolica
+
+## POINTER 303 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+020 Is Belius at the Colosseum？
+
+## POINTER 304 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+030 What does Tokunaga do?
+
+## POINTER 305 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+040 Belius only available on full moon
+
+## POINTER 306 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+050 Stay at the inn?
+
+## POINTER 307 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+060 The tradition of Brave Vesperia
+
+## POINTER 308 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+070 Mediate between a fight
+
+## POINTER 309 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+080 Ragey's request
+
+## POINTER 310 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+090 Entry
+
+## POINTER 311 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+100 A fighting tournament
+
+## POINTER 312 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+110 <STR>(FRE) is the opponent, Zagi breaks in
+
+## POINTER 313 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+120 Ragey takes away the apatheia
+
+## POINTER 314 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+130 Follow <STR>(RAP)
+
+## POINTER 315 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+140 Guild will not forgive betrayal
+
+## POINTER 317 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+010 Ragey and Leviathan's Claw
+
+## POINTER 318 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+020 Aer Krene and Chroma dragon
+
+## POINTER 319 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+030 Who Ragey is
+
+## POINTER 321 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+010 Why don't we split up?
+
+## POINTER 322 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+020 Talk with party member (Oasis)
+
+## POINTER 323 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+030 <STR>(EST_P) tries to leave on it's own
+
+## POINTER 324 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+040 A unnatural inn
+
+## POINTER 325 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+050 A weird town
+
+## POINTER 326 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+060 Recieve a canteen
+
+## POINTER 327 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+070 Alf and Layla
+
+## POINTER 328 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+080 What does magistrate want?
+
+## POINTER 330 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+010 Phaeroh is somewhere in the sands
+
+## POINTER 331 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+020 Supply water from cactus
+
+## POINTER 332 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+030 All exhausted except <STR>(RAV)
+
+## POINTER 333 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+040 A rest in the oasis
+
+## POINTER 334 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304618442]
+050 Find a couple on ground

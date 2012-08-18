@@ -1,0 +1,52 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS03_199)I wonder if this is because 
+of those guys earlier.<PAGE><VOICE>(VS03_200)It better not try to 
+pin this on me too.
+
+## POINTER 1
+<STR>(EST)
+<VOICE>(VS03_150)I hope no one was hurt.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS03_151)Don't worry about the Knights. They'll 
+make sure to protect themselves.
+
+## POINTER 3
+<STR>(EST)
+<VOICE>(VS03_152)Yes... I guess so...
+
+## POINTER 4
+Leblanc
+<VOICE>(VS03_153)<STR>(YUR) Lowell! Where 
+are you hiding?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS03_154)That must be Leblanc. I'd recognize 
+those dulcet tones anywhere.
+
+## POINTER 6
+<STR>(EST)
+<VOICE>(VS03_155)Do the two of you 
+know each other?
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS03_156)We have a bit of a history. 
+...Come on, let's hurry.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS03_157)We should do something about your clothes. 
+You'll stick out like a sore thumb.
+
+## POINTER 9
+<STR>(EST)
+<VOICE>(VS03_158)My room is just up ahead. I have 
+a change of clothes there...
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS03_159)Okay, that'll work.

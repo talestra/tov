@@ -1,0 +1,57 @@
+## POINTER 0
+<STR>(YUR)
+Take that! And how about this!
+
+## POINTER 1
+<STR>(FRE)
+Ack...!
+
+## POINTER 2
+<STR>(YUR)
+That was...
+
+## POINTER 3
+<STR>(FRE)
+Yep, it looks like you got the hang of it.
+
+## POINTER 4
+<STR>(YUR)
+Yeah. Thanks, man.
+
+## POINTER 5
+<STR>(FRE)
+You don't need to thank me. If it helps you pull off 
+what you're planning to do, that's enough for me.
+
+## POINTER 6
+<STR>(EST_P)
+<STR>(YUR)! <STR>(FRE)!
+
+## POINTER 7
+<STR>(RIT)
+Are you finished?
+
+## POINTER 8
+<STR>(YUR)
+Yeah, sorry to keep you waiting.
+
+## POINTER 9
+<STR>(JUD)
+All right, shall we go?
+
+## POINTER 10
+<STR>(YUR)
+Huh? Hold on, let me rest just a little bit...
+
+## POINTER 11
+<STR>(KAR)
+We don't have time to be lounging around! 
+All right, last one there's a rotten egg!
+
+## POINTER 12
+<STR>(FRE)
+Good luck out there!
+
+## POINTER 13
+<STR>(YUR)
+Leave it to me!

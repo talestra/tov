@@ -1,0 +1,301 @@
+## POINTER 0
+MG Dummy
+
+## POINTER 1
+Poker
+
+## POINTER 2
+High or Low?
+
+## POINTER 3
+Even or Odd?
+
+## POINTER 4
+Dice Game
+
+## POINTER 5
+Dice Master
+
+## POINTER 6
+Dash Race
+
+## POINTER 7
+Aer Master
+
+## POINTER 8
+Tales of Draspi
+
+## POINTER 9
+Speedy Server
+
+## POINTER 10
+Tool Action
+
+## POINTER 11
+3D Action
+
+## POINTER 12
+Dragon Racer
+
+## POINTER 13
+Warehouse Keeper
+
+## POINTER 14
+Battle Coliseum
+
+## POINTER 15
+Select a card to swap.
+
+## POINTER 16
+<06>(LBH) Move Cursor
+
+## POINTER 17
+<06>(RBD) Select Card
+
+## POINTER 18
+<06>(RBU) Select All
+
+## POINTER 19
+<06>(RBL) Swap Card
+
+## POINTER 20
+Try doubling bet?
+
+## POINTER 21
+HIGH
+LOW
+
+## POINTER 22
+Enter the amount you want to bet.
+
+## POINTER 23
+Double bet again?
+
+## POINTER 24
+Which to bet on?
+
+## POINTER 25
+Exceeded number of times bet can be doubled.
+
+## POINTER 26
+Doubled!
+
+## POINTER 27
+Lost all bet...
+
+## POINTER 28
+Continue?
+
+## POINTER 29
+You're out of chips.
+Purchase more to play.
+
+## POINTER 30
+Select game
+
+## POINTER 31
+High
+
+## POINTER 32
+Low
+
+## POINTER 33
+Even
+
+## POINTER 34
+Odd
+
+## POINTER 35
+Amango tea
+
+## POINTER 36
+Spicy shrimp
+
+## POINTER 37
+Tortoise stew
+
+## POINTER 38
+Earth spirit parfait
+
+## POINTER 39
+Set lunch B
+
+## POINTER 40
+Spaghetti and meatballs
+
+## POINTER 41
+Tomato soup
+
+## POINTER 42
+Ice cream
+
+## POINTER 43
+Grilled fish
+
+## POINTER 44
+Mandragosso
+
+## POINTER 45
+Polwigle dumpling
+
+## POINTER 46
+Mabo curry
+
+## POINTER 47
+Don's special
+
+## POINTER 48
+Clam chowder
+
+## POINTER 49
+Seafood pasta
+
+## POINTER 50
+Fruit cocktail
+
+## POINTER 51
+Rappig steak
+
+## POINTER 52
+Cream stew
+
+## POINTER 53
+Chocolate cake
+
+## POINTER 54
+Set lunch A
+
+## POINTER 55
+Excuse me...
+
+## POINTER 56
+Hello!
+
+## POINTER 57
+I'd like to order.
+
+## POINTER 58
+Um, I'm ready to order.
+
+## POINTER 59
+Will someone take my order?
+
+## POINTER 60
+Excuse me...
+
+## POINTER 61
+OK?
+
+## POINTER 62
+Can someone take my order?
+
+## POINTER 63
+Hello?
+
+## POINTER 64
+Hey!
+
+## POINTER 65
+Server!
+
+## POINTER 66
+That looks good!
+
+## POINTER 67
+This one here.
+
+## POINTER 68
+Finally!
+
+## POINTER 69
+What took so long?
+
+## POINTER 70
+Yay ∀
+
+## POINTER 71
+Thank you.
+
+## POINTER 72
+Thanks!
+
+## POINTER 73
+Thanks!
+
+## POINTER 74
+Here we are.
+
+## POINTER 75
+I'm starved.
+
+## POINTER 76
+This one. I want this one.
+
+## POINTER 77
+That's not it.
+
+## POINTER 78
+That's not it.
+
+## POINTER 79
+That's not what I ordered...
+
+## POINTER 80
+No, that's not my order.
+
+## POINTER 81
+Huh?
+
+## POINTER 82
+Oops, this isn't what I asked for.
+
+## POINTER 83
+Not exactly...
+
+## POINTER 84
+Oh, this is the wrong order.
+
+## POINTER 85
+I didn't order this.
+
+## POINTER 86
+Hey! This is wrong!
+
+## POINTER 87
+This must be a mistake...
+
+## POINTER 88
+Get it right, kid.
+
+## POINTER 89
+That's not it, kid.
+
+## POINTER 90
+That's not it, kid.
+
+## POINTER 91
+You got it all wrong.
+
+## POINTER 92
+Hey kid, this isn't mine.
+
+## POINTER 93
+Sorry, this isn't mine.
+
+## POINTER 94
+Um, this isn't mine.
+
+## POINTER 95
+That's not my order.
+
+## POINTER 96
+C'mon, already!
+
+## POINTER 97
+You think you're funny, don't ya?
+
+## POINTER 98
+You pulling my leg?!
+
+## POINTER 99
+I'm starved...

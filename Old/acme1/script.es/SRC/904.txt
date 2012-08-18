@@ -1,0 +1,80 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926559]
+
+¡Oh! ¡Perdona, jovencita!
+¿Tienes un minuto?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295027322]
+<STR>(RIT)
+¿Eh? ¿Te refieres a mí?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926559]
+
+¡Sí, sí, a ti!
+¿Quieres jugar un rato
+a los dados conmigo?<PAGE>¡Para hacerlo más emocionante,
+te daré un regalito si me ganas!
+¿Qué? ¿Te apuntas?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528802]
+<STR>(RIT)
+Mmm... bueno,
+¿por qué no?<PAGE>Pero ¿estás seguro?
+¡Soy muy buena con estos juegos!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926559]
+
+¡Jo, jo! ¡Excelente!
+Hace mucho que busco
+un adversario digno.<PAGE>¡Me conocen como el Maestro!
+No me dejaré vencer fácilmente.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926559]
+<STR>(YUR)
+*Suspiro*
+¿De verdad tenemos
+tiempo para jugar
+a jueguecitos?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1295027322]
+¿Desafiar al maestro de los dados?
+¡A jugar!
+Mejor no.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1295028210]
+<STR>(RIT)
+Tranquilos, acabaré
+rápido con el viejo.
+Esperad y veréis.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1295177535]
+
+¡Jo, jo!
+¿Empezamos?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926559]
+<STR>(RIT)
+¡Mmm, lo siento!
+<STR>(YUR) tiene razón, ahora no
+tenemos tiempo para jugar ahora.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926559]
+
+Oh, qué pena... Bueno,
+vuelve cuando quieras
+si cambias de opinión.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1295028210]
+
+Oh, ¿otra vez por aquí?
+¿Lista para jugar?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1295177535]
+
+¡Jo, jo!
+¿Empezamos?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926559]
+
+Oh, qué pena... Bueno,
+vuelve cuando quieras
+si cambias de opinión.

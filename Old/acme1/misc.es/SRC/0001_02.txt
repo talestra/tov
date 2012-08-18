@@ -1,0 +1,315 @@
+## POINTER 188 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1266181541]
+Mapa
+
+## POINTER 189 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Batalla
+
+## POINTER 190 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Eventos
+
+## POINTER 192 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244084]
+CG
+
+## POINTER 193 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244084]
+Animación
+
+## POINTER 195 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244084]
+Propósito general
+
+## POINTER 196 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265224683]
+Coloca el prestigioso Orbe Rojo en el pedestal.
+ Abastece el Orbe con el poder de toda creación.
+Un rayo de luz deberá romper el sello ante ti.
+
+## POINTER 197 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+¿Deseas descansar?
+
+## POINTER 198 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244084]
+¿Finalizar el guardado?
+
+## POINTER 199 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Sí
+No
+
+## POINTER 200 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Volver
+
+## POINTER 201 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+Elige un plato para servir.
+
+## POINTER 202 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263942039]
+Noreste de Hypionia
+
+## POINTER 203 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263942039]
+Cerrado
+
+## POINTER 204 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263942039]
+Abierto
+
+## POINTER 205 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265224683]
+Has entregado
+«<0B>(0)».
+
+## POINTER 206 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263942039]
+Ya no puedes llevar más
+de los siguientes objetos:
+
+## POINTER 207 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+Material(es)
+
+## POINTER 208 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265224683]
+Botín de los monstruos
+
+## POINTER 209 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+Hábitat
+
+## POINTER 210 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+Habilidad(es)
+
+## POINTER 211 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+Info.
+
+## POINTER 212 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263942039]
+¿Qué es una tabla de ranking?
+
+## POINTER 213 [t:1;r:1;ru:memnoch;user:memnoch;time:1304723824]
+Te has reunido con <02>(1)<0B>(0) y <02>(1)<0B>(1).
+
+## POINTER 214 [t:1;r:1;ru:memnoch;user:memnoch;time:1304723824]
+Te has reunido con <02>(1)<0B>(0), <02>(1)<0B>(1)
+y <02>(1)<0B>(2).
+
+## POINTER 215 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Te has reunido con todo el mundo.
+
+## POINTER 216 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Selecciona un lugar.
+
+## POINTER 217 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+¿Quién participará en la prueba?
+
+## POINTER 218 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+¿Participar?
+
+## POINTER 219 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+¿Ayudar?
+
+## POINTER 220 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Te has separado de
+<02>(1)<0B>(0) y <02>(1)<0B>(1).
+
+## POINTER 221 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Te has separado de
+<02>(1)<0B>(0), <02>(1)<0B>(1)
+y <02>(1)<0B>(2).
+
+## POINTER 222 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Te has separado del grupo.
+
+## POINTER 223 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265224683]
+He oído...<PAGE>
+que <0B>(0), de los monstruos
+Giganto, ha sido aniquilado...<PAGE>
+Por lo que sabemos...
+<0B>(1) sigue por ahí...
+
+## POINTER 224 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244084]
+Puesto de venta «Malva»
+
+## POINTER 225 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265224683]
+Los puntos de guardado son fórmulas avanzadas
+creadas por magos que aparecen en las ciudades
+y bosques; se usan para recoger las experiencias
+de los viajeros.
+Aunque abandones tu viaje, puedes continuarlo
+donde lo dejaste guardando tus progresos
+en un punto de guardado.
+Podrás encontrar puntos de guardado
+a lo largo y ancho del mundo. ¡Asegúrate
+de guardar tus progresos cuando los veas!
+
+## POINTER 226 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Entrar en combate?
+
+## POINTER 227 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Has obtenido:
+<02>(1)<0B>(0) x <0B>(1)
+<02>(1)<0B>(2) x <0B>(3)
+
+## POINTER 228 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Has obtenido:
+<02>(1)<0B>(0) x <0B>(1)
+<02>(1)<0B>(2) x <0B>(3)
+<02>(1)<0B>(4) x <0B>(5)
+
+## POINTER 229 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Has perdido
+<02>(1)<0B>(0).
+
+## POINTER 230 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+Premio del vencedor
+
+## POINTER 231 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835527]
+¿Deseas descansar?
+
+## POINTER 232 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265224683]
+¿Vale?
+
+## POINTER 233 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Llamar a Ba'ul y salir de aquí?
+
+## POINTER 234 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Quieres tomarte un descanso?
+
+## POINTER 235 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Entrar?
+
+## POINTER 236 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Estás listo?
+
+## POINTER 237 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Listo para salir?
+
+## POINTER 238 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Retirarte?
+
+## POINTER 239 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Quién distraerá a los guardias?
+
+## POINTER 240 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Quién se hará pasar por un Caballero?
+
+## POINTER 241 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Salir con los miembros actuales?
+
+## POINTER 242 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Pagar 500.000 gald?
+
+## POINTER 243 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Qué vas a hacer?
+
+## POINTER 244 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Lo has entendido?
+
+## POINTER 245 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Vas a ayudar?
+
+## POINTER 246 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Estás preparado?
+
+## POINTER 247 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Quieres leer el tutorial?
+
+## POINTER 248 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Estás bien?
+
+## POINTER 249 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+La refriega infinita
+
+## POINTER 250 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+¿Pagar la entrada del balneario?
+
+## POINTER 251 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Deseas participar?
+
+## POINTER 252 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265224683]
+¿Lo entiendes ahora?
+
+## POINTER 253 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+Certificado de Nam: Pregunta nº 1
+
+## POINTER 254 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+Certificado de Nam: Pregunta nº 24
+
+## POINTER 255 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+Certificado de Nam: Pregunta nº 52
+
+## POINTER 256 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+Certificado de Nam: Pregunta nº 81
+
+## POINTER 257 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857005]
+Certificado de Nam: Pregunta nº 100
+
+## POINTER 258 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Jugar al juego?
+
+## POINTER 259 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Ver la skit?
+
+## POINTER 260 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Ayudar en el restaurante?
+
+## POINTER 261 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Usar el ascensor?
+
+## POINTER 262 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Pasar la noche?
+
+## POINTER 263 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Pasar la noche en la posada?
+
+## POINTER 264 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Aceptar el trabajo?
+
+## POINTER 265 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Buscar trabajo?
+
+## POINTER 266 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Aceptar el trabajo?
+
+## POINTER 267 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Buscar trabajo?
+
+## POINTER 268 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Aceptar la recompensa?
+
+## POINTER 269 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835801]
+¿Pasar la noche en la posada?
+
+## POINTER 270 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835860]
+¿Qué vas a gritar?
+
+## POINTER 271 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835860]
+¿Participar?
+
+## POINTER 272 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835860]
+Selecciona un participante.
+
+## POINTER 273 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835860]
+¿Estás listo?
+
+## POINTER 274 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835860]
+¿Retirarse de la prueba?
+
+## POINTER 275 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265224683]
+¿Comprar un billete?
+
+## POINTER 276 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244084]
+¿Dar el gel de manzana?
+
+## POINTER 277 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244084]
+¿Dar el tridente?
+
+## POINTER 278 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244084]
+¿Dar la defensa antiveneno,
+la defensa antiparálisis y
+la defensa antipetrificación?
+
+## POINTER 279 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244084]
+¿Dar el divisor y
+el reloj de arena?
+
+## POINTER 280 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244355]
+¿Dar el Filo Plateado +1α?
+
+## POINTER 281 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244084]
+¿Dar el polvo dorado de Desier,
+la corteza de árbol de Hypionia
+y el fruto de Yurzo?
+
+## POINTER 282 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244084]
+¿Dar el orbe poderoso,
+la flor de ent,
+el cristal,
+el orbe místico y
+el gran colmillo de león?

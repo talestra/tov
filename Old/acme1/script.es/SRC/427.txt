@@ -1,0 +1,21 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285102160]
+Como imaginabais, no ha aparecido
+ninguno de los dos por ninguna parte.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285102160]
+<STR>(KAR)
+¿Qué les puede haber pasado?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285102160]
+<STR>(RIT)
+¡Tenemos que volver a la
+superficie y buscarlos!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285102165]
+A lo mejor se han ido
+a dar un paseo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285102160]
+<STR>(KAR)
+¿Sin decirnos nada
+a los demás?<PAGE>¡Anda ya!

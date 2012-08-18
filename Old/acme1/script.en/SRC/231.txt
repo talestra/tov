@@ -1,0 +1,207 @@
+## POINTER 0
+Barbos
+<VOICE>(VS21_139)Back again huh, you stubborn punk?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS21_140)Sorry to keep you waiting.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS21_600)Hey, the core in that sword!
+Is that the core to the aque
+blastia.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS21_601)Yeah, it's gotta be.
+
+## POINTER 4
+Barbos
+<VOICE>(VS21_141)These fools don't know when to give 
+up. Capua Nor, Dahngrest, and now 
+all the way to Ghasfarost!<PAGE><VOICE>(VS21_142)I've always hated kids.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS21_143)Barbos, this has gone on long 
+enough. Save what's left of 
+your honor and give up!
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS21_144)That's right, you're finished.
+
+## POINTER 7
+Barbos
+<VOICE>(VS21_145)Oh, this is far from finished.<PAGE><VOICE>(VS21_146)I put 10 years into building Ghasfarost 
+Spire, and while it stands, nothing 
+can stop me!<PAGE><VOICE>(VS21_147)And with that man and the empire wrapped 
+around my finger, I was able to build 
+my magnificent blastia.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS21_148)You think I'm just gonna let you waste 
+the lower quarter's core like this?
+
+## POINTER 9
+Barbos
+<VOICE>(VS21_149)Oh, it won't go to waste. I'll use 
+this to eliminate Whitehorse, and 
+then I will be leader of the guilds.
+
+## POINTER 10
+Barbos
+<VOICE>(VS21_150)Then the empire is next! With 
+this power at my disposal, the 
+very world will be mine!
+
+## POINTER 11
+Barbos
+<VOICE>(VS21_151)And I'll start with you. Be gone, worms!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS21_152)That sword is gonna be a problem.
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VS21_153)Problem? Is that 
+thing even legal?
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VS21_154)It is very powerful.
+
+## POINTER 15
+Barbos
+<VOICE>(VS21_155)Gah ha ha!! The blastia 
+seems to be working 
+just fine!
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS21_156)What...?!
+
+## POINTER 17
+Barbos
+<VOICE>(VS21_157)What's wrong?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS21_158)Heh, you haven't won yet.
+
+## POINTER 19
+Barbos
+<VOICE>(VS21_159)All right, playtime's over! Time 
+to wipe Dahngrest off the map, 
+and you along with it!
+
+## POINTER 20
+Duke
+<VOICE>(VS21_160)Get down.
+
+## POINTER 21
+Barbos
+<VOICE>(VS21_161)What?!
+
+## POINTER 22
+<STR>(RAV)
+<VOICE>(VS21_162)What happened to not having 
+any time or interest?
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS21_163)Hey, that's...!
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS21_164)<STR>(RIT), never mind that!
+
+## POINTER 25
+Barbos
+<VOICE>(VS21_165)...Piece of crap!
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS21_166)Looks like the tables have turned, Barbos.
+
+## POINTER 27
+Barbos
+<VOICE>(VS21_167)...So all that fancy wisdom 
+and the power of the blastia 
+were nothing but a sham...
+
+## POINTER 28
+Barbos
+<VOICE>(VS21_168)Should have known from the start that 
+I'd have to depend on my own strength.<PAGE><VOICE>(VS21_169)Take up your swords!
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VS21_170)You know, he was so much 
+easier to deal with when 
+he was all drunk on power.
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS21_171)Yeah, there's nothing worse than 
+an enlightened idiot.
+
+## POINTER 31
+Barbos
+<VOICE>(VS21_172)I am the only man to stand as Whitehorse's 
+equal in battle. Now you will know the 
+power of Barbos the Stormblast...<PAGE><VOICE>(VS21_173)...and his 
+Blood Alliance!
+
+## POINTER 32
+Barbos
+<VOICE>(VS21_182)Aguh!
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS21_183)Your henchmen have run out on you...<PAGE><VOICE>(VS21_184)That's it, Barbos. It looks 
+like you were the fool who didn't 
+know when to give up.
+
+## POINTER 34
+Barbos
+<VOICE>(VS21_185)Urk...Ha ha ha. 
+Perhaps you are 
+right.
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS21_186)Then you'll surrender...
+
+## POINTER 36
+Barbos
+<VOICE>(VS21_187)I...I won't be humiliated 
+any more than this.
+
+## POINTER 37
+Barbos
+<VOICE>(VS21_188)...<STR>(YUR), was it?<PAGE><VOICE>(VS21_189)You remind me of Whitehorse 
+in his youth... You're his 
+spitting image.
+
+## POINTER 38
+<STR>(YUR)
+<VOICE>(VS21_190)Hope you're not saying I'm gonna end 
+up like that old man. Not exactly 
+something to look forward to.
+
+## POINTER 39
+Barbos
+<VOICE>(VS21_191)Like the Don, sooner or 
+later you will make great 
+enemies in this world.<PAGE><VOICE>(VS21_192)...And then that world 
+will consume you whole.
+
+## POINTER 40
+Barbos
+<VOICE>(VS21_193)Regret, sorrow, and despair will 
+hound you all the way to hell, 
+and I will be waiting there for you.

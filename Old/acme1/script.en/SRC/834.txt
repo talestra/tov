@@ -1,0 +1,200 @@
+## POINTER 0
+
+Uno, due, tre...
+Quattro...<PAGE>No, it is too difficile to do by 
+myself! What to do, what to do...
+
+## POINTER 1
+<STR>(YUR)
+Wh-what's that...?
+
+## POINTER 2
+<STR>(RIT)
+...That guy's the definition of creepy.
+
+## POINTER 3
+<STR>(RAV)
+Yeah, maybe we oughta 
+just keep on movin'...
+
+## POINTER 4
+
+Oh, buon giorno! You 
+came at a good time!
+
+## POINTER 5
+<STR>(KAR)
+Wh-what's with this guy...?
+
+## POINTER 6
+
+My name's Sicily! 
+Piacere!
+
+## POINTER 7
+<STR>(EST_P)
+Ah, pleased to meet you too.
+
+## POINTER 8
+<STR>(YUR)
+<STR>(EST_P), you're only 
+encouraging him...
+
+## POINTER 9
+Sicily
+I have to say, I'm having 
+a piccolo problema... Do you 
+think you could help me?
+
+## POINTER 10
+<STR>(RAV)
+Eh? Ya want us ta help ya?
+
+## POINTER 11
+<STR>(JUD)
+What is it that you want help with?
+
+## POINTER 12
+Sicily
+Well, signorina, I've been counting 
+the petals that fall from this tree! 
+But it's a bit difficile to do alone...
+
+## POINTER 13
+<STR>(YUR)
+Well, about time we hit 
+the ole dusty trail...
+
+## POINTER 14
+<STR>(JUD)
+Good idea...
+
+## POINTER 15
+Sicily
+Aspetta! Please, 
+wait! Why won't 
+you help me?
+
+## POINTER 16
+<STR>(RIT)
+This guy's pretty 
+annoying...
+
+## POINTER 17
+Sicily
+All I need is someone to 
+help! Even that signore 
+would suffice! Per favore?
+
+## POINTER 18
+<STR>(RAV)
+Huh?! Me? And whaddaya mean 
+"even that signore"... 
+What're ya tryin' ta insinuate...
+
+## POINTER 19
+<STR>(YUR)
+All right, <STR>(RAV). We're 
+counting on you.
+
+## POINTER 20
+<STR>(RIT)
+Yeah, and make it fast, okay?
+
+## POINTER 21
+<STR>(KAR)
+I still don't really know what's 
+going on, but, uh...good luck?
+
+## POINTER 22
+<STR>(EST_P)
+Ummm... I guess 
+it's okay?
+
+## POINTER 23
+<STR>(JUD)
+The old man'll get things done. 
+He's a real go-getter!
+
+## POINTER 24
+Sicily
+Bene! Molto bene! 
+So, signore, you go and 
+look over that way!
+
+## POINTER 25
+<STR>(RAV)
+H-hold on just a second! 
+I still haven't said 
+I'd help at all--
+
+## POINTER 26
+<STR>(JUD)
+It'll be easier if you just give 
+in and accept your fate, old man.
+
+## POINTER 27
+<STR>(RIT)
+Yeah, and make it snappy, would you?
+
+## POINTER 28
+<STR>(RAV)
+Urgh...
+
+## POINTER 29
+<STR>(RAV)
+...How do I get talked 
+inta these things...
+
+## POINTER 30
+<STR>(RAV)
+...I...I counted...all of them. 
+From here all the way over there, 
+there's 97,201 petals in all!
+
+## POINTER 31
+Sicily
+...Si!  I thought 
+it'd be something 
+like that. Grazie!
+
+## POINTER 32
+<STR>(RAV)
+...W-what the hell's 
+all this for, anyway?
+
+## POINTER 33
+Sicily
+Ohh, signore, I cannot tell 
+you that! It's a secret!
+
+## POINTER 34
+<STR>(RAV)
+A secret, huh...?
+Wh-whatever... 
+I'm goin' ta go now.
+
+## POINTER 35
+Sicily
+Aspetta, signore! 
+Your name, what is it?
+
+## POINTER 36
+<STR>(RAV)
+<STR>(RAV).
+
+## POINTER 37
+Sicily
+<STR>(RAV)...You did a good job 
+today. I'm sure good luck 
+will come your way!<PAGE>Arrivederci!
+
+## POINTER 38
+<STR>(RAV)
+Good luck comin' my way? 
+That'd be a nice change...<PAGE>Hey! I just... I just 
+realized somethin'...!
+
+## POINTER 39
+<STR>(RAV)
+...I'm a pretty complex guy...

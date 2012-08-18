@@ -1,0 +1,155 @@
+## POINTER 0
+<STR>(YUR)
+What the...?!
+
+## POINTER 1
+<STR>(EST_P)
+Wait!
+
+## POINTER 2
+
+Thank you for the lovely story...
+
+## POINTER 3
+<STR>(KAR)
+The story...you mean 
+the story that <STR>(EST_P) 
+made up?
+
+## POINTER 4
+<STR>(EST_P)
+Who are you?
+
+## POINTER 5
+
+...I have dwelled at the base of 
+this tree for many generations...<PAGE>If you wish to give me a name, 
+you could refer to me as the 
+flower maiden of your story.
+
+## POINTER 6
+<STR>(EST_P)
+So you mean that really happened...?
+
+## POINTER 7
+
+Those children saw me, and 
+I'm afraid that started 
+an unfortunate rumor.
+
+## POINTER 8
+<STR>(EST_P)
+You mean the story of the bride's ghost?
+
+## POINTER 9
+
+Yes...and I even dropped 
+my veil...
+
+## POINTER 10
+<STR>(EST_P)
+Oh, so this is yours. 
+Let me give it 
+back to you.
+
+## POINTER 11
+
+No...I shall let 
+you keep that.<PAGE>Thanks to you, the unfortunate 
+rumor was put to rest.
+
+## POINTER 12
+<STR>(EST_P)
+But no...I mean, I was just 
+making that story up...
+
+## POINTER 13
+
+No...I shall give you another 
+token of my gratitude.
+
+## POINTER 14
+<STR>(EST_P)
+Huh...?
+
+## POINTER 15
+
+I have given you a new ability.<PAGE>Perhaps it will 
+help you protect 
+your companions.<PAGE>Farewell...
+
+## POINTER 16
+<STR>(EST_P)
+Ah...!
+
+## POINTER 17
+<STR>(YUR)
+...What...was 
+that?
+
+## POINTER 18
+<STR>(RIT)
+An elemental spirit, I think.
+
+## POINTER 19
+<STR>(KAR)
+Huh? But I thought elemental spirits 
+came from Entelexeia...
+
+## POINTER 20
+<STR>(RIT)
+There's a barrier blastia here. Which mean 
+that there's a blastia core, which could 
+be the source of an elemental spirit.
+
+## POINTER 21
+<STR>(RIT)
+<STR>(EST_P)'s power put aer into 
+the core, and that created 
+an elemental spirit.<PAGE>Or perhaps the tree 
+and the blastia did 
+that by themselves?
+
+## POINTER 22
+<STR>(YUR)
+Hmmm...very interesting.
+
+## POINTER 23
+<STR>(RIT)
+It sort of takes the flowers out 
+of the equation, though...
+
+## POINTER 24
+<STR>(JUD)
+But don't you think the idea of a 
+flower spirit is a little romantic?
+
+## POINTER 25
+<STR>(EST_P)
+...I've decided...<PAGE>After our fight with the 
+Adephagos is over, I'm going 
+to become a writer.
+
+## POINTER 26
+<STR>(KAR)
+Wh-whaaaa...!
+
+## POINTER 27
+<STR>(EST_P)
+I want to be able to spread joy, like what happened 
+with those children and that spirit.<PAGE>I want to make everyone 
+happy like I did for the 
+people in this town...
+
+## POINTER 28
+<STR>(YUR)
+Sounds good to me!
+
+## POINTER 29
+<STR>(KAR)
+Sounds good to you? But <STR>(EST_P)'s 
+going to be the...<PAGE>...Yeow!
+
+## POINTER 30
+<STR>(RIT)
+All right, let's go.

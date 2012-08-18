@@ -1,0 +1,565 @@
+## POINTER 100
+You were in the castle, right? 
+Did you see <STR>(FRE)?<PAGE>Tell <STR>(FRE) the 
+lower quarter's 
+in trouble!
+
+## POINTER 101
+Hey, you're back already? 
+You don't have to run 
+away any more? <PAGE>What? You're leaving again? 
+Make up your mind...
+
+## POINTER 102
+It's kind of 
+lonely without 
+you around, <STR>(YUR)...<PAGE>Uhh... Nevermind...
+
+## POINTER 103
+<STR>(YUR)! I saw 
+your wanted poster.<PAGE>I can't believe there's 
+a bounty on you! You're 
+famous in the Empire!
+
+## POINTER 104
+But, it's <STR>(FRE)'s job to 
+hunt down people with 
+bounties on their heads, right? <PAGE>I sure don't want 
+you two to fight...
+
+## POINTER 105
+<STR>(FRE)'s a captain now! He got 
+the core back for the lower quarter
+and everything! He's amazing!<PAGE>And I know <STR>(FRE) will keep 
+working for the lower quarter, 
+even as a captain.
+
+## POINTER 106
+Did you hear about the 
+<STR>(FRE) Defense Force? <PAGE>They made me tell 
+them everything I know 
+about <STR>(FRE).
+
+## POINTER 107
+Ugh... 
+I feel awful...
+
+## POINTER 108
+Ever since the sky went all 
+funny, something's just...not 
+right. This is horrible...
+
+## POINTER 109
+It was terrible when I got 
+back to the lower quarter!<PAGE>Grass like tree trunks covered 
+the entire lower quarter... 
+I couldn't believe it.
+
+## POINTER 110
+I wonder if <STR>(FRE) will rebuild 
+things if we ask. I mean, 
+<STR>(FRE)'s really important now!<PAGE><STR>(YUR), go and ask 
+<STR>(FRE) for us!
+
+## POINTER 111
+<STR>(YUR), you're safe!<PAGE>Your friend said things were 
+bad, so I was really worried.
+
+## POINTER 112
+No way you'd go down 
+that easy, right, <STR>(YUR)?
+
+## POINTER 113
+<STR>(FRE) built a new 
+town in Hypionia! 
+Isn't that amazing?!<PAGE><STR>(FRE)... He's on 
+another level, seriously.
+
+## POINTER 114
+All the members of the 
+<STR>(FRE) Defense Force followed 
+<STR>(FRE) to his new town.<PAGE>They just don't get it! 
+<STR>(FRE) would really remain 
+here in the lower quarter.
+
+## POINTER 115
+The aque blastia broke, huh?<PAGE>No surprise there. They only 
+let us have old beat-up blastia 
+here in the lower quarter.
+
+## POINTER 116
+If you've got a problem 
+with it, go tell the imperial 
+family or the Council. <PAGE>They're the ones who 
+decide what we get.
+
+## POINTER 117
+You see that, beyond those buildings? 
+That's our barrier blastia, the Sword Stair. 
+It protects Zaphias from monsters.<PAGE>The barrier is incredibly important... 
+Our lives and livelihood depend on it.
+
+## POINTER 118
+Almost all the towns in the 
+Empire have a barrier blastia, 
+not just here in Zaphias.<PAGE>Places without them have 
+to fortify and arm themselves 
+to keep the monsters out.
+
+## POINTER 119
+The knights will find a reason to 
+arrest anyone they don't like, 
+even if you haven't done anything.<PAGE>It's not a good time to 
+come back here, <STR>(YUR).
+
+## POINTER 120
+I don't even 
+trust <STR>(FRE).<PAGE>They keep an eye on the 
+lower quarter too. You 
+shouldn't stick around.
+
+## POINTER 121
+The Empire has a monopoly on 
+the various blastia in Zaphias, 
+including the barrier blastia.
+
+## POINTER 122
+Historically speaking, the 
+emperors never had the authority 
+to control access to blastia.<PAGE>The imperial family 
+doesn't know their place. 
+Fools, all of them.
+
+## POINTER 123
+After the to-do with Magistrate 
+Ragou, the Council's reputation 
+has taken a huge hit.<PAGE>Now the balance between the Council 
+and the Imperial Knights is wavering... 
+What will become of our Empire?
+
+## POINTER 124
+There's no question the Empire
+is in a state of disarray. <PAGE>The imperial family 
+no longer has the 
+power to quell this chaos.
+
+## POINTER 125
+Hey, <STR>(YUR). 
+You come looking 
+for something? <PAGE>Anything you need for work should 
+be lying around here somewhere. 
+Take whatever you need.
+
+## POINTER 126
+Onions, carrots, and...
+Is this crate booze bottles? <PAGE>Lucky I noticed, I was just about 
+to kick this thing away and 
+shatter them all. That was close!
+
+## POINTER 127
+So you're back, <STR>(YUR)? 
+Up to your old tricks, I hear.
+
+## POINTER 128
+So who's the 
+young lady? <PAGE>The poor thing. 
+This nasty place is 
+nowhere to bring a girl.
+
+## POINTER 129
+Hey, welcome back! 
+Nice to see you're 
+still alive.
+
+## POINTER 130
+You should visit 
+your old room 
+once in a while, <STR>(YUR). <PAGE>If you don't take care 
+of it, the dust in there 
+will start forming strata!
+
+## POINTER 131
+The Schwann Brigade, 
+the Cumore Brigade...
+And now the <STR>(FRE) Brigade?<PAGE>Impressive, that boy.
+
+## POINTER 132
+I hope the Imperial Knights 
+improve, even a little.
+
+## POINTER 133
+Halt! 
+If you go any further, 
+you'll leave the city.<PAGE>The world outside Zaphias' barrier 
+is swarming with monsters. It's too 
+dangerous for you equipped like that.
+
+## POINTER 134
+You cannot be allowed 
+to leave the city with such 
+light equipment. <PAGE>Come back with the 
+proper armaments.
+
+## POINTER 135
+An emergency order 
+has been issued 
+to seal off the capital. <PAGE>None may pass.
+
+## POINTER 136
+The gate is sealed. 
+No one may pass until 
+the order is lifted.
+
+## POINTER 137
+They ordered 
+this gate closed...
+Hey, you're... <PAGE>I'm going to go take a 
+look at the wanted poster. 
+You wait right here...
+
+## POINTER 138
+Hmmm... I can't tell 
+if you look like the 
+wanted poster or not...
+
+## POINTER 139
+Welcome to the Imperial 
+Capital of Zaphias.
+
+## POINTER 140
+Welcome to the Imperial 
+Capital of Zaph... Huh? 
+You're...not a traveler...<PAGE>Well, you look 
+like one...
+
+## POINTER 141
+There are monsters just 
+outside the barrier! 
+It's far safer inside the capital!<PAGE>Citizens, stay calm. The 
+Knights are protecting Zaphias. 
+There is no reason to evacuate!
+
+## POINTER 142
+Damn it all... 
+What in the world 
+is going on?
+
+## POINTER 143
+Commandant Alexei
+rode off on a 
+monster somewhere. <PAGE>Maybe I should 
+follow him...
+
+## POINTER 144
+With the barrier gone, 
+the Knights are the last line 
+of defense for the capital.
+
+## POINTER 145
+If Commandant Alexei brought this 
+disaster, then it is our duty to 
+protect the capital with our lives.
+
+## POINTER 146
+The monsters that invaded the 
+capital and caused all the uproar 
+have been taken care of. <PAGE>People can finally live in 
+the capital again safely again.
+
+## POINTER 147
+Zaphias is safe. 
+There is no need to evacuate.
+
+## POINTER 148
+Welcome! 
+Welcome to my 
+magnificent atelier! <PAGE>Can you tell that I crackle 
+with ferocious creative power, 
+this very instant?
+
+## POINTER 149
+As you can see, I am an artist. 
+I paint portraits, and now I find a 
+spectacular subject before me! <PAGE>Will you allow me to paint your 
+likeness? It would surely flex 
+my dazzling creative muscles!
+
+## POINTER 150
+Wait, wait a moment! Has the good 
+sir seen my work yet? It burns 
+with a palpable passion!
+
+## POINTER 151
+Your wanted poster. Your wanted 
+poster, good sir! It was none 
+other than I who painted it! <PAGE>You're a very distinctive young 
+man, so I remembered it well. 
+It is a masterwork, is it not?
+
+## POINTER 152
+Ahh, the hero returns! Wait, 
+your bounty has been cleared? <PAGE>Oh dear oh dear. 
+Now my art will no longer be 
+displayed throughout the city.
+
+## POINTER 153
+I've got it! I'll put it up right here! 
+Ahh, your wanted poster! 
+...What, no good?
+
+## POINTER 154
+The sky is the color 
+of the water after 
+I wash my brushes . <PAGE>Landscapes aren't my specialty, 
+but ohhh, this color...
+
+## POINTER 155
+The other day a dragon flew over 
+the capital! Oh! Such a proud 
+mark of winged valor! <PAGE>If you ever see one, do come 
+tell me. I must burn that heroic 
+silhouette onto canvas forever!
+
+## POINTER 156
+The other day at the refugee camp, 
+I saw a dragon flying toward Zaphias.<PAGE>But it was struck down by 
+that uncanny aurora 
+in the sky!
+
+## POINTER 157
+Might I have been dreaming...? 
+I must admit I was up the 
+whole night painting...<PAGE>No matter! Dream or illusion, 
+I will paint that dragon! That is 
+the artiste's raison d'etre!
+
+## POINTER 158
+Commandant Alexei started 
+some sort of rebellion...? <PAGE>Hmm. I only ever heard 
+good things about him. 
+Maybe he was blinded by greed.
+
+## POINTER 159
+Ah! The heavens have just sent 
+me a brilliant idea! Portraits 
+of Alexei! Oh, I'll be rich!
+
+## POINTER 160
+Good sir! They say you were 
+childhood friends with the popular 
+young knight captain? <PAGE>Would deign to let me paint your 
+double portrait? Two heroes 
+destined to live on in history!
+
+## POINTER 161
+Two youths--childhood friends--now 
+find themselves hunter and hunted! 
+Ah, cruel fate!... <PAGE>That is how I see the piece. 
+Do come back with 
+the young captain.
+
+## POINTER 162
+Welcome! 
+If it isn't <STR>(YUR). <PAGE>We've got some good 
+stuff on sale today!
+
+## POINTER 163
+Fortune's Market, where we pride 
+ourselves on providing sales with 
+a smile! Come back any time!
+
+## POINTER 164
+Well, if it isn't Zaphias' very own idol! 
+Maybe I should put a sign 
+up saying "Celebrities Shop Here".
+
+## POINTER 165
+Fortune's Market, 
+where the celebrities shop! 
+Thanks for visiting!
+
+## POINTER 166
+I don't think it's a 
+good idea for you to be 
+hanging around here. <PAGE>Hurry up before 
+you get caught.
+
+## POINTER 167
+Taxes went up again. Sooner 
+or later it's going to affect prices...
+
+## POINTER 168
+Fortune's Market, where we're 
+prepared to hemorrhage profits to get 
+your business! Thanks for visiting!
+
+## POINTER 169
+The town's sealed off now, right? 
+Having so few people around 
+isn't very good for sales.
+
+## POINTER 170
+Fortune's Market, where we 
+do business as long as we 
+still breathe! Come again!
+
+## POINTER 171
+Zaphias may be in a sorry 
+state of affairs, but we're not 
+leaving yet. Take your time!
+
+## POINTER 172
+Fortune's Market, where the 
+smiles cost zero Gald! Come on 
+back whenever you need a smile.
+
+## POINTER 173
+Thanks to that weird monster, 
+supplies are selling like crazy. 
+I don't know if I should be happy...
+
+## POINTER 174
+Fortune's Market, where...uhh...I 
+can't think of anything. These lines 
+are a guild member's duty, too...
+
+## POINTER 175
+As long as we have the Knights 
+to protect us, Zaphias is safe. 
+Shop in peace.
+
+## POINTER 176
+Fortune's Market, 
+where quality comes first! 
+Thanks for coming!
+
+## POINTER 177
+Relaxing in a beautiful town 
+without a care in the world, 
+my sweetheart by my side... <PAGE>Is it all right to 
+be so happy?
+
+## POINTER 178
+A life of peace is the 
+greatest happiness there is. <PAGE>I'm so glad 
+I live here.
+
+## POINTER 179
+What's the town 
+so restless about?<PAGE>It seems like the Knights 
+are searching for someone.
+
+## POINTER 180
+There was such a commotion in 
+the lower quarter earlier about 
+their fountain stopping.<PAGE>They could stand to be a little 
+more quiet. I'm trying to spend 
+some time with my sweetheart.
+
+## POINTER 181
+You're the scoundrel 
+the Knights are searching 
+for, aren't you? <PAGE>You certainly look 
+like a scoundrel.
+
+## POINTER 182
+Hey! I thought the Knights 
+captured you? 
+So did they or didn't they?!
+
+## POINTER 183
+You're the one the Knights 
+were looking for earlier, right?<PAGE>What did you do? 
+And how on earth could 
+you be innocent?
+
+## POINTER 184
+Whatever, just don't bother me. 
+I'm spending time with my sweetheart.<PAGE>Don't you go 
+stealing my heart. ∀
+
+## POINTER 185
+Do you know about Captain <STR>(FRE)? 
+He made captain even though 
+he's from the lower quarter.<PAGE>He's kind to us citizens, 
+unlike the other knights.
+
+## POINTER 186
+Not only is Captain <STR>(FRE) kind, 
+he's so good-looking!∀<PAGE>All the girls of Zaphias
+have had their eyes 
+on him for a while.
+
+## POINTER 187
+With our barrier and thick 
+ramparts, Zaphias is the 
+safest place in the world...<PAGE>It's where the emperor lives, 
+so the Imperial Knights 
+keep a very close watch.
+
+## POINTER 188
+I'm proud to 
+be from Zaphias. <PAGE>This is a wonderful place to 
+live, and more importantly, 
+it's where I met my girl.
+
+## POINTER 189
+The capital has been sealed because 
+some thief the Knights caught 
+in the royal quarter escaped.<PAGE>They aren't letting anyone 
+cross through the barrier.
+
+## POINTER 190
+Isn't closing off the entire 
+city a little excessive? 
+It's such a bother for us citizens.
+
+## POINTER 191
+They still haven't caught the thief. 
+They put up pictures of the guy, 
+but they're terrible.<PAGE>Hey...
+You kinda look like him...
+
+## POINTER 192
+Even a picture as bad as 
+that can capture a person's 
+special features.
+
+## POINTER 193
+The pictures of the thief 
+from the royal quarter
+were finally taken down. <PAGE>I guess they finally caught him.
+
+## POINTER 194
+That's the Knights for you. 
+Always protecting the 
+peace of the capital.
+
+## POINTER 195
+I heard the Knights uncovered 
+treachery by a magistrate and 
+saved the people of some town.<PAGE>You can always count 
+on the Knights!
+
+## POINTER 196
+It's all thanks to the Knights 
+protecting the capital that we can spend 
+our days in such peace and quiet.
+
+## POINTER 197
+It's been a while now since my 
+hometown was destroyed and 
+I came to live in the capital. <PAGE>It's so quiet. It's really 
+a great place to live.
+
+## POINTER 198
+Living comfortably 
+helps enrich your
+heart, too. <PAGE>If you've got a stable 
+livelihood, doesn't that 
+put your mind at ease?
+
+## POINTER 199
+Everyone in the city is so kind.<PAGE>I visit the lower quarter sometimes, 
+too. It's so lively, and the 
+people are so nice. It's great!

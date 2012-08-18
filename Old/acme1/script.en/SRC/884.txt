@@ -1,0 +1,67 @@
+## POINTER 0
+<STR>(YUR)
+Huh? That's...
+
+## POINTER 1
+<STR>(KAR)
+It's Nan! Nan!!
+
+## POINTER 2
+Nan
+<STR>(KAR)...
+
+## POINTER 3
+<STR>(KAR)
+After what happened at Mt. Temza... Are you okay?
+
+## POINTER 4
+Nan
+...I'm okay enough that I don't 
+need your pity, <STR>(KAR).<PAGE>I just let my guard 
+down, is all.
+
+## POINTER 5
+<STR>(KAR)
+Yeah. I guess.
+
+## POINTER 6
+Nan
+...Do you want something?
+
+## POINTER 7
+<STR>(KAR)
+The Monster Book that I got from you 
+has been helping us out a lot, Nan!<PAGE>Look at all the monsters we've put in it so far!
+
+## POINTER 8
+Nan
+I see. But why are you reporting 
+all this to me?<PAGE>You never know when we'll end up face-to-face, 
+competing to catch the same mark. Stop talking 
+to me like you're my best friend.
+
+## POINTER 9
+<STR>(KAR)
+N-Nan...
+
+## POINTER 10
+Nan
+I'm leaving.
+
+## POINTER 11
+<STR>(KAR)
+Nan...
+
+## POINTER 12
+<STR>(YUR)
+<STR>(KAR), you okay?
+
+## POINTER 13
+<STR>(KAR)
+Yeah... I'm fine...
+Let's 
+go...
+
+## POINTER 14
+<STR>(YUR)
+...Okay.

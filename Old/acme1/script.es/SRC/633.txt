@@ -1,0 +1,156 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286827329]
+<STR>(YUR)
+<VOICE>(VA024_001)¿Qué tal está Ba'ul?
+¿No está cansado?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286827329]
+<STR>(JUD)
+<VOICE>(VA024_002)No, está bien.
+Pero está preocupado.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286827329]
+<STR>(YUR)
+<VOICE>(VA024_003)¿Por qué?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755483]
+<STR>(JUD)
+<VOICE>(VA024_004)La apátheia que de su interior
+aún no basta para convertirlo
+en un espíritu.<PAGE><VOICE>(VA024_005)Pero sabe que algún día tendrá
+que dejar su forma actual
+y convertirse en uno.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286827329]
+<STR>(YUR)
+<VOICE>(VA024_006)Bueno, los humanos sabemos que
+algún día moriremos y no estamos todo
+el santo día preocupándonos por ello.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286827329]
+<STR>(JUD)
+<VOICE>(VA024_007)Hay gente
+que sí.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286827329]
+<STR>(YUR)
+<VOICE>(VA024_008)¿Estás diciendo que Ba'ul
+es así de débil?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286827329]
+<STR>(JUD)
+<VOICE>(VA024_009)Es mucho más delicado
+que tú, <STR>(YUR).
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286827329]
+<STR>(YUR)
+<VOICE>(VA024_010)Pero en su caso, morir no es
+exactamente lo que nosotros
+entendemos por la muerte, ¿no?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286827329]
+<STR>(JUD)
+<VOICE>(VA024_011)Pero quiere decir que su
+consciencia desaparecerá y
+será reemplazada por algo nuevo.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286827329]
+<STR>(YUR)
+<VOICE>(VA024_012)Vamos, que es miedo a
+lo desconocido. En eso no es
+muy diferente a nosotros.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981117]
+<STR>(JUD)
+<VOICE>(VA024_013)Los otros entelechia han aceptado
+que deben convertirse en espíritus.<PAGE><VOICE>(VA024_014)Están convencidos de que mantener
+la estabilidad del planeta es su deber.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286828784]
+<STR>(YUR)
+<VOICE>(VA024_015)Pero Ba'ul ya tiene una misión que debe cumplir, ¿no?<PAGE><VOICE>(VA024_016)Me refiero a su obligación
+de destruir todos
+los blastias hermes.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755483]
+<STR>(JUD)
+<VOICE>(VA024_017)La determinación necesaria para
+destruir blastias y la de convertirse
+en un espíritu son muy distintas.<PAGE><VOICE>(VA024_018)A Ba'ul... aún le falta
+la resolución para dejar
+su identidad como un entelechia.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755483]
+<STR>(YUR)
+<VOICE>(VA024_019)Pues a mí me parece que
+es mejor que le falte.
+Y lo comprendo perfectamente.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286829016]
+<STR>(JUD)
+<VOICE>(VA024_020)Le hace feliz
+que le entiendas.<PAGE><VOICE>(VA024_021)Pero aún me preocupa
+que siga así...
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286829016]
+<STR>(YUR)
+<VOICE>(VA024_022)¿Quieres que se convierta
+en un espíritu, <STR>(JUD_P)?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981137]
+<STR>(JUD)
+<VOICE>(VA024_023)No, en absoluto.<PAGE><VOICE>(VA024_024)Pero me pregunto lo que los entelechia...
+Lo que los espíritus opinan sobre el tema.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286877354]
+<STR>(YUR)
+<VOICE>(VA024_025)¿Qué está pasando?
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286877354]
+<STR>(JUD)
+<VOICE>(VA024_026)No estoy segura. Ba'ul y los
+espíritus se están comunicando.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286877354]
+<STR>(JUD)
+<VOICE>(VA024_027)O algo por el estilo...
+pero sin usar sus voces.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286877354]
+<STR>(JUD)
+<VOICE>(VA024_028)Sí...
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286877354]
+<STR>(YUR)
+<VOICE>(VA024_029)¿Qué ha pasado?
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286877354]
+<STR>(JUD)
+<VOICE>(VA024_030)Dice que no nos preocupemos por él.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527170]
+<STR>(YUR)
+<VOICE>(VA024_031)Pero ¿a qué ha venido eso?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755483]
+<STR>(JUD)
+<VOICE>(VA024_032)Mmm... Los espíritus
+le han dicho algo
+para tranquilizarlo.
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286877354]
+<STR>(YUR)
+<VOICE>(VA024_033)Quizá le hayan dicho lo fácil que fue para ellos.
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286877354]
+<STR>(JUD)
+<VOICE>(VA024_034)Sí, probablemente.<PAGE><VOICE>(VA024_035)En cualquier caso, ahora mismo es imposible
+que se convierta en un espíritu.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286877354]
+<STR>(YUR)
+<VOICE>(VA024_036)Vamos a tener que seguir dependiendo
+de ti hasta el final del viaje, Ba'ul.
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286877354]
+<STR>(JUD)
+<VOICE>(VA024_037)Quiere que sepas que puedes contar con él.

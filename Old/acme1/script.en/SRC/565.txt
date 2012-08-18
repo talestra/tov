@@ -1,0 +1,108 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VA011_024)We delivered the book, just like you asked.<PAGE><VOICE>(VA011_025)Here, look... This is proof 
+we finished the job.
+
+## POINTER 1
+Yu
+<VOICE>(VA011_026)Oh, indeed. That's 
+Nobis's, all right.<PAGE><VOICE>(VA011_027)Wow, thanks so much 
+for your help!<PAGE><VOICE>(VA011_028)And here is the pay I promised you...
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VA011_029)If you ever need anything else, don't 
+hesitate to call on Brave Vesperia!♪
+
+## POINTER 3
+Yu
+<VOICE>(VA011_030)Yes, of course...see you later.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VA011_032)A symbol of their friendship... How touching. 
+I wonder what kind of book it was.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VA011_031)A proof of friendship, huh? 
+That's kind of nice. I wonder 
+what sort of book it was.
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VA011_033)It was just a normal book. Looked like 
+it had something ta do with economics.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VA011_034)Did you look inside, <STR>(RAV)?
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VA011_035)So what if I did?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VA011_036)I mean, it's fine, but...what 
+if the client had hidden something 
+private in the book?
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VA011_037)Oh, it's no big deal. No harm done if 
+it didn't get in the way of the job.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VA011_038)An economics book, eh...
+Doesn't sound too racy.
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VA011_039)It would've been funny if some 
+romance novel was the proof 
+of two guys' friendship!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VA011_040)Really...?
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VA011_041)Anyway, I guess we're 
+done with our first 
+job with the Union.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VA011_042)So this what it's like to work in a guild.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VA011_043)Yeah. If we were the Hunting 
+Blades, we'd probably get jobs 
+to exterminate monsters.<PAGE><VOICE>(VA011_044)Fortune's Market usually does stuff like 
+transport products over long distances.
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VA011_045)So, Brave Vesperia's in the delivery business, then?
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VA011_046)Well, we...
+Uhhh...
+
+## POINTER 19
+<STR>(RAP)
+<VOICE>(VA011_047)*Howl*, woof woof!
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VA011_048)We can think it over while we try 
+out a few different kinds of work.
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VA011_049)Yeah, sure!

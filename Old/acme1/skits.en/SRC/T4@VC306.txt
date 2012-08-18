@@ -1,0 +1,61 @@
+## POINTER 0
+(JUD) Goes All Out
+
+## POINTER 1
+(YUR)
+(RIT), you're eating quietly for 
+once. Do you like the food?
+
+## POINTER 2
+(RIT)
+I wouldn't say I like it...but 
+I don't dislike it.
+
+## POINTER 3
+(JUD)
+I'm glad it suits your taste, (RIT).
+
+## POINTER 4
+(EST_P)
+I've heard that making pork stew 
+is especially time-intensive.
+
+## POINTER 5
+(JUD)
+Yes, it takes at least two days to boil 
+the pork until it's soft enough to eat.
+
+## POINTER 6
+(YUR)
+It seems you're pretty good at 
+cooking elaborate dishes, (JUD_P).
+
+## POINTER 7
+(JUD)
+I used to cook a lot. I don't mind a 
+little work if people will enjoy it.
+
+## POINTER 8
+(YUR)
+Did you use to cook for your family?
+
+## POINTER 9
+(JUD)
+Yes. And now I have you all! It makes 
+all of the hard work worthwhile.
+
+## POINTER 10
+(RIT)
+...It's delicious.
+
+## POINTER 11
+(EST_P)
+Huh? (RIT), did you say something?
+
+## POINTER 12
+(RIT)
+No.
+
+## POINTER 13
+(JUD)
+Heh heh, thank you, (RIT).

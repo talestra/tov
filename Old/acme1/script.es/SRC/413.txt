@@ -1,0 +1,251 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495174]
+<STR>(RIT)
+<VOICE>(VS38_141)Ha sido un día muy largo.
+Recuperemos fuerzas
+para mañana.
+
+## POINTER 1 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(RAV)
+<VOICE>(VS38_142)Secundo la moción. ¿Cuánto
+hace no duermo en una
+cama como es debío?
+
+## POINTER 2 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(RIT)
+<VOICE>(VS38_143)Bueno, supongo que podemos
+quedarnos todos en mi casa...
+
+## POINTER 3 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(KAR)
+<VOICE>(VS38_144)Espera. Antes de nada quiero
+ocuparme de una cosa.
+
+## POINTER 4 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(JUD)
+<VOICE>(VS38_145)Te refieres a mí...
+
+## POINTER 5 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(EST_P)
+<VOICE>(VS38_146)<STR>(KAR).
+
+## POINTER 6 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(RAV)
+<VOICE>(VS38_147)Es un asunto de su gremio.
+Será mejor no entrometerse.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495174]
+<STR>(KAR)
+<VOICE>(VS38_148)Le he estado dando muchas
+vueltas a qué debemos
+hacer como gremio...<PAGE><VOICE>(VS38_149)Y me he dado cuenta...<PAGE><VOICE>(VS38_150)de que debemos dejar claras
+unas cuantas cosas si queremos
+mantenerlo.
+
+## POINTER 8 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(YUR)
+<VOICE>(VS38_151)Hablas como si ya tuvieras
+decidido qué hacer.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495174]
+<STR>(KAR)
+<VOICE>(VS38_152)Bueno, ya hemos dicho antes
+que lo más importante es
+obedecer las leyes del gremio.
+<PAGE><VOICE>(VS38_153)Aquellos que las rompan han
+de sufrir un duro castigo.
+Aunque sean familiares o amigos.<PAGE><VOICE>(VS38_154)Todo el mundo dice que ese
+es el orgullo de todo gremio.
+
+## POINTER 10 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(JUD)
+<VOICE>(VS38_155)Sí...
+
+## POINTER 11 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(KAR)
+<VOICE>(VS38_156)Pues lo que creo es que...<PAGE><VOICE>(VS38_157)que todos nosotros nos
+merecemos un castigo.
+
+## POINTER 12 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(JUD)
+<VOICE>(VS38_158)¿Qué quieres decir?
+
+## POINTER 13 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(KAR)
+<VOICE>(VS38_159)No sabía que <STR>(JUD) 
+estuviera luchando por
+nuestro planeta ella sola.<PAGE><VOICE>(VS38_160)Pero aunque no lo supiera,
+no llegué a ayudar a una
+compañera del gremio.<PAGE><VOICE>(VS38_161)Así que debo afrontar
+mi castigo.
+
+## POINTER 14 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(KAR)
+<VOICE>(VS38_162)<STR>(YUR).
+
+## POINTER 15 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(YUR)
+<VOICE>(VS38_163)¿Yo?
+
+## POINTER 16 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285487702]
+<STR>(KAR)
+<VOICE>(VS38_164)Por mucho que estuvieras «siguiendo
+tu propio camino», aun así nos
+ocultabas cosas a los demás.
+<PAGE><VOICE>(VS38_165)Eso no puede ser nada
+bueno para el gremio.
+
+## POINTER 17 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(YUR)
+<VOICE>(VS38_166)Bueno...
+
+## POINTER 18 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(KAR)
+<VOICE>(VS38_167)Así que a ti también te toca castigo.
+
+## POINTER 19 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(RIT)
+<VOICE>(VS38_168)Sí que se lo toma en serio.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527515]
+<STR>(KAR)
+<VOICE>(VS38_169)Las leyes son importantes...<PAGE><VOICE>(VS38_170)Pero ¿qué pasa si alguien hace
+lo correcto, aunque las infrinja?
+¿Se merece un castigo?<PAGE><VOICE>(VS38_171)Sinceramente,
+todavía no lo sé...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495174]
+<STR>(KAR)
+<VOICE>(VS38_172)Por eso creo que deberíamos
+aceptar todos nuestro castigo
+y empezar otra vez desde cero.<PAGE><VOICE>(VS38_173)¿Qué pensáis?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495174]
+<STR>(YUR)
+<VOICE>(VS38_174)No puedo prometeros que no vaya
+a guardaros ningún secreto más.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495174]
+<STR>(KAR)
+<VOICE>(VS38_175)Bueno, si así son las cosas...
+Si no confías en nosotros, entonces
+no hay nada que puedas hacer.<PAGE><VOICE>(VS38_176)Eso sería culpa mía.
+
+## POINTER 24 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(JUD)
+<VOICE>(VS38_177)¿Y qué pasa si tengo que
+destruir un blastia que
+nuestro gremio planee usar?<PAGE><VOICE>(VS38_178)Estaría infringiendo la ley
+que dice que debo obrar
+por el bien del gremio.
+
+## POINTER 25 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(KAR)
+<VOICE>(VS38_179)Pero también lo estarías
+haciendo por el bien del mundo.<PAGE><VOICE>(VS38_180)Obedecer las leyes no lo
+son todo en un gremio. Creo
+que podemos dejar pasar eso.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495174]
+<STR>(RIT)
+<VOICE>(VS38_181)Mmm, pero ¿eso no le quita
+todo su sentido a vuestras leyes?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495174]
+<STR>(RAV)
+<VOICE>(VS38_182)¡Ja, ja, ja! Es la primera vez
+que veo un gremio tal que asín.<PAGE><VOICE>(VS38_183)Pero me resultáis interesantes,
+eso lo admito.
+
+## POINTER 28 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(EST_P)
+<VOICE>(VS38_184)Je, je, je.
+
+## POINTER 29 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285487702]
+<STR>(YUR)
+<VOICE>(VS38_185)<STR>(KAR), estás lleno de sorpresas.<PAGE>
+<VOICE>(VS38_186)Puede que haya pensado mucho sobre
+lo que debería hacer yo...<PAGE>
+<VOICE>(VS38_187)Pero es posible que no haya
+tenido en cuenta cómo mis actos
+iban a afectaros a vosotros.<PAGE>
+<VOICE>(VS38_188)De esta manera podría resolver cosas
+que no sabía ni que existían.
+
+## POINTER 30 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285487702]
+<STR>(KAR)
+<VOICE>(VS38_189)E-Es solo que quiero seguir
+viajando con todos vosotros.<PAGE><VOICE>(VS38_190)Quiero que el camino de cada
+uno de nosotros sea el mismo
+que el de Gran Vesperia.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495174]
+<STR>(YUR)
+<VOICE>(VS38_191)Je, a mí me parece bien.<PAGE><VOICE>(VS38_192)Ya has oído al jefe, <STR>(JUD_P).
+Creo que así es como está el patio.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495174]
+<STR>(JUD)
+<VOICE>(VS38_193)Sois la gente más rara
+que he conocido nunca.
+Pero...<PAGE><VOICE>(VS38_194)Creo que puedo
+seguir con vosotros.
+
+## POINTER 33 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(KAR)
+<VOICE>(VS38_195)Pues vale, una vez más.
+¡Gran Vesperia, adelante!
+
+## POINTER 34 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(RIT)
+<VOICE>(VS38_196)
+Van improvisando sobre
+la marcha, ¿verdad?
+¿O son todos los gremios igual?
+
+## POINTER 35 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(RAV)
+<VOICE>(VS38_197)Je, er Don llevaba er suyo
+de manera un pelín diferente.
+
+## POINTER 36 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(EST_P)
+<VOICE>(VS38_198)Pero este método tiene
+un lado muy bonito.
+
+## POINTER 37 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(RAV)
+<VOICE>(VS38_199)Bueno, ¿y qué pasa
+con er castigo?
+
+## POINTER 38 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(KAR)
+<VOICE>(VS38_200)¡Oh, claro! Casi lo olvido. Mmm...
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495174]
+<STR>(RIT)
+<VOICE>(VS38_201)Parece que os morís de ganas de
+investigar lo de los krityanos.
+Nos vamos a mi casa a relajarnos.
+
+## POINTER 40 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(KAR)
+<VOICE>(VS38_202)¡Oye! ¿Por qué lo tienes
+que decidir tú?
+
+## POINTER 41 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(RIT)
+<VOICE>(VS38_203)¿Perdona? ¿Te me
+estás quejando?
+
+## POINTER 42 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(YUR)
+<VOICE>(VS38_204)Ja, ja. 
+No, señora.
+
+## POINTER 43 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(JUD)
+<VOICE>(VS38_205)No.
+
+## POINTER 44 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283177906]
+<STR>(KAR)
+<VOICE>(VS38_206)Oh, oh...

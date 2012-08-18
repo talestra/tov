@@ -1,0 +1,130 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(RIT)
+...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(YUR)
+¿Crees que irá bien?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(RIT)
+Oh. Bueno, está muy mal.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280834927]
+<STR>(YUR)
+Madre mía, esto no se puede usar.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280828922]
+<STR>(RIT)
+¡Maldita sea! No me puedo
+creer que <STR>(JUD) fuera...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(YUR)
+Y todo el tiempo que estuvo con
+nosotros no destruyó ningún blastia.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(RIT)
+Para empezar, ¿por qué
+estaba con nosotros?<PAGE>Ese dragón...
+Ba'ul, ¿verdad?<PAGE>Nos atacó en
+Heliord, ¿no?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(YUR)
+Qué buena
+memoria.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(RIT)
+No es el tipo de cosas
+que se olvidan fácilmente.<PAGE>¿Crees que aquel día
+iban a por <STR>(EST_P)?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280828922]
+<STR>(RIT)
+Sí... Ella sabía
+quién era <STR>(EST_P).
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280828922]
+<STR>(RIT)
+Tú sabías que ella
+era el mamarracho
+del dragón, ¿verdad?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(YUR)
+Sí, ya lo sabía.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(RIT)
+¡Oh, por favor, ya te vale!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280828922]
+<STR>(YUR)
+Todos tenemos nuestras razones
+para hacer lo que hacemos.
+<PAGE>Tanto tú como <STR>(JUD).
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(RIT)
+Te refieres a...
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(YUR)
+Y yo también, por supuesto.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411068]
+<STR>(RIT)
+¿Te refieres a Ragou y a Cumore? Mmpf,
+no me importa mucho lo que les pasase.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280828922]
+<STR>(YUR)
+<STR>(JUD_P) era una leal
+compañera en nuestro grupo.<PAGE>O al menos eso me parecía a mí.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(RIT)
+Sí, es cierto, pero...<PAGE>Si nos hubiese dicho lo
+que sabía de los Hijos de la
+Luna Llena y de los entelechia...<PAGE>Los problemas de
+<STR>(EST_P) se podrían
+haber solucionado.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(YUR)
+Eso depende, ¿no crees?
+Después de todo, Phaeroh
+le dijo que era un veneno.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(RIT)
+¿Sabes? Puede que ella
+supiese dónde estaba
+Phaeroh desde el principio.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(YUR)
+Sí, puede ser.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(RIT)
+De todas formas,
+¡nunca la perdonaré
+por romper blastias!
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(YUR)
+Pues nada, si <STR>(JUD_P)
+vuelve, le puedes
+dar una paliza.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(RIT)
+No va a volver...
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280788315]
+<STR>(YUR)
+Mmmm, no sabría decirte.

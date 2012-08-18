@@ -1,0 +1,62 @@
+## POINTER 0
+<STR>(JUD)
+...You're pretty strong. 
+Can you use an Over 
+Limit, by any chance?
+
+## POINTER 1
+<STR>(YUR)
+Sure, yeah.
+
+## POINTER 2
+<STR>(JUD)
+Okay. Then try this...
+
+## POINTER 3
+<STR>(YUR)
+Huh? What's this?
+
+## POINTER 4
+<STR>(JUD)
+The Limit Duo.<PAGE>Your battle spirit can allow 
+you to use even more 
+powerful Over Limits.
+
+## POINTER 5
+<STR>(YUR)
+Oh yeah?
+
+## POINTER 6
+<STR>(JUD)
+If your battle spirit is 
+the real thing, that is.
+
+## POINTER 7
+<STR>(YUR)
+So what else can you 
+tell me about these 
+strong Over Limits?
+
+## POINTER 8
+<STR>(JUD)
+You can produce more power when attacking 
+alone, or they say you can share battle 
+spirit with something else...
+
+## POINTER 9
+<STR>(YUR)
+Is that so...
+I still don't quite get it...
+
+## POINTER 10
+<STR>(JUD)
+Really?<PAGE>Maybe you'll pick it up
+as you use them in battle?
+
+## POINTER 11
+<STR>(YUR)
+Sounds good to me...
+
+## POINTER 12
+<STR>(JUD)
+All right, let's get moving, then.

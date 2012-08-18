@@ -1,0 +1,191 @@
+## POINTER 0
+<STR>(KAR)
+Hey guys, look...!
+
+## POINTER 1
+
+Come see us again real soon, 'kay?
+
+## POINTER 2
+Gauche
+Okay...
+
+## POINTER 3
+Droite
+That's a promise.
+
+## POINTER 4
+<STR>(YUR)
+...We run into each other 
+in the craziest places.
+
+## POINTER 5
+<STR>(RAV)
+Whoa now, let's take it easy. 
+This isn't really the time...
+
+## POINTER 6
+
+What's wrong, Gauche? Droite?
+
+## POINTER 7
+Droite
+Ah, umm...
+
+## POINTER 8
+Gauche
+…………
+
+## POINTER 9
+Gauche
+Goodbye...
+
+## POINTER 10
+Droite
+Kay, bye!
+
+## POINTER 11
+<STR>(RAV)
+Now whaddya s'pose 
+those two're up to...?
+
+## POINTER 12
+
+Pardon me, but...are 
+you acquaintances of 
+the two young ladies?
+
+## POINTER 13
+<STR>(YUR)
+I wouldn't say 
+acquaintances, really...
+
+## POINTER 14
+
+Oh, I'm so relieved.
+
+## POINTER 15
+<STR>(RIT)
+Huh?!
+
+## POINTER 16
+
+I worry about those girls. They 
+have the misfortune of being easily 
+misunderstood, you see...<PAGE>But now that I see they have this many 
+friends, I can stop my worrying.
+
+## POINTER 17
+<STR>(KAR)
+Misunderstood? But they're 
+members of Leviath--oof!
+
+## POINTER 18
+<STR>(RAV)
+And how might you know 
+our friends, Miss?
+
+## POINTER 19
+
+I am the governess of this home, and 
+they once lived under its roof.
+
+## POINTER 20
+<STR>(RIT)
+Home?
+
+## POINTER 21
+
+This orphanage was built to shelter those 
+children who have no one to depend on.<PAGE>The two of them lost their family 
+in the war ten years ago.
+
+## POINTER 22
+<STR>(RIT)
+She's gotta mean the Great War...
+
+## POINTER 23
+
+Hey, who are they?
+
+## POINTER 24
+
+If they're our big sis' enemies, 
+I'll beat 'em up!
+
+## POINTER 25
+
+Here now, hush, 
+both of you.
+
+## POINTER 26
+<STR>(EST_P)
+How generous and kind of you. 
+It must not be an easy job...
+
+## POINTER 27
+
+Oh my, no. I could never manage all 
+of this alone. It is all made possible 
+by the donations I receive.<PAGE>Yeager is his name.
+He really does too much for us...
+
+## POINTER 28
+<STR>(RAV)
+Yeager?! But what'd 
+he want ta do a thing 
+like that for...?
+
+## POINTER 29
+
+I don't know his reasons. 
+But he has never asked 
+for anything in return.
+
+## POINTER 30
+
+Nanny! I'm hungry!
+
+## POINTER 31
+
+Oh yes, it's time, isn't it? 
+I'm sorry, I must be going...
+
+## POINTER 32
+<STR>(JUD)
+I wonder what it could mean. 
+I wouldn't think he would have 
+much interest in charity.
+
+## POINTER 33
+<STR>(RIT)
+Something's going on here. I 
+mean, those two are obviously 
+Yeager's personal guard.
+
+## POINTER 34
+<STR>(KAR)
+You don't think he raised 
+them as orphans just to make 
+them his underlings?!
+
+## POINTER 35
+<STR>(RAV)
+He just might try somethin' like 
+that. Huh? What is it, lass?
+
+## POINTER 36
+<STR>(EST_P)
+...Oh, I... When we were talking with 
+her just now, I truly felt that whoever 
+did this had good intentions...<PAGE>But can that person... 
+Can that really be 
+the Yeager we know?
+
+## POINTER 37
+<STR>(YUR)
+Your guess is as good as mine.
+
+## POINTER 38
+<STR>(EST_P)
+...

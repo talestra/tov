@@ -1,0 +1,18 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273778133]
+<STR>(EST_P)
+<VOICE>(VS10_001)Parece que esto es Aspio.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273778133]
+<STR>(KAR)
+<VOICE>(VS10_002)Qué lúgubre y húmedo.
+M-Me está dando escalofríos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:parsec;time:1271511783]
+<STR>(EST_P)
+<VOICE>(VS10_502)Es porque la ciudad está en una caverna.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273778133]
+<STR>(YUR)
+<VOICE>(VS10_004)Me pregunto si la falta de luz solar
+hace que la gente cometa actos sospechosos...
+como robar núcleos de blastia.

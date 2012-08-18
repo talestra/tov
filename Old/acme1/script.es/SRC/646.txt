@@ -1,0 +1,273 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+Gauche
+<VOICE>(VA042_001)¡Gran Vesperia!
+¡Los asesinos de Yeager!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+<STR>(YUR)
+<VOICE>(VA042_002)¿Qué hacéis aquí?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+<STR>(RAV)
+<VOICE>(VA042_003)Eh, esperad. No vale la pena. Que sepáis
+que la venganza está muy sobrevalorada.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+Droite
+<VOICE>(VA042_004)Pero estamos hartas de estar tan deprimidas.
+Tenemos que hacer algo.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+<STR>(RAV)
+<VOICE>(VA042_005)Si vais a guardarle rencor a arguien,
+más os vale no olvidaros d'Alexei.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+Gauche
+<VOICE>(VA042_006)Alexei está muerto.
+Vosotros estáis vivos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(YUR)
+<VOICE>(VA042_007)Si queréis pelear,
+por mí perfecto.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+<STR>(EST_P)
+<VOICE>(VA042_008)¡Espera, <STR>(YUR)!<PAGE><VOICE>(VA042_009)¿Por qué no luchasteis
+junto a Yeager? Solo os
+quedasteis mirando.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+Gauche
+<VOICE>(VA042_010)...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(RAV)
+<VOICE>(VA042_011)Porque eso fue lo
+que os ordenó, ¿verdá?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+Droite
+<VOICE>(VA042_012)Sí, exacto.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(YUR)
+<VOICE>(VA042_013)¿Y por qué seguís con esta
+pataleta? No tiene sentido.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936191]
+Gauche
+<VOICE>(VA042_014)¡Cállate! ¡¿Cómo lo
+ibas a entender?!
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+Droite
+<VOICE>(VA042_015)A Yeager no le quedaba otra
+que hacer eso por nosotras.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+<STR>(EST_P)
+<VOICE>(VA042_016)¿Qué quieres decir?
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+Droite
+<VOICE>(VA042_017)Alexei descubrió todo
+lo que Yeager hacía
+entre bastidores.<PAGE><VOICE>(VA042_018)Todo lo que hizo para ayudarnos...
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+Gauche
+<VOICE>(VA042_019)Ya basta, Droite.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+Droite
+<VOICE>(VA042_020)Lo siento...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+Gauche
+<VOICE>(VA042_021)Todo eso no importa.
+Vosotros lo matasteis.
+Y nunca os lo perdonaremos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+Droite
+<VOICE>(VA042_022)Lo lamento, pero os
+tocará luchar un rato.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(JUD)
+<VOICE>(VA042_023)Parece que no aceptarán
+una negativa.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+<STR>(EST_P)
+<VOICE>(VA042_024)P-Pero...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(YUR)
+<VOICE>(VA042_025)¡Que vienen!
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+Droite
+<VOICE>(VA042_026)¿Estás bien, Gauche?
+Caray, ¡menuda paliza!
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+Gauche
+<VOICE>(VA042_027)Os retaremos hasta que ganemos.
+Nos lo hemos prometido.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(RIT)
+<VOICE>(VA042_028)¿Cómo podéis
+serle tan fieles?
+¡Está muerto!
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287506348]
+Gauche
+<VOICE>(VA042_029)Le debemos la vida.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(RAV)
+<VOICE>(VA042_034)Cuando supisteis su secreto,
+lo acompañasteis pa devolverle er favor.
+Qué triste... Pobrecillas.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287508003]
+Gauche
+<VOICE>(VA042_035)¡No me toques!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(RAV)
+<VOICE>(VA042_036)Ups.
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287508003]
+Droite
+<VOICE>(VA042_037)¡Oye, eso es...!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+Gauche
+<VOICE>(VA042_038)¿Cómo es que
+tienes eso? N-No,
+eso es lo de menos.<PAGE><VOICE>(VA042_039)¡Por favor,
+dánoslo!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(RIT)
+<VOICE>(VA042_040)¡Eh, que ni siquiera es vuestro!
+
+## POINTER 33 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287508003]
+Gauche
+<VOICE>(VA042_041)Por favor. Eso perteneció a Casey,
+una persona muy querida por Yeager.
+Lo hemos buscado por todas partes.
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287508003]
+<STR>(RAV)
+<VOICE>(VA042_042)Casey...
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287508003]
+<STR>(KAR)
+<VOICE>(VA042_043)<STR>(RAV)...
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287508003]
+<STR>(RAV)
+<VOICE>(VA042_044)Una persona muy querida por Yeager, eh...
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(RAV)
+<VOICE>(VA042_045)Toma. Mis condolencias...
+
+## POINTER 38 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287508347]
+Gauche
+<VOICE>(VA042_046)...
+
+## POINTER 39 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287508003]
+Droite
+<VOICE>(VA042_047)Muchas gracias.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+Gauche
+<VOICE>(VA042_048)Esa arma debería ser compensación
+más que suficiente.
+
+## POINTER 41 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289832880]
+<STR>(RAV)
+<VOICE>(VA042_049)Anda, esto...
+¿no es el arco de Casey?
+¿Lo teníais vosotras?
+
+## POINTER 42 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287508003]
+Gauche
+<VOICE>(VA042_050)Ahora ya no os debemos nada.
+Pero aún tenemos una cuenta pendiente.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+Droite
+<VOICE>(VA042_051)Nos volveremos a ver cuando hayamos
+entrenado un poco más, ¿vale?
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551182]
+<STR>(RIT)
+<VOICE>(VA042_052)Pero ¿qué...?
+
+## POINTER 45 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287508003]
+<STR>(KAR)
+<VOICE>(VA042_053)Se han largado. ¿Te parece bien, <STR>(RAV)?
+¿No era algo importante?
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(RAV)
+<VOICE>(VA042_054)¿Eh? Oh, bueno, sí.
+Pero m'han dao argo genial
+a cambio, así que da igual.
+
+## POINTER 47 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287509877]
+<STR>(JUD)
+<VOICE>(VA042_055)Ooh, ¿es una historia de un amor perdido?
+¿O tal vez de celos?
+
+## POINTER 48 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289832880]
+<STR>(RAV)
+<VOICE>(VA042_056)Oye, <STR>(JUD), cariñín,
+está muy feo burlarse de los mayores.
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(EST_P)
+<VOICE>(VA042_057)Ya no sé
+qué pensar.<PAGE><VOICE>(VA042_058)Esas dos adoran a Yeager
+aun sabiendo lo malo que era.
+Y Yeager donaba a un orfanato...
+
+## POINTER 50 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287509877]
+<STR>(JUD)
+<VOICE>(VA042_059)¡Y todos esos niños se salvaron
+por la generosidad de un criminal!
+Ya no sé qué está bien o mal.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:memnoch;time:1298759773]
+<STR>(YUR)
+<VOICE>(VA042_060)Supongo que Yeager era más
+complejo de lo que pensábamos.
+
+## POINTER 52 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289832880]
+<STR>(RAV)
+<VOICE>(VA042_061)Sip, la gente siempre es más
+de lo que parece a simple vista.
+
+## POINTER 53 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287509984]
+<STR>(RIT)
+<VOICE>(VA042_062)¿Y tú qué? Al parecer
+las cosas entre la tal Casey
+y tú eran muy complicadas.
+
+## POINTER 54 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287509877]
+<STR>(RAV)
+<VOICE>(VA042_063)Sí, creo que m'he quitao
+un gran peso d'encima.<PAGE><VOICE>(VA042_064)Oh, a quién le importa el pasao
+d'un viejo. ¡Venga, vamos!
+
+## POINTER 55 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287510028]
+<STR>(RIT)
+<VOICE>(VA042_065)¡Oye, vuelve aquí!

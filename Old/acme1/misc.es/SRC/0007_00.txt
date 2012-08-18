@@ -1,0 +1,299 @@
+## POINTER 0 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+Nombre de prueba
+
+## POINTER 1 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109535]
+La Ciudad Coliseo, Nordopólica
+
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+Nombre de prueba
+
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+La fuente de calor, Yumanju
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1268088726]
+La fuente de calor, Yumanju
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1268088726]
+La fuente de calor, Yumanju
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1268088726]
+La fuente de calor, Yumanju
+
+## POINTER 7 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+El barco fantasma, Atherum
+
+## POINTER 8 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+El barco fantasma, Atherum
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+El barco fantasma, Atherum
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+El barco fantasma, Atherum
+
+## POINTER 11 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+El barco fantasma, Atherum
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+El barco fantasma, Atherum
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+El barco fantasma, Atherum
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+Esperanza y Gloria, Fiertia
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+Esperanza y Gloria, Fiertia
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+El ejército imperial, acorazado
+
+## POINTER 17 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257109465]
+Esperanza y Gloria, Fiertia
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256416193]
+Bosque de Keiv Moc
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256416193]
+Bosque de Keiv Moc
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256416193]
+Bosque de Keiv Moc
+
+## POINTER 21 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256416193]
+Bosque de Keiv Mocv
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256416193]
+Bosque de Keiv Moc
+
+## POINTER 23 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256416193]
+Bosque de Keiv Moc
+
+## POINTER 24 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256416193]
+Bosque de Keiv Moc
+
+## POINTER 25 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256416193]
+Bosque de Keiv Moc
+
+## POINTER 26 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256416193]
+Bosque de Keiv Moc
+
+## POINTER 27 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256416193]
+Bosque de Keiv Moc
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 29 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 30 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 31 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 32 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 33 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, distrito real
+
+## POINTER 35 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, distrito real
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, distrito real
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, distrito real
+
+## POINTER 38 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262312209]
+La capital imperial, Zaphias, calabozo
+
+## POINTER 39 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 40 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 41 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 42 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias, comedor
+
+## POINTER 43 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 44 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias, habitación de <STR>(FRE)
+
+## POINTER 45 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 46 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 47 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 48 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 49 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 50 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 51 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 52 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 53 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 54 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 55 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 56 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 57 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 58 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 59 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias, posada
+
+## POINTER 60 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110388]
+La capital imperial, castillo de Zaphias, posada, habitación de Yuri
+
+## POINTER 61 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias, mansión de Mordio
+
+## POINTER 62 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, distrito público
+
+## POINTER 63 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, distrito real
+
+## POINTER 64 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 65 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 66 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 67 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 68 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, distrito real
+
+## POINTER 69 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, distrito real
+
+## POINTER 70 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, distrito real
+
+## POINTER 71 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, Zaphias, distrito real
+
+## POINTER 72 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias, la Escalera de la Espada
+
+## POINTER 73 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 74 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 75 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias, habitación de la estatua
+
+## POINTER 76 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias, habitación de la estatua
+
+## POINTER 77 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 78 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 79 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110098]
+La capital imperial, castillo de Zaphias
+
+## POINTER 80 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262312209]
+La capital imperial, castillo de Zaphias, habitación de la estatua
+
+## POINTER 81 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262312209]
+La capital imperial, castillo de Zaphias, habitación de la estatua
+
+## POINTER 82 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110738]
+a capital imperial, castillo de Zaphias, sala de audiencias
+
+## POINTER 83 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110267]
+La capital imperial, castillo de Zaphias
+
+## POINTER 84 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110267]
+La capital imperial, castillo de Zaphias
+
+## POINTER 85 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110267]
+La caverna de Cados
+
+## POINTER 86 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110267]
+La caverna de Cados
+
+## POINTER 87 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110267]
+La caverna de Cados
+
+## POINTER 88 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110267]
+La caverna de Cados
+
+## POINTER 89 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110267]
+La caverna de Cados
+
+## POINTER 90 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262985033]
+La ciudad de las flores, Halure
+
+## POINTER 91 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262985033]
+La ciudad de las flores, Halure
+
+## POINTER 92 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262985033]
+La ciudad de las flores, Halure
+
+## POINTER 93 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262985033]
+La ciudad de las flores, Halure
+
+## POINTER 94 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262985033]
+La ciudad de las flores, Halure, posada
+
+## POINTER 95 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262985033]
+La ciudad de las flores, Halure, posada
+
+## POINTER 96 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262985033]
+La ciudad de las flores, Halure, residencia del alcalde
+
+## POINTER 97 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262985033]
+La ciudad de las flores, Halure
+
+## POINTER 98 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262985033]
+La ciudad de las flores, Halure
+
+## POINTER 99 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262985033]
+La ciudad de las flores, Halure

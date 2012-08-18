@@ -1,0 +1,143 @@
+## POINTER 0
+<STR>(FRE)
+<VOICE>(VS32_106)Why don't you have a seat?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS32_107)You said we needed to talk?
+
+## POINTER 2
+<STR>(FRE)
+<VOICE>(VS32_108)Tell me... Why did you kill Cumore? 
+You know it's not our place to pass 
+sentence on the crimes of others.<PAGE><VOICE>(VS32_109)He was to be punished in 
+accordance with the laws!
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS32_110)And just what laws do you think 
+would have punished him?!<PAGE><VOICE>(VS32_111)The same laws that 
+failed to punish Ragou? 
+Give me a break.
+
+## POINTER 4
+<STR>(FRE)
+<VOICE>(VS32_112)<STR>(YUR), you...
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS32_113)The laws have always been 
+the tools of whoever happens 
+to hold all the chips.
+
+## POINTER 6
+<STR>(FRE)
+<VOICE>(VS32_114)Just saying that doesn't make it right for 
+individuals to judge right from wrong, or for 
+you to operate your own private court of law!<PAGE><VOICE>(VS32_115)If the laws are at fault, then 
+fixing those laws comes first.<PAGE><VOICE>(VS32_116)It's for that very reason that I'm 
+still with the Imperial Knights!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS32_117)But you can't deny that lives 
+were saved because those 
+bastards were put down.<PAGE><VOICE>(VS32_118)You'd rather tell those people, 
+"Sorry you have to die today, I 
+promise we'll change things soon"?
+
+## POINTER 8
+<STR>(FRE)
+<VOICE>(VS32_119)That's not what I'm saying at all!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS32_120)They're out there, you know. 
+People so bad they'll just go 
+on hurting others.<PAGE><VOICE>(VS32_121)What can the average 
+person do but be victimized 
+by people like that?<PAGE><VOICE>(VS32_122)You know it was the same 
+way with our people in 
+the lower quarter.
+
+## POINTER 10
+<STR>(FRE)
+<VOICE>(VS32_123)Even so, <STR>(YUR), what you're 
+doing isn't right.<PAGE><VOICE>(VS32_124)Do you intend to rain your 
+justice down on all the 
+villains of the world?<PAGE><VOICE>(VS32_125)That's the behavior of 
+a common criminal.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS32_126)I recognize it for what it is, 
+and I've made my choices.<PAGE><VOICE>(VS32_127)Murder is a crime.
+
+## POINTER 12
+<STR>(FRE)
+<VOICE>(VS32_128)And even knowing that, you 
+intend to dirty your hands.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS32_129)Intend to? 
+I already have.
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS32_130)So this is the path you've chosen.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS32_131)Don't make me repeat myself.
+
+## POINTER 16
+<STR>(FRE)
+<VOICE>(VS32_132)I won't. But it seems you 
+dont yet understand the full 
+weight of your choices...
+
+## POINTER 17
+<STR>(FRE)
+<VOICE>(VS32_133)As a knight, I cannot 
+overlook your crimes.
+
+## POINTER 18
+Sodia
+<VOICE>(VS32_134)Captain, I've finally found you.
+
+## POINTER 19
+<STR>(FRE)
+<VOICE>(VS32_135)What is it?
+
+## POINTER 20
+Sodia
+<VOICE>(VS32_136)Our barricade of Nordopolica 
+has been completed.<PAGE><VOICE>(VS32_137)Also, it appears that the Hunting 
+Blades are on the move.<PAGE><VOICE>(VS32_138)Sir, we must go to Nordopolica quickly.
+
+## POINTER 21
+<STR>(FRE)
+<VOICE>(VS32_139)...
+
+## POINTER 22
+Sodia
+<VOICE>(VS32_140)Captain?
+
+## POINTER 23
+<STR>(FRE)
+<VOICE>(VS32_141)Understood.
+
+## POINTER 24
+Sodia
+<VOICE>(VS32_142)Sir.
+
+## POINTER 25
+<STR>(FRE)
+<VOICE>(VS32_143)<STR>(YUR)...?
+
+## POINTER 26
+<STR>(FRE)
+<VOICE>(VS32_144)I know you better than 
+anyone alive, <STR>(YUR).<PAGE><VOICE>(VS32_145)If you insist on walking down 
+the path of a criminal...

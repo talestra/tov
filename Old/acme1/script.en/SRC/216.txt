@@ -1,0 +1,234 @@
+## POINTER 0
+Don Whitehorse
+<VOICE>(VS20_001)So you've come 
+back, have ya?
+
+## POINTER 1
+<STR>(FRE)
+<VOICE>(VS20_002)...<STR>(YUR).
+
+## POINTER 2
+Don Whitehorse
+<VOICE>(VS20_003)What, you two
+know each other?
+
+## POINTER 3
+<STR>(FRE)
+<VOICE>(VS20_004)Yes, we're old friends...
+
+## POINTER 4
+Don Whitehorse
+<VOICE>(VS20_005)Ya don't say.
+
+## POINTER 5
+<STR>(FRE)
+<VOICE>(VS20_006)I see you know 
+<STR>(YUR) as well.
+
+## POINTER 6
+Don Whitehorse
+<VOICE>(VS20_007)We crossed paths during the 
+assault on the city. Now then, 
+what business did ya have?
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS20_008)Uh...
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS20_009)We came to ask you about 
+a man named Barbos of 
+the Blood Alliance.<PAGE><VOICE>(VS20_010)It looks like he's the one behind the 
+recent string of stolen blastia cores.
+
+## POINTER 9
+<STR>(FRE)
+<VOICE>(VS20_011)I see, so Barbos is tied up 
+in your problem as well.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS20_012)...You have a problem with him, too?
+
+## POINTER 11
+<STR>(FRE)
+<VOICE>(VS20_013)We have come to ask that the Union relinquish 
+all ties with the Blood Alliance.<PAGE><VOICE>(VS20_014)Other guilds have begun to follow Barbos' 
+example, abusing blastia in other areas 
+and disrupting the order of society.<PAGE><VOICE>(VS20_015)If we can count on your assistance, 
+I feel that together we should move 
+to put an end to the Blood Alliance.
+
+## POINTER 12
+Don Whitehorse
+<VOICE>(VS20_016)...Barbos. He's been testing the 
+limits of my patience lately.<PAGE><VOICE>(VS20_017)Looks like it's time to remind that 
+brute how a proper guild behaves.
+
+## POINTER 13
+<STR>(FRE)
+<VOICE>(VS20_018)A clash between the guilds and the 
+empire was avoided the other day, 
+largely due to your intervention.<PAGE><VOICE>(VS20_019)However, if Barbos is left unattended, 
+the relations between our two states 
+may yet again be torn apart.
+
+## POINTER 14
+Don Whitehorse
+<VOICE>(VS20_020)That's not gonna 
+be fun for anybody.
+
+## POINTER 15
+<STR>(FRE)
+<VOICE>(VS20_021)The time for stopping 
+Barbos is now.
+
+## POINTER 16
+Don Whitehorse
+<VOICE>(VS20_022)Since we'd be cooperatin' with ya, 
+I assume we'd be on equal standing 
+with the empire in this.
+
+## POINTER 17
+<STR>(FRE)
+<VOICE>(VS20_023)Yes, sir.
+
+## POINTER 18
+Don Whitehorse
+<VOICE>(VS20_024)Humph. If that's the case, a 
+united front with the empire 
+might not be such a bad idea.
+
+## POINTER 19
+<STR>(FRE)
+<VOICE>(VS20_025)Then...
+
+## POINTER 20
+Don Whitehorse
+<VOICE>(VS20_026)Yeah, we'll deal 
+with this together.
+
+## POINTER 21
+Don Whitehorse
+<VOICE>(VS20_027)Hey. Send a message 
+to Belius.
+
+## POINTER 22
+Don Whitehorse
+<VOICE>(VS20_028)Tell Belius that 
+Nordopolica's gonna help us.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS20_029)Man, this is serious...
+
+## POINTER 24
+<STR>(FRE)
+<VOICE>(VS20_030)I've brought a letter from
+his Highness Ioder.
+
+## POINTER 25
+Don Whitehorse
+<VOICE>(VS20_031)A secret note from the 
+imperial candidate, huh?
+
+## POINTER 26
+Don Whitehorse
+<VOICE>(VS20_032)Read it aloud.
+
+## POINTER 27
+<STR>(RAV)
+<VOICE>(VS20_033)"If Don Whitehorse is taken out of the 
+picture, we are willing to overlook the 
+Union's responsibility in the Barbos affair."
+
+## POINTER 28
+<STR>(FRE)
+<VOICE>(VS20_034)What...?!
+
+## POINTER 29
+Don Whitehorse
+<VOICE>(VS20_035)Hah hah hah! 
+Don't make me laugh!
+
+## POINTER 30
+<STR>(FRE)
+<VOICE>(VS20_036)...What...what is this?
+
+## POINTER 31
+Don Whitehorse
+<VOICE>(VS20_037)Looks like you and the 
+young master see things 
+a bit differently.
+
+## POINTER 32
+<STR>(FRE)
+<VOICE>(VS20_038)There must be some mistake! Master 
+Ioder would never say such a thing.
+
+## POINTER 33
+Don Whitehorse
+<VOICE>(VS20_039)Show our guest here to 
+his own private suite!
+
+## POINTER 34
+<STR>(FRE)
+<VOICE>(VS20_040)Don Whitehorse, please 
+listen to me! This is 
+some sort of trap!
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS20_041)<STR>(FRE)...!
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS20_042)Why would you...?
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VS20_043)Hang on.<PAGE><VOICE>(VS20_044)If we screw up, it'll 
+only make things worse 
+for <STR>(FRE).
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS20_045)...
+
+## POINTER 39
+Don Whitehorse
+<VOICE>(VS20_046)All-out war with the empire! 
+We'll take everything we've got 
+and march on the imperial capital!<PAGE><VOICE>(VS20_047)Try and make a fool out of 
+me?! I'll tear these little 
+messengers limb from limb!
+
+## POINTER 40
+<STR>(KAR)
+<VOICE>(VS20_048)Th-this is bad!
+
+## POINTER 41
+<STR>(RIT)
+<VOICE>(VS20_049)And it looks like he's forgotten 
+all about talking with us.
+
+## POINTER 42
+<STR>(YUR)
+<VOICE>(VS20_050)I don't think the Don's 
+in much of a talking 
+mood right now.
+
+## POINTER 43
+<STR>(EST_P)
+<VOICE>(VS20_051)I have to return to the empire and 
+find out what's really going on!
+
+## POINTER 44
+<STR>(YUR)
+<VOICE>(VS20_052)I said hang on. We should sit still 
+for now and see what happens.
+
+## POINTER 45
+<STR>(EST_P)
+<VOICE>(VS20_053)I...I suppose you're right.

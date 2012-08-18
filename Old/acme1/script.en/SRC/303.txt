@@ -1,0 +1,137 @@
+## POINTER 0
+
+<VOICE>(VS27_540)Lord Belius' private room 
+is ahead. I cannot allow 
+you to go any further.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS27_541)But we've come 
+to see Belius.
+
+## POINTER 2
+
+<VOICE>(VS27_542)What? 
+Who are you?
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS27_543)We're a guild--Brave Vesperia!
+
+## POINTER 4
+
+<VOICE>(VS27_544)...I haven't heard of you. 
+Do you have an appointment 
+with the Duce?
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS27_545)Huh? An appointment?
+
+## POINTER 6
+
+<VOICE>(VS27_546)Unfortunately, my lord 
+only meets with individuals 
+who have appointments.
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS27_547)How about a messenger 
+from Don Whitehorse?
+
+## POINTER 8
+
+<VOICE>(VS27_548)The Don... Oh, my apologies.<PAGE><VOICE>(VS27_549)My name is Natz. I am 
+the acting representative 
+for the Duce.<PAGE><VOICE>(VS27_550)I will gladly deliver 
+any message you 
+have for the Duce.
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS27_551)Sorry, but the Don's 
+orders were to give this 
+letter directly to Belius.
+
+## POINTER 10
+Natz
+<VOICE>(VS27_552)Is that so... Unfortunately, 
+Belius only receives guests 
+on the night of a new moon.<PAGE><VOICE>(VS27_553)If you could perhaps come 
+on the next new moon...
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS27_554)The next new moon...?
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS27_555)Why only on the 
+night of a new moon?
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS27_556)I guess that's just how 
+she does things. People 
+can be weird sometimes.
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VS27_557)The moon just turned 
+full, so the new moon 
+is still a while away.
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS27_558)So should we come back?
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS27_559)We don't really have a 
+choice if she's not here.
+
+## POINTER 17
+Natz
+<VOICE>(VS27_560)Sorry for the trouble. I'll let 
+her know that a messenger 
+from the Don stopped by.
+
+## POINTER 18
+<STR>(RAV)
+<VOICE>(VS27_561)Great. Thanks.
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS27_562)So, why don't we see 
+what we can find out 
+about the desert?
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS27_563)And about Phaeroh, too.
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS27_564)I'd like to get some 
+information about 
+the aer krene, myself.
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS27_565)We shouldn't have trouble 
+getting information about 
+all of that in a city this big.
+
+## POINTER 23
+<STR>(RAV)
+<VOICE>(VS27_566)You mind if old <STR>(RAV) goes ahead 
+to the inn? I should send off 
+a progress report to the Don.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS27_567)Sure.
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS27_568)All right, let's get going, too.

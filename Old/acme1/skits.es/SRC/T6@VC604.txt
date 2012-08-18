@@ -1,0 +1,19 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:evilluendas;time:1251680311]
+Esa dirección es peligrosa
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141730]
+(RIT)
+¿Adónde vas? Las ruinas de Shaikos
+están al este de Aspio.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267226267]
+(KAR)
+Vamos hacia Halure, ¿no?
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267226267]
+(EST_P)
+Pero los ojos-rojos pueden estar allí.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298141739]
+(YUR)
+Sí, quizá deberíamos evitar ir ahí, por ahora.

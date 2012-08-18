@@ -1,0 +1,50 @@
+## POINTER 0
+
+Welcome to Palestralle's 
+famous Thirty Man Melee!!<PAGE>This is Palestralle's 
+easiest level of 
+melee... However!<PAGE>All of the opponents you see will 
+be fierce, formidable foes!<PAGE>How many can today's challenger 
+manage to beat?!
+
+## POINTER 1
+<STR>(YUR)
+All right... Time to raise some hell.
+
+## POINTER 2
+<STR>(EST_P)
+I'll do my best!
+
+## POINTER 3
+<STR>(KAR)
+I, I can do this!
+
+## POINTER 4
+<STR>(RIT)
+I sure wish that guy would shut up...
+
+## POINTER 5
+<STR>(RAV)
+This level shouldn't 
+be too tough...yeah?
+
+## POINTER 6
+<STR>(JUD)
+Well, this should be a nice warm-up 
+for the later melees, at least.
+
+## POINTER 7
+<STR>(RAP)
+Woof woof!!
+
+## POINTER 8
+
+Here we go!! Keep your eyes peeled,
+ladies and gentlemen. You won't want
+to miss a second of this battle!<PAGE>Ready... 
+Fight!
+
+## POINTER 9
+
+Ohh!! And we're
+out of time!!<PAGE>So close...so very close!

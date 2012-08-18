@@ -1,0 +1,102 @@
+## POINTER 0
+Duke
+I have nothing left 
+to say to you.
+
+## POINTER 1
+<STR>(RIT)
+...
+
+## POINTER 2
+Duke
+...
+
+## POINTER 3
+<STR>(YUR)
+You're not going to follow him?
+
+## POINTER 4
+<STR>(RIT)
+What's the point? He's 
+not gonna talk to me.
+
+## POINTER 5
+<STR>(YUR)
+So this was a complete waste of time?
+
+## POINTER 6
+<STR>(RIT)
+Well, I wouldn't 
+go that far.
+
+## POINTER 7
+<STR>(YUR)
+Apatheia...?
+
+## POINTER 8
+<STR>(RIT)
+When the aer krene went berserk, 
+Regaey--I mean, Yeager--was 
+carrying this box.<PAGE>This box was what messed 
+up my magic...
+
+## POINTER 9
+<STR>(YUR)
+You think the apatheia is what's causing 
+the aer krene to go out of control?
+
+## POINTER 10
+<STR>(RIT)
+Judging from the evidence, it 
+could be a valid hypothesis.
+
+## POINTER 11
+<STR>(YUR)
+So when the blastia in Heliord was 
+going out of control...you think 
+there was apatheia nearby?<PAGE>And the aer krene 
+in Keiv Moc, 
+too...
+
+## POINTER 12
+<STR>(RIT)
+There may have been.<PAGE>Otherwise, maybe the apatheia's 
+been damaging the whole world's 
+aer krene little by little,<PAGE>and a large distortion just 
+happened to appear then.
+
+## POINTER 13
+<STR>(YUR)
+...I see.
+
+## POINTER 14
+<STR>(RIT)
+It's really nothing more than a 
+guess, but it could be right.
+
+## POINTER 15
+<STR>(YUR)
+You don't sound very sure of yourself.
+
+## POINTER 16
+<STR>(RIT)
+In science, you continually make hypotheses, 
+then test them, and you get closer and closer 
+to the truth. That's how it is.
+
+## POINTER 17
+<STR>(YUR)
+Hmph...
+
+## POINTER 18
+<STR>(RIT)
+...Well, okay. Maybe I can do 
+something with this after all.
+
+## POINTER 19
+<STR>(YUR)
+What are you going to do now?
+
+## POINTER 20
+<STR>(RIT)
+The next step after a hypothesis is testing it!

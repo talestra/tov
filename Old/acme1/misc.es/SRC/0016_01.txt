@@ -1,0 +1,95 @@
+## POINTER 97 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Plato casero tradicional. Es difícil conseguir
+que esté en su punto. Incrementa la agilidad.
+
+## POINTER 98 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Incrementa un poco la agilidad durante 20 segundos
+
+## POINTER 99 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1267703475]
+Sofrito de verduras
+
+## POINTER 100 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Plato nutritivo que se puede hacer con todo tipo
+de verduras. Incrementa bastante la agilidad.
+
+## POINTER 101 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1265497533]
+Incrementa bastante la agilidad durante 10 segundos.
+
+## POINTER 102 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Estofado de ternera
+
+## POINTER 103 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Sabroso plato hecho con trozos de ternera y verduras.
+Incrementa bastante la agilidad durante un buen rato.
+
+## POINTER 104 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Incrementa bastante la agilidad durante 20 segundos
+
+## POINTER 105 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Sopa de fideos
+
+## POINTER 106 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271600997]
+Fideos y verduras salteadas servidas en un ligero
+caldo de pollo. Incrementa mucho la agilidad.
+
+## POINTER 107 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1266169570]
+Incrementa mucho la agilidad durante 20 segundos
+
+## POINTER 108 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Sorbete
+
+## POINTER 109 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Postre helado hecho con zumo de frutas.
+Recupera ligeramente el TP.
+
+## POINTER 110 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Recupera un 10% de TP
+
+## POINTER 111 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Pudin
+
+## POINTER 112 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Unas cremosas natillas de caramelo.
+Recupera algo de TP.
+
+## POINTER 113 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Recupera un 20% de TP
+
+## POINTER 114 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Tarta
+
+## POINTER 115 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Un dulce homenaje con una enorme fresa roja. 
+¡Y no es mentira! Recupera una cantidad moderada de TP.
+
+## POINTER 116 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Recupera un 30% de TP
+
+## POINTER 117 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1261888061]
+Crepe
+
+## POINTER 118 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Tortita muy fina con nata fresca y frutas.
+Recupera una cantidad considerable de TP.
+
+## POINTER 119 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Recupera un 40% de TP
+
+## POINTER 120 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262288942]
+Helado con frutas
+
+## POINTER 121 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261878003]
+¡Helado con frutas y pudin! ¡Oh, sí!
+Recupera una enorme cantidad de TP.
+
+## POINTER 122 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Recupera un 50% de TP
+
+## POINTER 123 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Comida para perros
+
+## POINTER 124 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261877959]
+Esto... Parece que a los perros les encanta.
+
+## POINTER 125 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196655]
+¿...?

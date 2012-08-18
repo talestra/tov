@@ -1,0 +1,61 @@
+## POINTER 0
+<STR>(YUR)
+You're not thinking 
+of jumping, are you?
+
+## POINTER 1
+<STR>(RAV)
+Do I really look that depressed?
+
+## POINTER 2
+<STR>(YUR)
+You look like...you've been worried 
+about the blastia in your heart.
+
+## POINTER 3
+<STR>(RAV)
+Looks like I can't keep anything 
+from ya, kid...
+Sorry I tried.<PAGE>...Damn it. Why do I have to let somethin' like 
+this get me all torn up after so long...
+
+## POINTER 4
+<STR>(YUR)
+You want to keep on living, 
+don't you? It's only natural.
+
+## POINTER 5
+<STR>(RAV)
+...Oh yeah...<PAGE>I guess that would be only 
+natural, wouldn't it...
+
+## POINTER 6
+<STR>(YUR)
+Did you just now remember?<PAGE>You should go talk with <STR>(RIT) 
+as soon as possible, then.
+
+## POINTER 7
+<STR>(RAV)
+Yeah... I don't much fancy 
+bein' indebted to that girl... 
+Well, I'll think about it.
+
+## POINTER 8
+<STR>(YUR)
+Listen, <STR>(RAV). This is serious. 
+Don't you want to live out 
+your life good and proper?
+
+## POINTER 9
+<STR>(RAV)
+Hah hah.<PAGE>My life belongs ta Brave Vesperia. I 
+won't go dyin' an' leavin' ya all high 
+and dry. I promised the boy, too.<PAGE>Now, isn't it past yer bedtime, kid?
+
+## POINTER 10
+<STR>(YUR)
+Okay. I'll leave you be, old man.
+
+## POINTER 11
+<STR>(RAV)
+......

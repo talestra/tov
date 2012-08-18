@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523603]
+<STR>(KAR)
+<VOICE>(VS56_001)¡Mirad! ¡Se está colgando a la ciudad!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523603]
+<STR>(YUR)
+<VOICE>(VS56_002)Ese bicho negro... ¡Es el que vimos
+en las Arenas de Kogorh!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523603]
+<STR>(JUD)
+<VOICE>(VS56_003)Aquello era una visión de Phaeroh.
+Este es de verdad. Tened cuidado.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523603]
+<STR>(EST_P)
+<VOICE>(VS56_004)¡Parece estar devorando
+el aer del escudo!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576026]
+<STR>(RIT)
+<VOICE>(VS56_005)¿Acaso el aer
+atrae al adephagos?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523603]
+<STR>(RAV)
+<VOICE>(VS56_006)Er bicho ese parece tener mala uva.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523603]
+<STR>(YUR)
+<VOICE>(VS56_007)¡Vamos!

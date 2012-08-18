@@ -1,0 +1,29 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1274628330]
+<STR>(YUR)
+<VOICE>(VS23_040)¿Monstruos?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1274628330]
+<STR>(KAR)
+<VOICE>(VS23_041)¡<STR>(YUR)!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1274628330]
+<STR>(YUR)
+<VOICE>(VS23_042)¡<STR>(KAR)! ¿Tienes idea
+de qué es el bicho ese?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215138]
+<STR>(KAR)
+<VOICE>(VS23_043)No, nunca había
+visto nada parecido...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215138]
+<STR>(KAR)
+<VOICE>(VS23_044)¡Que viene!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215138]
+<STR>(YUR)
+<VOICE>(VS23_045)¡Vamos, <STR>(KAR)!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1274628330]
+<STR>(KAR)
+<VOICE>(VS23_046)¿Qué? ¡Oye, espera!

@@ -1,0 +1,204 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS41_069)Just what the hell 
+are you doing?!<PAGE><VOICE>(VS41_070)What happened to advancing 
+as a Knight and fixing the 
+empire from within?<PAGE><VOICE>(VS41_071)You've been nothing 
+more than a damn 
+puppet on Alexei's string.<PAGE><VOICE>(VS41_072)Don't you dare tell me that 
+the Don and Belius died 
+for nothing more than that!<PAGE><VOICE>(VS41_073)He was there working alongside 
+you this whole time, <STR>(FRE)! How 
+could you possibly not know?!
+
+## POINTER 1
+<STR>(FRE)
+<VOICE>(VS41_074)I'm sorry...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS41_075)Why, though? Did you 
+go along with it because 
+Ioder trusted Alexei?
+
+## POINTER 3
+<STR>(FRE)
+<VOICE>(VS41_076)His Highness is not to blame. I 
+had total confidence in Alexei. 
+The responsibility is mine.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS41_077)So your pursuit of the apatheia 
+at Nordopolica was on Alexei's 
+orders, I presume.
+
+## POINTER 5
+<STR>(FRE)
+<VOICE>(VS41_078)Yeah...
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS41_079)You'd better start talking. 
+Tell me what happened.<PAGE><VOICE>(VS41_080)There's no reason to 
+worry about exposing 
+the "Commandant" now.
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS41_081)The conversion of Heliord into 
+a military installation, the abuse 
+of the residents at Mantaic...<PAGE><VOICE>(VS41_082)All of Cumore's activities, 
+the forbidden development 
+of new blastia...<PAGE><VOICE>(VS41_083)All of these were carried 
+out under the Commandant's...
+under Alexei's orders.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS41_084)Well, you've grown up to be a model 
+knight. Unquestioned allegiance 
+to your country. That's nice.
+
+## POINTER 9
+<STR>(FRE)
+<VOICE>(VS41_085)The Commandant...Alexei 
+was not always this way!<PAGE><VOICE>(VS41_086)You, of all people, should remember. Those 
+who are just will lead lives of prosperity. 
+That was the ideal Alexei once held dear.<PAGE><VOICE>(VS41_087)That was why I...
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS41_088)But all it's done for you 
+is help you lose sight of 
+your original intentions.
+
+## POINTER 11
+<STR>(FRE)
+<VOICE>(VS41_089)...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS41_090)Not that I have much right to 
+preach to you, after I let them 
+run off with <STR>(EST_P) like that.
+
+## POINTER 13
+<STR>(FRE)
+<VOICE>(VS41_094)No. That never would have 
+happened if I hadn't been 
+blind to Alexei's true nature.<PAGE><VOICE>(VS41_095)I had grown far too used to simply 
+obeying orders like a good knight, 
+even when I doubted them.<PAGE><VOICE>(VS41_096)It was my lack of thought 
+that brought this about...!
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS41_097)Since when is moaning 
+and whining part of a 
+knight's job description?
+
+## POINTER 15
+Witcher
+<VOICE>(VS41_098)You impudent...!
+
+## POINTER 16
+<STR>(FRE)
+<VOICE>(VS41_099)No, it is as she says. I must 
+shoulder this responsibility.<PAGE><VOICE>(VS41_100)It is up to me to rescue Lady 
+<STR>(EST). Witcher, Sodia...<PAGE><VOICE>(VS41_101)Until then, help <STR>(YUR) and his 
+friends protect Master Ioder.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS41_102)Whoa, what?!
+
+## POINTER 18
+<STR>(FRE)
+<VOICE>(VS41_103)I was unable to prevent 
+the Royal Guard from 
+abducting Her Highness.<PAGE><VOICE>(VS41_104)I am duty-bound to correct 
+this wrong by saving her.
+
+## POINTER 19
+Sodia
+<VOICE>(VS41_105)Captain! What should 
+be done about His 
+Highness?!<PAGE><VOICE>(VS41_106)If anything were to happen 
+to him, the empire...
+
+## POINTER 20
+<STR>(FRE)
+<VOICE>(VS41_108)I know. That's why this brigade 
+is concentrating all our efforts 
+on ensuring his safety.
+
+## POINTER 21
+Sodia
+<VOICE>(VS41_109)But Captain...!
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS41_112)Damn it, <STR>(FRE)...<PAGE><VOICE>(VS41_113)I didn't yell at you to have 
+you turn around and start 
+telling me what to do.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS41_114)Brave Vesperia's going 
+to rescue <STR>(EST_P).<PAGE><VOICE>(VS41_115)You've got your own 
+things to worry about.
+Y'know, like...<PAGE><VOICE>(VS41_116)...taking care of the little 
+prince and all that.
+
+## POINTER 24
+<STR>(FRE)
+<VOICE>(VS41_117)<STR>(YUR)...!
+
+## POINTER 25
+Sodia
+<VOICE>(VS41_118)Captain, we don't have a 
+moment to spare. We should 
+return to Master Ioder.
+
+## POINTER 26
+<STR>(FRE)
+<VOICE>(VS41_119)...All right.
+
+## POINTER 27
+<STR>(FRE)
+<VOICE>(VS41_120)<STR>(YUR). Thanks.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS41_121)Same here.
+
+## POINTER 29
+<STR>(JUD)
+<VOICE>(VS41_125)Alexei... So he's the one 
+who's been advancing 
+Hermes blastia technology.
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS41_126)Yeah. It's taken a while, but 
+everything points back to him.<PAGE><VOICE>(VS41_127)All right! Next stop, 
+the Shrine of Baction.<PAGE><VOICE>(VS41_128)We're gonna get <STR>(EST_P) and 
+<STR>(RAV) out of there, and show 
+Alexei just who he's messing with!
+
+## POINTER 31
+<STR>(KAR)
+<VOICE>(VS41_129)Right!
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VS41_130)Yeah!
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS41_131)Agreed.
+
+## POINTER 34
+<STR>(RAP)
+<VOICE>(VS41_132)Woof!

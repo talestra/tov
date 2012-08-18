@@ -1,0 +1,303 @@
+## POINTER 769 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602668]
+Hypionia
+
+## POINTER 770 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602668]
+Hypionia
+
+## POINTER 771 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602668]
+Hypionia
+
+## POINTER 772 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602668]
+El continente donde se encuentra Baction
+
+## POINTER 776 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602668]
+Hypionia del sur
+
+## POINTER 777 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602668]
+Hypionia del sur
+
+## POINTER 778 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602668]
+Hypionia del sur
+
+## POINTER 779 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602668]
+Hypionia del sur
+
+## POINTER 780 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262476555]
+Una zona rebosante de terreno escabroso.
+
+## POINTER 784 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Hypionia occidental
+
+## POINTER 785 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Hypionia occidental
+
+## POINTER 786 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Hypionia occidental
+
+## POINTER 787 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Hypionia occidental
+
+## POINTER 788 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262476555]
+La zona donde se encuentra el bosque de Egothor.
+
+## POINTER 792 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Bahía de Beldeabou
+
+## POINTER 793 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Bahía de Beldeabou
+
+## POINTER 794 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Bahía de Beldeabou
+
+## POINTER 795 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Bahía de Beldeabou
+
+## POINTER 796 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262476555]
+Una bahía opuesta a la bahía de Sakkel
+
+## POINTER 800 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion oriental
+
+## POINTER 801 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion oriental
+
+## POINTER 802 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion oriental
+
+## POINTER 803 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion oriental
+
+## POINTER 804 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262481657]
+Una isla al este del conjunto de islas
+localizadas al sur de la costa de Hypionia.
+
+## POINTER 808 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion del sur
+
+## POINTER 809 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion del sur
+
+## POINTER 810 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion del sur
+
+## POINTER 811 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion del sur
+
+## POINTER 812 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262481657]
+Una isla en el interior de un conjunto de islas.
+Está rodeada por montañas y tiene una forma extraña.
+
+## POINTER 816 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion occidental
+
+## POINTER 817 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion occidental
+
+## POINTER 818 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion occidental
+
+## POINTER 819 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Isla Sulion occidental
+
+## POINTER 820 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262481657]
+Una isla al oeste del conjunto de islas
+localizadas al sur de la costa de Hypionia.
+
+## POINTER 824 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Weccea
+
+## POINTER 825 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Weccea
+
+## POINTER 826 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Weccea
+
+## POINTER 827 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602983]
+Weccea
+
+## POINTER 828 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Un continente inexplorado.
+
+## POINTER 832 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Noreste de Weccea
+
+## POINTER 833 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Noreste de Weccea
+
+## POINTER 834 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Noreste de Weccea
+
+## POINTER 835 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Noreste de Weccea
+
+## POINTER 836 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Una isla al noreste de Weccea.
+
+## POINTER 840 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Sureste de Weccea
+
+## POINTER 841 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Sureste de Weccea
+
+## POINTER 842 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Sureste de Weccea
+
+## POINTER 843 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Sureste de Weccea
+
+## POINTER 844 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Una isla al sureste de Weccea.
+
+## POINTER 848 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Suroeste de Weccea
+
+## POINTER 849 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Suroeste de Weccea
+
+## POINTER 850 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Suroeste de Weccea
+
+## POINTER 851 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Suroeste de Weccea
+
+## POINTER 852 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603160]
+Una isla al suroeste de Weccea.
+
+## POINTER 856 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603233]
+Islas Sulzanni del norte
+
+## POINTER 857 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603233]
+Islas Sulzanni del norte
+
+## POINTER 858 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603233]
+Islas Sulzanni del norte
+
+## POINTER 859 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603233]
+Islas Sulzanni del norte
+
+## POINTER 860 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603233]
+Una cadena de islas al oeste de Yurzorea.
+
+## POINTER 864 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603233]
+Cadena de islas Sulzanni
+
+## POINTER 865 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603233]
+Cadena de islas Sulzanni
+
+## POINTER 866 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603233]
+Cadena de islas Sulzanni
+
+## POINTER 867 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603233]
+Cadena de islas Sulzanni
+
+## POINTER 868 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603233]
+Una cadena de islas al oeste de Yurzorea.
+
+## POINTER 872 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Islas Sulzanni del sur
+
+## POINTER 873 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Islas Sulzanni del sur
+
+## POINTER 874 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Islas Sulzanni del sur
+
+## POINTER 875 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Islas Sulzanni del sur
+
+## POINTER 876 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Una cadena de islas al oeste de Yurzorea.
+
+## POINTER 880 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Norte de Yurzorea
+
+## POINTER 881 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Norte de Yurzorea
+
+## POINTER 882 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Norte de Yurzorea
+
+## POINTER 883 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Norte de Yurzorea
+
+## POINTER 884 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262481657]
+Una zona boscosa al norte de Yurzorea.
+Sus árboles tienen unas formas extrañas.
+
+## POINTER 888 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Noreste de Yurzorea
+
+## POINTER 889 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Noreste de Yurzorea
+
+## POINTER 890 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Noreste de Yurzorea
+
+## POINTER 891 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Noreste de Yurzorea
+
+## POINTER 892 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Una meseta rodeada por montañas.
+
+## POINTER 896 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Montañas Truffdae
+
+## POINTER 897 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Montañas Truffdae
+
+## POINTER 898 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Montañas Truffdae
+
+## POINTER 899 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Montañas Truffdae
+
+## POINTER 900 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Una cordillera en el centro de Yurzorea.
+
+## POINTER 904 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Yurzorea del sur
+
+## POINTER 905 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Yurzorea del sur
+
+## POINTER 906 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Yurzorea del sur
+
+## POINTER 907 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603391]
+Yurzorea del sur
+
+## POINTER 908 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262481657]
+Un terreno rebosante de praderas, bosques, lagos y senderos.
+
+## POINTER 912 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603438]
+Yurzorea oriental
+
+## POINTER 913 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603536]
+Yurzorea oriental
+
+## POINTER 914 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603536]
+Yurzorea oriental
+
+## POINTER 915 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603536]
+Yurzorea oriental
+
+## POINTER 916 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603536]
+Praderas en la parte oriental del continente
+
+## POINTER 920 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603536]
+Lago Niffel
+
+## POINTER 921 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603536]
+Lago Niffel
+
+## POINTER 922 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603536]
+Lago Niffel
+
+## POINTER 923 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603536]
+Lago Niffel
+
+## POINTER 924 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603547]
+El lago más grande del mundo.
+
+## POINTER 928 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603536]
+Islas del norte, Yurzorea

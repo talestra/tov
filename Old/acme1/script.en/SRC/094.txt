@@ -1,0 +1,60 @@
+## POINTER 0
+<STR>(EST)
+<VOICE>(VS03_160)This is my room.<PAGE><VOICE>(VS03_161)I'll go get changed, just 
+give me a minute.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS03_162)Got it. Try to be quick about it.
+
+## POINTER 2
+<STR>(EST)
+<VOICE>(VS03_163)Just in case.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS03_164)...It's not like I 
+was going to peek.
+
+## POINTER 4
+<STR>(EST)
+<VOICE>(VS03_165)<STR>(FRE) did tell me 
+to be careful if 
+I ever met you.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS03_166)Thanks, <STR>(FRE).
+
+## POINTER 6
+<STR>(EST)
+<VOICE>(VS03_167)There, all finished.
+
+## POINTER 7
+<STR>(EST)
+<VOICE>(VS03_168)What...? Do...do I look strange?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS03_169)...It's nothing, I was just thinking 
+this doesn't suit you either.
+
+## POINTER 9
+<STR>(EST)
+<VOICE>(VS03_170)Really?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS03_171)What's this?
+
+## POINTER 11
+<STR>(EST)
+<VOICE>(VS03_172)A handshake. It means, "nice to meet you."
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS03_173)All right. Let's get going.
+
+## POINTER 13
+<STR>(EST)
+<VOICE>(VS03_174)Thanks!

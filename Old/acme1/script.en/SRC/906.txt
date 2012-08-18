@@ -1,0 +1,111 @@
+## POINTER 0
+<STR>(RIT)
+How about them apples?!
+
+## POINTER 1
+
+What? I lost? 
+This cannot 
+be...!<PAGE>It seems you're no normal player. 
+I've been beaten. I admit defeat.
+
+## POINTER 2
+<STR>(YUR)
+Wow, not bad, <STR>(RIT)! It looks like 
+you're not all talk, after all.
+
+## POINTER 3
+<STR>(RIT)
+Heh. You should show 
+some respect!
+
+## POINTER 4
+<STR>(YUR)
+Too bad you didn't do that well 
+the first time you tried.
+
+## POINTER 5
+<STR>(RIT)
+Sh-shut up, <STR>(YUR)!
+
+## POINTER 6
+
+No, winning against me in two 
+tries is still quite an impressive 
+feat for a young girl.
+
+## POINTER 7
+<STR>(RIT)
+See?
+
+## POINTER 8
+<STR>(RIT)
+H-how about that?!
+
+## POINTER 9
+
+Ho ho! I lost. You're 
+pretty good!
+
+## POINTER 10
+<STR>(YUR)
+You know what they say! 
+Third time's a charm!
+
+## POINTER 11
+<STR>(RIT)
+Sh-shut up, <STR>(YUR)!
+
+## POINTER 12
+<STR>(RIT)
+......
+...Finally.
+
+## POINTER 13
+
+Hmpf, yes... I've lost.
+
+## POINTER 14
+<STR>(YUR)
+I guess even someone with no 
+skill can win eventually.
+
+## POINTER 15
+<STR>(RIT)
+Sh-shut up, <STR>(YUR)!
+
+## POINTER 16
+
+Now, for your prize, 
+a delicious kiss from 
+yours truly...
+
+## POINTER 17
+
+...Haha, fooled you! No, 
+I'm going to give you the 
+title of New Master!
+
+## POINTER 18
+
+As news of my defeat travels, 
+new challengers will appear, 
+hoping to steal your glory!<PAGE>Stay strong and don't lose, 
+<STR>(RIT)! That is, the New 
+Stone-Taking Master <STR>(RIT)!<PAGE>To be continued next 
+time, in "A New 
+Assassin Lurks!"
+
+## POINTER 19
+<STR>(YUR)
+To be continued?
+
+## POINTER 20
+<STR>(RIT)
+...That's not likely.
+
+## POINTER 21
+
+Ho ho! Ho ho!<PAGE>Well, if you ever feel like 
+it, you're welcome to 
+join me in my hobbies.

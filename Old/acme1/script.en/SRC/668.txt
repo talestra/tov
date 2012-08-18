@@ -1,0 +1,140 @@
+## POINTER 0
+Ted
+Oh, <STR>(YUR)! Fancy 
+seeing you here!
+
+## POINTER 1
+<STR>(YUR)
+I could say the same for you. I wouldn't 
+have ever expected to see you 
+together with a noblewoman.
+
+## POINTER 2
+Ted
+This is Miss Lune! She comes 
+and reads books to the kids 
+every now and then.
+
+## POINTER 3
+<STR>(YUR)
+Ah, so you're Lune.
+
+## POINTER 4
+Lune
+How did you know my name?
+
+## POINTER 5
+<STR>(YUR)
+Shel told me about you.
+
+## POINTER 6
+Lune
+Oh, I see. The children have 
+told me quite a few things 
+about you, too, <STR>(YUR).
+
+## POINTER 7
+<STR>(RAV)
+Looks like you're the talk of the capital!
+
+## POINTER 8
+Lune
+What can I do for you?
+
+## POINTER 9
+<STR>(YUR)
+I was wondering if you could tell me how I 
+might be able to find your boyfriend, Clay.
+
+## POINTER 10
+Lune
+You're looking for Clay? 
+Shel asked you to 
+do this, didn't he?
+
+## POINTER 11
+<STR>(EST_P)
+Yes. We'll find him 
+for you, I promise! 
+Just be patient!
+
+## POINTER 12
+Lune
+...Thank you. But you 
+needn't try too hard.<PAGE>I'd be glad if Clay 
+came back, but I'm happy 
+enough as it is.
+
+## POINTER 13
+<STR>(EST_P)
+Are you sure?
+
+## POINTER 14
+Lune
+Yes. Now that I know how nice 
+it feels to have someone who's 
+always there for me...
+
+## POINTER 15
+<STR>(YUR)
+...I see.
+
+## POINTER 16
+Lune
+But I'm very thankful 
+for your kindness!<PAGE>Ah yes, <STR>(YUR), you're a 
+swordsman, correct? Perhaps 
+you could use this.
+
+## POINTER 17
+Lune
+This book was my father's. 
+He was a famous swordsman 
+with the Imperial Knights.<PAGE>He had many disciples, but none 
+of them were able to master the 
+technique...what do you think?
+
+## POINTER 18
+<STR>(RAV)
+Can ya do it?
+
+## POINTER 19
+<STR>(YUR)
+Maybe...like this?!
+
+## POINTER 20
+Ted
+That's our <STR>(YUR)!
+
+## POINTER 21
+<STR>(RAV)
+Wow, got it on your first try!
+
+## POINTER 22
+Lune
+That's amazing. You truly 
+have a rare gift with 
+the sword, <STR>(YUR).
+
+## POINTER 23
+<STR>(YUR)
+Nah, it's nothing.
+
+## POINTER 24
+Lune
+No, it's very impressive for 
+you to have succeeded where 
+all of his disciples failed.<PAGE>As a show of my gratitude for your 
+kindness, you may have this book. 
+I hope that it'll be useful to you.
+
+## POINTER 25
+<STR>(EST_P)
+You really think it's okay 
+if we don't look for Clay?
+
+## POINTER 26
+<STR>(YUR)
+I don't know...Shel seemed pretty 
+worried about him. Let's search 
+for him a little more.

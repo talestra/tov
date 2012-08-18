@@ -1,0 +1,83 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(KAR)
+<VOICE>(VA022_005)¿Qué es esto?...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(RIT)
+<VOICE>(VA022_006)Es como si hubiese
+un agujero en el cielo...
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(JUD)
+<VOICE>(VA022_007)Oh, eso. Es una
+fisura ilusoria.
+La hizo Phaeroh.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(YUR)
+<VOICE>(VA022_008)¿Y qué narices es una fisura ilusoria?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(JUD)
+<VOICE>(VA022_009)Yormgen, la ciudad en la cual
+vimos a Duke, era una ilusión
+creada por Phaeroh.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(KAR)
+<VOICE>(VA022_010)Lo único que quedaba
+cuando fuimos por segunda
+vez eran ruinas.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625243]
+<STR>(YUR)
+<VOICE>(VA022_011)Tiene sentido si lo que vimos
+en Yormgen era de la misma época
+que el barco fantasma.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(RAV)
+<VOICE>(VA022_012)Excepto Duke, claro.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(JUD)
+<VOICE>(VA022_013)Sí, seguramente eso fue lo que pasó.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(RIT)
+<VOICE>(VA022_014)¿Y dices que Phaeroh creó esto?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(JUD)
+<VOICE>(VA022_015)Sí.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(YUR)
+<VOICE>(VA022_016)Parece que... Phaeroh
+no anda por aquí.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(JUD)
+<VOICE>(VA022_017)Tampoco responde
+a mis llamadas.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(KAR)
+<VOICE>(VA022_018)Eh... ¿Qué
+está pasando?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(JUD)
+<VOICE>(VA022_019)¡No!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625243]
+<STR>(KAR)
+<VOICE>(VA022_020)¡Aaaaah!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(RIT)
+<VOICE>(VA022_021)¡Será lerdo el niño!
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284473842]
+<STR>(YUR)
+<VOICE>(VA022_022)¡Vamos!

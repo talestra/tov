@@ -1,0 +1,154 @@
+## POINTER 0 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285488917]
+
+¡Alto! ¡Esta zona se
+halla bajo el control de
+los Caballeros Imperiales!
+
+## POINTER 1 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(RAV)
+La Guardia Real... Este es
+er cuerpo privao de Caballeros
+de élite der Comandante.
+
+## POINTER 2 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(YUR)
+¿Qué narices hacen las fuerzas
+del Comandante en un bosque así
+con un blastia hoplón?
+
+## POINTER 3 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285488917]
+
+No tengo por qué contestar a tus preguntas.
+La actividad civil en esta zona
+está restringida por ley.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495828]
+<STR>(YUR)
+Mmmm, vale, lo que tú digas, pero...
+¿qué haces apuntando esa arma
+contra nosotros?
+
+## POINTER 5 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1285488917]
+
+¡Venid aquí!
+
+## POINTER 6 [t:1;r:3;ru:googol,squallido,memnoch;user:Lia;time:1283342769]
+<STR>(YUR)
+La han liado parda
+en un santiamén.<PAGE>Empezamos bien.
+
+## POINTER 7 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(EST_P)
+Así que el grupo misterioso
+eran los Caballeros Imperiales...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527507]
+<STR>(KAR)
+Pero ¿por qué
+nos han atacado?
+
+## POINTER 9 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(JUD)
+Puede que estén haciendo algo
+que no quieren que sepa nadie.
+
+## POINTER 10 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(KAR)
+¿Quieres decir... con ese blastia?
+
+## POINTER 11 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(YUR)
+Puede, sí.
+
+## POINTER 12 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(EST_P)
+¡Cuidado!
+
+## POINTER 13 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(RIT)
+¡<STR>(EST_P)!
+
+## POINTER 14 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(KAR)
+¿Qué acabas de hacer?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495828]
+<STR>(RIT)
+¡Lo mismo que hizo en Heliord!<PAGE>¡El poder de <STR>(EST_P) ha absorbido
+el aer y lo ha hecho desaparecer!
+
+## POINTER 16 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(RIT)
+Tienes que dejar de hacer tantas locuras...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495828]
+<STR>(EST_P)
+¡Lo... lo siento! Lo primero que he pensado
+es que todos estabais en peligro, y cuando
+he querido darme cuenta...
+
+## POINTER 18 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(JUD)
+Su poder empieza a responder
+a sus emociones de manera inconsciente...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495828]
+<STR>(RIT)
+El último ataque ha provenido de ese blastia de allí.
+Estaba apuntando directamente hacia nosotros.
+
+## POINTER 20 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(JUD)
+Lo que quiere decir que <STR>(EST_P)
+usará su poder cada vez
+que nos disparen.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495828]
+<STR>(EST_P)
+Pero, entonces...
+¿qué hago?
+
+## POINTER 22 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(YUR)
+Oye, oye. Nos has salvado, ¿no?
+
+## POINTER 23 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(KAR)
+¡Sí! ¡Si llega a darnos
+de lleno, no lo contamos!<PAGE>¡Lo que debería mosquearnos es que nos hayan
+disparado, no que <STR>(EST_P) nos haya protegido!
+
+## POINTER 24 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(YUR)
+Hemos jurado resolver el problema
+de <STR>(EST_P) junto con los
+del mundo.<PAGE>
+Todo lo que hacemos es para alcanzar
+esa meta. No deberíamos dejar que
+los detalles nos piquen tanto.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298495828]
+<STR>(RAV)
+Pero puede que Phaeroh se nus mosquee
+si seguimos haciendo tó esto.<PAGE>¡Da igual si es por Phaeroh o por un blastia,
+no quiero acabar tó asao!
+
+## POINTER 26 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(YUR)
+Vamos, si es sencillo. Tan solo
+tenemos que hacer algo
+con el blastia ese, ¿no?
+
+## POINTER 27 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(JUD)
+Así es.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1285764573]
+<STR>(RIT)
+¡Vamos a darles la del pulpo
+a los que lo controlan!
+
+## POINTER 29 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1283298194]
+<STR>(YUR)
+Vale, vamos allá.
+Procurad que no nos vean.

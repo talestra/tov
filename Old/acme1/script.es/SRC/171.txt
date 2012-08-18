@@ -1,0 +1,41 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238423]
+<STR>(RIT)
+¡Argh! ¡No puedo creerlo!
+No se puede controlar desde aquí abajo.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272813902]
+<STR>(EST_P)
+¡Ugh!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272813902]
+<STR>(KAR)
+Algo huele que apesta...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238423]
+<STR>(YUR)
+Es sangre... ¿mezclada con algo más?
+Es como si algo se estuviera pudriendo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238423]
+<STR>(YUR)
+Me pregunto si a este magistrado
+le da también por criar monstruos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194415]
+<STR>(RIT)
+Es posible. Tenía al rhybgaro, después de todo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194415]
+
+Pa... pá, ma... 
+¡Socorro!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272813902]
+<STR>(KAR)
+¡Agh! ¿Qué ha sido eso?
+¡¿Qué clase de sitio es este?!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238423]
+<STR>(EST_P)
+¡Parece que hay alguien ahí!
+¡Vamos!

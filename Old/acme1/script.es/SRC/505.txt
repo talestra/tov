@@ -1,0 +1,104 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+Harry
+<VOICE>(VS54_001)¡Maldita sea! ¡¿Por qué tuve que hacerlo?!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(YUR)
+<VOICE>(VS54_002)Ese era... Harry,
+el nieto del Don, 
+¿verdad?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(KAR)
+<VOICE>(VS54_003)¡¡Aaaaaah!!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(KAR)
+<VOICE>(VS54_004)¡¡<STR>(YUR)!!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(KAR)
+<VOICE>(VS54_005)¡Eres lo peor!<PAGE><VOICE>(VS54_006)Deberías habernos dicho que estabas vivo...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(YUR)
+<VOICE>(VS54_007)Perdón por haberte preocupado.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(YUR)
+<VOICE>(VS54_008)¡Pero estoy de vuelta!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(RAV)
+<VOICE>(VS54_009)No es duro de pelar ni ná.
+Je, je. ¡Ese es mi chavalote!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(YUR)
+<VOICE>(VS54_010)Acabamos de ver a Harry.
+¿Le ha pasado algo?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(RAV)
+<VOICE>(VS54_011)Ah, puede que se haya
+armao argo de follón.<PAGE><VOICE>(VS54_012)Ahora mismo la Unión es
+como un barco sin capitán.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(JUD)
+<VOICE>(VS54_013)Así que la gente no se junta a no ser
+que haya algún núcleo de alguna clase.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(RIT)
+<VOICE>(VS54_014)¡Un núcleo!...
+¡Eso es!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571428]
+<STR>(KAR)
+<VOICE>(VS54_015)¿De qué «eso» hablas?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(RIT)
+<VOICE>(VS54_016)¡Que ya lo tengo! Una apátheia.
+Puede funcionar si uso una apátheia.<PAGE><VOICE>(VS54_017)Así, aunque el coeficiente de
+estabilidad del aer cambie
+constantemente, si uso una entonces...
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(YUR)
+<VOICE>(VS54_018)Quieta parada. Ahórrate
+la explicación. No la íbamos
+a entender de todas formas.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571428]
+<STR>(RIT)
+<VOICE>(VS54_019)Oh, vale.<PAGE><VOICE>(VS54_020)La apátheia que le dimos al Don
+todavía debe estar por aquí, ¿verdad?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571428]
+<STR>(JUD)
+<VOICE>(VS54_021)Era la apátheia de Belius...
+La cielo cian...
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(EST_P)
+<VOICE>(VS54_022)<STR>(RIT) ha descubierto
+cómo controlar el aer.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286219489]
+<STR>(KAR)
+<VOICE>(VS54_023)¡¿En serio?! ¡Moooola!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571428]
+<STR>(YUR)
+<VOICE>(VS54_024)¿Sabéis qué pasó con la
+cielo cian tras la muerte
+del Don?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571428]
+<STR>(RAV)
+<VOICE>(VS54_025)Nop. Pero Harry
+igual sí...<PAGE><VOICE>(VS54_026)Qué oportuno, oye. Tenía que
+llevarlo de vuerta de tós modos.<PAGE><VOICE>(VS54_027)Tirad pa la sede de la Unión.
+Volvemos en nada.

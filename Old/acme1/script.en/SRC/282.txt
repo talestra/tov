@@ -1,0 +1,96 @@
+## POINTER 0
+<STR>(JUD)
+Oh? Are you going to 
+look for that Cumore 
+guy, by any chance?
+
+## POINTER 1
+<STR>(YUR)
+Nah, just going 
+on a walk. Where 
+were you?
+
+## POINTER 2
+<STR>(JUD)
+Just out for a walk, like you.
+
+## POINTER 3
+<STR>(YUR)
+What you said to <STR>(EST_P) 
+earlier hasn't been gnawing 
+at you, has it?
+
+## POINTER 4
+<STR>(JUD)
+What I said earlier?
+
+## POINTER 5
+<STR>(YUR)
+Didn't you say some pretty 
+harsh things to <STR>(EST_P)...?
+
+## POINTER 6
+<STR>(JUD)
+Oh, right. Sorry to beat you 
+to the punch like that...
+
+## POINTER 7
+<STR>(YUR)
+What? You didn't beat me to 
+the punch on anything...
+
+## POINTER 8
+<STR>(JUD)
+You were going to tell 
+her the same thing that 
+I did, weren't you?
+
+## POINTER 9
+<STR>(YUR)
+What, you figured it out?<PAGE>You don't have to apologize 
+for something like that.
+
+## POINTER 10
+<STR>(JUD)
+All right...
+
+## POINTER 11
+<STR>(YUR)
+So you weren't going off to look for 
+Cumore after feeling bad about hurting 
+<STR>(EST_P) with what you said?
+
+## POINTER 12
+<STR>(JUD)
+No, I wasn't.
+
+## POINTER 13
+<STR>(YUR)
+Hmph...
+
+## POINTER 14
+<STR>(JUD)
+You don't believe me?
+
+## POINTER 15
+<STR>(YUR)
+You care for other people's feelings 
+a lot more than you let on, I think.
+
+## POINTER 16
+<STR>(JUD)
+No, not at all!
+
+## POINTER 17
+<STR>(YUR)
+Well, whatever.
+
+## POINTER 18
+<STR>(JUD)
+What about you? Aren't you 
+going out to look for him?
+
+## POINTER 19
+<STR>(YUR)
+I told you already. I'm 
+just going for a walk.

@@ -1,0 +1,102 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS47_001)Brrr...<PAGE><VOICE>(VS47_002)B-b-brrr... It's c-cold...
+S-so...very...c-cold.
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS47_003)Okay, old man, we get it already.
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS47_004)The aged have lower body temperatures, 
+ya know. Ahh, what I wouldn't give for 
+the heat of that desert.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS47_005)You're gonna slip and fall 
+if you don't shut up... <PAGE><VOICE>(VS47_006)Oops, too late.
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VS47_007)Watch it there. We 
+old folks are fragile.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS47_008)...S-sorry.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS47_009)Man, this is really some place. 
+Sort of a cross between 
+mysterious and just plain creepy.<PAGE><VOICE>(VS47_010)There are swords 
+coming up out of the ice.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS47_011)Yeah, they seem to be all over. 
+Just what kind of place is this?!
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS47_012)I thought Zopheir got its 
+name from the sharp cold, 
+but I guess I was wrong.
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS47_013)I don't think you were too 
+far off with "cold as a void". 
+*Shiver*
+
+## POINTER 10
+<STR>(RAP)
+<VOICE>(VS47_014)Grrrr... Woof! WOOF! WOOF!
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS47_015)What...what's wrong 
+with him? Aaah!!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS47_016)!!
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VS47_017)Whoa!
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS47_018)Wh-what was that?!
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS47_019)It's big...<PAGE><VOICE>(VS47_020)...I-is that an Entelexeia?!
+
+## POINTER 16
+<STR>(JUD)
+<VOICE>(VS47_021)...No. I don't sense 
+intelligence in it.
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS47_022)So it's a monster, right?! 
+We'd be in trouble if 
+that thing attacked us.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS47_023)It shouldn't bother us 
+if we leave it alone. 
+Forget about it.<PAGE><VOICE>(VS47_024)Let's go.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS47_025)<STR>(KAR)!
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS47_026)Huh, oh, right!

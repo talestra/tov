@@ -1,0 +1,58 @@
+## POINTER 0
+<STR>(EST_P)
+Ah, <STR>(YUR)! Even if you're an 
+employee, I can't let you 
+into the women's baths!
+
+## POINTER 1
+<STR>(YUR)
+We're more part-timers 
+than employees...<PAGE>But anyway, I was just 
+coming to see if you've 
+been working hard.
+
+## POINTER 2
+<STR>(EST_P)
+Yep, I'm hard 
+at work! Look!
+
+## POINTER 3
+<STR>(YUR)
+Oh wow... What's that all 
+about? Are you playing 
+dress-up or something?
+
+## POINTER 4
+<STR>(EST_P)
+Urgh! No! I'm an 
+esthetician! An 
+esthetician!
+
+## POINTER 5
+<STR>(YUR)
+An esthewazza? <STR>(EST_P) 
+the esthewhosit...is this 
+some kind of joke?
+
+## POINTER 6
+<STR>(EST_P)
+I'm a masseuse! I give the women 
+massages to help them look and 
+feel beautiful!<PAGE>It's hard work, but it's fun! I also get
+to talk with all sorts of people while
+I'm doing it, so it never gets boring.
+
+## POINTER 7
+<STR>(YUR)
+Hmmm, well, I'm glad you're 
+enjoying yourself. Keep 
+up the good work.
+
+## POINTER 8
+<STR>(EST_P)
+Of course! Don't you 
+go slacking off either, <STR>(YUR)!
+
+## POINTER 9
+<STR>(YUR)
+Yeah, yeah.

@@ -1,0 +1,154 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+
+Bienvenidos, viajeros.<PAGE>
+¡Anda! Si ustedes son los
+que vinieron a sintetizar
+un vestido aquella vez, ¿no?<PAGE>Aún lo tengo.
+¿Lo quieren?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1284905347]
+<STR>(EST_P)
+¿De verdad?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+
+Tome.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286461573]
+<STR>(RAV)
+*Silbido*
+¡Estás cañón, nena!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289237819]
+<STR>(EST_P)
+¿E-Estoy... c-cañón?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860248]
+
+*Silbido*
+¡Está cañón, nena!<PAGE>Si me traen pelaje de cheagle, un fragmento
+de espíritu, dos ramitas de árbol sagrado
+y dos garras de cocatriz, podré empezar.<PAGE>¿Qué le parece,
+jovencita?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(KAR)
+N-No, es igual.
+No lo necesitamos...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(YUR)
+Ya que estamos aquí,
+nos lo llevamos.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1284905347]
+<STR>(JUD)
+¿Quién se lo pondrá?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1284905347]
+<STR>(RIT)
+¿Por qué no te lo pones tú?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1284905347]
+<STR>(YUR)
+Que <STR>(KAR) se lo ponga.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+
+Señoritas, ¿estarían interesadas
+en un vestido capaz de cautivar
+el corazón de cualquier hombre?
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1284905347]
+<STR>(JUD)
+Vaya, eso suena
+muy interesante.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(RAV)
+Oye, <STR>(JUD), nena.
+Si vas detrás del corazón
+der viejo <STR>(RAV)...<PAGE>¡que sepas qu'es tó tuyo!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860248]
+
+Si me traen pelaje de cheagle, un fragmento
+de espíritu, dos ramitas de árbol sagrado
+y dos garras de cocatriz, podré empezar.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(JUD)
+Oh, vaya.
+Muchas gracias.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+
+Tome.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(RAV)
+J-<STR>(JUD_P), nena...
+E-Esto debería estar prohibido...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(YUR)
+¡Eh, viejales!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(KAR)
+¿Prohibido?
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1286461573]
+<STR>(RAV)
+*Silbido*
+¡Estás cañón, nena!
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289237819]
+<STR>(EST_P)
+¿E-Estoy... c-cañón?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(JUD)
+Oh, vaya.
+Muchas gracias.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+
+Tome.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(RAV)
+J-<STR>(JUD_P), nena...
+E-Esto debería estar prohibido...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(YUR)
+¡Eh, viejales!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(KAR)
+¿Prohibido?
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1284905347]
+<STR>(EST_P)
+Mira, <STR>(RIT), ¡también
+hay uno para ti!
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1284905347]
+<STR>(RIT)
+Lo siento, pero a mí
+no me van estas cosas.
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1284905347]
+<STR>(EST_P)
+Oh...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(RIT)
+Eh... Quiero decir que...<PAGE>Me va pequeño.
+Seguramente sea
+la talla de <STR>(KAR).
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298860119]
+<STR>(EST_P)
+¿<STR>(KAR)?...

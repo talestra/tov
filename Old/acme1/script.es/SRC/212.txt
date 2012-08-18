@@ -1,0 +1,86 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848182]
+<STR>(EST_P)
+<VOICE>(VSA1_001)No sabía que existieran
+árboles así de grandes...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848182]
+<STR>(YUR)
+<VOICE>(VSA1_002)Ya, pero tampoco tiene pinta
+de que les convenga crecer tanto.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848182]
+<STR>(RIT)
+<VOICE>(VSA1_003)Es tal y como dijiste, <STR>(KAR).<PAGE><VOICE>(VSA1_004)Es igual a lo que ocurrió
+en Heliord cuando el blastia
+se puso fuera de control.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848182]
+<STR>(KAR)
+<VOICE>(VSA1_005)Cuidado... Hay alguien por aquí.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273919920]
+<STR>(RAV)
+<VOICE>(VSA1_006)¡Hombre! ¡Qué coincidencia!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848182]
+<STR>(YUR)
+<VOICE>(VSA1_007)¿Qué narices haces tú
+en un sitio como este?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273919920]
+<STR>(RAV)
+<VOICE>(VSA1_008)Pos ya sabes... Toy dando un paseo por er bosque.
+Uniéndome con la naturaleza...
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848800]
+<STR>(KAR)
+<VOICE>(VSA1_009)Esto me huele muy mal...
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848800]
+<STR>(RAV)
+<VOICE>(VSA1_010)¿Qué? ¿No vais a darme la bienvenía?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848800]
+<STR>(RIT)
+<VOICE>(VSA1_011)No habrás pensado en serio que nos íbamos
+a alegrar de verte, ¿verdad?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848800]
+<STR>(RAV)
+<VOICE>(VSA1_012)Ah, no me digas esas cosas.
+Puedo seros d'utilidá, ¿sabéis?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848800]
+<STR>(KAR)
+<VOICE>(VSA1_013)No estás pensando en venir
+con nosotros, ¿verdad?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298304600]
+<STR>(RAV)
+<VOICE>(VSA1_014)¡Pos claro! Me siento mu solo estando
+aquín con mi soledá. ¿Qué, nanai?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848800]
+<STR>(RIT)
+<VOICE>(VSA1_015)Ándate con ojo. Si te pillo intentando
+alguna canallada, eres hombre muerto.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298304600]
+<STR>(RAV)
+<VOICE>(VSA1_016)Ah, vamos. Mi historia tampoco
+sus huele tan mal, ¿verdá?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848800]
+<STR>(YUR)
+<VOICE>(VSA1_017)Pues sí. El olor sale
+de ti tanto que apestas.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298304600]
+<STR>(RAV)
+<VOICE>(VSA1_018)¡¿De verdá?! *Snif, snif*
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273848800]
+<STR>(YUR)
+<VOICE>(VSA1_019)No me hago responsable de mis actos
+si te veo hacer algo sospechoso.
+Que no se te olvide.

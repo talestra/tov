@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:evilluendas;time:1251846874]
+Un pueblo que se hace más fuerte
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313427]
+(EST_P)
+Este pueblo se ha convertido
+en un lugar maravilloso.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313427]
+(YUR)
+Y tanto. No me puedo creer
+que ya sea una ciudad.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115607]
+(RAP)
+¡GUAU!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115607]
+(KAR)
+Además, los refugiados parecen felices,
+aun con todos los peligros que quedan
+en este mundo.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313427]
+(YUR)
+Son fuertes. Se han dado cuenta de que 
+lamentándose no se llega a ninguna parte.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313427]
+(YUR)
+Y darse cuenta de eso
+siempre es bueno.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115607]
+(RAP)
+¡Guau!
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313427]
+(EST_P)
+Sí, estoy de acuerdo.

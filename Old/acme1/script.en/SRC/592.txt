@@ -1,0 +1,145 @@
+## POINTER 0
+
+Come on, move those feet!
+
+## POINTER 1
+
+...*Groan*.
+
+## POINTER 2
+<STR>(YUR)
+Hey, is that 
+Sebastian?
+
+## POINTER 3
+<STR>(KAR)
+We've come with news about the Soul Smiths! 
+So let Mr. Sebastian go, okay?
+
+## POINTER 4
+
+Huh? Do I know you?
+
+## POINTER 5
+<STR>(YUR)
+We had a deal, here.
+
+## POINTER 6
+
+No clue what you're talking about.
+
+## POINTER 7
+<STR>(JUD)
+They're just toying 
+with us.
+
+## POINTER 8
+<STR>(KAR)
+But you said if we could make 
+contact with the Smiths you'd 
+let Mr. Sebastian go...
+
+## POINTER 9
+
+Oh, you must mean the guy who was here with 
+me. There's only one thing that happens 
+to losers like him in Leviathan's Claw.
+
+## POINTER 10
+<STR>(KAR)
+Then you...
+
+## POINTER 11
+<STR>(YUR)
+Okay, this guy's gotta go.
+
+## POINTER 12
+
+Watch that lip, boy! Let's 
+see what you've got!
+
+## POINTER 13
+<STR>(EST_P)
+Hang in there. How do you feel?
+
+## POINTER 14
+
+W-who are all of you...?
+
+## POINTER 15
+<STR>(KAR)
+We're Brave Vesperia!
+
+## POINTER 16
+<STR>(RIT)
+You're Sebastian?
+
+## POINTER 17
+
+The very same. 
+But how did 
+you...?
+
+## POINTER 18
+<STR>(JUD)
+Your employer asked 
+that we come and 
+pick you up.
+
+## POINTER 19
+Sebastian
+My lady sent you...? H-how 
+very fortuitous.<PAGE>Oh, that's right. Do 
+wait here a moment.
+
+## POINTER 20
+Sebastian
+Here I am.
+
+## POINTER 21
+<STR>(YUR)
+Whoa, hold on. What's 
+with the luggage?
+
+## POINTER 22
+Sebastian
+Oh, just something I nearly forgot.
+
+## POINTER 23
+<STR>(KAR)
+That's a pretty big something.
+
+## POINTER 24
+Sebastian
+Honestly, pay it no mind. Well, 
+I do owe you my thanks...
+
+## POINTER 25
+<STR>(RAP)
+Woof!
+
+## POINTER 26
+<STR>(YUR)
+Yeah, I smell fish too, boy.
+
+## POINTER 27
+<STR>(JUD)
+We're under no obligation to interfere in 
+everything that seems a bit off, are we?
+
+## POINTER 28
+<STR>(YUR)
+I wonder.
+
+## POINTER 29
+<STR>(KAR)
+They do say the customer's always right, but...
+
+## POINTER 30
+<STR>(YUR)
+At any rate, let's go collect our reward 
+from our favorite noblewoman.
+
+## POINTER 31
+<STR>(KAR)
+Y-yeah...

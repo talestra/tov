@@ -1,0 +1,115 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS44_187)Whoa, careful!
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS44_188)You can do it, <STR>(YUR).
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS44_189)Apatheia...
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS44_190)It's creating interference 
+with the blastia and causing 
+the aer to go out of control.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS44_191)Are we gonna break it...? 
+It's like one of the 
+Entelexeia's souls, right?
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS44_192)Fraid that's what it's down to.<PAGE><VOICE>(VS44_193)If Heracles keeps 
+goin', we can kiss 
+Zaphias goodbye.<PAGE><VOICE>(VS44_194)Not ta mention that cannon 
+might decide ta go off.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS44_195)Yeah. We have to act now!
+
+## POINTER 7
+
+<VOICE>(VS44_196)Thank you.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS44_197)Huh...?
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS44_198)It's stopped?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS44_199)What about the cannon?!
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS44_200)Not good! At this rate 
+it's going to fire!
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS44_201)No way?! We shut 
+the power off!
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS44_202)That's some 
+friend you have.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS44_203)Hah...there he goes again. 
+Showing off, as usual.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS44_204)Hey, am I the only one 
+who heard a voice when 
+you cut the apatheia?
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS44_205)No. That might've been 
+the voice of whatever 
+Entelexeia it used to be.
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS44_206)It was like the consciousness 
+within the apatheia willed 
+the aer back to normal.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS44_207)I think we're done here. 
+Now we've gotta get to 
+Zaphias to rescue <STR>(EST_P).
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS44_208)I'll call Ba'ul. We should get 
+somewhere out in the open.
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS44_209)We've lost too much time 
+gettin' sucked into this 
+Heracles decoy business.
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS44_210)Let's hurry!
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS44_211)Willed the aer back to normal... 
+The apatheia and aer... The 
+Rizomata Formula and <STR>(EST_P)...

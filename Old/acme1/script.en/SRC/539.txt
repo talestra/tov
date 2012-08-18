@@ -1,0 +1,72 @@
+## POINTER 0
+
+...So, are you telling me to go all
+the way out to the countryside?
+
+## POINTER 1
+
+I wonder if this place is any good.
+
+## POINTER 2
+<STR>(YUR)
+This place is no good.
+And Zaphias won't work either.
+
+## POINTER 3
+<STR>(RAV)
+We gotta make things
+fair for everyone.
+
+## POINTER 4
+Harry
+This is something important.
+For the Empire and for the Guilds...
+
+## POINTER 5
+
+Hmph. I'm not going to be
+used like some messenger.
+
+## POINTER 6
+
+I don't want to leave Dahngrest
+at a time like this.<PAGE>It's up to you, Harry.
+
+## POINTER 7
+Harry
+Alright. I guess I'll
+be going.
+
+## POINTER 8
+<STR>(KAR)
+What? This is important!
+You're just going to decide like that?!
+
+## POINTER 9
+
+It's alright. I'm not going
+to question Harry's
+decision back there.
+
+## POINTER 10
+
+Hmm...
+
+## POINTER 11
+<STR>(YUR)
+That settles it. We'll be
+back at the little prince's
+earliest convenience.
+
+## POINTER 12
+Harry
+Okay.
+
+## POINTER 13
+<STR>(EST_P)
+Let's go back to where
+<STR>(FRE) and the others are.
+
+## POINTER 14
+<STR>(YUR)
+Yeah. Let's head back first.

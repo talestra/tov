@@ -1,0 +1,101 @@
+## POINTER 0
+
+I really can't thank you enough for 
+everything you've done for me.
+
+## POINTER 1
+<STR>(RAV)
+Come on, ya don't need ta thank 
+us. We got paid for it, and we 
+even got nice new uniforms. ∀
+
+## POINTER 2
+<STR>(RIT)
+You sure are a sucker 
+for pretty girls, old man.
+
+## POINTER 3
+<STR>(KAR)
+I wonder if all this work we've done 
+would have made the Don happy...
+
+## POINTER 4
+<STR>(EST_P)
+Of course it would have. I'm 
+sure that he would be glad 
+that we're all helping out.
+
+## POINTER 5
+
+I'll bet he's looking down on 
+us all from somewhere with a 
+big, fat grin on his face.
+
+## POINTER 6
+<STR>(KAR)
+So you never ended 
+up working at 
+all, huh <STR>(YUR)?
+
+## POINTER 7
+<STR>(YUR)
+Yeah, I guess not. This type 
+of work just doesn't suit me.
+
+## POINTER 8
+<STR>(JUD)
+Hey, you never know. You 
+might turn out to be 
+a pretty good waiter.
+
+## POINTER 9
+<STR>(EST_P)
+Just once, I'd like to see what 
+<STR>(YUR) looks like waiting tables...
+
+## POINTER 10
+<STR>(YUR)
+Stare me down as hard 
+as you want... I'm 
+not doing it.
+
+## POINTER 11
+
+Too bad. I'll bet you'd be pretty popular. 
+Not every tavern can claim to have such 
+a stubborn waiter on their staff.
+
+## POINTER 12
+<STR>(RIT)
+"What the hell can I get you?"
+
+## POINTER 13
+<STR>(RAV)
+"Don't order that! It's horrible!"
+
+## POINTER 14
+<STR>(RIT)
+"Eat this, you idiot!"
+
+## POINTER 15
+<STR>(JUD)
+"I don't need your money! Go home!"
+
+## POINTER 16
+<STR>(KAR)
+Yeah, I think he'd be a hit.
+
+## POINTER 17
+<STR>(YUR)
+Am I really like that?
+
+## POINTER 18
+<STR>(EST_P)
+You'd be surprised.
+
+## POINTER 19
+<STR>(YUR)
+......
+I think I'll 
+leave the waiter stuff 
+to you guys.

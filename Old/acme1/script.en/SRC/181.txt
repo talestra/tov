@@ -1,0 +1,18 @@
+## POINTER 0
+Ioder
+<VOICE>(VS16_001)I owe you my thanks. 
+You saved my life.
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS16_002)Hey, who is this guy?
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS16_003)Um, well, you see...
+
+## POINTER 3
+<STR>(FRE)
+<VOICE>(VS16_004)I've made arrangements 
+at the inn. We can discuss 
+things further there.<PAGE><VOICE>(VS16_005)You'll come, won't you?

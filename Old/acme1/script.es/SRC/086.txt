@@ -1,0 +1,29 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298208184]
+<STR>(YUR)
+Mira tú por dónde... Se ha abierto.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298208184]
+<STR>(YUR)
+Tan vigilantes como siempre...
+Con la sobada que lleva, tardarán lo
+suyo en darse cuenta de que me he ido.<PAGE>Si vuelvo antes del amanecer
+no se enterarán de mi pequeña
+escapada.<PAGE>Creo que puedo echar un vistazo 
+a los barrios bajos y volver 
+a tiempo por la mañana.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298208184]
+<STR>(YUR)
+Quizá convendría echar un vistazo
+a esa estatua de la diosa.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298208200]
+<STR>(YUR)
+Abrir la puerta es pan comido
+cuando tienes la llave.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298208184]
+<STR>(YUR)
+Pero no puedo hacer esto toda
+la noche cada dos por tres.
+Debería tener cuidado.

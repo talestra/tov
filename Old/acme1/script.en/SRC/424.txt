@@ -1,0 +1,257 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS40_037)Do you think we should 
+really just go in?
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS40_038)He's the one who told us 
+to wait for him here.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS40_039)I guess the Krityans 
+really are different.
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS40_040)They don't seem ta be in 
+any great rush ta get 
+things done, that's for sure.
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS40_041)I know. They certainly 
+are weird, aren't they?
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS40_042)Actually, you're kind of 
+like that too, <STR>(JUD).
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS40_043)That's funny. I don't 
+see that at all.
+
+## POINTER 7
+
+<VOICE>(VS40_044)Ah, there you are.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS40_045)W-welcome back.
+
+## POINTER 9
+
+<VOICE>(VS40_046)I've kept you waiting. 
+Now, please step 
+this way if you will.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS40_047)...?
+
+## POINTER 11
+
+<VOICE>(VS40_048)This is the very means 
+by which the lore of 
+Myorzo is passed on.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS40_049)But, um...it's just a wall.
+
+## POINTER 13
+
+<VOICE>(VS40_050)<STR>(JUD). Use the nageeg 
+as you touch the wall, 
+and repeat these words:<PAGE><VOICE>(VS40_051)...City of dreams veiled in 
+mist, reality's extension.
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VS40_052)City of dreams veiled in 
+mist, reality's extension...?
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS40_053)What's happening?
+
+## POINTER 16
+
+<VOICE>(VS40_054)We Krityans possess an ancient 
+power known as the nageeg that 
+reveals the stories hidden in objects.<PAGE><VOICE>(VS40_055)These murals appear only 
+when this power is joined 
+with the proper incantation.
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS40_056)Th-this painting is kind of creepy...
+
+## POINTER 18
+<STR>(JUD)
+<VOICE>(VS40_057)The Kritya. Stewards of wisdom, 
+founders of the mighty Geraios, 
+and ancient sages.<PAGE><VOICE>(VS40_058)Our misbegotten wisdom has 
+sown only the seeds of ruin.<PAGE><VOICE>(VS40_059)The blastia we created granted 
+us blessings, but also blighted 
+the aer, lifeblood of this world.
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS40_060)Then <STR>(RIT) was right. 
+There were disturbances 
+in the aer in the past.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS40_061)You think this is showing 
+a disturbance in the aer?
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS40_062)It looks more like 
+the aer is trying 
+to...eat the planet.
+
+## POINTER 22
+
+<VOICE>(VS40_063)Hmm. It is said that a great 
+mass of aer threatened to 
+swallow the very planet whole.
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VS40_064)The blight grew ever 
+stronger and brought 
+forth a cataclysm...<PAGE><VOICE>(VS40_065)In our terror, we gave 
+a name to the cataclysm: 
+the Adephagos.
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS40_066)Adephagos...
+
+## POINTER 25
+<STR>(JUD)
+<VOICE>(VS40_067)The world united to challenge 
+the Adephagos, and banish the 
+loathsome power which created it.
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS40_068)Hey, could that be 
+the Entelexeia?
+
+## POINTER 27
+<STR>(RAV)
+<VOICE>(VS40_069)It does look a bit like 
+monsters and humans fightin' 
+somethin' off together.
+
+## POINTER 28
+
+<VOICE>(VS40_070)Though the Geraios civilization 
+was lost, the Adephagos was 
+quelled in the end.<PAGE><VOICE>(VS40_071)The fact that we are all 
+still here today is 
+evidence enough of that.
+
+## POINTER 29
+<STR>(RIT)
+<VOICE>(VS40_072)So then is this painting 
+showing the Adephagos being 
+brought under control?
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS40_073)Hey, what's the last thing it says there.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS40_074)<STR>(JUD_P)?
+
+## POINTER 32
+<STR>(JUD)
+<VOICE>(VS40_075)Hearing the world's prayers, life faded 
+from the Child of the Full Moon. The 
+Adephagos disappeared into the void.
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS40_076)What?!
+
+## POINTER 34
+<STR>(EST_P)
+<VOICE>(VS40_077)The world's prayers... 
+Life faded from the Children 
+of the Full Moon...
+
+## POINTER 35
+<STR>(JUD)
+<VOICE>(VS40_078)Our world was preserved. 
+But the story shall remain here 
+for generations to tell of our sin.<PAGE><VOICE>(VS40_079)240th year of Asule.
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS40_080)What's that supposed to mean?
+
+## POINTER 37
+
+<VOICE>(VS40_081)There is no further 
+explanation of what each 
+of these phrases may mean.
+
+## POINTER 38
+
+<VOICE>(VS40_082)Our ancestors created the 
+blastia which led to the 
+downfall of their entire civilization.<PAGE><VOICE>(VS40_083)They then chose to abandon 
+the blastia and sever their 
+ties with the outside world.
+
+## POINTER 39
+<STR>(KAR)
+<VOICE>(VS40_084)<STR>(EST_P)!
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS40_085)Let her go.
+
+## POINTER 41
+
+<VOICE>(VS40_086)This is all the 
+lore of Myorzo.
+
+## POINTER 42
+<STR>(YUR)
+<VOICE>(VS40_087)Thanks. You've given 
+us a lot to think about.
+
+## POINTER 43
+
+<VOICE>(VS40_088)You know what's helpful? There's 
+this magic cucumber that'll turn 
+any dish into a gourmet meal...
+
+## POINTER 44
+<STR>(JUD)
+<VOICE>(VS40_089)I think we'll pass. Could 
+we trouble you for a 
+place to rest a while?<PAGE><VOICE>(VS40_090)I feel we may need to impose 
+on you until our friend 
+has calmed down.
+
+## POINTER 45
+
+<VOICE>(VS40_091)Hmph.<PAGE><VOICE>(VS40_092)You are free to use the 
+house next door. No 
+one lives there right now.
+
+## POINTER 46
+<STR>(JUD)
+<VOICE>(VS40_093)Thank you. Okay, 
+let's be going.

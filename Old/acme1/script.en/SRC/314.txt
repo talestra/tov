@@ -1,0 +1,159 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS28_001)No sign of him so far.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS28_002)Do you think he went this way?
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS28_003)Maybe he used this ta get 
+through ta the other side 
+of the mountain.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS28_004)But this cave is the 
+Weasand of Cados.<PAGE><VOICE>(VS28_005)A powerful monster called 
+Pteropus lives here. It's 
+supposed to be really dangerous.<PAGE><VOICE>(VS28_006)Or at least that's 
+what Nan told me.
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS28_007)Perhaps he went inside 
+without knowing that.
+
+## POINTER 5
+<STR>(RAP)
+<VOICE>(VS28_008)Woof!
+
+## POINTER 6
+Regaey
+<VOICE>(VS28_009)W-w-w-wait... 
+P-please l-let me go.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS28_010)Looks like he was hiding 
+out here hoping we'd 
+just pass him by.
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS28_011)Well now. Let's have a 
+nice long chat.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS28_012)What were you trying to 
+gain, setting us up like that 
+back at the coliseum?
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS28_013)And give back that case!
+
+## POINTER 11
+Regaey
+<VOICE>(VS28_014)You leave m-me no choice.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS28_015)Leviathan's Claw?!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS28_016)Guess this means Ruins' Gate and 
+Leviathan's Claw are connected.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS28_017)So they pretend to help with 
+the excavations, then swipe 
+materials and sell them later, huh?<PAGE><VOICE>(VS28_018)I'll make them pay...I swear...
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS28_019)How could a guild as famous 
+and renowned as Ruins' Gate 
+do something like that?
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS28_020)<STR>(JUD), wait!
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS28_021)He'll get away if 
+we don't hurry.
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS28_022)Remember what I said? 
+There's a really nasty 
+monster living in there.
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS28_023)Hey. Whaddya say we call it a day?<PAGE><VOICE>(VS28_024)Old <STR>(RAV) can't afford ta get too 
+far from Nordopolica without 
+getting this letter to Belius.<PAGE><VOICE>(VS28_025)The Don'll hit me with 
+another one of his 
+thankless jobs otherwise.
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS28_026)Well I'm going after him.<PAGE><VOICE>(VS28_027)I can't let somebody like that 
+just do whatever with the 
+blastia he takes from the ruins!<PAGE><VOICE>(VS28_028)And I'm gonna get that case back, too!
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS28_029)I...I'm going too!
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS28_030)What are you talking about?! 
+You're staying put here.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS28_031)I'm not.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS28_032)Hah. This doesn't sound like 
+something Brave Vesperia can 
+very well pass up.
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS28_033)...Yeah, it's our job 
+to protect <STR>(EST_P).
+
+## POINTER 26
+<STR>(JUD)
+<VOICE>(VS28_034)If we all go together 
+we're bound to come 
+up with something.
+
+## POINTER 27
+<STR>(RAV)
+<VOICE>(VS28_035)Sure you'll be all right 
+without the Great <STR>(RAV)?
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS28_036)I think so. Good luck 
+delivering the letter.
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VS28_037)...
+
+## POINTER 30
+<STR>(RAV)
+<VOICE>(VS28_038)...Jeez, aren't ya even gonna 
+try ta stop me from leavin'?

@@ -1,0 +1,153 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1275077976]
+<STR>(EST_P)
+¡Maestro!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244065]
+Princesa... ¿Qué hacéis
+en un sitio como este?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1275083048]
+<STR>(EST_P)
+Hay algo que tengo que
+discutir con <STR>(FRE), así que...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287429485]
+
+He oído que escapasteis del castillo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1275077976]
+<STR>(EST_P)
+Mm, mm, mmmm...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1275077976]
+<STR>(KAR)
+¿Quién es?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287429485]
+
+Disculpad que no me haya presentado antes.
+Me llamo Drake Dropwart.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:miyu;time:1275083602]
+<STR>(EST_P)
+Fue el maestro de esgrima  
+del anterior emperador, 
+y también el mío.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:miyu;time:1275083048]
+<STR>(YUR)
+Ah... Drake, el
+Patriota caballeresco...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:miyu;time:1275083048]
+<STR>(KAR)
+¿El Patriota caballeresco?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:miyu;time:1275419929]
+<STR>(EST_P)
+El maestro Drake ha servido 
+al imperio con sudor y 
+lágrimas durante décadas.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244065]
+<STR>(YUR)
+En los Caballeros Imperiales, 
+Drake Dropwart es el modelo a 
+seguir por todos los integrantes.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:miyu;time:1275083048]
+<STR>(EST_P)
+Ahora trabaja como consejero 
+para los Caballeros Imperiales.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244065]
+<STR>(KAR)
+Guau, ¿de verdad?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244065]
+Drake
+Aunque solo lo soy en nombre. 
+Ya estoy más que retirado.<PAGE>En estos años mi único deber ha sido
+adiestrar a la Princesa en esgrima.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551176]
+<STR>(EST_P)
+Pero ¿no ha venido aquí
+con el Comandante en
+calidad de consejero?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:miyu;time:1275083048]
+Drake
+Sí... He oído todo lo que 
+ha sucedido hasta la fecha.<PAGE>¿Qué se siente al salir al mundo 
+exterior por primer vez?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:miyu;time:1275083048]
+<STR>(EST_P)
+Bueno, nos han pasado muchas cosas 
+malas, pero aun así ha sido 
+una experiencia fantástica.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:miyu;time:1275083048]
+Drake
+Una experiencia fantástica, 
+¿decís? Vaya...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:miyu;time:1275083048]
+<STR>(EST_P)
+Mmmm...
+¿Ocurre algo?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244065]
+Leblanc
+Señor Drake, ¡señor!<PAGE>Va-va-vay... Es usted...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:miyu;time:1275083048]
+Drake
+¿Qué quieres, Leblanc?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244065]
+Leblanc
+Señor. Su Excelencia, el Comandante,
+quiere verle, señor.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244065]
+Drake
+Entendido.<PAGE>Disculpadme, Princesa, pero 
+debo irme. Intentad no meteros 
+en problemas, ¿de acuerdo?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:miyu;time:1275083048]
+<STR>(EST_P)
+Sí, por supuesto.
+Cuídese, maestro...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:miyu;time:1275083602]
+<STR>(YUR)
+No puedo creer que Drake Dropwart sea 
+el maestro de esgrima de <STR>(EST_P)...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:miyu;time:1275083719]
+<STR>(RIT)
+Me sorprende que una princesa sepa 
+cómo usar una espada, la verdad.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244065]
+<STR>(KAR)
+¿Qué te hizo querer
+aprender esgrima, <STR>(EST_P)?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:miyu;time:1275083602]
+<STR>(EST_P)
+Buena pregunta... aunque me llevará 
+mucho tiempo contar toda la historia. 
+Dejémoslo para otra ocasión...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244065]
+<STR>(YUR)
+A mí también me gustaría oírla cuando 
+se hayan calmado un poco las cosas.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:miyu;time:1275083602]
+<STR>(EST_P)
+¡Hecho!

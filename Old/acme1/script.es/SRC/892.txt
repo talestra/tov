@@ -1,0 +1,62 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296905552]
+Mimí
+Tú no aprendes, ¿verdad?
+¡Muy bien, vamos allá!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294855615]
+
+¡Oh, has vuelto! ¿Puedo pedirte que me
+ayudes con algunas cosas de la taberna?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296756183]
+
+Espera, ¿quiénes
+son todos estos?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906390]
+
+¡Oh, Mimí!
+¿Acabas de volver?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906390]
+Mimí
+Sí. Ya vuelvo a tener
+tiempo libre, así que he
+pensado en ayudarte.<PAGE>¡¿Y qué es eso de nuevas
+empleadas en uniforme
+que vienen a trabajar?!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296905552]
+
+Calma, Mimí. No sabía cuándo ibas
+a volver, así que les pedí que me
+ayudaran mientras estabas fuera.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1294855615]
+<STR>(RIT)
+No es que quisiéramos quitarte
+el trabajo ni nada parecido.
+No te pongas así.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294855615]
+<STR>(RAV)
+Nu hay por qué
+pelearse, ¿verdad?
+¡Seamos amigos!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296905552]
+Mimí
+¡Ni hablar! ¡Tenemos
+que solucionar esto!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906390]
+
+Cuando se pone así,
+es inútil razonar
+con ella...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296906390]
+Mimí
+¡Hagamos una competición
+para ver quién sirve mejor!
+¡Ponte el uniforme!

@@ -1,0 +1,99 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS13_528)...I can't believe it. I've never 
+seen anything like this.<PAGE><VOICE>(VS13_529)The flowers are in full bloom even 
+though it's not the season for it... 
+And the barrier's strong, too.<PAGE><VOICE>(VS13_530)Did <STR>(EST) really 
+do this?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS13_531)What do you mean?
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS13_532)<STR>(KAR) let it slip when 
+we were leaving Aspio.<PAGE><VOICE>(VS13_533)You tried to change the 
+subject, but it was too late.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS13_534)Guess I blew that one.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS13_535)We mages have nothing 
+even remotely like she has.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS13_536)So you just decided to 
+come with us to eliminate 
+the competition?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS13_537)Don't be ridiculous! 
+I have a formula that 
+I have to work out!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS13_538)A formula? What do you mean?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS13_539)...It's nothing. 
+Forget about it.<PAGE><VOICE>(VS13_540)So what did you want? 
+You came here for 
+something, right?
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS13_541)Well, that just took care 
+of about half of it.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS13_542)So what's the other half?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS13_543)You said that it's easy working 
+with blastia because they 
+never betray you.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS13_544)Yeah? So?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS13_545)You and <STR>(EST_P) 
+are both human. 
+You're not blastia.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS13_546)...Oh, I get it. You're 
+worried for her. Worried 
+I might hurt her.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS13_547)<STR>(EST_P)'s honest. Good. 
+Unlike you or me.<PAGE><VOICE>(VS13_548)I'm just saying... 
+Don't do anything 
+reckless.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS13_549)Come on, let's go back. 
+<STR>(KAR) and <STR>(EST_P) 
+are waiting for us.
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS13_550)I've finally found the clue 
+I was looking for. I want to 
+be all kinds of reckless...

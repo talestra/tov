@@ -1,0 +1,108 @@
+## POINTER 0
+<STR>(RAV)
+Phew... Finally, some 
+time ta relax...
+
+## POINTER 1
+<STR>(YUR)
+We've still got a lot of big problems 
+ahead of us...but I guess we can 
+forget about them, for now.
+
+## POINTER 2
+<STR>(RIT)
+Right! Save 
+your worries 
+for later!
+
+## POINTER 3
+<STR>(EST_P)
+When you're so busy, it's easy to 
+forget to just slow down and relax.
+
+## POINTER 4
+<STR>(RAV)
+Oh, you ladies are here 
+too? You were so quiet... 
+I had no idea.
+
+## POINTER 5
+<STR>(RIT)
+What do you mean? You mean 
+you would've come over to 
+spy on us if you had known?
+
+## POINTER 6
+<STR>(RAV)
+Huh? Why would I go all the way 
+over there ta see a bunch of 
+flat-chested little girls?
+
+## POINTER 7
+<STR>(RIT)
+What did you say, you 
+perverted old troll?!<PAGE>Get your butt over 
+here right now or 
+it's fireball time!
+
+## POINTER 8
+<STR>(RAV)
+Why don't ya come over ta 
+the men's side? I dare ya! 
+I triple dog dare ya!
+
+## POINTER 9
+<STR>(RIT)
+Like I'd wanna see 
+your wrinkly old 
+geezer bits!
+
+## POINTER 10
+<STR>(RAV)
+Why I oughta...!
+
+## POINTER 11
+<STR>(RIT)
+What? Bring it on, old man!
+
+## POINTER 12
+<STR>(YUR)
+If you two don't settle 
+down, the water's 
+going to get cold.
+
+## POINTER 13
+<STR>(EST_P)
+What? You all 
+haven't changed 
+yet?<PAGE>The girls are all 
+out of the bath and 
+done changing.
+
+## POINTER 14
+<STR>(YUR)
+The girls are done, eh...
+All of us have finished 
+changing, too!
+
+## POINTER 15
+<STR>(JUD)
+Then we don't need to 
+be talking through 
+a partition, do we?
+
+## POINTER 16
+<STR>(KAR)
+Right, we're already 
+out...<PAGE>Aaaaachooo!!
+
+## POINTER 17
+<STR>(YUR)
+We'd better get inside before 
+Captain <STR>(KAR) of the Lone 
+Towel catches a cold.
+
+## POINTER 18
+<STR>(RIT)
+Why are you the only one 
+still in a towel...?

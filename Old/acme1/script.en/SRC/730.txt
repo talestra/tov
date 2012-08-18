@@ -1,0 +1,44 @@
+## POINTER 0
+<STR>(KAR)
+Agh...!<PAGE>Ow ow owww...
+
+## POINTER 1
+<STR>(KAR)
+Wha-what's going on here?!<PAGE>...I, uh...everyone...? 
+Where is everybody?
+
+## POINTER 2
+<STR>(KAR)
+...Hmmm...
+...You know, this isn't half bad...<PAGE>Dum dee dee dum!
+
+## POINTER 3
+<STR>(YUR)
+*Whistle*
+
+## POINTER 4
+<STR>(EST_P)
+<STR>(KAR), are 
+you angry?
+
+## POINTER 5
+<STR>(KAR)
+You're all so mean... 
+And I was going to save 
+all of you, too...
+
+## POINTER 6
+<STR>(RAV)
+That's the first we've heard 
+of that, dreamin' boy...
+
+## POINTER 7
+<STR>(YUR)
+Hey, no sweat, right? It 
+looks like you've taken a 
+fancy to that getup, too.
+
+## POINTER 8
+<STR>(KAR)
+A f-f-fancy?! That 
+is not true!

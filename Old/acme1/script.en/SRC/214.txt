@@ -1,0 +1,164 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VSA1_049)This is the same phenomenon 
+we saw at Heliord.<PAGE><VOICE>(VSA1_050)The aer is weaker than it was there, 
+but there's no mistaking it...
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VSA1_051)That monster looks just like the 
+ones that attacked Dahngrest!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VSA1_052)Here it comes!
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VSA1_053)The trees, the monsters, it's got 
+to be the aer that's causing this.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VSA1_054)There's more of 'em!
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VSA1_055)Ah, so this is the end, huh? Farewell, 
+all my dear fans the world over.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VSA1_056)I'll make sure your gravestone reads 
+"Here lies the world's biggest sap."
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VSA1_057)You're supposed ta say 
+stuff like, "We can make it 
+through this together."
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VSA1_058)Who is he...?
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VSA1_059)Duke...
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VSA1_060)Wait!
+
+## POINTER 11
+Duke
+<VOICE>(VSA1_061)...
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VSA1_062)What is that sword?! 
+Let me see!
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VSA1_063)How did you do that back there? 
+You like, sliced through the aer 
+but...but that's impossible...
+
+## POINTER 14
+Duke
+<VOICE>(VSA1_064)What good would that knowledge do you?
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VSA1_065)Well...I mean... With something 
+like that, we might be able to stop 
+the blastia from going berserk...<PAGE><VOICE>(VSA1_066)We saw that happen to a blastia. 
+The aer was out of control.
+We couldn't do anything...
+
+## POINTER 16
+Duke
+<VOICE>(VSA1_067)This was only a distortion. 
+It is a natural occurrence.
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VSA1_068)...Distortion?
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VSA1_069)Um, thank you so much 
+for helping us.
+
+## POINTER 19
+Duke
+<VOICE>(VSA1_070)Do not go near the aer krene.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VSA1_071)Huh...?
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VSA1_072)What do you mean, aer 
+krene? This place?
+
+## POINTER 22
+Duke
+<VOICE>(VSA1_073)Aer krene are the springs from 
+which all aer in the world comes.
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VSA1_074)Springs of aer...
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VSA1_075)Who are you...?<PAGE><VOICE>(VSA1_076)This isn't the kind of place 
+you just go for a walk.
+
+## POINTER 25
+Duke
+<VOICE>(VSA1_077)...
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VSA1_078)We would've been dead without 
+your help, though. Thanks.
+
+## POINTER 27
+<STR>(RIT)
+<VOICE>(VSA1_079)...That power... Could it 
+be the Rizomata Formula?
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VSA1_080)I can't tell anything from 
+checking things out here.
+I have to see some others.
+
+## POINTER 29
+<STR>(KAR)
+<VOICE>(VSA1_081)Hey, didn't that guy earlier say 
+these were all over the world?
+
+## POINTER 30
+<STR>(RAV)
+<VOICE>(VSA1_082)Yeah, he did.
+
+## POINTER 31
+<STR>(RIT)
+<VOICE>(VSA1_083)We won't know anything 
+solid until we find them 
+and study them.
+
+## POINTER 32
+<STR>(EST_P)
+<VOICE>(VSA1_084)So I guess we're finished 
+looking into things here?
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VSA1_085)Yeah, let's get back to Dahngrest
+and meet with the Don.

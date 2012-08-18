@@ -1,0 +1,112 @@
+## POINTER 0
+<STR>(EST_P)
+*Gasp*
+Yur-!
+
+## POINTER 1
+<STR>(YUR)
+Shh...
+
+## POINTER 2
+Sebastian
+...Thanks to the confusion caused by the 
+motley crew you sent to my rescue, I was 
+able to make off with quite a haul.
+
+## POINTER 3
+Mimula
+Well done, Sebastian, 
+my dear.<PAGE>At last...I'll teach those imperial idiots a lesson 
+for daring to look down on my family...
+
+## POINTER 4
+Sebastian
+You do have to give Leviathan's Claw some credit, though... 
+They've really got a nice collection of weapons.
+
+## POINTER 5
+Mimula
+...This should also please 
+those excitable extremists.
+
+## POINTER 6
+Sebastian
+With us on their side, it'll 
+be a new day dawning for this 
+empire... Heh, heh, heh.
+
+## POINTER 7
+Mimula
+And with the coming sun, this flower of 
+the nobility shall bloom once again...!<PAGE>Those grimy-faced commoners 
+won't know what hit them...!
+
+## POINTER 8
+<STR>(EST_P)
+They want to overthrow the empire...?
+
+## POINTER 9
+<STR>(YUR)
+You said once that the emperor 
+is the one who makes their noble 
+ranks official, right?
+
+## POINTER 10
+<STR>(KAR)
+So... If they get rid 
+of the empire, she won't 
+be a noble anymore.
+
+## POINTER 11
+<STR>(JUD)
+Perhaps she has eyes for the throne, herself.
+
+## POINTER 12
+<STR>(RAV)
+So? What do ya propose doin about it?<PAGE>Once hired, a guild's pretty 
+much limited to doin' the job 
+and collectin' a pay check.
+
+## POINTER 13
+<STR>(EST_P)
+But do we just pretend we didn't hear 
+their plans to stage a coup...?
+
+## POINTER 14
+<STR>(RAV)
+Not ta worry, Princess. Those 
+extremists won't amount 
+ta much trouble at all.<PAGE>They'll cause a bit of a panic 
+if they're lucky, and then the 
+Knights'll come down on 'em.
+
+## POINTER 15
+<STR>(KAR)
+You really think so...?
+
+## POINTER 16
+<STR>(RAV)
+Why not just pick up your 
+reward, and skedaddle?
+
+## POINTER 17
+<STR>(RIT)
+Sure it's all right for a former knight 
+captain to say that sort of thing?
+
+## POINTER 18
+<STR>(RAV)
+Hey, you're lookin' at a strict utilitarian, here.
+
+## POINTER 19
+<STR>(EST_P)
+Well, we shouldn't waste any time 
+reporting this to the Knights.
+
+## POINTER 20
+<STR>(YUR)
+What do you think, chief?
+
+## POINTER 21
+<STR>(KAR)
+I'm at a loss...

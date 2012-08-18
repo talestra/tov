@@ -1,0 +1,186 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(YUR)
+¡Eh, es él!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240589]
+<STR>(RAV)
+¿Mmm? A-Anda, mira, cuánto tiempo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240589]
+<STR>(YUR)
+¿No deberías estar diciendo otra cosa?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(RAV)
+¿Otra cosa? Mmm, pos
+no se me ocurre ná.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(YUR)
+Bueno, ya dice la gente que el engañado tiene
+mejor memoria que el que engaña, ¿es eso?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(RAV)
+¡Es solo un terrible malentendío, palabra!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(YUR)
+Deberías ver a un médico a que te cure esa
+tendencia tuya a causarle problemas a los demás.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(RAV)
+Y a ti te vendría bien que te miraran
+la boca pa ver si la puedes tener cerrá.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1275605704]
+<STR>(YUR)
+Tienes respuestas para todo, ¿eh? 
+¡Si no paras de armas follones, los Caballeros
+te volverán a meter en el calabozo!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240589]
+<STR>(RAV)
+Je, los Caballeros anda un poquillo
+ocupaos pa estar pendientes de mí.<PAGE>No hace mucho he visto a un grupo
+d'un gremio con mala pinta que
+se iban hacia er noroeste d'aquí.<PAGE>Los Caballero no pueden permitirse er lujo
+d'hacer la vista gorda, ¿no crees?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(YUR)
+¿Con mala pinta, has dicho?
+¿Era el Pacto de Sangre?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(RAV)
+Ni idea, oye.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(YUR)
+Por cierto, ¿se puede saber
+qué hacías antes en el palacio?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273479545]
+<STR>(RAV)
+Nada en especial.
+Tan solo busca una «apátheia».
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273479545]
+<STR>(YUR)
+¿Qué es una «apátheia»?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(RAV)
+Se supone que es un tipo
+de nucleo la mar de potente.<PAGE>Había oío que había uno por allá,
+pero parece que la información
+taba incorrecta.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240589]
+<STR>(YUR)
+Entiendo... Una «apátheia»...
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(KAR)
+¡Oh! ¡<STR>(YUR)! 
+¡Eh, por aquí!
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(RIT)
+Aagh, ¡ya te pillaré, vejestorio!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240589]
+<STR>(RAV)
+Mmm, parece que será mejor que me escaquee.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273398012]
+<STR>(YUR)
+Sí, que viene la amazona.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(RIT)
+¡Espera, maldita sea!
+¡Voy a darte una paliza!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485104]
+<STR>(KAR)
+Uff, uff... ¿Por qué lo 
+has dejado escapar?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273479545]
+<STR>(YUR)
+Dice que todo ha sido un terrible malentendido.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240589]
+<STR>(KAR)
+¿Cómo?
+¿Qué quieres decir?
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(RIT)
+Se ha escapado. Ya pillaré a ese
+mentecato un día de estos...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240589]
+<STR>(YUR)
+Deberías dejarlo estar.
+Perseguir a un tipo así no es
+más que una pérdida de tiempo.
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(YUR)
+¿Estás bien?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240589]
+<STR>(EST_P)
+Sí... Solo déjame... que descanse... un poco.
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(YUR)
+Vale, puedes descansar ese poco.
+Pero después tenemos que irnos.
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(KAR)
+¿Irnos? ¿Adónde?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240589]
+<STR>(YUR)
+Tengo que seguir a los de Pacto
+de Sangre para recuperar el núcleo
+de los barrios bajos.
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(EST_P)
+¿Has conseguido alguna pista de adónde tenemos que ir?
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(YUR)
+Me he enterado que un grupo sospechoso
+de un gremio se dirige hacia el noroeste.
+Puede que sean ellos.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240735]
+<STR>(KAR)
+Al noroeste de aquí... Que yo sepa,
+la única ciudad que hay en esa dirección
+es una que fue destruida por un terremoto.
+
+## POINTER 35 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(EST_P)
+¿Qué pensarán hacer
+en un sitio así?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240735]
+<STR>(YUR)
+Mmm. Buena pregunta.
+
+## POINTER 37 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(RIT)
+¿Aun así piensas ir?
+
+## POINTER 38 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272838932]
+<STR>(YUR)
+Tan solo digo que deberíamos ir a echar un vistazo.

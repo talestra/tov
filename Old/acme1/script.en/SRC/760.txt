@@ -1,0 +1,126 @@
+## POINTER 0
+
+Ah, <STR>(RAV). Just the man 
+I was looking for.
+
+## POINTER 1
+<STR>(RAV)
+Oops, looks like I walked inta the 
+wrong building by accident. See ya.
+
+## POINTER 2
+
+Wait! Just hear 
+me out.
+
+## POINTER 3
+<STR>(RAV)
+We've already got our hands pretty full 
+with other people's troubles, ya know.
+
+## POINTER 4
+
+Harry isn't in any sort of state 
+to help us with this...
+
+## POINTER 5
+<STR>(RAV)
+Okay, okay. I'll hear what ya 
+got ta say. But that's all!
+
+## POINTER 6
+
+Yes, sir!<PAGE>Recently, we've had countless 
+skirmishes breaking out between 
+the guilds and the empire.<PAGE>In the past, the Union has always 
+mediated these disputes.<PAGE>But now that the Don has 
+passed away, the Union is only 
+a shell of what it once was.
+
+## POINTER 7
+<STR>(RAV)
+The Union's not workin' like it use 
+ta, so that's why yer comin' by 
+yerself ta talk with me about this?
+
+## POINTER 8
+
+Yes. I hear that Fortune's Market and the 
+Knights also clashed the other day over 
+the sealing off of the Weasand of Cados.
+
+## POINTER 9
+<STR>(EST_P)
+That would be <STR>(FRE)'s 
+blockade, I think.
+
+## POINTER 10
+<STR>(YUR)
+Yeah, probably so.
+
+## POINTER 11
+
+And because of the law of no intervention 
+between guilds, Altosk can't directly admonish 
+Fortune's Market for what they did.
+
+## POINTER 12
+<STR>(RAV)
+Restorin' the Union ta its former self 
+may be the only choice we've got...
+
+## POINTER 13
+
+But Harry's in no condition to help, and 
+we still need to do something about the 
+next head of the Blood Alliance...
+
+## POINTER 14
+<STR>(RAV)
+We've gotta take things one at a time. 
+First off is yer guild, Altosk. Do 
+somethin' to fix that boy Harry up.<PAGE>And if I run inta Madam President, 
+I'll see if I can't convince her ta 
+do things right, through the Union.
+
+## POINTER 15
+
+I understand. Thank 
+you for your help.
+
+## POINTER 16
+<STR>(KAR)
+Miss Kaufman, eh? But I wonder 
+where we can find her...
+
+## POINTER 17
+<STR>(RAV)
+Don't ya worry about that. We don't hafta 
+search fer her or anything. We'll just 
+let her know if we happen ta see her.
+
+## POINTER 18
+<STR>(KAR)
+But...
+
+## POINTER 19
+<STR>(YUR)
+You think that Altosk will be 
+able to knock the Union back into 
+shape, don't you old man?
+
+## POINTER 20
+<STR>(RAV)
+They learn quick and act fast. 
+They're the only thing keepin' the 
+Union in check, if ya ask me.
+
+## POINTER 21
+<STR>(KAR)
+Ahh, right.
+
+## POINTER 22
+<STR>(RAV)
+So if we happen ta see that pretty 
+president anytime soon, let's 
+be sure ta ask fer her help.

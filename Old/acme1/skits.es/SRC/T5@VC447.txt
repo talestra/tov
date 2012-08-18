@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253561142]
+La diversión de los números
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133604]
+(EST_P)
+Ya van treinta y cinco...
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133604]
+(YUR)
+¿Eh? ¿A qué te refieres?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122957]
+(EST_P)
+Llevamos vistos treinta y cinco engranajes.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122957]
+(RIT)
+¿Los has estado contando?
+Pues sí que vas tranquila.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122957]
+(EST_P)
+L-Lo siento, es solo que...
+Me apetecía hacerlo.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133604]
+(YUR)
+Eres muy meticulosa, ¿lo sabías?
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133604]
+(EST_P)
+Je, je, je...
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133604]
+(RIT)
+Sabes que no era
+un cumplido, ¿verdad?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122957]
+(YUR)
+Bueno, sigamos adelante. No vaya a ser
+que (EST_P) se nos aburra todavía más.
+
+## POINTER 10 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133604]
+(EST_P)
+Oh, no es que estuviera especialmente aburrida...

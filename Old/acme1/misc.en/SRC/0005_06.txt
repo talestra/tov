@@ -1,0 +1,314 @@
+## POINTER 566
+Heal Supply
+
+## POINTER 567
+Heal an ally to recover some HP.
+
+## POINTER 568
+Eternal Support
+
+## POINTER 569
+Effects of support magic occasionally
+lasts for duration of battle.
+
+## POINTER 570
+Eternal Weakness
+
+## POINTER 571
+Effects of weakening spell occasionally lasts
+for duration of battle.
+
+## POINTER 572
+Support Arte Charge
+
+## POINTER 573
+Able to use charged attacks for support
+type artes. Only with Mighty Charge set.
+
+## POINTER 574
+Imitation Voice
+
+## POINTER 575
+Says Yuri's lines after winning a battle.
+
+## POINTER 576
+Critical Recover
+
+## POINTER 577
+Recovers TP upon a critical hit.
+
+## POINTER 578
+HP Relax
+
+## POINTER 579
+Recovers HP gradually by not doing anything in battle.
+
+## POINTER 580
+Convert Absorption
+
+## POINTER 581
+When finishing an enemy with a spell, possibly 
+absorb the enemies remaining HP as TP.
+
+## POINTER 582
+Lunge Weakness
+
+## POINTER 583
+Occasionally, a standby ally will appear on the
+battlefield and use a weakening type arte on enemy.
+
+## POINTER 584
+Healing Artes
+
+## POINTER 585
+Occasionally casts healing spells without
+consuming any TP.
+
+## POINTER 586
+Lucky Magic
+
+## POINTER 587
+Occasionally decreases the amount of
+TP consumption when casting a spell.
+
+## POINTER 588
+Reducer
+
+## POINTER 589
+Decreases TP consumption when same spell
+is used consecutively.
+
+## POINTER 590
+Target Spark
+
+## POINTER 591
+Receive extra EXP for defeating enemy while
+targeted by the entire enemy group.
+
+## POINTER 592
+Balfour
+
+## POINTER 593
+Returns spear to another dimention after battle.
+
+## POINTER 594
+Concentration
+
+## POINTER 595
+Increases concentration by 10.
+
+## POINTER 596
+TP Support
+
+## POINTER 597
+TP consumption split with Flynn when
+using base artes near him during battle.
+
+## POINTER 598
+Anger
+
+## POINTER 599
+All parameters increases when an ally is KO.
+Parameters returns to normal once revived.
+
+## POINTER 600
+No Artes Plus
+
+## POINTER 601
+Increases EXP earned for allies finishing battle
+without using any base or arcane artes.
+
+## POINTER 602
+No Escape
+
+## POINTER 603
+Occasionally prevents enemy from escaping.
+
+## POINTER 604
+OVL Support
+
+## POINTER 605
+If Flynn in on standby, he will cheer from outside
+the battlefield, boosting the Over Limit gauge.
+
+## POINTER 606
+HP Recover
+
+## POINTER 607
+Increases the amount of HP recovered.
+
+## POINTER 608
+TP Recover
+
+## POINTER 609
+Increases the amount of TP recovered.
+
+## POINTER 610
+Rebirth
+
+## POINTER 611
+Gradually recover HP equal to half the
+amount of the last damage received.
+
+## POINTER 612
+Rebirth 2
+
+## POINTER 613
+Gradually recover HP equal to 1/4 of the
+amount of the last combo damage received.
+
+## POINTER 614
+Lucky Soul
+
+## POINTER 615
+Occasionally recover TP when knocked
+to the ground.
+
+## POINTER 616
+Stat Boost
+
+## POINTER 617
+Increases the effect of magical status boosts.
+
+## POINTER 618
+Sleep 'n Heal
+
+## POINTER 619
+Gradually recovers HP while under Sleep
+status.
+
+## POINTER 620
+Auto Medicine
+
+## POINTER 621
+Occasionally casts healing spells upon
+receiving damage.
+
+## POINTER 622
+Spirit Absorb
+
+## POINTER 623
+Occasionally recovers the same amount of TP
+used to cast a spell when hit by a magic attack.
+
+## POINTER 624
+Lucky Call
+
+## POINTER 625
+Occasionally revives from KO when
+Luck is over 100.
+
+## POINTER 626
+Resurrect
+
+## POINTER 627
+Occasionally revive from KO automatically.
+
+## POINTER 628
+Angel's Tear
+
+## POINTER 629
+Automatically revive from KO once per battle.
+
+## POINTER 630
+Loner
+
+## POINTER 631
+All status increases if last one standing on
+the battlefield.
+
+## POINTER 632
+Lovely Dog
+
+## POINTER 633
+All status increases with Repede in the
+active party.
+
+## POINTER 634
+Chivalry
+
+## POINTER 635
+Parameters increase according to the
+number of female allies in battle.
+
+## POINTER 636
+Hunter 2
+
+## POINTER 637
+Increases EXP earned after defeating an
+aerial enemy. (Applies to all allies in party.)
+
+## POINTER 638
+Rod
+
+## POINTER 639
+Reduces artes TP consumption when a rod
+is equipped.
+
+## POINTER 640
+Lucky Spear
+
+## POINTER 641
+Occasionally increases the amount of EXP
+earned when a spear is equipped.
+
+## POINTER 642
+OVL Bonus
+
+## POINTER 643
+Occasionally fully restores HP during
+Over Limit.
+
+## POINTER 644
+OVL Bonus 2
+
+## POINTER 645
+Occasionally fully restores TP during
+Over Limit.
+
+## POINTER 646
+OVL Relax
+
+## POINTER 647
+Fills the OVL gauge gradually by not doing
+anything in battle.
+
+## POINTER 648
+Taunt
+
+## POINTER 649
+Taunt with <06>(RTN) to fill the Over Limit
+gauge. Action differs from Taunt 2.
+
+## POINTER 650
+Taunt 2
+
+## POINTER 651
+Taunt with <06>(RTN) to fill the Over Limit
+gauge. Action differs from Taunt.
+
+## POINTER 652
+OVL Taunt
+
+## POINTER 653
+Taunt during Over Limit to recover HP.
+
+## POINTER 654
+OVL Taunt 2
+
+## POINTER 655
+Taunt during Over Limit to recover TP.
+
+## POINTER 656
+Appeal Target
+
+## POINTER 657
+Increases the chance of being targeted
+by enemies with Taunt.
+
+## POINTER 658
+Temptation
+
+## POINTER 659
+Occasionally inflict Confusion on enemy
+by taunting.

@@ -1,0 +1,101 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS23_047)What is going on here?
+
+## POINTER 1
+<STR>(FRE)
+<VOICE>(VS23_048)<STR>(YUR)... Protect 
+Her Highness...
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS23_049)<STR>(YUR)! Look!
+
+## POINTER 3
+Witcher
+<VOICE>(VS23_052)This way, foul fiend!
+
+## POINTER 4
+Sodia
+<VOICE>(VS23_053)Why is it just ignoring us?
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS23_054)Is it coming for...me?
+
+## POINTER 6
+<STR>(FRE)
+<VOICE>(VS23_055)The Commandant... 
+But why is he here...?
+
+## POINTER 7
+Alexei
+<VOICE>(VS23_056)Our finest Knights...!<PAGE><VOICE>(VS23_057)I am left with no choice...
+
+## POINTER 8
+Alexei
+<VOICE>(VS23_058)We will stop this beast with 
+the help of Heracles!
+
+## POINTER 9
+Alexei
+<VOICE>(VS23_059)<STR>(YUR), wait! There's nothing 
+more you can do!
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS23_060)Hah! You expect me to stand 
+by while that thing makes 
+a snack out of <STR>(EST_P)?!
+
+## POINTER 11
+
+<VOICE>(VS23_061)The insipid poison of this 
+world must be purged.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS23_062)It can speak...! 
+Wh-who are you...?!
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS23_063)<STR>(YUR)!
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS23_064)You're safe.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS23_065)What is that...?
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS23_066)Heracles...
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS23_067)Whoa, we've gotta get out of here!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS23_068)I'm going to leave the city 
+and continue my journey.
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS23_069)What do you mean?
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS23_070)If you're going back to the capital, 
+you shouldn't keep <STR>(FRE) waiting.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS23_071)It's for you to decide.
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS23_072)Then, I...

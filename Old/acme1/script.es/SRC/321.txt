@@ -1,0 +1,68 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(JUD)
+Oh, ¿vas a alguna parte?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298404935]
+<STR>(YUR)
+No, tan solo voy a dar un paseo.<PAGE>¿Y tú qué?
+¿De dónde vienes?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(JUD)
+Le he ido a echar un vistazo
+al desierto al que vamos.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(YUR)
+No nos viene mal preparnos para eso.
+¿Qué pinta tiene la cosa?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(JUD)
+Hacía calor.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(YUR)
+Bueno, eso estaba cantado.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(JUD)
+Pero... no hacía
+tanto como pensaba.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298404935]
+<STR>(YUR)
+Mmm... Bueno, vale. Pero
+a mí me gustaría saber
+si Phaeroh anda por ahí.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(JUD)
+Sí... eso estaría bien.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(YUR)
+En fin, supongo que no iba
+a ser tan fácil de encontrar.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(JUD)
+...
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(YUR)
+¿Qué pasa?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298404935]
+<STR>(JUD)
+¿Quieres comprobarlo
+por ti mismo?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(YUR)
+No, así ya me vale.<PAGE>Si vamos a ir a buscarlo,
+mejor hacerlo todos juntos.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279527896]
+<STR>(JUD)
+Oh, entiendo.

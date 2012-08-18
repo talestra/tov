@@ -1,0 +1,75 @@
+## POINTER 0
+<STR>(EST)
+<VOICE>(VS03_182)...!
+It really worked!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS03_183)What do we have here? Looks 
+like the old man was right...
+
+## POINTER 2
+<STR>(EST)
+<VOICE>(VS03_184)Do you think this will lead outside?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS03_185)I can't guarantee it.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS03_186)Well, I'm going down. How about you?
+
+## POINTER 5
+<STR>(EST)
+<VOICE>(VS03_187)...I'm coming too.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS03_188)That's pretty brave of you.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS03_189)Who was that guy, anyway? There 
+was something shady about him.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS03_190)What is it? Did you 
+change your mind?
+
+## POINTER 9
+<STR>(EST)
+<VOICE>(VS03_191)No, your hand--it's injured. 
+Let me take a look at it.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS03_192)Hmm?
+
+## POINTER 11
+<STR>(EST)
+<VOICE>(VS03_193)Aaah!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS03_194)Hey, I'm sorry... I'd never 
+seen a blastia like that. 
+I-I wasn't thinking.
+
+## POINTER 13
+<STR>(EST)
+<VOICE>(VS03_195)That's really all it was?
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS03_196)That's really all it was. My 
+hand feels better... Thanks.
+
+## POINTER 15
+<STR>(EST)
+<VOICE>(VS03_197)...No, it's the least I could do.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS03_198)Okay, let's go.

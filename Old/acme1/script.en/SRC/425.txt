@@ -1,0 +1,220 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS40_500)The cataclysm... The Adephagos...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS40_501)If that legend's true, then 
+maybe the power of the 
+Child of the Full Moon...<PAGE><VOICE>(VS40_502)...isn't the only thing 
+to blame for bringing 
+up the Adephagos.
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS40_503)But what about the "hearing the 
+world's prayers, life faded from the 
+Children of the Full Moon" part?
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS40_504)Maybe they averted danger by 
+killing the cause of the Adephagos, 
+the Children of the Full Moon.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS40_505)B-but, wait...<PAGE><VOICE>(VS40_506)...aren't the Hermes 
+blastia the real cause? 
+Can't we just stop those?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS40_507)It might not be just 
+the Hermes blastia.<PAGE><VOICE>(VS40_508)That legend made it 
+sound like all blastia 
+disturb the world's aer.<PAGE><VOICE>(VS40_509)Right, <STR>(RIT)?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS40_510)The elder said that blastia 
+are blastia. There are no 
+normal ones or special ones.<PAGE><VOICE>(VS40_511)I think that means the only 
+thing that's different is how 
+much aer each formula uses.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS40_512)Even the blastia we're using?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS40_513)Bodhi blastia are special, but 
+all blastia utilize aer in a 
+formula. They're all the same...<PAGE><VOICE>(VS40_514)And formulas need 
+aer to work.<PAGE><VOICE>(VS40_515)The Hermes technique, the 
+Children of the Full Moon... They're 
+probably only part of the danger.<PAGE><VOICE>(VS40_516)With more and more blastia, the 
+Adephagos will awaken. This is 
+what the Entelexeia are afraid of.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS40_517)That's what I was 
+worried about.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS40_518)I didn't want to admit it...!<PAGE><VOICE>(VS40_519)Blastia couldn't be bad... 
+The people who used them 
+for evil were the bad ones.<PAGE><VOICE>(VS40_520)That's what I always believed... 
+But...I was wrong.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS40_521)So does that mean we 
+have to stop every blastia?<PAGE><VOICE>(VS40_522)Like the people 
+here in Myorzo did?
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS40_523)That's impossible. 
+We need blastia for 
+our everyday lives.<PAGE><VOICE>(VS40_524)Barrier blastia, aque blastia... 
+Bodhi blastia, too.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS40_525)Yeah, you're right...<PAGE><VOICE>(VS40_526)I couldn't take on 
+a really tough monster 
+if I didn't have this.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS40_527)Yeah...
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS40_528)I wish we could use 
+blastia without worrying  
+about consuming aer...<PAGE><VOICE>(VS40_529)But I guess that's 
+just a dream.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS40_530)The Rizomata Formula...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS40_531)What's that?
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS40_532)All things exist due to the 
+sublimation, reduction, formation,
+and dispersion of aer.<PAGE><VOICE>(VS40_533)Some think that a still undiscovered 
+theory could freely manipulate 
+those essential mechanisms of aer.<PAGE><VOICE>(VS40_534)Formulating that theory is the 
+ultimate goal of current magical 
+research by mages around the world.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS40_535)So that's the 
+Rizomata Formula?
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS40_536)If it's found, manipulating aer 
+will become so much easier.<PAGE><VOICE>(VS40_537)Of course, we need a formula to 
+reconstruct aer from power that 
+was originally converted from aer...<PAGE><VOICE>(VS40_538)But <STR>(EST_P)'s power is actually 
+directly manipulating aer.<PAGE><VOICE>(VS40_539)<STR>(EST_P) is the closest thing 
+to the Rizomata Formula.<PAGE><VOICE>(VS40_540)If we can use a formula 
+to interfere with and 
+neutralize <STR>(EST_P)'s power...
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS40_541)I don't really get it, but...<PAGE><VOICE>(VS40_542)...If you work out that 
+formula thing, then <STR>(EST_P) 
+can live in peace, right?
+
+## POINTER 22
+<STR>(JUD)
+<VOICE>(VS40_543)So by that logic, if we could control 
+the excess of aer, we could 
+prevent provoking the Adephagos.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS40_544)Awesome!
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS40_545)So, we're supposed to go looking 
+for some formula that researchers 
+all over the world can't find?<PAGE><VOICE>(VS40_546)Now you're really dreaming...
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS40_547)I will figure out this formula!<PAGE><VOICE>(VS40_548)For <STR>(EST_P)! And for me!
+
+## POINTER 26
+<STR>(RAV)
+<VOICE>(VS40_549)Yeah, you do that...
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VS40_550)Huh? <STR>(RAV), where 
+are you going?
+
+## POINTER 28
+<STR>(RAV)
+<VOICE>(VS40_551)For a walk. All this talk about 
+savin' the world, the ultimate 
+goal of magical research...<PAGE><VOICE>(VS40_552)This conversation's a 
+little much for ol' <STR>(RAV) 
+to keep up with.
+
+## POINTER 29
+<STR>(JUD)
+<VOICE>(VS40_553)That formula sounds nice 
+and all, but the aer is getting 
+worse as we're sitting here.
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS40_554)Yeah.<PAGE><VOICE>(VS40_555)For now, we have to find whoever 
+is making the Hermes blastia.<PAGE><VOICE>(VS40_556)Otherwise it'll be too late, 
+just like Phaeroh said.
+
+## POINTER 31
+<STR>(RIT)
+<VOICE>(VS40_557)But how are we supposed to find whoever that is?
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS40_558)If we follow whoever's looking for apatheia, 
+they should lead us right to them.<PAGE><VOICE>(VS40_559)Cores are made from apatheia, after all.
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS40_560)So <STR>(FRE) and Nan and their friends...
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS40_561)Yeah.
+
+## POINTER 35
+<STR>(KAR)
+<VOICE>(VS40_562)I wonder if we'll 
+have to...fight them...?
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS40_563)That's kind of up to them.
+
+## POINTER 37
+<STR>(RIT)
+<VOICE>(VS40_564)What was that?

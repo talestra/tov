@@ -1,0 +1,250 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS32_001)Pheew... We're finally here. 
+I've seen enough sand 
+to last me a lifetime.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS32_002)You're telling me.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS32_003)Look...there are people 
+outside the town...
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS32_004)Wonder if that means the 
+curfew's been lifted.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS32_005)Cumore...!
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS32_006)Easy now, haste makes waste.
+
+## POINTER 6
+Cumore
+<VOICE>(VS32_007)Hurry, hurry, all aboard. 
+Let's all enjoy a nice little 
+tour of the desert, shall we?
+
+## POINTER 7
+
+<VOICE>(VS32_008)But while we're gone, 
+the children...!
+
+## POINTER 8
+Cumore
+<VOICE>(VS32_009)I promise riches to anyone 
+who can bring me the remains 
+of that giant, winged monster.<PAGE><VOICE>(VS32_010)Then your children will be able 
+to live in the lap of luxury.
+
+## POINTER 9
+
+<VOICE>(VS32_011)Please, don't make us go!
+
+## POINTER 10
+Cumore
+<VOICE>(VS32_012)Stop your whining!
+I told you vermin 
+to get aboard!<PAGE><VOICE>(VS32_013)Now get moving 
+this instant!
+
+## POINTER 11
+
+<VOICE>(VS32_014)That's just how we were 
+sent into the desert.
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS32_015)The giant, winged monster 
+must be Phaeroh.
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VS32_016)Yeah, but what's he 
+want ta capture 
+Phaeroh so bad for?
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VS32_017)Well, what are we going to 
+do? We can't just stand by 
+and watch, can we?
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS32_018)I'll...
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS32_019)I'm afraid that idiot isn't 
+going to listen to anything 
+a princess would say.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS32_020)...Then what should we do?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS32_021)<STR>(KAR), c'mere a sec.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS32_022)What? Yeah, I could do 
+that...but I'd need tools... 
+Wait, you mean...?
+
+## POINTER 20
+<STR>(JUD)
+<VOICE>(VS32_023)Yes, perhaps this will help.
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS32_024)How convenient...
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS32_025)You guys better bail me 
+out if this goes bad.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS32_026)So you did pick that up.
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS32_027)Well, it was just 
+lying there. I thought 
+it might be useful.
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS32_028)..Whatever.
+
+## POINTER 26
+<STR>(RAV)
+<VOICE>(VS32_029)Now about all we can do 
+is leave it up to the kid.
+
+## POINTER 27
+Cumore
+<VOICE>(VS32_030)What is it with these commoners? 
+They're slower than slugs. 
+Get aboard, damn you!
+
+## POINTER 28
+
+<VOICE>(VS32_031)Sir Cumore, everyone 
+is aboard!
+
+## POINTER 29
+Cumore
+<VOICE>(VS32_032)Everyone except yourself.
+
+## POINTER 30
+
+<VOICE>(VS32_033)What? M-me...?
+
+## POINTER 31
+Cumore
+<VOICE>(VS32_034)Those who do their jobs 
+slowly will never learn 
+without punishment.
+
+## POINTER 32
+
+<VOICE>(VS32_035)Sir Cumore, please, I beg of you! 
+I have a wife and daughter...
+
+## POINTER 33
+Cumore
+<VOICE>(VS32_036)If you'd like to stay here...
+I'm sure I could arrange 
+for them to go in your place.
+
+## POINTER 34
+Cumore
+<VOICE>(VS32_037)Now, be gone with you!
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS32_038)<STR>(KAR).
+
+## POINTER 36
+<STR>(JUD)
+<VOICE>(VS32_039)Don't worry. That young 
+man is very capable.
+
+## POINTER 37
+Cumore
+<VOICE>(VS32_040)What's going on?! Who was it 
+that readied this coach?!
+
+## POINTER 38
+Cumore
+<VOICE>(VS32_041)Gaaah!! Fix the blasted 
+coach! I will find out 
+who's responsible for this!
+
+## POINTER 39
+<STR>(RIT)
+<VOICE>(VS32_042)I've gotta hand it 
+to the little runt.
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS32_043)You did it.
+
+## POINTER 41
+<STR>(KAR)
+<VOICE>(VS32_044)Whew... My heart was 
+pounding like a drum.
+
+## POINTER 42
+<STR>(RIT)
+<VOICE>(VS32_045)This won't do anything more than 
+buy us some time, though.
+
+## POINTER 43
+<STR>(JUD)
+<VOICE>(VS32_046)I think it's about all we 
+can do at the moment.
+
+## POINTER 44
+<STR>(YUR)
+<VOICE>(VS32_047)Yeah, Captain <STR>(KAR)'d start 
+crying if we tried to tackle 
+the Knights head on.
+
+## POINTER 45
+<STR>(RAV)
+<VOICE>(VS32_048)How 'bout we make ourselves 
+scarce before people start 
+gettin' too curious?
+
+## POINTER 46
+
+<VOICE>(VS32_049)I suppose we'll be on our way, then...
+
+## POINTER 47
+<STR>(YUR)
+<VOICE>(VS32_050)Yeah. I'm sure your kids will be so 
+happy to see you. But there won't 
+always be someone around to save you.
+
+## POINTER 48
+
+<VOICE>(VS32_051)Thank you again 
+for all your help.
+
+## POINTER 49
+<STR>(YUR)
+<VOICE>(VS32_052)Guess we should lay low 
+at the inn for a while.

@@ -1,0 +1,28 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1286375677]
+<STR>(KAR)
+¡No tiene escapatoria!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1286375618]
+<STR>(RIT)
+¡Miau!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294425914]
+<STR>(YUR)
+Nop, a este paso
+la gata va a huir.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1286375618]
+<STR>(EST_P)
+¡Miaaaaau!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1286375618]
+<STR>(YUR)
+¿De dónde ha salido?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1286375618]
+<STR>(RIT)
+¡Miau!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:miyu;time:1286375618]
+<STR>(KAR)
+¡Ya es nuestra!

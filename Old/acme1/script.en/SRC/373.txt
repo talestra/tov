@@ -1,0 +1,63 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS34_245)What's happening?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS34_246)<STR>(JUD_P)...?
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS34_247)Where is this power coming 
+from?! Is it the ceres blastia?
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS34_248)Yeah! We broke through!
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS34_249)What's the deal with 
+this formula...? I've never 
+seen anything like it.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS34_250)...What...?
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS34_251)What are you doing?!
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS34_252)No, stop!!
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS34_253)Why would you...?
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS34_254)...This is the path 
+I have chosen.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS34_255)You're that dragon freak!
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS34_256)<STR>(JUD_P)! Wait!
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS34_257)...Goodbye.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS34_258)<STR>(JUD)...?!
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS34_259)Why...? Why?!

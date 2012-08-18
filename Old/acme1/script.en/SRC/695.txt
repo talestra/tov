@@ -1,0 +1,356 @@
+## POINTER 0
+
+Some pretty flowers to give to your 
+parents? Or your sister? Or someone 
+you love...? Oh, you over there...<PAGE>Ah, it's you...
+
+## POINTER 1
+<STR>(EST_P)
+Aren't you the woman from the orphanage...?
+
+## POINTER 2
+<STR>(KAR)
+Ah, so you're actually a florist!
+
+## POINTER 3
+
+N-no... That's not 
+quite right...
+
+## POINTER 4
+<STR>(EST_P)
+Then why are you selling flowers...?
+
+## POINTER 5
+<STR>(JUD)
+...You need money, don't you?
+
+## POINTER 6
+
+W-well, you see...
+
+## POINTER 7
+<STR>(RIT)
+Ah, yes...now that Yeager's 
+gone, the orphanage doesn't 
+have any money?
+
+## POINTER 8
+
+Unfortunately, that's the case...we've actually 
+been renting the orphanage building from 
+a certain well-known man in town.<PAGE>But since we've stopped receiving 
+contributions from Yeager, we're 
+no longer able to pay that debt.<PAGE>The rent for the building aside, it takes 
+a lot of money to feed the children...
+
+## POINTER 9
+<STR>(RAV)
+But aren't some of the kids 
+out and workin' now?
+
+## POINTER 10
+
+They're all still struggling to make a living 
+for themselves. It would be far too much to 
+ask them for help with something like this.
+
+## POINTER 11
+<STR>(YUR)
+What about that pair of assertive young ladies from the orphanage?
+
+## POINTER 12
+
+Gauche and Droite are in the same situation.<PAGE>They were both working 
+for Yeager.<PAGE>But now that he's passed away, 
+they're probably having just 
+as hard a time as anybody.
+
+## POINTER 13
+
+...Oh, sir, would you like 
+to buy some flowers...?
+
+## POINTER 14
+<STR>(KAR)
+Is she really going to be able to 
+pay off their debt like that?
+
+## POINTER 15
+<STR>(YUR)
+Maybe she'll be able to make a 
+little profit, but I don't know 
+about paying off that debt...
+
+## POINTER 16
+<STR>(RIT)
+It kind of...hurts to 
+watch, doesn't it?
+
+## POINTER 17
+<STR>(EST_P)
+Please, take this. You should be able 
+to sell it for a good amount of money.
+
+## POINTER 18
+<STR>(YUR)
+Whoa, whoa, are you 
+sure it's okay to 
+give that away?
+
+## POINTER 19
+<STR>(EST_P)
+I'm just doing something 
+that the empire should've 
+done already. That's all.
+
+## POINTER 20
+<STR>(KAR)
+But if you give that away, won't that 
+mean you won't have any other proof 
+of being in the imperial family?
+
+## POINTER 21
+<STR>(EST_P)
+No, it's okay. Not 
+having this won't 
+change who I am.
+
+## POINTER 22
+<STR>(JUD)
+Before we go any further here, how 
+much is it that you need, exactly?
+
+## POINTER 23
+
+Let's see... 500,000 Gald 
+should be enough...
+
+## POINTER 24
+<STR>(JUD)
+We've got that much.
+
+## POINTER 25
+<STR>(KAR)
+I mean, I suppose we 
+have it, but it's still 
+a lot of dough...
+
+## POINTER 26
+<STR>(YUR)
+Yeah...
+
+## POINTER 27
+Pay 500,000 gald?
+Do not pay
+Pay
+
+## POINTER 28
+<STR>(YUR)
+We'll give you the 
+500,000 Gald.
+
+## POINTER 29
+<STR>(KAR)
+Wh-what are you saying...?
+
+## POINTER 30
+<STR>(RIT)
+Don't be such a scrooge!
+
+## POINTER 31
+
+But I can't just let 
+you give me so much 
+of your own money...
+
+## POINTER 32
+<STR>(YUR)
+We're not the ones 
+paying you.<PAGE>Isn't that right, <STR>(EST_P)?
+
+## POINTER 33
+<STR>(EST_P)
+Huh? Why me...?
+
+## POINTER 34
+<STR>(YUR)
+Didn't you say you were just 
+doing something that the empire 
+should've done already?<PAGE>So we're just spotting them the money until 
+they take responsibility for it themselves.
+
+## POINTER 35
+<STR>(EST_P)
+Huh? So you mean...
+
+## POINTER 36
+<STR>(YUR)
+Once you go back, see if you can 
+get the Council to pay us back for 
+giving the orphanage this money.
+
+## POINTER 37
+<STR>(EST_P)
+Y-yes...I'll 
+do it...!
+
+## POINTER 38
+
+What are you talking about...?
+
+## POINTER 39
+<STR>(YUR)
+This money is assistance from the empire, so you 
+can take it and not have to feel bad about it.
+
+## POINTER 40
+
+Ummm...well, I don't really 
+understand, but...
+
+## POINTER 41
+<STR>(YUR)
+...It's tough 
+to explain. You 
+do it, <STR>(KAR).
+
+## POINTER 42
+<STR>(KAR)
+What? M-me?
+
+## POINTER 43
+<STR>(YUR)
+You like explaining things, right?
+
+## POINTER 44
+<STR>(KAR)
+N-not particularly...but 
+I'll give it a go.
+
+## POINTER 45
+<STR>(KAR)
+She said she would work 
+hard and pay us back 
+for the money, but...
+
+## POINTER 46
+<STR>(YUR)
+The empire'll reimburse 
+us. Right, <STR>(EST_P)?
+
+## POINTER 47
+<STR>(EST_P)
+I'll ask Ioder about it. If 
+he refuses, then...I'm sorry.
+
+## POINTER 48
+<STR>(KAR)
+You're "sorry"...?!
+
+## POINTER 49
+<STR>(YUR)
+We'll cross that bridge when we come 
+to it. We're just asking you to twist 
+His Highness's arm a little.
+
+## POINTER 50
+<STR>(EST_P)
+I'll try 
+my best!
+
+## POINTER 51
+<STR>(YUR)
+Okay, let's go.
+
+## POINTER 52
+Information
+You paid 500,000 Gald.
+
+## POINTER 53
+<STR>(YUR)
+It's a lot of money. We don't have 
+to make a final decision just yet.
+
+## POINTER 54
+<STR>(KAR)
+...Well said, <STR>(YUR).
+
+## POINTER 55
+<STR>(EST_P)
+Then I guess the only solution 
+is if she takes my...
+
+## POINTER 56
+<STR>(YUR)
+No matter how much that's worth, it couldn't 
+possibly be enough, could it?
+
+## POINTER 57
+<STR>(EST_P)
+But...
+
+## POINTER 58
+<STR>(YUR)
+Don't rush things. Let's give some more 
+thought as to whether or not we could 
+still get by if we gave her the money.
+
+## POINTER 59
+<STR>(YUR)
+I'm sorry about not being 
+able to help out for now...
+
+## POINTER 60
+
+No, that's okay...
+
+## POINTER 61
+<STR>(JUD)
+That's quite a hefty sum. I'm afraid 
+we don't have that kind of money.
+
+## POINTER 62
+<STR>(EST_P)
+Then I guess the only solution is if she takes my...
+
+## POINTER 63
+<STR>(YUR)
+We can work hard 
+and save up that 
+much, right?
+
+## POINTER 64
+<STR>(EST_P)
+Wait, you don't mean...
+
+## POINTER 65
+<STR>(RIT)
+He means that we all understand 
+how you feel, <STR>(EST_P), and 
+we want to help. Right?
+
+## POINTER 66
+<STR>(YUR)
+...Well, yeah, you could say that.
+
+## POINTER 67
+<STR>(KAR)
+We'll come back when we've saved 
+up enough. Be patient!♪
+
+## POINTER 68
+
+What? I... I... 
+Really...?
+
+## POINTER 69
+
+Phew...what should I 
+do...? If I only had...500,000 
+Gald...
+
+## POINTER 70
+Pay 500,000 gald?
+Do not pay
+Pay

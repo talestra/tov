@@ -1,0 +1,95 @@
+## POINTER 0
+Sicily
+Ah, you have returned!
+
+## POINTER 1
+Barrelow X
+Professor Sicily! I've decided, 
+jarnk! I'm going to go with 
+these people, jarnk!
+
+## POINTER 2
+Barrelow X
+This boy begged me until 
+I agreed, jarnk!<PAGE>I didn't want to make 
+him cry, jarnk!
+
+## POINTER 3
+<STR>(KAR)
+That's not how I 
+remember it...
+
+## POINTER 4
+Sicily
+Oh really? Eccellente! Then 
+buona fortuna! Work hard! You 
+can come back anytime, eh?
+
+## POINTER 5
+Barrelow X
+Professor Sicily...
+
+## POINTER 6
+Sicily
+Well, he is 
+yours now...<PAGE>Feel free to give him 
+a new name if you like!
+
+## POINTER 7
+Barrelow X
+Huh...?!
+
+## POINTER 8
+<STR>(RAV)
+Hmmm, nothin' springs to mind...
+
+## POINTER 9
+<STR>(EST_P)
+He was originally named Barrelow X, 
+and he looks just like <STR>(KAR)...
+How about calling him <STR>(KAR)ow X?
+
+## POINTER 10
+<STR>(YUR)
+All right, it's decided.
+
+## POINTER 11
+Karolow X
+Just like that?!
+
+## POINTER 12
+<STR>(KAR)
+N-nice to meet you, <STR>(KAR)ow X!
+
+## POINTER 13
+Karolow X
+Uh, o-okay, jarnk. 
+From now on, I'll be 
+<STR>(KAR)ow X! Jarnk!
+
+## POINTER 14
+<STR>(JUD)
+Welcome to the party, <STR>(KAR)ow X!<PAGE>You can stay in <STR>(KAR)'s 
+bag. Okay?
+
+## POINTER 15
+Karolow X
+Why, jarnk? I can 
+walk by myself!
+
+## POINTER 16
+<STR>(JUD)
+Pretty please, with cherries on top?
+
+## POINTER 17
+Karolow X
+Wow! O-okay, jarnk!
+
+## POINTER 18
+<STR>(JUD)
+Ahh. Finally, some peace and 
+quiet. Okay, let's go now.
+
+## POINTER 19
+<STR>(KAR)
+......

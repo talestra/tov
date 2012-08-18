@@ -1,0 +1,166 @@
+## POINTER 0
+Rhianna
+Oh my... If it isn't <STR>(KAR).
+
+## POINTER 1
+<STR>(KAR)
+Hi there. It's been a while, hasn't it?
+
+## POINTER 2
+Rhianna
+And all of you...
+You're <STR>(KAR)'s friends, then?
+
+## POINTER 3
+<STR>(KAR)
+Miss Rhianna, I'd like you 
+to meet my new guildmates.
+
+## POINTER 4
+Rhianna
+I heard you've gone from guild to 
+guild. I think it's time for you to 
+grow up and commit to something.
+
+## POINTER 5
+<STR>(KAR)
+Um, actually, this time I'm 
+in it for the long haul...
+
+## POINTER 6
+Rhianna
+Oh you are? Well then, you must 
+finally have been blessed with a truly 
+understanding group of friends.
+
+## POINTER 7
+<STR>(KAR)
+Yeah, I have. And I heard 
+that you're engaged to be 
+married... Congratulations.
+
+## POINTER 8
+Rhianna
+Yes, that's right. 
+Thank you.
+
+## POINTER 9
+<STR>(YUR)
+Speaking of your high-strung 
+groom-to-be...
+
+## POINTER 10
+<STR>(EST_P)
+...I-I beg your pardon. He's actually 
+referring to the necklace given 
+to you by your fiance...
+
+## POINTER 11
+<STR>(JUD)
+You did say your father had 
+fashioned the necklace out 
+of Everlight himself, did you not?
+
+## POINTER 12
+Rhianna
+That's correct.
+
+## POINTER 13
+<STR>(KAR)
+We've heard that Everlight 
+can only be forged using 
+a very specific process.<PAGE>We were wondering how it was 
+your father might have come 
+to know such a thing...
+
+## POINTER 14
+Rhianna
+I'm afraid only my father 
+could answer that.
+
+## POINTER 15
+<STR>(RAV)
+Hmm. Any idea where we might 
+find him about now...?
+
+## POINTER 16
+Rhianna
+He is no longer with us, 
+unfortunately. He passed 
+away quite some time ago.
+
+## POINTER 17
+<STR>(KAR)
+Then, that means...
+
+## POINTER 18
+Rhianna
+He belonged to a metal-working 
+guild, though. Perhaps 
+they could help you.
+
+## POINTER 19
+<STR>(KAR)
+Really?!
+
+## POINTER 20
+<STR>(EST_P)
+Where could we find the other 
+members of that guild?
+
+## POINTER 21
+Rhianna
+Another continent lies across the 
+seas to the west of Dahngrest.
+
+## POINTER 22
+<STR>(KAR)
+That's the continent 
+of Yurzorea, right?
+
+## POINTER 23
+Rhianna
+Yes. A strange little town 
+exists on the continent's 
+northern-most reaches.<PAGE>I have never been myself, but they 
+called themselves the "Galactic 
+Gearbox" and have a shop there.
+
+## POINTER 24
+<STR>(KAR)
+Thanks a lot! 
+We owe you one!<PAGE>...Let's roll!
+
+## POINTER 25
+Rhianna
+Here now, <STR>(KAR). You 
+should know by now that 
+haste makes waste.
+
+## POINTER 26
+<STR>(KAR)
+Oops, um, sorry...
+
+## POINTER 27
+Rhianna
+I can't promise that my 
+father's guildmates will 
+know anything at all.
+
+## POINTER 28
+<STR>(KAR)
+That's okay! We'll just go see!
+
+## POINTER 29
+Rhianna
+Keep your friends close to you, 
+and give it your very best.
+
+## POINTER 30
+<STR>(KAR)
+I-I will!
+
+## POINTER 31
+Rhianna
+Please continue looking 
+after <STR>(KAR) for me.

@@ -1,0 +1,53 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS29_001)Seems like a pretty sleepy town.
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS29_002)Well, in this heat...
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS29_003)There are knights 
+even here, though.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS29_004)I don't recall seeing such 
+intimidating people here 
+the last time I came.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS29_005)All right, shall we each 
+go our own way for now?
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS29_006)I'm for that...Before I 
+do anything, I want to 
+give these feet a rest...
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS29_007)Okay then, let's meet up in 
+front of the inn after sunset.
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS29_008)Okay. See you then.
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS29_009)No easy thing lookin' 
+out for everybody else.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS29_010)Well, I think we all could use a 
+little time to think things over.
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS29_011)Hah hah hah. 
+The kids are all right.

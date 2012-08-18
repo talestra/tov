@@ -1,0 +1,50 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1251718134]
+Los Espadas Cazadoras
+
+## POINTER 1 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1264126301]
+(EST_P)
+¿Qué actividades tienen 
+los Espadas Cazadoras como gremio?
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531428]
+(KAR)
+Se dedican a cazar monstruos,
+como indica su nombre.
+
+## POINTER 3 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531428]
+(YUR)
+No es que haya escasez de monstruos
+una vez sales fuera de las barreras.
+
+## POINTER 4 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1264126301]
+(YUR)
+El negocio irá viento en popa.
+
+## POINTER 5 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531428]
+(KAR)
+Sí, desde luego reciben un montón de encargos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297112204]
+(KAR)
+Pero los Espadas Cazadoras no matan
+monstruos solo porque se lo pidan otros.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297112204]
+(KAR)
+Los monstruos son malignos. Y este mal debe castigarse.
+Ese es el credo de los Espadas Cazadoras.
+
+## POINTER 8 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531428]
+(YUR)
+Me pregunto si alguno de ellos lo hace
+por resentimiento hacia los monstruos.
+
+## POINTER 9 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266531428]
+(KAR)
+Oh, sí. Muchos de ellos. 
+Por ejemplo, mataron a los padres de Nan
+delante de ella cuando era pequeña.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297112204]
+(YUR)
+Vaya. Como para no guardarles rencor después de algo así.

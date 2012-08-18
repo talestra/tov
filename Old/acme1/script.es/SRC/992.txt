@@ -1,0 +1,167 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1291630551]
+Rhianna
+Oh, vaya. Pero si es <STR>(KAR).
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006366]
+<STR>(KAR)
+Hola. Cuánto tiempo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006366]
+Rhianna
+¿Y vosotros...
+sois amigos suyos?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1291630551]
+<STR>(KAR)
+Señorita Rhianna, me gustaría
+presentarle a mis compañeros del gremio.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291630551]
+Rhianna
+Me enteré de que ibas de gremio en
+gremio. Creo que ya va siendo hora
+de que madures y te comprometas a algo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1291630551]
+<STR>(KAR)
+Mm, la verdad es que esta vez
+pienso estar la tira de tiempo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006366]
+Rhianna
+Oh, ¿de verdad? Eso quiere decir
+que por fin has sido bendecido con
+un grupo de amigos de verdad.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1291630551]
+<STR>(KAR)
+Sí, eso es. Y yo me he
+enterado de que se va
+a casar. Felicidades.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1291630551]
+Rhianna
+Sí, es cierto.
+Gracias.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1295095044]
+<STR>(YUR)
+Y hablando del
+nerviosísimo novio...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006366]
+<STR>(EST_P)
+L-Le pido perdón.
+Se refiere al colgante
+que le dio su prometido.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1291631168]
+<STR>(JUD)
+Nos dijiste que tu padre
+creó un colgante de livianita,
+¿me equivoco?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1291631168]
+Rhianna
+Sí, exacto.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006366]
+<STR>(KAR)
+Hemos oído que la livianita
+solo se puede forjar usando
+un proceso muy específico.<PAGE>Nos preguntábamos
+cómo es que su padre
+lo conocía.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006366]
+Rhianna
+Me temo que solo él
+puede contestar a eso.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1291631168]
+<STR>(RAV)
+Mmm. ¿Y tienes alguna idea
+de dónde está ahora?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1291631168]
+Rhianna
+Por desgracia, ya no está
+entre nosotros. Falleció
+hace bastante tiempo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1291631168]
+<STR>(KAR)
+Eso quiere decir que...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1291631168]
+Rhianna
+Pero perteneció a un gremio
+que trabajaba con metales.
+Quizá ellos os pueden ayudar.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1291631168]
+<STR>(KAR)
+¡¿De verdad?!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1291631168]
+<STR>(EST_P)
+¿Dónde podemos encontrar otros
+miembros de ese gremio?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1291631168]
+Rhianna
+En el continente que se encuentra
+al oeste de Dahngrest.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1291631168]
+<STR>(KAR)
+El continente de
+Yurzorea, ¿no?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006366]
+Rhianna
+Sí. Existe una pequeña ciudad
+bastante rara en la zona
+septentrional del continente.<PAGE>
+Jamás he estado allí, pero sé que
+se llaman «Caja de cambios galáctica»
+y que tienen una tienda allí.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1291631589]
+<STR>(KAR)
+¡Muchísimas gracias!
+¡Le debemos una!<PAGE>¡Vamos pa'llá!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1291631589]
+Rhianna
+Venga, <STR>(KAR). Ya deberías
+saber que no por mucho madrugar
+amanece más temprano.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006366]
+<STR>(KAR)
+Ups, perdón.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1291631589]
+Rhianna
+No os puedo asegurar que
+los compañeros de gremio
+de mi padre sepan algo.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1291631589]
+<STR>(KAR)
+¡No pasa nada! ¡Iremos a mirar!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1291631589]
+Rhianna
+No te separes de tus amigos
+y hazlo lo mejor que puedas.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006366]
+<STR>(KAR)
+¡Sí!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1291631589]
+Rhianna
+Por favor, seguid cuidando
+de <STR>(KAR) por mí.

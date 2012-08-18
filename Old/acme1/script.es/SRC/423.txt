@@ -1,0 +1,172 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(RIT)
+Aquí hay montones de blastias
+que no había visto nunca...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(YUR)
+Parece que era verdad aquello de que fueron
+los krityanos quienes los inventaron.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+<STR>(RIT)
+Sí... Resulta fácil creerlo
+después de ver todos estos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+<STR>(RAV)
+Sería una maravilla si descubriéramos
+aquín arguna manera de solucionar
+lo de tu poder, señorilla <STR>(EST_P).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(EST_P)
+Sí... Lo sería,
+pero...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(KAR)
+No funciona.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(RIT)
+No tiene núcleo. Es solo el cuerpo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+<STR>(JUD)
+Ya no se usan blastias en esta ciudad.
+Los que hay aquí son los desechos
+de hace mucho tiempo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(KAR)
+¿Por qué hicieron eso?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+Porque ese fue el camino
+que escogimos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+<STR>(JUD)
+Cuánto tiempo sin vernos, patriarca.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+¡Así que tú eres la causa
+del alboroto de ahí fuera!
+Has vuelto con nosotros.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(JUD)
+Estos chicos son humanos
+que viajan conmigo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+Mmpf.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+Esto es... un blastia,
+¿verdad?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(YUR)
+Sí. Es mi bodhi blastia.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+Mmmm. Creía que los moradores
+de la tierra habían dejado de
+usar blastias, como nosotros.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+<STR>(EST_P)
+¿Ustedes tampoco usan
+blastias por la fórmula
+que usan?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+Los blastias no se dividen en normales o especiales.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+Los blastias se crean aplastando aphátheias
+y procesando sus trozos para obtener núcleos,
+y mediante la absorción de aer...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981379]
+<STR>(RIT)
+¡Quieto parado! ¡¿Has dicho que
+los núcleos son trozos de apátheia?!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981379]
+En efecto. Así nos lo dicen los relatos.
+Al parecer, las apátheia eran demasiado
+poderosas en su estado primigenio.<PAGE>Incluso sin su poder, son piedras con
+un valor superior al de cualquier gema.
+<PAGE>Por eso se restringió su poder haciéndolas
+pedazos y grabando fórmulas, lo que también
+hizo que aumentara su número.<PAGE>Así es como cuentan las leyendas
+que se creaban los núcleos.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(YUR)
+Qué ironía, ¿no?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981379]
+<STR>(KAR)
+Sí...<PAGE>Las apátheia provienen de los
+entelechia, que odian los blastias.<PAGE>
+Y son necesarias para fabricarlos...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+<STR>(RAV)
+Pa mí que Phaeroh no nos contó
+ná de ellas porque le resultaba
+tó incómodo, ¿no sus parece?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(JUD)
+Patriarca, tengo muchas
+preguntas que hacerte.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+<STR>(YUR)
+Intentamos descubrir el papel
+que tuvieron los blastias
+en los tiempos antiguos.<PAGE>Y si los blastias portaron desastres
+a este mundo, saber cómo se detuvieron.<PAGE>Myorzo todavía conserva
+su folclore, ¿verdad?<PAGE>Quizá puedas contarnos lo que sabes.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+Mmpf. Muy bien.<PAGE>Trataremos mejor estos temas
+en mi casa. Por favor,
+entrad en ella y esperadme.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(RAV)
+Eh, oye, ¿ande vas?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+Estaba en mitad de mi paseo diario.
+Volveré a mi casa dentro de poco.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1283389487]
+<STR>(EST_P)
+...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981023]
+<STR>(YUR)
+Apátheia, blastias, distorsiones en el aer, 
+entelechia... Todo parece estar relacionado.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+<STR>(RIT)
+Puede que descubramos nuevas pistas cuando
+nos cuenten algo sobre el folclore krityano.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854479]
+<STR>(JUD)
+La casa del patriarca es el edificio
+que tiene el tejado de un color
+distinto al de los demás.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1284854487]
+<STR>(YUR)
+Entendido.

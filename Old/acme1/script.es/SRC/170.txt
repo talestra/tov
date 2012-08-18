@@ -1,0 +1,12 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272813707]
+<STR>(RAV)
+Anda, anda. Nus volvemos a ver.
+Me alegra ver que estáis bien. ¡Ta otra!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272813707]
+<STR>(RIT)
+¡Espera!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273396731]
+<STR>(KAR)
+¡Agh! ¡Hacia abajo no!

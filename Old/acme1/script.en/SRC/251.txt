@@ -1,0 +1,288 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS23_170)I hope we can find some 
+work to do now that we've 
+made our guild.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS23_171)Easy, tiger.<PAGE><VOICE>(VS23_172)...So, <STR>(EST_P)? What 
+are you gonna do?
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS23_173)I want to go looking for 
+that talking monster.<PAGE><VOICE>(VS23_174)If it was me he was after, 
+I want to find out why.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS23_175)Don't feel like you'll be able to 
+rest easy till you find out, huh?
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS23_176)But...how will you do that? 
+How can you look for a monster 
+if you have no idea where it is?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS23_177)I thought you were in 
+charge of all the 
+monster-related information.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS23_178)Don't ask me!
+Even I'd never seen 
+anything like that before.
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS23_179)That was no monster. 
+His name is Phaeroh.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS23_180)Do you know about him?
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS23_181)I saw him earlier when I was 
+traveling with my friend, and it was 
+my friend who knew his name.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS23_182)Why would your friend 
+know the name of something 
+like that?
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS23_183)Where did you see it?
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS23_184)It was on the Desier continent 
+in the Sands of Kogorh.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS23_185)That's the continent to the 
+southwest of Tolbyccia.<PAGE><VOICE>(VS23_186)The continent of Desier...the desert...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS23_187)You don't just go marching 
+off to a desert because 
+someone saw a monster.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS23_188)He's right, you know.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS23_189)I wonder if that fairy tale could be...
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS23_190)Fairy tale?
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS23_191)Something I read at the castle. 
+A tale about a monster that speaks 
+who lives in the Sands of Kogorh.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS23_192)There are always stories like that. 
+Like the one about the monster 
+in the sea who talks to people.
+
+## POINTER 20
+<STR>(JUD)
+<VOICE>(VS23_193)I think you've got it backwards.
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS23_194)Backwards?
+
+## POINTER 22
+<STR>(JUD)
+<VOICE>(VS23_195)Such creatures do exist, but they have 
+simply become the stuff of legend.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS23_196)It's like the saying, "where 
+there's smoke, there's fire."
+
+## POINTER 24
+<STR>(KAR)
+<VOICE>(VS23_197)Yeah but...are you thinking 
+of going all the way to a 
+place like that alone, <STR>(EST_P)?
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS23_198)Huh? Well, I...
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS23_199)If we don't keep up this little 
+bodyguard operation, she'll 
+really march off on her own.<PAGE><VOICE>(VS23_200)What do you think? 
+Let's take this as our 
+first guild assignment.
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VS23_201)Hey, you're right! We'd 
+be breaking our own laws 
+if we let her go alone.
+
+## POINTER 28
+<STR>(JUD)
+<VOICE>(VS23_202)That's right.
+
+## POINTER 29
+<STR>(KAR)
+<VOICE>(VS23_203)...But, if this is a real job, we'll 
+have to charge <STR>(EST_P) our fee.
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS23_204)We don't need to worry about 
+something like money, right?
+
+## POINTER 31
+<STR>(KAR)
+<VOICE>(VS23_205)Nope, no exceptions. Money is a 
+necessity for running a guild.
+
+## POINTER 32
+<STR>(EST_P)
+<VOICE>(VS23_206)Um...I'm afraid I'm a bit short 
+on funds at the moment...
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS23_207)In that case, why don't we just 
+figure something out later?
+
+## POINTER 34
+<STR>(EST_P)
+<VOICE>(VS23_208)I'll pay the fee, I promise. 
+So let's all go together!
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS23_209)Okay, looks like that settles it.
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS23_210)This way we can all continue the journey...
+
+## POINTER 37
+<STR>(KAR)
+<VOICE>(VS23_211)All right, Super Ultra Courageous 
+Braves, fall out!
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS23_212)Wh-what is that?
+
+## POINTER 39
+<STR>(KAR)
+<VOICE>(VS23_213)Huh? That's our guild's name!
+
+## POINTER 40
+<STR>(EST_P)
+<VOICE>(VS23_214)We can't go with that! 
+We need something easy to 
+say that has a real snap to it!
+
+## POINTER 41
+<STR>(KAR)
+<VOICE>(VS23_215)Oh, really? 
+Well...
+
+## POINTER 42
+<STR>(EST_P)
+<VOICE>(VS23_216)How about something 
+like...Brave Vesperia?<PAGE><VOICE>(VS23_217)It's the star that gives 
+off the brightest 
+light in the night sky...
+
+## POINTER 43
+<STR>(KAR)
+<VOICE>(VS23_218)The brightest star. Cool!
+
+## POINTER 44
+<STR>(YUR)
+<VOICE>(VS23_219)Brave Vesperia... Hmm. 
+I like it. Let's stick with that.
+
+## POINTER 45
+<STR>(KAR)
+<VOICE>(VS23_220)Okay! That settles it!
+
+## POINTER 46
+<STR>(KAR)
+<VOICE>(VS23_221)Let's get to Torim Harbor and 
+charter a boat! We're off on an ocean 
+voyage to the continent of Desier!
+
+## POINTER 47
+<STR>(YUR)
+<VOICE>(VS23_222)Didn't you want to take 
+a break at Heliord?
+
+## POINTER 48
+<STR>(KAR)
+<VOICE>(VS23_223)Aw, who needs it?
+
+## POINTER 49
+<STR>(YUR)
+<VOICE>(VS23_224)Either way, we can't get 
+to Torim without passing 
+through Heliord.
+
+## POINTER 50
+<STR>(EST_P)
+<VOICE>(VS23_225)I'd also like to see how they've 
+been doing since the blastia 
+went out of control.
+
+## POINTER 51
+<STR>(YUR)
+<VOICE>(VS23_226)Yeah, that was pretty crazy.
+
+## POINTER 52
+<STR>(KAR)
+<VOICE>(VS23_227)All right, we'll just stop 
+in for a quick look 
+around the city.
+
+## POINTER 53
+<STR>(EST_P)
+<VOICE>(VS23_228)Okay.
+
+## POINTER 54
+<STR>(YUR)
+<VOICE>(VS23_229)So first to Heliord, 
+then from Torim to 
+Desier by boat.
+
+## POINTER 55
+<STR>(KAR)
+<VOICE>(VS23_230)Okay, I'll try again... 
+Brave Vesperia, fall out!
+
+## POINTER 56
+<STR>(RAP)
+<VOICE>(VS23_231)Woof!

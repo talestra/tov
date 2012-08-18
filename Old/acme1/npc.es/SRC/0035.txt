@@ -1,0 +1,506 @@
+## POINTER 3500 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+No sé si estar agradecido o molesto.
+Qué sensación tan extraña.
+
+## POINTER 3501 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+Por fin te has despertado.
+¿Te encuentras bien?<PAGE>Te desmayaste en
+la entrada del pueblo.
+
+## POINTER 3502 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+No tienes que darme nada.<PAGE>Te traje aquí, y punto.
+
+## POINTER 3503 [t:1;r:1;ru:memnoch;user:Lia;time:1302190434]
+¿Estás buscando
+a tus amigos?
+Ya están fuera.
+
+## POINTER 3504 [t:1;r:1;ru:memnoch;user:Lia;time:1302190434]
+Bienvenidos, viajeros.
+Son 50 gald por noche.
+¿Os quedáis?
+
+## POINTER 3505 [t:1;r:1;ru:memnoch;user:Lia;time:1302190434]
+Gracias. Volved
+cuando queráis.
+
+## POINTER 3506 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+¿Mmm? ¿Ya te encuentras mejor?<PAGE>Puedes descansar
+todo lo que quieras.
+
+## POINTER 3507 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+No te vayas a desmayar
+otra vez, ¿vale?<PAGE>¡La próxima vez te cobraré
+el alojamiento! Je, je, je.
+
+## POINTER 3508 [t:1;r:1;ru:memnoch;user:kaene;time:1302199021]
+Lleváis ropas
+muy extrañas.<PAGE>Por aquí no se suele
+ver nada parecido.
+¿Venís de muy lejos?
+
+## POINTER 3509 [t:1;r:1;ru:memnoch;user:kaene;time:1302199021]
+¿La comida también
+es muy diferente?<PAGE>Me encantaría conocer
+recetas de los pueblos
+de donde venís.
+
+## POINTER 3510 [t:1;r:1;ru:memnoch;user:kaene;time:1302199021]
+Hace tanto calor... No hay
+sombra... Esta armadura es
+como estar en un horno...<PAGE>¿Hacer guardia aquí?
+Es una tortura...
+
+## POINTER 3511 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+Nuestra misión es proteger
+a los investigadores de
+Portal de Ruinas, pero...<PAGE>Yo creo que el calor
+nos matará antes...
+
+## POINTER 3512 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+¿Cuando podré...
+volver a casa?<PAGE>Juraron que... había una unidad
+de camino para sustituirnos...
+
+## POINTER 3513 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+Oye... Miedo me da
+pensarlo, pero...<PAGE>No crees que esto signifique
+que me hayan degradado, ¿verdad?
+
+## POINTER 3514 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+¡Ah! ¿Sois amigos
+del señor <STR>(FRE)?<PAGE>Preguntadme lo que sea.
+¡Me encantará contaros
+todo lo que sé!
+
+## POINTER 3515 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+Estamos investigando esta ruinas
+para saber por qué el comandante
+Alexei vino a estas tierras.<PAGE>Pero como la excavación de ruinas no
+está entre nuestras especialidades,
+hemos pedido ayuda a Portal de Ruinas.
+
+## POINTER 3516 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+Me da vergüenza reconocer que cada
+día se nos desmaya un Caballero.<PAGE>Mi compañero también se quedó
+inconsciente y se lo llevaron
+a Zaphias. Se esforzaba demasiado.
+
+## POINTER 3517 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+El monstruo raro que ha
+aparecido en el cielo...
+¿Tú qué crees que es?<PAGE>A mí esto me huele a situación de
+emergencia, pero así como están las
+cosas, no podemos hacer mucho...
+
+## POINTER 3518 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+Como la brigada de <STR>(FRE)
+es una unidad de asalto,
+visitamos mucho lugares.<PAGE>La verdad es que hacer
+guardia aquí no es muy
+divertido. Y qué calorazo...
+
+## POINTER 3519 [t:1;r:1;ru:memnoch;user:kaene;time:1302200660]
+El capitán <STR>(FRE) parece
+muy majo, pero exige mucho
+a sus compañeros.<PAGE>Claro que no te puedes
+quejar cuando ves lo
+mucho que se esfuerza él.
+
+## POINTER 3520 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210084]
+Últimamente no he visto otras
+unidades, y menos aún las
+que venían a sustituirnos.<PAGE>¿Habrán ido los demás
+Caballeros a enfrentarse
+a esa cosa del cielo?
+
+## POINTER 3521 [t:1;r:1;ru:memnoch;user:kaene;time:1302200660]
+He oído que nuestro
+capitán está al frente.<PAGE>No se habrá olvidado el señor
+<STR>(FRE) de nosotros por esa
+cosa del cielo, ¿verdad?
+
+## POINTER 3522 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210608]
+Supongo que a veces pasan cosas así
+de raras, como que los Caballeros
+Imperiales nos contraten para excavar.<PAGE>Se supone que estamos buscando pistas para
+conocer el motivo de un miembro suyo. ¿Crees
+que ha habido peleas internas entre ellos?
+
+## POINTER 3523 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210608]
+Sea como sea, lo que nosotros
+tenemos que hacer es cumplir con la
+investigación que nos han encargado.<PAGE>Las zonas que tenemos que investigar
+no son sencillitas, precisamente.
+Tendremos que cobrarles más...
+
+## POINTER 3524 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210608]
+Nuestras investigaciones iniciales
+han revelado una cosa. Estas ruinas
+son muy misteriosas...<PAGE>Creemos que deben tener unos mil
+años, pero no hemos podido identificar
+el motivo para este mal tiempo.
+
+## POINTER 3525 [t:1;r:1;ru:memnoch;user:kaene;time:1302201029]
+Aun suponiendo que se viniera
+abajo por algún monstruo...
+El tiempo es muy raro.<PAGE>¡Por el buen nombre
+de Portal de Ruinas,
+resolveremos el misterio!
+
+## POINTER 3526 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210608]
+Mmm... Estas ruinas
+me tienen intrigado.<PAGE>Por el estado de los fragmentos de piedra,
+se ve que es un lugar muy antiguo...
+Puede que tenga hasta unos mil años.
+
+## POINTER 3527 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210608]
+Por estos fragmentos, creo que
+podemos deducir que este lugar fue
+destruido por causas exteriores.<PAGE>Aún no había blastias, así que
+la destrucción la pudo causar
+el ataque de algún monstruo...
+
+## POINTER 3528 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210608]
+Estas ruinas son muy raras...
+Pero sin duda aquí vivía gente.<PAGE>Hemos encontrado restos
+que lo demuestran.
+
+## POINTER 3529 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210608]
+También hay pedazos de edificios.
+Los monstruos no tienen habilidades
+arquitectónicas, ¿verdad?<PAGE>Yo diría que esto era un
+emplazamiento krityano...
+
+## POINTER 3530 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210608]
+Nuestra próxima función será
+«Los bandidos honrados», como
+lo hacían los Alas Oscuras.<PAGE>Por favor, ten paciencia
+hasta que terminemos
+de prepararlo todo.
+
+## POINTER 3531 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210608]
+El escenario principal
+está más adelante.<PAGE>Allí podrás ver
+las funciones.
+
+## POINTER 3532 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Vuelve cuando
+quieras, ¿vale?
+
+## POINTER 3533 [t:1;r:1;ru:memnoch;user:kaene;time:1302201459]
+Bienvenido,
+adelante, venga.<PAGE>Anda, echa un vistazo.
+
+## POINTER 3534 [t:1;r:1;ru:memnoch;user:kaene;time:1302201459]
+Seguro que esto
+es nuevo para ti.<PAGE>Si quieres, te puedo
+dar clases. ♪
+
+## POINTER 3535 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Los buenos tiempos,
+los buenos tiempos.<PAGE>Eso sí que me
+trae recuerdos.
+
+## POINTER 3536 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210608]
+Bueno... Quería
+decir algo así.<PAGE>Me siento muy distinto
+con este disfraz.
+
+## POINTER 3537 [t:1;r:1;ru:memnoch;user:kaene;time:1302201459]
+Mmm, el festival para la gente de clase
+baja es más divertido de lo que pensaba.<PAGE>Su mundo es muy
+diferente del mío...
+
+## POINTER 3538 [t:1;r:1;ru:memnoch;user:memnoch;time:1303210608]
+¡He visto sus funciones miles de
+veces y no hay manera de cansarme!<PAGE>¡Aah! ¡Quiero verlos
+actuar una y otra vez!
+
+## POINTER 3539 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209351]
+¿Os habéis enterado?
+¡El gremio de teatro, El Espectáculo,
+ha venido a representar una función!<PAGE>Son famosos porque las
+entradas son muy difíciles
+de conseguir.
+
+## POINTER 3540 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209351]
+¡Ahí, ahí, es ahí!
+¡Venga, date prisa!<PAGE>¡No me mires así!
+
+## POINTER 3541 [t:1;r:1;ru:memnoch;user:Lia;time:1302335111]
+¡Aquí, aquí!
+¡La (C) Estatua M
+está aquí!<PAGE>¿Cuántas veces más?
+¿Dos? ¿Tres? O... Mmmm...
+
+## POINTER 3542 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209351]
+Voy a llevar esto puesto
+al baile de esta noche.<PAGE>Aunque solo es un
+bon odori, pero bueno...
+
+## POINTER 3543 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209351]
+Ji, ji, ji.
+¿A que es mono
+mi vestido?<PAGE>Lo he cogido en secreto de
+la habitación de disfraces.
+¡No se lo digas a nadie!
+
+## POINTER 3544 [t:1;r:1;ru:memnoch;user:Lia;time:1302776581]
+¡Es una técnica de patinaje!
+
+## POINTER 3545 [t:1;r:1;ru:memnoch;user:kaene;time:1302202084]
+No es muy rentable...
+
+## POINTER 3546 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Quiero pescar carpitas, pero
+también quiero fideos fritos
+o quizá un poco de pizza...
+
+## POINTER 3547 [t:1;r:1;ru:memnoch;user:kaene;time:1302202084]
+¡Hay tanto donde elegir! ∀
+
+## POINTER 3548 [t:1;r:1;ru:memnoch;user:kaene;time:1302202237]
+Esto está hecho con
+el mejor material.<PAGE>¿Qué te parece?
+Mola, ¿eh?
+
+## POINTER 3549 [t:1;r:1;ru:memnoch;user:kaene;time:1302202237]
+Una armadura que cubre todo el
+cuerpo pesa mucho, pero esta
+tiene el peso perfecto.<PAGE>Me entran ganas de ir
+a matar monstruos.
+
+## POINTER 3550 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+Un 8, ¿eh?
+Ese es chungo.<PAGE>Podría ser MENOR, pero
+también podría ser MAYOR...
+
+## POINTER 3551 [t:1;r:1;ru:memnoch;user:Lia;time:1302336188]
+¿Ein? Pues claro
+que estoy hablando
+del juego de cartas.<PAGE>Hay una trampa después de
+varios aciertos seguidos.
+
+## POINTER 3552 [t:1;r:1;ru:memnoch;user:Lia;time:1302336188]
+Este examen
+lo puedes hacer
+con tus apuntes.<PAGE>Quizá creas que será pan comido,
+pero eso quiere decir que será muy chungo.
+
+## POINTER 3553 [t:1;r:1;ru:memnoch;user:kaene;time:1302202237]
+¡Voy a sacarme el
+doctorado Mishica!
+
+## POINTER 3554 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+¡Guau!
+
+## POINTER 3555 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Guau, guau.
+
+## POINTER 3556 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+¿Miau?
+
+## POINTER 3557 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Miau, miau. ¿Miau?
+
+## POINTER 3558 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Miau...
+
+## POINTER 3559 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Miauuu...
+
+## POINTER 3560 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+¡Guau, guau!
+
+## POINTER 3561 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Guau...
+
+## POINTER 3562 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+Podemos vivir
+sin blastias.<PAGE>Mientras tenga su amor,
+no necesito nada más.
+
+## POINTER 3563 [t:1;r:1;ru:memnoch;user:kaene;time:1302284168]
+Su amor me completa en cuerpo
+y alma. Estoy seguro de que
+ella siente lo mismo.
+
+## POINTER 3564 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+Me alegra que haya
+construido una casa para mí,
+pero... es solo una tienda.<PAGE>Hubiera preferido una
+cabaña de madera, como
+esa de ahí...
+
+## POINTER 3565 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+Una tienda... Bueno, supongo
+que es mejor que acampar al
+raso como estos últimos días.
+
+## POINTER 3566 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+¿Qué va a pasar? He oído que los
+blastias dejarán de funcionar...
+Tengo tanta hambre...<PAGE>Este chico solo habla de
+amor, amor y amor...
+Pero eso no lo es todo.
+
+## POINTER 3567 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+Más que amor... hace falta
+dinero. ¡Eso es! Este chico
+tiene dinero, ¿verdad?<PAGE>Está un poco tocado,
+pero creo que lo
+podré soportar...
+
+## POINTER 3568 [t:1;r:1;ru:memnoch;user:kaene;time:1302284443]
+¡Vuelve cuando quieras!
+
+## POINTER 3569 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Ahora estamos a tope
+de mercancías. ¡No habrá
+más inconvenientes!
+
+## POINTER 3570 [t:1;r:1;ru:memnoch;user:kaene;time:1302284443]
+Todo gracias al
+apoyo que nos dio
+Fortuna Mercantil.
+
+## POINTER 3571 [t:1;r:1;ru:memnoch;user:kaene;time:1302284443]
+Uff, mi mujer aún
+se sigue quejando.
+¡No lo aguanto!<PAGE>Esta mujer no se rinde...
+Y eso que ya se ha
+acostumbrado a esto.
+
+## POINTER 3572 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Me olvido de las quejas
+de mi mujer cuando trabajo.
+¡No hay nada mejor!
+
+## POINTER 3573 [t:1;r:1;ru:memnoch;user:kaene;time:1302284788]
+Supongo que es así como
+la gente forma vínculos.
+
+## POINTER 3574 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+Nunca debería haber crisis
+en el mundo, pero este pueblo
+nació de una situación difícil.
+
+## POINTER 3575 [t:1;r:1;ru:memnoch;user:kaene;time:1302284788]
+Puede que aún haya algunos
+monstruo merodeando por
+el distrito residencial.<PAGE>Nos quedaremos aquí hasta que
+podamos confirmar que es seguro.
+
+## POINTER 3576 [t:1;r:1;ru:memnoch;user:kaene;time:1302284788]
+Vamos a mantener a
+salvo este pueblo.
+
+## POINTER 3577 [t:1;r:1;ru:memnoch;user:kaene;time:1302284788]
+Toda vida lleva
+dolor consigo.
+
+## POINTER 3578 [t:1;r:1;ru:memnoch;user:kaene;time:1302284788]
+Pero el árbol de Halure lo soporta
+todo con paciencia infinita.
+
+## POINTER 3579 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+La mayoría de gente
+está en cama, enferma.<PAGE>Quizás esté pasando algo
+raro. Parece que soy el
+único que sigue bien.
+
+## POINTER 3580 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Todos cayeron enfermos
+cuando apareció esa torre.
+
+## POINTER 3581 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+¡Guau!
+
+## POINTER 3582 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Guau. ♪
+
+## POINTER 3583 [t:1;r:1;ru:memnoch;user:kaene;time:1302284788]
+Oye, ¿no estabas
+jugando al pilla-pilla
+con los Caballeros?
+
+## POINTER 3584 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+Oye, ¿por qué no te unes a
+la Fuerza de Defensa de <STR>(FRE)?<PAGE>Ji, ji. Yo soy la fundadora.
+
+## POINTER 3585 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+Le he observado durante un tiempo,
+y formé la Fuerza de Defensa
+cuando lo ascendieron a capitán.<PAGE>Nuestras actividades principales
+son apoyar a todo en <STR>(FRE) y
+hablar con otros miembros.
+
+## POINTER 3586 [t:1;r:1;ru:memnoch;user:kaene;time:1302285375]
+Estaba muy preocupada
+sin la barrera.<PAGE>No sé qué habría pasado si
+no la hubieran arreglado.
+
+## POINTER 3587 [t:1;r:1;ru:memnoch;user:memnoch;time:1303209185]
+Tengo que darle las gracias a quien
+quiera que arreglara la barrera.
+
+## POINTER 3588 [t:1;r:1;ru:memnoch;user:memnoch;time:1303493125]
+Dicen que el joven
+<STR>(FRE) ha fundado
+un pueblo en Hypionia.<PAGE>¿Irás allí para unirte
+a él, <STR>(YUR)?
+
+## POINTER 3589 [t:1;r:1;ru:memnoch;user:kaene;time:1302285689]
+Me gustaría mucho ir,
+pero viajar tan lejos
+con la edad que tengo...
+
+## POINTER 3590 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+Todo esto es culpa de la familia
+imperial. No han cumplido su deber
+como nuestros protectores.
+
+## POINTER 3591 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+No tengo miedo.
+No tengo miedo...<PAGE>Puedo hacerlo.
+Puedo hacerlo...
+
+## POINTER 3592 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+He de-dejado mi vida en
+Zaphias para venir aquí.<PAGE>Unos pocos monstruos n-no
+me van a-a amedrentar...
+
+## POINTER 3593 [t:1;r:1;ru:memnoch;user:memnoch;time:1303213918]
+¡¿L-Los monstruos andan sueltos?!<PAGE>¡Argh! ¡T-Tengo miedo!
+
+## POINTER 3594 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+¡¿Qué pasa arriba?!
+Pongamos pies en polvorosa...<PAGE>¡Oh! No puedo mover las piernas...
+
+## POINTER 3595 [t:1;r:1;ru:memnoch;user:kaene;time:1302285689]
+Soy fuerte... sí, muy fuerte.
+Soy el más fuerte del mundo...
+¡No! ¡Del universo!
+
+## POINTER 3596 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Pero... por mucho que me dé ánimos,
+nunca he sido demasiado fuerte...
+Vaya por Dios...
+
+## POINTER 3597 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+No, no, no. Me da igual que estés
+desesperado. Vuelve a probarlo
+cuando tengas el estatus adecuado.<PAGE>No tendrías problemas si
+fueras, por decirte algo,
+comandante de los Caballeros.
+
+## POINTER 3598 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Esta salida es
+solo para nobles.<PAGE>No puedes salir por
+aquí. No, no y no.
+
+## POINTER 3599 [t:1;r:1;ru:memnoch;user:memnoch;time:1303208821]
+Bueno... Supongo que
+te podría dejar pasar
+si fueras famoso...

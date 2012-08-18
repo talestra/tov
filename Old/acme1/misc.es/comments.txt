@@ -1,0 +1,604 @@
+## COMMENT 0010_08
+Localizaciones Debug 2 (9/13)
+
+## COMMENT 0010_07
+Localizaciones Debug 2 (8/13)
+
+## COMMENT 0010_06
+Localizaciones Debug 2 (7/13)
+
+## COMMENT 0010_05
+Localizaciones Debug 2 (6/13)
+
+## COMMENT 0010_04
+Localizaciones Debug 2 (5/13)
+
+## COMMENT 0010_03
+Localizaciones Debug 2 (4/13)
+
+## COMMENT 0010_02
+Localizaciones Debug 2 (3/13)
+
+## COMMENT 0010_01
+Localizaciones Debug 2 (2/13)
+
+## COMMENT 0010_00
+Localizaciones Debug 2 (1/13)
+
+## COMMENT 0009_05
+Localizaciones Debug 1 (6/6)
+
+## COMMENT 0009_04
+Localizaciones Debug 1 (5/6)
+
+## COMMENT 0009_03
+Localizaciones Debug 1 (4/6)
+
+## COMMENT 0009_02
+Localizaciones Debug 1 (3/6)
+
+## COMMENT 0009_01
+Localizaciones Debug 1 (2/6)
+
+## COMMENT 0009_00
+Localizaciones Debug 1 (1/6)
+
+## COMMENT 0008_03
+Nombres de enemigos (4/4)
+
+0008_03_0306 y 0008_03_0307 son muy largos, igual no caben --Parsec
+
+## COMMENT 0008_02
+Nombres de enemigos (3/4)
+
+## COMMENT 0008_01
+Nombres de enemigos (2/4)
+
+## COMMENT 0008_00
+Nombres de enemigos (1/4)
+
+0008_00_0057  a partir de ahí hay algunos nombres de materiales que parecen francés, los he traducido --Parsec
+
+Erungar, Jugen, Johann, etc. no sé si son nombres propios o genéricos (si fuera el segundo caso sería "Recuerdo de erungar" etc. en minúscula), así que por ahora los dejo como si fueran personajes únicos, y por lo tanto en mayúscula. --heston
+
+## COMMENT 0007_05
+Localizaciones (6/6)
+
+## COMMENT 0007_04
+Localizaciones (5/6)
+
+## COMMENT 0007_03
+Localizaciones (4/6)
+
+## COMMENT 0007_02
+Localizaciones (3/6)
+
+## COMMENT 0007_01
+Localizaciones (2/6)
+
+## COMMENT 0007_00
+Localizaciones (1/6)
+
+## COMMENT 0006_01
+Menú organización batalla (2/2)
+
+## COMMENT 0006_00
+Menú organización batalla (1/2)
+
+## COMMENT 0005_07
+Habilidades (8/8)
+
+## COMMENT 0005_06
+Habilidades (7/8)
+
+## COMMENT 0005_05
+Habilidades (6/8)
+
+## COMMENT 0005_04
+Habilidades (5/8)
+
+## COMMENT 0005_03
+Habilidades (4/8)
+
+## COMMENT 0005_02
+Habilidades (3/8)
+
+## COMMENT 0005_01
+Habilidades (2/8)
+
+## COMMENT 0005_00
+Habilidades (1/8)
+
+## COMMENT 0004_08
+Artes y descripciones (9/14)
+
+En esta habitación vuelve a haber hechizos de Raven --Parsec
+
+También aparecen las artes de Flynn. Ojo que tiene bastantes ataques clásicos de la saga --Xander
+
+## COMMENT 0004_07
+Artes y descripciones (8/14)
+
+## COMMENT 0004_06
+Artes y descripciones (7/14)
+
+Video con las artes de Repede: http://www.youtube.com/watch?v=pV0u2N5jtOo
+
+Brilliant Cataclysm = ¿Cataclismo radiante, brillante...?
+
+## COMMENT 0004_05
+Artes y descripciones (6/14)
+
+Video con las artes de Judith: http://www.youtube.com/watch?v=Hk7Xj0JuCmQ
+
+Video con las artes de Repede: http://www.youtube.com/watch?v=pV0u2N5jtOo
+
+## COMMENT 0004_04
+Artes y descripciones (5/14)
+
+Video con las artes de Raven: http://www.youtube.com/watch?v=WMMHWx1I85o
+
+Video con las artes de Judith: http://www.youtube.com/watch?v=Hk7Xj0JuCmQ
+
+## COMMENT 0004_03
+Artes y descripciones (4/14)
+
+Video con las artes de Rita: http://www.youtube.com/watch?v=zg3rYgaLtZk
+
+Video con las artes de Raven: http://www.youtube.com/watch?v=WMMHWx1I85o
+
+En 0004_03_0382. "Tractor Beam" se tradujo en la primera película de "Star Wars" como "Campo de tracción". De ahí lo saco. :P --Xander
+
+## COMMENT 0004_02
+Artes y descripciones(3/14)
+
+Video con las artes de Karol: http://www.youtube.com/watch?v=mXrCuwm7DIM
+
+Video con las artes de Rita: http://www.youtube.com/watch?v=zg3rYgaLtZk
+
+Creo que traducir tal cual "Overlord Reign Impact" (Impacto de reinado soberano") suena algo cutre, así que lo dejo como "Impacto soberano". Queda mejor, a mi parecer. -Xander
+
+0004_02_0357 los hechizos de Rita con nombres de nazis o matemáticos no cambiarlos porque los grita en batalla --Parsec
+
+## COMMENT 0004_01
+Artes y descripciones (2/14)
+
+http://www.youtube.com/watch?v=iPbxOimrjYg Artes de Estelle
+
+## COMMENT 0004_00
+Artes y descripciones (1/14)
+
+Video con las artes de Yuri: http://www.youtube.com/watch?v=jXMw378u89g
+
+## COMMENT 0003_05
+Textos menús, fin de batalla (6/6)
+
+## COMMENT 0003_04
+Textos menús, fin de batalla (5/6)
+
+## COMMENT 0003_03
+Textos menús, fin de batalla (4/6)
+
+## COMMENT 0003_02
+Textos menús, fin de batalla (3/6)
+
+## COMMENT 0003_01
+Textos menús, fin de batalla (2/6)
+
+## COMMENT 0003_00
+Textos menús, fin de batalla (1/6)
+
+Fuera puntos finales --Parsec
+
+## COMMENT 0002_00
+Nombres personajes (1/1)
+
+## COMMENT 0001_03
+Misc: Preguntas, opciones (4/4)
+
+## COMMENT 0001_02
+Misc: Preguntas, opciones (3/4)
+
+## COMMENT 0001_00
+Misc: Preguntas, opciones (1/4)
+
+## COMMENT 0001_01
+Misc: Preguntas, opciones (2/4)
+
+## COMMENT 0004_09
+Artes y descripciones (10/14)
+
+## COMMENT 0004_10
+Artes y descripciones (11/14)
+
+## COMMENT 0004_11
+Artes y descripciones(12/14)
+
+## COMMENT 0004_12
+Artes y descripciones (13/14)
+
+## COMMENT 0004_13
+Artes y descripciones (14/14)
+
+## COMMENT 0010_09
+Localizaciones Debug 2 (10/13)
+
+## COMMENT 0010_10
+Localizaciones Debug 2 (11/13)
+
+## COMMENT 0010_11
+Localizaciones Debug 2 (12/13)
+
+## COMMENT 0010_12
+Localizaciones Debug 2 (13/13)
+
+## COMMENT 0011_00
+Objetos (1/26)
+
+Seguid mis ejemplos y la traducción que se utilizó en el Abyss: http://wiki.tales-tra.com/Objetos_en_Tales_of_the_Abyss  --Parsec
+
+## COMMENT 0011_01
+Objetos (2/26)
+
+## COMMENT 0011_02
+Objetos (3/26)
+
+¿Blazor? --Parsec
+
+## COMMENT 0011_03
+Objetos (4/26)
+
+En el 0011_03_0499, "terra" debería ser traducido como Terra o como terra?
+
+## COMMENT 0011_04
+Objetos (5/26)
+
+## COMMENT 0011_05
+Objetos (6/26)
+
+## COMMENT 0011_06
+Objetos (7/26)
+
+## COMMENT 0011_07
+Objetos (8/26)
+
+No te fies demasiado de la wiki para traducciones oficiales de este tipo de términos. La gente tiende demasiado a ponerlo cómo lo dicen ellos. --Xander
+
+La Espada de Ivy según la wiki --Parsec
+
+El "Ivy Blade" es un cameo del arma del personaje de "Soul Calibur". Si alguien tiene uno de los juegos de la saga, que vea cómo está traducido. Aunque creo que lo dejaban en inglés. -Xander
+
+## COMMENT 0011_08
+Objetos (9/26)
+
+## COMMENT 0011_09
+Objetos (10/26)
+
+## COMMENT 0011_10
+Objetos (12/26)
+
+## COMMENT 0011_11
+Objetos (12/26)
+
+"Rare Guard" se traduce "Protector extraordinario" para mantener la traducción de "Tales of the Abyss", pero... ¿cómo traducimos entonces "Rare Protector"? -Xander
+
+## COMMENT 0011_12
+Objetos (13/26)
+
+## COMMENT 0011_13
+Objetos (14/26)
+
+## COMMENT 0011_14
+Objetos (15/26)
+
+WTF!!! En el 0011_14_2050 y 0011_14_2053 pone "fonist" y "scorist". Parece que ellos también han hecho copiar y pegar del "Tales of the Abyss". XD Lo pongo como "mago" y "hechicero". -Xander
+
+## COMMENT 0011_15
+Objetos (16/26)
+
+## COMMENT 0011_16
+Objetos (17/26)
+
+## COMMENT 0011_17
+Objetos (18/26)
+
+## COMMENT 0011_18
+Objetos (19/26)
+
+## COMMENT 0011_19
+Objetos (20/26)
+
+Los gentilicios creadlos poniendo un simple "de" delante. Ej: Hielo de Illycia
+
+## COMMENT 0011_20
+Objetos (21/26)
+Las pistas de la contraseña mejor verlas en contexto. A ver si podemos traducir o adaptar las palabras que sirven de pista. -Xander
+
+La contraseña es SOL, habrá que dejar una nota para que se introduzca en inglés como SUN --Parsec
+0011_20_2821 Referencia a ESDLA xd --Parsec
+
+Sobre las estatuas: la gracia es que el nombre tenga la misma letra que la estatua. Las he cambiado. Aviso en el foro para que se revisen -Kaene
+
+## COMMENT 0011_21
+Objetos (22/26)
+
+0011_21_2974 0011_21_2898 Dejad esas celdas para más adelante --Parsec
+
+## COMMENT 0011_22
+Objetos (23/26)
+
+Estos objetos son los accesorios que pueden llevar los personajes
+
+0011_22_3162 Silve=Silver, tiene pinta de ser error de los traductores --Parsec
+
+## COMMENT 0011_23
+Objetos (24/26)
+
+## COMMENT 0011_24
+Objetos (25/26)
+
+## COMMENT 0011_25
+Objetos (26/26)
+
+Juer, estos objetos no los he visto, igual son DLCs --Parsec
+
+Mucho me temo que son justo eso... --Xander
+
+## COMMENT 0015_00
+Nombres tiendas (1/1)
+
+Los nombres de las tiendas son nombres de estrellas, pongo las traducciones españolas.
+                                                                                 --Parsec
+
+## COMMENT 0016_00
+Comida (1/2)
+
+## COMMENT 0016_01
+Comida (2/2)
+
+¿Se me permite el guiño a "Portal" en 0016_01_0115? :P Si no, se pone "¡Está de muerte!" y a correr. -Xander
+Yo voto a FUCK YES al guiño xd --Heston
+
+## COMMENT 0018_00
+Textos en batalla (1/1)
+
+Son los mensajes que salen en batalla y en las estadísticas de después.
+Ej: http://www.youtube.com/watch?v=zOxH5QzZ66Q --Parsec
+
+0018_00_0035  He quitado la exclamación porque delante va el número y no se puede poner el "¡" Ver vídeo --Parsec
+
+## COMMENT 0019_00
+Nombres edificios y localizaciones (1/2)
+
+Los nombres de las tiendas son nombres de estrellas, pongo las traducciones españolas
+                                                                      --Parsec
+
+## COMMENT 0019_01
+Nombres edificios y localizaciones (2/2)
+
+## COMMENT 0020_00
+Mensajes final batalla (1/1)
+
+Están los mensajes de las misiones secretas que dan los logros xD
+Todo en pasado porque son mensajes de resumen de acciones, en caso de duda mirar
+el vídeo del boss correspondiente, están en orden. Quitar puntos finales --Parsec
+
+## COMMENT 0021_00
+Tienda de grado (1/1)
+
+## COMMENT 0022_00
+Títulos (1/4)
+
+## COMMENT 0022_01
+Títulos (2/4)
+
+## COMMENT 0022_02
+Títulos (3/4)
+
+## COMMENT 0022_03
+Títulos (4/4)
+
+## COMMENT 0023_00
+Diario (1/8)
+
+## COMMENT 0023_01
+Diario (2/8)
+
+## COMMENT 0023_02
+Diario (3/8)
+
+## COMMENT 0023_03
+Diario (4/8)
+
+## COMMENT 0023_04
+Diario (5/8)
+
+## COMMENT 0023_05
+Diario (6/8)
+
+## COMMENT 0023_06
+Diario (7/8)
+
+## COMMENT 0023_07
+Diario (8/8)
+
+¿Qué es esto de Vesperia Uno? No me acuerdo :-/ --Parsec
+
+El aparato inventado por Rita para destruir al adephagos. También sirve de mega bomba anti monstruos. Me da que es otro término para el glosario ("el Vesperia Uno", por ejemplo). --Xander
+
+## COMMENT 0024_00
+Minijuegos (1/3)
+
+## COMMENT 0024_01
+Minijuegos (2/3)
+
+## COMMENT 0024_02
+Minijuegos (3/3)
+
+## COMMENT 0025_00
+Títulos skits (1/5)
+
+Estas cinco habitaciones se traducirán cuando tengamos las skits muy revisadas --Parsec
+
+## COMMENT 0025_01
+Títulos skits (2/5)
+
+## COMMENT 0025_02
+Títulos skits (3/5)
+
+## COMMENT 0025_03
+Títulos skits (4/5)
+
+## COMMENT 0025_04
+Títulos skits (5/5)
+
+## COMMENT 0028_00
+Títulos de canciones de la BSO (1/1)
+
+La mayoría de los títulos están adaptados al inglés desde el japo y algunos no tienen nada que ver. Propongo comprobar los títulos originales de los temas y partir de ahí (Ver página 18 del post de decisión de términos en el foro). --Xander
+
+## COMMENT 0029_00
+Títulos de los vídeos pregrabados (CG y escenas de anime) (1/1)
+
+## COMMENT 0031_00
+Textos tutoriales (1/3)
+
+## COMMENT 0031_01
+Textos tutoriales (2/3)
+
+La traducción de los tipos de enemigos está en 0003_02, asegurarse durante la revisión de que concuerdan. --Parsec
+
+## COMMENT 0031_02
+Textos tutoriales (3/3)
+
+精神汚染, wat? xD 
+Oh, lol, el google la traduce como "Mental pollution" aka. "contaminación"--Parsec
+
+## COMMENT 0032_00
+Textos interacción objetos (1/3)
+
+re-revisar --parsec
+
+## COMMENT 0032_01
+Textos interacción objetos (2/3)
+
+En esta página aparecen muchas referencias a otros "Tales of", sobre todo "Tales of the Abyss". --Xander
+
+En el 0032_01_0113 pongo el "guiño" a la versión de PS3. Total, ya todo el mundo sabe de qué va la copla. XD También un poco de auto-bombo en el 0032_01_0111, que creo que podemos añadirlo y... ¡Qué narices! ¡Nos lo merecemos! XDDDDD --Xander
+
+## COMMENT 0032_02
+Textos interacción objetos (3/3)
+
+## COMMENT 0033_00
+Descripciones de localizaciones (1/7)
+
+## COMMENT 0033_01
+Descripciones de localizaciones (2/7)
+
+## COMMENT 0033_02
+Descripciones de localizaciones (3/7)
+
+## COMMENT 0033_03
+Descripciones de localizaciones (4/7)
+
+0033_03_0460 ¿Error de la traducción al inglés? --Parsec
+
+## COMMENT 0033_04
+Descripciones de localizaciones (5/7)
+
+[0033_04_0716] Confirmar que la "steamy area" es una zona lluviosa, que ahora no me acuerdo. -- Memnoch
+
+## COMMENT 0033_05
+Descripciones de localizaciones (6/7)
+
+## COMMENT 0033_06
+Descripciones de localizaciones (7/7)
+
+## COMMENT 0034_00
+Créditos (1/8)
+
+En la 0835, a&r quiere decir Artists and Repertoire, y es la división de una discográfica encargada de encontrar nuevos talentos y demás, así que lo dejamos así --Heston
+
+## COMMENT 0034_01
+Créditos (2/8)
+
+## COMMENT 0034_02
+Créditos (3/8)
+
+¿El equipo artístico del juego estaba compuesto por chinos? ¡Ver para creer!
+
+## COMMENT 0034_03
+Créditos (4/8)
+
+## COMMENT 0034_04
+Créditos (5/8)
+
+## COMMENT 0034_05
+Créditos (6/8)
+
+## COMMENT 0034_06
+Créditos (7/8)
+
+¿Intentamos colar aquí un "Traducción al castellano: Tales Translations"? Quedaría chulo. XD
+
+Eso se pondrá al final, como con el abyss, no problem --Parsec
+
+Es muy probable que "VICEPRESIDENTE DE CONTINUIDAD DE OPERACIONES Y NUEVOS NEGOCIOS" y "VICEPRESIDENTE DE MARKETING Y CONTROL DE CALIDAD LOCAL" (y seguramente alguno más) no aparezcan correctamente en el juego por ser demasiado largos. En caso de ser así, ya veremos lo que hacemos (*chas, chas*). -- Memnoch
+
+## COMMENT 0034_07
+Créditos (8/8)
+
+Hellas es Grecia, aunque me imagino que lo dejamos tal cual. --Parsec
+
+Y Benelux es Bélgica, Holanda y Luxemburgo xD. --Parsec
+
+## COMMENT 0035_00
+Debug (1/1)
+
+## COMMENT 0036_00
+Eventos (1/15)
+
+Parecen textos de debug, para ir directamente a un punto concreto de la historia. --Xander
+
+## COMMENT 0036_01
+Eventos (2/15)
+
+## COMMENT 0036_02
+Eventos (3/15)
+
+## COMMENT 0036_03
+Eventos (4/15)
+
+## COMMENT 0036_04
+Eventos (5/15)
+
+## COMMENT 0036_05
+Eventos (6/15)
+
+## COMMENT 0036_06
+Eventos (7/15)
+
+## COMMENT 0036_07
+Eventos (8/15)
+
+## COMMENT 0036_08
+Eventos (9/15)
+
+## COMMENT 0036_09
+Eventos (10/15)
+
+## COMMENT 0036_10
+Eventos (11/15)
+
+## COMMENT 0036_11
+Eventos (12/15)
+
+## COMMENT 0036_12
+Eventos (13/15)
+
+## COMMENT 0036_13
+Eventos (14/15)
+
+## COMMENT 0036_14
+Eventos (15/15)
+

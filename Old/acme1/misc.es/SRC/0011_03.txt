@@ -1,0 +1,317 @@
+## POINTER 417 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261401783]
+Hacha de guerra +1
+
+## POINTER 418 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha pensada para su producción en masa.
+De diseño simple pero eficaz.
+
+## POINTER 420 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261401783]
+Francisca
+
+## POINTER 421 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1261769163]
+Demostraba la mayoría de edad en el oeste.
+Un hacha arrojadiza de gran calidad.
+
+## POINTER 423 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261479851]
+Hacha de ogro
+
+## POINTER 424 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha de mano imbuida con el poder de una bestia feroz.
+Contiene el espíritu de un antiguo guerrero.
+
+## POINTER 426 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261479851]
+Hacha de ogro +1
+
+## POINTER 427 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha de mano imbuida con el poder de una bestia feroz.
+Contiene el espíritu de un antiguo guerrero.
+
+## POINTER 429 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261480496]
+Hacha de media luna
+
+## POINTER 430 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263650012]
+Hacha con hoja de media luna. Su hoja gruesa y afilada 
+penetra con facilidad las armaduras pesadas de los enemigos.
+
+## POINTER 432 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261480496]
+Hacha de media luna +1
+
+## POINTER 433 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263650012]
+Hacha con hoja de media luna. Su hoja gruesa y afilada 
+penetra con facilidad las armaduras pesadas de los enemigos.
+
+## POINTER 435 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261480695]
+Hacha carmesí
+
+## POINTER 436 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha llameante de diseño exótico.
+Se considera más una obra de arte que un arma.
+
+## POINTER 438 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261480695]
+Hacha carmesí +1α
+
+## POINTER 439 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha llameante de diseño exótico.
+Se considera más una obra de arte que un arma.
+
+## POINTER 441 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261480695]
+Hacha carmesí +1β
+
+## POINTER 442 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha llameante de diseño exótico.
+Se considera más una obra de arte que un arma.
+
+## POINTER 444 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261487857]
+Zaghnal
+
+## POINTER 445 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Piqueta con la forma del pico de un cuervo.
+Puede utilizarse para diferentes propósitos.
+
+## POINTER 447 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261482895]
+Zaghnal +1α
+
+## POINTER 448 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Piqueta con la forma del pico de un cuervo.
+Puede utilizarse para diferentes propósitos.
+
+## POINTER 450 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261487897]
+Zaghnal +1β
+
+## POINTER 451 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Piqueta con la forma del pico de un cuervo.
+Puede utilizarse para diferentes propósitos.
+
+## POINTER 453 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261417026]
+Kalinga
+
+## POINTER 454 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Hacha pequeña que puede blandirse como una espada.
+Su hoja curvada puede desgarrar la piel de los enemigos.
+
+## POINTER 456 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261417026]
+Kalinga +1
+
+## POINTER 457 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Hacha pequeña que puede blandirse como una espada.
+Su hoja curvada puede desgarrar la piel de los enemigos.
+
+## POINTER 459 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261417026]
+Celtis
+
+## POINTER 460 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha pesada que solía utilizarse para
+labores del campo. Puede causar un daño mortal.
+
+## POINTER 462 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261417026]
+Celtis +1
+
+## POINTER 463 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha pesada que solía utilizarse para
+labores del campo. Puede causar un daño mortal.
+
+## POINTER 465 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261486134]
+Masakari
+
+## POINTER 466 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Si eres capaz de blandir esta hacha pesada,
+deberías probar a luchar contra un oso con las manos desnudas.
+
+## POINTER 468 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261486134]
+Masakari +1α
+
+## POINTER 469 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Si eres capaz de blandir esta hacha pesada,
+deberías probar a luchar contra un oso con las manos desnudas.
+
+## POINTER 471 [t:1;r:2;ru:memnoch,parsec;user:Amarintia;time:1261486134]
+Masakari +1β
+
+## POINTER 472 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Si eres capaz de blandir esta hacha pesada,
+deberías probar a luchar contra un oso con las manos desnudas.
+
+## POINTER 474 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261505600]
+Tabar
+
+## POINTER 475 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha con la hoja en forma de media luna.
+Es más pesada de lo que puede parecer a simple vista.
+
+## POINTER 477 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261505600]
+Tabar +1
+
+## POINTER 478 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha con la hoja en forma de media luna.
+Es más pesada de lo que puede parecer a simple vista.
+
+## POINTER 480 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261503797]
+Bardiche
+
+## POINTER 481 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha gigante que asusta solo con verla.
+Los soldados la llevan con una empuñadura más larga.
+
+## POINTER 483 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261503797]
+Bardiche +1
+
+## POINTER 484 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha gigante que asusta solo con verla.
+Los soldados la llevan con una empuñadura más larga.
+
+## POINTER 486 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1261488500]
+Quebrantahuesos
+
+## POINTER 487 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Hacha de batalla tan afilada como una cuchilla.
+La hoja puede cortar sin esfuerzo un hueso por la mitad.
+
+## POINTER 489 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261526932]
+Quebrantahuesos +1
+
+## POINTER 490 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Hacha de batalla tan afilada como una cuchilla.
+La hoja puede cortar sin esfuerzo un hueso por la mitad.
+
+## POINTER 492 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1261490427]
+Lágrima de Bahamut
+
+## POINTER 493 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha encontrada en el cadáver de un dragón gigante.
+Es muy pesada y solo un hábil guerrero puede empuñarla.
+
+## POINTER 495 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1261490427]
+Lágrima de Bahamut +1
+
+## POINTER 496 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha encontrada en el cadáver de un dragón gigante.
+Es muy pesada y solo un hábil guerrero puede empuñarla.
+
+## POINTER 498 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262904690]
+Hacha de Gea
+
+## POINTER 499 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261634045]
+Hacha grande llamada así en honor al dios de terra.
+Esta arma representa el rigor y la amabilidad.
+
+## POINTER 501 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1261589332]
+Minotauro
+
+## POINTER 502 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha de batalla gruesa y pesada.
+Su nombre proviene de la criatura mitológica.
+
+## POINTER 504 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1261589375]
+Minotauro +1
+
+## POINTER 505 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Hacha de batalla gruesa y pesada.
+Su nombre proviene de la criatura mitológica.
+
+## POINTER 507 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1261589623]
+Filo Plateado
+
+## POINTER 508 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Hacha de plata forjada a imagen de un dios de la guerra occidental.
+Simboliza la justicia, el coraje y la igualdad.
+
+## POINTER 510 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1261589623]
+Filo Plateado +1α
+
+## POINTER 511 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Hacha de plata forjada a imagen de un dios de la guerra occidental.
+Simboliza la justicia, el coraje y la igualdad.
+
+## POINTER 513 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1261589681]
+Filo Plateado +1β
+
+## POINTER 514 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Hacha de plata forjada a imagen de un dios de la guerra occidental.
+Simboliza la justicia, el coraje y la igualdad.
+
+## POINTER 516 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Infinita
+
+## POINTER 517 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Extraña hacha con una hoja en forma de «∞».
+La hoja gira constantemente y mantiene el borde afilado.
+
+## POINTER 519 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261633585]
+Glasya Labolas
+
+## POINTER 520 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Hacha demoníaca embrujada con ira y tristeza.
+La maldición solo se revela durante el combate.
+
+## POINTER 522 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Portadora de ira: Glasya Labolas
+
+## POINTER 523 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Hacha demoníaca embrujada con ira y tristeza.
+La maldición solo se revela durante el combate.
+
+## POINTER 525 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261526932]
+Pica de guerra
+
+## POINTER 526 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Lanza arrojadiza normal y corriente.
+Tiene un mango pequeño y no sirve para cortar.
+
+## POINTER 528 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261526932]
+Pica de guerra +1
+
+## POINTER 529 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Lanza arrojadiza normal y corriente.
+Tiene un mango pequeño y no sirve para cortar.
+
+## POINTER 531 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261513234]
+Alabarda
+
+## POINTER 532 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Lanza muy versátil blandida por muchos ejércitos.
+Se requiere algo de tiempo para controlarla con destreza.
+
+## POINTER 534 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261513234]
+Tridente
+
+## POINTER 535 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Lanza que se usaba para la pesca. 
+Las tres puntas mejoran su precisión.
+
+## POINTER 537 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261526589]
+Verdugo
+
+## POINTER 538 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Alabarda utilizada para decapitar a los condenados.
+Fue diseñada para causar una muerte súbita e indolora.
+
+## POINTER 540 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261526589]
+Arpón de guerra
+
+## POINTER 541 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Un cazador legendario lo usó para
+dar caza a un enorme monstruo acuático.
+
+## POINTER 543 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261526589]
+Arpón de guerra +1α
+
+## POINTER 544 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Un cazador legendario lo usó para
+abatir a un enorme monstruo acuático.
+
+## POINTER 546 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261526589]
+Arpón de guerra +1β
+
+## POINTER 547 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263660121]
+Un cazador legendario lo usó para
+abatir a un enorme monstruo acuático.
+
+## POINTER 549 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261526589]
+Naginata
+
+## POINTER 550 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263655088]
+Antigua lanza de hoja refinada. Pese a no estar
+en su forma completa, sigue siendo muy flexible.
+
+## POINTER 552 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261526589]
+Guadaña de la muerte

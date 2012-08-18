@@ -1,0 +1,33 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1286525963]
+<STR>(JUD)
+<VOICE>(VS57_001)¡Phaeroh!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979174]
+<STR>(RIT)
+<VOICE>(VS57_002)¡Está herido!
+¡¿Por qué se pone a volar?!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1286525963]
+<STR>(YUR)
+<VOICE>(VS57_003)Cualquier idiota podría ir y acabar con él.
+No podría defenderse en ese estado.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1286525963]
+<STR>(RAV)
+<VOICE>(VS57_004)Pa mí que no quiere que los humanos pillen su apátheia.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1286525963]
+<STR>(JUD)
+<VOICE>(VS57_005)Phaeroh...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1290979174]
+<STR>(KAR)
+<VOICE>(VS57_006)¡Mirad, está aterrizando!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1286525963]
+<STR>(EST_P)
+<VOICE>(VS57_007)Creo que... nos está llamando.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1286525963]
+<STR>(YUR)
+<VOICE>(VS57_008)Vamos.

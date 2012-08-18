@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015298]
+<STR>(FRE)
+¡Deteneos! ¡Envainad todos
+vuestras espadas! ¡Envainadlas!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314694]
+<STR>(FRE)
+Soy el Caballero Imperial
+<STR>(FRE) Scifo. ¡Traigo una
+carta de Su Alteza Ioder!
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015371]
+<STR>(FRE)
+¡La carta que recibisteis antes
+era falsa! ¡Fue obra de un rebelde! 
+¡Retirad vuestros ejércitos de inmediato!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274015390]
+Don Whitehorse
+Ya creía que no
+ibas a volver.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1274074745]
+<STR>(FRE)
+¿Y abandonar a <STR>(YUR) para que cargara
+él con la culpa? Ni en sueños.

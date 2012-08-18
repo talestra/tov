@@ -1,0 +1,155 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(FRE)
+He oído por ahí que te has
+vuelto más fuerte que nunca.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(YUR)
+Me hace gracia que tú
+me hagas un cumplido así.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(FRE)
+Incluso Su Alteza Ioder ha elogiado
+tus hazañas. Ha dicho que quiere darte
+el título de paladín independiente.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(YUR)
+Tío, ese principito me tiene
+hasta las narices.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(FRE)
+Ya veo que no has aprendido modales en tus viajes.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(YUR)
+Dile que no vaya dando
+títulos porque sí
+a alguien como yo.<PAGE>Como un candidato al trono, no tiene derecho a ello.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(FRE)
+Ya me parecía a mí
+que dirías algo así.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1295179189]
+<STR>(YUR)
+¿Ah, sí?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(FRE)
+Sí, pero coincido con
+su deseo de compensarte
+por lo que has hecho.<PAGE>Incluso tú deberías ser
+capaz de entenderlo, <STR>(YUR).
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(YUR)
+Ja, dicho así, supongo que tendría
+que aceptarlo... Ya veo por dónde vas.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1295179421]
+<STR>(FRE)
+Entonces... ¿lo aceptarás?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(YUR)
+No... Agradezco el gesto, pero
+con eso es suficiente para mí.<PAGE>¿Crees que sería correcto
+que yo aceptara un título
+así del Imperio?<PAGE>No sé cómo explicarlo,
+pero no está bien.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(FRE)
+Entonces, lo rechazas...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(YUR)
+Básicamente, sí.
+Ya nos veremos luego.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(EST_P)
+<STR>(FRE)...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(FRE)
+Princesa <STR>(EST)...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(EST_P)
+<STR>(FRE), ¿no me dijiste una vez
+que lo que hace a alguien un Caballero
+es lo que tiene en el corazón?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(FRE)
+¿Eh? Sí...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(EST_P)
+Si lo que te hace un Caballero es tu
+dedicación a la justicia y el rechazo
+a la maldad que ves en el mundo...<PAGE>Entonces <STR>(YUR) es
+más Caballero que nadie,
+con título o no.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(FRE)
+Lo sé. Sin embargo, Su Alteza y yo
+deseamos ir aún más lejos y
+reconocerlo de manera oficial.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(EST_P)
+Podemos reconocerlo dentro
+de nuestros corazones.
+¿Eso no es suficiente?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(FRE)
+Tal vez, pero...<PAGE>Si al menos pudieseis darle esto...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(EST_P)
+Es un uniforme oficial...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(FRE)
+De parte de Su Alteza Ioder. Pidió que <STR>(YUR) 
+lo llevara en la ceremonia de ordenación.<PAGE>Por favor, dádselo a él.
+Como muestra de agradecimiento por
+lo que ha hecho de parte de los dos.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(EST_P)
+¿Y si se
+niega a
+aceptarlo?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(FRE)
+Entonces metédselo en sus
+bolsas cuando no mire.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(EST_P)
+Pero se le arrugará.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(FRE)
+Eso ya será
+problema de <STR>(YUR).
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005325]
+<STR>(EST_P)
+Ji, ji. Muy bien,
+se lo llevaré de tu parte.
+Gracias, <STR>(FRE).
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1295179240]
+<STR>(FRE)
+Un Caballero en el corazón, eh...

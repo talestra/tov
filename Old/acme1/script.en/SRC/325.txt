@@ -1,0 +1,39 @@
+## POINTER 0
+<STR>(RIT)
+This town kind of gives 
+me the creeps.
+
+## POINTER 1
+<STR>(KAR)
+All these knights stick out like sore thumbs.
+
+## POINTER 2
+<STR>(RAV)
+Anyway, time ta get some sleep! Sleepy times!
+
+## POINTER 3
+<STR>(KAR)
+But man, I just can't relax 
+with a knight standing out 
+at the entrance.
+
+## POINTER 4
+<STR>(EST_P)
+It bothers you?
+
+## POINTER 5
+<STR>(KAR)
+It does, it does.
+
+## POINTER 6
+<STR>(RAV)
+If they're here ta protect us, there ain't 
+nothin' wrong with that, is there?
+
+## POINTER 7
+<STR>(YUR)
+All right everyone, let's get some sleep.
+
+## POINTER 8
+<STR>(KAR)
+Mmm...

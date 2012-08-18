@@ -1,0 +1,154 @@
+## POINTER 0
+<STR>(EST_P)
+Ah...!
+
+## POINTER 1
+<STR>(RIT)
+What's with you...?
+
+## POINTER 2
+<STR>(EST_P)
+These flowers are so pretty...
+
+## POINTER 3
+<STR>(RAV)
+Hmm...? Hey, that's 
+a cyrtanthus bloom.
+
+## POINTER 4
+<STR>(YUR)
+You actually know a lot about 
+plants, don't you, old man?
+
+## POINTER 5
+<STR>(RAV)
+Oh, I dabble here and there.♪
+
+## POINTER 6
+<STR>(RIT)
+Hmph... So what's 
+that one called?
+
+## POINTER 7
+<STR>(RAV)
+Hah? One second, it's 
+a...teardrop tulip.
+
+## POINTER 8
+<STR>(RIT)
+How about that?
+
+## POINTER 9
+<STR>(RAV)
+Why, um... That's a, 
+uh rainbow flower?
+
+## POINTER 10
+<STR>(RIT)
+Wrong. Crimson nadesico and beautyberry. 
+Some botanist you are.
+
+## POINTER 11
+<STR>(RAV)
+I just happened to not know those.
+
+## POINTER 12
+<STR>(EST_P)
+It looks more like you 
+just happened to know 
+cyrtanthus bloom.
+
+## POINTER 13
+<STR>(RAV)
+No, no, 
+really--
+
+## POINTER 14
+<STR>(YUR)
+So, how did you just happen to know 
+about these nightshade flowers?
+
+## POINTER 15
+<STR>(RAV)
+Argh, listen to me!
+
+## POINTER 16
+<STR>(KAR)
+Sounds like you've got a special reason.
+
+## POINTER 17
+<STR>(RAV)
+...Kind of... Nightshade's just a flower an old 
+friend of mine from the Knights used ta like.<PAGE>My friend's room was 
+always full of 'em.
+
+## POINTER 18
+<STR>(YUR)
+So you have had a couple 
+of friends, then.
+
+## POINTER 19
+<STR>(RAV)
+You're sayin' that like it surprises 
+ya. Poor old <STR>(RAV)'d just curl up 
+and die if ya left him all alone.
+
+## POINTER 20
+<STR>(JUD)
+Just what is the correct response 
+when a man starts whining 
+like a mouse, I wonder.
+
+## POINTER 21
+<STR>(RAV)
+You say, "Oh <STR>(RAV), you big silly, you're so cute."
+
+## POINTER 22
+<STR>(JUD)
+Hah...That's not the word I'd use.
+
+## POINTER 23
+<STR>(RAV)
+Argh...! <STR>(JUD), darlin' 
+you're cold as ice.
+
+## POINTER 24
+<STR>(RIT)
+...Good grief.
+
+## POINTER 25
+<STR>(EST_P)
+It's a little like <STR>(FRE) and <STR>(YUR), 
+what with you having a friend 
+in the Knights, and all.
+
+## POINTER 26
+<STR>(RAV)
+Well now, it can't compare ta the shinin' 
+example of friendship those two young lads've 
+got goin', but yeah. We were pals.
+
+## POINTER 27
+<STR>(YUR)
+I don't think of my friendship 
+with <STR>(FRE) as "shiny."
+
+## POINTER 28
+<STR>(RAV)
+Really? But youth's a fleetin' 
+thing for all of us. That friendship's 
+long past, now.
+
+## POINTER 29
+<STR>(EST_P)
+Oh, did you fight 
+about something?
+
+## POINTER 30
+<STR>(RAV)
+Hm, I s'pose ya could call it that.<PAGE>Would ya mind pickin' a few 
+of those for me, young miss?
+
+## POINTER 31
+<STR>(EST_P)
+Hmm? Oh, certainly.

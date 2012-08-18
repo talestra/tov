@@ -1,0 +1,196 @@
+## POINTER 0
+
+Oh! That look on your face... 
+Could it be...?!
+
+## POINTER 1
+<STR>(RAV)
+Yessir! I single-handedly 
+managed ta collect 
+the entire series!
+
+## POINTER 2
+<STR>(RIT)
+Whaddya mean single-handedly...
+
+## POINTER 3
+
+Please, let 
+me see them!
+
+## POINTER 4
+
+Fantastic...simply fantastic. 
+You really have 
+all 11 of them!<PAGE>Oh, I can't wait! I really 
+can't wait! I can't wait to 
+decorate my room with them!
+
+## POINTER 5
+<STR>(KAR)
+I'm glad that you're so 
+happy! So this means our 
+job is done, right?
+
+## POINTER 6
+
+Oh, sorry about that... I 
+got a little carried away.
+
+## POINTER 7
+<STR>(RAV)
+No, not at all. I 
+know how ya feel.
+
+## POINTER 8
+
+Now, for your reward! Hmmm, 
+what would be appropriate...
+
+## POINTER 9
+<STR>(EST_P)
+Ummm...
+
+## POINTER 10
+
+Gald, perhaps? Or maybe 
+an item? Maybe another 
+toy might do the trick?
+
+## POINTER 11
+<STR>(EST_P)
+Ummm! Excuse 
+me!
+
+## POINTER 12
+<STR>(JUD)
+What's the matter, <STR>(EST_P)? 
+Why are you yelling?
+
+## POINTER 13
+<STR>(EST_P)
+......<PAGE>Do you think you might 
+be able to give us 
+back that c L Statue?
+
+## POINTER 14
+<STR>(KAR)
+Wh-what are you talking 
+about, <STR>(EST_P)? He asked 
+for the whole set of 11!
+
+## POINTER 15
+<STR>(RAV)
+An incomplete set 
+is worthless ta 
+a collector.
+
+## POINTER 16
+<STR>(EST_P)
+I know that. It's just...we 
+can't give him that 
+one doll...
+
+## POINTER 17
+<STR>(YUR)
+Oh, this is about Hanks, right?
+
+## POINTER 18
+<STR>(EST_P)
+That doll is his memento of his wife... 
+It's very important to him.
+
+## POINTER 19
+<STR>(KAR)
+But didn't he give 
+it to you, <STR>(EST_P)?
+
+## POINTER 20
+<STR>(EST_P)
+But it's still his! 
+We have to give 
+it back to him!<PAGE>So, please...please...just 
+let us keep that doll...
+
+## POINTER 21
+<STR>(RIT)
+<STR>(EST_P)...
+
+## POINTER 22
+
+But still, you gave me that doll as 
+part of the job I asked you to do...
+
+## POINTER 23
+
+H-hold on! What do you 
+think you're doing?
+
+## POINTER 24
+<STR>(YUR)
+Ahh, I'm sorry... All 
+of these are fakes.
+
+## POINTER 25
+<STR>(KAR)
+Y-<STR>(YUR)? What are you 
+talking about?
+
+## POINTER 26
+<STR>(YUR)
+I was thinking I'd get 
+the reward by handing 
+over a bunch of fakes.<PAGE>But it looked like <STR>(EST_P) 
+was about to spill the beans, 
+so I stole them all back.
+
+## POINTER 27
+<STR>(KAR)
+You stole them back...?
+
+## POINTER 28
+<STR>(YUR)
+So I'm sorry. It 
+looks like the job 
+was a failure.
+
+## POINTER 29
+
+What the...! Are you trying 
+to make me look like a fool?! 
+I can't believe this!
+
+## POINTER 30
+<STR>(RAV)
+Agh, it looks like we missed out on 
+the reward... After all that work, 
+all we got was a single tiara...
+
+## POINTER 31
+<STR>(EST_P)
+<STR>(YUR), thank 
+you!!
+
+## POINTER 32
+<STR>(YUR)
+That's the only valuable thing 
+Hanks has ever had. I couldn't 
+let you give it away.<PAGE>Besides, this thing's gotta be a fake, 
+right? If anyone found out, it would 
+soil the good name of Brave Vesperia!
+
+## POINTER 33
+<STR>(RIT)
+What a load of bull... Good thing 
+that guy was too dense to recognize 
+bad acting when he saw it.
+
+## POINTER 34
+<STR>(JUD)
+Why didn't we just actually 
+make a fake doll and 
+give it to him?
+
+## POINTER 35
+<STR>(RIT)
+You're even worse than <STR>(YUR)...

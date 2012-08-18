@@ -1,0 +1,73 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1275683927]
+<STR>(YUR)
+¿Pasa algo, jefe?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1275683927]
+<STR>(KAR)
+Mmm... No acabo de acostumbrarme
+a que me llames de esa manera.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328127]
+<STR>(YUR)
+¡El jefe es el jefe!
+¿Cómo quieres que te llame si no?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328127]
+<STR>(KAR)
+Llámame... como me llamabas
+antes. Lo de llamarme «jefe»
+creo que es pasarse un poco.<PAGE>Me siento un poco raro
+cada vez que lo haces...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328127]
+<STR>(YUR)
+¿No crees que terminarás por acostumbrarte?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1275683927]
+<STR>(KAR)
+Bueno, es posible...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328127]
+<STR>(YUR)
+Tú sabes de gremios
+muchísimo más que yo,
+¿me equivoco?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328127]
+<STR>(KAR)
+Supongo...<PAGE>El jefe de un gremio ha de ser
+un ejemplo a seguir por todos
+sus miembros.<PAGE>No sé yo si podré llegar a ser
+ese tipo de persona...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1275683927]
+<STR>(YUR)
+¡Vamos, hombre! Nadie espera que seas el mejor jefe del mundo
+desde el primer minuto. No tienes más que ir poco a poco.<PAGE>Por ahora, centrémonos en completar
+el trabajo que tenemos entre manos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328127]
+<STR>(KAR)
+Tienes razón. Primero tenemos
+es llevar a <STR>(EST_P) hasta Phaeroh.<PAGE>¿Crees que conseguiremos encontrarlo?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328127]
+<STR>(YUR)
+Nuestro trabajo como gremio pasa
+por hallar un modo de dar con él.<PAGE>Si no lo hacemos, no nos pagarán
+y la gente empezará a perder la
+confianza en nuestras habilidades.<PAGE>Así está el patio.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328127]
+<STR>(KAR)
+Al final va a resultar que hemos aceptado
+un primer encargo demasiado difícil...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328127]
+<STR>(YUR)
+Así resulta más desafiante.
+Y la recompensa también será mucho mayor.<PAGE>Tenemos que darlo todo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1279328127]
+<STR>(KAR)
+S-Sí...

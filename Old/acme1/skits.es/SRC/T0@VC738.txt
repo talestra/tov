@@ -1,0 +1,34 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267281360]
+¿Viajar con esta gente?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287693370]
+(YUR)
+Cuando dejamos la capital,
+solo éramos (RAP), (EST_P) y yo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287693370]
+(EST_P)
+Ahora (KAR) y (RIT) se han unido
+a nosotros. ¡Me alegro mucho
+de poder viajar con más gente!
+
+## POINTER 3 [t:1;r:3;ru:dagorat,parsec,memnoch;user:xander;time:1266105135]
+(KAR)
+Aunque yo no estoy muy seguro de
+algún que otro miembro del grupo.
+
+## POINTER 4 [t:1;r:3;ru:dagorat,parsec,memnoch;user:Dagorat;time:1266669371]
+(RIT)
+Y yo no estoy muy segura de ti, renacuajo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287693370]
+(YUR)
+Vamos, no te pases con el capitancete.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287693370]
+(EST_P)
+Todos debemos procurar llevarnos bien, ¿vale, (RIT)?
+
+## POINTER 7 [t:1;r:3;ru:dagorat,parsec,memnoch;user:Dagorat;time:1266669371]
+(RIT)
+Oh, sí... Claro.

@@ -1,0 +1,77 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253823856]
+Los preciosos corales
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219857]
+(JUD)
+...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129835]
+(RAV)
+Esa lánguida expresión en el
+bello rostro de una hermosa chica...
+Peazo vista.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219857]
+(KAR)
+¿Qué ocurre, (JUD)? Llevas un buen
+rato con la mirada perdida en el mar.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219857]
+(JUD)
+Oh, solo pensaba en lo preciosos
+que son esos corales de colores.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219857]
+(YUR)
+¿Corales? ¿Y eso qué es?
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219857]
+(EST_P)
+Son organismos que se encuentran 
+en zonas cálidas y poco profundas
+del océano. ¡Son preciosos!
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,memnoch;user:xander;time:1267321028]
+(RAV)
+Vaya, ¿eso son seres vivos? 
+No sé, pa mí que m'estáis
+tomando el pelo...
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219857]
+(RIT)
+No es de extrañar que un analfabeto
+como tú no sepa apreciarlo.
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219857]
+(KAR)
+Sus colores son muy bonitos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129835]
+(EST_P)
+Había leído cosas sobre los corales,
+pero esta es la primera vez que los veo.
+
+## POINTER 11 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219857]
+(JUD)
+Me encantaría verlos más de cerca.
+
+## POINTER 12 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219857]
+(YUR)
+¿Por qué no te metes en el agua? 
+Ya vas vestida para ello.
+
+## POINTER 13 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266834266]
+(RAV)
+Ooooh, una dama completamente mojá...
+
+## POINTER 14 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266834266]
+(RAV)
+Creo que er viejo (RAV) también se dará una zam...
+
+## POINTER 15 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219857]
+(RIT)
+¡A toda máquina, Tokunaga!
+
+## POINTER 16 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219857]
+(RIT)
+Dummy

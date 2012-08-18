@@ -1,0 +1,158 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1275571723]
+<STR>(EST_P)
+<VOICE>(VS24_098)¿Ya estás más calmada?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(RIT)
+<VOICE>(VS24_099)Sí...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(EST_P)
+<VOICE>(VS24_100)¿Qué estás haciendo
+en un lugar como este?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(RIT)
+<VOICE>(VS24_101)Pensaba echarle un vistazo
+al blastia de aquí antes
+de investigar el aer krene.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(YUR)
+<VOICE>(VS24_102)Y has terminado de cabeza
+en un lío bien gordo.
+No sé por qué no me extraña.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(EST_P)
+<VOICE>(VS24_103)¿Por qué te has implicado en esto?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(RIT)
+<VOICE>(VS24_104)Han introducido el blastia en el campo
+de trabajo con nocturnidad y alevosía.
+Esto me huele a chamusquina.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(YUR)
+<VOICE>(VS24_105)No me digas que te colaste aquí
+para investigarlo y entonces
+fue cuando te pillaron.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(RIT)
+<VOICE>(VS24_106)Claro que no. A espía no me gana nadie.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(KAR)
+<VOICE>(VS24_107)Pero te han pillado de todas formas.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(RIT)
+<VOICE>(VS24_108)No podía quedarme mirando
+mientras hacían cosas raras
+a los blastias.<PAGE><VOICE>(VS24_109)La gente de aquí está trabajando solo
+porque los Caballeros los amenazan.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(KAR)
+<VOICE>(VS24_110)Seguro que Teagle
+anda también por aquí.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(EST_P)
+<VOICE>(VS24_111)No podemos permitir que esto siga así.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(YUR)
+<VOICE>(VS24_112)¿Qué hay de aquel blastia
+que dices haber visto?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1282926352]
+<STR>(RIT)
+<VOICE>(VS24_113)Era un blastia hoplón.
+Creo que los están reuniendo
+para ir a una guerra.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(KAR)
+<VOICE>(VS24_114)No me digas que... ¡¿No estarán pensando
+en atacar Dahngrest otra vez?!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(EST_P)
+<VOICE>(VS24_115)¿Por qué? Acaban de firmar
+el tratado de amistad...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(YUR)
+<VOICE>(VS24_116)Tiene que ser cosa de Cumore.
+Ese tío antes muerto que cumpliendo
+promesas a los gremios.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(KAR)
+<VOICE>(VS24_117)¿Lo conoces, <STR>(YUR)?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(YUR)
+<VOICE>(VS24_118)Ya lo viste una vez,
+en Caer Bocram
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(KAR)
+<VOICE>(VS24_119)Te refieres al hombre
+de la voz siniestra.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(JUD)
+<VOICE>(VS24_120)No me importa hablar de estas cosas,
+pero ¿no nos estamos olvidando de algo?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(KAR)
+<VOICE>(VS24_121)¡Es verdad! ¡Tenemos que rescatar
+a Teagle y a los demás!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(EST_P)
+<VOICE>(VS24_122)¡Y poner fin a todo esto, deshacernos
+de los blastias que están reuniendo y...!
+Esto...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(RIT)
+<VOICE>(VS24_123)No podemos deshacernos de los blastias.
+Tenemos que recuperarlos y ocuparnos
+de ellos.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(EST_P)
+<VOICE>(VS24_124)Entonces les diremos a los magos
+de Aspio que se encarguen de eso.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(KAR)
+<VOICE>(VS24_125)Esperad. Vamos a ir
+con cuidado, ¿verdad?...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(EST_P)
+<VOICE>(VS24_126)Pero...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1275571692]
+<STR>(YUR)
+<VOICE>(VS24_127)Cada cosa a su tiempo.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(EST_P)
+<VOICE>(VS24_128)D-De acuerdo.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(KAR)
+<VOICE>(VS24_129)Por ahora volvamos al plan original
+y sigamos bajando.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1279230296]
+<STR>(EST_P)
+<VOICE>(VS24_130)Vale.

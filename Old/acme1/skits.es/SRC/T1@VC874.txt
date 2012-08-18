@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297708545]
+Pero ¿quién es Duke?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297708545]
+(RIT)
+¿Dein Nomos, la Hija de la Luna Llena, 
+«la determinación que impresionó a Phaeroh»?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297708545]
+(RIT)
+Pero ¿quién narices es ese tal Duke?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297708545]
+(JUD)
+Bueno, a juzgar por lo que dice,
+parece conocer a Phaeroh.
+
+## POINTER 4 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925396]
+(KAR)
+Y la espada que buscaba el príncipe Ioder...
+Esto no me gusta.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297708545]
+(YUR)
+Ya, pero ¿por qué nos ha prestado
+algo tan importante como la Dein Nomos?
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925396]
+(YUR)
+Le creía un cabezota, pero parece estar
+dispuesto a atender a razones.
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925396]
+(RIT)
+Yo no me haría muchas ilusiones.
+
+## POINTER 8 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925396]
+(JUD)
+¿No tenemos cosas más urgentes
+entre manos ahora mismo?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297708545]
+(YUR)
+Sí. Démonos prisa.

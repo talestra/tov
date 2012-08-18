@@ -1,0 +1,184 @@
+## POINTER 0
+
+<VOICE>(VS65_034)You know how I hate 
+waiting, <STR>(YUR) Lowell!
+
+## POINTER 1
+Zagi
+<VOICE>(VS65_035)And where do you think you're 
+going with me right here?
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS65_036)You're alive. Don't 
+you ever die?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS65_037)You just never quit. How many times 
+do I have to tell you? I don't 
+want anything to do with you!
+
+## POINTER 4
+Zagi
+<VOICE>(VS65_038)You're trying to save 
+the world? Heh heh heh.<PAGE><VOICE>(VS65_039)The world will go bye-bye if 
+you don't hurry? Is that it?
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS65_040)If you know that much, 
+then don't get in our way!
+
+## POINTER 6
+Zagi
+<VOICE>(VS65_041)Oh no no no no no! 
+That's what gives it 
+so much meaning!
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS65_042)...What's this guy talking about?
+
+## POINTER 8
+Zagi
+<VOICE>(VS65_043)Look.
+
+## POINTER 9
+Zagi
+<VOICE>(VS65_044)There's a seal further on. If 
+you want to get by, you have to 
+take this arm from my body.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS65_045)You bastard...!
+
+## POINTER 11
+Zagi
+<VOICE>(VS65_046)Ah hah hah hah hah hah! 
+Yuuuuuriiiii!<PAGE><VOICE>(VS65_047)If you want to save the 
+world, then you have 
+to go through me.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS65_048)Why?! Why are you doing 
+something so meaningless?
+
+## POINTER 13
+Zagi
+<VOICE>(VS65_049)Meaningless? Meaningless?
+
+## POINTER 14
+Zagi
+<VOICE>(VS65_050)Oh, but it does mean something! 
+This way, you'll fight with 
+everything you've got.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS65_051)Zagi... I never thought 
+you were this crazy.<PAGE><VOICE>(VS65_052)Fine. Let's finish this.
+
+## POINTER 16
+Zagi
+<VOICE>(VS65_053)Hah hah hah! Show me your 
+anger! Your rage! Give me 
+everything you've got!<PAGE><VOICE>(VS65_054)Because if you don't...you 
+won't get any higher!
+
+## POINTER 17
+Zagi
+<VOICE>(VS65_055)Heh heh heh. It doesn't hurt... 
+It doesn't hurt at all...<PAGE><VOICE>(VS65_056)Hm? I can't move. 
+What a weak body...<PAGE><VOICE>(VS65_057)I should change my next body 
+to a blastia, too. That would 
+be more fun. Right <STR>(YUR)?<PAGE><VOICE>(VS65_058)Hee hee hee. Ah hah 
+hah hah hah...
+
+## POINTER 18
+Zagi
+<VOICE>(VS65_059)Ugh...
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS65_060)Do it in hell.
+
+## POINTER 20
+<STR>(JUD)
+<VOICE>(VS65_061)No one understood him, so 
+he put so much meaning on 
+fighting. Poor thing...
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VS65_062)Still, his skills made 
+him pretty famous.<PAGE><VOICE>(VS65_063)Something happened after 
+he met you all.
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS65_064)He really looked like 
+he enjoyed fighting.<PAGE><VOICE>(VS65_065)Maybe he thought that he could 
+let loose with everything 
+when he fought <STR>(YUR).
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS65_066)So <STR>(YUR) was the only 
+person he could 
+do that with?
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS65_067)What do I care 
+about somebody 
+that crazy?
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS65_068)The downfall of someone 
+with too much power.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS65_069)...<PAGE><VOICE>(VS65_070)We've wasted too much 
+time on this. Let's go.<PAGE><VOICE>(VS65_071)...<STR>(JUD_P)?
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VS65_072)Okay. Okay, got it.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS65_073)Did something happen to Ba'ul?
+
+## POINTER 29
+<STR>(JUD)
+<VOICE>(VS65_074)No, he's fine. 
+I was just asking what 
+it was like outside.
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS65_075)How far along is the life 
+absorbing formula?
+
+## POINTER 31
+<STR>(JUD)
+<VOICE>(VS65_076)Ba'ul doesn't know anything 
+about formulas.
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VS65_077)Yeah, I guess you're right...
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS65_078)I told Ba'ul to move 
+around as he saw fit.<PAGE><VOICE>(VS65_079)We should move along too, right?
+
+## POINTER 34
+<STR>(KAR)
+<VOICE>(VS65_080)Yeah. Let's hurry.

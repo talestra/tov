@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274629737]
+<STR>(KAR)
+<VOICE>(VS23_113)¡¿No íbamos a descansar?!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274629737]
+<STR>(JUD)
+<VOICE>(VS23_114)Supongo que ahora es el mejor momento.
+No parece que nos siga nadie.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274629737]
+<STR>(EST_P)
+<VOICE>(VS23_115)¿Cómo puedes saberlo?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274629737]
+<STR>(JUD)
+<VOICE>(VS23_116)Mmm, intuición, supongo.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279090601]
+<STR>(KAR)
+<VOICE>(VS23_117)¿Intuición?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318894]
+<STR>(YUR)
+<VOICE>(VS23_118)
+En cualquier caso, aquí no debería
+pasarnos nada. Vamos a descansar.

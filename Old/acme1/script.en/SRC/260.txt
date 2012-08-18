@@ -1,0 +1,71 @@
+## POINTER 0
+<STR>(JUD)
+Excuse me, I am looking 
+for some fascinating outfits.
+
+## POINTER 1
+
+Fascinating...!?
+Are you out for a date?
+How about this?
+
+## POINTER 2
+<STR>(JUD)
+Ugh, how plain.
+
+## POINTER 3
+
+Hmm...well, how 
+about this one?
+
+## POINTER 4
+<STR>(JUD)
+Nope...
+
+## POINTER 5
+
+All right, then what about this!
+
+## POINTER 6
+
+What exactly 
+are you looking for?
+
+## POINTER 7
+<STR>(JUD)
+For example...
+
+## POINTER 8
+
+N-no way,
+I have nothing like that.
+
+## POINTER 9
+<STR>(JUD)
+Then could you possibly 
+make one for me?
+
+## POINTER 10
+
+Let's see...<PAGE>If you brought me a soft tail, basilisk 
+scale and small bird feather, I could 
+make you something very special.
+
+## POINTER 11
+
+You should be able to get all 
+of the items from monsters on 
+the outskirts of the city.
+
+## POINTER 12
+<STR>(JUD)
+All right, let's go.
+
+## POINTER 13
+<STR>(KAR)
+<STR>(JUD)'s really into 
+this, isn't she?
+
+## POINTER 14
+<STR>(YUR)
+Seems like she likes this sort of thing...

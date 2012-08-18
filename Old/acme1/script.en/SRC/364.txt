@@ -1,0 +1,82 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS34_014)We've come to meet with Belius.
+
+## POINTER 1
+Natz
+<VOICE>(VS34_015)You're... Oh, weren't 
+you the emissary sent 
+by Don Whitehorse?
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS34_016)Yup. It's a bit urgent, so if ya 
+wouldn't mind lettin' me through.
+
+## POINTER 3
+Natz
+<VOICE>(VS34_017)You may enter...
+
+## POINTER 4
+Natz
+<VOICE>(VS34_018)However I must ask the rest of you to withdraw.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS34_019)What?! But why?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS34_020)Are you trying to say we can't 
+be trusted or something?
+
+## POINTER 7
+Natz
+<VOICE>(VS34_021)I am afraid that is what it amounts to.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS34_022)But...
+
+## POINTER 9
+
+<VOICE>(VS34_023)Let them pass.
+
+## POINTER 10
+Natz
+<VOICE>(VS34_024)Duce! But I...
+
+## POINTER 11
+
+<VOICE>(VS34_025)I have spoken.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS34_026)Now that's more like it.
+
+## POINTER 13
+Natz
+<VOICE>(VS34_027)...Yes, Duce.
+
+## POINTER 14
+Natz
+<VOICE>(VS34_028)I ask only that you not speak of 
+anything you see here to anyone.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS34_029)Not speak of what we 
+see...? Why not?
+
+## POINTER 16
+Natz
+<VOICE>(VS34_030)This is one of Palestralle's guild laws.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS34_031)Okay, then. 
+We promise.
+
+## POINTER 18
+Natz
+<VOICE>(VS34_032)Our leader, Belius, is waiting just ahead.

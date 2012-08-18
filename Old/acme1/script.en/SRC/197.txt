@@ -1,0 +1,72 @@
+## POINTER 0
+<STR>(RIT)
+Hey, I thought 
+you went to
+see <STR>(EST)?
+
+## POINTER 1
+<STR>(YUR)
+She seems to be 
+asleep already.
+
+## POINTER 2
+<STR>(YUR)
+She must have been 
+exhausted today. 
+I didn't want to wake her up.
+
+## POINTER 3
+<STR>(YUR)
+We can still 
+talk tomorrow.
+
+## POINTER 4
+<STR>(KAR)
+Right. Why don't we all 
+return to our rooms then.
+
+## POINTER 5
+<STR>(RAP)
+...
+
+## POINTER 6
+<STR>(YUR)
+What's the matter, <STR>(RAP)?
+
+## POINTER 7
+<STR>(KAR)
+Do you guys hear a strange sound?
+
+## POINTER 8
+<STR>(RIT)
+Now that you mention it, yeah...
+
+## POINTER 9
+
+Oh, I've been hearing that 
+the barrier blastia's been 
+acting up lately...
+
+## POINTER 10
+<STR>(YUR)
+Hey, hold your horses!
+
+## POINTER 11
+<STR>(RIT)
+I can't!
+
+## POINTER 12
+<STR>(YUR)
+Commandant Alexei is there, isn't he? 
+He should be able to take care of it.
+
+## POINTER 13
+<STR>(KAR)
+<STR>(RIT), if we let you go out on 
+your own, it'll just be another 
+repeat of Ehmead Hill.
+
+## POINTER 14
+<STR>(YUR)
+Well, if you want, we could at 
+least let <STR>(FRE) know about it.

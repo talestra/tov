@@ -1,0 +1,191 @@
+## POINTER 0
+Irmine
+Well? Are ya gonna fix me up 
+some mouth-waterin' morsels?
+
+## POINTER 1
+Irmine
+I'll warn ya, I can get downright 
+mean on an empty stomach...
+
+## POINTER 2
+Irmine
+Whoo boy. What 
+is it? What’s 
+it gonna be?
+
+## POINTER 3
+<STR>(YUR)
+You'll just have to wait until it's ready.
+
+## POINTER 4
+Irmine
+If it tastes bad enough, I might hafta keep 
+my mouth shut for the rest of my days.
+
+## POINTER 5
+<STR>(YUR)
+Here we go. Give 
+this a taste.
+
+## POINTER 6
+Irmine
+Let me see here... I 
+dunno... Looks sorta 
+gross from here...<PAGE>*Munch, munch, munch*... 
+*Munch, munch*... *Munch, 
+munch, munch*...<PAGE>Phew...
+
+## POINTER 7
+<STR>(YUR)
+How was it?
+
+## POINTER 8
+Irmine
+Huh? Oh, yeah, 
+that filled me 
+up. Nap time.
+
+## POINTER 9
+<STR>(KAR)
+Hey, wait a sec--
+
+## POINTER 10
+Irmine
+ZZZZ...
+
+## POINTER 11
+<STR>(RAV)
+That's a pretty neat trick. Sleepin' 
+standin' up like that...
+
+## POINTER 12
+<STR>(YUR)
+What is with this guy...?
+
+## POINTER 13
+Irmine
+Waitin' for me ta fall asleep, 
+huh? Well it won't work!
+
+## POINTER 14
+<STR>(YUR)
+Now you listen to me...
+
+## POINTER 15
+Irmine
+...Oh well, I guess 
+you've earned it.
+
+## POINTER 16
+Irmine
+Those're my notes on how 
+ta refine Everlight.
+
+## POINTER 17
+<STR>(RAV)
+Whoa, that came out 
+of nowhere...!
+
+## POINTER 18
+Irmine
+Now I'll show ya what happens ta people who 
+try ta put one over on me in my sleep!<PAGE>Try me! Age ain't nothin' but a number, 
+and I'll go toe ta toe with you 
+youngins any day of the week!<PAGE>I'm gonna...!<PAGE>...Sleep just a bit more.
+
+## POINTER 19
+<STR>(RAV)
+...Wow. That was...special...
+
+## POINTER 20
+<STR>(EST_P)
+I feel like I could use a nap myself...
+
+## POINTER 21
+<STR>(RIT)
+But... These 
+notes... It's 
+all here...
+
+## POINTER 22
+<STR>(KAR)
+So then, this is the real manual?! 
+I thought it would be more 
+impressive than this.
+
+## POINTER 23
+<STR>(YUR)
+We should be able to find out for 
+certain once we get it to Nobis.
+
+## POINTER 24
+<STR>(JUD)
+Let's take it with us then, 
+and go back to Mantaic.
+
+## POINTER 25
+<STR>(EST_P)
+He's probably beside himself 
+with waiting, at this point.
+
+## POINTER 26
+<STR>(YUR)
+All right, finished. 
+Give that a taste.
+
+## POINTER 27
+Irmine
+Let's see here... *Munch, 
+munch, munch* ...Bleah! 
+Vut da heow ith dith?!
+
+## POINTER 28
+<STR>(RAV)
+Now now, grandpa. It's impolite 
+to talk with food in our mouth...
+
+## POINTER 29
+Irmine
+*Gurgle, glug, burble*... Pfah! 
+...Think I'm gonna hurl!
+
+## POINTER 30
+<STR>(KAR)
+*Munch, munch*... Come on, this is pretty good.
+
+## POINTER 31
+<STR>(RIT)
+Yeah... Definitely not as 
+bad as he's saying...
+
+## POINTER 32
+Irmine
+Fools!<PAGE>The path ta culinary perfection is narrow and fraught with danger 
+on all sides! This slop lacks heart! Back ta the kitchen with ya!
+
+## POINTER 33
+<STR>(YUR)
+You're calling our food slop just because 
+it doesn't suit your picky palate? 
+You've got some nerve, gramps...
+
+## POINTER 34
+<STR>(KAR)
+Let's try again, but make something 
+else this time around.
+
+## POINTER 35
+<STR>(RAV)
+We'd better make sure ta find out 
+just what sorta stuff he likes.
+
+## POINTER 36
+<STR>(EST_P)
+...Um, when did this become 
+about pursuing culinary 
+perfection, anyway...?
+
+## POINTER 37
+<STR>(RIT)
+Don't ask me...

@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926809]
+<STR>(YUR)
+Francamente, después de toda esa
+chulería, me esperaba algo más...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926809]
+<STR>(RIT)
+¡Agh! ¡No, no,
+no lo entiendes!<PAGE>
+¡Es que hoy no estoy
+muy fina, nada más!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926809]
+
+¡Jo, jo! ¡Vuelve a por tu revancha
+cuando te encuentres mejor!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926809]
+<STR>(YUR)
+Je, je, je. ¿Qué ha
+pasado, maga prodigio?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926809]
+<STR>(RIT)
+¡¡C-Calla la boca!!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926809]
+
+¡Jo, jo! ¡Toda esa rabia
+no te ayudará a ganar!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1295028781]
+<STR>(YUR)
+En serio, déjalo ya.
+¡Vas a seguir perdiendo!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926809]
+<STR>(RIT)
+¡¡No lo aguanto más, no lo
+aguanto más, lo aguanto mááááás!!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296926829]
+
+Mmm... Quizás me haya
+equivocado contigo.

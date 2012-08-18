@@ -1,0 +1,45 @@
+## POINTER 0
+
+The shaggothim flowers all 
+withered and died...
+
+## POINTER 1
+<STR>(RIT)
+...You were the one who destroyed 
+the blastia here, weren't you?
+
+## POINTER 2
+<STR>(JUD)
+Yes, that was me.
+
+## POINTER 3
+<STR>(RIT)
+I see... The reason for these flowers 
+blooming like that was the aer imbalance 
+from the blastia you destroyed...
+
+## POINTER 4
+<STR>(RIT)
+And in the coliseum, too...
+
+## POINTER 5
+<STR>(JUD)
+You heard what the man in the boat said 
+about the fish around there, right?<PAGE>I looked into it, and it was all due to 
+the blastia. So I did what I had to do.
+
+## POINTER 6
+<STR>(JUD)
+You're not mad?
+
+## POINTER 7
+<STR>(RIT)
+I'm plenty mad!<PAGE>But...it's in the past. I 
+hate arguing about things 
+that have already happened.
+
+## POINTER 8
+<STR>(JUD)
+...Sometimes I feel 
+like she might be 
+TOO understanding.

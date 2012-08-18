@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1251825863]
+Un viaje agradable, divertido y relajante
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182834]
+(YUR)
+Ojos-rojos, Caballeros... ¿Por qué no podemos
+tener un viaje agradable, divertido y relajante?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:Amarintia;time:1266329137]
+(KAR)
+No eres el más indicado para quejarse, (YUR).
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182834]
+(RIT)
+Sí, ¿no estaban gritando TU nombre aquellos Caballeros?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182834]
+(KAR)
+Pero tú eres la que se enfrentó
+con los magos, (RIT).
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182834]
+(EST_P)
+¡Por favor, chicos! Todo va bien, ¿no?
+De hecho, yo creo que está siendo divertido.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:Amarintia;time:1266329137]
+(YUR)
+Si crees que es divertido que nos persigan,
+te va a encantar el resto del viaje.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182834]
+(KAR)
+Sí, ignora lo que acaba de pasar, si quieres,
+¡pero seguimos siendo fugitivos!

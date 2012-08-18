@@ -1,0 +1,61 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832859]
+<STR>(RAV)
+Eh, quietos paraos.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1283801160]
+<STR>(YUR)
+¿Qué ocurre, viejales?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1283801204]
+<STR>(RAV)
+Sabéis lo que representa
+colarse en la guaría del
+enemigo, ¿verdad?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1283801204]
+<STR>(YUR)
+¿Lo que... representa?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412633]
+<STR>(RAV)
+Nos metemos en su territorio y nus
+tocará jugar según sus reglas.<PAGE>Si nus metemos sin estar preparaos,
+nus darán una paliza d'agarrate y
+no te menées. Y adiós mu buenas.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832859]
+<STR>(RIT)
+Simplemente preguntas si estamos
+totalmente preparados, ¿no?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412633]
+¿Estás preparado?
+Como nunca lo he estado.
+Todavía no.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832859]
+<STR>(YUR)
+¡Vamos a darles caña, viejales!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832859]
+<STR>(RAV)
+¿Tas seguro?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832859]
+<STR>(YUR)
+Te preocupas más de lo normal.
+Estamos listos.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832859]
+<STR>(RAV)
+¿Sí? Pues arreando.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832859]
+<STR>(YUR)
+Mmm... Ya que lo dices, mejor
+será prepararse a conciencia.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832859]
+<STR>(RAV)
+Vale, ¡pos vamos
+a acicalarnos!

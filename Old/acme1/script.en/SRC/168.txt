@@ -1,0 +1,135 @@
+## POINTER 0
+<STR>(YUR)
+You're looking chipper as always, <STR>(FRE).
+
+## POINTER 1
+<STR>(FRE)
+I've got a lot on my mind, <STR>(YUR). Not 
+that you'd know what that's like.
+
+## POINTER 2
+<STR>(YUR)
+Hmph...
+
+## POINTER 3
+<STR>(FRE)
+Manage to go out and 
+get your bounty raised 
+even higher?
+
+## POINTER 4
+<STR>(YUR)
+I thought you went to 
+the magistrate's place.
+
+## POINTER 5
+<STR>(FRE)
+I went. Along with a search warrant 
+from the blastia research lab.
+
+## POINTER 6
+<STR>(YUR)
+Ah, so you were able to go 
+inside and look around.
+
+## POINTER 7
+<STR>(FRE)
+Nope... The magistrate 
+refused us entry.
+
+## POINTER 8
+<STR>(KAR)
+Why?!
+
+## POINTER 9
+Witcher
+He even tried to provoke us. "If you 
+really think I have blastia, try to 
+bust your way in," he said.
+
+## POINTER 10
+Sodia
+He knows we don't have the jurisdiction
+to do that--he's just making a mockery of us!
+
+## POINTER 11
+<STR>(YUR)
+Well, isn't 
+he right?
+
+## POINTER 12
+Sodia
+What did you say?!
+
+## POINTER 13
+<STR>(KAR)
+<STR>(YUR), whose side are you on?
+
+## POINTER 14
+<STR>(YUR)
+It's not a matter of whose side I'm on. If you think 
+you're right, you should force your way inside.
+
+## POINTER 15
+<STR>(FRE)
+No, it's a trap.<PAGE>Ragou wants the Imperial Guard to make a mistake so he can use 
+it as an excuse to increase the authority of the Council.<PAGE>If we go in now, he'll 
+hide the evidence and 
+feign innocence.
+
+## POINTER 16
+<STR>(EST_P)
+Is Magistrate Ragou on 
+the Council as well?
+
+## POINTER 17
+<STR>(FRE)
+Yes.<PAGE>The Imperial Knights and the Council are both essential 
+organizations that support the empire.<PAGE>But Ragou seems to have 
+forgotten this fact.
+
+## POINTER 18
+<STR>(YUR)
+So in short, we're not dealing with your 
+everyday magistrate here. Well, have you 
+got a plan for what you're doing next?
+
+## POINTER 19
+<STR>(FRE)
+...
+
+## POINTER 20
+<STR>(YUR)
+What, you're out of ideas?
+
+## POINTER 21
+Witcher
+...If there were some sort of disturbance inside the 
+palace, the Imperial Knights would be able to move 
+in under the pretense of emergency prerogative.
+
+## POINTER 22
+<STR>(EST_P)
+Ah yes... "The Imperial Knights may employ emergency 
+prerogative to intervene in emergency situations, 
+regardless of jurisdiction."
+
+## POINTER 23
+<STR>(YUR)
+Of course! So if a thief snuck in and 
+caused a ruckus that'd be enough?
+
+## POINTER 24
+<STR>(FRE)
+<STR>(YUR), I know you want 
+to help, but...
+
+## POINTER 25
+<STR>(YUR)
+...But I shouldn't do anything reckless, right?
+
+## POINTER 26
+<STR>(FRE)
+I'm going to go patrol the town. I've just received 
+a tip that a fugitive with a warrant out for his arrest 
+is trying to get into the magistrate's palace.

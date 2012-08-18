@@ -1,0 +1,188 @@
+## POINTER 0
+<STR>(YUR)
+Yo. We've taken care of the job.
+
+## POINTER 1
+Mimula
+My my, welcome home.
+
+## POINTER 2
+Sebastian
+Ah, ah yes. Thanks for everything... 
+Heh heh heh...
+
+## POINTER 3
+<STR>(YUR)
+We'd like to settle up with 
+you, if you don't mind.
+
+## POINTER 4
+Mimula
+You did rather well, for commoners. Not 
+that the job was all that difficult.
+
+## POINTER 5
+<STR>(EST_P)
+<STR>(YUR)...!
+
+## POINTER 6
+Mimula
+Oh, so you don't need it? Hmph, I thought 
+beggars couldn't afford to be choosers.
+
+## POINTER 7
+Mimula
+Oh, so you decided 
+you weren't too big 
+to get paid, huh?
+
+## POINTER 8
+Accept reward?
+Accept
+I'll pass
+
+## POINTER 9
+<STR>(YUR)
+Thank you very much.
+
+## POINTER 10
+Mimula
+That's right. Thank me all you 
+wish. I don't give handouts 
+to just anyone, you know.
+
+## POINTER 11
+<STR>(YUR)
+...Huh? This feels like 
+it's missing something...
+
+## POINTER 12
+Mimula
+What? There's 200 Gald and plenty 
+of gummy worms in that bag.
+
+## POINTER 13
+<STR>(RIT)
+What? After she 
+built it up that 
+much, that's it?
+
+## POINTER 14
+Mimula
+Oooh!! What did you expect?! 
+This is all I can afford, 
+at this point!
+
+## POINTER 15
+Sebastian
+My Lady. Calm 
+yourself...
+
+## POINTER 16
+<STR>(JUD)
+Oh, the poor thing. Perhaps we 
+should be giving money to you.
+
+## POINTER 17
+Mimula
+Oooooh!
+
+## POINTER 18
+Leblanc
+Accomplices of the extremists! 
+Stand where you are, and 
+reach for the sky!
+
+## POINTER 19
+<STR>(KAR)
+Yikes...!
+
+## POINTER 20
+Boccos
+Lieutenant Leblanc, 
+weapons! They're dealing 
+in weapons here!
+
+## POINTER 21
+Adecor
+You all come, I say, come with me!
+
+## POINTER 22
+Mimula
+Oooh! You keep your grubby 
+little hands off me!
+
+## POINTER 23
+Leblanc
+<STR>(YUR) Lowell...! 
+It's you...!
+
+## POINTER 24
+Leblanc
+The extremists are rabble-rousing 
+criminals. I'm surprised 
+to see you aiding them.
+
+## POINTER 25
+<STR>(YUR)
+You know how it 
+is. Can't let you 
+guys get bored.
+
+## POINTER 26
+<STR>(RAV)
+Hey!
+
+## POINTER 27
+Leblanc
+Sch... I mean... Not you 
+too, Captain <STR>(RAV)?!
+
+## POINTER 28
+Boccos
+Wh-what are we to do...?
+
+## POINTER 29
+<STR>(RAV)
+Why, there's only one thing to do...<PAGE>...Atten-SHUN!!
+
+## POINTER 30
+Leblanc
+Yes, Sir!
+
+## POINTER 31
+<STR>(YUR)
+Some things never change.
+
+## POINTER 32
+Mimula
+Um, what's going on...?
+
+## POINTER 33
+Leblanc
+Drat...gets me every time...
+
+## POINTER 34
+<STR>(YUR)
+Nope, I just can't take it.
+
+## POINTER 35
+<STR>(KAR)
+<STR>(YUR)...?!
+
+## POINTER 36
+Mimula
+What? Do you mean to say that 
+you won't be accepting my 
+most charitable reward?<PAGE>Oooh! Silly 
+commoners! 
+Oooh!
+
+## POINTER 37
+<STR>(YUR)
+Best to be prudent 
+at times like this.
+
+## POINTER 38
+<STR>(EST_P)
+Right...

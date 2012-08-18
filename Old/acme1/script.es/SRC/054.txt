@@ -1,0 +1,270 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270979565]
+<STR>(RIT)
+<VOICE>(VS16_006)¡Tú!
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270979565]
+Ragou
+<VOICE>(VS16_007)¿Sí? ¿Nos conocemos de algo?
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270979565]
+<STR>(YUR)
+<VOICE>(VS16_008)Un buen momento para volverse
+amnésico. Pero conozco a alguien
+que puede ayudarte con eso.
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270979565]
+Ragou
+<VOICE>(VS16_009)¿Amnesia? Lo siento mucho,
+pero esta es la primera vez
+que nos encontramos.
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270979565]
+<STR>(KAR)
+<VOICE>(VS16_010)¡¿Estás loco?!
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270979867]
+<STR>(FRE)
+<VOICE>(VS16_011)Magistrado, vuestros crímenes
+son innegables. Esta gente ha sido 
+testigo de todo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+Ragou
+<VOICE>(VS16_012)Como estaba diciendo, alguien
+ha suplantado mi identidad y ha
+intentado arruinar mi reputación.<PAGE><VOICE>(VS16_013)Ha sido de lo más molesto.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+<STR>(RIT)
+<VOICE>(VS16_014)¡Mentiroso! ¡Vi a la gente con
+la que alimentabas a los monstruos
+con mis propios ojos!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+Ragou
+<VOICE>(VS16_015)¿Y bien, señor <STR>(FRE)?
+¿A quién va a creer, a estos rufianes,
+o a mí, un miembro del Consejo?
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270980216]
+<STR>(YUR)
+<VOICE>(VS16_016)<STR>(FRE)...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+Ragou
+<VOICE>(VS16_017)Está decidido pues...
+Que tenga un buen día.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+<STR>(RIT)
+<VOICE>(VS16_018)¡¿Quién se cree que es?!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+<STR>(RIT)
+<VOICE>(VS16_019)¡¿Y quién narices es ese?!
+
+## POINTER 13 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270980216]
+<STR>(YUR)
+<VOICE>(VS16_020)Tranquila.
+
+## POINTER 14 [t:1;r:2;ru:maz,memnoch;user:memnoch;time:1270983438]
+<STR>(FRE)
+<VOICE>(VS16_021)Este es...
+
+## POINTER 15 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270980216]
+<STR>(EST_P)
+<VOICE>(VS16_022)Es Su Alteza Real Ioder,
+candidato al trono imperial.
+
+## POINTER 16 [t:1;r:2;ru:maz,memnoch;user:memnoch;time:1270983438]
+<STR>(KAR)
+<VOICE>(VS16_023)¿Eh? Ja, ja, sí claro. Muy buena, <STR>(EST_P)...
+
+## POINTER 17 [t:1;r:2;ru:maz,memnoch;user:memnoch;time:1270983438]
+<STR>(KAR)
+<VOICE>(VS16_024)Ja, ja, ja...
+¿Qué?
+
+## POINTER 18 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270980216]
+Ioder
+<VOICE>(VS16_025)Soy uno de los candidatos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+<STR>(FRE)
+<VOICE>(VS16_026)Es verdad. Con la muerte del
+anterior emperador, Su Alteza Ioder
+es un heredero legítimo al trono.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+<STR>(KAR)
+<VOICE>(VS16_027)¿D-De verdad?
+
+## POINTER 21 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270980557]
+Ioder
+<VOICE>(VS16_028)Sí.
+
+## POINTER 22 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270982679]
+<STR>(YUR)
+<VOICE>(VS16_029)Un presunto heredero imperial raptado
+por ese al que llaman magistrado.
+Qué interesante.
+
+## POINTER 23 [t:1;r:2;ru:maz,memnoch;user:memnoch;time:1270983438]
+<STR>(EST_P)
+<VOICE>(VS16_030)Ya veo... Entonces este incidente
+significa que yo...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+<STR>(YUR)
+<VOICE>(VS16_031)Demasiado suculento para que
+se entere todo el mundo, ¿eh?
+
+## POINTER 25 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270980557]
+<STR>(EST_P)
+<VOICE>(VS16_032)Yo... yo...
+
+## POINTER 26 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270980557]
+<STR>(YUR)
+<VOICE>(VS16_033)Tiene algo que ver con tu salida
+del castillo, ¿verdad?
+
+## POINTER 27 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270980796]
+<STR>(EST_P)
+<VOICE>(VS16_034)...
+
+## POINTER 28 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270980557]
+<STR>(YUR)
+<VOICE>(VS16_035)Haz lo que quieras.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+<STR>(YUR)
+<VOICE>(VS16_036)No me interesa un imperio que no mueve
+ni un dedo cuando su gente sufre
+a la vista de todos.
+
+## POINTER 30 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270980796]
+<STR>(FRE)
+<VOICE>(VS16_037)<STR>(YUR)...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+<STR>(FRE)
+<VOICE>(VS16_038)¿Y qué has ganado dándole
+la espalda a ese imperio?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164922]
+<STR>(FRE)
+<VOICE>(VS16_039)Necesitamos leyes promulgadas
+por el gobierno para asegurar que
+la gente viva en paz y estabilidad.
+
+## POINTER 33 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270980796]
+<STR>(YUR)
+<VOICE>(VS16_040)Esas mismas leyes acaban de dejar
+que Ragou se vaya libre.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165537]
+<STR>(FRE)
+<VOICE>(VS16_041)Por eso tú y yo nos hicimos Caballeros,
+<STR>(YUR), para cambiar las cosas.<PAGE><VOICE>(VS16_042)Si no podíamos conseguirlo
+quejándonos desde abajo...<PAGE><VOICE>(VS16_043)Entonces dijimos que ganaríamos
+honor y confianza y arreglaríamos
+el Imperio desde dentro.<PAGE><VOICE>(VS16_044)¿Te acuerdas?
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165348]
+<STR>(YUR)
+<VOICE>(VS16_045)Así que para progresar en la vida,
+¿no tengo que hacer nada cuando alguien
+alimenta monstruos con niños pequeños?<PAGE><VOICE>(VS16_046)¿Quieres que mire a otro lado cuando
+nuestra gente de los barrios bajos
+son sangrados por los impuestos?<PAGE><VOICE>(VS16_047)Precisamente porque no puedo hacer
+esto dejé de ser un Caballero.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528748]
+<STR>(FRE)
+<VOICE>(VS16_048)Lo sé. Pero ¿ha cambiado
+algo desde que lo dejaste?
+
+## POINTER 37 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270981656]
+<STR>(YUR)
+<VOICE>(VS16_049)...
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165348]
+<STR>(FRE)
+<VOICE>(VS16_050)¿Han cambiado las cosas respecto a como
+estaban cuando entraste en los Caballeros?
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165348]
+<STR>(KAR)
+<VOICE>(VS16_051)¡Espera! Yo también voy.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165348]
+<STR>(FRE)
+<VOICE>(VS16_052)Lo he vuelto a hacer...<PAGE><VOICE>(VS16_053)Solo quiero que siga con su vida.
+Que deje de estar de brazos cruzados.
+
+## POINTER 41 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270981656]
+<STR>(EST_P)
+<VOICE>(VS16_054)<STR>(FRE), yo...
+
+## POINTER 42 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270981656]
+<STR>(FRE)
+<VOICE>(VS16_055)Lamento la escena.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165348]
+Ioder
+<VOICE>(VS16_056)¿Qué pretendéis hacer ahora?
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165348]
+<STR>(EST_P)
+<VOICE>(VS16_057)¿Supondría una molestia si fuera con él?
+
+## POINTER 45 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270981801]
+<STR>(FRE)
+<VOICE>(VS16_058)¿Por qué?
+
+## POINTER 46 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270982679]
+<STR>(EST_P)
+<VOICE>(VS16_059)Pienso que muchas cosas han cambiado
+durante mis viajes con <STR>(YUR). 
+El Imperio, el mundo...<PAGE><VOICE>(VS16_060)Yo también he cambiado...
+
+## POINTER 47 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270982089]
+<STR>(FRE)
+<VOICE>(VS16_061)Mi señora <STR>(EST)... Entendido.<PAGE><VOICE>(VS16_062)Tú, joven.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165348]
+<STR>(KAR)
+<VOICE>(VS16_063)¿Quién? ¿Y-Yo?
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165348]
+<STR>(FRE)
+<VOICE>(VS16_064)Dile a <STR>(YUR) que cuide
+a esta señorita.
+
+## POINTER 50 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270982270]
+<STR>(KAR)
+<VOICE>(VS16_065)¡Muy bien!
+
+## POINTER 51 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270982270]
+<STR>(EST_P)
+<VOICE>(VS16_066)¿De verdad no pasa nada?
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165348]
+<STR>(FRE)
+<VOICE>(VS16_067)Preferiría hacer el trabajo
+yo mismo, pero me temo que
+mis obligaciones me lo impiden.<PAGE><VOICE>(VS16_068)Mientras estéis a su lado,
+estoy seguro de que estaréis a salvo.
+
+## POINTER 53 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270982270]
+<STR>(EST_P)
+<VOICE>(VS16_069)Tú crees en él, ¿verdad?
+
+## POINTER 54 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270982270]
+<STR>(FRE)
+<VOICE>(VS16_070)Sí.
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165537]
+<STR>(RIT)
+<VOICE>(VS16_071)Si habéis terminado, ¿podemos continuar?
+Lo perderemos si no nos damos prisa.

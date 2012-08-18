@@ -1,0 +1,62 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS36_001)I'm gonna take this one with 
+me and pay the Don a visit.<PAGE><VOICE>(VS36_002)These things usually take a while, 
+so why not hang tight at the inn. 
+I'll come over when I can.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS36_003)Wait! Can...can 
+I come with you?
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS36_004)Huh? This is Union 
+business. Not sure you'll 
+have much ta talk about.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS36_005)I... Actually, there was something 
+else I wanted to ask...
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VS36_006)Can't it wait till ya bring the 
+apatheia with everybody else?
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS36_007)It's... I'd rather ask it on my own.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS36_008)If it's not too complicated, 
+go and give it a try.
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS36_009)I can't make any promises, just so ya know.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS36_010)Thanks! I'll be right back guys!
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS36_011)Do you think we could ask 
+about the apatheia as well?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS36_012)That qualifies as complicated.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS36_013)You've got that right...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS36_014)Let's be good kids and wait 
+for Uncle <STR>(RAV) at the inn.

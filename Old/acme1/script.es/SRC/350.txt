@@ -1,0 +1,43 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280493716]
+<STR>(YUR)
+<VOICE>(VS32_053)Cumore.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409175]
+Cumore
+<VOICE>(VS32_054)¡T-T-Tú!
+¡No! ¡Eres tú, <STR>(YUR)!
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283424754]
+Cumore
+<VOICE>(VS32_055)¡¿Q-Qué haces aquí?!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280493716]
+Cumore
+<VOICE>(VS32_056)¡Socorro! ¡Que venga
+alguien, deprisa!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283424754]
+Cumore
+<VOICE>(VS32_057)¿T-Te atreves a cruzar tu
+acero con el de un noble?<PAGE>
+<VOICE>(VS32_058)D-De acuerdo, acepto tu desafío.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409175]
+Cumore
+<VOICE>(VS32_059)¡N-No! ¡Cómo es posible!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409175]
+<STR>(YUR)
+<VOICE>(VS32_060)Hablas demasiado, Cumore.<PAGE>
+<VOICE>(VS32_061)Ya va siendo hora de
+que salgas del escenario.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283424754]
+Cumore
+<VOICE>(VS32_062)¡¿T-Tienes idea de en qué problemas
+te estás metiendo solo por
+apuntarme con ese chisme?!
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283424754]
+Cumore
+<VOICE>(VS32_063)¡A-Aaah!

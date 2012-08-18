@@ -1,0 +1,53 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS15_307)Everybody okay?
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS15_308)I am... 
+But <STR>(YUR)...
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS15_309)...
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS15_310)<STR>(YUR)...! 
+Thank goodness!
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS15_311)Man that's salty. I must've 
+drank a bucket full.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS15_312)Who's that?
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS15_313)Ioder...!
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS15_314)What, you know him?
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS15_315)Look, a boat! We're saved! 
+Heeey! Over heeere!!
+
+## POINTER 9
+<STR>(FRE)
+<VOICE>(VS15_316)It looks like everyone made 
+it through unharmed.
+
+## POINTER 10
+<STR>(FRE)
+<VOICE>(VS15_317)...Master Ioder!
+
+## POINTER 11
+<STR>(FRE)
+<VOICE>(VS15_318)Wait, I'll pull you out. 
+Sodia, give me a hand.

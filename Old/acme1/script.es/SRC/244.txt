@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274629654]
+<STR>(KAR)
+<VOICE>(VS23_104)Ya sé que tenemos que salir
+de la ciudad, pero estoy
+que me muero.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274629654]
+<STR>(YUR)
+<VOICE>(VS23_105)Lo que pasa es que no estás acostumbrado
+a un poco de ejercicio matutino.<PAGE><VOICE>(VS23_106)Ya falta poco para llegar.
+Vamos, <STR>(KAR).
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318873]
+<STR>(JUD)
+<VOICE>(VS23_107)¿Y adónde tenemos que llegar, exactamente?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274629654]
+<STR>(YUR)
+<VOICE>(VS23_108)Creo que Heliord es el sitio más cercano.
+Así que al menos hasta allí.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274629654]
+<STR>(KAR)
+<VOICE>(VS23_109)¡¿Qué?!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274629654]
+<STR>(EST_P)
+<VOICE>(VS23_110)¿No deberíamos descansar un poco
+en cuanto hayamos salido de la ciudad?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279090558]
+<STR>(KAR)
+<VOICE>(VS23_111)¡D-De acuerdo!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318873]
+<STR>(YUR)
+<VOICE>(VS23_112)
+Vale, vale.
+Ahora continuemos.

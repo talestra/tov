@@ -1,0 +1,117 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VA021_001)Just what do they eat 
+to get this big?
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VA021_002)The only thing they eat is aer.<PAGE><VOICE>(VA021_003)Any aer that doesn't become 
+an apatheia gets metabolized
+and makes them this size.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VA021_004)And they can live on just that?
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VA021_005)Aer contains all the necessary 
+ingredients for life.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VA021_006)Huh. That's a little trick 
+we humans can't do.
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VA021_007)The Entelexeia have each 
+evolved into a particular form 
+that best suits their needs.<PAGE><VOICE>(VA021_008)It takes time. Many, many times the length of a human life.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VA021_009)So, that's why they keep to themselves, 
+even though they're all 
+part of the same group.
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VA021_010)Yes.<PAGE><VOICE>(VA021_011)Humans knowledge can't compare 
+to the knowledge the Entelexeia 
+accumulate over their lives.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VA021_012)But even though they're smarter than 
+humans, they don't use magic.
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VA021_013)The Entelexeia have no need to rely 
+on magic to defend themselves.<PAGE><VOICE>(VA021_014)Unlike humans.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VA021_015)Okay, but magic can be used for other 
+things besides self-defense..
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VA021_016)I guess they had no desire for power 
+other than to protect themselves.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VA021_017)So they had a totally different set of values.
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VA021_018)That "different set of values" has 
+led to the wars between the 
+humans and the Entelexeia.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VA021_019)...And the two sides had to come 
+together somehow to defeat the 
+Adephagos in the past...<PAGE><VOICE>(VA021_020)Man, you gotta wonder how 
+crazy that must've been.
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VA021_021)I don't know... Ba'ul's still 
+young. He wasn't alive 
+during those times...
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VA021_022)Even so, he's been around more than 
+a hundred years already, right?
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VA021_023)Heh, yeah... But that 
+would only make him around 
+20 in human years.<PAGE><VOICE>(VA021_024)...I imagine Phaeroh 
+would know about the 
+events of that era...
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VA021_025)I wonder if he'd be willing 
+to tell us about it.
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VA021_026)We won't know until we ask.<PAGE><VOICE>(VA021_027)...Shall we meet with him so you can ask in person?
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VA021_028)We will soon enough.<PAGE><VOICE>(VA021_029)We haven't solved any of <STR>(EST_P)'s 
+issues, so he'd probably 
+just yell at us again.
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VA021_030)You're right...

@@ -1,0 +1,218 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS42_053)It's the Royal Guard.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS42_054)That has to mean we're 
+on the right track.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS42_055)Good call <STR>(KAR). <STR>(EST_P)'s gotta
+be back there somewhere.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS42_056)We don't have much time. 
+Let's make this quick!
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS42_057)This is...<PAGE><VOICE>(VS42_058)A barrier that's been 
+locked up somehow with 
+an encrypted formula...?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS42_059)Can you open it?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS42_060)It uses an ancient technology 
+that's barely been studied at all.<PAGE><VOICE>(VS42_061)Even I've only seen 
+something like this in books.<PAGE><VOICE>(VS42_062)I couldn't even guess 
+how long a thorough 
+analysis might take.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS42_063)I'm guessing we can't just 
+force our way through.
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VS42_064)Locks usually aren't 
+placed on anything 
+that's easily broken into.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS42_065)Yeah, you're right... Wait, 
+how do you think Alexei 
+got through here?
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS42_066)He probably forced the lock, 
+using <STR>(EST_P)'s...the power of 
+the Child of the Full Moon.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS42_067)Which means he made her 
+use her power again.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS42_068)...
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS42_069)Someone's here.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS42_070)Duke... Why are you here?
+
+## POINTER 15
+Duke
+<VOICE>(VS42_071)You... How is the 
+young lady--the Child 
+of the Full Moon?
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS42_072)Alexei's got her somewhere 
+up ahead!
+
+## POINTER 17
+Duke
+<VOICE>(VS42_073)...I see. So he has 
+made his move.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS42_074)Are you here because 
+of him, too?
+
+## POINTER 19
+Duke
+<VOICE>(VS42_075)The aer krene in this region has 
+become severely imbalanced. 
+I have come to restrain it.
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS42_076)...By restrain, you 
+mean you actually have 
+a way to do that?
+
+## POINTER 21
+Duke
+<VOICE>(VS42_077)To quiet the aer krene, the 
+cause of the imbalance 
+must be removed.
+
+## POINTER 22
+<STR>(JUD)
+<VOICE>(VS42_078)Just come out and say it.
+You mean kill <STR>(EST_P).
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS42_079)That's enough.<PAGE><VOICE>(VS42_080)What is it with blaming 
+all the world's problems 
+on a single girl?
+
+## POINTER 24
+Duke
+<VOICE>(VS42_081)An unstable Child of the Full 
+Moon cannot be ignored.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS42_082)You're as hard-headed as 
+Phaeroh. I thought as a human, 
+you'd see things differently.
+
+## POINTER 26
+Duke
+<VOICE>(VS42_083)Our common bond as humans is 
+nothing. A single life cannot be 
+privileged over the fate of the world.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS42_084)Yeah, never mind that without 
+a bunch of those single lives, 
+there'd be no world.<PAGE><VOICE>(VS42_085)Listen. She may be a bumbling, 
+sheltered excuse for a princess, 
+but she's one of ours.<PAGE><VOICE>(VS42_086)She's none of your concern. 
+So back off!
+
+## POINTER 28
+Duke
+<VOICE>(VS42_087)Do you say that knowing 
+just how great a threat 
+her existence poses?
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS42_088)What we know's got nothing 
+to do with it. Our motto is 
+always do what's right.<PAGE><VOICE>(VS42_089)And if that means having 
+to get up close and personal 
+with you, then so be it.
+
+## POINTER 30
+Duke
+<VOICE>(VS42_090)...Very well.<PAGE><VOICE>(VS42_091)The time has come to show 
+me the resolve that so 
+impressed Phaeroh.
+
+## POINTER 31
+Duke
+<VOICE>(VS42_092)This is Dein Nomos. It is 
+the only manner in which 
+the aer may be quieted.<PAGE><VOICE>(VS42_093)Raise it and calm your 
+mind. The sword will 
+take care of the rest.
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VS42_094)Dein Nomos...
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS42_095)Duke, wait!<PAGE><VOICE>(VS42_096)Dein Nomos--that's the name of 
+the sword of the imperial line 
+that's been missing all this time.<PAGE><VOICE>(VS42_097)What are you doing with it? Why 
+does something like that have 
+the power to control the aer?<PAGE><VOICE>(VS42_098)Who are you?
+
+## POINTER 34
+Duke
+<VOICE>(VS42_099)The answers to those 
+questions are not what 
+you should be seeking now.<PAGE><VOICE>(VS42_100)Go, before you are too late.<PAGE><VOICE>(VS42_101)Soon you will learn for yourselves 
+the true weight of the burden 
+borne by the Entelexeia.
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS42_102)...
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS42_103)Come on...!
+
+## POINTER 37
+<STR>(RIT)
+<VOICE>(VS42_104)...That formula, it's just 
+like <STR>(EST_P)'s. So that 
+sword really is...
+
+## POINTER 38
+<STR>(KAR)
+<VOICE>(VS42_105)It opened...

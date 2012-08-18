@@ -1,0 +1,149 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1272474464]
+
+¡<STR>(YUR)! ¿Eres tú, <STR>(YUR)?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1272474464]
+<STR>(YUR)
+¿Eh? ¿Quién eres?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238483]
+
+¿No te acuerdas de mí?
+Porque yo sí de ti. ¡Soy yo, Hachette!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238483]
+<STR>(KAR)
+Claro, como es tan fácil reconocer a la 
+gente cuando llevan un casco puesto...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238988]
+<STR>(YUR)
+¡Vaya! Estás muy distinto
+a como te recordaba. 
+No te había reconocido.<PAGE>¿Has engordado?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1272474464]
+
+¡Ay! Yo también me alegro de verte, <STR>(YUR)...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238988]
+<STR>(RIT)
+Parece que el casco no ha sido un problema.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:miyu;time:1272474464]
+<STR>(EST_P)
+¿Es amigo tuyo, <STR>(YUR)?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:miyu;time:1272917869]
+<STR>(YUR)
+Hachette y yo nos alistamos en los 
+Caballeros Imperiales al mismo tiempo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238988]
+<STR>(RAV)
+Bueno, este abuelo se 
+va a dar un paseíllo.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:miyu;time:1272474464]
+<STR>(KAR)
+¿Eh, por qué?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238988]
+<STR>(RAV)
+Cuanto más mayor s'hace uno,
+más cuesta aguantar estas reuniones.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238988]
+<STR>(KAR)
+Vale... Hasta luego.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298325195]
+<STR>(YUR)
+¿Esta armadura no es del mismo color
+que la de los Caballeros de Leblanc?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324623]
+
+¡Sip! Ahora estoy en la brigada de Schwann.
+<PAGE>Si te digo la verdad, me alegro de que
+no me asignaran a la brigada de <STR>(FRE).
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238988]
+<STR>(EST_P)
+¿No quería trabajar para <STR>(FRE)?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298325195]
+
+No sé, me costaría estar bajo sus órdenes;
+entrenamos juntos para ser Caballeros y eso.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:miyu;time:1272475410]
+<STR>(RIT)
+No creo que algo así le 
+importara a <STR>(FRE).
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238988]
+<STR>(YUR)
+En eso tienes razón.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:miyu;time:1272917869]
+<STR>(KAR)
+<STR>(FRE) no ha parado de ascender desde que se alistó.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243558]
+
+Es de locos que alguien que no sea 
+noble haya llegado a capitán tan joven.<PAGE>En cambio yo... como me pasaba
+el día holgazaneando contigo,
+sigo siendo un simple soldado.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:miyu;time:1272475410]
+<STR>(EST_P)
+¿Qué clase de actividades hacíais juntos?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:miyu;time:1272917869]
+
+Solíamos saltarnos los 
+entrenamientos y colarnos en 
+el comedor para pillar comida.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1283186629]
+<STR>(YUR)
+Sí, y luego en el almacén 
+nos cambiábamos los bodhi
+blastias por otros mejores...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238988]
+<STR>(KAR)
+¡Por lo que veo os colabais por todo!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:miyu;time:1272475410]
+
+Pues sí. Eramos jóvenes e indisciplinados.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:miyu;time:1272475410]
+<STR>(RIT)
+<STR>(YUR) todavía sigue usando algunos de sus trucos.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238988]
+
+Ja, ja, eso he oído.
+No te pases con <STR>(FRE),
+¿vale?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:miyu;time:1272475410]
+<STR>(YUR)
+Sí, sí. Y tú no te 
+escaquees del trabajo.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:miyu;time:1272475410]
+
+Por cierto, <STR>(YUR), viajas 
+mucho últimamente, ¿no?
+<PAGE>¿Crees que podrías pasarte 
+por Capua Nor y decirle a mi 
+familia que todo me va bien?<PAGE>Viven en la posada, te será fácil encontrarlos.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1294238988]
+<STR>(YUR)
+Claro, por mí encantado. Hasta otra, Hachette.

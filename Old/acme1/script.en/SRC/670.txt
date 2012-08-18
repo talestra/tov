@@ -1,0 +1,147 @@
+## POINTER 0
+
+<STR>(YUR)! Is that you, <STR>(YUR)?
+
+## POINTER 1
+<STR>(YUR)
+Huh? Who're you?
+
+## POINTER 2
+
+You don't remember me? I sure as heck-fire 
+remember you! It's Hachette!
+
+## POINTER 3
+<STR>(KAR)
+Not that it's easy to recognize someone 
+when they've got a mask on.
+
+## POINTER 4
+<STR>(YUR)
+Oh, wow! You look different 
+from how I remember. I didn't 
+realize it was you.<PAGE>Haven't you gained weight?
+
+## POINTER 5
+
+Ouch! It's nice to see you too, <STR>(YUR)...
+
+## POINTER 6
+<STR>(RIT)
+Looks like the mask had nothing to do with it!
+
+## POINTER 7
+<STR>(EST_P)
+Is this a friend of yours, <STR>(YUR)?
+
+## POINTER 8
+<STR>(YUR)
+Hachette joined the Imperial Knights
+at the same time as I did.
+
+## POINTER 9
+<STR>(RAV)
+This old man is gonna 
+go have a little walk.
+
+## POINTER 10
+<STR>(KAR)
+Huh, how come?
+
+## POINTER 11
+<STR>(RAV)
+The older ya get, the harder it is to 
+stomach little reunions like this.
+
+## POINTER 12
+<STR>(KAR)
+...All right. See ya later.
+
+## POINTER 13
+<STR>(YUR)
+That armor color is the same as 
+Leblanc's knights, isn't it?
+
+## POINTER 14
+
+Yep! I'm in the Schwann Brigade!<PAGE>To tell you the truth, I'm pretty glad they 
+didn't assign me to the <STR>(FRE) Brigade.
+
+## POINTER 15
+<STR>(EST_P)
+You didn't want to work with <STR>(FRE)?
+
+## POINTER 16
+
+Well, it would be tough working under him, since 
+we started off training to be soldiers together.
+
+## POINTER 17
+<STR>(RIT)
+That doesn't seem like the sort 
+of thing <STR>(FRE) would care about.
+
+## POINTER 18
+<STR>(YUR)
+You've got that right, <STR>(RIT).
+
+## POINTER 19
+<STR>(KAR)
+<STR>(FRE)'s all about advancing in his career, isn't he?
+
+## POINTER 20
+
+It's pretty crazy for a non-noble to 
+make captain at such a young age.<PAGE>Me on the other hand...thanks to all 
+the goofing off I did with you, <STR>(YUR), 
+I'm still nothing but a lowly peon.
+
+## POINTER 21
+<STR>(EST_P)
+What sort of things did you two do?
+
+## POINTER 22
+
+We used to skip training 
+and sneak into the dining 
+hall to grab snacks.
+
+## POINTER 23
+<STR>(YUR)
+Yeah, and then we'd sneak into 
+the warehouse to switch bodhi 
+blastia for nicer ones...
+
+## POINTER 24
+<STR>(KAR)
+Sounds like a whole lot of sneaking!
+
+## POINTER 25
+
+It's true. We had our fair share of youthful indiscretions.
+
+## POINTER 26
+<STR>(RIT)
+<STR>(YUR)'s still up to his old tricks, though.
+
+## POINTER 27
+
+Ha ha, I've heard 
+as much. Go easy on 
+<STR>(FRE), would ya?
+
+## POINTER 28
+<STR>(YUR)
+Yeah, yeah. Don't goof off 
+too much on the job!
+
+## POINTER 29
+
+Oh yeah, <STR>(YUR), you've been 
+traveling around, right?<PAGE>You think you might be able to 
+stop by Capua Nor and tell my 
+folks that I'm doing well?<PAGE>They live in the inn, so you can't miss 'em.
+
+## POINTER 30
+<STR>(YUR)
+Sure, I'd be happy to. See ya later, Hachette.

@@ -1,0 +1,91 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+<STR>(EST_P)
+¡Hola!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+
+Oh, ¿cómo estás?
+Tienes buen aspecto.
+
+## POINTER 2 [t:1;r:2;ru:xander,memnoch;user:xander;time:1294106866]
+<STR>(EST_P)
+¿Se ha dado cuenta?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+
+Claro. No hay más que verte la cara.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+
+Urgh... Doctor...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766304]
+
+¡Ups, estaba trabajando!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+<STR>(EST_P)
+¿Es un paciente suyo?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766304]
+
+Sí. Parece que tiene algún tipo
+de enfermedad cardíaca.<PAGE>Aguante, amigo mío.
+Le ayudaré a aliviar el dolor.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+
+Ugggh... Me duele...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+
+Parece que no funciona...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+
+Mmmm...
+Un poder mágico impresionante...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+
+Ah... Ha dejado de dolerme...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+<STR>(EST_P)
+¡Bien!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+
+¡Mmmm!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+
+Gracias, 
+doctor...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+
+S-Sí, por supuesto... Bueno, quédese un rato
+para recuperar fuerzas antes de marcharse.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+
+Tienes mucho
+talento, jovencita.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766304]
+<STR>(EST_P)
+¿Qué? ¿En serio?
+No creo yo que...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296766304]
+
+No, en serio. Ser capaz de
+manejar artes curativas de
+ese nivel no es poca cosa.<PAGE>Si nos ponemos técnicos, tienes que pulir ciertos
+aspectos, pero eres una sanadora nata. Estoy impaciente
+por ver hasta dónde puedes llegar si sigues practicando.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1294106866]
+<STR>(EST_P)
+Sí...

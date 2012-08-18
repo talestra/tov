@@ -1,0 +1,173 @@
+## POINTER 0
+
+*Gulp* I can feel the life coming back into me...
+
+## POINTER 1
+
+Oh, that really hit the spot!
+
+## POINTER 2
+
+Thank you so much!
+
+## POINTER 3
+
+We're alive, thanks 
+to you... You're 
+our saviors!
+
+## POINTER 4
+<STR>(EST_P)
+Please, it's nothing...
+
+## POINTER 5
+
+*Huff* Is that...all you have?
+
+## POINTER 6
+
+I wish you had more...
+
+## POINTER 7
+
+But...thank 
+you.
+
+## POINTER 8
+
+We've been saved, 
+thanks to you.
+
+## POINTER 9
+<STR>(EST_P)
+N-no, it's quite all right...
+
+## POINTER 10
+
+Wh-where's the water?
+
+## POINTER 11
+
+I-is this all you have?
+
+## POINTER 12
+
+Oh...I'm sorry... Thanks to 
+you, we were saved from certain 
+death in the desert.
+
+## POINTER 13
+
+...This is really all the water you have?
+
+## POINTER 14
+
+Honey, please...
+
+## POINTER 15
+<STR>(YUR)
+We'll have time to relax once 
+we get you back alive.
+
+## POINTER 16
+
+I'd like to thank you for saving us...but I'm afraid I 
+don't have anything with me that I could give you...
+
+## POINTER 17
+<STR>(YUR)
+Oh, please, we don't need 
+anything like that.
+
+## POINTER 18
+
+No, that simply 
+won't do.<PAGE>Please, come to Mantaic so that I can 
+pay you back for what you've done.
+
+## POINTER 19
+<STR>(RIT)
+Mantaic...?
+
+## POINTER 20
+<STR>(JUD)
+Wait, are you the 
+parents of Alph 
+and Layla?
+
+## POINTER 21
+
+Y-yes, yes, we are!
+
+## POINTER 22
+
+Did you see our children 
+back in Mantaic...?
+
+## POINTER 23
+<STR>(EST_P)
+Yes, we met them there.
+
+## POINTER 24
+<STR>(KAR)
+They were worried about 
+their mom and dad.
+
+## POINTER 25
+<STR>(JUD)
+They were even going to come out 
+into the desert to look for you.
+
+## POINTER 26
+
+Oh... This is terrible. 
+We have to go back 
+to them...
+
+## POINTER 27
+<STR>(JUD)
+Don't be so hasty. Do you think you 
+two can go back by yourselves?
+
+## POINTER 28
+
+Well, we...that is... No, 
+I guess...we can't.
+
+## POINTER 29
+<STR>(RAV)
+Then just calm down for now.
+
+## POINTER 30
+
+A bird...in this desert?
+
+## POINTER 31
+<STR>(KAR)
+It sounds close...
+
+## POINTER 32
+<STR>(RAV)
+Sounds like it came from just up ahead.
+
+## POINTER 33
+<STR>(YUR)
+So we'll get to meet him...it's about time. 
+I was about to shrivel up in this heat.
+
+## POINTER 34
+<STR>(EST_P)
+You two come, too.
+
+## POINTER 35
+
+Y-yes...
+
+## POINTER 36
+<STR>(YUR)
+Make sure to keep a safe distance. You'll want to 
+be out of the way in case a fight breaks out.
+
+## POINTER 37
+
+Y-yes, okay.

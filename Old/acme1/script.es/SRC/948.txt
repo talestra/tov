@@ -1,0 +1,60 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1295034296]
+<STR>(YUR)
+No estarás pensando
+en tirarte, ¿verdad?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1295034296]
+<STR>(RAV)
+¿En serio parezco tan deprimío?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1295034296]
+<STR>(YUR)
+Pareces... preocupado por el
+blastia que hay en tu corazón.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296958428]
+<STR>(RAV)
+No te puedo ocultar
+ná de ná, jovenzuelo...
+Siento haberlo intentao.<PAGE>Leñe. ¿Por qué me preocupa argo
+así después de tanto tiempo?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296958428]
+<STR>(YUR)
+Quieres seguir viviendo,
+¿no? Es normal.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296958428]
+<STR>(RAV)
+Ya.<PAGE>Supongo que es normal, ¿no?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296958428]
+<STR>(YUR)
+¿Y ahora te acuerdas?<PAGE>Entonces deberías hablar
+con <STR>(RIT) cuanto antes.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1295034296]
+<STR>(RAV)
+Sí... No m'hace gracia estar
+endeudao con esa chiquilla...
+Bueno, me lo pensaré.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1295034296]
+<STR>(YUR)
+Escúchame, <STR>(RAV). Esto es serio.
+¿No quieres vivir lo que te queda
+de vida bien y en paz?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1295034296]
+<STR>(RAV)
+Ja, ja.<PAGE>Mi vida pertenece a Gran Vesperia.
+No pienso palmarla y dejaros a tos
+plantaos. Además se lo prometí al chaval.<PAGE>¿Y no es ahora de que te vayas a la cama, mozuelo?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1295034296]
+<STR>(YUR)
+Vale, te dejo en paz, viejales.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1295034296]
+<STR>(RAV)
+...

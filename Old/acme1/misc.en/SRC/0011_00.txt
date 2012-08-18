@@ -1,0 +1,312 @@
+## POINTER 3
+Apple Gel
+
+## POINTER 4
+A gummi type medicine. Restores 30% of Max HP.
+The apple flavor has nothing to do with the effect.
+
+## POINTER 6
+Lemon Gel
+
+## POINTER 7
+A gummi type medicine. Restores 60% of Max HP.
+The sourness helps to shake off drowsiness.
+
+## POINTER 9
+Orange Gel
+
+## POINTER 10
+A gummi type medicine. Restores 30% of Max TP.
+It has a nice citrus scent with an orange flavor.
+
+## POINTER 12
+Pineapple Gel
+
+## POINTER 13
+A gummi type medicine. Restores 60% of Max TP.
+Don’t let the fiber get stuck in your teeth.
+
+## POINTER 15
+Melange Gel
+
+## POINTER 16
+A gummi type medicine. Restores 30% of
+Max HP and TP. The ingredient is a secret.
+
+## POINTER 18
+Miracle Gel
+
+## POINTER 19
+A gummi type medicine. Restores 60% of
+Max HP and TP. Enjoy the miraculous flavor.
+
+## POINTER 21
+Specific
+
+## POINTER 22
+Restores 30% of Max TP for all party members.
+Nice to spread around when using.
+
+## POINTER 24
+Treat
+
+## POINTER 25
+Restores 30% of Max HP for all party members.
+Nice to spread around when using.
+
+## POINTER 27
+Special Gel
+
+## POINTER 28
+A gummi type medicine. Recovers all HP and
+TP. Very useful, but rare and limited in numbers.
+
+## POINTER 30
+Lottery Gel
+
+## POINTER 31
+Maybe it’s something good, maybe it’s not.
+You won't know until you try it.
+
+## POINTER 33
+Poison Bottle
+
+## POINTER 34
+Medicine that cures <06>(ST1)Poison.
+The herbal scent is refreshing.
+
+## POINTER 36
+Paralysis Bottle
+
+## POINTER 37
+Medicine that cures <06>(ST2)Paralysis.
+Very powerful, so avoid heavy use.
+
+## POINTER 39
+Stone Bottle
+
+## POINTER 40
+Medicine that cures <06>(ST3)Petrification.
+You don’t want to spill this in your room.
+
+## POINTER 42
+Seal Bottle
+
+## POINTER 43
+Medicine that cures <06>(ST5)Sealed Artes
+and <06>(ST6)Sealed Skills.
+
+## POINTER 45
+Weak Bottle
+
+## POINTER 46
+Medicine that cures <06>(ST4)Weak.
+Makes you active!
+
+## POINTER 48
+Mind Bottle
+
+## POINTER 49
+Medicine that cures <06>(ST7)Contamination.
+
+## POINTER 51
+Life Bottle
+
+## POINTER 52
+Spirited water that revives a KO'd ally
+with 30% of Max HP and 15% of Max TP.
+
+## POINTER 54
+Cure Bottle
+
+## POINTER 55
+A liquid that cures all Physical Ailments
+after battle.
+
+## POINTER 57
+Dinei Bottle
+
+## POINTER 58
+A liquid that cures all Magical Ailments
+during battle.
+
+## POINTER 60
+Panacea Bottle
+
+## POINTER 61
+Cures both Physical and Magical Ailments.
+Need to keep some handy for an extra precaution.
+
+## POINTER 63
+Holy Bottle
+
+## POINTER 64
+A bottle sealed with light. Keeps enemies
+away for a certain amount of time.
+
+## POINTER 66
+Holy Bottle 2
+
+## POINTER 67
+A bottle sealed with light. Keeps enemies
+away for a certain amount of time.
+
+## POINTER 69
+Dark Bottle
+
+## POINTER 70
+A bottle sealed with darkness. Attracts
+enemy attention for a certain amount of time.
+
+## POINTER 72
+Syrup Bottle
+
+## POINTER 73
+Prevents Physical Ailments for 1 minute
+during battle. Can only be used during battles.
+
+## POINTER 75
+Nectar Bottle
+
+## POINTER 76
+Prevents Magical Ailments for 1 minute
+during battle. Can only be used during battles.
+
+## POINTER 78
+Limit Bottle
+
+## POINTER 79
+Fills the Over Limit gauge fully once.
+Can only be used during battles.
+
+## POINTER 81
+Sage
+
+## POINTER 82
+A medicinal herb. Increases Max HP by 10.
+
+## POINTER 84
+Red Sage
+
+## POINTER 85
+A medicinal herb. Increases Max HP by 30.
+
+## POINTER 87
+Savory
+
+## POINTER 88
+A medicinal herb. Increases Max TP by 10.
+
+## POINTER 90
+Red Savory
+
+## POINTER 91
+A medicinal herb. Increases Max TP by 30.
+
+## POINTER 93
+Lavender
+
+## POINTER 94
+A medicinal herb. Increases P. ATK by 1.
+
+## POINTER 96
+Red Lavender
+
+## POINTER 97
+A medicinal herb. Increases P. ATK by 3.
+
+## POINTER 99
+Verbena
+
+## POINTER 100
+A medicinal herb. Increases P. DEF by 1.
+
+## POINTER 102
+Red Verbena
+
+## POINTER 103
+A medicinal herb. Increases P. DEF by 3.
+
+## POINTER 105
+Chamomile
+
+## POINTER 106
+A medicinal herb. Increases M. ATK by 1.
+
+## POINTER 108
+Red Chamomile
+
+## POINTER 109
+A medicinal herb. Increases M. ATK by 3.
+
+## POINTER 111
+Basil
+
+## POINTER 112
+A medicinal herb. Increases M. DEF by 1.
+
+## POINTER 114
+Red Basil
+
+## POINTER 115
+A medicinal herb. Increases M. DEF by 3.
+
+## POINTER 117
+Saffron
+
+## POINTER 118
+A medicinal herb. Increases AGL by 1.
+
+## POINTER 120
+Red Saffron
+
+## POINTER 121
+A medicinal herb. Increases AGL by 3.
+
+## POINTER 123
+All-Divide
+
+## POINTER 124
+Reduces all damage inflicted on allies
+and enemies during battle by 50%.
+
+## POINTER 126
+Hourglass
+
+## POINTER 127
+Temporarily freezes the enemy during battle.
+
+## POINTER 129
+Magic Lens
+
+## POINTER 130
+A mysterious lens that reveals enemy details.
+Never look into the sun with it!
+
+## POINTER 132
+Mat
+
+## POINTER 133
+A simple mat used when camping outdoors.
+Restores 25% of Max HP and TP.
+
+## POINTER 135
+Simple Tent
+
+## POINTER 136
+A simple tent for camping outdoors.
+Restores 50% of Max HP and TP.
+
+## POINTER 138
+Tent
+
+## POINTER 139
+An all-purpose heavy duty tent.
+Restores 75% of Max HP and TP.
+
+## POINTER 141
+Barrier
+
+## POINTER 142
+A cozy barrier that can block out wind and rain.
+Fully restores HP and TP in luxury and peace.

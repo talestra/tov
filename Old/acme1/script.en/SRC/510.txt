@@ -1,0 +1,371 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS55_001)That monster's not gonna 
+show up again, right?
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VS55_002)If it does, you'll beat it up for 
+us just like the last time, right?
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS55_003)...You're mean.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS55_004)Okay, I'm ready. <STR>(EST_P), 
+come over here.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS55_005)Now I'll release the control formula. 
+Once I do that, the aer krene will 
+react to you and produce more aer.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS55_006)I want you to recompose the 
+aer formula into a stable 
+formula closer to mana.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS55_007)U-umm... I don't understand...
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS55_008)Yeah... Okay...<PAGE><VOICE>(VS55_009)The water element is strong here, 
+so imagine flowing water and let 
+your body flow with the aer.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS55_010)The theory behind materializing aer 
+is the same as performing magic.<PAGE><VOICE>(VS55_011)If <STR>(EST_P) can recompose the aer 
+into a state close to mana...<PAGE><VOICE>(VS55_012)...then I should be able to guide 
+the aer into the cyano ciel.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS55_013)Can we do anything?
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS55_014)No. Go take a nap or something.
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS55_015)We'd freeze to death if 
+we took a nap here!
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS55_016)We can use the conversion 
+formula we found 
+in Zaude.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS55_017)That was for substituting 
+life for aer! Your life!<PAGE><VOICE>(VS55_018)You can't do that!
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VS55_019)But if this fails, then we'll all 
+be swallowed up by a flood of aer. 
+We'll be dead anyway, right?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS55_020)We're all risking 
+our lives.<PAGE><VOICE>(VS55_021)Let us help.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS55_022)All right....<PAGE><VOICE>(VS55_023)I'll use your life energy 
+to guide the aer into 
+the cyano ciel.<PAGE><VOICE>(VS55_024)If we do that, I think <STR>(EST_P) will 
+understand the flow of the aer 
+without interference from me.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS55_025)All right, everyone. 
+Let's do this.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS55_026)Okay!
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS55_027)Yeah!
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS55_028)Sure, why not.
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VS55_029)Okay.
+
+## POINTER 22
+<STR>(RAP)
+<VOICE>(VS55_030)Woof!
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS55_031)Ready, <STR>(EST_P)? 
+Here we go.<PAGE><VOICE>(VS55_032)Everyone, come over here.
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS55_033)Go ahead.
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS55_034)Try and synchronize yourself with 
+my formula. There...that's good.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS55_035)Ugh...
+
+## POINTER 27
+<STR>(RIT)
+<VOICE>(VA110_017)The aer is collecting 
+in the cyano ciel...
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VS55_036)The formula's working. The force field 
+is stable... It's going to be OK!
+
+## POINTER 29
+<STR>(EST_P)
+<VOICE>(VS55_037)Ugh...ah...
+
+## POINTER 30
+<STR>(EST_P)
+<VOICE>(VS55_038)*Shriek*
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS55_039)What happened?
+
+## POINTER 32
+<STR>(KAR)
+<VOICE>(VS55_040)D-did it not work?
+
+## POINTER 33
+<STR>(RIT)
+<VOICE>(VS55_041)No! It's still under control, 
+but what is this...?!
+
+## POINTER 34
+<STR>(RIT)
+<VOICE>(VS55_042)A formula for reshaping 
+the apatheia?! It's reformulating 
+itself...?
+
+## POINTER 35
+
+<VOICE>(VS55_043)...I am...
+
+## POINTER 36
+<STR>(JUD)
+<VOICE>(VS55_044)That voice...Belius?!
+
+## POINTER 37
+
+<VOICE>(VS55_045)<STR>(JUD)? Yes, it is I, 
+Belius...or rather...<PAGE><VOICE>(VS55_046)I was once Belius...but 
+no more.
+
+## POINTER 38
+<STR>(YUR)
+<VOICE>(VS55_047)What's going on here?
+
+## POINTER 39
+<STR>(RIT)
+<VOICE>(VS55_048)Could the will of Belius trapped 
+in the apatheia have...?
+
+## POINTER 40
+<STR>(RIT)
+<VOICE>(VS55_049)Amazing...
+
+## POINTER 41
+
+<VOICE>(VS55_050)I feel the waters of the world at my command. 
+I am the ruler of the waters.
+
+## POINTER 42
+<STR>(RAV)
+<VOICE>(VS55_051)Okay... So...did 
+it work?
+
+## POINTER 43
+<STR>(RIT)
+<VOICE>(VS55_052)It's gone way beyond 
+working...<PAGE><VOICE>(VS55_053)I never thought it would gain a will of its own...
+
+## POINTER 44
+
+<VOICE>(VS55_054)Humans, what creature am 
+I? Though no longer Belius 
+the Entelexeia...<PAGE><VOICE>(VS55_055)You have granted life to me. I 
+ask that you give me a name.
+
+## POINTER 45
+<STR>(YUR)
+<VOICE>(VS55_056)A being that controls the essence of 
+a material... Maybe you're a spirit.
+
+## POINTER 46
+
+<VOICE>(VS55_057)And so my name shall be...
+
+## POINTER 47
+<STR>(KAR)
+<VOICE>(VS55_058)The Splishy-Splashy Water-Colored Quee--
+
+## POINTER 48
+<STR>(EST_P)
+<VOICE>(VS55_059)An ancient word for the ruler of 
+the waters... How about Undine?
+
+## POINTER 49
+Undine
+<VOICE>(VS55_060)Undine... Henceforth I shall be 
+known as the spirit Undine.
+
+## POINTER 50
+Undine
+<VOICE>(VA110_039)Aah... I feel the power 
+swell within me...<PAGE><VOICE>(VA110_040)Such is the benefit of 
+the aer which you saw 
+fit to gather for me...
+
+## POINTER 51
+<STR>(KAR)
+<VOICE>(VA110_041)...It wasn't any cakewalk, either...
+
+## POINTER 52
+Undine
+<VOICE>(VA110_042)Receive this now, as token 
+of my thanks...!
+
+## POINTER 53
+<STR>(YUR)
+<VOICE>(VS55_061)Undine! We need to get the 
+world's aer under control. 
+Please lend us your power.
+
+## POINTER 54
+Undine
+<VOICE>(VS55_062)Very well. However, my powers 
+alone will be insufficient.
+
+## POINTER 55
+<STR>(KAR)
+<VOICE>(VS55_063)Huh?
+
+## POINTER 56
+Undine
+<VOICE>(VS55_064)I control only the waters. You 
+must gather those who rule 
+the other elements as well.
+
+## POINTER 57
+<STR>(RIT)
+<VOICE>(VS55_065)The elements of earth, water, wind, and 
+fire... We need at least three more...
+
+## POINTER 58
+<STR>(RAV)
+<VOICE>(VS55_066)We'll need help from the other 
+Entelexeia, won't we?
+
+## POINTER 59
+<STR>(KAR)
+<VOICE>(VS55_067)I doubt they'll turn into spirits 
+just because we ask nicely...
+
+## POINTER 60
+<STR>(JUD)
+<VOICE>(VS55_068)There are very few 
+Entelexeia left. Phaeroh, 
+Gusios...
+
+## POINTER 61
+<STR>(KAR)
+<VOICE>(VS55_069)And Ba'ul.
+
+## POINTER 62
+<STR>(JUD)
+<VOICE>(VS55_070)Not Ba'ul. He hasn't 
+taken in enough aer to 
+create an apatheia.<PAGE><VOICE>(VS55_071)And on top of that, 
+I won't allow it.
+
+## POINTER 63
+<STR>(YUR)
+<VOICE>(VS55_072)Undine, do you 
+have any ideas?
+
+## POINTER 64
+Undine
+<VOICE>(VS55_073)The shining forest of Erealumen, and 
+Relewiese, the root of the world.<PAGE><VOICE>(VS55_074)Your friend Ba'ul should know 
+the location of these places.
+
+## POINTER 65
+<STR>(KAR)
+<VOICE>(VS55_075)She disappeared!
+
+## POINTER 66
+<STR>(EST_P)
+<VOICE>(VS55_076)No...she is here. 
+I feel her.
+
+## POINTER 67
+<STR>(JUD)
+<VOICE>(VS55_077)It seems like the aer krene 
+has quieted down too...<PAGE><VOICE>(VS55_078)Even though we're not controlling 
+<STR>(EST_P)'s power.
+
+## POINTER 68
+<STR>(RIT)
+<VOICE>(VS55_079)Really?!
+
+## POINTER 69
+<STR>(RIT)
+<VOICE>(VS55_080)So...Undine is 
+controlling <STR>(EST_P)'s 
+power...?
+
+## POINTER 70
+<STR>(KAR)
+<VOICE>(VS55_081)You mean <STR>(EST_P) 
+is really free?
+
+## POINTER 71
+<STR>(RIT)
+<VOICE>(VS55_082)Yes... Yes!
+
+## POINTER 72
+<STR>(YUR)
+<VOICE>(VS55_083)That's great, <STR>(EST_P).
+
+## POINTER 73
+<STR>(RAV)
+<VOICE>(VS55_084)Well, things are sure takin' 
+a turn for the strange.
+
+## POINTER 74
+<STR>(YUR)
+<VOICE>(VS55_085)Yeah, I never would 
+have dreamed any 
+of this would happen.<PAGE><VOICE>(VS55_086)But we finally see the light at the end.

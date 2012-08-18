@@ -1,0 +1,543 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297598586]
+Please put the word __ Ver3
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1297445349]
+Bienvenido.
+¿En qué puedo ayudarte?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916592]
+<shop>
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1297445349]
+Bienvenido a la
+fuente del calor,
+Yumanju.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1297445349]
+Disfruta de tu estancia.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297563881]
+Bienvenido a la Burbuja Feliz,
+la tienda de recuerdos de Yumanju.
+Por favor, eche un vistazo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1297445349]
+Muchas gracias.
+Vuelva pronto.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297455856]
+Oh... No me canso de
+las aguas termales.
+Ooh, sientan taaaan bien.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1297445800]
+¿No es genial olvidar
+las preocupaciones del
+día a día y relajarse?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1297445800]
+Este lugar es maravilloso.
+Ni siquiera sabía que existían
+los baños al aire libre.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1297445800]
+Nunca pensé que un buen
+baño bajo el cielo llegara
+a sentar tan bien.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1297445800]
+¡Clinc! ¡Clanc! ¡Clinc!
+¡Por una moneda, una bebida!
+¡Esto sí que es vida!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1297563881]
+¿Qué saldrá? ♪
+¿Qué saldrá? ♪ 
+¡Tra, la, la, la, la! ♪
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1297445800]
+¡El agua sale a borbotones
+y así no puedo nadar!
+Me voy a ahogar...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1303479114]
+¡Ha habido una explosión,
+ha empezado a salir agua
+y la fuente se ha roto!<PAGE>¡Tengo miedo, <STR>(YUR)! 
+Ayúdanos...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1297455856]
+<STR>(YUR), ¿dónde te habías metido?
+Todo el mundo te estaba buscando.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1297563881]
+¿Esa chica es
+amiga tuya?<PAGE>¿Estás haciendo novillos
+para salir con ella?
+¡Eso no se hace!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1297446242]
+¡Oh, son <STR>(YUR)
+y <STR>(RAP)!<PAGE>Siempre estáis haciendo
+nuevos amigos. ¡Qué envidia!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1303436627]
+¡<STR>(RAP)! ♪ 
+¡Me encantan tus orejotas! ∀
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1297446242]
+¡Me han dicho que han
+hecho capitán a <STR>(FRE)!<PAGE>¿Los capitanes viven
+en el palacio?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:kaene;time:1297446242]
+¿<STR>(FRE) volverá
+a los barrios
+bajos algún día?<PAGE>No quiero que sea capitán
+si por ello no puedo
+volver a verle...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1304118174]
+Se me ha caído la dentadura
+y no la encuentro...<PAGE>Seguro que se la
+ha llevado el agua
+de la fuente.
+
+## POINTER 22 [t:1;r:2;ru:xander,memnoch;user:xander;time:1298148925]
+¿Mmm? ¿Esta?
+Ah, se la he cogido
+prestada a mi señora.
+
+## POINTER 23 [t:1;r:2;ru:xander,memnoch;user:xander;time:1298148925]
+Al final encontré 
+mi dentadura, ¿sabes?<PAGE>Pero ahora he perdido
+la de mi señora...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1297563881]
+¿Podrías ayudarme
+a buscarla, hijo?
+
+## POINTER 25 [t:1;r:2;ru:xander,memnoch;user:xander;time:1298148925]
+Mi feñora sa llevao
+mi denanura. No
+pueo hablar bien...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1296916637]
+*Cof, cof*
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:kaene;time:1297446528]
+¡He encontrado mi dentadura!<PAGE>Por fin puedo
+comer a gusto.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:kaene;time:1297446528]
+Tú procura no perder
+nada importante, hijo.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:kaene;time:1297446528]
+El cielo está
+muy raro.<PAGE>Nunca antes lo
+había visto así...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:kaene;time:1297446528]
+¿Estará pasando lo mismo en
+el fuerte Deidon y en Halure?
+Espero que estén todos bien...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:kaene;time:1297446528]
+Parece que lo raro del cielo ya
+se ha ido, pero algunas casas de
+los barrios bajos están dañadas.<PAGE>Los Caballeros no harán nada,
+así que me imagino que las
+tendremos que arreglar nosotros.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:kaene;time:1297447196]
+Lo único que hay que hacer con
+los escombros es retirarlos,
+pero lo peor son los edificios.<PAGE>No tenemos suficiente
+mano de obra. Si los
+evacuados volvieran...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1304529468]
+Sin la barrera, ahora puede
+entrar aquí hasta el Tato, pero
+¿de verdad hay tantos monstruos?<PAGE>Aunque los haya, seguro
+que los Caballeros se
+encargarán de ellos.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:kaene;time:1297447196]
+Espero que los refugiados
+que huyeron estén bien...
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:kaene;time:1297447196]
+Ha habido un estruendo al norte
+de aquí, como un terremoto.
+¿Qué habrá pasado?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:kaene;time:1297447196]
+¿Habrá salido un monstruo
+gigante del suelo, como el que
+hay en el cielo? Espero que no...
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1303481612]
+¡Bienvenido! Yo también quiero
+ayudar, pero necesito que
+el negocio siga funcionando.<PAGE>Pase lo que pase, esta tienda
+permanecerá abierta. No dejaremos
+colgada a la gente.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:kaene;time:1297447196]
+¡Gracias, vuelve cuando
+quieras! Como he dicho,
+siempre tenemos abierto.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:kaene;time:1297447196]
+Parece que todo el lío de la
+fuente ha pasado. ¡Ya puedes
+comprar sin preocuparte!
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:kaene;time:1297447530]
+¡Hombre, cuánto tiempo!
+Te perseguían los Caballeros,
+¿verdad? ¿Va todo bien?
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:kaene;time:1297447530]
+Siempre estaremos
+aquí para ayudarte.<PAGE>Ven cuando quieras.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:kaene;time:1297447530]
+¡Gracias!
+Pásate por aquí siempre
+que vengas a Zaphias.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:kaene;time:1297447530]
+¡Dicen que <STR>(FRE) es increíble!
+¡Casi me dan ganas de poner
+rebajas en su honor! Casi...
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:kaene;time:1297447530]
+¡Al fin y al cabo, fue <STR>(FRE)
+el que trajo de vuelta el
+blastia de la fuente!<PAGE>¡Venga, <STR>(YUR)! 
+¡No dejes que te gane!
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:kaene;time:1297447530]
+¿Qué ocurre?... ¿Le pasa algo
+a la barrera blastia? Sí, nosotros
+siempre estamos aquí con el negocio.
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:kaene;time:1297447530]
+El cielo estará raro, pero yo no me
+voy de Zaphias. Mientras haya gente
+viviendo aquí, harán falta tiendas.
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:kaene;time:1297447530]
+No puedo mantener mis productos
+ordenados, pero echa un vistazo
+y compra lo que necesites.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:kaene;time:1297447969]
+Perdona que aún esté patas arriba.
+¡Pero no dejes que te afecte!
+¡Vuelve pronto!
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1297563881]
+Puede que la situación sea difícil,
+pero hay que mantener la calma.
+Deberías comprar sin preocupaciones.
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:kaene;time:1297447969]
+¡Gracias!
+Vuelve cuando quieras.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:kaene;time:1297447969]
+He oído que <STR>(FRE) está construyendo
+una ciudad no sé dónde, ¿verdad?
+¡Deberías regalarle algo por su esfuerzo!
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:kaene;time:1297447969]
+¡Gracias, amigo!
+Si ves a <STR>(FRE),
+dale recuerdos..
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:memnoch;time:1297563881]
+El blastia de la fuente
+está roto... ¡A este paso,
+se inundarán las casas!<PAGE>Primero hay que parar el chorro.
+Luego ya pensaremos en cómo
+bombear el agua que sobra.
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:kaene;time:1297447969]
+¡<STR>(YUR), no te quedes
+ahí parado!
+¡Ven a ayudar!
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1297563881]
+Hay que ver lo bien
+que les caes a los
+Caballeros, <STR>(YUR).<PAGE>Leblanc y su grupillo
+han pasado por aquí
+gritando tu nombre.
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:memnoch;time:1297563881]
+¡Vigila lo que haces,
+no vaya a ser que <STR>(FRE)
+te tenga que perseguir!
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:kaene;time:1297448429]
+Oye, ¿no te fuiste de la
+ciudad porque los Caballeros
+te estaban persiguiendo?<PAGE>¿Se te ha olvidado o qué?
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:kaene;time:1297448429]
+Sería mejor si
+no volvieras.
+Nunca se sabe.<PAGE>Alguien podría darles
+el soplo a los Caballeros.
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:memnoch;time:1303481538]
+¡Anda, si es el chico al
+que todos buscan, <STR>(YUR)! ♪<PAGE>Han puesto una recompensa
+bastante buena por ti.
+¿Quieres que te atrapemos?
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:kaene;time:1297448429]
+No te preocupes, <STR>(YUR).<PAGE>Entregarte por una
+recompensa no me
+haría muy feliz.
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:kaene;time:1297448429]
+Parece que han retirado
+las acusaciones falsas.<PAGE>Siempre he creído en ti, <STR>(YUR).<PAGE>¡Que sí! ¡De verdad te lo digo!
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:kaene;time:1297448429]
+Haz lo correcto, aunque te
+persigan los Caballeros.
+Ese eres tú, <STR>(YUR).
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:kaene;time:1297448429]
+¡El blastia de la fuente está arreglado! ♪ 
+Todo gracias a <STR>(FRE), que
+nos devolvió el núcleo. ∀<PAGE><STR>(FRE) es muy popular.
+He oído que hay incluso una
+Fuerza de Defensa de <STR>(FRE).
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:memnoch;time:1303481493]
+La Fuerza de Defensa de <STR>(FRE)
+es en realidad un club de fans.<PAGE>¡Parecía divertido, así
+que yo también me he unido! ♪
+
+## POINTER 65 [t:1;r:1;ru:memnoch;user:memnoch;time:1303481452]
+¡Y pensar que acaban de
+reparar el aqua blastia!
+Menuda chapuza hicieron.<PAGE>Y yo que me gasté todos
+los ahorros para mi boda
+en la reparación...
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564349]
+Bueno, quejarse no detendrá
+el agua. Tenemos que hacer
+algo con esta fuente.<PAGE>Nunca me lo perdonaría
+si mi chica se ahogara.
+
+## POINTER 67 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564349]
+Ha parado de salir agua,
+pero no podemos usar la fuente.
+Al final se nos acabará el agua.<PAGE>Más vale que empecemos
+a pensar en otra manera
+de conseguirla...
+
+## POINTER 68 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564349]
+He gastado el dinero que me
+devolvieron por la chapuza en
+nuevas formas de obtener agua.<PAGE>¿Mi boda? Pues la posponemos
+un poco. Ella me esperará.
+Pero gracias, <STR>(YUR).
+
+## POINTER 69 [t:1;r:1;ru:memnoch;user:kaene;time:1297449028]
+Los barrios bajos están
+como siempre. El blastia
+de la fuente sigue roto.<PAGE>No sirve de nada lamentarse.
+Al final lo acabaremos
+arreglando, ya verás.
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:memnoch;time:1303481414]
+Fue una desgracia que se rompiera
+el blastia, pero también logró unir
+a los vecinos de los barrios bajos.<PAGE>Hasta mi chica dice
+que cuenta conmigo...
+Je, je.
+
+## POINTER 71 [t:1;r:1;ru:memnoch;user:kaene;time:1297449028]
+¡Guau, <STR>(FRE) es genial! ¿Te has
+enterado de que lo han hecho capitán?<PAGE>Es gracias a él que la fuente
+vuelve a funcionar. Es el
+orgullo de los barrios bajos.
+
+## POINTER 72 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564349]
+El ascenso a capitán de <STR>(FRE)
+me alegra tanto como si
+me lo hubieran dado a mí.
+
+## POINTER 73 [t:1;r:1;ru:memnoch;user:kaene;time:1297450298]
+¿Qué es eso del cielo
+que parece una
+aurora boreal?<PAGE>
+Desde que salió, el cielo
+se ve muy raro...
+
+## POINTER 74 [t:1;r:1;ru:memnoch;user:kaene;time:1297450298]
+¿Qué? ¿Ahora se nos ha roto la
+barrera blastia? Al menos aún no
+nos han invadido los monstruos.<PAGE>Tenemos que proteger esta
+ciudad. Los barrios bajos
+son mi único hogar.
+
+## POINTER 75 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+Es como la devastación
+que deja atrás una tempestad.<PAGE>Cuando las cosas están tan
+mal, hasta deprimirse me
+parece una estupidez.
+
+## POINTER 76 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+No vale la pena lamentarse.
+Tenemos que trabajar juntos
+y empezar la reconstrucción.<PAGE>Si podemos dejar los barrios
+bajos decentes, quizás los
+que se fueron volverán.
+
+## POINTER 77 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+Los refugiados empezaron a
+llegar cuando volvió la
+normalidad a Zaphias.<PAGE>Pero después la barrera se
+rompió y aparecieron los
+monstruos... ¡Menuda gracia!
+
+## POINTER 78 [t:1;r:1;ru:memnoch;user:kaene;time:1297450298]
+¿Qué le ha pasado
+a nuestra Zaphias?
+
+## POINTER 79 [t:1;r:1;ru:memnoch;user:kaene;time:1297450298]
+<STR>(FRE) se llevó a todo el mundo
+a un pueblo con una barrera nueva.<PAGE>¿Tú qué vas a
+hacer, <STR>(YUR)?
+
+## POINTER 80 [t:1;r:1;ru:memnoch;user:kaene;time:1297450867]
+Allí tienen barrera y están
+más seguros. Pero yo no quiero
+irme de los barrios bajos.<PAGE>Me pienso quedar aquí
+hasta el mismísimo final.
+
+## POINTER 81 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+Toda el agua de los barrios bajos
+provenía de ese aqua blastia...
+Ya no tenemos agua en las casas.<PAGE>No lo entiendo muy bien, pero
+mi marido dice que el motivo
+es que la fuente está rota.
+
+## POINTER 82 [t:1;r:1;ru:memnoch;user:kaene;time:1297450867]
+Me preocupa el agua de los
+barrios bajos. No podemos
+cocinar, ni lavar, ni bañarnos.<PAGE>No quiero ducharme
+con el agua
+sucia del río.
+
+## POINTER 83 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+Bienvenido, <STR>(YUR).
+Parece que has armado
+un buen jaleo otra vez.<PAGE>Te están vigilando, así
+que no cometas ninguna
+locura, ¿entendido?
+
+## POINTER 84 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+¿Qué vas a hacer ahora?
+<STR>(FRE) tiene su trabajo
+de Caballero, pero tú...
+
+## POINTER 85 [t:1;r:1;ru:memnoch;user:kaene;time:1297450867]
+Vaya, si son <STR>(YUR)
+y la jovencita.<PAGE>Veo que habéis
+vuelto a Zaphias.
+
+## POINTER 86 [t:1;r:1;ru:memnoch;user:kaene;time:1297450867]
+Que no se te pase por
+la cabeza subir arriba.<PAGE>Los Caballeros aún están
+buscándote, <STR>(YUR).
+
+## POINTER 87 [t:1;r:1;ru:memnoch;user:kaene;time:1297450867]
+Dicen que <STR>(FRE) está haciendo
+un gran trabajo en los Caballeros.
+Por aquí no se habla de otra cosa.<PAGE>Además, nos ha devuelto el núcleo
+de la fuente. No se puede elogiar
+más a <STR>(FRE), creo yo.
+
+## POINTER 88 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+Nunca cambiarás, ¿verdad,
+<STR>(YUR)? Siempre dejas que
+<STR>(FRE) tome las riendas.<PAGE>Espero que algún día
+nos enseñes de qué
+madera estás hecho.
+
+## POINTER 89 [t:1;r:1;ru:memnoch;user:kaene;time:1297451914]
+Vendí el peine que me regaló mi
+difunto marido para reunir dinero y
+ayudar con la reparación del blastia.<PAGE>Fue el primer regalo
+que me hizo...
+
+## POINTER 90 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+¿Se inundará la casa
+en la que pasé tantos
+años con mi marido?...<PAGE>¿Por qué me molesté en venderlo?
+
+## POINTER 91 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+Muchas gracias, <STR>(YUR). 
+Creo que podré recobrar el
+peine que me dio mi marido.<PAGE>Parece que tienes problemas
+con los Caballeros...
+¿Va todo bien?
+
+## POINTER 92 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+Nunca se llegó a arreglar
+el aqua blastia, ¿verdad?<PAGE>¿Y si se nos rompiera
+la barrera blastia?
+No quiero ni imaginarlo.
+
+## POINTER 93 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+¿No será peligroso que
+estés por aquí, <STR>(YUR)?<PAGE>Los Caballeros están muy
+nerviosos buscándote.
+
+## POINTER 94 [t:1;r:1;ru:memnoch;user:kaene;time:1297451914]
+No te acerques al
+castillo, ¿me oyes?
+Los Caballeros están alerta.
+
+## POINTER 95 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+¿Estos son
+tus compañeros
+de viaje?<PAGE>¿No es un poco peligroso
+ir por ahí acompañado
+de chavalas y niños?
+
+## POINTER 96 [t:1;r:1;ru:memnoch;user:kaene;time:1297452205]
+Ve con cuidado.<PAGE>Deja el peligro para
+los Caballeros.
+No hagas tonterías.
+
+## POINTER 97 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+¡Sabía que vendrías! 
+¡<STR>(YUR), tenías que ser tú!<PAGE>¿Qué piensas hacer?
+¿Cómo podría ayudarte?
+
+## POINTER 98 [t:1;r:1;ru:memnoch;user:kaene;time:1297452205]
+<STR>(FRE) siempre estaba
+aquí cuando pasaban cosas
+así. ¿Por qué ahora no?<PAGE><STR>(FRE) no debería vivir en
+el castillo cuando podría ir
+y venir desde los barrios bajos.
+
+## POINTER 99 [t:1;r:1;ru:memnoch;user:memnoch;time:1297564790]
+Hombre, <STR>(YUR), dicen que
+te han arrestado, ¿eh? ¡Idiota!
+Bueno, supongo que eres así.<PAGE>Fui al distrito real al ver
+que no volvías. Todos los
+nobles hablaban de ti.

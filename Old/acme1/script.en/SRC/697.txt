@@ -1,0 +1,142 @@
+## POINTER 0
+<STR>(EST_P)
+Actually, Ioder, I have 
+a favor to ask you.
+
+## POINTER 1
+Ioder
+Is this about the orphanage 
+in Torim harbor?
+
+## POINTER 2
+<STR>(EST_P)
+Yes...did you happen to hear 
+it from my master...?
+
+## POINTER 3
+Ioder
+Indeed...he visited not long
+ago, and we spoke of it.
+
+## POINTER 4
+Ioder
+After some further investigation, I've received 
+reports that disasters have made orphans 
+of children in several other cities.<PAGE>We've discussed the problem, and it's been decided that a portion 
+of the salaries of Council members and Imperial Knights will 
+be given to those cities as relief money for the orphans.<PAGE>This includes the orphanage 
+in Torim harbor, of course.
+
+## POINTER 5
+<STR>(KAR)
+Have all of the Council 
+and the Imperial Knights 
+agreed to that?
+
+## POINTER 6
+Ioder
+Only the Council members and the knights who've 
+voiced their assent will be required to 
+give part of their salaries to the fund.
+
+## POINTER 7
+<STR>(YUR)
+So you're biting the bullet and agreeing with this 
+plan to make yourself look better...is that it?
+
+## POINTER 8
+<STR>(RIT)
+The Council and the Imperial Knights are in 
+heated competition with each other, too.
+
+## POINTER 9
+<STR>(JUD)
+This kid is shrewder 
+than he looks!
+
+## POINTER 10
+Ioder
+That was never my intention, 
+though it may seem 
+that way to some.
+
+## POINTER 11
+Ioder
+Come to think of it, <STR>(EST), 
+there's something that 
+I wanted to give you.
+
+## POINTER 12
+<STR>(EST_P)
+Something for me...?
+
+## POINTER 13
+<STR>(EST_P)
+That's...the proof of vice-emperorship...the 
+Blue Crystal Rod.
+
+## POINTER 14
+<STR>(KAR)
+The proof of vice-emperorship...? 
+What's a vice-emperor?
+
+## POINTER 15
+<STR>(EST_P)
+The vice-emperor serves as the empire's second-in-command, and has 
+a level of authority very close to that of the emperor himself.
+
+## POINTER 16
+<STR>(EST_P)
+The Blue Crystal Rod is an honored
+treasure of the Imperial family,
+though Dein Nomos is more so.
+
+## POINTER 17
+<STR>(EST_P)
+But the vice-emperor is only a temporary 
+position, and isn't actually 
+an official appointment...
+
+## POINTER 18
+Ioder
+In a time like this, we could 
+really use someone else to 
+help support the empire.<PAGE>I need your help, <STR>(EST). 
+Will you grant me this favor?
+
+## POINTER 19
+<STR>(EST_P)
+But...I have to continue 
+travelling with all 
+of my friends...<PAGE>...No, I don't have to... I want to.
+
+## POINTER 20
+Ioder
+Yes, I understand.<PAGE>You wouldn't be confined to the imperial throne, but 
+rather, you could travel to places all over around the 
+world, and help me by advising me of what you see.
+
+## POINTER 21
+<STR>(RIT)
+...I don't see any reason 
+not to do it.
+
+## POINTER 22
+<STR>(KAR)
+I'm not sure what it would involve, but 
+if you can keep travelling together 
+with us, it sounds good...I think?
+
+## POINTER 23
+<STR>(EST_P)
+Then...I'd be glad to help!
+
+## POINTER 24
+Ioder
+Thank you very much...!
+
+## POINTER 25
+Ioder
+The Blue Crystal Rod is evil's 
+bane. May it serve you 
+well in your journey.

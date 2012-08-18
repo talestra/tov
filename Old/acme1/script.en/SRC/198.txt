@@ -1,0 +1,40 @@
+## POINTER 0
+<STR>(EST_P)
+<STR>(RIT), please wait!
+
+## POINTER 1
+<STR>(KAR)
+<STR>(EST_P)!
+
+## POINTER 2
+<STR>(EST_P)
+After all, I've heard that the 
+Imperial Knights have made some 
+repairs on the blastia here.
+
+## POINTER 3
+<STR>(YUR)
+Give the Knights some credit 
+for once, will you?
+
+## POINTER 4
+<STR>(EST_P)
+Please, <STR>(RIT).
+
+## POINTER 5
+<STR>(RIT)
+...All right then.
+
+## POINTER 6
+<STR>(YUR)
+It's okay for you to be wandering around like this?
+
+## POINTER 7
+<STR>(EST_P)
+Yes... But can I stay 
+with you until it's time 
+to return to Zaphias?
+
+## POINTER 8
+<STR>(YUR)
+I don't mind at all.

@@ -1,0 +1,125 @@
+## POINTER 0
+Alexei
+<VOICE>(VS51_093)Well, well. Everyone's 
+here. Welcome to the 
+very depths of the ocean.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS51_094)It's over, Alexei. Don't add 
+to your crimes any further.
+
+## POINTER 2
+Alexei
+<VOICE>(VS51_095)Ahh, Princess <STR>(EST). How 
+nice to see you up and about.
+
+## POINTER 3
+Alexei
+<VOICE>(VS51_096)Which tells me 
+Yeager was useless.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS51_097)...He's dead.
+
+## POINTER 5
+Alexei
+<VOICE>(VS51_098)I thought surely he'd come 
+through in the end, but oh, 
+how I was mistaken.
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS51_099)Is toying with the 
+destinies of others how 
+you have your fun?
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS51_100)Alexei! What happened 
+to the ideals you held? 
+What changed?!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS51_101)<STR>(FRE), are you still saying 
+things like that?!
+
+## POINTER 9
+Alexei
+<VOICE>(VS51_102)Nothing has changed, 
+except my methods.<PAGE><VOICE>(VS51_103)Absolute power is all that can 
+revive this rotting, stagnant 
+empire. Indeed, the world.
+
+## POINTER 10
+<STR>(FRE)
+<VOICE>(VS51_104)And just how many lives do you plan 
+to sacrifice to acquire it?
+
+## POINTER 11
+Alexei
+<VOICE>(VS51_105)No true reformation could occur 
+so long as I followed the means 
+presented by the empire.<PAGE><VOICE>(VS51_106)You should understand this well.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS51_107)Whoa, whoa. Don't tell 
+me you're actually 
+listenin' to this drivel.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS51_108)...Why have you taken 
+such a hurtful path?<PAGE><VOICE>(VS51_109)Someone of your stature 
+could have found another way...
+
+## POINTER 14
+Alexei
+<VOICE>(VS51_110)At times, dreamers must suffer 
+being branded as criminals. But 
+I'll suffer such burdens gladly.
+
+## POINTER 15
+Alexei
+<VOICE>(VS51_111)I promised to free this world 
+from the Entelexeia, from the 
+aer, and from this pitiful empire!<PAGE><VOICE>(VS51_112)This world shall be reborn!!
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS51_113)I don't give a damn what you're 
+doing this for. But you're 
+making a lot of people cry.<PAGE><VOICE>(VS51_114)And that's enough of a 
+reason to take you down!
+
+## POINTER 17
+Alexei
+<VOICE>(VS51_115)It seems you still 
+have much to learn.
+
+## POINTER 18
+<STR>(FRE)
+<VOICE>(VS51_116)<STR>(YUR), look out!!
+
+## POINTER 19
+<STR>(FRE)
+<VOICE>(VS51_117)Graah!!
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS51_118)<STR>(FRE)...!
+
+## POINTER 21
+Sodia
+<VOICE>(VS51_119)Captain!!
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS51_120)<STR>(YUR)! Alexei's getting away!!
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS51_121)...Damn it!!

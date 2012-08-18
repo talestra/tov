@@ -1,0 +1,49 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283480680]
+<STR>(YUR)
+No puedo creer esta sea la Dein Nomos...
+El distintivo del heredero imperial.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187786]
+<STR>(KAR)
+¡<STR>(YUR), podrías convertirte en el emperador!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187786]
+<STR>(YUR)
+No es más que un adorno.
+Y aunque pudiera, no me
+haría emperador ni atado.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283480680]
+<STR>(JUD)
+Duke usaba esa espada
+para controlar los
+aer krene...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187786]
+<STR>(KAR)
+¡Oh! Entonces, ¿Duke
+hacía lo mismo con
+ellos que los entelechia?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1283480680]
+<STR>(JUD)
+Es posible.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187786]
+<STR>(RIT)
+Esa espada... provocaba el mismo
+fenómeno que <STR>(EST_P).<PAGE>¿Quiere eso decir que ya se descubrió
+en el pasado la fórmula Rizomata?
+Pero entonces, ¿por qué se perdió?<PAGE>¿Por el mismo cataclismo en el que
+se perdieron los blastias, tal vez?<PAGE>¿Cómo acabó convirtiéndose en el tesoro imperial?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187786]
+<STR>(YUR)
+Hay un porrón de cosas que no sabemos de
+la espada esta, pero será mejor esperar a
+que todo esto termine para descubrirlas.<PAGE>Ahora lo que nos atañe
+es rescatar a <STR>(EST_P).
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283480680]
+<STR>(RIT)
+Cierto. ¡Démonos prisa!

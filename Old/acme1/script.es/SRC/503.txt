@@ -1,0 +1,27 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286216673]
+
+<VOICE>(VS53_001)¡¡Eureka!!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286216673]
+<STR>(EST_P)
+<VOICE>(VS53_002)¡Oh! <STR>(RIT), <STR>(YUR) está...
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286216673]
+<STR>(JUD)
+<VOICE>(VS53_003)Parece que ahora mismo solo
+tiene ojos para su investigación.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286216673]
+<STR>(YUR)
+<VOICE>(VS53_004)No puedo culpar a la gente de aquí
+por tratarla como a un bicho raro.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286216673]
+<STR>(EST_P)
+<VOICE>(VS53_005)Parecía estar muy contenta.
+Seguro que ha descubierto algo.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286216673]
+<STR>(YUR)
+<VOICE>(VS53_006)Eso espero.
+Vayamos a ver.

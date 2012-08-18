@@ -1,0 +1,54 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122882]
+Dirígenos, viejales
+
+## POINTER 1 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267319339]
+(KAR)
+Jolín... Ojalá podamos
+salir de aquí pronto...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122882]
+(RAV)
+No me te pongas nervioso, chaval. Saldremos
+d'aquí en menos que canta un gallo, ya lo verás.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133495]
+(RIT)
+No todo el mundo vive en un mundo
+de color rosa como tú, ¿sabes?
+
+## POINTER 4 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267319339]
+(RAV)
+La vida se parece mucho a este bosque...
+Con caminos sinuosos que se entrecruzan.
+¡Aaah! Qué relajante es er sitio este.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133495]
+(YUR)
+Vamos, dejemos al filósofo
+filosofando y continuemos.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266828383]
+(RAV)
+¡Escuchad lo que tengo que decí!
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266828383]
+(YUR)
+¿Vas a decir que estamos
+perdidos en el bosque de la vida?
+
+## POINTER 8 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267319339]
+(RAV)
+¡Oh, jo!
+¡Asín que entiendes lo qu'estoy diciendo!
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267133495]
+(EST_P)
+Pero antes de encontrar la salida
+del bosque de la vida tenemos que
+encontrar la de este otro...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122882]
+(RAV)
+¡Y'os dirigiré! He reencontrado mi
+camino en la vida más veces de las que...
+¡Eh, esperad! ¡Aún no he terminao!

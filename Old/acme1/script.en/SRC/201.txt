@@ -1,0 +1,137 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS18_026)<STR>(RIT)...!
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS18_027)Let me go! I can't just 
+leave him like this!<PAGE><VOICE>(VS18_028)The aer is just pouring out of this thing! 
+At this density it might kill someone!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS18_029)And what about you?!
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS18_030)Dammit! That girl's 
+blastia crazy!
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS18_031)It's okay. I'll just readjust 
+the volume of aer. 
+You'll be just like new!
+
+## POINTER 5
+<STR>(FRE)
+<VOICE>(VS18_032)It's too dangerous! You've 
+got to get out of here!!
+
+## POINTER 6
+Alexei
+<VOICE>(VS18_033)...Lead the civilians out 
+of the city, as well as the 
+Princess and the others.
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS18_034)Yes, sir.
+
+## POINTER 8
+Alexei
+<VOICE>(VS18_035)The aer is completely 
+out of control. There's 
+no telling what it will do.
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS18_036)...No! The flow of 
+aer has outstripped 
+his capacity.<PAGE><VOICE>(VS18_037)At this rate, it'll either 
+swallow the city 
+or even explode.
+
+## POINTER 10
+
+<VOICE>(VS18_038)E-explode? Did 
+you hear that?!
+
+## POINTER 11
+
+<VOICE>(VS18_039)Everybody, get out of here! Hurry!
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS18_040)<STR>(RIT)!!
+
+## POINTER 13
+Alexei
+<VOICE>(VS18_041)Princess?!
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS18_042)Gah!
+
+## POINTER 15
+<STR>(FRE)
+<VOICE>(VS18_043)Your Highness!
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS18_044)What is she--?!
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS18_045)<STR>(RIT)! I'm here!
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS18_046)...<STR>(EST)...
+
+## POINTER 19
+
+<VOICE>(VS18_047)...Commandant?!
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS18_048)There, got it... 
+Aaaah!
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS18_049)...!!
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS18_050)<STR>(RIT)! Hang on!!
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS18_051)...*Huff* ...Please... Get a 
+room ready...for <STR>(RIT)...
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS18_052)Do you even hear what you're saying? 
+You're just as worn out as she is.
+
+## POINTER 25
+<STR>(FRE)
+<VOICE>(VS18_053)Prepare rooms at once!
+
+## POINTER 26
+<STR>(FRE)
+<VOICE>(VS18_054)I'll take her there myself.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS18_055)<STR>(KAR), can you stand?
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS18_056)Y-yeah...
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS18_057)Come on, we're going too.

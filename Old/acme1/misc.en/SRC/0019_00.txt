@@ -1,0 +1,299 @@
+## POINTER 0
+Inn & Tavern "Comet"
+
+## POINTER 1
+<STR>(YUR)'s Room
+
+## POINTER 2
+Fortune's Market (Imperial Capital)
+
+## POINTER 3
+Zaphias Castle
+
+## POINTER 4
+Mordio's Residence
+
+## POINTER 5
+Dining Hall
+
+## POINTER 6
+<STR>(FRE)'s Room
+
+## POINTER 7
+<STR>(EST)'s Room
+
+## POINTER 8
+Audience Chamber
+
+## POINTER 20
+?????
+
+## POINTER 21
+?????
+
+## POINTER 22
+∀∀∀∀∀
+
+## POINTER 23
+Surveyors' Guild "World's Cellar"
+
+## POINTER 24
+Fortune's Market
+
+## POINTER 25
+Supply Depot "Adecor"
+
+## POINTER 26
+#06
+
+## POINTER 27
+#07
+
+## POINTER 28
+#08
+
+## POINTER 29
+#09
+
+## POINTER 30
+#10
+
+## POINTER 31
+#11
+
+## POINTER 32
+#12
+
+## POINTER 33
+#13
+
+## POINTER 34
+#14
+
+## POINTER 35
+#15
+
+## POINTER 36
+#16
+
+## POINTER 37
+#17
+
+## POINTER 38
+#18
+
+## POINTER 39
+#19
+
+## POINTER 40
+Guard Station
+
+## POINTER 41
+Store Room
+
+## POINTER 42
+Vendor's Stall "Vega"
+
+## POINTER 43
+Cabin
+
+## POINTER 50
+Halure Mayor's Residence
+
+## POINTER 51
+General Store "Regulus"
+
+## POINTER 52
+Inn "Denebola"
+
+## POINTER 60
+Fortune's Market (Aspio)
+
+## POINTER 61
+Lounge "Book Shelf"
+
+## POINTER 62
+<STR>(RIT)'s Hut
+
+## POINTER 70
+Inn "Pollux"
+
+## POINTER 71
+Fortune's Market (Nor)
+
+## POINTER 72
+Magistrate's Palace
+
+## POINTER 73
+Dice Master's House
+
+## POINTER 80
+Lighthouse Keeper's House
+
+## POINTER 81
+Torim Warehouse
+
+## POINTER 82
+Fortune's Market (HQ)
+
+## POINTER 83
+Inn "Pollux T"
+
+## POINTER 84
+Fortune's Market (Torim)
+
+## POINTER 90
+Chevaliers' HQ
+
+## POINTER 91
+Inn & Shop
+
+## POINTER 92
+Inn "Betelgeuse"
+
+## POINTER 93
+Fortune's Market (Heliord)
+
+## POINTER 100
+Fortune's Market (Dahngrest)
+
+## POINTER 101
+Fortune's Market (Dahngrest 1)
+
+## POINTER 102
+Fortune's Market (Dahngrest 2)
+
+## POINTER 103
+Fortune's Market (Dahngrest 3)
+
+## POINTER 104
+Inn "Arcturus"
+
+## POINTER 105
+Tavern "Crimson Stars"
+
+## POINTER 106
+Tavern "Sagittarius"
+
+## POINTER 107
+Guild's Union HQ
+
+## POINTER 108
+Don's Chamber
+
+## POINTER 109
+Prison
+
+## POINTER 110
+Cooking Stadium "Bistro Black Hole"
+
+## POINTER 120
+Coliseum
+
+## POINTER 121
+Inn "Fomalhaut"
+
+## POINTER 122
+Fortune's Market (Nordopolica 1)
+
+## POINTER 123
+Fortune's Market (Nordopolica 2)
+
+## POINTER 124
+General Shop "Supernova"
+
+## POINTER 125
+Coliseum Reception (Individual match)
+
+## POINTER 126
+Coliseum Reception (Team match)
+
+## POINTER 127
+Coliseum (Special match)
+
+## POINTER 128
+Coliseum
+
+## POINTER 129
+Belius' Room
+
+## POINTER 130
+Nordopolica Warehouse
+
+## POINTER 131
+Fortune's Market (Nordopolica)
+
+## POINTER 140
+Inn "Antares"
+
+## POINTER 141
+Fortune's Market (Mantaic)
+
+## POINTER 150
+Inn "Septentriones"
+
+## POINTER 151
+General Store "Polaris"
+
+## POINTER 152
+Sage's Residence
+
+## POINTER 153
+Synthesis Informer
+
+## POINTER 160
+General Shop "Deneb"
+
+## POINTER 161
+Myorzo Warehouse
+
+## POINTER 162
+Elder's Residence
+
+## POINTER 163
+Chris the Maven
+
+## POINTER 170
+Inn "Canopus"
+
+## POINTER 171
+Fortune's Market
+
+## POINTER 172
+Fortune's Market (Aurnion 1)
+
+## POINTER 173
+Fortune's Market (Aurnion 2)
+
+## POINTER 174
+Aurnion HQ
+
+## POINTER 175
+Warehouse
+
+## POINTER 176
+Blade Master Dojo
+
+## POINTER 177
+Fortune's Market
+
+## POINTER 180
+Cabin
+
+## POINTER 190
+Shoe Locker
+
+## POINTER 191
+Gymnasium
+
+## POINTER 192
+Shooting Gallery
+
+## POINTER 193
+Premiums Counter
+
+## POINTER 194
+Poker
+
+## POINTER 195
+2D Shooter

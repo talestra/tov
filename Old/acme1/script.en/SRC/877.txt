@@ -1,0 +1,114 @@
+## POINTER 0
+<STR>(EST_P)
+......
+
+## POINTER 1
+Karen
+That's a map, isn't it?
+
+## POINTER 2
+<STR>(EST_P)
+Yes. I was just thinking 
+about all the different 
+places we've traveled to.
+
+## POINTER 3
+Karen
+Oh, I'm so jealous!
+
+## POINTER 4
+<STR>(EST_P)
+But hasn't your traveling 
+taken you to many different 
+places as well?
+
+## POINTER 5
+Karen
+Well, we stay away from towns 
+and strange places, so...
+
+## POINTER 6
+<STR>(EST_P)
+Oh, really?
+
+## POINTER 7
+Karen
+Yes... A carriage operating an 
+inn would look pretty out of place 
+in a city, don't you think?
+
+## POINTER 8
+<STR>(EST_P)
+Perhaps...
+
+## POINTER 9
+Karen
+Yes...and we stay away from dark forests, 
+deep gorges, and the like... Such 
+destinations are far too dangerous.
+
+## POINTER 10
+<STR>(EST_P)
+Ah...
+
+## POINTER 11
+Karen
+...Could you maybe tell a little about 
+the different places you've been to?
+
+## POINTER 12
+<STR>(EST_P)
+The places I've 
+been to? Ummm...
+
+## POINTER 13
+Karen
+Yes, please. I'd love to hear.
+
+## POINTER 14
+<STR>(EST_P)
+Well, then...
+First off, 
+there's the capital...
+
+## POINTER 15
+<STR>(EST_P)
+...And then, we left the 
+mysterious village and 
+continued on our way.
+
+## POINTER 16
+Karen
+...Wow. You've had 
+quite a trip!
+
+## POINTER 17
+<STR>(EST_P)
+Well, we still have a good ways left 
+to go...
+Ah, it's getting late...
+
+## POINTER 18
+Karen
+Oh! I'm sorry! I completely 
+lost track of time!
+
+## POINTER 19
+<STR>(EST_P)
+No, it's okay!
+
+## POINTER 20
+Karen
+Perhaps if you ever come by 
+again...you might be able to 
+tell me some more stories?
+
+## POINTER 21
+<STR>(EST_P)
+Yes, of course. 
+I'll come again.
+
+## POINTER 22
+Karen
+Hee hee, I can't wait to 
+hear what happens next!♪

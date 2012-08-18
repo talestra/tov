@@ -1,0 +1,314 @@
+## POINTER 257
+Base Arte: Smash the earth with a large force and
+send debris flying to attack enemies.
+
+## POINTER 258
+Nice Aid Smash
+
+## POINTER 259
+Base: Write a formula on the ground with your weapon.
+Restores a small amount of HP to allies within range.
+
+## POINTER 260
+Destructo Pain Shot
+
+## POINTER 261
+Base Arte: Temporarily decreases <06>(SC2)P. DEF of
+enemy hit by your bag.
+
+## POINTER 262
+Lightning Wave
+
+## POINTER 263
+Base Arte: Send forth a wave of lightning
+with your weapon.
+
+## POINTER 264
+Nice Recovery Smash
+
+## POINTER 265
+Base Arte: Write a formula on the ground with your weapon.
+Cure allies of Physical Ailments and attack enemies within range.
+
+## POINTER 266
+Bug Breath
+
+## POINTER 267
+Base Arte: Send a poisonous gas to attack
+enemies. Effective against bug type enemies.
+
+## POINTER 268
+Punishing Smash
+
+## POINTER 269
+Base Arte: Roll to attack enemies within range.
+
+## POINTER 270
+Gaia Bug
+
+## POINTER 271
+Base Arte: Throw random treasures from your bag.
+
+## POINTER 272
+Destructo Spider Web
+
+## POINTER 273
+Base Arte: Call forth a spider's web to temporarily
+decrease a target's speed.
+
+## POINTER 274
+Havoc Break
+
+## POINTER 275
+Base Arte: Throw your weapon in the air to
+knock down flying enemies.
+
+## POINTER 276
+Coil Beat
+
+## POINTER 277
+Base Arte: Concentrate to temporarily
+increase P. ATK.
+
+## POINTER 278
+Roaring Revolution
+
+## POINTER 279
+Base Arte: Roll forward and charge at the enemy.
+You're on a roll!
+
+## POINTER 280
+Destructo Booing
+
+## POINTER 281
+Base Arte: Swing your bag to hit the enemy.
+Temporarily decreases <06>(SC1)P. ATK of target
+
+## POINTER 282
+Hammer Flow Upper
+
+## POINTER 283
+Arcane Arte: Drive your weapon into the ground
+and attack again as you pull it back up.
+
+## POINTER 284
+Punishing Aid Smash
+
+## POINTER 285
+Arcane Arte: A combination of Punishing Smash
+and Nice Aid Smash.
+
+## POINTER 286
+Reaper Knock
+
+## POINTER 287
+Arcane Arte: Toss a white ball from your bag
+and hit it at the enemy. Grand slam!
+
+## POINTER 288
+Punishing Beast Flash
+
+## POINTER 289
+Arcane Arte: Swing your weapon at the enemy.
+
+## POINTER 290
+Roaring Dragon Blow
+
+## POINTER 291
+Arcane Arte: A combination of Roaring
+Revolution and Dragon Upper.
+
+## POINTER 292
+Devil Rage Rise
+
+## POINTER 293
+Arcane Arte: Send the enemy flying with
+a force enough to blow the Devil away.
+
+## POINTER 294
+Rending Drop
+
+## POINTER 295
+Arcane Arte: Dive down and land on your
+head to send a shockwave at the enemy.
+
+## POINTER 296
+Ultimate Divine Destruction
+
+## POINTER 297
+Arcane Arte: Drive your weapon into the ground
+and pound enemies to pieces. You'll trip if you miss!
+
+## POINTER 298
+Destruction Street
+
+## POINTER 299
+Altered Arte: Charge forward as you smash
+the ground with your weapon.
+
+## POINTER 300
+Nice Healing Smash
+
+## POINTER 301
+Altered Arte: Write a formula on the ground.
+Restores a medium amount of HP to allies within range.
+
+## POINTER 302
+Nice Curing Smash
+
+## POINTER 303
+Altered Arte: Write a formula on the ground. Restores
+a large amount of HP to allies within range.
+
+## POINTER 304
+Twin Punishing Smash
+
+## POINTER 305
+Altered Arte: Leverage the weight of your weapon
+to roll sideways and attack all that falls in your path.
+
+## POINTER 306
+Havoc Thunder
+
+## POINTER 307
+Altered Arte: Leap into the air and catch a bolt of lightning with
+your weapon and slam it into the enemy on the way down.
+
+## POINTER 308
+Death Quake Spark
+
+## POINTER 309
+Altered Arte: Unleash an extremely powerful plow with all
+your might. Able to take out all enemies if aimed correctly!
+
+## POINTER 310
+Ultra Punishing Swing
+
+## POINTER 311
+Burst Arte: You spin rapidly, smashing the enemy
+over and over again and finally sending them flying.
+
+## POINTER 312
+Ultra Punishing Heat
+
+## POINTER 314
+Ultra Punishing Crush
+
+## POINTER 316
+Ultra Punishing Typhoon
+
+## POINTER 318
+Ultra Punishing Typhoon
+
+## POINTER 320
+Ultra Punishing Soul
+
+## POINTER 322
+Overlord Reign Impact
+
+## POINTER 324
+Regular Attack - ○
+
+## POINTER 326
+Regular Attack - ↑○
+
+## POINTER 328
+Regular Attack - ←→○
+
+## POINTER 330
+Regular Attack - ↓○
+
+## POINTER 332
+Regular Attack - Jumping - ○
+
+## POINTER 334
+Regular Attack - Jumping - ↓○
+
+## POINTER 336
+Regular Secondary Attack - ○
+
+## POINTER 338
+Regular Secondary Attack - ↑○
+
+## POINTER 340
+Regular Secondary Attack - ←→○
+
+## POINTER 342
+Regular Secondary Attack - ↓○
+
+## POINTER 344
+Regular Secondary Attack - Jumping - ○
+
+## POINTER 346
+Regular Secondary Attack - Jumping - ↓○
+
+## POINTER 348
+Free Run Attack
+
+## POINTER 350
+Indigo Fatal Strike
+
+## POINTER 352
+Crimson Fatal Strike
+
+## POINTER 354
+Viridian Fatal Strike
+
+## POINTER 356
+β×Ψ＝√
+
+## POINTER 357
+Base Arte: Your grace sends the enemy flying.
+Uses the magical incantation "Rudolf".
+
+## POINTER 358
+ζ×Ψ＝Φ
+
+## POINTER 359
+Base Arte: Make enemies lose their footing.
+Uses the incantation "Phi".
+
+## POINTER 360
+∠＝(x,y,z)
+
+## POINTER 361
+Base Arte: Summon a beast's claw. Scratch!!
+Uses the incantation "Descartes".
+
+## POINTER 362
+ζ＝δτ(ωρ)
+
+## POINTER 363
+Arcane Arte: Clobber the enemy over the head.
+Uses the incantation "Laplace".
+
+## POINTER 364
+∠＝∞
+
+## POINTER 365
+Arcane Arte: Pages from a spell book slash enemies.
+Uses the incantation "Wallis".
+
+## POINTER 366
+(δ/χ)λ＝ι
+
+## POINTER 367
+Arcane Arte: Energy blows an enemy away.
+Uses the incantation "Ideal".
+
+## POINTER 368
+(δ/χ)λ＝ι
+
+## POINTER 370
+Fire Ball
+
+## POINTER 371
+Novice Spell: Send a fireball toward the enemy.
+Continued use will increase the number of fireballs.
+
+## POINTER 372
+Stone Blast
+
+## POINTER 373
+Novice Spell: Call forth small rocks from beneath
+an enemy.

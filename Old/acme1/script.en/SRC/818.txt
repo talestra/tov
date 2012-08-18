@@ -1,0 +1,49 @@
+## POINTER 0
+
+See the show! ♪
+Have a go! ♪
+Beat your foes! ♪<PAGE>We're currently seeking challengers for 
+Palestralle's famous Hundred Man Melee! 
+Only true warriors need apply! ♪
+
+## POINTER 1
+<STR>(RAV)
+Oh ho, so they finally brought back 
+the Hundred Man Melee, did they?
+
+## POINTER 2
+<STR>(YUR)
+What's that, old man?
+
+## POINTER 3
+<STR>(RAV)
+It's a regular event here in the coliseum. 
+Basically, ya got a single fighter goin' 
+up against a whole buncha people.<PAGE>They say ya gotta have a whole 
+lotta guts ta make it through.
+
+## POINTER 4
+<STR>(YUR)
+Wow... I was wondering what 
+would happen to the coliseum 
+after Belius died...<PAGE>But it looks like they're going strong.
+
+## POINTER 5
+<STR>(JUD)
+You want to give it a go?
+
+## POINTER 6
+<STR>(EST_P)
+Yes, that's a good idea.<PAGE>Revenue from the event might help 
+with the reconstruction of Nordopolica.
+
+## POINTER 7
+<STR>(KAR)
+Ummm... Wh-which of us should 
+do it, you think?<PAGE>Not me, right?
+
+## POINTER 8
+<STR>(YUR)
+Hold your horses. We still haven't
+decided if any of us will sign up.<PAGE>For now, let's just find 
+out some more details.

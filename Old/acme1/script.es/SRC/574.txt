@@ -1,0 +1,108 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(KAR)
+<VOICE>(VA012_036)¿Habéis terminado? Perdonad,
+he recordado que tenía algo que hacer.<PAGE><VOICE>(VA012_037)¿Tenéis la paga?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(YUR)
+<VOICE>(VA012_038)Nah, nos hemos quedado sin paga.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551369]
+<STR>(KAR)
+<VOICE>(VA012_039)¿Qué? Pero ¡¿qué dices?!
+¡¿Cómo puedes no aceptar la paga
+por el trabajo de un gremio?!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(YUR)
+<VOICE>(VA012_040)Digamos que ha sido un regalo de bodas.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(KAR)
+<VOICE>(VA012_041)Un regalo de bodas... ¿Eh? ¡¿Me estás diciendo
+que la profesora Rhianna se va a...?!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1284563457]
+<STR>(YUR)
+<VOICE>(VA012_042)¿Profesora?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1284563457]
+<STR>(KAR)
+<VOICE>(VA012_043)Uh, bueno, mmm...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(JUD)
+<VOICE>(VA012_044)Ya nos dijiste que la conocías
+de un gremio en el que estuviste.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(KAR)
+<VOICE>(VA012_045)La verdad es que... era como
+mi profesora en el gremio.<PAGE><VOICE>(VA012_046)Era famosa por ser muy estricta.
+Me llevaba cada bronca...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(YUR)
+<VOICE>(VA012_047)Mmmm, así que por eso
+no la querías ver.<PAGE><VOICE>(VA012_048)Bueno, no es para tanto.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(KAR)
+<VOICE>(VA012_049)¿Que... que no es para tanto?
+¡Pues claro que lo es! ¡No tenemos paga!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(JUD)
+<VOICE>(VA012_050)Hay algo aparte de lo de la paga
+que me gustaría aclarar.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1284563457]
+<STR>(KAR)
+<VOICE>(VA012_051)¿Eh? ¿A qué te refieres, <STR>(JUD)?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(JUD)
+<VOICE>(VA012_052)Hasta ahora hemos entregado y encontrado cosas.
+Son trabajos completamente diferentes.<PAGE><VOICE>(VA012_053)¿Para qué está Gran Vesperia?
+Es el gremio al que pertenezco,
+pero... ¿a qué se dedica?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(RIT)
+<VOICE>(VA012_054)En eso tiene razón.<PAGE><VOICE>(VA012_055)¿Por qué hacéis todo esto?
+¿Por dinero? ¿Os gusta hacerlo?<PAGE><VOICE>(VA012_056)Visto desde fuera
+no sabría decir
+qué queréis hacer.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(KAR)
+<VOICE>(VA012_057)Uuh... Bueno, uh...
+Errr...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(RIT)
+<VOICE>(VA012_058)Vamos, no soy miembro,
+así que... me da igual.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(JUD)
+<VOICE>(VA012_059)Vale, digamos que estamos
+probando cosas hasta
+que lo tengamos claro.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(KAR)
+<VOICE>(VA012_060)¿Eh? S-Sí, vale...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934290]
+<STR>(YUR)
+<VOICE>(VA012_061)Si ahora no se nos ocurre una respuesta,
+ya pensaremos en algo con el tiempo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1284564277]
+<STR>(RAP)
+<VOICE>(VA012_062)*Ladrido agresivo*
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1291934272]
+<STR>(KAR)
+<VOICE>(VA012_063)Vale...

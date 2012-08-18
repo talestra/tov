@@ -1,0 +1,155 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292958687]
+<STR>(JUD)
+¿Me podríais ayudar a buscar un libro?
+Me gustaría saber un poco más
+sobre los blastias hermes.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1292958687]
+<STR>(YUR)
+¿Buscamos la estantería?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292958687]
+<STR>(JUD)
+Sí, por favor.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294513137]
+<STR>(JUD)
+¡Lo he encontrado!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(RIT)
+¡Pero si es «Disertaciones sobre el aer»,
+de Ifmunft Nepmayjup!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(JUD)
+¿Cómo? ¿Ya habías
+oído hablar de él?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(RIT)
+Este libro estaba en mi casa.
+Creo que perteneció al anterior inquilino.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1292958687]
+<STR>(JUD)
+Ajá... Ya veo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(RIT)
+Estaba lleno de códigos que no conseguía
+entender, así que no me interesó demasiado.<PAGE>Acabé dándoselo a la primera
+persona que me lo pidió.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(JUD)
+Ifmunft Nepmayjup.
+Ese fue el seudónimo.
+de Hermes.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1292958687]
+<STR>(RIT)
+¡¿Qué?! ¡¿En serio?!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1292958687]
+<STR>(YUR)
+¿Eso quiere decir
+que Hermes solía
+vivir en Aspio?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1292958687]
+<STR>(JUD)
+Sí, eso creemos.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(RIT)
+Otra vez ocultándonos
+información valiosa...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294513137]
+<STR>(JUD)
+Lo siento. No estaba segura
+del todo hasta ahora.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(RIT)
+*Suspiro* Pues vaya.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(EST_P)
+¿Q-Qué es todo esto?
+No entiendo absolutamente nada.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294513137]
+<STR>(YUR)
+«Kdvkxosktzgr hrgyzog 
+iuarj hk jgtmkxuay...».<PAGE>Es como si hubiese escrito palabras al azar.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294513137]
+<STR>(RIT)
+Todo está codificado.
+Intenté averiguarlo
+un par de veces, pero...<PAGE>Estas puñeteras formas de escribir normalmente
+las usan para apuntar notas personales y tal,
+pero no en libros de investigación.<PAGE>Y mira la portada del libro.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294513137]
+<STR>(EST_P)
+Pone:
+«Dedicado a mi hija».
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294513137]
+<STR>(RIT)
+Y más tarde pone:
+«Intenta leerlo».
+Qué raro, ¿no os parece?<PAGE>Nunca me dio
+por intentar hacer eso.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(EST_P)
+¿Creéis que esta pudo haber sido
+su manera de retar a su hija?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1292958687]
+<STR>(JUD)
+Sí, eso creo.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(RIT)
+Pues vaya un científico
+más estúpido y ridículo.<PAGE>Ni siquiera sabía de qué
+eran capaces los blastias
+que creó.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(JUD)
+Sí...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(RIT)
+¡Decidido! Me llevaré 
+el libro e intentaré
+descifrarlo.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294513137]
+<STR>(EST_P)
+Un momento...
+¿D-De verdad puedes hacerlo?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1292958687]
+<STR>(JUD)
+No, yo creo que es lo mejor. Después de todo
+nos hemos molestado en encontrarlo.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1292958687]
+<STR>(EST_P)
+Su-supongo...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1294514578]
+<STR>(RIT)
+Ya veréis. ¡Se va a enterar
+ese panoli de los blastias!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1292958687]
+<STR>(JUD)
+...

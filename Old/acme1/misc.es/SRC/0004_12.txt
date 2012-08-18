@@ -1,0 +1,299 @@
+## POINTER 1962 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110503]
+Barrido de cola
+
+## POINTER 1964 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110503]
+Cuchillada
+
+## POINTER 1966 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110503]
+Tajo superior
+
+## POINTER 1968 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111735]
+Giro Biellmann
+
+## POINTER 1970 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110503]
+Pez volador
+
+## POINTER 1972 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110503]
+Cabezazo
+
+## POINTER 1974 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1264986334]
+Cabezazo combo
+
+## POINTER 1976 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110503]
+Embestida
+
+## POINTER 1978 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110503]
+Patada
+
+## POINTER 1980 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1264986334]
+Cornada
+
+## POINTER 1982 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110503]
+Bomba aérea
+
+## POINTER 1984 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110503]
+Vuelo celestial
+
+## POINTER 1986 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133403]
+Garfio izquierdo - derecho
+
+## POINTER 1988 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Golpe inverso
+
+## POINTER 1990 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110503]
+Directo
+
+## POINTER 1992 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110503]
+Elevador
+
+## POINTER 1994 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Dentellada
+
+## POINTER 1996 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Placaje de hombro
+
+## POINTER 1998 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Golpe de brazo
+
+## POINTER 2000 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Aplastamiento
+
+## POINTER 2002 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Arañazo con pata delantera
+
+## POINTER 2004 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Dentellada
+
+## POINTER 2006 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Ataque de cola
+
+## POINTER 2008 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Ataque de cola combo
+
+## POINTER 2010 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Arañazo petrificador
+
+## POINTER 2012 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110821]
+Apestoso
+
+## POINTER 2014 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110821]
+Mal aliento
+
+## POINTER 2016 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110821]
+Colmillo venenoso
+
+## POINTER 2018 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Hola
+
+## POINTER 2020 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Lo siento
+
+## POINTER 2022 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Ignición
+
+## POINTER 2024 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111398]
+Hacer el pino
+
+## POINTER 2026 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111398]
+Voltereta lateral
+
+## POINTER 2028 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111398]
+Furia explosiva
+
+## POINTER 2030 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110821]
+Vapor
+
+## POINTER 2032 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110821]
+Fuego
+
+## POINTER 2034 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110821]
+Ataque
+
+## POINTER 2036 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Garfio izquierdo - derecho
+
+## POINTER 2038 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110821]
+Golpe inverso
+
+## POINTER 2040 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Tortazo giratorio
+
+## POINTER 2042 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110821]
+Directo
+
+## POINTER 2044 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110821]
+Elevador
+
+## POINTER 2046 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Empujón de guardia
+
+## POINTER 2048 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262370493]
+Estalagmita
+
+## POINTER 2050 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111825]
+Inmersión sólida
+
+## POINTER 2052 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111825]
+Tirabuzón
+
+## POINTER 2054 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111735]
+Espuma vomitiva
+
+## POINTER 2056 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Hola
+
+## POINTER 2058 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Lo siento
+
+## POINTER 2060 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Dentellada
+
+## POINTER 2062 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111735]
+Arrastre
+
+## POINTER 2064 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263110716]
+Golpe
+
+## POINTER 2066 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111735]
+Puñetazo combo
+
+## POINTER 2068 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111735]
+Puñetazo martillo
+
+## POINTER 2070 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111735]
+Lazo doble
+
+## POINTER 2072 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111735]
+Comadreja
+
+## POINTER 2074 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1262370493]
+Fotón
+
+## POINTER 2076 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Lancero gélido
+
+## POINTER 2078 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1264986334]
+Puñetazo izquierda - derecha
+
+## POINTER 2080 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111735]
+Corte cruzado
+
+## POINTER 2082 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Pisotón en salto
+
+## POINTER 2084 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Giro cortante
+
+## POINTER 2086 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Bomba energética
+
+## POINTER 2088 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Disparo láser
+
+## POINTER 2090 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Disparo giratorio
+
+## POINTER 2092 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Alcance
+
+## POINTER 2094 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Ataque giratorio
+
+## POINTER 2096 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Ataque voltereta
+
+## POINTER 2098 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Cantar
+
+## POINTER 2100 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Disparo de púas
+
+## POINTER 2102 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111825]
+Vítores
+
+## POINTER 2104 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Lanzamiento de huevo
+
+## POINTER 2106 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Sacudirse el polvo
+
+## POINTER 2108 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Un dos
+
+## POINTER 2110 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Patada
+
+## POINTER 2112 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Lanzamiento de tacones
+
+## POINTER 2114 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Directo
+
+## POINTER 2116 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Elevador
+
+## POINTER 2118 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Onda de choque (roja)
+
+## POINTER 2120 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Onda de choque (azul)
+
+## POINTER 2122 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Onda de choque (verde)
+
+## POINTER 2124 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Onda de choque (naranja)
+
+## POINTER 2126 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Onda de choque (negra)
+
+## POINTER 2128 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Onda de choque (brillante)
+
+## POINTER 2130 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Patada y lanzamiento de tacones
+
+## POINTER 2132 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111047]
+Golpe
+
+## POINTER 2134 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111185]
+Ataque giratorio
+
+## POINTER 2136 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Paso bajo y salto
+
+## POINTER 2138 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111185]
+Garra
+
+## POINTER 2140 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111185]
+Embestida
+
+## POINTER 2142 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111185]
+Blandir cola
+
+## POINTER 2144 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111185]
+Inmersión
+
+## POINTER 2146 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111185]
+Corta alas
+
+## POINTER 2148 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Hálito de fuego
+
+## POINTER 2150 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Hálito congelador
+
+## POINTER 2152 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111185]
+Embestida
+
+## POINTER 2154 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111825]
+Batir de alas
+
+## POINTER 2156 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111185]
+Placaje
+
+## POINTER 2158 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263111854]
+Corte de tijeras
+
+## POINTER 2160 [t:1;r:3;ru:squallido,parsec,memnoch;user:parsec;time:1263133389]
+Placaje perforador

@@ -1,0 +1,537 @@
+## POINTER 4900
+It's late, travelers. 
+Do what's best and stay 
+the night at the inn.
+
+## POINTER 4901
+If you wander about too late, you're 
+likely to run into the mer-people 
+who come ashore at night.
+
+## POINTER 4902
+Early checkout will save you 3 Gald, but 
+late checkin costs 3 Gald extra. Why not 
+call it a day and stay at the inn?
+
+## POINTER 4903
+It's gotten quite late, you 
+know. You must be sleepy.
+
+## POINTER 4904
+Haste makes waste, as they say. Why not 
+take a breather and slow things down. 
+Here now, right this way to the inn.
+
+## POINTER 4905
+It's bad luck to wander about 
+too much after dark. You'd be 
+wise to stay a night with us.
+
+## POINTER 4906
+You may be in town, but the dark can 
+be quite dangerous. Best to stay 
+a night with us, if you ask me.
+
+## POINTER 4907
+Where could you be off 
+to at this late hour? 
+Why not stay with us?
+
+## POINTER 4908
+Ragou, you no good cheat. 
+Hick... Let us take the 
+boats out, dammit...<PAGE>It's gettin' ta be, I can't get 
+by without drinkin' these days...
+
+## POINTER 4909
+I want ta be on a ship again! 
+Ta be out on the sea...
+
+## POINTER 4910
+A man's at home on the 
+sea. *Hic*... I can hear 
+it callin' me... <PAGE>A toast, to 
+the sea!
+
+## POINTER 4911
+O, a man needs the 
+sea! Needs ta travel 
+the ocean's roads!
+
+## POINTER 4912
+What's the deal with this town, anyway? 
+Hick... A fella's liable ta go stir 
+crazy, in a place like this...<PAGE>But I can send my sorrows packin', so 
+long as I've got my drink ta help me.
+
+## POINTER 4913
+O, the sea... O, the 
+sun... Ahh, there's 
+nothin' finer...
+
+## POINTER 4914
+Was that south, ya said...? 
+Hick... If you're talkin' bearings, 
+then speak up man...!<PAGE>Ooh... What the... 
+What the hell's gonna 
+happen ta me...?
+
+## POINTER 4915
+Sing...! O, 
+inverted 
+world...!
+
+## POINTER 4916
+I saw a ring, I did! 
+Hick... What the hell's 
+that mean, huh...?!<PAGE>Urgh...<PAGE>I'm in the mood for a drink!
+
+## POINTER 4917
+A ring...! It's 
+round. Perfectly...round...?
+
+## POINTER 4918
+Somethin' not right with 
+that sky. Hick... Aw, 
+who gives a damn...?<PAGE>It all disappears when 
+I drink, right...?!
+
+## POINTER 4919
+This ugly sky! My hands and my feet! 
+I want to forget it all...!
+
+## POINTER 4920
+That earthquake freaked 
+me out, man... Hick... 
+I don't feel so good...<PAGE>The sky's spinnin. 
+I can't feel 
+my legs...!
+
+## POINTER 4921
+I'm a man...! Go ahead an' 
+crumble, ya mountain...! 
+Damn, that's scary...!
+
+## POINTER 4922
+"Rhybgaro! A beast that shines like the 
+golden light of the sun! Will he appear 
+in the vicinity of Torim Harbor?"<PAGE>That's what the paper said. It likes 
+the water, so apparently it only 
+shows itself on rainy days.
+
+## POINTER 4923
+Ahh, what a lovely color, gold... The 
+world is coming up roses, my dears.
+
+## POINTER 4924
+Heard the headlines? "New magistrate to be appointed 
+in Torim Harbor! And only 18 years old!"<PAGE>As of tomorrow, 
+this town is going 
+to be reborn.
+
+## POINTER 4925
+Ahh, I love the smell of renewal in the morning... 
+The world's coming up roses, my dears.
+
+## POINTER 4926
+Did you hear? "The Duce of the coliseum's 
+hidden past revealed! Mastermind of 
+the Great War falls at last!" Finally, 
+I can sleep soundly at night.
+
+## POINTER 4927
+Ahh, my but peace is lovely... The 
+world is coming up roses, my dears.
+
+## POINTER 4928
+Have you heard? "The citizens of the capital 
+take leave for a new promised land! Will 
+they find the hope of a new life?"<PAGE>The capital may have been ruined, 
+but maybe this'll give those 
+folks a new start.
+
+## POINTER 4929
+Ahh, the frontier spirit is a beautiful thing... 
+The world's coming up roses, my dears.
+
+## POINTER 4930
+This one says "Capital Liberated! 
+Disorder Continues"! <PAGE>I'm just glad they've 
+avoided the fate our 
+town had to suffer.
+
+## POINTER 4931
+Ahh, isn't liberation simply marvelous...? 
+The world's coming up roses, my dears.
+
+## POINTER 4932
+"Mysterious ruins surface on the seas! Knights 
+arrive on scene, relieve world's fears!" 
+or so I hear. Well thank goodness.<PAGE>No telling what might 
+happen if that thing 
+were left unattended.
+
+## POINTER 4933
+Ahh, my but those Knights are certainly dashing... 
+The world's coming up roses, my dears.
+
+## POINTER 4934
+Yo travelers, what's up? Welcome 
+to the port town of Capua Nor.
+
+## POINTER 4935
+Capua is split between Capua 
+Nor to the south and Capua 
+Torim to the North.<PAGE>You're in Nor now, on the south side.
+
+## POINTER 4936
+I've heard the barrier in the 
+capital's been torn down.<PAGE>Hope our blastia here's 
+gonna be okay.
+
+## POINTER 4937
+The blastia of this town is fashioned 
+in the shape of an anchor.<PAGE>Look here, see how it's 
+written on the ground?
+
+## POINTER 4938
+I heard they managed to get the blastia 
+in the capital back under control more 
+or less, but you never can be too sure.<PAGE>We've got to...well, get this 
+town ready for...for whatever 
+tomorrow might bring...
+
+## POINTER 4939
+I hear we get researchers from Aspio 
+that come now and again to keep 
+our blastia in good repair.<PAGE>'Course the patient's always 
+gonna protest that they're 
+in good health.
+
+## POINTER 4940
+We've been having a series of earthquakes in these parts, 
+recently. Makes you wonder, you know. I've always thought 
+the bedrock around here was supposed to be solid.
+
+## POINTER 4941
+I swear there's more than meets the eye with 
+these earthquakes. It just might have something 
+to do with that monster up in the sky...
+
+## POINTER 4942
+Aspio was located right smack at the 
+base of that tower. It had to've been 
+just flattened, no two ways about it.<PAGE>Now who's gonna come to 
+do maintenance on the 
+blastia, I ask ya...?
+
+## POINTER 4943
+Gotta admit though, that thing is the definition 
+of big. Wouldn't be surprised if the entire 
+Ilyccian continent just up and sank...
+
+## POINTER 4944
+I can't stop thinking 
+about that sound. What 
+could it have been? <PAGE>They really should post news 
+up on the boards faster.
+
+## POINTER 4945
+I just can't wait 
+for them to post the 
+latest news here.<PAGE>I'm so excited!
+
+## POINTER 4946
+It says, "Commandant Flynn of 
+the Imperial Knights Building City 
+on Hypionia. Open Call for Names."<PAGE>I just might go...
+
+## POINTER 4947
+Ahh, there's nothing like breaking new ground, I tell you... The world's coming up roses my dears.
+
+## POINTER 4948
+Lakiko... My dearest friend...<PAGE>Ragou took her away, and I 
+haven't seen her since...
+
+## POINTER 4949
+I don't want to have to go. 
+Does that make me selfish...?
+
+## POINTER 4950
+I've been so worried about that girl, 
+I haven't been getting any sleep.<PAGE>My dear friend has come back 
+from Ragou's mansion... Oh, I 
+hope everything's all right.
+
+## POINTER 4951
+Her mother says that she still 
+wakes herself up each night with 
+the sounds of her own screams.
+
+## POINTER 4952
+I haven't been able to sleep 
+since my friend told me 
+about Ragou's misdeeds.<PAGE>I'm so glad I didn't press her to tell me everything.
+
+## POINTER 4953
+I have these bad dreams every night. 
+These bodiless people won't 
+stop staring at me... Ooh...
+
+## POINTER 4954
+When I go to bed at night I have 
+nightmares so I can't sleep...<PAGE>And I have to stay awake during 
+the day, so I can't sleep then...
+
+## POINTER 4955
+Wow... I am working on a serious 
+sleep deficit here...
+
+## POINTER 4956
+Ragou kept me from sleeping, but 
+lately, I've finally started getting 
+to sleep more regularly.<PAGE>For a while there, I wanted 
+to sleep so badly I thought 
+I might go crazy.
+
+## POINTER 4957
+But now I can't keep from thinking 
+awful thoughts during my waking hours. 
+I guess I'm just no good...
+
+## POINTER 4958
+Did you see the new magistrate? 
+He's a friendly looking young 
+guy with blond hair.<PAGE>The last magistrate looked 
+like he'd be a friendly 
+old man at first, too.
+
+## POINTER 4959
+Power eventually corrupts the personalities 
+of people who hold it.<PAGE>...That's what that knight 
+with the mask and the spiky 
+green hair said, anyway.
+
+## POINTER 4960
+The taxes aren't going down! I even 
+saw the guy at that stall over there 
+start crying. It's just rotten.<PAGE>What with the taxes 
+so high, nobody 
+can buy anything.
+
+## POINTER 4961
+Higher taxes should mean greater 
+returns to the people, and further 
+benefit to their lives.<PAGE>...Or at least that's what the 
+roly-poly egghead with the blue 
+hair and the scary voice said.
+
+## POINTER 4962
+I heard the ocean to the north got all frozen 
+solid because of that "aer" stuff.<PAGE>Hey, if the sea water freezes, 
+do you think the ice 
+would taste salty?
+
+## POINTER 4963
+The "aer" makes it possible for us 
+to live our daily lives. We must 
+give thanks for its existence.<PAGE>...That's what that pink-haired 
+Krityan lady with 
+a broom said.
+
+## POINTER 4964
+It's awesome! A bunch of the 
+empire's battleships are docked 
+in the harbor right now.<PAGE>What's so cool about that? Well, 
+they're made all out of metal!
+
+## POINTER 4965
+The warship called Sieg Krunos 
+does 30 knots on the open sea, 
+with its "eh-ar terbines." <PAGE>...That's what the tan, 
+short-haired, tomboy-looking 
+sailor girl was saying, anyway.
+
+## POINTER 4966
+Besides, even if the world is ending, 
+as long as we don't give up 
+hope, we can go on fighting.<PAGE>...I heard that from 
+this hero with spiky 
+blond hair.
+
+## POINTER 4967
+Have you gone up the tower that came 
+out of that mountain in the north?<PAGE>It looks like it's made 
+up of a bunch of different 
+buildings.
+
+## POINTER 4968
+The giant cities of the past were made 
+up of buildings all stacked together that 
+you'd think they were really towers.<PAGE>...That's what this sword fighter 
+wearing this big white bone 
+thing on his head said.
+
+## POINTER 4969
+If only Ragou hadn't come, 
+my future would be looking 
+a lot more rosy...<PAGE>Everything I touch lately seems 
+to turn to dirt. What can someone 
+like me do to get along...?
+
+## POINTER 4970
+I guess I'm just no good. And 
+the night only seems to make 
+my mood even worse...
+
+## POINTER 4971
+That was a really loud rumble. 
+But it didn't phase me. <PAGE>Nothing gets done 
+by worrying.
+
+## POINTER 4972
+I should thank Ragou for 
+giving me the courage 
+to face anything. <PAGE>Luckily, he isn't around 
+to accept my gratitude.
+
+## POINTER 4973
+There was a time when all I did was worry. But I realized, what's the point?<PAGE>I've got to keep my chin up. Life's too short, right?
+
+## POINTER 4974
+When unimaginable events occur, all the little things in life seem to mean less to people.
+
+## POINTER 4975
+I hear there's a guy who badmouths 
+the magistrate, but he'll only 
+do it under the cover of night.<PAGE>If he's gonna gripe, he 
+should do it out in the 
+open, you know, like me.
+
+## POINTER 4976
+We can complain all we like, though. It's 
+not like anybody in charge is gonna listen.<PAGE>Not so long as they get to 
+use us for their amusement.
+
+## POINTER 4977
+That damned Council, with its damned high 
+taxes... It's enough to make a fella wanna 
+give up on earning an honest living.
+
+## POINTER 4978
+I mean, even when I get paid, my 
+wallet's empty by the next day. 
+Maybe I should just quit my job.
+
+## POINTER 4979
+If the Don were to die, it'd upset the 
+balance between the empire and the guilds, 
+and most likely turn to all out war.<PAGE>Hip hip hooray, 
+we'll all go down 
+together.
+
+## POINTER 4980
+...If that happens though, one guild or another's gonna 
+make a bid for power, which'll mean using that power 
+to put down anybody who gets in their way. Gah...<PAGE>Fools, the lot 
+of them!
+
+## POINTER 4981
+We've got the guilds, the Council, 
+and now it's the Knights.<PAGE>They're only interested in 
+using what power they've got 
+to run things their way.
+
+## POINTER 4982
+Just you watch. Sooner or later 
+this <STR>(FRE) character's gonna 
+show his true colors.
+
+## POINTER 4983
+That boat carrying all those 
+refugees has gotta be 
+in rough shape. It's cramped, 
+it stinks. Man, gives 
+me goose bumps just 
+thinking about it.
+
+## POINTER 4984
+Whatever, not like it's any skin 
+off my back what happens to 
+that bunch from the capital.
+
+## POINTER 4985
+First the Don dies, then that Commandant of the Knights 
+checks out. You'd think we're due for some peace 
+and quiet, and then we get this thing with Aspio.<PAGE>What the hell are all those mages 
+cooking up over there, anyway?
+
+## POINTER 4986
+They're weak, but they 
+have some weird powers. <PAGE>But they don't have a clue 
+how to use their power. 
+We should be okay...
+
+## POINTER 4987
+Isn't that tower around Aspio? <PAGE>I think the mages are 
+definitely planning something.
+
+## POINTER 4988
+I mean, a mage brought that 
+tower back to begin with. <PAGE>He's going to monopolize 
+the blastia and get the 
+Empire on his side.
+
+## POINTER 4989
+Besides, it's not like the empire or the 
+guilds can really do anything about it.
+
+## POINTER 4990
+You can never count on these guys 
+when you really need them.
+
+## POINTER 4991
+If you're looking for something to snack 
+on after dark, gels are the way to go.<PAGE>Low in fat, and easy 
+on the digestion, there's 
+no beating gels.
+
+## POINTER 4992
+Now if there was something like a night gel, 
+you know, that put you right to sleep, my midnight 
+snacking regimen would be complete.
+
+## POINTER 4993
+At night I hide a few gels 
+under my pillow, and snack 
+on them in secret.<PAGE>Don't tell my husband, okay?
+
+## POINTER 4994
+I'm so crazy about gels, I don't 
+know what to do with myself.
+
+## POINTER 4995
+If there's a problem with distribution, 
+supply and demand will break down, and 
+we'll be looking at a gel shortage.
+
+## POINTER 4996
+If I couldn't have gels in 
+my life, I think my heart 
+might just shrivel up...!
+
+## POINTER 4997
+This town's become quite a tough place 
+for people to live. It used to be 
+such a sleepy little place...
+
+## POINTER 4998
+Now, Nor and Torim are different 
+as night and day...<PAGE>Don't the guilds or the 
+empire care at all how folks 
+like us are livin'?
+
+## POINTER 4999
+We never had a magistrate 
+here when I was younger. <PAGE>When did the Empire 
+get so strict...?

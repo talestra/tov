@@ -1,0 +1,61 @@
+## POINTER 0
+<STR>(RIT)
+Here you go! ○○○○!
+
+## POINTER 1
+Kaufman
+Oh, thank you! This 
+helps a lot.
+
+## POINTER 2
+<STR>(RIT)
+Would right now be okay?
+
+## POINTER 3
+Kaufman
+That would be best 
+for you, correct?
+
+## POINTER 4
+<STR>(RIT)
+Yes. Let's go.<PAGE>You all can wait here. I'll be back.
+
+## POINTER 5
+<STR>(RIT)
+I'm back!!<PAGE>You should be happy! This'll help them 
+synthesize even more types of items.
+
+## POINTER 6
+<STR>(YUR)
+That should help 
+us out, too.
+
+## POINTER 7
+Kaufman
+Exactly. Everything in life 
+is about give and take.<PAGE>Fortune's Market has always 
+stayed true to that creed.
+
+## POINTER 8
+<STR>(RIT)
+From what I've seen, it looks like 
+there's still room for improvement.
+
+## POINTER 9
+Kaufman
+Yes, when we've made the proper preparations 
+I'll have my people contact you.
+
+## POINTER 10
+<STR>(KAR)
+Hey, what are you two 
+even talking about--
+
+## POINTER 11
+<STR>(YUR)
+Don't even ask, <STR>(KAR). You'll just end up more 
+confused than you were before you asked.<PAGE>This is a world we'll never understand...
+
+## POINTER 12
+<STR>(KAR)
+Err, maybe you're right.

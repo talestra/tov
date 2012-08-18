@@ -1,0 +1,193 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483225]
+
+<VOICE>(VA022_031)¿Qué os trae
+por aquí?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483463]
+<STR>(YUR)
+<VOICE>(VA022_032)Solo somos unos viajeros que están de paso.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+
+<VOICE>(VA022_033)Lo siento, pero ya no hay
+ninguna posada ni ninguna
+tienda en esta ciudad.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(JUD)
+<VOICE>(VA022_034)¿Estás aquí solo?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+
+<VOICE>(VA022_035)Sí. Solamente
+estoy yo.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(YUR)
+<VOICE>(VA022_036)Por casualidad
+no serás el
+Sabio, ¿verdad?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+
+<VOICE>(VA022_037)Los humanos de la ciudad
+me solían llamar así.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551266]
+<STR>(KAR)
+<VOICE>(VA022_038)¿Eh?
+Pero ¿el Sabio no murió?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+<STR>(RIT)
+<VOICE>(VA022_039)Ssh.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(YUR)
+<VOICE>(VA022_040)Esto es una ilusión creada
+por Phaeroh, ¿no?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(KAR)
+<VOICE>(VA022_041)Eso quiere decir que esto es
+Yormgen hace mil años.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+<STR>(YUR)
+<VOICE>(VA022_042)Sí. Me pregunto si todos se fueron
+porque no hay barrera blastia.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+
+<VOICE>(VA022_043)Qué perspicaz. Los blastias no
+se obtienen fácilmente y tampoco
+tenemos el cristal cielo claro.<PAGE><VOICE>(VA022_044)Los Hijos de la Luna Llena
+no debieron haber firmado
+ese pacto con los entelechia.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(EST_P)
+<VOICE>(VA022_045)¿Pacto?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+
+<VOICE>(VA022_046)Acordaron enterrar la mayoría de los
+blastias, y que los Hijos que quedaban
+cuidasen el resto.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(JUD)
+<VOICE>(VA022_047)Para protegernos del adephagos.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+<STR>(RIT)
+<VOICE>(VA022_048)Entonces... la civilización antigua
+no se desmoronó... Fue sellada.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+
+<VOICE>(VA022_049)Vaya, pensaba que erais perspicaces,
+pero ahora veo que no sabéis nada.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+<STR>(EST_P)
+<VOICE>(VA022_050)¿Q-Qué?
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(KAR)
+<VOICE>(VA022_051)Supervisar el uso de los blastias...
+¿No os recuerda a lo que hace el Imperio?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+<STR>(RIT)
+<VOICE>(VA022_052)Bueno, <STR>(EST_P) es una Hija de la Luna Llena,
+sin mencionar que es una heredera al trono.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(KAR)
+<VOICE>(VA022_053)¡Un momento! Entonces los Hijos
+de la Luna Llena debieron
+haber fundado el Imperio.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+
+<VOICE>(VA022_054)Por favor, no hay por qué
+murmurar tanto.<PAGE><VOICE>(VA022_055)El pacto será sin duda revocado.
+A no ser que nos deshagamos de
+todos los blastias para siempre.
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(KAR)
+<VOICE>(VA022_056)Pero la gente no podrá seguir
+viviendo como ahora sin blastias.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+
+<VOICE>(VA022_057)Es posible llevar
+un tipo de vida sin ellos.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+<STR>(YUR)
+<VOICE>(VA022_058)Pues sí, el fastidioso.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1287251872]
+
+<VOICE>(VA022_059)Así ha sido siempre.
+Dependen de todo lo que
+facilita los problemas de la vida.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+<STR>(JUD)
+<VOICE>(VA022_060)Y aún siendo consciente de eso,
+¿ayudaste a esta gente a construir
+una barrera blastia?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+
+<VOICE>(VA022_061)A mí también me corrompió el deseo
+de querer cosas grandiosas.
+No pude ignorar la conveniencia.
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(RAV)
+<VOICE>(VA022_062)¿Y qué Sabio hace argo así?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027150]
+
+<VOICE>(VA022_063)Ser un Sabio solo quiere decir
+ser rico en conocimientos.
+Yo también pertenezco a la sociedad.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+<STR>(YUR)
+<VOICE>(VA022_064)Vamos, que ser un santo
+no es un requisito para
+ser el líder, ¿eh?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+
+<VOICE>(VA022_065)Bien dicho. Lo mismo ocurre
+con los Hijos de la Luna Llena.<PAGE><VOICE>(VA022_066)Dentro de poco su papel
+como supervisores acabará
+en autoridad absoluta.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625687]
+<STR>(KAR)
+<VOICE>(VA022_067)¿Qué quiere decir eso?
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(YUR)
+<VOICE>(VA022_068)Está más claro que el agua si ves
+en lo que se ha convertido el Imperio.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625830]
+
+<VOICE>(VA022_069)El caso es que en este pueblo
+no queda nada. Ni blastias.<PAGE><VOICE>(VA022_070)
+Sois bienvenidos a quedaros y pasar la noche,
+si no os importa que un viejo
+se pierda en sus divagaciones.
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284483192]
+<STR>(YUR)
+<VOICE>(VA022_071)Gracias.

@@ -1,0 +1,302 @@
+## POINTER 1
+This is Event Jump for 
+CHAPTER 1
+
+## POINTER 2
+CHAPTER  1 Event Jump
+
+## POINTER 3
+EP000 Opening
+
+## POINTER 4
+EP010 Zaphias_Lower Quater
+
+## POINTER 5
+EP020 Zaphias_Royal Quarter
+
+## POINTER 6
+EP030 Zaphias_Castle
+
+## POINTER 7
+EP040 Zaphias
+
+## POINTER 8
+EP050 Deidon Hold
+
+## POINTER 9
+EP060 Quoi Woods
+
+## POINTER 10
+EP070 Town of Blossoms Halure
+
+## POINTER 11
+EP080 Quoi Woods
+
+## POINTER 12
+EP090 Town of Blossoms Halure
+
+## POINTER 13
+EP100 Sealed Academic City Aspio
+
+## POINTER 14
+EP110 Shaikos Ruins
+
+## POINTER 15
+EP120 Sealed Academic City Aspio
+
+## POINTER 16
+EP130 Town of Blossoms Halure
+
+## POINTER 17
+EP140 Ehmead Hill
+
+## POINTER 18
+EP150 Capua Nor
+
+## POINTER 19
+EP160 Capua Torim
+
+## POINTER 20
+EP170 Caer Bocram
+
+## POINTER 21
+EP180 The Rising City Heliord
+
+## POINTER 22
+EP190 Dahngrest
+
+## POINTER 23
+EP195 Keiv Moc
+
+## POINTER 24
+EP200 Dahngrest
+
+## POINTER 25
+EP210 Tower of Gears Ghasfarost
+
+## POINTER 27
+We can't jump to that location.
+Sorry
+N/A
+
+## POINTER 29
+010　Let's go fix the fountain
+
+## POINTER 30
+020　The aque blastia core is missing
+
+## POINTER 31
+030　Infiltrate the royal quater
+
+## POINTER 33
+010 Arrive at Mordio residence
+
+## POINTER 34
+030 Retrieved money but Dedecchi escapes
+
+## POINTER 35
+040 <STR>(YUR), arrested...
+
+## POINTER 37
+010 In Prison, <STR>(RAV) next door
+
+## POINTER 38
+020 Escape prison
+
+## POINTER 39
+030 Try not to be spotted by guards
+
+## POINTER 40
+040 Meeting <STR>(EST)
+
+## POINTER 41
+050 I smell something good
+
+## POINTER 42
+070 This is <STR>(FRE)'s room
+
+## POINTER 43
+080 Mistaken for <STR>(FRE), Zagi attacks
+
+## POINTER 44
+085 Fix the door (a part of Zagi event)
+
+## POINTER 45
+090 The guard are under alert
+
+## POINTER 46
+100 <STR>(EST_P) changes outfit
+
+## POINTER 47
+110 Find a hidden ladder, <STR>(EST_P)'s magic
+
+## POINTER 49
+010 Exit to Royal Quarter
+
+## POINTER 50
+020 Let's stop by at the weapon shop.
+
+## POINTER 51
+030 Adecor, Boccos, Leblanc is back!
+
+## POINTER 52
+040 I'm gonna leave Dahngrest for a while
+
+## POINTER 53
+050 A departure
+
+## POINTER 55
+010 Reach Deidon Hold
+
+## POINTER 56
+020 Gate closes, Rescue a girl and young lad
+
+## POINTER 57
+021 Can't open the gate
+
+## POINTER 58
+030 Info. from Kaufman, An alternative route
+
+## POINTER 60
+010 Reach forbidden forest
+
+## POINTER 61
+040 <STR>(EST_P) wakes up
+
+## POINTER 62
+050 <STR>(KAR) attacks!
+
+## POINTER 64
+010 Reach Halure
+
+## POINTER 65
+011 <STR>(EST_P) heals people, Could not find <STR>(FRE)
+
+## POINTER 66
+020 <STR>(KAR) staggered
+
+## POINTER 67
+030 Lets heal the tree of Halure
+
+## POINTER 68
+040 Collect ingredient of Panacea Bottle
+
+## POINTER 69
+045 Going to Quoi Woods
+
+## POINTER 70
+050 Luluria Petal
+
+## POINTER 72
+010 Why do <STR>(YUR) own bohdi blastia?
+
+## POINTER 73
+020 Obtained Nia Fruit
+
+## POINTER 74
+030 Obtained Eggbear Claw
+
+## POINTER 75
+040 The trio again...
+
+## POINTER 77
+010 Making Panacea Bottle
+
+## POINTER 78
+020 Tree of Halure revives
+
+## POINTER 79
+030 Let's get out of town quickly
+
+## POINTER 80
+060 Depart Halure
+
+## POINTER 81
+070 I'm a little glad
+
+## POINTER 83
+010 This is Aspio
+
+## POINTER 84
+011 The guards wan't let us through
+
+## POINTER 85
+020 Let take the back door
+
+## POINTER 86
+030 Collect info from researchers
+
+## POINTER 87
+040 This is Mordio's place
+
+## POINTER 88
+050 No one home?
+
+## POINTER 89
+060 A blastia replica
+
+## POINTER 90
+070 A studious researcher
+
+## POINTER 91
+080 The blastia code
+
+## POINTER 92
+090 <STR>(RIT) appears. Follow me to Shaikos Ruins
+
+## POINTER 93
+100 A girl's secret
+
+## POINTER 95
+010 Arrive at Shaikos Ruins
+
+## POINTER 96
+011 Find a stair to underground
+
+## POINTER 97
+020 Blastia will never betray me
+
+## POINTER 98
+030 Blastia and it's core
+
+## POINTER 99
+035 Recieve Sorcerer Ring (1)
+
+## POINTER 100
+036 Recieve Sorcerer Ring (2)
+
+## POINTER 101
+040 A man in robe and magic golem
+
+## POINTER 102
+050 Captured man in robe
+
+## POINTER 104
+010 Turn man in robe in to the guards, Head back home in advance
+
+## POINTER 105
+020 Send <STR>(EST_P) to Halure
+
+## POINTER 106
+030 <STR>(RIT) joins the group
+
+## POINTER 108
+010 <STR>(RIT), surprised to know the tree been cured
+
+## POINTER 109
+020 Information about <STR>(FRE) and bounty been assigned.
+
+## POINTER 110
+030 Ask <STR>(RIT) to take care of <STR>(EST_P)
+
+## POINTER 111
+040 Let go all togather
+
+## POINTER 113
+010 The barrier is gone
+
+## POINTER 114
+020 <STR>(RIT), a trouble maker and mixer
+
+## POINTER 115
+030 Let take the beast trail

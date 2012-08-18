@@ -1,0 +1,114 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(KAR)
+Al final no hemos
+podido encontrar
+a Phaeroh...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(YUR)
+Ya, nuestro primer encargo como
+gremio ha sido todo un fracaso.<PAGE>¿Crees que deberíamos
+volver a Dahngrest?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527738]
+<STR>(KAR)
+Quizá sería lo mejor... Pero
+¿a ti te parecería bien, <STR>(YUR)?<PAGE>¿Y a <STR>(EST_P)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(YUR)
+Por mí vale.
+Respecto a <STR>(EST_P)...<PAGE>Ya nos contestará ella.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1280217204]
+<STR>(KAR)
+De acuerdo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1280217204]
+<STR>(YUR)
+Este pueblo sí
+que es tranquilo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(KAR)
+¿Eh? Oh, ya.
+Lo es, ¿verdad?<PAGE>Ni gremio, ni Imperio...
+Es poco raro.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(YUR)
+Ya, pero es en
+cierto modo relajante.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(KAR)
+Sí. Pero aun así
+prefiero Dahngrest.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(YUR)
+Todo el mundo es así.
+Prefiere siempre el lugar
+en el que ha crecido.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1280217204]
+<STR>(KAR)
+¿Tú también, <STR>(YUR)?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1280217204]
+<STR>(YUR)
+Claro.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1280217204]
+<STR>(KAR)
+Pero si vamos a trabajar juntos en
+Gran Vesperia, tendremos que decidir
+dónde pondremos nuestra sede.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(YUR)
+Siempre podemos ir
+a un lugar nuevo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1280217204]
+<STR>(KAR)
+¿Un lugar nuevo?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(YUR)
+Sí. Verás, todos piensan que Dahngrest
+es la ciudad de la Unión, pero
+en realidad pertenece a Altosk.<PAGE>Podríamos hacer algo así.
+Que Gran Vesperia tuviese
+su propia ciudad.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(KAR)
+Que Gran Vesperia tuviera su
+propia ciudad... Me gusta la idea.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(YUR)
+Bueno, en todo caso.<PAGE>
+Tenemos que terminar cantidad
+de encargos antes de
+pensar en proyectos así.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(KAR)
+¡Sí!<PAGE>Ahora que lo dices,
+Nordopólica es la ciudad
+de Palestrale, ¿no?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(YUR)
+Sí. Y si lo piensas de esa forma,
+Nordopólica es una ciudad
+aún más gremial que Dahngrest.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1283110688]
+<STR>(KAR)
+Sí. Y Belius es
+quien la gobierna.<PAGE>Nordopólica. Mmm... Gobernante de
+una ciudad, la Adalid de un gremio...<PAGE>Me pregunto qué tipo
+de persona es Belius...

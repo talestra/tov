@@ -1,0 +1,64 @@
+## POINTER 0
+The First Sign of a Cold?
+
+## POINTER 1
+(EST_P)
+...Achoo...!
+
+## POINTER 2
+(KAR)
+Huh? Are you catching a cold, (EST_P)?
+
+## POINTER 3
+(EST_P)
+No... It's just...I've been so 
+cold, ever since I saw (RIT) use 
+that water magic of hers...
+
+## POINTER 4
+(KAR)
+That's terrible! Are you sure 
+you're oka--ACHOO...!
+
+## POINTER 5
+(YUR)
+Now it's both of you? You should 
+just tell (RIT) to stop using 
+that kind of magic.
+
+## POINTER 6
+(KAR)
+I can hear (RIT) already. 
+"I'll decide what type of magic 
+I use, thank you very much!"
+
+## POINTER 7
+(EST_P)
+Oh, come on. If we tell her that 
+we might be coming down with 
+colds, I'm sure she'll--
+
+## POINTER 8
+(RIT)
+What's that? Something about me? Kchoo!
+
+## POINTER 9
+(KAR)
+Hey, you catch a cold too?
+
+## POINTER 10
+(RIT)
+...Maybe someone's...talking 
+about me behind my back...
+
+## POINTER 11
+(YUR)
+......
+
+## POINTER 12
+(EST_P)
+......
+
+## POINTER 13
+(KAR)
+......

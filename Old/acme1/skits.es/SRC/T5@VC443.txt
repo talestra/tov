@@ -1,0 +1,48 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252841795]
+Como un laberinto
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303892]
+(EST_P)
+Mmmm, qué interesante...
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303892]
+(KAR)
+(EST_P) está tan interesada
+en las ciudades como siempre...
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266828009]
+(YUR)
+¡(EST_P)! ¡Venga, no nos separemos!
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303892]
+(EST_P)
+¡Estoy bien!
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303892]
+(YUR)
+Los edificios están destrozados,
+hay plantas por todas partes y
+este sitio es un laberinto...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122594]
+(RIT)
+Con tanto obstáculo es difícil
+llegar adonde quieres ir.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303892]
+(KAR)
+¿Eh? ¡¿(EST_P)?!
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303892]
+(EST_P)
+¡Perdona, me he desviado!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122594]
+(YUR)
+¡Creía haberte dicho
+que no nos separásemos!
+
+## POINTER 10 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303892]
+(RIT)
+Tenéis que tener más cuidado. ¡Nunca había
+visto a nadie perderse con tanta facilidad!

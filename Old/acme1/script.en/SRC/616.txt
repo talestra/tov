@@ -1,0 +1,85 @@
+## POINTER 0
+
+Common citizens may go 
+no further without permission. 
+Go home.
+
+## POINTER 1
+<STR>(EST_P)
+Pardon me, but we are on our 
+way to Sir Cumore's residence. 
+Can you let us through?
+
+## POINTER 2
+
+P-princess?! But what 
+are you doing here?
+
+## POINTER 3
+<STR>(RAV)
+So long as the Princess is with us, 
+there can be no problem, surely.
+
+## POINTER 4
+
+Captain Schwann... I could never 
+refuse entry to either of you...
+
+## POINTER 5
+<STR>(KAR)
+We're in!♪
+
+## POINTER 6
+
+You should know though, Sir Cumore's 
+residence is currently uninhabited.
+
+## POINTER 7
+<STR>(EST_P)
+What...? But why?
+
+## POINTER 8
+
+Captain Cumore struggled numerous times 
+to exhibit proper...conduct as a Knight.<PAGE>During his assignments at Heliord and 
+Mantaic, he was at the center of some 
+rather unseemly developments.<PAGE>As a result, he was stripped 
+not only of his home, but of 
+his noble status as well.
+
+## POINTER 9
+<STR>(RAV)
+Huh. That guy's had 
+some ups and downs.
+
+## POINTER 10
+
+What's more, his sister, Miss Mimula, 
+was recently apprehended for her involvement 
+in aiding the extremists.
+
+## POINTER 11
+<STR>(KAR)
+Mimula... Hey wait, 
+is that...?
+
+## POINTER 12
+<STR>(JUD)
+That ill-mannered girl we 
+did a job for earlier.
+
+## POINTER 13
+<STR>(YUR)
+Huh... That's no big surprise. 
+I kept thinking she reminded 
+me of somebody.
+
+## POINTER 14
+<STR>(KAR)
+Do you know where this 
+Mimula is right now?
+
+## POINTER 15
+
+It hasn't been long since she was taken into custody, 
+so she should still be down in the prison.

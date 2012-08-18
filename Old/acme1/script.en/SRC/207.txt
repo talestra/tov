@@ -1,0 +1,114 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS19_001)This is Dahngrest, 
+my hometown.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS19_002)Looks like a pretty lively place.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS19_003)Well, it's the second largest 
+city after the imperial capital. 
+It's run entirely by the guilds.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS19_004)I'd thought it would be more 
+dark and dank, you know? 
+Like a den of villains.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS19_005)That's just a prejudice people 
+have about the guilds.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS19_006)I'm sure the bad reputation of the Blood 
+Alliance is to blame for that.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS19_007)Yeah. Jeez, <STR>(YUR). You make 
+it sound like I'm a villain.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS19_008)If you're a villain, what 
+does that make him?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS19_009)Point taken.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS19_010)So, how should we go about 
+tracking down Barbos?
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS19_011)The best way is probably to stop 
+by the Union and check there.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS19_012)The Union. A guild collective 
+run by the five so-called 
+"master guilds." ...Right?
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS19_013)Yeah. The Union also serves 
+as the city's government.
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS19_014)But, how is this gonna work? 
+Isn't Barbos' Blood Alliance 
+one of the five master guilds?
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS19_015)Which means if we lay a hand 
+on him, we'll be picking a fight 
+with the Union as well.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS19_016)...We won't know the answer to 
+that until we ask the Don.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS19_017)The Don is the boss of 
+the Union, isn't he?
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS19_018)Yep. Don Whitehorse, leader 
+of Altosk, the most powerful 
+of the five master guilds.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS19_019)All right, let's go see what 
+the Don has to say then. 
+You know the way, right <STR>(KAR)?
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS19_020)Hey wait, he's not the kind of 
+person you can just meet... 
+I don't really know if...
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS19_021)Please?
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS19_022)...Union headquarters is in 
+the north part of town.

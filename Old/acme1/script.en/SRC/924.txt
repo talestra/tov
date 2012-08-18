@@ -1,0 +1,78 @@
+## POINTER 0
+<STR>(FRE)
+*Whistles*
+
+## POINTER 1
+<STR>(YUR)
+What...?!
+
+## POINTER 2
+<STR>(FRE)
+No... I was just thinking how poorly 
+that knight's armor suits you.
+
+## POINTER 3
+<STR>(YUR)
+Like I care what you think.
+
+## POINTER 4
+<STR>(FRE)
+No, I mean... I'm starting to think you quit the Knights 
+just because of how ridiculous you look in armor.
+
+## POINTER 5
+<STR>(YUR)
+Yeah, I quit! So?
+
+## POINTER 6
+<STR>(FRE)
+And yet you seem to be pretty happy 
+to wear the armor around right now.
+
+## POINTER 7
+<STR>(YUR)
+I just decided to wear it on a whim.
+
+## POINTER 8
+<STR>(FRE)
+So are you going to join 
+the Knights again?
+
+## POINTER 9
+<STR>(YUR)
+Why should I?
+
+## POINTER 10
+<STR>(FRE)
+Oh? You can't 
+do that on 
+a whim too?
+
+## POINTER 11
+<STR>(YUR)
+There's not even a one in a million chance 
+of me ever having that sort of whim.
+
+## POINTER 12
+<STR>(FRE)
+Oh? Too bad.
+
+## POINTER 13
+<STR>(YUR)
+It's not "too bad" at all!
+
+## POINTER 14
+<STR>(FRE)
+Oh yeah?
+
+## POINTER 15
+<STR>(YUR)
+Yeah, it's not...
+Anyway, 
+I'm going.
+
+## POINTER 16
+<STR>(FRE)
+It's really too bad, but 
+I guess the free life suits 
+you better, <STR>(YUR)...

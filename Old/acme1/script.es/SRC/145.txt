@@ -1,0 +1,90 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217014]
+<STR>(YUR)
+<VOICE>(VS12_034)Si vas a despedirte, lo haremos aquí.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272568817]
+<STR>(RIT)
+<VOICE>(VS12_035)Voy con vosotros.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217014]
+<STR>(KAR)
+<VOICE>(VS12_036)¿Que haces qué?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217014]
+<STR>(YUR)
+<VOICE>(VS12_037)
+Oh, así que por eso nos has dicho que
+no nos fuésemos sin decir adiós, ¿no?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272568817]
+<STR>(RIT)
+<VOICE>(VS12_038)Sí.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272636619]
+<STR>(KAR)
+<VOICE>(VS12_039)¿Y ya está? ¿Un simple «sí»?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272570843]
+<STR>(YUR)
+<VOICE>(VS12_040)¿Te puedes ir así, sin más?
+Aquí eres una maga importante, ¿no?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272570843]
+<STR>(RIT)
+<VOICE>(VS12_041)Mmm...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217014]
+<STR>(RIT)
+<VOICE>(VS12_042)Quiero ver la barrera blastia de Halure
+con mis propios ojos. A la gente de allí
+no le conviene nada que esté rota, ¿no?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1282649235]
+<STR>(KAR)
+<VOICE>(VS12_043)La verdad es que la hemos arreglado entre nosotros tres.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217014]
+<STR>(RIT)
+<VOICE>(VS12_044)¿Eh? ¿Qué dices
+de «arreglarla»?
+Si sois unos novatos.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1283155856]
+<STR>(KAR)
+<VOICE>(VS12_045)Pues la hemos revivido.
+¡Ha sido genial! Estel...
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272570843]
+<STR>(YUR)
+<VOICE>(VS12_046)Digamos que fue la suerte del principiante.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1283155856]
+<STR>(RIT)
+<VOICE>(VS12_047)Ahora sí que estoy preocupada.
+Necesito ir y ver si lo habéis
+hecho bien o no.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272570843]
+<STR>(YUR)
+<VOICE>(VS12_048)Tú misma.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1283155856]
+<STR>(RIT)
+<VOICE>(VS12_049)¡¿Q-Qué?!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272636619]
+<STR>(EST_P)
+<VOICE>(VS12_050)¡Nunca antes había tenido una
+amiga de más o menos mi edad!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1283155856]
+<STR>(RIT)
+<VOICE>(VS12_051)N-No estoy tan segura de que seam...
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272570843]
+<STR>(EST_P)
+<VOICE>(VS12_052)¡Esto va a ser divertidísimo!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217065]
+<STR>(RIT)
+<VOICE>(VS12_053)Ya...

@@ -1,0 +1,120 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244696]
+Drake
+¿Por qué usasteis vuestras artes 
+curativas en alguien que no quería?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1280416877]
+<STR>(EST_P)
+Maestro...<PAGE>Solo quería hacer feliz 
+a esa persona...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244696]
+Drake
+Todas las acciones de una princesa
+son extremadamente importantes.<PAGE>Lo que hacéis afecta a mucha gente,
+y si no actuáis con prudencia, 
+puede provocar confusiones.
+
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1280416877]
+<STR>(YUR)
+¿No es mejor que quedarse 
+sentado sin hacer nada?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1280425513]
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1280416877]
+Drake
+A veces el mejor modo de actuar 
+es no actuar en absoluto.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:miyu;time:1280416877]
+<STR>(YUR)
+¿Y qué hay de toda la gente que <STR>(EST_P) salvó 
+en Halure? Le agradecen mucho lo que hizo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244696]
+Drake
+¿Os dais cuenta de que gracias a ello, 
+ha empezado a circular el rumor sobre
+una «princesa de la salvación»?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:miyu;time:1280416877]
+<STR>(YUR)
+¿Y eso qué tiene de malo?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244696]
+Drake
+Cuando la gente se hace ilusiones, esperan cosas
+de ti. Y así sus expectativas crecen y crecen
+hasta que se dan de bruces contra la realidad.<PAGE>Si no eres capaz de cumplir sus expectativas, 
+se decepcionan y entonces llega el caos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:miyu;time:1280416877]
+<STR>(EST_P)
+P-Pero...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244696]
+Drake
+Por suerte, ningún ciudadano ha advertido
+que la princesa de la salvación es, en realidad,
+su Princesa.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:miyu;time:1280417876]
+<STR>(EST_P)
+Yo...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244696]
+Drake
+Para gobernar debéis usar la razón
+y no dejaros llevar por las emociones.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:miyu;time:1280417876]
+Drake
+No estáis preparada para ocupar el trono 
+imperial. Os aconsejo que os retiréis de  
+la candidatura lo más pronto posible.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244696]
+<STR>(EST_P)
+¡¿Qué debería hacer!?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:miyu;time:1280417876]
+Drake
+Tomad esto.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:miyu;time:1280418268]
+<STR>(EST_P)
+Esto... es el emblema
+imperial.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:miyu;time:1280418268]
+Drake
+Cuando lo miréis, pensad 
+en vuestros actos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:miyu;time:1280418268]
+<STR>(EST_P)
+...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244696]
+<STR>(YUR)
+Eh, arriba esos ánimos.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244696]
+<STR>(EST_P)
+Estoy bien... El maestro Drake
+me ha dicho que pensara en lo que
+estoy haciendo.<PAGE>Y es lo que haré. Reflexionaré sobre si mis actos
+son los correctos o no para una futura emperatriz.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1294244696]
+<STR>(YUR)
+Vaya. Pues buena
+suerte, <STR>(EST_P).
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:miyu;time:1280418268]
+<STR>(EST_P)
+Sí, gracias.

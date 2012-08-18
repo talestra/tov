@@ -1,0 +1,87 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293628724]
+<STR>(YUR)
+*Bostezo*
+¿Nos vamos?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816756]
+<STR>(EST_P)
+¿<STR>(RAP)?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293628724]
+<STR>(RAP)
+Grrrr.... ¡Guau, guau, guau!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293628724]
+<STR>(YUR)
+Eh, ¿ese no es...?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1304552611]
+<STR>(RAV)
+¡Anda, pero si es
+el lobiño que vimos
+en el Puerto Torim!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298816756]
+<STR>(RAP)
+(Es Lobito, viejales).
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817459]
+
+(¡Exacto, soy Lobito!).
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293628724]
+<STR>(RAP)
+(¿Por qué has venido?)
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817459]
+
+(¿Qué clase de
+saludo es ese?).
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817459]
+<STR>(RAP)
+(¿Después de cómo me trataste
+en el pasado, esperas que corra
+hacia ti y te lama la cara?).
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817459]
+
+(Ya veo que has marcado
+la mitad de las zonas
+de tu territorio).<PAGE>(Tendré que enseñarte
+de qué pasta estoy hecho).
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817459]
+<STR>(RAP)
+(¿Oh? ¿Qué
+vas a hacer?).
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817459]
+
+(Se acabó lo que se daba.
+Voy a ponerme serio).<PAGE>(Tal como antes, en la capital).
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817459]
+<STR>(RAP)
+(¡Espera!).
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293628724]
+<STR>(YUR)
+Vaya. A partir de ahora
+irá a tope a por
+el resto de ciudades.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817459]
+<STR>(KAR)
+¡No pasa nada! ¡<STR>(RAP) es
+demasiado bueno como para perder
+ante un rival así! ¿A que sí?
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293628724]
+<STR>(KAR)
+Ooh, ¡no debería darte vergüenza!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298817459]
+<STR>(RAV)
+No es que m'importe mucho, pero...<PAGE>¿Por qué siempre me toca
+poner voz ar Lobito?

@@ -1,0 +1,56 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1251915391]
+Todos en el mismo barco
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266181713]
+(RAV)
+Oye.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266181713]
+(YUR)
+¿Qué pasa, viejales?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266181713]
+(RAV)
+Querría saber qué piensas hacer.
+Ya sabes, sobre lo de (EST_P).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266181713]
+(YUR)
+¡...!
+
+## POINTER 5 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267435310]
+(RAV)
+Estamos todos en el mismo barco, ¿no?
+¿T'importaría compartirlo?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1266241125]
+(YUR)
+No sé si podré mantener la calma
+si me pongo hablar de eso ahora...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1266181713]
+(YUR)
+Tendrás que esperar a que llegue el momento.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1266181713]
+(RAV)
+Estás preparado para hacer lo que sea necesario,
+pero todavía no has abandonado toda esperanza.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1266181713]
+(YUR)
+Eso lo resumiría todo, más o menos...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1266181713]
+(RAV)
+Supongo que es tu estilo...
+Pero no intentes cargar con
+todo tú solo, ¿de acuerdo?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1266181713]
+(YUR)
+Je. Resulta extraño verte tan amable, (RAV).
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1266181713]
+(RAV)
+¡Ja! Tienes razón.

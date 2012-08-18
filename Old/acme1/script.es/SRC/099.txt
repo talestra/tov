@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275647299]
+Adecor
+<VOICE>(VS04_001)¡Eh, fugitivo! 
+¡Deteneos, proclamo!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275647299]
+Boccos
+<VOICE>(VS04_002)¡Se acabó lo que se daba!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211710]
+Leblanc
+<VOICE>(VS04_003)¡Idiotaaaas! ¡Dejaos de
+florituras y arrestadlo!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1272479251]
+<STR>(EST)
+<VOICE>(VS04_004)¿Q-Qué vamos a hacer?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1270593976]
+<STR>(YUR)
+<VOICE>(VS04_005)Primero coger una de estas...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:SamuelSnake;time:1269949886]
+<STR>(YUR)
+<VOICE>(VS04_006)¡Y luego haces tal que así!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:SamuelSnake;time:1269949886]
+Boccos
+<VOICE>(VS04_008)¡Ouch!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:SamuelSnake;time:1269949886]
+Adecor
+<VOICE>(VS04_007)¡Auch!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269949899]
+<STR>(YUR)
+<VOICE>(VS04_009)Vamos a los barrios bajos.

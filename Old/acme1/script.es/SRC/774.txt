@@ -1,0 +1,116 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287593479]
+<STR>(EST_P)
+¿En serio vas a destruirlo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(JUD)
+Como ya dijo <STR>(YUR), no importa
+cuánto jure la gente que
+no va a usar blastias.<PAGE>La tentación es muy grande. Es inevitable
+que alguien vaya a usarlos otra vez.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287593479]
+<STR>(RIT)
+Y por eso tenemos que hacer
+que no vuelva a funcionar jamás.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(EST_P)
+Vaya... Supongo que no podemos
+hacer otra cosa sino destruirlo...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(JUD)
+La verdad es que eso no es cierto.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287593479]
+<STR>(EST_P)
+¿Qué quieres decir?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(RIT)
+Si nos llevamos el núcleo de ese
+blastia, ya no lo podrán usar.<PAGE>
+Así que vamos a extraerlo y después lo usaremos en
+la conversión de espíritus. ¡Y se acabó lo que se daba!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527043]
+<STR>(EST_P)
+Pero ¿eso no es robar?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027121]
+<STR>(RIT)
+Exacto. Y por eso queríamos
+hacerlo solo las dos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(JUD)
+No, creo que a estas alturas tenemos
+que hacer a <STR>(EST_P) nuestra cómplice.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027121]
+<STR>(EST_P)
+¡¿Q-Que qué?!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(JUD)
+Para asegurarnos de
+que no descubran que
+hemos robado el núcleo,<PAGE>creo que deberíamos dejar patas arriba todo el almacén y sus alrededores.
+Con tanto jaleo no se darán cuenta de que falta el núcleo, ¿verdad?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027121]
+<STR>(EST_P)
+¡¿Q-Que qué?!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(RIT)
+Buena idea. Quizá vendría bien hacerle unos
+cuantos arañazos al cuerpo del blastia...
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287593479]
+<STR>(RIT)
+Supongo que es la única manera de hacerlo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(JUD)
+Tengo que admitir que me
+ha encantado que descubrieses
+mi plan tan rápido.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(RIT)
+Pero ¿qué me estás contando?
+Ha sido pan comido averiguar
+lo que estabas pensando.<PAGE>Intentabas no involucrar a <STR>(EST_P)
+y a los demás, ¿verdad?<PAGE>Aunque supongo que ya no tiene
+mucho sentido preocuparse por eso...
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287593479]
+<STR>(EST_P)
+P-Perdón...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(YUR)
+Venga ya. No teníais por qué
+comeros ese marrón.<PAGE>Hubiera sido mil veces más sencillo
+si se lo hubieseis comentado
+a <STR>(FRE) y a Su Alteza Real.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287593479]
+<STR>(JUD)
+¿Te gustaría venir
+con nosotras?
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287593479]
+<STR>(EST_P)
+¿Eh? ¿Hay alguien ahí?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(YUR)
+Ups. Supongo que es hora de salir de aquí.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298809133]
+<STR>(JUD)
+En fin, ahora que estamos todos,
+¡vamos a liarla gorda!

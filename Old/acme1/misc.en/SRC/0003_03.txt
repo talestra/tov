@@ -1,0 +1,302 @@
+## POINTER 304
+Skit Titles
+
+## POINTER 305
+Skit Subtitles
+
+## POINTER 306
+Movie Subtitles
+
+## POINTER 307
+Brightness Adjustment
+
+## POINTER 308
+Font Select
+
+## POINTER 309
+Xbox LIVE Marketplace
+
+## POINTER 310
+Skit Volume
+
+## POINTER 311
+Movie Volume
+
+## POINTER 312
+Slow
+
+## POINTER 313
+Normal
+
+## POINTER 314
+Fast
+
+## POINTER 315
+At Once
+
+## POINTER 316
+Easy
+
+## POINTER 317
+Normal
+
+## POINTER 318
+Hard
+
+## POINTER 319
+Unknown
+
+## POINTER 320
+Normal
+
+## POINTER 321
+Reverse
+
+## POINTER 322
+Surround
+
+## POINTER 323
+Stereo
+
+## POINTER 324
+Mono
+
+## POINTER 325
+ON
+
+## POINTER 326
+OFF
+
+## POINTER 327
+To Setting Screen
+
+## POINTER 328
+Type A
+
+## POINTER 329
+Type B
+
+## POINTER 330
+Type C
+
+## POINTER 331
+Reserve
+
+## POINTER 332
+Reserve
+
+## POINTER 333
+Reserve
+
+## POINTER 334
+Reserve
+
+## POINTER 335
+Change the message display speed.
+
+## POINTER 336
+Change the battle difficulty.
+
+## POINTER 337
+Turn controller vibration ON or OFF.
+
+## POINTER 338
+Select camera rotation control type.
+
+## POINTER 339
+Change the button configuration for battles.
+
+## POINTER 340
+Select sound output.
+
+## POINTER 341
+Adjust BGM volume.
+
+## POINTER 342
+Adjust SE volume.
+
+## POINTER 343
+Adjust battle SE volume.
+
+## POINTER 344
+Turn on to view the entire enemy group before engaging in battle.
+
+## POINTER 345
+Turn on to view battle from dynamic camera angles.
+
+## POINTER 346
+Turn on to display the battle field boundary line.
+
+## POINTER 347
+Adjust battle voice volume.
+
+## POINTER 348
+Adjust event voice volume.
+
+## POINTER 349
+Turn ON or OFF the names of shops, inns, etc, when nearby.
+
+## POINTER 350
+Select to display skit titles.
+
+## POINTER 351
+Turn subtitles ON or OFF during skits.
+
+## POINTER 352
+Turn subtitles ON or OFF during movies.
+
+## POINTER 353
+Adjust the brightness of the screen.
+
+## POINTER 354
+Select from 3 possible font types for which
+in-game messages will be displayed.
+
+## POINTER 355
+Download various data from Xbox LIVE Marketplace.
+
+## POINTER 356
+Adjust skit voice volume.
+
+## POINTER 357
+Adjust movie voice volume.
+
+## POINTER 358
+Normal Attack
+
+## POINTER 359
+Artes
+
+## POINTER 360
+Guard
+
+## POINTER 361
+Menu
+
+## POINTER 362
+Select Target
+
+## POINTER 363
+Decline item use
+
+## POINTER 364
+Fatal Strike
+
+## POINTER 365
+Free run
+
+## POINTER 366
+Reserve
+
+## POINTER 367
+Reserve
+
+## POINTER 368
+1P
+
+## POINTER 369
+2P
+
+## POINTER 370
+3P
+
+## POINTER 371
+4P
+
+## POINTER 372
+Default
+
+## POINTER 373
+OK
+
+## POINTER 374
+<06>(RBD)Next Page <06>(RBR) Return
+
+## POINTER 375
+<06>(RBR) Return
+
+## POINTER 376
+<06>(RBD)Confirm　<06>(RBR)Return <06>(RBL)Switch display　<06>(L2)<06>(R2)Category <06>(L1)<06>(R1)Rotate model
+
+## POINTER 377
+<06>(RBD)Leaderboard <06>(RBR)Return
+
+## POINTER 378
+<06>(RBD)Confirm  <06>(RBR) Return
+
+## POINTER 379
+<06>(RBR) Return
+
+## POINTER 380
+<06>(RBD) Confirm
+
+## POINTER 381
+<06>(RBD)<06>(RBR)<06>(RBL)<06>(RBU)<06>(L2)<06>(R2)<06>(L1)<06>(R1) Button Config
+
+## POINTER 382
+None
+
+## POINTER 383
+Fleck
+
+## POINTER 384
+Rockra
+
+## POINTER 385
+Strihm
+
+## POINTER 386
+Laytos
+
+## POINTER 387
+Goldos
+
+## POINTER 388
+Sandor
+
+## POINTER 389
+Ailus
+
+## POINTER 390
+Twory
+
+## POINTER 391
+Nhosing
+
+## POINTER 392
+Kaon
+
+## POINTER 393
+Chrocs
+
+## POINTER 394
+No symbol is available.
+
+## POINTER 395
+Increase Physical Attack during Over Limit.
+
+## POINTER 396
+Increase Physical Defense during Over Limit.
+
+## POINTER 397
+Increase Mobility during Over Limit.
+
+## POINTER 398
+Recover HP during Over Limit.
+
+## POINTER 399
+Increase total Gald acquired after battle
+by winning the battle during Over Limit.
+
+## POINTER 400
+Increase Magic Attack during Over Limit.
+
+## POINTER 401
+Increase Magic Defense during Over Limit.
+
+## POINTER 402
+Increase total EXP points acquired after battle
+by winning the battle during Over Limit.
+
+## POINTER 403
+This symbol does not have any special effect.

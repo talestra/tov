@@ -1,0 +1,21 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1281390025]
+<STR>(KAR)
+¿Eh? ¿Esto antes
+no estaba cerrado?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1276031653]
+<STR>(YUR)
+Parece que podemos volver saliendo por aquí.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1281390025]
+<STR>(RAV)
+Mmm... La maldición s'a roto, ¿eh?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1281390025]
+<STR>(RIT)
+¡No digas memeces! 
+¡Y ahora larguémonos!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1276031653]
+<STR>(RAV)
+Sí, señora.

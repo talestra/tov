@@ -1,0 +1,75 @@
+## POINTER 0
+<STR>(RIT)
+We brought the ○○○○!
+
+## POINTER 1
+Kaufman
+Heh... That was 
+rather quick.
+
+## POINTER 2
+<STR>(RIT)
+Yep, here you go! Now, show us the synthesis 
+workshop, like you promised!
+
+## POINTER 3
+Kaufman
+...I'd be glad to take you...but 
+only you, <STR>(RIT).<PAGE>The others will have to 
+wait outside. I'm sorry.
+
+## POINTER 4
+<STR>(KAR)
+Really? But we wanted 
+to see it too!
+
+## POINTER 5
+Kaufman
+Sorry. These are pretty high-level corporate 
+secrets we're talking about.<PAGE>Please don't think too harshly of me for saying 
+so, but we can't just show it to anyone.
+
+## POINTER 6
+<STR>(RIT)
+You heard her, 
+guys! Sorry!
+
+## POINTER 7
+<STR>(RIT)
+I'm baaack!<PAGE>Ahhh, the sweet pleasure of a 
+quenched thirst for knowledge!
+
+## POINTER 8
+<STR>(KAR)
+Man... I wanted 
+to see, too!
+
+## POINTER 9
+<STR>(RIT)
+Ah, you might be 
+interested...<PAGE>It seems they should be able to synthesize 
+a lot more types of items soon!
+
+## POINTER 10
+<STR>(YUR)
+Because of the ○○○○ 
+we gave them?
+
+## POINTER 11
+Kaufman
+Oops! That's covered 
+by the NDA as well.
+
+## POINTER 12
+<STR>(RIT)
+Ah, sorry, sorry.
+
+## POINTER 13
+Kaufman
+Our production process still has room for
+improvement, so we might ask for your assistance again in the future.<PAGE>Just to give you the heads up.
+
+## POINTER 14
+<STR>(RIT)
+Sure, of course! I'd love to get another 
+look at the synthesis workshop, too...

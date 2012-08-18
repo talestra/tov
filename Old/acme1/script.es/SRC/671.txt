@@ -1,0 +1,55 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1277126695]
+<STR>(RAV)
+¿Su lo habéis pasao bien?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239337]
+<STR>(KAR)
+¿Estabas esperando
+fuera, <STR>(RAV)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239337]
+<STR>(RAV)
+Seh, no quería molestar a esos 
+dos mientras se ponían al día. 
+No 'taría bien, ya sabéis.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1272476062]
+<STR>(RIT)
+Es muy considerado por
+tu parte, viejales.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239337]
+<STR>(EST_P)
+Es la primera vez que te oigo
+hablar tan alegremente de tus tiempos
+en los Caballeros Imperiales, <STR>(YUR).
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1272476062]
+<STR>(YUR)
+¿Ah, sí?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239337]
+<STR>(EST_P)
+Sí. Creía que no había
+sido una buena experiencia
+para ti.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239337]
+<STR>(YUR)
+Alistarme en los Caballeros 
+fue decisión propia.
+<PAGE>No todo son malos recuerdos. 
+Me gustaba entrenar, y me lo pasé 
+genial junto a los otros aprendices.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239337]
+<STR>(RIT)
+Por lo que nos ha contado
+ese Caballero, eras un chico
+de lo más rebelde.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239337]
+<STR>(YUR)
+La persona menos indicada para
+regañarme por mis travesuras
+de juventud eres tú, <STR>(RIT).

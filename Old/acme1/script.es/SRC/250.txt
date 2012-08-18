@@ -1,0 +1,52 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274632315]
+<STR>(YUR)
+<STR>(RAP).
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274632315]
+<STR>(YUR)
+Tú también estás de guardia, ¿eh?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275347313]
+<STR>(YUR)
+Hemos formado un gremio...<PAGE>Somos un grupo de lo más variopinto,
+pero seguro que sale algo interesante.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274632315]
+<STR>(RAP)
+Guau.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275347313]
+<STR>(YUR)
+Ja, ja. Tú eres nuestro
+segundo al mando.<PAGE>Procura no darle mucho la tabarra al jefe.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274632315]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274632315]
+<STR>(YUR)
+Tú también deberías descansar un poco.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298320236]
+<STR>(YUR)
+¿Qué pasa? ¿Me estás diciendo
+que te deje a ti la guardia?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274632315]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274632315]
+¿Quieres descansar?
+Descansar
+Permanecer despierto
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274632315]
+<STR>(YUR)
+De acuerdo, voy a domir un poco,
+entonces. Gracias, <STR>(RAP).
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274632315]
+<STR>(YUR)
+Nah, estoy bien. No te preocupes por mí.

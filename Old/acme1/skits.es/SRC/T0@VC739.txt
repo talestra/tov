@@ -1,0 +1,43 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251596157]
+La edad de (RIT)
+
+## POINTER 1 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669484]
+(EST_P)
+¿Llevas mucho tiempo
+investigando en Aspio, (RIT)?
+
+## POINTER 2 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669484]
+(RIT)
+Sí, unos cinco años más o menos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287694604]
+(EST_P)
+Vaya, cinco...
+¿Y cuántos años tienes, (RIT)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287694604]
+(RIT)
+Quince...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287694604]
+(EST_P)
+¡V-Vaya! ¡E-Eres muy madura!
+No puedo creer que investigaras
+los blastias a los diez años...
+
+## POINTER 6 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669484]
+(RIT)
+No es para tanto.
+¿Cuántos tienes tú, (EST)?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1287694604]
+(EST_P)
+Oh, mmm... Este año he cumplido los dieciocho.
+
+## POINTER 8 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1264125197]
+(RIT)
+Pues te toca madurar.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1287694604]
+(EST_P)
+C-Claro... Haré lo que pueda.

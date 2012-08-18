@@ -1,0 +1,48 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253824898]
+Mucho por hacer
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220957]
+(EST_P)
+Mmm, mmm, ajá, mmm...
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220957]
+(YUR)
+¿Eh? ¿Qué escribes? ¿Nombres de objetos?
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220957]
+(EST_P)
+Sí. Estoy trabajando en el
+Libro del coleccionista. 
+¡Mira cuántos objetos tengo ya!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130210]
+(YUR)
+¡Vaya, has puesto un montón!
+Con lo que te gusta leer, debes
+divertirte lo tuyo. Bueno, sigue así.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266835448]
+(RIT)
+No. Por lo que veo... 
+Sí, parece ser que
+solo tienes la mitad.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130210]
+(EST_P)
+¡¿Qué?! ¡¿L-La mitad?!
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220957]
+(RIT)
+¡Sigue dándole al callo y vuelve
+cuando hayas progresado de verdad!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130210]
+(EST_P)
+A-Agh... ¡Pienso completar este
+libro y, cuando lo haga,
+haré que te comas tus palabras!
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220957]
+(YUR)
+¿Este libro no era
+antes tuyo, (RIT)?

@@ -1,0 +1,317 @@
+## POINTER 144 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261416043]
+Espada compacta
+
+## POINTER 145 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada pequeña pero equilibrada.
+Útil para principiantes.
+
+## POINTER 147 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261416043]
+Espada compacta +1
+
+## POINTER 148 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada pequeña pero equilibrada.
+Útil para principiantes.
+
+## POINTER 150 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261355421]
+Espada Karolian
+
+## POINTER 151 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada diseñada para aplastar con su peso y su hoja.
+Solo es una imitación hecha a mano.
+
+## POINTER 153 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261355421]
+Espada Karolian +1
+
+## POINTER 154 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada diseñada para aplastar con su peso y su hoja.
+Solo es una imitación hecha a mano.
+
+## POINTER 156 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261348632]
+Cimitarra
+
+## POINTER 157 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada de mala calidad con una hoja curva.
+La empuñadura está diseñada a imagen de una lámpara.
+
+## POINTER 159 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261348632]
+Sable
+
+## POINTER 160 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada diseñada especialmente para blandirse a caballo.
+Se produce en masa y se encuentra en casi cualquier tienda.
+
+## POINTER 162 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261348632]
+Espada larga
+
+## POINTER 163 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586307]
+Espada común pero difícil de usar. 
+Antiguo equipo oficial de los Caballeros.
+
+## POINTER 165 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271583584]
+Espada de Caballero
+
+## POINTER 166 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586336]
+Equipo oficial de los Caballeros.
+Se produce en masa, pero es duradera y goza de un buen diseño.
+
+## POINTER 168 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261348632]
+Estilete
+
+## POINTER 169 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada de ataque perforante.
+La empuñadura está diseñada para facilitar su sujeción.
+
+## POINTER 171 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261348632]
+Estoque
+
+## POINTER 172 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada larga y estrecha que requiere de cierta experiencia.
+Alabada por los duelistas por ser un «arma de caballeros».
+
+## POINTER 174 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261357624]
+Tsurugi
+
+## POINTER 175 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263408750]
+Copia de una antigua espada de doble filo.
+No subestimes el daño que puede causar.
+
+## POINTER 177 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261357624]
+Tsurugi +1
+
+## POINTER 178 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Copia de una antigua espada de doble filo.
+No subestimes el daño que puede causar.
+
+## POINTER 180 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261357624]
+Gladius
+
+## POINTER 181 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada corta utilizada desde hace tiempos inmemoriales.
+Requiere de un poco de fuerza para blandirla.
+
+## POINTER 183 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261357624]
+Gladius +1
+
+## POINTER 184 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada corta utilizada desde hace tiempos inmemoriales.
+Requiere de un poco de fuerza para blandirla.
+
+## POINTER 186 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261349526]
+Florete
+
+## POINTER 187 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Estoque estándar de ataque perforante.
+Es más útil de lo que parece.
+
+## POINTER 189 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261349526]
+Florete +1
+
+## POINTER 190 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Estoque estándar de ataque perforante.
+Es más útil de lo que parece.
+
+## POINTER 192 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261400990]
+Dragón Celeste
+
+## POINTER 193 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada curva cuyo diseño ha ido pasando de boca en boca.
+Existen varias versiones, pero aún se desconoce la forma original.
+
+## POINTER 195 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261400990]
+Dragón Celeste +1
+
+## POINTER 196 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada curva cuyo diseño ha ido pasando de boca en boca.
+Existen varias versiones, pero aún se desconoce la forma original.
+
+## POINTER 198 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261416043]
+Espada de batalla
+
+## POINTER 199 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1261769059]
+Espada militar útil y versátil.
+Su hoja ancha añade peso y durabilidad.
+
+## POINTER 201 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261416043]
+Espada de batalla +1
+
+## POINTER 202 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261767889]
+Espada militar útil y versátil.
+Su hoja ancha añade peso y durabilidad.
+
+## POINTER 204 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261416043]
+Espada ropera
+
+## POINTER 205 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada diseñada para perforar armaduras, no sus articulaciones.
+Es conocida también como «Oxigena-armaduras».
+
+## POINTER 207 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261416043]
+Espada ropera +1
+
+## POINTER 208 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada diseñada para perforar armaduras, no sus articulaciones.
+Es conocida también como «Oxigena-armaduras».
+
+## POINTER 210 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261431515]
+Ataúd de hielo
+
+## POINTER 211 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada de diseño simple recubierta permanentemente de hielo y escarcha.
+Se desconoce cuál es la fuente de su poder mágico.
+
+## POINTER 213 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261431515]
+Ataúd de hielo +1α
+
+## POINTER 214 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada de diseño simple recubierta permanentemente de hielo y escarcha.
+Se desconoce cuál es la fuente de su poder mágico.
+
+## POINTER 216 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261431515]
+Ataúd de hielo +1β
+
+## POINTER 217 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada de diseño simple recubierta permanentemente de hielo y escarcha.
+Se desconoce cuál es la fuente de su poder mágico.
+
+## POINTER 219 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261406660]
+Aguijón
+
+## POINTER 220 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada de hoja estrecha.
+Aunque parece oxidada, brilla con un tono azulado.
+
+## POINTER 222 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261406660]
+Aguijón +1
+
+## POINTER 223 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada de hoja estrecha.
+Aunque parece oxidada, brilla con un tono azulado.
+
+## POINTER 225 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261406660]
+Centinela
+
+## POINTER 226 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada forjada con tecnología ancestral.
+Puedes sentir la agresividad de las bestias de su diseño.
+
+## POINTER 228 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261406680]
+Centinela +1
+
+## POINTER 229 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada forjada con tecnología ancestral.
+Puedes sentir la agresividad de las bestias de su diseño.
+
+## POINTER 231 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261349372]
+Espada bastarda
+
+## POINTER 232 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada larga capaz de perforar y cortar.
+Está mejor equilibrada de lo que aparenta.
+
+## POINTER 234 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261349372]
+Espada bastarda +1α
+
+## POINTER 235 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada larga capaz de perforar y cortar.
+Está mejor equilibrada de lo que aparenta.
+
+## POINTER 237 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261349372]
+Espada bastarda +1β
+
+## POINTER 238 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada larga capaz de perforar y cortar.
+Está mejor equilibrada de lo que aparenta.
+
+## POINTER 240 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261486096]
+Espada de ogro
+
+## POINTER 241 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada demoníaca conocida como «Asesina maestra».
+Aparece durante la guerra y siembra el caos a su paso.
+
+## POINTER 243 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261486096]
+Espada de ogro +1
+
+## POINTER 244 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada demoníaca conocida como «Asesina maestra».
+Aparece durante la guerra y siembra el caos a su paso.
+
+## POINTER 246 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261431515]
+Espada de mítril
+
+## POINTER 247 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada antigua forjada a partir de metal olvidado.
+La hoja está tan pulida que puedes reflejarte en ella.
+
+## POINTER 249 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261407028]
+Espada de Damasco
+
+## POINTER 250 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Forjada a partir de robusto acero damasquino,
+esta espada posee un estampado único.
+
+## POINTER 252 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261407118]
+Gran Tsurugi
+
+## POINTER 253 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Espada antigua hallada en magnífico estado de conservación.
+También se la conoce como «Matadragones».
+
+## POINTER 255 [t:1;r:2;ru:memnoch,parsec;user:mocolostrocolos;time:1261407118]
+Sable Sinclair
+
+## POINTER 256 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Bellísima espada forjada con sumo cuidado.
+Una obra maestra de orfebrería.
+
+## POINTER 258 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261349372]
+Hoja rúnica
+
+## POINTER 259 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261767889]
+Espada antigua forjada con una tierra especial.
+Es imposible hacer otra con la tecnología actual.
+
+## POINTER 261 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261349372]
+Hoja rúnica +1
+
+## POINTER 262 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261767889]
+Espada antigua forjada con una tierra especial.
+Es imposible hacer otra con la tecnología actual.
+
+## POINTER 264 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261349372]
+Basilard
+
+## POINTER 265 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Una sencilla espada corta, pero de buena calidad.
+Es de fácil manejo y muy conocida entre los espadachines.
+
+## POINTER 267 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261349372]
+Basilard +1
+
+## POINTER 268 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263413637]
+Una sencilla espada corta, pero de buena calidad.
+Es de fácil manejo y muy conocida entre los espadachines.
+
+## POINTER 270 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261349372]
+Zephyrus
+
+## POINTER 271 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada sellada con el poder del viento.
+No se puede liberar su poder sin el cinturón.
+
+## POINTER 273 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261358129]
+Zephyrus +1α
+
+## POINTER 274 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada sellada con el poder del viento.
+No se puede liberar su poder sin el cinturón.
+
+## POINTER 276 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261358129]
+Zephyrus +1β
+
+## POINTER 277 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263410421]
+Espada sellada con el poder del viento.
+No se puede liberar su poder sin el cinturón.
+
+## POINTER 279 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261416043]
+Aries

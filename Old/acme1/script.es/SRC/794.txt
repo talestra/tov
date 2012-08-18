@@ -1,0 +1,24 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298847111]
+<STR>(EST_P)
+Vale, ¡nosotras
+vamos primero!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290427369]
+<STR>(RAV)
+Fale, fale. Yo m'echaré una siesta
+mientras sus espero.<PAGE>Despertadme cuando los baños estén libres, anda.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290427369]
+<STR>(RIT)
+Si se duerme podremos estar tranquilas.
+Muy bien, vamos.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290427369]
+<STR>(KAR)
+Tío, que se den prisa...
+<STR>(YUR) también se ha dormido.
+Jopetas, qué aburrimiento.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290427369]
+<STR>(KAR)
+Ugh...

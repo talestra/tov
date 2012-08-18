@@ -1,0 +1,40 @@
+## POINTER 0
+<STR>(KAR)
+What is this a statue of?
+
+## POINTER 1
+<STR>(YUR)
+This is a temple, after all. This is probably a statue 
+of whatever deity the temple was dedicated to.
+
+## POINTER 2
+<STR>(RIT)
+You know, it might just be a statue of 
+the Entelexeia we just saw outside.
+
+## POINTER 3
+<STR>(KAR)
+Huh? It couldn't be...I mean, a 
+monster....that is, it's a...but 
+they don't even look alike...
+
+## POINTER 4
+<STR>(YUR)
+No, I think it's 
+possible.<PAGE>The Entelexeia have powers beyond those of 
+humans, and can speak in our language.<PAGE>It's not strange to think that humans would've 
+worshipped them in ancient times.
+
+## POINTER 5
+<STR>(JUD)
+The relationship between the 
+Entelexeia and humans might 
+be closer than we thought.<PAGE>Maybe they drifted apart during the long, 
+long passage of time, eventually leading to 
+the situation we find ourselves in now.
+
+## POINTER 6
+<STR>(KAR)
+I-I think that I prefer the distance 
+we have now to the cozy relationship 
+we had back then, heh...heh...

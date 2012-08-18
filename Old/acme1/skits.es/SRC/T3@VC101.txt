@@ -1,0 +1,59 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266575776]
+¡¡Me gusta!!
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297884]
+(KAR)
+Qué calor hace...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297099034]
+(RAV)
+Eso es porque (RIT) no para
+d'usar su magia de fuego.
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266575776]
+(RIT)
+¡Mi magia no tiene nada que ver!
+¡¡El desierto es así de caluroso!!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297381581]
+(RAV)
+¡Agh!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297099034]
+(KAR)
+Lo que tú digas. Es solo que... hace calor...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297099034]
+(RIT)
+¿Y qué? ¿Me estás diciendo que pare?
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297884]
+(YUR)
+Creo que queremos decir que estaría
+muy bien si lo hicieras...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297381581]
+(RIT)
+No pienso hacerlo...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297099034]
+(KAR)
+¿Eh?
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297884]
+(RIT)
+¡No pienso parar! ¡¡Me gusta!!
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297884]
+(YUR)
+¿No tienes calor tú también? Vamos...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1297099034]
+(RIT)
+¡¡Tengo calor!! ¡¡Pero usar la magia
+hace que me sienta tan bien que me
+olvido del calor!! ¡¿Vale?!
+
+## POINTER 13 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267297884]
+(KAR)
+¡¡Aah!! ¡¡Se le ha ido la olla!!

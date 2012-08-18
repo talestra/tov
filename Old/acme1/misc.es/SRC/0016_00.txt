@@ -1,0 +1,312 @@
+## POINTER 3 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1261853483]
+Bocadillo
+
+## POINTER 4 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1261854477]
+Ensalada de huevo entre dos rebanadas de pan.
+Recupera una pequeña cantidad de HP.
+
+## POINTER 5 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Recupera un 10% de HP
+
+## POINTER 6 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Bola de arroz
+
+## POINTER 7 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262107804]
+Bola hecha de arroz con un relleno de salmón.
+Recupera HP y TP.
+
+## POINTER 8 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Recupera un 15% de HP y TP
+
+## POINTER 9 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Gyudon
+
+## POINTER 10 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Bol de arroz con ternera y tofu encima.
+Para chuparse los dedos. Recupera algo de HP.
+
+## POINTER 11 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Recupera un 20% de HP
+
+## POINTER 12 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Tortilla de arroz
+
+## POINTER 13 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262107804]
+¡La armonía entre el huevo, el ketchup y el arroz
+está de muerte! Recupera ligeramente el HP y TP.
+
+## POINTER 14 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Recupera un 10% de HP y TP
+
+## POINTER 15 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Curry
+
+## POINTER 16 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Un éxito atemporal consistente en una mezcla
+de especias. Recupera una cantidad moderada de HP.
+
+## POINTER 17 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Recupera un 30% de HP
+
+## POINTER 18 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Carne con salsa
+
+## POINTER 19 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+¡Ten cuidado si llevas ropa blanca!
+Recupera una cantidad moderada de HP y TP.
+
+## POINTER 20 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Recupera un 15% de HP y TP
+
+## POINTER 21 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Estofado de crema
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196397]
+La celestial salsa cremosa va perfecta con patatas.
+Recupera una cantidad considerable de HP.
+
+## POINTER 23 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Recupera un 40% de HP
+
+## POINTER 24 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Brochetas
+
+## POINTER 25 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263809153]
+Variedad de carne y verduras a la parrilla.
+Recupera una cantidad considerable de HP y TP.
+
+## POINTER 26 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Recupera un 20% de HP y TP
+
+## POINTER 27 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262107880]
+Estofado de fideos udon
+
+## POINTER 28 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263809153]
+¡Estos fideos están que arden! ¡Cuidado con la lengua
+porque queman! Recupera una gran cantidad de HP.
+
+## POINTER 29 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Recupera un 50% de HP
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196397]
+Curry mabo
+
+## POINTER 31 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Se dice que este plato es para auténticos héroes.
+Recupera una gran cantidad de HP y TP.
+
+## POINTER 32 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Recupera un 25% de HP y TP
+
+## POINTER 33 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Filete ruso
+
+## POINTER 34 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Jugosa carne aplanada con una sabrosa salsa
+por encima. Incrementa ligeramente el ataque.
+
+## POINTER 35 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa el ataque físico un 3%
+
+## POINTER 36 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Estofado de cerdo
+
+## POINTER 37 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Este tierno lomo de cerdo se deshace
+en la boca. Incrementa el ataque.
+
+## POINTER 38 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa el ataque físico un 5%
+
+## POINTER 39 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Kebab
+
+## POINTER 40 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Pan de pita relleno con carne y verduras.
+Incrementa moderadamente el ataque.
+
+## POINTER 41 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa el ataque físico un 7%
+
+## POINTER 42 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Filete
+
+## POINTER 43 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+¡Un perfecto solomillo a la parrilla!
+Incrementa considerablemente el ataque.
+
+## POINTER 44 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa el ataque físico un 10%
+
+## POINTER 45 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Sukiyaki
+
+## POINTER 46 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Rodajas delgadas de ternera y verduras con salsa
+de soja dulce. Incrementa enormemente el ataque.
+
+## POINTER 47 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa el ataque físico un 15%
+
+## POINTER 48 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Pescado con salsa de miso
+
+## POINTER 49 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+La salsa de miso va genial con el pescado ahumado.
+Incrementa ligeramente la defensa física.
+
+## POINTER 50 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa la defensa física un 5%
+
+## POINTER 51 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Sashimi
+
+## POINTER 52 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Manjar consistente en pescado crudo muy fresco
+en trozos finos. Incrementa la defensa física.
+
+## POINTER 53 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876900]
+Incrementa la defensa física un 10%
+
+## POINTER 54 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Bol de marisco
+
+## POINTER 55 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1266169485]
+Bol de arroz con marisco fresco por encima. ¡Rico,
+rico! Incrementa moderadamente la defensa física.
+
+## POINTER 56 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa la defensa física un 15%
+
+## POINTER 57 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Estofado de marisco
+
+## POINTER 58 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262107804]
+Lo comían los pescadores en alta mar. Lleno de nutrientes
+del mar. Incrementa considerablemente la defensa física.
+
+## POINTER 59 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa la defensa física un 20%
+
+## POINTER 60 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876900]
+Sushi
+
+## POINTER 61 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Manjar consistente en arroz avinagrado y pescado fresco.
+Incrementa enormemente la defensa física.
+
+## POINTER 62 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa la defensa física un 25%
+
+## POINTER 63 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Pollo frito con patatas
+
+## POINTER 64 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Pollo frito con guarnición de patatas fritas.
+Perfecto para fiestas. Incrementa ligeramente la magia.
+
+## POINTER 65 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa el ataque mágico un 10%
+
+## POINTER 66 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Huevo a la escocesa
+
+## POINTER 67 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262107804]
+Huevo duro envuelto con carne y freído
+con pan rallado. Incrementa la magia.
+
+## POINTER 68 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa el ataque mágico un 20%
+
+## POINTER 69 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Croquetas
+
+## POINTER 70 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Bocaditos fritos de patata con una ligera
+y crujiente textura. Incrementa moderadamente la magia.
+
+## POINTER 71 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa el ataque mágico un 30%
+
+## POINTER 72 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Okonomiyaki
+
+## POINTER 73 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Plato abundante de varios ingredientes fritos
+en una sartén. Incrementa considerablemente la magia.
+
+## POINTER 74 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa el ataque mágico un 40%
+
+## POINTER 75 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Tempura
+
+## POINTER 76 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Plato de marisco o verduras, fritos y ligeramente
+rebozados. Incrementa enormemente la magia.
+
+## POINTER 77 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa el ataque mágico un 50%
+
+## POINTER 78 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Sopa minestrone
+
+## POINTER 79 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Sopa hecha con tomates madurados al sol. ¡Muy nutritiva!
+Incrementa ligeramente la defensa mágica.
+
+## POINTER 80 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa la defensa mágica un 20%
+
+## POINTER 81 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Sopa de miso
+
+## POINTER 82 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Sopa tradicional hecha con caldo de miso.
+Incrementa la defensa mágica.
+
+## POINTER 83 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa la defensa mágica un 40%
+
+## POINTER 84 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Crema de almejas
+
+## POINTER 85 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263809153]
+¡Un caldo lleno con las delicias del mar!
+Incrementa moderadamente la defensa mágica.
+
+## POINTER 86 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa la defensa mágica un 60%
+
+## POINTER 87 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Vichyssoise
+
+## POINTER 88 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262107804]
+Sopa de patata que normalmente se sirve fría.
+Incrementa considerablemente la defensa mágica.
+
+## POINTER 89 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa la defensa mágica un 80%
+
+## POINTER 90 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Sopa de miso y cerdo
+
+## POINTER 91 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1266169485]
+Sopa con trozos de verdura y cerdo en un caldo de
+miso. Incrementa enormemente la defensa mágica.
+
+## POINTER 92 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa la defensa mágica un 100%
+
+## POINTER 93 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Ensalada
+
+## POINTER 94 [t:1;r:1;ru:memnoch;user:memnoch;time:1297196397]
+¡Las verduras son buenas para ti!
+Pruébala sin aliñar. Incrementa la agilidad.
+
+## POINTER 95 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Incrementa la agilidad durante 10 segundos
+
+## POINTER 96 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1261876826]
+Estofado japonés

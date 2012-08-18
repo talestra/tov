@@ -1,0 +1,145 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(KAR)
+<VOICE>(VS30_021)Ugh, se me ha acabado el agua...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(YUR)
+<VOICE>(VS30_022)No te la bebas toda.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(KAR)
+<VOICE>(VS30_023)Gracias, <STR>(YUR).
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(RIT)
+<VOICE>(VS30_024)Oíd... ¿Creéis... que
+podríamos descansar unos cinco...?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408203]
+<STR>(RAV)
+<VOICE>(VS30_025)Y luego dices que soy yo quien
+quiere quedarse dormío tól rato.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408363]
+<STR>(KAR)
+<VOICE>(VS30_026)¡Síííííííí!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(RAV)
+<VOICE>(VS30_027)¿Eh? ¡Er calor le ha debío que
+terminar de sofreír el cerebro!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(RIT)
+<VOICE>(VS30_028)¡Agua!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(EST_P)
+<VOICE>(VS30_029)Oh, <STR>(KAR), con cuidado. 
+¡Te vas a hacer
+daño si te caes!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(YUR)
+<VOICE>(VS30_030)Je... Yo diría que le quedan
+fuerzas de sobras.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(RAV)
+<VOICE>(VS30_031)¡Esperad ar viejo <STR>(RAV)!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(YUR)
+<VOICE>(VS30_032)Y yo que creía que
+ya estaban para
+el arrastre.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(RIT)
+<VOICE>(VS30_033)Esto es como un paraíso.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(KAR)
+<VOICE>(VS30_034)Creía que ya no
+lo contábamos.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408363]
+<STR>(RAV)
+<VOICE>(VS30_035)Oh, vamos. Si quieres salvar
+er mundo tienes que volverte
+más duro.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(RIT)
+<VOICE>(VS30_036)Cierra el pico.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408363]
+<STR>(KAR)
+<VOICE>(VS30_037)Es demasiado peligroso
+continuar así.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(JUD)
+<VOICE>(VS30_038)Pero si volvemos ahora
+decepcionaremos a esos
+pobres niños.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(RIT)
+<VOICE>(VS30_039)Tenemos que seguir buscando
+mientras podamos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408363]
+<STR>(EST_P)
+<VOICE>(VS30_040)Si tenemos suerte puede que
+mientras tanto encontremos
+también a Phaeroh.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408363]
+<STR>(YUR)
+<VOICE>(VS30_041)Pues sí. Y con este manantial
+ya no deberíamos tener problemas
+para continuar buscando.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(RAV)
+<VOICE>(VS30_042)Ya que hemos comío la comida envenená,
+como si lamemos er plato.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(KAR)
+<VOICE>(VS30_043)Sí, tienes razón. Ya no hay marcha atrás.
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(YUR)
+<VOICE>(VS30_044)¿Cómo vas con tu cantimplora,
+<STR>(KAR)? ¿Ya la has rellenado?
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(JUD)
+<VOICE>(VS30_045)Tomad, las he rellenado por vosotros.
+Aquí está la tuya, <STR>(RIT).
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(KAR)
+<VOICE>(VS30_046)¡Gracias, <STR>(JUD)!
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(RIT)
+<VOICE>(VS30_047)Gr-gracias...
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(YUR)
+<VOICE>(VS30_048)¿Todo el mundo listo?
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(EST_P)
+<VOICE>(VS30_049)Sí.
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(RAP)
+<VOICE>(VS30_050)¡Guau!
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705179]
+<STR>(YUR)
+<VOICE>(VS30_051)Vale, sigamos adelante.

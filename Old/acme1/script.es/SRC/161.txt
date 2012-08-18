@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272369980]
+<STR>(KAR)
+Bueno, ¿cuál es el plan?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272798270]
+<STR>(EST_P)
+Voy a ir a ver
+al magistrado Ragou.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1275230332]
+<STR>(KAR)
+¿Qué? Nos mandarán a tomar viento fresco
+en la puerta si intentamos entrar.<PAGE>Ni siquiera una noble como tú
+tiene posibilidades de entrar.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237091]
+<STR>(YUR)
+Ya, pero con el puerto
+cerrado, no podremos
+llegar hasta Puerto Torim.<PAGE>Y tanto ese ladrón, Dedecchi,
+como aquel gigantón tuerto
+ya están al otro lado del mar.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272369980]
+<STR>(RIT)
+Pues dejémonos de cháchara
+y vayamos tirando, ¿de acuerdo?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272369980]
+<STR>(YUR)
+Si no quiere escucharnos,
+ya pensaremos en algo.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272369980]
+<STR>(EST_P)
+De acuerdo. ¡Al palacio
+de Ragou, entonces!

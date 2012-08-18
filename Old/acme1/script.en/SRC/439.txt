@@ -1,0 +1,49 @@
+## POINTER 0
+<STR>(YUR)
+I can't believe this is Dein Nomos...the 
+proof of imperial succession.
+
+## POINTER 1
+<STR>(KAR)
+<STR>(YUR), you can become the emperor!
+
+## POINTER 2
+<STR>(YUR)
+This is just for decoration. 
+I wouldn't wanna be the emperor 
+even if I could.
+
+## POINTER 3
+<STR>(JUD)
+Duke went around using 
+that sword to control 
+aer krene...
+
+## POINTER 4
+<STR>(KAR)
+Oh! So Duke's doing 
+the same thing as 
+the Entelexeia?
+
+## POINTER 5
+<STR>(JUD)
+Maybe so.
+
+## POINTER 6
+<STR>(RIT)
+That sword...it produced the same 
+phenomenon as <STR>(EST_P) did.<PAGE>Maybe the Rizomata Formula was already 
+worked out once before? But then, why 
+was that information lost?<PAGE>Maybe it's related to the cataclysm, like 
+the way that the blastia was lost?<PAGE>Why did that become an Imperial treasure?
+
+## POINTER 7
+<STR>(YUR)
+There are tons of things we don't know about 
+this sword, but let's wait to figure them 
+out until we've settled things here.<PAGE>Right now, rescuing <STR>(EST_P) 
+is our top priority.
+
+## POINTER 8
+<STR>(RIT)
+Right. Let's hurry!

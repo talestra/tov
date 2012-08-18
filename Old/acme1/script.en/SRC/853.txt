@@ -1,0 +1,45 @@
+## POINTER 0
+<STR>(KAR)
+Huh...? Don't I 
+know this place?
+
+## POINTER 1
+<STR>(EST_P)
+This is Zaphias... 
+Why...?
+
+## POINTER 2
+<STR>(YUR)
+Ha ha...
+I don't know how they're doing this, 
+but I get the idea.
+
+## POINTER 3
+<STR>(KAR)
+What idea...?
+
+## POINTER 4
+<STR>(YUR)
+This is some sort of illusion, yeah? Let's 
+have as much fun here as possible.
+
+## POINTER 5
+<STR>(KAR)
+Can we have fun in a place like this...?
+
+## POINTER 6
+
+The monsters that will attack you
+here cannot be easily conquered! 
+Take care in battle.
+
+## POINTER 7
+<STR>(JUD)
+Oh, that's very useful 
+to know! Thank you.
+You're very thoughtful!
+
+## POINTER 8
+<STR>(YUR)
+We don't need you to tell 
+us to be careful. Let's go.

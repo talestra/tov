@@ -1,0 +1,32 @@
+## POINTER 0
+
+Thanks for your hard work! 
+This is for you.
+
+## POINTER 1
+<STR>(YUR)
+...Huh? What's this?
+
+## POINTER 2
+
+I'm delivering it to you on 
+Commandant <STR>(FRE)'s orders!
+
+## POINTER 3
+<STR>(YUR)
+This is from <STR>(FRE)...? Huh? 
+But what could it be?
+
+## POINTER 4
+<STR>(EST_P)
+What is it, <STR>(YUR)?
+
+## POINTER 5
+<STR>(KAR)
+<STR>(YUR)! What are 
+you doing? Come 
+on, hurry!
+
+## POINTER 6
+<STR>(YUR)
+Yeah, okay...

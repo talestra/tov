@@ -1,0 +1,69 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651385]
+<STR>(EST_P)
+¿<STR>(YUR)? ¿Qué ocurre?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407901]
+<STR>(YUR)
+Me preguntaba qué está
+planeando este magistrado.<PAGE>Es muy extraño que esté buscando a Phaeroh.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407901]
+<STR>(YUR)
+Aunque supongo que tendría sentido que
+el Imperio quisiera eliminar a un monstruo
+que intentó matar a la Princesa.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651385]
+<STR>(RIT)
+Pero aún no saben
+que va a por <STR>(EST_P),
+¿no?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407901]
+<STR>(RAV)
+Entonces, ¿por qué van tras él?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651385]
+<STR>(RIT)
+¿Cómo lo voy a saber?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651385]
+<STR>(JUD)
+Y aún no sabemos por qué hay
+un toque de queda en la ciudad.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407901]
+<STR>(KAR)
+Aun así, ahora deberíamos
+ir a las Arenas de Kogorh.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651484]
+<STR>(YUR)
+Exacto. Ya resolveremos
+los misterios de esta ciudad
+cuando volvamos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407901]
+<STR>(RAV)
+Si no rescatamos a los padres
+d'esos niños, ¡pronto les dará
+un patatús con este caló!
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651385]
+<STR>(EST_P)
+Es cierto.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651385]
+<STR>(RAV)
+Así que pa llegar al centro del desierto,
+debemos pasar por aquí, ¿verdá?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407901]
+<STR>(JUD)
+Sí. Me parece que los padres
+de esos niños también
+han ido por aquí.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651385]
+<STR>(YUR)
+Vale, sigamos.

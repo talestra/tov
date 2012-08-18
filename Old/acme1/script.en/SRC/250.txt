@@ -1,0 +1,52 @@
+## POINTER 0
+<STR>(YUR)
+<STR>(RAP).
+
+## POINTER 1
+<STR>(YUR)
+You're keeping watch too, huh?
+
+## POINTER 2
+<STR>(YUR)
+So...we started a guild.<PAGE>We're a motley crew, but 
+it should be interesting.
+
+## POINTER 3
+<STR>(RAP)
+Woof.
+
+## POINTER 4
+<STR>(YUR)
+Ha ha. You're our 
+number two.<PAGE>Try not to give the boss too much of a hard time.
+
+## POINTER 5
+<STR>(RAP)
+Woof!
+
+## POINTER 6
+<STR>(YUR)
+You should get some rest, too.
+
+## POINTER 7
+<STR>(YUR)
+What's that? Are you saying I should 
+just trust you to keep watch for us?
+
+## POINTER 8
+<STR>(RAP)
+Woof!
+
+## POINTER 9
+Do you wish to take a rest?
+Rest
+Stay awake
+
+## POINTER 10
+<STR>(YUR)
+All right, I'll get some rest 
+then. Thanks, <STR>(RAP).
+
+## POINTER 11
+<STR>(YUR)
+Nah, I'm fine. Don't worry about me.

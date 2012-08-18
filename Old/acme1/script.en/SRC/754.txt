@@ -1,0 +1,47 @@
+## POINTER 0
+<STR>(RIT)
+Try to be careful. These botanical 
+abnormalities are being 
+caused by the aer here. <PAGE>There's a good chance that there are pockets 
+of excess aer all over the place.
+
+## POINTER 1
+<STR>(RAV)
+Yeah, too much aer can 
+have negative effects 
+on people and blastia.<PAGE>Takin' in a lotta aer causes yer 
+metabolism ta speed up, and that'll 
+make ya more tired than usual.
+
+## POINTER 2
+<STR>(RIT)
+Wow, you know more than I thought.
+
+## POINTER 3
+<STR>(RAV)
+Eh? That's just common sense!
+
+## POINTER 4
+<STR>(RIT)
+I'd expect people to know about 
+aer's effect on the human body...<PAGE>But I didn't think it was common knowledge 
+that blastia can become supersaturated 
+with aer if used improperly.
+
+## POINTER 5
+<STR>(RAV)
+Nah, anyone who deals with bodhi 
+blastia should know all about it!
+
+## POINTER 6
+<STR>(KAR)
+Actually, I'd never heard about 
+it until <STR>(RIT) mentioned it.
+
+## POINTER 7
+<STR>(RAV)
+Ya gotta quit slackin' and hit the books, kid!
+
+## POINTER 8
+<STR>(YUR)
+......

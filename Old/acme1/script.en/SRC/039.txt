@@ -1,0 +1,11 @@
+## POINTER 0
+<STR>(YUR)
+Let's talk to a few more people here.
+
+## POINTER 1
+<STR>(EST_P)
+I'm going to ask around and gather some info.
+
+## POINTER 2
+<STR>(RAP)
+...

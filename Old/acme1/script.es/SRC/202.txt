@@ -1,0 +1,72 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298291768]
+<STR>(EST_P)
+A-Adelante...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298291768]
+<STR>(YUR)
+No puedes pasarte la vida entera usando
+tus artes curativas en ella, <STR>(EST_P).<PAGE>Vamos, descansa
+un poco por ahora.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273486858]
+<STR>(EST_P)
+Sí...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298291768]
+<STR>(YUR)
+No puedo creer que hiciera algo así.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298291768]
+<STR>(EST_P)
+Sí. Una vez que <STR>(RIT) se decide
+a hacer algo, no escucha a nadie más...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273486858]
+<STR>(YUR)
+¡Mira quién fue a hablar!
+Tú te desmadraste tanto como ella.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273486858]
+<STR>(EST_P)
+Lo siento...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298291768]
+<STR>(YUR)
+Voy a quedarme aquí.
+Deberías reposar. ¿No estás cansada
+de usar tanto tus artes curativas?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273486858]
+<STR>(EST_P)
+Envidio a <STR>(RIT). Tiene algo
+que le importa de verdad...
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273486858]
+<STR>(YUR)
+Tú también lo tendrías si pasaras el tiempo suficiente
+para encontrarlo. Pero ahora mismo necesitas dormir un poco.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273486858]
+<STR>(EST_P)
+No, estoy bien. <STR>(YUR), tú eres
+el que debería dormir.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273486858]
+<STR>(YUR)
+<STR>(FRE) se enfadará conmigo
+si dejo que te desmayes.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273486858]
+<STR>(EST_P)
+Pues que se enfade contigo, entonces.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298291768]
+<STR>(YUR)
+¡Mira, no vengas luego a pedirme que ocupe
+tu lugar cuando caigas rendida de agotamiento!
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273486858]
+<STR>(EST_P)
+No puedo pedirte nada
+si antes me desmayo,
+¿no te parece?

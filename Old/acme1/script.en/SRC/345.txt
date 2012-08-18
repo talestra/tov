@@ -1,0 +1,133 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS31_156)Glad ya could make it.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS31_157)Sorry to keep you waiting.<PAGE><VOICE>(VS31_158)...You'll be heading 
+back too, right?
+
+## POINTER 2
+
+<VOICE>(VS31_159)Yes. Thanks to your help, we've 
+recovered our strength.<PAGE><VOICE>(VS31_160)We were thinking we'd cross the desert with 
+you all... That is, if you don't mind.
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS31_161)Just make sure ya don't go wanderin' off.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS31_162)How about us? What's 
+our plan after this?
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS31_163)I'm headed for the aer krene 
+in the Weasand of Cados.<PAGE><VOICE>(VS31_164)But I am curious about 
+the Entelexeia, too.
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS31_165)I have the honored 
+task of delivering this 
+letter here ta Belius.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS31_166)I'd like to meet Belius once myself.
+I mean, seriously! The Duce!<PAGE><VOICE>(VS31_167)I want to see just what kind of 
+person the leader of the only 
+guild to rival Altosk really is.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS31_168)It's Nordopolica for me too. I'm 
+gonna see what <STR>(FRE) has to say 
+about those knights in Mantaic.<PAGE><VOICE>(VS31_169)That's assuming he's still 
+in Nordopolica, of course.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS31_170)I...I want to know why 
+the Entelexeia hate the 
+Child of the Full Moon.<PAGE><VOICE>(VS31_171)Which means I have 
+to meet Phaeroh...
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS31_172)But there's got to be 
+another way that 
+doesn't involve Phaeroh.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS31_173)Right... Besides, walking around 
+in the desert just looking for 
+him wouldn't be easy.
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS31_174)Why don't we all head 
+for Nordopolica, then?
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS31_175)You're only looking to find out 
+the reason you were...attacked 
+by the Entelexeia, correct?
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS31_176)Y-yes...
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS31_177)I imagine Belius could tell 
+you if you met with her.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS31_178)Why, because of the 
+connection between the 
+Entelexeia and the coliseum?
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS31_179)I do remember Yeager 
+mumblin' somethin' about 
+the Entelexeia of Nordopolica.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS31_180)If we can believe 
+anything he told us.
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS31_181)Well, we'll pass through the 
+Weasand of Cados on the way 
+to see Belius. Good enough?
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS31_182)True enough. All right, 
+then, Nordopolica it is.
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS31_183)Right. First let's get 
+back to Mantaic.
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS31_184)Didn't Belius only meet with people 
+on the night of the new moon?
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS31_185)Yeah. We'll have to get a move 
+on if we're going to see her.<PAGE><VOICE>(VS31_186)I'll kick myself if we miss 
+the new moon and have 
+to wait another month.

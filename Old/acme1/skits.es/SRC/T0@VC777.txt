@@ -1,0 +1,51 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297114350]
+Lo que planean el Don y (FRE)
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283027]
+(EST_P)
+¿Dónde has hablado con el Don, (YUR)?
+Desapareciste durante un buen rato.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283027]
+(YUR)
+Hemos tenido una agradable conversación
+a través de unas barras de acero.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266111736]
+(EST_P)
+(YUR)... ¿te cambiaste por (FRE)
+para sacarlo de la cárcel?
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283027]
+(YUR)
+No, nada de eso.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297114350]
+(YUR)
+Lo hubieran soltado aunque
+yo no hubiera intervenido.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283027]
+(EST_P)
+¿Qué quieres decir?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297114271]
+(YUR)
+El Don planeaba desde el principio capturar
+a (FRE) y usarlo para descubrir quién está
+detrás de todo este embrollo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297114350]
+(EST_P)
+Entonces, ¿el Don y (FRE) saben
+que hay alguien más manipulándolo todo?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297114271]
+(YUR)
+Exacto. ¿Por qué siempre acabo
+metido en estos follones?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297114271]
+(YUR)
+Ahora el Don quiere que le haga el trabajo sucio.
+¡Ya son ganas de molestar!

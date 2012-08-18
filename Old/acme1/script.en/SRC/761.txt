@@ -1,0 +1,143 @@
+## POINTER 0
+Kaufman
+Having a travel permit is 
+Fortune's Market's right, 
+as it is our responsibility.<PAGE>Since you sealed off the roads, 
+I guess you're okay with our cargo 
+shipments not going to the capital?
+
+## POINTER 1
+
+That's not what I'm saying!
+
+## POINTER 2
+Kaufman
+It's just like Nordopolica. What gives the 
+Knights--protectors of the people--the 
+right to oppress them?
+
+## POINTER 3
+
+The Imperial Knights don't 
+need your permission to 
+do what needs to be done.<PAGE>I can see we're not going to reach 
+an agreement like this. Now, if 
+you would please let me pass?
+
+## POINTER 4
+Kaufman
+Wait...!
+
+## POINTER 5
+<STR>(RAV)
+Sadly, what that official 
+said is right.
+
+## POINTER 6
+Kaufman
+<STR>(YUR) Lowell? And 
+you, aren't you 
+with Altosk...
+
+## POINTER 7
+<STR>(RAV)
+What a happy surprise 
+ta be remembered 
+by such a lovely lady.
+
+## POINTER 8
+Kaufman
+Perhaps Altosk is planning on 
+sticking its nose into the business 
+of Fortune's Market?
+
+## POINTER 9
+<STR>(RAV)
+Nah, I just came ta ask 
+fer yer cooperation. 
+As a member of the Union.
+
+## POINTER 10
+Kaufman
+Our cooperation?
+
+## POINTER 11
+<STR>(RAV)
+Help us make the Union
+as strong as it useta be. <PAGE>Fortune's Market is one of the 
+pillars of the Union. Or aren't ya?<PAGE>I'm sure ya know how important 
+the Union is fer the guilds.<PAGE>We'll all just get trampled 
+on if we don't work 
+together against them.
+
+## POINTER 12
+Kaufman
+...This, from someone who's been 
+parading all over the world with 
+<STR>(YUR) for the past how many weeks?
+
+## POINTER 13
+<STR>(RAV)
+Altosk has already mobilized. 
+That's why I'm out here 
+gatherin' information.
+
+## POINTER 14
+Kaufman
+I hear you've been traveling as 
+the Don's right-hand man, and 
+watching the Imperial Knights.<PAGE>All right, let's do it. We'll save face 
+for you and the Don and promote 
+the rebuilding of the Union.
+
+## POINTER 15
+<STR>(RAV)
+I'm glad you're as 
+decisive as they say.
+
+## POINTER 16
+Kaufman
+It is an honor to be recognized as 
+such by someone so well-versed in 
+negotiations with the Empire.
+
+## POINTER 17
+<STR>(RAV)
+Please, ya flatter me. I've just 
+lived long enough ta get a little 
+clever about these things.
+
+## POINTER 18
+Kaufman
+I hope that I can do the same. 
+Now, if you'll excuse me.
+
+## POINTER 19
+<STR>(KAR)
+<STR>(RAV), I'm impressed at how 
+well you dealt with an imposing 
+lady like Miss Kaufman!
+
+## POINTER 20
+<STR>(RAV)
+Compared to the Don, 
+she was nothin'.
+
+## POINTER 21
+<STR>(KAR)
+Yeah. The Don was 
+more...impressive.
+
+## POINTER 22
+<STR>(RAV)
+Don't just agree with me! 
+Where's the "But <STR>(RAV), 
+you were awesome!"
+
+## POINTER 23
+<STR>(KAR)
+Huh? B-but...
+
+## POINTER 24
+<STR>(YUR)
+Come on, let's go.

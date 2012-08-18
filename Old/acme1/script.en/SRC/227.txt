@@ -1,0 +1,73 @@
+## POINTER 0
+<STR>(YUR)
+It looks like we can't go any higher, 
+and we can't go outside, either.
+
+## POINTER 1
+<STR>(YUR)
+What 's the matter?
+
+## POINTER 2
+<STR>(JUD)
+My spear is gone.
+
+## POINTER 3
+<STR>(YUR)
+Things might be
+difficult without
+a weapon...
+
+## POINTER 4
+<STR>(JUD)
+...
+
+## POINTER 5
+<STR>(YUR)
+What the? Is the Sorcerer's 
+Ring broken?
+
+## POINTER 6
+<STR>(YUR)
+Did the aer here do this?
+
+## POINTER 7
+<STR>(JUD)
+Hey, you're more fashion-conscious than I thought!
+
+## POINTER 8
+<STR>(YUR)
+This isn't 
+fashion...
+
+## POINTER 9
+<STR>(YUR)
+You go like this, and...
+
+## POINTER 10
+<STR>(JUD)
+It moved.
+
+## POINTER 11
+<STR>(YUR)
+It's powered up...
+
+## POINTER 12
+<STR>(JUD)
+I'll bet you could move other 
+levers with that, too.
+
+## POINTER 13
+<STR>(YUR)
+You think it's okay? 
+I'm afraid it might blow 
+up or something.
+
+## POINTER 14
+<STR>(JUD)
+If it happens, it happens. For now 
+let's pull that lever over there.
+
+## POINTER 15
+<STR>(YUR)
+If something this tiny exploded I guess 
+it wouldn't be too dangerous...

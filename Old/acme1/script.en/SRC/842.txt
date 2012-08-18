@@ -1,0 +1,448 @@
+## POINTER 0
+<STR>(RAV)
+Hey, buon giorno!
+
+## POINTER 1
+<STR>(KAR)
+B-buon giorno...
+
+## POINTER 2
+Karolow X
+Professor Sicily! 
+Buon giorno, jarnk!
+
+## POINTER 3
+Sicily
+Oh, my amici! Buon giorno!
+
+## POINTER 4
+<STR>(RIT)
+Hmph, you're sure chummy all of the sudden...
+
+## POINTER 5
+<STR>(YUR)
+So? What's wrong with that?
+
+## POINTER 6
+<STR>(RIT)
+I-I didn't say there's anything 
+wrong with it at all...!
+
+## POINTER 7
+<STR>(JUD)
+Heh heh, you're a little jealous, eh?
+
+## POINTER 8
+<STR>(RIT)
+O-of course I'm not...!
+
+## POINTER 9
+<STR>(RAV)
+Come ta think of it, this is the exact 
+same place where we first met ya.<PAGE>Ya countin' flower petals 
+again or somethin'?
+
+## POINTER 10
+Sicily
+No, nothing 
+like that... 
+I just...<PAGE>Recently I am lacking 
+of motivazione...
+
+## POINTER 11
+Karolow X
+A great genius like Professor 
+Sicily requires a lot 
+of motivation, jarnk!
+
+## POINTER 12
+<STR>(KAR)
+Well then, how about... How about 
+you make us an awesome weapon?
+
+## POINTER 13
+<STR>(YUR)
+He already made us a weapon 
+for <STR>(RAP), though.
+
+## POINTER 14
+<STR>(KAR)
+Y-yeah...
+Maybe you could do something
+like that again...or not?
+
+## POINTER 15
+Sicily
+Hmmm, si... Well...<PAGE>I can't say I'm too interested in weapons 
+right now, but...well, you've been 
+my amici for so long, so...maybe...
+
+## POINTER 16
+<STR>(KAR)
+Y-you'll do it?
+
+## POINTER 17
+Sicily
+Hmmm...
+Si, if you'll do something 
+to give me some motivazione, 
+I'll make you a nice weapon!
+
+## POINTER 18
+<STR>(KAR)
+Something to give you some motivation...?
+
+## POINTER 19
+<STR>(YUR)
+Here he goes again with the crazy talk...
+
+## POINTER 20
+Sicily
+Every time you do one of these 
+motivational things, I'll make a
+weapon for you!
+
+## POINTER 21
+Information
+・Repeat an attack a motivational amount of times
+・Deal a motivational amount of damage to an enemy
+・Receive a motivational battle evaluation
+・Fight in a motivational number of battles
+・Get a motivational amount of Gald
+・Finish a battle in a motivational amount of time
+・Run away from battle motivationally
+
+## POINTER 22
+Sicily
+Good luck, eh?
+
+## POINTER 23
+<STR>(EST_P)
+Wh-what are we supposed 
+to do...?
+
+## POINTER 24
+<STR>(RAV)
+I guess we're supposed ta be 
+motivational like he said...?
+
+## POINTER 25
+<STR>(YUR)
+...Hmmm, well, I guess there's nothing making 
+us do all that if we don't want to.
+
+## POINTER 26
+<STR>(JUD)
+Heh heh...
+Why not give it a try? It might
+be nice to spread a little motivation.
+
+## POINTER 27
+Sicily
+It looks like you repeated an 
+attack a motivational number 
+of times! Congratulazioni!
+
+## POINTER 28
+<STR>(YUR)
+O-okay...
+
+## POINTER 29
+Sicily
+I will give you this 
+for your efforts!
+
+## POINTER 30
+Sicily
+Swing this through the air with 
+a swish and swoosh! Tomorrow's 
+victories await! Let's-a go!
+
+## POINTER 31
+<STR>(YUR)
+Th-thanks...
+
+## POINTER 32
+Sicily
+Oh! It looks like you dealt a 
+motivational amount of damage 
+to an enemy! Congratulazioni!
+
+## POINTER 33
+<STR>(RIT)
+Geez...why do we have 
+to do all this work?
+
+## POINTER 34
+Sicily
+I will give you this 
+for your efforts!
+
+## POINTER 35
+Sicily
+How long is it? How short is it? 
+Lungo! Corto! This is the basic 
+tool of data measurement!
+
+## POINTER 36
+<STR>(RIT)
+Okay, sure, but...are you saying that 
+I can actually use this to fight?
+
+## POINTER 37
+Sicily
+A good scientist does not 
+complain about her tools!
+
+## POINTER 38
+<STR>(RIT)
+Hmm, I guess...
+
+## POINTER 39
+Sicily
+Oh! It looks like you received 
+a motivational battle evaluation! 
+Congratulazioni!
+
+## POINTER 40
+<STR>(EST_P)
+Yes, everyone worked very hard!
+
+## POINTER 41
+Sicily
+I will give you this 
+for your efforts!
+
+## POINTER 42
+Sicily
+With this beauty, you'll be able to
+perform a charming meowmeow 
+attack! All the cats will be jealous!
+
+## POINTER 43
+<STR>(EST_P)
+Th-thank you very much...
+
+## POINTER 44
+Sicily
+Oh! It looks like you fought 
+in a motivational number of 
+battles! Congratulazioni!
+
+## POINTER 45
+<STR>(JUD)
+Heh heh. I hope it was 
+motivational for you.
+
+## POINTER 46
+Sicily
+I will give you this 
+for your efforts!
+
+## POINTER 47
+Sicily
+This legendary and mysterious tool 
+is now yours! Use it wearing a maid 
+outfit, and it works twice as well!
+
+## POINTER 48
+<STR>(JUD)
+I see. I'll do my best 
+to put it to good use.
+
+## POINTER 49
+Sicily
+Oh! It seems you've gotten 
+a motivational amount of 
+money! Congratulazioni!
+
+## POINTER 50
+<STR>(RAV)
+Yessiree. We worked our butts off!
+
+## POINTER 51
+Sicily
+I will give you this 
+for your efforts!
+
+## POINTER 52
+Sicily
+We all have a little bambino inside ourselves! 
+But be careful with this! Learning 
+responsibility is a part of growing up!
+
+## POINTER 53
+<STR>(RAV)
+I dunno if I've got much
+growin' up left in me...
+
+## POINTER 54
+Sicily
+Oh! It seems that you finished 
+a battle in a motivational amount 
+of time! Congratulazioni!
+
+## POINTER 55
+<STR>(YUR)
+Y-yeah... Well, it 
+was all <STR>(RAP)...
+
+## POINTER 56
+Sicily
+I will give you this for 
+your canine efforts!
+
+## POINTER 57
+Sicily
+Here's some yakitori! Nice and 
+hot! Fresco e delizioso!
+
+## POINTER 58
+<STR>(RAP)
+Woof woof! Woof woof!
+
+## POINTER 59
+Sicily
+Although I prefer the 
+gizzard myself...
+
+## POINTER 60
+<STR>(RAP)
+......
+
+## POINTER 61
+Sicily
+Ah, yes, perhaps this 
+will help you too...
+
+## POINTER 62
+<STR>(YUR)
+Th-thanks...
+
+## POINTER 63
+Sicily
+Oh! It seems you ran away 
+from battle motivationally! 
+Congratulazioni!
+
+## POINTER 64
+<STR>(KAR)
+Yeah. It was pretty 
+hard...
+
+## POINTER 65
+Sicily
+I will give you this 
+for your efforts!
+
+## POINTER 66
+Sicily
+Come on everybody, take a chance! 
+We're going underground 
+to do the Sicily dance!
+
+## POINTER 67
+<STR>(KAR)
+I have no idea what 
+you're talking about...
+
+## POINTER 68
+Sicily
+Hmmm, it seems 
+you've done nothing 
+very motivational lately...
+
+## POINTER 69
+<STR>(YUR)
+Oh, I see...
+
+## POINTER 70
+Sicily
+These are the motivational 
+things you have left to do!
+
+## POINTER 71
+Information
+・Repeat an attack a motivational amount of times
+
+## POINTER 72
+Information
+・Deal a motivational amount of damage to an enemy
+
+## POINTER 73
+Information
+・Receive a motivational battle evaluation
+
+## POINTER 74
+Information
+・Fight in a motivational number of battles
+
+## POINTER 75
+Information
+・Get a motivational amount of Gald
+
+## POINTER 76
+Information
+・Finish a battle in a motivational amount of time
+
+## POINTER 77
+Information
+・Run away from battle motivationally
+
+## POINTER 78
+Sicily
+Work hard! Arrivederci!
+
+## POINTER 79
+Sicily
+Oh, wow! You've accomplished 
+all of my motivational tasks!<PAGE>Truly, my amici, 
+congratulazioni!
+
+## POINTER 80
+<STR>(YUR)
+Yeah, I guess we did.
+
+## POINTER 81
+Sicily
+You've given me a lot 
+of motivazione! Grazie!<PAGE>Well, perhaps we shall meet 
+again soon! Arrivederci!
+
+## POINTER 82
+<STR>(EST_P)
+What an interesting man.
+
+## POINTER 83
+<STR>(RIT)
+What a kook...
+
+## POINTER 84
+<STR>(RAP)
+Woof...
+
+## POINTER 85
+<STR>(YUR)
+Wow, he was even getting 
+on your nerves, <STR>(RAP)?
+
+## POINTER 86
+<STR>(KAR)
+I don't know... I think 
+he's an awesome guy.
+
+## POINTER 87
+<STR>(JUD)
+Yes. And he gave us all 
+sorts of rare items, too.
+
+## POINTER 88
+<STR>(YUR)
+They're lacking in the 
+usefulness department...
+
+## POINTER 89
+<STR>(RAV)
+They say there's a fine line between 
+genius and insanity...and our man 
+Sicily walks that line in style!

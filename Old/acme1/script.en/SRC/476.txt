@@ -1,0 +1,124 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS49_511)Hanks, everyone! 
+You're all okay!
+
+## POINTER 1
+Hanks
+<VOICE>(VS49_512)Hey, that's my line!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS49_513)Why are you inside the castle?!
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS49_514)Yeah, you all too.
+
+## POINTER 4
+Leblanc
+<VOICE>(VS49_515)Yes, well, Sir <STR>(FRE) ordered 
+me to lead the evacuation 
+of the citizens.<PAGE><VOICE>(VS49_516)However...I realized that the inhabitants of
+the lower quarter were nowhere to be found.<PAGE><VOICE>(VS49_517)It wasn't part of my orders, 
+but, you see...
+
+## POINTER 5
+Hanks
+<VOICE>(VS49_518)The exit collapsed, and a strange fog
+covered the ground. We were in quite a fix!<PAGE><VOICE>(VS49_519)Thanks to these knights we 
+escaped the fog and came
+here. They saved our lives.
+
+## POINTER 6
+Leblanc
+<VOICE>(VS49_520)I-I am prepared to recieve punishment for violating my orders!
+
+## POINTER 7
+Adecor
+<VOICE>(VS49_521)I say, we will take the same punishment!
+
+## POINTER 8
+Boccos
+<VOICE>(VS49_522)We will take the same punishment!
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS49_523)Punishment? I'm just 
+an old man, boys.<PAGE><VOICE>(VS49_524)Anyway, isn't it the duty of
+the Knights to protect the citizens?
+...You did well.
+
+## POINTER 10
+Leblanc
+<VOICE>(VS49_525)...Th-this is an honor!
+Captain Schwa--Captain <STR>(RAV)!
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS49_526)Don't call me Captain!
+I'm just <STR>(RAV)!
+
+## POINTER 12
+Leblanc
+<VOICE>(VS49_527)Sir! I apologize.
+Sir Just <STR>(RAV)!
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS49_528)Looks like somebody respects you.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS49_529)I never would have believed it...
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS49_530)This is great, <STR>(YUR)!
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS49_531)Huh, I forgot how tough
+everyone was. What was
+I worried about?
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS49_532)Did you see the former 
+Commandant?
+
+## POINTER 18
+Leblanc
+<VOICE>(VS49_533)Sir, no sir. But we overheard the Royal
+Guard outside... something about the
+Sword Stair?
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS49_534)The Sword Stair?
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS49_535)That really tall thing we
+got blasted off of.
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VS49_536)So that means he's still up there.
+
+## POINTER 22
+<STR>(RAV)
+<VOICE>(VS49_537)The problem is, only important people
+can get to the Sword Stair. There's
+some special mechanism.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS49_538)I can take care of locks, <STR>(RIT) can
+take care of formulas. We can do it!
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS49_539)You said it.<PAGE><VOICE>(VS49_540)Hanks, all of you 
+should stay here and 
+hide. Let's go!

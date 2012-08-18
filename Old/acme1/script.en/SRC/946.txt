@@ -1,0 +1,74 @@
+## POINTER 0
+<STR>(KAR)
+...Ugh, I'm sick of these stupid traps...!
+
+## POINTER 1
+<STR>(RIT)
+How many times do we have to fall in these before you're happy?!
+
+## POINTER 2
+<STR>(YUR)
+It's the fault of these stupid 
+paths for being so narrow!
+
+## POINTER 3
+<STR>(KAR)
+H-hey, it's not like I'm trying to fall in...
+
+## POINTER 4
+<STR>(JUD)
+That was the third time, if I'm not mistaken.
+
+## POINTER 5
+<STR>(KAR)
+Uh, but you're the one leading the party, <STR>(RIT)...
+
+## POINTER 6
+<STR>(RIT)
+I...I, uh, don't really see how that's relevant! *cough*
+
+## POINTER 7
+<STR>(RIT)
+I can't take it anymore...
+Just a second.
+
+## POINTER 8
+<STR>(KAR)
+What are you doing?
+
+## POINTER 9
+<STR>(RIT)
+This wouldn't be happening to us if we could see 
+properly. So I'm going to give us some light.
+
+## POINTER 10
+<STR>(KAR)
+Huh...?
+
+## POINTER 11
+<STR>(RIT)
+Alright, there we go.
+
+## POINTER 12
+<STR>(KAR)
+Wow, that fast?
+
+## POINTER 13
+<STR>(YUR)
+How'd you even manage to whip 
+up something like that?
+
+## POINTER 14
+<STR>(RIT)
+The word "impossible" isn't 
+in my dictionary! I ripped that 
+page out. Let's go.
+
+## POINTER 15
+<STR>(JUD)
+Oh, it's so bright. We should 
+be just fine now.
+
+## POINTER 16
+<STR>(YUR)
+All right, let's go.

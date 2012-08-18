@@ -1,0 +1,125 @@
+## POINTER 0
+Adecor
+<VOICE>(VS02_001)<STR>(YUR)! So it is you who are the 
+cause of all this commotion.
+
+## POINTER 1
+Boccos
+<VOICE>(VS02_002)I know he's poor, but breaking into 
+an aristocrat's house... My, my, 
+how the mighty have fallen!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS02_003)Just what I needed, Tweedle A and Tweedle B.
+
+## POINTER 3
+Adecor
+<VOICE>(VS02_004)I say, don't you dare call me that!
+
+## POINTER 4
+Boccos
+<VOICE>(VS02_005)Just what is a Tweedle, anyway?!
+
+## POINTER 5
+Boccos
+<VOICE>(VS02_006)There's no hope of escape! 
+We've got you surrounded!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS02_007)Does it look like I'm trying to escape? See, it's stuff 
+like that that keeps you guys from getting promoted.
+
+## POINTER 7
+Boccos
+<VOICE>(VS02_008)You did not just say that!
+
+## POINTER 8
+Adecor
+<VOICE>(VS02_009)I say, you take that back!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS02_010)Enough beating around the bush, I guess.
+
+## POINTER 10
+Do you need to see the tutorial?
+Yes
+No
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS02_011)Come on, guys, you can do better 
+than that, can't you?
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS02_012)Guess I underestimated these guys...
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS02_013)Looks like I won't be catching up 
+with that carriage anytime soon.
+
+## POINTER 14
+Cumore
+<VOICE>(VS02_014)How typical of the Schwann brigade. 
+They can't even manage to capture 
+a single lowlife.
+
+## POINTER 15
+Adecor
+<VOICE>(VS02_015)C-Captain Cumore! I say, our apologies 
+for this unsightly display.
+
+## POINTER 16
+Cumore
+<VOICE>(VS02_016)I'm afraid the Imperial Knights 
+have no use for you lowborn scum.
+
+## POINTER 17
+Boccos
+<VOICE>(VS02_017)Uhh... P-please don't 
+let Sir Schwann know 
+about this, Sir.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS02_018)I can't believe our taxes 
+go to paying these guys...
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS02_019)There he is...
+
+## POINTER 20
+Adecor
+<VOICE>(VS02_020)I say, that tops it all! Abandoned 
+by his faithful pooch!
+
+## POINTER 21
+Boccos
+<VOICE>(VS02_021)Gah hah hah hah!
+
+## POINTER 22
+Cumore
+<VOICE>(VS02_022)Well, well, you've had a busy day 
+haven't you, Mr. <STR>(YUR) Lowell?<PAGE><VOICE>(VS02_023)I'm rather busy myself, but I suppose I 
+can afford to play with you for a while.<PAGE><VOICE>(VS02_024)Gentlemen!
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS02_025)It's rats like you that make 
+<STR>(FRE)'s job so difficult.
+
+## POINTER 24
+Cumore
+<VOICE>(VS02_026)<STR>(FRE)? A little suffering is just what 
+that upstart lieutenant needs.
+
+## POINTER 25
+Cumore
+<VOICE>(VS02_027)When you've finished with him, throw 
+him in the prison as usual.<PAGE><VOICE>(VS02_028)Ten days or so ought to 
+teach him a lesson.

@@ -1,0 +1,34 @@
+## POINTER 0
+<STR>(EST_P)
+I'm okay.<PAGE>You should get some
+rest too, <STR>(YUR).
+
+## POINTER 1
+<STR>(EST_P)
+...Can't eat that...
+
+## POINTER 2
+<STR>(KAR)
+Think about the talk
+about the guild, ok?<PAGE>You will, won't you?
+
+## POINTER 3
+<STR>(KAR)
+Zzz...Munch...Munch...Zzz...
+
+## POINTER 4
+<STR>(RIT)
+Um...<PAGE>......
+
+## POINTER 5
+<STR>(RAP)
+......
+
+## POINTER 6
+
+Lady <STR>(EST) is resting.
+
+## POINTER 7
+<STR>(YUR)
+Oh well, guess
+I'll call it a day.

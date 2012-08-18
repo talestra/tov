@@ -1,0 +1,41 @@
+## POINTER 0
+Starting a Guild
+
+## POINTER 1
+(EST_P)
+(YUR), I was a little surprised to 
+hear that you're starting a guild.
+
+## POINTER 2
+(YUR)
+Well, it's not like I'll be doing it all on my own.
+
+## POINTER 3
+(JUD)
+Did (KAR) give you the idea?
+
+## POINTER 4
+(YUR)
+Yeah, but I'd been thinking about it myself for a while now, too.
+
+## POINTER 5
+(YUR)
+I quit the Knights to find my own way of 
+doing things, but I hadn't done anything.
+
+## POINTER 6
+(EST_P)
+What (FRE) said to you back in the port 
+town... That got to you, didn't it?
+
+## POINTER 7
+(YUR)
+Nothing that guy says could get to me.
+
+## POINTER 8
+(JUD)
+He doesn't like to admit his feelings, does he?
+
+## POINTER 9
+(EST_P)
+No.

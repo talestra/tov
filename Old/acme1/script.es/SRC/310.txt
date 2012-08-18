@@ -1,0 +1,207 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(KAR)
+<VOICE>(VS27_111)¡Hala, <STR>(YUR) está que se sale!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(RAV)
+<VOICE>(VS27_112)Ta claro que sabe lo que hace.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282297626]
+
+<VOICE>(VS27_113)¡Esto se pone cada vez más interesante!
+¡Es hora de dar paso al plato fuerte!<PAGE>
+<VOICE>(VS27_114)Permítanme presentarles...
+¡al actual e imbatido campeón del coliseo!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(RAP)
+<VOICE>(VS27_115)¡Auuuuuh!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394510]
+<STR>(EST_P)
+<VOICE>(VS27_116)¡¿Qué?!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282297626]
+<STR>(KAR)
+<VOICE>(VS27_117)¿Q-Qué quiere decir?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394510]
+
+<VOICE>(VS27_118)¡El rompecorazones de mirada penetrante!
+¡<STR>(FRE) Scifo!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551577]
+<STR>(FRE)
+<VOICE>(VS27_119)
+¿<STR>(YUR)? Pero ¡¿qué
+haces tú aquí?!
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(YUR)
+<VOICE>(VS27_120)¿Eh? ¿Eres tú el villano
+que pretender apoderarse
+del coliseo?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(FRE)
+<VOICE>(VS27_121)Muy gracioso. ¿Vas a decirme
+de qué estás hablando?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(YUR)
+<VOICE>(VS27_122)Je. Así que nos la han dado con queso.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(FRE)
+<VOICE>(VS27_123)Eso parece.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+
+<VOICE>(VS27_124)¡Hombres del coliseo! ¡Dejad que la llama
+de vuestro valor arda como nunca!
+¡Ha llegado la hora del combate final!
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(YUR)
+<VOICE>(VS27_142)Oh, esto tiene que ser una broma...
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+
+<VOICE>(VS27_143)¡Qué tenemos aquí! ¿Acaba de llegar alguien
+para arrebatarles el protagonismo
+a las estrellas de nuestro espectáculo?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394510]
+Zagi
+<VOICE>(VS27_144)
+¡<STR>(YUR)! ¡Has conseguido mantenerte con
+vida lo suficiente para que pueda matarte!
+¡Ahora deja que te muestre mi gratitud!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394510]
+<STR>(YUR)
+<VOICE>(VS27_145)Je, je. Lamento decepcionarte, pero tengo
+otras razones para seguir dando guerra.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282297626]
+Zagi
+<VOICE>(VS27_146)¡Tú eres la única persona que ha conseguido
+hacerme sangrar, y juro que morirás en mis manos!
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(YUR)
+<VOICE>(VS27_147)Tío, ¿por qué no intentas hacer
+algo más productivo con todo
+ese ímpetu que tienes?
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+Zagi
+<VOICE>(VS27_148)¡Mira esto!
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279006283]
+<STR>(KAR)
+<VOICE>(VS27_149)¡Aaah! ¡¿Qué es eso?!
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282297626]
+<STR>(RIT)
+<VOICE>(VS27_150)¡Es un blastia! ¡No puedo creerlo!
+¡¿Qué hace usándolo así?!
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(RAV)
+<VOICE>(VS27_151)Tengo un mu mal presentimiento.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394510]
+<STR>(JUD)
+<VOICE>(VS27_152)¡Ese blastia!...
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(EST_P)
+<VOICE>(VS27_153)¡<STR>(JUD)!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394510]
+<STR>(RIT)
+<VOICE>(VS27_154)Oye, pero ¿qué haces?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394510]
+
+<VOICE>(VS27_155)¡¿S-Será este el final del
+torne...?! ¡Oh, a la porra todo!
+¡Yo me largo!
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+Zagi
+<VOICE>(VS27_156)¿Te gusta mi brazo nuevo? ¡Tú me
+hiciste esto, así que lo pienso usar
+para destruirte! ¡¡Ja, ja, ja, ja, ja!!
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(EST_P)
+<VOICE>(VS27_157)¡<STR>(YUR)!
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279006283]
+Zagi
+<VOICE>(VS27_158)¡Vamos, <STR>(YUR)! 
+¡Déjame enseñarte
+mi juguetito nuevo!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394510]
+<STR>(YUR)
+<VOICE>(VS27_159)Empiezo a estar de ti
+hasta la coronilla.
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+Información
+<STR>(YUR) no está en tu grupo.
+Forma uno que incluya a <STR>(YUR).
+
+## POINTER 32 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+Zagi
+<VOICE>(VS27_160)Uuh... ¡¡Aaagh!!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394510]
+<STR>(RIT)
+<VOICE>(VS27_161)¡Ha perdido el control!
+¡Eso le pasa por usarlo de esa manera!
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+Zagi
+<VOICE>(VS27_162)¡Este condenado blastia
+no hace lo que le pido!
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282297626]
+<STR>(KAR)
+<VOICE>(VS27_163)¡M-Monstruos!
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(YUR)
+<VOICE>(VS27_164)¡¿Qué están haciendo aquí?!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394510]
+<STR>(FRE)
+<VOICE>(VS27_165)¡Los tienen aquí para
+usarlos en el torneo!<PAGE>
+<VOICE>(VS27_166)¡La explosión de antes ha debido destruir
+la barrera blastia que los contenía!
+
+## POINTER 38 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+Zagi
+<VOICE>(VS27_167)¡Aaaaaargh!
+
+## POINTER 39 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(JUD)
+<VOICE>(VS27_168)¡Se escapa!
+
+## POINTER 40 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(EST_P)
+<VOICE>(VS27_169)¡Aah!
+
+## POINTER 41 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(YUR)
+<VOICE>(VS27_170)Mierda, supongo que no nos
+queda otra que encargarnos
+de los monstruos primero.
+
+## POINTER 42 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278248155]
+<STR>(JUD)
+<VOICE>(VS27_171)...

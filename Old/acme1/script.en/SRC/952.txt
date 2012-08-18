@@ -1,0 +1,169 @@
+## POINTER 0
+<STR>(EST_P)
+...So it looks like the Blood Alliance...
+
+## POINTER 1
+<STR>(YUR)
+...isn't here after all.
+
+## POINTER 2
+<STR>(KAR)
+Those guys are the Hunting Blades.
+
+## POINTER 3
+<STR>(EST_P)
+Th-that man...we saw 
+him in Deidon Hold.
+
+## POINTER 4
+<STR>(YUR)
+Ah, now that you mention it, 
+we did see him. So he's the 
+leader of your guild, then.
+
+## POINTER 5
+<STR>(YUR)
+He's gonna fight that monster all by himself?
+
+## POINTER 6
+<STR>(RIT)
+...What? No way, man!
+
+## POINTER 7
+<STR>(YUR)
+He took it out in one hit...?
+
+## POINTER 8
+<STR>(KAR)
+That was a fatal strike.
+
+## POINTER 9
+<STR>(YUR)
+A fatal strike?
+
+## POINTER 10
+<STR>(KAR)
+It's a crazy-powerful technique that 
+extremely skilled swordsmen can use.
+
+## POINTER 11
+<STR>(YUR)
+Hmmm... So how do you do it?
+
+## POINTER 12
+<STR>(KAR)
+How do you do it...?
+H-how should I know?!
+
+## POINTER 13
+<STR>(EST_P)
+"Fatal strike--A strong attack which 
+throws your opponent off balance..."<PAGE>"...Followed by a single, well-timed 
+strike to finish the enemy."
+
+## POINTER 14
+<STR>(RIT)
+Is that something else 
+you read in a book?
+
+## POINTER 15
+<STR>(EST_P)
+Y-yes, it is...
+
+## POINTER 16
+<STR>(YUR)
+I see... It sounds like it's 
+easier said than done.
+
+## POINTER 17
+<STR>(RIT)
+You really want to get back 
+into your guild, don't you?
+
+## POINTER 18
+<STR>(KAR)
+Wha, what makes you say that?
+
+## POINTER 19
+<STR>(EST_P)
+Oh...? <STR>(KAR), are you going to 
+go back into the guild?
+
+## POINTER 20
+<STR>(KAR)
+I won't go back...! I'm sick 
+and tired of monster hunting.
+
+## POINTER 21
+<STR>(RIT)
+Won't go back, or can't 
+go back? It sounded 
+like you were fired.
+
+## POINTER 22
+<STR>(KAR)
+N-no way. I had been 
+planning on leaving 
+for a while.
+
+## POINTER 23
+<STR>(YUR)
+Mmm, is that so? Well, 
+no matter, then.
+
+## POINTER 24
+<STR>(KAR)
+So, uh, let's get going.
+
+## POINTER 25
+<STR>(EST_P)
+Well, I'm glad you're 
+staying with us, <STR>(KAR).
+
+## POINTER 26
+<STR>(YUR)
+Anyway, what do you think they're 
+doing with such a large contingent?
+
+## POINTER 27
+<STR>(EST_P)
+Yeah, if they wanted to take out that monster 
+we saw, one person would've been enough.
+
+## POINTER 28
+<STR>(KAR)
+This is actually the first time I've ever seen 
+this many guild members gathered in one place.
+
+## POINTER 29
+<STR>(EST_P)
+Really?
+
+## POINTER 30
+<STR>(KAR)
+Yeah, a lot of the members are loners. 
+They tend not to travel in groups.<PAGE>And the Chief being here is 
+out of the ordinary, too.
+
+## POINTER 31
+<STR>(RIT)
+Curiouser and curiouser...
+
+## POINTER 32
+<STR>(KAR)
+You want to...follow them and see what they're up to?
+
+## POINTER 33
+<STR>(YUR)
+Nah, that sounds interesting, 
+but I'm gonna keep going.
+
+## POINTER 34
+<STR>(EST_P)
+He's looking for members of the Blood 
+Alliance, after all. Right, <STR>(YUR)?
+
+## POINTER 35
+<STR>(YUR)
+Yeah, I don't want to worry about two 
+guilds. One is more than enough!

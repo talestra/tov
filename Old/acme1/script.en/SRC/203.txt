@@ -1,0 +1,70 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS18_500)You must think I'm 
+totally useless.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS18_501)After what happened when 
+you first met me, and at 
+Caer Bocram, and today...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS18_502)I think everyone 
+freaked out today.<PAGE><VOICE>(VS18_503)Even the great Commandant was 
+pretty in over his head.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS18_504)There are lots of things
+even grown-ups can't do.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS18_505)Even you, <STR>(YUR)?
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS18_506)Yeah. I guess so.
+It's a tough world.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS18_507)Now you got the idea.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS18_508)...Hey, <STR>(YUR)?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS18_509)Hmm?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS18_510)Do you think you'd wanna maybe
+...start a guild with me?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS18_511)A guild, huh... 
+Yeah, that's an idea.<PAGE><VOICE>(VS18_512)I'll think about it.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS18_513)R-really?!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS18_514)What, you're surprised?
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS18_515)I thought you'd say "No way! I've been in 
+enough messes already!" or something.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS18_516)Not all adults think like that, you know.<PAGE><VOICE>(VS18_517)Anyway, it's late. Let's get some rest 
+and see how she's doing in the morning.

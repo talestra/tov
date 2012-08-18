@@ -1,0 +1,123 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+
+¡Bienvenidos sean, queridos visitantes,
+al balneario del manantial termal Yumanju!<PAGE>Ah, ¡han vuelto! Me alegro de que la última
+vez disfrutaran de nuestras aguas termales.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+<STR>(RIT)
+¡Y una leche las disfrutamos!
+¿Qué puñetas le pasaba a la mampara esa?
+¡Se podía ver a través de ella!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+
+No, no, simplemente separamos
+las mamparas para aprovechar
+el espacio al máximo.<PAGE>Además, es una cuestión de moralidad.
+¡Ningún visitante de nuestro manantial tendría la
+desfachatez de espiar a personas del sexo opuesto!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290185474]
+<STR>(RAV)
+¡Oye, oye, qu'al final
+no vi tres en un burro!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+<STR>(JUD)
+Pero lo hubieras
+hecho de haber podido.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+
+Si eso tanto les preocupa,
+¿qué les parece si alquilan el
+manantial para su uso personal?<PAGE>Serían los únicos clientes, así que
+podrían estar todos en el mismo baño,
+señoritas y caballeros juntos.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290426101]
+<STR>(RAV)
+¡¿Ju-ju-ju-juntos?!<PAGE>¡Eso es excelente! ¡Vamos
+a hacerlo! ¡Debemos hacerlo!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+<STR>(YUR)
+Tranquilito, viejales, si quieres que
+nos metamos todos juntos, que sepas
+que te vas a quedar a solas con <STR>(KAR).
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+<STR>(KAR)
+¿Quéééé? ¿A solas con
+<STR>(RAV)? No, hasta yo
+creo que pasaré de eso.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+<STR>(EST_P)
+¿Qué os parece si alquilamos
+el manantial primero un sexo
+y luego el otro?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+<STR>(YUR)
+Uno y después el otro, ¿eh?
+Si a vosotras os va bien,
+por mí vale.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+
+¡Muy bien, pues! Veamos, el
+alquiler exclusivo del manantial
+termal asciende a 600.000 gald.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+<STR>(RIT)
+¡¿Se-seiscientos mil gald?!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+<STR>(KAR)
+Es el doble de
+la última vez... 
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1304552792]
+
+Como tienen la habitación solo para ustedes,
+el precio resulta un poquitín más alto.<PAGE>¡Pero les aseguro que es toda una ganga!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290426646]
+¿Pagar la entrada al balneario?
+Sí
+No
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290426646]
+<STR>(YUR)
+Las chicas se merecen
+pasárselo bien.<PAGE>Toma.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290426646]
+Información
+Has pagado 600.000 gald.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846995]
+
+¡Muchísimas gracias!
+¡Disfruten de vuestra
+estancia!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298847055]
+
+¡Lástima! No disponen
+de suficiente dinero.
+Vuelvan más tarde, por favor.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298847055]
+<STR>(YUR)
+Ya volveremos cuando
+podamos permitírnoslo.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298847055]
+
+¡Bienvenidos! Reservar el manantial
+termal cuesta 600.000 gald.
+¿Visitarán hoy el manantial?

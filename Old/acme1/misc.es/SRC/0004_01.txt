@@ -1,0 +1,320 @@
+## POINTER 134 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262290286]
+Ataque en movimiento libre
+
+## POINTER 136 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262361504]
+Ataque letal azul
+
+## POINTER 138 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262361504]
+Ataque letal rojo
+
+## POINTER 140 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262361504]
+Ataque letal verde
+
+## POINTER 142 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262367552]
+Martillo
+
+
+## POINTER 143 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262367680]
+Arte básico: Lanza un martillo
+que aturde al enemigo.
+
+## POINTER 144 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262367680]
+Temblor estelar
+
+## POINTER 145 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262367680]
+Arte básico: Lanza una ola de energía por el suelo.
+
+## POINTER 146 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262436972]
+Grupo perforador
+
+## POINTER 147 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633776]
+Arte básico: Apuñala y corta un enemigo
+después y lo empuja con el escudo.
+
+## POINTER 148 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267364998]
+Caballería
+
+## POINTER 149 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633776]
+Arte básico: Evita temporalmente el tambaleo.
+
+## POINTER 150 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262437895]
+Filo divisor
+
+## POINTER 151 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267364998]
+Arte básico: Recupera la postura después de mantener
+cierta distancia al enemigo y embestir a toda velocidad. 
+
+## POINTER 152 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262515917]
+Vals agresivo
+
+## POINTER 153 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262437895]
+Arte básico: Corta continuamente al enemigo
+mientras baila un vals.
+
+## POINTER 154 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262438968]
+Vuelta agradable
+
+## POINTER 155 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633776]
+Arte arcano: Gira y usa tu arma para elevar
+a los enemigos mientras emites un rayo de luz.
+
+## POINTER 156 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633776]
+Punzada centelleante
+
+## POINTER 157 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1262691398]
+Arte arcano: Golpea el escudo del enemigo para
+elevarlo y entonces dar una rápida estocada.
+
+## POINTER 158 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262515440]
+Divisor aéreo
+
+## POINTER 159 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633776]
+Arte modificado: Arremete contra el enemigo, realiza
+un zigzag en el cielo y acaba con una cuchillada.
+
+## POINTER 160 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262367860]
+Primeros auxilios
+
+
+## POINTER 161 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262367860]
+Habilidad de principiante: Devuelve una pequeña
+cantidad de HP a un aliado.
+
+## POINTER 162 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262367860]
+Recuperar
+
+## POINTER 163 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262367860]
+Habilidad de principiante: Cura los estados
+alterados físicos de un aliado.
+
+
+## POINTER 164 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264968618]
+Agudeza
+
+
+## POINTER 165 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262367860]
+Habilidad de principiante: Aumenta temporalmente
+el <06>(SC1)ATQ F. de un aliado.
+
+## POINTER 166 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368206]
+Barrera
+
+## POINTER 167 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262515440]
+Habilidad de principiante: Aumenta temporalmente
+la <06>(SC2)DEF F. de un aliado.
+
+## POINTER 168 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262515574]
+Astion
+
+## POINTER 169 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633776]
+Habilidad de principiante: Aumenta temporalmente
+el <06>(SC3)ATQ M. de un aliado.
+
+## POINTER 170 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368206]
+Resistir
+
+## POINTER 171 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262443895]
+Habilidad de principiante: Aumenta temporalmente
+la <06>(SC4)DEF M. de un aliado.
+
+## POINTER 172 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368206]
+Fotón
+
+## POINTER 173 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262443895]
+Habilidad de principiante: Ataca al enemigo
+con una explosión de luz.
+
+## POINTER 174 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368206]
+Círculo curativo
+
+## POINTER 175 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267364998]
+Habilidad intermedia: Durante la batalla devuelve una cantidad
+moderada de HP a los aliados dentro de cierto perímetro.
+
+## POINTER 176 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368206]
+Resurrección
+
+## POINTER 177 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262443955]
+Habilidad intermedia: Resucita a un aliado caído.
+
+## POINTER 178 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262445539]
+Disipar
+
+## POINTER 179 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262445710]
+Habilidad intermedia: Cura todos los estados
+alterados de todos los aliados.
+
+## POINTER 180 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262445539]
+Anillo de ángel
+
+## POINTER 181 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262445539]
+Habilidad intermedia: Crea un anillo de luz que
+reúne a todos los enemigos en una zona.
+
+## POINTER 182 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262445539]
+Enfermera
+
+## POINTER 183 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262445539]
+Habilidad intermedia: Invoca un ángel que devuelve
+una cantidad moderada de HP a todos los aliados.
+
+## POINTER 184 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368206]
+Lanzas sacras
+
+## POINTER 185 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262445710]
+Habilidad avanzada: Descarga una lanza divina
+contra un enemigo.
+
+## POINTER 186 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368206]
+Revitalizar
+
+## POINTER 187 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262448297]
+Habilidad avanzada: Devuelve bastante HP a los aliados
+dentro de cierto perímetro durante la batalla.
+
+## POINTER 188 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368206]
+Campo de fuerza
+
+
+## POINTER 189 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262448297]
+Habilidad avanzada: Crea una barrera que protege a los aliados
+de los ataques enemigos dentro de un cierto perímetro.
+
+## POINTER 190 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262453122]
+Hexágonos variables
+
+## POINTER 191 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262448297]
+Arte modificado: Aumenta temporalmente la DEF F.
+de todos los aliados dentro de un cierto perímetro.
+
+## POINTER 192 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262448297]
+Campo resistente
+
+## POINTER 193 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262448297]
+Arte modificado: Aumente temporalmente la DEF M.
+de todos los aliados dentro de un cierto perímetro.
+
+## POINTER 194 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262515854]
+Gran cuadriga
+
+## POINTER 195 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633776]
+Arte modificado: Envía siete estrellas explosivas
+hacia el enemigo que golpean siete veces consecutivas.
+
+## POINTER 196 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368206]
+Revivir
+
+## POINTER 197 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368206]
+Arte alterado: Revive automáticamente
+a un aliado cuando cae en batalla.
+
+
+## POINTER 198 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368294]
+Regenerar
+
+## POINTER 199 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267364998]
+Arte alterado: Revive a los aliados caídos
+dentro de cierto perímetro.
+
+## POINTER 200 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262449175]
+Ruiseñor
+
+## POINTER 201 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633776]
+Arte modificado: Invoca un pequeño ángel que
+devuelve una buena cantidad de HP a todos los aliados.
+
+## POINTER 202 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262452458]
+Lluvia sacra
+
+## POINTER 203 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633776]
+Arte modificado: Cae una lluvia divina que ataca
+a todas las criaturas vinculadas con la oscuridad.
+
+## POINTER 204 [t:1;r:2;ru:memnoch,parsec;user:Lia;time:1262450147]
+Estrellas extremas
+
+## POINTER 205 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633776]
+Arte explosivo: Apuñala con la elegancia
+y presteza de una estrella fugaz.
+
+## POINTER 206 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262516210]
+Signo zodiacal - Llama
+
+## POINTER 208 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262516210]
+Signo zodiacal - Geo
+
+## POINTER 210 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262516210]
+Signo zodiacal - Vendaval
+
+## POINTER 212 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262516210]
+Signo zodiacal - Agua
+
+## POINTER 214 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1254218522]
+Penitencia sagrada
+
+## POINTER 216 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1254218522]
+Penitencia sagrada
+
+## POINTER 218 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368294]
+Venganza de martillo
+
+## POINTER 220 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262368294]
+Automedicina
+
+## POINTER 222 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal - ○
+
+## POINTER 224 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal - ↑○
+
+## POINTER 226 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal - ←→○
+
+## POINTER 228 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal - ↓○
+
+## POINTER 230 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal - En salto - ○
+
+## POINTER 232 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal - En salto - ↓○
+
+## POINTER 234 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal secundario - ○
+
+## POINTER 236 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal secundario - ↑○
+
+## POINTER 238 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal secundario - ←→○
+
+## POINTER 240 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal secundario - ↓○
+
+## POINTER 242 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal secundario - En salto - ○
+
+## POINTER 244 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque normal secundario - En salto - ↓○
+
+## POINTER 246 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345787]
+Ataque en movimiento libre
+
+## POINTER 248 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262361504]
+Ataque letal azul
+
+## POINTER 250 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262361504]
+Ataque letal rojo
+
+## POINTER 252 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262361504]
+Ataque letal verde
+
+## POINTER 254 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262537183]
+Dragón ascendente
+
+## POINTER 255 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263079177]
+Arte básico: Blande un arma pesada para mandar
+por los aires a los enemigos.
+
+## POINTER 256 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262537183]
+Roca destructora

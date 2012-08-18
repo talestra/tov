@@ -1,0 +1,201 @@
+## POINTER 0
+<STR>(RAP)
+<VOICE>(VS17_134)Grrrr...
+
+## POINTER 1
+Cumore
+<VOICE>(VS17_135)Ah, the common rabble. 
+So I've finally found you. 
+That's far enough.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS17_136)You lackeys must have had a lot 
+of time on your hands if you 
+crossed the ocean just to see us.
+
+## POINTER 3
+Cumore
+<VOICE>(VS17_137)Humph... You're in no 
+position to talk down 
+to the likes of me.<PAGE><VOICE>(VS17_138)Now, Princess, right this way.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS17_139)Huh? What does he mean, "princess"?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS17_140)The princess standing right 
+here in front of us.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS17_141)Y-<STR>(YUR)... 
+But how did you...?
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS17_142)What? ...<STR>(EST_P)'s a princess?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS17_143)I suspected as 
+much myself.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS17_144)<STR>(RIT)... You, too?
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS17_145)W-wait, you've gotta be kidding...
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS17_146)...And what will happen to my friends?
+
+## POINTER 12
+Cumore
+<VOICE>(VS17_147)Why, they'll be drawn and 
+quartered for abducting a member 
+of the royal family, of course.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS17_148)Please wait. 
+I wasn't abduc--
+
+## POINTER 14
+Cumore
+<VOICE>(VS17_149)Ah, what a mouthy young lady 
+you are. This way, please!
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS17_150)<STR>(EST_P)...!
+
+## POINTER 16
+Cumore
+<VOICE>(VS17_151)Now die like the 
+flies you are!
+
+## POINTER 17
+Leblanc
+<VOICE>(VS17_154)Arrest the culprit <STR>(YUR) 
+Lowell and his accomplices.
+
+## POINTER 18
+Cumore
+<VOICE>(VS17_153)Gah...you. 
+The Schwann Brigade...!
+
+## POINTER 19
+Cumore
+<VOICE>(VS17_155)Just a minute! This prize catch 
+is mine! I won't let you take 
+him from me that easily!
+
+## POINTER 20
+Leblanc
+<VOICE>(VS17_156)"Catch?" Our duties 
+are not to be carried out 
+in the fashion of a hunt.
+
+## POINTER 21
+Cumore
+<VOICE>(VS17_157)Humph...
+
+## POINTER 22
+Leblanc
+<VOICE>(VS17_158)Did I not also hear someone 
+mention "dying" earlier...?
+
+## POINTER 23
+Cumore
+<VOICE>(VS17_159)You did. What is wrong with condemning 
+criminals to their deaths?
+
+## POINTER 24
+Leblanc
+<VOICE>(VS17_160)Should not criminals be 
+captured and judged in 
+accordance with the laws?
+
+## POINTER 25
+Cumore
+<VOICE>(VS17_161)...Humph... I suppose 
+I can let you have these 
+little worms.
+
+## POINTER 26
+Cumore
+<VOICE>(VS17_162)If it isn't Schwann, it's <STR>(FRE). 
+These upstart commoners are so 
+full of themselves...<PAGE><VOICE>(VS17_163)Even that Commandant...
+
+## POINTER 27
+Leblanc
+<VOICE>(VS17_164)This way please, Your Highness. 
+Do watch your step...
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS17_165)Um, but I...
+
+## POINTER 29
+Boccos
+<VOICE>(VS17_166)Yes, right this way!
+
+## POINTER 30
+Leblanc
+<VOICE>(VS17_167)Arrest them in the name 
+of Captain Schwann!
+
+## POINTER 31
+Adecor
+<VOICE>(VS17_168)Okay, <STR>(YUR) Lowell gang, 
+it's curtains for you, I say!
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VS17_169)What do you mean "gang"?! 
+Hey, get your hands off me! 
+Do you know who I am?!
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS17_170)B-but I haven't 
+done anything!
+
+## POINTER 34
+<STR>(EST_P)
+<VOICE>(VS17_171)Don't hurt them! 
+I beg you...!
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS17_172)<STR>(EST_P), don't worry.
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS17_173)<STR>(YUR)...!
+
+## POINTER 37
+Adecor
+<VOICE>(VS17_174)Just start walking! 
+Walk, I say!
+
+## POINTER 38
+<STR>(YUR)
+<VOICE>(VS17_175)Ow! Hey, watch it 
+with the pulling...!
+
+## POINTER 39
+Leblanc
+<VOICE>(VS17_176)Sir Schwann, we shall take these 
+undesirables to Heliord.
+
+## POINTER 40
+Leblanc
+<VOICE>(VS17_177)All members, fall out!

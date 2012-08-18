@@ -1,0 +1,50 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294857844]
+
+¡Gracias! Nos has ayudado mucho.
+Toma esto como pago por tu trabajo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907441]
+<STR>(KAR)
+¡Gracias! ¡Gran Vesperia
+está siempre a tu servicio!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1294857844]
+
+Vosotros no seréis los
+de Gran Vesperia, ¿verdad?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294857844]
+<STR>(KAR)
+Pues sí, somos nosotros...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907591]
+
+He oído que sois expertos
+limpiadores de almacenes.<PAGE>¿Qué os parece?
+¿Nos echáis una mano?
+Os pagaremos, claro.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907441]
+
+¿Qué os parece?
+¿Nos echáis una mano?
+Os pagaremos, claro.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907441]
+<STR>(KAR)
+Mmm...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294857844]
+<STR>(KAR)
+¡Claro! ¡Déjanoslo a nosotros!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1294857844]
+
+¡Muy bien!
+¡Muchas gracias!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294857844]
+
+Oh, qué lástima.
+Avísanos cuando
+tengáis tiempo, ¿eh?

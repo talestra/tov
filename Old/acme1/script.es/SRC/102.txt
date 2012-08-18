@@ -1,0 +1,141 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1270596662]
+<STR>(EST_P)
+<VOICE>(VS05_001)¿Crees que esos Caballeros
+nos han seguido hasta aquí?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416317]
+<STR>(YUR)
+<VOICE>(VS05_002)A saber. De todas formas,
+será mejor no llamar la atención.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416317]
+<STR>(EST_P)
+<VOICE>(VS05_003)
+Vale. Hay que encontrar
+a <STR>(FRE) lo antes posible.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1270596662]
+<STR>(YUR)
+<VOICE>(VS05_004)Muy bien, vamos a ver si podemos
+atravesar el fuerte.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1272375121]
+<STR>(YUR)
+<VOICE>(VS05_005)¿Adónde ha ido ahora?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416317]
+<VOICE>(VS05_006)Buenas. Hoy tengo artículos
+muy interesantes a la venta.<PAGE><VOICE>(VS05_007)
+Esta espada fue forjada nada más y nada menos
+que por Assam el Maestro de Armas. Hasta viene
+equipada con habilidades y todo.<PAGE><VOICE>(VS05_008)
+Ningún viajero debería ir por ahí sin tener habilidades.
+¡Inténtalo!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1270596662]
+<STR>(YUR)
+<VOICE>(VS05_009)¿Eh? ¿Qué quieres decir?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1283189520]
+<STR>(EST_P)
+<VOICE>(VS05_010)«Las técnicas especiales
+contenidas en armas.<PAGE><VOICE>(VS05_011)Estas técnicas se pasaban tiempo ha
+de maestros a discípulos,<PAGE><VOICE>(VS05_012)pero Assam el Maestro de Armas inventó
+un proceso especial para sellarlas en el interior
+de un arma.<PAGE><VOICE>(VS05_013)Los bodhi blastias permiten adquirir las técnicas
+contenidas en las armas imbuidas con este poder.<PAGE><VOICE>(VS05_014)Si se blanden durante el tiempo suficiente,
+el portador puede llegar a aprenderlas por completo».
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416317]
+<VOICE>(VS05_015)Fíjate tú, esta señorita sí que sabe.
+Eso lo resumiría todo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416683]
+<STR>(EST_P)
+<VOICE>(VS05_016)
+Leí en un libro que fueron los krityanos quienes
+enseñaron hace mucho este conocimiento a los humanos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1283189480]
+<STR>(YUR)
+<VOICE>(VS05_017)Vaya. Y yo que creía que los bodhi blastias
+solo te dejaban usar artes de ataque
+y magia.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1283155475]
+<VOICE>(VS05_018)Para encontrar el estilo de lucha
+que mejor se adapte a ti,<PAGE><VOICE>(VS05_019)lo más conveniente es pensar bien qué
+habilidades escoger cuando seleccionas
+tu arma.<PAGE><VOICE>(VS05_020)También hay armas sin habilidades que se
+concentran en ofrecer mayor potencia de ataque.
+Todo depende de tus necesidades.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416317]
+<STR>(YUR)
+<VOICE>(VS05_021)Seguro que un negocio así
+debe ir viento en popa en este lugar.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416683]
+<VOICE>(VS05_022)No me malinterpretes. No estoy aquí
+porque quiera.<PAGE><VOICE>(VS05_023)Hay monstruos al otro lado del fuerte,
+así que estoy retenido aquí.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1270628629]
+<STR>(YUR)
+<VOICE>(VS05_024)Monstruos, ¿eh?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1270628629]
+<STR>(YUR)
+<VOICE>(VS05_025)¿Has oído eso?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1270628629]
+<STR>(EST_P)
+<VOICE>(VS05_026)Mmm...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1270628629]
+<STR>(YUR)
+<VOICE>(VS05_027)Como si le hablara a una pared...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1270628629]
+<STR>(EST_P)
+<VOICE>(VS05_028)¿Eh? ¿Decías algo?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416317]
+<STR>(YUR)
+<VOICE>(VS05_029)He dicho que voy a investigar un poco.
+Espérame aquí.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1270628629]
+<STR>(EST_P)
+<VOICE>(VS05_030)Oh, voy contigo.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416317]
+<VOICE>(VS05_031)
+Ah, tranquila, puedes llevártelo.
+Está bastante hecho polvo y le faltan
+algunas páginas, pero es tuyo si lo quieres.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416317]
+<STR>(EST_P)
+<VOICE>(VS05_032)Mu-muchísimas gracias.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1270628629]
+<STR>(YUR)
+<VOICE>(VS05_033)¿Tan útil es el libro ese?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416683]
+<STR>(EST_P)
+<VOICE>(VS05_034)Es fascinante.
+Te lo dejaré en cuanto
+lo termine de leer.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416317]
+Información
+Puedes comprobar las estadísticas
+de tus combates en el Libro de batalla.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416317]
+Información
+También puedes comprobar las artes
+de tus armas. Échale un vistazo
+cuando quieras saber más al respecto.

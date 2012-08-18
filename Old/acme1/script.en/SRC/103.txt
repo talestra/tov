@@ -1,0 +1,102 @@
+## POINTER 0
+
+<VOICE>(VS05_500)Hurry, get inside! 
+The gate's closing!
+
+## POINTER 1
+
+<VOICE>(VS05_501)Arrows! Bring the arrows!
+
+## POINTER 2
+
+<VOICE>(VS05_502)Shut the gate now!
+
+## POINTER 3
+
+<VOICE>(VS05_503)Dammit! What are they doing 
+here this time of the year.
+
+## POINTER 4
+
+<VOICE>(VS05_504)The monsters will fall back 
+if we stop the main charge!
+Remember your training!
+
+## POINTER 5
+
+<VOICE>(VS05_505)OK! They're all in.
+Close it up!
+
+## POINTER 6
+
+<VOICE>(VS05_506)Hold the gate! 
+There's still more...
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS05_507)Are all those... monsters...?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS05_508)We just left the capital and things 
+are already getting crazy...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS05_509)That's it. I'm cursed. I know it.
+
+## POINTER 10
+
+<VOICE>(VS05_510)...?! The gate!
+
+## POINTER 11
+<STR>(RAP)
+<VOICE>(VS05_511)Grrr,  woof!!
+
+## POINTER 12
+
+<VOICE>(VS05_512)Wh-what the hell! 
+Cut it out!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS05_513)<STR>(EST_P), you wait over-- 
+Hey!
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS05_514)Help the girl!
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS05_515)...Whatever you say.
+
+## POINTER 16
+
+<VOICE>(VS05_516)P-Please... I can't get up.... 
+Owww...! The monsters! 
+The monsters!
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS05_517)Everything is going to be OK.
+
+## POINTER 18
+
+<VOICE>(VS05_518)...Hey, I can...I can stand...
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS05_519)Go in the hold. Hurry!
+
+## POINTER 20
+
+<VOICE>(VS05_520)My doll, mama's doll!
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS05_521)Hey! Let go of me!
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS05_522)You wait here!

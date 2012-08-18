@@ -1,0 +1,155 @@
+## POINTER 0
+
+Ahhh! You there, in 
+black! Yes, you!<PAGE>I've been looking for you!
+
+## POINTER 1
+<STR>(EST_P)
+Is this a friend of yours?
+
+## POINTER 2
+<STR>(YUR)
+I don't exactly have very many 
+nobles for friends...present 
+company excepted, of course.
+
+## POINTER 3
+
+You've got a bounty 
+on you, right?
+
+## POINTER 4
+<STR>(RIT)
+Looks like you got 
+another fan, <STR>(YUR).
+
+## POINTER 5
+<STR>(YUR)
+Let's get outta here!
+
+## POINTER 6
+
+No, please wait! I'm not going 
+to turn you in! Please, listen 
+to what I have to say.
+
+## POINTER 7
+<STR>(KAR)
+The Imperial Knights will show up 
+if he keeps yelling like that!
+
+## POINTER 8
+<STR>(YUR)
+I know. Look, I'll hear you out. 
+Just keep your voice down.
+
+## POINTER 9
+
+Yes, of course, I'm sorry. 
+My name is Shel. And 
+you would be...<STR>(YUR)?
+
+## POINTER 10
+<STR>(YUR)
+In the flesh.
+
+## POINTER 11
+Shel
+Actually I've come to you precisely 
+because of your bounty. Please. 
+Could you find my brother?
+
+## POINTER 12
+<STR>(EST_P)
+What does <STR>(YUR)'s bounty have 
+to do with your brother?
+
+## POINTER 13
+Shel
+Well, my brother just can't let 
+criminals go. So I thought that 
+with a bounty on your head...
+
+## POINTER 14
+<STR>(RIT)
+So to get this straight...you want 
+to use <STR>(YUR) as bait to lure your 
+brother out into the open?
+
+## POINTER 15
+Shel
+That's a bit of a harsh way of saying 
+it, but essentially...yes.
+
+## POINTER 16
+<STR>(YUR)
+Sorry, find yourself another sucker.
+
+## POINTER 17
+<STR>(EST_P)
+<STR>(YUR), wait!<PAGE>...You haven't been able 
+to find your brother?
+
+## POINTER 18
+Shel
+No, I haven't heard from him ever since 
+he left the capital three years ago.<PAGE>He left on a journey to do great 
+deeds and become famous.<PAGE>He used to be in the Knights, 
+but he couldn't get famous, 
+even after many brave deeds.
+
+## POINTER 19
+<STR>(YUR)
+Yeah, unless your superior officers 
+happen to be really nice, they'll take 
+all the credit for anything you do.
+
+## POINTER 20
+<STR>(KAR)
+Why was your brother so concerned 
+about making a name for himself?
+
+## POINTER 21
+Shel
+His girlfriend's father said that 
+he wouldn't allow their marriage 
+unless he became famous.<PAGE>He told him, "The man who marries 
+my daughter must be known throughout 
+the world for his righteous deeds!"
+
+## POINTER 22
+<STR>(EST_P)
+So then, what is 
+your brother's 
+girlfriend doing now...?
+
+## POINTER 23
+Shel
+She's still waiting for him to return. Her 
+father has since passed away, so there's 
+no one left to oppose their marriage.
+
+## POINTER 24
+<STR>(KAR)
+So if your brother comes back, 
+they can get married!
+
+## POINTER 25
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 26
+<STR>(YUR)
+*Sigh* Here we go again... There's no 
+guarantee that he won't try to kill me.
+
+## POINTER 27
+Shel
+I would even be happy with just 
+some information about my brother's 
+whereabouts. His name is Clay.
+
+## POINTER 28
+<STR>(EST_P)
+Clay. Got it. 
+We'll look for him.

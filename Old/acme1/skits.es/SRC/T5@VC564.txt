@@ -1,0 +1,43 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1253218801]
+¡Sirva usted, (KAR)!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140198]
+(KAR)
+¡Muy bien, hora de atender los pedidos!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140198]
+(YUR)
+¿«Atender los pedidos»?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140198]
+(KAR)
+Ah...  Es solo que cuando
+llevo esto puesto me apetece
+hacer de camarero.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266840758]
+(RAV)
+Sabes, esa ropa t'hace parecer
+más machote de lo normal, chaval.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267190039]
+(KAR)
+¿En serio? Je...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298140198]
+(YUR)
+¿Eso crees?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266840758]
+(RAV)
+¡Asín que supongo que (KAR) será
+quien cocine la cena d'esta noche!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267190039]
+(KAR)
+¡Espera, la cena de hoy te tocaba a ti, 
+(RAV)! ¡Espera! Es decir... ¡¿Oye?!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1267190039]
+(YUR)
+Ya le has oído, (KAR).

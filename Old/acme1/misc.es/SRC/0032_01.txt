@@ -1,0 +1,376 @@
+## POINTER 74 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+¡Especialidades del día!
+Mandragosso
+Helado
+Té de amango
+Pasta con marisco
+Tarta de chocolate
+¡Pida en el mostrador! ∀
+
+## POINTER 75 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264331608]
+Hay un termómetro
+en la maceta.
+
+## POINTER 76 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Un estanque de jardín.
+Hay algo nadando dentro.
+
+## POINTER 77 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Aquí hay una buena
+selección de muestras.
+Una de gatoz, Harold, e incluso Mieu.
+
+## POINTER 78 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+La estatua de un cerdinejo.
+La descripción pone:
+«En conmemoración del centésimo aniversario.
+La cápsula del tiempo se abrirá dentro de veinte años».
+
+## POINTER 79 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Canción del colegio Nam Cobandai:
+ 
+A ti te cantamos, oh, Nam Cobandai.
+Isla de orgullo más allá de donde se pone el sol.
+Hogar de pensamiento, aprendizaje y diversión.
+Por ello a ti te cantamos, oh, Nam Cobandai.
+
+## POINTER 80 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Aquí empieza un pasillo muy largo.
+Da a varias aulas y
+a la sala de profesores.
+
+## POINTER 81 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163671]
+Hay una carta.
+Pone: «Para Asch, ♪ de Natalia ∀»
+
+## POINTER 82 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Aquí hay un buen montón de premios.
+El peluche gigante me suena de algo...
+
+## POINTER 83 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Parece que hay que golpear
+la manivela con una moneda.
+La están reparando ahora mismo.
+
+## POINTER 84 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163671]
+«Noche de festival»
+Por Naohiro Ishikawa, 3ºB.
+
+## POINTER 85 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163671]
+«Entre las nubes»
+Por Yoichi Doi, 6ºA.
+
+## POINTER 86 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163671]
+«Fuera del equilibrio»
+Por Takashi Fujiyama, 4ºC.
+
+## POINTER 87 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163671]
+«Alzarse sobre todo»
+Por Sota Hirayama, 5ºA.
+
+## POINTER 88 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163671]
+«Un largo viaje»
+Por Yuta Baba, 1ºB.
+
+## POINTER 89 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163833]
+«Buena puntería»
+Por Toshio Suzuki, 2ºC.
+
+## POINTER 90 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163671]
+«Atravesar el lateral»
+Por Nobuo Kawaguchi, 4ºA.
+
+## POINTER 91 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163671]
+«Estructura de la pared de hierro»
+Por Hitoshi Shioda, 5ºC.
+
+## POINTER 92 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Guía de Mantaic
+  
+　　　　　　　　　　　 ↑ al oasis
+　　　　　　　　　　　　　　　　　　　a la caverna de Cados →
+← a las Arenas de Kogorh
+
+## POINTER 93 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163833]
+Aquí había antes
+un cartel de «Se busca».
+
+## POINTER 94 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264331608]
+Un diario para viajeros.
+Un sitio donde los viajeros comparten información.<PAGE>
+ (Ola de calor)
+Qué... calorazo...
+
+## POINTER 95 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264331608]
+Un diario para viajeros.
+Un sitio donde los viajeros comparten información.<PAGE>
+ (Soleado)
+Hay demasiada gente
+por aquí. Será mejor
+no quedarse mucho tiempo.
+
+## POINTER 96 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264331608]
+Un diario para viajeros.
+Un sitio donde los viajeros comparten información.<PAGE>
+ (Soleado)
+Hoy hemos ido
+a nadar al oasis.
+¡Ha sido genial!
+Aunque es mejor ir de noche.
+
+## POINTER 97 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+ ¡Se busca! ¡¡Peligroso fugitivo a la fuga!!
+  
+Vestido de negro con la camisa medio desabrochada.
+Varón de pelo largo y negro.
+¡¡Si le ve, informe cuanto antes a los Caballeros Imperiales!!
+
+## POINTER 98 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264331608]
+Se requiere ayuda
+ 
+¡Se requieren trabajadores
+en la residencia del magistrado!
+Tarea: ayudar en la cocina, limpiar,
+ocuparse del jardín y otras tareas.
+150.000 gald al mes. Comida y habitación incluidos.
+Presenten su solicitud en la oficina de la residencia.
+
+## POINTER 99 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163671]
+«¡Aquí está la puerta trasera! ¡He entrado! ∀»
+Parece la letra de un hombre...
+
+## POINTER 100 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Un diario para viajeros.
+Un sitio donde los viajeros comparten información.
+<PAGE>
+(Lluvia)
+No hemos podido salir al mar
+debido al mal tiempo. Quiero
+volver cuanto antes a mi hogar,
+pero no puedo por varias razones.
+Ragou, el magistrado local, exige
+una fuerte suma de dinero por salir.
+No puedo arriesgarme sin saber
+cómo estará el tiempo en la siguiente ciudad.
+Además, ¡¿quién narices tiene tanta pasta?!
+Espero que mañana haga mejor...
+
+## POINTER 101 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264331608]
+Un diario para viajeros.
+Un sitio donde los viajeros comparten información.<PAGE>
+(Soleado)
+Esta ciudad parece muy animada.
+Dicen por ahí que los ciudadanos
+tienen que pagar muchos impuestos.
+Parece ser cosa del nuevo magistrado.
+Supongo que no me atañe.
+¡Mañana otra vez a comprar! ∀
+
+## POINTER 102 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264331608]
+Un diario para viajeros.
+Un sitio donde los viajeros comparten información.<PAGE>
+(Nublado)
+Empleo lo que me queda de vida
+en viajar por todo el mundo.
+De todo el folclore local que he oído,
+el más disparatado hasta ahora es
+el de la criatura con cuerpo de hombre
+y cabeza de vaca.
+Falta buena parte del documento,
+así que no pude leerlo entero.
+
+## POINTER 103 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+¡Hay 500 gald dentro!
+Será mejor dejarlos...
+
+## POINTER 104 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+No hay nada dentro.
+
+## POINTER 105 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+No hay nada dentro.
+
+## POINTER 106 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Hay un letrero al otro
+lado del cristal:
+«Tienda abierta en la 1ª planta.
+¡Venga a ver nuestros productos!»
+
+## POINTER 107 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264333116]
+Polos caseros
+¡Tenemos riquísimos sabores
+como atún, pulpo y calamar!
+¡O prueba otros sabores!
+
+## POINTER 108 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+¡Especialidad de la semana!
+
+Geles lotería en la tienda
+de Capua Torim.
+Nunca sabes qué te puede tocar. ☆
+
+## POINTER 109 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Un diario para viajeros.
+Un sitio donde los viajeros comparten información.<PAGE>
+(Soleado) 
+No he podido salir para Capua Nor
+en los últimos tres días debido al mal tiempo.
+Resulta frustrante cuando el tiempo aquí
+en Capua Torim ha sido una maravilla.
+Qué raro que el tiempo sea tan diferente
+cuando las dos ciudades están tan cerca.
+
+## POINTER 110 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264333289]
+Un diario para viajeros.
+Un sitio donde los viajeros comparten información.<PAGE>
+ (Nublado)
+¡¡Esos polos eran horribles!!
+¡Ese sabor a soda con atún era asqueroso!
+Es helado con sabor a soda con el interior de atún...
+¿Quién vendería algo así?
+
+## POINTER 111 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Un diario para viajero.
+Un sitio donde los viajeros comparten información.<PAGE>
+(Soleado)
+¡Esperamos que hayas disfrutado
+de Tales of Vesperia! ∀
+El Equipo Tales.
+
+¡Y también que la traducción al español
+haya sido de tu agrado!
+El equipo de Tales Translations.
+
+## POINTER 112 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Una bolsa con pescado salado.
+Asciende un extraño olor
+cada vez que se abre.
+
+## POINTER 113 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163833]
+Hay un sombrero pirata de mujer en este armario.
+Tiene un nombre escrito, aunque casi no se lee.
+¿«Pa... tty»?
+
+## POINTER 114 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Es la habitación de Kaufman.
+Puede echarnos una buena si entramos dentro.
+
+## POINTER 115 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Está cerrado.
+Debe ser una instalación de alto secreto.
+La cerradura tiene una forma peculiar.
+
+## POINTER 116 [t:1;r:1;ru:memnoch;user:memnoch;time:1296163671]
+Hay algo escrito en la parte de atrás
+de este impreso...<PAGE>
+Luke: Excelente espadachín. Difícil de tratar.
+Tear: Entrenada en artes fónicas. Usa armas arrojadizas.
+Jade: Experto en artes fónicas. Gran lancero.
+Anise: Poderosa marionetista.
+Guy: Despierto y ágil. Débil en defensa.
+Natalia: Excelente arquera. Experta en artes curativas.
+Asch: Siempre parece estar enfadado.
+
+## POINTER 117 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Es la estatua de Neeke de Samontrake.
+Se la considera la «Diosa de la Victoria» para el coliseo.
+
+## POINTER 118 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Es la mesa de Belius.
+Hay un cuaderno encima,
+pero está en blanco.
+
+## POINTER 119 [t:1;r:1;ru:memnoch;user:memnoch;time:1297534883]
+Código de conducta para los trabajadores:
+ 
+1. Obedecer toda orden del señor Cumore
+2. Obedecer a todos los guardias de servicio
+3. Todo aquel que desobedezca será castigado
+
+## POINTER 120 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Código de conducta para los trabajadores (revisado):
+ 
+1. Cuidarse y tener buena salud
+2. Dejar de trabajar si se está enfermo
+3. Descansar adecuadamente
+
+## POINTER 121 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Hay una llave viejísima.
+No parece que pueda abrir nada.
+
+## POINTER 122 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Hay algo escrito aquí...
+  
+Cecille ∀ Frings
+
+## POINTER 123 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Hay algo escrito aquí,
+pero apenas puede leerse.
+ 
+C... e... il... e ∀ Fr... ng...
+
+## POINTER 124 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Está cerrado.
+
+## POINTER 125 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Está cerrado.
+
+## POINTER 126 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Está cerrado.
+
+## POINTER 127 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Está cerrado.
+
+## POINTER 128 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Una verja muy robusta bloquea el camino.
+A menos que haya un terremoto
+no parece que se vaya a mover.
+
+## POINTER 129 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+«Privado»
+
+Acceso a la sala de control.
+Máxima seguridad obligatoria.
+En caso de emergencia, detén el blastia de color
+que está en la pared. Puede ser destruido con
+un buen golpe. 
+Aviso: Llamar al oficial después de destruirlo.
+
+## POINTER 130 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264333563]
+El agua sagrada caerá
+de los cielos cuando
+el poder de la creación
+se ofrezca a la Piedra Roja.
+
+## POINTER 131 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264333563]
+El agua sagrada volverá a los cielos
+cuando el poder de la creación
+se ofrezca a la Piedra Azul.
+
+## POINTER 132 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264333563]
+El agua sagrada caerá
+de los cielos cuando
+el poder de la creación
+se ofrezca a la Piedra Roja.
+
+## POINTER 133 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264333563]
+El agua sagrada volverá a los cielos
+cuando el poder de la creación
+se ofrezca a la Piedra Azul.
+
+## POINTER 134 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Está cerrado por fuera.
+No se puede usar como salida.
+
+## POINTER 135 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Está cerrado por dentro.
+
+## POINTER 136 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+La habitación está cerrada.
+
+## POINTER 137 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264106454]
+Está abierto.
+La casa está abandonada.
+
+## POINTER 138 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533421]
+Está cerrado, pero no con una llave, sino con algo distinto.
+Debe haber alguna máquina que quite el cierre en alguna parte.

@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251755064]
+¿(RAP) también es miembro?
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:xander;time:1261845330]
+(EST_P)
+(RAP) también es miembro
+honorífico de Gran Vesperia, ¿no?
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942870]
+(YUR)
+Claro que sí.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116135]
+(JUD)
+Pero todo aquel que se una al gremio
+ha de jurar sus leyes, ¿me equivoco?
+
+## POINTER 4 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942870]
+(KAR)
+Bueno, en su caso...
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942870]
+(YUR)
+¿De qué os preocupáis?
+¡(RAP) conoce las leyes!
+
+## POINTER 6 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942870]
+(RAP)
+¡Guau!
+
+## POINTER 7 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266114323]
+(KAR)
+Muchas veces creo estar seguro de que 
+(RAP) entiende lo que le decimos.
+
+## POINTER 8 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942870]
+(EST_P)
+Sé cómo te sientes.
+
+## POINTER 9 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942870]
+(YUR)
+Bueno, no sé yo. 
+En fin, ¿qué te parece, (RAP)?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116135]
+(JUD)
+Se acaba de ir a marcar su territorio...

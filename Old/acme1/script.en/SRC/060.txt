@@ -1,0 +1,24 @@
+## POINTER 0
+
+Are you sure you want to
+withdraw from the contest?
+You won’t get your money back.
+
+## POINTER 1
+Retire?
+Yes
+No
+
+## POINTER 2
+
+Thanks!
+Come again soon!
+
+## POINTER 3
+
+All right.
+
+## POINTER 4
+<STR>(YUR)
+We have to hurry
+to the coliseum!

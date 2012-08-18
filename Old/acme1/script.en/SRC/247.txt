@@ -1,0 +1,80 @@
+## POINTER 0
+<STR>(YUR)
+What, you're not asleep?
+
+## POINTER 1
+<STR>(KAR)
+Nah. I've been trying to think of a name for our guild.<PAGE>I'm going to think of something really cool.
+
+## POINTER 2
+<STR>(YUR)
+Sure, I can't wait.
+
+## POINTER 3
+<STR>(KAR)
+<STR>(YUR)?
+
+## POINTER 4
+<STR>(YUR)
+Hmm?
+
+## POINTER 5
+<STR>(KAR)
+I was thinking about this...we made 
+our guild without first swearing allegiance 
+to its laws, didn't we?
+
+## POINTER 6
+<STR>(YUR)
+Yeah, but did that earlier today, 
+right? So no worries.
+
+## POINTER 7
+<STR>(KAR)
+Yeah.<PAGE><STR>(YUR)?
+
+## POINTER 8
+<STR>(YUR)
+What is it?
+
+## POINTER 9
+<STR>(KAR)
+Did you just make those 
+laws up, or did you hear 
+them somewhere?
+
+## POINTER 10
+<STR>(YUR)
+They just came to me. Why, were they no good?
+
+## POINTER 11
+<STR>(KAR)
+No, not at all. It's just...those were the 
+exact same laws I'd been thinking of.<PAGE>...I'm really happy that I was able 
+to make a guild with you, <STR>(YUR).
+
+## POINTER 12
+<STR>(YUR)
+Hah hah. What a thing to say...don't get all mushy on me.
+
+## POINTER 13
+<STR>(KAR)
+Ha ha, I...oh!
+
+## POINTER 14
+<STR>(YUR)
+Wh-what now?
+
+## POINTER 15
+<STR>(KAR)
+I thought of a name!<PAGE>The Super Ultra Courageous Braves!
+
+## POINTER 16
+<STR>(YUR)
+Ha ha ha. That sounds like a name Captain 
+<STR>(KAR) would come up with, definitely. 
+Let's go with that, then.
+
+## POINTER 17
+<STR>(KAR)
+Right!

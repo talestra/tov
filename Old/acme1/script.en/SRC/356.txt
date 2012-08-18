@@ -1,0 +1,116 @@
+## POINTER 0
+<STR>(EST_P)
+Good day!
+
+## POINTER 1
+
+Ah, are you going to the Weasand of Cados?
+
+## POINTER 2
+<STR>(YUR)
+Yes, we are. Why do you ask?
+
+## POINTER 3
+
+The Imperial Knights have sealed 
+off passage through Cados.<PAGE>It's not just here--they've set up blockades 
+at all of the routes through the mountains.
+
+## POINTER 4
+<STR>(RIT)
+Blockades...? Why 
+would they...
+
+## POINTER 5
+
+I don't know all the details, but 
+I heard that it has something to do 
+with some danger in Nordopolica.
+
+## POINTER 6
+<STR>(EST_P)
+What should we do... We 
+need to get to Nordopolica 
+before the new moon!
+
+## POINTER 7
+
+I wish I could help, but they 
+wouldn't even let me through, 
+and I have a travel permit.
+
+## POINTER 8
+<STR>(KAR)
+Are you a member 
+of the Fortune's Market?
+
+## POINTER 9
+
+Yes.
+
+## POINTER 10
+<STR>(YUR)
+How'd you get 
+your permit?
+
+## POINTER 11
+<STR>(KAR)
+The empire issues travel permits to Fortune's Market 
+so that its members can travel wherever they want...at
+least, that's how it's supposed to be...
+
+## POINTER 12
+
+Right, but the Imperial Knights 
+wouldn't let me go any further.<PAGE>I'm going back to Mantaic, since there's 
+no way to get around them.
+
+## POINTER 13
+<STR>(EST_P)
+Do you think <STR>(FRE) ordered 
+the blockades?
+
+## POINTER 14
+<STR>(YUR)
+Hmmm, I couldn't say.<PAGE>Either way, we can't 
+afford to be stuck here 
+for much longer.
+
+## POINTER 15
+<STR>(JUD)
+Yes, it'll be a lot of trouble 
+if we miss the new moon.
+
+## POINTER 16
+<STR>(KAR)
+But I don't think they'd 
+let us through, even if 
+we asked nicely.
+
+## POINTER 17
+<STR>(RAV)
+Well, to be honest, we can go take a look and 
+think about how to get in... The hard part 
+will only come once we've gotten inside.
+
+## POINTER 18
+<STR>(EST_P)
+What do you mean, "once 
+we've gotten inside?"
+
+## POINTER 19
+<STR>(RAV)
+They set up blockades to make it hard 
+to get outta the mountains...gettin' 
+inside shouldn't be nearly as tough.<PAGE>I think that much 
+is safe to assume.
+
+## POINTER 20
+<STR>(RIT)
+Well then, should we go back to Mantaic 
+to do some final preparations?
+
+## POINTER 21
+<STR>(YUR)
+No, we're fine. Let's 
+go like we are.

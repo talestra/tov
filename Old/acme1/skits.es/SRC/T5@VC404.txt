@@ -1,0 +1,32 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253812085]
+Mala estrella
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1267198960]
+(YUR)
+¿No se supone que el Señor de las Llanuras
+pasta siempre por aquí?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266669760]
+(EST_P)
+Alguien en el fuerte dijo que solo
+aparece durante la época de lluvias.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314798]
+(YUR)
+Vaya. Así que cambia sus
+hábitos según la estación.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112429]
+(YUR)
+Imagino que hemos venido
+al fuerte en mala época.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314798]
+(EST_P)
+Eso parece. Normalmente el fuerte
+mantiene las puertas abiertas.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314798]
+(YUR)
+Pero ahora no, claro. Madre, de verdad que
+parece que haya nacido con mala estrella...

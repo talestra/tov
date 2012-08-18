@@ -1,0 +1,73 @@
+## POINTER 0 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290847328]
+<STR>(YUR)
+<VOICE>(VA030_063)Y esta es la séptima.
+
+## POINTER 1 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290847328]
+<STR>(RAV)
+<VOICE>(VA030_064)Pos sip.
+
+## POINTER 2 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290847328]
+<STR>(KAR)
+<VOICE>(VA030_065)¡Por fin las tenemos todas!
+¿Qué os pasa, tíos?
+¿No es emocionante?
+
+## POINTER 3 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290847328]
+<STR>(YUR)
+<VOICE>(VA030_066)Ni que fuesen tesoros
+perdidos o algo así.
+
+## POINTER 4 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290847328]
+<STR>(KAR)
+<VOICE>(VA030_067)Ya, ¡pero son reliquias antiguas!
+Tienen que tener algo guay
+escondido dentro, ¿no?
+
+## POINTER 5 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290847328]
+<STR>(RAV)
+<VOICE>(VA030_068)A mí no me dan
+esa sensación.
+
+## POINTER 6 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1294187482]
+<STR>(EST_P)
+<VOICE>(VA030_069)Tal vez haya una clave
+para desatar su poder.
+
+## POINTER 7 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1294187482]
+<STR>(YUR)
+<VOICE>(VA030_070)Quizá. Lo que quiero
+saber es por qué
+las escondieron.<PAGE><VOICE>(VA030_071)¿Por qué las trataron de forma
+tan distinta a la Dein Nomos?
+
+## POINTER 8 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290847328]
+<STR>(EST_P)
+<VOICE>(VA030_072)¿Crees que tienen
+algo malo?
+
+## POINTER 9 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1294187482]
+<STR>(YUR)
+<VOICE>(VA030_073)Ni idea. En fin,
+al menos ya sabemos
+que las tenemos todas.<PAGE><VOICE>(VA030_074)Ahora solo nos queda
+dárselas a <STR>(FRE) y
+que él se coma el marrón.
+
+## POINTER 10 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1294187482]
+<STR>(RIT)
+<VOICE>(VA030_075)Tu personalidad es la leche.
+
+## POINTER 11 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1294187482]
+<STR>(YUR)
+<VOICE>(VA030_076)Ja, ja. ¡A buenas
+horas te das cuenta!
+
+## POINTER 12 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1294187482]
+<STR>(JUD)
+<VOICE>(VA030_077)No hay duda de que confiarle
+las armas perdidas a él
+es lo mejor que podemos hacer.
+
+## POINTER 13 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290847328]
+<STR>(YUR)
+<VOICE>(VA030_078)Exacto.<PAGE><VOICE>(VA030_079)Siguiente parada, Aurnion.

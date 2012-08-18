@@ -1,0 +1,136 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183812]
+Don Whitehorse
+<VOICE>(VS36_128)Aguanta, chaval.
+Ahora eres el jefe, ¿no?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298481786]
+<STR>(KAR)
+<VOICE>(VS36_129)Pero, aun así, no puedo
+hacer nada por mí mismo.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183812]
+Don Whitehorse
+<VOICE>(VS36_130)Pues pide ayuda.
+Pa eso están los amigos, ¿verdad?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298481786]
+<STR>(KAR)
+<VOICE>(VS36_131)¡Don!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183812]
+Don Whitehorse
+<VOICE>(VS36_132)Trátalos bien y
+siempre estarán allí
+cuando los necesites.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183812]
+<STR>(KAR)
+<VOICE>(VS36_133)...
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183812]
+Harry
+<VOICE>(VS36_134)Yo iré contigo...
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282551065]
+<STR>(RAV)
+<VOICE>(VS36_135)¡Y una leche!
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183812]
+<STR>(RAV)
+<VOICE>(VS36_136)Bueno, viejo. Ha sido divertido.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183812]
+Don Whitehorse
+<VOICE>(VS36_137)<STR>(RAV), más te vale
+pillar a Yeager por mí.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282551065]
+<STR>(RAV)
+<VOICE>(VS36_138)Ja, ja. Esa es una carga
+mu pesá p'alguien como yo.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183812]
+Don Whitehorse
+<VOICE>(VS36_139)No puedo pedírselo a nadie más.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281183812]
+<STR>(RAV)
+<VOICE>(VS36_140)Whitehorse...
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1282551065]
+
+<VOICE>(VS36_141)Estamos muy agradecidos
+por todo lo que nos ha hecho
+tu querido nieto. En serio.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284646383]
+Don Whitehorse
+<VOICE>(VS36_142)El chaval ha hecho un desastre.
+Puede que sea mi nieto idiota, pero
+también es todo un miembro de la Unión.<PAGE>
+<VOICE>(VS36_143)Y le toca al líder cargar con
+la responsabilidad de los errores
+de su gente. Eso dicen las leyes.<PAGE>
+<VOICE>(VS36_144)Es lo que me toca. Dejad que
+mi cabeza compense la pérdida de Belius.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281186468]
+<STR>(EST_P)
+<VOICE>(VS36_145)Don...
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281186468]
+<STR>(RIT)
+<VOICE>(VS36_146)Idiota. Estos gremios...
+Están todos chiflados.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298481786]
+Don Whitehorse
+<VOICE>(VS36_147)Bueno... ¿quién va a ser mi segundo?
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281186468]
+<STR>(YUR)
+<VOICE>(VS36_148)Será todo un honor.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281186468]
+Don Whitehorse
+<VOICE>(VS36_149)Parece que estás haciendo un
+trabajo que nadie quiere hacer.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281186468]
+<STR>(YUR)
+<VOICE>(VS36_150)Tú igual.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284646383]
+Don Whitehorse
+<VOICE>(VS36_151)Je. Y que lo digas.<PAGE>
+<VOICE>(VS36_152)<STR>(YUR). Me esperaba verte
+llegar lejos. Te guardaré
+un sitio en el infierno. 
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281186468]
+<STR>(YUR)
+<VOICE>(VS36_153)No creo que me dejen
+entrar al infierno
+al que vas a ir.
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284646383]
+Don Whitehorse
+<VOICE>(VS36_154)Ja. No me olvidaré
+de esa actitud, chaval.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281186468]
+<STR>(YUR)
+<VOICE>(VS36_155)Y yo no olvidaré tu
+determinación, Don Whitehorse.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281186468]
+
+<VOICE>(VS36_156)¡Don!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298481786]
+Don Whitehorse
+<VOICE>(VS36_157)¡Escuchad! ¡A partir de ahora tendréis
+que valeros por vosotros mismos!<PAGE>
+<VOICE>(VS36_158)¡Se acerca una nueva era,
+así que salid ahí afuera
+y hacedla vuestra!

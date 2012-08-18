@@ -1,0 +1,86 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(KAR)
+<VOICE>(VS32_087)¿Quién iba a decir que este pueblo
+podía llegar a estar tan animado?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283425690]
+<STR>(JUD)
+<VOICE>(VS32_088)Sí. Es todo un alivio saber
+que la gente de aquí ha
+recuperado su libertad.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(EST_P)
+<VOICE>(VS32_089)Todavía me sorprende que 
+<STR>(FRE) viniera aquí.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(KAR)
+<VOICE>(VS32_090)No pudo ser más oportuno.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(EST_P)
+<VOICE>(VS32_091)Pero puede que Cumore
+vuelva a dar problemas
+en otro lugar.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(KAR)
+<VOICE>(VS32_093)Ya verás. <STR>(FRE) lo meterá
+entre rejas en menos que canta
+un gallo, ¿verdad, <STR>(YUR)?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409485]
+<STR>(YUR)
+<VOICE>(VS32_094)Oh... Sí, claro.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409485]
+<STR>(KAR)
+<VOICE>(VS32_095)¿<STR>(YUR)?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(KAR)
+<VOICE>(VS32_096)<STR>(RAV), vas a pillar
+un catarro.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409485]
+<STR>(JUD)
+<VOICE>(VS32_097)Se puso a jugar con los niños.
+Parecía que tenía doce años.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(EST_P)
+<VOICE>(VS32_098)Bienvenidos.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(RIT)
+<VOICE>(VS32_099)Aún siguen dándole por ahí.
+No era capaz de seguirles el ritmo.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(KAR)
+<VOICE>(VS32_100)Pues a mí me daba la impresión
+de que te lo pasabas en grande.
+Sí que bailas bien, <STR>(RIT).
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(RIT)
+<VOICE>(VS32_101)Cierra el pico.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298409485]
+<STR>(RIT)
+<VOICE>(VS32_102)¿Eh? ¿El viejales
+ya se ha dormido?
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(EST_P)
+<VOICE>(VS32_103)Je. Con qué rapidez.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(EST_P)
+<VOICE>(VS32_104)¿<STR>(YUR)?
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280494878]
+<STR>(YUR)
+<VOICE>(VS32_105)Tan solo voy a hablar un poco
+con <STR>(FRE). Ahora vuelvo.

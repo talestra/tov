@@ -1,0 +1,49 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025554]
+<VOICE>(VA080_001)Si equipas armas que tengan habilidades 
+selladas en su interior,<PAGE><VOICE>
+(VA080_002)las habilidades se guardarán
+dentro de tu bodhi blastia cuando
+equipes una de estas armas.<PAGE><VOICE>
+(VA080_003)Si tienes un arma equipada,
+podrás usar su habilidad sellada
+siempre que quieras.<PAGE><VOICE>
+(VA080_004)No obstante, cuando quites el arma
+tendrás que asignar la habilidad
+manualmente si quieres usarla.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025554]
+<VOICE>(VA080_005)Cada habilidad pertenece
+a una de las cuatro categorías
+existentes.<PAGE><VOICE>
+(VA080_006)Cuando asignas varias habilidades
+a un arma, según la categoría
+a la que correspondan,
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025554]
+<VOICE>(VA080_007)aparecerá un símbolo especial en
+el centro de tu bodhi blastia.<PAGE><VOICE>
+(VA080_008)Si, por ejemplo, asignas muchas
+habilidades de ataque a un arma,
+verás un símbolo llamado fleck.<PAGE><VOICE>
+(VA080_009)Este símbolo te indica
+que la fuerza de los ataques
+físicos ha aumentado.<PAGE><VOICE>
+(VA080_010)Prueba todas las combinaciones 
+que se te ocurran para descubrir
+lo que hacen.<PAGE><VOICE>
+(VA080_011)Me temo que se nos haría de noche
+antes de poder explicártelas todas.<PAGE><VOICE>
+(VA080_012)¿Lo has entendido todo?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025554]
+<VOICE>(VA080_013)Aprendes rápido.<PAGE><VOICE>
+(VA080_014)Puedes leer toda la
+información en el libro
+de esta señorita.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025554]
+<VOICE>(VA080_015)Mmm, la verdad es
+que es bastante difícil.<PAGE><VOICE>
+(VA080_016)Puedes leer toda la
+información en el libro
+de la señorita.

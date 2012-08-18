@@ -1,0 +1,171 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298484664]
+
+*Glup, glup* He vuelto a la vida...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279715294]
+
+Oh, nos ha venido de perlas.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279715294]
+
+¡Muchísimas gracias!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279715294]
+
+Estamos vivos gracias
+a vosotros. ¡Sois
+nuestros salvadores!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279715294]
+<STR>(EST_P)
+Por favor, no ha sido nada...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485055]
+
+Uff... ¿Eso es... todo lo que tenéis?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279715294]
+
+Ojalá tuvieseis más...
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279715294]
+
+Pero... gracias
+igualmente.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279715294]
+
+Gracias por
+salvarnos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+<STR>(EST_P)
+N-No, no ha sido nada...
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279715294]
+
+¿Dó-dónde está el agua?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027297]
+
+¿S-Solo tenéis eso?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+
+Oh, lo siento.
+Gracias a vosotros
+no hemos muerto aquí.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027297]
+
+¿En serio no tenéis más agua?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279715294]
+
+Cariño, por favor...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+<STR>(YUR)
+Ya habrá tiempo para relajarse cuando
+os llevemos de vuelta al ciudad.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279715294]
+
+Me gustaría agradecéroslo, pero me temo que
+no llevo nada encima que pueda daros...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+<STR>(YUR)
+Oh, por favor.
+No necesitamos nada de eso.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279715294]
+
+Pero no podemos
+dejarlo así.<PAGE>Por favor, venid a Mantaic y os pagaré
+por lo que habéis hecho por nosotros.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+<STR>(RIT)
+¿Mantaic?
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279716878]
+<STR>(JUD)
+¿Sois los padres
+de Alph y Layla?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+
+¡S-Sí, sí, lo somos!
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279716878]
+
+¿Visteis a nuestros niños
+en Mantaic?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279716878]
+<STR>(EST_P)
+Sí, los conocimos allí.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1281296497]
+<STR>(KAR)
+Estaban muy preocupados
+por vosotros.
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279716878]
+<STR>(JUD)
+Incluso decían de ir 
+al desierto a buscaros.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+
+Oh... Esto es terrible.
+Tenemos que volver con ellos.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+<STR>(JUD)
+No os precipitéis.
+¿Creéis que podéis volver solos?
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279716878]
+
+Bueno, nosotros... la verdad...
+No, supongo que no...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+<STR>(RAV)
+Calmaos, por ahora.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+
+¿Un pájaro es este desierto?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+<STR>(KAR)
+Ha sonado cerca...
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279716878]
+<STR>(RAV)
+Parece qu'está ahí delante.
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279716878]
+<STR>(YUR)
+Por fin vamos a encontrarnos con él. Ya era hora.
+Me estaba derritiendo con este calorazo.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+<STR>(EST_P)
+Vengan ustedes también.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408565]
+
+S-Sí...
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279716878]
+<STR>(YUR)
+Aseguraos de mantener las distancias
+por si acabamos luchando.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408573]
+
+D-De acuerdo.

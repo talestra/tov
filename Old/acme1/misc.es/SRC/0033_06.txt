@@ -1,0 +1,72 @@
+## POINTER 929 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Islas del norte, Yurzorea
+
+## POINTER 930 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Islas del norte, Yurzorea
+
+## POINTER 931 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Islas del norte, Yurzorea
+
+## POINTER 932 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Islas al norte de Yurzorea.
+
+## POINTER 936 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Isla de Nam Cobandai
+
+## POINTER 937 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Isla de Nam Cobandai
+
+## POINTER 938 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Isla de Nam Cobandai
+
+## POINTER 939 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Isla de Nam Cobandai
+
+## POINTER 940 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262482136]
+Una isla con una única ciudad situada en el límite
+del mapamundi. La forma del bosque resulta familiar...
+
+## POINTER 944 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Terca Lumireis
+
+## POINTER 945 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Terca Lumireis
+
+## POINTER 946 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Terca Lumireis
+
+## POINTER 947 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Terca Lumireis
+
+## POINTER 948 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+Situado en el centro del mundo.
+
+## POINTER 952 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+El océano interior
+
+## POINTER 953 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+El océano interior
+
+## POINTER 954 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+El océano interior
+
+## POINTER 955 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+El océano interior
+
+## POINTER 956 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+El océano rodeado por los seis continentes.
+
+## POINTER 960 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+El océano exterior
+
+## POINTER 961 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+El océano exterior
+
+## POINTER 962 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+El océano exterior
+
+## POINTER 963 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257603706]
+El océano exterior
+
+## POINTER 964 [t:1;r:1;ru:memnoch;user:memnoch;time:1297534536]
+El océano que rodea los seis continentes.

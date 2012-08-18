@@ -1,0 +1,195 @@
+## POINTER 0
+Markham
+That was fast. Have 
+you found it already?
+
+## POINTER 1
+<STR>(KAR)
+No, um... We actually didn't 
+see it down there...
+
+## POINTER 2
+Markham
+...So then, someone else 
+must have run off with 
+it... Oh dear...
+
+## POINTER 3
+Joshua
+Come on Mark, keep your chin up.
+
+## POINTER 4
+<STR>(KAR)
+...We're um, really sorry...
+
+## POINTER 5
+Markham
+No need to apologize... If it's anyone's 
+fault, it's mine for leaving 
+it there in the first place.
+
+## POINTER 6
+<STR>(EST_P)
+…………
+
+## POINTER 7
+<STR>(KAR)
+Um... We could look a little 
+more if you'd like...
+
+## POINTER 8
+<STR>(RAV)
+Whoa, hold your horses, tiger.
+
+## POINTER 9
+<STR>(RIT)
+There might just be a clue 
+or two that we missed...
+
+## POINTER 10
+<STR>(RAV)
+Not you too, <STR>(RIT) Chiquita.
+
+## POINTER 11
+<STR>(RIT)
+I'm sorry I said you were 
+talking nonsense earlier.<PAGE>I didn't realize your 
+shovel really meant 
+that much to you.
+
+## POINTER 12
+<STR>(YUR)
+Do you really think there'll be 
+some sort of clue down there...?
+
+## POINTER 13
+<STR>(RAV)
+Um, hello. That's what I'm sayin.
+
+## POINTER 14
+<STR>(YUR)
+...On the other hand, there's no 
+guarantee we'll come up empty-handed 
+if we take another look.
+
+## POINTER 15
+<STR>(RAV)
+Now, hold on...
+
+## POINTER 16
+<STR>(JUD)
+Well I suppose that 
+chance is good enough 
+for me. I'm in.
+
+## POINTER 17
+<STR>(EST_P)
+I-I'll come along too...
+
+## POINTER 18
+Joshua
+Oh, Mark. Mark, did you hear? 
+These people are going 
+to continue the search.
+
+## POINTER 19
+<STR>(KAR)
+We will have to nudge our payment up 
+just a touch, in exchange, though.♪
+
+## POINTER 20
+<STR>(EST_P)
+<STR>(KAR) doesn't miss a beat, does he?
+
+## POINTER 21
+Markham
+Thank you...but I'm afraid your willingness 
+to help is more than enough.
+
+## POINTER 22
+Joshua
+But Mark... 
+Why?
+
+## POINTER 23
+Markham
+I was pleasantly surprised to find 
+people who understood just how important 
+that shovel was to me. <PAGE>And in the guilds, when 
+a job's been done, that's 
+the end of it.<PAGE>We in Ruins' Gate take no exception to that rule.
+
+## POINTER 24
+Joshua
+Yeah...
+
+## POINTER 25
+Markham
+You gave it your best shot. I've got 
+no trouble paying you for your time.
+
+## POINTER 26
+<STR>(KAR)
+Really...?
+
+## POINTER 27
+Markham
+It's only natural.
+
+## POINTER 28
+Markham
+I'll have to bid farewell to my old 
+friend, and go find myself a new one.
+
+## POINTER 29
+Joshua
+That's it, that's the ticket, Mark. 
+Well then, we should be moving on...
+
+## POINTER 30
+<STR>(EST_P)
+Oh, wait a moment... Are 
+you familiar with a 
+Mr. or Miss Harmfall?
+
+## POINTER 31
+Markham
+Harmfall...<PAGE>...You mean MY Harmfall?
+
+## POINTER 32
+<STR>(KAR)
+Your...?
+
+## POINTER 33
+<STR>(EST_P)
+Maybe you misunderstood me...
+
+## POINTER 34
+Markham
+Harmfall! So 
+you were okay 
+after all...
+
+## POINTER 35
+<STR>(KAR)
+Huh...?
+
+## POINTER 36
+<STR>(YUR)
+Hold on...you don't mean...
+
+## POINTER 37
+Joshua
+Yes, this is the Harmfall, a 
+legendary shovel that's been in 
+his family for generations.<PAGE>Oh, luck was with us today.
+
+## POINTER 38
+<STR>(KAR)
+So then, that name written 
+on the handle is the 
+shovel's name?
+
+## POINTER 39
+<STR>(RIT)
+...I guess.

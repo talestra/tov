@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251888245]
+Los krityanos
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925068]
+(KAR)
+Entonces... ¿Myorzo está por aquí?
+
+## POINTER 2 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925068]
+(EST_P)
+Quién sabe.
+
+## POINTER 3 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925068]
+(RIT)
+Tengo el presentimiento de que
+no va a ser fácil de encontrar.
+
+## POINTER 4 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267434337]
+(RAV)
+No nos hemos encontrao con naide que hubiera oído
+hablar siquiera d'una ciudá llamada Myorzo.
+
+## POINTER 5 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267434337]
+(YUR)
+Cabría esperar ver algo más de actividad en este
+sitio si se supiera que hay una ciudad por aquí.
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266235802]
+(RIT)
+Aunque puede que eso se deba
+a la dificultad de los caminos.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297633199]
+(KAR)
+Jo... ¿Por qué tenían los krityanos que ir y
+construir una ciudad en un lugar como este?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297633199]
+(YUR)
+Probablemente para evitar miradas indiscretas.
+
+## POINTER 9 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267434337]
+(RAV)
+Tonces tendremos que comprobarlo nosotros
+mismos pa acabar de estar seguros.

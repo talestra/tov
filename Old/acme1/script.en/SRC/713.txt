@@ -1,0 +1,116 @@
+## POINTER 0
+
+I see...so the Chief and the others 
+left town this morning.
+
+## POINTER 1
+
+I'm not sure if they left the town, but 
+they did spend the night here last night,<PAGE>and I'm fairly sure that their 
+leader was your Chief.
+
+## POINTER 2
+
+I see.
+
+## POINTER 3
+<STR>(KAR)
+M-mister, who was that man just now?
+
+## POINTER 4
+
+Oh, he said something about being a member of 
+a guild called the Hunting Blades, I believe.<PAGE>It seems he got separated from the rest of his guild, though.
+
+## POINTER 5
+<STR>(KAR)
+D-did Nan stay here 
+last night?!
+
+## POINTER 6
+
+Nan?
+
+## POINTER 7
+<STR>(YUR)
+Chill out, <STR>(KAR). You can't 
+expect him to know that.
+
+## POINTER 8
+<STR>(JUD)
+Sir, members of that guild were 
+staying in this inn, correct?
+
+## POINTER 9
+
+Yeah, they were here until early this morning.
+
+## POINTER 10
+<STR>(KAR)
+W-was there a girl with brown 
+hair travelling with them?
+
+## POINTER 11
+
+Actually, I seem to remember someone like that, 
+yes... She looked like she'd be injured, somehow.
+
+## POINTER 12
+<STR>(KAR)
+That must be her wounds from 
+fighting with us... Oh no...
+
+## POINTER 13
+<STR>(YUR)
+You don't know that for 
+sure. Those guys get into 
+fights all the time.
+
+## POINTER 14
+<STR>(RAV)
+Hey <STR>(YUR), ya think we might be
+here fer the night?<PAGE>Looks like the kid's a mess. Some relaxation'd 
+be good fer his nerves.
+
+## POINTER 15
+<STR>(RIT)
+You're sure it's not just that you're tired and want to rest?
+
+## POINTER 16
+<STR>(RAV)
+Well, there is that, too...
+
+## POINTER 17
+<STR>(YUR)
+Hmmm...
+
+## POINTER 18
+Stay at the inn?
+Yes
+No
+
+## POINTER 19
+<STR>(YUR)
+Good idea. Let's get some rest.
+
+## POINTER 20
+<STR>(RAV)
+Well, you said it!
+
+## POINTER 21
+<STR>(YUR)
+We don't really have time to 
+be lounging around in a place 
+like this. Right, <STR>(KAR)?
+
+## POINTER 22
+<STR>(KAR)
+Y-yeah...
+
+## POINTER 23
+<STR>(YUR)
+You heard him, old man.
+
+## POINTER 24
+<STR>(RAV)
+Oh, too bad...

@@ -1,0 +1,77 @@
+## POINTER 0
+<STR>(JUD)
+Do you have a dress for a
+girl that will make her look 
+extremely cute?
+
+## POINTER 1
+
+Extremely cute!?
+Like something for a date?
+
+## POINTER 2
+<STR>(JUD)
+Yeah, that's 
+right. So...?
+
+## POINTER 3
+
+Let's see... Ummm...you're 
+a boy, am I right?
+
+## POINTER 4
+<STR>(KAR)
+Well, I don't look 
+like a girl, do I?
+
+## POINTER 5
+
+Ah, well... Wait, why are 
+you getting mad at me?<PAGE>Anyway, I don't carry 
+any clothing for 
+young girls.
+
+## POINTER 6
+<STR>(KAR)
+He says he doesn't have 
+anything. Too bad!
+
+## POINTER 7
+
+Ah, hold on...
+
+## POINTER 8
+<STR>(KAR)
+Huh...?
+
+## POINTER 9
+
+If you brought me a soft tail, basilisk 
+scale and a small bird feather, 
+I could make you something nice.
+
+## POINTER 10
+
+You should be able to get all of the items 
+from monsters on the outskirts of the city.
+
+## POINTER 11
+<STR>(JUD)
+All right, let's go.
+
+## POINTER 12
+<STR>(KAR)
+Do we really have to do 
+all of this? It seems like 
+so much trouble...
+
+## POINTER 13
+<STR>(YUR)
+Captain <STR>(KAR), you wouldn't have 
+us abandon your plan, would you?
+
+## POINTER 14
+<STR>(KAR)
+No... I mean, of course 
+not, but...<PAGE>Argh, if only <STR>(RIT) were 
+here right now...

@@ -1,0 +1,75 @@
+## POINTER 0
+<STR>(YUR)
+Hey old man, you can feel free to 
+go on ahead to Nordopolica.
+
+## POINTER 1
+<STR>(RAV)
+Hey there, young'un. What, you 
+wanna get rid of me so soon?
+
+## POINTER 2
+<STR>(YUR)
+Wrong. I just wouldn't want you to miss 
+the new moon and your chance to deliver 
+the letter all on our account.
+
+## POINTER 3
+<STR>(RAV)
+Honestly, I could do fine 
+without your concern.
+
+## POINTER 4
+<STR>(YUR)
+Wrong again.<PAGE>If Brave Vesperia gets in the way 
+of Altosk's work, we'll be apologizing 
+to the Don for an eternity.
+
+## POINTER 5
+<STR>(RAV)
+What? You're too young to bother 
+yourself with such fluff.
+
+## POINTER 6
+<STR>(YUR)
+It's a matter of Brave Vesperia being 
+trustworthy. You see what I mean?
+
+## POINTER 7
+<STR>(RAV)
+We've still got time 
+left until the new moon. 
+We'll be fine.
+
+## POINTER 8
+<STR>(YUR)
+You sure...?
+
+## POINTER 9
+<STR>(RAV)
+Anyway, I ain't about to go back through 
+the desert and that cave myself!<PAGE>If I got killed by some monster 
+on the way there, not only would 
+the letter not get delivered,<PAGE>but Brave Vesperia certainly wouldn't 
+look very trustworthy to potential 
+clients then, would they?
+
+## POINTER 10
+<STR>(YUR)
+In that case, we'd collect your 
+bones and the letter, and deliver 
+them as promised.
+
+## POINTER 11
+<STR>(RAV)
+Oh, how kind of...<PAGE>...Wait, hey!
+
+## POINTER 12
+<STR>(YUR)
+Anyway, just so long as you won't 
+go blaming me if you don't manage 
+to deliver it on time.
+
+## POINTER 13
+<STR>(RAV)
+No problem!♪

@@ -1,0 +1,185 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_001)Eh, eso de ahí es...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_002)Je, me acuerdo de cuando <STR>(EST_P)
+comió aquel fruto de nía. Menuda
+cara que puso.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_003)Ahora que lo pienso, ya ha pasado
+un buen tiempo desde la última vez
+que estuvimos solos, ¿eh, compi?<PAGE><VOICE>(VS485_004)No me siento yo mismo, ni siquiera
+al luchar... Es como si de repente
+me sintiera cansado.<PAGE><VOICE>(VS485_005)¿Te importaría vigilar
+un rato, <STR>(RAP)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115663]
+<STR>(RAP)
+<VOICE>(VS485_006)¡Guau!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_007)...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280680]
+<VOICE>(VS485_008)<STR>(YUR), serás...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_009)¿...?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280680]
+<VOICE>(VS485_010)¡¡IDIOTAAAA!!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_011)¡¿Ein?!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551412]
+<STR>(YUR)
+<VOICE>(VS485_012)Pero ¿qué...?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_013)¿Qué? ¡¿<STR>(KAR)?!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1284386864]
+<STR>(KAR)
+<VOICE>(VS485_014)¡Eres un mierda
+descerebrado!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_015)¡Oye, quieto parado!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280645]
+<STR>(KAR)
+<VOICE>(VS485_016)¡¿Intentas ir en plan lobo
+solitario o es que eres lelo?!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_017)¿Lobo solitario?... ¡Espera, yo...!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(RIT)
+<VOICE>(VS485_018)Ahórrate las excusas para luego.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_019)¡¿Eh?!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280645]
+<STR>(RIT)
+<VOICE>(VS485_020)¡Ahora date por muerto!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280645]
+<STR>(YUR)
+<VOICE>(VS485_021)¡Aaaaaaah!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(RAV)
+<VOICE>(VS485_022)Buenas, cariñito. ¿La has palmao?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_023)Puede...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(JUD)
+<VOICE>(VS485_024)Bueno, parece que estás
+despierto. Qué detalle.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280645]
+<STR>(YUR)
+<VOICE>(VS485_025)Vaya, <STR>(RAP). 
+Y eso que te he dicho
+que te quedaras vigilando.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280645]
+<STR>(JUD)
+<VOICE>(VS485_026)Nos ha traído derechos hasta ti,
+como el buen chico que es.<PAGE><VOICE>(VS485_027)Es muy listo, ¿sabes?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280645]
+<STR>(RIT)
+<VOICE>(VS485_028)Sí, nos ha dicho que si veníamos por aquí, nos
+encontraríamos con el cenutrio más grande del mundo.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551393]
+<STR>(YUR)
+<VOICE>(VS485_029)Pero ¿os dais cuenta de lo que ocurre aquí?<PAGE><VOICE>(VS485_030)¿En serio entendéis
+lo que tiene que pasar
+después de esto?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(KAR)
+<VOICE>(VS485_031)¡Aquí el único que no
+lo entiende eres tú!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280645]
+<STR>(YUR)
+<VOICE>(VS485_032)<STR>(KAR)...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280645]
+<STR>(KAR)
+<VOICE>(VS485_033)No puedes... ¡No puedes
+hacer esto tú solo, <STR>(YUR)!
+¡Esto no!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(RIT)
+<VOICE>(VS485_034)¿Qué pretendes demostrar?
+¿Hasta dónde creías que ibas
+a llegar sin nosotros?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280645]
+<STR>(RAV)
+<VOICE>(VS485_035)Lo que quieren decir es<PAGE><VOICE>(VS485_036)que no es justo que te quedes
+tú con toa la diversión y la gloria.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(JUD)
+<VOICE>(VS485_037)¿Tanto te cuesta
+confiar un poquito
+más en nosotros?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(KAR)
+<VOICE>(VS485_038)¡Sí! Es decir, ¡somos tus amigos!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(YUR)
+<VOICE>(VS485_039)Me habéis pillado, chicos.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1287280645]
+<STR>(YUR)
+<VOICE>(VS485_040)Pues vale. Estamos
+todos juntos en esto.
+Hasta el final.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(KAR)
+<VOICE>(VS485_041)¡Claro!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(RIT)
+<VOICE>(VS485_042)Mm, ajá.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(RAP)
+<VOICE>(VS485_043)¡Guau!
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(RAV)
+<VOICE>(VS485_044)¡Pos vamos a ello!
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:xander;time:1284364543]
+<STR>(JUD)
+<VOICE>(VS485_045)En cuanto salgamos del
+bosque tendremos la
+capital justo enfrente.

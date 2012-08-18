@@ -1,0 +1,85 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS17_039)That water is...floating?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS17_040)It looks like that blastia is causing it.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS17_041)And probably this strange feeling as well...
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS17_042)...Huh? He's similar to the ones 
+at Ehmead Hill and Capua Nor.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS17_043)Is it broken...?
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS17_044)When a blastia breaks, it loses 
+its ability to take in aer. There's 
+no way it would get like this.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS17_045)So... What's going on...?
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS17_046)I don't know... What could 
+he be trying to do?
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS17_047)W-Was that a monster?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS17_048)M-m-monster...!
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS17_049)Take it easy--you're not 
+feeling well. And there aren't 
+any doctors around here.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS17_050)Huh...? 
+But... But I...
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS17_051)Uaaaah...!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS17_052)The barrier's gonna fail...!
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS17_053)Don't worry, that's a reverse barrier.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS17_054)Reverse...barrier...?
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS17_055)It's a powerful barrier for holding 
+monsters. He won't get out 
+of there any time soon.<PAGE><VOICE>(VS17_056)But, the aer here. 
+This isn't normal.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS17_057)I've got a bad feeling about this...
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS17_058)It's starting to disappear...!

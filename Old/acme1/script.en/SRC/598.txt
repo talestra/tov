@@ -1,0 +1,111 @@
+## POINTER 0
+
+Well, if it isn't my favorite 
+guild. You guys have been 
+keeping busy lately!
+
+## POINTER 1
+
+You're bound to start getting 
+offers on your own before 
+long, I'd wager.<PAGE>Here to find a job?
+
+## POINTER 2
+Accept job?
+Accept job
+Decline offer
+
+## POINTER 3
+
+Well, whenever you're in need of 
+work, feel free to stop by. I 
+should be able to hook you up.<PAGE>If you can manage to get 
+jobs without our help, 
+more power to you!
+
+## POINTER 4
+
+Well, how does this sound?
+
+## POINTER 5
+<STR>(KAR)
+...I've forgotten something terribly 
+important. Please go and fetch it. 
+-Markham of Ruins' Gate
+
+## POINTER 6
+<STR>(JUD)
+An absent-minded client, hmm?
+
+## POINTER 7
+<STR>(YUR)
+Seriously, can't he just 
+go get his own stuff?
+
+## POINTER 8
+<STR>(EST_P)
+There must be some sort of 
+extenuating circumstances.
+
+## POINTER 9
+<STR>(KAR)
+Yeah, there's gotta be. Plus, 
+this would be an official job.
+
+## POINTER 10
+<STR>(RAV)
+A job request from Ruins' Gate... 
+They were the ones behind 
+that trouble at the Coliseum...
+
+## POINTER 11
+<STR>(JUD)
+We fell completely 
+for Yeager's act.
+
+## POINTER 12
+<STR>(YUR)
+Don't remind me about 
+stuff like that, old man.
+
+## POINTER 13
+<STR>(EST_P)
+But we defeated 
+Yeager, so...
+
+## POINTER 14
+<STR>(KAR)
+So things should 
+be okay now, right?
+
+## POINTER 15
+<STR>(YUR)
+...I hope so.
+
+## POINTER 16
+
+Got your game plan set? 
+Payment's set at 5500
+Gald. How 'bout it?
+
+## POINTER 17
+
+If I had to put money on it, 
+I'd say any Ruins' Gate people 
+would be at Union HQ. <PAGE>They'll fill you in 
+on the nitty-gritty.
+
+## POINTER 18
+<STR>(KAR)
+Got it!
+
+## POINTER 19
+
+I see. Well, if you feel like 
+doing some work, let me know.
+
+## POINTER 20
+
+Oh, the job I mentioned last 
+time is still open. Would 
+you like to take it?

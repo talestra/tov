@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251837606]
+Los padres
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403536]
+(EST_P)
+Los padres de Alph y Layla 
+no aparecen por ninguna parte.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119248]
+(RAV)
+Y con un desierto tan brutal como este,
+no deben d'estar llevándolo demasiao bien.
+
+## POINTER 3 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403536]
+(RIT)
+Gracias, viejales. Este desierto infernal
+todavía no era lo bastante amenazante.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119248]
+(KAR)
+¿Cómo puede Cumore abandonar a gente así
+solo porque le ponían nervioso?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119248]
+(YUR)
+Ya te digo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119261]
+(YUR)
+Encontremos a los padres de esos niños
+antes de que se nos agoten las fuerzas.
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403536]
+(EST_P)
+Cierto.

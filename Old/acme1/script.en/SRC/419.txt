@@ -1,0 +1,57 @@
+## POINTER 0
+<STR>(EST_P)
+Everyone, take cover!
+
+## POINTER 1
+<STR>(YUR)
+Is everyone okay...?
+
+## POINTER 2
+<STR>(KAR)
+I'll live...
+
+## POINTER 3
+<STR>(RIT)
+This time the old man looks 
+a little worse for wear.
+
+## POINTER 4
+<STR>(YUR)
+Hey old man, wanna sit 
+this one out? We can 
+go on ahead.
+
+## POINTER 5
+<STR>(RAV)
+If you leave me behind, there ain't 
+anyplace else for me to go.
+
+## POINTER 6
+<STR>(KAR)
+Come on, even <STR>(YUR) wouldn't 
+leave you here for good.<PAGE>And anyway, you could always go 
+back to Altosk, couldn't you?
+
+## POINTER 7
+<STR>(RAV)
+Hmm. There's always that I s'pose, 
+but they're...how do I say it...not 
+the same as you guys.
+
+## POINTER 8
+<STR>(KAR)
+Oh really?
+
+## POINTER 9
+<STR>(YUR)
+Hmph...
+
+## POINTER 10
+<STR>(RIT)
+Well, if you're okay, old man, let's 
+get over to that blastia before it 
+recharges and attacks us again.
+
+## POINTER 11
+<STR>(RAV)
+Aye aye. Roger that.

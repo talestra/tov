@@ -1,0 +1,265 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279473835]
+<STR>(KAR)
+<VOICE>(VS28_039)¡Ahí está!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+Regaey
+<VOICE>(VS28_040)P-P-Pero ¿cómo habéis...?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279473835]
+<STR>(YUR)
+<VOICE>(VS28_041)Bien hecho, <STR>(RAP).
+Parece que aquí se acaba el
+corre que te pillo, Regaey.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+Regaey
+<VOICE>(VS28_042)
+Je, a-a-ahora... ¡Tendré que
+mostraros mi verdadero poder!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279473835]
+<STR>(KAR)
+<VOICE>(VS28_043)¡No puede ser!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+<STR>(YUR)
+<VOICE>(VS28_044)Ajá. Así que esto era lo que estaba pasando.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279473835]
+<STR>(EST_P)
+<VOICE>(VS28_045)¿Qué quiere decir esto?
+¿Se estaba haciendo
+pasar por Regaey?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279473835]
+<STR>(JUD)
+<VOICE>(VS28_046)No creo que sea
+el momento para preocuparse
+por esos detalles.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+Yeager
+<VOICE>(VS28_047)Sielo santo, qué miedito.
+No sé qué harría si acabase
+como el pobrrecito de Ragou.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283329696]
+<STR>(EST_P)
+<VOICE>(VS28_048)¿Qué quieres decir?
+¿Qué le ha pasado?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+Yeager
+<VOICE>(VS28_049)Han encontrado su cadáverr
+boca abajo en el lecho del
+río que passa por Dahngrest.
+<PAGE><VOICE>(VS28_050)O sea, no podría
+soportarr acabarr assí.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527746]
+<STR>(EST_P)
+<VOICE>(VS28_051)¿Ragou está... muerto?
+Pero ¿por qué?
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+Yeager
+<VOICE>(VS28_052)Me temo que no deberría
+desirlo, nein, mis labios
+están requete sellados.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(YUR)
+<VOICE>(VS28_053)...
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+<STR>(EST_P)
+<VOICE>(VS28_054)Oh... ¡Por ahí no!
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+Gauche
+<VOICE>(VS28_055)¡Yeager!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+Droite
+<VOICE>(VS28_056)Tachán, ¡aquí llegan los refuerzos!
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+Yeager
+<VOICE>(VS28_057)Gauche, Droite. Os dejo
+el resto a vossotrras.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+Gauche
+<VOICE>(VS28_058)Como quieras.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279525718]
+Droite
+<VOICE>(VS28_059)A la orden, señor. ♪
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+<STR>(KAR)
+<VOICE>(VS28_060)¡Se escapa!
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+<STR>(YUR)
+<VOICE>(VS28_061)¡Ni lo sueñes!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+Yeager
+<VOICE>(VS28_062)¡Os verré en el otro
+barrio, leibchen!
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+<STR>(KAR)
+<VOICE>(VS28_063)¡Es él!
+¡Pteropus!
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+Gauche
+<VOICE>(VS28_064)No necesitamos la ayuda de nuestros enemigos.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+Droite
+<VOICE>(VS28_065)No nos dejarás en ridículo.
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283329696]
+<STR>(EST_P)
+<VOICE>(VS28_066)¡Pero con esas heridas...!
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279476295]
+Gauche
+<VOICE>(VS28_067)Nos retiramos.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+Droite
+<VOICE>(VS28_068)Adiós, por ahora.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+<STR>(YUR)
+<VOICE>(VS28_069)Anda, qué peste...
+¿De dónde ha venido este humo?
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283329696]
+<STR>(RAP)
+<VOICE>(VS28_070)*Snif, snif*
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478540]
+<STR>(RAV)
+<VOICE>(VS28_071)Han conseguío que nuestro amigo
+canino no pueda seguirles la pista.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+<STR>(RIT)
+<VOICE>(VS28_072)Aah...
+Qué calor...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+<STR>(JUD)
+<VOICE>(VS28_073)Esas son las
+Arenas de Kogorh.
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279525718]
+<STR>(RAV)
+<VOICE>(VS28_550)Hala, ¿ya hemos
+hecho tól camino?
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(YUR)
+<VOICE>(VS28_551)Las Arenas de Kogorh.
+Phaeroh está aquí.
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(EST_P)
+<VOICE>(VS28_552)Yo... voy a seguir. Hasta
+encontrarme con Phaeroh
+
+## POINTER 37 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283329696]
+<STR>(KAR)
+<VOICE>(VS28_553)¡Espera! No podemos
+dejar que vayas sola.<PAGE>
+<VOICE>(VS28_554)Me refiero a que nuestro
+trabajo ahora mismo es protegerte.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+<STR>(RAV)
+<VOICE>(VS28_555)Bueno, al final
+hemos recuperao
+la caja, ¿no?
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+<STR>(YUR)
+<VOICE>(VS28_556)Sí, supongo que no
+podemos perseguirlo
+toda la vida.<PAGE>
+<VOICE>(VS28_557)Uff, vale. La próxima vez
+nos encargaremos de ellos.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+<STR>(RIT)
+<VOICE>(VS28_558)Un momento.
+¿En serio vas a ir?<PAGE>
+<VOICE>(VS28_078)¿Sabes lo que estás diciendo?
+Esto es un desierto. Hace calor.
+Hay gente que muere por eso. ¿Lo pillas?
+
+## POINTER 41 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(EST_P)
+<VOICE>(VS28_079)Estoy preparada para eso. Creo...
+
+## POINTER 42 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(JUD)
+<VOICE>(VS28_080)El desierto se divide
+en tres regiones.
+
+## POINTER 43 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(RIT)
+<VOICE>(VS28_081)¿Eh?
+
+## POINTER 44 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478540]
+<STR>(JUD)
+<VOICE>(VS28_082)Las cordilleras del oeste,
+el centro, donde hace más calor,
+y los enormes picos al este.
+
+## POINTER 45 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(RIT)
+<VOICE>(VS28_083)Eh, un momento...
+
+## POINTER 46 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(JUD)
+<VOICE>(VS28_084)Hay una ciudad entre las
+últimas cordilleras de más
+al oeste y el área central.
+
+## POINTER 47 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(RIT)
+<VOICE>(VS28_085)¿Dónde has oído eso?
+
+## POINTER 48 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(JUD)
+<VOICE>(VS28_086)Fui allí con un amigo.
+Es una ciudad bonita, construida
+alrededor de un oasis.
+
+## POINTER 49 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478540]
+<STR>(YUR)
+<VOICE>(VS28_087)Entonces pospondremos
+cualquier decisión importante
+hasta que lleguemos ahí.
+
+## POINTER 50 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(RAV)
+<VOICE>(VS28_088)Me parece genial. Er viejo
+<STR>(RAV) no podrá pensar con
+claridá hasta que se refresque.
+
+## POINTER 51 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279478238]
+<STR>(EST_P)
+<VOICE>(VS28_089)<STR>(RIT)...
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1298398920]
+<STR>(RIT)
+<VOICE>(VS28_090)Lo sé... Allí
+haremos nuestra
+primera parada.

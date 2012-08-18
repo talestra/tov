@@ -1,0 +1,160 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412421]
+<STR>(EST_P)
+¡<STR>(YUR), levántate,
+por favor! ¡<STR>(YUR)!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(YUR)
+¿Eh? Oh... Con lo a gustito
+que estaba...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412421]
+<STR>(RAV)
+Buenos días, bello durmiente...
+Aunque es más bien «buenas tardes».
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(YUR)
+Oh... Ah, viejales.
+Has vuelto...<PAGE>¿Y <STR>(KAR)?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RAV)
+Nu le visto desde que
+salí de la Unión. Supongo
+que sigue dándose un garbeo.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(EST_P)
+Espero que esté bien...
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RIT)
+Bueno, viejales. Si estás
+de vuelta supongo que está
+todo solucionado con la Unión.<PAGE>¿Has llegado a ver al Don?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RAV)
+Bueno, sobre eso...<PAGE>En cuanto er Don supo lo de
+Harry y Nordopólica se piró
+de la sede de la Unión.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1283800975]
+<STR>(YUR)
+¿Solo? Eso no es propio
+de él. ¿Adónde ha ido?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RAV)
+Bueno, sus puedo decir lo que intuyo.<PAGE>Creo que s'a ío a la guarida
+de la Garra del Leviatán,
+la Mansión de los Infames.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(YUR)
+¡¿Qué?!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(EST_P)
+¡Pero si el cabecilla de
+la Garra del Leviatán es Yeager!
+¡Es demasiado peligroso!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RAV)
+Bueno, dudo que Yeager intente
+hacerle nada ar Don.<PAGE>Si se rebelara contra la Unión,
+todos sus negocios s'irían
+al garete.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412421]
+<STR>(RIT)
+Entonces ¿por qué ha ido el Don a...?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RAV)
+...
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RAV)
+En cualquier caso, lo siento,
+pero er Don ya nu está en la ciudá.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(YUR)
+Pues habrá que ir a la guarida
+de la Garra del Leviatán, entonces.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RIT)
+¿Te fías de la corazonada
+del viejales?
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(YUR)
+No podemos quedarnos de brazos cruzados si
+el Don ha ido a enfrentarse a la Garra
+del Leviatán.<PAGE>Nada nos garantiza que
+esa gentuza lo dejará en paz.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RIT)
+Pues vale. De todas formas, no es que me hiciera
+mucha gracia la idea de quedarme sentada.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(YUR)
+<STR>(EST_P), ¿nos esperas aquí?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412421]
+<STR>(EST_P)
+Yo... yo iré con vosotros.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RIT)
+<STR>(EST_P), no hagas imposibles.
+¿Estás segura de esto?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1283800975]
+<STR>(EST_P)
+Sí. Totalmente segura.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RIT)
+<STR>(EST_P)...
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RAV)
+Bueno, ¿vosotros sabéis dónde
+queda la Mansión de los Infames?
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(YUR)
+Creía que lo sabías tú, viejales.
+¿O es que no vas a venir con nosotros?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412421]
+<STR>(RAV)
+Mmm, bueno, supongo que sí.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(YUR)
+Decidido. Vamos a buscar
+a <STR>(KAR), y...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551504]
+<STR>(YUR)
+Pero ¡¿qué...?!
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(RIT)
+Parecía venir del puente...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298412421]
+<STR>(RAV)
+Oh, oh...
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280832585]
+<STR>(EST_P)
+¡Vamos a verlo!

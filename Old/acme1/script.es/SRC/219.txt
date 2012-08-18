@@ -1,0 +1,79 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273968126]
+
+¡Quita de en medio!
+¡El Don viene hacia aquí!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(YUR)
+¿En serio planea irse
+a la guerra solo para
+hacer salir a esas ratas?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+Don Whitehorse
+¡Vamos a enseñar a esos bastardos
+del Imperio a reírse de nosotros!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273968152]
+<STR>(KAR)
+¡Eeeh! ¡<STR>(YUR)!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(YUR)
+¿Ya has acabado de ayudar a los heridos?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(EST_P)
+¿Cómo sabes tú eso?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298314142]
+<STR>(YUR)
+Me lo ha dicho el Don. Te lo digo de su parte.
+Debe ser su manera de darte las gracias.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(KAR)
+¡Pero <STR>(YUR), las cosas
+se han puesto peor!
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273968276]
+<STR>(YUR)
+Ya, ya lo veo.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(KAR)
+No, no me refiero a eso.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(YUR)
+¿Es que hay algo más?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(KAR)
+¡Los he visto!
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(YUR)
+¿A quién?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240605]
+<STR>(EST_P)
+¡A los de Pacto de Sangre!
+Barbos no estaba con ellos, pero...
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(KAR)
+<STR>(RIT) y <STR>(RAP) andan
+tras ellos ahora mismo.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(YUR)
+Justo lo que quería el Don...
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(KAR)
+Vamos con <STR>(RIT).
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273967918]
+<STR>(YUR)
+Vale.

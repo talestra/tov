@@ -1,0 +1,156 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273569072]
+<STR>(YUR)
+De cerca es enorme.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:parsec;time:1271192908]
+<STR>(EST_P)
+La flores del árbol deberían
+abrirse cualquier día de estos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273569072]
+<STR>(YUR)
+Sí, me encantaría
+poder verlo en
+todo su esplendor.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1272376251]
+<STR>(EST_P)
+Sé cómo te sientes. Hay algo en la idea de un gran árbol
+vibrando en plena floración, mientras protege la ciudad,
+que encuentro muy... romántico.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273569072]
+<STR>(EST_P)
+Voy a quedarme aquí
+a curar a los heridos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273569072]
+<STR>(YUR)
+Mmm. Si vas a curar algo, quizás
+podrías restablecer la propia barrera.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1271353061]
+<STR>(EST_P)
+¿Qué quieres decir?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1273569072]
+<STR>(YUR)
+Saldrá más gente herida
+cuando vuelvan los monstruos.<PAGE>Esos críos que acabamos de ver
+también podrían acabar mal.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273569072]
+<STR>(EST_P)
+Tienes razón, pero no sé
+cómo podría curar la barrera.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273569072]
+<STR>(YUR)
+Lo que tienes que hacer es curar el árbol.
+No está en este estado solo porque
+unos monstruos lo hayan atacado.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1273569072]
+<STR>(EST_P)
+¿Crees que
+existe otra razón?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1273575448]
+<STR>(YUR)
+Debería haberla.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273575448]
+¿Qué estáis haciendo
+los dos aquí?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1273575448]
+<STR>(EST_P)
+Intentamos averiguar por qué
+se ha marchitado así el árbol.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1273575448]
+No sé si podréis descubrir mucho más.
+El Caballero <STR>(FRE) tampoco
+ha podido averiguarlo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576237]
+<STR>(EST_P)
+Oh, ¡<STR>(KAR)!
+¡<STR>(KAR), necesitamos tu ayuda!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:parsec;time:1271355784]
+<STR>(KAR)
+¿De qué estás hablando?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576237]
+Parece que estos dos intentan averiguar
+por qué se ha marchitado árbol.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1273575306]
+<STR>(KAR)
+¿Eso es todo?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576237]
+<STR>(EST_P)
+¿Qué quieres decir con eso?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576237]
+<STR>(KAR)
+Yo sé por qué. Por eso
+buscaba en el bosque
+un oso ovíparo.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1271353409]
+<STR>(YUR)
+¿Eh? ¿De qué estás hablando?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576237]
+<STR>(KAR)
+Fíjate bien en la tierra.
+¿Ves que tiene un color extraño?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:parsec;time:1271355784]
+<STR>(KAR)
+Es el color de la tierra que ha absorbido la sangre
+de los monstruos que han atacado la ciudad.<PAGE>Esa sangre ha estado envenenando
+el árbol de Halure.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576237]
+¡¿Cómo?! ¿La sangre de los monstruos?
+No tenía ni idea.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576237]
+<STR>(EST_P)
+Sabes mucho del tema, <STR>(KAR).
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:parsec;time:1271355784]
+<STR>(KAR)
+No creas...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576237]
+<STR>(YUR)
+¿Qué podemos hacer para
+deshacernos del veneno?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576237]
+<STR>(KAR)
+Conozco una manera, pero...
+Bueno, nadie me cree.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576237]
+<STR>(YUR)
+Vamos, ponnos a prueba.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576291]
+<STR>(KAR)
+Creo que podríamos conseguirlo
+si tuviéramos una panacea.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1273576291]
+<STR>(YUR)
+A lo mejor venden
+una en el bazar.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Lia;time:1271353061]
+<STR>(EST_P)
+¡Vamos, <STR>(YUR)!

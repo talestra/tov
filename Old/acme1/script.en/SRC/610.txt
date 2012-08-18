@@ -1,0 +1,72 @@
+## POINTER 0
+
+Back again, huh?
+
+## POINTER 1
+<STR>(YUR)
+Sheesh, we missed you too, pal.
+
+## POINTER 2
+
+Afraid I don't really have any 
+jobs to offer you right now.
+
+## POINTER 3
+<STR>(KAR)
+It's cool. We'll try again later.
+
+## POINTER 4
+
+Actually... It might be better to 
+say that I'm not gonna have any 
+for you in the future, either.
+
+## POINTER 5
+<STR>(KAR)
+Huh? Why not?
+
+## POINTER 6
+
+There's getting to be more guilds 
+with even less experience in 
+this racket than you guys.
+
+## POINTER 7
+<STR>(KAR)
+Yeah, but we're not exactly 
+seasoned pros yet ourselves.
+
+## POINTER 8
+<STR>(RAV)
+It's always been that way, what with 
+formin' a guild bein' free, and all.
+
+## POINTER 9
+<STR>(YUR)
+So you get new guilds 
+springing up day in 
+and day out, huh?
+
+## POINTER 10
+
+Sure do. With the way things are, the ones 
+who're still going strong after a month 
+can't rightly be called rookies anymore.<PAGE>Besides, you guys've been getting 
+your name out there well enough. Can't 
+see that you need us anymore.<PAGE>Why not try your hand at 
+finding work on your own?
+
+## POINTER 11
+<STR>(KAR)
+Well, if you've made up your mind about 
+it, we don't have much choice.
+
+## POINTER 12
+
+Nothing personal, you know. I'll 
+be rooting for Brave Vesperia's 
+success in my own way.
+
+## POINTER 13
+<STR>(YUR)
+All right, then. Thanks for all the help.

@@ -1,0 +1,185 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1287917697]
+<STR>(YUR)
+Buenas. Hemos terminado el trabajo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Mimula
+Vaya, vaya. Bienvenidos de vuelta.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1287917697]
+Sebastian
+Ah, ah, sí. Gracias por todo.
+Je, je, je...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1287917697]
+<STR>(YUR)
+Nos encantaría que nos dieses
+la paga, si no te importa.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Mimula
+No lo hicisteis mal para ser unos plebeyos.
+Aunque claro, no era un trabajo muy difícil.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+<STR>(EST_P)
+¡<STR>(YUR)!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Mimula
+Oh, ¿así que no la quieres? Mmpf,
+creía que con buen hambre no hay mal pan.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1287918522]
+Mimula
+Oh, así que has decidido que
+a pesar de ser un gusano,
+vale la pena que te pague, ¿eh?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1287917697]
+¿Aceptas la recompensa?
+Aceptarla
+Paso
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1287917697]
+<STR>(YUR)
+Muchísimas gracias.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1287917697]
+Mimula
+Eso es. Agradéceme todo lo que
+quieras. Que sepas que no le doy
+limosna a todo el mundo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1287917697]
+<STR>(YUR)
+¿Eh? Creo que falta algo...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Mimula
+¿Qué? Hay 200 gald y un montón
+de gusanos pegajosos en esa bolsa.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+<STR>(RIT)
+¿Cómo? ¿Después
+de jactarse tanto
+solo nos da eso?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Mimula
+¡Oooh! ¡¿Y qué esperabas?!
+¡A estas alturas no puedo
+permitirme daros más!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1287917697]
+Sebastian
+Señorita,
+cálmese...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1287917697]
+<STR>(JUD)
+Oh, pobrecilla. Tal vez deberíamos
+darte un poco de dinero.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1287917697]
+Mimula
+¡Oooooh!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Leblanc
+¡Cómplices de los extremistas!
+¡Quedaos donde estáis
+y manos arriba!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+<STR>(KAR)
+¡Mecachis!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Boccos
+¡Teniente Leblanc, armas!
+¡Están traficando con armas!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1287919091]
+Adecor
+¡Venid, venid conmigo, proclamo!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Mimula
+¡Oooh! ¡Aparta tus
+sucias manos de mí!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Leblanc
+¡<STR>(YUR) Lowell!...
+¡Eres tú!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Leblanc
+Estos extremistas son unos
+criminales sediciosos.
+Me sorprende que los ayudes.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+<STR>(YUR)
+Ya me conoces.
+No puedo permitir
+que os aburráis.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1287919091]
+<STR>(RAV)
+¡Oye!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Leblanc
+Sch... Quiero decir... ¡¿Usted
+también, capitán <STR>(RAV)?!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1287919091]
+Boccos
+¿Q-Qué vamos a hacer?...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+<STR>(RAV)
+Solo una cosa...<PAGE>¡¡FiiiiiirrMES!!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1287919091]
+Leblanc
+¡Sí, señor!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1287919091]
+<STR>(YUR)
+Hay cosas que nunca cambian.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Mimula
+Mm, ¿qué está pasando?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Leblanc
+Diantres, siempre igual...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:Lia;time:1287918522]
+<STR>(YUR)
+Nop, no puedo aceptarlo.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+<STR>(KAR)
+¡¿<STR>(YUR)?!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1293574818]
+Mimula
+¿Qué? ¿Me estás diciendo
+que no vas a aceptar mi
+caritativa recompensa?<PAGE>¡Oooh! ¡Plebeyos
+estúpidos! ¡Oooh!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:Lia;time:1287918522]
+<STR>(YUR)
+Es mejor ser prudente
+en situaciones así.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:Lia;time:1287918522]
+<STR>(EST_P)
+Vale...

@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252353173]
+Asuntos delicados
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899875]
+(RAV)
+¿No podríais aflojar un poco el ritmo
+de tanta batalla? ¡Este anciano no
+podrá aguantá mucho más!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899875]
+(KAR)
+¿En serio? No es que hayamos
+luchado más de lo habitual.
+
+## POINTER 3 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267441907]
+(RAV)
+¡Sí, pero seguir vuestro juvenil
+ritmo m'está matando!
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298401]
+(YUR)
+¿Tal vez deberíamos ir al ritmo
+de alguien más viejo y lento?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899875]
+(RAV)
+¿A quién llamas tú «viejo y lento»?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899875]
+(JUD)
+No te preocupes, todavía
+eres un joven lleno de vida.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899875]
+(RAV)
+¡Ah, sí! M'alegra ver que tú
+m'entiendes al menos, (JUD) quería...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899875]
+(KAR)
+Si ha sido él mismo quien
+ha dicho que es un anciano...
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298401]
+(YUR)
+Dale cuartelillo, (KAR). La gente
+de su edad es muy sensible a estas cosas.

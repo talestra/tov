@@ -1,0 +1,28 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1270648869]
+<STR>(EST_P)
+<VOICE>(VS06_001)Un bosque en un sitio así...
+Esto solo puede significar... ¿Los bosques de Quoi?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273431822]
+<STR>(YUR)
+<VOICE>(VS06_002)Bingo. Sabes absolutamente de todo, ¿eh?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1270648869]
+<STR>(EST_P)
+<VOICE>(VS06_003)Una vez leí en un libro que los que se adentran
+en él caen víctimas de una maldición...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:parsec;time:1270988489]
+<STR>(YUR)
+<VOICE>(VS06_004)Ah, conque esa era la «sorpresita».
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528704]
+<STR>(YUR)
+<VOICE>(VS06_005)¿No quieres entrar?
+A mí no me parece mal,
+pero ¿qué hay de <STR>(FRE)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1270648869]
+<STR>(EST_P)
+<VOICE>(VS06_006)Ya lo sé...
+Vale, ¡vamos!

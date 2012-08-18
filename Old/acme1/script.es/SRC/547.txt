@@ -1,0 +1,161 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_119)¿No puedes dormir?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(RIT)
+<VOICE>(VS64_120)¿Y tú qué?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580942]
+<STR>(JUD)
+<VOICE>(VS64_121)Oh, tan solo estaba hablando
+con Ba'ul y se me ha hecho tarde.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(RIT)
+<VOICE>(VS64_122)Bueno, yo estaba comprobando mis cálculos
+para asegurarme de que son correctos.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_123)Ji, ji.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(RIT)
+<VOICE>(VS64_124)¿Qué?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_125)Oh, nada.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(RIT)
+<VOICE>(VS64_126)Detesto que
+hagas eso.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834658]
+<STR>(JUD)
+<VOICE>(VS64_127)Que raro. No es que lo
+haga con ninguna intención.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580942]
+<STR>(RIT)
+<VOICE>(VS64_128)Oye... ¿Qué piensas hacer
+cuando todo esto acabe?<PAGE><VOICE>(VS64_129)Si todo va bien, los blastias
+dejarán de funcionar, incluyendo
+los blastias hermes.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_130)Cierto...
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(RIT)
+<VOICE>(VS64_131)No tendrás nada
+más que hacer.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_132)Supongo que no...
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_133)Era todo lo que tenía.<PAGE><VOICE>(VS64_134)Ba'ul era mi único amigo. Destruir
+los blastias hermes mi único propósito.<PAGE><VOICE>(VS64_135)Es decir, tenía
+mis razones, pero...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580942]
+<STR>(RIT)
+<VOICE>(VS64_136)¿Pero?
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_137)Después de haber viajado tanto con
+vosotros... ya no me importa realmente.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(RIT)
+<VOICE>(VS64_138)¿Vas a dejarlo así, sin más?
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_139)¿Qué piensas hacer tú?
+Has dedicado toda tu vida
+a la investigación de blastias.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(RIT)
+<VOICE>(VS64_140)H-Hay montones de cosas
+que podría estudiar.<PAGE><VOICE>(VS64_141)Además... me he dado cuenta
+de que hay cosas en las que
+puedo creer aparte de los blastias.<PAGE><VOICE>(VS64_142)No tengo familia, así que
+no... Bueno, pero... Me gusta,
+ya sabes, cómo somos ahora.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(RIT)
+<VOICE>(VS64_143)Oye, que quede entre nosotras.
+No se lo puedes contar a nadie.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_144)No lo haré. Lo prometo.<PAGE><VOICE>(VS64_145)Je, je... Resulta divertido
+tener un secreto con alguien.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(RIT)
+<VOICE>(VS64_146)Has cambiado. Nunca habrías
+dicho algo así cuando
+nos conocimos.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_147)*Suspiro* Ya sabes...
+Toda la gente que hemos conocido,
+lo que hemos visto a lo largo del viaje...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580942]
+<STR>(RIT)
+<VOICE>(VS64_148)Sí, te entiendo. Jamás
+habría soñado con acabar así...
+Y ahora no quiero volver.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_149)Yo tampoco.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_150)Cuando todo termine...
+tal vez me ponga a viajar
+por el mundo con Ba'ul.
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(RIT)
+<VOICE>(VS64_151)Suena bien. Oye, llévate
+a <STR>(EST_P) contgo.<PAGE><VOICE>(VS64_152)Todavía quedan cosas en este
+mundo que ella debería ver.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580942]
+<STR>(JUD)
+<VOICE>(VS64_153)¿Tú no vendrías? Sería muy
+triste que no estuvieras.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(RIT)
+<VOICE>(VS64_154)Eh... B-Bueno,
+supongo que podría...
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_155)Bueno, si vamos a hacer eso,
+primero tenemos que proteger el mundo.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580942]
+<STR>(RIT)
+<VOICE>(VS64_156)Pues claro.
+Se van a enterar.
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566774]
+<STR>(JUD)
+<VOICE>(VS64_157)Sí. Sin duda.

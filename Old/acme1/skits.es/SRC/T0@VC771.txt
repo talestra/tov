@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1251728330]
+¿Cómo es el Don?
+
+## POINTER 1 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020707]
+(EST_P)
+¿Y el tipo que controla la Unión? 
+¿Qué tipo de persona es Don Whitehorse?
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020707]
+(KAR)
+En una palabra: grande. Gran voz,
+gran cuerpo... ¡Es un tío enorme!
+
+## POINTER 3 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020707]
+(YUR)
+Ya sabemos qué aspecto tiene y qué
+voz tiene. Le hemos visto, ¿recuerdas?
+
+## POINTER 4 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020707]
+(KAR)
+Oh, claro, es verdad. Bueno...
+¡Ese hombre se sale!
+
+## POINTER 5 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020707]
+(YUR)
+¿Contesta eso a tu pregunta, (EST_P)?
+
+## POINTER 6 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020707]
+(EST_P)
+Está claro que (KAR) siente un
+profundo respeto por el Don...
+
+## POINTER 7 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020707]
+(EST_P)
+Pero eso es lo único que me ha quedado claro...
+
+## POINTER 8 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020707]
+(KAR)
+¡Se sale tanto que no puede
+expresarse con palabras!
+
+## POINTER 9 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1267020707]
+(YUR)
+Lo dejaremos así, entonces.

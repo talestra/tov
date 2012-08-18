@@ -1,0 +1,68 @@
+## POINTER 0
+<STR>(EST_P)
+...Oh, <STR>(YUR).
+
+## POINTER 1
+<STR>(YUR)
+Hey. You're not asleep?
+
+## POINTER 2
+<STR>(EST_P)
+No... Is something 
+the matter?
+
+## POINTER 3
+<STR>(YUR)
+Nah, I was just trying to think 
+of what our next move should be.
+
+## POINTER 4
+<STR>(EST_P)
+Yes... I didn't even think 
+I'd be able to continue 
+traveling with you...<PAGE>...I'm still trying to decide if I should.<PAGE>You're really going to put your 
+all into this guild, aren't you?
+
+## POINTER 5
+<STR>(YUR)
+I'd like to say I'm just gonna go with the 
+flow, but I went and bragged to <STR>(FRE) about 
+it...I guess I can't slack off, now!
+
+## POINTER 6
+<STR>(EST_P)
+<STR>(KAR) certainly seems happy. 
+I'm a bit jealous.
+
+## POINTER 7
+<STR>(YUR)
+Oh ho. Does Her Majesty the Princess 
+wish to join our humble guild?
+
+## POINTER 8
+<STR>(EST_P)
+If I asked you to let me 
+in...would you let me in?
+
+## POINTER 9
+<STR>(YUR)
+If you've thought about this and it's your 
+decision, I won't try to stop you.
+
+## POINTER 10
+<STR>(EST_P)
+Yeah, you're right...I 
+should really give this 
+some thought.
+
+## POINTER 11
+<STR>(YUR)
+Well, don't think TOO hard about it.
+
+## POINTER 12
+<STR>(EST_P)
+Hehehe.
+
+## POINTER 13
+<STR>(EST_P)
+How can I decide...?

@@ -1,0 +1,73 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327421]
+<STR>(RIT)
+¿En serio piensas ayudar a <STR>(EST_P)
+a encontrar ese «Ferrero», o como se llame?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1275683318]
+<STR>(YUR)
+Sí, supongo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587437]
+<STR>(RIT)
+¿No dijo el bicho de marras que 
+<STR>(EST_P) era un «insulso
+veneno» o algo por el estilo?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1275683318]
+<STR>(YUR)
+Eso nos pareció oír.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1275683318]
+<STR>(RIT)
+Después de algo así, imagino que no
+serviría de nada intentar convencerla
+de que se olvide del asunto.<PAGE>Pero tampoco le conviene usarlo
+como excusa para no afrontar
+el problema de la sucesión al trono.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1275683318]
+<STR>(YUR)
+Ya, a mí también me preocupa que haga eso.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327421]
+<STR>(RIT)
+¿P-Pero qué cosas dices?
+¡Eso es JUSTO lo que está haciendo!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327421]
+<STR>(YUR)
+Ya, puede.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1275683318]
+<STR>(RIT)
+¡Pero...!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1275683318]
+<STR>(YUR)
+¿Me estás diciendo que la lleve de vuelta al castillo?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1275683318]
+<STR>(RIT)
+Sí. Eso es exactamente lo que estoy diciendo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327421]
+<STR>(YUR)
+Ha tomado esta decisión ella sola.
+Tenemos que dejarla para que descubra
+por sí misma qué es lo que debe hacer.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1275683318]
+<STR>(RIT)
+Eres consciente de que todo puede
+acabar dándonos de tortas con
+el Phaeroh ese, ¿verdad?<PAGE>¡Dudo mucho que pueda descubrir
+nada si acaba muerta!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1275683318]
+<STR>(YUR)
+Te aseguro que no va a morir.
+Voy con ella precisamente para eso.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1279327421]
+<STR>(RIT)
+¡Argh! ¡Vale, como quieras!

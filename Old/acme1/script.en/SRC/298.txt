@@ -1,0 +1,36 @@
+## POINTER 0
+<STR>(KAR)
+If we could just jump down from here 
+we'd reach the ship in no time...
+
+## POINTER 1
+<STR>(JUD)
+Yes.
+
+## POINTER 2
+<STR>(RIT)
+Wh-where did you get that?
+
+## POINTER 3
+<STR>(JUD)
+I thought something like this 
+might happen, so I brought this 
+from inside the ship!
+
+## POINTER 4
+<STR>(RIT)
+...I think I'm gonna gag.
+
+## POINTER 5
+<STR>(KAR)
+All right, let's go back 
+to the ship... ...Wahhhh!
+
+## POINTER 6
+<STR>(RIT)
+Good grief...
+
+## POINTER 7
+<STR>(RAV)
+If the ceres blastia's been fixed, that means 
+we can say sayonara to this hellhole!

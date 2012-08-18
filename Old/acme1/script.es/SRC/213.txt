@@ -1,0 +1,129 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296958702]
+<STR>(RAV)
+<VOICE>(VSA1_020)Aah, no sus preocupéis por mí.
+Haced lo que tengáis q'hacer.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273849841]
+<STR>(EST_P)
+<VOICE>(VSA1_021)¿Qué deberíamos hacer con él?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273849841]
+<STR>(YUR)
+<VOICE>(VSA1_022)¿Tienes algún truquito para convencernos
+de que nos conviene tenerte con nosotros?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273849841]
+<STR>(RAV)
+<VOICE>(VSA1_023)¿Tengo pinta de ser
+un mago ambulante o argo?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273849841]
+<STR>(RAV)
+<VOICE>(VSA1_024)Oye, tú.
+Ven p'acá un segundillo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296958702]
+<STR>(KAR)
+<VOICE>(VSA1_025)¿Quién? ¿Y-Yo?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298304874]
+<STR>(YUR)
+<VOICE>(VSA1_026)¿Eh? ¿Para qué
+quieres a <STR>(KAR)?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273849841]
+<STR>(KAR)
+<VOICE>(VSA1_027)¡Aaah! ¡No me dejes
+aquí solo!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273849841]
+<STR>(RAV)
+<VOICE>(VSA1_028)¡Dale p'al pelo, chaval!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298304874]
+<STR>(KAR)
+<VOICE>(VSA1_029)¿P-Por qué yo?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298304874]
+<STR>(KAR)
+<VOICE>(VSA1_030)¡V-Vale, ya no tiene gracia!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273849841]
+<STR>(RAV)
+<VOICE>(VSA1_031)Debería tar al caer...
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273849841]
+<STR>(KAR)
+<VOICE>(VSA1_032)¡Aaah!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1280095765]
+<STR>(RIT)
+<VOICE>(VSA1_033)¡Ha explotado!
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273919864]
+<STR>(EST_P)
+<VOICE>(VSA1_034)¡¿Qué ha hecho?!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298304874]
+<STR>(RAV)
+<VOICE>(VSA1_035)
+No hay más qu'esperar a que baje
+la guardia, darle un golpecillo
+y después... ¡bum!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298304874]
+<STR>(RIT)
+<VOICE>(VSA1_036)Madre... Debes ser
+el alma de la fiesta.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273919864]
+<STR>(EST_P)
+<VOICE>(VSA1_037)Creo que eso es suficiente.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273919864]
+<STR>(YUR)
+<VOICE>(VSA1_038)¿En serio?
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273919864]
+<STR>(EST_P)
+<VOICE>(VSA1_039)Sí.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273919864]
+<STR>(YUR)
+<VOICE>(VSA1_040)De acuerdo...
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273919864]
+<STR>(RAV)
+<VOICE>(VSA1_041)Eh, ¿tonces he aprobao? ¿Me aceptáis?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298304874]
+<STR>(KAR)
+<VOICE>(VSA1_042)¿E-Estáis de guasa?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298304874]
+<STR>(YUR)
+<VOICE>(VSA1_043)Será mucho más fácil
+darle lo suyo si
+lo tenemos cerca.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298304874]
+<STR>(RAV)
+<VOICE>(VSA1_044)¿Que quieres decir con «lo suyo»?
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273919864]
+<STR>(RIT)
+<VOICE>(VSA1_045)¿No te lo imaginas?
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273919864]
+<STR>(RAV)
+<VOICE>(VSA1_046)Vale. Acabáis de darme
+un escalofrío.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1296862716]
+<STR>(EST_P)
+<VOICE>(VSA1_047)Muy bien, señor <STR>(RAV), 
+después de usted.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273919864]
+<STR>(RAV)
+<VOICE>(VSA1_048)Je... Claro.

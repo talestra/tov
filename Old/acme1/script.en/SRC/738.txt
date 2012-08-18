@@ -1,0 +1,143 @@
+## POINTER 0
+
+Ah...you're 
+<STR>(RIT) Mordio.
+
+## POINTER 1
+<STR>(RIT)
+You know me? You must be 
+a mage from Aspio, then.
+
+## POINTER 2
+
+Wh-why have you come here?
+
+## POINTER 3
+<STR>(RIT)
+Oh, I was just stopping by in the course of a journey. That's all.
+
+## POINTER 4
+<STR>(JUD)
+Excuse me... Would you 
+mind if I looked at 
+that book you have?
+
+## POINTER 5
+
+What? This? Sure, 
+I don't mind...
+
+## POINTER 6
+<STR>(RIT)
+Hey, it's Ifmunft Nepmayjup's 
+"Discourses on Aer!"
+
+## POINTER 7
+<STR>(JUD)
+What? You've heard of 
+this book before?
+
+## POINTER 8
+<STR>(RIT)
+This book used to be in my house. I think it may've 
+belonged to the person who lived there before me.
+
+## POINTER 9
+<STR>(JUD)
+...I see... Yes, I see...
+
+## POINTER 10
+<STR>(RIT)
+It was all full of codes that I couldn't understand, 
+so I didn't find it all that interesting.<PAGE>I ended up giving it to the first person 
+who showed any interest in it.
+
+## POINTER 11
+<STR>(JUD)
+Ifmunft Nepmayjup. 
+That's Hermes. It 
+was his penname.
+
+## POINTER 12
+<STR>(RIT)
+What?! Really?!
+
+## POINTER 13
+<STR>(YUR)
+...So that means 
+Hermes used to 
+live in Aspio?
+
+## POINTER 14
+<STR>(JUD)
+That's what it would mean, yes.
+
+## POINTER 15
+<STR>(RIT)
+Keeping something important like 
+that from us yet again...
+
+## POINTER 16
+<STR>(JUD)
+I'm sorry. I wasn't entirely 
+sure of it until now.
+
+## POINTER 17
+<STR>(RIT)
+*Sigh* ...Well, whatever.
+
+## POINTER 18
+<STR>(YUR)
+What...is all this? I can't understand 
+any of it at all... "Kdvkxosktzgr 
+hrgyzog iuarj hk jgtmkxuay..."<PAGE>It looks like he just wrote letters at random...
+
+## POINTER 19
+<STR>(RIT)
+It's all in code. I thought 
+about trying to figure it 
+out a few times, but...<PAGE>This annoying type of writing is often 
+used for taking down personal memos and 
+the like. But not for research papers.
+
+## POINTER 20
+
+In the front of the book it says, "I dedicate this 
+to my daughter." And then, "Try and read it."<PAGE>It seems that it was more of a challenge 
+to his own daughter than a book 
+of his own memos to himself.
+
+## POINTER 21
+<STR>(JUD)
+Yes, I think that's right.
+
+## POINTER 22
+<STR>(RIT)
+I see... What a ridiculous, 
+foolish researcher.<PAGE>He didn't even know what 
+the blastia he'd created 
+were capable of.
+
+## POINTER 23
+<STR>(JUD)
+Yeah...
+
+## POINTER 24
+<STR>(RIT)
+That's it... I'm going 
+to take this book 
+and decode it!<PAGE>Please, let me have this.
+
+## POINTER 25
+
+Sure, go ahead. It's not like 
+I can read it, anyway.
+
+## POINTER 26
+<STR>(RIT)
+Once I've cracked the code, I'll find 
+that daughter and give it back to her!<PAGE>Right. I'll show that blastia-researching bozo!
+
+## POINTER 27
+<STR>(JUD)
+......

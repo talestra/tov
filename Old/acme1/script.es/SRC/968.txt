@@ -1,0 +1,58 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1295177259]
+Gnome
+...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997783]
+<STR>(EST_P)
+¿Gnome?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1295177259]
+Sylph
+Quiero agradecerte los maravillosos
+nombres que nos has dado.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1295177259]
+<STR>(EST_P)
+D-De nada...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1295177259]
+<STR>(YUR)
+¿Y bien? ¿Qué os
+ha hecho venir?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997783]
+Sylph
+Bajo nosotros
+había un bosque
+lleno de vida.<PAGE>Durante años, ha estado hundido bajo el agua.
+Pero él dice que es contra su voluntad.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1295177259]
+<STR>(EST_P)
+¿Te refieres... a la isla
+que hay justo debajo?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1295177259]
+Sylph
+En efecto.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1295177259]
+Sylph
+Dadle un poco de tiempo, y todo volverá a la normalidad.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1295177259]
+<STR>(YUR)
+¿Qué vais a hacer?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1295177259]
+Sylph
+...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1295177259]
+<STR>(KAR)
+Ah, ha desaparecido...
+Uaaah...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997791]
+<STR>(EST_P)
+¿Un terremoto?...

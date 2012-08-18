@@ -1,0 +1,53 @@
+## POINTER 0
+(RAV)'s Demons
+
+## POINTER 1
+(YUR)
+(RAV), you haven't fought with 
+us much at all, have you?
+
+## POINTER 2
+(RAV)
+Oh no! Quite the contrary!
+
+## POINTER 3
+(EST_P)
+What do you mean?
+
+## POINTER 4
+(RAV)
+While you all have been busy fightin' 
+yer own battles, I've been doin' 
+some fightin' of my own!
+
+## POINTER 5
+(YUR)
+Are you saying we've just been too caught 
+up with our own fighting to notice?
+
+## POINTER 6
+(EST_P)
+Huh? B-but I looked over during a 
+battle the other day. You were just 
+hanging around like normal...
+
+## POINTER 7
+(RAV)
+Well ya never know when the 
+demons of sleep or hunger 
+will rear their ugly heads!
+
+## POINTER 8
+(YUR)
+I see... That must be tough, what with 
+the lack of urgency or any real danger.
+
+## POINTER 9
+(EST_P)
+Hehe, and yet you always 
+suffer a crushing defeat!
+
+## POINTER 10
+(RAV)
+It's so true... So maybe ya can swap me 
+in sometime soon? I'll work hard...

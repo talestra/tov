@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1287524224]
+
+<VOICE>(VS50_141)¿Ya has terminado?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1285857657]
+¿Quieres descansar?
+Sí
+No
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1285857657]
+<STR>(YUR)
+<VOICE>(VS50_142)¿Tú también vienes, <STR>(RAP)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1285857657]
+<STR>(RAP)
+<VOICE>(VS50_143)¡Guau!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1285857657]
+<STR>(YUR)
+<VOICE>(VS50_144)Mañana... lucharemos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1285857657]
+<STR>(YUR)
+<VOICE>(VS50_145)Espero que todos
+puedan pegar ojo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1285857657]
+<STR>(YUR)
+<VOICE>(VS50_146)Aún no tengo sueño.
+Supongo que estoy algo nervioso.<PAGE><VOICE>(VS50_147)Estaré por aquí
+un poco más.

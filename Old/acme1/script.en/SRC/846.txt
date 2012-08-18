@@ -1,0 +1,74 @@
+## POINTER 0
+Agueron
+How's it going? Have you managed 
+to find everything?
+
+## POINTER 1
+Information
+You paid 500,000 Gald.
+
+## POINTER 2
+<STR>(YUR)
+This should be 
+everything...
+
+## POINTER 3
+Agueron
+Yes, it is... I'm so sorry for putting 
+you to all that trouble.
+
+## POINTER 4
+<STR>(YUR)
+Aww, stop it. You did what you 
+could, Agueron. It was just 
+our turn to do the same.
+
+## POINTER 5
+Agueron
+Yeah, you're right. <STR>(YUR), 
+you're a really good guy.
+
+## POINTER 6
+<STR>(YUR)
+Come on, cut me some slack! 
+Enough with the jokes, man.
+
+## POINTER 7
+Agueron
+Heh, seems like you still can't take a compliment 
+after all these years. But really, thank you. I don't 
+know what would've happened without your help.
+
+## POINTER 8
+<STR>(YUR)
+So you think that this'll be able to 
+help with the town's development?
+
+## POINTER 9
+Agueron
+Yes. I'm going to use everything 
+you gave me to help bring 
+everyone together again.
+
+## POINTER 10
+<STR>(YUR)
+All right, good luck with that. 
+I'll hope for the best.
+
+## POINTER 11
+Agueron
+Yeah, come back in a while 
+to see our progress!
+
+## POINTER 12
+Agueron
+I'm sorry, this still 
+isn't enough.<PAGE>I need a Greenlight Stone,
+Pitch-black Ink, Rare Metal,
+and 500,000 Gald.
+
+## POINTER 13
+Agueron
+I need a Greenlight Stone,
+Pitch-black Ink, Rare Metal,
+and 500,000 Gald.

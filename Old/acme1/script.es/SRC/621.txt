@@ -1,0 +1,151 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1292263123]
+<STR>(YUR)
+El señor Irmine, supongo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976144]
+
+Cierra el pico y
+déjame tranquilo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976144]
+<STR>(KAR)
+Hemos venido a preguntarle
+por el proceso de refinamiento
+de livianita, señor.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976144]
+
+Livianita... Vaya, niño.
+Vaya, vaya, chaval...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976144]
+<STR>(RIT)
+¿Qué ha dicho?...
+¿Qué respuesta es esa?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1292263123]
+<STR>(EST_P)
+¿Nos dirá lo que sabe?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1292263123]
+
+¿Seguro que eso es lo que queréis saber?
+¿Y si os digo mejor las medidas del bombón
+que trabaja en la tienda de objetos?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976144]
+<STR>(RAV)
+Mmm, pues nostaría mal...
+¡Uff!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1292263531]
+<STR>(JUD)
+Antes de que nos diga nada...
+Usted es Irmine, ¿no es cierto?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1292263531]
+
+Venga, no seamos tan formales.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976144]
+<STR>(RIT)
+Oye, ¿estás seguro de que el viejo
+este está bien de la chota?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976144]
+<STR>(YUR)
+Mientras sea nuestra única opción,
+me temo que no tenemos alternativa.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976144]
+<STR>(KAR)
+¿De verdad no hay otra forma?
+A mí me parece que no
+tiene mucha idea...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1292263531]
+Irmine
+¡¿Quién no tiene ni idea?!
+¡El que no tiene ni idea es el
+triste que te ha cortado el pelo!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976955]
+<STR>(EST_P)
+<STR>(YUR)...
+Por mí ya nos podemos ir...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976144]
+<STR>(YUR)
+Venga, anímate un poco.<PAGE>Escucha, viejo. Venimos
+a preguntarte algo serio.
+Basta ya de jueguecitos.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976955]
+Irmine
+¡No puedo ponerme
+más serio, hijo!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1292264540]
+<STR>(YUR)
+Muy bien. Hemos venido a preguntarte
+por el método para refinar un
+metal que se llama livianita.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1292264540]
+Irmine
+Vas listo si te crees que te voy a dar
+esa información gratis. Hay que ser más
+tonto que... más tonto que...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1292264540]
+<STR>(RAV)
+¿Que pellizcar cristales?
+Mira que hay que ser tonto...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:kaene;time:1292264540]
+<STR>(YUR)
+¿Quieres dinero? Espera, no estarás
+intentando que te saquemos
+de este antro, ¿verdad?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:kaene;time:1292264540]
+Irmine
+¡Nah, eso es de principiantes!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976955]
+<STR>(YUR)
+Entonces, ¿qué quieres?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:kaene;time:1292264540]
+Irmine
+Me gustaría disfrutar de una buena comida casera.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:kaene;time:1292264540]
+<STR>(KAR)
+¿Qué?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:kaene;time:1292264540]
+Irmine
+¡Si no lo has entendido a la primera
+no espero que lo entiendas a la segunda!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:kaene;time:1292264540]
+<STR>(RAV)
+Bueno, aunque nu os lo creáis,
+er viejo me pone de los nervios.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1293976955]
+<STR>(YUR)
+Pues ya está. Vamos a prepararle
+a este viejo loco el mejor
+banquete de su vida.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551285]
+<STR>(KAR)
+Sí, pero ¿qué le preparamos?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:kaene;time:1292264540]
+<STR>(EST_P)
+¿Por qué no le preguntamos
+a la persona encargada
+de preparar sus comidas?

@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253562844]
+Un paisaje sentimental
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297381079]
+(RAV)
+El agujero en esta montaña
+es como el de mi corazón...
+Aah... Cuán afligío estoy...
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134495]
+(YUR)
+¿Te nos estás poniendo sentimental, viejales?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297381271]
+(RAV)
+Nah, solo son recuerdos de la guerra.
+Os agradecería que no pasáramos demasiao
+tiempo por aquí.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297381271]
+(RIT)
+No seas gallina.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266829201]
+(RAV)
+Ooh, eso ha dolío, (RIT).
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266829201]
+(RIT)
+La única manera de superar un
+mal recuerdo es enfrentarse a él.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134495]
+(YUR)
+Parece que lo dices
+por experiencia.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297381079]
+(RIT)
+No, tan solo estaba generalizando.
+De todas formas, hay que darse
+prisa, ¿no? Pues adelante.
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266829201]
+(RAV)
+Nuestra maga prodigio es
+más madura de lo que aparenta.

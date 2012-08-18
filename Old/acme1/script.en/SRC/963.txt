@@ -1,0 +1,32 @@
+## POINTER 0
+Irmine
+...Who dares disturb 
+my nap...?!<PAGE>Oh, it's just you...
+
+## POINTER 1
+<STR>(YUR)
+Hey.
+
+## POINTER 2
+Irmine
+...Ya know, take this, as thanks 
+fer that home-cooked meal 
+you cooked up fer me.
+
+## POINTER 3
+<STR>(YUR)
+Huh? But you already 
+thanked us...
+
+## POINTER 4
+Irmine
+What! Are ya trying ta insult my 
+warm yet unassuming generosity?!
+
+## POINTER 5
+<STR>(YUR)
+No, I wasn't trying to--
+
+## POINTER 6
+Irmine
+I'm goin' back ta sleep...

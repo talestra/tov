@@ -1,0 +1,76 @@
+## POINTER 0
+<STR>(YUR)
+What's the matter, boss?
+
+## POINTER 1
+<STR>(KAR)
+Mmm... I don't know if I 
+like you calling me that.
+
+## POINTER 2
+<STR>(YUR)
+The boss is the boss! What would 
+you have me call you instead?
+
+## POINTER 3
+<STR>(KAR)
+Just call me...whatever you called 
+me before. This "boss" thing seems 
+a little over the top.<PAGE>It makes me feel silly 
+to have you calling 
+me that...
+
+## POINTER 4
+<STR>(YUR)
+Don't you think you'll 
+get used to it?
+
+## POINTER 5
+<STR>(KAR)
+Well, maybe...
+
+## POINTER 6
+<STR>(YUR)
+Well, you know way 
+more about guilds 
+than I do, right?
+
+## POINTER 7
+<STR>(KAR)
+I guess...<PAGE>The boss of a guild has 
+to stand as a role model 
+for everyone else.<PAGE>I wonder if I could be that 
+great of a person...?
+
+## POINTER 8
+<STR>(YUR)
+Come on, it's not like you're expected to be the best boss ever 
+from the very beginning. You can take it a little at a time.<PAGE>For now, our guild has 
+a job to complete.
+
+## POINTER 9
+<STR>(KAR)
+You're right. First we 
+need to take <STR>(EST_P) 
+to meet Phaeroh...<PAGE>...But do you think we'll be able to meet him?
+
+## POINTER 10
+<STR>(YUR)
+Our guild's job is to figure 
+out a way to meet him.<PAGE>If we can't meet him, we won't get 
+our reward, and people will lose 
+confidence in our abilities.<PAGE>That's all there is to it.
+
+## POINTER 11
+<STR>(KAR)
+I think we may have picked something a 
+little too tough for our first job...
+
+## POINTER 12
+<STR>(YUR)
+It's more of a challenge that way. And our 
+reward will be that much bigger, too.<PAGE>...Let's make the best of it.
+
+## POINTER 13
+<STR>(KAR)
+Y-yeah...

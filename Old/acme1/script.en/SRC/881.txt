@@ -1,0 +1,52 @@
+## POINTER 0
+<STR>(KAR)
+I saw your father... I passed 
+on your message for you.
+
+## POINTER 1
+Rich
+...Is that so...
+Thank you...
+
+## POINTER 2
+<STR>(KAR)
+He says you can come home whenever you 
+want. He'll allow your marriage.
+
+## POINTER 3
+Rich
+...Is that so...<PAGE>...Perhaps our wanderings 
+will take us to Capua 
+Torim someday...<PAGE>That would be a good time to visit...
+
+## POINTER 4
+<STR>(KAR)
+Yes.
+
+## POINTER 5
+<STR>(RIT)
+You've been unusually 
+quiet, old man.
+
+## POINTER 6
+<STR>(RAV)
+Whaddaya mean? I'm just a quiet guy!
+
+## POINTER 7
+<STR>(RIT)
+I was expecting you to butt 
+in with something awkward.<PAGE>"What, yer married? I was all ready ta propose 
+an' everythin'!" Something like that.
+
+## POINTER 8
+<STR>(RAV)
+Nah, I prefer older, 
+more mature women. You 
+know, like <STR>(JUD).<PAGE>Ya still don't really get me, 
+<STR>(RIT). Maybe ya never will.
+
+## POINTER 9
+<STR>(RIT)
+I don't know why you'd 
+think I'd want 
+to "get" you...

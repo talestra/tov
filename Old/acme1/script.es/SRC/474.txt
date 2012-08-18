@@ -1,0 +1,30 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1284389014]
+<STR>(KAR)
+¿Eh? Aquí no hay aer.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1284389014]
+<STR>(RIT)
+Debe haber averiguado cómo
+usar el poder de <STR>(EST_P)
+para hacer algo así.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287281263]
+<STR>(JUD)
+Tal vez la barrera
+exterior haga que
+el aer no se salga.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287281263]
+<STR>(YUR)Viejales, esa corazonada que has tenido
+cada vez es más probable.<PAGE>Pronto tendremos compañía.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287281263]
+<STR>(RAV)
+¿Por qué solo tengo razón cuando
+digo que pasará argo malo?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287281263]
+<STR>(KAR)
+Aunque es una lástima... Por fin
+consigo ver el castillo, pero no
+por la razón que esperaba.

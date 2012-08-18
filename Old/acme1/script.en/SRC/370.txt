@@ -1,0 +1,65 @@
+## POINTER 0
+<STR>(YUR)
+This place is swarming 
+with knights.
+
+## POINTER 1
+<STR>(JUD)
+We've no choice but to go out through the harbor, then.
+
+## POINTER 2
+<STR>(KAR)
+But what if the harbor's blockaded, too?
+
+## POINTER 3
+<STR>(RIT)
+Well, the Weasand of 
+Cados is blocked off.<PAGE>If we have to get out of here, I'd say breaking 
+out through the harbor is our best bet!
+
+## POINTER 4
+<STR>(KAR)
+Ah, escaping by sea might 
+be better, yes.
+
+## POINTER 5
+<STR>(YUR)
+Exactly.
+
+## POINTER 6
+<STR>(RIT)
+Hey, where's the old man...?
+
+## POINTER 7
+<STR>(YUR)
+You don't need to worry 
+about him. He'll turn 
+up soon enough.
+
+## POINTER 8
+<STR>(JUD)
+Right. He's the sort of guy who shows up as soon 
+as you start to feel relieved he's gone.
+
+## POINTER 9
+Sodia
+<STR>(YUR) Lowell, this is 
+the end of the line!
+
+## POINTER 10
+Witcher
+Lady <STR>(EST_P), you must return 
+with us. Captain <STR>(FRE) is 
+worried about you.
+
+## POINTER 11
+<STR>(EST_P)
+...But I, I...
+
+## POINTER 12
+<STR>(RIT)
+<STR>(EST_P)'s not going back with you!
+
+## POINTER 13
+<STR>(YUR)
+All right, let's hurry to the harbor!

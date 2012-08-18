@@ -1,0 +1,25 @@
+## POINTER 0
+<STR>(KAR)
+Dang! That thing's huge...! That's gotta 
+be the monster that chased us when 
+we were here for the Everlight...
+
+## POINTER 1
+<STR>(EST_P)
+And what about the kidnapped client...?
+
+## POINTER 2
+<STR>(YUR)
+He's nowhere in sight.
+
+## POINTER 3
+<STR>(RAV)
+Ya don't think he ended up as a snack, do ya...?
+
+## POINTER 4
+<STR>(JUD)
+Maybe we'll get a better idea if we take a closer look.
+
+## POINTER 5
+<STR>(YUR)
+You're right.

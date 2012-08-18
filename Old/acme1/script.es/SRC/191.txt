@@ -1,0 +1,62 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241893]
+<STR>(EST_P)
+<VOICE>(VS17_091)Lo hemos logrado...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272874452]
+<STR>(RIT)
+<VOICE>(VS17_092)¿Qué hay de <STR>(KAR)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241893]
+Tison
+<VOICE>(VS17_093)No existe monstruo que no haya
+nacido para ser mi saco de boxeo.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272874452]
+Nan
+<VOICE>(VS17_094)¡Maestro! ¡Es demasiado peligroso!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272874452]
+Tison
+<VOICE>(VS17_095)¡Este monstruo es mío,
+aunque me cueste la vida!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272874452]
+Tison
+<VOICE>(VS17_096)¡¡Graaah!!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241893]
+<STR>(EST_P)
+<VOICE>(VS17_097)¡El techo...
+se va a caer!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241893]
+Nan
+<VOICE>(VS17_098)¡Jefe! ¡Tenemos que retirarnos!<PAGE><VOICE>(VS17_099)¡No podemos quedarnos aquí
+ahora que la marca ha escapado!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272874452]
+Clint
+<VOICE>(VS17_100)Mierda. Hacía tiempo que no veía
+un monstruo como ese... Qué decepción.
+¡De acuerdo, retirada!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272874452]
+<STR>(YUR)
+<VOICE>(VS17_101)Será mejor que nos piremos nosotros también.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241893]
+<STR>(RIT)
+<VOICE>(VS17_102)¡No es justo! ¡Quería arrancarle
+la cabeza al mamarracho ese!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241893]
+<STR>(EST_P)
+<VOICE>(VS17_103)Esperad, ¿dónde
+está <STR>(KAR)?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241893]
+<STR>(YUR)
+<VOICE>(VS17_104)
+Si no está por aquí, probablemente
+es que nos ha dejado. Ya lo buscaremos
+mientras salimos.

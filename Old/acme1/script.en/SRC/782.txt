@@ -1,0 +1,123 @@
+## POINTER 0
+Kellas
+Thank you so much!
+
+## POINTER 1
+Teagle
+You helped us so many times... I don't know 
+how I could possibly thank you enough.
+
+## POINTER 2
+<STR>(RAV)
+Think nothin' of it. It's all in a day's work!
+
+## POINTER 3
+<STR>(YUR)
+I don't remember you doing all 
+that much to help them, old man.
+
+## POINTER 4
+Pauly
+Your doggy saved me!
+
+## POINTER 5
+<STR>(RAP)
+Woof!
+
+## POINTER 6
+<STR>(YUR)
+<STR>(RAP)'s not the sort of 
+pooch who'd ignore a dog-loving 
+kid in distress!
+
+## POINTER 7
+Teagle
+Thanks, Mr. Dog.
+
+## POINTER 8
+<STR>(RAP)
+Woof!
+
+## POINTER 9
+Teagle
+I still wonder...why would 
+anyone want to take Pauly?
+
+## POINTER 10
+<STR>(RAP)
+Woof woof woof!
+
+## POINTER 11
+<STR>(YUR)
+It looks like he was just trying 
+to make a quick buck.
+
+## POINTER 12
+Teagle
+Ugh... I guess we have to be on our 
+guard, even inside the barrier...
+
+## POINTER 13
+Teagle
+...What do you have there, Pauly?
+
+## POINTER 14
+Pauly
+That guy dropped something, 
+so I picked it up!
+
+## POINTER 15
+<STR>(YUR)
+The bandit did?
+
+## POINTER 16
+<STR>(YUR)
+It looks like a note on how to teach 
+a certain technique to a monster.<PAGE>Not that a dumb monster 
+could ever learn to use 
+a technique like this.
+
+## POINTER 17
+<STR>(RAP)
+Woof woof woof!
+
+## POINTER 18
+<STR>(YUR)
+What? Is this
+what you want?
+
+## POINTER 19
+<STR>(RAP)
+Woof!
+
+## POINTER 20
+<STR>(YUR)
+There's nothing
+<STR>(RAP) can't use...
+
+## POINTER 21
+<STR>(YUR)
+....Oh, alright,
+I'll read it to you.
+
+## POINTER 22
+<STR>(RAP)
+Woof!
+
+## POINTER 23
+<STR>(YUR)
+...That's all there is to it.
+You think you got all that?
+
+## POINTER 24
+<STR>(RAP)
+Woof woof!
+
+## POINTER 25
+Pauly
+The doggy got
+stronger again!
+
+## POINTER 26
+<STR>(RAP)
+Woof!

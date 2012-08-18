@@ -1,0 +1,165 @@
+## POINTER 0 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(EST_P)
+<VOICE>(VS14_015)Es precioso...
+
+## POINTER 1 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(RIT)
+<VOICE>(VS14_016)Es...
+
+## POINTER 2 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(EST_P)
+<VOICE>(VS14_017)Mira, <STR>(YUR). Es el mar.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227266]
+<STR>(YUR)
+<VOICE>(VS14_018)Ya lo veo...
+La brisa es de lo más agradable.
+
+## POINTER 4 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1275228848]
+<STR>(EST_P)
+<VOICE>(VS14_019)Ya lo había visto en libros,
+pero es la primera vez que
+lo veo con mis propios ojos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227266]
+<STR>(KAR)
+<VOICE>(VS14_020)Bueno, la gente no suele
+salir de las barreras.<PAGE><VOICE>(VS14_021)Si seguimos adelante podemos ver de todo,
+como la selva o la ciudad de las cascadas...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(EST_P)
+<VOICE>(VS14_022)Hay tantas cosas que podríamos
+descubrir. Si tan solo nuestro
+viaje continuara...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(YUR)
+<VOICE>(VS14_023)Supongo que sí... En verdad estaba
+viviendo en un mundo pequeño.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(RIT)
+<VOICE>(VS14_024)Viniendo de ti, eso ha sido un acceso
+de sinceridad bastante extraño.
+
+## POINTER 9 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(KAR)
+<VOICE>(VS14_025)Tú también lo ves por primera vez, ¿no?
+
+## POINTER 10 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(RIT)
+<VOICE>(VS14_026)Bueno, sí, pero...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(KAR)
+<VOICE>(VS14_027)Ooh... Has debido llevar una vida
+la mar de solitaria al estar tan
+atada a tus investigaciones.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(RIT)
+<VOICE>(VS14_028)Tu compasión me da ganas
+de tirarme por este acantilado.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(EST_P)
+<VOICE>(VS14_029)Estas aguas han surcado todos los océanos
+y han visto el mundo entero.<PAGE><VOICE>(VS14_030)El mar une todas las tierras del mundo...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(RIT)
+<VOICE>(VS14_031)Ya está otra vez.
+No es más que un charco gigante.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(KAR)
+<VOICE>(VS14_032)Sí, claro.
+Tú tambien te has conmovido.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(KAR)
+<VOICE>(VS14_033)¿E-Eh?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(YUR)
+<VOICE>(VS14_034)Conque así es como él ve el mundo...
+
+## POINTER 18 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(EST_P)
+<VOICE>(VS14_035)¿<STR>(YUR)?
+
+## POINTER 19 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1275228848]
+<STR>(YUR)
+<VOICE>(VS14_036)<STR>(FRE) ha tenido que estar aquí antes
+y haber contemplado la misma vista.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(EST_P)
+<VOICE>(VS14_037)Es verdad. Su trabajo le obliga
+a tener que ir a muchos lugares.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217957]
+<STR>(YUR)
+<VOICE>(VS14_038)Siempre me está diciendo que lo «alcance».
+Para él es fácil decirlo.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227774]
+<STR>(KAR)
+<VOICE>(VS14_039)Cuando salgamos de Ehmead, Puerto Nor
+estará a la vuelta de la esquina.
+Lo alcanzaremos en nada.
+
+## POINTER 23 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(YUR)
+<VOICE>(VS14_040)No me estaba refiriendo a eso.
+
+## POINTER 24 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272640105]
+<STR>(KAR)
+<VOICE>(VS14_041)¿Eh? ¿A qué te refieres entonces?
+
+## POINTER 25 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(YUR)
+<VOICE>(VS14_042)Vale, sigamos adelante antes de que
+aparezcan de nuevo Leblanc y compañía.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298293399]
+<STR>(KAR)
+<VOICE>(VS14_043)No hay más que seguir el camino
+hacia el oeste para llegar
+a Puerto Nor. No tiene pérdida.
+
+## POINTER 27 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272286910]
+<STR>(YUR)
+<VOICE>(VS14_044)Tendremos oportunidades de sobra
+para ver el mar. Tu viaje continuará
+mientras tú así lo quieras.
+
+## POINTER 28 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(EST_P)
+<VOICE>(VS14_045)...
+
+## POINTER 29 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(YUR)
+<VOICE>(VS14_046)La decisión es tuya. 
+Ya has llegado hasta aquí, ¿no?
+
+## POINTER 30 [t:1;r:3;ru:googol,squallido,memnoch;user:Googol;time:1275229013]
+<STR>(EST_P)
+<VOICE>(VS14_047)Es cierto.
+
+## POINTER 31 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(KAR)
+<VOICE>(VS14_048)¡El último en llegar es un huevo podrido!
+
+## POINTER 32 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(YUR)
+<VOICE>(VS14_049)Ve con cuidado o te la acabarás pegando.
+
+## POINTER 33 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(KAR)
+<VOICE>(VS14_050)¡Uaaaah!
+
+## POINTER 34 [t:1;r:3;ru:googol,squallido,memnoch;user:xander;time:1272285727]
+<STR>(RIT)
+<VOICE>(VS14_051)Idiota...

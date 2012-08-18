@@ -1,0 +1,296 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS31_055)Excuse me.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS31_056)Huh...? Hey, that's...!
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS31_057)You're...
+
+## POINTER 3
+Duke
+<VOICE>(VS31_058)You... How have you 
+come to this place?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS31_059)What do you mean, how? 
+We walked. As in, across 
+the desert.
+
+## POINTER 5
+Duke
+<VOICE>(VS31_060)...I see... And yet, 
+how did you...?
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS31_061)...?
+
+## POINTER 7
+Duke
+<VOICE>(VS31_062)No matter... For what 
+reason have you come?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS31_063)We're a little curious about this.
+
+## POINTER 9
+Duke
+<VOICE>(VS31_064)This must have cost 
+you dearly to obtain.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS31_065)Actually...it just sort 
+of landed in our lap.
+
+## POINTER 11
+Duke
+<VOICE>(VS31_066)Hm...That was 
+quite a miracle.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS31_067)You're planning on 
+making a barrier 
+blastia, aren't you?<PAGE><VOICE>(VS31_068)You're free to go pretending 
+you're a sage, but forget 
+about making any blastia.<PAGE><VOICE>(VS31_069)Who'd even consider building a 
+barrier blastia with something 
+that's so obviously not a core?
+
+## POINTER 13
+Duke
+<VOICE>(VS31_070)But it is a solid mass 
+of aer. It simply lacks 
+an inscribed formula.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS31_071)Lacks an inscribed formula...?! 
+What do you mean?!
+
+## POINTER 15
+Duke
+<VOICE>(VS31_072)They are most commonly known 
+as apatheia, of which the clear 
+ciel crystal is one example.
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS31_073)So this is an apatheia...?!
+
+## POINTER 17
+Duke
+<VOICE>(VS31_074)Also, I am not 
+the sage.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS31_075)Huh...?
+
+## POINTER 19
+Duke
+<VOICE>(VS31_076)No such being exists any longer.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS31_077)Well, that's a problem. 
+Uh, we'll need to get that 
+back from you, in that case.
+
+## POINTER 21
+Duke
+<VOICE>(VS31_078)Neither I nor humanity 
+have a need for such 
+a thing.
+
+## POINTER 22
+<STR>(RAV)
+<VOICE>(VS31_079)Whoa, what're you doin'?! 
+Hold on a sec!
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS31_080)It's the same phenomenon 
+we saw at Keiv Moc!
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS31_081)Aww, man. Just when 
+I'd found one.
+
+## POINTER 25
+Duke
+<VOICE>(VS31_082)The apatheia bring only 
+chaos to humanity. They are 
+better off returned to aer.
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS31_083)Returned to aer...? 
+Is that really all 
+you did just now...?
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS31_084)That's still no reason 
+to go smashing 
+other people's things.
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS31_085)Wasn't the clear ciel crystal--the 
+apatheia--needed to save this 
+town from the monsters?
+
+## POINTER 29
+Duke
+<VOICE>(VS31_086)This town has no use for a 
+barrier and no need to be saved.<PAGE><VOICE>(VS31_087)This place has been granted 
+everlasting calm.
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS31_088)Come to mention it, 
+it is pretty quiet here.
+
+## POINTER 31
+<STR>(EST_P)
+<VOICE>(VS31_089)But still, there are monsters 
+like Phaeroh nearby.
+
+## POINTER 32
+Duke
+<VOICE>(VS31_090)How do you know 
+of Phaeroh?
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS31_091)I'd ask you the same thing. 
+You seem to know about 
+him yourself.
+
+## POINTER 34
+<STR>(EST_P)
+<VOICE>(VS31_092)Please. Tell us 
+what you know.<PAGE><VOICE>(VS31_093)Phaeroh referred to 
+me as a "poison."
+
+## POINTER 35
+Duke
+<VOICE>(VS31_094)...I see.
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS31_095)You know something, don't you?
+
+## POINTER 37
+Duke
+<VOICE>(VS31_096)There is a being in this world 
+who possesses a power the 
+Entelexeia despise.
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS31_097)You mean...me?
+
+## POINTER 39
+Duke
+<VOICE>(VS31_098)This being is known as the 
+Child of the Full Moon.
+
+## POINTER 40
+<STR>(EST_P)
+<VOICE>(VS31_099)...Child of the Full Moon, like in the legend...
+
+## POINTER 41
+<STR>(EST_P)
+<VOICE>(VS31_100)By Entelexeia, 
+you mean Phaeroh...?
+
+## POINTER 42
+Duke
+<VOICE>(VS31_101)That is correct.
+
+## POINTER 43
+<STR>(EST_P)
+<VOICE>(VS31_102)But what would these Entelexeia 
+have against me...against the 
+Child of the Full Moon?<PAGE><VOICE>(VS31_103)What is this power the Child 
+of the Full Moon possesses 
+that they despise?
+
+## POINTER 44
+Duke
+<VOICE>(VS31_104)That answer lies only 
+within the hearts of 
+the Entelexeia themselves.
+
+## POINTER 45
+<STR>(EST_P)
+<VOICE>(VS31_105)Which means I've got no 
+choice but to find Phaeroh 
+and ask him myself.
+
+## POINTER 46
+Duke
+<VOICE>(VS31_106)Do not be foolish. Meeting Phaeroh 
+would end only in the death of the 
+Child of the Full Moon.
+
+## POINTER 47
+<STR>(EST_P)
+<VOICE>(VS31_107)But...!
+
+## POINTER 48
+<STR>(RIT)
+<VOICE>(VS31_108)<STR>(EST_P), give it a rest.
+
+## POINTER 49
+<STR>(KAR)
+<VOICE>(VS31_109)Hey, Regaey...er, Yeager from 
+Ruins' Gate talked about the 
+Entelexeia earlier, didn't he?
+
+## POINTER 50
+<STR>(RAV)
+<VOICE>(VS31_110)Somethin' about them 
+bein' the ancient race 
+that built Nordopolica.
+
+## POINTER 51
+<STR>(RIT)
+<VOICE>(VS31_111)So Phaeroh built Nordopolica? 
+That doesn't seem possible.
+
+## POINTER 52
+Duke
+<VOICE>(VS31_112)Take your leave. There is 
+nothing more for you here.
+
+## POINTER 53
+<STR>(RIT)
+<VOICE>(VS31_113)Wait! There's something 
+I want to ask you, too!<PAGE><VOICE>(VS31_114)What were you doing 
+at that aer krene?<PAGE><VOICE>(VS31_115)Just who are you?! What 
+is that sword of yours?!
+
+## POINTER 54
+Duke
+<VOICE>(VS31_116)Those matters exceed 
+your comprehension.<PAGE><VOICE>(VS31_117)Do not ask of them again. Go. 
+I have nothing more to say.
+
+## POINTER 55
+<STR>(RIT)
+<VOICE>(VS31_118)Where do you get off?!
+
+## POINTER 56
+<STR>(YUR)
+<VOICE>(VS31_119)<STR>(RIT).

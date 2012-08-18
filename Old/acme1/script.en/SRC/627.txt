@@ -1,0 +1,18 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VA022_001)So why are we here, again?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VA022_002)Don't we have 
+other stuff to do?
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VA022_003)Well, we've come this far. 
+It wouldn't hurt to just go 
+and say hello to Phaeroh.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VA022_004)I'm hoping he won't be around...

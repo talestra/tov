@@ -1,0 +1,91 @@
+## POINTER 0
+<STR>(KAR)
+Hey, look over there!
+
+## POINTER 1
+<STR>(YUR)
+Nobis?! That guy 
+is Dyne's client?
+
+## POINTER 2
+<STR>(RAV)
+He's the one with the Soul Smiths, right?
+
+## POINTER 3
+<STR>(JUD)
+We should probably help him 
+out before he becomes lunch.
+
+## POINTER 4
+<STR>(YUR)
+Here we go!
+
+## POINTER 5
+<STR>(YUR)
+Yo, hang in there.
+
+## POINTER 6
+Nobis
+My...my Everlight. 
+Is it safe...?
+
+## POINTER 7
+<STR>(RIT)
+You're kidding. You mean you 
+haven't given that up yet?
+
+## POINTER 8
+<STR>(RAV)
+Some people never learn.
+
+## POINTER 9
+<STR>(EST_P)
+No matter how important it might be 
+to you, you'd have to be crazy to face 
+a monster like this on your own.<PAGE>This isn't something worth throwing 
+your life away for!
+
+## POINTER 10
+<STR>(RIT)
+Come on <STR>(EST_P), cut 
+him a little slack.
+
+## POINTER 11
+<STR>(EST_P)
+But he was hurt as it was, 
+already, and he came 
+here despite that...
+
+## POINTER 12
+Nobis
+Please...forgive me...
+
+## POINTER 13
+Nobis
+But I must...take 
+this back with 
+me... Aah...!
+
+## POINTER 14
+<STR>(EST_P)
+Nobis, hang on!
+
+## POINTER 15
+<STR>(YUR)
+Let's get him back 
+to Mantaic so 
+he can rest.
+
+## POINTER 16
+<STR>(KAR)
+Wait, we need some evidence that we beat 
+the monster... It's all about evidence...
+
+## POINTER 17
+<STR>(KAR)
+Here, this oughta do.
+
+## POINTER 18
+<STR>(JUD)
+Nobis may not make it if we don't 
+hurry. Are we finished here?

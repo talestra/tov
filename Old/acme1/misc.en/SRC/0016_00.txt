@@ -1,0 +1,312 @@
+## POINTER 3
+Sandwich
+
+## POINTER 4
+Egg salad sandwiched between two slices
+of bread. Restores a small amount of HP.
+
+## POINTER 5
+Restores 10% of max HP
+
+## POINTER 6
+Rice Ball
+
+## POINTER 7
+Rice rolled into a ball with a salmon filling.
+Restores a small amount of HP and TP.
+
+## POINTER 8
+Restores 15% of max HP and TP
+
+## POINTER 9
+Beef Bowl
+
+## POINTER 10
+A scrumptious bowl of rice topped with
+beef and tofu. Restores some HP.
+
+## POINTER 11
+Restores 20% of max HP
+
+## POINTER 12
+Omelette Rice
+
+## POINTER 13
+The harmony between eggs, ketchup and
+rice is to die for! Restores some HP and TP.
+
+## POINTER 14
+Restores 10% of max HP and TP
+
+## POINTER 15
+Curry
+
+## POINTER 16
+An all-time favorite dish made from a blend
+of spices. Restores a moderate amount of HP.
+
+## POINTER 17
+Restores 30% of max HP
+
+## POINTER 18
+Meat Sauce
+
+## POINTER 19
+Take caution when wearing white!
+Restores a moderate amount of HP and TP.
+
+## POINTER 20
+Restores 15% of max HP and TP
+
+## POINTER 21
+Cream Stew
+
+## POINTER 22
+The heavenly cream sauce is perfect with
+potatoes. Restores a large amount of HP.
+
+## POINTER 23
+Restores 40% HP
+
+## POINTER 24
+Skewers
+
+## POINTER 25
+A variety of grilled meat and vegetables.
+Restores a large amount of HP and TP.
+
+## POINTER 26
+Restores 20% of max HP and TP
+
+## POINTER 27
+Udon Noodles Hot Pot
+
+## POINTER 28
+These noodles are piping hot! Don't scorch
+your tongue! Restores a large amount of HP.
+
+## POINTER 29
+Restores 50% max HP
+
+## POINTER 30
+Mabo Curry
+
+## POINTER 31
+It's been said that this dish is for heroes.
+Restores a large amount of HP and TP.
+
+## POINTER 32
+Restores 25% of max HP and TP
+
+## POINTER 33
+Salisbury Steak
+
+## POINTER 34
+A juicy meat patty topped with a savory
+sauce. Increases Attack slightly.
+
+## POINTER 35
+Physical attack 3%
+
+## POINTER 36
+Pork Stew
+
+## POINTER 37
+These tender pork loins just melt away
+in your mouth. Increases Attack.
+
+## POINTER 38
+Physical attack 5%
+
+## POINTER 39
+Kebab Sandwich
+
+## POINTER 40
+Pita bread stuffed with meat and vegetables.
+Increases Attack moderately.
+
+## POINTER 41
+Physical attack 7%
+
+## POINTER 42
+Steak
+
+## POINTER 43
+A slice of sirloin steak grilled to perfection!
+Increases Attack greatly.
+
+## POINTER 44
+Physical attack 10%
+
+## POINTER 45
+Sukiyaki
+
+## POINTER 46
+Thin slices of beef and vegetables cooked
+in a sweet soy sauce. Increases Attack greatly.
+
+## POINTER 47
+Physical attack 15%
+
+## POINTER 48
+Fish with Miso Sauce
+
+## POINTER 49
+The miso sauce goes well with steamed rice.
+Increases P. Defense slightly.
+
+## POINTER 50
+Physical defense 5%
+
+## POINTER 51
+Sashimi
+
+## POINTER 52
+A delicacy consisting of raw, very fresh,
+thinly sliced seafood. Increases Defense.
+
+## POINTER 53
+Physical defense 10%
+
+## POINTER 54
+Seafood Bowl
+
+## POINTER 55
+A bowl of rice topped with a variety of fresh
+seafood. Tasty! Increases P. Defense moderately.
+
+## POINTER 56
+Physical defense 15%
+
+## POINTER 57
+Seafood Stew
+
+## POINTER 58
+Eaten by fishermen out at sea. Full of nutrients
+and goodness from the ocean. Increases P. Defense greatly.
+
+## POINTER 59
+Physical defense 20%
+
+## POINTER 60
+Sushi
+
+## POINTER 61
+A delicacy of vinegared rice and fresh fish
+Increases P. Defense greatly.
+
+## POINTER 62
+Physical defense 25%
+
+## POINTER 63
+Fried Chicken and Fries
+
+## POINTER 64
+A set of french fries and fried chicken.
+Perfect for parties. Increases Magic Attack slightly.
+
+## POINTER 65
+Magic attack 10%
+
+## POINTER 66
+Scottish Egg
+
+## POINTER 67
+A hard boiled egg wrapped with meat and
+fried with bread crumbs. Increases Magic Attack.
+
+## POINTER 68
+Magic attack 20%
+
+## POINTER 69
+Croquette
+
+## POINTER 70
+A deep fried potato morsel with a light,
+crispy texture. Increases Magic Attack moderately.
+
+## POINTER 71
+Magic attack 30%
+
+## POINTER 72
+Okonomiyaki
+
+## POINTER 73
+A hearty pan-fried meal cooked with various
+ingredients.  Increases Magic Attack greatly.
+
+## POINTER 74
+Magic attack 40%
+
+## POINTER 75
+Tempura
+
+## POINTER 76
+A dish of deep fried, lightly battered seafood
+or vegetables. Increases Magic Attack greatly.
+
+## POINTER 77
+Magic attack 50%
+
+## POINTER 78
+Minestrone Soup
+
+## POINTER 79
+A soup made with sun-ripened tomatoes.
+Very nutritious! Increases Magic Defense.
+
+## POINTER 80
+Magic defense 20%
+
+## POINTER 81
+Miso Soup
+
+## POINTER 82
+A traditional soup made with a miso broth.
+Increases Magic Defense.
+
+## POINTER 83
+Magic defense 40%
+
+## POINTER 84
+Clam Chowder
+
+## POINTER 85
+Made with a broth filled with all the goodness
+of the ocean! Increases Magic Defense moderately.
+
+## POINTER 86
+Magic defense 60%
+
+## POINTER 87
+Vichyssoise
+
+## POINTER 88
+A potato soup usually served cold.
+Increases Magic Defense greatly.
+
+## POINTER 89
+Magic defense 80%
+
+## POINTER 90
+Pork Miso Soup
+
+## POINTER 91
+A hearty soup with chunks of vegetables and
+pork in a miso broth. Increases Magic Defense greatly.
+
+## POINTER 92
+Magic defense 100%
+
+## POINTER 93
+Salad
+
+## POINTER 94
+Greens are good for you! Try them without
+dressing. Increases Agility.
+
+## POINTER 95
+Agility up (Small, 10 sec.)
+
+## POINTER 96
+Japanese Stew

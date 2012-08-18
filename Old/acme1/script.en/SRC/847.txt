@@ -1,0 +1,152 @@
+## POINTER 0
+<STR>(KAR)
+Wow... Everything's 
+totally different!
+
+## POINTER 1
+<STR>(EST_P)
+The town's gotten 
+so beautiful!
+
+## POINTER 2
+<STR>(RAV)
+I'm glad we helped 
+'em out.
+
+## POINTER 3
+<STR>(JUD)
+The townspeople seem to have a 
+little more of a twinkle in their 
+eyes now, don't you think?
+
+## POINTER 4
+<STR>(YUR)
+Yep, because they overcame all the 
+odds and completed their town!
+
+## POINTER 5
+<STR>(RIT)
+They must feel a great
+sense of accomplishment.
+
+## POINTER 6
+Agueron
+Hey, <STR>(YUR)! What do you 
+think of the town now?
+
+## POINTER 7
+<STR>(YUR)
+It's really impressive! 
+The town's really come 
+into its own now.
+
+## POINTER 8
+Agueron
+And it's all thanks to you 
+and your friends, <STR>(YUR).
+
+## POINTER 9
+<STR>(RAV)
+Please, please...it's 
+all in a day's work 
+for ol' <STR>(RAV).
+
+## POINTER 10
+<STR>(RIT)
+Did you even do anything 
+remotely useful at all?
+
+## POINTER 11
+<STR>(FRE)
+Hey, <STR>(YUR)!
+
+## POINTER 12
+<STR>(YUR)
+Hey, <STR>(FRE). It looks like 
+you've been busy here.
+
+## POINTER 13
+<STR>(FRE)
+Well isn't that the pot
+calling the kettle black!<PAGE>...I heard about what happened. It sounds 
+like you did quite a bit to help the town.
+
+## POINTER 14
+Agueron
+I'm sorry, <STR>(YUR). I thought 
+he might find out.
+
+## POINTER 15
+<STR>(YUR)
+Hey, it's not like I was trying 
+to keep it a secret or anything.
+
+## POINTER 16
+<STR>(FRE)
+It seems like every time I need some help, 
+you're there to lend a hand, <STR>(YUR).
+
+## POINTER 17
+<STR>(YUR)
+It's not just me. 
+We all helped.
+
+## POINTER 18
+<STR>(FRE)
+Yes, good point. Speaking on behalf of 
+our town, I'd like to thank all of you 
+from the bottoms of our hearts.
+
+## POINTER 19
+<STR>(EST_P)
+<STR>(FRE), don't worry about it. You 
+did what you could. It was just 
+our turn to do the same.
+
+## POINTER 20
+<STR>(KAR)
+You got that line from 
+<STR>(YUR), didn't you?
+
+## POINTER 21
+<STR>(FRE)
+<STR>(YUR), take this as 
+a token of my thanks, 
+would you?
+
+## POINTER 22
+<STR>(YUR)
+Nah, I don't 
+want it.
+
+## POINTER 23
+<STR>(JUD)
+Come on, why not?<PAGE>Presents are what's formed 
+when someone's pure 
+emotions take shape.
+
+## POINTER 24
+<STR>(RAV)
+She's right, kid.
+Just take it.
+
+## POINTER 25
+<STR>(FRE)
+I'm not sure if it'll come in handy or 
+not, but please, use it if you'd like.
+
+## POINTER 26
+<STR>(EST_P)
+It'll definitely come in handy. 
+Isn't that right, <STR>(YUR)?
+
+## POINTER 27
+<STR>(YUR)
+Mmm, yeah, it will. 
+I'll be sure to put 
+it to good use.
+
+## POINTER 28
+<STR>(EST_P)
+Good job accepting something
+graciously for a change, <STR>(YUR)!

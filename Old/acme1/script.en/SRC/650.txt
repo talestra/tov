@@ -1,0 +1,55 @@
+## POINTER 0
+Natz
+<VOICE>(VA050_068)I'm sorry, but the Duce is not 
+currently receiving visitors.<PAGE><VOICE>(VA050_069)Please come back later.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA050_070)Hey, we keep bumping into each other. Must be fate.
+
+## POINTER 2
+Duke
+<VOICE>(VA050_071)...There is no such thing.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VA050_072)Maybe not. What brings you 
+to a place like this?
+
+## POINTER 4
+Duke
+<VOICE>(VA050_073)I have come with tidings for the 
+age-old master of this city.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA050_074)Belius?<PAGE><VOICE>(VA050_075)Are you here on business with 
+a guild or something...? 
+...Probably not, right?
+
+## POINTER 6
+Duke
+<VOICE>(VA050_076)It is nothing so vulgar as that...
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VA050_077)Vulgar...? All right, 
+so what kind of noble 
+errand are you on?
+
+## POINTER 8
+Duke
+<VOICE>(VA050_078)I need not answer that.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA050_079)Don't tell me you're out to 
+save the world or something.
+
+## POINTER 10
+Duke
+<VOICE>(VA050_080)…………
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VA050_081)Man, what's with that guy?

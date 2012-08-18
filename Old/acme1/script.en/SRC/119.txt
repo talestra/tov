@@ -1,0 +1,76 @@
+## POINTER 0
+Leblanc
+<STR>(YUR) Looowell! I know that you're 
+here in these woods! Turn yourself 
+in like a good boy!
+
+## POINTER 1
+<STR>(YUR)
+You've gotta be kidding me. 
+Leblanc followed me all the 
+way outside the barrier?
+
+## POINTER 2
+<STR>(KAR)
+Uh, what? Who 
+followed you?
+
+## POINTER 3
+<STR>(YUR)
+Oh, just some guys from the Imperial Knights...
+
+## POINTER 4
+<STR>(KAR)
+Hah hah, yeah, right, the Knights are 
+chasing their own former member.
+
+## POINTER 5
+<STR>(KAR)
+Wait, seriously?!
+
+## POINTER 6
+Adecor
+I-I say, c-come out now, will you?
+
+## POINTER 7
+Boccos
+Sh-show yourself now and we-we'll 
+spare you a pummeling!
+
+## POINTER 8
+Leblanc
+Shaking in your boots at mere 
+rumors...and you call yourselves 
+knights of the Schwann Brigade.
+
+## POINTER 9
+<STR>(KAR)
+...So, what're they after you 
+for? Vandalism? Fraud? Smuggling? 
+Robbery? Murder? Arson?
+
+## POINTER 10
+<STR>(YUR)
+Umm, it's really just for jailbreak...
+
+## POINTER 11
+<STR>(YUR)
+Anyway, let's bolt!
+
+## POINTER 12
+<STR>(YUR)
+There we go.
+
+## POINTER 13
+<STR>(EST_P)
+We can't do that! It'll get in the way 
+of other people passing through!
+
+## POINTER 14
+<STR>(YUR)
+Who's gonna be passing through? These 
+woods are "cursed," remember?
+
+## POINTER 15
+<STR>(KAR)
+Waah, wait up!

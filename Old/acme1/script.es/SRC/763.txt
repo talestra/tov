@@ -1,0 +1,106 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297536097]
+Leblanc
+¡Señor <STR>(RAV),
+una misión bien hecha!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499965]
+<STR>(RAV)
+¿Misión? ¿De qué m'hablas?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806937]
+Leblanc
+¡Señor <STR>(RAV), incluso aquí ha llegado
+la noticia de su glorioso éxito!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499965]
+<STR>(RAV)
+Ya basta de formalidades.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806937]
+Leblanc
+¡Sí, señor, venía a decirle que traigo
+unas prendas que le regala Su Alteza!<PAGE>Es un regalo del señor Ioder para levantarle
+esos ánimos, señor <STR>(RAV). Por favor,
+lléveselas y que le sirvan en la batalla final.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499965]
+<STR>(YUR)
+Un traje para la batalla final, ¿eh?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806937]
+<STR>(EST_P)
+Se lo da el emperador a un comandante
+destacado para reconocer su lealtad
+y sus hazañas.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499965]
+<STR>(JUD)
+Probablemente intente animarte
+dándotelo antes de la batalla final.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527054]
+<STR>(RAV)
+Pero ¿no deberías dárselo
+a <STR>(FRE)? ¡No soy de los
+Caballeros Imperiales!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806937]
+Leblanc
+Al parecer el señor <STR>(FRE) se negó a aceptarlo.
+Dijo que es usted quien lo merece, señor <STR>(RAV), ya que
+será usted quien esté en el verdadero campo de batalla.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806937]
+<STR>(YUR)
+Creo que es la manera de <STR>(FRE) de decir:
+«Yo me encargaré de los errores de Schwann.
+Tú ve a darles la del pulpo».<PAGE>Se cabreará de lo lindo si lo decepcionas.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806937]
+<STR>(RAV)
+Entiendo. Pues entonces lo acepto
+encantao, como un regalo imperial
+de Su Alteza Ioder.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806937]
+<STR>(EST_P)
+Cuando lo aceptas, toca llevarlo.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499965]
+<STR>(RAV)
+¿Aquí mismo?
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499965]
+<STR>(EST_P)
+Sí, es la tradición.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499965]
+<STR>(JUD)
+Te queda muy bien.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499965]
+<STR>(RAV)
+M'alegro de qu'os guste.
+Y ahora démonos el piro.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291500132]
+Leblanc
+¡Ca-capitán Schwaaaann!<PAGE>¡Brigada de Schwann!
+¡Saludad al señor <STR>(RAV)!
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499965]
+Leblanc
+¡Que Dios le acompañe!
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499965]
+<STR>(KAR)
+Hala...
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499965]
+<STR>(RAV)
+¡Por eso quería
+que nos fuésemos!
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1291499973]
+<STR>(JUD)
+Todos tienen sus esperanzas puestas en nosotros.

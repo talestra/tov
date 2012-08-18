@@ -1,0 +1,54 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290102304]
+<STR>(YUR)
+Ah, ¿ya habéis acabado?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290102304]
+<STR>(JUD)
+Sí. ¡Ha sido muy relajante!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551058]
+<STR>(RIT)
+Pero ¡¿qué puñetas pasa con ese baño?!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298844561]
+<STR>(YUR)
+Je. ¿Por qué estás
+tan enfadada, <STR>(RIT)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846406]
+<STR>(EST_P)
+Hemos oído lo de <STR>(KAR).
+Por eso hemos salido
+del agua tan pronto.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846406]
+<STR>(JUD)
+La verdad, no entiendo qué problema hay
+en hacerles una escenita a los chicos.<PAGE>Podríamos haber hecho que <STR>(KAR) y <STR>(RAV)
+nos obedeciesen a pies juntillas.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551051]
+<STR>(RIT)
+Pero ¡¿qué cuentas?!<PAGE>¡Sabías que nos podían ver
+desde el otro lado, ¿verdad?!<PAGE>¡Por eso has salido
+tan rápido!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846406]
+<STR>(JUD)
+No me hubiera importado
+quedarme.<PAGE>Pero he pensado que sería más divertido ver vuestras
+reacciones desde fuera una vez que lo descubrierais.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298846406]
+<STR>(EST_P)
+<STR>(JUD)...
+Qué ideas tienes...
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290181887]
+<STR>(JUD)
+Oh, lo siento.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294609832]
+<STR>(RIT)
+¡Jamás en la vida me volveré a meter
+en ese manantial termal de pervertidos!

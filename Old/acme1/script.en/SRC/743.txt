@@ -1,0 +1,75 @@
+## POINTER 0
+<STR>(RIT)
+Here it is! This is "The Village 
+Carpeted with Flowers!"
+
+## POINTER 1
+
+Ah, such a tattered, old 
+book you have there...
+
+## POINTER 2
+<STR>(RIT)
+Ummm...would you mind 
+if we borrowed it?
+
+## POINTER 3
+
+Certainly, I don't mind. It's 
+just some old technical book. 
+It's all gibberish to me.
+
+## POINTER 4
+<STR>(YUR)
+Thanks a lot.
+
+## POINTER 5
+
+No, think nothing of it. I can 
+never thank you enough for
+what you've done for our town.
+
+## POINTER 6
+<STR>(YUR)
+All right, so you've finally 
+gotten all of them?
+
+## POINTER 7
+<STR>(RIT)
+Yep. I've collected 
+all five.<PAGE>Now I can go and 
+take that test.
+
+## POINTER 8
+<STR>(YUR)
+Going out to look for books all across 
+the world...what a crazy test!
+
+## POINTER 9
+<STR>(RIT)
+Oh, the real test has yet to begin.<PAGE>There'll be a written test that requires 
+using these books as reference material.
+
+## POINTER 10
+<STR>(YUR)
+Agh, just thinking about taking 
+tests makes my head hurt.
+
+## POINTER 11
+<STR>(RIT)
+Wouldn't you like to give it a 
+try? Just to see how you do.
+
+## POINTER 12
+<STR>(YUR)
+Nah, I wouldn't have a chance. I don't care 
+about that what's-his-face degree anyway.
+
+## POINTER 13
+<STR>(RIT)
+Yeah, giving something like that to you
+would be like casting pearls before swine.
+
+## POINTER 14
+<STR>(YUR)
+Hey, who're you calling swine?!

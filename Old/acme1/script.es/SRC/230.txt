@@ -1,0 +1,93 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1280087861]
+<STR>(RIT)
+Tú también portas una lanza...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1274048013]
+<STR>(JUD)
+Oh. ¿Conoces a alguien
+más que use también una?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1274048013]
+<STR>(RIT)
+Eh, no exactamente.
+Es solo que me recuerda
+a cierto cretino.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1274048013]
+<STR>(KAR)
+¿Te refieres al
+jinete del dragón?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1274048013]
+<STR>(RIT)
+Sí...<PAGE>Oye, ¿no se supone que tendrías
+que estar diciéndome algo?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1274048013]
+<STR>(YUR)
+¿Quién? ¿Yo?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1280087861]
+<STR>(RIT)
+Sí.
+Dónde está ahora el
+mamarracho del dragón.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1280087861]
+<STR>(YUR)
+Nos separamos en el tejado. Estoy bastante
+seguro de que no lo hirieron de gravedad...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1280087861]
+<STR>(RIT)
+¡Bien, porque no podría descuartizarlo
+como es debido si me lo encontrara herido!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1280087861]
+<STR>(RAV)
+¡Oye, oye! ¿Has venío
+hasta acá solo por eso?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1274048013]
+<STR>(RIT)
+¡No¡ ¡Tampoco pienso perdonarle
+a Barbos lo que ha hecho!<PAGE>¡Mira que abusar así de los blastias!
+¿Es que no se le cae la cara de la vergüenza?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1274048013]
+<STR>(YUR)
+Esa no es razón para traer
+a nuestra princesita a un
+sitio tan peligroso.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528111]
+<STR>(EST_P)
+No es culpa de <STR>(RIT).
+Yo misma decidí venir.<PAGE>No puedo ver a gente malvada haciendo
+daño a inocentes y quedarme sin hacer nada.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1274048013]
+<STR>(JUD)
+Lo mismo digo.
+Muy bien dicho.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1274048013]
+<STR>(YUR)
+¡Capitán <STR>(KAR), no me decepciones! 
+¡Confío en tus habilidades!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1280087861]
+<STR>(KAR)
+¡Sí, por supuesto!
+¡Vamos a por ese idiota!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528164]
+<STR>(YUR)
+Lo siento, pero ¿te importaría no decir nada
+sobre tu historial? Ya has visto que tenemos
+a alguien que estallaría de ira si se enterara.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1280087861]
+<STR>(JUD)
+Claro. Lo entiendo.
+Es lo mejor para todos.

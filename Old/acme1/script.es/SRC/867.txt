@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1294107039]
+<STR>(EST_P)
+Me siento como si
+estuviera engañando
+a ese doctor...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1294107039]
+<STR>(YUR)
+¿Te refieres a que no tienes
+intención de convertirte en sanadora?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1294107039]
+<STR>(EST_P)
+Sí...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294107039]
+<STR>(RAV)
+A mí no me parece para tanto.
+El hospital anda tó corto de
+personal y tú les echas un cable.<PAGE>Seguro que aprecian la ayuda. Y tú
+no puedes evitar que él espere que
+llegues a ser argo que tú no quieres.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1294107039]
+<STR>(EST_P)
+Supongo que tienes razón...

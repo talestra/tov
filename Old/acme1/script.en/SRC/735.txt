@@ -1,0 +1,99 @@
+## POINTER 0
+<STR>(YUR)
+...You know, I think it'd be 
+better if we turned back.
+
+## POINTER 1
+<STR>(RIT)
+How come?
+
+## POINTER 2
+<STR>(KAR)
+This is where that 
+broken blastia is.
+
+## POINTER 3
+<STR>(RIT)
+I know that.
+
+## POINTER 4
+<STR>(YUR)
+Come on, let's go back. 
+If the knights find us 
+we'll get in trouble.
+
+## POINTER 5
+<STR>(RIT)
+I just want to have a 
+look at that blastia!<PAGE>...I'm just going to look.
+
+## POINTER 6
+<STR>(EST_P)
+You might get caught!
+
+## POINTER 7
+<STR>(RIT)
+I'm not that much of a klutz!
+
+## POINTER 8
+<STR>(EST_P)
+<STR>(RIT)...!
+
+## POINTER 9
+<STR>(YUR)
+Hey now...
+
+## POINTER 10
+<STR>(RIT)
+Ekaterine...
+
+## POINTER 11
+<STR>(KAR)
+Ekaterine...
+...She 
+named that blastia, 
+didn't she?
+
+## POINTER 12
+<STR>(RIT)
+......
+
+## POINTER 13
+<STR>(YUR)
+All set?
+
+## POINTER 14
+<STR>(RIT)
+Yes.<PAGE>There's...nothing that 
+I can do for her...
+It's just too cruel...
+
+## POINTER 15
+<STR>(KAR)
+I mean, I understand that blastia 
+are very valuable items, but...
+
+## POINTER 16
+<STR>(RIT)
+It's not about how valuable they are. Countless people have 
+given their lives to make human civilization what it is.<PAGE>And blastia have been living together with 
+mankind all of that time. They're more 
+than just a simple tool that we use.
+
+## POINTER 17
+<STR>(YUR)
+...Well, it's certainly 
+clear that blastia are 
+very important to <STR>(RIT).
+
+## POINTER 18
+<STR>(EST_P)
+Yes.
+
+## POINTER 19
+<STR>(YUR)
+If you're all finished here, we should be on our way.
+
+## POINTER 20
+<STR>(RIT)
+Okay.

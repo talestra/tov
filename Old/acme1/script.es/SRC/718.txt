@@ -1,0 +1,331 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(YUR)
+¿Eh? ¿Y esta marabunta?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511422]
+
+¿Le apetece apuntarse a un desafío, joven?<PAGE>¡Este es el «Desafío de Grandes Voces»
+que se celebra anualmente en Dahngrest!<PAGE>¡Todo el mundo puede participar!
+¡Gana aquel que sea capaz
+de gritar con más fuerza!<PAGE>
+¡Y el ganador se lleva un fantástico premio, por supuesto!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(EST_P)
+Parece... un concurso
+de dar voces.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(RIT)
+No se puede ser más cutre...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+
+¡El actual campeón es Shiva, el dueño
+de la posada local, cuyo tremebundo
+grito tiene una puntuación de 765 puntos!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Shiva
+¡Eishrrraaaaah!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(JUD)
+Oye, parece divertido.
+Creo que voy a probar.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(KAR)
+¡¿Ju-Judith?!...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(RIT)
+¿Q-Qué? ¿Va en serio?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+
+¡¿Qué tenemos aquí?! ¡Parece que tenemos
+un aspirante! ¡Y además una mujer!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(JUD)
+¡¡Sheeeeyaaaaaa!!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511422]
+
+¡I-Increíble! ¡Un nuevo
+récord! ¡¡1192 puntos!!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Shiva
+I-Imposible...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511422]
+<STR>(YUR)
+Mi madre...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(EST_P)
+Q-Qué fuerte...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+
+¡¿Se habrá decidido nuestro
+concurso tras tamaño récord?!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+
+Nosotros también queremos participar.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(KAR)
+¡Nan!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(YUR)
+No me esperaba veros aquí.
+¿No os dedicabais a cazar monstruos?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Tison
+¡En efecto! ¡Pero nos encantan
+las buenas competiciones!<PAGE>¡Allá voy!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Tison
+¡Urrrraaaaaaaaargh!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511422]
+
+¡O-Otra actuación apabullante! 
+¡1180 impresionantes puntos!<PAGE>¡Una actuación formidable, que casi
+consigue alcanzar la de nuestra anterior
+contendiente, la señorita <STR>(JUD)!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Tison
+¡Arrrrgh!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(JUD)
+Ji, ji, ji.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Clint
+Me toca.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Nan
+¡J-Jefe!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(YUR)
+Ya sacan la artillería pesada, ¿eh?
+Esto va cada vez más en serio...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Clint
+¡¡Gyaaaaaaoooo!!!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1293549316]
+
+¡D-D-Damas y caballeros, jamás
+antes había visto nada parecido!<PAGE>¡1300 puntos! ¡Hay que verlo para creerlo!<PAGE>
+Justo cuando creíamos que la señorita <STR>(JUD) había decidido la competición
+con su potente voz, ha aparecido otra que la ha superado!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(JUD)
+Oooh...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Tison
+¡Ese es nuestro jefe!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(YUR)Parece que tiene un vozarrón acorde
+con ese armario de cuerpo que se gasta.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(RIT)
+Es casi como un monstruo, de hecho...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+
+¡Amigos, por lo visto nuestro concurso
+ha quedado decidido! El ganador del
+Desafío de Grandes Voces de este año es...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(KAR)
+¡E-Esperad!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511422]
+<STR>(KAR)
+¡Yo... yo también quiero intentarlo!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(YUR)
+¿Eh?
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Clint
+...
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(JUD)
+Je... No me extraña, teniendo aquí a cierta chica presente...
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Nan
+<STR>(KAR)...
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+
+¡Asombroso! Cuando todo parecía decidido,
+una nueva voz se alza de entre el público.
+¡Y dicha voz pertenece a un aguerrido niño!
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:kaene;time:1294059224]
+¿Qué vas a gritar?
+Un acalorado grito de guerra
+Una ardiente declaración de amor
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:Lia;time:1294157407]
+<STR>(KAR)
+¡¡Caída... DESGARRADORAAA!!
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Nan
+¡¡...!!
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511422]
+
+¡¡F-F-Fantástico!! ¡Una arrolladora 
+puntuación de 1322 puntos!<PAGE>¡¿Quién iba a pensar que un niño
+tan pequeño tendría una voz tan colosal?!<PAGE>¡Supera el récord impuesto por Clint, el anterior participante!
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Clint
+Mmpf...
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Nan
+<STR>(KAR)...
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(KAR)
+Ah... Nan...
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511422]
+
+Qué día más increíble
+hemos tenido, amigos.<PAGE>¡Ha sido un récord tras otro!
+¡Una batalla de las que se ven
+pocas veces a lo largo de la historia!<PAGE>¡Y lo que es más! ¡El vencedor no ha sido
+otro que el Adalid de la Pubertad, el Mamut
+en miniatura, el único e inimitable... <STR>(KAR)!
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(KAR)
+¡L-Lo he conseguido!
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:xander;time:1293549316]
+
+¡Y para nuestro ganador tenemos
+esta poderosa arma, obra de los
+artesanos más habilidosos de Dahngrest!
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(KAR)
+¡Oh... gracias!
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(JUD)
+Has estado fantástico, <STR>(KAR).
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(KAR)
+G-Gracias...
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(KAR)
+¡¡NAN, TE QUIEROOOOOOOOOO!!
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(YUR)
+¿Eing?
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511020]
+<STR>(RIT)
+¡¿Se... se le ha ido la olla?!
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511020]
+Nan
+¡¡...!!
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+
+¡Oooooooh! ¡Damas y caballeros, he aquí
+una declaración de amor totalmente inesperada!<PAGE>¡Y una nueva puntuación de las que
+quitan el hipo! ¡1295 puntos!<PAGE>¡N-No obstante! ¡Esta sobrecogedora muestra
+de afecto se queda a medio paso de igualar
+la puntuación de Clint, el anterior participante!
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(KAR)
+¡Porras!
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+
+Qué día más increíble
+hemos tenido, amigos...<PAGE>¡Ha sido un récord tras otro!
+¡Una batalla de las que se ven
+pocas veces a lo largo de la historia!<PAGE>¡Y lo que es más! ¡El vencedor
+de dicha batalla es nada más y nada menos
+que Clint, líder de los Espadas Cazadoras!
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Clint
+Mmpf...
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:xander;time:1293549316]
+
+¡Y para nuestro ganador tenemos
+esta poderosa arma, obra de los
+artesanos más habilidosos de Dahngrest!
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Clint
+...
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+Clint
+No la necesito.
+Puedes quedártela tú...
+
+## POINTER 65 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511422]
+<STR>(KAR)
+¿Eh?...
+¿N-No le importa?
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(KAR)
+Ah... Nan...
+
+## POINTER 67 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(YUR)
+Oye, has hecho lo que has podido. Eso es lo que cuenta.
+
+## POINTER 68 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(RIT)
+Pero podrías haber escogido
+otra frase, la verdad...
+
+## POINTER 69 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(JUD)
+Has estado increíble, <STR>(KAR).
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:xander;time:1290166958]
+<STR>(KAR)
+G-Gracias...

@@ -1,0 +1,302 @@
+## POINTER 568
+010 Better explain to everyone
+
+## POINTER 569
+020 This place is pretty empty
+
+## POINTER 570
+030 Stay at the inn
+
+## POINTER 571
+040 Prepare a replica Dein Nomos
+
+## POINTER 572
+050 The Tower of Tarqaron rises
+
+## POINTER 573
+060 Meet up with Witcher and Sodia
+
+## POINTER 574
+070 Why not blame me?
+
+## POINTER 576
+010 Named as "Vesperia"
+
+## POINTER 577
+020 Find <STR>(FRE)
+
+## POINTER 578
+030 It you and me on this job
+
+## POINTER 579
+040 Vesperia fires
+
+## POINTER 580
+050 Need to convert core into spirits
+
+## POINTER 581
+060 Reason you tried to kill me
+
+## POINTER 583
+010 Harry will go
+
+## POINTER 585
+010 Natts will go
+
+## POINTER 587
+010 The city is under critical condition
+
+## POINTER 588
+020 The councel is in tangle
+
+## POINTER 589
+030 Might able to create a network!?
+
+## POINTER 590
+040 Waiting at the entrance
+
+## POINTER 591
+050 All to this sword
+
+## POINTER 592
+060 A path we cannnot avoid
+
+## POINTER 593
+070 After this battle comes to an end
+
+## POINTER 594
+080 My dream
+
+## POINTER 595
+090 Meaning of life
+
+## POINTER 596
+100 Yoder's speach
+
+## POINTER 598
+010 Enter the tower of Tarqaron
+
+## POINTER 599
+020 Before fight with Duke
+
+## POINTER 600
+030 Last fight against Zagi
+
+## POINTER 601
+040 Are you all ready?
+
+## POINTER 602
+050 Last battle (First part)
+
+## POINTER 603
+060 Last battle (Second part)
+
+## POINTER 604
+070 Just before the ending
+
+## POINTER 606
+This is Town Warp
+
+## POINTER 607
+Town Warp
+
+## POINTER 608
+◎ Zaphias Public Quarter
+
+## POINTER 609
+◎ Zaphias Royal Quarter
+
+## POINTER 610
+◎ Zaphias (Destroyed)
+
+## POINTER 611
+◎ Zaphias Royal Quater (Destroyed)
+
+## POINTER 612
+◎ Deidon Hold
+
+## POINTER 613
+◎ The City of Blossoms Halure
+
+## POINTER 614
+◎ Sealed Academic City Aspio
+
+## POINTER 615
+◎ Capua Nor (Imperial City)
+
+## POINTER 616
+◎ Capua Torim (Guild)
+
+## POINTER 617
+◎ The Rising City Heliord
+
+## POINTER 618
+◎ The Guilds' Den Dahngrest
+
+## POINTER 619
+◎ The Colosseum City Nordopolica
+
+## POINTER 620
+◎ Desert Oasis Mantaic
+
+## POINTER 621
+◎ The Heartland Town Yormgen (Illusionary)
+
+## POINTER 622
+◎ The Heartland Town Yormgen (Actual)
+
+## POINTER 623
+◎ The Home of the Kritya Myorzo
+
+## POINTER 624
+◎ The Land of Hope Aurnion (Level. 1)
+
+## POINTER 625
+◎ The Land of Hope Aurnion (Level. 2)
+
+## POINTER 626
+◎ The Land of Hope Aurnion (Level. 3)
+
+## POINTER 627
+◎ Ship
+
+## POINTER 628
+◎ The Happy Place Nam Cobanda Isle
+
+## POINTER 629
+◎ Hot Spring Spa Yumanju
+
+## POINTER 630
+◎ Event, Universal Map
+
+## POINTER 631
+Latest Info.
+
+## POINTER 632
+Inn
+
+## POINTER 633
+Cancel
+
+## POINTER 634
+Data has been fixed. 
+Data will not be updated anymore.
+
+## POINTER 636
+This is Town Warp
+
+## POINTER 637
+Town Warp
+
+## POINTER 638
+◎ Zaphias Castle
+
+## POINTER 639
+◎ Quoi Woods
+
+## POINTER 640
+◎ Shaikos Ruins
+
+## POINTER 641
+◎ Ehmead Hill
+
+## POINTER 642
+◎ Caer Bocram
+
+## POINTER 643
+◎ Forest of Keiv Moc
+
+## POINTER 644
+◎ The Tower of Gears Ghasfarost
+
+## POINTER 645
+◎ The Ghost Ship Atherum
+
+## POINTER 646
+◎ The Weasand of Cados
+
+## POINTER 647
+◎ Sands of Kogorh
+
+## POINTER 648
+◎ Mt. Temza
+
+## POINTER 649
+◎ The Manor of the Wicked
+
+## POINTER 650
+◎ The Forgotten Shrine Baction
+
+## POINTER 651
+◎ The Mobile Fortress Heracles
+
+## POINTER 652
+◎ Zopheir Rift
+
+## POINTER 653
+◎ Egothor Forest
+
+## POINTER 654
+◎ The Enduring Shrine of Zaude
+
+## POINTER 655
+◎ The Erealumen Crystallands
+
+## POINTER 656
+◎ Relewiese Hollow
+
+## POINTER 657
+◎ The Ancient Tower Tarqaron
+
+## POINTER 658
+◎ Aer Krene 1 (Yurzorea)
+
+## POINTER 659
+◎ Aer Krene 2 (Ilyccia)
+
+## POINTER 660
+◎ Aer Krene 3 (Tolbyccia)
+
+## POINTER 661
+◎ Aer Krene 4 (Desier)
+
+## POINTER 662
+◎ EX Dungeon
+
+## POINTER 663
+× Event Map
+
+## POINTER 664
+◎ Zaphias Sewer
+
+## POINTER 665
+◎ 御剣の階梯 Unknown
+
+## POINTER 666
+Latest Info.
+
+## POINTER 667
+Come back if you need to
+go to a dungeon.
+
+## POINTER 668
+You can't warp to the selected location.
+
+## POINTER 669
+Data has been fixed. 
+Data will not be updated anymore.
+
+## POINTER 670
+Request canceled
+
+## POINTER 672
+This is Field Warp
+
+## POINTER 673
+Field Warp
+
+## POINTER 674
+Continent 1
+
+## POINTER 675
+Continent 2

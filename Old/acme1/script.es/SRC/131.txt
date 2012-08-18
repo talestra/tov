@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007345]
+<STR>(KAR)
+<VOICE>(VS10_017)Esto está patas arriba.
+¿Quién podría vivir en un sitio así?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007345]
+<STR>(YUR)
+<VOICE>(VS10_018)Si uno se lo propone, puede vivir
+en cualquier lugar donde pueda dormir
+y comer.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007345]
+<STR>(EST_P)
+<VOICE>(VS10_019)¿No deberías decir algo antes, <STR>(YUR)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1272376886]
+<STR>(YUR)
+<VOICE>(VS10_020)Eh... ¿Hola?
+Vamos a entrar.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:parsec;time:1271973760]
+<STR>(EST_P)
+<VOICE>(VS10_021)¿Y la puerta?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007345]
+<STR>(YUR)
+<VOICE>(VS10_022)<STR>(KAR) acaba de forzarte
+la puerta. Lo sentimos.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007345]
+<STR>(EST_P)
+<VOICE>(VS10_023)Si es que, <STR>(YUR)...
+Perdón, ¿hay alguien por casa?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007345]
+<STR>(YUR)
+<VOICE>(VS10_024)Menos mal que no hay nadie.
+Así podemos buscar pruebas.

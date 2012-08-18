@@ -1,0 +1,144 @@
+## POINTER 0
+
+You started 
+all of this!
+
+## POINTER 1
+
+Huh? What are you talking about!
+
+## POINTER 2
+Regaey
+B-both of you, s-stop 
+this nonsense!<PAGE>M-making a scene like this out 
+in f-front of everyone...
+
+## POINTER 3
+
+Mind your own business!
+
+## POINTER 4
+<STR>(YUR)
+You'd better put that away before you hurt yourself.
+
+## POINTER 5
+
+Who the hell are you!
+
+## POINTER 6
+
+Hey!
+
+## POINTER 7
+<STR>(JUD)
+If I'm wrong for doing this, you'll have 
+my apology later. But I think it's you 
+two who are in the wrong, here.
+
+## POINTER 8
+
+Damn it...
+
+## POINTER 9
+<STR>(EST_P)
+Are you okay?
+
+## POINTER 10
+Regaey
+Oh, th-thank you 
+so m-much!<PAGE>You were w-with 
+M-madam President 
+K-Kaufman...
+
+## POINTER 11
+<STR>(KAR)
+We're the guild, Brave Vesperia!
+
+## POINTER 12
+<STR>(RIT)
+Come on, you're like a walking billboard!
+
+## POINTER 13
+<STR>(JUD)
+Heh heh, let him have his fun.
+
+## POINTER 14
+<STR>(YUR)
+You're Regaey of 
+Ruins' Gate, right?<PAGE>You might want to work out a little before 
+you go trying to stop any more fights.
+
+## POINTER 15
+Regaey
+Oh, yes. I'm sorry. 
+Th-thanks...
+
+## POINTER 16
+Regaey
+Oh, umm, th-there's 
+a f-favor I wanted 
+to ask of you...
+
+## POINTER 17
+<STR>(KAR)
+Far be it for us to ignore 
+a request from Ruins' Gate!
+
+## POINTER 18
+<STR>(YUR)
+Well, it depends on what it is. 
+What did you want to ask us?
+
+## POINTER 19
+Regaey
+P-perhaps we could discuss this s-somewhere else...<PAGE>Could you come to the coliseum? 
+W-we could talk about it there.
+
+## POINTER 20
+<STR>(RAV)
+Whatever he has to say, he doesn't want anyone else 
+to overhear... Sounds pretty suspicious to me.
+
+## POINTER 21
+<STR>(KAR)
+If Ruins' Gate recognizes 
+us, it'll help improve our 
+reputation as a guild...
+
+## POINTER 22
+<STR>(JUD)
+Get too greedy with jobs and you'll 
+end up neglecting all of them. 
+Our job for the moment...
+
+## POINTER 23
+<STR>(YUR)
+...is to look for Phaeroh 
+and to escort <STR>(EST_P).
+
+## POINTER 24
+<STR>(KAR)
+Yeah, you're right... I'll 
+try to be more careful.
+
+## POINTER 25
+<STR>(EST_P)
+But couldn't we at least hear what 
+he has to say first, and then decide 
+whether or not to accept?
+
+## POINTER 26
+<STR>(YUR)
+Yeah, maybe you're right...
+
+## POINTER 27
+<STR>(RIT)
+If he asks too much, we'll just say 
+no. We don't have the time to be getting 
+wrapped up in more craziness.
+
+## POINTER 28
+<STR>(YUR)
+Let's go and stop by the 
+coliseum, then. We can at 
+least hear him out.

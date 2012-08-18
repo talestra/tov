@@ -1,0 +1,65 @@
+## POINTER 0
+<STR>(EST_P)
+Master!
+
+## POINTER 1
+Drake
+Princess! You 
+look well.<PAGE>You've grown into a 
+strong young woman.<PAGE>I'm sure you've seen many amazing 
+things so far in your journey.
+
+## POINTER 2
+<STR>(EST_P)
+Yes, I have! Master, I have 
+so much to tell you!<PAGE>Recently, I saw the sea! 
+It was so amazing!<PAGE>I'd heard about it in stories, but it 
+was even bigger than I thought...<PAGE>But that's not all! We took a ship onto 
+the sea, and there was water in every 
+direction, no matter where we looked...<PAGE>And then, we went into a nightmarish desert, with 
+nothing but sand for as far as the eye could see! 
+The sunshine was so hot, it was unreal...<PAGE>And then there was a dreamlike city 
+floating in the sky, and then...
+
+## POINTER 3
+Drake
+Heh heh.<PAGE>All of those were new experiences 
+for you, weren't they?
+
+## POINTER 4
+<STR>(EST_P)
+Yes! I'm ashamed of how little I knew 
+of the world outside the castle...
+
+## POINTER 5
+Drake
+You still have much left to see. 
+Don't let your journey end yet.
+
+## POINTER 6
+<STR>(EST_P)
+Yes, I'd like to see and learn about 
+many, many more things in the world, 
+as a member of the imperial family.
+
+## POINTER 7
+Drake
+Long ago, the Emperor's brother organized the 
+Regin Expeditionary Force to explore the 
+world and maintain peace in the empire...<PAGE>Seeing you now, it is as if 
+I'm looking into the eyes of 
+His Highness Regin himself.
+
+## POINTER 8
+<STR>(EST_P)
+Thank you...<PAGE>Master...
+
+## POINTER 9
+Drake
+To make sure that you follow the 
+right path...that is my true duty 
+as your subject, Princess.
+
+## POINTER 10
+<STR>(EST_P)
+Thank you...

@@ -1,0 +1,129 @@
+## POINTER 0
+<STR>(YUR)
+Hey kid, how's it goin'?
+
+## POINTER 1
+Alph
+Oh, it's you! Yay!
+
+## POINTER 2
+
+Thank you for saving 
+our Mommy and Daddy!
+
+## POINTER 3
+<STR>(RAV)
+Aw, shucks, kids, 'tweren't nothin'!
+
+## POINTER 4
+<STR>(RIT)
+What are you getting all 
+bashful for, old man?
+
+## POINTER 5
+<STR>(JUD)
+After all, we even got a 
+reward for helping them.
+
+## POINTER 6
+<STR>(JUD)
+Oh, what's the matter?
+
+## POINTER 7
+
+Hey, it's you!
+Thanks so much 
+for your help back there!
+
+## POINTER 8
+
+Thanks to you, our children have someone 
+to take care of them again.
+
+## POINTER 9
+<STR>(EST_P)
+No, really, we hardly 
+did anything.
+
+## POINTER 10
+
+No, no, it's thanks to all of 
+the precious water you shared 
+with us that we're here today!
+
+## POINTER 11
+
+I doubt this is really enough to thank 
+you for all you've done, but...
+
+## POINTER 12
+
+No, no, it's thanks to the precious 
+water you shared with us that 
+we were able to survive.
+
+## POINTER 13
+
+Please take this as a token of our 
+thanks for saving our lives.
+
+## POINTER 14
+
+That's true, you hardly even 
+had any water to give us...
+
+## POINTER 15
+
+B-but...they protected 
+us from that 
+monster!
+
+## POINTER 16
+
+Well, for a while, but then we all ended 
+up getting knocked unconscious anyway...
+
+## POINTER 17
+
+You ungrateful... Oh, uh, 
+um, thanks! Take this!
+
+## POINTER 18
+<STR>(KAR)
+Thank you!
+
+## POINTER 19
+
+It's the least we could 
+do. Thank you.
+
+## POINTER 20
+<STR>(JUD)
+Here you go.
+
+## POINTER 21
+Alph
+Huh...?
+
+## POINTER 22
+<STR>(JUD)
+This is important to you, right? 
+You can have it back.
+
+## POINTER 23
+Alph
+But...
+
+## POINTER 24
+<STR>(JUD)
+Don't worry, your Mom and Dad already gave 
+us something to thank us for helping them.<PAGE>We couldn't take your reward, 
+too! That would be greedy!
+
+## POINTER 25
+Alph
+O-okay...!
+
+## POINTER 26
+<STR>(JUD)
+See ya later, okay?

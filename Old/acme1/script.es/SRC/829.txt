@@ -1,0 +1,161 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1294101813]
+<STR>(KAR)
+¿Q-Quién eres?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294683178]
+
+¡Ding, dong! ¡Soy el Vacaz!
+Podéis llamarme Caz, que es más
+corto. ¡Un placer!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1294683178]
+<STR>(RIT)
+¿Caz? ¿Es que Vacaz no te parece
+ya lo bastante corto?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294101813]
+
+¡No hagas la fresca,
+doña Maite Taplana!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294683178]
+<STR>(RAV)
+¡¡M-Mai... te Taplana!! ¡Jua, jua, jua! 
+¡Mu buena esa, Caz!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1294101813]
+<STR>(RIT)
+¡Estoy rodeada de lerdos! ¿Qué tiene
+de bueno tener las tetas grandes?
+¡Lo único que hacen es molestar!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1294101813]
+<STR>(RAV)
+S-Supongo...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1294101813]
+<STR>(YUR)
+Bueno, ¿qué haces
+en un sitio así?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1294101813]
+
+¡Bueeeeeeeeeena pregunta!
+Digamos que ando ayudando
+con las tareas.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1294101813]
+<STR>(EST_P)
+¡Oh, qué buen chico!
+¡Estás ayudando a tu
+madre con los quehaceres!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1294935839]
+
+¿Mi madre? ¿Estás majareta o qué?
+¿Cuándo he dicho algo de eso?
+¡Esto ayudando a Antoleón!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1294509018]
+<STR>(JUD)
+¿Antoleón es el nombre de
+algún amigo tuyo o algo?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296169078]
+
+¡Ajáááá! Algo así,
+Ramona Pechugona.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1294682462]
+<STR>(KAR)
+Ramona... Pechugona...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296169078]
+
+Bueno, ¿podríais prestarme
+un gel de manzana? Si me lo
+dais, os mostraré a qué me refiero.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1294101813]
+
+¡Oh, gracias!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1294246531]
+
+¡Vuelta y vuelta y a girar!
+¡Solo yo sé dónde vamos a parar!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1294101813]
+
+¡Pillado!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296169078]
+
+¡Oh, jo, jo!
+¡Gracias,
+gracitas!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296169078]
+<STR>(YUR)
+Pero ¿qué leches ha sido...?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:kaene;time:1294509018]
+
+Ese es mi amigo Antoleón.
+Podéis llamarlo Tole,
+que es más corto.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1294101813]
+<STR>(RAV)
+Yo... ya me
+he perdío...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:kaene;time:1294246531]
+<STR>(JUD)
+Entonces... Se ha quedado
+con el gel de manzana, ¿no?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:kaene;time:1294246531]
+<STR>(KAR)
+Eso creo... Me he quedado tan
+sorprendido por esa cosa tan
+rara, que ni me he enterado.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1296169078]
+<STR>(RIT)
+¡Oye, tú,
+devuélvenos ese gel!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:kaene;time:1294682513]
+
+¿Devolverlo?
+¡No seas cruel,
+Maite Taplana!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:kaene;time:1294246752]
+
+Os tendréis que quedar
+con esto a cambio. Tomad.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1296169078]
+
+¡Recién ordeñada de esas ubres
+que tienes! ¡Mua, ja, ja, ja! ∀
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:kaene;time:1294246752]
+
+¡Tú no me engañas, embustero!
+¡No hagas ofertas que
+no puedes mantener!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:kaene;time:1294246752]
+
+¡Mira que eres agarrado! ∀
+Vuelve si cambias
+de idea.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:kaene;time:1294246752]
+
+Anda, has vuelto. Entonces,
+¿has cambiado de idea sobre
+lo del gel de manzana?

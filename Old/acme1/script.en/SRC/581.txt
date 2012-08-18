@@ -1,0 +1,61 @@
+## POINTER 0
+<STR>(YUR)
+Huh...? Hey, what's that
+red thing over there...?
+
+## POINTER 1
+<STR>(KAR)
+Is that...?
+
+## POINTER 2
+<STR>(RIT)
+Hey...there are a lot of impurities, 
+but this is definitely Everlight ore.
+
+## POINTER 3
+<STR>(KAR)
+Awesome!
+
+## POINTER 4
+<STR>(YUR)
+Now we just need to tell Nobis, 
+and we're done with this job.
+
+## POINTER 5
+<STR>(KAR)
+Hey, shouldn't we bring 
+some back for him 
+since we're here?
+
+## POINTER 6
+<STR>(JUD)
+Sure, I don't see why not.
+
+## POINTER 7
+<STR>(YUR)
+Well let's do some digging, then.
+
+## POINTER 8
+<STR>(YUR)
+Here we go... This is a 
+pretty good-sized chunk.
+
+## POINTER 9
+<STR>(RIT)
+Hey, do you all hear something?
+
+## POINTER 10
+<STR>(KAR)
+What is that...!
+
+## POINTER 11
+<STR>(JUD)
+Well? Do we fight it?
+
+## POINTER 12
+<STR>(KAR)
+No way! Let's get out of here!
+
+## POINTER 13
+<STR>(YUR)
+...You heard him.

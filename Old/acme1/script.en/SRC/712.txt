@@ -1,0 +1,117 @@
+## POINTER 0
+<STR>(YUR)
+<STR>(KAR), what are you doing? 
+Let's hurry up and go.
+
+## POINTER 1
+<STR>(KAR)
+Y-yeah...
+
+## POINTER 2
+<STR>(RIT)
+..........
+
+## POINTER 3
+<STR>(KAR)
+Waaaaaaaaahhhhhh...!
+
+## POINTER 4
+<STR>(KAR)
+Get away! Don't touch me! Stay back!
+
+## POINTER 5
+<STR>(EST_P)
+<STR>(KAR), <STR>(KAR), it's okay! 
+It already flew away.
+
+## POINTER 6
+<STR>(KAR)
+...Huh? Ha, ha ha ha, it did...
+Alright, let's keep moving.
+
+## POINTER 7
+<STR>(YUR)
+...Captain <STR>(KAR) seems a little 
+different than usual, doesn't he?
+
+## POINTER 8
+<STR>(RIT)
+You think? He seems like his usual 
+spaced-out kid self to me.
+
+## POINTER 9
+<STR>(YUR)
+No, something's different about him. The <STR>(KAR) I 
+knew before would've been peeing his pants or running 
+for his life if something like that happened.
+
+## POINTER 10
+<STR>(EST_P)
+Oh...now that you mention it, I think you're right.
+
+## POINTER 11
+<STR>(RAV)
+Wah! Bugs, a giant swarm of them! Watch out!
+
+## POINTER 12
+<STR>(KAR)
+Waah, stay away, stay away...!!
+
+## POINTER 13
+<STR>(RAV)
+Blech! Hey!
+Wh-wh-what 
+did you do that for...
+Agh, 
+my eyes...
+
+## POINTER 14
+<STR>(RIT)
+I was just giving you a little something 
+to keep away the giant swarms of bugs!
+
+## POINTER 15
+<STR>(KAR)
+Ah, I don't believe it..
+
+## POINTER 16
+<STR>(RAV)
+*Hack* *cough* ...I thought I was gonna die!
+
+## POINTER 17
+<STR>(EST_P)
+<STR>(KAR)...
+You're really afraid 
+of bugs, aren't you?
+
+## POINTER 18
+<STR>(KAR)
+Wh-who, me? N-not at all...!
+
+## POINTER 19
+<STR>(RIT)
+It's okay, <STR>(KAR). You 
+don't have to pretend.
+
+## POINTER 20
+<STR>(RIT)
+Here, take this. Aspio-brand insect spray, 
+the best to keep the bugs away!
+
+## POINTER 21
+<STR>(KAR)
+Oh, uh...y-you don't mind...?
+
+## POINTER 22
+<STR>(RIT)
+Not at all. Just make sure not to spray 
+it near any people. It can sting!
+
+## POINTER 23
+<STR>(RAV)
+So I'm not a person anymore, 
+am I... Yeesh...
+
+## POINTER 24
+<STR>(RIT)
+Come on, let's go.

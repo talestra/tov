@@ -1,0 +1,186 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS36_015)I'm guessin' this is the 
+Manor of the Wicked.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS36_016)It's so heavily guarded...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS36_017)Shh. They're arguing about something.
+
+## POINTER 3
+Droite
+<VOICE>(VS36_018)What part of "let us in" are 
+you having trouble with?
+
+## POINTER 4
+
+<VOICE>(VS36_019)Like I said, your timing just 
+seems a little too perfect.<PAGE><VOICE>(VS36_020)Don't you have anything to prove
+who you say you are?
+
+## POINTER 5
+Gauche
+<VOICE>(VS36_021)You know what? Actually, we don't. Let us through.<PAGE><VOICE>(VS36_022)The Don is here. We don't 
+have time to sit and chat.
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS36_023)So the old man did 
+come here...
+
+## POINTER 7
+
+<VOICE>(VS36_024)Didn't you go looking for proof 
+that the Hunting Blades were 
+after that dragon rider?
+
+## POINTER 8
+Gauche
+<VOICE>(VS36_025)I told you, we received word that 
+the Don was headed here before we 
+could arrive at Mt. Temza.
+
+## POINTER 9
+Droite
+<VOICE>(VS36_026)We couldn't very well ignore 
+news like that, could we?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS36_027)The Hunting Blades are 
+out to get <STR>(JUD_P)?
+
+## POINTER 11
+Droite
+<VOICE>(VS36_028)What are you waiting for?!<PAGE><VOICE>(VS36_029)You won't be any use 
+to Yeager if we have to 
+give you a beating.
+
+## POINTER 12
+
+<VOICE>(VS36_030)Humph...
+
+## POINTER 13
+
+<VOICE>(VS36_031)We'll let you through, but 
+not without an escort. You 
+don't mind, I hope?
+
+## POINTER 14
+Gauche
+<VOICE>(VS36_032)Whatever, just let us in.
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS36_033)What luck.♪ Now there's less 
+guards ta worry about.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS36_034)Guess we'd better strike 
+while the iron's hot.
+
+## POINTER 17
+
+<VOICE>(VS36_035)Wh-who the hell are you?!
+
+## POINTER 18
+
+<VOICE>(VS36_036)Hey!
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS36_037)Nice, <STR>(RAP)!
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS36_038)I think we're still in the clear.
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VS36_039)So let's make with 
+the gettin' inside.
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS36_040)Why do you think the Hunting 
+Blades would be after <STR>(JUD)?
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS36_041)If they're looking for 
+apatheia, maybe they want 
+the dragon she was riding.<PAGE><VOICE>(VS36_042)If he's an Entelexeia, 
+he might become an 
+apatheia like Belius.<PAGE><VOICE>(VS36_043)...I mean...when he dies.
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS36_044)Which means Harry's request 
+wasn't the only reason they 
+wanted ta take Belius down.<PAGE><VOICE>(VS36_045)They want those apatheia 
+somethin' bad.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS36_046)<STR>(JUD_P) might be in trouble, 
+but we should help the 
+Don out first.<PAGE><VOICE>(VS36_047)Especially with those two charming 
+young ladies in there.
+
+## POINTER 26
+<STR>(RAV)
+<VOICE>(VS36_048)Sure. We should be on our way.
+
+## POINTER 27
+<STR>(EST_P)
+<VOICE>(VS36_049)...I'm just worried about <STR>(JUD).
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS36_050)So you'll be going 
+to Mt. Temza?
+
+## POINTER 29
+<STR>(EST_P)
+<VOICE>(VS36_051)But the Don...
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS36_052)We're practicing deciding 
+for ourselves. Remember?
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS36_053)Let's move.
+
+## POINTER 32
+<STR>(EST_P)
+<VOICE>(VS36_054)I'm coming too!<PAGE><VOICE>(VS36_055)She'd be upset if I left 
+the Don like this to 
+go looking for her.<PAGE><VOICE>(VS36_056)I can just hear her 
+saying, "My, what did you 
+think you were doing?"
+
+## POINTER 33
+<STR>(RIT)
+<VOICE>(VS36_057)...Don't worry about 
+that lady. She's tough.
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS36_058)All right, let's get the old 
+Don out of this place.
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS36_059)Looks like we've found one 
+more thing we can't ignore.
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS36_060)Okay!

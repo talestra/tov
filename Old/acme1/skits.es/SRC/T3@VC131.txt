@@ -1,0 +1,54 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252497995]
+(RAP) quiere jugar
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982340]
+(RAP)
+*Gemido*
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299663]
+(KAR)
+Pareces algo cansado, (RAP).
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982340]
+(RAP)
+¡Guau! Grrrr...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982340]
+(KAR)
+¡Ay! ¡O-Oye!
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266594890]
+(YUR)
+Solo se hace el cansado para que
+sus enemigos se confíen.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982340]
+(KAR)
+¡¿E-Enemigos?! ¡Yo no soy ningún enemigo!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982340]
+(YUR)
+Hace tiempo que no lucha.
+Debe tener muchas energías
+acumuladas. Juega con él un poco.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982340]
+(KAR)
+¿N-No deberías ser tú quien
+hiciera eso, (YUR)? 
+¡¡Agh... ah, ah, aaah!!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982340]
+(RAP)
+¡Guau! ¡Guau, guau!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982340]
+(YUR)
+Ooh, qué bien, (KAR). Parece
+que (RAP) te ha cogido cariño.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297982340]
+(KAR)
+¿Q-Qué? Solo quiere que le hagan caso por
+eso de no haber estado luchando...
+¡Agh! ¡Suelta! ¡Suéltame! ¡¡Aaaaah!!

@@ -1,0 +1,155 @@
+## POINTER 0
+Yeager
+<VOICE>(VS36_074)I never dreamed you'd 
+try anything this risky...
+
+## POINTER 1
+Don Whitehorse
+<VOICE>(VS36_075)Finally made up my mind that 
+this mudball'd be a much prettier 
+place without you on it.
+
+## POINTER 2
+Yeager
+<VOICE>(VS36_076)The other master guilds surely 
+won't like you ignoring the Union's 
+laws for your personal vendetta.
+
+## POINTER 3
+Don Whitehorse
+<VOICE>(VS36_077)And I'll face the consequences.
+
+## POINTER 4
+Don Whitehorse
+<VOICE>(VS36_078)But it's daybreak now.
+
+## POINTER 5
+Don Whitehorse
+<VOICE>(VS36_080)Looks like I've underestimated 
+ya a touch. I'm outta time.<PAGE><VOICE>(VS36_081)If I don't get myself back ta 
+Dahngrest, those fools're gonna 
+start a war with each other.
+
+## POINTER 6
+Yeager
+<VOICE>(VS36_082)H-heh. I think it's a bit 
+late to prevent that little 
+accident from happening.
+
+## POINTER 7
+Don Whitehorse
+<VOICE>(VS36_083)A couple eggs might have ta be broken. 
+But I'm prepared to pay a price.
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS36_084)A price...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS36_085)You've still got us 
+to deal with, Yeager.
+
+## POINTER 10
+Yeager
+<VOICE>(VS36_086)Well, it looks like the 
+tide's taken a turn, 
+ja indeed. Bye bye!
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS36_087)Hey, wait!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS36_088)Damn, that guy's a 
+regular vanishing act.
+
+## POINTER 13
+Don Whitehorse
+<VOICE>(VS36_089)Now what's with all of you? 
+Just how'd ya figure comin' down 
+here'd be the smart thing ta do?
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS36_090)This is a keepsake left by 
+an ally of yours. We were 
+asked to bring it to you.
+
+## POINTER 15
+Don Whitehorse
+<VOICE>(VS36_091)...Looks like I caused 
+you all some trouble.
+
+## POINTER 16
+Don Whitehorse
+<VOICE>(VS36_092)Of all the... Why'd she have 
+ta wind up like this...?
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS36_093)Just what is an apatheia, 
+anyway?
+
+## POINTER 18
+Don Whitehorse
+<VOICE>(VS36_094)Well, ya see...
+
+## POINTER 19
+Don Whitehorse
+<VOICE>(VS36_095)Hm... 'Fraid I don't have 
+time ta explain it now.
+
+## POINTER 20
+Don Whitehorse
+<VOICE>(VS36_096)Hate ta cut and run, 
+but I'll leave the rest 
+of these guys ta you.
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS36_097)Wait.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS36_098)We should think about 
+getting out of here, too.
+
+## POINTER 23
+<STR>(RAV)
+<VOICE>(VS36_099)Hey, let me try and buy 
+the old man some time.
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS36_100)<STR>(RAV)?
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS36_101)Come on.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS36_102)Guess we'd better.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS36_103)I think it's about time.
+
+## POINTER 28
+<STR>(RAV)
+<VOICE>(VS36_104)I agree.
+
+## POINTER 29
+<STR>(EST_P)
+<VOICE>(VS36_105)...You don't mean...from up here?
+
+## POINTER 30
+<STR>(EST_P)
+<VOICE>(VS36_106)Aah.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS36_107)I got a bad feeling about this.
+We should get back to Dahngrest.

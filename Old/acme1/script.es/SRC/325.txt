@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536637]
+<STR>(RIT)
+Este pueblo me pone un poco
+la piel de gallina.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298325420]
+<STR>(KAR)
+Esos Caballeros llaman demasiado la atención.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536637]
+<STR>(RAV)
+¡Bueno, nus toca dormir! ¡Dulces sueños!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1281295702]
+<STR>(KAR)
+A mí me va a ser imposible
+relajarme sabiendo que hay
+un Caballero en la entrada.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536637]
+<STR>(EST_P)
+¿Te molesta?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536637]
+<STR>(KAR)
+Pues sí, lo hace.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298406755]
+<STR>(RAV)
+Si tan aquí pa protegernus,
+no tiene ná de malo, ¿no crees?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298406763]
+<STR>(YUR)
+Vale, chicos. Hora de ir al sobre.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279536637]
+<STR>(KAR)
+Mmm...

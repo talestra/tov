@@ -1,0 +1,16 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494406]
+<STR>(FRE)
+<VOICE>(VS64_066)<STR>(YUR), ¿tienes un minuto?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494406]
+<STR>(YUR)
+<VOICE>(VS64_067)¿Mm? Sí, claro. ¿Qué pasa?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494406]
+<STR>(FRE)
+<VOICE>(VS64_068)Aquí mejor no. Te espero
+en la entrada.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494406]
+<STR>(YUR)
+<VOICE>(VS64_069)¿...?

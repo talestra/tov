@@ -1,0 +1,379 @@
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Movimiento I
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Usa <06>(LTN) para moverte durante los combates.
+Usa <06>(LTR)<06>(LTL) para moverte hacia delante
+o hacia atrás.
+Usa <06>(LTU) para saltar.
+En modo semi-auto, mantén pulsado <06>(GUD)
+mientras pulsas <06>(LTU) para saltar.
+La velocidad a la que se mueve el personaje
+depende de cuánto inclinas <06>(LTR) y <06>(LTL).
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Movimiento II
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Además de poder moverte hacia delante
+y hacia atrás, también puedes mover
+a tu personaje libremente por todo
+el campo de batalla manteniendo pulsado
+<06>(CBL2) mientras pulsas <06>(LTN).
+
+Esto se conoce como movimiento libre.
+Puedes usarlo para esquivar los ataques
+del enemigo o para acercarte a ellos
+por detrás.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Ataque normal
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Puedes realizar un ataque normal
+con el botón <06>(ATK). También puedes
+realizar otros ataques pulsando <06>(ATK)
+mientras inclinas <06>(LTU), <06>(LTD), <06>(LTR), o <06>(LTL)
+al mismo tiempo.
+En modo semi-auto, el personaje se acercará
+automáticamente al enemigo para atacar.
+ 
+Pulsa el botón <06>(ATK) durante
+el movimiento libre para atacar.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Artes
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Pulsa el botón <06>(ART) para realizar artes.
+ 
+Puedes asignar artes a <06>(LTN),
+<06>(LTU), <06>(LTD), <06>(LTR) o <06>(LTL)
+en el menú de artes accesible
+con el botón <06>(MEN).
+ 
+¡Intenta todas las combinaciones!
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Defensa
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Puedes defenderte con el botón <06>(GUD).
+
+Ten cuidado, si recibes daño
+continuamente mientras te cubres
+puedes recibir una Rotura de guardia.
+
+Una vez tu guardia esté rota,
+puede romperse fácilmente otra vez.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Usar objetos
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523664]
+Usa objetos abriendo el menú
+con el botón <06>(MEN).
+Selecciona la opción Objetos, después
+elige el objeto que quieras usar
+y el objetivo sobre el que lo usarás.
+
+Ten en cuenta que para poder volver a usar
+otro tendrás que esperar unos segundos.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Escapar
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523664]
+Huye de un combate abriendo el menú de batalla
+con el botón <06>(MEN) y eligiendo Escapar.
+
+Saldrás del campo de batalla cuando se llene
+la barra que aparece en pantalla.
+
+Si eliges de nuevo Escapar en el menú,
+cancelarás la acción.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Cambiar objetivo
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Pulsando el botón <06>(CBR1) se resaltará
+el enemigo que tiene apuntado tu personaje.
+
+Si mantienes pulsado <06>(CBR1) 
+mientras usas <06>(LTR) o <06>(LTL),
+podrás elegir un objetivo distinto.
+
+Además, si golpeas un enemigo con un ataque
+en movimiento libre, pasarás a apuntar
+a dicho enemigo.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Combos I
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Puedes enlazar varios ataques
+pulsando varias veces el botón <06>(ATK).
+
+Esto se conoce como combo.
+
+Intenta varios combos posibles
+combinando los botones <06>(LTN)
+y <06>(ATK).
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Combos II
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Pulsa el botón <06>(ART) después de un ataque
+normal para realizar un arte básico.
+
+Aprovecha los combos enlazando ataques normales
+con artes básicas.
+
+¡Ten en cuenta la naturaleza de cada combo
+para escoger los que mejor se adapten a ti!
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Combos III
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Puedes ejecutar un arte arcano después
+de un arte básico.
+
+Ataque normal 
+     → Arte básico 
+          → Arte arcano
+
+Este tipo de combos permiten
+ataques más fuertes y aumenta
+la variedad de combos posibles.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Encuentros
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264678974]
+Al entrar en contacto con un enemigo
+en el mapa comenzarás un combate.
+
+Nos referimos a ellos como
+«representaciones del enemigo».
+
+Al ganar un combate, la representación
+del enemigo desaparecerá del mapa. No obstante,
+si escapas de la batalla, la representación
+permanecerá en el mismo sitio.
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Encuentros por sorpresa
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264678974]
+Si una representación del enemigo entra
+en contacto con el personaje por detrás,
+los personajes que participen en esa batalla
+se elegirán al azar. Además, los enemigos
+aparecerán detrás del grupo.
+
+¡Intenta que esto no ocurra!
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Encuentros con ventaja
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Si disparas a una representación del enemigo
+con el Anillo del Hechicero usando <06>(GUD)
+conseguirás aturdirlo.
+
+Si entras en contacto con la representación
+en ese estado, los enemigos estarán aturdidos
+y no podrán moverse al principio del combate.
+
+Hazlo a menudo para empezar
+los combates con ventaja.
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Encuentros combinados
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264326766]
+Si hay una segunda representación 
+del enemigo cerca de otra con la que
+hayas entrado en contacto, dichos enemigos
+pueden aparecer también en la batalla.
+
+Ten cuidado, ya que así puede que tengas
+que enfrentarte a un gran número
+de enemigos a la vez.
+
+Al igual que ocurre con los encuentros
+por sorpresa, la posición de la representación
+del enemigo es importante.
+
+## POINTER 32 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Habilidades I
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Las armas ofrecen varias habilidades
+que los personajes pueden usar y aprender.
+
+Una vez equipada el arma, el personaje
+se beneficiará de los efectos de esa
+habilidad durante los combates.
+
+Si la usa muchas veces, el personaje
+puede acabar aprendiendo la habilidad.
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Habilidades II
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Una vez haya aprendido la habilidad,
+el personaje podrá usarla sin necesidad
+de usar el arma, gastando algunos SP.
+
+Las habilidades se dividen en cuatro categorías:
+Ataque
+Defensa
+Movimiento
+Apoyo
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Habilidades III
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Un símbolo representativo de uno de los
+cuatro tipos de habilidades se forma como
+resultado de un juego de habilidades.
+
+Esto se conoce como «símbolo de habilidad».
+
+Dependiendo de la naturaleza de este símbolo,
+el personaje puede ganar habilidades extra
+y efectos cuando entra en Límite durante
+la batalla.
+
+Intenta usar varias combinaciones.
+
+## POINTER 38 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264327400]
+Efectos de estado
+
+## POINTER 39 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Los personajes pueden recibir efectos
+de estado de ataques o hechizos
+durante la batalla.
+
+Los estados alterados pueden permanecer
+después de que el combate haya acabado.
+Todos son dañinos.
+
+Los cambios mágicos solo tienen efecto
+durante el combate. Algunos son dañinos
+y otros son beneficiosos para tu grupo.
+
+## POINTER 40 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Recuperarse de los efectos de estado
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Asegúrate de curar los estados alterados
+usando objetos o conjuros.
+
+Los objetos o hechizos necesarios
+para eliminar un estado alterado
+pueden cambiar según el tipo.
+
+Comprueba la descripción del objeto
+o del hechizo antes de usarlo.
+
+## POINTER 42 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Estados alterados físicos I
+
+## POINTER 43 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264679387]
+<06>(ST1)Veneno
+El HP disminuye con el tiempo.
+
+<06>(ST7)Contaminación
+El TP disminuye con el tiempo.
+
+<06>(ST2)Parálisis
+Se limitan varias acciones.
+
+<06>(ST4)Debilidad
+El HP máximo se reduce a la mitad.
+
+## POINTER 44 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Estados alterados físicos II
+
+## POINTER 45 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264679387]
+<06>(ST5)Artes selladas
+Las artes no se pueden usar.
+
+<06>(ST6)Habilidades selladas
+Las habilidades no se pueden usar
+y sus efectos se cancelan.
+　
+<06>(ST3)Petrificación
+No es posible realizar ninguna acción.
+
+## POINTER 46 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Estados alterados mágicos I
+
+## POINTER 47 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264328044]
+<06>(SC1)Cambios en el ataque físico
+El ataque físico aumenta
+o disminuye.
+<06>(SC2)Cambios en la defensa física
+La defensa física aumenta
+o disminuye.
+
+<06>(SC3)Cambios en el ataque mágico
+El ataque mágico aumenta
+o disminuye.
+<06>(SC4)Cambios en la defensa mágica
+La defensa mágica aumenta
+o disminuye.
+
+## POINTER 48 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Estados alterados mágicos II
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+<06>(SC5)Dormir
+No es posible realizar ninguna acción.
+El personaje se despertará
+si le ataca un enemigo.
+　
+<06>(SC6)Auto recuperación
+Recuperarse automáticamente
+de una inconsciencia.
+
+## POINTER 50 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Estados alterados mágicos III
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+<06>(SC7)Hechizado
+Los efectos varían en función
+del modo de control.
+
+Para semi-auto y manual:
+Las teclas de control cambiarán
+aleatoriamente.
+
+Para auto:
+El personaje atacará aleatoriamente,
+sea cual sea la estrategia.
+
+## POINTER 52 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Configuración de estrategia
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:memnoch;time:1297523621]
+Especifica las acciones de los personajes
+en batalla con el menú de estrategia.
+
+Para hacerlo, elige Estrategia
+en el menú de batalla.
+Ahí, elige o cambia las opciones
+de estrategia del personaje.
+
+Cambia la colocación de los personajes
+en el campo de batalla con la opción Formación.
+
+## POINTER 54 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263822209]
+Cambiar la estrategia durante el combate

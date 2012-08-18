@@ -1,0 +1,81 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272811371]
+Kellas
+¡Espera! ¡No puedes salir otra vez después de que
+aquella muchacha se tomara la molestia de curarte!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272811371]
+<STR>(YUR)
+¿Adónde te crees que vas
+con esa arma tan peligrosa?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272811371]
+Teagle
+No es asunto vuestro. ¡No voy a dejar
+que metáis las narices en nuestros
+asuntos solo porque tengáis curiosidad!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237824]
+Teagle
+¡¿E-Esto no es...?!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272811371]
+<STR>(YUR)
+Perdona por haberte robado el protagonismo
+cuando lo de la posada. Espero que esto
+sirva para compensarte.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237824]
+Teagle
+¡M-Muchísimas gracias!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237824]
+Kellas
+¡M-Muchísimas gracias!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237824]
+<STR>(KAR)
+¡E-Espera un segundo!
+¿Vas a dárselo así, por las buenas?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272811371]
+<STR>(YUR)
+Es un pequeño precio a pagar
+si con ello salvan a su hijo.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272811371]
+<STR>(EST_P)
+Tenías pensado hacer esto
+desde el principio, ¿verdad?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272811371]
+<STR>(YUR)
+Nop, me ha salido sobre la marcha.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237824]
+<STR>(RIT)
+Eres consciente de que acabas de darles
+nuestro regalo para el magistrado, ¿verdad?
+¿Y ahora qué?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272811371]
+<STR>(YUR)
+Tranquila, no tenemos más que encontrar
+otra manera de colarnos en su casa.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237824]
+<STR>(EST_P)
+Entonces, ¿vamos a ver cómo
+le van las cosas a <STR>(FRE)?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237824]
+<STR>(KAR)
+¡Sí! ¡Quizá ya haya conseguido entrar
+en el palacio de Ragou y arreglarlo todo!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272811371]
+<STR>(YUR)
+Sí, eso sería fantástico, sin duda...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237824]
+<STR>(EST_P)
+Vamos a hacerle una visita en la posada.

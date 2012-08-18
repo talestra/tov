@@ -1,0 +1,299 @@
+## POINTER 100 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262985043]
+La ciudad de las flores, Halure
+
+## POINTER 101 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257110858]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 102 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 103 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 104 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 105 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 106 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 107 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 108 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 109 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 110 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 111 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 112 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 113 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111038]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 114 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262289263]
+El hogar de los krityanos, Myorzo
+
+## POINTER 115 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262289263]
+El hogar de los krityanos, Myorzo
+
+## POINTER 116 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262289263]
+El hogar de los krityanos, Myorzo, residencia del anciano
+
+## POINTER 117 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262289263]
+El hogar de los krityanos, Myorzo
+
+## POINTER 118 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262289263]
+El hogar de los krityanos, Myorzo, casa
+
+## POINTER 119 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Monte Temza
+
+## POINTER 120 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Monte Temza
+
+## POINTER 121 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Monte Temza
+
+## POINTER 122 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Monte Temza
+
+## POINTER 123 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Monte Temza
+
+## POINTER 124 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Monte Temza
+
+## POINTER 125 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Monte Temza
+
+## POINTER 126 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Monte Temza
+
+## POINTER 127 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257580499]
+Escala
+
+## POINTER 128 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111126]
+Guarnición
+
+## POINTER 129 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111235]
+Rey de la Aventura
+
+## POINTER 130 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111235]
+Mapa de evento
+
+## POINTER 131 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Mapa
+
+## POINTER 132 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Mapa
+
+## POINTER 133 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Mapa
+
+## POINTER 134 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111235]
+Mazmorra EX
+
+## POINTER 135 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111235]
+Mazmorra EX
+
+## POINTER 136 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111235]
+Mazmorra EX
+
+## POINTER 137 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111235]
+Mazmorra EX
+
+## POINTER 138 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111235]
+Mazmorra EX
+
+## POINTER 139 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111235]
+Mazmorra EX
+
+## POINTER 140 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111235]
+Mazmorra EX
+
+## POINTER 141 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+Fuerte Deidon
+
+## POINTER 142 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+Fuerte Deidon
+
+## POINTER 143 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+Fuerte Deidon
+
+## POINTER 144 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+Noreste de Hypionia
+
+## POINTER 145 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+La Tierra de la Esperanza, Aurnion
+
+## POINTER 146 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+La Tierra de la Esperanza, Aurnion
+
+## POINTER 147 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324464]
+La Tierra de la Esperanza, Aurnion, sede de la brigada de <STR>(FRE)
+
+## POINTER 148 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+La Tierra de la Esperanza, Aurnion, salón
+
+## POINTER 149 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+La Tierra de la Esperanza, Aurnion, Fortuna Mercantil
+
+## POINTER 150 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+La Tierra de la Esperanza, Aurnion
+
+## POINTER 151 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+Bosques de Quoi
+
+## POINTER 152 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+Bosques de Quoi
+
+## POINTER 153 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+Bosques de Quoi
+
+## POINTER 154 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+Bosques de Quoi
+
+## POINTER 155 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257580467]
+La ciudad en ruinas, Caer Bocram 
+
+## POINTER 156 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257580467]
+La ciudad en ruinas, Caer Bocram 
+
+## POINTER 157 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257580467]
+La ciudad en ruinas, Caer Bocram 
+
+## POINTER 158 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257580467]
+La ciudad en ruinas, Caer Bocram 
+
+## POINTER 159 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257580467]
+La ciudad en ruinas, Caer Bocram 
+
+## POINTER 160 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257580467]
+La ciudad en ruinas, Caer Bocram 
+
+## POINTER 161 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257580467]
+La ciudad en ruinas, Caer Bocram 
+
+## POINTER 162 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257580467]
+La ciudad en ruinas, Caer Bocram 
+
+## POINTER 163 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257580467]
+La ciudad en ruinas, Caer Bocram 
+
+## POINTER 164 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+El refugio de los gremios, Dahngrest
+
+## POINTER 165 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+El refugio de los gremios, Dahngrest
+
+## POINTER 166 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+El refugio de los gremios, Dahngrest
+
+## POINTER 167 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+El refugio de los gremios, Dahngrest
+
+## POINTER 168 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+El refugio de los gremios, Dahngrest, taberna Estrellas Carmesíes
+
+## POINTER 169 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+El refugio de los gremios, Dahngrest, taberna Estrellas Carmesíes
+
+## POINTER 170 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+El refugio de los gremios, Dahngrest, taberna Estrellas Carmesíes
+
+## POINTER 171 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+El refugio de los gremios, Dahngrest, taberna Estrellas Carmesíes
+
+## POINTER 172 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111728]
+El refugio de los gremios, Dahngrest, taberna Estrellas Carmesíes
+
+## POINTER 173 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263046701]
+El refugio de los gremios, Dahngrest, sede de la Unión
+
+## POINTER 174 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263046701]
+El refugio de los gremios, Dahngrest, sede de la Unión
+
+## POINTER 175 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263046701]
+El refugio de los gremios, Dahngrest, sede de la Unión, celdas de detención
+
+## POINTER 176 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+El refugio de los gremios, Dahngrest, posada
+
+## POINTER 177 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+El refugio de los gremios, Dahngrest, Altosk
+
+## POINTER 178 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+El refugio de los gremios, Dahngrest, Fortuna Mercantil
+
+## POINTER 179 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 180 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 181 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 182 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 183 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 184 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 185 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 186 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 187 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 188 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 189 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 190 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 191 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 192 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 193 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 194 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257111906]
+Mapa normal
+
+## POINTER 195 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Colina de Ehmead
+
+## POINTER 196 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Colina de Ehmead
+
+## POINTER 197 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Colina de Ehmead
+
+## POINTER 198 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Colina de Ehmead
+
+## POINTER 199 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256417611]
+Colina de Ehmead

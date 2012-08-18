@@ -1,0 +1,36 @@
+## POINTER 0
+Not Good with Magic
+
+## POINTER 1
+(EST_P)
+You don't use magic, do you, (YUR)?
+
+## POINTER 2
+(YUR)
+It's not that I don't. I can't.
+
+## POINTER 3
+(YUR)
+That's one talent I don't have.
+
+## POINTER 4
+(EST_P)
+But anyone with blastia should be able to use 
+magic if they just learn the theory...right?
+
+## POINTER 5
+(YUR)
+I told you, I don't have the knack 
+for learning magical theory!
+
+## POINTER 6
+(EST_P)
+So...you're bad at studying?
+
+## POINTER 7
+(YUR)
+That's one way to put it.
+
+## POINTER 8
+(RAP)
+*Whine*

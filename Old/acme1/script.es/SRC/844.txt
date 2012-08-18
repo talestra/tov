@@ -1,0 +1,52 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682392]
+Aguerón
+Oh, ¿lo has traído todo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294685465]
+<STR>(YUR)
+Con esto ya está, ¿no?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682392]
+Aguerón
+Vaya, sabía que no me dejarías
+en la estacada. Gracias, tío.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1294685465]
+<STR>(YUR)
+Y bien, ¿ahora qué?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682392]
+Aguerón
+Las pillas al vuelo. Esto es lo
+que necesito que me traigas.<PAGE>Orbe de poder, flor de ent, cristal,
+orbe místico y gran colmillo de león.
+Necesito tres de cada uno.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1294685465]
+<STR>(YUR)
+Tú pides mucho.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682392]
+Aguerón
+Ya, lo siento.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683509]
+<STR>(YUR)
+Nah, no te preocupes.
+Voy a traerte esos objetos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682392]
+Aguerón
+Muchísimas gracias.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296683509]
+Aguerón
+No, todavía no basta...<PAGE>Necesito polvo dorado de Desier, corteza
+de árbol de Hypionia y fruto de Yurzo.
+Tres de cada. Cuento contigo, <STR>(YUR).
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296682392]
+Aguerón
+Necesito polvo dorado de Desier, corteza
+de árbol de Hypionia y fruto de Yurzo.
+Tres de cada. Cuento contigo, <STR>(YUR).

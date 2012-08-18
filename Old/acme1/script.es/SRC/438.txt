@@ -1,0 +1,219 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(YUR)
+<VOICE>(VS42_053)Es la Guardia Real.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(KAR)
+<VOICE>(VS42_054)Eso tiene que significar
+que vamos por buen camino.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+<STR>(YUR)
+<VOICE>(VS42_055)Bien visto, <STR>(KAR). <STR>(EST_P)
+debe estar ahí, en alguna parte.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(YUR)
+<VOICE>(VS42_056)No nos queda tiempo.
+¡Démonos prisa!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+<STR>(RIT)
+<VOICE>(VS42_057)¿Esto es<PAGE><VOICE>(VS42_058)una barrera bloqueada con
+una fórmula encriptada?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(YUR)
+<VOICE>(VS42_059)¿Puedes abrirla?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+<STR>(RIT)
+<VOICE>(VS42_060)Usa una tecnología tan antigua
+que apenas ha sido estudiada.
+<PAGE><VOICE>(VS42_061)Ni siquiera yo la había visto
+salvo en los libros.<PAGE><VOICE>(VS42_062)No quiero ni imaginar
+cuánto tiempo podría llevarme.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+<STR>(KAR)
+<VOICE>(VS42_063)Y supongo que no podemos
+abrirnos paso a la fuerza.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(JUD)
+<VOICE>(VS42_064)Nadie suele poner candados
+en sitios en los que sea
+fácil entrar.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+<STR>(KAR)
+<VOICE>(VS42_065)Sí, tienes razón... Esperad.
+¿Cómo creéis que Alexei
+ha conseguido pasar por aquí?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+<STR>(RIT)
+<VOICE>(VS42_066)Seguramente habrá forzado el cierre
+usando el poder de <STR>(EST_P)...
+el poder de la Hija de la Luna Llena.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(YUR)
+<VOICE>(VS42_067)Lo que quiere decir que la
+ha obligado a usarlo otra vez.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(RIT)
+<VOICE>(VS42_068)...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+<STR>(JUD)
+<VOICE>(VS42_069)Alguien se acerca.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(YUR)
+<VOICE>(VS42_070)Duke... ¿Qué haces aquí?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+Duke
+<VOICE>(VS42_071)Vosotros... ¿Cómo se
+encuentra la joven,
+la Hija de la Luna Llena?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(KAR)
+<VOICE>(VS42_072)¡Alexei la tiene en algún
+sitio mas adelante!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+Duke
+<VOICE>(VS42_073)Entiendo... Así que ya
+se ha puesto en marcha.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+<STR>(YUR)
+<VOICE>(VS42_074)¿Tú también estás aquí
+porque vas tras él?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+Duke
+<VOICE>(VS42_075)
+El aer krene de esta región se
+halla severamente desequilibrado.
+He venido para apaciguarlo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(RIT)
+<VOICE>(VS42_076)¿Apaciguarlo? ¿Quieres
+decir que sabes cómo
+hacerlo?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+Duke
+<VOICE>(VS42_077)Para apaciguar un aer krene,
+debe eliminarse la causa
+de su desequilibrio.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(JUD)
+<VOICE>(VS42_078)Dilo sin tapujos. Te refieres
+a matar a <STR>(EST_P).
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187604]
+<STR>(YUR)
+<VOICE>(VS42_079)Ya vale.<PAGE><VOICE>(VS42_080)
+¿Por qué leches os ha dado
+a todos por culpar a una sola
+chica de los problemas del mundo?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+Duke
+<VOICE>(VS42_081)No se puede ignorar a un
+Hijo de la Luna Llena inestable.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+<STR>(YUR)
+<VOICE>(VS42_082)Eres tan cabeza cuadrada como Phaeroh.
+Creía que al ser humano verías
+las cosas desde otro punto de vista.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+Duke
+<VOICE>(VS42_083)Nuestro punto en común como humanos es
+irrelevante. Una simple vida no puede tener
+mayores privilegios que el destino del mundo.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+<STR>(YUR)
+<VOICE>(VS42_084)Ya, como si pudiera haber un
+mundo sin esas simples vidas.<PAGE><VOICE>(VS42_085)Entérate bien. Será una princesucha
+torpona y todo lo que tú quieras, 
+pero es una de los nuestros.<PAGE><VOICE>(VS42_086)Ella no es asunto tuyo.
+¡Así que aparta!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+Duke
+<VOICE>(VS42_087)¿Dices eso aun a sabiendas
+de la gran amenaza que
+supone su existencia?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(YUR)
+<VOICE>(VS42_088)Lo que sabemos o dejamos de saber
+no tiene nada que ver. Nuestro
+lema es hacer siempre lo correcto.<PAGE><VOICE>(VS42_089)Y si eso significa tener que
+tratar este asunto contigo
+como algo personal, que así sea.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+Duke
+<VOICE>(VS42_090)Muy bien.<PAGE><VOICE>(VS42_091)Ya es hora de que me mostréis
+esa resolución que tanto
+impresionó a Phaeroh.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+Duke
+<VOICE>(VS42_092)Esta es la Dein Nomos.
+El único instrumento capaz
+de apaciguar el aer.<PAGE><VOICE>(VS42_093)Calma tu mente y álzala.
+La espada se ocupará
+del resto.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(RIT)
+<VOICE>(VS42_094)La Dein Nomos...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(YUR)
+<VOICE>(VS42_095)¡Duke, espera!<PAGE><VOICE>(VS42_096)Dein Nomos... Ese era el nombre
+de la espada de la familia imperial
+que estaba desaparecida.<PAGE><VOICE>(VS42_097)¿Qué haces tú con ella? ¿Y
+cómo es que este chisme tiene
+el poder de controlar el aer?<PAGE><VOICE>(VS42_098)¿Quién eres?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+Duke
+<VOICE>(VS42_099)La respuesta a esas preguntas
+no es lo que debería preocuparte
+en estos momentos.<PAGE><VOICE>(VS42_100)Idos, antes de que sea tarde.<PAGE><VOICE>(VS42_101)Pronto descubriréis la verdadera
+carga que han de soportar
+los entelechia.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(YUR)
+<VOICE>(VS42_102)...
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(YUR)
+<VOICE>(VS42_103)¡Vamos!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1285187563]
+<STR>(RIT)
+<VOICE>(VS42_104)
+Esa fórmula es idéntica a
+la de <STR>(EST_P). Entonces
+esa espada de verdad es...
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1283480208]
+<STR>(KAR)
+<VOICE>(VS42_105)Se ha abierto...

@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1251660456]
+Agradecida con los desconocidos
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211273]
+(EST_P)
+Tengo que darle las gracias a quien
+le contó lo del pasaje subterráneo.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283617]
+(YUR)
+¿Por qué ibas a agradecer algo así?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298211273]
+(EST_P)
+Intento salir del castillo,
+al igual que usted.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115367]
+(YUR)
+Todo eso está muy bien, pero no tienes
+por qué estar agradecida por ello.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115367]
+(EST_P)
+Oh, no. Hay que mostrar cortesía
+con aquellos que nos son gentiles.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283617]
+(YUR)
+Un poco raro eso de ser educado con alguien
+a quien ni siquiera conoces, ¿no te parece?
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,memnoch;user:evilluendas;time:1267316634]
+(EST_P)
+Cuando uno trata con desconocidos,
+los modales son más importantes que nunca.
+
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283617]
+(YUR)
+¿De verdad piensas eso?
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283617]
+(EST_P)
+Por supuesto.

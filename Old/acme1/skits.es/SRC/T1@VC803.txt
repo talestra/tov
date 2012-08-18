@@ -1,0 +1,43 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251752642]
+Levantando un gremio
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115829]
+(EST_P)
+(YUR), me sorprendió un poco saber
+que vas a levantar un gremio.
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266940695]
+(YUR)
+Bueno, tampoco es que lo vaya
+a hacer todo yo solo.
+
+## POINTER 3 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266113733]
+(JUD)
+¿Te dio (KAR) la idea?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115829]
+(YUR)
+Sí, pero ya llevaba un tiempo pensándolo por mi cuenta.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115829]
+(YUR)
+Abandoné los Caballeros para encontrar
+mi propia manera de hacer las cosas,
+pero al final no he llegado a hacer nada.
+
+## POINTER 6 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266113733]
+(EST_P)
+Lo que te dijo (FRE) en la ciudad portuaria...
+Te caló hondo, ¿verdad?
+
+## POINTER 7 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266940695]
+(YUR)
+Nada de lo que diga ese tío puede calarme.
+
+## POINTER 8 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266940695]
+(JUD)
+No le gusta admitir sus sentimientos, ¿verdad?
+
+## POINTER 9 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266940695]
+(EST_P)
+No.

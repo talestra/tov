@@ -1,0 +1,17 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279713156]
+<STR>(YUR)
+<VOICE>(VS31_001)Ooh...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279713156]
+<STR>(YUR)
+<VOICE>(VS31_002)Nos desmayamos
+en el desierto...
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279713156]
+<STR>(YUR)
+<VOICE>(VS31_003)Y para mí que esto
+no es el cielo...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279713156]
+<STR>(YUR)
+<VOICE>(VS31_004)¿Dónde estamos?

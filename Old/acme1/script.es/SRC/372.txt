@@ -1,0 +1,27 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284719933]
+<STR>(KAR)
+<VOICE>(VS34_238)¿Qué decía <STR>(FRE)
+de <STR>(YUR) y Ragou?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1280781245]
+<STR>(RIT)
+<VOICE>(VS34_239)¡Déjalo!<PAGE><VOICE>(VS34_240)¡Venga tíos, levad la ancla!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1280781245]
+<STR>(RAV)
+<VOICE>(VS34_241)Eso, tíos, levad la ancla.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1280781245]
+<STR>(KAR)
+<VOICE>(VS34_242)¡<STR>(RAV)! ¿De dónde
+has salido?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1280781276]
+<STR>(RAV)
+<VOICE>(VS34_243)Supongo que no sus
+será mucho problema llevar
+a uno más con nosotros.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1280828385]
+<STR>(KAR)
+<VOICE>(VS34_244)¡Eh, ese tío es...!

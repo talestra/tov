@@ -1,0 +1,136 @@
+## POINTER 0
+
+Hello?
+
+## POINTER 1
+<STR>(YUR)
+Mmm? What's 
+up?
+
+## POINTER 2
+
+Do you think you might 
+be able to show me 
+that item you have?
+
+## POINTER 3
+<STR>(RAV)
+Ah, p'raps the "Luxury 
+Toys Series" has 
+caught yer eye?
+
+## POINTER 4
+
+Oh, so it's one of 
+those after all! 
+I'm so jealous!
+
+## POINTER 5
+<STR>(RIT)
+What the heck's so great 
+about this toy...
+
+## POINTER 6
+<STR>(RAV)
+They're pretty hard to 
+find these days, ya know. 
+It's quite a shame...
+
+## POINTER 7
+
+Oh, you didn't know? I heard that 
+you can get them from that capsule 
+machine right over there!
+
+## POINTER 8
+<STR>(RAV)
+Whawhawha!! Really? 
+Really?
+
+## POINTER 9
+
+It was just a rumor, mind you. 
+I tried my best, but I didn't 
+have a bit of luck!<PAGE>I thought perhaps you'd 
+gotten the one you have 
+from that very machine.
+
+## POINTER 10
+<STR>(KAR)
+Nope! It was a reward for work 
+that Brave Vesperia did!
+
+## POINTER 11
+
+Brave Vesperia? Is that 
+the name of a guild?
+
+## POINTER 12
+<STR>(YUR)
+Well, we really dabble in 
+a little bit of everything.
+
+## POINTER 13
+
+A guild... Perhaps it wouldn't be too much trouble 
+for me to ask you for a favor, then...
+
+## POINTER 14
+<STR>(RAV)
+No problem, no problem! Anyone who shares 
+the same interests as ol' <STR>(RAV) is someone 
+who's deservin' of a little assistance!
+
+## POINTER 15
+
+Do you think you could get 
+all 11 items in the "Luxury 
+Toys Series" for me?
+
+## POINTER 16
+<STR>(KAR)
+But you can't buy those in stores, 
+can you? And we don't know if they're 
+even in that capsule machine.
+
+## POINTER 17
+
+Perhaps, but there 
+may be people out there 
+who have them.<PAGE>And I've heard more rumors that 
+there are capsule machines in other 
+parts of the world, as well.
+
+## POINTER 18
+<STR>(RAV)
+I know about those. Ya gotta put 
+in Gald or some other stuff ta get 
+anything outta them, though.
+
+## POINTER 19
+
+Ah, so you know of more? Then please, 
+look for these toys for me! I'll make 
+it worth your while, of course.<PAGE>And let me give you this, 
+as part of the reward.
+
+## POINTER 20
+
+I got that in a capsule, but it's not 
+really my style. Young lady, I think 
+it would be quite fetching on you.
+
+## POINTER 21
+<STR>(EST_P)
+Thank you very much! It looks like it 
+matches with these clothes very nicely.
+
+## POINTER 22
+<STR>(YUR)
+Well, now that we've gotten a reward 
+for the job, I guess we've gotta do 
+it! We'll look for the toys for you.
+
+## POINTER 23
+
+Thank you so much!

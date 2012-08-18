@@ -1,0 +1,309 @@
+## POINTER 100 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+<06>(RBD)Confirmar　<06>(RBR)Volver
+
+## POINTER 101 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+<06>(RBD)Confirmar　<06>(RBR)Volver
+
+## POINTER 102 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+<06>(RBD)Cambiar miembro　<06>(RBL)Cambiar líder
+
+## POINTER 103 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+ARTES
+
+## POINTER 104 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358517]
+EQUIPO
+
+## POINTER 105 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+OBJETOS
+
+## POINTER 106 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+HABILIDADES
+
+## POINTER 107 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+ÓRDENES
+
+## POINTER 108 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+ESTRATEGIA
+
+## POINTER 109 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+FORMACIÓN
+
+## POINTER 110 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+COCINA
+
+## POINTER 111 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245611]
+ESTADO
+
+## POINTER 112 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+BIBLIOTECA
+
+## POINTER 113 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+SISTEMA
+
+## POINTER 114 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+LIBRO DE MONSTRUOS
+
+## POINTER 115 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+LIBRO DEL COLECCIONISTA
+
+## POINTER 116 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+LIBRO DE PERSONAJES
+
+## POINTER 117 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+SINOPSIS
+
+## POINTER 118 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+ABORTAR
+
+## POINTER 119 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+GUARDAR
+
+## POINTER 120 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+CARGAR
+
+## POINTER 121 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+CONFIGURACIÓN
+
+## POINTER 122 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+RÉCORDS
+
+## POINTER 123 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+MAPAMUNDI
+
+## POINTER 124 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+LIBRO DE BATALLA
+
+## POINTER 125 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+COMPRAR
+
+## POINTER 126 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+VENDER
+
+## POINTER 127 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+SÍNTESIS
+
+## POINTER 128 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+VACÍO
+
+## POINTER 129 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+CORRUPTO
+
+## POINTER 130 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Sí
+
+## POINTER 131 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+No
+
+## POINTER 132 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Guardando...
+No apagues la consola Xbox 360
+ni quites el dispositivo de almacenamiento.
+
+## POINTER 133 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262338175]
+Guardando los datos del juego.
+¿Proseguir?
+
+## POINTER 134 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Perderás cualquier progreso
+que no hayas guardado.
+¿Estás seguro de que quieres cargar?
+
+## POINTER 135 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+¡Guardado fallido! Inténtalo de nuevo.
+
+## POINTER 136 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+¡Proceso completado con éxito!
+
+## POINTER 137 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245559]
+¿Continuar?
+
+## POINTER 138 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Cargando...
+No quites el dispositivo de almacenamiento
+ni apagues la consola Xbox 360.
+
+## POINTER 139 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+FECHA
+
+## POINTER 140 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345691]
+GALD
+
+## POINTER 141 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+LUGAR
+
+## POINTER 142 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265230237]
+GOLPES MÁX.
+
+## POINTER 143 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+COMENTARIO
+
+## POINTER 144 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+CANCELAR
+
+## POINTER 145 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+TIEMPO
+
+## POINTER 146 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+LIBRO DEL COLECCIONISTA
+
+## POINTER 147 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Obtenido de
+
+## POINTER 148 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Robado de
+
+## POINTER 149 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Disponible en
+
+## POINTER 150 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1263127853]
+Memo
+
+## POINTER 151 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+<06>(RBD)Confirmar　<06>(RBR)Volver
+
+## POINTER 152 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245559]
+<06>(RBL)Detalles del material <06>(RBU)Detalles de la habilidad <06>(R3)Síntesis 
+<06>(L2)<06>(R2)Categoría <06>(L1)
+<06>(R1)Filtro <06>(STA)Detalles
+
+## POINTER 153 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245559]
+<06>(RBL)Detalles del material <06>(RBU)Detalles de la habilidad <06>(R3)Síntesis <06>(L2)
+<06>(R2)Categoría <06>(L1)
+<06>(R1)Filtro <06>(STA)Detalles
+
+## POINTER 154 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245559]
+<06>(RBL)Detalles del material <06>(RBU)Detalles de la habilidad <06>(R3)Síntesis <06>(L2)
+<06>(R2)Categoría <06>(L1)
+<06>(R1)Filtro <06>(STA)Detalles
+
+## POINTER 155 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+<06>(RBR)Volver
+
+## POINTER 156 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+<06>(RBL)Quitar
+
+## POINTER 157 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+<06>(L2)<06>(R2)Cambiar
+
+## POINTER 158 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+E
+
+## POINTER 159 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Habilidad de síntesis
+
+## POINTER 160 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Ingredientes
+
+## POINTER 161 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+EFECTO
+
+## POINTER 162 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+¡<0B>(0) cocinado con éxito!
+
+## POINTER 163 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+¡Creada la receta <0B>(1)!
+
+## POINTER 164 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+HP <0B>(0)％
+
+## POINTER 165 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+TP <0B>(1)％
+
+## POINTER 166 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Disponible la habilidad: <0B>(2)
+
+## POINTER 167 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Atajos de cocina
+
+## POINTER 168 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245559]
+El grupo no puede comer más.
+
+## POINTER 169 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+No se puede combatir.
+
+## POINTER 170 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+BIBLIOTECA
+
+## POINTER 171 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262338175]
+Guardar y cargar
+
+## POINTER 172 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Guardar partida.
+
+## POINTER 173 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Cargar partida.
+
+## POINTER 174 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Mostrar el Libro del coleccionista.
+
+## POINTER 175 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+Mostrar el Libro de monstruos.
+
+## POINTER 176 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262338175]
+Mostrar la sinopsis.
+
+## POINTER 177 [t:1;r:1;ru:memnoch;user:memnoch;time:1304120710]
+HUIR
+
+## POINTER 178 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286527]
+OBJETIVO: <0B>(0)P
+
+## POINTER 179 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245559]
+Habilidad (debug)
+
+## POINTER 180 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Objeto
+
+## POINTER 181 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Principal
+
+## POINTER 182 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Secundaria
+
+## POINTER 183 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Cabeza
+
+## POINTER 184 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358112]
+Pecho
+
+## POINTER 185 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265230237]
+Accesorios
+
+## POINTER 186 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Comida
+
+## POINTER 187 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Materiales de síntesis
+
+## POINTER 188 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Valiosos
+
+## POINTER 189 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Tipos de objetos
+
+## POINTER 190 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Sin configurar
+
+## POINTER 191 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Ordenar por nombre
+
+## POINTER 192 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+ENCUENTROS
+
+## POINTER 193 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814485]
+Nada
+
+## POINTER 194 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262338175]
+ATQ F.
+
+## POINTER 195 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262338175]
+DEF F.
+
+## POINTER 196 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262338175]
+ATQ M.
+
+## POINTER 197 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262338175]
+DEF M.
+
+## POINTER 198 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262338175]
+AGL

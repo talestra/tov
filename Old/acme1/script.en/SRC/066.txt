@@ -1,0 +1,13 @@
+## POINTER 0
+<STR>(RAV)
+Hey, hey!
+Thought we were going to go see Belius!
+
+## POINTER 1
+<STR>(YUR)
+We have to help Natz.
+Let Belius handle it here.
+
+## POINTER 2
+Information
+The door is locked.

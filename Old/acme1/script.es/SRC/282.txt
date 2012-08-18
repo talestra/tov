@@ -1,0 +1,93 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368419]
+<STR>(JUD)
+¿Oh? ¿Vas en busca del tal Cumore?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368419]
+<STR>(YUR)
+Nah, solo estoy
+dando un paseo.
+¿Tú dónde estabas?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368419]
+<STR>(JUD)
+De paseo, como tú.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368419]
+<STR>(YUR)
+No te estará reconcomiendo
+la conciencia por lo que le
+has dicho antes a <STR>(EST_P), ¿verdad?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368419]
+<STR>(JUD)
+¿Y qué le he dicho?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368419]
+<STR>(YUR)
+¿Es que no la has regañado?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368419]
+<STR>(JUD)
+Oh, es verdad. Perdona por haberte
+quitado ese honor...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368419]
+<STR>(YUR)
+¿Cómo? ¿Qué honor
+ni que ocho cuartos?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1275687019]
+<STR>(JUD)
+Tú estabas a punto de decirle
+exactamente lo mismo que yo,
+¿a que sí?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368419]
+<STR>(YUR)
+Vaya, te has dado cuenta.<PAGE>No hace falta que te disculpes
+por una cosa así.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1275687019]
+<STR>(JUD)
+De acuerdo...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1275687019]
+<STR>(YUR)
+Tampoco estabas pensando en buscar
+a Cumore por sentirte mal por lo
+de <STR>(EST_P), ¿verdad?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1275687019]
+<STR>(JUD)
+No, en absoluto.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1286988164]
+<STR>(YUR)
+Mmpf...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1275687019]
+<STR>(JUD)
+¿Es que no me crees?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1275687019]
+<STR>(YUR)
+Lo que creo es que te preocupas por los sentimientos
+de los demás mucho más de lo que pretendes aparentar.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1275687019]
+<STR>(JUD)
+¡No, eso tampoco!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1275687019]
+<STR>(YUR)
+Ya, lo que tú digas.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1275687019]
+<STR>(JUD)
+¿Y tú qué? ¿No vas
+a salir a buscarlo?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1279368419]
+<STR>(YUR)
+Ya te lo he dicho.
+Tan solo estoy de paseo.

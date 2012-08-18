@@ -1,0 +1,91 @@
+## POINTER 0
+<STR>(RIT)
+It seems like it should 
+be around here...<PAGE>Oh! Here it is, here it is! It's "The Legend 
+that Sleeps in Searing Sands!"
+
+## POINTER 1
+<STR>(YUR)
+Well, well! This book belongs 
+to the inn, doesn't it?
+
+## POINTER 2
+<STR>(RIT)
+Yep.
+
+## POINTER 3
+
+Is there something you wanted?
+
+## POINTER 4
+<STR>(RIT)
+Well, it's about this book 
+in this shelf here...
+
+## POINTER 5
+
+Oh that?<PAGE>That shelf is full of books that guests have accidentally
+left in the inn when they've stayed here.<PAGE>To be honest, we don't have any use for them at all, 
+and guests hardly ever come back for their books...<PAGE>You can feel free to do whatever you'd like
+with any of the books in that shelf.
+
+## POINTER 6
+<STR>(YUR)
+So you mean, you don't mind 
+if we take one of them?
+
+## POINTER 7
+
+No, go right ahead! In fact, that shelf fills 
+up pretty quickly. We've just been throwing 
+away the books whenever it gets full.
+
+## POINTER 8
+<STR>(RIT)
+All right, we'll take 
+it, then. Thank you!
+
+## POINTER 9
+<STR>(YUR)
+All right, so you've finally 
+gotten all of them?
+
+## POINTER 10
+<STR>(RIT)
+Yep. I've collected 
+all five.<PAGE>Now I can go and 
+take that test.
+
+## POINTER 11
+<STR>(YUR)
+Going out to look for books all across 
+the world...what a crazy test!
+
+## POINTER 12
+<STR>(RIT)
+Oh, the real test has yet to begin.<PAGE>There'll be a written test that requires 
+using these books as reference material.
+
+## POINTER 13
+<STR>(YUR)
+Agh, just thinking about taking 
+tests makes my head hurt.
+
+## POINTER 14
+<STR>(RIT)
+Wouldn't you like to give it a 
+try? Just to see how you do.
+
+## POINTER 15
+<STR>(YUR)
+Nah, I wouldn't have a chance. I don't care 
+about that what's-his-face degree anyway.
+
+## POINTER 16
+<STR>(RIT)
+Yeah, giving something like that to you
+would be like casting pearls before swine.
+
+## POINTER 17
+<STR>(YUR)
+Hey, who're you calling swine?!

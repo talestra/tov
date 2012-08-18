@@ -1,0 +1,78 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279528193]
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279528193]
+<STR>(YUR)
+Oye, ¿y esa cara tan larga?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279528193]
+<STR>(EST_P)
+¿En serio es el desierto
+tan peligroso como dicen?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279528193]
+<STR>(YUR)
+No creo que <STR>(RIT) fuera a bromear
+sobre eso, viendo el careto que puso.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298405452]
+<STR>(EST_P)
+Claro, supongo que no.<PAGE>Os he arrastrado a todos
+hasta aquí, y...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298405452]
+<STR>(YUR)
+Deberías dejar de
+preocuparte por eso.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279528193]
+<STR>(EST_P)
+¿Eh?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551572]
+<STR>(YUR)
+Estamos haciendo esto
+porque queremos hacerlo.<PAGE>
+Pero ¿tú qué? ¿Qué es
+lo que quieres hacer
+de verdad?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298405452]
+<STR>(EST_P)
+¿Yo?
+Pues...
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279528193]
+<STR>(YUR)
+Decías que querías descubrir
+quién eres, ¿no?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279528193]
+<STR>(EST_P)
+Sí, así es... pero...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298405452]
+<STR>(YUR)
+<STR>(EST_P), eres la cliente
+de Gran Vesperia.<PAGE>Si nos dices que vayamos a un sitio,
+allí iremos.<PAGE>Y si nos pides que vayamos en
+tu lugar, encontraremos a Phaeroh
+y lo traeremos aquí a rastras.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279528193]
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279528193]
+<STR>(EST_P)
+Entonces, yo...
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279528193]
+<STR>(YUR)
+No tienes por qué darme una respuesta
+ahora. Tómate tu tiempo.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279528193]
+<STR>(EST_P)
+...

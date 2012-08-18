@@ -1,0 +1,120 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS32_167)Haven't sawed logs 
+like that for a good 
+long while. *Yawn.*
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS32_168)Yeah, it's called oversleeping.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS32_169)We're ready to hit the 
+road, so get that sleep 
+out of your eyes.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS32_170)...Huh? There are fewer 
+knights than before...
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS32_171)Yeah. <STR>(FRE) and his 
+crew went back to 
+Nordopolica.
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS32_172)That must mean they were 
+traveling by night.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS32_173)Was there some emergency 
+they had to deal with?
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS32_174)Maybe they had to take 
+care of the monsters 
+from the coliseum.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS32_175)I'll bet Palestralle requested 
+the help of the knights.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS32_176)Hmm, we'll have to wait and see.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS32_177)...?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS32_178)Well, it's just that <STR>(FRE) said 
+something about a barricade.
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS32_179)Barricade? What could that mean?
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS32_180)Are they out to arrest 
+Belius for what 
+happened in the Great War?
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS32_181)I can't imagine that Palestralle 
+would be outmaneuvered that 
+easily by the Knights.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS32_182)I get the feeling this is 
+going to get messy.
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS32_183)Maybe we should think 
+twice about headin' back 
+ta Nordopolica for now.
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS32_184)But the new moon's almost here.
+If we miss this chance who knows 
+when we might meet Belius again.
+
+## POINTER 18
+<STR>(RAV)
+<VOICE>(VS32_185)That's all well and good. I'm just 
+not in a hurry ta get tangled up 
+with that armor wearin' bunch.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS32_186)Me neither.
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS32_187)We'll just have to be 
+careful, like always. No 
+use panicking about it.
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS32_188)Don't forget, I want 
+to take a look at the 
+aer krene in Cados.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS32_189)Don't worry. I haven't forgotten. 
+All right, let's head out.

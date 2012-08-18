@@ -1,0 +1,57 @@
+## POINTER 0
+<STR>(KAR)
+What's this?
+
+## POINTER 1
+<STR>(RIT)
+It's a conduction tube for aer.
+
+## POINTER 2
+<STR>(EST_P)
+This carries aer up higher in the tower, then?
+
+## POINTER 3
+<STR>(RIT)
+Why would they want to carry 
+aer higher in the tower?
+
+## POINTER 4
+<STR>(JUD)
+Come to think of it, there was a giant 
+blastia on the roof of the tower.
+
+## POINTER 5
+<STR>(RIT)
+But there's no aer passing 
+through here.
+
+## POINTER 6
+<STR>(KAR)
+Maybe it's broken.
+
+## POINTER 7
+<STR>(YUR)
+...Looks that way.
+
+## POINTER 8
+<STR>(KAR)
+What's this?
+
+## POINTER 9
+<STR>(RIT)
+It's a conduction tube for aer.
+...There's no aer passing through it, though...
+
+## POINTER 10
+<STR>(RIT)
+Oh, right! The gear we saw 
+powers the aer supply!
+
+## POINTER 11
+<STR>(YUR)
+All right, then we can leave 
+this for now, right?
+
+## POINTER 12
+<STR>(RIT)
+Sure.

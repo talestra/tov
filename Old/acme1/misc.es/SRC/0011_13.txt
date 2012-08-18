@@ -1,0 +1,320 @@
+## POINTER 1785 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263907488]
+Armet
+
+## POINTER 1786 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco de hierro que cubre toda la cabeza.
+Se usa a menudo en exposiciones.
+
+## POINTER 1788 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco de seguridad
+
+## POINTER 1789 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188483]
+Casco con un mensaje que reza: «La seguridad es lo primero».
+Un viaje es exactamente eso. Una gran perla de sabiduría.
+
+## POINTER 1791 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco de Caballero
+
+## POINTER 1792 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco empleado por los Caballeros.
+
+## POINTER 1794 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592997]
+Casco de plata
+
+## POINTER 1795 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261860433]
+Casco forjado en plata. Su excelente artesanía
+lo hace ideal para llevarlo en ceremonias.
+
+## POINTER 1797 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco de duelo
+
+## POINTER 1798 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Equipamiento para la cabeza que se dio a un héroe legendario.
+Es muy popular en torneos y arenas.
+
+## POINTER 1800 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco de mítril
+
+## POINTER 1801 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco forjado con mítril. Es ligero y robusto.
+El equipamiento ideal para la cabeza.
+
+## POINTER 1803 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco extraordinario
+
+## POINTER 1804 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271592997]
+Una obra maestra realizada por un legendario artesano.
+Sus propiedades defensivas son tan raras como su existencia.
+
+## POINTER 1806 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188483]
+Casco de pesadilla
+
+## POINTER 1807 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Lo llevaban los guerreros de una guerra eterna.
+¡Dicen que trae la mala suerte!
+
+## POINTER 1809 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263907488]
+Casco dorado
+
+## POINTER 1810 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco forjado con oro. Se dice que los héroes
+lo llevan. Es bastante pesado.
+
+## POINTER 1812 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco de dragón
+
+## POINTER 1813 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco bendecido con el espíritu de un dragón.
+Su fuerza hace honor a su nombre.
+
+## POINTER 1815 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco valiente
+
+## POINTER 1816 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Este casco tiene el poder de convertir
+el valor en fuerza.
+
+## POINTER 1818 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Casco glorioso
+
+## POINTER 1819 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188483]
+Protector para la cabeza que llena de orgullo al resto
+del equipo. Hace creer que tiene un gran poder defensivo.
+
+## POINTER 1821 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Hipercasco
+
+## POINTER 1822 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188483]
+El equipamiento para la cabeza definitivo.
+Muchos salen ilesos de la batalla al llevar esto.
+
+## POINTER 1824 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Diadema
+
+## POINTER 1825 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Una diadema corriente.
+Normalmente se usa como accesorio de moda.
+
+## POINTER 1827 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Tiara de bronce
+
+## POINTER 1828 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Tiara hecha de bronce. Es barata pero ayuda
+a mejorar la concentración.
+
+## POINTER 1830 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Tiara de hierro
+
+## POINTER 1831 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Tiara hecha de hierro. Ayuda a incrementar
+el poder de los conjuros.
+
+## POINTER 1833 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Diadema de gato
+
+## POINTER 1834 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261860433]
+Una diadema monísima con motivos felinos.
+¡Miau!
+
+## POINTER 1836 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261759460]
+Tiara de plata
+
+## POINTER 1837 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Tiara hecha de plata pura.
+Mejora los efectos mágicos.
+
+## POINTER 1839 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Tiara sagrada
+
+## POINTER 1840 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Imbuida en magia, es más poderosa
+de lo que aparenta.
+
+## POINTER 1842 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Tocado
+
+## POINTER 1843 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Diseñado para complementar cualquier traje.
+Puede llevarse puesto tal cual.
+
+## POINTER 1845 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Tiara de mítril
+
+## POINTER 1846 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188483]
+Tiara hecha de mítril.
+Mejora los efectos de cualquier conjuro.
+
+## POINTER 1848 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cresta espejismo
+
+## POINTER 1849 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Las ilusiones que genera aumentan
+las posibilidades de esquivar.
+
+## POINTER 1851 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Tiara de oro
+
+## POINTER 1852 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Tiara hecha de oro.
+Ayuda a mejorar la concentración.
+
+## POINTER 1854 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1262270655]
+Tiara krityana
+
+## POINTER 1855 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1262270655]
+Un tocado krityano tradicional.
+La humanidad no puede reproducirla.
+
+## POINTER 1857 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Tiara de platino
+
+## POINTER 1858 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Tiara hecha de platino.
+Tiene mejores propiedades defensivas que el mítril.
+
+## POINTER 1860 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Gafas elementales
+
+## POINTER 1861 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Un par de gafas que protegen de la magia elemental.
+Están diseñadas para mejorar la visibilidad.
+
+## POINTER 1863 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261860433]
+Cresta Terra
+
+## POINTER 1864 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Tocado popular entre los hechiceros.
+Está imbuido con los poderes de la tierra.
+
+## POINTER 1866 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Tiara mágica
+
+## POINTER 1867 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188483]
+Corona mágica. Se dice que mejora
+las habilidades de quien la lleva.
+
+## POINTER 1869 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Gorro de punto
+
+## POINTER 1870 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188483]
+Un gorro de punto ordinario.
+Es mejor no esperar mucho de él.
+
+## POINTER 1872 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261860433]
+Shapka
+
+## POINTER 1873 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Gorrito esponjoso.
+Imprescindible cuando hace frío.
+
+## POINTER 1875 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Sombrero de paja
+
+## POINTER 1876 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Sombrero redondo. Hay que tener cuidado
+de no perderlo en los días de viento.
+
+## POINTER 1878 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Sombrero puntiagudo
+
+## POINTER 1879 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Sombrero de artesanía.
+¡Ya no los hacen como antes!
+
+## POINTER 1881 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Sombrero pirata
+
+## POINTER 1882 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Sombrero popular entre los piratas.
+¡Atento, grumetillo!
+
+## POINTER 1884 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Boina verde
+
+## POINTER 1885 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Boina de color verde adornado con plumas.
+Hace que uno se sienta algo más diestro.
+
+## POINTER 1887 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Boina de caza
+
+## POINTER 1888 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263907926]
+Sombrero a cuadros para excursiones de caza.
+Casi nunca se cae, por lo que es perfecto para correr.
+
+## POINTER 1890 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Sombrero de cowboy
+
+## POINTER 1891 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016382]
+Ponte este sombrero y verás como acabas silbando
+la canción «Home on the Range» en menos que canta un gallo.
+
+## POINTER 1893 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Sombrero de plata
+
+## POINTER 1894 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Sombrero bordado con plata.
+Es más duradero de lo que parece.
+
+## POINTER 1896 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Máscara de perro ninja
+
+## POINTER 1897 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188483]
+Máscara para perros ninja.
+Mmm... ¿Pero no eran ficticios?
+
+## POINTER 1899 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta
+
+## POINTER 1900 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta mona de un rojo intenso.
+Es toda una declaración de moda.
+
+## POINTER 1902 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta bonita
+
+## POINTER 1903 [t:1;r:1;ru:memnoch;user:memnoch;time:1297188483]
+Una cinta muy mona.
+Azúcar, especias y otras chucherías.
+
+## POINTER 1905 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta morada
+
+## POINTER 1906 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta de color morado
+imbuida con propiedades defensivas.
+
+## POINTER 1908 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta tartán
+
+## POINTER 1909 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta con un estampado tartán.
+Tiene estilo, pero también es útil en la batalla.
+
+## POINTER 1911 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta azul
+
+## POINTER 1912 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta preciosa de un fresco color azul.
+Diseñada para sujetar el pelo durante el combate.
+
+## POINTER 1914 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta elegante
+
+## POINTER 1915 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta para los adinerados.
+La calidad hay que pagarla.
+
+## POINTER 1917 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta a rayas
+
+## POINTER 1918 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263907926]
+Cinta de diseño a rayas. Es bonita, pero también
+posee poderosas habilidades mágicas.
+
+## POINTER 1920 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta elemental
+
+## POINTER 1921 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261762862]
+Cinta protegida por los elementos.
+Refuerza la defensa mágica.

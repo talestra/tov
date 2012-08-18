@@ -1,0 +1,49 @@
+## POINTER 0
+Check It Out!
+
+## POINTER 1
+(KAR)
+Look, look! I filled 
+up the Monster Book!
+
+## POINTER 2
+(EST_P)
+Oooh! Let me see!
+
+## POINTER 3
+(YUR)
+We sure have fought a lot of 
+different kinds of monsters.
+
+## POINTER 4
+(EST_P)
+But it looks like there are still 
+a few blank pages left...
+
+## POINTER 5
+(KAR)
+I'm sorry... I don't know if I'll ever 
+be able to finish it...
+
+## POINTER 6
+(YUR)
+You're not the only one 
+working on it, though.
+
+## POINTER 7
+(KAR)
+Huh...?
+
+## POINTER 8
+(JUD)
+Right. That book is the product of all 
+our battles together.
+
+## POINTER 9
+(EST_P)
+That's right, (KAR). You can't give up!
+
+## POINTER 10
+(KAR)
+Yeah...Right! Okay, let's work together 
+on filling in every last page!

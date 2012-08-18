@@ -1,0 +1,71 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298322958]
+<STR>(JUD)
+Disculpa, ando buscando un vestido
+que tenga un aire fascinante.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323130]
+
+¡¿Fascinante?!
+¿Lo necesita para una cita?
+¿Qué le parece este?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275520383]
+<STR>(JUD)
+Ugh, es demasiado simplón.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298322958]
+
+Mmm... Bueno,
+¿qué tal este otro?
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275520383]
+<STR>(JUD)
+Nop...
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275520383]
+
+De acuerdo, ¡entonces este!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275520383]
+
+¿Qué está buscando
+exactamente?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279127268]
+<STR>(JUD)
+Pues, por ejemplo...
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279127268]
+
+I-Imposible.
+No tengo nada parecido.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298322958]
+<STR>(JUD)
+¿Podrías intentar confeccionarme
+uno, al menos?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275520383]
+
+Vamos a ver...<PAGE>Podría hacer algo muy especial, pero me harían
+falta una cola suave, una escama de basilisco
+y una pluma de pájaro pequeña.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298322958]
+
+No deberían tener problemas en obtener
+esos objetos de los monstruos que acechan
+en las afueras de la ciudad.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275520383]
+<STR>(JUD)
+De acuerdo, así lo haremos.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275520383]
+<STR>(KAR)
+<STR>(JUD) está muy entusiasmada
+con el tema, ¿no crees?
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275520383]
+<STR>(YUR)
+Para mí que le van mucho estos rollos...

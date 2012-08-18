@@ -1,0 +1,51 @@
+## POINTER 0
+Hunger is the Best Spice
+
+## POINTER 1
+(KAR)
+I'm so hungry...
+
+## POINTER 2
+(RAV)
+I'm dyin' here...
+
+## POINTER 3
+(YUR)
+Already? The girls look 
+like they're doing fine.
+
+## POINTER 4
+(KAR)
+...Was that (EST_P)? Listen, 
+her stomach's rumbling, too!
+
+## POINTER 5
+(EST_P)
+I can wait. Though it's been 
+a little difficult...
+
+## POINTER 6
+(RAV)
+Hmm? That sounded like 
+it came from (RIT).
+
+## POINTER 7
+(YUR)
+(JUD_P), you too? Are you trying to 
+see who can hold out the longest?
+
+## POINTER 8
+(JUD)
+Perhaps a diet is a little bit like 
+a competition in holding out.
+
+## POINTER 9
+(RAV)
+A diet? What do you need to diet 
+for?! Especially you, (RIT)! Lose 
+any more weight, and you'll--
+
+## POINTER 10
+(RIT)
+I'm just waiting until I finish 
+reading this book, okay?!

@@ -1,0 +1,66 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS27_172)This is becomin' a real 
+pain in the neck.
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS27_173)Less talking, more fighting.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS27_174)Wh-what?
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS27_175)Hey...what's 
+going on?!
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS27_176)Could this box be 
+causing everything...?
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS27_178)Him!
+
+## POINTER 6
+<STR>(FRE)
+<VOICE>(VS27_179)Hear me Knights! Sodia will 
+command this division and 
+eliminate the remaining monsters!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS27_180)Shouldn't evacuating 
+these people come first?
+
+## POINTER 8
+<STR>(FRE)
+<VOICE>(VS27_181)The rest of you will defend the 
+spectators with me! Don't let even 
+one of the beasts escape!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS27_182)Heh, looks like <STR>(FRE) was 
+thinking ahead. He even sounds 
+like a real captain already.<PAGE><VOICE>(VS27_183)We're getting out of here.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS27_184)<STR>(JUD) and your puppy 
+dog already took off.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS27_185)Yeah, I heard.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS27_186)A hero's work is never done...
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VS27_187)Helloo! Wait up! Hey!

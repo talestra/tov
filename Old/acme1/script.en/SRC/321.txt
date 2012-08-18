@@ -1,0 +1,70 @@
+## POINTER 0
+<STR>(JUD)
+Oh, where are you off to?
+
+## POINTER 1
+<STR>(YUR)
+Nowhere in particular. Just going on a walk.<PAGE>What about you? Where 
+were you going?
+
+## POINTER 2
+<STR>(JUD)
+I just wanted to get a look at the desert terrain 
+we were going to be headed into next.
+
+## POINTER 3
+<STR>(YUR)
+It's good to be prepared. 
+So, how was it?
+
+## POINTER 4
+<STR>(JUD)
+It was hot.
+
+## POINTER 5
+<STR>(YUR)
+Well, I assumed as much.
+
+## POINTER 6
+<STR>(JUD)
+But... It wasn't as hot 
+as I thought it'd be.
+
+## POINTER 7
+<STR>(YUR)
+Hmmm...well, okay. But what 
+I wanted to know was if Phaeroh 
+is out there.
+
+## POINTER 8
+<STR>(JUD)
+Right...that'd 
+be nice.
+
+## POINTER 9
+<STR>(YUR)
+Oh well, I guess we couldn't 
+expect him to be that 
+easy to find.
+
+## POINTER 10
+<STR>(JUD)
+...
+
+## POINTER 11
+<STR>(YUR)
+What?
+
+## POINTER 12
+<STR>(JUD)
+You want to go out and 
+check for yourself?
+
+## POINTER 13
+<STR>(YUR)
+No, that's okay...<PAGE>If we head out to look for him, 
+we should do it together.
+
+## POINTER 14
+<STR>(JUD)
+Oh, I see.

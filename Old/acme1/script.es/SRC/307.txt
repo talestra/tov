@@ -1,0 +1,247 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282294297]
+<STR>(YUR)
+<VOICE>(VS27_055)Tranquilo. No hemos dicho
+todavía si aceptamos o no.<PAGE>
+<VOICE>(VS27_056)Eso puede esperar hasta que
+nos cuentes de qué va todo esto.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1282961319]
+Regaey
+<VOICE>(VS27_057)D-De acuerdo. Me gustaría que
+detengáis a un hombre que intenta
+ha-hacerse con el control de Palestrale.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(KAR)
+<VOICE>(VS27_058)¡¿Hacerse con el control...
+de la ciudad?!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(JUD)
+<VOICE>(VS27_059)Mmm, esto se pone interesante.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282294297]
+<STR>(RIT)
+<VOICE>(VS27_060)¿Por qué te interesa
+tanto evitarlo?<PAGE>
+<VOICE>(VS27_061)Si no es tu gremio,
+¿por qué no dejas que ocurra?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1282961319]
+Regaey
+<VOICE>(VS27_062)V-Veréis, Palestrale nos ha encargado
+que investiguemos las r-ruinas
+que hay en el coliseo.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1279405416]
+<STR>(KAR)
+<VOICE>(VS27_063)Mm. Bueno, ahora que caigo, esta
+ciudad se supone que es súper antigua.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393095]
+Regaey
+<VOICE>(VS27_064)S-Si alguien se hiciera con el c-control,
+sería una desconsideración
+hacia los entelechia.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(KAR)
+<VOICE>(VS27_065)¿Entele-qué?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282294297]
+Regaey
+<VOICE>(VS27_066)Ah, claro. D-Disculpad.
+¿N-No sabéis quiénes son?<PAGE>
+<VOICE>(VS27_067)T-Tengo entendido que son una r-raza
+antigua que construyó esta ciudad
+y permitió a los g-gremios vivir en ella.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(YUR)
+<VOICE>(VS27_068)Una raza antigua, ¿eh?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(KAR)
+<VOICE>(VS27_069)¿Como los krityanos?
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(RAV)
+<VOICE>(VS27_070)Pos vale. ¿Quién es er tipo que
+pretende ponerlo tó patas arriba?
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282294297]
+Regaey
+<VOICE>(VS27_071)E-Es el campeón
+del coliseo.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(RIT)
+<VOICE>(VS27_072)¿Eh? ¿Qué nos estás contando?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393095]
+Regaey
+<VOICE>(VS27_073)E-Es un hombre que ha entrado
+en el torneo para ha-hacerse
+directamente con Palestrale.<PAGE>
+<VOICE>(VS27_074)S-Si gana muchos combates
+podrá llegar a estar en
+p-presencia de Belius.<PAGE>
+<VOICE>(VS27_075)E-Es alguien terriblemente peligroso.
+Si no se le e-elimina pronto, temo
+que B-Belius sea...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1282961319]
+<STR>(RAV)
+<VOICE>(VS27_076)Es decir, que mientras siga ganando,
+Palestrale no puede cargárselo
+aunque quisieran, ¿verdá?
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(YUR)
+<VOICE>(VS27_077)En pocas palabras, quieres
+que entremos en el torneo
+y que lo derrotemos, ¿no es así?
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282294297]
+Regaey
+<VOICE>(VS27_078)S-Sí. P-Perdonad que os pida
+algo así, p-por favor.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393095]
+<STR>(RIT)
+<VOICE>(VS27_079)Jolín, ¿por qué no has empezado por ahí?<PAGE>
+<VOICE>(VS27_080)De todas formas, ¿estás seguro
+de que este tipo quiere hacerse
+de verdad con el coliseo?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393095]
+Regaey
+<VOICE>(VS27_081)¡P-P-P-Pues claro! Incluso cuenta
+con el a-a-a-a-apoyo de la
+G-G-G-Garra del Leviatán.<PAGE><VOICE>(VS27_082)¡P-P-Pretenden hacerse con
+el c-coliseo para controlar
+los otros g-gremios!
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(YUR)
+<VOICE>(VS27_083)Ese parece un plan digno de Cumore...
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(KAR)
+<VOICE>(VS27_084)No es posible...
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282294297]
+<STR>(YUR)
+<VOICE>(VS27_085)Ya sabemos que Cumore
+y la Garra del Leviatán
+están trabajando juntos.<PAGE>
+<VOICE>(VS27_086)Mmm, me pregunto qué sacaremos en limpio
+si revolvemos tanto trapo sucio...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393095]
+<STR>(EST_P)
+<VOICE>(VS27_087)¡Sea lo que sea, tenemos que
+detener a la Garra del Leviatán!
+<PAGE><VOICE>(VS27_088)Si no lo hacemos, las relaciones entre el Imperio
+y los gremios no hará más que empeorar.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282295038]
+<STR>(JUD)
+<VOICE>(VS27_089)¿Y qué pasa con Phaeroh? Si nos metemos
+en esto, vete tú a saber cuándo podremos
+retomar la búsqueda.
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282295038]
+<STR>(EST_P)
+<VOICE>(VS27_090)E-Esto, pero...
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282295038]
+<STR>(JUD)
+<VOICE>(VS27_091)<STR>(EST_P), ¿qué es lo que
+quieres hacer?
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(EST_P)
+<VOICE>(VS27_092)Lo que quiero hacer...
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282295038]
+Regaey
+<VOICE>(VS27_093)P-Perdonad, ¿e-es que acaso os supone
+una d-decisión difícil?
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(JUD)
+<VOICE>(VS27_094)No tiene dificultad alguna.
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(EST_P)
+<VOICE>(VS27_095)¿Qué quieres decir?
+
+## POINTER 32 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(JUD)
+<VOICE>(VS27_096)Vamos a hacerlo, ¿no?
+Ya hemos escuchado
+la historia, en todo caso.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393095]
+<STR>(KAR)
+<VOICE>(VS27_097)C-Claro. Como gremio que somos,
+es algo que podamos ignorar.
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(RAV)
+<VOICE>(VS27_098)Pos venga. ¿Quién s'apunta al torneo?
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393095]
+<STR>(KAR)
+<VOICE>(VS27_099)Bueno, no podemos pedírselo ni a <STR>(EST_P),
+ni a <STR>(RIT), ni a <STR>(RAV).
+<PAGE><VOICE>(VS27_100)Al fin y al cabo, este es un trabajo
+que Gran Vesperia hace por Portal de Ruinas.
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(RIT)
+<VOICE>(VS27_101)Vale, pues...
+
+## POINTER 37 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(YUR)
+<VOICE>(VS27_102)No os lo toméis a mal, pero preferiría que
+nadie tuviera que vérselas con <STR>(JUD_P).
+
+## POINTER 38 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(JUD)
+<VOICE>(VS27_103)¿Mmm? Pues estaba a punto de salir
+corriendo para apuntarme. Oh, bueno,
+supongo que por esta vez pase.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393095]
+<STR>(YUR)
+<VOICE>(VS27_104)Y nuestro jefe no debería molestarse
+con este tipo de tonterías. Así que
+supongo que me ha caído a mí el marrón.
+
+## POINTER 40 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(KAR)
+<VOICE>(VS27_105)Eh, c-claro.
+
+## POINTER 41 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282295038]
+Regaey
+<VOICE>(VS27_106)E-Entonces... ¿A-Aceptáis
+el t-trabajo?
+
+## POINTER 42 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282295038]
+<STR>(YUR)
+<VOICE>(VS27_107)Claro. Derrotar al campeón
+mejorará la reputación
+de nuestro gremio.<PAGE>
+<VOICE>(VS27_108)No es un mal trato para nosotros.
+
+## POINTER 43 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278246177]
+<STR>(KAR)
+<VOICE>(VS27_109)Sí, tienes razón...
+
+## POINTER 44 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282295038]
+Regaey
+<VOICE>(VS27_110)Entiendo. E-Entonces id a la
+ventanilla para r-registraros
+cuando estéis listos.

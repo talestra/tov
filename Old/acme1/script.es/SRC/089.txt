@@ -1,0 +1,218 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_037)¿Por qué no volvemos y ya?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_038)¡Ya no puedo regresar!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1304121001]
+
+<VOICE>(VS03_039)Es por vuestro propio bien. Ya lo sabéis, señorita.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_040)Respecto al «incidente», asumimos
+toda la responsabilidad e informaremos 
+al teniente personalmente.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_041)¿Cómo pueden decir eso cuando
+no han hecho nada para ayudarme?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_042)No se acerquen más, por favor.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>
+(VS03_043)Venga, venga, ¿por qué no bajáis eso? 
+Acabaréis por haceros daño.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269902739]
+
+<VOICE>(VS03_044)¡Sé cómo usar una espada!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_045)Me temo que no nos dais alternativa.
+Esperaba no tener que llegar a esto...
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269790789]
+
+<VOICE>(VS03_046)¡Eh! ¡Allí está! ¡Por ahí!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_047)Por favor, ¡suéltenme!
+<PAGE><VOICE>(VS03_048)¡Tengo que avisar
+a <STR>(FRE)!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269792737]
+<STR>(YUR)
+<VOICE>(VS03_049)¿Ha dicho <STR>(FRE)?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269790789]
+<STR>(YUR)
+<VOICE>(VS03_050)¡Yah!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269790789]
+
+<VOICE>(VS03_051)¡Aaah!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_052)¡Ouch!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_053)¡¿<STR>(FRE)?!
+¿Has venido a ayudarme?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_054)¿Q-Quién es usted?
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269791050]
+
+<VOICE>(VS03_055)¡Identifícate!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+<STR>(YUR)
+<VOICE>(VS03_060)¿A estos tíos ya no
+les enseñan modales en la
+academia para Caballeros?
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270593320]
+<STR>(YUR)
+<VOICE>(VS03_061)Maldita sea...
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269791050]
+
+<VOICE>(VS03_062)Quieres un poquito más, ¿eh?
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269791050]
+
+<VOICE>(VS03_063)¡Acabemos con él!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298145268]
+<STR>(YUR)
+<VOICE>(VS03_064)¡Yiah!
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269791050]
+
+<VOICE>(VS03_065)¡Aaah!
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269791666]
+
+<VOICE>(VS03_066)¡Aaah!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298147098]
+<STR>(YUR)
+<VOICE>(VS03_067)Uff... Qué justo ha ido.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298145268]
+<VOICE>(VS03_068)¡Yiah!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+<STR>(YUR)
+<VOICE>
+(VS03_069)¡Oye! ¿Intentas matarme o qué?
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270593320]
+
+<VOICE>(VS03_070)Bueno... Usted no es
+de este castillo, ¿verdad?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298147098]
+<STR>(YUR)
+<VOICE>
+(VS03_071)No, y me tomaré como un cumplido que mi
+apariencia te haya hecho dar cuenta de eso.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+<VOICE>(VS03_072)¡<STR>(YUR) Lowell! 
+¿Dónde estás?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+Adecor
+<VOICE>(VS03_073)¡Vos, fugitivo execrable!
+Sabemos que vuestra meta no
+es otra que escapar, proclamo.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+<STR>(YUR)
+<VOICE>(VS03_074)No, por favor, ellos otra vez no.
+Creo que ahora ya no tiene sentido 
+volver a la celda.
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1272052088]
+
+<VOICE>
+(VS03_075)¡Más alto, idiotas! ¡Que se vean esas ganas!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+Boccos
+<VOICE>(VS03_076)¡Qué vozarrón, teniente Leblanc!
+Me ha dejado teniente a mi también...
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_077)¿<STR>(YUR) Lowell? Usted es uno
+de los amigos de <STR>(FRE), ¿no?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+<STR>(YUR)
+<VOICE>(VS03_078)Sí. ¿Por?
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_079)¿Y perteneció a los
+Caballeros Imperiales?
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+<STR>(YUR)
+<VOICE>(VS03_080)Solo durante tres meses.<PAGE><VOICE>
+(VS03_081)¿Te lo ha contado <STR>(FRE)?
+
+## POINTER 39 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269792181]
+
+<VOICE>(VS03_082)Sí.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+<STR>(YUR)
+<VOICE>(VS03_083)Je. Parece que después de todo encontró
+a alguien en el castillo con quien hablar.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1298147098]
+
+<VOICE>(VS03_084)¡<STR>(YUR), necesito
+hablar con <STR>(FRE)!
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528733]
+<STR>(YUR)
+<VOICE>(VS03_085)Espera un segundo.
+¿Se puede saber quién eres?<PAGE><VOICE>(VS03_086)
+Parece que conoces a <STR>(FRE), pero
+¿por qué te persiguen los Caballeros?
+
+## POINTER 43 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269793372]
+
+<VOICE>(VS03_087)¡Por aquí!
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1298147098]
+<STR>(YUR)
+<VOICE>(VS03_088)Me gustaría escuchar toda la historia,
+pero ahora no tenemos tiempo para charlar.<PAGE><VOICE>
+(VS03_089)Lo primero es lo primero: vamos a la habitación
+de <STR>(FRE). ¿Quieres que te lleve hasta ahí?
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1298146346]
+
+<VOICE>(VS03_090)Oh, ¡claro!
+
+## POINTER 46 [t:1;r:2;ru:squallido,memnoch;user:SamuelSnake;time:1269793372]
+<STR>(YUR)
+<VOICE>(VS03_091)Pues vamos.

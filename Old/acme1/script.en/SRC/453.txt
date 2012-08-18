@@ -1,0 +1,98 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS45_036)Uhh... 
+I'm alive...<PAGE><VOICE>(VS45_037)...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS45_038)Ugh...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS45_039)...Did everybody make it?
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS45_040)I'll be all right.
+
+## POINTER 4
+<STR>(RAP)
+<VOICE>(VS45_041)Aoo..oon
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS45_042)Ugh...I'm alive, but 
+I can't say much 
+more than that.<PAGE><VOICE>(VS45_043)Feels like I might've 
+snapped a few bones.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS45_044)<STR>(YUR)...it hurts...
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS45_045)That thing <STR>(EST_P) did... 
+It was like Dein Nomos...<PAGE><VOICE>(VS45_046)Must be what happens 
+when you get a few 
+apatheia together at once...
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS45_047)Don't try to talk.<PAGE><VOICE>(VS45_048)We're gonna get you both 
+to a doctor. Try and hang 
+in there for a little longer.
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS45_049)Thank you, old friend. 
+We owe you so much.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS45_050)...It looks like Ba'ul 
+won't be able to give 
+us a lift for a while.
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS45_051)No. He'll have to rest 
+somewhere until his 
+wounds are healed.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS45_052)You've done more for 
+us than we could ask. 
+Take care and rest well.
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS45_053)What about <STR>(EST_P)...?
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS45_054)Yeah...! If we 
+don't hurry...
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS45_055)You've got plenty to 
+worry about without 
+thinking about <STR>(EST_P).
+
+## POINTER 16
+<STR>(JUD)
+<VOICE>(VS45_056)It seems we're somewhere 
+near Capua Nor.<PAGE><VOICE>(VS45_057)Let's go to Nor Harbor. There's 
+bound to be a doctor there.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS45_058)Yeah.
+
+## POINTER 18
+<STR>(RAV)
+<VOICE>(VS45_059)I don't like that sky. 
+The aer is boilin' like 
+thunderclouds.<PAGE><VOICE>(VS45_060)...There's a mean storm brewin'...

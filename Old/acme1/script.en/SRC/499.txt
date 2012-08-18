@@ -1,0 +1,51 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS52_039)...
+
+## POINTER 1
+
+<VOICE>(VS52_040)Rowf.
+
+## POINTER 2
+
+<VOICE>(VS52_041)What's wrong? 
+Oh!
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS52_042)<STR>(YUR)...?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS52_043)<STR>(EST_P)? <STR>(RAP)...?
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS52_044)<STR>(YUR)!
+
+## POINTER 6
+<STR>(RAP)
+<VOICE>(VS52_045)Woof!
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS52_046)Hah hah hah!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS52_047)Ouch, hey hold on a sec.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS52_048)<STR>(YUR), it's really you, right? 
+You're not a ghost or something? 
+Oh good, you have a shadow.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS52_049)Yeah, I'm living! And 
+yeah, that hurt!
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS52_050)Thank goodness, I'm so happy.

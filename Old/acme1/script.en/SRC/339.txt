@@ -1,0 +1,154 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS31_120)Duke may have been the one 
+that saved us in the desert.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS31_121)Hmmm, maybe.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS31_122)...I'm going to go and thank him.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS31_123)Hold up.<PAGE><VOICE>(VS31_124)He doesn't seem the 
+type to do something 
+like that.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS31_125)You don't think so?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS31_126)Just a hunch.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS31_127)You said that Child of the Full 
+Moon he mentioned was the sister 
+of Brave Vesperia, right?
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS31_128)Yeah...
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS31_129)Goddess who bathes this world 
+in her golden light, you are 
+named Child of the Full Moon.<PAGE><VOICE>(VS31_130)Your brother, Brave Vesperia, 
+watches over us from the skies.<PAGE><VOICE>(VS31_131)You remain bound to your mother, 
+the earth, and will shelter her 
+with your unceasing protection.
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS31_132)Is there, like, a hidden meaning in there?
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS31_133)I'm not sure. But maybe 
+it's more than just 
+an old legend.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS31_134)Remaining to protect the earth, huh?
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS31_135)Could "protecting the earth" 
+have anything to do with 
+ruling over this world?
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS31_136)You mean, like becoming the emperor? 
+If <STR>(EST_P) is the Child of the Full 
+Moon, that would add up.
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VS31_137)Which means all the previous 
+emperors would've been on 
+Phaeroh's hit list.
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS31_138)I've never heard of 
+anything like that.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS31_139)Hmm...
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS31_140)Shouldn't we be thinking more 
+about what to do next?
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS31_141)I'm gonna stay here. There are 
+things I've got to investigate.
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS31_142)Investigate?
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS31_143)Clear ciel crystals, apatheia... 
+All kinds of things.<PAGE><VOICE>(VS31_144)Honestly, I have a few 
+bones to pick with Mr. 
+Warm-and-Fuzzy over there.<PAGE><VOICE>(VS31_145)If you're all going back, we'll 
+have to say our goodbyes here.
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS31_146)But!
+
+## POINTER 22
+<STR>(JUD)
+<VOICE>(VS31_147)Oh...that's too bad. I don't imagine 
+the desert will be much fun on 
+your own, but good luck.
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS31_148)Ugh...that's right... I can't 
+go anywhere without 
+crossing that desert.
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS31_149)We can afford ta take a 
+load off while she's checkin' 
+things out, can't we?<PAGE><VOICE>(VS31_150)I'm pretty interested 
+in apatheia myself.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS31_151)Yeah. Besides, we should make 
+sure we're ready before 
+heading back into the desert.<PAGE><VOICE>(VS31_152)Why don't we head back 
+tomorrow? <STR>(RIT), think you can 
+tie up your loose ends in a day?
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS31_153)Shouldn't be a problem. 
+Th-thanks... I appreciate it.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS31_154)Hah. You're welcome. Okay 
+then, we'll meet up near 
+the exit tomorrow morning.
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS31_155)Right. See you then.

@@ -1,0 +1,16 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283645286]
+<STR>(KAR)
+¡Aaah!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285459986]
+<STR>(RIT)
+Tienes que tranquilizarte.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283645286]
+<STR>(JUD)
+Parece que le gustamos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283645286]
+<STR>(YUR)
+Prefiero tener citas
+con gente menos agresiva.

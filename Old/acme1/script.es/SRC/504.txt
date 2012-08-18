@@ -1,0 +1,175 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571269]
+<STR>(RIT)
+<VOICE>(VS53_007)Mmm... Deberíamos ser capaces de
+calcular el coeficiente de estabilidad
+del campo de fuerza. Así pues...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(EST_P)
+<VOICE>(VS53_008)¿<STR>(RIT)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571269]
+<STR>(RIT)
+<VOICE>(VS53_009)Podríamos desarrollar una fórmula clave.
+La eficacia es aceptable. Crear una máquina
+estable y que no provoque dispersiones sería...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(YUR)
+<VOICE>(VS53_010)¡Oye, <STR>(RIT)!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571269]
+<STR>(RIT)
+<VOICE>(VS53_011)¡¿Qué?! ¡No me
+incordiéis! ¡¿Eh?!...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(RIT)
+<VOICE>(VS53_012)Oh, sois vosotros... ¿Cómo habéis
+entrado en...? ¡Espera, pero si eres...!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(YUR)
+<VOICE>(VS53_013)Buenas.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571269]
+<STR>(RIT)
+<VOICE>(VS53_014)¡¿Dónde narices estabas?! 
+Te he estado buscando
+por todos lados, ¿sabes?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(YUR)
+<VOICE>(VS53_015)Aah, perdona.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:memnoch;time:1286988425]
+<STR>(RIT)
+<VOICE>(VS53_016)Mmpf, vale, lo que tú digas.
+No tengo tiempo para discutir.<PAGE><VOICE>(VS53_017)Tengo que hablar con <STR>(EST_P) de algo muy importante.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(YUR)
+<VOICE>(VS53_018)¿Con <STR>(EST_P)?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(RIT)
+<VOICE>(VS53_019)Creo que he hallado el modo de controlar
+el comportamiento del aer.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(EST_P)
+<VOICE>(VS53_020)¡¿En serio?! ¡Eso es genial, <STR>(RIT)!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571269]
+<STR>(RIT)
+<VOICE>(VS53_021)He descubierto muchas cosas
+investigando en Zaude.<PAGE><VOICE>(VS53_022)Creo que podemos usar las mismas
+técnicas que se usaron allí.<PAGE><VOICE>(VS53_023)No obstante...
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(JUD)
+<VOICE>(VS53_024)¿Y ahí entra el poder
+de Hija de la Luna Llena
+de <STR>(EST_P)?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(RIT)
+<VOICE>(VS53_025)Tenemos que interactuar con el aer para hacer
+que se recombine con libertad siguiendo una fórmula...<PAGE><VOICE>(VS53_026)<STR>(EST_P) es la única que puede hacer eso.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(YUR)
+<VOICE>(VS53_027)No tendría que haber
+devuelto la Dein Nomos...
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(EST_P)
+<VOICE>(VS53_028)¿Has visto a Duke?
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(YUR)
+<VOICE>(VS53_029)Sí. Fue él quien me salvó.
+Bueno, dijo que lo hizo
+para recuperar la espada.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(RIT)
+<VOICE>(VS53_030)Esa espada no es lo mismo que un Hijo de la Luna Llena.
+Dudo que la hubiéramos podido usar como sustituto.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(JUD)
+<VOICE>(VS53_031)Pero aquella fórmula que usaste
+para controlar a <STR>(EST_P)...<PAGE><VOICE>(VS53_032)Lo que controlabas era el poder de los
+Hijos de la Luna Llena, ¿verdad?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571269]
+<STR>(RIT)
+<VOICE>(VS53_033)Sí. Así que para usar la misma
+teoría para controlar el aer,
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(RIT)
+<VOICE>(VS53_034)tenemos que liberar la fórmula
+que controla a <STR>(EST_P).
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(YUR)
+<VOICE>(VS53_035)Es decir... que si nos sale bien,
+podremos controlar el aer.<PAGE><VOICE>(VS53_036)Pero si la jorobamos, el aer irá
+a peor, y el mundo caerá ante
+el adephagos.<PAGE><VOICE>(VS53_037)¿Me dejo algo?
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(JUD)
+<VOICE>(VS53_038)Es un plan muy audaz.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571269]
+<STR>(RIT)
+<VOICE>(VS53_039)Estoy segura de que saldrá bien. 
+<STR>(EST_P)... confía en mí. 
+Préstame tu poder.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(EST_P)
+<VOICE>(VS53_040)...
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(JUD)
+<VOICE>(VS53_041)¿Tienes miedo?
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(EST_P)
+<VOICE>(VS53_042)No. Estoy contenta. Puede
+que todavía pueda usar mi
+poder para ayudar a los demás.<PAGE><VOICE>(VS53_043)<STR>(RIT). Por favor, dime
+qué es lo que puedo hacer.
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(YUR)
+<VOICE>(VS53_044)¿Qué nos toca hacer exactamente?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571269]
+<STR>(RIT)
+<VOICE>(VS53_045)Todavía no he terminado
+de pensarlo todo.<PAGE><VOICE>(VS53_046)Dadme un poco más de tiempo.
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(YUR)
+<VOICE>(VS53_047)Vale. Iremos a ver a
+<STR>(KAR) y a <STR>(RAV)
+mientras le das al coco.
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(EST_P)
+<VOICE>(VS53_048)¡Genial!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298571269]
+<STR>(RIT)
+<VOICE>(VS53_049)Voy con vosotros. Tengo todo lo que
+necesito en la cabeza. Os lo haré
+saber cuando haya terminado.
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286218115]
+<STR>(JUD)
+<VOICE>(VS53_050)Vale. Vámonos.

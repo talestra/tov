@@ -1,0 +1,158 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006320]
+
+Bienvenidos a la tienda
+Caja de cambios galáctica.
+¿Qué baratija desean comprar?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1291575677]
+
+Tenemos unos pendientes
+la mar de relucientes hechos de
+la mejor plata. ¡Pasen y vean!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661583]
+<STR>(JUD)
+No tenéis armaduras o armas
+o algo por el estilo, ¿no?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1291575950]
+
+Me temo que no, señorita.
+Aquí nos centramos en estética. ♪
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291575950]
+<STR>(YUR)
+No hemos venido aquí
+exactamente a comprar.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1291575950]
+<STR>(JUD)
+Je, es verdad.
+Casi lo olvido.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1291635949]
+
+Bueno, si no han venido a comprar,
+¿en qué les podemos ayudar?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661583]
+<STR>(KAR)
+Nos preguntábamos si serían tan
+amables de contarnos un poco sobre
+cómo refinar la livianita.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1291631963]
+
+Oye, ¿crees que se refiere a
+lo que Kale escribió en aquel
+libro tan viejo que tenía?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1291631963]
+
+Pues supongo que sí.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661583]
+<STR>(KAR)
+¡Eso es! Eso es lo que
+Nobis está buscando.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1291631963]
+
+No sé qué habríamos hecho
+sin ese libro.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1291632497]
+
+Elaborar la livianita es más chungo
+que lamerse el codo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1291632497]
+<STR>(EST_P)
+¿Considerarían dejárnoslo?
+Si no es demasiado largo,
+podríamos hacer una copia.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1291632497]
+
+El problema es que
+ya no lo tenemos.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1291632497]
+
+Hace tiempo vinieron los
+Caballeros Imperiales
+y se lo llevaron.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1291632497]
+<STR>(KAR)
+¿Los Caballeros Imperiales?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1291632497]
+<STR>(RAV)
+Eh, eh, quietos paraos.
+¡Soy inocente, inocente!<PAGE>¿Por casualidad no sabríais cómo
+se llamaba ese grupo de Caballeros?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661583]
+
+¿No era la brigada
+de Cumore o algo así?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1291632497]
+<STR>(EST_P)
+Cumore...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1291632497]
+<STR>(YUR)
+Jamás imaginé que oiría
+ese nombre aquí.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661583]
+
+Sí, nos lo quitó de las manos y
+lo llamó «herético». Claro que
+eso no fue más que un cuento chino.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1291635949]
+
+Deberían haber visto cómo se le iluminó la cara
+cuando nos oyó mencionarlo por primera vez.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1291635949]
+<STR>(YUR)
+Debió haberlo visto como una
+manera de empezar a hacer algún
+tipo de armamento pesado.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1291635949]
+<STR>(RIT)
+Los tontolabas sin talento
+siempre parecen obsesionados
+por hacer los juguetes más grandes.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661583]
+<STR>(KAR)
+¿Y ahora qué hacemos?
+Si Cumore se lo llevó, entonces...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1291635949]
+<STR>(RAV)
+Imagino que los Caballeros
+no pierden de vista las
+cosas que confiscan.<PAGE>Aunque no recuerdo
+mu bien er protocolo.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1291635949]
+<STR>(EST_P)
+¿Y si le preguntamos
+a <STR>(FRE)?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661583]
+<STR>(YUR)
+Quizá sea lo mejor si el
+viejales no nos puede ayudar.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1291635949]
+<STR>(KAR)
+Pues vamos
+a Aurnion.

@@ -1,0 +1,269 @@
+## POINTER 2162
+Soundwave
+
+## POINTER 2164
+Soundwave Combo
+
+## POINTER 2166
+Wind Blast
+
+## POINTER 2168
+Pow Hammer
+
+## POINTER 2170
+Breath
+
+## POINTER 2172
+Breath Combo
+
+## POINTER 2174
+Spark Attack
+
+## POINTER 2176
+Freezing Attack
+
+## POINTER 2178
+Sealed Wave
+
+## POINTER 2180
+Slap
+
+## POINTER 2182
+Spinning attack
+
+## POINTER 2184
+Headbutt
+
+## POINTER 2186
+Change Expression (Angry)
+
+## POINTER 2188
+Change Expression (Crying)
+
+## POINTER 2190
+Explosion
+
+## POINTER 2192
+Rocket Balloon
+
+## POINTER 2194
+Breath/Speech
+
+## POINTER 2196
+Ball Toss
+
+## POINTER 2198
+Rope Toss
+
+## POINTER 2200
+Warp
+
+## POINTER 2202
+Ink Attack
+
+## POINTER 2204
+Area Ink Attack
+
+## POINTER 2206
+Combo Ink Attack
+
+## POINTER 2208
+Breath
+
+## POINTER 2210
+Headbutt
+
+## POINTER 2212
+Horn Swing Up
+
+## POINTER 2214
+Horn Swing
+
+## POINTER 2216
+Scissor Cut
+
+## POINTER 2218
+Scissor Chop
+
+## POINTER 2220
+Big Scissor Cut
+
+## POINTER 2222
+Tackle
+
+## POINTER 2224
+Stinger Stab
+
+## POINTER 2226
+Arm Attack
+
+## POINTER 2228
+Sword Cut
+
+## POINTER 2230
+Focused Attack
+
+## POINTER 2232
+Gunshot
+
+## POINTER 2234
+Rip Apart
+
+## POINTER 2236
+Rip Apart Combo
+
+## POINTER 2238
+Scissor Cut
+
+## POINTER 2240
+Bite
+
+## POINTER 2242
+Grab and Bite
+
+## POINTER 2244
+Poison Slash
+
+## POINTER 2246
+Stone Slash
+
+## POINTER 2248
+Leaf Attack
+
+## POINTER 2250
+Spinning Leaf Attack
+
+## POINTER 2252
+Fluff
+
+## POINTER 2254
+Pass Under and Jump
+
+## POINTER 2256
+Dead Leaf Cutter
+
+## POINTER 2258
+Body Fluid
+
+## POINTER 2260
+Charge
+
+## POINTER 2262
+Squash
+
+## POINTER 2264
+Spread Pollen
+
+## POINTER 2266
+Spread Fruit
+
+## POINTER 2268
+Spread Pinecone
+
+## POINTER 2270
+Spread Snowball
+
+## POINTER 2272
+Bug Attack
+
+## POINTER 2274
+2 Hitter
+
+## POINTER 2276
+Roundhouse Smash
+
+## POINTER 2278
+Blast Off
+
+## POINTER 2280
+Backup Call
+
+## POINTER 2282
+Suck in -> Spit out
+
+## POINTER 2284
+Disperse
+
+## POINTER 2286
+Ink Attack
+
+## POINTER 2288
+Shooting Needles
+
+## POINTER 2290
+Pollen Attack
+
+## POINTER 2292
+Roll Attack
+
+## POINTER 2294
+Pollen Attack
+
+## POINTER 2296
+Ignite
+
+## POINTER 2298
+Exstinguish
+
+## POINTER 2300
+Small Damage
+
+## POINTER 2302
+Stagger
+
+## POINTER 2304
+Float
+
+## POINTER 2306
+Blown Away
+
+## POINTER 2308
+Midair Blow
+
+## POINTER 2310
+Down
+
+## POINTER 2312
+Small Damage + Y Axis Turn
+
+## POINTER 2314
+Guard Break
+
+## POINTER 2316
+Guard Break
+
+## POINTER 2318
+Stun
+
+## POINTER 2320
+Enchant
+
+## POINTER 2322
+Poison
+
+## POINTER 2324
+Neural Contamination
+
+## POINTER 2326
+Paralysis
+
+## POINTER 2328
+Petrify
+
+## POINTER 2330
+Weak
+
+## POINTER 2332
+Sealed Arte
+
+## POINTER 2334
+Sealed Skill
+
+## POINTER 2336
+Sleep
+
+## POINTER 2338
+Super Armor On
+
+## POINTER 2340
+Super Armor Off

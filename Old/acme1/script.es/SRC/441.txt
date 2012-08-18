@@ -1,0 +1,23 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283517916]
+<STR>(KAR)
+<VOICE>(VS42_232)Ooh... <STR>(RAV)...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1283517916]
+<STR>(RIT)
+<VOICE>(VS42_233)Ese palurdo... Al final sí
+que era uno de los nuestros.<PAGE><VOICE>(VS42_234)Maldita sea... ¡Imbécil!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190257]
+<STR>(YUR)
+<VOICE>(VS42_235)¡Espabilad, tenemos una princesa
+que salvar! ¡Pongámonos a ello!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190257]
+<STR>(JUD)
+<VOICE>(VS42_236)¿Otra vez con un trabajo
+que nadie más quiere hacer?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283517916]
+<STR>(YUR)
+<VOICE>(VS42_237)No es nada...
+Tenemos prisa.

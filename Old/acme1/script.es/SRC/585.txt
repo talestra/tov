@@ -1,0 +1,24 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1284744061]
+Nobis
+<VOICE>(VA013_051)¡Gaaah!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1284744061]
+<STR>(RIT)
+<VOICE>(VA013_052)Al parecer el monstruo se ha ido con la piedra.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1292161171]
+<STR>(YUR)
+<VOICE>(VA013_053)Oye, ¿estás bien?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1284744061]
+Nobis
+<VOICE>(VA013_054)Después de buscar tanto...
+Ahora tendré que volver a empezar...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1284744061]
+<STR>(EST_P)
+<VOICE>(VA013_055)¡Esta herida es terrible!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1292161171]
+<STR>(YUR)
+<VOICE>(VA013_056)¡Llevémoslo a la posada!

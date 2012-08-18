@@ -1,0 +1,166 @@
+## POINTER 0
+Hanks
+<VOICE>(VS01_018)We've got to seal it off somehow!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS01_019)What's going on? 
+Any sunken treasure 
+down there?
+
+## POINTER 2
+
+<VOICE>(VS01_020)Yeah, but you're 
+late so I'm not 
+sharing.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS01_021)Hah hah. How nice.
+
+## POINTER 4
+
+<VOICE>(VS01_022)Hey, its sink or swim in this world.<PAGE><VOICE>(VS01_023)Looks like that blue-blooded 
+mage we hired to fix the blastia 
+left the job half done.
+
+## POINTER 5
+Hanks
+<VOICE>(VS01_024)Glad you could find the 
+time to stop by, <STR>(YUR)!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS01_025)Take it easy with the water 
+sports, old man. You're not 
+getting any younger.
+
+## POINTER 7
+Hanks
+<VOICE>(VS01_026)You're up next. Not 
+afraid of a little 
+water, I hope.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS01_027)Yikes.
+
+## POINTER 9
+Hanks
+<VOICE>(VS01_028)Come on now, put your backs 
+into it! Heave, ho! Heave...
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS01_029)Hanks is really 
+going at it.
+
+## POINTER 11
+
+<VOICE>(VS01_030)He feels responsible. He's the one 
+who pushed the people to get the
+money together for the repairs.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS01_031)And now he's the one who's all wet.<PAGE><VOICE>(VS01_032)It's not Hanks' fault 
+that mage did a two-bit 
+repair job though.
+
+## POINTER 13
+
+<VOICE>(VS01_033)That's true. He even parted 
+with his wife's keepsake to 
+help raise the money.
+
+## POINTER 14
+Hanks
+<VOICE>(VS01_034)Hey, <STR>(YUR)! If you're not 
+gonna help out, stand clear! 
+This is dangerous!
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS01_035)Hanks, did you see the blastia core anywhere? 
+You know, that shiny piece in the center.
+
+## POINTER 16
+Hanks
+<VOICE>(VS01_036)Huh? 
+...Is it gone?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS01_037)Yeah. The blastia 
+won't work with the 
+core missing.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS01_038)That aristocrat who came to do the repairs was 
+the last person to touch the blastia, right?
+
+## POINTER 19
+Hanks
+<VOICE>(VS01_039)That's right, a Mr. Mordio.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS01_040)And he lives in the royal quarter?
+
+## POINTER 21
+Hanks
+<VOICE>(VS01_041)Yeah, so?
+
+## POINTER 22
+Hanks
+<VOICE>(VS01_042)Forget about that <STR>(YUR), 
+give us a hand here!
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS01_043)...Sorry Hanks, I just remembered 
+an errand I've gotta run.
+
+## POINTER 24
+Hanks
+<VOICE>(VS01_044)Hey, wait just a minute!
+
+## POINTER 25
+Hanks
+<VOICE>(VS01_045)You're not seriously thinking
+of going to Mr. Mordio's
+place are ya?
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS01_046)The royal quarter? Me? I wouldn't be 
+caught dead going to a place 
+like that. It gives me the creeps.
+
+## POINTER 27
+Hanks
+<VOICE>(VS01_047)Damn it, <STR>(YUR)... Just because you can 
+do a few tricks with that bodhi blastia, 
+you think you're invincible.
+
+## POINTER 28
+Hanks
+<VOICE>(VS01_048)Here's hoping he doesn't 
+do anything crazy...
+
+## POINTER 29
+
+<VOICE>(VS01_049)He always seems to cause
+problems when the lower 
+quarter's involved.
+
+## POINTER 30
+Hanks
+<VOICE>(VS01_050)Even the Knights have started 
+keeping an eye on him...
+
+## POINTER 31
+
+<VOICE>(VS01_051)Well, it's just an average day for 
+<STR>(YUR). I'm sure he'll be fine.

@@ -1,0 +1,60 @@
+## POINTER 0
+
+I love capsules, you love 
+capsules, we love capsules, 
+hey hey hey! ♪<PAGE>Welcome to the Capsule 
+Corner! Ready to get 
+your capsule on?
+
+## POINTER 1
+<STR>(EST_P)
+What do you 
+mean? What's 
+a capsule?
+
+## POINTER 2
+
+You put in a chip or two, and the machine 
+turns round and round, and what pops out 
+is a capsule, full of love and dreams!
+
+## POINTER 3
+<STR>(JUD)
+What's inside these 
+capsules, exactly?
+
+## POINTER 4
+
+Big dreams, little 
+dreams...all sorts 
+of dreams, really!
+
+## POINTER 5
+<STR>(YUR)
+So in other words, 
+it could be just 
+about anything?
+
+## POINTER 6
+<STR>(RAV)
+Sounds like a pretty 
+big gamble ta me.
+
+## POINTER 7
+
+Dreams are always a 
+gamble, my friends!<PAGE>From right to left, the machines 
+require 1 chip, 10 chips, 
+100 chips, and 500 chips!<PAGE>The more chips required, 
+the better the dreams!<PAGE>Go to the machine you like, 
+and get your capsule on!
+
+## POINTER 8
+<STR>(KAR)
+Gotta love the capsules ♪
+Round and round and round...
+
+## POINTER 9
+<STR>(JUD)
+Heh, gotta love the 
+capsules indeed...

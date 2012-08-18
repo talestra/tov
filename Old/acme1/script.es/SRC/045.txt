@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1270067527]
+
+¿Eh? ¿A qué viene ese alboroto?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164043]
+
+Buena suerte...
+Mmm, era Gran Vesperión, ¿no?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164043]
+
+Soy el dueño.
+¿Puedo traerte algo?<PAGE>Eh, no intentes nada
+con el currito.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164043]
+
+Bienvenido. Espero que
+disfrutes tu estancia aquí.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1270067527]
+
+¿Me volverás a ayudar?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1270067527]
+¿Ayudar en el restaurante?
+Sí
+No
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1270067527]
+
+¡Muchas gracias!
+Cuento contigo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164052]
+
+Vaya. Si cambias de opinión,
+házmelo saber.

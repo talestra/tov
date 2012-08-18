@@ -1,0 +1,118 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1274629395]
+<STR>(EST_P)
+<VOICE>(VS23_075)¿<STR>(JUD)?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1274629395]
+<STR>(EST_P)
+<VOICE>(VS23_076)¡No! ¡Es demasiado peligroso!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1274629395]
+<STR>(YUR)
+<VOICE>(VS23_077)Mira quién habla.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(JUD)
+<VOICE>(VS23_078)Estaré bien.
+Podéis adelantaros.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1274629395]
+<STR>(EST_P)
+<VOICE>(VS23_079)¡Vamos, deprisa!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(JUD)
+<VOICE>(VS23_080)Mira que eres testaruda.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(KAR)
+<VOICE>(VS23_081)¿Eh? ¿Por qué se va?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1274629395]
+<STR>(FRE)
+<VOICE>(VS23_082)¡<STR>(YUR), mi señora <STR>(EST), 
+esperad!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1274629395]
+<STR>(YUR)
+<VOICE>(VS23_083)Ya llega la caballería.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(EST_P)
+<VOICE>(VS23_084)Lo siento, <STR>(FRE).
+Me he dado cuenta de que aún
+no puedo volver a la capital.<PAGE><VOICE>(VS23_085)Hay tantas que todavía
+me quedan por descubrir.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(FRE)
+<VOICE>(VS23_086)Por supuesto, en cuanto
+regreséis al castillo podréis...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(EST_P)
+<VOICE>(VS23_087)La voz de la gente que sufría
+en Puerto Nor jamás llegó a la capital.<PAGE><VOICE>(VS23_088)No conseguiré solucionar nada
+si no estoy dispuesta a afrontar
+de cerca estos problemas.<PAGE><VOICE>(VS23_089)¡Este viaje me ha abierto los ojos!
+¡Por eso, por eso tengo que continuar!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(FRE)
+<VOICE>(VS23_090)Su Alteza...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(YUR)
+<VOICE>(VS23_091)¡Lleva este núcleo a los barrios bajos!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1274629395]
+<STR>(FRE)
+<VOICE>(VS23_092)¡<STR>(YUR)!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(YUR)
+<VOICE>(VS23_093)No sé cuándo regresaré a la capital.
+Voy a formar un gremio.<PAGE><VOICE>(VS23_094)Dales recuerdos a Hanks
+y a los demás de mi parte.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(KAR)
+<VOICE>(VS23_095)<STR>(YUR)...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1274629395]
+<STR>(FRE)
+<VOICE>(VS23_096)Un gremio... A eso es a lo
+que te referías con lo de que
+harías las cosas a tu manera.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1274629395]
+<STR>(YUR)
+<VOICE>(VS23_097)Sí, al fin me he decidido.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(FRE)
+<VOICE>(VS23_098)Me parece bien.
+Pero lo de la Princesa...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(YUR)
+<VOICE>(VS23_099)Cuídate, <STR>(FRE).
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(FRE)
+<VOICE>(VS23_100)¡<STR>(YUR)!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(YUR)
+<VOICE>(VS23_101)Supongo que debería habértelo
+preguntado primero, pero vamos
+a por nuestro gremio, <STR>(KAR).
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1274629395]
+<STR>(KAR)
+<VOICE>(VS23_102)¡Vale!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1279217249]
+<STR>(YUR)
+<VOICE>(VS23_103)
+Vámonos. Si rondamos por aquí demasiado tiempo,
+seguro que los Caballeros vendrán a por nosotros.

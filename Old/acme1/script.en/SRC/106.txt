@@ -1,0 +1,30 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS06_001)...A forest in a place like this can 
+only mean...the Quoi Woods...?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS06_002)Bingo. You're just full of information, aren't you?
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS06_003)I read in a book once that 
+a curse will fall upon anyone 
+who enters the woods...
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS06_004)Ah, so that must be 
+the "surprise."
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS06_005)Not going in? 
+That's fine by me, but 
+what about <STR>(FRE)?
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS06_006)...I know. 
+Okay, let's go!

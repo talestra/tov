@@ -1,0 +1,67 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189769]
+Shel
+¿Por qué no regresa mi 
+hermano si ya no queda nadie 
+que se oponga a la boda?
+<PAGE>¡Lune lo ha estado esperando todo 
+este tiempo! Tengo que hacer algo para
+que los tres volvamos a ser felices...
+<PAGE>Ya no puedo confiar en nadie más. 
+Tengo que ayudarle...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1272473419]
+<STR>(KAR)
+¿No creéis que Shel
+está un poco raro?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1272473419]
+<STR>(YUR)
+Oye, Shel.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1272473419]
+Shel
+Oh, hola. 
+¿Pasa algo?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189769]
+<STR>(JUD)
+Es sobre tu hermano.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189769]
+Shel
+Oh, no os preocupéis más por eso.
+<PAGE>Siento haberos pedido
+un favor así. Olvidaos
+de este tema, por favor.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527113]
+<STR>(EST_P)
+Pero ¿qué hay de Clay?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189769]
+Shel
+Lo he estado pensando, y creo que
+no puedo seguir confiando en que
+alguien lo encuentre por mí.<PAGE>
+Es algo que tengo que hacer yo mismo;
+no hace falta que sigáis con ello.
+Si me disculpáis...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:miyu;time:1272473419]
+<STR>(RIT)
+¿A qué ha venido eso?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:miyu;time:1277126457]
+<STR>(RAV)
+Dice que s'ocupará ér mismo...
+¿Será que tiene arguna idea de dónde está?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294189769]
+<STR>(YUR)
+No lo sé. No me gusta dejar así las
+cosas, pero si dice que ya no quiere
+nuestra ayuda, no podemos hacer más.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:miyu;time:1272473419]
+<STR>(RIT)
+Esto me ha dejado un mal sabor de boca...

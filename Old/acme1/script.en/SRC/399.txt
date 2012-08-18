@@ -1,0 +1,97 @@
+## POINTER 0
+<STR>(YUR)
+...
+
+## POINTER 1
+<STR>(EST_P)
+<STR>(YUR)? What's the matter?
+
+## POINTER 2
+<STR>(YUR)
+I was just thinking about 
+what <STR>(JUD) said. "Ba'ul saved 
+me during the war..."<PAGE>I just realized that maybe she was talking 
+about the Great War when she said that.
+
+## POINTER 3
+<STR>(RIT)
+So maybe she fought against 
+the empire with that dragon 
+freak during the Great War?
+
+## POINTER 4
+<STR>(YUR)
+Maybe <STR>(RAV) can tell us. 
+You fought in the Great 
+War, didn't ya, old man?
+
+## POINTER 5
+<STR>(RAV)
+Huh? Why?
+
+## POINTER 6
+<STR>(YUR)
+I'd think only someone who 
+was on the scene would know 
+so much about the war.
+
+## POINTER 7
+<STR>(KAR)
+Really? But, there weren't 
+supposed to be very many 
+survivors, right?
+
+## POINTER 8
+<STR>(RAV)
+Very true...I thought I was 
+gonna die back then, too.<PAGE>Ah, if only I'd died then, 
+things would've been so 
+much easier, too...
+
+## POINTER 9
+<STR>(RIT)
+If only you'd died? What 
+a weird thing to say...
+
+## POINTER 10
+<STR>(EST_P)
+So, did you ever see <STR>(JUD) 
+during the war?
+
+## POINTER 11
+<STR>(RAV)
+No, not a chance. I may be a player, 
+but 10-year-old girls are definitely 
+off-limits for me.
+
+## POINTER 12
+<STR>(RIT)
+Oh geez...
+
+## POINTER 13
+<STR>(RAV)
+Hmm, I feel like I never saw 
+Ba'ul, either. Maybe they ran 
+away from the battle?
+
+## POINTER 14
+<STR>(YUR)
+So it was really the Entelexeia 
+who fought in the battle?
+
+## POINTER 15
+<STR>(RAV)
+Yes, I guess so. Though at the time 
+we thought they were only a really 
+terrible breed of monsters.
+
+## POINTER 16
+<STR>(KAR)
+But wow, you were really 
+in the war, huh <STR>(RAV)?<PAGE>That's so cool. I thought only Imperial 
+Knights fought in the war.
+
+## POINTER 17
+<STR>(RAV)
+Maybe I'll tell you more about 
+it when you're older.

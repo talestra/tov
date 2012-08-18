@@ -1,0 +1,87 @@
+## POINTER 0
+
+<VOICE>(VS21_064)Ta-dah, you're free.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS21_065)Thanks for your help.
+
+## POINTER 2
+
+<VOICE>(VS21_066)I think I still owe you one more.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS21_067)...Huh...?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS21_068)Guess I overdid it back there...
+
+## POINTER 5
+
+<VOICE>(VS21_069)There, that makes us even.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS21_070)I'm <STR>(YUR). 
+<STR>(YUR) Lowell.
+
+## POINTER 7
+
+<VOICE>(VS21_071)<STR>(JUD).
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS21_072)<STR>(JUD)...? 
+"<STR>(JUD_P)" is easier to say.
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS21_073)Fine by me. All right, on 
+to the next objective.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS21_074)Next...? Well, we could check 
+out the blastia on the roof. 
+All we have to do is go up.
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS21_075)Won't your friends 
+be waiting for you?
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS21_076)I don't mind taking care 
+of the blastia first.
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS21_077)Up we go then.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS21_078)And how exactly 
+do we go up?
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS21_079)...This is heavy.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS21_080)Yeah, just wander off...
+Reminds me of a 
+certain princess.
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS21_081)A princess?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS21_082)Never mind. There's gotta be a 
+way up around here somewhere. 
+Let's see what we can find.

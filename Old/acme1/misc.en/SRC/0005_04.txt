@@ -1,0 +1,312 @@
+## POINTER 377
+Decreases the amount of time needed 
+to escape.
+
+## POINTER 378
+Aerial Jump
+
+## POINTER 379
+Able to add a jump in mid-air.
+
+## POINTER 380
+Aerial Jump 2
+
+## POINTER 381
+Able to add 2 more jumps in mid-air.
+
+## POINTER 382
+Jump Cancel
+
+## POINTER 383
+Able to cancel actions with a jump.
+
+## POINTER 384
+Aerial OVL
+
+## POINTER 385
+Able to use Over Limits in mid-air.
+
+## POINTER 386
+Aerial Step
+
+## POINTER 387
+While in mid-air, press <06>(GUD) ＋ <06>(LTR)
+to back dash once.
+
+## POINTER 388
+Aerial Dash
+
+## POINTER 389
+While in mid-air, press <06>(GUD) ＋ <06>(LTR)
+to dash once.
+
+## POINTER 390
+Touch Down
+
+## POINTER 391
+Press <06>(LTD) to land immediately while
+in mid-air.
+
+## POINTER 392
+Landing
+
+## POINTER 393
+Reduces the amount of time character is
+unable to move after landing.
+
+## POINTER 394
+Levitation
+
+## POINTER 395
+Press <06>(L3) to fly during a jump. Use <06>(LTU) or <06>(LTD)
+while moving to rise or fall and <06>(L3) to land.
+
+## POINTER 396
+Combo Force
+
+## POINTER 397
+Mitigates damage from a basic combo attack.
+
+## POINTER 398
+Extra Combo I
+
+## POINTER 399
+Press <06>(ATK) at just the right time at the end of
+a combo to inflict an extra hit on the enemy.
+
+## POINTER 400
+Extra Combo II
+
+## POINTER 401
+Press <06>(ATK) at just the right time at the end of 
+Extra Combo I to inflict another hit on your enemy.
+
+## POINTER 402
+Extra Combo III
+
+## POINTER 403
+Press <06>(ATK) at just the right time at the end of 
+Extra Combo II to inflict another hit on your enemy.
+
+## POINTER 404
+Aerial Combo
+
+## POINTER 405
+Adds 1 more hit to an aerial attack.
+
+## POINTER 406
+Aerial Combo 2
+
+## POINTER 407
+Adds 2 more hits to an aerial attack.
+
+## POINTER 408
+Aerial Combo 3
+
+## POINTER 409
+Adds 3 more hits to an aerial attack.
+
+## POINTER 410
+Quick Arrow
+
+## POINTER 411
+Shortens the amount of time needed to
+fire an arrow for normal attacks. But power decreases.
+
+## POINTER 412
+Long Range
+
+## POINTER 413
+Extends the attack range for bow & arrows.
+
+## POINTER 414
+Magic Combo
+
+## POINTER 415
+No casting time required when casting an 
+altered arte immediately following the base spell.
+
+## POINTER 416
+Liner Shot
+
+## POINTER 417
+Basic attack will change to small energy shots.
+Capable of ranged attacks.
+
+## POINTER 418
+Spell Charge
+
+## POINTER 419
+Hold <06>(ART) after casting a novice spell
+to move freely while delaying the spell.
+
+## POINTER 420
+Spell Charge 2
+
+## POINTER 421
+Hold <06>(ART) after casting an intermediate
+spell to move freely while delaying the spell.
+
+## POINTER 422
+Spell Charge 3
+
+## POINTER 423
+Hold <06>(ART) after casting an advanced spell
+to move freely while delaying the spell.
+
+## POINTER 424
+Rhythm
+
+## POINTER 425
+Tap <06>(ATK) repeatedly while casting spells to 
+shorten casting time.
+
+## POINTER 426
+Randomize
+
+## POINTER 427
+Casting time of novice/intermediate spells will
+be zero or doubled.
+
+## POINTER 428
+Recast
+
+## POINTER 429
+Resume casting the same spell if the spelｌ
+was interrupted.
+
+## POINTER 430
+Overheat
+
+## POINTER 431
+No casting time, with 1/8 th TP consumption for novice
+spells only when HP is below 120 and TP is over 60.
+
+## POINTER 432
+Speed Cast
+
+## POINTER 433
+Decreases spell casting time.
+
+## POINTER 434
+Lucky End
+
+## POINTER 435
+Occasionally allows player to move
+right after casting a spell.
+
+## POINTER 436
+Spell End
+
+## POINTER 437
+Able to move immediately after casting a spell.
+
+## POINTER 438
+Pow Hammer Revenge
+
+## POINTER 439
+Occasionally counter with Pow Hammer
+when attacked.
+
+## POINTER 440
+Revenge Spell
+
+## POINTER 441
+No casting time if a novice spell is used
+while staggering.
+
+## POINTER 442
+Super Chain 4
+
+## POINTER 443
+Able to link base and altered artes.
+
+## POINTER 444
+Super Chain 5
+
+## POINTER 445
+Able to link altered and arcane artes.
+
+## POINTER 446
+Super Chain
+
+## POINTER 447
+Able to link arcane and base artes.
+
+## POINTER 448
+Super Chain 2
+
+## POINTER 449
+Able to link arcane and altered artes.
+
+## POINTER 450
+Super Chain 3
+
+## POINTER 451
+Able to link altered and base artes.
+
+## POINTER 452
+Ability Plus
+
+## POINTER 453
+Follow a base arte with a second base
+arte once per combo.
+
+## POINTER 454
+High Ability Plus
+
+## POINTER 455
+Follow an altered arte with a second 
+altered arte once per combo.
+
+## POINTER 456
+Hyper Ability Plus
+
+## POINTER 457
+Follow an arcane arte with a second 
+arcane arte once per combo.
+
+## POINTER 458
+Shadow Striker
+
+## POINTER 459
+Increases speed when attacking an enemy
+from the back.
+
+## POINTER 460
+Circlet Heal
+
+## POINTER 461
+During Over Limit, Free Run to create a circle
+on the field. Members within the circle will recover HP.
+
+## POINTER 462
+High Five
+
+## POINTER 463
+Occasionally, party members will high five
+each other on the battle result screen.
+
+## POINTER 464
+Linkage
+
+## POINTER 465
+During Over Limit, connect party members
+with a ring to move together during Free Run.
+
+## POINTER 466
+OVL Boost Area
+
+## POINTER 467
+The speed of the OVL gauge fills up according
+to the number of allies near Flynn during battle.
+
+## POINTER 468
+S. Spell Area
+
+## POINTER 469
+Decreases casting time when near Flynn
+during battle.
+
+## POINTER 470
+O.L. Boost

@@ -1,0 +1,39 @@
+## POINTER 0
+<STR>(RAV)
+Come on, <STR>(YUR), trade places with ol' <STR>(RAV), 
+won't ya? I'll sweep the entryway, clean 
+the bathrooms...whatever ya want!
+
+## POINTER 1
+<STR>(YUR)
+Didn't they stick you here so 
+you wouldn't sneak off and 
+peek in the women's baths?
+
+## POINTER 2
+<STR>(RAV)
+H-how did they know?!<PAGE><STR>(YUR), ya gotta believe me...I'm 
+not a bad guy! It was just a 
+fleeting fit of insanity...
+
+## POINTER 3
+<STR>(YUR)
+Yeah, yeah. I gotcha, 
+I gotcha.
+
+## POINTER 4
+<STR>(RAV)
+No, no, you don't 
+understand!<PAGE>I didn't see anything! 
+No one, no one at 
+all except <STR>(JUD)!<PAGE>...Er!
+
+## POINTER 5
+<STR>(YUR)
+Oh, so you saw <STR>(JUD)? No wonder you 
+passed out last time we were here.<PAGE>Anyway, try to keep 
+out of trouble.
+
+## POINTER 6
+<STR>(RAV)
+......

@@ -1,0 +1,104 @@
+## POINTER 0
+<STR>(KAR)
+Are you...Mr. Seron?
+
+## POINTER 1
+
+Yes, I'm Yu Seron.<PAGE>Are you from the Union...?
+
+## POINTER 2
+<STR>(KAR)
+Yeah, we're a guild, 
+Brave Vesperia.
+
+## POINTER 3
+Yu
+Brave Ves... Hmm, I haven't 
+heard of you...
+
+## POINTER 4
+<STR>(KAR)
+Don't worry. We can handle it! You need 
+people to deliver some stuff, right?
+
+## POINTER 5
+Yu
+Yes...I'd like someone to take a 
+book to an old friend of mine.
+
+## POINTER 6
+<STR>(JUD)
+A book?
+
+## POINTER 7
+Yu
+Yes, quite an important 
+one. It's a book that holds 
+many memories for us.
+
+## POINTER 8
+<STR>(KAR)
+We'll make sure to take 
+good care of it.
+
+## POINTER 9
+Yu
+Please don't lose it. If 
+that should happen...<PAGE>I'll have you pay compensation for 
+the lost item through the Union.
+
+## POINTER 10
+<STR>(YUR)
+<STR>(KAR) said don't worry, 
+right? So don't worry.
+
+## POINTER 11
+<STR>(JUD)
+And who might this 
+friend of yours be?
+
+## POINTER 12
+Yu
+His name is Nobis Celestial. He's 
+currently travelling, so I don't 
+exactly know where he is...<PAGE>I think he's probably 
+in one of the cities on 
+Tolbyccia or Desier.<PAGE>Please take this crest.<PAGE>If you carry this with you, 
+he should recognize it and 
+call out to you himself.<PAGE>"A fiery soul into a sea of 
+flames." You'll know it's Nobis 
+if he says this to you.
+
+## POINTER 13
+<STR>(KAR)
+Okay, got it...<PAGE>We accept this task in the name 
+of the brightest star in the 
+night sky--Brave Vesperia.
+
+## POINTER 14
+Yu
+Thank you for your help.
+
+## POINTER 15
+<STR>(JUD)
+What was that thing you said 
+at the end there that sounded 
+like a magic spell?
+
+## POINTER 16
+<STR>(KAR)
+It's an oath for taking a new 
+job. It's proof that you accept 
+the client's request.
+
+## POINTER 17
+<STR>(JUD)
+Interesting.
+
+## POINTER 18
+<STR>(YUR)
+All right, let's go look for Nobis!
+
+## POINTER 19
+<STR>(RAP)
+*Aggressive bark*

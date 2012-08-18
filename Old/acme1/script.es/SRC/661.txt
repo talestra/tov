@@ -1,0 +1,150 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+<STR>(EST_P)
+Vaya, los krityanos de este cuadro 
+están levantando las armas 
+contra el adephagos...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+<STR>(YUR)
+Qué raro. Los krityanos parecen gente
+muy pacífica. Excepto <STR>(JUD), claro.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1271953370]
+
+Es cierto, los krityanos siempre
+hemos sido una raza pacífica.<PAGE>Reímos y lloramos, 
+pero raramente 
+luchamos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294190230]
+<STR>(EST_P)
+¿Así que la única ocasión en la que los 
+krityanos se armaron y lucharon, fue 
+contra la amenaza inminente del adephagos?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+
+Eeh, bueno...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1271953370]
+
+Diría que no es una representación exacta 
+de lo que sucedió, más bien una escena que
+el artista pensó que quedaría bien.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:miyu;time:1272471834]
+<STR>(KAR)
+¿Qué? Entonces, 
+¿no lucharon de verdad?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+
+Bueno, eso fue hace mucho tiempo.
+Pero sí sabemos que por aquel entonces
+se desarrolló un cierto tipo de magia.
+<PAGE>Era un arte muy poderosa llamada Astion,
+y al parecer les fue de gran utilidad
+en la batalla.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:parsec;time:1271960481]
+<STR>(RIT)
+Si es verdad que existe una magia tan alucinante, 
+¡tienes que enseñárnosla!<PAGE>Seguro que nos servirá
+en las batallas que nos esperan.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+
+Lo siento, pero no sé usar esa magia.
+Me temo que soy incapaz de enseñárosla.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:parsec;time:1271960481]
+<STR>(RIT)
+Contigo es decepción tras 
+decepción, ¿lo sabías?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:miyu;time:1272009005]
+
+No digas eso, por favor. Quizá 
+esto compense mi ignorancia.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:miyu;time:1298893042]
+
+Este es el único muñeco 
+de gálago que tengo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:miyu;time:1271954387]
+<STR>(EST_P)
+¡Mira qué cosa más mona!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+
+Cuidadlo bien, por favor.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:miyu;time:1271954387]
+<STR>(EST_P)
+¡Por supuesto!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:miyu;time:1271954387]
+<STR>(RIT)
+No me lo puedo creer...
+*Suspiro* 
+Eres un caso perdido...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+
+Es posible que el conocimiento de la Astion
+todavía se transmita entre nuestros hermanos
+que descendieron a la superficie del planeta.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:parsec;time:1271960447]
+<STR>(KAR)
+¿Los krityanos de la superficie sabrán usarla?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+
+No creo que todos estén bien versados en las viejas
+tradiciones krityanas, la verdad. Pero alguien habrá.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+<STR>(JUD)
+¿Y qué hay de Toth? Ha custodiado el 
+camino a Myorzo durante generaciones. 
+Quizá él pueda ayudarnos.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+<STR>(YUR)
+Supongo que no tenemos otra
+opción que ir a Aspio y 
+preguntárselo en persona.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:miyu;time:1271954387]
+<STR>(EST_P)
+Es el hombre que conocimos en Aspio, 
+¿verdad? Pero Aspio ya no...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:miyu;time:1271954387]
+<STR>(RIT)
+Es verdad... 
+Puede que 
+él esté...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:miyu;time:1271954387]
+<STR>(JUD)
+Creo que sigue vivo.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:miyu;time:1271954387]
+<STR>(RIT)
+¿Cómo lo sabes?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+<STR>(JUD)
+Simplemente lo sé.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+<STR>(KAR)
+¿...?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188611]
+<STR>(YUR)
+Sigue vivo, pues. Le preguntaremos
+sobre la magia si nos topamos con él.

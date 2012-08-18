@@ -1,0 +1,236 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1294109357]
+
+¡Ay, pobre de mí!
+Cuando el infortunio ataca, no envía
+a un solo soldado, sino a todo un batallón...
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290529455]
+<STR>(EST_P)
+Perdone, ¿ocurre algo?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290529455]
+
+¿Oh? Tú eres...
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290529455]
+<STR>(RIT)
+Oye, ¿por qué nos miras así?
+¡Aprende modales, pelmazo!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294608835]
+
+O-Oh, perdóname, me disculpo. Soy miembro
+del gremio de actores, El Espectáculo.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290529455]
+<STR>(RAV)
+No t'hemos preguntao...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+
+Desde que apareció en el cielo
+ese monstruo tan extraño, los otros
+miembros han dejado de actuar.<PAGE>¡Por favor! ¡Sustituidlos
+en el escenario!<PAGE>Tenéis la altura justa; creo que
+los trajes os irán perfectamente.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290531468]
+<STR>(JUD)
+Ooh, ¡eso suena genial!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+
+¡A este paso perderemos la credibilidad
+y nuestro gremio se irá al garete!<PAGE>¡Por favor, ayudadnos!
+¡Os lo suplico!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+<STR>(YUR)
+¿Quién podría decirle que no a
+alguien que está tan desesperado?<PAGE>Pero... no sé si podré hacerlo.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+
+¡Oh, me ayudaréis! Vale, hay cuatro papeles.
+Necesito que actúen el joven, la chica mona,
+la malhablada y el pipiolo.<PAGE>
+¡El espectáculo empezará dentro de poco!
+¡Id a cambiaros y aprendeos las líneas cuanto antes!<PAGE>¡Hombres por aquí! ¡Chicas por allí!
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294608835]
+<STR>(RIT)
+¡O-Oye, deja de empujarme!
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290531468]
+<STR>(EST_P)
+Así que estos son los trajes.
+¡Vaya, <STR>(RIT), el tuyo
+es una cucada!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+<STR>(RIT)
+¡Ugh! ¿En serio tengo que
+llevar el harapo este?<PAGE>¡Ni hablar! ¡He dicho que no!<PAGE>¡Agh! ¡No me hagas llevarlo!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+<STR>(YUR)
+Tío... Da igual cómo lo mires, estas ropas
+son más feas que el trasero de un mandril.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+<STR>(KAR)
+Al menos las tuyas son mejores que las mías.
+Y además van un poco con tu personalidad...
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290531468]
+<STR>(JUD)
+¡Esto va a ser la caña!
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1294109357]
+<STR>(RAV)
+Bueno, como parece que m'he quedao
+sin audición, creo que iré
+a sentarme con er público.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290531468]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290532882]
+Narradora
+Tras superar incontables dificultades,
+la heroína <STR>(EST_P) finalmente se ha
+infiltrado en el castillo del Señor Oscuro.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+Heroína
+¡Señor Oscuro <STR>(YUR)!
+¡Juro que te derrotaré y
+rescataré a la princesa!
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290532882]
+<STR>(RAV)
+¡Osú, parece que va en serio!
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294608835]
+Princesa
+¡H-Heroína,
+s-sálvameee!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+Señor Oscuro
+¡Mua, ja, ja! ¡Qué crees
+que puede conseguir una
+miserable humana como tú!<PAGE>¡Hoy conocerás a tu
+creador! ¡Prepárate,
+heroína <STR>(EST_P)!<PAGE>¡<STR>(KAR), lacayo mío! ¡A por ella!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+Lacayo
+¡La escoria como tú no merece cruzar
+su acero con el Señor Oscuro!<PAGE>¡Cómete esto! ¡Iah!
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294608835]
+Princesa
+¡H-Heroína!
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290532882]
+Heroína
+¡Ahora me toca a mí!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+Lacayo
+¡Uaah, aaayyy!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+
+¡Oh, las escenas de acción
+está vez son geniales!
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1294109357]
+Heroína
+¡Y ahora el golpe de gracia!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+<STR>(RIT)
+¡Menudos efectos especiales de poca monta!<PAGE>Es hora de mejorar las cosas.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+Lacayo
+¿Eh? ¡Uaaaaah!
+¡¿Qué puñetas es esto?!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+Lacayo
+Me ha llegado la hora...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298857729]
+
+¡Vaya! ¡La coreografía es excelente!
+Y el lacayo se ha currado la actuación.
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290532882]
+<STR>(RAV)
+No'staba actuando...
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290532882]
+Princesa
+¡Oh, heroína!
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290532882]
+Heroína
+¡Prepárese para morir, Señor Oscuro!
+
+## POINTER 37 [t:1;r:2;ru:googol,memnoch;user:xander;time:1294109357]
+Señor Oscuro
+¡Aprende un poco de humildad, sucia humana!
+
+## POINTER 38 [t:1;r:2;ru:googol,memnoch;user:xander;time:1294109357]
+Señor Oscuro
+¡¿Es que te crees que con eso me detendrás?!
+
+## POINTER 39 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290532882]
+<STR>(EST_P)
+¡<STR>(YUR), déjame derrotarte
+como en el guión!
+
+## POINTER 40 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290532882]
+<STR>(YUR)
+Nah, así es más emocionante.
+Luchemos un poco.
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858078]
+<STR>(EST_P)
+Oh, vale. Tal vez así quede mejor.
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858078]
+
+¡Ostras! ¡Esto es genial! ¡Increíble!
+
+## POINTER 43 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294608835]
+Princesa
+¡Heroína! ¡Cuidado! Y-Y tú también,
+Señor Oscuro... Yo... ¡Ay!
+
+## POINTER 44 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1290532882]
+
+¡Oh, no, la princesa ha recibido un golpe directo!
+
+## POINTER 45 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294608835]
+<STR>(RIT)
+¡E-Eso no estaba
+en el guión!
+
+## POINTER 46 [t:1;r:2;ru:googol,memnoch;user:xander;time:1294109357]
+<STR>(YUR)
+Creo que nos hemos pasado de rosca...
+
+## POINTER 47 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294608835]
+<STR>(EST_P)
+¿Y por qué me has dado a mí también?
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858078]
+Narradora
+Y así, la princesa <STR>(RIT) aplastó
+al Señor oscuro y restauró
+la paz en el mundo.<PAGE>Fin.

@@ -1,0 +1,45 @@
+## POINTER 0
+<STR>(KAR)
+Come on, you can do it...
+Everyone... 
+Run, run...faster...!
+
+## POINTER 1
+<STR>(YUR)
+
+<STR>(KAR) is...so...annoying...
+
+## POINTER 2
+<STR>(RIT)
+...Tired...so tired...
+
+## POINTER 3
+<STR>(JUD)
+Is he talking in his sleep again?
+
+## POINTER 4
+<STR>(YUR)
+Yeah...
+
+## POINTER 5
+<STR>(RAV)
+Jus' give 'im a whack on the 
+head. Serves 'im right.
+
+## POINTER 6
+<STR>(JUD)
+No, that's so mean!
+
+## POINTER 7
+<STR>(JUD)
+I've got a better 
+idea. One that 
+will work for 
+both us and 
+<STR>(KAR).
+
+## POINTER 8
+<STR>(KAR)
+...No, look out... 
+Everyone, it's dangerous... 
+Come on...

@@ -1,0 +1,136 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298215945]
+<STR>(YUR)
+<VOICE>(VS12_001)Si tan preocupada estás por <STR>(FRE), 
+¿por qué no te vas ya?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272555716]
+<STR>(EST_P)
+<VOICE>(VS12_002)Es que... tengo que despedirme
+de <STR>(RIT) correctamente.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1274086118]
+<STR>(YUR)
+<VOICE>(VS12_003)Pues tómatelo con calma.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272555716]
+<STR>(KAR)
+<VOICE>(VS12_004)¿Qué vas a hacer después
+de todo esto, <STR>(YUR)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298215945]
+<STR>(YUR)
+<VOICE>(VS12_005)Supongo que le haré una visita al tío que
+esté detrás de todos estos robos de núcleos.<PAGE><VOICE>
+(VS12_006)Parece que Dedecchi también
+acabó yendo al mismo sitio.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272555716]
+<STR>(KAR)
+<VOICE>(VS12_007)En ese caso deberíamos ir
+directamente a Puerto Nor.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272555716]
+<STR>(YUR)
+<VOICE>(VS12_008)¿No había dicho
+Puerto Torim?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272555716]
+<STR>(KAR)
+<VOICE>(VS12_009)Oh, claro. No lo sabes.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272636471]
+<STR>(YUR)
+<VOICE>(VS12_010)¿Que no sé el qué?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298215945]
+<STR>(KAR)
+<VOICE>(VS12_011)Nor y Torim son los puertos de
+una ciudad que se extiende por
+dos continentes diferentes.<PAGE><VOICE>(VS12_012)En el lado de Ilyccia, donde
+estamos ahora, está el puerto
+de Capua Nor. Lo llaman Puerto Nor.<PAGE><VOICE>(VS12_013)Capua Torim es el puerto del 
+otro lado, en el continente de Tolbyccia.
+La gente lo llama Puerto Torim.<PAGE><VOICE>(VS12_014)Así que primero tenemos que ir a Puerto Nor.
+Tendremos que pasar por la colina de Ehmead,
+pero no está lejos de aquí, yendo hacia el oeste.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298215945]
+<STR>(EST_P)
+<VOICE>(VS12_015)Y-Yo volveré a Halure.
+Tengo que seguir buscando a <STR>(FRE).
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272555716]
+<STR>(YUR)
+<VOICE>(VS12_016)Mmm, no sé... Creo que yo
+también iré a Halure.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298215945]
+<STR>(KAR)
+<VOICE>(VS12_017)¿Eh? ¿Por qué?
+¿Cómo puedes decir eso?
+¡Se te va a escapar el ladrón!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298215945]
+<STR>(YUR)
+<VOICE>(VS12_018)No hay por qué preocuparse.
+Según nuestro amiguito de las ruinas,
+parecía que su cliente estaba ahí.<PAGE><VOICE>(VS12_019)Además, si vamos al oeste
+nos pilla cerca de Halure.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272555716]
+<STR>(KAR)
+<VOICE>(VS12_020)Jo, tío, pero yo...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298215945]
+<STR>(YUR)
+<VOICE>(VS12_021)
+¿Tienes que ir a algún sitio?
+¿Una novia enferma con una enfermedad
+incurable o algo por el estilo?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298215945]
+<STR>(KAR)
+<VOICE>(VS12_022)Oh, ojalá fuese una
+chica así de delicada...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298215945]
+<STR>(RIT)
+<VOICE>(VS12_023)Sé que os he pedido que me esperaseis, pero os
+habéis puesto demasiado cómodos, ¿no os parece? 
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272555716]
+<STR>(YUR)
+<VOICE>(VS12_026)Siento haber sospechado de ti.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298215945]
+<STR>(RIT)
+<VOICE>(VS12_027)Qué disculpa tan sincera.
+Pero la aceptaré. Al final las cosas
+han salido bastante bien para mí.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272555716]
+<STR>(EST_P)
+<VOICE>(VS12_028)¿<STR>(RIT)?
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272636471]
+<STR>(YUR)
+<VOICE>(VS12_029)Bueno, gracias por tu hospitalidad.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272555716]
+<STR>(RIT)
+<VOICE>(VS12_030)¿Qué? ¿Ya os vais?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272567994]
+<STR>(YUR)
+<VOICE>(VS12_031)No queremos quedarnos más de la cuenta. 
+Además, tenemos un poco de prisa.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298215945]
+<STR>(EST_P)
+<VOICE>(VS12_032)Me alegra mucho haberte conocido, <STR>(RIT).
+Me temo que ahora debemos irnos. Ya te
+lo agradeceré como corresponde más tarde.
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1272567994]
+<STR>(RIT)
+<VOICE>(VS12_033)Vale...

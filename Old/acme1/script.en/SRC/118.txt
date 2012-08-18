@@ -1,0 +1,113 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS08_001)B-be on your guard, everyone. 
+It's r-really ferocious...!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS08_002)Hey fearless leader, you're not 
+supposed to hide right after 
+saying things like that.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS08_003)The star always performs 
+the finishing blow, everybody 
+knows that!
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS08_004)No...I don't think so...
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS08_005)Aaah!
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS08_006)T-that's an eggbear...?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS08_007)Well, I have to hand it to you, Captain <STR>(KAR), 
+operation stink bomb was a smashing success.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS08_008)Hey, d-don't go giving 
+my plan weird names.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS08_009)Stand up straight when you 
+say stuff like that.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS08_010)<STR>(KAR), come get the claw. I don't 
+know what I'm doing here.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS08_011)What?! A-anybody can do that. 
+It just comes right off.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS08_012)Here, let me help too... 
+...Ugh.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS08_013)<STR>(EST_P), why don't you guard the perimeter.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS08_014)R-right.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS08_015)Y-you're sure it's totally dead, right?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS08_016)Raaaagh!
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS08_017)Gyaaaah!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS08_018)Wow, Captain. If I didn't know you 
+were just goofing around, I'd swear 
+you were really scared.
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS08_019)Uh... H-hah hah... 
+Pretty good, huh?
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS08_020)How's the nose, <STR>(RAP)?
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS08_021)All right, let's head back..
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS08_022)Now all we need is the
+Luluria Petal, right?
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS08_023)Let's go pay the mayor 
+another visit.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS08_022)Now all we need is the
+Luluria Petal, right?<PAGE><VOICE>(VS08_023)Let's go pay the mayor 
+another visit.

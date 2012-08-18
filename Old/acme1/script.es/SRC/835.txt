@@ -1,0 +1,136 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296663386]
+Sicily
+Oh, buona sera!
+¿Cómo estás, mi amici?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+<STR>(YUR)
+Se ve que ahora somos sus amigos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+<STR>(RAV)
+Ugh, otra vez este...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296663563]
+<STR>(KAR)
+Este es...
+Es aquel tío con quien
+nos topamos en Halure.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+<STR>(JUD)
+¿Qué está haciendo aquí, señor?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296663563]
+Sicily
+¿Oh? Mmm, ¡tan solo
+contemplaba la puesta
+del sol en el mar!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296670324]
+<STR>(EST_P)
+Contemplando la puesta
+del sol... ¿De verdad?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296670324]
+Sicily
+¡Sí, signorina! ¿Qué os parecería
+si la viésemos todos juntos?<PAGE>¡Sobre todo el signor <STR>(RAV)!
+¡Estoy seguro de que para
+él algo así sería perfetto!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296670324]
+<STR>(YUR)
+Se refiere a ti, viejales.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296663563]
+<STR>(RAV)
+¡Eh! ¿Cómo leñes m'he
+vuelto a meter en esto?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+<STR>(YUR)
+En fin, te esperamos
+en la posada.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296668272]
+<STR>(JUD)
+Je, je. ¡Buena suerte!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+<STR>(RAV)
+Buena suerte, dice...
+Qué narices se supone
+que tengo qu'hacer...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+Sicily
+No tienes que hacer nada.
+¡Solo miiiira al mar! ¡Nada más!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+<STR>(RAV)
+Miiiiiro al mar...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+Sicily
+¡Oh! <STR>(RAV), mio amico... 
+¿Eso es un bodhi blastia?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+<STR>(RAV)
+¿Eh? Oh, sí. Con esto
+puedo aprender las
+habilidades de las armas.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1294095257]
+Sicily
+Mmmm...<PAGE>¿Sabes qué? ¡Me ha dicho un pajarito
+que con un bodhi blastia, puedes
+aprender artes sin llevar armas equipadas!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+<STR>(RAV)
+¿En serio? No me digas...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296668272]
+Sicily
+En effetti, se dice que las
+habilidades de las armas se quedan
+dentro de la persona que las aprende.<PAGE>¡Y que las armas no son más que
+la llave para sacarlas fuera!
+O eso dicen, vamos.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+<STR>(RAV)
+Mmmm...
+Pos sí que
+sabes del tema.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296668272]
+Sicily
+Bueno, no son más que rumores.
+No puedo asegurarte nada, pero...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+<STR>(RAV)
+Ajá...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1294764496]
+Sicily
+¡En fin, debo irme!
+¡Cuídate! Arrivederci!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1294095156]
+<STR>(RAV)
+No hay quien entienda a ese tío...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1296668272]
+<STR>(RAV)
+¿Eh? ¿Y esto?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1296668272]
+<STR>(RAV)
+Pero ¿qué narices...?
+Me da a mí qu'ese bicho raro
+es más de lo que parece...

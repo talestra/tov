@@ -1,0 +1,84 @@
+## POINTER 0
+
+Hey, not bad! You collected 
+a ton of treasures!
+
+## POINTER 1
+<STR>(RIT)
+We went all over the world!
+
+## POINTER 2
+
+Show me, show me!
+
+## POINTER 3
+
+Ooo, this is very nice!<PAGE>Oh, I've heard of this!<PAGE>Oh, this one is pretty useless...<PAGE>Great! Thank you! 
+This should 
+help a lot!
+
+## POINTER 4
+<STR>(KAR)
+Huh? That's 
+all you need?
+
+## POINTER 5
+
+It's enough, it's enough! I've 
+stored everything I've seen 
+up in this noggin of mine!
+
+## POINTER 6
+<STR>(EST_P)
+Then you'll be able to get the treasure 
+fishing up and running soon?
+
+## POINTER 7
+<STR>(RAV)
+But ya'll need some 
+time to get things 
+rollin', won't ya?
+
+## POINTER 8
+
+Yes, indeed. To fill it 
+up I think...100 treasures 
+should do the trick?
+
+## POINTER 9
+<STR>(JUD)
+Even making 100 treasures 
+sounds like pretty 
+daunting work.
+
+## POINTER 10
+
+No, not at all! 
+It's fun!
+
+## POINTER 11
+<STR>(YUR)
+You're really something, you know that?
+
+## POINTER 12
+
+You're really something 
+yourself, kid.
+
+## POINTER 13
+
+You went into all the world's nooks and crannies 
+and opened all of the treasure chests you saw!<PAGE>By now, most of the treasure chests 
+in the world are empty!
+
+## POINTER 14
+<STR>(YUR)
+You make it sound like 
+I'm a thief, or a miser, 
+or something.
+
+## POINTER 15
+
+Indeed! In your quest for treasure, you leave 
+no stone unturned...in fact, you leave 
+no stones at all! You take them all! ∀

@@ -1,0 +1,56 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253563851]
+Chispitas
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298127653]
+(EST_P)
+Qué ambiente tan misterioso, casi como en una
+novela fantástica... Me gusta este sitio.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298126196]
+(KAR)
+¿Lo dices en serio?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298127242]
+(YUR)
+Resultaría más agradable si las rocas no me
+hicieran daño en los ojos con tanta chispita.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135159]
+(EST_P)
+Oh, yo ya me he acostumbrado a eso.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298126196]
+(RIT)
+¿Mmm? Ahora que lo dices, a mí
+tampoco me molesta especialmente.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298127653]
+(YUR)
+Supongo que podré aguantarlo.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266830059]
+(RAV)
+¿Ein? Sí, yo también...
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135159]
+(KAR)
+¿Qué? ¿Estáis diciendo que yo soy el único
+que todavía se está quedando cegato?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298127653]
+(YUR)
+Vale, volvamos al asunto entre manos.
+No quiero que nos quedemos aquí más
+tiempo del necesario.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298126318]
+(EST_P)
+Je, je. ¡Pues yo estoy preparada!
+
+## POINTER 11 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135159]
+(KAR)
+Me siento tan fuera de lugar...
+
+## POINTER 12 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267135159]
+(JUD)
+...

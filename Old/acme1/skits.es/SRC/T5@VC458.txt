@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253821041]
+Un mapa del santuario
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297381494]
+(JUD)
+Qué aburrido es esto de ver todo el
+rato el mismo estilo de habitación.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297381494]
+(KAR)
+¡Qué va! ¡Cuando trazas un mapa te
+das cuenta de cómo está estructurado
+todo! ¡Es de lo más interesante!
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134562]
+(RAP)
+*¿Gemido?*
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297381494]
+(RIT)
+¿Insinúas que dibujar mapas te gusta?
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134562]
+(KAR)
+¡Claro! ¡Nada estimula tanto la pasión
+de un hombre como dibujar un mapa!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297381494]
+(YUR)
+A mí eso nunca me ha apasionado.
+Lo único que necesito de un mapa es
+que me enseñe hacia dónde debo ir.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298124529]
+(RAP)
+¡Guau!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297381494]
+(KAR)
+¡Esperad! ¡Todavía no he acabado
+de apuntar los lugares donde
+se pueden encontrar monstruos!

@@ -1,0 +1,75 @@
+## POINTER 0
+Bring 'Em On
+
+## POINTER 1
+(YUR)
+That was a pretty strong monster, 
+but... I guess we're done.
+
+## POINTER 2
+(KAR)
+"I guess we're done"?! Come on, we just 
+defeated that gigantic monster!!
+
+## POINTER 3
+(YUR)
+Calm down, (KAR). Pull 
+yourself together.
+
+## POINTER 4
+(KAR)
+Come on, (YUR), you could at least 
+be a little bit happy...
+
+## POINTER 5
+(KAR)
+...Huh? What's the matter, (EST_P)? 
+Why are you sitting?
+
+## POINTER 6
+(EST_P)
+...How can both of you 
+take it so easily?
+
+## POINTER 7
+(YUR)
+What, did you get scared, (EST_P)?
+
+## POINTER 8
+(EST_P)
+That huge monster... I 
+was so nervous, I, I...
+
+## POINTER 9
+(YUR)
+You were doing just fine 
+while we were fighting.
+
+## POINTER 10
+(EST_P)
+But if I got like this during 
+battle, I'd end up causing 
+trouble for everybody...
+
+## POINTER 11
+(YUR)
+Don't worry about it, (EST_P). ...Here, 
+let me give you a hand.
+
+## POINTER 12
+(EST_P)
+I-I'm sorry...
+
+## POINTER 13
+(YUR)
+There we go! Now, who do we get to 
+fight next... Bring 'em on, right?
+
+## POINTER 14
+(EST_P)
+I'd rather have "nobody" be next...
+
+## POINTER 15
+(KAR)
+Huh? Hey, (YUR)... You're really ready 
+for another fight, aren't you?

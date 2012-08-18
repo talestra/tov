@@ -1,0 +1,95 @@
+## POINTER 0
+<STR>(RIT)
+......
+...So that's about the 
+long and the short of it.
+
+## POINTER 1
+
+Wow, things have gotten 
+pretty bad.
+
+## POINTER 2
+
+Spirits, huh...
+
+## POINTER 3
+
+So you're saying you want 
+to take our blastia research 
+away from us?
+
+## POINTER 4
+
+People can't live 
+without blastia!<PAGE>I don't like this idea one bit!
+
+## POINTER 5
+
+You all sure talk big for a bunch of amateurs with 
+underfunded research that no one cares about.
+
+## POINTER 6
+
+What did you say?!
+
+## POINTER 7
+
+You wanna rumble?
+
+## POINTER 8
+<STR>(RIT)
+I didn't come here to 
+listen to you have your 
+petty arguments!<PAGE>Can you just put your emotions on hold for a few minutes?
+
+## POINTER 9
+<STR>(RIT)
+Anyway, it's as I told you.<PAGE>We mages will soon be unable 
+to simply continue with 
+our studies of blastia.<PAGE>I just thought it would be 
+best if I let you know.
+
+## POINTER 10
+
+We can't accept 
+what you've 
+told us.
+
+## POINTER 11
+
+Even if you're the best brain 
+in Aspio, you're still a child.
+
+## POINTER 12
+
+Adults are reluctant to pay heed to 
+the words of one so young as you.<PAGE>Surely that's all it is.
+
+## POINTER 13
+<STR>(RIT)
+That's really...not the issue here.
+
+## POINTER 14
+
+Adults have their own way of discussing 
+things. You just leave everything to us.
+
+## POINTER 15
+
+Right. We'll do something 
+about that stubborn bunch!
+
+## POINTER 16
+<STR>(RIT)
+Sorry about that. 
+Come on, let's go.
+
+## POINTER 17
+<STR>(EST_P)
+Is it really okay to leave 
+so soon? I mean...
+
+## POINTER 18
+<STR>(RIT)
+It's fine. Let's go.

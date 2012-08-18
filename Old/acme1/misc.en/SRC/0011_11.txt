@@ -1,0 +1,320 @@
+## POINTER 1509
+Absolute
+
+## POINTER 1510
+A set of armor complete with a layer of light
+armor and chain mail.
+
+## POINTER 1512
+Silver Mail
+
+## POINTER 1513
+An exquisite suit of silver mail. Often worn
+during ceremonies due to the elegant design.
+
+## POINTER 1515
+Full Plate
+
+## POINTER 1516
+A very sturdy armor where the joints are
+protected by steel plates.  It is very heavy.
+
+## POINTER 1518
+Gothic Plate
+
+## POINTER 1519
+Crafted with a traditional method, this armor is
+not very flexible, but is very sturdy.
+
+## POINTER 1521
+Mythril Plate
+
+## POINTER 1522
+An armor made from mythril. Exceptionally
+light-weight and sturdy. The perfect armor.
+
+## POINTER 1524
+Rare Plate
+
+## POINTER 1525
+A masterpiece crafted by a legendary craftsman.
+It’s almost weightless and extremely sturdy. Truly a work of art.
+
+## POINTER 1527
+Gold Armor
+
+## POINTER 1528
+An armor made of pure gold. Legend has it that
+it was once worn by a hero, but it is still very sturdy.
+
+## POINTER 1530
+Body Paint
+
+## POINTER 1531
+A magic paint that protects the body from harm.
+
+## POINTER 1533
+Reflex
+
+## POINTER 1534
+As the name implies, this armor reflects most
+attacks. It allows for magic cast by allies to pass though.
+
+## POINTER 1536
+Rune Mail
+
+## POINTER 1537
+A magical mythril armor. It helps to increase
+magic defense.
+
+## POINTER 1539
+Dragon Mail
+
+## POINTER 1540
+An armor as hard as dragon scales.
+It can even withstand the wrath of a fire-breathing dragon.
+
+## POINTER 1542
+Mumbane
+
+## POINTER 1543
+The Mumbane armor strengthened with aer.
+It protects against all types of attacks.
+
+## POINTER 1545
+Mumbane Aer
+
+## POINTER 1546
+The Mumbane armor strengthened with aer.
+It protects against all types of attacks.
+
+## POINTER 1548
+Star Mail
+
+## POINTER 1549
+An armor that shines like the stars.
+It protects one's life and is blessed by magic.
+
+## POINTER 1551
+Hyper Armor
+
+## POINTER 1552
+The perfect suit of armor that surpasses all others.
+It is filled with aer and can be used as a blastia.
+
+## POINTER 1554
+Leather Guard
+
+## POINTER 1555
+A light-weight leather cuirass.
+A basic equipment for beginners.
+
+## POINTER 1557
+Iron Guard
+
+## POINTER 1558
+A lightweight iron breastplate. Be sure to
+take this with you on an adventure.
+
+## POINTER 1560
+Chain Guard
+
+## POINTER 1561
+A light-weight cuirass strengthened with
+a wide metal plate in the chest area.
+
+## POINTER 1563
+Lamellar Guard
+
+## POINTER 1564
+A chain mail consisting of small plates
+laced together in a parallel row.
+
+## POINTER 1566
+Half Guard
+
+## POINTER 1567
+An iron plate armor joined together with leather.
+An excellent shock absorber and very sturdy.
+
+## POINTER 1569
+Breast Guard
+
+## POINTER 1570
+Light upper-body armor overlaid with metal
+plating.
+
+## POINTER 1572
+Royal Guard
+
+## POINTER 1573
+An expensive plate armor owned only by the upper class.
+The design was once popular, but is slightly out of style now.
+
+## POINTER 1575
+Battle Guard
+
+## POINTER 1576
+Separated by small metallic plates, the joints are
+covered by a layer of chain mail.
+
+## POINTER 1578
+Silver Guard
+
+## POINTER 1579
+A breastplate made of pure silver. Silver is said to
+have magic defense properties.
+
+## POINTER 1581
+Mighty Guard
+
+## POINTER 1582
+A high-quality plate armor.
+It was made with the best technology known to date.
+
+## POINTER 1584
+Mythril Guard
+
+## POINTER 1585
+A light-weight plate armor made from mythril.
+It is ultra light and flexible.
+
+## POINTER 1587
+Phoenix Guard
+
+## POINTER 1588
+Said to contain the spirit of the phoenix.
+It doesn’t make one immortal though.
+
+## POINTER 1590
+Gothic Guard
+
+## POINTER 1591
+A really basic plate armor.
+It is a sturdy piece of armor despite its simplicity.
+
+## POINTER 1593
+Princess Guard
+
+## POINTER 1594
+A piece of ultra light armor possessed only by
+members of the royal family.
+
+## POINTER 1596
+Diamond Guard
+
+## POINTER 1597
+Made from the hardest material known to mankind.
+The only bad point is that it is extremely expensive.
+
+## POINTER 1599
+Elemental Guard
+
+## POINTER 1600
+Blessed with the elements of earth, fire, wind
+and water. The magical powers shield one from attacks.
+
+## POINTER 1602
+Moon Guard
+
+## POINTER 1603
+A magical armor blessed with the powers of
+the moon. Its form is as graceful as the moon.
+
+## POINTER 1605
+Rare Protector
+
+## POINTER 1606
+A breastplate made by a legendary craftsman.
+No one can replicate the intricate and delicate details.
+
+## POINTER 1608
+Rune Jacket
+
+## POINTER 1609
+A mythril armor with magical properties.
+Those who equip this usually leaves the battlefield unscratched.
+
+## POINTER 1611
+Prism Protector
+
+## POINTER 1612
+A mysterious armor reflecting the rays of a rainbow.
+It dazzles enemies making their attacks easier to dodge.
+
+## POINTER 1614
+Glorious Guard
+
+## POINTER 1615
+As the name implies, it has the power to
+lead one to victory and glory.
+
+## POINTER 1617
+Imperial Guard
+
+## POINTER 1618
+The quality is worthy of one working for the
+Empire. One needs to be highly skilled to use this.
+
+## POINTER 1620
+Cloak
+
+## POINTER 1621
+A simple garment made of cloth.
+It is more sturdy than regular clothing.
+
+## POINTER 1623
+Amber Cloak
+
+## POINTER 1624
+A researcher’s garment.
+It is obviously not meant for combat.
+
+## POINTER 1626
+Silk Cloak
+
+## POINTER 1627
+A silk garment.
+It brings out a sense of elegance in the owner.
+
+## POINTER 1629
+Feather Cloak
+
+## POINTER 1630
+This garment is as light as feather.
+Not only is it light, it is durable too.
+
+## POINTER 1632
+Cocktail Dress
+
+## POINTER 1633
+A colorful garment. Not suitable for combat,
+but not bad as a piece of regular clothing.
+
+## POINTER 1635
+Magic Tunic
+
+## POINTER 1636
+A tunic woven with a magic fabric.
+Designed specifically for combat.
+
+## POINTER 1638
+Silver Cloak
+
+## POINTER 1639
+Parts of this garment are made with silver.
+The silver serves as magic defense.
+
+## POINTER 1641
+Witch Dress
+
+## POINTER 1642
+One who wears it is often mistaken for a witch.
+It was designed to not interfere with magic.
+
+## POINTER 1644
+Holy Cloak
+
+## POINTER 1645
+A blessed cloak that with a small amount of
+protective magic.

@@ -1,0 +1,145 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS38_103)Man... I was really worried 
+there for a while.
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VS38_104)We were pretty lucky 
+that bruiser was in a 
+mood for conversation.<PAGE><VOICE>(VS38_105)Poor <STR>(RAV)'s heart 
+can't handle that 
+sorta stuff anymore.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS38_106)If he really wanted to 
+kill <STR>(EST_P), he'd have 
+attacked us immediately...<PAGE><VOICE>(VS38_107)That's what I can't figure out.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS38_108)I imagine Phaeroh was 
+conflicted as well.<PAGE><VOICE>(VS38_109)He hid himself from us 
+in the desert to see just 
+what we were made of.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS38_110)Huh. Maybe he wasn't as 
+bad as we thought, after all?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS38_111)You might be right.<PAGE><VOICE>(VS38_112)I get the feeling he'd do 
+whatever's necessary 
+when push comes to shove.
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS38_113)That sounds like you.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS38_114)...Maybe.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS38_115)But what are we 
+gonna do, <STR>(YUR)? You 
+heard what he said.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS38_116)We're going to fix the 
+problems the aer's 
+causing. That's all.
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS38_117)That's easier said than 
+done. We're pretty much 
+at square one, ya know.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS38_118)There's no doubt that the 
+formulas are related somehow 
+to the aer getting used up.<PAGE><VOICE>(VS38_119)We need to find out about 
+the ancient blastia, and if 
+they went berserk or not.<PAGE><VOICE>(VS38_120)If we had that kind of information, 
+it might give us a clue...
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS38_121)Ask those who have 
+inherited the sins of the 
+past about the days of old...<PAGE><VOICE>(VS38_122)Or at least that's what Phaeroh said.
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS38_123)The Kritya were the ones 
+to invent the blastia.<PAGE><VOICE>(VS38_124)In other words, we need to ask 
+a Krityan who is still familiar 
+with the old stories.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS38_125)Yeah. The Kritya are 
+often credited as the 
+inventors of the blastia...
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS38_126)There isn't much 
+left of the Krityan 
+city of Temza, though.<PAGE><VOICE>(VS38_127)Things might be different if we 
+had somewhere else to look.
+
+## POINTER 16
+<STR>(JUD)
+<VOICE>(VS38_128)The hidden city of Myorzo.<PAGE><VOICE>(VS38_129)It is far older than Temza, and 
+the birthplace of the Kritya.<PAGE><VOICE>(VS38_130)The first blastia 
+also originated there.
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS38_131)Really? Well, whaddya know.<PAGE><VOICE>(VS38_132)You wouldn't happen ta 
+know where this Myorzo 
+might be, would ya, darlin'?
+
+## POINTER 18
+<STR>(JUD)
+<VOICE>(VS38_133)Hmm...
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS38_134)I've heard that 
+name somewhere...<PAGE><VOICE>(VS38_135)There was a Krityan in Aspio. 
+I'm sure they mentioned 
+something about it.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS38_136)Do you think that person 
+might still be there?
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS38_137)Well, there's no harm 
+in checking it out.
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS38_138)<STR>(JUD)...are you 
+coming with us?
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VS38_139)...I should. We still have 
+the issue of the guild 
+to straighten out.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS38_140)So, to Aspio then.

@@ -1,0 +1,31 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VA022_023)<STR>(KAR), are you okay?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VA022_024)I-I'm okay. That was crazy...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VA022_025)This is...Yormgen...
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VA022_026)Or, the illusion of it that Phaeroh made.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VA022_027)There's no one around...?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA022_028)Could Phaeroh be here?
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VA022_029)Perhaps.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VA022_030)Let's have a look around.

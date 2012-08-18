@@ -1,0 +1,94 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VA100_001)I can communicate with Ba'ul, but there 
+are still a few things you should know.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA100_002)Like what?
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VA100_003)Ba'ul can only land on the ground 
+in wide, open spaces.<PAGE><VOICE>(VA100_004)So you won't be able to dismount on steep 
+mountain ranges or in narrow canyons.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VA100_005)Can't he land on water?
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VA100_006)Water's no good, either.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VA100_007)Really? He looks like he'd be a good swimmer...
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VA100_008)Ha ha, yeah. He'd 
+sink like a rock.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VA100_009)Huh, who knew...?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VA100_010)But that's why we 
+have a ship, right?
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VA100_011)Right. If you'd like to get down 
+onto the ocean, let me know.<PAGE><VOICE>(VA100_012)Ba'ul will set our ship 
+down there for us.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VA100_013)Okay, but what should we do 
+when want to fly again?
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VA100_014)Use "Ba'ul's Horn" 
+to call him to you.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VA100_015)Ba'ul's... That's 
+all there is to it?
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VA100_016)Every Entelexeia has a special 
+region in its brain<PAGE><VOICE>(VA100_017)that can be used for communication 
+with a special power 
+Krityans possess.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VA100_018)Huh. So, we can get a hold 
+of him by using that.
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VA100_019)Right.
+
+## POINTER 16
+Information
+Controlling Ba’ul
+<06>(LTN)　　　　Move Ba’ul
+<06>(L3)　　　　Call Ba’ul (on land or ship)
+<06>(RTN)　　　　Control camera
+<06>(R3)　　　　Rotate camera towards north
+<06>(RBD)　　　　Land (Only in area where landing is permitted）
+<06>(RBL)　　　　Toggle navigation map
+<06>(RBU)　　　　Bring up Main Menu
+<06>(R1)　　　　Turn camera clockwise
+<06>(L1)　　　　Turn camera counter clockwise
+<06>(R2)　　　　Forward
+<06>(L2)　　　　Backward
+<06>(STA)　　　　Pause
+<06>(SEL)　　　　Start Skit

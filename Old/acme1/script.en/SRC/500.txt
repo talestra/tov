@@ -1,0 +1,120 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS52_051)<STR>(RAP) just rushed out, 
+all of a sudden! I 
+was so surprised.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS52_052)Thanks. I'm fine now.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS52_053)Is that wound from...when 
+you fell from Zaude?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS52_054)Huh? Oh, yeah, I guess so.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS52_055)I can't tell you how happy I am.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS52_056)Sorry to make you worry.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS52_057)I want to go tell everyone!
+They'll be so happy!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS52_058)What's everybody doing?
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS52_059)<STR>(RIT) went to Zaude 
+with <STR>(JUD).<PAGE><VOICE>(VS52_060)She said there was a lot to study, 
+being ancient ruins and all.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS52_061)That's <STR>(RIT).
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS52_062)<STR>(KAR) and <STR>(RAV) went 
+back to Dahngrest.<PAGE><VOICE>(VS52_063)It seems that relations between the empire 
+and the guilds are worsening again.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS52_064)...They're still like that?
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS52_065)Supposedly it's because of Zaude. 
+They went to make sure the guilds 
+didn't do anything rash.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS52_066)First Heracles, then that... 
+Guild or not, people are 
+going to be on guard.
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS52_067)It's troubling Ioder as well. And 
+<STR>(FRE) is being <STR>(FRE) and going off 
+to all corners of the world.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS52_068)Everyone's working hard.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS52_069)They thought they should 
+do what they can. 
+Even without you...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS52_070)Yeah...
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS52_071)Because we knew... We 
+knew you were alive.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS52_072)...
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS52_073)Even <STR>(FRE) took ships out to 
+look for you so many times...
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS52_074)...I'm so sorry.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS52_075)But thanks to you, 
+I'm all fixed up.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS52_076)You should still rest today.<PAGE><VOICE>(VS52_077)<STR>(RIT), <STR>(KAR)... They 
+can all wait a little 
+longer to see you.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS52_078)Hehe, as you wish.

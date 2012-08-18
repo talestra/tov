@@ -1,0 +1,41 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:parsec;time:1269900501]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1271103493]
+<STR>(YUR)
+Tantas cosas de las
+que ocuparse...
+No sé muy bien qué hacer.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:parsec;time:1269900501]
+<STR>(RAP)
+*Gemido*
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1271103493]
+<STR>(YUR)
+Perdona que te lleve 
+a rastras, <STR>(RAP).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:parsec;time:1269900501]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1271103493]
+<STR>(YUR)
+Eso es... No hay que lamentarse
+de nada después de tantos años.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:parsec;time:1269900501]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1271103493]
+<STR>(YUR)
+Ja, ja, ja...<PAGE>Bueno, con qué deberíamos empezar...
+<PAGE>Antes de nada, tenemos que
+poner en marcha el barco.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:parsec;time:1269900501]
+<STR>(RAP)
+*Gemido*

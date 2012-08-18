@@ -1,0 +1,26 @@
+## POINTER 0
+<STR>(KAR)
+Hyaaah! Yaaaaah!
+
+## POINTER 1
+Harry
+Your stance is still too weak!<PAGE>You'll never be as good a fighter 
+as the Don was like that!
+
+## POINTER 2
+<STR>(KAR)
+...Urgh!
+
+## POINTER 3
+<STR>(KAR)
+Ryaaah! Yaaah!
+
+## POINTER 4
+Harry
+That's it! Imagine your opponent 
+in front of you and swing 
+the sword just so!
+
+## POINTER 5
+<STR>(KAR)
+R-right!

@@ -1,0 +1,172 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834058]
+<STR>(YUR)
+<VOICE>(VS64_072)¿Vas a decirme a qué viene tanta seriedad?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_073)¿Piensas marcharte de este modo?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_074)¿Eh?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_075)La gente que gobierna
+sobre el mundo entero
+está toda aquí reunida.<PAGE><VOICE>(VS64_076)Ahora es el momento de decirles
+todo lo que has hecho.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_077)No empecemos otra vez...
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834058]
+<STR>(FRE)
+<VOICE>(VS64_078)La mitad de mis logros... o incluso
+puede que más, son en realidad tuyos...
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_079)¿Y qué? No importa
+quién los hiciera.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_080)¡Sí que importa! ¿Por qué siempre tienes
+que elegir lo que es peor para ti?<PAGE><VOICE>(VS64_081)¿Por qué intentas siempre
+cargar con todo?<PAGE><VOICE>(VS64_082)¿Acaso crees que no podría con ello?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580539]
+<STR>(YUR)
+<VOICE>(VS64_083)Tú te encargas de aquello
+que yo no puedo hacer.<PAGE><VOICE>(VS64_084)Sé que puedo hacer lo
+que quiera porque tengo
+a alguien vigilándome.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_085)¡Pero...!
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_086)Olvídalo. No puedo explicártelo.
+Al final acabaré gritándote otra vez.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_087)Je, je. Pues entonces...
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_088)Inténtalo de esta otra forma.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580539]
+<STR>(FRE)
+<VOICE>(VS64_089)¡<STR>(YUR)!
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_090)No vas a ganarme
+en una discusión.<PAGE><VOICE>(VS64_091)Pero sabes que hay otra cosa en la que sí puedes hacerlo...
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_092)En esto.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_094)Sí... Tienes
+razón. Como
+de costumbre.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_095)¡Todo lo que siento
+está en esta espada!
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_096)Bien... ¡Venga!
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_097)Ya ni siquiera soy capaz de ganarte con la espada...
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_098)Ja, ja, ja. 
+Pringado.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_099)Nunca te contienes conmigo.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834058]
+<STR>(FRE)
+<VOICE>(VS64_100)Ya te lo he dicho.
+«Todo lo que siento»...
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_101)Has mejorado mucho, <STR>(YUR).
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_102)Y tú...<PAGE><VOICE>(VS64_103)Me habrías ganado fácilmente si todavía
+fueras como cuando éramos pequeños.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_104)¿No hicimos un juramento con nuestras espadas por aquel
+entonces? Juramos que haríamos sonreír a la gente.
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_105)Ya...<PAGE><VOICE>(VS64_106)Aunque acabáramos siguiendo caminos distintos.
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_107)Aunque acabáramos llevando cargas distintas.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_108)Aunque la gente acabara admirándonos...
+u odiándonos...
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_109)Los Caballeros y los gremios no cambiarán.<PAGE><VOICE>(VS64_110)¿Verdad?
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_111)Hay lugares a los que puede
+llegar uno, pero no el otro.
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_112)Por esa razón no estamos solos.
+
+## POINTER 32 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_113)...
+
+## POINTER 33 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_114)...
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_115)Je.
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_116)Ja.
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(YUR)
+<VOICE>(VS64_117)Ja, ja, ja, ja, ja.
+
+## POINTER 37 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287495190]
+<STR>(FRE)
+<VOICE>(VS64_118)Ja, ja, ja, ja, ja.

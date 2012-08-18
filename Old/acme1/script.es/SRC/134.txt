@@ -1,0 +1,50 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:parsec;time:1271974424]
+<STR>(EST_P)
+Eso es una fórmula blastia.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1274011341]
+<STR>(YUR)
+No te cortes y métete dentro.
+¿No tienes frío?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:parsec;time:1271974424]
+<STR>(EST_P)
+Ya vale de crímenes por hoy, gracias.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1274011341]
+<STR>(YUR)
+Bah, no es para tanto.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1274011341]
+<STR>(EST_P)
+¿Que no es para tanto? «¡El allanamiento es un crimen castigado
+con un año de prisión y una multa de hasta 10.000 gald!».
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1274011341]
+<STR>(KAR)
+¿Te has fijado en la mala letra que tiene?
+¡Yo puedo escribir mejor!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1274011341]
+<STR>(YUR)
+Pues dicen que la gente con
+mala letra tiene buen corazón.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1274011341]
+<STR>(KAR)
+¡Pues yo tengo buena letra y
+buen corazón! ¿Qué te parece eso?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1274011341]
+<STR>(YUR)
+¿Sabes qué significa esta fórmula, <STR>(EST_P)?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1274011341]
+<STR>(EST_P)
+Parece un círculo mágico que utiliza
+el fuego, pero no estoy segura.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1274011341]
+<STR>(YUR)
+Por lo menos entiendes algo.
+Para mí no significa nada de nada.

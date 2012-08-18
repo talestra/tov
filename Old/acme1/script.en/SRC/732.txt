@@ -1,0 +1,67 @@
+## POINTER 0
+<STR>(JUD)
+Your magic is really 
+amazing, <STR>(RIT).
+
+## POINTER 1
+<STR>(RIT)
+Wh-why do you say that? And...it 
+took you long enough to say so!
+
+## POINTER 2
+<STR>(JUD)
+It's just that you were using 
+a really rare type of magic.
+
+## POINTER 3
+<STR>(RIT)
+Oh yeah, shadow magic? Yep. It's 
+not something you see everyday.<PAGE>The formulas themselves are 
+rare, so you hardly ever 
+see people using them.
+
+## POINTER 4
+<STR>(JUD)
+Oh, wow. It's rare to 
+hear you talking about 
+artes so happily.
+
+## POINTER 5
+<STR>(RIT)
+Hmph. Say what you like. I just 
+like shadow magic a lot.<PAGE>My whole interest in magic started 
+when I saw a formula for shadow 
+magic back when I was really little.<PAGE>I'm happy to be able to use it.
+
+## POINTER 6
+<STR>(JUD)
+...When you were little, huh? 
+Who was it that showed you it?
+
+## POINTER 7
+<STR>(RIT)
+I don't remember. The magic itself left 
+too strong of an impression for me to 
+remember who was doing it, I guess.
+
+## POINTER 8
+<STR>(JUD)
+......
+
+## POINTER 9
+<STR>(RIT)
+Wh-what is it?
+
+## POINTER 10
+<STR>(JUD)
+No, nothing.<PAGE>......
+
+## POINTER 11
+<STR>(RIT)
+...You're weird.
+
+## POINTER 12
+<STR>(JUD)
+When you were young...
+The shadow magic you saw was
+his own creation...

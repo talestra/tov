@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1284387897]
+<STR>(YUR)
+Leñe. Está cerrado.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287281174]
+<STR>(KAR)
+Mira ahí arriba.
+A lo mejor puedo colarme.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287281174]
+<STR>(YUR)
+Perfecto. Puedes subir por ahí
+y abrirnos desde el otro lado.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1284387897]
+<STR>(RIT)
+Se nos viene el tiempo encima.
+¿Por qué no volamos la puerta y punto?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1284387897]
+<STR>(RAV)
+Que no haya nadie por aquí fuera
+no significa que no haya nadie dentro.<PAGE>Sería er colmo si nos descubriesen.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1284387897]
+<STR>(RIT)
+El aer cubre toda la ciudad, ¿no?
+Seguro que también hay en el castillo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1284387897]
+<STR>(JUD)
+Alexei debe haber
+tomado precauciones
+contra eso.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1284387897]
+<STR>(KAR)
+¡Ya está!
+¡Daos prisa!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1284388007]
+<STR>(YUR)
+Bien hecho. Venga,
+a dar caña, gente.

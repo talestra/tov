@@ -1,0 +1,171 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1291916218]
+Mimula
+¡¿Cómo pueden encerrar a una mujer
+de mi posición en un lugar
+tan horrible?! ¡Oooh!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662213]
+<STR>(KAR)
+Vaya, no ha cambiado nada.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1291916218]
+Mimula
+¿Qué? ¿Quién anda ahí?<PAGE>Oh, sois los del gremio de antes.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1291916218]
+<STR>(YUR)
+Parece que te las apañas bien tú sola.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1291916218]
+Mimula
+¡Sois los que contraté para
+que encontrarais a Sebastian!
+¡Sabía que no me dejaría aquí!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1291916218]
+<STR>(YUR)
+¿Eh? No sé de qué hablas.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1291916218]
+Mimula
+Sebastian os envía, ¿no?
+Para que me ayudéis
+a salir de aquí...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1291916218]
+<STR>(YUR)
+No hemos venido a
+sacarte de la cárcel,
+la verdad.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1291916663]
+Mimula
+Pero... ¡Entonces me ha abandonado
+a mi suerte! ¡Y se hace llamar
+mi fiel sirviente!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1291916663]
+<STR>(KAR)
+Hala, si se acaba de ir...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293662213]
+Mimula
+¡Exacto! ¡Menudo hombre más rastrero!
+¡Ha cogido hasta el último céntimo
+que me quedaba y se ha largado!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1291916663]
+<STR>(RAV)
+Lo lamento muchísimo, cielo. De verdad.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1291916663]
+<STR>(YUR)
+Bueno, tú tenías
+un hermano que se
+llamaba Cumore, ¿no?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1291916663]
+Mimula
+¡¿Y qué si así era?! ¡Todo esto es
+culpa de sus travesuras infantiles!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1291916663]
+<STR>(YUR)
+¿Viste alguna vez algo como un manual
+secreto entre sus pertenencias?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1291916663]
+Mimula
+Un manual secreto...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(JUD)
+Parece que has oído hablar de él antes.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+Mimula
+Quizás os diga algo
+si me sacáis de aquí.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(YUR)
+Muy bien, nos vamos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(KAR)
+¿Eh?...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+Mimula
+¡¿No queréis saber nada del manual?!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(YUR)
+Si eso significa que una persona
+como tú nos utilice, prefiero
+probar otros medios.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+Mimula
+¡¿Se-seguro que eso es
+lo que quieres hacer?!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(KAR)
+No es lo que queremos,
+pero no nos corresponde
+a nosotros sacarte de aquí.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(RIT)
+Es lo que hay.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(RAV)
+Lo siento, bombón.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(JUD)
+Esto será el karma, creo.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+Mimula
+¡¿Qué?! ¡Oooh!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(EST_P)
+Quizás Sebastian 
+tenga el manual.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(YUR)
+Parece que es a él a quien
+tenemos que encontrar.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551298]
+<STR>(KAR)
+Sí, pero ¿adónde
+creéis que habrá ido?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(RAV)
+El mundo es mu grande...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551312]
+<STR>(RIT)
+Pero ¿habrá podido
+llegar muy lejos?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(YUR)
+Podría estar casi en cualquier
+sitio si ha ido en barco.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:kaene;time:1291917719]
+<STR>(KAR)
+Mmm, en barco...
+Pues comprobemos los puertos.

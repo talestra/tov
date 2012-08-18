@@ -1,0 +1,95 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VA050_046)That's the guy we met at Keiv Moc...
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VA050_047)Hello!
+
+## POINTER 2
+Duke
+<VOICE>(VA050_048)…………
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VA050_049)And here <STR>(EST_P)'s being so nice... Somebody 
+needs to work on their manners.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VA050_050)You're one to talk, <STR>(YUR).<PAGE><VOICE>(VA050_051)Hey, that monster's gonna attack us again 
+if we keep wandering around here.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VA050_052)Y-yes, you're right.
+
+## POINTER 6
+Duke
+<VOICE>(VA050_053)You were the target 
+of his attack?
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VA050_054)...What? Oh, yes.
+Um...do you know what he meant by insipid po--?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VA050_055)What, is that your 
+pet or something?
+
+## POINTER 9
+Duke
+<VOICE>(VA050_056)We follow the same course of action.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VA050_057)What? 
+You're doing the same thing as a monster?
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VA050_058)Then, does that mean 
+you've come here to 
+attack me too...?
+
+## POINTER 12
+Duke
+<VOICE>(VA050_059)My blade does not exist to 
+pass sentence on humans...
+
+## POINTER 13
+Duke
+<VOICE>(VA050_060)...How odd...
+He has taken his leave...
+But why...?
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VA050_061)…………
+
+## POINTER 15
+Duke
+<VOICE>(VA050_062)Perhaps I am mistaken... 
+No...
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VA050_063)That guy still doesn't 
+make any sense.
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VA050_064)What do you think he's up to?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VA050_065)Who knows...<PAGE><VOICE>(VA050_066)Hey, we don't have time 
+to just hang out here 
+and enjoy the scenery.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VA050_067)Oh yeah...! 
+We gotta go!

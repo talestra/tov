@@ -1,0 +1,134 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS03_060)Don't they teach these 
+guys manners in knight 
+school anymore?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS03_061)...Damn it...
+
+## POINTER 2
+
+<VOICE>(VS03_062)Want some more, huh?
+
+## POINTER 3
+
+<VOICE>(VS03_063)Let's finish him!
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS03_064)Yah!
+
+## POINTER 5
+
+<VOICE>(VS03_065)Aaah!
+
+## POINTER 6
+
+<VOICE>(VS03_066)Aaah!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS03_067)Phew... That was close...
+
+## POINTER 8
+
+<VOICE>(VS03_068)Hyah!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS03_069)Hey! What, are you trying to kill me?
+
+## POINTER 10
+
+<VOICE>(VS03_070)Well... you don't belong
+in the castle, right?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS03_071)No, and I'll take it as a compliment that 
+you can tell that by looking at me.
+
+## POINTER 12
+
+<VOICE>(VS03_072)<STR>(YUR) Looowell! 
+Where are yooou?
+
+## POINTER 13
+Adecor
+<VOICE>(VS03_073)You foul fugitive! 
+I say, we know you're trying 
+to make your escape.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS03_074)Oh please, not them again. Guess 
+there's no point in going back 
+to the prison cell now.
+
+## POINTER 15
+
+<VOICE>(VS03_075)Louder, fools! Say it like you mean it!
+
+## POINTER 16
+Boccos
+<VOICE>(VS03_076)Lieutenant Leblanc, your voice 
+is TOO loud. My ears...
+
+## POINTER 17
+
+<VOICE>(VS03_077)<STR>(YUR) Lowell? You're one of <STR>(FRE)'s 
+friends, aren't you?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS03_078)Yeah. Why?
+
+## POINTER 19
+
+<VOICE>(VS03_079)And you used to belong to 
+the Imperial Knights?
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS03_080)Just for three short months.<PAGE><VOICE>(VS03_081)You hear that from <STR>(FRE)?
+
+## POINTER 21
+
+<VOICE>(VS03_082)Yes.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS03_083)Huh. Guess he managed to find someone at 
+the castle he could talk to after all.
+
+## POINTER 23
+
+<VOICE>(VS03_084)<STR>(YUR)! I need to 
+talk to <STR>(FRE)!
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS03_085)Hold on just a second. Who are 
+you supposed to be, anyway?<PAGE><VOICE>(VS03_086)I can tell you know <STR>(FRE), 
+but why are you being chased 
+by the Knights?
+
+## POINTER 25
+
+<VOICE>(VS03_087)Over here!
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS03_088)Listen, I want to hear the whole story, but we 
+can't really afford to stand around and chat.<PAGE><VOICE>(VS03_089)First things first, let's get to <STR>(FRE)'s 
+place. Want me to lead the way?
+
+## POINTER 27
+
+<VOICE>(VS03_090)Ah, yes!
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS03_091)Let's go.

@@ -1,0 +1,132 @@
+## POINTER 0
+
+May I see your passport, please?
+
+## POINTER 1
+<STR>(EST_P)
+Our...passport?
+
+## POINTER 2
+
+This is an Imperial facility. 
+We can't just let anyone 
+inside, can we?
+
+## POINTER 3
+<STR>(KAR)
+Passport? You don't have one of those, do you?
+
+## POINTER 4
+<STR>(YUR)
+An associate of ours is inside. 
+Could you please let us through?
+
+## POINTER 5
+
+If you filled out the official visitation paperwork, 
+then you ought to have gotten your passport 
+from this "associate" of yours.
+
+## POINTER 6
+<STR>(YUR)
+This is the first we've heard, though.<PAGE>If you won't let us in, perhaps you 
+could call him to the gate for us?
+
+## POINTER 7
+
+What's your associate's name?
+
+## POINTER 8
+<STR>(YUR)
+Mordio.
+
+## POINTER 9
+
+M-Mordio?!
+
+## POINTER 10
+
+W-we can't help you. You'll need 
+to mail in a request and have a passport 
+officially issued to you.
+
+## POINTER 11
+<STR>(KAR)
+Damn, don't budge an inch, do you?
+
+## POINTER 12
+<STR>(EST_P)
+Excuse me, but did a knight by the name 
+of <STR>(FRE) happen to stop by here?
+
+## POINTER 13
+
+All information about the establishment is classified. 
+We cannot share even small details with outsiders.
+
+## POINTER 14
+<STR>(EST_P)
+So you can't even tell me why <STR>(FRE) was here?
+
+## POINTER 15
+
+No, of course not.
+
+## POINTER 16
+<STR>(EST_P)
+...So what you're saying...is that 
+<STR>(FRE) really did come here!
+
+## POINTER 17
+
+I-I don't know who you're talking about! A 
+knight named <STR>(FRE)? N-never heard of him!
+
+## POINTER 18
+<STR>(EST_P)
+Could we at least 
+leave him a message?
+
+## POINTER 19
+<STR>(YUR)
+Give it up, <STR>(EST_P). We'd 
+have more luck asking a 
+brick wall for help.
+
+## POINTER 20
+<STR>(YUR)
+Let's just go.
+
+## POINTER 21
+<STR>(EST_P)
+But <STR>(FRE)'s inside...
+
+## POINTER 22
+<STR>(KAR)
+What, we're just going to give up?
+
+## POINTER 23
+<STR>(EST_P)
+I'm not going to give up! 
+I'm going to see <STR>(FRE)!
+
+## POINTER 24
+<STR>(YUR)
+And I'm going to take back that blastia 
+from that thief Mordio, and give him 
+a beating he won't forget.
+
+## POINTER 25
+<STR>(KAR)
+So can't we look for 
+another way in?
+
+## POINTER 26
+<STR>(YUR)
+Of course we can. Let's take a 
+stroll around, why don't we?
+
+## POINTER 27
+<STR>(YUR)
+As a last resort, maybe we 
+could go over the walls.

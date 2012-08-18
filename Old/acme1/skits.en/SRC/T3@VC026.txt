@@ -1,0 +1,84 @@
+## POINTER 0
+Karol's Sidekick
+
+## POINTER 1
+(KAR)
+...Good work... Yeah... Get 
+some rest, you did well...
+
+## POINTER 2
+(EST_P)
+Who are you talking to, (KAR)?
+
+## POINTER 3
+(KAR)
+Waaah...!
+
+## POINTER 4
+(EST_P)
+Aaaah...!! ...D-don't 
+startle me like that...
+
+## POINTER 5
+(KAR)
+I-I'm sorry. Did you hear 
+that just now...?
+
+## POINTER 6
+(JUD)
+Yeah, we heard it.
+
+## POINTER 7
+(RIT)
+You talk to your sword?!
+
+## POINTER 8
+(KAR)
+It cuts better when I do that.
+
+## POINTER 9
+(KAR)
+Actually, we just won this battle 
+because I gave my sword lots 
+of encouragement before.
+
+## POINTER 10
+(EST_P)
+Really...?
+
+## POINTER 11
+(RIT)
+...Whatever floats your boat.
+
+## POINTER 12
+(JUD)
+Well that was unexpected.
+
+## POINTER 13
+(RIT)
+What?
+
+## POINTER 14
+(JUD)
+Nothing... Thank you for all the 
+work you do. We can't wait to see 
+how well you perform next time!
+
+## POINTER 15
+(RIT)
+It must be tough having such 
+an unreliable owner! You're 
+the only one we can count on.
+
+## POINTER 16
+(EST_P)
+Umm, err... Good luck next time...
+
+## POINTER 17
+(KAR)
+Wow, thanks, guys! I'll bet my attack 
+power will double in the next battle!
+
+## POINTER 18
+(RIT)
+Don't get carried away!

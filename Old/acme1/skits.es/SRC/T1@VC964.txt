@@ -1,0 +1,33 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1253904730]
+Los cristales de Gusios
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1261780365]
+(EST_P)
+Así que Erealumen era una creación de Gusios.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243499]
+(RIT)
+Así es. Recuerdo haber visto
+un cristal similar en Caer Bocram.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243499]
+(YUR)
+Sí, estabas bastante metida en el tema.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243590]
+(EST_P)
+El radar (RIT) detecta todo
+aquello que puede resultar de interés.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243499]
+(RIT)
+Oh... Lo olvidaba... ¡No podré estudiar
+a Gusios si se convierte en un espíritu!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1266398554]
+(EST_P)
+El radar (RIT) otra vez en acción.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1266243590]
+(YUR)
+No te emociones, anda.

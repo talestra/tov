@@ -1,0 +1,46 @@
+## POINTER 0
+<STR>(RIT)
+*Yawn* I slept so nicely.
+
+## POINTER 1
+<STR>(EST_P)
+I tried shaking you and calling your
+name, but you wouldn't wake up.
+I thought you were gone, <STR>(RIT).<PAGE>...*Sigh*...
+What a relief!
+
+## POINTER 2
+<STR>(JUD)
+We must've been more tired 
+than we thought.
+
+## POINTER 3
+<STR>(RIT)
+...Are those two still at it?
+
+## POINTER 4
+<STR>(EST_P)
+Yes. They've been fighting 
+with hardly a moment's rest 
+ever since they started.
+
+## POINTER 5
+<STR>(JUD)
+They look like they're 
+enjoying themselves.
+
+## POINTER 6
+<STR>(RIT)
+They've got some nerve. 
+When are we going to leave? 
+It's stifling　here.<PAGE>I'm going to go do some maintenance 
+on the Vesperia One or something.
+
+## POINTER 7
+<STR>(EST_P)
+Oh, I'll help!
+
+## POINTER 8
+<STR>(JUD)
+I'd say <STR>(RIT)'s pretty 
+similar, really...

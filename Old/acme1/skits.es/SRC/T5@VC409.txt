@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252779963]
+La brisa marina
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314976]
+(EST_P)
+La brisa que sopla en las ciudades portuarias
+hace que todo parezca distinto.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314976]
+(EST_P)
+Huele como el mar...
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314976]
+(RIT)
+Si te quedas mucho rato expuesto al
+viento marino acabarás cubierta de sal, 
+¿lo sabías?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112874]
+(EST_P)
+Gracias por fastidiármelo...
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314976]
+(RIT)
+¡Oye, por mí como si acabas hecha una
+pordiosera! No voy a detenerte.

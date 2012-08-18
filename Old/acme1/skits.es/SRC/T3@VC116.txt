@@ -1,0 +1,65 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252353709]
+¡Ah, esta juventud!
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298496]
+(EST_P)
+¿No te cansa estar
+tanto rato luchando, (YUR)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981018]
+(YUR)
+¡Nah! Además, te tengo a ti
+para que me cures si me hieren.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981018]
+(EST_P)
+Pero... no es lo mismo
+que te hieran a cansarse...
+¿Es que nunca te quedas exhausto?
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265586106]
+(YUR)
+Mmm... Yo diría que blandir mi
+espada me da energías en vez
+de quitármelas.
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265586106]
+(RIT)
+¡Eres como un niño hiperactivo que corre
+a tontas y a locas hasta que cae redondo!
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266520565]
+(YUR)
+Claro que yo tengo más energía que un niño,
+así que puedo hacer muchas más travesuras.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981018]
+(RAV)
+¡Ah, esta juventú! Yo me quedo sin aliento
+al primer movimiento. Ojalá pudiera
+regresar a mis días de cuando era joven...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981018]
+(YUR)
+Mira que eres melodramático.
+
+## POINTER 9 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267442066]
+(RAV)
+¡Tranquilo, ya verás como dentro de poco
+t'encuentras en er mismo barco que yo, chavalote!
+¡Ja, ja, ja!
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265586106]
+(RIT)
+Eso no es que tenga mucha gracia, viejales.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981018]
+(YUR)
+Bueno, pero hasta entonces, ¡puedes
+quedarte ahí sentado y sufrir de
+admiración por mi energía juvenil!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981018]
+(EST_P)
+Es la primera vez que oigo eso
+de «sufrir de admiración»...

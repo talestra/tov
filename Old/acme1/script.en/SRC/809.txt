@@ -1,0 +1,133 @@
+## POINTER 0
+
+I'll need to see a letter of invitation 
+before I can allow you to 
+enter the Cooking Coliseum.<PAGE>...Ah, the guild representatives? 
+Excellent.<PAGE>Once inside, you will not be able to withdrawal 
+from the match or leave until it is finished. 
+Have you made all the necessary preparations?
+
+## POINTER 1
+Enter the competition?
+Yes
+No
+
+## POINTER 2
+
+Your entry has been accepted.<PAGE>I'm terribly sorry, but for sanitary reasons, 
+your canine friend will unfortunately be 
+unable to enter the Cooking Coliseum.
+
+## POINTER 3
+<STR>(YUR)
+I'm sorry, <STR>(RAP). You'll have 
+to wait for us outside.
+
+## POINTER 4
+<STR>(RAP)
+Wooo...
+
+## POINTER 5
+
+So, which of you will 
+be competing?
+
+## POINTER 6
+Select a participant.
+<STR>(YUR)
+<STR>(EST_P)
+<STR>(KAR)
+<STR>(RIT)
+<STR>(RAV)
+<STR>(JUD)
+
+## POINTER 7
+<STR>(YUR)
+I guess I'll do it. It should be interesting 
+to fight in a battle where I don't 
+have to be slicing up monsters.
+
+## POINTER 8
+<STR>(YUR)
+This is all you, <STR>(EST_P).
+
+## POINTER 9
+<STR>(EST_P)
+Me? You don't mind?
+
+## POINTER 10
+<STR>(KAR)
+No, of course not. 
+Good luck, <STR>(EST_P)!
+
+## POINTER 11
+<STR>(EST_P)
+O-okay! I'll do my best!
+
+## POINTER 12
+<STR>(YUR)
+It looks like this is a job for the one and 
+only boss in the making, Captain <STR>(KAR)!
+
+## POINTER 13
+<STR>(KAR)
+Uhhh...all right. The reputation 
+of all the Guilds is on the line.
+I'll do my best!
+
+## POINTER 14
+<STR>(YUR)
+Who better to compete than <STR>(RIT), who's
+acting like she'd rather be somewhere else?
+
+## POINTER 15
+<STR>(RIT)
+What?! No way! Pick someone else.
+
+## POINTER 16
+
+Oops... I already registered 
+Miss <STR>(RIT) as the competitor.<PAGE>...As per our rules, entrants' names cannot be 
+changed once they're registered in the system.
+
+## POINTER 17
+<STR>(RIT)
+Hold on, you gotta be kidding me! But it's 
+your fault for being so registration-happy!
+
+## POINTER 18
+<STR>(YUR)
+A representative for all the 
+Guilds? Sounds like you're the 
+man for the job, old man.
+
+## POINTER 19
+<STR>(RAV)
+A showdown against the Empire, eh? 
+Could be interestin'. I'm in.
+
+## POINTER 20
+<STR>(YUR)
+I think you're the best cook 
+out of all of us, <STR>(JUD_P).
+
+## POINTER 21
+<STR>(JUD)
+Just leave it to me. We can't lose.
+
+## POINTER 22
+<STR>(KAR)
+You seem pretty sure of yourself.
+
+## POINTER 23
+
+In order to keep the judging fair, we 
+will also be having one member from 
+each team participate as a judge.<PAGE>Judges will be chosen during 
+the battle itself.<PAGE>Now then, let me show you 
+to the cooking arena.
+
+## POINTER 24
+
+Very well. Let me know when 
+you're ready to compete.

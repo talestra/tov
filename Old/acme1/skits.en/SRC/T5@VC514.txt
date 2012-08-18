@@ -1,0 +1,108 @@
+## POINTER 0
+Where You Want To Be
+
+## POINTER 1
+(KAR)
+Agh...!
+
+## POINTER 2
+(YUR)
+What's the matter, (KAR)?
+
+## POINTER 3
+(KAR)
+I...I just saw a b-bug... 
+I hate this forest!
+
+## POINTER 4
+(YUR)
+Come on, this place is tons better 
+than the Blade Drifts of Zopheir, 
+isn't it? What's a few bugs?
+
+## POINTER 5
+(RAV)
+And too much cold'll kill ya! ∀
+
+## POINTER 6
+(RIT)
+You'll be fine in the cold if you just 
+bundle up. There's nothing you 
+can do about a desert, though.
+
+## POINTER 7
+(JUD)
+Yes, you have to remove clothing, 
+and there's a limit to how 
+much you can take off.
+
+## POINTER 8
+(RAV)
+Maybe yer just not taking enough off! ♪
+
+## POINTER 9
+(RIT)
+......
+
+## POINTER 10
+(RAV)
+Ow...!
+
+## POINTER 11
+(RIT)
+I also can't stand being 
+on the Atherum.
+
+## POINTER 12
+(JUD)
+There sure are a lot of places 
+you don't like going, (RIT).
+
+## POINTER 13
+(RIT)
+Well, what about you?
+
+## POINTER 14
+(JUD)
+I don't like the Heracles very much, 
+myself. That giant blastia's just...
+
+## POINTER 15
+(RIT)
+That sounds like the (JUD) I know...
+
+## POINTER 16
+(RAP)
+*Wooof!*
+
+## POINTER 17
+(YUR)
+What about you, (EST_P)?
+
+## POINTER 18
+(EST_P)
+Huh? Me? I prefer places without 
+monsters, personally.
+
+## POINTER 19
+(KAR)
+Places without monsters... 
+You mean inside barriers.
+
+## POINTER 20
+(EST_P)
+Huh? That's not what 
+I meant, exactly...
+
+## POINTER 21
+(YUR)
+I think I know what you meant.
+
+## POINTER 22
+(RIT)
+I wish the whole planet was like that, 
+but that's just not how it works.
+
+## POINTER 23
+(EST_P)
+Yes, I know...

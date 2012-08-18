@@ -1,0 +1,137 @@
+## POINTER 0
+
+Yo, <STR>(YUR)! Didn't expect 
+to see you here!
+
+## POINTER 1
+<STR>(YUR)
+Eh? Who're you again?
+
+## POINTER 2
+
+Ha ha ha. You 
+haven't changed 
+a bit, <STR>(YUR)!<PAGE>It's me, man! We were in the 
+Imperial Knights together! 
+I'm Agueron...remember?
+
+## POINTER 3
+<STR>(YUR)
+Agueron? Ahh, yeah, I sort of
+remember. You were the one
+who always stole food, right?
+
+## POINTER 4
+Agueron
+That was somebody else...
+Well, not that it matters, really.<PAGE>It sounds like you've been doing 
+pretty well since you got out.<PAGE>Me, I'm gonna keep working 
+my butt off to help <STR>(FRE) 
+build this new city!
+
+## POINTER 5
+<STR>(YUR)
+Hey, that's great! <STR>(FRE) could 
+really use your help, I'm sure.
+
+## POINTER 6
+Agueron
+People are expecting so much from <STR>(FRE) 
+right now. I'm going to help him as 
+much as I can from behind the scenes.
+
+## POINTER 7
+<STR>(YUR)
+Thanks for that. Well, if there's
+anything you need, just let me
+know. I'll do what I can to help.
+
+## POINTER 8
+Agueron
+Well, actually...<PAGE>The town's come a long way, and now 
+it seems like people have stopped caring 
+about its development so much...<PAGE>Up until now everyone was solid...we
+were all working together. But the people
+in town started to lose their enthusiasm.
+
+## POINTER 9
+<STR>(YUR)
+Well, I'd say that's a pretty 
+natural way for people to feel.
+
+## POINTER 10
+Agueron
+Yeah... I mean, people want 
+to relax, I'm sure.<PAGE>But some people have started throwing
+all of their work onto <STR>(FRE)...even little
+and manual labor around town.
+
+## POINTER 11
+<STR>(YUR)
+So what are you getting at?
+
+## POINTER 12
+Agueron
+I want...to help the town remember the original 
+spirit of industry that drove them to build 
+their homes here in the first place.<PAGE>I was thinking that maybe...if they could 
+feel some sense of accomplishment, maybe 
+it could bring the town together again.
+
+## POINTER 13
+<STR>(YUR)
+......
+So what are you saying 
+should be done, exactly?
+
+## POINTER 14
+Agueron
+Could you perhaps go and gather 
+some building materials that 
+we can't find near town?<PAGE>If we could get some more materials, 
+I think we might be able to 
+improve the town even more.
+
+## POINTER 15
+<STR>(YUR)
+Well, we do 
+have Ba'ul, 
+after all...
+
+## POINTER 16
+Agueron
+Please...help 
+our town 
+grow!
+
+## POINTER 17
+<STR>(YUR)
+I guess I've got no choice. 
+I assume you don't want me 
+to mention this to <STR>(FRE)?
+
+## POINTER 18
+Agueron
+Yeah... He has far more 
+important things to 
+focus on right now.
+
+## POINTER 19
+<STR>(YUR)
+Sounds good. That way 
+he can keep his mind on 
+what he needs to do.
+
+## POINTER 20
+Agueron
+Thank you. There's nothing 
+like a fellow knight to 
+come through in a pinch!<PAGE>All right, then, could you bring me three
+of each of the following? Desier Gold Dust,
+Hypionia Tree Bark, and Yurzo Fruit.
+
+## POINTER 21
+<STR>(YUR)
+Desier Gold Dust, Hypionia Tree
+Bark, and Yurzo Fruit...three of 
+each. Gotcha. I'll be back.

@@ -1,0 +1,169 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1270654932]
+<STR>(RAP)
+<VOICE>(VS06_064)Grrr...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1270654932]
+<STR>(YUR)
+<VOICE>(VS06_065)¿Mmm?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<VOICE>(VS06_066)¡P-Prepárate para morir, oso ovíparo!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<VOICE>(VS06_067)¡Aaah!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<VOICE>(VS06_068)¡Uaaaaah! ¡UUF!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<VOICE>(VS06_069)Ooh, tío, qué daño...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<VOICE>(VS06_070)¡Aaaargh!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<VOICE>(VS06_071)¡T-Te lo advierto! 
+Mi sabor es terrible. 
+¡Acabarás con retortijones!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1270654932]
+<STR>(RAP)
+<VOICE>(VS06_072)¡¡Guau!!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<VOICE>(VS06_073)
+Oh, Dios mío, ¡Que a-a-alguien
+m-m-me ayudeee!... ¡¡Aaaah!!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1270654932]
+<STR>(YUR)
+<VOICE>(VS06_074)¿De qué va el niño este?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1270654932]
+<STR>(EST_P)
+<VOICE>(VS06_075)Ya estás a salvo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<VOICE>(VS06_076)¿Eh? ¿El monstruo se ha transformado en una chica?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<STR>(YUR)
+<VOICE>(VS06_077)Vaya, vaya. Esto tiene pinta
+de ser interesante.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<VOICE>(VS06_078)
+¡Me llamo <STR>(KAR) Capel! Soy miembro del gremio
+de los Espadas Cazadoras. Viajamos por todo el globo
+en busca de los monstruos más duros de pelar.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<STR>(YUR)
+<VOICE>(VS06_079)
+Yo me llamo <STR>(YUR). Esta es <STR>(EST_P),
+y ya conoces a <STR>(RAP).
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1270654932]
+<STR>(YUR)
+<VOICE>(VS06_080)En fin, encantado de conocerte.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1270654932]
+<STR>(EST_P)
+<VOICE>(VS06_081EA)¿Qué? ¡<STR>(YUR), espera!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1270654932]
+<STR>(EST_P)
+<VOICE>(VS06_081EB)Discúlpanos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1270654932]
+<STR>(KAR)
+<VOICE>(VS06_082)¿Eh? ¡Eh, esperad! 
+¡¿Adónde vais?!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1270919012]
+<STR>(KAR)
+<VOICE>(VS06_083)Habéis venido para adentraros
+en el bosque, ¿verdad? Entonces yo...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1270919012]
+<STR>(EST_P)
+<VOICE>(VS06_084)Lo cierto es que acabamos de hacerlo.
+Ahora nos dirigimos a Halure.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1270919012]
+<STR>(KAR)
+<VOICE>(VS06_085)
+¡Venga ya! ¿Habéis atravesado este bosque maldito?
+<PAGE><VOICE>(VS06_086)¿Por casualidad os habéis
+topado con algún oso ovíparo?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:parsec;time:1270989189]
+<STR>(EST_P)
+<VOICE>(VS06_087)¿Sabes de qué habla, <STR>(YUR)?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1270919012]
+<STR>(YUR)
+<VOICE>(VS06_088)No. Creo que no hemos visto ninguno.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<STR>(KAR)
+<VOICE>(VS06_089)Jo... En fin, supongo que
+si vuelvo a la ciudad,
+entonces...<PAGE><VOICE>(VS06_090)No les hará ninguna gracia
+que los tenga esperando...
+¡De acuerdo!<PAGE><VOICE>(VS06_091)No creo que seáis capaces de llegar vosotros solos,
+pero no temáis. ¡La estrella de los Espadas Cazadoras
+será vuestro escolta!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1270919012]
+<STR>(KAR)
+<VOICE>(VS06_092)
+¿Veis esto? ¡Hasta tengo
+mi propio blastia!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<STR>(KAR)
+<VOICE>(VS06_093)¿Qué? ¿Vosotros también tenéis uno?
+Oh... ¿sí? ¡Pues a ver qué os parece esto!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1270919012]
+<STR>(EST_P)
+<VOICE>(VS06_094)Tiene información sobre monstruos. ¿Mmm?
+Pero a partir de cierto punto tiene
+todas las páginas en blanco.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<STR>(KAR)
+<VOICE>(VS06_095)E-Es que pienso rellenarlo con toneladas
+de monstruos más adelante.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<STR>(KAR)
+<VOICE>(VS06_096)¡Espera! ¡¿Quién te ha dado permiso
+para escribir aquí, sin más?!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<STR>(YUR)
+<VOICE>(VS06_097)
+Puede que tu estatus de «estrella» de tu gremio
+quede un poco tocado si se descubre que has roto tu espada.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<STR>(KAR)
+<VOICE>(VS06_098)Oh, ¿eso? Tenía que ponerme alguna
+especie de impedimento para hacer
+que la lucha fuera justa.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1270919094]
+<STR>(KAR)
+<VOICE>(VS06_099)Oye, eso no está nada mal.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1273438766]
+<STR>(KAR)
+<VOICE>(VS06_100)¡Eh! ¿Acaso sabéis hacia dónde vais?
+Halure está hacia el norte una vez
+sales de los bosques.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1270919094]
+<STR>(KAR)
+<VOICE>(VS06_101)¡Vamos, chicos! ¡Esperadme!

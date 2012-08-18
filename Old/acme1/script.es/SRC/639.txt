@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290008472]
+<STR>(KAR)
+<VOICE>(VA030_054)Ya hemos encontrado casi todas las armas perdidas.
+
+## POINTER 1 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290008472]
+<STR>(EST_P)
+<VOICE>(VA030_055)A mí no me parecen muy poderosas...
+
+## POINTER 2 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1294187324]
+<STR>(RIT)
+<VOICE>(VA030_056)Quizá tengamos que hacer algo
+para que despierten del todo.
+
+## POINTER 3 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290008472]
+<STR>(RAV)
+<VOICE>(VA030_057)Si lo consiguiésemos, tendríamos
+un subidón de fuerza que lo flipas.
+
+## POINTER 4 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290008472]
+<STR>(JUD)
+<VOICE>(VA030_058)Pero no estaría bien
+depender mucho de ellas.
+
+## POINTER 5 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1294187324]
+<STR>(EST_P)
+<VOICE>(VA030_059)Cierto... Al igual que depender
+demasiado en los blastias
+causó fuertes repercusiones.<PAGE><VOICE>(VA030_060)Si dependiésemos del poder de las
+armas perdidas, tal vez estuviéramos
+cometiendo los mismos errores.
+
+## POINTER 6 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290008472]
+<STR>(YUR)
+<VOICE>(VA030_061)Bueno, pues entonces no las uses. Solo
+estamos reuniéndolas para asegurarnos de
+que no las tenga la gente que no debe.
+
+## POINTER 7 [t:1;r:2;ru:memnoch,squallido;user:Lia;time:1290008472]
+<STR>(KAR)
+<VOICE>(VA030_062)Exacto.

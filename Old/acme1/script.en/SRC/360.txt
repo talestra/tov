@@ -1,0 +1,96 @@
+## POINTER 0
+<STR>(YUR)
+Try not to take too long, okay?
+
+## POINTER 1
+<STR>(RIT)
+Sure.
+
+## POINTER 2
+<STR>(RIT)
+It's completely inactive now... And 
+it was overflowing so much before...
+
+## POINTER 3
+<STR>(RIT)
+Is that how the aer was controlled? How could 
+a monster do something like that...
+
+## POINTER 4
+<STR>(EST_P)
+Is that aer krene 
+safe now?
+
+## POINTER 5
+<STR>(KAR)
+We'll be in trouble if aer shoots 
+out of it like before!
+
+## POINTER 6
+<STR>(RIT)
+It doesn't look like you 
+have to worry about that...
+
+## POINTER 7
+<STR>(YUR)
+So why'd the aer suddenly 
+shoot out before?
+
+## POINTER 8
+<STR>(RIT)
+That's what's puzzling me.
+
+## POINTER 9
+<STR>(EST_P)
+Maybe it was just a natural phenomenon?
+
+## POINTER 10
+<STR>(RIT)
+The probability of that is low, at best.<PAGE>If that was the case, it should be 
+emitting aer at regular intervals.
+
+## POINTER 11
+<STR>(JUD)
+If aer were emitted that frequently, it'd 
+have an effect on the environment.
+
+## POINTER 12
+<STR>(RIT)
+Like how the plants grew so 
+unnaturally in Keiv Moc.
+
+## POINTER 13
+<STR>(RAV)
+Looks pretty normal 
+'round here to me.
+
+## POINTER 14
+<STR>(RIT)
+So perhaps something else interfered 
+with the aer krene and caused 
+it to discharge aer?<PAGE>But what could do that...<PAGE>Only a formula or blastia could 
+affect aer like that...
+
+## POINTER 15
+<STR>(RAP)
+Grrr.
+
+## POINTER 16
+<STR>(YUR)
+Damn, that would be our fan club. 
+Seems like these knights are just 
+as dedicated as the Captain himself.<PAGE><STR>(RIT), let's go. Are you done 
+looking at the aer krene?
+
+## POINTER 17
+<STR>(RIT)
+Just let me think a little more...
+
+## POINTER 18
+<STR>(JUD)
+If you just need time to think, you'll have plenty 
+of time once we've gotten out of here!
+
+## POINTER 19
+<STR>(RIT)
+Mmm...all right, all right!

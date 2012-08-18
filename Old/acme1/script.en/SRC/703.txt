@@ -1,0 +1,133 @@
+## POINTER 0
+<STR>(RIT)
+Not this again...
+
+## POINTER 1
+<STR>(EST_P)
+Why does it always stop crying 
+when you hold it, <STR>(RIT)?
+
+## POINTER 2
+<STR>(RIT)
+I dunno.
+
+## POINTER 3
+<STR>(RIT)
+Why are you crying all 
+of the sudden...?
+
+## POINTER 4
+<STR>(EST_P)
+Uh, ummm... 
+Maybe it's 
+hungry...
+
+## POINTER 5
+<STR>(RIT)
+Maybe we should 
+give it a banana?
+
+## POINTER 6
+<STR>(RIT)
+Ack, that hurts...! 
+Wh-who did that...?!
+
+## POINTER 7
+<STR>(EST_P)
+<STR>(RIT), this baby is still 
+too young to eat bananas.<PAGE>Maybe if we gave it some 
+milk or something else...
+
+## POINTER 8
+<STR>(RIT)
+Who would've thought he would just 
+pee like that all of the sudden...
+
+## POINTER 9
+<STR>(EST_P)
+I, umm...I'm going to go 
+see if I can find something 
+to use as diaper...!
+
+## POINTER 10
+<STR>(EST_P)
+Somebody's all smiles now that he drank 
+his wittle wittle milk! Isn't that right?
+
+## POINTER 11
+<STR>(RIT)
+There's a good boy, there's a good boy.
+
+## POINTER 12
+<STR>(EST_P)
+...I was really surprised 
+to see that he was a boy.
+
+## POINTER 13
+<STR>(RIT)
+You're blushing, <STR>(EST_P).
+
+## POINTER 14
+<STR>(EST_P)
+Huh...?!
+
+## POINTER 15
+<STR>(RIT)
+Heh, just kidding.
+
+## POINTER 16
+<STR>(EST_P)
+Hee hee, he's sleeping so soundly!
+
+## POINTER 17
+<STR>(RIT)
+*Yawn* It's way 
+past my bedtime, 
+too...
+
+## POINTER 18
+<STR>(EST_P)
+And yet you've been 
+awake for hours taking 
+care of him...
+
+## POINTER 19
+<STR>(RIT)
+Well, I can't just leave him alone.
+
+## POINTER 20
+<STR>(EST_P)
+...You know, I wonder 
+where <STR>(YUR) and the 
+rest ran off to.
+
+## POINTER 21
+<STR>(RIT)
+Yeah...
+
+## POINTER 22
+<STR>(EST_P)
+Don't you think the two of 
+us look like a mom and dad? 
+A happy little couple!
+
+## POINTER 23
+<STR>(RIT)
+Huh? What are you talking about?
+
+## POINTER 24
+<STR>(EST_P)
+If we...if we don't end up finding 
+his mother, we should adopt 
+him and raise him together...
+
+## POINTER 25
+<STR>(RIT)
+You're crazy, <STR>(EST_P)...
+
+## POINTER 26
+<STR>(RIT)
+Kid...
+...Don't you 
+go forgetting us once 
+the morning comes.

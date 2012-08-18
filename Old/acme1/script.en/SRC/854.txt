@@ -1,0 +1,58 @@
+## POINTER 0
+<STR>(KAR)
+Huh? A coin?
+
+## POINTER 1
+
+That makes one!
+
+## POINTER 2
+<STR>(YUR)
+What's with this coin?
+
+## POINTER 3
+<STR>(EST_P)
+It's not Gald...
+
+## POINTER 4
+
+In order to pass into the land of the 
+dead, you must first save up to pay 
+the fee for passage. Hee hee hee...
+
+## POINTER 5
+<STR>(RIT)
+Wh-where is that voice coming from...? 
+N-not like I'm scared or anything...
+
+## POINTER 6
+<STR>(KAR)
+Hey...you wanna go back?
+
+## POINTER 7
+<STR>(YUR)
+I don't think we can.
+
+## POINTER 8
+
+If you wish to return to the land of the living, 
+then it would be wise to gather up coins.
+
+## POINTER 9
+<STR>(RAV)
+Looks like savin' up those coins 
+is 'bout all we can do.
+
+## POINTER 10
+<STR>(YUR)
+That is, unless we want to stay 
+here for the rest of our lives!
+
+## POINTER 11
+<STR>(RIT)
+C-cut out the jokes!
+
+## POINTER 12
+<STR>(YUR)
+Oh, all right.
+...Let's keep going.

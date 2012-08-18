@@ -1,0 +1,126 @@
+## POINTER 0
+<STR>(JUD)
+All right, I'm done.
+
+## POINTER 1
+
+Hmm... I lost. I'm 
+impressed. So the 
+legends are true...
+
+## POINTER 2
+<STR>(JUD)
+......
+
+## POINTER 3
+
+I admit defeat. As promised, I'll 
+return my winnings, and I'll 
+stop coming here for good.
+
+## POINTER 4
+
+Hmph. Looks 
+like I won, 
+doesn't it?
+
+## POINTER 5
+<STR>(JUD)
+Yes. I lost.
+
+## POINTER 6
+
+But you know, I'm tired of this 
+place. I don't need the money 
+here anymore, either.
+
+## POINTER 7
+<STR>(JUD)
+What's gotten into you?
+
+## POINTER 8
+
+Dunno. I guess a new casino 
+is just calling my name, 
+and I've gotta answer.
+
+## POINTER 9
+<STR>(JUD)
+You're a good sport.
+
+## POINTER 10
+
+Eh? I was able to play against you. 
+That's the most important thing.
+
+## POINTER 11
+
+Until we meet again.
+
+## POINTER 12
+Kaufman
+Amazing! Thank you for your 
+help! Thank you so much!<PAGE>H-how did you do it? Who the 
+hell are you, anyway?!
+
+## POINTER 13
+<STR>(JUD)
+I'm just an average, run-of-the mill Krityan.
+
+## POINTER 14
+Kaufman
+You may've lost the 
+game, but you did 
+great! Thank you!
+
+## POINTER 15
+Kaufman
+Now, for your reward...
+
+## POINTER 16
+<STR>(YUR)
+I was surprised at how quickly he left. I thought 
+he'd put up more of a fight, or something.<PAGE>Are all gamblers like that?
+
+## POINTER 17
+<STR>(JUD)
+Who knows? Not me.<PAGE>But he played honorably. 
+It was a fun match.
+
+## POINTER 18
+<STR>(KAR)
+Hey, <STR>(JUD)! You bet something while 
+you were playing against him, right?<PAGE>I couldn't hear what it 
+was. What did you bet?
+
+## POINTER 19
+<STR>(JUD)
+I told him if he won, he'd 
+never have to pay for food 
+or drinks here again.
+
+## POINTER 20
+<STR>(KAR)
+...Huh?
+
+## POINTER 21
+<STR>(JUD)
+He earns his living by 
+gambling, after all.<PAGE>A bet of anything else would've 
+been an insult.<PAGE>His very way of life was on the line!
+
+## POINTER 22
+
+Madam President! Madam President! A strange 
+man is going around to all of the food 
+stands and taking food without paying!<PAGE>And he keeps saying 
+"put it on my tab." 
+What do we do?
+
+## POINTER 23
+<STR>(JUD)
+Uh oh.
+
+## POINTER 24
+Kaufman
+......

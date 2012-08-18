@@ -1,0 +1,83 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+<STR>(RIT)
+¡Argh, qué diablos! ¡¿Quién
+monta en un monstruo así?!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+<STR>(KAR)
+Era el jinete de dragones.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239895]
+<STR>(RIT)
+¿El jinete de dragones?
+¡Más bien el mamarracho del dragón!
+¡Mira que hacerle daño a mis blastias!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239895]
+<STR>(KAR)
+«Mamarracho del dragón»... *Suspiro* Sabes,
+<STR>(RIT), aquel blastia ni siquiera era tuyo.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+<STR>(EST_P)
+A pesar de ello, ¿por qué creéis
+que alguien iba a ir por ahí
+destruyendo blastias?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+<STR>(YUR)
+Buena pregunta. Tengo ganas de sentarme
+alguna vez con ese jinete de dragones y
+tener un buena charla.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239895]
+<STR>(RIT)
+¡Como si se pudiera tener una
+conversación normal con alguien así!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+<STR>(YUR)
+¿Te ves capaz de volver a casa tú solo?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+
+Vais a atrapar a Ragou,
+aquel hombre malo, ¿verdad?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+<STR>(YUR)
+Sí, y queremos darnos prisa.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273478621]
+
+De acuerdo. Puedo volver
+a casa yo solo.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+<STR>(YUR)
+Eres un niño muy bueno.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+<STR>(KAR)
+<STR>(EST_P), ¿qué te ocurre?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+<STR>(EST_P)
+Todavía me cuesta creer
+que el magistrado hiciera
+cosas tan horribles...
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+<STR>(KAR)
+Por desgracia, es algo bastante común.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835980]
+<STR>(YUR)
+¿No has visto ya varias veces
+durante este viaje de qué es
+capaz el Imperio?
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273478621]
+<STR>(KAR)
+¡Oye, que mientras estamos aquí de cháchara,
+Ragou se está escapando en su barco!

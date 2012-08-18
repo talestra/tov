@@ -1,0 +1,77 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267308945]
+«Aquello»
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108174]
+(RIT)
+¡Eh! ¡¿Por qué tengo que
+ser yo la única que cocine?!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298108174]
+(RAV)
+Ah, ¿tal vez porque has mejorao
+y por fin disfrutas haciéndolo?
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296592]
+(RIT)
+¡Qué va! ¡Cocinar es un rollo
+y una pérdida de tiempo!
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296592]
+(RIT)
+Uno come para recuperar energía, ¿no?
+¡Pues comed algo de pan, un plátano
+o algo así!
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296592]
+(YUR)
+¿Qué? ¿Quieres que comamos
+los ingredientes sin más?
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266597058]
+(KAR)
+Recuerdo que una vez nos sirvió
+un bocadillo que no era más que dos
+rebanadas con un huevo crudo en medio...
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296592]
+(JUD)
+¿Un huevo crudo? ¡Qué original!
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266597058]
+(RAV)
+¡Oye, no le deis ideas a esta!
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267308987]
+(RIT)
+Hacedme cocinar otra vez... 
+y pondré «aquello» en la comida.
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266597058]
+(RAV)
+¿Poner lo qué en dónde?
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296592]
+(RIT)
+Algo que llevo reservando
+para una ocasión especial.
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296592]
+(JUD)
+Ooh, eso suena interesante.
+
+## POINTER 13 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266597058]
+(KAR)
+¡(JUD), no la provoques!
+
+## POINTER 14 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296592]
+(RIT)
+¡Ni se os ocurra hacerme cocinar la próxima vez!
+
+## POINTER 15 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296592]
+(EST_P)
+Ooh, yo quería probar eso tan especial
+que reservaba (RIT)...
+
+## POINTER 16 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267296592]
+(KAR)
+(EST_P), no creo que debas...

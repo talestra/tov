@@ -1,0 +1,64 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS11_026)...That's all it takes.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS11_029)That's a strihm crest. It's a 
+mark that indicates movement.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS11_030)Huh. Interesting.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS11_031)Hey, wh-what's that...?
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS11_032)A sentinel for taking care of unwanted guests.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS11_033)Okay then, keep your eyes open 
+and let's keep moving.
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS11_034)Are you sure? What if I'm just 
+luring you deeper into the ruins 
+so I can "zap" you?
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS11_035)I'm starting to think I'd rather 
+try my luck with the golem.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS11_036)...Here, you take it.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS11_037)Isn't this thing important or something?
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS11_038)We'll need to use it a 
+few more times.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS11_039)Okay, I guess I'd better hold 
+it since I'm leading the way.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS11_040)All right, then whoever's going 
+to lead the way should take it. 
+Well, who's it gonna be?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS11_041)Here, catch.

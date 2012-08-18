@@ -1,0 +1,99 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651927]
+<STR>(EST_P)
+<VOICE>(VS30_001)No hay ni una sombra...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651927]
+<STR>(KAR)
+<VOICE>(VS30_002)Nunca imaginé
+que hiciese tanto calor...
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651927]
+<STR>(YUR)
+<VOICE>(VS30_003)Aquí nadie aguantaría mucho
+sin las provisiones necesarias.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407982]
+<STR>(RIT)
+<VOICE>(VS30_004)¿Y a ese qué le pasa?
+Parece que esté de paseo
+por el parque.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279651927]
+<STR>(YUR)
+<VOICE>(VS30_005)Oye, viejales...
+¿No tienes calor?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1281296236]
+<STR>(RAV)
+<VOICE>(VS30_006)¿Caló? ¡Claro que sí!
+¡Aquí m'estoy asando!
+¡Quemándome vivo!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279652504]
+<STR>(RIT)
+<VOICE>(VS30_007)Será lerdo...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407982]
+<STR>(EST_P)
+<VOICE>(VS30_008)Siento que sube la temperatura
+cada vez que alguien dice
+la palabra «calor».
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407982]
+<STR>(RAV)
+<VOICE>(VS30_009)No nus pasará ná mientras
+tengamos nuestra agua a mano.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279703702]
+<STR>(EST_P)
+<VOICE>(VS30_010)Claro, los cact...
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279703702]
+<STR>(JUD)
+<VOICE>(VS30_011)Los padres de aquellos niños
+siguen por aquí sin tener
+provisión alguna.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279703702]
+<STR>(EST_P)
+<VOICE>(VS30_012)Tenemos que buscar
+a Phaeroh, pero...
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279703702]
+<STR>(JUD)
+<VOICE>(VS30_013)Sí... ¿Deberíamos ocuparnos
+del encargo de Alph y Layla
+primero?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407982]
+<STR>(KAR)
+<VOICE>(VS30_014)M-Mmm, pero...
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279703702]
+<STR>(EST_P)
+<VOICE>(VS30_015)Conmigo ya habéis
+cumplido con creces.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279703702]
+<STR>(KAR)
+<VOICE>(VS30_016)<STR>(EST_P)...
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279703702]
+<STR>(YUR)
+<VOICE>(VS30_017)Pues en marcha. Encontremos
+a los padres de esos pequeños.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279703702]
+<STR>(EST_P)
+<VOICE>(VS30_018)¿Ese era Phaeroh?
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279703702]
+<STR>(KAR)
+<VOICE>(VS30_019)¡Es verdad que se encuentra
+en este desierto!
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279703702]
+<STR>(YUR)
+<VOICE>(VS30_020)Estate tranquilo. Ya te daremos
+toda nuestra atención en cuanto
+acabemos de ayudar a esos niños.

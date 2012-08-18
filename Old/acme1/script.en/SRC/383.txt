@@ -1,0 +1,142 @@
+## POINTER 0
+<STR>(RIT)
+What's with all these people here?
+
+## POINTER 1
+<STR>(EST_P)
+<STR>(KAR)'s over there!
+
+## POINTER 2
+
+The Don protected this city from the 
+empire...he protected our honor!
+
+## POINTER 3
+
+Even if we're the only ones helping, we 
+owe it to the Don to protect the city!
+
+## POINTER 4
+<STR>(RAV)
+Hold your horses! Settle down, all 
+of you. What's all this commotion?
+
+## POINTER 5
+
+We've heard that a group 
+from Palestralle has been 
+spotted near Heliord!
+
+## POINTER 6
+<STR>(RAV)
+Their leader got killed thanks to a mistake 
+of one of our own. It's only natural they'd 
+wanna talk about the incident.
+
+## POINTER 7
+
+Once they learn the Don's left 
+town, things could get ugly!<PAGE>We must defend the 
+city from them until 
+Don returns!
+
+## POINTER 8
+<STR>(RAV)
+You fools. If y'all weren't so eager 
+to fight, the Don wouldn't've had 
+to leave in the first place...
+
+## POINTER 9
+<STR>(RAV)
+Soon as they learn that there's 
+fighting between guilds...<PAGE>Dontcha think the Knights are bound to stick 
+their noses in our business again?
+
+## POINTER 10
+
+Dahngrest is independent 
+from the empire!<PAGE>The Imperial Knights are in no 
+place to tell us what to do!
+
+## POINTER 11
+<STR>(RAV)
+The friendship treaty still ain't 
+finalized yet, you know...
+
+## POINTER 12
+<STR>(KAR)
+<STR>(YUR)! Everyone! What do we do? This 
+is going to become a war between guilds 
+if we don't do something!<PAGE>If only the Don were here...
+
+## POINTER 13
+<STR>(YUR)
+They say that the Don may have 
+gone to the Leviathan's Claw 
+compound, the Manor of the Wicked.
+
+## POINTER 14
+<STR>(KAR)
+What! Really?!
+
+## POINTER 15
+<STR>(EST_P)
+Well...probably so...
+
+## POINTER 16
+<STR>(YUR)
+We were about to see if we could 
+go there. Wanna come with us?
+
+## POINTER 17
+<STR>(KAR)
+But...there's a chance that 
+the Don's not there, right?
+
+## POINTER 18
+<STR>(RIT)
+Yeah, it was just the old 
+man's intuition, after all.
+
+## POINTER 19
+<STR>(KAR)
+If he's not there...<PAGE>War could break out while we're 
+out looking for him...<PAGE><STR>(YUR)...what should we do...? 
+What would be best...?
+
+## POINTER 20
+<STR>(YUR)
+Well, we should be able to handle 
+the Manor of the Wicked ourselves.<PAGE>You go ahead and do what 
+you think you should do.
+
+## POINTER 21
+<STR>(KAR)
+Y-yeah...then I'm going to 
+go and talk to everyone!
+
+## POINTER 22
+<STR>(EST_P)
+Do you think this is the right choice?
+
+## POINTER 23
+<STR>(RIT)
+We don't have much choice. We 
+can't follow the Don and guard 
+the city at the same time.
+
+## POINTER 24
+<STR>(EST_P)
+I hope that we find the Don 
+at the Manor of the Wicked...
+
+## POINTER 25
+<STR>(YUR)
+We're his backup.<PAGE>If Yeager's the one the Don's 
+up against, he'll need all 
+the help he can get.
+
+## POINTER 26
+<STR>(RAV)
+Hey, do ya even know where yer going?! 
+It's straight ta the west of here!<PAGE>Hey, wait for meee!

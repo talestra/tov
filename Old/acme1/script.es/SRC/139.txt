@@ -1,0 +1,91 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:parsec;time:1272191593]
+<STR>(EST_P)
+<VOICE>(VS11_500)Esta es la primera vez
+que entro en unas ruinas.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1274015379]
+<STR>(RIT)
+<VOICE>(VS11_501)Tened cuidado; está resbaladizo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1272377883]
+<STR>(RIT)
+<VOICE>(VS11_502)¿Y tú qué miras?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1272377883]
+<STR>(YUR)
+<VOICE>(VS11_503)Tan solo estoy sorprendido. 
+Resulta que eres una buena persona.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1274015379]
+<STR>(RIT)
+<VOICE>(VS11_504)*Suspiro* Sabía que sería
+un lata traeros conmigo.<PAGE><VOICE>(VS11_505)Debería haber venido yo sola.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:parsec;time:1272191593]
+<STR>(EST_P)
+<VOICE>(VS11_506)¿Siempre vienes a investigar
+estas ruinas tú sola?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:parsec;time:1272191593]
+<STR>(RIT)
+<VOICE>(VS11_507)Sí.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1274015379]
+<STR>(EST_P)
+<VOICE>(VS11_508)¿No tienes miedo de que te ataquen
+los monstruos o de caer en trampas?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1274015379]
+<STR>(RIT)
+<VOICE>(VS11_509)El riesgo siempre está ahí
+cuando se intenta hacer algo.<PAGE><VOICE>(VS11_510)Que alguien resulte herido
+es una pérdida aceptable.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1274020479]
+<STR>(EST_P)
+<VOICE>(VS11_511)¿Incluso si eres tú la que recibe daño?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:parsec;time:1272191722]
+<STR>(RIT)
+<VOICE>(VS11_512)Sí.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1274021825]
+<STR>(EST_P)
+<VOICE>(VS11_513)¿Nunca te preocupas o
+te lo piensas dos veces?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1274021825]
+<STR>(RIT)
+<VOICE>(VS11_514)¿Preocuparse por obtener lo que quieres
+sin que nadie acabe herido?
+Has debido tener una vida bien fácil.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1274021825]
+<STR>(EST_P)
+<VOICE>(VS11_515)Una vida fácil...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1274021825]
+<STR>(RIT)
+<VOICE>(VS11_516)Y los blastias nunca me
+traicionarán. Así que es
+fácil tratar con ellos.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1272634671]
+<STR>(EST_P)
+<VOICE>(VS11_517)¡<STR>(RIT) es increíble! 
+Dice lo que tiene que decir, sin dudar.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:parsec;time:1272191944]
+<STR>(YUR)
+<VOICE>(VS11_518)Sabe exactamente qué 
+es importante para ella.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1272634671]
+<STR>(EST_P)
+<VOICE>(VS11_519)Ojalá yo supiera qué 
+es importante para mí...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1272634671]
+<STR>(YUR)
+<VOICE>(VS11_520)Sigue viajando
+y lo averiguarás.

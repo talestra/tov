@@ -1,0 +1,11 @@
+## POINTER 0
+<STR>(KAR)
+Look at that...!
+
+## POINTER 1
+<STR>(RIT)
+Watch out...!
+
+## POINTER 2
+<STR>(JUD)
+It's falling...!

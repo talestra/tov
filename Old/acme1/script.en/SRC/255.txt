@@ -1,0 +1,9 @@
+## POINTER 0
+<STR>(EST_P)
+Well, shall we have a 
+look around the town?
+
+## POINTER 1
+<STR>(KAR)
+We also need to have a look at the blastia 
+that went berserk last time.

@@ -1,0 +1,62 @@
+## POINTER 0
+
+Hey, you guys can't
+be...could you?<PAGE>When it comes to tidying warehouses,
+no one compares to Brave Vesperia,
+THAT, Brave Vesperia, right?
+
+## POINTER 1
+<STR>(YUR)
+Oh, so that's what
+we're being known for.
+Sorry, <STR>(KAR).<PAGE>It seems like we're known
+as the warehouse cleaning
+guild these days...
+
+## POINTER 2
+<STR>(KAR)
+Huh? That's not what I was
+aiming for...
+
+## POINTER 3
+
+Ha ha ha.
+Don't worry.<PAGE>It's true that you've established quite a name
+for yourself in our industry, but you're known
+for being an all-around, handy man type of guild.
+
+## POINTER 4
+<STR>(KAR)
+Handy man...
+Umm...I guess that's
+who we are.
+
+## POINTER 5
+
+While we're on the topic, do
+you think you can help tidy up
+my warehouse again?
+
+## POINTER 6
+
+Oh? Will you help
+clean my warehouse?
+
+## POINTER 7
+<STR>(KAR)
+Hmm...
+
+## POINTER 8
+<STR>(KAR)
+Sure thing! Leave it to us!
+
+## POINTER 9
+
+And that, I shall do!
+I'm counting on you!
+
+## POINTER 10
+
+Well, it's nothing to stress
+over, yeah? Let me know if
+you change your mind.

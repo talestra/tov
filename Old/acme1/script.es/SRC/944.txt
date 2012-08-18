@@ -1,0 +1,153 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+
+¡Desde que perdimos a Barbos,
+hemos estado que da pena vernos!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+
+¡Y además el Pacto de Sangre ya no
+es uno de los cinco grandes gremios!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+
+¡Si el jefe no hubiera vendido la ciudad
+a Alexei, tendríamos una notable presencia
+en los gremios y una fortaleza respetable!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1294938198]
+
+Por culpa de los experimentos
+con blastias de Alexei, estamos
+estancados en estas malditas ruinas.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+
+Al menos conseguimos una buena
+parte del botín: ¡la lanza de
+ese puñetero jinete del dragón!<PAGE>He oído que es bastante famosa.
+Me lo dijo el viejo de la herrería.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+
+¿Quién osa entrar
+en nuestro escondite?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1294938339]
+<STR>(RIT)
+¿Sois los esbirros de Barbos?
+¡Esa lanza!...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+
+Un momento, estos son...
+Pero si son los memos que
+derrotaron al jefe en Ghasfarost.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+
+¡¿Q-Qué?! ¡No hemos
+hecho nada malo!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1294938198]
+
+¡Todo lo que hicimos fue
+porque el jefe nos lo ordenó!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1294938198]
+
+Mierda... ¡Larguémonos!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+<STR>(RIT)
+¡Esperad!
+Dadnos la lanza.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1294938198]
+
+¿P-Por qué?...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1294938198]
+<STR>(YUR)
+Pertenece a uno de nuestros miembros.
+Nos la vais a dar.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1294938198]
+<STR>(JUD)
+Chicos...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+
+Ni hablar, esta
+lanza es nuestra...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1294938198]
+<STR>(YUR)
+¿Qué, preparados para
+luchar por defenderla?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+
+D-Dita sea...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1294938198]
+<STR>(RIT)
+Toma.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1294938198]
+<STR>(JUD)
+¿De verdad me la das? Esta es la lanza
+con la que destruí todos esos blastias.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1294938198]
+<STR>(RIT)
+Es importante para ti, ¿no?
+¿No la estabas buscando?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+<STR>(JUD)
+Esta es la lanza de mi juramento...<PAGE>El juramento de que no importaría lo duro
+que fuese, incluso si nadie me entendiese
+o quisiese ayudarme, seguiría mi viaje con Ba'ul.<PAGE>En esta lanza juré el símbolo
+del vínculo que nos unía a Ba'ul y a mí.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1295019587]
+<STR>(YUR)
+Vaya, pues sí que es importante.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+<STR>(RIT)
+¡¿Y ya no ibas a
+intentar recuperarla?!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+<STR>(JUD)
+Gracias a vosotros he aprendido que
+puedes tener vínculos con alguien sin
+objetos físicos que los apoyen.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1295019587]
+<STR>(RIT)
+¡Pero <STR>(JUD)! ¡Jamás deberías
+olvidarte de los sentimientos
+que son importantes para ti!<PAGE>¡No tienes que rendirte!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1295019587]
+<STR>(JUD)
+Lo siento.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957942]
+<STR>(YUR)
+No deberías disculparte, <STR>(JUD_P).
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1295019587]
+<STR>(JUD)
+Tienes razón.
+Gracias, <STR>(RIT).
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1295019587]
+<STR>(RIT)
+¡N-No ha sido nada! Solo hablaba más de la cuenta y punto.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1296957947]
+<STR>(JUD)
+Gracias, de verdad...

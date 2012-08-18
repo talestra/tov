@@ -1,0 +1,48 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1251644087]
+¡Llamadlo por su nombre!
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266522783]
+(KAR)
+¡(EST_P), tu sopa de patata está buenísima!
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266522783]
+(YUR)
+No estoy acostumbrado a que la sopa esté fría,
+pero esto está realmente delicioso.
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266522783]
+(EST_P)
+No es sopa de patata.
+Se llama vichyssoise.
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266522783]
+(YUR)
+(EST_P), ¿cómo llamarías tú
+a una sopa hecha con cebollas?
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266522783]
+(EST_P)
+Sería sopa de cebolla, pero...
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266522783]
+(KAR)
+¡Entonces esto es sopa de patata!
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266522783]
+(EST_P)
+¡No, es vichyssoise!
+¡Es el nombre del plato!
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266522783]
+(YUR)
+Oye, (RIT). ¿Cómo llamarías
+tú a esta sopa?
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266522783]
+(RIT)
+Sopa de patata.
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266522783]
+(EST_P)
+¿Por qué nadie lo
+llama vichyssoise?...

@@ -1,0 +1,20 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS26_107)That might be Tokunaga's 
+smoke signal. I wonder if the 
+ceres blastia's working again.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS26_108)Let's get back and check it out.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS26_109)Come to mention it, we 
+won't be able to get back 
+the way we came.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS26_110)We'll just have to see if we 
+can't find a better way out.

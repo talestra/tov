@@ -1,0 +1,64 @@
+## POINTER 0
+<STR>(RIT)
+Wow, this place 
+is crazy...
+
+## POINTER 1
+Kaufman
+I guess I should've 
+known I might run 
+into you here.
+
+## POINTER 2
+<STR>(YUR)
+Are you here on some 
+business with Fortune's 
+Market?
+
+## POINTER 3
+Kaufman
+Unfortunately, not quite. I just learned 
+of this island, so I decided to 
+come and have a look around.
+
+## POINTER 4
+<STR>(RAV)
+So have ya figured out what 
+sorta place this is yet?
+
+## POINTER 5
+Kaufman
+It's a kind of...playground. A paradise where 
+people can come to forget the troubles of 
+their day-to-day lives and just have fun.
+
+## POINTER 6
+<STR>(KAR)
+It doesn't look 
+that way to me--
+
+## POINTER 7
+Kaufman
+See for yourself. I think 
+you'll see what I mean.<PAGE>You can exchange your Gald for 
+chips here. You might as well 
+do it sooner rather than later.
+
+## POINTER 8
+<STR>(EST_P)
+Yes, we'll do that.
+
+## POINTER 9
+Kaufman
+Well, have a good time. 
+I'll talk to you later.
+
+## POINTER 10
+<STR>(JUD)
+So then, you want 
+to try exchanging 
+our Gald for chips?
+
+## POINTER 11
+<STR>(YUR)
+Yeah, good idea.

@@ -1,0 +1,53 @@
+## POINTER 0
+<STR>(YUR)
+Ah, done so soon?
+
+## POINTER 1
+<STR>(JUD)
+Yes. That was so refreshing!
+
+## POINTER 2
+<STR>(RIT)
+What the hell's with that bath, anyway?
+
+## POINTER 3
+<STR>(YUR)
+Heh. Why are you so mad, <STR>(RIT)?
+
+## POINTER 4
+<STR>(EST_P)
+We overheard what <STR>(KAR) was going 
+on about. That's why we got 
+out of the water so soon.
+
+## POINTER 5
+<STR>(JUD)
+I don't see what the problem would've been with 
+giving the boys a little show, myself...<PAGE>We could've gotten <STR>(KAR) and <STR>(RAV) wrapped 
+around our little fingers...
+
+## POINTER 6
+<STR>(RIT)
+What are you talking about?!<PAGE>You realized that they could see 
+us from their side, didn't you?!<PAGE>That's why you got 
+out so quickly!
+
+## POINTER 7
+<STR>(JUD)
+Well, I wouldn't have 
+minded staying in.<PAGE>But I thought it'd more fun to watch your reactions 
+from outside the bath once you found out.
+
+## POINTER 8
+<STR>(EST_P)
+<STR>(JUD)... You're 
+mean.
+
+## POINTER 9
+<STR>(JUD)
+Oh, I'm sorry.
+
+## POINTER 10
+<STR>(RIT)
+I'm never getting in that 
+perverted hot spring again!

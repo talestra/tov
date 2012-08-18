@@ -1,0 +1,28 @@
+## POINTER 0
+<STR>(KAR)
+Oh, check this out. It's 
+a blastia model.
+
+## POINTER 1
+<STR>(YUR)
+Mmmm... Whoever made this 
+was pretty talented.
+
+## POINTER 2
+<STR>(EST_P)
+It's a model of a grand blastia. 
+It's not working, though.
+
+## POINTER 3
+<STR>(YUR)
+Grand blastia?
+
+## POINTER 4
+<STR>(EST_P)
+"Grand blastia refers to especially 
+large types of blastia, including but 
+not limited to barrier blastia."
+
+## POINTER 5
+<STR>(YUR)
+Read that in a book too, huh?

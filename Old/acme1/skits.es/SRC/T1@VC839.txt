@@ -1,0 +1,28 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1251836822]
+El desierto
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119072]
+(RIT)
+Este pueblo está solamente al borde del desierto,
+pero el calor ya hace que la cabeza me dé vueltas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297119089]
+(RAV)
+Los chavalines d'hoy día son unos esmirriaos.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267284469]
+(RIT)
+*Jadeo*
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267284469]
+(KAR)
+¡Vaya! (RIT) ni siquiera contesta.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267284469]
+(RIT)
+Qué calor... Qué calor hace.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267284469]
+(EST_P)
+Creo que tiene tanto calor
+que ni siquiera le ha oído.

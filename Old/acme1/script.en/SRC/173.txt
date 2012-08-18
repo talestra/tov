@@ -1,0 +1,106 @@
+## POINTER 0
+
+<VOICE>(VS15_145)Well, well, what do we have here? More 
+delicious snacks for my pet, it seems.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS15_146)So you're Ragou? 
+You've got some pretty 
+disgusting hobbies.
+
+## POINTER 2
+Ragou
+<VOICE>(VS15_147)Hobbies? Oh, you must 
+mean my basement.<PAGE><VOICE>(VS15_148)Only someone with my refined 
+sensibilities could understand the 
+pleasure I derive from such things.<PAGE><VOICE>(VS15_149)You're just like those senile old fools on 
+the council. They bored me to death 
+and never let me enjoy myself.<PAGE><VOICE>(VS15_150)It's the privilege of my exalted station 
+to dispel such boredom with the...help 
+of the common people.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS15_151)You can't mean that's your only 
+reason to do those things.
+
+## POINTER 4
+Ragou
+<VOICE>(VS15_152)Well, I suppose I should 
+go and fetch Rhybgaro.<PAGE><VOICE>(VS15_153)So many new toys... He ought 
+to put on quite a show. Though you 
+may not live long enough to see it...
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS15_154)There's no point in searching for Rhybgaro. 
+We've already taken care of him.
+
+## POINTER 6
+Ragou
+<VOICE>(VS15_155)...What did you say?
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS15_156)Are you deaf? 
+I said we've already 
+taken care of him.
+
+## POINTER 8
+Ragou
+<VOICE>(VS15_157)You... What have you done to my pet?
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS15_158)If you'd put a bell on it or 
+something, maybe you wouldn't 
+have lost track of it.
+
+## POINTER 10
+Ragou
+<VOICE>(VS15_159)Ah well, with a bit more money, I'll 
+soon be able to replace him.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS15_160)Ragou! How can you say such 
+things and still call yourself 
+a servant of the empire?!
+
+## POINTER 12
+Ragou
+<VOICE>(VS15_161)What? ...You... 
+But that's impossible!
+
+## POINTER 13
+Ragou
+<VOICE>(VS15_163)S-stay back! W-what do 
+you intend to do?!<PAGE><VOICE>(VS15_164)Someone! Arrest 
+these intruders!
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS15_165)We'll have enemies all over 
+the place if we don't hurry up 
+and finish what we came to do!
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS15_166)Hold it.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS15_167)...What? Don't we need to 
+create an emergency for the 
+Knights to respond to?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS15_168)It's still too soon. First 
+we need some evidence.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS15_169)We've got to find the blastia 
+that controls the weather.

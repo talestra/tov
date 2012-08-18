@@ -1,0 +1,50 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166281]
+
+¡¡Bienvenidos a la famosa refriega
+de treinta rivales de Palestrale!!<PAGE>Esta es la refriega
+más sencilla...
+¡Pero atención! <PAGE>¡Todos los oponentes que pueden ven
+son enemigos fieros y formidables!<PAGE>¡¿Cuántos será capaz de derrotar
+el participante de hoy?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166281]
+<STR>(YUR)
+Muy bien. Hora de liarla parda.
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270763159]
+<STR>(EST_P)
+¡Lo haré lo mejor que pueda!
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270763159]
+<STR>(KAR)
+¡Puedo conseguirlo!
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270763159]
+<STR>(RIT)
+Que el tío ese se calle ya...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166281]
+<STR>(RAV)
+Este nivel no debería
+ser mu complicao, ¿no?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166281]
+<STR>(JUD)
+Que esto por lo menos me sirva de
+calentamiento para las próximas refriegas.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115768]
+<STR>(RAP)
+¡¡Guau, guau!!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166452]
+
+¡¡Allá vamos!! Damas y caballeros, mantengan
+sus ojos bien abiertos. ¡No querrán perderse
+ni un segundo de semejante batalla!<PAGE>Preparados... 
+¡A luchar!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166281]
+
+¡¡Ooh!! ¡¡Se ha acabado el tiempo!!
+<PAGE>¡Casi, por poco!

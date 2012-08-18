@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251552452]
+Encantada de conocerte, (RAP)
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114466]
+(EST_P)
+¿Este perro es tuyo, (YUR)?
+
+## POINTER 2 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266279857]
+(YUR)
+Sí. Es mi compañero, (RAP).
+
+## POINTER 3 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266279857]
+(RAP)
+¡Guau!
+
+## POINTER 4 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266279857]
+(EST_P)
+¡Oh! Encantada de conocerte a ti también.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114466]
+(YUR)
+¿«A ti también»?
+¿Has entendido lo que ha dicho (RAP)?
+
+## POINTER 6 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266279857]
+(EST_P)
+No...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114480]
+(YUR)
+Ya. Supongo que ha sido una pregunta tonta.

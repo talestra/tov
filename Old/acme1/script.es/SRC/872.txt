@@ -1,0 +1,175 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273923620]
+Rich
+Mmpf...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1283156361]
+Karen
+Bienvenidos al Rey de la Aventura...
+¡Oh, sois vosotros!
+¡Qué alegría volver a veros! ♪
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273924508]
+<STR>(YUR)
+Sí, cuánto tiempo.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273923934]
+Karen
+¡Qué casualidad tan maravillosa
+el volver a encontrarnos otra vez!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+Rich
+Sabía que nos los
+encontraríamos de nuevo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+Karen
+Oh, hermano,
+¡qué rudo eres!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1283109884]
+<STR>(KAR)
+¿Quién es esta gente?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273924508]
+<STR>(EST_P)
+¡Son Karen y Rich! 
+Viajan y llevan una posada.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273924508]
+Karen
+¡Encantada de conocerte! ∀
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1275606484]
+Rich
+...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1283109884]
+<STR>(KAR)
+E-Encantado de conocerte...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+Karen
+Parece que tenéis más compañeros que
+la última vez que nos encontramos. ¡Qué bien!<PAGE>¿Querríais hacer un alto
+y descansar?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273924760]
+
+Mmpf...
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925009]
+
+¡Bienvenidos, queridos viajeros! ♪
+¿Os gustaría hacer un alto y descansar?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925009]
+<STR>(YUR)
+¿Eh? ¿Una posada?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806194]
+
+Es la choza para viajeros del Rey de la Aventura. ♪
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925049]
+
+Hacer un alto y descansar...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+
+Oh, hermano,
+¡qué rudo eres!
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925253]
+<STR>(KAR)
+¿Es una carreta y 
+a la vez una posada?
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925253]
+<STR>(EST_P)
+Qué trabajo más maravilloso
+realizáis. 
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925253]
+
+Viajamos por el mundo
+y a la vez operamos la posada.
+
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+Rich
+Me llamo Rich...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+Karen
+Me llamo Karen...<PAGE>¿Os gustaría descansar
+antes de partir?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925253]
+¿Quieres quedarte?
+Quedarse
+No quedarse
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+<STR>(YUR)
+Sí, me vendría bien.
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925648]
+<STR>(KAR)
+Estoy de acuerdo.
+Yo también estoy bastante cansado...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+<STR>(EST_P)
+Muy bien pues,
+aceptamos tu oferta.
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925648]
+Karen
+Por favor, sentíos como en casa.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925648]
+<STR>(KAR)
+*Bostezo*
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925648]
+Karen
+¿Has dormido bien?
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925648]
+<STR>(YUR)
+Sí, he dormido como un lirón.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+Karen
+¡Si por casualidad nos volvéis a ver,
+paraos un momento a saludarnos! ♪
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925824]
+<STR>(EST_P)
+Sí, muchas gracias.
+¡Sois tan amables!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+Rich
+Taluego...
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925824]
+Karen
+Hermano, te lo vuelvo a repetir,
+¡intenta ser más cortés!
+
+## POINTER 35 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273925824]
+<STR>(YUR)
+No estamos tan cansados.
+Quizás en otra ocasión.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+Karen
+¿De verdad?<PAGE>Si nos volvéis a ver y estáis cansados, 
+por favor, ¡haced un alto en el camino! 
+¡Os estaremos esperando! ∀
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856429]
+Rich
+Taluego...

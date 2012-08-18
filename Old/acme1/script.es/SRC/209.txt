@@ -1,0 +1,147 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294632]
+<STR>(YUR)
+<VOICE>(VS19_023)Esto es una locura. ¿De dónde
+salen todos estos monstruos?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438925]
+<STR>(KAR)
+<VOICE>(VS19_024)¡Algo no va bien!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294632]
+<STR>(EST_P)
+<VOICE>(VS19_025)¿Los monstruos no
+parecen diferentes?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438925]
+<STR>(RIT)
+<VOICE>(VS19_026)¡Aquí vienen!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438925]
+<STR>(RIT)
+<VOICE>(VS19_027)¡Maldita sea!
+¡No paran de aparecer!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438925]
+
+<VOICE>(VS19_028)¡Aah!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(YUR)
+<VOICE>(VS19_029)¡Mierda!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438925]
+
+<VOICE>(VS19_030)Muchas gracias.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1273438925]
+<STR>(YUR)
+<VOICE>(VS19_031)¡No es nada! ¡Corre!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(YUR)
+<VOICE>(VS19_032)¡Maldita sea! ¡No lo voy a conseguir!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294632]
+
+<VOICE>(VS19_033)¡Venid p'acá, gusanos asquerosos, que os daré
+pa'l pelo! ¡Venid a comprobar qué se siente
+cuando te machaca un vejestorio!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(YUR)
+<VOICE>(VS19_034)El viejo ese va a ir en serio
+a por ellos. ¿Quién narices es?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(KAR)
+<VOICE>(VS19_035)¡Es el Don! 
+¡Es Don Whitehorse!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(YUR)
+<VOICE>(VS19_036)Conque ese es, ¿eh?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+
+<VOICE>(VS19_037)¡Es el Don! ¡El Don está aquí!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+
+<VOICE>(VS19_038)
+¡Vamos a echar a esta basura
+fuera de aquí! ¡Defended la ciudad!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+
+<VOICE>(VS19_039)¡¡Nadie se burla de los Nubes del Alba!!
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(EST_P)
+<VOICE>(VS19_041)¡<STR>(FRE)!
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(FRE)
+<VOICE>(VS19_042)¡Venimos a ayudaros
+a echar a los monstruos!
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+Don Whitehorse
+<VOICE>(VS19_043)¡Quieto parao, soldadito!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294632]
+Don Whitehorse
+<VOICE>(VS19_044)No nos perdonaríamos nunca que los
+Caballeros nus hagáis el trabajo sucio.
+¡Salid d'aquí a toda leche!
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(FRE)
+<VOICE>(VS19_045)¡¿En serio cree que es momento para eso?!
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+Don Whitehorse
+<VOICE>(VS19_046)¡Todos y cada uno de los que están
+aquí abandonaron el Imperio por
+voluntad propia pa unirse a un gremio!<PAGE><VOICE>(VS19_047)Ni uno de ellos es
+tan mojigato como pa ir
+corriendo a pediros ayuda.
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(FRE)
+<VOICE>(VS19_048)¡Pero...!
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+Don Whitehorse
+<VOICE>(VS19_049)Estas son las reglas que hemos
+escogido para vivir. El no romperlas
+depende de nosotros.
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(YUR)
+<VOICE>(VS19_050)Se aferran a sus creencias sea
+lo que sea lo que esté en juego...<PAGE><VOICE>(VS19_051)Conque así es como
+es un gremio en realidad.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(RIT)
+<VOICE>(VS19_052)¡Oye, tú!
+Guíanos.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298294632]
+<STR>(KAR)
+<VOICE>(VS19_053)¡«Tú» tiene nombre, ¿sabes?!
+¿A-Adónde queréis ir, de todas formas?
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(EST_P)
+<VOICE>(VS19_054)Vamos a reparar la barrera blastia.
+¡Si no lo hacemos, los monstruos
+acabarán invadiendo la ciudad!
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(RIT)
+<VOICE>(VS19_055)¡Tú también te vienes!
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273846073]
+<STR>(YUR)
+<VOICE>(VS19_056)Supongo que no me queda otra.

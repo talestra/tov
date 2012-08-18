@@ -1,0 +1,25 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1282142122]
+Blastias
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287612821]
+(EST_P)
+Las flores de Halure son realmente preciosas.
+Me siento como si estuviera dentro de un sueño.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287612821]
+(YUR)
+Sí, son más bonitas de lo que imaginaba.
+
+## POINTER 3 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266666587]
+(KAR)
+¡Parece que todo el esfuerzo ha valido la pena!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287612821]
+(YUR)
+Los habitantes de Halure ya no deberían
+preocuparse por los ataques de los monstruos
+mientras la barrera siga en pie.
+
+## POINTER 5 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266666587]
+(EST_P)
+El árbol de Halure mantendrá a todos a salvo.

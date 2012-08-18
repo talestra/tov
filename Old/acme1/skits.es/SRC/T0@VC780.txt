@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1251562053]
+(RAP) y (JUD)
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115071]
+(JUD)
+¿Es este también un miembro de vuestro grupo?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283330]
+(YUR)
+Sí, aunque no se lleva muy bien
+con la gente. No te lo tomes a mal.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283330]
+(JUD)
+Me llamo (JUD). Encantada de conocerte.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283330]
+(RAP)
+*Gemido*
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115071]
+(EST_P)
+Eh... ¿Por qué deja
+que (JUD) le acaricie?
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267403213]
+(RAV)
+Será que ar mu perro le van las chicas guapas.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283330]
+(EST_P)
+¡Pero yo también soy una chica guapa!
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283330]
+(JUD)
+Oh, vaya.
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267283330]
+(EST_P)
+¿Por qué no le caigo bien?

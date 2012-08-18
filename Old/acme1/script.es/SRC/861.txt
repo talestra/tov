@@ -1,0 +1,152 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+
+¡Palurdo! ¡No tienes ni repajolera
+idea de lo que estás diciendo!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+
+¡Repite eso, currito
+de tres al cuarto!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+
+¡Maldita sea! ¡Vigila tu lengua!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+<STR>(YUR)
+Esta ciudad no ha cambiado nada...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+
+¡Ya es suficiente!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+Natz
+¡Vosotros dos!
+¡Parad ahora mismo!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+
+¡¿Y tú quién eres?!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765202]
+Natz
+Soy Natz, de Palestrale. 
+Soy el Adalid provisional.<PAGE>No sé por qué razón estáis
+discutiendo, pero os ayudaré
+a resolverlo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+
+¿Resolverlo?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765202]
+Natz
+¿Qué sentido tiene que os liéis
+a espadazos en la vía pública?<PAGE>Si vais ir por ese camino, comportaos
+como hombres y hacedlo en el coliseo.<PAGE>Así no solo lo resolveréis,
+sino que el ganador se ganará
+una reputación. ¿Qué me decís?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+
+Hijo de... No tengo tiempo
+para una chorrada como esa...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+Natz
+¿Oh? Entonces usaré la autoridad de
+mi gremio para enviaros al calabozo por
+perturbación de la paz. ¿Qué os parece eso?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765202]
+
+Mierda...
+¡No vale la pena
+por algo así! Mmpf...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+
+Muchas gracias, Natz.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765202]
+Natz
+No sé qué habrá pasado aquí, pero
+si os hubierais peleado, tú habrías
+recibido también ese castigo.<PAGE>Por favor, ten más cuidado de ahora en adelante.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+
+Sí...
+L-Lo siento...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1294104463]
+Natz
+Buena suerte con el negocio.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765202]
+Natz
+Oh... Sois vosotros. Hola. Todavía estoy
+en deuda con vosotros por lo que hicisteis.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+<STR>(YUR)
+Parece que las cosas se han puesto chungas
+por aquí desde que falleció Belius.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765202]
+Natz
+Lo que le pasó a la Adalid fue
+una tragedia... No obstante...<PAGE>No podíamos depender eternamente
+de ella para resolver todos
+nuestros problemas.<PAGE>Esta es una ciudad humana. Es cosa nuestra mantenernos
+unidos y conseguir vivir juntos en paz.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765202]
+<STR>(YUR)
+Así que te estas ocupando
+de ocupar temporalmente
+el puesto de Adalid.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+Natz
+Así es. Tendremos unas elecciones muy pronto para
+determinar quién ocupa oficialmente el puesto.
+A saber quién resulta elegido.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+<STR>(YUR)
+Creo que la gente de Nordopólica
+ya te ha elegido a ti como líder.
+O al menos eso me parece a mí.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+
+¡Grrr! ¡Apartaos de mi camino!
+¡Apartad, apartad, apartad!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+Natz
+Esto no acaba nunca...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765202]
+Natz
+Pasaos luego un rato, si queréis.<PAGE>Podemos tomar un té juntos
+y compartir batallitas.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+<STR>(YUR)
+Cuenta con ello.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765202]
+<STR>(KAR)
+Vaya, sí que está ocupado... ♪
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+<STR>(YUR)
+Ya. Ocuparse de tantos follones
+a diario no puede ser fácil.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1294104394]
+<STR>(JUD)
+Espero que sepa llevarlo bien...

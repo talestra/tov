@@ -1,0 +1,99 @@
+## POINTER 0
+<STR>(EST_P)
+Huh? It looks like a dead end...
+
+## POINTER 1
+<STR>(JUD)
+No, it's not. Look! 
+There's a ladder.
+
+## POINTER 2
+<STR>(KAR)
+But we can't use that to get upstairs.
+
+## POINTER 3
+<STR>(RAV)
+Maybe there's somethin' we could 
+do to bring it down, eh?
+
+## POINTER 4
+<STR>(RIT)
+We need aer.
+
+## POINTER 5
+<STR>(EST_P)
+Aer?
+
+## POINTER 6
+<STR>(RIT)
+Yes. If this conduction tube 
+were supplying aer, the ladder 
+might be able to move down.
+
+## POINTER 7
+<STR>(KAR)
+How do we make that happen?
+
+## POINTER 8
+<STR>(RIT)
+How about you try to figure out things yourself for once?
+
+## POINTER 9
+<STR>(KAR)
+Maybe if we used that gear?
+
+## POINTER 10
+<STR>(RIT)
+Correct. But it looks like just moving that one 
+gear won't be enough to power the aer flow.
+
+## POINTER 11
+<STR>(YUR)
+So you're saying there are other gears we need to move?
+
+## POINTER 12
+<STR>(YUR)
+All right, let's go look for them..
+
+## POINTER 13
+<STR>(KAR)
+You don't know, do you?
+
+## POINTER 14
+<STR>(RIT)
+...You're not going to 
+get it until I really 
+hit you for once, eh?
+
+## POINTER 15
+<STR>(KAR)
+Wait, you mean all those other times 
+you weren't hitting for real?
+
+## POINTER 16
+<STR>(YUR)
+Cut it out, you two. Let's 
+go and look for some 
+way to get up there.
+
+## POINTER 17
+<STR>(KAR)
+Maybe if we used that gear?
+
+## POINTER 18
+<STR>(RIT)
+Correct. That was pretty 
+quick, coming from you.
+
+## POINTER 19
+<STR>(KAR)
+Cha-ching! Oh yeah!!
+
+## POINTER 20
+<STR>(RIT)
+Don't get so full of yourself!
+
+## POINTER 21
+<STR>(YUR)
+All right, wanna go 
+move that gear, then?

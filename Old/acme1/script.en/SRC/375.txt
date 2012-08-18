@@ -1,0 +1,96 @@
+## POINTER 0
+<STR>(KAR)
+...Oh, <STR>(YUR)...
+
+## POINTER 1
+<STR>(YUR)
+What's the matter? You look 
+more serious than usual.
+
+## POINTER 2
+<STR>(KAR)
+Yeah... I was just thinking 
+about how hard it is to put 
+a guild together...<PAGE>I thought things might 
+go okay since I was with 
+you guys, but...
+
+## POINTER 3
+<STR>(YUR)
+...Have you lost faith in your 
+ability to lead the guild?
+
+## POINTER 4
+<STR>(KAR)
+No, not at all! I'm working 
+as hard as I can...!
+
+## POINTER 5
+<STR>(YUR)
+All right, then I'll borrow 
+from your attitude and do 
+the best I can, too!
+
+## POINTER 6
+<STR>(KAR)
+...Hey, <STR>(YUR). Can I 
+ask you something?
+
+## POINTER 7
+<STR>(YUR)
+Yeah?
+
+## POINTER 8
+<STR>(KAR)
+Is it true that you...that you 
+killed Ragou and Cumore?
+
+## POINTER 9
+<STR>(YUR)
+It's true.
+
+## POINTER 10
+<STR>(KAR)
+How could you keep that from me...?
+
+## POINTER 11
+<STR>(YUR)
+I kept meaning 
+to tell you.<PAGE>I'm sorry.
+
+## POINTER 12
+<STR>(KAR)
+Even though I think it's 
+bad...you don't regret 
+killing them, do you?
+
+## POINTER 13
+<STR>(YUR)
+Yeah, I don't.
+
+## POINTER 14
+<STR>(KAR)
+...I just don't 
+know...<PAGE><STR>(FRE) and <STR>(EST_P) were trying to 
+bring them to justice, too...<PAGE>Did you really have 
+to kill them?
+
+## POINTER 15
+<STR>(YUR)
+I think there are some things 
+that you have to do, even 
+if they're a crime.<PAGE>Someone has to do them, even 
+if it means taking the blame.
+
+## POINTER 16
+<STR>(KAR)
+Maybe so, but even still...
+
+## POINTER 17
+<STR>(YUR)
+I just did what 
+had to be done.<PAGE>You shouldn't force yourself to try to accept what I did.
+
+## POINTER 18
+<STR>(KAR)
+Yeah.

@@ -1,0 +1,132 @@
+## POINTER 0
+<STR>(KAR)
+Oh, Nan!
+
+## POINTER 1
+Nan
+<STR>(KAR).
+
+## POINTER 2
+<STR>(KAR)
+This is the same place we met last time.
+
+## POINTER 3
+Nan
+Yes.
+
+## POINTER 4
+<STR>(KAR)
+Have you been okay? What have 
+you been doing since I saw you?
+
+## POINTER 5
+Nan
+Nothing much...
+
+## POINTER 6
+<STR>(KAR)
+I, I see.
+
+## POINTER 7
+<STR>(KAR)
+Oh, about your 
+Monster Book...<PAGE>I finally finished filling it with monsters!
+
+## POINTER 8
+Nan
+Huh...?!
+
+## POINTER 9
+Nan
+You managed to do a full ecological survey 
+of the world's monsters, something the 
+Hunting Blades couldn't even do...
+
+## POINTER 10
+<STR>(KAR)
+Heh heh...
+I guess I've just gotten 
+a little more skilled since 
+I left the Hunting Blades?
+
+## POINTER 11
+Nan
+......<PAGE>Didn't I tell you...not to report 
+all of this stuff to me?
+
+## POINTER 12
+<STR>(KAR)
+Y-yeah. But since you were 
+the one who gave me the book...I 
+wanted you to know.
+
+## POINTER 13
+Nan
+I see. Don't you and your friends have 
+an important mission to be doing?
+
+## POINTER 14
+<STR>(KAR)
+...Yes, you're right. 
+I'm sorry.
+
+## POINTER 15
+Nan
+Y-you don't have to apologize!
+
+## POINTER 16
+<STR>(KAR)
+Huh?
+
+## POINTER 17
+Nan
+Why did you hold onto 
+that book for so long?<PAGE>It was blank! 
+It was useless!<PAGE>I thought you'd never 
+be able to finish it!
+
+## POINTER 18
+<STR>(KAR)
+Wh-what are you talking about, Nan?
+
+## POINTER 19
+Nan
+...And then, before I knew 
+it...
+You overtook me...
+
+## POINTER 20
+<STR>(KAR)
+Nan, cheer up!
+
+## POINTER 21
+Nan
+Why would you want to...care 
+about me...
+
+## POINTER 22
+<STR>(KAR)
+Nan...
+
+## POINTER 23
+<STR>(YUR)
+Let's go to the inn to wait for him.
+
+## POINTER 24
+<STR>(JUD)
+Oh, that's thoughtful of you, <STR>(YUR).
+
+## POINTER 25
+<STR>(RIT)
+They're still just a couple of kids!
+
+## POINTER 26
+<STR>(EST_P)
+Love is ageless! ♪
+Good luck, <STR>(KAR)! ♪
+
+## POINTER 27
+<STR>(RAV)
+Ahh, young love...
+How 
+bittersweet!

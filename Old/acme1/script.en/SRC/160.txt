@@ -1,0 +1,236 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS15_063)All finished?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS15_064)And are we done whispering secrets?
+
+## POINTER 2
+<STR>(FRE)
+<VOICE>(VS15_065)I've heard your story up until this 
+point, <STR>(YUR). And also the reason 
+for the bounty on your head.
+
+## POINTER 3
+<STR>(FRE)
+<VOICE>(VS15_066)First off, I owe you my thanks 
+for protecting her.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS15_067)Oh, I've been meaning to express 
+my gratitude as well, <STR>(YUR).
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS15_068)It's nothing. I was already out searching 
+for that blastia thief.
+
+## POINTER 6
+<STR>(FRE)
+<VOICE>(VS15_069)And that's where we have a problem.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS15_070)Hmm?
+
+## POINTER 8
+<STR>(FRE)
+<VOICE>(VS15_071)Regardless of the circumstances, the imperial 
+law cannot allow the obstruction of officers, 
+jail breaking, and trespassing.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS15_072)I'm sorry. I'm afraid 
+I told him everything.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS15_073)Don't be sorry. I mean,
+I did all that stuff.
+
+## POINTER 11
+<STR>(FRE)
+<VOICE>(VS15_074)Then I assume you are prepared to receive 
+the punishment your actions deserve.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS15_075)<STR>(FRE)?!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS15_076)Do whatever you like, but just 
+listen a minute, will you?
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS15_077)So you can tell me how it was all done in order 
+to get back the lower quarter's blastia core? 
+That's what you wanted to say, right?
+
+## POINTER 15
+
+<VOICE>(VS15_078)Sir <STR>(FRE), I have news... Wh-what 
+is <STR>(RIT) doing here?!
+
+## POINTER 16
+
+<VOICE>(VS15_079)I heard you refused an imperial 
+request for assistance.<PAGE><VOICE>(VS15_080)Do you think it's all right for a mage 
+employed by the empire to 
+simply abandon her obligations?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS15_081)Who's that?
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS15_082)Got me...
+
+## POINTER 19
+
+<VOICE>(VS15_083)...Humph, whatever. It's 
+not like I care a whit 
+about you either.
+
+## POINTER 20
+<STR>(FRE)
+<VOICE>(VS15_084)I'll make the introductions. 
+This is my second-in-command, Sodia.
+
+## POINTER 21
+<STR>(FRE)
+<VOICE>(VS15_085)This is Witcher, a mage who 
+offered his assistance to us 
+at the laboratory in Aspio.
+
+## POINTER 22
+<STR>(FRE)
+<VOICE>(VS15_086)This is my...
+
+## POINTER 23
+Sodia
+<VOICE>(VS15_087)You...! Sir, it's the criminal 
+from the wanted poster!!
+
+## POINTER 24
+<STR>(FRE)
+<VOICE>(VS15_088)At ease, Sodia...! He 
+is a friend of mine.
+
+## POINTER 25
+Sodia
+<VOICE>(VS15_089)What?! But Sir, he's a wanted man!
+
+## POINTER 26
+<STR>(FRE)
+<VOICE>(VS15_090)I've just heard his story. While he is 
+guilty of minor crimes, the warrant for 
+his arrest contains false accusations.<PAGE><VOICE>(VS15_091)Later, I will return him to the capital 
+and explain the situation. <PAGE><VOICE>(VS15_092)And he will receive 
+his due punishment.
+
+## POINTER 27
+Sodia
+<VOICE>(VS15_093)My... my mistake, Sir. Witcher,
+let's have your report.
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VS15_094)So we're done here, right?
+
+## POINTER 29
+Witcher
+<VOICE>(VS15_095)I believe the ongoing 
+rain and wind are being 
+caused by a blastia.
+
+## POINTER 30
+Witcher
+<VOICE>(VS15_096)The weather in this season is unpredictable, 
+but this does not explain why it 
+worsens whenever boats leave port.
+
+## POINTER 31
+Sodia
+<VOICE>(VS15_097)We also have testimony that something 
+like a blastia was carried into 
+Magistrate Ragou's residence.
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VS15_098)I've never heard anything
+about a blastia that 
+controlled the weather. <PAGE><VOICE>(VS15_099)Nothing like that has ever been excavated... 
+Wait, the aque blastia, the ruins... 
+It couldn't be...
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS15_100)So his lordship, the magistrate, is using
+a blastia to control the weather.
+
+## POINTER 34
+Sodia
+<VOICE>(VS15_101)...It appears that way, though 
+we can't yet say for certain.
+
+## POINTER 35
+Sodia
+<VOICE>(VS15_102)The harbor has been closed due to 
+weather. Any ship that leaves is fired 
+on for disobeying the ordinance.
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS15_103)So much for crossing 
+over to Torim...
+
+## POINTER 37
+<STR>(FRE)
+<VOICE>(VS15_104)Those aren't the only rumors 
+surrounding the magistrate.<PAGE><VOICE>(VS15_105)He's released a monster known as Rhybgaro into 
+the wild, and amuses himself by forcing those 
+who can't pay their taxes to hunt it.<PAGE><VOICE>(VS15_106)He claims he'll pardon their taxes if 
+they can manage to capture the beast.
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS15_107)How cruel...
+
+## POINTER 39
+<STR>(RIT)
+<VOICE>(VS15_108)That injured couple we met 
+near the entrance must be 
+two of his victims.
+
+## POINTER 40
+<STR>(KAR)
+<VOICE>(VS15_109)And their child...
+
+## POINTER 41
+<STR>(FRE)
+<VOICE>(VS15_110)What? What happened to their child?
+
+## POINTER 42
+<STR>(YUR)
+<VOICE>(VS15_111)Forget about it.
+
+## POINTER 43
+<STR>(YUR)
+<VOICE>(VS15_112)Well, it's been a hell of a day for 
+us and we're tired. Let's just stay 
+at this inn for the night.
+
+## POINTER 44
+Sodia
+<VOICE>(VS15_113)Also...we can't forget about 
+a certain "missing person..."
+
+## POINTER 45
+<STR>(EST_P)
+<VOICE>(VS15_114)...Missing person?

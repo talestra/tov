@@ -1,0 +1,101 @@
+## POINTER 0
+
+Ohhh, it's soooo 
+hot out here...
+
+## POINTER 1
+<STR>(JUD)
+Hello there.
+
+## POINTER 2
+<STR>(JUD)
+Oh? Oops! Did you get an eyeful just now?
+
+## POINTER 3
+
+N-no, I d-didn't see anything! I didn't 
+even see if there was anything to see!
+
+## POINTER 4
+<STR>(JUD)
+Oh, is that so...that's a shame.
+
+## POINTER 5
+
+A sh-shame...?
+
+## POINTER 6
+<STR>(JUD)
+Are you going to make me say it out loud?
+
+## POINTER 7
+
+Err... 
+...?
+
+## POINTER 8
+<STR>(JUD)
+I've fallen madly in love with 
+your big, strong...work ethic.
+
+## POINTER 9
+
+M-madly in love...?!
+
+## POINTER 10
+<STR>(JUD)
+Mmmhmmm... So...you get 
+what I'm saying, right?
+
+## POINTER 11
+
+Err.... Maybe...?
+
+## POINTER 12
+<STR>(JUD)
+Maybe I'll just have to come out and make 
+it clear. Would you like for you and me 
+to...have a little fun? *wink*
+
+## POINTER 13
+
+Yeah! B-but...there's someone 
+back in the capital I promised 
+to marry...
+
+## POINTER 14
+<STR>(JUD)
+Oh, don't be such 
+a stick in the mud.
+
+## POINTER 15
+
+But, I...hmm...
+
+## POINTER 16
+<STR>(YUR)
+Good work.
+
+## POINTER 17
+<STR>(KAR)
+Can't believe adults can be 
+easily fooled like this.
+
+## POINTER 18
+<STR>(YUR)
+And, how long are you going 
+to stay in that costume?
+
+## POINTER 19
+<STR>(JUD)
+I guess this calls too much attention.
+I'll leave it at the shop.
+
+## POINTER 20
+<STR>(EST_P)
+But what was the "fun" thing 
+you were talking about?
+
+## POINTER 21
+<STR>(JUD)
+Going for a swim.

@@ -1,0 +1,57 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1294858848]
+
+Muchas gracias.
+No es demasiado, pero acepta
+esto como muestra de gratitud.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907483]
+<STR>(KAR)
+¡Gracias! ¡Gran Vesperia
+está siempre a tu servicio!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907483]
+
+Ya veo...
+Bueno...<PAGE>Nah, tranquilo.
+Vuelve cuando
+estés preparado.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551832]
+
+Perdonad, pero ¿no seréis
+los de Gran Vesperia?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294858848]
+<STR>(KAR)
+¿Eh? Sí, somos nosotros...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907590]
+
+Os quiero pedir un favor.
+¿Podríais ayudarme a
+limpiar el almacén?<PAGE>Ahora no tenemos a nadie, y nos iría
+muy bien que nos echarais una mano.
+Os pagaremos por el trabajo, claro.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907590]
+
+¿Qué me decís?
+¿Nos ayudáis a limpiarlo?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294858848]
+<STR>(KAR)
+Mmm...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1294858848]
+<STR>(KAR)
+¡No hay problema! ¡Déjanoslo a nosotros!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294858848]
+
+¡Muchas gracias!
+Pues empecemos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296907590]
+
+¿No podéis? Qué lástima.
+Avisadme si cambiáis de idea.

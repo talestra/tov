@@ -1,0 +1,134 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS12_001)If you're that worried about <STR>(FRE), 
+would you rather leave now?
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS12_002)It's just... I've got to say 
+a proper goodbye to <STR>(RIT)...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS12_003)Then take it easy.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS12_004)What are you gonna 
+do after this, <STR>(YUR)?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS12_005)I guess I'll go pay a visit to the 
+guy behind all this core stealing.<PAGE><VOICE>(VS12_006)It sounds like Dedecchi ended up 
+going to the same place, too.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS12_007)In that case, we should make 
+a beeline for Nor Harbor.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS12_008)Didn't he say 
+Torim Harbor?
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS12_009)Oh right, you don't know.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS12_010)Don't know what?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS12_011)Nor and Torim are both ports 
+of a city that extends across 
+two different continents.<PAGE><VOICE>(VS12_012)On the Ilyccian side, where we 
+are now, is the port of Capua Nor.
+People call it Nor Harbor.<PAGE><VOICE>(VS12_013)Capua Torim is the port on the other 
+side, on the Tolbyccian continent. 
+It's usually just called Torim Harbor.<PAGE><VOICE>(VS12_014)So first we'll go to Nor Harbor. We'll 
+have to pass by Ehmead Hill on the way, 
+but it's not that far west from here.
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS12_015)I'll be going back to Halure. 
+I still need to follow <STR>(FRE).
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS12_016)...Hmm, I don't know. Maybe I'll 
+head back to Halure, too.
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS12_017)Huh? Why? How can you 
+just say that? The thief's 
+gonna get away!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS12_018)There's no reason to panic. According 
+to our friend in the ruins, it sounds 
+like his client's based there.<PAGE><VOICE>(VS12_019)Besides, if we're going west, that 
+will take us close to Halure.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS12_020)Aww man, but I...
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS12_021)You gotta be somewhere? A sick 
+girlfriend with an incurable 
+disease or something?
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS12_022)Man, if only she really was 
+a frail girl like that...
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS12_023)I know I asked you to wait for me, but you 
+sure made yourselves at home, didn't you?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS12_026)Sorry for suspecting you.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS12_027)What a heartfelt apology. 
+I'll take it though. It worked 
+out pretty well for me, too.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS12_028)<STR>(RIT)?
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS12_029)Well, thanks for the hospitality.
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS12_030)What? Going so soon?
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS12_031)We don't want to overstay our welcome. 
+Plus, we're in a bit of a hurry.
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS12_032)I'm so happy to have met you, <STR>(RIT). 
+I'm afraid we have to go now. 
+I'll thank you properly later.
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS12_033)Okay...

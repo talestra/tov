@@ -1,0 +1,136 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(YUR)
+¡¿Es eso de ahí?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(KAR)
+Menuda nube de polvo.
+¡¿Todo eso son monstruos?!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297634379]
+<STR>(JUD)
+Parece que se debe a que
+Ástal ha perdido el control.<PAGE>Es como si todos los monstruos
+del mundo se hubieran reunido aquí.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(EST_P)
+¿En serio <STR>(FRE)
+está por aquí?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(YUR)
+Probablemente.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156184]
+<STR>(RAV)
+¿Y ahora qué?
+¿Vamos a luchar contra tós?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156184]
+<STR>(YUR)
+¿No podemos usar la Dein Nomos
+que creaste, <STR>(RIT)?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156184]
+<STR>(RAV)
+¿Vas a borrarlos del mapa
+como si fuesen el adephagos?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156184]
+<STR>(RIT)
+Veamos...<PAGE>Aplicando direccionalidad al poder de los
+espíritus y formando un campo de fuerza similar
+a una barrera para eliminar a los monstruos...<PAGE>Sí, debería ser posible.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(JUD)
+Pero esto fue creado para usarlo
+contra el adephagos, ¿verdad?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(KAR)
+Pero ahora mismo
+no nos queda otra.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(YUR)
+¿Nos dejas usarlo?
+¿Por favor?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(EST_P)
+Yo también te lo pido.<PAGE>La Dein Nomos...
+Quiero creer que puede
+salvar a la humanidad.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(RIT)
+Sí, si no podemos acabar con esto
+fácilmente, ni hablar del peluquín
+que vamos a poder con el adephagos.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(JUD)
+De acuerdo. Vamos allá.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(RAV)
+Qué raro que <STR>(YUR)
+haya pedío un favor.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(KAR)
+¡Esta es la nuestra para hacer un favor a <STR>(YUR)!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1287473989]
+<STR>(YUR)
+Tíos, cortad el rollo.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(JUD)
+¿Cuál es el plan?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1287473989]
+<STR>(RIT)
+Activarlo en la zona donde haya más monstruos.
+Y punto pelota. Simple, ¿verdad?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(YUR)
+Pues sí.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1287068781]
+<STR>(RAV)
+Ya ves.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156184]
+<STR>(KAR)
+¿Y si le ponemos un nombre?<PAGE>No lo vamos a llamar la Dein Nomos de <STR>(RIT)...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156184]
+<STR>(RIT)
+¿Eh? Te lo dejo a ti.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298762673]
+<STR>(KAR)
+Uh, mmm, aah... ¡Ya lo tengo!
+¿Qué tal «Vesperia Uno»?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1287069125]
+<STR>(RIT)
+Debería haberlo imaginado...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1287473989]
+<STR>(YUR)
+Pues no está nada mal.
+Suena bien y es sencillo.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1287069125]
+<STR>(JUD)
+Incluso Ba'ul tendrá que mantener
+las distancias. Aterrizaremos por aquí.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1287069125]
+<STR>(YUR)
+Muy bien, vamos allá.

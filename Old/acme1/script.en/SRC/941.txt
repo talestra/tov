@@ -1,0 +1,37 @@
+## POINTER 0
+<STR>(JUD)
+Can I ask you a question? 
+Does Fortune's Market 
+deal in spears?
+
+## POINTER 1
+Kaufman
+We do, but... If you'd like to sell 
+that, you'd be better off going directly 
+to a store than talking to me.
+
+## POINTER 2
+<STR>(JUD)
+No, I don't want to sell it... I wanted 
+to see if maybe I could see other 
+spears that have been sold to you.
+
+## POINTER 3
+<STR>(YUR)
+You're still trying to find that 
+spear of yours, aren't you?
+
+## POINTER 4
+<STR>(JUD)
+......
+
+## POINTER 5
+Kaufman
+It seems you have some personal stake in this, 
+but I don't think it's been sold to us.<PAGE>If any of our vendors received any 
+valuable items, no matter what they 
+are, I would've heard of it.<PAGE>And I haven't heard anything...
+
+## POINTER 6
+<STR>(JUD)
+I see...

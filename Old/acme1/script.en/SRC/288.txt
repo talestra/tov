@@ -1,0 +1,174 @@
+## POINTER 0
+<STR>(EST_P)
+It'll be nice if we don't run 
+into the mermen, won't it?
+
+## POINTER 1
+<STR>(RIT)
+Hmph, that's pretty 
+wishful thinking.
+
+## POINTER 2
+<STR>(RAV)
+You're quite the pessimist 
+for your age, girlie.
+
+## POINTER 3
+<STR>(RIT)
+I'm just a realist.
+
+## POINTER 4
+Kaufman
+Anyway, thanks for your help. It looks like 
+we're going to make it there on time.
+
+## POINTER 5
+
+Yeah, Leviathan's Claw was going to beat us there 
+if we hadn't found an escort for the ship.
+
+## POINTER 6
+<STR>(YUR)
+Leviathan's Claw, huh? That's a name 
+I seem to be hearing a lot lately.
+
+## POINTER 7
+Kaufman
+Oh? They're the guild that's specializing 
+in sales of hoplon blastia.
+
+## POINTER 8
+<STR>(RIT)
+Oh, that explains the situation in Heliord...
+
+## POINTER 9
+Kaufman
+Lately they've been 
+trying to steal our 
+clients from us.<PAGE>If we weren't able to cross the 
+sea, they would've swiped up another 
+one of our major customers.
+
+## POINTER 10
+
+Still, I can't help but wonder 
+where those slimeballs are getting 
+their product from.
+
+## POINTER 11
+Kaufman
+Indeed. Hoplon blastia isn't exactly 
+the easiest thing in the world 
+to get one's hands on.
+
+## POINTER 12
+<STR>(RIT)
+...You don't think...the empire is behind this...?
+
+## POINTER 13
+<STR>(RIT)
+No, that couldn't be...it's mages that are 
+supervising the blastia distribution...
+
+## POINTER 14
+Kaufman
+Ah, right on time.
+
+## POINTER 15
+Tokunaga
+Everyone, be careful!
+
+## POINTER 16
+Kaufman
+You're true to your reputation. 
+I was right to bring you along.
+
+## POINTER 17
+<STR>(RAV)
+I tell ya, Brave Vesperia doesn't have any shame 
+in working an old man down to the bone!<PAGE>Even while I'm looking for apatheia and 
+doing all sorts of other things...
+
+## POINTER 18
+<STR>(YUR)
+Apatheia? Isn't that what you were 
+looking for back in Nor Harbor?
+
+## POINTER 19
+<STR>(RAV)
+That's right.
+
+## POINTER 20
+<STR>(RIT)
+That's nothing but a fairy tale.<PAGE>I researched it a while back, but eventually 
+I realized that there's simply no way 
+it can theoretically exist.
+
+## POINTER 21
+<STR>(RAV)
+I'm well aware people 
+think it's a fairy 
+tale.
+
+## POINTER 22
+<STR>(EST_P)
+Why are you looking 
+for it?
+
+## POINTER 23
+<STR>(RAV)
+Well... Because the 
+Don told me to.
+
+## POINTER 24
+Kaufman
+Well then, we've got some business 
+to talk about. I'll leave the navigation 
+to you, Tokunaga.
+
+## POINTER 25
+Tokunaga
+Actually, Madam President, would 
+you mind if I handed over the navigation 
+to them for a while?
+
+## POINTER 26
+Kaufman
+Ah, of course. We've made much better 
+time than I thought. We could even afford 
+to make a side trip or two.
+
+## POINTER 27
+<STR>(JUD)
+With a ship, we can go practically 
+anywhere we want.
+
+## POINTER 28
+<STR>(KAR)
+<STR>(EST_P), I know you want 
+to look for Phaeroh...<PAGE>But don't you think we have more important 
+things to do for the moment?
+
+## POINTER 29
+<STR>(EST_P)
+Do you think...?
+
+## POINTER 30
+<STR>(RIT)
+I'll do what I want. 
+Don't worry about me.
+
+## POINTER 31
+<STR>(YUR)
+We just started our guild...we 
+should err on the safe side. 
+Don't you think, <STR>(KAR)?
+
+## POINTER 32
+<STR>(KAR)
+Y-yeah.
+
+## POINTER 33
+Tokunaga
+All right then, I'll leave 
+the navigation to you.

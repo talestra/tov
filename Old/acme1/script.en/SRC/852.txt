@@ -1,0 +1,74 @@
+## POINTER 0
+
+This is your final warning!<PAGE>Once you proceed, you cannot go 
+back! Have you made up your mind?
+
+## POINTER 1
+Are you prepared?
+Yes
+No
+
+## POINTER 2
+<STR>(YUR)
+Yeah, I've made up my mind. Let me pass.
+
+## POINTER 3
+<STR>(EST_P)
+Of course I have! 
+I'm going in.
+
+## POINTER 4
+<STR>(KAR)
+I-I've made up 
+my mind...!
+
+## POINTER 5
+<STR>(RIT)
+Argh! I've had enough 
+of your scare tactics!<PAGE>You'd better be ready 
+for ME, punk!
+
+## POINTER 6
+<STR>(JUD)
+Yes, of course. Let 
+me pass, please.
+
+## POINTER 7
+<STR>(RAV)
+Yeah, yeah, I've made up my mind. 
+Ya got me curious not ta wanna 
+see what yer hidin' in there.
+
+## POINTER 8
+
+Then pass.<PAGE>You're about to enter an infinite and merciless
+labyrinth from which you can never return,
+where hopeless confusion awaits you!
+
+## POINTER 9
+<STR>(YUR)
+Sounds good to me! Bring it on!
+
+## POINTER 10
+<STR>(EST_P)
+...Here I go...
+
+## POINTER 11
+<STR>(KAR)
+...L-labyrinth...?! Oh man, 
+I hope I don’t get lost...
+
+## POINTER 12
+<STR>(RIT)
+Who's afraid of a little 
+labyrinth?! Not me...
+
+## POINTER 13
+<STR>(JUD)
+Hehe, sounds like 
+this could be fun.
+
+## POINTER 14
+<STR>(RAV)
+Eek, scary...Maybe I should've 
+brought a change of diapers...

@@ -1,0 +1,86 @@
+## POINTER 0
+Teagle
+...Thank you so 
+much, Doctor.
+
+## POINTER 1
+<STR>(YUR)
+Thank goodness you came. 
+You'd returned from 
+Heliord, then?
+
+## POINTER 2
+Kellas
+Yes. I still can't thank you 
+enough for your help before.
+
+## POINTER 3
+Teagle
+Now that there's 
+a new magistrate,<PAGE>Nor had become a much nicer place 
+to live...but now, with that sky 
+looking the way it is...
+
+## POINTER 4
+Pauly
+Hey mister, hey mister, didja hear it? There 
+was a loud sound like BOOOOM and then everything 
+was shaking like an earthquake!
+
+## POINTER 5
+Kellas
+A town official is currently 
+going to see what happened.
+
+## POINTER 6
+Pauly
+Hey, where's that nice lady who 
+was with you? Is she gone?
+
+## POINTER 7
+<STR>(YUR)
+!
+
+## POINTER 8
+Teagle
+Now that I think of it, that girl 
+would've been able to heal your 
+wounds. What happened to her?
+
+## POINTER 9
+<STR>(RAV)
+...A certain worthless idiot handed 
+her over to the bad guy. Now we're 
+chasing after them.
+
+## POINTER 10
+<STR>(YUR)
+...
+
+## POINTER 11
+Teagle
+I see...I guess I shouldn't 
+have asked.
+
+## POINTER 12
+<STR>(JUD)
+I'm sorry, but she's 
+away for today.
+
+## POINTER 13
+Pauly
+Oh, really...
+
+## POINTER 14
+<STR>(RIT)
+Don't worry, the next time we come 
+we'll bring her with us for sure.
+
+## POINTER 15
+Pauly
+Really?! Yaaay!
+
+## POINTER 16
+Teagle
+For now, you should 
+just get some rest.

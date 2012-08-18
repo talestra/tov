@@ -1,0 +1,37 @@
+## POINTER 0
+<STR>(YUR)
+What a place to get
+ourselves lost...
+
+## POINTER 1
+<STR>(EST_P)
+Um...About getting through
+Deidon Hold...
+
+## POINTER 2
+<STR>(YUR)
+Is that right?
+
+## POINTER 3
+<STR>(EST_P)
+Didn't we just pass this place?
+
+## POINTER 4
+<STR>(YUR)
+Ooh...Is that what it was?
+
+## POINTER 5
+<STR>(EST_P)
+This forest...
+
+## POINTER 6
+<STR>(YUR)
+Huh?
+
+## POINTER 7
+<STR>(EST_P)
+Oh...N..Nevermind...<PAGE>Let's turn back.
+
+## POINTER 8
+<STR>(YUR)
+Yeah.

@@ -1,0 +1,100 @@
+## POINTER 0
+<STR>(KAR)
+Hmm...it looks like they 
+aren't following us.
+
+## POINTER 1
+<STR>(RAV)
+Yeah, but they went and sealed 
+off a dangerous place like this 
+just to isolate Nordopolica.<PAGE>These guys mean business.
+
+## POINTER 2
+<STR>(RIT)
+Seriously, even bringing 
+monsters to help?
+
+## POINTER 3
+<STR>(JUD)
+Whatever they're 
+doing, it can't be good.
+
+## POINTER 4
+<STR>(EST_P)
+I can't believe that 
+<STR>(FRE) would order 
+something like this...
+
+## POINTER 5
+<STR>(RAV)
+Sometimes orders comin' down from the 
+top don't make sense. The meaning can 
+get lost going down the chain of command.<PAGE>When a brigade gets big and 
+famous enough, things can 
+start to get outta hand.
+
+## POINTER 6
+<STR>(YUR)
+You certainly know a lot 
+about these things. Makes 
+sense for someone in Altosk.
+
+## POINTER 7
+<STR>(RAV)
+Things can end up like that no 
+matter what the organization.
+
+## POINTER 8
+<STR>(YUR)
+What worries me...is 
+how much of a hand 
+<STR>(FRE) had in all this.
+
+## POINTER 9
+<STR>(RAV)
+I'm sure we'll get a good 
+understandin' of that as soon 
+as we can get to Nordopolica.
+
+## POINTER 10
+<STR>(EST_P)
+That's right.
+
+## POINTER 11
+<STR>(JUD)
+But we should 
+be on our guard.<PAGE>Even though I find it hard to 
+believe that they've conquered 
+Nordopolica by force...
+
+## POINTER 12
+<STR>(KAR)
+Yeah, I think the Palestralle 
+would have a problem with that.
+
+## POINTER 13
+<STR>(YUR)
+Sorry, <STR>(RIT). You won't get 
+much time to investigate 
+the aer krene.
+
+## POINTER 14
+<STR>(RIT)
+Grr... Oh well... I don't have 
+much choice. It'd be bad 
+if they caught up to us.
+
+## POINTER 15
+<STR>(YUR)
+Exactly. Come on. 
+Let's get going.
+
+## POINTER 16
+<STR>(KAR)
+<STR>(YUR) sure is enthusiastic.
+
+## POINTER 17
+<STR>(RAV)
+He won't say it, but 
+I reckon he's just 
+worried about his friend.

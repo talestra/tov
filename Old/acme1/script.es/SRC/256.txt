@@ -1,0 +1,210 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(EST_P)
+<VOICE>(VS24_028)Parece que esta zona
+ha vuelto a la normalidad.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(KAR)
+<VOICE>(VS24_029)Sí. Supongo que no ha vuelto
+a perder el control desde entonces.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(YUR)
+<VOICE>(VS24_030)Eh, son la gente que
+conocimos en Puerto Nor.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+Pauly
+<VOICE>(VS24_031)¡Señorita <STR>(EST_P)!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(EST_P)
+<VOICE>(VS24_032)¿Cómo estáis?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(JUD)
+<VOICE>(VS24_033)¿Quiénes son?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(KAR)
+<VOICE>(VS24_034)Ayudamos a estas personas
+en Puerto Nor.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+Kellas
+<VOICE>(VS24_035)No sé cómo daros las gracias por todo
+lo que habéis hecho por nosotros.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(EST_P)
+<VOICE>(VS24_036)¿Dónde está tu padre?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+Kellas
+<VOICE>(VS24_037)Teagle, mi marido, lleva
+tres días sin aparecer...
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(KAR)
+<VOICE>(VS24_038)Parece que aquel rumor
+puede ser cierto...
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(YUR)
+<VOICE>(VS24_039)¿Tienes alguna pista?
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279126267]
+Kellas
+<VOICE>(VS24_040)Sí. La noche anterior a su
+desaparición volvió a hablar
+sobre convertirse en noble...
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(EST_P)
+<VOICE>(VS24_041)¿Convertirse en noble?
+¿Qué quiere decir?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298321426]
+Kellas
+<VOICE>(VS24_042)En cuanto la ciudad esté terminada,
+podremos vivir aquí como miembros
+de la nobleza.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(EST_P)
+<VOICE>(VS24_043)¿Eh? Eso no tiene
+mucho sentido.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+Kellas
+<VOICE>(VS24_044)¿Qué quiere decir?
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(EST_P)
+<VOICE>(VS24_045)Solo se permite entrar en la nobleza
+a aquellos con cuyo trabajo se hayan
+ganado la confianza del emperador.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1303088489]
+Kellas
+<VOICE>(VS24_046)¡P-Pero don Cumore nos dio
+su palabra! ¡Dijo que nos
+convertiríamos en nobles!
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(EST_P)
+<VOICE>(VS24_047)Cumore... ¿El oficial
+de los Caballero Imperiales?
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+Kellas
+<VOICE>(VS24_048)Sí. Él es el magistrado
+de la ciudad ahora mismo.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(YUR)
+<VOICE>(VS24_049)No me digas...
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(KAR)
+<VOICE>(VS24_050)Pero no deja de ser raro.
+Quiero decir... el trono
+imperial sigue vacante.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298321426]
+Kellas
+<VOICE>(VS24_051)Pero entonces... entonces ¿por
+qué hemos estado trabajando tanto?
+¿Y qué hay de Teagle?
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279126267]
+Pauly
+<VOICE>(VS24_052)¿Papá no va a volver?
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(EST_P)
+<VOICE>(VS24_053)Oye, <STR>(YUR)...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298321426]
+<STR>(YUR)
+<VOICE>(VS24_054)Vas a pedirme que nuestro
+gremio se encargue de esto,
+¿verdad?
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(EST_P)
+<VOICE>(VS24_055)Os prometo que pagaré la tasa
+tanto de lo mío como de lo suyo.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(KAR)
+<VOICE>(VS24_056)Bueno... vale, está bien.
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+Kellas
+<VOICE>(VS24_057)¿Qué? Pero yo...
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(JUD)
+<VOICE>(VS24_058)Entonces nuestro siguiente trabajo
+es encontrar a alguien desaparecido.
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(YUR)
+<VOICE>(VS24_059)Y si Cumore ha vuelto a las andadas,
+habrá que darle una buena para que pare
+de una vez.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298321426]
+<STR>(EST_P)
+<VOICE>(VS24_060)Sí. Los Caballeros existen
+para proteger al pueblo.
+
+## POINTER 33 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279126267]
+<STR>(KAR)
+<VOICE>(VS24_061)P-Pero vayamos con cuidado.<PAGE><VOICE>(VS24_062)Los Caballeros pueden machacar
+a un gremio pequeño como el nuestro
+si les tocamos las narices.
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(YUR)
+<VOICE>(VS24_063)Como quieras.
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(EST_P)
+<VOICE>(VS24_064)Te prometo que encontraremos
+a tu padre. Espéranos aquí.
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(YUR)
+<VOICE>(VS24_065)Bueno, ya está.
+Aceptamos el trabajo.
+
+## POINTER 37 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+Kellas
+<VOICE>(VS24_066)Gracias.
+¡Muchísimas gracias!
+
+## POINTER 38 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(YUR)
+<VOICE>(VS24_067)Vale, vamos a buscarlo.
+
+## POINTER 39 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(JUD)
+<VOICE>(VS24_068)Esa zona de ahí parece
+muy sospechosa.
+
+## POINTER 40 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(YUR)
+<VOICE>(VS24_069)Ya. Sobre todo teniendo
+en cuenta que está indicada
+como zona restringida.
+
+## POINTER 41 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(EST_P)
+<VOICE>(VS24_070)Me pregunto si habrá alguna
+forma de colarnos dentro...
+
+## POINTER 42 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275513511]
+<STR>(KAR)
+<VOICE>(VS24_071)Con cuidado, chicos. No lo olvidéis.

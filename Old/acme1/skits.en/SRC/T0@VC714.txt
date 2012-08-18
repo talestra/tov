@@ -1,0 +1,39 @@
+## POINTER 0
+Guilds
+
+## POINTER 1
+(YUR)
+That woman who gave us directions--she 
+said she was in a guild, right?
+
+## POINTER 2
+(EST_P)
+That was Ms. Kaufman, of Fortune's Market.
+
+## POINTER 3
+(YUR)
+Man... Giving up their rights as imperial 
+citizens and just...living free...
+
+## POINTER 4
+(EST_P)
+(YUR), are you interested in the guilds?
+
+## POINTER 5
+(YUR)
+Interested? Nah, I've just never had much contact with them.
+
+## POINTER 6
+(YUR)
+Back in the capital there weren't any gritty guild 
+types who'd refuse the Knights' protection.
+
+## POINTER 7
+(EST_P)
+We may meet lots of people in guilds 
+before we're done with our trip.
+
+## POINTER 8
+(YUR)
+I hope they're a little less aggressive 
+than that woman was.

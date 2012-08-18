@@ -1,0 +1,351 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Aquí se venden recuerdos.
+Hay galletas, pañuelos y pines. 
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+¿Todo esto está a la venta?
+Hay muchos yukatas como muestra.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Hay algunos ciervos
+retozando en el jardín.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264329965]
+Hay un test de Landolt 
+colgado de la pared.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+Aquí hay una báscula de baño.
+Parece que le han dado más uso
+que la del baño para hombres.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Alguien se ha dejado esto.
+Es un pequeño trozo
+de tela blanca.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+Está abierto, pero sería tontería
+entrar. No es más que un almacén.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1282298915]
+Está cerrado.
+Debe ser un cuarto para invitados.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Está cerrado a cal y canto.
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1265613699]
+Domina los cielos
+con el poder del anillo.<PAGE>
+Cuando las ocho alas se extiendan,
+un círculo de luz brillará
+sobre la Hija de la Luna Llena
+y se abrirá la cuarta puerta.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+Domina los cielos con
+el poder del anillo.<PAGE>
+Cuando los dos pares de alas estén totalmente
+extendidos, ella llorará bajo los crudos rayos
+de luz y la segunda puerta se abrirá.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264330315]
+Domina los cielos con
+el poder del anillo.<PAGE>
+Cuando la de las pequeñas alas sonría gentilmente
+en la oscuridad, la primera puerta se abrirá.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1265582524]
+Domina los cielos con
+el poder del anillo.<PAGE>
+Con la envergadura de tres pares de alas,
+su reflejo aparecerá en el quebrado
+espejo de medio cuerpo. Solo entonces
+se abrirá la tercera puerta.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264330473]
+La primera puerta se abrirá 
+cuando la de las pequeñas alas
+sonría gentilmente en la oscuridad.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264330473]
+La segunda puerta se abrirá sobre
+los dos pares de alas.
+Ella llorará bajo los crudos rayos
+de luz.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1265582524]
+La tercera puerta se abrirá sobre
+los tres pares de alas.
+Su reflejo aparecerá en el quebrado
+espejo de medio cuerpo.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264330913]
+La cuarta puerta se abrirá sobre
+los cuatro pares de alas.
+Un anillo de luz brillará sobre ella,
+la Hija de la Luna Llena.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264330913]
+La primera puerta se abrirá 
+cuando la de las pequeñas alas
+sonría gentilmente en la oscuridad.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264330913]
+La segunda puerta se abrirá sobre
+los dos pares de alas.
+Ella llorará bajo los crudos rayos
+de luz.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1265582524]
+La tercera puerta se abrirá sobre
+los tres pares de alas.
+Su reflejo aparecerá en el quebrado
+espejo de medio cuerpo.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264330913]
+La cuarta puerta se abrirá sobre
+los cuatro pares de alas.
+Un anillo de luz brillará sobre ella,
+la Hija de la Luna Llena.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+De uno a cuatro,
+de delante a atrás,
+de la oscuridad a la luz.
+Desvíate y el desastre acontecerá...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+Está cerrado.
+Debe ser un cuarto para invitados.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+Está cerrado.
+Debe ser un cuarto para invitados.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+Está cerrado.
+Debe ser un cuarto para invitados.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+¡A todos los pintores de retratos!
+
+A todos los que pensáis que podéis
+dibujar el MEJOR Lloyd, ¡un paso al frente!
+¡No importa si lo dibujáis en papel,
+hojas o corteza de árbol; cualquier
+material es bienvenido! ∀
+Enviad vuestras inscripciones a «Lloyd real».
+¡Esperamos vuestros trabajos!
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+El gran árbol de Halure
+se alza enorme.
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+El agua entra en la casa
+a través de un tallo.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+¿Esto de aquí son blastias?
+Parece un montón de chatarra.
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Es un blastia para meterse bajo tierra.
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Es un blastia para meterse bajo tierra.
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Es un blastia para meterse bajo tierra.
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Es un blastia para meterse bajo tierra.
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Aquí hay un blastia.
+Parece que no lo han usado en mucho tiempo.
+Y parece que todavía funciona.
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Los blastias están apilados
+como basura inservible.
+
+## POINTER 35 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Se ven edificios en la lejanía.
+Solo Ba'ul podría llegar hasta ellos.
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Hay alguien durmiendo de la tienda.
+Sería de mala educación mirar dentro.
+
+## POINTER 37 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Aquí hay una pila de manzanas.
+No estaría nada bien mangar una.
+
+## POINTER 38 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Aquí hay materiales apilados.
+
+## POINTER 39 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Una laguna para transportar.
+Está conectada a un río
+que parece dar al mar.
+
+## POINTER 40 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Una parcela de cultivo de verduras.
+
+## POINTER 41 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Está abierto.
+Pero no es más que un almacén.
+
+## POINTER 42 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Están en una reunión.
+Será mejor no interrumpirla.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+Hay algunas herramientas
+que están usando en
+la construcción de la ciudad.
+Parece que <STR>(FRE) también está ayudando.
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+«Proyecto de levantamiento urbano»
+Es la letra de <STR>(FRE).
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+Está cerrado.
+Debe ser por razones de seguridad.
+
+## POINTER 46 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Código de la Espada Sagrada
+ 
+1. Entrégate a un entrenamiento diario.
+2. Mantén un estado mental y espiritual puros.
+3. Mantén tu espada en óptimas condiciones.
+
+## POINTER 47 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Aquí hay un buen montón
+de barriles.
+
+## POINTER 48 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Las cosas están totalmente
+tiradas por ahí.
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+Esta tienda es un «sírvase usted mismo».
+Vaya al mostrador para hacer un pedido.
+
+## POINTER 50 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Aquí hay un nombre escrito.<PAGE>
+Sa...
+Sa... ¿Sakuraba?
+
+## POINTER 51 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+Has mirado dentro.
+...<PAGE>
+Tu cara se está poniendo roja.
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+Una armadura pesada para llevar
+en el frente. A juzgar por su tamaño,
+debe ser del Don...
+
+## POINTER 53 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+La bandera de la Unión.
+La Unión está fundada y controlada
+por los cinco grandes gremios.
+
+## POINTER 54 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+La bandera de Altosk, también conocido como la Flecha Celestial.
+Gremio dirigido por Don Whitehorse.
+El más poderoso de los cinco grandes gremios de la Unión.
+
+## POINTER 55 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+La bandera de Pacto de Sangre.
+Gremio dirigido por Barbos.
+Uno de los cinco grandes gremios de la Unión.
+
+## POINTER 56 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+La bandera de Fortuna Mercantil.
+Gremio comerciante dirigido por Kaufman.
+Uno de los cinco grandes gremios de la Unión.
+
+## POINTER 57 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+La bandera de los Herreros Espirituales.
+Gremio de herreros que fabrica armas y armaduras.
+Uno de los cinco grandes gremios de la Unión.
+
+## POINTER 58 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+La bandera de Portal de Ruinas.
+Gremio dedicado a la excavación de blastias.
+Uno de los cinco grandes gremios de la Unión.
+
+## POINTER 59 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103214]
+La bandera de Altosk, también conocido como la Flecha Celestial.
+Gremio dirigido por Don Whitehorse.
+El más poderoso de los cinco grandes gremios de la Unión.
+
+## POINTER 60 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103214]
+La bandera de Pacto de Sangre.
+Gremio dirigido por Barbos.
+Uno de los cinco grandes gremios de la Unión.
+
+## POINTER 61 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103214]
+La bandera de Altosk, también conocido como la Flecha Celestial.
+Gremio dirigido por Don Whitehorse.
+El más poderoso de los cinco grandes gremios de la Unión.
+
+## POINTER 62 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103214]
+La bandera de Pacto de Sangre.
+Gremio dirigido por Barbos.
+Uno de los cinco grandes gremios de la Unión.
+
+## POINTER 63 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103214]
+La bandera de Fortuna Mercantil.
+Gremio comerciante dirigido por Kaufman.
+Uno de los cinco grandes gremios de la Unión.
+
+## POINTER 64 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+La bandera de los Herreros Espirituales.
+Gremio de herreros que fabrica armas y armaduras.
+Uno de los cinco grandes gremios de la Unión.
+
+## POINTER 65 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103075]
+La bandera de Portal de Ruinas.
+Gremio dedicado a la excavación de blastias.
+Uno de los cinco grandes gremios de la Unión.
+
+## POINTER 66 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103214]
+La bandera de Altosk, también conocido como la Flecha Celestial.
+Gremio dirigido por Don Whitehorse.
+El más poderoso de los cinco grandes gremios de la Unión.
+
+## POINTER 67 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264331182]
+La bandera de Pacto de Sangre.
+Gremio dirigido por Barbos.
+Uno de los cinco grandes gremios de la Unión.
+
+## POINTER 68 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103450]
+Hay un gel de manzana
+en el retrete.
+¡No pienso cogerlo! ¡Qué asco!
+
+## POINTER 69 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103450]
+Todavía se pueden ver
+indicios de una batalla...
+
+## POINTER 70 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103450]
+Hay algo atascado.
+No se abre.
+
+## POINTER 71 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1264103450]
+Hay algo dentro.
+
+## POINTER 72 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1264329673]
+Está lleno de equipo.
+
+## POINTER 73 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532761]
+El escritorio del Don.
+Hay varios libros
+apilados sobre él.

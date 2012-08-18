@@ -1,0 +1,197 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(KAR)
+<VOICE>(VS36_280)¡¡Esperaaad!!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(EST_P)
+<VOICE>(VS36_281)¡<STR>(KAR)!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298483862]
+<STR>(KAR)
+<VOICE>(VS36_282)¡Esperad! Uff...
+*Resoplido*<PAGE><VOICE>(VS36_283)Voy... uff...
+con vosotros.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485419]
+<STR>(KAR)
+<VOICE>(VS36_284)Tal vez aún no entienda
+del todo las cosas que
+el Don me quiso decir.<PAGE>
+<VOICE>(VS36_285)Pero Gran Vesperia es mi...
+no, nuestro gremio. Así que...
+¡así que tengo que ir con vosotros!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(EST_P)
+<VOICE>(VS36_286)<STR>(KAR).
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284796344]
+<STR>(KAR)
+<VOICE>(VS36_287)Creo que si huyese, si
+abandonase a mis amigos, ¡sería
+el fin! No podría volver.<PAGE>
+<VOICE>(VS36_288)Por eso... por eso tengo que ir.
+¡Por favor, dejadme ir con vosotros!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294373590]
+<STR>(YUR)
+<VOICE>(VS36_289)Por supuesto. Eres el jefe
+de esta banda, capitán.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284796344]
+<STR>(KAR)
+<VOICE>(VS36_290)¡<STR>(YUR)! ¡Gracias!<PAGE>
+<VOICE>(VS36_291)Pero... deja de
+llamarme «jefe».
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(YUR)
+<VOICE>(VS36_292)¿Mmm?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027266]
+<STR>(KAR)
+<VOICE>(VS36_293)Aún... aún no he
+hecho nada para
+merecer ese título.<PAGE>
+<VOICE>(VS36_294)Hasta que pienses que
+soy un jefe de verdad...<PAGE>
+<VOICE>(VS36_295)Hasta que no me avergüence cuando
+alguien me llama «jefe»...<PAGE>
+<VOICE>(VS36_296)Solo haré mi parte
+como miembro
+de Gran Vesperia. 
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(YUR)
+<VOICE>(VS36_297)Muy bien, <STR>(KAR). 
+No es un mal plan.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(KAR)
+<VOICE>(VS36_298)¡Chachi!
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(RIT)
+<VOICE>(VS36_299)Nunca acabamos con estos gremios.
+Puñeteros idiotas impulsivos.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(RAV)
+<VOICE>(VS36_300)Mmm, sí. Mu juvenil, ¿verdá?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485419]
+<STR>(RIT)
+<VOICE>(VS36_301)¡Aaah! ¡¿V-Viejales?!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485419]
+<STR>(RAV)
+<VOICE>(VS36_302)Aah, qué espléndida qu'es la juventú.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(YUR)
+<VOICE>(VS36_303)¿Qué tramas?
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(RAV)
+<VOICE>(VS36_304)¿Ein? ¿Está mal que
+yo esté por aquí?
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284796344]
+<STR>(EST_P)
+<VOICE>(VS36_305)Bueno, ¿no estás ocupadísimo por
+la muerte del Don y todo eso?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485419]
+<STR>(RAV)
+<VOICE>(VS36_306)No sé, tó parecía un poquillo
+mu molesto, así que me he escabullío.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(KAR)
+<VOICE>(VS36_307)Pero le debes mucho al Don.
+¿No estás triste?
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(RAV)
+<VOICE>(VS36_308)¿Triste? He llorao tanto que mi
+garganta s'ha quedao ronca
+y m'he quedao sin lágrimas.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(RIT)
+<VOICE>(VS36_309)Pues vaya, porque no se
+te nota nada de nada.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485560]
+<STR>(YUR)
+<VOICE>(VS36_310)Je, así que ni <STR>(RAV) el Grande
+es capaz de ignorar las
+últimas palabras del Don.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284796344]
+<STR>(RAV)
+<VOICE>(VS36_311)¿D-De qué hablas?
+¿Es que no m'has escuchao? Era una
+carga mu pesá pa esta bestia.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(RAV)
+<VOICE>(VS36_312)Estoy seguro de que
+se las pueden apañar
+bastante bien sin mí.
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(YUR)
+<VOICE>(VS36_313)Vale,
+lo dejaremos ahí.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485560]
+<STR>(RAV)
+<VOICE>(VS36_314)Oh... Estos niños de
+hoy en día, ya te digo.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(EST_P)
+<VOICE>(VS36_315)Ahora ya podemos
+ir a Desier, ¿verdad?
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(KAR)
+<VOICE>(VS36_316)¿Eh? ¿Por qué volvemos allí?
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284796344]
+<STR>(RAV)
+<VOICE>(VS36_317)Menuda corazonada has tenío.
+El monte Temza está al norte
+de las Arenas de Kogorh.<PAGE>
+<VOICE>(VS36_318)Si no recuerdo mal,
+allí hay una ciudad krityana.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485560]
+<STR>(RIT)
+<VOICE>(VS36_319)¿Se puede saber cómo
+es que sabes algo así?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298485560]
+<STR>(RAV)
+<VOICE>(VS36_320)Bueno, tengo más del doble de
+tu edá, así que está claro que
+sé el doble de cosas que tú.
+
+## POINTER 33 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(RIT)
+<VOICE>(VS36_321)Ya...
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(RAV)
+<VOICE>(VS36_322)¿Vamos o no?
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(KAR)
+<VOICE>(VS36_323)¿Podemos llegar al norte
+de Kogorh en barco?
+
+## POINTER 36 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281781874]
+<STR>(YUR)
+<VOICE>(VS36_324)Ya lo averiguaremos
+cuando lleguemos.

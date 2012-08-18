@@ -1,0 +1,282 @@
+## POINTER 0
+
+<VOICE>(VS39_014)It's them!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS39_015)Get out of our way!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS39_016)Now, then. At least we 
+don't have to worry about 
+being shot at anymore.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS39_017)We might have stopped 
+the Knights, but we've still 
+got to deal with this guy.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS39_018)Hmm... He's not a Hermes 
+blastia, but the formula's 
+been encrypted...
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS39_019)Care to explain in English?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS39_020)Basically, without a key 
+to decode the formula, 
+we can't turn it off.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS39_021)So I assume breaking 
+the code isn't...
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS39_022)...No, it's not easy. 
+Even if I could break it, 
+that would take time.<PAGE><VOICE>(VS39_023)Hmm... Maybe if I...
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS39_024)I don't think this will 
+take much time at all.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS39_025)Wait... But 
+you said...!
+
+## POINTER 11
+
+<VOICE>(VS39_026)Heeelp...!!
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS39_027)What are you 
+doing here...?!
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS39_028)Perhaps he is this 
+blastia's engineer.
+
+## POINTER 14
+
+<VOICE>(VS39_029)N-no! I mean, I am an 
+engineer, and all, but I...I 
+was just following orders.<PAGE><VOICE>(VS39_030)I...I swear I never wanted to get 
+involved in something like this...
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS39_031)Undo the code and 
+stop this blastia, now!
+
+## POINTER 16
+
+<VOICE>(VS39_032)Y-yes, of course, 
+right away...!
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS39_033)I'm sorry for surprising 
+you back there.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS39_034)Humph... Duh. I knew right 
+away you were only trying 
+to make me jump.
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS39_035)Oh...?
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS39_036)At least that's one problem down. Now we
+can go to Myorzo, once the weather clears.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS39_037)No!!
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS39_038)What is it...?
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS39_039)Aaah...!!
+
+## POINTER 24
+<STR>(KAR)
+<VOICE>(VS39_040)Y-Y-<STR>(YUR)...
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS39_041)I could use your 
+help here, kid.
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS39_042)A-ah, right...!
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS39_043)Should've known they'd 
+have another one of these.
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS39_044)<STR>(YUR)...don't tell me you 
+did that to keep me 
+from using my power...!
+
+## POINTER 29
+<STR>(RAV)
+<VOICE>(VS39_045)Don't you think that 
+was a bit reckless?
+
+## POINTER 30
+<STR>(JUD)
+<VOICE>(VS39_046)Indeed...do you have 
+a death wish?
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS39_047)...This? This is nothing.
+
+## POINTER 32
+<STR>(EST_P)
+<VOICE>(VS39_048)<STR>(YUR), I’m sorry... 
+It was my fault...
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS39_049)Hey, you did the same 
+for us before, right? 
+Now we're even.
+
+## POINTER 34
+<STR>(EST_P)
+<VOICE>(VS39_050)But...
+
+## POINTER 35
+<STR>(JUD)
+<VOICE>(VS39_051)<STR>(EST_P), perhaps a 
+simple "thank you" 
+would do best.
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS39_052)I... Th-thank you.
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VS39_053)Moving right along... 
+We'd better do something 
+about that other blastia.
+
+## POINTER 38
+<STR>(RIT)
+<VOICE>(VS39_054)Hey, you wouldn't 
+happen to know...<PAGE><VOICE>(VS39_055)Hey!
+
+## POINTER 39
+<STR>(KAR)
+<VOICE>(VS39_056)He's gone! That 
+engineer got away!
+
+## POINTER 40
+<STR>(RAV)
+<VOICE>(VS39_057)Fast little bugger... We'd 
+better catch him quick.
+
+## POINTER 41
+<STR>(RIT)
+<VOICE>(VS39_058)Wait.
+
+## POINTER 42
+<STR>(RIT)
+<VOICE>(VS39_059)I'll just have to do it again.<PAGE><VOICE>(VS39_060)They'll find us with the hoplon 
+blastia sooner or later if we just 
+go tramping through the woods.<PAGE><VOICE>(VS39_061)And if that happens, somebody 
+might get it in their fool head 
+to go and play hero again.
+
+## POINTER 43
+<STR>(KAR)
+<VOICE>(VS39_062)Y-yeah...but you said it wasn't easy...
+
+## POINTER 44
+<STR>(RIT)
+<VOICE>(VS39_063)As long as the Knights aren't 
+around, we don't have to worry 
+so much about how long it takes.<PAGE><VOICE>(VS39_064)Besides, who do you think 
+you're dealing with? I'm the 
+genius mage, <STR>(RIT) Mordio.<PAGE><VOICE>(VS39_065)If it's me versus a blastia, 
+I'll win or die trying.
+
+## POINTER 45
+<STR>(KAR)
+<VOICE>(VS39_066)...Let's hope it doesn't 
+come to that...
+
+## POINTER 46
+<STR>(EST_P)
+<VOICE>(VS39_067)What are you doing?
+
+## POINTER 47
+<STR>(RIT)
+<VOICE>(VS39_068)If we leave it like this, someone 
+could use it again. I'll just make 
+a few adjustments.<PAGE><VOICE>(VS39_069)...I'm sorry.
+
+## POINTER 48
+<STR>(RAV)
+<VOICE>(VS39_070)Ahh, nothin' shines quite so bright 
+as a young person with somethin' 
+they're willin ta risk their life for.
+
+## POINTER 49
+<STR>(YUR)
+<VOICE>(VS39_071)For somebody who's stood on death's 
+doorstep, saying you'll do something or 
+die trying isn't just a figure of speech.
+
+## POINTER 50
+<STR>(RAV)
+<VOICE>(VS39_072)Huh? Death's doorstep?
+
+## POINTER 51
+<STR>(YUR)
+<VOICE>(VS39_073)Didn't you say you almost 
+died during the Great War?
+
+## POINTER 52
+<STR>(RAV)
+<VOICE>(VS39_074)Ah, forgot I mentioned that.<PAGE><VOICE>(VS39_075)...Well... Only the livin' have 
+the privilege of sayin' they'll 
+fight ta the last breath.<PAGE><VOICE>(VS39_076)And words like conviction 
+and resolve don't mean 
+much to a dead man...
+
+## POINTER 53
+<STR>(YUR)
+<VOICE>(VS39_077)You okay, old man?
+
+## POINTER 54
+<STR>(RAV)
+<VOICE>(VS39_078)Here I am, runnin' off at the 
+mouth. I get a bit sentimental 
+when I start diggin' up the past.<PAGE><VOICE>(VS39_079)Come on. Onward!

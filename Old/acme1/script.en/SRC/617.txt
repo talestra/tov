@@ -1,0 +1,173 @@
+## POINTER 0
+Mimula
+How can a lady of my stature 
+possibly be locked in a wretched 
+place like this?! Oooh!
+
+## POINTER 1
+<STR>(KAR)
+Man, she hasn't changed a bit...
+
+## POINTER 2
+Mimula
+What? Who's there?<PAGE>...Oh, you're that guild from earlier.
+
+## POINTER 3
+<STR>(YUR)
+Looks like you've done well for yourself.
+
+## POINTER 4
+Mimula
+You're the ones I hired to 
+find Sebastian! I knew he wouldn't 
+just leave me here!
+
+## POINTER 5
+<STR>(YUR)
+Huh? No clue what you're going on about.
+
+## POINTER 6
+Mimula
+Sebastian sent you, 
+didn't he?! To help 
+get me out of here...
+
+## POINTER 7
+<STR>(YUR)
+We're not actually 
+here to break you 
+out of jail, no.
+
+## POINTER 8
+Mimula
+But... Then he's abandoned me to 
+the wolves after all! And he calls 
+himself a faithful servant!
+
+## POINTER 9
+<STR>(KAR)
+Wow, he just took off...
+
+## POINTER 10
+Mimula
+That's right! That failure of 
+a man! He grabbed up every penny 
+I had left, and went away!
+
+## POINTER 11
+<STR>(RAV)
+My heart goes out to ya, dearie. Honest.
+
+## POINTER 12
+<STR>(YUR)
+So, you had a 
+brother named 
+Cumore, right?
+
+## POINTER 13
+Mimula
+So what if I did?! All of this is 
+thanks to his childish mischief!
+
+## POINTER 14
+<STR>(YUR)
+Did you ever see something like 
+a secret manual among his things?
+
+## POINTER 15
+Mimula
+A secret manual...
+
+## POINTER 16
+<STR>(JUD)
+It sounds as though you have heard of it before.
+
+## POINTER 17
+Mimula
+...I might just tell you about it 
+if you can get me out of here.
+
+## POINTER 18
+<STR>(YUR)
+All right, we're going.
+
+## POINTER 19
+<STR>(KAR)
+Huh...?
+
+## POINTER 20
+Mimula
+Don't you want to know 
+about the manual?!
+
+## POINTER 21
+<STR>(YUR)
+If it means being used by someone 
+like you, I'll take my chances 
+on something else.
+
+## POINTER 22
+Mimula
+A-are you sure that's 
+what you really want?!
+
+## POINTER 23
+<STR>(KAR)
+It's not what we want, 
+but it's not our place to 
+let you out of there.
+
+## POINTER 24
+<STR>(RIT)
+You see how it is.
+
+## POINTER 25
+<STR>(RAV)
+Sorry, muffin.
+
+## POINTER 26
+<STR>(JUD)
+This is what they call karma, I believe.
+
+## POINTER 27
+<STR>(RAP)
+Woof!
+
+## POINTER 28
+Mimula
+What?! Oooh!
+
+## POINTER 29
+<STR>(EST_P)
+Maybe Sebastian 
+has the manual 
+with him.
+
+## POINTER 30
+<STR>(YUR)
+Sounds like he's the one 
+we need to bring in.
+
+## POINTER 31
+<STR>(KAR)
+Yeah, but where do you 
+think he ran off to?
+
+## POINTER 32
+<STR>(RAV)
+It's a wide, wide world, after all...
+
+## POINTER 33
+<STR>(RIT)
+Could he really have gotten 
+that far away, though?
+
+## POINTER 34
+<STR>(YUR)
+He could be almost anywhere 
+if he's gotten on a boat.
+
+## POINTER 35
+<STR>(KAR)
+Hmm, a boat... Let's check 
+the ports, then.

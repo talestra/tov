@@ -1,0 +1,226 @@
+## POINTER 0
+
+<VOICE>(VS31_500)That box...
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS31_501)Do you know something 
+about this box?!
+
+## POINTER 2
+
+<VOICE>(VS31_502)Longchi had it... 
+Where did you get it?
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS31_503)On a ship called the 
+Atherum, my lovely lady. 
+Have you heard of it?
+
+## POINTER 4
+
+<VOICE>(VS31_504)Of course...! You know 
+about the Atherum too?!
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS31_505)Y-yes. We happened to come 
+across it on the ocean...
+
+## POINTER 6
+
+<VOICE>(VS31_506)Did you see Longchi?
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS31_507)And Longchi would be...?
+
+## POINTER 8
+
+<VOICE>(VS31_508)Oh, Longchi is my love. 
+...I'm sorry to suddenly 
+get so personal.
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS31_509)Your love...damn it... 
+Hey, <STR>(KAR). Your turn.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS31_510)You're hopeless... 
+Umm, all that we saw 
+was, uh, the ship itself.
+
+## POINTER 11
+
+<VOICE>(VS31_511)Oh, I see...
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS31_512)Could I ask your name?
+
+## POINTER 13
+
+<VOICE>(VS31_513)Oh, my name is Yuefan.
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS31_514)That's the name that 
+was in the diary we 
+found on the Atherum.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS31_515)Do you know about 
+the clear ciel crystal?
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS31_516)They say it has the power 
+to drive back monsters.
+
+## POINTER 17
+Yuefan
+<VOICE>(VS31_517)The sage said it was 
+necessary to make a 
+barrier around the town.
+
+## POINTER 18
+Yuefan
+<VOICE>(VS31_518)I-is that what's in the box?
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS31_519)Yes. We came to 
+deliver this box to you.
+
+## POINTER 20
+Yuefan
+<VOICE>(VS31_520)I-I see...
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS31_521)Hey... Is that the key...?
+
+## POINTER 22
+Yuefan
+<VOICE>(VS31_522)Could I have the box?
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS31_523)Wow... Is this the 
+clear ciel crystal?
+
+## POINTER 24
+<STR>(RIT)
+<VOICE>(VS31_524)Looks like it...
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS31_525)So who's that sage you 
+were talking about earlier?
+
+## POINTER 26
+Yuefan
+<VOICE>(VS31_526)The sage is a great Krityan 
+who came to our town from 
+across the desert.
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VS31_527)A Krityan...?
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VS31_528)Well, creating a barrier is 
+basically creating a blastia.
+
+## POINTER 29
+Yuefan
+<VOICE>(VS31_529)Blass...tee...uh? Uhh...
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS31_530)But we can't make blastia with 
+current technology, right?
+
+## POINTER 31
+<STR>(RIT)
+<VOICE>(VS31_531)There are people who do. 
+You saw the blastia at Ehmead 
+Hill and Caer Bocram.<PAGE><VOICE>(VS31_532)But I don't think that sage guy 
+is the one who made those blastia 
+with messed up formulas...
+
+## POINTER 32
+Yuefan
+<VOICE>(VS31_533)I'm...I'm sorry. I don't 
+really understand...<PAGE><VOICE>(VS31_534)But the sage said that the 
+clear ciel crystal was needed 
+to create the barrier.<PAGE><VOICE>(VS31_535)So Longchi set out to look 
+for it... It's been three 
+years since he left.
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS31_536)...Three years, huh. 
+You must be worried.
+
+## POINTER 34
+<STR>(KAR)
+<VOICE>(VS31_537)Wait, this sounds weird.
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS31_538)Yeah, the stories 
+don't match up.
+
+## POINTER 36
+<STR>(RAV)
+<VOICE>(VS31_539)You think she 
+could've miscounted 
+by a thousand years?
+
+## POINTER 37
+<STR>(RIT)
+<VOICE>(VS31_540)How old is she, anyway?
+
+## POINTER 38
+<STR>(JUD)
+<VOICE>(VS31_541)Is that sage in this town? 
+Where does he live?
+
+## POINTER 39
+Yuefan
+<VOICE>(VS31_542)Oh, yes, he lives in 
+the house farthest 
+into the town.
+
+## POINTER 40
+<STR>(JUD)
+<VOICE>(VS31_543)I think it might be faster if 
+we went to talk to the sage.
+
+## POINTER 41
+<STR>(EST_P)
+<VOICE>(VS31_544)Y-yes, maybe so.
+
+## POINTER 42
+Yuefan
+<VOICE>(VS31_545)Ummm... If you're going there, 
+could you take the clear ciel 
+crystal to the sage for me?
+
+## POINTER 43
+<STR>(EST_P)
+<VOICE>(VS31_546)Yes, of course.
+
+## POINTER 44
+Yuefan
+<VOICE>(VS31_547)Thank you very much.
+
+## POINTER 45
+<STR>(KAR)
+<VOICE>(VS31_548)Okay, let's go.

@@ -1,0 +1,111 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(RIT)
+¡¡Funcionará!!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298762647]
+<STR>(RIT)
+¡Se conectan los espíritus directamente
+al núcleo y se estimula!<PAGE>
+Se hace converger la energía generada en el
+Vesperia Uno a través de los cuatro espíritus
+y después se usa contra el adephagos.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+Witcher
+El que descubrió ese método fui yo.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(RIT)
+Se sincroniza este aparato con la barrera
+blastia que rodea el mundo y después se usa
+para interferir con los blastias de alrededor.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580801]
+<STR>(KAR)
+¿...?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(YUR)
+Es decir... que sí que vamos
+a poder convertir los núcleos
+de blastia en espíritus, ¿no?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(RIT)
+Es lo que te he estado diciendo.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(EST_P)
+¡Sabía que lo conseguirías, <STR>(RIT)!
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(RIT)
+El único problema es el tiempo.<PAGE>Tenemos que construir la red de blastias y al mismo
+tiempo prepararnos para el proceso de convergencia.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+Witcher
+Yo me ocuparé de la red. Tenemos
+a gente de Aspio que puede ayudarnos.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834339]
+<STR>(RAV)
+También necesitaremos a un guardián. Más nus vale
+tener vigilaos al adephagos y a los monstruos.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(FRE)
+Los Caballeros se ocuparán de esa tarea.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+Sodia
+Les protegeremos con nuestras vidas.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+Kaufman
+Mi gremio ayudará en lo que haga falta.
+Tenemos a ingenieros muy capaces.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(KAR)
+¡Oye, esto va a salir redondo!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298762756]
+<STR>(RIT)
+Tan solo tenemos que acercarnos al adephagos
+para asegurarnos de que el poder de los
+espíritus lo alcancen,<PAGE>y después activar el Vesperia Uno.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(YUR)
+Eso quiere decir que nos toca ir a...
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(JUD)
+La torre de Tárcaron.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(RAV)
+Er escondite de Duke.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(EST_P)
+¿Vamos pelear contra él?
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(YUR)
+No lo sé.<PAGE>Pero no podemos
+dejarle usar la torre.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(KAR)
+Supongo que tampoco podremos
+convencerlo por las buenas.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(YUR)
+Ya.
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287566108]
+<STR>(YUR)
+Partiremos mañana.<PAGE>Usemos el resto del día para descansar.

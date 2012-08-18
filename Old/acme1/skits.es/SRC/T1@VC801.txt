@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266674193]
+Un marrón detrás de otro
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266674193]
+(YUR)
+Cuando por fin podía relajarme...
+¡voy y me como otro marrón!
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266674193]
+(KAR)
+(YUR), ¡el destino
+te la tiene jurada!
+
+## POINTER 3 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266674193]
+(YUR)
+Oye, no es todo culpa mía.
+¡Tú también has tenido un papel en ello!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115705]
+(KAR) 
+¡Pero nunca me había encontrado con
+monstruos gigantes, ni me habían arrestado
+los Caballeros antes de conocerte!
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266674193]
+(YUR)
+Bueno, a mí las cosas no me iban tan mal
+hasta que me fui de la capital con (EST_P).
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115705]
+(KAR)
+Entonces, eso quiere decir que...
+
+## POINTER 7 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266674193]
+(YUR)
+Déjalo. Sigamos.
+
+## POINTER 8 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266674193]
+(KAR)
+V-Vale.

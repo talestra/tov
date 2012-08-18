@@ -1,0 +1,60 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273578456]
+<STR>(YUR)
+<VOICE>(VS07_023)Vamos, <STR>(KAR), volvemos a los bosques de Quoi.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273578456]
+<STR>(KAR)
+<VOICE>(VS07_024)¿Qué quieres decir?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273578456]
+<STR>(YUR)
+<VOICE>(VS07_025)¿No te acuerdas?:
+«¡Prepárate para morir, oso ovíparo!».
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273578456]
+<STR>(KAR)
+<VOICE>(VS07_026)¿Eso significa que crees lo que
+te he dicho sobre la panacea?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Amarintia;time:1271251807]
+<STR>(YUR)
+<VOICE>(VS07_027)¿Era mentira?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273578456]
+<STR>(YUR)
+<VOICE>(VS07_028)Pues bien, tendremos
+que hacerte caso.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273578456]
+<STR>(KAR)
+<VOICE>(VS07_029)<STR>(YUR)...<PAGE><VOICE>
+(VS07_030)Vale, os ayudaré, pero solo por esta vez.
+Soy una persona muy ocupada, ¿sabéis?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1273578456]
+<STR>(EST_P)
+<VOICE>(VS07_031)¡Muy bien, está decidido!
+Juntos restauraremos la barrera.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Amarintia;time:1271252088]
+<STR>(KAR)
+<VOICE>(VS07_032)¿Tú también vienes, <STR>(EST_P)?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273578456]
+<STR>(EST_P)
+<VOICE>(VS07_033)Pues claro que sí.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1273578456]
+<STR>(YUR)
+<VOICE>(VS07_034)¿No ibas a esperar a <STR>(FRE)?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1273578456]
+<STR>(EST_P)
+<VOICE>(VS07_035)¿No has sido tú quien ha dicho que si tenía
+que curar algo, tenía que ser el árbol?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273578456]
+<STR>(YUR)
+<VOICE>
+(VS07_036)Bastará con hacerlo antes de que vuelva.
+Qué ganas tengo de ver la cara que pondrá.

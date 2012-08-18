@@ -1,0 +1,93 @@
+## POINTER 0
+
+Ah, so nice to see you 
+again! And wearing your 
+uniforms, I see!
+
+## POINTER 1
+<STR>(EST_P)
+We're all so fond 
+of them! ∀
+
+## POINTER 2
+<STR>(KAR)
+All I've got is this 
+stupid towel...
+
+## POINTER 3
+<STR>(RAV)
+I wasn't too crazy about the loincloth I've 
+got on, but I'm startin' ta get used ta it.<PAGE>Besides, boy, the fewer clothes on yer 
+back, the faster ya can jump inta the 
+bath! That's a pretty nice perk.
+
+## POINTER 4
+
+So, will you be visiting 
+our hot springs today?<PAGE>Your free pass entitles you to any 
+of our services...even your own 
+reserved bath, if you'd like.
+
+## POINTER 5
+<STR>(JUD)
+We've come all the way 
+out here... Why not?
+
+## POINTER 6
+<STR>(RIT)
+All right, then us 
+girls will go in first 
+again, okay?
+
+## POINTER 7
+<STR>(YUR)
+How about we all just 
+go in together? I mean, 
+what's the big deal?
+
+## POINTER 8
+<STR>(KAR)
+B-b-but that 
+means...!
+
+## POINTER 9
+<STR>(YUR)
+The baths are pretty big. We could 
+go to separate ends of the area, and 
+it'd be like we had our own baths.<PAGE>It'd be no big deal. Isn't 
+that right, <STR>(RAV)?
+
+## POINTER 10
+<STR>(RAV)
+R-right, <STR>(YUR)... I mean, 
+I don't really mind either 
+way, of course...
+
+## POINTER 11
+<STR>(RIT)
+Something's fishy 
+about this...
+
+## POINTER 12
+<STR>(JUD)
+No, I trust <STR>(YUR). 
+I don't think we 
+need to worry.
+
+## POINTER 13
+<STR>(EST_P)
+Yes. Let's just stop 
+fretting about it and 
+all go in together!
+
+## POINTER 14
+
+Go right on in! 
+Enjoy your visit!<PAGE>But might I recommend waiting until after 
+sunset and going in then? I assure you, the 
+nighttime atmosphere is not to be missed!
+
+## POINTER 15
+<STR>(YUR)
+Ah, good idea. 
+Let's do that.

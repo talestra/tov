@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251559930]
+(RIT) y (RAP)
+
+## POINTER 1 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669642]
+(RAP)
+...
+
+## POINTER 2 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669642]
+(RIT)
+¿Y tú qué miras?
+
+## POINTER 3 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669642]
+(RAP)
+¡Guau!
+
+## POINTER 4 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669642]
+(RIT)
+¡Oye, perro! ¡Ni te me acerques!
+
+## POINTER 5 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669642]
+(KAR)
+¿Eh? (RIT), ¿te dan miedo los perros?
+
+## POINTER 6 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669642]
+(RIT)
+¡Para nada! ¡Métete en tus asuntos!
+
+## POINTER 7 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669642]
+(RIT)
+Oh, no...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182568]
+(EST_P)
+Oye, (RIT), quería preguntarte sobre...
+Oh, ¡(RAP)!
+
+## POINTER 9 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266669642]
+(KAR)
+(RAP) tiene bien claro quién
+le cae bien y quién no.

@@ -1,0 +1,14 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311992]
+<STR>(KAR)
+Ya sé que tampoco hace mucho que no pasamos
+por aquí, pero alegro de haber vuelto.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1279311992]
+<STR>(RAV)
+¿Sus traigo unos pañuelitos pa las
+lágrimas? ¿O vamos ya pa la posada?
+¡Tengo un hambre que no veo!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1275581610]
+<STR>(YUR)
+Vale, vale.

@@ -1,0 +1,58 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284484121]
+<STR>(KAR)
+<VOICE>(VA022_072)Qué mareo...
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284484168]
+<STR>(RAV)
+<VOICE>(VA022_073)No me puedo creer qu'estuviese
+toa la noche contando historias...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755186]
+<STR>(EST_P)
+<VOICE>(VA022_074)¡Pues a mí me ha encantado el cuento
+épico de la chica que luchaba con
+una sartén y un cucharón!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755186]
+<STR>(JUD)
+<VOICE>(VA022_075)Parece como si quisieras escuchar
+más historias, <STR>(EST_P).
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284484121]
+<STR>(RIT)
+<VOICE>(VA022_076)Pues no cuentes conmigo.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284484121]
+<STR>(YUR)
+<VOICE>(VA022_077)Es muy sorprendente para
+ser solo una ilusión.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755186]
+<STR>(KAR)
+<VOICE>(VA022_078)Es extrañísimo. Es una ilusión,
+pero podemos hablar con gente
+y todo parece tan real...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755186]
+<STR>(JUD)
+<VOICE>(VA022_079)Quizá sea porque
+todo esto sí que
+existió en el pasado.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755186]
+<STR>(EST_P)
+<VOICE>(VA022_080)Los humanos no pudieron dejar
+los blastias. Eso nos ha llevado
+adonde estamos hoy.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755186]
+<STR>(YUR)
+<VOICE>(VA022_081)El Imperio solo tenía que controlar
+los blastias, pero empezaron
+a excavarlos y a estudiarlos.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1287251987]
+<STR>(RAV)
+<VOICE>(VA022_082)Los entelechia desprecian
+los blastias, pero los humanos
+s'aferran a ellos como una lapa.

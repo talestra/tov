@@ -1,0 +1,333 @@
+## POINTER 100 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+No es suficiente.
+
+## POINTER 101 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Ya está?
+
+## POINTER 102 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Intentas aprovecharte de un anciano?
+
+## POINTER 103 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Eh? ¿Eso es todo?
+
+## POINTER 104 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+No es suficiente.
+
+## POINTER 105 [t:1;r:1;ru:memnoch;user:memnoch;time:1297509999]
+¿Dónde está el resto de mi pedido?
+
+## POINTER 106 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Te has olvidado de algo...
+
+## POINTER 107 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Esto no puede ser todo.
+
+## POINTER 108 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Falta algo.
+
+## POINTER 109 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¡¿Ya está?!
+
+## POINTER 110 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+y
+
+## POINTER 111 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+y
+
+## POINTER 112 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264259225]
+y
+
+## POINTER 113 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+y
+
+## POINTER 114 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+y
+
+## POINTER 115 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Olvida eso último...
+
+## POINTER 116 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Olvida eso último...
+
+## POINTER 117 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Olvida eso último...
+
+## POINTER 118 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Olvida eso último...
+
+## POINTER 119 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Olvida eso último...
+
+## POINTER 120 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Eso es todo.
+
+## POINTER 121 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Eso es todo.
+
+## POINTER 122 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Eso es todo.
+
+## POINTER 123 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Eso es todo.
+
+## POINTER 124 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Eso es todo.
+
+## POINTER 125 [t:1;r:1;ru:memnoch;user:memnoch;time:1297509999]
+Adivina la suma de los tres dados lanzados
+por el maestro de los dados.
+La suma se considera «alto» si es un número
+entre 3 y 10. Se considera «bajo» si está entre 11 y 18.
+El jugador debe averiguar si el número será
+«alto» o «bajo».
+Acierta tres veces seguidas para ganar.
+¡El juego se termina si fallas una sola vez!
+
+## POINTER 126 [t:1;r:1;ru:memnoch;user:memnoch;time:1297509999]
+Adivina si la suma de dos dados será un número par o impar.
+Si la suma es 2, 4, 6, 8, 10 o 12, entonces es «par».
+Es «impar» si es 3, 5, 7, 9 u 11. Acierta tres veces seguidas
+para ganar. ¡El juego se termina si fallas una sola vez!
+
+## POINTER 127 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Empezar a jugar?
+
+## POINTER 128 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Confirmar reglas
+Empezar
+
+## POINTER 129 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+<06>(RBL) Pedido
+
+## POINTER 130 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257522]
+<06>(RBU) Reiniciar
+
+## POINTER 131 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+<0B>(0)
+
+## POINTER 132 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Mmm, ¿dónde está lo que he pedido?
+
+## POINTER 133 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Ese pedido para cuándo?
+
+## POINTER 134 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Y mi comida?
+
+## POINTER 135 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Me muero de hambre...
+
+## POINTER 136 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Ya está listo?
+¿Ya está?
+
+## POINTER 137 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Qué... hambre...
+
+## POINTER 138 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Falta mucho?
+
+## POINTER 139 [t:1;r:1;ru:memnoch;user:memnoch;time:1297509999]
+Si no te das prisa
+voy a caer muerto de hambre...
+
+## POINTER 140 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¡¿Todavía nada?!
+
+## POINTER 141 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¡Eh, coleguilla!
+Sí que tienes agallas...
+
+## POINTER 142 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¡No te quedes en Babia!
+¡Ve a por mi comida!
+
+## POINTER 143 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264340110]
+Mmm, no ha ido muy bien, que digamos.
+Esta vez no te pagaré ni un gald.
+¡Ponle más ganas la próxima vez!
+
+## POINTER 144 [t:1;r:1;ru:memnoch;user:memnoch;time:1297509999]
+Gracias. ∀
+
+## POINTER 145 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Intentar el nivel 2?
+
+## POINTER 146 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Intentar el nivel 3?
+
+## POINTER 147 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Que lo intente otro?
+
+## POINTER 148 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+<STR>(EST_P)
+
+## POINTER 149 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+<STR>(KAR)
+
+## POINTER 150 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+<STR>(RIT)
+
+## POINTER 151 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+<STR>(JUD)
+
+## POINTER 152 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+<STR>(RAV)
+
+## POINTER 153 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+No parece que pueda hacerlo nadie más.
+
+## POINTER 154 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¡Oh! ¡Parece que ya llegan los clientes!
+
+## POINTER 155 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1264260766]
+Cómo jugar
+
+1. Ve con los clientes y apunta su pedido cuando te llamen.
+2. Introduce los pedidos en el mostrador.
+3. Cuando el pedido esté listo, llévaselo al cliente correspondiente.
+4. El juego termina cuando has llevado todos los pedidos
+        a los clientes.
+5. Te pagarán dependiendo de lo bien que lo hayas hecho.
+¡Buena suerte!
+
+## POINTER 156 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264340511]
+Pistas:
+- Ve a tomarle el pedido al cliente nada más te llame.
+- ¡El cliente solo dirá su pedido una vez, así que presta atención!
+- Solo puedes introducir un pedido cada vez en el mostrador.
+- Llévale el plato al cliente enseguida que esté listo.
+- No complacerás al cliente si no le llevas los platos
+        en el orden y la cantidad correctas.
+- La paga dependerá de la velocidad y eficiencia con la que hayas
+        entregado los pedidos.
+- Las condiciones cambiarán según el personaje que haga el juego.
+
+## POINTER 157 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257900]
+Reglas de Camarero estresado - 3
+
+## POINTER 158 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Cuento contigo.
+
+## POINTER 159 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263941710]
+Lista del menú
+
+## POINTER 160 [t:1;r:1;ru:memnoch;user:memnoch;time:1297509999]
+Gracias por esperar. ∀
+Aquí está su pedido. ¡Disfrútelo!
+
+## POINTER 161 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Controles del juego
+
+## POINTER 162 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Abandonar?
+
+## POINTER 163 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+<06>(RBD)Incrementar cantidad
+
+## POINTER 164 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+<06>(RBR)Cancelar
+
+## POINTER 165 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264257900]
+El aer conducido por <STR>(RIT) irá de derecha
+a izquierda sobre la línea superior coloreada.<PAGE>
+Para reconstituirlo, pulsa los botones <06>(RBD), <06>(RBR), <06>(RBL) o <06>(RBU),
+según cual sea el que coincida con el color del aer y justo
+en el momento en el pasen por el campo de fuerza de <STR>(EST_P),
+representado por la marca azul.<PAGE>
+Si no pulsas el botón correcto en el momento justo,
+el aer se escapará, así que cuidado. El indicador
+de la derecha indica el maná que has recolectado.
+Recolecta la cantidad especificada para superar la prueba.
+
+## POINTER 166 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¡Aer reconstituido con éxito!
+
+## POINTER 167 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Has fallado al reconstituir el aer...
+
+## POINTER 168 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264258507]
+Sobre la Maestra del aer
+
+## POINTER 169 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Confirmar reglas
+Empezar
+
+## POINTER 170 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¿Preguntar a <STR>(RIT)?
+
+## POINTER 171 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+Preguntar
+Intentar otra vez
+
+## POINTER 172 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254824]
+Le has preguntado a <STR>(RIT).
+
+## POINTER 173 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¡Aer reconstituido con éxito!
+
+## POINTER 174 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263941710]
+Juego de geles
+
+## POINTER 175 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263941710]
+Juego de botellas
+
+## POINTER 176 [t:1;r:1;ru:memnoch;user:memnoch;time:1297509999]
+Súper juego de geles
+
+## POINTER 177 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263941710]
+Releer las reglas
+
+## POINTER 178 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264343393]
+Refriega de treinta rivales (3.000 gald)
+
+## POINTER 179 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264343393]
+Refriega de cincuenta rivales (5.000 gald)
+
+## POINTER 180 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264343393]
+Refriega de ochenta rivales (8.000 gald)
+
+## POINTER 181 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264343393]
+Refriega de cien rivales (10.000 gald)
+
+## POINTER 182 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264343393]
+La misteriosa refriega de doscientos rivales (20.000 gald)
+
+## POINTER 183 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+No participar
+
+## POINTER 184 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264258708]
+¿<0B>(0) va a
+participar?
+
+## POINTER 185 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263859342]
+¡¡Tenemos un aspirante!!<PAGE>
+¡Nuestro aspirante viene
+del gremio Gran Vesperia!<PAGE>
+¡¡Un gran aplauso para 
+<0B>(0) <0B>(1)!!
+
+## POINTER 186 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264340511]
+¡Felicidades!<PAGE>
+¡Ha sido impresionante!
+¡<0B>(0) se lleva
+el premio!<PAGE>
+¡Todavía quedan muchos combates 
+por disputar! ¡Estamos impacientes 
+por verte por aquí de nuevo! ¡Sayonara!
+
+## POINTER 187 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264340511]
+Ooh... ¡Qué lástima! ¡<0B>(0)
+ha perdido! ¡Pero ha sido
+un magnífico combate! 
+¡Esperamos volver a verte!
+
+## POINTER 188 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264340511]
+¡Enhorabuena! <PAGE>
+¡Has derrotado a los cincuenta oponentes!
+¡Y he aquí un fantástico premio
+para <0B>(0)!<PAGE>
+¡¡Estás a medio camino
+del gran premio!! ¡Deberías intentar
+el siguiente nivel! ¡Nos veremos
+allí! ¡Sayonara!

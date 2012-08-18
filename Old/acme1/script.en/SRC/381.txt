@@ -1,0 +1,51 @@
+## POINTER 0
+<STR>(RIT)
+<STR>(EST_P) and I will be 
+resting in the inn.
+
+## POINTER 1
+<STR>(EST_P)
+Ahh...b-but...I 
+have to...
+
+## POINTER 2
+<STR>(RIT)
+We're going to get some rest. 
+What about you, <STR>(YUR)?
+
+## POINTER 3
+What will you do?
+I'll do the same.
+I'll hang around for awhile longer.
+
+## POINTER 4
+<STR>(YUR)
+Hmmm, yeah. I could use some 
+time off my feet, too.
+
+## POINTER 5
+<STR>(YUR)
+I think I'll wander around a bit more.
+
+## POINTER 6
+<STR>(RIT)
+All right, sure.
+
+## POINTER 7
+<STR>(YUR)
+You wanna get some 
+rest, <STR>(RAP)?
+
+## POINTER 8
+<STR>(RAP)
+Woof.
+
+## POINTER 9
+
+Your friends are 
+already resting.
+
+## POINTER 10
+Do you wish to rest?
+Yes
+No

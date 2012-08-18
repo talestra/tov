@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1261437772]
+¿Un fruto de nía? ¿Aquí?
+
+## POINTER 1 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266666428]
+(EST_P)
+¿Por qué habrá un fruto de nía
+tirado en mitad del bosque?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287612367]
+(EST_P)
+No he visto ningún árbol
+así por aquí...
+
+## POINTER 3 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1261437772]
+(KAR)
+Oh, es por los monstruos del bosque.
+Así es como marcan su territorio.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287612367]
+(EST_P)
+Entonces, ¿podemos llevárnoslo? 
+Supongo que no hay manera
+de pedirles permiso...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287612367]
+(YUR)
+Ya, no se me da muy bien el «monstrués».
+¿No os lo enseñan en tu gremio, (KAR)?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287612367]
+(KAR)
+¡Los Espadas Cazadoras cazamos monstruos! 
+¡No perdemos el tiempo amistándonos con ellos!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1287612367]
+(EST_P)
+Es una pena...

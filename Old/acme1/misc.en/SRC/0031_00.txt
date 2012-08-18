@@ -1,0 +1,393 @@
+## POINTER 2
+Movement 1
+
+## POINTER 3
+Use <06>(LTN) to move during battles.
+Use <06>(LTR)<06>(LTL) to move forward 
+or backward.
+Use <06>(LTU) to jump.
+In Semi-Auto mode, hold down <06>(GUD)
+while pressing <06>(LTU) to jump. 
+The speed at which the 
+character moves depends on how 
+far you tilt the <06>(LTR) and <06>(LTL).
+
+## POINTER 4
+Movement 2
+
+## POINTER 5
+In addition to moving forward
+and backward, you can also move
+the character freely to any part
+of the battlefield by holding down
+<06>(CBL2) while pressing <06>(LTN).
+
+This is known as Free Run.
+This move can be used when evading
+enemy attacks or approaching enemies
+from the rear.
+
+## POINTER 6
+Normal Attack
+
+## POINTER 7
+Perform a regular attack with
+the <06>(ATK) button. You can 
+also perform various other attacks 
+by pressing the <06>(ATK) button while
+tilting <06>(LTU), <06>(LTD), <06>(LTR), or <06>(LTL) at 
+the same time.
+In Semi-Auto mode, the character 
+will automatically approach the 
+enemy as they attack.
+ 
+Press the <06>(ATK) button during 
+Free Run to perform attacks.
+
+## POINTER 8
+Artes
+
+## POINTER 9
+Press the <06>(ART) button to use Artes.
+ 
+Assign artes to the <06>(LTN),
+<06>(LTU), <06>(LTD), <06>(LTR), or <06>(LTL) slots 
+by accessing the Artes
+menu via the <06>(MEN) button.
+ 
+Try out different combinations!
+
+## POINTER 10
+Guard
+
+## POINTER 11
+Guard against attacks with 
+the <06>(GUD) button.
+
+Be careful, a Guard Break 
+can occur if you continue to 
+receive damage while guarding.
+
+Once your guard is broken,
+it can easily be broken again for
+a short time thereafter.
+
+## POINTER 12
+Using Items
+
+## POINTER 13
+Use items by opening the Menu with
+the <06>(MEN) button.
+Select "Items", then select the item
+you want to use and the target you
+wish to use the item on.
+
+Note that you cannot use another item
+immediately after using the first one.
+
+## POINTER 14
+Escape
+
+## POINTER 15
+Run from a battle by opening the Battle Menu
+with the <06>(MEN) button and selecting ”Escape”.
+
+Running away will be successful when the
+gauge on the screen is filled up.
+
+Selecting “Escape” again from the menu
+will cancel the escape standby status.
+
+## POINTER 16
+Changing Targets
+
+## POINTER 17
+Tapping the <06>(CBR1) button displays
+the current targeted enemy of your
+character.
+
+Holding down the <06>(CBR1) 
+while using the <06>(LTR) or <06>(LTL) will
+allow you to select an enemy target.
+
+Also, the enemy target will automatically
+change to the enemy you hit during
+Free Run.
+
+## POINTER 18
+Combo 1
+
+## POINTER 19
+Chain up a series of normal
+attacks by continuing to input
+attacks with the <06>(ATK) button.
+
+This is known as a Combo.
+
+Try a number of possible Combos
+with a combination of the <06>(LTN)
+and the <06>(ATK) buttons.
+
+## POINTER 20
+Combo 2
+
+## POINTER 21
+Follow up a normal attack with the <06>(ART) button
+for a Base Arte attack.
+
+Use various combos to your advantage by 
+combining normal attacks and Base Arte attacks.
+
+Consider the nature of each combo
+to find one that works best for you!
+
+## POINTER 22
+Combo 3
+
+## POINTER 23
+You can follow a Base Arte with 
+an Arcane Arte, a more powerful attack.
+
+Normal attack 
+     → Base Arte 
+          → Arcane Arte
+
+This type of combo allows for
+stronger attacks and increases
+the variety of possible combos.
+
+## POINTER 24
+Encounters
+
+## POINTER 25
+Touching an enemy on the Field Map
+will cause a battle to begin.
+
+These will be referred to as
+enemy symbols.
+
+Winning the battle will cause the
+enemy symbol to disappear on the
+Field Map. However, the enemy symbol
+will remain if the party escaped
+from the battle.
+
+## POINTER 26
+Surprise Encounters
+
+## POINTER 27
+If an enemy symbol comes in 
+contact with the character from behind,
+characters that take part in the
+battle will be chosen at random.
+The enemies will also be positioned
+behind your party.
+
+Be careful not to get caught by
+enemy symbols from behind!
+
+## POINTER 28
+Advantage Encounters
+
+## POINTER 29
+Using <06>(GUD) to shoot an enemy symbol 
+with the Sorcerer's Ring will 
+occasionally stun the enemy.
+
+If you touch the enemy symbol
+in this state, the enemy will be
+stunned and unable to act at the
+beginning of battle.
+
+Try this often, as it gives you
+a great advantage in battle.
+
+## POINTER 30
+Encounter Links
+
+## POINTER 31
+Other enemy symbols that are
+near the enemy symbol you
+come into contact with may also
+appear in the battle.
+
+Beware because you could be faced
+with a large number of enemies at
+once.
+
+Just like with Surprise Encounters,
+the position of the enemy symbol
+on the battlefield is important.
+
+## POINTER 32
+Skill 1
+
+## POINTER 33
+Weapons possess various skills
+for the character to use and learn.
+
+Once equipped, the character can
+gain the effects of that particular
+skill in battle.
+
+The character can eventually acquire
+the skill if used repeatedly.
+
+## POINTER 34
+Skill 2
+
+## POINTER 35
+Once a skill is learned, it can be
+set to the character without having
+to equip the weapon at the cost of
+some SP.
+
+Skills are divided into 4 categories:
+Attack
+Defense
+Movement
+Support
+
+## POINTER 36
+Skill 3
+
+## POINTER 37
+A symbol consisting of one of the
+4 skill types are formed as a result
+of set skills.
+
+This is known as a Skill Symbol.
+
+Depending on the type of Skill Symbol,
+a character can gain extra abilities and
+effects when they go into Over Limit
+during battle.
+
+Try using various combinations.
+
+## POINTER 38
+Status Effects
+
+## POINTER 39
+Characters can receive Status Effects
+as a result of spells or attacks 
+during battle.
+
+Physical Ailments can continue
+even after a battle has ended.
+They are all harmful.
+
+Magical Changes only take 
+effect during battle. Some are 
+harmful and some are helpful 
+to your party.
+
+## POINTER 40
+Recovering from Status Effects
+
+## POINTER 41
+Failing to cure Physical/Magical Ailments
+can be fatal. Be sure to cure ill
+status effects with items or
+spells.
+
+Items or spells necessary to correct
+a Physical/Magical Ailment may differ
+depending on the type of status effect.
+
+Check the item or spell
+description before using it.
+
+## POINTER 42
+Physical Ailments 1
+
+## POINTER 43
+<06>(ST1)Poison
+HP is lost as time passes.
+
+<06>(ST7)Contamination
+TP is lost as time passes.
+
+<06>(ST2)Paralysis
+Various actions are limited.
+
+<06>(ST4)Weak
+Maximum HP is halved.
+
+## POINTER 44
+Physical Ailments 2
+
+## POINTER 45
+<06>(ST5)Sealed Artes
+Cannot use artes.
+　
+<06>(ST6)Sealed Skills
+Cannot use skills and their
+effects are canceled.
+　
+<06>(ST3)Petrification
+No actions are possible.
+
+## POINTER 46
+Magical Ailments 1
+
+## POINTER 47
+<06>(SC1)Physical Attack Changes
+Physical attack power is 
+increased or decreased.
+<06>(SC2)Physical Defense Changes
+Physical defense power is 
+increased or decreased.
+
+<06>(SC3)Magic Attack Changes
+Magic attack power is 
+increased or decreased.
+<06>(SC4)Magic Defense Changes
+Magic defense power is 
+increased or decreased.
+
+## POINTER 48
+Magical Ailments 2
+
+## POINTER 49
+<06>(SC5)Sleep
+No actions are possible.
+Recover from Sleep if attacked
+by an enemy.
+　
+<06>(SC6)Auto-recover
+Automatically recover from KO.
+
+## POINTER 50
+Magical Ailments 3
+
+## POINTER 51
+<06>(SC7)Charm
+Effects differ depending on 
+Control Mode.
+
+For Semi-Auto and Manual:
+The control keys will be randomly
+assigned.
+
+For Auto:
+The character will attack randomly,
+regardless of strategy.
+
+## POINTER 52
+Strategy Settings
+
+## POINTER 53
+Specify a character's actions in
+battle with the Strategy Menu.
+
+To do so, select Strategy from
+the Battle Menu.
+Then, select or change a strategy
+option for a character.
+
+Change the character’s location on 
+the battlefield with Formation.
+
+## POINTER 54
+Changing Strategies During Battle

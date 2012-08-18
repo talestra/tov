@@ -1,0 +1,257 @@
+## POINTER 0
+<STR>(JUD)
+Do you have a minute?
+
+## POINTER 1
+
+Huh? What the hell 
+do you want?
+
+## POINTER 2
+<STR>(JUD)
+You seem to be doing very well... 
+You're a pro, right?<PAGE>You don't see real professional 
+gamblers around here very often.
+
+## POINTER 3
+
+Gambling is my life. When I'm playing, time 
+and space cease to have any meaning. All 
+that remains is betting, then winning.
+
+## POINTER 4
+<STR>(JUD)
+Oh, really? Then do all of these easy 
+opponents do it for you? Or are you looking 
+for more of a challenge, perhaps?
+
+## POINTER 5
+
+What do you mean...
+
+## POINTER 6
+
+Wait, you couldn't be...
+
+## POINTER 7
+<STR>(YUR)
+Ha ha. <STR>(JUD_P)'s determined, 
+all right.<PAGE>It looks like she's starting to 
+put her strategy into gear.
+
+## POINTER 8
+<STR>(KAR)
+When did <STR>(JUD) 
+change into that 
+outfit, anyway?
+
+## POINTER 9
+<STR>(YUR)
+Hey, come to think of it, 
+that's a good question.<PAGE>That outfit's pretty over the top...
+
+## POINTER 10
+
+You may have already 
+noticed, but I'm not 
+cheating or anything.
+
+## POINTER 11
+<STR>(JUD)
+It seems that way. But this place was set 
+up so that everyone can have a good time.<PAGE>You know what happens when a 
+pro like you gets serious against 
+a bunch of amateurs?
+
+## POINTER 12
+
+Hmph! I play 'em like I see 
+'em. That's all it is.<PAGE>If you're so intent on 
+getting rid of me...
+
+## POINTER 13
+<STR>(JUD)
+I thought it might come to this. All 
+right. I'll accept your challenge.
+
+## POINTER 14
+
+Heh...interesting.<PAGE>If I lose, I'll give up everything 
+I've won and never come in 
+here again. What about you?
+
+## POINTER 15
+<STR>(JUD)
+Yes, hmmm... Then 
+I'll bet...
+
+## POINTER 16
+<STR>(YUR)
+I can't hear too well. 
+What did she just say?
+
+## POINTER 17
+<STR>(KAR)
+I couldn't hear, either. 
+I wonder what she bet.
+
+## POINTER 18
+
+All right, it's a bet. What's 
+your game of choice?
+
+## POINTER 19
+<STR>(JUD)
+Ah, yes... How about this?
+
+## POINTER 20
+
+Cards, eh? Sounds good to me.
+
+## POINTER 21
+
+Each of us will play a five-game match against 
+the dealer. You start with 100 chips. 
+See how many you can get by the end...<PAGE>Also, we can both watch to make 
+sure that neither of us cheats.<PAGE>Are you good on the rules now?
+
+## POINTER 22
+<STR>(JUD)
+Yes.
+
+## POINTER 23
+
+Okay! Then allow 
+me to begin!
+
+## POINTER 24
+
+Hmph, looks like I ended 
+up with 1200 chips.<PAGE>All right, now it's your turn.
+
+## POINTER 25
+<STR>(JUD)
+All right, I'm done.
+
+## POINTER 26
+
+Hmm... I lost. I'm 
+impressed. So the 
+legends are true...
+
+## POINTER 27
+<STR>(JUD)
+......
+
+## POINTER 28
+
+I admit defeat. As promised, I'll 
+return my winnings, and I'll 
+stop coming here for good.
+
+## POINTER 29
+
+Hmph. Looks 
+like I won, 
+doesn't it?
+
+## POINTER 30
+<STR>(JUD)
+Yes. I lost.
+
+## POINTER 31
+
+But you know, I'm tired of this 
+place. I don't need the money 
+here anymore, either.
+
+## POINTER 32
+<STR>(JUD)
+What's gotten into you?
+
+## POINTER 33
+
+Dunno. I guess a new casino 
+is just calling my name, 
+and I've gotta answer.
+
+## POINTER 34
+<STR>(JUD)
+You're a good sport.
+
+## POINTER 35
+
+Eh? I was able to play against you. 
+That's the most important thing.
+
+## POINTER 36
+
+Until we meet again.
+
+## POINTER 37
+Kaufman
+Amazing! Thank you for your 
+help! Thank you so much!<PAGE>H-how did you do it? Who the 
+hell are you, anyway?!
+
+## POINTER 38
+<STR>(JUD)
+I'm just an average, run-of-the mill Krityan.
+
+## POINTER 39
+Kaufman
+You may've lost the 
+game, but you did 
+great! Thank you!
+
+## POINTER 40
+Kaufman
+Now, for your reward...
+
+## POINTER 41
+<STR>(YUR)
+I was surprised at how quickly he left. I thought 
+he'd put up more of a fight, or something.<PAGE>Are all gamblers like that?
+
+## POINTER 42
+<STR>(JUD)
+Who knows? Not me.<PAGE>But he played honorably. 
+It was a fun match.
+
+## POINTER 43
+<STR>(KAR)
+Hey, <STR>(JUD)! You bet something while 
+you were playing against him, right?<PAGE>I couldn't hear what it 
+was. What did you bet?
+
+## POINTER 44
+<STR>(JUD)
+I told him if he won, he'd 
+never have to pay for food 
+or drinks here again.
+
+## POINTER 45
+<STR>(KAR)
+...Huh?
+
+## POINTER 46
+<STR>(JUD)
+He earns his living by 
+gambling, after all.<PAGE>A bet of anything else would've 
+been an insult.<PAGE>His very way of life was on the line!
+
+## POINTER 47
+
+Madam President! Madam President! A strange 
+man is going around to all of the food 
+stands and taking food without paying!<PAGE>And he keeps saying 
+"put it on my tab." 
+What do we do?
+
+## POINTER 48
+<STR>(JUD)
+Uh oh.
+
+## POINTER 49
+Kaufman
+......

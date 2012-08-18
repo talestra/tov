@@ -1,0 +1,221 @@
+## POINTER 0
+
+<VOICE>(VA030_001)Hm hm hmmm....
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VA030_002)Greetings, Elder. What were 
+you grumbling about?
+
+## POINTER 2
+
+<VOICE>(VA030_003)Oh, you've returned! Look 
+what I found when I was 
+cleaning my dresser.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VA030_004)You had a sword in your dresser...?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VA030_005)Who keeps a sword in their dresser...?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA030_006)Hey, but this is...
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VA030_007)This isn't just any old sword... 
+It looks like...you know.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VA030_008)Yeah.
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VA030_009)No kiddin'. Not so much the shape...but 
+the vibe it's givin' off.
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VA030_010)This isn't just any old sword... 
+It looks kinda like...you know.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VA030_011)You know what?
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VA030_012)She means Dein Nomos, right?
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VA030_013)Just what kind of sword is this?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VA030_014)What's the deal with 
+this sword, anyway?
+
+## POINTER 14
+
+<VOICE>(VA030_015)I was hoping you would ask. If 
+memory serves, it is one of the 
+seven fell arms of legend.
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VA030_016)You mean the weapons spawned 
+by the 14-headed monster 
+from the fairy tales?
+
+## POINTER 16
+<STR>(JUD)
+<VOICE>(VA030_017)You mean the same weapons created 
+by the legendary high king who 
+sees with 14 kinds of sight?
+
+## POINTER 17
+
+<VOICE>(VA030_018)Hmph, I don't know how the 
+story is told below, but here 
+the legend is as follows:<PAGE><VOICE>(VA030_019)At the height of the ancient blastia 
+civilization, an attempt was made 
+to produce special weapons.<PAGE><VOICE>(VA030_020)Eventually, this led to the 
+creation of armaments of 
+untold power, seven in total.
+
+## POINTER 18
+<STR>(RAV)
+<VOICE>(VA030_021)So these weapons're a legacy of the 
+ancients... Well, Dein Nomos is 
+real. Maybe this story is too.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VA030_022)Is Dein Nomos one of these fell arms, then?
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VA030_023)I'd say it's possible if what 
+the Elder said is true.
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VA030_024)But if this really is one 
+of the fell arms,...<PAGE><VOICE>(VA030_025)...why was it in your 
+dresser, Elder?
+
+## POINTER 22
+
+<VOICE>(VA030_026)I can't remember for the life 
+of me.. It's been decades since 
+I've cleaned this thing out.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VA030_027)You haven't cleaned out 
+your dresser in...decades? 
+I don't know what to say...
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VA030_028)...If these weapons are really 
+as powerful as they sound,...<PAGE><VOICE>(VA030_029)it might be a good idea for us 
+to get a hold of them before they 
+fall into the wrong hands.
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VA030_030)Yeah... There've been quite 
+a few sets of wrong hands 
+out there, lately, too.
+
+## POINTER 26
+<STR>(JUD)
+<VOICE>(VA030_031)Might we take this 
+with us, Elder?
+
+## POINTER 27
+
+<VOICE>(VA030_032)Huh? Oh, fine by me.
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VA030_033)You're giving it to us just like that?
+
+## POINTER 29
+
+<VOICE>(VA030_034)To tell the truth, I'm glad 
+it turned up, but I'd been wondering 
+what I'd do with it.<PAGE><VOICE>(VA030_035)I've got no real use for it. Besides, 
+it would be a shame to just leave 
+something like this lying around.<PAGE><VOICE>(VA030_036)I figure you are just the 
+ones to put it to proper use.
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VA030_037)Do you know anything about the other fell arms?
+
+## POINTER 31
+
+<VOICE>(VA030_038)Let me see here...<PAGE><VOICE>(VA030_039)According to the legend, the seven 
+weapons share a common bond.<PAGE><VOICE>(VA030_040)If this is truly one of the fell arms, it 
+may react if brought near the others.
+
+## POINTER 32
+<STR>(RAV)
+<VOICE>(VA030_041)But Dein Nomos hasn't reacted at all.
+
+## POINTER 33
+
+<VOICE>(VA030_042)Hmm... Then perhaps 
+it isn't a fell 
+arm after all.
+
+## POINTER 34
+<STR>(KAR)
+<VOICE>(VA030_043)Then how are we supposed to find them...?
+
+## POINTER 35
+<STR>(RIT)
+<VOICE>(VA030_044)Well, there's no point 
+thinking it to death.<PAGE><VOICE>(VA030_045)So long as we have one of them, 
+the bad guys won't be able 
+to get them all, right?<PAGE><VOICE>(VA030_046)Maybe that's good enough.
+
+## POINTER 36
+<STR>(JUD)
+<VOICE>(VA030_047)I agree.
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VA030_048)All right then, Elder. We'll take 
+it off your hands. Thanks.
+
+## POINTER 38
+
+<VOICE>(VA030_049)Ho ho.
+
+## POINTER 39
+<STR>(KAR)
+<VOICE>(VA030_050)So as long as we have one, any of the 
+others should react to it somehow?
+
+## POINTER 40
+
+<VOICE>(VA030_051)If the legends 
+speak true.
+
+## POINTER 41
+<STR>(YUR)
+<VOICE>(VA030_052)Okay, got it. Thanks again, Elder. 
+We'll take it off your hands.
+
+## POINTER 42
+
+<VOICE>(VA030_053)Ho ho.

@@ -1,0 +1,209 @@
+## POINTER 0
+<STR>(KAR)
+What sort of blastia is this...?
+
+## POINTER 1
+<STR>(RIT)
+Hey, get your grubby mitts off it!
+
+## POINTER 2
+<STR>(RIT)
+Of course...
+It's slightly different 
+from the norm, but it looks 
+like a type of warp blastia.<PAGE>Its activating mechanism is... 
+Let's see...
+Huh...?
+
+## POINTER 3
+<STR>(YUR)
+What's the matter?
+
+## POINTER 4
+<STR>(RIT)
+...There's no activation 
+switch!<PAGE>It's properly equipped with a core, and it 
+doesn't look like it's the type where you 
+can activate it by removing the core.
+
+## POINTER 5
+<STR>(EST_P)
+So maybe there's an activation 
+switch located somewhere else?
+
+## POINTER 6
+<STR>(RIT)
+Perhaps... If there were 
+another blastia like this 
+one in this town.<PAGE>It wouldn't be too unusual for there to be 
+some device to manage all of them at once.
+
+## POINTER 7
+<STR>(YUR)
+Oh, so we can't 
+activate it, then? 
+Too bad...
+
+## POINTER 8
+<STR>(KAR)
+Huh? Why's it too bad?
+
+## POINTER 9
+<STR>(YUR)
+Nah, I just had a hunch it would 
+lead to something interesting...
+
+## POINTER 10
+<STR>(RIT)
+Blastia isn't a toy, you know!
+
+## POINTER 11
+<STR>(EST_P)
+Couldn't we just look for the 
+device that's managing it?
+
+## POINTER 12
+<STR>(RIT)
+Yes...
+
+## POINTER 13
+<STR>(YUR)
+Sure, maybe we can find it...
+
+## POINTER 14
+<STR>(RIT)
+I've told you. There's no 
+switch. We can't use this.
+
+## POINTER 15
+<STR>(YUR)
+Look, it's not like I'm crying or anything!
+
+## POINTER 16
+<STR>(YUR)
+Oh, it's working!
+
+## POINTER 17
+<STR>(EST_P)
+So that was the activation 
+device, after all!
+
+## POINTER 18
+<STR>(KAR)
+Then hurry up and--
+
+## POINTER 19
+<STR>(RIT)
+Hold your horses.
+
+## POINTER 20
+<STR>(RIT)
+This is just like in the Shaikos 
+Ruins. If you don't fill up the 
+core with aer, it won't work.
+
+## POINTER 21
+<STR>(YUR)
+Ah, so I should use the Sorcerer's Ring.
+
+## POINTER 22
+<STR>(RIT)
+Right.
+
+## POINTER 23
+<STR>(KAR)
+What sort of blastia is this...?
+
+## POINTER 24
+<STR>(RIT)
+Get your grubby mitts off it! I don't 
+want to have to tell you again!
+
+## POINTER 25
+<STR>(RIT)
+Of course...
+It's slightly different 
+from the norm, but it looks 
+like a type of warp blastia.<PAGE>But...there's no activation 
+switch...
+
+## POINTER 26
+<STR>(RIT)
+That device we saw back there... That 
+was the activation device for this!
+
+## POINTER 27
+<STR>(YUR)
+You mean in order to use 
+this to warp, we need to 
+activate that device?
+
+## POINTER 28
+<STR>(EST_P)
+Then we need 
+to go back there, 
+right?
+
+## POINTER 29
+<STR>(KAR)
+What sort of blastia is this...?
+
+## POINTER 30
+<STR>(RIT)
+Hey, get your grubby mitts off it!
+
+## POINTER 31
+<STR>(RIT)
+Of course...
+It's slightly different 
+from the norm, but it looks 
+like a type of warp blastia.
+
+## POINTER 32
+<STR>(EST_P)
+A warp blastia? You mean it 
+moves people around...?
+
+## POINTER 33
+<STR>(RIT)
+Most likely, it'll automatically 
+take us to some place far away.<PAGE>It's working...
+In a bunch 
+of ruins like this...?
+
+## POINTER 34
+<STR>(RIT)
+That device we saw back there... That 
+was the activation device for this!
+
+## POINTER 35
+<STR>(YUR)
+...Ah, okay.
+
+## POINTER 36
+<STR>(RIT)
+For the activation to be managed remotely like 
+that... That might mean that there are other, 
+similar types of blastia placed around.
+
+## POINTER 37
+<STR>(KAR)
+Then hurry up and--
+
+## POINTER 38
+<STR>(RIT)
+Hold your horses.
+
+## POINTER 39
+<STR>(RIT)
+This is just like in the Shaikos 
+Ruins. If you don't fill up the 
+core with aer, it won't work.
+
+## POINTER 40
+<STR>(YUR)
+Ah, so I should use the Sorcerer's Ring.
+
+## POINTER 41
+<STR>(RIT)
+Right.

@@ -1,0 +1,71 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888579]
+Una vuelta al mundo con (KAR)
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888579]
+(KAR)
+Creo que hemos recorrido el mundo entero.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261847282]
+(EST_P)
+Había leído sobre algunos de estos sitios
+en libros, ¡pero también hemos estado
+en otros de los que no sabía nada!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266838325]
+(RAV)
+Ah, cuánto admiro vuestra juventú...
+¡Vuestra dulce ingenuidá!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1265499341]
+(RIT)
+¿Qué pasa? ¿Tan viejo y pocho estás
+que ya no sabes apreciar nada?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266838325]
+(RAV)
+¡Oh, qué cruel eres! Yo soy tan inocente
+y puro com'un recién nacío...
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1265499341]
+(YUR)
+(JUD_P), tú has viajado por todo el mundo
+con Ba'ul, ¿no? Supongo que conocías la mayoría
+de los sitios a los que hemos ido, ¿verdad?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888579]
+(JUD)
+No, en absoluto.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1265499341]
+(JUD)
+Muchos de ellos no los había visto nunca.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137711]
+(KAR)
+¿Veis? ¿A que fue buena idea unirse a Gran
+Vesperia? ¡Mirad lo lejos que hemos llegado!
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1261847282]
+(EST_P)
+Creo que ya tengo una buena idea
+de lo grande que es el mundo.
+Eso nunca me pasaba en el castillo.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888579]
+(KAR)
+¿Lo veis?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1265499341]
+(RIT)
+No te nos pongas gallito, (KAR).
+Tampoco es que lo hayamos 
+conseguido gracias a ti.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266838325]
+(RAV)
+¡Ahora sabes cómo me siento yo, chaval! 
+Ven con er viejo (RAV).
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266838325]
+(RAV)
+¡Los miserables han d'estar juntos!

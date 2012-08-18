@@ -1,0 +1,299 @@
+## POINTER 100
+Ehmead Hill 03_03 (Basilisk) 3/Weather B
+
+## POINTER 101
+Ehmead Hill 04_01 (Goblin) 1/Weather B
+
+## POINTER 102
+Ehmead Hill 04_02 (Goblin) 2/Weather B
+
+## POINTER 103
+Ehmead Hill 04_02 (Goblin) 3/Weather B
+
+## POINTER 104
+Ehmead Hill 05_01 (Gattuso Cub) 1/Weather B
+
+## POINTER 105
+Ehmead Hill 05_02 (Gattuso Cub) 2/Weather B
+
+## POINTER 106
+Ehmead Hill 05_03 (Gattuso Cub) 3/Weather B
+
+## POINTER 107
+Ehmead Hill 05_04 (Gattuso Cub) 4/Weather B
+
+## POINTER 108 [user:memnoch;time:1265635854]
+Gattuso
+
+## POINTER 109
+Ehmead Hill 01_01 (Ladybug) 1/Demo
+
+## POINTER 110
+Ehmead Hill 01_02 (Ladybug) 2/Demo
+
+## POINTER 111
+Ehmead Hill 01_02 (Ladybug) 3/Demo
+
+## POINTER 112
+Ehmead Hill 02_01 (Chirpee) 1/Demo
+
+## POINTER 113
+Ehmead Hill 02_02 (Chirpee) 2/Demo
+
+## POINTER 114
+Ehmead Hill 02_03 (Chirpee) 3/Demo
+
+## POINTER 115
+Ehmead Hill 03_01 (Basilisk) 1/Demo
+
+## POINTER 116
+Ehmead Hill 03_02 (Basilisk) 2/Demo
+
+## POINTER 117
+Ehmead Hill 03_03 (Basilisk) 3/Demo
+
+## POINTER 118
+Ehmead Hill 04_01 (Goblin) 1/Demo
+
+## POINTER 119
+Ehmead Hill 04_02 (Goblin) 2/Demo
+
+## POINTER 120
+Ehmead Hill 04_02 (Goblin) 3/Demo
+
+## POINTER 121
+Ehmead Hill 05_01 (Gattuso Cub) 1/Demo
+
+## POINTER 122
+Ehmead Hill 05_02 (Gattuso Cub) 2/Demo
+
+## POINTER 123
+Ehmead Hill 05_03 (Gattuso Cub) 3/Demo
+
+## POINTER 124
+Ehmead Hill 05_04 (Gattuso Cub) 4/Demo
+
+## POINTER 125
+Gattuso (Demo)
+
+## POINTER 126
+Red-Eye Event Battle 1
+
+## POINTER 127
+Rhybgaro Event Battle
+
+## POINTER 128
+Mercenary Event Battle 1
+
+## POINTER 129
+Zagi: Fight 2
+
+## POINTER 130
+Caer Bocram 01_01 (Tortoise) 1/Weather A
+
+## POINTER 131
+Caer Bocram 01_02 (Tortoise) 2/Weather A
+
+## POINTER 132
+Caer Bocram 01_03 (Tortoise) 3/Weather A
+
+## POINTER 133
+Caer Bocram 01_04 (Tortoise) 4/Weather A
+
+## POINTER 134
+Caer Bocram 02_01 (Spiky Polwigle)  1/Weather A
+
+## POINTER 135
+Caer Bocram 02_02 (Spiky Polwigle)  2/Weather A
+
+## POINTER 136
+Caer Bocram 02_03 (Spiky Polwigle)  3/Weather A
+
+## POINTER 137
+Caer Bocram 02_04 (Spiky Polwigle)  4/Weather A
+
+## POINTER 138
+Caer Bocram 02_05 (Spiky Polwigle)  5/Weather A
+
+## POINTER 139
+Caer Bocram 03_01 (Spiky Ribbit) 1/Weather A
+
+## POINTER 140
+Caer Bocram 03_02 (Spiky Ribbit) 2/Weather A
+
+## POINTER 141
+Caer Bocram 03_03 (Spiky Ribbit) 3/Weather A
+
+## POINTER 142
+Caer Bocram 03_04 (Spiky Ribbit) 4/Weather A
+
+## POINTER 143
+Caer Bocram 04_01 (Bat Umbrella Ghost) 1/Weather A
+
+## POINTER 144
+Caer Bocram 04_02 (Bat Umbrella Ghost) 2/Weather A
+
+## POINTER 145
+Caer Bocram 04_03 (Bat Umbrella Ghost) 3/Weather A
+
+## POINTER 146
+Caer Bocram 05_01 (Chirpee: Green Wing) 1/Weather A
+
+## POINTER 147
+Caer Bocram 05_02 (Chirpee: Green Wing) 2/Weather A
+
+## POINTER 148
+Caer Bocram 05_03 (Chirpee: Green Wing) 3/Weather A
+
+## POINTER 149
+Caer Bocram 01_01 (Tortoise) 1/Weather B
+
+## POINTER 150
+Caer Bocram 01_02 (Tortoise) 2/Weather B
+
+## POINTER 151
+Caer Bocram 01_03 (Tortoise) 3/Weather B
+
+## POINTER 152
+Caer Bocram 01_04 (Tortoise) 4/Weather B
+
+## POINTER 153
+Caer Bocram 02_01 (Spiky Polwigle)  1/Weather B
+
+## POINTER 154
+Caer Bocram 02_02 (Spiky Polwigle)  2/Weather B
+
+## POINTER 155
+Caer Bocram 02_03 (Spiky Polwigle)  3/Weather B
+
+## POINTER 156
+Caer Bocram 02_04 (Spiky Polwigle)  4/Weather B
+
+## POINTER 157
+Caer Bocram 02_05 (Spiky Polwigle)  5/Weather B
+
+## POINTER 158
+Caer Bocram 03_01 (Spiky Ribbit) 1/Weather B
+
+## POINTER 159
+Caer Bocram 03_02 (Spiky Ribbit) 2/Weather B
+
+## POINTER 160
+Caer Bocram 03_03 (Spiky Ribbit) 3/Weather B
+
+## POINTER 161
+Caer Bocram 03_04 (Spiky Ribbit) 4/Weather B
+
+## POINTER 162
+Caer Bocram 04_01 (Bat Umbrella Ghost) 1/Weather B
+
+## POINTER 163
+Caer Bocram 04_02 (Bat Umbrella Ghost) 2/Weather B
+
+## POINTER 164
+Caer Bocram 04_03 (Bat Umbrella Ghost) 3/Weather B
+
+## POINTER 165
+Caer Bocram 05_01 (Chirpee: Green Wing) 1/Weather B
+
+## POINTER 166
+Caer Bocram 05_02 (Chirpee: Green Wing) 2/Weather B
+
+## POINTER 167
+Caer Bocram 05_03 (Chirpee: Green Wing) 3/Weather B
+
+## POINTER 168
+Caer Bocram 06_01 (Mimic: Tree) 1/Weather AB
+
+## POINTER 169
+Gusios: Fight 1
+
+## POINTER 170
+FS Tutorial
+
+## POINTER 171
+Ragou's Residence 01_01 (Wolf: Ragou version)/Weather AB
+
+## POINTER 172
+Ragou's Residence 01_02 (Wolf: Ragou version)/Weather AB
+
+## POINTER 173
+Ragou's Residence 01_03 (Wolf: Ragou version)/Weather AB
+
+## POINTER 174
+Ragou's Residence 02_01 (Boar: Ragou version)/Weather AB
+
+## POINTER 175
+Ragou's Residence 02_02 (Boar: Ragou version)/Weather AB
+
+## POINTER 176
+Ragou's Residence 02_03 (Boar: Ragou version)/Weather AB
+
+## POINTER 177
+Ragou's Residence 03_01 (Basilisk: Ragou version)/Weather AB
+
+## POINTER 178
+Ragou's Residence 03_02 (Basilisk: Ragou version)/Weather AB
+
+## POINTER 179
+Ragou's Residence 03_03 (Basilisk: Ragou version)/Weather AB
+
+## POINTER 180
+Ragou's Residence 04_01 (Bat: Ragou version)/Weather AB
+
+## POINTER 181
+Ragou's Residence 04_02 (Bat: Ragou version)/Weather AB
+
+## POINTER 182
+Ragou's Residence 04_03 (Bat: Ragou version)/Weather AB
+
+## POINTER 183
+Enraged Monsters: Fight 1
+
+## POINTER 184
+Enraged Monsters: Fight 2
+
+## POINTER 185
+Red-Eye Event Battle 2
+
+## POINTER 186
+Tweedle A & B Tutorial 3
+
+## POINTER 187
+Keiv Moc 01_01 (Filifolia: Nepenthes)/Weather A
+
+## POINTER 188
+Keiv Moc 01_02 (Filifolia: Nepenthes)/Weather A
+
+## POINTER 189
+Keiv Moc 01_03 (Filifolia: Nepenthes)/Weather A
+
+## POINTER 190
+Keiv Moc 01_04 (Filifolia: Nepenthes)/Weather A
+
+## POINTER 191
+Keiv Moc 02_01 (Insect Plant: Nepenthes)/Weather A
+
+## POINTER 192
+Keiv Moc 02_02 (Insect Plant: Nepenthes)/Weather A
+
+## POINTER 193
+Keiv Moc 02_03 (Insect Plant: Nepenthes)/Weather A
+
+## POINTER 194
+Keiv Moc 02_04 (Insect Plant: Nepenthes)/Weather A
+
+## POINTER 195
+Keiv Moc 03_01 (Bat: Leaf)/Weather A
+
+## POINTER 196
+Keiv Moc 03_02 (Bat: Leaf)/Weather A
+
+## POINTER 197
+Keiv Moc 03_03 (Bat: Leaf)/Weather A
+
+## POINTER 198
+Keiv Moc 04_01 (Stag Beetle: Base Type)/Weather A
+
+## POINTER 199
+Keiv Moc 04_02 (Stag Beetle: Base Type)/Weather A

@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266669690]
+La historia del fuerte
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314583]
+(EST_P)
+Me pregunto cuándo se construyó
+el fuerte Deidon.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314583]
+(YUR)
+Por su aspecto, yo diría
+que ya lleva varias décadas
+aguantando lo indecible.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1267198012]
+(RAV)
+La gente ya se pasaba por aquí cuando
+er viejo (RAV) todavía era er pequeño (RAV).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112393]
+(KAR)
+Una vez estuve en un gremio cuyo líder
+era una persona muy, muy anciana...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112393]
+(KAR)
+Y me dijo que lo construyeron
+cuando su abuelo era todavía un niño.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112393]
+(YUR)
+Entonces, debe tener
+mínimo cien años, ¿no?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112393]
+(EST_P)
+Y el Señor de las Llanuras
+todavía más. Debe ser increíble.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112393]
+(YUR)
+No sé yo. Puede que sea una mujer...
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314583]
+(KAR)
+(YUR), creo que no lo has pillado...

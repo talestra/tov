@@ -1,0 +1,178 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188333]
+<STR>(RIT)
+<VOICE>(VA110_001)Intenta sincronizarte con mi fórmula.
+Eso es... Muy bien.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188333]
+<STR>(YUR)
+<VOICE>(VA110_002)Nng.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:miyu;time:1271950838]
+<STR>(RIT)
+<VOICE>(VA110_003)Listo...<PAGE><VOICE>
+(VA110_004)Procura sincronizar la reformulación
+cuando entre en tu campo de fuerza.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188333]
+<STR>(RIT)
+<VOICE>(VA110_005)Bien, está dentro de la apátheia...<PAGE><VOICE>
+(VA110_006)Concéntrate en recombinar
+el aer que fluye en 
+el momento justo.<PAGE><VOICE>
+(VA110_007)Yo me ocupo del resto.<PAGE>
+<VOICE>(VA110_008)¿Entendido?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188333]
+<STR>(RIT)
+<VOICE>(VA110_009)Vale, vamos allá.<PAGE><VOICE>
+(VA110_010)La cantidad de aer está aumentando. 
+Que viene...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:miyu;time:1272471728]
+<STR>(RIT)
+<VOICE>(VA110_011)Parece que está bien...<PAGE><VOICE>
+(VA110_012)Vale, voy a empezar
+desde arriba...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:miyu;time:1272471728]
+<STR>(RIT)
+<VOICE>(VA110_013)Nop. Tendremos que probar otra vez.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:miyu;time:1271950838]
+<STR>(RIT)
+<VOICE>(VA110_014)Tienes que concentrarte más.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188333]
+<STR>(RIT)
+<VOICE>(VA110_015)Eres bastante torpe.
+Ya lo sabía, pero aun así...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:miyu;time:1271948578]
+<STR>(RIT)
+<VOICE>(VA110_016)¡Sigue así!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:miyu;time:1271948617]
+<STR>(RIT)
+<VOICE>(VA110_017)El aer se está agrupando 
+en el cielo cian...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298484958]
+<STR>(EST_P)
+<VOICE>(VA110_018)Uff, uff...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188333]
+<STR>(RIT)
+<VOICE>(VA110_019)Es... imposible...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188333]
+<STR>(EST_P)
+<VOICE>(VA110_020)Lo siento. Si pudiera 
+aguantar un poco más...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188333]
+<STR>(YUR)
+<VOICE>(VA110_021)El mundo todavía no se ha acabado;
+es pronto para disculparse.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:miyu;time:1271949712]
+<STR>(RAV)
+<VOICE>(VA110_022)Sí.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:parsec;time:1271960409]
+<STR>(EST_P)
+<VOICE>(VA110_023)Tienes... razón.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188333]
+<STR>(RIT)
+<VOICE>(VA110_024)<STR>(EST_P)...
+Siento  que tengas que...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:miyu;time:1271949712]
+<STR>(EST_P)
+<VOICE>(VA110_025)No te preocupes por mí... 
+¡Tengo energía de sobra!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:miyu;time:1272471728]
+<STR>(RIT)
+<VOICE>(VA110_026)Bien, probemos otra vez.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298484958]
+<STR>(EST_P)
+<VOICE>(VA110_027)Uff, uff...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:miyu;time:1272471728]
+<STR>(RIT)
+<VOICE>(VA110_028)Puede ser peligroso
+presionar a <STR>(EST_P)
+mucho más...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:miyu;time:1272916235]
+<STR>(YUR)
+<VOICE>(VA110_029)Ya...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:miyu;time:1272471728]
+<STR>(EST_P)
+<VOICE>(VA110_030)Lo siento. Esto también
+os está agotando a vosotros...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:miyu;time:1271949712]
+<STR>(KAR)
+<VOICE>(VA110_031)¡Qué va, esto no es nada!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:miyu;time:1272471728]
+<STR>(RIT)
+<VOICE>(VA110_032)Preferiría no tener 
+que hacerlo, pero te pido 
+que resistas una vez más.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:miyu;time:1271949712]
+<STR>(JUD)
+<VOICE>(VA110_033)¿Qué vas a hacer?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:miyu;time:1272471728]
+<STR>(RIT)
+<VOICE>(VA110_034)Marcaré el ritmo yo misma. 
+<STR>(EST_P), tú síguelo y 
+ajusta tus movimientos.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:miyu;time:1271949712]
+<STR>(RIT)
+<VOICE>(VA110_035)¿Estamos todos listos?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188333]
+<STR>(RIT)
+<VOICE>
+(VA110_036)La fórmula fluye con suavidad. La fuente
+de poder es estable... ¡Va a funcionar!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:miyu;time:1271949712]
+<STR>(EST_P)
+<VOICE>(VA110_037)Uuh... Ah...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:miyu;time:1271951824]
+Undine
+<VOICE>(VA110_038)Undine... A partir de ahora se
+me conocerá como el espíritu Undine.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1294188333]
+Undine
+<VOICE>(VA110_039)Aah... Siento como el
+poder fluye en mí...<PAGE><VOICE>
+(VA110_040)Tal es el beneficio del 
+aer que tan gentilmente
+habéis recogido para mí...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:miyu;time:1272471728]
+<STR>(KAR)
+<VOICE>(VA110_041)Y no fue nada fácil...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:miyu;time:1272916235]
+Undine
+<VOICE>(VA110_042)Aceptad esto como muestra
+de mi gratitud.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:miyu;time:1271951824]
+<STR>(YUR)
+<VOICE>(VA110_043)¡Undine! Estamos intentando mantener
+el aer de este mundo bajo control.
+¡Préstanos tu poder!

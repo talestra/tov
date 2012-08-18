@@ -1,0 +1,308 @@
+## POINTER 147 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+Bosques de Quoi
+
+## POINTER 148 [t:1;r:1;ru:memnoch;user:memnoch;time:1297534183]
+Temido por los aldeanos de los alrededores, es conocido como
+«el bosque prohibido». Se rumorea que guarda un campo de flores...
+
+## POINTER 152 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+Ruinas de Shaikos
+
+## POINTER 153 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+Ruinas de Shaikos
+
+## POINTER 154 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+Ruinas de Shaikos
+
+## POINTER 155 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+Ruinas de Shaikos
+
+## POINTER 156 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262377162]
+Un templo sagrado del que solo quedan ruinas.
+
+## POINTER 157 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262377162]
+Antiguo santuario sagrado donde se ha descubierto una gran
+cantidad de blastias. Poca gente conoce el nivel subterráneo.
+
+## POINTER 160 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Colina de Ehmead
+
+## POINTER 161 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Colina de Ehmead
+
+## POINTER 162 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Colina de Ehmead
+
+## POINTER 163 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Colina de Ehmead
+
+## POINTER 164 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533729]
+El camino que une Halure y Capua Nor.
+Está bloqueado por culpa del escudo blastia roto.
+
+## POINTER 165 [t:1;r:1;ru:memnoch;user:memnoch;time:1297533729]
+El camino que une Halure y Capua Nor.
+Está bloqueado por culpa del escudo blastia roto.
+
+## POINTER 168 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Puerto de Capua Nor, residencia de Ragou
+
+## POINTER 169 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Puerto de Capua Nor, residencia de Ragou
+
+## POINTER 170 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Puerto de Capua Nor, residencia de Ragou
+
+## POINTER 171 [t:1;r:3;ru:xander,memnoch,squallido;user:xander;time:1256424764]
+Puerto de Capua Nor, residencia de Ragou
+
+## POINTER 172 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262984771]
+Existe una habitación secreta bajo la mansión
+de Ragou donde los monstruos campan a sus anchas.
+
+## POINTER 176 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+La ciudad en ruinas, Caer Bocram
+
+## POINTER 177 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+La ciudad en ruinas, Caer Bocram
+
+## POINTER 178 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+La ciudad en ruinas, Caer Bocram
+
+## POINTER 179 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+La ciudad en ruinas, Caer Bocram
+
+## POINTER 180 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262984771]
+Antaño una ciudad majestuosa,
+ahora está abandonada y habitada por monstruos.
+
+## POINTER 184 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Bosque de Keiv Moc
+
+## POINTER 185 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Bosque de Keiv Moc
+
+## POINTER 186 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Bosque de Keiv Moc
+
+## POINTER 187 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Bosque de Keiv Moc
+
+## POINTER 188 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262984771]
+El bosque más frondoso de Tolbyccia.
+Árboles tan ancianos como el propio mundo se alzan hacia los cielos.
+
+## POINTER 189 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262984771]
+Árboles tan ancianos como el propio mundo se alzan hacia los cielos.
+Un aer krene se encuentra en su centro.
+
+## POINTER 192 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 193 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 194 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 195 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La Torre de los Engranajes, Ghasfarost
+
+## POINTER 196 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262377162]
+Una torre construida a partir de escombros.
+En su cúspide yace un artefacto capaz de generar tornados.
+
+## POINTER 200 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+El barco fantasma, Atherum
+
+## POINTER 201 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+El barco fantasma, Atherum
+
+## POINTER 202 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+El barco fantasma, Atherum
+
+## POINTER 203 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+El barco fantasma, Atherum
+
+## POINTER 204 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262377162]
+Un barco fantasma rodeado por una inquietante niebla.
+Monstruos invisibles acechan en su cubierta.
+
+## POINTER 208 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La caverna de Cados
+
+## POINTER 209 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La caverna de Cados
+
+## POINTER 210 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La caverna de Cados
+
+## POINTER 211 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La caverna de Cados
+
+## POINTER 212 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262387268]
+Una cueva en las montañas de Cados, nido de voraces monstruos.
+
+## POINTER 216 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1262990369]
+Las Arenas de Kogorh
+
+## POINTER 217 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1262990369]
+Las Arenas de Kogorh
+
+## POINTER 218 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1262990369]
+Las Arenas de Kogorh
+
+## POINTER 219 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1262990369]
+Las Arenas de Kogorh
+
+## POINTER 220 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262387268]
+Un sofocante desierto que se extiende más allá del horizonte.
+Por la noche alcanza temperaturas bajo cero.
+
+## POINTER 221 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+Un sofocante desierto que se extiende más allá del horizonte.
+Hogar de Phaeroh.
+
+## POINTER 224 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La Mansión de los Infames
+
+## POINTER 225 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La Mansión de los Infames
+
+## POINTER 226 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La Mansión de los Infames
+
+## POINTER 227 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+La Mansión de los Infames
+
+## POINTER 228 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262391452]
+Escondite de la Garra del Leviatán, el gremio de Yeager.
+Aquí se guardan un sinnúmero de armas para el mercado negro.
+
+## POINTER 232 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Monte Temza
+
+## POINTER 233 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Monte Temza
+
+## POINTER 234 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Monte Temza
+
+## POINTER 235 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Monte Temza
+
+## POINTER 236 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262984771]
+Una montaña arrasada por la guerra hace tiempo.
+Todavía pueden verse las secuelas.
+
+## POINTER 240 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Bosque de Egothor
+
+## POINTER 241 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Bosque de Egothor
+
+## POINTER 242 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Bosque de Egothor
+
+## POINTER 243 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256424764]
+Bosque de Egothor
+
+## POINTER 244 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262391452]
+Un pasaje usado antiguamente en el peregrinaje a Baction.
+El puente es la prueba viva de ello.
+
+## POINTER 248 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+El templo olvidado, Baction 
+
+## POINTER 249 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+El templo olvidado, Baction 
+
+## POINTER 250 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+El templo olvidado, Baction 
+
+## POINTER 251 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586478]
+El templo olvidado, Baction 
+
+## POINTER 252 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262984771]
+Un santuario destinado en el pasado al culto de los fieles.
+Todas las habitaciones parecen iguales y se rumorea que hay una secreta...
+
+## POINTER 256 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+La fortaleza móvil, Heracles
+
+## POINTER 257 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+La fortaleza móvil, Heracles
+
+## POINTER 258 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+La fortaleza móvil, Heracles
+
+## POINTER 259 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+La fortaleza móvil, Heracles
+
+## POINTER 260 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262391452]
+Una gigantesca arma mágica construida a toda prisa por el Imperio.
+Debido a esto, el casco está constituido por una amalgama de materiales.
+
+## POINTER 264 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+Los Bancos Afilados de Zopheir
+
+## POINTER 265 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+Los Bancos Afilados de Zopheir
+
+## POINTER 266 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+Los Bancos Afilados de Zopheir
+
+## POINTER 267 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987429]
+Los Bancos Afilados de Zopheir
+
+## POINTER 268 [t:1;r:1;ru:memnoch;user:memnoch;time:1297534183]
+Cruzad los glaciares para dar un rodeo por el norte de Ilyccia.
+Habitan monstruos debajo y encima del hielo.
+
+## POINTER 269 [t:1;r:1;ru:memnoch;user:memnoch;time:1297534183]
+Cruzad los glaciares para dar un rodeo por el norte de Ilyccia.
+En mitad de ellos se encuentra un aer krene.
+
+## POINTER 272 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+El santuario eterno de Zaude
+
+## POINTER 273 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+El santuario eterno de Zaude
+
+## POINTER 274 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+El santuario eterno de Zaude
+
+## POINTER 275 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+El santuario eterno de Zaude
+
+## POINTER 276 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262391452]
+Una fortaleza que se hundió en el fondo del océano.
+Alexei la repuso para utilizarla como un blastia hoplón.
+
+## POINTER 280 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586598]
+Las tierras cristalinas de Erealumen
+
+## POINTER 281 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586598]
+Las tierras cristalinas de Erealumen
+
+## POINTER 282 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586598]
+Las tierras cristalinas de Erealumen
+
+## POINTER 283 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257586598]
+Las tierras cristalinas de Erealumen
+
+## POINTER 284 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262984771]
+Formado por un enorme cristal que emergió del océano.
+Lo componen cristales tanto sólidos como dúctiles.
+
+## POINTER 288 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+Cañón de Relewiese
+
+## POINTER 289 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+Cañón de Relewiese
+
+## POINTER 290 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+Cañón de Relewiese
+
+## POINTER 291 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256918913]
+Cañón de Relewiese

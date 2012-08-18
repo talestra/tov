@@ -1,0 +1,273 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS16_006)You...!
+
+## POINTER 1
+Ragou
+<VOICE>(VS16_007)Yes? Have we met 
+somewhere?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS16_008)Convenient time for amnesia. 
+I know somebody who can 
+fix that for you.
+
+## POINTER 3
+Ragou
+<VOICE>(VS16_009)Amnesia? I'm terribly 
+sorry, but this is the 
+first time we've met.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS16_010)Are you crazy?!
+
+## POINTER 5
+<STR>(FRE)
+<VOICE>(VS16_011)Magistrate, your crimes are 
+undeniable. These people 
+have seen everything.
+
+## POINTER 6
+Ragou
+<VOICE>(VS16_012)As I've just been explaining, someone 
+had assumed my identity and was 
+trying to ruin my reputation.<PAGE><VOICE>(VS16_013)It was most upsetting.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS16_014)Liar! I saw those people 
+you fed to the monsters 
+with my own two eyes!
+
+## POINTER 8
+Ragou
+<VOICE>(VS16_015)Well, Sir <STR>(FRE)? Who are you to 
+believe, these young ruffians or 
+me, a member of the Council?
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS16_016)<STR>(FRE)...
+
+## POINTER 10
+Ragou
+<VOICE>(VS16_017)It's settled then. 
+I bid you all good day.
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS16_018)Who does that guy think he is?
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS16_019)And who the hell is he?!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS16_020)Settle down.
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS16_021)This is...
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS16_022)This is His Royal Highness Ioder, 
+candidate for the imperial throne.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS16_023)Huh? Hah hah, yeah right, <STR>(EST_P), good one...
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS16_024)Hah hah hah...
+...What?
+
+## POINTER 18
+Ioder
+<VOICE>(VS16_025)I am only one of the candidates.
+
+## POINTER 19
+<STR>(FRE)
+<VOICE>(VS16_026)It's true. With the passing of the 
+previous emperor, Master Ioder is 
+a rightful heir to the throne.
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS16_027)R-really?!
+
+## POINTER 21
+Ioder
+<VOICE>(VS16_028)Yes.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS16_029)An alleged imperial heir captured 
+by a so-called magistrate. 
+That's interesting.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS16_030)...I see. Then this incident 
+means that I...
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS16_031)A little too juicy for public 
+consumption, huh?
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS16_032)I...I just...
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS16_033)It's got something to do with your decision 
+to leave the castle, doesn't it?
+
+## POINTER 27
+<STR>(EST_P)
+<VOICE>(VS16_034)...
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS16_035)Do whatever you want.
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS16_036)I've got no interest in an empire that 
+just sits and does nothing while its 
+people suffer in plain sight.
+
+## POINTER 30
+<STR>(FRE)
+<VOICE>(VS16_037)<STR>(YUR)...
+
+## POINTER 31
+<STR>(FRE)
+<VOICE>(VS16_038)And what have you changed by turning 
+your back on such an empire?
+
+## POINTER 32
+<STR>(FRE)
+<VOICE>(VS16_039)We need just laws laid down by the 
+government to ensure that people can 
+live lives of stability and peace.
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS16_040)Those same laws just let 
+Ragou walk out that door.
+
+## POINTER 34
+<STR>(FRE)
+<VOICE>(VS16_041)Which is why you and I became knights, 
+<STR>(YUR). To change things like that.<PAGE><VOICE>(VS16_042)If we couldn't make it happen by 
+yelling about it from below...<PAGE><VOICE>(VS16_043)...then we said we'd gain 
+honor and trust, and fix 
+the empire from within.<PAGE><VOICE>(VS16_044)Remember?
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS16_045)...So in order to get ahead in life, I'm 
+supposed to stand by while somebody feeds 
+little kids to monsters? Is that it?<PAGE><VOICE>(VS16_046)You want me to look the other way when our people 
+in the lower quarter are being bled dry by taxes?<PAGE><VOICE>(VS16_047)It's because I can't do those things 
+that I quit being a knight.
+
+## POINTER 36
+<STR>(FRE)
+<VOICE>(VS16_048)I know. But has anything 
+changed because you quit?
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VS16_049)...
+
+## POINTER 38
+<STR>(FRE)
+<VOICE>(VS16_050)How is anything different than it 
+was before you joined the Knights?
+
+## POINTER 39
+<STR>(KAR)
+<VOICE>(VS16_051)W-wait, I'm coming too...
+
+## POINTER 40
+<STR>(FRE)
+<VOICE>(VS16_052)I've done it again...<PAGE><VOICE>(VS16_053)I only want for him to move on 
+with his life. To quit sitting around.
+
+## POINTER 41
+<STR>(EST_P)
+<VOICE>(VS16_054)<STR>(FRE), I...
+
+## POINTER 42
+<STR>(FRE)
+<VOICE>(VS16_055)...My apologies for such an 
+embarrassing scene.
+
+## POINTER 43
+Ioder
+<VOICE>(VS16_056)What do you intend to do next?
+
+## POINTER 44
+<STR>(EST_P)
+<VOICE>(VS16_057)Would it be all right if I go with him?
+
+## POINTER 45
+<STR>(FRE)
+<VOICE>(VS16_058)Why?
+
+## POINTER 46
+<STR>(EST_P)
+<VOICE>(VS16_059)...I feel like so much has changed 
+during my travels with <STR>(YUR). 
+The empire, the world...<PAGE><VOICE>(VS16_060)I've changed as well...
+
+## POINTER 47
+<STR>(FRE)
+<VOICE>(VS16_061)Lady <STR>(EST)... Understood.<PAGE><VOICE>(VS16_062)You there, young man.
+
+## POINTER 48
+<STR>(KAR)
+<VOICE>(VS16_063)Who...m-me?!
+
+## POINTER 49
+<STR>(FRE)
+<VOICE>(VS16_064)Tell <STR>(YUR) to take good care 
+of this young lady.
+
+## POINTER 50
+<STR>(KAR)
+<VOICE>(VS16_065)O-okay...!
+
+## POINTER 51
+<STR>(EST_P)
+<VOICE>(VS16_066)Is it really all right...?
+
+## POINTER 52
+<STR>(FRE)
+<VOICE>(VS16_067)I would rather do the job 
+myself, but I'm afraid my 
+current duties won't allow it.<PAGE><VOICE>(VS16_068)And as long as you're with him, 
+I can be certain you'll be safe.
+
+## POINTER 53
+<STR>(EST_P)
+<VOICE>(VS16_069)You believe in 
+him, don't you.
+
+## POINTER 54
+<STR>(FRE)
+<VOICE>(VS16_070)I do.
+
+## POINTER 55
+<STR>(RIT)
+<VOICE>(VS16_071)If you guys are finished, 
+can we get going? We'll lose 
+him if we don't hurry.

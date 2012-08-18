@@ -1,0 +1,311 @@
+## POINTER 377 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1263751874]
+Reduce el tiempo necesario para escapar.
+
+## POINTER 378 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263335779]
+Salto aéreo
+
+## POINTER 379 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263335779]
+Añade un salto más en el aire.
+
+## POINTER 380 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263335779]
+Salto aéreo 2
+
+## POINTER 381 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265652682]
+Añade dos saltos más en el aire.
+
+## POINTER 382 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Salto cancelador
+
+## POINTER 383 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Permite cancelar acciones ejecutando un salto.
+
+## POINTER 384 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652444]
+LIM aéreo
+
+## POINTER 385 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652608]
+Capacidad para usar Límites en el aire.
+
+## POINTER 386 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Retroceso aéreo
+
+## POINTER 387 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+En mitad de un salto, pulsa <06>(GUD) ＋ <06>(LTR)
+para retroceder una vez en el aire.
+
+## POINTER 388 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265652682]
+Sprint aéreo
+
+## POINTER 389 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100790]
+En mitad de un salto, pulsa <06>(GUD) ＋ <06>(LTR)
+para desplazarte hacia delante.
+
+## POINTER 390 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Descenso rápido
+
+## POINTER 391 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Pulsa <06>(LTD) para aterrizar en el acto
+cuando estás en el aire.
+
+## POINTER 392 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263495721]
+Aterrizaje
+
+## POINTER 393 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263495721]
+Reduce el tiempo que el personaje es incapaz
+de moverse después de aterrizar.
+
+## POINTER 394 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Levitación
+
+## POINTER 395 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Pulsa <06>(L3) para levitar durante un salto. Usa <06>(LTU) o <06>(LTD)
+para ascender o descender y <06>(L3) para aterrizar.
+
+## POINTER 396 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263495721]
+Fuerza combo
+
+## POINTER 397 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100790]
+Mitiga el daño recibido por un ataque combo básico.
+
+## POINTER 398 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Combo extra I
+
+## POINTER 399 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Pulsa <06>(ATK) en el momento justo al final
+de un combo para dar un golpe adicional al enemigo.
+
+## POINTER 400 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Combo extra II
+
+## POINTER 401 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Pulsa <06>(ATK) en el momento justo al final
+de un Combo extra I para dar un golpe adicional al enemigo.
+
+## POINTER 402 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Combo extra III
+
+## POINTER 403 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Pulsa <06>(ATK) en el momento justo al final
+de un Combo extra II para dar un golpe adicional al enemigo.
+
+## POINTER 404 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241798]
+Combo aéreo
+
+## POINTER 405 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241798]
+Añade un golpe extra a un ataque aéreo.
+
+## POINTER 406 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241798]
+Combo aéreo 2
+
+## POINTER 407 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241798]
+Añade dos golpes extras a un ataque aéreo.
+
+## POINTER 408 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241798]
+Combo aéreo 3
+
+## POINTER 409 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263241798]
+Añade tres golpes extras a un ataque aéreo.
+
+## POINTER 410 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Flecha rauda
+
+## POINTER 411 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Acorta el tiempo necesario para disparar una flecha
+en los ataques normales, pero su poder disminuye.
+
+## POINTER 412 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Largo alcance
+
+## POINTER 413 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100790]
+Aumenta el radio de alcance del arco.
+
+## POINTER 414 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Combo mágico
+
+## POINTER 415 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Lanza un arte modificado inmediatamente después
+de lanzar un hechizo básico, sin recitar.
+
+## POINTER 416 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Tiro lejano
+
+## POINTER 417 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Los ataques básicos se convierten en pequeños tiros
+de energía capaces de atacar a distancia.
+
+## POINTER 418 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Conjuro cargado
+
+## POINTER 419 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Mantén pulsado <06>(ART) tras usar una habilidad de principiante
+para moverte libremente mientras retrasas el conjuro.
+
+## POINTER 420 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Conjuro cargado 2
+
+## POINTER 421 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Mantén pulsado <06>(ART) tras usar una habilidad intermedia
+para moverte libremente mientras retrasas el conjuro.
+
+## POINTER 422 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Conjuro cargado 3
+
+## POINTER 423 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Mantén pulsado <06>(ART) tras usar una habilidad avanzada
+para moverte libremente mientras retrasas el conjuro.
+
+## POINTER 424 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Ritmo
+
+## POINTER 425 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263930954]
+Pulsa <06>(ATK) repetidamente mientras recitas un conjuro
+para lanzarlo más rápidamente.
+
+## POINTER 426 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Doble o nada
+
+## POINTER 427 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Recitar conjuros de principiante o intermedios
+llevarán, bien el doble de tiempo, bien serán inmediatos.
+
+## POINTER 428 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Re-recitación
+
+## POINTER 429 [t:1;r:1;ru:memnoch;user:memnoch;time:1297101413]
+Si al recitar un conjuro, este es interrumpido,
+al hacerlo otra vez no empezarás desde el principio.
+
+## POINTER 430 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Recalentar
+
+## POINTER 431 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Cuando el HP esté por debajo de 120 y el TP por encima de 60,
+las habilidades de principiante consumirán 1/8 de TP y no habrá que recitarlos.
+
+## POINTER 432 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Recitación rápida
+
+## POINTER 433 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Reduce el tiempo que lleva recitar un conjuro.
+
+## POINTER 434 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265652682]
+Final afortunado
+
+## POINTER 435 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+De vez en cuando el personaje podrá
+moverse justo después de lanzar un conjuro.
+
+## POINTER 436 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Fin de hechizo
+
+## POINTER 437 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811204]
+Podrás moverte justo después de lanzar un conjuro.
+
+## POINTER 438 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262515050]
+Venganza de martillo
+
+## POINTER 439 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264246960]
+Contraataca ocasionalmente con el hechizo
+Martillo tras recibir un ataque.
+
+## POINTER 440 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Venganza mágica
+
+## POINTER 441 [t:1;r:1;ru:memnoch;user:memnoch;time:1297101413]
+Elimina el tiempo de recitación de una habilidad
+de principiante si se ejecuta al tambalearse.
+
+## POINTER 442 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025187]
+Súper cadena 4
+
+## POINTER 443 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652608]
+Capacidad para enlazar artes básicas y alteradas.
+
+## POINTER 444 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025187]
+Súper cadena 5
+
+## POINTER 445 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652608]
+Capacidad para enlazar artes alteradas y arcanas.
+
+## POINTER 446 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025187]
+Súper cadena
+
+## POINTER 447 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652608]
+Capacidad para enlazar artes básicas y arcanas.
+
+## POINTER 448 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025187]
+Súper cadena 2
+
+## POINTER 449 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652608]
+Capacidad para enlazar artes arcanas y alteradas.
+
+## POINTER 450 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025187]
+Súper cadena 3
+
+## POINTER 451 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652608]
+Capacidad para enlazar artes alteradas y básicas.
+
+## POINTER 452 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652747]
+Habilidad plus
+
+## POINTER 453 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652747]
+Continúa un arte básico con un segundo
+arte básico una vez por combo.
+
+## POINTER 454 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652747]
+Gran habilidad plus
+
+## POINTER 455 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652747]
+Continúa un arte alterado con un segundo
+arte alterado una vez por combo.
+
+## POINTER 456 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652747]
+Hiper habilidad plus
+
+## POINTER 457 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263652747]
+Continúa un arte arcano con un segundo
+arte arcano una vez por combo.
+
+## POINTER 458 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Agresor sombrío
+
+## POINTER 459 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Incrementa la velocidad cuando se ataca
+a un enemigo por la espalda.
+
+## POINTER 460 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Anillo sanador
+
+## POINTER 461 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Durante un Límite, corre por el escenario dibujando un círculo
+en el suelo. Los aliados dentro de ese círculo recuperarán HP.
+
+## POINTER 462 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263805996]
+Choca esos cinco
+
+## POINTER 463 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980925]
+De vez en cuando tras un combate los miembros del grupo
+chocarán esos cinco en la pantalla de resultados.
+
+## POINTER 464 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264246960]
+Vínculo
+
+## POINTER 465 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264246960]
+Durante un Límite, conecta a los miembros del grupo con un anillo
+para que se muevan juntos durante el movimiento libre.
+
+## POINTER 466 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811342]
+Zona de impulso de LIM
+
+## POINTER 467 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811342]
+La velocidad a la que se rellena la barra de LIM dependerá
+del número de aliados que haya cerca de Flynn durante el combate.
+
+## POINTER 468 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025206]
+Área de súper hechizo
+
+## POINTER 469 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811342]
+Disminuye el tiempo necesario para recitar un conjuro
+si Flynn está cerca durante el combate.
+
+## POINTER 470 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263811342]
+Impulso de LIM

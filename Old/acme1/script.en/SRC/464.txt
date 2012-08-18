@@ -1,0 +1,44 @@
+## POINTER 0
+<STR>(YUR)
+...There sure are a lot of people here.
+
+## POINTER 1
+<STR>(RAV)
+They're refugees from the capital. 
+See how they're all well-dressed?
+
+## POINTER 2
+<STR>(RIT)
+It looks like there's nothing unusual 
+with the barrier here for now.
+
+## POINTER 3
+<STR>(KAR)
+*Huff* *huff*
+
+## POINTER 4
+<STR>(JUD)
+<STR>(KAR), are you okay?
+
+## POINTER 5
+<STR>(RAV)
+Looks like he ain't okay at all.
+
+## POINTER 6
+<STR>(JUD)
+He's got a bad fever. He really overexerted himself.
+
+## POINTER 7
+<STR>(RIT)
+All because he had to go 
+and be a hero! I swear...
+
+## POINTER 8
+<STR>(RIT)
+<STR>(YUR)...?
+
+## POINTER 9
+<STR>(YUR)
+Huh? Oh, sorry. Let's 
+go to the inn so that 
+<STR>(KAR) can rest.

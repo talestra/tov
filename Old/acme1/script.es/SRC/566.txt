@@ -1,0 +1,109 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1283796570]
+<STR>(KAR)
+¡Buenas!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1283796570]
+
+Anda, mira quién es.
+¿Buscáis trabajo?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1283796570]
+¿Buscas trabajo?
+Sí
+No
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1283796570]
+<STR>(YUR)
+Sí.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848327]
+
+A ver qué trabajillo os doy...<PAGE>¿Qué os parece este?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848327]
+<STR>(KAR)
+«Estoy buscando un colgante que perdí.
+-¡¿Rhianna Kale?!»
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1283796570]
+<STR>(YUR)
+¿Qué pasa, <STR>(KAR)? 
+¿Te suena el nombre?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848327]
+<STR>(KAR)
+Uh... Sí, es, mmm, una chica
+de un gremio en el que estuve.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291930232]
+
+¿Así que ya conocéis a la cliente?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848327]
+<STR>(RAV)
+El típico «buscar un objeto perdido»,
+¿eh? Mmm, supongo que vale.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1283796570]
+<STR>(JUD)
+¿«El típico»?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1283796570]
+<STR>(YUR)
+Como que la gente pierde las cosas.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1283797108]
+
+La paga es de 4.500 gald.
+¿Aceptáis?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1283796570]
+¿Aceptas el trabajo?
+Aceptar el trabajo
+Rechazar la oferta
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1291930232]
+
+No deberíais tardar mucho
+ya que conocéis a la cliente.
+Está en la posada.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1283797089]
+<STR>(YUR)
+Muy bien, vamos.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1283796570]
+
+Vale. Cuando os dé
+por trabajar, decídmelo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848416]
+
+Vale. Pasad a verme
+si necesitáis trabajo.
+Os buscaré uno.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576207]
+
+Oh, el trabajo del que os hablé
+la última vez aún está disponible.
+¿Lo queréis?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1291848416]
+<STR>(YUR)
+Buscar un colgante perdido, ¿eh?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1283797089]
+<STR>(RAV)
+Es er típico trabajo
+de búsqueda.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1291930232]
+
+No deberíais tardar mucho
+ya que conocéis a la cliente.
+Está en la posada.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1283797089]
+<STR>(YUR)
+Muy bien, vamos.

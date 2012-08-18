@@ -1,0 +1,75 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1295118021]
+<STR>(RIT)
+¡He traído ○○○○!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952411]
+Kaufman
+Je. No has
+tardado nada.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952411]
+<STR>(RIT)
+¡Sip, aquí tienes! ¡Ahora, enséñanos el
+taller de síntesis que nos prometiste!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952548]
+Kaufman
+Me encantaría llevaros...
+Pero solo puedes tú, <STR>(RIT).<PAGE>Los demás tendrán que
+esperar fuera. Lo siento.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952548]
+<STR>(KAR)
+¿En serio?
+¡También queríamos verlo!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1295118021]
+Kaufman
+Lo lamento. Estamos hablando de secretos
+corporativos de alto nivel.<PAGE>No penséis mal de mí por deciros esto,
+pero no se los podemos enseñar a cualquiera.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952548]
+<STR>(RIT)
+¡Ya la habéis oído,
+chicos! ¡Lo siento!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952548]
+<STR>(RIT)
+¡Ya he vueltooo!<PAGE>¡Aaah, qué placer saciar 
+la sed de conocimiento!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1295118021]
+<STR>(KAR)
+Joo... ¡Yo también
+quería verlo!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952548]
+<STR>(RIT)
+Ah, esto quizás
+os interese...<PAGE>¡Parece que pronto podrán sintetizar
+muchos más tipos de objetos!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952548]
+<STR>(YUR)
+¿Gracias al ○○○○ 
+que les hemos dado?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952548]
+Kaufman
+¡Ups! Eso lo ponía en el
+acuerdo de confidencialidad.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1295118021]
+<STR>(RIT)
+Ah, perdón, perdón.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296952548]
+Kaufman
+Nuestro sistema de producción aún puede mejorar,
+así que quizás os pidamos ayuda en el futuro.<PAGE>Os lo adelanto.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1295118021]
+<STR>(RIT)
+¡Claro, no hay problema! Me encantaría
+volver a ver el taller de síntesis...

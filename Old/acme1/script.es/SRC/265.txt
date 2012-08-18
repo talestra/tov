@@ -1,0 +1,81 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+<STR>(EST_P)
+Esto... Disculpe,
+señor Caballero.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323683]
+
+Eh... Q-Qué...
+Qué vestido más... esto...<PAGE>¿Mmm? Oye... ¿Acaso eres...?
+No, no puede ser...
+Menos aún llevando algo tan...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279127818]
+<STR>(EST_P)
+¿Mm? ¿A-Acaso nos conocemos?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+
+Es solo que te pareces...
+un poquito a la Princesa...
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+<STR>(EST_P)
+Oh, c-claro, me lo
+dicen muy a menudo.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+<STR>(KAR)
+Je, je, ¿veis eso?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323683]
+<STR>(YUR)
+¡Ssh, chitón!
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+
+Acércate un poco más,
+¿quieres?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+<STR>(EST_P)
+No, me gustaría
+que viniera usted conmigo...
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+
+¿Por qué te apartas así?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279127818]
+<STR>(EST_P)
+M-Mmm...
+Es solo que...
+soy un poquito tímida...
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+
+Je, je, je...
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+<STR>(EST_P)
+Ji, ji, ji...
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+<STR>(KAR)
+Sabía que al final acabarías
+el tema a collejas.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+<STR>(YUR)
+¿Qué querías? De no hacerlo, <STR>(EST_P)
+habría acabado pasándolas canutas, ¿no crees?
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+<STR>(EST_P)
+Sí. Seguramente se habría enfadado mucho al darse
+cuenta que le había mentido sobre mi identidad.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568597]
+<STR>(YUR)
+No me estaba refiriendo
+a eso, precisamente...

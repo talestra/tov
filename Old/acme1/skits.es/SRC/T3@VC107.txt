@@ -1,0 +1,63 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252353425]
+Una rara entre los raros
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297980743]
+(EST_P)
+¡Tu estilo de lucha con lanza es innato
+y tu juego de pies maravilloso! Me encanta
+verte luchar, (JUD).
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298448]
+(JUD)
+¡Oh, el placer es mío!
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:xander;time:1262280456]
+(YUR)
+¿No eran todos los krityanos más bien
+unos empollones? ¿Más del tipo que sale
+poco a la calle?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297980743]
+(EST_P)
+Dejando a un lado los comentarios 
+anti estudios de (YUR), ¿es verdad
+que los krityanos no libran batallas?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297980743]
+(JUD)
+Parece que a la mayoría de ellos
+no le gusta mucho luchar.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297980743]
+(EST_P)
+Entonces, ¿tú eres una excepción?
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266576231]
+(YUR)
+Una rara entre los raros, vamos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297980743]
+(JUD)
+Qué extraño. Siempre había pensado
+que era normal luchar contra aquellos
+que amenazan a uno.
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298448]
+(YUR)
+Ya, cierto.
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298448]
+(EST_P)
+¿En serio? ¿Tan normal es?
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298448]
+(YUR)
+Claro, es normal.
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298448]
+(JUD)
+De lo más normal.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1297980743]
+(EST_P)
+E-Entiendo...

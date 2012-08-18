@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027512]
+<STR>(YUR)
+Supongo que de esta no va
+a salir de repente una lanza.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289586218]
+<STR>(RAV)
+¿Y si usamos el Anillo del
+Hechicero pa destruirla?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289586218]
+<STR>(RAV)
+¡Ale, desmenuzada como una galleta!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289586218]
+<STR>(YUR)
+A pesar de todos tus defectos, viejales,
+¡tienes buena intuición!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289586218]
+<STR>(RAV)
+¡¿A qué te refieres con
+lo de los defectos?!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289586218]
+<STR>(EST_P)
+¡Entremos y veamos qué hay dentro!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858223]
+<STR>(RAV)
+Adelántate, chavala impaciente...

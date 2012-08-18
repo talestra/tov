@@ -1,0 +1,134 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<STR>(YUR)
+<VOICE>(VS34_132)Oh, ¿solo os queda un amiguito?
+¿Por qué no jugáis un poco con nosotros?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<VOICE>(VS34_133)Más subordinados
+de Belius, ¿eh?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<STR>(KAR)
+<VOICE>(VS34_134)¡S-Somos Gran Vesperia!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<VOICE>(VS34_135)No me importa lo grandes que seáis.
+¡Muerte a los que se alían con los monstruos!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1280772066]
+Natz
+<VOICE>(VS34_136)Oooh...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<STR>(RAV)
+<VOICE>(VS34_137)Parece que hemos llegado a tiempo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+Natz
+<VOICE>(VS34_138)Debes ser una sanadora.
+Te debo una.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1280772066]
+<STR>(KAR)
+<VOICE>(VS34_139)¡Aaah!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+Natz
+<VOICE>(VS34_140)¡Adalid!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1280772066]
+Belius
+<VOICE>(VS34_141)Natz. No estás herido.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1280772066]
+Belius
+<VOICE>(VS34_142)¡¿Aún osáis desafiarme, humanos?!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+Clint
+<VOICE>(VS34_143)Tu especie... es el
+origen... de todo mal.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<STR>(YUR)
+<VOICE>(VS34_144)¿El origen del mal?
+¿Belius? No has entendido
+nada. ¡Mírala!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+Clint
+<VOICE>(VS34_145)
+¡Todos los monstruos sirven al mal! Deben
+ser abatidos... Es... es nuestro deber...
+¡el de los Espadas cazadoras!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1280827631]
+<STR>(RAV)
+<VOICE>(VS34_146)¡Estos tarugos son unos cabeza hueca!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+Tison
+<VOICE>(VS34_147)¡Los... los monstruos sois todos iguales!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+Natz
+<VOICE>(VS34_148)¡Adalid!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<STR>(EST_P)
+<VOICE>(VS34_149)¡La curaré!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1280772066]
+Belius
+<VOICE>(VS34_150)No debes. Tu poder es...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1280772066]
+<STR>(JUD)
+<VOICE>(VS34_151)¡No!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<STR>(EST_P)
+<VOICE>(VS34_152)¿Q-Qué significa esto?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<STR>(RIT)
+<VOICE>(VS34_153)¿Ha reaccionado a la fórmula
+de <STR>(EST_P)? Pero esto es...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1280827631]
+Belius
+<VOICE>(VS34_154)¡Aaaaargh!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1280772066]
+<STR>(JUD)
+<VOICE>(VS34_155)He llegado tarde...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1280772066]
+<STR>(EST_P)
+<VOICE>(VS34_156)¿Qué he hecho?...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<STR>(RAV)
+<VOICE>(VS34_157)¡Si esto sigue asín,
+derribará er coliseo!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692903]
+<STR>(YUR)
+<VOICE>(VS34_158)¡¿Nuestra única
+opción es luchar?!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<STR>(KAR)
+<VOICE>(VS34_159)¡P-Pero tiene que haber...!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1280772066]
+<STR>(EST_P)
+<VOICE>(VS34_160)Yo...
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1280772066]
+<STR>(RIT)
+<VOICE>(VS34_161)¡<STR>(EST_P)!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1284692743]
+<STR>(EST_P)
+<VOICE>(VS34_162)S-Sí...

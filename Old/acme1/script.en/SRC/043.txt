@@ -1,0 +1,14 @@
+## POINTER 0
+<STR>(RAV)
+The kid doesn't look so good.
+Let's get him some rest first.
+
+## POINTER 1
+<STR>(KAR)
+I'll be okay...
+
+## POINTER 2
+<STR>(YUR)
+Don't overdo it.
+Sorry I didn't notice earlier...
+Let's head back to Halure first.

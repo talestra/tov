@@ -1,0 +1,299 @@
+## POINTER 100
+Barbos
+
+## POINTER 101
+Yeager and Leviathans Claw
+
+## POINTER 102
+Mermen
+
+## POINTER 103
+Atherum 01（Poltergeist: Base Type）/Weather AB
+
+## POINTER 104
+Atherum 02（Poltergeist: Mad）/Weather AB
+
+## POINTER 105
+Atherum 03（Merfish: Shark）/Weather AB
+
+## POINTER 106
+Atherum 04（Crab Man: Sword)/Weather AB
+
+## POINTER 107
+Atherum 05（Eagle: Base Type）/Weather AB
+
+## POINTER 108
+Atherum 06（Mimic: Normal）/Weather AB
+
+## POINTER 109
+Atherum （Event Battle)
+
+## POINTER 110
+Coliseum Erungar
+
+## POINTER 111
+Coliseum Jugem
+
+## POINTER 112
+Coliseum Johann
+
+## POINTER 113
+Flynn
+
+## POINTER 114
+Zagi: Fight 3
+
+## POINTER 115
+Weasand of Cados 01（Spider)/Fight 1/Fight 2
+
+## POINTER 116
+Weasand of Cados 02（Bat: Electric)/Fight 1/Fight 2
+
+## POINTER 117
+Weasand of Cados 03（Wolf: Strong Tail)/Fight 1
+
+## POINTER 118
+Weasand of Cados 04（Mandragora: Mushroom）/Fight 1
+
+## POINTER 119
+Weasand of Cados 05（Egg Bear: Base Type)/Fight 1
+
+## POINTER 120
+Leviathan's Claw Event Battle 3
+
+## POINTER 121
+Pteropus
+
+## POINTER 122
+Weasand of Cados 06（Knights/Large Sword: Flynn Brigade)/Fight 2
+
+## POINTER 123
+Weasand of Cados 07（Knights/Halberd: Flynn Brigade)/Fight 2
+
+## POINTER 124
+Weasand of Cados 08（Rhybgaro)/Fight 2
+
+## POINTER 125
+Hermit Drill/Fight 1/Fight 2
+
+## POINTER 126
+Nordopolica 01_01（Grain)/Weather AB
+
+## POINTER 127
+Nordopolica 02_01（Rye)/Weather AB
+
+## POINTER 128
+Nordopolica 03_01（Barley)/Weather AB
+
+## POINTER 129
+Hunting Blades: Event Battle
+
+## POINTER 130
+Belius
+
+## POINTER 131
+Sands of Kogorh(Day）01（Spider: Cactus）/
+
+## POINTER 132
+Sands of Kogorh(Day）02（Roctus: Cactus）/
+
+## POINTER 133
+Sands of Kogorh(Day）03（Eagle: Fire）
+
+## POINTER 134
+Sands of Kogorh(Day）04（Fire Spirit)
+
+## POINTER 135
+Sands of Kogorh(Day）05（Bat: Fire)
+
+## POINTER 136
+Sands of Kogorh(Day）12_01（Red Roper)
+
+## POINTER 137
+Sands of Kogorh(Night）06（Spider: Cactus）/
+
+## POINTER 138
+Sands of Kogorh(Night）07（Roctus: Cactus）/
+
+## POINTER 139
+Sands of Kogorh(Night）08（Mandragora: Cactus）
+
+## POINTER 140
+Sands of Kogorh(Night）09（Ice Spirit)
+
+## POINTER 141
+Sands of Kogorh(Night）10（Bat: Ice)
+
+## POINTER 142
+Sands of Kogorh(Night）11（Superstar Orange）
+
+## POINTER 143
+Sands of Kogorh(Day）13_01（Blue Roper)
+
+## POINTER 144
+Medusa Butterfly(Day）/（Night）
+
+## POINTER 145
+Adephagos Illusion
+
+## POINTER 146
+Manor of the Wicked 01(Leviathan's Claw/Katar)/Weather AB
+
+## POINTER 147
+Manor of the Wicked 02(Leviathan's Claw/Bowgun）/Weather AB
+
+## POINTER 148
+Leviathan's Claw Event Battle 4
+
+## POINTER 149
+Leviathan's Claw Event Battle 5
+
+## POINTER 150
+Mt. Temza 01(Hunting Blades: Big Sword)/Weather A
+
+## POINTER 151
+Mt. Temza 02(Hunting Blades: Thief/Weather A
+
+## POINTER 152
+Mt. Temza 03(Hunting Blades: Staff)/Weather A
+
+## POINTER 153
+Mt. Temza 04(Axe Polwigle）/Weather AB
+
+## POINTER 154
+Mt. Temza 05(Axe Beak: Axe Tail）/Weather AB
+
+## POINTER 155
+Mt. Temza 06(Treant: Dead Tree）/Weather AB
+
+## POINTER 156
+Mt. Temza 06(Mimic: Rock）/Weather AB
+
+## POINTER 157
+Mt. Temza 08(Mercenary Guild: Hammer)/Weather B
+
+## POINTER 158
+Mt. Temza 08(Eagle: Rabbit）/Weather B
+
+## POINTER 159
+Pterobronc/Weather AB
+
+## POINTER 160
+Tison and Nan
+
+## POINTER 161
+Egothor Forest 01（Bird Polwigle）/Weather A
+
+## POINTER 162
+Egothor Forest 02（Clukkit）/Weather A
+
+## POINTER 163
+Egothor Forest 03（Insect Plant)/Weather A
+
+## POINTER 164
+Egothor Forest 04（Filifolia)/Weather A
+
+## POINTER 165
+Egothor Forest 05（Mantis）/Weather A
+
+## POINTER 166
+Egothor Forest 01（Bird Polwigle）/Weather B
+
+## POINTER 167
+Egothor Forest 02（Clukkit）/Weather B
+
+## POINTER 168
+Egothor Forest 03（Insect Plant)/Weather B
+
+## POINTER 169
+Egothor Forest 04（Filifolia)/Weather B
+
+## POINTER 170
+Egothor Forest 05（Mantis）/Weather B
+
+## POINTER 171
+Egothor Forest 06（Mandragora: Bird Polwigle）/Weather B
+
+## POINTER 172
+Egothor Forest 07（Mimic: Normal）/Weather AB
+
+## POINTER 173
+Brucis/Weather AB
+
+## POINTER 174
+Baction 01（Rabbit Polwigle）/Weather AB
+
+## POINTER 175
+Baction 02（Rabbio)/Weather AB
+
+## POINTER 176
+Baction 04（Drill Chirpee）/Weather AB
+
+## POINTER 177
+Baction 05（Uniceros)/Weather AB
+
+## POINTER 178
+Baction 06（Halberd: Alexei Brigade)/Weather A
+
+## POINTER 179
+Baction 07（Big Sword: Schwann Brigade）/Weather A
+
+## POINTER 180
+Baction 08（Long Spear: Schwann Brigade）/Weather A
+
+## POINTER 181
+Baction 09（Staff)/Weather A
+
+## POINTER 182
+Baction 09（Superstar Green）/Weather B
+
+## POINTER 183
+Schwann
+
+## POINTER 184
+Heracles 01（Robot）/Weather AB
+
+## POINTER 185
+Heracles 02（Robot Cutter）/Weather AB
+
+## POINTER 186
+Heracles 03（Gun Eagle）/Weather AB
+
+## POINTER 187
+Heracles 04（Halberd: Alexei Brigade)/Weather AB
+
+## POINTER 188
+Heracles 05（Staff)/Weather AB
+
+## POINTER 189
+Heracles 06（Mimic: Iron）/Weather AB
+
+## POINTER 190
+Alexei Royal Guard
+
+## POINTER 191
+Zagi: Fight 4
+
+## POINTER 192
+Blade Drifts of Zopheir 01(Ice Eagle）/Weather A
+
+## POINTER 193
+Blade Drifts of Zopheir 02(Ice Treant)/Weather A
+
+## POINTER 194
+Blade Drifts of Zopheir 03(Rabbio)/Weather A
+
+## POINTER 195
+Blade Drifts of Zopheir 04(Merfish: Shark)/Weather A
+
+## POINTER 196
+Blade Drifts of Zopheir 05(Merfish: Red）/Weather A
+
+## POINTER 197
+Blade Drifts of Zopheir 06(Leviathan's Claw/Poison)/Weather A
+
+## POINTER 198
+Blade Drifts of Zopheir 07(Leviathan's Claw/Long Range)/Weather A
+
+## POINTER 199
+Blade Drifts of Zopheir 10(Ice Treant)/Weather B

@@ -1,0 +1,62 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1253901523]
+Todos los rincones del mundo
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888760]
+(YUR)
+¡Ya hemos llenado del todo el mapa
+del mundo! Estaba casi en blanco
+cuando dejamos los barrios bajos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137846]
+(RAP)
+¡Guau!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888760]
+(EST_P)
+En el castillo jamás habría imaginado
+que algún día acabaría visitando
+todos los rincones del mundo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137846]
+(YUR)
+Llenar este mapa me ha hecho darme
+cuenta de lo grande que es el mundo
+en el que vivimos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137846]
+(EST_P)
+Cualquiera puede leer sobre estos sitios
+en los libros, pero vivirlos en persona
+es... increíble.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888760]
+(YUR)
+Ya. La única manera de conocer bien
+este mundo es salir ahí fuera y
+experimentarlo en tus propias carnes.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888760]
+(EST_P)
+Ver es creer, como quien dice.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888760]
+(YUR)
+Bueno, esto demuestra que no puedes
+depender únicamente de los libros
+para aprender lo que debes saber.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137846]
+(RAP)
+¡Guau!
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888760]
+(EST_P)
+(YUR), ¡se puede aprender mucho de los libros!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888760]
+(YUR)
+Ya, ya, aprender, aprender...
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888760]
+(EST_P)
+¡Agh, eres incorregible!

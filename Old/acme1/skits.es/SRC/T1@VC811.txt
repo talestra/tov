@@ -1,0 +1,25 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266230692]
+Oh, quién fuera (JUD)...
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266943938]
+(KAR)
+Con (JUD) seduciendo al guardia,
+este plan no puede salir mal.
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266943938]
+(JUD)
+Haré lo posible por cumplir
+con tus expectativas, (KAR).
+
+## POINTER 3 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266230692]
+(EST_P)
+¿Qué podría hacer
+para ser como (JUD)?...
+
+## POINTER 4 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266943938]
+(YUR)
+¿Mmm? ¿Decías algo, (EST_P)?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116277]
+(EST_P)
+Oh, no, solo pensaba en voz alta.

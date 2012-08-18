@@ -1,0 +1,71 @@
+## POINTER 0
+<STR>(RIT)
+So you figured it out? There's 
+lots of hermes blastia hidden 
+inside the castle.
+
+## POINTER 1
+<STR>(JUD)
+Yes... Ba'ul was the one 
+who noticed, actually.
+
+## POINTER 2
+<STR>(EST_P)
+It was probably 
+left behind by 
+Alexei.
+
+## POINTER 3
+<STR>(YUR)
+So, you want to go
+and destroy it, <STR>(JUD_P)?
+
+## POINTER 4
+<STR>(JUD)
+...Decreasing the imbalance of aer on the planet 
+just a little bit will make it all the easier 
+to go up against the Adephagos, won't it?
+
+## POINTER 5
+<STR>(EST_P)
+...Yes, you're right.
+
+## POINTER 6
+<STR>(RIT)
+...I'll go too.
+
+## POINTER 7
+<STR>(JUD)
+Oh, why is that?
+
+## POINTER 8
+<STR>(RIT)
+If we don't break it and 
+instead take the core...
+
+## POINTER 9
+<STR>(EST_P)
+Umm, do we really 
+have to destroy it?<PAGE>Couldn't we just deactivate 
+them somehow?
+
+## POINTER 10
+<STR>(YUR)
+That could work...in theory. But there's 
+no guarantee that someone won't come along 
+and try to get them working again.<PAGE>After all, it'll be just as inconvenient to have blastia 
+that don't work as it will to have no blastia at all.
+
+## POINTER 11
+<STR>(RIT)
+Hold on! I told you, 
+I'm going too!
+
+## POINTER 12
+<STR>(EST_P)
+Oh, wait! <STR>(YUR), 
+let's go too!
+
+## POINTER 13
+<STR>(YUR)
+*Sigh*

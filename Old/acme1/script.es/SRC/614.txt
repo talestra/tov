@@ -1,0 +1,86 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661745]
+<STR>(FRE)
+Me alegro de verte, <STR>(YUR). 
+Debes estar agotado.
+Puedes descansar aquí.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1291636449]
+<STR>(YUR)
+Me encantaría aceptar
+la oferta, pero es que
+tenemos un poco de prisa.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1291636449]
+<STR>(JUD)
+Debemos irnos en cuanto tengamos
+lo que hemos venido a pedir.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1291735129]
+<STR>(FRE)
+¿Pedir? ¿A mí?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291636449]
+<STR>(EST_P)
+¿Has visto un manual secreto que trate
+sobre refinar minerales entre los
+objetos confiscados por los Caballeros?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1291636449]
+<STR>(FRE)
+¿Un manual... secreto?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1291915396]
+<STR>(FRE)
+No. Los objetos confiscados
+siempre estaban bajo la jurisdicción
+de la brigada de Schwann.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661745]
+<STR>(RAV)
+¿Qué? Mirarme fijamente no
+sirve de na. Pa que lo sepáis,
+no soy el tal Schwann.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1291650574]
+<STR>(RIT)
+¿Ah, no?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661745]
+<STR>(YUR)
+Parece que Schwann era incluso
+más incompetente de lo que creía.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661745]
+<STR>(FRE)
+Controlar todos esos objetos no
+es más que papeleo. No es algo
+que suela hacer el capitán.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1291915396]
+<STR>(RAV)
+Venga, este tampoco
+es tan malo...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1291735907]
+<STR>(FRE)
+Gracias. A no ser que sea una
+adquisición reciente, deberíamos
+tener una copia por aquí...<PAGE>Pero no veo nada
+que parezca un manual.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1291735907]
+<STR>(YUR)
+Bueno, teníamos que probar. 
+Gracias, tío. Nos vamos.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1291735907]
+<STR>(FRE)
+Oye, <STR>(YUR).
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1291735907]
+<STR>(YUR)
+¿Eh?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1291735907]
+<STR>(FRE)
+Mételes caña.

@@ -1,0 +1,14 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239780]
+<STR>(RIT)
+<VOICE>(VS15_259)¡¡Serás...!! ¡¿Qué narices te crees
+te haces?! ¡¡Cómo te atreves a destruir
+esos blastias!!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239780]
+<STR>(EST_P)
+<VOICE>(VS15_260)Era verdad que hay una persona
+montando sobre un monstruo...
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273478413]
+<STR>(RIT)
+<VOICE>(VS15_261)¡¡Espera!!

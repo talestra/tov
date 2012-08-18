@@ -1,0 +1,28 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530687]
+
+Hola, amorcito.
+¿No quedábamos de vez en cuando?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530687]
+<STR>(RAV)
+Pos sí.
+De cuando en cuando.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1293546603]
+
+Eso pensaba yo. Cuánto tiempo.
+Sigo estando en el mismo sitio de siempre,
+así que cuando quieras ven a verme.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1293550420]
+<STR>(RAV)
+Ah, quizá un día d'estos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1293546603]
+
+Guay. Pues nada, hasta entonces...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294530687]
+<STR>(KAR)
+Da igual adónde vayamos, siempre nos
+encontramos con chicas que conocen a <STR>(RAV)...

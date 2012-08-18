@@ -1,0 +1,281 @@
+## POINTER 0
+Battle Debug Menu
+
+## POINTER 1
+Battle Debug Manager
+
+## POINTER 2
+Start Battle
+
+## POINTER 3
+Player Edit
+
+## POINTER 4
+Player
+
+## POINTER 5
+Character
+
+## POINTER 6
+Level
+
+## POINTER 7
+Control Mode
+
+## POINTER 8
+Manual
+
+## POINTER 9
+Semiauto
+
+## POINTER 10
+Auto
+
+## POINTER 11
+MA Learning
+
+## POINTER 12
+Skill Learning
+
+## POINTER 13
+Unchanged
+
+## POINTER 14
+Learn All
+
+## POINTER 15
+Forget All
+
+## POINTER 16
+Character Move
+
+## POINTER 17
+Normal
+
+## POINTER 18
+Stop Enemy
+
+## POINTER 19
+No Dead
+
+## POINTER 20
+Stop Enemy and No Dead
+
+## POINTER 21
+No Dead Party Only
+
+## POINTER 22
+Counter Enemy and No Dead
+
+## POINTER 23
+2P Control Mode
+
+## POINTER 24
+Normal
+
+## POINTER 25
+Enemy
+
+## POINTER 26
+Encount Mode
+
+## POINTER 27
+Normal
+
+## POINTER 28
+Link1
+
+## POINTER 29
+Link2
+
+## POINTER 30
+Surprise
+
+## POINTER 31
+Surprise Link1
+
+## POINTER 32
+Surprise Link2
+
+## POINTER 33
+Boss
+
+## POINTER 34
+Slash
+
+## POINTER 35
+Surprise Slash
+
+## POINTER 36
+Enemy Group0
+
+## POINTER 37
+Enemy Group1
+
+## POINTER 38
+Enemy Group2
+
+## POINTER 39
+Select BG
+
+## POINTER 40
+Random
+
+## POINTER 41
+BG Range
+
+## POINTER 42
+Narrow
+
+## POINTER 43
+Wide
+
+## POINTER 44
+Event
+
+## POINTER 45
+Result Voice Action
+
+## POINTER 46
+Camera Free Control
+
+## POINTER 47
+Dynamic Camera
+
+## POINTER 48
+INN
+
+## POINTER 49
+Unused TP
+
+## POINTER 50
+OVL Gauge
+
+## POINTER 51
+OVL Add Point Up
+
+## POINTER 52
+Always Boot BA
+
+## POINTER 53
+Always Boot Mystic Arts
+
+## POINTER 54
+Enable FS
+
+## POINTER 55
+Always Boot FS
+
+## POINTER 56
+No Heal FS Point
+
+## POINTER 57
+Get All Item
+
+## POINTER 58
+Battle Aging
+
+## POINTER 59
+Boot Menu
+
+## POINTER 60
+Debug Display
+
+## POINTER 61
+Chara Vector
+
+## POINTER 62
+Chara Box
+
+## POINTER 63
+Chara Comment
+
+## POINTER 64
+Chara Motion Frame
+
+## POINTER 65
+Chara Down Count
+
+## POINTER 66
+Chara FS Point
+
+## POINTER 67
+Chara Priority Point
+
+## POINTER 68
+Chara Cancel Point
+
+## POINTER 69
+AT
+
+## POINTER 70
+Effect Frame
+
+## POINTER 71
+Effect Scene Frame
+
+## POINTER 72
+Effect SE Information
+
+## POINTER 73
+Camera Point
+
+## POINTER 74
+Target Range
+
+## POINTER 75
+Battle Time
+
+## POINTER 76
+Ground Clip Range
+
+## POINTER 77
+None
+
+## POINTER 78
+Real
+
+## POINTER 79
+Always
+
+## POINTER 80
+Debug Message
+
+## POINTER 81
+Disable All Message
+
+## POINTER 82
+BG Message
+
+## POINTER 83
+Camera Message
+
+## POINTER 84
+Chara Message
+
+## POINTER 85
+Effect Message
+
+## POINTER 86
+2D Message
+
+## POINTER 87
+Develop Mode
+
+## POINTER 88
+Read File
+
+## POINTER 89
+Check File Enable
+
+## POINTER 90
+Save Debug Setting
+
+## POINTER 91
+Load Debug Setting
+
+## POINTER 92
+Auto Load Debug Setting
+
+## POINTER 93
+Base Item

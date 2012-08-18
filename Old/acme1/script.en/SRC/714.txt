@@ -1,0 +1,115 @@
+## POINTER 0
+<STR>(KAR)
+Nan...
+
+## POINTER 1
+<STR>(JUD)
+Can't sleep, huh...
+
+## POINTER 2
+<STR>(KAR)
+<STR>(JUD)... Why are you 
+up? It's so late.
+
+## POINTER 3
+<STR>(JUD)
+I was just watching the moon...
+
+## POINTER 4
+<STR>(KAR)
+The moon...
+
+## POINTER 5
+<STR>(JUD)
+You're worried for that girl?
+
+## POINTER 6
+<STR>(KAR)
+...Yeah.
+
+## POINTER 7
+<STR>(JUD)
+You're a nice kid, <STR>(KAR).
+
+## POINTER 8
+<STR>(KAR)
+I've...been in so many 
+different guilds...<PAGE>But I ended up doing a cruddy job 
+in all of them and quitting...<PAGE>So all the guilds 
+just gave up on me.<PAGE>But then...Nan...
+
+## POINTER 9
+<STR>(JUD)
+She invited you into her guild?
+
+## POINTER 10
+<STR>(KAR)
+Ah...yeah... But we still haven't 
+made up since we got in that fight.<PAGE>I'm sorry... I'm a member of Brave Vesperia 
+now. I shouldn't be thinking about all this.
+
+## POINTER 11
+<STR>(JUD)
+I don't blame you for it. She's 
+important to you, right?
+
+## POINTER 12
+<STR>(KAR)
+Er...h-how did you...?
+
+## POINTER 13
+<STR>(JUD)
+You wouldn't carry around a picture 
+of her if she wasn't important.
+
+## POINTER 14
+<STR>(KAR)
+You...you knew?
+
+## POINTER 15
+<STR>(JUD)
+I've seen you looking at her picture 
+with that silly look on your 
+face several times now.
+
+## POINTER 16
+<STR>(KAR)
+Oh...I got a friend of mine from the photography guild 
+I used to belong to to take that picture for me.
+
+## POINTER 17
+<STR>(JUD)
+A little photography on the sly?
+
+## POINTER 18
+<STR>(KAR)
+N-no...I mean, he just happened to take it as she was passing by...<PAGE>I mean... I guess...it works 
+out to the same thing.
+
+## POINTER 19
+<STR>(JUD)
+What a naughty boy. But...I don't 
+think it's all that bad, really.
+
+## POINTER 20
+<STR>(KAR)
+Really...? I,
+I wonder...<PAGE>Do you think we'll run into her again?
+
+## POINTER 21
+<STR>(JUD)
+I'm not sure...
+
+## POINTER 22
+<STR>(KAR)
+No, I know we will... I still 
+have to make up with her!
+
+## POINTER 23
+<STR>(JUD)
+Heh heh...good luck with that.<PAGE>Well, I'm going to go to bed. Good night.
+
+## POINTER 24
+<STR>(KAR)
+Oh...yeah... Thanks, 
+<STR>(JUD).

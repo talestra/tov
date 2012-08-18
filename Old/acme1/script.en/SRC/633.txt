@@ -1,0 +1,157 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VA024_001)...Is Ba'ul doing all right? Sure 
+he's not getting too tired?
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VA024_002)No, he's fine... 
+But he's uneasy.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VA024_003)What's wrong?
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VA024_004)The apatheia within him 
+isn't enough to undergo 
+spirit conversion yet.<PAGE><VOICE>(VA024_005)But he knows that someday, he 
+will need to give up his current 
+form and become a spirit...
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VA024_006)Well, humans are all going to 
+die sometime, but we don't spend 
+every day worrying about it.
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VA024_007)I imagine some 
+people do.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VA024_008)Are you saying Ba'ul 
+is that weak?
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VA024_009)He's far more delicate 
+than you, <STR>(YUR).
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VA024_010)Dying, in his case, isn't exactly 
+death like we normally think 
+of it though, right?
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VA024_011)But it does mean that his 
+consciousness will disappear, 
+and be replaced by something new.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VA024_012)So, it's basically a fear of the 
+unknown. That part of it is actually 
+not too different from us.
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VA024_013)The other Entelexeia have accepted 
+that they must become spirits.<PAGE><VOICE>(VA024_014)They feel it is their duty to maintain 
+the stability of this planet.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VA024_015)Ba'ul's got a mission of his own though, doesn't he?<PAGE><VOICE>(VA024_016)I mean, what about his commitment 
+to destroy all of 
+the hermes blastia?
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VA024_017)The determination necessary for 
+destroying blastia and becoming 
+a spirit are very different.<PAGE><VOICE>(VA024_018)Ba'ul...still lacks the 
+resolve to give up his identity 
+as an Entelexeia.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VA024_019)I think lacking it is a lot 
+healthier, if you ask me. 
+And I certainly understand.
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VA024_020)He seems pleased 
+that you understand 
+him.<PAGE><VOICE>(VA024_021)Still, I worry about him 
+going on like this...
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VA024_022)Do you want him to become 
+a spirit, <STR>(JUD_P)?
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VA024_023)No, not in the least.<PAGE><VOICE>(VA024_024)But, I wonder what the Entelexeia... What 
+the spirits themselves must think...
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VA024_025)What's going on?
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VA024_026)I'm not sure... Ba'ul and the 
+spirits are communicating.
+
+## POINTER 20
+<STR>(JUD)
+<VOICE>(VA024_027)...Or something like that...but 
+without using their voices.
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VA024_028)...Yes...
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VA024_029)What happened?
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VA024_030)He says we shouldn't worry about him.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VA024_031)But what was all that?
+
+## POINTER 25
+<STR>(JUD)
+<VOICE>(VA024_032)Hmm... The spirits 
+said something to 
+calm him down..
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VA024_033)Maybe they told him how easy they've got it.
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VA024_034)Yeah, probably.<PAGE><VOICE>(VA024_035)At any rate, it's impossible for 
+him to become a spirit now.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VA024_036)We're going to have to go on depending
+on you until the journey's over, Ba'ul.
+
+## POINTER 29
+<STR>(JUD)
+<VOICE>(VA024_037)He wants you to know you can count on him.

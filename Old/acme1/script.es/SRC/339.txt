@@ -1,0 +1,152 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098732]
+<STR>(EST_P)
+<VOICE>(VS31_120)Es posible que fuera Duke
+quien nos salvara en el desierto.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(YUR)
+<VOICE>(VS31_121)Mmmm, puede.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(EST_P)
+<VOICE>(VS31_122)Voy a ir a darle las gracias.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098732]
+<STR>(YUR)
+<VOICE>(VS31_123)Espera.<PAGE><VOICE>(VS31_124)No parece ser de los que
+aprecien ese tipo de gestos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(EST_P)
+<VOICE>(VS31_125)¿Eso crees?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(YUR)
+<VOICE>(VS31_126)Es una corazonada.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(YUR)
+<VOICE>(VS31_127)Me dijiste que la Hija de la
+Luna Llena era la hermana
+de Gran Vesperia, ¿verdad?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098732]
+<STR>(EST_P)
+<VOICE>(VS31_128)Sí.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098732]
+<STR>(EST_P)
+<VOICE>(VS31_129)«Oh, Diosa que bañas de dorada
+luz nuestro mundo, Hija de la
+Luna Llena es tu nombre.<PAGE><VOICE>(VS31_130)Tu hermano, Gran Vesperia,
+nos protege desde los cielos.<PAGE><VOICE>(VS31_131)Mantienes tu vínculo con tu
+madre, la tierra, y la amparas
+con tu protección incesante».
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1280173088]
+<STR>(RAV)
+<VOICE>(VS31_132)¿Crees que hay un significao oculto en eso?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(EST_P)
+<VOICE>(VS31_133)No estoy segura.
+Pero puede que sea algo
+más que una vieja leyenda.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(YUR)
+<VOICE>(VS31_134)Protegía la tierra, ¿eh?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098732]
+<STR>(RIT)
+<VOICE>(VS31_135)¿Eso de «protegerla» no querrá
+decir más bien dominar este mundo?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(KAR)
+<VOICE>(VS31_136)¿Te refieres a convertirse en emperador? 
+Si <STR>(EST_P) es una Hija de la Luna
+Llena, entonces tendría sentido.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098732]
+<STR>(RAV)
+<VOICE>(VS31_137)Lo que querría decir que tós
+los emperadores anteriores fueron
+objetivo de Phaeroh.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(EST_P)
+<VOICE>(VS31_138)Nunca he oído hablar
+de nada semejante.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(KAR)
+<VOICE>(VS31_139)Mmm...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(JUD)
+<VOICE>(VS31_140)¿No deberíamos estar decidiendo
+qué hacer a continuación?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098732]
+<STR>(RIT)
+<VOICE>(VS31_141)Yo voy a quedarme. Tengo que
+investigar ciertas cosas.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(EST_P)
+<VOICE>(VS31_142)¿Investigar el qué?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981318]
+<STR>(RIT)
+<VOICE>(VS31_143)El cristal cielo claro, las apátheia...
+Ese tipo de cosas.<PAGE><VOICE>(VS31_144)Sinceramente, me gustaría
+sonsacarle un par de cosillas
+a don Gentileza.<PAGE><VOICE>(VS31_145)Si os vais a ir todos,
+entonces nos despedimos aquí.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(EST_P)
+<VOICE>(VS31_146)¡Pero...!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098732]
+<STR>(JUD)
+<VOICE>(VS31_147)Oh, qué lastima. El desierto
+perderá su gracia cuando
+vayas sola, pero te deseo suerte.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098732]
+<STR>(RIT)
+<VOICE>(VS31_148)Oh, es verdad. No recordaba
+que no puedo ir a ningún sitio
+sin pasar por el desierto.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981318]
+<STR>(RAV)
+<VOICE>(VS31_149)Nos podemos permitir dar
+un garbeo por ahí mientras
+se pone a buscar lo suyo, ¿no?<PAGE><VOICE>(VS31_150)A mí también me interesa
+el asuntillo de las apátheia.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(YUR)
+<VOICE>(VS31_151)Vale. Además tenemos que
+prepararnos a conciencia
+antes de volver al desierto.<PAGE><VOICE>(VS31_152)¿Por qué no nos vamos mañana?
+<STR>(RIT), ¿crees que podrías
+solucionar tus cosas en un día?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098732]
+<STR>(RIT)
+<VOICE>(VS31_153)No debería suponer un problema.
+Gracias... Os lo agradezco.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(YUR)
+<VOICE>(VS31_154)Je. De nada. Nos encontraremos
+en la entrada mañana a primera
+hora, entonces.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1280147422]
+<STR>(KAR)
+<VOICE>(VS31_155)Vale. Hasta entonces.

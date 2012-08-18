@@ -1,0 +1,34 @@
+## POINTER 0 [t:1;r:3;ru:dagorat,parsec,memnoch;user:xander;time:1251592522]
+Llámame (EST_P)
+
+## POINTER 1 [t:1;r:3;ru:dagorat,parsec,memnoch;user:Dagorat;time:1266668259]
+(RIT)
+Te llamas (EST), ¿verdad?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287679298]
+(EST_P)
+Sí, pero es un poco largo.
+Llámame (EST_P), por favor.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287679298]
+(RIT)
+Pareces de noble cuna, (EST). 
+¿Por qué vas con ese cretino?
+
+## POINTER 4 [t:1;r:3;ru:dagorat,parsec,memnoch;user:xander;time:1264124825]
+(EST_P)
+Oh... A mí (YUR) me
+parece una buena persona...
+
+## POINTER 5 [t:1;r:3;ru:dagorat,parsec,memnoch;user:Dagorat;time:1266668259]
+(EST_P)
+Y de verdad, no me importa 
+que me llames (EST_P).
+
+## POINTER 6 [t:1;r:3;ru:dagorat,parsec,memnoch;user:Dagorat;time:1266668259]
+(RIT)
+De acuerdo, (EST).
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1287679336]
+(YUR)
+Qué despiadada...

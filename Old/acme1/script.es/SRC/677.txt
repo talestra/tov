@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298762156]
+<STR>(EST_P)
+¿A qué ha venido eso?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936180]
+<STR>(YUR)
+Parece que alguien nos ha delatado.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936180]
+<STR>(KAR)
+¿Delatado?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273601396]
+<STR>(RIT)
+Eres demasiado famoso,
+pero no para bien, <STR>(YUR).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298762170]
+<STR>(YUR)
+La influencia del gremio en Torim es muy
+fuerte, ¿no? Quizá ese Caballero intentaba
+compensarse por la impotencia que sentía.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273601396]
+<STR>(EST_P)
+<STR>(YUR), ¡ese Caballero solo hacía su trabajo! 
+Agradecería que te guardaras los insultos para ti.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298762156]
+<STR>(KAR)
+Uff... A este paso nunca
+podré dormir una noche
+entera...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298762156]
+<STR>(YUR)
+Al menos no nos han arrestado.
+Deberíamos alegrarnos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298762156]
+<STR>(RIT)
+¿Alegrarnos? ¡¿Qué tiene esto de alegre?!<PAGE>¡La próxima vez que volvamos 
+a una posada, te vas a dormir  
+afuera con el perro!

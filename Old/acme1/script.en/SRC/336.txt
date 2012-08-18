@@ -1,0 +1,236 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS31_005)Good morning.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS31_006)Oh, <STR>(YUR). Are you 
+feeling better now?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS31_007)Yeah. How about you 
+guys? Are you all right?
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS31_008)Yes, it would seem that way.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS31_009)We all collapsed in the 
+desert, right? So what 
+are we doing in this town?
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS31_010)Seems like someone 
+came to our aid.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS31_011)Though we're not sure who.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS31_012)What about the couple 
+who was with us?
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS31_013)They appear to have been 
+brought here as well.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS31_014)So they didn't get a look 
+at our rescuers either?
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS31_015)Apparently they lost 
+consciousness like 
+the rest of us.<PAGE><VOICE>(VS31_016)I believe the two of them are 
+having a look around town.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS31_017)...I wonder. Was 
+it just a mirage?
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS31_018)What do you mean?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS31_019)Oh...just before I blacked out, I 
+saw that dragon that got the 
+aer under control back at Cados.
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS31_020)Really?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS31_021)Yeah. Didn't you 
+see it, <STR>(EST_P)?
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS31_022)No, I didn't see anything.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS31_023)Was it just a mirage, then...?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS31_024)So...what's the story?
+Where exactly are we?
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS31_025)A kindly gentleman is looking 
+into that very matter for us.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS31_026)Kindly gent--? Oh, 
+you mean the old man.
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS31_027)There's no barrier here. 
+This town is weird...
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS31_028)I thought the mountains 
+in the east were 
+supposed to be uninhabited.
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS31_029)<STR>(RIT), <STR>(KAR), 
+over here.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS31_030)What's that?
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS31_031)The monster that attacked us 
+in the desert dropped it.
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS31_032)I didn't see any feathers 
+on that thing...
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VS31_033)That's one of Phaeroh's feathers.
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS31_034)But why would that monster have 
+one of Phaeroh's feathers...?
+
+## POINTER 29
+<STR>(JUD)
+<VOICE>(VS31_035)Hmm...
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS31_036)Man, there's so much we don't know...
+
+## POINTER 31
+<STR>(JUD)
+<VOICE>(VS31_037)Welcome back.
+
+## POINTER 32
+<STR>(RAV)
+<VOICE>(VS31_038)And just why was it up 
+ta me ta go trompin' off 
+on a recon mission?
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS31_039)If I'd gone, this sweet young 
+lady would've been all alone 
+with you. That's far too unsafe.
+
+## POINTER 34
+<STR>(RAV)
+<VOICE>(VS31_040)Unsafe? You can't 
+possibly mean me?
+
+## POINTER 35
+<STR>(JUD)
+<VOICE>(VS31_041)Oh... I don't know... Maybe...
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS31_042)...I think I'm gonna gag.
+
+## POINTER 37
+<STR>(RAV)
+<VOICE>(VS31_043)S'pose I don't mind people 
+thinkin' I'm "dangerous." 
+Adds ta my mysterious charm...
+
+## POINTER 38
+<STR>(RAV)
+<VOICE>(VS31_044)It seems we're in Yormgen. 
+You know, that town from 
+the diary on the ghost ship.
+
+## POINTER 39
+<STR>(EST_P)
+<VOICE>(VS31_045)Wait, this is Yormgen?
+
+## POINTER 40
+<STR>(KAR)
+<VOICE>(VS31_046)The town that needed the 
+clear ciel crystal to 
+protect itself from monsters?
+
+## POINTER 41
+<STR>(RIT)
+<VOICE>(VS31_047)It makes sense. They don't 
+have a barrier here.<PAGE><VOICE>(VS31_048)That's reason enough 
+to be looking for a way 
+to keep out monsters.
+
+## POINTER 42
+<STR>(RAV)
+<VOICE>(VS31_049)But that was 1,000 years ago.
+
+## POINTER 43
+<STR>(YUR)
+<VOICE>(VS31_050)Yeah. And I find it strange 
+that they were getting 
+by at all without a barrier.
+
+## POINTER 44
+<STR>(KAR)
+<VOICE>(VS31_051)You're right.
+
+## POINTER 45
+<STR>(JUD)
+<VOICE>(VS31_052)What if we were to show 
+this case to one of the 
+locals, and ask them?
+
+## POINTER 46
+<STR>(EST_P)
+<VOICE>(VS31_053)Yes. We might learn 
+something about Phaeroh 
+that way as well.
+
+## POINTER 47
+<STR>(YUR)
+<VOICE>(VS31_054)I agree.

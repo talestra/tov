@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1261437960]
+Ojos-rojos en el árbol de Halure
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287665040]
+(KAR)
+¿Aquellos eran ojos-rojos?
+¿Así que esos y los Caballeros te persiguen?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287665040]
+(YUR)
+Sí, menudo exitazo tengo entre los bichos raros.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287665278]
+(KAR)
+¿Y qué has hecho
+para ser tan popular?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287665040]
+(YUR)
+Llevo veintiún años armando follones.
+Enumerarlo todo llevaría un buen rato.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287665040]
+(KAR)
+Vale... déjalo.
+No quiero escucharlo.

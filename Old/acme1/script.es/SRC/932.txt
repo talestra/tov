@@ -1,0 +1,86 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858714]
+<STR>(JUD)
+Es como si me
+hubiese ido de
+aquí hace siglos.<PAGE>Je, je. ¿Te sientes
+igual, Ba'ul?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1283552935]
+<STR>(YUR)
+¿Hablando con Ba'ul?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1283552935]
+<STR>(JUD)
+Sí. Estábamos
+recordando nuestro
+primer encuentro.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1283552935]
+<STR>(YUR)
+¿Te importaría contármelo?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858714]
+<STR>(JUD)
+Hace mucho tiempo,
+Ba'ul solía vivir en la
+cima del monte Temza.<PAGE>Los ciudadanos le temían. Creían que
+era un monstruo gigante y feroz.<PAGE>Pero comencé a
+hablar con él y
+nos hicimos amigos.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1283552935]
+<STR>(YUR)
+¿Cuántos años
+tenías?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858714]
+<STR>(JUD)
+No sabría decirte, pero
+sé que era muy joven.<PAGE>Desde entonces empezamos
+a viajar juntos.
+Mi padre también venía.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1283552935]
+<STR>(YUR)
+¿Tu padre también?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858714]
+<STR>(JUD)
+Mi padre era un apasionado
+de los blastias. Creo que me
+influenció mucho.<PAGE>Poco después ocurrió la Gran Guerra.
+Estaba a punto de morir y
+entonces Ba'ul me salvó.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1283552935]
+<STR>(YUR)
+Estabas justo en medio
+de la batalla, ¿no?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858714]
+<STR>(JUD)
+Sí. Mis compañeros krityanos me
+llevaron a Myorzo, pero pasado
+un tiempo volví a la superficie.<PAGE>Más tarde decidí
+viajar por el mundo
+con Ba'ul.<PAGE>Para destruir todos los blastias hermes y
+así librar al mundo de sus efectos nocivos.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858714]
+<STR>(YUR)
+Entiendo. Así que Ba'ul
+te salvó la vida.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1283552935]
+<STR>(JUD)
+Sí.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1283552935]
+<STR>(YUR)
+Me parece que ahora entiendo mucho mejor
+la conexión que hay entre los dos.
+Gracias por contármelo.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1283552935]
+<STR>(JUD)
+Papá...

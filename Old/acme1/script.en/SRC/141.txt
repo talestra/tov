@@ -1,0 +1,187 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS11_042)H-hey!
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS11_043)Jeez, what is this thing?! 
+So this is a blastia, too?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS11_044)But what I want is the aque blastia, 
+not this this...this puppet.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS11_045)What are you doing? Don't just 
+go poking at him like that!
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS11_046)If I can just analyze him, I'll finally 
+be able to complete my anima formu--huh?<PAGE><VOICE>(VS11_047)No! His blastia 
+core is missing!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS11_048)<STR>(RIT), looks like one of 
+your friends is here.
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS11_049)Hey! Who're you?
+
+## POINTER 7
+
+<VOICE>(VS11_050)M-me? I'm just a blastia 
+researcher from Aspio!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS11_051)...That sounded convincing.
+
+## POINTER 9
+
+<VOICE>(VS11_052)And just who are all of you? This 
+place is off-limits, you know!!
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS11_053)I think you just gave 
+yourself away.<PAGE><VOICE>(VS11_054)I don't know who you are, but 
+you're definitely not from Aspio 
+if you don't recognize me.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS11_055)...Guess she's got no problems with modesty.
+
+## POINTER 12
+
+<VOICE>(VS11_056)Gah! This job is just full of problems. If
+it's not the Knights, it's a bunch of kids!
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS11_057)Aaah, it's moving!
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS11_058)<STR>(RIT)!
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS11_059)Let me see...!
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS11_060)Wait a minute...
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS11_061)W-what?!
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS11_062)How did you...?
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS11_063)I was just trying to 
+heal your wounds...
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS11_064)Hey you guys! Stop playing 
+around and help us!
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS11_065)Grr... All right, all right!
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS11_066)I'm going after that idiot! 
+You all take care of this!
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS11_067)What do you mean you'll leave it to 
+us? How're you gonna get through?!
+
+## POINTER 24
+<STR>(RIT)
+<VOICE>(VS11_068)Grr... That idiot!
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS11_069)I guess we've got no choice but to 
+play with this wind-up toy for now.
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS11_070)Let's get this over with 
+and go after that jerk!
+
+## POINTER 27
+<STR>(RIT)
+<VOICE>(VS11_071)All that's left is to cut off its 
+power supply... I'm sorry...
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS11_072)<STR>(RIT), hurry!
+
+## POINTER 29
+<STR>(RIT)
+<VOICE>(VS11_073)All right, all right!
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS11_074)Come on! Let's go!
+
+## POINTER 31
+<STR>(EST_P)
+<VOICE>(VS11_075)But <STR>(FRE)...
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS11_076)There can't be many knights here 
+if our shady friend in the cloak 
+is just wandering around.
+
+## POINTER 33
+<STR>(EST_P)
+<VOICE>(VS11_077)So you think <STR>(FRE) is...
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS11_078)I don't think he's here 
+anymore. Come on!
+
+## POINTER 35
+<STR>(RIT)
+<VOICE>(VS11_079)If I'd just had a little more time I could've 
+figured out the anima formula!
+
+## POINTER 36
+<STR>(KAR)
+<VOICE>(VS11_080)Is that why we were fighting that thing?
+
+## POINTER 37
+<STR>(RIT)
+<VOICE>(VS11_081)Of course.
+
+## POINTER 38
+<STR>(KAR)
+<VOICE>(VS11_082)You suck!
+
+## POINTER 39
+<STR>(RIT)
+<VOICE>(VS11_083)You were already here looking for the
+thief. I just had you guys help out a little.
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS11_084)Let's go! Let's go!

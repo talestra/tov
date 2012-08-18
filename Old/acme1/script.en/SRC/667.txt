@@ -1,0 +1,31 @@
+## POINTER 0
+Shel
+Ah, <STR>(YUR). Have you found 
+any clues as to my brother's 
+whereabouts?
+
+## POINTER 1
+<STR>(YUR)
+No, nothing yet.
+
+## POINTER 2
+Shel
+I see...
+
+## POINTER 3
+<STR>(KAR)
+It's pretty hard to look for 
+him when all we have is 
+the name, "Clay", to go by.
+
+## POINTER 4
+Shel
+Well then, please go and 
+meet Lune. She's my 
+brother's girlfriend.<PAGE>You should be able to find 
+her with the children in 
+the citizens' quarter.
+
+## POINTER 5
+<STR>(EST_P)
+Okay, let's go and have a look.

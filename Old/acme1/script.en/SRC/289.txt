@@ -1,0 +1,170 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS26_001)The fog's gotten awfully thick.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS26_002)Yeah, it's creeping me out...
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VS26_003)Fog like this's usually 
+a sign somethin' bad's 
+about to happen.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS26_004)Kn-knock it off!
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS26_005)Talk like that long enough and 
+something bad will happen.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS26_006)Hey! Front! I mean bow!
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS26_007)Hmm... We're going to hit them.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS26_008)Whoa!
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS26_009)Aaah!
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS26_010)Noo!
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS26_011)Gyaah!
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS26_012)Uaaagh!
+
+## POINTER 12
+<STR>(RAP)
+<VOICE>(VS26_013)Woof!
+
+## POINTER 13
+Kaufman
+<VOICE>(VS26_014)What is that...?!
+
+## POINTER 14
+Kaufman
+<VOICE>(VS26_015)That's an old ship. I've never 
+seen that type before...
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS26_016)I think it says...
+The Atherum.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS26_017)Aaah!
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS26_018)That's weird. There's no sign of people...
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS26_019)It-it's like...it's calling to us.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS26_020)N-no way! Come on! 
+Get the Fiertia going!
+
+## POINTER 20
+Tokunaga
+<VOICE>(VS26_021)The ceres blastia's not responding!
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS26_022)What do you mean?
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS26_023)What the hell is 
+wrong with it?
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS26_024)You think...this thing's the problem?
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS26_025)Oooh, maybe it's a 
+cursed ghost ship.
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS26_026)Y-you don't really 
+think so, do you?
+
+## POINTER 26
+<STR>(JUD)
+<VOICE>(VS26_027)Why don't we go take 
+a look? It'll be fun.
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VS26_028)I love this sort of thing.
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VS26_029)What?!
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS26_030)Well, we don't know what's 
+wrong with the blastia. 
+We've gotta go take a look.
+
+## POINTER 30
+Kaufman
+<VOICE>(VS26_031)Are you planning on just 
+leaving the Fiertia like this?
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS26_032)All right, why don't four of 
+us go investigate while the 
+rest stay here and keep watch?
+
+## POINTER 32
+<STR>(JUD)
+<VOICE>(VS26_033)That should be fine.
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS26_034)Okay. So <STR>(RAP) and I'll go.
+
+## POINTER 34
+<STR>(RAP)
+<VOICE>(VS26_035)Woof!
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS26_036)...And who's the third person?
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS26_037)I'm not going. No way!
+
+## POINTER 37
+<STR>(RAV)
+<VOICE>(VS26_038)<STR>(YUR), why don't you decide?
+
+## POINTER 38
+<STR>(YUR)
+<VOICE>(VS26_039)Gotcha.

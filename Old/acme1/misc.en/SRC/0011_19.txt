@@ -1,0 +1,319 @@
+## POINTER 2614
+A unique stone known as the star gem. 
+This is the orange type.
+
+## POINTER 2616
+Dark Star Gem
+
+## POINTER 2617
+A unique stone known as the star gem.
+It constantly glows black.
+
+## POINTER 2619
+Light Star Gem
+
+## POINTER 2620
+A unique stone known as the star gem. 
+It constantly glows white.
+
+## POINTER 2622
+Roper Tentacle
+
+## POINTER 2623
+The tentacle of a magic creature.
+Covered with a slimy fluid. Yuck!
+
+## POINTER 2625
+Rare Metal
+
+## POINTER 2626
+An extremely rare metal ore said to be fictional.
+Very solid and is difficult to process.
+
+## POINTER 2628
+Great Wolf Fang
+
+## POINTER 2629
+A very large fang of a wolf.
+
+## POINTER 2631
+Great Crab Shell
+
+## POINTER 2632
+A person can fit into this shell. It would be
+nice to eat a crab of this size for dinner!
+
+## POINTER 2634
+Great Raptor Beak
+
+## POINTER 2635
+A gigantic beak from an enormous bird.
+It will make a good weapon, but there’s a stench.
+
+## POINTER 2637
+Griffin Claw
+
+## POINTER 2638
+The sharp claws of griffins. Many travelers
+lost their lives to these.
+
+## POINTER 2640
+Dragon Powder
+
+## POINTER 2641
+Said to be the powder form of dried dragon's
+sweat. It is white and has no taste or smell.
+
+## POINTER 2643
+Long Horn
+
+## POINTER 2644
+The horn of a buffalo type monster. The tips are
+slightly curved, but is still dangerous if hit by them.
+
+## POINTER 2646
+Bull Wing
+
+## POINTER 2647
+Wing of a bull type monster. Said to serve as ears.
+
+## POINTER 2649
+Ilyccian Ice
+
+## POINTER 2650
+Ice from the Ilyccia glacial region.
+Not possible theoretically, but this ice never melts.
+
+## POINTER 2652
+Tolbyccian Water
+
+## POINTER 2653
+Mineral water found only on the Tolbyccia
+continent. Also known as the "Springs of Tolby".
+
+## POINTER 2655
+Tolbyccian Fish
+
+## POINTER 2656
+Fish found mainly around Tolbyccia.
+It tastes bad and can't be used for food.
+
+## POINTER 2658
+Hypionian Tree Bark
+
+## POINTER 2659
+A piece of bark from the Hypionian tree.
+The sap can be used for many things.
+
+## POINTER 2661
+Hypionian Coral
+
+## POINTER 2662
+Coral that grows on the coast of the Hypionia
+continent. Shiny and very beautiful.
+
+## POINTER 2664
+Weccea Ore
+
+## POINTER 2665
+An ore found on the continent of Weccea. It can be melted
+down under relatively low heat and is easy to process.
+
+## POINTER 2667
+Yurzo Fruit
+
+## POINTER 2668
+The fruit of a Yurzo tree. You need to boil it
+for some time before it is edible.
+
+## POINTER 2670
+Yurzo Crystal
+
+## POINTER 2671
+A rare crystal that formed after a tree burns
+and crystallized.
+
+## POINTER 2673
+Gel Base
+
+## POINTER 2674
+The raw material of gels. Edible when processed,
+but is bland and odorless.
+
+## POINTER 2676
+Desier Iron Sand
+
+## POINTER 2677
+Sand with iron from the Desier continent.
+Much harder than ordinary iron sands.
+
+## POINTER 2679
+Desier Gold Dust
+
+## POINTER 2680
+Sand mixed with gold from the Desier continent.
+Collecting a lot and forging it may make you rich.
+
+## POINTER 2682
+Weccean Lizard Fossil
+
+## POINTER 2683
+A lizard fossil.
+Very valuable for research.
+
+## POINTER 2685
+Naevimetal
+
+## POINTER 2686
+A rare growing metal. It is dangerous since
+it can eat away other creatures.
+
+## POINTER 2688
+Medical Herb
+
+## POINTER 2689
+An herb that is good for recovering physical strength.
+Needs to be processed before use.
+
+## POINTER 2691
+Soul Grass
+
+## POINTER 2692
+An herb said to be good for revitalizing
+one's health. Needs to be processed before use.
+
+## POINTER 2694
+Magic Resin
+
+## POINTER 2695
+Liquid concentrated with magical powers.
+Created by refining magic sap.
+
+## POINTER 2697
+Air Stone
+
+## POINTER 2698
+A stone that slightly floats in mid-air. You can't
+tell it's floating until you take a close look.
+
+## POINTER 2700
+Geo Stone
+
+## POINTER 2701
+Small but extremely heavy... Is it?
+Actually, it's not that heavy.
+
+## POINTER 2703
+Silver Ore
+
+## POINTER 2704
+You can obtain silver by refining this.
+It is of no value by itself.
+
+## POINTER 2706
+Antibiotics
+
+## POINTER 2707
+A medical supply that can cure poison.
+You need to know how to use it to handle it.
+
+## POINTER 2709
+Power Light
+
+## POINTER 2710
+Power flows through your body by just
+touching it. Or maybe it's just my imagination.
+
+## POINTER 2712
+Shield Light
+
+## POINTER 2713
+Your muscles become solid just by touching it.
+Or maybe its just my imagination.
+
+## POINTER 2715
+Spicy Potion
+
+## POINTER 2716
+A very hot potion for grown-ups.
+Keep it away from kids!
+
+## POINTER 2718
+Speed Light
+
+## POINTER 2719
+Touching it will make you feel as light as air.
+Or maybe it's just my imagination.
+
+## POINTER 2721
+Mysterious Piece
+
+## POINTER 2722
+A strange piece. I don't even remember why
+this is in my hands now.
+
+## POINTER 2724
+Strange Mirror
+
+## POINTER 2725
+A mirror that does not show human reflections.
+It reflects everything else normally. I wonder why?
+
+## POINTER 2727
+Spring of Wisdom
+
+## POINTER 2728
+An orb said to hold memories from an
+ancient time. It is just a legend though...
+
+## POINTER 2730
+Strange Stone
+
+## POINTER 2731
+An extremely rare ore.
+"Strange" doesn't mean its shape.
+
+## POINTER 2733
+Rainbow Lens
+
+## POINTER 2734
+A strange lens that emits all seven colors
+of the rainbow from every angle.
+
+## POINTER 2736
+Golden Horn
+
+## POINTER 2737
+A shiny, gold horn from a rhybgaro.
+Known to be a very rare item.
+
+## POINTER 2739
+Eggbear Claw
+
+## POINTER 2740
+A sharp and solid claw. Used in this form or grinded to
+a powder form. Used for various purposes.
+
+## POINTER 2742
+World Map
+
+## POINTER 2743
+A must-have item for travelers. It’s just a plain
+piece of paper until you fill it in though.
+
+## POINTER 2745
+Collector's Book
+
+## POINTER 2746
+A book to record items you’ve obtained.
+Try collecting every item and complete the book!
+
+## POINTER 2748
+Monster Book
+
+## POINTER 2749
+A book to record enemy details. Collect
+various data to complete the book!
+
+## POINTER 2751
+Sorcerer's Ring

@@ -1,0 +1,15 @@
+## POINTER 0
+<STR>(KAR)
+Something must have happened...
+
+## POINTER 1
+<STR>(EST_P)
+Are these people injured?
+
+## POINTER 2
+<STR>(EST_P)
+...Let me help you...!
+
+## POINTER 3
+<STR>(YUR)
+I'm going to go inside and see what's happened.

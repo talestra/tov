@@ -1,0 +1,179 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(RIT)
+Una cosa que me había
+olvidado preguntarte.<PAGE>Me dijiste que estabas buscando
+un libro. ¿Por qué?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290795574]
+<STR>(JUD)
+Oh, ¿dije eso?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(RIT)
+Puedes dejar de hacerte la tonta,
+<STR>(JUD), que ya no cuela.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(JUD)
+Es mi padre...
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290795574]
+<STR>(RIT)
+¿Eh? ¿Quién?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290795574]
+<STR>(JUD)
+Hermes.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551147]
+<STR>(RIT)
+¿Ein?<PAGE>¡¿Lo cuálo?!<PAGE>Pero ¿qué...? Pero ¿cómo...? ¿Y aun así...?
+¿Aun así destruiste todos esos blastias?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290795574]
+<STR>(JUD)
+Los destruí precisamente
+porque mi padre los creó.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(RIT)
+¡¿Por-por qué no me lo dijiste antes?!
+¡¿No creías que era importante saberlo?!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(JUD)
+A mí no me parece que la conexión
+entre Hermes y yo sea tan importante.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(RIT)
+*Suspiro* No te das cuenta
+de lo importante que es
+compartir tus conocimientos.<PAGE>¿Y entonces? Destruías esos blastias que hizo
+tu padre para... ¿corregir sus errores?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(JUD)
+No, no soy tan noble. Solamente
+trataba de arreglar lo que hizo
+antes de que alguien se diese cuenta.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(RIT)
+¿Qué quieres decir?
+¿Que no lo hacías por el bien
+del planeta... sino por tu padre?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(JUD)
+Sí, supongo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(RIT)
+No puedo entender
+esa clase de sentimiento.
+No tengo padre, así que...
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(JUD)
+¿No recuerdas a tu padre?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(RIT)
+Se fue justo después
+de que naciese, así que
+no lo recuerdo.<PAGE>Ya casi he olvidado
+la cara de mi madre. 
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(JUD)
+Vaya...
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(RIT)
+¿Qué es?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(JUD)
+Es un recuerdo de mi padre.
+Un blastia termo; solía medir la temperatura.<PAGE>También creó cosas
+que no eran peligrosas.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(RIT)
+Hermes debió ser alguien
+increíble. Creaba blastias
+nuevos como si tal cosa...
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(JUD)
+Te lo puedes quedar.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527061]
+<STR>(RIT)
+Pero ¿qué dices?
+¿No es un recuerdo de tu padre?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(JUD)
+Por eso te lo doy.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(RIT)
+¿Por eso... me lo das?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(JUD)
+Creo que lo mejor es
+que te lo quedes tú.
+No sé mucho sobre blastias.<PAGE>¿No piensas tú también que
+es lo mejor para el blastia?
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(RIT)
+Un momento, ¿por qué debería...?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805217]
+<STR>(JUD)
+Deberías guardarlo.
+De verdad, será lo mejor para él.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(RIT)
+Pe-pero...
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(JUD)
+Muy bien, ¿nos vamos a dormir?
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(RIT)
+Ah...
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(JUD)
+¡Buenas noches!
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(RIT)
+...
+Buenas
+noches...
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(JUD)
+Si quieres ponerle un nombre, adelante.
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(RIT)
+Pero es que...<PAGE>Vale, pues entonces Juana.
+
+## POINTER 35 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(JUD)
+Je, je. Es un nombre
+muy mono. Seguro
+que le gusta.
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290797083]
+<STR>(RIT)
+Juana...

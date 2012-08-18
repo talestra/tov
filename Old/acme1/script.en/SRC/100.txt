@@ -1,0 +1,141 @@
+## POINTER 0
+Hanks
+<VOICE>(VS04_010)<STR>(YUR)! Where've 
+you been?!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS04_011)I got an invitation to the castle and 
+had the most marvelous time.
+
+## POINTER 2
+Hanks
+<VOICE>(VS04_012)Of all the... And who's the young lady?
+
+## POINTER 3
+<STR>(EST)
+<VOICE>(VS04_013)Pleased to meet you. 
+I'm <STR>(EST).
+
+## POINTER 4
+Hanks
+<VOICE>(VS04_014)The pleasure is all mine, Miss.
+
+## POINTER 5
+Hanks
+<VOICE>(VS04_015)Er, more importantly, about those Imperial Knights.<PAGE><VOICE>(VS04_016)They've been so busy looking for you, they haven't 
+paid any attention to our fiasco down here.
+
+## POINTER 6
+Hanks
+<VOICE>(VS04_017)So you've really managed to tick them off, huh?
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS04_018)It looks that way. Has 
+<STR>(RAP) come back yet?
+
+## POINTER 8
+Hanks
+<VOICE>(VS04_019)Sure did, and he was 
+carrying some bag.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS04_020)What happened to it?
+
+## POINTER 10
+Hanks
+<VOICE>(VS04_021)It should be up 
+in your room.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS04_022)Go pick it up later. Give it 
+a shake. It has a nice jingle 
+to it. Mordio liked it too.
+
+## POINTER 12
+Hanks
+<VOICE>(VS04_023)You met Mr. Mordio?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS04_024)Yeah, but the rat left town. 
+Apparently he's someone 
+important from a city called Aspio.
+
+## POINTER 14
+Hanks
+<VOICE>(VS04_025)..."Left town?" Then that means...we've 
+been hoodwinked.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS04_026)Afraid so. His house was empty, and 
+I doubt he's even a real noble.
+
+## POINTER 16
+Hanks
+<VOICE>(VS04_027)...I see.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS04_028)Looks like the aque 
+blastia's finally stopped 
+leaking water.
+
+## POINTER 18
+Hanks
+<VOICE>(VS04_029)Well, without a core 
+it won't budge.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS04_030)Is there enough water 
+for the time being?
+
+## POINTER 20
+Hanks
+<VOICE>(VS04_031)Yeah, but it won't last long.
+After that, we'll just get it from 
+the river. Get the runs, though.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS04_032)And the Knights aren't going 
+to help. Guess I'll go get it 
+back from the thief myself.
+
+## POINTER 22
+Hanks
+<VOICE>(VS04_033)What? You aren't thinking 
+of following Mordio beyond 
+the barrier, are ya?
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS04_034)Don't worry. 
+I'll be back before 
+you know it.
+
+## POINTER 24
+Hanks
+<VOICE>(VS04_035)Humph. 
+Who's worried?<PAGE><VOICE>(VS04_036)It's a good opportunity for ya. No 
+need for ya to hurry back here.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS04_037)Huh? What do you mean by that?
+
+## POINTER 26
+Hanks
+<VOICE>(VS04_038)What I mean is, we can get along 
+just fine without you.<PAGE><VOICE>(VS04_039)Even <STR>(FRE) used to say, 
+"I wonder how long <STR>(YUR) plans 
+on living this life."
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS04_040)<STR>(FRE) needs to learn to mind his own business.

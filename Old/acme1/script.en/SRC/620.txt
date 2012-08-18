@@ -1,0 +1,246 @@
+## POINTER 0
+<STR>(RIT)
+Man, this place is as muggy as it ever was...
+
+## POINTER 1
+<STR>(KAR)
+You don't like it? It's just 
+about perfect if you ask me.
+
+## POINTER 2
+<STR>(YUR)
+Now, if I were a butler, where would I hide 
+a stone tablet in a place like this?
+
+## POINTER 3
+<STR>(RIT)
+This place is actually pretty big. Where 
+are we even supposed to start...?
+
+## POINTER 4
+
+Oh come on, it's not like 
+we're leaving empty-handed.
+
+## POINTER 5
+
+Still, I'm always a little bit bummed 
+when we don't find any blastia.
+
+## POINTER 6
+
+Yes, but this may just be the clue we need to untangle 
+the mystery of blastia once and for all.
+
+## POINTER 7
+<STR>(RAV)
+What're those two doin' here...?
+
+## POINTER 8
+Markham
+Let's see, Brave 
+Vesperia, was it?
+
+## POINTER 9
+<STR>(KAR)
+You remembered!
+
+## POINTER 10
+Markham
+How could I forget the 
+people who returned my 
+dearest Harmfall to me?
+
+## POINTER 11
+<STR>(KAR)
+...Hey, what's that 
+you've got there?
+
+## POINTER 12
+Markham
+We dug this up deep within the ruins of the town.
+
+## POINTER 13
+Joshua
+It has ancient writings on it, so 
+it might just contain some important 
+information about blastia.
+
+## POINTER 14
+<STR>(YUR)
+Mind if we take a look at it?
+
+## POINTER 15
+<STR>(KAR)
+A black stone tablet with 
+red writing... This is...
+
+## POINTER 16
+<STR>(RAV)
+I love it when a plan comes together. ♪
+
+## POINTER 17
+<STR>(RIT)
+...It's about time. I'd 
+had it up to here with this 
+cat and mouse game...
+
+## POINTER 18
+<STR>(EST_P)
+I've actually enjoyed all 
+the interesting places this 
+search has taken us.
+
+## POINTER 19
+<STR>(JUD)
+...Do not over-water the plants early on. 
+Once they have borne fruit though, take 
+care not to let the soil become dry...
+
+## POINTER 20
+<STR>(KAR)
+Huh? What's that, <STR>(JUD)?
+
+## POINTER 21
+<STR>(JUD)
+They're instructions for growing 
+delicious cucumbers.
+
+## POINTER 22
+<STR>(EST_P)
+Wait... Didn't the elder 
+at Myorzo say something 
+about that...?
+
+## POINTER 23
+<STR>(RIT)
+Who cares about gardening 
+at a time like this?!
+
+## POINTER 24
+<STR>(JUD)
+I only read what's written 
+on the tablet.
+
+## POINTER 25
+<STR>(YUR)
+...Wait, what do you mean?
+
+## POINTER 26
+<STR>(JUD)
+Um, just what I said.
+
+## POINTER 27
+<STR>(KAR)
+What about the process 
+for refining Everlight?
+
+## POINTER 28
+<STR>(JUD)
+Yes, well... There's 
+nothing here about 
+that at all.
+
+## POINTER 29
+<STR>(RIT)
+So then, this hunk of rock isn't 
+the secret manual after all?
+
+## POINTER 30
+<STR>(RAV)
+But it's a black tablet engraved 
+with red writing.
+
+## POINTER 31
+<STR>(EST_P)
+It's exactly like the 
+one Sebastian said 
+he brought here.
+
+## POINTER 32
+<STR>(YUR)
+The story must've gotten turned 
+around somehow during all the 
+time we were chasing him.
+
+## POINTER 33
+<STR>(RIT)
+No way... Now we 
+look like a bunch 
+of idiots...
+
+## POINTER 34
+Joshua
+You did say the process for 
+Everlight refinement, right? 
+Is that why you're here?
+
+## POINTER 35
+<STR>(KAR)
+Yeah, we came here hoping to 
+find it, but it looks like we 
+had our facts mixed up...
+
+## POINTER 36
+Markham
+I imagine Irmine would know 
+something about that.
+
+## POINTER 37
+<STR>(YUR)
+Who?
+
+## POINTER 38
+Joshua
+He's a famous shovel maker. He's 
+been locked up in the Union's prison 
+for quite a few years, though.
+
+## POINTER 39
+Markham
+If there's anyone who can tell you about 
+refining Everlight, he's your man.
+
+## POINTER 40
+<STR>(KAR)
+Whoa, really?
+
+## POINTER 41
+Joshua
+Yes. And it's no great secret that 
+Irmine was the very one to make Mark's 
+precious Harmfall, as well.
+
+## POINTER 42
+Markham
+Or that the Harmfall itself was crafted 
+entirely out of Everlight.
+
+## POINTER 43
+<STR>(EST_P)
+Is that true?!
+
+## POINTER 44
+<STR>(KAR)
+But what is someone like that 
+doing locked up in a prison?
+
+## POINTER 45
+Markham
+I'm afraid I'm not privy to the details. He never did 
+strike me as the criminally-minded type, though.
+
+## POINTER 46
+<STR>(YUR)
+We'll worry about that if and when we need to. Let's 
+put this Everlight thing to bed once and for all.
+
+## POINTER 47
+<STR>(KAR)
+Yeah, you're right. That was quite a piece 
+of information you gave us. Thanks a lot.
+
+## POINTER 48
+Markham
+The Union's prison isn't a very fun place, 
+even to visit. Take care of yourselves.

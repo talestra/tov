@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1287665661]
+¿Y... quién es (FRE)?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287674803]
+(KAR)
+Una pregunta, ¿quién es ese tal (FRE)?
+¿No era con el que salías, (EST_P)?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287674803]
+(EST_P)
+¿Qué quieres decir con eso?
+
+## POINTER 3 [t:1;r:2;ru:dagorat,memnoch;user:parsec;time:1265750005]
+(EST_P)
+(FRE) es un amigo de (YUR).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287674803]
+(YUR)
+Sí, básicamente es eso.
+
+## POINTER 5 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1258724027]
+(KAR)
+¿Dos amigos que van tras la misma chica?
+Tienes un lado salvajillo, ¿eh, (EST_P)?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287674803]
+(EST_P)
+¿Cómo que «l-lado salvajillo»?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1287674803]
+(KAR)
+No, no pasa nada.
+Podéis tener vuestros secretitos.
+
+## POINTER 8 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1258724027]
+(YUR)
+No ha podido entenderlo peor...

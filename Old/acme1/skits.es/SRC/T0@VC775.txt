@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1251729864]
+Me huele aún peor
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267282833]
+(KAR)
+Jamás pensé que (RAV)
+fuese miembro de Altosk.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297114082]
+(YUR)
+Parecía conocer muy bien al Don. El viejales
+debe tener una labor bastante importante.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297114082]
+(KAR)
+S-Sí... Cuesta creerlo, pero debe ser
+uno de los máximos oficiales de Altosk.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267282833]
+(KAR)
+El hecho de que pueda salir de la ciudad
+por asuntos del gremio demuestra que
+el Don confía en él.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267282833]
+(RIT)
+Ese viejales...
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267282833]
+(EST_P)
+Las apariencias engañan, (RIT).
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267282833]
+(YUR)
+A mí me huele aún peor...

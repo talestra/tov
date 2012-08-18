@@ -1,0 +1,187 @@
+## POINTER 0
+<STR>(YUR)
+I'd like to pass, 
+if I could.
+
+## POINTER 1
+
+Sorry, no can do, buddy. 
+The laborers camp ahead 
+is too dangerous.
+
+## POINTER 2
+<STR>(YUR)
+Hmph...
+
+## POINTER 3
+<STR>(KAR)
+Thank goodness... Knowing you, <STR>(YUR), 
+I thought for sure you'd try to 
+force your way through...
+
+## POINTER 4
+<STR>(YUR)
+Well, "proceed with caution," and 
+all that. Boss's orders, y'know.
+
+## POINTER 5
+<STR>(EST_P)
+But how should we 
+get by the guard?
+
+## POINTER 6
+<STR>(JUD)
+I really think forcing our way through would 
+be the simplest and most effective way in.
+
+## POINTER 7
+<STR>(KAR)
+No, I won't allow it!<PAGE>All we need to do is draw the 
+guard away from his post.
+
+## POINTER 8
+<STR>(EST_P)
+But how will we do that?
+
+## POINTER 9
+<STR>(KAR)
+...Maybe by, y'know, seducing him with feminine wiles?
+
+## POINTER 10
+<STR>(YUR)
+Well then...
+
+## POINTER 11
+Have someone distract the guards?
+<STR>(EST_P)
+<STR>(JUD)
+<STR>(KAR)
+
+## POINTER 12
+<STR>(YUR)
+<STR>(EST_P), you up for it?
+
+## POINTER 13
+<STR>(EST_P)
+Huh? M-me? N-not 
+a chance!
+
+## POINTER 14
+<STR>(YUR)
+Not a chance, huh? Yeah, I guess 
+you're not too sexy anyway.
+
+## POINTER 15
+<STR>(EST_P)
+Erk...I'm sexy enough, 
+thank you very much!<PAGE>...Want me to prove it?
+
+## POINTER 16
+<STR>(YUR)
+Sure.
+
+## POINTER 17
+<STR>(JUD)
+Now, let's go look for something 
+to get that guard drooling.
+
+## POINTER 18
+<STR>(EST_P)
+Thanks!
+
+## POINTER 19
+<STR>(JUD)
+You're certainly persuasive.
+
+## POINTER 20
+<STR>(YUR)
+Nah, she's just easily 
+persuaded.
+
+## POINTER 21
+<STR>(JUD)
+That's for sure.
+
+## POINTER 22
+<STR>(YUR)
+Well, <STR>(JUD), you're probably the best choice.
+
+## POINTER 23
+<STR>(JUD)
+Yes, I think so.
+
+## POINTER 24
+<STR>(KAR)
+Aren't you sure of yourself!
+
+## POINTER 25
+<STR>(JUD)
+Well then, shall we?
+
+## POINTER 26
+<STR>(EST_P)
+Where are we going?
+
+## POINTER 27
+<STR>(JUD)
+To buy a dress, 
+of course.<PAGE>I can't seduce 
+anyone in these 
+rags!
+
+## POINTER 28
+<STR>(YUR)
+Isn't what you're wearing good enough?
+
+## POINTER 29
+<STR>(JUD)
+No, no, my pride would never allow it.
+
+## POINTER 30
+<STR>(YUR)
+I don't really understand, but she 
+appears to be going to buy a dress.
+
+## POINTER 31
+<STR>(KAR)
+So she's going 
+to see the peddler, 
+then.
+
+## POINTER 32
+<STR>(YUR)
+<STR>(KAR) should be good for the job.
+
+## POINTER 33
+<STR>(KAR)
+Wh-what are you talking 
+about?! Why me?!
+
+## POINTER 34
+<STR>(JUD)
+That sounds good to me.
+
+## POINTER 35
+<STR>(KAR)
+Ah ha ha, so you're in on 
+the joke too, <STR>(JUD)?
+
+## POINTER 36
+<STR>(JUD)
+Nah, I'm not really one for jokes.
+
+## POINTER 37
+<STR>(KAR)
+Huh...?
+
+## POINTER 38
+<STR>(YUR)
+Okay, let's go.
+
+## POINTER 39
+<STR>(JUD)
+You've gotta believe in yourself, <STR>(KAR)!<PAGE>When a lady struts her stuff, she does it with pizzazz!
+
+## POINTER 40
+<STR>(KAR)
+I don't have any idea what you're talking about!

@@ -1,0 +1,185 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(KAR)
+Ya tenemos el agua.
+Creo que estamos listos para irnos.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(EST_P)
+De acuerdo.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+
+¡Para! ¡Déjala!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+
+¡Los chicos y las chicas que
+no cumplen el toque de queda
+serán castigados por el magistrado!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027312]
+
+¡Pero solo íbamos
+a buscar a mami
+y a papi!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(YUR)
+Dejadme a mí estos niños. Ya os diré
+si están bien educados o no.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+
+¡No te metas, forastero!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(EST_P)
+Por favor, perdonad a estos niños.<PAGE>Iré a ver al magistrado
+y me disculparé en persona
+de su parte.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407697]
+
+Un momento. Tú eres...
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+
+¡Mis más sinceras disculpas!
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(EST_P)
+¿Crees que podría...
+haberlo hecho mejor?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(YUR)
+Eh, ha funcionado, ¿no?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407697]
+
+¡Gracias por salvarnos
+de esos tipos malos!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(EST_P)
+¿Cómo os llamáis?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+Alph
+¡Me llamo Alph!
+Y esta es mi hermana Layla.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407697]
+<STR>(JUD)
+¿Qué les ha pasado
+a vuestros padres?
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+Alph
+¡Se los llevaron al desierto
+en el carruaje grande
+del magistrado!<PAGE>¡Alguien me dijo que
+iban a buscar a Phaeroh!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407697]
+<STR>(EST_P)
+¡Phaeroh!
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(YUR)
+Ya...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407697]
+<STR>(RAV)
+Pero ¿qué crees que van a hacer
+cuando lo encuentren?
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(KAR)
+¿Y obligan a los ciudadanos
+a hacer el trabajo sucio?
+¡Eso es despreciable!
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+Layla
+Oye, hermanito,
+¿iremos a buscar
+a mami y a papi?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407697]
+<STR>(JUD)
+No, de eso nada.
+Si vais al desierto,
+seguro que moriréis.
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+Alph
+¡Agh!
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(EST_P)
+¡<STR>(JUD)!
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(JUD)
+Nosotros buscaremos a vuestros padres.
+Vosotros no podéis ir al desierto.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+Alph
+¿De verdad?
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(JUD)
+Yo no miento.
+¿A que no te importa, <STR>(KAR)?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407697]
+<STR>(KAR)
+No. Por mí vale.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407697]
+<STR>(RIT)
+Qué rápido te has decidido.
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1281296064]
+<STR>(EST_P)
+Al fin y al cabo, su gremio
+predica la justicia.
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+Layla
+¡Gracias a todos!
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+Alph
+Toma, quédatelo, por ser tan amable.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407697]
+<STR>(KAR)
+¿Un abalorio de cristal?
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(JUD)
+Es una gema preciosa.
+
+## POINTER 35 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(EST_P)
+Es nuestra recompensa por aceptar el trabajo.
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(YUR)
+Ahora que nos han pagado por adelantado, tendremos
+que trabajar como hormigas obreras, ¿eh, <STR>(KAR)?
+
+## POINTER 37 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1279649867]
+<STR>(KAR)
+Pues sí, la verdad.
+
+## POINTER 38 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1281295989]
+<STR>(YUR)
+Pero lo que me preocupa...
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1298407697]
+<STR>(YUR)
+... es que el Imperio esté investigando a Phaeroh.

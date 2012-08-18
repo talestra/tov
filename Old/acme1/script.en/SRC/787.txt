@@ -1,0 +1,51 @@
+## POINTER 0
+
+Woof woof!!
+
+## POINTER 1
+<STR>(YUR)
+Hey... What's 
+all this...
+
+## POINTER 2
+<STR>(KAR)
+I see... <STR>(RAP)'s marked the 
+whole world as his territory!
+
+## POINTER 3
+<STR>(YUR)
+It was nice of you to make 
+a marking map to track <STR>(RAP)'s 
+progress, <STR>(KAR)!
+
+## POINTER 4
+<STR>(KAR)
+It was my pleasure!
+
+## POINTER 5
+<STR>(EST_P)
+Everyone's giving <STR>(RAP) 
+their congratulations 
+for a job well done.
+
+## POINTER 6
+<STR>(RIT)
+Hey, you're pretty 
+popular, <STR>(RAP)!
+
+## POINTER 7
+<STR>(RAV)
+Ya, lil' <STR>(RIT)'s jealous!
+
+## POINTER 8
+<STR>(RIT)
+Jealous?! Who is jealous?!
+
+## POINTER 9
+<STR>(JUD)
+Ease up, <STR>(RIT). Let's celebrate 
+<STR>(RAP)'s victory, too.
+
+## POINTER 10
+<STR>(YUR)
+WOOF!!

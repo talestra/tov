@@ -1,0 +1,200 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS26_059)Hm? Could this be it?
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS26_060)He is clutching something. 
+It must have been very 
+important to him.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS26_061)You think it's the 
+clear ciel crystal?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS26_062)Well it matches up with what 
+was written in that diary.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS26_063)Hey old man, you go get it...!
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS26_064)Um, no thank you. What is it 
+with kids today, always blurting 
+things out like that?
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS26_065)Here you go.
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS26_066)Waaah!
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS26_067)<STR>(JUD) darlin', you've 
+got nerves of steel.
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS26_068)Do you think it might be cursed?
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS26_069)Hey, this thing's stuck...
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS26_070)M-m-m-monst....
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS26_071)Huh? ...Aaaaah!
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS26_072)It appears to have 
+the opposite effect.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS26_073)What are you talking about?!
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS26_074)It's drawing the 
+monsters to us.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS26_075)Here they come!
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS26_076)Jeez, poor <STR>(RAV)'s 
+gettin' too old for this.
+
+## POINTER 18
+<STR>(JUD)
+<VOICE>(VS26_077)Should we give it 
+back to him?
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS26_078)I think that's what he wants!
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS26_079)I...I want to deliver 
+the clear ciel crystal 
+to Yormgen for him.
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS26_080)You what?!
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS26_081)Would it be possible to 
+add that to the jobs being 
+done by the guild?
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS26_082)We can't, <STR>(EST_P).<PAGE><VOICE>(VS26_083)As a rule, tiny guilds like ours 
+don't take on a new job...<PAGE><VOICE>(VS26_084)...until they complete the 
+one they're working on.
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS26_085)Completin' each job to the letter 
+is the way new guilds have ta 
+build their reputation.
+
+## POINTER 25
+<STR>(JUD)
+<VOICE>(VS26_086)Hm? Is the guild going to be sent 
+running here and there by another 
+one of this girl's whims?
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS26_087)Hey! You don't have 
+to talk to her like 
+that, you know!
+
+## POINTER 27
+<STR>(EST_P)
+<VOICE>(VS26_088)<STR>(RIT), wait...<PAGE><VOICE>(VS26_089)<STR>(JUD), I am sorry.<PAGE><VOICE>(VS26_090)But I want to help him 
+deliver this...to the one 
+who was waiting for him.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS26_091)I don't think anyone waits 
+for a thousand years.
+
+## POINTER 29
+<STR>(EST_P)
+<VOICE>(VS26_092)...
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS26_093)I'll find them.
+
+## POINTER 31
+<STR>(EST_P)
+<VOICE>(VS26_094)<STR>(RIT)...
+
+## POINTER 32
+<STR>(RIT)
+<VOICE>(VS26_095)You all have your hands full 
+looking for Phaeroh and 
+escorting <STR>(EST_P), right?<PAGE><VOICE>(VS26_096)I'm free to do what I like.
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS26_097)Well, I'll come along too, then!
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS26_098)I don't mind going either.
+
+## POINTER 35
+<STR>(RIT)
+<VOICE>(VS26_099)H-hold it, you guys 
+have your jobs to 
+take care of!
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS26_100)You know you're going to end 
+up sticking with us anyway.<PAGE><VOICE>(VS26_101)So I don't see any problem 
+with us helping you out 
+a little on the side.
+
+## POINTER 37
+<STR>(EST_P)
+<VOICE>(VS26_102)Thank you!
+
+## POINTER 38
+<STR>(RAV)
+<VOICE>(VS26_103)Ah, how I envy the vigor of youth.
+
+## POINTER 39
+<STR>(RAV)
+<VOICE>(VS26_104)...Huh?
+
+## POINTER 40
+<STR>(JUD)
+<VOICE>(VS26_105)Notice something?
+
+## POINTER 41
+<STR>(RAV)
+<VOICE>(VS26_106)It looks like there's smoke outside.

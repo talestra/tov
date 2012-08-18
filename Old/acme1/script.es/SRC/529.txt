@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1286985321]
+<STR>(KAR)
+<VOICE>(VS60_044)Parece que los Teagle también han huido.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153996]
+<STR>(YUR)
+<VOICE>(VS60_045)Aunque el camino de la colina
+Ehmead esté abierto,
+aún no estoy tranquilo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153996]
+<STR>(RIT)
+<VOICE>(VS60_046)Me encantan los pueblos marítimos.
+Siempre hay de todo, aun en momentos así.<PAGE><VOICE>(VS60_047)Parece que esto nos irá bien.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1286985321]
+<STR>(YUR)
+<VOICE>(VS60_048)¿Qué has comprado?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153996]
+<STR>(EST_P)
+<VOICE>(VS60_049)Emblemas para cada fórmula
+y... partes contenedoras.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1286985321]
+<STR>(RAV)
+<VOICE>(VS60_050)¿Qué tienes pensao hacer?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153996]
+<STR>(RIT)
+<VOICE>(VS60_051)Crearé un artefacto capaz de
+converger el poder de los espíritus.<PAGE><VOICE>(VS60_052)Como una Dein Nomos casera.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1286985321]
+<STR>(KAR)
+<VOICE>(VS60_053)Dein Nomos...<PAGE><VOICE>(VS60_054)Me pregunto qué estará
+haciendo Duke ahora...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153996]
+<STR>(YUR)
+<VOICE>(VS60_055)No lo sé, pero parece que
+está totalmente obsesionado.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1286985321]
+<STR>(KAR)
+<VOICE>(VS60_056)¡¿Q-Qué pasa?!

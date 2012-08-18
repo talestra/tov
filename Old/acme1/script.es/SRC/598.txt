@@ -1,0 +1,111 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575908]
+
+¡Anda, pero si es mi gremio
+favorito! ¡Últimamente
+estáis de lo más atareados!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1291392797]
+
+Pondría la mano en el fuego
+a que dentro de nada tendréis
+un montón de ofertas.<PAGE>¿Buscáis trabajo?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1291392797]
+¿Aceptar el trabajo?
+Aceptar el trabajo
+Rechazar la oferta
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1292161765]
+
+Vale. Volved cuando
+necesitéis trabajo.
+Os buscaré uno.<PAGE>Si podéis encontrar tareas
+que hacer sin nuestra ayuda,
+¡mejor para vosotros!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291394611]
+
+Bueno, ¿qué os parece?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576182]
+<STR>(KAR)
+«He olvidado algo terriblemente importante.
+Por favor, buscadlo y traédmelo.
+-Markham de Portal de Ruinas»
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1291394611]
+<STR>(JUD)
+Un cliente distraidillo, ¿eh?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576182]
+<STR>(YUR)
+No me digas que no puede
+ir él a por sus cosas.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576182]
+<STR>(EST_P)
+Debe haber algún tipo
+de circunstancia atenuante.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576182]
+<STR>(KAR)
+Sí, supongo que sí. Sino
+no sería un trabajo oficial.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1291394611]
+<STR>(RAV)
+Una petición de Portal de Ruinas...
+Esos son los que iban detrás der
+follón que se montó en er coliseo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1291394877]
+<STR>(JUD)
+La actuación de Yeager
+nos engatusó totalmente.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1291394611]
+<STR>(YUR)
+No me recuerdes
+esas cosas, viejales.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1291394611]
+<STR>(EST_P)
+Pero derrotamos
+a Yeager, así que...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1291394611]
+<STR>(KAR)
+Así que ya no hay
+problema, ¿verdad?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1291394611]
+<STR>(YUR)
+Eso espero.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1292761324]
+
+¿Os habéis decidido?
+La paga es de 5.500 gald.
+¿Qué os parece?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1291394611]
+
+Me apostaría un dedo a que
+los de Portal de Ruinas están
+en la sede de la Unión.<PAGE>Os pondrán al corriente
+en menos que canta un gallo.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1291394611]
+<STR>(KAR)
+¡Vale!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1291394706]
+
+Vale. Cuando os dé
+por trabajar, decídmelo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576182]
+
+Oh, el trabajo del que os hablé
+la última vez aún está disponible.
+¿Lo queréis?

@@ -1,0 +1,31 @@
+## POINTER 0
+
+<VOICE>(VS50_141)Ready to call it a day?
+
+## POINTER 1
+Do you wish to rest?
+Yes
+No
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS50_142)You coming too, <STR>(RAP)?
+
+## POINTER 3
+<STR>(RAP)
+<VOICE>(VS50_143)Woof!
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS50_144)Tomorrow...we fight.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS50_145)...Hope everybody can 
+get some sleep.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS50_146)I don't feel like sleeping yet. 
+Guess I'm a little worked up.<PAGE><VOICE>(VS50_147)Might as well look 
+around a little more.

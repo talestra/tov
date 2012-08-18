@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251753278]
+¡Heracles es espectacular!
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942480]
+(KAR)
+Esa fortaleza móvil que atacó al monstruo era
+espectacular... ¿Cómo la llamaban? ¿Heracles?
+
+## POINTER 2 [t:1;r:2;ru:evilluendas,memnoch;user:evilluendas;time:1267317322]
+(YUR)
+Era como otro monstruo. No sabía que
+los Caballeros Imperiales tenían algo así.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115976]
+(EST_P)
+No conozco muchos detalles, pero parece
+ser que se construyó por órdenes de Alexei.
+
+## POINTER 4 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942480]
+(YUR)
+De no ser por Heracles, ahora mismo estaríamos
+en el estómago de ese monstruo volador...
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266942480]
+(KAR)
+Ya te digo. Heracles al rescate.

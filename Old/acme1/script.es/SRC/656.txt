@@ -1,0 +1,142 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275565772]
+Boccos
+<VOICE>(VA070_001)¡Quita de en medio, Adecor!<PAGE>
+<VOICE>(VA070_002)Yo ventilaré este asunto en nombre
+de los Caballeros Imperiales.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1280179221]
+Adecor
+<VOICE>(VA070_003)¡No será otro sino yo, proclamo, quien defienda 
+el buen nombre los Caballeros Imperiales!<PAGE><VOICE>(VA070_004)¡Que los peones retrocedan!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275565772]
+Boccos
+<VOICE>(VA070_005)¡Pero si aquí el peón eres tú!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1280179221]
+Adecor
+<VOICE>(VA070_006)¡Qué infamia! ¡Soy tu superior!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273439462]
+<STR>(YUR)
+<VOICE>(VA070_007)Respeto vuestra opinión,
+chicos, ¡pero cortad el rollo
+y pongámonos manos a la obra!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:TheWing;time:1271107502]
+Información
+Muévete hacia delante y hacia atrás con<06>(LTR)<06>(LTL).
+Salta con <06>(GUD)＋<06>(LTU).
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273439232]
+Información
+Elige un objetivo con <06>(CBR1).
+Cambia el objetivo con <06>(LTN)
+mientras mantienes <06>(CBR1).
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1273439232]
+Información
+Muévete hacia tu objetivo
+con <06>(LTR)<06>(LTL).
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:TheWing;time:1271107502]
+Información
+Muévete libremente usando <06>(CBL2)＋<06>(LTN).
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:TheWing;time:1271107433]
+<STR>(YUR)
+<VOICE>(VA070_008)¡Eh, vamos! ¿Estáis listos?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275565772]
+Boccos
+<VOICE>(VA070_009)¡Yo soy el jefe!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275565772]
+Adecor
+<VOICE>(VA070_010)¡Basta de falacias, Boccos! ¡Acepta de una vez
+por todas que tú eres mi subordinado, proclamo!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273439232]
+<STR>(YUR)
+<VOICE>(VA070_011)Parece que tendré que aporrear
+un poco a estos tíos.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:TheWing;time:1271107878]
+Información
+Realiza un ataque normal con <06>(ATK).
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1273439232]
+Información
+También puedes realizar ataques con <06>(ATK)
+mientras te mueves con <06>(CBL2)＋<06>(LTN).
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:TheWing;time:1271107878]
+Información
+Tu objetivo pasará a ser el enemigo
+que golpees mientras te mueves
+con <06>(CBL2)＋<06>(LTN).
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:TheWing;time:1271107878]
+Boccos
+<VOICE>(VA070_012)Aaaay...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:TheWing;time:1271110615]
+<STR>(YUR)
+<VOICE>(VA070_013)¿Qué, qué tal esa?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275565772]
+Boccos
+<VOICE>(VA070_014)¡Cómo te atreves! ¡Zurrar a alguien en mitad 
+de una bronca es de rufianes y bellacos!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1280179221]
+<STR>(YUR)
+<VOICE>(VA070_015)¿No me habéis oído cuando he preguntado:
+«¿Estáis listos?» ¿O no estabais al loro?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275565772]
+Adecor
+<VOICE>(VA070_016)¡Voto a tal!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1273439232]
+<STR>(YUR)
+<VOICE>(VA070_017)Oh, vamos.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275565772]
+Boccos
+<VOICE>(VA070_018)Argh... Tú... ¡Estate quieto!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1273439232]
+<STR>(YUR)
+<VOICE>(VA070_019)¿Tengo pinta de estar huyendo?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1273439232]
+<STR>(YUR)
+<VOICE>(VA070_021)Ups, a defenderse tocan.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:TheWing;time:1271110465]
+Información
+Usa <06>(GUD) para protegerte de ataques.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1273439232]
+Boccos
+<VOICE>(VA070_022)¡H-Ha bloqueado mi ataque!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Dagorat;time:1275565772]
+Adecor
+<VOICE>(VA070_023)¡Golpe sónico, proclamo!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1273439232]
+<STR>(YUR)
+<VOICE>(VA070_024)Hala...
+Venga, dadme un respiro.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1297536392]
+Adecor
+<VOICE>(VA070_025)¡Oh! ¡Qué desfachatez!
+¡Cómo OSÁIS bloquear mi arte, proclamo!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1273439232]
+<STR>(YUR)
+<VOICE>(VA070_026)Tranquilízate un poco, hombre.<PAGE>
+<VOICE>(VA070_027)¡Si tú puedes usar artes ofensivas, entonces yo también!

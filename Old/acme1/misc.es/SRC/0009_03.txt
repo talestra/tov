@@ -1,0 +1,299 @@
+## POINTER 300 [user:memnoch;time:1297200426]
+Recuerdo de Alexei
+
+## POINTER 301 [user:memnoch;time:1297200426]
+Recuerdo de Barbos
+
+## POINTER 302 [user:memnoch;time:1297200426]
+Recuerdo de Bersérker
+
+## POINTER 303 [user:memnoch;time:1297200426]
+Recuerdo de Yeager
+
+## POINTER 304 [user:memnoch;time:1297200426]
+Recuerdo de Nan y Tison
+
+## POINTER 305 [user:memnoch;time:1297200426]
+Recuerdo de Estellise
+
+## POINTER 306 [user:memnoch;time:1297200426]
+Recuerdo de Schwann
+
+## POINTER 307 [user:memnoch;time:1297200426]
+Recuerdo de Flynn
+
+## POINTER 308
+Tweedle A & B Memory
+
+## POINTER 309 [user:memnoch;time:1297200426]
+Kratos
+
+## POINTER 310
+First Continent/43（Imperial Soldier)/Weather AB
+
+## POINTER 311
+First Continent/43/45（Filifolia: Bud) /Weather AB
+
+## POINTER 312
+First Continent/38/41/42/43/45（Mushroom）/Weather A
+
+## POINTER 313
+First Continent/38/41/42（Wolf)/Weather A
+
+## POINTER 314
+First Continent/38/41/42（Roctus: Flower Type）/Weather A
+
+## POINTER 315
+First Continent/28/29/30/31/32/33/38/39/40（Giant Bee)/Weather A
+
+## POINTER 316
+First Continent/38/41/42/43/45（Mushroom）/Weather B
+
+## POINTER 317
+First Continent/38/41/42（Wolf)/Weather B
+
+## POINTER 318
+First Continent/38/41/42（Roctus: Flower Type）/Weather B
+
+## POINTER 319
+First Continent/28/29/30/31/32/33/38/39/40（Giant Bee)/Weather B
+
+## POINTER 320
+First Continent/38/41/42/43/45（Audreitz)/Weather B
+
+## POINTER 321
+First Continent/28/29/30/31/32/33/39/40（Chirpee)/Weather A
+
+## POINTER 322
+First Continent/28/29/30/31/32/33/39/40（Treant)/Weather A
+
+## POINTER 323
+First Continent/28/29/30/31/32/33/39/40（Axe Beak)/Weather A
+
+## POINTER 324
+First Continent/28/29/30/31/32/33/39/40（Boar: Base Type）/Weather A
+
+## POINTER 325
+First Continent/27（Polwigle: Base Type）/Weather A
+
+## POINTER 326
+First Continent/27（Chirpee: Base Type)/Weather A
+
+## POINTER 327
+First Continent/27（Squid Ghost)/Weather A
+
+## POINTER 328
+First Continent/28/29/30/31/32/33/39/40（Chirpee)/Weather B
+
+## POINTER 329
+First Continent/28/29/30/31/32/33/39/40（Treant)/Weather B
+
+## POINTER 330
+First Continent/28/29/30/31/32/33/39/40（Axe Beak)/Weather B
+
+## POINTER 331
+First Continent/28/29/30/31/32/33/39/40（Boar: Base Type）/Weather B
+
+## POINTER 332
+First Continent/27（Polwigle: Base Type）/Weather B
+
+## POINTER 333
+First Continent/27（Chirpee: Base Type)/Weather B
+
+## POINTER 334
+First Continent/27（Squid Ghost)/Weather B
+
+## POINTER 335
+First Continent/34/35/36（Balloon Filifolia)/Weather AB
+
+## POINTER 336
+First Continent/34/35/36（Wandering Field/Dagger）/Weather AB
+
+## POINTER 337
+First Continent/34/35/36（Wandering Field/Staff)/Weather AB
+
+## POINTER 338
+First Continent/34/35/36（Boar）/Weather AB
+
+## POINTER 339
+First Continent/34/35/36（Green Roper) 1/Weather AB
+
+## POINTER 340
+First Continent/34/35/36（Rhybgaro)/Weather B
+
+## POINTER 341
+First Continent/25/26（Ice Eagle）/Weather AB
+
+## POINTER 342
+First Continent/25/26（Ice Treant)/Weather AB
+
+## POINTER 343
+First Continent/25/26（Ice Spirit)/Weather AB
+
+## POINTER 344
+First Continent/25/26（Ice Bat)/Weather AB
+
+## POINTER 345
+First Continent/25/26（Axe Beak: Pelican）/Weather AB
+
+## POINTER 346
+First Continent/25/26（Wolf: White)/Weather B
+
+## POINTER 347
+First Continent/25/26（Merfish: Electric Catfish）/Weather B
+
+## POINTER 348
+First Continent/37（Boar: Rhino）/Weather AB
+
+## POINTER 349
+First Continent/37（Balloon Ghost: Filifolia)/Weather AB
+
+## POINTER 350
+First Continent/44（Boar: Wild Boar）/Weather AB
+
+## POINTER 351
+First Continent/44（Polwigle: Squirrel）/Weather AB
+
+## POINTER 352
+First Continent/44（Goblin: Base Type)/Weather AB
+
+## POINTER 353
+First Continent/44（Polwigle: Mushroom）/Weather AB
+
+## POINTER 354
+First Continent/44（Polwigle: Goblin）/Weather B
+
+## POINTER 355
+First Continent/47（Polwigle)/Weather AB
+
+## POINTER 356
+First Continent/47（Goblin）/Weather AB
+
+## POINTER 357
+First Continent/47（Crab Man)/Weather AB
+
+## POINTER 358
+First Continent/47（Balloon Ghost: Base Type）/Weather A
+
+## POINTER 359
+First Continent/47（Balloon Ghost: Rocket)/Weather B
+
+## POINTER 360
+First Continent/46（Gentleman)/Weather A
+
+## POINTER 361
+First Continent/46（Gentleluke)/Weather B
+
+## POINTER 362
+Second Continent/23（Wandering Field/Dagger）/Weather AB
+
+## POINTER 363
+Second Continent/23（Wandering Field/Staff)/Weather AB
+
+## POINTER 364
+Second Continent/23（Basilisk)/Weather AB
+
+## POINTER 365
+Second Continent/23（Crab Man)/Weather AB
+
+## POINTER 366
+Second Continent/20/21（Chirpee: Green Wing)/Weather A
+
+## POINTER 367
+Second Continent/20/21（Tortoise)/Weather A
+
+## POINTER 368
+Second Continent/20/21（Basilisk)/Weather A
+
+## POINTER 369
+Second Continent/20/21（Spiky Polwigle)/Weather A
+
+## POINTER 370
+Second Continent/20/21（Chirpee: Green Wing)/Weather B
+
+## POINTER 371
+Second Continent/20/21（Tortoise)/Weather B
+
+## POINTER 372
+Second Continent/20/21（Basilisk)/Weather B
+
+## POINTER 373
+Second Continent/20/21（Spiky Polwigle)/Weather B
+
+## POINTER 374
+Second Continent/16/17（Mantis）/Weather AB
+
+## POINTER 375
+Second Continent/16/17（Basilisk)/Weather AB
+
+## POINTER 376
+Second Continent/16/17（Tortoise)/Weather AB
+
+## POINTER 377
+Second Continent/16/17（Filifolia Bud)/Weather AB
+
+## POINTER 378
+Second Continent/16/17（Chirpee: Bugle)/Weather B
+
+## POINTER 379
+Second Continent/15/22（Mercenary/Dagger)/Weather AB
+
+## POINTER 380
+Second Continent/15/22（Horse Eagle)/Weather AB
+
+## POINTER 381
+Second Continent/15/22（Mantis）/Weather AB
+
+## POINTER 382
+Second Continent/15/22（Crab Man)/Weather AB
+
+## POINTER 383
+Second Continent/14（Leviathan's Claw/Katar)/Part 1/Weather AB
+
+## POINTER 384
+Second Continent/14（Leviathan's Claw/Bowgun)/Part 1/Weather AB
+
+## POINTER 385
+Second Continent/14（Leviathan's Claw/Katar)/Part 2a/Weather AB
+
+## POINTER 386
+Second Continent/14（Leviathan's Claw/Bowgun)/Part 2a/Weather AB
+
+## POINTER 387
+Second Continent/14（Leviathan's Claw/Katar)/Part 2b/Weather AB
+
+## POINTER 388
+Second Continent/14（Leviathan's Claw/Bowgun)/Part 2b/Weather AB
+
+## POINTER 389
+Second Continent/13（Spiky Polwigle)/Weather AB
+
+## POINTER 390
+Second Continent/13（Mantis）/Weather AB
+
+## POINTER 391
+Second Continent/13（Filifolia: Nepenthes)/Weather AB
+
+## POINTER 392
+Second Continent/12（Crab Man: Sword)/Weather AB
+
+## POINTER 393
+Second Continent/12（Crab Man: Base Type)/Weather AB
+
+## POINTER 394
+Second Continent/15（Basilisk: Evolved)/Weather AB
+
+## POINTER 395
+Second Continent/15（Eagle: Horse)/Weather AB
+
+## POINTER 396
+Second Continent/15（Crab Man: Base Type)/Weather AB
+
+## POINTER 397
+Second Continent/18（Stag Beetle)/Weather AB
+
+## POINTER 398
+Second Continent/18（Stag Beetle: Base Type）/Weather AB
+
+## POINTER 399
+Second Continent/18（Wandering Field: Staff)/Weather B

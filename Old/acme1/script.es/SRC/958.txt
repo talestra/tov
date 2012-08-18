@@ -1,0 +1,103 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1275567142]
+Boccos
+¡Despídete de tu libertad,
+pues la pata vas a estirar!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298582146]
+Adecor
+Preparaos, proclamo, para contemplar la
+técnica definitiva de los Caballeros Imperiales:
+¡el arte explosivo!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858876]
+<STR>(YUR)
+Otra vez adjudicándoos técnicas corrientes
+como si fueran vuestras. ¡Eso no es propio
+de los Caballeros! 
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1275567142]
+Adecor
+¡Callaos, proclamo!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858876]
+<STR>(YUR)
+El arte explosivo, ¿eh?
+Lo he oído antes, pero...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1275567142]
+Boccos
+¿No sabes cómo se hace?
+¡Qué tontaina!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858876]
+Adecor
+¡Gustosos os lo mostraremos, proclamo!<PAGE>¡No sin antes hacer de vos un
+vil e infecto gusano que se
+arrastre por el suelo!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1275567142]
+Adecor
+¡Grrarg!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1275567142]
+<STR>(YUR)
+Tal vez tenga algo que ver
+con el Límite...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858876]
+Boccos
+¡Venga! ¡Enséñale cómo 
+nos las gastamos, Adecor!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298582146]
+Adecor
+Exijo, pues, vuestra atención...<PAGE>¡El arte arcano de los
+Caballeros Imperiales!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1275567142]
+Boccos
+¡Ni le has tocado!
+¿Qué puñetas haces?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1275567349]
+<STR>(YUR)
+Vaya. Las artes explosivas 
+pueden encadenarse desde un 
+arte arcano.<PAGE>Me pregunto si yo podría hacer eso...
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1275567349]
+Adecor
+Ja, no existe ni la más nimia 
+posibilidad de que un lego como
+vos pueda hacer eso, proclamo. 
+
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298858876]
+Información
+Pulsa <06>(LBN) para
+realizar un Límite.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1275567142]
+<STR>(YUR)
+Y ahora... ¡Límite!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Dagorat;time:1275567142]
+Boccos
+¡Ah, ten cuidado!
+¡<STR>(YUR) Lowell va 
+a atacar!
+
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1274016562]
+<STR>(YUR)
+¡Arte arcano!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528832]
+<STR>(YUR)
+La verdad es que no conozco 
+ninguno, pero ¿qué tal esto?
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1274016624]
+Información
+<03>(6)(0)<03>(0) ha aprendido el
+arte arcano <03>(4)Águila demoledora<03>(0).

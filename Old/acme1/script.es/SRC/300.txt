@@ -1,0 +1,103 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1276200414]
+<STR>(JUD)
+<VOICE>(VS27_001)Ahí está Nordopólica.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1276200414]
+<STR>(KAR)
+<VOICE>(VS27_002)Sip. También conocida como la Ciudad Coliseo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1282961360]
+<STR>(EST_P)
+<VOICE>(VS27_003)«Antaño conocida entre la nobleza
+como lugar para obligar a luchar
+a criminales condenados entre ellos...<PAGE><VOICE>(VS27_004)Nordopólica se haya bajo la administración
+del gremio Palestrale, y se ha convertido
+en una ciudad de entretenimiento».
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1282961348]
+<STR>(KAR)
+<VOICE>(VS27_005)Sí, Palestrale es un gremio
+igual de grande que Altosk,
+el del Don, y...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1281471228]
+<STR>(JUD)
+<VOICE>(VS27_006)Oh, qué bonito.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408220]
+<STR>(RAV)
+<VOICE>(VS27_007)Y se montan fiestorros tól día,
+¿eh? ¡Esto va a ser la leche!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1276200414]
+<STR>(YUR)
+<VOICE>(VS27_008)¿Desde cuándo estás tú
+de vacaciones?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1281471228]
+<STR>(RAV)
+<VOICE>(VS27_009)Ah, claro... Er trabajo de
+un lacayo no s'acaba nunca.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1276200414]
+<STR>(KAR)
+<VOICE>(VS27_010)Eres el mensajero del Don, ¡así que ojito
+con ser grosero con Belius!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1281471228]
+<STR>(RAV)
+<VOICE>(VS27_011)Zagal, t'encuentras ante la personificación
+der paradigma de los modales y la etiqueta.
+¡Ja, ja, ja, ja!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1281471228]
+Kaufman
+<VOICE>(VS27_012)Hemos llegado sanos y salvos,
+así que gracias a todos.<PAGE><VOICE>(VS27_013)
+En cuanto haya descargado
+la mercancía, el Fiertia
+será vuestro, tal y como prometí.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1281471228]
+<STR>(KAR)
+<VOICE>(VS27_014)¡Gracias!
+Lo cuidaremos muy bien.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1276200414]
+<STR>(YUR)
+<VOICE>(VS27_015)¿Están lejos todavía
+las Arenas de Kogorh?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1281471228]
+<STR>(JUD)
+<VOICE>(VS27_016)Se encuentran en la zona
+occidental de Nordopólica.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1281471228]
+<STR>(KAR)
+<VOICE>(VS27_017)¿No había unas montañas grandotas
+de camino hacia allí?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1281471228]
+<STR>(YUR)
+<VOICE>(VS27_018)Entonces ir a pie
+supondrá un problema.
+¿Y si probamos a ir en barco?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1281471228]
+<STR>(JUD)
+<VOICE>(VS27_019)No creo que eso sea posible.<PAGE><VOICE>(VS27_020)Muy poca gente va al desierto,
+así que dudo mucho que haya
+ningún sitio donde poder arribar.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1281471228]
+<STR>(RIT)
+<VOICE>(VS27_021)¿En serio sigues empeñada en seguir
+con esto? Ya te he dicho que el desierto
+es muy peligroso.<PAGE><VOICE>(VS27_022)No puedo dejar que vayas
+a un sitio así tú sola...
+¡E-Esto, quiero decir!...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1276200414]
+Tokunaga
+<VOICE>(VS27_023)Echad el ancla.

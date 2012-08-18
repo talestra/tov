@@ -1,0 +1,126 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+
+¡Mira quién está jugando
+a nuestros juegos! ¡Os lo
+pasáis bien, eh, bribones!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295091291]
+<STR>(RAV)
+Ya te digo, cuando empiezo con
+estas cosas, nu hay quien me pare.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+<STR>(KAR)
+¡Ni a mí! ¡Esto
+es súper divertido!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+<STR>(RIT)
+Buf, sois todos unos
+críos de cuidado...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+<STR>(RAV)
+¡Mira quién habla!
+¡La señorita «¡No,
+no, por ahí no es!»!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+<STR>(JUD)
+Ji, ji.
+Oh, <STR>(RIT)...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1295091291]
+
+¡Tiene razón, Maite Taplana!
+Parecía que estabas muy
+metida en la partida.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+<STR>(RIT)
+Es que...
+¡Solo quería ver lo mal
+que lo hacían, nada más!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1295091291]
+
+Ya, ya.
+Claro.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+
+¿Sabes qué,
+Papá Coleta?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+<STR>(RAV)
+¿Eh?
+¿Te refieres a mí?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+
+¡Tienes mucho talento,
+Papá Coleta! ¡Se te ve
+muy hábil con estas cosas!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+<STR>(RAV)
+Bueno, supongo
+que se me da bien.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1295091291]
+
+Te gustan los juegos, ¿verdad?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+<STR>(RAV)
+Sí, me gustan bastante.
+Pero prefiero más darle a bomboncitos
+que a botoncitos, la verdá.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1295091291]
+
+¡Y yo, Papá!
+¡Y yo también!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+<STR>(RAV)
+¡Mu bien! ¡Veo que tienes
+un buen orden de prioridades!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1295091669]
+<STR>(RIT)
+Oh, genial, se están
+haciendo amigos...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+
+¡Me caes
+bien, Papá!<PAGE>¡Te dejaré jugar gratis
+a partir de ahora!
+¡No necesitarás fichas!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+<STR>(RAV)
+¡Vaya, qué generosidá! Ya te digo yo
+que estamos en la misma onda. ¡Si me
+parece que te conozco de toa la vida!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+
+¡Y a mí! Como ya somos
+amiguetes, te voy
+a poner un mote.<PAGE>¿Qué te parece «Jugador
+de la coleta»? Suena
+bien, ¿verdad?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296934934]
+<STR>(RAV)
+Anda, mira qué bien. Es un
+nombre así como alocado.
+¡Creo que es perfecto!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:kaene;time:1295091669]
+<STR>(RIT)
+A estos no hay Dios
+que los ayude...

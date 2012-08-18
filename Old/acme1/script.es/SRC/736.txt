@@ -1,0 +1,136 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1292937434]
+<STR>(YUR)
+¿También destruiste
+este, <STR>(JUD_P)?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512734]
+<STR>(JUD)
+Sí, fui yo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292937434]
+<STR>(RIT)
+Oye, <STR>(JUD)... La razón por la cual estabas
+destruyendo blastias hermes era porque son
+un peligro para el planeta, ¿me equivoco?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1292937434]
+<STR>(JUD)
+Eso es.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1292937434]
+<STR>(RIT)
+¿Así que se podría decir que lo hacías
+para salvar al mundo del peligro?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1292937434]
+<STR>(JUD)
+No me importa que
+lo pienses así.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1292937434]
+<STR>(RIT)
+Pero no acabo de entenderlo.<PAGE>¿Por qué no te cargaste al tal Hermes,
+el que hacía los blastias y punto?<PAGE>Eso o decírselo
+a un mago o algo...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512734]
+<STR>(JUD)
+Estaba jugándome el pellejo para detener
+a los blastias nocivos que estaban causando
+efectos extraños en el aer del mundo.<PAGE>Nadie hubiera creído
+una historia así.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512734]
+<STR>(RIT)
+¡Si me lo hubieses explicado!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512734]
+<STR>(JUD)
+¿Crees que hubieras podido hacer algo
+con todos los blastias hermes del mundo,
+aunque no tengas ni idea de cuántos hay?<PAGE>Con mucho esfuerzo
+estoy segura de que hubieses
+podido detener uno o dos.<PAGE>Pero hubieras muerto antes
+de haberte encargado de todos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1292938181]
+<STR>(RIT)
+...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1292956553]
+<STR>(YUR)
+Ya que estás con Ba'ul, había algo que podías hacer
+al respecto con los blastias fuera de control.<PAGE>¿Eso es lo que quieres decir, <STR>(JUD_P)?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512734]
+<STR>(JUD)
+No sé hacerle ajustes a los blastias, así
+que destruirlos era la única manera que tenía
+de asegurarme de que ya no serían un problema.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1292938181]
+<STR>(RIT)
+Pero...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1292938181]
+<STR>(JUD)
+¿Crees que la próxima vez que tengamos un
+rato libre nos podríamos pasar por Aspio?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512734]
+<STR>(RIT)
+¿A qué viene eso ahora?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512734]
+<STR>(JUD)
+Es sobre los blastias hermes.
+Me gustaría investigar una cosa.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1292938181]
+<STR>(RIT)
+Pero es que...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512734]
+<STR>(YUR)
+Vale. Tienes ganas de
+volver a casa, ¿no, <STR>(RIT)?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512734]
+<STR>(RIT)
+No especialmente...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1292938181]
+<STR>(YUR)
+Muy bien, hagamos una parada
+en Aspio cuando tengamos un rato.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1292956553]
+<STR>(JUD)
+La ciudad de Aspio prácticamente
+ya no existe, ¿verdad?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1292956553]
+<STR>(RIT)
+¿A qué viene eso?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1292956553]
+<STR>(JUD)
+Había unas cuantas cosas
+que quería investigar
+sobre los blastias hermes.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1292956553]
+<STR>(RIT)
+La mayoría de los libros y otras
+fuentes de información las deben haber
+sacado de la ciudad los magos refugiados.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512741]
+<STR>(YUR)
+Así que si encontramos a los magos
+que huyeron de Aspio, <STR>(JUD_P)
+podrá investigar lo que quiere.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1294512734]
+<STR>(RIT)
+Efectivamente.

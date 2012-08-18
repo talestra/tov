@@ -1,0 +1,112 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+Ioder
+<VOICE>(VS48_065)¿Vas a ir tú solo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287279973]
+<STR>(YUR)
+<VOICE>(VS48_066)No creo que Su Alteza deba
+preocuparse por algo así.<PAGE><VOICE>(VS48_067)Quiero saber cómo van las
+cosas en los barrios bajos,
+así que voy a echar una ojeada.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287279973]
+Ioder
+<VOICE>(VS48_068)El Consejo ha decidido presentar
+una acusación formal a Alexei
+de conspiración y alta traición.<PAGE><VOICE>(VS48_069)Los Caballeros están elaborando una estrategia
+para entrar en la capital desde el fuerte Deidon.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+<STR>(YUR)
+<VOICE>(VS48_070)¿Con el aer que hay en la ciudad? 
+No creo que lleguen muy lejos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287279973]
+Ioder
+<VOICE>(VS48_071)<STR>(EST) está
+con Alexei, ¿verdad?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287279973]
+<STR>(YUR)
+<VOICE>(VS48_072)¿Cómo lo sab...? Nos has oído,
+¿eh? Ya me extrañaba a mí que
+no preguntaras por ella antes.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+Ioder
+<VOICE>(VS48_073)¿Qué pretendes hacer respecto a ella?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+<STR>(YUR)
+<VOICE>(VS48_074)¿A qué te refieres?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1287279973]
+Ioder
+<VOICE>(VS48_075)Todos aquellos que llevan sangre
+imperial poseen cierto poder.<PAGE><VOICE>(VS48_076)En la mayoría de nosotros es demasiado
+débil para poder usarlo, pero tengo
+entendido que el suyo es extraordinario.<PAGE><VOICE>(VS48_077)Seguro que esa es la razón por la cual
+el Consejo la apoyaba como heredera.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+<STR>(YUR)
+<VOICE>(VS48_078)¿A qué viene eso ahora?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+Ioder
+<VOICE>(VS48_079)¿Este desastre no lo está
+provocando su poder?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+<STR>(YUR)
+<VOICE>(VS48_080)¿Y qué si es así?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1287279973]
+Ioder
+<VOICE>(VS48_081)
+Es posible que los Caballeros tengan que...
+Ya sabes que probablemente
+no baste con derrotar a Alexei.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+<STR>(YUR)
+<VOICE>(VS48_082)Eso no va a pasar.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1287279973]
+Ioder
+<VOICE>(VS48_083)¿Porque lo harás tú mismo?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+Ioder
+<VOICE>(VS48_084)<STR>(FRE) me ha hablado de ti.
+Dice que siempre tiendes a llevar
+mucha carga sobre tus hombros.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1287279973]
+<STR>(YUR)
+<VOICE>(VS48_085)Puedes decirle que
+nos irá bien sin ayuda.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+Ioder
+<VOICE>(VS48_086)¿Por qué?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1287279973]
+<STR>(YUR)
+<VOICE>(VS48_087)Creía habértelo dicho:
+no es asunto tuyo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+Ioder
+<VOICE>(VS48_088)Esa espada... Puede que
+tú seas la persona que
+ha estado esperando.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+<STR>(YUR)
+<VOICE>(VS48_089)Sigue hablando y acabaré
+usándola contigo.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1284363526]
+Ioder
+<VOICE>(VS48_090)Perdóname...

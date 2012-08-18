@@ -1,0 +1,141 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298218009]
+Leblanc
+¡Volved con nosotros
+mientras podáis!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+Adecor
+¡Hemos venido expresamente para
+escoltaros hasta la capital, proclamo!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+Boccos
+¡Y después le pondremos a <STR>(YUR) 
+los grilletes que se merece!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+Leblanc
+¡Te estaba esperando, <STR>(YUR) Looowell!
+¡No te muevas ni un pelo!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(YUR)
+Anda que... Este tío no se rinde nunca.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+Leblanc
+¡Puede que nos conozcamos desde hace tiempo,
+pero ya no puedo seguir ignorando tus infracciones!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(EST_P)
+<STR>(YUR) no es una mala persona.
+¡Fui yo quien le pidió ir con él!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+Leblanc
+¡<STR>(YUR), maldito rufián!
+¡Has coaccionado 
+a la señorita <STR>(EST)!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(EST_P)
+¡No! ¡Esa fue mi decisión!<PAGE>Pienso volver al castillo.
+¡Pero dejadme estar un poco más!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+Leblanc
+¡No puedo permitir eso!
+¡Volved con nosotros!
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272638499]
+<STR>(EST_P)
+No puedo hacer eso. 
+¡Por favor, tenéis que entenderlo!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272638499]
+Leblanc
+No tenemos elección.
+Tendremos que apresar
+también al criminal...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+Leblanc
+¡Grrr!
+¡Menuda vergüenza!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272638499]
+<STR>(KAR)
+Eh, <STR>(RIT)...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(RIT)
+¡Ya ha dicho que no va a volver,
+así que daos el piro de una vez!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272638499]
+<STR>(EST_P)
+¡<STR>(YUR)!
+¡Son ellos otra vez!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(YUR)
+Maldita sea, sabía que aún
+andaban detrás de nosotros.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(RIT)
+¿Qué pasa ahora?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(KAR)
+¿Q-Qué queréis decir?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(YUR)
+¡Ya os lo explicaré luego! 
+¿Por dónde queda Puerto Nor, <STR>(KAR)?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(KAR)
+¡Eh, ah, al oeste! ¡Al oeste!
+Hay que atravesar la colina de Ehmead
+y justo después está Capua Nor.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(RIT)
+De acuerdo, larguémonos.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272638499]
+<STR>(EST_P)
+Pero, no puedo...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298218197]
+<STR>(RIT)
+¡Argh! ¡Decídete ya!<PAGE>¿Qué es lo que quieres hacer,
+seguir viajando con nosotros o volver a casa?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(EST_P)
+Quiero seguir con vosotros...
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272638499]
+<STR>(RIT)
+¡Buena elección! Y también una
+con la que no creo que estén
+muy de acuerdo esos Caballeros.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+<STR>(YUR)
+Primer juramento del Caballero Imperial:
+«Mi espada tiene un deber:
+al pueblo proteger», ¿verdad?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1278717906]
+Leblanc
+¡En efecto! ¡Vamos, muchachos! ¡Mostrémosles
+de qué pasta están hechos los Caballeros Imperiales!
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272638499]
+<STR>(EST_P)
+Lo siento...

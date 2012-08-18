@@ -1,0 +1,14 @@
+## POINTER 0
+<STR>(YUR)
+...Mmm? Something 
+smells tasty.
+
+## POINTER 1
+
+Oh, you're right. 
+What could it be?
+
+## POINTER 2
+<STR>(YUR)
+Oh yeah, isn't the knights' 
+dining hall around here?

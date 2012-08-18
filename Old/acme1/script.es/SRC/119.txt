@@ -1,0 +1,75 @@
+## POINTER 0 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1273615195]
+Leblanc
+¡<STR>(YUR) Looowell! ¡Sé que
+te escondes en estos bosques!
+¡Entrégate como un buen chico!
+
+## POINTER 1 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1273615195]
+<STR>(YUR)
+Tiene que ser una broma.
+¿Leblanc me está persiguiendo
+incluso fuera de la barrera?
+
+## POINTER 2 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1273615195]
+<STR>(KAR)
+Eh, ¿qué?
+¿Quién os ha seguido?
+
+## POINTER 3 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1271410736]
+<STR>(YUR)
+Oh, solo unos tipos de los Caballeros Imperiales...
+
+## POINTER 4 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1273615195]
+<STR>(KAR)
+Ja, ja, claro, claro; los Caballeros
+están persiguiendo a un antiguo miembro.
+
+## POINTER 5 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1272058418]
+<STR>(KAR)
+¡¿Qué, de verdad?!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298212135]
+Adecor
+O-Os exijo que salgáis, proclamo. 
+
+## POINTER 7 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1273615195]
+Boccos
+¡Dé-déjate ver y no te-te daremos una paliza!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324748]
+Leblanc
+Os ponéis a temblar como unos flanes
+por unos simples rumores. Y os hacéis
+llamar Caballeros de la brigada de Schwann.
+
+## POINTER 9 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1273615195]
+<STR>(KAR)
+¿Y por qué te buscan?
+¿Vandalismo? ¿Fraude? ¿Contrabandismo?
+¿Robo? ¿Asesinato? ¿Piromanía?
+
+## POINTER 10 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1273615195]
+<STR>(YUR)
+Mmm, por una simple fuga de la cárcel.
+
+## POINTER 11 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1273615195]
+<STR>(YUR)
+¡Pero vamos, larguémonos!
+
+## POINTER 12 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1272058497]
+<STR>(YUR)
+Perfecto.
+
+## POINTER 13 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1272058497]
+<STR>(EST_P)
+¡No podemos hacer eso! ¡Se interpondrá
+en el camino de la gente que quiera pasar!
+
+## POINTER 14 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1272058497]
+<STR>(YUR)
+¿Y quién va a querer pasar?
+Estos bosques están «malditos», ¿recuerdas?
+
+## POINTER 15 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1272375640]
+<STR>(KAR)
+¡Aaaah, esperad!

@@ -1,0 +1,14 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837721]
+<STR>(YUR)
+<VOICE>(VS16_072)Maldita sea, sabe perfectamente
+cómo picarme...<PAGE><VOICE>(VS16_073)Yo soy el primero que se da cuenta
+de que no ha cambiado nada.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837721]
+<STR>(YUR)
+<VOICE>(VS16_074)...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240326]
+<STR>(YUR)
+<VOICE>(VS16_075)Será mejor que vaya a buscar alguna
+pista sobre el núcleo de blastia.

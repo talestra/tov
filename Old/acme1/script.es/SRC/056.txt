@@ -1,0 +1,66 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166044]
+<STR>(RIT)
+<VOICE>(VS11_026)No era tan difícil.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166044]
+<STR>(EST_P)
+<VOICE>(VS11_029)Esa es una cresta strihm.
+Es una marca que indica movimiento.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166044]
+<STR>(YUR)
+<VOICE>(VS11_030)Je. Interesante.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166044]
+<STR>(KAR)
+<VOICE>(VS11_031)Hala, ¿q-qué es eso?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166044]
+<STR>(RIT)
+<VOICE>(VS11_032)Un centinela que debe ocuparse
+de los invitados no deseados.
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270978333]
+<STR>(YUR)
+<VOICE>(VS11_033)Muy bien, mantengamos los ojos abiertos
+y sigamos adelante.
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270978333]
+<STR>(RIT)
+<VOICE>(VS11_034)¿Estás seguro? ¿Y qué pasaría si solo
+os estuviera dirigiendo al interior
+de las ruinas para «liquidaros»?
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270978333]
+<STR>(YUR)
+<VOICE>(VS11_035)Estoy pensando que prefiero 
+probar suerte con el gólem. 
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166044]
+<STR>(RIT)
+<VOICE>(VS11_036)Ale, te lo quedas.
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270978333]
+<STR>(YUR)
+<VOICE>(VS11_037)¿No es importante esta cosa?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166044]
+<STR>(RIT)
+<VOICE>(VS11_038)Tendremos que usarlo
+unas cuantas veces más.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166044]
+<STR>(YUR)
+<VOICE>(VS11_039)Muy bien, entonces lo llevaré yo,
+que voy delante.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166044]
+<STR>(YUR)
+<VOICE>(VS11_040)
+Vale, entonces quien sea que vaya a
+encabezar la marcha tendría que llevarlo.
+Bueno, bueno, ¿quién será el afortunado?
+
+## POINTER 13 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270978333]
+<STR>(YUR)
+<VOICE>(VS11_041)Eh, atrapa.

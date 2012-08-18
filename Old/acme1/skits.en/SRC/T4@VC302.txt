@@ -1,0 +1,48 @@
+## POINTER 0
+Call It What It Is!
+
+## POINTER 1
+(KAR)
+(EST_P), your potato soup sure is good!
+
+## POINTER 2
+(YUR)
+I'm not used to soup being cold, 
+but this is really delicious.
+
+## POINTER 3
+(EST_P)
+It's not potato soup. It's 
+called vichyssoise.
+
+## POINTER 4
+(YUR)
+(EST_P), what would you call 
+a soup made from onions?
+
+## POINTER 5
+(EST_P)
+That would be onion soup, but...
+
+## POINTER 6
+(KAR)
+Then this is potato soup!
+
+## POINTER 7
+(EST_P)
+No, it's vichyssoise! It's 
+the name of the dish!
+
+## POINTER 8
+(YUR)
+Hey, (RIT). What would 
+you call this soup?
+
+## POINTER 9
+(RIT)
+...Potato soup.
+
+## POINTER 10
+(EST_P)
+Why won't any of you call 
+it vichyssoise...?

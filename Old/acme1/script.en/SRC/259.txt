@@ -1,0 +1,77 @@
+## POINTER 0
+<STR>(JUD)
+Do you have an
+outfit that can attract
+any kind of male?
+
+## POINTER 1
+
+Attract any...
+Are you gonna wear it?<PAGE>How about this?
+
+## POINTER 2
+<STR>(EST_P)
+Oo, it's lovely!
+
+## POINTER 3
+<STR>(YUR)
+That's no good.
+
+## POINTER 4
+<STR>(JUD)
+Nope, no good.
+
+## POINTER 5
+<STR>(KAR)
+No good?
+
+## POINTER 6
+<STR>(EST_P)
+Why? It's 
+so cute...
+
+## POINTER 7
+<STR>(JUD)
+If cute was what we were 
+going for, you could've just 
+stuck with what you have on.
+
+## POINTER 8
+<STR>(YUR)
+Right. In other words, 
+it's not sexy enough.
+
+## POINTER 9
+<STR>(EST_P)
+Again with the sexiness...<PAGE>Clothes that would look 
+sexy on this young lady...
+
+## POINTER 10
+
+Mmm... Let's see...<PAGE>If you brought me a soft tail, basilisk 
+scale and a small bird feather, 
+I could make you something nice.<PAGE>You should be able to get all 
+of the items from monsters 
+on the outskirts of the city.
+
+## POINTER 11
+<STR>(EST_P)
+I guess we have no 
+choice. Let's go.
+
+## POINTER 12
+<STR>(YUR)
+Urgh, looks like this is going to 
+be more trouble than we thought...
+
+## POINTER 13
+<STR>(EST_P)
+Come on, hurry up!
+
+## POINTER 14
+<STR>(JUD)
+Stubborn, isn't she?
+
+## POINTER 15
+<STR>(YUR)
+...You can say that again.

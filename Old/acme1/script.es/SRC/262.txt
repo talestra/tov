@@ -1,0 +1,48 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323494]
+
+¡Ajá! Han traído los objetos.<PAGE>¡En un abrir y cerrar de ojos tendrán
+un vestido para caerse de espaldas!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275521585]
+<STR>(EST_P)
+¿Qué tal?
+¿Me queda bien?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568012]
+<STR>(YUR)
+Pues sí... Ya lo creo...
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568012]
+<STR>(KAR)
+Y a todo esto... ¿Por qué <STR>(JUD) 
+se ha puesto ese otro traje?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323494]
+<STR>(JUD)
+Bueno, le dije que me hiciera uno
+a mí también mientras esperábamos.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275521585]
+<STR>(YUR)
+Aunque yo diría que el tuyo es... 
+un poco demasiado.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275521585]
+<STR>(JUD)
+¿En serio?
+A mí me parece
+adorable...
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275568012]
+<STR>(YUR)
+Bueno, hora de poner en marcha el plan
+de que <STR>(EST_P) distraiga al guardia.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275521585]
+<STR>(EST_P)
+De acuerdo.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275521585]
+<STR>(YUR)
+<STR>(JUD), antes de nada, ¿te importaría
+volver a ponerte el traje de antes?

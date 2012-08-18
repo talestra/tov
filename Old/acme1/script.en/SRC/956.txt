@@ -1,0 +1,33 @@
+## POINTER 0
+<STR>(KAR)
+What's this do?
+
+## POINTER 1
+<STR>(RIT)
+Get your grubby mitts off it! I don't 
+want to have to tell you again!
+
+## POINTER 2
+<STR>(YUR)
+It seems like it might be an activation 
+switch for the warp blastia upstairs.
+
+## POINTER 3
+<STR>(EST_P)
+Nothing's happening.
+
+## POINTER 4
+<STR>(RIT)
+It doesn't have enough aer.
+
+## POINTER 5
+<STR>(YUR)
+Not enough...aer...<PAGE>...I wonder if that ring I 
+got in the Shaikos Ruins might 
+be able to do anything.
+
+## POINTER 6
+<STR>(RIT)
+Ah, the Sorcerer's Ring. 
+I'm not sure...<PAGE>But you might as well 
+give it a try.

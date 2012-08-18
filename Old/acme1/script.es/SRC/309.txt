@@ -1,0 +1,141 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+
+<VOICE>(VS27_569)¡Damas y caballeros!
+¡Bienvenidos a una nueva y brutal
+batalla del coliseo de Nordopólica!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+
+<VOICE>(VS27_570)En primer lugar, repasaremos
+las reglas del torneo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393953]
+
+<VOICE>(VS27_571)¡Se trata de un torneo eliminatorio!
+¡No habrá segundas oportunidades!<PAGE>
+<VOICE>(VS27_572)¡Si un luchador consigue ganar
+tres emocionantes rondas,
+se enfrentará al campeón en persona!<PAGE>
+<VOICE>(VS27_573)Luchadores, si conseguís derrotar
+al campeón en la arena, no solo
+recibiréis un fantástico premio...<PAGE>
+<VOICE>(VS27_574)¡sino que también obtendréis
+el puesto de campeón!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282295778]
+
+<VOICE>(VS27_575)¡Y a continuación, el primer combate!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+<STR>(EST_P)
+<VOICE>(VS27_576)¡<STR>(YUR)! ¡Buena suerteeee!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+<STR>(KAR)
+<VOICE>(VS27_577)¡Lo harás genial, <STR>(YUR)!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+<STR>(RAV)
+<VOICE>(VS27_578)¡Procura no romperte
+la rabadilla!
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+<STR>(JUD)
+<VOICE>(VS27_579)*Suspiro* 
+Con las ganas que tenía de pelear...
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+<STR>(RIT)
+<VOICE>(VS27_580)¿Todavía estás con eso?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+<STR>(YUR)
+<VOICE>(VS27_581)Mira la de gente que hay.
+Con esto nuestro gremio
+debería hacerse mazo famoso.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393953]
+
+<VOICE>(VS27_582)¡En la primera ronda de hoy,
+tenemos una cara nueva!<PAGE>
+<VOICE>(VS27_583)¡Representando al recientemente fundado
+gremio Gran Vesperis, un fuerte aplauso
+para Yuuuuuri Loooooweeeeeell!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298325456]
+
+<VOICE>(VS27_584)Su oponente, un ex Caballero convertido
+en activista político... con un impresionante
+récord de estancia en la cárcel: ¡Gigantus Erungar!
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+Erungar
+<VOICE>(VS27_585)¡¡Erungar!!
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+
+<VOICE>(VS27_586)En un lado, un luchador curtido.
+En el otro, un joven pipiolo.
+El resultado parece claro, ¡pero quién sabe!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393953]
+
+<VOICE>(VS27_587)¡Bienvenidos al lugar donde
+se unen el cielo y el infierno!
+¡Comienza nuestro primer combate!
+<PAGE><VOICE>(VS27_588)¡A luchar!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393953]
+
+<VOICE>(VS27_589)Para la segunda ronda,
+demos la bienvenida al feroz
+ladrón de la bandana: ¡Jugem Jerome!
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1280171926]
+Jugem
+<VOICE>(VS27_590)Je, je, je. Dónde están
+las estrellas de mar...
+Dame las estrellas de mar...
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+
+<VOICE>(VS27_591)¡¡Contra <STR>(YUR) Loooowell,
+de Gran Vesperiaaaaa!!
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+
+<VOICE>(VS27_592)¡No bajes la guardia,
+joven guerrero, que esto
+no ha hecho más que empezar!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298393953]
+
+<VOICE>(VS27_593)¡Manda a tu oponente
+a las puertas del inframundo!
+Segunda ronda...<PAGE><VOICE>(VS27_594)¡A luchar!
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282295778]
+
+<VOICE>(VS27_595)¡Tercera ronda! Un guerrero
+enmascarado totalmente
+imbatible con la espada: ¡Johann de Marc!
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+
+<VOICE>(VS27_596)¡Pronto experimentarás
+el dolor a manos de
+mi exquisita espada!
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1278247194]
+
+<VOICE>(VS27_597)¡¡Contra <STR>(YUR) Loooowell,
+de Gran Vesperiaaaaa!!
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1282295778]
+
+<VOICE>(VS27_598)¿Ha sido pura suerte? ¿O pura destreza?
+¡Todo quedará decidido en el siguiente combate!<PAGE>
+<VOICE>(VS27_599)¿Cuál de estos guerreros
+conseguirá apagar la llama del alma
+ardiente de su adversario?<PAGE>
+<VOICE>(VS27_600)¡A luchar!

@@ -1,0 +1,85 @@
+## POINTER 0
+
+You've done well to come this far. 
+You have reached your goal.
+
+## POINTER 1
+<STR>(KAR)
+...Then...can we get out of 
+the labyrinth from here?
+
+## POINTER 2
+<STR>(YUR)
+Or maybe it leads to the land of the dead?
+
+## POINTER 3
+
+That is your own choice.
+
+## POINTER 4
+<STR>(EST_P)
+Our choice...?
+
+## POINTER 5
+<STR>(KAR)
+Aaack!
+
+## POINTER 6
+<STR>(EST_P)
+Is this... Is this the one the 
+book was referring to...?
+
+## POINTER 7
+
+Will you win or will you lose? Victory 
+will open the door to salvation, but 
+failure will lead to your demise!<PAGE>Death will be more than happy 
+to take you into her cold 
+embrace. Hee hee hee...
+
+## POINTER 8
+<STR>(YUR)
+We eat guys like that 
+for breakfast! Come 
+on, it's go time!
+
+## POINTER 9
+
+Urggh... Y-you destroyed 
+the fighter's hologram...
+I-inconceivable...
+
+## POINTER 10
+<STR>(RIT)
+L-look at that! Your 
+trickery doesn't work 
+on us anymore!<PAGE>Now show yourself!!
+
+## POINTER 11
+<STR>(RIT)
+...I said, show yourself...
+
+## POINTER 12
+<STR>(EST_P)
+? ...What's this...?
+
+## POINTER 13
+<STR>(YUR)
+..."Don't think this is the 
+end?" What's this all about?
+
+## POINTER 14
+<STR>(RAV)
+I'm not sure, but it sounds ta me like he's 
+gotta bad case of sour grapes. I guess 
+this means we're not through with him?
+
+## POINTER 15
+<STR>(KAR)
+But isn't that an exit 
+right up ahead...?
+
+## POINTER 16
+<STR>(YUR)
+I'm not sure... Let's 
+go and see...

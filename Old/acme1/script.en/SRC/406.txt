@@ -1,0 +1,54 @@
+## POINTER 0
+<STR>(RAV)
+So does an ol' man past his prime 
+fit into the picture at all?
+
+## POINTER 1
+<STR>(YUR)
+What're you whining 
+about, old man? Why are 
+you past your prime?
+
+## POINTER 2
+<STR>(RAV)
+Mmmm. What <STR>(JUD) was talkin' 
+about before--Hermes blastia, 
+was it?<PAGE>Blastia created with techniques 
+that should've been lost in the 
+war are still active...<PAGE>Do you know what 
+this means?
+
+## POINTER 3
+<STR>(YUR)
+...I guess someone who survived 
+the war brought either blastia or 
+those techniques back with him.
+
+## POINTER 4
+<STR>(RAV)
+If that person was still usin' 
+the blastia even though he knew 
+it was harmful ta the earth...<PAGE>Someone like that...would have 
+to be quite the villain indeed.
+
+## POINTER 5
+<STR>(YUR)
+Old man, don't tell me you...
+
+## POINTER 6
+<STR>(RAV)
+Hey now. Yours truly was nothing 
+but an innocent youth on the 
+straight and narrow back then.<PAGE>I wouldn't do something like 
+that even on my worst day.
+
+## POINTER 7
+<STR>(YUR)
+Heh, I was just trying to trick 
+you into giving yourself away. 
+You're a slippery one!
+
+## POINTER 8
+<STR>(RAV)
+Son of a...when're ya gonna learn 
+some respect for yer elders!

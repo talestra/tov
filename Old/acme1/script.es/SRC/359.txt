@@ -1,0 +1,102 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410686]
+<STR>(KAR)
+Mmm... Creo que
+ya no nos siguen.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283431162]
+<STR>(RAV)
+Pos sí. Pero ha sellao un sitio
+tan peligroso como este solo
+pa aislar Nordopólica.
+<PAGE>Estos tíos van mu en serio.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(RIT)
+Sí, pero mira que llegar al punto
+de traer monstruos como apoyo.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(JUD)
+Sea lo que sea lo que anden
+tramando, no puede ser nada bueno.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(EST_P)
+No puedo creer que
+<STR>(FRE) haya ordenado
+hacer algo así...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324688]
+<STR>(RAV)
+A veces las órdenes de los de arriba
+no tienen sentío pa los de abajo.
+Se pierde en la cadena de mando.
+<PAGE>Cuando una brigada s'hace grande
+y famosa, las cosas se pueden
+salir de madre.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(YUR)
+Pareces saber mucho del tema.
+Supongo que es de esperar
+de alguien de Altosk.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(RAV)
+Las cosas se pueden poner asín
+en cualquier organización.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(YUR)
+Lo que me preocupa...
+es hasta qué punto es <STR>(FRE)
+responsable de todo esto.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(RAV)
+Toy seguro de que entenderemos
+tó mejor en cuanto lleguemos
+a Nordopólica.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(EST_P)
+Tienes razón.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283431162]
+<STR>(JUD)
+Pero no bajemos
+la guardia.<PAGE>No creo que hayan llegado
+a conquistar Nordopólica
+por la fuerza, pero...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298410686]
+<STR>(KAR)
+Sí, Palestrale tendría serios
+problemas si lo intentaran.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(YUR)
+Perdona, <STR>(RIT).
+No tendrás mucho tiempo
+para investigar el aer krene.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(RIT)
+Grr... Oh, bueno... No
+me queda otra. Será mucho
+peor si nos acaban pillando.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(YUR)
+Exacto. Venga,
+sigamos adelante.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(KAR)
+<STR>(YUR) le echa mucho entusiasmo.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1280743672]
+<STR>(RAV)
+No creo que lo admita, pero pa
+mí que tan solo está preocupao
+por su amigo.

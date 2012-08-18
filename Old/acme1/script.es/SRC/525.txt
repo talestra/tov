@@ -1,0 +1,170 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298577255]
+<STR>(RAV)
+<VOICE>(VS59_122)Fiu... Por fin, ya vamos por la mitá...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298577255]
+<STR>(JUD)
+<VOICE>(VS59_123)Si el aire fuera más estable,
+podríamos pedirle a Ba'ul que nos recogiera.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153304]
+
+<VOICE>(VS59_124)Mi consciencia... Así que esto es lo
+que significa convertirse en un espíritu.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+
+<VOICE>(VS59_125)Oh, y pensar que tantas cosas
+me eran ajenas...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(YUR)
+<VOICE>(VS59_126)Parece que está
+despierta. Mmm...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(JUD)
+<VOICE>(VS59_127)¿Quieres que te sigamos
+llamando Khroma?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+
+<VOICE>(VS59_128)No... Ya no soy la
+entelechia conocida
+como Khroma.<PAGE><VOICE>(VS59_129)Deberíais darme un nuevo nombre.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153304]
+<STR>(EST_P)
+<VOICE>(VS59_130)Bueno... ¿Qué
+te parece Sylph?<PAGE><VOICE>(VS59_131)Significa «el que controla los vientos».
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+
+<VOICE>(VS59_132)Sylph... Bien, ese
+será mi nombre.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(KAR)
+<VOICE>(VS59_133)Vale, Sylph. Encantado
+de conocerte... otra vez.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153304]
+Sylph
+<VOICE>(VS59_134)El placer es mío.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(YUR)
+<VOICE>(VS59_135)Sylph... ¿te importaría
+decirnos por qué odia
+Duke a los humanos?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153304]
+Sylph
+<VOICE>(VS59_136)De acuerdo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+Sylph
+<VOICE>(VS59_137)Conocéis la Gran Guerra, ¿verdad?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+Sylph
+<VOICE>(VS59_138)Hubieron entelechia que eligieron
+vivir con humanos y entelechia
+que eligieron oponerse a ellos.<PAGE><VOICE>(VS59_139)La Gran Guerra fue entre los humanos
+que quebrantaron una antigua prohibición
+y los entelechia que les hicieron frente.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(RAV)
+<VOICE>(VS59_140)Y la guerra acabó cuando
+Duke, el héroe, consiguió
+la victoria para los humanos.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(KAR)
+<VOICE>(VS59_141)¡¿Duke es un héroe?!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153304]
+<STR>(EST_P)
+<VOICE>(VS59_142)¿En serio?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(RAV)
+<VOICE>(VS59_143)Es un hecho que el Imperio
+ha estao escondiendo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+Sylph
+<VOICE>(VS59_144)Los humanos no hubieran podido
+ganar la guerra ellos solos.<PAGE><VOICE>(VS59_145)Elucifur, el líder de los entelechia que
+apoyaban a los humanos, luchó a su lado
+y les proporcionó la victoria.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(RAV)
+<VOICE>(VS59_146)¿Va en serio? Ni siquiera
+yo sabía ná d'eso...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527242]
+<STR>(RAV)
+<VOICE>(VS59_147)Pero ¿qué tiene tó eso
+que ver con que Duke no
+confíe en los humanos?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+Sylph
+<VOICE>(VS59_148)Elucifur era amigo de Duke.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+Sylph
+<VOICE>(VS59_149)Duke luchó junto a Elucifur contra
+el líder de los enemigos de los humanos
+y consiguieron derrotarlo.<PAGE><VOICE>(VS59_150)No obstante, una vez acabada la guerra,
+el Imperio empezó a temer el poder de Elucifur.
+<PAGE><VOICE>(VS59_151)Atacaron a Elucifur mientras estaba
+todavía herido y acabaron con su vida.<PAGE><VOICE>(VS59_152)Le prometió a Duke que se limitaría
+a observar. Pero eso no importó.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(EST_P)
+<VOICE>(VS59_153)No...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153304]
+<STR>(RAV)
+<VOICE>(VS59_154)Ya lo pillo. Cualquiera habría dejao
+de confiar en los humanos después d'eso.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(JUD)
+<VOICE>(VS59_155)No sabía nada de lo que
+ocurrió durante la guerra.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(YUR)
+<VOICE>(VS59_156)Pero el que lo traicionaran
+no justifica lo que piensa hacer.<PAGE><VOICE>(VS59_157)No tiene derecho a sacrificar
+a toda la humanidad.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153304]
+Sylph
+<VOICE>(VS59_158)Si no acabáis con el adephagos
+antes que Duke, al final...
+la humanidad será destruida.<PAGE><VOICE>(VS59_159)Deprisa.<PAGE><VOICE>(VS59_160)He apaciguado el viento.
+Creo que Ba'ul ahora
+podrá alcanzaros.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(JUD)
+<VOICE>(VS59_161)Gracias, Sylph.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(KAR)
+<VOICE>(VS59_162)Lo de los espíritus está funcionando, pero...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(RAV)
+<VOICE>(VS59_163)Duke no.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1286732660]
+<STR>(YUR)
+<VOICE>(VS59_164)Ya...

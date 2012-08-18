@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1265500591]
+El romanticismo del mar
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221905]
+(EST_P)
+Me he estado preguntando...
+Si Ba'ul puede volar, ¿por qué
+nos molestamos en navegar?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266835870]
+(RAV)
+¡Me encantan los barcos! No hay ná más
+romántico que un navío cortando
+las cristalinas aguas del mar...
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1265500591]
+(RIT)
+¿Romántico? Sí, ya. Donde esté la eficacia
+que se quite el romanticismo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130544]
+(RAV)
+(RIT), creía que tú lo entenderías
+mejor que nadie. Por tu relación
+con los blastias y tó eso...
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221825]
+(RIT)
+No confundas mi sincera pasión por la
+sublime belleza con tus absurdos
+«romanticismos», viejales.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267221825]
+(RAV)
+Oh, qué cruel...
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266835843]
+(RIT)
+Las emociones no me importan.
+Siempre prefiero lo lógico y pragmático.

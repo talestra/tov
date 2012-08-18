@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284479433]
+<STR>(JUD)
+<VOICE>(VA022_023)<STR>(KAR), ¿estás bien?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625291]
+<STR>(KAR)
+<VOICE>(VA022_024)E-Estoy bien. Qué susto...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298625291]
+<STR>(YUR)
+<VOICE>(VA022_025)Esto es... Yormgen.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284479433]
+<STR>(JUD)
+<VOICE>(VA022_026)O su ilusión hecha por Phaeroh.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284479433]
+<STR>(RIT)
+<VOICE>(VA022_027)¿No hay nadie?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284479433]
+<STR>(YUR)
+<VOICE>(VA022_028)¿Phaeroh podría estar aquí?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284479433]
+<STR>(JUD)
+<VOICE>(VA022_029)Tal vez.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284479433]
+<STR>(KAR)
+<VOICE>(VA022_030)Echemos un vistazo.

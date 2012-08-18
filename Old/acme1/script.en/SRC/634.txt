@@ -1,0 +1,74 @@
+## POINTER 0
+<STR>(KAR)
+What's this supposed to be?
+
+## POINTER 1
+<STR>(EST_P)
+Is it a...grave, perhaps?
+
+## POINTER 2
+<STR>(YUR)
+A grave? In a place like this?
+
+## POINTER 3
+<STR>(RIT)
+Actually, this is just the type 
+of place I'd expect to see one.
+
+## POINTER 4
+<STR>(KAR)
+What do you mean?
+
+## POINTER 5
+<STR>(RIT)
+You know, like the grave of 
+someone who plotted against 
+the empire...and failed.<PAGE>If you wanted to bury somebody and 
+keep it quiet, you'd want a place 
+like this with no one around.
+
+## POINTER 6
+<STR>(YUR)
+Huh, wonder if that's what 
+I've got in store for me.
+
+## POINTER 7
+<STR>(EST_P)
+Don't say such things...! 
+That isn't funny!
+
+## POINTER 8
+<STR>(YUR)
+I wasn't exactly kidding.<PAGE>It's just a fact of life that some 
+folks from the lower quarter never 
+get a funeral or a proper burial.
+
+## POINTER 9
+<STR>(KAR)
+What happens to them, then?
+
+## POINTER 10
+<STR>(YUR)
+They get cremated and have 
+their ashes scattered over a 
+river or a field, usually.
+
+## POINTER 11
+<STR>(EST_P)
+Are you telling the truth...?
+
+## POINTER 12
+<STR>(RIT)
+...How did we get started 
+talking about this, anyway?
+
+## POINTER 13
+<STR>(KAR)
+Cause we're trying to figure 
+what a lone grave is doing 
+in a place like this.
+
+## POINTER 14
+<STR>(YUR)
+Yeah. So, just who does 
+it belong to...?

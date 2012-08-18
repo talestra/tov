@@ -1,0 +1,50 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1266244006]
+El despertar del adephagos
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266244006]
+(EST_P)
+Ver el adephagos justo ahí, en el cielo...
+Es horrible.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1266398684]
+(YUR)
+Ya... Y pensar que la catástrofe legendaria
+estaba escondida ahí arriba todo este tiempo...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266326843]
+(YUR)
+Resulta escalofriante.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1266398684]
+(EST_P)
+Ha aparecido en el cielo así, de la nada.
+Todo el mundo debe de estar muy preocupado...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1266398684]
+(JUD)
+Prefiero ver a qué nos enfrentamos
+que permitir que se extendiera
+sin control escondido por ahí.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1266244006]
+(EST_P)
+Tu confianza es admirable, (JUD).
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1266326843]
+(YUR)
+Pero es verdad, quizá sea mejor
+tener la amenaza frente a nosotros.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1266326843]
+(YUR)
+Hará que se una gente que de otra manera
+nunca se hubiera puesto de acuerdo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297710510]
+(JUD)
+Cierto. Cuando ya no se puede negar la existencia
+del adephagos, solo queda afrontarla.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1266326843]
+(EST_P)
+Tienes razón.

@@ -1,0 +1,100 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217860]
+<STR>(RIT)
+<VOICE>(VS13_528)No puedo creerlo.
+Nunca antes había visto algo así.<PAGE><VOICE>(VS13_529)Las flores están completamente abiertas
+a pesar de que no estamos en temporada.
+Y la barrera está totalmente activa.<PAGE><VOICE>(VS13_530)¿De verdad ha hecho
+esto <STR>(EST)?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272637704]
+<STR>(YUR)
+<VOICE>(VS13_531)¿Qué quieres decir?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217860]
+<STR>(RIT)
+<VOICE>(VS13_532)Se le escapó a <STR>(KAR)
+mientras salíamos de Aspio.<PAGE><VOICE>(VS13_533)Intentaste cambiar de tema,
+pero ya era demasiado tarde.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272637704]
+<STR>(YUR)
+<VOICE>(VS13_534)Parece que ahí la fastidié.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1274086793]
+<STR>(RIT)
+<VOICE>(VS13_535)Los magos no tenemos nada que se parezca
+ni por asomo a lo que ella tiene.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217860]
+<STR>(YUR)
+<VOICE>(VS13_536)Entonces, ¿nos estás
+acompañando para eliminar
+a la competencia?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217860]
+<STR>(RIT)
+<VOICE>(VS13_537)¡No seas ridículo!
+¡Hay una fórmula
+que tengo que descifrar!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272637704]
+<STR>(YUR)
+<VOICE>(VS13_538)¿Cómo que una fórmula? ¿Qué quieres decir?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217860]
+<STR>(RIT)
+<VOICE>(VS13_539)No es nada...
+Olvídalo.<PAGE><VOICE>(VS13_540)¿Qué es lo que quieres?
+Has venido aquí para algo, ¿no?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217860]
+<STR>(YUR)
+<VOICE>(VS13_541)
+Bueno, esa pregunta era la
+mitad de lo que pensaba hacer.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272637704]
+<STR>(RIT)
+<VOICE>(VS13_542)¿Y cuál es la otra mitad?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217860]
+<STR>(YUR)
+<VOICE>(VS13_543)Antes dijiste que te resulta fácil
+trabajar con los blastias
+porque nunca te traicionan.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272637704]
+<STR>(RIT)
+<VOICE>(VS13_544)Sí. ¿Y?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217860]
+<STR>(YUR)
+<VOICE>(VS13_545)
+Tanto <STR>(EST_P)
+como tú sois humanas.
+No sois blastias.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217860]
+<STR>(RIT)
+<VOICE>(VS13_546)Oh, ya lo entiendo...
+Te preocupas por ella.
+De que pueda hacerle daño.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298217860]
+<STR>(YUR)
+<VOICE>(VS13_547)<STR>(EST_P) es sincera. Bondadosa.
+Al contrario que tú o que yo.<PAGE><VOICE>(VS13_548)Tan solo digo...
+que no cometas
+ninguna locura.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272637704]
+<STR>(YUR)
+<VOICE>(VS13_549)Venga, volvamos. 
+<STR>(KAR) y <STR>(EST_P) 
+nos están esperando.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298218075]
+<STR>(RIT)
+<VOICE>(VS13_550)Ya he encontrado la pista
+que buscaba. Ahora quiero
+cometer todo tipo de locuras...

@@ -1,0 +1,255 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS44_001)Man, I thought I was dead...
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS44_002)All the guards are down...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS44_003)So that's why the cannon fire 
+from this section was so weak.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS44_004)Someone's here...
+
+## POINTER 4
+Leblanc
+<VOICE>(VS44_005)You never come prepared with 
+a plan, do you? Is brute force 
+the only strategy you know?
+
+## POINTER 5
+Adecor
+<VOICE>(VS44_006)That's right, I say!
+
+## POINTER 6
+Boccos
+<VOICE>(VS44_007)This time it's curtains 
+for you!
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS44_008)You guys again? Don't 
+you ever give up?!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS44_009)...The Schwann Brigade? Still 
+gunning for Alexei after 
+everything that's happened?
+
+## POINTER 9
+Leblanc
+<VOICE>(VS44_010)We Knights must do 
+as our pride demands!
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS44_011)...Come on you guys, 
+leave us alone!
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS44_012)Seriously!<PAGE><VOICE>(VS44_013)Looking at you guys makes 
+me remember a face that 
+I'm trying hard to forget!
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS44_014)What sort of face do ya 
+mean? Must be some poor 
+sap with a pretty ugly mug.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS44_015)<STR>(RAV)...!
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS44_016)Hey...old man!
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS44_017)<STR>(RAV)!
+
+## POINTER 16
+<STR>(JUD)
+<VOICE>(VS44_018)It's you...!
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS44_019)<STR>(RAV) the Great, 
+at your service.
+
+## POINTER 18
+<STR>(RAV)
+<VOICE>(VS44_020)What? So happy ta see me, 
+cat's got your tongue?
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS44_021)What are you doing 
+here, old man?
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS44_022)Gee, glad to see you, too.
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VS44_023)All right, men! Hold 
+down the fort here.
+
+## POINTER 22
+Leblanc
+<VOICE>(VS44_024)Sir!
+
+## POINTER 23
+Adecor
+<VOICE>(VS44_025)Yes, sir!
+
+## POINTER 24
+Boccos
+Yes, sir!
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS44_026)There, that should do it.
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS44_027)<STR>(RAV)...
+
+## POINTER 27
+<STR>(RAV)
+<VOICE>(VS44_028)Okay, it's up to you 
+guys from here.
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VS44_029)How can you say 
+that?! There's no way 
+we can trust you!
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS44_030)Don't try to pretend you 
+forgot what you did, old man.
+
+## POINTER 30
+<STR>(RAV)
+<VOICE>(VS44_031)I see. Well then do 
+me a favor and put 
+me down quick.
+
+## POINTER 31
+<STR>(RIT)
+<VOICE>(VS44_032)Hey! What are you 
+trying to prove?!
+
+## POINTER 32
+<STR>(RAV)
+<VOICE>(VS44_033)I didn't think I cared that much 
+about livin', but before I knew 
+it, I was waist deep in all this.<PAGE><VOICE>(VS44_034)If I have ta be done in by 
+you guys here, well, there're 
+worse ways I could go.
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS44_035)Now that you've turned on 
+Alexei, your blastia could be 
+shut down anytime.<PAGE><VOICE>(VS44_036)So you might as well 
+die here... Is that 
+what you mean?
+
+## POINTER 34
+<STR>(RAV)
+<VOICE>(VS44_037)I've been a dead man 
+for over ten years.
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS44_038)So what is a dead guy like 
+yourself doing here, anyway?<PAGE><VOICE>(VS44_039)<STR>(RAV), you came here to settle 
+accounts with us, didn’t you?
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS44_040)Well, Brave Vesperia 
+would be pleased to take 
+care of that for you.
+
+## POINTER 37
+<STR>(RAV)
+<VOICE>(VS44_041)Ow...
+
+## POINTER 38
+<STR>(YUR)
+<VOICE>(VS44_042)Your life belongs to 
+Brave Vesperia now.<PAGE><VOICE>(VS44_043)From now on, whether you 
+live or die depends on us.
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS44_044)Right?
+
+## POINTER 40
+<STR>(KAR)
+<VOICE>(VS44_045)Heh heh. 
+That's perfect, <STR>(YUR).
+
+## POINTER 41
+<STR>(RAV)
+<VOICE>(VS44_046)Agh!
+
+## POINTER 42
+<STR>(KAR)
+<VOICE>(VS44_047)This is your punishment.
+
+## POINTER 43
+<STR>(RAV)
+<VOICE>(VS44_048)Ah, thanks <STR>(JUD), darlin'.
+
+## POINTER 44
+<STR>(RAV)
+<VOICE>(VS44_049)Uaaagh!
+
+## POINTER 45
+<STR>(RAV)
+<VOICE>(VS44_050)Ugh!
+
+## POINTER 46
+<STR>(RIT)
+<VOICE>(VS44_051)I didn't want to 
+feel left out.
+
+## POINTER 47
+<STR>(RAV)
+<VOICE>(VS44_052)Ohh, the brutality...
+
+## POINTER 48
+<STR>(YUR)
+<VOICE>(VS44_053)<STR>(RAV). Do you know 
+where Alexei's hiding?
+
+## POINTER 49
+<STR>(RAV)
+<VOICE>(VS44_054)Uh... I guess he'd be 
+in the war room...
+
+## POINTER 50
+<STR>(JUD)
+<VOICE>(VS44_055)Let's go, then.
+
+## POINTER 51
+<STR>(YUR)
+<VOICE>(VS44_056)All right.
+
+## POINTER 52
+<STR>(KAR)
+<VOICE>(VS44_057)You're not allowed to just 
+go dyin' on us, <STR>(RAV)!

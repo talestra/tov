@@ -1,0 +1,299 @@
+## POINTER 335
+060 Alf and Layla's Parents
+
+## POINTER 336
+070 Mysterious enemy creature
+
+## POINTER 338
+010 Where is this place?
+
+## POINTER 339
+020 This seems to be Yormgen
+
+## POINTER 340
+030 Lon-Chi, Yui-Fung and the wiseman
+
+## POINTER 341
+040 Ask Duke about entelexeiaく
+
+## POINTER 342
+050 Depart tomorrow, <STR>(RIT)'s reserch
+
+## POINTER 343
+060 N/A
+
+## POINTER 344
+070 Return to Mantaic
+
+## POINTER 346
+010 Interfere Cumore
+
+## POINTER 347
+020 Good to be safe
+
+## POINTER 348
+030 An idiot never changes
+
+## POINTER 349
+040 I'll do it in my way
+
+## POINTER 350
+050 Assasination of Cumore
+
+## POINTER 351
+060 Leave Cumore to death
+
+## POINTER 352
+070 City freed
+
+## POINTER 353
+080 Discord between <STR>(FRE)
+
+## POINTER 354
+090 <STR>(EST_P) watching
+
+## POINTER 355
+100 The knignts return to Nordopolica
+
+## POINTER 357
+010 Cados sealed by knights
+
+## POINTER 358
+020 Break through <STR>(FRE) squadron
+
+## POINTER 359
+030 Are the knights serious
+
+## POINTER 360
+040 Reserch of Aer Krene
+
+## POINTER 361
+050 <STR>(RAV)'s quick move
+
+## POINTER 363
+010 Full moon, we can see Belius tonight
+
+## POINTER 364
+020 Let go see Belius
+
+## POINTER 365
+030 Lead inside
+
+## POINTER 366
+040 Talk with Belius, Hunting Blades intrudes
+
+## POINTER 367
+050 Need to help Nath
+
+## POINTER 368
+060 Is this a Union's order?
+
+## POINTER 369
+070 Belius out of control by <STR>(EST_P)'s formula
+
+## POINTER 370
+080 Belius' death
+
+## POINTER 371
+090 City put under Knight control
+
+## POINTER 372
+100 Facing <STR>(FRE)
+
+## POINTER 373
+110 <STR>(JUD) destroys Ceres blastia
+
+## POINTER 375
+010 Let's go see everyone
+
+## POINTER 376
+020 Talk with <STR>(KAR)
+
+## POINTER 377
+030 Talk with <STR>(RIT)
+
+## POINTER 378
+040 Talk with <STR>(RAV)
+
+## POINTER 379
+050 Talk with <STR>(EST)
+
+## POINTER 380
+060 Everything may be related to apatheia
+
+## POINTER 382
+010 Break up once
+
+## POINTER 383
+020 Rest?
+
+## POINTER 384
+030 Follow Don to the manor of the wicked
+
+## POINTER 385
+040 <STR>(KAR) heads to Palestralle
+
+## POINTER 386
+050 Are you ready?
+
+## POINTER 387
+060 Arrive at manor, <STR>(JUD) is in danger
+
+## POINTER 388
+070 Don and Yegar stand face to face
+
+## POINTER 389
+080 Don defeats Yegar?
+
+## POINTER 390
+090 This will lead to a war
+
+## POINTER 391
+100 Don takes responsibility -Seppuku
+
+## POINTER 392
+110 Let's head to <STR>(JUD)'s place
+
+## POINTER 393
+120 <STR>(KAR) depressed
+
+## POINTER 394
+130 Yegar's provoke
+
+## POINTER 395
+140 Let go see how <STR>(KAR) is doing?
+
+## POINTER 396
+150 Head to Mt. Temza
+
+## POINTER 397
+160 <STR>(KAR) & <STR>(RAV) meet up
+
+## POINTER 399
+010 Heard Ba'ul's voice
+
+## POINTER 400
+020 The remains of the War
+
+## POINTER 401
+030 A small rest
+
+## POINTER 402
+040 Reunion with <STR>(JUD)
+
+## POINTER 403
+050 VS. Hunting Blades
+
+## POINTER 404
+060 Ba'ul's evolution
+
+## POINTER 405
+070 Ba'ul takes off
+
+## POINTER 406
+080 We're up in the sky
+
+## POINTER 407
+090 A strong will for one who punishes
+
+## POINTER 408
+100 A damaged formula
+
+## POINTER 409
+110 Raven served in the War
+
+## POINTER 410
+120 Want to know about Child of the Full Moon
+
+## POINTER 411
+130 Good time for a explanation
+
+## POINTER 412
+140 <STR>(JUD)'s story
+
+## POINTER 414
+010 Phaeroh is up ahead
+
+## POINTER 415
+020 Conversation with Phaeroh
+
+## POINTER 416
+030 Let's head to Myorzo
+
+## POINTER 417
+040 Let's all take the punishment
+
+## POINTER 418
+050 A route to Myorzo
+
+## POINTER 419
+060 A rest before departure
+
+## POINTER 421
+010 Look for Trina blastia
+
+## POINTER 422
+020 How is Myorzo like?
+
+## POINTER 423
+030 <STR>(EST_P) activates the blastia
+
+## POINTER 424
+040 <STR>(EST_P) can modify the formula freely
+
+## POINTER 425
+050 <STR>(RIT) unlocks the blastia key
+
+## POINTER 427
+010 Is that a entelexeia!?
+
+## POINTER 428
+020 Surrounded by Krityan
+
+## POINTER 429
+030 Lots of blastia
+
+## POINTER 430
+040 Blastia and the Adephagos
+
+## POINTER 431
+050 Rizomata Formula
+
+## POINTER 432
+060 Kines blastia is still working!?
+
+## POINTER 433
+070 Where is <STR>(RAV) and the others? (part 1)
+
+## POINTER 434
+071 <STR>(YUR), <STR>(RAV) recollect's 1
+
+## POINTER 435
+072 <STR>(YUR), <STR>(RAV) recollect's 2
+
+## POINTER 436
+073 Where is <STR>(RAV) and the others? (part 2)
+
+## POINTER 438
+010 Alexei, Man behind the scene
+
+## POINTER 439
+020 <STR>(FRE)'s dilemma and failure
+
+## POINTER 441
+010 Hercules VS. Astar
+
+## POINTER 442
+020 <STR>(FRE) squadron for reinforcement
+
+## POINTER 443
+030 <STR>(FRE) is worried
+
+## POINTER 444
+040 Let proceed as we create the map
+
+## POINTER 445
+050 The ages of entelexeia
+
+## POINTER 446
+060 Receive Dein Nomos from Duke

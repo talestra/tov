@@ -1,0 +1,61 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854305]
+<STR>(YUR)
+¡Eh, capitán <STR>(KAR)! 
+¿Qué tal te va?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854305]
+<STR>(KAR)
+¡Aaah! 
+¡¡<STR>(YUR)!!<PAGE>¿Por qué soy el único
+que no tiene uniforme?
+¡Solo me han dado esta toalla!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854305]
+<STR>(YUR)
+Seguro que no han podido
+hacer más. Dudo que tuviesen
+alguna cosa de tu talla.<PAGE>¿Qué problema tienes?
+Siéntate en el agua
+y disfruta.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854305]
+<STR>(KAR)
+¡No puedo estar así todo el tiempo!
+¡Me arrugaré como una pasa!
+¿Y si ya me puedo ir?...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854305]
+<STR>(YUR)
+La verdad es que
+no hay nada que hacer.
+Quédate aquí y relájate.<PAGE>
+El resto está currando mucho.
+No creo que tengan tiempo
+para charlar.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854305]
+<STR>(KAR)
+¿Y tú qué, <STR>(YUR)?
+¿No tienes nada mejor que hacer?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290443801]
+<STR>(YUR)
+Estoy haciendo guardia.
+¡Voy de aquí para allá!
+¡Esto sí que es trabajar!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854305]
+<STR>(KAR)
+Jo, ¿por qué siempre te toca lo mejor?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298854305]
+<STR>(YUR)
+Bueno, estate
+un rato y después
+sal o algo.<PAGE>Igualmente, los clientes
+deberían estar al caer.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290443801]
+<STR>(KAR)
+Ya...
+Vale.

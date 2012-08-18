@@ -1,0 +1,135 @@
+## POINTER 0
+Wonder Chef
+Cooking is in the heart. Do not get
+too caught up in physical results.
+
+## POINTER 1
+Wonder Chef
+I have nothing left to teach you.<PAGE>Let us meet again once you have reached 
+the next step in your path to culinary perfection.
+
+## POINTER 2
+<STR>(YUR)
+Sounds good to me.
+
+## POINTER 3
+Wonder Chef
+It's essential to follow a recipe,
+but it's even more important to
+experiment with new possibilities.
+
+## POINTER 4
+<STR>(EST_P)
+Y-yes, I understand.
+
+## POINTER 5
+Wonder Chef
+Your sense of taste is still very 
+underdeveloped. As you grow, you'll
+find that your culinary skills will follow suit.
+
+## POINTER 6
+<STR>(KAR)
+Th-that's easy for you to say...
+
+## POINTER 7
+Wonder Chef
+You...already know what I'm going to tell you, don't you?
+
+## POINTER 8
+<STR>(RIT)
+What do you mean?
+
+## POINTER 9
+Wonder Chef
+Without a proper love of cooking, you will never 
+master the path of culinary perfection!
+
+## POINTER 10
+<STR>(RIT)
+Meh, who cares? It's all the same mush 
+once it hits your stomach, anyway.
+
+## POINTER 11
+Wonder Chef
+Bl-blasphemy...
+
+## POINTER 12
+Wonder Chef
+Your style is tough and rugged, like yourself. But 
+the path to culinary perfection is not an easy one. 
+You still have much hard work ahead of you.
+
+## POINTER 13
+<STR>(RAV)
+This culinary perfection stuff bores me...
+
+## POINTER 14
+Wonder Chef
+Such amazing skill... At 
+long last, the next Wonder 
+Chef has been born...<PAGE>Here, you may take this knife.
+May it serve you well.
+
+## POINTER 15
+<STR>(JUD)
+No thanks, I'll pass.<PAGE>Can you imagine hiding in a cacti patch 
+or a ice cream cone until someone
+came and found me? Hah hah!
+
+## POINTER 16
+Wonder Chef
+Urgh...
+
+## POINTER 17
+Wonder Chef
+As I was saying..! The perfect dish is the
+result of the exchange of harsh critiques.
+Only then, can perfection be achieved!<PAGE>In other words, cooking is not based on
+the effort of one, but the result of many.
+For that, I shall grant you all titles!
+
+## POINTER 18
+Wonder Chef
+At any rate, it was a fine tournament.
+I look forward to the day we meet again!<PAGE>Farewell!
+
+## POINTER 19
+<STR>(YUR)
+Sorry we kept you waiting, <STR>(RAP).
+
+## POINTER 20
+
+Woof woof!
+
+## POINTER 21
+<STR>(KAR)
+That cooking battle was a lot of fun!
+
+## POINTER 22
+<STR>(EST_P)
+Yes. And <STR>(FRE)'s cooking 
+was...remarkable.
+
+## POINTER 23
+<STR>(RIT)
+Yeah, and it looked so 
+delicious, too... What 
+a terrible surprise...
+
+## POINTER 24
+<STR>(YUR)
+Now you know how I feel! To think,
+he wanted me to be personal taster!
+
+## POINTER 25
+<STR>(JUD)
+Good thing you're a good cook, <STR>(YUR)!
+
+## POINTER 26
+<STR>(RAV)
+Yeah, ya can say that again!
+
+## POINTER 27
+<STR>(KAR)
+Well then, should we get going?

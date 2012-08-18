@@ -1,0 +1,135 @@
+## POINTER 107
+Open the Battle Menu via <06>(MEN)
+and hold the <06>(GUD) button to
+adjust the camera.
+Change the angle with <06>(CBR2),
+Zoom with <06>(CBL2).
+
+Holding the <06>(GUD) button while
+pressing <06>(L3) will return the
+camera to default.
+
+## POINTER 108
+Secret Mission
+
+## POINTER 109
+Sometimes there is a separate
+mission hidden within a boss battle.
+
+This is known as a Secret Mission.
+ 
+Receive items which can help with
+clearing the game after completing
+a Secret Mission.
+
+Look out for these missions during
+a boss battle next time.
+
+## POINTER 110
+Giganto Monsters
+
+## POINTER 111
+Sometimes you may find monsters
+that are a lot bigger in size than
+regular monsters roaming on the
+World Map.
+ 
+These monsters are called Giganto 
+Monsters. They are much stronger 
+than regular monsters and are 
+very dangerous.
+ 
+Beware! They cannot be 
+defeated easily!
+
+## POINTER 112
+Cooking 1
+
+## POINTER 113
+When you obtain a recipe, you can
+use ingredients that you discover
+along your journey for cooking.
+Ingredients will get used up every time
+it is used for a recipe.
+Cooking has a variety of effects,
+such as healing HP, increasing
+attack power, etc.
+
+Once you have cooked something,
+your character will be full and you
+cannot cook again until after the next battle.
+
+## POINTER 114
+Cooking 2
+
+## POINTER 115
+If you are not successful at 
+making the selected recipe, 
+you cannot gain its effects.
+
+You can also select the character 
+who will be cooking.
+
+Some characters may be better at 
+cooking a specific recipe. The success 
+rate between characters differ.
+
+## POINTER 116
+Cooking Level and New Recipes
+
+## POINTER 117
+Your cooking level will increase 
+as you repeatedly cook recipes.
+
+As your cooking level increases,
+your success rate increases and
+you can invent new recipes.
+
+Decide who will cook which recipe
+and discover new recipes.
+
+## POINTER 118
+Cooking Shortcuts
+
+## POINTER 119
+If you have cooking shortcuts set
+to any of the <06>(LTU)<06>(LTD)<06>(LTL)<06>(LTR) 
+before a battle, you can cook
+immediately after a battle with the
+<06>(GUD) + <06>(LTN) shortcuts.
+ 
+This helps to quickly recover 
+after a battle.
+
+## POINTER 120
+Icon Test
+
+## POINTER 121
+<06>(ST1)Poison
+<06>(ST2)Paralysis
+<06>(ST3)Petrify
+<06>(ST4)Weak
+<06>(ST5)Sealed Artes
+<06>(ST6)Sealed Skills
+<06>(ST7)精神汚染
+<06>(SC1)P. ATK<06>(SC2)P. DEF<06>(SC3)M. ATK<06>(SC4)M. DEF
+<06>(SC5)Sleep
+<06>(SC6)Auto-recover
+<06>(SC7)Charm
+<06>(EL1)Fire<06>(EL2)Earth<06>(EL3)Wing<06>(EL4)Water<06>(EL5)Light<06>(EL6)Darkness<06>(EL7)Physical
+
+## POINTER 122
+Button Test
+
+## POINTER 123
+<06>(ATK)Attack
+<06>(ART)Artes
+<06>(GUD)Guard
+<06>(MEN)Menu
+<06>(CBL1)Taunt
+<06>(CBL2)Free Run
+<06>(CBR1)Select Target
+<06>(CBR2)Fatal Strike
+<06>(FS1)FS1<06>(FS2)FS2<06>(FS3)FS3
+<06>(MC1)<06>(MC2)<06>(MC3)<06>(MC4)<06>(MC5)<06>(MC6)<06>(MC7)<06>(MC8)<06>(MC9)
+<06>(RTN)<06>(RTU)<06>(RTD)<06>(RTL)<06>(RTR)<06>(RTH)<06>(R3)

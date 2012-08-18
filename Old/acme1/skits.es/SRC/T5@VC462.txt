@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134804]
+La tierra helada
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298125213]
+(RAV)
+Ooooh... ¡Con este frío nos vamos
+a congelá más pronto que tarde!
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134804]
+(YUR)
+Deberíamos movernos para entrar
+en calor. Eso, o encontrar un sitio
+caliente.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266829662]
+(RAV)
+¡Sea lo que sea, si nos quedamos 
+paraos nos va a dar algo!
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134804]
+(YUR)
+Sí, pero si nos dedicamos a
+deambular de aquí para allá,
+nos agotaremos y moriremos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298125213]
+(RAV)
+Siendo asín, entonces debemos hacer
+lo que hemos venido a hacer y salir de aquí.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298125213]
+(RAP)
+¡GUAU!
+
+## POINTER 7 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267320124]
+(RAV)
+Ar chucho no parece 
+importarle er frío...

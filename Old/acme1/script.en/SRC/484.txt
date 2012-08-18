@@ -1,0 +1,117 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS50_060)...He's actually sleeping. 
+Man, I can't tell if he's 
+brave, or just stupid.
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VS50_061)Weren't you gonna
+have a touchin' reunion
+with your bestest pal?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS50_062)Nah, it's that lieutenant 
+of his. She's scary.
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS50_063)Hm? Oh, well...I guess 
+I can see that.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS50_064)What do you mean?
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS50_065)Oh, well, it's just...she's so 
+serious. Gotta be careful 
+not ta rub her the wrong way.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS50_066)I'm not rubbing anything 
+any way.
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS50_067)Well, ya most certainly can't
+please all the people all the time.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS50_068)I guess you're right. 
+So what are you 
+doing here?
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS50_069)Oh, just thinkin' about stuff... 
+Hey, why're ya lookin' at 
+me like that?
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS50_070)With all we've been through, I 
+guess I'm just tryin' ta figure out 
+what I should do with myself.
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS50_071)But I keep comin' up empty.<PAGE><VOICE>(VS50_072)Change wears me out.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS50_073)You chose your own life. 
+At this point, you should be 
+able to do anything you want.
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VS50_074)How do I put it...? I already 
+died once. Now I'm thinkin' 
+about a bunch of stuff...<PAGE><VOICE>(VS50_075)But I guess thinkin' about 
+settling things with Alexei 
+is enough for now.<PAGE><VOICE>(VS50_076)The rest'll probably 
+come out in the wash.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS50_077)Sounds okay to me.
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS50_078)Speakin' of settling things, 
+I filled <STR>(EST_P) in on all the 
+stuff that happened.<PAGE><VOICE>(VS50_079)Guess what she did.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS50_080)Hm?
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS50_081)She said I had to let 
+her do the same thing 
+everyone else did.<PAGE><VOICE>(VS50_082)So she smacked me on 
+the head. Called it even.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS50_083)Hah hah, that's <STR>(EST_P).
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS50_084)...It kind of hurt, actually.
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS50_085)Well, I think I'm gonna catch 
+my shut-eye in here.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS50_086)Suit yourself... Try not to 
+oversleep for once, though.

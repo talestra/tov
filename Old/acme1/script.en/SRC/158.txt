@@ -1,0 +1,100 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS15_042)...Heh, that was about to get ugly...
+
+## POINTER 1
+<STR>(FRE)
+<VOICE>(VS15_043)All right...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS15_044)Whoa, hold on! 
+What are you doing?!
+
+## POINTER 3
+<STR>(FRE)
+<VOICE>(VS15_045)<STR>(YUR), I'm happy to see you're 
+finally seeing the world 
+outside the barrier.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS15_046)So, be a little more happy then.
+And stop pointing that thing at me.
+
+## POINTER 5
+<STR>(FRE)
+<VOICE>(VS15_047)Well I got a little less 
+happy when I saw this!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS15_048)Hey, it's up to 10,000 Gald. 
+Nice.
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS15_049)I didn't think when you quit the Knights 
+that you'd take up a life of crime.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS15_050)A lot of things have happened, <STR>(FRE). 
+It's not that simple.
+
+## POINTER 9
+<STR>(FRE)
+<VOICE>(VS15_051)Simple or not, a 
+crime is a crime.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS15_052)...Good to see you're as stubborn 
+as always. I... uh-oh.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS15_053)<STR>(YUR), I heard something 
+happened. Are you all...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS15_054)Perfect timing.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS15_055)...<STR>(FRE)!
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS15_056)Huh...?
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS15_057)Oh, <STR>(FRE). 
+Are you all right? 
+Have you been hurt?
+
+## POINTER 16
+<STR>(FRE)
+<VOICE>(VS15_058)...I-I'm fine. 
+Um, Lady <STR>(EST)...
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS15_059)Oh! I'm sorry. I was just 
+so happy to see you, I...
+
+## POINTER 18
+<STR>(FRE)
+<VOICE>(VS15_060)...Please, this way.
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS15_061)What? Ah, but... <STR>(FRE), there's 
+something I need to tell you...!
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS15_062)...I'd better go find 
+<STR>(KAR) and <STR>(RIT).

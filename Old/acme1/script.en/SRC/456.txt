@@ -1,0 +1,42 @@
+## POINTER 0
+
+Y-your Excellency, it's horrible! 
+The road, the road...is gone!
+
+## POINTER 1
+<STR>(YUR)
+?!
+
+## POINTER 2
+
+...There's a giant hole on the 
+other side of Ehmead Hill.<PAGE>It's burning hot all around it. 
+I wasn't able to get very close.
+
+## POINTER 3
+
+What? Just like that? 
+I suppose that was what 
+all that rumbling was earlier...
+
+## POINTER 4
+
+Even if we were able to get 
+near that hole, getting across 
+it would be impossible...<PAGE>No one will be able to go past 
+Ehmead Hill like this!
+
+## POINTER 5
+
+So then, Nor is cut off 
+from everyone else?
+
+## POINTER 6
+
+This is bad. This is real bad.
+
+## POINTER 7
+<STR>(YUR)
+Could this be...the blast 
+from the Heracles' cannon? 
+What have they done...?

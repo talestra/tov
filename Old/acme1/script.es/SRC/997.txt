@@ -1,0 +1,13 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006655]
+<STR>(KAR)
+Mirad esa nube de polvo...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006655]
+<STR>(YUR)
+Parece que las cosas
+están yendo de mal en peor...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297006655]
+<STR>(JUD)
+He llamado a Ba'ul. 
+Vamos a verlo desde el aire.

@@ -1,0 +1,299 @@
+## POINTER 800
+First Continent/27 (Polwigle: Base Type)  1/Weather A
+
+## POINTER 801
+First Continent/27 (Polwigle: Base Type)  2/Weather A
+
+## POINTER 802
+First Continent/27 (Polwigle: Base Type)  3/Weather A
+
+## POINTER 803
+First Continent/27 (Chirpee: Base Type) 1/Weather A
+
+## POINTER 804
+First Continent/27 (Chirpee: Base Type) 2/Weather A
+
+## POINTER 805
+First Continent/27 (Squid Ghost) 1/Weather A
+
+## POINTER 806
+First Continent/27 (Squid Ghost) 2/Weather A
+
+## POINTER 807
+First Continent/27 (Squid Ghost) 3/Weather A
+
+## POINTER 808
+First Continent/28/29/30/31/32/33/39/40 (Chirpee) 1/Weather B
+
+## POINTER 809
+First Continent/28/29/30/31/32/33/39/40 (Chirpee) 2/Weather B
+
+## POINTER 810
+First Continent/28/29/30/31/32/33/39/40 (Chirpee) 3/Weather B
+
+## POINTER 811
+First Continent/28/29/30/31/32/33/39/40 (Treant) 1/Weather B
+
+## POINTER 812
+First Continent/28/29/30/31/32/33/39/40 (Treant) 2/Weather B
+
+## POINTER 813
+First Continent/28/29/30/31/32/33/39/40 (Treant) 3/Weather B
+
+## POINTER 814
+First Continent/28/29/30/31/32/33/39/40 (Axe Beak) 1/Weather B
+
+## POINTER 815
+First Continent/28/29/30/31/32/33/39/40 (Axe Beak) 2/Weather B
+
+## POINTER 816
+First Continent/28/29/30/31/32/33/39/40 (Axe Beak) 3/Weather B
+
+## POINTER 817
+First Continent/28/29/30/31/32/33/39/40 (Boar: Base Type)  1/Weather B
+
+## POINTER 818
+First Continent/28/29/30/31/32/33/39/40 (Boar: Base Type)  2/Weather B
+
+## POINTER 819
+First Continent/28/29/30/31/32/33/39/40 (Boar: Base Type)  3/Weather B
+
+## POINTER 820
+First Continent/27 (Polwigle: Base Type)  1/Weather B
+
+## POINTER 821
+First Continent/27 (Polwigle: Base Type)  2/Weather B
+
+## POINTER 822
+First Continent/27 (Polwigle: Base Type)  3/Weather B
+
+## POINTER 823
+First Continent/27 (Chirpee: Base Type) 1/Weather B
+
+## POINTER 824
+First Continent/27 (Chirpee: Base Type) 2/Weather B
+
+## POINTER 825
+First Continent/27 (Squid Ghost) 1/Weather B
+
+## POINTER 826
+First Continent/27 (Squid Ghost) 2/Weather B
+
+## POINTER 827
+First Continent/27 (Squid Ghost) 3/Weather B
+
+## POINTER 828
+First Continent/34/35/36 (Balloon Filifolia)  1/Weather AB
+
+## POINTER 829
+First Continent/34/35/36 (Balloon Filifolia)  2/Weather AB
+
+## POINTER 830
+First Continent/34/35/36 (Balloon Filifolia)  3/Weather AB
+
+## POINTER 831
+First Continent/34/35/36 (Wandering Field/Dagger) 1/Weather AB
+
+## POINTER 832
+First Continent/34/35/36 (Wandering Field/Dagger) 2/Weather AB
+
+## POINTER 833
+First Continent/34/35/36 (Wandering Field/Dagger) 3/Weather AB
+
+## POINTER 834
+First Continent/34/35/36 (Wandering Field/Staff) 1/Weather AB
+
+## POINTER 835
+First Continent/34/35/36 (Wandering Field/Staff) 2/Weather AB
+
+## POINTER 836
+First Continent/34/35/36 (Boar)  1/Weather AB
+
+## POINTER 837
+First Continent/34/35/36 (Boar)  2/Weather AB
+
+## POINTER 838
+First Continent/34/35/36 (Boar)  3/Weather AB
+
+## POINTER 839
+First Continent/34/35/36 (Boar)  4/Weather AB
+
+## POINTER 840
+First Continent/34/35/36 (Green Roper) 1/Weather AB
+
+## POINTER 841
+First Continent/34/35/36 (Rhybgaro) 1/Weather B
+
+## POINTER 842
+First Continent/34/35/36 (Rhybgaro) 1/Weather B
+
+## POINTER 843
+First Continent/25/26 (Ice Eagle)  1/Weather AB
+
+## POINTER 844
+First Continent/25/26 (Ice Eagle)  2/Weather AB
+
+## POINTER 845
+First Continent/25/26 (Ice Eagle)  3/Weather AB
+
+## POINTER 846
+First Continent/25/26 (Ice Treant) 1/Weather AB
+
+## POINTER 847
+First Continent/25/26 (Ice Treant) 2/Weather AB
+
+## POINTER 848
+First Continent/25/26 (Ice Treant) 3/Weather AB
+
+## POINTER 849
+First Continent/25/26 (Ice Spirit) 1/Weather AB
+
+## POINTER 850
+First Continent/25/26 (Ice Spirit) 2/Weather AB
+
+## POINTER 851
+First Continent/25/26 (Ice Spirit) 3/Weather AB
+
+## POINTER 852
+First Continent/25/26 (Ice Bat)  1/Weather AB
+
+## POINTER 853
+First Continent/25/26 (Ice Bat)  2/Weather AB
+
+## POINTER 854
+First Continent/25/26 (Ice Bat)  3/Weather AB
+
+## POINTER 855
+First Continent/25/26 (Axe Beak: Pelican) 1/Weather AB
+
+## POINTER 856
+First Continent/25/26 (Axe Beak: Pelican) 2/Weather AB
+
+## POINTER 857
+First Continent/25/26 (Axe Beak: Pelican) 3/Weather AB
+
+## POINTER 858
+First Continent/25/26 (Wolf: White) 1/Weather B
+
+## POINTER 859
+First Continent/25/26 (Wolf: White) 2/Weather B
+
+## POINTER 860
+First Continent/25/26 (Wolf: White) 3/Weather B
+
+## POINTER 861
+First Continent/25/26 (Merfish: Electric Catfish)  1/Weather B
+
+## POINTER 862
+First Continent/25/26 (Merfish: Electric Catfish)  2/Weather B
+
+## POINTER 863
+First Continent/25/26 (Merfish: Electric Catfish)  3/Weather B
+
+## POINTER 864
+First Continent/37 (Boar: Cheap Rhino)  1/Weather AB
+
+## POINTER 865
+First Continent/37 (Boar: Cheap Rhino)  2/Weather AB
+
+## POINTER 866
+First Continent/37 (Boar: Cheap Rhino)  3/Weather AB
+
+## POINTER 867
+First Continent/37 (Balloon Ghost: Filifolia) 1/Weather AB
+
+## POINTER 868
+First Continent/37 (Balloon Ghost: Filifolia) 2/Weather AB
+
+## POINTER 869
+First Continent/44 (Boar: Wild Boar)  1/Weather AB
+
+## POINTER 870
+First Continent/44 (Boar: Wild Boar)  2/Weather AB
+
+## POINTER 871
+First Continent/44 (Boar: Wild Boar)  3/Weather AB
+
+## POINTER 872
+First Continent/44 (Polwigle: Squirrel)  1/Weather AB
+
+## POINTER 873
+First Continent/44 (Polwigle: Squirrel)  2/Weather AB
+
+## POINTER 874
+First Continent/44 (Polwigle: Squirrel)  3/Weather AB
+
+## POINTER 875
+First Continent/44 (Goblin: Base Type) 1/Weather AB
+
+## POINTER 876
+First Continent/44 (Goblin: Base Type) 2/Weather AB
+
+## POINTER 877
+First Continent/44 (Goblin: Base Type) 3/Weather AB
+
+## POINTER 878
+First Continent/44 (Polwigle: Mushroom)  1/Weather AB
+
+## POINTER 879
+First Continent/44 (Polwigle: Mushroom)  2/Weather AB
+
+## POINTER 880
+First Continent/44 (Polwigle: Goblin)  1/Weather B
+
+## POINTER 881
+First Continent/44 (Polwigle: Goblin)  2/Weather B
+
+## POINTER 882
+First Continent/44 (Polwigle: Goblin)  3/Weather B
+
+## POINTER 883
+First Continent/47 (Polwigle)  1/Weather AB
+
+## POINTER 884
+First Continent/47 (Polwigle)  2/Weather AB
+
+## POINTER 885
+First Continent/47 (Goblin) 1/Weather AB
+
+## POINTER 886
+First Continent/47 (Goblin) 2/Weather AB
+
+## POINTER 887
+First Continent/47 (Crab Man) 1/Weather AB
+
+## POINTER 888
+First Continent/47 (Crab Man) 2/Weather AB
+
+## POINTER 889
+First Continent/47 (Balloon Ghost: Base Type) 1/Weather A
+
+## POINTER 890
+First Continent/47 (Balloon Ghost: Base Type) 2/Weather A
+
+## POINTER 891
+First Continent/47 (Balloon Ghost: Rocket) 1/Weather B
+
+## POINTER 892
+First Continent/47 (Balloon Ghost: Rocket) 2/Weather B
+
+## POINTER 893
+First Continent/46 (Gentleman) 1/Weather A
+
+## POINTER 894
+First Continent/46 (Gentleluke) 1/Weather B
+
+## POINTER 895
+Second Continent/23 (Wandering Field/Dagger) 1/Weather AB
+
+## POINTER 896
+Second Continent/23 (Wandering Field/Dagger) 2/Weather AB
+
+## POINTER 897
+Second Continent/23 (Wandering Field/Dagger) 3/Weather AB
+
+## POINTER 898
+Second Continent/23 (Wandering Field/Dagger) 4/Weather AB
+
+## POINTER 899
+Second Continent/23 (Wandering Field/Staff) 1/Weather AB

@@ -1,0 +1,45 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS24_072)You've got a lot of 
+nerve locking me up 
+in a dump like this!<PAGE><VOICE>(VS24_073)Do you have any idea who 
+you're dealing with?! Get 
+your superior out here, now!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS24_074)...<STR>(RIT)? What is she 
+doing here...?
+
+## POINTER 2
+
+<VOICE>(VS24_075)Calm down already! I'll...I'll 
+go call him right now!
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS24_076)Shut up!
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS24_077)Wow, she hasn't changed much.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS24_078)L-let me go!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS24_079)Settle down, it's just me.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS24_080)...<STR>(YUR)...?
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS24_081)A-are you okay?
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS24_082)<STR>(RIT)...?

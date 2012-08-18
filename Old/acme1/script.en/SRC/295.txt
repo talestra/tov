@@ -1,0 +1,83 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS26_040)L-look...!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS26_041)Year 232 of Asule, 13th 
+day of Bluerre?
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS26_042)The Asule period and the 
+month of Bluerre are from 
+a time before the empire.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS26_043)So over 1,000 years ago...
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS26_044)That long?
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS26_045)Adrift five and forty days. Food and 
+water used up. Men succumbing 
+to thirst and starvation.<PAGE><VOICE>(VS26_046)I cannot give in, though. 
+I must see the clear ciel 
+crystal safely to Yormgen...<PAGE><VOICE>(VS26_047)This crystal holds the power to 
+banish the monsters, and with it 
+the town may yet be saved.<PAGE><VOICE>(VS26_048)I have stored the clear ciel 
+crystal in my red chest, a 
+gift from my dear Yuefan.<PAGE><VOICE>(VS26_049)It won't be much longer until 
+I am in her arms again. And 
+then we will all be saved.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS26_050)...But he wasn't able to 
+return to his town. 
+He passed away here...
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS26_051)Come on <STR>(EST_P), it was more 
+than a thousand years ago.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS26_052)I've never heard of a 
+town called Yormgen...
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS26_053)If this record is really that old, 
+there's no guarantee the 
+town even exists anymore.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS26_054)Yeah, I guess that's true. 
+...What about that 
+clear ciel crystal?
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS26_055)I've never heard of it.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS26_056)The power to banish 
+monsters. Huh.
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS26_057)I wonder if it's something 
+similar to a barrier.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS26_058)Do you think it might be 
+here somewhere?

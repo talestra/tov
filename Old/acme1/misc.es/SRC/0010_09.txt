@@ -1,0 +1,299 @@
+## POINTER 900
+Second Continent/23 (Wandering Field/Staff) 2/Weather AB
+
+## POINTER 901
+Second Continent/23 (Wandering Field/Staff) 3/Weather AB
+
+## POINTER 902
+Second Continent/23 (Basilisk) 1/Weather AB
+
+## POINTER 903
+Second Continent/23 (Basilisk) 2/Weather AB
+
+## POINTER 904
+Second Continent/23 (Basilisk) 3/Weather AB
+
+## POINTER 905
+Second Continent/23 (Crab Man) 1/Weather AB
+
+## POINTER 906
+Second Continent/23 (Crab Man) 2/Weather AB
+
+## POINTER 907
+Second Continent/20/21 (Chirpee: Green Wing) 1/Weather A
+
+## POINTER 908
+Second Continent/20/21 (Chirpee: Green Wing) 2/Weather A
+
+## POINTER 909
+Second Continent/20/21 (Chirpee: Green Wing) 3/Weather A
+
+## POINTER 910
+Second Continent/20/21 (Tortoise) 1/Weather A
+
+## POINTER 911
+Second Continent/20/21 (Tortoise) 2/Weather A
+
+## POINTER 912
+Second Continent/20/21 (Tortoise) 3/Weather A
+
+## POINTER 913
+Second Continent/20/21 (Tortoise) 4/Weather A
+
+## POINTER 914
+Second Continent/20/21 (Basilisk) 1/Weather A
+
+## POINTER 915
+Second Continent/20/21 (Basilisk) 2/Weather A
+
+## POINTER 916
+Second Continent/20/21 (Basilisk) 3/Weather A
+
+## POINTER 917
+Second Continent/20/21 (Spiky Polwigle)  1/Weather A
+
+## POINTER 918
+Second Continent/20/21 (Spiky Polwigle)  2/Weather A
+
+## POINTER 919
+Second Continent/20/21 (Spiky Polwigle)  3/Weather A
+
+## POINTER 920
+Second Continent/20/21 (Chirpee: Green Wing) 1/Weather B
+
+## POINTER 921
+Second Continent/20/21 (Chirpee: Green Wing) 2/Weather B
+
+## POINTER 922
+Second Continent/20/21 (Chirpee: Green Wing) 3/Weather B
+
+## POINTER 923
+Second Continent/20/21 (Tortoise) 1/Weather B
+
+## POINTER 924
+Second Continent/20/21 (Tortoise) 2/Weather B
+
+## POINTER 925
+Second Continent/20/21 (Tortoise) 3/Weather B
+
+## POINTER 926
+Second Continent/20/21 (Tortoise) 4/Weather B
+
+## POINTER 927
+Second Continent/20/21 (Basilisk) 1/Weather B
+
+## POINTER 928
+Second Continent/20/21 (Basilisk) 2/Weather B
+
+## POINTER 929
+Second Continent/20/21 (Basilisk) 3/Weather B
+
+## POINTER 930
+Second Continent/20/21 (Spiky Polwigle)  1/Weather B
+
+## POINTER 931
+Second Continent/20/21 (Spiky Polwigle)  2/Weather B
+
+## POINTER 932
+Second Continent/20/21 (Spiky Polwigle)  3/Weather B
+
+## POINTER 933
+Second Continent/16/17 (Mantis)  1/Weather AB
+
+## POINTER 934
+Second Continent/16/17 (Mantis)  2/Weather AB
+
+## POINTER 935
+Second Continent/16/17 (Mantis)  3/Weather AB
+
+## POINTER 936
+Second Continent/16/17 (Basilisk) 1/Weather AB
+
+## POINTER 937
+Second Continent/16/17 (Basilisk) 2/Weather AB
+
+## POINTER 938
+Second Continent/16/17 (Basilisk) 3/Weather AB
+
+## POINTER 939
+Second Continent/16/17 (Basilisk) 4/Weather AB
+
+## POINTER 940
+Second Continent/16/17 (Tortoise) 1/Weather AB
+
+## POINTER 941
+Second Continent/16/17 (Tortoise) 2/Weather AB
+
+## POINTER 942
+Second Continent/16/17 (Tortoise) 3/Weather AB
+
+## POINTER 943
+Second Continent/16/17 (Tortoise) 4/Weather AB
+
+## POINTER 944
+Second Continent/16/17 (Filifolia: Eel) 1/Weather AB
+
+## POINTER 945
+Second Continent/16/17 (Filifolia: Eel) 2/Weather AB
+
+## POINTER 946
+Second Continent/16/17 (Filifolia: Eel) 3/Weather AB
+
+## POINTER 947
+Second Continent/16/17 (Chirpee: Bugle) 1/Weather B
+
+## POINTER 948
+Second Continent/16/17 (Chirpee: Bugle) 2/Weather B
+
+## POINTER 949
+Second Continent/16/17 (Chirpee: Bugle) 3/Weather B
+
+## POINTER 950
+Second Continent/15/22 (Mercenary/Dagger) 1/Weather AB
+
+## POINTER 951
+Second Continent/15/22 (Mercenary/Dagger) 2/Weather AB
+
+## POINTER 952
+Second Continent/15/22 (Mercenary/Dagger) 3/Weather AB
+
+## POINTER 953
+Second Continent/15/22 (Horse Eagle)  1/Weather AB
+
+## POINTER 954
+Second Continent/15/22 (Horse Eagle)  2/Weather AB
+
+## POINTER 955
+Second Continent/15/22 (Horse Eagle)  3/Weather AB
+
+## POINTER 956
+Second Continent/15/22 (Mantis)  1/Weather AB
+
+## POINTER 957
+Second Continent/15/22 (Mantis)  2/Weather AB
+
+## POINTER 958
+Second Continent/15/22 (Mantis)  3/Weather AB
+
+## POINTER 959
+Second Continent/15/22 (Crab Man) 1/Weather AB
+
+## POINTER 960
+Second Continent/15/22 (Crab Man) 2/Weather AB
+
+## POINTER 961
+Second Continent/15/22 (Crab Man) 3/Weather AB
+
+## POINTER 962
+Second Continent/14 (Leviathan's Claw/Katar) 1/Part 1/Weather AB
+
+## POINTER 963
+Second Continent/14 (Leviathan's Claw/Katar) 2/Part 1/Weather AB
+
+## POINTER 964
+Second Continent/14 (Leviathan's Claw/Katar) 3/Part 1/Weather AB
+
+## POINTER 965
+Second Continent/14 (Leviathan's Claw/Bowgun)  1/Part 1/Weather AB
+
+## POINTER 966
+Second Continent/14 (Leviathan's Claw/Bowgun)  2/Part 1/Weather AB
+
+## POINTER 967
+Second Continent/14 (Leviathan's Claw/Bowgun)  3/Part 1/Weather AB
+
+## POINTER 968
+Second Continent/14 (Leviathan's Claw/Katar) 1/Part 2a/Weather AB
+
+## POINTER 969
+Second Continent/14 (Leviathan's Claw/Katar) 2/Part 2a/Weather AB
+
+## POINTER 970
+Second Continent/14 (Leviathan's Claw/Katar) 3/Part 2a/Weather AB
+
+## POINTER 971
+Second Continent/14 (Leviathan's Claw/Bowgun)  1/Part 2a/Weather AB
+
+## POINTER 972
+Second Continent/14 (Leviathan's Claw/Bowgun)  2/Part 2a/Weather AB
+
+## POINTER 973
+Second Continent/14 (Leviathan's Claw/Bowgun)  3/Part 2a/Weather AB
+
+## POINTER 974
+Second Continent/14 (Leviathan's Claw/Katar) 1/Part 2b/Weather AB
+
+## POINTER 975
+Second Continent/14 (Leviathan's Claw/Katar) 2/Part 2b/Weather AB
+
+## POINTER 976
+Second Continent/14 (Leviathan's Claw/Katar) 3/Part 2b/Weather AB
+
+## POINTER 977
+Second Continent/14 (Leviathan's Claw/Bowgun)  1/Part 2b/Weather AB
+
+## POINTER 978
+Second Continent/14 (Leviathan's Claw/Bowgun)  2/Part 2b/Weather AB
+
+## POINTER 979
+Second Continent/14 (Leviathan's Claw/Bowgun)  3/Part 2b/Weather AB
+
+## POINTER 980
+Second Continent/13 (Spiky Polwigle)  1/Weather AB
+
+## POINTER 981
+Second Continent/13 (Spiky Polwigle)  2/Weather AB
+
+## POINTER 982
+Second Continent/13 (Spiky Polwigle)  3/Weather AB
+
+## POINTER 983
+Second Continent/13 (Mantis)  1/Weather AB
+
+## POINTER 984
+Second Continent/13 (Mantis)  2/Weather AB
+
+## POINTER 985
+Second Continent/13 (Mantis)  3/Weather AB
+
+## POINTER 986
+Second Continent/13 (Filifolia: Nepenthes) 1/Weather AB
+
+## POINTER 987
+Second Continent/13 (Filifolia: Nepenthes) 2/Weather AB
+
+## POINTER 988
+Second Continent/13 (Filifolia: Nepenthes) 3/Weather AB
+
+## POINTER 989
+Second Continent/12 (Crab Man: Sword) 1/Weather AB
+
+## POINTER 990
+Second Continent/12 (Crab Man: Sword) 2/Weather AB
+
+## POINTER 991
+Second Continent/12 (Crab Man: Sword) 3/Weather AB
+
+## POINTER 992
+Second Continent/12 (Crab Man: Base Type) 1/Weather AB
+
+## POINTER 993
+Second Continent/12 (Crab Man: Base Type) 2/Weather AB
+
+## POINTER 994
+Second Continent/12 (Crab Man: Base Type) 3/Weather AB
+
+## POINTER 995
+Second Continent/15 (Basilisk: Evolved) 1/Weather AB
+
+## POINTER 996
+Second Continent/15 (Basilisk: Evolved) 2/Weather AB
+
+## POINTER 997
+Second Continent/15 (Eagle: Horse)  1/Weather AB
+
+## POINTER 998
+Second Continent/15 (Eagle: Horse)  2/Weather AB
+
+## POINTER 999
+Second Continent/15 (Crab Man: Base Type) 1/Weather AB

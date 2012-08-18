@@ -1,0 +1,145 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS30_021)Ugh, I'm out of water...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS30_022)Don't go drinking all of it.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS30_023)Thanks, <STR>(YUR).
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS30_024)Hey...do you think...we 
+could take five...?
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VS30_025)And you say I'm the one 
+always wantin' ta rest.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS30_026)Yeaaaaaaah!
+
+## POINTER 6
+<STR>(RAV)
+<VOICE>(VS30_027)Huh? The heat's gone 
+and baked his brains!
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS30_028)Water!
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS30_029)Oh, <STR>(KAR), be careful. 
+You'll hurt yourself 
+if you fall!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS30_030)Heh... Looks like he still 
+had plenty of energy.
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VS30_031)Wait up for old <STR>(RAV)!
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS30_032)And here I thought 
+they couldn't bear to 
+go another step.
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS30_033)I think I'm in heaven.
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS30_034)I thought we were 
+really done for.
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VS30_035)Hey now. Gotta be tougher 
+than that if you're gonna 
+save the world, kids.
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS30_036)Shut up.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS30_037)It'll be dangerous if we just 
+keep going like this.
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS30_038)If we turn back now, though, 
+we'll only disappoint those 
+poor children.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS30_039)We've got to keep looking 
+as long as we can.
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS30_040)If we're lucky, we 
+may even find Phaeroh 
+along the way.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS30_041)That's right. And with this 
+spring, we shouldn't have any 
+trouble keeping up the search.
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VS30_042)If you've already eaten the poison, 
+you may as well lick the plate.
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS30_043)Yeah, you're right. We've come this far.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS30_044)How about your water bottle, 
+<STR>(KAR)? Did you fill it up?
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS30_045)Here, I filled them for 
+you. Here's yours, <STR>(RIT).
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS30_046)Thanks, <STR>(JUD)!
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS30_047)Th-thanks...
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS30_048)Everybody else all set?
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS30_049)Yes.
+
+## POINTER 29
+<STR>(RAP)
+<VOICE>(VS30_050)Woof!
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS30_051)All right, let's keep moving.

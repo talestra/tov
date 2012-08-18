@@ -1,0 +1,38 @@
+## POINTER 0
+Adecor
+<VOICE>(VS04_001)You there, fugitive! 
+Halt, I say!
+
+## POINTER 1
+Boccos
+<VOICE>(VS04_002)The jig is up!
+
+## POINTER 2
+Leblanc
+<VOICE>(VS04_003)Fooools! Enough
+grandstanding,
+arrest him!
+
+## POINTER 3
+<STR>(EST)
+<VOICE>(VS04_004)W-what should we do?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS04_005)First you pick up one of these...
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS04_006)Then go like this!
+
+## POINTER 6
+Boccos
+<VOICE>(VS04_008)Oof!
+
+## POINTER 7
+Adecor
+<VOICE>(VS04_007)Ow!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS04_009)Let's get to the lower quarter.

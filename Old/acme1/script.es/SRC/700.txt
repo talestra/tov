@@ -1,0 +1,219 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280849696]
+
+¡Eh! ¡La chica que cura!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280848322]
+<STR>(EST_P)
+¡Hola!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(YUR)
+Las flores están más rojas 
+que nunca... La maldición
+va a peor, ¿eh?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280848322]
+<STR>(EST_P)
+Estoy segura de que te
+equivocas, <STR>(YUR).
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280848322]
+<STR>(YUR)
+¿Me equivoco? ¿En qué?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280848322]
+<STR>(EST_P)
+Este velo... 
+Me lo ha contado...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Hace mucho tiempo, aquí
+vivía un príncipe de buen
+corazón llamado Jarre.<PAGE>Adoraba a las flores,
+los insectos, la luna, el sol
+y las estrellas del cielo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Un día, Jarre halló una semilla.
+La llevó a lo más alto de una
+gran colina y la plantó allí.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Con el tiempo, germinó y creció
+un tronco largo y delgado de árbol,
+pero no floreció.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+El primer ministro, impaciente, dijo:
+«No me sirve de nada si no florece.
+Deberíais cortarlo». Pero Jarre contestó:
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+«Aunque no florezca, se esfuerza
+con todo su ser para crecer.
+¡Cortarlo ahora sería una crueldad!».
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Al oírlo, el árbol se 
+transformó en una joven
+que se presentó ante Jarre.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Él se enamoró perdidamente de su piel blanca
+y su hermosa figura. Una noche de luna llena
+le pidió que se casara con él.<PAGE>Tras de la boda,
+los dos eran más
+felices que nunca.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Pero el primer ministro, enfadado
+por esta unión, ordenó que echaran
+a la joven de palacio.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280848322]
+<STR>(EST_P)
+Jarre estaba tan triste que se encerró en 
+el castillo. Lloró día y noche, incapaz de
+pensar en otra cosa que en su amor perdido.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Cuando la joven lo supo, alargó el tronco
+y sus ramas hasta que varias flores del
+blanco más puro florecieron de las puntas.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Jarre lo vio desde su ventana y dejó de 
+llorar. Salió afuera por primera vez 
+desde la marcha de la joven.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Se sentó bajo las flores
+recién abiertas y oyó
+la voz de la joven.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+«No lloréis. Siempre
+podréis encontrarme aquí».<PAGE>Jarre se dio cuenta de que
+su amada era en realidad el árbol,
+transformado en una bella joven.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280848322]
+<STR>(EST_P)
+Cuando besó con dulzura la corteza
+del árbol que había amado, todas 
+las flores se volvieron rojas.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Por eso, estas flores
+simbolizan el amor eterno,
+que vence todos los obstáculos.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280848685]
+
+Guau... ¡Así que 
+por eso son rojas!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+
+¡Así que eso fue lo
+que pasó de verdad!
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280848685]
+
+¡Gracias por esta
+historia tan bonita!
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280849423]
+<STR>(EST_P)
+Ha sido un placer.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+
+¡Deberías contársela 
+también al alcalde!
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280849423]
+<STR>(KAR)
+Guau, no sabía nada 
+de todo esto, <STR>(EST_P).
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(YUR)
+Sí, ¿cuándo
+lo descubriste?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+P-Pues... La verdad es 
+que no lo descubrí... 
+Me... lo he inventado.
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280849423]
+<STR>(KAR)
+Pero has dicho que
+el velo te...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Era mentira.
+Lo siento...<PAGE>Estaba mirando el velo
+y la historia me vino
+de repente a la cabeza...
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280849423]
+<STR>(KAR)
+¡Vaya, <STR>(EST_P)! ¡Tienes mucho 
+talento para inventar historias!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(JUD)
+Un talento oculto, ¿eh? 
+Nunca dejas de asombrarme.
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280849423]
+<STR>(EST_P)
+Oh, je, je...
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280849423]
+<STR>(YUR)
+¿Nunca has pensado en escribir
+cuentos para niños?
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(EST_P)
+Pu-pues no...
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280849423]
+<STR>(RAV)
+¡No puedes 
+forzarla a
+hacer argo asín!
+
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1298764600]
+<STR>(KAR)
+Además, <STR>(EST_P), 
+¡tú eres la Princesa! ♪
+
+## POINTER 38 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280849423]
+<STR>(EST_P)
+Sí, es verdad.
+
+## POINTER 39 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1280849423]
+<STR>(EST_P)
+Cuentos infantiles, mm... 
+No pasará nada si me lo pienso 
+un poco, ¿no?

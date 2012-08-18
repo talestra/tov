@@ -1,0 +1,69 @@
+## POINTER 0
+Yu
+Oh, you're that guild from last time...
+Many thanks for your help back then.
+
+## POINTER 1
+<STR>(KAR)
+Hey, we should be thanking 
+you for giving us the job.
+
+## POINTER 2
+Yu
+...Actually, you've come at a perfect time...
+I have a favor I'd like to ask.
+
+## POINTER 3
+<STR>(JUD)
+What is it?
+
+## POINTER 4
+Yu
+My friend Nobis--the one to whom 
+you delivered that book--is looking 
+for people to do a job.<PAGE>Would you mind going 
+and hearing what 
+he has to say?
+
+## POINTER 5
+<STR>(KAR)
+Well...
+
+## POINTER 6
+<STR>(YUR)
+Hold on. Can we take 
+a job without asking 
+the Union first?
+
+## POINTER 7
+<STR>(KAR)
+The Union doesn't keep 
+other guilds from doing 
+their own work.<PAGE>The Union system for getting jobs 
+is just to help out guilds that 
+couldn't get work on their own.
+
+## POINTER 8
+<STR>(JUD)
+So we just 
+moved up as 
+a guild.
+
+## POINTER 9
+<STR>(KAR)
+Exactly. And this way, there's 
+no finder's fee, so we get 
+all the money ourselves!
+
+## POINTER 10
+<STR>(YUR)
+Huh.<PAGE>All right, we'll go talk to 
+your friend and decide whether 
+or not to take the job.
+
+## POINTER 11
+Yu
+Thank you. He's most 
+likely in Torim harbor 
+right now.<PAGE>Please go there and listen 
+to what he has to say.

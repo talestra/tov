@@ -1,0 +1,29 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1287069811]
+<STR>(RIT)
+Menudo desastre...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1287069811]
+<STR>(KAR)
+Vamos allá.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1287069811]
+<STR>(EST_P)
+¡Mirad! ¡Allí!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1287069811]
+<STR>(YUR)
+¡<STR>(FRE)!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291156250]
+<STR>(RAV)
+Parece que necesita
+que l'echemos una mano.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1287069811]
+<STR>(JUD)
+No nos rodearán si avanzamos
+hasta el lado del precipicio.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1287069811]
+<STR>(YUR)
+¡Vamos! ¡No os separéis!

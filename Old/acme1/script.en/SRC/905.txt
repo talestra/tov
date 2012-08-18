@@ -1,0 +1,45 @@
+## POINTER 0
+<STR>(YUR)
+Frankly, after all that big talk, I was 
+expecting a more impressive showing...
+
+## POINTER 1
+<STR>(RIT)
+Wha! No, no, you've 
+got it all wrong!<PAGE>I'm just feeling a little 
+under the weather, is all!
+
+## POINTER 2
+
+Ho ho! Feel free to come back for a 
+rematch when you're feeling better!
+
+## POINTER 3
+<STR>(YUR)
+Heh heh heh. What happened, 
+genius mage?
+
+## POINTER 4
+<STR>(RIT)
+Sh-shut 
+up, you!!
+
+## POINTER 5
+
+Ho ho! All that anger isn't 
+going to help you win!
+
+## POINTER 6
+<STR>(YUR)
+I'm telling you, give up now! You're 
+just going to keep losing!
+
+## POINTER 7
+<STR>(RIT)
+I can't stand it, I can't stand 
+it, I can't staaaand it!!
+
+## POINTER 8
+
+Hmmm... Perhaps I was 
+wrong about you...

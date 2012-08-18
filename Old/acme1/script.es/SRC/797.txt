@@ -1,0 +1,71 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848446]
+
+Oh, qué grata sorpresa.
+Esperaba verlos otra vez.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1294220886]
+<STR>(YUR)
+¿Ah, sí? ¿Y qué sablazo
+nos vas a meter esta vez?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848446]
+
+Por favor, queridos visitantes,
+¡no sean así! Después de todos
+los servicios que les he dado...<PAGE>Lo cierto es que quería pedirles
+un favor, si no les importa.
+¿Me escucharán?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290432316]
+<STR>(RAV)
+Asumo que recibiremos
+argo a cambio.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848446]
+
+¡Por supuesto, por supuesto!
+Me encantará compensar su ayuda.<PAGE>¿Les valdría un pase
+gratuito al manantial
+para toda la vida?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848446]
+<STR>(KAR)
+¿Quieres decir que podremos
+entrar gratis cuando queramos?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848446]
+
+Sí, sí, eso mismo.
+Podrán entrar y salir
+cuantas veces quieran.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1290432813]
+<STR>(RIT)
+¿Reservar el balneario cuesta 600.000 gald
+y nos vas a dar una admisión gratis de por vida?
+¿A quién quieres que matemos?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848446]
+
+No, no, nada de eso. Verán,
+dentro de poco llegará un grupo
+de clientes, y nos falta gente.<PAGE>Si me pudiesen ayudar con
+ciertas tareas del balneario,
+se lo agradecería muchísimo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848446]
+<STR>(EST_P)
+¡Ayudémoslo! Parece que lo
+pasará muy mal si no lo hacemos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848446]
+<STR>(YUR)
+Venga, vale. No se puede
+disuadir a la Princesa
+una vez se pone así.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298848446]
+
+¡Excelente! Encontrarán todo lo necesario en la
+sala del personal. Por favor, vayan y pónganse
+los uniformes de empleados adecuados.

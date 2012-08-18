@@ -1,0 +1,28 @@
+## POINTER 0
+<STR>(KAR)
+Hi there!
+
+## POINTER 1
+
+Hey, good to see you. 
+Looking for more work?<PAGE>Unfortunately, I don't have 
+any jobs for you right now.
+
+## POINTER 2
+<STR>(YUR)
+Hmm...
+I guess sometimes there's just
+not enough work to go around.
+
+## POINTER 3
+<STR>(KAR)
+Yeah, we can't always count on 
+there being jobs for us to do.
+
+## POINTER 4
+<STR>(JUD)
+We can always try again later.
+
+## POINTER 5
+<STR>(RAP)
+*Aggressive bark*

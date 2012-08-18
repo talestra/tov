@@ -1,0 +1,33 @@
+## POINTER 283 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264244484]
+¿Dar la piedra verde brillante,
+la tinta negro profundo,
+el metal extraordinario y
+500.000 gald?
+
+## POINTER 284 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835573]
+¿Estás preparado?
+
+## POINTER 285 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835573]
+¿Deseas salir?
+
+## POINTER 286 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835573]
+¿Deseas descansar?
+
+## POINTER 287 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835623]
+¿Deseas quedarte?
+
+## POINTER 288 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265224739]
+¿Desafiar al maestro de los dados?
+
+## POINTER 289 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263857032]
+¿Echar una carrera con Ba'ul?
+
+## POINTER 290 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835623]
+<01>(20,30)
+
+## POINTER 291 [t:1;r:1;ru:memnoch;user:xander;time:1264686374]
+Un entelechia...
+
+## POINTER 292 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263835623]
+Qué debería hacer...
+Ojalá tuviera 500.000 gald...

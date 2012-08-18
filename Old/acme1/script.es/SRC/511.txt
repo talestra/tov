@@ -1,0 +1,101 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(KAR)
+<VOICE>(VS55_087)¿En serio Undine está aquí?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(EST_P)
+<VOICE>(VS55_088)Sí. No puedo explicarlo muy bien,
+pero está aquí. La siento.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(RIT)
+<VOICE>(VS55_089)Bueno, fue creada a partir de <STR>(EST_P), 
+así que tal vez estén conectadas.<PAGE><VOICE>(VS55_090)Qué interesante...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523433]
+<STR>(YUR)
+<VOICE>(VS55_091)Oye, las investigaciones para luego, ¿vale?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(RIT)
+<VOICE>(VS55_092)Lo sé, lo sé, no hace falta que...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1290372702]
+<STR>(KAR)
+<VOICE>(VS55_093)¡¿Q-Qué ha sido eso?!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(RAV)
+<VOICE>(VS55_094)Eso no es donde...
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(JUD)
+<VOICE>(VS55_095)Ha venido de Zaude.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(RIT)
+<VOICE>(VS55_096)El adephagos... No...
+¿Zaude ha dejado de funcionar?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1290372702]
+<STR>(RAV)
+<VOICE>(VS55_097)Oh, oh. ¿Crees qu'hemos metío
+la pata en argo y ha pasao esto?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(EST_P)
+<VOICE>(VS55_098)Esa es la verdadera catástrofe...
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523433]
+<STR>(YUR)
+<VOICE>(VS55_099)Ese bicho tiene toda la pinta de
+poder comerse el mundo entero.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(KAR)
+<VOICE>(VS55_100)¿Y qué se supone que
+vamos a hacer con algo así?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(YUR)
+<VOICE>(VS55_101)Oye, <STR>(RIT). Duke dijo
+que el adephagos
+nació del aer.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(RIT)
+<VOICE>(VS55_102)¿Eh?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286523433]
+<STR>(YUR)
+<VOICE>(VS55_103)Así que si los espíritus
+convierten el aer en materia...<PAGE><VOICE>(VS55_104)¿Podríamos hacer algo con el adephagos
+si tuviésemos suficientes espíritus?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298575996]
+<STR>(RIT)
+<VOICE>(VS55_105)No lo sé... Es que... no lo sé.<PAGE><VOICE>(VS55_106)Pero... creo que
+vale la pena intentarlo.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(EST_P)
+<VOICE>(VS55_107)¡Intentémoslo, <STR>(YUR)!
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(YUR)
+<VOICE>(VS55_108)Decidido.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(JUD)
+<VOICE>(VS55_109)¡¿Ba'ul?!<PAGE><VOICE>(VS55_110)Sí, ya veo. 
+Gracias.<PAGE><VOICE>(VS55_111)Los sirvientes del adephagos están
+atacando Nordopólica.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298575996]
+<STR>(EST_P)
+<VOICE>(VS55_112)¡...!
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286474340]
+<STR>(YUR)
+<VOICE>(VS55_113)Como que no podemos
+ignorar algo así.<PAGE><VOICE>(VS55_114)¡Vamos!

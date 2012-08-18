@@ -1,0 +1,116 @@
+## POINTER 0
+<STR>(YUR)
+End of the line, boys.
+
+## POINTER 1
+
+They've caught us...!
+
+## POINTER 2
+
+...Our orders were to 
+eliminate all witnesses, 
+no matter what...!
+
+## POINTER 3
+
+B-but...
+
+## POINTER 4
+
+Enough grumbling, do it!
+
+## POINTER 5
+
+Yes sir...!
+
+## POINTER 6
+
+I'll just use this...
+
+## POINTER 7
+
+Agh!
+
+## POINTER 8
+<STR>(JUD)
+Say goodbye!
+
+## POINTER 9
+
+Gaah!
+
+## POINTER 10
+<STR>(RIT)
+Argh, this wouldn't happen if amateurs would 
+keep their clumsy hands away from blastia!
+
+## POINTER 11
+
+Eeeek!
+
+## POINTER 12
+
+Damn it, you just wait...
+
+## POINTER 13
+<STR>(KAR)
+<STR>(RIT), it's not safe!
+
+## POINTER 14
+<STR>(RIT)
+B-but...
+Oh no, the core 
+is burnt to a crisp...
+
+## POINTER 15
+<STR>(YUR)
+It's too late...
+
+## POINTER 16
+<STR>(JUD)
+......
+
+## POINTER 17
+<STR>(YUR)
+Did your walk have to do with going 
+after this blastia, by any chance?
+
+## POINTER 18
+<STR>(JUD)
+What could you possibly be talking about...?
+
+## POINTER 19
+<STR>(YUR)
+Well, it ended up destroyed 
+in the end, anyway.
+
+## POINTER 20
+<STR>(JUD)
+......
+
+## POINTER 21
+<STR>(YUR)
+It's gotta be hard doing it all by yourself, 
+trying to keep it all a secret from everyone.
+
+## POINTER 22
+<STR>(JUD)
+I know... You can't even 
+go for a nice walk without 
+someone butting in.
+
+## POINTER 23
+<STR>(YUR)
+...You still won't tell us your reasons 
+for going around and destroying blastia?
+
+## POINTER 24
+<STR>(JUD)
+...Yeah. I still...think that 
+it's something that you're just 
+as well off not knowing.
+
+## POINTER 25
+<STR>(YUR)
+......

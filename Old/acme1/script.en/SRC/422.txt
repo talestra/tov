@@ -1,0 +1,128 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS40_010)Man... This is amazing!
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS40_011)Hey, look...!
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS40_012)They're all Krityans...
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS40_013)A-are they welcoming us?
+
+## POINTER 4
+
+<VOICE>(VS40_014)Now this is a surprise. 
+These visitors really are 
+from the outside!
+
+## POINTER 5
+
+<VOICE>(VS40_015)Well, well, so it 
+was you who called 
+on Myorzo?
+
+## POINTER 6
+
+<VOICE>(VS40_016)And what is this? How 
+strange. What curious 
+ornaments you wear.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS40_017)Hey, it's not polite 
+to stare, you know.
+
+## POINTER 8
+
+<VOICE>(VS40_018)How were such children as yourselves 
+able to come here?
+
+## POINTER 9
+
+<VOICE>(VS40_019)Is this monster an Entelexeia, 
+perhaps?
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS40_020)It's Ba'ul. Have you 
+forgotten him?
+
+## POINTER 11
+
+<VOICE>(VS40_021)Oh, you're the one who 
+descended to the earth 
+some years ago, right...?
+
+## POINTER 12
+
+<VOICE>(VS40_022)...I believe... <STR>(JUD), yes 
+<STR>(JUD) was your name.<PAGE><VOICE>(VS40_023)There was something you 
+had to attend to, and...
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS40_024)Are you about finished? 
+We would like to meet 
+with the elder.
+
+## POINTER 14
+
+<VOICE>(VS40_025)Please, feel free 
+to do as you wish.
+
+## POINTER 15
+
+<VOICE>(VS40_026)He may be out for a walk again, though.
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS40_027)Okay, so they’re a bit weird.
+
+## POINTER 17
+<STR>(RIT)
+<VOICE>(VS40_028)That's actually called "rude."
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS40_029)You're one to talk, <STR>(RIT).
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS40_030)All Krityans are 
+pretty much like that.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS40_031)Like what?
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VS40_032)Oh, easygoing, unafraid. We 
+are dreamers and optimists, 
+for better or worse.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS40_033)So is the elder 
+like that, too?
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VS40_034)How should I put it...? 
+He's the perfect elder 
+for weird people.
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS40_035)Sounds like quite a 
+unique individual. I'm 
+tryin' ta be nice, here...
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS40_036)This should be interesting...

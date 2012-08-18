@@ -1,0 +1,68 @@
+## POINTER 100 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+¡Saltad!
+
+## POINTER 101 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Los aliados usarán a menudo el salto.
+
+## POINTER 102 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+¡Guau, guau!
+
+## POINTER 103 [t:1;r:1;ru:memnoch;user:memnoch;time:1297104085]
+Los aliados usarán la habilidad Recuperar.
+(Solo cuando la habilidad esté equipada).
+
+## POINTER 104 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Dejádmelo a mí
+
+## POINTER 105 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Los aliados no se acercarán al enemigo.
+
+## POINTER 106 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+¡A por todas!
+
+## POINTER 107 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Irán a por el enemigo con todas sus fuerzas.
+
+## POINTER 108 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Moderado
+
+## POINTER 109 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Cambiarán la estrategia según las circunstancias.
+
+## POINTER 110 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Defender
+
+## POINTER 111 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+No atacarán y mantendrán la guardia.
+Usarán artes curativas y de apoyo si es necesario.
+
+## POINTER 112 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Ahorrar TP
+
+## POINTER 113 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Usarán sobre todo combos normales e intentarán
+no consumir TP ni usar objetos.
+
+## POINTER 114 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Orden de jugador 1
+
+## POINTER 115 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Orden personalizada por el jugador.
+
+## POINTER 116 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Orden de jugador 2
+
+## POINTER 117 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Orden personalizada por el jugador.
+
+## POINTER 118 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Orden de jugador 3
+
+## POINTER 119 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Orden personalizada por el jugador.
+
+## POINTER 120 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Orden de jugador 4
+
+## POINTER 121 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812846]
+Orden personalizada por el jugador.

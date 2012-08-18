@@ -1,0 +1,48 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272283269]
+<STR>(KAR)
+¿Qu-qué es eso?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272283269]
+<STR>(KAR)
+¡Uaaaah!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227114]
+<STR>(KAR)
+¡E-Es uno de los monstruos
+que atacaron Halure!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272283269]
+<STR>(YUR)
+Un superviviente, ¿eh?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227114]
+<STR>(RIT)
+Si lo dejamos marchar, seguro
+que vuelve a atacar el pueblo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227114]
+<STR>(EST_P)
+Pero Halure tiene otra vez la barrera.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272283269]
+<STR>(YUR)
+Aun así, no sé cómo hacen allí para dormir
+por las noches con monstruos así pululando
+al otro lado del barrera.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272283269]
+<STR>(KAR)
+¡Va-vamos, hombre!
+¡Si ha estado tirado!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272283269]
+<STR>(EST_P)
+Pero puede que haya más...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298227114]
+<STR>(KAR)
+¡N-No me preocupa, en serio!
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272283269]
+<STR>(YUR)
+Bueno, esperemos que no sea el caso.

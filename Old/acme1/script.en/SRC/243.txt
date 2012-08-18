@@ -1,0 +1,121 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS23_075)<STR>(JUD)?
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS23_076)Don't! It's too dangerous!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS23_077)Look who's talking.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS23_078)I'll be fine, you 
+go on ahead.
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS23_079)Come on, quickly!
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS23_080)My, you're a stubborn one.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS23_081)Huh? Why's it 
+taking off?
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS23_082)<STR>(YUR), Lady <STR>(EST), 
+wait!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS23_083)Here comes the cavalry.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS23_084)I'm sorry, <STR>(FRE). I realize 
+now I can't just go back 
+to the capital.<PAGE><VOICE>(VS23_085)There are too many things 
+I still need to know.
+
+## POINTER 10
+<STR>(FRE)
+<VOICE>(VS23_086)Surely, after returning to 
+the capital you can...
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS23_087)The voices of the people suffering in 
+Nor Harbor never reached the capital.<PAGE><VOICE>(VS23_088)I won't achieve anything 
+if I'm not willing to approach 
+these problems head on...<PAGE><VOICE>(VS23_089)I've come to realize that 
+during my travels. That's why! 
+That's why I have to keep going!
+
+## POINTER 12
+<STR>(FRE)
+<VOICE>(VS23_090)Your Highness...
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS23_091)<STR>(FRE), get this core back 
+to the lower quarter!
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS23_092)<STR>(YUR)!
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS23_093)I won't be going back to the capital anytime 
+soon. I'm going to start up a guild.<PAGE><VOICE>(VS23_094)Give my regards to Hanks 
+and everyone else.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS23_095)<STR>(YUR)...!
+
+## POINTER 17
+<STR>(FRE)
+<VOICE>(VS23_096)...A guild. So that's 
+what you meant by doing 
+things your own way.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS23_097)Yeah, I've finally made up my mind.
+
+## POINTER 19
+<STR>(FRE)
+<VOICE>(VS23_098)...That's fine, but what 
+about Princess--
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS23_099)Take care, <STR>(FRE).
+
+## POINTER 21
+<STR>(FRE)
+<VOICE>(VS23_100)<STR>(YUR)...!
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS23_101)I suppose I should've talked 
+to you first, but here's 
+to our new guild, <STR>(KAR).
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS23_102)Right!
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS23_103)All right. Let's go. If we hang around 
+here much longer, some of those 
+Knights are bound to come after us.

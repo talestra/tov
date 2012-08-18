@@ -1,0 +1,47 @@
+## POINTER 0
+
+Welcome to Palestralle's famous 
+Hundred Man Melee!!<PAGE>I never thought I would see this
+day!! This is the ultimate challenge!<PAGE>Everything up until now has just
+been practice for the main event!<PAGE>The legendary Hundred Man 
+Melee is about to begin!
+
+## POINTER 1
+<STR>(YUR)
+Yraaahhh!
+
+## POINTER 2
+<STR>(EST_P)
+Okay... I can do this!
+
+## POINTER 3
+<STR>(KAR)
+Th-the legendary Hundred 
+Man Melee... If I win this, 
+I'll be a hero...right?
+
+## POINTER 4
+<STR>(RIT)
+The legendary Hundred Man Melee...
+Hmm, this could be fun.
+
+## POINTER 5
+<STR>(RAV)
+Wait, I thought they said "Hungry
+Man Melee"...Oh well... Might as
+well give it my best shot.
+
+## POINTER 6
+<STR>(JUD)
+A hundred opponents, eh? 
+Heh. Bring 'em on!
+
+## POINTER 7
+<STR>(RAP)
+Grrrrrr!!
+
+## POINTER 8
+
+All right, show us what 
+you're made of!<PAGE>Ready... 
+Fight!

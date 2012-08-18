@@ -1,0 +1,11 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273478449]
+<STR>(FRE)
+<VOICE>(VS15_262)¡Maldición! ¡Se va a escapar!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272835488]
+Ragou
+<VOICE>(VS15_263)¡Preparad mi barco!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298239795]
+<STR>(YUR)
+<VOICE>(VS15_264)¡¿Adónde te crees que vas?!

@@ -1,0 +1,300 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(YUR)
+<VOICE>(VS31_055)Con permiso.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(KAR)
+<VOICE>(VS31_056)¿Eh?... ¡Oye, ese es...!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(RIT)
+<VOICE>(VS31_057)Es...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+Duke
+<VOICE>(VS31_058)Vosotros... ¿Cómo habéis
+llegado a este sitio?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+<STR>(YUR)
+<VOICE>(VS31_059)¿Qué quieres decir con «cómo»? 
+A pata. Es decir, atravesando
+el desierto.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+Duke
+<VOICE>(VS31_060)Entiendo... Pero aun así, 
+¿cómo habéis podido...?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(EST_P)
+<VOICE>(VS31_061)¿...?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+Duke
+<VOICE>(VS31_062)No importa... ¿Por qué
+razón habéis venido?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+<STR>(YUR)
+<VOICE>(VS31_063)Nos picaba la curiosidad por esto de aquí.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+Duke
+<VOICE>(VS31_064)Habéis debido pasar grandes
+vicisitudes para conseguirlo.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+<STR>(YUR)
+<VOICE>(VS31_065)En realidad... casi podríamos
+decir que nos cayó del cielo.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+Duke
+<VOICE>(VS31_066)Mmm... Todo un milagro.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+<STR>(RIT)
+<VOICE>(VS31_067)Tienes planeado crear
+una barrera blastia,
+¿verdad?<PAGE><VOICE>(VS31_068)Eres libre de fingir que eres
+un sabio, pero haz el favor
+de no intentar hacer eso.<PAGE><VOICE>(VS31_069)¿A quién se le pasa siquiera
+por la cabeza hacer una usando
+algo que no es un núcleo?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+Duke
+<VOICE>(VS31_070)Es una masa de aer
+solidificado. Tan
+solo carece de fórmula.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+<STR>(RIT)
+<VOICE>(VS31_071)¿Que carece de fórmula?
+¡¿Qué quieres decir?!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+Duke
+<VOICE>(VS31_072)El cristal cielo claro es una
+muestra de lo que se conoce
+comúnmente como una «apátheia».
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+<STR>(RAV)
+<VOICE>(VS31_073)¡Así que eso es una apátheia!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+Duke
+<VOICE>(VS31_074)Sabed también que no
+soy el sabio.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(RIT)
+<VOICE>(VS31_075)¿Eh?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+Duke
+<VOICE>(VS31_076)Dicho ser ya no existe.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(YUR)
+<VOICE>(VS31_077)Bueno, pues vaya problema.
+En ese caso me temo que tenemos
+que pedirte que nos la devuelvas.
+
+## POINTER 21 [t:1;r:1;ru:xander;user:xander;time:1283289246]
+Duke
+<VOICE>(VS31_078)
+Ni la humanidad ni yo
+precisamos del uso
+de este objeto.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(RAV)
+<VOICE>(VS31_079)¡¿Ein, qué haces?! 
+¡Tasca el freno, Filomeno!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(RIT)
+<VOICE>(VS31_080)¡Es el mismo fenómeno 
+que vimos en Keiv Moc!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(RAV)
+<VOICE>(VS31_081)Aah, tío. Justo ahora
+que había pillao una.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981310]
+Duke
+<VOICE>(VS31_082)Las apátheia no traen sino
+caos a la humanidad. Es mejor
+convertirlas de nuevo en aer.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+<STR>(RIT)
+<VOICE>(VS31_083)
+¿Convertirlo en aer? 
+¿Es eso lo que acabas de hacer?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(YUR)
+<VOICE>(VS31_084)Sigue sin ser razón
+para ir por ahí rompiendo
+las cosas de los demás.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(EST_P)
+<VOICE>(VS31_085)¿No hacía falta el cristal cielo claro,
+es decir, la apátheia, para salvar
+este poblado de los monstruos?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+Duke
+<VOICE>(VS31_086)Este lugar no necesita barreras,
+ni tampoco ser salvado.
+<PAGE><VOICE>(VS31_087)Es un sitio bendecido
+por una calma imperecedera.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(YUR)
+<VOICE>(VS31_088)Ahora que lo dices,
+está muy tranquilo por aquí.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(EST_P)
+<VOICE>(VS31_089)Pero aun así, todavía quedan
+monstruos como Phaeroh cerca.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+Duke
+<VOICE>(VS31_090)¿Cómo es que sabéis
+de Phaeroh?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(YUR)
+<VOICE>(VS31_091)Yo podría preguntarte lo mismo.
+De hecho, parece que
+lo conoces en persona.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+<STR>(EST_P)
+<VOICE>(VS31_092)Cuéntenos lo que
+sepa, por favor.<PAGE><VOICE>(VS31_093)Phaeroh dijo que
+yo era un «veneno».
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+Duke
+<VOICE>(VS31_094)Entiendo...
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(EST_P)
+<VOICE>(VS31_095)Sabe algo al respecto, ¿verdad?
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+Duke
+<VOICE>(VS31_096)
+En este mundo existe un ser cuyo
+poder desprecian los entelechia.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(EST_P)
+<VOICE>(VS31_097)¿Se refiere... a mí?
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+Duke
+<VOICE>(VS31_098)
+Se conoce a estos seres con el nombre
+de «Hijos de la Luna Llena».
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+<STR>(EST_P)
+<VOICE>(VS31_099)Hijos de la Luna Llena... Como en la leyenda...
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+<STR>(EST_P)
+<VOICE>(VS31_100)Y con «entelechia», 
+¿se refiere a Phaeroh?
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+Duke
+<VOICE>(VS31_101)En efecto.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551559]
+<STR>(EST_P)
+<VOICE>(VS31_102)Pero ¿qué tienen estos entelechia
+contra mí... contra una Hija
+de la Luna Llena?<PAGE><VOICE>(VS31_103)¿Qué es ese poder que tenemos
+los Hijos de la Luna Llena
+que ellos odian tanto?
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+Duke
+<VOICE>(VS31_104)La respuesta a eso se encuentra
+únicamente en el corazón de
+los propios entelechia.
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(EST_P)
+<VOICE>(VS31_105)Es decir, que no tenemos
+más remedio que preguntarle
+directamente a Phaeroh.
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+Duke
+<VOICE>(VS31_106)
+No seas insensata. Ante Phaeroh
+una Hija de la Luna Llena no hallará
+sino la muerte.
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(EST_P)
+<VOICE>(VS31_107)¡Pero...!
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(RIT)
+<VOICE>(VS31_108)<STR>(EST_P), déjalo ya.
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(KAR)
+<VOICE>(VS31_109)Oíd, Regaey... quiero decir, Yeager,
+el de Portal de Ruinas, mencionó
+antes a los entelechia, ¿no?
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(RAV)
+<VOICE>(VS31_110)Argo asín como que los
+entelechia eran la raza
+antigua que creó Nordopólica.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:memnoch;time:1294241111]
+<STR>(RIT)
+<VOICE>(VS31_111)
+Entonces, ¿Phaeroh fundó Nordopólica?
+No me parece posible.
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+Duke
+<VOICE>(VS31_112)Marchaos. Aquí ya no queda
+nada para vosotros.
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+<STR>(RIT)
+<VOICE>(VS31_113)¡Espera! ¡Antes quiero
+preguntarte una cosa!<PAGE><VOICE>(VS31_114)¿Qué hacías en
+aquel aer krene?<PAGE><VOICE>(VS31_115)¡¿Se puede saber quién eres
+y qué es esa espada que llevas?!
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:memnoch;time:1283098209]
+Duke
+<VOICE>(VS31_116)Tales asuntos escapan
+a tu comprensión.<PAGE><VOICE>(VS31_117)No vuelvas a preguntar por ello.
+Idos. No tengo nada más que decir.
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(RIT)
+<VOICE>(VS31_118)¡¿Vas a escaquearte?!
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:xander;time:1280145045]
+<STR>(YUR)
+<VOICE>(VS31_119)<STR>(RIT).

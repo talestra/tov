@@ -1,0 +1,114 @@
+## POINTER 0
+
+Hello, and welcome 
+to Denebola Inn!<PAGE>Don't worry about paying.
+
+## POINTER 1
+<STR>(RIT)
+Huh? Why?
+
+## POINTER 2
+
+Well, you see, an important official 
+is visiting the mayor's house right 
+now, and it's by his orders.<PAGE>The government's handling the money for the 
+inn, so that anyone can stay here for free.
+
+## POINTER 3
+<STR>(JUD)
+That must be for all the refugees 
+that've come to the town.
+
+## POINTER 4
+
+Circumstances being what they are, it takes the 
+fun out of it, but our business is booming thanks 
+to all of the visitors to our town.
+
+## POINTER 5
+<STR>(YUR)
+Sounds like a good deal 
+for the empire.
+
+## POINTER 6
+<STR>(RIT)
+So does that mean you don't 
+have any vacancies?
+
+## POINTER 7
+
+You're in luck! I have one 
+room that's not taken.
+
+## POINTER 8
+
+Then I'll take that 
+room, thank you.
+
+## POINTER 9
+<STR>(RAV)
+Hey there, no cuttin' 
+in line!
+
+## POINTER 10
+
+Of course, I wouldn't think of not paying. 
+I'll pay ten times the regular price.<PAGE>I'll also give the same amount to you travelers. 
+That should settle things nicely, yes?
+
+## POINTER 11
+<STR>(YUR)
+You son of a--
+
+## POINTER 12
+
+Oh, I'm so sorry!
+
+## POINTER 13
+
+I took another look at the register, and 
+it seems that I don't actually have any 
+vacancies. So sorry, come again!
+
+## POINTER 14
+
+What?!?! ...I knew this 
+town was in the sticks, 
+but this is--
+
+## POINTER 15
+
+Honey, let's just go on to 
+Heliord from Nor Harbor.
+
+## POINTER 16
+
+Well said! I should be thankful we 
+didn't soil our clothing in a filthy 
+little hovel like this...
+
+## POINTER 17
+<STR>(RAV)
+They're gonna be in for a nasty surprise when 
+they try to go to Port Nor...heh heh!
+
+## POINTER 18
+
+Sorry to have kept you waiting. 
+Your room is upstairs, in front.
+
+## POINTER 19
+<STR>(RIT)
+Wha? But you said there weren't any vacancies...
+
+## POINTER 20
+<STR>(YUR)
+Business is business, right?
+
+## POINTER 21
+
+Yes, don't worry about it. I 
+can't stand people like that.<PAGE>And wasn't it 
+you who saved 
+Halure's tree?<PAGE>This is the least I can 
+do. Enjoy your stay!

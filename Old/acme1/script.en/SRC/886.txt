@@ -1,0 +1,27 @@
+## POINTER 0
+<STR>(YUR)
+Huh? What's this?
+
+## POINTER 1
+<STR>(RIT)
+Oh, the Collector's Book!<PAGE>It's a self-updating book that makes it 
+easy to record all of the items you find.
+
+## POINTER 2
+<STR>(YUR)
+A self-updating book...huh? I guess I'll just 
+have to look and see what you mean...
+
+## POINTER 3
+<STR>(RIT)
+Sure, that would work, too.<PAGE>It's extremely useful to have. 
+Let's take it with us.
+
+## POINTER 4
+<STR>(YUR)
+Huh? Hey, get a load of this! 
+Most of the pages are blank...<PAGE>Are you sure you're a world-renowned researcher?
+
+## POINTER 5
+<STR>(RIT)
+......

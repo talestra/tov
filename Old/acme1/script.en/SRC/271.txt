@@ -1,0 +1,45 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS24_087)<STR>(RIT)...!
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS24_088)<STR>(EST_P), what are 
+you doing here...?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS24_089)Was it you causing all that racket in here?
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS24_090)You guys...
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS24_091)Do you think <STR>(KAR)'s all right?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS24_092)Yeah...<STR>(KAR)...
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS24_093)<STR>(KAR).
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS24_094)What, is that runt 
+here, too?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS24_095)What, you still want some?!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS24_096)Hold up... <STR>(KAR)?
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS24_097)Y-yeah... <STR>(RIT), you suck!

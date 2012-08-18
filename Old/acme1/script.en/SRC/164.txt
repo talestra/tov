@@ -1,0 +1,90 @@
+## POINTER 0
+<STR>(FRE)
+<VOICE>(VS15_500)You never could 
+sit still, could you?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS15_501)Stop treating me 
+like a little kid!
+
+## POINTER 2
+<STR>(FRE)
+<VOICE>(VS15_502)<STR>(YUR), don't do 
+anything reckless...
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS15_503)I haven't done anything reckless 
+since the day I was born!<PAGE><VOICE>(VS15_504)I'm just chasing after 
+a blastia thief!
+
+## POINTER 4
+<STR>(FRE)
+<VOICE>(VS15_505)<STR>(YUR)...
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS15_506)You're the one who 
+should ease up on trying 
+to do the impossible, <STR>(FRE).
+
+## POINTER 6
+<STR>(FRE)
+<VOICE>(VS15_507)Witcher, go and see if we 
+can get the right to search 
+blastia laboratories.
+
+## POINTER 7
+<STR>(FRE)
+<VOICE>(VS15_508)*Sigh* I thought leaving 
+the capital would have 
+changed him a little...<PAGE><VOICE>(VS15_509)But it seems like 
+he's even more 
+reckless than before.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS15_510)<STR>(FRE)?
+
+## POINTER 9
+<STR>(FRE)
+<VOICE>(VS15_511)<STR>(YUR)'s so single-minded when 
+it comes to protecting others.<PAGE><VOICE>(VS15_512)He's willing to sacrifice 
+himself to do it.<PAGE><VOICE>(VS15_513)I envy him for that, 
+but I also worry that 
+he'll take it too far.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS15_514)Come on <STR>(EST_P). Let's go. 
+<STR>(YUR)'s gonna leave us behind.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS15_515)Right, we should be going now.
+
+## POINTER 12
+<STR>(FRE)
+<VOICE>(VS15_516)Oh, by the way, Lady <STR>(EST).
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS15_517)Yes?
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS15_518)...How...how is it, walking 
+around outside, free?
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS15_519)I can't say everything's 
+been perfect, but...<PAGE><VOICE>(VS15_520)...I realized that there are things 
+I must do. And that makes me 
+happy. It's been wonderful.
+
+## POINTER 16
+<STR>(FRE)
+<VOICE>(VS15_521)Good. 
+I'm glad to hear it...

@@ -1,0 +1,82 @@
+## POINTER 0 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1251588632]
+Mucho por aprender
+
+## POINTER 1 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1266370078]
+(EST_P)
+Los artesanos sintetizadores son asombrosos.
+¡Son capaces de producir objetos
+fantásticos en muy poco tiempo!
+
+## POINTER 2 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1266370078]
+(RIT)
+Sí, desde luego es todo un arte.
+Y su calidad no tiene parangón.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298136000]
+(RIT)
+Además, el mismo artesano siempre
+consigue colarse en las ciudades a
+las que vamos justo antes que nosotros.
+
+## POINTER 4 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1266370078]
+(EST_P)
+¡¿Qué?! ¡¿De verdad?!
+
+## POINTER 5 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1266370078]
+(KAR)
+¡¿Qué?! ¡¿En serio?!
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267322432]
+(RAV)
+Oh, sí. Ojalá yo tuviera la mitá de
+vitalidad que él. Lo nuestro no es ná
+comparao con esa movilidá que tiene.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298136000]
+(KAR)
+Sí, claro, venga ya.
+Es imposible que pueda hacer eso...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298136000]
+(JUD)
+¿En serio? ¿Crees más probable que el mundo
+esté lleno de artesanos con tanto talento?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298578661]
+(KAR)
+¡¿T-Tú también, (JUD)?!
+¡¿D-De verdad piensas eso?!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298136000]
+(JUD)
+Y parece tener también muy buen instinto.
+Deberíamos pedirle que se una a Gran Vesperia.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298136000]
+(EST_P)
+¿D-De verdad? K-(KAR), la próxima vez
+que lo veamos, tenemos que pedírselo.
+
+## POINTER 12 [t:1;r:3;ru:squallido,parsec,memnoch;user:Squallido;time:1266370078]
+(KAR)
+¡V-Vale! ¡De acuerdo!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298136008]
+(YUR)
+Vaya... Parece que esos dos
+se lo han tragado.
+
+## POINTER 14 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266837686]
+(RAV)
+La princesa y er chaval tienen
+todavía mucho por aprendé.
+
+## POINTER 15 [t:1;r:3;ru:squallido,parsec,memnoch;user:xander;time:1261846930]
+(RIT)
+Yo había oído que en realidad
+usan blastias para hacer la síntesis.
+
+## POINTER 16 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266837686]
+(JUD)
+Sabes, tal vez nos hemos
+pasado un poquito...

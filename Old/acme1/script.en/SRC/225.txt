@@ -1,0 +1,205 @@
+## POINTER 0
+
+<VOICE>(VS21_016)Now shut up for a while!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS21_017)What's the deal...?
+
+## POINTER 2
+
+<VOICE>(VS21_018)Please, I've got to get out of here!
+
+## POINTER 3
+
+<VOICE>(VS21_019)It's always somethin' with you, isn't it old man?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS21_020)It's not polite to point sharp 
+objects at your elders.
+
+## POINTER 5
+
+<VOICE>(VS21_021)Yah!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS21_022)Hey...!
+
+## POINTER 7
+
+<VOICE>(VS21_023)That's enough.
+
+## POINTER 8
+
+<VOICE>(VS21_024)Damn it...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS21_025)...A woman... 
+And she's Krityan...?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS21_026)Are you all right?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS21_027)Heh, sorry.
+
+## POINTER 12
+
+<VOICE>(VS21_028)Well...after all, you did 
+help Ba'ul back there.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS21_029)Ba'ul?
+
+## POINTER 14
+
+<VOICE>(VS21_030)Yes, my friend.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS21_031)Oh, you mean that monster.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS21_032)So tell me. What are you going 
+around destroying blastia for?
+
+## POINTER 17
+
+<VOICE>(VS21_033)...
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS21_034)Not a big deal if you don't 
+feel like talking about it.
+
+## POINTER 19
+
+<VOICE>(VS21_035)I'm afraid it's not as impressive 
+as you might think.
+
+## POINTER 20
+
+<VOICE>(VS21_036)I'm destroying them because I want to.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS21_037)You're right, I'm not all that impressed.<PAGE><VOICE>(VS21_038)So that's why you mashed 
+up Barbos' blastia too.
+
+## POINTER 22
+
+<VOICE>(VS21_039)Yes, but I didn't finish the job.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS21_040)And can you just let this one go?
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS21_041)...There wouldn't be any fun in 
+destroying something like that.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS21_042)...Huh.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS21_043)Hey, why don't we work 
+together a little longer?
+
+## POINTER 27
+
+<VOICE>(VS21_044)Hmm... It's true I wasn't able to finish 
+off the blastia on the roof.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS21_045)Okay then.
+
+## POINTER 29
+
+<VOICE>(VS21_046)So what do we do?
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS21_047)Hmm... There's one way I was thinking 
+we could get out of here.
+
+## POINTER 31
+
+<VOICE>(VS21_048)Well, if you think it might work, 
+what's the harm in trying it out?
+
+## POINTER 32
+
+<VOICE>(VS21_049)I always say, 
+"Those who can, should."
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS21_050)Okay, just go along 
+with me on this.
+
+## POINTER 34
+
+<VOICE>(VS21_051)I'll just follow your lead.
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS21_052)Don't worry. It's a little 
+nerve-wracking working with 
+a pretty lady, though.
+
+## POINTER 36
+
+<VOICE>(VS21_053)......
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VS21_054)Oh, that is it!
+
+## POINTER 38
+
+<VOICE>(VS21_055)... !
+
+## POINTER 39
+
+<VOICE>(VS21_056)Pipe down!
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS21_057)Cut it out!
+
+## POINTER 41
+
+<VOICE>(VS21_058)You cut it out!
+
+## POINTER 42
+
+<VOICE>(VS21_059)I said that's enough!
+
+## POINTER 43
+
+<VOICE>(VS21_060)I've had it up to here with you!
+
+## POINTER 44
+<STR>(YUR)
+<VOICE>(VS21_061)Somebody get me away 
+from this psycho!
+
+## POINTER 45
+
+<VOICE>(VS21_062)So I'm gonna have ta 
+teach ya a lesson, huh...?
+
+## POINTER 46
+
+<VOICE>(VS21_063)Oof!

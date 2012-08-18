@@ -1,0 +1,62 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1295175948]
+<STR>(RIT)
+...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997518]
+Undine
+Parece que he podido moverlo
+un poco gracias a mi poder.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997518]
+<STR>(RIT)
+¡Eres... eres idiota!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997518]
+<STR>(YUR)
+Hala. Ha llamado idiota
+a un espíritu elemental.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997518]
+<STR>(KAR)
+<STR>(RIT) es la única persona que conozco
+que se atrevería a decir algo así...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997518]
+<STR>(RIT)
+¡¿Cómo te pones a encender motores
+de algo que no sabes ni cómo va?!
+¡Acabarás rompiéndolo, o algo peor!<PAGE>¡Naciste de la apátheia
+de Belius, claro que
+tienes poder! ¡Es obvio!<PAGE>¡Por eso no se demuestra nada
+que puedas mover algo así!
+¡Pedazo de presumida ignorante!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1295175948]
+<STR>(EST_P)
+R-<STR>(RIT)...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1295175948]
+Undine
+Deberías aprender a controlar tu genio.
+Lo entiendo, y me disculpo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1295175948]
+<STR>(RIT)
+No me lo puedo creer...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997518]
+Undine
+Quizás os interese saber que la tierra
+donde ha encallado el artilugio
+ahora es accesible para vosotros.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997518]
+<STR>(YUR)
+¡Eh, vas a resultarnos
+útil después de todo!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296997518]
+<STR>(KAR)
+Y ahora tú llamas «útil»
+a un espíritu elemental...
+¿Quieres ir a la par con <STR>(RIT)?

@@ -1,0 +1,151 @@
+## POINTER 0
+
+Oh, it's you...
+
+## POINTER 1
+
+Look at this...!
+
+## POINTER 2
+<STR>(RIT)
+...That's...!
+
+## POINTER 3
+
+It's magic using spirits. It's 
+not yet complete, though.
+
+## POINTER 4
+
+Pretty nice, eh? This 
+guy managed to work
+out the spirit formula.
+
+## POINTER 5
+
+Nah, this is nothing, really.
+
+## POINTER 6
+
+I have to say, I'm impressed that you 
+managed to cast a spell like this.
+
+## POINTER 7
+
+Heh heh, please, you're too kind.
+
+## POINTER 8
+<STR>(RIT)
+You've already started doing spirit research 
+despite all of your objections earlier? Don't 
+you think that's a little hypocritical?
+
+## POINTER 9
+
+We're still continuing our blastia research.
+
+## POINTER 10
+
+We've just added one more area in 
+which to focus that research!
+
+## POINTER 11
+<STR>(RIT)
+Well, not that I mind or anything. 
+So, what sort of formula is it?
+
+## POINTER 12
+
+Don't be so nosy!
+
+## POINTER 13
+
+We're all mages of Aspio, aren't we? 
+We can be civil to each other.<PAGE>We can trust you to keep the construction 
+of this formula an Aspian secret?
+
+## POINTER 14
+<STR>(RIT)
+Of course.
+
+## POINTER 15
+
+First you draw a textual formula around the 
+outside edge to isolate the fire attribute...
+
+## POINTER 16
+<STR>(YUR)
+<STR>(RIT) seemed pretty worried, but it looks 
+like things are going to work out.
+
+## POINTER 17
+<STR>(EST_P)
+As researchers, their desire to study 
+new things is too powerful to fight.
+
+## POINTER 18
+<STR>(YUR)
+Yeah. They may be older than <STR>(RIT), but these 
+mages are all made of the same stuff.
+
+## POINTER 19
+
+...So that's how it works, but this part is 
+something we haven't been able to understand.<PAGE>How would you do it?
+
+## POINTER 20
+<STR>(RIT)
+Hmmmmm...
+
+## POINTER 21
+<STR>(RIT)
+I've got it! 
+Like this...!
+
+## POINTER 22
+
+Fwoah...
+
+## POINTER 23
+
+...Hey hey... That's 
+just too powerful!
+
+## POINTER 24
+<STR>(RIT)
+S-sorry...
+
+## POINTER 25
+
+But...I think that 
+we can use this!
+
+## POINTER 26
+
+Yes. What do you think?
+
+## POINTER 27
+<STR>(RIT)
+Yes... Do you mind 
+if I use it?
+
+## POINTER 28
+
+Well, we'd prefer something 
+a little less volatile.
+
+## POINTER 29
+
+We're going to see if there might 
+be a slightly more practical 
+direction we can take it in.
+
+## POINTER 30
+<STR>(RIT)
+Right... Let me give it some 
+more thought, as well.<PAGE>If I come up with a better way to use 
+that formula, I'll let you know.
+
+## POINTER 31
+
+Thanks a lot!

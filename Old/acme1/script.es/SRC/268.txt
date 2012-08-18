@@ -1,0 +1,133 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(JUD)
+Vale, ahora el siguiente paso.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(KAR)
+¿Eh, qué?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(JUD)
+Lo tendremos más fácil para entrar
+si te pones la armadura de Caballero.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(YUR)
+¿Quién, yo?
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(JUD)
+<STR>(KAR) también podría hacerlo.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(KAR)
+¿Qué, otra vez?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279128289]
+<STR>(KAR)
+¿Q-Qué, y-yo?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(YUR)
+Ya, puede que tengas razón...
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+¿Quién se disfrazará de Caballero?
+<STR>(YUR)
+<STR>(KAR)
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(YUR)
+Supongo que me toca
+hacerlo a mí.<PAGE>Pero en serio,
+¿tenía que ser precisamente
+de Caballero Imperial?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(YUR)
+En fin, si nos sirve para
+engañarlos, habrá que apechugar.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+
+¡Oye! ¡Deja de hacer
+el tonto y ven aquí!
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(YUR)
+¿Eh? ¿Qué ocurre?
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+
+¡Vuelve a tu puesto antes de que
+las cosas se desmadren más todavía!
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279128289]
+<STR>(YUR)
+¿Cómo que «se desmadren»?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324122]
+
+¡La maga que capturamos
+está como pirada!
+¡Date prisa!
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(YUR)
+¡Recibido! Vale,
+ahora vuelvo.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(KAR)
+¿Eh? ¿<STR>(YUR)?
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(YUR)
+<STR>(KAR), encárgate tú.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279128289]
+<STR>(KAR)
+¿Q-Quieres que me vista de Caballero? 
+¿Acaso me valdrá la armadura?
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(KAR)
+Ugh, resulta difícil moverse.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324122]
+<STR>(YUR)
+Tranquilo. Ya verás como
+te acostumbras enseguida.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(KAR)
+No sé yo...
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+
+¡Oye! ¡Deja de gandulear
+y ven aquí!
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(KAR)
+Eh... ¿Cómo?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324122]
+
+¡Vuelve a tu puesto antes de que
+la situación empeore todavía más!
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(KAR)
+¡No, no lo entiendes!
+¡Oye, suéltame! ¡Socorro!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324122]
+<STR>(EST_P)
+<STR>(YUR)... ¿Por qué
+no le has ayudado?
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275570311]
+<STR>(YUR)
+Pues... verás... Digamos que ha pasado
+tan rápido que me ha tomado por sorpresa.<PAGE>Será mejor ir a ver qué pasa...

@@ -1,0 +1,69 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252354380]
+Cuando te pones a ello
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298557]
+(KAR)
+Fiuu...
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298557]
+(RAV)
+¿Qué? ¿Ya estás cansao?
+¡Vaya un guerrero estás hecho!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981200]
+(KAR)
+¡¿C-Cansado?! ¡De eso nada!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981200]
+(JUD)
+No sería nada raro que lo estuvieras,
+(KAR). Eres el que más ha trabajado
+de nosotros.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981200]
+(KAR)
+E-El que más ha trabajado... 
+Je, tal vez...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981200]
+(RAV)
+¡Eres joven! La gente joven ha de trabajá
+duro. No es nada de lo que sulfurarse.
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298557]
+(KAR)
+Urgh...
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298557]
+(JUD)
+(KAR) puede tener mucha energía, pero
+sigue siendo un niño. No tiene tanta
+fuerza como el resto de nosotros.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981200]
+(KAR)
+¡E-Estoy bien! ¡Puedo trabajar
+tanto como vosotros dos!
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298557]
+(RAV)
+Exacto. ¡No puedes usá tu edad como excusa
+pa no hacer tu parte en el equipo!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297981200]
+(KAR)
+¡Y-Ya lo sé!
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298557]
+(JUD)
+(KAR), ¡eres realmente bueno
+cuando te pones a ello!
+
+## POINTER 13 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298557]
+(KAR)
+...
+
+## POINTER 14 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298557]
+(RAV)
+Oye, (KAR)... No estarías en realidá intentando
+que (JUD) te lanzase un piropo, ¿verdá?

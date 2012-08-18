@@ -1,0 +1,29 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252779809]
+El origen de la ciudad académica
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314883]
+(EST_P)
+Aspio se construyó originalmente para
+investigar el blastia gigante que se
+excavó en esta montaña, ¿verdad?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314883]
+(RIT)
+Correcto. Al principio era solo una estación
+de investigación, pero a medida que llegaba más
+gente acabó convirtiéndose en toda una ciudad.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314883]
+(RIT)
+Ahora la gente de Aspio se dedica
+a todo tipo de asuntos, no solo
+al blastia gigante.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314883]
+(YUR)
+Y tú eres una de esas
+investigadoras, ¿no?
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267314883]
+(RIT)
+Eso es. ¡Y a mucha honra!

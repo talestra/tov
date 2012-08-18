@@ -1,0 +1,71 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287588860]
+<STR>(RIT)
+¿Ya te has dado cuenta? Hay
+un montón de blastias hermes
+escondidos en el castillo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298808339]
+<STR>(JUD)
+Sí. Aunque la verdad es
+que fue Ba'ul quien lo notó.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287588860]
+<STR>(EST_P)
+Probablemente
+Alexei los
+dejó ahí.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287588860]
+<STR>(YUR)
+¿Quieres ir
+a destruirlos, <STR>(JUD_P)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298808339]
+<STR>(JUD)
+Bajar un poquito el desequilibrio
+del aer del planeta hará más sencillo
+enfrentarnos al adephagos, ¿no?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287588860]
+<STR>(EST_P)
+Sí, tienes razón.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287588860]
+<STR>(RIT)
+Yo también voy.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294610802]
+<STR>(JUD)
+¿Por qué?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287588860]
+<STR>(RIT)
+Si en vez de romperlos
+les quitamos el núcleo...
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287588860]
+<STR>(EST_P)
+Mmm, ¿en serio tenemos
+que destruirlos?<PAGE>¿No podemos desactivarlos
+de alguna manera?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298808339]
+<STR>(YUR)
+Se supone que podemos, pero no hay
+garantías de que alguien
+los vuelva a hacer funcionar.<PAGE>Al final será tan malo tener un blastia
+que no funciona que no tenerlo.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287588860]
+<STR>(RIT)
+¡Espera! ¡He dicho
+que voy contigo!
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287588860]
+<STR>(EST_P)
+Oh, ¡esperad! ¡<STR>(YUR), 
+nosotros también vamos!
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287588860]
+<STR>(YUR)
+*Suspiro*

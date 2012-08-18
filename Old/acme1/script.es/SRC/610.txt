@@ -1,0 +1,72 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1291502047]
+
+Otra vez por aquí, ¿eh?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1291547288]
+<STR>(YUR)
+Nosotros también te hemos echado de menos, compi.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1291502047]
+
+Me temo que de momento no tengo
+ningún trabajo que ofreceros.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1291502047]
+<STR>(KAR)
+No pasa nada. Ya volveremos.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291502047]
+
+La verdad... es que sería
+mejor deciros que ya no tendré
+más trabajos para vosotros.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1291502047]
+<STR>(KAR)
+¿Eh? ¿Por qué no?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1291502643]
+
+Ya hay muchos gremios con
+mucha menos experiencia
+en esto que vosotros.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1291502643]
+<STR>(KAR)
+Ya, pero aún no somos
+exactamente unos expertos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1291547288]
+<STR>(RAV)
+Siempre ha sido así con lo de formar
+un gremio que sea libre y tó eso.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1291547288]
+<STR>(YUR)
+Vamos, que día
+tras día aparecen
+gremios nuevos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660646]
+
+Sip. Tal y como están las cosas,
+ya no se les puede llamar novatos
+a los que llevan un mes en esto.<PAGE>Además, vosotros os habéis promocionado
+por ahí bastante bien. No creo que
+volváis a necesitar mi ayuda.<PAGE>¿Por qué no probáis suerte
+y buscáis trabajo vosotros solos?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1291547288]
+<STR>(KAR)
+Bueno, si ya te has decidido,
+no podemos hacer nada.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660646]
+
+No es nada personal.
+Alentaré el éxito de
+Gran Vesperia a mi manera.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1291547288]
+<STR>(YUR)
+Pues nada. Gracias por tu ayuda.

@@ -1,0 +1,26 @@
+## POINTER 0
+<STR>(EST_P)
+...I'm starting to feel 
+like I'm deceiving 
+that doctor...
+
+## POINTER 1
+<STR>(YUR)
+You mean because you don't actually 
+want to become a healer?
+
+## POINTER 2
+<STR>(EST_P)
+Yes...
+
+## POINTER 3
+<STR>(RAV)
+It doesn't seem so bad ta me. The 
+hospital's hurtin' for help, and 
+yer just givin' them a hand.<PAGE>I'm sure they appreciate it. 
+And ya can't help it if they want 
+ya ta be someone yer not.
+
+## POINTER 4
+<STR>(EST_P)
+Maybe you're right...

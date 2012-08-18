@@ -1,0 +1,47 @@
+## POINTER 0
+
+...Hurry up...
+...He's waiting for us...
+
+## POINTER 1
+
+Yes sir... But...how could 
+such an object like this 
+possibly be used...?
+
+## POINTER 2
+
+You ask too many questions. 
+This is a special 
+assignment...
+
+## POINTER 3
+<STR>(YUR)
+That looks heavy. 
+Want some help?
+
+## POINTER 4
+
+Ah, nice of you to offer... 
+Huh...? It's you...
+
+## POINTER 5
+<STR>(RIT)
+That's a hoplon blastia, isn't it? 
+What are you going to use it for?
+
+## POINTER 6
+
+Run...!
+
+## POINTER 7
+
+Y-you want me to run...?
+
+## POINTER 8
+
+You fool, hurry up and run away!
+
+## POINTER 9
+<STR>(YUR)
+Let's go after them!

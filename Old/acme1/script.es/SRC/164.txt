@@ -1,0 +1,92 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(FRE)
+<VOICE>(VS15_500)No sabes estarte
+quieto, ¿eh?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(YUR)
+<VOICE>(VS15_501)¡Deja ya de tratarme
+como a un niño pequeño!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(FRE)
+<VOICE>(VS15_502)<STR>(YUR), no hagas
+ninguna locura...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273476754]
+<STR>(YUR)
+<VOICE>(VS15_503)¡No he hecho ni una sola
+desde que nací!<PAGE><VOICE>(VS15_504)¡Lo único que hago es perseguir
+a un ladrón de blastias!
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(FRE)
+<VOICE>(VS15_505)<STR>(YUR)...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272798913]
+<STR>(YUR)
+<VOICE>(VS15_506)Eres tú quien debería
+dejar de intentar hacer
+imposibles, <STR>(FRE).
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(FRE)
+<VOICE>(VS15_507)Witcher, ve a ver si podemos
+conseguir permiso para investigar
+laboratorios de blastias.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(FRE)
+<VOICE>(VS15_508)*Suspiro* Creía que 
+cambiaría un poco si
+salía de la capital...<PAGE><VOICE>(VS15_509)Pero parece que es
+tan temerario como
+siempre.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(EST_P)
+<VOICE>(VS15_510)¿<STR>(FRE)?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(FRE)
+<VOICE>(VS15_511)<STR>(YUR) es un terco cuando
+se trata de proteger a los demás.<PAGE><VOICE>(VS15_512)Está dispuesto a sacrificarse
+para conseguirlo.<PAGE><VOICE>(VS15_513)Le envidio por ello,
+pero también me preocupa
+que vaya demasiado lejos.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(KAR)
+<VOICE>(VS15_514)Venga, <STR>(EST_P). Vamos. 
+<STR>(YUR) nos va a dejar atrás.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(EST_P)
+<VOICE>(VS15_515)Cierto, será mejor que nos vayamos.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(FRE)
+<VOICE>(VS15_516)Oh, por cierto, mi señora <STR>(EST).
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(EST_P)
+<VOICE>(VS15_517)¿Sí?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(FRE)
+<VOICE>(VS15_518)
+¿Cómo... cómo os sentís al poder
+salir con libertad al exterior?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298237654]
+<STR>(EST_P)
+<VOICE>(VS15_519)No es que pueda afirmar que todo
+haya sido un camino de rosas, pero...
+<PAGE><VOICE>(VS15_520)Me ha hecho darme cuenta de que hay cosas
+que debo hacer. Y eso me hace feliz.
+Ha sido maravilloso.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272372700]
+<STR>(FRE)
+<VOICE>(VS15_521)Bien. 
+Me alegra oír eso...

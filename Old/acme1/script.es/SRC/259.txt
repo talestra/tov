@@ -1,0 +1,79 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275516685]
+<STR>(JUD)
+¿Tienes un traje
+que resulte atractivo
+para cualquier hombre?
+
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323376]
+
+¡¿Atraer a cualquiera?!
+¿Lo va a llevar usted?<PAGE>¿Qué tal este?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275516685]
+<STR>(EST_P)
+¡Oh, es precioso!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275516685]
+<STR>(YUR)
+No nos sirve.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275516685]
+<STR>(JUD)
+No, no nos sirve.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275519601]
+<STR>(KAR)
+¿Cómo que no?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275516685]
+<STR>(EST_P)
+¿Por qué?
+Con lo mono que es...
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279127155]
+<STR>(JUD)
+Si nos bastara con que fueras
+en plan «mono», entonces nos
+valdría lo que llevas ya puesto.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275519601]
+<STR>(YUR)
+Exacto. En otras palabras:
+no es lo bastante sexy.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298322782]
+<STR>(EST_P)
+Otra vez con lo de sexy...<PAGE>¿Tiene algún vestido que le dé
+ese aspecto a una servidora?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323209]
+
+Mmm... Déjeme ver...<PAGE>
+Creo que podría confeccionar algo si me traéis
+una cola suave, una escama de basilisco
+y una pluma de pájaro pequeña.<PAGE>Todos esos objetos los podéis
+obtener de los monstruos
+de las afueras de la ciudad.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1274761068]
+<STR>(EST_P)
+Parece que no tenemos
+elección. Vamos.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298322847]
+<STR>(YUR)
+Anda que... Parece que el tema nos va
+a dar más problemas de los que pensaba.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275516685]
+<STR>(EST_P)
+¡Vamos, démonos prisa!
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275516685]
+<STR>(JUD)
+Nos ha salido testaruda, ¿eh?
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275516685]
+<STR>(YUR)
+Y que lo digas...

@@ -1,0 +1,34 @@
+## POINTER 0
+Call me (EST_P)
+
+## POINTER 1
+(RIT)
+Your name is (EST), right?
+
+## POINTER 2
+(EST_P)
+Yes, but that's kind of long to say 
+easily. Please, call me (EST_P).
+
+## POINTER 3
+(RIT)
+You look like some fancy noble, (EST). 
+Why are you with that jerk?
+
+## POINTER 4
+(EST_P)
+...Oh, I think that (YUR) 
+is a good person...
+
+## POINTER 5
+(EST_P)
+And really, I don't mind 
+if you call me (EST_P).
+
+## POINTER 6
+(RIT)
+All right, (EST).
+
+## POINTER 7
+(YUR)
+She's tough...

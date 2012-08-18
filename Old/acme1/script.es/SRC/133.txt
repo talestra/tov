@@ -1,0 +1,23 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007635]
+<STR>(EST_P)
+La persona que vive aquí debe ser
+un erudito de lo más apasionado.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007635]
+<STR>(YUR)
+Pero solo porque alguien estudie mucho,
+no significa que sus acciones sean correctas
+o justas.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007635]
+<STR>(KAR)
+Vaya, la portada de este está a punto de caerse.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007635]
+<STR>(EST_P)
+¡Trata a los libros con respeto!
+¡Están llenos de información inestimable!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1274007635]
+<STR>(KAR)
+V-Vale...

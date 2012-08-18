@@ -1,0 +1,31 @@
+## POINTER 0
+<STR>(YUR)
+...I guess no spear's gonna 
+jump out of this one...
+
+## POINTER 1
+<STR>(RAV)
+Maybe ya could use the Sorcerer's 
+Ring to destroy it?
+
+## POINTER 2
+<STR>(RAV)
+Yah, crumbled like a cookie!
+
+## POINTER 3
+<STR>(YUR)
+Despite all your faults, old man, 
+you've got good intuition!
+
+## POINTER 4
+<STR>(RAV)
+Whaddaya mean despite 
+my faults?!
+
+## POINTER 5
+<STR>(EST_P)
+Let's go in and see what's there!
+
+## POINTER 6
+<STR>(RAV)
+Lead the way, ye of little patience...

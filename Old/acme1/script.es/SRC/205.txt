@@ -1,0 +1,75 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292664]
+<STR>(YUR)
+<VOICE>(VS18_089)Tened cuidado en vuestro
+regreso a la capital.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273493041]
+<STR>(EST_P)
+<VOICE>(VS18_090)De acuerdo.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273841961]
+<STR>(YUR)
+<VOICE>(VS18_091)¿Lo tienes todo? 
+No quisiera tener que
+dar media vuelta después.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273841961]
+<STR>(EST_P)
+<VOICE>(VS18_092)Si me dejo algo, ya me lo traerás tú,
+¿no, <STR>(YUR)?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273493041]
+<STR>(YUR)
+<VOICE>(VS18_093)Ja. Ya, claro. 
+Vale, vamos a buscar a <STR>(FRE). 
+Te acompañaré mientras tanto.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292664]
+<STR>(EST_P)
+<VOICE>(VS18_094)E-Eh... ¿Qué tenéis pensado
+hacer después de esto?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240626]
+<STR>(YUR)
+<VOICE>(VS18_095)Mmm. Bueno, hemos perdido
+el rastro de Pacto de Sangre...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292664]
+<STR>(KAR)
+<VOICE>(VS18_096)Es fácil. No tenemos más que ir 
+a Dahn... grest. O no.<PAGE><VOICE>(VS18_097)Jo, si voy allí ahora,
+todos se reirán de mí...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292664]
+<STR>(YUR)
+<VOICE>(VS18_098)¿Dahngrest? Esa era la ciudad
+de los gremios, ¿verdad?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292664]
+<STR>(KAR)
+<VOICE>(VS18_099)S-Sí. Creo que allí
+podremos descubrir algo
+sobre el Pacto de Sangre...
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273493041]
+<STR>(YUR)
+<VOICE>(VS18_100)¿En qué dirección está?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292664]
+<STR>(KAR)
+<VOICE>(VS18_101)Está yendo hacia el oeste, pero...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298292664]
+<STR>(YUR)
+<VOICE>(VS18_102)Vamos a comprobarlo, entonces.
+También puede ser de ayuda para
+la gente que quiera formar un gremio.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273493041]
+<STR>(KAR)
+<VOICE>(VS18_103)¿Eh? ¿Para formar un gremio? 
+¡Pues entonces vamos!
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273493041]
+<STR>(RIT)
+<VOICE>(VS18_104)...

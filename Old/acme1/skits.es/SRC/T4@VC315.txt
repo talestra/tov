@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1252962550]
+Mmm... Bonito pan
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267293468]
+(EST_P)
+Parece que hemos usado todos los ingredientes
+que nos quedaban con ese último plato.
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267293468]
+(RAP)
+*¡Gemido!*
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267293468]
+(YUR)
+Supongo que nos toca parar
+en una ciudad y comprar más.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983589]
+(KAR)
+Oh, ¡todavía quedaba un trozo de pan
+vegetariano verde en mi bolsa!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983589]
+(EST_P)
+¿Verde?... ¿Eh?
+Qué pan más raro.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983589]
+(RAP)
+*¿Gemido?*
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267293468]
+(YUR)
+Esto, (KAR)... ¿cuándo compraste este pan?
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267293468]
+(KAR)
+Ni idea.

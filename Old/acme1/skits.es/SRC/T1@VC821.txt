@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251759068]
+Diversión en el barco fantasma
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267177222]
+(EST_P)
+¿Crees que los demás estarán bien?
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266231712]
+(YUR)
+Lo que creo es que deberías preocuparte
+un poco más por nosotros.
+
+## POINTER 3 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267177222]
+(YUR)
+Vete a saber qué puede pasar
+en un barco tan cochambroso.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297117011]
+(EST_P)
+Aunque digas eso, se te nota
+que estás disfrutando.
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1267177222]
+(EST_P)
+Quizás por eso no tengo tanto miedo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297117011]
+(YUR)
+Oh, vamos. Esto no será ni la mitad de
+divertido si no te aterras como es debido.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297117011]
+(EST_P)
+¿Divertido?...
+
+## POINTER 8 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266231712]
+(YUR)
+Déjalo...

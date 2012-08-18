@@ -1,0 +1,29 @@
+## POINTER 0
+Tokunaga
+We can't get any closer!
+
+## POINTER 1
+<STR>(RIT)
+But <STR>(EST_P) is....!
+
+## POINTER 2
+<STR>(YUR)
+Calm down <STR>(RIT)...
+We'll try closing in from the sky...
+
+## POINTER 3
+<STR>(KAR)
+That will still put
+Ba'ul in danger...
+
+## POINTER 4
+<STR>(JUD)
+Let's try.
+
+## POINTER 5
+<STR>(YUR)
+...Thanks.
+
+## POINTER 6
+<STR>(JUD)
+Ba'ul!

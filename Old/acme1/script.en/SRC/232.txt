@@ -1,0 +1,146 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS21_500)I'm so glad the 
+core is safe.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS21_501)Wow, the aque blastia 
+core is so small.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS21_194)So we've got your blastia 
+core back. That takes care 
+of one problem.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS21_195)Yes, but we weren't 
+able to take Barbos 
+into custody...
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS21_196)What are you talking about? 
+A creep like that is better 
+off--OW!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS21_197)I think it's too early to say anything's 
+taken care of. I have to find out if 
+this thing even works anymore.
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS21_198)Blastia cores don't break 
+all that easily.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS21_199)Huh. Bet you didn't know 
+that, did ya Ra--
+...<STR>(RAV)?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS21_200)Jeez, what is up with 
+that guy... Just showing 
+up whenever he wants.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS21_201)You're one to talk, <STR>(RIT).
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS21_202)It takes all kinds, I suppose.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS21_203)He probably headed back to Dahngrest. I'm 
+sure we can find him if we need to.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS21_204)Why do you look so sad? 
+Are you okay?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS21_205)I was just thinking, I still owe that 
+creep Dedecchi a good beating.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS21_206)You got the blastia back, isn't 
+that enough? Why chase after 
+some stupid thief?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS21_207)Yeah, I guess you're right. If
+I ever cross paths with him though,
+he's in for a surprise.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS21_208)...Waiting for me in hell, huh? Why'd 
+he have to go and say that?
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS21_209)Hey, come on already, let's 
+get back to Dahngrest.
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS21_210)Yes. We should tell 
+<STR>(FRE) what happened 
+with Barbos.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS21_211)Speaking of <STR>(FRE), was 
+he able to calm things 
+down in Dahngrest?
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS21_212)Yes. Thanks to his efforts, the 
+empire and the guilds both 
+laid down their swords.<PAGE><VOICE>(VS21_213)After that, he left to pursue 
+Ragou. He's most likely 
+captured him by now.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS21_214)Oh...
+
+## POINTER 22
+<STR>(JUD)
+<VOICE>(VS21_215)Well, I will take my leave from you here.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS21_216)Off to meet up with your partner?
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS21_217)Partner? 
+Who do you mean?
+
+## POINTER 25
+<STR>(JUD)
+<VOICE>(VS21_218)We'll be operating individually from 
+now on. That way we won't 
+interfere with each other's work.
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS21_219)I see. Well, see you later.
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VS21_220)Yeah...

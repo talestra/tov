@@ -1,0 +1,193 @@
+## POINTER 0
+<STR>(EST_P)
+Nobis! You shouldn't 
+be out of bed...!
+
+## POINTER 1
+Nobis
+Can't afford to lie about all day...
+
+## POINTER 2
+<STR>(YUR)
+Yeah, you're really in great shape.
+
+## POINTER 3
+<STR>(YUR)
+You got your Everlight. Where is 
+it you've gotta run off to now?
+
+## POINTER 4
+Nobis
+I must find the secret text 
+that details the process of 
+Everlight refinement...
+
+## POINTER 5
+<STR>(YUR)
+What's so special about that?
+
+## POINTER 6
+Nobis
+In its raw state as ore, 
+Everlight is all but 
+useless, of course.
+
+## POINTER 7
+<STR>(KAR)
+Oh yeah?
+
+## POINTER 8
+<STR>(RIT)
+That's true. It's a metal, so you wouldn't 
+be able to do much with it unless you 
+removed all the impurities first.
+
+## POINTER 9
+Nobis
+And Everlight must be refined according to 
+a specific process. Our guild had the method 
+written down in a secret manual...<PAGE>It was taken on a journey long ago, and its 
+whereabouts remain unknown to this day.
+
+## POINTER 10
+<STR>(JUD)
+And you were going 
+to try and find it?
+
+## POINTER 11
+<STR>(EST_P)
+But why? Why would you put 
+yourself at such risk?
+
+## POINTER 12
+Nobis
+...It is for... For the 
+sake of our guild... For 
+the Soul Smiths...
+
+## POINTER 13
+<STR>(RAV)
+Just what're you goin' on about?
+
+## POINTER 14
+Nobis
+...Our guild is facing a crisis 
+that threatens its very survival.
+
+## POINTER 15
+<STR>(KAR)
+Survival? But you're one of 
+the five master guilds!
+
+## POINTER 16
+Nobis
+Thanks to the stability the 
+barriers have helped create, 
+weapons are no longer the 
+valued items they once were.<PAGE>It has been many years since 
+anyone joined our guild, and 
+nothing will slow the aging 
+of our oldest members.
+
+## POINTER 17
+<STR>(YUR)
+So what does refining Everlight 
+have to do with that?
+
+## POINTER 18
+Nobis
+In the art of crafting weapons, 
+no ore is Everlight's equal.
+
+## POINTER 19
+<STR>(EST_P)
+Now that you mention it, I think 
+I remember reading that most 
+famous weapons are made from 
+very specific metals.
+
+## POINTER 20
+Nobis
+For better or for worse, the world 
+today is a calamitous place.<PAGE>Perhaps weapons we forge could 
+play a role in restoring order to such a 
+world, and glory to our once-great guild.<PAGE>Even though I have acquired 
+the ore, without the manual, 
+it is as nothing.
+
+## POINTER 21
+<STR>(EST_P)
+Even still, you 
+shouldn't overdo it...
+
+## POINTER 22
+<STR>(JUD)
+Does he look like someone 
+who'll stay put just because 
+you tell him to?
+
+## POINTER 23
+<STR>(RAV)
+He's borderline obsessed.
+
+## POINTER 24
+Nobis
+...
+
+## POINTER 25
+<STR>(YUR)
+Guess I should've seen this coming. 
+Okay, we'll go and find your 
+secret manual for you.
+
+## POINTER 26
+Nobis
+You...?
+
+## POINTER 27
+<STR>(YUR)
+Meanwhile, you stay put here, 
+like you're supposed to.<PAGE>By the name of Brave Vesperia, 
+brightest star in the night 
+sky, we'll take the job.
+
+## POINTER 28
+<STR>(KAR)
+Whoa, <STR>(YUR)! Did you plan on 
+asking the rest of us...?
+
+## POINTER 29
+<STR>(JUD)
+We are striving to live lives 
+of justice, with punishment 
+for the unjust, are we not?
+
+## POINTER 30
+<STR>(KAR)
+Um, yeah.
+
+## POINTER 31
+<STR>(RAV)
+Didn't Rhianna say somethin' about 
+her old man minin' that Everlight 
+and makin' somethin' out of it?
+
+## POINTER 32
+<STR>(YUR)
+Oh right, that lady you had 
+a crush on who hired us 
+to look for her necklace.
+
+## POINTER 33
+<STR>(KAR)
+That's right, I'd forgotten 
+about Miss Rhianna!
+
+## POINTER 34
+<STR>(EST_P)
+Then maybe if we ask her about this, we'll 
+get some idea of where to begin looking.
+
+## POINTER 35
+<STR>(YUR)
+Let's go and find out.

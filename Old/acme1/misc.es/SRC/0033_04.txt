@@ -1,0 +1,301 @@
+## POINTER 609 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Islas Carapuson
+
+## POINTER 610 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Islas Carapuson
+
+## POINTER 611 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Islas Carapuson
+
+## POINTER 612 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Islas entre Tolbyccia y Yurzorea.
+
+## POINTER 616 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315907]
+Islas meridionales de Tolbyccia
+
+## POINTER 617 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315907]
+Islas meridionales de Tolbyccia
+
+## POINTER 618 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315907]
+Islas meridionales de Tolbyccia
+
+## POINTER 619 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315907]
+Islas meridionales de Tolbyccia
+
+## POINTER 620 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Una isla cercana a la costa sur de Tolbyccia.
+
+## POINTER 624 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Norte de Tolbyccia
+
+## POINTER 625 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Cristales de Erealumen
+
+## POINTER 628 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Zona oceánica situada al norte de Tolbyccia.
+
+## POINTER 629 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588792]
+Un continente formado por cristales marinos.
+
+## POINTER 632 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Península de Zadrack
+
+## POINTER 633 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Península de Zadrack
+
+## POINTER 634 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Península de Zadrack
+
+## POINTER 635 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Península de Zadrack
+
+## POINTER 636 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+La península en la que se encuentra Nordopólica.
+
+## POINTER 640 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Llanuras orientales de Desier
+
+## POINTER 641 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Llanuras orientales de Desier
+
+## POINTER 642 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Llanuras orientales de Desier
+
+## POINTER 643 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Llanuras orientales de Desier
+
+## POINTER 644 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262436686]
+La zona oriental de Desier, que abarca
+la meseta y el sendero que conduce a Nordopólica.
+
+## POINTER 648 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315907]
+Las montañas Madre Cados, llanuras orientales
+
+## POINTER 649 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588792]
+Las montañas Madre Cados, llanuras orientales
+
+## POINTER 650 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588792]
+Las montañas Madre Cados, llanuras orientales
+
+## POINTER 651 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588792]
+Las montañas Madre Cados, llanuras orientales
+
+## POINTER 652 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262436686]
+Las llanuras orientales de las montañas
+Madre Cados dividen el continente de Desier.
+
+## POINTER 656 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588792]
+Las montañas Madre Cados, desierto occidental
+
+## POINTER 657 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588792]
+Las montañas Madre Cados, desierto occidental
+
+## POINTER 658 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588792]
+Las montañas Madre Cados, desierto occidental
+
+## POINTER 659 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588792]
+Las montañas Madre Cados, desierto occidental
+
+## POINTER 660 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+La región desértica que se extiende de Cados a Mantaic.
+
+## POINTER 664 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588921]
+Las montañas Madre Cados, desierto septentrional
+
+## POINTER 665 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588921]
+Las montañas Madre Cados, desierto septentrional
+
+## POINTER 666 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588921]
+Las montañas Madre Cados, desierto septentrional
+
+## POINTER 667 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588921]
+Las montañas Madre Cados, desierto septentrional
+
+## POINTER 668 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257588921]
+Desierto al norte de las montañas Madre Cados.
+
+## POINTER 672 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1262990382]
+Las Arenas de Kogorh
+
+## POINTER 673 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1262990382]
+Las Arenas de Kogorh
+
+## POINTER 674 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1262990382]
+Las Arenas de Kogorh
+
+## POINTER 675 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1262990382]
+Las Arenas de Kogorh
+
+## POINTER 676 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262730567]
+Un desierto inmenso en el centro de Desier.
+
+## POINTER 680 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Sur de las Arenas de Kogorh
+
+## POINTER 681 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Sur de las Arenas de Kogorh
+
+## POINTER 682 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Sur de las Arenas de Kogorh
+
+## POINTER 683 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256920823]
+Sur de las Arenas de Kogorh
+
+## POINTER 684 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262436686]
+La región meridional del desierto de Kogorh.
+Se eleva sobre el nivel del mar.
+
+## POINTER 688 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257589005]
+Las montañas Padre Muzaeli, desierto oriental
+
+## POINTER 689 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257589005]
+Las montañas Padre Muzaeli, desierto oriental
+
+## POINTER 690 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257589005]
+Las montañas Padre Muzaeli, desierto oriental
+
+## POINTER 691 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257589005]
+Las montañas Padre Muzaeli, desierto oriental
+
+## POINTER 692 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Un desierto al este de las montañas Padre Muzaeli.
+
+## POINTER 696 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Norte de las montañas Padre Muzaeli
+
+## POINTER 697 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Norte de las montañas Padre Muzaeli
+
+## POINTER 698 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Norte de las montañas Padre Muzaeli
+
+## POINTER 699 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Norte de las montañas Padre Muzaeli
+
+## POINTER 700 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262436686]
+El monte Temza se encuentra en esta cordillera.
+
+## POINTER 704 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Este de las montañas Padre Muzaeli
+
+## POINTER 705 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Este de las montañas Padre Muzaeli
+
+## POINTER 706 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Este de las montañas Padre Muzaeli
+
+## POINTER 707 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Este de las montañas Padre Muzaeli
+
+## POINTER 708 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+La zona más oriental de las montañas Padre Muzaeli.
+
+## POINTER 712 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Montañas Padre Muzaeli
+
+## POINTER 713 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Montañas Padre Muzaeli
+
+## POINTER 714 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Montañas Padre Muzaeli
+
+## POINTER 715 [t:1;r:2;ru:memnoch,squallido;user:xander;time:1256996420]
+Montañas Padre Muzaeli
+
+## POINTER 716 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262436686]
+Una zona lluviosa en las montañas Padre Muzaeli.
+
+## POINTER 720 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257589067]
+Las Cuatro Islas
+
+## POINTER 721 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257589067]
+Las Cuatro Islas
+
+## POINTER 722 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257589067]
+Las Cuatro Islas
+
+## POINTER 723 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257589067]
+Las Cuatro Islas
+
+## POINTER 724 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315907]
+Un grupo de islas cercanas a la costa sur de Desier.
+
+## POINTER 728 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987932]
+Las Arenas de Kogorh, isla meridional
+
+## POINTER 729 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987932]
+Las Arenas de Kogorh, isla meridional
+
+## POINTER 730 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987932]
+Las Arenas de Kogorh, isla meridional
+
+## POINTER 731 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1262987932]
+Las Arenas de Kogorh, isla meridional
+
+## POINTER 732 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Una isla desierta en la costa sur de Desier.
+
+## POINTER 736 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Isla Zadrack
+
+## POINTER 737 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Isla Zadrack
+
+## POINTER 738 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Isla Zadrack
+
+## POINTER 739 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Isla Zadrack
+
+## POINTER 740 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Una isla desierta.
+
+## POINTER 744 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Islas gemelas Myannema
+
+## POINTER 745 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Islas gemelas Myannema
+
+## POINTER 746 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Islas gemelas Myannema
+
+## POINTER 747 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Islas gemelas Myannema
+
+## POINTER 748 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262315907]
+Dos islas idénticas rodeadas por una laguna poco profunda.
+
+## POINTER 752 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Noreste de Hypionia
+
+## POINTER 753 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Noreste de Hypionia
+
+## POINTER 754 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Noreste de Hypionia
+
+## POINTER 755 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Noreste de Hypionia
+
+## POINTER 756 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262436686]
+La región noreste de Hypionia. Un pequeño
+sendero cruza las profundidades de las montañas.
+
+## POINTER 760 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Hypionia oriental
+
+## POINTER 761 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Hypionia oriental
+
+## POINTER 762 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Hypionia oriental
+
+## POINTER 763 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602517]
+Hypionia oriental
+
+## POINTER 764 [t:1;r:2;ru:memnoch,squallido;user:memnoch;time:1262436686]
+La parte oriental de Hypionia goza de todo tipo
+de terrenos. La bahía de Sakkel está al norte.
+
+## POINTER 768 [t:1;r:2;ru:memnoch,squallido;user:parsec;time:1257602533]
+Hypionia

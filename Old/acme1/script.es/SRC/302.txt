@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1277207034]
+<STR>(YUR)
+¿Qué vas a hacer mientras
+estamos fuera?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1281473169]
+Tokunaga
+Pensaba comprar herramientas
+para el mantenimiento del barco.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1281473169]
+<STR>(KAR)
+No esperarás que las paguemos, ¿verdad?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1282927102]
+Tokunaga
+No te preocupes. La señora presidenta Kaufman
+se encarga del mantenimiento del barco.
+<PAGE>También me gustaría conseguir un
+nuevo blastia ceres, pero son carísimos...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1281473169]
+<STR>(RIT)
+No te falta razón. Eso es porque
+el Imperio supervisa sus ventas.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1281473169]
+Tokunaga
+Por eso puede que aún no
+haya acabado cuando volváis.<PAGE>Si eso pasase, esperad hasta
+que vuelva, ¿de acuerdo?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1277207034]
+<STR>(KAR)
+Eso está hecho.

@@ -1,0 +1,26 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS23_113)What happened to taking a break?!
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS23_114)It's probably a good time. 
+Looks like no one is 
+following us anymore.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS23_115)...How can you tell?
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS23_116)Hmm, intuition I suppose.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS23_117)Intuition...?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS23_118)Anyway, we should be fine 
+here. Let's rest for now.

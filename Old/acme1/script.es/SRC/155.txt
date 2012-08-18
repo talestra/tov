@@ -1,0 +1,164 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298228254]
+<STR>(YUR)
+<VOICE>(VS15_001)Vaya, el tiempo ha cambiado de sopetón.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(KAR)
+<VOICE>(VS15_002)Hay que encontrar una posada
+antes de que acabemos empapados.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(YUR)
+<VOICE>(VS15_003)¿Qué ocurre, <STR>(EST_P)?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1273476502]
+<STR>(EST_P)
+<VOICE>(VS15_004)Oh, es solo que me esperaba
+que una ciudad portuaria
+fuera algo más... alegre.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(YUR)
+<VOICE>(VS15_005)Ya, yo tampoco me lo imaginaba
+así, precisamente...
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272640544]
+<STR>(RIT)
+<VOICE>(VS15_006)Aunque parece un sitio ideal
+para encontrar a ese ladrón
+de núcleos que buscáis.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298228254]
+<STR>(YUR)
+<VOICE>(VS15_007)Dedecchi se dirigía
+a Puerto Torim.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1275229422]
+<STR>(RIT)
+<VOICE>(VS15_008)Seguro que ambos son parecidos.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(KAR)
+<VOICE>(VS15_009)No creas. Puerto Nor es el único
+que tiene tanta escoria.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(EST_P)
+<VOICE>(VS15_010)¿Qué quieres decir?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(KAR)
+<VOICE>(VS15_011)Puerto Nor está... Es todo
+por culpa del Imperio.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+
+<VOICE>(VS15_012)¡Ya os dije lo que le pasaría
+a ese mocoso si no conseguíais
+nuestro dinero!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298228254]
+
+<VOICE>(VS15_013)¡Por favor, señor! ¡Eso no!
+¡Devuélvanos a nuestro hijo!<PAGE><VOICE>(VS15_014)No hemos podido salir a faenar por culpa
+del mal tiempo de estos últimos meses.<PAGE><VOICE>(VS15_015)Tiene que entenderlo, señor.
+Así nos es imposible pagar nuestros impuestos.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1297194507]
+
+<VOICE>(VS15_016)Entonces deberías darte prisa en capturar
+a esa bestia, el rhybgaro, ¿no te parece?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298228254]
+
+<VOICE>(VS15_017)Tiene razón. Si vendéis su cuerno, ya no tendréis
+que preocuparos nunca más por los impuestos.
+¿Cuántas veces tendremos que repetirlo?
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(RIT)
+<VOICE>(VS15_018)Salvajes...
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(YUR)
+<VOICE>(VS15_019)¿Es esa la escoria a la que
+te referías, <STR>(KAR)?
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(KAR)
+<VOICE>(VS15_020)Sí. La influencia del Imperio
+es muy fuerte por aquí.
+<PAGE><VOICE>(VS15_021)Tengo entendido que las cosas se pusieron incluso
+peor cuando llegó el nuevo magistrado. Es un pez
+gordo del Imperio que hace lo que le da la gana.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(RIT)
+<VOICE>(VS15_022)Es decir, que por mucho que
+sus secuaces se comporten así,
+nadie puede quejarse.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(YUR)
+<VOICE>(VS15_023)...
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(EST_P)
+<VOICE>(VS15_024)No puede ser...
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+
+<VOICE>(VS15_025)¡Ya es suficiente! Estás herido...
+¡Esta vez puedes acabar muerto!
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+Teagle
+<VOICE>(VS15_026)¡Pero es nuestro hijo!
+Si no voy...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551751]
+Teagle
+<VOICE>(VS15_027)Aay... Pero ¡¿qué estás haciendo?!
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(YUR)
+<VOICE>(VS15_028)Oh, perdona.
+No te había visto.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298228254]
+<STR>(EST_P)
+<VOICE>(VS15_029)¡<STR>(YUR)!
+Le pido disculpas, señor.
+Déjeme que me encargue de esto.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298228254]
+Kellas
+<VOICE>(VS15_030)P-Pero... No... No puedo
+permitirme un tratamiento así...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298228254]
+<STR>(YUR)
+<VOICE>(VS15_031)¿No deberías estar
+diciendo otra cosa?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298228254]
+Kellas
+<VOICE>(VS15_032)¿Eh?
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(YUR)
+<VOICE>(VS15_033)Anda que... ¿Es que os han robado
+vuestros modales además del dinero?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298228254]
+Kellas
+<VOICE>(VS15_034)L-Lo siento...
+Se lo agradezco mucho.
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272363082]
+<STR>(YUR)
+<VOICE>(VS15_035)...
+
+## POINTER 32 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1275229650]
+<STR>(KAR)
+<VOICE>(VS15_036)¿Eh? ¿<STR>(YUR)?

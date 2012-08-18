@@ -1,0 +1,113 @@
+## POINTER 0
+-Mystic Arte-
+
+## POINTER 1
+-Learned-
+
+## POINTER 2
+-Defeated-
+
+## POINTER 3
+-Escaped-
+
+## POINTER 4
+-Burst Arte-
+
+## POINTER 5
+<0B>(0) succeeded in cooking <0B>(1)!
+
+## POINTER 6
+<0B>(0) failed to cook <0B>(1)!
+
+## POINTER 8
+Stole "<0B>(0)"
+
+## POINTER 9
+Learned skill: "<0B>(0)"
+
+## POINTER 10
+Learned Burst Arte: "<0B>(0)"
+
+## POINTER 11
+Received title: "<0B>(0)"
+
+## POINTER 12
+Brush Spear
+
+## POINTER 13
+Mind of Brush
+
+## POINTER 14
+Increased Grade Bonus
+
+## POINTER 15
+Battle Rank Bonus
+
+## POINTER 16
+-Time Out-
+
+## POINTER 17
+Sunshine
+
+## POINTER 18
+Moonlight
+
+## POINTER 19
+No item to steal
+
+## POINTER 20
+Double Grade Bonus
+
+## POINTER 21
+-----------------
+
+## POINTER 22
+-------
+
+## POINTER 23
+Created a new recipe: "<0B>(0)"
+
+## POINTER 24
+????
+
+## POINTER 25
+Volt Riot
+
+## POINTER 26
+Volt 3 Crush
+
+## POINTER 27
+-Altered Arte-
+
+## POINTER 28
+EXP
+
+## POINTER 29
+BONUS
+
+## POINTER 30
+MAX HIT
+
+## POINTER 31
+LP
+
+## POINTER 32
+GALD
+
+## POINTER 33
+TIME
+
+## POINTER 34
+GRADE
+
+## POINTER 35
+Damage!
+
+## POINTER 36
+Hit
+
+## POINTER 37
+Hits
+
+## POINTER 38
+Chain

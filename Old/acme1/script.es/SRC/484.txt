@@ -1,0 +1,114 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523319]
+<STR>(YUR)
+<VOICE>(VS50_060)Duerme como un tronco.
+Tío, no sé si es
+valiente o un lerdo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(RAV)
+<VOICE>(VS50_061)¿No ibas a tener
+una reunión conmovedora
+con tu amigo del alma?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523319]
+<STR>(YUR)
+<VOICE>(VS50_062)Nah, es su teniente.
+Qué miedo da.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523319]
+<STR>(RAV)
+<VOICE>(VS50_063)¿Mm? Bueno,
+lo entiendo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(YUR)
+<VOICE>(VS50_064)¿Qué quieres decir?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(RAV)
+<VOICE>(VS50_065)Oh, verás, es que... es mú
+seria. Tienes qu'andarte con
+pies de plomo pa no irritarla.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523319]
+<STR>(YUR)
+<VOICE>(VS50_066)Pero si no estoy irritando a nadie.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(RAV)
+<VOICE>(VS50_067)Bueno, como que no puedes
+gustar a tól el mundo tól rato.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(YUR)
+<VOICE>(VS50_068)Supongo que tienes razón.
+¿Y se puede saber
+qué haces aquí?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523319]
+<STR>(RAV)
+<VOICE>(VS50_069)Oh, pues pensar en cosas...
+Oye, ¿a qué viene esa miradita?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523319]
+<STR>(RAV)
+<VOICE>(VS50_070)Con todo lo qu'hemos pasao,
+supongo que tan solo intento
+averiguar qué voy a hacer.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523319]
+<STR>(RAV)
+<VOICE>(VS50_071)Pero aún no se m'ha ocurrío ná.<PAGE><VOICE>(VS50_072)Los cambios me tienen frito.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523319]
+<STR>(YUR)
+<VOICE>(VS50_073)Escoges tu propia vida.
+A estas alturas ya deberías
+poder hacer lo que quisieses.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523319]
+<STR>(RAV)
+<VOICE>(VS50_074)¿Cómo decirlo?... Ya he
+muerto una vez. Ahora pienso
+en mogollón de cosas.<PAGE><VOICE>(VS50_075)Pero creo qu'ir pensando en
+arreglar las cosas con Alexei
+es suficiente por ahora.<PAGE><VOICE>(VS50_076)El resto ya se verá.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(YUR)
+<VOICE>(VS50_077)Por mí perfecto.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(RAV)
+<VOICE>(VS50_078)Hablando de arreglar cosas,
+le conté a <STR>(EST_P)
+todo lo que pasó.<PAGE><VOICE>(VS50_079)Adivina qué hizo.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(YUR)
+<VOICE>(VS50_080)¿Mm?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1287523319]
+<STR>(RAV)
+<VOICE>(VS50_081)Me dijo que le tenía
+que dejar hacerme lo que
+me hicisteis todos.<PAGE><VOICE>(VS50_082)Así que me pegó una
+colleja. Y en paz.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(YUR)
+<VOICE>(VS50_083)Ja, ja. Esa es <STR>(EST_P).
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(RAV)
+<VOICE>(VS50_084)Pues dolió, la verdad.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(RAV)
+<VOICE>(VS50_085)En fin, me parece que me voy
+a pegar una cabezadita aquí.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1285691417]
+<STR>(YUR)
+<VOICE>(VS50_086)Como quieras. Pero intenta que no
+se te peguen las sábanas por una vez.

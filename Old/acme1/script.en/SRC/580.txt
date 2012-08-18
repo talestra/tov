@@ -1,0 +1,48 @@
+## POINTER 0
+<STR>(KAR)
+Hey, did you find anything out?
+
+## POINTER 1
+<STR>(YUR)
+She said it was twenty years ago on Mt. Temza...
+
+## POINTER 2
+<STR>(KAR)
+Twenty years ago? Huh? What was?
+
+## POINTER 3
+<STR>(RAV)
+That area's been a wasteland 
+ever since the Great War.
+
+## POINTER 4
+<STR>(JUD)
+But rocks are rocks. Wars shouldn't
+really affect things like that.
+
+## POINTER 5
+<STR>(YUR)
+<STR>(JUD), weren't you born 
+there? Did you ever hear 
+anything about this?
+
+## POINTER 6
+<STR>(JUD)
+Well, I was really little when 
+I lived there. I never heard
+anyone talking about Everlight.
+
+## POINTER 7
+<STR>(YUR)
+Hmm... Okay....
+
+## POINTER 8
+<STR>(KAR)
+Wouldn't it be faster 
+just to go and see if we 
+can get any ourselves?
+
+## POINTER 9
+<STR>(YUR)
+Yeah, you're right. Let's 
+take a trip to Mt. Temza.

@@ -1,0 +1,122 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:TheWing;time:1271187414]
+<STR>(EST_P)
+¿Podría curarle sus heridas?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+Vaya, ¿puedes usar artes curativas?<PAGE>
+¡Eso es magnífico! Pero...
+me temo que no tengo
+demasiado dinero...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1272376338]
+<STR>(EST_P)
+No, no, no hace falta que me pague.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+Increíble. Ya no me duele nada.
+G-Gracias. Muchísimas gracias.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+<STR>(EST_P)
+Ah, eh, no ha sido nada...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+Por los dioses, menudas
+artes curativas conoces.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+¿Cómo podríamos agradecértelo?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:TheWing;time:1271187414]
+<STR>(EST_P)
+No, de verdad, no os preocupéis.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+Qué joven tan humilde.
+Ojalá los Caballeros
+Imperiales tomaran ejemplo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+¡Qué va! ¡Los Caballeros
+no mueven ni un dedo para
+protegernos de los monstruos!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+Supongo que al Imperio
+no podría importarle menos
+lo que nos suceda.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+<STR>(EST_P)
+No... e-eso no es cierto...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+Ah, pero aquel Caballero
+sí que era diferente, ¿eh?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+Sí, ese joven.
+Lo hubiéramos perdido todo
+si no hubiera sido por él.<PAGE>La barrera se debilitó antes de lo previsto,
+y nos atacaron antes de que el
+gremio pudiera venir a protegernos.<PAGE>Pero un Caballero y su brigada que
+pasaban por la ciudad de peregrinaje
+ahuyentaron a todos los monstruos.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+<STR>(EST_P)
+Un Caballero de peregrinaje...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+<STR>(YUR)
+¿Ese Caballero no se llamaría
+<STR>(FRE), por casualidad?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+Sí, ese era su nombre: <STR>(FRE) Scifo.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:parsec;time:1271192440]
+<STR>(EST_P)
+¡¿Todavía está en la ciudad?!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+No, partió en busca de un mago
+que pudiera arreglar la barrera.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298763906]
+<STR>(YUR)
+¿Sabes adónde ha ido?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+Parece que se dirigía al este,
+pero no sabría decirte más...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+<STR>(EST_P)
+Entiendo.<PAGE>Entonces basta con que esperemos aquí
+y <STR>(FRE) vendrá a nosotros.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+<STR>(YUR)
+Parece que lo hemos alcanzado.
+¿Te sientes mejor ahora?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+<STR>(EST_P)
+Sí... No estaré tranquila hasta que lo vea,
+pero supongo que sí me siento un poco mejor.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+<STR>(YUR)
+Deberíamos echar un vistazo a ese árbol
+tan famoso, ¿no crees? ¿Vienes conmigo?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+<STR>(EST_P)
+¡Oh, sí!<PAGE>¿No te importa, <STR>(YUR)? ¿Te parece bien
+dejar de perseguir al ladrón del núcleo de blastia?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1273567205]
+<STR>(YUR)
+Puedo dedicarle un poco
+de tiempo a ver ese árbol.

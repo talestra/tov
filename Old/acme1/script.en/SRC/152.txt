@@ -1,0 +1,68 @@
+## POINTER 0
+<STR>(RIT)
+I didn't know flowers like this grew in the mountains!
+
+## POINTER 1
+<STR>(EST_P)
+<STR>(RIT)! Don't touch it!
+
+## POINTER 2
+<STR>(EST_P)
+"Inhaling billybally leaf pollen 
+can lead to vertigo and strong 
+feelings of exhaustion."
+
+## POINTER 3
+<STR>(RIT)
+Hmph...
+
+## POINTER 4
+<STR>(KAR)
+Hey, what're you--
+
+## POINTER 5
+<STR>(RIT)
+Whoops, sorry!
+
+## POINTER 6
+<STR>(EST_P)
+<STR>(KAR), are you okay?!
+
+## POINTER 7
+<STR>(YUR)
+You're interested in healing artes?
+
+## POINTER 8
+<STR>(RIT)
+Nah...
+
+## POINTER 9
+<STR>(EST_P)
+...It's no use. Healing artes 
+don't work on this.<PAGE>We'll just have to wait until 
+he recovers naturally.
+
+## POINTER 10
+<STR>(YUR)
+How long will that take?
+
+## POINTER 11
+<STR>(EST_P)
+<STR>(KAR), be strong!
+
+## POINTER 12
+<STR>(KAR)
+Ugh, <STR>(RIT), you're terrible...
+
+## POINTER 13
+<STR>(RIT)
+I said I was sorry.
+
+## POINTER 14
+<STR>(YUR)
+If you're all right, then let's go.
+
+## POINTER 15
+<STR>(EST_P)
+Let's be careful to stay away from the 
+billybally leaf from now on, okay?

@@ -1,0 +1,110 @@
+## POINTER 0
+<STR>(EST_P)
+Do you mind if we take 
+the room next door?
+
+## POINTER 1
+<STR>(YUR)
+It might be a bit small, 
+but go right ahead.
+
+## POINTER 2
+<STR>(EST_P)
+Oh, wait for me!
+
+## POINTER 3
+Ted
+Welcome back, <STR>(YUR)!
+
+## POINTER 4
+<STR>(YUR)
+You're full of energy as usual, Ted.
+
+## POINTER 5
+Ted
+Eh? <STR>(FRE)'s 
+not with you?
+
+## POINTER 6
+<STR>(YUR)
+He's been busy with the Knights. I 
+couldn't drag around some rising 
+star captain on my little errands.
+
+## POINTER 7
+Ted
+...Did you two get in a fight again?
+
+## POINTER 8
+<STR>(KAR)
+Again? Do <STR>(FRE) and 
+<STR>(YUR) fight a lot?
+
+## POINTER 9
+Ted
+Yup, day in and day out. <STR>(YUR), I want 
+you to go and make up with <STR>(FRE).
+
+## POINTER 10
+<STR>(YUR)
+Look, it's not that simple.
+
+## POINTER 11
+Ted
+Simple? You and <STR>(FRE) are 
+as simple as they come!<PAGE>Like when we couldn't pay our 
+taxes. You thought you'd just 
+get rid of the tax collector.<PAGE>What's simple is your way of thinking. 
+Even I would've thought that 
+one through a little more.
+
+## POINTER 12
+<STR>(RAV)
+That's simple, all right.
+
+## POINTER 13
+Ted
+They're both too stubborn. If they'd 
+just give each other an inch...<PAGE>Like when <STR>(YUR) quit the Imperial 
+Knights...things keep getting 
+rocky like that.
+
+## POINTER 14
+Ted
+You two are incorrigible. 
+Here, take this and go patch 
+things up with <STR>(FRE).
+
+## POINTER 15
+<STR>(KAR)
+Bread? Why?
+
+## POINTER 16
+Ted
+You can split it. <STR>(YUR) and <STR>(FRE) 
+have split everything with each 
+other, ever since they were kids.<PAGE>Like their first sword. They could 
+only afford one, so they switched 
+off using it all day long.
+
+## POINTER 17
+<STR>(KAR)
+Ah, I think I'm starting 
+to see how similar <STR>(YUR) 
+and <STR>(FRE) really are.
+
+## POINTER 18
+<STR>(YUR)
+We've been together forever. When 
+you grow up in the same environment, 
+you're bound to be a little alike.
+
+## POINTER 19
+Ted
+You'd better make up with him before 
+the next time you come back here.<PAGE>Then I'll have the missus cook 
+up everyone a nice, big dinner!
+
+## POINTER 20
+<STR>(YUR)
+Make up with <STR>(FRE), huh...<PAGE>It was so easy when we were kids...

@@ -1,0 +1,106 @@
+## POINTER 0
+Leblanc
+Sir <STR>(RAV), a mission 
+well done!
+
+## POINTER 1
+<STR>(RAV)
+Mission? Whaddaya mean...?
+
+## POINTER 2
+Leblanc
+Sir <STR>(RAV), word of your formidable success 
+has reached our ears, even here!
+
+## POINTER 3
+<STR>(RAV)
+Enough with the formalities.
+
+## POINTER 4
+Leblanc
+Yes sir, that is, I've come with a 
+gift of clothing from Master Ioder!<PAGE>This is a gift of encouragement to Sir <STR>(RAV) 
+from Master Ioder. Please take it, that it 
+may serve you well in the final battle.
+
+## POINTER 5
+<STR>(YUR)
+An outfit for the final battle, eh?
+
+## POINTER 6
+<STR>(EST_P)
+It's given by the emperor to a distinguished 
+commandant to recognize their 
+loyalty and great deeds.
+
+## POINTER 7
+<STR>(JUD)
+He's probably trying to get you pepped up by 
+giving it to you before the final battle.
+
+## POINTER 8
+<STR>(RAV)
+But shouldn't you be givin' 
+it ta <STR>(FRE), then? I'm not one 
+of the Imperial Knights!
+
+## POINTER 9
+Leblanc
+Apparently, Sir <STR>(FRE) refused to take it. He said 
+that you deserve it, Sir <STR>(RAV), as you will 
+be the one to stand on the real battlefield.
+
+## POINTER 10
+<STR>(YUR)
+I think that's <STR>(FRE)'s way of saying, 
+"I'll clean up for Schwann's mistakes. 
+Go and give 'em hell."<PAGE>He'll be pretty steamed if you turn it down.
+
+## POINTER 11
+<STR>(RAV)
+...I understand. Then I'll accept 
+this gladly, as an imperial 
+gift from Master Ioder.
+
+## POINTER 12
+<STR>(EST_P)
+Once you accept it, you have to wear it.
+
+## POINTER 13
+<STR>(RAV)
+Right here?
+
+## POINTER 14
+<STR>(EST_P)
+Yes. It's the custom.
+
+## POINTER 15
+<STR>(JUD)
+It suits you rather well.
+
+## POINTER 16
+<STR>(RAV)
+I'm glad ya like it. Now, 
+let's get out of here.
+
+## POINTER 17
+Leblanc
+C-Captain Schwaaann…<PAGE>Schwann Brigade! All 
+salute Sir <STR>(RAV)!
+
+## POINTER 18
+Leblanc
+Godspeed!
+
+## POINTER 19
+<STR>(KAR)
+Wow...
+
+## POINTER 20
+<STR>(RAV)
+That's why I wanted us 
+to get out of here!
+
+## POINTER 21
+<STR>(JUD)
+Everyone has such high hopes for us.

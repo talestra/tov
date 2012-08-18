@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1290155527]
+<STR>(EST_P)
+<VOICE>(VS65_081)Estas escaleras...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840529]
+<STR>(YUR)
+<VOICE>(VS65_082)Parece que la cima está ahí arriba.<PAGE><VOICE>(VS65_083)Duke también debe estar ahí.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291840529]
+<STR>(YUR)
+<VOICE>(VS65_084)Ha llegado el momento de la verdad.
+¿Estáis todos listos?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1290155527]
+<STR>(RIT)
+<VOICE>(VS65_085)Desde hace un buen rato. ¡Vamos allá!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1290155527]
+<STR>(KAR)
+<VOICE>(VS65_086)Sí. Tenemos
+que hacerlo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1290155527]
+<STR>(RAV)
+<VOICE>(VS65_087)Pos sí. Incluso este viejales
+piensa darlo tó.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1290155527]
+<STR>(EST_P)
+<VOICE>(VS65_088)La gente cree en nosotros.
+Nos están esperando. ¡Tenemos
+que derrotar al adephagos por ellos!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981086]
+<STR>(JUD)
+<VOICE>(VS65_089)Y por Phaeroh y Belius.
+Por el recuerdo
+de los entelechia.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1290155527]
+<STR>(RAP)
+<VOICE>(VS65_090)¡Guau!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1290155527]
+<STR>(YUR)
+<VOICE>(VS65_091)¡Adelante!

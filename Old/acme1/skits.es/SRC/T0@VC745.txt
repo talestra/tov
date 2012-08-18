@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1282573159]
+El valor de una barrera blastia
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182970]
+(YUR)
+Se ha armado una buena solo porque
+se haya roto una barrera blastia.
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266076107]
+(KAR)
+No sé, a mí me ha parecido
+peor la que ha armado (RIT).
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182970]
+(RIT)
+¡Eso son detalles!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1282573159]
+(EST_P)
+Pues claro que la gente se ha enfadado.
+Era una barrera blastia.
+
+## POINTER 5 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1264125515]
+(EST_P)
+Los blastias están ligados a casi todos
+los aspectos de la vida cotidiana.
+
+## POINTER 6 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329180]
+(YUR)
+Cierto.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1282572956]
+(YUR)
+Las cosas se pusieron patas arriba en los
+barrios bajos cuando se rompió el aqua blastia.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182970]
+(EST_P)
+Espero que pronto puedan arreglarlo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182970]
+(YUR)
+Ya. Por eso mismo estamos
+pasando por todo esto.

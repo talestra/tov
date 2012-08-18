@@ -1,0 +1,35 @@
+## POINTER 0
+<STR>(KAR)
+The steam...
+It went away...
+
+## POINTER 1
+Efreet
+I have stored enough for the battle with the Adephagos. 
+With this, you may banish all worries from your minds.
+
+## POINTER 2
+<STR>(YUR)
+That's all well and good, but are you sure 
+it's okay to do something like that?
+
+## POINTER 3
+Efreet
+I have only taken energy from 
+the upper crust of the ground. 
+You need not be apprehensive.<PAGE>With the passage of time, eventually the surface 
+will return to its original level of activity.
+
+## POINTER 4
+<STR>(YUR)
+I guess that's okay, then.
+
+## POINTER 5
+<STR>(JUD)
+It looks like Ba'ul can land there. 
+Doesn't that make it worth it?
+
+## POINTER 6
+<STR>(YUR)
+If we can land there and find 
+something good, it does.

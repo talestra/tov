@@ -1,0 +1,303 @@
+## POINTER 199 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245872]
+ATQ F. y DEF F.
+
+## POINTER 200 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265230470]
+ATQ M. y DEF M.
+
+## POINTER 201 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245872]
+ATQ F. y ATQ M.
+
+## POINTER 202 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245872]
+DEF F. y DEF M.
+
+## POINTER 203 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Todos los parámetros
+
+## POINTER 204 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265230470]
+¡<0B>(2) incrementado en <0B>(3)!
+
+## POINTER 205 [t:1;r:1;ru:memnoch;user:memnoch;time:1304155818]
+EQUIPAR
+
+## POINTER 206 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+INFORMACIÓN
+
+## POINTER 207 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+<06>(RBU)Cambiar dispositivo de almacenamiento
+
+## POINTER 208 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+<06>(RBU)Cambiar dispositivo de almacenamiento
+
+## POINTER 209 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+<06>(L2)<06>(R2)Cambiar <06>(L1)<06>(R1)Girar modelo
+
+## POINTER 210 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245872]
+<06>(RBD)Confirmar<06>(RBR)Volver <06>(L2)
+<06>(R2)Categoría
+
+## POINTER 211 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Humanoide
+
+## POINTER 212 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Bestia
+
+## POINTER 213 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Ave
+
+## POINTER 214 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Mágico
+
+## POINTER 215 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Planta
+
+## POINTER 216 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Acuático
+
+## POINTER 217 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Insecto
+
+## POINTER 218 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Inorgánico
+
+## POINTER 219 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Escamoso
+
+## POINTER 220 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Uso
+
+## POINTER 221 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Consumo de TP
+
+## POINTER 222 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Nv.
+
+## POINTER 223 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Ordenar por nombre
+
+## POINTER 224 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Resistencia
+
+## POINTER 225 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Debilidad
+
+## POINTER 226 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+EXP
+
+## POINTER 227 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+LP
+
+## POINTER 228 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+GALD
+
+## POINTER 229 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Memo
+
+## POINTER 230 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358812]
+OBJETO OBTENIDO
+
+## POINTER 231 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358812]
+OBJETO ROBADO
+
+## POINTER 232 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Hábitat
+
+## POINTER 233 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Cronología
+
+## POINTER 234 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+SIGUIENTE
+
+## POINTER 235 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+GRUPO
+
+## POINTER 236 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Cambiar miembro del grupo.
+
+## POINTER 237 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Nada
+
+## POINTER 243 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Confirmar
+
+## POINTER 244 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Volver
+
+## POINTER 245 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Por defecto
+
+## POINTER 246 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+No hay espacio suficiente en el dispositivo.
+No se pueden guardar los datos del juego.
+Selecciona otro dispositivo de almacenamiento
+que tenga más de <0B>(0)KB para poder guardar.
+
+## POINTER 247 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+<06>(L1)Cambiar estrategia.
+
+## POINTER 248 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+<06>(RBL)Cambiar cámara.
+
+## POINTER 249 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Cambiar configuración.
+
+## POINTER 250 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Mostrar récords.
+
+## POINTER 251 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+TIENDA DE GRADO
+
+## POINTER 252 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Restante(s)
+
+## POINTER 253 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+GRADO
+
+## POINTER 254 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Resistencia
+
+## POINTER 255 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Debilidad
+
+## POINTER 256 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+LIBRO DE BATALLA
+
+## POINTER 257 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Cronología
+
+## POINTER 258 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358812]
+Mostrar el Libro de batalla
+
+## POINTER 259 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Tiempo total
+
+## POINTER 260 [t:1;r:1;ru:memnoch;user:memnoch;time:1294183270]
+Gald máximo
+
+## POINTER 261 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358812]
+Gald gastado total
+
+## POINTER 262 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Skits vistas
+
+## POINTER 263 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Número de guardados
+
+## POINTER 264 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Partidas completadas
+
+## POINTER 265 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Partida más rápida
+
+## POINTER 266 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Media de tiempo de batalla
+
+## POINTER 267 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Victoria más rápida
+
+## POINTER 268 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Encuentros
+
+## POINTER 269 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358812]
+Enemigos derrotados totales
+
+## POINTER 270 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Número máx. de golpes
+
+## POINTER 271 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Número total de AL
+
+## POINTER 272 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Combo de AL máx.
+
+## POINTER 273 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Daño máximo
+
+## POINTER 274 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358812]
+Daño infligido total
+
+## POINTER 275 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358812]
+Daño recibido total
+
+## POINTER 276 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Grado máx.
+
+## POINTER 277 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358812]
+Inconsciencias totales
+
+## POINTER 278 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358812]
+Huidas totales
+
+## POINTER 279 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358812]
+Síntesis totales
+
+## POINTER 280 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Uso: <STR>(YUR)
+
+## POINTER 281 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Uso: <STR>(EST)
+
+## POINTER 282 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Uso: <STR>(KAR)
+
+## POINTER 283 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Uso: <STR>(RIT)
+
+## POINTER 284 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Uso: <STR>(RAV)
+
+## POINTER 285 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Uso: <STR>(JUD)
+
+## POINTER 286 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Uso: <STR>(RAP)
+
+## POINTER 287 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Uso: <STR>(FRE)
+
+## POINTER 288 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Uso: <STR>(PAT)
+
+## POINTER 289 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358812]
+Velocidad de los mensajes
+
+## POINTER 290 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Dificultad de batalla
+
+## POINTER 291 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Vibración del mando
+
+## POINTER 292 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Controles de la cámara
+
+## POINTER 293 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Configuración de botones
+
+## POINTER 294 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Sonido
+
+## POINTER 295 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Volumen música
+
+## POINTER 296 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Volumen efectos
+
+## POINTER 297 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Volumen efectos de batalla
+
+## POINTER 298 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245872]
+Cámara activa
+
+## POINTER 299 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Cámara dinámica
+
+## POINTER 300 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245872]
+Límites del campo de batalla
+
+## POINTER 301 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Voces en batalla
+
+## POINTER 302 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Voces en escenas
+
+## POINTER 303 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263815493]
+Nombres de lugares

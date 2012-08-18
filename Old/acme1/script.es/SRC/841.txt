@@ -1,0 +1,374 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+Sicily
+Oh, buona sera!
+¿Cómo estáis?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1294424404]
+<STR>(KAR)
+¡Oh, es el señor Sicily!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(RIT)
+Os juro que ese tarado
+nos está siguiendo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+Karolow X
+Profesor Sicily... 
+¡¡Le he echado de menos, clanc!!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+Sicily
+¡Oh, si es Sterrilow! 
+¿Qué tal todo, Sterrilow?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+Karolow X
+¡He estado muy bien, claaanc!
+¡Parece que usted también ha estado
+bien, profesor Silicy! ¡Clanc!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(YUR)
+¿Sterrilow?
+No se llama así...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1294424404]
+<STR>(JUD)
+¿Y qué? A <STR>(KAR)ow
+no parece importarle.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+
+¡A-Al ladróóón!
+¡¡Cogedlo!!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1294424404]
+<STR>(YUR)
+¡A por él, <STR>(RAP)!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1294424404]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+
+¡¡M-Maldito chucho!!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+
+Ha sido alucinante...
+Gracias, mi canino amigo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1294424404]
+<STR>(RAP)
+¡Guau, guau!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1294424404]
+Sicily
+¡Qué perro tan increíble!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1294424404]
+<STR>(YUR)
+Sí, siempre se puede contar
+con <STR>(RAP). Se puede confiar
+más en él que en muchos humanos.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1294424588]
+Sicily
+Conque al final sí que sabe
+luchar... ¡Hasta tiene un arma!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1294424588]
+<STR>(KAR)
+¡Exacto! ¡Y <STR>(RAP)
+es más rápido que nadie!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1294424588]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:kaene;time:1294424588]
+Sicily
+Mmm... Esto me da
+cierta motivazione...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(YUR)
+¿Eh? ¿Ahora te
+interesa <STR>(RAP)?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1304550879]
+Sicily
+Sí, eso creo. Me parece que podría
+crear algo muy útil... Pero ¿podría
+utilizarlo con todo su potencial?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(EST_P)
+Parece que ya hay algo
+rondándole en la cabeza...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+Karolow X
+¡Calla, clanc!
+¡El profesor Sicily 
+está pensando!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:kaene;time:1294424828]
+Sicily
+¡Mmm, parece que este
+perro sería capaz
+de utilizarlo! ¡Sí!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(YUR)
+¿Qué dices? ¿Tiene
+que ver con <STR>(RAP)?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:kaene;time:1294424828]
+Sicily
+Aspettare un momento.
+Voy a crear algo
+muy bueno...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:kaene;time:1294424828]
+<STR>(RAV)
+Espero que no sea otra decepción
+como con <STR>(KAR)ow X...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:kaene;time:1294424828]
+Karolow X
+¿Te estás burlando de mí?
+¡¿Cómo te atreeeeves?!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:kaene;time:1294424828]
+Sicily
+Finito!!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(RAV)
+Vaya, mira que eres rápido.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:kaene;time:1294424828]
+Sicily
+¡Creo que esto será perfecto
+para nuestro amico canino!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:kaene;time:1294424957]
+<STR>(JUD)
+Parece que es un
+arma para <STR>(RAP).
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:kaene;time:1294424957]
+<STR>(YUR)
+¡Esto sí que es útil!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:kaene;time:1294424957]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+Karolow X
+¡Es el mejor, professor 
+Sicily! ¡Es genial, claaanc!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:kaene;time:1294424957]
+<STR>(YUR)
+Sí, y que lo digas. Muchas gracias.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:kaene;time:1294424957]
+Sicily
+¡No hay por qué darlas!
+Tu perro me ha despertado
+el interés, ¿sabes?
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(YUR)
+Ah, ya veo.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:kaene;time:1294424957]
+<STR>(RAV)
+M-Mu bien hecho, <STR>(RAP)...
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1296756158]
+<STR>(JUD)
+¿Quién se siente solito
+porque nadie le hace caso
+últimamente?
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(RAV)
+Ja, ja, ja.  Pero ¿qué dices?
+Ya vale de bromicas, 
+<STR>(JUD), cielo...
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:kaene;time:1294425169]
+Sicily
+¡Bueno, pues hasta la
+vista, amici! Arrivederci!
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:kaene;time:1294425169]
+Sicily
+Mmm, sí... Parece que tienes
+que ser un poco más fuerte...
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(YUR)
+¿Qué dices?
+¿Te refieres a <STR>(RAP)?
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:kaene;time:1294425169]
+Sicily
+¡Tu amico canino debería volver
+cuando sea más fuerte! ¡Te haré
+algo muy útil cuando vuelvas!
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:kaene;time:1294425169]
+<STR>(RAV)
+Espero que no sea otra decepción
+como con <STR>(KAR)ow X...
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:kaene;time:1294425169]
+Karolow X
+¿Te estás burlando de mí?
+¡¿Cómo te atreeeeves?!
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:kaene;time:1294425373]
+<STR>(YUR)
+Muy bien, ya nos pasaremos
+cuando <STR>(RAP) sea más
+fuerte que ahora.
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:kaene;time:1294425373]
+Sicily
+¡Sí, muy bien! ¡Suerte!
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:kaene;time:1294425373]
+<STR>(KAR)
+Espero que no tenga alguna locura
+en la cabeza, como la última vez.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:kaene;time:1294425373]
+<STR>(YUR)
+No sé. Tengo ganas de que <STR>(RAP) 
+sea más fuerte para ver qué tiene
+planeado este hombre.
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:kaene;time:1294425373]
+<STR>(JUD)
+Más vale que nos demos prisa
+antes de que encuentre otra
+cosa con la que obsesionarse.
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:kaene;time:1294425373]
+<STR>(YUR)
+¿Listo para trabajar duro, <STR>(RAP)?
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:kaene;time:1294425373]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+Sicily
+¡Oh, tu amico canino parece
+mucho más fuerte que antes!
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:kaene;time:1294425373]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:kaene;time:1294425616]
+Sicily
+Creo que ahora será
+capaz de usarlo...
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:kaene;time:1294425616]
+Sicily
+Aspettare un momento.
+Voy a crear algo muy bueno...
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:kaene;time:1294425616]
+Sicily
+Finito!!
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(RAV)
+Vaya, mira que eres rápido.
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:kaene;time:1294425616]
+Sicily
+¡Creo que esto será perfecto
+para nuestro amico canino!
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:kaene;time:1294425616]
+<STR>(JUD)
+Parece que es un
+arma para <STR>(RAP).
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:kaene;time:1294425616]
+<STR>(YUR)
+¡Esto sí que es útil!
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:kaene;time:1294425616]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 65 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+Karolow X
+¡Es el mejor, professor 
+Sicily! ¡Es genial, claaanc!
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:kaene;time:1294425616]
+<STR>(YUR)
+Sí, y que lo digas. Muchas gracias.
+
+## POINTER 67 [t:1;r:1;ru:memnoch;user:kaene;time:1294425616]
+Sicily
+¡No hay por qué darlas! Tu perro
+me ha despertado el interés, ¿sabes?
+
+## POINTER 68 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(YUR)
+Ah, ya veo.
+
+## POINTER 69 [t:1;r:1;ru:memnoch;user:kaene;time:1294425616]
+<STR>(RAV)
+M-Mu bien hecho, <STR>(RAP)...
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:memnoch;time:1296756158]
+<STR>(JUD)
+¿Quién se siente solito
+porque nadie le hace caso
+últimamente?
+
+## POINTER 71 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+<STR>(RAV)
+Ja, ja, ja.  Pero ¿qué dices?
+Ya vale de bromicas, 
+<STR>(JUD), cielo...
+
+## POINTER 72 [t:1;r:1;ru:memnoch;user:kaene;time:1294425616]
+Sicily
+¡Bueno, pues hasta la
+vista, amici! Arrivederci!
+
+## POINTER 73 [t:1;r:1;ru:memnoch;user:memnoch;time:1296679416]
+Sicily
+Mmm, vuestro amico canino aún no es lo
+bastante fuerte. Signor Perro, ¡vuelve
+cuando seas más forte! ¡Más... robusto!
+
+## POINTER 74 [t:1;r:1;ru:memnoch;user:kaene;time:1294425847]
+<STR>(YUR)
+Oh, entiendo...
+
+## POINTER 75 [t:1;r:1;ru:memnoch;user:kaene;time:1294425847]
+<STR>(RAP)
+*Gemido*
+
+## POINTER 76 [t:1;r:1;ru:memnoch;user:kaene;time:1294425847]
+<STR>(KAR)
+Al menos parece que aún está
+interesado en <STR>(RAP)... 
+Deberíamos darnos prisa.

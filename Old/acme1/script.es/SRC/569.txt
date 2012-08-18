@@ -1,0 +1,72 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931024]
+<STR>(KAR)
+Nunca me había fijado en lo profunda
+que es el agua de esta zona...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291930205]
+<STR>(YUR)
+Así que a la cliente se le cayó
+el colgante desde aquí.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1284211365]
+<STR>(JUD)
+Supongo que bucearemos
+para buscarlo, ¿no?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931024]
+<STR>(RIT)
+Aunque nos zambuyésemos,
+dudo que el colgante
+siguiese ahí.<PAGE>La livianita no es un metal muy pesado.
+Seguro que se lo ha llevado la corriente.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931024]
+<STR>(YUR)
+Eso quiere decir que ahora mismo
+debe estar en el fondo del mar.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1284211365]
+<STR>(RAP)
+*Gemido*
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931024]
+
+Yo de vosotros iría con cuidado.<PAGE>
+Por culpa de la marea del océano,
+la corriente se ha alterado mucho por aquí.
+¡Si os caéis os arrastrará en un periquete!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1284211365]
+<STR>(YUR)
+¿La marea? Pero si esto no es el mar.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1284211365]
+
+El agua de este río es una mezcla de agua del
+océano y de agua dulce que baja de las montañas.
+Todos los ríos de por aquí son así.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931024]
+<STR>(KAR)
+Vaya...
+No tenía ni idea.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1284211365]
+
+Ahora que lo pienso, el cadáver del magistrado
+ese que dicen que fue arrojado al río
+lo arrastró la corriente hasta Heliord.<PAGE>Lo digo para que entendáis lo lejos que puede
+llevarse la corriente las cosas que se caen en ella.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1291931045]
+<STR>(JUD)
+Parece que empezar la búsqueda
+en Heliord no sería mala idea.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1284211365]
+<STR>(KAR)
+Gracias por su ayuda, señor.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1284211365]
+
+¿Eh? ¿Para qué...?

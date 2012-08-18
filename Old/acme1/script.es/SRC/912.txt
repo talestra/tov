@@ -1,0 +1,134 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1295093920]
+
+¿Hola?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296938050]
+<STR>(YUR)
+¿Mmm?
+¿Qué pasa?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296939299]
+
+¿Puedes enseñarme ese
+objeto que llevas ahí?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296939299]
+<STR>(RAV)
+Oh, ¿t'interesa
+la colección de
+«juguetes de lujo»?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1295094491]
+
+¡Oh, entonces es
+uno de esos!
+¡Qué envidia!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296939299]
+<STR>(RIT)
+¿Qué tiene de especial
+este juguete?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1295094491]
+<STR>(RAV)
+Hoy en día son muy
+difíciles de encontrar.
+Es una pena...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1295094491]
+Oh, ¿no lo sabías?
+¡He oído que se pueden sacar
+de esa máquina de ahí!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1295094491]
+<STR>(RAV)
+¡¿Que qué?! ¿En serio?
+¿De verdad me lo dices?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296939299]
+
+Pero es solo un rumor.
+¡Yo lo he intentado,
+pero no he tenido suerte!<PAGE>Creía que quizás
+habías conseguido el
+tuyo de esa máquina.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1295094491]
+<STR>(KAR)
+¡Nop! ¡Fue la recompensa por
+un trabajo de Gran Vesperia!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296939299]
+
+¿Gran Vesperia?
+¿Es el nombre de un gremio?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1295094491]
+<STR>(YUR)
+Bueno, nos dedicamos
+a todo un poco.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1295094491]
+
+Un gremio... Entonces quizás
+podría pediros un favor...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296939299]
+<STR>(RAV)
+¡Nu hay problema! ¡Quienquiera que
+comparta los intereses der viejo
+<STR>(RAV), se merece un poco de ayuda!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1296939299]
+
+¿Podríais conseguirme
+los once «juguetes de
+lujo» de la colección?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1295094820]
+<STR>(KAR)
+Pero no se pueden comprar en
+tiendas, ¿verdad? Y ni siquiera
+sabemos si salen en esa máquina.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1295094820]
+
+Ya, pero hay mucha
+gente por ahí que
+los tiene.<PAGE>Y he oído rumores que dicen
+que hay más máquinas como esa
+en otros lugares del mundo.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296939299]
+<STR>(RAV)
+Las conozco. Pero tienes
+que meter gald u otra cosa
+pa' que te suelten argo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296939299]
+
+Ah, ¿las conoces? Entonces, por
+favor, ¡conseguidme esos juguetes!
+Por supuesto, sabré recompensaros.<PAGE>Dejad que os dé esto como
+parte de la recompensa.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296939299]
+
+Lo conseguí de la máquina,
+pero no es mi estilo. Señorita,
+creo que a ti te sentaría bien.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296939299]
+<STR>(EST_P)
+¡Muchísimas gracias! Parece
+que encaja bien con esta ropa.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:kaene;time:1295094820]
+<STR>(YUR)
+Bueno, como nos ha dado una recompensa
+por el trabajo, ¡más vale que lo
+hagamos! Te buscaremos los juguetes.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:kaene;time:1295094820]
+
+¡Muchas gracias!

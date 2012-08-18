@@ -1,0 +1,314 @@
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263146224]
+Fuerza
+
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263146828]
+Aumenta el ataque físico un 5%.
+No afecta al incremento debido al equipo.
+
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263146224]
+Fuerza 2
+
+## POINTER 5 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263146828]
+Aumenta el ataque físico un 10%.
+No afecta al incremento debido al equipo.
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263146224]
+Fuerza 3
+
+## POINTER 7 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263146828]
+Aumenta el ataque físico un 15%.
+No afecta al incremento debido al equipo.
+
+## POINTER 8 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263146224]
+Fuerza 4
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263146828]
+Aumenta el ataque físico un 20%.
+No afecta al incremento debido al equipo.
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263148452]
+Fuerza T
+
+## POINTER 11 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263157657]
+Aumenta el ataque físico un 25% si el HP baja del 75%.
+No afecta al incremento debido al equipo.
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263148452]
+Magia
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263148642]
+Aumenta el ataque mágico un 5%.
+No afecta al incremento debido al equipo.
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263148452]
+Magia 2
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263148642]
+Aumenta el ataque mágico un 10%.
+No afecta al incremento debido al equipo.
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263148452]
+Magia 3
+
+## POINTER 17 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263148642]
+Aumenta el ataque mágico un 15%.
+No afecta al incremento debido al equipo.
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263148452]
+Magia 4
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263148642]
+Aumenta el ataque mágico un 20%.
+No afecta al incremento debido al equipo.
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263148452]
+Magia T
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1304456236]
+Aumenta el ataque mágico un 25% si el HP baja del 75%.
+No afecta al incremento debido al equipo.
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263160429]
+Incremento de ataque
+
+## POINTER 23 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263160429]
+Aumenta el daño consumiendo TP.
+
+## POINTER 24 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263160429]
+Golpe duro
+
+## POINTER 25 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263160429]
+Aumenta la posibilidad de aturdir un enemigo
+con un ataque físico.
+
+## POINTER 26 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263160696]
+Espadas alzadas
+
+## POINTER 27 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263160696]
+Aumenta el ATQ F. cuando se equipa una espada.
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263160696]
+Hachas alzadas
+
+## POINTER 29 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Aumenta el ATQ F. cuando se equipa un hacha.
+
+## POINTER 30 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263160696]
+Combatir
+
+## POINTER 31 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Aumenta la fuerza de un ataque
+cuando se equipa un hacha.
+
+## POINTER 32 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263160713]
+Raynard
+
+## POINTER 33 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Aumenta la fuerza de un ataque
+cuando se equipa un martillo.
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263223139]
+Fuerza de luz
+
+## POINTER 35 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Aumenta la fuerza de un conjuro
+cuando se equipa un arco ligero.
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263163414]
+Asesino
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263163730]
+Aumenta los ataques y disminuye el daño
+recibido de enemigos humanos.
+
+## POINTER 38 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263163414]
+Insectos macho
+
+## POINTER 39 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263163730]
+Aumenta la cantidad de daño infligido
+y recibido de enemigos tipo insecto.
+
+## POINTER 40 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263163414]
+Cazador
+
+## POINTER 41 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263163730]
+Aumenta los ataques y disminuye el daño
+recibido de enemigos aéreos.
+
+## POINTER 42 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263163730]
+Fuerza aérea
+
+## POINTER 43 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263189056]
+Aumenta el daño infligido en 1,2 veces
+contra enemigos aéreos.
+
+## POINTER 44 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263163414]
+Héroe
+
+## POINTER 45 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263163730]
+Aumenta los ataques y disminuye el daño
+recibido de enemigos no humanos.
+
+## POINTER 46 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263163414]
+Segundo ataque
+
+## POINTER 47 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Los ataques de Karol causan más daño
+al enemigo después del segundo golpe.
+
+## POINTER 48 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263163414]
+Crítico
+
+## POINTER 49 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263163730]
+Aumenta la probabilidad de infligir un golpe crítico.
+
+## POINTER 50 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263163414]
+Rotura crítica
+
+## POINTER 51 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Aumenta la probabilidad
+de realizar una Rotura de guardia.
+
+## POINTER 52 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263163414]
+Golpe de encantamiento
+
+## POINTER 53 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264328904]
+En algunas ocasiones inflige Hechizado 
+a un enemigo que ha sido golpeado. 
+
+## POINTER 54 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263392278]
+Dulces sueños
+
+## POINTER 55 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263392278]
+En algunas ocasiones inflige Sueño
+a un enemigo que ha sido golpeado. 
+
+## POINTER 56 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263392278]
+Aguijón
+
+## POINTER 57 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+En algunas ocasiones paraliza al enemigo
+con un ataque normal.
+
+## POINTER 58 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263222805]
+Ataque TP
+
+## POINTER 59 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263222805]
+Inflige daño en el TP del enemigo con ataques normales.
+
+## POINTER 60 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263222805]
+Golpe doble
+
+## POINTER 61 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Un único golpe que inflige dos veces el daño.
+
+## POINTER 62 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263222328]
+Elemental
+
+## POINTER 63 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263222328]
+Aumenta en ocasiones el efecto de un ataque
+físico con atributos elementales.
+
+## POINTER 64 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263222328]
+Magia crítica
+
+## POINTER 65 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Inflige daño crítico cuando se lanza un conjuro.
+
+## POINTER 66 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263222328]
+Magia aturdidora
+
+## POINTER 67 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Aumenta la probabilidad de aturdir al rival
+con un ataque mágico.
+
+## POINTER 68 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263222328]
+Magia potente
+
+## POINTER 69 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Aumenta el poder de un conjuro. También aumenta
+el consumo de TP y el tiempo de lanzamiento.
+
+## POINTER 70 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263222328]
+Magia de luz
+
+## POINTER 71 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Disminuye el consumo de TP y el tiempo de lanzamiento.
+También disminuye el poder de un conjuro.
+
+## POINTER 72 [t:1;r:2;ru:memnoch,parsec;user:Dagorat;time:1263392885]
+Esfuerzo
+
+## POINTER 73 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Mantén <06>(ART) tras lanzar una habilidad de principiante
+para incrementar su efecto. Consume TP.
+
+## POINTER 74 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263624178]
+Esfuerzo 2
+
+## POINTER 75 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Mantén <06>(ART) tras lanzar una habilidad intermedia
+para incrementar su efecto. Consume TP.
+
+## POINTER 76 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263624178]
+Esfuerzo 3
+
+## POINTER 77 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Mantén <06>(ART) tras lanzar una habilidad avanzada
+para incrementar su efecto. Consume TP.
+
+## POINTER 78 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Artes aéreas
+
+## POINTER 79 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Permite ejecutar artes básicas en el aire.
+
+## POINTER 80 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Artes aéreas 2
+
+## POINTER 81 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Permite ejecutar artes arcanas en el aire.
+
+## POINTER 82 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Artes aéreas 3
+
+## POINTER 83 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Permite ejecutar ciertas artes modificadas en el aire.
+
+## POINTER 84 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Final aéreo
+
+## POINTER 85 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Aumenta el bonus del Ataque letal azul.
+
+## POINTER 86 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Gran combo
+
+## POINTER 87 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Enlaza un ataque en salto con un ataque en tierra.
+
+## POINTER 88 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Cambiar estilo
+
+## POINTER 89 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Cambia el ataque normal dependiendo
+de la distancia entre los enemigos.
+
+## POINTER 90 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Cambiar estilo 2
+
+## POINTER 91 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265228735]
+Cambia el ataque de un arte dependiendo
+de la distancia entre los enemigos.
+
+## POINTER 92 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263222868]
+Robo plus
+
+## POINTER 93 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Aumenta el porcentaje de éxito al robar.
+
+## POINTER 94 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Combo plus
+
+## POINTER 95 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1263221698]
+Añade un golpe más al ataque normal.

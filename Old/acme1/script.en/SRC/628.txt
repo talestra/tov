@@ -1,0 +1,83 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VA022_005)What's this...?
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VA022_006)It's like a hole just 
+opened up in the sky...
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VA022_007)Oh that... It is 
+a phantom rift. 
+Phaeroh made it.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VA022_008)What the hell is a phantom rift?
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VA022_009)Yormgen, the town where 
+we met Duke, was an illusion 
+that Phaeroh made.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VA022_010)There wasn't anything 
+left but ruins that second 
+time we went there...
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VA022_011)It kinda makes sense if what 
+we saw in Yormgen was from 
+the same time as the ghost ship.
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VA022_012)Besides Duke, that is.
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VA022_013)Yeah, that's probably what happened.
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VA022_014)And you say Phaeroh made this thing...?
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VA022_015)Yes.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VA022_016)It seems like...Phaeroh's 
+not around here anywhere...
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VA022_017)...He's not responding 
+to my calls, either.
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VA022_018)...H-hey... What's 
+going on here...?
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VA022_019)No!
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VA022_020)Waaahh...!
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VA022_021)That stupid kid!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VA022_022)Let's go!

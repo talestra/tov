@@ -1,0 +1,27 @@
+## POINTER 0
+<STR>(JUD)
+Phew... That was a nice 
+change of pace.
+
+## POINTER 1
+<STR>(RIT)
+How long are you going to 
+stay dressed like that?
+
+## POINTER 2
+<STR>(KAR)
+I was in a hurry when I got out from 
+the bath this morning... All of you 
+are still in your bath uniforms!
+
+## POINTER 3
+<STR>(YUR)
+Yeah, but this is formal 
+attire compared to what 
+you're wearing...
+
+## POINTER 4
+<STR>(KAR)
+S-stop staring at me like that... 
+It's making me nervous! 
+Come on, let's just go!

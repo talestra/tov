@@ -1,0 +1,26 @@
+## POINTER 0
+<STR>(RIT)
+Wait wait! Are you GOING BACK INSIDE?!
+
+## POINTER 1
+<STR>(YUR)
+Yeah. Do you mind? 
+You mind, don't you?
+
+## POINTER 2
+<STR>(RIT)
+...Yes.
+
+## POINTER 3
+<STR>(RIT)
+We don't need to be here anymore, do we?
+
+## POINTER 4
+<STR>(YUR)
+It's just an illusion made 
+by some mage, right?
+What's there to be afraid of?
+
+## POINTER 5
+<STR>(RIT)
+N-nothing, but even so...

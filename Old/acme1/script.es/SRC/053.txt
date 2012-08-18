@@ -1,0 +1,14 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270898432]
+Información
+Has usado la llave pequeña
+para abrir la puerta.
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270898432]
+Información
+La llave se ha roto...
+Ya no puedes usarla más.
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270898432]
+Información
+Está cerrado.
+No puedes entrar.

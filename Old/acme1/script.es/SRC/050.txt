@@ -1,0 +1,27 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270504424]
+<STR>(YUR)
+<STR>(FRE) está en la orilla del lago...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164296]
+<STR>(YUR)
+Ese hombre que juega con
+el niño... resulta sospechoso.
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270504424]
+<STR>(YUR)
+No debería alejarme tanto...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164296]
+<STR>(JUD)
+La posada nos lo está preparando.
+Parece que todavía no tenemos
+que ir al desierto.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164316]
+<STR>(YUR)
+Es verdad.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298164296]
+<STR>(YUR)
+Vamos al manantial a
+llenar las cantimploras.

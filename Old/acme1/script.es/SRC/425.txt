@@ -1,0 +1,220 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1283451200]
+<STR>(KAR)
+<VOICE>(VS40_500)El cataclismo... El adephagos...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284856870]
+<STR>(YUR)
+<VOICE>(VS40_501)Si esa leyenda es cierta,
+entonces quizá el poder
+del Hijo de la Luna Llena<PAGE><VOICE>(VS40_502)no sea el único causante
+de la aparición del adephagos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284970353]
+<STR>(RAV)
+<VOICE>(VS40_503)Pero ¿y eso de: «Atendiendo
+las oraciones der mundo, la vida
+abandonó al Hijo de la Luna Llena»?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1284856870]
+<STR>(JUD)
+<VOICE>(VS40_504)Quizá evitaron el peligro
+destruyendo el origen del adephagos:
+los Hijos de la Luna Llena.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1284856870]
+<STR>(KAR)
+<VOICE>(VS40_505)Pe-pero...<PAGE><VOICE>(VS40_506)¿Los verdaderos causantes
+no son los blastias hermes?
+¿No basta con detenerlos y ya?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1284856870]
+<STR>(YUR)
+<VOICE>(VS40_507)Tal vez no se trate
+solamente de ellos.<PAGE><VOICE>(VS40_508)
+La leyenda esa da a entender
+que todos los blastias perturban
+el aer del mundo.<PAGE><VOICE>(VS40_509)¿No es así, <STR>(RIT)?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285100551]
+<STR>(RIT)
+<VOICE>(VS40_510)El patriarca nos ha dicho
+que los blastias son blastias,
+que no poseen categorías.<PAGE><VOICE>(VS40_511)Creo que eso significa que la
+única diferencia reside en la
+cantidad de aer que usa la fórmula.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1283456069]
+<STR>(YUR)
+<VOICE>(VS40_512)¿Incluso los blastias que usamos?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981036]
+<STR>(RIT)
+<VOICE>(VS40_513)Los bodhi blastia son especiales,
+pero todos ellos emplean aer
+en una fórmula. Son iguales.<PAGE><VOICE>(VS40_514)Y las fórmulas solo
+funcionan con aer.<PAGE><VOICE>(VS40_515)La técnica hermes, los Hijos
+de la Luna Llena... Seguramente
+solo formen parte del peligro.<PAGE><VOICE>(VS40_516)A base de más y más blastias,
+el adephagos terminará por despertar.
+Eso es lo que temen los entelechia.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1283456069]
+<STR>(YUR)
+<VOICE>(VS40_517)Eso es lo que
+me preocupaba.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(RIT)
+<VOICE>(VS40_518)¡No quería admitirlo!<PAGE><VOICE>(VS40_519)Los blastias no podían ser malos,
+sino que era la gente que los usaba
+para el mal los malvados.<PAGE><VOICE>(VS40_520)Siempre había creído eso,
+pero... estaba equivocada.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(KAR)
+<VOICE>(VS40_521)¿Eso quiere decir que tenemos
+que detener todos los blastias?<PAGE><VOICE>(VS40_522)¿Tal y como hizo
+la gente de Myorzo?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(RAV)
+<VOICE>(VS40_523)Imposible.
+Necesitamos los blastias
+para nuestro día a día.<PAGE><VOICE>(VS40_524)Barreras blastia, aqua blastias...
+Y también bodhi blastias.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1283456069]
+<STR>(YUR)
+<VOICE>(VS40_525)Sí, tienes razón.<PAGE><VOICE>(VS40_526)No podría enfrentarme a
+un monstruo muy fuerte
+si no tuviese esto.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1283456069]
+<STR>(KAR)
+<VOICE>(VS40_527)Ya...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(JUD)
+<VOICE>(VS40_528)Ojalá pudiésemos usar los
+blastias sin preocuparnos
+por consumir aer.<PAGE><VOICE>(VS40_529)Pero supongo que eso
+sería pedir demasiado.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(RIT)
+<VOICE>(VS40_530)La fórmula Rizomata.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(YUR)
+<VOICE>(VS40_531)¿Qué es eso?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(RIT)
+<VOICE>(VS40_532)Todo existe gracias a la
+sublimación, reducción, formación
+y dispersión del aer.<PAGE><VOICE>(VS40_533)Hay gente que cree que una teoría aún no
+descubierta podría manipular libremente
+esos mecanismos esenciales del aer.<PAGE><VOICE>(VS40_534)Formular esa teoría es el objetivo
+principal de la investigación mágica
+actual de todos los magos del mundo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1283458295]
+<STR>(KAR)
+<VOICE>(VS40_535)¿Y eso es la
+fórmula Rizomata?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(RIT)
+<VOICE>(VS40_536)Si se descubriera, manipular
+el aer sería pan comido.<PAGE><VOICE>(VS40_537)Claro que necesitaríamos una fórmula
+para reconstruir el aer de la energía
+que en un principio convertía el aer...<PAGE><VOICE>(VS40_538)Pero el poder de <STR>(EST_P)
+manipula el aer directamente.<PAGE><VOICE>(VS40_539)<STR>(EST_P) es lo más cercano
+que hay a la fórmula Rizomata.<PAGE><VOICE>(VS40_540)Si pudiésemos usar una fórmula
+para interferir y neutralizar
+el poder de <STR>(EST_P)...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(YUR)
+<VOICE>(VS40_541)No entiendo ni la mitad pero,<PAGE><VOICE>(VS40_542)si desarrollases la
+fórmula esa, <STR>(EST_P)
+podría vivir en paz, ¿verdad?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(JUD)
+<VOICE>(VS40_543)Y de ese modo, si lográsemos controlar
+el exceso de aer, podríamos evitar provocar
+al adephagos.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1283458295]
+<STR>(KAR)
+<VOICE>(VS40_544)¡Toma ya!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(RAV)
+<VOICE>(VS40_545)Vamos, que tenemos que buscar una especie
+de fórmula que tos los investigadores
+del mundo no pueden ni oler.<PAGE><VOICE>(VS40_546)Ahora sí que estáis flipaos.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1283458295]
+<STR>(RIT)
+<VOICE>(VS40_547)¡Descubriré esa fórmula!<PAGE><VOICE>(VS40_548)¡Por <STR>(EST_P)! ¡Y por mí!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(RAV)
+<VOICE>(VS40_549)Sí, tú hazlo.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(KAR)
+<VOICE>(VS40_550)¿Eh? <STR>(RAV),
+¿adónde vas?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(RAV)
+<VOICE>(VS40_551)A dar un garbeo. Toa esta charla de
+salvar el mundo, el mayor objetivo
+de l'investigación mágica...<PAGE><VOICE>(VS40_552)Esta conversación es un poquitín
+demasiao pa qu'er viejo <STR>(RAV)
+pueda seguir el hilo.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1283458295]
+<STR>(JUD)
+<VOICE>(VS40_553)Esa fórmula pinta genial
+y tal, pero el aer va a peor
+mientras estamos aquí sentados.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1283458295]
+<STR>(YUR)
+<VOICE>(VS40_554)Ya.<PAGE><VOICE>(VS40_555)Por ahora, tenemos que encontrar
+a quien está creando blastias hermes.<PAGE><VOICE>(VS40_556)O sino será demasiado tarde,
+tal y como dijo Phaeroh.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101325]
+<STR>(RIT)
+<VOICE>(VS40_557)Pero ¿cómo vamos a encontrarle?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981406]
+<STR>(YUR)
+<VOICE>(VS40_558)Si seguimos a quien busque una apátheia
+estaremos enfrente de sus narices en nada.<PAGE><VOICE>(VS40_559)Después de todo, los núcleos se hacen de apátheia.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:Lia;time:1283458295]
+<STR>(KAR)
+<VOICE>(VS40_560)<STR>(FRE) y Nan y sus amigos...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:Lia;time:1283458295]
+<STR>(YUR)
+<VOICE>(VS40_561)Sí.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:Lia;time:1283458295]
+<STR>(KAR)
+<VOICE>(VS40_562)Me pregunto si tendremos
+que luchar contra ellos...
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:Lia;time:1283458295]
+<STR>(YUR)
+<VOICE>(VS40_563)Eso es cosa suya.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:Lia;time:1283458311]
+<STR>(RIT)
+<VOICE>(VS40_564)¿Qué ha sido eso?

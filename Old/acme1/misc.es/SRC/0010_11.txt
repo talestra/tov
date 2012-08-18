@@ -1,0 +1,299 @@
+## POINTER 1100
+Third Continent/75 (Mandragora: Polwigle)  3/Weather B
+
+## POINTER 1101
+Third Continent/75 (Balloon Ghost: Filifolia) 1/Weather B
+
+## POINTER 1102
+Third Continent/75 (Balloon Ghost: Filifolia) 2/Weather B
+
+## POINTER 1103
+Third Continent/75 (Filifolia: Bud) 1/Weather B
+
+## POINTER 1104
+Third Continent/75 (Filifolia: Bud) 2/Weather B
+
+## POINTER 1105
+Third Continent/71 (Gentleman) 1/Weather A
+
+## POINTER 1106
+Third Continent/71 (Gentlegolem) 1/Weather B
+
+## POINTER 1107
+Fourth Continent/63 (Wolf: Strong Tail) 1/Weather A
+
+## POINTER 1108
+Fourth Continent/63 (Wolf: Strong Tail) 2/Weather A
+
+## POINTER 1109
+Fourth Continent/63 (Wolf: Strong Tail) 3/Weather A
+
+## POINTER 1110
+Fourth Continent/63 (Mantis)  1/Weather A
+
+## POINTER 1111
+Fourth Continent/63 (Mantis)  2/Weather A
+
+## POINTER 1112
+Fourth Continent/63 (Mantis)  3/Weather A
+
+## POINTER 1113
+Fourth Continent/63 (Chirpee: Hand) 1/Weather A
+
+## POINTER 1114
+Fourth Continent/63 (Chirpee: Hand) 2/Weather A
+
+## POINTER 1115
+Fourth Continent/63 (Chirpee: Hand) 3/Weather A
+
+## POINTER 1116
+Fourth Continent/63 (Wolf: Strong Tail) 1/Weather B
+
+## POINTER 1117
+Fourth Continent/63 (Wolf: Strong Tail) 2/Weather B
+
+## POINTER 1118
+Fourth Continent/63 (Wolf: Strong Tail) 3/Weather B
+
+## POINTER 1119
+Fourth Continent/63 (Mantis)  1/Weather B
+
+## POINTER 1120
+Fourth Continent/63 (Mantis)  2/Weather B
+
+## POINTER 1121
+Fourth Continent/63 (Mantis)  3/Weather B
+
+## POINTER 1122
+Fourth Continent/63 (Chirpee: Hand) 1/Weather B
+
+## POINTER 1123
+Fourth Continent/63 (Chirpee: Hand) 2/Weather B
+
+## POINTER 1124
+Fourth Continent/63 (Chirpee: Hand) 3/Weather B
+
+## POINTER 1125
+Fourth Continent/55/57/58 (Bird Polwigle)  1/Weather AB
+
+## POINTER 1126
+Fourth Continent/58/59/61 (Bird Polwigle)  2/Weather AB
+
+## POINTER 1127
+Fourth Continent/58/59/62 (Bird Polwigle)  3/Weather AB
+
+## POINTER 1128
+Fourth Continent/55/57/58 (Rabbit Polwigle)  1/Weather AB
+
+## POINTER 1129
+Fourth Continent/58/59/61 (Rabbit Polwigle)  2/Weather AB
+
+## POINTER 1130
+Fourth Continent/58/59/62 (Rabbit Polwigle)  3/Weather AB
+
+## POINTER 1131
+Fourth Continent/55/57/58 (Wolf Spotted)1/Weather AB
+
+## POINTER 1132
+Fourth Continent/55/57/58 (Wolf Spotted)2/Weather AB
+
+## POINTER 1133
+Fourth Continent/55/57/58 (Wolf Spotted)3/Weather AB
+
+## POINTER 1134
+Fourth Continent/55/57/58 (Tortoise) 1/Weather AB
+
+## POINTER 1135
+Fourth Continent/55/57/58 (Tortoise) 2/Weather AB
+
+## POINTER 1136
+Fourth Continent/55/57/58 (Tortoise) 3/Weather AB
+
+## POINTER 1137
+Fourth Continent/55/57/58 (Fat Ribbit) 1/Weather AB
+
+## POINTER 1138
+Fourth Continent/55/57/58 (Fat Ribbit) 2/Weather AB
+
+## POINTER 1139
+Fourth Continent/55/57/58 (Fat Ribbit) 3/Weather AB
+
+## POINTER 1140
+Fourth Continent/55/57/58/60 (Mandragora: Bird Polwigle)  1/Weather B
+
+## POINTER 1141
+Fourth Continent/55/57/58/60 (Mandragora: Bird Polwigle)  2/Weather B
+
+## POINTER 1142
+Fourth Continent/55/57/58/60 (Mandragora: Bird Polwigle)  3/Weather B
+
+## POINTER 1143
+Fourth Continent/55/57/58 (Egg Bear: Wolfman) 1/Weather B
+
+## POINTER 1144
+Fourth Continent/55/57/58 (Egg Bear: Wolfman) 2/Weather B
+
+## POINTER 1145
+Fourth Continent/55/57/58 (Egg Bear: Wolfman) 3/Weather B
+
+## POINTER 1146
+Fourth Continent/60 (Bird Polwigle)  1/Weather A
+
+## POINTER 1147
+Fourth Continent/60 (Bird Polwigle)  2/Weather A
+
+## POINTER 1148
+Fourth Continent/60 (Bird Polwigle)  3/Weather A
+
+## POINTER 1149
+Fourth Continent/60 (Wolf Spotted)1/Weather A
+
+## POINTER 1150
+Fourth Continent/60 (Wolf Spotted)2/Weather A
+
+## POINTER 1151
+Fourth Continent/60 (Wolf Spotted)3/Weather A
+
+## POINTER 1152
+Fourth Continent/60 (Tortoise) 1/Weather A
+
+## POINTER 1153
+Fourth Continent/60 (Tortoise) 2/Weather A
+
+## POINTER 1154
+Fourth Continent/60 (Tortoise) 3/Weather A
+
+## POINTER 1155
+Fourth Continent/60 (Fat Ribbit) 1/Weather A
+
+## POINTER 1156
+Fourth Continent/60 (Fat Ribbit) 2/Weather A
+
+## POINTER 1157
+Fourth Continent/60 (Fat Ribbit) 3/Weather A
+
+## POINTER 1158
+Fourth Continent/60 (Bird Polwigle)  1/Weather B
+
+## POINTER 1159
+Fourth Continent/60 (Bird Polwigle)  2/Weather B
+
+## POINTER 1160
+Fourth Continent/60 (Bird Polwigle)  3/Weather B
+
+## POINTER 1161
+Fourth Continent/60 (Wolf Spotted)1/Weather B
+
+## POINTER 1162
+Fourth Continent/60 (Wolf Spotted)2/Weather B
+
+## POINTER 1163
+Fourth Continent/60 (Wolf Spotted)3/Weather B
+
+## POINTER 1164
+Fourth Continent/60 (Tortoise) 1/Weather B
+
+## POINTER 1165
+Fourth Continent/60 (Tortoise) 2/Weather B
+
+## POINTER 1166
+Fourth Continent/60 (Tortoise) 3/Weather B
+
+## POINTER 1167
+Fourth Continent/60 (Fat Ribbit) 1/Weather B
+
+## POINTER 1168
+Fourth Continent/60 (Fat Ribbit) 2/Weather B
+
+## POINTER 1169
+Fourth Continent/60 (Fat Ribbit) 3/Weather B
+
+## POINTER 1170
+Fourth Continent/56 (Octopus Ghost) 1/Weather AB
+
+## POINTER 1171
+Fourth Continent/56 (Octopus Ghost) 2/Weather AB
+
+## POINTER 1172
+Fourth Continent/56 (Octopus Ghost) 3/Weather AB
+
+## POINTER 1173
+Fourth Continent/56 (Octopus Plant) 1/Weather B
+
+## POINTER 1174
+Fourth Continent/56 (Octopus Plant) 2/Weather B
+
+## POINTER 1175
+Fourth Continent/53/54 (Rabbit Polwigle)  1/Weather A
+
+## POINTER 1176
+Fourth Continent/53/54 (Rabbit Polwigle)  2/Weather A
+
+## POINTER 1177
+Fourth Continent/53/54 (Rabbit Polwigle)  3/Weather A
+
+## POINTER 1178
+Fourth Continent/53/54 (Wolf Spotted)1/Weather A
+
+## POINTER 1179
+Fourth Continent/53/54 (Wolf Spotted)2/Weather A
+
+## POINTER 1180
+Fourth Continent/53/54 (Wolf Spotted)3/Weather A
+
+## POINTER 1181
+Fourth Continent/53/54 (Tortoise) 1/Weather A
+
+## POINTER 1182
+Fourth Continent/53/54 (Tortoise) 2/Weather A
+
+## POINTER 1183
+Fourth Continent/53/54 (Tortoise) 3/Weather A
+
+## POINTER 1184
+Fourth Continent/53/54 (Human: Two-Handed) 1/Weather A
+
+## POINTER 1185
+Fourth Continent/53/54 (Human: Two-Handed) 2/Weather A
+
+## POINTER 1186
+Fourth Continent/53/54 (Human: Two-Handed) 3/Weather A
+
+## POINTER 1187
+Fourth Continent/53/54 (Spike Shoulder Bear) 1/Weather A
+
+## POINTER 1188
+Fourth Continent/53/54 (Spike Shoulder Bear) 2/Weather A
+
+## POINTER 1189
+Fourth Continent/53/54 (Spike Shoulder Bear) 3/Weather A
+
+## POINTER 1190
+Fourth Continent/53/54 (Rabbit Polwigle)  1/Weather B
+
+## POINTER 1191
+Fourth Continent/53/54 (Rabbit Polwigle)  2/Weather B
+
+## POINTER 1192
+Fourth Continent/53/54 (Rabbit Polwigle)  3/Weather B
+
+## POINTER 1193
+Fourth Continent/53/54 (Wolf Spotted)1/Weather B
+
+## POINTER 1194
+Fourth Continent/53/54 (Wolf Spotted)2/Weather B
+
+## POINTER 1195
+Fourth Continent/53/54 (Wolf Spotted)3/Weather B
+
+## POINTER 1196
+Fourth Continent/53/54 (Tortoise) 1/Weather B
+
+## POINTER 1197
+Fourth Continent/53/54 (Tortoise) 2/Weather B
+
+## POINTER 1198
+Fourth Continent/53/54 (Tortoise) 3/Weather B
+
+## POINTER 1199
+Fourth Continent/53/54 (Human: Two-Handed) 1/Weather B

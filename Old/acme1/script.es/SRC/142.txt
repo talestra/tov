@@ -1,0 +1,123 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<STR>(KAR)
+<VOICE>(VS11_085)¡Mirad, ahí está!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Amarintia;time:1272458104]
+<STR>(RIT)
+<VOICE>(VS11_086)¿Cómo puede robar el núcleo 
+y marcharse así, como si nada?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<VOICE>(VS11_087)¡Aaah! ¡Para! 
+¡Haced que pare!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<VOICE>(VS11_088)
+Lo único que estoy haciendo mi trabajo.
+Me dijeron que me pagarían bien por
+cada núcleo de blastia que encontrara.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<STR>(YUR)
+<VOICE>(VS11_089)También has robado núcleos en
+la capital imperial, ¿no es así?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<VOICE>(VS11_090)¿En la capital? ¡De eso nada, yo no!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Amarintia;time:1272544395]
+<STR>(YUR)
+<VOICE>(VS11_091)Pues sería uno de tus amigos.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<VOICE>(VS11_092)
+¡S-Sí! Es ese rastrero
+de Dedecchi.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<STR>(YUR)
+<VOICE>(VS11_093)¿Dónde puedo encontrarlo?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<VOICE>(VS11_094)Seguramente su cliente le
+estará pagando en este momento.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<STR>(YUR)
+<VOICE>(VS11_095)Su cliente, ¿eh? ¿Y quién
+se supone que es ese cliente?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<VOICE>(VS11_096)
+Todo lo que sé es que está en Puerto Torim. 
+¡No sé nada más!<PAGE><VOICE>(VS11_097)Era un tío enorme con una cicatriz
+en la mejilla derecha y le faltaba un ojo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<STR>(YUR)
+<VOICE>(VS11_098)Así que ese es el tipo que se está
+llevando todos los núcleos...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<STR>(RIT)
+<VOICE>(VS11_099)¿Y dónde has robado
+ese Anillo del Hechicero?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<VOICE>(VS11_100)¿Qu-quién dice que sea robado?
+El cliente me lo dio; dijo que me
+sería de utilidad para este trabajo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Amarintia;time:1272631292]
+<STR>(RIT)
+<VOICE>(VS11_101)Mentira. Eso no es algo que esté
+al alcance del jefe de unos rateros. 
+
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<VOICE>(VS11_102)¡E-Es la verdad!
+¡Tenéis que creerme!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1272636071]
+<STR>(KAR)
+<VOICE>(VS11_103)Esto parece ser algo gordo. ¿Creéis que hay
+alguna persona importante detrás de todo esto?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<STR>(YUR)
+<VOICE>(VS11_104)
+No creo que andes desencaminado, capitán <STR>(KAR).
+Esto no parece obra de una simple banda de ladrones.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<VOICE>(VS11_105)¡Vaya! Primero los Caballeros,
+luego los monstruos, ahora esto...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1272636071]
+<STR>(EST_P)
+<VOICE>(VS11_106)¿Los Caballeros? Entonces <STR>(FRE) 
+ha estado por aquí.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<VOICE>(VS11_107)Sí, ese mismo.
+¡Ese Caballero de las narices!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1272636071]
+<STR>(RIT)
+<VOICE>(VS11_108)¡Cierra el pico!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1274025119]
+<STR>(KAR)
+<VOICE>(VS11_109)Genial, <STR>(RIT),
+lo has noqueado.
+¿Y ahora qué?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1272636071]
+<STR>(RIT)
+<VOICE>(VS11_110)Me ocuparé de que los guardias
+de la ciudad vengan a recogerlo.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1272636071]
+<STR>(YUR)
+<VOICE>(VS11_111)Muy bien, entonces.
+Regresemos a Aspio.

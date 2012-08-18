@@ -1,0 +1,122 @@
+## POINTER 0
+
+A dragon came into our city! Do 
+you know who he belongs to?
+
+## POINTER 1
+<STR>(JUD)
+He's my friend! His 
+name is Ba'ul.
+
+## POINTER 2
+
+Cool...<PAGE>He's pretty big, but 
+he's still a small fry 
+compared to Krones!
+
+## POINTER 3
+<STR>(KAR)
+Krones? Who's 
+that? Where?
+
+## POINTER 4
+
+He's right here, silly! 
+Krones is the Entelexeia 
+who protects our city!
+
+## POINTER 5
+<STR>(RAV)
+Ya mean this big 
+ol' jellyfish?
+
+## POINTER 6
+
+He's not a jellyfish, 
+Mister! Show 
+some respect!
+
+## POINTER 7
+<STR>(EST_P)
+Krones is so big! I can't believe 
+an entire city could fit 
+inside an Entelexeia.
+
+## POINTER 8
+
+Yeah, cool, huh? 
+Even your Ball 
+can fit inside!
+
+## POINTER 9
+<STR>(YUR)
+His name is Ba'ul...
+
+## POINTER 10
+
+Whatever. Who 
+cares? Krones 
+is way better!
+
+## POINTER 11
+<STR>(RIT)
+You know, you've got a pretty 
+smart mouth, kid. Just who 
+do you think you are?
+
+## POINTER 12
+
+Whaddaya mean? I'm just 
+telling the truth.
+
+## POINTER 13
+<STR>(RIT)
+<STR>(JUD), say 
+something 
+to him!
+
+## POINTER 14
+<STR>(JUD)
+All Entelexeia have their roles to 
+play. There's no such thing as one 
+of them being better than another.
+
+## POINTER 15
+
+Ha! You're just saying that because you don't wanna 
+admit that your Entelexeia's already lost!
+
+## POINTER 16
+<STR>(RIT)
+Ba'ul hasn't lost anything! 
+If you're so eager, let's 
+settle this right now!
+
+## POINTER 17
+
+My pleasure! You'd better not 
+cry once you get beaten!
+
+## POINTER 18
+<STR>(RIT)
+<STR>(JUD)! Let's do it!
+
+## POINTER 19
+<STR>(JUD)
+Oh, so I have to back up your challenges? 
+What a pain in the rear...
+
+## POINTER 20
+
+We'll compete in a race that I made up! 
+Lots of points are floating in the sky, 
+and you win by collecting them all!<PAGE>Give it 
+your best 
+shot!
+
+## POINTER 21
+
+Whaddaya think? 
+Cool, huh?<PAGE>That's not all there is, 
+either! I've got even better 
+courses to show you!

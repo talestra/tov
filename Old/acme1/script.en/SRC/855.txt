@@ -1,0 +1,114 @@
+## POINTER 0
+<STR>(RIT)
+Wh-what...?
+
+## POINTER 1
+
+...The last battle caused a 
+rift to open up in space...!
+
+## POINTER 2
+<STR>(KAR)
+......!
+Maybe we can go
+outside from here!
+
+## POINTER 3
+
+Y-you cannot go outside! Th-the
+only way out is to make it all the
+way to the end, of course!
+
+## POINTER 4
+<STR>(RAV)
+The mysterious voice sounds
+a bit more flustered than usual.
+
+## POINTER 5
+<STR>(YUR)
+Looks like we can get 
+out of here after all.
+
+## POINTER 6
+<STR>(JUD)
+Surely you're not suggesting that 
+we go back after coming this far?
+
+## POINTER 7
+<STR>(EST_P)
+Sometimes the best strategy is to run.<PAGE>It might be a good idea to go 
+back to recover our energy.
+
+## POINTER 8
+
+If you leave now, you'll have 
+to start from the beginning 
+the next time you enter!<PAGE>Do you still aspire to such folly...?!
+
+## POINTER 9
+Do you want to exit?
+Do not exit
+Exit
+
+## POINTER 10
+<STR>(YUR)
+We're going to keep going.
+
+## POINTER 11
+<STR>(RIT)
+H-huh...? You want to keep going?
+
+## POINTER 12
+<STR>(YUR)
+Do you really want to have to start all 
+over again from the very beginning?
+
+## POINTER 13
+<STR>(KAR)
+I don't really see why we need
+to ever come here again...
+
+## POINTER 14
+<STR>(JUD)
+But if we don't find out who the voice is,
+<STR>(RIT) will be too scared to sleep at night.
+
+## POINTER 15
+<STR>(RIT)
+W-what are you talking about?!
+
+## POINTER 16
+<STR>(JUD)
+Are you saying you could just chalk 
+it up to ghosts and forget about it?
+
+## POINTER 17
+<STR>(RIT)
+Th-there's no such thing as ghosts!
+
+## POINTER 18
+<STR>(YUR)
+Ah, good. Then we can get moving.
+
+## POINTER 19
+
+Hee hee hee...
+I admire your courage...
+
+## POINTER 20
+<STR>(YUR)
+We're going to step 
+out for a bit.
+
+## POINTER 21
+
+W-wait...
+
+## POINTER 22
+<STR>(RIT)
+So, are we leaving 
+or not? Come on!
+
+## POINTER 23
+
+Alas, they got away...

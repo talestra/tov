@@ -1,0 +1,300 @@
+## POINTER 404
+Recover TP during Over Limit.
+
+## POINTER 405
+The overall Over Limit effective period will be extended.
+
+## POINTER 406
+Grade detail
+
+## POINTER 407
+Cook
+
+## POINTER 408
++
+
+## POINTER 409
+Failed to cook <0B>(0)
+
+## POINTER 410
+Cured Poison
+
+## POINTER 411
+Cured Contamination
+
+## POINTER 412
+Cured Paralysis
+
+## POINTER 413
+Cured Petrify
+
+## POINTER 414
+Cured Sickness
+
+## POINTER 415
+Cured Seal
+
+## POINTER 416
+Cured Skill Seal
+
+## POINTER 417
+Cured all negative status
+
+## POINTER 418
+Successfully made Dog Food.
+
+## POINTER 419
+Display World Map
+
+## POINTER 420
+Town
+
+## POINTER 421
+Dungeon
+
+## POINTER 422
+Field
+
+## POINTER 423
+?
+
+## POINTER 424
+<06>(RBL)+<06>(L3) Reset
+
+## POINTER 425
+<06>(RBL)+<06>(L2) Zoom in
+
+## POINTER 426
+<06>(RBL)+<06>(R2) Angle
+
+## POINTER 427
+Skip
+
+## POINTER 428
+<06>(RBL)Backspace <06>(STA)Confirm
+
+## POINTER 429
+<06>(RBD)Shop info. <06>(RBL)Zoom in <06>(RBU)Dog map <06>(L2)<06>(R2)Category
+
+## POINTER 430
+<06>(RBD)Check <06>(STA)Start
+
+## POINTER 431
+<06>(RBD)<06>(RBR)Return
+
+## POINTER 432
+Proceed?
+
+## POINTER 433
+????
+
+## POINTER 434
+Record
+
+## POINTER 435
+Leaderboard
+
+## POINTER 436
+TOP 20
+
+## POINTER 437
+10 Ranks Above/Below
+
+## POINTER 438
+X
+
+## POINTER 439
+AUTO
+
+## POINTER 440
+SEMI-AUTO
+
+## POINTER 441
+MANUAL
+
+## POINTER 442
+Adjust the brightness settings of your display
+until the colors around the bar can be seen clearly.
+
+## POINTER 443
+<06>(CBL1) Cancel
+
+## POINTER 444
+Do you wish to use the item?
+
+## POINTER 445
+You have acquired a new title.
+
+## POINTER 446
+You have acquired some Gald.
+
+## POINTER 447
+You have acquired an item.
+
+## POINTER 448
+You have aquired a medal.
+
+## POINTER 449
+You leveled up.
+
+## POINTER 450
+You have learned a new recipe.
+
+## POINTER 451
+Book completed.
+
+## POINTER 452
+You have acquired some herbs.
+
+## POINTER 453
+You have acquired a gel.
+
+## POINTER 454
+You have learned a new skill.
+
+## POINTER 455
+Reserve
+
+## POINTER 456
+Reserve
+
+## POINTER 457
+<06>(RBD)Switch　<06>(RBR)Return
+
+## POINTER 458
+FS hit rate
+
+## POINTER 459
+Tales of Draspi
+
+## POINTER 460
+Dragon Race Lv. 1
+
+## POINTER 461
+New
+
+## POINTER 462
+Tools
+
+## POINTER 463
+Main
+
+## POINTER 464
+Sub
+
+## POINTER 465
+Head
+
+## POINTER 466
+Body
+
+## POINTER 467
+Accessories
+
+## POINTER 468
+Ingredients
+
+## POINTER 469
+Synthesis materials
+
+## POINTER 470
+Valuables
+
+## POINTER 471
+Xbox LIVE
+
+## POINTER 472
+Reserve
+
+## POINTER 473
+Dragon Race Lv. 2
+
+## POINTER 474
+Dragon Race Lv. 3
+
+## POINTER 475
+Dragon Race Lv. 4
+
+## POINTER 476
+Dragon Race Lv. 5
+
+## POINTER 477
+<06>(RBL)Remove <06>(L3)Shortcut <06>(L2)<06>(R2)Switch <06>(SEL)Mode <06>(STA)Skill Details
+
+## POINTER 478
+<06>(STA)Skill Details
+
+## POINTER 479
+<06>(RBL)ON/OFF <06>(L2)<06>(R2)Switch <06>(SEL)Mode <06>(STA)Skill Details
+
+## POINTER 480
+Cancel
+
+## POINTER 481
+Attribute
+
+## POINTER 482
+Config (Debug only)
+
+## POINTER 483
+Default
+
+## POINTER 484
+Reset all in-game settings back to default.
+
+## POINTER 485
+Reset
+
+## POINTER 486
+<06>(RBD)Use
+
+## POINTER 487
+<06>(RBD)Use <06>(L2)<06>(R2)Category <06>(STA)Item info.
+
+## POINTER 488
+<06>(RBD)Use <06>(L2)<06>(R2)Category
+
+## POINTER 489
+<06>(RBD)Equipment <06>(L2)<06>(R2)Category <06>(STA)Item info.
+
+## POINTER 490
+<06>(RBD)Equipment <06>(L2)<06>(R2)Category <06>(STA)Item info.
+
+## POINTER 491
+<06>(RBD)Equipment <06>(L2)<06>(R2)Category <06>(STA)Item info.
+
+## POINTER 492
+<06>(RBD)Equipment <06>(L2)<06>(R2)Category <06>(STA)Item info.
+
+## POINTER 493
+<06>(RBD)Equipment <06>(L2)<06>(R2)Category <06>(STA)Item info.
+
+## POINTER 494
+<06>(L2)<06>(R2)Category <06>(STA)Item info.
+
+## POINTER 495
+<06>(L2)<06>(R2)Category <06>(STA)Item info.
+
+## POINTER 496
+<06>(L2)<06>(R2)Category
+
+## POINTER 497
+<06>(RBD)Use <06>(L2)<06>(R2)Category
+
+## POINTER 498
+Setting...
+
+## POINTER 499
+Attack
+
+## POINTER 500
+Guard
+
+## POINTER 501
+Move
+
+## POINTER 502
+Support
+
+## POINTER 503
+All

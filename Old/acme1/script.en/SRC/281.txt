@@ -1,0 +1,91 @@
+## POINTER 0
+<STR>(YUR)
+Awww, I can't believe we 
+have to travel with you.
+
+## POINTER 1
+<STR>(RAV)
+What, you ain't happy?
+
+## POINTER 2
+<STR>(YUR)
+Well, I'm not exactly jumping for joy.
+
+## POINTER 3
+<STR>(RAV)
+You're too glum. Lighten up!<PAGE>Didn't I stand together with 
+you in the face of evil?
+
+## POINTER 4
+<STR>(YUR)
+That was only because you had 
+to. I still haven't forgotten 
+what you did at Nor Harbor.
+
+## POINTER 5
+<STR>(RAV)
+You still remember that? Some people 
+just don't know when to give up...
+
+## POINTER 6
+<STR>(YUR)
+I'm not about to make a list of all your offenses.<PAGE>Saying that I'd rather not have 
+your company on our trip is already 
+more than enough.
+
+## POINTER 7
+<STR>(RAV)
+Don't worry, don't worry. I'll 
+be on my best behavior!<PAGE>I behaved myself at 
+Keiv Moc, and at Ghasfarost, 
+didn't I?
+
+## POINTER 8
+<STR>(YUR)
+Yeah, that sure would be nice.
+
+## POINTER 9
+<STR>(RAV)
+What should worry you more is whether or 
+not these ol' bones will be able to keep 
+up with you young'uns for much longer.
+
+## POINTER 10
+<STR>(YUR)
+You plan on sticking with us until 
+<STR>(EST_P) goes back to the castle?
+
+## POINTER 11
+<STR>(RAV)
+The Don ordered me to keep an 
+eye on the girl. I ain't got 
+much choice in the matter.
+
+## POINTER 12
+<STR>(YUR)
+Sounds like 
+a tough job.
+
+## POINTER 13
+<STR>(RAV)
+I wonder if I could hand her over to 
+the Imperial Knights somewhere...
+
+## POINTER 14
+<STR>(YUR)
+I can see it in your eyes, old man...
+you're thinking bad thoughts again.
+
+## POINTER 15
+<STR>(RAV)
+Nah, not at all!
+
+## POINTER 16
+<STR>(YUR)
+Well, it's really too bad that you're going to be travelling 
+with us, but might as well make the best of it.
+
+## POINTER 17
+<STR>(RAV)
+Whaddaya mean "really too 
+bad?" Hmm, well, whatever.<PAGE>Anyway, <STR>(RAV) the Great is going back to the inn. Later, boy.

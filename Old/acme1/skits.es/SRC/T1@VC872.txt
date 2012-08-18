@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251898503]
+Revancha
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925327]
+(RIT)
+¿Quién se ha creído que es
+ese comandante imbécil?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297634117]
+(KAR)
+Barbos, Ragou, e incluso Yeager.
+Alexei estaba detrás de todos ellos.
+
+## POINTER 3 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925327]
+(RIT)
+¡Y ahora se ha llevado a (EST_P)!
+
+## POINTER 4 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925327]
+(KAR)
+¡No voy a permitírselo!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297634117]
+(RIT)
+¡Voy a hacerlo pedazos en 
+cuanto ponga a (EST_P) a salvo!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297634117]
+(JUD)
+Debe recibir su justo castigo.
+¡No podemos dejar que escape!
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925327]
+(YUR)
+Es malvado... No hay que darle más vueltas.
+Y no va a cambiar.
+
+## POINTER 8 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266925327]
+(YUR)
+Es hora de la revancha.

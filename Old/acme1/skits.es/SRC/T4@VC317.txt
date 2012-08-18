@@ -1,0 +1,57 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1267197050]
+He dejao de crecer
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:xander;time:1267197050]
+(RAV)
+¡Dejad d'hacer comida que no me gusta!
+¡Haced otra cosa! ¡No pienso tragar esta porquería!
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294120]
+(JUD)
+Muy bien... Entonces te quedas sin comer.
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294120]
+(KAR)
+Todos tenemos cosas que no nos gustan,
+pero no nos quejamos. ¡Aguántate!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298104723]
+(RIT)
+Deberías estar agradecido.
+¡He dejado de leer para comer aquí con vosotros!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298104723]
+(EST_P)
+¡Una dieta desequilibrada
+puede ser mala para la salud!
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:xander;time:1267197050]
+(RAV)
+¡Ya he dejao de crecer! ¡Puedo permitirme
+un poco de desnutrición a mi edá!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298104723]
+(RAP)
+¡Guau, guau! ¡Guau!
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294120]
+(YUR)
+(RAP) se está burlando de ti, viejales.
+Dice que eres una deshonra para los humanos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298104723]
+(YUR)
+Eres el mayor de nosotros.
+¿Es que no te da vergüenza?
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294120]
+(RAV)
+Qué va. Como adulto resulto lamentable.
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294120]
+(YUR)
+Mi madre, lo que hay que oír...
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267294120]
+(JUD)
+Eres terrible.

@@ -1,0 +1,78 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1283112759]
+<STR>(YUR)
+Siempre estás
+paseando por ahí.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1283112759]
+<STR>(JUD)
+Sí, supongo que es porque
+soy persona muy inquieta.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1280218362]
+<STR>(YUR)
+Eso no me lo esperaba.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1283112759]
+<STR>(JUD)
+A ti también parece
+que no te va lo de
+quedarte quieto.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1280218362]
+<STR>(YUR)
+Es que soy una
+persona muy inquieta.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1283112759]
+<STR>(JUD)
+Eso... no es tan inesperado.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1280218362]
+<STR>(YUR)
+...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1283112759]
+<STR>(JUD)
+Tal vez sea porque me entran
+las ganas de viajar, como cuando
+volaba con Ba'ul a todas horas.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1283112759]
+<STR>(YUR)
+Ya, cuando llevabas esa
+armadura blanca tan rara.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1280218362]
+<STR>(JUD)
+Sí.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1280218362]
+<STR>(JUD)
+¿Vas a ir a buscar
+a Phaeroh tú solo?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1283112759]
+<STR>(YUR)
+No.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1283112759]
+<STR>(JUD)
+Oh. Entonces,
+¿adónde querías ir?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1280218362]
+<STR>(YUR)
+A dar un paseo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1283112759]
+<STR>(JUD)
+Ya veo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1283112759]
+<STR>(YUR)
+¿No te parece que últimamente
+nos encontramos demasiado así?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1283112759]
+<STR>(JUD)
+Qué va, imaginaciones tuyas.

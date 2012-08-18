@@ -1,0 +1,53 @@
+## POINTER 0
+(KAR) and Nan
+
+## POINTER 1
+(KAR)
+*Sigh* This is awful...
+
+## POINTER 2
+(EST_P)
+......
+
+## POINTER 3
+(YUR)
+You've been staring at (KAR) 
+for a while now.
+What's up?
+
+## POINTER 4
+(EST_P)
+I'm just worried about the fight 
+he had with his friend, Nan.
+
+## POINTER 5
+(EST_P)
+And he's clearly depressed.
+
+## POINTER 6
+(RIT)
+That wasn't a fight. It was 
+a one-sided verbal beat-down.
+
+## POINTER 7
+(YUR)
+It's gotta be a good sign if she cares 
+enough to criticize him that much.
+
+## POINTER 8
+(YUR)
+If she didn't care about him, she 
+wouldn't even bother, right?
+
+## POINTER 9
+(EST_P)
+I suppose so...
+
+## POINTER 10
+(KAR)
+*Sigh* I'm so hungry...
+
+## POINTER 11
+(RIT)
+...Wait, THAT's what you 
+were worrying about?!

@@ -1,0 +1,318 @@
+## POINTER 553 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263688691]
+Guadaña de gran tamaño asociada a la Parca.
+El filo doble le da un aire muy agresivo.
+
+## POINTER 555 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684226]
+Hotengeki
+
+## POINTER 556 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263688691]
+Arma antigua hallada en perfecto estado de conservación.
+Está forjada con un metal que nunca se oxida.
+
+## POINTER 558 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732456]
+Asesino de bestias
+
+## POINTER 559 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Su hoja es tan poderosa que puede acabar con cualquier bestia.
+La empuñadura se ha ido alargando hasta adoptar su forma actual.
+
+## POINTER 561 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684226]
+Hades
+
+## POINTER 562 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Lanza de guerra llamada así en honor al dios de la muerte.
+Temida por su poder destructivo en el campo de batalla.
+
+## POINTER 564 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704204]
+Hoja de dragón verde
+
+## POINTER 565 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Lanza pesada engastada en joyas. 
+Es un arma muy útil una vez se aprende a usar.
+
+## POINTER 567 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684226]
+Gungnir
+
+## POINTER 568 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Poderosa lanza que atraviesa cualquier cosa.
+Nunca falla su objetivo.
+
+## POINTER 570 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684226]
+Gungnir +1
+
+## POINTER 571 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Poderosa lanza que atraviesa cualquier cosa.
+Nunca falla su objetivo.
+
+## POINTER 573 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704089]
+Ahriman
+
+## POINTER 574 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Lanza llameante inspirada en una pesadilla.
+El artesano murió hechizado cuando la terminó.
+
+## POINTER 576 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684433]
+Shiva
+
+## POINTER 577 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Lanza mística que representa dos fuerzas.
+Tiene los poderes del cielo y el infierno.
+
+## POINTER 579 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684433]
+Dunamis
+
+## POINTER 580 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Bella pero brutal alabarda. Aumenta su brillo con
+cada nueva alma que absorbe a los enemigos que asesina.
+
+## POINTER 582 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684433]
+Dunamis +1α
+
+## POINTER 583 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Bella pero brutal alabarda. Aumenta su brillo con
+cada nueva alma que absorbe a los enemigos que asesina.
+
+## POINTER 585 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684433]
+Dunamis +1β
+
+## POINTER 586 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Bella pero brutal alabarda. Aumenta su brillo con
+cada nueva alma que absorbe a los enemigos que asesina.
+
+## POINTER 588 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684433]
+Longinus
+
+## POINTER 589 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263760416]
+Lanza que absorbió la sangre de un dios.
+Esta arma ha sido la causante de muchas tragedias.
+
+## POINTER 591 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Gáe Bolga
+
+## POINTER 592 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263760416]
+Lanza que lleva el nombre de un héroe legendario.
+La propia arma está buscando un nuevo amo.
+
+## POINTER 594 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Gáe Bolga +1α
+
+## POINTER 595 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263760416]
+Lanza que lleva el nombre de un héroe legendario.
+La propia arma está buscando un nuevo amo.
+
+## POINTER 597 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Gáe Bolga +1β
+
+## POINTER 598 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Lanza que lleva el nombre de un héroe legendario.
+La propia arma está buscando un nuevo amo.
+
+## POINTER 600 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732120]
+Brionac
+
+## POINTER 601 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Lanza divina que lleva a su dueño a la victoria.
+No hay nada que esta arma no pueda atravesar.
+
+## POINTER 603 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704534]
+Zarich
+
+## POINTER 604 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Lanza demoníaca que lleva el nombre de una bruja de la sequía.
+Es capaz de secar un océano de un solo golpe.
+
+## POINTER 606 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704534]
+Cristal oscuro
+
+## POINTER 607 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704534]
+Lanza larga que perteneció a un caballero de armadura negra.
+Es más efectiva si se usa en ataques de carga.
+
+## POINTER 609 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704534]
+Lanza de arena: Zarich
+
+## POINTER 610 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263743430]
+Lanza demoníaca que lleva el nombre de una bruja de la sequía.
+Es capaz de secar un océano de un solo golpe.
+
+## POINTER 612 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684916]
+Almádena de madera
+
+## POINTER 613 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263746756]
+Almádena gigante de madera utilizada en la construcción.
+Es bastante pesada y causa una buena cantidad de daño.
+
+## POINTER 615 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684916]
+Almádena de madera +1
+
+## POINTER 616 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263746756]
+Almádena gigante de madera utilizada en la construcción.
+Es bastante pesada y causa una buena cantidad de daño.
+
+## POINTER 618 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684916]
+Almádena pesada
+
+## POINTER 619 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263746756]
+Almádena de guerra portada en el ejército.
+Es lo bastante potente como para aplastar armaduras.
+
+## POINTER 621 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684916]
+Almádena pesada +1
+
+## POINTER 622 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263746756]
+Almádena de guerra portada en el ejército.
+Es lo bastante potente como para aplastar armaduras.
+
+## POINTER 624 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684666]
+Martillo con púas
+
+## POINTER 625 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263746756]
+Martillo básico de metal diseñado
+para infundir miedo en los corazones enemigos.
+
+## POINTER 627 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684666]
+Martillo con púas +1α
+
+## POINTER 628 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263746756]
+Martillo básico de metal diseñado
+para infundir miedo en los corazones enemigos.
+
+## POINTER 630 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261684666]
+Martillo con púas +1β
+
+## POINTER 631 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263746756]
+Martillo básico de metal diseñado
+para infundir miedo en los corazones enemigos.
+
+## POINTER 633 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704089]
+Martillo de hierro
+
+## POINTER 634 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263760416]
+Martillo de metal relleno de agua y arena.
+Es más fácil transportarlo si se le quita la arena.
+
+## POINTER 636 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704089]
+Martillo de hierro +1
+
+## POINTER 637 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263746756]
+Martillo de metal relleno de agua y arena.
+Es más fácil transportarlo si se le quita la arena.
+
+## POINTER 639 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704089]
+Asta mortal
+
+## POINTER 640 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704089]
+Martillo creado a imagen y semejanza de una cabra gigante.
+Hace a uno sentirse unido a la naturaleza.
+
+## POINTER 642 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732553]
+Impronta del guardián
+
+## POINTER 643 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263760416]
+Martillo de guerra empuñado por el guardián de un antiguo ejército.
+Se cree que la imagen en la cabeza del arma atrae ayuda divina.
+
+## POINTER 645 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704089]
+Martillo taladrador
+
+## POINTER 646 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261704089]
+Martillo modificado con un taladro minero.
+¡Le sube la moral a uno!
+
+## POINTER 648 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261486785]
+Martinete
+
+## POINTER 649 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261486785]
+Nunca subestimes el poder de este martillo.
+Un único golpe puede destrozar una roca.
+
+## POINTER 651 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261486785]
+Martinete +1α
+
+## POINTER 652 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261486785]
+Nunca subestimes el poder de este martillo.
+Un único golpe puede destrozar una roca.
+
+## POINTER 654 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261486785]
+Martinete +1β
+
+## POINTER 655 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261486785]
+Nunca subestimes el poder de este martillo.
+Un único golpe puede destrozar una roca.
+
+## POINTER 657 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261732120]
+Martillo de 765 kg
+
+## POINTER 658 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263755516]
+Martillo con la imagen del rostro de un hombre
+y un misterioso número grabado en su superficie...
+
+## POINTER 660 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261486785]
+Martillo taladrador
+
+## POINTER 661 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263755516]
+¡Clava con fruición! Es altamente destructivo y
+atraviesa cualquier cosa. Lo último en martillos.
+
+## POINTER 663 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261350601]
+Mjolnir
+
+## POINTER 664 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263760416]
+Arma divina que regresa a ti una vez lanzada,
+aunque nadie te asegura que puedas recogerla.
+
+## POINTER 666 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261350601]
+Mjolnir +1α
+
+## POINTER 667 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263760416]
+Arma divina que regresa a ti una vez lanzada,
+aunque nadie te asegura que puedas recogerla.
+
+## POINTER 669 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261350601]
+Mjolnir +1β
+
+## POINTER 670 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263760416]
+Arma divina que regresa a ti una vez lanzada,
+aunque nadie te asegura que puedas recogerla.
+
+## POINTER 672 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261350601]
+Martillo de oro
+
+## POINTER 673 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263755516]
+Te ayudará cuando andes corto de efectivo.
+Trae buena suerte en los momentos más adversos.
+
+## POINTER 675 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261486785]
+Martillo Karolian
+
+## POINTER 676 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263755516]
+Algo que no salió como estaba planeado.
+Pese a todo, sigue siendo un buen martillo.
+
+## POINTER 678 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261486785]
+Martillo Karolian +1
+
+## POINTER 679 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263755516]
+Algo que no salió como estaba planeado.
+Pese a todo, sigue siendo un buen martillo.
+
+## POINTER 681 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261350601]
+Remo
+
+## POINTER 682 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263755516]
+Remo de madera corriente y moliente. Puede usarse
+como un arma, si quieres. ¡Eh, no juegues con él!
+
+## POINTER 684 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261350601]
+Bastón de guerra
+
+## POINTER 685 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263758469]
+Bastón usado por un estudiante aplicado en su entrenamiento.
+Duradero, aunque no es muy efectivo como arma.
+
+## POINTER 687 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261350601]
+Guardia tribal
+
+## POINTER 688 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263758469]
+Arma de los guardianes protectores del templo antiguo.
+Es capaz de apresar enemigos sin causar daño.

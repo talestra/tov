@@ -1,0 +1,121 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS48_034)His Highness is...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS48_035)It sounds like the entire 
+capital's been covered in aer.<PAGE><VOICE>(VS48_036)And the one in the middle 
+of it all is most likely...
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS48_037)That's insane! If he's using <STR>(EST_P) 
+to cause all of that, then...
+She can't handle that!<PAGE><VOICE>(VS48_038)Who knows how much of a toll it takes on her 
+each time she's forced to use her power?<PAGE><VOICE>(VS48_039)She was already having problems
+controlling it. Now there's no 
+telling what will happen to her.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS48_040)What if...what if we get 
+there too late, and...
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS48_041)Even if we take out 
+Alexei, she...
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS48_042)Do...do ya think maybe 
+there's a way ta get her 
+power under control?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS48_043)There is. There has to be. We 
+just haven't found it yet...
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS48_044)Ah...hm. Hey, what 
+about the Knights?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS48_045)<STR>(FRE)'s doing what he can, 
+but it's not enough. They 
+don't have Dein Nomos.
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS48_046)Hmm...
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS48_047)I'll try asking Phaeroh. It 
+would be good to know how 
+much time we have left.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS48_048)...
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS48_049)<STR>(YUR)...
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS48_050)Hey, did we wake you up? 
+How are you feeling?
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS48_051)Looks like I slowed you 
+guys down again. ...You're 
+going to the capital, right?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS48_052)Don’t worry about that now. 
+We're still figuring out what 
+to do. You just get better.
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS48_053)Yeah, I just don't want 
+to be left behind, okay?<PAGE><VOICE>(VS48_054)Our whole guild is gonna 
+rescue <STR>(EST_P)...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS48_055)I know. Why don't you try and 
+get some more sleep, huh?
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS48_056)Okay...
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS48_057)I can't seem to reach him.<PAGE><VOICE>(VS48_058)The aer may be 
+causing interference.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS48_059)No big deal. Either way, it's 
+just a matter of making Alexei 
+sorry he ever started this.<PAGE><VOICE>(VS48_060)Right?
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VS48_061)...And nothing more?
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS48_062)...I'm gonna go get 
+some fresh air.<PAGE><VOICE>(VS48_063)Keep an eye on 
+<STR>(KAR) for me.

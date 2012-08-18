@@ -1,0 +1,169 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(JUD)
+<VOICE>(VS26_001)La niebla ha empeorado muchísimo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(KAR)
+<VOICE>(VS26_002)Sí, me da escalofríos...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(RAV)
+<VOICE>(VS26_003)Una niebla asín normalmente
+quiere decir que argo malo
+'ta a punto de pasar.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(KAR)
+<VOICE>(VS26_004)¡C-Corta el rollo!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(YUR)
+<VOICE>(VS26_005)Tú sigue hablando así y entonces
+sí que pasará algo malo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(RIT)
+<VOICE>(VS26_006)¡Eh! ¡Ahí delante!... ¡A proa!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(JUD)
+<VOICE>(VS26_007)Mmm... Creo que vamos a chocar.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(YUR)
+<VOICE>(VS26_008)¡Aaaah!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(EST_P)
+<VOICE>(VS26_009)¡Aaah!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(RIT)
+<VOICE>(VS26_010)¡Noo!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(KAR)
+<VOICE>(VS26_011)¡Aaaargh!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(RAV)
+<VOICE>(VS26_012)Uaaagh!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(RAP)
+<VOICE>(VS26_013)¡Guau!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+Kaufman
+<VOICE>(VS26_014)¡¿Qué es eso?!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+Kaufman
+<VOICE>(VS26_015)Es un viejo barco. Pero nunca
+había visto uno de este tipo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(JUD)
+<VOICE>(VS26_016)Creo que se llama...
+el Atherum.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(RIT)
+<VOICE>(VS26_017)¡Aaah!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(KAR)
+<VOICE>(VS26_018)Qué raro. No parece haber nadie.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(EST_P)
+<VOICE>(VS26_019)Es... es como si... nos llamara.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(RIT)
+<VOICE>(VS26_020)¡V-Venga ya! ¡Vamos!
+¡Pon el Fiertia en marcha!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1282926733]
+Tokunaga
+<VOICE>(VS26_021)¡El blastia ceres no responde!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(RIT)
+<VOICE>(VS26_022)¿Qué quieres decir?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(RIT)
+<VOICE>(VS26_023)¿Qué narices le pasa?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(YUR)
+<VOICE>(VS26_024)¿Creéis que este barco es la causa?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(RAV)
+<VOICE>(VS26_025)Oooh, igual es un barco fantasma,
+maldito y tó.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(EST_P)
+<VOICE>(VS26_026)N-No lo dirás
+en serio, ¿verdad?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(JUD)
+<VOICE>(VS26_027)¿Por qué no vamos a echar
+un vistazo? Será divertido.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(JUD)
+<VOICE>(VS26_028)Me encantan estas cosas.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(RIT)
+<VOICE>(VS26_029)¡¿Qué?!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(YUR)
+<VOICE>(VS26_030)Bueno, no sabemos qué le pasa
+al blastia del barco. Habrá
+que ir a echar una ojeada.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+Kaufman
+<VOICE>(VS26_031)¿Pensáis dejar el Fiertia
+así sin más?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(YUR)
+<VOICE>(VS26_032)De acuerdo. ¿Por qué no vamos
+cuatro de nosotros a investigar
+mientras el resto se queda de guardia?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(JUD)
+<VOICE>(VS26_033)Con eso bastaría.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(YUR)
+<VOICE>(VS26_034)Vale. Iremos <STR>(RAP) y yo.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(RAP)
+<VOICE>(VS26_035)¡Guau!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1281300705]
+<STR>(YUR)
+<VOICE>(VS26_036)¿Quién será la tercera persona?...
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(RIT)
+<VOICE>(VS26_037)¡Yo no pienso ir! ¡Ni atada!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(RAV)
+<VOICE>(VS26_038)<STR>(YUR), ¿por qué no decides tú?
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1275819863]
+<STR>(YUR)
+<VOICE>(VS26_039)De acuerdo.

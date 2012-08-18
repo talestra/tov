@@ -1,0 +1,318 @@
+## POINTER 1099
+Heavy bow capable of releasing extremely powerful shots.
+Pulling the string requires a great deal of strength.
+
+## POINTER 1101
+Smash Bow +1α
+
+## POINTER 1102
+Heavy bow capable of releasing extremely powerful shots.
+Pulling the string requires a great deal of strength.
+
+## POINTER 1104
+Smash Bow +1β
+
+## POINTER 1105
+Heavy bow capable of releasing extremely powerful shots.
+Pulling the string requires a great deal of strength.
+
+## POINTER 1107
+Smash Bow +2
+
+## POINTER 1108
+Heavy bow capable of releasing extremely powerful shots.
+Pulling the string requires a great deal of strength.
+
+## POINTER 1110
+Spike Bow
+
+## POINTER 1111
+A heavy bow with numerous spikes. Handy for
+close combat. A skilled hand is required to use this weapon.
+
+## POINTER 1113
+Defender Bow
+
+## POINTER 1114
+A transforming bow that was used by guardians of the ancient world.
+Its sniping capability never allowed enemies to get within its shooting range.
+
+## POINTER 1116
+Strike Horn Bow
+
+## POINTER 1117
+A composite bow made with the horns of a gigantic beast.
+You will need more than just strength to pull the string.
+
+## POINTER 1119
+Breaker Bow
+
+## POINTER 1120
+Heavy bow used to attack enemy castles during war.
+The shots from this bow can destroy ramparts.
+
+## POINTER 1122
+Splash Bow
+
+## POINTER 1123
+A metal bow with a moist surface.
+It is capable of hitting a coin placed a mile away.
+
+## POINTER 1125
+Elven Bow
+
+## POINTER 1126
+A bow said to grow into a giant tree to protect
+those in the future according to an ancient prohecy.
+
+## POINTER 1128
+Blood Trigger
+
+## POINTER 1129
+A mechanical bow which caused a massacre 10 years ago.
+It was supposed to have been kept under close watch...
+
+## POINTER 1131
+Blood Trigger +1α
+
+## POINTER 1132
+A mechanical bow which caused a massacre 10 years ago.
+It was supposed to have been kept under close watch...
+
+## POINTER 1134
+Blood Trigger +1β
+
+## POINTER 1135
+A mechanical bow which caused a massacre 10 years ago.
+It was supposed to have been kept under close watch...
+
+## POINTER 1137
+Crusader 13
+
+## POINTER 1138
+An ancient bow named after a renowned sniper.
+This weapon will never miss its target.
+
+## POINTER 1140
+Divine Cannon
+
+## POINTER 1141
+Also known as the "Divine Thunderbolt", 
+the owner of this weapon needs to be responsible for its power.
+
+## POINTER 1143
+Kogarashi
+
+## POINTER 1144
+A dagger used for hunting during ancient times.
+A familiar weapon used since a puppy.
+
+## POINTER 1146
+Kogarashi +1
+
+## POINTER 1147
+A dagger used for hunting during ancient times.
+A familiar weapon used since a puppy.
+
+## POINTER 1149
+Karakaze
+
+## POINTER 1150
+A dagger once owned by a ninja skilled with wind artes.
+The unique tip makes a slashing sound like the wind.
+
+## POINTER 1152
+Karakaze +1
+
+## POINTER 1153
+A dagger once owned by a ninja skilled with wind artes.
+The unique tip makes a slashing sound like the wind.
+
+## POINTER 1155
+Ohka
+
+## POINTER 1156
+An elegant dagger with a cherry blossom design.
+It’s a work of art, but the blade makes it a powerful weapon.
+
+## POINTER 1158
+Ohka +1
+
+## POINTER 1159
+An elegant dagger with a cherry blossom design.
+It’s a work of art, but the blade makes it a powerful weapon.
+
+## POINTER 1161
+Tama-hagane
+
+## POINTER 1162
+A short dagger made from high quality steel.
+The edges are sharp as a razor, yet extremely solid.
+
+## POINTER 1164
+Tama-hagane +1
+
+## POINTER 1165
+A short dagger made from high quality steel.
+The edges are sharp as a razor, yet extremely solid.
+
+## POINTER 1167
+Tama-hagane +2α
+
+## POINTER 1168
+A short dagger made from high quality steel.
+The edges are sharp as a razor, yet extremely solid.
+
+## POINTER 1170
+Tama-hagane +2β
+
+## POINTER 1171
+A short dagger made from high quality steel.
+The edges are sharp as a razor, yet extremely solid.
+
+## POINTER 1173
+Kotaro
+
+## POINTER 1174
+A dagger inspired by a ninja legend. The sheath
+is designed to store other secret weapons.
+
+## POINTER 1176
+Kotaro +1
+
+## POINTER 1177
+A dagger inspired by a ninja legend. The sheath
+is designed to store other secret weapons.
+
+## POINTER 1179
+Kotaro +2α
+
+## POINTER 1180
+A dagger inspired by a ninja legend. The sheath
+is designed to store other secret weapons.
+
+## POINTER 1182
+Kotaro +2β
+
+## POINTER 1183
+A dagger inspired by a ninja legend. The sheath
+is designed to store other secret weapons.
+
+## POINTER 1185
+Holy Raven
+
+## POINTER 1186
+A sickle said to lead lost souls to heaven.
+The three prints of a legendary raven are marked on the blade as a symbol.
+
+## POINTER 1188
+Holy Raven+1
+
+## POINTER 1189
+A sickle said to lead lost souls to heaven.
+The three prints of a legendary raven are marked on the blade as a symbol.
+
+## POINTER 1191
+Holy Raven+2α
+
+## POINTER 1192
+A sickle said to lead lost souls to heaven.
+The three prints of a legendary raven are marked on the blade as a symbol.
+
+## POINTER 1194
+Holy Raven +2β
+
+## POINTER 1195
+A sickle said to lead lost souls to heaven.
+The three prints of a legendary raven are marked on the blade as a symbol.
+
+## POINTER 1197
+Kurama
+
+## POINTER 1198
+A small weapon resembling a thin fan. The blades
+are in a radial pattern making it sharp and flexible.
+
+## POINTER 1200
+Kurama +1
+
+## POINTER 1201
+A small weapon resembling a thin fan. The blades
+are in a radial pattern making it sharp and flexible.
+
+## POINTER 1203
+Jiraiya
+
+## POINTER 1204
+A weapon made from a melted pillar in a temple.
+Can be extremely powerful if your soul is at one with the earth.
+
+## POINTER 1206
+Jiraiya +1α
+
+## POINTER 1207
+A weapon made from a melted pillar in a temple.
+Can be extremely powerful if your soul is at one with the earth.
+
+## POINTER 1209
+Jiraiya +1β
+
+## POINTER 1210
+A weapon made from a melted pillar in a temple.
+Can be extremely powerful if your soul is at one with the earth.
+
+## POINTER 1212
+Crimson Phoenix
+
+## POINTER 1213
+A short dagger in the image of a beautiful bird.
+Used for immolation and taking one's life quietly.
+
+## POINTER 1215
+Crimson Phoenix +1
+
+## POINTER 1216
+A short dagger in the image of a beautiful bird.
+Used for immolation and taking one's life quietly.
+
+## POINTER 1218
+Crimson Phoenix +2α
+
+## POINTER 1219
+A short dagger in the image of a beautiful bird.
+Used for immolation and taking one's life quietly.
+
+## POINTER 1221
+Crimson Phoenix +2β
+
+## POINTER 1222
+A short dagger in the image of a beautiful bird.
+Used for immolation and taking one's life quietly.
+
+## POINTER 1224
+Stone Slasher
+
+## POINTER 1225
+A short dagger with a solid, keen-edged blade.
+This weapon is capable of slashing stone in twain.
+
+## POINTER 1227
+Stone Slasher +1
+
+## POINTER 1228
+A short dagger with a solid, keen-edged blade.
+This weapon is capable of slashing stone in twain.
+
+## POINTER 1230
+Stone Slasher +2α
+
+## POINTER 1231
+A short dagger with a solid, keen-edged blade.
+This weapon is capable of slashing stone in twain.
+
+## POINTER 1233
+Stone Slasher +2β
+
+## POINTER 1234
+A short dagger with a solid and wide blade.
+This weapon is capable of slashing stones and even ore.

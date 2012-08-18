@@ -1,0 +1,60 @@
+## POINTER 0
+<STR>(YUR)
+Hey, Captain <STR>(KAR)! 
+What're you up to?
+
+## POINTER 1
+<STR>(KAR)
+Ahhh! 
+<STR>(YUR)!!<PAGE>How come I was the only one who 
+didn't get a uniform? They only 
+gave me this one towel!
+
+## POINTER 2
+<STR>(YUR)
+I'll bet it was all they 
+could do. I doubt they had 
+any clothes in kid size.<PAGE>What's the problem? 
+Just sit in the water 
+and enjoy yourself.
+
+## POINTER 3
+<STR>(KAR)
+I can't stay here for the entire 
+time! I'll shrivel up like a prune! 
+I wonder if I can leave yet...
+
+## POINTER 4
+<STR>(YUR)
+There's not anything 
+to do outside, anyway. 
+Relax and stay here.<PAGE>Everyone else is working pretty 
+hard. They wouldn't really 
+have time to chat anyway.
+
+## POINTER 5
+<STR>(KAR)
+What about you, <STR>(YUR)? Don't you 
+have anything better to do?
+
+## POINTER 6
+<STR>(YUR)
+I'm on guard duty. I'm 
+making my rounds! 
+This is hard work!
+
+## POINTER 7
+<STR>(KAR)
+Ugh, why do you get to have all the fun...?
+
+## POINTER 8
+<STR>(YUR)
+Oh well, give it a 
+bit and then come 
+on out, I guess.<PAGE>The guests should be coming 
+in here pretty soon anyway.
+
+## POINTER 9
+<STR>(KAR)
+Yeah...
+All right.

@@ -1,0 +1,41 @@
+## POINTER 0
+Is This the Curse?
+
+## POINTER 1
+(EST_P)
+We can't seem to find our way 
+through this forest at all. 
+Oh! Could this be the curse?!
+
+## POINTER 2
+(EST_P)
+What should we do, (YUR)?! There 
+really was a curse after all!
+
+## POINTER 3
+(YUR)
+Don't be stupid...
+
+## POINTER 4
+(EST_P)
+Or...do you not have a good 
+sense of direction?
+
+## POINTER 5
+(YUR)
+No, of course I do...I think...
+
+## POINTER 6
+(EST_P)
+Then maybe it's my fault...?! 
+What should we do...?
+
+## POINTER 7
+(YUR)
+They say no medicine can cure a 
+fool, but I wish something could 
+cure a bad sense of direction...
+
+## POINTER 8
+(RAP)
+*Whine...*

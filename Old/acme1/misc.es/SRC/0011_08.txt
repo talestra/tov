@@ -1,0 +1,318 @@
+## POINTER 1099 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586099]
+Arco pesado de gran potencia.
+Se necesita mucha fuerza para tensar la cuerda. 
+
+## POINTER 1101 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261750517]
+Arco de asalto +1α
+
+## POINTER 1102 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586099]
+Arco pesado de gran potencia.
+Se necesita mucha fuerza para tensar la cuerda. 
+
+## POINTER 1104 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261750517]
+Arco de asalto +1β
+
+## POINTER 1105 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586099]
+Arco pesado de gran potencia.
+Se necesita mucha fuerza para tensar la cuerda. 
+
+## POINTER 1107 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261750517]
+Arco de asalto +2
+
+## POINTER 1108 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586099]
+Arco pesado de gran potencia.
+Se necesita mucha fuerza para tensar la cuerda.  
+
+## POINTER 1110 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261735106]
+Arco con púas
+
+## POINTER 1111 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263895279]
+Arco pesado con muchas púas. Útil para el combate a corta distancia.
+Se requiere una gran habilidad para usar esta arma.
+
+## POINTER 1113 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261735106]
+Arco defensor
+
+## POINTER 1114 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Arco transfigurador usado por guardianes del viejo mundo.
+Su modo francotirador nunca permitió acercarse a los enemigos.
+
+## POINTER 1116 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261751488]
+Arco de asalto cornudo
+
+## POINTER 1117 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586099]
+Arco de asalto fabricado con los cuernos de una bestia gigante.
+Se necesita algo más que fuerza para tensar la cuerda.
+
+## POINTER 1119 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263895279]
+Arco destructor
+
+## POINTER 1120 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Arco pesado usado para asaltar castillos enemigos durante
+la guerra. Sus disparos pueden destruir murallas.
+
+## POINTER 1122 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263906652]
+Arco salpicado
+
+## POINTER 1123 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Arco de metal de tacto húmedo. Es capaz de acertarle
+a una moneda a una kilómetro de distancia.
+
+## POINTER 1125 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261663158]
+Arco élfico
+
+## POINTER 1126 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Arco que, según una vieja profecía, se puede convertir
+en un árbol gigante para proteger las generaciones futuras.
+
+## POINTER 1128 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261663158]
+Gatillo sangriento
+
+## POINTER 1129 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Arco mecánico que causó una masacre hace diez años.
+Se suponía que se le iba a vigilar de cerca...
+
+## POINTER 1131 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261663158]
+Gatillo sangriento +1α
+
+## POINTER 1132 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Arco mecánico que causó una masacre hace diez años.
+Se suponía que se le iba a vigilar de cerca...
+
+## POINTER 1134 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261663158]
+Gatillo sangriento +1β
+
+## POINTER 1135 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Arco mecánico que causó una masacre hace diez años.
+Se suponía que se le iba a vigilar de cerca...
+
+## POINTER 1137 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261663364]
+Cruzado 13
+
+## POINTER 1138 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263895279]
+Viejo arco con el nombre de un reputado francotirador.
+Esta arma nunca falla un disparo.
+
+## POINTER 1140 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261664557]
+Cañón divino
+
+## POINTER 1141 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264016250]
+También conocido como «Rayo divino», el propietario
+de esta arma debe responsabilizarse de su poder.
+
+## POINTER 1143 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261664557]
+Kogarashi
+
+## POINTER 1144 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Daga usada para cazar en épocas pretéritas.
+Un arma familiar usada desde cachorro.
+
+## POINTER 1146 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261664557]
+Kogarashi +1
+
+## POINTER 1147 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Daga usada para cazar en épocas pretéritas.
+Un arma familiar usada desde cachorro.
+
+## POINTER 1149 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261753044]
+Karakaze
+
+## POINTER 1150 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Daga que perteneció a un ninja experto en las artes del viento.
+La punta especial hace un sonido cortante como el viento.
+
+## POINTER 1152 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261753044]
+Karakaze +1
+
+## POINTER 1153 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Daga que perteneció a un ninja experto en las artes del viento.
+La punta especial hace un sonido cortante como el viento.
+
+## POINTER 1155 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261753376]
+Ohka
+
+## POINTER 1156 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Daga con un elegante diseño con flores de cerezo.
+Es una obra de arte, pero la hoja la convierte en un arma poderosa.
+
+## POINTER 1158 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261753376]
+Ohka +1
+
+## POINTER 1159 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Daga con un elegante diseño con flores de cerezo.
+Es una obra de arte, pero la hoja la convierte en un arma poderosa.
+
+## POINTER 1161 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261664738]
+Tama-hagane
+
+## POINTER 1162 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263895279]
+Pequeña daga fabricada con acero de alta calidad.
+Los filos están afilados como cuchillas y son muy fuertes.
+
+## POINTER 1164 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261664738]
+Tama-hagane +1
+
+## POINTER 1165 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263895279]
+Pequeña daga fabricada con acero de alta calidad.
+Los filos están afilados como cuchillas y son muy fuertes.
+
+## POINTER 1167 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261664738]
+Tama-hagane +2α
+
+## POINTER 1168 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263895279]
+Pequeña daga fabricada con acero de alta calidad.
+Los filos están afilados como cuchillas y son muy fuertes.
+
+## POINTER 1170 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261664738]
+Tama-hagane +2β
+
+## POINTER 1171 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263895279]
+Pequeña daga fabricada con acero de alta calidad.
+Los filos están afilados como cuchillas y son muy fuertes.
+
+## POINTER 1173 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261664738]
+Kotaro
+
+## POINTER 1174 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Daga inspirada por una leyenda ninja. La vaina
+está diseñada para albergar otras armas secretas.
+
+## POINTER 1176 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261664738]
+Kotaro +1
+
+## POINTER 1177 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Daga inspirada por una leyenda ninja. La vaina
+está diseñada para albergar otras armas secretas.
+
+## POINTER 1179 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261664738]
+Kotaro +2α
+
+## POINTER 1180 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Daga inspirada por una leyenda ninja. La vaina
+está diseñada para albergar otras armas secretas.
+
+## POINTER 1182 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261664738]
+Kotaro +2β
+
+## POINTER 1183 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Daga inspirada por una leyenda ninja. La vaina
+está diseñada para albergar otras armas secretas.
+
+## POINTER 1185 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665108]
+Cuervo sagrado
+
+## POINTER 1186 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Hoz que lleva las almas perdidas al cielo. Las tres huellas
+de un cuervo legendario están marcadas en la hoja como un símbolo.
+
+## POINTER 1188 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665108]
+Cuervo sagrado +1
+
+## POINTER 1189 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Hoz que lleva las almas perdidas al cielo. Las tres huellas
+de un cuervo legendario están marcadas en la hoja como un símbolo.
+
+## POINTER 1191 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665108]
+Cuervo sagrado +2α
+
+## POINTER 1192 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Hoz que lleva las almas perdidas al cielo. Las tres huellas
+de un cuervo legendario están marcadas en la hoja como un símbolo.
+
+## POINTER 1194 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665108]
+Cuervo sagrado +2β
+
+## POINTER 1195 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Hoz que lleva las almas perdidas al cielo. Las tres huellas
+de un cuervo legendario están marcadas en la hoja como un símbolo.
+
+## POINTER 1197 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261753188]
+Kurama
+
+## POINTER 1198 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Pequeña arma similar a un ventilador. Las hojas están
+distribuidas radialmente, lo que la hace afilada y flexible.
+
+## POINTER 1200 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261753188]
+Kurama +1
+
+## POINTER 1201 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Pequeña arma similar a un ventilador. Las hojas están
+distribuidas radialmente, lo que la hace afilada y flexible.
+
+## POINTER 1203 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261753376]
+Jiraiya
+
+## POINTER 1204 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Arma fabricada del pilar fundido de un templo.
+Puede ser extremadamente poderosa si tu alma es una con la tierra.
+
+## POINTER 1206 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261753376]
+Jiraiya +1α
+
+## POINTER 1207 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Arma fabricada del pilar fundido de un templo.
+Puede ser extremadamente poderosa si tu alma es una con la tierra.
+
+## POINTER 1209 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261753376]
+Jiraiya +1β
+
+## POINTER 1210 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Arma fabricada del pilar fundido de un templo.
+Puede ser extremadamente poderosa si tu alma es una con la tierra.
+
+## POINTER 1212 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665199]
+Fénix carmesí
+
+## POINTER 1213 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Pequeña daga fabricada a imagen de un bello pájaro.
+Se usa para inmolaciones y suicidios discretos.
+
+## POINTER 1215 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665199]
+Fénix carmesí +1
+
+## POINTER 1216 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Pequeña daga fabricada a imagen de un bello pájaro.
+Se usa para inmolaciones y suicidios discretos.
+
+## POINTER 1218 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665199]
+Fénix carmesí +2α
+
+## POINTER 1219 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Pequeña daga fabricada a imagen de un bello pájaro.
+Se usa para inmolaciones y suicidios discretos.
+
+## POINTER 1221 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665199]
+Fénix carmesí +2β
+
+## POINTER 1222 [t:1;r:1;ru:memnoch;user:memnoch;time:1297106132]
+Pequeña daga fabricada a imagen de un bello pájaro.
+Se usa para inmolaciones y suicidios discretos.
+
+## POINTER 1224 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665415]
+Rebanapiedras
+
+## POINTER 1225 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Pequeña daga con una hoja sólida y afilada.
+Esta arma es capaz de cortar piedras en dos.
+
+## POINTER 1227 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665415]
+Rebanapiedras +1
+
+## POINTER 1228 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Pequeña daga con una hoja sólida y afilada.
+Esta arma es capaz de cortar piedras en dos.
+
+## POINTER 1230 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665415]
+Rebanapiedras +2α
+
+## POINTER 1231 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Pequeña daga con una hoja sólida y afilada.
+Esta arma es capaz de cortar piedras en dos.
+
+## POINTER 1233 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665415]
+Rebanapiedras +2β
+
+## POINTER 1234 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769446]
+Pequeña daga con una hoja sólida y ancha.
+Esta arma es capaz de cortar piedras e incluso minerales.

@@ -1,0 +1,92 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289833715]
+<STR>(FRE)
+<VOICE>(VS64_042)¿No os vais a quedar hasta el final?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+<STR>(YUR)
+<VOICE>(VS64_043)Nuestra labor
+no es esa.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+<STR>(RIT)
+<VOICE>(VS64_044)Pues sí. Ese marrón le toca
+a la gente importante.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580384]
+<STR>(JUD)
+<VOICE>(VS64_045)De algún modo, creo que
+la gente lo tendrá más
+difícil de lo que piensan.<PAGE><VOICE>(VS64_046)Su trabajo consiste en prepararse
+para ello. El nuestro...
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+<STR>(YUR)
+<VOICE>(VS64_047)Es destrozar el adephagos
+y detener a Duke.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+<STR>(FRE)
+<VOICE>(VS64_048)Entiendo...
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+<STR>(YUR)
+<VOICE>(VS64_049)Perdona. Te hemos dejado
+a ti todo el trabajo sucio.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+<STR>(FRE)
+<VOICE>(VS64_050)Eso debería decirlo yo.<PAGE><VOICE>(VS64_051)Siempre os dejamos
+a vosotros lo más
+difícil. Lo lamento.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+<STR>(KAR)
+<VOICE>(VS64_052)Vale. ¡Hay trabajo
+que hacer!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527234]
+<STR>(RIT)
+<VOICE>(VS64_053)Pero ¿cómo vamos a poder acceder
+a los núcleos de todo el mundo?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+Witcher
+<VOICE>(VS64_054)Creo que conozco una manera...<PAGE><VOICE>(VS64_055)Había algo en la investigación
+de Alexei y Barbos.<PAGE><VOICE>(VS64_056)Una nota sobre crear
+una red de blastias...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959644]
+<STR>(RIT)
+<VOICE>(VS64_057)¡¿En serio?!
+¿Dónde está esa nota?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580384]
+Witcher
+<VOICE>(VS64_058)Mmm... La he traído junto
+con el resto de mis cosas.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580384]
+Witcher
+<VOICE>(VS64_059)¡O-Oye! ¡Espera! ¡No vayas por ahí
+hurgando en las cosas de los demás!
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+<STR>(EST_P)
+<VOICE>(VS64_060)¡Oh!<PAGE><VOICE>(VS64_061)Yo también voy.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+<STR>(KAR)
+<VOICE>(VS64_062)Se han dado el piro...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298580384]
+<STR>(RAV)
+<VOICE>(VS64_063)Pa mí que tenemos una pizquiñina d'esperanza.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+<STR>(JUD)
+<VOICE>(VS64_064)Sí, así es. Seguro que encuentra
+una solución si le echa tantas ganas.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287494363]
+<STR>(YUR)
+<VOICE>(VS64_065)Relajémonos un poco mientras tanto.

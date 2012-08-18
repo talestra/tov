@@ -1,0 +1,60 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251592002]
+(RIT)
+
+## POINTER 1 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1261778935]
+(KAR)
+(RIT) da un poco de miedo, ¿no?
+
+## POINTER 2 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266668117]
+(EST_P)
+¿Tú crees?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287677939]
+(YUR)
+Es un poco como me esperaba.
+Y también parece estar
+de un humor de perros.
+
+## POINTER 4 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266668117]
+(EST_P)
+¡Eso es porque te has
+colado en su casa, (YUR)!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1287677939]
+(YUR)
+No me apetece ser amable
+cuando trato con una ladrona
+de blastias.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1287677939]
+(KAR)
+¿Qué harás si resulta que estás equivocado?
+
+## POINTER 7 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266668117]
+(YUR)
+Si me equivoco, me disculparé.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1287677939]
+(RIT)
+Más te vale recordarlo
+cuando llegue el momento.
+
+## POINTER 9 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266668117]
+(KAR)
+Oh, ¿estabas escuchando?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1287677939]
+(RIT)
+Solo de casualidad.
+Así que te doy miedo, ¿eh?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1287677939]
+(YUR)
+Cuidado, (KAR).
+Es de las que nunca
+olvidan una ofensa.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1287677939]
+(KAR)
+¡O-Oye! ¡N-No me
+digas esas cosas!

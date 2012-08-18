@@ -1,0 +1,186 @@
+## POINTER 0
+<STR>(RAP)
+<VOICE>(VS28_500)Woof!!
+
+## POINTER 1
+Regaey
+<VOICE>(VS28_501)Aaah...! H-heeelp!
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS28_502)Aer...?
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS28_503)This is just like at 
+Keiv Moc! Is there an 
+aer krene here, too?
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VS28_504)What do we do?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS28_505)Charge right in!
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS28_506)...I don't think so.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS28_507)<STR>(JUD) is right! 
+Touching aer that 
+thick is dangerous!
+
+## POINTER 8
+Regaey
+<VOICE>(VS28_508)I-I, c-can't believe 
+that s-something like 
+that would s-save me...
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS28_509)Wait!
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS28_510)Uagh!!
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS28_511)It looks like we'll have 
+to keep our distance...
+
+## POINTER 12
+Regaey
+<VOICE>(VS28_512)W-what's this sh-shaking...
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS28_513)Is that the monster you 
+were talking about, <STR>(KAR)?
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS28_514)N-no... I've never 
+seen a monster 
+like that before...
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS28_515)It ate the aer...?
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS28_516)Aaah...!
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS28_517)I-I can't move...
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS28_518)Oh no...
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS28_519)This is not...good...
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS28_520)Hey, I can move...
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VS28_521)You're not getting 
+away again!
+
+## POINTER 22
+<STR>(EST_P)
+<VOICE>(VS28_522)<STR>(RIT), be careful!
+
+## POINTER 23
+<STR>(RIT)
+<VOICE>(VS28_523)Don't worry. 
+It's not harmful at 
+its current density.
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS28_524)What the hell 
+just happened?
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS28_525)The monster we just saw 
+somehow normalized the aer 
+krene that was out of control...<PAGE><VOICE>(VS28_526)But that would mean that 
+it can control the aer...<PAGE><VOICE>(VS28_527)Could it be the same 
+thing that guy did with his 
+sword back in Keiv Moc?!
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS28_528)Can we pass 
+through it...? 
+<STR>(RIT)!
+
+## POINTER 27
+<STR>(RIT)
+<VOICE>(VS28_529)Oh, uh, r-right. 
+It should be okay...
+
+## POINTER 28
+<STR>(JUD)
+<VOICE>(VS28_530)What's the matter?
+
+## POINTER 29
+<STR>(RIT)
+<VOICE>(VS28_531)I have to figure this 
+out... I mean, this is 
+what I'm traveling for...
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS28_532)Come on, <STR>(RIT).
+
+## POINTER 31
+<STR>(RIT)
+<VOICE>(VS28_533)I know, I know. 
+We have to follow 
+him...but...I just...
+
+## POINTER 32
+<STR>(RAV)
+<VOICE>(VS28_534)That aer krene 
+isn't exactly goin' 
+anywhere, is it?
+
+## POINTER 33
+<STR>(RIT)
+<VOICE>(VS28_535)Of course not, you idiot!<PAGE><VOICE>(VS28_536)...Oh...I see what you mean...
+
+## POINTER 34
+<STR>(RIT)
+<VOICE>(VS28_537)...Okay, let's go.
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS28_538)All right!
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS28_539)<STR>(KAR), are you okay?
+
+## POINTER 37
+<STR>(KAR)
+<VOICE>(VS28_540)Y-yeah...peachy... 
+No, really, I'm fine.
+
+## POINTER 38
+<STR>(RIT)
+<VOICE>(VS28_541)That monster's power... 
+Was that the Rizomata 
+Formula too?

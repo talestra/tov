@@ -1,0 +1,114 @@
+## POINTER 0
+<STR>(KAR)
+Doesn't look like Dyne's here... I wonder 
+if he's at the inn taking a rest.
+
+## POINTER 1
+<STR>(YUR)
+Maybe we just got 
+here ahead of him.
+
+## POINTER 2
+Dyne
+<STR>(KAR)...!<PAGE>F-forgive me. Me and my guys 
+are pretty much done for...
+
+## POINTER 3
+<STR>(KAR)
+What happened?! Did you already 
+go up against the monster...?!
+
+## POINTER 4
+Dyne
+N-no... We all ate some food 
+that was a little past its 
+prime, so to speak...<PAGE>I'm not too much the worse for wear, 
+but the others are lucky if they 
+can manage to stand up...
+
+## POINTER 5
+<STR>(YUR)
+Sucks to be you guys.
+
+## POINTER 6
+Dyne
+You're telling me...
+
+## POINTER 7
+<STR>(KAR)
+We'll just have to cool 
+our heels here until you 
+guys are feeling better.
+
+## POINTER 8
+<STR>(JUD)
+Fortunately, there doesn't seem 
+to be any sign of the monster.
+
+## POINTER 9
+Dyne
+That's actually a 
+bit of a problem.<PAGE>You see, the monster went and abducted 
+the man who hired us to defeat it.
+
+## POINTER 10
+<STR>(RAV)
+Okay, now this 
+is officially 
+a mess.
+
+## POINTER 11
+Dyne
+And I have a suspicion our client is the 
+type who's never really held a sword.<PAGE>I can only hope he's still all right... 
+I'd like to go to his rescue right 
+now, but in this condition...
+
+## POINTER 12
+<STR>(YUR)
+Which way did 
+the monster go?
+
+## POINTER 13
+Dyne
+He flew off 
+straight north 
+from here.
+
+## POINTER 14
+<STR>(YUR)
+Flew...?
+
+## POINTER 15
+<STR>(JUD)
+Going north from here would 
+take us right to Mt. Temza.
+
+## POINTER 16
+<STR>(KAR)
+Could it be that huge 
+monster the last time 
+we were there?
+
+## POINTER 17
+<STR>(YUR)
+...Just might be.
+
+## POINTER 18
+Dyne
+...Oh no, my stomach...! 
+I've gotta run... 
+Good luck...!
+
+## POINTER 19
+<STR>(YUR)
+Guess it's on us...
+
+## POINTER 20
+<STR>(EST_P)
+So, Mt. Temza. Let's go 
+see what we can find out.
+
+## POINTER 21
+<STR>(KAR)
+Right.

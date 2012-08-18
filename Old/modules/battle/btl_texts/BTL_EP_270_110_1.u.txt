@@ -1,0 +1,16 @@
+{"text_path":"battle\/0000","text_id":"00003E48","linked_id":"a883bbc0a9e6e20d847c1b3f919027bc","metainfo":{"textblock_ptr":15944},"texts":{"ja":["15846","15853"],"en":["15889","15896"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"00003F10","linked_id":"4cc9dff12bd166ee9aebd1aaf95ab657","metainfo":{"textblock_ptr":16144},"texts":{"ja":["15968","15975"],"en":["16060","16067"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"00003F9C","linked_id":"b3e860577d43f4d4c927df017790c2cb","metainfo":{"textblock_ptr":16284},"texts":{"ja":["16168","16175"],"en":["16226","16233"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"0000403C","linked_id":"3e1543dd30a342c75c771ecc646551a5","metainfo":{"textblock_ptr":16444},"texts":{"ja":["16308","16315"],"en":["16379","16386"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"000040C8","linked_id":"4d5fa319a62a343c834c43d9e74af073","metainfo":{"textblock_ptr":16584},"texts":{"ja":["16468","16475"],"en":["16520","16527"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"0000417C","linked_id":"8aaa6c7186a4f77dc5d77fac62dab727","metainfo":{"textblock_ptr":16764},"texts":{"ja":["16608","16615"],"en":["16679","16686"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"00004288","linked_id":"690f6fb4198d89f56db930bdaa180854","metainfo":{"textblock_ptr":17032},"texts":{"ja":["16788","16795"],"en":["16908","16915"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"000042F4","linked_id":"8b906b094039545b849aea68b0fb4da9","metainfo":{"textblock_ptr":17140},"texts":{"ja":["17056","17063"],"en":["17093","17100"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"00004400","linked_id":"90041369c5d0cf3229b55133f6b8dcf8","metainfo":{"textblock_ptr":17408},"texts":{"ja":["17164","17171"],"en":["17268","17275"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"000045A8","linked_id":"29885ca7df5b5be5065058acc8d83519","metainfo":{"textblock_ptr":17832},"texts":{"ja":["17432","17439"],"en":["17631","17638"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"0000466C","linked_id":"3809619b2672c415e84b2d73b6432184","metainfo":{"textblock_ptr":18028},"texts":{"ja":["17856","17863"],"en":["17955","17962"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"00004734","linked_id":"d84565954cd5f5b7dc63f4add75bf346","metainfo":{"textblock_ptr":18228},"texts":{"ja":["18052","18059"],"en":["18147","18154"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"00004810","linked_id":"cfcc59776b9dea53f99b5183d0b6cfab","metainfo":{"textblock_ptr":18448},"texts":{"ja":["18252","18259"],"en":["18351","18358"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"000048A4","linked_id":"75d6451efb90b59b93662285729fef9d","metainfo":{"textblock_ptr":18596},"texts":{"ja":["18472","18479"],"en":["18527","18534"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"00004960","linked_id":"271302ad618df5220ec692117bb75171","metainfo":{"textblock_ptr":18784},"texts":{"ja":["18620","18627"],"en":["18704","18711"],"es":["",""]}}
+{"text_path":"battle\/0000","text_id":"000049D8","linked_id":"ee0b8eb74d4dd71a7eb89c4f1d1ab222","metainfo":{"textblock_ptr":18904},"texts":{"ja":["18808","18809"],"en":["18868","18869"],"es":["",""]}}

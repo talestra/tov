@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165794]
+<STR>(KAR)
+<VOICE>(VS11_013)Este todavía tiene
+un núcleo dentro.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165794]
+<STR>(RIT)
+<VOICE>(VS11_014)Venga, intenta
+dispararle con esto.
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270977304]
+<STR>(YUR)
+<VOICE>(VS11_015)Este anillo tiene algo que
+se parece al núcleo de un blastia.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165794]
+<STR>(EST_P)
+<VOICE>(VS11_016)La cristalización en glifo de
+una fórmula permite emitir aer
+a este blastia cuando se necesita.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165794]
+<STR>(RIT)
+<VOICE>(VS11_017)Esa no es la mejor forma de explicarlo.<PAGE><VOICE>(VS11_018)En realidad, se usa para cargar
+otros blastias con aer.<PAGE><VOICE>(VS11_019)Eh, espera, ¿cómo sabías eso?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165794]
+<STR>(EST_P)
+<VOICE>(VS11_020)En el castillo leí que, en
+las ruinas antiguas, el anillo
+actúa como una especie de llave.
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270977572]
+<STR>(RIT)
+<VOICE>(VS11_021)¿En el castillo?
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270977572]
+<STR>(YUR)
+<VOICE>(VS11_022)¿Así que solo tengo que apuntar?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298165794]
+<STR>(RIT)
+<VOICE>(VS11_023)Dirige el Anillo del Hechicero
+al núcleo de ese blastia.<PAGE><VOICE>(VS11_024)Encárate a él y dispara.<PAGE><VOICE>(VS11_025)Aunque hay un límite de distancia.
+Venga, inténtalo.

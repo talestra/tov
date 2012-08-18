@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251752797]
+¡El monstruo habló!
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266941224]
+(KAR)
+Oye, ¿te importa si te pregunto algo?
+Necesito estar seguro de una cosa.
+
+## POINTER 2 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266941224]
+(EST_P)
+¿De qué se trata?
+
+## POINTER 3 [t:1;r:2;ru:lia,memnoch;user:xander;time:1266113808]
+(KAR)
+Aquel monstruo enorme que vimos...
+Estaba hablando, ¿verdad?
+En nuestro idioma, vamos.
+
+## POINTER 4 [t:1;r:2;ru:evilluendas,memnoch;user:evilluendas;time:1267317212]
+(EST_P)
+Sí, yo misma lo escuché.
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266941224]
+(YUR)
+¿Vosotros también lo oísteis?
+Parece que al final no eran imaginaciones mías.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297115862]
+(KAR)
+¿Quién ha oído hablar nunca de un monstruo
+que habla un idioma humano?
+
+## POINTER 7 [t:1;r:2;ru:evilluendas,memnoch;user:evilluendas;time:1267317212]
+(EST_P)
+¿Qué será ese monstruo?

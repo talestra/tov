@@ -1,0 +1,42 @@
+## POINTER 0
+<STR>(RAP)
+Woof!
+
+## POINTER 1
+<STR>(YUR)
+So many things
+to deal with...
+I'm a little mixed up.
+
+## POINTER 2
+<STR>(RAP)
+*Whine*
+
+## POINTER 3
+<STR>(YUR)
+Sorry for dragging you
+around <STR>(RAP).
+
+## POINTER 4
+<STR>(RAP)
+Woof... !
+
+## POINTER 5
+<STR>(YUR)
+Right... There's nothing else 
+to be sorry about after all 
+these years.
+
+## POINTER 6
+<STR>(RAP)
+Woof!
+
+## POINTER 7
+<STR>(YUR)
+Hahaha...<PAGE>OK, so what should we start with...<PAGE>...Before anything else, 
+we'll need to have the 
+ship moving...
+
+## POINTER 8
+<STR>(RAP)
+*Whine*

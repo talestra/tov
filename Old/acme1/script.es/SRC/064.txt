@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298167368]
+
+¡¡Bienvenidos a la famosa refriega
+de cien rivales de Palestrale!!<PAGE>¡¡Nunca pensé que vería este día!!
+¡Este es el reto final!<PAGE>¡Todo lo anterior no era más que un simple
+entrenamiento para el evento principal!<PAGE>¡La legendaria refriega de cien rivales
+está a punto de comenzar!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298167368]
+<STR>(YUR)
+¡Toma yaaa!
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270896906]
+<STR>(EST_P)
+¡Muy bien, puedo hacerlo!
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270896906]
+<STR>(KAR)
+La legendaria refriega de cien rivales...
+Si consigo ganar seré un héroe, ¿verdad?
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270896906]
+<STR>(RIT)
+La legendaria refriega de cien rivales...
+Mmm, esto va a ser divertido.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298167368]
+<STR>(RAV)
+Espera, creía que decían «la
+refriega de las cien rubiales».
+Bueno, vamos a intentarlo...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298167368]
+<STR>(JUD)
+Cien rivales, ¿eh? 
+Je. ¡Que vengan!
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270896906]
+<STR>(RAP)
+¡¡Grrrrrr!!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298167368]
+
+¡Muy bien, muéstrenos
+de que pasta está hecho!<PAGE>Preparados...
+¡A luchar!

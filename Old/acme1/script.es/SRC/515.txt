@@ -1,0 +1,170 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(KAR)
+<VOICE>(VS56_008)Natz ha estado
+trabajando mucho.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(YUR)
+<VOICE>(VS56_009)Ya. Parece que no se le ha dado mal
+dirigir el cotarro desde que falleció Belius.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(EST_P)
+<VOICE>(VS56_010)Me gustaría que conociera
+a Undine. Se alegraría
+muchísimo.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(YUR)
+<VOICE>(VS56_011)Por ahora no.<PAGE><VOICE>(VS56_012)Pero cuando se calmen las cosas
+le daremos una buena sorpresita.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(EST_P)
+<VOICE>(VS56_013)Vale.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576602]
+<STR>(RAV)
+<VOICE>(VS56_014)Aquel monstruo...<PAGE><VOICE>(VS56_015)Palestrale no podía
+con el ni pa atrás.
+Nu me lo explico...
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(KAR)
+<VOICE>(VS56_016)¿Cómo nos lo pudimos cargar, entonces?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(YUR)
+<VOICE>(VS56_017)Puede que nosotros
+tengamos algo distinto...
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(JUD)
+<VOICE>(VS56_018)¿Los espíritus, tal vez?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(RIT)
+<VOICE>(VS56_019)Si el adephagos es realmente
+algo cercano al aer, entonces
+puede que los espíritus lo afecten.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576602]
+<STR>(YUR)
+<VOICE>(VS56_020)Entonces, ¿podremos luchar mejor
+contra él si reunimos los otros tres?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576602]
+<STR>(RIT)
+<VOICE>(VS56_021)Quién sabe...<PAGE><VOICE>(VS56_022)Los cuatro elementos pueden controlar
+el aer por sí solos, pero estamos
+hablando del adephagos...<PAGE><VOICE>(VS56_023)No sabría decir, la verdad.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981458]
+<STR>(RAV)
+<VOICE>(VS56_024)Pos sí, y tampoco es que uno se encuentre
+muchas apátheia por ahí tirás.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(EST_P)
+<VOICE>(VS56_025)Ni tampoco quedan
+muchos entelechia...
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(YUR)
+<VOICE>(VS56_026)Eh, pero hay blastias a patadas
+por todo el mundo, ¿no?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(EST_P)
+<VOICE>(VS56_027)Sí. Son una parte indispensable
+de nuestra sociedad.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576602]
+<STR>(YUR)
+<VOICE>(VS56_028)Y los núcleos son
+fragmentos de apátheia.<PAGE><VOICE>(VS56_029)Es decir, que si los cuatro
+espíritus no son suficientes,<PAGE><VOICE>(VS56_030)podemos transformar los núcleos
+de todo el mundo en espíritus, ¿no?
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(RIT)
+<VOICE>(VS56_031)¿Has perdido la chota?
+¿Cómo propones hacer algo así?
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(JUD)
+<VOICE>(VS56_032)Aunque supiéramos cómo hacerlo,
+tendríamos que ir blastia
+por blastia.<PAGE><VOICE>(VS56_033)No creo yo que el adephagos
+fuera a esperarnos sentado.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(YUR)
+<VOICE>(VS56_034)Creo que esa es
+tu especialidad, tía lista.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(RIT)
+<VOICE>(VS56_035)Oh, no... Este es nuestro plan genial.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576602]
+<STR>(KAR)
+<VOICE>(VS56_036)Pero aunque el plan
+de <STR>(YUR) funcionara,<PAGE><VOICE>(VS56_037)todos los blastias del mundo
+dejarían de funcionar, ¿no?
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(RAV)
+<VOICE>(VS56_038)Sí, supongo. Tós los núcleos
+habrían desaparecío.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576602]
+<STR>(EST_P)
+<VOICE>(VS56_039)¿En qué se convertiría
+el mundo?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576602]
+<STR>(JUD)
+<VOICE>(VS56_040)La gente perdería la seguridad
+que prometen las barreras...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576602]
+<STR>(RIT)
+<VOICE>(VS56_041)Todas las funciones que realizaban
+los blastias desaparecerían. Supondría
+un gran problema, y eso siendo generosos.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(KAR)
+<VOICE>(VS56_042)Hasta los bodhi blastias dejarían
+de funcionar. Oh...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576602]
+<STR>(YUR)
+<VOICE>(VS56_043)Mucha gente no se alegraría, precisamente.
+Pero tenemos que hacerlo...
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(YUR)
+<VOICE>(VS56_044)Ese bicho va a cargarse el mundo.
+Creo que es lo que debemos hacer.<PAGE><VOICE>(VS56_045)Aunque no haya nadie
+más que nos entienda.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298576602]
+<STR>(RAV)
+<VOICE>(VS56_046)Bueno, por ahora, vamos a vé
+si pillamos los cuatro espíritus.<PAGE><VOICE>(VS56_047)Una vez hecho eso, ya nus calentaremos
+la testa sobre lo que hay que hacer después.
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(YUR)
+<VOICE>(VS56_048)Sí.
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(KAR)
+<VOICE>(VS56_049)Ba'ul sabe dónde están
+los demás entelechia, ¿verdad?
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286525217]
+<STR>(YUR)
+<VOICE>(VS56_050)Sí. Volvamos a la nave a preguntarle.

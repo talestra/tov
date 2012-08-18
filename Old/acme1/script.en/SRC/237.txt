@@ -1,0 +1,46 @@
+## POINTER 0
+Ragou
+<VOICE>(VS22_064)It seems I may have gotten a 
+little careless when I thought 
+Alexei wouldn't be around...<PAGE><VOICE>(VS22_065)<STR>(FRE) Scifo... That impertinent 
+upstart. This is a grudge 
+I won't soon forget.<PAGE><VOICE>(VS22_066)I will bring down the full authority 
+of the Council on you.
+
+## POINTER 1
+
+<VOICE>(VS22_067)Aah...!
+
+## POINTER 2
+Ragou
+<VOICE>(VS22_068)What the...?!
+
+## POINTER 3
+Ragou
+<VOICE>(VS22_069)It's you...!
+
+## POINTER 4
+Ragou
+<VOICE>(VS22_070)Do you intend to harm me?! I'm a 
+member of the Council, you know!
+
+## POINTER 5
+Ragou
+<VOICE>(VS22_071)I c-could crush you w-with 
+a single command.<PAGE><VOICE>(VS22_072)You won't get 
+away with this!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS22_073)The laws and the Council 
+may have let you go, but 
+I'm afraid I can't do that.
+
+## POINTER 7
+Ragou
+<VOICE>(VS22_074)Aah, s-stay back!
+
+## POINTER 8
+Ragou
+<VOICE>(VS22_075)Ugh...I was so close...
+Dein Nomos...

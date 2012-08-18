@@ -1,0 +1,66 @@
+## POINTER 0
+Kaufman
+Hmmm, this is quite a pickle...
+
+## POINTER 1
+<STR>(YUR)
+You always seem to be getting 
+yourself into pickles.
+
+## POINTER 2
+Kaufman
+Oh!
+Heh, no rest for the wicked... 
+Though, I guess that doesn't 
+really apply here.
+
+## POINTER 3
+<STR>(EST_P)
+Is something the matter?
+
+## POINTER 4
+Kaufman
+I've been helping with the 
+festival here, you see.
+
+## POINTER 5
+Kaufman
+See that guy over there? He's been over there in the 
+Casino Corner cleaning everyone out for a while now.
+
+## POINTER 6
+<STR>(YUR)
+Wow, he must be 
+really good.
+
+## POINTER 7
+Kaufman
+Either that or he's cheating. 
+And pretty skilled at it, too.<PAGE>Either way, at this rate, 
+he's going to ruin the 
+festival for everyone.<PAGE>But I guess this is something 
+I can't really ask you to 
+help me with, isn't it?
+
+## POINTER 8
+<STR>(JUD)
+...In other words, 
+all we need to do 
+is make him leave?
+
+## POINTER 9
+Kaufman
+Oh? Can you do that? I'd be happy to give you a reward 
+if you can manage to get him to go away. You could 
+think of it as an official request to your guild.
+
+## POINTER 10
+<STR>(KAR)
+A reward for a successful 
+job, you say...? But <STR>(JUD),
+can you really do that?
+
+## POINTER 11
+<STR>(JUD)
+Hmm, I wonder. I won't 
+know unless I try!

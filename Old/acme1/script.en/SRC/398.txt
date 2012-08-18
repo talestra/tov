@@ -1,0 +1,117 @@
+## POINTER 0
+<STR>(YUR)
+It's even worse from up close.
+
+## POINTER 1
+<STR>(RIT)
+There's no way this could 
+have happened naturally.
+
+## POINTER 2
+<STR>(EST_P)
+It looks like something exploded here...
+
+## POINTER 3
+<STR>(KAR)
+An explosion... Are there 
+monsters that can do something 
+like this?
+
+## POINTER 4
+<STR>(RAV)
+There were. But those monsters 
+were all wiped out.
+
+## POINTER 5
+<STR>(EST_P)
+What do you mean, 
+wiped out?
+
+## POINTER 6
+<STR>(RAV)
+What ya see here...this was a 
+battleground in the Great War.
+
+## POINTER 7
+<STR>(KAR)
+What! Really?
+
+## POINTER 8
+<STR>(EST_P)
+So that means...humans 
+and Entelexeia fought 
+here...
+
+## POINTER 9
+<STR>(EST_P)
+The humans were victorious, 
+but there were scarcely 
+any survivors...<PAGE>The facts behind the war are 
+shrouded in darkness...
+
+## POINTER 10
+<STR>(EST_P)
+Not even the official government histories 
+give many details about what happened.
+
+## POINTER 11
+<STR>(RIT)
+So the Entelexeia did this 
+to the mountains...<PAGE>What terrible power.
+
+## POINTER 12
+<STR>(YUR)
+But this is the first time I've heard 
+that a battle took place here.
+
+## POINTER 13
+<STR>(RAV)
+The empire's kept a pretty tight 
+hold on information about it.<PAGE>They've got a lotta secrets. 
+You should know that by now.
+
+## POINTER 14
+<STR>(RIT)
+I thought it was strange that 
+monsters would wage war against 
+humans. But...
+
+## POINTER 15
+<STR>(EST_P)
+What they didn't want us to 
+know was that those monsters 
+were actually Entelexeia...
+
+## POINTER 16
+<STR>(KAR)
+You sure know a lot about this stuff, <STR>(RAV).
+
+## POINTER 17
+<STR>(RAV)
+You come across a lot if you 
+live long enough, kiddies.
+
+## POINTER 18
+<STR>(YUR)
+Okay, enough history lessons. 
+We came here so we could 
+look for <STR>(JUD_P).
+
+## POINTER 19
+<STR>(EST_P)
+The monster's voice we heard 
+just now... What if they've already 
+got <STR>(JUD) cornered?
+
+## POINTER 20
+<STR>(RIT)
+Beating up that dragon-freak 
+is MY job!<PAGE>I won't let them beat me to it!
+
+## POINTER 21
+<STR>(YUR)
+Yeah.
+
+## POINTER 22
+<STR>(EST_P)
+Let's hurry!

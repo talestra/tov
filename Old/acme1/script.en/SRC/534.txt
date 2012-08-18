@@ -1,0 +1,29 @@
+## POINTER 0
+<STR>(RIT)
+What a mess...
+
+## POINTER 1
+<STR>(KAR)
+We're going in...
+
+## POINTER 2
+<STR>(EST_P)
+Look! Over there!
+
+## POINTER 3
+<STR>(YUR)
+<STR>(FRE)!
+
+## POINTER 4
+<STR>(RAV)
+Hey, looks like he
+could use some help.
+
+## POINTER 5
+<STR>(JUD)
+We won't be surrounded if we
+move along the side of the cliff.
+
+## POINTER 6
+<STR>(YUR)
+Let's go! Stay close!

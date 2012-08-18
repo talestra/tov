@@ -1,0 +1,98 @@
+## POINTER 0
+
+I, I never thought 
+you'd be able 
+to beat that...
+
+## POINTER 1
+<STR>(RIT)
+Give up already! We're 
+just going to beat anything 
+you throw at us!
+
+## POINTER 2
+<STR>(RAV)
+Not that you had anythin' ta do with it, <STR>(RIT)...
+
+## POINTER 3
+
+Darn it...
+
+## POINTER 4
+<STR>(JUD)
+Are you convinced yet? 
+Both Krones and Ba'ul have 
+their strong points.
+
+## POINTER 5
+<STR>(EST_P)
+That's right. There's 
+no need for them to compete 
+with each other.
+
+## POINTER 6
+<STR>(YUR)
+You should've stuck to that argument in the first place...
+
+## POINTER 7
+
+All right. I 
+admit defeat.
+
+## POINTER 8
+<STR>(KAR)
+Really? You finally 
+get it!
+
+## POINTER 9
+
+Actually...
+
+## POINTER 10
+<STR>(RIT)
+What?
+
+## POINTER 11
+
+Actually, I was jealous 
+of you and your dragon!
+
+## POINTER 12
+<STR>(RAV)
+How childish of ya... But I guess 
+yer a child, after all...
+
+## POINTER 13
+
+I mean, it's, it's so 
+cool! Soaring up high 
+through the air!
+
+## POINTER 14
+<STR>(KAR)
+Ahh, I know how 
+you feel...
+
+## POINTER 15
+
+Hey, come back and play 
+again soon! I want 
+to see Ball again!
+
+## POINTER 16
+<STR>(YUR)
+It's Ba'ul.
+
+## POINTER 17
+<STR>(JUD)
+All right. After things settle 
+down a bit, I'll let you fly 
+around on top of Ba'ul.
+
+## POINTER 18
+
+Really truly?
+Awesome! 
+I'll be waiting!<PAGE>Don't forget! I'll 
+be waiting here, "Super 
+Dragon Rider!"

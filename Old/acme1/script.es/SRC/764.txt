@@ -1,0 +1,63 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298807619]
+<STR>(RAV)
+Toy taaan cansao... Er viejo <STR>(RAV)
+está pal arrastre, gente. ¡Tárcaron es
+demasiao grande, os lo digo yo!<PAGE>¡Oh, ya sé, ya sé! Una siestecilla en el
+cálido regazo de nuestra queridísima <STR>(JUD)
+y volveré a tener l'energía d'un chaval en ná.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293552811]
+<STR>(RIT)
+Ugh...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293552811]
+<STR>(KAR)
+Y yo que pensaba que habías
+pasado página, <STR>(RAV).
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293552811]
+<STR>(YUR)
+Ese traje ya no nos da la misma impresión.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298807619]
+<STR>(RAV)
+<STR>(JUD), <STR>(JUD), nena. ¿Qué me dices?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298807482]
+<STR>(JUD)
+Conozco una manera de dormir
+mucho mejor que en mi regazo.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293552811]
+<STR>(RAV)
+¿Oooh? ∀
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293552811]
+<STR>(JUD)
+Aunque quizá sea un poco difícil que te despiertes.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298807482]
+<STR>(RIT)
+¡Me da igual lo que hagas, <STR>(JUD), 
+pero haz que se calle de una vez!
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1293552811]
+<STR>(RAV)
+Pero qué fría eres. Trata a tus
+mayores un pelín mejor, ¿vale?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298807482]
+<STR>(EST_P)
+Me alegra saber que aún tenemos
+al viejo <STR>(RAV) de siempre.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298807482]
+<STR>(KAR)
+Ya no me puedo imaginar
+a <STR>(RAV) como el capitán
+Schwann...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027135]
+<STR>(YUR)
+Ya, a lo mejor después de todo solo
+era el simple y viejo <STR>(RAV).

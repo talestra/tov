@@ -1,0 +1,14 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS16_072)Damn, he knows how 
+to get to me...<PAGE><VOICE>(VS16_073)I know better than anyone 
+that nothing's changed.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS16_074)...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS16_075)Guess I should look for clues 
+about the blastia core...

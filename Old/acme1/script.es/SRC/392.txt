@@ -1,0 +1,142 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281213851]
+<STR>(EST_P)
+<VOICE>(VS36_210)<STR>(KAR)... ¿Crees
+que estará bien?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281213851]
+<STR>(YUR)
+<VOICE>(VS36_211)Lo estará.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281213851]
+<STR>(EST_P)
+<VOICE>(VS36_212)Pero...
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281213851]
+Yeager
+<VOICE>(VS36_213)Sielo santo, perro ssi sson
+nuestrros querridísimos chico y chica.
+Qué bien volverr a verros. 
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281213851]
+<STR>(EST_P)
+<VOICE>(VS36_214)¡Yeager!
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281213851]
+<STR>(YUR)
+<VOICE>(VS36_215)No tienes narices ni nada,
+viniendo aquí después de
+plantar las semillas de la guerra.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281213851]
+Yeager
+<VOICE>(VS36_216)¿Semillas de la guerra? Estoy bastante
+segurro de no saberr de qué me estás hablando.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298483043]
+Gauche
+<VOICE>(VS36_217)Atacar a Palestrale lo
+tiene que decidir la Unión.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298483043]
+Droite
+<VOICE>(VS36_218)Sip, eso es. Simplemente les ayudamos
+a mantenerlos al corriente de su decisión. ☆
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298483043]
+Yeager
+<VOICE>(VS36_219)Exacto. Entendido,
+¿amiguitos míos?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281213851]
+<STR>(YUR)
+<VOICE>(VS36_220)Voy a hacer algo que
+te va hacer sonreír.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795584]
+Yeager
+<VOICE>(VS36_221)Crreo que ya ess sufisiente porr hoy.<PAGE>
+<VOICE>(VS36_222)Después de todo ess el día
+de la muerrte del Don. Aún
+estamos de luto, como podéis verr.<PAGE>
+<VOICE>(VS36_223)Hoy el mundo ha perrdido a un grran hombrre.
+Desde luego que lo ha hecho.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298483043]
+<STR>(YUR)
+<VOICE>(VS36_224)¿Qué es lo que queréis?<PAGE>
+<VOICE>(VS36_225)¿Quitar de en medio al Don
+y así controlar la Unión?
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795584]
+Yeager
+<VOICE>(VS36_226)Oh, no, no, no.<PAGE>
+<VOICE>(VS36_227)Nuestrros negosios serrán
+más sensillos sin el
+pobrresillo Don, pero...<PAGE>
+<VOICE>(VS36_228)Ah, no noss vayamos por las rramas.
+Hoy he venido por
+rrazones perrsonales.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795584]
+<STR>(YUR)
+<VOICE>(VS36_229)No quiero deshonrar
+al Don haciendo algo de lo
+que me arrepentiré después.<PAGE>
+<VOICE>(VS36_230)Deberíais iros antes
+de que cambie de opinión.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298483043]
+Yeager
+<VOICE>(VS36_231)No sois los únicos
+que llorráis ssu muerrte.<PAGE>
+<VOICE>(VS36_232)Hasta lueguito.
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795584]
+<STR>(EST_P)
+<VOICE>(VS36_233)Incluso Yeager lamenta
+la muerte del Don...<PAGE>
+<VOICE>(VS36_234)No lo comprendo.
+¿No intentó deshacerse de
+Don Whitehorse él mismo?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298483043]
+<STR>(YUR)
+<VOICE>(VS36_235)El viejo era un incordio para
+la Garra del Leviatán, pero...<PAGE>
+<VOICE>(VS36_236)Tal vez era diferente para
+Yeager a nivel personal.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795584]
+<STR>(EST_P)
+<VOICE>(VS36_237)¿Te refieres a
+la diferencia entre
+gremios e individuos?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527633]
+<STR>(YUR)
+<VOICE>(VS36_238)Sí.<PAGE>
+<VOICE>(VS36_239)Para el Don, estaban
+Yeager el jefe y
+Yeager la persona.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281213851]
+<STR>(EST_P)
+<VOICE>(VS36_240)El Don quebrantó sus
+propias leyes y
+luchó por sí mismo.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281213851]
+<STR>(YUR)
+<VOICE>(VS36_241)Bueno, deberíamos ponernos en marcha.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527633]
+<STR>(EST_P)
+<VOICE>(VS36_242)Ah, claro. Le dije a <STR>(RIT) 
+que nos esperase en la
+salida de la ciudad.<PAGE>
+<VOICE>(VS36_243)Pero ¿y <STR>(KAR)?
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281213851]
+<STR>(YUR)
+<VOICE>(VS36_244)Dije que estará bien.
+Vamos.

@@ -1,0 +1,100 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS30_052)Something isn't right... 
+Be on your guard.
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS30_053)That's not Phaeroh...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS30_054)Yeah... There's something 
+different about that voice.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS30_055)H-hey...!
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS30_056)What the?! It's disgusting!
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS30_057)I've never seen a 
+monster like that...
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VS30_058)That's not a monster.
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS30_059)If it's not a monster, 
+what the hell is it?!
+
+## POINTER 8
+<STR>(RAP)
+<VOICE>(VS30_060)Woof! WOOF, WOOF!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS30_061)Even <STR>(RAP)'s frightened... 
+This can't be good...
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS30_062)Let's get out of here!
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS30_063)It's coming this way!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS30_064)Damn, looks like we have no choice.<PAGE><VOICE>(VS30_065)Out of the way, you two!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS30_066)It vanished...?
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS30_067)What's this...?
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS30_068)Ahh... I can't go on...
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS30_069)<STR>(RIT)...<STR>(KAR)...
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS30_070)I'm afraid even I 
+can't take anymore...
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS30_071)...This isn't good...
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS30_072)...What?
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS30_073)A...town...?
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS30_074)...That dragon from the 
+Weasand of Cados...
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS30_075)...Heh. ...Go ahead... 
+Hope you choke...on 
+my bones...

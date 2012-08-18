@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266234112]
+El cristal cielo claro
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266234112]
+(KAR)
+¿De verdad se puede usar un cristal cielo claro
+para crear una barrera?
+
+## POINTER 2 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266234112]
+(YUR)
+Si se pudiera y tuviéramos bastantes, podríamos
+hacer tantas barreras como quisiéramos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297236255]
+(EST_P)
+Entonces, incluso las zonas que sufren
+ataques frecuentes podrían ser seguras.
+
+## POINTER 4 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267405154]
+(RAV)
+Sí, pero si fuera posible, 
+¿no habría pasao ya argo por el estilo?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297236255]
+(RIT)
+Quizá sería mejor no hacerse ilusiones.
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403584]
+(JUD)
+Tan realista como siempre.
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266234112]
+(RIT)
+Tan solo me limito a especular con el resultado más probable.
+
+## POINTER 8 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266234112]
+(EST_P)
+Creo que eso mismo es lo que significa ser realista.

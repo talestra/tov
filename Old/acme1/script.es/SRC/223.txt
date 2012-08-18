@@ -1,0 +1,163 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+Barbos
+<VOICE>(VS20_113)Ragou, imbécil. No has cumplido
+tu parte del trato.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1274546657]
+Ragou
+<VOICE>(VS20_114)¡No me hagas daño!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+Barbos
+<VOICE>(VS20_115)¡Mierda!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(EST_P)
+<VOICE>(VS20_116)¡<STR>(YUR)! ¡Están apuntando 
+a <STR>(FRE)!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(KAR)
+<VOICE>(VS20_117)¡Le he dado!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(YUR)
+<VOICE>(VS20_118)¡Bien hecho, <STR>(KAR)!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+Barbos
+<VOICE>(VS20_119)¡¿Creéis que podéis
+detenerme, mocosos?!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(KAR)
+<VOICE>(VS20_120)¡Aaaah!
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1274546657]
+<STR>(EST_P)
+<VOICE>(VS20_121)¡Aaah!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(YUR)
+<VOICE>(VS20_122)Fuera de aquí. 
+Id a la salida.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(EST_P)
+<VOICE>(VS20_123)¡<STR>(YUR), no, es demasiado peligroso!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(RIT)
+<VOICE>(VS20_124)Le llevará algo de tiempo recargar el aer.
+Intentaré detenerlo antes de que lo haga.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1274546657]
+<STR>(KAR)
+<VOICE>(VS20_125)¡Ahora!
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1274546657]
+Barbos
+<VOICE>(VS20_126)¡Demasiado tarde!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(RIT)
+<VOICE>(VS20_127)¡No! ¡Ha recargado 
+demasiado rápido!
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1274546657]
+Barbos
+<VOICE>(VS20_128)¡¿Qué demonios...?!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(RIT)
+<VOICE>(VS20_129)¡Ah, así que vienes
+a por más, mamarracho!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(YUR)
+<VOICE>(VS20_130)¡<STR>(RIT), no empieces! 
+¡Nuestro enemigo es ese de ahí!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(RIT)
+<VOICE>(VS20_131)¡Mi enemigo es el mamarracho del dragón!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(YUR)
+<VOICE>(VS20_132)¡Déjalo en paz por ahora!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+Barbos
+<VOICE>(VS20_133)Mmpf.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+Barbos
+<VOICE>(VS20_134)¡Voy a hacer que os arrepintáis
+de haber hecho eso!
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1274547570]
+<STR>(KAR)
+<VOICE>(VS20_135)¿Qué? ¡¿Puede volar?!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(RIT)
+<VOICE>(VS20_136)¡Ah! ¡Vuelve aquí, mamarracho!
+¡¿Te crees que te voy a dejar escapar?!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(YUR)
+<VOICE>(VS20_137)¡Si vas tras él, déjame ir contigo! Por aquí
+andamos algo cortos de criaturas voladoras.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(RIT)
+<VOICE>(VS20_138)¿Estás majareta? 
+¡Este cretino es nuestro enemigo!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(YUR)
+<VOICE>(VS20_139)Tengo que atrapar
+a ese tío a toda costa.
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1274547977]
+<STR>(YUR)
+<VOICE>(VS20_140)¡Vamos!
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1274547977]
+<STR>(YUR)
+<VOICE>(VS20_141)¡Sí! ¡Gracias!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(KAR)
+<VOICE>(VS20_142)¡Espera! ¡¿Y nosotros qué?!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(YUR)
+<VOICE>(VS20_143)¡Este bicho ya va
+lo bastante cargado!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(KAR)
+<VOICE>(VS20_144)Pero entonces, ¿qué hacemos?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(YUR)
+<VOICE>(VS20_145)¡Ocupaos de mantener el fuerte!
+
+## POINTER 33 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1274548382]
+<STR>(EST_P)
+<VOICE>(VS20_146)¡¿Qué?!
+
+## POINTER 34 [t:1;r:2;ru:googol,memnoch;user:Amarintia;time:1274548382]
+<STR>(YUR)
+<VOICE>(VS20_147)¡No os metáis en lios!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(KAR)
+<VOICE>(VS20_148)¡Maldita sea, <STR>(YUR)!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1298316948]
+<STR>(YUR)
+<VOICE>(VS20_149)¡Decidle a <STR>(FRE)
+que estaré fuera
+por un tiempo!

@@ -1,0 +1,53 @@
+## POINTER 0
+<STR>(YUR)
+It takes a pretty wicked person to 
+lie so convincingly about her crimes.
+
+## POINTER 1
+<STR>(RIT)
+Hey! Wait!
+
+## POINTER 2
+<STR>(EST_P)
+A girl's dresser is 
+strictly off-limits!
+
+## POINTER 3
+<STR>(YUR)
+Even if it's full of evidence 
+of her own misdeeds?
+
+## POINTER 4
+<STR>(EST_P)
+I'll be the one to look.
+
+## POINTER 5
+<STR>(RIT)
+Wait...what are you...!
+
+## POINTER 6
+<STR>(EST_P)
+Don't worry. I won't 
+tell anyone.
+
+## POINTER 7
+<STR>(KAR)
+What do you think she found?
+
+## POINTER 8
+<STR>(YUR)
+Feminine secrets!
+
+## POINTER 9
+<STR>(RIT)
+Hey! I'll get you 
+back for that!
+
+## POINTER 10
+<STR>(YUR)
+<STR>(EST_P), you'd better watch out.
+
+## POINTER 11
+<STR>(RIT)
+No, it's you I'm talking 
+about! You!

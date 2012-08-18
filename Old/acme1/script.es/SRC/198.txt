@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298243010]
+<STR>(EST_P)
+<STR>(RIT), ¡espera, por favor!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917840]
+<STR>(KAR)
+¡<STR>(EST_P)!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917840]
+<STR>(EST_P)
+Además, he oído que los Caballeros Imperiales
+le han hecho algunas reparaciones a este blastia.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484807]
+<STR>(YUR)
+Dales un poco de crédito a los Caballeros
+aunque sea por una vez, ¿quieres?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917840]
+<STR>(EST_P)
+Por favor, <STR>(RIT).
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917840]
+<STR>(RIT)
+Muy bien.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273484807]
+<STR>(YUR)
+¿Estás segura de que puedes pasearte por ahí así?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1304528135]
+<STR>(EST_P)
+No... Pero ¿puedo quedarme
+con vosotros hasta que sea el
+momento de volver a Zaphias?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:parsec;time:1272917840]
+<STR>(YUR)
+Claro que sí.

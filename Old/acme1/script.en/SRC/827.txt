@@ -1,0 +1,69 @@
+## POINTER 0
+
+Wow, amazing! You've gotten so 
+many rare treasures! We've never 
+had anyone this lucky before.
+
+## POINTER 1
+<STR>(JUD)
+Oh, really? There was only one 
+each of them, so I figured 
+they might be valuable...
+
+## POINTER 2
+
+Indeed! Out of all of 
+the items we have, those 
+were very special.
+
+## POINTER 3
+<STR>(YUR)
+Well, this was a lot 
+of fun. We got a ton 
+of chips, too.
+
+## POINTER 4
+<STR>(KAR)
+Yeah, and <STR>(JUD) 
+had such a good time 
+playing, too.
+
+## POINTER 5
+<STR>(JUD)
+The games are all so simple 
+and fun... I guess they 
+just suit me well.
+
+## POINTER 6
+
+I've been watching you, too. It seems 
+you're quite the experienced gambler!
+
+## POINTER 7
+<STR>(JUD)
+Oh, why do you say that?
+
+## POINTER 8
+
+I was watching you while you played 
+Poker, and the expression 
+on your face never changed.<PAGE>You've got 
+quite the 
+poker face!
+
+## POINTER 9
+<STR>(YUR)
+You think something like 
+a little hand of Poker 
+could faze our <STR>(JUD_P)?
+
+## POINTER 10
+<STR>(JUD)
+Heh heh. Was that a
+compliment I just heard?
+
+## POINTER 11
+
+Truly, truly, I am 
+most impressed.<PAGE>You're the best gambler who's 
+ever visited our establishment!

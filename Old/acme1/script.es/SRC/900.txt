@@ -1,0 +1,71 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296915034]
+
+¡Sabía que podía contar
+con vosotros! ¡Ha quedado
+como los chorros del oro!<PAGE>Aquí tenéis el dinero
+que os había prometido.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296915034]
+<STR>(KAR)
+Mmm... Me pregunto si después
+de esto nos conocerán como un
+gremio que solo limpia almacenes.<PAGE>Si pasara eso acabaríamos
+realizando solo este tipo
+de trabajos...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296915034]
+<STR>(YUR)
+No te preocupes.
+En esto de los almacenes,
+somos como los manitas.<PAGE>No es que ahora «almacén»
+sea sinónimo de «Gran Vesperia».
+Espero...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296915034]
+<STR>(KAR)
+S-Sí... Supongo que tienes razón.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1294860392]
+
+¿Sabéis cómo llaman
+a vuestro jefe en
+nuestro mundillo?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1294860392]
+<STR>(KAR)
+¿...?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297197023]
+
+¡El Amo de los Almacenes!<PAGE>Se te conoce como un
+gran experto en este campo.
+¿No te sientes orgulloso?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1297197023]
+<STR>(KAR)
+El Amo de los Almacenes...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297197023]
+<STR>(RAV)
+Eh, bien por ti, chaval.
+¡<STR>(KAR), el Amo de los Almacenes!
+¡Eres como una leyenda!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297197023]
+<STR>(JUD)
+Felicidades, <STR>(KAR),
+Amo de los Almacenes.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297197023]
+<STR>(EST_P)
+<STR>(KAR), el Amo de
+los Almacenes... Suena bien.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296915034]
+
+Eh, que era broma...
+¿Me escucháis?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296915039]
+<STR>(RIT)
+A mí me parece una estupidez.

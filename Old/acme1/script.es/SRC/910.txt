@@ -1,0 +1,115 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936072]
+
+¡Hombre, hola! ¡Bienvenidos!
+¿Cómo os va la vida?<PAGE>¡Os voy a enseñar algo que
+no se ve todos los días!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295093580]
+<STR>(RAV)
+Mmm, a mí me
+parece un
+modelo viejo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1295093580]
+
+¡Por eso no me gusta presentar
+nada a meros aficionados! ¡Bah!
+Bueno, echad un vistazo, ¿vale?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936072]
+<STR>(RIT)
+Nos habla como si nos conociera
+de algo, y aun así, me pone
+los nervios de punta...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1295093580]
+<STR>(YUR)
+No dejes que te
+afecte tanto, <STR>(RIT).
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1295093580]
+
+¡Venga, basta
+de chismorrear! 
+¡Mirad, mirad!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936072]
+<STR>(KAR)¿Eh?
+¿Eeeh? 
+¿Yo?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1295093580]
+<STR>(YUR)
+¿Quién mejor que nuestro
+siempre curioso capitán <STR>(KAR)? 
+Está justo ahí... Pruébalo.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936072]
+<STR>(KAR)
+¿Por qué siempre tengo que
+ser yo el conejillo de indias?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936072]
+<STR>(JUD)
+¡Eres el pionero del grupo,
+y dos veces seguidas, nada menos!
+¡Tendrías que estar orgulloso!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1295093580]
+<STR>(KAR)
+Solo quieres que me
+sienta mejor...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1295093580]
+<STR>(KAR)
+Ugh... Vale,
+voy a mirar...
+¡Voy a hacerlo!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1295093580]
+<STR>(KAR)
+¡Increíble! ¡Recuerdo
+cuando pasó esto, y lo
+estoy viendo otra vez!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936072]
+
+¡Os lo dije! Esto sí que no
+se ve todos los días, ¿eh?<PAGE>¡Esta maravillosa máquina
+tiene el apropiado nombre
+de «Reproductor de vídeo V»!<PAGE>Su única función es mostraros
+lo que ya ha pasado.
+¡Así de sencillo!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:kaene;time:1295093851]
+<STR>(EST_P)
+Es un blastia
+extraordinario.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936072]
+
+¿Blastia? ¿Ese anticuado
+intento de tecnología?
+¡No nos subestimes!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936072]
+<STR>(RIT)
+¿Anticuado? ¡¿Cómo que anticuado?!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936072]
+<STR>(YUR)
+Tranquila, <STR>(RIT).
+Entonces, ¿podemos usar
+esto cuando queramos?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1295093851]
+
+¡Mientras os lavéis las manos
+antes de tocarlo, sí! Oh, y
+no le deis golpes, ¿eh?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296936072]
+<STR>(JUD)
+No te preocupes, que no
+somos críos. ¡Volveremos
+a echarle otro vistazo!

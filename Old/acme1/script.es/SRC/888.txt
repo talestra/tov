@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1294111267]
+<STR>(RIT)
+¡Oh! ¡Mira,
+es Giovanni!
+¡Eh, Giovanni!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296864202]
+Giovanni
+¡Oh, sois vosotras! E-El Libro del
+coleccionista... ¡¿Ya... ya está...?!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1294111267]
+<STR>(EST_P)
+Sí, hemos acabado.
+Perdone la tardanza.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296864202]
+Giovanni
+¡La madre del cordero!
+P-Por qué n-no seguimos
+c-con esta con-conversación
+en la calle...<PAGE>M-Mientras vamos a mi habitación en la posada..
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1294111267]
+<STR>(RIT)
+¡Controla esos nervios, tío!

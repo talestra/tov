@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284485363]
+
+¿Querías algo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755257]
+<STR>(JUD)
+¿Qué tal te ha ido en
+esta ciudad desde que
+toda su gente se fue?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755242]
+
+Mis compañeros krityanos se fueron
+a su nuevo hogar en el cielo.
+Yo también necesito un refugio.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755242]
+<STR>(JUD)
+¿No te fuiste con ellos?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755242]
+
+Me dejaron atrás en la conmoción.
+¿A ti no te pasó lo mismo, señorita?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755242]
+<STR>(EST_P)
+Debes sentirte solo,
+aislado aquí.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298755242]
+
+Al contrario, desde que
+se fueron me encuentro
+especialmente en paz.

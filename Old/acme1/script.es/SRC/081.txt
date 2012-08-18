@@ -1,0 +1,170 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284242999]
+<VOICE>(VS03_001)Pos como iba diciendo, er ladrón se hizo
+con un tesoro d'agárrate y no te menees
+en la mansión d'aquel noble.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+<VOICE>(VS03_002)Ya, ya. Y después lo pillaron
+y devolvieron el botín, ¿verdad?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1284242999]
+<VOICE>(VS03_003)No. Verás, eso se lo inventaron los nobles
+pa que'l asunto no llamara l'atención.
+Er tesoro que hay ahora en la mansión es falso.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+
+<VOICE>(VS03_004)Me tomas el pelo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+
+<VOICE>(VS03_005)Eh, que no soy yo quien lo dice, compi.
+Los Alas Oscuras andan to locos
+buscando el escondite.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+
+<VOICE>(VS03_006)¿Te refieres al gremio de ladrones?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269784974]
+
+<VOICE>(VS03_007)¡Ejem! Ya basta
+de escucharte.
+Casi es hora de comer.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1270590324]
+
+<VOICE>(VS03_008)¡Eh, vecino! Tas despierto, ¿no?
+Ar final vas a acabar cansao
+de tanto callar.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+<STR>(YUR)
+<VOICE>(VS03_009)¿La historia esa te la has inventado tú solito, viejales?
+Se nota que te sobra el tiempo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+<VOICE>(VS03_010)¿«Viejales»? Ahora has herido
+los sentimientos de este viejales.<PAGE><VOICE>(VS03_011)Además, no m'invento ná. Tengo
+ojos y oídos por to'l mundo
+recabando información pa mí.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+<STR>(YUR)
+<VOICE>(VS03_012)Je. Lo que tú
+digas, viejales.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+
+<VOICE>(VS03_013)Oye, soy lo que soy. Venga, pregúntame argo.
+Te diré lo que quieras.
+<PAGE><VOICE>(VS03_014)
+¿Quieres saber ande está el tesoro hundido del gremio de piratas?
+¿O tal vez sobr'el hechicero que vive en er fin der mundo?
+Ah, espera, ya lo tengo...
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+<STR>(YUR)
+<VOICE>(VS03_015)Lo que quiero saber
+es cómo salir de aquí.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269784974]
+
+<VOICE>(VS03_016)
+Bueno, no sé por qué t'han metío aquí,
+pero si mantienes el pico cerrao durante
+diez días te dejarán marchar.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+<STR>(YUR)
+<VOICE>(VS03_017)Para entonces los barrios bajos
+estarán totalmente anegados.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+
+<VOICE>(VS03_018)¿Los barrios bajos?
+Ah, sí, me he enterao d'eso.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+<STR>(YUR)
+<VOICE>(VS03_019)Me pregunto cómo les irá.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+
+<VOICE>(VS03_020)Lo siento, vecino. Me temo
+que no tengo ese trapo sucio.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+<STR>(YUR)
+<VOICE>(VS03_021)Y a ver qué hago con el Mordio
+de las narices.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+
+<VOICE>(VS03_022)¿ESE Mordio? ¿M'estás diciendo que
+tienes contactos con er famoso mago
+de Aspio, la ciudad de los eruditos?
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+<STR>(YUR)
+<VOICE>(VS03_023)¿Sabes quién es?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+
+<VOICE>(VS03_024)¡Ajá! Quieres saberlo, ¿eh?
+Pos me temo qu'esa información
+no te va a salir baratilla...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+<STR>(YUR)
+<VOICE>(VS03_025)El «famoso mago de Aspio,
+la ciudad de los eruditos», ¿no?
+Creo que ya lo he pillado.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+
+<VOICE>(VS03_026)E-Espera, no es eso. Es el... este...
+¡Er jefe del gremio de gourmets!
+No, espera, es el... mmm... Eh...
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+
+<VOICE>(VS03_027)Sal.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1285102687]
+<VOICE>(VS03_028)Vaya, justo cuando er tema se ponía interesante.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+
+<VOICE>(VS03_029)Deprisa.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1285102687]
+<STR>(YUR)
+<VOICE>(VS03_030)¿Qué está haciendo aquí el comandante Alexei?
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+
+<VOICE>(VS03_031)¡Aah!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298205233]
+<STR>(YUR)
+<VOICE>(VS03_032)¿Se puede saber quién eres? ¿Qué quiere
+de ti el líder de los Caballeros?
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+
+<VOICE>(VS03_033)Bajo la estatua de la diosa...
+
+## POINTER 31 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1272373414]
+Alexei
+<VOICE>(VS03_034)¿Qué estás haciendo? He dicho que te des prisa.
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+
+<VOICE>(VS03_035)Vale, tranquilo.
+Ya voy.
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1269779828]
+<STR>(YUR)
+<VOICE>(VS03_036)Bueno... Había dicho que estaba
+buscando la manera de salir de aquí...

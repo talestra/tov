@@ -1,0 +1,281 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(KAR)
+<VOICE>(VS34_033)¡O-Oye! ¡¿Qué ocurre aquí?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(YUR)
+<VOICE>(VS34_034)¿Seguís todos aquí?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(RIT)
+<VOICE>(VS34_035)Claro.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(EST_P)
+<VOICE>(VS34_036)Sí.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(RAV)
+<VOICE>(VS34_037)Pos sí.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(JUD)
+<VOICE>(VS34_038)Sí.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(RAP)
+<VOICE>(VS34_039)Guau.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(KAR)
+<VOICE>(VS34_040)¡U-Un monstruo!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(YUR)
+<VOICE>(VS34_041)
+Y yo que pensaba que nos
+recibirían con un banquete.
+No me olía una trampa para nada.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(JUD)
+<VOICE>(VS34_042)No es ninguna trampa.
+Ella es...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(EST_P)
+<VOICE>(VS34_043)¿Belius?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1282961238]
+<VOICE>(VS34_044)
+La misma. Yo soy Belius, 
+Adalis de Nordopólica y
+fundadora de Palestrale.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(RAV)
+<VOICE>(VS34_045)Esto sí que nu me lo esperaba.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(EST_P)
+<VOICE>(VS34_046)Entonces usted también es
+capaz de hablar nuestra lengua.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+Belius
+<VOICE>(VS34_047)Te encontraste con Phaeroh
+hace poco, ¿no es así?<PAGE><VOICE>(VS34_048)Así pues, no creo que nuestra habilidad
+para hablar os resulte tan sorprendente.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1297547616]
+<STR>(YUR)
+<VOICE>(VS34_049)¿Tú también eres un entelechia?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+Belius
+<VOICE>(VS34_050)Así es.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(KAR)
+<VOICE>(VS34_051)E-Entonces, la antigua raza
+que construyó esta ciudad...
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+Belius
+<VOICE>(VS34_052)Mis hermanos y yo.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(RAV)
+<VOICE>(VS34_053)Vaya con er Don. Qué detalle por
+su parte no decirme ná de tó esto.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+Belius
+<VOICE>(VS34_054)¿Quién eres?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(RAV)
+<VOICE>(VS34_055)Un humilde siervo de Don
+Whitehorse. Traigo una
+carta suya para usted.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551547]
+<STR>(RAV)
+<VOICE>(VS34_056)Conozco a ese carcamal lo suficiente como
+pa no sorprenderme de a quién conoce,
+pero ¿qué relación tienen exactamente?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+Belius
+<VOICE>(VS34_057)Le debo mucho por su ayuda
+durante la Gran Guerra.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(KAR)
+<VOICE>(VS34_058)¡La Gran Guerra! Entonces, ¿los rumores
+de que usted era una de los que estaban
+detrás de ella son ciertos?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+Belius
+<VOICE>(VS34_059)Je, bueno, es cierto
+que participé en ella.<PAGE><VOICE>(VS34_060)No obstante, no hice más que mi papel
+como entelechia. No estuve detrás
+de nada.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1280746258]
+<STR>(KAR)
+<VOICE>(VS34_061)La Gran Guerra se libró
+contra los entelechia...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+Belius
+<VOICE>(VS34_062)De todas formas, mi relación
+con el Don viene de esos tiempos.<PAGE><VOICE>(VS34_063)Siempre he lamentado que un hombre con
+tanto talento no haya nacido de mi raza.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1280765725]
+<STR>(RAV)
+<VOICE>(VS34_064)Es la primera noticia que tengo
+de qu'el viejo estaba involucrao
+en la Gran Guerra.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+Belius
+<VOICE>(VS34_065)Es un tema del que
+no gusta hablar. 
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+Belius
+<VOICE>(VS34_066)El Don me ha pedido mi mediación
+con el contratiempo actual con Phaeroh.<PAGE><VOICE>(VS34_067)Parece que hasta ni un hombre
+tan fuerte como él puede aguantar
+el asalto de mi hermano a su ciudad.<PAGE><VOICE>(VS34_068)Una petición así no se puede tomar a la ligera.
+De momento le ofreceré mi ayuda.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(RAV)
+<VOICE>(VS34_069)Me alegra que sea tan razonable.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Lia;time:1280763378]
+<STR>(YUR)
+<VOICE>(VS34_070)Así que algunos destruís ciudades
+y otros formáis gremios.<PAGE><VOICE>(VS34_071)Ciertamente los entelechia
+sois... interesantes.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+Belius
+<VOICE>(VS34_072)Lo mismo podría decirse de los humanos.<PAGE><VOICE>(VS34_073)En fin. Esta carta no es la
+única razón de vuestra visita.<PAGE><VOICE>(VS34_074)¿Verdad, Hija de la Luna Llena?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(RIT)
+<VOICE>(VS34_075)¿Sabes lo de <STR>(EST_P)?
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980963]
+Belius
+<VOICE>(VS34_076)Los entelechia podemos sentir
+a los Hijos de la Luna Llena.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(EST_P)
+<VOICE>(VS34_077)Me llamo <STR>(EST).
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527664]
+<STR>(EST_P)
+<VOICE>(VS34_078)Tengo que saberlo. ¿Qué son exactamente
+los Hijos de la Luna Llena?<PAGE><VOICE>(VS34_079)Phaeroh me dijo que
+era un «insulso veneno».<PAGE><VOICE>(VS34_080)Pero ¿qué significa?
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+Belius
+<VOICE>(VS34_081)Mmm. No sé si tu destino
+se vería alterado por conocer
+semejante información, pero...
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(JUD)
+<VOICE>(VS34_082)Belius, escucha.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(EST_P)
+<VOICE>(VS34_083)¿<STR>(JUD)?
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:Lia;time:1280763378]
+Belius
+<VOICE>(VS34_084)Mmm. ¿Hay algo de lo que debería estar al corriente?
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:Lia;time:1280763378]
+<STR>(JUD)
+<VOICE>(VS34_085)Phaeroh está...
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:Lia;time:1280763378]
+<STR>(RAV)
+<VOICE>(VS34_086)¿Qué leñes es todo ese jaleo?
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:Lia;time:1280763378]
+Tison
+<VOICE>(VS34_087)¡Por fin te hemos encontrado, entelechia!
+¡Líder de los monstruos! ¡Origen de todo mal!
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:Lia;time:1280763378]
+<STR>(KAR)
+<VOICE>(VS34_088)¡Tison! 
+¡Jefe!
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+Tison
+<VOICE>(VS34_089)Vaya, pero si es <STR>(KAR) y compañía. 
+Sí que tenéis mal gusto como
+para juntaros con engendros así.
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:Lia;time:1280763378]
+Clint
+<VOICE>(VS34_090)¿Mantienes a los monstruos para
+usarlos en tu coliseo? Eres un enemigo
+para la humanidad. ¡Y ahora morirás!
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(KAR)
+<VOICE>(VS34_091) ¿D-Dónde está Nan?
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:Lia;time:1280763378]
+Tison
+<VOICE>(VS34_092)Te interesa, ¿eh? Ahora mismo debería
+estar dirigiendo el ataque contra los
+monstruos que quedan en el coliseo.
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+Tison
+<VOICE>(VS34_093)Los Espadas Cazadoras no tendremos piedad
+con quienes obstruyan la justicia
+que nos hemos impuesto, sean humanos o no.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:xander;time:1280827046]
+Clint
+<VOICE>(VS34_094)¡Si no vas a
+atacar, yo lo haré
+primero, bestia!
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+Belius
+<VOICE>(VS34_095)Parece que estos hombres no pararán
+hasta que me enfrente a ellos.<PAGE><VOICE>(VS34_096)Os estoy pidiendo mucho,
+pero por favor, ayudad a Natz.
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:Lia;time:1280763378]
+<STR>(YUR)
+<VOICE>(VS34_097)¡¿Y tú?!
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:xander;time:1280827046]
+Belius
+<VOICE>(VS34_098)Unos simples humanos
+no podrán doblegarme.
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1284587756]
+<STR>(YUR)
+<VOICE>(VS34_099)Entendido.<PAGE><VOICE>(VS34_100)¡Larguémonos de aquí!
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:Lia;time:1280763378]
+Belius
+<VOICE>(VS34_101)Buena suerte.

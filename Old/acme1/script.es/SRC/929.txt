@@ -1,0 +1,138 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289497755]
+<STR>(EST_P)
+Esto es...
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289497755]
+<STR>(RIT)
+Parece que es
+un aer krene.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294614253]
+<STR>(JUD)
+Vaya, quién hubiese pensado
+que aquí había un
+aer krene natural.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289497755]
+<STR>(RAV)
+Con esa cacho roca sellando la entrada,
+normal que nadie haya podío entrar hasta ahora.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289497755]
+<STR>(KAR)
+¿Qué pasa, <STR>(YUR)?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289497755]
+<STR>(EST_P)
+No deberías
+acercarte mucho...
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294610251]
+<STR>(RIT)
+¡U-Un momento,
+déjame ver eso!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294614253]
+<STR>(RIT)
+Ajá, ¡tal y como pensaba!
+Es como las otras veces.
+La geometría interna está cambiando.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294614253]
+<STR>(KAR)
+¿Qué... qué crees
+que pasará si lo usamos?
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289497755]
+<STR>(RIT)
+¿Por qué no lo intentas?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289497755]
+<STR>(YUR)
+A ver...
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294610251]
+<STR>(KAR)
+Hala...
+El color del orbe es diferente.
+¿Q-Qué es?
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289497755]
+<STR>(RIT)
+La diferencia del color se debe a
+un aumento en los atributos de fuego.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289497755]
+<STR>(EST_P)
+Fuego... Me pregunto si puede
+quemar todo lo que quieras.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289498257]
+<STR>(RIT)
+Pues...
+probablemente no.<PAGE>Eso está por encima de las capacidades
+del Anillo del Hechicero.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289497755]
+<STR>(KAR)
+¿Cómo era? ¿Que los
+dos tipos de aer
+reaccionan o algo así?
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289497755]
+<STR>(RIT)
+Fundamentalmente sí,
+eso es.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294614253]
+<STR>(RAV)
+Ya veeeeo. Así que er anillo puede
+quemar un árbol o una parra, ya que
+tienen aer dentro de ellos.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294614253]
+<STR>(RIT)
+No todos los materiales tienen aer fluyendo
+por ellos, así que hay muchas cosas que
+el Anillo del Hechicero no podrá prender.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289498178]
+<STR>(JUD)
+Vamos, que dependiendo de
+a lo que dé, ¿algunas cosas se
+romperán y otras se quemarán?
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294610251]
+<STR>(YUR)
+Me da a mí que la mayoría de objetos
+ni reaccionarán.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1294614253]
+<STR>(RIT)
+Sí, es cierto.<PAGE>Normalmente, el aer se mezcla
+con la atmósfera y no ocurre nada.<PAGE>Pero si haces que una masa de aer
+colisione con un material
+que ya tiene aer...<PAGE>La violencia de la repentina confluencia
+del aer puede destruir o prender
+el objeto que recibe el golpe.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289499306]
+<STR>(KAR)
+Mmm, eso tiene sentido.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1294614253]
+<STR>(YUR)
+Eso es muy complicado para mí;
+me dejas a cuadros.<PAGE>Pero lo que está claro es que
+podemos darle un buen uso a este anillo.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1294610251]
+<STR>(KAR)
+¿Te refieres a que podemos usarlo
+para quemar paredes o árboles
+que bloquean nuestro camino?
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1289499306]
+<STR>(YUR)
+Sí, podemos ir
+a sitios nuevos...<PAGE>¡Vamos a probar!

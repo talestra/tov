@@ -1,0 +1,136 @@
+## POINTER 0
+<STR>(EST_P)
+Is this a barrier blastia, too? 
+It's not activated, but...
+
+## POINTER 1
+<STR>(JUD)
+Even if it's not working, maybe they 
+want to leave it here as a symbol 
+of protection for the city?
+
+## POINTER 2
+<STR>(RIT)
+...I think I figured 
+it out.
+
+## POINTER 3
+<STR>(EST_P)
+Oh? What did you figure out?
+
+## POINTER 4
+<STR>(RIT)
+Why I like blastia, 
+that is...<PAGE>For me, blastia are like 
+my brothers and sisters.
+
+## POINTER 5
+<STR>(YUR)
+Your brothers and sisters...?
+
+## POINTER 6
+<STR>(RIT)
+I didn't have a father while I was growing up, 
+and my mother died when I was young, too.<PAGE>But blastia were always with me, 
+even when no one else was.
+
+## POINTER 7
+<STR>(JUD)
+So that's what you mean by brothers 
+and sisters...that makes sense.
+
+## POINTER 8
+<STR>(RIT)
+And my knowledge of 
+blastia developed 
+and grew as I did.<PAGE>Maybe that's why I always felt 
+so close to them, and why I got 
+so mad when they were broken.
+
+## POINTER 9
+<STR>(JUD)
+......
+
+## POINTER 10
+<STR>(RIT)
+...But I'll have to be saying goodbye 
+to all of those blastia soon...
+
+## POINTER 11
+<STR>(JUD)
+Brothers and sisters...can't be together 
+with you forever. Someday, you have 
+to leave them behind and move on.
+
+## POINTER 12
+<STR>(RIT)
+Someday, you say...?
+
+## POINTER 13
+<STR>(JUD)
+When you find someone who's even more important to you.
+
+## POINTER 14
+<STR>(EST_P)
+But just because you're separated from 
+them, that doesn't mean that the important 
+link you had with them is broken.
+
+## POINTER 15
+<STR>(RIT)
+...Maybe you're right...
+
+## POINTER 16
+<STR>(JUD)
+And just because 
+you're apart...<PAGE>That doesn't mean that you have to forget how 
+important they are, or how much you love them.
+
+## POINTER 17
+<STR>(RIT)
+<STR>(EST_P)... <STR>(JUD)...
+
+## POINTER 18
+<STR>(EST_P)
+And <STR>(RIT), you've found a lot 
+of people who care about you 
+very much. Isn't that right?
+
+## POINTER 19
+<STR>(RIT)
+...Hmm...
+You've still got 
+a long way to go before you're 
+as good as the blastia.
+
+## POINTER 20
+<STR>(JUD)
+A long way to go?
+
+## POINTER 21
+<STR>(YUR)
+Apparently so.
+
+## POINTER 22
+<STR>(KAR)
+You're terrible, <STR>(RIT)!
+
+## POINTER 23
+<STR>(RAV)
+This is how ya repay my love? You shrew!
+
+## POINTER 24
+<STR>(RIT)
+You're so annoying! And you're 
+the worst of all, old man!
+
+## POINTER 25
+<STR>(EST_P)
+...Maybe someday <STR>(RIT) will 
+learn how to take affection 
+gracefully...
+
+## POINTER 26
+<STR>(JUD)
+I don't think it's so bad. I mean, I think 
+that's one of her cutest traits!

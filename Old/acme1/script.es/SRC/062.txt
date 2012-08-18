@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166444]
+
+¡¡Bienvenidos a la famosa refriega
+de cincuenta rivales de Palestrale!!<PAGE>A mitad de camino de la refriega de cien rivales,
+¡pero con la mitad de oponentes! ¡Aunque será necesario
+más de medio héroe para vencer en esta batalla!<PAGE>En esta frenética lucha en la que
+los enemigos no paran de aparecer,
+¿cuántos podrá derrotar nuestro participante?<PAGE>¡No se pierdan ni un instante
+de la fantástica lucha de hoy!
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270895874]
+<STR>(YUR)
+¡Sí!
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270895874]
+<STR>(EST_P)
+¡Yo... no puedo perder!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166444]
+<STR>(KAR)
+¡Creo que puedo! ¡Creo que puedo!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166444]
+<STR>(RIT)
+Ya estamos. Ese tipo tiene
+que aprender a cerrar la boca.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166444]
+<STR>(RAV)
+Parece que me toca...
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:parsec;time:1270895874]
+<STR>(JUD)
+Muy bien, vamos.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115763]
+<STR>(RAP)
+¡Guau, guau, guau!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298166459]
+
+¡Suelten a los fieros
+y terribles oponentes!<PAGE>Preparados... 
+¡A luchar!

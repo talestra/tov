@@ -1,0 +1,49 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298856182]
+
+¡Sed testigos! ♪
+¡Contra el enemigo, ♪
+dadles su castigo! ♪<PAGE>¡Buscamos candidatos para la famosa
+Refriega de cien rivales de Palestrale!
+¡Solo apto para auténticos guerreros! ♪
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1294092141]
+<STR>(RAV)
+¡Jo, jo! Asín que s'han decidío a volver
+a poner la Refriega de cien hombres, ¿eh?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1294092141]
+<STR>(YUR)
+¿Qué es eso, viejales?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294092141]
+<STR>(RAV)
+Un acontecimiento regular der coliseo.
+Básicamente, se trata de un solo luchador
+contra toa una marabunta de gente.<PAGE>Dicen que hay que tenerlos mu bien
+puestos para poder superarlo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1294092141]
+<STR>(YUR)
+Vaya, y yo que me preguntaba
+qué sería del coliseo tras
+la muerte de Belius...<PAGE>Pero parece que sigue dando guerra.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1294092141]
+<STR>(JUD)
+¿Quieres probar?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294675890]
+<STR>(EST_P)
+Sí, es buena idea.<PAGE>Los ingresos seguro que ayudan
+a la reconstrucción de Nordopólica.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1294092141]
+<STR>(KAR)
+Mmmm... ¿Q-Quién de nosotros
+iba a querer participar?<PAGE>No seré yo, ¿verdad?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1294092141]
+<STR>(YUR)
+Echa el freno, que no hemos decidido
+si se apuntará nadie.<PAGE>Por ahora, nos limitaremos a enterarnos
+bien de qué va el tema.

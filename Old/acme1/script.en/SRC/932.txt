@@ -1,0 +1,87 @@
+## POINTER 0
+<STR>(JUD)
+It feels like 
+it was ages ago 
+that I left.<PAGE>Heh heh. You feel the 
+same way, Ba'ul?
+
+## POINTER 1
+<STR>(YUR)
+You're talking with Ba'ul?
+
+## POINTER 2
+<STR>(JUD)
+Yeah. We were just 
+remembering the time 
+that we first met.
+
+## POINTER 3
+<STR>(YUR)
+Would you mind telling 
+me about it?
+
+## POINTER 4
+<STR>(JUD)
+A long time ago, Ba'ul 
+used to live on the 
+summit of Mt. Temza.<PAGE>The townspeople all feared him... They thought 
+of him as a giant, ferocious monster.<PAGE>But I talked to Ba'ul, 
+and eventually, we 
+became friends.
+
+## POINTER 5
+<STR>(YUR)
+About how old 
+were you then?
+
+## POINTER 6
+<STR>(JUD)
+I don't remember exactly, but 
+I think I was pretty young.<PAGE>From that point on, we 
+started traveling together. 
+My dad came, too.
+
+## POINTER 7
+<STR>(YUR)
+Your father did?
+
+## POINTER 8
+<STR>(JUD)
+My dad had a fierce passion for 
+blastia. I feel like I was influenced 
+a lot by him as I grew up.<PAGE>Soon after that, the Great War happened. 
+I was about to become a statistic, 
+and then Ba'ul saved me.
+
+## POINTER 9
+<STR>(YUR)
+You were right in the middle 
+of the battle, weren't you?
+
+## POINTER 10
+<STR>(JUD)
+Yes... My fellow Krityans took me 
+up into Myorzo for a while, but 
+I went back down to the surface.<PAGE>And then, I decided 
+to travel around the 
+planet with Ba'ul.<PAGE>To destroy all of the Hermes blastia, and 
+rid the world of its negative effects.
+
+## POINTER 11
+<STR>(YUR)
+I see. So Ba'ul 
+saved your life.
+
+## POINTER 12
+<STR>(JUD)
+Yes.
+
+## POINTER 13
+<STR>(YUR)
+I feel like I understand the connection 
+between you two a lot better now. 
+Thanks for sharing that with me.
+
+## POINTER 14
+<STR>(JUD)
+Dad...

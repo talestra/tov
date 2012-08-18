@@ -1,0 +1,155 @@
+## POINTER 0
+<STR>(FRE)
+I've been hearing rumors that 
+you're even stronger than ever.
+
+## POINTER 1
+<STR>(YUR)
+It feels kind of funny hearing a 
+compliment like that from you.
+
+## POINTER 2
+<STR>(FRE)
+Even His Highness Ioder has been praising 
+your deeds. He's been saying that he wishes 
+to give you the title of free paladin.
+
+## POINTER 3
+<STR>(YUR)
+Man, that little prince sure 
+is a pain in the neck...
+
+## POINTER 4
+<STR>(FRE)
+I see you haven't learned any manners in all your travels.
+
+## POINTER 5
+<STR>(YUR)
+Tell him not to so liberal 
+in handing out titles 
+to someone like me.<PAGE>It's beneath his dignity as a candidate to the throne.
+
+## POINTER 6
+<STR>(FRE)
+...I thought you might say 
+something like that.
+
+## POINTER 7
+<STR>(YUR)
+You did?
+
+## POINTER 8
+<STR>(FRE)
+Yes, but I have to agree 
+with his desire to honor 
+you for what you've done.<PAGE>Even you should be able 
+to understand that, <STR>(YUR).
+
+## POINTER 9
+<STR>(YUR)
+Hah, when you put it that way, I guess I have 
+to admit...I see where you're coming from.
+
+## POINTER 10
+<STR>(FRE)
+So...you'll accept it?
+
+## POINTER 11
+<STR>(YUR)
+No... I appreciate the thought, 
+but that's enough for me.<PAGE>Don't you think there's something 
+wrong with me taking a title 
+like that from the empire?<PAGE>I can't quite put it into 
+words, but it's not right.
+
+## POINTER 12
+<STR>(FRE)
+So you won't accept it, then...
+
+## POINTER 13
+<STR>(YUR)
+Yeah... That's the long and the 
+short of it. See you later.
+
+## POINTER 14
+<STR>(EST_P)
+<STR>(FRE)...
+
+## POINTER 15
+<STR>(FRE)
+Princess <STR>(EST)...
+
+## POINTER 16
+<STR>(EST_P)
+<STR>(FRE), didn't you tell me that 
+it's what's in someone's heart 
+that makes them a knight?
+
+## POINTER 17
+<STR>(FRE)
+Huh? Yes...
+
+## POINTER 18
+<STR>(EST_P)
+If what makes a knight is the commitment 
+to justice in his heart, and his refusal 
+to ignore evil deeds when he sees them...<PAGE>Then <STR>(YUR) is more of 
+a knight than anyone 
+else, title or not.
+
+## POINTER 19
+<STR>(FRE)
+I know this. But His Highness and 
+I just want to go a step further 
+and acknowledge it officially.
+
+## POINTER 20
+<STR>(EST_P)
+We can acknowledge 
+it in our hearts. 
+Isn't that enough?
+
+## POINTER 21
+<STR>(FRE)
+Perhaps...but...<PAGE>...If you could at least give him this...
+
+## POINTER 22
+<STR>(EST_P)
+This is an official uniform...
+
+## POINTER 23
+<STR>(FRE)
+From His Highness Ioder. He asked that <STR>(YUR) 
+wear it to the ordination ceremony.<PAGE>Please, at least give this to <STR>(YUR). 
+As a symbol of Ioder's and my 
+thanks for what he's done.
+
+## POINTER 24
+<STR>(EST_P)
+And what if 
+<STR>(YUR) refuses 
+to take it?
+
+## POINTER 25
+<STR>(FRE)
+Then shove it in his bags 
+while he's not looking.
+
+## POINTER 26
+<STR>(EST_P)
+It'll get all wrinkled like that.
+
+## POINTER 27
+<STR>(FRE)
+Then that's 
+<STR>(YUR)'s problem.
+
+## POINTER 28
+<STR>(EST_P)
+Hee hee...yes. All right, 
+I'll take it for you. 
+Thank you, <STR>(FRE).
+
+## POINTER 29
+<STR>(FRE)
+A knight in the heart, eh...

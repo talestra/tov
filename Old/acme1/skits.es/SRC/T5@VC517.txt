@@ -1,0 +1,81 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1253901781]
+Ba'ul da un paseo
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(BAU)
+...
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(JUD)
+Mmm...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(KAR)
+Oye, (JUD), ¿qué haces?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(JUD)
+Estaba comunicándome con Ba'ul.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(RAV)
+Ahora que lo dices, hace ya un tiempo
+que no volamos con él, ¿no?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(EST_P)
+¿No te echa de menos, (JUD)?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(JUD)
+No, en absoluto.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(JUD)
+Puedo comunicarme con él
+siempre que quiera.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(YUR)
+¿Ah, sí? ¿Y qué está haciendo ahora mismo?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(JUD)
+Por lo visto está dando un paseo
+por el cielo mientras come.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137890]
+(RIT)
+¡¿Mientras come?!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1265499092]
+(RIT)
+¿Cómo puede hacer eso
+mientras vuela por ahí?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266838404]
+(RAV)
+Igual lo hace ná má que dejando la boca
+abierta. La comida entraría ella solita.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(KAR)
+¡¡Hala!!!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(KAR)
+¿Entonces Ba'ul es carnívoro?
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1266888951]
+(JUD)
+Ji, ji.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1266838404]
+(JUD)
+Si tanta curiosidad tienes,
+podrías preguntárselo tú mismo.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298137890]
+(RIT)
+Sabes que nosotros no podemos hablar
+con Ba'ul como tú, ¿verdad?

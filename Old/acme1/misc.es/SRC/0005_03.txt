@@ -1,0 +1,316 @@
+## POINTER 282 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263408448]
+Escudo
+
+## POINTER 283 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263414186]
+De vez en cuando anula un ataque físico.
+
+## POINTER 284 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263414147]
+Escudo mágico
+
+## POINTER 285 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263414186]
+De vez en cuando anula un ataque mágico.
+
+## POINTER 286 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422232]
+Armadura aérea
+
+## POINTER 287 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980351]
+Evita tambalearse cuando recibes un golpe
+durante un salto.
+
+## POINTER 288 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422232]
+Armadura móvil
+
+## POINTER 289 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980351]
+Evita tambalearse cuando recibes un golpe
+en movimiento libre.
+
+## POINTER 290 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422232]
+Gloria
+
+## POINTER 291 [t:1;r:1;ru:memnoch;user:memnoch;time:1297086685]
+Evita tambalearse con cualquier clase de ataque.
+
+## POINTER 292 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263748143]
+Salto evasivo
+
+## POINTER 293 [t:1;r:1;ru:memnoch;user:memnoch;time:1297086685]
+Permite saltar cuando se cancela la guardia. 
+Te hace invencible durante un corto periodo.
+
+## POINTER 294 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422232]
+Devoción
+
+## POINTER 295 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422232]
+Recibe la mitad de daño que un aliado cercano
+durante la batalla.
+
+## POINTER 296 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422232]
+Abrigo energético
+
+## POINTER 297 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265632136]
+Reduce el daño de los ataques físicos.
+Consume TP por cada golpe recibido.
+
+## POINTER 298 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265632136]
+Cancelar conjuro
+
+## POINTER 299 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422232]
+Pulsa el botón de guardia durante el conjuro
+para cancelar el hechizo.
+
+## POINTER 300 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422232]
+Carga de escudo
+
+## POINTER 301 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422277]
+Pulsa el botón de ataque en el momento correcto
+para repeler ataques mientras te cubres con un escudo.
+
+## POINTER 302 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241534]
+Estado TP
+
+## POINTER 303 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241534]
+Aumenta ligeramente la defensa física cuando
+el TP está a más del 75% del máximo.
+
+## POINTER 304 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241534]
+Estado TP 2
+
+## POINTER 305 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241534]
+Aumenta ligeramente la defensa física cuando
+el TP está a menos del 25% del máximo.
+
+## POINTER 306 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241534]
+Estado TP 3
+
+## POINTER 307 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241534]
+Aumenta ligeramente la defensa mágica cuando
+el TP está a más del 75% del máximo.
+
+## POINTER 308 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241534]
+Estado TP 4
+
+## POINTER 309 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241534]
+Aumenta la defensa mágica cuando
+el TP está a menos del 25% del máximo.
+
+## POINTER 310 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422277]
+Crisol
+
+## POINTER 311 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265632136]
+Cambia un arte. El arte se puede aprender
+si se usa repetidamente.
+
+## POINTER 312 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422400]
+Athenor
+
+## POINTER 313 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265632136]
+Cambia un arte. El arte se puede aprender
+si se usa repetidamente.
+
+## POINTER 314 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422400]
+Guardián
+
+## POINTER 315 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263422400]
+Reduce el daño recibido por los aliados mientras
+están protegiéndose.
+
+## POINTER 316 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263748143]
+Supervivencia
+
+## POINTER 317 [t:1;r:1;ru:memnoch;user:memnoch;time:1297086937]
+Evita ser noqueado por cualquier ataque mientras 
+te proteges. Así el HP siempre se mantendrá en 1.
+
+## POINTER 318 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263748143]
+Mareo
+
+## POINTER 319 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263748143]
+Golpea a un enemigo aturdido para prolongar
+Aturdimiento una vez. 
+
+## POINTER 320 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263748143]
+Golpe bajo
+
+## POINTER 321 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265632136]
+Inflige 1,2 veces más daño cuando atacas a un 
+enemigo que ha sido derribado. 
+
+## POINTER 322 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263748143]
+Peso pesado
+
+## POINTER 323 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263748143]
+El cuerpo aumenta de peso para prevenir el 
+tambaleo. También reduce la velocidad. 
+
+## POINTER 324 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263748431]
+Embestida de artes sanadoras
+
+## POINTER 325 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100600]
+Permite cambiar artes sanadoras por ataques de 
+embestida cuando Embestida poderosa está activada. 
+
+## POINTER 326 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750122]
+Influencia natural
+
+## POINTER 327 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980351]
+El clima y el ambiente tienen una mayor influencia 
+en los hechizos. 
+
+## POINTER 328 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750122]
+Flecha pesada
+
+## POINTER 329 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100600]
+Aumenta el efecto de un ataque con flechas y
+disminuye su intervalo. Solo para ataques normales.
+
+## POINTER 330 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750122]
+Disparo poderoso
+
+## POINTER 331 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750122]
+Aumenta el tiempo de tambaleo del enemigo.
+
+## POINTER 332 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750122]
+Energía pesada
+
+## POINTER 333 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100600]
+Aumenta la defensa física cuando equipas
+un arco pesado.
+
+## POINTER 334 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100600]
+Maestro lancero
+
+## POINTER 335 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100600]
+Aumenta la defensa mágica cuando equipas una lanza. 
+
+## POINTER 336 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750122]
+Maestro de varas
+
+## POINTER 337 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750122]
+Aumenta la defensa física cuando equipas una vara.
+
+## POINTER 338 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+Evadir
+
+## POINTER 339 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+Aumenta la agilidad un 5%.
+No afecta al incremento debido al equipo.
+
+## POINTER 340 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+Evadir 2
+
+## POINTER 341 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+Aumenta la agilidad un 10%.
+No afecta al incremento debido al equipo.
+
+## POINTER 342 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+Evadir 3
+
+## POINTER 343 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+Aumenta la agilidad un 15%.
+No afecta al incremento debido al equipo.
+
+## POINTER 344 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+Evadir 4
+
+## POINTER 345 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+Aumenta la agilidad un 20%.
+No afecta al incremento debido al equipo.
+
+## POINTER 346 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100600]
+Lanza-objetos 
+
+## POINTER 347 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750748]
+Permite utilizar objetos en un aliado. 
+
+## POINTER 348 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750748]
+Experto en objetos
+
+## POINTER 349 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750748]
+Disminuye la cantidad de tiempo de inmovilidad de 
+un personaje después de utilizar objetos. 
+
+## POINTER 350 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750748]
+Objeto súbito
+
+## POINTER 351 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750748]
+Permite usar objetos consecutivamente y sin 
+tiempo de espera. 
+
+## POINTER 352 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750748]
+En formación
+
+## POINTER 353 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263750748]
+Aumenta la distancia de avance durante una Guardia 
+crítica. 
+
+## POINTER 354 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263751023]
+Retroceder
+
+## POINTER 355 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980351]
+Pulsa <06>(GUD) ＋ <06>(LTL) para retroceder
+
+## POINTER 356 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263751023]
+Aterrizaje seguro
+
+## POINTER 357 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100600]
+Permite cancelar una acción con Retroceder mientras
+caes. También se puede retroceder varias veces.
+
+## POINTER 358 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263751023]
+Zancada
+
+## POINTER 359 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980351]
+Aumenta la distancia cuando retrocedes.
+
+## POINTER 360 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755124]
+Cancelar y retroceder
+
+## POINTER 361 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755124]
+Permite cancelar acciones con Retroceder. 
+
+## POINTER 362 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755124]
+Recuperar
+
+## POINTER 363 [t:1;r:1;ru:memnoch;user:memnoch;time:1297100600]
+Durante el tambaleo, previene de ser derribado
+por un golpe con el botón de Guardia. 
+
+## POINTER 364 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755124]
+Artes de recuperación
+
+## POINTER 365 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1265632575]
+Permite moverse en el aire después de Recuperar.
+
+## POINTER 366 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755124]
+Carrera
+
+## POINTER 367 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755124]
+Aumenta la velocidad de movimiento durante la 
+batalla.
+
+## POINTER 368 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755124]
+Cancelar en carrera
+
+## POINTER 369 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755124]
+Permite cancelar acciones con solo correr.
+
+## POINTER 370 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755124]
+Giro rápido
+
+## POINTER 371 [t:1;r:3;ru:googol,parsec,memnoch;user:Dagorat;time:1263755124]
+Permite girar rápidamente incluso en carrera. 
+
+## POINTER 372 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+Corredores
+
+## POINTER 373 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+En movimiento libre recupera HP gradualmente.
+
+## POINTER 374 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+Corredores 2
+
+## POINTER 375 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1263241718]
+En movimiento libre recupera TP gradualmente.
+
+## POINTER 376 [t:1;r:3;ru:googol,parsec,memnoch;user:Lia;time:1263751899]
+Correr

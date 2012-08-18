@@ -1,0 +1,20 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287594605]
+<STR>(JUD)
+¿Te importaría que
+hiciésemos una paradita
+en la capital?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287587769]
+<STR>(YUR)
+¿En la capital?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287587769]
+<STR>(JUD)
+En los barrios bajos hay gente
+que quieres ver, ¿verdad?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1287587769]
+<STR>(YUR)
+No hay nadie
+a quien DEBA ver,
+pero vale...

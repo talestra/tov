@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267222380]
+Vínculos fuertes
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267222380]
+(JUD)
+¿Ese anillo tan bonito
+es un regalo de alguien?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267317631]
+(YUR)
+Mmm, supongo que podría
+decirse eso.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267222380]
+(JUD)
+Vaya, vaya, ¡parece que vuelves
+locas a las chicas!
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267222380]
+(YUR)
+No, no, no. Tan solo soy
+un gorrón de cuidado.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267222380]
+(JUD)
+¿Oh? ¡Ya es bastante increíble que
+tenga poderes, pero también se vuelve
+más poderoso al reaccionar ante el aer!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130789]
+(JUD)
+El vínculo que tienes con la chica
+que te lo dio debe ser muy fuerte.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267222380]
+(YUR)
+Es un vínculo que no
+me importaría romper...

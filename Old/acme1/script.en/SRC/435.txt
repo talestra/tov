@@ -1,0 +1,42 @@
+## POINTER 0
+<STR>(KAR)
+<STR>(FRE) sent his knights 
+to help us!
+
+## POINTER 1
+<STR>(YUR)
+That idiot...sending the better part 
+of his subordinates over here! He should 
+be worried about his own butt.
+
+## POINTER 2
+<STR>(RIT)
+They did save us, though.
+
+## POINTER 3
+<STR>(KAR)
+He must really be worried.
+
+## POINTER 4
+<STR>(JUD)
+About us? Or about 
+<STR>(EST_P)?
+
+## POINTER 5
+<STR>(RIT)
+Both, I'd hope.
+
+## POINTER 6
+<STR>(RAP)
+Woof!
+
+## POINTER 7
+<STR>(YUR)
+I swear...it's not like 
+he has time to be worrying 
+about other people.
+
+## POINTER 8
+<STR>(YUR)
+So <STR>(FRE) hasn't completely hardened 
+to others either...

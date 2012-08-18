@@ -1,0 +1,111 @@
+## POINTER 0
+<STR>(KAR)
+Hi there!
+
+## POINTER 1
+
+Well, look who it is. 
+Here for more work?
+
+## POINTER 2
+Look for job?
+Yes
+No
+
+## POINTER 3
+<STR>(YUR)
+Yeah.
+
+## POINTER 4
+
+Let's see, a job I could 
+give to you guys...<PAGE>How's this?
+
+## POINTER 5
+<STR>(KAR)
+...I'm looking for a lost pendant.
+-Rhianna...Kale...?!
+
+## POINTER 6
+<STR>(YUR)
+What's up, <STR>(KAR)? 
+Recognize the name?
+
+## POINTER 7
+<STR>(KAR)
+Uhh...yeah, it's, umm, someone 
+in a guild I used to belong to.
+
+## POINTER 8
+
+So, you already know the client?
+
+## POINTER 9
+<STR>(RAV)
+The usual "lookin' for a lost item," 
+huh? Ehh, work's work, I guess.
+
+## POINTER 10
+<STR>(JUD)
+"The usual"?
+
+## POINTER 11
+<STR>(YUR)
+I guess people lose things.
+
+## POINTER 12
+
+It pays 4500 Gald. So? 
+You gonna take it?
+
+## POINTER 13
+Accept job?
+Accept job
+Decline offer
+
+## POINTER 14
+
+It should go pretty quick since 
+you already know the client. 
+You'll find her in the inn.
+
+## POINTER 15
+<STR>(YUR)
+All right. Let's go.
+
+## POINTER 16
+
+Okay. Let me know whenever you 
+feel like doing some more work.
+
+## POINTER 17
+
+Okay. Feel free to stop by whenever 
+you need work. I should 
+be able to hook you up.
+
+## POINTER 18
+
+Oh, the job I mentioned 
+last time is still 
+open. You want it?
+
+## POINTER 19
+<STR>(YUR)
+Looking for a lost pendant, 
+huh?
+
+## POINTER 20
+<STR>(RAV)
+Sounds like a pretty 
+typical search job.
+
+## POINTER 21
+
+It should go pretty quick since 
+you already know the client. 
+You'll find her in the inn.
+
+## POINTER 22
+<STR>(YUR)
+All right. Let's go.

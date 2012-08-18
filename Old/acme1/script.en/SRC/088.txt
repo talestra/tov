@@ -1,0 +1,33 @@
+## POINTER 0
+
+Who's there!
+
+## POINTER 1
+<STR>(YUR)
+Argh, they spotted me!
+
+## POINTER 2
+
+You again!
+
+## POINTER 3
+<STR>(YUR)
+Take a load off for a while!<PAGE>My rap sheet is long enough as it is. 
+But guess I don't have much choice but 
+to fight if they discover me.
+
+## POINTER 4
+<STR>(YUR)
+I need to be wary of 
+these guys on patrol.
+
+## POINTER 5
+Information
+Automatically enter a battle
+upon contact with an enemy
+symbol on the world map.
+
+## POINTER 6
+
+How'd you get away?! You 
+little... Get over here!

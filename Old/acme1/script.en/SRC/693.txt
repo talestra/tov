@@ -1,0 +1,120 @@
+## POINTER 0
+Drake
+Why would you use your healing artes 
+on someone who tells you not to?
+
+## POINTER 1
+<STR>(EST_P)
+Master...<PAGE>I just wanted to make 
+that person happy...
+
+## POINTER 2
+Drake
+Every single one of a princess's actions 
+is exceedingly meaningful.<PAGE>Countless people are affected by what 
+you do, and if you're not careful, 
+they can result in confusion.
+
+## POINTER 3
+<STR>(YUR)
+Isn't it better than sitting 
+around doing nothing at all?
+
+## POINTER 4
+<STR>(EST_P)
+<STR>(YUR)...
+
+## POINTER 5
+Drake
+Sometimes the best course of action 
+is taking no action at all.
+
+## POINTER 6
+<STR>(YUR)
+What about all the people back in Halure that <STR>(EST_P) 
+helped? They're grateful for what she did.
+
+## POINTER 7
+Drake
+Are you aware that due to that action, a 
+strange rumor of the appearance of a "princess 
+of redemption" has taken shape?
+
+## POINTER 8
+<STR>(YUR)
+What's so bad about that?
+
+## POINTER 9
+Drake
+Once you get people's hopes up, they expect things 
+from you. And these expectations grow and grow, until 
+their hopes are finally dashed against reality.<PAGE>Once you fail to live up to their expectations, people 
+become discontented, and this results in chaos.
+
+## POINTER 10
+<STR>(EST_P)
+B-but...
+
+## POINTER 11
+Drake
+Luckily, none of the townspeople are 
+aware that their princess of redemption 
+is in fact the Princess herself.
+
+## POINTER 12
+<STR>(EST_P)
+I...
+
+## POINTER 13
+Drake
+To rule an empire, you must think rationally, 
+and not be swayed by fleeting emotion.
+
+## POINTER 14
+Drake
+You are not cut out to sit on the imperial 
+throne. It would be best if you stepped down 
+from the candidacy as soon as possible.
+
+## POINTER 15
+<STR>(EST_P)
+What should 
+I do?!
+
+## POINTER 16
+Drake
+Here, take this.
+
+## POINTER 17
+<STR>(EST_P)
+This is...the imperial 
+crest...
+
+## POINTER 18
+Drake
+Look at that and put some 
+thought into your actions.
+
+## POINTER 19
+<STR>(EST_P)
+......
+
+## POINTER 20
+<STR>(YUR)
+Hey, keep your chin up.
+
+## POINTER 21
+<STR>(EST_P)
+I'm okay... Master Drake 
+told me to put some thought 
+into what I'm doing.<PAGE>So that's what I'm going to do. I'm going to think about whether 
+my actions are really the right ones for a future empress.
+
+## POINTER 22
+<STR>(YUR)
+I see. Good luck with 
+that, <STR>(EST_P).
+
+## POINTER 23
+<STR>(EST_P)
+Yes. Thank you.

@@ -1,0 +1,74 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VA030_063)So this makes the seventh one.
+
+## POINTER 1
+<STR>(RAV)
+<VOICE>(VA030_064)Sounds about right.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VA030_065)We finally got 'em all! 
+...What's the deal guys? 
+Isn't that exciting?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VA030_066)It's not like they're some 
+lost treasure, or anything.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VA030_067)Yeah, but they're ancient relics! 
+They've gotta have something 
+cool hidden inside, right?
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VA030_068)...They're not givin' off any 
+vibes that I can feel.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VA030_069)Maybe there's some sort of key 
+that would unlock their power.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VA030_070)Maybe. I want to know 
+why they were hidden 
+in the first place.<PAGE><VOICE>(VA030_071)Why are they treated so differently 
+from Dein Nomos?
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VA030_072)Do you think there's something 
+bad about them?
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA030_073)I don't know. Anyway, at 
+least we know we've got 
+all of them together now.<PAGE><VOICE>(VA030_074)Now all that's left to do is 
+give them to <STR>(FRE), and 
+let him deal with the mess.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VA030_075)You know...you've got a real 
+winner of a personality.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VA030_076)Hah hah. It took you long 
+enough to notice!
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VA030_077)There can be no doubt that 
+entrusting the fell arms with 
+him is our most reliable option.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VA030_078)Exactly.<PAGE><VOICE>(VA030_079)Next stop, Aurnion.

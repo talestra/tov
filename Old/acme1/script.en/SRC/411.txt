@@ -1,0 +1,359 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS38_001)Well, he doesn't seem to be 
+here. M-maybe he's off 
+somewhere taking a nap...
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS38_002)Phaeroh. You are 
+here, aren't you?
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS38_003)Gyaaah!!
+
+## POINTER 3
+Phaeroh
+<VOICE>(VS38_004)Insipid poison, you appear 
+before me at last!
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS38_005)...So you are here. Is that how 
+you greet all your guests, 
+Phaeroh? By calling them names?
+
+## POINTER 5
+Phaeroh
+<VOICE>(VS38_006)For what reason have you come to me?<PAGE><VOICE>(VS38_007)Surely you are aware that 
+I could end your existence 
+with a mere thought.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS38_008)Heh. You talk pretty 
+big, don't you?<PAGE><VOICE>(VS38_009)If you really want a fight, 
+I'd hate to disappoint you.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS38_010)<STR>(YUR), no! 
+Everyone, please wait!
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS38_011)<STR>(EST_P)!
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS38_012)Phaeroh, please hear 
+what I have to say!
+
+## POINTER 10
+Phaeroh
+<VOICE>(VS38_013)Does death hold no fear for 
+you, little one? For you gaze now 
+into the mouth of death itself.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS38_014)I am afraid. But I'm even 
+more afraid of dying without 
+knowing who I really am.<PAGE><VOICE>(VS38_015)Belius told me I needed to meet 
+you to learn about my destiny.<PAGE><VOICE>(VS38_016)I have to know just 
+what that destiny is.<PAGE><VOICE>(VS38_017)I understand that I am a threat to 
+the Entelexeia. But you said that 
+I am a poison to this world...<PAGE><VOICE>(VS38_018)What is this power I 
+have? Just who is the 
+Child of the Full Moon?<PAGE><VOICE>(VS38_019)If it is true that my existence 
+cannot be tolerated...<PAGE><VOICE>(VS38_020)Then it's okay if I have to die.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS38_021)But I at least 
+deserve to know why 
+it is I have to die!<PAGE><VOICE>(VS38_022)Please tell me! 
+I beg of you!
+
+## POINTER 13
+Phaeroh
+<VOICE>(VS38_023)There was a time when this 
+was a verdant land sheltered 
+by the blessing of an aer krene.
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS38_024)So there was an aer 
+krene here...
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS38_025)But what happened? 
+Why did it change?
+
+## POINTER 16
+Phaeroh
+<VOICE>(VS38_026)What you see are the results of 
+too much aer and its aftermath.<PAGE><VOICE>(VS38_027)As to why the aer ran rampant... The 
+answer lies with the poison brought 
+by the Child of the Full Moon.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS38_028)Huh...?
+
+## POINTER 18
+Phaeroh
+<VOICE>(VS38_029)The power of the Child of the 
+Full Moon stimulates the aer 
+krene more than any blastia.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS38_030)Huh?
+
+## POINTER 20
+<STR>(RIT)
+<VOICE>(VS38_031)...Blastia convert aer into 
+energy by way of a formula.<PAGE><VOICE>(VS38_032)So if <STR>(EST_P) can use 
+her healing artes without 
+the aid of any blastia...<PAGE><VOICE>(VS38_033)She must possess a formula 
+in her very being that lets 
+her convert aer into energy.<PAGE><VOICE>(VS38_034)<STR>(JUD) was searching for blastia that 
+used a particular kind of formula...<PAGE><VOICE>(VS38_035)So...this special formula 
+<STR>(EST_P) has must also consume 
+massive amounts of aer...<PAGE><VOICE>(VS38_036)Which causes the aer krene to 
+become more active and pump 
+out more aer than they should...<PAGE><VOICE>(VS38_037)I had hoped my 
+hypothesis...would 
+have been wrong...
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS38_038)Then, I...
+
+## POINTER 22
+Phaeroh
+<VOICE>(VS38_039)It is as she has said...<PAGE><VOICE>(VS38_040)With each use of her power, 
+the Child of the Full Moon uses 
+far more aer than the blastia...<PAGE><VOICE>(VS38_041)In so doing, the 
+imbalance of aer in 
+this world is furthered.<PAGE><VOICE>(VS38_042)For the planet, such an existence 
+can only be called a poison.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS38_043)So you just wipe it out, 
+then? A little quick to 
+judge, aren't you, Phaeroh?
+
+## POINTER 24
+Phaeroh
+<VOICE>(VS38_044)This problem concerns the entire 
+planet, and she is its cause. To do 
+nothing would be unparalleled folly.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS38_045)If the problem's with <STR>(EST_P), 
+then it's for us to solve.<PAGE><VOICE>(VS38_046)You have no place in our affairs.
+
+## POINTER 26
+Phaeroh
+<VOICE>(VS38_047)The gravity of this situation 
+is beyond your grasp.
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS38_048)You don't honestly think that 
+everything's gonna be all sunshine 
+and rainbows if <STR>(EST_P) dies, do you?
+
+## POINTER 28
+Phaeroh
+<VOICE>(VS38_049)It would at least eliminate 
+one problem.
+
+## POINTER 29
+<STR>(JUD)
+<VOICE>(VS38_050)Phaeroh, at Heliord I stopped 
+myself, and again at 
+Dahngrest I stopped you.<PAGE><VOICE>(VS38_051)What I thought was a blastia 
+turned out to be a human. Before 
+I realized it, I had lost my way.<PAGE><VOICE>(VS38_052)I never thought this child could be 
+as great a danger as you had said.
+
+## POINTER 30
+Phaeroh
+<VOICE>(VS38_053)And due to your confusion, I 
+granted you the time necessary 
+to see things as they are.<PAGE><VOICE>(VS38_054)As a result, my sister Belius 
+is now lost to me. Enough. 
+This power will bring only ruin.
+
+## POINTER 31
+<STR>(RAV)
+<VOICE>(VS38_055)Hmm, not sure I understand all this, 
+but if her power's the problem, why 
+can't she just not use it?
+
+## POINTER 32
+Phaeroh
+<VOICE>(VS38_056)There can be no guarantee she 
+will not try to use the power.
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS38_057)...That's true. She does have 
+trouble turning a blind eye to 
+things happening around her.<PAGE><VOICE>(VS38_058)Someday she will surely use 
+her power to help someone.
+
+## POINTER 34
+<STR>(JUD)
+<VOICE>(VS38_059)However, as long as she keeps 
+that spirit of compassion, she 
+cannot only be seen as harmful.<PAGE><VOICE>(VS38_060)She is not like a blastia. 
+I know that you can 
+feel the difference.
+
+## POINTER 35
+Phaeroh
+<VOICE>(VS38_061)...Compassion alone will not save this world.
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS38_062)Listen, Phaeroh. I get that you've 
+thought all this through with 
+everybody's best interest in mind.<PAGE><VOICE>(VS38_063)But why doesn't that world 
+have a place for <STR>(EST_P)?
+
+## POINTER 37
+Phaeroh
+<VOICE>(VS38_064)It is sometimes 
+necessary to remove a 
+part to save the whole.
+
+## POINTER 38
+<STR>(YUR)
+<VOICE>(VS38_065)I don't buy that for a second.<PAGE><VOICE>(VS38_066)What makes you so high and mighty 
+that you're the one to decide who 
+gets cut and who doesn't?
+
+## POINTER 39
+Phaeroh
+<VOICE>(VS38_067)We have endured the anxiety of 
+existence for far greater a span 
+than you can conceive.<PAGE><VOICE>(VS38_068)Such words mean nothing from 
+those who call this world home 
+for but a fleeting moment!
+
+## POINTER 40
+<STR>(JUD)
+<VOICE>(VS38_069)Phaeroh, please listen.<PAGE><VOICE>(VS38_070)The important thing is 
+finding a way to stop the 
+excessive aer, correct?<PAGE><VOICE>(VS38_071)We still have time left to 
+search for such a thing.
+
+## POINTER 41
+<STR>(EST_P)
+<VOICE>(VS38_072)<STR>(JUD)...
+
+## POINTER 42
+<STR>(JUD)
+<VOICE>(VS38_073)And if...if the effects 
+of <STR>(EST_P)'s power reach 
+their absolute limit...<PAGE><VOICE>(VS38_074)I will kill her as promised.
+
+## POINTER 43
+<STR>(JUD)
+<VOICE>(VS38_075)You should have no complaint with this.
+
+## POINTER 44
+<STR>(KAR)
+<VOICE>(VS38_076)H-hey <STR>(JUD), 
+are you serious?!
+
+## POINTER 45
+<STR>(JUD)
+<VOICE>(VS38_077)I'm sure Brave Vesperia will 
+come up with something 
+before that happens, right?
+
+## POINTER 46
+<STR>(KAR)
+<VOICE>(VS38_078)What?! I...um... Yeah, 
+yeah of course we will!
+
+## POINTER 47
+<STR>(YUR)
+<VOICE>(VS38_079)Score one for <STR>(JUD).<PAGE><VOICE>(VS38_080)So that settles it.<PAGE><VOICE>(VS38_081)If we humans are to blame for <STR>(EST_P)'s 
+problem and bringing on the apocalypse, 
+then it's up to us to make things right.<PAGE><VOICE>(VS38_082)If we give it all we've got and 
+still blow it, you can slow 
+roast us on a grill for all I care.
+
+## POINTER 48
+Phaeroh
+<VOICE>(VS38_083)...You have changed. If you 
+were still as before...
+
+## POINTER 49
+<STR>(JUD)
+<VOICE>(VS38_084)Have I?<PAGE><VOICE>(VS38_085)That is nice to hear.
+
+## POINTER 50
+Phaeroh
+<VOICE>(VS38_086)...Very well. Be ever mindful 
+though, that time is fleeting!
+
+## POINTER 51
+<STR>(RIT)
+<VOICE>(VS38_087)Wait!<PAGE><VOICE>(VS38_088)If the formulas are causing 
+the excessive aer...<PAGE><VOICE>(VS38_089)Then there must've 
+been times when this 
+happened in the past.<PAGE><VOICE>(VS38_090)I mean, the blastia 
+were a product of 
+an ancient civilization.
+
+## POINTER 52
+Phaeroh
+<VOICE>(VS38_091)There exist those 
+who have inherited 
+the sins of the past.<PAGE><VOICE>(VS38_092)If any yet can speak of 
+what occurred in the 
+days of old, it is they.
+
+## POINTER 53
+<STR>(KAR)
+<VOICE>(VS38_093)He's gone...
+
+## POINTER 54
+<STR>(EST_P)
+<VOICE>(VS38_094)Umm, I... Thanks for 
+everything, <STR>(YUR).<PAGE><VOICE>(VS38_095)<STR>(JUD)...you, too.
+
+## POINTER 55
+<STR>(YUR)
+<VOICE>(VS38_096)No problem, but hey...
+
+## POINTER 56
+<STR>(EST_P)
+<VOICE>(VS38_097)What?
+
+## POINTER 57
+<STR>(YUR)
+<VOICE>(VS38_098)"It's okay if I have to die"?<PAGE><VOICE>(VS38_099)What the hell was that?
+
+## POINTER 58
+<STR>(EST_P)
+<VOICE>(VS38_100)...I'm sorry.
+
+## POINTER 59
+<STR>(YUR)
+<VOICE>(VS38_101)I don't want to hear that again.
+
+## POINTER 60
+<STR>(EST_P)
+<VOICE>(VS38_102)I'm sorry...

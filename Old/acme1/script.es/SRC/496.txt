@@ -1,0 +1,124 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499162]
+Alexei
+<VOICE>(VS51_093)Vaya, vaya. Estáis todos aquí.
+Bienvenidos a las profundidades
+del océano.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+<STR>(EST_P)
+<VOICE>(VS51_094)Todo ha terminado, Alexei.
+No empeores tu cuenta de crímenes.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+Alexei
+<VOICE>(VS51_095)Aah, princesa <STR>(EST).
+Qué alegría veros recuperada.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499162]
+Alexei
+<VOICE>(VS51_096)Lo cual debe querer decir
+que Yeager resultó ser inútil.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+<STR>(YUR)
+<VOICE>(VS51_097)Está muerto...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499162]
+Alexei
+<VOICE>(VS51_098)Pensé que al final haría algo útil,
+pero parece que estaba equivocado.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+<STR>(JUD)
+<VOICE>(VS51_099)¿Es que solo sabes divertirte
+jugueteando con el destino
+de los demás?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499162]
+<STR>(FRE)
+<VOICE>(VS51_100)¡Alexei! ¿Qué ha pasado con
+los ideales que una vez defendisteis?
+¿Qué es lo que ha cambiado?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+<STR>(YUR)
+<VOICE>(VS51_101)<STR>(FRE), ¡¿todavía te empeñas
+en hablarle así?!
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+Alexei
+<VOICE>(VS51_102)No ha cambiado nada,
+salvo mis métodos.<PAGE><VOICE>(VS51_103)El poder absoluto es lo único
+que puede revivir a este imperio
+estancado y decadente. O el mundo mismo.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+<STR>(FRE)
+<VOICE>(VS51_104)¿Y cuántas vidas más han de
+sacrificarse para obtenerlo?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+Alexei
+<VOICE>(VS51_105)Una verdadera reforma jamás sería
+posible si me limitara a seguir
+las convenciones del Imperio.<PAGE><VOICE>(VS51_106)Eso es algo que vosotros deberíais saber bien.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289240886]
+<STR>(RAV)
+<VOICE>(VS51_107)¡Ea, ea! No me digáis
+que estáis escuchando
+en serio toas esas chorrás.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499162]
+<STR>(EST_P)
+<VOICE>(VS51_108)¿Cómo ha podido escoger
+seguir tan hiriente senda?<PAGE><VOICE>(VS51_109)Alguien de su entereza habría
+sido capaz de hallar otra forma...
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+Alexei
+<VOICE>(VS51_110)A veces los soñadores han de sufrir
+que se los etiqueten de criminales.
+Pero es un pesar que acepto gustoso.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+Alexei
+<VOICE>(VS51_111)¡Prometí liberar este mundo
+de los entelechia, del aer
+y de este patético Imperio!<PAGE><VOICE>(VS51_112)¡¡El mundo volverá a nacer!!
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+<STR>(YUR)
+<VOICE>(VS51_113)Me importa una mierda por qué
+razón haces esto. Solo que al
+hacerlo haces llorar a mucha gente.<PAGE><VOICE>(VS51_114)¡Y esa es razón suficiente
+para acabar contigo!
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+Alexei
+<VOICE>(VS51_115)Está claro que tienes
+mucho que aprender.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+<STR>(FRE)
+<VOICE>(VS51_116)¡¡<STR>(YUR), cuidado!!
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+<STR>(FRE)
+<VOICE>(VS51_117)¡¡Aaaagh!!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499162]
+<STR>(YUR)
+<VOICE>(VS51_118)¡<STR>(FRE)!
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+Sodia
+<VOICE>(VS51_119)¡¡Capitán!!
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286213852]
+<STR>(KAR)
+<VOICE>(VS51_120)¡<STR>(YUR)! ¡¡Alexei se escapa!!
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289240886]
+<STR>(YUR)
+<VOICE>(VS51_121)¡¡Mierda!!

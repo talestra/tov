@@ -1,0 +1,299 @@
+## POINTER 0
+Dummy Group
+
+## POINTER 1
+Zaphias 01/Weather A
+
+## POINTER 2
+Zaphias 01B/Weather A
+
+## POINTER 3
+Zaphias 02/Weather A
+
+## POINTER 4
+Zaphias 02B/Weather A
+
+## POINTER 5
+Zaphias 03/Weather A
+
+## POINTER 6
+Tweedle A & B Tutorial 1
+
+## POINTER 7
+Knight Event Battle
+
+## POINTER 8
+Zagi - First Mission Battle
+
+## POINTER 9
+Zagi - First Mission Battle b
+
+## POINTER 10
+Quoi Woods 01（Wolf)/Weather A
+
+## POINTER 11
+Quoi Woods 02（Axe Beak)/Weather A
+
+## POINTER 12
+Quoi Woods 03（Roctus)/Weather A
+
+## POINTER 13 [user:memnoch;time:1297200143]
+Bosques de Quoi 04（Abeja gigante)/Tiempo A
+
+## POINTER 14 [user:memnoch;time:1297200143]
+Bosques de Quoi 05（Mandrágora)/Tiempo A
+
+## POINTER 15 [user:memnoch;time:1297200143]
+Bosques de Quoi 06（Filifolia)/Tiempo A
+
+## POINTER 16 [user:memnoch;time:1297200143]
+Bosques de Quoi 01（Lobo)/Tiempo B
+
+## POINTER 17
+Quoi Woods 02（Axe Beak)/Weather B
+
+## POINTER 18
+Quoi Woods 03（Roctus)/Weather B
+
+## POINTER 19 [user:memnoch;time:1297200143]
+Bosques de Quoi 04（Abeja gigante)/Tiempo B
+
+## POINTER 20 [user:memnoch;time:1297200143]
+Bosques de Quoi 05（Mandrágora)/Tiempo B
+
+## POINTER 21 [user:memnoch;time:1297200143]
+Bosques de Quoi 06（Filifolia)/Tiempo B
+
+## POINTER 22
+Chimera Butterfly/Weather AB
+
+## POINTER 23 [user:memnoch;time:1297199959]
+Oso ovíparo
+
+## POINTER 24 [user:memnoch;time:1297200143]
+Ruinas de Shaikos Tutorial
+
+## POINTER 25 [user:memnoch;time:1297200143]
+Ruinas de Shaikos 01(Gólem)/Tiempo AB
+
+## POINTER 26
+Shaikos Ruins 02(Polwigle)/Weather AB
+
+## POINTER 27
+Shaikos Ruins 03(Ribbit)/Weather AB
+
+## POINTER 28
+Shaikos Ruins 04(Merfish)/Weather AB
+
+## POINTER 29 [user:memnoch;time:1297378004]
+Shaikos Ruins 05(Bat)/Weather AB
+
+## POINTER 30
+Shaikos Ruins 06(Superstar Blue）/Weather B
+
+## POINTER 31 [user:parsec;time:1268571650]
+Gólem mágico
+
+## POINTER 32
+Tweedle A & B Tutorial 2
+
+## POINTER 33
+Ehmead Hill 01（Ladybug)/Weather A
+
+## POINTER 34
+Ehmead Hill 02（Chirpee)/Weather A
+
+## POINTER 35
+Ehmead Hill 03（Basilisk)/Weather A
+
+## POINTER 36
+Ehmead Hill 04(Goblin）/Weather A
+
+## POINTER 37
+Ehmead Hill 05（Gattuso Cub)/Weather A
+
+## POINTER 38
+Ehmead Hill 01（Ladybug)/Weather B
+
+## POINTER 39
+Ehmead Hill 02（Chirpee)/Weather B
+
+## POINTER 40
+Ehmead Hill 03（Basilisk)/Weather B
+
+## POINTER 41
+Ehmead Hill 04(Goblin）/Weather B
+
+## POINTER 42
+Ehmead Hill 05（Gattuso Cub)/Weather B
+
+## POINTER 43 [user:memnoch;time:1265369656]
+Gattuso
+
+## POINTER 44
+Ehmead Hill 01（Ladybug)/Demo
+
+## POINTER 45
+Ehmead Hill 02（Chirpee)/Demo
+
+## POINTER 46
+Ehmead Hill 03（Basilisk)/Demo
+
+## POINTER 47
+Ehmead Hill 04(Goblin）/Demo
+
+## POINTER 48
+Ehmead Hill 05（Gattuso Cub)/Demo
+
+## POINTER 49 [user:memnoch;time:1297378004]
+Gattuso (Demo)
+
+## POINTER 50
+Red-Eye Event Battle 1
+
+## POINTER 51
+Rhybgaro Event Battle
+
+## POINTER 52
+Mercenary Event Battle 1
+
+## POINTER 53 [user:memnoch;time:1297378004]
+Zagi: Fight 2
+
+## POINTER 54
+Caer Bocram 01（Tortoise)/Weather A
+
+## POINTER 55
+Caer Bocram 02（Spiky Polwigle)/Weather A
+
+## POINTER 56
+Caer Bocram 03（Spiky Ribbit)/Weather A
+
+## POINTER 57
+Caer Bocram 04（Bat Umbrella Ghost）/Weather A
+
+## POINTER 58
+Caer Bocram 05（Chirpee: Green Wing)/Weather A
+
+## POINTER 59
+Caer Bocram 01（Tortoise)/Weather B
+
+## POINTER 60
+Caer Bocram 02（Spiky Polwigle)/Weather B
+
+## POINTER 61
+Caer Bocram 03（Spiky Ribbit)/Weather B
+
+## POINTER 62
+Caer Bocram 04（Bat Umbrella Ghost）/Weather B
+
+## POINTER 63
+Caer Bocram 05（Chirpee: Green Wing)/Weather B
+
+## POINTER 64
+Caer Bocram 06（Mimic: Tree）/Weather AB
+
+## POINTER 65 [user:memnoch;time:1297378004]
+Gusios: Fight 1
+
+## POINTER 66 [user:memnoch;time:1297378004]
+FS Tutorial
+
+## POINTER 67
+Ragou's Residence 01（Wolf: Ragou version）/Weather AB
+
+## POINTER 68
+Ragou's Residence 02（Boar: Ragou version）/Weather AB
+
+## POINTER 69
+Ragou's Residence 03（Basilisk: Ragou version）/Weather AB
+
+## POINTER 70
+Ragou's Residence 04（Bat: Ragou version）/Weather AB
+
+## POINTER 71
+Enraged Monsters: Fight 1
+
+## POINTER 72
+Enraged Monsters: Fight 2
+
+## POINTER 73
+Red-Eye Event Battle 2
+
+## POINTER 74
+Ragou's Residence 05（Wolf: Ragou version）
+
+## POINTER 75
+Ragou's Residence 06（Wolf: Ragou version）
+
+## POINTER 76
+Ragou's Residence 07（Wolf: Ragou version）
+
+## POINTER 77
+Tweedle A & B Tutorial 3
+
+## POINTER 78
+Keiv Moc 01（Filifolia: Nepenthes) /Weather A
+
+## POINTER 79
+Keiv Moc 02（Insect Plant: Nepenthes)/Weather A
+
+## POINTER 80
+Keiv Moc 03（Bat: Leaf)/Weather A
+
+## POINTER 81
+Keiv Moc 04（Stag Beetle: Base Type）/Weather A
+
+## POINTER 82
+Keiv Moc 05（Mantis: Base Type）/Weather A
+
+## POINTER 83
+Keiv Moc 06（Chirpee: Green Wing)/Weather A
+
+## POINTER 84
+Keiv Moc 01（Filifolia: Nepenthes) /Weather B
+
+## POINTER 85
+Keiv Moc 02（Insect Plant: Nepenthes)/Weather B
+
+## POINTER 86
+Keiv Moc 03（Bat: Leaf)/Weather B
+
+## POINTER 87
+Keiv Moc 04（Stag Beetle: Base Type）/Weather B
+
+## POINTER 88
+Keiv Moc 05（Mantis: Base Type）/Weather B
+
+## POINTER 89
+Keiv Moc 06（Chirpee: Green Wing)/Weather B
+
+## POINTER 90
+Keiv Moc 07（Mimic: Tree）/Weather AB
+
+## POINTER 91
+Brutal/Weather AB
+
+## POINTER 92 [user:parsec;time:1268571650]
+Jefe insecto
+
+## POINTER 93
+Ghasfarost 01（Mercenary/Dagger）/Weather AB
+
+## POINTER 94
+Ghasfarost 02（Mercenary/Two-Handed)/Weather AB
+
+## POINTER 95
+Ghasfarost 03（Mercenary/Staff)/Weather AB
+
+## POINTER 96
+Ghasfarost 04（Horse Eagle）/Weather AB
+
+## POINTER 97
+Ghasfarost 05（Scissorbeak）/Weather AB
+
+## POINTER 98
+Ghasfarost 06（Gear Golem)/Weather AB
+
+## POINTER 99 [user:parsec;time:1268571650]
+Muchos mercenarios

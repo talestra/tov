@@ -1,0 +1,137 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(RAV)
+Ah, ahí estás, mozuelo.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(YUR)
+Tú sí que tienes tu manera
+de hacer las cosas, viejales.<PAGE>Aunque creo es tu única cualidad.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(RAV)
+¡Oye, cómo hieres los sentimientos de
+este viejo! Tengo muchísimas más cualidades.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(YUR)
+Pues te puedes guardar
+la lista para ti.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411231]
+<STR>(RAV)
+Tengo que decirlo. Estaba mu sorprendío
+de saber que Belius era una bestia...
+perdón, un entelechia, ¿no?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(YUR)
+Sí. Pero parece que todo eso
+de que estaba detrás de la
+Gran Guerra era mentira.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(RAV)
+Probablemente sería una excusa que s'inventó
+er Imperio pa atacar Nordopólica.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(YUR)
+Podría ser.<PAGE>Bueno, ¿ese es el
+nieto del Don? ¿Cómo
+es que está aquí?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411231]
+<STR>(RAV)
+Este tontaina se creyó una
+información falsa de Garra
+del Leviatán y actuó sin pensar.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411231]
+Harry
+Escuché que un aliado del Don
+había sido capturado por un monstruo
+y pensé en venir a salvarlo.<PAGE>Y después escuché que el monstruo
+tenía una apátheia, así que...
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(YUR)
+¿Decían que habían
+capturado a Belius?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(RAV)
+Eso es lo que decía Garra del Leviatán.
+Así que fueron allí con los Espadas
+Cazadoras a matar al monstruo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411288]
+<STR>(YUR)
+Y el monstruo resultó ser Belius. Así que
+aunque consiguieseis la apátheia, el
+aliado que teníais que salvar murió.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1280830006]
+Harry
+Sí...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411431]
+<STR>(RAV)
+Necesitas aprendé a tomarte las cosas
+con calma. Confirma la información
+antes de salir por ahí montando follón.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+Harry
+¡¿Y tú qué
+puñetas
+sabes?!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(RAV)
+Supongo que estas cosas pasan.<PAGE>Qu'el Don sea su abuelo le mete
+mucha presión al chiquillo.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(YUR)
+Cualquiera que tenga un abuelo así
+se le exigiría que currase a saco.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(RAV)
+Todo el mundo espera mucho de él.
+Trabaja mucho pa no decepcionar
+a nadie y pasan cosas d'estas.
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:memnoch;time:1282961233]
+<STR>(YUR)
+Esto no le va a hacer ninguna
+gracia a Palestrale.<PAGE>Aunque no hubiese otra opción excepto
+luchar, dudo mucho que les valga.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(RAV)
+El tal Natz
+nos perdonará.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830609]
+<STR>(YUR)
+Eso estaría bien. Pero Natz
+no es la Adalid. Me preocupa
+el resto del gremio.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298411431]
+<STR>(RAV)
+¡No sé cómo salir
+de'ste embrollo!<PAGE>De momento voy a llevarlo
+hasta er Don.<PAGE>Cuando el blastia vuelva a
+funcionar acércanos a Dahngrest, ¿fale?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830405]
+<STR>(YUR)
+Vale.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1280830609]
+<STR>(RAV)
+La verdad es que sé cómo
+salir d'esta, pero...<PAGE>Ojo por ojo... Al fin y al cabo
+es un problema entre gremios.

@@ -1,0 +1,136 @@
+## POINTER 0
+Sicily
+Oh, buona sera! How 
+are you, my amici?
+
+## POINTER 1
+<STR>(YUR)
+...Apparently we're his friends now.
+
+## POINTER 2
+<STR>(RAV)
+Urgh, it's him again...
+
+## POINTER 3
+<STR>(KAR)
+This is...
+This is the guy we 
+met back in Halure.
+
+## POINTER 4
+<STR>(JUD)
+What are you doing here, sir?
+
+## POINTER 5
+Sicily
+Oh? Ehhh, I was just 
+watching the sun 
+set over the sea!
+
+## POINTER 6
+<STR>(EST_P)
+Just watching the 
+sun set... Really...?
+
+## POINTER 7
+Sicily
+Si, signorina! Perhaps all of 
+us can watch it together?<PAGE>Especially Signor <STR>(RAV)! 
+For him, I am sure something 
+like this is perfetto!
+
+## POINTER 8
+<STR>(YUR)
+He's calling you out, old man.
+
+## POINTER 9
+<STR>(RAV)
+H-hey! How'd I get brought 
+inta all this again...!
+
+## POINTER 10
+<STR>(YUR)
+Well, we'll be waiting for 
+you back at the inn.
+
+## POINTER 11
+<STR>(JUD)
+Heh heh, good luuuck!
+
+## POINTER 12
+<STR>(RAV)
+Good luck, she says...
+What the heck am I
+supposed ta be doing...
+
+## POINTER 13
+Sicily
+You do nothing. That's it.
+Just look ouuuut at the sea!
+
+## POINTER 14
+<STR>(RAV)
+Look ouuuut...at the sea...
+
+## POINTER 15
+Sicily
+Oh! <STR>(RAV), mio amico... 
+Is that a bodhi blastia?
+
+## POINTER 16
+<STR>(RAV)
+Huh? Oh yeah. 
+I can use this ta 
+learn weapon skills.
+
+## POINTER 17
+Sicily
+Hmmm...<PAGE>You know, I hear bodhi blastia, 
+can be used to learn artes even 
+without the weapons equipped!
+
+## POINTER 18
+<STR>(RAV)
+Really? Ya don't say...
+
+## POINTER 19
+Sicily
+In effetti, they say that 
+weapon skills are buried deep 
+under a person's skin.<PAGE>And the weapons are nothing 
+more than a key to bring 
+them out! Or so I hear...
+
+## POINTER 20
+<STR>(RAV)
+Hmmm... Ya sure 
+know a lot about 
+these things.
+
+## POINTER 21
+Sicily
+Well, they are just rumors. 
+I cannot say for certain, but...
+
+## POINTER 22
+<STR>(RAV)
+I see...
+
+## POINTER 23
+Sicily
+Well, I must go! 
+Be well! Arrivederci!
+
+## POINTER 24
+<STR>(RAV)
+...I don't really get that guy...
+
+## POINTER 25
+<STR>(RAV)
+Huh? Wh-what's this...?
+
+## POINTER 26
+<STR>(RAV)
+How in the...? I get the feelin' 
+there's more than meets 
+the eye with that weirdo...

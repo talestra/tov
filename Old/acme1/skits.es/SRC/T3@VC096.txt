@@ -1,0 +1,62 @@
+## POINTER 0 [t:1;r:3;ru:parsec,maz,memnoch;user:xander;time:1266571801]
+Batallas exquisitas
+
+## POINTER 1 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292945]
+(KAR)
+¡Es increíble! ¡Llevamos muchos combates
+sin recibir ni un solo rasguño!
+
+## POINTER 2 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292945]
+(RAV)
+¡Sí! ¡Somos la bomba!
+
+## POINTER 3 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292945]
+(EST_P)
+Sí, no tiene ninguna gracia salir herido,
+por mucho que podamos curarnos.
+
+## POINTER 4 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292945]
+(JUD)
+Aunque debo decirlo, resulta extrañamente
+gratificante ver a los enemigos retorcerse
+de dolor.
+
+## POINTER 5 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292945]
+(RIT)
+Tía... das miedo...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899241]
+(RAP)
+¡Guau!
+
+## POINTER 7 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292945]
+(YUR)
+Las cicatrices son una prueba de hombría.
+¿De qué sirve librar un combate
+si no sales herido?
+
+## POINTER 8 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292945]
+(JUD)
+¿Oh? ¿Es que te gusta que te hagan daño?
+
+## POINTER 9 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292945]
+(YUR)
+No quería decir eso...
+
+## POINTER 10 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292945]
+(RIT)
+No os entiendo en absoluto.
+
+## POINTER 11 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267441631]
+(RAV)
+Creo que (RIT) prefiere
+infligir el doló a otros
+antes que recibirlo.
+
+## POINTER 12 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292945]
+(RIT)
+Así es.
+
+## POINTER 13 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292945]
+(RAV)
+Tú también das miedo...

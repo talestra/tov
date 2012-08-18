@@ -1,0 +1,116 @@
+## POINTER 0
+Sordeth
+Who are you? Travelers, 
+perhaps?
+
+## POINTER 1
+<STR>(KAR)
+Haven't we already met?
+
+## POINTER 2
+<STR>(YUR)
+It looks like he's forgotten.
+
+## POINTER 3
+<STR>(RAV)
+He didn't forget... It's 
+more like...we're back 
+in the past now.
+
+## POINTER 4
+<STR>(JUD)
+Yes. The town's bustling 
+with people now, too.
+
+## POINTER 5
+Sordeth
+What are you whispering 
+about over there?<PAGE>Ah, perhaps you would 
+like to hear an interesting 
+story?
+
+## POINTER 6
+<STR>(RIT)
+I don't have the time 
+to listen to any epic 
+sagas, gramps.
+
+## POINTER 7
+Sordeth
+No, it'll be quite short, I assure you.
+
+## POINTER 8
+<STR>(YUR)
+All right, then. Lay it on us.
+
+## POINTER 9
+Sordeth
+Well, a while ago, I was putting 
+my library in order, you see.<PAGE>And then, out from the stacks of books...
+
+## POINTER 10
+Sordeth
+...And this time, a little 
+mouse came out...
+
+## POINTER 11
+<STR>(RIT)
+...I cannot believe this... He's been talking for two hours now...
+
+## POINTER 12
+<STR>(YUR)
+Err...perhaps you 
+could get to the point 
+of the story?
+
+## POINTER 13
+Sordeth
+What do you mean? This part is very 
+important, and interesting, too!
+
+## POINTER 14
+<STR>(RAV)
+Come on, get ta the good stuff!
+
+## POINTER 15
+Sordeth
+Oh, all right. So, ultimately, 
+I found a certain 
+book in the stacks.<PAGE>And in this book, the following was written:<PAGE>Deep beneath a steep and winding mountain 
+range, on the sixth continent of Yurzorea, 
+slumbers a man who transcends time...<PAGE>When the maiden of beauty sets out on a
+journey, she will come down to the fourth
+dimension, keeping watch over a fiery youth.<PAGE>Receiving the love of heaven, she will descend into 
+a human body, and will revolt against the heavens.<PAGE>Eh? Pretty interesting, don't you think?
+
+## POINTER 16
+<STR>(YUR)
+Is it?
+
+## POINTER 17
+<STR>(EST_P)
+What mysterious proclamations...
+It's very interesting, indeed.
+
+## POINTER 18
+Sordeth
+Would you like to read more? I can 
+give it to you, if you'd like.
+
+## POINTER 19
+<STR>(EST_P)
+You don't mind?
+
+## POINTER 20
+Sordeth
+No, not at all. I've already memorized
+the whole book anyway.
+
+## POINTER 21
+<STR>(EST_P)
+Thank you very much!
+
+## POINTER 22
+<STR>(YUR)
+You sure do like 
+books, <STR>(EST_P).

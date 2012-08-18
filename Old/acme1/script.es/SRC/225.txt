@@ -1,0 +1,205 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_016)¡Ahora mantén el pico cerrado!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_017)¡No te sulfures!
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_018)¡Por favor, tengo que salir de aquí!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_019)Siempre tienes que estar dando la brasa, ¿eh, vejestorio?
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_020)No es de muy buena educación apuntar
+a tus mayores con objetos afilados.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_021)¡Yah!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_022)¡Eh!
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_023)Ya es suficiente.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+
+<VOICE>(VS21_024)Maldita sea...
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279552210]
+<STR>(YUR)
+<VOICE>(VS21_025)¡Una mujer!
+¿Y además krityana?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_026)¿Te encuentras bien?
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_027)Je, perdona.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+
+<VOICE>(VS21_028)Bueno, antes has sido tú
+quien ha ayudado a Ba'ul.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_029)¿Ba'ul?
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_030)Sí. Mi amigo.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_031)Oh, te refieres a aquel monstruo.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+<STR>(YUR)
+<VOICE>(VS21_032)Dime. ¿Por qué vas por
+ahí destruyendo blastias?
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_033)...
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_034)Tampoco pasa nada si no quieres
+hablar de ello.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+
+<VOICE>(VS21_035)Me temo que no es por algo tan
+impresionante como debes imaginar.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_036)Los destruyo simplemente porque quiero.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+<STR>(YUR)
+<VOICE>(VS21_037)Tienes razón. No estoy impresionado en absoluto.<PAGE><VOICE>(VS21_038)También has machacado el blastia
+de Barbos por esa razón.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+
+<VOICE>(VS21_039)Sí, pero no he podido rematar la faena.
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_040)¿Y te importaría dejar en paz este de aquí?
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(JUD)
+<VOICE>(VS21_041)No tiene nada de divertido
+destruir uno tan pequeño como ese.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_042)Je...
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_043)Oye, ¿por qué no colaboramos
+juntos un ratito más?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+
+<VOICE>(VS21_044)Mmm... La verdad es que no he sido capaz
+de acabar con el blastia del tejado.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_045)Bien, entonces.
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_046)Bueno, ¿qué hacemos?
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_047)Mmm... Se me ocurre una idea que
+a lo mejor nos permite salir de aquí.
+
+## POINTER 31 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_048)Bueno, si crees que puede funcionar,
+¿a qué esperas para intentarlo?
+
+## POINTER 32 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279552210]
+
+<VOICE>(VS21_049)Como siempre digo:
+«Los que pueden, deberían».
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+<STR>(YUR)
+<VOICE>(VS21_050)De acuerdo, tú
+sígueme la corriente.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+
+<VOICE>(VS21_051)Haré como digas.
+
+## POINTER 35 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_052)No te preocupes. Aunque me da
+bastante palo hacerle algo así
+a una dama tan guapa.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+
+<VOICE>(VS21_053)...
+
+## POINTER 37 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_054)¡Ah, eso es!
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+
+<VOICE>(VS21_055)¡Ugh!
+
+## POINTER 39 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1279552210]
+
+<VOICE>(VS21_056)¡Estaos quietos!
+
+## POINTER 40 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_057)¡Corta el rollo!
+
+## POINTER 41 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_058)¡Corta TÚ el rollo!
+
+## POINTER 42 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_059)¡He dicho que ya vale!
+
+## POINTER 43 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_060)¡No pienso dejarte pasar esa!
+
+## POINTER 44 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+<STR>(YUR)
+<VOICE>(VS21_061)¡Que alguien me quite de encima
+a la psicópata esta!
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:memnoch;time:1298318598]
+
+<VOICE>(VS21_062)Queréis que os dé
+una buena lección, ¿eh?
+
+## POINTER 46 [t:1;r:2;ru:googol,memnoch;user:xander;time:1274017271]
+
+<VOICE>(VS21_063)¡Uuf!

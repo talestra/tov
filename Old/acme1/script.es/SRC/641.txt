@@ -1,0 +1,99 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+
+<VOICE>(VA030_080)¡Comandante <STR>(FRE) Scifo! ¡Informe de la situación, señor!
+Ahora mismo no hay señal de asaltos de monstruos.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294187862]
+<STR>(FRE)
+<VOICE>(VA030_081)Entendido. Gracias.
+Puedes descansar.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+
+<VOICE>(VA030_082)¡No, señor! ¡Estoy bien!
+Continuaré mi guardia.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294187862]
+<STR>(FRE)
+<VOICE>(VA030_083)Descansar es parte del trabajo. No puedes
+proteger a la gente solo con entusiasmo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+
+<VOICE>(VA030_084)Pe-pero...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+<STR>(FRE)
+<VOICE>(VA030_085)Descansa.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1294187862]
+
+<VOICE>(VA030_086)S-Sí, señor...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294187862]
+
+<VOICE>(VA030_087)Comandante, necesito su visto bueno
+en la distribución de los comestibles.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+<STR>(FRE)
+<VOICE>(VA030_088)Muy bien. Ahora voy.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294187862]
+
+<VOICE>(VA030_089)Comandante <STR>(FRE). Quisiera hablar
+con usted acerca de los materiales
+adicionales de construcción.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294187862]
+<STR>(FRE)
+<VOICE>(VA030_090)Sí, no me he olvidado. Sin embargo, ahora iba
+a supervisar la distribución de la comida.<PAGE><VOICE>(VA030_091)Me temo que tendrás que venir
+conmigo. Lo discutiremos de camino.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+
+<VOICE>(VA030_092)Sí, señor.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+<STR>(YUR)
+<VOICE>(VA030_093)Supongo que no nos pasará nada por
+quedarnos las armas perdidas por ahora.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+<STR>(KAR)
+<VOICE>(VA030_094)¿Eh? ¿Y ese cambio?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+<STR>(RAV)
+<VOICE>(VA030_095)Creo que <STR>(YUR) nos intenta decir
+que tós tenemos un trabajo qu'hacer.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+<STR>(YUR)
+<VOICE>(VA030_096)<STR>(FRE) no podría encargarse
+de las armas perdidas con todo
+el montón de trabajo que tiene.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+<STR>(JUD)
+<VOICE>(VA030_097)Qué amable por tu parte.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1294187862]
+<STR>(YUR)
+<VOICE>(VA030_098)No tiene nada que ver
+con la amabilidad. Vamos.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+<STR>(EST_P)
+<VOICE>(VA030_099)Creo que se ha sonrojado.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1290848581]
+<STR>(RIT)
+<VOICE>(VA030_100)Flipa. Ahora ya lo he visto todo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1290848825]
+<STR>(RAV)
+<VOICE>(VA030_101)Ja, ja, ja. Y así, con las bromas
+de los amigos, los jóvenes de hoy
+forman los vínculos del mañana.

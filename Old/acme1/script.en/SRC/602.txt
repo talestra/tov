@@ -1,0 +1,52 @@
+## POINTER 0
+<STR>(YUR)
+Well, that's another 
+job that ended well.
+
+## POINTER 1
+<STR>(JUD)
+We have to give <STR>(EST_P) the 
+credit this time around.
+
+## POINTER 2
+<STR>(EST_P)
+Who, me...?
+
+## POINTER 3
+<STR>(RIT)
+You're the one who suggested 
+we take it back with us.
+
+## POINTER 4
+<STR>(KAR)
+Yeah, if you hadn't spoken 
+up, <STR>(EST_P), the Harmfall would've 
+gotten left behind.
+
+## POINTER 5
+<STR>(EST_P)
+I-it wasn't really anything. I just...sort 
+of thought we should bring it along.<PAGE>Hm...still...
+
+## POINTER 6
+<STR>(YUR)
+Huh?
+
+## POINTER 7
+<STR>(EST_P)
+It sort of feels like 
+I did my first work 
+for the guild.
+
+## POINTER 8
+<STR>(YUR)
+Heh, that so...?
+
+## POINTER 9
+<STR>(KAR)
+Right on.♪
+
+## POINTER 10
+<STR>(RIT)
+Let's see if we can keep 
+this going in the future.

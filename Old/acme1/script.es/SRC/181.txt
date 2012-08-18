@@ -1,0 +1,18 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837623]
+Ioder
+<VOICE>(VS16_001)Tenéis mi gratitud.
+Me habéis salvado la vida.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837623]
+<STR>(RIT)
+<VOICE>(VS16_002)Oye, ¿quién es este tipo?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837623]
+<STR>(EST_P)
+<VOICE>(VS16_003)Esto, bueno, verás...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240304]
+<STR>(FRE)
+<VOICE>(VS16_004)He hecho los preparativos en la posada.
+Podemos seguir hablando de este asunto
+cuando lleguemos.<PAGE><VOICE>(VS16_005)Vosotros vendréis, ¿verdad?

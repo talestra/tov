@@ -1,0 +1,116 @@
+## POINTER 0
+<STR>(RIT)
+What's this...?
+
+## POINTER 1
+<STR>(KAR)
+Oh, that's a camping set!<PAGE>With this, you can set up 
+camp and sleep without 
+having to go to an inn!
+
+## POINTER 2
+<STR>(RIT)
+Oh, that's nice! Now you can go off and 
+play nature boy whenever we sleep at 
+an inn, and we'll save money, too!
+
+## POINTER 3
+<STR>(KAR)
+Wh-what are you talking 
+about? Camping sets 
+are single-use only!
+
+## POINTER 4
+<STR>(EST_P)
+<STR>(RIT), don't 
+be so mean!
+
+## POINTER 5
+<STR>(RIT)
+Hmph!
+
+## POINTER 6
+<STR>(YUR)
+That sounds really 
+useful, <STR>(KAR).
+
+## POINTER 7
+<STR>(KAR)
+Yeah, they're essential 
+when you're on the road.<PAGE>In addition to camping sets, 
+you could also sleep on mats.<PAGE>But camping sets are really the best 
+thing to use. You can't get a better 
+night's sleep with anything else!
+
+## POINTER 8
+<STR>(EST_P)
+What wonderful timing! 
+All of you look so exhausted 
+from climbing...
+
+## POINTER 9
+<STR>(RIT)
+...You look pretty pooped, yourself.
+
+## POINTER 10
+<STR>(YUR)
+Yeah, we've got a ways to go before 
+we get to town, too. Maybe 
+we should set up camp here?
+
+## POINTER 11
+<STR>(KAR)
+Alright, I'll get everything set up!<PAGE>Oh, once you've camped somewhere, 
+you won't be able to camp around 
+there for a while afterwards.
+
+## POINTER 12
+<STR>(YUR)
+Why's that?
+
+## POINTER 13
+<STR>(KAR)
+After camping at a certain site, the basic barrier that's 
+included in the camping set will stop being effective 
+for a while, so long as you're near that site.
+
+## POINTER 14
+<STR>(RIT)
+Basic barrier? What's that? 
+There's no blastia like that.
+
+## POINTER 15
+<STR>(KAR)
+It's not a blastia, actually.<PAGE>It's just something that gives off a 
+smell that monsters find unpleasant. 
+That's why they call it a "barrier."<PAGE>It can keep the monsters 
+at bay for a night,<PAGE>but after enough time passes, the monsters get used 
+to the smell, and it won't keep you safe anymore.
+
+## POINTER 16
+<STR>(RIT)
+Hmmm...
+That makes 
+sense...
+
+## POINTER 17
+<STR>(YUR)
+Well then, we'll leave the 
+setup to you, <STR>(KAR).
+
+## POINTER 18
+<STR>(KAR)
+All right. Let's set
+up a camp a little
+bit further.
+
+## POINTER 19
+Information
+Set up a camp by using a Mat,
+Simple Tent, Tent or Barrier
+on the Field Map to recover
+HP and TP. The amount of HP
+or TP recovered depends on
+the item. You will not be able to
+use an item to set up camp
+again until after the next battle.

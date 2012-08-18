@@ -1,0 +1,132 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1295906197]
+
+Necesito ver vuestra invitación
+antes de dejaros entrar
+en el coliseo de la cocina.<PAGE>Ah, ¿sois los representantes de los gremios?
+Excelente.<PAGE>Una vez dentro, no se os permitirá
+rendiros ni iros hasta que haya terminado.
+¿Estáis totalmente preparados?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+¿Inscribirse en la competición?
+Sí
+No
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1295992232]
+
+Se ha aceptado vuestra participación.<PAGE>Lo siento muchísimo, pero por razones higiénicas,
+vuestro amigo canino no podrá entrar
+en el coliseo de la cocina.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1295992232]
+<STR>(YUR)
+Lo siento, <STR>(RAP).
+Tendrás que esperar afuera.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(RAP)
+Auuu...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+
+Bueno, ¿quién
+competirá?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1295992232]
+Selecciona un participante:
+<STR>(YUR)
+<STR>(EST_P)
+<STR>(KAR)
+<STR>(RIT)
+<STR>(RAV)
+<STR>(JUD)
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1295992232]
+<STR>(YUR)
+Supongo que lo haré yo. Será interesante
+participar en una batalla donde
+lo que rebane no sean monstruos.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(YUR)
+A por ellos, <STR>(EST_P).
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(EST_P)
+¿Yo? ¿No te importa?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(KAR)
+No, claro que no.
+¡Buena suerte, <STR>(EST_P)!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1295992578]
+<STR>(EST_P)
+¡Va-vale! ¡Haré lo que pueda!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(YUR)
+¡Esto tiene toda la pinta de ser un trabajo
+para el único jefe de la peña, el capitán <STR>(KAR)!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1295992578]
+<STR>(KAR)
+Uuuh... de acuerdo. La reputación
+de todos los gremios está en juego.
+¡Pienso darlo todo!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(YUR)
+¿Quién mejor para competir que <STR>(RIT),
+que actúa como si prefiriese estar en otro lugar?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1295992578]
+<STR>(RIT)
+¡¿Que qué?! ¡Ni hablar! Escoge a otro.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1295992578]
+
+Ups... Ya he inscrito a la
+señorita <STR>(RIT) como la participante.<PAGE>Y de acuerdo a nuestras normas, no se
+puede cambiar una vez se ha inscrito.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(RIT)
+¡Un momento, no jorobes! ¡Es culpa tuya por estar
+feliz de la vida por querer inscribir a alguien!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(YUR)
+¿Un representante de todos
+los gremios? Me parece que
+te toca, viejales.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(RAV)
+Un enfrentamiento con er Imperio, ¿eh?
+Podría ser interesante. Cuenta conmigo.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(YUR)
+Creo que eres la que mejor cocina
+del grupo, <STR>(JUD_P).
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(JUD)
+Déjamelo a mí. No pienso perder.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+<STR>(KAR)
+Pareces muy segura de ti misma.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+
+Para que la calificación sea justa,
+un miembro de cada equipo será un juez.<PAGE>Los jueces se decidirán
+durante la batalla.<PAGE>Y ahora os mostraré
+el área de cocina.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1293741058]
+
+Muy bien, cuando estéis listos
+para competir, decídmelo.

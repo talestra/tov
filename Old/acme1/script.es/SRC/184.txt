@@ -1,0 +1,163 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+<STR>(YUR)
+<VOICE>(VS17_001)Tío, este sitio está hecho trizas.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+<STR>(RIT)
+<VOICE>(VS17_002)¿En serio creéis que iba a venir
+nadie a un sitio como este?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(YUR)
+<VOICE>(VS17_003)Espero que no nos hayan dado
+otra vez información falsa.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(KAR)
+<VOICE>(VS17_004)¿Cómo que otra vez?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+
+<VOICE>(VS17_005)¡Quietos ahí! Esta zona está
+bajo la jurisdicción de
+los Espadas Cazadoras.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+<STR>(KAR)
+<VOICE>(VS17_006)¡Esa voz!
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+
+<VOICE>(VS17_007)Se han tomado medidas para evitar
+que visitantes inocentes resulten heridos.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(KAR)
+<VOICE>(VS17_008)¡Nan!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(KAR)
+<VOICE>(VS17_009)¡Genial! ¡Por fin te encuentro!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+Nan
+<VOICE>(VS17_010)...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+<STR>(KAR)
+<VOICE>(VS17_011)¿Están el jefe y Tison contigo? 
+¿Os las habéis arreglado bien sin mí?
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+Nan
+<VOICE>(VS17_012)No te pongas en plan coleguilla conmigo.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(KAR)
+<VOICE>(VS17_013)Oh, no te pongas así.
+Tan solo me perdí un poco.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+Nan
+<VOICE>(VS17_014)¿Que te perdiste un poco?
+¡Esa sí que es buena! ¡Sabes bien
+que lo hiciste fue huir!
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(KAR)
+<VOICE>(VS17_015)¡No huí, lo juro!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+Nan
+<VOICE>(VS17_016)Sigues poniendo excusas, ¿eh?
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(KAR)
+<VOICE>(VS17_017)¡No es ninguna excusa!
+¡Conseguí cazar un oso ovíparo,
+tal y como dije que haría!
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+Nan
+<VOICE>(VS17_018)Más mentiras.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+<STR>(KAR)
+<VOICE>(VS17_019)¡L-Lo digo en serio!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+Nan
+<VOICE>(VS17_020)¿Así es como pagas a los Espadas
+Cazadoras que te acogiéramos?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+Nan
+<VOICE>(VS17_021)Recuérdame quién fue el que dijo aquello de:
+«Juro que no huiré esta vez».<PAGE><VOICE>(VS17_022)Siempre sales huyendo al primer
+indicio de problemas. No ha habido
+gremio del que no te hayan echado.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(KAR)
+<VOICE>(VS17_023)¡Cállate!
+¡Cierra la boca!
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273479763]
+Nan
+<VOICE>(VS17_024)¡Ja! ¡Hasta nosotros
+te hemos despedido ya!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+<STR>(KAR)
+<VOICE>(VS17_025)¡E-Espera!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+Nan
+<VOICE>(VS17_026)¡Los Espadas Cazadoras ya os han
+avisado! ¡Idos de aquí de inmediato!<PAGE><VOICE>(VS17_027)Si no hacéis caso de esta advertencia,
+pondréis vuestras vidas en peligro.
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(KAR)
+<VOICE>(VS17_028)¡Nan!
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(EST_P)
+<VOICE>(VS17_031)...
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(YUR)
+<VOICE>(VS17_032)Esto no nos explica
+qué hacen aquí
+los Espadas Cazadoras.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(RIT)
+<VOICE>(VS17_033)Bien visto.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+<STR>(EST_P)
+<VOICE>(VS17_034)<STR>(RIT), espera.
+¿Te has olvidado de la advertencia?
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(RIT)
+<VOICE>(VS17_035)Tampoco es que haya dicho
+que nos prohíba entrar.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+<STR>(EST_P)
+<VOICE>(VS17_036)¿Y qué me dices de lo de «poner
+nuestras vidas en peligro»?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1298241031]
+<STR>(RIT)
+<VOICE>(VS17_037)¿Insinúas que debería hacerle
+caso a esa mocosa petarda?
+No me hagas reír.
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272839728]
+<STR>(YUR)
+<VOICE>(VS17_038)En cualquier caso, no parece
+que el Pacto de Sangre esté por aquí.
+Vamos a echar un vistazo.

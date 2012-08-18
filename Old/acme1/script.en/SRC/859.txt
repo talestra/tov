@@ -1,0 +1,138 @@
+## POINTER 0
+<STR>(KAR)
+The flowers are blooming so beautifully today...
+
+## POINTER 1
+<STR>(JUD)
+It must be because of the ghost!
+
+## POINTER 2
+<STR>(EST_P)
+Yes, it must be! ♪
+
+## POINTER 3
+<STR>(RAV)
+Hey, speakin' of ghosts, where's <STR>(RIT)?
+
+## POINTER 4
+<STR>(EST_P)
+She said something about looking at 
+a blastia, and climbed up the tree.
+
+## POINTER 5
+<STR>(YUR)
+She's certainly got a lot of energy.
+
+## POINTER 6
+<STR>(EST_P)
+I've read that Halure's name comes from the three types of trees: 
+the harmonea, the luluria, and the reren. The beginnings of 
+their names come together to form the name of the town...
+
+## POINTER 7
+<STR>(YUR)
+Spoken like a true bookworm, 
+born and bred.
+
+## POINTER 8
+<STR>(EST_P)
+...I don't see what's 
+so wrong about that...
+
+## POINTER 9
+<STR>(EST_P)
+I've made up my mind. Once we're done with 
+our journey, I'm going to live here.
+
+## POINTER 10
+<STR>(KAR)
+Huh? You're not going back to the castle?
+
+## POINTER 11
+<STR>(EST_P)
+I can go to the castle from 
+here, if I need to.<PAGE>If I spend all of my time cooped up 
+in the castle, I'm afraid I'll get 
+swept up in all of the chaos there.
+
+## POINTER 12
+<STR>(RAV)
+So why not just leave all 
+that castle stuff ta Master 
+Ioder so ya can relax?
+
+## POINTER 13
+<STR>(EST_P)
+I can't do that!
+
+## POINTER 14
+<STR>(YUR)
+<STR>(EST_P) can't just spend her life 
+goofing off like you can, Old Man.
+
+## POINTER 15
+<STR>(RAV)
+Now hold on, ol' <STR>(RAV)'s living 
+his life pretty seriously, 
+I'll have ya know.
+
+## POINTER 16
+<STR>(KAR)
+Really? How so?
+
+## POINTER 17
+<STR>(RAV)
+Whaddaya mean "how so"...
+
+## POINTER 18
+<STR>(RIT)
+What a silly conversation... You 
+all don't have anything more productive 
+you could be doing?
+
+## POINTER 19
+<STR>(KAR)
+This from the tree-climbing blastia hunter...
+
+## POINTER 20
+<STR>(RIT)
+I'll have you know, I've been examining the blastia 
+here to evaluate its potential for spirit conversion.
+
+## POINTER 21
+<STR>(EST_P)
+So, did you discover anything?
+
+## POINTER 22
+<STR>(RIT)
+It's no good. The blastia here is resonating 
+with Halure's tree, and it's making some sort 
+of configuration I've never seen before.<PAGE>It does seem like it's made an elemental 
+spirit on its own...as I suspected.<PAGE>But we're short on time right now, so I'll have 
+to come back later to study it some more...
+
+## POINTER 23
+<STR>(EST_P)
+R-really?!
+
+## POINTER 24
+<STR>(RIT)
+...Huh? Well, yeah...<PAGE>...What's up with you...?
+
+## POINTER 25
+<STR>(JUD)
+<STR>(EST_P) was just telling us how she wants 
+to live here once our journey is over.
+
+## POINTER 26
+<STR>(RIT)
+Really...? Oh, I, I see..
+
+## POINTER 27
+<STR>(YUR)
+All right, then if I'm not mistaken, we have 
+an Adephagos we need to go take care of.
+
+## POINTER 28
+<STR>(EST_P)
+Yes.

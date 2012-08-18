@@ -1,0 +1,536 @@
+## POINTER 2000 [t:1;r:1;ru:memnoch;user:memnoch;time:1296930436]
+Eres un Caballero, ¿verdad?
+¿Eh? ¿No lo eres?
+
+## POINTER 2001 [t:1;r:1;ru:memnoch;user:memnoch;time:1296930436]
+¡Los Caballeros van
+a proteger esta ciudad!
+¡Estaremos a salvo!<PAGE>Quizá debería
+unirme a ellos.
+
+## POINTER 2002 [t:1;r:1;ru:memnoch;user:memnoch;time:1301950901]
+Oiga, señor,
+¿no va a unirse
+a los Caballeros?
+
+## POINTER 2003 [t:1;r:1;ru:memnoch;user:memnoch;time:1296930436]
+¡Aaaah! ¡Tengo miedo!
+¡Hay un monstruaco
+enorme en el cielo!
+
+## POINTER 2004 [t:1;r:1;ru:memnoch;user:memnoch;time:1296930436]
+¡Va a caer!
+¡Va a caer sobre nosotros!
+¡Nos va a hacer papilla!
+
+## POINTER 2005 [t:1;r:1;ru:memnoch;user:memnoch;time:1301950901]
+A-Aún nos estamos preparando...
+Por favor, vuelve más tarde.
+
+## POINTER 2006 [t:1;r:1;ru:memnoch;user:memnoch;time:1301950901]
+T-Todavía no hemos abierto... 
+¡¿Eh?! ¿Sospechoso? ¡Para nada, mi  
+comportamiento es totalmente normal!
+
+## POINTER 2007 [t:1;r:1;ru:memnoch;user:memnoch;time:1301950901]
+Bi-bienvenidos.
+Un grupo de seis... y, eh,
+¿un perro? Serán 400 gald.
+
+## POINTER 2008 [t:1;r:1;ru:memnoch;user:memnoch;time:1301950901]
+Vuelve cuando
+necesites descansar.
+
+## POINTER 2009 [t:1;r:1;ru:memnoch;user:memnoch;time:1302008005]
+¡¿Has conseguido cruzar el desierto?!
+Te has ganado un merecido descanso.
+Aun así, siguen siendo 400 gald.
+
+## POINTER 2010 [t:1;r:1;ru:memnoch;user:memnoch;time:1302008005]
+Tómate tu tiempo y disfruta.
+Todas las noches de Mantaic
+deberían ser como esta.
+
+## POINTER 2011 [t:1;r:1;ru:memnoch;user:memnoch;time:1302008005]
+Normalmente hay un toque de queda
+a las doce, ¡pero hoy podemos
+quedarnos fuera toda la noche!
+
+## POINTER 2012 [t:1;r:1;ru:memnoch;user:memnoch;time:1302008005]
+Tómate tu tiempo y disfruta. Todas
+las noches de Mantaic deberían ser
+como esta. Son 400 gald la habitación.
+
+## POINTER 2013 [t:1;r:1;ru:memnoch;user:Mashmallow;time:1299522824]
+¡Bienvenido, bienvenido! 
+Seguro que estás cansado. 
+Son 400 gald la habitación.
+
+## POINTER 2014 [t:1;r:1;ru:memnoch;user:Mashmallow;time:1299522824]
+¡Bienvenido! He oído muchos rumores 
+inquietantes últimamente. 
+Son 400 gald la habitación.
+
+## POINTER 2015 [t:1;r:1;ru:memnoch;user:memnoch;time:1302008005]
+¡Bienvenido! 
+Tenemos una cena deliciosa y camas 
+de lo más mulliditas por 400 gald.
+
+## POINTER 2016 [t:1;r:1;ru:memnoch;user:memnoch;time:1302026547]
+Lárgate de aquí.
+Eres un incordio.
+
+## POINTER 2017 [t:1;r:1;ru:memnoch;user:memnoch;time:1296930436]
+...
+...
+... Calla.
+
+## POINTER 2018 [t:1;r:1;ru:memnoch;user:memnoch;time:1302026547]
+¡Anda! ¡Pero si sois vosotros!
+¿Os sirvieron mis cantimploras
+para salir vivos del desierto?<PAGE>Podéis quedároslas si queréis.
+Son vuestras. ¡Es mi forma de
+celebrar nuestra nueva libertad!
+
+## POINTER 2019 [t:1;r:1;ru:memnoch;user:memnoch;time:1302026547]
+La brigada de <STR>(FRE) es una pasada,
+¡pero vosotros también lo sois!
+
+## POINTER 2020 [t:1;r:1;ru:memnoch;user:memnoch;time:1302026547]
+Hace un rato han
+pasado unos cuantos
+Caballeros por aquí.<PAGE>Casi me da un síncope;
+creía que volvían para
+apoderarse otra vez del pueblo.
+
+## POINTER 2021 [t:1;r:1;ru:memnoch;user:memnoch;time:1302026547]
+Por suerte no
+ha pasado nada.<PAGE>¿A qué venía esto, por cierto?
+
+## POINTER 2022 [t:1;r:1;ru:memnoch;user:memnoch;time:1302027072]
+Bienvenido... o eso me gustaría decir,
+pero el Servicio Transatlántico Trino
+no está disponible ahora mismo.<PAGE>El magistrado dice que hundirá
+cualquier barco que leve anclas.
+¿Te lo puedes creer?
+
+## POINTER 2023 [t:1;r:1;ru:memnoch;user:Lia;time:1300120159]
+El Servicio Transatlántico Trino es un
+gremio náutico. Ni el viento ni la lluvia
+pueden parar nuestro barco, el Stratos...<PAGE>Pero no hay nada que
+hacer contra las tormentas.
+
+## POINTER 2024 [t:1;r:1;ru:memnoch;user:Lia;time:1300120159]
+Bienvenido... o eso me gustaría decir,
+pero el Servicio Transatlántico Trino
+aún no está disponible.
+
+## POINTER 2025 [t:1;r:1;ru:memnoch;user:memnoch;time:1302027072]
+¡Están reparando el Stratos,
+el buque insignia del Servicio
+Transatlántico Trino!<PAGE>Me temo que tendrás que esperar un poco más
+hasta poder hacer uso de nuestros servicios.
+
+## POINTER 2026 [t:1;r:1;ru:memnoch;user:Lia;time:1300120159]
+Bienvenido... Aunque sería mentira,
+¿verdad? El Servicio Transatlántico
+Trino no está disponible ahora mismo.
+
+## POINTER 2027 [t:1;r:1;ru:memnoch;user:memnoch;time:1302027072]
+Dicen que Don Whitehorse 
+ha fallecido.<PAGE>No podemos confirmar cómo
+van las cosas en Capua Torim,
+así que no podemos zarpar.
+
+## POINTER 2028 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Bienvenido... Perdona, estaba de guasa.
+*Suspiro* El Servicio Transatlántico
+Trino no está disponible ahora mismo.
+
+## POINTER 2029 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Nuestro gremio náutico, el Servicio Transatlántico
+Trino, le ha prestado el Stratos a los Caballeros.
+Lo necesitan para ayudar a los evacuados.<PAGE>Me temo que ahora no podemos proporcionar
+un servicio regular. Entiéndelo, por favor.
+
+## POINTER 2030 [t:1;r:1;ru:memnoch;user:Lia;time:1300120159]
+Bienvenido... Oh, ojalá pudiese
+decir eso. El Servicio Transatlántico
+no está disponible en estos momentos.
+
+## POINTER 2031 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+¡Ha aparecido en el mar
+una estructura rarísima!<PAGE>Dicen que hasta atrae a los barcos.
+Es muy peligroso, así que el Servicio
+Transatlántico está suspendido.
+
+## POINTER 2032 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Bienvenido... Oh, para qué narices
+insisto. El Servicio Transatlántico
+está completamente suspendido.
+
+## POINTER 2033 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+El Servicio Transatlántico
+Trino hace meses que no zarpa.<PAGE>
+El gremio anda corto de dinero por todo
+el tiempo que nos retuvieron el barco.
+Oh, ya no sé ni lo que digo...
+
+## POINTER 2034 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+¿Qué es esa torre?<PAGE>Espero que no interfiera con
+el funcionamiento del barco...
+
+## POINTER 2035 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+¡No tiene nada que ver con el mar
+porque ha pasado en la montaña!
+Pero mejor no digo nada...
+
+## POINTER 2036 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+¡Bienvenido! ¡Bienvenido
+a Transportes Trino!<PAGE>¿El Servicio Transatlántico?
+No nos daba ni para pipas, así que
+cambiamos nuestro modelo de negocio.
+
+## POINTER 2037 [t:1;r:1;ru:memnoch;user:memnoch;time:1304364160]
+¡Últimamente ha habido un montón
+de catástrofes cataclísmicas en el
+cielo, en el mar y en la tierra!<PAGE>Así como están las cosas,
+el servicio de transportes
+se está forrando.
+
+## POINTER 2038 [t:1;r:1;ru:memnoch;user:Lia;time:1300123909]
+¡Bienvenido, eche un vistazo
+a nuestras mercancías!
+
+## POINTER 2039 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Últimamente nos fríen a impuestos
+y la tienda no nos sale rentable.<PAGE>¿Podría comprar
+algo más, por favor?
+
+## POINTER 2040 [t:1;r:1;ru:memnoch;user:memnoch;time:1301951027]
+¡Bienvenido! ¡Pueden
+cambiar los magistrados,
+pero no nuestro servicio!
+
+## POINTER 2041 [t:1;r:1;ru:memnoch;user:memnoch;time:1296930436]
+Vuelve cuando quieras.
+
+## POINTER 2042 [t:1;r:1;ru:memnoch;user:Lia;time:1300205000]
+¡Bienvenido! ¡Tenemos todo lo
+que necesitas a un buen precio!
+
+## POINTER 2043 [t:1;r:1;ru:memnoch;user:Lia;time:1300205000]
+¡Bienvenido! Coge y echa un
+vistazo a todo lo que quieras.
+
+## POINTER 2044 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Esto me da mala espina...
+Los burócratas no dejan
+de hablar de dinero.<PAGE>¿Es que no podemos jugar
+al juego y punto?
+
+## POINTER 2045 [t:1;r:1;ru:memnoch;user:Lia;time:1300205000]
+<mini>¡Es un duelo!
+
+## POINTER 2046 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Existe cierto romanticismo en
+los dados. ¡Y yo pienso ser
+el rey de los juegos de dados!
+
+## POINTER 2047 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Puedo sentir los latidos de
+los dados... ¿Esto es amor?
+
+## POINTER 2048 [t:1;r:1;ru:memnoch;user:memnoch;time:1296930436]
+Vuelve cuando quieras.
+
+## POINTER 2049 [t:1;r:1;ru:memnoch;user:memnoch;time:1301951027]
+¿Puedes sentirlo?
+El corazón del dado...<PAGE>Sí, el helado
+corazón del dado...
+Perdona, era broma.
+
+## POINTER 2050 [t:1;r:1;ru:memnoch;user:memnoch;time:1304529344]
+Los dados están hechos de piedras, y las
+piedras son omniscientes. Conocen la altura
+del cielo, la profundidad del océano...<PAGE>Pero ¿saben dónde están escondidos
+los ahorros secretos de mi mujer?
+Esa es una buena pregunta...
+
+## POINTER 2051 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Todo es posible mientras
+tenga mis dados...
+Solía creer eso.
+
+## POINTER 2052 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+¿Quieres que juguemos a los
+dados? Perfecto. Un momento,
+esa jovencita no está contigo.<PAGE>Pues me temo que
+sin ella no puedo
+tomármelo en serio.
+
+## POINTER 2053 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Solo desafío a aquellos
+que me interesan.<PAGE>No puedo ir usando
+los dados todo el rato.
+¡Pobrecillos!
+
+## POINTER 2054 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Mi colección es de diez mil
+dados. Tengo que admitir
+que es impresionante.
+
+## POINTER 2055 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Si estás cansado, ¿por qué no
+te sientas un rato a jugar a los
+dados conmigo? Te sentará bien.
+
+## POINTER 2056 [t:1;r:1;ru:memnoch;user:Lia;time:1300206809]
+Los dados son el entretenimiento
+perfecto. Giran y giran... Esto sí
+que es el camino a la iluminación.
+
+## POINTER 2057 [t:1;r:1;ru:memnoch;user:Lia;time:1300207388]
+Cualquier problema que tenga este mundo
+no tendría importancia si la gente lo
+consultase tranquilamente con los dados.
+
+## POINTER 2058 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+No hay que pensar en las desgracias
+que te hayan ocurrido, sino mantener
+la calma y ser uno con los dados.<PAGE>¡Nnngh!
+No puedo ver nada...
+
+## POINTER 2059 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+¡Mmmgh! ¿Lo ves?
+¡Los dados están temblando
+y gritando de sufrimiento!<PAGE>¿Eh? ¿Qué hay
+un terremoto?
+
+## POINTER 2060 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033316]
+¡Los juegos de dados no son para evadirse
+de la realidad! Ni hablar. Son una técnica en
+la que se es testigo del principio del mundo.
+
+## POINTER 2061 [t:1;r:1;ru:memnoch;user:Lia;time:1300207697]
+Los dados son como cristales que
+conservan todos los recuerdos
+del mundo. Míralos...<PAGE>Este me recuerda a
+la cara de mi mujer.
+
+## POINTER 2062 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Ahora mismo estamos fuera del negocio
+porque el magistrado se lleva un
+porcentaje a través de los impuestos.<PAGE>Lo siento muchísimo.
+
+## POINTER 2063 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033026]
+Estoy aquí porque
+se está de muerte.<PAGE>Algún día montaré
+aquí un chiringuito.
+
+## POINTER 2064 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033868]
+Ahora que Ragou no está,
+va a venir un nuevo magistrado.<PAGE>Espero que ponga
+impuestos razonables...
+
+## POINTER 2065 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033868]
+Solo faltan unos meses más... Algún día
+tendré una maravillosa gama de artículos
+que vender. Sin lugar a dudas.
+
+## POINTER 2066 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033868]
+Aun con el nuevo magistrado,
+los impuestos siguen por las nubes...<PAGE>Supongo que las tarifas impuestas
+por esos ruines burócratas
+no van a bajar fácilmente.
+
+## POINTER 2067 [t:1;r:1;ru:memnoch;user:Lia;time:1300209123]
+¿Cuándo podré volver
+al negocio de siempre?...
+
+## POINTER 2068 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033868]
+Todo se ha salido de madre en
+Tolbyccia, por la muerte del Don,
+y también en el Imperio.<PAGE>No tengo ni idea de cuándo
+podré abrir otra vez la tienda.
+
+## POINTER 2069 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033868]
+¿Y ahora cómo
+me voy a ganar
+la vida?
+
+## POINTER 2070 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033868]
+*Suspiro* Me estoy quedando sin
+ahorros porque sigo pagando cada
+día el alquiler de este sitio...<PAGE>¿Que por qué sigo aquí? Pues porque
+no pienso dejar que un puesto tan bueno
+como este se me escape de las manos.
+
+## POINTER 2071 [t:1;r:1;ru:memnoch;user:memnoch;time:1302033868]
+Puede que mis prioridades sean
+retorcidas, pero no pienso
+abandonar nunca este puesto.
+
+## POINTER 2072 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+Te juego que mi suerte
+es aún peor que cuando
+Ragou estaba al mando.<PAGE>¿Crees que podría ser porque
+estoy obsesionado con este sitio?
+
+## POINTER 2073 [t:1;r:1;ru:memnoch;user:Lia;time:1300286963]
+Tal vez debería dejar este lugar
+y abrir una tienda en otra ciudad.
+Quizá me traería suerte...
+
+## POINTER 2074 [t:1;r:1;ru:memnoch;user:Lia;time:1300286963]
+Aún tengo el corazón a mil...<PAGE>Jamás había visto
+algo tan increíble.
+
+## POINTER 2075 [t:1;r:1;ru:memnoch;user:Lia;time:1300286963]
+Sigo en shock...<PAGE>Soy un cobarde.
+
+## POINTER 2076 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+¡Me he decidido!
+¡Pienso hacer un pacto
+suicida en este sitio!<PAGE>No importa lo que piensen
+los demás, aquí es donde
+estableceré mis negocios.
+
+## POINTER 2077 [t:1;r:1;ru:memnoch;user:Lia;time:1300288230]
+Si sobrevivo y si puedo vender
+mis mercancías libremente,
+vuelve y cómprame algo, anda.<PAGE>Te estaré esperando.
+
+## POINTER 2078 [t:1;r:1;ru:memnoch;user:Lia;time:1300288828]
+Había un hombre vestido todo
+de negro rondando por aquí.
+Era la mar de sospechoso.<PAGE>Y pensar que es el verdugo
+que contrató el magistrado...
+No me gusta un pelo esta época.
+
+## POINTER 2079 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+¡Un hombre con dos dedos de frente
+nunca se pone en peligro! Me gustaría
+establecer mis negocios aquí.<PAGE>Pero en este mundo puedes
+acabar bajo tierra sin haber
+hecho nada malo... Es increíble.
+
+## POINTER 2080 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+He oído un sonido metálico que venía
+de ese callejón. No podía ver tres
+en un burro porque era de noche.<PAGE>Creía que estaban matando a alguien...
+Supongo que en esta ciudad
+algo así no es tan descabellado.
+
+## POINTER 2081 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+¿Has... has salido
+de ese callejón?<PAGE>Jamás me habría imaginado
+que robarías para poder
+pagar los impuestos.
+
+## POINTER 2082 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+Siempre me quedo sin mercancías
+cuando no llegan nuevas por culpa
+de las malas condiciones del mar.<PAGE>Pero jamás había visto
+algo así. ¿Por qué está
+el mar tan encrespado?
+
+## POINTER 2083 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+Salvo que tenga
+algo que vender,
+mañana no comeré.<PAGE>Desde que vino el magistrado,
+es el pan nuestro de cada día.
+
+## POINTER 2084 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+Anda, por fin
+se ha aclarado.<PAGE>Menos mal, un
+cielo despejado
+te calma un poco.
+
+## POINTER 2085 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+Ojalá el magistrado admitiese
+sus errores, como toda buena
+persona bajo estos cielos...<PAGE>Aunque sé que es imposible.
+
+## POINTER 2086 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+Las rutas de navegación para los barcos
+de carga siguen siendo tan inseguras...<PAGE>¡Y todo por culpa de Fortuna
+Mercantil, que los monopoliza!
+
+## POINTER 2087 [t:1;r:1;ru:memnoch;user:Lia;time:1300292636]
+Tal vez debería averiguar si Fortuna
+Mercantil me dejaría unirme a ellos...
+
+## POINTER 2088 [t:1;r:1;ru:memnoch;user:Lia;time:1300308322]
+Parece ser que Fortuna Mercantil
+tiene sus propias rutas de navegación
+para sus barcos de carga...<PAGE>Una de ellas pasa por los témpanos de
+hielo del norte. ¡Es imposible que la
+gente normal compita contra algo así!
+
+## POINTER 2089 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+Me han dicho que tienen que llevar
+sus mercancías por terrenos muy
+peligrosos. ¡Se juegan la piel!
+
+## POINTER 2090 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+El puerto está lleno de buques
+de guerra, y ha aparecido una
+extraña construcción en el mar.<PAGE>¿De dónde narices
+Fortuna Mercantil
+saca sus mercancías?
+
+## POINTER 2091 [t:1;r:1;ru:memnoch;user:Lia;time:1300461774]
+Incluso en los tiempos que
+corren, a la tienda de ahí
+le sale todo a pedir de boca.<PAGE>Creo... creo que quiero
+unirme a Fortuna Mercantil.
+
+## POINTER 2092 [t:1;r:1;ru:memnoch;user:memnoch;time:1304553361]
+El mundo se está yendo a
+tomar viento, así que decidí
+unirme a Fortuna Mercantil...<PAGE>
+Pero cuando fui allí, ¡me dijeron
+que tenía que pagar una fianza
+del contrato que flipas colorines!
+
+## POINTER 2093 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+Supongo que, al fin y al cabo,
+los ciudadanos tenemos que unir
+fuerzas y trabajar unidos...
+
+## POINTER 2094 [t:1;r:1;ru:memnoch;user:Lia;time:1300461774]
+Pero qué más da
+allí que aquí...
+¡Ya estoy harto!<PAGE>Perdona, me he
+distraído un poco.
+
+## POINTER 2095 [t:1;r:1;ru:memnoch;user:Lia;time:1300462343]
+Me pregunto si esto es el
+fin del mundo... ¿Estará
+bien que haga algo así?
+
+## POINTER 2096 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+Terremotos, las montañas del norte se
+desmoronan... Para qué te voy a mentir,
+me gustaría salir por patas de aquí.<PAGE>Pero no puedo abandonar el lugar
+en el que nací, y mucho menos
+salir de la barrera, ¿no crees?
+
+## POINTER 2097 [t:1;r:1;ru:memnoch;user:Lia;time:1300462343]
+La gente de la tienda de al lado
+está dándolo todo. Supongo que
+yo también debería hacerlo.
+
+## POINTER 2098 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+¿Sois viajeros? Tened mucho cuidado.
+Los magistrados de esta ciudad
+son malvados hasta decir basta.<PAGE>No solo exigen los impuestos
+a sus ciudadanos, sino que también
+hacen pagar a los viajeros.
+
+## POINTER 2099 [t:1;r:1;ru:memnoch;user:memnoch;time:1302034789]
+Nuestros magistrados son
+malvados. No se lo piensan
+dos veces en matar a alguien.<PAGE>No deberías quedarte por aquí
+si crees que estás en peligro.

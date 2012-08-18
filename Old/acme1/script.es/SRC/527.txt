@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1286989928]
+<STR>(YUR)
+Madre mía, esto está
+a rebosar de gente.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1286978519]
+<STR>(EST_P)
+¿Han evacuado todos a través
+de los Bancos Afilados?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1286978519]
+<STR>(KAR)
+Creo que han escapado hacia
+Tolbyccia, por Torim.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1286978519]
+<STR>(JUD)
+Quizás los barcos
+vuelven a funcionar.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153759]
+<STR>(RAV)
+Cualquiera huiría,
+viendo cómo está el cielo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1286978519]
+<STR>(RIT)
+Bueno, voy a comprar.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:kaene;time:1286978519]
+<STR>(EST_P)
+¿Puedo ir contigo?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291153765]
+<STR>(RIT)
+Mm, vale.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1286978519]
+<STR>(RIT)
+Vosotros esperad en la posada.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1286978519]
+<STR>(YUR)
+Vale.

@@ -1,0 +1,109 @@
+## POINTER 0
+
+Red...so very red... This 
+year's especially bad...
+
+## POINTER 1
+<STR>(EST_P)
+What's the matter, Mayor?
+
+## POINTER 2
+
+Oh ho. You're back?
+
+## POINTER 3
+<STR>(EST_P)
+What about something being red?
+
+## POINTER 4
+
+Oh, it's just that this year's flowers are an especially deep 
+shade of red, so I was thinking that the curse of the caged 
+emperor's bride must be particularly strong this year...<PAGE>But... I'm just joking, 
+of course.
+
+## POINTER 5
+<STR>(YUR)
+Who's this caged emperor's bride supposed to be?
+
+## POINTER 6
+<STR>(EST_P)
+About 300 years ago, the emperor at the 
+time, Brimstone the Fourth, planted a tree 
+on the perimeter of Halure's barrier.<PAGE>He lived all of his later years shut up inside his castle, 
+so people took to calling him the caged emperor.
+
+## POINTER 7
+<STR>(YUR)
+It's always so educational to have you around, <STR>(EST_P).
+
+## POINTER 8
+<STR>(EST_P)
+But what does the caged emperor's 
+bride have to do with this tree?
+
+## POINTER 9
+
+Legend has it that the caged emperor 
+murdered his fiancee, and buried her corpse 
+beneath the roots of this tree.<PAGE>The tree gets its red color from the murdered 
+bride's blood, which its roots absorb.
+
+## POINTER 10
+<STR>(RIT)
+Wha... What the hell...
+
+## POINTER 11
+
+It's really nothing more than a legend.
+
+## POINTER 12
+<STR>(YUR)
+Of course. There's no way a tree 
+could keep sucking up someone's 
+blood for centuries, anyway.
+
+## POINTER 13
+
+Yes. But I'm worried that this macabre 
+tale will spread and drive potential 
+visitors away from our town.
+
+## POINTER 14
+<STR>(EST_P)
+U-ummm...then don't you think 
+it's a bad idea telling 
+it to travelers like us?
+
+## POINTER 15
+
+I...uhh... Oops. Okay, forget all about 
+that story I just told you, could you?
+
+## POINTER 16
+<STR>(KAR)
+How are we supposed to forget something like that?!
+
+## POINTER 17
+
+If you don't forget it, the 
+caged emperor's bride will hold 
+a grudge against you...
+
+## POINTER 18
+<STR>(RIT)
+C-cut it 
+out...!
+
+## POINTER 19
+<STR>(YUR)
+There you go again! You're just 
+reinforcing the legend.
+
+## POINTER 20
+
+Oops...
+
+## POINTER 21
+<STR>(EST_P)
+...There's no way that story's true...

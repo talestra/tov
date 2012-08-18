@@ -1,0 +1,299 @@
+## POINTER 200
+Blade Drifts of Zopheir 11(Rabbio: Female)/Weather B
+
+## POINTER 201
+Blade Drifts of Zopheir 12(Golem: Arm Sled）/Weather B
+
+## POINTER 202
+Blade Drifts of Zopheir 13(Wolf: White)/Weather B
+
+## POINTER 203
+Blade Drifts of Zopheir 14(Merfish: Electric Catfish）/Weather B
+
+## POINTER 204
+Blade Drifts of Zopheir 15(Balloon Ghost: Blizzard)/Weather B
+
+## POINTER 205
+Baitojoh(Karol Battle)
+
+## POINTER 206
+Baitojoh(Party Battle)
+
+## POINTER 207
+Destroyed Zaphias Castle 01（Big Sword: Alexei Brigade)/Weather B
+
+## POINTER 208
+Destroyed Zaphias Castle 02（Long Spear: Alexei Brigade)/Weather B
+
+## POINTER 209
+Destroyed Zaphias Castle 03（Staff)/Weather B
+
+## POINTER 210
+Destroyed Zaphias Castle 04（Robot）/Weather B
+
+## POINTER 211
+Destroyed Zaphias Castle 05（Robot Cutter）/Weather B
+
+## POINTER 212
+Destroyed Zaphias Castle 06_01（Wolf)/Weather B
+
+## POINTER 213
+Destroyed Zaphias Castle 07_01（Axe Beak)/Weather B
+
+## POINTER 214
+Destroyed Zaphias Castle 08_01（Egg Bear)/Weather B
+
+## POINTER 215
+Destroyed Zaphias Castle 09_01（Giant Bee)/Weather B
+
+## POINTER 216
+Destroyed Zaphias Castle 10_01（Mandragora)/Weather B
+
+## POINTER 217
+Estellise(Party Battle)
+
+## POINTER 218
+Estellise(Yuri Battle)
+
+## POINTER 219
+Zaude 01（Big Axe: Alexei Brigade)/Weather AB
+
+## POINTER 220
+Zaude 02（Big Sword: Alexei Brigade)/Weather AB
+
+## POINTER 221
+Zaude 03（Long Spear: Alexei Brigade)/Weather AB
+
+## POINTER 222
+Zaude 04（Staff)/Weather AB
+
+## POINTER 223
+Zaude 05（Robot: Big Cannon）/Weather AB
+
+## POINTER 224
+Zaude 06（Leviathan's Claw/Katar)/Weather AB
+
+## POINTER 225
+Zaude 11（Leviathan's Claw/Bowgun）/Weather AB
+
+## POINTER 226
+Zaude 07（Squid Plant)/Weather AB
+
+## POINTER 227
+Zaude 08（Crab Man: Gun)/Weather AB
+
+## POINTER 228
+Zaude 09（Lizardman)/Weather AB
+
+## POINTER 229
+Zaude 10（Merfish: Red Shark）/Weather AB
+
+## POINTER 230
+Poseidon/Weather AB
+
+## POINTER 231 [user:memnoch;time:1265369687]
+Yeager
+
+## POINTER 232 [user:memnoch;time:1286139983]
+Yeager (Showing Heart）
+
+## POINTER 233 [user:memnoch;time:1297200358]
+Guardia Real de Alexei 2
+
+## POINTER 234 [user:memnoch;time:1265369687]
+Alexei
+
+## POINTER 235
+Adephagos Illusion 2
+
+## POINTER 236
+Large Pack of Monsters (together with Flynn)
+
+## POINTER 237
+Erealumen 01（Tortoise: Quartz)/Weather AB
+
+## POINTER 238
+Erealumen 02（Wolf: One Horn)/Weather AB
+
+## POINTER 239
+Erealumen 03（Stag Beetle: Caucasus）/Weather AB
+
+## POINTER 240
+Erealumen 04（Sworpion: Sword)/Weather AB
+
+## POINTER 241
+Erealumen 05（Crystal Spirit)/Weather AB
+
+## POINTER 242
+Erealumen 06（Hunting Blades: Big Sword)/Weather A
+
+## POINTER 243
+Erealumen 07（Hunting Blades: Thief)/Weather A
+
+## POINTER 244
+Erealumen 08（Hunting Blades: Mage)/Weather A
+
+## POINTER 245
+Erealumen 09（Rhybgaro: Super Unicorn)/Weather B
+
+## POINTER 246
+Erealumen 10（Mimic: Magic）/Weather AB
+
+## POINTER 247 [user:memnoch;time:1297200358]
+Fenrir/Tiempo AB
+
+## POINTER 248 [user:memnoch;time:1297200358]
+Gusios: Lucha 2
+
+## POINTER 249
+Relewiese 01（Tortoise: Rock Shell)/Weather AB
+
+## POINTER 250
+Relewiese 02（Giant Bee: Bow)/Weather AB
+
+## POINTER 251
+Relewiese 03（Cockatrice: Base Type - New Color）/Weather AB
+
+## POINTER 252
+Relewiese 04（Roctus: Base Type）/Weather AB
+
+## POINTER 253
+Relewiese 05（Lizardman: Evolved)/Weather AB
+
+## POINTER 254
+Relewiese 06（Boar: Normal Tire）/Weather A
+
+## POINTER 255
+Relewiese 07（Boar: Spike Tire）/Weather B
+
+## POINTER 256
+Relewiese 08（Mimic: Rock）/Weather AB
+
+## POINTER 257
+Khroma Dragon
+
+## POINTER 258
+Flynn Battle 2
+
+## POINTER 259
+Tarqaron 01（Egg Bear: Vio)/Weather AB
+
+## POINTER 260
+Tarqaron 02（Golem: Arm Hammer）/Weather AB
+
+## POINTER 261
+Tarqaron 03（Giant Bee: Gun)/Weather AB
+
+## POINTER 262
+Tarqaron 02（Mantis: New Type Evolved）/Weather AB
+
+## POINTER 263
+Tarqaron 02（Sabertooth)/Weather AB
+
+## POINTER 264
+Tarqaron 06（Sworpion)/Weather AB
+
+## POINTER 265
+Tarqaron 07（Axe Beak: Fan Tail）/Weather AB
+
+## POINTER 266
+Tarqaron 08（Tortoise: Cannon Shell)/Weather AB
+
+## POINTER 267
+Tarqaron 09（Poltergeist: Scary)/Weather AB
+
+## POINTER 268
+Tarqaron 10（Stag Beetle: Evolved）/Weather AB
+
+## POINTER 269
+Tarqaron 11（Rhybgaro: Super Unicorn - New Color)/Weather AB
+
+## POINTER 270 [user:memnoch;time:1297200358]
+Zagi: Lucha 5
+
+## POINTER 271 [user:memnoch;time:1297200358]
+Duke: Lucha 1
+
+## POINTER 272 [user:memnoch;time:1297200358]
+Duke: Lucha 2
+
+## POINTER 273
+Magic Sword Duke
+
+## POINTER 274
+Gauche & Droite
+
+## POINTER 275
+Labyrinth of Memories 01（Timberey)
+
+## POINTER 276
+Labyrinth of Memories 02（Blade Beak)
+
+## POINTER 277
+Labyrinth of Memories 03（Filifolia: Wilted）
+
+## POINTER 278
+Labyrinth of Memories 04（Axe Beak: Staff Tail）
+
+## POINTER 279
+Labyrinth of Memories 05（Wrath Nail)
+
+## POINTER 280
+Labyrinth of Memories 06（Savage Helm)
+
+## POINTER 281
+3-Person Coliseum Battle Memory
+
+## POINTER 282 [user:memnoch;time:1297200358]
+Recuerdo de Rhybgaro
+
+## POINTER 283 [user:memnoch;time:1297200358]
+Recuerdo de Goliat
+
+## POINTER 284 [user:memnoch;time:1297200358]
+Recuerdo de Poseidón
+
+## POINTER 285 [user:memnoch;time:1297200358]
+Recuerdo de Gattuso
+
+## POINTER 286 [user:memnoch;time:1297200358]
+Recuerdo de Fenrir
+
+## POINTER 287 [user:memnoch;time:1297200358]
+Recuerdo de Gusios
+
+## POINTER 288 [user:memnoch;time:1297200358]
+Recuerdo de Gigalarva
+
+## POINTER 289 [user:memnoch;time:1286140039]
+Hermit Memory
+
+## POINTER 290 [user:memnoch;time:1297200358]
+Recuerdo de Pteropus
+
+## POINTER 291 [user:memnoch;time:1297200358]
+Recuerdo de Pterobronc
+
+## POINTER 292 [user:memnoch;time:1286140039]
+Breaker Memory
+
+## POINTER 293 [user:memnoch;time:1297200358]
+Recuerdo de Belius
+
+## POINTER 294 [user:memnoch;time:1297200358]
+Recuerdo de Khroma
+
+## POINTER 295 [user:memnoch;time:1297200358]
+Recuerdo de Grifo
+
+## POINTER 296 [user:memnoch;time:1286140039]
+Chimera Memory
+
+## POINTER 297 [user:memnoch;time:1286140039]
+Medusa Memory
+
+## POINTER 298 [user:memnoch;time:1297200358]
+Recuerdo de Brucis
+
+## POINTER 299 [user:memnoch;time:1297200358]
+Recuerdo de Duke

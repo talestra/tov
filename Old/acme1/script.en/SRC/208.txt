@@ -1,0 +1,152 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS19_500)Hey, what are you doing?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS19_501)What? Uh, n-nothing.
+
+## POINTER 2
+
+<VOICE>(VS19_502)Hmm? Well, well, if 
+it ain't little <STR>(KAR)!
+
+## POINTER 3
+
+<VOICE>(VS19_503)What the hell are 
+you thinking, coming 
+back here?
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS19_504)H-hey! 
+Wh-what's with you?!
+
+## POINTER 5
+
+<VOICE>(VS19_505)Yeah, I don't see Nan. 
+She already ditch you? 
+Ah hah hah hah!
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS19_506)N-no way! She wouldn't 
+stop nagging so I took off!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS19_507)This would explain why 
+<STR>(KAR) wasn't too eager 
+to go to Dahngrest.
+
+## POINTER 8
+
+<VOICE>(VS19_508)So are you the latest guild 
+to take him in? You could do 
+a lot better than that loser!
+
+## POINTER 9
+
+<VOICE>(VS19_509)All this kid can brag about is the 
+number of guilds he's joined! 
+Oh, right, that's a bad thing.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS19_510)Are these your friends, 
+<STR>(KAR)? You could do a lot 
+better than these losers.
+
+## POINTER 11
+
+<VOICE>(VS19_511)Wh-what did you say?!
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS19_512)Such undignified men!
+
+## POINTER 13
+
+<VOICE>(VS19_513)Shut up!
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS19_514)You sure have a 
+way of saying things. 
+I mean, you're right, but...
+
+## POINTER 15
+
+<VOICE>(VS19_515)Yeah, you just keep talking...
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS19_517)What's that sound?
+
+## POINTER 17
+
+<VOICE>(VS19_518)Damn it... They're back again...
+
+## POINTER 18
+
+<VOICE>(VS19_519)Come on!
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS19_520)The alarm... 
+Monsters are here.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS19_521)Monsters? 
+...Wait, is this shaking the
+monsters' footsteps...?
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS19_522)If so, they've brought 
+quite an army.
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS19_523)Yeah, but don't worry. 
+Even if there have been a lot 
+of monsters around here lately...<PAGE><VOICE>(VS19_524)Our barrier here is 
+strong, and it's never 
+been broken before.<PAGE><VOICE>(VS19_525)And the guilds take 
+care of the monsters 
+outside the barrier...
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS19_526)...Huh? 
+Oh crap!!
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS19_527)The barrier...disappeared...?
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS19_528)What the hell is going 
+on?! The monsters 
+are going to get inside!
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS19_529)Damn it, why do things 
+like this always happen to 
+me, no matter where I go?
+
+## POINTER 27
+<STR>(RIT)
+<VOICE>(VS19_530)You gotta be cursed.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS19_531)...Maybe.
+
+## POINTER 29
+<STR>(EST_P)
+<VOICE>(VS19_532)<STR>(YUR), we have to go 
+stop the monsters!

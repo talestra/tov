@@ -1,0 +1,34 @@
+## POINTER 0
+<STR>(KAR)
+What's this...
+
+## POINTER 1
+<STR>(EST_P)
+Some sort of 
+ruins? Maybe?
+
+## POINTER 2
+<STR>(RIT)
+But it doesn't look 
+like humans built 
+anything here.
+
+## POINTER 3
+<STR>(YUR)
+<STR>(JUD_P), do you know anything 
+about this place?
+
+## POINTER 4
+<STR>(JUD)
+No. To me, it looks like it 
+was formed naturally, rather 
+than made by human hands.
+
+## POINTER 5
+<STR>(RAV)
+There's not anythin' here, 
+from the looks of it.
+
+## POINTER 6
+<STR>(YUR)
+Well, let's have a look around, at least.

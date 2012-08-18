@@ -1,0 +1,300 @@
+## POINTER 1362 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027813]
+Súper láser de Dhaos
+
+## POINTER 1364 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262980372]
+Tajo superior
+
+## POINTER 1366 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262980372]
+Tajo inferior
+
+## POINTER 1368 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262980372]
+Tajo amplio
+
+## POINTER 1370 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262980429]
+Tajo superior -> Tajo inferior
+
+## POINTER 1372 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262980429]
+Tajo superior -> Tajo amplio
+
+## POINTER 1374 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262972700]
+Aplastador
+
+## POINTER 1376 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265649034]
+Carga maligna
+
+## POINTER 1378 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262974843]
+Puño de Ares
+
+## POINTER 1380 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262974843]
+Pisotón
+
+## POINTER 1382 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262974843]
+Lanzamiento
+
+## POINTER 1384 [t:1;r:2;ru:parsec,memnoch;user:Amarintia;time:1262974843]
+Brújula
+
+## POINTER 1386 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262979540]
+¡No hay objetos!
+
+## POINTER 1388 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267967531]
+Onda de choque frontal
+
+## POINTER 1390 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267967531]
+Onda de choque expansiva
+
+## POINTER 1392 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265649297]
+Gancho izquierdo de Nereid
+
+## POINTER 1394 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084328]
+Derechazo de Nereid
+
+## POINTER 1396 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265650918]
+Porrazo de Nereid
+
+## POINTER 1398 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265650918]
+Gancho de izquierda - Derechazo
+
+## POINTER 1400 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263085128]
+Lancero gélido
+
+## POINTER 1402 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262369111]
+Erupción
+
+## POINTER 1404 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262462988]
+Terremoto
+
+## POINTER 1406 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262903421]
+Espada voltaica
+
+## POINTER 1408 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262369111]
+Lanzas sacras
+
+## POINTER 1410 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262980372]
+Aullido sangriento
+
+## POINTER 1412 [t:1;r:3;ru:maz,parsec,memnoch;user:Amarintia;time:1262980372]
+Fatalidad eterna
+
+## POINTER 1414 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265650918]
+Gancho de izquierda - derecha
+
+## POINTER 1416 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Directo
+
+## POINTER 1418 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265650918]
+Gancho
+
+## POINTER 1420 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113081]
+Lazo giratorio
+
+## POINTER 1422 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Aplastamiento voltaico
+
+## POINTER 1424 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Patada de rebote
+
+## POINTER 1426 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Aplastamiento
+
+## POINTER 1428 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263129961]
+Machote X
+
+## POINTER 1430 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262997042]
+Embestida
+
+## POINTER 1432 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265650918]
+Directo súbito
+
+## POINTER 1434 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265650918]
+Gancho súbito
+
+## POINTER 1436 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Garra
+
+## POINTER 1438 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Golpe trasero
+
+## POINTER 1440 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Morder y escupir
+
+## POINTER 1442 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084885]
+Ataque de cola trasera
+
+## POINTER 1444 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265651610]
+Carrera explosiva
+
+## POINTER 1446 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262997042]
+Rugido
+
+## POINTER 1448 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262997042]
+Hálito helado
+
+## POINTER 1450 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262997042]
+Garras venenosas
+
+## POINTER 1452 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Patada
+
+## POINTER 1454 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Patada
+
+## POINTER 1456 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262997042]
+Dentellada
+
+## POINTER 1458 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Mandoble delantero
+
+## POINTER 1460 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112664]
+Blandir cola
+
+## POINTER 1462 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084885]
+Machaca suelos
+
+## POINTER 1464 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262997042]
+Rugido
+
+## POINTER 1466 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Hálito
+
+## POINTER 1468 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084885]
+Barrido de aliento
+
+## POINTER 1470 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084885]
+Soltar cola
+
+## POINTER 1472 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084885]
+Maremoto desastroso
+
+## POINTER 1474 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263113081]
+Estruendo terrestre
+
+## POINTER 1476 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084885]
+Río embravecido
+
+## POINTER 1478 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263074600]
+Temblor
+
+## POINTER 1480 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265651610]
+Gancho de izquierda - derecha
+
+## POINTER 1482 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263129961]
+Golpe inverso / Golpe de cola
+
+## POINTER 1484 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130041]
+Cruza brazos
+
+## POINTER 1486 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130041]
+Lanza de cola
+
+## POINTER 1488 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130041]
+Carga de hechizo
+
+## POINTER 1490 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130041]
+Esparcir veneno TP
+
+
+## POINTER 1492 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267967531]
+Misiles explosivos
+
+## POINTER 1494 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265651610]
+Burbuja de sueño
+
+## POINTER 1496 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Regenerar
+
+## POINTER 1498 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Esconderse en la concha
+
+## POINTER 1500 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Arrasar con todo
+
+## POINTER 1502 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130165]
+Balanceo alado
+
+## POINTER 1504 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263130165]
+Arañazo alado de 2 golpes
+
+## POINTER 1506 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084733]
+Alas giratorias
+
+## POINTER 1508 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263074600]
+Golpe cuerpo
+
+## POINTER 1510 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084733]
+Sonido terrorífico
+
+## POINTER 1512 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084733]
+Luz terrorífica
+
+## POINTER 1514 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263074600]
+Explosión
+
+## POINTER 1516 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263074600]
+Escisión
+
+## POINTER 1518 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262997042]
+Dentellada
+
+## POINTER 1520 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263073991]
+Placaje
+
+## POINTER 1522 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1265651610]
+Ola de choque
+
+## POINTER 1524 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263083324]
+Viento cortante
+
+## POINTER 1526 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262372425]
+Salpicadura
+
+## POINTER 1528 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Unión
+
+## POINTER 1530 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Bofetada de aleta
+
+## POINTER 1532 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Contrabofetada de aleta
+
+## POINTER 1534 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263112664]
+Blandir cola
+
+## POINTER 1536 [t:1;r:3;ru:maz,parsec,memnoch;user:TheWing;time:1263074600]
+Golpe cuerpo
+
+## POINTER 1538 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262997042]
+Rugido
+
+## POINTER 1540 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262372425]
+Láser
+
+## POINTER 1542 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Pez puerco espín
+
+## POINTER 1544 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Inversión día y noche
+
+## POINTER 1546 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262372425]
+Erupción
+
+## POINTER 1548 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Láser acuoso
+
+## POINTER 1550 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262997042]
+Patada
+
+## POINTER 1552 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262997042]
+Orejazo
+
+## POINTER 1554 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Cola multietapa
+
+## POINTER 1556 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Barrido de cola
+
+## POINTER 1558 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Comadreja gemela
+
+## POINTER 1560 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084613]
+Comadreja furiosa

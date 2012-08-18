@@ -1,0 +1,67 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273600702]
+
+¿Seguro que el hombre
+que buscan está aquí?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761816]
+
+Que sí.<PAGE>Sabía que lo había visto antes,
+y luego vi el cartel de Se busca. 
+Enseguida supe que era él.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761816]
+Esa habitación de allí... 
+De acuerdo. Aléjense, por favor.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761816]
+
+Sí, claro.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273600702]
+<STR>(YUR)
+¡Eh, despertad!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273600702]
+<STR>(RIT)
+Mmm... ¿Qué pasa?
+¡Todavía es de noche!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761816]
+<STR>(KAR)
+No quiero más leche en mis 
+cereales... No, se pondrán fofos...
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273600702]
+<STR>(YUR)
+¡He dicho despertad, <STR>(KAR)!
+¡Tenemos que salir de aquí!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273600702]
+
+Ese hombre está con tres amigos.
+También hay un perro, así que
+tened cuidado.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273600702]
+
+¡Un simple delincuente no puede  
+vencer a un Caballero Imperial!
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273601731]
+<STR>(RIT)
+¡<STR>(EST)! ¡Crío! 
+¡Despertaos!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273601731]
+<STR>(RIT)
+¡<STR>(EST)! ¡Crío! 
+¡Despertaos!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273600702]
+
+Muy bien, levantad las manos 
+y salid en silen... ¿Eh?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1273600702]
+
+¡¡Han huido!!

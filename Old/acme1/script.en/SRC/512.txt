@@ -1,0 +1,31 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS56_001)Look! It's hanging on to the city!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS56_002)That black thing... That's what 
+we saw in the Sands of Kogorh!
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS56_003)That was Phaeroh's vision. 
+This is real. Be careful.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS56_004)It looks like it's trying to 
+eat the aer of the shield!
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS56_005)Is the Adephagos 
+drawn to aer...?
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS56_006)This thing looks pretty mean.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS56_007)Come on!

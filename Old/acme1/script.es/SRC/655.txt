@@ -1,0 +1,189 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287235031]
+<STR>(RAV)
+<VOICE>(VA060_001)Siempre se m'hace duro,
+da igual las veces que venga.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287234603]
+<STR>(YUR)
+<VOICE>(VA060_002)¿Malos recuerdos
+de la Gran Guerra?
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287234603]
+<STR>(RAV)
+<VOICE>(VA060_003)Sí, eso también...
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287234603]
+<STR>(EST_P)
+<VOICE>(VA060_004)Ah... ¿Qué estás...?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287234603]
+<STR>(RAV)
+<VOICE>(VA060_005)Mencioné que tenía
+un colega al que le
+gustaba esta flor, ¿no?<PAGE><VOICE>(VA060_006)Está aquí.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287234603]
+<STR>(RIT)
+<VOICE>(VA060_007)¿Y por qué tienes un amigo aquí?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287234603]
+<STR>(EST_P)
+<VOICE>(VA060_008)¿Te refieres al amigo
+de los Caballeros?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287235031]
+<STR>(RAV)
+<VOICE>(VA060_009)Algunos malgastan su vida mientras viven
+y otros la malgastan muriendo demasiado pronto.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287235031]
+<STR>(JUD)
+<VOICE>(VA060_010)Tu amigo murió en la Gran Guerra.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(RAV)
+<VOICE>(VA060_011)Sí. Humanos...
+Vaya panda de penosos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(EST_P)
+<VOICE>(VA060_012)Oh, no me había dado cuenta...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(RAV)
+<VOICE>(VA060_013)Mucho mejor Caballero que yo. Siempre
+usaba el famoso arco de su familia.
+Jo... Qué valiente era.<PAGE><VOICE>(VA060_014)Nunca supe qué pasó
+con ese arco...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(YUR)
+<VOICE>(VA060_015)
+Tal vez siga en este
+campo, por aquí.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(RAV)
+<VOICE>(VA060_016)Quizá. Pero encontrarlo
+sería una matada.<PAGE><VOICE>(VA060_017)*Suspiro* Aunque si vagase
+por aquí, Casey se enfadaría
+tanto que volvería, pero... Je.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287237202]
+<STR>(KAR)
+<VOICE>(VA060_018)Eso es muy triste...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(RAV)
+<VOICE>(VA060_019)Eh, eh, eh.
+No os pongáis depres.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(YUR)
+<VOICE>(VA060_020)¿Qué nos estás contando? Pero si has
+sido tú el que ha empezado este funeral.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(RAV)
+<VOICE>(VA060_021)Yo, er... Lo siento.<PAGE><VOICE>(VA060_022)En fin, que descanses,
+Casey. Sé que estás
+en un lugar mejor.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287237202]
+<STR>(KAR)
+<VOICE>(VA060_023)¡Chicos, algo está cayendo del cielo!
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287237202]
+<STR>(RAV)
+<VOICE>(VA060_024)¿Eh?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(EST_P)
+<VOICE>(VA060_025)¿Q-Qué es?
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287237202]
+<STR>(RAV)
+<VOICE>(VA060_026)Oh, no puede ser...
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287237202]
+<STR>(YUR)
+<VOICE>(VA060_027)¿Qué es?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287239268]
+<STR>(RAV)
+<VOICE>(VA060_028)Es el disco
+favorito de Casey.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527118]
+<STR>(EST_P)
+<VOICE>(VA060_029)Pero ¿cómo?
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287239268]
+<STR>(JUD)
+<VOICE>(VA060_030)El fantasma de
+tu amigo debe
+estar vigilándote.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(RIT)
+<VOICE>(VA060_031)¡¿Fantasma?! ¡Anda ya!
+¡Ha sido casualidad!
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287239268]
+<STR>(KAR)
+<VOICE>(VA060_032)¿Esto te parece casualidad?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(RIT)
+<VOICE>(VA060_033)¡Quizás un pájaro lo cogiera
+y se le cayera por error!
+Sí, ¡eso mismo!
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287239268]
+<STR>(YUR)
+<VOICE>(VA060_034)En fin,
+¿Casey era
+una mujer?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(RIT)
+<VOICE>(VA060_035)¿Una mujer? ¿Qué? Ooooh,
+¿una señorita del pasado del viejales?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298760444]
+<STR>(RAV)
+<VOICE>(VA060_036)Venga, <STR>(RIT),
+recuerda tu
+presión sanguínea.
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287239268]
+<STR>(RIT)
+<VOICE>(VA060_037)Oh, quiero que lo cuentes
+con pelos y señales.
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287239268]
+<STR>(RAV)
+<VOICE>(VA060_038)Se siente, no hay mucho que contar.
+Pa empezar, otro tío ya
+l'estaba tirando los tejos.
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287239268]
+<STR>(JUD)
+<VOICE>(VA060_039)¿La historia de un amor no correspondido?
+
+## POINTER 35 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287240394]
+<STR>(EST_P)
+<VOICE>(VA060_040)Un amor en el veleidoso mar de la guerra.
+Una señorita que parte demasiado pronto.
+Oh, menuda tragedia...
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287240394]
+<STR>(RAV)
+<VOICE>(VA060_041)Bueno, ya vale.
+Pensad lo que queráis.
+
+## POINTER 37 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1287240394]
+<STR>(RAV)
+<VOICE>(VA060_042)Esto es por ti, Casey.
+Toy bien con estos niños.
+Toy bien...

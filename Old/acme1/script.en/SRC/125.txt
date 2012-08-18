@@ -1,0 +1,85 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS09_035)This may be a selfish thing to say, but...
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS09_036)I'm happy this means we're
+continuing our journey.<PAGE><VOICE>(VS09_037)I haven't known this sort 
+of freedom until now.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS09_038)Hah hah.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS09_039)So <STR>(KAR), what are your plans?
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS09_040)I want to go to the port 
+city, and cross over to 
+Tolbyccia from there.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS09_041)So, I guess it's goodbye, then.
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS09_042)Huh?!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS09_043)Thanks, <STR>(KAR). 
+It's been fun.
+
+## POINTER 8
+<STR>(EST_P)
+<VOICE>(VS09_044)Please take care of yourself.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS09_045)On second thought, maybe I'll stick 
+with you guys a little while longer.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS09_046)Why?
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS09_047)You guys would be lost and 
+lonely without me around.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS09_048)Well, you have come in surprisingly 
+handy, Captain.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS09_049)Well then, let's all go together.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS09_050)So, east was it?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS09_051)Yeah, <STR>(FRE) went east.
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS09_052)Okay.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS09_053)I'd like to get to 
+Aspio somehow...
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS09_054)Anyway, let's get out of here before 
+the goon squad shows up.

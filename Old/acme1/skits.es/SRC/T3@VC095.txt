@@ -1,0 +1,63 @@
+## POINTER 0 [t:1;r:3;ru:parsec,maz,memnoch;user:xander;time:1252189152]
+¿Objetos? ¿Quién necesita objetos?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899203]
+(KAR)
+U-Un momento, ¡esperad un segundo!
+
+## POINTER 2 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292830]
+(YUR)
+¿Qué pasa? ¿Ocurre algo?
+
+## POINTER 3 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292830]
+(KAR)
+Ayudadme a organizar
+los objetos, ¿queréis?
+
+## POINTER 4 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292830]
+(EST_P)
+¿Desde cuándo tenemos tantos?
+
+## POINTER 5 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292830]
+(JUD)
+No los hemos estado usando.
+Se han ido acumulando.
+
+## POINTER 6 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292830]
+(YUR)
+Si podemos arreglárnoslas sin usarlos,
+entonces mucho mejor, ¿no?
+
+## POINTER 7 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292830]
+(EST_P)
+¿Así es como funciona?
+
+## POINTER 8 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292830]
+(JUD)
+No querrás coger la manía de
+desperdiciar objetos cuando
+no los necesitas, ¿verdad?
+
+## POINTER 9 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292830]
+(EST_P)
+Mmmm... Es solo que no estoy muy
+familiarizada con utilizar objetos...
+
+## POINTER 10 [t:1;r:3;ru:parsec,maz,memnoch;user:xander;time:1266571717]
+(KAR)
+Bueno, no importa qué uséis,
+pero utilizad alguno...
+¡Se van a echar a perder!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297899203]
+(EST_P)
+T-Tiene razón, (YUR). 
+Tenemos que usar nuestros objetos.
+
+## POINTER 12 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292830]
+(YUR)
+De acuerdo, si es necesario...
+
+## POINTER 13 [t:1;r:3;ru:parsec,maz,memnoch;user:parsec;time:1267292830]
+(KAR)
+¡O al menos ayudadme a organizarlos!

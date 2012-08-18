@@ -1,0 +1,204 @@
+## POINTER 0
+
+Hello there. Mind if I ask 
+who your connection is?
+
+## POINTER 1
+<STR>(YUR)
+What, we can't buy things from 
+you without an introduction?
+
+## POINTER 2
+
+I'm afraid not. I'm not 
+quite like the other 
+merchants, you see.
+
+## POINTER 3
+<STR>(KAR)
+You mean you're different from 
+the people in Fortune's Market?
+
+## POINTER 4
+
+Yes, yes, most correct. I 
+am Mercedes Dunkel, black 
+marketeer extraordinaire.
+
+## POINTER 5
+<STR>(RIT)
+Black marketeer?
+
+## POINTER 6
+
+A salesman for Leviathan's Claw. 
+I travel the wide world, selling my 
+weapons wherever I set up shop.
+
+## POINTER 7
+<STR>(YUR)
+Leviathan's Claw... So you're 
+one of Yeager's henchmen...?!
+
+## POINTER 8
+
+Ah hah hah. Henchman has such 
+a villainous ring to it.
+
+## POINTER 9
+<STR>(JUD)
+What sort of things 
+do you have in stock?
+
+## POINTER 10
+<STR>(RIT)
+Jeez, <STR>(JUD). Go ahead 
+and make friends, 
+why don't ya.
+
+## POINTER 11
+<STR>(JUD)
+I beg your pardon, but when did knowing 
+one's enemy become a bad thing?
+
+## POINTER 12
+
+Hah hah, I suppose I could show such 
+an honest young lady my wares. I 
+can't sell you anything, though.
+
+## POINTER 13
+
+Here. This is a hoplon blastia 
+that can spray a target with 
+flames up to 100 meters away.<PAGE>It's actually an antique from quite 
+a ways back, but I've kept it in 
+top shape so it still works fine.
+
+## POINTER 14
+<STR>(RIT)
+Hey...this. There's a 
+name written on it...
+
+## POINTER 15
+
+Yeah, must belong to whoever 
+dug it out of the ground.
+
+## POINTER 16
+<STR>(KAR)
+Hey, those guys from Ruins' Gate in 
+the Shaikos Ruins were writing their 
+names on the stuff they'd found.
+
+## POINTER 17
+<STR>(RIT)
+What's worse, this thing's got 
+that idiot's name on it, too.
+
+## POINTER 18
+<STR>(RAV)
+Oopsie... Looks like that's solid proof 
+of a connection between the two...
+
+## POINTER 19
+<STR>(RIT)
+You know something 
+don't you, old man?!
+
+## POINTER 20
+<STR>(RAV)
+Well, the Don's got this little hunch 
+ya see, that Yeager and Regaey 
+are one and the same person.
+
+## POINTER 21
+<STR>(KAR)
+No way. You don't really think 
+they're both one guy...?
+
+## POINTER 22
+<STR>(RAV)
+That doesn't change the fact that 
+Leviathan's Claw and Ruins' Gate're 
+two different guilds, though.
+
+## POINTER 23
+<STR>(EST_P)
+But imperial law forbids the 
+trafficking of blastia.
+
+## POINTER 24
+<STR>(RAV)
+That's got nothin' ta do with the Union.<PAGE>Fortune's Market's about the only 
+guild that follows the Empire's laws. 
+Business and all, ya' see...
+
+## POINTER 25
+
+...Oh, well now. 
+You're Brave Vesperia, 
+aren't you?
+
+## POINTER 26
+<STR>(YUR)
+We have been making a bit of a 
+name for ourselves, I guess.
+
+## POINTER 27
+
+A man in black, a princess-like young 
+lady, a mage, a man from the Union, a 
+young boy, a femme fatale, and a dog.<PAGE>I received word from Yeager to treat you 
+with extreme caution should we meet.<PAGE>And with that I'll be bringing our little 
+business engagement to a close.
+
+## POINTER 28
+<STR>(JUD)
+What do you think, should 
+we get rid of him?
+
+## POINTER 29
+
+H-hold on, now, do you enjoy threatening 
+poor, defenseless merchants?
+
+## POINTER 30
+<STR>(JUD)
+Oh stop, you have all these 
+weapons don't you?
+
+## POINTER 31
+
+These blastia are my inventory. I can't 
+just use them whenever I like.
+
+## POINTER 32
+<STR>(RIT)
+He's not worth the trouble. Taking 
+care of this guy won't put a stop 
+to their blastia smuggling.
+
+## POINTER 33
+<STR>(RAV)
+Well, if it gets ta be a problem for 
+the Union, they'll be sure ta lay down 
+the law. Ya know, like with Barbos.
+
+## POINTER 34
+
+Just like the man says. So if it's 
+all right with you, I'm going to get 
+back to earning a living, here.
+
+## POINTER 35
+<STR>(RIT)
+I am seriously looking into 
+this whole Ruins' Gate thing 
+when I get back to Aspio.
+
+## POINTER 36
+<STR>(YUR)
+Depending on Yeager's next move, 
+we might be forced into action 
+ourselves, before too long.

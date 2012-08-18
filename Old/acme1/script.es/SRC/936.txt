@@ -1,0 +1,151 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1294104048]
+
+¡Oh, señorita!
+¡Has venido!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956281]
+<STR>(JUD)
+¿Qué tal todo?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956281]
+
+¡Bien! ¡He estado mirando todas las cosas que
+has estado haciendo desde aquí, desde el cielo!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1294104048]
+<STR>(KAR)
+¿En serio puedes ver
+todo eso desde aquí?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1294104048]
+<STR>(JUD)
+Los krityanos ven mejor
+que los humanos, pero...<PAGE>Me parece que eso
+es imposible.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1294104048]
+
+La verdad es que usaba esto.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956281]
+<STR>(RIT)
+¿Eso amplia la imagen de lo que señales?<PAGE>¿Es un blastia? No...
+Me da que es algo diferente.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1294104048]
+
+Dicen que alguien llamado
+Hermes lo creó hace mucho,
+mucho tiempo.<PAGE>Pero no sé cómo funciona.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956281]
+<STR>(RAV)
+Pos mola mogollón
+eso de ver cosas
+a tanta distancia.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956281]
+
+¡Sí! Me encanta
+ver a Azul viajar
+por el mundo.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1294104048]
+<STR>(YUR)
+Es Ba'ul.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1294104517]
+
+Señorita, acababas con
+los monstruos en
+el aire, ¿verdad?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1294104517]
+<STR>(EST_P)
+Vaya, ¿podías
+ver hasta eso?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1294104517]
+
+¡Sí! ¡Era tope guay!
+¡Conté cuántos ganaste!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1294104517]
+<STR>(KAR)
+¿Los contaste?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1294104517]
+
+¡Sí, ya sabes, los monstruos esos
+que pegas en el aire y desaparecen!
+¡Puf!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1294104517]
+<STR>(RAV)
+Me da que habla de los ataques letales.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956281]
+
+¡Conté más de mil!
+¡Sois geniales!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956281]
+<STR>(RIT)
+Pues tú no te quedas atrás,
+porque para contar todos esos...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956281]
+
+¡Verlos era divertidísimo!
+Quiero daros algo para mostraros
+lo mucho que me gustó.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956281]
+<STR>(YUR)
+Es muy amable de tu parte.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1294104850]
+
+¡He... he hecho esto!
+¡¡Es para ti!!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1294104850]
+<STR>(JUD)
+Gracias.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1294104850]
+
+¿Po-podrías probártelo?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1294104850]
+<STR>(JUD)
+Claro. Un momentín.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1294104850]
+<STR>(JUD)
+¿Qué os parece?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1294104850]
+<STR>(RAV)
+*Silbidos*
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1294104850]
+<STR>(EST_P)
+¡Te queda de fábula, <STR>(JUD)!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1294104850]
+<STR>(KAR)
+Madre mía,
+no parece
+hecho a mano.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956281]
+
+Je, ¡sabía que te gustaría! La verdad
+es que quería dártelo después de contar
+trescientos monstruos, pero no estaba listo...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956281]
+<STR>(JUD)
+Lo cuidaré bien.
+Muchas gracias.

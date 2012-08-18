@@ -1,0 +1,44 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267281902]
+El jinete del dragón
+
+## POINTER 1 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329076]
+(YUR)
+Sí que hay gente con aficiones raras.
+¿Quién va por ahí destruyendo blastias?
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329076]
+(EST_P)
+No creo que eso sea una afición.
+
+## POINTER 3 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329076]
+(RIT)
+¡Si nos cruzamos con quienquiera
+que esté haciendo esto, lo destruiré!
+
+## POINTER 4 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266075173]
+(KAR)
+¿Y qué pasa si tiene razones para hacerlo?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294182757]
+(RIT)
+¡Puede tener las razones que quiera!
+¡Destruir blastias es imperdonable! ¡Punto pelota!
+
+## POINTER 6 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329076]
+(KAR)
+¡Ah! ¡Mi... mi cuello! ¡Mi cuello!
+¡¡Aaaaaaagh!!
+¡Ah! ¡Ayúdameee, (YUR)!
+
+## POINTER 7 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266075173]
+(YUR)
+Meh, para qué.
+Pasadlo bien jugando, niños.
+
+## POINTER 8 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329076]
+(KAR)
+(EST_P)...
+
+## POINTER 9 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266075173]
+(EST_P)
+Mmm... ¡Ánimo, (KAR)!

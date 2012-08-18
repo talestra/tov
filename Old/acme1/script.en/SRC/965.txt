@@ -1,0 +1,63 @@
+## POINTER 0
+<STR>(RIT)
+......
+
+## POINTER 1
+Undine
+...It appears I was able to move 
+it a small amount with my power.
+
+## POINTER 2
+<STR>(RIT)
+You...you idiot!
+
+## POINTER 3
+<STR>(YUR)
+Whoa... She called an elemental 
+spirit an idiot...
+
+## POINTER 4
+<STR>(KAR)
+<STR>(RIT)'s the only person I can think of 
+who'd dare do something like that...
+
+## POINTER 5
+<STR>(RIT)
+Where do you go off powering the engines for 
+something you don't even know how to control?! 
+You're going to break something, or worse!<PAGE>You were born from Belius's 
+apatheia, so of course you're 
+powerful! It's a given!<PAGE>That's why it doesn't prove anything if 
+you can move something like that! You cocky, 
+ignorant, bloated idiot of a spirit!
+
+## POINTER 6
+<STR>(EST_P)
+R-<STR>(RIT)...
+
+## POINTER 7
+Undine
+You must learn to control your temper. 
+I understand, and I apologize.
+
+## POINTER 8
+<STR>(RIT)
+...I can't believe this...
+
+## POINTER 9
+Undine
+It may be of interest to you that the location 
+where the contraption struck against the earth 
+appears to be accessible to you now.
+
+## POINTER 10
+<STR>(YUR)
+Hey, looks like you're pretty 
+handy to have around!
+
+## POINTER 11
+<STR>(KAR)
+Now you've gone and told an elemental 
+spirit she was "handy"...
+Are 
+you trying to one-up <STR>(RIT)...?

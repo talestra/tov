@@ -1,0 +1,175 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS53_007)Hmm... We should be able to 
+calculate the force field stability 
+coefficient. So...
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS53_008)<STR>(RIT)?
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS53_009)We could make a key formula. 
+Efficiency is okay. Making a stable, 
+non-dispersing piece should be...
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS53_010)Hey, <STR>(RIT)!
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS53_011)What?! Don't bother 
+me! ...Huh?!
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS53_012)Oh, it's you...how did you 
+get into...wait, you're...?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS53_013)Hi.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS53_014)Where the hell were you?! 
+I looked all over for 
+you, you know...
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS53_015)Ahh, sorry about that.
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS53_016)...Humph, well, whatever. I don't 
+have time to argue about that.<PAGE><VOICE>(VS53_017)I have something very important to talk to <STR>(EST_P) about.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS53_018)To <STR>(EST_P)?
+
+## POINTER 11
+<STR>(RIT)
+<VOICE>(VS53_019)...I may have found a way to 
+control the behavior of aer.
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS53_020)Really?! That's great, <STR>(RIT)!
+
+## POINTER 13
+<STR>(RIT)
+<VOICE>(VS53_021)I learned lots of things when 
+I investigated Zaude.<PAGE><VOICE>(VS53_022)Like how we might be able to apply 
+the techniques used there.<PAGE><VOICE>(VS53_023)However...
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VS53_024)That is related to <STR>(EST_P)'s 
+power as a Child 
+of the Full Moon?
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS53_025)We need to interact with the aer to make it 
+recombine freely according to a formula...<PAGE><VOICE>(VS53_026)This is something only <STR>(EST_P) can do.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS53_027)If only I hadn't given 
+Dein Nomos back...
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS53_028)Did you meet Duke?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS53_029)Yeah. He saved me. Well, 
+he said it was so he could 
+recover the sword.
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS53_030)That sword's different from the Child of the 
+Full Moon. I doubt it could be a substitute.
+
+## POINTER 20
+<STR>(JUD)
+<VOICE>(VS53_031)But that control formula 
+you used on <STR>(EST_P)...<PAGE><VOICE>(VS53_032)That was to control the power of the 
+Child of the Full Moon, wasn't it?
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS53_033)Yeah. So if we're going to control 
+the aer with this theory...
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS53_034)...we have to release the 
+control formula on <STR>(EST_P).
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS53_035)So...if everything goes right, 
+we control the aer.<PAGE><VOICE>(VS53_036)But if we screw up, the aer will 
+get even worse, and the world 
+will fall to the Adephagos.<PAGE><VOICE>(VS53_037)Is that about right?
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS53_038)That's quite a bold plan.
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS53_039)I'm sure it'll be fine. 
+<STR>(EST_P)...believe me. 
+Lend me your power.
+
+## POINTER 26
+<STR>(EST_P)
+<VOICE>(VS53_040)...
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VS53_041)Are you scared?
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS53_042)No. I'm happy. I might 
+still be able to use my 
+power to help others.<PAGE><VOICE>(VS53_043)<STR>(RIT). Please let me know if 
+there is anything I can do.
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS53_044)So what exactly do we need to do?
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VS53_045)Well, I'm not completely finished 
+working everything out.<PAGE><VOICE>(VS53_046)Give me a little more time.
+
+## POINTER 31
+<STR>(YUR)
+<VOICE>(VS53_047)Okay. We'll go see <STR>(KAR) 
+and <STR>(RAV) while you 
+figure things out.
+
+## POINTER 32
+<STR>(EST_P)
+<VOICE>(VS53_048)Great!
+
+## POINTER 33
+<STR>(RIT)
+<VOICE>(VS53_049)I'll go, too. I've got all the materials 
+I need in my head. I'll let you 
+know when I work it all out.
+
+## POINTER 34
+<STR>(JUD)
+<VOICE>(VS53_050)All right, let's go.

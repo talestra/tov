@@ -1,0 +1,80 @@
+## POINTER 0
+
+Oh! Excuse me, young lady! Can 
+you spare a minute or two?
+
+## POINTER 1
+<STR>(RIT)
+Huh? You mean me?
+
+## POINTER 2
+
+Yes, yes indeed! You think 
+you might want to play a little 
+stone-taking game with me?<PAGE>To make it interesting, I'll give 
+you a nice present if you can 
+beat me! What do you say?
+
+## POINTER 3
+<STR>(RIT)
+Hmmm... Well, 
+why not?<PAGE>But...are you sure? I'm pretty 
+good at that kind of game!
+
+## POINTER 4
+
+Ho ho! Excellent! I've been 
+looking for an opponent 
+to give me a challenge.<PAGE>They call me the Master! I won't 
+go down without a fight.
+
+## POINTER 5
+<STR>(YUR)
+*Sigh*
+Do we really have 
+time to be sitting 
+and playing games?
+
+## POINTER 6
+Challenge the Dice Master?
+Play a game!
+Maybe not.
+
+## POINTER 7
+<STR>(RIT)
+Don't worry. I'll make 
+short work of this geezer. 
+Just wait and see.
+
+## POINTER 8
+
+Ho ho! Well then, 
+shall we begin?
+
+## POINTER 9
+<STR>(RIT)
+Umm, I'm sorry, sir! He's right... 
+We really don't have time to 
+be playing games right now.
+
+## POINTER 10
+
+Ah, that's a shame... Well, 
+if you change your mind, 
+come back anytime.
+
+## POINTER 11
+
+Oh, back so soon? 
+Ready for a game?
+
+## POINTER 12
+
+Ho ho! Well then, 
+shall we begin?
+
+## POINTER 13
+
+Ah, that's a shame... Well, 
+if you change your mind, 
+come back anytime.

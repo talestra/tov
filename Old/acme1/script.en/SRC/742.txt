@@ -1,0 +1,204 @@
+## POINTER 0
+
+Welcome to IACCRO's official 
+testing facility! Are you 
+here to take the test?
+
+## POINTER 1
+<STR>(RAV)
+I...uh...
+I don't even know what 
+ta say ta that.
+
+## POINTER 2
+<STR>(EST_P)
+Well, first off, what 
+sort of place is this?
+
+## POINTER 3
+
+This is where you can take the 
+Imperial Academic Conference 
+Collaborative Research 
+Organization's certification test!<PAGE>We've set the hurdle rather high, 
+but passing this fine examination 
+will earn you a special doctoral degree!
+
+## POINTER 4
+<STR>(RIT)
+H-h-hold on a second! IACCRO...you 
+mean the top research organization 
+in the whole empire?<PAGE>The famous organization recognized by
+Researcher's Weekly, the top academic journal
+for peer review and research presentations?
+
+## POINTER 5
+
+Oh, quite impressive! It 
+seems you are no stranger 
+to our field of study.<PAGE>Then you are no doubt familiar with the 
+"Miska Doctoral Degree?" You can
+take the test to get that degree here!
+
+## POINTER 6
+<STR>(RIT)
+Quit pulling my leg! The Miska 
+degree is the highest honor a 
+blastia researcher can achieve!<PAGE>You expect me to believe that you 
+can take a test for something like 
+that here, of all places? Hah!
+
+## POINTER 7
+<STR>(KAR)
+Hey, <STR>(YUR). Are those two 
+speaking in another language, 
+or is it just me?
+
+## POINTER 8
+<STR>(YUR)
+I don't understand what they're 
+talking about, either. I guess all 
+we can do is see what happens.
+
+## POINTER 9
+
+The original test can only be taken in the 
+imperial capital, it is true. But our facility is 
+recognized as an official alternate site.<PAGE>Actually, it was at this 
+site where I received 
+the degree, myself.
+
+## POINTER 10
+<STR>(RIT)
+You're saying that YOU are the single 
+person who's managed to obtain 
+the Miska Doctoral Degree...?!
+
+## POINTER 11
+
+Oh, I'm afraid I forgot 
+to introduce myself. 
+I'm Miska Jutalion.
+
+## POINTER 12
+<STR>(RIT)
+Whaaaaaaaaa! Hold on, you 
+can't be serious...!!<PAGE>Are you saying you're the same Miska 
+Jutalion who discovered magical antibodies? 
+You're THAT Miska Jutalion?!
+
+## POINTER 13
+<STR>(KAR)
+That's a person?
+
+## POINTER 14
+<STR>(YUR)
+Yeah, looks like it. 
+He's standing on
+two legs, isn't he?
+
+## POINTER 15
+Miska
+Yes, I am the same Miska 
+Jutalion who discovered 
+magical antibodies.
+
+## POINTER 16
+<STR>(EST_P)
+Ummm, <STR>(RIT)? I'm not really sure 
+we all understand what you've 
+been talking about...
+
+## POINTER 17
+<STR>(RIT)
+Ahhh, right. Simply put, this 
+person is the most renowned
+blastia researcher in the world.<PAGE>I've always felt a certain connection to 
+what he wrote in his research papers, 
+and his ideas are very close to my own.<PAGE>I had never met him before, 
+but I guess I felt like we 
+were close nonetheless...
+
+## POINTER 18
+<STR>(JUD)
+So you were trying to get this 
+"Miska Doctoral Degree?"
+
+## POINTER 19
+<STR>(RIT)
+To be honest, I never really cared about other 
+prizes or papers, but I always thought, if I 
+could only get the Miska Doctoral Degree...
+
+## POINTER 20
+Miska
+Oh my! How flaaattering that 
+you could have so much
+respect for what I've done!
+
+## POINTER 21
+<STR>(RAV)
+I guess ya can't 
+judge a cow by 
+its udder...
+
+## POINTER 22
+Miska
+So, what do you say? Would 
+you like to take the test?
+
+## POINTER 23
+<STR>(EST_P)
+We've already come all the way out 
+here...what do you say, <STR>(RIT)? I'm sure 
+you'll pass with flying colors!
+
+## POINTER 24
+<STR>(KAR)
+<STR>(EST_P)'s right. We wouldn't be 
+able to go to the original test 
+site in the capital, anyway.
+
+## POINTER 25
+<STR>(RIT)
+Are there any requirements for taking
+the certification test? Anything I need?
+
+## POINTER 26
+Miska
+You're determined. I can tell from 
+the look in your eyes. You remind 
+me of myself when I was your age.<PAGE>All of the items that you need in order 
+to take the test are written on this
+piece of paper. Make sure not to lose it.
+
+## POINTER 27
+Miska
+If you come back with those 
+five books, you'll be able to
+take the test.
+
+## POINTER 28
+<STR>(RIT)
+"The Village Carpeted with Flowers"
+"Reflections on the Scent of the Sea"
+"Urban Planning for Bustling Cities"<PAGE>"The Legend that Sleeps in Searing Sands"
+"Against a Backdrop of New Hope"
+
+## POINTER 29
+Miska
+Think of the search for these 
+books as the first part of your test.
+Good luck!∀
+
+## POINTER 30
+<STR>(YUR)
+Since it's books we're looking for, maybe 
+we should look in the sort of places that 
+you'd normally find things to read?
+
+## POINTER 31
+<STR>(RIT)
+Right. Let's go around and 
+see if we can think of any 
+good places to search.

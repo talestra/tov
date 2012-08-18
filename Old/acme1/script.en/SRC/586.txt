@@ -1,0 +1,60 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VA013_057)Well, he'll live, but he shouldn't 
+be moved for quite some time.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VA013_058)He's lucky you were 
+here. What a stupid 
+thing to do...<PAGE><VOICE>(VA013_059)I don't care what the reason, 
+anybody who steps outside 
+a barrier alone is crazy.
+
+## POINTER 2
+<STR>(RAV)
+<VOICE>(VA013_060)I figure this'll make him give 
+up on the Everlight. He's lucky 
+to get off with his life.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VA013_061)...I guess we shouldn't have brought 
+the Everlight to him after all...<PAGE><VOICE>(VA013_062)I should have listened 
+to you, <STR>(YUR)...
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VA013_063)Hey, it's his own fault for charging 
+out like that. You got nothing 
+to worry about, <STR>(KAR).
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VA013_064)<STR>(YUR)...
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VA013_065)But we should decide what our 
+guild will do if something 
+like this happens again.
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VA013_066)We do need to try and define 
+Brave Vesperia's rules as 
+we gain more experience.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VA013_067)Yeah...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA013_068)Hey, don't get all down 
+on yourself. We just 
+started as a guild.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VA013_069)Yeah. We'll only get better from here on.

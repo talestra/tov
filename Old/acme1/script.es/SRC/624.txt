@@ -1,0 +1,177 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(KAR)
+<VOICE>(VA018_001)La verdad es que no me lo habría
+imaginado antes de que hiciésemos
+todos estos trabajos, pero...<PAGE><VOICE>(VA018_002)que un gremio siga adelante
+no es nada fácil.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(RIT)
+<VOICE>(VA018_003)¿Y ahora por qué
+te pones tan serio?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(KAR)
+<VOICE>(VA018_004)Me refiero a que es muy obvio
+el por qué empezamos aceptando
+trabajos de estos.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(EST_P)
+<VOICE>(VA018_005)¿Porque nos gusta ver sonreír a la gente?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551279]
+<STR>(KAR)
+<VOICE>(VA018_006)Pero ¿qué pasa si ayudamos a la
+gente equivocada o si acabamos
+haciendo más mal que bien?<PAGE><VOICE>(VA018_007)Estaríamos consiguiendo
+los resultados contrarios
+de lo que nos proponemos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(YUR)
+<VOICE>(VA018_008)Ya, pero piensa en el tío ese...
+Nobis, ¿verdad? Al final
+parecía bastante contento. 
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(JUD)
+<VOICE>(VA018_009)Espero que su gremio
+vuelva a prosperar ahora
+que todo ha terminado.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(EST_P)
+<VOICE>(VA018_010)Y el de Portal de Ruinas
+se emocionó mucho cuando
+le devolvimos su pala.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(RAV)
+<VOICE>(VA018_011)Un poquillo mu emocionao, me parece
+a mí. Macho, que's una pala.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(YUR)
+<VOICE>(VA018_012)
+Aunque también hay gente como
+Mimula, que intentará usarnos
+para sus siniestros propósitos.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(RAV)
+<VOICE>(VA018_013)
+Siempre hay que mirá el lado positivo,
+lo malo e incluso lo horrible, a veces.
+Eso hacen los gremios.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(KAR)
+<VOICE>(VA018_014)Ojalá pudiésemos pasar
+de lo malo y lo horrible.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(JUD)
+<VOICE>(VA018_015)Tendremos que enfrentarnos
+a eso cuando nos lo crucemos.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(RAV)
+<VOICE>(VA018_016)Tól mundo ha nacío
+con un lao malo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(EST_P)
+<VOICE>(VA018_017)No es cierto. Hay algo maravilloso
+en el corazón de todas las personas.<PAGE><VOICE>(VA018_018)Quizá debamos esforzarnos más para verlo
+en la gente que hace cosas que no debe...
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(RAV)
+<VOICE>(VA018_019)Paz, amor y comprensión mutua, ¿eh?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(EST_P)
+<VOICE>(VA018_020)No te rías de mí. La gente
+mala siempre tiene razones
+para hacer lo que hace.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(RAV)
+<VOICE>(VA018_021)La verdá, Alteza, es que siento
+no'star de acuerdo contigo en eso.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(YUR)
+<VOICE>(VA018_022)En fin, que los objetivos son
+importantes, pero no siempre
+tienes que cumplirlos.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(KAR)
+<VOICE>(VA018_023)Quizá tengas razón...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(YUR)
+<VOICE>(VA018_024)Si todo el mundo es feliz así,
+¿qué más da no conseguir
+el objetivo que se quiere?
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(KAR)
+<VOICE>(VA018_025)¿Aunque a veces
+signifique fracasar?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(YUR)
+<VOICE>(VA018_026)Te das por vencido
+y pasas al siguiente.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(JUD)
+<VOICE>(VA018_027)Aunque acabes desnudo en la calle,
+tu vida no ha terminado
+mientras sigas respirando.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1292705224]
+<STR>(RAV)
+<VOICE>(VA018_028)¿Ein? ¿Desnudo? ¿Nuestra
+queridísima <STR>(JUD) acaba de
+decir argo de desnudarse?
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(YUR)
+<VOICE>(VA018_029)Calma, chucho. Calma...
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(EST_P)
+<VOICE>(VA018_030)Dime, <STR>(YUR). ¿Estás de
+mi parte o de la de <STR>(RAV)?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(YUR)
+<VOICE>(VA018_031)Eh, ¿desde cuándo tengo que elegir una?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980356]
+<STR>(RIT)
+<VOICE>(VA018_032)¿Por qué os parece tan chungo?<PAGE><VOICE>(VA018_033)Solo tienes que aprender de tus errores. Ese es
+el principio de cualquier forma de aprendizaje.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(KAR)
+<VOICE>(VA018_034)<STR>(RIT)...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(RIT)
+<VOICE>(VA018_035)Para empezar intenta disfrutar
+de todo esto un poco más,
+como estos payasos.
+
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(KAR)
+<VOICE>(VA018_036)Sí, lo haré.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Lia;time:1292705042]
+<STR>(RAP)
+<VOICE>(VA018_037)¡Guau!

@@ -1,0 +1,151 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879890]
+
+Oh, eres tú.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879890]
+
+¡Mira!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879890]
+<STR>(RIT)
+¡Eso es...!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806067]
+
+Es magia que utiliza espíritus.
+Aunque aún no esta completa.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879890]
+
+No está mal, ¿eh? Este tío
+ha averiguado la fórmula
+de los espíritus.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879890]
+
+Nah, no ha sido nada, en serio.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806033]
+
+Tengo que admitir que me ha sorprendido
+que pudieses conjurar un hechizo así.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806033]
+
+Je, je. Por favor, no es para tanto.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286987106]
+<STR>(RIT)
+¿Habéis empezado la investigación de
+espíritus a pesar de las quejas de antes?
+¿No os parece que eso es de hipócritas?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286987106]
+
+Aún seguimos con la investigación de blastias.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286987106]
+
+¡Simplemente hemos añadido un nuevo campo
+en el que centrar esa investigación!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806033]
+<STR>(RIT)
+Bueno, como queráis.
+Dime, ¿qué tipo de fórmula es?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286987106]
+
+¡Nada de fisgonear!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1290373967]
+
+Todos somos magos de Aspio, ¿verdad?
+Seamos amables.<PAGE>¿Guardarás como un secreto de Aspio
+la creación de esta fórmula?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286987106]
+<STR>(RIT)
+Por supuesto.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286988260]
+
+Primero dibujas una fórmula textual alrededor del
+borde exterior para aislar el atributo de fuego...
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286988260]
+<STR>(YUR)
+<STR>(RIT) parecía muy preocupada,
+pero al final todo se va a arreglar.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286988260]
+<STR>(EST_P)
+Como investigadores, su deseo por estudiar
+cosas nuevas es demasiado fuerte.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286988260]
+<STR>(YUR)
+Ya. Son más mayores que <STR>(RIT), pero estos
+magos están todos hechos de la misma pasta.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806033]
+
+... Y así es como funciona, aunque esta
+parte aún no la comprendemos del todo.<PAGE>¿Cómo lo harías?
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286988260]
+<STR>(RIT)
+Mmmmmm...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806033]
+<STR>(RIT)
+¡Ya lo tengo!
+¡Así!
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286988260]
+
+Guau...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806033]
+
+¡Cuidado, eso es
+demasiado poderoso!
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1290373967]
+<STR>(RIT)
+P-Perdón...
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286988260]
+
+¡Pero creo que
+podemos usarlo!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806033]
+
+Sí. ¿Tú qué crees?
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286988260]
+<STR>(RIT)
+Sí. ¿Os importa
+que lo use?
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286988260]
+
+La verdad es que preferiríamos
+algo menos volátil.
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286988260]
+
+Vamos a ver si se nos ocurre
+una manera de hacerlo
+un poco más práctico.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298806033]
+<STR>(RIT)
+De acuerdo. Dejad que yo también
+reflexione sobre el tema.<PAGE>Si se me ocurre un método mejor
+de usar esa fórmula, os avisaré.
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286988260]
+
+¡Muchas gracias!

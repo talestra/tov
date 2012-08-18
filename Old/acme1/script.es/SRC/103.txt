@@ -1,0 +1,92 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_500)¡Deprisa, meteos dentro! 
+¡El portón se está cerrando!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_501)¡Flechas! ¡Traed flechas!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_502)¡Cerrad el portón!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_503)¡Maldita sea! ¿Qué hacen aquí
+en esta época del año?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_504)
+¡Los monstruos se retirarán 
+si detenemos la primera oleada!
+¡Recordad vuestro entrenamiento!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_505)¡Vale! Ya han entrado todos.
+¡Cerrad!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_506)¡Esperad! 
+Aún queda gente fuera.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1270630051]
+<STR>(EST_P)
+<VOICE>(VS05_507)¿Eso de ahí... son monstruos?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1270630051]
+<STR>(YUR)
+<VOICE>(VS05_508)Acabamos de salir de la capital
+y ya nos hemos metido en otro embrollo...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1270630051]
+<STR>(YUR)
+<VOICE>(VS05_509)Está claro. Estoy gafado. No hay duda.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_510)¡¿...?! ¡El portón!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<STR>(RAP)
+<VOICE>(VS05_511)¡Grrr, guau!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_512)¡Q-Qué demonios! 
+¡Corta el rollo!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1270630051]
+<STR>(YUR)
+<VOICE>(VS05_513)<STR>(EST_P), espérame aq... 
+¡Oye!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1270630051]
+<STR>(EST_P)
+<VOICE>(VS05_514)¡Hay que ayudar a esa niña!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1270630051]
+<STR>(YUR)
+<VOICE>(VS05_515)Lo que tú digas...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_516)
+P-Por favor... No puedo levantarme... 
+¡Aaay! ¡Los monstruos! 
+¡Los monstruos!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1270630051]
+<STR>(EST_P)
+<VOICE>(VS05_517)Todo va a salir bien.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_518)Pue-puedo levantarme...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1270630051]
+<STR>(EST_P)
+<VOICE>(VS05_519)¡Ve hacia el fuerte, deprisa!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1273416863]
+<VOICE>(VS05_520)¡Mi muñeca! ¡Me la dio mamá!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1270630051]
+<STR>(EST_P)
+<VOICE>(VS05_521)¡Oye! ¡Suéltame!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1270630051]
+<STR>(YUR)
+<VOICE>(VS05_522)¡Espera aquí!

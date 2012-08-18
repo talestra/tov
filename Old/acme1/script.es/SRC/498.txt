@@ -1,0 +1,135 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+<STR>(YUR)
+<VOICE>(VS52_001)Ooh... Aah... Aah...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527351]
+<STR>(YUR)
+<VOICE>(VS52_002)¿Mi habitación?
+Pero ¿por qué?...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+<STR>(YUR)
+<VOICE>(VS52_003)No pensaba que me odiara tanto.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+<STR>(YUR)
+<VOICE>(VS52_004)Argh...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499589]
+<STR>(YUR)
+<VOICE>(VS52_005)¿Eh? ¿El Hijo de la Luna Llena?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+<STR>(YUR)
+<VOICE>(VS52_006)Los líderes de los antiguos poseían
+poderes innatos, y se les llamaron
+Hijos de la Luna Llena.<PAGE><VOICE>(VS52_007)El santuario de Zaude recibió sus vidas y su poder.
+Selló al adephagos, salvando así al mundo.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+Duke
+<VOICE>(VS52_008)Has despertado.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+<STR>(YUR)
+<VOICE>(VS52_009)Duke... Entonces
+me has salvado tú.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+Duke
+<VOICE>(VS52_010)No podía permitir que esta espada
+se perdiera para siempre en el mar.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499589]
+<STR>(YUR)
+<VOICE>(VS52_011)Vale... Pero aun así,
+te doy las gracias.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499589]
+<STR>(YUR)
+<VOICE>(VS52_012)Entonces, ¿el santuario de Zaude
+funcionaba con las vidas de los
+Hijos de la Luna Llena?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499589]
+Duke
+<VOICE>(VS52_013)Los humanos fueron quienes provocaron
+y dirigieron al adephagos.<PAGE><VOICE>(VS52_014)Considéralo su... penitencia.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+Duke
+<VOICE>(VS52_015)Los escasos supervivientes de los Hijos
+de la Luna Llena y los entelechia decretaron
+cómo había de ser el mundo a partir de entonces.<PAGE><VOICE>(VS52_016)La familia imperial son sus descendientes.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499589]
+<STR>(YUR)
+<VOICE>(VS52_017)Y así es como se originó el Imperio.<PAGE><VOICE>(VS52_018)Y por eso la espada, la llave de Zaude,
+es el distintivo del verdadero emperador.
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+Duke
+<VOICE>(VS52_019)Mientras se siga haciendo uso del aer,
+nadie puede oponerse al adephagos.<PAGE><VOICE>(VS52_020)Pues él nace del
+mismo aer.
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+<STR>(YUR)
+<VOICE>(VS52_021)Tú también querías
+detener al adephagos...<PAGE><VOICE>(VS52_022)Por eso ibas de aquí para allá
+apaciguando los aer krene, ¿verdad?
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+Duke
+<VOICE>(VS52_023)En efecto.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+<STR>(YUR)
+<VOICE>(VS52_024)¿Por qué no le pediste ayuda
+al Imperio o a los gremios?<PAGE><VOICE>(VS52_025)Así habrías podido
+detener a Alexei.
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+Duke
+<VOICE>(VS52_026)Mi alianza es para con los entelechia. No tengo
+intención de coexistir con la humanidad.<PAGE><VOICE>(VS52_027)Es más, las masas de la humanidad jamás
+serán capaces de llegar a ningún acuerdo.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+<STR>(YUR)
+<VOICE>(VS52_028)¿Qué pretendes, entonces?<PAGE><VOICE>(VS52_029)El adephagos resultó ser demasiado
+incluso para aquella antigua civilización.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+Duke
+<VOICE>(VS52_030)Hay un modo.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1304527339]
+<STR>(YUR)
+<VOICE>(VS52_031)
+Dices que desprecias a la humanidad, pero
+¿qué hay de nosotros? ¿No somos humanos, acaso?<PAGE><VOICE>(VS52_032)¿Por qué me diste la Dein Nomos?
+¿Por qué cooperaste con nosotros?
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298499589]
+Duke
+<VOICE>(VS52_033)Vosotros erais los únicos que al menos
+intentaban comunicarse con los entelechia.<PAGE><VOICE>(VS52_034)Por eso fue... Pero ya no importa.
+Ya está hecho.
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+<STR>(YUR)
+<VOICE>(VS52_035)Espera... ¿Qué vas a hacer ahora?
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289241794]
+Duke
+<VOICE>(VS52_036)Proteger nuestro mundo.
+Nuestro Terca Lumireis.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+<STR>(YUR)
+<VOICE>(VS52_037)Espera... Argh.
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1286215236]
+<STR>(YUR)
+<VOICE>(VS52_038)Mierda...

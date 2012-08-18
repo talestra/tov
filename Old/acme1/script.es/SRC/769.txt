@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1293554589]
+
+Date prisa.
+Nos está esperando.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296851986]
+
+Sí, señor. Pero
+¿cómo va a usar
+un objeto así?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296851986]
+
+Haces demasiadas preguntas.
+Esta es una misión especial...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296851986]
+<STR>(YUR)
+Parece que pesa mucho.
+¿Os echamos una mano?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296851986]
+
+Ah, gracias por ofrecer...
+¿Ein? Vosotros sois...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296851986]
+<STR>(RIT)
+Es un blastia hoplón, ¿verdad?
+¿Para qué lo vais a usar?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1293554589]
+
+¡Huye!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296851986]
+
+¿Q-Quieres que escape?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296851995]
+
+¡Serás zoquete! ¡Date prisa y huye!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296852002]
+<STR>(YUR)
+¡A por ellos!

@@ -1,0 +1,62 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1251645869]
+(JUD) lo da todo
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791725]
+(YUR)
+(RIT), estás comiendo en silencio
+por una vez. ¿Te gusta la comida?
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265638202]
+(RIT)
+No es que me guste...
+pero tampoco me disgusta.
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791725]
+(JUD)
+Me alegro de que te agrade, (RIT).
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791725]
+(EST_P)
+Tengo entendido que hacer
+estofado de cerdo lleva mucho tiempo.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983070]
+(JUD)
+Sí, lleva por lo menos dos días hervir
+el cerdo hasta que está lo bastante
+blando como para comérselo.
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791725]
+(YUR)
+Parece que se te da bien cocinar
+platos elaborados, (JUD_P).
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791725]
+(JUD)
+Antes cocinaba mucho. No me importa trabajar
+un poco si la gente lo va a disfrutar.
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791725]
+(YUR)
+¿Solías cocinar para tu familia?
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:xander;time:1265638202]
+(JUD)
+Sí. ¡Y ahora os tengo a vosotros! 
+Hace que trabajar tanto merezca la pena.
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791725]
+(RIT)
+Está delicioso...
+
+## POINTER 11 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791725]
+(EST_P)
+¿Eh? (RIT), ¿decías algo?
+
+## POINTER 12 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791725]
+(RIT)
+No.
+
+## POINTER 13 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266791725]
+(JUD)
+Ji, ji, ji. Gracias, (RIT).

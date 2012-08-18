@@ -1,0 +1,47 @@
+## POINTER 0
+Maps
+
+## POINTER 1
+(KAR)
+(EST_P), what are you looking at?
+
+## POINTER 2
+(EST_P)
+It's a map of the area around here.
+
+## POINTER 3
+(KAR)
+Ooh, let me see...
+Hey, this is almost completely blank!
+
+## POINTER 4
+(KAR)
+You can't call this a map!
+
+## POINTER 5
+(EST_P)
+Really?
+
+## POINTER 6
+(KAR)
+You should try a surveyors' guild, like the "World's 
+Cellar"! Their maps are really amazing!
+
+## POINTER 7
+(KAR)
+All the top guild members have one.
+
+## POINTER 8
+(YUR)
+So then, naturally you've got a 
+copy, right, (KAR)? Let's see it!
+
+## POINTER 9
+(KAR)
+Uhhh, well, y'see... Once you get as good as 
+I am, you don't need to use a map anymore!
+
+## POINTER 10
+(EST_P)
+Oh, that's too bad.
+I really wanted to see it.

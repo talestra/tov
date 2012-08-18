@@ -1,0 +1,539 @@
+## POINTER 2000
+You're a Knight, right? 
+...Huh? You're not?
+
+## POINTER 2001
+The Knights are gonna 
+protect this town! 
+We're gonna be safe!<PAGE>Maybe I should join 
+the Knights, too.
+
+## POINTER 2002
+Hey mister, 
+aren't you going to 
+join the Knights?
+
+## POINTER 2003
+Waaaah! I'm scared! 
+There's a big ol' 
+monster in the sky!
+
+## POINTER 2004
+It's gonna fall! 
+It's gonna fall on us! 
+We're gonna get squashed!
+
+## POINTER 2005
+W-we're still getting ready... 
+So please come back again later.
+
+## POINTER 2006
+W-we're not open yet... 
+Huh?! Suspicious? I'm not 
+being suspicious at all!
+
+## POINTER 2007
+W-Welcome. 
+Party of six...and, uh, one dog? 
+That'll be 400 Gald.
+
+## POINTER 2008
+Come back any time 
+you need a rest.
+
+## POINTER 2009
+You made it through the desert?! 
+Rest easy now. You've earned it. 
+But that'll still be 400 Gald.
+
+## POINTER 2010
+Take your time and enjoy 
+what night should really 
+be like here in Mantaic.
+
+## POINTER 2011
+Usually there's a 12 
+o'clock curfew, but today 
+we can stay out all night!
+
+## POINTER 2012
+Take your time and enjoy what 
+night should really be like here in 
+Mantaic. It's 400 Gald for a room.
+
+## POINTER 2013
+Welcome, welcome! 
+You must be tired. 
+A room is 400 Gald.
+
+## POINTER 2014
+Welcome! I've heard a lot of 
+unsettling rumors lately. 
+A room is 400 Gald.
+
+## POINTER 2015
+Welcome! 
+We've got a delicious dinner and 
+nice, fluffy beds for 400 Gald.
+
+## POINTER 2016
+Get out of here... 
+You're annoying...
+
+## POINTER 2017
+............
+......
+......Shut up.
+
+## POINTER 2018
+Hey! It's you! Did my 
+canteen help in coming back 
+from the desert alive?<PAGE>Go ahead. Keep it. Use it as 
+long as you like. It's my way of 
+celebrating our new freedom!
+
+## POINTER 2019
+The <STR>(FRE) Brigade's great 
+and all, but you people are pretty 
+incredible, too. I can tell!
+
+## POINTER 2020
+A whole bunch of 
+Knights showed up 
+again a while ago.<PAGE>I was so worried they 
+were here to take over 
+the town again.
+
+## POINTER 2021
+Luckily, that didn't 
+happen at all.<PAGE>What was that all about, anyway?
+
+## POINTER 2022
+Welcome...or so I'd like to be 
+able to say. The Trino Liner Service 
+isn't operating right now.<PAGE>The magistrate says he'll 
+sink any ship that sets out. 
+Can you believe that?
+
+## POINTER 2023
+The Trino Liner Service is a sailing 
+Guild. Neither wind nor rain can 
+stop our ship, the Stratos...<PAGE>...But it isn't too much 
+of a match for storms.
+
+## POINTER 2024
+Welcome... How I wish I could 
+say that. The Liner Service 
+is out of operation.
+
+## POINTER 2025
+The Stratos, flagship of the Trino 
+Liner Service sailing Guild, is 
+currently being overhauled!<PAGE>You'll have to wait a bit longer before 
+service resumes, I'm afraid.
+
+## POINTER 2026
+Welcome... But then that would be 
+a lie, wouldn't it? The Liner 
+Service is suspended right now.
+
+## POINTER 2027
+They say Don Whitehorse 
+passed on.<PAGE>We can't confirm what the 
+situation's like in Capua Torim, 
+so we can't set sail.
+
+## POINTER 2028
+Welcome... Sorry, I'm just kidding. 
+*Sigh*... Liner Service 
+is suspended right now.
+
+## POINTER 2029
+Our sailing Guild, Trino Liner Service, is currently 
+lending out the Stratos to the Knights. 
+They need it to get evacuees to safety.<PAGE>I'm afraid we aren't running regular 
+service right now. Please understand.
+
+## POINTER 2030
+Welcome... Oh, how I want to be 
+able to say that. Liner Service 
+isn't in operation right now.
+
+## POINTER 2031
+Some strange structure 
+sprang out of the sea!<PAGE>People say it even sucks ships 
+in. It's way too dangerous, so 
+the Liner Service is suspended.
+
+## POINTER 2032
+Welcome... Oh, why do I even 
+keep saying it. Liner Services 
+are completely suspended.
+
+## POINTER 2033
+The Trino Liner Services 
+hasn't set sail 
+in months.<PAGE>The Guild is strapped for cash, all thanks to 
+our ship being strapped down...oh, I don't 
+even know what I'm talking about anymore.
+
+## POINTER 2034
+What is that tower? <PAGE>I hope it doesn't interfere 
+with the operation 
+of the ship...
+
+## POINTER 2035
+That has nothing to do with the sea 
+because that happened on the mountain! 
+But that's something I can't say.
+
+## POINTER 2036
+Welcome! Welcome 
+to Trino Freight!<PAGE>The Liner Service? It wasn't 
+bringing in any money, so we 
+changed our business model.
+
+## POINTER 2037
+It's been a string of 
+cataclysmic catastrophes 
+lately, on sky, land and sea!<PAGE>With things being as they 
+are, freight service is 
+bringing in big money.
+
+## POINTER 2038
+Welcome, have a look 
+at our wares!
+
+## POINTER 2039
+Taxes are high and the 
+shop is not profitable.<PAGE>Could you please 
+buy more...
+
+## POINTER 2040
+Welcome! Even if the 
+Magistrates change, our 
+service doesn't!
+
+## POINTER 2041
+Come back any time.
+
+## POINTER 2042
+Welcome! Anything you need, 
+fast and reasonably-priced!
+
+## POINTER 2043
+Welcome! Feel free to pick up and look 
+at anything you're interested in.
+
+## POINTER 2044
+I really have a bad feeling 
+about this... The bureaucrats 
+keep talking about money... <PAGE>Can't we just go ahead 
+and play a game?
+
+## POINTER 2045
+<mini>ISIIt's a duel!
+
+## POINTER 2046
+There's a certain romance to be 
+found in stones. I shall become 
+the King of Stone-Taking!
+
+## POINTER 2047
+I can feel the heartbeats of 
+the stones...is this love?
+
+## POINTER 2048
+Come again.
+
+## POINTER 2049
+Can you sense it? The very 
+will of the stones...<PAGE>...Yes, the stony will 
+of the stones...
+...Sorry. A little joke.
+
+## POINTER 2050
+The stones are omniscient. They 
+know the height of the sky...the 
+depth of the seas.<PAGE>But do they know where my wife's 
+secret nest-egg is hidden...? 
+That's the real question...
+
+## POINTER 2051
+Anything is possible as long 
+as you have the stones... 
+I used to believe that.
+
+## POINTER 2052
+You want to test the stones? 
+Very well... Wait. That young 
+lady's not with you.<PAGE>I just can't get 
+into it if that lady's 
+not here...
+
+## POINTER 2053
+I only challenge those in 
+whom I take interest.<PAGE>I can't use the stones 
+constantly. That would 
+be rude to them!
+
+## POINTER 2054
+I have 10,000 stones in 
+my collection. Quite 
+impressive, I'd say.
+
+## POINTER 2055
+If you're tired, why not sit 
+down to play Stone-Taking with 
+me? It's quite refreshing.
+
+## POINTER 2056
+Stones are the perfect refreshment. 
+Rolling them over and over... This 
+is the true path to enlightenment.
+
+## POINTER 2057
+Any troubles this world may face would pass 
+by so easily, if only people would discuss 
+them in tranquility with the stones.
+
+## POINTER 2058
+One must put unfortunate goings-on 
+out of one's mind, come to perfect 
+calm, and merge with the stones...<PAGE>Nnngh...! I cannot 
+see anything...
+
+## POINTER 2059
+Mmmgh...! See there, the 
+stones are shaking, 
+crying out in dismay!<PAGE>What...? It's just 
+an earthquake...?
+
+## POINTER 2060
+Stone-Taking is not an escape from reality! 
+Nay. It is a technique by which one may 
+witness the very beginning of the world.
+
+## POINTER 2061
+The stones are as crystals which 
+preserve all the world's memory. 
+Just look at them...<PAGE>...This one reminds 
+me of my wife's face.
+
+## POINTER 2062
+We're not in business right now 
+because the magistrate gets a 
+percentage by way of taxes.<PAGE>I'm really sorry.
+
+## POINTER 2063
+This is such a good spot, 
+so I'm staying here...<PAGE>I'll set up shop 
+here one day...
+
+## POINTER 2064
+With Ragou gone, there's going 
+to be a new magistrate coming.<PAGE>I just hope the taxes he 
+sets are reasonable...
+
+## POINTER 2065
+Just a few more months... One day 
+I'll have a wonderful spread of 
+products for sale. I'm sure of it...
+
+## POINTER 2066
+The new magistrate 
+arrived, but taxes haven't 
+gotten any cheaper...<PAGE>I suppose any tariffs the 
+Empire's petty bureaucrats 
+set aren't easily lowered.
+
+## POINTER 2067
+When am I going to be able 
+to get back in business...?
+
+## POINTER 2068
+Things are in chaos over in the 
+Empire...things are in chaos in 
+Tolbyccia because the Don died.<PAGE>I can't even imagine when I'm going 
+to be able to open shop back up...
+
+## POINTER 2069
+How am I going 
+to make a living 
+now...?
+
+## POINTER 2070
+*Sigh*...paying the rental fee 
+for this spot day in and day out 
+is eating away my savings...<PAGE>Why do I stay here? I can't 
+let a location as good as 
+this slip out of my hands.
+
+## POINTER 2071
+My priorities may be skewed, but 
+there's no way I could convince 
+myself to give this space up.
+
+## POINTER 2072
+I swear, my luck is even 
+worse now than it was when 
+Ragou was in charge.<PAGE>Do you think it's because I'm 
+so obsessed with this spot?
+
+## POINTER 2073
+Maybe I should give this location up, 
+and open up shop in some other town. 
+Maybe that would bring me luck...
+
+## POINTER 2074
+My heart is still racing... <PAGE>I've never seen something 
+so unbelievable.
+
+## POINTER 2075
+I'm still in shock... <PAGE>I'm really a coward.
+
+## POINTER 2076
+I've made up my mind! 
+I'm making a suicide 
+pact with this spot!<PAGE>I don't care what anyone 
+thinks about me. This is 
+where I'm doing business.
+
+## POINTER 2077
+If I survive, and if I'm ever able 
+to freely stock merchandise, 
+come back and buy something.<PAGE>I'll be waiting for you.
+
+## POINTER 2078
+There was someone dressed 
+all in black wandering around. 
+He was really suspicious. <PAGE>And to think, he's the executioner 
+hired by the magistrate... I really 
+don't like the era that we live in...
+
+## POINTER 2079
+A wise man never courts 
+danger! I'd like to start 
+my business here. <PAGE>But in this world, you can be 
+murdered without doing anything 
+wrong... It's unbelievable...
+
+## POINTER 2080
+I heard a metallic sound behind
+the alley. I couldn't see anything
+because it was dark.<PAGE>I thought someone was being
+murdered... I guess something
+like that is not rare in this city.
+
+## POINTER 2081
+You.... you... came out
+from the alley?<PAGE>I never thought you would
+be stealing because you
+couldn't pay taxes.
+
+## POINTER 2082
+I'm always out of stock when 
+supplies don't arrive due to 
+harsh ocean conditions. <PAGE>I've never experienced 
+anything like this. Why are 
+the ocean conditions like this?
+
+## POINTER 2083
+Unless there is inventory 
+to sell, there's nothing 
+to eat tomorrow... <PAGE>It's been like this 
+ever since the 
+magistrate arrived.
+
+## POINTER 2084
+Woo. It finally 
+cleared. <PAGE>At least, clear skies 
+bring a little 
+piece of mind.
+
+## POINTER 2085
+Only if the magistrate would 
+come clean as a good person 
+under these blue skies... <PAGE>Like that'll ever happen...
+
+## POINTER 2086
+Shipping routes for cargo 
+are still so unstable...<PAGE>Aaaah! It's all because Fortune's 
+Market monopolizes them!
+
+## POINTER 2087
+Maybe I should just find out if Fortune's 
+Market will let me join them...
+
+## POINTER 2088
+Apparently Fortune's Market 
+has their own, exclusive 
+shipping routes for cargo...<PAGE>One of them passes across the ice 
+floes to the north. That's impossible 
+for normal folk to compete with!
+
+## POINTER 2089
+I hear they have to bring their 
+cargo over extremely thin ice. 
+They're risking their lives!
+
+## POINTER 2090
+The port's full of warships and 
+there's some kind of strange 
+building out on the sea.<PAGE>Where in the world is 
+Fortune's Market getting 
+their merchandise from?
+
+## POINTER 2091
+Even at a time like this, the 
+shop across the way is doing 
+gangbuster business.<PAGE>I...I think I want to join 
+Fortune's Market...
+
+## POINTER 2092
+The world's gone all to hell lately, 
+so I finally made up my mind 
+to join Fortune's Market...<PAGE>...But when I applied, they wanted 
+me to pay a huge contract deposit! 
+I can't afford that!
+
+## POINTER 2093
+I suppose locals really do 
+have to join hands and work 
+together, after all...
+
+## POINTER 2094
+What's the deal, here 
+and there... I'm tired 
+of this...! <PAGE>I'm sorry, I just got 
+a little distracted...
+
+## POINTER 2095
+I wonder if it's over for this 
+world... Is it okay that I'm 
+doing something like this?
+
+## POINTER 2096
+Earthquakes, the northern mountains 
+crumbling...to be perfectly honest, I 
+just want to run away...<PAGE>...But I can't abandon the place 
+I was born, much less go beyond 
+the barrier...can I?
+
+## POINTER 2097
+The people at the shop next door 
+seem to be doing their best. 
+I suppose I should, too.
+
+## POINTER 2098
+Are you travelers? Watch 
+out. The magistrates in 
+this city are evil. <PAGE>Not only do they take taxes 
+from their citizens, they 
+also make travelers pay.
+
+## POINTER 2099
+Our magistrates are evil. They 
+don't have second thoughts 
+when murdering people. <PAGE>You shouldn't stick around if you 
+think it's going to be dangerous.

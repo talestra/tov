@@ -1,0 +1,122 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+Kellas
+¡Muchísimas gracias!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298814546]
+Teagle
+Nos habéis ayudado tantas veces...
+No sé cómo podría agradecéroslo.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(RAV)
+No sus preocupéis. ¡Es nuestro pan de cada día!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298814546]
+<STR>(YUR)
+No recuerdo que les ayudases
+tanto, viejales.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+Pauly
+¡Vuestro perrito me ha salvado!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298815020]
+<STR>(YUR)
+¡<STR>(RAP) nunca dejaría tirado
+a un niño amante de los perros!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+Teagle
+Gracias, señor Perro.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1285955476]
+Teagle
+Me pregunto por qué
+querría llevarse a Pauly...
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(RAP)
+¡Guau, guau, guau!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298815020]
+<STR>(YUR)
+Parecía como si quisiera
+hacer dinero fácil.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298815020]
+Teagle
+Supongo que tenemos que ir con cuidado,
+incluso dentro de las barreras...
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+Teagle
+¿Qué tienes ahí, Pauly?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298815020]
+Pauly
+A ese tío se le había caído algo,
+¡así que lo he cogido!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027433]
+<STR>(YUR)
+¿Al bandido ese?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298815020]
+<STR>(YUR)
+Parece una nota que explica cómo
+enseñar cierta técnica a un monstruo.<PAGE>Aunque un monstruo
+cortito no podría aprender
+nunca una técnica así.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(RAP)
+¡Guau, guau, guau!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298815020]
+<STR>(YUR)
+¿Qué?
+¿Quieres esto?
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(YUR)
+No hay nada que
+<STR>(RAP) no pueda usar.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(YUR)
+Venga, va.
+Te la leeré.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(YUR)
+Y ya está.
+¿Lo has pillado?
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(RAP)
+¡Guau, guau!
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+Pauly
+¡El perrito se
+ha hecho más fuerte!
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284400703]
+<STR>(RAP)
+¡Guau!

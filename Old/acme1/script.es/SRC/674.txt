@@ -1,0 +1,127 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+Ted
+¡Si es <STR>(YUR)!
+Espera un momentín.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+Hanks
+Estaba esperando que <STR>(FRE)
+y tú aparecierais.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+<STR>(YUR)
+¿Me esperabas a mí y a... <STR>(FRE)?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1273598495]
+Hanks
+Sí. Quería daros esto.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+<STR>(RAV)
+Mmm... No es un objeto común. Dudo que se pueda
+comprar en arguna tienda. ¿Cómo ha ido a parar 
+esto en los barrios bajos?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+Hanks
+Esta espada perteneció a un famoso mercenario
+que visitó los barrios bajos hace años.<PAGE>Llegó aquí de casualidad, 
+pero le gustó tanto que acabó
+quedándose mucho tiempo.<PAGE>En realidad, sería más correcto 
+decir que vivía aquí. Todos le
+considerábamos uno de los nuestros.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:miyu;time:1273598495]
+<STR>(YUR)
+Es la primera vez que oigo
+hablar de alguien así.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+Hanks
+Es normal que no le conozcas.
+Dejó la capital para seguir su camino
+mucho tiempo antes de que tu nacieras.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+<STR>(KAR)
+¿Y adónde fue ese mercenario?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+Hanks
+No lo sé. Algunos Caballeros y miembros de
+los gremios vinieron a preguntar por su espada,
+pero nunca pudimos encontrarla.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+<STR>(RIT)
+¿Y eso? ¿Por qué se iría
+un mercenario sin su espada?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+Ted
+Pero hace poco, mientras estábamos limpiando
+la ciudad después de todo el alboroto en la 
+capital, la espada apareció.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:miyu;time:1273598495]
+<STR>(KAR)
+¿Cómo es posible?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:miyu;time:1273598495]
+<STR>(EST_P)
+Quizá fue un regalo para la gente de los
+barrios bajos por su hospitalidad.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+<STR>(RIT)
+Entonces, ¿por qué no
+se la dio directamente?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+<STR>(RAV)
+A lo mejó pensaba
+volver y recuperarla
+argún día.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+<STR>(YUR)
+En ese caso, no deberíamos
+llevárnosla, ¿no creéis?
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:miyu;time:1273598495]
+Hanks
+Ese mercenario siempre decía 
+que esta espada debía usarse
+para proteger a las personas.<PAGE>No creo que le importe que la deje
+en manos de nuestros chicos, que 
+están luchando para proteger el mundo.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+<STR>(JUD)
+Es el arma quien elige 
+a su dueño, no al revés.<PAGE>Puede que no sea casualidad que la espada
+apareciera justo ahora, después de tantos años.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:miyu;time:1273598495]
+Hanks
+Usa esta espada, <STR>(YUR). 
+Nos harás a todos
+un gran favor.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1294239878]
+<STR>(YUR)
+Vale. La empuñaré para ti.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:miyu;time:1273598495]
+Ted
+No te olvides de compartirla con <STR>(FRE).
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:miyu;time:1273598495]
+<STR>(EST_P)
+Esta espada alberga los sueños 
+y esperanzas de la gente, ¿verdad?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:miyu;time:1277126989]
+<STR>(YUR)
+Sí, pesa más de 
+lo que parece.

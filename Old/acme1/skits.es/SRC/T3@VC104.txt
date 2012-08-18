@@ -1,0 +1,54 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:xander;time:1255296921]
+El pequeño que va a lo grande
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298284]
+(EST_P)
+¿No te resulta difícil manejar
+un arma tan grande, (KAR)?
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266575992]
+(KAR)
+Es un poco pesada, pero necesito
+sostener algo así de grande para
+parecer más corpulento.
+
+## POINTER 3 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298284]
+(YUR)
+Es el truco adecuado para disimular
+lo enano que eres.
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298284]
+(RIT)
+Ah, quieres parecer más grande
+para engañar a tus enemigos.
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298284]
+(EST_P)
+Ahora que lo mencionas, los monstruos
+pequeños normalmente se hinchan para
+parecer más amenazadores.
+
+## POINTER 6 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298284]
+(KAR)
+Pues sí, es justo como... ¿Eh?
+¿Estás diciendo que soy como un monstruo?
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266575992]
+(YUR)
+Aun con esas, cambiar tu apariencia no hace
+que cambie quién eres en verdad, (KAR).
+
+## POINTER 8 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298284]
+(RIT)
+¿Eres peligroso?
+¡Dinos ahora mismo si lo eres!
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267298284]
+(KAR)
+¡No pasa nada! ¡Pertenezco a la elite de los
+Espadas Cazadoras! ¡No tenéis de qué preocuparos!
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:xander;time:1266575992]
+(YUR)
+Espero que esa no sea
+otra de tus artimañas...

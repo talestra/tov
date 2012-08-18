@@ -1,0 +1,138 @@
+## POINTER 0
+<STR>(KAR)
+Is this the shovel?
+
+## POINTER 1
+<STR>(EST_P)
+It looks like "Harmfall" 
+is written on it.
+
+## POINTER 2
+<STR>(JUD)
+...But no sign of 
+Markham's name.
+
+## POINTER 3
+<STR>(RIT)
+So it isn't this one, then.
+
+## POINTER 4
+<STR>(EST_P)
+Shall we keep looking?
+
+## POINTER 5
+<STR>(YUR)
+If it is here, shouldn't 
+it be somewhere nearby?
+
+## POINTER 6
+<STR>(KAR)
+Wonder if we missed it somehow...
+
+## POINTER 7
+<STR>(JUD)
+There's no worry of that. It 
+wouldn't get past my eyes.
+
+## POINTER 8
+<STR>(RIT)
+Then somebody must have 
+walked off with it.
+
+## POINTER 9
+<STR>(RAV)
+Who'd just randomly pick up a shovel 
+with them when they left?
+
+## POINTER 10
+<STR>(RIT)
+How should I know?
+I'm sure there're shovel fanatics out there.
+
+## POINTER 11
+<STR>(KAR)
+Sort of like how you're a blastia fanatic...
+
+## POINTER 12
+<STR>(RIT)
+I am not a fanatic.
+
+## POINTER 13
+<STR>(YUR)
+...Wonder if this means we'll fail this job.
+
+## POINTER 14
+<STR>(JUD)
+But the item we were sent to get isn't even 
+here. That's different than failing.
+
+## POINTER 15
+<STR>(RAV)
+Your client may beg ta 
+differ with ya on that 
+little point, though.
+
+## POINTER 16
+<STR>(YUR)
+Man...
+
+## POINTER 17
+<STR>(KAR)
+Well, what about this one?
+
+## POINTER 18
+<STR>(YUR)
+There'd be no point dragging 
+it around. Let's just 
+leave it here.
+
+## POINTER 19
+<STR>(RIT)
+You might just be making the 
+next shovel fanatic that 
+comes along very happy.
+
+## POINTER 20
+<STR>(KAR)
+And you'd know just how 
+they'd feel, right <STR>(RIT)?
+
+## POINTER 21
+<STR>(YUR)
+You should know you're gonna get chopped by now...
+
+## POINTER 22
+<STR>(EST_P)
+I... I think maybe...
+
+## POINTER 23
+<STR>(YUR)
+Huh...?
+
+## POINTER 24
+<STR>(EST_P)
+Anyone who's forgotten a shovel in a 
+place like this has to have something 
+to do with the excavation, right?
+
+## POINTER 25
+<STR>(YUR)
+Well...yeah, that's 
+probably true, but...
+
+## POINTER 26
+<STR>(EST_P)
+Why don't we drop it off with 
+the client and let them decide 
+what to do with it?
+
+## POINTER 27
+<STR>(KAR)
+Hmm... Maybe this "Harmfall" 
+is someone those 
+two guys know.
+
+## POINTER 28
+<STR>(YUR)
+Doesn't exactly lighten our load, 
+but I guess we can take it to them.

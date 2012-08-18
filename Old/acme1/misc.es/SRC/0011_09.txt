@@ -1,0 +1,317 @@
+## POINTER 1236 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261524674]
+Kylin
+
+## POINTER 1237 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110379]
+Daga fabricada a imagen de una criatura mítica.
+Se dice que un cuerno de Kylin está alojado en la empuñadura.
+
+## POINTER 1239 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261524674]
+Kylin +1
+
+## POINTER 1240 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110379]
+Daga fabricada a imagen de una criatura mítica.
+Se dice que un cuerno de Kylin está alojado en la empuñadura.
+
+## POINTER 1242 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261524674]
+Kylin +2α
+
+## POINTER 1243 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110379]
+Daga fabricada a imagen de una criatura mítica.
+Se dice que un cuerno de Kylin está alojado en la empuñadura.
+
+## POINTER 1245 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261524674]
+Kylin +2β
+
+## POINTER 1246 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110379]
+Daga fabricada a imagen de una criatura mítica.
+Se dice que un cuerno de Kylin está alojado en la empuñadura.
+
+## POINTER 1248 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261524852]
+Vagabunda
+
+## POINTER 1249 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+Bella espada ideal para los solitarios.
+Te renueva por dentro.
+
+## POINTER 1251 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525073]
+Vagabunda +1
+
+## POINTER 1252 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+Bella espada ideal para los solitarios.
+Te renueva por dentro.
+
+## POINTER 1254 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525073]
+Vagabunda +2α
+
+## POINTER 1255 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+Bella espada ideal para los solitarios.
+Te renueva por dentro.
+
+## POINTER 1257 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525073]
+Vagabunda +2β
+
+## POINTER 1258 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+Bella espada ideal para los solitarios.
+Te renueva por dentro.
+
+## POINTER 1260 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261524852]
+Asura
+
+## POINTER 1261 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263981860]
+Espada que toma el nombre de una deidad demoníaca.
+Está tan afilada que no parece de este mundo.
+
+## POINTER 1263 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525073]
+Asura +1
+
+## POINTER 1264 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263981860]
+Espada que toma el nombre de una deidad demoníaca.
+Está tan afilada que no parece de este mundo.
+
+## POINTER 1266 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525073]
+Orochi
+
+## POINTER 1267 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+Daga fabricada a imagen de una serpiente oriental.
+También se la llama «Ojo malvado» por el diseño simbólico de la hoja.
+
+## POINTER 1269 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525127]
+Orochi +1
+
+## POINTER 1270 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+Daga fabricada a imagen de una serpiente oriental.
+También se la llama «Ojo malvado» por el diseño simbólico de la hoja.
+
+## POINTER 1272 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525127]
+Orochi +2α
+
+## POINTER 1273 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+Daga fabricada a imagen de una serpiente oriental.
+También se la llama «Ojo malvado» por el diseño simbólico de la hoja.
+
+## POINTER 1275 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525127]
+Orochi +2β
+
+## POINTER 1276 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+Daga fabricada a imagen de una serpiente oriental.
+También se la llama «Ojo malvado» por el diseño simbólico de la hoja.
+
+## POINTER 1278 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665664]
+Acero sónico
+
+## POINTER 1279 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+La hoja es tan afilada que puede cortar los cielos y
+hasta el sonido. Pesa tan poco que es difícil de manejar.
+
+## POINTER 1281 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665664]
+Acero sónico +1α
+
+## POINTER 1282 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+La hoja es tan afilada que puede cortar los cielos y
+hasta el sonido. Pesa tan poco que es difícil de manejar.
+
+## POINTER 1284 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665664]
+Acero sónico +1β
+
+## POINTER 1285 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+La hoja es tan afilada que puede cortar los cielos y
+hasta el sonido. Pesa tan poco que es difícil de manejar.
+
+## POINTER 1287 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261686261]
+Murakumo
+
+## POINTER 1288 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263896114]
+No se sabe nada sobre esta espada.
+Parece haber sido reparada por varios herreros.
+
+## POINTER 1290 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261686261]
+Susanoh
+
+## POINTER 1291 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+Daga con el nombre del dios de un antiguo mito.
+Uno está tentado a repetir el mismo error una y otra vez.
+
+## POINTER 1293 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+Pollo a la parrilla
+
+## POINTER 1294 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110533]
+Tiene buena pinta, pero en realidad está fabricado en metal.
+Se le dedicó mucho trabajo, pero nada explica su forma.
+
+## POINTER 1296 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525425]
+Takemikazuchi
+
+## POINTER 1297 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+Daga fabricada con un mineral cargado eléctricamente.
+La hoja está tan pulida que parece un espejo.
+
+## POINTER 1299 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525425]
+Takemikazuchi: Llamarada
+
+## POINTER 1300 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+Daga fabricada con un mineral cargado eléctricamente.
+La hoja está tan pulida que parece un espejo.
+
+## POINTER 1302 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525425]
+Takemikazuchi: Llamarada +1α
+
+## POINTER 1303 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+Daga fabricada con un mineral cargado eléctricamente.
+La hoja está tan pulida que parece un espejo.
+
+## POINTER 1305 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525425]
+Takemikazuchi: Llamarada +1β
+
+## POINTER 1306 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+Daga fabricada con un mineral cargado eléctricamente.
+La hoja está tan pulida que parece un espejo.
+
+## POINTER 1308 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525425]
+Takemikazuchi: Explosión
+
+## POINTER 1309 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+Daga fabricada con un mineral cargado eléctricamente.
+La hoja está tan pulida que parece un espejo.
+
+## POINTER 1311 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525425]
+Takemikazuchi: Explosión +1α
+
+## POINTER 1312 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+Daga fabricada con un mineral cargado eléctricamente.
+La hoja está tan pulida que parece un espejo.
+
+## POINTER 1314 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261525425]
+Takemikazuchi: Explosión +1β
+
+## POINTER 1315 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+Daga fabricada con un mineral cargado eléctricamente.
+La hoja está tan pulida que parece un espejo.
+
+## POINTER 1317 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665881]
+Mizuchi
+
+## POINTER 1318 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+Daga fabricada con las escamas de un pez gigante.
+Las escamas laminadas cortan fácilmente el metal.
+
+## POINTER 1320 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665881]
+Mizuchi +1α
+
+## POINTER 1321 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+Daga fabricada con las escamas de un pez gigante.
+Las escamas laminadas cortan fácilmente el metal.
+
+## POINTER 1323 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665881]
+Mizuchi +1β
+
+## POINTER 1324 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+Daga fabricada con las escamas de un pez gigante.
+Las escamas laminadas cortan fácilmente el metal.
+
+## POINTER 1326 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261686651]
+Principios del guerrero
+
+## POINTER 1327 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+¿Qué se puede aprender de una fiera batalla?
+¿Tienes lo que hay que tener para blandir esta arma?
+
+## POINTER 1329 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261686651]
+Principios del guerrero +1
+
+## POINTER 1330 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768414]
+¿Qué se puede aprender de una fiera batalla?
+¿Tienes lo que hay que tener para blandir esta arma?
+
+## POINTER 1332 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261686651]
+Espada de los pecados: Susanoh
+
+## POINTER 1333 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110626]
+Daga con el nombre de un dios de un antiguo mito.
+Uno está tentado a repetir el mismo error una y otra vez.
+
+## POINTER 1335 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261568833]
+Broquel
+
+## POINTER 1336 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261585990]
+Escudo redondo y compacto diseñado para bloquear.
+Se equipa en el puño.
+
+## POINTER 1338 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261568833]
+Escudo redondo
+
+## POINTER 1339 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110626]
+Escudo recubierto de metal capaz
+de detener tajos fuertes y amplios.
+
+## POINTER 1341 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665720]
+Escudo cometa
+
+## POINTER 1342 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261585990]
+Escudo en forma de cometa. Está diseñado
+para proteger las piernas mientras se cabalga.
+
+## POINTER 1344 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261568833]
+Escudo de Caballero
+
+## POINTER 1345 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110626]
+El escudo oficial de los Caballeros.
+Está muy decorado para ser parte de un equipo.
+
+## POINTER 1347 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263896502]
+Escudo con púas
+
+## POINTER 1348 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261585990]
+Escudo único con cuchillas en los bordes.
+Se puede usar para atacar.
+
+## POINTER 1350 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261568833]
+Hiperión
+
+## POINTER 1351 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768503]
+Escudo que lleva uno de los mil nombres de un dios del sol.
+Su nombre cambiaba según la región y la época.
+
+## POINTER 1353 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261702796]
+Plancha de hierro
+
+## POINTER 1354 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110626]
+Escudo forjado con materiales especiales que resisten el calor
+y los impactos fuertes. Está hecho con partes de un antiguo barco.
+
+## POINTER 1356 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261568833]
+Égida
+
+## POINTER 1357 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261585990]
+Escudo robusto que protege de todo,
+tanto de ataques como de la mala suerte.
+
+## POINTER 1359 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261568833]
+Santuario
+
+## POINTER 1360 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261568833]
+Del mismo modo que nadie puede atravesar un santuario,
+nadie puede dañar al portador de este escudo.
+
+## POINTER 1362 [t:1;r:3;ru:googol,parsec,memnoch;user:parsec;time:1261665881]
+Escudo gatoz
+
+## POINTER 1363 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768503]
+Escudo con un toque juguetón.
+Es más efectivo de lo que parece.
+
+## POINTER 1365 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261569157]
+Escudo del Orden
+
+## POINTER 1366 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271586398]
+La prueba de que a un Caballero le han asignado
+una misión oficial. Puede repeler a un millón de enemigos.
+
+## POINTER 1368 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261569157]
+Reina de corazones
+
+## POINTER 1369 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768503]
+Bonito escudo creado por un notable diseñador.
+La superficie la cubre un cuero cuidadosamente teñido.
+
+## POINTER 1371 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261569157]
+Escudo del valor

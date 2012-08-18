@@ -1,0 +1,51 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511579]
+Leblanc
+Jua, ja, ja, ¿creíais que
+podríais derrotarnos? ¡Ridículo!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1292770795]
+Adecor
+¡Volved cuando hayáis mejorado, proclamo!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292770795]
+Boccos
+¡Perdeos, bellacos mugrientos!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1292770795]
+<STR>(YUR)
+Leñe...
+Si tan solo...
+él estuviese aquí...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1292770795]
+<STR>(EST_P)
+No pasa nada... seguro...
+que pronto aparece...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511579]
+<STR>(RIT)
+Llamémoslo...
+Llamémoslo por
+su nombre...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1292770795]
+<STR>(JUD)
+<STR>(KAR)...
+<STR>(KAR)... 
+¡Ven, deprisa!...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511579]
+<STR>(RAV)
+Necesitamos... tu ayuda...
+A este paso.. estamos acabaos...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1294511579]
+<STR>(KAR)
+Todos...
+Todos me están esperando...<PAGE>Tengo que ir... ¡Tengo
+que salvarlos a todos!<PAGE>Como no salga de aquí,
+¡todos estarán en peligro!...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551156]
+<STR>(KAR)
+¿Ein? Pero ¿qué...?

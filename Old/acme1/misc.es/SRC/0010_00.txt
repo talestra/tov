@@ -1,0 +1,299 @@
+## POINTER 0
+Dummy Group
+
+## POINTER 1
+Inside Zaphias Castle 01_01/Weather A
+
+## POINTER 2
+Inside Zaphias Castle 01_02/Weather A
+
+## POINTER 3
+Inside Zaphias Castle 01_03/Weather A
+
+## POINTER 4
+Inside Zaphias Castle 01_04/Weather A
+
+## POINTER 5
+Inside Zaphias Castle 01_05/Weather A
+
+## POINTER 6
+Inside Zaphias Castle 01_06/Weather A
+
+## POINTER 7
+Inside Zaphias Castle 02_01/Weather A
+
+## POINTER 8
+Inside Zaphias Castle 02_02/Weather A
+
+## POINTER 9
+Inside Zaphias Castle 02_03/Weather A
+
+## POINTER 10
+Inside Zaphias Castle 02_04/Weather A
+
+## POINTER 11
+Inside Zaphias Castle 02_05/Weather A
+
+## POINTER 12
+Zaphias Secret Passage 01_01/Weather A
+
+## POINTER 13
+Zaphias Secret Passage 01_02/Weather A
+
+## POINTER 14
+Zaphias Secret Passage 01_03/Weather A
+
+## POINTER 15
+Zaphias Secret Passage 01_04/Weather A
+
+## POINTER 16
+Tweedle A & B Tutorial 1
+
+## POINTER 17
+Knight Event Battle
+
+## POINTER 18
+Zagi: Fight 1
+
+## POINTER 19
+Zagi 1: Mission B
+
+## POINTER 20
+Quoi Woods 01_01 (Wolf)/Weather A
+
+## POINTER 21
+Quoi Woods 01_02 (Wolf)/Weather A
+
+## POINTER 22
+Quoi Woods 01_03 (Wolf)/Weather A
+
+## POINTER 23
+Quoi Woods 02_01 (Axe Beak)/Weather A
+
+## POINTER 24
+Quoi Woods 02_02 (Axe Beak)/Weather A
+
+## POINTER 25
+Quoi Woods 02_03 (Axe Beak)/Weather A
+
+## POINTER 26
+Quoi Woods 03_01 (Roctus)/Weather A
+
+## POINTER 27
+Quoi Woods 03_02 (Roctus)/Weather A
+
+## POINTER 28
+Quoi Woods 04_01 (Giant Bee)/Weather A
+
+## POINTER 29
+Quoi Woods 04_02 (Giant Bee)/Weather A
+
+## POINTER 30
+Quoi Woods 04_03 (Giant Bee)/Weather A
+
+## POINTER 31
+Quoi Woods 05_01 (Mandragora)/Weather A
+
+## POINTER 32
+Quoi Woods 05_02 (Mandragora)/Weather A
+
+## POINTER 33
+Quoi Woods 05_03 (Mandragora)/Weather A
+
+## POINTER 34
+Quoi Woods 06_01 (Filifolia)/Weather A
+
+## POINTER 35
+Quoi Woods 06_02 (Filifolia)/Weather A
+
+## POINTER 36
+Quoi Woods 06_03 (Filifolia)/Weather A
+
+## POINTER 37
+Quoi Woods 01_01 (Wolf)/Weather B
+
+## POINTER 38
+Quoi Woods 01_02 (Wolf)/Weather B
+
+## POINTER 39
+Quoi Woods 01_03 (Wolf)/Weather B
+
+## POINTER 40
+Quoi Woods 02_01 (Axe Beak)/Weather B
+
+## POINTER 41
+Quoi Woods 02_02 (Axe Beak)/Weather B
+
+## POINTER 42
+Quoi Woods 02_03 (Axe Beak)/Weather B
+
+## POINTER 43
+Quoi Woods 03_01 (Roctus)/Weather B
+
+## POINTER 44
+Quoi Woods 03_02 (Roctus)/Weather B
+
+## POINTER 45
+Quoi Woods 04_01 (Giant Bee)/Weather B
+
+## POINTER 46
+Quoi Woods 04_02 (Giant Bee)/Weather B
+
+## POINTER 47
+Quoi Woods 04_03 (Giant Bee)/Weather B
+
+## POINTER 48
+Quoi Woods 05_01 (Mandragora)/Weather B
+
+## POINTER 49
+Quoi Woods 05_02 (Mandragora)/Weather B
+
+## POINTER 50
+Quoi Woods 05_03 (Mandragora)/Weather B
+
+## POINTER 51
+Quoi Woods 06_01 (Filifolia)/Weather B
+
+## POINTER 52
+Quoi Woods 06_02 (Filifolia)/Weather B
+
+## POINTER 53
+Quoi Woods 06_03 (Filifolia)/Weather B
+
+## POINTER 54
+Chimera Butterfly/Weather AB
+
+## POINTER 55 [user:memnoch;time:1286140259]
+Egg Bear
+
+## POINTER 56
+Shaikos Ruins Tutorial
+
+## POINTER 57
+Shaikos Ruins 01_01 (Golem) 1/Weather AB
+
+## POINTER 58
+Shaikos Ruins 01_02 (Golem) 2/Weather AB
+
+## POINTER 59
+Shaikos Ruins 01_02 (Golem) 3/Weather AB
+
+## POINTER 60
+Shaikos Ruins 02_01 (Polwigle)  1/Weather AB
+
+## POINTER 61
+Shaikos Ruins 02_02 (Polwigle)  2/Weather AB
+
+## POINTER 62
+Shaikos Ruins 03_01 (Ribbit) 1/Weather AB
+
+## POINTER 63
+Shaikos Ruins 03_02 (Ribbit) 2/Weather AB
+
+## POINTER 64
+Shaikos Ruins 03_03 (Ribbit) 3/Weather AB
+
+## POINTER 65
+Shaikos Ruins 03_04 (Ribbit) 4/Weather AB
+
+## POINTER 66
+Shaikos Ruins 04_01 (Merfish) 1/Weather AB
+
+## POINTER 67
+Shaikos Ruins 04_02 (Merfish) 2/Weather AB
+
+## POINTER 68
+Shaikos Ruins 04_03 (Merfish) 3/Weather AB
+
+## POINTER 69
+Shaikos Ruins 05_01 (Bat) 1/Weather AB
+
+## POINTER 70
+Shaikos Ruins 05_02 (Bat) 2/Weather AB
+
+## POINTER 71
+Shaikos Ruins 05_03 (Bat) 3/Weather AB
+
+## POINTER 72
+Shaikos Ruins 06_01 (Superstar Blue) 1/Weather B
+
+## POINTER 73
+Shaikos Ruins 06_02 (Superstar Blue) 1/Weather B
+
+## POINTER 74
+Magic Golem
+
+## POINTER 75
+Tweedle A & B Tutorial 2
+
+## POINTER 76
+Ehmead Hill 01_01 (Ladybug) 1/Weather A
+
+## POINTER 77
+Ehmead Hill 01_02 (Ladybug) 2/Weather A
+
+## POINTER 78
+Ehmead Hill 01_02 (Ladybug) 3/Weather A
+
+## POINTER 79
+Ehmead Hill 02_01 (Chirpee) 1/Weather A
+
+## POINTER 80
+Ehmead Hill 02_02 (Chirpee) 2/Weather A
+
+## POINTER 81
+Ehmead Hill 02_03 (Chirpee) 3/Weather A
+
+## POINTER 82
+Ehmead Hill 03_01 (Basilisk) 1/Weather A
+
+## POINTER 83
+Ehmead Hill 03_02 (Basilisk) 2/Weather A
+
+## POINTER 84
+Ehmead Hill 03_03 (Basilisk) 3/Weather A
+
+## POINTER 85
+Ehmead Hill 04_01 (Goblin) 1/Weather A
+
+## POINTER 86
+Ehmead Hill 04_02 (Goblin) 2/Weather A
+
+## POINTER 87
+Ehmead Hill 04_02 (Goblin) 3/Weather A
+
+## POINTER 88
+Ehmead Hill 05_01 (Gattuso Cub) 1/Weather A
+
+## POINTER 89
+Ehmead Hill 05_02 (Gattuso Cub) 2/Weather A
+
+## POINTER 90
+Ehmead Hill 05_03 (Gattuso Cub) 3/Weather A
+
+## POINTER 91
+Ehmead Hill 05_04 (Gattuso Cub) 4/Weather A
+
+## POINTER 92
+Ehmead Hill 01_01 (Ladybug) 1/Weather B
+
+## POINTER 93
+Ehmead Hill 01_02 (Ladybug) 2/Weather B
+
+## POINTER 94
+Ehmead Hill 01_02 (Ladybug) 3/Weather B
+
+## POINTER 95
+Ehmead Hill 02_01 (Chirpee) 1/Weather B
+
+## POINTER 96
+Ehmead Hill 02_02 (Chirpee) 2/Weather B
+
+## POINTER 97
+Ehmead Hill 02_03 (Chirpee) 3/Weather B
+
+## POINTER 98
+Ehmead Hill 03_01 (Basilisk) 1/Weather B
+
+## POINTER 99
+Ehmead Hill 03_02 (Basilisk) 2/Weather B

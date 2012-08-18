@@ -1,0 +1,13 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298167788]
+<STR>(RAV)
+¡Oye, oye!
+¡Creía que íbamos a ver a Belius!
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:xander;time:1272373143]
+<STR>(YUR)
+Tenemos que ayudar a Natz.
+Que Belius se las apañe por ahora.
+
+## POINTER 2 [t:1;r:2;ru:maz,memnoch;user:SamuelSnake;time:1270002007]
+Información
+La puerta está cerrada.

@@ -1,0 +1,14 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1294857342]
+<STR>(JUD)
+Definitivamente,
+no está...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956782]
+<STR>(YUR)
+¿La lanza?<PAGE>Parecía muy valiosa.
+Seguramente los mercenarios
+se la llevaron como botín.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1294857342]
+<STR>(JUD)
+...

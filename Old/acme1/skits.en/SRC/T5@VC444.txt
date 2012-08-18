@@ -1,0 +1,58 @@
+## POINTER 0
+The Forest of Bugs
+
+## POINTER 1
+(KAR)
+...Hey, can we get out of this 
+forest sometime...soon?
+
+## POINTER 2
+(EST_P)
+Is something the matter? 
+You look nervous, (KAR).
+
+## POINTER 3
+(KAR)
+N-no way! Wh-what are 
+you talking about?
+
+## POINTER 4
+(YUR)
+Whoa, check out this weird bug! I've 
+never seen one this gross before.
+
+## POINTER 5
+(RAV)
+And yet ya don't mind pickin' 
+it up like that?
+
+## POINTER 6
+(YUR)
+Hey, (KAR), any idea what 
+kind of bug this is?
+
+## POINTER 7
+(KAR)
+...Keep that thing away from me!!
+
+## POINTER 8
+(EST_P)
+What's the matter...?
+
+## POINTER 9
+(KAR)
+Huh? It's just...that poor bug, 
+being manhandled like that! Let 
+it go! It wants to be free!
+
+## POINTER 10
+(RIT)
+...Really...?
+
+## POINTER 11
+(KAR)
+Really...!
+
+## POINTER 12
+(YUR)
+...Hmmm...

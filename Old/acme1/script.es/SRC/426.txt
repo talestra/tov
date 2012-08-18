@@ -1,0 +1,72 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101999]
+<STR>(RIT)
+¿Qué hace este blastia activo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101627]
+<STR>(RIT)
+A este le han puesto un núcleo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101627]
+<STR>(JUD)
+Aquí hay algo escrito...
+¿Blastia teleportador?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101999]
+<STR>(YUR)
+Vamos, que alguien ha usado
+esto para largarse de Myorzo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1283459505]
+<STR>(JUD)
+Eso parece.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101999]
+Mmpf.<PAGE>¿Qué hace aquí un blastia
+en funcionamiento?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1283459505]
+<STR>(KAR)
+Al parecer alguien se ha ido de la ciudad.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1283459505]
+<STR>(RIT)
+<STR>(EST_P)... ¿Dónde está <STR>(EST_P)?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1283459505]
+<STR>(YUR)
+Un momento, ¿y el viejales?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101999]
+<STR>(KAR)
+¿Eh? No me vais a decir
+que han usado esto, ¿verdad?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101999]
+Mmm...<PAGE>Desde tiempos inmemoriales,
+todos los blastias de nuestra
+ciudad carecen de núcleos.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101999]
+<STR>(RIT)Debieron traer el núcleo de
+fuera de la ciudad, entonces.<PAGE>Necesitaría una serie ajustes para
+funcionar correctamente, pero <STR>(EST_P)
+es un caso aparte.<PAGE>Si ella reacciona directamente al aer,
+también puede reconstruirlo y
+encajar la fórmula del núcleo.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1283459505]
+<STR>(KAR)
+Pero por qué haría...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285101999]
+<STR>(JUD)
+Patriarca, ¿podrías pedir a todo el mundo
+que nos ayude a buscar a nuestros amigos,
+para ver si todavía siguen en la ciudad?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1285102032]
+Mmpf. De acuerdo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1285102013]
+<STR>(YUR)
+Busquémoslos.

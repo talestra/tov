@@ -1,0 +1,324 @@
+## POINTER 0
+
+Ladies and gentlemen!
+This is the event you've
+all been waiting for!<PAGE>The first annual Fortune's 
+Banquet exhibition match 
+is about to begin!<PAGE>This event is brought to you by His Royal 
+Highness Ioder, the Guild Union, and our 
+generous co-sponsor, Fortune's Market!
+
+## POINTER 1
+<STR>(RAV)
+This is a pretty big-time event.
+
+## POINTER 2
+<STR>(RIT)
+Doesn't that little prince have anything 
+more important to be doing?
+
+## POINTER 3
+
+First, I'll explain the rules. The competition 
+will be divided into three dishes: an 
+appetizer, a main course, and a dessert.<PAGE>Competitors must impress the judges 
+with the flavor, arrangement and overall 
+composition of their chosen dishes!
+
+## POINTER 4
+<STR>(YUR)
+Wait, if Leblanc's on 
+the judge's panel, then 
+that would mean...
+
+## POINTER 5
+
+And now, to present the challengers. 
+From the Guilds, a proud member 
+of Brave Vesperia, Chef <STR>(JUD)!
+
+## POINTER 6
+
+And representing the empire, 
+hailing from the Imperial 
+Knights, Chef <STR>(FRE) Scifo!
+
+## POINTER 7
+<STR>(YUR)
+Ah, a knight, just like I thought.<PAGE>But what's <STR>(FRE) 
+doing here...?
+
+## POINTER 8
+<STR>(RAV)
+I'll bet he got suckered in by all that 
+stuff 'bout promotin' goodwill 
+between the Empire and the Guilds.
+
+## POINTER 9
+<STR>(JUD)
+Oh, you're my opponent? This 
+should be a fun match.
+
+## POINTER 10
+<STR>(FRE)
+Yes, I'm looking forward 
+to it. Good luck.
+
+## POINTER 11
+
+And now, without further ado, let 
+the first annual Fortune's Banquet 
+exhibition match begin!
+
+## POINTER 12
+<STR>(RAV)
+Is <STR>(FRE) any good at cookin'?
+
+## POINTER 13
+<STR>(YUR)
+He's good. His cooking looks 
+very nice, so these rules might 
+give him an advantage.<PAGE>His only problem is that he bases his 
+cooking style on his own tastes...
+
+## POINTER 14
+
+Stop your cooking! We will now 
+move on to the tasting and 
+judging of the prepared dishes!<PAGE>Three judges from our sponsors and two 
+judges chosen from the two competitors' 
+teams will evaluate the dishes.<PAGE>And now, the tasting and judging will 
+commence! First, the dishes of our 
+Guild challenger, Chef <STR>(JUD)!
+
+## POINTER 15
+Leblanc
+Mmm... This is...truly delicious. 
+It blows the food in the knights' 
+dining hall out of the water.
+
+## POINTER 16
+Kaufman
+It's not bad. I might 
+even pay for it.
+
+## POINTER 17
+Ioder
+A delicate taste with a hint 
+of adventure. This might even 
+be better than the castle 
+chef's cooking. Fantastic.
+
+## POINTER 18
+<STR>(KAR)
+<STR>(JUD), I don't think I 
+could go on living without 
+your tasty cooking!
+
+## POINTER 19
+Wonder Chef
+I know how to choose a good chef!
+
+## POINTER 20
+
+It seems that Chef <STR>(JUD)'s dishes left 
+a favorable impression on our panel!
+
+## POINTER 21
+Leblanc
+Hmph, it's good enough 
+to eat, I suppose.
+
+## POINTER 22
+Kaufman
+The taste is all right. I'd eat 
+it if someone else were paying.
+
+## POINTER 23
+Ioder
+Ahh, so this is what the 
+common people eat...
+
+## POINTER 24
+<STR>(KAR)
+<STR>(JUD), what 
+happened?
+
+## POINTER 25
+Wonder Chef
+Could it...could it be that I erred 
+in my chef selection? No, it 
+cannot be. It simply cannot!
+
+## POINTER 26
+
+Could this mean the 
+end for Chef <STR>(JUD)?!
+
+## POINTER 27
+
+Next, the dishes of our challenger 
+from the empire, Chef <STR>(FRE)!
+
+## POINTER 28
+<STR>(KAR)
+Wow, this looks so nice...
+
+## POINTER 29
+Ioder
+This is art...with the 
+plate as the canvas.
+
+## POINTER 30
+Kaufman
+It's not every day that I see 
+food so beautiful that I 
+hesitate to bite into it.
+
+## POINTER 31
+Wonder Chef
+That man has mastered the essence 
+of cooking. He is a culinary 
+force to be reckoned with!
+
+## POINTER 32
+Leblanc
+Mmm....uck?!
+
+## POINTER 33
+Kaufman
+Ick...
+
+## POINTER 34
+<STR>(KAR)
+Wargh?!
+
+## POINTER 35
+
+W-what is this? Our judge's panel is 
+in a state of total chaos! One by 
+one, they are dropping like flies!
+
+## POINTER 36
+<STR>(JUD)
+Oh my.
+
+## POINTER 37
+<STR>(FRE)
+Master Ioder, what do you think?
+
+## POINTER 38
+Ioder
+...It appears I've made the wrong choice.
+
+## POINTER 39
+<STR>(FRE)
+It wasn't to your liking? 
+I'm sorry...<PAGE>I thought that I did a good job, too...
+
+## POINTER 40
+Wonder Chef
+This is sacrilege against the 
+culinary art! You ought to 
+be ashamed of yourself!!
+
+## POINTER 41
+<STR>(RAV)
+The panel's goin' ta hell 
+in a handbasket...
+
+## POINTER 42
+<STR>(RIT)
+Did <STR>(FRE) poison that 
+food or something?
+
+## POINTER 43
+<STR>(YUR)
+No. <STR>(FRE)'s just got a terrible 
+sense of taste.<PAGE>If he sticks to the recipes, he can make food that'll 
+put a pro chef to shame. But when he goes by 
+his own tastes, well...you saw what happens.
+
+## POINTER 44
+<STR>(RIT)
+Bad cooking can be a 
+formidable weapon.
+
+## POINTER 45
+
+And now!! It's time 
+for the verdict. The 
+judges have chosen...
+
+## POINTER 46
+
+...The Guilds! Chef 
+<STR>(JUD) is the winner!
+
+## POINTER 47
+<STR>(EST_P)
+That's our <STR>(JUD)!
+
+## POINTER 48
+<STR>(JUD)
+I don't think cooking 
+is your bag, baby.
+
+## POINTER 49
+<STR>(FRE)
+Urgh... No matter what I say, 
+I'll just sound like a sore 
+loser. I'll hold my tongue.
+
+## POINTER 50
+Sodia
+This can't be right! Let 
+me taste that food!
+
+## POINTER 51
+Witcher
+Sodia, no offense to the acting 
+commandant, but I believe that's 
+simply too dangerous.
+
+## POINTER 52
+
+In recognition for your victory, 
+Chef <STR>(JUD), we're awarding you the 
+prestigious title of Chef Mom.<PAGE>Congratulations!
+
+## POINTER 53
+
+...The empire! Chef 
+<STR>(FRE) is the winner!
+
+## POINTER 54
+<STR>(FRE)
+Thank you.
+
+## POINTER 55
+<STR>(JUD)
+My cooking was worse than <STR>(FRE)'s...?
+
+## POINTER 56
+<STR>(KAR)
+<STR>(FRE)'s food tasted terrible, 
+but it was very good in 
+the two other categories.
+
+## POINTER 57
+<STR>(YUR)
+Looks like the rules were 
+just in his favor. Oh well.
+
+## POINTER 58
+
+We'll be looking forward to giving 
+the Guild's team a chance to 
+redeem themselves next year!
+
+## POINTER 59
+
+And this brings the first annual 
+Fortune's Banquet exhibition match 
+to an end! See you all next year!

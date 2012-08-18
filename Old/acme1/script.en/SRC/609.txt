@@ -1,0 +1,64 @@
+## POINTER 0
+Dyne
+So, you're back. 
+How'd it go?
+
+## POINTER 1
+<STR>(KAR)
+We took him down, check it out!
+
+## POINTER 2
+Dyne
+That confirms it. Nice work, kid.
+
+## POINTER 3
+<STR>(YUR)
+Is this guy 
+your client?
+
+## POINTER 4
+Dyne
+Yeah, that's him. I just don't get it. He really 
+had it in for that monster. Not that he ever 
+had a snowball's chance in hell of winning.
+
+## POINTER 5
+<STR>(EST_P)
+He must have really 
+wanted that Everlight 
+badly...
+
+## POINTER 6
+<STR>(RIT)
+What is it about Everlight that would make 
+him risk winding up like this? Not that he's 
+in a position to tell us at the moment.
+
+## POINTER 7
+<STR>(YUR)
+I thought it was a guild rule 
+not to go poking around in a 
+client's personal business.<PAGE>I'd be lying if I said I wasn't 
+curious myself, though.<PAGE>At least he ended up getting what he 
+wanted. Hopefully this means his days 
+of being a nutcase are behind him.
+
+## POINTER 8
+<STR>(JUD)
+And how are you feeling?
+
+## POINTER 9
+Dyne
+Me? I'm fit as a fiddle again. Afraid I can't 
+say the same for my buddies yet, though.<PAGE>You really saved our butts this time. Hope this 
+shows you guys how much we appreciate it.
+
+## POINTER 10
+Dyne
+I'll look after mister 
+reckless here, myself.<PAGE>Thanks again, <STR>(KAR). You've really 
+learned a thing or two.
+
+## POINTER 11
+<STR>(KAR)
+Take care of yourself, Dyne.

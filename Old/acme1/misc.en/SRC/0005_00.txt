@@ -1,0 +1,312 @@
+## POINTER 2
+Strength
+
+## POINTER 3
+Increases physical attack by 5%.
+Increase due to equipment not affected.
+
+## POINTER 4
+Strength 2
+
+## POINTER 5
+Increases physical attack by 10%.
+Increase due to equipment not affected.
+
+## POINTER 6
+Strength 3
+
+## POINTER 7
+Increases physical attack by 15%.
+Increase due to equipment not affected.
+
+## POINTER 8
+Strength 4
+
+## POINTER 9
+Increases physical attack by 20%.
+Increase due to equipment not affected.
+
+## POINTER 10
+Strength T
+
+## POINTER 11
+Increases physical attack by 25% when HP is over 75%.
+Increase due to equipment not affected.
+
+## POINTER 12
+Magic
+
+## POINTER 13
+Increases magic attack by 5%.
+Increase due to equipment not affected.
+
+## POINTER 14
+Magic 2
+
+## POINTER 15
+Increases magic attack by 10%.
+Increase due to equipment not affected.
+
+## POINTER 16
+Magic 3
+
+## POINTER 17
+Increases magic attack by 15%.
+Increase due to equipment not affected.
+
+## POINTER 18
+Magic 4
+
+## POINTER 19
+Increases magic attack by 20%.
+Increase due to equipment not affected.
+
+## POINTER 20
+Magic T
+
+## POINTER 21
+Increase magic attack by 25% only when TP over 75%
+Increase due to equipment not affected.
+
+## POINTER 22
+Rise Attack
+
+## POINTER 23
+Increases damage by consuming TP.
+
+## POINTER 24
+Heavy Hit
+
+## POINTER 25
+Increases chance of stunning an enemy
+with a physical attack.
+
+## POINTER 26
+Swords Up
+
+## POINTER 27
+Increases P. ATK when a sword is equipped.
+
+## POINTER 28
+Axes Up
+
+## POINTER 29
+Increases P. ATK when an axe is equipped.
+
+## POINTER 30
+Combatir
+
+## POINTER 31
+Increases the strength of an attack
+when an axe is equipped.
+
+## POINTER 32
+Raynard
+
+## POINTER 33
+Increases the strength of an attack
+when a hammer is equipped.
+
+## POINTER 34
+Light Force
+
+## POINTER 35
+Increases the strength of a spell
+when a light bow is equipped.
+
+## POINTER 36
+Assassin
+
+## POINTER 37
+Increases attacks and lessen damage
+received against humanoid enemies.
+
+## POINTER 38
+Bug Busters
+
+## POINTER 39
+Increases the amount of damage dealt
+and received for insect type enemies.
+
+## POINTER 40
+Hunter
+
+## POINTER 41
+Increases attacks and lessen damage
+received against aerial enemies.
+
+## POINTER 42
+Aerial Force
+
+## POINTER 43
+Increases damage by 1.2 times against
+aerial enemies.
+
+## POINTER 44
+Hero
+
+## POINTER 45
+Increases attacks and lessen damage
+received against non-humanoid enemies.
+
+## POINTER 46
+Second Attack
+
+## POINTER 47
+Karol’s attacks inflict more damage
+on the enemy after the 2nd hit.
+
+## POINTER 48
+Critical
+
+## POINTER 49
+Increases the chance of inflicting critical damage.
+
+## POINTER 50
+Critical Break
+
+## POINTER 51
+Increases chance of guard breaks.
+
+## POINTER 52
+Charming Thrust
+
+## POINTER 53
+Occasionally inflicts Charm on an enemy
+upon a successful hit.
+
+## POINTER 54
+Sleepy Thrust
+
+## POINTER 55
+Occasionally inflicts Sleep on an enemy
+upon a successful hit.
+
+## POINTER 56
+Stinger Blow
+
+## POINTER 57
+Occasionally paralyzes enemy with a normal attack.
+
+## POINTER 58
+TP Attack
+
+## POINTER 59
+Inflicts damage on enemy TP with normal attacks.
+
+## POINTER 60
+Double Hit
+
+## POINTER 61
+A single hit will inflict two times the damage.
+
+## POINTER 62
+Elemental
+
+## POINTER 63
+Occasionally increases effect of a physical
+attack with elemental attributes.
+
+## POINTER 64
+Critical Magic
+
+## POINTER 65
+Inflicts Critical Damage when casting a spell.
+
+## POINTER 66
+Stun Magic
+
+## POINTER 67
+Increases chance of stunning an enemy
+with a magic attack.
+
+## POINTER 68
+Heavy Magic
+
+## POINTER 69
+Increases power of a spell. Also increases
+TP consumption and cast time.
+
+## POINTER 70
+Light Magic
+
+## POINTER 71
+Decreases TP consumption and cast time.
+Also decreases the spell’s power.
+
+## POINTER 72
+Over Cast
+
+## POINTER 73
+Hold <06>(ART) after casting to increase the
+effect of a novice spell while consuming TP.
+
+## POINTER 74
+Over Cast 2
+
+## POINTER 75
+Hold <06>(ART) after casting to increase the
+effect of an intermediate spell while consuming TP.
+
+## POINTER 76
+Over Cast 3
+
+## POINTER 77
+Hold <06>(ART) after casting to increase the
+effect of an advanced spell while consuming TP.
+
+## POINTER 78
+Aerial Artes
+
+## POINTER 79
+Able to perform base artes in mid-air.
+
+## POINTER 80
+Aerial Artes 2
+
+## POINTER 81
+Able to perform arcane artes in mid-air.
+
+## POINTER 82
+Aerial Artes 3
+
+## POINTER 83
+Able to perform certain altered artes in mid-air.
+
+## POINTER 84
+Aerial Finish
+
+## POINTER 85
+Increases the bonus for a blue Fatal Strike.
+
+## POINTER 86
+High Combo
+
+## POINTER 87
+Links a jump attack and a ground attack.
+
+## POINTER 88
+Change Style
+
+## POINTER 89
+Changes a normal attack depending on the
+distance between enemies.
+
+## POINTER 90
+Change Style 2
+
+## POINTER 91
+Changes an arte attack depending on the
+distance between enemies.
+
+## POINTER 92
+Steal Plus
+
+## POINTER 93
+Increase the success rate of Thievery.
+
+## POINTER 94
+Combo Plus
+
+## POINTER 95
+Adds 1 more hit to a regular attack.

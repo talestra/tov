@@ -1,0 +1,194 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS42_001)Alexei!
+
+## POINTER 1
+Alexei
+<VOICE>(VS42_002)Yeager, that useless worm. 
+Can't he even swat a 
+few pesky flies?
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS42_003)Give <STR>(EST_P) back!
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS42_004)<STR>(EST_P), come on, 
+wake up! <STR>(EST_P)!
+
+## POINTER 4
+Alexei
+<VOICE>(VS42_005)No matter.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS42_006)Aah!
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS42_007)A...aaah!!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS42_008)Agh!
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS42_009)Ouch!
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS42_010)Aah!
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS42_011)Ooh!
+
+## POINTER 11
+<STR>(RAP)
+<VOICE>(VS42_012)Rowruu!
+
+## POINTER 12
+<STR>(EST_P)
+<VOICE>(VS42_013)<STR>(YUR)! Everyone! 
+Uh...aah...
+
+## POINTER 13
+Alexei
+<VOICE>(VS42_014)As you can see, the 
+Princess' life will fade each 
+time she uses her power.<PAGE><VOICE>(VS42_015)If you care for her, then 
+do not interfere further. 
+Heh heh...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS42_016)...You...bastard...
+
+## POINTER 15
+
+<VOICE>(VS42_017)Get up! How long do you 
+plan on lying around?!
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS42_018)Uh...? You're <STR>(FRE)'s... 
+What are you doing here?
+
+## POINTER 17
+Witcher
+<VOICE>(VS42_019)These were the Captain's orders. 
+He sent us here when he became 
+aware of Heracles' movements.<PAGE><VOICE>(VS42_020)You should show some gratitude 
+for the Captain's foresight.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS42_021)I swear, that guy... You tell <STR>(FRE) 
+we don't need him sticking his 
+nose where it doesn't belong.
+
+## POINTER 19
+Sodia
+<VOICE>(VS42_022)Our Captain hasn't wavered an 
+instant in carrying out his 
+duties since speaking with you.<PAGE><VOICE>(VS42_023)But just look at you. 
+After all the boasting 
+you did. Pitiful.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS42_024)Sorry, but unlike your precious 
+Captain, we aren't perfect.
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS42_025)Hey, you guys all right?
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS42_026)Uhh... Huh? What are they...?
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS42_027)Apparently we had some 
+help. <STR>(FRE) sent them here.
+
+## POINTER 24
+Sodia
+<VOICE>(VS42_028)...How can someone like you...<PAGE><VOICE>(VS42_029)How can the Captain 
+possibly consider someone 
+like you his friend?!<PAGE><VOICE>(VS42_030)Our Captain is the ideal to 
+which we all aspire. He's the 
+epitome of an Imperial Knight.<PAGE><VOICE>(VS42_031)And yet!<PAGE><VOICE>(VS42_032)For some reason when he's 
+with you, he is not himself. 
+Just like this last time...
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS42_033)Whatever. If you're looking for 
+someone to have a heart to heart 
+with, go bug Apple Head over here.<PAGE><VOICE>(VS42_034)We don't have time to sit 
+around and play guidance 
+counselor for you.
+
+## POINTER 26
+Witcher
+<VOICE>(VS42_035)A-Apple Head?!
+
+## POINTER 27
+Sodia
+<VOICE>(VS42_036)That's it!!
+
+## POINTER 28
+Witcher
+<VOICE>(VS42_037)Sodia, no, don't! 
+Sodia!
+
+## POINTER 29
+Sodia
+<VOICE>(VS42_038)...Listen well, 
+<STR>(YUR) Lowell.<PAGE><VOICE>(VS42_039)Your very existence is 
+hurting our Captain. 
+Stay away from him!
+
+## POINTER 30
+<STR>(JUD)
+<VOICE>(VS42_040)She's pretty intense.
+
+## POINTER 31
+Witcher
+<VOICE>(VS42_041)Um, <STR>(FRE) also wanted me 
+to give you this message.<PAGE><VOICE>(VS42_042)"Take care."<PAGE><VOICE>(VS42_043)A-all right, now we've done everything 
+we came here to do.<PAGE><VOICE>(VS42_044)You're on your own after this.
+
+## POINTER 32
+Sodia
+<VOICE>(VS42_045)Platoon, fall out! 
+We must hurry to 
+rejoin the brigade.
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS42_046)<STR>(YUR)...
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS42_047)All right, let's get after Alexei. 
+We've gotta move quickly.
+
+## POINTER 35
+<STR>(JUD)
+<VOICE>(VS42_048)Right.<PAGE><VOICE>(VS42_049)If she's forced to use her 
+power, then it'll be too late 
+to save her or fix the aer.
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS42_050)That bastard... Using her 
+like some kind of tool...!<PAGE><VOICE>(VS42_051)He's gonna pay!
+
+## POINTER 37
+<STR>(KAR)
+<VOICE>(VS42_052)Come on!

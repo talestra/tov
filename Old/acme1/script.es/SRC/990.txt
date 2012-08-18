@@ -1,0 +1,30 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005802]
+
+El... el número de socios acaba
+de subir a... ¡¡¡diez miembros!!!<PAGE>¡Con tanta gente mi gremio
+ya no correrá el peligro
+de desaparecer!<PAGE>¡Tomad esta última recompensa
+como muestra de agradecimiento!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1295177101]
+<STR>(YUR)
+...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297005802]
+<STR>(KAR)
+¿Diez... miembros?
+¡Ja, ja, ja, ja!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1295177101]
+<STR>(JUD)
+Era de esperar, pero echaré de menos
+su entusiasmo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1295177101]
+<STR>(RIT)
+Bueno, ¿qué vas a hacer?
+¿Te las vas a poner?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1295177101]
+<STR>(YUR)
+¡¡Ni de coña!!

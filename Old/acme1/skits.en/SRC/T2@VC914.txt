@@ -1,0 +1,48 @@
+## POINTER 0
+What Sylph Said
+
+## POINTER 1
+(YUR)
+......
+
+## POINTER 2
+(EST_P)
+Are you angry, (YUR)?
+
+## POINTER 3
+(YUR)
+...Yeah. A little.
+
+## POINTER 4
+(EST_P)
+Is it about the events of Duke's 
+past that Sylph shared with us?
+
+## POINTER 5
+(EST_P)
+...So basically, Duke's doing what he's doing 
+to clean up the mess made by an idiot.
+
+## POINTER 6
+(EST_P)
+The whole thing is just so stupid.
+
+## POINTER 7
+(EST_P)
+Even though Duke and Elucifur 
+were both fighting for humanity's 
+sake... It's so sad...
+
+## POINTER 8
+(YUR)
+Like the hero who shined so bright that people 
+couldn't look at him, and got scared.
+
+## POINTER 9
+(EST_P)
+...The overwhelming power 
+caused people to fear him.
+
+## POINTER 10
+(YUR)
+It's all so stupid...

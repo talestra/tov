@@ -1,0 +1,39 @@
+http://www.opentk.com/doc/chaper/3/S3_Texture_Compression
+
+29-Apr-2006, 20:43
+Hey! it's Jawed, not Jaws!
+
+Textures are fetched from main memory through a 32-KB, 16-way set-associative texture cache. The texture cache is optimized for 2D and 3D, single-element, high-reuse data types. The purpose of the texture cache is to minimize redundant fetches when bilinear-filtering adjacent samples, not to hold entire textures.
+
+The texture samplers support per-pixel mipmapping with bilinear, trilinear, and anisotropic filtering. Trilinear filtering runs at half the rate of bilinear filtering. Anisotropic filtering is adaptive, so its speed varies based on the level of anisotropy required. Textures that are not powers of two in one or more dimensions are supported with mipmapping and wrapping.
+
+The texture coordinates can be clamped inside the texture polygon when using multisample antialiasing to avoid artifacts that can be caused by sampling at pixel centers. This is known as centroid sampling in Direct3D 9.0 and can be specified per interpolator by the pixel shader writer.
+
+The following texture formats are supported:
+
+8, 8:8, 8:8:8:8
+1:5:5:5, 5:6:5, 6:5:5, 4:4:4:4
+10:11:11, 11:11:10, 2:10:10:10
+16-bit per component fixed point (one-, two-, and four-component)
+32-bit per component fixed point (one-, two-, and four-component)
+16-bit per component floating point (limited filtering)
+32-bit per component floating point (no filtering)
+DXT1, DXT2, DXT3, DXT4, DXT5
+24:8 fixed point (matches z-buffer format)
+24:8 floating point (matches z-buffer format)
+New compressed formats for normal maps, luminance, and so on, as described followingFetching up to 32-bit deep textures runs at full speed (one bilinear cycle), fetching 64-bit deep textures runs at half-speed, and fetching 128-bit deep textures runs at quarter speed. A special fast mode exists that allows four-component, 32-bit-per-component floating-point textures to be fetched at half-speed rather than quarter-speed. The packed 32-bit formats (10:11:11, 11:11:10, 2:10:10:10) are expanded to 16 bits per component when filtered so they run at half speed. Separate nonfilterable versions of these formats exist that run at full speed.
+
+When filtering 16-bit per component floating-point textures, each 16-bit value is expanded to a 16.16 fixed-point value and filtered, potentially clamping the range of the values. The total size of the expanded values determines at which rate the sampling operates (full speed for one-component sampling, half speed for two-component sampling, and quarter speed for four-component sampling). Separate nonfilterable 16-bit-per-component floating-point formats also exist.
+
+DXT1 compressed textures are expanded to 32 bits per pixel, resulting in a significant improvement in quality over the expansion to 16 bits per pixel that existed on Xbox.
+
+The following new compressed texture formats are available:
+
+DXN—a two-component 8-bit-per-pixel format made up of two DXT4/5 alpha blocks
+DXT3A—a single-component 4-bit-per-pixel format made up of a DXT2/3 alpha block
+DXT5A—a single-component 4-bit-per-pixel format made up of a DXT4/5 alpha block
+CTX1—a two-component 4-bit-per-pixel format similar to DXT1 but with 8:8 colors instead of 5:6:5 colors
+DXT3A_AS_1_1_1_1—a four-component format encoded in a DXT2/3 alpha block where each bit is expanded into a separate channelThe texture formats with eight or fewer bits per component, including the compressed texture formats, can be gamma corrected using an approximation to the sRGB gamma 2.2 curve to convert from gamma space to linear light space. This correction happens for free and is applied to sampled data prior to any texture filtering.
+
+A special type of texture fetch can index into a texture “stack” that is up to 64 textures deep. A texture stack is a set of 2D textures (potentially with mipmaps) that are stored contiguously in memory.
+Jawed

@@ -1,0 +1,132 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS13_500)H-hey! The tree's 
+already blooming?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS13_501)Heh heh, I told you! 
+We brought the 
+tree back to life.
+
+## POINTER 2
+
+<VOICE>(VS13_502)Oh, you've returned! 
+Just as the knight said.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS13_503)Umm...do you mean <STR>(FRE)?
+
+## POINTER 4
+
+<VOICE>(VS13_504)Unfortunately, you 
+just missed him.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS13_505)No way! Not again...
+
+## POINTER 6
+
+<VOICE>(VS13_506)He was quite surprised that 
+the barrier had been fixed.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS13_507)Umm...would you happen to 
+know which way he went?
+
+## POINTER 8
+
+<VOICE>(VS13_508)No...I'm sorry, I don't know...
+
+## POINTER 9
+
+<VOICE>(VS13_509)However, he did entrust 
+me with a letter.
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS13_510)Wha? A-a wanted 
+poster? Wh-why?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS13_511)I guess I made a little 
+too much mischief...
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS13_512)W-what kind of mischief 
+gets you into this?!
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS13_513)I-it's my fault...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS13_514)Oh come on... 
+Only 5,000 Gald?
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS13_515)That's way too high for just 
+breaking out of jail! You must 
+have done something else!
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS13_516)S-so, what does 
+the letter say?
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS13_517)"I'm going to Nor Harbor."<PAGE><VOICE>(VS13_518)"Catch up with me."
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS13_519)"Catch up with me," huh? 
+Easy for him to say.
+
+## POINTER 19
+<STR>(EST_P)
+<VOICE>(VS13_520)He also writes that we should 
+watch out for assassins.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS13_521)Wow, he even knows 
+we're being hunted!
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VS13_522)Sounds like this guy 
+knows what he's doing.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS13_523)Looks like we have some 
+dangerous people after us 
+now. What are you gonna do?
+
+## POINTER 23
+<STR>(EST_P)
+<VOICE>(VS13_524)Well...umm...
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS13_525)I'm going to go to Nor Harbor. 
+I could pass on a message 
+for you, if you want.
+
+## POINTER 25
+<STR>(EST_P)
+<VOICE>(VS13_526)But...I...
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS13_527)Think about what you want to do. 
+I'm gonna go make sure <STR>(RIT) 
+isn't causing too much trouble.

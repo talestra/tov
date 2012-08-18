@@ -1,0 +1,95 @@
+## POINTER 1 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263003849]
+Fortuna Mercantil (capital imperial)
+
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263003849]
+Fortuna Mercantil (capital imperial)
+
+## POINTER 3 [t:1;r:3;ru:googol,memnoch,parsec;user:Googol;time:1262640665]
+Puesto de venta «Vega»
+
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:Squallido;time:1262990786]
+Bazar «Régulo»
+
+## POINTER 5 [t:1;r:2;ru:memnoch,parsec;user:Squallido;time:1262990786]
+Bazar «Régulo»
+
+## POINTER 6 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Aspio)
+
+## POINTER 7 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Nor)
+
+## POINTER 8 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Nor)
+
+## POINTER 9 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Torim)
+
+## POINTER 10 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Torim)
+
+## POINTER 11 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Heliord)
+
+## POINTER 12 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Heliord)
+
+## POINTER 13 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Dahngrest)
+
+## POINTER 14 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Dahngrest)
+
+## POINTER 15 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Dahngrest)
+
+## POINTER 16 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Nordopólica)
+
+## POINTER 17 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Nordopólica)
+
+## POINTER 18 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Nordopólica)
+
+## POINTER 19 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Mantaic)
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263003849]
+Bazar «Estrella polar»
+
+## POINTER 21 [t:1;r:2;ru:memnoch,parsec;user:Squallido;time:1262990786]
+Bazar «Deneb»
+
+## POINTER 22 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil
+
+## POINTER 23 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil
+
+## POINTER 24 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Aurnion 1)
+
+## POINTER 25 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Aurnion 2)
+
+## POINTER 26 [t:1;r:3;ru:googol,memnoch,parsec;user:Googol;time:1262640665]
+Puesto de venta «Capella»
+
+## POINTER 27 [t:1;r:3;ru:googol,memnoch,parsec;user:Googol;time:1262640665]
+Puesto de venta «Capella»
+
+## POINTER 28 [t:1;r:3;ru:googol,memnoch,parsec;user:Googol;time:1262640665]
+Puesto de venta «Capella»
+
+## POINTER 29 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil (Yumanju)
+
+## POINTER 30 [t:1;r:3;ru:googol,memnoch,parsec;user:Googol;time:1262640665]
+Depósito de suministros «Adecor»
+
+## POINTER 31 [t:1;r:3;ru:googol,memnoch,parsec;user:Googol;time:1262640665]
+Puesto de venta «Malva»
+
+## POINTER 32 [t:1;r:3;ru:googol,memnoch,parsec;user:parsec;time:1257604330]
+Fortuna Mercantil

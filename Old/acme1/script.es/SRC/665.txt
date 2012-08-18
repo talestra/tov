@@ -1,0 +1,130 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272190017]
+<STR>(YUR)
+No puede ser...
+¿Hay krityanos aquí?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272190017]
+<STR>(JUD)
+¿Qué harán en un 
+lugar como este?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761312]
+
+Eh, sois vosotros.<PAGE>Nos enteramos de que los días de Myorzo flotando
+por el cielo pronto llegarían a su fin, así que 
+hemos estado buscando sitios para vivir en la tierra.
+
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272472368]
+<STR>(KAR)
+¿Ya estáis buscando un nuevo hogar?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272190017]
+<STR>(JUD)
+No es necesario 
+que corráis tanto.
+<PAGE>Krones todavía no ha decidido si quiere 
+convertirse en un espíritu elemental o no.
+<PAGE>Además, nuestro objetivo era 
+conseguir los cuatro elementales, 
+que ya tenemos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761312]
+
+Vaya... Entonces,
+¿qué deberíamos hacer?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761312]
+<STR>(JUD)
+Eso tendréis que 
+decidirlo vosotros.
+<PAGE>Pero creo que sería buena idea
+usar los conocimientos de los krityanos
+para ayudar a los más necesitados.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761312]
+
+Mmm... Parece difícil.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272916865]
+<STR>(YUR)
+A mí no me lo parece...
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272472368]
+
+No creo que nuestros conocimientos 
+les sean de ayuda a nadie.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761312]
+
+No hay nadie que sea capaz de usar
+un arte arcano de lanza como este.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272191521]
+<STR>(JUD)
+¿Me lo dejas ver?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272916865]
+<STR>(YUR)
+Para ser una raza pacífica, los 
+krityanos tenéis muchos artefactos
+relacionados con el combate, ¿no?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761312]
+
+Es posible que nuestra gente
+los creara cuando luchamos contra
+el adephagos, hace mil años.<PAGE>Hay muchas artes que ni nosotros mismos 
+sabemos usar... Quizá nos inventamos la
+teoría, pero nunca la pusimos en práctica.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1294190248]
+
+¡Hala, increíble!
+Eres buena para
+ser una krityana.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272472368]
+<STR>(JUD)
+Creo que esto me será muy útil...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761312]
+¡Claro! No podemos prestaros nuestra fuerza
+en la batalla, pero sí nuestra sabiduría. 
+<PAGE>Si os podemos ayudar, estaremos encantados de echaros una mano.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761312]
+<STR>(JUD)
+Muchas gracias. 
+Seguid así.
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272472368]
+<STR>(YUR)
+Oye, esa arte ofensiva que has usado antes era muy...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761312]
+<STR>(JUD)
+¿Básica? Lo sé. Solamente se 
+trata de golpear el suelo con fuerza.
+<PAGE>Tiene su truco, claro, 
+pero no es difícil de realizar.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272191521]
+<STR>(YUR)
+Parece que nunca 
+han intentado usarla.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1298761312]
+<STR>(JUD)
+Los krityanos podrían hacer
+muchas cosas si lo intentaran.
+<PAGE>Descubrirían que tienen muchas
+más habilidades de las que creen.
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272191521]
+<STR>(YUR)
+¿Como tú, <STR>(JUD)?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1272191521]
+<STR>(JUD)
+Je, je. ¡Exacto!

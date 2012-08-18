@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1252003882]
+¿Estás bien, (KAR)?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240794]
+(RIT)
+¿Estás seguro de que estás bien
+después de tu pequeña cruzada en solitario?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240794]
+(KAR)
+¿Eh? Sí, supongo...
+Bueno, por ahora me siento bien.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240794]
+(JUD)
+No es muy propio de ti preocuparte por (KAR), (RIT).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240705]
+(RIT)
+No es que esté preocupada por él.
+Es que...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240705]
+(YUR)
+No podemos aparecer heridos cuando
+vayamos a rescatar a una princesa
+que tiende a curar a todo bicho viviente.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1266240705]
+(RIT)
+Exacto... Eso es lo que quería decir.
+
+## POINTER 7 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267436057]
+(RAV)
+Si tú lo íces...

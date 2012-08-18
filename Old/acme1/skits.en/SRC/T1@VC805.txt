@@ -1,0 +1,37 @@
+## POINTER 0
+Is Dahngrest Okay?
+
+## POINTER 1
+(EST_P)
+The bridge collapsed from the monster's attack...
+I wonder if Dahngrest is all right.
+
+## POINTER 2
+(EST_P)
+It seems that some people were injured, too.
+
+## POINTER 3
+(KAR)
+The place was crawling with knights.
+I think they can handle things from here.
+
+## POINTER 4
+(KAR)
+Plus the Don's in Dahngrest, and all 
+the guild members are really tough.
+
+## POINTER 5
+(YUR)
+(FRE) would catch us if we went back now, 
+and that'd be the end of your travels.
+
+## POINTER 6
+(EST_P)
+You're right.
+I'll put my trust in the 
+Imperial Knights and the guilds.
+
+## POINTER 7
+(EST_P)
+I decided I'm going with you, and 
+that's what I'm going to do.

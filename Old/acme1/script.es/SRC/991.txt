@@ -1,0 +1,42 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1279404254]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084658]
+<STR>(YUR)
+Dije que haría las
+cosas a mi manera...<PAGE>Pero permití que Cumore
+escapara como si nada.
+Menuda vergüenza.<PAGE>No sé cómo voy
+a explicárselo
+a <STR>(FRE)...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084658]
+<STR>(RAP)
+*Gemido*
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084658]
+<STR>(YUR)
+Lo sé, lo sé.
+Tenemos que ocuparnos del trabajo
+del gremio antes que lo de Cumore.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1279404254]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1280084658]
+<STR>(YUR)
+Sí...No voy a dejar
+que campee a sus anchas.<PAGE>Los hombres de su calaña
+no aprenden sus errores.<PAGE>No me quedaré de brazos cruzados.
+He dejado el Imperio y formado
+un gremio para este propósito.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1279404254]
+<STR>(RAP)
+¡Guau!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1279404254]
+<STR>(YUR)
+Recibirá lo que se merece.

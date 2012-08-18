@@ -1,0 +1,185 @@
+## POINTER 0
+<STR>(YUR)
+Hey, it's him!
+
+## POINTER 1
+<STR>(RAV)
+Hmm...? H-hey there, long time no see.
+
+## POINTER 2
+<STR>(YUR)
+Isn't there something else you should be saying?
+
+## POINTER 3
+<STR>(RAV)
+Something else? Hmm, can't 
+think of anything.
+
+## POINTER 4
+<STR>(YUR)
+Well, they say the deceived have better 
+memories than the deceivers, don't they?
+
+## POINTER 5
+<STR>(RAV)
+I'm just terribly misunderstood, honest!
+
+## POINTER 6
+<STR>(YUR)
+You need to see a doctor for your tendency 
+to unconsciously cause trouble to others.
+
+## POINTER 7
+<STR>(RAV)
+Ya might see if ya can get that foul 
+mouth of yours checked out, too.
+
+## POINTER 8
+<STR>(YUR)
+Got a comeback for everything, huh? 
+If you don't stop putzing around, the 
+Knights are gonna throw you back in jail!
+
+## POINTER 9
+<STR>(RAV)
+Heh, the Knights are a bit 
+too busy to bother with me.<PAGE>I saw a rough-looking guild group moving 
+to the northwest not too long ago.<PAGE>The Knights can't just turn a 
+blind eye to them, can they?
+
+## POINTER 10
+<STR>(YUR)
+...Rough-looking, you say? 
+Was it the Blood Alliance?
+
+## POINTER 11
+<STR>(RAV)
+Beats me.
+
+## POINTER 12
+<STR>(YUR)
+By the way,  what was 
+your business back there?
+
+## POINTER 13
+<STR>(RAV)
+Nothing special.
+I was looking for an "apatheia".
+
+## POINTER 14
+<STR>(YUR)
+What is an "apatheia?"
+
+## POINTER 15
+<STR>(RAV)
+Supposed to be like
+a really strong core.<PAGE>Heard that it was there 
+but I guess I had 
+the wrong information.
+
+## POINTER 16
+<STR>(YUR)
+I see... an "apatheia..."
+
+## POINTER 17
+<STR>(KAR)
+Oh! <STR>(YUR)! 
+Hey, over here!
+
+## POINTER 18
+<STR>(RIT)
+Argh, I'll get you, old man!
+
+## POINTER 19
+<STR>(RAV)
+Hmm, maybe I'd best be off, now.
+
+## POINTER 20
+<STR>(YUR)
+Yep. The Amazoness has emerged.
+
+## POINTER 21
+<STR>(RIT)
+Wait, damn it! I'm gonna 
+beat you senseless!
+
+## POINTER 22
+<STR>(KAR)
+*Huff* *huff* Why'd you 
+let him get away?
+
+## POINTER 23
+<STR>(YUR)
+He said he's terribly misunderstood.
+
+## POINTER 24
+<STR>(KAR)
+What? What does 
+that mean...?
+
+## POINTER 25
+<STR>(RIT)
+...He got away. I'll catch that 
+bugger one of these days...
+
+## POINTER 26
+<STR>(YUR)
+You should leave him be. Going 
+up against that kind of guy is 
+just a waste of energy.
+
+## POINTER 27
+<STR>(YUR)
+You all right?
+
+## POINTER 28
+<STR>(EST_P)
+...Just let me...take a...little break.
+
+## POINTER 29
+<STR>(YUR)
+Sure, you can have a little 
+one. Then we've gotta go.
+
+## POINTER 30
+<STR>(KAR)
+Go? Go where?
+
+## POINTER 31
+<STR>(YUR)
+We need to follow the Blood 
+Alliance to get back the lower 
+quarter's blastia.
+
+## POINTER 32
+<STR>(EST_P)
+Did you get a lead on where to go next?
+
+## POINTER 33
+<STR>(YUR)
+I heard that a shady group from 
+a guild was headed to the northwest. 
+It might be them.
+
+## POINTER 34
+<STR>(KAR)
+To the northwest of here...the only city 
+I can think of in that direction would be 
+one that was destroyed in an earthquake.
+
+## POINTER 35
+<STR>(EST_P)
+What could they want to 
+do in a place like that?
+
+## POINTER 36
+<STR>(YUR)
+Hmm, good question.
+
+## POINTER 37
+<STR>(RIT)
+And yet you still want to go?
+
+## POINTER 38
+<STR>(YUR)
+I'm just saying we should go and check it out.

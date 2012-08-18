@@ -1,0 +1,382 @@
+## POINTER 0
+Ragou
+Barbos! What is the 
+meaning of this!
+
+## POINTER 1
+Barbos
+I haven't the slightest idea 
+what you're talking about.
+
+## POINTER 2
+Ragou
+The tower and the blastia, of course! I have 
+yet to receive any reports about them!
+
+## POINTER 3
+Barbos
+Why should I have to report to 
+you about something like that?
+
+## POINTER 4
+Ragou
+Wh-what?! Building that lousy tower 
+fortress of yours without speaking a 
+word of it to your own employer... <PAGE>You even went so far as to use 
+Leviathan's Claw for help!
+
+## POINTER 5
+Barbos
+I'm not your lapdog, 
+Ragou.<PAGE>I just gathered the cores together, 
+like you requested.<PAGE>It's thanks to my efforts that 
+you were able to make that 
+weather-controlling blastia.
+
+## POINTER 6
+Ragou
+And just what made you think it was 
+okay to carry off the extra cores?!
+
+## POINTER 7
+Barbos
+Our mutual non-interference was a condition 
+of our agreement, was it not?
+
+## POINTER 8
+Ragou
+Wh-what...!
+
+## POINTER 9
+Barbos
+And did I ever interfere 
+with what you were doing?
+
+## POINTER 10
+Ragou
+...Barbos, how dare you!
+
+## POINTER 11
+Barbos
+You will leave now, magistrate.
+
+## POINTER 12
+Ragou
+Remember this, Barbos! Black-hearted 
+filth like you always get what 
+they deserve in the end!
+
+## POINTER 13
+Barbos
+You're one to talk, Ragou.
+
+## POINTER 14
+<STR>(RIT)
+Y-you guys!
+
+## POINTER 15
+<STR>(YUR)
+It's the world series of villains and you 
+had to take the best seat in the house?
+
+## POINTER 16
+Barbos
+What fool would dare to heckle 
+my exquisite performance?
+
+## POINTER 17
+Barbos
+Oh ho, if it isn't the little runts I met on the ship.
+
+## POINTER 18
+<STR>(EST_P)
+You're the one who's been causing 
+all of the recent chaos!
+
+## POINTER 19
+Barbos
+And what of it? You 
+fools will never manage 
+to capture me.
+
+## POINTER 20
+<STR>(RIT)
+Oh yeah? What's your reasoning there?
+
+## POINTER 21
+<STR>(YUR)
+A villain is someone who never considers losing a 
+possibility. That's why he thinks the way he does.
+
+## POINTER 22
+<STR>(KAR)
+If so, then that makes you quite a villain, <STR>(YUR).
+
+## POINTER 23
+<STR>(YUR)
+Yep. I'm nefarious.
+
+## POINTER 24
+Barbos
+You've got a big mouth, brat.
+
+## POINTER 25
+Barbos
+You would dare to oppose me? I thought 
+I told you before that next time you 
+wouldn't get off so easy.
+
+## POINTER 26
+<STR>(YUR)
+All the better for us 
+to tear things up!
+
+## POINTER 27
+Barbos
+Take them down!
+
+## POINTER 28
+Barbos
+Haha, the fools have started to march!<PAGE>Now that meddlesome Don 
+and the Knights will destroy 
+each other!
+
+## POINTER 29
+<STR>(KAR)
+He did this to destroy the Union 
+and to eliminate the Don...!
+
+## POINTER 30
+<STR>(EST_P)
+If the Knights are destroyed, 
+who will protect the empire?<PAGE>Ragou, why would you...oh!
+
+## POINTER 31
+<STR>(RIT)
+Of course...he's going to weaken the 
+Imperial Knights so that the Council 
+can step in and control the empire.
+
+## POINTER 32
+<STR>(EST_P)
+Oh my...
+
+## POINTER 33
+<STR>(YUR)
+The Knights and the Union going down 
+together...it's just as <STR>(FRE) said.
+
+## POINTER 34
+Barbos
+Hmph, so what if you know now? 
+No matter what you do, you won't 
+be able to stop the battle!
+
+## POINTER 35
+<STR>(YUR)
+Hmm, we'll see.
+
+## POINTER 36
+Barbos
+And your existence comes 
+to an end here!
+
+## POINTER 37
+<STR>(YUR)
+Damn it, he's too late!
+
+## POINTER 38
+<STR>(EST_P)
+<STR>(FRE)?!
+
+## POINTER 39
+<STR>(FRE)
+Stop! All of you, sheathe 
+your blades! Sheathe them!
+
+## POINTER 40
+<STR>(FRE)
+I am <STR>(FRE) Scifo of the Imperial 
+Knights. I have come bearing a 
+letter from Master Ioder!
+
+## POINTER 41
+<STR>(FRE)
+The letter you received from the empire 
+was false! It was the work of a rebel! 
+Draw back your armies at once!
+
+## POINTER 42
+Don Whitehorse
+I thought you weren't 
+coming back.
+
+## POINTER 43
+<STR>(FRE)
+And leave <STR>(YUR) behind to take the fall 
+for me? I wouldn't dream of it.
+
+## POINTER 44
+Barbos
+<VOICE>(VS20_113)Ragou, you fool. You didn't keep 
+up your end of the bargain.
+
+## POINTER 45
+Ragou
+<VOICE>(VS20_114)Don't hurt me...!
+
+## POINTER 46
+Barbos
+<VOICE>(VS20_115)Damn...!
+
+## POINTER 47
+<STR>(EST_P)
+<VOICE>(VS20_116)<STR>(YUR)! They're aiming 
+at <STR>(FRE)!
+
+## POINTER 48
+<STR>(KAR)
+<VOICE>(VS20_117)Got 'im!
+
+## POINTER 49
+<STR>(YUR)
+<VOICE>(VS20_118)Nice shot, <STR>(KAR)!
+
+## POINTER 50
+Barbos
+<VOICE>(VS20_119)You brats think you 
+can stop me?!
+
+## POINTER 51
+<STR>(KAR)
+<VOICE>(VS20_120)Gyaaah!
+
+## POINTER 52
+<STR>(EST_P)
+<VOICE>(VS20_121)Aaah!
+
+## POINTER 53
+<STR>(YUR)
+<VOICE>(VS20_122)Get out of here. 
+Head for the exit.
+
+## POINTER 54
+<STR>(EST_P)
+<VOICE>(VS20_123)<STR>(YUR), no, it's too dangerous!
+
+## POINTER 55
+<STR>(RIT)
+<VOICE>(VS20_124)It should take time for the 
+aer to recharge. I'll try and 
+stop him before then...
+
+## POINTER 56
+<STR>(KAR)
+<VOICE>(VS20_125)Now!
+
+## POINTER 57
+Barbos
+<VOICE>(VS20_126)You're too late!
+
+## POINTER 58
+<STR>(RIT)
+<VOICE>(VS20_127)No! It charged 
+up too quickly!
+
+## POINTER 59
+Barbos
+<VOICE>(VS20_128)Wh-what the hell...?!
+
+## POINTER 60
+<STR>(RIT)
+<VOICE>(VS20_129)Oh, so you're back 
+for more, dragon freak!
+
+## POINTER 61
+<STR>(YUR)
+<VOICE>(VS20_130)<STR>(RIT), knock it off! Our 
+enemy's over there...!
+
+## POINTER 62
+<STR>(RIT)
+<VOICE>(VS20_131)My enemy is this dragon freak!
+
+## POINTER 63
+<STR>(YUR)
+<VOICE>(VS20_132)Leave it alone for now!
+
+## POINTER 64
+Barbos
+<VOICE>(VS20_133)Humph.
+
+## POINTER 65
+Barbos
+<VOICE>(VS20_134)I'm gonna make you wish 
+you hadn't done that!
+
+## POINTER 66
+<STR>(KAR)
+<VOICE>(VS20_135)What? He can fly?!
+
+## POINTER 67
+<STR>(RIT)
+<VOICE>(VS20_136)Ah! Get back here you freak! Think 
+I'm just gonna let you get away?!
+
+## POINTER 68
+<STR>(YUR)
+<VOICE>(VS20_137)If you're going after him, let me come with you! 
+We're a little short on wings around here.
+
+## POINTER 69
+<STR>(RIT)
+<VOICE>(VS20_138)Are you crazy? 
+This jerk's our enemy!
+
+## POINTER 70
+<STR>(YUR)
+<VOICE>(VS20_139)No matter what happens, 
+I've gotta catch that guy.
+
+## POINTER 71
+<STR>(YUR)
+<VOICE>(VS20_140)...Come on!
+
+## POINTER 72
+<STR>(YUR)
+<VOICE>(VS20_141)Yes! Thanks!
+
+## POINTER 73
+<STR>(KAR)
+<VOICE>(VS20_142)Wait! What about us...?!
+
+## POINTER 74
+<STR>(YUR)
+<VOICE>(VS20_143)This guy's overloaded 
+enough as it is!
+
+## POINTER 75
+<STR>(KAR)
+<VOICE>(VS20_144)But, what should we...?
+
+## POINTER 76
+<STR>(YUR)
+<VOICE>(VS20_145)You guys hold down the fort here!
+
+## POINTER 77
+<STR>(EST_P)
+<VOICE>(VS20_146)What...?!
+
+## POINTER 78
+<STR>(YUR)
+<VOICE>(VS20_147)Stay out of trouble!
+
+## POINTER 79
+<STR>(KAR)
+<VOICE>(VS20_148)Dammit, <STR>(YUR)!
+
+## POINTER 80
+<STR>(YUR)
+<VOICE>(VS20_149)And let <STR>(FRE) know 
+I'm stepping out 
+for a while!

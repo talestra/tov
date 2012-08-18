@@ -1,0 +1,314 @@
+## POINTER 1923
+Magical Ribbon
+
+## POINTER 1924
+A ribbon with strong magical powers.
+
+## POINTER 1926
+Ancient Ribbon
+
+## POINTER 1927
+A ribbon made of a rare, ancient material.
+
+## POINTER 1929
+Poison Ward
+
+## POINTER 1930
+50% chance of preventing Poison.
+Slightly resistant to Water.
+
+## POINTER 1932
+Poison Charm
+
+## POINTER 1933
+Prevents Poison. Resistant to Water.
+
+## POINTER 1935
+Paralysis Ward
+
+## POINTER 1936
+50% chance of preventing Paralysis.
+Slightly resistant to Wind.
+
+## POINTER 1938
+Paralysis Charm
+
+## POINTER 1939
+Prevents Paralysis. Resistant to Wind.
+
+## POINTER 1941
+Stone Ward
+
+## POINTER 1942
+50% chance of preventing Petrification and
+Sealed Artes. Slightly resistant to Earth.
+
+## POINTER 1944
+Stone Charm
+
+## POINTER 1945
+Prevents Petrification and Sealed Artes.
+Resistant to Earth.
+
+## POINTER 1947
+Drain Ward
+
+## POINTER 1948
+50% chance of preventing Weak and 
+Contamination. Slightly resistant to Fire.
+
+## POINTER 1950
+Drain Charm
+
+## POINTER 1951
+Prevents Weak and Contamination. 
+Resistant to Fire.
+
+## POINTER 1953
+Stun Bracelet
+
+## POINTER 1954
+A bracelet that reduces the duration of
+Stun by 50%. Protect yourself!
+
+## POINTER 1956
+Stun Talisman
+
+## POINTER 1957
+Prevents Stun.
+Now you can fight with peace of mind.
+
+## POINTER 1959
+Heal Bracelet
+
+## POINTER 1960
+Restores 10% of Max HP for every enemy
+defeated. For the aggressive fighters.
+
+## POINTER 1962
+Spirit Bangle
+
+## POINTER 1963
+Restores 10% of Max TP for every enemy
+defeated. For the strategic fighters.
+
+## POINTER 1965
+Amulet
+
+## POINTER 1966
+Prevents all Physical Ailments.
+
+## POINTER 1968
+Laurel
+
+## POINTER 1969
+Prevents all Magical Ailments.
+
+## POINTER 1971
+World Charm
+
+## POINTER 1972
+50% chance of preventing Status Effects.
+An excellent accessory.
+
+## POINTER 1974
+Talisman
+
+## POINTER 1975
+Increases Physical Defense by 5％.
+
+## POINTER 1977
+Blue Talisman
+
+## POINTER 1978
+Increases Physical Defense by 10%.
+Better than some cheap armor!
+
+## POINTER 1980
+Faerie Ring
+
+## POINTER 1981
+A ring engraved with a fairy.
+Reduces TP consumption by 50%.
+
+## POINTER 1983
+Holy Ring
+
+## POINTER 1984
+A holy ring. Occasionally restores 1%
+of wearer's Max HP.
+
+## POINTER 1986
+Spirit Ring
+
+## POINTER 1987
+A spiritual ring. Occasionally restores 1%
+of wearer's Max TP.
+
+## POINTER 1989
+Attack Ring
+
+## POINTER 1990
+A ring engraved with a sword.
+Raises attack by 10% during battle.
+
+## POINTER 1992
+Defense Ring
+
+## POINTER 1993
+A ring engraved with a shield.
+Raises defense by 10% during battle.
+
+## POINTER 1995
+Protect Ring
+
+## POINTER 1996
+A ring engraved with a war god.
+Reduces physical damage by 10%.
+
+## POINTER 1998
+Force Ring
+
+## POINTER 1999
+A ring engraved with a war god.
+Reduces physical damage by 20%.
+
+## POINTER 2001
+Emerald Ring
+
+## POINTER 2002
+A ring with an emerald.
+Reduces TP consumption by 33%.
+
+## POINTER 2004
+Resist Ring
+
+## POINTER 2005
+A ring infused with magic.
+Reduces elemental damage by 10%.
+
+## POINTER 2007
+Reflect Ring
+
+## POINTER 2008
+A ring engraved with a goddess.
+Reduces elemental damage by 20%.
+
+## POINTER 2010
+Effecti Ring
+
+## POINTER 2011
+A ring engraved with a devil.
+Reduces all damage by 15%.
+
+## POINTER 2013
+Rebirth Ring
+
+## POINTER 2014
+If you're lucky, this might resurrect you from
+KO during battle. One can still hope for a miracle!
+
+## POINTER 2016
+Cape
+
+## POINTER 2017
+A generic cape made of cloth.
+A standard accessory for rookies.
+
+## POINTER 2019
+Leather Cape
+
+## POINTER 2020
+A cape made of leather. A standard
+accessory for an adventurer.
+
+## POINTER 2022
+Thief's Cape
+
+## POINTER 2023
+The cape of choice for thieves.
+Slightly raises Agility.
+
+## POINTER 2025
+Flare Cape
+
+## POINTER 2026
+A cape with the crest of Fire.
+Raises Fire resistance by 50%.
+
+## POINTER 2028
+Aqua Cape
+
+## POINTER 2029
+A cape with the crest of Water.
+Raises Water resistance by 50%.
+
+## POINTER 2031
+Wind Cape
+
+## POINTER 2032
+A cape with the crest of Wind.
+Raises Wind resistance by 50%.
+
+## POINTER 2034
+Earth Cape
+
+## POINTER 2035
+A cape with the crest of Earth.
+Raises Earth resistance by 50%.
+
+## POINTER 2037
+Paladin Cape
+
+## POINTER 2038
+A cape worthy of a true knight.
+
+## POINTER 2040
+King's Cape
+
+## POINTER 2041
+A cape that belongs to the King of All Cosmos.
+We think its elegance and beauty are fab!
+
+## POINTER 2043
+Holy Symbol
+
+## POINTER 2044
+A holy relic. Occassionally restores 3% of
+Max HP.
+
+## POINTER 2046
+Spirit Symbol
+
+## POINTER 2047
+A spiritual relic. Occassionally restores 3% of
+Max TP.
+
+## POINTER 2049
+Mystic Mark
+
+## POINTER 2050
+The mark of a fonist. Slightly reduces casting time.
+
+## POINTER 2052
+Mystic Symbol
+
+## POINTER 2053
+The mark of a scorist. Reduces casting time.
+
+## POINTER 2055
+Dark Seal
+
+## POINTER 2056
+EXP x1.5, enemy damage x2. Artes sealed.
+Must be equipped prior to battle.
+
+## POINTER 2058
+Demon's Seal
+
+## POINTER 2059
+EXP x2, physical ailments during battle.
+Must be equipped prior to battle.
+
+## POINTER 2061
+Krona's Symbol

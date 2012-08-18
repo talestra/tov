@@ -1,0 +1,305 @@
+## POINTER 0 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Enemigos cercanos
+
+## POINTER 1 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Ataca al enemigo más cercano.
+
+## POINTER 2 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1265581885]
+Enemigos lejanos
+
+## POINTER 3 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Ataca al enemigo más alejado.
+
+## POINTER 4 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Mismo enemigo
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1268088399]
+Ataca al mismo enemigo que ataca el jugador.
+
+## POINTER 6 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Enemigo distinto
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1268088399]
+Ataca a un enemigo que no ataque el jugador.
+
+## POINTER 8 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Enemigos fuertes
+
+## POINTER 9 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Ataca al enemigo de mayor nivel.
+
+## POINTER 10 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Enemigos débiles
+
+## POINTER 11 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Ataca a enemigos con poco HP.
+
+## POINTER 12 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Ayudar a aliados
+
+## POINTER 13 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Defiende a los aliados con poco HP.
+
+## POINTER 14 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usar artes
+
+## POINTER 15 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1268088399]
+Ataca a los enemigos que usen artes.
+
+## POINTER 16 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Enemigos voladores
+
+## POINTER 17 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Ataca a enemigos que vuelen.
+
+## POINTER 18 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Ataque total
+
+## POINTER 19 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Ataca sin importar el HP restante.
+
+## POINTER 20 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Resistir
+
+## POINTER 21 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Se mantiene a distancia de los enemigos
+cuando el HP esté por debajo del 25%.
+
+## POINTER 22 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Moderado
+
+## POINTER 23 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Se mantiene a distancia de los enemigos
+cuando el HP esté por debajo del 50%.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1297104045]
+Fuera riesgos
+
+## POINTER 25 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Se mantiene a distancia de los enemigos
+cuando el HP esté por debajo del 75%.
+
+## POINTER 26 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Artes desbocadas
+
+## POINTER 27 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Ataca sin importar el TP restante.
+
+## POINTER 28 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usar 75%
+
+## POINTER 29 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa artes hasta que el TP esté por debajo del 25%.
+
+## POINTER 30 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usar la mitad
+
+## POINTER 31 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa artes hasta que el TP esté por debajo del 50%.
+
+## POINTER 32 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usar 25%
+
+## POINTER 33 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa artes hasta que el TP esté por debajo del 75%.
+
+## POINTER 34 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+No usar
+
+## POINTER 35 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+No se usan artes.
+
+## POINTER 36 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Como quieras
+
+## POINTER 37 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Deja que el personaje actúe como crea conveniente.
+
+## POINTER 38 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Solo artes
+
+## POINTER 39 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa únicamente artes.
+
+## POINTER 40 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247840]
+Solo artes ofensivas
+
+## POINTER 41 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247840]
+Usa únicamente artes ofensivas.
+
+## POINTER 42 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Solo artes mágicas
+
+## POINTER 43 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa únicamente artes mágicas.
+
+## POINTER 44 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Sanar
+
+## POINTER 45 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1266164379]
+Se preocupa en restaurar el HP.
+
+## POINTER 46 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Curar
+
+## POINTER 47 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1266164379]
+Se preocupa en curar los estados físicos alterados.
+
+## POINTER 48 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Apoyo
+
+## POINTER 49 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa artes y objetos con efectos de apoyo para ayudar a los aliados.
+
+## POINTER 50 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Defensa
+
+## POINTER 51 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Se concentra en bloquear los ataques enemigos.
+
+## POINTER 52 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Movimiento libre
+
+## POINTER 53 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Se mueve libremente sea cual sea la formación.
+
+## POINTER 54 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Mantener la formación
+
+## POINTER 55 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Mantiene la formación y no persigue a los enemigos demasiado lejos.
+
+## POINTER 56 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Mantener la distancia
+
+## POINTER 57 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Mantiene los enemigos a distancia.
+
+## POINTER 58 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Flexible
+
+## POINTER 59 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Cambia la estrategia según la situación.
+
+## POINTER 60 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Cuidado con el HP
+
+## POINTER 61 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa objetos cuando el HP esté bajo.
+
+## POINTER 62 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Cuidado con el TP
+
+## POINTER 63 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa objetos cuando el TP esté bajo.
+
+## POINTER 64 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267980089]
+Estado
+
+## POINTER 65 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa objetos cuando tenga un estado alterado.
+
+## POINTER 66 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+No usar
+
+## POINTER 67 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+No usa objetos.
+
+## POINTER 68 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Como tú quieras
+
+## POINTER 69 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Permite al personaje usar objetos libremente.
+
+## POINTER 70 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Apuntar
+
+## POINTER 71 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1266164379]
+Apunta siempre que haya ocasión.
+
+## POINTER 72 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Contra jefes
+
+## POINTER 73 [t:1;r:1;ru:memnoch;user:memnoch;time:1297104045]
+Apunta siempre que haya ocasión durante batallas
+contra jefes.
+
+## POINTER 74 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Varios enemigos
+
+## POINTER 75 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1266164379]
+Apunta cuando hay varios enemigos.
+
+## POINTER 76 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+No usar
+
+## POINTER 77 [t:1;r:3;ru:maz,parsec,memnoch;user:memnoch;time:1265229432]
+No usa Ataques letales.
+
+## POINTER 78 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1265581885]
+Usar Límite de Nv. 1
+
+## POINTER 79 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa Límites de Nv. 1.
+
+## POINTER 80 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247840]
+Usar Límite de Nv. 2
+
+## POINTER 81 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa Límites de Nv. 2.
+
+## POINTER 82 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247840]
+Usar Límite de Nv. 3
+
+## POINTER 83 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa Límites de Nv. 3.
+
+## POINTER 84 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264247840]
+Usar Límite de Nv. 4
+
+## POINTER 85 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usa Límites de Nv. 4.
+
+## POINTER 86 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Usar en momentos críticos.
+
+## POINTER 87 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Los usa cuando haya peligro.
+
+## POINTER 88 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+No usar
+
+## POINTER 89 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+No usa Límites.
+
+## POINTER 90 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Dejádmelo a mí
+
+## POINTER 91 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Los aliados no se acercarán al enemigo.
+
+## POINTER 92 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+¡Cuidado!
+
+## POINTER 93 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263941814]
+Los aliados usarán constantemente la posición de bloqueo.
+
+## POINTER 94 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+¡Apiñaos!
+
+## POINTER 95 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Los aliados se colocarán alrededor de Karol.
+
+## POINTER 96 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+¡Cuidado con la magia!
+
+## POINTER 97 [t:1;r:1;ru:memnoch;user:memnoch;time:1297104045]
+Los aliados usarán la Guardia mágica.
+(Solo cuando la habilidad esté equipada).
+
+## POINTER 98 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1263812618]
+Tranqui, tronco
+
+## POINTER 99 [t:1;r:1;ru:memnoch;user:memnoch;time:1297104045]
+Los aliados se pondrán a vacilar.
+(Solo cuando la habilidad Vacile esté equipada).

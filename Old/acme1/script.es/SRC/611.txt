@@ -1,0 +1,191 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1291548105]
+<STR>(EST_P)
+¡Nobis! ¡Debería
+estar en cama!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1291548105]
+Nobis
+No puedo estar todo el día tumbado.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1291570937]
+<STR>(YUR)
+Sí, estás en buena forma.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660745]
+<STR>(YUR)
+Ya tienes tu livianita.
+¿Ahora adónde te largas?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1291570937]
+Nobis
+Debo encontrar el texto secreto
+que detalla el proceso de
+refinación de la livianita.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1291570937]
+<STR>(YUR)
+¿Qué tiene tan especial?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1291570937]
+Nobis
+Por supuesto, en su estado
+puro como mineral la livianita
+no sirve para nada.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1291570937]
+<STR>(KAR)
+¿Ah, no?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1291570937]
+<STR>(RIT)
+Es cierto. Es un metal, así que no
+podrás hacer mucho con él como no
+le quites todas las impurezas.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660745]
+Nobis
+Y la livianita debe ser refinada según
+un proceso especial. Nuestro gremio tenía
+el método escrito en un manual secreto.<PAGE>Hace mucho se lo llevaron a un viaje
+y hoy en día se desconoce su paradero.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660745]
+<STR>(JUD)
+¿Y vas a intentar
+encontrarlo?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660745]
+<STR>(EST_P)
+Pero ¿por qué? ¿Por qué
+se expone a tanto riesgo?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660745]
+Nobis
+Es por... por el bien de
+nuestro gremio. Por los
+Herreros Espirituales.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1291570937]
+<STR>(RAV)
+¿Qué quieres decir?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1291571776]
+Nobis
+Nuestro gremio está afrontando una crisis
+que amenaza su supervivencia.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660909]
+<STR>(KAR)
+¿Supervivencia? ¡Pero si sois uno
+de los cincos grandes gremios!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660909]
+Nobis
+Gracias a la estabilidad que
+han ayudado a crear las barreras,
+las armas ya no son igual de
+valiosas que antes.<PAGE>Han pasado muchos años desde que
+alguien se unió a nuestro gremio
+y nada detendrá el envejecimiento
+de nuestros miembros más viejos.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1291571776]
+<STR>(YUR)
+¿Y qué tiene que ver con eso
+lo de refinar la livianita?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1291572903]
+Nobis
+En el arte de forjar armas, ningún
+mineral iguala a la livianita.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1291572903]
+<STR>(EST_P)
+Ahora que lo dice, creo
+recordar haber leído que las
+armas más famosas están hechas
+de metales muy específicos.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1291572903]
+Nobis
+Para bien o para mal, el mundo actual
+es un lugar desastroso.<PAGE>Quizá las armas que forjamos tienen
+un papel en restaurar el orden en el
+mundo y la gloria de nuestro gremio.<PAGE>Aunque he adquirido el mineral,
+sin el manual es
+lo mismo que nada.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660909]
+<STR>(EST_P)
+Aun así, no debería
+forzarse...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1291572903]
+<STR>(JUD)
+¿Te parece alguien que
+se estará quietecito
+solo porque se lo digas?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1291572903]
+<STR>(RAV)
+Está majara perdío.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1291572903]
+Nobis
+...
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660909]
+<STR>(YUR)
+Debería haberlo visto venir.
+Vale, encontraremos tu manual secreto.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1291572903]
+Nobis
+¿Vosotros?...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1293660909]
+<STR>(YUR)
+Mientras tanto, te quedas aquí,
+como deberías estar.<PAGE>Por el nombre de Gran Vesperia,
+la estrella más brillante de
+la noche, aceptamos el curro.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661072]
+<STR>(KAR)
+¡Hala, <STR>(YUR)! ¿Has pensado
+en preguntarnos algo al resto?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1291572903]
+<STR>(JUD)
+Nos estamos esforzando en vivir
+vidas de justicia y de castigar
+a lo injusto, ¿no es cierto?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:Lia;time:1291572903]
+<STR>(KAR)
+Mm, sí.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661072]
+<STR>(RAV)
+¿No nos dijo Rhianna algo de que
+su viejo extrajo la livianita
+e hizo algo con ella?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661072]
+<STR>(YUR)
+Oh, es verdad. La señorita esa
+por la que estabas coladísimo que
+nos dijo que buscásemos su collar.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1293661084]
+<STR>(KAR)
+¡Es verdad, me había olvidado de ella!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:Lia;time:1291573379]
+<STR>(EST_P)
+Entonces si le preguntamos a ella tal vez
+nos dé una idea de por dónde empezar a buscar.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:Lia;time:1291573379]
+<STR>(YUR)
+Vamos a buscarla.

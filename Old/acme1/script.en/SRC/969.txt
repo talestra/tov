@@ -1,0 +1,54 @@
+## POINTER 0
+<STR>(KAR)
+The water dried up...?
+
+## POINTER 1
+<STR>(YUR)
+What did you do?
+
+## POINTER 2
+Sylph
+Gnome's power has brought about extraordinary 
+growth in the roots of the trees.<PAGE>These roots have bored holes through 
+the surrounding crags.
+
+## POINTER 3
+<STR>(KAR)
+I get it... The water escaped through 
+those holes, since it was originally 
+higher than sea level.
+
+## POINTER 4
+<STR>(YUR)
+He certainly does some 
+pretty extreme things for 
+how docile he looks.
+
+## POINTER 5
+<STR>(KAR)
+Welcome back.
+
+## POINTER 6
+Sylph
+The fertile forest has returned. You may 
+feel free to visit it at your leisure.
+
+## POINTER 7
+<STR>(YUR)
+Yeah... We'll go 
+down there when 
+we get a chance.
+
+## POINTER 8
+Sylph
+Then, we shall now take our leave...
+
+## POINTER 9
+<STR>(EST_P)
+Gnome is so cute...
+
+## POINTER 10
+<STR>(YUR)
+Don't you think there's something 
+weird about calling an all-powerful 
+elemental spirit "cute?"

@@ -1,0 +1,18 @@
+## POINTER 0
+<STR>(JUD)
+There's a keyhole 
+in this lever!
+
+## POINTER 1
+<STR>(YUR)
+Come to think of it, didn't 
+we get a key a while back?
+
+## POINTER 2
+<STR>(YUR)
+Oh...?
+
+## POINTER 3
+<STR>(JUD)
+This looks like it might move if you 
+used the Sorcerer's Ring on it.

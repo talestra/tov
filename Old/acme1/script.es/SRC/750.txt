@@ -1,0 +1,94 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805795]
+<STR>(RIT)
+...
+Y, en resumen,
+eso es todo.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+
+Hala, las cosas se
+han puesto muy feas...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805795]
+
+Espíritus, ¿eh?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+
+¿Y nos estás diciendo que quieres
+que dejemos nuestra investigación
+sobre los blastias?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+
+¡La gente no puede
+vivir sin blastias!<PAGE>¡Esto no me gusta un pelo!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805795]
+
+Para ser unos aprendices con un trabajo infradotado
+que no le importa a nadie, os lo tenéis muy creído.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+
+¡¿Qué has dicho?!
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+
+¿Buscas pelea?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+<STR>(RIT)
+¡No he venido para
+escuchar vuestras
+discusiones chorras!<PAGE>¿No podéis controlaros unos minutos?
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+<STR>(RIT)
+En fin, como os iba diciendo.<PAGE>Dentro de poco los magos seremos
+incapaces de continuar nuestros
+estudios sobre los blastias.<PAGE>Tan solo creí que avisaros
+sería lo mejor.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805795]
+
+No podemos aceptar
+lo que nos has dicho.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+
+Aunque seas la mejor en Aspio,
+sigues siendo una cría.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+
+Los adultos se niegan a hacer caso a las
+palabras de alguien tan joven como tú.<PAGE>Y eso es todo.
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879549]
+<STR>(RIT)
+Pero ese no es el problema...
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+
+Los adultos tenemos nuestra manera de discutir
+las cosas. Déjalo en nuestras manos.
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879549]
+
+Eso. ¡Ya haremos algo
+con esos testarudos!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+<STR>(RIT)
+Perdonad.
+Venga, vamos.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298805795]
+<STR>(EST_P)
+¿Está bien que nos vayamos
+tan pronto? Bueno, es que...
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286879387]
+<STR>(RIT)
+No pasa nada. Vamos.

@@ -1,0 +1,143 @@
+## POINTER 0
+<STR>(YUR)
+Oh? Kaufman? I 
+didn't expect to 
+see you again.
+
+## POINTER 1
+Kaufman
+I've just been talking 
+shop a little. No concern 
+of yours, though.
+
+## POINTER 2
+<STR>(RAV)
+Always the businesswoman, 
+eh? Always tryin' 
+ta cut a deal!
+
+## POINTER 3
+Kaufman
+Are you trying to charm 
+me? It's having the 
+opposite effect.
+
+## POINTER 4
+<STR>(RIT)
+That's the old man's 
+MO, I'm afraid.
+
+## POINTER 5
+<STR>(JUD)
+So do you want to make other amusement 
+parks like this one in the world? There 
+could be an untapped market out there.
+
+## POINTER 6
+Kaufman
+Now here's a girl with a good 
+head on her shoulders.<PAGE>This place isn't business-oriented like other 
+amusement parks, so the park itself doesn't 
+really produce any profit. However...
+
+## POINTER 7
+<STR>(RAV)
+Ahh, so yer plannin' on providin' 
+transportation here and turnin' 
+a profit that way?
+
+## POINTER 8
+Kaufman
+Exactly. We were just 
+discussing how to divide 
+the shares, but...
+
+## POINTER 9
+<STR>(RIT)
+So what's the matter? Are 
+they unhappy that their 
+shares are too small?
+
+## POINTER 10
+Kaufman
+Quite the opposite, actually. 
+They say they don't 
+want any Gald at all.
+
+## POINTER 11
+
+We have no need of Gald! It's 
+enough for us if we can 
+just make others happy.<PAGE>That's all it takes for 
+us to be satisfied.
+
+## POINTER 12
+Kaufman
+You see? How am I supposed 
+to work a deal with people 
+who think like that?
+
+## POINTER 13
+<STR>(YUR)
+What's the problem? They say they 
+don't want any Gald... Sounds like 
+a pretty sweet deal for you.
+
+## POINTER 14
+Kaufman
+No! It would go against our guild's 
+principles. Good people must 
+always be dealt with fairly!
+
+## POINTER 15
+<STR>(EST_P)
+Hmm... You kind of 
+remind me of Leblanc, 
+Miss Kaufman.
+
+## POINTER 16
+<STR>(YUR)
+That annoying old fart? 
+Are you serious?
+
+## POINTER 17
+Kaufman
+Did you just say "Leblanc?"
+
+## POINTER 18
+<STR>(EST_P)
+Y-yes, I did, 
+but...
+
+## POINTER 19
+<STR>(YUR)
+Has he been bothering 
+you, too?
+
+## POINTER 20
+Kaufman
+No...no, don't worry 
+about it. It's 
+nothing really.
+
+## POINTER 21
+
+Hey hey, do you 
+mind if I go?<PAGE>I've gotta go 
+make some Milk 
+Yakisoba!<PAGE>See ya!
+
+## POINTER 22
+Kaufman
+W-wait a 
+second...
+
+## POINTER 23
+<STR>(EST_P)
+Did you notice that? When 
+she heard Leblanc's name...
+
+## POINTER 24
+<STR>(YUR)
+Yeah... I wonder what 
+that was about.

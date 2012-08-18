@@ -1,0 +1,312 @@
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal - ○
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal - ↑○
+
+## POINTER 8 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal - ←→○
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal - ↓○
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal - En salto - ○
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal - En salto - ↓○
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal secundario - ○
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal secundario - ↑○
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal secundario - ←→○
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal secundario - ↓○
+
+## POINTER 24 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal secundario - En salto - ○
+
+## POINTER 26 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Ataque normal secundario - En salto - ↓○
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344380]
+Ataque en movimiento libre
+
+## POINTER 30 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262352840]
+Ataque letal azul
+
+## POINTER 32 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262352840]
+Ataque letal rojo
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262352840]
+Ataque letal verde
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262286935]
+Filo azur
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633253]
+Arte básico: Desata el poder del viento.
+Puede golpear enemigos a distancia.
+
+## POINTER 38 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Golpe cerbero
+
+## POINTER 39 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633253]
+Arte básico: Golpea con tres puñetazos rápidos.
+
+## POINTER 40 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Golpe colmillo
+
+## POINTER 41 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263078702]
+Arte básico: Propina al enemigo un tajo
+hacia abajo y lo remata con un gancho.
+
+## POINTER 42 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Golpe de lobo
+
+## POINTER 43 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte básico: Una precisa estocada seguida
+de un gancho.
+
+## POINTER 44 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Campo destructor
+
+## POINTER 45 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263078702]
+Arte básico: Destroza el suelo con una onda de choque.
+Su velocidad cambia según la distancia al enemigo.
+
+## POINTER 46 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262444014]
+Estallido de Dhaos
+
+## POINTER 48 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Colmillo brillante
+
+## POINTER 49 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262973883]
+Arte básico: Tajo giratorio.
+Parece que uno está haciendo girar la espada.
+
+## POINTER 50 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Tajo del tigre
+
+## POINTER 51 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte básico: Eleva al enemigo con dos tajos
+y después lo estampa contra el suelo de un puñetazo.
+
+## POINTER 52 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Lobo espectral
+
+## POINTER 53 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267364597]
+Arte básico: Embiste al enemigo y después se coloca
+rápidamente detrás de él para rematarlo con un segundo ataque.
+
+## POINTER 54 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Golpe de lobo azur
+
+## POINTER 55 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262444014]
+Arte arcano: Combinación de Filo azur
+y Golpe de lobo.
+
+## POINTER 56 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Águila demoledora
+
+## POINTER 57 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262973883]
+Arte arcano: Golpea el suelo y alcanza al enemigo
+con el poder de tu arma.
+
+## POINTER 58 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267364597]
+Hueste de dragón
+
+## POINTER 59 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte arcano: Golpea al enemigo con cortes giratorios.
+
+## POINTER 60 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290304]
+Colmillo desgarrador
+
+## POINTER 61 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267364597]
+Arte arcano: Eleva al enemigo de una patada
+y después lo golpea mientras gira.
+
+## POINTER 62 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Brillo de águila
+
+## POINTER 63 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte arcano: Blande la espada golpeando el suelo
+para generar una onda de choque.
+
+## POINTER 64 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267364597]
+Hueste de dragón brillante
+
+## POINTER 65 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267364597]
+Arte arcano: Combinación de Colmillo brillante
+y Hueste de dragón.
+
+## POINTER 66 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Furia explosiva
+
+## POINTER 67 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte arcano: Desata un estallido de poder de tu interior
+que derriba al enemigo. En el primer nivel solo estalla por contacto.
+
+## POINTER 68 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Colmillo brutal
+
+## POINTER 69 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267364597]
+Arte arcano: Golpea al enemigo
+con el puño en repetidas ocasiones.
+
+## POINTER 70 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Caos aullador
+
+## POINTER 71 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte arcano: Manda al enemigo por los aires de una patada
+giratoria en salto y después remata con un tajo.
+
+## POINTER 72 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262973883]
+Embestida lobuna
+
+## POINTER 73 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte arcano: Desata un estallido de poder
+en forma de lobo.
+
+## POINTER 74 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Vendaval final
+
+## POINTER 75 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263078702]
+Arte arcano: Ataca con tu espada con un corte circular
+para mandar después una onda de choque huracanada.
+
+## POINTER 76 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Explosión aulladora
+
+## POINTER 77 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte arcano: Combinación de Caos aullador
+y Campo destructor.
+
+## POINTER 78 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Embestida de lobo desgarrador
+
+## POINTER 79 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262973883]
+Arte arcano: Combinación de Colmillo brutal
+y Embestida lobuna.
+
+## POINTER 80 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Tormenta azur
+
+## POINTER 81 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263078702]
+Arte modificado: Desata dos ondas de choque huracanadas
+consecutivas. Efectivo contra enemigos distantes.
+
+## POINTER 82 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262444014]
+Estallido azur
+
+## POINTER 83 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte modificado: Desata una onda de choque explosiva
+capaz de noquear al enemigo.
+
+## POINTER 84 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Explosión cerbero
+
+## POINTER 85 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte modificado: Golpea con tres puñetazos rápidos
+seguidos de una estocada.
+
+## POINTER 86 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Colmillo brillante descendente
+
+## POINTER 87 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633253]
+Arte modificado: Manda al enemigo por los aires de un espadazo
+giratorio y después lo estampa contra el suelo.
+
+## POINTER 88 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Campo guardián
+
+## POINTER 89 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633253]
+Arte modificado: Clava el arma en el suelo para atacar enemigos
+cercanos al tiempo que cura a los aliados situados dentro de su área.
+
+## POINTER 90 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Caos incendiario
+
+## POINTER 91 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264633253]
+Arte modificado: Eleva al enemigo y lo golpea con una patada
+de fuego. Los enemigos aéreos salen despedidos.
+
+## POINTER 92 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262973883]
+Tormenta lobuna
+
+## POINTER 93 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte alterado: Desata el poder del lobo
+para mandar al enemigo por los aires.
+
+## POINTER 94 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Glaciar explosivo
+
+## POINTER 95 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262343312]
+Arte modificado: Blande tu espada en un movimiento circular
+y después lanza un disparo de hielo de tu mano.
+
+## POINTER 96 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Lobo divino
+
+## POINTER 97 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262973883]
+Arte explosivo: Ataca con movimientos circulares rápidos.
+Nadie puede resistir este ataque.
+
+## POINTER 98 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Lobo divino ardiente
+
+## POINTER 100 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Lobo divino aplastante
+
+## POINTER 102 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262290157]
+Lobo divino tempestuoso
+
+## POINTER 104 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267364597]
+Lobo divino desbordador
+
+## POINTER 106 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1254218491]
+Furia de lobo salvaje
+
+## POINTER 108 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262877524]
+Paso combo
+
+## POINTER 110 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal - ○
+
+## POINTER 112 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal - ↑○
+
+## POINTER 114 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal - ←→○
+
+## POINTER 116 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal - ↓○
+
+## POINTER 118 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal - En salto - ○
+
+## POINTER 120 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal - En salto - ↓○
+
+## POINTER 122 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal secundario - ○
+
+## POINTER 124 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal secundario - ↑○
+
+## POINTER 126 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal secundario - ←→○
+
+## POINTER 128 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal secundario - ↓○
+
+## POINTER 130 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal secundario - En salto - ○
+
+## POINTER 132 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262344462]
+Ataque normal secundario - En salto - ↓○

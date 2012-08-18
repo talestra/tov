@@ -1,0 +1,51 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS17_059)<STR>(RIT)?!
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS17_060)...Calm down... I'll have 
+it fixed in no time...
+
+## POINTER 2
+<STR>(RAP)
+<VOICE>(VS17_061)Woof!!
+
+## POINTER 3
+Tison
+<VOICE>(VS17_062)So who're the numbskulls that decided 
+to go and ignore our friendly warning?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS17_063)Sorry. None of us here are nice 
+enough to take your "friendly" 
+warning seriously.
+
+## POINTER 5
+Tison
+<VOICE>(VS17_064)Humph. You don't say... Well now, if 
+it isn't that runt <STR>(KAR) who got his 
+sorry butt cut from the team.
+
+## POINTER 6
+Tison
+<VOICE>(VS17_065)The aer must be affecting 'em. It 
+looks pretty thick over there.
+
+## POINTER 7
+Clint
+<VOICE>(VS17_066)That's just what we want. You all just 
+sit tight and behave yourselves.<PAGE><VOICE>(VS17_067)We're only interested in taking 
+out this big brute.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS17_068)You sure talk big. Taking 
+care of a pet is a big 
+responsibility, you know.<PAGE><VOICE>(VS17_069)Don't go abandoning him for 
+someone else to take care of.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS17_070)Aaah!

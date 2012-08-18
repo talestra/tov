@@ -1,0 +1,44 @@
+## POINTER 0
+Be Thankful to Strangers
+
+## POINTER 1
+(EST_P)
+I need to thank whoever told you 
+about this underground passage.
+
+## POINTER 2
+(YUR)
+Why would you need to be thankful for something like that?
+
+## POINTER 3
+(EST_P)
+I'm trying to get out of the 
+castle, just like you.
+
+## POINTER 4
+(YUR)
+That's all well and good...but there's no 
+need to be all thankful because of it.
+
+## POINTER 5
+(EST_P)
+Oh no. We must show courtesy to 
+those who show us kindness.
+
+## POINTER 6
+(YUR)
+Sort of weird to be polite to somebody 
+you've never met, don't you think?
+
+## POINTER 7
+(EST_P)
+Manners are never so important as when dealing with 
+those with whom we have yet to be acquainted.
+
+## POINTER 8
+(YUR)
+You really think so, huh?
+
+## POINTER 9
+(EST_P)
+I know so.

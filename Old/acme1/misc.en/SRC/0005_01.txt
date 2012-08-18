@@ -1,0 +1,315 @@
+## POINTER 96
+Combo Plus 2
+
+## POINTER 97
+Adds 2 more hit to a regular attack.
+
+## POINTER 98
+Combo Plus 3
+
+## POINTER 99
+Adds 3 more hit to a regular attack.
+
+## POINTER 100
+Step Combo
+
+## POINTER 101
+Press <06>(ATK) during a backstep
+to perform a jump attack.
+
+## POINTER 102
+Dragon Buster
+
+## POINTER 103
+Press <06>(LTD) + <06>(ATK) during jump to
+trigger a Dragon Buster attack.
+
+## POINTER 104
+Mighty Charge
+
+## POINTER 105
+Press and hold <06>(ATK) to increase the 
+strength of an attack on the first hit.
+
+## POINTER 106
+Charge Hold
+
+## POINTER 107
+Maintain a charged Mighty Charge even after
+a missed attempt.
+
+## POINTER 108
+Speed Charge
+
+## POINTER 109
+Increases the speed of charging up 
+a Mighty Charge.
+
+## POINTER 110
+Charge Smash
+
+## POINTER 111
+Guard Break enemy defenses during
+Mighty Charge. Super Armor excluded.
+
+## POINTER 112
+Attack Arte Charge
+
+## POINTER 113
+Able to store up attacks for offensive artes.
+Must have Mighty Charge set.
+
+## POINTER 114
+Endless Shot
+
+## POINTER 115
+Release arrows continuously by holding <06>(ATK).
+Occasionally knocks back enemies.
+
+## POINTER 116
+Supporter
+
+## POINTER 117
+An inactive ally joins the battle briefly
+and attacks with Azure Edge.
+
+## POINTER 118
+Magic Support
+
+## POINTER 119
+Inactive allies will occasionally cast
+a spell from outside the battlefield.
+
+## POINTER 120
+Arrow Support
+
+## POINTER 121
+An inactive ally will occasionally fire
+arrows from outside the battlefield.
+
+## POINTER 122
+Vertical Slash
+
+## POINTER 123
+Turns the attack after an Aerial Jump
+into a Dragon Buster.
+
+## POINTER 124
+Aerial Support
+
+## POINTER 125
+An inactive ally will momentarily descend
+from mid-air to attack an enemy.
+
+## POINTER 126
+Tensed Charge
+
+## POINTER 127
+Increases attack speed by 30% when
+HP is extremely low.
+
+## POINTER 128
+Combo Voltage
+
+## POINTER 129
+Recovers TP after 2 consecutive 3-hit combos.
+Also recovers after combos in multiples of 3.
+
+## POINTER 130
+Combination
+
+## POINTER 131
+Increases damage once for a combo: 
+3-hit normal → base → arcane
+
+## POINTER 132
+Combination 2
+
+## POINTER 133
+Increases damage and OL Gauge once for a combo: 
+3-hit normal → base → altered → arcane
+
+## POINTER 134
+Combination 3
+
+## POINTER 135
+Increases damage and recovers TP for a combo: 
+3-hit normal → base → altered → arcane → mystic
+
+## POINTER 136
+High Tension
+
+## POINTER 137
+Fills the Over Limit gauge to Lv. 1 with a 28-hit combo.
+Duration of the Over Limit only lasts half the normal time.
+
+## POINTER 138
+Hyper Tension
+
+## POINTER 139
+Fills the Over Limit gauge to Lv. 2 with a 50-hit combo.
+Duration of the Over Limit only lasts half the normal time.
+
+## POINTER 140
+Ultimate Tension
+
+## POINTER 141
+Fills the Over Limit gauge to Lv. 3 with a 72-hit combo.
+Duration of the Over Limit only lasts half the normal time.
+
+## POINTER 142
+Cross Counter
+
+## POINTER 143
+Damage increases when an attack hits an
+attacking enemy.
+
+## POINTER 144
+Reflect
+
+## POINTER 145
+Reflects a certain amount of damage
+from an attack.
+
+## POINTER 146
+Shine
+
+## POINTER 147
+Occasionally stuns an enemy during
+Over Limit.
+
+## POINTER 148
+FS Bonus
+
+## POINTER 149
+Recovers HP every time a Fatal Strike
+hits an enemy.
+
+## POINTER 150
+FS Bonus 2
+
+## POINTER 151
+Recovers TP every time a Fatal Strike
+hits an enemy.
+
+## POINTER 152
+Hunter's Fang
+
+## POINTER 153
+Increases the bonus for a green Fatal Strike attack.
+
+## POINTER 154
+BA Force
+
+## POINTER 155
+Increases the effectiveness of Burst Artes
+attacks.
+
+## POINTER 156
+Lucky Limit
+
+## POINTER 157
+Occasionally fills the Over Limit gauge
+after a burst or mystic arte.
+
+## POINTER 158
+Special
+
+## POINTER 159
+Trigger a mystic arte with Over Limit Lv. 3 or above.
+Hold <06>(ATK) after an arcane arte or above.
+
+## POINTER 160
+Hit Plus
+
+## POINTER 161
+Tap <06>(ATK) repeatedly during a mystic arte
+to add hits to the attack.
+
+## POINTER 162
+Team Work
+
+## POINTER 163
+After using a Mystic Arte, all party member
+will become Super Armed for 5 seconds.
+
+## POINTER 164
+HP Condition
+
+## POINTER 165
+Increases physical attacks slightly when
+HP is more than 75% of max amount.
+
+## POINTER 166
+HP Condition 2
+
+## POINTER 167
+Increases physical attacks when
+HP is less than 25% of max amount
+
+## POINTER 168
+HP Condition 3
+
+## POINTER 169
+Increases magic attacks slightly when
+HP is more than 75% of max amount
+
+## POINTER 170
+HP Condition 4
+
+## POINTER 171
+Increases magic attacks when
+HP is less than 25% of max amount.
+
+## POINTER 172
+Chain
+
+## POINTER 173
+Changes an arte. Can be learned
+if used repeatedly.
+
+## POINTER 174
+Hell Fire
+
+## POINTER 175
+Changes an arte. Can be learned
+if used repeatedly.
+
+## POINTER 176
+One Man Show
+
+## POINTER 177
+Defeat all enemies single-handedly to
+receive extra EXP.
+
+## POINTER 178
+Half Damage
+
+## POINTER 179
+Damage inflicted will be reduced by 1/2.
+
+## POINTER 180
+Quarter Damage
+
+## POINTER 181
+Damage inflicted will be reduced by 1/4.
+
+## POINTER 182
+Minimum Damage
+
+## POINTER 183
+Damage inflicted will be reduced to 1.
+
+## POINTER 184
+Defend
+
+## POINTER 185
+Increases physical defense by 5%. 
+Increase due to equipment not affected.
+
+## POINTER 186
+Defend 2
+
+## POINTER 187
+Increases physical defense by 10%. 
+Increase due to equipment not affected.

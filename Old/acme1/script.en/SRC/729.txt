@@ -1,0 +1,52 @@
+## POINTER 0
+Leblanc
+Bwa ha ha, you thought you could 
+beat us? How ridiculous!
+
+## POINTER 1
+Adecor
+Come back after you've had more training, I say!
+
+## POINTER 2
+Boccos
+Get lost, you filthy curs!
+
+## POINTER 3
+<STR>(YUR)
+Damn it...
+If only...he 
+were here...
+
+## POINTER 4
+<STR>(EST_P)
+It's okay... I'm sure...he'll 
+come soon...
+
+## POINTER 5
+<STR>(RIT)
+...Let's call him...
+Let's 
+call his name...
+
+## POINTER 6
+<STR>(JUD)
+...<STR>(KAR)...
+<STR>(KAR)... 
+Come quickly...!
+
+## POINTER 7
+<STR>(RAV)
+...We need...your help...
+...At this rate...we're 
+finished...
+
+## POINTER 8
+<STR>(KAR)
+Everyone's...
+Everyone's waiting for me...<PAGE>I have to go... I have 
+to go save everyone!<PAGE>If I don't get out of here...
+Everyone's in danger...!
+
+## POINTER 9
+<STR>(KAR)
+Huh...? What the...?

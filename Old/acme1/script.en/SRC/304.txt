@@ -1,0 +1,27 @@
+## POINTER 0
+
+Welcome. Staying the night?
+
+## POINTER 1
+<STR>(YUR)
+I think a companion of ours should've already 
+arrived. Did a cynical older man come in?
+
+## POINTER 2
+
+Oh, he's a friend of yours?<PAGE>Your rooms have already been paid for, 
+so please, make yourselves at home.
+
+## POINTER 3
+<STR>(YUR)
+Shall we call it a day?
+
+## POINTER 4
+<STR>(EST_P)
+Good idea. We've earned 
+a good night's sleep.
+
+## POINTER 5
+
+Please don't hesitate to let me know when 
+you'd like to turn in for the night.

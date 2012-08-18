@@ -1,0 +1,60 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134119]
+¿Perdidos?
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134119]
+(KAR)
+Arena y huesos, cactus y cofres,
+el cielo y el viento y el sol y...
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134119]
+(JUD)
+Esto no se acaba nunca...
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134119]
+(RAP)
+*Gemido*
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134119]
+(YUR)
+Al menos podemos ver bien
+todo lo que nos rodea...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298124479]
+(RAV)
+Hazte er duro si quieres, pero...
+está bastante claro que no lo
+táis llevando muy bien, pequeños.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297379989]
+(RAV)
+Solo porque puedas verlo tó,
+no quiere decir que no puedas perderte.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134119]
+(RIT)
+No nos hemos perdido...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297379989]
+(YUR)
+La verdad, paso de que nos
+perdamos mientras estamos
+intentando encontrar algo...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298124487]
+(RAP)
+¡Guau!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297379989]
+(JUD)
+Pero dar media vuelta ahora...
+sería una lata, ¿no crees?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297380046]
+(KAR)
+Si no lo hacemos...
+podemos acabar muy mal...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1297379989]
+(RAV)
+¿N'os parece que nos conviene tomá rápido
+esa decisión antes de que la cosa empeore?

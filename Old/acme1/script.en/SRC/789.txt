@@ -1,0 +1,90 @@
+## POINTER 0
+
+Hello, fine visitors, and welcome to 
+the Yumanju Hot Spring Spa!
+
+## POINTER 1
+<STR>(KAR)
+Hey, are you done 
+cleaning the baths?
+
+## POINTER 2
+
+Yes, sir! The open-air baths are sparkling 
+clean, and ready for your enjoyment!
+
+## POINTER 3
+<STR>(RAV)
+Heeey! Sounds nice, 
+sounds nice!
+
+## POINTER 4
+<STR>(EST_P)
+Well then, can 
+we go into the 
+baths, then?
+
+## POINTER 5
+
+Please, feel free! That'll 
+be 50,000 Gald per person.
+
+## POINTER 6
+<STR>(KAR)
+F-fifty thousand Gald?!
+
+## POINTER 7
+<STR>(RIT)
+T-that's highway 
+robbery!
+
+## POINTER 8
+
+The principal customers 
+of our establishment are 
+well-to-do nobility.<PAGE>Our prices are merely the result of our
+sincere desire to meet every conceivable 
+need of our esteemed clientele.<PAGE>I believe that once you experience our services, 
+you won't feel that the prices are too high 
+for the level of satisfaction you receive.
+
+## POINTER 9
+<STR>(JUD)
+What should 
+we do, <STR>(YUR)?
+
+## POINTER 10
+Pay the fee for the spa?
+Yes
+No
+
+## POINTER 11
+<STR>(YUR)
+We don't need to pay for <STR>(RAP), 
+so that's six people, right?<PAGE>Here you go.
+
+## POINTER 12
+Information
+You paid 300,000 Gald.
+
+## POINTER 13
+
+Thank you very much! The ladies' 
+bath is on the right, and the 
+men's bath is on the left.<PAGE>Enjoy!
+
+## POINTER 14
+
+Ah, it appears you don't 
+have enough Gald. 
+Please come again.
+
+## POINTER 15
+<STR>(YUR)
+We'll swing by again when we can afford it.
+
+## POINTER 16
+
+Welcome! It costs 50,000 Gald 
+per person to enter. Will you 
+be visiting the springs today?

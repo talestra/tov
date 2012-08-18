@@ -1,0 +1,114 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS24_001)Late night stroll?
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS24_002)The scenery here 
+reminds me of home.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS24_003)Huh...Your home 
+must be in a pretty 
+place then.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS24_004)I just mean that it's up high like 
+this and has a good view. Not that 
+I have a problem with heights.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS24_005)Heh... Yeah, I guess you 
+wouldn't, riding around 
+on that monster.
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS24_006)His name is Ba'ul, and 
+he's not a monster.<PAGE><VOICE>(VS24_007)And it's not only because 
+he can fly.<PAGE><VOICE>(VS24_008)We've been together ever since 
+he saved me during the war.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS24_009)War? You mean between the 
+empire and the guilds?
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS24_010)This world always seems to be 
+ravaged by some war or another.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS24_011)...Yeah, I guess so.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS24_012)It was you who attacked 
+<STR>(EST_P) here earlier, 
+wasn't it?
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS24_013)You're pretty sharp if 
+you were able to tell who 
+it was I was after.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS24_014)I'm just that kind of guy.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS24_015)Phaeroh also appeared 
+because of <STR>(EST_P).<PAGE><VOICE>(VS24_016)Is there some connection 
+between them? Between 
+him and your partner?
+
+## POINTER 13
+<STR>(JUD)
+<VOICE>(VS24_017)It's hard to explain.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS24_018)But you won't deny it. 
+That you had come for her.
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS24_019)I'm afraid I'm not very good at lying.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS24_020)...All right, I won't ask 
+anymore questions.<PAGE><VOICE>(VS24_021)But if it looks like you're 
+going after her again...
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS24_022)You needn't worry. I won't 
+be doing that sort of thing 
+anymore. You have my word.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS24_023)You mean it?
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS24_024)What can I say that will 
+make you believe me?
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS24_025)Well you said you were no good at telling lies.<PAGE><VOICE>(VS24_026)...It's not like we're all that 
+different. I've got a few 
+skeletons in my closet too.
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VS24_027)He's a strange one.

@@ -1,0 +1,57 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253823378]
+¿Demasiado alto para los demás?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129747]
+(KAR)
+¡Vaya, no puedo creer que estemos en un
+continente que nadie ha explorado antes!
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219671]
+(YUR)
+¿Quién iba a llegar hasta aquí? Ni siquiera
+nosotros hubiéramos podido de no ser por Ba'ul.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219671]
+(EST_P)
+Sí, eso es verdad.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219671]
+(EST_P)
+Supongo que por eso este lugar
+no aparece en ningún libro de Historia.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219671]
+(KAR)
+Estamos en un sitio
+realmente alto.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266834117]
+(YUR)
+¡Y con esta niebla no se puede ni ver
+el suelo desde arriba del todo!
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266834117]
+(RAV)
+¡Ooh, qué canguelo!
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219671]
+(JUD)
+¡Un movimiento en falso y podríamos
+caer desde lo alto del acantilado!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129747]
+(RIT)
+¡...!
+
+## POINTER 10 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266834117]
+(RAV)
+Nadie podría sobrevivir
+a algo asín...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129758]
+(RAV)
+Je, será mejor andarse con ojo.
+
+## POINTER 12 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267219671]
+(RIT)
+...

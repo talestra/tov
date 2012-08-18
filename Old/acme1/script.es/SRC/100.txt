@@ -1,0 +1,147 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+Hanks
+<VOICE>(VS04_010)¡<STR>(YUR)!
+¡¿Dónde te habías metido?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+<STR>(YUR)
+<VOICE>(VS04_011)Recibí una invitación para ver el castillo.
+Ha sido una grata experiencia.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:SamuelSnake;time:1269950710]
+Hanks
+<VOICE>
+(VS04_012)Por todos los... ¿Y quién es esta joven señorita?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+<STR>(EST)
+<VOICE>(VS04_013)Encantada de conocerle. 
+Me llamo <STR>(EST).
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:SamuelSnake;time:1269950710]
+Hanks
+<VOICE>(VS04_014)El placer es todo mío, señorita.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298212005]
+Hanks
+<VOICE>
+(VS04_015)Bueno, sobre esos Caballeros Imperiales.<PAGE><VOICE>
+(VS04_016)Han estado tan liados buscándote que no han prestado
+atención al desastre que tenemos montado aquí.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+Hanks
+<VOICE>
+(VS04_017)Has logrado chincharlos de verdad, ¿eh?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1270594221]
+<STR>(YUR)
+<VOICE>(VS04_018)Eso parece. 
+¿Ha vuelto ya <STR>(RAP)?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+Hanks
+<VOICE>(VS04_019)Y tanto. Llevaba
+una especie de bolsa.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+<STR>(YUR)
+<VOICE>(VS04_020)¿Qué ha pasado con ella?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+Hanks
+<VOICE>(VS04_021)Ha debido dejarla
+a tu habitación.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+<STR>(YUR)
+<VOICE>(VS04_022)Recógela luego y dale un buen meneo.
+Tintinea que da gusto.
+A Mordio le encantó.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+Hanks
+<VOICE>(VS04_023)¿Te has encontrado con el señor Mordio?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298212005]
+<STR>(YUR)
+<VOICE>(VS04_024)
+Sí, pero el muy rata ha abandonado el pueblo. 
+Por lo visto es conocido en una ciudad llamada Aspio.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+Hanks
+<VOICE>(VS04_025)¿Se ha ido? Eso significa...
+que nos han engañado.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:SamuelSnake;time:1269951455]
+<STR>(YUR)
+<VOICE>(VS04_026)Eso me temo. Su casa estaba vacía, y
+dudo que se tratara de un verdadero noble.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+Hanks
+<VOICE>(VS04_027)Vaya...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1298212005]
+<STR>(YUR)
+<VOICE>(VS04_028)Parece que por fin el
+aqua blastia ha dejado
+de perder agua.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:parsec;time:1270012615]
+Hanks
+<VOICE>(VS04_029)Bueno, sin un núcleo
+seguirá así.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+<STR>(YUR)
+<VOICE>(VS04_030)¿Hay agua suficiente,
+por ahora?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+Hanks
+<VOICE>(VS04_031)Sí, pero no por mucho tiempo.
+Después tendremos que cogerla
+del río. No veas qué plan.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+<STR>(YUR)
+<VOICE>(VS04_032)Y los Caballeros no moverán un dedo.
+Veo que tendré que ir a quitárselo
+al ladrón por mi cuenta.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:SamuelSnake;time:1269993544]
+Hanks
+<VOICE>(VS04_033)¿Qué? No pensarás seguir
+a Mordio más allá de 
+la barrera, ¿no?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:SamuelSnake;time:1269993544]
+<STR>(YUR)
+<VOICE>(VS04_034)No te preocupes.
+Volveré antes de que 
+te des cuenta.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+Hanks
+<VOICE>(VS04_035)Mmpf. ¿Quién está preocupado?<PAGE><VOICE>
+(VS04_036)Es una gran oportunidad para ti.
+No hace falta que te des prisa en volver.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+<STR>(YUR)
+<VOICE>(VS04_037)¿Eh? ¿A qué te refieres con eso?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+Hanks
+<VOICE>(VS04_038)Lo que quiero decir es que
+nos las podremos apañar sin ti.<PAGE>
+<VOICE>(VS04_039)Hasta <STR>(FRE) lo decía:
+«Me pregunto cuánto tiempo
+piensa <STR>(YUR) vivir de esta forma».
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1274742868]
+<STR>(YUR)
+<VOICE>(VS04_040)<STR>(FRE) tiene que aprender
+a meterse en sus propios asuntos.

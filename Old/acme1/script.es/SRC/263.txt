@@ -1,0 +1,50 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323552]
+
+¡Ajá! Han traído los objetos.<PAGE>¡En un abrir y cerrar de ojos tendrán
+un vestido para caerse de espaldas!
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275567018]
+<STR>(EST_P)
+¿Qué os parece?
+¿Me queda bien?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275567018]
+<STR>(YUR)
+Tampoco hacía falta
+que te cambiaras de
+ropa tú también...
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275567018]
+<STR>(KAR)
+Así que a los adultos
+les gustan estos trapitos...
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275567018]
+<STR>(JUD)
+Estoy lista.
+Podemos irnos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323552]
+<STR>(YUR)
+Oye... ¿En serio piensas
+ir con ese traje?
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275567018]
+<STR>(JUD)
+¿Eh? ¿Es que le ves
+alguna pega?
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275567406]
+<STR>(YUR)
+Bueno... No sabría ni por dónde empezar...
+En fin, déjalo.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1275567018]
+<STR>(EST_P)
+Es una monada. Creo que
+el plan va a funcionar.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298323552]
+<STR>(YUR)
+Antes de eso, ¿podrías volver a ponerte
+el traje de antes, <STR>(EST_P)?

@@ -1,0 +1,48 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1252841577]
+(EST_P), la historiadora
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303747]
+(EST_P)
+Vaya... ¡Estos edificios son
+de la civilización elicasm! 
+Debe ser una ciudad antiquísima.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122544]
+(YUR)
+Pareces saber mucho de
+estas cosas, como siempre.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122544]
+(EST_P)
+Es una lástima que dejaran que la ciudad
+se viniera abajo de esta forma...
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266827937]
+(RIT)
+¿De verdad te parece el mejor
+momento para hacer turismo
+en un sitio mohoso como este?
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266827937]
+(YUR)
+Tenemos cosas que hacer...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122544]
+(RIT)
+Entonces, ¿no será mejor concentrarnos
+en ello en vez de planear un visita?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298122544]
+(EST_P)
+Oh, vaya... ¡Ese tejado circular es del
+estilo lían, desarrollado por primera vez
+por el emperador Heliourus IV!
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303747]
+(RIT)
+Pero supongo que primero tendremos
+que hacer algo con ella...
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267303747]
+(YUR)
+Sí.

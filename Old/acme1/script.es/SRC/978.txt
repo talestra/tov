@@ -1,0 +1,18 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1280072126]
+<STR>(JUD)
+Este piso parece estar organizado igual que el de abajo.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1280072126]
+<STR>(YUR)
+Lo que significa que
+toca mover engranajes.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1280072126]
+<STR>(RAV)
+¿Qué crees que estarán protegiendo
+con to's estos cachivaches raros?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1280072126]
+<STR>(YUR)
+Quizá se trate simplemente
+de su orgullo como gremio.

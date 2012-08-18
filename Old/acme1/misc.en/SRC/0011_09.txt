@@ -1,0 +1,317 @@
+## POINTER 1236
+Kylin
+
+## POINTER 1237
+A dagger made in the image of a mythical creature.
+It is said that a Kylin horn is embedded in the grip.
+
+## POINTER 1239
+Kylin +1
+
+## POINTER 1240
+A dagger made in the image of a mythical creature.
+It is said that a Kylin horn is embedded in the grip.
+
+## POINTER 1242
+Kylin +2α
+
+## POINTER 1243
+A dagger made in the image of a mythical creature.
+It is said that a Kylin horn is embedded in the grip.
+
+## POINTER 1245
+Kylin +2β
+
+## POINTER 1246
+A dagger made in the image of a mythical creature.
+It is said that a Kylin horn is embedded in the grip.
+
+## POINTER 1248
+Vagabond
+
+## POINTER 1249
+A beautiful sword suited for one of solitude.
+Makes you feel refreshed.
+
+## POINTER 1251
+Vagabond +1
+
+## POINTER 1252
+A beautiful sword suited for one of solitude.
+Makes you feel refreshed.
+
+## POINTER 1254
+Vagabond +2α
+
+## POINTER 1255
+A beautiful sword suited for one of solitude.
+Makes you feel refreshed.
+
+## POINTER 1257
+Vagabond +2β
+
+## POINTER 1258
+A beautiful sword suited for one of solitude.
+Makes you feel refreshed.
+
+## POINTER 1260
+Asura
+
+## POINTER 1261
+A sword named after a god known as both a devil
+and a guardian. The sharpness of the blade is unreal.
+
+## POINTER 1263
+Asura +1
+
+## POINTER 1264
+A sword named after a god known as both a devil
+and a guardian. The sharpness of the blade is unreal.
+
+## POINTER 1266
+Orochi
+
+## POINTER 1267
+A dagger made in the image of an eastern hydra serpent.
+It is also called "Evil Eye" from the symbolic pattern on the blade.
+
+## POINTER 1269
+Orochi +1
+
+## POINTER 1270
+A dagger made in the image of an eastern hydra serpent.
+It is also called "Evil Eye" from the symbolic pattern on the blade.
+
+## POINTER 1272
+Orochi +2α
+
+## POINTER 1273
+A dagger made in the image of an eastern hydra serpent.
+It is also called "Evil Eye" from the symbolic pattern on the blade.
+
+## POINTER 1275
+Orochi +2β
+
+## POINTER 1276
+A dagger made in the image of an eastern hydra serpent.
+It is also called "Evil Eye" from the symbolic pattern on the blade.
+
+## POINTER 1278
+Sonic Cleaver
+
+## POINTER 1279
+The blade is so sharp it can cut through the skies
+and even sound. The light weight makes it difficult to handle.
+
+## POINTER 1281
+Sonic Cleaver +1α
+
+## POINTER 1282
+The blade is so sharp it can cut through the skies
+and even sound. The light weight makes it difficult to handle.
+
+## POINTER 1284
+Sonic Cleaver +1β
+
+## POINTER 1285
+The blade is so sharp it can cut through the skies
+and even sound. The light weight makes it difficult to handle.
+
+## POINTER 1287
+Murakumo
+
+## POINTER 1288
+Everything is unknown about this sword.
+It seems to have been repaired by several blacksmiths.
+
+## POINTER 1290
+Susanoh
+
+## POINTER 1291
+A dagger named after a god from an ancient myth.
+One is tempted to repeat the same mistake again and again.
+
+## POINTER 1293
+Grilled Chicken
+
+## POINTER 1294
+Looks good, but is actually made of metal.
+A lot of work went into it, but there is no reason for its shape.
+
+## POINTER 1296
+Takemikazuchi
+
+## POINTER 1297
+A dagger made out of electrically charged ore.
+The well polished blade is like a mirror.
+
+## POINTER 1299
+Takemikazuchi: Flare
+
+## POINTER 1300
+A dagger made out of electrically charged ore.
+The well polished blade is like a mirror.
+
+## POINTER 1302
+Takemikazuchi: Flare +1α
+
+## POINTER 1303
+A dagger made out of electrically charged ore.
+The well polished blade is like a mirror.
+
+## POINTER 1305
+Takemikazuchi: Flare +1β
+
+## POINTER 1306
+A dagger made out of electrically charged ore.
+The well polished blade is like a mirror.
+
+## POINTER 1308
+Takemikazuchi: Blast
+
+## POINTER 1309
+A dagger made out of electrically charged ore.
+The well polished blade is like a mirror.
+
+## POINTER 1311
+Takemikazuchi: Blast +1α
+
+## POINTER 1312
+A dagger made out of electrically charged ore.
+The well polished blade is like a mirror.
+
+## POINTER 1314
+Takemikazuchi: Blast +1β
+
+## POINTER 1315
+A dagger made out of electrically charged ore.
+The well polished blade is like a mirror.
+
+## POINTER 1317
+Mizuchi
+
+## POINTER 1318
+A dagger made with scales taken from a gigantic fish.
+The laminated scales can easily cut through metal.
+
+## POINTER 1320
+Mizuchi +1α
+
+## POINTER 1321
+A dagger made with scales taken from a gigantic fish.
+The laminated scales can easily cut through metal.
+
+## POINTER 1323
+Mizuchi +1β
+
+## POINTER 1324
+A dagger made with scales taken from a gigantic fish.
+The laminated scales can easily cut through metal.
+
+## POINTER 1326
+Warrior's Principle
+
+## POINTER 1327
+What could be learned from a fierce battle?
+Do you have what it takes to wield this weapon?
+
+## POINTER 1329
+Warrior's Principle +1
+
+## POINTER 1330
+What could be learned from a fierce battle?
+Do you have what it takes to wield this weapon?
+
+## POINTER 1332
+Blade of Sins: Susanoh
+
+## POINTER 1333
+A dagger named after a god from an ancient myth.
+One is tempted to repeat the same mistake again and again.
+
+## POINTER 1335
+Buckler
+
+## POINTER 1336
+A compact round shield designed for blocking.
+Equipped on the fist.
+
+## POINTER 1338
+Round Shield
+
+## POINTER 1339
+A metal coated shield capable of stopping
+strong and large swing attacks.
+
+## POINTER 1341
+Kite Shield
+
+## POINTER 1342
+A shield with a shape of a kite. It is designed
+to protect ones legs while on horse back.
+
+## POINTER 1344
+Knight Shield
+
+## POINTER 1345
+A shield officially used by the Knights.
+Highly decorative for a piece of equipment.
+
+## POINTER 1347
+Spike Shield
+
+## POINTER 1348
+A unique shield with blades around the edge.
+Can be used to attack.
+
+## POINTER 1350
+Hyperion
+
+## POINTER 1351
+A shield named after a sun god with a thousand names.
+The name changes depending on the region and era.
+
+## POINTER 1353
+Iron Plate
+
+## POINTER 1354
+A shield made with a special material that can withstand
+heat and strong impact. Made from parts of an ancient ship.
+
+## POINTER 1356
+Aegis
+
+## POINTER 1357
+A sturdy shield that protects you from everything
+from attacks to bad luck.
+
+## POINTER 1359
+Sanctuary
+
+## POINTER 1360
+Like how no one can trespass in a sanctuary,
+no one can harm the owner of this shield.
+
+## POINTER 1362
+Katz Guard
+
+## POINTER 1363
+A shield made with a playful touch.
+It has more defense ability than it looks.
+
+## POINTER 1365
+Order Shield
+
+## POINTER 1366
+A knight's proof that one has been given an
+official mission. Capable of pushing back a million enemies.
+
+## POINTER 1368
+Queen of Hearts
+
+## POINTER 1369
+A pretty shield created by a notable designer.
+Carefully dyed leather covers the surface.
+
+## POINTER 1371
+Shield of Valor

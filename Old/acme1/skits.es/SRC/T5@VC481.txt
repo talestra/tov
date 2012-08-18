@@ -1,0 +1,51 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:evilluendas;time:1252973389]
+La isla de los cristales
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129508]
+(YUR)
+Gusios debe tener un poder formidable.
+Los entelechia son fascinantes.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218420]
+(EST_P)
+¿Te refieres a los cristales
+que hay por todas partes?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129508]
+(KAR)
+Es increíble. Aquí no había nada,
+y ahora hay una isla entera...
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218420]
+(JUD)
+Creo que, al margen del poder de 
+Gusios, hay muchos factores que 
+han hecho que sea así grande.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218420]
+(RIT)
+Probablemente fuera el aer, las corrientes
+marinas y los espíritus elementales
+acumulados en las barreras invertidas.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129508]
+(RAV)
+¿Y tú crees que tó eso se juntó
+y formó semejante isla de cristales
+de un día pa otro?
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266833773]
+(EST_P)
+Qué habilidad más asombrosa.
+Ser capaz de crear algo tan hermoso...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298129508]
+(JUD)
+Probablemente Gusios se dedicó
+a crear cristales para proteger
+su propio cuerpo.
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267218420]
+(YUR)
+Entonces la isla no va a hacerse
+más grande de lo que es ahora.

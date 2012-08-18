@@ -1,0 +1,142 @@
+## POINTER 0
+Sicily
+Ho-hum...
+
+## POINTER 1
+<STR>(KAR)
+Th-that's Professor Sicily...isn't it?
+
+## POINTER 2
+<STR>(JUD)
+Oh yeah, it is. We sure 
+do run into him a lot.
+
+## POINTER 3
+<STR>(RIT)
+You don't suppose he's following 
+us around and then going where 
+he knows we'll be...?
+
+## POINTER 4
+<STR>(EST_P)
+I wonder...
+Should we say hello?
+
+## POINTER 5
+<STR>(YUR)
+Well old man, what're 
+you waiting for?
+
+## POINTER 6
+<STR>(RAV)
+M-me...?!
+Oh well, I guess 
+I might as well...
+
+## POINTER 7
+<STR>(RAV)
+B-buon giorno! 
+How ya doin'?
+
+## POINTER 8
+Sicily
+Oh, it's you... 
+Buon giorno...<PAGE>Ho-hum...
+
+## POINTER 9
+<STR>(RAV)
+Y-ya seem pretty down 
+in the dumps. What's 
+the matter?
+
+## POINTER 10
+Sicily
+Hmm? Di ricente, I just don't 
+feel like doing much at all...
+
+## POINTER 11
+<STR>(RAV)
+I-is that so...? I guess we all 
+get a little bummed sometimes...
+
+## POINTER 12
+<STR>(KAR)
+Hey, ummm, Mr. Sicily?
+
+## POINTER 13
+Sicily
+Mmmm?
+
+## POINTER 14
+<STR>(KAR)
+Aren't you a really great 
+engineer, Mr. Sicily?<PAGE>You can make weapons 
+and stuff, right?
+
+## POINTER 15
+Sicily
+Eh? Si...
+
+## POINTER 16
+<STR>(KAR)
+Then make a really awesome 
+weapon for us!
+
+## POINTER 17
+Sicily
+A weapon, you say...?
+No, I'm just not too interested...
+
+## POINTER 18
+<STR>(KAR)
+...Oh, I see...
+Too bad...
+
+## POINTER 19
+<STR>(YUR)
+So it's true that you really 
+have to be interested in 
+something to work on it...
+
+## POINTER 20
+Sicily
+......
+
+## POINTER 21
+Sicily
+Hey bambino... Your haircut, 
+it's very interessante!
+
+## POINTER 22
+<STR>(KAR)
+Huh...? My haircut? 
+R-really...?
+
+## POINTER 23
+Sicily
+Oh! I just thought of 
+something magnifico...!
+
+## POINTER 24
+<STR>(KAR)
+Huh...?
+
+## POINTER 25
+Sicily
+Bambino, your haircut, 
+it gave me a hint! 
+Grazie! Grazie mille!<PAGE>I must go get some parts! 
+Ciao, amici! Until we meet 
+again! Arrivederci!
+
+## POINTER 26
+<STR>(KAR)
+And there he goes...
+
+## POINTER 27
+<STR>(RIT)
+What a weird guy...
+
+## POINTER 28
+<STR>(RAV)
+I feel like we'll be seein' him again soon enough...

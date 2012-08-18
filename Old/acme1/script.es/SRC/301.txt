@@ -1,0 +1,175 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+Kaufman
+<VOICE>(VS27_500)Buen trabajo. Gracias.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(KAR)
+<VOICE>(VS27_501)No, no. ¡Gracias a usted!
+Nos ha ayudado mucho.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(YUR)
+<VOICE>(VS27_502)Vale, lo típico de
+hoy por mí, mañana por ti.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<VOICE>(VS27_503)
+Oh, s-señora p-presidenta.
+Nos honra con s-su visita.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+Kaufman
+<VOICE>(VS27_504)¿Excavando más ruinas?<PAGE><VOICE>(VS27_505)Nunca dejará de sorprenderme que el jefe
+del gremio supervise él mismo las excavaciones.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<VOICE>(VS27_506)L-La excavación
+de r-ruinas es
+mi mayor p-pasión.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(RIT)
+<VOICE>(VS27_507)¿Este quién es?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(RAV)
+<VOICE>(VS27_508)Es Regaey, el líder de Portal de Ruinas.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(RIT)
+<VOICE>(VS27_509)¿Portal de Ruinas? Me suena...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(RAV)
+<VOICE>(VS27_510)Es el gremio que coopera
+con los magos imperiales
+en la excavación de ruinas.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(RIT)
+<VOICE>(VS27_511)Oh, por eso me sonaban.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+Regaey
+<VOICE>(VS27_512)B-Bueno, tengo unos a-amigos
+que me están esperando, así
+que si m-me disculpan...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(EST_P)
+<VOICE>(VS27_513)Parece una buena persona.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1283156159]
+<STR>(RIT)
+<VOICE>(VS27_514)Oye, antes decías algo
+de un gremio que vende
+blastias hoplón.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(YUR)
+<VOICE>(VS27_515)¿Te refieres a Garra del Leviatán?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(RIT)
+<VOICE>(VS27_516)¿Crees que podrían estar consiguiéndolos
+pagando en negro a los tipos de las ruinas?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+Kaufman
+<VOICE>(VS27_517)Portal de Ruinas es totalmente inocente.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(YUR)
+<VOICE>(VS27_518)¿Cómo estás
+tan segura?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(RAV)
+<VOICE>(VS27_519)Son honrados, serios, diligentes...
+Se les conoce por eso.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(RIT)
+<VOICE>(VS27_520)...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+Kaufman
+<VOICE>(VS27_521)Bueno, me voy.
+Tratad bien
+al Fiertia.<PAGE><VOICE>(VS27_522)Y saludad a Tokunaga de mi parte.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(YUR)
+<VOICE>(VS27_523)Claro.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+Kaufman
+<VOICE>(VS27_524)¡Buena suerte, Gran Vesperia!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(KAR)
+<VOICE>(VS27_525)¡Gracias!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(RIT)
+<VOICE>(VS27_526)¿Magos vendiendo blastias
+en el mercado negro?
+Esto pinta muy feo.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(EST_P)
+<VOICE>(VS27_527)<STR>(RIT).
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(RIT)
+<VOICE>(VS27_528)¿Eh? Oh, vale.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(RAV)
+<VOICE>(VS27_529)Bueno, yo tengo
+que darle ar callo.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(JUD)
+<VOICE>(VS27_530)Oh sí, la carta.
+Es para Belius, ¿verdad?
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(RAV)
+<VOICE>(VS27_531)Sip.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(KAR)
+<VOICE>(VS27_532)¿Por qué no vamos todos juntos?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(YUR)
+<VOICE>(VS27_533)Buena idea. Seguramente
+sepa algo sobre Phaeroh.<PAGE><VOICE>(VS27_534)Iremos contigo y
+saludaremos a Belius.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(RAV)
+<VOICE>(VS27_535)
+No sé yo si es tan buena idea.
+Claro que... pué que solo sean
+habladurías, pero... mmm...
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:Lia;time:1279878805]
+<STR>(KAR)
+<VOICE>(VS27_536)¿Qué? ¿Pasa algo?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(RAV)
+<VOICE>(VS27_537)¿Eh? Ná, ná de ná...
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1281472975]
+<STR>(EST_P)
+<VOICE>(VS27_538)¿Dónde podemos
+encontrar a Belius?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1282961341]
+<STR>(KAR)
+<VOICE>(VS27_539)En el Coliseo, probablemente.
+Después de todo, es la
+Adalid de Palestrale.

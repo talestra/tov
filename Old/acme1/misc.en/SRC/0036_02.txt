@@ -1,0 +1,300 @@
+## POINTER 225
+EP440 The Mobile Fortress Heracles
+
+## POINTER 226
+EP450 Over the Sky
+
+## POINTER 227
+EP460 Capua Nor
+
+## POINTER 228
+EP470 Zopheir Rift
+
+## POINTER 229
+EP480 The City of Blossoms Halure
+
+## POINTER 230
+EP485 Quoi Woods
+
+## POINTER 231
+EP490 Zaphias Castle
+
+## POINTER 232
+EP500 Zaphias
+
+## POINTER 233
+EP510 The Enduring Shrine of Zaude
+
+## POINTER 235
+Event select canceled......
+Wise Choice...
+
+## POINTER 237
+010 Ragou arrested
+
+## POINTER 238
+020 <STR>(FRE)'s popularity
+
+## POINTER 239
+030 Amiable Arrangement between Empire and Guild
+
+## POINTER 240
+040 Ragou crime commuted
+
+## POINTER 241
+050 <STR>(FRE)'s advancement and Ragou's treatment
+
+## POINTER 242
+060 Ragou put to an end
+
+## POINTER 243
+070 Return to inn
+
+## POINTER 245
+010 Split up with <STR>(EST_P)
+
+## POINTER 246
+020 It's noisy outside
+
+## POINTER 247
+030 Shadow of Phaeroh
+
+## POINTER 248
+040 Phaeroh VS. mobile fortress (Part 1)
+
+## POINTER 249
+041 Phaeroh VS. mobile fortress (Part 2)
+
+## POINTER 250
+050 Head to Heliord
+
+## POINTER 251
+060 Let take a rest
+
+## POINTER 252
+070 The rule of the guild
+
+## POINTER 253
+080 Talk with party member
+
+## POINTER 254
+090 Guild named as Brave Vesperia
+
+## POINTER 256
+010 People disappearing!?
+
+## POINTER 257
+020 Mind other people's business
+
+## POINTER 258
+030 <STR>(JUD) and Ba'ul
+
+## POINTER 259
+040 Let's go see the city
+
+## POINTER 260
+050 Kellas and Polly's farther
+
+## POINTER 261
+060 NPC conversation
+
+## POINTER 262
+070 How should we distract the soldiers?
+
+## POINTER 263
+080E Create a dress by crafting <STR>(EST_P)）
+
+## POINTER 264
+080J Create a dress by crafting（<STR>(JUD)）
+
+## POINTER 265
+080K Create a dress by crafting（<STR>(KAR)）
+
+## POINTER 266
+090E Made a dress（<STR>(EST_P)）
+
+## POINTER 267
+090J Made a dress（<STR>(JUD)）
+
+## POINTER 268
+090K Made a dress（<STR>(KAR)）
+
+## POINTER 269
+100E Breach the guard（<STR>(EST_P)）
+
+## POINTER 270
+100J Breach the guard（<STR>(JUD)）
+
+## POINTER 271
+100K Breach the guard（<STR>(KAR)）
+
+## POINTER 272
+110 <STR>(RIT) is caught（<STR>(YUR)）
+
+## POINTER 273
+120 <STR>(KAR) goes in and...（<STR>(KAR)）
+
+## POINTER 274
+130 <STR>(RIT) is caught（<STR>(KAR)）
+
+## POINTER 275
+140 Cumore prepares for war?
+
+## POINTER 276
+150 Cumore and Yegar
+
+## POINTER 277
+160 Face Cumore
+
+## POINTER 279
+010 Head to Port Trim
+
+## POINTER 280
+020 Let's go to the inn
+
+## POINTER 281
+030 <STR>(RAV)'s secret
+
+## POINTER 282
+040 Talk with party member
+
+## POINTER 283
+050 Along with <STR>(RIT) too
+
+## POINTER 284
+060 Dein Nomos needed for the succession to the throne
+
+## POINTER 285
+070 Kaufman is a Union's heavyweight
+
+## POINTER 286
+080 Deal done with Fortune's market
+
+## POINTER 287
+090 I'm Tokunaga of the Fiertia
+
+## POINTER 288
+100 Cleaned up swarm of Merman
+
+## POINTER 290
+010 A ghost ship!
+
+## POINTER 291
+020 Who should I take with me?
+
+## POINTER 292
+030 The mast falls
+
+## POINTER 293
+040 Need to proceed
+
+## POINTER 294
+050 Second team departs
+
+## POINTER 295
+060 Meet up, Look for another exit
+
+## POINTER 296
+070 Ship's log
+
+## POINTER 297
+080 Clear ciel crystal
+
+## POINTER 298
+090 The door unlocked!?
+
+## POINTER 299
+100 Using a ladder
+
+## POINTER 300
+110 The ship's ceres blastia is fixed!
+
+## POINTER 302
+010 That is Nordopolica
+
+## POINTER 303
+020 Is Belius at the Colosseum？
+
+## POINTER 304
+030 What does Tokunaga do?
+
+## POINTER 305
+040 Belius only available on full moon
+
+## POINTER 306
+050 Stay at the inn?
+
+## POINTER 307
+060 The tradition of Brave Vesperia
+
+## POINTER 308
+070 Mediate between a fight
+
+## POINTER 309
+080 Ragey's request
+
+## POINTER 310
+090 Entry
+
+## POINTER 311
+100 A fighting tournament
+
+## POINTER 312
+110 <STR>(FRE) is the opponent, Zagi breaks in
+
+## POINTER 313
+120 Ragey takes away the apatheia
+
+## POINTER 314
+130 Follow <STR>(RAP)
+
+## POINTER 315
+140 Guild will not forgive betrayal
+
+## POINTER 317
+010 Ragey and Leviathan's Claw
+
+## POINTER 318
+020 Aer Krene and Chroma dragon
+
+## POINTER 319
+030 Who Ragey is
+
+## POINTER 321
+010 Why don't we split up?
+
+## POINTER 322
+020 Talk with party member (Oasis)
+
+## POINTER 323
+030 <STR>(EST_P) tries to leave on it's own
+
+## POINTER 324
+040 A unnatural inn
+
+## POINTER 325
+050 A weird town
+
+## POINTER 326
+060 Recieve a canteen
+
+## POINTER 327
+070 Alf and Layla
+
+## POINTER 328
+080 What does magistrate want?
+
+## POINTER 330
+010 Phaeroh is somewhere in the sands
+
+## POINTER 331
+020 Supply water from cactus
+
+## POINTER 332
+030 All exhausted except <STR>(RAV)
+
+## POINTER 333
+040 A rest in the oasis
+
+## POINTER 334
+050 Find a couple on ground

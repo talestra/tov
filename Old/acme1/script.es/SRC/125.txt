@@ -1,0 +1,83 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273700199]
+<STR>(EST_P)
+<VOICE>(VS09_035)Quizá esto suene egoísta, pero...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273700287]
+<STR>(EST_P)
+<VOICE>(VS09_036)Me alegro de que esto signifique
+que continuaremos nuestro viaje.<PAGE><VOICE>(VS09_037)Hasta ahora nunca había
+conocido una libertad así.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273700199]
+<STR>(YUR)
+<VOICE>(VS09_038)Ja, ja, ja.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273700287]
+<STR>(YUR)
+<VOICE>(VS09_039)Y bien, <STR>(KAR), ¿qué planes tienes?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1272024422]
+<STR>(KAR)
+<VOICE>(VS09_040)Quiero ir a la ciudad portuaria
+y llegar a Tolbyccia desde allí.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1272024422]
+<STR>(YUR)
+<VOICE>(VS09_041)Vaya, entonces esto es un adiós.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:parsec;time:1271944624]
+<STR>(KAR)
+<VOICE>(VS09_042)¡¿Eh?!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:parsec;time:1271944624]
+<STR>(YUR)
+<VOICE>(VS09_043)Gracias, <STR>(KAR). 
+Ha sido divertido.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1272024422]
+<STR>(EST_P)
+<VOICE>(VS09_044)Cuídate, por favor.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273700199]
+<STR>(KAR)
+<VOICE>(VS09_045)Ahora que lo pienso, a lo mejor
+me quedo con vosotros un poquito más.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1272024422]
+<STR>(YUR)
+<VOICE>(VS09_046)¿Y eso?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1273700199]
+<STR>(KAR)
+<VOICE>(VS09_047)No sabríais qué hacer
+sin mí a vuestro lado.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1273700199]
+<STR>(YUR)
+<VOICE>(VS09_048)La verdad es que has resultado
+sorprendentemente útil, capitán.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1273700199]
+<STR>(EST_P)
+<VOICE>(VS09_049)Pues entonces, vamos juntos.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1272024422]
+<STR>(KAR)
+<VOICE>(VS09_050)Así que al este, ¿no?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1272376091]
+<STR>(YUR)
+<VOICE>(VS09_051)Sí, <STR>(FRE) se fue en esa dirección.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:parsec;time:1271960155]
+<STR>(EST_P)
+<VOICE>(VS09_052)Vale.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1273700287]
+<STR>(YUR)
+<VOICE>(VS09_053)Me gustaría llegar a Aspio.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1273700287]
+<STR>(YUR)
+<VOICE>(VS09_054)Salgamos de aquí antes de que
+aparezca la banda de esbirros.

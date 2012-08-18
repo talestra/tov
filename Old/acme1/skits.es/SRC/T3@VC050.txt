@@ -1,0 +1,54 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1251639165]
+Usa las dos
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1267170343]
+(YUR)
+...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297810784]
+(KAR)
+¿Qué pasa, (YUR)? 
+¿Le ocurre algo a tu arma?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297810784]
+(YUR)
+No, tan solo pensaba en lo diferente
+que es usar hachas y espadas...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297810784]
+(RAP)
+*¿Gemido?*
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1297810784]
+(EST_P)
+Ah, usas tanto espadas
+como hachas, ¿no?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1297810784]
+(YUR)
+Sí, pero mis artes cambian dependiendo
+de qué utilice. No es que me resulte
+un problema, pero...
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267317531]
+(KAR)
+Mmmm... Bueno, creo que molas más 
+cuando usas hachas, (YUR).
+También te hacen parecer más fuerte.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297810784]
+(RAP)
+¡Guau!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1297810784]
+(EST_P)
+¿En serio? Yo prefiero a (YUR)
+cuando usa espadas, la verdad.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1297810784]
+(JUD)
+Deberías empuñar una de cada en cada mano.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1297810784]
+(YUR)
+Dadme un respiro...

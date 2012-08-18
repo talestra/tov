@@ -1,0 +1,187 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+<STR>(KAR)
+Hola, mmm, estamos
+buscando al señor Markham...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1291396332]
+
+Yo soy Markham. ¿Y vosotros?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+
+Mark, ya sabes quiénes son.
+Los de la petición que pusiste...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1291396332]
+<STR>(JUD)
+¿Nos conocemos?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+
+Soy Joshua,
+un amigo de Mark.
+
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1291396332]
+Markham
+¿Habéis venido por el anuncio
+que puse en la Unión?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+<STR>(KAR)
+Sí, esos somos. Nos gustaría que
+nos contase un poco más del tema.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+Markham
+Fue la última vez que fui al lugar de
+excavación. Os lo creáis o no, me olvidé
+allí mi pala. Me gustaría que me la trajerais.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+<STR>(YUR)
+¿Has dicho una pala?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+Joshua
+Sí, mi pala. A veces también
+las llaman paletas o zapas.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+<STR>(YUR)
+¿Solo eso?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+Markham
+¿Cómo que «solo eso»?
+¡Esto es importantísimo!
+¡Un respeto!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Lia;time:1292004724]
+Joshua
+Venga, Mark, cálmate...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+Markham
+¡¿Que me calme?! ¡Ha menospreciado
+nuestra importantísima herramienta
+del comercio como si fuese nada!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:Lia;time:1292004724]
+Joshua
+Yo también lo he oído, pero tienes que respirar hondo.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1291400049]
+<STR>(YUR)
+Y si es tan importante,
+¿por qué te la has olvidado?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+Markham
+Ups... Es que, verás...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1291400049]
+Joshua
+Le atacaron unos monstruos y tuvo
+que dejarla atrás. Estuvo llorando
+todo el camino de vuelta.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1291400049]
+Markham
+Claro que nos gustaría ir
+nosotros mismos, pero
+sin ayuda es imposible.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+<STR>(JUD)
+¿Por qué no te olvidas de esa
+y compras una nueva?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+<STR>(YUR)
+Si puedes permitirte pagarnos,
+a mí me da que eso es lo más
+sencillo que puedes hacer.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+Markham
+¿Sabes lo que estás diciendo? Si la
+herramienta no se ajusta a su portador,
+¡es imposible hacer un buen trabajo!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+Joshua
+Solo es una pala.
+Pero es mucho más que una pala.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1291400049]
+<STR>(RIT)
+Esto no tiene ni pies ni cabeza...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1291400049]
+Markham
+Sin mi pala
+no puedo trabajar.
+¡Por favor!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1291400049]
+<STR>(KAR)
+Venga, va. Lo haremos.<PAGE>No siempre puedes eligir
+un trabajo así.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1291400049]
+<STR>(YUR)
+No me digas... Oye,
+¿por qué no? Ya vuelves
+a sonar como un jefe.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+<STR>(KAR)
+Je, je... ¿Eso crees?
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+<STR>(RIT)
+No le llenes la cabeza de cumplidos,
+que terminará creyéndoselos.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+<STR>(KAR)
+En nombre de Gran Vesperia,
+la estrella que más brilla en
+la noche, aceptamos esta tarea.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+Markham
+Está en el templo de Baction,
+en el continente de Hypionia.
+Cuento con vosotros.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+<STR>(YUR)
+No podía ser en otro sitio, no...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Lia;time:1291401093]
+<STR>(KAR)
+¿Qué parte del templo?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+Markham
+Creo que me dirigí a la zona más al norte
+justo cuando me metí en el subterráneo.<PAGE>Fui un piso para abajo
+y recuerdo andar por ahí
+inspeccionando el sitio...
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:Lia;time:1291401093]
+<STR>(JUD)
+Esa información es muy imprecisa.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1293576691]
+Markham
+Podréis saber que es
+la mía porque tiene
+mi nombre en el mango.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:Lia;time:1291401093]
+<STR>(KAR)
+Pues tendremos que ir
+con esas pistas.

@@ -1,0 +1,95 @@
+## POINTER 0
+<STR>(RAV)
+Hey!
+
+## POINTER 1
+
+Hey there, <STR>(RAV)!<PAGE>Your friend, there...that's, 
+uh, that's the little 
+guild-hopper, right?
+
+## POINTER 2
+<STR>(KAR)
+The name's <STR>(KAR)! I'm a member of 
+a guild called Brave Vesperia now.
+
+## POINTER 3
+
+Ohh, Brave Vesperia, huh? 
+So what business does your 
+guild have with us?
+
+## POINTER 4
+<STR>(JUD)
+Is this the Union outpost?
+
+## POINTER 5
+
+Yeah.
+Looking for a job?
+
+## POINTER 6
+
+Well, let's see...this is about 
+all I've got at the moment...
+
+## POINTER 7
+<STR>(YUR)
+...I request transportation 
+for my goods.
+-Yu Seron<PAGE>What's this supposed to mean? There's 
+no detailed information here.
+
+## POINTER 8
+<STR>(KAR)
+Well, it is the Union. They're probably 
+all going to be pretty standard jobs.
+
+## POINTER 9
+
+Should be just about right 
+for one of your first jobs.<PAGE>It pays 4200 Gald.
+
+## POINTER 10
+<STR>(RAV)
+Hold on a sec. Brave Vesperia isn't 
+a member of the Union, ya know.
+
+## POINTER 12
+Accept job?
+Accept job
+Decline offer
+
+## POINTER 14
+<STR>(RAV)
+That's just the way it works. It'd 
+be worse if they found out later.
+
+## POINTER 15
+<STR>(YUR)
+It's fine. I mean, we're already 
+here, right? Let's do it, <STR>(KAR).
+
+## POINTER 16
+
+All right. Now go talk to the 
+client. They'll fill you in on 
+all the details of the job.<PAGE>Yu's a guy who usually hangs out around 
+the bridge near the entrance of town.
+
+## POINTER 17
+<STR>(KAR)
+All right, let's go 
+and talk to him!
+
+## POINTER 18
+
+Okay. Feel free to stop by whenever 
+you need work. I should 
+be able to hook you up.
+
+## POINTER 19
+
+What do you say to
+that job I told you
+about last time?

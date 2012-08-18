@@ -1,0 +1,236 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS37_058)So...you are aware that this 
+place was the ground on which 
+the Great War was fought.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS37_059)Yeah. We heard from 
+the old man here.
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS37_060)The Great War was 
+sparked by a type 
+of blastia.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS37_061)What?!
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VS37_062)This was not a blastia that 
+had been excavated.<PAGE><VOICE>(VS37_063)It had been constructed in 
+the city of Temza using a 
+new type of technology.<PAGE><VOICE>(VS37_064)The Hermes blastia.
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS37_065)Hermes blastia...?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS37_066)I've never heard of it...<PAGE><VOICE>(VS37_067)And if you say it was newly built...
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS37_068)The Hermes models were 
+even more effective at 
+converting aer into energy.<PAGE><VOICE>(VS37_069)They were intended to...revolutionize 
+the technology of blastia.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS37_070)But something went wrong.
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS37_071)The blastia using these 
+Hermes-type formulas required 
+massive quantities of aer.<PAGE><VOICE>(VS37_072)The aer krene began producing 
+abnormal amounts of aer in
+order to compensate.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS37_073)That would mean the end,
+not just of humanity, but 
+all life on this planet!
+
+## POINTER 11
+<STR>(RAV)
+<VOICE>(VS37_074)Just like we saw at Keiv Moc 
+and the Weasand of Cados. Wouldn't 
+like ta see that happen everywhere.
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS37_075)The Entelexeia realized the 
+dangers of the Hermes blastia 
+before the humans.<PAGE><VOICE>(VS37_076)And they moved to destroy them.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS37_077)Which created a conflict 
+that grew until it eventually 
+became the Great War...
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS37_078)So then the Entelexeia 
+fought against the humans 
+to help the planet?!
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS37_079)But why didn't they tell 
+the humans how dangerous 
+those blastia were?!
+
+## POINTER 16
+<STR>(RAV)
+<VOICE>(VS37_080)Neither side probably 
+cared much if the other 
+brought itself to ruin.<PAGE><VOICE>(VS37_081)There's never been any love lost 
+between humans and Entelexeia. 
+Probably didn't talk much.<PAGE><VOICE>(VS37_082)There may've been other 
+reasons, though.<PAGE><VOICE>(VS37_083)Still, we don't know what 
+this story has ta do with 
+our <STR>(JUD), here.
+
+## POINTER 17
+<STR>(JUD)
+<VOICE>(VS37_084)Temza fell to the flames of war, 
+and the technology of the 
+Hermes blastia was believed lost...
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS37_085)Wait, you mean there are still 
+Hermes models in operation?!
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS37_086)Yes. At Ragou's mansion, 
+Ehmead Hill, Ghasfarost, 
+not to mention...
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS37_087)The ceres blastia 
+on the Fiertia...
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS37_088)So then, you've been 
+destroying the blastia in 
+place of the Entelexeia...
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS37_089)You could have 
+mentioned that!<PAGE><VOICE>(VS37_090)Why didn't you say something?! 
+Were you gonna save the world all 
+on your own? Are you stupid?!
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS37_091)Wh-what was that?
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS37_092)Ba'ul!
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS37_093)Nan!
+
+## POINTER 26
+Tison
+<VOICE>(VS37_094)It looks like we've 
+found our mark.
+
+## POINTER 27
+<STR>(JUD)
+<VOICE>(VS37_095)You will not pass.
+
+## POINTER 28
+Nan
+<VOICE>(VS37_096)You're a person, aren't you?! 
+How can you defend a monster?!
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS37_097)Didn't you get the news? 
+I said nobody lays a hand 
+on one of our own.
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS37_098)W-we won't allow that! 
+Not even from you, Nan!
+
+## POINTER 31
+<STR>(RIT)
+<VOICE>(VS37_099)We were having a conversation 
+over here! Butt out!
+
+## POINTER 32
+<STR>(RAV)
+<VOICE>(VS37_100)I don't usually like ta get 
+my clothes dirty, but...
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS37_101)Everyone...
+
+## POINTER 34
+<STR>(EST_P)
+<VOICE>(VS37_102)Have the Hunting 
+Blades added people 
+to their list of targets?
+
+## POINTER 35
+Tison
+<VOICE>(VS37_103)Nobody who associates with 
+monsters can rightly call 
+themselves a person.
+
+## POINTER 36
+Nan
+<VOICE>(VS37_104)<STR>(KAR). Have you forgotten 
+the credo of the Hunting 
+Blades? Step aside.
+
+## POINTER 37
+<STR>(KAR)
+<VOICE>(VS37_105)Monsters are evil... And the 
+Hunting Blades pursue that evil.<PAGE><VOICE>(VS37_106)But the Entelexeia aren't 
+evil! They were fighting 
+to save the world...
+
+## POINTER 38
+<STR>(YUR)
+<VOICE>(VS37_107)Don't let them fool you with that 
+credo nonsense. They're on a job. 
+They're here for the apatheia.
+
+## POINTER 39
+Tison
+<VOICE>(VS37_108)Humph. It seems you won't listen to reason.<PAGE><VOICE>(VS37_109)If you have no intention 
+of moving...
+
+## POINTER 40
+Nan
+<VOICE>(VS37_110)You leave us no choice.
+
+## POINTER 41
+Information
+<STR>(JUD) is not in your party.
+Please form a party with <STR>(JUD) as a member.
+
+## POINTER 42
+<STR>(KAR)
+<VOICE>(VS37_111)Nan...I'm sorry.

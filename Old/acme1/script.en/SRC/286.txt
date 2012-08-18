@@ -1,0 +1,191 @@
+## POINTER 0
+Kaufman
+<VOICE>(VS25_121)Well, if it isn't Mr. <STR>(YUR) 
+Lowell. You've come 
+at just the right time.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS25_122)Huh, I guess those wanted 
+posters really do work.
+
+## POINTER 2
+Kaufman
+<VOICE>(VS25_123)Listen, I've got a job that would 
+be just perfect for you.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS25_124)Hard labor, huh?
+
+## POINTER 4
+Kaufman
+<VOICE>(VS25_125)I like a man who can cut to the chase.<PAGE><VOICE>(VS25_126)As you may have heard, schools 
+of mermen often attack cargo 
+ships at this time of year.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS25_127)Huh? But I thought there was 
+another guild that always served 
+as your escort...
+
+## POINTER 6
+Kaufman
+<VOICE>(VS25_128)It seems the leader of the mercenary 
+guild I hire passed away suddenly, 
+so they aren't available.<PAGE><VOICE>(VS25_129)The other guardian guild 
+simply has no backbone. 
+I don't know what to do.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS25_130)What was the name of that guardian 
+guild you mentioned?
+
+## POINTER 8
+Kaufman
+<VOICE>(VS25_131)The Blood Alliance.
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS25_132)Gee, I wonder what could have happened to them.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS25_133)You're all as guilty as I am...
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS25_134)Hate to disappoint you, but we're 
+in the middle of something right 
+now, so...see you around.
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS25_135)Wait, <STR>(YUR)! What 
+about the boat?
+
+## POINTER 13
+Kaufman
+<VOICE>(VS25_136)Hm? Did you say "boat"?
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS25_137)We've made a guild of our own.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS25_138)We're called Brave Vesperia!
+
+## POINTER 16
+Kaufman
+<VOICE>(VS25_139)That's a wonderful name. Well 
+then, shall we talk business?<PAGE><VOICE>(VS25_140)Mutual gain is one of the basics 
+of all business, you know. You 
+scratch my back, I'll scratch yours.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS25_141)Sorry, but like I said, we're in 
+the middle of a job. We can't take 
+on anything else right now.
+
+## POINTER 18
+Kaufman
+<VOICE>(VS25_142)We won't call it business, then. 
+Let's just say we'll cooperate as 
+two guilds helping each other out.<PAGE><VOICE>(VS25_143)That way we won't be going 
+against any guild principles.<PAGE><VOICE>(VS25_144)There are various...incentives for 
+getting along with me, you know.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS25_145)Um, well...
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS25_146)All right, we can talk, but we 
+need to go to Nordopolica. 
+We can't afford any detours.
+
+## POINTER 21
+Kaufman
+<VOICE>(VS25_147)Fine with me. The mermen are only a 
+problem in the waters near here. <PAGE><VOICE>(VS25_148)As long as I get to 
+another port, I'm good.<PAGE><VOICE>(VS25_149)Once we arrive, I won't have 
+any trouble making arrangements 
+with another ship.
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS25_150)Wow, she means business...literally.
+
+## POINTER 23
+Kaufman
+<VOICE>(VS25_151)So, do we have a deal?
+
+## POINTER 24
+<STR>(RIT)
+<VOICE>(VS25_152)I have the sinking feeling we just 
+got tricked into something.
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS25_153)Fortune's Market isn't known 
+as the best group of salesmen 
+under the sun for nothin'.
+
+## POINTER 26
+<STR>(JUD)
+<VOICE>(VS25_154)This isn't so bad. Now 
+we have a way to cross 
+over to Desier.
+
+## POINTER 27
+Kaufman
+<VOICE>(VS25_155)I'll even throw in a 
+bonus for all of you.
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS25_156)Bonus? What do you mean?
+
+## POINTER 29
+Kaufman
+<VOICE>(VS25_157)If we arrive safely in Nordopolica, 
+I'll give you the boat we use 
+to get there.
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS25_158)R-really?!
+
+## POINTER 31
+<STR>(JUD)
+<VOICE>(VS25_159)The boat looks pretty beat 
+up, but it's still a good deal.
+
+## POINTER 32
+Kaufman
+<VOICE>(VS25_160)Right?
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS25_161)So the these mermen must be 
+pretty tough customers if you're 
+willing to part with a boat.
+
+## POINTER 34
+Kaufman
+<VOICE>(VS25_162)I'll leave that to your imagination.
+
+## POINTER 35
+<STR>(YUR)
+<VOICE>(VS25_163)I figured as much.
+
+## POINTER 36
+Kaufman
+<VOICE>(VS25_164)Marvelous! We have a contract then.<PAGE><VOICE>(VS25_165)Now that we've settled the details, I'd 
+like you to get to work right away.<PAGE><VOICE>(VS25_166)Just let me know when you've 
+made your preparations.

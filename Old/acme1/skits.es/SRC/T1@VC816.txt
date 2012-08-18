@@ -1,0 +1,32 @@
+## POINTER 0 [t:1;r:2;ru:lia,memnoch;user:xander;time:1251756873]
+La forma de hablar de Yeager
+
+## POINTER 1 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944674]
+(EST_P)
+Ese hombre llamado Yeager tenía
+una forma de hablar muy peculiar.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116700]
+(RIT)
+«Peculiar» no es la palabra que yo usaría.
+
+## POINTER 3 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944674]
+(KAR)
+A mí me ha costado lo mío entender
+algunas de las cosas que decía.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1297116700]
+(JUD)
+Una antigua forma de hablar, perdida en nuestros días...
+
+## POINTER 5 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944674]
+(EST_P)
+¿Qué? ¡¿Lo dices en serio?!
+
+## POINTER 6 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944674]
+(JUD)
+Al menos sería una buena historia si fuera cierto.
+
+## POINTER 7 [t:1;r:2;ru:lia,memnoch;user:Lia;time:1266944674]
+(RIT)
+*Suspiro*

@@ -1,0 +1,91 @@
+## POINTER 0
+<STR>(KAR)
+Come on, hurry up! 
+Let's go inside!
+
+## POINTER 1
+<STR>(RAV)
+Patience is a virtue, young'un. Grown-ups 
+move at a slower pace than you do.
+
+## POINTER 2
+<STR>(YUR)
+This resort seems to have 
+a very peaceful feeling 
+to it. Don't you think?
+
+## POINTER 3
+<STR>(RAV)
+Ya, check out that bamboo 
+fountain over there. This 
+place is pretty zen.
+
+## POINTER 4
+<STR>(KAR)
+Come on, we can talk about 
+all of that once we get 
+in the water! Let's go!
+
+## POINTER 5
+<STR>(YUR)
+<STR>(KAR), you can go ahead 
+if you want. We'll be in soon.
+
+## POINTER 6
+<STR>(KAR)
+Okay, sure! See 
+you outside!
+
+## POINTER 7
+<STR>(RAV)
+Ah, youth. 
+So pure, so 
+innocent.
+
+## POINTER 8
+<STR>(YUR)
+Yeah, that's what I like 
+most about Captain <STR>(KAR).<PAGE>But is it really 
+okay if your chest 
+gets wet, old man?
+
+## POINTER 9
+<STR>(RAV)
+Hmmm... I don't think there'll be 
+any problem. 'Sides, a little 
+electrocution is good fer ya! ∀
+
+## POINTER 10
+<STR>(YUR)
+......
+Stay out of the water 
+when I'm in there.
+
+## POINTER 11
+<STR>(KAR)
+Guys, guys! You're not 
+gonna believe this!
+
+## POINTER 12
+<STR>(RAV)
+What's all the fuss, young'un? Yer not gonna 
+tell me something fantastic like we can see
+inta the women's baths, right?
+
+## POINTER 13
+<STR>(KAR)
+That's exactly what it is! There's 
+a hole in the middle of the wall 
+separating the two baths!
+
+## POINTER 14
+<STR>(RAV)
+Saints be praised...! Boy, why 
+didn't ya say so sooner?!<PAGE>Hurry, hurry! The 
+water's-a waitin'!
+
+## POINTER 15
+<STR>(YUR)
+......And I guess the best 
+thing about the old man is 
+his...perverted enthusiasm?

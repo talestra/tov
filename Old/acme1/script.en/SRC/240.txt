@@ -1,0 +1,36 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS23_032)<STR>(YUR)? Are you awake?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS23_033)<STR>(EST_P) and <STR>(RIT) 
+already took off.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS23_034)Oh...
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS23_035)If you hurry, you might still 
+be able to catch her.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS23_036)I can meet them anytime I 
+want.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS23_037)Jeez, <STR>(YUR). Fine, if that's 
+how you're gonna be.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS23_038)Even if I did go, it would just make 
+it harder for them to leave.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS23_039)What the?

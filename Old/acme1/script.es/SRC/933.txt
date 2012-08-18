@@ -1,0 +1,121 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1283554983]
+
+¡Un dragón ha venido a la ciudad!
+¿Sabéis de quién es?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1283554849]
+<STR>(JUD)
+¡Es mi amigo!
+Se llama Ba'ul.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955521]
+
+Mola...<PAGE>Es muy grande,
+¡pero no es nada
+comparado con Krones!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1283554849]
+<STR>(KAR)
+¿Krones? ¿Quién es ese?
+¿Dónde está?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1283554983]
+
+¡Está aquí, tontolaba!
+¡Krones es el entelechia
+que protege nuestra ciudad!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955521]
+<STR>(RAV)
+¿Te refieres a
+esa medusa vieja?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1283554849]
+
+¡No es ninguna
+medusa, señor!
+¡Un respeto!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1283554849]
+<STR>(EST_P)
+¡Krones es enorme! No me puedo creer
+que una ciudad entera pueda caber
+dentro de un entelechia.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1283554849]
+
+Sí, mola mazo, ¿eh?
+¡Hasta vuestro Azul
+cabe dentro!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1283554849]
+<STR>(YUR)
+Se llama Ba'ul.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955521]
+
+Qué más da.
+Me importa un bledo.
+¡Krones es mucho mejor!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1283554849]
+<STR>(RIT)
+¿Sabes qué? Tienes una boca
+la mar de insolente, niño.
+¿Quién te crees que eres?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955521]
+
+¿Qué me estás contando?
+Si solo digo la verdad.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1283554849]
+<STR>(RIT)
+<STR>(JUD),
+¡dile algo
+a este!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1293980894]
+<STR>(JUD)
+Todos los entelechia desempeñan
+un papel. Ninguno es mejor que otro.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Lia;time:1283554849]
+
+¡Ja! ¡Dices eso porque no quieres admitir
+que tu entelechia ya ha perdido!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955521]
+<STR>(RIT)
+¡Ba'ul no ha perdido!
+Si tantas ganas tienes,
+¡aclararemos esto de una vez!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955521]
+
+¡Por mí perfecto!
+¡Pero luego no me vengas llorando!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1283554849]
+<STR>(RIT)
+¡<STR>(JUD)! ¡Vamos allá!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955521]
+<STR>(JUD)
+Oh, ¿así que tengo que participar en
+tus desafíos? Vaya marrón me ha tocado...
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955521]
+
+¡Competiremos en una carrera que he hecho!
+Hay muchos puntos flotando en el cielo,
+¡y ganas si los coleccionas todos!<PAGE>¡Más os vale
+esforzaros
+a tope!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296955521]
+
+¿Qué os parece?
+Mola, ¿eh?<PAGE>¡Y eso no es todo!
+¡Aún tengo mejores
+recorridos que enseñaros!

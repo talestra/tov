@@ -1,0 +1,38 @@
+## POINTER 0
+Mmm... Pretty Bread
+
+## POINTER 1
+(EST_P)
+It looks like what we just cooked used 
+up the last of our ingredients.
+
+## POINTER 2
+(RAP)
+*Whine!*
+
+## POINTER 3
+(YUR)
+We'll have to stop by a town and 
+pick up some more, I guess.
+
+## POINTER 4
+(KAR)
+Hey, there was a green piece of 
+veggie bread left in my bag!
+
+## POINTER 5
+(EST_P)
+A green piece of... Uhh... What 
+a strange type of bread.
+
+## POINTER 6
+(RAP)
+*Whine...?*
+
+## POINTER 7
+(YUR)
+...(KAR), when did you buy that bread?
+
+## POINTER 8
+(KAR)
+I dunno.

@@ -1,0 +1,287 @@
+## POINTER 300 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263044418]
+Recuerdo de Eremita
+
+## POINTER 301 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Pteropus
+
+## POINTER 302 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Murciélago atacante
+
+## POINTER 303 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Murciélago hechicero
+
+## POINTER 304 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Murciélago líder
+
+## POINTER 305 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Recuerdo de Pteropus
+
+## POINTER 306 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Recuerdo de murciélago atacante
+
+## POINTER 307 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Recuerdo de murciélago hechicero
+
+## POINTER 308 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Recuerdo de murciélago líder
+
+## POINTER 309 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262028958]
+Pterobronc
+
+## POINTER 310 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262028958]
+Recuerdo de Pterobronc
+
+## POINTER 311 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Arrasador
+
+## POINTER 312 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Arrasador
+
+## POINTER 313 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263001424]
+Recuerdo de Arrasador
+
+## POINTER 314 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Arrasador diurno
+
+## POINTER 315 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Arrasador nocturno
+
+## POINTER 316 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262013263]
+Belius
+
+## POINTER 317 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262013263]
+Recuerdo de Belius
+
+## POINTER 318 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262013263]
+Belius (doble)
+
+## POINTER 319 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268840]
+Baitojoh
+
+## POINTER 320 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262268840]
+Baitojoh
+
+## POINTER 321 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263001424]
+Dragón Khroma
+
+## POINTER 322 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263001424]
+Recuerdo de Khroma
+
+## POINTER 323 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Gran Grifo
+
+## POINTER 324 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262033455]
+Recuerdo de Gran Grifo
+
+## POINTER 325 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263001424]
+Mariposa Quimera
+
+## POINTER 326 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262030001]
+Recuerdo de Quimera
+
+## POINTER 327 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263001424]
+Mariposa Medusa
+
+## POINTER 328 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262030001]
+Recuerdo de Medusa
+
+## POINTER 329 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262028893]
+Brutal
+
+## POINTER 330 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262028893]
+Brucis
+
+## POINTER 331 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263002032]
+Recuerdo de Brucis
+
+## POINTER 332 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262028893]
+Duke
+
+## POINTER 333 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262028893]
+Duke
+
+## POINTER 334 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262345100]
+Arcángel radiante
+
+## POINTER 335 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262028958]
+Recuerdo de Duke
+
+## POINTER 336 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262028893]
+Alexei
+
+## POINTER 337 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262028958]
+Recuerdo de Alexei
+
+## POINTER 338 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262028893]
+Barbos
+
+## POINTER 339 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262028958]
+Recuerdo de Barbos
+
+## POINTER 340 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012261]
+Zagi
+
+## POINTER 341 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012261]
+Zagi
+
+## POINTER 342 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012261]
+Zagi
+
+## POINTER 343 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012261]
+Zagi
+
+## POINTER 344 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012261]
+Zagi
+
+## POINTER 345 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012261]
+Zagi
+
+## POINTER 346 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012261]
+Recuerdo de Zagi
+
+## POINTER 347 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012261]
+Yeager
+
+## POINTER 348 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012261]
+Yeager
+
+## POINTER 349 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012261]
+Yeager
+
+## POINTER 350 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012261]
+Recuerdo de Yeager
+
+## POINTER 351 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262029103]
+Gauche
+
+## POINTER 352 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262029103]
+Droite
+
+## POINTER 353 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262029103]
+Gauche (coliseo)
+
+## POINTER 354 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262029103]
+Droite (coliseo)
+
+## POINTER 355 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Tison
+
+## POINTER 356 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Tison (coliseo)
+
+## POINTER 357 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1265635748]
+Recuerdo de Tison
+
+## POINTER 358 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Nan
+
+## POINTER 359 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Nan (coliseo)
+
+## POINTER 360 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Nan (coliseo 2)
+
+## POINTER 361 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Recuerdo de Nan
+
+## POINTER 362 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Yuri
+
+## POINTER 363 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Estellise
+
+## POINTER 364 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Estellise
+
+## POINTER 365 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Recuerdo de Estellise
+
+## POINTER 366 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262030001]
+Karol
+
+## POINTER 367 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Rita
+
+## POINTER 368 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Raven
+
+## POINTER 369 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262013263]
+Schwann
+
+## POINTER 370 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Recuerdo de Schwann
+
+## POINTER 371 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Judith
+
+## POINTER 372 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Repede
+
+## POINTER 373 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Flynn
+
+## POINTER 374 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Flynn
+
+## POINTER 375 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Flynn (coliseo)
+
+## POINTER 376 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Recuerdo de Flynn
+
+## POINTER 377 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Adecor
+
+## POINTER 378 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Boccos
+
+## POINTER 379 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Adecor
+
+## POINTER 380 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Boccos
+
+## POINTER 381 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Adecor
+
+## POINTER 382 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Boccos
+
+## POINTER 383 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Adecor (coliseo)
+
+## POINTER 384 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262012875]
+Boccos (coliseo)
+
+## POINTER 385 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262030001]
+Recuerdo de Adecor
+
+## POINTER 386 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262030001]
+Recuerdo de Boccos
+
+## POINTER 387 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262030001]
+Traidor al Cielo
+
+## POINTER 388 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262030001]
+Traidor al Cielo
+
+## POINTER 389 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262030001]
+Asesino de héroes
+
+## POINTER 390 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261997946]
+Viajero en el tiempo
+
+## POINTER 391 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263001424]
+Afligida Reina de la Oscuridad
+
+## POINTER 392 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263044074]
+Venus estornudadera
+
+## POINTER 393 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262029103]
+Soporte del puente
+
+## POINTER 394 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262029103]
+Lámpara
+
+## POINTER 395 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262029103]
+Karolow X

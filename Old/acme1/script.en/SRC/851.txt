@@ -1,0 +1,67 @@
+## POINTER 0
+
+Woe be to those who would 
+dare come any further...
+Hee hee hee...
+
+## POINTER 1
+<STR>(KAR)
+W-what...?
+
+## POINTER 2
+<STR>(RAV)
+Gives ya the heebie-jeebies, doesn't it?
+
+## POINTER 3
+<STR>(YUR)
+Come out and show yourself!
+
+## POINTER 4
+<STR>(RIT)
+Sounds like someone gets 
+off on threatening people. 
+Time for a beat-down!
+
+## POINTER 5
+<STR>(EST_P)
+But it doesn't seem like there's 
+anyone here at all...
+
+## POINTER 6
+<STR>(RIT)
+Wh-what do you 
+mean, <STR>(EST_P)?<PAGE>I-I'm s-sure he's just really good 
+at hiding... Yeah! That's it!
+
+## POINTER 7
+<STR>(JUD)
+If someone tells you not to keep going, isn't it a 
+pretty normal response to, you know, keep going?
+
+## POINTER 8
+<STR>(YUR)
+There might be something to be said 
+for listening to a warning, though.
+
+## POINTER 9
+
+Once you proceed, you can never 
+return! Know this before you
+contemplate going any further!
+
+## POINTER 10
+<STR>(RIT)
+S-so-so, I guess we should s-stop, right?
+I mean, there's nothing here anyway...right, guys?
+
+## POINTER 11
+<STR>(JUD)
+Yes, let's get going.
+
+## POINTER 12
+<STR>(YUR)
+Let's look around a little more?
+
+## POINTER 13
+<STR>(RIT)
+Urgh...

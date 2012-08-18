@@ -1,0 +1,299 @@
+## POINTER 0
+Dummy Data
+
+## POINTER 1
+Knight Fencer
+
+## POINTER 2
+Knight Guard
+
+## POINTER 3
+Knight Warrior
+
+## POINTER 4
+Knight Fencer H
+
+## POINTER 5
+Knight Fencer A
+
+## POINTER 6
+Knight Fencer F
+
+## POINTER 7
+Knight Fencer K
+
+## POINTER 8
+Knight Fencer S
+
+## POINTER 9
+Knight Warrior H
+
+## POINTER 10
+Knight Warrior A
+
+## POINTER 11
+Knight Warrior F
+
+## POINTER 12
+Knight Warrior K
+
+## POINTER 13
+Knight Warrior S
+
+## POINTER 14
+Grain
+
+## POINTER 15
+Knight Lancer
+
+## POINTER 16
+Knight Catcher
+
+## POINTER 17
+Knight Halberd
+
+## POINTER 18
+Knight Halberd A
+
+## POINTER 19
+Knight Halberd F
+
+## POINTER 20
+Knight Halberd K
+
+## POINTER 21
+Knight Halberd S
+
+## POINTER 22
+Erungar
+
+## POINTER 23
+Erungar Memory
+
+## POINTER 24
+Knight Lancer H
+
+## POINTER 25
+Knight Lancer A
+
+## POINTER 26
+Knight Lancer F
+
+## POINTER 27
+Knight Lancer K
+
+## POINTER 28
+Knight Lancer S
+
+## POINTER 29
+Augusto
+
+## POINTER 30
+Rye
+
+## POINTER 31
+Bandido
+
+## POINTER 32
+Bandido
+
+## POINTER 33
+Bandido Memory
+
+## POINTER 34
+Jugem
+
+## POINTER 35
+Jugem Memory
+
+## POINTER 36
+Rogue
+
+## POINTER 37
+Thief
+
+## POINTER 38
+Sand Thief
+
+## POINTER 39
+Jun
+
+## POINTER 40
+Bre
+
+## POINTER 41
+Soya
+
+## POINTER 42
+Pepe
+
+## POINTER 43
+Seigle
+
+## POINTER 44
+Soldier
+
+## POINTER 45
+Soldier
+
+## POINTER 46
+Johann
+
+## POINTER 47
+Johann Memory
+
+## POINTER 48
+Warrior
+
+## POINTER 49
+Burglar
+
+## POINTER 50
+Savage Helm
+
+## POINTER 51
+October
+
+## POINTER 52
+Orge
+
+## POINTER 53
+Maize
+
+## POINTER 54
+Gingembre
+
+## POINTER 55
+Barley
+
+## POINTER 56
+Lett
+
+## POINTER 57
+Bronze
+
+## POINTER 58
+Titane
+
+## POINTER 59
+Plomb
+
+## POINTER 60
+Cuivre
+
+## POINTER 61
+Zinc
+
+## POINTER 62
+Etain
+
+## POINTER 63
+Fer
+
+## POINTER 64
+Argent
+
+## POINTER 65
+Knight Bishop
+
+## POINTER 66
+High Knight Bishop
+
+## POINTER 67
+Witch
+
+## POINTER 68
+Witch Memory
+
+## POINTER 69
+Sorceress
+
+## POINTER 70
+Druid
+
+## POINTER 71
+July
+
+## POINTER 72
+Ail
+
+## POINTER 73
+Piment
+
+## POINTER 74
+Filifolia
+
+## POINTER 75
+Filifolia Bud
+
+## POINTER 76
+Filifolia Puff
+
+## POINTER 77
+Filifolia Mutant
+
+## POINTER 78
+Filihelia
+
+## POINTER 79
+Wilted Filifolia
+
+## POINTER 80
+Treant
+
+## POINTER 81
+Blooms
+
+## POINTER 82
+Paincorn
+
+## POINTER 83
+Limewreath
+
+## POINTER 84
+Deadwreath
+
+## POINTER 85
+Insect Plant
+
+## POINTER 86
+Trifid
+
+## POINTER 87
+Audreitz
+
+## POINTER 88
+Jons
+
+## POINTER 89
+Aquicia
+
+## POINTER 90
+Roctus
+
+## POINTER 91
+Cactus
+
+## POINTER 92
+Tuliper
+
+## POINTER 93
+Rosa Camellia
+
+## POINTER 94
+Hawk
+
+## POINTER 95
+Horse Raptor
+
+## POINTER 96
+Rabtor
+
+## POINTER 97
+Eon Raptor
+
+## POINTER 98
+Firebird
+
+## POINTER 99
+Penguinist

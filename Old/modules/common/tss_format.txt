@@ -1,0 +1,16 @@
+Header (big endian):
+4 bytes - MAGIC - Default: TSS\0
+4 bytes - Start stream - 0x20
+4 bytes - PTR ??? Stream (0x11)
+4 bytes - Text Start
+4 bytes - PTR ??? Stream (0x11)
+4 bytes - PTR END Stream (0x00)
+4 bytes - Text size
+4 bytes - Unknown - Always 0x800
+
+Stream types:
+0x00_000000 - End?
+0x10_000000 - Type1?
+0x11_000000 - Type2?
+
+After a 0x10_000000 follows a 32 bit value, indicating that valures referring to that stream will contain those bits.

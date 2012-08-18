@@ -1,0 +1,68 @@
+## POINTER 0
+<STR>(RAV)
+That looks like the engine room to me.
+
+## POINTER 1
+<STR>(KAR)
+That sure is some heavy security.
+
+## POINTER 2
+<STR>(YUR)
+It doesn't look like it'll 
+be too easy to stop it.<PAGE>We might have to keep <STR>(FRE) and 
+the others waiting for a while.
+
+## POINTER 3
+<STR>(RIT)
+It'll be impossible to force our 
+way inside with that many guards.
+
+## POINTER 4
+<STR>(RIT)
+W-what?
+
+## POINTER 5
+<STR>(YUR)
+Since when are you so level-headed?
+
+## POINTER 6
+<STR>(RIT)
+We've come this far--don't you think we 
+should be careful not to mess things up?
+
+## POINTER 7
+<STR>(YUR)
+Well, if we can stop this thing from 
+moving for a little while, <STR>(FRE) and 
+his men will be able to get inside.<PAGE>Let's go check out the control room.
+
+## POINTER 8
+<STR>(KAR)
+<STR>(RAV), do you know where 
+the control room is?
+
+## POINTER 9
+<STR>(RAV)
+Sorry. That's one thing 
+I don't know.
+
+## POINTER 10
+<STR>(JUD)
+What if the control room's 
+even more heavily guarded?
+
+## POINTER 11
+<STR>(YUR)
+In that case, we'll have no choice 
+but to force our way in.
+
+## POINTER 12
+<STR>(RAV)
+Well, that'll mean
+war against the 
+imperial knights.<PAGE>Not always easy to be courageous.
+
+## POINTER 13
+<STR>(KAR)
+Let's hope it doesn't 
+come to that...

@@ -1,0 +1,255 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277309213]
+<STR>(KAR)
+<VOICE>(VS44_001)Un poco más y no lo cuento...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(RIT)
+<VOICE>(VS44_002)Todos los guardias están noqueados.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277309213]
+<STR>(YUR)
+<VOICE>(VS44_003)Por eso la potencia de fuego 
+de está sección era tan débil. 
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277309213]
+<STR>(JUD)
+<VOICE>(VS44_004)Hay alguien aquí...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+Leblanc
+<VOICE>(VS44_005)Nunca planeáis nada, ¿verdad?
+¿No conocéis otra estrategia
+que no sea la fuerza bruta?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277309213]
+Adecor
+<VOICE>(VS44_006)¡Muy cierto, proclamo!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277309213]
+Boccos
+<VOICE>(VS44_007)¡Ahora sí que se acabó 
+lo que se daba!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277309213]
+<STR>(RIT)
+<VOICE>(VS44_008)¿Vosotros otra vez?
+¿No os rendís nunca?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298324664]
+<STR>(YUR)
+<VOICE>(VS44_009)La brigada de Schwann...
+¿Aún lucháis por Alexei después
+de todo lo que ha pasado?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277309213]
+Leblanc
+<VOICE>(VS44_010)¡Es lo que nos exige nuestro 
+honor de Caballeros!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277309213]
+<STR>(KAR)
+<VOICE>(VS44_011)Venga, chicos, ¡dejadnos en paz!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(RIT)
+<VOICE>(VS44_012)¡En serio os lo digo!<PAGE><VOICE>(VS44_013)¡Cada vez que os veo me acuerdo
+de una cara que intento olvidar
+con todas mis fuerzas!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277309213]
+<STR>(RAV)
+<VOICE>(VS44_014)¿Cómo es la jeta esa?
+Será la de algún pringao
+feoncio pero con ganas. 
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1283519034]
+<STR>(YUR)
+<VOICE>(VS44_015)¡<STR>(RAV)!...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(RIT)
+<VOICE>(VS44_016)¡Eh, viejales!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277309213]
+<STR>(KAR)
+<VOICE>(VS44_017)¡<STR>(RAV)!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277309213]
+<STR>(JUD)
+<VOICE>(VS44_018)¡Eres tú!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1283519034]
+<STR>(RAV)
+<VOICE>(VS44_019)<STR>(RAV) er Grande, 
+a vuestro servicio. 
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(RAV)
+<VOICE>(VS44_020)
+¿Tan felices estáis de verme
+que se os ha comío la lengua el gato?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(YUR)
+<VOICE>(VS44_021)¿Qué haces aquí, viejales?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277735118]
+<STR>(RAV)
+<VOICE>(VS44_022)Pos yo también me alegro de verte.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(RAV)
+<VOICE>(VS44_023)¡Muy bien, soldados!
+Mantengan sus posiciones.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277735118]
+Leblanc
+<VOICE>(VS44_024)¡Señor!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277735118]
+Adecor
+<VOICE>(VS44_025)¡Sí, señor!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277735118]
+Boccos
+¡Sí, señor!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Dagorat;time:1278249622]
+<STR>(RAV)
+<VOICE>(VS44_026)Vale, con eso bastará.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277735118]
+<STR>(KAR)
+<VOICE>(VS44_027)<STR>(RAV)...
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277735118]
+<STR>(RAV)
+<VOICE>(VS44_028)Ea, a partir de aquí es 
+cosa vuestra, chavales. 
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277735118]
+<STR>(RIT)
+<VOICE>(VS44_029)¿Cómo puedes decir eso?
+¡Ahora ya no podemos 
+confiar en ti!
+
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277735118]
+<STR>(YUR)
+<VOICE>(VS44_030)No finjas que has olvidado
+lo que hiciste, viejales. 
+
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(RAV)
+<VOICE>(VS44_031)Ya veo. Pos hacedme el
+favor de quitarme de en
+medio, y rapidito.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:Dagorat;time:1277735118]
+<STR>(RIT)
+<VOICE>(VS44_032)¡Eh! ¿Qué es lo que
+intentas probar?
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(RAV)
+<VOICE>(VS44_033)Antes yo estaba metío hasta el cuello 
+en tó'l embrollo, pero no sabía que 
+me importara tanto esto de vivir.<PAGE><VOICE>(VS44_034)Si tengo que morir aquí y ahora
+con vosotros como mis verdugos...
+Bueno, hay peores formas de diñarla.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(JUD)
+<VOICE>(VS44_035)Ahora que has renegado de Alexei,
+tu blastia puede apagarse en
+cualquier momento.<PAGE><VOICE>(VS44_036)Por lo que podrías morir
+ahora mismo. ¿Es eso
+a lo que te refieres?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1283519034]
+<STR>(RAV)
+<VOICE>(VS44_037)He sido un hombre muerto 
+durante diez años. 
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(YUR)
+<VOICE>(VS44_038)Y entonces ¿qué pinta aquí 
+un hombre muerto como tú?<PAGE><VOICE>(VS44_039)Tú estás aquí para ajustar cuentas
+con nosotros, ¿verdad, <STR>(RAV)?
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(YUR)
+<VOICE>(VS44_040)Muy bien. Será un placer
+para Gran Vesperia hacerse
+cargo de eso por ti.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(RAV)
+<VOICE>(VS44_041)¡Ah!
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(YUR)
+<VOICE>(VS44_042)Tu vida pertenece
+ahora a Gran Vesperia.<PAGE><VOICE>(VS44_043)A partir de ahora, que vivas
+o mueras es asunto nuestro.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:Dagorat;time:1278249622]
+<STR>(YUR)
+<VOICE>(VS44_044)¿Verdad?
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(KAR)
+<VOICE>(VS44_045)Ja, ja.
+Me parece perfecto, <STR>(YUR).
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:Dagorat;time:1278249622]
+<STR>(RAV)
+<VOICE>(VS44_046)¡Arg!
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:Dagorat;time:1278249622]
+<STR>(KAR)
+<VOICE>(VS44_047)Ese es tu castigo.
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(RAV)
+<VOICE>(VS44_048)Oh, gracias <STR>(JUD), encanto...
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:Dagorat;time:1278249622]
+<STR>(RAV)
+<VOICE>(VS44_049)¡Ooohh!
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:Dagorat;time:1278249622]
+<STR>(RAV)
+<VOICE>(VS44_050)¡Uh!
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(RIT)
+<VOICE>(VS44_051)No iba a perdérmelo. 
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:Dagorat;time:1278249622]
+<STR>(RAV)
+<VOICE>(VS44_052)Oh, cuánta violencia...
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(YUR)
+<VOICE>(VS44_053)<STR>(RAV), ¿sabes dónde
+se esconde Alexei?
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(RAV)
+<VOICE>(VS44_054)Eh... Debería estar 
+en la sala de mando.
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:Dagorat;time:1278249622]
+<STR>(JUD)
+<VOICE>(VS44_055)Pues vamos.
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:Dagorat;time:1278249622]
+<STR>(YUR)
+<VOICE>(VS44_056)De acuerdo.
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:memnoch;time:1285273257]
+<STR>(KAR)
+<VOICE>(VS44_057)¡Prohibido hacerte el muerto
+con nosotros, <STR>(RAV)!

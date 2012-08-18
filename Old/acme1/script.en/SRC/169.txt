@@ -1,0 +1,143 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS15_116)This place seems to get bigger every 
+time I look at it. Are members of the 
+Council really that important?
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS15_117)"The Council is a body of nobles 
+which aids in the political 
+administration of the empire."
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS15_118)Which means they basically represent 
+the empire's interests.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS15_119)Huh, you don't say.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS15_120)So what about getting inside?
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS15_121)Shall we see if there's a back entrance?
+
+## POINTER 6
+
+<VOICE>(VS15_122)Tough luck. Place is surrounded 
+by a wall, and there's no gettin' 
+inside unless ya can clear it.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS15_123)...?!
+
+## POINTER 8
+
+<VOICE>(VS15_124)Ya won't last long if ya go screamin' 
+in a spot like this, yer ladyship.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS15_125)I'm sorry, but who are you?
+
+## POINTER 10
+
+<VOICE>(VS15_126)Whaddya mean? Me and the kid 
+there are old friends, right pal?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS15_127)What are you looking at? 
+I barely know this guy.
+
+## POINTER 12
+
+<VOICE>(VS15_128)Now now, don't be like that. 
+What about the fun times we had 
+in jail, Mr. <STR>(YUR) Lowell?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS15_129)Huh? I don't remember telling you my name.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS15_130)See? You're a celebrity, <STR>(YUR). 
+So, what's your name, mister?
+
+## POINTER 15
+
+<VOICE>(VS15_131)Huh? Ah, right... 
+I suppose <STR>(RAV) will 
+do for now.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS15_132)For now, huh...? Who the hell 
+does this guy think he is?
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS15_133)Well <STR>(RAV), it's been lovely seeing 
+you again. Now buzz off.
+
+## POINTER 18
+<STR>(RAV)
+<VOICE>(VS15_134)Aw, come on. Yer tryin' ta get 
+into the palace, right? You 
+just leave it up ta old <STR>(RAV).
+
+## POINTER 19
+<STR>(RIT)
+<VOICE>(VS15_135)Shouldn't we stop him?
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS15_136)Actually, he pulled a trick like this 
+that helped me get out of the castle.
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS15_137)Really? Well, then maybe 
+we can trust him.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS15_138)I'd like to hope so...
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS15_139)Uh, they're coming over here.
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS15_140)B-but why...?
+
+## POINTER 25
+<STR>(RIT)
+<VOICE>(VS15_141)Wait'll I get my hands 
+on him. No one uses me 
+as a diversion!
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS15_142)There she goes again with 
+the magic. Now what?
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS15_143)Now we go inside, what 
+else? We just got rid of 
+the guards and all.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS15_144)Whoa. Not the front door. 
+Let's see if we can get 
+in from the side.

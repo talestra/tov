@@ -1,0 +1,299 @@
+## POINTER 1162 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1254220265]
+Estallido rapaz
+
+## POINTER 1164 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo
+
+## POINTER 1166 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo superior
+
+## POINTER 1168 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262975709]
+Estocada
+
+## POINTER 1170 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo amplio
+
+## POINTER 1172 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo (secundario)
+
+## POINTER 1174 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo superior (secundario)
+
+## POINTER 1176 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262369174]
+Colmillo demoníaco
+
+## POINTER 1178 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262369174]
+Tajo del tigre
+
+## POINTER 1180 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262369174]
+Bestia
+
+## POINTER 1182 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262975709]
+Caos demoníaco
+
+## POINTER 1184 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262975709]
+Círculo demoníaco
+
+## POINTER 1186 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264958930]
+Golpe sónico
+
+## POINTER 1188 [t:1;r:3;ru:maz,parsec,memnoch;user:Dagorat;time:1263066126]
+Lluvia de espadas: Alfa
+
+## POINTER 1190 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262476337]
+Campo guardián
+
+## POINTER 1192 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267966482]
+Hueste de dragón
+
+## POINTER 1194 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262368785]
+Primeros auxilios
+
+## POINTER 1196 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1264958930]
+Lanzas sacras
+
+## POINTER 1198 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1254220153]
+Colmillo del dragón radiante
+
+## POINTER 1200 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262369154]
+Combo normal de 3 golpes
+
+## POINTER 1202 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262369154]
+Combo normal de 2 golpes 1
+
+## POINTER 1204 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262369154]
+Combo normal de 2 golpes 2
+
+## POINTER 1206 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262975709]
+Como bailar
+
+## POINTER 1208 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1264953486]
+Tañido del Apocalipsis
+
+## POINTER 1210 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262975709]
+Comadreja violeta
+
+## POINTER 1212 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262975709]
+Caída
+
+## POINTER 1214 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Viento enfermizo
+
+## POINTER 1216 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Viento cortante
+
+## POINTER 1218 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262975709]
+Arrivederci
+
+## POINTER 1220 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262975709]
+Infierno
+
+## POINTER 1222 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1254219354]
+Estallido cardíaco
+
+## POINTER 1224 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo
+
+## POINTER 1226 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo superior
+
+## POINTER 1228 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Estocada
+
+## POINTER 1230 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo amplio
+
+## POINTER 1232 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo en salto
+
+## POINTER 1234 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo descendente en salto
+
+## POINTER 1236 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Contraataque (secundario)
+
+## POINTER 1238 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo superior (secundario)
+
+## POINTER 1240 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Estocada (secundario)
+
+## POINTER 1242 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Contraataque amplio (secundario)
+
+## POINTER 1244 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1262545440]
+Ataque en movimiento libre
+
+## POINTER 1246 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1262545440]
+Temblor estelar
+
+## POINTER 1248 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267967158]
+Grupo perforador
+
+## POINTER 1250 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1264953486]
+Caballería
+
+## POINTER 1252 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1262545276]
+Vuelta agradable
+
+## POINTER 1254 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1262545276]
+Filo divisor
+
+## POINTER 1256 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1262545396]
+Divisor aéreo
+
+## POINTER 1258 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1262545473]
+Estrellas extremas
+
+## POINTER 1260 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262368827]
+Primeros auxilios
+
+## POINTER 1262 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1264954330]
+Agudeza
+
+## POINTER 1264 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262369198]
+Barrera
+
+## POINTER 1266 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262369198]
+Resistir
+
+## POINTER 1268 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262369198]
+Fotón
+
+## POINTER 1270 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1262545473]
+Círculo curativo
+
+## POINTER 1272 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1262545473]
+Anillo de ángel
+
+## POINTER 1274 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1262545497]
+Enfermera
+
+## POINTER 1276 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo 1
+
+## POINTER 1278 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo 2
+
+## POINTER 1280 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Estocada
+
+## POINTER 1282 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Patada
+
+## POINTER 1284 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Cuchillada
+
+## POINTER 1286 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo 2 -> Tajo 1
+
+## POINTER 1288 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Cuchillada amplia
+
+## POINTER 1290 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262476539]
+Golpe sónico
+
+## POINTER 1292 [t:1;r:3;ru:maz,parsec,memnoch;user:Dagorat;time:1263066126]
+Lluvia de espadas
+
+## POINTER 1294 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Estocada
+
+## POINTER 1296 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Aplastamiento
+
+## POINTER 1298 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo lateral
+
+## POINTER 1300 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Ataque giratorio
+
+## POINTER 1302 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Ataque de cadera
+
+## POINTER 1304 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084034]
+Estocada tempestuosa
+
+## POINTER 1306 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1264954330]
+Estallido destructor
+
+## POINTER 1308 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo
+
+## POINTER 1310 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo superior
+
+## POINTER 1312 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Estocada
+
+## POINTER 1314 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo secundario
+
+## POINTER 1316 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Tajo superior -> Tajo secundario -> Tajo
+
+## POINTER 1318 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Estocada -> Tajo superior
+
+## POINTER 1320 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Colmillo demoníaco
+
+## POINTER 1322 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Doble colmillo demoníaco
+
+## POINTER 1324 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Colmillo demoníaco furioso
+
+## POINTER 1326 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1264954330]
+Estocada sónica
+
+## POINTER 1328 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262476596]
+Espada relámpago
+
+## POINTER 1330 [t:1;r:1;ru:memnoch;user:memnoch;time:1297025080]
+Súper espada relámpago
+
+## POINTER 1332 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1263084034]
+Lanza de luz
+
+## POINTER 1334 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262476362]
+Campo guardián
+
+## POINTER 1336 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262368881]
+Primeros auxilios
+
+## POINTER 1338 [t:1;r:3;ru:maz,parsec,memnoch;user:Maz;time:1264954330]
+Vínculo radiante
+
+## POINTER 1340 [t:1;r:3;ru:maz,parsec,memnoch;user:Dagorat;time:1263071008]
+Filo del horizonte
+
+## POINTER 1342 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Puñetazo
+
+## POINTER 1344 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Elevador
+
+## POINTER 1346 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1262545737]
+Estallido de Dhaos
+
+## POINTER 1348 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262992244]
+Láser de Dhaos
+
+## POINTER 1350 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Asalto cuádruple
+
+## POINTER 1352 [t:1;r:3;ru:maz,parsec,memnoch;user:xander;time:1262996633]
+Hechizo cuádruple
+
+## POINTER 1354 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262476681]
+Maremoto
+
+## POINTER 1356 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262476681]
+Tempestad
+
+## POINTER 1358 [t:1;r:3;ru:maz,parsec,memnoch;user:Lia;time:1262545791]
+Campo de tracción
+
+## POINTER 1360 [t:1;r:3;ru:maz,parsec,memnoch;user:parsec;time:1262476681]
+Meteoritos

@@ -1,0 +1,100 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS30_001)...There's no shade anywhere.
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS30_002)I never imagined it 
+would be this hot...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS30_003)Nobody'd last long out here 
+without the proper supplies.
+
+## POINTER 3
+<STR>(RIT)
+<VOICE>(VS30_004)What's with him? He 
+looks like he's out for 
+a walk in the park.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS30_005)Hey old man... 
+Aren't you hot?
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS30_006)Hot? Heck yeah! 
+I'm sizzling over here! 
+Burnin' right up!
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS30_007)That lousy...
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS30_008)I feel like the temperature 
+goes up every time 
+somebody says the word "hot."
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS30_009)We'll be fine so long as 
+we remember ta keep our 
+water well stocked.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS30_010)Right, the cacti...
+
+## POINTER 10
+<STR>(JUD)
+<VOICE>(VS30_011)The parents of those 
+children are out there with 
+no supplies whatsoever.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS30_012)We do have Phaeroh 
+to look for, but...
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS30_013)Yes... Would it be all right 
+if we took care of Alph and 
+Layla's request first?
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS30_014)U-um, but...
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS30_015)You've more than fulfilled 
+your obligation to me.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS30_016)<STR>(EST_P)...
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS30_017)...Okay then, let's 
+find their parents.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS30_018)Was that Phaeroh?
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS30_019)Then he really is 
+somewhere in the desert!
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS30_020)Settle down. You'll get 
+plenty of attention once 
+we're done helping those kids.

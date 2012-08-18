@@ -1,0 +1,69 @@
+## POINTER 0
+Mimi
+I, I lost...
+
+## POINTER 1
+
+This competition doesn't really 
+mean anything, anyway.
+
+## POINTER 2
+<STR>(EST_P)
+That's right. It doesn't 
+matter to the customers, 
+either.
+
+## POINTER 3
+Mimi
+I feel so pathetic...
+
+## POINTER 4
+<STR>(KAR)
+But you know, it's 
+not like we're here 
+every day working.
+
+## POINTER 5
+
+Right. They're really just 
+here to help out when we 
+need it. Nothing else.
+
+## POINTER 6
+Mimi
+But...we can't both be working for 
+you at the same time, can we?
+
+## POINTER 7
+
+That's not a problem. We've had more 
+customers recently, so we have a bit 
+more money to spare for extra staff.
+
+## POINTER 8
+Mimi
+So you mean I can work here?
+
+## POINTER 9
+
+Right. From now on, 
+you'll be working 
+together with them.
+
+## POINTER 10
+Mimi
+I understand. I'll 
+do my best!<PAGE>I'm sorry. I guess I got a little 
+prideful back there. I hope 
+you won't hold it against me.
+
+## POINTER 11
+<STR>(RAV)
+Don't worry about it, missy! I 
+can't wait ta work next ta a pretty 
+little thing like yerself!
+
+## POINTER 12
+Mimi
+Heh, is that all you've got? Come back 
+when you can give me a real challenge.

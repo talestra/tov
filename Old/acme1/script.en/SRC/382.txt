@@ -1,0 +1,162 @@
+## POINTER 0
+<STR>(EST_P)
+<STR>(YUR), please wake 
+up! <STR>(YUR)...!
+
+## POINTER 1
+<STR>(YUR)
+Huh? Oh... I was really 
+zonked out, huh...
+
+## POINTER 2
+<STR>(RAV)
+Good mornin', sleepyhead... Though it's 
+more "good afternoon" now, ain't it?
+
+## POINTER 3
+<STR>(YUR)
+Oh... Hey, old man.
+You're back...<PAGE>...What about <STR>(KAR)?
+
+## POINTER 4
+<STR>(RAV)
+Haven't seen 'im since 
+I left the Union. I reckon 
+he's still there.
+
+## POINTER 5
+<STR>(EST_P)
+I hope he's okay...
+
+## POINTER 6
+<STR>(RIT)
+Well, old man, since you're back, 
+does that mean everything's 
+settled with the Union?<PAGE>Did you see the Don?
+
+## POINTER 7
+<STR>(RAV)
+Well, about that...<PAGE>As soon as the Don heard what 
+happened with Harry and Nordopolica, 
+he left the Union.
+
+## POINTER 8
+<STR>(YUR)
+By himself? That's not like 
+him. Where did he go?
+
+## POINTER 9
+<STR>(RAV)
+Well--and this is just my intuition, mind ya--<PAGE>I think he's headed for 
+Leviathan's Claw's compound, 
+the Manor of the Wicked.
+
+## POINTER 10
+<STR>(YUR)
+What?!
+
+## POINTER 11
+<STR>(EST_P)
+But Yeager is the head 
+of Leviathan's Claw! 
+That's so dangerous!
+
+## POINTER 12
+<STR>(RAV)
+Well, I don't think Yeager'd try 
+anything against the Don.<PAGE>If they went up against the 
+Union, they could lose all of 
+their business, for one.
+
+## POINTER 13
+<STR>(RIT)
+So why did the Don go out there...
+
+## POINTER 14
+<STR>(RAV)
+...
+
+## POINTER 15
+<STR>(RAV)
+So anyway, I'm sorry, but 
+the Don's left the city.
+
+## POINTER 16
+<STR>(YUR)
+Well then, should we go to Leviathan's 
+Claw's compound?
+
+## POINTER 17
+<STR>(RIT)
+You believe the old 
+man's intuition?
+
+## POINTER 18
+<STR>(YUR)
+If the Don's going up against Leviathan's 
+Claw, we can't very well sit around 
+and twiddle our thumbs.<PAGE>There's no guarantee the 
+scum won't try to attack him.
+
+## POINTER 19
+<STR>(RIT)
+...Well, all right, then. I'm not 
+really one for waiting, anyway.
+
+## POINTER 20
+<STR>(YUR)
+...<STR>(EST_P), will you wait here?
+
+## POINTER 21
+<STR>(EST_P)
+I...I'm going with you.
+
+## POINTER 22
+<STR>(RIT)
+<STR>(EST_P), don't overdo it. Are 
+you sure you're up to this...?
+
+## POINTER 23
+<STR>(EST_P)
+Yes... I'm absolutely 
+fine.
+
+## POINTER 24
+<STR>(RIT)
+<STR>(EST_P)...
+
+## POINTER 25
+<STR>(RAV)
+...So, you all know where 
+the Manor of the Wicked is?
+
+## POINTER 26
+<STR>(YUR)
+I figured you knew, old man. 
+Aren't you coming with us?
+
+## POINTER 27
+<STR>(RAV)
+Well yeah, I guess I am.
+
+## POINTER 28
+<STR>(YUR)
+Well then, it's decided. We'll 
+just go pick up <STR>(KAR), and...
+
+## POINTER 29
+<STR>(YUR)
+What the...?!
+
+## POINTER 30
+<STR>(RIT)
+It sounded from the 
+direction of the bridge...
+
+## POINTER 31
+<STR>(RAV)
+Uh oh...
+
+## POINTER 32
+<STR>(EST_P)
+Let's go and see!

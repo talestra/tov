@@ -1,0 +1,135 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS34_132)Aw, down to your last friend? 
+Why not play with us for a while?
+
+## POINTER 1
+
+<VOICE>(VS34_133)More of Belius' 
+minions, huh?!
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS34_134)W-we're Brave Vesperia!
+
+## POINTER 3
+
+<VOICE>(VS34_135)I don't care how brave you are. Death 
+to those who side with the monsters!
+
+## POINTER 4
+Natz
+<VOICE>(VS34_136)...Oooh.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS34_137)Looks like we got here in time.
+
+## POINTER 6
+Natz
+<VOICE>(VS34_138)You must be a healer.
+You've saved me.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS34_139)Aaah!
+
+## POINTER 8
+Natz
+<VOICE>(VS34_140)Duce!!
+
+## POINTER 9
+Belius
+<VOICE>(VS34_141)Natz. You are unhurt.
+
+## POINTER 10
+Belius
+<VOICE>(VS34_142)You would yet challenge me, humans?!
+
+## POINTER 11
+Clint
+<VOICE>(VS34_143)...Your kind...is the 
+root...of all evil...
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS34_144)The root of evil? 
+Belius? You've got it 
+all wrong. Just...look!
+
+## POINTER 13
+Clint
+<VOICE>(VS34_145)All monsters serve evil...! They 
+must be hunted down... It...it is up 
+to us...to the Hunting Blades...!
+
+## POINTER 14
+<STR>(RAV)
+<VOICE>(VS34_146)These idiots've got rocks for brains!
+
+## POINTER 15
+Tison
+<VOICE>(VS34_147)You...you monsters are all alike...!
+
+## POINTER 16
+Natz
+<VOICE>(VS34_148)Duce!!
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS34_149)I'll heal you!
+
+## POINTER 18
+Belius
+<VOICE>(VS34_150)You mustn't. Your power is...
+
+## POINTER 19
+<STR>(JUD)
+<VOICE>(VS34_151)No!
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS34_152)Wh-what...what can this mean...?
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS34_153)She reacted to <STR>(EST_P)'s 
+formula...? But this is...?
+
+## POINTER 22
+Belius
+<VOICE>(VS34_154)Grraaah!
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VS34_155)I was too late...
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS34_156)What have I done...?
+
+## POINTER 25
+<STR>(RAV)
+<VOICE>(VS34_157)If this keeps up, it'll bring 
+down the coliseum!
+
+## POINTER 26
+<STR>(YUR)
+<VOICE>(VS34_158)Is fighting our 
+only option?!
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VS34_159)B-but there's got to be...!
+
+## POINTER 28
+<STR>(EST_P)
+<VOICE>(VS34_160)I...
+
+## POINTER 29
+<STR>(RIT)
+<VOICE>(VS34_161)<STR>(EST_P)!
+
+## POINTER 30
+<STR>(EST_P)
+<VOICE>(VS34_162)Y...yes...

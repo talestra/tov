@@ -1,0 +1,61 @@
+## POINTER 0
+Home, Sweet Home
+
+## POINTER 1
+(JUD)
+Everyone in the lower quarter 
+is so kind. It makes me miss 
+my hometown a little.
+
+## POINTER 2
+(YUR)
+(JUD_P), isn't your hometown...
+
+## POINTER 3
+(JUD)
+Yes, it's gone.
+
+## POINTER 4
+(RIT)
+Hometowns, hmm... I lived in 
+Aspio, so I can't say I feel 
+too nostalgic about this place.
+
+## POINTER 5
+(KAR)
+Yeah, same with me and Dahngrest...
+
+## POINTER 6
+(EST_P)
+I...I miss the castle 
+every now and then.
+
+## POINTER 7
+(YUR)
+Yeah, you spent a long time there. I'm 
+the same with the lower quarter.
+
+## POINTER 8
+(KAR)
+Where's your hometown, (RAV)?
+
+## POINTER 9
+(RAV)
+Me? Hmmm... Dahngrest, I guess.
+
+## POINTER 10
+(KAR)
+Huh? But you weren't born 
+in Dahngrest, were you?
+
+## POINTER 11
+(RAV)
+Well, if our journey ended now, 
+I'd head back to Dahngrest... 
+So I guess it's my hometown.
+
+## POINTER 12
+(EST_P)
+Maybe our hometown is just the 
+place we'd most like to go back 
+to if we had the choice...

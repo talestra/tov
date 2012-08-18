@@ -1,0 +1,73 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+<STR>(RIT)
+¡¿Qué hacemos con lo de la apátheia?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298496732]
+<STR>(YUR)
+Si tienes tiempo para perder con
+ese hatajo de idiotas, también
+lo tienes para pensar en otro plan.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+<STR>(RIT)
+¿Otro plan?
+¿Te crees que es tan fácil?
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+Harry
+Tomad.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+<STR>(YUR)
+Pero... ¿nos la vas a dar?
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+Harry
+No. En realidad la están robando.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+<STR>(KAR)
+¿Qué quieres decir?
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+<STR>(YUR)
+Te debemos una...
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+Harry
+Largaos de aquí antes de que se
+den cuenta de que ha desaparecido.
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+<STR>(RAV)
+¿A qué debemos tanta generosidá?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298573300]
+Harry
+No lo sé. Tal vez sea porque
+me deja muy mal cuerpo el que
+me sermonee un niño como este.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298573300]
+<STR>(RAV)
+Puede que haya esperanza pa ese chaval, después de tó.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+<STR>(JUD)
+Pues ya tenemos la apátheia.
+¿Y ahora qué?
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+<STR>(RIT)
+La siguiente parada es Zopheir.<PAGE>Voy a usar el aer krene
+inactivo que hay allí.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+<STR>(RAV)
+¿A Zopheir? ¿Vamos a volver ar témpano helao ese?
+¿Sus importa qu'er viejo <STR>(RAV) espere aquín?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286221009]
+<STR>(YUR)
+No irás a decirnos que prefieres que el mundo
+se destruya a pasar frío, ¿no? Venga, arreando.

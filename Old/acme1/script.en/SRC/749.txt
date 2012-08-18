@@ -1,0 +1,19 @@
+## POINTER 0
+<STR>(RIT)
+Do you mind if I step away for a 
+bit? I'd like to talk to the mages 
+here about spirit conversion.
+
+## POINTER 1
+<STR>(YUR)
+Sure, go ahead.
+
+## POINTER 2
+<STR>(RAV)
+All their blastia research 
+might be useless pretty 
+soon anyway...
+
+## POINTER 3
+<STR>(RIT)
+All right, I'll try not to be too long.

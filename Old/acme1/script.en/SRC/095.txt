@@ -1,0 +1,30 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS03_175)This must be it.
+
+## POINTER 1
+<STR>(EST)
+<VOICE>(VS03_176)Is there something special about this statue?
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS03_177)It's supposed to have some sort of secret.
+
+## POINTER 3
+<STR>(EST)
+<VOICE>(VS03_178)It doesn't look like there's anything 
+particularly secretive about it...
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS03_179)Maybe if we moved it, there'd be 
+a hidden passage or something.
+
+## POINTER 5
+<STR>(EST)
+<VOICE>(VS03_180)You don't think...
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS03_181)Well, we won't know unless 
+we give it a try.

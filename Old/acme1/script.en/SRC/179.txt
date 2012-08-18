@@ -1,0 +1,192 @@
+## POINTER 0
+<STR>(RIT)
+<VOICE>(VS15_265)These are all 
+blastia cores!
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS15_266)Why are there so many? And 
+they're all just cores.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS15_267)I have no idea. We don't 
+even have this many at 
+the laboratory!
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS15_268)Could this be connected 
+to the core thief?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS15_269)Could be.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS15_270)But I thought the one behind 
+everything was a huge guy with one 
+eye. That doesn't fit Ragou at all.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS15_271)Then he might not be the only 
+one pulling the strings.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS15_272)I wonder if the core from the lower 
+quarter is here someplace.
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS15_273)Sorry, none of these
+are big enough.
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VS15_274)I knew it. These guys are with 
+the Blood Alliance. They're one 
+of the five master guilds.
+
+## POINTER 10
+
+<VOICE>(VS15_275)Out of my way!
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS15_276)Aaah!
+
+## POINTER 12
+
+<VOICE>(VS15_277)Hah. Was that spineless worm Ragou 
+running from a bunch of kids?
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS15_278)One-eyed giant... So you're the one getting 
+people to bring you all these cores?
+
+## POINTER 14
+
+<VOICE>(VS15_279)Maybe I am...
+
+## POINTER 15
+
+<VOICE>(VS15_280)You're quick and you've got guts, 
+too. My arm's gonna feel that... 
+Wish I had you in my guild.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS15_281)How flattering.
+
+## POINTER 17
+
+<VOICE>(VS15_282)But it's pushy guys like you I have to 
+watch out for. Upsets the harmony of 
+the guild, see? Nothing personal...
+
+## POINTER 18
+Ragou
+<VOICE>(VS15_283)Barbos, what are you waiting 
+for? Dispose of these brats!
+
+## POINTER 19
+Barbos
+<VOICE>(VS15_284)I did all the work you paid me for. Besides, 
+the Knights'll be here soon. Rather not 
+have those guys following me around.
+
+## POINTER 20
+Barbos
+<VOICE>(VS15_285)Next time we meet, you kids won't 
+be getting off so easy.
+
+## POINTER 21
+Ragou
+<VOICE>(VS15_286)Wait! He's still 
+inside...! Damn!
+
+## POINTER 22
+Ragou
+<VOICE>(VS15_287)Zagi...! We'll leave the rest to you!
+
+## POINTER 23
+Zagi
+<VOICE>(VS15_288)Who is it? Who do I 
+get to kill this time...?
+
+## POINTER 24
+<STR>(EST_P)
+<VOICE>(VS15_289)You're the one from the castle!!
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS15_290)Looks like we're stuck with this guy.
+
+## POINTER 26
+Zagi
+<VOICE>(VS15_291)My blade, it aches to...kill... 
+I've got to kill something!
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS15_292)Whoa... Go easy on me this time.
+
+## POINTER 28
+Zagi
+<VOICE>(VS15_293)Graaah!! 
+That hurts...
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS15_294)You put up a good fight.
+
+## POINTER 30
+Zagi
+<VOICE>(VS15_295)...I-I retreated...<PAGE><VOICE>(VS15_296)...Heh heh heh. 
+Mwa hah hah hah hah!!
+
+## POINTER 31
+Zagi
+<VOICE>(VS15_297)You're tough! Yes tough!
+You're definitely tough!
+I certainly won't forget that, <STR>(YUR)!<PAGE><VOICE>(VS15_298)I'm going to kill you, <STR>(YUR)!! 
+Gonna carve you into little pieces! 
+Don't move a muscle...!
+
+## POINTER 32
+Zagi
+<VOICE>(VS15_299)Mwa hah hah hah hah.
+
+## POINTER 33
+<STR>(KAR)
+<VOICE>(VS15_300)What? 
+...It's sinking!
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS15_301)Everyone into the water!
+
+## POINTER 35
+
+<VOICE>(VS15_302)...*Cough*... 
+Is anyone there?
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS15_303)<STR>(YUR)!
+
+## POINTER 37
+<STR>(RIT)
+<VOICE>(VS15_304)<STR>(EST)! No!
+
+## POINTER 38
+<STR>(EST_P)
+<VOICE>(VS15_305)But...but...
+
+## POINTER 39
+<STR>(RIT)
+<VOICE>(VS15_306)Shut up and jump!

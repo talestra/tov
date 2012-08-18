@@ -1,0 +1,89 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS08_500)Hey, I've been wondering... How 
+come you guys--and <STR>(RAP) 
+too, I guess--all have blastia?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS08_501)Aren't bodhi blastia pretty rare? I 
+didn't think many people had them.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS08_502)You have one too, though.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS08_503)I belong to a guild. Sometimes
+we get a chance to get one. <PAGE><VOICE>(VS08_504)And Ruins' Gate keeps finding more. 
+That's a guild that excavates blastia.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS08_505)Huh, there are even guilds that 
+dig up blastia from ruins?
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS08_506)If there weren't, then the empire 
+would control all the blastia. 
+Normal folks wouldn't get any.
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS08_507)"The empire regulates the 
+ancient blastia artifacts due 
+to their potential danger"
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS08_508)I think that makes sense.
+If blastia weren't regulated, 
+anyone could use dangerous magic.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS08_509)But they've way overboard. 
+They have a monopoly.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS08_510)Uh, I don't know about...
+
+## POINTER 10
+<STR>(KAR)
+<VOICE>(VS08_511)So anyway, what's your story? 
+How'd you get yours?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS08_512)I used to be in the Imperial Knights. 
+This was a going-away present.<PAGE><VOICE>(VS08_513)<STR>(RAP) got his as a keepsake 
+of his old owner.
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS08_514)A going-away present? Sounds 
+more like you stole it to me. 
+...So, what about you, <STR>(EST_P)?
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS08_515)Uh, I got mine from, uh...
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS08_516)Look at her. She's a noble.
+They all have these.
+
+## POINTER 15
+<STR>(KAR)
+<VOICE>(VS08_517)I knew you were a noble!
+Well, at least one of you 
+has some class.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS08_518)Yeah, yeah. Let's go 
+get that nia fruit.

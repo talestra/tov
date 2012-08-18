@@ -1,0 +1,40 @@
+## POINTER 0
+<STR>(RIT)
+Argh! I don't believe this! You can't 
+control it from down here...
+
+## POINTER 1
+<STR>(EST_P)
+Ugh!
+
+## POINTER 2
+<STR>(KAR)
+Something smells rank...
+
+## POINTER 3
+<STR>(YUR)
+...Blood, along with something 
+else? It smells rotten.
+
+## POINTER 4
+<STR>(YUR)
+I wonder if he's into raising monsters, too.
+
+## POINTER 5
+<STR>(RIT)
+Could be. He had Rhybgaro, after all.
+
+## POINTER 6
+
+Pa...pa, Ma... 
+Help me...!
+
+## POINTER 7
+<STR>(KAR)
+Agh, what was that? 
+What is this place?!
+
+## POINTER 8
+<STR>(EST_P)
+It sounds like someone's 
+there! Let's go!

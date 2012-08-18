@@ -1,0 +1,353 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS44_058)What in the...?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VS44_059)The Royal Guard have 
+been taken out...
+
+## POINTER 2
+Zagi
+<VOICE>(VS44_060)You know how I hate 
+waiting, <STR>(YUR) Lowell!
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS44_061)You were the one who 
+wiped out all these people.
+
+## POINTER 4
+Zagi
+<VOICE>(VS44_062)I don't want anybody 
+else getting in my way.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS44_063)We've got no time 
+to play with you.<PAGE><VOICE>(VS44_064)Where's Alexei? Where's 
+he taken <STR>(EST_P)?
+
+## POINTER 6
+Zagi
+<VOICE>(VS44_065)Heh heh heh. He's not 
+here! He was never 
+even here to begin with.
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS44_066)What?!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS44_067)Dammit! Alexei, you bastard! 
+So he was just using this 
+behemoth as a decoy...
+
+## POINTER 9
+<STR>(RAV)
+<VOICE>(VS44_068)Heh, gotta hand it to him... 
+He drew the Knights and 
+all of us to Heracles...<PAGE><VOICE>(VS44_069)Meanwhile, he slips 
+out the back...
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS44_070)Man, just when I 
+thought I couldn't 
+hate that guy any more.
+
+## POINTER 11
+Zagi
+<VOICE>(VS44_071)Hey! Hold on a minute! 
+Aren't you forgetting 
+someone?!<PAGE><VOICE>(VS44_072)Shut up! Let's get 
+this party started!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS44_073)I hate having to repeat 
+myself. We've got no time 
+for you, so take a walk!<PAGE><VOICE>(VS44_074)If you wanna get in our 
+way, you'd better be 
+ready to hit the ground.
+
+## POINTER 13
+Zagi
+<VOICE>(VS44_075a)Hah hah hah...
+Good, <STR>(YUR)...<PAGE><VOICE>(VS44_075b)Hate me! Come on!
+Hate me!<PAGE><VOICE>(VS44_076)There is no finer spice in 
+all the world! Hah hah hah!
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS44_077)... Is he just getting in our 
+way to make us angry?
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS44_078)He's hopeless.
+
+## POINTER 16
+Zagi
+<VOICE>(VS44_079)Now...let us finish 
+this, <STR>(YUR) Lowell!
+
+## POINTER 17
+Zagi
+<VOICE>(VS44_080)Urgh! Heh...
+You're awesome...
+Yuuuuriiii!
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS44_081)You've got dependency 
+issues, you know that? 
+Enough is enough!
+
+## POINTER 19
+Zagi
+<VOICE>(VS44_082)Ugh!
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS44_083)<STR>(RIT)!
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS44_084)I'm on it!
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS44_085)There... Done!
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VS44_086)...It stopped.
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VS44_087)That's our genius mage.
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS44_088)<STR>(FRE) should be able 
+to commandeer 
+Heracles now.
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS44_089)...<STR>(EST_P)... Where have 
+they taken you?
+
+## POINTER 27
+<STR>(KAR)
+<VOICE>(VS44_090)<STR>(RIT)...
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VS44_091)She's nothing 
+more than a 
+tool to Alexei!<PAGE><VOICE>(VS44_092)If he keeps 
+forcing <STR>(EST_P) to 
+use her power...<PAGE><VOICE>(VS44_093)She could really 
+unleash the Adephagos!
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS44_094)Not on our watch.<PAGE><VOICE>(VS44_095)That's what we're 
+here for, right?
+
+## POINTER 30
+<STR>(JUD)
+<VOICE>(VS44_096)We don't have a 
+moment to lose.<PAGE><VOICE>(VS44_097)Heracles must be 
+using a Hermes 
+blastia too.<PAGE><VOICE>(VS44_098)That's the only thing 
+that could power 
+something this big.
+
+## POINTER 31
+<STR>(KAR)
+<VOICE>(VS44_099)We've gotta find 
+Alexei, fast!
+
+## POINTER 32
+<STR>(JUD)
+<VOICE>(VS44_100)Ba'ul can help us 
+follow the disturbance 
+in the aer.<PAGE><VOICE>(VS44_101)If <STR>(EST_P) is being 
+forced to use her 
+power, we will find her.
+
+## POINTER 33
+<STR>(YUR)
+<VOICE>(VS44_102)All right...
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS44_103)Gaah!
+
+## POINTER 35
+<STR>(KAR)
+<VOICE>(VS44_104)Uaah!
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS44_105)Aah!
+
+## POINTER 37
+<STR>(RAV)
+<VOICE>(VS44_106)Whoa!
+
+## POINTER 38
+<STR>(JUD)
+<VOICE>(VS44_107)Oh!
+
+## POINTER 39
+<STR>(RAP)
+<VOICE>(VS44_108)Aroo!
+
+## POINTER 40
+Zagi
+<VOICE>(VS44_109)Haah hah! Yuuri! 
+This isn't over yet!
+
+## POINTER 41
+<STR>(RIT)
+<VOICE>(VS44_110)The control panel!
+
+## POINTER 42
+<STR>(RAV)
+<VOICE>(VS44_111)...We're movin' again!
+
+## POINTER 43
+Zagi
+<VOICE>(VS44_112)Hah hah hah hah! <STR>(YUR)! 
+Come fly with me!
+
+## POINTER 44
+<STR>(YUR)
+<VOICE>(VS44_113)Argh... 
+My body...
+
+## POINTER 45
+<STR>(KAR)
+<VOICE>(VS44_114)It's no use... We can't treat 
+everyone at once without 
+<STR>(EST_P)'s healing artes
+
+## POINTER 46
+<STR>(JUD)
+<VOICE>(VS44_115)We can't let it 
+end here...!
+
+## POINTER 47
+Zagi
+<VOICE>(VS44_116a)Ahh, yes! That's wonderful!<PAGE><VOICE>(VS44_116b)Let's do it!
+
+## POINTER 48
+Zagi
+<VOICE>(VS44_117)Oof!
+
+## POINTER 49
+Zagi
+<VOICE>(VS44_118)Aaaaaaagh!
+
+## POINTER 50
+Yeager
+<VOICE>(VS44_119)Oh ho ho. What a lovely 
+little scream he made.
+
+## POINTER 51
+<STR>(YUR)
+<VOICE>(VS44_120)Yeager! What's going on?!
+
+## POINTER 52
+Yeager
+<VOICE>(VS44_121)It would be very bad, yes very bad 
+for business indeed, if the empire 
+got too big for its britches.
+
+## POINTER 53
+Gauche
+<VOICE>(VS44_122)Alexei has gone to Zaphias.
+
+## POINTER 54
+Droite
+<VOICE>(VS44_123)The Sword Stair of Zaphias 
+has a secret, you know.
+
+## POINTER 55
+Yeager
+<VOICE>(VS44_124)I thought for sure that 
+he'd need Dein Nomos 
+to use as a key.<PAGE><VOICE>(VS44_125)Ja, but it looks like he's 
+planning to use your 
+little Princess instead.
+
+## POINTER 56
+<STR>(RIT)
+<VOICE>(VS44_126)What?!
+
+## POINTER 57
+<STR>(JUD)
+<VOICE>(VS44_127)It doesn't look like now is 
+a good time to discuss this.
+
+## POINTER 58
+<STR>(RAV)
+<VOICE>(VS44_128)Man, this isn't good. At this 
+rate we're gonna flatten 
+the lower quarter of Zaphias.
+
+## POINTER 59
+<STR>(YUR)
+<VOICE>(VS44_129)<STR>(RIT)!
+
+## POINTER 60
+<STR>(RIT)
+<VOICE>(VS44_130)It's no good! This 
+thing is totalled!
+
+## POINTER 61
+<STR>(KAR)
+<VOICE>(VS44_131)We just have to
+cut its power!
+
+## POINTER 62
+Yeager
+<VOICE>(VS44_132)I wish you the best 
+of luck with that! 
+So...toodles!
+
+## POINTER 63
+<STR>(KAR)
+<VOICE>(VS44_133)Hey, wait!
+
+## POINTER 64
+<STR>(YUR)
+<VOICE>(VS44_134)Yeager. Just what 
+is it he's after?
+
+## POINTER 65
+<STR>(JUD)
+<VOICE>(VS44_135)Let's think about that 
+later. Right now we've 
+got to stop Heracles.
+
+## POINTER 66
+<STR>(YUR)
+<VOICE>(VS44_136)I know. Let's go find 
+the engine room.
+
+## POINTER 67
+<STR>(KAR)
+<VOICE>(VS44_137)Yeager... You won't get 
+off the hook next time!
+
+## POINTER 68
+<STR>(RAV)
+<VOICE>(VS44_138)No one gets Yeager but 
+me. Not even the boss 
+of Brave Vesperia.

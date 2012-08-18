@@ -1,0 +1,100 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298236576]
+<STR>(YUR)
+<VOICE>(VS15_042)Je. La verdad es que estaba a punto de ponerse feo...
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272364855]
+<STR>(FRE)
+<VOICE>(VS15_043)Muy bien...
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272364855]
+<STR>(YUR)
+<VOICE>(VS15_044)¡Oye, espera! 
+¡¿Qué mosca te ha picado?!
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272364855]
+<STR>(FRE)
+<VOICE>(VS15_045)<STR>(YUR), me alegro de que por fin
+estés viendo el mundo de más allá
+de la barrera.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272364855]
+<STR>(YUR)
+<VOICE>(VS15_046)¡Pues ya podrías alegrarte un poquito más, oye!
+¡Y para ya de zurrarme con ese chisme!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298236576]
+<STR>(FRE)
+<VOICE>(VS15_047)¡Es que se me pasó un poco
+la alegría en cuanto vi esto!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272797647]
+<STR>(YUR)
+<VOICE>(VS15_048)¡Eh! La han aumentado a 10.000 gald.
+No está mal.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272365025]
+<STR>(FRE)
+<VOICE>(VS15_049)Cuando dimitiste de los Caballeros no esperaba
+que empezaras una vida como criminal.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272364855]
+<STR>(YUR)
+<VOICE>(VS15_050)Han ocurrido muchas cosas, <STR>(FRE). 
+No es tan sencillo.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272364855]
+<STR>(FRE)
+<VOICE>(VS15_051)Sencillo o no,
+un crimen es un crimen.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272365025]
+<STR>(YUR)
+<VOICE>(VS15_052)Me alegra ver que sigues siendo igual
+de terco. Yo... Oh, oh...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298236576]
+<STR>(EST_P)
+<VOICE>(VS15_053)<STR>(YUR), me ha parecido oír
+algo. Estás bi...
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272364855]
+<STR>(YUR)
+<VOICE>(VS15_054)Justo a tiempo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298236576]
+<STR>(EST_P)
+<VOICE>(VS15_055)¡<STR>(FRE)!
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298236576]
+<STR>(FRE)
+<VOICE>(VS15_056)¿Eh?
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272365025]
+<STR>(EST_P)
+<VOICE>(VS15_057)Oh, <STR>(FRE). 
+¿Estás bien? 
+¿Te han herido?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1287439284]
+<STR>(FRE)
+<VOICE>(VS15_058)E-Estoy bien...
+Mm, mi señora <STR>(EST)...
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272364855]
+<STR>(EST_P)
+<VOICE>(VS15_059)¡Oh! Lo siento. Es que estoy
+muy contenta de verte, yo...
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272364855]
+<STR>(FRE)
+<VOICE>(VS15_060)Por aquí, por favor.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272364855]
+<STR>(EST_P)
+<VOICE>(VS15_061)¿Qué? Ah, pero... ¡<STR>(FRE),
+tengo que contarte algo!
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1272364855]
+<STR>(YUR)
+<VOICE>(VS15_062)Será mejor que busque
+a <STR>(KAR) y <STR>(RIT).

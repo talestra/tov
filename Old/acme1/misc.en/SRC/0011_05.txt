@@ -1,0 +1,317 @@
+## POINTER 690
+Serpent Staff
+
+## POINTER 691
+Staff made in the image of a giant serpent.
+Powerful enough for a sorcerer to protect oneself.
+
+## POINTER 693
+Shakujo
+
+## POINTER 694
+A staff with metal rings attached at the tip. Sounds of
+the rings drive away beasts and keeps one safe on a journey.
+
+## POINTER 696
+Full Metal Staff
+
+## POINTER 697
+A staff simply made from metal.
+A perfect weapon for striking targets.
+
+## POINTER 699
+Dragon Tooth
+
+## POINTER 700
+A spear using a dragon's tooth as its spearhead.
+Its strike is just like a dragon's bite.
+
+## POINTER 702
+Hanuman's Staff
+
+## POINTER 703
+A staff belonging to the monkey god. Light, yet
+durable, it is a mighty weapon if handled well.
+
+## POINTER 705
+Hanuman's Staff +1
+
+## POINTER 706
+A staff belonging to the monkey god. Light, yet
+durable, it is a mighty weapon if handled well.
+
+## POINTER 708
+Hanuman's Staff +2α
+
+## POINTER 709
+A staff belonging to the monkey god. Light, yet
+durable, it is a mighty weapon if handled well.
+
+## POINTER 711
+Hanuman's Staff +2β
+
+## POINTER 712
+A staff belonging to the monkey god. Light, yet
+durable, it is a mighty weapon if handled well.
+
+## POINTER 714
+Forte Staff
+
+## POINTER 715
+A staff once owned by a renowned sorcerer.
+It can also be used for striking.
+
+## POINTER 717
+Forte Staff +1α
+
+## POINTER 718
+A staff once owned by a renowned sorcerer.
+It can also be used for striking.
+
+## POINTER 720
+Forte Staff +1β
+
+## POINTER 721
+A staff once owned by a renowned sorcerer.
+It can also be used for striking.
+
+## POINTER 723
+Unicorn Horn
+
+## POINTER 724
+It is said that the horn was collected from a sea monster.
+The spear holds a mystic power.
+
+## POINTER 726
+Unicorn Horn +1α
+
+## POINTER 727
+It is said that the horn was collected from a sea monster.
+The spear holds a mystic power.
+
+## POINTER 729
+Unicorn Horn +1β
+
+## POINTER 730
+It is said that the horn was collected from a sea monster.
+The spear holds a mystic power.
+
+## POINTER 732
+Caduceus
+
+## POINTER 733
+A staff used to pass on oracles.
+The blue glowing staff brings good news.
+
+## POINTER 735
+Caduceus +1
+
+## POINTER 736
+A staff used to pass on oracles.
+The blue glowing staff brings good news.
+
+## POINTER 738
+Deck Brush
+
+## POINTER 739
+A brush used to clean the deck plate.
+Hitting with the corner hurts... Hey, don't play around with it!
+
+## POINTER 741
+Mace
+
+## POINTER 742
+A simple weapon capable of inflicting fatal 
+damage even against armored foes.
+
+## POINTER 744
+Wand
+
+## POINTER 745
+A short wand that helps with concentration.
+Some carry it around as a charm.
+
+## POINTER 747
+Morning Star
+
+## POINTER 748
+Simple, yet powerful. A single attack can
+tear one's flesh and crush one’s bones.
+
+## POINTER 750
+Morning Star +1
+
+## POINTER 751
+Simple, yet powerful. A single attack can
+tear one's flesh and crush one’s bones.
+
+## POINTER 753
+Wizard Horn
+
+## POINTER 754
+A horn that saved legendary wizards several times.
+Made of metal, it can also be used as a weapon.
+
+## POINTER 756
+Wizard Horn +1α
+
+## POINTER 757
+A horn that saved legendary wizards several times.
+Made of metal, it can also be used as a weapon.
+
+## POINTER 759
+Wizard Horn +1β
+
+## POINTER 760
+A horn that saved legendary wizards several times.
+Made of metal, it can also be used as a weapon.
+
+## POINTER 762
+Ruby Wand
+
+## POINTER 763
+A wand with a shining red gem attached.
+Holding this wand will inspire the owner.
+
+## POINTER 765
+Ruby Wand +1α
+
+## POINTER 766
+A wand with a shining red gem attached.
+Holding this wand will inspire the owner.
+
+## POINTER 768
+Ruby Wand +1β
+
+## POINTER 769
+A wand with a shining red gem attached.
+Holding this wand will inspire the owner.
+
+## POINTER 771
+Grand Scepter
+
+## POINTER 772
+A pike made from blessed metal. Heavier than
+it looks, it inflicts great damage on targets.
+
+## POINTER 774
+Grand Scepter +1α
+
+## POINTER 775
+A pike made from blessed metal. Heavier than
+it looks, it inflicts great damage on targets.
+
+## POINTER 777
+Grand Scepter +1β
+
+## POINTER 778
+A pike made from blessed metal. Heavier than
+it looks, it inflicts great damage on targets.
+
+## POINTER 780
+Star Rod
+
+## POINTER 781
+A star-shaped rod. It brings a calm
+state of mind and concentration to the owner.
+
+## POINTER 783
+Star Rod +1
+
+## POINTER 784
+A star-shaped rod. It brings a calm
+state of mind and concentration to the owner.
+
+## POINTER 786
+BC Rod
+
+## POINTER 787
+A rod with a glowing blue crystal.
+"Blue Crystal Rod"is the full name.
+
+## POINTER 789
+Energy Wand
+
+## POINTER 790
+An experimental weapon designed to shoot
+compressed force. A strong mind results in a more powerful attack.
+
+## POINTER 792
+Cat Teaser
+
+## POINTER 793
+A small wand that can drive your cat crazy.
+Makes your cat want to hunt.
+
+## POINTER 795
+Rod
+
+## POINTER 796
+A rod made with care and blessed to protect
+travelers. The tip resembles a small pike.
+
+## POINTER 798
+Rod +1
+
+## POINTER 799
+A rod made with care and blessed to protect
+travelers. The tip resembles a small pike.
+
+## POINTER 801
+Comet Light
+
+## POINTER 802
+A magical rod that will make one’s wish come true.
+Swing the rod and transform yourself!
+
+## POINTER 804
+Sash
+
+## POINTER 805
+Made of fiber with high aer conductivity.
+It can be stretched by controlling the aer pressure.
+
+## POINTER 807
+Sash +1
+
+## POINTER 808
+Made of fiber with high aer conductivity.
+It can be stretched by controlling the aer pressure.
+
+## POINTER 810
+Scarf
+
+## POINTER 811
+Made from the wool of sheep living in an area
+with dense aer. Keeps you very warm.
+
+## POINTER 813
+Scarf +1
+
+## POINTER 814
+Made from the wool of sheep living in an area
+with dense aer. Keeps you very warm.
+
+## POINTER 816
+King Sized Belt
+
+## POINTER 817
+A belt of unbelievable size.
+Applying aer makes it even larger..
+
+## POINTER 819
+King Sized Belt +1
+
+## POINTER 820
+A belt of unbelievable size.
+Applying aer makes it even larger..
+
+## POINTER 822
+Endless Heart
+
+## POINTER 823
+Decorated with a heart-shaped floral pattern.
+The dye used contains a substance that conducts aer.
+
+## POINTER 825
+Endless Heart +1

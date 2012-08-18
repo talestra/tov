@@ -1,0 +1,24 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1294855078]
+<STR>(KAR)
+Agh...
+¡Nos hemos
+caído!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1294855078]
+<STR>(YUR)
+Joer...
+Ya podrían hacer estos caminos
+un poco más anchos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296958272]
+<STR>(JUD)
+Probablemente sea una medida disuasoria.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296958272]
+<STR>(RIT)
+Ajá... No me extraña
+que esto esté tan oscuro.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1294855078]
+<STR>(YUR)
+Vayamos con cuidado para no volvernos a caer.

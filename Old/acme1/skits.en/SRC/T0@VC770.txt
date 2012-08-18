@@ -1,0 +1,43 @@
+## POINTER 0
+The City of Guilds, Dahngrest
+
+## POINTER 1
+(EST_P)
+Dahngrest has a very different atmosphere 
+from the capital, doesn't it?
+
+## POINTER 2
+(EST_P)
+The city seems so energetic. Everyone 
+here is so full of life!
+
+## POINTER 3
+(KAR)
+Of course! It's the largest guild city. Everyone 
+lives according to their own principles.
+
+## POINTER 4
+(KAR)
+Do you like Dahngrest, (EST_P)?
+
+## POINTER 5
+(EST_P)
+Yes, I think it's lovely.
+
+## POINTER 6
+(KAR)
+What about you, (YUR)?
+
+## POINTER 7
+(YUR)
+Mm? I think it'd be a really great city 
+if the barrier wasn't crapping out.
+
+## POINTER 8
+(KAR)
+(YUR), will you please let that go?
+
+## POINTER 9
+(YUR)
+I'm kidding! The city's not bad at all. It 
+even feels kind of like the lower quarter.

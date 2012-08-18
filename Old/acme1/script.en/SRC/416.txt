@@ -1,0 +1,63 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS39_001)This is the Egothor 
+Forest, a holy place for 
+the Krityan people.
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS39_002)Huh, it's nicer here 
+than I imagined. 
+Not a bad spot at all.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS39_003)Whoa, really? I thought 
+you liked being cooped up 
+in cold, dark labs and stuff...
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS39_004)...I wish I could have seen 
+it in its original state.
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS39_005)...That must be the blastia 
+the mystery group 
+brought with them.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS39_006)But that's a hoplon blastia...
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS39_007)What do you mean 
+by "mystery group?"
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS39_008)We weren't able to 
+get any details...<PAGE><VOICE>(VS39_009)But Tort said he'd tell us 
+how to get to Myorzo if we 
+did something about them.
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS39_010)Would "doing something" 
+include smashing that thing?
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS39_011)I wonder. I suppose we could 
+if there were no complaints.
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS39_012)I'll fix it so there's no 
+need for you to break it.
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS39_013)Oh? I'll leave it to you, then.

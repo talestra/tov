@@ -1,0 +1,93 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS11_500)This is my first time 
+going inside ruins...
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS11_501)Be careful over there. It's slippery.
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS11_502)What are you looking at?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS11_503)I was just surprised. You're 
+actually a nice person.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS11_504)*Sigh* I knew it would be 
+a pain to bring you along.<PAGE><VOICE>(VS11_505)I should've just 
+come by myself...
+
+## POINTER 5
+<STR>(EST_P)
+<VOICE>(VS11_506)Do you always come to 
+research these ruins alone?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS11_507)Yeah.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS11_508)Aren't you afraid you'll get 
+hurt by monsters or traps?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS11_509)There are always risks 
+if you're trying to 
+actually do something.<PAGE><VOICE>(VS11_510)If someone gets hurt, it's 
+an acceptable loss.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS11_511)Even if you're the one who gets hurt?
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS11_512)Yeah.
+
+## POINTER 11
+<STR>(EST_P)
+<VOICE>(VS11_513)Don't you ever 
+worry or hesitate?
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS11_514)Worrying about getting what you 
+want without anyone getting hurt? 
+You've had a pretty easy life.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS11_515)An easy life...
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS11_516)And blastia will never
+betray me. So they're 
+easy to deal with.
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS11_517)<STR>(RIT)'s amazing! She just comes right 
+out and says what she has to say.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS11_518)She knows exactly what's 
+important to her.
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS11_519)I wish I knew what was 
+important to me...
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS11_520)Just travel around for a while. 
+You'll figure it out.

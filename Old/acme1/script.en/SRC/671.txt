@@ -1,0 +1,54 @@
+## POINTER 0
+<STR>(RAV)
+You kids have a nice chat?
+
+## POINTER 1
+<STR>(KAR)
+<STR>(RAV), were you waiting 
+for us outside?
+
+## POINTER 2
+<STR>(RAV)
+Yeah, I didn't wanna butt in 
+on two old friends catchin' up. 
+Wouldn't be right, ya know.
+
+## POINTER 3
+<STR>(RIT)
+That's unusually considerate 
+of you, old man.
+
+## POINTER 4
+<STR>(EST_P)
+I didn't expect to hear you talking 
+so happily about your time in 
+the Imperial Knights, <STR>(YUR).
+
+## POINTER 5
+<STR>(YUR)
+Oh yeah?
+
+## POINTER 6
+<STR>(EST_P)
+I mean, it seemed to me like 
+you didn't enjoy your time 
+as a knight very much.
+
+## POINTER 7
+<STR>(YUR)
+Joining them was a 
+decision I made myself.<PAGE>It's not all bad memories. Practice 
+wasn't so bad, and I had all sorts of fun 
+with my fellow knights-in-training.
+
+## POINTER 8
+<STR>(RIT)
+From the way that knight was 
+talking, it sounds like you acted like 
+a crazy and rambunctious kid.
+
+## POINTER 9
+<STR>(YUR)
+<STR>(RIT), if there's one person who 
+doesn't need to be scolding me for a 
+little youthful indiscretion, it's you.

@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:amarintia,memnoch;user:evilluendas;time:1251668495]
+(RAV)
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297110833]
+(RIT)
+¡Oye! ¡Tráeme a ese asqueroso
+de (RAV) ahora mismo!
+
+## POINTER 2 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329334]
+(YUR)
+¿Eh? ¿Por qué tengo que hacerlo yo?
+
+## POINTER 3 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329334]
+(RIT)
+Sois amigos, ¿no?
+
+## POINTER 4 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1266106892]
+(YUR)
+¡Pero si ya lo he dicho!
+¡Apenas lo conozco!
+
+## POINTER 5 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1266106892]
+(RIT)
+¿Ah, sí? Lo conociste en la cárcel, ¿no?
+¡A mí eso me huele a chamusquina!
+
+## POINTER 6 [t:1;r:2;ru:amarintia,memnoch;user:xander;time:1266106892]
+(YUR)
+Eso no voy a discutírtelo...
+
+## POINTER 7 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329334]
+(EST_P)
+Creo que es un poco raro,
+pero no me parece un mal tipo.
+
+## POINTER 8 [t:1;r:2;ru:amarintia,memnoch;user:Amarintia;time:1266329334]
+(KAR)
+Tampoco creo que sea especialmente bueno...

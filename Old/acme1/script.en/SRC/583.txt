@@ -1,0 +1,50 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VA013_024)Hey, are we really gonna 
+take this with us?
+
+## POINTER 1
+<STR>(KAR)
+<VOICE>(VA013_025)Of course! I mean, 
+it's the job we 
+were given.<PAGE><VOICE>(VA013_026)And you saw how much the client 
+wanted this Everlight.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VA013_027)Yeah, but why was that monster 
+so interested in it?
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VA013_028)Ba'ul should be able to outfly 
+him. Right, <STR>(JUD)?
+
+## POINTER 4
+<STR>(JUD)
+<VOICE>(VA013_029)Of course.<PAGE><VOICE>(VA013_030)But that's not really 
+the issue here, is it?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA013_031)No, I just wonder if it's really okay to carry 
+off something that seems so important?
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VA013_032)Nobis trusted us to 
+do this job for him.<PAGE><VOICE>(VA013_033)I want to take this back to him. I 
+think it's the right thing to do.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VA013_034)Well, if you put it like that...
+
+## POINTER 8
+<STR>(JUD)
+<VOICE>(VA013_035)Maybe we should just ask the client 
+what he'd like us to do?
+
+## POINTER 9
+<STR>(KAR)
+<VOICE>(VA013_036)Yeah, let's do that.

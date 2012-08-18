@@ -1,0 +1,154 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1271944005]
+
+<VOICE>(VS14_500)¡Oiga, oiga! 
+¡No se permite personal ajeno!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+<STR>(RIT)
+<VOICE>(VS14_501)¡Dejadme pasar! 
+Soy <STR>(RIT) Mordio, del Laboratorio
+Imperial de Investigación de Blastias.
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1271944005]
+
+<VOICE>(VS14_502)Oh, ¿es usted una maga de Aspio? 
+¡Le pido disculpas!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272639228]
+
+<VOICE>(VS14_503)Oh, ¡pero tampoco puede
+hacer lo que le plazca!
+Deje que vaya a preguntar a...
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272639228]
+<STR>(YUR)
+<VOICE>(VS14_504)Je. Me vendría bien
+tener algo de su actitud.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+<STR>(EST_P)
+<VOICE>(VS14_505)Creo que ya tienes de sobra.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220200]
+<STR>(KAR)
+<VOICE>(VS14_506)¡Eh! ¡Escuchad esto!<PAGE><VOICE>(VS14_507)¡Fue como un «bang»! ¡Una lanza hizo «ploc»!
+¡El blastia hizo «kabum»! ¡Y él se marchó
+volando con un «fuussh»!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+<STR>(YUR)
+<VOICE>(VS14_508)¿Quién, qué, cómo, cuándo?... ¿Eing?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+<STR>(KAR)
+<VOICE>(VS14_509)¡Alguien que montaba sobre un dragón<PAGE><VOICE>(VS14_510)arrojó una lanza gigante contra el blastia!<PAGE><VOICE>(VS14_511)¡Y después este voló por los aires!
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1271944005]
+<STR>(YUR)
+<VOICE>(VS14_512)¿Un humano montando sobre un dragón?
+¡Venga ya!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+<STR>(EST_P)
+<VOICE>(VS14_513)Nunca había oído nada parecido.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220200]
+<STR>(KAR)
+<VOICE>(VS14_514)Yo también he pensado eso, ¡pero
+varios testigos vieron cómo ocurrió!
+<PAGE><VOICE>(VS14_515)Dicen que era un «jinete de dragones».
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+<STR>(YUR)
+<VOICE>(VS14_516)Un jinete de dragones... Mmm.
+Sí que está lleno de sorpresas el mundo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+<STR>(RIT)
+<VOICE>(VS14_517)¡Oye! ¡¿Qué creéis que
+estáis haciendo?! ¡Soltadme!
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1271944005]
+<STR>(KAR)
+<VOICE>(VS14_518)Ya estamos otra vez.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+<STR>(RIT)
+<VOICE>(VS14_519)¡A esta fórmula blastia
+le pasa algo la mar de raro!
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1271944005]
+
+<VOICE>(VS14_520)No le pasa nada de nada.
+Quizá usted...
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272639228]
+<STR>(RIT)
+<VOICE>(VS14_521)¡¿Quién narices te crees que soy?!
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+
+<VOICE>(VS14_522)Soy plenamente consciente de quién es usted. 
+La famosa maga prodigio, ¿me equivoco?
+<PAGE><VOICE>(VS14_523)¡Pero tiene que haber fórmulas
+con las que ni siquiera usted
+esté familiarizada!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220200]
+<STR>(RIT)
+<VOICE>(VS14_524)
+¡No podéis usar de esa forma una fórmula
+extraña! ¡Pensad en el pobre blastia!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+
+<VOICE>(VS14_525)¡E-Eh! ¡Dejad de mirar
+como pasmarotes y ayudadnos
+a retenerla!
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1304724162]
+<STR>(KAR)
+<VOICE>(VS14_526)¡Fuego! Eh, ¡fueeeeego!
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1271944005]
+
+<VOICE>(VS14_527)¿Qué le pasa a ese niño?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+
+<VOICE>(VS14_528)¿Fuego? Yo no oigo ni huelo
+nada por el estilo...
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272639228]
+
+<VOICE>(VS14_529)¡Oye, mentirosete!
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1271944005]
+<STR>(KAR)
+<VOICE>(VS14_530)Porras... ¿Tanto se me ha notado?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+
+<VOICE>(VS14_531)¡Eh! Tú estás
+con ese niño.<PAGE><VOICE>(VS14_532)Un momento... ¡Tú... estás en la lista de lo más buscados!
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1271944005]
+<STR>(YUR)
+<VOICE>(VS14_533)Ahora o nunca...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+
+<VOICE>(VS14_534)¡Aagh, seréis...! ¡Alto!
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1271944005]
+<STR>(EST_P)
+<VOICE>(VS14_535)Lo siento.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+
+<VOICE>(VS14_536)¡Eh! ¡Deja de hacer el tonto
+y ayuda a atrapar a ese crío!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298220104]
+
+<VOICE>(VS14_537)¡Maldita sea!

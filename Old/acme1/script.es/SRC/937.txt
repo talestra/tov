@@ -1,0 +1,30 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1295173864]
+
+¡Eh, tú! ¡El de ahí! ¿Estás
+al tanto de todas las cosas
+que pasan en el mundo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956592]
+
+¡Aquí, estoy aquí! ¡Soy
+el Periodista Maravillas!<PAGE>¡Te traigo artículos diarios
+sobre lo que más te interesa!<PAGE>¿Lees el periódico cada mañana? ¿Con el café?
+¿Con churros? ¿No? ¡Pues muy mal!<PAGE>¿Qué acontecimiento épico habrá
+ocurrido hoy? ¡No te lo vas a creer!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956592]
+Periodista Maravillas
+¡Puedes leerlo cuando y donde
+quieras, sin ningún esfuerzo!
+¡Sí, es el Registro Maravillas!<PAGE>Y por cierto... el hecho de que yo sea una
+pared será nuestro secretito, ¿vale? ☆<PAGE>¡Muy bien, adiós!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1295173864]
+<STR>(YUR)
+¿...?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296956592]
+Información
+Con el Registro Maravillas
+puedes acceder a la Sinopsis a
+través de la Biblioteca del Menú.

@@ -1,0 +1,64 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1280424612]
+<STR>(EST_P)
+Maestro...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1294366406]
+Drake
+Creo que ya os advertí de 
+la importancia de todos y 
+cada uno de vuestros actos.<PAGE>Aun así, insistís en actuar 
+precipitadamente, guiándoos 
+por vuestras emociones.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294367622]
+<STR>(EST_P)
+Durante mi viaje he comprendido que los altos cargos
+de la sociedad deben observar el mundo en su plenitud,
+y no distraerse solo por lo que tienen delante.<PAGE>A eso se refería,
+¿verdad, maestro?<PAGE>Pero no puedo decidir qué
+es importante mientras
+ignore todo lo que veo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1294367622]
+Drake
+No lo estáis haciendo como deberíais.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1280424612]
+<STR>(EST_P)
+Sí, lo sé...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1294367622]
+Drake
+Sin embargo, como Princesa,
+debéis hacer lo que creáis 
+que es correcto.<PAGE>No tengo derecho a interponerme en
+el camino que habéis decidido seguir.
+
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:miyu;time:1280424612]
+<STR>(EST_P)
+Maestro...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1294367622]
+Drake
+No quería escuchar la «respuesta correcta». 
+Quería escuchar vuestra opinión, verdadera 
+y firme de lo que es correcto.<PAGE>Unos ojos llenos de determinación,
+gracia y orgullo; esa es la prueba de
+que uno pertenece a la familia real.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:miyu;time:1280424612]
+Drake
+Hija de la Luna Llena, seguid 
+siempre a vuestro corazón.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1294366406]
+<STR>(EST_P)
+Sí. Muchas gracias,
+maestro.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:miyu;time:1280424612]
+Drake
+Aún os quedan muchas
+cosas por hacer.
+Daos prisa, por favor.

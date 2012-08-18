@@ -1,0 +1,37 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1252088096]
+Cómo se siente Phaeroh
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266342998]
+(EST_P)
+Tenemos suerte de que Phaeroh
+haya decidido ayudarnos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266342998]
+(YUR)
+Es un poco extremista, pero no cabe
+duda de que se preocupa por este mundo,
+tal como dijo (JUD_P).
+
+## POINTER 3 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267436562]
+(RAV)
+Fui duro con él en er pasao,
+pero nos ha estao ayudando tó este tiempo.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266342998]
+(EST_P)
+¡Tenemos que vencer al adephagos
+y salvar este planeta por Phaeroh
+y por el amor que le profesa!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1266342998]
+(YUR)
+Por favor, no sueltes frases empalagosas.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1266342998]
+(RAV)
+Sí, venga ya...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1266418371]
+(EST_P)
+Sinceramente, deberíais aprender
+a mostrar vuestros sentimientos.

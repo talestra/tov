@@ -1,0 +1,79 @@
+## POINTER 0
+
+Hey, you hear about the blastia 
+in the lower quarter?
+
+## POINTER 1
+
+Yes, I heard something about it breaking 
+and them collecting money to fix it.
+
+## POINTER 2
+
+That's right, I hear that lot went so far as 
+to sell their treasures to save up the money.
+
+## POINTER 3
+
+Treasures, sir?
+
+## POINTER 4
+
+Worthless junk, nothing more. They wouldn't 
+have gotten more than one Gald for them.
+
+## POINTER 5
+
+Not even one Gald?! I can't imagine what 
+sort of treasures those would have to be. 
+I'd like to have a look, myself...
+
+## POINTER 6
+
+I'm telling you, nothing 
+but junk! Heh heh...
+
+## POINTER 7
+<STR>(YUR)
+Listen to those guys! Poor Hanks. 
+Can't really argue with them about 
+the junk thing, though.
+
+## POINTER 8
+
+Ack!
+
+## POINTER 9
+
+What the... Who's there?!
+
+## POINTER 10
+
+Oof!
+
+## POINTER 11
+<STR>(YUR)
+If you can't understand the value of "junk," 
+you're worth less than junk yourself.
+
+## POINTER 12
+<STR>(YUR)
+<STR>(RAP), can you find the trail?
+
+## POINTER 13
+<STR>(YUR)
+...So they've been taking blastia 
+cores from here, too. Looks like somebody's 
+got some sticky fingers.
+
+## POINTER 14
+<STR>(YUR)
+That's the royal quarter for you. 
+A few blastia cores go missing, 
+and no one even makes a fuss.<PAGE>When just one is enough to throw 
+the lower quarter into chaos.<PAGE>If they've got cores to spare, they 
+could stand to give us some!
+
+## POINTER 15
+<STR>(YUR)
+Found it!

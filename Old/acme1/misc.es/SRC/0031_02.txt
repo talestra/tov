@@ -1,0 +1,131 @@
+## POINTER 107 [t:1;r:1;ru:memnoch;user:memnoch;time:1297529237]
+Abre el menú de batalla con <06>(MEN)
+y mantén pulsado el botón <06>(GUD)
+para ajustar la cámara.
+Cambia el ángulo con <06>(CBR2)
+y el zoom con <06>(CBL2).
+
+Manteniendo pulsado el botón <06>(GUD)
+mientras pulsas <06>(L3), devolverá la cámara
+a la posición por defecto.
+
+## POINTER 108 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830855]
+Misiones secretas
+
+## POINTER 109 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830855]
+A veces hay misiones aparte
+cuando luchas contra jefes finales.
+
+Esto se conoce como misiones secretas.
+ 
+Puedes conseguir objetos que te ayuden
+a completar el juego si realizas
+una misión secreta.
+
+Presta atención a esto la próxima
+vez que luches contra un jefe.
+
+## POINTER 110 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830855]
+Monstruos Giganto
+
+## POINTER 111 [t:1;r:1;ru:memnoch;user:memnoch;time:1297529237]
+Algunas veces puede que encuentres
+monstruos mucho más grandes
+de lo habitual mientras viajas
+por el mapamundi.
+ 
+Estos son los monstruos Giganto.
+Son mucho más fuertes que los monstruos
+normales y son muy peligrosos.
+ 
+¡Mucho ojo!
+¡No es nada fácil acabar con ellos!
+
+## POINTER 112 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830855]
+Cocina I
+
+## POINTER 113 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264683272]
+Cuando obtienes una receta, puedes usar
+los ingredientes que vayas consiguiendo
+durante tu viaje para cocinarla.
+Los ingredientes se gastarán cada vez
+que los uses para cocinar algo.
+Lo que cocines tendrá varios efectos,
+como curar HP, incrementar
+el poder de ataque, etc.
+
+Una vez que hayas cocinado algo, 
+tus personajes estarán llenos y no podrán
+comer más hasta después de la próxima batalla.
+
+## POINTER 114 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830855]
+Cocina II
+
+## POINTER 115 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264329137]
+Si no consigues que te salga bien
+la receta seleccionada, no podrás
+beneficiarte de sus efectos.
+
+Puedes elegir qué personaje
+se encargará de cocinar.
+
+A algunos personajes se les da mejor
+preparar una receta en concreto. La ratio
+de éxito varía de un personaje a otro.
+
+## POINTER 116 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830855]
+Nivel de cocina y nuevas recetas
+
+## POINTER 117 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830855]
+Tu nivel de cocina mejorará si preparas
+repetidas veces la misma receta.
+
+Mientras mejora tu nivel de cocina,
+también lo hará tu ratio de éxito
+y podrás inventar nuevas recetas.
+
+## POINTER 118 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830855]
+Atajos de cocina
+
+## POINTER 119 [t:1;r:1;ru:memnoch;user:memnoch;time:1297532096]
+Si asignas atajos de cocina
+a los botones <06>(LTU)<06>(LTD)<06>(LTL)<06>(LTR) 
+antes de un combate, puedes cocinar
+la receta justo después de una batalla
+con los atajos de <06>(GUD) + <06>(LTN).
+ 
+Esto te ayudará a recuperarte
+después de cada combate.
+
+## POINTER 120 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264328686]
+Test de iconos
+
+## POINTER 121 [t:1;r:1;ru:memnoch;user:memnoch;time:1297529237]
+<06>(ST1)Veneno
+<06>(ST2)Parálisis
+<06>(ST3)Petrificación
+<06>(ST4)Debilidad
+<06>(ST5)Artes selladas
+<06>(ST6)Habilidades selladas
+<06>(ST7)Contaminación
+<06>(SC1)ATQ F.<06>(SC2)DEF F.<06>(SC3)ATQ M.<06>(SC4)DEF M.
+<06>(SC5)Dormir
+<06>(SC6)Auto recuperación
+<06>(SC7)Hechizado
+<06>(EL1)Fuego<06>(EL2)Tierra<06>(EL3)Viento<06>(EL4)Agua<06>(EL5)Luz<06>(EL6)Oscuridad<06>(EL7)Físico
+
+## POINTER 122 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264329104]
+Test de botones
+
+## POINTER 123 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264329104]
+<06>(ATK)Ataque
+<06>(ART)Artes
+<06>(GUD)Defensa
+<06>(MEN)Menú
+<06>(CBL1)Vacile
+<06>(CBL2)Movimiento libre
+<06>(CBR1)Selección de objetivo
+<06>(CBR2)Ataque letal
+<06>(FS1)AL1<06>(FS2)AL2<06>(FS3)AL3
+<06>(MC1)<06>(MC2)<06>(MC3)<06>(MC4)<06>(MC5)<06>(MC6)<06>(MC7)<06>(MC8)<06>(MC9)
+<06>(RTN)<06>(RTU)<06>(RTD)<06>(RTL)<06>(RTR)<06>(RTH)<06>(R3)

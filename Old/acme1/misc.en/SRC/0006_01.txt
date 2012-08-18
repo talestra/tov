@@ -1,0 +1,68 @@
+## POINTER 100
+Jump!
+
+## POINTER 101
+Allies will use Jump.
+
+## POINTER 102
+Woof Woof!
+
+## POINTER 103
+Allies will use Recover.
+(Only when the Recover skill is set.)
+
+## POINTER 104
+Leave It To Me
+
+## POINTER 105
+Allies will maintain distance from the enemy.
+
+## POINTER 106
+Full Charge!
+
+## POINTER 107
+Defeat enemy with full strength.
+
+## POINTER 108
+Moderate
+
+## POINTER 109
+Change action according to battle circumstances.
+
+## POINTER 110
+Defend
+
+## POINTER 111
+Do not attack and keep guard. 
+If needed use heal/support artes.
+
+## POINTER 112
+Save TP
+
+## POINTER 113
+Mostly use normal combo attacks and try not 
+to consume TP and items.
+
+## POINTER 114
+Player command 1
+
+## POINTER 115
+Player set command.
+
+## POINTER 116
+Player command 2
+
+## POINTER 117
+Player set command.
+
+## POINTER 118
+Player command 3
+
+## POINTER 119
+Player set command.
+
+## POINTER 120
+Player command 4
+
+## POINTER 121
+Player set command.

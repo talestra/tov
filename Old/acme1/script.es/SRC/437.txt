@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1283478019]
+<STR>(KAR)
+¿De qué es esta estatua?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1285105695]
+<STR>(YUR)
+Estamos en un templo. Probablemente será
+de la deidad a la que está dedicado.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283478019]
+<STR>(RIT)
+Puede que sea del entelechia
+que vimos afuera.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1285105695]
+<STR>(KAR)
+¿Eh? No puede ser... Vale,
+sigue siendo un monstruo...
+pero no se parecen.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1285105695]
+<STR>(YUR)
+No, yo creo que es
+bastante probable.<PAGE>Los entelechia tienen un poder muy superior al
+de los humanos, y pueden hablar nuestro idioma.<PAGE>No me extrañaría que hubieran sido
+venerados en tiempos antiguos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981062]
+<STR>(JUD)
+La relación entre los humanos
+y los entelechia puede ser
+más estrecha de lo que creemos.<PAGE>Puede que se fueran distanciando
+durante los siglos, acabando en
+la situación en la que están ahora.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285105695]
+<STR>(KAR)
+C-Creo que prefiero que estén distanciados
+como ahora a la relación íntima que
+parece que tenían entonces... Je, je...

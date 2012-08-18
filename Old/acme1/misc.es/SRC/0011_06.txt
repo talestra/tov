@@ -1,0 +1,318 @@
+## POINTER 826 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261765826]
+Decorado con un motivo floral en forma de corazón.
+El tinte usado contiene una sustancia que conduce el aer.
+
+## POINTER 828 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261350845]
+Pergamino del vengador
+
+## POINTER 829 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Pergamino firmado por los que buscan venganza.
+Emana una poderosa fuerza.
+
+## POINTER 831 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261350845]
+Pergamino del vengador +1
+
+## POINTER 832 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Pergamino firmado por los que buscan venganza.
+Emana una poderosa fuerza.
+
+## POINTER 834 [t:1;r:2;ru:memnoch,parsec;user:TheWing;time:1261350845]
+Pergamino del vengador +2
+
+## POINTER 835 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Pergamino firmado por los que buscan venganza.
+Emana una poderosa fuerza.
+
+## POINTER 837 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Verde perfecto
+
+## POINTER 838 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263994986]
+Tela coloreada con tintes de plantas de todo tipo.
+Su vibrante color verde no se destiñe ni después de cien años.
+
+## POINTER 840 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Verde perfecto +1α
+
+## POINTER 841 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263994986]
+Tela coloreada con tintes de plantas de todo tipo.
+Su vibrante color verde no se destiñe ni después de cien años.
+
+## POINTER 843 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Verde perfecto +1β
+
+## POINTER 844 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263994986]
+Tela coloreada con tintes de plantas de todo tipo.
+Su vibrante color verde no se destiñe ni después de cien años.
+
+## POINTER 846 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Cinturón de remaches
+
+## POINTER 847 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Cinturón con cuernos remachados.
+El metal decorativo conduce muy bien el aer.
+
+## POINTER 849 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Azul eterno
+
+## POINTER 850 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261765826]
+Tela teñida por una tribu del mar. Algunos lo atan 
+al mástil de un barco para desear un viaje seguro.
+
+## POINTER 852 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Azul eterno +1α
+
+## POINTER 853 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261765826]
+Tela teñida por una tribu del mar. Algunos lo atan 
+al mástil de un barco para desear un viaje seguro.
+
+## POINTER 855 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Azul eterno +1β
+
+## POINTER 856 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261765826]
+Tela teñida por una tribu del mar. Algunos lo atan 
+al mástil de un barco para desear un viaje seguro.
+
+## POINTER 858 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Estrella titilante
+
+## POINTER 859 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Perteneció a un mago legendario que invocaba
+las estrellas. Tiene un diseño bastante mono.
+
+## POINTER 861 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Psicodélica
+
+## POINTER 862 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Tela larga con un estampado deslumbrante.
+Se usaba antiguamente para distraer al atacante.
+
+## POINTER 864 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Psicodélica +1
+
+## POINTER 865 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Tela larga con un estampado deslumbrante.
+Se usaba antiguamente para distraer al atacante.
+
+## POINTER 867 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734688]
+Contraste mortal
+
+## POINTER 868 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Lienzo que representa la luz y la oscuridad.
+Se desconoce por qué, pero tiene restos de un sello.
+
+## POINTER 870 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734688]
+Contraste mortal +1
+
+## POINTER 871 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Lienzo que representa la luz y la oscuridad.
+Se desconoce por qué, pero tiene restos de un sello.
+
+## POINTER 873 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734688]
+Contraste mortal +2α
+
+## POINTER 874 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Lienzo que representa la luz y la oscuridad.
+Se desconoce por qué, pero tiene restos de un sello.
+
+## POINTER 876 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734688]
+Contraste mortal +2β
+
+## POINTER 877 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Lienzo que representa la luz y la oscuridad.
+Se desconoce por qué, pero tiene restos de un sello.
+
+## POINTER 879 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261666063]
+Vía Láctea
+
+## POINTER 880 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734688]
+Tela preciosa que recuerda al cielo estrellado.
+El bordado en hilo de oro sirve para almacenar aer.
+
+## POINTER 882 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Vía Láctea +1
+
+## POINTER 883 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734688]
+Tela preciosa que recuerda al cielo estrellado.
+El bordado en hilo de oro sirve para almacenar aer.
+
+## POINTER 885 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Anubis
+
+## POINTER 886 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263996373]
+Pintura que solo revela su forma real a cambio de un alma.
+Un precio muy alto a pagar por la verdad.
+
+## POINTER 888 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Anubis +1
+
+## POINTER 889 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263996373]
+Pintura que solo revela su forma real a cambio de un alma.
+Un precio muy alto a pagar por la verdad.
+
+## POINTER 891 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Cinta medidora
+
+## POINTER 892 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263996373]
+Útil para medir cualquier cosa, ¡incluso la cintura!
+Aunque no garantiza ninguna protección...
+
+## POINTER 894 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734874]
+Aspion
+
+## POINTER 895 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Arma sencilla hecha con una faja procesada con aer.
+Puede usarse también como arma cortante.
+
+## POINTER 897 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Cadena
+
+## POINTER 898 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263996373]
+Cadena normal y corriente. Algunos la balancean
+para usarla como arma, pero no se ideó para eso.
+
+## POINTER 900 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Cadena +1
+
+## POINTER 901 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263996373]
+Cadena normal y corriente. Algunos la balancean
+para usarla como arma, pero no se ideó para eso.
+
+## POINTER 903 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Látigo de cuero
+
+## POINTER 904 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Látigo pensado para torturar.
+Un latigazo puede desgarrar la piel y la carne.
+
+## POINTER 906 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Látigo de cuero +1
+
+## POINTER 907 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Látigo pensado para torturar.
+Un latigazo puede desgarrar la piel y la carne.
+
+## POINTER 909 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Cadena látigo
+
+## POINTER 910 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Látigo de metal usado como arma.
+El peso de la punta aumenta su poder de ataque.
+
+## POINTER 912 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Cadena látigo +1
+
+## POINTER 913 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009140]
+Látigo de metal usado como arma.
+El peso de la punta aumenta su poder de ataque.
+
+## POINTER 915 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Yoyó superpoderoso
+
+## POINTER 916 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Yoyó mecánico capaz de girar durante mucho tiempo.
+La cuchilla que lleva acoplada puede hacer mucho daño.
+
+## POINTER 918 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Yoyó superpoderoso +1
+
+## POINTER 919 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Yoyó mecánico capaz de girar durante mucho tiempo.
+La cuchilla que lleva acoplada puede hacer mucho daño.
+
+## POINTER 921 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Látigo de reina
+
+## POINTER 922 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Látigo empleado por aquellos con hábitos peculiares.
+Es útil como arma y en general es muy peligroso.
+
+## POINTER 924 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Látigo de reina +1α
+
+## POINTER 925 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Látigo empleado por aquellos con hábitos peculiares.
+Es útil como arma y en general es muy peligroso.
+
+## POINTER 927 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Látigo de reina +1β
+
+## POINTER 928 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Látigo empleado por aquellos con hábitos peculiares.
+Es útil como arma y en general es muy peligroso.
+
+## POINTER 930 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Nova
+
+## POINTER 931 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261765826]
+Juguete con un pincho afilado y una bola pesada atada 
+con una cuerda. La bola puede provocar lesiones muy serias.
+
+## POINTER 933 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Nova +1α
+
+## POINTER 934 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261765826]
+Juguete con un pincho afilado y una bola pesada atada 
+con una cuerda. La bola puede provocar lesiones muy serias.
+
+## POINTER 936 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Nova +1β
+
+## POINTER 937 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1261765826]
+Juguete con un pincho afilado y una bola pesada atada 
+con una cuerda. La bola puede provocar lesiones muy serias.
+
+## POINTER 939 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734874]
+Cardian nefasto
+
+## POINTER 940 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263996373]
+Látigo creado a partir de la estatua de bronce 
+de un templo antiguo. Se usaba para sellar demonios.
+
+## POINTER 942 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734874]
+Cardian nefasto +1α
+
+## POINTER 943 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263996373]
+Látigo creado a partir de la estatua de bronce 
+de un templo antiguo. Se usaba para sellar demonios.
+
+## POINTER 945 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734874]
+Cardian nefasto +1β
+
+## POINTER 946 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263996373]
+Látigo creado a partir de la estatua de bronce
+de un templo antiguo. Se usaba para sellar demonios.
+
+## POINTER 948 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Lazo brillante
+
+## POINTER 949 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Lazo empapado en un líquido conductor de aer. Si se usa
+para bailar se calienta ligeramente y empieza a brillar.
+
+## POINTER 951 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Lazo brillante +1α
+
+## POINTER 952 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Lazo empapado en un líquido conductor de aer. Si se usa
+para bailar se calienta ligeramente y empieza a brillar.
+
+## POINTER 954 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Lazo brillante +1β
+
+## POINTER 955 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Lazo empapado en un líquido conductor de aer. Si se usa
+para bailar se calienta ligeramente y empieza a brillar.
+
+## POINTER 957 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1261706093]
+Látigo de rosa
+
+## POINTER 958 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1263996373]
+Látigo con espinas como las del tallo de una bella rosa.
+El aer de su interior evita que las espinas se marchiten.
+
+## POINTER 960 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1261734874]
+Mundo unido
+
+## POINTER 961 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264009864]
+Juguete de metal de nombre demasiado aparatoso.
+Agitarlo por ahí puede ser muy peligroso.

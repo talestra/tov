@@ -1,0 +1,299 @@
+## POINTER 0
+View/Change Artes settings
+
+## POINTER 1
+Use/View items
+
+## POINTER 2
+View/Change equipment
+
+## POINTER 3
+View/Change skill settings
+
+## POINTER 4
+View character details.
+
+## POINTER 5
+Cooking and shortcut settings.
+
+## POINTER 6
+View/Change battle strategy.
+
+## POINTER 7
+Browse various info and data.
+
+## POINTER 8
+Data and configuration settings
+
+## POINTER 9
+Others
+
+## POINTER 10
+<06>(RBL)Remove <06>(RBU)Use Arte <06>(L3)Shortcut <06>(L2)<06>(R2)Switch <06>(SEL)Mode <06>(STA)Skill Details
+
+## POINTER 11
+<06>(RBU)Use Arte <06>(STA)Skill Details
+
+## POINTER 12
+<06>(RBU)Use Arte <06>(RBL)ON/OFF　<06>(L2)<06>(R2)Switch <06>(SEL)Mode <06>(STA)Skill Details
+
+## POINTER 13
+<06>(LBD)Party edit
+
+## POINTER 14
+<06>(RBD)Confirm　<06>(RBR)Return
+
+## POINTER 15
+<06>(L2)<06>(R2)Categories <06>(STA)Details
+
+## POINTER 16
+<06>(RBL)Remove <06>(RBU)Skill <06>(R3)Best equipment　<06>(L2)<06>(R2)Switch <06>(STA)Details
+
+## POINTER 17
+<06>(RBU)Skill info. <06>(STA)Details <06>(SEL)Change order
+
+## POINTER 18
+<06>(LBR)Skill list <06>(RBL)Remove <06>(L2)<06>(R2)Switch
+
+## POINTER 19
+<06>(RBU)Symbol <06>(R3)Cancel all <06>(L2)<06>(R2)Switch <06>(L1)<06>(R1)Category <06>(SEL)Status
+
+## POINTER 20
+<06>(RBL)Edit <06>(RBU)Formation
+
+## POINTER 21
+<06>(RBD)Confirm　<06>(RBR)Return
+
+## POINTER 22
+<06>(RBD)Confirm <06>(RBR)Return <06>(RBU)Edit strategy name <06>(SEL)Default
+
+## POINTER 23
+<06>(RBD)Confirm　<06>(RBR)Return
+
+## POINTER 24
+<06>(LTN)Move character <06>(L2)<06>(R2)Switch character
+
+## POINTER 25
+<06>(RBD)Choose <06>(RBR)Return <06>(SEL)Default
+
+## POINTER 26
+Target
+
+## POINTER 27
+HP
+
+## POINTER 28
+TP
+
+## POINTER 29
+Action
+
+## POINTER 30
+Position
+
+## POINTER 31
+Item
+
+## POINTER 32
+OVL
+
+## POINTER 33
+FS
+
+## POINTER 34
+SP
+
+## POINTER 35
+Manual
+
+## POINTER 36
+Semi-Auto
+
+## POINTER 37
+Auto
+
+## POINTER 38
+Artes
+
+## POINTER 39
+Mode
+
+## POINTER 40
+Artes Shortcut
+
+## POINTER 41
+Main
+
+## POINTER 42
+Sub
+
+## POINTER 43
+Body
+
+## POINTER 44
+Head
+
+## POINTER 45
+Acc.
+
+## POINTER 46
+None
+
+## POINTER 47
+None
+
+## POINTER 48
+None
+
+## POINTER 49
+Default
+
+## POINTER 50
+Player
+
+## POINTER 51
+Formation setting.
+
+## POINTER 52
+P. DEF
+
+## POINTER 53
+HP
+
+## POINTER 54
+TP
+
+## POINTER 55
+P. ATK
+
+## POINTER 56
+P. DEF
+
+## POINTER 57
+M. ATK
+
+## POINTER 58
+M. DEF
+
+## POINTER 59
+AGL
+
+## POINTER 60
+LUCK
+
+## POINTER 61
+NOT USED
+
+## POINTER 62
+NOT USED
+
+## POINTER 63
+Name
+
+## POINTER 64
+Title
+
+## POINTER 65
+Attachment
+
+## POINTER 66
+Dummy Names
+
+## POINTER 67
+Dummy Titles
+
+## POINTER 68
+Dummy Attachments
+
+## POINTER 69
+Physical Attack
+
+## POINTER 70
+Physical Defense
+
+## POINTER 71
+Magic Attack
+
+## POINTER 72
+Magic Defense
+
+## POINTER 73
+Agility
+
+## POINTER 74
+Luck
+
+## POINTER 75
+NOT USED
+
+## POINTER 76
+Attack Attribute
+
+## POINTER 77
+Resistance Attribute
+
+## POINTER 78
+Weak Attribute
+
+## POINTER 79
+Gald
+
+## POINTER 80
+Total
+
+## POINTER 81
+Skill 1
+
+## POINTER 82
+Skill 2
+
+## POINTER 83
+Skill 3
+
+## POINTER 84
+Character
+
+## POINTER 85
+Menu
+
+## POINTER 86
+Needed ingredients
+
+## POINTER 87
+None
+
+## POINTER 88
+Meat
+
+## POINTER 89
+Fish
+
+## POINTER 90
+Vegetable
+
+## POINTER 91
+Cereal
+
+## POINTER 92
+Fruit
+
+## POINTER 93
+Others
+
+## POINTER 94
+Rice
+
+## POINTER 95
+Bread
+
+## POINTER 96
+Max.
+
+## POINTER 97
+<06>(RBD)Confirm <06>(RBR)Return <06>(RBU)Cook <06>(L3)Shortcut
+
+## POINTER 98
+<06>(RBD)Confirm <06>(RBR)Return <06>(RBU)Cook <06>(L3)Shortcut
+
+## POINTER 99
+<06>(RBD)Confirm <06>(RBR)Return <06>(RBL)Remove

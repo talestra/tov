@@ -1,0 +1,31 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251555487]
+La espada rota
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597793]
+(EST_P)
+(KAR), ¿estás bien...
+aunque tu espada siga rota?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597793]
+(KAR)
+Sí, ¡es más ligera
+y más fácil de usar!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597793]
+(YUR)
+Ahora no será la espada la que
+te blanda a ti. Me parece bien.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597793]
+(YUR)
+Partir la espada para que tenga la longitud
+adecuada... ¡Debes ser un as en tu gremio!
+
+## POINTER 5 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1261437384]
+(EST_P)
+(YUR)... no habrás roto la espada 
+de (KAR) a propósito, ¿verdad?
+
+## POINTER 6 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266416791]
+(YUR)
+No soy tan bueno.

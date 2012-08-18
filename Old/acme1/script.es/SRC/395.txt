@@ -1,0 +1,146 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281214745]
+<STR>(RIT)
+<VOICE>(VS36_245)¿Dónde está <STR>(KAR)?
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795988]
+<STR>(YUR)
+<VOICE>(VS36_246)¿Por qué a todo el mundo le ha dado
+el venazo de preocuparse tanto?<PAGE>
+<VOICE>(VS36_247)¿Cuáles son vuestros
+planes después de esto?
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795988]
+<STR>(RIT)
+<VOICE>(VS36_248)Yo voy con vosotros, por supuesto.<PAGE>
+<VOICE>(VS36_249)Ya os dije que había decidido
+quedarme con vosotros mientras
+investigo el aer krene.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281214745]
+<STR>(YUR)
+<VOICE>(VS36_250)Vale, vale.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795988]
+<STR>(EST_P)
+<VOICE>(VS36_251)Yo también quiero ir contigo, <STR>(YUR).<PAGE>
+<VOICE>(VS36_252)Ahora que sabemos que los Espadas
+Cazadoras van tras <STR>(JUD), 
+tenemos que ir a ayudarla.
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281214834]
+<STR>(RIT)
+<VOICE>(VS36_253)No estamos obligados
+a hacer nada por ella.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281434084]
+<STR>(EST_P)
+<VOICE>(VS36_254)<STR>(JUD) estuvo en nuestros viajes.
+Es una de nosotros.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1282927366]
+<STR>(RIT)
+<VOICE>(VS36_255)También destruyó el
+blastia ceres del barco.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281214745]
+<STR>(EST_P)
+<VOICE>(VS36_256)Pero...
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795988]
+<STR>(YUR)
+<VOICE>(VS36_257)Yo no me voy a ninguna
+misión misericordiosa.<PAGE>
+<VOICE>(VS36_258)Te dije que necesitaba
+dejar las cosas claras, ¿no?
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281701043]
+<STR>(EST_P)
+<VOICE>(VS36_259)<STR>(YUR)...
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795988]
+<STR>(YUR)
+<VOICE>(VS36_260)¿Qué es lo que sabe <STR>(JUD_P)? 
+¿Qué es lo que no sabe?<PAGE>
+<VOICE>(VS36_261)Voy a ver si nos lo aclara
+un poco. Debo hacerlo, para
+saber dónde queda este gremio.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1298483529]
+<STR>(RIT)
+<VOICE>(VS36_262)Bueno, de paso
+podríamos salvarla.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281701043]
+<STR>(EST_P)
+<VOICE>(VS36_263)Lo sabía, estáis
+preocupados por ella.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1297027275]
+<STR>(RIT)
+<VOICE>(VS36_264)¡¿Pe-pero qué dices?!
+¡Solo he dicho que «podríamos»!
+
+## POINTER 15 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795988]
+<STR>(RIT)
+<VOICE>(VS36_265)En fin, ahora que sale la charla
+esta de aclarar lo del gremio,
+¿no viene el jefe valiente?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1298483696]
+<STR>(YUR)
+<VOICE>(VS36_266)Tardará más en levantar cabeza.
+Ya vendrá.<PAGE>
+<VOICE>(VS36_267)Venga, vamos.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281701043]
+<STR>(EST_P)
+<VOICE>(VS36_268)¿Y qué hacemos
+con <STR>(RAV)?
+
+## POINTER 18 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281701043]
+<STR>(RIT)
+<VOICE>(VS36_269)Ahora no puede venir.
+No puede darle la espalda a
+esta ciudad. Han perdido al Don.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281701043]
+<STR>(YUR)
+<VOICE>(VS36_270)Seguramente tengas razón. El viejales
+tiene que ocuparse de su propia agenda.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298483696]
+<STR>(EST_P)
+<VOICE>(VS36_271)Lo echaré de menos.
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281701043]
+<STR>(YUR)
+<VOICE>(VS36_272)Piensa en quién estás hablando.
+Ese tío aparecerá cuando
+menos te lo esperes.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281701043]
+<STR>(RIT)
+<VOICE>(VS36_273)¿Y dónde está
+el monte Temza?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298483832]
+<STR>(YUR)
+<VOICE>(VS36_274)Creo que está al norte de
+las Arenas de Kogorh.<PAGE>
+<VOICE>(VS36_275)Me contó algo de que vivía
+con Ba'ul en una montaña
+al norte del desierto.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:Lia;time:1281701043]
+<STR>(EST_P)
+<VOICE>(VS36_276)Es cierto que hay
+muchísimas montañas en las
+regiones del norte de Desier.
+
+## POINTER 25 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1284795988]
+<STR>(YUR)
+<VOICE>(VS36_277)Pues nada, empezaremos por ahí
+y ya veremos dónde acabamos.<PAGE>
+<VOICE>(VS36_278)Lo primero es
+llegar a Desier.<PAGE>
+<VOICE>(VS36_279)Vamos al barco.

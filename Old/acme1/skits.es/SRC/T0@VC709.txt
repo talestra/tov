@@ -1,0 +1,39 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1253911085]
+De viaje
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114638]
+(YUR)
+Nunca hubiera imaginado que
+me iría de casa de esta manera.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114638]
+(EST_P)
+¿Lamentas haber dejado la capital, (YUR)?
+
+## POINTER 3 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266280168]
+(YUR)
+Cuando estaba en los barrios bajos estaba
+demasiado ocupado viviendo el día a día.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114638]
+(YUR)
+Nunca me lo había planteado. Supongo que a veces
+me entraban ganas de empezar una aventura.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114638]
+(EST_P)
+¡Yo estoy emocionadísima solo con estar fuera!
+Siempre había soñado con explorar el mundo.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114638]
+(YUR)
+Está bien emocionarte y tal, pero tampoco te pases.
+Tenemos que encontrar a (FRE), ¿recuerdas?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1286114638]
+(EST_P)
+Estoy emocionada y preocupada al mismo tiempo.
+
+## POINTER 8 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266280168]
+(YUR)
+Je. Muy bien.

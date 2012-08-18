@@ -1,0 +1,51 @@
+## POINTER 0
+<STR>(KAR)
+*Huff* ...Thank goodness... 
+You're okay.
+
+## POINTER 1
+<STR>(RIT)
+Oh, wow... You're 
+okay!
+
+## POINTER 2
+<STR>(EST_P)
+Ah, you're okay!
+
+## POINTER 3
+<STR>(YUR)
+Hey hey, you decided to come 
+along for the ride, too?
+
+## POINTER 4
+<STR>(KAR)
+Let's get out of 
+here quickly!
+
+## POINTER 5
+<STR>(RIT)
+Y-you gotta be kidding me!
+
+## POINTER 6
+<STR>(EST_P)
+This ship's evil spirits are surely 
+at the bottom of the ship, plotting 
+to make us one of them...
+
+## POINTER 7
+<STR>(RIT)
+D-don't make up stories 
+like that!
+
+## POINTER 8
+<STR>(RAV)
+N-no way that's p-possible.
+
+## POINTER 9
+<STR>(YUR)
+We'll just have to look 
+for another way out.
+
+## POINTER 10
+<STR>(JUD)
+Right on. Let's go!

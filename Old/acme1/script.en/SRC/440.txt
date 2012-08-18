@@ -1,0 +1,515 @@
+## POINTER 0
+Alexei
+<VOICE>(VS42_106)Astal.<PAGE><VOICE>(VS42_107)How does it feel to face your 
+last moments in the very 
+temple built to worship you?<PAGE><VOICE>(VS42_108)Hah hah hah.
+
+## POINTER 1
+Astal
+<VOICE>(VS42_109)Wre..tched...hu...man...
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS42_110)Enough! Alexei, 
+please stop this!
+
+## POINTER 3
+Alexei
+<VOICE>(VS42_111)Hah. If you are so eager to 
+free him from his suffering...<PAGE><VOICE>(VS42_112)Why not use your 
+healing artes to 
+comfort him?
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VS42_113)...
+
+## POINTER 5
+Alexei
+<VOICE>(VS42_114)Hah hah hah hah! 
+You're utterly powerless.<PAGE><VOICE>(VS42_115)Alone, you are nothing 
+more than a poisonous 
+blight to this world.<PAGE><VOICE>(VS42_116)I'm sure you understand 
+that now.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS42_117)<STR>(EST_P), are you all right?!
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS42_118)<STR>(EST_P)!
+
+## POINTER 8
+Alexei
+<VOICE>(VS42_119)You again. What stubborn, 
+misguided fools you all are.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS42_120)<STR>(YUR)! Everyone!
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS42_121)<STR>(EST_P), we've come 
+to rescue you!
+
+## POINTER 11
+Alexei
+<VOICE>(VS42_122)Humph. You are incapable of 
+saving this princess. I am 
+her only hope for salvation.
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS42_123)Spare me!
+
+## POINTER 13
+Alexei
+<VOICE>(VS42_124)The most glorious 
+moment for any tool is 
+when it is finally used.<PAGE><VOICE>(VS42_125)Even the poison of this 
+world can be a blessing, 
+if used correctly.<PAGE><VOICE>(VS42_126)And only I can do that.<PAGE><VOICE>(VS42_127)Now Princess, come 
+with me. Without me, I 
+am afraid your power...
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS42_128)Aaaaah!
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS42_129)Alexei, stop! 
+Aah!
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS42_130)<STR>(JUD)!
+
+## POINTER 17
+Astal
+<VOICE>(VS42_131)Gr...ah.
+
+## POINTER 18
+Alexei
+<VOICE>(VS42_132)Hah hah hah. Weren't you 
+Entelexeia supposed to 
+be masters of this world?
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS42_133)Stop it!! Let <STR>(EST_P) go!
+
+## POINTER 20
+Alexei
+<VOICE>(VS42_134)Oh, how disappointing. 
+He's dead.
+
+## POINTER 21
+<STR>(EST_P)
+<VOICE>(VS42_135)But how can that be...?
+
+## POINTER 22
+Alexei
+<VOICE>(VS42_136)Smaller than I would have 
+hoped. No matter. It can be 
+used in any number of ways.
+
+## POINTER 23
+<STR>(YUR)
+<VOICE>(VS42_137)Alexei...
+
+## POINTER 24
+Alexei
+<VOICE>(VS42_138)Ah, you've come this far. Now, be 
+baptized in the aer your dear princess 
+charged with her own hands!
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS42_139)Aaaah!
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS42_140)Ugh!
+
+## POINTER 27
+<STR>(EST_P)
+<VOICE>(VS42_141)No! Please stop this!!
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS42_142)Gr... Take this!
+
+## POINTER 29
+Alexei
+<VOICE>(VS42_143)What? What are you 
+doing with that sword? 
+What happened to Duke?
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS42_144)He gave this to us 
+before he took off.<PAGE><VOICE>(VS42_145)And he didn't seem all 
+that worried about you.
+
+## POINTER 31
+Alexei
+<VOICE>(VS42_146)...What irony. That which 
+I have searched for all 
+these years...<PAGE><VOICE>(VS42_147)That it would arrive at 
+my feet only when I no 
+longer have a need for it...<PAGE><VOICE>(VS42_148)With the Child of the Full Moon, 
+the apatheia, and my knowledge, 
+Dein Nomos means nothing to me.
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS42_149)Talk to yourself a lot, huh? 
+Not a good sign. Now shut 
+up and let <STR>(EST_P) go!
+
+## POINTER 33
+Alexei
+<VOICE>(VS42_150)Heh. Are you certain that is 
+what the Princess wants?
+
+## POINTER 34
+<STR>(JUD)
+<VOICE>(VS42_151)<STR>(EST_P)?!
+
+## POINTER 35
+<STR>(EST_P)
+<VOICE>(VS42_152)...
+
+## POINTER 36
+<STR>(RIT)
+<VOICE>(VS42_153)<STR>(EST_P)! What's going 
+on?! <STR>(EST_P)!
+
+## POINTER 37
+<STR>(EST_P)
+<VOICE>(VS42_154)I...I don't know.
+
+## POINTER 38
+<STR>(KAR)
+<VOICE>(VS42_155)What are you talking about?
+
+## POINTER 39
+<STR>(EST_P)
+<VOICE>(VS42_156)As long as I'm with you all 
+I'll only cause you harm.<PAGE><VOICE>(VS42_157)But... I want to be with 
+you! I just don't know 
+what I should do!
+
+## POINTER 40
+<STR>(YUR)
+<VOICE>(VS42_158)Forget about that, <STR>(EST_P)! 
+Get over here!<PAGE><VOICE>(VS42_159)If there's something you're unsure 
+about, we'll work it out together!
+
+## POINTER 41
+<STR>(EST_P)
+<VOICE>(VS42_160)<STR>(YUR)...!
+
+## POINTER 42
+<STR>(YUR)
+<VOICE>(VS42_161)Gaah!
+
+## POINTER 43
+<STR>(KAR)
+<VOICE>(VS42_162)Agh!
+
+## POINTER 44
+<STR>(RIT)
+<VOICE>(VS42_163)Aah!
+
+## POINTER 45
+<STR>(JUD)
+<VOICE>(VS42_164)Ugh!
+
+## POINTER 46
+<STR>(EST_P)
+<VOICE>(VS42_165)I...I can't take this...
+
+## POINTER 47
+Alexei
+<VOICE>(VS42_166)Now now, 
+Mister <STR>(YUR) Lowell.<PAGE><VOICE>(VS42_167)Such brash behavior does not 
+befit a young lady's escort. Not 
+very gentlemanly of you at all.
+
+## POINTER 48
+<STR>(YUR)
+<VOICE>(VS42_168)Sorry for my lack of manners. 
+There aren't many 
+gentlemen where I'm from.
+
+## POINTER 49
+Alexei
+<VOICE>(VS42_169)That sword is nothing more 
+than an annoyance now. I 
+will rid myself of you here.
+
+## POINTER 50
+<STR>(EST_P)
+<VOICE>(VS42_170)<STR>(YUR)!
+
+## POINTER 51
+<STR>(RIT)
+<VOICE>(VS42_171)Get out of the way!
+
+## POINTER 52
+<STR>(RIT)
+<VOICE>(VS42_172)Who's he?!
+
+## POINTER 53
+<STR>(YUR)
+<VOICE>(VS42_173)Captain Schwann, 
+isn't it?<PAGE><VOICE>(VS42_174)I thought you always let your 
+knights handle things for you. 
+What's with the change?
+
+## POINTER 54
+<STR>(RAP)
+<VOICE>(VS42_500)Woof woof... Woof!
+
+## POINTER 55
+<STR>(YUR)
+<VOICE>(VS42_175)What is it, <STR>(RAP)?
+
+## POINTER 56
+Schwann
+<VOICE>(VS42_176)...I suppose there's no 
+fooling the nose of a dog.
+
+## POINTER 57
+<STR>(JUD)
+<VOICE>(VS42_177)...
+
+## POINTER 58
+<STR>(KAR)
+<VOICE>(VS42_178)...That voice... 
+Wait...<STR>(RAV)?
+
+## POINTER 59
+<STR>(JUD)
+<VOICE>(VS42_179)...This doesn't look like a joke.
+
+## POINTER 60
+<STR>(RIT)
+<VOICE>(VS42_180)One of the Union's most 
+important members is a 
+captain in the Knights?
+
+## POINTER 61
+<STR>(YUR)
+<VOICE>(VS42_181)Huh, so that's what 
+was going on.
+
+## POINTER 62
+<STR>(KAR)
+<VOICE>(VS42_182)Wait! But what about 
+the Don, <STR>(RAV)...?
+
+## POINTER 63
+Schwann
+<VOICE>(VS42_183)Conversing with you is 
+not one of my duties.
+
+## POINTER 64
+<STR>(KAR)
+<VOICE>(VS42_184)<STR>(RAV)...!
+
+## POINTER 65
+<STR>(YUR)
+<VOICE>(VS42_185)We're in a bit of a hurry, 
+so let us through.<PAGE><VOICE>(VS42_186)Wait, you're not really 
+thinking of trying to 
+stop us, are you?
+
+## POINTER 66
+<STR>(YUR)
+<VOICE>(VS42_187)What the hell?!
+
+## POINTER 67
+Schwann
+<VOICE>(VS42_188)Schwann Oltorain, First 
+Captain of the Imperial 
+Knights. Ready to do battle.
+
+## POINTER 68
+Schwann
+<VOICE>(VS42_189)Arrgh.
+
+## POINTER 69
+<STR>(YUR)
+<VOICE>(VS42_190)Hey!
+
+## POINTER 70
+Schwann
+<VOICE>(VS42_191)Heh...I would have thought 
+such a blow would be the end 
+of me...of this cursed body.
+
+## POINTER 71
+<STR>(RIT)
+<VOICE>(VS42_192)What the... Is that a 
+blastia in his chest?!
+
+## POINTER 72
+<STR>(JUD)
+<VOICE>(VS42_193)...It's his heart.<PAGE><VOICE>(VS42_194)Or rather a blastia that 
+has taken its place.
+
+## POINTER 73
+Schwann
+<VOICE>(VS42_195)...The original was 
+lost ten years ago.
+
+## POINTER 74
+<STR>(KAR)
+<VOICE>(VS42_196)Ten years...you mean 
+in the Great War?
+
+## POINTER 75
+Schwann
+<VOICE>(VS42_197)I lost my life 
+during that war.<PAGE><VOICE>(VS42_198)But Alexei saw fit to give 
+it back to me with this.
+
+## POINTER 76
+<STR>(JUD)
+<VOICE>(VS42_199)...So that must be a 
+Hermes blastia as well.<PAGE><VOICE>(VS42_200)Why did Ba'ul not 
+notice it then...?
+
+## POINTER 77
+Schwann
+<VOICE>(VS42_201)I would imagine that is 
+because it isn't powered by 
+aer, but by my own life force.
+
+## POINTER 78
+<STR>(RIT)
+<VOICE>(VS42_202)...A blastia powered only by 
+human vitality? No way...
+
+## POINTER 79
+<STR>(KAR)
+<VOICE>(VS42_203)What was that?
+
+## POINTER 80
+<STR>(JUD)
+<VOICE>(VS42_204EA)We've been trapped inside.
+
+## POINTER 81
+Schwann
+<VOICE>(VS42_205)...That would be Alexei. He 
+intends to bury you alive.
+
+## POINTER 82
+<STR>(YUR)
+<VOICE>(VS42_206)Whoa, hold on. Even 
+with you still in here?
+
+## POINTER 83
+Schwann
+<VOICE>(VS42_207)He couldn't pass up a chance 
+to dispose of that sword, now 
+that it's of no use to him.
+
+## POINTER 84
+<STR>(YUR)
+<VOICE>(VS42_208)So he was using <STR>(EST_P) 
+to lure Duke here.<PAGE><VOICE>(VS42_209)This guy is even more 
+twisted than I thought.
+
+## POINTER 85
+<STR>(RIT)
+<VOICE>(VS42_210)Hey, old man! This is no 
+time to be standing around!
+
+## POINTER 86
+Schwann
+<VOICE>(VS42_211)The end has finally 
+arrived for me.
+
+## POINTER 87
+<STR>(JUD)
+<VOICE>(VS42_212)You...never intended 
+to leave this place alive.
+
+## POINTER 88
+<STR>(YUR)
+<VOICE>(VS42_213)Who said you just 
+get to lay down 
+and die right here?<PAGE><VOICE>(VS42_214)Even if all your travels 
+with us were just 
+some joke to you...<PAGE><VOICE>(VS42_215)Are you trying to tell me 
+your anger at the Don's 
+death was just an act, too?<PAGE><VOICE>(VS42_216)I thought the guilds never 
+quit until the job was done... 
+Wasn't that his dying wish?!<PAGE><VOICE>(VS42_217)You go on living until the end!
+
+## POINTER 89
+Schwann
+<VOICE>(VS42_218)...Man, you really can 
+be a downer sometimes,
+ ya know that?
+
+## POINTER 90
+<STR>(YUR)
+<VOICE>(VS42_220)Damn! We're not 
+gonna make it.
+
+## POINTER 91
+<STR>(KAR)
+<VOICE>(VS42_219)<STR>(RAV)...?!
+
+## POINTER 92
+<STR>(RIT)
+<VOICE>(VS42_221)No! If you use your blastia 
+like that in the condition 
+you're in, you'll...!
+
+## POINTER 93
+Schwann
+<VOICE>(VS42_222)I can't keep this up 
+forever... Get outta here.
+
+## POINTER 94
+<STR>(YUR)
+<VOICE>(VS42_223)Old man!
+
+## POINTER 95
+Schwann
+<VOICE>(VS42_224)Alexei's headed for the 
+capital. There he'll implement 
+the final stages of his plan.<PAGE><VOICE>(VS42_225)The rest...I'll leave in your hands.
+
+## POINTER 96
+<STR>(KAR)
+<VOICE>(VS42_226)<STR>(RAV)! <STR>(RAV)!!
+
+## POINTER 97
+<STR>(YUR)
+<VOICE>(VS42_227)...<STR>(KAR), come on.
+
+## POINTER 98
+<STR>(KAR)
+<VOICE>(VS42_228)But!
+
+## POINTER 99
+<STR>(YUR)
+<VOICE>(VS42_229)Move!
+
+## POINTER 100
+<STR>(KAR)
+<VOICE>(VS42_230)...
+
+## POINTER 101
+Schwann
+<VOICE>(VS42_231)Heh. Must be gettin' 
+soft in my old age...

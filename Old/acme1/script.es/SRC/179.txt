@@ -1,0 +1,191 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(RIT)
+<VOICE>(VS15_265)¡Todo esto de aquí
+son núcleos de blastias!
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(KAR)
+<VOICE>(VS15_266)¿Por qué hay tantos?
+Y son todo núcleos.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240172]
+<STR>(RIT)
+<VOICE>(VS15_267)No tengo ni idea. ¡Ni siquiera en
+nuestro laboratorio tenemos tantos!
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(EST_P)
+<VOICE>(VS15_268)¿Tendrá esto algo que ver
+con el ladrón de núcleos?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(YUR)
+<VOICE>(VS15_269)Es posible.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240172]
+<STR>(KAR)
+<VOICE>(VS15_270)Pero creía que el que estaba detrás de todo
+era un gigantón tuerto. Ragou no encaja
+para nada con esa descripción.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240172]
+<STR>(YUR)
+<VOICE>(VS15_271)Entonces puede que él no sea el único
+que esté detrás de todo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240172]
+<STR>(YUR)
+<VOICE>(VS15_272)Me pregunto si el núcleo de los barrios bajos
+estará por aquí, en alguna parte.
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273479193]
+<STR>(RIT)
+<VOICE>(VS15_273)Lo siento. Ninguno de estos
+es lo bastante grande.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240172]
+<STR>(KAR)
+<VOICE>(VS15_274)
+Lo sabía. Estos tíos están
+con el Pacto de Sangre.
+Son uno de los cinco grandes gremios.
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+
+<VOICE>(VS15_275)¡Fuera de mi camino!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(KAR)
+<VOICE>(VS15_276)¡Aaah!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:memnoch;time:1274023445]
+<VOICE>(VS15_277)Ja. ¿Ese gusano inmundo de Ragou está
+huyendo de un hatajo de mocosos?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240172]
+<STR>(YUR)
+<VOICE>(VS15_278)Un gigantón tuerto... Entonces, ¿eres tú el que está
+detrás de la gente que ha robado todos estos núcleos?
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+
+<VOICE>(VS15_279)Puede que sí...
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+
+<VOICE>(VS15_280)Eres rápido y tienes agallas.
+Mi brazo va a notarlo...
+Ojalá estuvieras en mi gremio.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(YUR)
+<VOICE>(VS15_281)Qué halagador.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+
+<VOICE>(VS15_282)Pero es con la gente como tú con la que
+tengo que tener cuidado. Rompen la armonía
+de un gremio, ¿sabes? No es nada personal...
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+Ragou
+<VOICE>(VS15_283)Barbos, ¿a qué estás esperando?
+¡Deshazte de estos mocosos!
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+Barbos
+<VOICE>(VS15_284)Ya he hecho el trabajo por el que me pagaste.
+Además, los Caballeros llegarán aquí pronto.
+Prefiero que esos tipos no me persigan.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+Barbos
+<VOICE>(VS15_285)La próxima vez que nos veamos, no os libraréis
+tan fácilmente, enanos.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+Ragou
+<VOICE>(VS15_286)¡Espera! ¡Él sigue todavía
+dentro!... ¡Maldición!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240172]
+Ragou
+<VOICE>(VS15_287)¡Zagi! ¡Ocúpate del resto!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240172]
+Zagi
+<VOICE>(VS15_288)¿Quién es? ¿A quién
+puedo matar esta vez?
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(EST_P)
+<VOICE>(VS15_289)¡¡Eres el hombre del castillo!!
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(YUR)
+<VOICE>(VS15_290)Parece que nos dejan con este tío.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273479193]
+Zagi
+<VOICE>(VS15_291)Mi acero... arde en deseos de matar...
+¡Tengo que matar a alguien!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240172]
+<STR>(YUR)
+<VOICE>(VS15_292)Hala. Trátame con cuidado esta vez.
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+Zagi
+<VOICE>(VS15_293)¡¡Aaaah!! 
+Qué daño...
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(YUR)
+<VOICE>(VS15_294)Sí que sabes pelear.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240172]
+Zagi
+<VOICE>(VS15_295)M-Me retiro...<PAGE><VOICE>(VS15_296)Je, je, je...
+¡¡Jua, ja, ja, ja, ja!!
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240172]
+Zagi
+<VOICE>(VS15_297)¡Eres fuerte! ¡Sí, fuerte!
+¡Eres realmente fuerte!
+¡Jamás olvidaré esto, <STR>(YUR)!<PAGE><VOICE>(VS15_298)¡¡Voy a matarte, <STR>(YUR)!! 
+¡Voy a cortarte en pedacitos! 
+¡No muevas ni un músculo!
+
+## POINTER 32 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+Zagi
+<VOICE>(VS15_299)¡¡Jua, ja, ja, ja, ja!!
+
+## POINTER 33 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(KAR)
+<VOICE>(VS15_300)¿Qué? 
+¡Se está hundiendo!
+
+## POINTER 34 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(YUR)
+<VOICE>(VS15_301)¡Todo el mundo al agua!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1298484551]
+
+<VOICE>(VS15_302)*Cof, cof*
+¿Hay alguien ahí?
+
+## POINTER 36 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(EST_P)
+<VOICE>(VS15_303)¡<STR>(YUR)!
+
+## POINTER 37 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(RIT)
+<VOICE>(VS15_304)¡<STR>(EST)! ¡No!
+
+## POINTER 38 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(EST_P)
+<VOICE>(VS15_305)Pero... pero...
+
+## POINTER 39 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272837342]
+<STR>(RIT)
+<VOICE>(VS15_306)¡Calla y salta!

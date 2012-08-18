@@ -1,0 +1,100 @@
+## POINTER 0
+<STR>(JUD)
+<VOICE>(VS27_188)He got out of the city.
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS27_189)...He's pretty good at running away.
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS27_190)<STR>(RAP) is still after him.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS27_191)Hopefully he won't 
+lose the trail.
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VS27_192)But what's the deal, 
+anyway? Why would 
+Regaey...?
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS27_193)Think he set us up somehow?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS27_194)Looks that way. He used 
+us to keep <STR>(FRE) from 
+carrying out his orders.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS27_195)Orders...?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS27_196)Relax, it doesn't look 
+like he's here to recapture 
+any princesses.<PAGE><VOICE>(VS27_197)He wouldn't go through 
+the trouble of entering 
+the tournament for that.
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS27_198)Well, then what 
+could it be?
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS27_199)Good question. Whatever 
+it was, I'm sure it was 
+hurting Regaey's plans.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS27_200)But Regaey seemed 
+so polite...
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS27_201)He didn't seem too polite 
+when he was making off 
+with that case.
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VS27_202)This might mean Ruins' 
+Gate is nothin' more 
+than a false front...
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VS27_203)Still, what could he 
+want with that case?
+
+## POINTER 15
+<STR>(EST_P)
+<VOICE>(VS27_601)Just what was the 
+clear ciel crystal?
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS27_205)About all we know now is that 
+something in that box made 
+my magic go all haywire.<PAGE><VOICE>(VS27_206)I'd never lost control 
+of my bodhi blastia like 
+that before...
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS27_207)Hey, if we've got the time ta be 
+standin' around chattin', shouldn't we 
+be chasin' after your doggy friend?
+
+## POINTER 18
+<STR>(JUD)
+<VOICE>(VS27_208)You're right, we should be going.

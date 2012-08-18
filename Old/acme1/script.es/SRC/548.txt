@@ -1,0 +1,161 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(KAR)
+<VOICE>(VS64_158)Mmpf... Ese
+era el último.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581137]
+<STR>(RAV)
+<VOICE>(VS64_159)Buen trabajo.<PAGE><VOICE>(VS64_160)Perdona por hacerte currar
+antes de la batalla final.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834974]
+<STR>(KAR)
+<VOICE>(VS64_161)¡No te preocupas! Soy miembro
+de un gremio. Algo tengo que hacer.
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(KAR)
+<VOICE>(VS64_162)Oye, <STR>(RAV). Es muy
+bonito poder hacer algo
+por los demás.
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(RAV)
+<VOICE>(VS64_163)Ooh, qué palabras más maduras
+viniendo der gran <STR>(KAR).
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(KAR)
+<VOICE>(VS64_164)Sí. Antes nunca hacía nada
+para ayudar a otra gente.<PAGE><VOICE>(VS64_165)Tan solo quería demostrar
+que era capaz de hacer cosas.<PAGE><VOICE>(VS64_166)Creía que ese era mi sueño,
+pero supongo que me equivocaba.
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834974]
+<STR>(RAV)
+<VOICE>(VS64_167)Crear un gremio, hacerlo tó grande,
+convertirse en un jefe respetable...<PAGE><VOICE>(VS64_168)Son sueños que tienen los chavales. No es nada malo.
+
+## POINTER 7 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(KAR)
+<VOICE>(VS64_169)Pero todo eso era
+para hacerme parecer guay.
+<PAGE><VOICE>(VS64_170)Es decir, que uno
+no puede hacerlo
+todo solo.
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(RAV)
+<VOICE>(VS64_171)Pos sí, supongo.
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834974]
+<STR>(KAR)
+<VOICE>(VS64_172)Creía que lo tenía que hacer
+todo solo o quedaría mal, o
+como un inútil o algo por el estilo.<PAGE><VOICE>(VS64_173)Eso no es ayudar
+a la gente.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(RAV)
+<VOICE>(VS64_174)T'entiendo.
+
+## POINTER 11 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(KAR)
+<VOICE>(VS64_175)Si trabajas junto a otros,
+puedes hacer mucho más y
+hacer feliz a mucha más gente.<PAGE><VOICE>(VS64_176)Lo he descubierto al viajar
+con vosotros. Y me gusta mucho más.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834974]
+<STR>(RAV)
+<VOICE>(VS64_177)Jefecillo <STR>(KAR), eres tó
+un elemeto. Ya has dejao mu
+atrás a este anciano.<PAGE><VOICE>(VS64_178)Ahora mismo eres de lo más molón.
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(KAR)
+<VOICE>(VS64_179)Y tú también, <STR>(RAV).
+No tanto como <STR>(YUR), pero...
+
+## POINTER 14 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834974]
+<STR>(RAV)
+<VOICE>(VS64_180)¡Oh! ¡Eso m'ha dolío!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581137]
+<STR>(KAR)
+<VOICE>(VS64_181)Je, je. Bueno, ¿cuál
+es tu sueño, <STR>(RAV)?
+
+## POINTER 16 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(RAV)
+<VOICE>(VS64_182)¿Er menda? Hacerme rico y
+estar tó rodeao de bellezones.
+Mmmmm... Toy de guasa.
+
+## POINTER 17 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(RAV)
+<VOICE>(VS64_183)Ahora... Mmm... Por fin voy
+a volver a vivir con normalidad.<PAGE><VOICE>(VS64_184)Así que supongo que mi sueño es
+poder volver a soñar algún día.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581137]
+<STR>(KAR)
+<VOICE>(VS64_185)Eso parece ser muy difícil. Pero
+estoy seguro de que lo conseguirás.
+
+## POINTER 19 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(RAV)
+<VOICE>(VS64_186)Gracias. Creo
+que lo haré.
+
+## POINTER 20 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(KAR)
+<VOICE>(VS64_187)Oye, tú corazón... ¿está bien?
+
+## POINTER 21 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(RAV)
+<VOICE>(VS64_188)Sí, es mazo raro, pero está bien. Sigue
+latiendo aunque me mate a trabajar.
+
+## POINTER 22 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(KAR)
+<VOICE>(VS64_189)Supongo que es el efecto de los espíritus.
+
+## POINTER 23 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(RAV)
+<VOICE>(VS64_190)Creo que er plan
+este no'stá ná mal.
+
+## POINTER 24 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(KAR)
+<VOICE>(VS64_191)Me alegro de haberos conocido.
+Incluyéndote a ti, quiero decir.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581137]
+<STR>(RAV)
+<VOICE>(VS64_192)Yo también m'alegro.
+En serio.
+
+## POINTER 26 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(KAR)
+<VOICE>(VS64_193)Mañana vamos a ganar.
+
+## POINTER 27 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834974]
+<STR>(RAV)
+<VOICE>(VS64_194)Y a lo grande.<PAGE><VOICE>(VS64_195)Vale, deberíamos ir a la cama
+pronto. La falta de sueño
+es un enemigo mortal pa los ancianos.
+
+## POINTER 28 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(KAR)
+<VOICE>(VS64_196)Vale, buenas noches.
+
+## POINTER 29 [t:1;r:2;ru:googol,memnoch;user:xander;time:1287567653]
+<STR>(RAV)
+<VOICE>(VS64_197)Sí. Buenas noches.
+
+## POINTER 30 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1289834974]
+<STR>(RAV)
+<VOICE>(VS64_198)Los sueños no son mi estilo,
+pero heme aquí soñando.
+¿Qué voy a hacer conmigo?

@@ -1,0 +1,306 @@
+## POINTER 0 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264339239]
+Ver/cambiar configuración de las artes
+
+## POINTER 1 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264339239]
+Usar/ver los objetos
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357662]
+Ver/cambiar equipo
+
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264339239]
+Ver/cambiar configuración de las habilidades
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357859]
+Ver detalles del personaje
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357859]
+Cocinar y configuración de atajos
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357859]
+Ver/cambiar estrategia de batalla
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357859]
+Consultar información varia
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357859]
+Configuración y datos
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Otros.
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264339239]
+<06>(RBL)Quitar <06>(RBU)Usar arte <06>(L3)Atajo <06>(L2)
+<06>(R2)Alternar <06>(SEL)Modo <06>(STA)Detalles de la habilidad
+
+## POINTER 11 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+<06>(RBU)Usar arte <06>(STA)Detalles de la habilidad
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245002]
+<06>(RBU)Usar arte <06>(RBL)ON/OFF　<06>(L2)
+<06>(R2)Cambiar <06>(SEL)Modo <06>(STA)Detalles de la habilidad
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1262096456]
+<06>(LBD)Editar grupo
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1262281348]
+<06>(RBD)Confirmar　<06>(RBR)Volver
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+<06>(L2)<06>(R2)Categorías <06>(STA)Detalles
+
+## POINTER 16 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267357859]
+<06>(RBL)Quitar <06>(RBU)Habilidad <06>(R3)Mejor equipo
+<06>(L2)<06>(R2)Cambiar <06>(STA)Detalles
+
+## POINTER 17 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+<06>(RBU)Detalles de la habilidad. <06>(STA)Detalles <06>(SEL)Cambiar orden
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245176]
+<06>(LBR)Lista de habilidades <06>(RBL)Quitar <06>(L2)
+<06>(R2)Cambiar
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245176]
+<06>(RBU)Símbolo <06>(R3)Cancelar todo <06>(L2)
+<06>(R2)Cambiar <06>(L1)
+<06>(R1)Categoría <06>(SEL)Estado
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+<06>(RBL)Editar <06>(RBU)Formación
+
+## POINTER 21 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+<06>(RBD)Confirmar　<06>(RBR)Volver
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+<06>(RBD)Confirmar <06>(RBR)Volver <06>(RBU)Editar nombre de la estrategia <06>(SEL)Por defecto
+
+## POINTER 23 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+<06>(RBD)Confirmar　<06>(RBR)Volver
+
+## POINTER 24 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245176]
+<06>(LTN)Mover personaje <06>(L2)
+<06>(R2)Cambiar personaje
+
+## POINTER 25 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+<06>(RBD)Elegir <06>(RBR)Volver <06>(SEL)Por defecto
+
+## POINTER 26 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Objetivo
+
+## POINTER 27 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263135583]
+HP
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263135583]
+TP
+
+## POINTER 29 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Acción
+
+## POINTER 30 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Posición
+
+## POINTER 31 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Objeto
+
+## POINTER 32 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263135583]
+LIM
+
+## POINTER 33 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263135583]
+AL
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263135583]
+SP
+
+## POINTER 35 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263135583]
+Manual
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264339239]
+Semi-auto
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263135583]
+Auto
+
+## POINTER 38 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1262096456]
+Artes
+
+## POINTER 39 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1262096456]
+Modo
+
+## POINTER 40 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Atajo de artes
+
+## POINTER 41 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Principal
+
+## POINTER 42 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Secundaria
+
+## POINTER 43 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358090]
+Pecho
+
+## POINTER 44 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Cabeza
+
+## POINTER 45 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358537]
+Accesorios
+
+## POINTER 46 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Nada
+
+## POINTER 47 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Nada
+
+## POINTER 48 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Nada
+
+## POINTER 49 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Por defecto
+
+## POINTER 50 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Jugador
+
+## POINTER 51 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267358197]
+Configuración de la formación
+
+## POINTER 52 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+DEF F.
+
+## POINTER 53 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+HP
+
+## POINTER 54 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+TP
+
+## POINTER 55 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+ATQ F.
+
+## POINTER 56 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+DEF F.
+
+## POINTER 57 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+ATQ M.
+
+## POINTER 58 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+DEF M.
+
+## POINTER 59 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+AGL
+
+## POINTER 60 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+SUERTE
+
+## POINTER 61 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+SIN USAR
+
+## POINTER 62 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+SIN USAR
+
+## POINTER 63 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Nombre
+
+## POINTER 64 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Título
+
+## POINTER 65 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Complemento
+
+## POINTER 66 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245231]
+Nombres ficticios
+
+## POINTER 67 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245231]
+Títulos ficticios
+
+## POINTER 68 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264245231]
+Complementos ficticios
+
+## POINTER 69 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Ataque físico
+
+## POINTER 70 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Defensa física
+
+## POINTER 71 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Ataque mágico
+
+## POINTER 72 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Defensa mágica
+
+## POINTER 73 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Agilidad
+
+## POINTER 74 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Suerte
+
+## POINTER 75 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+SIN USAR
+
+## POINTER 76 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Atributo de ataque
+
+## POINTER 77 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Atributo de resistencia
+
+## POINTER 78 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Atributo débil
+
+## POINTER 79 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Gald
+
+## POINTER 80 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1262094065]
+Total
+
+## POINTER 81 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Habilidad 1
+
+## POINTER 82 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Habilidad 2
+
+## POINTER 83 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Habilidad 3
+
+## POINTER 84 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263814177]
+Personaje
+
+## POINTER 85 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072865]
+Menú
+
+## POINTER 86 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072865]
+Ingredientes necesarios
+
+## POINTER 87 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072865]
+Nada
+
+## POINTER 88 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072865]
+Carne
+
+## POINTER 89 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1254652658]
+Pescado
+
+## POINTER 90 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072865]
+Verduras
+
+## POINTER 91 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072865]
+Cereales
+
+## POINTER 92 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072865]
+Fruta
+
+## POINTER 93 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072865]
+Otros
+
+## POINTER 94 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072865]
+Arroz
+
+## POINTER 95 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072865]
+Pan
+
+## POINTER 96 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1262118387]
+Máx.
+
+## POINTER 97 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072824]
+<06>(RBD)Confirmar <06>(RBR)Volver <06>(RBU)Cocinar <06>(L3)Atajo
+
+## POINTER 98 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072824]
+<06>(RBD)Confirmar　<06>(RBR)Volver　<06>(RBU)Cocinar　<06>(L3)Atajo
+
+## POINTER 99 [t:1;r:2;ru:memnoch,parsec;user:soywiz;time:1254072824]
+<06>(RBD)Confirmar　<06>(RBR)Volver　<06>(RBL)Borrar

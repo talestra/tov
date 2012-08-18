@@ -1,0 +1,25 @@
+## POINTER 0
+
+Whoa, what was that?
+
+## POINTER 1
+
+I think it came from the west.
+
+## POINTER 2
+<STR>(KAR)
+That...seemed a little different 
+from an earthquake.
+
+## POINTER 3
+<STR>(JUD)
+Yes, it felt like there may 
+have been a landslide.
+
+## POINTER 4
+<STR>(RAV)
+That'd be one doozy of a landslide.
+
+## POINTER 5
+<STR>(YUR)
+Let's go have a look.

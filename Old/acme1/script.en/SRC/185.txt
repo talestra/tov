@@ -1,0 +1,62 @@
+## POINTER 0
+<STR>(EST_P)
+It looks like a dead end.
+
+## POINTER 1
+<STR>(YUR)
+Should we head back? Or...
+
+## POINTER 2
+<STR>(KAR)
+Hold on, I'm going to have a look around.
+
+## POINTER 3
+<STR>(KAR)
+Weird, there's not a keyhole or anything...
+
+## POINTER 4
+<STR>(YUR)
+Really...?
+
+## POINTER 5
+<STR>(KAR)
+<STR>(YUR), an amateur like you would never 
+be able to open a door like--
+
+## POINTER 6
+<STR>(KAR)
+What the...?
+
+## POINTER 7
+<STR>(YUR)
+I wouldn't want Captain <STR>(KAR) to dirty 
+his hands on such a filthy door!
+
+## POINTER 8
+<STR>(KAR)
+Oh, uh, r-right, ah hah hah...
+
+## POINTER 9
+<STR>(RIT)
+*Sigh*
+
+## POINTER 10
+<STR>(KAR)
+Well, shall we?
+
+## POINTER 11
+<STR>(YUR)
+Wouldn't it be crazy if a monster just gobbled up your foot 
+right now? Just a giant munch, and oops, no more foot.
+
+## POINTER 12
+<STR>(KAR)
+Wah, waaaaahh...!
+
+## POINTER 13
+<STR>(YUR)
+Heh, looks fine to me. Let's go inside.
+
+## POINTER 14
+<STR>(KAR)
+What am I, your test dummy?!

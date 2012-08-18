@@ -1,0 +1,519 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1297634412]
+Alexei
+<VOICE>(VS42_106)Ástal.<PAGE><VOICE>(VS42_107)¿Qué se siente al afrontar
+tus últimos momentos en el
+mismo templo que te rendía culto?<PAGE><VOICE>(VS42_108)¡Ja, ja, ja!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1297634412]
+Ástal
+<VOICE>(VS42_109)As... queroso... hu... mano...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(EST_P)
+<VOICE>(VS42_110)¡Ya basta! ¡Alexei, 
+detente, por favor!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Alexei
+<VOICE>(VS42_111)Ja. Si tantas ganas tienes
+de librarle de su sufrimiento...<PAGE><VOICE>(VS42_112)¿Por qué no usas tus
+artes curativas para
+sanarlo?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(EST_P)
+<VOICE>(VS42_113)...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+Alexei
+<VOICE>(VS42_114)¡Ja, ja, ja, ja!
+Estás completamente impotente.<PAGE><VOICE>(VS42_115)En solitario, no eres más
+que la ponzoña que envenena
+el mundo.<PAGE><VOICE>(VS42_116)Estoy convencido de que
+ya lo habrás comprendido.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+<STR>(YUR)
+<VOICE>(VS42_117)¡¿<STR>(EST_P), estás bien?!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(KAR)
+<VOICE>(VS42_118)¡<STR>(EST_P)!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Alexei
+<VOICE>(VS42_119)Otra vez vosotros. Sois unos
+insensatos la mar de tercos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(EST_P)
+<VOICE>(VS42_120)¡<STR>(YUR)! ¡Chicos!
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(RIT)
+<VOICE>(VS42_121)¡<STR>(EST_P), hemos
+venido a salvarte!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+Alexei
+<VOICE>(VS42_122)Je. Vosotros sois incapaces de
+salvar a esta princesa. Solo yo
+soy su esperanza de salvación.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_123)¡No vengas con esas!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+Alexei
+<VOICE>(VS42_124)El momento más glorioso
+de toda herramienta es
+el momento en el que se usa.<PAGE><VOICE>(VS42_125)Incluso el veneno del mundo
+puede ser una bendición si
+se usa correctamente.<PAGE><VOICE>(VS42_126)Y yo soy el único que puede hacer eso.<PAGE><VOICE>(VS42_127)Ahora, Princesa, ven
+conmigo. Sin mí, me
+temo que tu poder...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(EST_P)
+<VOICE>(VS42_128)¡Aaaaah!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(JUD)
+<VOICE>(VS42_129)¡Alexei, para! 
+¡Aah!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(EST_P)
+<VOICE>(VS42_130)¡<STR>(JUD)!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1297634412]
+Ástal
+<VOICE>(VS42_131)Gr... Aaah.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+Alexei
+<VOICE>(VS42_132)¡Ja, ja, ja! ¿No se suponía
+que los entelechia erais
+los amos de este mundo?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_133)¡¡Que pares ya!! ¡Suelta a <STR>(EST_P)!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+Alexei
+<VOICE>(VS42_134)Oh, qué decepción.
+Está muerto.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(EST_P)
+<VOICE>(VS42_135)¿Cómo es posible?...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+Alexei
+<VOICE>(VS42_136)Es más pequeña de lo que esperaba.
+No importa. Todavía puede ser útil
+de diversas formas.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_137)Alexei...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Alexei
+<VOICE>(VS42_138)Ah, habéis llegado hasta aquí. Ahora,
+¡recibid el bautismo de aer que vuestra
+querida princesa ha preparado con sus manos!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(KAR)
+<VOICE>(VS42_139)¡Aaaah!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(RIT)
+<VOICE>(VS42_140)¡Ugh!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+<STR>(EST_P)
+<VOICE>(VS42_141)¡No! ¡Por favor, detente!
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+<STR>(YUR)
+<VOICE>(VS42_142)Grr... ¡Chúpate esta!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Alexei
+<VOICE>(VS42_143)¿Qué? ¿Qué hacéis
+con esa espada? ¿Qué
+ha pasado con Duke?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+<STR>(YUR)
+<VOICE>(VS42_144)Nos la ha prestado
+y se ha largado.<PAGE><VOICE>(VS42_145)Y no parecía estar muy
+preocupado por ti.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1293981417]
+Alexei
+<VOICE>(VS42_146)
+Qué ironía. Y pensar que la
+que llevo buscando durante
+tantos años...
+<PAGE><VOICE>(VS42_147)Aparece ante mí justo
+cuando ya no la necesito
+para nada.<PAGE><VOICE>(VS42_148)Con la Hija de la Luna Llena, las apátheia
+y mis conocimiento, la Dein Nomos ya no
+significa nada para mí.
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+<STR>(YUR)
+<VOICE>(VS42_149)Te gusta menear la húmeda, ¿eh?
+Mala señal. ¡Ahora cierra la puñetera boca
+y suelta a <STR>(EST_P)!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Alexei
+<VOICE>(VS42_150)Je. ¿Estás seguro de
+que eso es lo que quiere la Princesa?
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+<STR>(JUD)
+<VOICE>(VS42_151)¡<STR>(EST_P)!
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(EST_P)
+<VOICE>(VS42_152)...
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+<STR>(RIT)
+<VOICE>(VS42_153)¡<STR>(EST_P)! ¡¿Qué te
+pasa?! ¡¡<STR>(EST_P)!!
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+<STR>(EST_P)
+<VOICE>(VS42_154)No... no lo sé.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(KAR)
+<VOICE>(VS42_155)¿De qué estás hablando?
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+<STR>(EST_P)
+<VOICE>(VS42_156)Si me quedo con vosotros,
+no haré más que causaros daño.<PAGE><VOICE>(VS42_157)
+Pero... quiero estar a
+vuestro lado. ¡No sé qué
+es lo que debería hacer!
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_158)¡Olvídate de eso, <STR>(EST_P)! 
+¡Ven aquí!<PAGE><VOICE>(VS42_159)¡Si tienes dudas sobre algo,
+lo resolveremos juntos!
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(EST_P)
+<VOICE>(VS42_160)¡<STR>(YUR)!...
+
+## POINTER 42 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_161)¡Aaagh!
+
+## POINTER 43 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(KAR)
+<VOICE>(VS42_162)¡Agh!
+
+## POINTER 44 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(RIT)
+<VOICE>(VS42_163)¡Aah!
+
+## POINTER 45 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(JUD)
+<VOICE>(VS42_164)¡Ugh!
+
+## POINTER 46 [t:1;r:1;ru:memnoch;user:memnoch;time:1285189135]
+<STR>(EST_P)
+<VOICE>(VS42_165)No... no puedo soportarlo...
+
+## POINTER 47 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Alexei
+<VOICE>(VS42_166)Vamos, 
+señor <STR>(YUR) Lowell.<PAGE><VOICE>(VS42_167)Un comportamiento tan escandaloso
+no es propio de la escolta de una dama.
+No resulta muy caballeroso por tu parte.
+
+## POINTER 48 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_168)Pues me tendrás que perdonar los modales.
+No puede decirse que haya muchos
+caballeros allí de donde vengo.
+
+## POINTER 49 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Alexei
+<VOICE>(VS42_169)Ahora esa espada no es si no
+una molestia. Me desharé de
+vosotros aquí mismo.
+
+## POINTER 50 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(EST_P)
+<VOICE>(VS42_170)¡<STR>(YUR)!
+
+## POINTER 51 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(RIT)
+<VOICE>(VS42_171)¡Fuera de mi camino!
+
+## POINTER 52 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(RIT)
+<VOICE>(VS42_172)¡¿Quién es este?!
+
+## POINTER 53 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_173)El capitán Schwann, 
+¿verdad?<PAGE><VOICE>(VS42_174)Creía que tú siempre le dejabas
+el trabajo sucio a tus caballeros.
+¿A qué viene este cambio?
+
+## POINTER 54 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(RAP)
+<VOICE>(VS42_500)Guau, guau... ¡Guau!
+
+## POINTER 55 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_175)¿Qué ocurre, <STR>(RAP)?
+
+## POINTER 56 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Schwann
+<VOICE>(VS42_176)Supongo que no se puede engatusar
+el olfato de un sabueso.
+
+## POINTER 57 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(JUD)
+<VOICE>(VS42_177)...
+
+## POINTER 58 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(KAR)
+<VOICE>(VS42_178)Esa voz...
+Espera... ¿<STR>(RAV)?
+
+## POINTER 59 [t:1;r:1;ru:memnoch;user:xander;time:1283484116]
+<STR>(JUD)
+<VOICE>(VS42_179)No tiene pinta de ser una broma...
+
+## POINTER 60 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+<STR>(RIT)
+<VOICE>(VS42_180)
+¿Uno de los miembros más destacados
+de la Unión es un capitán de
+los Caballeros Imperiales?
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:xander;time:1283484116]
+<STR>(YUR)
+<VOICE>(VS42_181)Je. Conque eso era
+lo que pasaba.
+
+## POINTER 62 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+<STR>(KAR)
+<VOICE>(VS42_182)¡Espera! ¿Qué me dices
+del Don, <STR>(RAV)?
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+Schwann
+<VOICE>(VS42_183)Parlamentar con vosotros
+no forma parte de mis obligaciones.
+
+## POINTER 64 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+<STR>(KAR)
+<VOICE>(VS42_184)¡<STR>(RAV)!
+
+## POINTER 65 [t:1;r:1;ru:memnoch;user:xander;time:1283484116]
+<STR>(YUR)
+<VOICE>(VS42_185)Tenemos algo de prisa,
+así que si no te importa...
+<PAGE><VOICE>(VS42_186)Espera, no estarás pensando
+en serio en cortarnos el
+paso, ¿verdad?
+
+## POINTER 66 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551462]
+<STR>(YUR)
+<VOICE>(VS42_187)Pero ¡¿qué narices?!
+
+## POINTER 67 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Schwann
+<VOICE>(VS42_188)Schwann Oltorain, primer
+capitán de los Caballeros
+Imperiales. Listo para la batalla.
+
+## POINTER 68 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Schwann
+<VOICE>(VS42_189)Arrgh.
+
+## POINTER 69 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_190)¡Eh!
+
+## POINTER 70 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Schwann
+<VOICE>(VS42_191)Je... Pensaba que semejante
+ataque conllevaría mi final...
+El de este cuerpo maldito.
+
+## POINTER 71 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551429]
+<STR>(RIT)
+<VOICE>(VS42_192)Pero ¿qué...? ¡¿Eso de
+su pecho es un blastia?!
+
+## POINTER 72 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(JUD)
+<VOICE>(VS42_193)Es su corazón...<PAGE><VOICE>(VS42_194)O más bien un blastia
+que le sirve de uno.
+
+## POINTER 73 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Schwann
+<VOICE>(VS42_195)Perdí el mío
+hace diez años.
+
+## POINTER 74 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(KAR)
+<VOICE>(VS42_196)Diez años... ¿Te refieres
+a la Gran Guerra?
+
+## POINTER 75 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+Schwann
+<VOICE>(VS42_197)Hallé la muerte
+durante ese conflicto.<PAGE><VOICE>(VS42_198)Pero Alexei creyó conveniente
+devolverme la vida con esto.
+
+## POINTER 76 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+<STR>(JUD)
+<VOICE>(VS42_199)Entonces se trata de
+otro blastia hermes.<PAGE><VOICE>(VS42_200)¿Cómo es que Ba'ul
+no lo notó?
+
+## POINTER 77 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Schwann
+<VOICE>(VS42_201)Es posible que se deba a que este
+no funciona consumiendo aer, sino
+mi propia fuerza vital.
+
+## POINTER 78 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(RIT)
+<VOICE>(VS42_202)¿Un blastia que funciona usando
+la vitalidad humana? No puede ser...
+
+## POINTER 79 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(KAR)
+<VOICE>(VS42_203)¿Qué ha sido eso?
+
+## POINTER 80 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(JUD)
+<VOICE>(VS42_204EA)Nos hemos quedado atrapados.
+
+## POINTER 81 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+Schwann
+<VOICE>(VS42_205)Debe de ser Alexei.
+Pretende sepultaros vivos.
+
+## POINTER 82 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_206)Espera, ¿qué? ¿Aunque
+tú sigas aquí dentro?
+
+## POINTER 83 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Schwann
+<VOICE>(VS42_207)Ahora que esa espada no le es de utilidad,
+no malgastará una oportunidad como esta
+para deshacerse de ella.
+
+## POINTER 84 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+<STR>(YUR)
+<VOICE>(VS42_208)Así que usaba a <STR>(EST_P) 
+para atraer a Duke aquí.<PAGE><VOICE>(VS42_209)Ese tío es más retorcido
+de lo que creía.
+
+## POINTER 85 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+<STR>(RIT)
+<VOICE>(VS42_210)¡A ver, viejales! ¡No es momento para
+quedarse contemplando las musarañas!
+
+## POINTER 86 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+Schwann
+<VOICE>(VS42_211)Mi hora por fin ha llegado.
+
+## POINTER 87 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(JUD)
+<VOICE>(VS42_212)Tú... no tenías intención
+de salir de aquí con vida.
+
+## POINTER 88 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+<STR>(YUR)
+<VOICE>(VS42_213)¿Quién te ha dicho
+que puedes quedarte
+aquí tirado y morirte?<PAGE><VOICE>(VS42_214)Aunque para ti viajar
+con nosotros no fuera
+más que una broma...<PAGE><VOICE>(VS42_215)¿Vas a decirme que la rabia
+que mostraste por la muerte
+del Don también fue una farsa?<PAGE><VOICE>(VS42_216)Creía que los miembros de los gremios
+nunca abandonan hasta acabar el trabajo.
+¡¿No fue ese su último deseo?!<PAGE><VOICE>(VS42_217)¡Sigue viviendo hasta el final!
+
+## POINTER 89 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+Schwann
+<VOICE>(VS42_218)Tío, a veces puedes ser
+tó un dolor de muelas,
+¿lo sabías?
+
+## POINTER 90 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+<STR>(YUR)
+<VOICE>(VS42_220)¡No! ¡No lo vamos
+a conseguir!
+
+## POINTER 91 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+<STR>(KAR)
+<VOICE>(VS42_219)¡<STR>(RAV)!
+
+## POINTER 92 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+<STR>(RIT)
+<VOICE>(VS42_221)¡No! ¡Si usas tu blastia
+de esta forma en el estado
+en el que estás, acabarás...!
+
+## POINTER 93 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+Schwann
+<VOICE>(VS42_222)No podré aguantar por
+mucho más rato... Largaos.
+
+## POINTER 94 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_223)¡Viejales!
+
+## POINTER 95 [t:1;r:1;ru:memnoch;user:memnoch;time:1285190100]
+Schwann
+<VOICE>(VS42_224)Alexei se dirige a la capital.
+Allí llevará a cabo la
+última parte de su plan.<PAGE><VOICE>(VS42_225)El resto... lo dejo en vuestras manos.
+
+## POINTER 96 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(KAR)
+<VOICE>(VS42_226)¡<STR>(RAV)! ¡¡<STR>(RAV)!!
+
+## POINTER 97 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_227)<STR>(KAR), vámonos...
+
+## POINTER 98 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(KAR)
+<VOICE>(VS42_228)¡Pero!
+
+## POINTER 99 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(YUR)
+<VOICE>(VS42_229)¡Muévete!
+
+## POINTER 100 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+<STR>(KAR)
+<VOICE>(VS42_230)...
+
+## POINTER 101 [t:1;r:1;ru:memnoch;user:xander;time:1283483964]
+Schwann
+<VOICE>(VS42_231)Je. M'estoy volviendo
+blando con la edá...

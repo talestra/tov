@@ -1,0 +1,117 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(YUR)
+¿Qué pasa, <STR>(KAR)? ¿No puedes dormir?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(KAR)
+No... He tenido una pesadilla.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1281091518]
+<STR>(YUR)
+¿Una pesadilla?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(KAR)
+He soñado que todos ibais a morir y que
+corría para salvaros... pero por mucho
+que lo hiciera, no lograba acercarme.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(YUR)
+Eso suena a una pesadilla en toda regla.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(KAR)
+Me he asustado tanto
+que me he despertado.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(YUR)
+Míralo desde otro punto de vista: mientras
+no puedas dormir, no despertarás a los demás.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(YUR)
+¿No te has dado cuenta?
+Bueno, es normal. Hablas
+en sueños, <STR>(KAR). Y mucho.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1281091518]
+<STR>(KAR)
+¿Cómo iba a saber eso?
+¡Si estoy dormido!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(YUR)
+Ja, ja. Sí, tienes razón.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(YUR)
+Si aún te afecta
+la muerte del Don...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1281091518]
+<STR>(KAR)
+...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(KAR)
+No se trata solo de lo que le pasó.<PAGE>
+No sé qué puedo hacer para
+Gran Vesperia. Ni tampoco
+sé de lo que soy capaz.<PAGE>Aún tengo que averiguarlo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:Lia;time:1281091518]
+<STR>(YUR)
+Ya veo.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(KAR)
+Por eso apenas puedo pegar ojo.<PAGE>¿A ti también te preocupa algo tanto que te impida dormir?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(YUR)
+Qué va. Yo soy un
+hombre de acción.<PAGE>
+Pensar mucho las cosas me da dolor de cabeza.
+Prefiero actuar antes de darle a esos mecanismos oxidados
+que tengo en el cerebro. Le pega más a mi personalidad.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(KAR)
+Tu personalidad, ¿eh? Me pregunto
+qué es lo que le pega a la mía.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(YUR)
+Quizá se te aclaren las ideas si te echas
+una buena dormida y te viene un buen sueño.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1281091518]
+<STR>(KAR)
+No puedo huir de mis
+sueños para siempre.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(YUR)
+Y no lo estarías haciendo.
+Estarías soñando para
+volver con nosotros.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(KAR)
+Cierto...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(KAR)
+Estoy seguro de que me dormiré en cuanto
+me tumbe un rato en la cama de la posada.<PAGE>No te preocupes por mí, adelántate.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(YUR)
+Vale.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1284260538]
+<STR>(YUR)
+Aunque razone las cosas en su cabeza,
+a su corazón le costará hacer lo mismo.<PAGE>Supongo que así es como es.

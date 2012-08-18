@@ -1,0 +1,11 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1271104212]
+
+<03>(2)Por favor�c
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1271085754]
+
+<03>(2)¿<STR>(EST_P)<03>(2)?...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:parsec;time:1270899664]
+
+<03>(2)Florece...

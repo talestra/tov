@@ -1,0 +1,173 @@
+## POINTER 0 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1262471084]
+Ninguno
+
+## POINTER 1 [t:1;r:2;ru:memnoch,parsec;user:evilluendas;time:1262471084]
+Jefe derrotado
+
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263062010]
+Combo bonus por derrotar al jefe
+
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+La aliada no ha recibido demasiados ataques
+
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+Enemigo derribado por atacar sus puntos débiles
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298226609]
+Enemigo derribado por venus estornudaderas
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264253873]
+Enemigo lanzado al mar
+
+## POINTER 7 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+Enemigo derribado por un puñetazo
+
+## POINTER 8 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+El enemigo no ha podido recuperarse al usar Serpiente
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+El enemigo no ha podido pedir refuerzos
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+El enemigo ha absorbido demasiada magia
+
+## POINTER 11 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+Evitar la unión del murciélago líder y derrotarlo
+
+## POINTER 12 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+Destruir el núcleo y evitar la inversión del día y la noche
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264253873]
+Cirios encendidos y fantasma eliminado
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254314]
+Golpe entre ciertos ataques y enemigo derribado
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+Enemigo golpeado mientras sostenía el corazón
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254314]
+Enemigo forzado a curarse el veneno
+
+## POINTER 17 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254314]
+Enemigo golpeado tres veces mientras usaba Filo helado
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264052780]
+Recuerdo materno usado
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264302090]
+Atacado con Lluvia en una Rotura de guardia
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+Enemigo golpeado justo después de su arte místico
+
+## POINTER 21 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264302090]
+Enemigo derribado después de que se recogiera su cola
+
+## POINTER 22 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254605]
+Golpe entre ciertos ataques y enemigo derribado
+
+## POINTER 23 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+<STR>(FRE) ha usado todas sus artes
+
+## POINTER 24 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+Golpe justo después de ---- y enemigo derribado
+
+## POINTER 25 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254605]
+Enemigo derrotado usando un arte místico
+
+## POINTER 26 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254605]
+Bonus de cadena de ataques letales
+
+## POINTER 27 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263942276]
+Daño recibido
+
+## POINTER 28 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263942276]
+Daño combo recibido
+
+## POINTER 29 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263942276]
+Ataque bloqueado
+
+## POINTER 30 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263942276]
+Ataque bloqueado con Guardia mágica
+
+## POINTER 31 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254605]
+Atacado con un atributo resistente
+
+## POINTER 32 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254605]
+Enemigo derribado
+
+## POINTER 33 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+Enemigo confuso derribado en el aire
+
+## POINTER 34 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+Enemigo derribado en el aire
+
+## POINTER 35 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263065817]
+Jugador derrotado
+
+## POINTER 36 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263065817]
+Aliado derrotado
+
+## POINTER 37 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262346962]
+Combo de 10 golpes
+
+## POINTER 38 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262346962]
+Combo de 25 golpes
+
+## POINTER 39 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262346962]
+Combo de 50 golpes
+
+## POINTER 40 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262346962]
+Combo de 100 golpes
+
+## POINTER 41 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262346962]
+Combo de 250 golpes
+
+## POINTER 42 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262346962]
+Combo de 500 golpes
+
+## POINTER 43 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262346962]
+Combo de 999 golpes
+
+## POINTER 44 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262353166]
+Arte explosivo usado
+
+## POINTER 45 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262353166]
+Ataque letal usado
+
+## POINTER 46 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262353166]
+Arte místico usado
+
+## POINTER 47 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263063398]
+Has terminado en 2 s o menos
+
+## POINTER 48 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263063398]
+Has terminado en 5 s o menos
+
+## POINTER 49 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263063398]
+Has terminado en 10 s o menos
+
+## POINTER 50 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263063398]
+Has terminado en 20 s o menos
+
+## POINTER 51 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1262347028]
+No has recibido daño
+
+## POINTER 52 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+Objeto sanador usado
+
+## POINTER 53 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263062208]
+HP al máximo al final de la batalla
+
+## POINTER 54 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263062208]
+TP al máximo al final de la batalla
+
+## POINTER 55 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264548992]
+El jugador ha quedado inconsciente al final de la batalla
+
+## POINTER 56 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1264254605]
+Jugador herido
+
+## POINTER 57 [t:1;r:2;ru:memnoch,parsec;user:Xadou;time:1263062208]
+Modo manual

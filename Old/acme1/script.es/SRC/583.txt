@@ -1,0 +1,50 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160885]
+<STR>(YUR)
+<VOICE>(VA013_024)Oye, ¿en serio nos
+la vamos a llevar?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160885]
+<STR>(KAR)
+<VOICE>(VA013_025)¡Por supuesto!
+Bueno, es el trabajo
+que nos dieron.<PAGE><VOICE>(VA013_026)Y ya viste lo mucho que quería
+el cliente la livianita.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1284743364]
+<STR>(YUR)
+<VOICE>(VA013_027)Ya, pero ¿por qué ese monstruo
+está tan interesado en ella?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1284743442]
+<STR>(KAR)
+<VOICE>(VA013_028)Ba'ul puede sobrevolarlo.
+¿Verdad, <STR>(JUD)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1284743364]
+<STR>(JUD)
+<VOICE>(VA013_029)Claro.<PAGE><VOICE>(VA013_030)Pero esa no es
+la cuestión, ¿no?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1284743364]
+<STR>(YUR)
+<VOICE>(VA013_031)No, solo me pregunto si está bien
+llevarse algo que parece tan importante.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160885]
+<STR>(KAR)
+<VOICE>(VA013_032)Nobis nos confió
+este trabajo.<PAGE><VOICE>(VA013_033)Quiero llevársela.
+Creo que es lo correcto.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1284743364]
+<STR>(YUR)
+<VOICE>(VA013_034)Bueno, si lo dices así...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1292160885]
+<STR>(JUD)
+<VOICE>(VA013_035)Quizá deberíamos preguntarle al cliente
+qué es lo que quiere que hagamos.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1284743364]
+<STR>(KAR)
+<VOICE>(VA013_036)Sí, hagamos eso.

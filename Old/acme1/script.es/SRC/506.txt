@@ -1,0 +1,173 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(YUR)
+Se respira un ambiente bastante raro.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(KAR)
+Sí... La Unión se
+está viniendo abajo...
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(RAV)
+No hay naide que s'atreva
+a ocupar el puesto der Don.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(RAV)
+Y su heredero tampoco es que sea mu allá.
+Vamos, no te pares y aligera.
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+Harry
+El abuelo murió
+por mi culpa.<PAGE>Alguien como yo jamás podría
+llegar a ser un hombre como él.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(RAV)
+Naide dice que tengas
+que serlo.<PAGE>Tan solo que deberías
+asistir a las reuniones
+de la sucesión.
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(RIT)
+Oye, ¿tienes la apátheia
+del Don? Nos harías un gran
+favor si nos la prestaras.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298572876]
+<STR>(KAR)
+Hala, sí que vas directa
+al grano, <STR>(RIT)...
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+Harry
+Esa apátheia es para quien
+suceda al Don. No se la
+puedo dar a nadie más.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298572876]
+<STR>(RIT)
+¿Qué? Entonces, ¿cuándo
+elegirán al sucesor?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+Harry
+No lo sé.
+A mí no me preguntéis.
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(YUR)
+El chaval este es de lo que no hay.<PAGE>¿Quién va a proteger la ciudad
+si no lo hace la Unión?
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+
+¿Que quién? ¡Pues nuestro
+gremio, por supuesto!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1286289146]
+
+¿Vuestro gremio?<PAGE>Sé que enviasteis
+vuestros miembros de
+Nubes del Alba a Zaude.
+
+## POINTER 14 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+
+La Unión jamás se ha quedado atrás
+con respecto al Imperio. ¡No podemos
+quedarnos sentados y dejar que ocurra ahora!
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+
+Digo que fue una imprudencia.
+El Imperio podría haberlo interpretado
+como una acción hostil.
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+
+En ese caso, habríamos defendido
+nuestro honor en el campo de batalla.
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+
+¿Y quién habría dirigido la batalla?
+¿Los Nubes del Alba?<PAGE>Si el Don estuviera aquí, se habría
+partido de la risa al oírlo.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1298572876]
+
+Entonces, ¿por qué los
+de Altosk no os ofrecéis?<PAGE>¡Así os daríais cuenta de lo impopulares
+que sois en realidad!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1298572876]
+<STR>(YUR)
+Esto es ridículo. Seguid
+discutiendo hasta que
+el mundo se acabe si queréis.<PAGE>Pero no seáis tan idiotas
+de iniciar una guerra entre
+gremios. Esto no es ninguna broma.
+
+## POINTER 20 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(KAR)
+No hay nada de malo en que tus amigos
+te ayuden. Proteged a vuestros amigos
+y ellos os protegerán a vosotros.<PAGE>Eso fue lo último que
+me dijo el Don.
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(YUR)
+<STR>(KAR).
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+
+Pero bueno, ¿y este niño quién es?
+
+## POINTER 23 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(KAR)
+¡Yo solo soy incapaz de hacer nada,
+pero tengo a mis amigos!<PAGE>¡Y cuando estoy con ellos soy
+capaz de hacer cualquier cosa!<PAGE>Ellos siguen a mi lado incluso ahora.
+
+## POINTER 24 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(KAR)
+¡¿Por qué la Unión
+no puede hacer lo mismo?!
+
+## POINTER 25 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(RAV)
+Er chavalín tiene razón. Lo mejor
+que siempre han tenío los gremios es
+su capacidad de ayudarse mutuamente.<PAGE>Aunque uno no sea un gran líder,
+siempre hay una manera de
+hacer las cosas.
+
+## POINTER 26 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(YUR)
+El Don os dijo que a partir
+de ahora deberías valeros
+por vosotros mismos.<PAGE>¿Sois capaces de hacerlo o no?
+
+## POINTER 27 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+
+...
+
+## POINTER 28 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+
+Hacéis que parezca
+fácil, pero...
+
+## POINTER 29 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(YUR)
+Larguémonos. Acabaré echando la pota
+si me quedo aquí más tiempo.
+
+## POINTER 30 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+<STR>(RIT)
+¡Oye, tú, espera!
+
+## POINTER 31 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1286220637]
+Harry
+...

@@ -1,0 +1,199 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(YUR)
+<VOICE>(VS26_059)¿Mmm? ¿Será esto de aquí?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(JUD)
+<VOICE>(VS26_060)Está aferrado a algo.
+Debía ser algo muy
+importante para él.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1290163536]
+<STR>(KAR)
+<VOICE>(VS26_061)¿Creéis que es
+el cristal cielo claro?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(YUR)
+<VOICE>(VS26_062)Bueno, la descripción coincide
+con la del diario.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RIT)
+<VOICE>(VS26_063)¡A ver, viejales, ya lo estás sacando!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RAV)
+<VOICE>(VS26_064)Mmm, pos va a ser que no. ¿Qué sus habéis
+creío los chavales de hoy día soltando
+cosas asín a vuestros mayores?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1290163536]
+<STR>(JUD)
+<VOICE>(VS26_065)Aquí tienes.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1290163536]
+<STR>(RAV)
+<VOICE>(VS26_066)¡Aaaah!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1290163536]
+<STR>(RAV)
+<VOICE>(VS26_067)<STR>(JUD), cariño,
+tienes nervios d'acero.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1290163536]
+<STR>(JUD)
+<VOICE>(VS26_068)¿Creéis que está maldito?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RAV)
+<VOICE>(VS26_069)Eh, el cacharro este ta atascao.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(KAR)
+<VOICE>(VS26_070)M-M-Monst...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RAV)
+<VOICE>(VS26_071)¿Ein?... ¡Aaaaah!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1290163536]
+<STR>(JUD)
+<VOICE>(VS26_072)Parece tener
+el efecto contrario.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(KAR)
+<VOICE>(VS26_073)¡¿Qué quieres decir?!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1290163536]
+<STR>(JUD)
+<VOICE>(VS26_074)Está atrayendo a los monstruos
+hacia nosotros.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(EST_P)
+<VOICE>(VS26_075)¡Que vienen!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RAV)
+<VOICE>(VS26_076)¡Joróbate tú! Er pobrecillo <STR>(RAV)
+s'está haciendo mu mayor pa esto.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(JUD)
+<VOICE>(VS26_077)¿Mejor se lo devolvemos?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(KAR)
+<VOICE>(VS26_078)¡Creo que es justo lo que quiere!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(EST_P)
+<VOICE>(VS26_079)Quiero... quiero llevar
+el cristal cielo claro
+hasta Yormgen en su lugar.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RIT)
+<VOICE>(VS26_080)¡¿Lo cuálo?!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1290163536]
+<STR>(EST_P)
+<VOICE>(VS26_081)¿Podemos añadir eso a
+la lista de trabajos
+para el gremio?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(KAR)
+<VOICE>(VS26_082)No podemos, <STR>(EST_P).<PAGE><VOICE>(VS26_083)Las reglas dicen que los gremios
+pequeños como el nuestro no pueden
+aceptar un encargo nuevo<PAGE><VOICE>(VS26_084)hasta que se haya completado
+el que está pendiente.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RAV)
+<VOICE>(VS26_085)Los gremios primerizos obtienen
+su reputación a base de completar
+sus encargos ar pie de la letra.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(JUD)
+<VOICE>(VS26_086)¿Mm? ¿Acaso el gremio va a empezar
+otra vez a ir de aquí para allá al
+son de los caprichitos de esta niña?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RIT)
+<VOICE>(VS26_087)¡Oye! ¡Tampoco hace
+falta que le hables
+de esa manera!
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(EST_P)
+<VOICE>(VS26_088)<STR>(RIT), espera...<PAGE><VOICE>(VS26_089)<STR>(JUD), lo siento.<PAGE><VOICE>(VS26_090)Pero de verdad quiero ayudarle
+a entregar esto... a la persona
+que lo estaba esperando.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1290163536]
+<STR>(YUR)
+<VOICE>(VS26_091)No creo yo que haya nadie
+que espere por mil años.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(EST_P)
+<VOICE>(VS26_092)...
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1290163536]
+<STR>(RIT)
+<VOICE>(VS26_093)Yo lo encontraré.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1290163536]
+<STR>(EST_P)
+<VOICE>(VS26_094)<STR>(RIT)...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RIT)
+<VOICE>(VS26_095)Ya tienes suficientes rollos entre manos
+con tu escolta y tu búsqueda de Phaeroh,
+¿no crees, <STR>(EST_P)?<PAGE><VOICE>(VS26_096)Yo puedo hacer lo que me plazca.
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(KAR)
+<VOICE>(VS26_097)Bueno, ¡pues entonces yo también voy!
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(YUR)
+<VOICE>(VS26_098)A mí tampoco me importaría unirme.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RIT)
+<VOICE>(VS26_099)¡Un segundo! ¡Vosotros
+ya tenéis cosas que hacer!
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(YUR)
+<VOICE>(VS26_100)Sabes bien que vas a acabar viniendo
+con nosotros de todas formas.<PAGE><VOICE>(VS26_101)Así que no veo inconveniente
+en echarte una mano mientras
+vayamos juntos.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(EST_P)
+<VOICE>(VS26_102)¡Gracias!
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RAV)
+<VOICE>(VS26_103)Ah, quien pillara er brío de la juventú.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(RAV)
+<VOICE>(VS26_104)¿Eh?
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847260]
+<STR>(JUD)
+<VOICE>(VS26_105)¿Pasa algo?
+
+## POINTER 41 [t:1;r:1;ru:memnoch;user:memnoch;time:1291847275]
+<STR>(RAV)
+<VOICE>(VS26_106)Pa mí que hay humo ahí fuera.

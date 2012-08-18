@@ -1,0 +1,47 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1253819198]
+Continuar será más difícil
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180182]
+(KAR)
+*Gruñido*...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180182]
+(RAV)
+Mmm...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180182]
+(KAR)
+¿Qué pasa, (RAV)?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180182]
+(RAV)
+Tú primero, chaval. ¿A qué viene ese gruñido?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180182]
+(KAR)
+Me siento un poco raro.
+Es como una presión en el pecho.
+
+## POINTER 6 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267435079]
+(RAV)
+¡Mira tú por dónde! Yo toy igual.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180182]
+(JUD)
+Tal vez sea un pequeño mareo aérico.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180182]
+(JUD)
+La cantidad de aer en el mundo está aumentando;
+vosotros sois más propensos a sentirlo.
+Quizá pronto les pase lo mismo a otras personas.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180182]
+(KAR)
+No se me había ocurrido...
+Cada vez será más difícil...
+seguir adelante, ¿verdad?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1266180182]
+(RAV)
+Nos acercamos al final, entonces...

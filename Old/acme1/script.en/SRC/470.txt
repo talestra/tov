@@ -1,0 +1,114 @@
+## POINTER 0
+Ioder
+<VOICE>(VS48_065)...Are you going out alone?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS48_066)I don't think that's any of 
+Your Highness's concern.<PAGE><VOICE>(VS48_067)I want to know how things 
+are in the lower quarter, so 
+I'm just gonna go take a look.
+
+## POINTER 2
+Ioder
+<VOICE>(VS48_068)The Council has decided to bring 
+formal charges of criminal conspiracy 
+against Alexei.<PAGE><VOICE>(VS48_069)The Knights are currently forming a strategy 
+for reentering the capital from Deidon Hold.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS48_070)With all that aer in the city? 
+I doubt they'll get very far.
+
+## POINTER 4
+Ioder
+<VOICE>(VS48_071)...<STR>(EST) 
+is with Alexei, 
+isn't she?
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS48_072)How did... So you caught on, 
+huh? I wondered why you 
+didn't bring her up earlier.
+
+## POINTER 6
+Ioder
+<VOICE>(VS48_073)What do you intend to do about her?
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS48_074)What do you mean?
+
+## POINTER 8
+Ioder
+<VOICE>(VS48_075)...All those who carry the imperial 
+blood possess a certain power.<PAGE><VOICE>(VS48_076)In most of us it is too faint 
+to be of use, but I have heard 
+that hers is extraordinary.<PAGE><VOICE>(VS48_077)I'm sure it was for this reason that the 
+Council threw their support behind her.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS48_078)Why are you bringing this up now?
+
+## POINTER 10
+Ioder
+<VOICE>(VS48_079)Isn't this current disaster 
+being caused by her power?
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS48_080)So what if it is?
+
+## POINTER 12
+Ioder
+<VOICE>(VS48_081)The Knights may have to... 
+You're aware that defeating 
+Alexei may not be enough.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS48_082)That's not going to happen.
+
+## POINTER 14
+Ioder
+<VOICE>(VS48_083)...Because you'll 
+do it yourself?
+
+## POINTER 15
+Ioder
+<VOICE>(VS48_084)<STR>(FRE) told me about you. That 
+you always try to carry far too 
+much on your own shoulders.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS48_085)You can tell him that 
+we'll be just fine 
+without the help.
+
+## POINTER 17
+Ioder
+<VOICE>(VS48_086)But why?
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS48_087)I thought I told you, this 
+isn't your concern.
+
+## POINTER 19
+Ioder
+<VOICE>(VS48_088)That sword... Perhaps 
+you are just the person 
+it was waiting for.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS48_089)Keep talking and I'll 
+try it out on you.
+
+## POINTER 21
+Ioder
+<VOICE>(VS48_090)...Forgive me.

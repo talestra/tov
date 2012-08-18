@@ -1,0 +1,51 @@
+## POINTER 0 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266826836]
+El hambre es el mejor condimento
+
+## POINTER 1 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266826836]
+(KAR)
+Qué hambre tengo...
+
+## POINTER 2 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267443607]
+(RAV)
+M'estoy muriendo...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983342]
+(YUR)
+¿Tan pronto? Las chicas
+parecen llevarlo bien.
+
+## POINTER 4 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266826836]
+(KAR)
+¿Esa ha sido (EST_P)?... ¡Oíd!
+¡Su estómago también está sonando!
+
+## POINTER 5 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266826836]
+(EST_P)
+Puedo esperar. Aunque
+resulta algo difícil...
+
+## POINTER 6 [t:1;r:2;ru:evilluendas,memnoch;user:parsec;time:1267317590]
+(RAV)
+¿Mmm? Ese sonío parecía
+venir de (RIT).
+
+## POINTER 7 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266826836]
+(YUR)
+(JUD_P), ¿tú también? ¿Es que intentáis
+ver quién aguanta por más tiempo?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1297983342]
+(JUD)
+Puede que una dieta sea un poco
+como una competición de aguante.
+
+## POINTER 9 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1267299928]
+(RAV)
+¿Una dieta? ¡¿Pa qué necesitáis
+una dieta?! ¡Sobre tó tú, (RIT)!
+Pierde más peso y acabarás...
+
+## POINTER 10 [t:1;r:2;ru:maz,memnoch;user:Maz;time:1266826836]
+(RIT)
+Solo estoy esperando a terminar
+de leer este libro, ¿vale?

@@ -1,0 +1,304 @@
+## POINTER 0
+Nearby Enemies
+
+## POINTER 1
+Attack the nearest enemy.
+
+## POINTER 2
+Distant Enemies
+
+## POINTER 3
+Attack the furthest enemy.
+
+## POINTER 4
+Same Enemy
+
+## POINTER 5
+Attack the same enemy as the player.
+
+## POINTER 6
+Different Enemy
+
+## POINTER 7
+Attack a different enemy from the player.
+
+## POINTER 8
+Strong Enemies
+
+## POINTER 9
+Attack enemy with the highest level.
+
+## POINTER 10
+Weak Enemies
+
+## POINTER 11
+Attack enemy with low HP.
+
+## POINTER 12
+Help Allies
+
+## POINTER 13
+Defend allies with low HP.
+
+## POINTER 14
+Arte Users
+
+## POINTER 15
+Attack enemies using Artes.
+
+## POINTER 16
+Flying Enemies
+
+## POINTER 17
+Attack flying enemies.
+
+## POINTER 18
+Full Attack
+
+## POINTER 19
+Attack regardless of remaining HP.
+
+## POINTER 20
+Endure
+
+## POINTER 21
+Take distance between enemy once HP
+is below 25%.
+
+## POINTER 22
+Moderate
+
+## POINTER 23
+Take distance between enemy once HP
+is below 50%.
+
+## POINTER 24
+Avoid Risk
+
+## POINTER 25
+Take distance between enemy once HP
+is below 75%.
+
+## POINTER 26
+Full Artes
+
+## POINTER 27
+Attack regardless of remaining TP.
+
+## POINTER 28
+Use 75%
+
+## POINTER 29
+Use Artes but do not let TP drop below 25%.
+
+## POINTER 30
+Use Half
+
+## POINTER 31
+Use Artes but do not let TP drop below 50%.
+
+## POINTER 32
+Use 25%
+
+## POINTER 33
+Use Artes but do not let TP drop below 75%.
+
+## POINTER 34
+Do Not Use
+
+## POINTER 35
+Do not use Artes.
+
+## POINTER 36
+Up To You
+
+## POINTER 37
+Leave all actions up to the character.
+
+## POINTER 38
+Artes Only
+
+## POINTER 39
+Use only Strike and Magic Artes.
+
+## POINTER 40
+Strike Artes Only
+
+## POINTER 41
+Use only Strike Artes.
+
+## POINTER 42
+Magic Artes Only
+
+## POINTER 43
+Use only Magic Artes.
+
+## POINTER 44
+Heal
+
+## POINTER 45
+Keep a close eye on HP.
+
+## POINTER 46
+Cure
+
+## POINTER 47
+Watch out for Physical Ailments.
+
+## POINTER 48
+Assist
+
+## POINTER 49
+Use Artes and items with support effect to back up your allies.
+
+## POINTER 50
+Defend
+
+## POINTER 51
+Concentrate on guarding enemy attacks.
+
+## POINTER 52
+Free Move
+
+## POINTER 53
+Move freely despite default formation.
+
+## POINTER 54
+Keep Formation
+
+## POINTER 55
+Do not chase enemy too far and keep formation.
+
+## POINTER 56
+Keep Distance
+
+## POINTER 57
+Keep distance between enemies.
+
+## POINTER 58
+Flexible
+
+## POINTER 59
+Change action according to circumstances.
+
+## POINTER 60
+Watch HP
+
+## POINTER 61
+Use items when HP is low.
+
+## POINTER 62
+Watch TP
+
+## POINTER 63
+Use items when TP is low.
+
+## POINTER 64
+Condition
+
+## POINTER 65
+Use items when affected by abnormal status.
+
+## POINTER 66
+Do Not Use
+
+## POINTER 67
+Do not use items.
+
+## POINTER 68
+Up To You
+
+## POINTER 69
+Allow character to use items freely.
+
+## POINTER 70
+Aim
+
+## POINTER 71
+Aim whenever there is a chance.
+
+## POINTER 72
+VS Boss
+
+## POINTER 73
+During boss battles only, aim whenever there is a chance.
+
+## POINTER 74
+Multiple Enemy
+
+## POINTER 75
+Aim when there are multiple enemies.
+
+## POINTER 76
+Do Not Use
+
+## POINTER 77
+Do not use Fatal Strike.
+
+## POINTER 78
+Use Lv.1 Over Limit
+
+## POINTER 79
+Use Level 1 Over Limit.
+
+## POINTER 80
+Use Lv.2 Over Limit
+
+## POINTER 81
+Use Level 2 Over Limit.
+
+## POINTER 82
+Use Lv.3 Over Limit
+
+## POINTER 83
+Use Level 3 Over Limit.
+
+## POINTER 84
+Use Lv.4 Over Limit
+
+## POINTER 85
+Use Level 4 Over Limit.
+
+## POINTER 86
+Use at critical moments.
+
+## POINTER 87
+Use when danger is sensed.
+
+## POINTER 88
+Do Not Use
+
+## POINTER 89
+Do not use Over Limit.
+
+## POINTER 90
+Leave It To Me
+
+## POINTER 91
+Allies will maintain distance from the enemy.
+
+## POINTER 92
+Caution!
+
+## POINTER 93
+Allies will take the guard position.
+
+## POINTER 94
+Assemble!
+
+## POINTER 95
+Allies will take position around Karol.
+
+## POINTER 96
+Beware Of Magics!
+
+## POINTER 97
+Allies will take the magic guard position.
+(Only when the Magic Guard skill is set.)
+
+## POINTER 98
+Take It Easy
+
+## POINTER 99
+Allies will use Taunt.
+(Only when the Taunt skill is set)

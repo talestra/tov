@@ -1,0 +1,254 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS47_027)Hey, what's with this. I know 
+I've seen this somewhere...
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS47_028)It's an aer krene!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS47_029)Huh, there's one even out here.
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS47_030)It's not putting out any aer, 
+though. Maybe it's what's 
+left over when they dry up.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS47_031)This area doesn't seem desolate 
+enough for that, though.
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS47_032)Everyone, be on your guard!
+
+## POINTER 6
+<STR>(KAR)
+<VOICE>(VS47_033)Oh man, th-there it is again!
+
+## POINTER 7
+<STR>(RAV)
+<VOICE>(VS47_034)We're up on this rock, 
+right? We'll be fine.
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS47_035)Or not.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS47_036)!!
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS47_037)The aer krene?!
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS47_038)Look out!
+
+## POINTER 12
+<STR>(KAR)
+<VOICE>(VS47_039)Aah, Y-<STR>(YUR)?!
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS47_040)Uagh...!
+
+## POINTER 14
+<STR>(JUD)
+<VOICE>(VS47_041)...A monster that 
+uses an aer krene 
+to trap its prey?
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS47_042)<STR>(KAR), run!
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VS47_043)N-no way! You guys'll 
+all get eaten up!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS47_044)This isn't something you 
+can beat on your own!
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VS47_045)But!!
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS47_046)Uuuh...!!
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS47_047)I gotta do this... 
+I gotta do it now...
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS47_048)<STR>(KAR)!
+
+## POINTER 22
+<STR>(KAR)
+<VOICE>(VS47_049)Now or never!!
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS47_050)Yaaaah!!
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS47_056)<STR>(KAR)! Stop this! 
+It's crazy!
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VS47_057)I can't watch this! I told 
+you to get out of here!
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS47_058)I-I'm fine...
+
+## POINTER 27
+<STR>(RIT)
+<VOICE>(VS47_059)You most certainly are not!
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS47_060)No, it's all right. You guys 
+are all here with me.
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS47_061)<STR>(KAR)...don't...
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS47_062)You're all right behind me.<PAGE><VOICE>(VS47_063)So no matter how bad 
+I'm beat up, I can't lose.
+
+## POINTER 31
+<STR>(RAV)
+<VOICE>(VS47_064)Move, damn it! If ya 
+don't, the kid's gonna...
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS47_065)<STR>(KAR)!
+
+## POINTER 33
+<STR>(JUD)
+<VOICE>(VS47_066)How did he...!
+
+## POINTER 34
+<STR>(KAR)
+<VOICE>(VS47_067)You're mine!
+
+## POINTER 35
+<STR>(RAV)
+<VOICE>(VS47_068)How the hell did 
+he pull that off? 
+Hey, is he alive?
+
+## POINTER 36
+<STR>(KAR)
+<VOICE>(VS47_069)Hey guys!
+
+## POINTER 37
+<STR>(YUR)
+<VOICE>(VS47_070)Sorry we're late, traffic was 
+awful. You doing all right?
+
+## POINTER 38
+<STR>(KAR)
+<VOICE>(VS47_071)Y-yeah. Of course!
+
+## POINTER 39
+<STR>(YUR)
+<VOICE>(VS47_072)All right, let's pay this 
+guy back double for all 
+those knocks you took!
+
+## POINTER 40
+Information
+<STR>(KAR) is not in your party.
+Please form a party with <STR>(KAR) as a member.
+
+## POINTER 41
+<STR>(RIT)
+<VOICE>(VS47_073)You idiot, what were you 
+thinking, doing that alone...?
+
+## POINTER 42
+<STR>(RIT)
+<VOICE>(VS47_074)<STR>(KAR)!
+
+## POINTER 43
+<STR>(YUR)
+<VOICE>(VS47_075)<STR>(KAR)! Hey! 
+<STR>(KAR)!
+
+## POINTER 44
+<STR>(RAV)
+<VOICE>(VS47_076)Come on! Keep 
+it together, kid!
+
+## POINTER 45
+<STR>(JUD)
+<VOICE>(VS47_077)...He's all right.<PAGE><VOICE>(VS47_078)Once he calmed down 
+it all went out of him. 
+He's just passed out.
+
+## POINTER 46
+<STR>(RIT)
+<VOICE>(VS47_079)This kid... What if you'd 
+checked out before 
+we even rescued <STR>(EST_P)?
+
+## POINTER 47
+<STR>(RAV)
+<VOICE>(VS47_080)Cut him a little slack, now. 
+Facin' down challenges like 
+that is part of becomin' a man.<PAGE><VOICE>(VS47_081)Not to mention he 
+saved our butts.
+
+## POINTER 48
+<STR>(YUR)
+<VOICE>(VS47_082)Yeah. We would've been 
+lunch without <STR>(KAR).
+
+## POINTER 49
+<STR>(RAP)
+<VOICE>(VS47_083)Woof!
+
+## POINTER 50
+<STR>(JUD)
+<VOICE>(VS47_084)Let's get out of here 
+quickly. <STR>(KAR)'s weak. This 
+can't be good for him.
+
+## POINTER 51
+<STR>(RIT)
+<VOICE>(VS47_085)Right.
+
+## POINTER 52
+<STR>(YUR)
+<VOICE>(VS47_086)I owe you one, Boss.
+
+## POINTER 53
+<STR>(JUD)
+<VOICE>(VS47_087)That was very impressive.
+
+## POINTER 54
+Information
+<03>(4)<STR>(KAR)<03>(0) is KO'ed.
+He will not be able to participate in battles.

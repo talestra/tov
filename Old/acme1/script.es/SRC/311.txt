@@ -1,0 +1,67 @@
+## POINTER 0 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279006641]
+<STR>(RAV)
+<VOICE>(VS27_172)Esto ta empezando
+a ponerse pesao.
+
+## POINTER 1 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279006641]
+<STR>(RIT)
+<VOICE>(VS27_173)Menos hablar y más pelear.
+
+## POINTER 2 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283281743]
+<STR>(KAR)
+<VOICE>(VS27_174)¿Q-Qué?
+
+## POINTER 3 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279006641]
+<STR>(RIT)
+<VOICE>(VS27_175)Oye... ¡¿Qué está
+pasando aquí?!
+
+## POINTER 4 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279006641]
+<STR>(EST_P)
+<VOICE>(VS27_176)¿Acaso lo está provocando
+todo esta caja?
+
+## POINTER 5 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279006641]
+<STR>(RIT)
+<VOICE>(VS27_178)¡Es él!
+
+## POINTER 6 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283281743]
+<STR>(FRE)
+<VOICE>(VS27_179)¡Escuchadme, Caballeros!
+¡Sodia dirigirá esta formación
+y eliminará a los monstruos restantes!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394577]
+<STR>(YUR)
+<VOICE>(VS27_180)¿No sería mejor evacuar
+antes a toda esta gente?
+
+## POINTER 8 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279006641]
+<STR>(FRE)
+<VOICE>(VS27_181)¡Los demás me ayudaréis a proteger
+a los espectadores! ¡Que no escape
+ni una sola de esas bestias!
+
+## POINTER 9 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1283281743]
+<STR>(YUR)
+<VOICE>(VS27_182)Je. Parece que <STR>(FRE) había
+pensado en ello mucho antes.
+Ya parece un capitán y todo.<PAGE>
+<VOICE>(VS27_183)Será mejor largarse.
+
+## POINTER 10 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279006641]
+<STR>(RIT)
+<VOICE>(VS27_184)<STR>(JUD) y tu chucho
+se han largado ya.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1298394577]
+<STR>(YUR)
+<VOICE>(VS27_185)Ya, lo he oído.
+
+## POINTER 12 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279006641]
+<STR>(RAV)
+<VOICE>(VS27_186)Er deber d'un héroe es eterno...
+
+## POINTER 13 [t:1;r:2;ru:googol,memnoch;user:xander;time:1279006641]
+<STR>(RAV)
+<VOICE>(VS27_187)¡Oooye! ¡Esperadme! ¡Eh!

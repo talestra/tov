@@ -1,0 +1,281 @@
+## POINTER 0 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Battle Debug Menu
+
+## POINTER 1 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Battle Debug Manager
+
+## POINTER 2 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Start Battle
+
+## POINTER 3 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Player Edit
+
+## POINTER 4 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Player
+
+## POINTER 5 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Character
+
+## POINTER 6 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Level
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Control Mode
+
+## POINTER 8 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Manual
+
+## POINTER 9 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Semiauto
+
+## POINTER 10 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Auto
+
+## POINTER 11 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+MA Learning
+
+## POINTER 12 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Skill Learning
+
+## POINTER 13 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Unchanged
+
+## POINTER 14 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Learn All
+
+## POINTER 15 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Forget All
+
+## POINTER 16 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Character Move
+
+## POINTER 17 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Normal
+
+## POINTER 18 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Stop Enemy
+
+## POINTER 19 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+No Dead
+
+## POINTER 20 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Stop Enemy and No Dead
+
+## POINTER 21 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+No Dead Party Only
+
+## POINTER 22 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Counter Enemy and No Dead
+
+## POINTER 23 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+2P Control Mode
+
+## POINTER 24 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Normal
+
+## POINTER 25 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Enemy
+
+## POINTER 26 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Encount Mode
+
+## POINTER 27 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Normal
+
+## POINTER 28 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Link1
+
+## POINTER 29 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Link2
+
+## POINTER 30 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Surprise
+
+## POINTER 31 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Surprise Link1
+
+## POINTER 32 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Surprise Link2
+
+## POINTER 33 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Boss
+
+## POINTER 34 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Slash
+
+## POINTER 35 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Surprise Slash
+
+## POINTER 36 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Enemy Group0
+
+## POINTER 37 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Enemy Group1
+
+## POINTER 38 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Enemy Group2
+
+## POINTER 39 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Select BG
+
+## POINTER 40 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Random
+
+## POINTER 41 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+BG Range
+
+## POINTER 42 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Narrow
+
+## POINTER 43 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Wide
+
+## POINTER 44 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Event
+
+## POINTER 45 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Result Voice Action
+
+## POINTER 46 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Camera Free Control
+
+## POINTER 47 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Dynamic Camera
+
+## POINTER 48 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+INN
+
+## POINTER 49 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Unused TP
+
+## POINTER 50 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+OVL Gauge
+
+## POINTER 51 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+OVL Add Point Up
+
+## POINTER 52 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Always Boot BA
+
+## POINTER 53 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Always Boot Mystic Arts
+
+## POINTER 54 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Enable FS
+
+## POINTER 55 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Always Boot FS
+
+## POINTER 56 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+No Heal FS Point
+
+## POINTER 57 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Get All Item
+
+## POINTER 58 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Battle Aging
+
+## POINTER 59 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Boot Menu
+
+## POINTER 60 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Debug Display
+
+## POINTER 61 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Chara Vector
+
+## POINTER 62 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Chara Box
+
+## POINTER 63 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Chara Comment
+
+## POINTER 64 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Chara Motion Frame
+
+## POINTER 65 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Chara Down Count
+
+## POINTER 66 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Chara FS Point
+
+## POINTER 67 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Chara Priority Point
+
+## POINTER 68 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Chara Cancel Point
+
+## POINTER 69 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+AT
+
+## POINTER 70 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Effect Frame
+
+## POINTER 71 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Effect Scene Frame
+
+## POINTER 72 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Effect SE Information
+
+## POINTER 73 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Camera Point
+
+## POINTER 74 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Target Range
+
+## POINTER 75 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Battle Time
+
+## POINTER 76 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Ground Clip Range
+
+## POINTER 77 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+None
+
+## POINTER 78 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Real
+
+## POINTER 79 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Always
+
+## POINTER 80 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Debug Message
+
+## POINTER 81 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Disable All Message
+
+## POINTER 82 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+BG Message
+
+## POINTER 83 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Camera Message
+
+## POINTER 84 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Chara Message
+
+## POINTER 85 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Effect Message
+
+## POINTER 86 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+2D Message
+
+## POINTER 87 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Develop Mode
+
+## POINTER 88 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Read File
+
+## POINTER 89 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Check File Enable
+
+## POINTER 90 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Save Debug Setting
+
+## POINTER 91 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Load Debug Setting
+
+## POINTER 92 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Auto Load Debug Setting
+
+## POINTER 93 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1297006693]
+Base Item

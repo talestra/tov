@@ -1,0 +1,87 @@
+## POINTER 0
+<STR>(YUR)
+*Yawn*
+Should we head out?
+
+## POINTER 1
+<STR>(EST_P)
+<STR>(RAP)...?
+
+## POINTER 2
+<STR>(RAP)
+Grrrr.... Woof woof woof!
+
+## POINTER 3
+<STR>(YUR)
+Huh...that's...?
+
+## POINTER 4
+<STR>(RAV)
+Oh ho, that's the Mini-Wolf 
+we saw back in 
+Torim harbor!
+
+## POINTER 5
+<STR>(RAP)
+(It's "Little Wolf," old man.)
+
+## POINTER 6
+
+(Right, I'm the Little Wolf!)
+
+## POINTER 7
+<STR>(RAP)
+(Why did you come here?)
+
+## POINTER 8
+
+(You call that 
+a greeting?)
+
+## POINTER 9
+<STR>(RAP)
+(After how you've treated me in 
+the past, you expect me to run 
+up to you and lick your face?)
+
+## POINTER 10
+
+(I see you've already finished 
+marking about half of the places 
+out there as your territory.)<PAGE>(It looks like I'm going to have 
+to pull out all the stops.)
+
+## POINTER 11
+<STR>(RAP)
+(Oh? What are you 
+going to do?)
+
+## POINTER 12
+
+(I'm going to go all 
+out. No more mercy.)<PAGE>(Just like back in the capital.)
+
+## POINTER 13
+<STR>(RAP)
+(Wait!)
+
+## POINTER 14
+<STR>(YUR)
+Wow... It looks like he's going 
+to go after the rest of the cities 
+even more fiercely than ever.
+
+## POINTER 15
+<STR>(KAR)
+It's okay! <STR>(RAP)'s way too 
+good to be beaten by the likes 
+of him! Isn't that right?
+
+## POINTER 16
+<STR>(KAR)
+Aww, you don't have to get all embarrassed!
+
+## POINTER 17
+<STR>(RAV)
+...Not that I really care, but...<PAGE>Why do I always have to do 
+the Little Wolf's voice...?

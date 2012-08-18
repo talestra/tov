@@ -1,0 +1,95 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VA050_102)You...
+
+## POINTER 1
+Duke
+<VOICE>(VA050_103)It seems you were not 
+able to stop her...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VA050_104)What're you talking about? We're 
+just getting warmed up.<PAGE><VOICE>(VA050_105)You just sit and watch like a good boy.
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VA050_106)<STR>(YUR)... Don't be 
+rude! He lent us 
+the sword...!
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VA050_107)Yeah, you're right.
+
+## POINTER 5
+Duke
+<VOICE>(VA050_108)Why...?
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VA050_109)...? "Why" what?
+
+## POINTER 7
+Duke
+<VOICE>(VA050_110)Why do you smile at
+a time like this?
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VA050_111)I'm just a wild and carefree kinda guy.
+
+## POINTER 9
+Duke
+<VOICE>(VA050_112)Foolishness...
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VA050_113)Heh, can't help it, 
+I guess. I was 
+born like this.<PAGE><VOICE>(VA050_114)...Let's go.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VA050_115)...We can tell.
+
+## POINTER 12
+Duke
+<VOICE>(VA050_116)…………？
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VA050_117)On the outside, he might not 
+get angry, or flustered, or 
+cry, but...we can tell.<PAGE><VOICE>(VA050_118)And right now, he's so 
+frustrated it's all he 
+can do not to scream.<PAGE><VOICE>(VA050_119)But <STR>(YUR) keeps all that hidden away, so 
+it looks like there's nothing wrong.<PAGE><VOICE>(VA050_120)And for me, now, when I see no hope at all...his 
+attitude is why I can still stand up and fight.
+
+## POINTER 14
+Duke
+<VOICE>(VA050_121)…………
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VA050_122)<STR>(KAR), what's the hold up?!
+
+## POINTER 16
+<STR>(KAR)
+<VOICE>(VA050_123)I'm coming!
+
+## POINTER 17
+Duke
+<VOICE>(VA050_124)...Why are you telling 
+me this?
+
+## POINTER 18
+<STR>(KAR)
+<VOICE>(VA050_125)...Yeah, you're right. Someday 
+I'll tell him myself.<PAGE><VOICE>(VA050_126)Someday...
+
+## POINTER 19
+Duke
+<VOICE>(VA050_127)True friendship...<PAGE><VOICE>(VA050_128)However, the time will come 
+when hope turns to despair...

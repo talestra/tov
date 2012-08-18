@@ -1,0 +1,51 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1253821328]
+Placas de hielo
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134876]
+(KAR)
+¿Soy yo o el suelo de por aquí
+está cambiando?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298125261]
+(YUR)
+Sí, son placas de hielo.
+Se mueven con el agua y eso hace
+que el suelo se mueva.
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134876]
+(KAR)
+Espera, ¿entonces si no salimos
+pronto, el camino puede desviarse
+y hacer que nos perdamos?
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134876]
+(RIT)
+Es muy posible.
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266829737]
+(RAV)
+Sí, ¡pero entonces podríamos usar er bloque
+de hielo pa navegar por el mar!
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134876]
+(YUR)
+Ya, lo que tú digas, viejales.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266829737]
+(RAV)
+¡Va en serio! ¡Venid conmigo!
+¡Será divertío!
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134876]
+(YUR)
+No me va esa clase de diversión.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298125261]
+(RAV)
+Oh, pos vale. ¡No quiero quedarme
+atrapao en un bloque de hielo con
+semejante aguafiestas! Sigamos.
+
+## POINTER 10 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267134876]
+(YUR)
+Ya, ya.

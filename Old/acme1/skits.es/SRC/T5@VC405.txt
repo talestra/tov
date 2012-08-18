@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267315052]
+Una rosa es una rosa
+
+## POINTER 1 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267315018]
+(EST_P)
+¿Sabéis de dónde viene
+el nombre del árbol de Halure?
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267315018]
+(YUR)
+¿Eh? ¿Lo tiene por una razón en concreto?
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267315018]
+(EST_P)
+Sí. Viene de los tres tipos de plantas
+que crecen al lado del árbol.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267315018]
+(EST_P)
+Son la harmonea, la luluria y el renen.
+Si juntas la primera sílaba de los tres
+nombres, entonces sale «Halure».
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298112795]
+(KAR)
+¡Vaya! Nunca te acostarás
+sin saber una cosa más.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267315018]
+(YUR)
+(KAR), ¿no lo sabías ya?
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267315018]
+(KAR)
+Las plantas no es que sean mi especialidad.

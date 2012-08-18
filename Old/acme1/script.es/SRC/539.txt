@@ -1,0 +1,68 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157715]
+
+¿Me estás pidiendo que vaya al campo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157788]
+
+¿Este sitio no podría valer?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157788]
+<STR>(YUR)
+No, no podría.
+Ni tampoco Zaphias.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1287475926]
+<STR>(RAV)
+Nus toca hacer las
+cosas equitativas pa tós.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1287475926]
+Harry
+Este asunto es muy importante. Tanto
+para el Imperio como para los gremios...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1287475926]
+
+Mmpf. No pienso
+hacer de mensajero.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1287475926]
+
+Preferiría no irme de Dahngrest
+en un momento así.<PAGE>Depende de ti, Harry.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1287475926]
+Harry
+Vale. Creo que iré.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157715]
+<STR>(KAR)
+¿Qué? ¡Esto es algo importante!
+¡¿Vas a decidirlo así, sin más?!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1287475926]
+
+No pasa nada. No voy a poner
+en duda la decisión de Harry.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1287475926]
+
+Mmm...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1288111076]
+<STR>(YUR)
+De acuerdo, entonces.
+Volveremos cuando mejor
+le convenga al señorito.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1287475926]
+Harry
+De acuerdo.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1287475926]
+<STR>(EST_P)
+Volvamos con <STR>(FRE) y los demás.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1287475926]
+<STR>(YUR)
+Sí. Iremos allí primero.

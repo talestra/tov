@@ -1,0 +1,168 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(EST_P)
+Así que parece que el Pacto de Sangre...
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(YUR)
+... no está por aquí, después de todo.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(KAR)
+Esos de ahí son los Espadas Cazadoras.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(EST_P)
+E-Ese hombre... fue el que vimos
+en el fuerte Deidon.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(YUR)
+Ah, ahora que lo dices, es verdad
+que estaba allí. Así que él
+es el líder de tu gremio.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(YUR)
+¿Va a luchar contra ese monstruo él solo?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(RIT)
+¿Qué? ¡Venga ya, tío!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(YUR)
+¿Lo ha despachado de un solo golpe?...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(KAR)
+Eso era un «ataque letal».
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(YUR)
+¿Un ataque letal?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(KAR)
+Es una técnica mazo poderosa que solo
+los espadachines más expertos pueden usar.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(YUR)
+Mmmm... ¿Y cómo se hace?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(KAR)
+¿Que cómo se hace?
+¡¿C-Cómo quieres que lo sepa?!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(EST_P)
+«El ataque letal: Un poderoso movimiento
+que desestabiliza al rival<PAGE>seguido de un único ataque en
+el momento justo para rematarlo».
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(RIT)
+¿Otra de las cosas que
+has leído en tus libros?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(EST_P)
+S-Sí...
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(YUR)
+Entiendo... Tiene pinta de ser
+más fácil de decir que de hacer.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(RIT)
+Te mueres de ganas por volver
+al gremio, ¿verdad?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(KAR)
+¿Q-Qué te hace pensar eso?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959266]
+<STR>(EST_P)
+¿Cómo? <STR>(KAR), ¿es que no
+piensas volver con tu gremio?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(KAR)
+¡No pienso volver!
+Estoy harto de cazar monstruos.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(RIT)
+¿No quieres volver
+o no PUEDES volver?
+Parecía que te habían despedido.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(KAR)
+N-No. Ya llevaba tiempo
+pensando en abandonarlo.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(YUR)
+Oh, ¿en serio?
+Si tú lo dices...
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(KAR)
+En fin... Sigamos adelante.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(EST_P)
+Me alegro de que te quedes
+con nosotros, <STR>(KAR).
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(YUR)
+En cualquier caso, ¿qué creéis que estarán
+haciendo con un contingente tan grande?
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(EST_P)
+Sí, si quisieran acabar con aquel monstruo que
+hemos visto, una persona hubiera sido suficiente.
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(KAR)
+De hecho, esta es la primera vez que veo a tantos
+miembros del gremio reunidos en un mismo sitio.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(EST_P)
+¿En serio?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959019]
+<STR>(KAR)
+Sí, muchos de ellos van en solitario.
+No suelen viajar en grupo.<PAGE>Tampoco es normal
+que esté aquí el jefe.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1296959266]
+<STR>(RIT)
+Muy curioso...
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(KAR)
+¿Queréis... seguirlos y ver qué traman?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(YUR)
+Nah, suena interesante, pero creo
+que prefiero seguir con lo nuestro.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1298240682]
+<STR>(EST_P)
+Después de todo, vamos tras los miembros
+de Pacto de Sangre, ¿no, <STR>(YUR)?
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:Lia;time:1295036497]
+<STR>(YUR)
+Sí. No quiero estar pendiente de dos gremios
+a la vez. ¡Con uno nos basta y nos sobra!

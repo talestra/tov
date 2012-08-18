@@ -1,0 +1,110 @@
+## POINTER 0
+<STR>(RAV)
+<VOICE>(VS46_001)...So it did end up hittin' 
+somethin', after all.
+
+## POINTER 1
+<STR>(JUD)
+<VOICE>(VS46_002)Thankfully it missed hitting 
+any of the towns.
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS46_003)You guys sure you're all right?
+
+## POINTER 3
+<STR>(KAR)
+<VOICE>(VS46_004)No, I hurt all over, but...<PAGE><VOICE>(VS46_005)<STR>(EST_P)'s in trouble. 
+I can't just lie around.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS46_006)Yeah. What he said.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS46_007)What's our next move, though?
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS46_008)If the road to Ehmead 
+Hill is out, couldn't we 
+take a boat around?
+
+## POINTER 7
+Teagle
+<VOICE>(VS46_009)I'm afraid not.<PAGE><VOICE>(VS46_010)A little while back the Knights 
+came and took any boat that 
+could make a long trip.<PAGE><VOICE>(VS46_011)Thanks to them, the 
+harbor's dead empty.
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS46_012)Damn, at a time like this...
+
+## POINTER 9
+Teagle
+<VOICE>(VS46_013)...Well, there is one way, but 
+I'm just not sure how I feel 
+about recommending it to you.
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS46_014)If it'll get us through, 
+let's hear it. We've got to 
+get to the capital fast.
+
+## POINTER 11
+Teagle
+<VOICE>(VS46_015)I'm afraid it'll end up 
+taking you a fair bit 
+out of your way, but...<PAGE><VOICE>(VS46_016)If you go north, just before 
+Ehmead Hill, there's a thin 
+strip of coastline.<PAGE><VOICE>(VS46_017)It'll eventually come to a dead 
+end, but in this season it freezes 
+over and becomes an ice floe.
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS46_018)The Blade Drifts of Zopheir.
+
+## POINTER 13
+Teagle
+<VOICE>(VS46_019)Right. If your lucky, you 
+should be able to make your 
+way across the floe on the ice.<PAGE><VOICE>(VS46_020)If you cut through there, 
+you'll come out in the 
+middle of the continent.
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS46_021)The Blade Drifts 
+of Zopheir, huh...?<PAGE><VOICE>(VS46_022)I heard nobody goes there--not 
+even fishermen--because of 
+the stories.
+
+## POINTER 15
+Teagle
+<VOICE>(VS46_023)You're also gambling on nature 
+here, so there's no guarantee 
+you'll be able to get through.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS46_024)If that's our only way, then 
+we'll have to go for it.
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS46_025)Okay, let's do it.<PAGE><VOICE>(VS46_026)...Thanks for your help.
+
+## POINTER 18
+Teagle
+<VOICE>(VS46_027)Least I can do. There wouldn't 
+be much left of this family if 
+it weren't for you all.<PAGE><VOICE>(VS46_028)Only thing I'll ask is that 
+you don't disappoint my boy.
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS46_029)You got it!

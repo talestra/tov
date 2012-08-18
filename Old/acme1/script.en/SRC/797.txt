@@ -1,0 +1,71 @@
+## POINTER 0
+
+Oh, what a pleasant surprise. I was 
+hoping I'd see you again soon.
+
+## POINTER 1
+<STR>(YUR)
+Oh yeah? What ridiculous price are 
+you going to charge us this time?
+
+## POINTER 2
+
+Please, good visitors, don't be 
+so harsh! After all of the kind 
+service I've given you...<PAGE>But actually, there's a favor I'd 
+like to ask of you, if you wouldn't 
+mind. Might you hear me out?
+
+## POINTER 3
+<STR>(RAV)
+I assume yer willin' ta give 
+us somethin' in return?
+
+## POINTER 4
+
+Of course, of course! I would be more than 
+willing to compensate you for your help.<PAGE>Perhaps a free lifetime 
+pass to our hot springs 
+would do the trick?
+
+## POINTER 5
+<STR>(KAR)
+You mean we could go in any 
+time we wanted for free?
+
+## POINTER 6
+
+Yes, yes, of course. 
+You could come and 
+go as you pleased.
+
+## POINTER 7
+<STR>(RIT)
+A resort where spa rental costs 600,000 Gald...is 
+going to give us lifetime admission 
+for free? Who do you want us to kill?
+
+## POINTER 8
+
+No, no, it's not that... It's just...there's 
+a group of customers coming in 
+soon, and I'm short on help.<PAGE>If you could just give me your help 
+with some tasks around the resort, 
+I'd appreciate it tremendously.
+
+## POINTER 9
+<STR>(EST_P)
+Let's help! It sounds like it would 
+be really tough for him otherwise.
+
+## POINTER 10
+<STR>(YUR)
+Oh well. There's no
+dissuading the Princess
+once she gets like this.
+
+## POINTER 11
+
+Excellent, excellent! You'll find everything 
+you need in the staff room. Please go and change 
+into the appropriate employee uniform.

@@ -1,0 +1,149 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298581765]
+<STR>(KAR)
+<VOICE>(VA014_041)¿Hemos hecho lo correcto?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1288805547]
+<STR>(YUR)
+<VOICE>(VA014_042)Claro que sí. Quién sabe los
+problemas que habrían causado
+si los hubiéramos dejado.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:kaene;time:1288805547]
+<STR>(RAV)
+<VOICE>(VA014_043)Digo yo que esto va en contra der código
+der gremio, lo de largar los secretos
+que encuentras cuando haces er trabajo.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1288805547]
+<STR>(JUD)
+<VOICE>(VA014_044)¿De verdad?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:kaene;time:1288805547]
+<STR>(RAV)
+<VOICE>(VA014_045)Nu hay que sacar los trapos
+sucios que encuentras al hacerle
+un trabajo a un cliente.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1288805547]
+<STR>(RIT)
+<VOICE>(VA014_046)Vaya, viejales...
+Eso es muy... honorable.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575499]
+<STR>(RAV)
+<VOICE>(VA014_047)Los gremios tienen que hacer
+la vista gorda, por mu malo que
+sea lo que haga el cliente.<PAGE><VOICE>(VA014_048)Además, meter la nariz en
+los asuntos de los clientes
+no nos va a dar parné.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:kaene;time:1288805547]
+<STR>(KAR)
+<VOICE>(VA014_049)Supongo que tienes razón, pero...
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1288806244]
+<STR>(RAV)
+<VOICE>(VA014_050)Mira lo que te han pagao
+por este trabajo, por ejemplo.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575499]
+<STR>(YUR)
+<VOICE>(VA014_051)Yo no sé terminar el trabajo,
+cobrar, y dejar las cosas tal cual.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:kaene;time:1288806244]
+<STR>(KAR)
+<VOICE>(VA014_052)Ya... como la última vez...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575499]
+<STR>(JUD)
+<VOICE>(VA014_053)Exacto. Hicimos exactamente
+lo que nos pidió el cliente,
+y mira cómo acabó...
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575499]
+<STR>(RIT)
+<VOICE>(VA014_054)Esto me recuerda... ¿Sabéis
+ya para qué es todo esto
+de Gran Vesperia?<PAGE><VOICE>(VA014_055)¿Es por el dinero? 
+¿Porque os gusta?
+¿Por qué?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:kaene;time:1288806244]
+<STR>(KAR)
+<VOICE>(VA014_056)Nosotros...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575499]
+<STR>(YUR)
+<VOICE>(VA014_057)«Hacer justicia», ¿verdad?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1288806244]
+<STR>(JUD)
+<VOICE>(VA014_058)Sí, Gran Vesperia hace
+lo que sus miembros
+creen correcto.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:kaene;time:1288806244]
+<STR>(KAR)
+<VOICE>(VA014_059)Aunque eso no siempre
+nos dé dinero como 
+<STR>(RAV) decía.<PAGE><VOICE>(VA014_060)Q-Quiero decir... por ahora
+seguiremos haciendo trabajos
+cobrando, claro.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:kaene;time:1288806244]
+<STR>(EST_P)
+<VOICE>(VA014_061)Ah... Así que eso es lo
+que hace Gran Vesperia.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575499]
+<STR>(RIT)
+<VOICE>(VA014_062)
+Mmpf. No estoy segura
+de que lo hayas aclarado
+mucho, pero...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1293575499]
+<STR>(RAV)
+<VOICE>(VA014_063)
+¿Os parece bien tó eso?
+Que sepáis qu'estar en un gremio
+no es como estar en Jauja.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:Lia;time:1290852288]
+<STR>(YUR)
+<VOICE>(VA014_064)Jamás hemos pensamos eso.<PAGE><VOICE>(VA014_065)Y aunque lo fuese,
+no cambiaría
+cómo nos sentimos.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:Lia;time:1290852288]
+<STR>(KAR)
+<VOICE>(VA014_066)Sí, hacemos las cosas
+a nuestra manera.
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:Lia;time:1290852288]
+<STR>(RIT)
+<VOICE>(VA014_067)Mmpf, mira lo que dice el niño.
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:Lia;time:1290852288]
+<STR>(KAR)
+<VOICE>(VA014_068)¿Qué?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:Lia;time:1290852288]
+<STR>(EST_P)
+<VOICE>(VA014_069)¡Yo creo que es estupendo!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:Lia;time:1290852288]
+<STR>(YUR)
+<VOICE>(VA014_070)Así están las cosas,
+viejales.
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:Lia;time:1290852288]
+<STR>(RAV)
+<VOICE>(VA014_071)Je. Conociéndoos,
+probablemente encontrareis
+la manera de conseguirlo.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1290852288]
+<STR>(KAR)
+<VOICE>(VA014_072)¡Pues claro!

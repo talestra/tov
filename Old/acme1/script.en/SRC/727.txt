@@ -1,0 +1,118 @@
+## POINTER 0
+<STR>(YUR)
+Hey <STR>(KAR). Can't sleep?
+
+## POINTER 1
+<STR>(KAR)
+...Yeah... I had this...bad 
+dream...
+
+## POINTER 2
+<STR>(YUR)
+Bad dream...?
+
+## POINTER 3
+<STR>(KAR)
+I was dreaming that everyone was about to die, 
+and I was trying to run to save them...but no 
+matter how hard I ran, I never got any closer.
+
+## POINTER 4
+<STR>(YUR)
+That sounds like a pretty bad dream, yeah.
+
+## POINTER 5
+<STR>(KAR)
+I got so scared 
+that I woke up...
+
+## POINTER 6
+<STR>(YUR)
+Well, if you can't sleep, at least you won't 
+be keeping us up with all your noise.
+
+## POINTER 7
+<STR>(YUR)
+You don't know...? Well, maybe 
+that makes sense. <STR>(KAR), you 
+talk in your sleep. A lot.
+
+## POINTER 8
+<STR>(KAR)
+How would I know that? I'm 
+asleep when it happens!
+
+## POINTER 9
+<STR>(YUR)
+Ha ha...yeah, I guess you're right.
+
+## POINTER 10
+<STR>(YUR)
+<STR>(KAR)... If you're still 
+shaken up about the 
+Don's death...
+
+## POINTER 11
+<STR>(KAR)
+......
+
+## POINTER 12
+<STR>(KAR)
+It's not just what happened to the Don.<PAGE>I don't know what I should 
+do for Brave Vesperia. I don't 
+even know what I can do.<PAGE>I still have to figure that out.
+
+## POINTER 13
+<STR>(YUR)
+I see.
+
+## POINTER 14
+<STR>(KAR)
+And that's why I've been having 
+some trouble sleeping.<PAGE>Do you have worries that are keeping you up, <STR>(YUR)?
+
+## POINTER 15
+<STR>(YUR)
+Nah, not me. I'm a 
+man of action, heh.<PAGE>Thinking about things too much just makes my head hurt. 
+I prefer moving my body, rather than those rusty 
+gears in my head. It suits my personality better.
+
+## POINTER 16
+<STR>(KAR)
+Your personality, huh...I wonder what 
+suits my personality better...
+
+## POINTER 17
+<STR>(YUR)
+Maybe if you went to sleep and had a good dream, 
+it would help you figure things out a bit?
+
+## POINTER 18
+<STR>(KAR)
+I can't keep running 
+away to my dreams.
+
+## POINTER 19
+<STR>(YUR)
+You wouldn't be running away. 
+You'd be dreaming so that 
+you can come back to us.
+
+## POINTER 20
+<STR>(KAR)
+Yeah...
+
+## POINTER 21
+<STR>(KAR)
+I'm sure once I go back to the inn 
+and lie down I'll be able to sleep.<PAGE>Don't worry about me. You go on ahead.
+
+## POINTER 22
+<STR>(YUR)
+Gotcha.
+
+## POINTER 23
+<STR>(YUR)
+Even if he reasons things out in his head, 
+his heart is slow to follow suit.<PAGE>I guess that's just how he is...

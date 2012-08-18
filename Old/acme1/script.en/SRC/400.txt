@@ -1,0 +1,151 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS37_023)This is a Krityan city...?
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS37_024)More like the remains of one.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS37_025)What do you think <STR>(JUD) 
+would come here for...?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS37_026)Suppose it wouldn't make 
+much sense to say she 
+was feeling homesick.
+
+## POINTER 4
+<STR>(RAP)
+<VOICE>(VS37_027)Grrr.
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS37_028)The Hunting Blades!
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS37_029)<STR>(JUD)!
+
+## POINTER 7
+<STR>(JUD)
+<VOICE>(VS37_030)You...
+
+## POINTER 8
+
+<VOICE>(VS37_031)Damn you!
+
+## POINTER 9
+
+<VOICE>(VS37_032)Go inform Tison and Nan!
+
+## POINTER 10
+<STR>(YUR)
+<VOICE>(VS37_033)Hey! Nobody lays a hand 
+on one of our own.
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS37_034)If she's broken our laws, we'll 
+settle this amongst ourselves.<PAGE><VOICE>(VS37_035)Now get out of here!
+
+## POINTER 12
+
+<VOICE>(VS37_036)We're only trying to follow 
+a monster we're hunting!
+
+## POINTER 13
+
+<VOICE>(VS37_037)This doesn't involve you!
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS37_038)Okay, this is getting us 
+nowhere. Let me at 'em.
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VS37_039)You're right. It's just a 
+waste of time tryin' ta talk 
+sense ta people like this.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS37_040)Leave. Now. Or do you 
+really want to do this?
+
+## POINTER 17
+<STR>(EST_P)
+<VOICE>(VS37_041)<STR>(JUD)...
+
+## POINTER 18
+<STR>(JUD)
+<VOICE>(VS37_042)...You followed me here.
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS37_043)Yeah. We're here to 
+settle things for the 
+sake of the guild.
+
+## POINTER 20
+<STR>(KAR)
+<VOICE>(VS37_044)<STR>(JUD). Tell us 
+everything you know.
+
+## POINTER 21
+<STR>(RIT)
+<VOICE>(VS37_045)Why you destroyed the blastia. About 
+the apatheia and the Entelexeia. 
+Their relationship to Phaeroh.<PAGE><VOICE>(VS37_046)All of it.
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS37_047)And even though you're 
+one of us, your answers 
+will decide your fate.
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VS37_048)Punish the unjust...was it?
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS37_049)...Honestly, I don't 
+know if that's really 
+a good thing or not.<PAGE><VOICE>(VS37_050)You've already come this 
+far, I suppose there's 
+no going back now.
+
+## POINTER 25
+<STR>(JUD)
+<VOICE>(VS37_051)Come.
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS37_052)<STR>(YUR)... What did you mean 
+about <STR>(JUD_P)'s fate...?
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS37_053)...If there's one thing the Don's 
+last moments taught me, it's 
+that I've been too soft.<PAGE><VOICE>(VS37_054)If a part is infected, you cut it off 
+before it infects the whole. Even if it's 
+a comrade, an Entelexeia, or a friend.
+
+## POINTER 28
+<STR>(KAR)
+<VOICE>(VS37_055)You mean even if it's 
+<STR>(FRE) or Phaeroh?
+
+## POINTER 29
+<STR>(YUR)
+<VOICE>(VS37_056)...Yeah. It's the path 
+I've chosen for myself.
+
+## POINTER 30
+<STR>(KAR)
+<VOICE>(VS37_057)I...

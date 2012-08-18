@@ -1,0 +1,155 @@
+## POINTER 0
+
+Ever since we lost Barbos, we've 
+been absolutely pathetic!
+
+## POINTER 1
+
+What's more, the Blood Alliance got 
+tossed out of the five master guilds!
+
+## POINTER 2
+
+If the boss hadn't sold this city to Alexei, 
+we would've had a strong guild presence 
+with a respectable base stronghold here!
+
+## POINTER 3
+
+Thanks to Alexei's damned blastia 
+experiments we're stuck 
+in these wretched ruins.
+
+## POINTER 4
+
+At least we got one good 
+piece of booty. That damned 
+dragon rider's spear!<PAGE>I hear that spear's pretty 
+famous. The old man at 
+the smithy said so.
+
+## POINTER 5
+
+Who dares set foot inside 
+our hideout...
+
+## POINTER 6
+<STR>(RIT)
+Wait, aren't you Barbos'...
+That spear...!
+
+## POINTER 7
+
+Wait, these kids...
+They're the little punks 
+that beat the boss at Ghasfarost...
+
+## POINTER 8
+
+Wh-what?! We haven't 
+done anything wrong!
+
+## POINTER 9
+
+Everything we did...it was 
+on our boss's orders...!
+
+## POINTER 10
+
+Crap... Let's get outta here...!
+
+## POINTER 11
+<STR>(RIT)
+Hold it! Leave 
+that spear.
+
+## POINTER 12
+
+Wh-why...
+
+## POINTER 13
+<STR>(YUR)
+That belongs to one of our members. 
+We can't let you have it.
+
+## POINTER 14
+<STR>(JUD)
+You two...
+
+## POINTER 15
+
+Hell no, that 
+spear is our...
+
+## POINTER 16
+<STR>(YUR)
+What's that? You're ready 
+to fight to defend it?
+
+## POINTER 17
+
+D-damn it...
+
+## POINTER 18
+<STR>(RIT)
+...There you go.
+
+## POINTER 19
+<STR>(JUD)
+Really, you're giving this to me? This is the spear 
+that destroyed all of that blastia, you know.
+
+## POINTER 20
+<STR>(RIT)
+It's important to you, right? 
+Weren't you looking for it?
+
+## POINTER 21
+<STR>(JUD)
+This is the spear of my oath...<PAGE>The oath that no matter how hard it got, even 
+if no one understood or wanted to help, 
+I would continue in my quest with Ba'ul.<PAGE>I swore on this spear, a symbol 
+of the bond between Ba'ul and me.
+
+## POINTER 22
+<STR>(YUR)
+Wow, so it's really important to you...
+
+## POINTER 23
+<STR>(RIT)
+And you were just going to give 
+up on getting it back?!
+
+## POINTER 24
+<STR>(JUD)
+Thanks to you all, I've learned that you 
+can have a bond with someone without 
+any physical objects to back it up.
+
+## POINTER 25
+<STR>(RIT)
+But <STR>(JUD)! You should never 
+have to forget feelings that 
+are important to you!<PAGE>You can't just give up on them!
+
+## POINTER 26
+<STR>(JUD)
+I'm sorry.
+
+## POINTER 27
+<STR>(YUR)
+<STR>(JUD_P), I don't think you need 
+to be apologizing here.
+
+## POINTER 28
+<STR>(JUD)
+...You're right. 
+Thank you, <STR>(RIT).
+
+## POINTER 29
+<STR>(RIT)
+D-don't mention it! I was just running my mouth. That's all.
+
+## POINTER 30
+<STR>(JUD)
+...Really, thank you.

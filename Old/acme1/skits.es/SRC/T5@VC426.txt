@@ -1,0 +1,38 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313207]
+La fundación de un nuevo pueblo
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115494]
+(EST_P)
+¡No hay ningún sitio donde dormir!
+Qué poco práctico.
+
+## POINTER 2 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313207]
+(KAR)
+Y tampoco hay barrera...
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313207]
+(YUR)
+Bueno, esta gente es dura de pelar.
+Podrán apañárselas mientras
+los monstruos no ataquen.
+
+## POINTER 4 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313207]
+(EST_P)
+Quizá tengas razón.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298115494]
+(RAV)
+Pos claro que tiene razón.
+Tós tendrán la casa de sus sueños
+en un periquete, ya verás.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266827184]
+(JUD)
+Incluso sin una barrera, estoy segura
+de que podrán defenderse de los monstruos
+con los Caballeros y yendo todos a una.
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267313207]
+(EST_P)
+Así que este es el modo en el que 
+se funda un pueblo... ¡Qué emocionante!

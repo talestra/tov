@@ -1,0 +1,149 @@
+## POINTER 0
+<STR>(EST_P)
+Wow, the Krityans in this painting 
+are raising their weapons 
+against the Adephagos...
+
+## POINTER 1
+<STR>(YUR)
+That's odd. The Krityans don't seem like very
+warlike people. Well, besides <STR>(JUD), that is.
+
+## POINTER 2
+
+Indeed, the Kritya have always 
+been a peaceful race.<PAGE>We laugh and we 
+cry, but seldom 
+do we fight.
+
+## POINTER 3
+<STR>(EST_P)
+So the only time that the Krityans armed 
+themselves and fought was against the 
+impending threat from the Adephagos?
+
+## POINTER 4
+
+Err, well...
+
+## POINTER 5
+
+It seems it's not so much a depiction of 
+real life, as it is a scene that the artist 
+thought would be cool to paint.
+
+## POINTER 6
+<STR>(KAR)
+What the... You mean, they're 
+not really fighting?
+
+## POINTER 7
+
+Well, that was all a long time ago. But 
+we do know that around that time, a 
+certain type of magic was developed.<PAGE>It was a powerful arte called Astion,
+and apparently it served them quite
+well in the battle.
+
+## POINTER 8
+<STR>(RIT)
+If such an amazing type of magic exists, 
+you have to teach it to us!<PAGE>I'm sure it would be useful in 
+the battle we'll have to fight.
+
+## POINTER 9
+
+I'm sorry, but I don't know the magic. 
+I wouldn't be able to teach it to you.
+
+## POINTER 10
+<STR>(RIT)
+...It's just letdown after 
+letdown with you, isn't it?
+
+## POINTER 11
+
+Come now, don't be so critical. Perhaps 
+this can make up for my ignorance.
+
+## POINTER 12
+
+This is my one and only 
+Bush Baby doll.
+
+## POINTER 13
+<STR>(EST_P)
+Oh my gosh, it's so cute...!
+
+## POINTER 14
+
+Please, take good care of it.
+
+## POINTER 15
+<STR>(EST_P)
+Of course...!
+
+## POINTER 16
+<STR>(RIT)
+I can't believe you...
+*Sigh* 
+I give up...
+
+## POINTER 17
+
+It's possible the knowledge of Astion is
+still being passed on among our brethren who
+descended down onto the planet's surface.
+
+## POINTER 18
+<STR>(KAR)
+You think the Krityans on the surface would know it?
+
+## POINTER 19
+
+Well, I don't think that all of them are as well-versed in the 
+old Krityan lore as others. But someone might know of it.
+
+## POINTER 20
+<STR>(JUD)
+I wonder what happened to Tort. He's guarded 
+the way to Myorzo for generations. 
+Perhaps he'd be able to tell us...
+
+## POINTER 21
+<STR>(YUR)
+Well, I guess we have no choice
+but to go to Aspio and ask him
+in person.
+
+## POINTER 22
+<STR>(EST_P)
+That was the man we met in Aspio, 
+correct? But Aspio was already...
+
+## POINTER 23
+<STR>(RIT)
+That's right... 
+He could have 
+been...
+
+## POINTER 24
+<STR>(JUD)
+I think that he's still alive.
+
+## POINTER 25
+<STR>(RIT)
+How would you know that?
+
+## POINTER 26
+<STR>(JUD)
+I just do.
+
+## POINTER 27
+<STR>(KAR)
+??
+
+## POINTER 28
+<STR>(YUR)
+So he's alive, then. We'll ask him about 
+the magic if we happen to run into him.

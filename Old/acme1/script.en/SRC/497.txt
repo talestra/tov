@@ -1,0 +1,132 @@
+## POINTER 0
+Alexei
+<VOICE>(VS51_169)Nn...uuh...you...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS51_170)It's over, Alexei.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS51_171)Is this the top of Zaude?
+
+## POINTER 3
+<STR>(JUD)
+<VOICE>(VS51_172)Is that the core? 
+It's so big.
+
+## POINTER 4
+Alexei
+<VOICE>(VS51_173)...?! Heh, hah hah...
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS51_174)...! You continued the 
+analysis this whole time?!
+
+## POINTER 6
+Alexei
+<VOICE>(VS51_175)We will witness together...
+the might of Zaude.
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS51_176)Noo!!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS51_177)Grraah!
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS51_178)Whoa!
+
+## POINTER 10
+Alexei
+<VOICE>(VS51_179)Gaah!
+
+## POINTER 11
+Alexei
+<VOICE>(VS51_180)Ugh! So the sword...
+turned against me 
+after all...but behold.
+
+## POINTER 12
+Alexei
+<VOICE>(VS51_181)...?!
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS51_182)Wh-wh-wh...
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS51_183)Wh-what the hell is that?!
+
+## POINTER 15
+<STR>(JUD)
+<VOICE>(VS51_184)That... It was on the mural...
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VS51_185)The catastrophe?!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS51_186)It's the Adephagos!!
+
+## POINTER 18
+Alexei
+<VOICE>(VS51_187)That is the power of Zaude?!
+No... But I thought...
+
+## POINTER 19
+Alexei
+<VOICE>(VS51_188)This cannot be...
+
+## POINTER 20
+<STR>(RAV)
+<VOICE>(VS51_189)The Adephagos?! 
+Did you use that 
+much aer?
+
+## POINTER 21
+Alexei
+<VOICE>(VS51_190)...No.
+
+## POINTER 22
+Alexei
+<VOICE>(VS51_191)This catastrophe has 
+always waited there.
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS51_192)Wh-what do you mean?
+
+## POINTER 24
+<STR>(JUD)
+<VOICE>(VS51_193)The Adephagos was 
+never eliminated.<PAGE><VOICE>(VS51_194)It was just sealed 
+off far from sight!
+
+## POINTER 25
+Alexei
+<VOICE>(VS51_195)Yes, and now it has returned 
+to spread the ruin it once rained 
+down upon the ancients.<PAGE><VOICE>(VS51_196)And to think, I caused 
+it all! The ultimate irony! 
+Hah hah hah!
+
+## POINTER 26
+<STR>(RIT)
+<VOICE>(VS51_197)You mean Zaude had 
+been holding it back
+this entire time?!
+
+## POINTER 27
+<STR>(EST_P)
+<VOICE>(VS51_198)Look out!
+
+## POINTER 28
+Alexei
+<VOICE>(VS51_199)We were never more than worms writhing before an approaching storm.

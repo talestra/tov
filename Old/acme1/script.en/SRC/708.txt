@@ -1,0 +1,28 @@
+## POINTER 0
+<STR>(KAR)
+We've got her cornered!
+
+## POINTER 1
+<STR>(RIT)
+Meow!
+
+## POINTER 2
+<STR>(YUR)
+Nope, at this rate, that 
+cat's gonna get away.
+
+## POINTER 3
+<STR>(EST_P)
+Meooooow!
+
+## POINTER 4
+<STR>(YUR)
+Where'd she come from?
+
+## POINTER 5
+<STR>(RIT)
+Meow!
+
+## POINTER 6
+<STR>(KAR)
+Got her!

@@ -1,0 +1,83 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS44_167)What's this...?!
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS44_168)The blastia's out of control!
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VS44_169)Looks like Zagi smashing up 
+that control panel did more 
+damage than we thought.
+
+## POINTER 3
+<STR>(RAV)
+<VOICE>(VS44_170)So, so what the hell are we 
+gonna do about this thing?
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS44_171)Wait!
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS44_172)I don't think waiting is 
+going to do us any good.
+
+## POINTER 6
+<STR>(RIT)
+<VOICE>(VS44_173)No, I think I get it! 
+Look at that!!
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS44_174)Ugh! What is that?
+
+## POINTER 8
+<STR>(RIT)
+<VOICE>(VS44_175)Aer is being transferred 
+at a tremendous rate.<PAGE><VOICE>(VS44_176)There can only be one place 
+something this big could be 
+sending that much power.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS44_177)A cannon?!
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS44_178)If we were to destroy 
+this blastia now...<PAGE><VOICE>(VS44_179)It might stop Heracles, but the 
+cannon could go off and blow 
+Zaphias clean off the map!
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VS44_180)No way! S-so what 
+should we do?!
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VS44_181)Well, whatever we do, we 
+have to stop this aer.
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VS44_182)Dein Nomos, huh?
+
+## POINTER 14
+<STR>(KAR)
+<VOICE>(VS44_183)Oh yeah! That's what 
+Duke used to get the 
+aer back under control.
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS44_184)Can you really do that?
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS44_185)I don't really have a choice. 
+Here goes nothing.

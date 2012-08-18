@@ -1,0 +1,180 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS03_092)He's really keeping this place cleaned up...
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS03_093)<STR>(FRE) must be off gallivanting 
+around somewhere.
+
+## POINTER 2
+
+<VOICE>(VS03_094)Then... That means I'm too late.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS03_095)So what sort of wickedness 
+did you do anyway?
+
+## POINTER 4
+
+<VOICE>(VS03_096)Me? I haven't done 
+anything wrong.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS03_097)And yet a bunch of knights were 
+chasing you around the castle. 
+...Yeah, that makes sense.
+
+## POINTER 6
+
+<VOICE>(VS03_098)Um, you see...<STR>(YUR)!
+
+## POINTER 7
+<STR>(YUR)
+<VOICE>(VS03_099)Whoa... What is it?
+
+## POINTER 8
+
+<VOICE>(VS03_100)I can't be specific, but <STR>(FRE) 
+is in terrible danger!<PAGE><VOICE>(VS03_101)I've got to go 
+and warn him.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS03_102)So go if you want to go. 
+What's wrong with that?
+
+## POINTER 10
+
+<VOICE>(VS03_103)I wish I knew...
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS03_104)Listen, I've got something I've 
+gotta take care of right away, too.<PAGE><VOICE>(VS03_105)As soon as things quiet down outside I 
+want to get back to the lower quarter.
+
+## POINTER 12
+
+<VOICE>(VS03_106)In that case, would you take 
+me with you? Please?<PAGE><VOICE>(VS03_107)Other than <STR>(FRE), there's 
+no one I can depend on.<PAGE><VOICE>(VS03_108)Will you at least help me get out of the castle?
+
+## POINTER 13
+
+<VOICE>(VS03_109)Please, I'm begging you.
+
+## POINTER 14
+<STR>(YUR)
+<VOICE>(VS03_110)Okay I can see you're serious, 
+but why don't you tell me 
+your name first.
+
+## POINTER 15
+
+<VOICE>(VS03_111)Aaah!
+
+## POINTER 16
+
+<VOICE>(VS03_112)Prepare to fall victim to my blade...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS03_113)Haven't you ever heard of knocking?
+
+## POINTER 18
+Zagi
+<VOICE>(VS03_114)I am Zagi... The man who 
+will end your life. Now 
+die, <STR>(FRE) Scifo!
+
+## POINTER 19
+<STR>(YUR)
+<VOICE>(VS03_130)You've got the wrong guy. Aren't 
+you supposed to know this stuff?
+
+## POINTER 20
+
+<VOICE>(VS03_131)He's not <STR>(FRE)!
+
+## POINTER 21
+Zagi
+<VOICE>(VS03_132)Details, details. 
+Bring it!
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VS03_133)This guy's nuts. 
+<STR>(FRE) sure has made some 
+interesting enemies.
+
+## POINTER 23
+
+<VOICE>(VS03_134)Zagi, we're leaving. 
+The Knights are 
+onto us.
+
+## POINTER 24
+
+<VOICE>(VS03_135)How dare you!
+
+## POINTER 25
+Zagi
+<VOICE>(VS03_136)Hah hah hah! Mind your own 
+business! I'm just getting 
+to the best part!
+
+## POINTER 26
+
+<VOICE>(VS03_137)Hurry, before the Knights get 
+here. Or would you rather have 
+your fun end today?
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VS03_138)We should be getting a move on, too.
+
+## POINTER 28
+<STR>(YUR)
+<VOICE>(VS03_139)...We'll just go pay a visit to 
+the goddess and be on our way.
+
+## POINTER 29
+
+<VOICE>(VS03_140)<STR>(YUR), um.
+
+## POINTER 30
+<STR>(YUR)
+<VOICE>(VS03_141)Yeah, I know. We'll stick together 
+until we're out of the castle.
+
+## POINTER 31
+<STR>(EST)
+<VOICE>(VS03_142)Oh. Right. But I was going to 
+say, my name is <STR>(EST).
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS03_143)Well then, <STR>(EST), 
+let's get moving.
+
+## POINTER 33
+<STR>(EST)
+<VOICE>(VS03_144)Wait, we can't just leave 
+the door like that...
+
+## POINTER 34
+<STR>(YUR)
+<VOICE>(VS03_145)I really don't think this is the time 
+to worry about something like that.
+
+## POINTER 35
+<STR>(EST)
+<VOICE>(VS03_146)But...!
+
+## POINTER 36
+<STR>(YUR)
+<VOICE>(VS03_147)All right, all right. Just.... 
+Just give me a minute.

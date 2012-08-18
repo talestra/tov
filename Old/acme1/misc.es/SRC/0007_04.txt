@@ -1,0 +1,299 @@
+## POINTER 400 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257581959]
+La Ciudad en Alza, Heliord 
+
+## POINTER 401 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257679319]
+La Ciudad en Alza, Heliord, posada y Fortuna Mercantil
+
+## POINTER 402 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257679319]
+La Ciudad en Alza, Heliord, posada y Fortuna Mercantil
+
+## POINTER 403 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257581959]
+La ciudad en calma, Yormgen 
+
+## POINTER 404 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257581959]
+La ciudad en calma, Yormgen 
+
+## POINTER 405 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257581959]
+La ciudad en calma, Yormgen, casa del Sabio
+
+## POINTER 406 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257581959]
+La ciudad en calma, Yormgen, posada
+
+## POINTER 407 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+La ciudad en calma, Yormgen, ruinas
+
+## POINTER 408 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+La ciudad en calma, Yormgen, ruinas
+
+## POINTER 409 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 410 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 411 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 412 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 413 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 414 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 415 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 416 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 417 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 418 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh, risco de Phaeroh
+
+## POINTER 419 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 420 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 421 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 422 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 423 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 424 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 425 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Las Arenas de Kogorh
+
+## POINTER 426 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256423756]
+Las Arenas de Kogorh
+
+## POINTER 427 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256423756]
+Bosque de Egothor
+
+## POINTER 428 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256423756]
+Bosque de Egothor
+
+## POINTER 429 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256423756]
+Bosque de Egothor
+
+## POINTER 430 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256423756]
+Bosque de Egothor
+
+## POINTER 431 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256423756]
+Bosque de Egothor
+
+## POINTER 432 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256423756]
+Bosque de Egothor
+
+## POINTER 433 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256423756]
+Bosque de Egothor
+
+## POINTER 434 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256423756]
+Bosque de Egothor
+
+## POINTER 435 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+Prueba
+
+## POINTER 436 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El barco fantasma, Atherum
+
+## POINTER 437 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El santuario eterno de Zaude
+
+## POINTER 438 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El santuario eterno de Zaude
+
+## POINTER 439 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El refugio de los gremios, Dahngrest
+
+## POINTER 440 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+La Tierra de la Esperanza, Aurnion, dojo del maestro espadachín
+
+## POINTER 441 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El refugio de los gremios, Dahngrest, estadio de cocina
+
+## POINTER 442 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El refugio de los gremios, Dahngrest
+
+## POINTER 443 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El refugio de los gremios, Dahngrest
+
+## POINTER 444 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El refugio de los gremios, Dahngrest
+
+## POINTER 445 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El refugio de los gremios, Dahngrest
+
+## POINTER 446 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El refugio de los gremios, Dahngrest
+
+## POINTER 447 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El refugio de los gremios, Dahngrest
+
+## POINTER 448 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Aer krene
+
+## POINTER 449 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Aer krene
+
+## POINTER 450 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Aer krene
+
+## POINTER 451 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Aer krene
+
+## POINTER 452 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Aer krene
+
+## POINTER 453 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Aer krene
+
+## POINTER 454 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Aer krene
+
+## POINTER 455 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Aer krene
+
+## POINTER 456 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+El Lugar Feliz, isla de Nam Cobandai
+
+## POINTER 457 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1256421212]
+Puerto de Capua Nor
+
+## POINTER 458 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El santuario eterno de Zaude
+
+## POINTER 459 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+La Academia Sellada, Aspio 
+
+## POINTER 460 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+La Academia Sellada, Aspio 
+
+## POINTER 461 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+La Academia Sellada, Aspio 
+
+## POINTER 462 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+La Academia Sellada, Aspio 
+
+## POINTER 463 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+La Academia Sellada, Aspio 
+
+## POINTER 464 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582270]
+El santuario eterno de Zaude
+
+## POINTER 465 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+La ciudad en ruinas, Caer Bocram 
+
+## POINTER 466 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El refugio de los gremios, Dahngrest
+
+## POINTER 467 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El refugio de los gremios, Dahngrest
+
+## POINTER 468 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+La capital imperial, Zaphias, distrito público
+
+## POINTER 469 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 470 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 471 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 472 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 473 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+La capital imperial, Zaphias, barrios bajos
+
+## POINTER 474 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+La capital imperial, Zaphias, posada
+
+## POINTER 475 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+Posada de Zaphias, habitación de <STR>(YUR)
+
+## POINTER 476 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El barco fantasma, Atherum
+
+## POINTER 477 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+La antigua torre de Tárcaron
+
+## POINTER 478 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 479 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 480 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 481 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 482 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 483 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 484 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 485 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 486 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 487 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 488 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 489 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 490 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 491 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 492 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 493 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 494 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 495 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 496 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 497 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 498 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos
+
+## POINTER 499 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1257582472]
+El Laberinto de los Recuerdos

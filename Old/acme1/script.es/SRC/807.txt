@@ -1,0 +1,27 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:Lia;time:1293738474]
+<STR>(JUD)
+Fiu... Qué bien nos ha venido
+este cambio de aires.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1295905301]
+<STR>(RIT)
+¿Cuánto rato vas a
+andar vestido así?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1304552782]
+<STR>(KAR)
+Esta mañana he salido con prisas
+del baño y... ¡Pero si todos
+seguís con vuestros bañadores!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1293738474]
+<STR>(YUR)
+Ya, pero los nuestros son
+trajes de etiqueta comparados
+con lo que llevas.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1293738474]
+<STR>(KAR)
+De-dejad de mirarme así...
+¡Me pone de los nervios!
+¡Venga, en marcha!

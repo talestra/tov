@@ -1,0 +1,59 @@
+## POINTER 1 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+Ring A Bell
+
+## POINTER 2 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+El comienzo
+
+## POINTER 3 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+Milagro en la ciudad de las flores
+
+## POINTER 4 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+Una decisión en el puente
+
+## POINTER 5 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+<STR>(EST_P) desesperada
+
+## POINTER 6 [t:1;r:2;ru:memnoch,parsec;user:memnoch;time:1264338641]
+Ambiciones en acción
+
+## POINTER 7 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+Un grito de ayuda
+
+## POINTER 8 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+El retorno de los infames
+
+## POINTER 9 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+<STR>(YUR) cae
+
+## POINTER 10 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+La llegada del cataclismo
+
+## POINTER 11 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+La amenaza en el cielo
+
+## POINTER 12 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1264934207]
+El final del adephagos
+
+## POINTER 13 [t:1;r:2;ru:memnoch,parsec;user:xander;time:1263820093]
+Una historia finaliza, un viaje comienza
+
+## POINTER 14 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+Entrando en Ghasfarost
+
+## POINTER 15 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+El poder de la fortaleza gigante
+
+## POINTER 16 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+El asalto a Heracles
+
+## POINTER 17 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+La persecución en mar abierto
+
+## POINTER 18 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+El cañón dispara
+
+## POINTER 19 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+Con la ayuda de Phaeroh
+
+## POINTER 20 [t:1;r:2;ru:memnoch,parsec;user:parsec;time:1263125918]
+Reventando monstruos

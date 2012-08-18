@@ -1,0 +1,116 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+
+Ah, hola. Ya nos habíamos
+visto antes, ¿verdad?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+<STR>(KAR)
+Nos ayudaste
+en Capua Nor.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+<STR>(YUR)
+Cuando Alexei
+te tenía preso.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+
+Niña, ¿tú puedes usar artes curativas?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765930]
+<STR>(EST_P)
+¿Eh? ¿Se ha dado cuenta?
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+
+Todos los sanadores tienen una marca
+característica en su pulgar izquierdo.
+Sus artes curativas se emiten desde ahí.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+<STR>(EST_P)
+Tengo un pequeño lunar, sí...
+¿Eso le ha bastado para saberlo?
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+
+Un doctor ha de ser observador. Además,
+yo también soy un practicante de artes curativas.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+
+La abuela se ha puesto
+mala de repente...
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765930]
+
+¡Ya es tarde, doctor! No tengo
+pesares para dejar esta vida...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+<STR>(EST_P)
+Oh, no...
+Esto es grave...
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765930]
+
+Espera. Un sanador no puede
+ponerse nervioso cuando
+un enfermo necesita ayuda.<PAGE>Señora, ¿le importaría decirme
+exactamente qué malestares
+tiene, y dónde le duele?
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+
+Me duele el costado, como si
+me lo estuvieran apretando...
+Y tengo los dedos rígidos...
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+
+Mmmm... Bien,
+déjeme ver...
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+
+¡Me siento mejor! 
+¡Gracias, doctor!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+
+Oh, no me las dé.
+Es mi trabajo.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+<STR>(YUR)
+Has aplicado el arte curativo en los
+puntos exactos en los que hacía falta.
+Para hacer eso hace falta tener maña.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+
+Puede resultar dañino aplicarlas
+en partes del cuerpo que no lo necesitan.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+<STR>(EST_P)
+¿E-En serio?
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+
+Si un sanador trabaja con excesivas
+prisas puede causar estrés innecesario
+al paciente y empeorar su condición.<PAGE>Un sanador ha de estar tranquilo
+y concentrado en todo momento.
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1294106356]
+<STR>(EST_P)
+E-Entiendo... Por favor,
+disculpe mi ignorancia.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:memnoch;time:1296765930]
+
+¡Oh, no hay nada que disculpar! Tú todavía estás
+aprendiendo. El camino del sanador es complicado,
+y eso siendo generosos.<PAGE>Por favor, pásate por aquí de vez en cuando.
+Hay muchas cosas que me gustaría enseñarte.

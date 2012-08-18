@@ -1,0 +1,24 @@
+## POINTER 0
+Nobis
+<VOICE>(VA013_051)Gaaah!
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VA013_052)It looks like the monster got away with the stone...
+
+## POINTER 2
+<STR>(YUR)
+<VOICE>(VA013_053)Hey, are you okay...?!
+
+## POINTER 3
+Nobis
+<VOICE>(VA013_054)After all that searching...
+Now I'll have to start over...
+
+## POINTER 4
+<STR>(EST_P)
+<VOICE>(VA013_055)This wound is terrible...!
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA013_056)Let's carry him to the inn!

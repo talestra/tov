@@ -1,0 +1,382 @@
+## POINTER 55 [t:1;r:1;ru:memnoch;user:memnoch;time:1297524041]
+Abre el menú de batalla con <06>(MEN).
+Mantén pulsado <06>(CBL1) al usar <06>(LTL)<06>(LTR)
+para cambiar la configuración de la estrategia.
+
+Mantén pulsado <06>(CBL1) al pulsar <06>(LTU)
+al principio de un combate para
+volver a la configuración por defecto.
+
+Los cambios en la configuración solo
+tendrán efecto en la batalla actual.
+
+## POINTER 56 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Orden personal
+
+## POINTER 57 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264680873]
+Abre el menú de batalla con <06>(MEN).
+Mantén pulsado <06>(LTD) 
+mientras pulsas <06>(CBL1)
+para dar instrucciones específicas
+a un personaje en concreto de tu grupo.
+
+Esto se llama «orden personal».
+
+Inténtalo cambiando el personaje
+que controlas.
+
+## POINTER 58 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Atributos
+
+## POINTER 59 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264680873]
+Algunas artes y equipamiento
+tienen atributos elementales.
+
+Los ataques con atributos harán
+mucho más daño a aquellos personajes
+que sean débiles al elemento
+asociado.
+
+Conocer las debilidades y resistencias
+de los enemigos te permitirán
+equiparte con armamento y hechizos
+que te den ventaja.
+
+## POINTER 60 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Tipos de atributos
+
+## POINTER 61 [t:1;r:1;ru:memnoch;user:memnoch;time:1297524041]
+Hay siete tipos de atributos:
+
+<06>(EL1)Fuego
+<06>(EL2)Tierra
+<06>(EL3)Viento
+<06>(EL4)Agua
+<06>(EL5)Luz
+<06>(EL6)Oscuridad
+<06>(EL7)Físico
+
+Puedes comprobar los atributos
+de los enemigos con una lente mágica.
+
+## POINTER 62 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Atributos opuestos
+
+## POINTER 63 [t:1;r:1;ru:memnoch;user:memnoch;time:1297524041]
+Cada uno de los seis atributos elementales
+tiene un opuesto:
+
+<06>(EL1)Fuego se opone a <06>(EL4)Agua.
+<06>(EL2)Tierra se opone a <06>(EL3)Viento.
+<06>(EL5)Luz se opone a <06>(EL6)Oscuridad.
+
+En muchos casos, los enemigos débiles
+contra el fuego tienen el agua como
+atributo elemental y viceversa.
+Toma esto en cuenta durante los combates
+
+## POINTER 64 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Ataques letales I
+
+## POINTER 65 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Un campo de fuerza mágico de color rojo,
+azul o verde aparecerá sobre los enemigos
+si les atacas constantemente.
+
+Si lo haces en el momento justo, puedes ejecutar
+un ataque letal para acabar con los enemigos
+normales de un golpe pulsando <06>(CBR2).
+
+Puedes usar varios métodos para hacer
+aparecer estos campos de fuerza.
+
+## POINTER 66 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Ataques letales II
+
+## POINTER 67 [t:1;r:1;ru:memnoch;user:memnoch;time:1297524255]
+Puedes recibir bonificaciones al final
+del combate cuando rematas a un enemigo
+con un ataque letal.
+
+Hay 3 tipos de bonificaciones:
+・ Bonificación de EXP
+・ Bonificación de LP
+・ Bonificación de objetos obtenidos
+
+El tipo de bonificación dependerá
+del color del campo de fuerza
+y del tipo de enemigo.
+
+## POINTER 68 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Ataques letales III
+
+## POINTER 69 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+El color del campo de fuerza dependerá
+de las artes que hayas usado.
+
+Las artes correspondientes a cada
+ataque letal vienen representadas
+por un icono en el menú de artes.
+ 
+<06>(FS3)Ataque letal rojo
+<06>(FS1)Ataque letal azul
+<06>(FS2)Ataque letal verde
+
+## POINTER 70 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Cadena AL
+
+## POINTER 71 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264681284]
+Los personajes reciben distintos
+tipos de efectos después de una serie
+de ataques letales.
+
+Esto se conoce como «cadena AL».
+
+Los efectos varían según el color
+del campo de fuerza en el momento
+en el que acaba la cadena. La potencia
+del efecto también se incrementa con el número
+de cadenas realizadas con éxito.
+
+## POINTER 72 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264328436]
+Ataques letales contra jefes finales
+
+## POINTER 73 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Al contrario que con los enemigos
+normales, no se pueden derrotar
+a los jefes finales de un solo golpe
+con un ataque letal.
+Tan solo recibirán una gran
+cantidad de daño.
+
+En vez de eso, intenta conseguir
+cadena AL si puedes.
+
+## POINTER 74 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+AL y tipos de enemigos
+
+## POINTER 75 [t:1;r:1;ru:memnoch;user:memnoch;time:1297524255]
+Lo siguiente depende del tipo de enemigo
+cuando se usa un AL (Ataque letal):
+
+- La dificultad al activar
+  un AL rojo, azul o verde
+- Los tres tipos de bonificaciones
+
+Usa el Libro de monstruos para comprobar
+de qué tipo es cada enemigo.
+
+## POINTER 76 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+AL: Enemigos humanoides
+
+## POINTER 77 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Todos los tipos de AL son igual
+de fáciles de conseguir contra
+<06>(MC1)enemigos humanoides.
+
+Bonificaciones:
+- AL azul: Incrementa EXP
+- AL rojo: Incrementa LP
+- AL verde: Incrementa los objetos obtenidos
+
+## POINTER 78 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264328590]
+AL: Bestias y mágicos
+
+## POINTER 79 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264332596]
+Los AL verdes son más fáciles de ejecutar
+contra <06>(MC2)bestias y <06>(MC4)mágicos,
+mientras que los AL rojos son más difíciles
+de ejecutar contra este tipo de enemigos.
+
+Bonificaciones:
+- AL azul: Incrementa EXP
+- AL rojo: Incrementa LP
+- AL verde: Incrementa los objetos obtenidos
+
+## POINTER 80 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264328590]
+AL: Aves e insectos
+
+## POINTER 81 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264681598]
+Los AL rojos son más fáciles de ejecutar
+contra <06>(MC7)insectos y <06>(MC3)aves, 
+mientras que los AL azules son más difíciles
+de ejecutar contra este tipo de enemigos.
+
+Bonificaciones:
+- AL azul: Incrementa LP
+- AL rojo: Incrementa los objetos obtenidos
+- AL verde: Incrementa EXP
+
+## POINTER 82 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264328590]
+AL: Plantas y acuáticos
+
+## POINTER 83 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264681598]
+Los AL azules son más fáciles de ejecutar
+contra <06>(MC5)plantas y <06>(MC6)acuáticos, 
+mientras que los AL verdes son más difíciles
+de ejecutar contra este tipo de enemigos.
+
+Bonificaciones:
+- AL azul: Incrementa los objetos obtenidos
+- AL rojo: Incrementa EXP
+- AL verde: Incrementa LP
+
+## POINTER 84 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264328590]
+AL: Inorgánicos y escamosos
+
+## POINTER 85 [t:1;r:2;ru:googol,memnoch;user:parsec;time:1264332596]
+Todos los tipos de AL son igual
+de difíciles de conseguir contra
+<06>(MC8)inorgánicos y <06>(MC9)escamosos.
+
+Sin embargo, las bonificaciones son mayores:
+
+- AL azul: Incrementa EXP
+- AL rojo: Incrementa LP
+- AL verde: Incrementa los objetos obtenidos
+
+## POINTER 86 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Límite
+
+## POINTER 87 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+El Límite puede activarse
+pulsando <06>(LBN) cuando
+la barra a la izquierda
+de la pantalla está llena.
+
+Cuando el personaje está
+en Límite, podrá enlazar ataques
+y artes sin límite alguno.
+
+De esta manera puedes hacer
+combos muy fácilmente, así
+que aprovéchate de ello.
+
+## POINTER 88 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Límite de nivel 2
+
+## POINTER 89 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Puedes activar un Límite de Nv. 2
+cuando la barra de Límite alcanza
+el segundo nivel.
+
+Pulsa <06>(LBR) para usar la primera
+barra. Pulsa <06>(LBU)<06>(LBD)<06>(LBL)
+para usar las dos barras a la vez.
+
+Además de las ventajas del Nv. 1,
+un Límite de Nv.2 inflige daño
+adicional a los enemigos en el suelo.
+
+## POINTER 90 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264682228]
+Símbolos de Límite y habilidad
+
+## POINTER 91 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264682228]
+Cuando dos personajes entran en Límite
+al mismo tiempo, los dos pueden ganar
+los efectos del símbolo de habilidad de su
+compañero por encima del suyo propio.
+
+Por ejemplo, si uno de ellos tiene el símbolo
+de habilidad «Fleck» y el otro, «Strihm», los
+dos personajes aumentarán su poder de ataque
+y velocidad si entran en Límite a la vez.
+
+## POINTER 92 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Límite de nivel 3
+
+## POINTER 93 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Puedes activar un Límite de Nv. 3
+cuando la barra de Límite alcanza
+el tercer nivel.
+
+Pulsa <06>(LBR) para usar una barra.
+Pulsa <06>(LBD) para usar dos barras.
+Pulsa <06>(LBU) o <06>(LBL) para
+usarlas todas a la vez.
+
+Además de las ventajas del nivel 2,
+durante este lapso de tiempo las artes
+no gastarán TP.
+
+## POINTER 94 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Límite de nivel 4 I
+
+## POINTER 95 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Puedes activar un Límite de Nv. 4
+cuando la barra de Límite se llena
+del todo.
+
+Pulsa <06>(LBR) para usar una barra.
+Pulsa <06>(LBD) para usar dos barras.
+Pulsa <06>(LBL) para usar tres barras.
+Pulsa <06>(LBU) para usar todas las barras.
+
+## POINTER 96 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Límite de nivel 4 II
+
+## POINTER 97 [t:1;r:2;ru:googol,memnoch;user:Googol;time:1264682228]
+Además de las ventajas del nivel 3,
+los personajes serán inmunes
+a los ataques enemigos durante
+los Límites de nivel 4.
+
+Llenar la barra de Límite
+hasta el nivel 4 lleva tiempo,
+pero merece mucho la pena.
+
+## POINTER 98 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Artes explosivas
+
+## POINTER 99 [t:1;r:1;ru:memnoch;user:memnoch;time:1297528817]
+Tras ejecutar un arte arcano
+o un arte modificado durante
+un Límite, mantén pulsado <06>(ART)
+para usar un poderoso tipo de arte
+conocido como arte explosivo.
+
+Cuanto mayor sea el nivel del Límite,
+mayor será la potencia del arte explosivo.
+
+## POINTER 100 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Artes modificadas I
+
+## POINTER 101 [t:1;r:1;ru:memnoch;user:memnoch;time:1297528817]
+Algunas habilidades pueden
+cambiar ciertas artes.
+ 
+Por ejemplo, el arte básico de Yuri,
+«Filo azur», se convierte en
+«Tormenta azur» cuando lleva
+equipada la habilidad «Cadena».
+
+Esto se conoce como artes modificadas.
+Algunas artes solo tienen lugar
+cuando se equipan varias habilidades
+a la vez. Prueba varias combinaciones.
+
+## POINTER 102 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Artes modificadas II
+
+## POINTER 103 [t:1;r:1;ru:memnoch;user:memnoch;time:1297528817]
+El alcance de un arte modificado
+aumenta todavía más cuando las
+habilidades «Súper Cadena 4» y 
+«Súper Cadena 5» están activadas.
+
+Es posible realizar un combo
+con un arte básico, un arte
+modificado y un arte arcano.
+
+## POINTER 104 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Artes modificadas III
+
+## POINTER 105 [t:1;r:1;ru:memnoch;user:memnoch;time:1297528817]
+Puedes aprender las artes modificadas
+ejecutándolas repetidas veces.
+
+Una vez las hayas aprendido, puedes
+asignarlas como cualquier otra arte.
+
+## POINTER 106 [t:1;r:2;ru:googol,memnoch;user:xander;time:1263830221]
+Cámara de batalla

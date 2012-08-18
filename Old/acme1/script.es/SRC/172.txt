@@ -1,0 +1,60 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238505]
+<STR>(KAR)
+¡Aah!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238505]
+
+*Snif, snif*
+Papá... Mamá...
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272830992]
+<STR>(EST_P)
+Todo va a salir bien.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272830992]
+<STR>(EST_P)
+¿Puedes decirnos qué ha pasado?
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1273477502]
+
+Un hombre malo me trajo aquí...<PAGE>Me dijo que era porque papá y mamá
+no habían pagado sus impuestos...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238505]
+<STR>(KAR)
+¿Crees que este niño es
+aquel del que oímos antes?
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272830992]
+<STR>(EST_P)
+Es horrible...
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1298238505]
+<STR>(KAR)
+Y todos estos huesos...
+¿Lo habrán hecho los monstruos?
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272830992]
+
+Papá... Mamá...
+Quiero irme a casa...
+
+## POINTER 9 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272830992]
+<STR>(EST_P)
+Tranquilo. Ahora
+todo irá bien.
+¿Cómo te llamas?
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272830992]
+
+Pauly...
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272830992]
+<STR>(YUR)
+Vamos, Pauly. Se un niño valiente.
+No llores más. Pronto podrás
+ver a tú papá y a tu mamá.
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1272830992]
+Pauly
+Vale...

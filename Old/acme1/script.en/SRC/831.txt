@@ -1,0 +1,197 @@
+## POINTER 0
+
+Dingity-dongity! I'm Kowz! 
+You can call me K-Wizzle 
+for short! Hi-dee-ho!<PAGE>Ah, you're back again, 
+again! You just can't get 
+me off your mind, eh?
+
+## POINTER 1
+<STR>(RIT)
+I'm getting tired 
+of hearing your 
+rambling...
+
+## POINTER 2
+
+What's got your britches 
+in a bunch, Flatty?
+
+## POINTER 3
+<STR>(RIT)
+Okay, I've had about enough 
+of your crap. You trying 
+to start something?
+
+## POINTER 4
+<STR>(RAV)
+Hey, lay off, <STR>(RIT). I don't much 
+feel like seein' a catfight break 
+out between a coupla kids.
+
+## POINTER 5
+
+A kid? Who's a kid?
+I'm grown up and glorious!
+
+## POINTER 6
+<STR>(KAR)
+Uhhh...you sure about 
+that? You look like a 
+kid to me. You're tiny!
+
+## POINTER 7
+
+You're one to talk, you 
+swooshy-haired midget.
+
+## POINTER 8
+<STR>(RIT)
+Ahh ha ha!
+Swooshy-haired midget...
+*Snicker*
+
+## POINTER 9
+
+Now, for the main event!
+Today's item du jour is...
+Dadum dadum dadummm... DUM!<PAGE>Poison Ward, Paralyze 
+Ward and Stone Ward!
+
+## POINTER 10
+<STR>(EST_P)
+Why's it up to three items 
+all of the sudden?
+
+## POINTER 11
+
+Mmmm... Why don't you keep 
+your nosy questions to yourself, 
+Little Miss Innocent?
+
+## POINTER 12
+<STR>(EST_P)
+Little Miss Innocent? 
+What does that mean?
+
+## POINTER 13
+<STR>(RAV)
+Ignorance is bliss, honey, 
+and what you don't know 
+won't hurt you.
+
+## POINTER 14
+
+So then, whenever's convenient for 
+you, feel free to hand them over! ∀
+
+## POINTER 15
+<STR>(RAV)
+You'll give up somethin' nice 
+in exchange, right? ∀
+
+## POINTER 16
+
+Sure, sure, don't 
+worry about it!
+
+## POINTER 17
+
+Thanks!
+
+## POINTER 18
+
+Round and round we go!
+Where we stop...only I know!
+
+## POINTER 19
+
+Here ya go!
+
+## POINTER 20
+
+Oh me, oh my!
+Thankee, again! Oh ho 
+heh heh heh.
+
+## POINTER 21
+<STR>(JUD)
+I don't know if I'll ever get used to 
+seeing that thing pop out of there.
+
+## POINTER 22
+<STR>(YUR)
+I don't blame you. That's 
+just messed up.
+
+## POINTER 23
+<STR>(RAV)
+So, we gave ya three 
+things... Now what'll 
+ya give us?
+
+## POINTER 24
+
+Ah, right. Today I'm 
+going to give you...
+Humina jumina...
+
+## POINTER 25
+
+Here ya go!
+
+## POINTER 26
+<STR>(KAR)
+Th-three of the same thing?
+
+## POINTER 27
+
+Isn't that enough? You want 
+me to give you more?
+
+## POINTER 28
+<STR>(RAV)
+Who'd want a buncha copies 
+of the same thing?
+
+## POINTER 29
+
+R-really...?! B-but I thought 
+that they'd come in handy 
+out in the desert...
+
+## POINTER 30
+<STR>(RAV)
+Yeeesss! Yay! We're 
+so happy! Right, <STR>(KAR)?
+Right?
+
+## POINTER 31
+<STR>(KAR)
+Oh, yeah, yeah! I'm 
+so happy! Oh boy, too 
+happy for words.
+
+## POINTER 32
+
+Oh, good. Well, keep 
+them safe! See ya 
+later! Ding! ∀
+
+## POINTER 33
+
+What? But you don't 
+have all those things. 
+You big fibber!
+
+## POINTER 34
+
+Boo! Boo! You 
+cheapskate!
+
+## POINTER 35
+
+Yaaay! You're back, 
+you're back!<PAGE>Will you give me a Poison 
+Ward, Paralyze Ward, 
+and a Stone Ward?

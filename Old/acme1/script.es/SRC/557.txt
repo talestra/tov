@@ -1,0 +1,19 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1291767373]
+<STR>(YUR)
+<VOICE>(VS26_107)Debe ser la señal de Tokunaga.
+Imagino que el blastia ceres
+ya vuelve a funcionar.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1291767373]
+<STR>(KAR)
+<VOICE>(VS26_108)Vamos a ver si es verdad.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291767415]
+<STR>(RIT)
+<VOICE>(VS26_109)Ya que sale el tema, creo que no
+vamos a poder volver por el mismo
+sitio por el que hemos venido.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1291767373]
+<STR>(JUD)
+<VOICE>(VS26_110)Habrá que buscar otra manera de salir.

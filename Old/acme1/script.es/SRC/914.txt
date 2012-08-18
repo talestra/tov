@@ -1,0 +1,193 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+
+¡Oh! Esa cara que traes...
+¡¿No será que...?!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1295113769]
+<STR>(RAV)
+¡Sí, señor! ¡Yo solico
+he conseguío la
+colección entera!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(RIT)
+¿Cómo que tú solico?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1295111202]
+
+¡Déjame verlos,
+por favor!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+
+Fantástico...
+Simplemente fantástico.
+¡Ya los tengo los once!<PAGE>¡Oh, qué ganas tengo!
+¡Qué ganas tengo de decorar
+mi habitación con ellos!
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1295111202]
+<STR>(KAR)
+¡Me alegro de que estés
+tan contento! Nuestro trabajo
+ya ha acabado, ¿verdad?
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+
+Oh, perdonad...
+Me he dejado llevar un poco.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(RAV)
+No, no pasa ná.
+Sé cómo te sientes.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+
+¡Ahora, vuestra recompensa!
+Mmm... ¿Qué sería lo mejor?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:kaene;time:1295111202]
+<STR>(EST_P)
+Mmm...
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+
+¿Gald, quizás? ¿Un objeto?
+¿O con otro juguete ya bastaría?
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:kaene;time:1295111202]
+<STR>(EST_P)
+¡Mmm! ¡Perdona!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:kaene;time:1295111202]
+<STR>(JUD)
+¿Qué pasa, <STR>(EST_P)? 
+¿Por qué gritas?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(EST_P)
+...<PAGE>¿Sería posible
+que nos dieras
+la estatua L?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(KAR)
+¿P-Pero qué dices,
+<STR>(EST_P)? ¡Pero si
+nos ha pedido los once!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:kaene;time:1295113526]
+<STR>(RAV)
+Una colección incompleta
+no tiene valor para
+un coleccionista.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(EST_P)
+Lo sé. Es que...
+no podemos darle
+ese muñeco...
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(YUR)
+Oh, lo dices por Hanks, ¿no?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:kaene;time:1295113526]
+<STR>(EST_P)
+Ese juguete es un recuerdo de su mujer...
+Es muy importante para él.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(KAR)
+Pero ¿no te lo
+dio a ti, <STR>(EST_P)?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:kaene;time:1295113526]
+<STR>(EST_P)
+¡Pero sigue siendo
+suyo! ¡Se lo tenemos
+que devolver!<PAGE>Así que... por favor...
+deja que nos quedemos ese...
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:kaene;time:1295113526]
+<STR>(RIT)
+<STR>(EST_P)...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+
+Pero si me habéis dado ese muñeco como
+parte del trabajo que os pedí...
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+
+¡E-Espera!
+¿Qué te crees que haces?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(YUR)
+Aah, lo siento...
+Parece que son todos falsos.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(KAR)
+¿Y-<STR>(YUR)?
+¿Qué estás diciendo?
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:kaene;time:1295113769]
+<STR>(YUR)
+Pensaba en obtener la
+recompensa entregando
+un montón de copias.<PAGE>Pero parecía que <STR>(EST_P)
+estaba a punto de irse de
+la lengua, y las he robado.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:kaene;time:1295113769]
+<STR>(KAR)
+¿Las has robado?...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:kaene;time:1295113769]
+<STR>(YUR)
+Lo siento mucho.
+Este trabajo ha
+sido un fiasco.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551845]
+
+Pero ¡¿qué...?!
+¡¿Me tomáis por tonto?!
+¡No me lo puedo creer!
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(RAV)
+Agh, parece que hemos perdido
+la recompensa. Al final solo
+nos ha quedado una tiara...
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:kaene;time:1295113769]
+<STR>(EST_P)
+¡¡<STR>(YUR), gracias!!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(YUR)
+Era lo único de valor que
+tenía Hanks. No podía dejar
+que te desprendieras de eso.<PAGE>Además, estas cosas tienen que ser falsas,
+¿verdad? ¡Si alguien se enterara, mancharía
+el buen nombre de Gran Vesperia!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:kaene;time:1295114272]
+<STR>(RIT)
+Vaya montón de gili... Menos mal que
+el chico estaba demasiado ofuscado
+como para reconocer a un mal actor.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1296950719]
+<STR>(JUD)
+¿Por qué no hicimos
+simplemente unos muñecos
+falsos y se los dimos?
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:kaene;time:1295114272]
+<STR>(RIT)
+Eres peor que <STR>(YUR)...

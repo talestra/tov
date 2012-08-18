@@ -1,0 +1,33 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273687214]
+<STR>(EST_P)
+Estoy bien.<PAGE>Tú también deberías tomarte
+un descanso, <STR>(YUR).
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1273687214]
+<STR>(EST_P)
+No pienso comerme eso...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1273687214]
+<STR>(KAR)
+Piénsate lo que hemos hablado
+sobre el gremio, ¿vale?<PAGE>Lo harás, ¿verdad?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298167978]
+<STR>(KAR)
+Zzz... *Ñam, ñam* Zzz...
+
+## POINTER 4 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1271619972]
+<STR>(RIT)
+Mm...<PAGE>...
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:Squallido;time:1271619972]
+<STR>(RAP)
+...
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1273687214]
+La señorita <STR>(EST) está descansando.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1273687214]
+<STR>(YUR)
+Creo que por hoy
+será suficiente.

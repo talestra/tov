@@ -1,0 +1,148 @@
+## POINTER 0
+Witcher
+<VOICE>(VS60_080)We finally got you! Where have 
+you been wandering around?
+
+## POINTER 1
+Sodia
+<VOICE>(VS60_081)<STR>(YUR)... Lowell...
+
+## POINTER 2
+Sodia
+<VOICE>(VS60_082)...
+
+## POINTER 3
+Witcher
+<VOICE>(VS60_083)...Sodia?
+
+## POINTER 4
+<STR>(YUR)
+<VOICE>(VS60_084)So what's up with <STR>(FRE)?
+
+## POINTER 5
+Witcher
+<VOICE>(VS60_085)Oh! Right. Many people have 
+fled this continent since that 
+monster covered the sky.<PAGE><VOICE>(VS60_086)But some opposed using a guild 
+fleet to protect the empire. 
+<STR>(FRE) could not abide that.<PAGE><VOICE>(VS60_087)A fleet attacked by monsters 
+landed on Hypionia. We fought, 
+but they kept gaining.
+
+## POINTER 6
+Sodia
+<VOICE>(VS60_088)We alone were 
+sent for aid...<PAGE><VOICE>(VS60_089)But all the knights are 
+spread all over the world...
+
+## POINTER 7
+Witcher
+<VOICE>(VS60_090)We have no other choice 
+but to ask for your help.
+
+## POINTER 8
+Sodia
+<VOICE>(VS60_091)But...we're too late... Commander 
+<STR>(FRE) must be...
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VS60_092)Wow, could you be 
+any more worthless?
+
+## POINTER 10
+Sodia
+<VOICE>(VS60_093)What did you say?!
+
+## POINTER 11
+<STR>(YUR)
+<VOICE>(VS60_094)You give up already? 
+Everything you've done-what 
+was it all for?
+
+## POINTER 12
+Sodia
+<VOICE>(VS60_095)I...I did it all for 
+Commander <STR>(FRE)!<PAGE><VOICE>(VS60_096)Even that one time...
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS60_097)Humph. You talk 
+about doing it 
+all for <STR>(FRE).<PAGE><VOICE>(VS60_098)But you're just whining. You gave up. You forgot your resolve.
+
+## POINTER 14
+Sodia
+<VOICE>(VS60_099)Resolve...
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS60_100)Yo! Apple-head! You 
+said Hypionia, right?
+
+## POINTER 16
+Witcher
+<VOICE>(VS60_101)Y-yeah...
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS60_102)All right. I'll 
+be back soon.<PAGE><VOICE>(VS60_103)All of you get ready 
+to go to Tarqaron--
+
+## POINTER 18
+<STR>(EST_P)
+<VOICE>(VS60_104)I'm going too!
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VS60_105)Yeah, me too. You keep forgetting us.
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS60_106)I'm glad you want to come, 
+but this seems pretty bad.
+
+## POINTER 21
+<STR>(JUD)
+<VOICE>(VS60_107)That's even more reason 
+not to let you go alone.<PAGE><VOICE>(VS60_108)I don't think Ba'ul will 
+listen to you, either.
+
+## POINTER 22
+<STR>(RIT)
+<VOICE>(VS60_109)All for the guild 
+and the guild for 
+all... Right?
+
+## POINTER 23
+<STR>(RAV)
+<VOICE>(VS60_110)Well, if we're out of time, 
+let's go and get it over with.
+
+## POINTER 24
+<STR>(YUR)
+<VOICE>(VS60_111)Okay, okay. So let's 
+get going!
+
+## POINTER 25
+<STR>(KAR)
+<VOICE>(VS60_112)Yeah! Brave Vesperia, 
+chaaarge!
+
+## POINTER 26
+<STR>(RAP)
+<VOICE>(VS60_113)Woof!
+
+## POINTER 27
+Witcher
+<VOICE>(VS60_114)Go get 'em!<PAGE><VOICE>(VS60_115)All right, Sodia. Let's 
+reform the support units!
+
+## POINTER 28
+Sodia
+<VOICE>(VS60_116)O-okay...
+
+## POINTER 29
+Sodia
+<VOICE>(VS60_117)...<STR>(YUR) Lowell.

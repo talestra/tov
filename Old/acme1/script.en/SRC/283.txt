@@ -1,0 +1,100 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS25_082)Ready to go?
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS25_083)What should we do about <STR>(RIT)?
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS25_084)That one has her own 
+matters to attend to.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS25_085)That sounds about right.
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS25_086)So, first to the harbor 
+and then find a boat?
+
+## POINTER 5
+<STR>(KAR)
+<VOICE>(VS25_087)Huh? You mean...
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS25_088)Are you coming too?
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS25_089)Yeah.
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VS25_090)Wasn't there something 
+you had to go do?
+
+## POINTER 9
+<STR>(EST_P)
+<VOICE>(VS25_091)You were going to investigate 
+the aer krene, weren't you?
+
+## POINTER 10
+<STR>(RIT)
+<VOICE>(VS25_092)It turns out the one at Keiv Moc 
+the Commandant asked me to look 
+into has already been researched.<PAGE><VOICE>(VS25_093)I hadn't really made up my 
+mind about which route to take 
+to research the others.
+
+## POINTER 11
+<STR>(JUD)
+<VOICE>(VS25_094)So you'll be using us 
+to help with your 
+investigations?
+
+## POINTER 12
+<STR>(RIT)
+<VOICE>(VS25_095)Well, there's no guarantee 
+I won't run into trouble 
+like back at Heliord.<PAGE><VOICE>(VS25_096)Anyway it'll be safer 
+for me this way than 
+going alone.
+
+## POINTER 13
+<STR>(YUR)
+<VOICE>(VS25_097)Nice to see your glowing 
+personality hasn't changed.
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VS25_098)This means we'll be able to travel 
+together again. I'm so happy.
+
+## POINTER 15
+<STR>(RIT)
+<VOICE>(VS25_099)Yeah, I...um. You know, it's no big deal.
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS25_100)A-anyway, we were going 
+to the harbor, right?
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VS25_101)Ah, ta be young again, I tell ya.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS25_102)You got something you want to say?!
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS25_103)Whoa! Down girl!
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VS25_104)To the harbor then.

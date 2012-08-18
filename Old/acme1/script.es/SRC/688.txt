@@ -1,0 +1,46 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1274298310]
+<STR>(RIT)
+*Bostezo* Qué bien he dormido.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298762613]
+<STR>(EST_P)
+He probado sacudiéndote y llamándote,
+pero no había modo de despertarte.
+Creía que nos habías dejado, <STR>(RIT).<PAGE>*Suspiro*
+¡Qué alivio!
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1274298310]
+<STR>(JUD)
+Estabámos más cansados  
+de lo que pensábamos.
+
+## POINTER 3 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1274298310]
+<STR>(RIT)
+¿Esos dos todavía siguen?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298762613]
+<STR>(EST_P)
+Sí. Han estado luchando 
+casi sin descanso desde 
+que empezaron.
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1274298310]
+<STR>(JUD)
+Parece que se lo 
+están pasando bien.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1298762613]
+<STR>(RIT)
+Qué morro tienen. 
+¿Cuándo nos iremos? 
+Esto es agobiante.<PAGE>Voy a hacer mantenimiento 
+al Vesperia Uno o algo.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1274298310]
+<STR>(EST_P)
+¡Oh, te ayudaré!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:miyu;time:1274298310]
+<STR>(JUD)
+Diría que <STR>(RIT) se parece 
+mucho, la verdad...

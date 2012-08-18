@@ -1,0 +1,119 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS15_231)Is this the blastia we're looking for?
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VS15_232)Strihm, laitos, 
+rockra, fleck...<PAGE><VOICE>(VS15_233)They just patch together blastia 
+with different formulas...<PAGE><VOICE>(VS15_234)This formula could manipulate 
+the weather, but how can 
+they use them like this?!<PAGE><VOICE>(VS15_235)It's just like at Ehmead Hill.
+They don't have the slightest
+respect for what they're working with.
+
+## POINTER 2
+<STR>(EST_P)
+<VOICE>(VS15_236)This is just what we need for evidence.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS15_237)<STR>(RIT), shouldn't you finish that later...?
+
+## POINTER 4
+<STR>(RIT)
+<VOICE>(VS15_238)...Just a bit more... I just need 
+to check a few more things...
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VS15_239)You can have <STR>(FRE) give you a look 
+at it after we're done. Let's get 
+busy with our "emergency."
+
+## POINTER 6
+<STR>(EST_P)
+<VOICE>(VS15_240)Let's just break something that won't be missed...
+
+## POINTER 7
+<STR>(RIT)
+<VOICE>(VS15_241)Aaah!! Damn it!!
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS15_242)Jeez! What got into you 
+all of a sudden?!
+
+## POINTER 9
+<STR>(RIT)
+<VOICE>(VS15_243)We've gotta give those knights a 
+good reason to show up, don't we?
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS15_244)Yes, but I don't know if we should...
+
+## POINTER 11
+Ragou
+<VOICE>(VS15_245)Really, what a way to behave 
+in someone else's home.
+
+## POINTER 12
+Ragou
+<VOICE>(VS15_246)The time has come for you 
+to earn your keep. I want 
+all of them captured.<PAGE><VOICE>(VS15_247)Whatever happens though, take care 
+not to kill the young lady!
+
+## POINTER 13
+<STR>(KAR)
+<VOICE>(VS15_248)No way! Are these guys 
+from the Blood Alliance?
+
+## POINTER 14
+<STR>(RIT)
+<VOICE>(VS15_249)And here's another one for you!!
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS15_250)That's enough, we're 
+getting out of here!
+
+## POINTER 16
+<STR>(RIT)
+<VOICE>(VS15_251)What're you talking about? 
+I'm not finished yet!
+
+## POINTER 17
+<STR>(YUR)
+<VOICE>(VS15_252)If we don't leave now, we'll 
+run into <STR>(FRE), and I'd 
+rather not deal with that.
+
+## POINTER 18
+<STR>(RIT)
+<VOICE>(VS15_253)You don't seriously think 
+he'll come that quickly...
+
+## POINTER 19
+<STR>(FRE)
+<VOICE>(VS15_254)Magistrate, I don't know what's 
+happened here, but allow us 
+to offer our assistance.
+
+## POINTER 20
+<STR>(EST_P)
+<VOICE>(VS15_255)<STR>(FRE)?!
+
+## POINTER 21
+<STR>(YUR)
+<VOICE>(VS15_256)There, see?
+
+## POINTER 22
+Ragou
+<VOICE>(VS15_257)Humph. He's certainly enthusiastic...
+
+## POINTER 23
+<STR>(KAR)
+<VOICE>(VS15_258)Whoa...!! Is th-that 
+the dragon rider?!

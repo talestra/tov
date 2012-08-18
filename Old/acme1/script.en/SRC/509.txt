@@ -1,0 +1,70 @@
+## POINTER 0
+<STR>(RAV)
+I tell ya, thinking of a converter 
+for aer, you're quite the thinker!<PAGE>That's our genius mage-girl 
+<STR>(RIT). Yep, yep!
+
+## POINTER 1
+<STR>(RIT)
+...Well, I had a hint to go off of.
+
+## POINTER 2
+<STR>(YUR)
+Come to think of it, you did say you'd 
+investigated Zaude, didn't you?
+
+## POINTER 3
+<STR>(RIT)
+Despite its amazing size, it 
+wasn't running off of aer.<PAGE>Even though it was a barrier blastia 
+to protect the entire world.
+
+## POINTER 4
+<STR>(KAR)
+A barrier blastia?! Oh yeah, they were protecting 
+the world from the Adephagos!
+
+## POINTER 5
+<STR>(JUD)
+It seems that Alexei thought it 
+was some sort of weapon...but that 
+was a fatal error on his part.
+
+## POINTER 6
+<STR>(YUR)
+But the runaway aer was the cause for 
+the Adephagos awakening, wasn't it?<PAGE>Ah, so that's why they would use a barrier 
+running on power other than aer.
+
+## POINTER 7
+<STR>(EST_P)
+But then, what sort of power was it using?
+
+## POINTER 8
+<STR>(JUD)
+...The Children of the Full Moon, perhaps?
+
+## POINTER 9
+<STR>(RIT)
+It was actually energy taken straight from them.<PAGE>Inside that giant core, it continued to power 
+Zaude as a virtually perpetual formula.<PAGE>Most likely, the energy was taken in exchange for their lives.
+
+## POINTER 10
+<STR>(EST_P)
+The light of life was extinguished from the Children of the Full Moon....
+
+## POINTER 11
+<STR>(JUD)
+So that's what Myorzo's 
+legend meant.
+
+## POINTER 12
+<STR>(YUR)
+According to Duke, they did 
+it of their own free will. They 
+wanted to save the world.
+
+## POINTER 13
+<STR>(EST_P)
+They sacrificed themselves for the world... The Children 
+of the Full Moon were protecting us this entire time.

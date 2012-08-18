@@ -1,0 +1,52 @@
+## POINTER 0
+<STR>(YUR)
+Hey, wasn't there an injured 
+person in this room earlier?
+
+## POINTER 1
+
+Ah, are you friends 
+of Nobis 
+Celestia?
+
+## POINTER 2
+<STR>(KAR)
+He was actually a sort of 
+business partner to us.
+
+## POINTER 3
+
+He was here until 
+recently, but has 
+disappeared...
+
+## POINTER 4
+<STR>(KAR)
+I thought his condition was bad enough 
+that he wasn't supposed to move.
+
+## POINTER 5
+
+Yes, that's right. Nonetheless, 
+he just got up suddenly 
+and walked out.
+
+## POINTER 6
+<STR>(YUR)
+What the hell is that 
+guy thinking?
+
+## POINTER 7
+
+If you happen to see him, would you 
+mind bringing him back here for me?
+
+## POINTER 8
+<STR>(YUR)
+Yeah, we'll make sure to give him a couple 
+more lumps before we send him your way.
+
+## POINTER 9
+<STR>(KAR)
+What have I said about hitting 
+injured people, <STR>(YUR)?

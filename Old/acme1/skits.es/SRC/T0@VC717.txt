@@ -1,0 +1,40 @@
+## POINTER 0 [t:1;r:2;ru:dagorat,memnoch;user:xander;time:1251555238]
+Los amigos alegran el viaje
+
+## POINTER 1 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266415547]
+(KAR)
+¡Tener amigos con los que hablar
+hace que viajar sea mucho más divertido!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597593]
+(KAR)
+Cuando voy solo, me da un poco de mie...
+E-Esto... ¡Que me aburro, sí, eso!
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597593]
+(YUR)
+Ya, claro...
+
+## POINTER 4 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266415547]
+(YUR)
+Oye, (KAR), hay un monstruo detrás de ti.
+
+## POINTER 5 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266415547]
+(KAR)
+¡¿Qué?!
+
+## POINTER 6 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266415547]
+(YUR)
+¡Oh, perdona! Imaginaciones mías.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597593]
+(KAR)
+¡N-No hagas eso!
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1287597593]
+(EST_P)
+Nuestro viaje acaba de animarse más.
+
+## POINTER 9 [t:1;r:2;ru:dagorat,memnoch;user:Dagorat;time:1266415547]
+(RAP)
+¡Guau!

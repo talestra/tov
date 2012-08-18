@@ -1,0 +1,90 @@
+## POINTER 0
+<STR>(YUR)
+<STR>(EST_P)'s master...
+
+## POINTER 1
+Drake
+...Oh, it's you...
+
+## POINTER 2
+<STR>(RIT)
+Did you have a part 
+in that twisted Commandant's 
+plan, too?
+
+## POINTER 3
+Drake
+...I knew exactly what the 
+Commandant was up to.<PAGE>That's why I was working so close to 
+him, trying to keep an eye on him... 
+But he got the better of me...
+
+## POINTER 4
+<STR>(YUR)
+A little too slow in 
+your old age, huh?
+
+## POINTER 5
+<STR>(KAR)
+<STR>(YUR), watch what 
+you're saying...!
+
+## POINTER 6
+Drake
+No...I shall take the blame for what happened.<PAGE>Had I managed to stop the Commandant, 
+the Princess would not 
+have been abducted.
+
+## POINTER 7
+<STR>(YUR)
+No... I'm done yelling at 
+you. It's not getting <STR>(EST_P) 
+back any faster.
+
+## POINTER 8
+Drake
+......
+
+## POINTER 9
+<STR>(YUR)
+It's not like blaming you will make 
+me feel any better, anyway.
+
+## POINTER 10
+<STR>(RIT)
+Right. That's why we 
+have to save <STR>(EST_P).
+
+## POINTER 11
+Drake
+Maybe it's time this old soldier 
+just faded away...
+
+## POINTER 12
+<STR>(KAR)
+Not yet, you don't.
+
+## POINTER 13
+Drake
+...?
+
+## POINTER 14
+<STR>(KAR)
+There's something <STR>(EST_P)'s 
+still waiting for you to say.<PAGE>She wants to know that she's 
+proven herself to you.
+
+## POINTER 15
+Drake
+...After everything that's happened, 
+I don't feel worthy to say something 
+like that to the Princess.
+
+## POINTER 16
+<STR>(RAV)
+Hey, I'm sure you'll manage, Drake. 
+Keep your chin up, hey?
+
+## POINTER 17
+Drake
+Captain Schwann...

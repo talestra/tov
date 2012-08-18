@@ -1,0 +1,175 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VA018_001)I didn't really think about 
+it before we started taking 
+on these jobs, but...<PAGE><VOICE>(VA018_002)Keeping a guild going 
+is really tough..
+
+## POINTER 1
+<STR>(RIT)
+<VOICE>(VA018_003)What's with the deep 
+thoughts, all of a sudden?
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VA018_004)Well, I mean it's pretty obvious 
+why we started taking on 
+work in the first place.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VA018_005)Because we like seeing 
+people smile...?
+
+## POINTER 4
+<STR>(KAR)
+<VOICE>(VA018_006)But what happens if we help out 
+the wrong people, or end up 
+doing more harm than good?<PAGE><VOICE>(VA018_007)Then we'd be getting the 
+total opposite results of 
+what we set out to do.
+
+## POINTER 5
+<STR>(YUR)
+<VOICE>(VA018_008)Yeah, but take that guy... 
+Nobis, right? He looked 
+pretty happy in the end.
+
+## POINTER 6
+<STR>(JUD)
+<VOICE>(VA018_009)I hope they can restart 
+their guild now that 
+everything is finished.
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VA018_010)And the man from Ruins' Gate 
+was pretty excited when 
+we returned his shovel.
+
+## POINTER 8
+<STR>(RAV)
+<VOICE>(VA018_011)A little too excited, if ya ask 
+me. I mean, it's a shovel.
+
+## POINTER 9
+<STR>(YUR)
+<VOICE>(VA018_012)Some people, like Mimula, will 
+try to use us for the wrong 
+reasons, too, though.
+
+## POINTER 10
+<STR>(RAV)
+<VOICE>(VA018_013)You always have to watch the good, 
+the bad, even the ugly, sometimes. 
+That's what guilds do.
+
+## POINTER 11
+<STR>(KAR)
+<VOICE>(VA018_014)I just wish we could take a pass 
+on the bad and the ugly...
+
+## POINTER 12
+<STR>(JUD)
+<VOICE>(VA018_015)We just need to stand up to those 
+things when we come across them.
+
+## POINTER 13
+<STR>(RAV)
+<VOICE>(VA018_016)Everybody's born 
+with a bad side.
+
+## POINTER 14
+<STR>(EST_P)
+<VOICE>(VA018_017)That's not so. There is something beautiful 
+in the core of each and every person.<PAGE><VOICE>(VA018_018)We may have to try harder to see it in 
+people who do things they shouldn't...
+
+## POINTER 15
+<STR>(RAV)
+<VOICE>(VA018_019)Peace, love, and understandin', huh?
+
+## POINTER 16
+<STR>(EST_P)
+<VOICE>(VA018_020)Don't make fun of me. Bad
+people always have reasons
+for what they do.
+
+## POINTER 17
+<STR>(RAV)
+<VOICE>(VA018_021)Actually, Your Highness, I beg ta 
+differ with ya on that point.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VA018_022)Anyway, goals are important, 
+but you don't always have 
+to achieve them..
+
+## POINTER 19
+<STR>(KAR)
+<VOICE>(VA018_023)Maybe you're right...
+
+## POINTER 20
+<STR>(YUR)
+<VOICE>(VA018_024)If everyone's happy where they 
+are, who cares if it's not the 
+goal they were going for?
+
+## POINTER 21
+<STR>(KAR)
+<VOICE>(VA018_025)Even if that means 
+failing sometimes?
+
+## POINTER 22
+<STR>(YUR)
+<VOICE>(VA018_026)You cut your losses, and 
+move on to whatever's next.
+
+## POINTER 23
+<STR>(JUD)
+<VOICE>(VA018_027)Even if you wind up naked in 
+the street, you're not finished 
+as long as you're still breathing.
+
+## POINTER 24
+<STR>(RAV)
+<VOICE>(VA018_028)Huh? Naked? Did our lovely 
+<STR>(JUD) here just say somethin' 
+about gettin' naked?
+
+## POINTER 25
+<STR>(YUR)
+<VOICE>(VA018_029)Down, boy. Down...
+
+## POINTER 26
+<STR>(EST_P)
+<VOICE>(VA018_030)Well, <STR>(YUR). Are you on 
+<STR>(RAV)'s side, or mine?
+
+## POINTER 27
+<STR>(YUR)
+<VOICE>(VA018_031)Hold on, when did we start choosing sides...?
+
+## POINTER 28
+<STR>(RIT)
+<VOICE>(VA018_032)What's so tough about this?<PAGE><VOICE>(VA018_033)You just have to learn from your mistakes. ...That's 
+the basis for any kind of learning.
+
+## POINTER 29
+<STR>(KAR)
+<VOICE>(VA018_034)<STR>(RIT)...
+
+## POINTER 30
+<STR>(RIT)
+<VOICE>(VA018_035)For starters, just try to 
+enjoy the ride a bit more, 
+like these clowns do.
+
+## POINTER 31
+<STR>(KAR)
+<VOICE>(VA018_036)...Yeah, I will.
+
+## POINTER 32
+<STR>(RAP)
+<VOICE>(VA018_037)Woof!

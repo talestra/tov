@@ -1,0 +1,209 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Barbos
+<VOICE>(VS21_139)¿Tú otra vez, gamberro testarudo?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+<STR>(YUR)
+<VOICE>(VS21_140)Perdona por hacerte esperar.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+<STR>(RIT)
+<VOICE>(VS21_600)
+¡Oye, mira el núcleo de esa espada!
+¿Es el núcleo de un aqua blastia?
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+<STR>(YUR)
+<VOICE>(VS21_601)Sí, eso parece.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Barbos
+<VOICE>(VS21_141)Estos idiotas no saben cuándo rendirse.
+¡Capua Nor, Dahngrest, y ahora también
+en Ghasfarost!<PAGE><VOICE>(VS21_142)Siempre he detestado a los críos.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+<STR>(EST_P)
+<VOICE>(VS21_143)
+Barbos, esto ha durado demasiado.
+¡Mantén la poca dignidad
+que te queda y ríndete!
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+<STR>(RIT)
+<VOICE>(VS21_144)Es verdad. Estás acabado.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+Barbos
+<VOICE>(VS21_145)Oh, esto está lejos de haber acabado.<PAGE><VOICE>(VS21_146)¡He invertido diez años en construir
+la Espina de Ghasfarost, y mientras
+la tenga, nadie podrá detenerme!<PAGE><VOICE>(VS21_147)Y con aquel hombre y el Imperio
+en la palma de mi mano, pude
+construir mi magnífico blastia.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+<STR>(YUR)
+<VOICE>(VS21_148)¿Te crees que voy a permitir que desperdicies
+así el núcleo de los barrios bajos?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Barbos
+<VOICE>(VS21_149)Oh, no será ningún desperdicio. Lo usaré
+para eliminar a Whitehorse, y entonces
+me convertiré en el líder de todos los gremios.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Barbos
+<VOICE>(VS21_150)¡Después vendrá el Imperio!
+¡Con este poder en mis manos,
+el mundo entero será mío!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Barbos
+<VOICE>(VS21_151)Y empezaré con vosotros. ¡Desapareced, gusanos!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+<STR>(YUR)
+<VOICE>(VS21_152)Esa espada va a ser un problema.
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+<STR>(RAV)
+<VOICE>(VS21_153)¿Un problema?
+¿Ese chisme es legal?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+<STR>(JUD)
+<VOICE>(VS21_154)Es muy poderosa.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+Barbos
+<VOICE>(VS21_155)¡¡Ja, ja, ja!!
+¡Parece que el blastia
+funciona perfectamente!
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+<STR>(EST_P)
+<VOICE>(VS21_156)¡¿Qué?!
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Barbos
+<VOICE>(VS21_157)¿Qué ocurre?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+<STR>(YUR)
+<VOICE>(VS21_158)Je, todavía no has ganado.
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Barbos
+<VOICE>(VS21_159)¡Vale, se acabaron los juegos!
+¡Es hora de borrar Dahngrest
+del mapa y a vosotros con ella!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Duke
+<VOICE>(VS21_160)Al suelo.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Barbos
+<VOICE>(VS21_161)¡¿Qué?!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+<STR>(RAV)
+<VOICE>(VS21_162)¿Qué fue d'aquello de que
+no tenías ni tiempo ni ganas?
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+<STR>(RIT)
+<VOICE>(VS21_163)¡Eh, ese es...!
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+<STR>(YUR)
+<VOICE>(VS21_164)¡Olvídate de eso, <STR>(RIT)!
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+Barbos
+<VOICE>(VS21_165)¡Maldito montón de chatarra!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+<STR>(YUR)
+<VOICE>(VS21_166)Parece que se han cambiado las tornas, Barbos.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:Lia;time:1283187679]
+Barbos
+<VOICE>(VS21_167)Así que todo aquello del poder
+y la sabiduría de los blastias
+no era más que un bulo...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Barbos
+<VOICE>(VS21_168)Tendría que haber sabido desde el principio
+que era mejor depender de mis propias fuerzas.<PAGE><VOICE>(VS21_169)¡Alzad vuestras espadas!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+<STR>(RAV)
+<VOICE>(VS21_170)Sabéis, creo qu'era mucho
+más fácil tratar con él
+cuando estaba ebrio de poder.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+<STR>(RIT)
+<VOICE>(VS21_171)Sí, no hay nada peor
+que un idiota iluminado.
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+Barbos
+<VOICE>(VS21_172)Yo soy la única persona capaz de tratar de tú a tú
+a Whitehorse en combate. ¡Ahora conoceréis el poder
+de Barbos el Tempestad...<PAGE><VOICE>(VS21_173)... y de su Pacto de Sangre!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Barbos
+<VOICE>(VS21_182)¡Aaagh!
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+<STR>(YUR)
+<VOICE>(VS21_183)Tus secuaces te han abandonado.<PAGE><VOICE>(VS21_184)Se ha acabado, Barbos. Está claro
+que el único idiota que no sabía
+cuándo rendirse eras tú.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+Barbos
+<VOICE>(VS21_185)Uugh... Ja, ja, ja. 
+Quizá tengas razón.
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+<STR>(EST_P)
+<VOICE>(VS21_186)Entonces ríndete.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1274049271]
+Barbos
+<VOICE>(VS21_187)No... no dejaré
+que me humilléis más.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+Barbos
+<VOICE>(VS21_188)<STR>(YUR), ¿verdad?<PAGE><VOICE>(VS21_189)
+Me recuerdas a Whitehorse
+cuando era joven...
+Eres su viva imagen.
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+<STR>(YUR)
+<VOICE>(VS21_190)Espero que no vayas a decirme
+que voy a acabar como el viejo ese.
+No es precisamente lo que tengo en mente.
+
+## POINTER 39 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+Barbos
+<VOICE>(VS21_191)Tarde o temprano, acabarás
+creándote grandes enemigos
+en este mundo, como el Don.
+<PAGE><VOICE>(VS21_192)Y después ese mundo te acabará
+consumiendo por completo.
+
+## POINTER 40 [t:1;r:1;ru:memnoch;user:memnoch;time:1280173649]
+Barbos
+<VOICE>(VS21_193)
+Los remordimientos, el pesar y la desesperación
+te perseguirán hasta el infierno. Y allí estaré
+esperándote.

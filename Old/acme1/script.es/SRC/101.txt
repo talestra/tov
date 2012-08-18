@@ -1,0 +1,150 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406340]
+Leblanc
+<VOICE>(VS04_041)¡¡<STR>(YUR) Looowell!! Ya les has dado
+suficientes dolores de cabeza a mis subordinados.
+¡Ahora sé un buen chico y entrégate!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:xander;time:1270595482]
+<STR>(YUR)
+<VOICE>(VS04_042)Bueno, a correr tocan. Parece que no podré
+volver por aquí en una temporada.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1270595482]
+Hanks
+<VOICE>(VS04_043)Contigo cerca no hay quien
+se aburra, <STR>(YUR).
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406340]
+Hanks
+<VOICE>(VS04_044)Con esto estamos en paz
+por lo de devolverme el dinero.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1270595482]
+<STR>(YUR)
+<VOICE>(VS04_045)No os lo gastéis todo de una sentada
+en alguna fiesta loca.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406340]
+Hanks
+<VOICE>(VS04_046)Je, lo mismo digo. Procura
+no acabar muerto en una cuneta.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1272375018]
+<STR>(EST)
+<VOICE>(VS04_047)¡Espéreme! Ha sido un placer
+conocerle, señor.
+
+## POINTER 7 [t:1;r:1;ru:evilluendas;user:evilluendas;time:1304471163]
+Hanks
+<VOICE>(VS04_048)Este chico seguramente lleve
+a maltraer. Tened cuidado, ¿de acuerdo?
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406607]
+<STR>(EST)
+<VOICE>(VS04_049)Lo tendremos.
+Gracias.
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406340]
+<VOICE>(VS04_050)
+¿Cuándo va a arreglar la fuente, señor Caballero?<PAGE><VOICE>(VS04_051)¡Cómo mola! ¡Un Caballero!<PAGE><VOICE>(VS04_052)¡Hurraaa! ¡Hurraaa!<PAGE><VOICE>(VS04_053)¿Le importaría ayudar a este pobre anciano
+a encontrar su dentadura?
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:xander;time:1270595482]
+Leblanc
+<VOICE>(VS04_054)¡Estúpidoooos! ¡Apartaos! 
+¡No os metáis en los asuntos
+del Imperio!
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406607]
+<VOICE>(VS04_055)¡No la hagas llorar!
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:xander;time:1270595482]
+<STR>(YUR)
+<VOICE>(VS04_056)¿De qué estás hablando? ¡Eh, no empujéis!
+Oye, ¿quién me ha golpeado?
+¡Esa me la guardo!
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406607]
+<VOICE>(VS04_057)Esto os puede ser de ayuda
+para llegar a Halure.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406340]
+<STR>(YUR)
+<VOICE>(VS04_058)¿Eh? ¿Un mapa? Un momento, solo
+tiene trazadas unas pocas carreteras.
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406340]
+<VOICE>(VS04_059)¿Y qué esperabas? Es mejor que nada
+teniendo en cuenta que la gente
+casi nunca sale de la ciudad.<PAGE><VOICE>(VS04_060)Tendréis que apañároslas
+vosotros solos para completarlo.<PAGE><VOICE>(VS04_061)En primer lugar, debéis dirigiros
+al fuerte Deidon, al norte.
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1304194549]
+<STR>(EST)
+<VOICE>(VS04_062)Vaya, <STR>(YUR). Está claro que
+lo van a echar mucho de menos.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406340]
+<STR>(YUR)
+<VOICE>(VS04_063)La verdad, creo que están encantadísimos
+de deshacerse por fin de mí.
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406340]
+<STR>(YUR)
+<VOICE>(VS04_064)¡Eh, un segundo!
+¡¿Quién ha puesto este dinero aquí?!
+¡No puedo aceptarlo!
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406607]
+Leblanc
+<VOICE>(VS04_065)¡Quietoooos!
+¡Apartaos de mi camino!
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406340]
+<STR>(YUR)
+<VOICE>(VS04_066)Eh... Parece que no me queda otra
+que quedármelo por el momento.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1270595482]
+Leblanc
+<VOICE>(VS04_067)¡¿Qué?!
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:xander;time:1270595658]
+<STR>(YUR)
+<VOICE>(VS04_068)Bien hecho, <STR>(RAP).
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1270595482]
+<STR>(EST)
+<VOICE>(VS04_069)¿Un perro?
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406340]
+<STR>(YUR)
+<VOICE>(VS04_070)Bueno, por ahora partiremos
+hacia el norte, al fuerte Deidon.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:xander;time:1270595482]
+<STR>(EST)
+<VOICE>(VS04_071)¿Qué? ¡Oh, claro!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406607]
+<STR>(YUR)
+<VOICE>(VS04_072)No sé cuánto tiempo estaremos juntos,
+pero espero que quieras acompañarme, <STR>(EST_P).
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:xander;time:1270626118]
+<STR>(EST)
+<VOICE>(VS04_073)Claro, yo... ¿Eh? ¿Es... telle?...
+<STR>(EST_P)... <STR>(EST_P).
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:xander;time:1270595482]
+<STR>(EST)
+<VOICE>(VS04_074)¡Claro que quiero ir contigo, <STR>(YUR)!
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:memnoch;time:1285611218]
+<STR>(YUR)
+<VOICE>(VS04_075)Entonces será mejor que partamos.
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1273406340]
+<STR>(EST)
+<VOICE>(VS04_076)Ojalá volvamos pronto.

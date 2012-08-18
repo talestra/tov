@@ -1,0 +1,562 @@
+## POINTER 5600 [t:1;r:1;ru:memnoch;user:memnoch;time:1304546120]
+Se dice que la luna nueva hace
+que los monstruos del coliseo
+sean más fieros de lo normal.<PAGE>Como precaución, Palestrale dobla
+la vigilancia sobre ellos cuando
+se acerca la luna nueva.
+
+## POINTER 5601 [t:1;r:1;ru:memnoch;user:kaene;time:1304268700]
+Estaba dentro del coliseo justo
+cuando falló la barrera inversa
+que contenía los monstruos.<PAGE>No veas qué miedo pasé, pero me alegro
+de que ocurriese durante la luna llena,
+porque los monstruos no son tan peligrosos.
+
+## POINTER 5602 [t:1;r:1;ru:memnoch;user:memnoch;time:1304546120]
+Puedes estar seguro de que a
+la gente de este pueblo no les
+gusta tener Caballeros por aquí.
+
+## POINTER 5603 [t:1;r:1;ru:memnoch;user:memnoch;time:1304546120]
+Parece que el Adalid en funciones,
+Natz, era el que llevaba todo
+el tema económico de Palestrale.<PAGE>Por lo tanto, la muerte de Belius
+no ha causado mucho daño a las
+operaciones financieras del gremio.
+
+## POINTER 5604 [t:1;r:1;ru:memnoch;user:kaene;time:1304268700]
+Belius era un pilar crucial de la
+moral de este pueblo. El impacto
+de su muerte no debe subestimarse.
+
+## POINTER 5605 [t:1;r:1;ru:memnoch;user:memnoch;time:1304457261]
+He oído que los Caballeros han perdido
+a su Comandante, y que la influencia que
+ejercen se está debilitando poco a poco.<PAGE>Puede que dentro de poco Nordopólica 
+vuelva a estar en manos de Palestrale.
+
+## POINTER 5606 [t:1;r:1;ru:memnoch;user:kaene;time:1304359192]
+Aunque seguramente tengan que
+hacer algo con ese monstruo del
+cielo antes de que eso ocurra.
+
+## POINTER 5607 [t:1;r:1;ru:memnoch;user:kaene;time:1304359192]
+¿Ves esa estatua sin cabeza? Es la
+diosa protectora de los guerreros,
+la Virgen de la Benevolencia.<PAGE>Se dice que tiene ochocientos años
+de antigüedad. Y le falta la cabeza
+porque una ola se la llevó por delante.
+
+## POINTER 5608 [t:1;r:1;ru:memnoch;user:kaene;time:1304359192]
+Quizá sea hora de que nosotros también
+le recemos. Por nuestra propia seguridad 
+y por la paz en el mundo...
+
+## POINTER 5609 [t:1;r:1;ru:memnoch;user:kaene;time:1304359192]
+Disculpe, caballero,
+¿por qué le falta la
+cabeza a esa estatua?<PAGE>¿Algún vándalo
+la ha robado?
+
+## POINTER 5610 [t:1;r:1;ru:memnoch;user:memnoch;time:1304546120]
+¿Se supone que es una dama?
+Debía ser muy guapa si la gente quería
+esculpir una estatua en su honor.<PAGE>Qué bonito... Espero que
+algún día también esculpan
+una estatua de mí.
+
+## POINTER 5611 [t:1;r:1;ru:memnoch;user:kaene;time:1304359192]
+Al oeste de la ciudad
+está la caverna de Cados.<PAGE>Me han dicho que no
+debo acercarme porque
+es muy peligrosa.
+
+## POINTER 5612 [t:1;r:1;ru:memnoch;user:memnoch;time:1304546120]
+Cuando sopla el viento por
+la caverna, suena como
+una flauta. Piii, piii. ♪<PAGE>Por eso tiene otro nombre:
+«La Garganta de Cados».
+
+## POINTER 5613 [t:1;r:1;ru:memnoch;user:kaene;time:1304359192]
+Algunos monstruos han escapado del coliseo.
+¡Menuda barrera de pacotilla tenemos!<PAGE>¿Y si vienen a devorarme
+mientras estoy durmiendo?
+
+## POINTER 5614 [t:1;r:1;ru:memnoch;user:kaene;time:1304359192]
+Oh, se llama barrera inversa porque está pensada
+para retener a los monstruos dentro, justo al revés
+que las barreras que los mantienen alejados.
+
+## POINTER 5615 [t:1;r:1;ru:memnoch;user:kaene;time:1304359192]
+¿Los Caballeros Imperiales
+qué son, amigos o enemigos?<PAGE>Han matado a los monstruos por
+nosotros, pero parece que a los
+mayores no les caen muy bien.
+
+## POINTER 5616 [t:1;r:1;ru:memnoch;user:kaene;time:1304359443]
+Espero que sean
+amigos nuestros.<PAGE>¡Sería un rollo
+tener enemigos
+por todos lados!
+
+## POINTER 5617 [t:1;r:1;ru:memnoch;user:kaene;time:1304359443]
+Los mayores dicen que Belius ha muerto,
+aunque la verdad es que no lo entiendo.
+Ni siquiera había llegado a verla.<PAGE>Ahora los Caballeros están aquí
+y reina la paz... ¿no?
+
+## POINTER 5618 [t:1;r:1;ru:memnoch;user:memnoch;time:1304546120]
+Ahora que me acuerdo,
+también murió un tal Don.<PAGE>Tampoco lo había
+visto nunca.
+¿De dónde era?
+
+## POINTER 5619 [t:1;r:1;ru:memnoch;user:kaene;time:1304359443]
+Los mayores dicen que el caos
+reina por todo el mundo.<PAGE>¡Pero yo no tengo miedo! 
+Juntos protegeremos 
+esta ciudad.
+
+## POINTER 5620 [t:1;r:1;ru:memnoch;user:kaene;time:1304359443]
+El cielo está tan alto que la
+verdad es que no lo entiendo.<PAGE>¿De verdad esa cosa
+es tan peligrosa?
+
+## POINTER 5621 [t:1;r:1;ru:memnoch;user:memnoch;time:1304546120]
+No hay luna en el cielo...
+Y la luna nueva...
+Creo que va a pasar algo.<PAGE>No es más que un presentimiento, pero noto
+una mezcla de angustia y esperanza...
+
+## POINTER 5622 [t:1;r:1;ru:memnoch;user:memnoch;time:1304546120]
+Parece que Belius solo se reúne con
+gente las noches de luna nueva.<PAGE>Quizás debería ir
+a visitarla...
+
+## POINTER 5623 [t:1;r:1;ru:memnoch;user:kaene;time:1304359443]
+No me puedo creer que la adalid Belius
+haya fallecido... Se supone que íbamos
+a vernos y hablar de todo tipo de cosas.<PAGE>Menudo giro del destino.
+Era una oportunidad de oro...
+
+## POINTER 5624 [t:1;r:1;ru:memnoch;user:kaene;time:1304359517]
+Esto debe ser un mensaje
+del cielo: «Ve a descubrir
+el origen de los krityanos».
+
+## POINTER 5625 [t:1;r:1;ru:memnoch;user:kaene;time:1304359517]
+He conseguido que Natz
+me ponga a trabajar en la
+biblioteca del coliseo.<PAGE>Una ciudad con tanta historia viene perfecto.
+Hay suficientes libros como para satisfacer
+la sed de conocimientos de cualquier krityano.
+
+## POINTER 5626 [t:1;r:1;ru:memnoch;user:kaene;time:1304359517]
+Tal vez incluso descubra
+nuestros orígenes sin tener
+que cruzar esas montañas.
+
+## POINTER 5627 [t:1;r:1;ru:memnoch;user:kaene;time:1304359517]
+Una vez vi una imagen de algo
+que se parecía mucho a esa
+sombra siniestra del cielo.<PAGE>Debía estar en uno de los
+libros de la habitación de mis
+padres, cuando era muy joven.
+
+## POINTER 5628 [t:1;r:1;ru:memnoch;user:kaene;time:1304359517]
+Tengo la sensación de que los krityanos
+tenemos una conexión muy profunda
+con esa bestia que hay en el cielo...
+
+## POINTER 5629 [t:1;r:1;ru:memnoch;user:memnoch;time:1304546120]
+Hace mucho tiempo, los antiguos clanes
+y los humanos que gobernaban se aliaron
+gracias a la mediación de los krityanos.<PAGE>Quizá sea el momento
+de volver a actuar.
+
+## POINTER 5630 [t:1;r:1;ru:memnoch;user:kaene;time:1304359517]
+Sí, ahora lo recuerdo.
+Era un pasaje de uno de
+los libros de mis padres.<PAGE>Sea cierto o no,
+creo que es uno de los
+deberes de nuestra gente.
+
+## POINTER 5631 [t:1;r:1;ru:memnoch;user:kaene;time:1304359587]
+Ha habido un accidente en el coliseo,
+así que nos han despachado para que
+nos podamos encargar de la situación.<PAGE>Tenemos el deber de defender los pueblos
+que forman parte del territorio del Imperio.
+
+## POINTER 5632 [t:1;r:1;ru:memnoch;user:kaene;time:1304359587]
+Garantizaremos la seguridad
+de esta ciudad.
+
+## POINTER 5633 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Es posible que un cierto número de
+monstruos hayan escapado al barrio
+residencial y sigan allí todavía.<PAGE>Nos quedaremos hasta que estemos seguros
+de que la ciudad está a salvo.
+
+## POINTER 5634 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Parece que a la gente de este pueblo
+le irrita nuestra presencia, pero
+tenemos un deber que cumplir.<PAGE>Si deciden no aceptarnos... Bueno, a la
+hora de la verdad, no es asunto nuestro.
+
+## POINTER 5635 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+No importa cómo le siente esto a la gente.
+Debemos quedarnos en nuestros puestos
+hasta que hayamos terminado nuestro trabajo.
+
+## POINTER 5636 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547180]
+Tenemos un deber que cumplir.
+Lo que pase en el cielo no debe
+distraernos de nuestro deber.
+
+## POINTER 5637 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Si algo amenaza el orden de este pueblo,
+debemos emplear a todos nuestros efectivos
+para combatirlo.
+
+## POINTER 5638 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+El otro día, una ancina
+nos dio unos cuantos
+panecillos al vapor.<PAGE>Uno se achicharraba la boca,
+pero estaban deliciosos...
+
+## POINTER 5639 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547180]
+Por suerte, no hay mucha gente que ande por
+ahí de noche... Al menos entonces no tenemos
+que soportar la inquina con la que nos miran...<PAGE>Entiendo que no les haga mucha gracia
+vernos por aquí, pero... esto duele
+un poco...
+
+## POINTER 5640 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547180]
+Vinimos aquí para hacer aquello
+que considerábamos correcto...
+
+## POINTER 5641 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Un ciudadano me tiró una
+piedra... y luego me provocó
+para que intentara arrestarlo...<PAGE>Ojalá me resultara tan sencillo
+para mí, ¿sabes? Emocionalmente,
+quiero decir.
+
+## POINTER 5642 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Puede que ser Caballero no
+sea lo mio.<PAGE>Tal vez sea hora de buscar otro trabajo...
+
+## POINTER 5643 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+El capitán Schwann está muy ocupado... 
+*gruñído, gruñido* así que el teniente
+hace su trabajo... Oh...<PAGE>Zzz... Señor
+Leblanc...
+
+## POINTER 5644 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Si haces algo sospechoso... 
+*gruñido, gruñido* te
+arrestaré...
+
+## POINTER 5645 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Estamos aquí... *gruñído, gruñido* 
+para ayudar a la brigada
+<STR>(FRE)... <PAGE>Zzz... Ooh, quedas
+arrestado...
+
+## POINTER 5646 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+Mientras nos esforcemos...
+*gruñído, gruñido* todo el
+mundo estará feliz...
+
+## POINTER 5647 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Visitantes nocturnos, por lo que veo.
+Bienvenidos al servicio hotelero
+de Nordopólica.<PAGE>El precio es 500 gald por noche.
+¿Quieren quedarse con nosotros?
+
+## POINTER 5648 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Muchísimas gracias.<PAGE>Disfruten de su estancia.
+
+## POINTER 5649 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Hace unos pocos días llegaron
+a la posada unos personajes
+de pinta sospechosa.<PAGE>Eran Caballeros, ¿verdad?
+Se acaban de ir y llevaban
+armaduras de Caballero.
+
+## POINTER 5650 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+¿Por qué han venido
+a esta ciudad?<PAGE>Se paseaban por la ciudad
+con ropas de paisano.
+¡Nos la han dado con queso!
+
+## POINTER 5651 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Si los tipos que se quedaron aquí eran
+Caballeros, debería haberles intentado
+colar un paquete de turista...
+
+## POINTER 5652 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Muchísimas gracias.
+Esperamos volver a verlos pronto.
+
+## POINTER 5653 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Sean bienvenidos. Esta tienda está
+afiliada con Fortuna Mercantil.<PAGE>Ya estén en un largo viaje o vengan a ver
+el coliseo, ¡tenemos justo lo que necesita
+para satisfacer sus necesidades!
+
+## POINTER 5654 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+Eh, ¿necesitas objetos? Tengo la
+aprobación de Fortuna Mercantil,
+nada menos. Dime qué puedo ofrecerte.
+
+## POINTER 5655 [t:1;r:1;ru:memnoch;user:xander;time:1304361129]
+Muy agradecido, compañero.
+Vuelve cuando quieras.
+
+## POINTER 5656 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+Buenas, ¿quieres echar un vistazo?
+Mi tienda cuenta con la aprobación
+la propia Fortuna Mercantil.<PAGE>Gracias, compañero.
+Pásate por aquí cuando quieras.
+
+## POINTER 5657 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+También son bienvenidos los curiosos.
+Mi tienda cuenta con la aprobación de la
+mismísima Fortuna Mercantil. Echa un vistazo.<PAGE>Siempre es un placer.
+Vuelve cuando quieras.
+
+## POINTER 5658 [t:1;r:1;ru:memnoch;user:Lia;time:1304433857]
+¡Bienvenido! Somos la tienda oficial de
+la ciudad del coliseo. Aquí encontrarás
+todo lo que puedas necesitar.
+
+## POINTER 5659 [t:1;r:1;ru:memnoch;user:Lia;time:1304433857]
+Espero que vengas
+otra vez.
+
+## POINTER 5660 [t:1;r:1;ru:memnoch;user:Lia;time:1304434998]
+La historia del Imperio abarca casi ochocientos
+años. Esta ciudad es incluso más antigua...
+Tiene mil doscientos años, para ser exactos.<PAGE>Todo empezó cuando esto no era más que
+un terreno de piedra para hacer duelos.
+
+## POINTER 5661 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+A unos veinte o treinta kilómetros al
+oeste de aquí, hay una cordillera muy
+alta y empinada que se llama Madre Cados.<PAGE>Es un nombre muy significativo,
+pero solo lo usa la gente de aquí.
+
+## POINTER 5662 [t:1;r:1;ru:memnoch;user:Lia;time:1304434998]
+Pasada la Madre Cados, se hallan las Arenas
+de Kogorh. ¡Pero tienes que prepararte
+muy bien para poder cruzar esas montañas!
+
+## POINTER 5663 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+Los Caballeros han entrado
+corriendo al coliseo.<PAGE>Parece ser que está
+pasando algo bastante grave.
+
+## POINTER 5664 [t:1;r:1;ru:memnoch;user:Lia;time:1304435298]
+Esta ciudad es fascinante... No solo por su
+valor histórico, sino también porque aquí
+se reúnen muchos tipos de gente diferente.<PAGE>Parece que las dos cosas no tienen nada
+que ver, pero ambas se unen en Nordopólica.
+
+## POINTER 5665 [t:1;r:1;ru:memnoch;user:Lia;time:1304435298]
+Me alegra que los Caballeros
+estén aquí para mantener
+el orden en esta ciudad.<PAGE>Pero no estoy tan de acuerdo
+con los buques de guerra.
+
+## POINTER 5666 [t:1;r:1;ru:memnoch;user:Lia;time:1304435446]
+La adalid Belius ha fallecido...
+Todos lo lamentamos.<PAGE>La muerte es una gran pérdida, pero
+a la vez es un rito de tránsito
+para aquellos que siguen con vida.
+
+## POINTER 5667 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+No se puede fingir
+que alguien ha muerto.<PAGE>Las próximas semanas serán
+muy duras para esta ciudad.
+
+## POINTER 5668 [t:1;r:1;ru:memnoch;user:Lia;time:1304435852]
+Si esa monstruosidad atacase esta
+ciudad con todas sus fuerzas, dudo
+que la barrera lo soportase.<PAGE>¿Será este el fin
+para la humanidad?
+
+## POINTER 5669 [t:1;r:1;ru:memnoch;user:Lia;time:1304435852]
+He venido a visitar a mi amigo
+después de que se trasladara
+al distrito residencial.<PAGE>Pero no me dejan entrar...
+
+## POINTER 5670 [t:1;r:1;ru:memnoch;user:Lia;time:1304436058]
+Pensaba que por fin podría ver a mi amigo
+que se mudó al distrito residencial, pero
+solo dejan entrar a los que viven allí.<PAGE>¿Me tendré que quedar
+hoy también en la posada?
+
+## POINTER 5671 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+Ni que me lloviera dinero o algo por el
+estilo. Tengo que volver a la capital.
+Tío, las cosas no pasan como te las esperas...
+
+## POINTER 5672 [t:1;r:1;ru:memnoch;user:Lia;time:1304436319]
+Los Caballeros son unos tacaños. Les pedí
+que me prestaran dinero porque no tengo ni
+un duro y no me han dejado ni un solo gald.<PAGE>¿No se supone que los
+Caballeros tienen que
+ayudar a los ciudadanos?
+
+## POINTER 5673 [t:1;r:1;ru:memnoch;user:Lia;time:1304436319]
+No les costaría nada
+dejarme algo para
+que pudiera comer...
+
+## POINTER 5674 [t:1;r:1;ru:memnoch;user:Lia;time:1304436430]
+Oye, esos barcos de guerra al
+final volverán a Zaphias, ¿no?<PAGE>¿Qué tiene de malo
+el dejarme subir
+a mí también?
+
+## POINTER 5675 [t:1;r:1;ru:memnoch;user:Lia;time:1304436625]
+Los Caballeros son sorprendentemente...
+Déjalo, ya no me sorprenden.
+El caso es que son ratas de cuidado.
+
+## POINTER 5676 [t:1;r:1;ru:memnoch;user:Lia;time:1304436915]
+Aquí estamos con la muerte de Belius, 
+y en Dahngrest con la del Don.<PAGE>Yo diría que el próximo
+que la va a palmar será el
+comandante de los Caballeros.
+
+## POINTER 5677 [t:1;r:1;ru:memnoch;user:Lia;time:1304436915]
+Pero, si los tres murieran, no
+quedaría nadie para devolver 
+el mundo a la normalidad.<PAGE>Menuda crisis se nos vendría
+encima si eso ocurriera...
+
+## POINTER 5678 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+¿El monstruo del cielo
+está sobre Ilyccia?<PAGE>Cuánto me alegro de haber venido aquí. Y yo
+que no tenía ni un duro para volver a casa.
+
+## POINTER 5679 [t:1;r:1;ru:memnoch;user:Lia;time:1304436915]
+Bueno, tampoco puedo quedarme aquí para
+siempre... Hasta mi amigo lleva unos días
+muy distante conmigo... *Suspiro*
+
+## POINTER 5680 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+Primero aparece ese monstruo horrible y
+ahora sale una torre inmensa de la nada.<PAGE>Pero ¿qué pasa aquí?
+¿Estará a salvo el mundo?
+
+## POINTER 5681 [t:1;r:1;ru:memnoch;user:kaene;time:1304438681]
+Tío, tengo la cabeza que me va a estallar.
+No puedo seguir adelante con todo lo que pasa.
+
+## POINTER 5682 [t:1;r:1;ru:memnoch;user:kaene;time:1304438681]
+Este es el único coliseo
+del mundo. Aquí viene gente
+de todas partes para verlo.<PAGE>Vosotros tampoco sois de por
+aquí, ¿verdad? Se ve a la legua
+con esa ropa que lleváis.
+
+## POINTER 5683 [t:1;r:1;ru:memnoch;user:kaene;time:1304438681]
+¿Qué hacen los Caballeros
+en esta ciudad?<PAGE>¡Si nos quedamos de brazos cruzados,
+se perderá la disciplina que tanto nos
+ha costado conseguir en el coliseo!
+
+## POINTER 5684 [t:1;r:1;ru:memnoch;user:kaene;time:1304438681]
+Esta ciudad se construyó con la
+idea de que los ciudadanos tuvieran
+el mismo estatus que Palestrale.<PAGE>No vamos a tolerar el
+tipo de gobierno que
+ejerce el Imperio.
+
+## POINTER 5685 [t:1;r:1;ru:memnoch;user:kaene;time:1304438681]
+En las noches que no hay luna
+y está más oscuro de lo normal,
+me siento muy intranquilo.<PAGE>Los monstruos están inquietos y
+yo estoy cada vez más nervioso...
+
+## POINTER 5686 [t:1;r:1;ru:memnoch;user:kaene;time:1304438681]
+Puede que sea una noche intranquila,
+pero este pueblo lo deberían defender
+los miembros del gremio Palestrale.<PAGE>No necesitamos la ayuda
+de los Caballeros.
+
+## POINTER 5687 [t:1;r:1;ru:memnoch;user:kaene;time:1304438681]
+Esos malditos Caballeros... Dicen que
+han venido a protegernos, pero sé que
+están planeando hacerse con el poder.<PAGE>Belius jamás consentiría
+algo así...
+
+## POINTER 5688 [t:1;r:1;ru:memnoch;user:kaene;time:1304438681]
+Pero ya no está...
+Belius no está...
+
+## POINTER 5689 [t:1;r:1;ru:memnoch;user:kaene;time:1304438900]
+Soy miembro de Palestrale, el
+gremio que gobierna esta ciudad.<PAGE>Hoy estoy patrullando,
+como cada día.
+
+## POINTER 5690 [t:1;r:1;ru:memnoch;user:kaene;time:1304438900]
+Si veo a alguien sospechoso,
+lo puedo sentenciar a
+una patada en el culo.
+
+## POINTER 5691 [t:1;r:1;ru:memnoch;user:kaene;time:1304438900]
+¿Qué pasa?
+¿Unos Caballeros
+van al coliseo?<PAGE>¡Merodean como ladrones en la noche!
+¡Escondiéndose todo el tiempo!
+
+## POINTER 5692 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+¿Eh? ¿No es... un tío?
+¿Es un lugar? ¿Como una ciudad?<PAGE>¡Pues que vengan todos!
+¡Nosotros, los de Palestrale,
+acabaremos con todos ellos!
+
+## POINTER 5693 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+¿Qué pasa?
+¿Unos Caballeros
+van al coliseo?<PAGE>¡Se habrán colado
+dentro amparados
+en la oscuridad!
+
+## POINTER 5694 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+¿Qué ha pasado?
+¡¿Qué leches hacen
+los Caballeros aquí?!
+
+## POINTER 5695 [t:1;r:1;ru:memnoch;user:memnoch;time:1304547847]
+Así que al final lo han hecho, ¿eh?
+Malditos sean los de la Unión...<PAGE>¡Ese Don ha estado esperando
+su oportunidad para quitarse
+de en medio a Belius!
+
+## POINTER 5696 [t:1;r:1;ru:memnoch;user:kaene;time:1304268116]
+Podríamos acabar con esos
+monstruos si uniéramos
+nuestras fuerzas.
+
+## POINTER 5697 [t:1;r:1;ru:memnoch;user:kaene;time:1304268116]
+Tengo suerte de vivir
+en esta ciudad, ¿sabes?<PAGE>No está mal, ¿eh?
+¿Te corroe la envidia?
+
+## POINTER 5698 [t:1;r:1;ru:memnoch;user:kaene;time:1304268116]
+Voy a ser grande y fuerte
+como Kratos, y algún día
+seré el héroe del coliseo.<PAGE>Vosotros no tendríais ninguna
+oportunidad frente a él.
+Es el más fuerte del mundo.
+
+## POINTER 5699 [t:1;r:1;ru:memnoch;user:kaene;time:1304268116]
+¡Sí, toma ya!
+¡El campeón del coliseo
+es una pasada!<PAGE>¡He oído que se llama <STR>(FRE)!
+¡Los Caballeros son la caña!

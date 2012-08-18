@@ -1,0 +1,45 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:memnoch;time:1298765123]
+<STR>(KAR)
+Venga, tú puedes hacerlo...
+Chicos...
+¡Corre, corre más rápido!
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:Lia;time:1292769180]
+<STR>(YUR)
+
+<STR>(KAR) es... tan... pesado...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:Lia;time:1292769180]
+<STR>(RIT)
+Estoy... cansadísima...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:Lia;time:1292769180]
+<STR>(JUD)
+¿Otra vez está hablando en sueños?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:Lia;time:1292769180]
+<STR>(YUR)
+Sí...
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:Lia;time:1292769180]
+<STR>(RAV)
+Pos dadle un coscorrón en
+toa la cabeza. Se lo ha ganao.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:Lia;time:1292769180]
+<STR>(JUD)
+¡No, ni se te ocurra!
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:Lia;time:1292769180]
+<STR>(JUD)
+Tengo una idea
+mejor que nos
+irá bien a
+nosotros y a
+<STR>(KAR).
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:Lia;time:1292769180]
+<STR>(KAR)
+No, cuidado...
+Chicos, es peligroso...
+Vamos...

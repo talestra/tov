@@ -1,0 +1,18 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284472989]
+<STR>(RAV)
+<VOICE>(VA022_001)¿Se puede saber por qué hemos vuelto?
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:Lia;time:1284472989]
+<STR>(KAR)
+<VOICE>(VA022_002)¿No tenemos
+otras cosas que hacer?
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298582366]
+<STR>(JUD)
+<VOICE>(VA022_003)Bueno, ya que estamos aquí,
+no estaría de más
+saludar a Phaeroh.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298582371]
+<STR>(YUR)
+<VOICE>(VA022_004)Ojalá no ande cerca...

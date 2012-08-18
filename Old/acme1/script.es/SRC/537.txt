@@ -1,0 +1,196 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:kaene;time:1287315324]
+<STR>(EST_P)
+<VOICE>(VS61_040)Así. Con esto bastará por ahora.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:kaene;time:1287315324]
+
+<VOICE>(VS61_041)M-Muchas gracias...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(FRE)
+<VOICE>(VS61_042)Su Alteza.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:kaene;time:1287315324]
+<STR>(YUR)
+<VOICE>(VS61_043)No te esfuerces demasiado, ¿eh?
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(YUR)
+<VOICE>(VS61_044)Parece que el dispositivo
+ha funcionado. Gracias.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:kaene;time:1287315324]
+<STR>(RIT)
+<VOICE>(VS61_045)De nada.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(JUD)
+<VOICE>(VS61_046)Hay más heridos graves de lo que pensaba.<PAGE><VOICE>(VS61_047)<STR>(EST_P) les ha salvado la vida,
+pero deberían reposar
+durante un tiempo.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(FRE)
+<VOICE>(VS61_048)Tendremos que quedarnos
+y defenderlos un poco más.
+
+## POINTER 8 [t:1;r:1;ru:memnoch;user:kaene;time:1287315324]
+
+<VOICE>(VS61_049)¿Y por qué no hacemos
+aquí un fuerte?
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+Kaufman
+<VOICE>(VS61_050)Cuánto tiempo, <STR>(YUR).
+He oído hablar de Gran Vesperia.<PAGE><VOICE>(VS61_051)Parece que los mercenarios
+que contraté no bastaron.
+Siento las molestias.
+
+## POINTER 10 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(FRE)
+<VOICE>(VS61_052)Estoy seguro de que ahora los
+gremios también son un caos. 
+Gracias por su ayuda.
+
+## POINTER 11 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+Kaufman
+<VOICE>(VS61_053)No es que vaya a servir para compensaros,
+pero os ayudaremos con las defensas.
+
+## POINTER 12 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(YUR)
+<VOICE>(VS61_054)¿Vas a pelear?
+
+## POINTER 13 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+Kaufman
+<VOICE>(VS61_055)Oh, no. Soy una mercader.
+Tú observa.
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+Witcher
+<VOICE>(VS61_056)¡Comandante <STR>(FRE)! ¡Está vivo!
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+<STR>(FRE)
+<VOICE>(VS61_057)¡Witcher! ¿Ocurre algo?
+
+## POINTER 16 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+Witcher
+<VOICE>(VS61_058)Sí. La torre esa de Aspio
+ha creado una fórmula extraña
+a su alrededor.<PAGE><VOICE>(VS61_059)A juzgar por sus emblemas, parece
+estar absorbiendo alguna clase de poder.<PAGE><VOICE>(VS61_060)Además, todos los residentes
+de Ilyccia han informado
+no sentirse demasiado bien.
+
+## POINTER 17 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(RIT)
+<VOICE>(VS61_061)Absorbiendo... No se
+sienten bien... ¿No estará
+absorbiendo vidas humanas?
+
+## POINTER 18 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+<STR>(YUR)
+<VOICE>(VS61_062)Duke...
+
+## POINTER 19 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(RIT)
+<VOICE>(VS61_063)La vida es maná en estado puro.
+¿Pretende usarla para atacar?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+<STR>(RAV)
+<VOICE>(VS61_064)Asín que se refería a esto cuando
+dijo que pretendía cambiar toa forma
+de vida humana por derrotar al adephagos.
+.
+
+## POINTER 21 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+Witcher
+<VOICE>(VS61_065)La fórmula se expande poco a poco.<PAGE><VOICE>(VS61_066)A este paso, acabará
+abarcando el mundo entero...
+
+## POINTER 22 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(EST_P)
+<VOICE>(VS61_067)¡No!
+
+## POINTER 23 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+<STR>(YUR)
+<VOICE>(VS61_068)No podemos quedarnos de brazos cruzados.
+
+## POINTER 24 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(RIT)
+<VOICE>(VS61_069)Pero no nos bastará
+solamente con el poder
+de los espíritus.
+
+## POINTER 25 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(KAR)
+<VOICE>(VS61_070)¿Qué? ¡Pero mira
+a todos esos monstruos!
+
+## POINTER 26 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(RIT)
+<VOICE>(VS61_071)A juzgar por el tamaño del adephagos,
+necesitaríamos un poder varios
+centenares de veces mayor.
+
+## POINTER 27 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(RAV)
+<VOICE>(VS61_072)¿Varios centenares?
+Eso va a ser mazo chungo...
+
+## POINTER 28 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(YUR)
+<VOICE>(VS61_073)Parece que no nos queda otra que
+convertir los núcleos en espíritus.
+
+## POINTER 29 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+<STR>(FRE)
+<VOICE>(VS61_074)Esperad. ¿Os importaría explicarme
+de qué estáis hablando?
+
+## POINTER 30 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(YUR)
+<VOICE>(VS61_075)Oh, claro. Queríamos hablar
+contigo de ello.<PAGE><VOICE>(VS61_076)Escucha, <STR>(FRE).
+También queremos decírselo
+a Ioder y a los gremios.<PAGE><VOICE>(VS61_077)¿Puedes hacer que vengan aquí?
+
+## POINTER 31 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+<STR>(FRE)
+<VOICE>(VS61_078)Je, je. ¡Ja, ja, ja!
+
+## POINTER 32 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+<STR>(KAR)
+<VOICE>(VS61_079)Oh, <STR>(YUR). ¿En serio
+quieres que llame al Emperador
+a un sitio como este?
+
+## POINTER 33 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+<STR>(FRE)
+<VOICE>(VS61_080)No cambiarás nunca.
+
+## POINTER 34 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+<STR>(YUR)
+<VOICE>(VS61_081)¿Qué?
+
+## POINTER 35 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(FRE)
+<VOICE>(VS61_082)Je, je. Vale, veré
+qué puedo hacer.<PAGE><VOICE>(VS61_083)A cambio, tendréis que ser
+vosotros los que habléis con
+la gente de la Unión y Palestrale.
+
+## POINTER 36 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+<STR>(YUR)
+<VOICE>(VS61_084)Muy bien.
+
+## POINTER 37 [t:1;r:1;ru:memnoch;user:memnoch;time:1291157370]
+<STR>(JUD)
+<VOICE>(VS61_085)Entonces, ¿nos toca ir a
+Dahngrest y Nordopólica?
+
+## POINTER 38 [t:1;r:1;ru:memnoch;user:xander;time:1287475142]
+<STR>(YUR)
+<VOICE>(VS61_086)Sí. ¿Te importaría llevarnos?

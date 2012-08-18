@@ -1,0 +1,33 @@
+## POINTER 0 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1251839037]
+(FRE) - Segunda parte
+
+## POINTER 1 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403630]
+(JUD)
+Tu amigo tiene mucho talento, teniendo
+en cuenta la facilidad con la que salvó Mantaic.
+
+## POINTER 2 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266234462]
+(YUR)
+¿Quién, (FRE)?
+Eso no era nada para él.
+
+## POINTER 3 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403630]
+(KAR)
+Le conoces muy bien,
+¿no, (YUR)?
+
+## POINTER 4 [t:1;r:2;ru:mocolostrocolos,memnoch;user:xander;time:1266234462]
+(YUR)
+Bueno, hemos crecido juntos.
+
+## POINTER 5 [t:1;r:2;ru:xander,memnoch;user:xander;time:1267405232]
+(RAV)
+Pero ya no sus veis tan a menudo.
+
+## POINTER 6 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403630]
+(YUR)
+...
+
+## POINTER 7 [t:1;r:2;ru:mocolostrocolos,memnoch;user:mocolostrocolos;time:1266403630]
+(KAR)
+¿(YUR)?

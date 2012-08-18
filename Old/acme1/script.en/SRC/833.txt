@@ -1,0 +1,285 @@
+## POINTER 0
+
+Hey there! Welcome 
+to the Kowz Mansion!
+
+## POINTER 1
+<STR>(RIT)
+Mansion? I don't see 
+a building anywhere.
+
+## POINTER 2
+
+Come on, Flatty, you're 
+missing the forest 
+for the trees!<PAGE>You gotta look 
+at the big picture! 
+You dig?
+
+## POINTER 3
+
+Now, it's time for everyone's 
+favorite tradition... That's right! 
+It's item exchange time!
+
+## POINTER 4
+<STR>(YUR)
+Since when was this everyone's 
+favorite tradition?
+
+## POINTER 5
+
+Details, details!
+
+## POINTER 6
+<STR>(RAV)
+So ya want something, 
+right?
+
+## POINTER 7
+
+No need to be so 
+blunt! You're 
+right, though.<PAGE>Today's item du jour is gonna 
+knock your socks off!
+
+## POINTER 8
+<STR>(KAR)
+That sounds like it'd 
+be the sort of thing we 
+wouldn't even have...
+
+## POINTER 9
+
+If you don't have it, you 
+can just make it for me. 
+That should be fun!
+
+## POINTER 10
+
+And now, to announce the 
+item du jour! Dadum 
+dadum dadummm... DUM!<PAGE>It's a Silver Edge +1α! So then, 
+whenever you're ready! ∀
+
+## POINTER 11
+<STR>(JUD)
+That's a pretty fancy 
+item to be asking for.
+
+## POINTER 12
+
+Well then, it may help to know 
+something: I feel like this will
+be the last item!<PAGE>You could call it a Kowz's 
+sixth sense, perhaps?<PAGE>So then, will you, 
+won't you? Do 
+you, don't you?
+
+## POINTER 13
+<STR>(KAR)
+It wasn't easy, 
+but here you go!
+
+## POINTER 14
+
+Ah, swooshy-haired midget, you 
+always come through in a pinch! 
+You're such a little smarty!
+
+## POINTER 15
+<STR>(KAR)
+Is that supposed to 
+be a compliment?
+
+## POINTER 16
+
+Round and round we go!
+Where we stop...only I know!
+
+## POINTER 17
+
+Here you go! This is 
+as good as it gets!
+
+## POINTER 18
+
+Oo hoo! This 
+is awesome!
+Thankeeee!
+
+## POINTER 19
+
+Awwwwesome!!
+
+## POINTER 20
+
+It looks like A-to-the-L was 
+happy. How nice. Now, to give 
+you a reward for your help.
+
+## POINTER 21
+<STR>(RAV)
+This'd better not
+be something lame
+again!
+
+## POINTER 22
+<STR>(KAR)
+Yeah, after we worked that 
+hard to get it for you!
+
+## POINTER 23
+
+Ding-dong!
+
+## POINTER 24
+<STR>(RIT)
+Are you trying to insult us?
+
+## POINTER 25
+
+Can't take a joke, eh? 
+No wonder you're such 
+a flatty, Flatty.<PAGE>Okay, once again... This 
+time it's for real!
+
+## POINTER 26
+<STR>(RAV)
+Whoa! Hey, this 
+isn't bad at all, 
+Li'l K! ∀
+
+## POINTER 27
+
+Hard workers deserve 
+appropriate compensation 
+for their efforts!<PAGE>There's nothing I hate more 
+than when honest people 
+are given a bum deal.
+
+## POINTER 28
+<STR>(EST_P)
+Yes, I couldn't 
+agree more!
+
+## POINTER 29
+
+You've still got some growing 
+up to do, Little Miss Innocent.
+
+## POINTER 30
+<STR>(EST_P)
+Yes, I know. I'll 
+do my best!
+
+## POINTER 31
+<STR>(RAV)
+This haul isn't 
+bad at all.
+
+## POINTER 32
+<STR>(JUD)
+Yes, I think we actually came 
+out on top, in the end.
+
+## POINTER 33
+<STR>(YUR)
+Well, looks like we made out pretty well.
+
+## POINTER 34
+<STR>(KAR)
+Yeah, thanks 
+a lot!
+
+## POINTER 35
+
+Sure, sure! Keep up the good 
+work, boys and girls! I'll 
+be seeing you later! ∀
+
+## POINTER 36
+
+Ahhhh!!!
+
+## POINTER 37
+<STR>(RAV)
+What? What? What's 
+the matter?
+
+## POINTER 38
+
+Come to think of it, you 
+exchanged lots of great things 
+with me, didn't you?
+
+## POINTER 39
+<STR>(RIT)
+Well, it was more like they 
+were taken by force...
+
+## POINTER 40
+
+Shut it, Flatty!
+Since you've helped 
+me out so many times, I've got 
+a little something in return.
+
+## POINTER 41
+<STR>(EST_P)
+Something in return?
+
+## POINTER 42
+
+Yep. Hold on a sec.
+
+## POINTER 43
+
+Sorry about that. 
+This is for you!
+
+## POINTER 44
+
+That's all. 
+The end! Fin!
+
+## POINTER 45
+<STR>(KAR)
+So...uh... Are these all the items 
+we gave you, only now they've been 
+barfed back up...or something?
+
+## POINTER 46
+<STR>(RAV)
+Hey, who's complainin'? 
+These items are great!
+
+## POINTER 47
+<STR>(JUD)
+You really don't mind 
+if we take all this?
+
+## POINTER 48
+
+No, go right ahead. Think of them as a way of showing 
+my thanks for everything you've done. They can also 
+double as my payment for such delicious eye-candy. ∀
+
+## POINTER 49
+<STR>(RIT)
+You're really creepy! I hope you know that!
+
+## POINTER 50
+
+You don't have that, do 
+you? Hmmm... Maybe it's 
+beyond your abilities...
+
+## POINTER 51
+
+Hmph, I expected as much...
+
+## POINTER 52
+
+Oh, did you bring the Silver Edge +1α?
+Would you like to shaaare?

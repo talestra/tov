@@ -1,0 +1,353 @@
+## POINTER 0
+Lots of souvenirs are sold here. There are
+some cookies, handkerchiefs, and pins.
+
+## POINTER 1
+Are these for sale?
+Lots of yukatas are on display.
+
+## POINTER 2
+Some deer are
+frolicking in the garden.
+
+## POINTER 3
+There's a Landolt C eye chart
+on the wall.
+
+## POINTER 4
+There's a bathroom scale here.
+This one seems more used
+than the one in the men's room.
+
+## POINTER 5
+Someone left this behind.
+It's a small bunch of
+white fabric.
+
+## POINTER 6
+It's opened. But there's no point of
+going inside. It's just a storage room.
+
+## POINTER 7
+It's locked.
+This must be a guest room.
+
+## POINTER 8
+It's shut tightly.
+
+## POINTER 9
+Command the heavens
+with the power of the ring.<PAGE>
+When all eight wings are spread,
+a circle of light shall shine
+above the Child of the Full Moon
+and the fourth door shall open.
+
+## POINTER 10
+Command the heavens
+with the power of the ring.<PAGE>
+When two pairs of wings are fully opened,
+she shall weep beneath the sharp rays of
+light and the second door shall open.
+
+## POINTER 11
+Command the heavens
+with the power of the ring.<PAGE>
+When she with the tiny wings smiles
+gently in the darkness, the first door shall open.
+
+## POINTER 12
+Command the heavens
+with the power of the ring.<PAGE>
+With the span of three pairs of wings,
+her reflection shall appear in the shattered
+half mirror. Only then will the
+third door open.
+
+## POINTER 13
+The first door shall open
+when she with the tiny wings
+smiles gently in the darkness.
+
+## POINTER 14
+The second door shall open
+upon the span of two pairs of wings.
+She shall weep beneath
+sharp rays of light.
+
+## POINTER 15
+The third door shall open
+upon the span of three pairs of wings.
+Her reflection shall appear
+in the shattered half body mirror.
+
+## POINTER 16
+The fourth door shall open
+with the span of eight wings.
+A ring of light shall shine above her,
+Child of the Full Moon.
+
+## POINTER 17
+The first door shall open
+when she with the tiny wings
+smiles gently in the darkness.
+
+## POINTER 18
+The second door shall open
+upon the span of two pairs of wings.
+She shall weep beneath
+sharp rays of light.
+
+## POINTER 19
+The third door shall open
+upon the span of three pairs of wings.
+Her reflection shall appear
+in the shattered half body mirror.
+
+## POINTER 20
+The fourth door shall open
+with the span of eight wings.
+A ring of light shall shine above her,
+Child of the Full Moon.
+
+## POINTER 21
+From one to four,
+front to back,
+dark to light.
+Stray from this and disaster shall follow...
+
+## POINTER 22
+It's locked.
+This must be a guest room.
+
+## POINTER 23
+It's locked.
+This must be a guest room.
+
+## POINTER 24
+It's locked.
+This must be a guest room.
+
+## POINTER 25
+Calling all portrait painters!
+ 
+Those of you that think YOU can
+draw the best Lloyd, step right up!
+Doesn't matter if you draw it on
+paper, leaves, tree bark; anything
+is welcome!∀
+Send entries to "Real Lloyd".
+Looking forward to
+your work!
+
+## POINTER 26
+The grand tree of Halure
+looks enormous.
+
+## POINTER 27
+Water is flowing into
+the house from a
+tree stem.
+
+## POINTER 28
+Are these blastia?
+It looks like a pile of junk.
+
+## POINTER 29
+It's a blastia port for going underground.
+
+## POINTER 30
+It's a blastia port for going underground.
+
+## POINTER 31
+It's a blastia port for going underground.
+
+## POINTER 32
+It's a blastia port for going underground.
+
+## POINTER 33
+There's a huge blastia here.
+It looks like it hasn't been used for awhile.
+It still looks like it works.
+
+## POINTER 34
+Blastia are piled up
+like unwanted junk.
+
+## POINTER 35
+Buildings can be seen in the distance.
+Ba'ul is the only one that can reach them.
+
+## POINTER 36
+There's someone sleeping inside the tent.
+It's not polite to peek.
+
+## POINTER 37
+There's a pile of apples here.
+It wouldn't be right to help ourselves to some.
+
+## POINTER 38
+There's a pile of materials here.
+
+## POINTER 39
+A pond used for transport.
+It connects to a river.
+Seems like it leads to the sea.
+
+## POINTER 40
+A plot for growing vegetables.
+
+## POINTER 41
+It's unlocked.
+But it's just a storage room.
+
+## POINTER 42
+They're having a meeting.
+Let's not interrupt.
+
+## POINTER 43
+There are some tools
+used for the town's
+construction project.
+Seems like <STR>(FRE) is helping too.
+
+## POINTER 44
+"Town Construction Project"
+It's written in　<STR>(FRE)'s handwritting.
+
+## POINTER 45
+It's locked.
+It must be for security reasons.
+
+## POINTER 46
+Code of the Sacred Sword
+ 
+1. Be dedicated to daily training.
+2. Maintain a pure state of mind and spirit.
+3. Maintain your sword in optimal condition.
+
+## POINTER 47
+Lots of barrels are
+stacked up here.
+
+## POINTER 48
+Things are scattered
+all over.
+
+## POINTER 49
+This store is self-service.
+Go up to the counter to order.
+
+## POINTER 50
+There's a name on this.<PAGE>
+Sa...
+Sa...Sakuraba?
+
+## POINTER 51
+You looked in the pot.
+.........<PAGE>
+....Your face is turning red.
+
+## POINTER 52
+A suit of heavy armor for the 
+front lines. Judging from the 
+wear on it, maybe it's the Don's...
+
+## POINTER 53
+The flag of the Union.
+The Union is made up of and controlled 
+by the five master guilds.
+
+## POINTER 54
+The flag of Altosk, also known as Heaven's Arrow.
+A guild led by Don Whitehorse.
+The most powerful of the five master guilds of the Union.
+
+## POINTER 55
+The flag of the Blood Alliance.
+A mercenary guild led by Barbos.
+One of the five master guilds of the Union.
+
+## POINTER 56
+The flag of Fortune's Market.
+A merchant guild led by Kaufman.
+One of the five master guilds of the Union.
+
+## POINTER 57
+The flag of the Soul Smiths.
+A smithery guild producing armors and weapons.
+One of the five master guilds of the Union.
+
+## POINTER 58
+The flag of Ruins' Gate.
+A blastia excavation guild.
+One of the five master guilds of the Union.
+
+## POINTER 59
+The flag of Altosk. Also known as Heaven's Arrow.
+A guild led by Don Whitehorse.
+The most powerful of the five master guilds of the Union.
+
+## POINTER 60
+The flag of the Blood Alliance.
+A mercenary guild led by Barbos.
+One of the five master guilds of the Union.
+
+## POINTER 61
+The flag of Altosk. Also known as Heaven's Arrow.
+A guild led by Don Whitehorse.
+The most powerful of the five master guilds of the Union.
+
+## POINTER 62
+The flag of the Blood Alliance.
+A mercenary guild led by Barbos.
+One of the five master guilds of the Union.
+
+## POINTER 63
+The flag of Fortune's Market.
+A merchant guild led by Kaufman.
+One of the five master guilds of the Union.
+
+## POINTER 64
+The flag of the Soul Smiths.
+A smithery guild producing armors and weapons.
+One of the five master guilds of the Union.
+
+## POINTER 65
+The flag of Ruins' Gate.
+A blastia excavation guild.
+One of the five master guilds of the Union.
+
+## POINTER 66
+The flag of Altosk. Also known as Heaven's Arrow.
+A guild led by Don Whitehorse.
+The most powerful of the five master guilds of the Union.
+
+## POINTER 67
+The flag of the Blood Alliance.
+A mercenary guild led by Barbos.
+One of the five master guilds of the Union.
+
+## POINTER 68
+Found an Apple Gel
+inside the toilet.
+No way am I picking that up!
+
+## POINTER 69
+Signs of a battle
+can still be seen...
+
+## POINTER 70
+Something is stuck.
+The drawers won't open.
+
+## POINTER 71
+There's nothing inside.
+
+## POINTER 72
+It's full of equipment.
+
+## POINTER 73
+The Don's desk.
+Various types of books
+are piled up here.

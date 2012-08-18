@@ -1,0 +1,90 @@
+## POINTER 0
+<STR>(KAR)
+...The gear's stopped.
+
+## POINTER 1
+<STR>(KAR)
+...It looks like it's not 
+moving because the gear's 
+teeth are out of alignment.<PAGE>I think it might move if we 
+put some energy into it.
+
+## POINTER 2
+<STR>(YUR)
+Well, we needn't waste energy on moving strange gears.
+
+## POINTER 3
+<STR>(RIT)
+I see...So this is what's 
+powering the aer supply...
+
+## POINTER 4
+<STR>(KAR)
+...It looks like it's not 
+moving because the gear's 
+teeth are out of alignment.<PAGE>I think it might move if we 
+put some energy into it.
+
+## POINTER 5
+<STR>(YUR)
+Well, we needn't waste energy on moving strange gears.
+
+## POINTER 6
+<STR>(RIT)
+I see...So this is what's 
+powering the aer supply...
+
+## POINTER 7
+<STR>(YUR)
+So if we can make this move, we'll 
+be able to lower the ladder?
+
+## POINTER 8
+<STR>(RIT)
+Hmmm... I'm not sure, 
+but...it's possible.
+
+## POINTER 9
+<STR>(KAR)
+...It looks like it's not 
+moving because the gear's 
+teeth are out of alignment.<PAGE>I think it might move if we 
+put some energy into it.
+
+## POINTER 10
+<STR>(KAR)
+Urgh... Urgh...Y-<STR>(YUR)...
+Give me a hand here...
+
+## POINTER 11
+<STR>(EST_P)
+This reminds me of what happened 
+in the Shaikos Ruins!
+
+## POINTER 12
+<STR>(YUR)
+...In that case, it might 
+not even move if I broke 
+my back pushing on it...
+
+## POINTER 13
+<STR>(JUD)
+Now that you mention it, how 
+about using that thingy?
+
+## POINTER 14
+<STR>(YUR)
+That thingy?
+
+## POINTER 15
+<STR>(JUD)
+Yeah, that thingy. Remember 
+when it absorbed that aer?
+
+## POINTER 16
+<STR>(EST_P)
+What thingy, <STR>(JUD)?
+
+## POINTER 17
+<STR>(YUR)
+Oh yeah... The Sorcerer's Ring, right?

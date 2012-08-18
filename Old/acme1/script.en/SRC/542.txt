@@ -1,0 +1,79 @@
+## POINTER 0
+Natz
+<VOICE>(VS64_023)Spirits... Adephagos... Duke...
+
+## POINTER 1
+Kaufman
+<VOICE>(VS64_024)Turn all the world's cores into spirits...
+
+## POINTER 2
+Ioder
+<VOICE>(VS64_025)...It's an extraordinary story...
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS64_026)I know it's hard to believe.<PAGE><VOICE>(VS64_027)But that's the reality 
+we're up against.
+
+## POINTER 4
+<STR>(FRE)
+<VOICE>(VS64_028)No more blastia... No more barriers... 
+There would be so much chaos.
+
+## POINTER 5
+<STR>(RAV)
+<VOICE>(VS64_029)If we don't do it, then we're all gone. 
+Either by Duke or the Adephagos.
+
+## POINTER 6
+Harry
+<VOICE>(VS64_030)There may be no choice... but do you
+really think people will listen?
+
+## POINTER 7
+<STR>(EST_P)
+<VOICE>(VS64_031)I don't think anyone hopes for 
+a future of destruction.<PAGE><VOICE>(VS64_032)We can keep moving forward, 
+even if it's hard.
+
+## POINTER 8
+<STR>(KAR)
+<VOICE>(VS64_033)Yeah. That's why we're doing this.
+
+## POINTER 9
+Ioder
+<VOICE>(VS64_034)...The empire's duty is to prevent confusion 
+and guide people to the future.<PAGE><VOICE>(VS64_035)Now is the time to reign 
+for the people.
+
+## POINTER 10
+<STR>(FRE)
+<VOICE>(VS64_036)We will have our hands full.
+
+## POINTER 11
+Kaufman
+<VOICE>(VS64_037)Making new things that will 
+serve for blastia... Oh, there's 
+business to be done.
+
+## POINTER 12
+Natz
+<VOICE>(VS64_038)We have to think of a way 
+to fight off the monsters 
+without the barriers.
+
+## POINTER 13
+Harry
+<VOICE>(VS64_039)The mercenary guild 
+and Hunting Blades 
+won't be enough.
+
+## POINTER 14
+Ioder
+<VOICE>(VS64_040)What about combining the 
+reformed knights with the guilds?
+
+## POINTER 15
+Kaufman
+<VOICE>(VS64_041)Sounds interesting, but I don't 
+know if it'll go smoothly.

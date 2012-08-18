@@ -1,0 +1,281 @@
+## POINTER 0
+<STR>(KAR)
+<VOICE>(VS34_033)H-hey! What's going on?!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS34_034)Everybody still here?
+
+## POINTER 2
+<STR>(RIT)
+<VOICE>(VS34_035)Yeah.
+
+## POINTER 3
+<STR>(EST_P)
+<VOICE>(VS34_036)Yes.
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VS34_037)Yo.
+
+## POINTER 5
+<STR>(JUD)
+<VOICE>(VS34_038)Yes.
+
+## POINTER 6
+<STR>(RAP)
+<VOICE>(VS34_039)Woof.
+
+## POINTER 7
+<STR>(KAR)
+<VOICE>(VS34_040)A-a monster...!
+
+## POINTER 8
+<STR>(YUR)
+<VOICE>(VS34_041)And here I had secret hopes we'd 
+get a gourmet meal out of this. 
+Wasn't expecting a trap.
+
+## POINTER 9
+<STR>(JUD)
+<VOICE>(VS34_042)This isn't a trap. 
+She is...
+
+## POINTER 10
+<STR>(EST_P)
+<VOICE>(VS34_043)Belius?
+
+## POINTER 11
+
+<VOICE>(VS34_044)The very same. I am Belius, 
+Duce of Nordopolica and 
+founder of Palestralle.
+
+## POINTER 12
+<STR>(RAV)
+<VOICE>(VS34_045)Didn't see this comin'.
+
+## POINTER 13
+<STR>(EST_P)
+<VOICE>(VS34_046)So you can speak our 
+language, as well.
+
+## POINTER 14
+Belius
+<VOICE>(VS34_047)You encountered Phaeroh some 
+time ago, did you not?<PAGE><VOICE>(VS34_048)I would not think, then, that our ability to 
+use your tongue should come as a surprise.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS34_049)So you're an Entelexeia, too?
+
+## POINTER 16
+Belius
+<VOICE>(VS34_050)That is so.
+
+## POINTER 17
+<STR>(KAR)
+<VOICE>(VS34_051)Th-then the ancient race 
+that built this city was...
+
+## POINTER 18
+Belius
+<VOICE>(VS34_052)My brethren and I.
+
+## POINTER 19
+<STR>(RAV)
+<VOICE>(VS34_053)...Good old Don. How nice of him 
+ta keep me in the dark on this.
+
+## POINTER 20
+Belius
+<VOICE>(VS34_054)And who might you be?
+
+## POINTER 21
+<STR>(RAV)
+<VOICE>(VS34_055)A humble servant of 
+Don Whitehorse. I've got 
+a letter for you from him.
+
+## POINTER 22
+<STR>(RAV)
+<VOICE>(VS34_056)I've known that old badger too long 
+ta be surprised by who he knows, 
+but just how're you connected?
+
+## POINTER 23
+Belius
+<VOICE>(VS34_057)I am indebted to him for his assistance 
+during the Great War.
+
+## POINTER 24
+<STR>(KAR)
+<VOICE>(VS34_058)The Great War...! So the rumors 
+that you were one of the 
+masterminds behind it are true?
+
+## POINTER 25
+Belius
+<VOICE>(VS34_059)Heh, well, I did participate 
+in the war.<PAGE><VOICE>(VS34_060)However, I never exceeded that which 
+my duty as an Entelexeia required. 
+I was not a mastermind of anything.
+
+## POINTER 26
+<STR>(KAR)
+<VOICE>(VS34_061)The Great War was fought 
+against the Entelexeia...
+
+## POINTER 27
+Belius
+<VOICE>(VS34_062)At any rate, my acquaintance with 
+the Don dates from those times.<PAGE><VOICE>(VS34_063)I have long lamented that a man of his talent 
+was not born instead as one of my race.
+
+## POINTER 28
+<STR>(RAV)
+<VOICE>(VS34_064)That's the first I'd heard 
+the old man had anything ta 
+do with the Great War.
+
+## POINTER 29
+Belius
+<VOICE>(VS34_065)It is a subject he takes 
+little pleasure in discussing.
+
+## POINTER 30
+Belius
+<VOICE>(VS34_066)The Don has requested my mediation in 
+the current trouble with Phaeroh.<PAGE><VOICE>(VS34_067)It would seem that even a man of 
+his strength cannot stand against 
+my brother's assault upon his city.<PAGE><VOICE>(VS34_068)Such a request can not lightly be brushed aside. 
+I shall offer my assistance for the time being.
+
+## POINTER 31
+<STR>(RAV)
+<VOICE>(VS34_069)Glad ta see you're so reasonable.
+
+## POINTER 32
+<STR>(YUR)
+<VOICE>(VS34_070)So some of you tear down cities, 
+and some of you run guilds.<PAGE><VOICE>(VS34_071)You Entelexeia are 
+definitely...interesting.
+
+## POINTER 33
+Belius
+<VOICE>(VS34_072)The same might be said of you humans, I would imagine.<PAGE><VOICE>(VS34_073)Now then, this letter is not the 
+sole reason for your visit...<PAGE><VOICE>(VS34_074)Is it, Child of the Full Moon?
+
+## POINTER 34
+<STR>(RIT)
+<VOICE>(VS34_075)You know about 
+<STR>(EST_P)...?
+
+## POINTER 35
+Belius
+<VOICE>(VS34_076)We Entelexeia can sense the 
+Child of the Full Moon.
+
+## POINTER 36
+<STR>(EST_P)
+<VOICE>(VS34_077)My name is <STR>(EST).
+
+## POINTER 37
+<STR>(EST_P)
+<VOICE>(VS34_078)I have to know. What exactly is 
+the Child of the Full Moon?<PAGE><VOICE>(VS34_079)Phaeroh called me an 
+"insipid poison."<PAGE><VOICE>(VS34_080)But what does that mean?
+
+## POINTER 38
+Belius
+<VOICE>(VS34_081)Hmm. I know not whether your 
+fate may be swayed by such 
+knowledge, but...
+
+## POINTER 39
+<STR>(JUD)
+<VOICE>(VS34_082)Belius. Listen...
+
+## POINTER 40
+<STR>(EST_P)
+<VOICE>(VS34_083)<STR>(JUD)...?
+
+## POINTER 41
+Belius
+<VOICE>(VS34_084)Hmm. Is there something of which I should be aware?
+
+## POINTER 42
+<STR>(JUD)
+<VOICE>(VS34_085)Phaeroh is...
+
+## POINTER 43
+<STR>(RAV)
+<VOICE>(VS34_086)What the hell's all that racket?
+
+## POINTER 44
+Tison
+<VOICE>(VS34_087)At last we've found you, Entelexeia! 
+Leader of monsters! Origin of evil!
+
+## POINTER 45
+<STR>(KAR)
+<VOICE>(VS34_088)Tison! 
+Boss!
+
+## POINTER 46
+Tison
+<VOICE>(VS34_089)Well if it isn't <STR>(KAR) and friends. 
+You've got some twisted tastes, 
+hanging out with freaks like this.
+
+## POINTER 47
+Clint
+<VOICE>(VS34_090)Keeping monsters to use in your 
+coliseum? You're an enemy of 
+humanity, and now you die!
+
+## POINTER 48
+<STR>(KAR)
+<VOICE>(VS34_091)Wh-where's Nan...?
+
+## POINTER 49
+Tison
+<VOICE>(VS34_092)Curious, huh? She should be leading 
+the raid on the remaining monsters 
+in the coliseum about now.
+
+## POINTER 50
+Tison
+<VOICE>(VS34_093)We Hunting Blades give no quarter 
+to any who would obstruct the justice 
+we mete out, humans or no.
+
+## POINTER 51
+Clint
+<VOICE>(VS34_094)If you won't attack, 
+then I'll make the 
+first move, beast!
+
+## POINTER 52
+Belius
+<VOICE>(VS34_095)It seems these men will be not stayed 
+lest I take arms against them.<PAGE><VOICE>(VS34_096)It is asking much of you, 
+but please, help Natz.
+
+## POINTER 53
+<STR>(YUR)
+<VOICE>(VS34_097)What about you?!
+
+## POINTER 54
+Belius
+<VOICE>(VS34_098)I am not to be outdone 
+by mere humans.
+
+## POINTER 55
+<STR>(YUR)
+<VOICE>(VS34_099)Gotcha.<PAGE><VOICE>(VS34_100)Let's get outta here!
+
+## POINTER 56
+Belius
+<VOICE>(VS34_101)Good luck.

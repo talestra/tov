@@ -1,0 +1,79 @@
+## POINTER 0 [t:1;r:2;ru:parsec,memnoch;user:evilluendas;time:1251677028]
+Completado por fin
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130151]
+(KAR)
+¡Lo he conseguido! ¡Esta vez he terminado
+del todo el Libro de monstruos!
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130151]
+(EST_P)
+¡(KAR), eso es increíble!
+
+## POINTER 3 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220837]
+(YUR)
+Buen trabajo, (KAR).
+Te has esforzado mucho.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130151]
+(RAP)
+¡GUAU!
+
+## POINTER 5 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220837]
+(RIT)
+Bueno... bravo, supongo.
+
+## POINTER 6 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220837]
+(RAV)
+¡Bien hecho, chaval!
+
+## POINTER 7 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220837]
+(JUD)
+¡Es fantástico!
+
+## POINTER 8 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266835363]
+(KAR)
+Esto no lo he hecho yo solo.
+¡Lo hemos conseguido entre todos!
+
+## POINTER 9 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220837]
+(YUR)
+Así que esto es un registro de
+nuestros logros... de los de todos.
+
+## POINTER 10 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220837]
+(KAR)
+Es la primera vez que completo algo
+como esto, y, y, es todo g-gracias a
+vosotros, chicos...
+
+## POINTER 11 [t:1;r:2;ru:parsec,memnoch;user:xander;time:1266835363]
+(RAV)
+No nos llores, chaval.
+
+## POINTER 12 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220837]
+(EST_P)
+Lo has hecho bien, (KAR).
+Lo has hecho muy bien.
+
+## POINTER 13 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220837]
+(RIT)
+Esto es ridículo...
+
+## POINTER 14 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220837]
+(JUD)
+¿(RIT)? ¿Tú también tienes 
+los ojos llorosos?
+
+## POINTER 15 [t:1;r:1;ru:memnoch;user:memnoch;time:1298130151]
+(RIT)
+¡E-Es que tengo los ojos grandes!
+
+## POINTER 16 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220837]
+(YUR)
+Calma, ¿tanta emoción por un
+Libro de monstruos de nada?
+
+## POINTER 17 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1267220837]
+(RAP)
+*Gemido*

@@ -1,0 +1,108 @@
+## POINTER 0
+<STR>(YUR)
+Man, there are a lot of Mordio 
+look-alikes here, aren't there?
+
+## POINTER 1
+<STR>(EST_P)
+Excuse me, do you have a minute?
+
+## POINTER 2
+
+Wh-what do you want?
+
+## POINTER 3
+<STR>(EST_P)
+Would you happen to know if a knight named 
+<STR>(FRE) Scifo has come through here?
+
+## POINTER 4
+
+<STR>(FRE)? Ohh, that guy, he was saying 
+something about going to catch someone 
+who'd been vandalizing ruins...
+
+## POINTER 5
+<STR>(EST_P)
+Where is he now?!
+
+## POINTER 6
+
+I couldn't say. My research keeps me too busy 
+to pay attention to things like that.
+
+## POINTER 7
+<STR>(EST_P)
+I-I see. ...I'm sorry 
+to interrupt you.
+
+## POINTER 8
+
+I'll be taking my leave, then.
+
+## POINTER 9
+<STR>(YUR)
+Hey, wait up. Tell 
+me one more thing.
+
+## POINTER 10
+<STR>(YUR)
+Is there a famed mage named 
+Mordio around here?
+
+## POINTER 11
+
+Ack! There are people who want to see that weirdo?!
+
+## POINTER 12
+<STR>(YUR)
+So I was right. You know Mordio?
+
+## POINTER 13
+
+...No, uh, I don't know anything at all. I 
+don't associate with people like that...
+
+## POINTER 14
+<STR>(YUR)
+Hey, I'm not done yet!
+
+## POINTER 15
+
+What! What is it!
+
+## POINTER 16
+<STR>(YUR)
+Tell me where the mage is!
+
+## POINTER 17
+
+Mordio lives alone in a shack 
+back that way. Go and see for 
+yourself if you want!
+
+## POINTER 18
+<STR>(YUR)
+Thanks.
+
+## POINTER 19
+<STR>(KAR)
+Are you sure about this?
+
+## POINTER 20
+<STR>(YUR)
+Hmm?
+
+## POINTER 21
+<STR>(KAR)
+Everyone seems to get all out of sorts just 
+from hearing that guy's name. It's weird.
+
+## POINTER 22
+<STR>(EST_P)
+Yeah, doesn't it bother you?
+
+## POINTER 23
+<STR>(YUR)
+Well, he's a blastia thief. It's 
+no wonder people don't like him.

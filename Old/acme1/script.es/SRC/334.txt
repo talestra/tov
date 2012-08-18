@@ -1,0 +1,100 @@
+## POINTER 0 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(JUD)
+<VOICE>(VS30_052)Algo va mal...
+Estad alerta.
+
+## POINTER 1 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(EST_P)
+<VOICE>(VS30_053)No es Phaeroh...
+
+## POINTER 2 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(YUR)
+<VOICE>(VS30_054)Ya... Esa voz
+parece distinta.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408631]
+<STR>(KAR)
+<VOICE>(VS30_055)¡E-Eh!
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551564]
+<STR>(RIT)
+<VOICE>(VS30_056)Pero ¡¿qué...?! ¡Qué asco!
+
+## POINTER 5 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(KAR)
+<VOICE>(VS30_057)Nunca había visto
+un monstruo así antes...
+
+## POINTER 6 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(JUD)
+<VOICE>(VS30_058)Eso no es un monstruo.
+
+## POINTER 7 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(RAV)
+<VOICE>(VS30_059)Pos si no es un monstruo,
+¡¿qué leñe es?!
+
+## POINTER 8 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(RAP)
+<VOICE>(VS30_060)¡Guau! ¡GUAU, GUAU!
+
+## POINTER 9 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408631]
+<STR>(YUR)
+<VOICE>(VS30_061)Hasta <STR>(RAP) está asustado.
+Esto tiene muy mala pinta...
+
+## POINTER 10 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(KAR)
+<VOICE>(VS30_062)¡Salgamos de aquí por patas!
+
+## POINTER 11 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(EST_P)
+<VOICE>(VS30_063)¡Viene hacia aquí!
+
+## POINTER 12 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(YUR)
+<VOICE>(VS30_064)Mierda, no nos queda otra.<PAGE><VOICE>(VS30_065)¡Quitaos de en medio!
+
+## POINTER 13 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(YUR)
+<VOICE>(VS30_066)¿Se ha desvanecido?
+
+## POINTER 14 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408631]
+<STR>(EST_P)
+<VOICE>(VS30_067)¿Qué es esto?
+
+## POINTER 15 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(KAR)
+<VOICE>(VS30_068)Aah... No puedo seguir...
+
+## POINTER 16 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(EST_P)
+<VOICE>(VS30_069)<STR>(RIT)... <STR>(KAR)...
+
+## POINTER 17 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(RAV)
+<VOICE>(VS30_070)Creo que yo tampoco
+puedo aguantar más...
+
+## POINTER 18 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(YUR)
+<VOICE>(VS30_071)Esto pinta muy feo...
+
+## POINTER 19 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(YUR)
+<VOICE>(VS30_072)¿Qué?
+
+## POINTER 20 [t:1;r:1;ru:memnoch;user:memnoch;time:1298408631]
+<STR>(YUR)
+<VOICE>(VS30_073)¿Un... poblado?
+
+## POINTER 21 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(YUR)
+<VOICE>(VS30_074)El dragón de la
+caverna de Cados...
+
+## POINTER 22 [t:1;r:2;ru:squallido,memnoch;user:xander;time:1279705960]
+<STR>(YUR)
+<VOICE>(VS30_075)Je... Adelante...
+Espero... que te
+atragantes...

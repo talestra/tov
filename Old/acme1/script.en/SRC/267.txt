@@ -1,0 +1,83 @@
+## POINTER 0
+<STR>(KAR)
+E-excuse me...
+
+## POINTER 1
+<STR>(YUR)
+Get closer to him!
+
+## POINTER 2
+<STR>(KAR)
+B-but, this is so...
+
+## POINTER 3
+<STR>(JUD)
+Be brave, <STR>(KAR)!
+
+## POINTER 4
+<STR>(KAR)
+Argh...
+
+## POINTER 5
+<STR>(KAR)
+E-excuse me! 
+Mr. Knight!
+
+## POINTER 6
+
+Hmm? Are you talking to me?
+
+## POINTER 7
+<STR>(KAR)
+Y-yes... Could you come 
+over here, I can't find 
+my doggy.
+
+## POINTER 8
+
+...N-no, I can't leave 
+my post unattended!
+
+## POINTER 9
+<STR>(KAR)
+B-but...
+
+## POINTER 10
+
+I'm s-sorry! Please don't 
+cry like that...
+
+## POINTER 11
+
+Oh, all right. I 
+can make some time, 
+for your sake.
+
+## POINTER 12
+<STR>(KAR)
+Oh...I'm so happy...! Now, 
+please come closer!
+
+## POINTER 13
+<STR>(KAR)
+...And as I predicted, it came 
+to blows in the end anyway.
+
+## POINTER 14
+<STR>(YUR)
+We couldn't really ask you 
+to go all the way with it.
+
+## POINTER 15
+<STR>(KAR)
+Wh-what are you talking about...?
+
+## POINTER 16
+<STR>(YUR)
+Never mind.<PAGE>Change your clothes and 
+go leave that costume 
+at the shop.
+
+## POINTER 17
+<STR>(KAR)
+Uh, OK.

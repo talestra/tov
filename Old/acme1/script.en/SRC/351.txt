@@ -1,0 +1,105 @@
+## POINTER 0
+Cumore
+<VOICE>(VS32_064)W-wait!<PAGE><VOICE>(VS32_065)I'm not the one to blame! 
+I've just been following 
+orders! I had no choice!
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS32_066)Then don't hate me. 
+Hate whoever gave 
+you your orders.
+
+## POINTER 2
+Cumore
+<VOICE>(VS32_067)W-wait! How 
+about this?!
+
+## POINTER 3
+Cumore
+<VOICE>(VS32_068)I could use my authority 
+to pardon all of your 
+crimes! A fresh start!
+
+## POINTER 4
+Cumore
+<VOICE>(VS32_069)I may even be able to have 
+you reinstated as a Knight!
+
+## POINTER 5
+Cumore
+<VOICE>(VS32_070)I have no shortage of money. 
+With enough money, I'm sure 
+I could satisfy your every wish.<PAGE><VOICE>(VS32_071)Go ahead! Tell me what 
+it is you want!
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS32_072)There's only one thing 
+I want from you.
+
+## POINTER 7
+Cumore
+<VOICE>(VS32_073)A-and what might that...?
+
+## POINTER 8
+Cumore
+<VOICE>(VS32_074)N-no, stop... Stay back! 
+Don't come any closer, 
+you beast!<PAGE><VOICE>(VS32_075)I am Cumore, a captain of the 
+Imperial Knights! The man destined 
+to become Commandant!
+
+## POINTER 9
+Cumore
+<VOICE>(VS32_076)Uaaaaaaagh!
+
+## POINTER 10
+Cumore
+<VOICE>(VS32_077)I-I beg you! 
+Spare my life!
+
+## POINTER 11
+Cumore
+<VOICE>(VS32_078)P-please, no! 
+Not like this! I-I don't 
+want to go like this!
+
+## POINTER 12
+<STR>(YUR)
+<VOICE>(VS32_079)Tell me, how many 
+times have you heard 
+those very words?
+
+## POINTER 13
+Cumore
+<VOICE>(VS32_080)Aaaaaah!
+
+## POINTER 14
+<STR>(FRE)
+<VOICE>(VS32_081)My people have taken control of 
+things here. The residents of 
+this town won't suffer any longer.
+
+## POINTER 15
+<STR>(YUR)
+<VOICE>(VS32_082)That ought to put you 
+one step closer to 
+your next promotion.
+
+## POINTER 16
+<STR>(YUR)
+<VOICE>(VS32_083)I'm heading back 
+to the others.
+
+## POINTER 17
+<STR>(FRE)
+<VOICE>(VS32_084)<STR>(YUR), we need to talk later.
+
+## POINTER 18
+<STR>(YUR)
+<VOICE>(VS32_085)...I know.
+
+## POINTER 19
+<STR>(FRE)
+<VOICE>(VS32_086)I'll be waiting...down at the lake.

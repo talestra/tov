@@ -1,0 +1,28 @@
+## POINTER 0
+<STR>(KAR)
+...Ack...!
+
+## POINTER 1
+<STR>(YUR)
+Don't startle us like that...
+
+## POINTER 2
+Efreet
+The land of searing flames, 
+the Hellish Valley! I 
+can taste the power!<PAGE>Humans, wait and see!
+
+## POINTER 3
+<STR>(KAR)
+Wait and see...?
+What the...
+
+## POINTER 4
+<STR>(YUR)
+...You guys really do whatever 
+you want, don't you...
+
+## POINTER 5
+<STR>(EST_P)
+L-look at 
+that!

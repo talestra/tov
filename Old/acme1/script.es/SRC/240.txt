@@ -1,0 +1,35 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:xander;time:1274628020]
+<STR>(KAR)
+<VOICE>(VS23_032)¿<STR>(YUR)? ¿Estás despierto?
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215054]
+<STR>(KAR)
+<VOICE>(VS23_033)<STR>(EST_P) y <STR>(RIT) 
+ya se han ido.
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:xander;time:1274628020]
+<STR>(YUR)
+<VOICE>(VS23_034)Oh...
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215054]
+<STR>(KAR)
+<VOICE>(VS23_035)Si te das prisa, puede que
+aún puedas alcanzarla.
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:xander;time:1274628020]
+<STR>(YUR)
+<VOICE>(VS23_036)Puedo ir a verla siempre que quiera.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:memnoch;time:1279215054]
+<STR>(KAR)
+<VOICE>(VS23_037)Jolín, <STR>(YUR).
+Vale, si te vas a poner así.
+
+## POINTER 6 [t:1;r:1;ru:memnoch;user:xander;time:1274628020]
+<STR>(YUR)
+<VOICE>(VS23_038)Aunque fuera, tan solo conseguiría
+que les fuera más difícil marcharse.
+
+## POINTER 7 [t:1;r:1;ru:memnoch;user:memnoch;time:1304551670]
+<STR>(YUR)
+<VOICE>(VS23_039)Pero ¿qué...?

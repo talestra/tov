@@ -1,0 +1,26 @@
+## POINTER 0 [t:1;r:1;ru:memnoch;user:miyu;time:1274296868]
+<STR>(KAR)
+Mirad, es Lune.
+
+## POINTER 1 [t:1;r:1;ru:memnoch;user:miyu;time:1274296868]
+<STR>(EST_P)
+Está sonriendo...
+
+## POINTER 2 [t:1;r:1;ru:memnoch;user:memnoch;time:1294243326]
+<STR>(JUD)
+Puede hacerlo porque tiene a 
+personas que sonríen con ella.
+
+## POINTER 3 [t:1;r:1;ru:memnoch;user:miyu;time:1274296868]
+<STR>(EST_P)
+Es una persona muy fuerte...
+
+## POINTER 4 [t:1;r:1;ru:memnoch;user:miyu;time:1274296868]
+<STR>(YUR)
+Es nuestra responsabilidad
+proteger esas sonrisas.
+
+## POINTER 5 [t:1;r:1;ru:memnoch;user:xander;time:1275812875]
+<STR>(RAV)
+Qué razón tienes, chavalote. 
+Venga, ¡a trabajar!

@@ -1,0 +1,16 @@
+## POINTER 0
+<STR>(EST_P)
+<VOICE>(VS24_083)What could be going on in there?
+
+## POINTER 1
+<STR>(YUR)
+<VOICE>(VS24_084)Hmm, good question.
+
+## POINTER 2
+<STR>(JUD)
+<VOICE>(VS24_085)<STR>(KAR) is in there, right?
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS24_086)Yeah. Suppose we 
+should go take a look.

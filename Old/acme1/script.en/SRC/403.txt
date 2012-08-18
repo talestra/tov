@@ -1,0 +1,40 @@
+## POINTER 0
+<STR>(YUR)
+<VOICE>(VS37_149)<STR>(JUD_P)?!
+
+## POINTER 1
+<STR>(EST_P)
+<VOICE>(VS37_150)She's sleeping. She 
+must be exhausted.
+
+## POINTER 2
+<STR>(KAR)
+<VOICE>(VS37_151)Yeah, I mean, she 
+just keeled over.<PAGE><VOICE>(VS37_152)Wasn't expecting that.
+
+## POINTER 3
+<STR>(YUR)
+<VOICE>(VS37_153)I bet she watched over Ba'ul the 
+entire time he was evolving. She 
+probably didn't get much sleep.<PAGE><VOICE>(VS37_154)She probably had no idea 
+when the Hunting Blades 
+would attack, either.
+
+## POINTER 4
+<STR>(RAV)
+<VOICE>(VS37_155)She was puttin' up a brave 
+front, but she must've been 
+near the end of her rope.
+
+## POINTER 5
+<STR>(RIT)
+<VOICE>(VS37_156)She's just dumb. She 
+doesn't know how to express 
+what she's feeling.
+
+## POINTER 6
+<STR>(YUR)
+<VOICE>(VS37_157)We can finish talking 
+with her tomorrow. We 
+should let her sleep now.<PAGE><VOICE>(VS37_158)In fact, I wouldn't mind a 
+little shut-eye myself.

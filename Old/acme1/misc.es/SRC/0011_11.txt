@@ -1,0 +1,320 @@
+## POINTER 1509 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261586656]
+Absoluta
+
+## POINTER 1510 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261586656]
+Armadura completa con una capa de armadura ligera
+y otra de cota de malla.
+
+## POINTER 1512 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261586656]
+Malla de plata
+
+## POINTER 1513 [t:1;r:1;ru:memnoch;user:memnoch;time:1297181195]
+Exquisita malla hecha de plata. Suele llevarse
+en ceremonias debido a su diseño elegante.
+
+## POINTER 1515 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261586656]
+Armadura completa
+
+## POINTER 1516 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Armadura muy robusta cuyas juntas están protegidas
+con placas de acero. Es muy pesada.
+
+## POINTER 1518 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Armadura gótica
+
+## POINTER 1519 [t:1;r:1;ru:memnoch;user:memnoch;time:1297181195]
+Realizada con el método tradicional.
+No es muy flexible, pero sí muy robusta.
+
+## POINTER 1521 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261586656]
+Armadura de mítril
+
+## POINTER 1522 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261586656]
+Armadura hecha de mítril. Excepcionalmente ligera
+y robusta. Es la armadura perfecta.
+
+## POINTER 1524 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261586656]
+Armadura extraordinaria
+
+## POINTER 1525 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263904752]
+Obra maestra realizada por un legendario artesano. No pesa
+casi nada y es extremadamente robusta. Una obra de arte.
+
+## POINTER 1527 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768992]
+Armadura de oro
+
+## POINTER 1528 [t:1;r:1;ru:memnoch;user:memnoch;time:1297181195]
+Armadura de oro puro. La leyenda dice que una vez
+la vistió un héroe, aunque sigue siendo muy robusta.
+
+## POINTER 1530 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261586656]
+Pintura corporal
+
+## POINTER 1531 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261586656]
+Pintura mágica que protege el cuerpo de todo daño.
+
+## POINTER 1533 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261586656]
+Reflejo
+
+## POINTER 1534 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261586656]
+Como dice el nombre, esta armadura refleja la mayoría
+de los ataques. Deja pasar la magia que lanzan los aliados.
+
+## POINTER 1536 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Malla rúnica
+
+## POINTER 1537 [t:1;r:1;ru:memnoch;user:memnoch;time:1297181195]
+Armadura mágica de mítril.
+Ayuda a aumentar la defensa mágica.
+
+## POINTER 1539 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Malla de dragón
+
+## POINTER 1540 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263904752]
+Armadura resistente como escamas de dragón.
+Puede soportar incluso el fuego de un dragón furioso.
+
+## POINTER 1542 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Mumbane
+
+## POINTER 1543 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+La armadura Mumbane está reforzada con aer.
+Protege de todo tipo de ataques.
+
+## POINTER 1545 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Mumbane aérica
+
+## POINTER 1546 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+La armadura Mumbane reforzada con aer.
+Protege de todo tipo de ataques.
+
+## POINTER 1548 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Malla estelar
+
+## POINTER 1549 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Armadura resplandeciente como las estrellas.
+Bendecida con magia, protege la vida de su portador.
+
+## POINTER 1551 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Hiperarmadura
+
+## POINTER 1552 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+La armadura perfecta que supera a todas las demás.
+Está llena de aer y puede usarse como blastia.
+
+## POINTER 1554 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Protector de cuero
+
+## POINTER 1555 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Coraza ligera de cuero.
+Un equipamiento básico para principiantes.
+
+## POINTER 1557 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Protector de hierro
+
+## POINTER 1558 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Peto ligero de hierro. Es mejor asegurarse
+de llevarla cuando se sale de aventura.
+
+## POINTER 1560 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Protector de cota de malla
+
+## POINTER 1561 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768992]
+Coraza ligera reforzada con una amplia placa 
+de metal en la zona del pecho.
+
+## POINTER 1563 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Protector laminado
+
+## POINTER 1564 [t:1;r:3;ru:googol,parsec,memnoch;user:memnoch;time:1261769525]
+Cota de malla consistente en pequeñas placas
+atadas entre sí en una hilera paralela.
+
+## POINTER 1566 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Semiprotector
+
+## POINTER 1567 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261597362]
+Armadura de placas de hierro unidas con cuero.
+Es muy robusta y absorbe muy bien los impactos.
+
+## POINTER 1569 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector pectoral
+
+## POINTER 1570 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768992]
+Armadura ligera para la parte superior 
+revestida con un blindaje metálico.
+
+## POINTER 1572 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector real
+
+## POINTER 1573 [t:1;r:1;ru:memnoch;user:memnoch;time:1297181195]
+Costosa armadura de placas que solo llevan las clases altas.
+Ahora está pasado de moda, pero antes el diseño era popular.
+
+## POINTER 1575 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector de batalla
+
+## POINTER 1576 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Separadas por pequeñas placas metálicas, las juntas
+están cubiertas por una capa de cota de malla.
+
+## POINTER 1578 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector de plata
+
+## POINTER 1579 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Peto de plata pura. Se dice que la plata
+tiene propiedades de defensa mágica.
+
+## POINTER 1581 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector poderoso
+
+## POINTER 1582 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Armadura de placas de alta calidad. Está forjada
+con la mejor tecnología que se conoce hoy día.
+
+## POINTER 1584 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector de mítril
+
+## POINTER 1585 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Armadura ligera de placas hecha con mítril.
+Es ultraligera y flexible.
+
+## POINTER 1587 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector fénix
+
+## POINTER 1588 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Se dice que contiene el espíritu de un fénix.
+No obstante, no otorga la inmortalidad.
+
+## POINTER 1590 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector gótico
+
+## POINTER 1591 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Armadura de placas muy básica.
+Es robusta a pesar de su simplicidad.
+
+## POINTER 1593 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector de princesa
+
+## POINTER 1594 [t:1;r:1;ru:memnoch;user:memnoch;time:1297181195]
+Armadura ultraligera que solo poseen
+los miembros de la familia real.
+
+## POINTER 1596 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector de diamante
+
+## POINTER 1597 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Hecho con el material más duro conocido por la humanidad.
+La única pega es que es extremadamente caro.
+
+## POINTER 1599 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector elemental
+
+## POINTER 1600 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Bendecido con los elementos: tierra, fuego, viento y agua.
+Sus poderes mágicos protegen de los ataques.
+
+## POINTER 1602 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261598248]
+Protector lunar
+
+## POINTER 1603 [t:1;r:3;ru:googol,parsec,memnoch;user:Googol;time:1263905883]
+Armadura mágica bendecida con los poderes de la Luna.
+Su forma comparte su misma elegancia.
+
+## POINTER 1605 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768992]
+Protector extraordinario
+
+## POINTER 1606 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Peto forjado por un legendario artesano.
+Nadie puede imitar sus intrincados y delicados detalles.
+
+## POINTER 1608 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Chaqueta rúnica
+
+## POINTER 1609 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Armadura mágica con propiedades mágicas.
+Los que la visten suelen salir ilesos del campo de batalla.
+
+## POINTER 1611 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Protector prismático
+
+## POINTER 1612 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Armadura misteriosa que refleja los rayos del arco iris.
+Deslumbra a los enemigos para que resulte más fácil esquivarlos.
+
+## POINTER 1614 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Protector glorioso
+
+## POINTER 1615 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Como indica su nombre, tiene el poder
+para llevar a la victoria.
+
+## POINTER 1617 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Protector imperial
+
+## POINTER 1618 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Su calidad es digna de los que sirven al Imperio.
+Hace falta tener una gran habilidad para poder usarlo.
+
+## POINTER 1620 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Manto
+
+## POINTER 1621 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Prenda sencilla hecha de tela.
+Es más resistente que la ropa normal.
+
+## POINTER 1623 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Manto ambarino
+
+## POINTER 1624 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Prenda para investigadores.
+Obviamente, no está diseñada para el combate.
+
+## POINTER 1626 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Manto de seda
+
+## POINTER 1627 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Prenda de seda.
+Da sentido de la elegancia a su dueño.
+
+## POINTER 1629 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Manto ligero
+
+## POINTER 1630 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Prenda ligera como una pluma.
+No solo es ligera sino también duradera.
+
+## POINTER 1632 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768992]
+Traje de cóctel
+
+## POINTER 1633 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261703484]
+Prenda colorista. No está pensada para el combate,
+pero no está mal como ropaje normal.
+
+## POINTER 1635 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Túnica mágica
+
+## POINTER 1636 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Túnica tejida con materiales mágicos.
+Diseñada especialmente para el combate.
+
+## POINTER 1638 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Manto de plata
+
+## POINTER 1639 [t:1;r:2;ru:parsec,memnoch;user:parsec;time:1271587321]
+Esta prenda tiene partes fabricadas en plata,
+que actúan como protector mágico.
+
+## POINTER 1641 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Vestido de bruja
+
+## POINTER 1642 [t:1;r:3;ru:googol,parsec,memnoch;user:evilluendas;time:1261768992]
+Aquellos que lo visten a menudo son confundidos con brujas.
+Se diseñó para que no interfiriera con la magia.
+
+## POINTER 1644 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Manto sagrado
+
+## POINTER 1645 [t:1;r:3;ru:googol,parsec,memnoch;user:xander;time:1261685760]
+Manto bendecido con una pequeña cantidad
+de magia protectora.
