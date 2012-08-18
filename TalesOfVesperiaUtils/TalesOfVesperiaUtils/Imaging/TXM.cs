@@ -233,8 +233,8 @@ namespace TalesOfVesperiaUtils.Imaging
 				switch (ImageEntry.ImageFileFormat.TextureFormat)
 				{
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
+					//case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
 						return (new DXT5()).LoadSwizzled3D(this.SliceStream, Width, Height, Depth, this.Tiled);
-						break;
 
 					default:
 						throw (new NotImplementedException("[Surface3DEntryInfo] Not implemented format : " + ImageEntry.ImageFileFormat.TextureFormat));
@@ -265,13 +265,11 @@ namespace TalesOfVesperiaUtils.Imaging
 			{
 				if (Swizzled)
 				{
-					if (ImageEntry.ImageFileFormat.TextureFormat == GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5)
+					switch (ImageEntry.ImageFileFormat.TextureFormat)
 					{
-						return Swizzling.XGAddress3DTiledExtent(Width / 4, Height / 4, Depth, 16) * 16;
-					}
-					else
-					{
-						//throw(new NotImplementedException("Can't get TotalBytes!"));
+						case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
+						//case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
+							return Swizzling.XGAddress3DTiledExtent(Width / 4, Height / 4, Depth, 16) * 16;
 					}
 				}
 				return Stride * Height * Depth;
@@ -315,13 +313,11 @@ namespace TalesOfVesperiaUtils.Imaging
 			override public int TotalBytes { get {
 				if (Swizzled)
 				{
-					if (ImageEntry.ImageFileFormat.TextureFormat == GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5)
+					switch (ImageEntry.ImageFileFormat.TextureFormat)
 					{
-						return Swizzling.XGAddress2DTiledExtent(Width / 4, Height / 4, 16) * 16;
-					}
-					else
-					{
-						//throw (new NotImplementedException("Can't get TotalBytes!"));
+						case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
+						//case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
+							return Swizzling.XGAddress2DTiledExtent(Width / 4, Height / 4, 16) * 16;
 					}
 				}
 				return Stride * Height;
@@ -402,6 +398,7 @@ namespace TalesOfVesperiaUtils.Imaging
 						break;
 
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
+					//case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
 						return (new DXT5()).LoadSwizzled2D(this.SliceStream, Width, Height, this.Tiled);
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT1:
 						return (new DXT1()).LoadSwizzled2D(this.SliceStream, Width, Height, this.Tiled);
