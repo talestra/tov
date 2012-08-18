@@ -1,0 +1,92 @@
+soywiz:
+Aquí voy a tratar de explicar el funcionamiento de todas las cosas que he averiguiado hasta ahora:
+
+Trabajaremos con la versión PAL del juego y todas las cosas que comento son para esa versión:
+
+	Nombre: Tales of Vesperia [PAL] [Multi3] [English] [Xbox360].iso
+	CRC32 : E557E815
+	SHA1  : B599D8DE7391E8B340BC8D3A557EE66D0E5501B6
+	MD5   : 546F74B4E48BB985FCD365496E03BD10
+
+--------
+ISO 360:
+--------
+
+Las ISOs de los juegos 360 no son ISOs normales. Si las abrimos como una ISO normal, veremos que
+lo expuesto de cara al público es una ISO de un DVD-VIDEO con sus AUDIO_TS y VIDEO_TS.
+Así que para acceder a los archivos del juego, tendremos que usar herramientas especializadas.
+En la carpeta Tools podemos encontrar la utilidad "wx360.exe" que nos permitirá ver y extraer
+el sistema de archivos de la 360. En código tenemos un par de clases que nos permitirán trabajar
+con la ISO de la 360:
+	- TalesOfVesperiaUtils.Formats.Packages.Dvd9Xbox360
+	- TalesOfVesperiaUtils.VirtualFileSystem.Dvd9Xbox360FileSystem
+Podéis ver cómo se usan estas clases en:
+	- TalesOfVesperiaTests.Dvd9Xbox360Test
+Son clases sencillas que permiten acceder al sistema de archivos: listar archivos, abrir archivos
+para lectura/escritura.
+
+Intentaré hacer una utilidad de consola (o si la hacéis vosotros) para listar, extraer y relinkar archivos.
+
+Generalmente con una JTAG se trabaja con los archivos del juego extraídos en vez de con una ISO, así que
+yo generalmente no he tenido que reinsertar los archivos en la ISO.
+
+Para evitar tener que regenerar la ISO completa (que sería un buen marronazo) intentaremos ceñirnos
+al espacio que hay para cada archivo, intentando que las modificaciones ocupen el mismo espacio o menos.
+La forma de que ocupe menos espacio es eliminar o reenlazar subarchivos de los SVO para las versiones francesa,
+alemana, etc. y/o quitar textos japoneses no usados en los archivos con el script.
+
+Para evitar perder la iso original, conviene tener siempre una copia y no sobreescribir archivos en la original.
+Cuando se vaya a parchear, se debería copiar la ISO entera en inglés a la ruta donde estaría la española y luego
+parchear la española.
+
+Si no me equivoco, la versión PAL tiene Inglés UK, Francés y Alemán. Y además usa los archivos de la versión US
+para el resto de idiomas. Así que hay archivos que parece que se usarán, que luego no se usarán.
+
+--------------------
+Archivo default.xex:
+--------------------
+
+Este es el ejecutable del juego. La 360 no permite crear zonas de memoria ejecutables en modo de usuario, así
+que no hay DLLs ni nada. Únicamente está el ejecutable y no hay código generado o cargado dinámicamente. El ejecutable
+está comprimido, firmado y con protecciones. En la carpeta Tools está la utilidad XexTool que permite descomprimir
+y quitar protecciones al ejecutable. Como no permite volver a firmar el ejecutable, no se puede hacer para que funcione
+en 360 retails con el DVD hackeado. Únicamente funcionará con JTAGs o con consolas que tengan las protecciones
+deshabilitadas (no sé cómo está el tema actualmente).
+
+En el ejecutable están los textos de los logros y el mapeado y el ancho de las fuentes. Como no se puede tocar, al menos
+para que funcione en todas las consolas, los logros se quedarán sin traducir, al menos que se tradujesen únicamente para
+los de la JTAG. Como tampoco se puede tocar el mapeado (coordenadas/anchos) de la fuente por estar hardcodeados en el exe,
+y como faltan algunos caracteres especiales españoles, tocó remapear algunos caracteres. Este detalle lo explicaré más
+adelante.
+
+-------------
+Archivos SVO:
+-------------
+
+Los archivos SVO son algo así como archivos TAR, contienen subarchivitos dentro, referenciados por nombre. No hay concepto
+de carpeta, así que simplemente hay una sucesión de archivos. Los archivos SVO tienen el magic FPS4, y por lo tanto la clase
+que los gestiona se llama FPS4. Clases relacionadas:
+	- TalesOfVesperiaUtils.Formats.Packages.FPS4
+	- TalesOfVesperiaTests.Formats.Packages.FPS4Test
+	- Svo.Program
+Las clases permiten enumerar, acceder a archivos y regenerar un archivo SVO/FPS4.
+Los métodos CreateEntry permiten especificar un stream u otra Entry para hacer relinking. De esta forma simplemente
+se hará una referencia por offset/tamaño a la otra entrada y se ahorrará espacio. Lo suyo es localizar archivos
+franceses, japoneses, alemanes, uk y us y crear archivos ES y reenlazarlos todos a los archivos ES. Así quedaría más limpio
+y bonito y ocuparía mucho, mucho menos.
+Tenéis ejemplo de relinking y de generación de FPS4 en FPS4Test.SaveTest 
+Lo suyo es generar el archivo SVO en una carpeta temporal y cuando esté parcheado y generado, reinsertarlo en la copia de la ISO
+que contendrá el parche español. Conviene también rellenar el resto del espacio que sobre con 0 para que se comprima mejor y no
+tener residuos para que la redistribución de la iso parcheada por la gente ocupe menos. Como no se tocarán las entradas de la ISO,
+el SVO seguirá ocupando más, pero esto no es un problema, ya que el juego simplemente lee las entradas con los offsets de los
+archivos y luego lee los archivos.
+
+---------------------
+Archivos movie/*.dat:
+---------------------
+
+Estos archivos son los vídeos del juego. Tienen extensión dat, pero si los renombráis a .wmv, podréis verlos (ya que son archivos WMV).
+Los vídeos están en DUAL japonés/inglés. Con el VLC por ejemplo podéis verlos.
+Los subtítulos de los vídeos no están embebidos en los vídeos, y están en los archivos de script. Así que estos archivos no hay que
+tocarlos.
+
