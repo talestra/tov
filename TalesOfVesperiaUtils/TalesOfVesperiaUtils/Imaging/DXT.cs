@@ -88,7 +88,7 @@ namespace TalesOfVesperiaUtils.Imaging
 		/// <returns></returns>
 		private BitmapList _LoadSwizzled(Stream File, int Width, int Height, int? _Depth, bool Swizzled = true)
 		{
-			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
+			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException(String.Format("Invalid size {0}x{1} must be multiple of 4", Width, Height)));
 
 			int Depth = _Depth ?? 1;
 			bool Is3D = _Depth.HasValue;
@@ -109,9 +109,27 @@ namespace TalesOfVesperiaUtils.Imaging
 
 			int BlockWidth = Width / 4;
 			int BlockHeight = Height / 4;
-			var BlockCount = BlockWidth * BlockHeight * Depth;
 			var CurrentDecodedColors = new ARGB_Rev[4 * 4];
+			var ExpectedBlockCount = BlockWidth * BlockHeight * Depth;
+
+			int RealUsedBlockCount;
+
+			if (Is3D)
+			{
+				RealUsedBlockCount = Swizzling.XGAddress3DTiledExtent(Width / 4, Height / 4, Depth, BlockSize);
+			}
+			else
+			{
+				RealUsedBlockCount = Swizzling.XGAddress2DTiledExtent(Width / 4, Height / 4, BlockSize);
+			}
+			//Console.WriteLine("{0} - {1}", ExpectedBlockCount, UsedBlockCount);
+
+			var BlockCount = RealUsedBlockCount;
+			//var BlockCount = ExpectedBlockCount;
+
 			var Blocks = File.ReadStructVector<TBlock>((uint)BlockCount);
+
+			//Console.WriteLine(Blocks.Length);
 
 			for (int BlockN = 0; BlockN < BlockCount; BlockN++)
 			{
@@ -137,12 +155,22 @@ namespace TalesOfVesperiaUtils.Imaging
 					Console.Error.Write("(Not implemented!)");
 				}
 
+				// Skip blocks.
+				if (TileX >= BlockWidth || TileY >= BlockHeight)
+				{
+					continue;
+				}
+
 				DecodeBlock(ref Blocks[BlockN], ref CurrentDecodedColors);
+
+				//Console.WriteLine("{0}", CurrentDecodedColors[0]);
 
 				int PositionX = TileX * 4;
 				int PositionY = TileY * 4;
 
-				if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height))
+				var BlockBitmap = BitmapList.Bitmaps[TileZ];
+
+				if ((PositionX + 3 >= BlockBitmap.Width) || (PositionY + 3 >= BlockBitmap.Height))
 				{
 					Console.Error.WriteLine(
 						"(Warning! [Read] Position outside ({0}, {1}) - ({2}x{3}) ;; ({4}, {5})) - ({6}x{7}) ;; {8}",

@@ -17,6 +17,13 @@ namespace Txm
 		/// <summary>
 		/// 
 		/// </summary>
+		[Command("-o", "--overwrite")]
+		[Description("Overwrites existent files when extracting")]
+		protected bool Overwrite = false;
+
+		/// <summary>
+		/// 
+		/// </summary>
 		/// <param name="_TxmPath"></param>
 		/// <param name="OutputDirectory"></param>
 		[Command("-u", "--unpack")]
@@ -56,11 +63,10 @@ namespace Txm
 			{
 				var ImageEntryFileName = OutputDirectory + Path.DirectorySeparatorChar + BaseFileName + "." + ImageEntry.Name + ".png";
 				Console.Write("  {0}.png : {1}...", ImageEntry.Name, ImageEntry.ImageEntry.ImageFileFormat.TextureFormat);
-				//
-				Console.WriteLine(ImageEntry.ImageEntry);
+				// Console.WriteLine(ImageEntry.ImageEntry);
 				try
 				{
-					if (!File.Exists(ImageEntryFileName))
+					if (Overwrite || !File.Exists(ImageEntryFileName))
 					{
 						ImageEntry.Bitmap.Save(ImageEntryFileName);
 						Console.WriteLine("Ok");
@@ -83,7 +89,7 @@ namespace Txm
 
 				Console.Write("  {0}...", ImageEntry.Name);
 
-				if (!File.Exists(ImageEntryFileNameTest))
+				if (Overwrite || !File.Exists(ImageEntryFileNameTest))
 				{
 					int n = 0;
 					foreach (var Bitmap in ImageEntry.Bitmaps.Bitmaps)
@@ -94,7 +100,7 @@ namespace Txm
 
 						try
 						{
-							if (!File.Exists(ImageEntryFileName))
+							if (Overwrite || !File.Exists(ImageEntryFileName))
 							{
 								Bitmap.Save(ImageEntryFileName);
 								Console.WriteLine("Ok");
