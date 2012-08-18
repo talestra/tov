@@ -73,6 +73,7 @@ namespace TalesOfVesperiaUtils.Imaging
 		protected override void DecodeBlock(ref DXT1.ColorBlock Block, ref ARGB_Rev[] Colors)
 		{
 			Block.Decode(ref Colors);
+			for (int n = 0; n < 16; n++) Colors[n].A = 0xFF;
 		}
 	}
 }

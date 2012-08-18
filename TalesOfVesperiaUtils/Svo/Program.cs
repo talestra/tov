@@ -62,6 +62,19 @@ namespace Svo
 		[Example("-e file.svo <folder>")]
 		protected void ExtractSvo(string SvoPath, string OutputDirectory = null)
 		{
+			var BasePath = Path.GetDirectoryName(SvoPath);
+			if (BasePath == "") BasePath = ".";
+
+			if (SvoPath.Contains("*"))
+			{
+				var Pattern = Path.GetFileName(SvoPath);
+				foreach (var File in Directory.EnumerateFiles(BasePath, Pattern))
+				{
+					ExtractSvo(File, null);
+				}
+				return;
+			}
+
 			if (OutputDirectory == null)
 			{
 				OutputDirectory = SvoPath + ".d";
@@ -70,26 +83,34 @@ namespace Svo
 			try { Directory.CreateDirectory(OutputDirectory); }
 			catch { }
 
-			using (var Stream = File.OpenRead(SvoPath))
+			Console.WriteLine("Loading {0}...", SvoPath);
+			try
 			{
-				if (Stream.SliceWithLength().ReadString(7) == "TO8SCEL")
+				using (var Stream = File.OpenRead(SvoPath))
 				{
-					var TO8SCEL = new TO8SCEL(Stream);
-
-					foreach (var Entry in TO8SCEL)
+					if (Stream.SliceWithLength().ReadString(7) == "TO8SCEL")
 					{
-						_ExtractFile(OutputDirectory + "/" + Entry.Index, () => Entry.UncompressedStream);
+						var TO8SCEL = new TO8SCEL(Stream);
+
+						foreach (var Entry in TO8SCEL)
+						{
+							_ExtractFile(OutputDirectory + "/" + Entry.Index, () => Entry.UncompressedStream);
+						}
+					}
+					else
+					{
+						var FPS4 = new FPS4(Stream);
+
+						foreach (var Entry in FPS4)
+						{
+							_ExtractFile(OutputDirectory + "/" + Entry.Name, () => Entry.Open());
+						}
 					}
 				}
-				else
-				{
-					var FPS4 = new FPS4(Stream);
-
-					foreach (var Entry in FPS4)
-					{
-						_ExtractFile(OutputDirectory + "/" + Entry.Name, () => Entry.Open());
-					}
-				}
+			}
+			catch (Exception Exception)
+			{
+				Console.Error.WriteLine("{0}", Exception);
 			}
 		}
 
