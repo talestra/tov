@@ -41,7 +41,16 @@ namespace TalesOfVesperiaUtils.Imaging
 
 				int BlockWidth = Width / 4;
 				int BlockHeight = Height / 4;
-				var BlockCount = BlockWidth * BlockHeight;
+				
+				//var BlockCount = BlockWidth * BlockHeight;
+				var ExpectedBlockCount = BlockWidth * BlockHeight;
+				int RealUsedBlockCount;
+
+				RealUsedBlockCount = Swizzling.XGAddress2DTiledExtent(Width / 4, Height / 4, BlockSize);
+				//Console.WriteLine("{0} - {1}", ExpectedBlockCount, UsedBlockCount);
+
+				var BlockCount = RealUsedBlockCount;
+
 				var CurrentDecodedColors = new ARGB_Rev[4 * 4];
 				var Blocks = new TBlock[(uint)BlockCount];
 
@@ -110,8 +119,8 @@ namespace TalesOfVesperiaUtils.Imaging
 			int BlockWidth = Width / 4;
 			int BlockHeight = Height / 4;
 			var CurrentDecodedColors = new ARGB_Rev[4 * 4];
-			var ExpectedBlockCount = BlockWidth * BlockHeight * Depth;
 
+			var ExpectedBlockCount = BlockWidth * BlockHeight * Depth;
 			int RealUsedBlockCount;
 
 			if (Is3D)

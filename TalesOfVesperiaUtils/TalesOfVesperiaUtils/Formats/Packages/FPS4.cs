@@ -317,7 +317,11 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				var IndexName = String.Format("{0}", n);
 				var Name = "";
 				uint MappedFileIndex = 0;
+				uint StringOffset = 0;
 
+				// @TODO: EntryFormat probably is a bitfield
+				//        or a composed enum + bit field
+				//        I don't know the bit mapping.
 				switch ((int)Header.EntryFormat)
 				{
 					case 0x8D:
@@ -326,8 +330,24 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 						Name = EntryStream.ReadStringz(0x20);
 						MappedFileIndex = EntryStream.ReadStruct<uint_be>();
 						break;
+					case 0x47:
+						{
+							EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+							StringOffset = EntryStream.ReadStruct<uint_be>();
+							Name = EntryStream.SliceWithLength(StringOffset, 0x1000).ReadStringz();
+							//Console.WriteLine(Name);
+						}
+						break;
+					case 0x4F:
+						{
+							EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+							Name = EntryStream.ReadStringz(0x20);
+							MappedFileIndex = EntryStream.ReadStruct<uint_be>();
+						}
+						break;
 					default:
 						EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+						Name = EntryStream.ReadStringz(ExtraEntrySizeof);
 
 						switch (ExtraEntrySizeof)
 						{
@@ -337,9 +357,9 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 								break;
 							case 4:
 								{
-									var Offset = EntryStream.ReadStruct<uint>();
+									StringOffset = EntryStream.ReadStruct<uint>();
 									// Pointer to string name.
-									if (Offset != 0)
+									if (StringOffset != 0)
 									{
 										throw (new NotImplementedException());
 									}
@@ -373,7 +393,14 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				var Entry = new Entry(this, EntryStruct, Name);
 				Entry.MappedFileIndex = MappedFileIndex;
 				Entry.Index = n;
-				Entries.Add(IndexName, Entry);
+				if (Entries.ContainsKey(Name))
+				{
+					Console.Error.WriteLine("Warning: Name '{0}' already contained", Name);
+				}
+				else
+				{
+					Entries.Add(Name, Entry);
+				}
 			}
 		}
 

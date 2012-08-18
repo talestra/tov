@@ -143,7 +143,9 @@ Los BTL_PACK son un SVO sin nombres, así que los archivos se referencian por índ
 	- El de índice "0" contiene archivitos "T8BTMO  ". Posiblemente con información sobre los monstruos.
 	- El de índice "1" contiene archivitos "T8BTAT  "
 	- El de índice "2" contiene archivitos "T8BTSL  " 
-	- El de índice "3", es el más grande de los archivos. No he mirado aún lo que contiene. Quizá modelos y texturas.
+	- El de índice "3", es el más grande de los archivos.
+	  Contiene archivos dentro con todas las batallas del juego. Algunas de ellas contienen texto.
+	  Las que tienen texto están referenciadas en el tov.json
 	- El de índice "4" contiene un "T8BTMA  "
 	- El de índice "5" contiene un "T8BTEMST"
 	- El de índice "6" contiene un "T8BTEMGP"
@@ -179,7 +181,13 @@ COMMON.SVO
 - REGION contiene "ENGLISH"
 - EVENTMAPDEF.DAT contiene información FOG de los mapas.
 
-Nada relevante para la traducción.
+El TEXTURE.DAT contiene algunas imágenes con texto:
+- "PAUSE"
+- "NOW LOADING"
+- "SURPRISE ENCOUNT!"
+- "ENCOUNT LINK!"
+- "ADVANTAGE LINK!"
+- "Great!"
 	
 --------
 COOK.SVO
@@ -246,6 +254,11 @@ MAP.SVO
   
   El único archivo relevante es el SCENARIO.DAT y para no tener que regenerar el
   archivo este entero, conviene que el SCENARIO.DAT ocupe menos que el original.
+  
+  Nota:
+  También hay varios archivos interesantes para la traducción:
+  - TITLETEX.DAT
+  Contienen las texturas de Namco Bandai, etc.
 
 ----------------
 MAP/SCENARIO.DAT
