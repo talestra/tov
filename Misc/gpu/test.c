@@ -20,7 +20,7 @@ void test_offset() {
 	int depth = 1;
 	int texelpitch = 16;
 	
-	printf("size: %d\n", XGAddress2DTiledExtent(width, height, texelpitch));
+	//printf("size: %d\n", XGAddress2DTiledExtent(width, height, texelpitch));
 
 	for (y = 0; y < 16; y++) {
 		for (x = 0; x < 16; x++) {

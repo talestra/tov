@@ -130,6 +130,8 @@ Dentro tienen 5 archivos, excepto el CHATNO999.DAT que tiene 4 archivos y que ad
 		- TalesOfVesperiaTests.TO8CHTXTest
 	- El archivo con índice "4" es un archivo de audio. ¿Un XACT?
 Nota: Los títulos de las skits están en otros archivos.
+Nota: Si se hace relinking, este archivo pasa de ocupar 1.1GB a ocupar 270MB. Esto es porque en todos los
+      archivos se duplica el archivo de audio y todas las texturas y ocupa en total bastante.
 
 ------
 BTL.SVO

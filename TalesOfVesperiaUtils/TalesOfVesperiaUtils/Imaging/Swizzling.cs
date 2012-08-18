@@ -18,6 +18,58 @@ namespace TalesOfVesperiaUtils.Imaging
 		}
 
 		/// <summary>
+		/// Determine the amount of memory occupied by a tiled 2D surface to the 
+		/// granularity of a matte (subtile).  The returned size refers to the
+		/// largest tiled offset potentially referenced in the surface and is 
+		/// measured in texels/blocks.
+		/// </summary>
+		/// <param name="Width">Width of the image in texels/blocks</param>
+		/// <param name="Height">Height of the image in texels/blocks</param>
+		/// <param name="TexelPitch">Size of an image texel/block in bytes</param>
+		/// <returns></returns>
+		static public int XGAddress2DTiledExtent(int Width, int Height, int TexelPitch)
+		{
+			// @TODO: Unoptimized! VERY SLOW!
+			int MaxOffset = 0;
+			for (int y = 0; y < Height; y++)
+			{
+				for (int x = 0; x < Width; x++)
+				{
+					MaxOffset = Math.Max(MaxOffset, XGAddress2DTiledOffset(x, y, Width, TexelPitch));
+				}
+			}
+			return MaxOffset + 1;
+		}
+
+		/// <summary>
+		/// Determine the amount of memory occupied by a tiled 3D volume to the 
+		/// granularity of a matte (subtile). The returned size refers to the
+		/// largest tiled offset potentially referenced in the volume and is 
+		/// measured in texels/blocks.
+		/// </summary>
+		/// <param name="Width">Width of a volume slice in texels/blocks</param>
+		/// <param name="Height">Height of a volume slice in texels/blocks</param>
+		/// <param name="Depth">Depth of a volume slice in texels/blocks</param>
+		/// <param name="TexelPitch">Size of a volume texel/block in bytes</param>
+		/// <returns></returns>
+		static public int XGAddress3DTiledExtent(int Width, int Height, int Depth, int TexelPitch)
+		{
+			// @TODO: Unoptimized! VERY SLOW!
+			int MaxOffset = 0;
+			for (int z = 0; z < Depth; z++)
+			{
+				for (int y = 0; y < Height; y++)
+				{
+					for (int x = 0; x < Width; x++)
+					{
+						MaxOffset = Math.Max(MaxOffset, XGAddress3DTiledOffset(x, y, z, Width, Height, TexelPitch));
+					}
+				}
+			}
+			return MaxOffset + 1;
+		}
+
+		/// <summary>
 		/// 
 		/// </summary>
 		/// <param name="Offset"></param>
@@ -29,6 +81,74 @@ namespace TalesOfVesperiaUtils.Imaging
 		{
 			OutX = Offset % Width;
 			OutY = Offset / Width;
+		}
+
+		/// <summary>
+		/// Translate the address of a surface texel/block from 2D array coordinates into 
+		/// a tiled memory offset measured in texels/blocks.
+		/// </summary>
+		/// <param name="x">x coordinate of the texel/block</param>
+		/// <param name="y">y coordinate of the texel/block</param>
+		/// <param name="Width">Width of the image in texels/blocks</param>
+		/// <param name="TexelPitch">Size of an image texel/block in bytes</param>
+		/// <returns></returns>
+		static public int XGAddress2DTiledOffset(int x, int y, int Width, int TexelPitch)
+		{
+			int AlignedWidth;
+			int LogBpp;
+			int Macro;
+			int Micro;
+			int Offset;
+
+			//XGASSERT(Width <= 8192); // Width in memory must be less than or equal to 8K texels
+			//XGASSERT(x < Width);
+
+			AlignedWidth = (Width + 31) & ~31;
+			LogBpp       = XGLog2LE16(TexelPitch);
+			Macro        = ((x >> 5) + (y >> 5) * (AlignedWidth >> 5)) << (LogBpp + 7);
+			Micro        = (((x & 7) + ((y & 6) << 2)) << LogBpp);
+			Offset       = Macro + ((Micro & ~15) << 1) + (Micro & 15) + ((y & 8) << (3 + LogBpp)) + ((y & 1) << 4);
+
+			return (((Offset & ~511) << 3) + ((Offset & 448) << 2) + (Offset & 63) + 
+					((y & 16) << 7) + (((((y & 8) >> 2) + (x >> 3)) & 3) << 6)) >> LogBpp;
+		}
+
+		/// <summary>
+		/// Translate the address of a volume texel/block from 3D array coordinates into 
+		/// a tiled memory offset measured in texels/blocks.
+		/// </summary>
+		/// <param name="x">x coordinate of the texel/block</param>
+		/// <param name="y">y coordinate of the texel/block</param>
+		/// <param name="z">z coordinate of the texel/block</param>
+		/// <param name="Width">Width of a volume slice in texels/blocks</param>
+		/// <param name="Height">Height of a volume slice in texels/blocks</param>
+		/// <param name="TexelPitch">Size of a volume texel/block in bytes</param>
+		/// <returns></returns>
+		static public int XGAddress3DTiledOffset(int x, int y, int z, int Width, int Height, int TexelPitch)
+		{
+			int AlignedWidth;
+			int AlignedHeight;
+			int LogBpp;
+			int Macro;
+			int Micro;
+			long Offset1;
+			long Offset2;
+
+			//XGASSERT(Width <= 2048); // Width in memory must be less than or equal to 2K texels
+			//XGASSERT(Height <= 2048); // Height in memory must be less than or equal to 2K texels
+			//XGASSERT(x < Width);
+			//XGASSERT(y < Height);
+
+			AlignedWidth  = (Width + 31) & ~31;
+			AlignedHeight = (Height + 31) & ~31;
+			LogBpp        = XGLog2LE16(TexelPitch);
+			Macro         = ((z >> 2) * (AlignedHeight >> 4) + (y >> 4)) * (AlignedWidth >> 5) + (x >> 5);
+			Micro         = (((y & 6) << 2) + (x & 7)) << LogBpp;
+			Offset1       = (long)(((long)Macro << (8 + LogBpp)) + ((long)(Micro & ~15) << 1) + (long)(Micro & 15) + ((long)(z & 3) << (6 + LogBpp)) + ((long)(y & 1) << 4));
+			Offset2       = (long)(((z >> 2) + (y >> 3)) & 1);
+
+			return (int)((((Offset1 & ~511L) << 3) + ((Offset1 & 448L) << 2) + (Offset1 & 63L) + 
+					(Offset2 << 11) + ((((Offset2 << 1) + (x >> 3)) & 3L) << 6)) >> LogBpp);
 		}
 
 		/// <summary>

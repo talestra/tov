@@ -109,6 +109,12 @@ namespace TalesOfVesperiaUtils.Imaging
 			[FieldOffset(0x0014)]
 			public uint_be StringOffset;
 
+			/// <summary>
+			/// 
+			/// </summary>
+			[FieldOffset(0x0018)]
+			public uint_be ContentOffset;
+
 			public override string ToString()
 			{
 				return String.Format(
@@ -167,6 +173,12 @@ namespace TalesOfVesperiaUtils.Imaging
 			[FieldOffset(0x0018)]
 			public uint_be StringOffset;
 
+			/// <summary>
+			/// 
+			/// </summary>
+			[FieldOffset(0x001C)]
+			public uint_be ContentOffset;
+
 			public override string ToString()
 			{
 				return String.Format(
@@ -184,7 +196,8 @@ namespace TalesOfVesperiaUtils.Imaging
 			public readonly int Index;
 			protected Stream SliceStream;
 
-			virtual public int TotalBytes { get { return 0; } }
+			abstract public int TotalBytes { get; }
+			abstract public int ContentOffset { get; }
 
 			public SurfaceEntryInfo(TXM TXM, int Index, InfoStruct ImageEntry, string Name)
 			{
@@ -194,7 +207,9 @@ namespace TalesOfVesperiaUtils.Imaging
 				this.Name = Name;
 				
 				//Console.WriteLine("{0}: {1}", Index, "%08X".Sprintf(TXM.TXVStream.Position));
-				this.SliceStream = TXM.TXVStream.ReadStream(TotalBytes);
+				//this.SliceStream = TXM.TXVStream.ReadStream(TotalBytes);
+				//Console.WriteLine(ContentOffset);
+				this.SliceStream = TXM.TXVStream.SliceWithLength(ContentOffset, TotalBytes);
 			}
 		}
 
@@ -244,13 +259,38 @@ namespace TalesOfVesperiaUtils.Imaging
 					return GpuUtils.g_XGTextureFormatBitsPerPixel[(int)ImageEntry.ImageFileFormat.TextureFormat];
 				}
 			}
+			public bool Swizzled { get { return true; } }
 			public int Stride { get { return BitsPerPixel * Width / 8; } }
-			override public int TotalBytes { get { return Stride * Height * Depth; } }
+			override public int TotalBytes { get
+			{
+				if (Swizzled)
+				{
+					if (ImageEntry.ImageFileFormat.TextureFormat == GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5)
+					{
+						return Swizzling.XGAddress3DTiledExtent(Width / 4, Height / 4, Depth, 16) * 16;
+					}
+					else
+					{
+						//throw(new NotImplementedException("Can't get TotalBytes!"));
+					}
+				}
+				return Stride * Height * Depth;
+			} }
+
+			public override int ContentOffset
+			{
+				get { return (int)(uint)ImageEntry.ContentOffset; }
+			}
 		}
 
 		public class Surface2DEntryInfo : SurfaceEntryInfo<Surface2DInfoStruct>
 		{
 			private Bitmap _Bitmap;
+
+			public override int ContentOffset
+			{
+				get { return (int)(uint)ImageEntry.ContentOffset; }
+			}
 
 			public Surface2DEntryInfo(TXM TXM, int Index, Surface2DInfoStruct ImageEntry, string Name)
 				: base(TXM, Index, ImageEntry, Name)
@@ -270,8 +310,22 @@ namespace TalesOfVesperiaUtils.Imaging
 			public int Width { get { return (int)(uint)ImageEntry.Width; } }
 			public int Height { get { return (int)(uint)ImageEntry.Height; } }
 			public int BitsPerPixel { get { return GpuUtils.g_XGTextureFormatBitsPerPixel[(int)ImageEntry.ImageFileFormat.TextureFormat]; } }
+			public bool Swizzled { get { return true; } }
 			public int Stride { get { return BitsPerPixel * Width / 8; } }
-			override public int TotalBytes { get { return Stride * Height; } }
+			override public int TotalBytes { get {
+				if (Swizzled)
+				{
+					if (ImageEntry.ImageFileFormat.TextureFormat == GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5)
+					{
+						return Swizzling.XGAddress2DTiledExtent(Width / 4, Height / 4, 16) * 16;
+					}
+					else
+					{
+						//throw (new NotImplementedException("Can't get TotalBytes!"));
+					}
+				}
+				return Stride * Height;
+			} }
 
 			private void _GenerateBitmapDecode(Bitmap Bitmap, Func<byte[], int, ARGB_Rev> Decode)
 			{
