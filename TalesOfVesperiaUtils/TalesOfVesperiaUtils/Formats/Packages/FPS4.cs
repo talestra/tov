@@ -367,7 +367,8 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 								break;
 							default:
 								{
-									IndexName = Name = EntryStream.ReadStringz(ExtraEntrySizeof);
+                                    EntryStream.Position = EntryStream.Length - ExtraEntrySizeof;  // (0xC para common.svo y btl.svo, en los otros no sé) --- Apaño temporal
+                                    IndexName = Name = EntryStream.ReadStringz(ExtraEntrySizeof);
 								}
 								break;
 						}

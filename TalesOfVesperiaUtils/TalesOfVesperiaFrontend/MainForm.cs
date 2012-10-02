@@ -20,5 +20,15 @@ namespace TalesOfVesperiaFrontend
 		{
 			new AboutForm().ShowDialog();
 		}
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog ODlg = new OpenFileDialog();
+            ODlg.Filter = "Archivos ISO (*.iso)|*.iso|Todos los archivos (*.*)|*.*";
+            ODlg.Title = "Elige la ISO de la versión PAL del Tales of Vesperia";
+            if (ODlg.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
+
+
+        }
 	}
 }
