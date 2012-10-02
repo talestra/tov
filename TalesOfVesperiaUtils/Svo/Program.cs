@@ -84,8 +84,8 @@ namespace Svo
 			catch { }
 
 			Console.WriteLine("Loading {0}...", SvoPath);
-			try
-			{
+			//try
+			//{
 				using (var Stream = File.OpenRead(SvoPath))
 				{
 					if (Stream.SliceWithLength().ReadString(7) == "TO8SCEL")
@@ -107,11 +107,11 @@ namespace Svo
 						}
 					}
 				}
-			}
-			catch (Exception Exception)
-			{
-				Console.Error.WriteLine("{0}", Exception);
-			}
+			//}
+			//catch (Exception Exception)
+			//{
+			//	Console.Error.WriteLine("{0}", Exception);
+			//}
 		}
 
 		/// <summary>
