@@ -288,12 +288,15 @@ namespace TalesOfVesperiaUtils.Compression.C
 
 				do
 				{
+                    Console.WriteLine("aaaaa: " + new IntPtr(insplb));
 					if (version >= 3)
 					{
 						if (insplb - inspb <= 0)
 						{
 							insplb = inspb + 1;
+                            Console.WriteLine("a");
 							while ((insplb < inst) && (*insplb == *inspb)) insplb++;
+                            Console.WriteLine("b");
 						}
 
 						dup_match_length = (int)(insplb - inspb);
@@ -348,6 +351,7 @@ namespace TalesOfVesperiaUtils.Compression.C
 						code_buf[code_buf_ptr++] = text_buf[r];
 					}
 
+                    Console.WriteLine("c");
 					if ((mask <<= 1) == 0) {
 						for (i = 0; i < code_buf_ptr; i++) {
 							if (ousp >= oust) { error = SUCCESS; goto _cleanup; }
@@ -356,20 +360,27 @@ namespace TalesOfVesperiaUtils.Compression.C
 						State.codesize += code_buf_ptr;
 						code_buf[0] = 0x00; code_buf_ptr = mask = 1;
 					}
+                    Console.WriteLine("d");
 
 					last_match_length = State.match_length;
 					for (i = 0; i < last_match_length; i++)
 					{
 						if (insp >= inst) break;
+
+                        Console.Write("[{0}]", i);
 						c = *(insp++);
 						DeleteNode(State, s); text_buf[s] = (byte)c;
+                        Console.Write(";");
 
 						if (s < State.F - 1) text_buf[s + WindowSize] = (byte)c;
 
 						s = (s + 1) & (WindowSize - 1);  r = (r + 1) & (WindowSize - 1);
 						inspb++;
 						InsertNode(State, r);
+                        Console.Write(":");
 					}
+
+                    Console.WriteLine("e");
 
 					State.textsize += i;
 
@@ -378,7 +389,11 @@ namespace TalesOfVesperiaUtils.Compression.C
 						inspb++;
 						if (--len > 0) InsertNode(State, r);
 					}
+
+                    Console.WriteLine("f");
 				} while (len > 0);
+
+                Console.WriteLine("bbbbbbbbb");
 
 				if (code_buf_ptr > 1) {
 					for (i = 0; i < code_buf_ptr; i++) {
@@ -403,6 +418,8 @@ namespace TalesOfVesperiaUtils.Compression.C
 					Console.Error.WriteLine("(insp != inst) ({0} != {1})\n", (uint)insp, (uint)inst);
 					ThrowError(ERROR_BAD_INPUT);
 				}
+
+                Console.WriteLine("bbbbbbbbb");
 
 				return SUCCESS;
 			}

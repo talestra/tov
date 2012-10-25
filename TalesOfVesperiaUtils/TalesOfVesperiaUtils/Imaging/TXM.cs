@@ -233,7 +233,7 @@ namespace TalesOfVesperiaUtils.Imaging
 				switch (ImageEntry.ImageFileFormat.TextureFormat)
 				{
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
-					//case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
+					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
 						return (new DXT5()).LoadSwizzled3D(this.SliceStream, Width, Height, Depth, this.Tiled);
 
 					default:

@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using CSharpUtils.Getopt;
 using TalesOfVesperiaUtils.Compression;
+using TalesOfVesperiaUtils.Compression.C;
 
 namespace CompTov
 {
@@ -14,11 +15,11 @@ namespace CompTov
 	/// </summary>
 	class Program : GetoptCommandLineProgram
 	{
-		/// <summary>
-		/// 
-		/// </summary>
-		/// <param name="SvoPath"></param>
-		/// <param name="OutputDirectory"></param>
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="CompressedFile"></param>
+        /// <param name="UncompressedFile"></param>
 		[Command("-d", "--decompress")]
 		[Description("Decompresses a file")]
 		[Example("-d file.bin <file.bin.u>")]
@@ -54,6 +55,7 @@ namespace CompTov
 			}
 
 			if (UncompressedFile == null) UncompressedFile = CompressedFile + ".u";
+            if (CompressedFile == UncompressedFile) throw(new Exception("Compressed and uncompressed files can't be the same"));
 
 			Console.Write("{0} -> {1}...", CompressedFile, UncompressedFile);
 
@@ -72,6 +74,34 @@ namespace CompTov
 				Console.WriteLine("Error({0})", Exception.Message);
 			}
 		}
+
+        [Command("-c", "--compress")]
+        [Description("Compresses a file")]
+        [Example("-c 3 file.bin.u <file.bin>")]
+        protected void CompressFile(int Version, string UncompressedFile, string CompressedFile = null)
+        {
+            if (CompressedFile == null) CompressedFile = String.Format("{0}.c", UncompressedFile);
+            var Compression = TalesCompression.CreateFromVersion(Version);
+
+            if (CompressedFile == UncompressedFile) throw (new Exception("Compressed and uncompressed files can't be the same"));
+
+            Console.Write("{0} -> {1}...", UncompressedFile, CompressedFile);
+
+            var Uncompressed = File.ReadAllBytes(UncompressedFile);
+            var Compressed = complib.Encode(3, Uncompressed);
+            File.WriteAllBytes(CompressedFile, Compressed);
+
+            /*
+            using (var In = File.OpenRead(UncompressedFile))
+            using (var Out = File.Open(CompressedFile, FileMode.Create, FileAccess.Write, FileShare.None))
+            {
+                Compression.EncodeFile(In, Out);
+            }
+            */
+            Console.WriteLine("Ok");
+            //Console.WriteLine(Version);
+        }
+
 
 		/// <summary>
 		/// 

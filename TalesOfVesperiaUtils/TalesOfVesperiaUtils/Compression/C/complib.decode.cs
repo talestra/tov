@@ -71,6 +71,8 @@ namespace TalesOfVesperiaUtils.Compression.C
 							goto _cleanup;
 						}
 
+						Console.WriteLine("BYTE(0x{0:X2}) : r=0x{1:X3}", Current, r);
+						
 						*(OutputCurrent++) = (byte)Current;
 
 						Window[r++] = (byte)Current;
@@ -78,10 +80,8 @@ namespace TalesOfVesperiaUtils.Compression.C
 						continue;
 					}
 
-					if (InputCurrent >= InputEnd) break;
+					if (InputCurrent + 1 >= InputEnd) break;
 					i = *(InputCurrent++);
-
-					if (InputCurrent >= InputEnd) break;
 					j = *(InputCurrent++);
 
 					i |= (j & 0xf0) << 4;
@@ -89,6 +89,7 @@ namespace TalesOfVesperiaUtils.Compression.C
 
 					if (version == 1 || j < (State.F))
 					{
+						Console.WriteLine("LZ(offset=0x{0:X3}, length={1}) : r=0x{2:X3}", i, j + 1, r);
 						for (k = 0; k <= j; k++)
 						{
 							Current = Window[(i + k) % WindowSize];
@@ -107,7 +108,8 @@ namespace TalesOfVesperiaUtils.Compression.C
 
 					if (i < 0x100)
 					{
-						if (InputCurrent >= InputEnd) break; j = *(InputCurrent++);
+						if (InputCurrent >= InputEnd) break;
+						j = *(InputCurrent++);
 						i += (uint)(State.F + 1);
 					}
 					else
@@ -116,6 +118,7 @@ namespace TalesOfVesperiaUtils.Compression.C
 						i = (uint)((i >> 8) + State.T);
 					}
 
+					Console.WriteLine("RLE(byte=0x{0:X2}, length={1}) : r=0x{2:X3}", (byte)j, i + 1, r);
 					for (k = 0; k <= i; k++)
 					{
 						if (OutputCurrent >= OutputEnd)
