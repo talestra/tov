@@ -61,13 +61,15 @@ namespace CompTov
 
 			try
 			{
+				var Start = DateTime.UtcNow;
 				using (var CompressedStream = File.OpenRead(CompressedFile))
 				using (var UncompressedStream = File.Open(UncompressedFile, FileMode.Create, FileAccess.Write, FileShare.None))
 				{
 					var Compression = TalesCompression.CreateFromStart(CompressedStream.SliceWithLength().ReadBytes(0x10));
 					Compression.DecodeFile(CompressedStream, UncompressedStream);
 				}
-				Console.WriteLine("Ok");
+				var End = DateTime.UtcNow;
+				Console.WriteLine("Ok({0})", (End - Start).TotalSeconds);
 			}
 			catch (Exception Exception)
 			{
@@ -87,20 +89,64 @@ namespace CompTov
 
             Console.Write("{0} -> {1}...", UncompressedFile, CompressedFile);
 
-            var Uncompressed = File.ReadAllBytes(UncompressedFile);
-            var Compressed = complib.Encode(3, Uncompressed);
-            File.WriteAllBytes(CompressedFile, Compressed);
+            //var Uncompressed = File.ReadAllBytes(UncompressedFile);
+			//TalesCompression.CreateFromVersion(1).EncodeFile();
+            //var Compressed = complib.Encode(3, Uncompressed);
+            //File.WriteAllBytes(CompressedFile, Compressed);
 
-            /*
+			var Start = DateTime.UtcNow;
             using (var In = File.OpenRead(UncompressedFile))
             using (var Out = File.Open(CompressedFile, FileMode.Create, FileAccess.Write, FileShare.None))
             {
                 Compression.EncodeFile(In, Out);
             }
-            */
-            Console.WriteLine("Ok");
+			var End = DateTime.UtcNow;
+
+			Console.WriteLine("Ok({0})", (End - Start).TotalSeconds);
             //Console.WriteLine(Version);
         }
+
+		[Command("-t", "--test")]
+		[Description("Test compression")]
+		[Example("-t 1 file.bin")]
+		protected void CompressFile(int Version, string UncompressedFile)
+		{
+			try
+			{
+				var Start = DateTime.UtcNow;
+				var Compression = TalesCompression.CreateFromVersion(Version);
+				var Uncompressed = File.ReadAllBytes(UncompressedFile);
+				var Compressed = Compression.EncodeBytes(Uncompressed);
+				var Uncompressed2 = Compression.DecodeBytes(Compressed);
+				if (Uncompressed.Length != Uncompressed2.Length)
+				{
+					Console.Error.WriteLine("Length mismatch {0} != {1}", Uncompressed.Length, Uncompressed2.Length);
+				}
+
+				var Offsets = new List<int>();
+				for (int n = 0; n < Uncompressed.Length; n++)
+				{
+					if (Uncompressed[n] != Uncompressed2[n]) Offsets.Add(n);
+				}
+
+				if (Offsets.Count > 0)
+				{
+					foreach (var Offset in Offsets.Take(100))
+					{
+						Console.Error.WriteLine(" {0:X8}: {1:X2} != {2:X2}", Offset, Uncompressed[Offset], Uncompressed2[Offset]);
+					}
+					if (Offsets.Count > 100) Console.WriteLine(" ...");
+					throw (new Exception(String.Format("Mismatches: [{0}], {1}", String.Join(",", Offsets.Take(100)), Offsets.Count)));
+				}
+
+				var End = DateTime.UtcNow;
+				Console.WriteLine("Ok({0})", (End - Start).TotalSeconds);
+			}
+			catch (Exception Exception)
+			{
+				Console.WriteLine("Error({0})", Exception);
+			}
+		}
 
 
 		/// <summary>
@@ -109,6 +155,7 @@ namespace CompTov
 		/// <param name="args"></param>
 		static void Main(string[] args)
 		{
+			//args = new [] {"-c", "1", @"c:\temp\tsc.exe", @"c:\temp\tsc.exe.c1"};
 			new Program().Run(args);
 		}
 	}

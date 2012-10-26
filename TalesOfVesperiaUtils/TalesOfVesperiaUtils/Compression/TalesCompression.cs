@@ -13,17 +13,25 @@ namespace TalesOfVesperiaUtils.Compression
 	{
 		abstract public void EncodeFile(Stream InputStream, Stream OutputStream);
 		abstract public void DecodeFile(Stream InputStream, Stream OutputStream);
-
-		public Stream DecodeFile(Stream InputStream)
+		virtual public byte[] EncodeBytes(byte[] Uncompressed)
 		{
-			Stream OutputStream = new MemoryStream();
+			return EncodeFile(new MemoryStream(Uncompressed)).ToArray();
+		}
+		virtual public byte[] DecodeBytes(byte[] Compressed)
+		{
+			return DecodeFile(new MemoryStream(Compressed)).ToArray();
+		}
+
+		public MemoryStream DecodeFile(Stream InputStream)
+		{
+			var OutputStream = new MemoryStream();
 			DecodeFile(InputStream, OutputStream);
 			OutputStream.Position = 0;
 			return OutputStream;
 		}
-		public Stream EncodeFile(Stream InputStream)
+		public MemoryStream EncodeFile(Stream InputStream)
 		{
-			Stream OutputStream = new MemoryStream();
+			var OutputStream = new MemoryStream();
 			EncodeFile(InputStream, OutputStream);
 			OutputStream.Position = 0;
 			return OutputStream;
