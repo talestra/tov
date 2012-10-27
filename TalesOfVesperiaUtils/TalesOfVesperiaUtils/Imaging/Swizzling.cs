@@ -84,6 +84,19 @@ namespace TalesOfVesperiaUtils.Imaging
 		}
 
 		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="x"></param>
+		/// <param name="y"></param>
+		/// <param name="Width"></param>
+		/// <param name="TexelPitch"></param>
+		/// <returns></returns>
+		static public int UnswizzledOffset(int x, int y, int Width, int TexelPitch)
+		{
+			return (x * Width + y);
+		}
+
+		/// <summary>
 		/// Translate the address of a surface texel/block from 2D array coordinates into 
 		/// a tiled memory offset measured in texels/blocks.
 		/// </summary>

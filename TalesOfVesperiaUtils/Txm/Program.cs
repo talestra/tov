@@ -94,8 +94,8 @@ namespace Txm
 					}
 					catch (Exception Exception)
 					{
-						Console.WriteLine("Error");
-						Console.Error.WriteLine(Exception);
+						Console.WriteLine("Error({0})", Exception.Message);
+						//Console.Error.WriteLine(Exception);
 					}
 				}
 
@@ -128,8 +128,8 @@ namespace Txm
 							}
 							catch (Exception Exception)
 							{
-								Console.WriteLine("Error");
-								Console.Error.WriteLine(Exception);
+								Console.WriteLine("Error({0})", Exception.Message);
+								//Console.Error.WriteLine(Exception);
 							}
 							n++;
 						}

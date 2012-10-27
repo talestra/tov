@@ -57,8 +57,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Compression\CAB\CABUtils.cs" />
-    <Compile Include="Compression\C\complib.cs" />
-    <Compile Include="Compression\C\complib.decode.cs" />
     <Compile Include="Compression\C\lzx_vesp.cs" />
     <Compile Include="Compression\LzxCompression.cs" />
     <Compile Include="Compression\TalesCompression.cs" />
@@ -92,6 +90,7 @@
     <Compile Include="Text\DetectPitfalls.cs" />
     <Compile Include="Text\TextProcessor.cs" />
     <Compile Include="VirtualFileSystem\Dvd9Xbox360FileSystem.cs" />
+    <Compile Include="VirtualFileSystem\FPS4FileSystem.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="CharacterMapping.xml">

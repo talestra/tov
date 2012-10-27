@@ -9,6 +9,7 @@ using System.Text;
 using CSharpUtils;
 using CSharpUtils.Drawing;
 using CSharpUtils.Endian;
+using TalesOfVesperiaUtils.Imaging.Internal;
 
 namespace TalesOfVesperiaUtils.Imaging
 {
@@ -199,6 +200,11 @@ namespace TalesOfVesperiaUtils.Imaging
 			abstract public int TotalBytes { get; }
 			abstract public int ContentOffset { get; }
 
+			public Stream Open()
+			{
+				return SliceStream.SliceWithLength();
+			}
+
 			public SurfaceEntryInfo(TXM TXM, int Index, InfoStruct ImageEntry, string Name)
 			{
 				this.TXM = TXM;
@@ -362,6 +368,73 @@ namespace TalesOfVesperiaUtils.Imaging
 				});
 			}
 
+			private void _GenerateBitmapEncode(Bitmap Bitmap, Action<byte[], ARGB_Rev> Encode)
+			{
+				int TotalBytes = Bitmap.Width * Bitmap.Height * BitsPerPixel / 8;
+				int BytesPerPixel = BitsPerPixel / 8;
+
+				Bitmap.LockBitsUnlock(PixelFormat.Format32bppArgb, (BitmapData) =>
+				{
+					int WidthHeight = Width * Height;
+					var Bytes = new byte[TotalBytes];
+					bool Tiled = this.Tiled;
+					var PixelBytes = new byte[BytesPerPixel];
+
+					var Base = (ARGB_Rev*)BitmapData.Scan0.ToPointer();
+
+					for (int y = 0; y < Height; y++)
+					{
+						for (int x = 0; x < Width; x++)
+						{
+							int n;
+
+							if (Tiled)
+							{
+								n = Swizzling.XGAddress2DTiledOffset(x, y, Width, BytesPerPixel);
+							}
+							else
+							{
+								n = Swizzling.UnswizzledOffset(x, y, Width, BytesPerPixel);
+							}
+
+							Encode(PixelBytes, Base[y * Width + x]);
+							Array.Copy(PixelBytes, 0, Bytes, n * BytesPerPixel, BytesPerPixel);
+						}
+					}
+
+					SliceStream.SliceWithLength().WriteBytes(Bytes);
+				});
+			}
+
+			public void UpdateBitmap(Bitmap Bitmap)
+			{
+				if (Bitmap.Width != Width || Bitmap.Height != Height) throw(new Exception(String.Format("Invalid dimensions {0}x{1} != {2}x{3}", Bitmap.Width, Bitmap.Height, Width, Height)));
+				
+				switch (ImageEntry.ImageFileFormat.TextureFormat)
+				{
+					//case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_4_4_4_4:
+					//	break;
+					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_8_8_8_8:
+						_GenerateBitmapEncode(Bitmap, (Out, Color) =>
+						{
+							Out[0] = Color.A;
+							Out[1] = Color.R;
+							Out[2] = Color.G;
+							Out[3] = Color.B;
+							//BitConverter.GetBytes();
+						});
+						break;
+					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
+						(new DXT5()).SaveSwizzled2D(Bitmap, this.SliceStream, CompressDXT.CompressionMode.Normal);
+						break;
+					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT1:
+						(new DXT1()).SaveSwizzled2D(Bitmap, this.SliceStream, CompressDXT.CompressionMode.Normal);
+						break;
+					default:
+						throw(new NotImplementedException());
+				}
+			}
+
 			private Bitmap _GenerateBitmap()
 			{
 				var Bitmap = new Bitmap(Width, Height);
@@ -424,7 +497,14 @@ namespace TalesOfVesperiaUtils.Imaging
 		public ImageHeaderStruct ImageHeader;
 		public Surface2DEntryInfo[] Surface2DEntries;
 		public Surface3DEntryInfo[] Surface3DEntries;
+		public Dictionary<string, Surface2DEntryInfo> Surface2DEntriesByName;
+		public Dictionary<string, Surface3DEntryInfo> Surface3DEntriesByName;
 		Stream TXVStream;
+
+		static public TXM FromTxmTxv(Stream TXMStream, Stream TXVStream)
+		{
+			return new TXM().Load(TXMStream, TXVStream);
+		}
 
 		public TXM Load(Stream TXMStream, Stream TXVStream)
 		{
@@ -432,20 +512,26 @@ namespace TalesOfVesperiaUtils.Imaging
 
 			this.ImageHeader = TXMStream.ReadStruct<ImageHeaderStruct>();
 
+			this.Surface2DEntriesByName = new Dictionary<string, Surface2DEntryInfo>();
 			this.Surface2DEntries = new Surface2DEntryInfo[ImageHeader.Surface2DCount];
 			for (int n = 0; n < ImageHeader.Surface2DCount; n++)
 			{
 				var ImageEntry = TXMStream.ReadStruct<Surface2DInfoStruct>();
 				var Name = TXMStream.SliceWithLength(TXMStream.Position + Marshal.OffsetOf(typeof(Surface2DInfoStruct), "StringOffset").ToInt32() - sizeof(Surface2DInfoStruct) + ImageEntry.StringOffset).ReadStringz();
-				this.Surface2DEntries[n] = new Surface2DEntryInfo(this, n, ImageEntry, Name);
+				var Entry = new Surface2DEntryInfo(this, n, ImageEntry, Name);
+				this.Surface2DEntries[n] = Entry;
+				this.Surface2DEntriesByName[Name] = Entry;
 			}
 
+			this.Surface3DEntriesByName = new Dictionary<string, Surface3DEntryInfo>();
 			this.Surface3DEntries = new Surface3DEntryInfo[ImageHeader.Surface3DCount];
 			for (int n = 0; n < ImageHeader.Surface3DCount; n++)
 			{
 				var ImageEntry = TXMStream.ReadStruct<Surface3DInfoStruct>();
 				var Name = TXMStream.SliceWithLength(TXMStream.Position + Marshal.OffsetOf(typeof(Surface3DInfoStruct), "StringOffset").ToInt32() - sizeof(Surface3DInfoStruct) + ImageEntry.StringOffset).ReadStringz();
-				this.Surface3DEntries[n] = new Surface3DEntryInfo(this, n, ImageEntry, Name);
+				var Entry = new Surface3DEntryInfo(this, n, ImageEntry, Name);
+				this.Surface3DEntries[n] = Entry;
+				this.Surface3DEntriesByName[Entry.Name] = Entry;
 			}
 
 			return this;

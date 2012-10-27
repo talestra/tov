@@ -111,7 +111,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				this.FPS4 = FPS4;
 				this.EntryStruct = EntryStruct;
 				this.Name = Name;
-				this._Stream = SliceStream.CreateWithLength(FPS4.Stream, EntryStruct.Offset, EntryStruct.LengthReal);
+				this._Stream = SliceStream.CreateWithLength((EntryStruct.Offset == 0) ? FPS4.DavStream : FPS4.DatStream, EntryStruct.Offset, EntryStruct.LengthReal);
 			}
 
 			internal Entry(FPS4 FPS4, Stream Stream, String Name)
@@ -260,7 +260,8 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 		}
 
 		public String OriginalFilePath;
-		public Stream Stream;
+		public Stream DatStream;
+		public Stream DavStream;
 		public Dictionary<String, Entry> Entries = new Dictionary<String, Entry>();
 
 		public List<Entry> EntryList
@@ -275,9 +276,9 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 		{
 		}
 
-		public FPS4(Stream Stream)
+		public FPS4(Stream DatStream, Stream DavStream = null)
 		{
-			Load(Stream);
+			Load(DatStream, DavStream);
 		}
 
 		~FPS4()
@@ -287,31 +288,39 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 		HeaderStruct Header;
 
-		override public void Load(Stream Stream)
+		override public void Load(Stream DatStream)
 		{
-			this.Stream = Stream;
+			Load(DatStream, null);
+		}
 
-			Header = Stream.ReadStruct<HeaderStruct>();
-			if (Encoding.ASCII.GetString(Header.Magic) != "FPS4") throw (new Exception("Invalid Magic"));
+		public void Load(Stream DatStream, Stream DavStream)
+		{
+			if (DavStream == null) DavStream = DatStream;
+			this.DatStream = DatStream;
+			this.DavStream = DavStream;
+
+			Header = DatStream.ReadStruct<HeaderStruct>();
+			var Magic = Encoding.ASCII.GetString(Header.Magic);
+			if (Magic != "FPS4") throw (new Exception(String.Format("Invalid Magic '{0}'", Magic)));
 
 			if (Header.FilePos != 0)
 			{
-				Stream.Position = Header.FilePos;
-				OriginalFilePath = Stream.ReadStringz(0x100, Encoding.GetEncoding("Shift-JIS"));
+				DatStream.Position = Header.FilePos;
+				OriginalFilePath = DatStream.ReadStringz(0x100, Encoding.GetEncoding("Shift-JIS"));
 			}
 			else
 			{
 				OriginalFilePath = "";
 			}
 
-			Stream.Position = Header.ListStart;
+			DatStream.Position = Header.ListStart;
 			//Console.WriteLine("{0:X8}", Stream.Position);
 
 			if (Header.ListCount > 10000) throw (new Exception("List too big (" + Header.ListCount + ")"));
 
 			for (uint n = 0; n < Header.ListCount; n++)
 			{
-				var EntryStream = Stream.ReadStream(Header.EntrySizeof);
+				var EntryStream = DatStream.ReadStream(Header.EntrySizeof);
 				var EntryStruct = default(EntryStruct);
 				var ExtraEntrySizeof = Header.EntrySizeof - 0x0C;
 				var IndexName = String.Format("{0}", n);
@@ -485,10 +494,10 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 		public void Dispose()
 		{
-			if (Stream != null)
+			if (DatStream != null)
 			{
-				Stream.Dispose();
-				Stream = null;
+				DatStream.Dispose();
+				DatStream = null;
 			}
 		}
 

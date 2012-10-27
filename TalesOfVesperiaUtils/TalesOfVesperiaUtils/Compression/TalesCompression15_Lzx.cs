@@ -148,6 +148,7 @@ namespace TalesOfVesperiaUtils.Compression
 						fixed (byte* CompressedBytesPtr = CompressedBytes)
 						fixed (byte* UncompressedBytesPtr = UncompressedBytes)
 						{
+							//Console.WriteLine("{0} -> {1}", CompressedChunkLength, UncompressedChunkLength);
 							LZXState.Decompress(CompressedBytesPtr, UncompressedBytesPtr, CompressedChunkLength, UncompressedChunkLength);
 						}
 

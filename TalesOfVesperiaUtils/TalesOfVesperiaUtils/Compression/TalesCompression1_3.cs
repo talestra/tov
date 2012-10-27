@@ -21,25 +21,6 @@ namespace TalesOfVesperiaUtils.Compression
 	{
 		protected int Version;
 
-		public enum Result : int
-		{
-			SUCCESS = 0,
-			ERROR_FILE_IN = -1,
-			ERROR_FILE_OUT = -2,
-			ERROR_MALLOC = -3,
-			ERROR_BAD_INPUT = -4,
-			ERROR_UNKNOWN_VERSION = -5,
-			ERROR_FILES_MISMATCH = -6,
-		}
-
-		/*
-		[DllImport("TalesOfVesperiaCompression.dll", CallingConvention = CallingConvention.Cdecl)]
-		internal static extern Result Encode(int Version, byte* _in, int inl, byte* _out, ref int outl);
-
-		[DllImport("TalesOfVesperiaCompression.dll", CallingConvention = CallingConvention.Cdecl)]
-		internal static extern Result Decode(int Version, byte* _in, int inl, byte* _out, ref int outl);
-		*/
-
 		private static byte[] GeneratePrependData(int Length = 0x1000)
 		{
 			return WritePrependData(new byte[Length], Length);
@@ -381,58 +362,32 @@ namespace TalesOfVesperiaUtils.Compression
 			return Out.ToArray();
 		}
 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Input"></param>
+		/// <param name="Version"></param>
+		/// <param name="OutputMaxLength"></param>
+		/// <returns></returns>
 		public static byte[] Encode(byte[] Input, int Version = 1, int OutputMaxLength = -1)
 		{
 			if (OutputMaxLength == -1) OutputMaxLength = ((Input.Length * 9) / 8) + 1;
 
-			if (true)
-			{
-				return Encode2(Input, Version, OutputMaxLength);
-			}
-			else
-			{
-				byte[] RealOutput;
-				byte[] Output = new byte[OutputMaxLength];
-				int OutputLength = OutputMaxLength;
-				fixed (byte* InputPtr = Input)
-				fixed (byte* OutputPtr = Output)
-				{
-					var Result = (Result)complib.Encode(Version, InputPtr, Input.Length, OutputPtr, ref OutputLength);
-					if (Result != Result.SUCCESS)
-					{
-						throw (new Exception(Result.ToString()));
-					}
-					RealOutput = new byte[OutputLength];
-					Array.Copy(Output, RealOutput, OutputLength);
-				}
-				return RealOutput;
-			}
+			return Encode2(Input, Version, OutputMaxLength);
 		}
 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Input"></param>
+		/// <param name="Version"></param>
+		/// <param name="OutputMaxLength"></param>
+		/// <returns></returns>
 		public static byte[] Decode(byte[] Input, int Version = 1, int OutputMaxLength = -1)
 		{
 			if (OutputMaxLength == -1) OutputMaxLength = Input.Length * 16;
 
-			byte[] Output = new byte[OutputMaxLength + 0x1000];
-			int OutputLength = OutputMaxLength;
-
-			if (true)
-			{
-				return Decode13(Input, OutputMaxLength, Version);
-			}
-			else
-			{
-				fixed (byte* InputPtr = Input)
-				fixed (byte* OutputPtr = Output)
-				{
-					var Result = (Result)complib.Decode(Version, InputPtr, Input.Length, OutputPtr, ref OutputLength);
-					if (Result != Result.SUCCESS)
-					{
-						throw (new Exception(Result.ToString()));
-					}
-				}
-			}
-			return Output.Slice(0, OutputLength);
+			return Decode13(Input, OutputMaxLength, Version);
 		}
 
 		[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]

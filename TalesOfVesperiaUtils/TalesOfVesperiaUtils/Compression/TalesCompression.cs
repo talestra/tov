@@ -36,7 +36,7 @@ namespace TalesOfVesperiaUtils.Compression
 			OutputStream.Position = 0;
 			return OutputStream;
 		}
-		static public Stream DecompressStream(Stream InputStream)
+		static public MemoryStream DecompressStream(Stream InputStream)
 		{
 			InputStream = SliceStream.CreateWithLength(InputStream, 0);
 			byte[] Info = InputStream.ReadBytes(0x10);
@@ -50,10 +50,13 @@ namespace TalesOfVesperiaUtils.Compression
 		{
 			var Warnings = new List<String>();
 
+			MagicData = MagicData.Take(0x10).ToArray();
 			if (MagicData.Length < 0x10) throw (new Exception("Start to short"));
+
 			// Version type (0, 1, 3, 4)
 			{
 				var HeaderStruct = StructUtils.BytesToStruct<TalesCompression1_3.HeaderStruct>(MagicData);
+				//Console.WriteLine("[1]");
 
 				bool Handled = true;
 
@@ -91,6 +94,8 @@ namespace TalesOfVesperiaUtils.Compression
 						break;
 				}
 
+				//Console.WriteLine("[2]");
+
 				if (Handled)
 				{
 					if (!Warnings.Any())
@@ -98,14 +103,23 @@ namespace TalesOfVesperiaUtils.Compression
 						return CreateFromVersion(HeaderStruct.Version);
 					}
 				}
+
+				//Console.WriteLine("[3]");
 			}
+
+			//Console.WriteLine("[4]");
+
 			// Check other types.
 			{
 				if (MagicData.SequenceEqual(TalesCompression15_Lzx.Signature))
 				{
+					//Console.WriteLine("[5]");
 					return CreateFromVersion(15);
 				}
 			}
+
+			//Console.WriteLine("[6]");
+
 			throw (new NotSupportedException("Version not detected : " + Warnings.Implode(",") + " : " + MagicData.ToHexString()));
 			//throw (new Exception());
 		}
