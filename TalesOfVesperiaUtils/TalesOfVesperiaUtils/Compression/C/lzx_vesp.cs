@@ -1,4 +1,6 @@
-﻿using System;
+﻿//#define DEBUG_LZX_COMPRESSION
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -118,20 +120,10 @@ namespace TalesOfVesperiaUtils.Compression.C
 		//00 00 00 00 01 01 02 02 03 03 04 04 05 05 06 06 07 07 08 08 09 09 0A 0A 0B 0B 0C 0C 0D 0D 0E 0E 0F 0F 10 10 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11 11
 
 		static readonly uint[] position_base = new uint[] {
-		#if false
-		0x00000000, 0x00000001, 0x00000002, 0x00000004, 0x00000006, 0x0000000A, 0x0000000E, 0x00000016,
-		0x0000001E, 0x0000002E, 0x0000003E, 0x0000005E, 0x0000007E, 0x000000BE, 0x000000FE, 0x0000017E,
-		0x000001FE, 0x000002FE, 0x000003FE, 0x000005FE, 0x000007FE, 0x00000BFE, 0x00000FFE, 0x000017FE,
-		0x00001FFE, 0x00002FFE, 0x00003FFE, 0x00005FFE, 0x00007FFE, 0x0000BFFE, 0x0000FFFE, 0x00017FFE,
-		0x0001FFFE, 0x0002FFFE, 0x0003FFFE, 0x0005FFFE, 0x0007FFFE, 0x0009FFFE, 0x000BFFFE, 0x000DFFFE,
-		0x000FFFFE, 0x0011FFFE, 0x0013FFFE, 0x0015FFFE, 0x0017FFFE, 0x0019FFFE, 0x001BFFFE, 0x001DFFFE,
-		0x001FFFFE,
-		#else
-				0,       1,       2,      3,      4,      6,      8,     12,     16,     24,     32,       48,      64,      96,     128,     192,
+			0,       1,       2,      3,      4,      6,      8,     12,     16,     24,     32,       48,      64,      96,     128,     192,
 			256,     384,     512,    768,   1024,   1536,   2048,   3072,   4096,   6144,   8192,    12288,   16384,   24576,   32768,   49152,
 			65536,   98304,  131072, 196608, 262144, 393216, 524288, 655360, 786432, 917504, 1048576, 1179648, 1310720, 1441792, 1572864, 1703936,
-		1835008, 1966080, 2097152
-		#endif
+			1835008, 1966080, 2097152
 		};
 
 		static public LZXstate LZXinit(int window)
@@ -489,6 +481,9 @@ namespace TalesOfVesperiaUtils.Compression.C
 						switch (pState.block_type)
 						{
 							case LZX_BLOCKTYPE_ALIGNED:
+#if DEBUG_LZX_COMPRESSION
+								Console.WriteLine("[L]LZX_BLOCKTYPE_ALIGNED");
+#endif
 								for (i = 0; i < 8; i++)
 								{
 									READ_BITS(ref bitsleft, ref inpos, ref bitbuf, ref j, 3);
@@ -499,6 +494,9 @@ namespace TalesOfVesperiaUtils.Compression.C
 								goto case LZX_BLOCKTYPE_VERBATIM;
 
 							case LZX_BLOCKTYPE_VERBATIM:
+#if DEBUG_LZX_COMPRESSION
+								Console.WriteLine("[L]LZX_BLOCKTYPE_VERBATIM");
+#endif
 								READ_LENGTHS(pState, ref bitbuf, ref bitsleft, ref inpos, ref lb, pState.MAINTREE, 0, 256);
 								READ_LENGTHS(pState, ref bitbuf, ref bitsleft, ref inpos, ref lb, pState.MAINTREE, 256, pState.main_elements);
 								BUILD_TABLE(pState.MAINTREE);
@@ -509,6 +507,9 @@ namespace TalesOfVesperiaUtils.Compression.C
 								break;
 
 							case LZX_BLOCKTYPE_UNCOMPRESSED:
+#if DEBUG_LZX_COMPRESSION
+								Console.WriteLine("[L]LZX_BLOCKTYPE_UNCOMPRESSED");
+#endif
 								pState.intel_started = true; /* because we can't assume otherwise */
 								ENSURE_BITS(ref bitsleft, ref inpos, ref bitbuf, 16); // get up to 16 pad bits into the buffer
 								if (bitsleft > 16) inpos -= 2; /* and align the bitstream! */
@@ -543,6 +544,9 @@ namespace TalesOfVesperiaUtils.Compression.C
 						{
 
 							case LZX_BLOCKTYPE_VERBATIM:
+#if DEBUG_LZX_COMPRESSION
+								Console.WriteLine("[B]LZX_BLOCKTYPE_VERBATIM");
+#endif
 								while (this_run > 0)
 								{
 									READ_HUFFSYM(out hufftbl, ref bitsleft, ref inpos, ref bitbuf, ref i, ref j, pState.MAINTREE, out main_element);
@@ -631,113 +635,119 @@ namespace TalesOfVesperiaUtils.Compression.C
 								break;
 
 							case LZX_BLOCKTYPE_ALIGNED:
-								while (this_run > 0)
-								{
-									READ_HUFFSYM(out hufftbl, ref bitsleft, ref inpos, ref bitbuf, ref i, ref j, pState.MAINTREE, out main_element);
+#if DEBUG_LZX_COMPRESSION
+								Console.WriteLine("[B]LZX_BLOCKTYPE_ALIGNED");
+#endif
+							while (this_run > 0)
+							{
+								READ_HUFFSYM(out hufftbl, ref bitsleft, ref inpos, ref bitbuf, ref i, ref j, pState.MAINTREE, out main_element);
 
-									if (main_element < LZX_NUM_CHARS)
+								if (main_element < LZX_NUM_CHARS)
+								{
+									/* literal: 0 to LZX_NUM_CHARS-1 */
+									window[window_posn++] = (byte)main_element;
+									this_run--;
+								}
+								else
+								{
+									/* match: LZX_NUM_CHARS + ((slot<<3) | length_header (3 bits)) */
+									main_element -= LZX_NUM_CHARS;
+
+									match_length = main_element & LZX_NUM_PRIMARY_LENGTHS;
+									if (match_length == LZX_NUM_PRIMARY_LENGTHS)
 									{
-										/* literal: 0 to LZX_NUM_CHARS-1 */
-										window[window_posn++] = (byte)main_element;
-										this_run--;
+										READ_HUFFSYM(out hufftbl, ref bitsleft, ref inpos, ref bitbuf, ref i, ref j, pState.LENGTH, out length_footer);
+										match_length += length_footer;
+									}
+									match_length += LZX_MIN_MATCH;
+
+									match_offset = (uint)(main_element >> 3);
+
+									if (match_offset > 2)
+									{
+										/* not repeated offset */
+										extra = extra_bits[match_offset];
+										match_offset = position_base[match_offset] - 2;
+										if (extra > 3)
+										{
+											/* verbatim and aligned bits */
+											extra -= 3;
+											READ_BITS(ref bitsleft, ref inpos, ref bitbuf, ref verbatim_bits, extra);
+											match_offset += (uint)(verbatim_bits << 3);
+
+											READ_HUFFSYM(out hufftbl, ref bitsleft, ref inpos, ref bitbuf, ref i, ref j, pState.ALIGNED, out aligned_bits);
+											match_offset += (uint)aligned_bits;
+										}
+										else if (extra == 3)
+										{
+											/* aligned bits only */
+											READ_HUFFSYM(out hufftbl, ref bitsleft, ref inpos, ref bitbuf, ref i, ref j, pState.ALIGNED, out aligned_bits);
+											match_offset += (uint)aligned_bits;
+										}
+										else if (extra > 0)
+										{ /* extra==1, extra==2 */
+											/* verbatim bits only */
+											READ_BITS(ref bitsleft, ref inpos, ref bitbuf, ref verbatim_bits, extra);
+											match_offset += (uint)verbatim_bits;
+										}
+										else /* extra == 0 */
+										{
+											/* ??? */
+											match_offset = 1;
+										}
+
+										/* update repeated offset LRU queue */
+										R2 = R1; R1 = R0; R0 = match_offset;
+									}
+									else if (match_offset == 0)
+									{
+										match_offset = R0;
+									}
+									else if (match_offset == 1)
+									{
+										match_offset = R1;
+										R1 = R0; R0 = match_offset;
+									}
+									else /* match_offset == 2 */
+									{
+										match_offset = R2;
+										R2 = R0; R0 = match_offset;
+									}
+
+									rundest = window + window_posn;
+									this_run -= match_length;
+
+									/* copy any wrapped around source data */
+									if (window_posn >= match_offset)
+									{
+										/* no wrap */
+										runsrc = rundest - match_offset;
 									}
 									else
 									{
-										/* match: LZX_NUM_CHARS + ((slot<<3) | length_header (3 bits)) */
-										main_element -= LZX_NUM_CHARS;
-
-										match_length = main_element & LZX_NUM_PRIMARY_LENGTHS;
-										if (match_length == LZX_NUM_PRIMARY_LENGTHS)
+										runsrc = rundest + (window_size - match_offset);
+										copy_length = (int)(match_offset - window_posn);
+										if (copy_length < match_length)
 										{
-											READ_HUFFSYM(out hufftbl, ref bitsleft, ref inpos, ref bitbuf, ref i, ref j, pState.LENGTH, out length_footer);
-											match_length += length_footer;
+											match_length -= copy_length;
+											window_posn += (uint)copy_length;
+											while (copy_length-- > 0) *rundest++ = *runsrc++;
+											runsrc = window;
 										}
-										match_length += LZX_MIN_MATCH;
-
-										match_offset = (uint)(main_element >> 3);
-
-										if (match_offset > 2)
-										{
-											/* not repeated offset */
-											extra = extra_bits[match_offset];
-											match_offset = position_base[match_offset] - 2;
-											if (extra > 3)
-											{
-												/* verbatim and aligned bits */
-												extra -= 3;
-												READ_BITS(ref bitsleft, ref inpos, ref bitbuf, ref verbatim_bits, extra);
-												match_offset += (uint)(verbatim_bits << 3);
-
-												READ_HUFFSYM(out hufftbl, ref bitsleft, ref inpos, ref bitbuf, ref i, ref j, pState.ALIGNED, out aligned_bits);
-												match_offset += (uint)aligned_bits;
-											}
-											else if (extra == 3)
-											{
-												/* aligned bits only */
-												READ_HUFFSYM(out hufftbl, ref bitsleft, ref inpos, ref bitbuf, ref i, ref j, pState.ALIGNED, out aligned_bits);
-												match_offset += (uint)aligned_bits;
-											}
-											else if (extra > 0)
-											{ /* extra==1, extra==2 */
-												/* verbatim bits only */
-												READ_BITS(ref bitsleft, ref inpos, ref bitbuf, ref verbatim_bits, extra);
-												match_offset += (uint)verbatim_bits;
-											}
-											else /* extra == 0 */
-											{
-												/* ??? */
-												match_offset = 1;
-											}
-
-											/* update repeated offset LRU queue */
-											R2 = R1; R1 = R0; R0 = match_offset;
-										}
-										else if (match_offset == 0)
-										{
-											match_offset = R0;
-										}
-										else if (match_offset == 1)
-										{
-											match_offset = R1;
-											R1 = R0; R0 = match_offset;
-										}
-										else /* match_offset == 2 */
-										{
-											match_offset = R2;
-											R2 = R0; R0 = match_offset;
-										}
-
-										rundest = window + window_posn;
-										this_run -= match_length;
-
-										/* copy any wrapped around source data */
-										if (window_posn >= match_offset)
-										{
-											/* no wrap */
-											runsrc = rundest - match_offset;
-										}
-										else
-										{
-											runsrc = rundest + (window_size - match_offset);
-											copy_length = (int)(match_offset - window_posn);
-											if (copy_length < match_length)
-											{
-												match_length -= copy_length;
-												window_posn += (uint)copy_length;
-												while (copy_length-- > 0) *rundest++ = *runsrc++;
-												runsrc = window;
-											}
-										}
-										window_posn += (uint)match_length;
-
-										/* copy match data - no worries about destination wraps */
-										while (match_length-- > 0) *rundest++ = *runsrc++;
-
 									}
+									window_posn += (uint)match_length;
+
+									/* copy match data - no worries about destination wraps */
+									while (match_length-- > 0) *rundest++ = *runsrc++;
+
 								}
-								break;
+							}
+							break;
 
 							case LZX_BLOCKTYPE_UNCOMPRESSED:
+#if DEBUG_LZX_COMPRESSION
+								Console.WriteLine("[B]LZX_BLOCKTYPE_UNCOMPRESSED");
+#endif
 								if ((inpos + this_run) > endinp) return DECR_ILLEGALDATA;
 								PointerUtils.Memcpy(window + window_posn, inpos, (int)this_run);
 								inpos += this_run; window_posn += (uint)this_run;

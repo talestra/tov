@@ -12,6 +12,10 @@ using ProtoBuf;
 using Newtonsoft.Json;
 using TalesOfVesperiaUtils.Compression;
 using CSharpUtils.Streams;
+using TalesOfVesperiaTranslationEngine.CommonSvo;
+using CSharpUtils.VirtualFileSystem;
+using CSharpUtils.VirtualFileSystem.Local;
+using TalesOfVesperiaTranslationEngine.UiSvo;
 
 #if false
 namespace TalesOfVesperiaSpike
@@ -336,14 +340,31 @@ namespace TalesOfVesperiaSpike
 
 	class Program
 	{
-		static void Main(string[] Args)
+		static void Main2(string[] Args)
 		{
+			string GamePath = @"F:\GAMES\vesperia";
+			if (!Directory.Exists(GamePath)) GamePath = @"E:\isos\360\vesperia";
+
+			var RootFS = new LocalFileSystem(GamePath);
+			//new CommonSvo().Handle(new Patcher(), RootFS);
+			new UiSvo().Handle(new Patcher(), RootFS);
+
+
+			//TalesCompression.DecompressStream(File.OpenRead(@"C:\projects\talestra_tov\Bin\Debug\Temp\TEXTURE.DAT"));
+			//TalesCompression.DecompressStream(File.OpenRead(@"C:\projects\talestra_tov\Bin\Debug\Temp\TEXTURE.DAT.mod.c"));
+
 			//var Image2 = (new DXT5()).LoadSwizzled2D(File.OpenRead(@"C:\isos\360\vesperia\chat.original.svo.d\uncompressed\test\1.TXV"), 256, 288);
 			//Image2.Save(@"C:\isos\360\vesperia\chat.original.svo.d\uncompressed\test\test.png");
 			//Console.ReadKey();
 
 			//var Image2 = (new DXT5()).LoadSwizzled2D(File.OpenRead(@"C:\isos\360\vesperia\chat.original.svo.d\uncompressed\test\1.TXV"), 256, 288);
 			//new TXM().Load(File.OpenRead(@"c:\projects\talestra_tov\"))
+		}
+
+		static void Main(string[] Args)
+		{
+			Main2(Args);
+			//Console.ReadKey();
 		}
 	}
 }

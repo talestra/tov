@@ -6,3 +6,11 @@ TestResults
 *.user
 /TalesOfVesperiaUtils/_ReSharper.TalesOfVesperiaUtils
 /Misc/dxt/stb_dxt.c
+/Sandbox/lzx/*.o
+/Sandbox/lzx/*.obj
+/Sandbox/lzx/*.a
+/Sandbox/lzx/*.exe
+/Sandbox/lzx_compress/*.o
+/Sandbox/lzx_compress/*.obj
+/Sandbox/lzx_compress/*.a
+/Sandbox/lzx_compress/*.exe

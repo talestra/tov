@@ -26,11 +26,25 @@ namespace Svo
 		/// <summary>
 		/// 
 		/// </summary>
+		[Command("-v", "--verbose")]
+		[Description("Displays additional information")]
+		protected bool Verbose = false;
+
+		/// <summary>
+		/// 
+		/// </summary>
 		/// <param name="OutputFileName"></param>
 		/// <param name="InputStreamGet"></param>
-		private void _ExtractFile(string OutputFileName, Func<Stream> InputStreamGet)
+		private void _ExtractFile(string OutputFileName, Func<Stream> InputStreamGet, int Offset, int Length)
 		{
-			Console.Write("{0}...", OutputFileName);
+			if (Verbose)
+			{
+				Console.Write("{0}({1:X8}[{2}])...", OutputFileName, Offset, Length);
+			}
+			else
+			{
+				Console.Write("{0}...", OutputFileName);
+			}
 			try
 			{
 				if (!File.Exists(OutputFileName) || Overwrite)
@@ -50,6 +64,71 @@ namespace Svo
 			{
 				Console.WriteLine("Error({0})", Exception.Message);
 			}
+		}
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="DatPath"></param>
+		/// <param name="DavPath"></param>
+		/// <param name="OutputDirectory"></param>
+		protected void ExtractSvo2(string DatPath, string DavPath, string OutputDirectory = null)
+		{
+			if (DavPath == null) DavPath = DatPath;
+
+			if (OutputDirectory == null)
+			{
+				OutputDirectory = DatPath + ".d";
+			}
+
+			Console.WriteLine("Loading {0}...", DatPath);
+			//try
+			//{
+			using (var Stream1 = File.OpenRead(DatPath))
+			using (var Stream2 = File.OpenRead(DavPath))
+			{
+				try { Directory.CreateDirectory(OutputDirectory); }
+				catch { }
+
+				if (Stream1.SliceWithLength().ReadString(7) == "TO8SCEL")
+				{
+					var TO8SCEL = new TO8SCEL(Stream1);
+
+					foreach (var Entry in TO8SCEL)
+					{
+						_ExtractFile(OutputDirectory + "/" + Entry.Index, () => Entry.UncompressedStream, (int)(uint)Entry.EntryStruct.Offset, (int)(uint)Entry.EntryStruct.LengthCompressed);
+					}
+				}
+				else
+				{
+					var FPS4 = new FPS4(Stream1, Stream2);
+
+					foreach (var Entry in FPS4)
+					{
+						_ExtractFile(OutputDirectory + "/" + Entry.Name, () => Entry.Open(), (int)(uint)Entry.EntryStruct.Offset, (int)(uint)Entry.EntryStruct.LengthReal);
+					}
+				}
+			}
+			//}
+			//catch (Exception Exception)
+			//{
+			//	Console.Error.WriteLine("{0}", Exception);
+			//}
+		}
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="SvoPath"></param>
+		/// <param name="OutputDirectory"></param>
+		[Command("-e2", "--extract2")]
+		[Description("Extracts a FPS4/TO8SCEL file with info and data in distinct files to a folder")]
+		[Example("-e2 syspack.dat syspack.dav <folder>")]
+		protected void ExtractSvo(string DatPath, string DavPath, string OutputDirectory = null)
+		{
+			//new FPS4(File.OpenRead(DatPath), File.OpenRead(DavPath));
+			//ExtractSvo(DatPath, DavPath, OutputDirectory);
+			ExtractSvo2(DatPath, DavPath, OutputDirectory);
 		}
 
 		/// <summary>
@@ -75,43 +154,7 @@ namespace Svo
 				return;
 			}
 
-			if (OutputDirectory == null)
-			{
-				OutputDirectory = SvoPath + ".d";
-			}
-
-			try { Directory.CreateDirectory(OutputDirectory); }
-			catch { }
-
-			Console.WriteLine("Loading {0}...", SvoPath);
-			//try
-			//{
-				using (var Stream = File.OpenRead(SvoPath))
-				{
-					if (Stream.SliceWithLength().ReadString(7) == "TO8SCEL")
-					{
-						var TO8SCEL = new TO8SCEL(Stream);
-
-						foreach (var Entry in TO8SCEL)
-						{
-							_ExtractFile(OutputDirectory + "/" + Entry.Index, () => Entry.UncompressedStream);
-						}
-					}
-					else
-					{
-						var FPS4 = new FPS4(Stream);
-
-						foreach (var Entry in FPS4)
-						{
-							_ExtractFile(OutputDirectory + "/" + Entry.Name, () => Entry.Open());
-						}
-					}
-				}
-			//}
-			//catch (Exception Exception)
-			//{
-			//	Console.Error.WriteLine("{0}", Exception);
-			//}
+			ExtractSvo2(SvoPath, null, OutputDirectory);
 		}
 
 		/// <summary>

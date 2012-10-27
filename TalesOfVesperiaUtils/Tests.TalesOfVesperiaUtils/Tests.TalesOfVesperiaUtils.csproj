@@ -68,7 +68,6 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="Compression\C\complibTest.cs" />
     <Compile Include="Compression\DecompressorLzxTest.cs" />
     <Compile Include="Compression\DecompressorVersion1Test.cs" />
     <Compile Include="Compression\TalesCompression15_LzxTest.cs" />

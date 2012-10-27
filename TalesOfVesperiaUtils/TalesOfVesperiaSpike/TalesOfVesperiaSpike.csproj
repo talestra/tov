@@ -85,6 +85,10 @@
       <Project>{C017FBBE-EF10-4030-A69E-204E766C8F9D}</Project>
       <Name>CSharpUtils.Ext</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Vfs\CSharpUtils.Vfs.csproj">
+      <Project>{49f6b357-35ae-498a-9e5a-67aa62a327c6}</Project>
+      <Name>CSharpUtils.Vfs</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils\CSharpUtils.csproj">
       <Project>{746FADF2-D613-4FFD-8551-2181ADAE3CD1}</Project>
       <Name>CSharpUtils</Name>

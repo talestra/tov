@@ -55,12 +55,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommonSvo\CommonSvo.cs" />
+    <Compile Include="CommonSvo\TextureDat\TextureDat.cs" />
     <Compile Include="JsonTranslations.cs" />
+    <Compile Include="Patcher.cs" />
     <Compile Include="PatchFolders.cs" />
     <Compile Include="PatchUtils.cs" />
     <Compile Include="PitfallDetector.cs" />
     <Compile Include="TranslateSkits.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UiSvo\ComAllTxm\ComAllTxm.cs" />
+    <Compile Include="UiSvo\UiSvo.cs" />
     <Compile Include="UpdateFont.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -71,6 +76,10 @@
     <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Ext\CSharpUtils.Ext.csproj">
       <Project>{C017FBBE-EF10-4030-A69E-204E766C8F9D}</Project>
       <Name>CSharpUtils.Ext</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Vfs\CSharpUtils.Vfs.csproj">
+      <Project>{49f6b357-35ae-498a-9e5a-67aa62a327c6}</Project>
+      <Name>CSharpUtils.Vfs</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils\CSharpUtils.csproj">
       <Project>{746FADF2-D613-4FFD-8551-2181ADAE3CD1}</Project>
