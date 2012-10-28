@@ -364,7 +364,8 @@ namespace TalesOfVesperiaSpike
 		static void Main(string[] Args)
 		{
 			Main2(Args);
-			//Console.ReadKey();
+			Console.WriteLine("<END>");
+			Console.ReadKey();
 		}
 	}
 }
