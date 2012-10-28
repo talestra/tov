@@ -46,7 +46,7 @@ namespace TalesOfVesperiaUtils.Compression
 			return Decompressor.DecodeFile(InputStream);
 		}
 
-		static public TalesCompression CreateFromStart(byte[] MagicData)
+		static public int DetectVersion(byte[] MagicData, bool ThrowException = false)
 		{
 			var Warnings = new List<String>();
 
@@ -100,7 +100,7 @@ namespace TalesOfVesperiaUtils.Compression
 				{
 					if (!Warnings.Any())
 					{
-						return CreateFromVersion(HeaderStruct.Version);
+						return HeaderStruct.Version;
 					}
 				}
 
@@ -114,14 +114,27 @@ namespace TalesOfVesperiaUtils.Compression
 				if (MagicData.SequenceEqual(TalesCompression15_Lzx.Signature))
 				{
 					//Console.WriteLine("[5]");
-					return CreateFromVersion(15);
+					return 15;
 				}
 			}
 
-			//Console.WriteLine("[6]");
+			if (!ThrowException)
+			{
+				return -1;
+			}
+			else
+			{
+				//Console.WriteLine("[6]");
 
-			throw (new NotSupportedException("Version not detected : " + Warnings.Implode(",") + " : " + MagicData.ToHexString()));
-			//throw (new Exception());
+				throw (new NotSupportedException("Version not detected : " + Warnings.Implode(",") + " : " + MagicData.ToHexString()));
+				//throw (new Exception());
+			}
+		}
+
+
+		static public TalesCompression CreateFromStart(byte[] MagicData)
+		{
+			return CreateFromVersion(DetectVersion(MagicData, true));
 		}
 
 		static public TalesCompression CreateFromVersion(int Version)

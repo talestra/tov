@@ -402,7 +402,7 @@ namespace TalesOfVesperiaUtils.Imaging
 						}
 					}
 
-					SliceStream.SliceWithLength().WriteBytes(Bytes);
+					SliceStream.SliceWithLength().WriteBytes(Bytes).Flush();
 				});
 			}
 
