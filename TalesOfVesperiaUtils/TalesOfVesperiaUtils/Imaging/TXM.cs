@@ -13,7 +13,7 @@ using TalesOfVesperiaUtils.Imaging.Internal;
 
 namespace TalesOfVesperiaUtils.Imaging
 {
-	unsafe public class TXM
+	unsafe public class TXM : IDisposable
 	{
 		[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 0x50)]
 		public struct ImageHeaderStruct
@@ -189,7 +189,7 @@ namespace TalesOfVesperiaUtils.Imaging
 			}
 		}
 
-		abstract public class SurfaceEntryInfo<InfoStruct>
+		abstract public class SurfaceEntryInfo<InfoStruct> : IDisposable
 		{
 			public readonly TXM TXM;
 			public readonly InfoStruct ImageEntry;
@@ -217,6 +217,10 @@ namespace TalesOfVesperiaUtils.Imaging
 				//Console.WriteLine(ContentOffset);
 				this.SliceStream = TXM.TXVStream.SliceWithLength(ContentOffset, TotalBytes);
 			}
+
+			public void Dispose()
+			{
+			}
 		}
 
 		public class Surface3DEntryInfo : SurfaceEntryInfo<Surface3DInfoStruct>
@@ -234,19 +238,19 @@ namespace TalesOfVesperiaUtils.Imaging
 
 			private BitmapList _GenerateBitmapList()
 			{
-				var BitmapList = new BitmapList(Depth);
+				//var BitmapList = new BitmapList(Depth);
 
 				switch (ImageEntry.ImageFileFormat.TextureFormat)
 				{
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
-						return (new DXT5()).LoadSwizzled3D(this.SliceStream, Width, Height, Depth, this.Tiled);
+						return (new DXT5()).LoadSwizzled3D(this.SliceStream.Slice(), Width, Height, Depth, this.Tiled);
 
 					default:
 						throw (new NotImplementedException("[Surface3DEntryInfo] Not implemented format : " + ImageEntry.ImageFileFormat.TextureFormat));
 				}
 
-				return BitmapList;
+				//return BitmapList;
 			}
 
 			public Surface3DEntryInfo(TXM TXM, int Index, Surface3DInfoStruct ImageEntry, string Name)
@@ -284,6 +288,26 @@ namespace TalesOfVesperiaUtils.Imaging
 			public override int ContentOffset
 			{
 				get { return (int)(uint)ImageEntry.ContentOffset; }
+			}
+
+			public void UpdateBitmapList(BitmapList BitmapList)
+			{
+				var Bitmaps = BitmapList.Bitmaps;
+				if (BitmapList.Bitmaps.Length == 0) throw(new Exception("Empty BitmapList"));
+				if (BitmapList.Bitmaps.Length != Depth) throw (new Exception(String.Format("Invalid dimensions {0}x{1}x{2} != {2}x{3}x{4}", Bitmaps[0].Width, Bitmaps[0].Height, Bitmaps.Length, Width, Height, Depth)));
+				if (Bitmaps[0].Width != Width || Bitmaps[0].Height != Height) throw (new Exception(String.Format("Invalid dimensions {0}x{1} != {2}x{3}", Bitmaps[0].Width, Bitmaps[0].Height, Width, Height)));
+
+				switch (ImageEntry.ImageFileFormat.TextureFormat)
+				{
+					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
+						(new DXT5()).SaveSwizzled3D(BitmapList, this.SliceStream.Slice(), CompressDXT.CompressionMode.Normal);
+						break;
+					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT1:
+						(new DXT1()).SaveSwizzled3D(BitmapList, this.SliceStream.Slice(), CompressDXT.CompressionMode.Normal);
+						break;
+					default:
+						throw (new NotImplementedException());
+				}
 			}
 		}
 
@@ -336,7 +360,7 @@ namespace TalesOfVesperiaUtils.Imaging
 				Bitmap.LockBitsUnlock(PixelFormat.Format32bppArgb, (BitmapData) =>
 				{
 					int WidthHeight = Width * Height;
-					var Stream = SliceStream.SliceWithLength();
+					var Stream = SliceStream.Slice();
 					var Bytes = Stream.ReadBytes(TotalBytes);
 					int m = 0;
 					bool Tiled = this.Tiled;
@@ -402,7 +426,7 @@ namespace TalesOfVesperiaUtils.Imaging
 						}
 					}
 
-					SliceStream.SliceWithLength().WriteBytes(Bytes).Flush();
+					SliceStream.Slice().WriteBytes(Bytes).Flush();
 				});
 			}
 
@@ -425,10 +449,10 @@ namespace TalesOfVesperiaUtils.Imaging
 						});
 						break;
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
-						(new DXT5()).SaveSwizzled2D(Bitmap, this.SliceStream, CompressDXT.CompressionMode.Normal);
+						(new DXT5()).SaveSwizzled2D(Bitmap, this.SliceStream.Slice(), CompressDXT.CompressionMode.Normal);
 						break;
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT1:
-						(new DXT1()).SaveSwizzled2D(Bitmap, this.SliceStream, CompressDXT.CompressionMode.Normal);
+						(new DXT1()).SaveSwizzled2D(Bitmap, this.SliceStream.Slice(), CompressDXT.CompressionMode.Normal);
 						break;
 					default:
 						throw(new NotImplementedException());
@@ -567,6 +591,12 @@ namespace TalesOfVesperiaUtils.Imaging
 			}
 			//Bitmap.GetChannelsDataInterleaved
 			return Bitmap;
+		}
+
+		public void Dispose()
+		{
+			foreach (var Entry in Surface2DEntries) Entry.Dispose();
+			foreach (var Entry in Surface3DEntries) Entry.Dispose();
 		}
 	}
 }
