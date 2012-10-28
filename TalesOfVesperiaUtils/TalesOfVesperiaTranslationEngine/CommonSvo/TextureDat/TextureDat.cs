@@ -50,7 +50,7 @@ namespace TalesOfVesperiaTranslationEngine.CommonSvo.TextureDat
 
 					Patcher.Action("Updating Battle Font Image", () =>
 					{
-						var BattleFont = new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("0.U_USUALBTLFONT00_EU.png", FileMode.Open)));
+						var BattleFont = new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("COMMON_SVO/TEXTURE_DAT/U_USUALBTLFONT00_EU.png", FileMode.Open)));
 						Txm.Surface2DEntriesByName["U_USUALBTLFONT00"].UpdateBitmap(BattleFont);
 						Txm.Surface2DEntriesByName["U_USUALBTLFONT00_EU"].UpdateBitmap(BattleFont);
 						//Txm.Surface2DEntriesByName["U_USUALBTLFONT00_EU"].Open().FillStreamWithByte((byte)0x00);
@@ -58,15 +58,15 @@ namespace TalesOfVesperiaTranslationEngine.CommonSvo.TextureDat
 
 					Patcher.Action("Updating Battle Info Image", () =>
 					{
-						var BattleFont = new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("0.U_USUALBTLFONT01.png", FileMode.Open)));
+						var BattleFont = new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("COMMON_SVO/TEXTURE_DAT/U_USUALBTLFONT01.png", FileMode.Open)));
 						Txm.Surface2DEntriesByName["U_USUALBTLFONT01"].UpdateBitmap(BattleFont);
 					});
 
 					Patcher.Action("Updating Loading Image", () =>
 					{
 						//Console.WriteLine(Txm.Surface2DEntriesByName["U_USUALLOAD00"]);
-						var Load00Mod = new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("0.U_USUALLOAD00.png", FileMode.Open)));
-						var Load01Mod = new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("0.U_USUALLOAD01.png", FileMode.Open)));
+						var Load00Mod = new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("COMMON_SVO/TEXTURE_DAT/U_USUALLOAD00.png", FileMode.Open)));
+						var Load01Mod = new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("COMMON_SVO/TEXTURE_DAT/U_USUALLOAD01.png", FileMode.Open)));
 						Txm.Surface2DEntriesByName["U_USUALLOAD00"].UpdateBitmap(Load00Mod);
 						Txm.Surface2DEntriesByName["U_USUALLOAD01"].UpdateBitmap(Load01Mod);
 						//new DXT5().SaveSwizzled2D(Load00Mod, Txm.Surface2DEntriesByName["U_USUALLOAD00"].Open(), CompressDXT.CompressionMode.Normal);
@@ -76,7 +76,7 @@ namespace TalesOfVesperiaTranslationEngine.CommonSvo.TextureDat
 
 					Patcher.Action("Updating Pause Image", () =>
 					{
-						var PauseMod = new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("0.U_USUALFIEINFO02.png", FileMode.Open)));
+						var PauseMod = new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("COMMON_SVO/TEXTURE_DAT/U_USUALFIEINFO02.png", FileMode.Open)));
 						Txm.Surface2DEntriesByName["U_USUALFIEINFO02"].UpdateBitmap(PauseMod);
 					});
 				});

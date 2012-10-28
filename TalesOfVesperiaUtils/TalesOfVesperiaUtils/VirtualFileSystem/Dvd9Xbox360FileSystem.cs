@@ -39,20 +39,6 @@ namespace TalesOfVesperiaUtils.VirtualFileSystem
 			return new FileSystemFileStreamStream(this, Dvd9Xbox360.RootEntry[FileName].Open());
 		}
 
-		protected override void ImplWriteFile(FileSystemFileStream FileStream, byte[] Buffer, int Offset, int Count)
-		{
-			throw new NotImplementedException();
-		}
-
-		protected override int ImplReadFile(FileSystemFileStream FileStream, byte[] Buffer, int Offset, int Count)
-		{
-			throw new NotImplementedException();
-		}
-
-		protected override void ImplCloseFile(FileSystemFileStream FileStream)
-		{
-		}
-
 		protected override void ImplSetFileTime(string Path, FileSystemEntry.FileTime FileTime)
 		{
 			throw new NotImplementedException();
