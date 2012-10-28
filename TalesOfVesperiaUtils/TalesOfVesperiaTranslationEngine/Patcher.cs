@@ -18,7 +18,8 @@ namespace TalesOfVesperiaTranslationEngine
 		static Patcher()
 		{
 			PatcherPath = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
-			PatcherDataFS = new LocalFileSystem(PatcherPath + "/../../Images", false);
+			//PatcherDataFS = new LocalFileSystem(PatcherPath + "/../../Images", false);
+			PatcherDataFS = new LocalFileSystem(PatcherPath + "/../../PatchData", false);
 			TempFS = new LocalFileSystem(PatcherPath + "/Temp", true);
 		}
 
