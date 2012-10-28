@@ -348,9 +348,9 @@ namespace TalesOfVesperiaSpike
 
 			var GameRootFS = new LocalFileSystem(GamePath);
 			var Patcher = new Patcher();
-			//new CommonSvo().Handle(Patcher, GameRootFS);
-			//new UiSvo().Handle(Patcher, GameRootFS);
-			new BtlSvo(Patcher).Handle(GameRootFS);
+			new UiSvo(Patcher).Handle(GameRootFS);
+			//new CommonSvo(Patcher).Handle(Patcher, GameRootFS);
+			//new BtlSvo(Patcher).Handle(GameRootFS);
 
 #if false
 			//TalesCompression.DecompressStream(File.OpenRead(@"C:\projects\talestra_tov\Bin\Debug\Temp\TEXTURE.DAT"));
