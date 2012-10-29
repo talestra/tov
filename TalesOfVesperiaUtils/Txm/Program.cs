@@ -33,30 +33,28 @@ namespace Txm
 		/// </summary>
 		/// <param name="_TxmPath"></param>
 		/// <param name="OutputDirectory"></param>
-		[Command("-u", "--unpack")]
-		[Description("Unpacks a TXM file")]
-		[Example("-u file.txm <folder>")]
-		protected void ExtractSvo(string TxmPath, string OutputDirectory = null)
+		[Command("-u2", "--unpack2")]
+		[Description("Unpacks a TXM/TXV file pair")]
+		[Example("-u2 file.txm file.txv <folder>")]
+		protected void ExtractTxmTxv(string TxmPath, string TxvPath = null, string OutputDirectory = null)
 		{
 			var BasePath = Path.GetDirectoryName(TxmPath);
 			if (BasePath == "") BasePath = ".";
 
-			if (TxmPath.Contains('*'))
-			{
-				foreach (var FileName in Directory.EnumerateFiles(BasePath, Path.GetFileName(TxmPath), Recursive ? SearchOption.AllDirectories : SearchOption.TopDirectoryOnly))
-				{
-					ExtractSvo(FileName, OutputDirectory);
-				}
-				return;
-			}
-
 			try
 			{
-				if (!File.Exists(TxmPath)) throw (new FileNotFoundException(String.Format("Can't find file '{0}'", TxmPath)));
 				var BaseFileName = Path.GetFileNameWithoutExtension(TxmPath);
+				if (TxmPath == null)
+				{
+					TxmPath = BasePath + Path.DirectorySeparatorChar + BaseFileName + ".txm";
+				}
+				if (TxvPath == null)
+				{
+					TxvPath = BasePath + Path.DirectorySeparatorChar + BaseFileName + ".txv";
+				}
 
-				TxmPath = BasePath + Path.DirectorySeparatorChar + BaseFileName + ".txm";
-				var TxvPath = BasePath + Path.DirectorySeparatorChar + BaseFileName + ".txv";
+				if (!File.Exists(TxmPath)) throw (new FileNotFoundException(String.Format("Can't find file '{0}'", TxmPath)));
+				if (!File.Exists(TxvPath)) throw (new FileNotFoundException(String.Format("Can't find file '{0}'", TxmPath)));
 
 				if (!File.Exists(TxmPath) && File.Exists(BasePath + Path.DirectorySeparatorChar + "0"))
 				{
@@ -146,6 +144,31 @@ namespace Txm
 			{
 				Console.Error.WriteLine(Exception);
 			}
+		}
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="_TxmPath"></param>
+		/// <param name="OutputDirectory"></param>
+		[Command("-u", "--unpack")]
+		[Description("Unpacks a TXM file")]
+		[Example("-u file.txm <folder>")]
+		protected void ExtractTxm(string TxmPath, string OutputDirectory = null)
+		{
+			var BasePath = Path.GetDirectoryName(TxmPath);
+			if (BasePath == "") BasePath = ".";
+
+			if (TxmPath.Contains('*'))
+			{
+				foreach (var FileName in Directory.EnumerateFiles(BasePath, Path.GetFileName(TxmPath), Recursive ? SearchOption.AllDirectories : SearchOption.TopDirectoryOnly))
+				{
+					ExtractTxm(FileName, OutputDirectory);
+				}
+				return;
+			}
+
+			ExtractTxmTxv(TxmPath, null, null);
 		}
 
 		/// <summary>

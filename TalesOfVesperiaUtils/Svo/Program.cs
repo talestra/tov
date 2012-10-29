@@ -8,6 +8,7 @@ using System.Text;
 using CSharpUtils.Getopt;
 using TalesOfVesperiaUtils;
 using TalesOfVesperiaUtils.Formats.Packages;
+using TalesOfVesperiaUtils.Compression;
 
 namespace Svo
 {
@@ -84,11 +85,18 @@ namespace Svo
 			Console.WriteLine("Loading {0}...", DatPath);
 			//try
 			//{
-			using (var Stream1 = File.OpenRead(DatPath))
+			using (var _Stream1 = File.OpenRead(DatPath))
 			using (var Stream2 = File.OpenRead(DavPath))
 			{
+				var Stream1 = (Stream)_Stream1;
 				try { Directory.CreateDirectory(OutputDirectory); }
 				catch { }
+
+				int Compressed = TalesCompression.DetectVersion(Stream1.Slice().ReadBytes(16));
+				if (Compressed >= 0)
+				{
+					Stream1 = TalesCompression.DecompressStream(Stream1);
+				}
 
 				if (Stream1.SliceWithLength().ReadString(7) == "TO8SCEL")
 				{
@@ -102,6 +110,8 @@ namespace Svo
 				else
 				{
 					var FPS4 = new FPS4(Stream1, Stream2);
+
+					Console.WriteLine("{0}", FPS4);
 
 					foreach (var Entry in FPS4)
 					{

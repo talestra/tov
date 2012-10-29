@@ -55,16 +55,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BtlSvo\BtlSvo.cs" />
     <Compile Include="CommonSvo\CommonSvo.cs" />
     <Compile Include="CommonSvo\TextureDat\TextureDat.cs" />
     <Compile Include="JsonTranslations.cs" />
     <Compile Include="Patcher.cs" />
+    <Compile Include="PatcherComponent.cs" />
     <Compile Include="PatchFolders.cs" />
     <Compile Include="PatchUtils.cs" />
     <Compile Include="PitfallDetector.cs" />
     <Compile Include="TranslateSkits.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UiSvo\ComAllTxm\ComAllTxm.cs" />
     <Compile Include="UiSvo\UiSvo.cs" />
     <Compile Include="UpdateFont.cs" />
   </ItemGroup>

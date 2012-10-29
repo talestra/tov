@@ -281,6 +281,11 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			Load(DatStream, DavStream);
 		}
 
+		public override string ToString()
+		{
+			return Header.ToStringDefault();
+		}
+
 		~FPS4()
 		{
 			Dispose();
@@ -320,6 +325,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 			for (uint n = 0; n < Header.ListCount; n++)
 			{
+				var EntryOffset = DatStream.Position;
 				var EntryStream = DatStream.ReadStream(Header.EntrySizeof);
 				var EntryStruct = default(EntryStruct);
 				var ExtraEntrySizeof = Header.EntrySizeof - 0x0C;
@@ -343,8 +349,17 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 						{
 							EntryStruct = EntryStream.ReadStruct<EntryStruct>();
 							StringOffset = EntryStream.ReadStruct<uint_be>();
-							Name = EntryStream.SliceWithLength(StringOffset, 0x1000).ReadStringz();
-							//Console.WriteLine(Name);
+							if (StringOffset != 0)
+							{
+								var NameStream = DatStream.SliceWithLength(StringOffset, 0x1000);
+								Name = NameStream.ReadStringz();
+								//File.WriteAllBytes("c:/temp/name" + StringOffset + ".bin", NameStream.Slice().ReadAll());
+								//Console.WriteLine("{0:X8}: '{1}'", StringOffset, Name);
+							}
+							else
+							{
+								if (EntryStruct.LengthReal == 0) continue;
+							}
 						}
 						break;
 					case 0x4F:
@@ -355,31 +370,37 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 						}
 						break;
 					default:
-						EntryStruct = EntryStream.ReadStruct<EntryStruct>();
-						Name = EntryStream.ReadStringz(ExtraEntrySizeof);
-
-						switch (ExtraEntrySizeof)
 						{
-							case 0:
-								{
-								}
-								break;
-							case 4:
-								{
-									StringOffset = EntryStream.ReadStruct<uint>();
-									// Pointer to string name.
-									if (StringOffset != 0)
+							EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+							Name = EntryStream.ReadStringz(ExtraEntrySizeof);
+
+							switch (ExtraEntrySizeof)
+							{
+								case 0:
 									{
-										throw (new NotImplementedException());
 									}
-								}
-								break;
-							default:
-								{
-                                    EntryStream.Position = EntryStream.Length - ExtraEntrySizeof;  // (0xC para common.svo y btl.svo, en los otros no sé) --- Apaño temporal
-                                    IndexName = Name = EntryStream.ReadStringz(ExtraEntrySizeof);
-								}
-								break;
+									break;
+								case 4:
+									{
+										StringOffset = EntryStream.ReadStruct<uint>();
+										// Pointer to string name.
+										if (StringOffset != 0)
+										{
+											throw (new NotImplementedException());
+										}
+									}
+									break;
+								default:
+									{
+										EntryStream.Position = EntryStream.Length - ExtraEntrySizeof;  // (0xC para common.svo y btl.svo, en los otros no sé) --- Apaño temporal
+										Name = EntryStream.ReadStringz(ExtraEntrySizeof);
+									}
+									break;
+							}
+
+							//Console.WriteLine("OFF:{0:X8}", EntryOffset);
+							//Console.WriteLine("STR:{0}", EntryStruct.ToStringDefault());
+							//Console.WriteLine("NAM'{0}'({1})", Name, Name.Length);
 						}
 						break;
 				}
@@ -389,16 +410,23 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				if (n == Header.ListCount - 1)
 				{
 					// Ignore last element with an empty name.
-					if (Name.Length == 0)
+					if (Name.Length == 0 && EntryStruct.LengthReal == 0)
 					{
 						continue;
 					}
+				}
+
+				if (IndexName.Length == 0)
+				{
+					IndexName = String.Format("{0}", n);
 				}
 
 				if (Name.Length == 0)
 				{
 					Name = IndexName;
 				}
+
+				//Console.WriteLine("Name: '{0}'", Encoding.UTF8.GetBytes(Name).ToStringArray());
 
 				var Entry = new Entry(this, EntryStruct, Name);
 				Entry.MappedFileIndex = MappedFileIndex;

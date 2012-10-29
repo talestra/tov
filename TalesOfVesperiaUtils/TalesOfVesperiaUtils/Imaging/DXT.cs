@@ -10,6 +10,7 @@ using System.Text;
 using CSharpUtils.Drawing;
 using CSharpUtils.Endian;
 using TalesOfVesperiaUtils.Imaging.Internal;
+using CSharpUtils;
 
 namespace TalesOfVesperiaUtils.Imaging
 {
@@ -23,6 +24,72 @@ namespace TalesOfVesperiaUtils.Imaging
 		/// 
 		/// </summary>
 		static protected readonly int BlockSize = Marshal.SizeOf(typeof(TBlock));
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Bitmap"></param>
+		/// <param name="Stream"></param>
+		/// <param name="mode"></param>
+		public void SaveSwizzled3D(BitmapList BitmapList, Stream Stream, CompressDXT.CompressionMode mode = CompressDXT.CompressionMode.Normal)
+		{
+			int Width = BitmapList.Bitmaps[0].Width, Height = BitmapList.Bitmaps[0].Height, Depth = BitmapList.Bitmaps.Length;
+			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
+
+			BitmapList.LockUnlockBits(PixelFormat.Format32bppArgb, (BitmapDatas) =>
+			{
+				var Bases = new ARGB_Rev*[Depth];
+				for (int n = 0; n < Depth; n++) Bases[n] = (ARGB_Rev*)BitmapDatas[n].Scan0.ToPointer();
+
+				int BlockWidth = Width / 4;
+				int BlockHeight = Height / 4;
+
+				//var BlockCount = BlockWidth * BlockHeight;
+				var ExpectedBlockCount = BlockWidth * BlockHeight * Depth;
+				int RealUsedBlockCount;
+
+				//RealUsedBlockCount = Swizzling.XGAddress2DTiledExtent(BlockWidth, BlockHeight, BlockSize);
+				RealUsedBlockCount = Swizzling.XGAddress3DTiledExtent(BlockWidth, BlockHeight, Depth, BlockSize);
+				//Console.WriteLine("{0} - {1}", ExpectedBlockCount, UsedBlockCount);
+
+				var BlockCount = RealUsedBlockCount;
+
+				var CurrentDecodedColors = new ARGB_Rev[4 * 4];
+				var Blocks = new TBlock[(uint)BlockCount];
+
+				for (int dxt5_n = 0; dxt5_n < BlockCount; dxt5_n++)
+				{
+					int TileX, TileY, TileZ;
+					Swizzling.XGAddress3DTiledXYZ(dxt5_n, BlockWidth, BlockHeight, BlockSize, out TileX, out TileY, out TileZ);
+
+					int PositionX = TileX * 4;
+					int PositionY = TileY * 4;
+					int PositionZ = TileZ;
+					int n = 0;
+
+					if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height) || (PositionZ >= Depth))
+					{
+						Console.Error.WriteLine("(Warning! [Write] Position outside ({0}, {1}, {2}) - ({3}x{4}x{5}))", PositionX, PositionY, PositionZ, Width, Height, Depth);
+						continue;
+					}
+
+					for (int y = 0; y < 4; y++)
+					for (int x = 0; x < 4; x++)
+					{
+						CurrentDecodedColors[n] = Bases[TileZ][(PositionY + y) * Width + (PositionX + x)];
+						n++;
+					}
+
+					//for (n = 0; n < 16; n++) CurrentDecodedColors[n] = new ARGB_Rev(0xFF, 0xFF, 0, (byte)(n * 16));
+					EncodeBlock(ref Blocks[dxt5_n], ref CurrentDecodedColors, mode);
+				}
+
+				//File.WriteAllBytes(@"C:\temp\font\test.txv", StructUtils.StructArrayToBytes(Blocks));
+				//Console.WriteLine(Blocks.Length * Marshal.SizeOf(typeof(TBlock)));
+				Stream.WriteStructVector(Blocks);
+				Stream.Flush();
+			});
+		}
 
 		/// <summary>
 		/// 
