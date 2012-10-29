@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Compression\CAB\CABUtils.cs" />
     <Compile Include="Compression\C\lzx_vesp.cs" />
+    <Compile Include="Compression\DecompressRecompressStream.cs" />
     <Compile Include="Compression\LzxCompression.cs" />
     <Compile Include="Compression\TalesCompression.cs" />
     <Compile Include="Compression\TalesCompression0.cs" />

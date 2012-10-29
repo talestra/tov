@@ -12,14 +12,14 @@ namespace TalesOfVesperiaTranslationEngine.CommonSvo
 {
 	public class CommonSvo
 	{
-		static public void Handle(Patcher Patcher, FileSystem RootFS)
+		public void Handle(Patcher Patcher, FileSystem GameRootFS)
 		{
 			Patcher.Action("common.svo", () =>
 			{
 				FileSystem CommonSvo = null;
 				Patcher.Action("Reading common.svo", () =>
 				{
-					CommonSvo = new FPS4FileSystem(new FPS4(RootFS.OpenFile("common.svo", FileMode.Open)));
+					CommonSvo = new FPS4FileSystem(new FPS4(GameRootFS.OpenFile("common.svo", FileMode.Open)));
 				});
 				TextureDat.TextureDat.Handle(Patcher, CommonSvo);
 			});

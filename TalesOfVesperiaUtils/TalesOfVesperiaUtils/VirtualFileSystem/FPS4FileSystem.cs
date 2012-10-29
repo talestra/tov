@@ -1,6 +1,7 @@
 ﻿using CSharpUtils.VirtualFileSystem;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,32 +9,38 @@ using TalesOfVesperiaUtils.Formats.Packages;
 
 namespace TalesOfVesperiaUtils.VirtualFileSystem
 {
-	public class FPS4FileSystem : FileSystem
+	public class FPS4FileSystem : FileSystem, IDisposable
 	{
+		bool Disposed;
 		FPS4 FPS4;
+
+		public FPS4FileSystem(Stream Stream)
+		{
+			this.FPS4 = new FPS4(Stream);
+		}
 
 		public FPS4FileSystem(FPS4 FPS4)
 		{
 			this.FPS4 = FPS4;
 		}
 
+		~FPS4FileSystem()
+		{
+			Dispose();
+		}
+
+		public void Dispose()
+		{
+			if (!Disposed)
+			{
+				Disposed = true;
+				FPS4.Dispose();
+			}
+		}
+
 		protected override FileSystemFileStream ImplOpenFile(string FileName, System.IO.FileMode FileMode)
 		{
 			return new FileSystemFileStreamStream(this, FPS4[FileName].Open());
-		}
-
-		protected override void ImplWriteFile(FileSystemFileStream FileStream, byte[] Buffer, int Offset, int Count)
-		{
-			throw new NotImplementedException();
-		}
-
-		protected override int ImplReadFile(FileSystemFileStream FileStream, byte[] Buffer, int Offset, int Count)
-		{
-			throw new NotImplementedException();
-		}
-
-		protected override void ImplCloseFile(FileSystemFileStream FileStream)
-		{
 		}
 
 		protected override void ImplSetFileTime(string Path, FileSystemEntry.FileTime FileTime)
