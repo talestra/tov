@@ -11,20 +11,44 @@ namespace TalesOfVesperiaTranslationEngine
 {
 	public class Patcher
 	{
-		static public string PatcherPath;
-		static public FileSystem TempFS;
-		static public FileSystem PatcherDataFS;
+		public string PatcherPath;
+		public FileSystem TempFS;
+		public FileSystem PatcherDataFS;
+		private Dictionary<string, List<TranslationEntry>> _EntriesByRoom;
+		public Dictionary<string, List<TranslationEntry>> EntriesByRoom
+		{
+			get
+			{
+				if (_EntriesByRoom == null)
+				{
+					_EntriesByRoom = new Dictionary<string, List<TranslationEntry>>();
 
-		static Patcher()
+					var TovProto = "tov.proto";
+					var TovJson = "Data/tov.json";
+
+					if (!TempFS.Exists(TovProto))
+					{
+						JsonTranslations.JsonToProtocolBuffer(PatcherDataFS.OpenFileRead(TovJson), TempFS.OpenFile(TovProto, FileMode.Create));
+					}
+
+					foreach (var Entry in JsonTranslations.ReadProto(TempFS.OpenFileRead(TovProto)).Items)
+					{
+						if (!_EntriesByRoom.ContainsKey(Entry.text_path)) _EntriesByRoom[Entry.text_path] = new List<TranslationEntry>();
+						_EntriesByRoom[Entry.text_path].Add(Entry);
+					}
+				}
+
+				return _EntriesByRoom;
+			}
+		}
+
+		public Patcher()
 		{
 			PatcherPath = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
 			//PatcherDataFS = new LocalFileSystem(PatcherPath + "/../../Images", false);
 			PatcherDataFS = new LocalFileSystem(PatcherPath + "/../../PatchData", false);
 			TempFS = new LocalFileSystem(PatcherPath + "/Temp", true);
-		}
-
-		public Patcher()
-		{
+			//JsonTranslations.JsonToProtocolBuffer();
 		}
 
 		int Level = 0;

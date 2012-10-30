@@ -65,7 +65,7 @@ namespace CompTov
 				using (var CompressedStream = File.OpenRead(CompressedFile))
 				using (var UncompressedStream = File.Open(UncompressedFile, FileMode.Create, FileAccess.Write, FileShare.None))
 				{
-					var Compression = TalesCompression.CreateFromStart(CompressedStream.SliceWithLength().ReadBytes(0x10));
+					var Compression = TalesCompression.CreateFromStart(CompressedStream.Slice().ReadBytes(0x10), CompressedStream.Length);
 					Compression.DecodeFile(CompressedStream, UncompressedStream);
 				}
 				var End = DateTime.UtcNow;

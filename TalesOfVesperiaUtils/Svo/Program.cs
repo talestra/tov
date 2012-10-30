@@ -92,7 +92,7 @@ namespace Svo
 				try { Directory.CreateDirectory(OutputDirectory); }
 				catch { }
 
-				int Compressed = TalesCompression.DetectVersion(Stream1.Slice().ReadBytes(16));
+				int Compressed = TalesCompression.DetectVersion(Stream1.Slice().ReadBytes(16), Stream1.Length);
 				if (Compressed >= 0)
 				{
 					Stream1 = TalesCompression.DecompressStream(Stream1);

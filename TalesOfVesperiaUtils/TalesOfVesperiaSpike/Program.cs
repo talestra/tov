@@ -348,6 +348,9 @@ namespace TalesOfVesperiaSpike
 
 			var GameRootFS = new LocalFileSystem(GamePath);
 			var Patcher = new Patcher();
+			
+			//var EntriesByRoom = Patcher.EntriesByRoom;
+
 			new UiSvo(Patcher).Handle(GameRootFS);
 			//new CommonSvo(Patcher).Handle(Patcher, GameRootFS);
 			//new BtlSvo(Patcher).Handle(GameRootFS);

@@ -52,5 +52,18 @@ namespace TalesOfVesperiaUtils.Imaging
 				}
 			}
 		}
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Path"></param>
+		public void Save(string Path)
+		{
+			int n = 0;
+			foreach (var Bitmap in Bitmaps)
+			{
+				Bitmap.Save(Path + "_" + n++ + ".png");
+			}
+		}
 	}
 }

@@ -570,5 +570,21 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				return Entries.Count;
 			}
 		}
+
+		public static bool IsValid(byte[] MagicData)
+		{
+			try
+			{
+				var Header = StructUtils.BytesToStruct<HeaderStruct>(MagicData);
+				var Magic = Encoding.ASCII.GetString(Header.Magic);
+				if (Magic != "FPS4") return false;
+				if (Header.ListCount > 10000) return false;
+				return true;
+			}
+			catch
+			{
+				return false;
+			}
+		}
 	}
 }

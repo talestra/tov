@@ -38,16 +38,12 @@ namespace TalesOfVesperiaTranslationEngine.UiSvo
 				{
 					var Entry = txm.Surface3DEntries[0];
 
-					{
-						var n = 0; foreach (var Bitmap in Entry.Bitmaps.Bitmaps) Bitmap.Save(@"c:/temp/font/" + n++ + ".png");
-					}
+					//Entry.Bitmaps.Save("c:/temp/font/f1_");
 
 					Entry.Bitmaps.Bitmaps[15] = new Bitmap(Image.FromStream(Patcher.PatcherDataFS.OpenFileRead("Data/FONTTEX10.FONTTEX10.15.png")));
 					Entry.UpdateBitmapList(Entry.Bitmaps);
-					
-					{
-						var n = 0; foreach (var Bitmap in Entry.Bitmaps.Bitmaps) Bitmap.Save(@"c:/temp/font/" + n++ + "_.png");
-					}
+
+					//Entry.Bitmaps.Save("c:/temp/font/f2_");
 				}
 			});
 		}

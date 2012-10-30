@@ -38,15 +38,11 @@ namespace TalesOfVesperiaUtils.Compression
 		}
 		static public MemoryStream DecompressStream(Stream InputStream)
 		{
-			InputStream = SliceStream.CreateWithLength(InputStream, 0);
-			byte[] Info = InputStream.ReadBytes(0x10);
-			//Console.WriteLine(Info.ToHexString());
-			var Decompressor = CreateFromStart(Info);
-			InputStream.Position = 0;
+			var Decompressor = CreateFromStart(InputStream.Slice().ReadBytes(0x10), InputStream.Length);
 			return Decompressor.DecodeFile(InputStream);
 		}
 
-		static public int DetectVersion(byte[] MagicData, bool ThrowException = false)
+		static public int DetectVersion(byte[] MagicData, long FileSize, bool ThrowException = false)
 		{
 			var Warnings = new List<String>();
 
@@ -62,6 +58,7 @@ namespace TalesOfVesperiaUtils.Compression
 
 				switch (HeaderStruct.Version)
 				{
+#if false
 					case 0:
 						if (HeaderStruct.CompressedLength != HeaderStruct.UncompressedLength)
 						{
@@ -72,6 +69,7 @@ namespace TalesOfVesperiaUtils.Compression
 							Warnings.Add("Compressed/Uncompressed Length too big");
 						}
 						break;
+#endif
 					case 1:
 					case 3:
 					case 4:
@@ -86,6 +84,10 @@ namespace TalesOfVesperiaUtils.Compression
 						if (HeaderStruct.CompressedLength > HeaderStruct.UncompressedLength)
 						{
 							Warnings.Add("Compressed size is bigger than the uncompressed size");
+						}
+						if (Math.Abs((long)HeaderStruct.CompressedLength - FileSize) >= 0x1000)
+						{
+							Warnings.Add("Invalid compressed size");
 						}
 
 						break;
@@ -132,9 +134,9 @@ namespace TalesOfVesperiaUtils.Compression
 		}
 
 
-		static public TalesCompression CreateFromStart(byte[] MagicData)
+		static public TalesCompression CreateFromStart(byte[] MagicData, long FileSize)
 		{
-			return CreateFromVersion(DetectVersion(MagicData, true));
+			return CreateFromVersion(DetectVersion(MagicData, FileSize, true));
 		}
 
 		static public TalesCompression CreateFromVersion(int Version)
