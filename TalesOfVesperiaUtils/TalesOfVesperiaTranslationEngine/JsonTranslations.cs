@@ -43,7 +43,9 @@ namespace TalesOfVesperiaTranslationEngine
 
 		[ProtoMember(1)] public string text_path;
 		[ProtoMember(2)] public string text_id;
-		[ProtoMember(3)] public string linked_id;
+		[ProtoIgnore]
+		[ProtoMember(3)]
+		public string linked_id;
 		//[ProtoMember(4)] public string project;
 		[ProtoMember(5)] public Texts texts;
 		//[ProtoMember(6)] public TranslationInfoList translated;
@@ -60,7 +62,7 @@ namespace TalesOfVesperiaTranslationEngine
 
 	public class JsonTranslations
 	{
-		static protected IEnumerable<TranslationEntry> ReadAllJson(Stream Stream)
+		static public IEnumerable<TranslationEntry> ReadAllJson(Stream Stream)
 		{
 			var Reader = new StreamReader(Stream);
 
@@ -72,12 +74,17 @@ namespace TalesOfVesperiaTranslationEngine
 			}
 		}
 
+		static public void JsonToProtocolBuffer(Stream JsonStream, Stream ProtocolStream)
+		{
+			WriteProto(ProtocolStream, ReadAllJson(JsonStream).ToArray());
+		}
+
 		static public void JsonToProtocolBuffer(string JsonFileName, string ProtocolFileName)
 		{
 			using (var Input = File.Open(JsonFileName, FileMode.Open, FileAccess.Read))
 			using (var Output = File.Open(ProtocolFileName, FileMode.Create, FileAccess.Write))
 			{
-				WriteProto(Output, ReadAllJson(Input).ToArray());
+				JsonToProtocolBuffer(Input, Output);
 			}
 		}
 

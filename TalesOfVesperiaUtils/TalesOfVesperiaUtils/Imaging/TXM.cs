@@ -598,5 +598,20 @@ namespace TalesOfVesperiaUtils.Imaging
 			foreach (var Entry in Surface2DEntries) Entry.Dispose();
 			foreach (var Entry in Surface3DEntries) Entry.Dispose();
 		}
+
+		public static bool IsValid(byte[] MagicData)
+		{
+			try
+			{
+				var ImageHeader = StructUtils.BytesToStruct<ImageHeaderStruct>(MagicData);
+				if (ImageHeader.Magic != 0x00020000) return false;
+				return true;
+			}
+			catch (Exception Exception)
+			{
+				Console.WriteLine(Exception);
+			}
+			return false;
+		}
 	}
 }
