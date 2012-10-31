@@ -82,7 +82,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			bool LastSeparator = true;
 			foreach (var Instruction in ReadInstructions())
 			{
-				//Console.WriteLine("{0}", Instruction);
+				//Console.WriteLine("{0:X8}: {1}", Instruction.InstructionPosition, Instruction);
 
 				switch (Instruction.Opcode)
 				{
@@ -126,7 +126,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							int TextFunc = 0;
 
 							if ((CallInstruction.FunctionType == FunctionType.Native) && (CallInstruction.NativeFunction == 1)) TextFunc = 1;
-							if ((CallInstruction.FunctionType == FunctionType.Script) && (CallInstruction.ScriptFunction == 12)) TextFunc = 2;
+							//if ((CallInstruction.FunctionType == FunctionType.Script) && ((new uint[] { 12, 0x12e30, }).Contains(CallInstruction.ScriptFunction))) TextFunc = 2;
 
 							if (TextFunc > 0)
 							{
@@ -184,6 +184,16 @@ namespace TalesOfVesperiaUtils.Formats.Script
 								TextId = PushArrayInstruction.ArrayPointer + this.Header.TextStart;
 								Text1 = new[] { E[2], E[3] };
 								Text2 = new[] { E[4], E[5] };
+
+								yield return new TextEntry()
+								{
+									TextType = TextType,
+									Id = TextId,
+									Original = Text1,
+									Translated = Text2,
+								};
+								LastSeparator = false;
+
 								/*
 								if (TextType != 0)
 								{

@@ -63,7 +63,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			{
 				get
 				{
-					if (_Elements == null) _Elements = GetElements(Strings: true).ToArray();
+					if (_Elements == null) _Elements = GetElements(AsInt: false).ToArray();
 					return _Elements;
 				}
 			}
@@ -73,19 +73,19 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			{
 				get
 				{
-					if (_IntElements == null) _IntElements = GetElements(Strings: false).Cast<int>().ToArray();
+					if (_IntElements == null) _IntElements = GetElements(AsInt: true).Cast<int>().ToArray();
 					return _IntElements;
 				}
 			}
 
-			private IEnumerable<dynamic> GetElements(bool Strings)
+			private IEnumerable<dynamic> GetElements(bool AsInt)
 			{
 				var ArrayStream = SliceStream.CreateWithLength(TSS.TextStream, ArrayPointer, ArrayNumberOfBytes);
 				{
 					switch (ValuesType)
 					{
 						case ValueType.String:
-							if (Strings)
+							if (!AsInt)
 							{
 								for (int n = 0; n < ArrayNumberOfElements; n++) yield return TSS.ReadStringz(ArrayStream.ReadStruct<uint_be>());
 							}
@@ -97,15 +97,30 @@ namespace TalesOfVesperiaUtils.Formats.Script
 						case ValueType.Integer32Signed:
 							for (int n = 0; n < ArrayNumberOfElements; n++) yield return (int)(uint)ArrayStream.ReadStruct<uint_be>();
 							break;
+						case ValueType.Float32:
+							if (!AsInt)
+							{
+								for (int n = 0; n < ArrayNumberOfElements; n++) yield return (float)ArrayStream.ReadStruct<float_be>();
+							}
+							else
+							{
+								for (int n = 0; n < ArrayNumberOfElements; n++) yield return (int)(uint)ArrayStream.ReadStruct<uint_be>();
+							}
+							break;
 						default:
-							throw (new Exception("Unhandled " + ValuesType));
+							{
+								Console.WriteLine("Unhandled " + ValuesType);
+								for (int n = 0; n < ArrayNumberOfElements; n++) yield return "<TODO " + "Unhandled " + ValuesType + ">";
+							}
+							break;
+							//throw (new Exception("Unhandled " + ValuesType));
 					}
 				}
 			}
 
 			protected override string GetParams()
 			{
-				return base.GetParams() + ", ValuesType=" + ValuesType + ", Count=" + ArrayNumberOfElements + ", Elements=" + Elements.Implode(",");
+				return base.GetParams() + ", ValuesType=" + ValuesType + ", Count=" + ArrayNumberOfElements + ", IntElements=" + IntElements.Implode(",") + ", Elements=" + Elements.Implode(",");
 			}
 		}
 
