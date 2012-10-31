@@ -15,14 +15,30 @@ namespace TalesOfVesperiaUtils.Imaging
 {
 	unsafe public class TXM : IDisposable
 	{
-		[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 0x50)]
-		public struct ImageHeaderStruct
+		[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 4)]
+		public struct ImageVersionStruct
 		{
 			/// <summary>
 			/// 0000 -
 			/// </summary>
 			[FieldOffset(0x0000)]
-			public uint_be Magic;
+			public ushort_be Version;
+
+			/// <summary>
+			/// 0002 -
+			/// </summary>
+			[FieldOffset(0x0000)]
+			public ushort_be VersionPadding;
+		}
+
+		[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 0x50)]
+		public struct ImageHeaderStructV2
+		{
+			/// <summary>
+			/// 0000 -
+			/// </summary>
+			[FieldOffset(0x0000)]
+			public ImageVersionStruct VersionInfo;
 
 			/// <summary>
 			/// 0004 - Total Size of the File (without the tailing padding)
@@ -72,7 +88,7 @@ namespace TalesOfVesperiaUtils.Imaging
 		/// Size 0x0058
 		/// </summary>
 		[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 0x58)]
-		public struct Surface2DInfoStruct
+		public struct Surface2DInfoStructV2
 		{
 			/// <summary>
 			/// 
@@ -130,7 +146,7 @@ namespace TalesOfVesperiaUtils.Imaging
 		/// Size 0x0058
 		/// </summary>
 		[StructLayout(LayoutKind.Explicit, Pack = 1, Size = 0x58)]
-		public struct Surface3DInfoStruct
+		public struct Surface3DInfoStructV2
 		{
 			/// <summary>
 			/// 
@@ -223,7 +239,7 @@ namespace TalesOfVesperiaUtils.Imaging
 			}
 		}
 
-		public class Surface3DEntryInfo : SurfaceEntryInfo<Surface3DInfoStruct>
+		public class Surface3DEntryInfo : SurfaceEntryInfo<Surface3DInfoStructV2>
 		{
 			private BitmapList _Bitmaps;
 
@@ -253,7 +269,7 @@ namespace TalesOfVesperiaUtils.Imaging
 				//return BitmapList;
 			}
 
-			public Surface3DEntryInfo(TXM TXM, int Index, Surface3DInfoStruct ImageEntry, string Name)
+			public Surface3DEntryInfo(TXM TXM, int Index, Surface3DInfoStructV2 ImageEntry, string Name)
 				: base(TXM, Index, ImageEntry, Name)
 			{
 			}
@@ -311,7 +327,7 @@ namespace TalesOfVesperiaUtils.Imaging
 			}
 		}
 
-		public class Surface2DEntryInfo : SurfaceEntryInfo<Surface2DInfoStruct>
+		public class Surface2DEntryInfo : SurfaceEntryInfo<Surface2DInfoStructV2>
 		{
 			private Bitmap _Bitmap;
 
@@ -320,7 +336,7 @@ namespace TalesOfVesperiaUtils.Imaging
 				get { return (int)(uint)ImageEntry.ContentOffset; }
 			}
 
-			public Surface2DEntryInfo(TXM TXM, int Index, Surface2DInfoStruct ImageEntry, string Name)
+			public Surface2DEntryInfo(TXM TXM, int Index, Surface2DInfoStructV2 ImageEntry, string Name)
 				: base(TXM, Index, ImageEntry, Name)
 			{
 			}
@@ -518,7 +534,8 @@ namespace TalesOfVesperiaUtils.Imaging
 			}
 		}
 
-		public ImageHeaderStruct ImageHeader;
+		public ImageVersionStruct ImageVersion;
+		public ImageHeaderStructV2 ImageHeader;
 		public Surface2DEntryInfo[] Surface2DEntries;
 		public Surface3DEntryInfo[] Surface3DEntries;
 		public Dictionary<string, Surface2DEntryInfo> Surface2DEntriesByName;
@@ -534,28 +551,44 @@ namespace TalesOfVesperiaUtils.Imaging
 		{
 			this.TXVStream = TXVStream;
 
-			this.ImageHeader = TXMStream.ReadStruct<ImageHeaderStruct>();
+			this.ImageVersion = TXMStream.Slice().ReadStruct<ImageVersionStruct>();
 
-			this.Surface2DEntriesByName = new Dictionary<string, Surface2DEntryInfo>();
-			this.Surface2DEntries = new Surface2DEntryInfo[ImageHeader.Surface2DCount];
-			for (int n = 0; n < ImageHeader.Surface2DCount; n++)
+			if (ImageVersion.Version == 1)
 			{
-				var ImageEntry = TXMStream.ReadStruct<Surface2DInfoStruct>();
-				var Name = TXMStream.SliceWithLength(TXMStream.Position + Marshal.OffsetOf(typeof(Surface2DInfoStruct), "StringOffset").ToInt32() - sizeof(Surface2DInfoStruct) + ImageEntry.StringOffset).ReadStringz();
-				var Entry = new Surface2DEntryInfo(this, n, ImageEntry, Name);
-				this.Surface2DEntries[n] = Entry;
-				this.Surface2DEntriesByName[Name] = Entry;
+				this.Surface2DEntriesByName = new Dictionary<string, Surface2DEntryInfo>();
+				this.Surface2DEntries = new Surface2DEntryInfo[0];
+				this.Surface3DEntriesByName = new Dictionary<string, Surface3DEntryInfo>();
+				this.Surface3DEntries = new Surface3DEntryInfo[0];
+				Console.Error.WriteLine("Not Implemented TXM V1!!!!!!!");
 			}
-
-			this.Surface3DEntriesByName = new Dictionary<string, Surface3DEntryInfo>();
-			this.Surface3DEntries = new Surface3DEntryInfo[ImageHeader.Surface3DCount];
-			for (int n = 0; n < ImageHeader.Surface3DCount; n++)
+			else
 			{
-				var ImageEntry = TXMStream.ReadStruct<Surface3DInfoStruct>();
-				var Name = TXMStream.SliceWithLength(TXMStream.Position + Marshal.OffsetOf(typeof(Surface3DInfoStruct), "StringOffset").ToInt32() - sizeof(Surface3DInfoStruct) + ImageEntry.StringOffset).ReadStringz();
-				var Entry = new Surface3DEntryInfo(this, n, ImageEntry, Name);
-				this.Surface3DEntries[n] = Entry;
-				this.Surface3DEntriesByName[Entry.Name] = Entry;
+				this.ImageHeader = TXMStream.ReadStruct<ImageHeaderStructV2>();
+
+				this.Surface2DEntriesByName = new Dictionary<string, Surface2DEntryInfo>();
+				this.Surface2DEntries = new Surface2DEntryInfo[ImageHeader.Surface2DCount];
+				for (int n = 0; n < ImageHeader.Surface2DCount; n++)
+				{
+					var ImageEntry = TXMStream.ReadStruct<Surface2DInfoStructV2>();
+					var Name = TXMStream.SliceWithLength(TXMStream.Position + Marshal.OffsetOf(typeof(Surface2DInfoStructV2), "StringOffset").ToInt32() - sizeof(Surface2DInfoStructV2) + ImageEntry.StringOffset).ReadStringz();
+					var Entry = new Surface2DEntryInfo(this, n, ImageEntry, Name);
+					this.Surface2DEntries[n] = Entry;
+					this.Surface2DEntriesByName[Name] = Entry;
+				}
+
+				this.Surface3DEntriesByName = new Dictionary<string, Surface3DEntryInfo>();
+				this.Surface3DEntries = new Surface3DEntryInfo[ImageHeader.Surface3DCount];
+				if (this.ImageHeader.VersionInfo.Version != 1)
+				{
+					for (int n = 0; n < ImageHeader.Surface3DCount; n++)
+					{
+						var ImageEntry = TXMStream.ReadStruct<Surface3DInfoStructV2>();
+						var Name = TXMStream.SliceWithLength(TXMStream.Position + Marshal.OffsetOf(typeof(Surface3DInfoStructV2), "StringOffset").ToInt32() - sizeof(Surface3DInfoStructV2) + ImageEntry.StringOffset).ReadStringz();
+						var Entry = new Surface3DEntryInfo(this, n, ImageEntry, Name);
+						this.Surface3DEntries[n] = Entry;
+						this.Surface3DEntriesByName[Entry.Name] = Entry;
+					}
+				}
 			}
 
 			return this;
@@ -603,8 +636,8 @@ namespace TalesOfVesperiaUtils.Imaging
 		{
 			try
 			{
-				var ImageHeader = StructUtils.BytesToStruct<ImageHeaderStruct>(MagicData);
-				if (ImageHeader.Magic != 0x00020000) return false;
+				var ImageHeader = StructUtils.BytesToStruct<ImageVersionStruct>(MagicData);
+				if (!(new int[] { 1, 2 }).Contains(ImageHeader.Version)) return false;
 				return true;
 			}
 			catch
