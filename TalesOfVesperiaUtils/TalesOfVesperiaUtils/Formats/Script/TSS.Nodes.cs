@@ -58,28 +58,48 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			public uint ArrayPointer;
 			public uint ArrayNumberOfElements;
 			public uint ArrayNumberOfBytes;
-			public List<dynamic> Elements
+			private dynamic[] _Elements;
+			public dynamic[] Elements
 			{
 				get
 				{
-					var Elements = new List<dynamic>();
-					var ArrayStream = SliceStream.CreateWithLength(TSS.TextStream, ArrayPointer, ArrayNumberOfBytes);
-					for (int n = 0; n < ArrayNumberOfElements; n++)
+					if (_Elements == null) _Elements = GetElements(Strings: true).ToArray();
+					return _Elements;
+				}
+			}
+
+			private int[] _IntElements;
+			public int[] IntElements
+			{
+				get
+				{
+					if (_IntElements == null) _IntElements = GetElements(Strings: false).Cast<int>().ToArray();
+					return _IntElements;
+				}
+			}
+
+			private IEnumerable<dynamic> GetElements(bool Strings)
+			{
+				var ArrayStream = SliceStream.CreateWithLength(TSS.TextStream, ArrayPointer, ArrayNumberOfBytes);
+				{
+					switch (ValuesType)
 					{
-						switch (ValuesType)
-						{
-							case ValueType.String:
-								var TextPointer = ArrayStream.ReadStruct<uint_be>();
-								Elements.Add(TSS.ReadStringz(TextPointer));
-								break;
-							case ValueType.Integer32Signed:
-								Elements.Add(ArrayStream.ReadStruct<uint_be>());
-								break;
-							default:
-								throw(new Exception("Unhandled " + ValuesType));
-						}
+						case ValueType.String:
+							if (Strings)
+							{
+								for (int n = 0; n < ArrayNumberOfElements; n++) yield return TSS.ReadStringz(ArrayStream.ReadStruct<uint_be>());
+							}
+							else
+							{
+								for (int n = 0; n < ArrayNumberOfElements; n++) yield return (int)(uint)ArrayStream.ReadStruct<uint_be>();
+							}
+							break;
+						case ValueType.Integer32Signed:
+							for (int n = 0; n < ArrayNumberOfElements; n++) yield return (int)(uint)ArrayStream.ReadStruct<uint_be>();
+							break;
+						default:
+							throw (new Exception("Unhandled " + ValuesType));
 					}
-					return Elements;
 				}
 			}
 

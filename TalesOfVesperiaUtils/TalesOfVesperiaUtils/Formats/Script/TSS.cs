@@ -65,6 +65,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 
 		public class TextEntry
 		{
+			public int TextType;
 			public uint Id;
 			public string[] Original;
 			public string[] Translated;
@@ -74,10 +75,11 @@ namespace TalesOfVesperiaUtils.Formats.Script
 		{
 			uint TextId = 0;
 			int Lang = 0;
+			int TextType = -1;
 			var Text1 = new string[] { };
 			var Text2 = new string[] { };
 			var Stack = new List<dynamic>();
-			bool LastSeparator = false;
+			bool LastSeparator = true;
 			foreach (var Instruction in ReadInstructions())
 			{
 				//Console.WriteLine("{0}", Instruction);
@@ -150,6 +152,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 
 										yield return new TextEntry()
 										{
+											TextType = TextType,
 											Id = TextId,
 											Original = Text1,
 											Translated = Text2,
@@ -160,6 +163,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 								}
 								Text1 = new string[] { };
 								Text2 = new string[] { };
+								TextType = -1;
 								Stack.Clear();
 							}
 						}
@@ -172,11 +176,22 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							if (PushArrayInstruction.ArrayNumberOfElements == 6)
 							{
 								var E = PushArrayInstruction.Elements.Cast<string>().ToArray();
+								var IE = PushArrayInstruction.IntElements;
+								TextType = IE[0];
+								int Unk = IE[1];
 								//Console.WriteLine("Dialog {0}, {1}, {2}", E[0], E[1], E[2]);
 								//Console.WriteLine("Dialog {0}, {1}, {2}", E[3], E[4], E[5]);
 								TextId = PushArrayInstruction.ArrayPointer + this.Header.TextStart;
 								Text1 = new[] { E[2], E[3] };
 								Text2 = new[] { E[4], E[5] };
+								/*
+								if (TextType != 0)
+								{
+									Console.WriteLine(TextType);
+									Console.WriteLine("{0}", Text1.Implode("."));
+									Console.WriteLine("{0}", Text2.Implode(","));
+								}
+								*/
 								//Console.ReadKey();
 							}
 						}

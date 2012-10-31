@@ -93,14 +93,17 @@ namespace TovExpander
 								try
 								{
 									var EntryStream = DecompressIfCompressedStream(Entry.CompressedStream);
-									EntryStream.CopyToFile(EntryFilePath);
+									if (EntryStream.Length > 0)
+									{
+										EntryStream.CopyToFile(EntryFilePath);
+									}
 								}
 								catch (Exception Exception)
 								{
 									ShowException(Exception);
 								}
 							}
-							ListToExpand.Add(EntryFilePath);
+							if (File.Exists(EntryFilePath)) ListToExpand.Add(EntryFilePath);
 						}
 					}
 					catch (Exception Exception)
@@ -123,14 +126,17 @@ namespace TovExpander
 								try
 								{
 									var EntryStream = DecompressIfCompressedStream(Entry.Open());
-									EntryStream.CopyToFile(EntryFilePath);
+									if (EntryStream.Length > 0)
+									{
+										EntryStream.CopyToFile(EntryFilePath);
+									}
 								}
 								catch (Exception Exception)
 								{
 									ShowException(Exception);
 								}
 							}
-							ListToExpand.Add(EntryFilePath);
+							if (File.Exists(EntryFilePath)) ListToExpand.Add(EntryFilePath);
 						}
 					}
 					catch (Exception Exception)
