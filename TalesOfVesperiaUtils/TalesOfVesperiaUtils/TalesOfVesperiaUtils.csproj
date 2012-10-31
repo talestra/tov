@@ -56,6 +56,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Audio\SE3.cs" />
+    <Compile Include="Audio\XMA2WAV.cs" />
     <Compile Include="Compression\CAB\CABUtils.cs" />
     <Compile Include="Compression\C\lzx_vesp.cs" />
     <Compile Include="Compression\DecompressRecompressStream.cs" />
@@ -115,6 +117,9 @@
       <Project>{746fadf2-d613-4ffd-8551-2181adae3cd1}</Project>
       <Name>CSharpUtils</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="towav.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
