@@ -60,8 +60,9 @@ namespace TovExpander
 		[Command("-xa", "--expand-all")]
 		[Description("Expands/decompresses all files in tov")]
 		[Example("-xa <.>")]
-		protected void ExpandAll(string GameFolder = "..")
+		protected void ExpandAll(string GameFolder = null)
 		{
+			if (GameFolder == null) GameFolder = ".";
 			Expand(GameFolder + "/*.svo");
 			Expand(GameFolder + "/language/*.dat");
 			Expand(GameFolder + "/language/*.so");
