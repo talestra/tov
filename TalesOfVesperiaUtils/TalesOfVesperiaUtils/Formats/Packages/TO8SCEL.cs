@@ -196,5 +196,20 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 		{
 			throw new NotImplementedException();
 		}
+
+		static public bool IsValid(byte[] Data)
+		{
+			try
+			{
+				var Header = StructUtils.BytesToStruct<HeaderStruct>(Data);
+				if (Header.Magic != "TO8SCEL") return false;
+
+				return true;
+			}
+			catch
+			{
+			}
+			return false;
+		}
 	}
 }

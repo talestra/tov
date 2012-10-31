@@ -607,9 +607,9 @@ namespace TalesOfVesperiaUtils.Imaging
 				if (ImageHeader.Magic != 0x00020000) return false;
 				return true;
 			}
-			catch (Exception Exception)
+			catch
 			{
-				Console.WriteLine(Exception);
+				//Console.WriteLine(Exception);
 			}
 			return false;
 		}

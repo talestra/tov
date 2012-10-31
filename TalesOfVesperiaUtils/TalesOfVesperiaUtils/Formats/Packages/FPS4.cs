@@ -428,17 +428,16 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 				//Console.WriteLine("Name: '{0}'", Encoding.UTF8.GetBytes(Name).ToStringArray());
 
+				if (Entries.ContainsKey(Name))
+				{
+					//Console.Error.WriteLine("Warning: Name '{0}' already contained", Name);
+					Name = n + "." + Name;
+				}
+
 				var Entry = new Entry(this, EntryStruct, Name);
 				Entry.MappedFileIndex = MappedFileIndex;
 				Entry.Index = n;
-				if (Entries.ContainsKey(Name))
-				{
-					Console.Error.WriteLine("Warning: Name '{0}' already contained", Name);
-				}
-				else
-				{
-					Entries.Add(Name, Entry);
-				}
+				Entries[Name] = Entry;
 			}
 		}
 

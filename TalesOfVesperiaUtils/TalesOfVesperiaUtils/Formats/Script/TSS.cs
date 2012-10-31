@@ -15,7 +15,10 @@ namespace TalesOfVesperiaUtils.Formats.Script
 		[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
 		unsafe public struct HeaderStruct
 		{
-			public fixed byte Magic[4];
+			//public fixed byte Magic[4];
+			[MarshalAs(UnmanagedType.ByValTStr, SizeConst = 4)]
+			public string Magic;
+
 			public uint_be CodeStart;
 			public uint_be CodeEntryPoint;
 			public uint_be TextStart;
@@ -29,20 +32,21 @@ namespace TalesOfVesperiaUtils.Formats.Script
 		public Stream CodeStream;
 		public Stream TextStream;
 		public HeaderStruct Header;
-		public List<InstructionNode> InstructionNodes = new List<InstructionNode>();
 
 		public IEnumerable<PushArrayInstructionNode> PushArrayInstructionNodes
 		{
 			get
 			{
-				return InstructionNodes
+				return ReadInstructions()
 					.Where(Instruction => Instruction is TSS.PushArrayInstructionNode)
 					.Cast<TSS.PushArrayInstructionNode>()
+					.Where(Instruction => Instruction.ValuesType == ValueType.String)
+					.Where(Instruction => Instruction.ArrayNumberOfElements == 6)
 				;
 			}
 		}
 
-		public void Load(Stream Stream)
+		public TSS Load(Stream Stream)
 		{
 			this.Stream = Stream;
 			var BinaryReader = new BinaryReader(Stream);
@@ -50,25 +54,152 @@ namespace TalesOfVesperiaUtils.Formats.Script
 
 			this.CodeStream = SliceStream.CreateWithBounds(Stream, Header.CodeStart, Header.TextStart);
 			this.TextStream = SliceStream.CreateWithLength(Stream, Header.TextStart, Header.TextLen);
+
+			return this;
 		}
 
 		public String ReadStringz(uint TextOffset)
 		{
-			return (SliceStream.CreateWithLength(TextStream, TextOffset)).ReadStringz(-1, Encoding.UTF8);
+			return (SliceStream.CreateWithLength(TextStream, TextOffset)).ReadStringz(Encoding: Encoding.UTF8);
 		}
 
-		public void ProcessCode()
+		public class TextEntry
 		{
-			var CodeBinaryReader = new BinaryReader(CodeStream);
+			public uint Id;
+			public string[] Original;
+			public string[] Translated;
+		}
+
+		public IEnumerable<TextEntry> ExtractTexts(bool HandleType1 = true)
+		{
+			uint TextId = 0;
+			int Lang = 0;
+			var Text1 = new string[] { };
+			var Text2 = new string[] { };
+			var Stack = new List<dynamic>();
+			bool LastSeparator = false;
+			foreach (var Instruction in ReadInstructions())
+			{
+				//Console.WriteLine("{0}", Instruction);
+
+				switch (Instruction.Opcode)
+				{
+					case Opcode.UNK_0E:
+						switch (Instruction.InstructionData & 0xFFFF)
+						{
+							case 0x07: Lang = 1; break;
+							case 0x83: Lang = 2; break;
+						}
+						break;
+					case Opcode.PUSH:
+						{
+							var PushInstruction = (PushInstructionNode)Instruction;
+							if (PushInstruction.ParameterType == ValueType.String)
+							{
+								if (Lang == 1) Text1 = new[] { (string)PushInstruction.ValueToPush.Value };
+								if (Lang == 2) Text2 = new[] { (string)PushInstruction.ValueToPush.Value };
+							}
+							else
+							{
+								Stack.Add(PushInstruction.ValueToPush.Value);
+							}
+							Lang = 0;
+						}
+						break;
+					case Opcode.FUNCTION_START:
+						{
+							// Separator
+							//Console.WriteLine("------------------------------------");
+							if (!LastSeparator)
+							{
+								yield return null;
+								LastSeparator = true;
+							}
+						}
+						break;
+					case Opcode.CALL:
+						{
+							var CallInstruction = (CallInstructionNode)Instruction;
+
+							int TextFunc = 0;
+
+							if ((CallInstruction.FunctionType == FunctionType.Native) && (CallInstruction.NativeFunction == 1)) TextFunc = 1;
+							if ((CallInstruction.FunctionType == FunctionType.Script) && (CallInstruction.ScriptFunction == 12)) TextFunc = 2;
+
+							if (TextFunc > 0)
+							{
+								if (Text1.Length > 0 || Text2.Length > 0)
+								{
+									if (Stack.Count > 0)
+									{
+										if (TextFunc == 1)
+										{
+											if (!HandleType1) continue;
+
+											try
+											{
+												TextId = uint.Parse(String.Format("{0}", Stack[0]));
+											}
+											catch
+											{
+												continue;
+											}
+
+											if (TextId < 00010001) continue;
+										}
+
+										yield return new TextEntry()
+										{
+											Id = TextId,
+											Original = Text1,
+											Translated = Text2,
+										};
+										LastSeparator = false;
+									}
+									//Console.WriteLine("############  AddText {0:D8}:('{1}', '{2}')", Stack[0], Text1.EscapeString(), Text2.EscapeString());
+								}
+								Text1 = new string[] { };
+								Text2 = new string[] { };
+								Stack.Clear();
+							}
+						}
+						break;
+					case Opcode.PUSH_ARRAY:
+						{
+							var PushArrayInstruction = (PushArrayInstructionNode)Instruction;
+							
+							// Dialog. Using PTR1.
+							if (PushArrayInstruction.ArrayNumberOfElements == 6)
+							{
+								var E = PushArrayInstruction.Elements.Cast<string>().ToArray();
+								//Console.WriteLine("Dialog {0}, {1}, {2}", E[0], E[1], E[2]);
+								//Console.WriteLine("Dialog {0}, {1}, {2}", E[3], E[4], E[5]);
+								TextId = PushArrayInstruction.ArrayPointer + this.Header.TextStart;
+								Text1 = new[] { E[2], E[3] };
+								Text2 = new[] { E[4], E[5] };
+								//Console.ReadKey();
+							}
+						}
+						break;
+				}
+			}
+		}
+
+		public IEnumerable<InstructionNode> ReadInstructions()
+		{
+			var CodeStream = this.CodeStream.Slice();
 			while (!CodeStream.Eof())
 			{
-				uint InstructionData = CodeBinaryReader.ReadUint32Endian(Endianness.BigEndian);
+				uint InstructionPosition = (uint)CodeStream.Position;
+				uint InstructionData = CodeStream.ReadStruct<uint_be>();
 				var InstructionOpcode = (Opcode)((InstructionData >> 24) & 0xFF);
 				InstructionNode InstructionNode;
 				InstructionNode = new InstructionNode()
 				{
 					TSS = this,
+					InstructionPosition = InstructionPosition,
 					Opcode = InstructionOpcode,
+					InstructionData = InstructionData,
 					InlineParam = InstructionData & 0xFFFFFF,
 				};
 
@@ -86,17 +217,18 @@ namespace TalesOfVesperiaUtils.Formats.Script
 					case Opcode.STACK_READ:
 						{
 							// uint text_block_addr = read_word;
-							InstructionNode.Parameter = CodeBinaryReader.ReadUint32Endian(Endianness.BigEndian);
+							InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
 						}
 						break;
 					case Opcode.CALL:
 						{
-							InstructionNode.Parameter = CodeBinaryReader.ReadUint32Endian(Endianness.BigEndian);
+							InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
 							var NumberOfParameters = (byte)((InstructionData >> 16) & 0xFF);
 							var NativeFunction = (short)(InstructionData & 0xFFFF);
 							InstructionNode = new CallInstructionNode()
 							{
 								TSS = this,
+								InstructionPosition = InstructionPosition,
 								Opcode = InstructionOpcode,
 								FunctionType = (NativeFunction != -1) ? TSS.FunctionType.Native : TSS.FunctionType.Script,
 								NativeFunction = NativeFunction,
@@ -110,6 +242,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							InstructionNode = new OpInstructionNode()
 							{
 								TSS = this,
+								InstructionPosition = InstructionPosition,
 								Opcode = InstructionOpcode,
 								InlineParam = InstructionData & 0xFFFF,
 								OperationType = (OperationType)((InstructionData >> 16) & 0xFF),
@@ -124,10 +257,11 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							{
 								//bool IsText = ((ValueTypeInt & 0x02) != 0);
 
-								var Offset = CodeBinaryReader.ReadUint32Endian(Endianness.BigEndian);
+								var Offset = CodeStream.ReadStruct<uint_be>();
 								InstructionNode = new PushInstructionNode()
 								{
 									TSS = this,
+									InstructionPosition = InstructionPosition,
 									Opcode = Opcode.PUSH,
 									Parameter = Offset,
 									//ParameterType = IsText ? ValueType.TextString : ValueType.String,
@@ -154,28 +288,29 @@ namespace TalesOfVesperiaUtils.Formats.Script
 									case ValueType.Integer32:
 									case ValueType.Integer32_2:
 									case ValueType.Integer32Signed:
-										Parameter = CodeBinaryReader.ReadUint32Endian(Endianness.BigEndian);
+										Parameter = CodeStream.ReadStruct<uint_be>();
 										break;
 									case ValueType.Float32:
-										Parameter = CodeBinaryReader.ReadSingleEndian(Endianness.BigEndian);
+										Parameter = CodeStream.ReadStruct<float_be>();
 										break;
 								}
 
 								InstructionNode = new PushInstructionNode()
 								{
 									TSS = this,
+									InstructionPosition = InstructionPosition,
 									Opcode = Opcode.PUSH,
 									Parameter = Parameter,
 									ParameterType = ParameterType,
 									InlineParam = null,
-									ValueToPush = new DynamicValue(ParameterType, InstructionNode.Parameter),
+									ValueToPush = new DynamicValue(ParameterType, Parameter),
 								};
 							}
 						}
 						break;
 					case Opcode.PUSH_ARRAY:
 						{
-							var ArrayPointer = CodeBinaryReader.ReadUint32Endian(Endianness.BigEndian);
+							var ArrayPointer = CodeStream.ReadStruct<uint_be>();
 							var ParameterTypeInt = (InstructionData >> 16) & 0xFF;
 							var ParameterType = (ValueType)(ParameterTypeInt);
 							uint TypeSize = GetTypeSize(ParameterTypeInt);
@@ -186,6 +321,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							InstructionNode = new PushArrayInstructionNode()
 							{
 								TSS = this,
+								InstructionPosition = InstructionPosition,
 								Opcode = Opcode.PUSH_ARRAY,
 								ValuesType = ParameterType,
 								ArrayPointer = ArrayPointer,
@@ -201,17 +337,31 @@ namespace TalesOfVesperiaUtils.Formats.Script
 					case Opcode.FUNCTION_START:
 					case Opcode.STACK_SUBSTRACT: // POP_RELATED?
 						{
-							InstructionNode.Parameter = CodeBinaryReader.ReadUint32Endian(Endianness.BigEndian);
+							InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
 						}
 						break;
 					default:
 						throw (new NotImplementedException("Unprocessed opcode: " + InstructionOpcode));
 				}
 
-				InstructionNodes.Add(InstructionNode);
+				yield return InstructionNode;
 
 				//Console.WriteLine(InstructionNode);
 			}
+		}
+
+		public static bool IsValid(byte[] Data)
+		{
+			try
+			{
+				var Header = StructUtils.BytesToStruct<HeaderStruct>(Data);
+				if (Header.Magic != "TSS") return false;
+				return true;
+			}
+			catch
+			{
+			}
+			return false;
 		}
 	}
 }

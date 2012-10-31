@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using TalesOfVesperiaUtils.Audio;
 using TalesOfVesperiaUtils.Compression;
 using TalesOfVesperiaUtils.Formats.Packages;
+using TalesOfVesperiaUtils.Formats.Script;
 using TalesOfVesperiaUtils.Imaging;
 
 namespace TovExpander
@@ -47,6 +48,11 @@ namespace TovExpander
 			return FileStream;
 		}
 
+		private void ShowException(Exception Exception)
+		{
+			Console.WriteLine("  ERROR: {0}", Verbose ? Exception.ToString() : Exception.Message.ToString());
+		}
+
 		/// <summary>
 		/// 
 		/// </summary>
@@ -58,7 +64,7 @@ namespace TovExpander
 		{
 			var ListToExpand = new List<string>();
 
-			Console.WriteLine("Expanding '{0}'...", FilePath);
+			//Console.WriteLine("Expanding '{0}'...", FilePath);
 
 			using (var _FileStream = File.OpenRead(FilePath))
 			{
@@ -70,7 +76,39 @@ namespace TovExpander
 				var FileStream = DecompressIfCompressedStream(_FileStream);
 				var MagicData = FileStream.Slice().ReadBytesUpTo(0x100);
 
-				if (FPS4.IsValid(MagicData))
+				if (false)
+				{
+				}
+				else if (TO8SCEL.IsValid(MagicData))
+				{
+					try
+					{
+						var To8Scel = new TO8SCEL(FileStream);
+						foreach (var Entry in To8Scel)
+						{
+							var EntryFilePath = FilePath + ".d/" + Entry.Index;
+							if (Overwrite || !File.Exists(EntryFilePath))
+							{
+								Console.WriteLine("{0}", EntryFilePath);
+								try
+								{
+									var EntryStream = DecompressIfCompressedStream(Entry.CompressedStream);
+									EntryStream.CopyToFile(EntryFilePath);
+								}
+								catch (Exception Exception)
+								{
+									ShowException(Exception);
+								}
+							}
+							ListToExpand.Add(EntryFilePath);
+						}
+					}
+					catch (Exception Exception)
+					{
+						ShowException(Exception);
+					}
+				}
+				else if (FPS4.IsValid(MagicData))
 				{
 					//Console.WriteLine("FPS4");
 					try
@@ -79,9 +117,9 @@ namespace TovExpander
 						foreach (var Entry in Fps4)
 						{
 							var EntryFilePath = FilePath + ".d/" + Entry.Name;
-							Console.WriteLine("{0}", EntryFilePath);
 							if (Overwrite || !File.Exists(EntryFilePath))
 							{
+								Console.WriteLine("{0}", EntryFilePath);
 								try
 								{
 									var EntryStream = DecompressIfCompressedStream(Entry.Open());
@@ -89,7 +127,7 @@ namespace TovExpander
 								}
 								catch (Exception Exception)
 								{
-									Console.WriteLine("  ERROR: {0}", Verbose ? Exception.ToString() : Exception.Message.ToString());
+									ShowException(Exception);
 								}
 							}
 							ListToExpand.Add(EntryFilePath);
@@ -97,7 +135,72 @@ namespace TovExpander
 					}
 					catch (Exception Exception)
 					{
-						Console.WriteLine("  ERROR: {0}", Verbose ? Exception.ToString() : Exception.Message.ToString());
+						ShowException(Exception);
+					}
+				}
+				else if (TSS.IsValid(MagicData))
+				{
+					int RoomId = 0;
+					try { RoomId = int.Parse(Path.GetFileNameWithoutExtension(FilePath)); }
+					catch { }
+					var TxtFile = FilePath + ".txt";
+					Console.WriteLine("{0}", TxtFile);
+					if (Overwrite || !File.Exists(TxtFile))
+					{
+						using (var TxtStream = File.Open(TxtFile, FileMode.Create, FileAccess.Write))
+						using (var TextWriter = new StreamWriter(TxtStream))
+						{
+							try
+							{
+								var Tss = new TSS().Load(FileStream);
+
+								foreach (var Entry in Tss.ExtractTexts())
+								{
+									if (Entry == null)
+									{
+										TextWriter.WriteLine("---------------------------------------------");
+									}
+									else
+									{
+										TextWriter.WriteLine(
+											"{0:X8}:[{1}]:[{2}]",
+											Entry.Id,
+											Entry.Original.Select(Item => "'" + Item.EscapeString() + "'").Implode(","),
+											Entry.Translated.Select(Item => "'" + Item.EscapeString() + "'").Implode(",")
+										);
+									}
+								}
+
+								/*
+								foreach (var Instruction in Tss.ReadInstructions())
+								{
+									Console.WriteLine(Instruction);
+								}
+								foreach (var Instruction in Tss.PushArrayInstructionNodes)
+								{
+									TextWriter.WriteLine("scenario/{0:D4}@{1:X8}@{2:X8}:", RoomId, Instruction.InstructionPosition, Instruction.ArrayPointer + Tss.Header.TextStart);
+									try
+									{
+										foreach (var Element in Instruction.Elements)
+										{
+											TextWriter.WriteLine("'{0}'", StringExtensions.EscapeString(Element.ToString()));
+										}
+									}
+									catch (Exception Exception)
+									{
+										ShowException(Exception);
+									}
+									TextWriter.WriteLine("");
+									//Console.WriteLine("{0}", Instruction.Elements);
+								}
+								//Console.WriteLine("TSS");
+								*/
+							}
+							catch (Exception Exception)
+							{
+								ShowException(Exception);
+							}
+						}
 					}
 				}
 				else if (TO8CHTX.IsValid(MagicData))
@@ -165,6 +268,7 @@ namespace TovExpander
 					}
 
 					var Txm = TXM.FromTxmTxv(File.OpenRead(TxmPath), File.OpenRead(TxvPath));
+					/*
 					if (Txm.Surface2DEntries.Length > 0 && Txm.Surface3DEntries.Length > 0)
 					{
 						// 3D and 2D surfaces
@@ -180,13 +284,21 @@ namespace TovExpander
 						// 3D Surfaces
 						//Console.WriteLine("3D SURFACES! {0}", Txm.Surface3DEntries.Length);
 					}
+					*/
 
 					foreach (var Entry in Txm.Surface2DEntries)
 					{
 						var ImagePath = BasePath + "." + Entry.Name + ".png";
 						if (Overwrite || !File.Exists(ImagePath))
 						{
-							Entry.Bitmap.Save(ImagePath);
+							try
+							{
+								Entry.Bitmap.Save(ImagePath);
+							}
+							catch (Exception Exception)
+							{
+								ShowException(Exception);
+							}
 						}
 					}
 
@@ -195,15 +307,23 @@ namespace TovExpander
 						var ImagePath0 = BasePath + "." + Entry.Name + "." + 0 + ".png";
 						if (Overwrite || !File.Exists(ImagePath0))
 						{
-							var n = 0;
-							foreach (var Bitmap in Entry.Bitmaps.Bitmaps)
+							try
 							{
-								var ImagePath = BasePath + "." + Entry.Name + "." + n + ".png";
-								if (Overwrite || !File.Exists(ImagePath))
+								var n = 0;
+								foreach (var Bitmap in Entry.Bitmaps.Bitmaps)
 								{
-									Bitmap.Save(ImagePath);
+									var ImagePath = BasePath + "." + Entry.Name + "." + n + ".png";
+									Console.WriteLine("{0}", ImagePath);
+									if (Overwrite || !File.Exists(ImagePath))
+									{
+										Bitmap.Save(ImagePath);
+									}
+									n++;
 								}
-								n++;
+							}
+							catch (Exception Exception)
+							{
+								ShowException(Exception);
 							}
 						}
 					}

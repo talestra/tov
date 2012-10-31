@@ -203,7 +203,14 @@ namespace TalesOfVesperiaUtils.Imaging
 			var BlockCount = RealUsedBlockCount;
 			//var BlockCount = ExpectedBlockCount;
 
-			var Blocks = File.ReadStructVector<TBlock>((uint)BlockCount);
+			if (BlockCount * Marshal.SizeOf(typeof(TBlock)) > File.Length)
+			{
+				Console.Error.WriteLine("File too small");
+				//throw(new Exception("File too small"));
+				return new BitmapList(0);
+			}
+
+			var Blocks = File.ReadStructVector<TBlock>((uint)BlockCount, -1);
 
 			//Console.WriteLine(Blocks.Length);
 
