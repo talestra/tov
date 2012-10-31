@@ -62,6 +62,18 @@ namespace TovExpander
 		[Example("-x btl.svo")]
 		protected void Expand(string FilePath)
 		{
+			if (FilePath.Contains('*') || FilePath.Contains('?'))
+			{
+				var BasePath = Path.GetDirectoryName(FilePath);
+				var Recursive = false;
+				foreach (var FileName in Directory.EnumerateFiles(BasePath, Path.GetFileName(FilePath), Recursive ? SearchOption.AllDirectories : SearchOption.TopDirectoryOnly))
+				{
+					Expand(FileName);
+				}
+				return;
+			}
+
+
 			var ListToExpand = new List<string>();
 
 			//Console.WriteLine("Expanding '{0}'...", FilePath);

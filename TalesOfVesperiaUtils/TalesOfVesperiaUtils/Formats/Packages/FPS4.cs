@@ -318,126 +318,138 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				OriginalFilePath = "";
 			}
 
-			DatStream.Position = Header.ListStart;
 			//Console.WriteLine("{0:X8}", Stream.Position);
 
 			if (Header.ListCount > 10000) throw (new Exception("List too big (" + Header.ListCount + ")"));
 
-			for (uint n = 0; n < Header.ListCount; n++)
+			bool UseIndices = false;
+			foreach (var Pass in new[] { false, true })
 			{
-				var EntryOffset = DatStream.Position;
-				var EntryStream = DatStream.ReadStream(Header.EntrySizeof);
-				var EntryStruct = default(EntryStruct);
-				var ExtraEntrySizeof = Header.EntrySizeof - 0x0C;
-				var IndexName = String.Format("{0}", n);
-				var Name = "";
-				uint MappedFileIndex = 0;
-				uint StringOffset = 0;
-
-				// @TODO: EntryFormat probably is a bitfield
-				//        or a composed enum + bit field
-				//        I don't know the bit mapping.
-				switch ((int)Header.EntryFormat)
+				DatStream.Position = Header.ListStart;
+				for (uint n = 0; n < Header.ListCount; n++)
 				{
-					case 0x8D:
-						EntryStruct.Offset = EntryStream.ReadStruct<uint_be>();
-						EntryStruct.LengthReal = EntryStruct.LengthSectorAligned = EntryStream.ReadStruct<uint_be>();
-						Name = EntryStream.ReadStringz(0x20);
-						MappedFileIndex = EntryStream.ReadStruct<uint_be>();
-						break;
-					case 0x47:
-						{
-							EntryStruct = EntryStream.ReadStruct<EntryStruct>();
-							StringOffset = EntryStream.ReadStruct<uint_be>();
-							if (StringOffset != 0)
-							{
-								var NameStream = DatStream.SliceWithLength(StringOffset, 0x1000);
-								Name = NameStream.ReadStringz();
-								//File.WriteAllBytes("c:/temp/name" + StringOffset + ".bin", NameStream.Slice().ReadAll());
-								//Console.WriteLine("{0:X8}: '{1}'", StringOffset, Name);
-							}
-							else
-							{
-								if (EntryStruct.LengthReal == 0) continue;
-							}
-						}
-						break;
-					case 0x4F:
-						{
-							EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+					var EntryOffset = DatStream.Position;
+					var EntryStream = DatStream.ReadStream(Header.EntrySizeof);
+					var EntryStruct = default(EntryStruct);
+					var ExtraEntrySizeof = Header.EntrySizeof - 0x0C;
+					var IndexName = String.Format("{0}", n);
+					var Name = "";
+					uint MappedFileIndex = 0;
+					uint StringOffset = 0;
+
+					// @TODO: EntryFormat probably is a bitfield
+					//        or a composed enum + bit field
+					//        I don't know the bit mapping.
+					switch ((int)Header.EntryFormat)
+					{
+						case 0x8D:
+							EntryStruct.Offset = EntryStream.ReadStruct<uint_be>();
+							EntryStruct.LengthReal = EntryStruct.LengthSectorAligned = EntryStream.ReadStruct<uint_be>();
 							Name = EntryStream.ReadStringz(0x20);
 							MappedFileIndex = EntryStream.ReadStruct<uint_be>();
-						}
-						break;
-					default:
-						{
-							EntryStruct = EntryStream.ReadStruct<EntryStruct>();
-							Name = EntryStream.ReadStringz(ExtraEntrySizeof);
-
-							switch (ExtraEntrySizeof)
+							break;
+						case 0x47:
 							{
-								case 0:
-									{
-									}
-									break;
-								case 4:
-									{
-										StringOffset = EntryStream.ReadStruct<uint>();
-										// Pointer to string name.
-										if (StringOffset != 0)
-										{
-											throw (new NotImplementedException());
-										}
-									}
-									break;
-								default:
-									{
-										EntryStream.Position = EntryStream.Length - ExtraEntrySizeof;  // (0xC para common.svo y btl.svo, en los otros no sé) --- Apaño temporal
-										Name = EntryStream.ReadStringz(ExtraEntrySizeof);
-									}
-									break;
+								EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+								StringOffset = EntryStream.ReadStruct<uint_be>();
+								if (StringOffset != 0)
+								{
+									var NameStream = DatStream.SliceWithLength(StringOffset, 0x1000);
+									Name = NameStream.ReadStringz();
+									//File.WriteAllBytes("c:/temp/name" + StringOffset + ".bin", NameStream.Slice().ReadAll());
+									//Console.WriteLine("{0:X8}: '{1}'", StringOffset, Name);
+								}
+								else
+								{
+									if (EntryStruct.LengthReal == 0) continue;
+								}
 							}
+							break;
+						case 0x4F:
+							{
+								EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+								Name = EntryStream.ReadStringz(0x20);
+								MappedFileIndex = EntryStream.ReadStruct<uint_be>();
+							}
+							break;
+						default:
+							{
+								EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+								Name = EntryStream.ReadStringz(ExtraEntrySizeof);
 
-							//Console.WriteLine("OFF:{0:X8}", EntryOffset);
-							//Console.WriteLine("STR:{0}", EntryStruct.ToStringDefault());
-							//Console.WriteLine("NAM'{0}'({1})", Name, Name.Length);
-						}
-						break;
-				}
+								switch (ExtraEntrySizeof)
+								{
+									case 0:
+										{
+										}
+										break;
+									case 4:
+										{
+											StringOffset = EntryStream.ReadStruct<uint>();
+											// Pointer to string name.
+											if (StringOffset != 0)
+											{
+												throw (new NotImplementedException());
+											}
+										}
+										break;
+									default:
+										{
+											EntryStream.Position = EntryStream.Length - ExtraEntrySizeof;  // (0xC para common.svo y btl.svo, en los otros no sé) --- Apaño temporal
+											Name = EntryStream.ReadStringz(ExtraEntrySizeof);
+										}
+										break;
+								}
 
-				//Console.WriteLine("Name: {0}", Name);
+								//Console.WriteLine("OFF:{0:X8}", EntryOffset);
+								//Console.WriteLine("STR:{0}", EntryStruct.ToStringDefault());
+								//Console.WriteLine("NAM'{0}'({1})", Name, Name.Length);
+							}
+							break;
+					}
 
-				if (n == Header.ListCount - 1)
-				{
-					// Ignore last element with an empty name.
-					if (Name.Length == 0 && EntryStruct.LengthReal == 0)
+					//Console.WriteLine("Name: {0}", Name);
+
+					if (n == Header.ListCount - 1)
 					{
-						continue;
+						// Ignore last element with an empty name.
+						if (Name.Length == 0 && EntryStruct.LengthReal == 0)
+						{
+							continue;
+						}
+					}
+
+					if (IndexName.Length == 0)
+					{
+						IndexName = String.Format("{0}", n);
+					}
+
+					if (Name.Length == 0)
+					{
+						UseIndices = true;
+					}
+
+					if (UseIndices)
+					{
+						Name = IndexName;
+					}
+
+					//Console.WriteLine("Name: '{0}'", Encoding.UTF8.GetBytes(Name).ToStringArray());
+
+					if (Entries.ContainsKey(Name))
+					{
+						//Console.Error.WriteLine("Warning: Name '{0}' already contained", Name);
+						Name = n + "." + Name;
+					}
+
+					if (Pass)
+					{
+						var Entry = new Entry(this, EntryStruct, Name);
+						Entry.MappedFileIndex = MappedFileIndex;
+						Entry.Index = n;
+						Entries[Name] = Entry;
 					}
 				}
-
-				if (IndexName.Length == 0)
-				{
-					IndexName = String.Format("{0}", n);
-				}
-
-				if (Name.Length == 0)
-				{
-					Name = IndexName;
-				}
-
-				//Console.WriteLine("Name: '{0}'", Encoding.UTF8.GetBytes(Name).ToStringArray());
-
-				if (Entries.ContainsKey(Name))
-				{
-					//Console.Error.WriteLine("Warning: Name '{0}' already contained", Name);
-					Name = n + "." + Name;
-				}
-
-				var Entry = new Entry(this, EntryStruct, Name);
-				Entry.MappedFileIndex = MappedFileIndex;
-				Entry.Index = n;
-				Entries[Name] = Entry;
 			}
 		}
 
