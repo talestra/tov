@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TalesOfVesperiaUtils.Audio;
 using TalesOfVesperiaUtils.Compression;
 using TalesOfVesperiaUtils.Formats.Packages;
 using TalesOfVesperiaUtils.Imaging;
@@ -98,6 +99,50 @@ namespace TovExpander
 					{
 						Console.WriteLine("  ERROR: {0}", Verbose ? Exception.ToString() : Exception.Message.ToString());
 					}
+				}
+				else if (TO8CHTX.IsValid(MagicData))
+				{
+					var Chtx = new TO8CHTX(FileStream);
+					var TxtFile = FilePath + ".txt";
+					Console.WriteLine("{0}", TxtFile);
+					if (Overwrite || !File.Exists(TxtFile))
+					{
+						using (var TxtStream = File.Open(TxtFile, FileMode.Create, FileAccess.Write))
+						using (var TextWriter = new StreamWriter(TxtStream))
+						{
+							foreach (var Entry in Chtx.Entries)
+							{
+								TextWriter.WriteLine("{0}", Entry.Title);
+								TextWriter.WriteLine("{0}", Entry.TextOriginal);
+								TextWriter.WriteLine("{0}", Entry.TextTranslated);
+								TextWriter.WriteLine("");
+							}
+						}
+						//Chtx.Entries[0].Title
+						//Console.WriteLine("CHAT!");
+					}
+				}
+				else if (SE3.IsValid(MagicData))
+				{
+					var Se3 = new SE3().Load(FileStream);
+					foreach (var Entry in Se3.Entries)
+					{
+						var EntryFullNameXma = FilePath + "." + Entry.Name + ".xma";
+						var EntryFullNameWav = FilePath + "." + Entry.Name + ".wav";
+						Console.WriteLine("{0}", EntryFullNameXma);
+						if (Overwrite || !File.Exists(EntryFullNameXma))
+						{
+							Entry.ToXmaWav().CopyToFile(EntryFullNameXma);
+						}
+						if (Overwrite || !File.Exists(EntryFullNameWav))
+						{
+							using (var WavOut = File.Open(EntryFullNameWav, FileMode.Create, FileAccess.Write))
+							{
+								Entry.ToWav(WavOut);
+							}
+						}
+					}
+
 				}
 				else if (TXM.IsValid(MagicData))
 				{
