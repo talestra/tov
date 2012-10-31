@@ -56,6 +56,21 @@ namespace TovExpander
 		/// <summary>
 		/// 
 		/// </summary>
+		/// <param name="GameFolder"></param>
+		[Command("-xa", "--expand-all")]
+		[Description("Expands/decompresses all files in tov")]
+		[Example("-xa <.>")]
+		protected void ExpandAll(string GameFolder = "..")
+		{
+			Expand(GameFolder + "/*.svo");
+			Expand(GameFolder + "/language/*.dat");
+			Expand(GameFolder + "/language/*.so");
+			Expand(GameFolder + "/snd/*.dat");
+		}
+
+		/// <summary>
+		/// 
+		/// </summary>
 		/// <param name="FilePath"></param>
 		[Command("-x", "--expand")]
 		[Description("Expands/decompresses a FPS4 file recursively and extracts image files/text files")]
@@ -66,6 +81,7 @@ namespace TovExpander
 			{
 				var BasePath = Path.GetDirectoryName(FilePath);
 				var Recursive = false;
+				if (BasePath == "") BasePath = ".";
 				foreach (var FileName in Directory.EnumerateFiles(BasePath, Path.GetFileName(FilePath), Recursive ? SearchOption.AllDirectories : SearchOption.TopDirectoryOnly))
 				{
 					Expand(FileName);
