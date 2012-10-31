@@ -6,6 +6,7 @@ using CSharpUtils;
 using CSharpUtils.Streams;
 using CSharpUtils;
 using System.IO;
+using CSharpUtils.Endian;
 
 namespace TalesOfVesperiaUtils.Formats.Script
 {
@@ -15,10 +16,12 @@ namespace TalesOfVesperiaUtils.Formats.Script
 		public class InstructionNode
 		{
 			public TSS TSS;
+			public uint InstructionPosition;
 			public Opcode Opcode;
 			public dynamic InlineParam;
 			public ValueType? ParameterType;
 			public dynamic Parameter;
+			public uint InstructionData;
 
 			virtual protected String GetParams()
 			{
@@ -61,14 +64,16 @@ namespace TalesOfVesperiaUtils.Formats.Script
 				{
 					var Elements = new List<dynamic>();
 					var ArrayStream = SliceStream.CreateWithLength(TSS.TextStream, ArrayPointer, ArrayNumberOfBytes);
-					var ArrayReader = new BinaryReader(ArrayStream);
 					for (int n = 0; n < ArrayNumberOfElements; n++)
 					{
 						switch (ValuesType)
 						{
 							case ValueType.String:
-								var TextPointer = ArrayReader.ReadUint32Endian(Endianness.BigEndian);
+								var TextPointer = ArrayStream.ReadStruct<uint_be>();
 								Elements.Add(TSS.ReadStringz(TextPointer));
+								break;
+							case ValueType.Integer32Signed:
+								Elements.Add(ArrayStream.ReadStruct<uint_be>());
 								break;
 							default:
 								throw(new Exception("Unhandled " + ValuesType));
@@ -80,7 +85,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 
 			protected override string GetParams()
 			{
-				return base.GetParams() + ", ValuesType=" + ValuesType + ", Elements=" + Elements.Implode(",");
+				return base.GetParams() + ", ValuesType=" + ValuesType + ", Count=" + ArrayNumberOfElements + ", Elements=" + Elements.Implode(",");
 			}
 		}
 

@@ -15,7 +15,7 @@ namespace TalesOfVesperiaTests
 		{
 			var TSS = new TSS();
 			TSS.Load(File.OpenRead(String.Format(@"{0}\BTL_EP_510_080.TSS", Utils.TestInputPath)));
-			TSS.ProcessCode();
+			TSS.ReadInstructions();
 			var SelectedInstructions = TSS.PushArrayInstructionNodes
 				.Where(Instruction => (Instruction.ArrayNumberOfElements == 6))
 			;
@@ -46,8 +46,7 @@ namespace TalesOfVesperiaTests
 		{
 			var TSS = new TSS();
 			TSS.Load(File.OpenRead(String.Format(@"{0}\BTL_EP_510_080.TSS", Utils.TestInputPath)));
-			TSS.ProcessCode();
-			var SelectedInstructions = TSS.InstructionNodes
+			var SelectedInstructions = TSS.ReadInstructions()
 				.Where(
 					Instruction => (
 						(Instruction.Opcode == TSS.Opcode.PUSH)
