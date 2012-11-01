@@ -203,6 +203,10 @@ namespace TalesOfVesperiaUtils.Compression.C
 
 		static public void ENSURE_BITS(ref int bitsleft, ref byte* inpos, ref uint bitbuf, int n)
 		{
+#if DEBUG_LZX_COMPRESSION
+			//Console.WriteLine("ENSURE_BITS({0})", n);
+#endif
+
 			while (bitsleft < (n)) {
 				bitbuf |= (uint)(((inpos[1]<<8)|inpos[0]) << (int)(UWORD_BITS-16 - bitsleft));
 				bitsleft += 16; inpos+=2;
@@ -225,6 +229,9 @@ namespace TalesOfVesperiaUtils.Compression.C
 			ENSURE_BITS(ref bitsleft, ref inpos, ref bitbuf, n);
 			(v) = PEEK_BITS(ref bitsleft, ref inpos, ref bitbuf, n);
 			REMOVE_BITS(ref bitsleft, ref inpos, ref bitbuf, n);
+#if DEBUG_LZX_COMPRESSION
+			Console.WriteLine("READ_BITS({0})({1})", n, v);
+#endif
 		}
 
 		static public void READ_BITS(ref int bitsleft, ref byte* inpos, ref uint bitbuf, ref int v, int n)
@@ -470,6 +477,10 @@ namespace TalesOfVesperiaUtils.Compression.C
 				// main decoding loop
 				while (togo > 0)
 				{
+#if DEBUG_LZX_COMPRESSION
+					Console.WriteLine("------------------------------------------------------------");
+					Console.WriteLine("MainLoop togo: {0}, pState.block_remaining: {1}", togo, pState.block_remaining);
+#endif
 					// last block finished, new block expected
 					if (pState.block_remaining == 0)
 					{
@@ -477,6 +488,10 @@ namespace TalesOfVesperiaUtils.Compression.C
 						READ_BITS(ref bitsleft, ref inpos, ref bitbuf, ref i, 16);
 						READ_BITS(ref bitsleft, ref inpos, ref bitbuf, ref j, 8);
 						pState.block_remaining = pState.block_length = (i << 8) | j;
+
+#if DEBUG_LZX_COMPRESSION
+						Console.WriteLine("BlockSize: {0}", pState.block_length);
+#endif
 
 						switch (pState.block_type)
 						{
@@ -519,13 +534,18 @@ namespace TalesOfVesperiaUtils.Compression.C
 								break;
 
 							default:
+								Console.Error.WriteLine("Invalid Block Type: {0}", pState.block_type);
 								return DECR_ILLEGALDATA;
 						}
 					}
 
 					if (inpos > endinp)
 					{
-						if (inpos > (endinp + 2) || bitsleft < 16) return DECR_ILLEGALDATA;
+						if (inpos > (endinp + 2) || bitsleft < 16)
+						{
+							Console.Error.WriteLine("Error (inpos > endinp) && (inpos > (endinp + 2) || bitsleft < 16)");
+							return DECR_ILLEGALDATA;
+						}
 					}
 
 					while ((this_run = (int)pState.block_remaining) > 0 && togo > 0)
@@ -748,7 +768,11 @@ namespace TalesOfVesperiaUtils.Compression.C
 #if DEBUG_LZX_COMPRESSION
 								Console.WriteLine("[B]LZX_BLOCKTYPE_UNCOMPRESSED");
 #endif
-								if ((inpos + this_run) > endinp) return DECR_ILLEGALDATA;
+								if ((inpos + this_run) > endinp)
+								{
+									Console.Error.WriteLine("Error: ((inpos + this_run) > endinp)");
+									return DECR_ILLEGALDATA;
+								}
 								PointerUtils.Memcpy(window + window_posn, inpos, (int)this_run);
 								inpos += this_run; window_posn += (uint)this_run;
 								break;
@@ -760,7 +784,10 @@ namespace TalesOfVesperiaUtils.Compression.C
 					}
 				}
 
-				if (togo != 0) return DECR_ILLEGALDATA;
+				if (togo != 0)
+				{
+					return DECR_ILLEGALDATA;
+				}
 				PointerUtils.Memcpy(outpos, window + ((window_posn == 0) ? window_size : window_posn) - outlen, (int)outlen);
 
 				pState.window_posn = window_posn;

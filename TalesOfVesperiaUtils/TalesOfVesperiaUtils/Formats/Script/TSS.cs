@@ -52,6 +52,8 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			var BinaryReader = new BinaryReader(Stream);
 			Header = Stream.ReadStruct<HeaderStruct>();
 
+			if (Header.Magic != "TSS") throw(new Exception("Not a TSS file!"));
+
 			this.CodeStream = SliceStream.CreateWithBounds(Stream, Header.CodeStart, Header.TextStart);
 			this.TextStream = SliceStream.CreateWithLength(Stream, Header.TextStart, Header.TextLen);
 
@@ -67,11 +69,22 @@ namespace TalesOfVesperiaUtils.Formats.Script
 		{
 			public int TextType;
 			public uint Id;
+			public uint Id2;
 			public string[] Original;
 			public string[] Translated;
 		}
 
-		public IEnumerable<TextEntry> ExtractTexts(bool HandleType1 = true)
+		public List<TextEntry> ExtractTexts(bool HandleType1 = true)
+		{
+			var TextEntries = new List<TextEntry>();
+			HandleTexts((TextEntry) =>
+			{
+				TextEntries.Add(TextEntry);
+			}, HandleType1);
+			return TextEntries;
+		}
+
+		public void HandleTexts(Action<TextEntry> ActionTextEntry, bool HandleType1 = true)
 		{
 			uint TextId = 0;
 			int Lang = 0;
@@ -114,7 +127,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							//Console.WriteLine("------------------------------------");
 							if (!LastSeparator)
 							{
-								yield return null;
+								ActionTextEntry(null);
 								LastSeparator = true;
 							}
 						}
@@ -150,13 +163,14 @@ namespace TalesOfVesperiaUtils.Formats.Script
 											if (TextId < 00010001) continue;
 										}
 
-										yield return new TextEntry()
+										ActionTextEntry(new TextEntry()
 										{
 											TextType = TextType,
 											Id = TextId,
+											Id2 = TextId,
 											Original = Text1,
 											Translated = Text2,
-										};
+										});
 										LastSeparator = false;
 									}
 									//Console.WriteLine("############  AddText {0:D8}:('{1}', '{2}')", Stack[0], Text1.EscapeString(), Text2.EscapeString());
@@ -185,13 +199,14 @@ namespace TalesOfVesperiaUtils.Formats.Script
 								Text1 = new[] { E[2], E[3] };
 								Text2 = new[] { E[4], E[5] };
 
-								yield return new TextEntry()
+								ActionTextEntry(new TextEntry()
 								{
 									TextType = TextType,
 									Id = TextId,
+									Id2 = PushArrayInstruction.ArrayPointer,
 									Original = Text1,
 									Translated = Text2,
-								};
+								});
 								LastSeparator = false;
 
 								/*

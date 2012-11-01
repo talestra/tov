@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TalesOfVesperiaUtils.Compression;
 using TalesOfVesperiaUtils.Formats.Packages;
+using TalesOfVesperiaUtils.Formats.Script;
 using TalesOfVesperiaUtils.Imaging;
 using TalesOfVesperiaUtils.VirtualFileSystem;
 
@@ -31,6 +32,55 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 		}
 
 		public void HandleBattlePack()
+		{
+			HandleBattlePackDialogs();
+			HandleBattlePackImages();
+
+			//Console.Error.WriteLine("/Break Battle"); return;
+		}
+
+		public void HandleBattlePackDialogs()
+		{
+			Patcher.GameAccessPath("3", () =>
+			{
+				var Names = new[]
+				{
+					"BTL_EP_0070_010", "BTL_EP_030_040", "BTL_EP_030_080", "BTL_EP_0950_010",
+					"BTL_EP_0960_020", "BTL_EP_1040_020", "BTL_EP_150_170", "BTL_EP_170_050",
+					"BTL_EP_210_090", "BTL_EP_270_110", "BTL_EP_270_110_1", "BTL_EP_340_070",
+					"BTL_EP_370_050", "BTL_EP_420_080", "BTL_EP_440_040", "BTL_EP_470_030",
+					"BTL_EP_490_060_0", "BTL_EP_490_060_1", "BTL_EP_510_050", "BTL_EP_510_080",
+					"BTL_EP_640_050", "BTL_EP_650_030", "BTL_EP_650_050", "BTL_LL_MONSTER",
+					"MA_VAL_A_05",
+				};
+
+				foreach (var Name in Names)
+				{
+					Patcher.GameGetFile(Name, (TssStream) =>
+					{
+						var TssName = Name;
+						var Tss = new TSS().Load(TssStream);
+						Tss.HandleTexts((Entry) =>
+						{
+							if (Entry == null) return;
+							//var TranslationEntry = Patcher.EntriesByRoom["battle/" + TssName][String.Format("{0:X8}", Entry.Id2)];
+
+							int TextCount = Entry.Original.Length;
+
+							for (int n = 0; n < TextCount; n++)
+							{
+								Entry.Original[n] = "";
+								//Entry.Translated[n] = TranslationEntry.texts.es[n];
+							}
+
+							//Console.WriteLine("{0} : {1}", Entry.Translated[1], TranslationEntry.texts.es[1]);
+						});
+					});
+				}
+			});
+		}
+
+		public void HandleBattlePackImages()
 		{
 			Patcher.GameAccessPath("9/BTL_COMMON/2", () =>
 			{

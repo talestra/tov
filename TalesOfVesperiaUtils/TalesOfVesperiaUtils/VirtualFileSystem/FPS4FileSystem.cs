@@ -90,5 +90,10 @@ namespace TalesOfVesperiaUtils.VirtualFileSystem
 				yield return ConvertEntry(Entry);
 			}
 		}
+
+		protected override void ImplCreateSymLink(string Pointer, string Pointee)
+		{
+			throw new NotImplementedException();
+		}
 	}
 }

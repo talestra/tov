@@ -5,6 +5,7 @@ using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TalesOfVesperiaTranslationEngine;
 using Newtonsoft.Json;
+using TalesOfVesperiaUtils.Text;
 
 namespace TalesOfVesperiaTests
 {

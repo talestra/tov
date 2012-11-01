@@ -247,6 +247,12 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			}
 		}
 
+		public FPS4 ClearAllEntries()
+		{
+			Entries = new Dictionary<string, Entry>();
+			return this;
+		}
+
 		public Entry CreateEntry(String Name, Stream Stream)
 		{
 			return Entries[Name] = new Entry(this, Stream, Name);
@@ -259,7 +265,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			return Entries[Name] = Entry;
 		}
 
-		public String OriginalFilePath;
+		public String OriginalFilePath = "";
 		public Stream DatStream;
 		public Stream DavStream;
 		public Dictionary<String, Entry> Entries = new Dictionary<String, Entry>();
@@ -453,18 +459,18 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			}
 		}
 
-		public override void Save(Stream Stream)
+		public override void Save(Stream Stream, bool DoAlign = true)
 		{
 			var EntryListWithLinks = EntryList.Union(new Entry[] { new Entry(FPS4: this, Stream: new MemoryStream(), Name:"") });
 			var EntryListWithoutLinks = EntryListWithLinks.Where(Entry => !Entry.IsLinked);
 
-			var SectorPadding = 0x800;
+			var SectorPadding = DoAlign ? 0x800 : 0x10;
 			var BinaryWriter = new BinaryWriter(Stream);
 			Header.Magic = Encoding.ASCII.GetBytes("FPS4");
 			Header.ListStart = (uint)Marshal.SizeOf(typeof(HeaderStruct));
 			var ExtraEntrySizeof = Header.EntrySizeof - 0x0C;
 			var OriginalFilePathBytes = Encoding.GetEncoding("Shift-JIS").GetBytes(OriginalFilePath);
-			var DataStartOffset = MathUtils.Align(Header.ListStart + Header.EntrySizeof * EntryListWithLinks.Count() + OriginalFilePathBytes.Length, SectorPadding);
+			long DataStartOffset = MathUtils.Align(Header.ListStart + Header.EntrySizeof * EntryListWithLinks.Count() + OriginalFilePathBytes.Length, SectorPadding);
 
 			Stream.WriteStruct(Header);
 			long CurrentOffset = DataStartOffset;
@@ -503,7 +509,10 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 						}
 						//var Offset = BinaryReader.ReadUInt32();
 						*/
-						if (Entry.Name == "")
+						int NameIndex = -1;
+						int.TryParse(Entry.Name, out NameIndex);
+
+						if ((Entry.Name == "") || (Entry.Index == NameIndex))
 						{
 							BinaryWriter.Write((uint)0);
 						}

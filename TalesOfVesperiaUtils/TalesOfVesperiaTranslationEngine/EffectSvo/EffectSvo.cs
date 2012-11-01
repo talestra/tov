@@ -56,7 +56,7 @@ namespace TalesOfVesperiaTranslationEngine.EffectSvo
 					Patcher.GameAccessPath("E_A024.DAT", () =>
 					{
 						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, "BTL_SVO/E_A024_LEARNING_00.png", "E_A024_LEARNING_00"); });
-						//Patcher.GameGetTXM("10", "11", (Txm) => { Patcher.UpdateTxm2DWithEmpty(Txm, "E_A024_LEARNING_00_F", "E_A024_LEARNING_00_G"); });
+						Patcher.GameGetTXM("10", "11", (Txm) => { Patcher.UpdateTxm2DWithEmpty(Txm, "E_A024_LEARNING_00_F", "E_A024_LEARNING_00_G"); });
 					});
 				});
 
@@ -65,7 +65,7 @@ namespace TalesOfVesperiaTranslationEngine.EffectSvo
 					Patcher.GameAccessPath("E_A062.DAT", () =>
 					{
 						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, "BTL_SVO/E_A062_TITLE_00.png", "E_A062_TITLE_00"); });
-						//Patcher.GameGetTXM("10", "11", (Txm) => { Patcher.UpdateTxm2DWithEmpty(Txm, "E_A062_TITLE_00_F", "E_A062_TITLE_00_G"); });
+						Patcher.GameGetTXM("10", "11", (Txm) => { Patcher.UpdateTxm2DWithEmpty(Txm, "E_A062_TITLE_00_F", "E_A062_TITLE_00_G"); });
 					});
 				});
 
@@ -97,13 +97,16 @@ namespace TalesOfVesperiaTranslationEngine.EffectSvo
 					});
 				});
 
-				Patcher.GameAccessPath("E_A101_TITLE.DAT", () =>
+				Patcher.Action("Title Menu", () =>
 				{
-					Patcher.GameGetTXM("90", "91", (Txm) =>
+					Patcher.GameAccessPath("E_A101_TITLE.DAT", () =>
 					{
-						Patcher.UpdateTxm2DWithPng(Txm, "EFFECT_SVO/E_A101_TITLE_P001.png", "E_A101_TITLE_P001", "E_A101_TITLE_P001_D", "E_A101_TITLE_P001_F");
-						Patcher.UpdateTxm2DWithPng(Txm, "EFFECT_SVO/E_A101_TITLE_PUSH.png", "E_A101_TITLE_PUSH", "E_A101_TITLE_PUSH_D", "E_A101_TITLE_PUSH_F");
-						Patcher.UpdateTxm2DWithPng(Txm, "EFFECT_SVO/E_A101_TITLE_CREDIT_E.png", "E_A101_TITLE_CREDIT_E");
+						Patcher.GameGetTXM("90", "91", (Txm) =>
+						{
+							Patcher.UpdateTxm2DWithPng(Txm, "EFFECT_SVO/E_A101_TITLE_P001.png", "E_A101_TITLE_P001", "E_A101_TITLE_P001_D", "E_A101_TITLE_P001_F");
+							Patcher.UpdateTxm2DWithPng(Txm, "EFFECT_SVO/E_A101_TITLE_PUSH.png", "E_A101_TITLE_PUSH", "E_A101_TITLE_PUSH_D", "E_A101_TITLE_PUSH_F");
+							Patcher.UpdateTxm2DWithPng(Txm, "EFFECT_SVO/E_A101_TITLE_CREDIT_E.png", "E_A101_TITLE_CREDIT_E");
+						});
 					});
 				});
 			});

@@ -19,6 +19,9 @@ using TalesOfVesperiaTranslationEngine.UiSvo;
 using TalesOfVesperiaTranslationEngine.BtlSvo;
 using TalesOfVesperiaUtils;
 using TalesOfVesperiaTranslationEngine.EffectSvo;
+using TalesOfVesperiaTranslationEngine.CharaSvo;
+using TalesOfVesperiaUtils.VirtualFileSystem;
+using TalesOfVesperiaTranslationEngine.ChatSvo;
 
 #if false
 namespace TalesOfVesperiaSpike
@@ -353,21 +356,43 @@ namespace TalesOfVesperiaSpike
 				//GamePath = @"c:\temp";
 			}
 
-			Console.WriteLine("{0}", GamePath);
+			Console.WriteLine("GamePath: '{0}'", GamePath);
 
+			using (var Patcher = new Patcher(GamePath))
+			{
+				//new CharaSvo(Patcher).Handle();
+				new BtlSvo(Patcher).Handle();
+				//new EffectSvo(Patcher).Handle();
+				//new UiSvo(Patcher).Handle();
+				//new CommonSvo(Patcher).Handle();
+				//new ChatSvo(Patcher).Handle();
+			}
+		}
 
-			var GameRootFS = new LocalFileSystem(GamePath);
-			var Patcher = new Patcher(GameRootFS);
+		static public void ExtractIsoToFolder(string SourceIsoPath, string DestExtractPath)
+		{
+			var Iso = new Dvd9Xbox360FileSystem(File.OpenRead(SourceIsoPath));
+			var Out = new LocalFileSystem(DestExtractPath);
+			FileSystem.CopyTree(Iso, "/", Out, "/", null, (Entry, Current, End) =>
+			{
+				if (Current == 0) Console.WriteLine();
+				Console.Write("{0} {1:0.00}% ({2})\r", Entry.FullName, ((double)Current / (double)End) * 100, End);
+			});
+		}
 
-			new BtlSvo(Patcher).Handle();
-			new EffectSvo(Patcher).Handle();
-			new UiSvo(Patcher).Handle();
-			new CommonSvo(Patcher).Handle();
+		static void Main3(string[] Args)
+		{
+			ExtractIsoToFolder(
+				@"E:\isos\360\games\Tales of Vesperia [PAL] [Multi3] [English] [Xbox360].iso",
+				@"f:\GAMES\vesperia"
+			);
 		}
 
 		static void Main(string[] Args)
 		{
 			Main2(Args);
+			//Main3(Args);
+
 			Console.WriteLine("<END>");
 			Console.ReadKey();
 		}

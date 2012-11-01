@@ -152,7 +152,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			}
 		}
 
-		override public void Save(Stream Stream)
+		override public void Save(Stream Stream, bool DoAlign = true)
 		{
 			var SpaceAssigner1D = new SpaceAssigner1D().AddAllPositiveAvailable();
 			var SpaceAssigner1DUniqueAllocator = new SpaceAssigner1DUniqueAllocatorStream(SpaceAssigner1D, new MemoryStream());

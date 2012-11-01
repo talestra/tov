@@ -13,10 +13,10 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 {
 	public class Dvd9Xbox360
 	{
-		public static uint SECTOR_SIZE = 0x800;
-		public static uint XDVDFS_SECTOR_XBOX1 = 0x30600;
-		public static uint XDVDFS_SECTOR_XBOX360 = 0x1FB20;
-		public static uint XDVDFS_SECTOR_XBOX360_LAYER1 = 0x1B3880;
+		public static long SECTOR_SIZE = 0x800;
+		public static long XDVDFS_SECTOR_XBOX1 = 0x30600;
+		public static long XDVDFS_SECTOR_XBOX360 = 0x1FB20;
+		public static long XDVDFS_SECTOR_XBOX360_LAYER1 = 0x1B3880;
 
 		public Entry RootEntry;
 		protected Stream IsoStream;
@@ -72,13 +72,17 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 		static public Stream GetStreamByLBA(Stream Stream, long LBA, long Size = -1)
 		{
-			return SliceStream.CreateWithLength(Stream, LBA * SECTOR_SIZE, Size);
+			var Offset = LBA * (long)SECTOR_SIZE;
+			if (Offset >= Stream.Length) throw(new Exception("File too small for a Xbox360 Iso File"));
+			return SliceStream.CreateWithLength(Stream, Offset, Size);
 		}
 
         public Dvd9Xbox360 Load(Stream Stream)
 		{
+			//Console.WriteLine("{0}", Stream.Length);
 			IsoStream = GetStreamByLBA(Stream, XDVDFS_SECTOR_XBOX360);
 			var StartStream = GetStreamByLBA(IsoStream, 0x20);
+			//Console.WriteLine("{0}", StartStream.Length);
 			var MediaHeader = StartStream.ReadStruct<MediaHeaderStruct>();
 			MediaHeader.CheckValid();
 
@@ -116,8 +120,8 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				}
 			}
 
-			public uint SectorOffset;
-			public uint Size;
+			public long SectorOffset;
+			public long Size;
 			public EntryAttributes Attributes;
 			public byte NameSize;
 			public String Name;
@@ -246,7 +250,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			}
 		}
 
-		protected void LoadProcessNode(Stream IsoStream, Stream RootStream, uint Offset = 0, Entry EntryParent = null, int Level = 0)
+		protected void LoadProcessNode(Stream IsoStream, Stream RootStream, long Offset = 0, Entry EntryParent = null, int Level = 0)
 		{
 			var NodeReader = new BinaryReader(RootStream);
 
