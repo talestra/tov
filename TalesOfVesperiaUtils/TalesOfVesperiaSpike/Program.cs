@@ -363,18 +363,6 @@ namespace TalesOfVesperiaSpike
 			new EffectSvo(Patcher).Handle();
 			new UiSvo(Patcher).Handle();
 			new CommonSvo(Patcher).Handle();
-
-#if false
-			//TalesCompression.DecompressStream(File.OpenRead(@"C:\projects\talestra_tov\Bin\Debug\Temp\TEXTURE.DAT"));
-			//TalesCompression.DecompressStream(File.OpenRead(@"C:\projects\talestra_tov\Bin\Debug\Temp\TEXTURE.DAT.mod.c"));
-
-			//var Image2 = (new DXT5()).LoadSwizzled2D(File.OpenRead(@"C:\isos\360\vesperia\chat.original.svo.d\uncompressed\test\1.TXV"), 256, 288);
-			//Image2.Save(@"C:\isos\360\vesperia\chat.original.svo.d\uncompressed\test\test.png");
-			//Console.ReadKey();
-
-			//var Image2 = (new DXT5()).LoadSwizzled2D(File.OpenRead(@"C:\isos\360\vesperia\chat.original.svo.d\uncompressed\test\1.TXV"), 256, 288);
-			//new TXM().Load(File.OpenRead(@"c:\projects\talestra_tov\"))
-#endif
 		}
 
 		static void Main(string[] Args)

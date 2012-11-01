@@ -2,6 +2,7 @@
 using CSharpUtils.VirtualFileSystem.Local;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -47,6 +48,7 @@ namespace TalesOfVesperiaTranslationEngine
 			}
 		}
 
+		[DebuggerHidden]
 		public Patcher(FileSystem GameFileSystem)
 		{
 			this.GameFileSystem = GameFileSystem;
@@ -58,6 +60,7 @@ namespace TalesOfVesperiaTranslationEngine
 			//JsonTranslations.JsonToProtocolBuffer();
 		}
 
+		[DebuggerHidden]
 		public void GameAccessPath(string Path, Action ActionAccess)
 		{
 			this.Action(String.Format("Accessing {0}", Path), () =>
@@ -66,6 +69,7 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
+		[DebuggerHidden]
 		public void GameGetFile(string File1, Action<Stream> ActionRead)
 		{
 			this.Action(String.Format("File {0}", File1), () =>
@@ -74,6 +78,7 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
+		[DebuggerHidden]
 		public void GameGetTXM(string FileTxm, string FileTxv, Action<TXM> ActionRead)
 		{
 			GameGetFile2(FileTxm, FileTxv, (StreamTxm, StreamTxv) =>
@@ -82,6 +87,7 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
+		[DebuggerHidden]
 		public void GameGetFile2(string File1, string File2, Action<Stream, Stream> ActionRead)
 		{
 			this.Action(String.Format("Files {0}, {1}", File1, File2), () =>
@@ -90,6 +96,7 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
+		[DebuggerHidden]
 		public void UpdateTxm2DWithPng(TXM Txm, string PatchPngPath, params string[] TxmNames)
 		{
 			PatcherGetImage(PatchPngPath, (Bitmap) =>
@@ -101,6 +108,17 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
+		[DebuggerHidden]
+		public void UpdateTxm2DWithEmpty(TXM Txm, params string[] TxmNames)
+		{
+			foreach (var Name in TxmNames)
+			{
+				var Entry = Txm.Surface2DEntriesByName[Name];
+				Entry.UpdateBitmap(new Bitmap(Entry.Width, Entry.Height));
+			}
+		}
+
+		[DebuggerHidden]
 		public void PatcherGetImage(string File1, Action<Bitmap> ActionRead)
 		{
 			PatcherGetFile(File1, (Stream) =>
@@ -109,6 +127,7 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
+		[DebuggerHidden]
 		public void PatcherGetFile(string File1, Action<Stream> ActionRead)
 		{
 			this.Action(String.Format("Patcher File {0}", File1), () =>
@@ -121,12 +140,13 @@ namespace TalesOfVesperiaTranslationEngine
 		}
 
 
-		int Level = 0;
+		int ActionLevel = 0;
 
+		[DebuggerHidden]
 		public void Action(String Description, Action Action)
 		{
-			Console.WriteLine("{0}{1}...", new String(' ', Level * 2), Description);
-			Level++;
+			Console.WriteLine("{0}{1}...", new String(' ', ActionLevel * 2), Description);
+			ActionLevel++;
 			try
 			{
 				Action();
@@ -134,7 +154,7 @@ namespace TalesOfVesperiaTranslationEngine
 			}
 			finally
 			{
-				Level--;
+				ActionLevel--;
 			}
 		}
 	}

@@ -2,6 +2,7 @@
 using CSharpUtils.VirtualFileSystem;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -21,6 +22,7 @@ namespace TalesOfVesperiaUtils
 			this.FileSystem = FileSystem;
 		}
 
+		[DebuggerHidden]
 		public void DecompressAndRecompressIfRequired(Stream Stream, Action<Stream> Action)
 		{
 			if (TalesCompression.IsValid(Stream))
@@ -36,6 +38,7 @@ namespace TalesOfVesperiaUtils
 			}
 		}
 
+		[DebuggerHidden]
 		public void Access(string Path, Action Action)
 		{
 			if (Path.Contains('/'))
@@ -65,6 +68,7 @@ namespace TalesOfVesperiaUtils
 			});
 		}
 
+		[DebuggerHidden]
 		public void GetFile(string File, Action<Stream> Action)
 		{
 			using (var Stream = FileSystem.OpenFileRW(File))
@@ -73,6 +77,7 @@ namespace TalesOfVesperiaUtils
 			}
 		}
 
+		[DebuggerHidden]
 		public void GetFile2(string File1, string File2, Action<Stream, Stream> Action)
 		{
 			using (var Stream1 = FileSystem.OpenFileRW(File1))
