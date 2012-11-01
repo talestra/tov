@@ -42,6 +42,22 @@ namespace TalesOfVesperiaUtils.Compression
 			return Decompressor.DecodeFile(InputStream);
 		}
 
+		static public int DetectVersion(Stream Stream, bool ThrowException = false)
+		{
+			return DetectVersion(Stream.Slice().ReadBytesUpTo(0x10), Stream.Length, ThrowException);
+		}
+
+		static public bool IsValid(Stream Stream)
+		{
+			var Bytes = Stream.Slice().ReadBytesUpTo(0x10);
+			return (DetectVersion(Bytes, Stream.Length, false) != -1);
+		}
+
+		static public bool IsValid(byte[] MagicData, long FileSize)
+		{
+			return (DetectVersion(MagicData, FileSize, false) != -1);
+		}
+
 		static public int DetectVersion(byte[] MagicData, long FileSize, bool ThrowException = false)
 		{
 			var Warnings = new List<String>();
@@ -85,10 +101,14 @@ namespace TalesOfVesperiaUtils.Compression
 						{
 							Warnings.Add("Compressed size is bigger than the uncompressed size");
 						}
-						if (Math.Abs((long)HeaderStruct.CompressedLength - FileSize) >= 0x1000)
+						
+					/*
+						var DiffSize = Math.Abs((long)HeaderStruct.CompressedLength - FileSize);
+						if (DiffSize >= 0x10000)
 						{
-							Warnings.Add("Invalid compressed size");
+							Warnings.Add(String.Format("Invalid compressed size {0}", DiffSize));
 						}
+						*/
 
 						break;
 					default:
@@ -133,6 +153,10 @@ namespace TalesOfVesperiaUtils.Compression
 			}
 		}
 
+		static public TalesCompression CreateFromStart(Stream Stream)
+		{
+			return CreateFromStart(Stream.Slice().ReadBytesUpTo(0x10), Stream.Length);
+		}
 
 		static public TalesCompression CreateFromStart(byte[] MagicData, long FileSize)
 		{

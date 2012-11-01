@@ -56,6 +56,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PatchInplace.cs" />
     <Compile Include="Audio\SE3.cs" />
     <Compile Include="Audio\XMA2WAV.cs" />
     <Compile Include="Compression\CAB\CABUtils.cs" />

@@ -533,11 +533,6 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 		public void Dispose()
 		{
-			if (DatStream != null)
-			{
-				DatStream.Dispose();
-				DatStream = null;
-			}
 		}
 
 		public IEnumerator<FPS4.Entry> GetEnumerator()

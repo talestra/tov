@@ -57,8 +57,7 @@
   <ItemGroup>
     <Compile Include="BtlSvo\BtlSvo.cs" />
     <Compile Include="CommonSvo\CommonSvo.cs" />
-    <Compile Include="CommonSvo\TextureDat\TextureDat.cs" />
-    <Compile Include="EffectsSvo\EffectsSvo.cs" />
+    <Compile Include="EffectSvo\EffectSvo.cs" />
     <Compile Include="JsonTranslations.cs" />
     <Compile Include="Patcher.cs" />
     <Compile Include="PatcherComponent.cs" />
