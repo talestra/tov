@@ -21,6 +21,7 @@ namespace TalesOfVesperiaUtils.Compression
 			UncompressedOriginalData = ((MemoryStream)this.ParentStream).ToArray();
 		}
 
+		[DebuggerHidden]
 		public override void Close()
 		{
 			var UncompressedNewData = ((MemoryStream)this.ParentStream).ToArray();

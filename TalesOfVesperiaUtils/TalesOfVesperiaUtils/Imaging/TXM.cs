@@ -565,6 +565,11 @@ namespace TalesOfVesperiaUtils.Imaging
 		{
 			this.TXVStream = TXVStream;
 
+			if (!IsValid(TXMStream.Slice().ReadBytesUpTo(0x100)))
+			{
+				throw(new Exception("Invalid TXM!"));
+			}
+
 			this.ImageVersion = TXMStream.Slice().ReadStruct<ImageVersionStruct>();
 
 			if (ImageVersion.Version == 1)
@@ -650,8 +655,19 @@ namespace TalesOfVesperiaUtils.Imaging
 		{
 			try
 			{
-				var ImageHeader = StructUtils.BytesToStruct<ImageVersionStruct>(MagicData);
-				if (!(new int[] { 1, 2 }).Contains(ImageHeader.Version)) return false;
+				var ImageVersion = StructUtils.BytesToStruct<ImageVersionStruct>(MagicData);
+				switch (ImageVersion.Version)
+				{
+					case 1:
+						break;
+					case 2:
+						var ImageHeader = StructUtils.BytesToStruct<ImageHeaderStructV2>(MagicData);
+						if (ImageHeader.Surface2DCount > 10000) return false;
+						if (ImageHeader.Surface3DCount > 10000) return false;
+						break;
+					default:
+						return false;
+				}
 				return true;
 			}
 			catch
