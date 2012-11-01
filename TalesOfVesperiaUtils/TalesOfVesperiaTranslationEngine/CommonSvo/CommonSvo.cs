@@ -10,18 +10,33 @@ using TalesOfVesperiaUtils.VirtualFileSystem;
 
 namespace TalesOfVesperiaTranslationEngine.CommonSvo
 {
-	public class CommonSvo
+	public class CommonSvo : PatcherComponent
 	{
-		public void Handle(Patcher Patcher, FileSystem GameRootFS)
+		public CommonSvo(Patcher Patcher)
+			: base(Patcher)
 		{
-			Patcher.Action("common.svo", () =>
+		}
+
+		public void Handle()
+		{
+			Patcher.GameAccessPath("common.svo", () =>
 			{
-				FileSystem CommonSvo = null;
-				Patcher.Action("Reading common.svo", () =>
+				HandleTextureDat();
+			});
+		}
+
+		public void HandleTextureDat()
+		{
+			Patcher.GameAccessPath("TEXTURE.DAT", () =>
+			{
+				Patcher.GameGetTXM("0", "1", (Txm) =>
 				{
-					CommonSvo = new FPS4FileSystem(new FPS4(GameRootFS.OpenFile("common.svo", FileMode.Open)));
+					Patcher.UpdateTxm2DWithPng(Txm, "COMMON_SVO/TEXTURE_DAT/U_USUALBTLFONT00_EU.png", "U_USUALBTLFONT00", "U_USUALBTLFONT00_EU");
+					Patcher.UpdateTxm2DWithPng(Txm, "COMMON_SVO/TEXTURE_DAT/U_USUALBTLFONT01.png", "U_USUALBTLFONT01");
+					Patcher.UpdateTxm2DWithPng(Txm, "COMMON_SVO/TEXTURE_DAT/U_USUALLOAD00.png", "U_USUALLOAD00");
+					Patcher.UpdateTxm2DWithPng(Txm, "COMMON_SVO/TEXTURE_DAT/U_USUALLOAD01.png", "U_USUALLOAD01");
+					Patcher.UpdateTxm2DWithPng(Txm, "COMMON_SVO/TEXTURE_DAT/U_USUALFIEINFO02.png", "U_USUALFIEINFO02");
 				});
-				TextureDat.TextureDat.Handle(Patcher, CommonSvo);
 			});
 		}
 	}

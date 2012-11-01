@@ -31,7 +31,7 @@ namespace TalesOfVesperiaUtils.Imaging
 		/// <param name="Bitmap"></param>
 		/// <param name="Stream"></param>
 		/// <param name="mode"></param>
-		public void SaveSwizzled3D(BitmapList BitmapList, Stream Stream, CompressDXT.CompressionMode mode = CompressDXT.CompressionMode.Normal)
+		public void SaveSwizzled3D(BitmapList BitmapList, Stream Stream, CompressDXT.CompressionMode mode = CompressDXT.CompressionMode.Normal, bool ShowWarnings = false)
 		{
 			int Width = BitmapList.Bitmaps[0].Width, Height = BitmapList.Bitmaps[0].Height, Depth = BitmapList.Bitmaps.Length;
 			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
@@ -69,7 +69,7 @@ namespace TalesOfVesperiaUtils.Imaging
 
 					if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height) || (PositionZ >= Depth))
 					{
-						Console.Error.WriteLine("(Warning! [Write] Position outside ({0}, {1}, {2}) - ({3}x{4}x{5}))", PositionX, PositionY, PositionZ, Width, Height, Depth);
+						if (ShowWarnings) Console.Error.WriteLine("(Warning! [Write] Position outside ({0}, {1}, {2}) - ({3}x{4}x{5}))", PositionX, PositionY, PositionZ, Width, Height, Depth);
 						continue;
 					}
 
@@ -97,7 +97,7 @@ namespace TalesOfVesperiaUtils.Imaging
 		/// <param name="Bitmap"></param>
 		/// <param name="File"></param>
 		/// <param name="mode"></param>
-		public void SaveSwizzled2D(Bitmap Bitmap, Stream File, CompressDXT.CompressionMode mode = CompressDXT.CompressionMode.Normal)
+		public void SaveSwizzled2D(Bitmap Bitmap, Stream File, CompressDXT.CompressionMode mode = CompressDXT.CompressionMode.Normal, bool ShowWarnings = false)
 		{
 			int Width = Bitmap.Width, Height = Bitmap.Height;
 			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
@@ -132,7 +132,7 @@ namespace TalesOfVesperiaUtils.Imaging
 
 					if ((PositionX + 3 >= Width) || (PositionY + 3 >= Height))
 					{
-						Console.Error.WriteLine("(Warning! [Write] Position outside ({0}, {1}) - ({2}x{3}))", PositionX, PositionY, Width, Height);
+						if (ShowWarnings) Console.Error.WriteLine("(Warning! [Write] Position outside ({0}, {1}) - ({2}x{3}))", PositionX, PositionY, Width, Height);
 						continue;
 					}
 

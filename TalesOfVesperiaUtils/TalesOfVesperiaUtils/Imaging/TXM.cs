@@ -446,6 +446,20 @@ namespace TalesOfVesperiaUtils.Imaging
 				});
 			}
 
+			public void Relink(Surface2DEntryInfo that)
+			{
+				if (this.TXM != that.TXM) throw(new InvalidOperationException("Relinked items must be in the same TXM"));
+				if (this.ImageEntry.ContentOffset == that.ImageEntry.ContentOffset)
+				{
+					// Already linked
+				}
+				else
+				{
+					// Not linked yet
+					throw (new NotImplementedException());
+				}
+			}
+
 			public void UpdateBitmap(Bitmap Bitmap)
 			{
 				if (Bitmap.Width != Width || Bitmap.Height != Height) throw(new Exception(String.Format("Invalid dimensions {0}x{1} != {2}x{3}", Bitmap.Width, Bitmap.Height, Width, Height)));

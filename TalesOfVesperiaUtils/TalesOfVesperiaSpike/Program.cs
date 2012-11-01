@@ -17,6 +17,8 @@ using CSharpUtils.VirtualFileSystem;
 using CSharpUtils.VirtualFileSystem.Local;
 using TalesOfVesperiaTranslationEngine.UiSvo;
 using TalesOfVesperiaTranslationEngine.BtlSvo;
+using TalesOfVesperiaUtils;
+using TalesOfVesperiaTranslationEngine.EffectSvo;
 
 #if false
 namespace TalesOfVesperiaSpike
@@ -346,14 +348,21 @@ namespace TalesOfVesperiaSpike
 			string GamePath = @"F:\GAMES\vesperia";
 			if (!Directory.Exists(GamePath)) GamePath = @"E:\isos\360\vesperia";
 
-			var GameRootFS = new LocalFileSystem(GamePath);
-			var Patcher = new Patcher();
-			
-			//var EntriesByRoom = Patcher.EntriesByRoom;
+			{
+				//File.Copy(@"C:\temp\effect.svo.bak", @"C:\temp\effect.svo", true);
+				//GamePath = @"c:\temp";
+			}
 
-			new UiSvo(Patcher).Handle(GameRootFS);
-			//new CommonSvo(Patcher).Handle(Patcher, GameRootFS);
-			//new BtlSvo(Patcher).Handle(GameRootFS);
+			Console.WriteLine("{0}", GamePath);
+
+
+			var GameRootFS = new LocalFileSystem(GamePath);
+			var Patcher = new Patcher(GameRootFS);
+
+			new BtlSvo(Patcher).Handle();
+			new EffectSvo(Patcher).Handle();
+			new UiSvo(Patcher).Handle();
+			new CommonSvo(Patcher).Handle();
 
 #if false
 			//TalesCompression.DecompressStream(File.OpenRead(@"C:\projects\talestra_tov\Bin\Debug\Temp\TEXTURE.DAT"));

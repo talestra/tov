@@ -2,16 +2,21 @@
 using CSharpUtils.VirtualFileSystem.Local;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TalesOfVesperiaUtils;
+using TalesOfVesperiaUtils.Imaging;
 
 namespace TalesOfVesperiaTranslationEngine
 {
 	public class Patcher
 	{
+		public PatchInplace PatchInplace;
 		public string PatcherPath;
+		public FileSystem GameFileSystem;
 		public FileSystem TempFS;
 		public FileSystem PatcherDataFS;
 		private Dictionary<string, List<TranslationEntry>> _EntriesByRoom;
@@ -42,14 +47,79 @@ namespace TalesOfVesperiaTranslationEngine
 			}
 		}
 
-		public Patcher()
+		public Patcher(FileSystem GameFileSystem)
 		{
-			PatcherPath = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
+			this.GameFileSystem = GameFileSystem;
+			this.PatcherPath = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
 			//PatcherDataFS = new LocalFileSystem(PatcherPath + "/../../Images", false);
-			PatcherDataFS = new LocalFileSystem(PatcherPath + "/../../PatchData", false);
-			TempFS = new LocalFileSystem(PatcherPath + "/Temp", true);
+			this.PatcherDataFS = new LocalFileSystem(PatcherPath + "/../../PatchData", false);
+			this.TempFS = new LocalFileSystem(PatcherPath + "/Temp", true);
+			this.PatchInplace = new PatchInplace(GameFileSystem);
 			//JsonTranslations.JsonToProtocolBuffer();
 		}
+
+		public void GameAccessPath(string Path, Action ActionAccess)
+		{
+			this.Action(String.Format("Accessing {0}", Path), () =>
+			{
+				this.PatchInplace.Access(Path, ActionAccess);
+			});
+		}
+
+		public void GameGetFile(string File1, Action<Stream> ActionRead)
+		{
+			this.Action(String.Format("File {0}", File1), () =>
+			{
+				this.PatchInplace.GetFile(File1, ActionRead);
+			});
+		}
+
+		public void GameGetTXM(string FileTxm, string FileTxv, Action<TXM> ActionRead)
+		{
+			GameGetFile2(FileTxm, FileTxv, (StreamTxm, StreamTxv) =>
+			{
+				ActionRead(new TXM().Load(StreamTxm, StreamTxv));
+			});
+		}
+
+		public void GameGetFile2(string File1, string File2, Action<Stream, Stream> ActionRead)
+		{
+			this.Action(String.Format("Files {0}, {1}", File1, File2), () =>
+			{
+				this.PatchInplace.GetFile2(File1, File2, ActionRead);
+			});
+		}
+
+		public void UpdateTxm2DWithPng(TXM Txm, string PatchPngPath, params string[] TxmNames)
+		{
+			PatcherGetImage(PatchPngPath, (Bitmap) =>
+			{
+				foreach (var Name in TxmNames)
+				{
+					Txm.Surface2DEntriesByName[Name].UpdateBitmap(Bitmap);
+				}
+			});
+		}
+
+		public void PatcherGetImage(string File1, Action<Bitmap> ActionRead)
+		{
+			PatcherGetFile(File1, (Stream) =>
+			{
+				ActionRead(new Bitmap(Image.FromStream(Stream)));
+			});
+		}
+
+		public void PatcherGetFile(string File1, Action<Stream> ActionRead)
+		{
+			this.Action(String.Format("Patcher File {0}", File1), () =>
+			{
+				using (var Stream = this.PatcherDataFS.OpenFileRead(File1))
+				{
+					ActionRead(Stream);
+				}
+			});
+		}
+
 
 		int Level = 0;
 

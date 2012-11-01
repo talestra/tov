@@ -20,35 +20,32 @@ namespace TalesOfVesperiaTranslationEngine.UiSvo
 		{
 		}
 
-		public void Handle(FileSystem GameRootFS)
+		public void Handle()
 		{
-			Patcher.Action("Patching ui.svo...", () =>
+			Patcher.GameAccessPath("ui.svo", () =>
 			{
-				var UiSvo = new FPS4FileSystem(new FPS4(GameRootFS.OpenFile("ui.svo", FileMode.Open)));
-				HandleFont(UiSvo);
-				HandleImages(UiSvo);
+				HandleFont();
+				HandleImages();
 			});
 		}
 
-		public void HandleFont(FileSystem UiSvo)
+		public void HandleFont()
 		{
-			Patcher.Action("Updating Font...", () =>
+			// Font
+			Patcher.GameGetTXM("FONTTEX10.TXM", "FONTTEX10.TXV", (Txm) =>
 			{
-				using (var txm = new TXM().Load(UiSvo.OpenFileRead("FONTTEX10.TXM"), UiSvo.OpenFileRead("FONTTEX10.TXV")))
+				Patcher.PatcherGetImage("Data/FONTTEX10.FONTTEX10.15.png", (Bitmap) =>
 				{
-					var Entry = txm.Surface3DEntries[0];
+					var Entry = Txm.Surface3DEntries[0];
 
-					//Entry.Bitmaps.Save("c:/temp/font/f1_");
-
-					Entry.Bitmaps.Bitmaps[15] = new Bitmap(Image.FromStream(Patcher.PatcherDataFS.OpenFileRead("Data/FONTTEX10.FONTTEX10.15.png")));
+					Entry.Bitmaps.Bitmaps[15] = Bitmap;
 					Entry.UpdateBitmapList(Entry.Bitmaps);
-
-					//Entry.Bitmaps.Save("c:/temp/font/f2_");
-				}
+				});
 			});
+
 		}
 
-		public void HandleImages(FileSystem UiSvo)
+		public void HandleImages()
 		{
 			Patcher.Action("Patching Images...", () =>
 			{
@@ -61,12 +58,14 @@ namespace TalesOfVesperiaTranslationEngine.UiSvo
 					{
 						foreach (var BaseName in new[] { File, File + "DE", File + "FR" })
 						{
-							var TXM = new TXM().Load(UiSvo.OpenFile(BaseName + ".TXM", FileMode.Open), UiSvo.OpenFile(BaseName + ".TXV", FileMode.Open));
-							foreach (var Item in Files.Value)
+							Patcher.GameGetTXM(BaseName + ".TXM", BaseName + ".TXV", (TXM) =>
 							{
-								var PngFile = String.Format("{0}.{1}.png", File, Item);
-								TXM.Surface2DEntriesByName[Item].UpdateBitmap(new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("UI_SVO/" + PngFile, FileMode.Open))));
-							}
+								foreach (var Item in Files.Value)
+								{
+									var PngFile = String.Format("{0}.{1}.png", File, Item);
+									TXM.Surface2DEntriesByName[Item].UpdateBitmap(new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("UI_SVO/" + PngFile, FileMode.Open))));
+								}
+							});
 						}
 					});
 				}
