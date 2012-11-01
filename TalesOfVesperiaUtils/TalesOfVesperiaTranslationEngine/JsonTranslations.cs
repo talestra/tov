@@ -58,6 +58,23 @@ namespace TalesOfVesperiaTranslationEngine
 	{
 		[ProtoMember(1)]
 		public TranslationEntry[] Items;
+
+		[ProtoIgnore]
+		private Dictionary<string, TranslationEntry> _ItemsById;
+
+		[ProtoIgnore]
+		public Dictionary<string, TranslationEntry> ItemsById
+		{
+			get
+			{
+				if (_ItemsById == null)
+				{
+					_ItemsById = Items.CreateDictionary(Item => Item.text_id);
+				}
+
+				return _ItemsById;
+			}
+		}
 	}
 
 	public class JsonTranslations

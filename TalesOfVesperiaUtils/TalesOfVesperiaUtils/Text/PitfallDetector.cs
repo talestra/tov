@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace TalesOfVesperiaTranslationEngine
+namespace TalesOfVesperiaUtils.Text
 {
 	public class PitfallDetector
 	{
@@ -47,6 +47,7 @@ namespace TalesOfVesperiaTranslationEngine
 
 			foreach (var Match in Matches.Cast<Match>())
 			{
+				//Console.WriteLine(Match);
 				var Type = Match.Groups[1].Value;
 				var Parameter = Match.Groups[3].Value;
 				var MatchPosition = Match.Index;

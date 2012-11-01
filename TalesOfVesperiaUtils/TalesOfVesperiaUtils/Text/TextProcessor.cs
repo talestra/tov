@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace TalesOfVesperiaUtils.Text
 {
@@ -26,6 +27,11 @@ namespace TalesOfVesperiaUtils.Text
 		/// </summary>
 		private DetectPitfalls DetectPitfalls;
 
+		private Regex FindCurlyRegex;
+
+		private PitfallDetector PitfallDetector;
+
+
 		/// <summary>
 		/// 
 		/// </summary>
@@ -33,6 +39,8 @@ namespace TalesOfVesperiaUtils.Text
 		{
 			this.CharacterMapping = CharacterMapping.Instance;
 			this.DetectPitfalls = new DetectPitfalls();
+			this.PitfallDetector = new PitfallDetector();
+			this.FindCurlyRegex = new Regex(@"<(\w+)>", RegexOptions.Compiled);
 		}
 
 		/// <summary>
@@ -57,7 +65,18 @@ namespace TalesOfVesperiaUtils.Text
 		/// <returns></returns>
 		public String Process(String String)
 		{
-			return CharacterMapping.Instance.Map(String);
+			String = String.RegexReplace(@"<(\w+)>", (Groups) => {
+				var Key = Groups[1].Value;
+				switch (Key)
+				{
+					case "01": Key = "\x01"; break;
+					case "STR": Key = "\x04"; break;
+					default: throw (new NotImplementedException(String.Format("Not implemented <{0}>", Key)));
+				}
+				return Key;
+			});
+			String = CharacterMapping.Instance.Map(String);
+			return String;
 		}
 
 		/// <summary>
@@ -68,6 +87,10 @@ namespace TalesOfVesperiaUtils.Text
 		/// <returns></returns>
 		public String ProcessAndDetectPitfalls(String Base, String Modified)
 		{
+			foreach (var Message in PitfallDetector.Detect(Modified, Base))
+			{
+				Console.Error.WriteLine("{0}", Message);
+			}
 			return Process(DetectPitfalls.DetectAndFix(Base, Modified));
 		}
 	}

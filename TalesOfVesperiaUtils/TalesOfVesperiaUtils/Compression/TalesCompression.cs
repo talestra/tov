@@ -5,14 +5,16 @@ using System.Text;
 using System.IO;
 using CSharpUtils;
 using CSharpUtils.Streams;
-using CSharpUtils;
 
 namespace TalesOfVesperiaUtils.Compression
 {
 	abstract public class TalesCompression
 	{
+		public int FallbackVersion = 3;
+
 		abstract public void EncodeFile(Stream InputStream, Stream OutputStream);
 		abstract public void DecodeFile(Stream InputStream, Stream OutputStream);
+
 		virtual public byte[] EncodeBytes(byte[] Uncompressed)
 		{
 			return EncodeFile(new MemoryStream(Uncompressed)).ToArray();
@@ -153,27 +155,32 @@ namespace TalesOfVesperiaUtils.Compression
 			}
 		}
 
-		static public TalesCompression CreateFromStart(Stream Stream)
+		static public TalesCompression CreateFromStart(Stream Stream, int FallbackVersion = -1)
 		{
-			return CreateFromStart(Stream.Slice().ReadBytesUpTo(0x10), Stream.Length);
+			return CreateFromStart(Stream.Slice().ReadBytesUpTo(0x10), Stream.Length, FallbackVersion);
 		}
 
-		static public TalesCompression CreateFromStart(byte[] MagicData, long FileSize)
+		static public TalesCompression CreateFromStart(byte[] MagicData, long FileSize, int FallbackVersion = -1)
 		{
-			return CreateFromVersion(DetectVersion(MagicData, FileSize, true));
+			return CreateFromVersion(DetectVersion(MagicData, FileSize, true), FallbackVersion);
 		}
 
-		static public TalesCompression CreateFromVersion(int Version)
+		static public TalesCompression CreateFromVersion(int Version, int FallbackVersion = -1)
 		{
+			TalesCompression TalesCompression;
+			if (FallbackVersion == -1) FallbackVersion = Version;
 			switch (Version)
 			{
-				case 0: return new TalesCompression0();
-				case 1: case 3: return new TalesCompression1_3(Version);
-				case 15: return new TalesCompression15_Lzx();
+				case 0: TalesCompression = new TalesCompression0(); break;
+				case 1:
+				case 3: TalesCompression = new TalesCompression1_3(Version); break;
+				case 15: TalesCompression = new TalesCompression15_Lzx(); break;
 				case 4: throw (new NotImplementedException());
 				case 7: throw (new NotImplementedException());
 				default: throw (new Exception("Unknown Version '" + Version + "'"));
 			}
+			TalesCompression.FallbackVersion = FallbackVersion;
+			return TalesCompression;
 		}
 	}
 }

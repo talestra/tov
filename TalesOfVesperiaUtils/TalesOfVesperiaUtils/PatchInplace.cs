@@ -71,9 +71,12 @@ namespace TalesOfVesperiaUtils
 		[DebuggerHidden]
 		public void GetFile(string File, Action<Stream> Action)
 		{
-			using (var Stream = FileSystem.OpenFileRW(File))
+			using (var CompressedStream = FileSystem.OpenFileRW(File))
 			{
-				Action(Stream);
+				DecompressAndRecompressIfRequired(CompressedStream, (UncompressedStream) =>
+				{
+					Action(UncompressedStream);
+				});
 			}
 		}
 

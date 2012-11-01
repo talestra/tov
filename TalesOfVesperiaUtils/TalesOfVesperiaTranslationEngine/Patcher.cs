@@ -10,46 +10,72 @@ using System.Text;
 using System.Threading.Tasks;
 using TalesOfVesperiaUtils;
 using TalesOfVesperiaUtils.Imaging;
+using TalesOfVesperiaUtils.VirtualFileSystem;
 
 namespace TalesOfVesperiaTranslationEngine
 {
-	public class Patcher
+	public class Patcher : IDisposable
 	{
 		public PatchInplace PatchInplace;
 		public string PatcherPath;
 		public FileSystem GameFileSystem;
 		public FileSystem TempFS;
 		public FileSystem PatcherDataFS;
-		private Dictionary<string, List<TranslationEntry>> _EntriesByRoom;
-		public Dictionary<string, List<TranslationEntry>> EntriesByRoom
+		private Dictionary<string, Dictionary<string, TranslationEntry>> _EntriesByRoom;
+
+		public Dictionary<string, Dictionary<string, TranslationEntry>> EntriesByRoom
 		{
 			get
 			{
-				if (_EntriesByRoom == null)
+				lock (this)
 				{
-					_EntriesByRoom = new Dictionary<string, List<TranslationEntry>>();
-
-					var TovProto = "tov.proto";
-					var TovJson = "Data/tov.json";
-
-					if (!TempFS.Exists(TovProto))
+					if (_EntriesByRoom == null)
 					{
-						JsonTranslations.JsonToProtocolBuffer(PatcherDataFS.OpenFileRead(TovJson), TempFS.OpenFile(TovProto, FileMode.Create));
+						_EntriesByRoom = new Dictionary<string, Dictionary<string, TranslationEntry>>();
+
+						var TovProto = "tov.proto";
+						var TovJson = "Data/tov.json";
+
+						if (!TempFS.Exists(TovProto))
+						{
+							JsonTranslations.JsonToProtocolBuffer(PatcherDataFS.OpenFileRead(TovJson), TempFS.OpenFile(TovProto, FileMode.Create));
+						}
+
+						foreach (var Entry in JsonTranslations.ReadProto(TempFS.OpenFileRead(TovProto)).Items)
+						{
+							if (!_EntriesByRoom.ContainsKey(Entry.text_path)) _EntriesByRoom[Entry.text_path] = new Dictionary<string, TranslationEntry>();
+							_EntriesByRoom[Entry.text_path][Entry.text_id] = Entry;
+						}
 					}
 
-					foreach (var Entry in JsonTranslations.ReadProto(TempFS.OpenFileRead(TovProto)).Items)
-					{
-						if (!_EntriesByRoom.ContainsKey(Entry.text_path)) _EntriesByRoom[Entry.text_path] = new List<TranslationEntry>();
-						_EntriesByRoom[Entry.text_path].Add(Entry);
-					}
+					return _EntriesByRoom;
 				}
-
-				return _EntriesByRoom;
 			}
 		}
 
-		[DebuggerHidden]
+		Stream GameIsoStream = null;
+		public Patcher(string GamePath)
+		{
+			FileSystem GameRootFS;
+			if (Directory.Exists(GamePath))
+			{
+				GameRootFS = new LocalFileSystem(GamePath);
+			}
+			else
+			{
+				this.GameIsoStream = File.Open(GamePath, FileMode.Open, FileAccess.ReadWrite, FileShare.Read);
+				GameRootFS = new Dvd9Xbox360FileSystem(this.GameIsoStream);
+			}
+
+			Init(GameRootFS);
+		}
+
 		public Patcher(FileSystem GameFileSystem)
+		{
+			Init(GameFileSystem);
+		}
+
+		private void Init(FileSystem GameFileSystem)
 		{
 			this.GameFileSystem = GameFileSystem;
 			this.PatcherPath = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
@@ -155,6 +181,14 @@ namespace TalesOfVesperiaTranslationEngine
 			finally
 			{
 				ActionLevel--;
+			}
+		}
+
+		public void Dispose()
+		{
+			if (GameIsoStream != null)
+			{
+				GameIsoStream.Dispose();
 			}
 		}
 	}

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using CSharpUtils.VirtualFileSystem;
 using TalesOfVesperiaUtils.Formats.Packages;
+using System.IO;
 
 namespace TalesOfVesperiaUtils.VirtualFileSystem
 {
@@ -23,11 +24,16 @@ namespace TalesOfVesperiaUtils.VirtualFileSystem
 	/// [ ] Delete file
 	/// [ ] Delete directory
 	/// [ ] Create Directory
-	/// [ ] Movie File
+	/// [ ] Move File
 	/// </remarks>
 	public class Dvd9Xbox360FileSystem : FileSystem
 	{
 		Dvd9Xbox360 Dvd9Xbox360;
+
+		public Dvd9Xbox360FileSystem(Stream Stream)
+		{
+			this.Dvd9Xbox360 = new Dvd9Xbox360().Load(Stream);
+		}
 
 		public Dvd9Xbox360FileSystem(Dvd9Xbox360 Dvd9Xbox360)
 		{
@@ -84,6 +90,11 @@ namespace TalesOfVesperiaUtils.VirtualFileSystem
 			{
 				yield return ConvertEntry(ChildEntry);
 			}
+		}
+
+		protected override void ImplCreateSymLink(string Pointer, string Pointee)
+		{
+			throw new NotImplementedException();
 		}
 	}
 }

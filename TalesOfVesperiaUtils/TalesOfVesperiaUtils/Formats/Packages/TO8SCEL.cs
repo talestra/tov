@@ -173,7 +173,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			}
 		}
 
-		public override void Save(Stream Stream)
+		public override void Save(Stream Stream, bool DoAlign = true)
 		{
 			throw new NotImplementedException();
 		}

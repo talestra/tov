@@ -6,6 +6,7 @@ using System.IO;
 
 namespace TalesOfVesperiaTranslationEngine
 {
+#if false
 	public class PatchUtils
 	{
 		/// <summary>
@@ -27,4 +28,5 @@ namespace TalesOfVesperiaTranslationEngine
 			return BackupFileName;
 		}
 	}
+#endif
 }
