@@ -32,7 +32,7 @@ namespace TalesOfVesperiaUtils.Compression
 			{
 				var Compression = TalesCompression.CreateFromStart(this.CompressedStream.Slice().ReadBytes(0x10), this.CompressedStream.Length);
 				var RecompressedData = Compression.EncodeFile(ParentStream).ToArray();
-				if (RecompressedData.Length > this.CompressedStream.Length) throw (new Exception(String.Format("Compressed file is bigger than original {0} > {1}", CompressedStream.Length, RecompressedData.Length)));
+				if (RecompressedData.Length > this.CompressedStream.Length) throw (new Exception(String.Format("Compressed file is bigger than original Updated: {0} > Previous: {1}", RecompressedData.Length, CompressedStream.Length)));
 				var CompressedStream2 = this.CompressedStream.Slice();
 				CompressedStream2
 					.WriteBytes(RecompressedData)

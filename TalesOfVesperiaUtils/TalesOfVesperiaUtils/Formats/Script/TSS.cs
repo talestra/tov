@@ -69,6 +69,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 		{
 			var Stream = new MemoryStream();
 			SaveTo(Stream);
+			Stream.Position = 0;
 			return Stream;
 		}
 
@@ -155,11 +156,12 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			}
 		}
 
-		public List<TextEntry> ExtractTexts(bool HandleType1 = true)
+		public List<TextEntry> ExtractTexts(bool HandleType1 = true, bool EmitSeparators = false)
 		{
 			var TextEntries = new List<TextEntry>();
 			HandleTexts((TextEntry) =>
 			{
+				if (TextEntry == null && !EmitSeparators) return;
 				TextEntries.Add(TextEntry);
 			}, HandleType1);
 			return TextEntries;
@@ -179,7 +181,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 				foreach (var StringInfo in Entry.OriginalTranslated)
 				{
 					//var StringLength = CountStringz((uint)StringOffset);
-					Console.WriteLine("{0}, {1}", StringInfo.StringzOffset, StringInfo.StringzLength);
+					//Console.WriteLine("{0}, {1}", StringInfo.StringzOffset, StringInfo.StringzLength);
 					SpaceAssigner1D.AddAvailableWithLength(StringInfo.StringzOffset, StringInfo.StringzLength);
 				}
 				TranslateTextEntry(Entry);

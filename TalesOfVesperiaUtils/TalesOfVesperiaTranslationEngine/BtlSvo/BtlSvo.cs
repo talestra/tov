@@ -22,13 +22,36 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 
 		public void Handle()
 		{
-			Patcher.GameAccessPath("btl.svo", () =>
+			if (!Patcher.TempFS.Exists("BTL_PACK_UK.DAT"))
 			{
-				Patcher.GameAccessPath("BTL_PACK_UK.DAT", HandleBattlePack);
-				Patcher.GameAccessPath("BTL_PACK_US.DAT", HandleBattlePack);
-				//Patcher.GameAccessPath("BTL_PACK_FR.DAT", HandleBattlePack);
-				//Patcher.GameAccessPath("BTL_PACK_DE.DAT", HandleBattlePack);
+				Patcher.GameAccessPath("btl.svo", () =>
+				{
+					Patcher.GameGetFile("BTL_PACK_UK.DAT", (PackStream) =>
+					{
+						Patcher.TempFS.WriteAllBytes("BTL_PACK_UK.DAT", PackStream.ReadAll());
+					});
+				});
+			}
+
+			/*
+			Patcher.GameSetFileSystem(new FPS4FileSystem(Patcher.TempFS.OpenFileRW("BTL_PACK_UK.DAT")), () =>
+			{
+				HandleBattlePackImages();
 			});
+			*/
+
+			var OldBtlSvo = new FPS4(Patcher.GameFileSystem.OpenFileRead("btl.svo"));
+			var NewBtlSvo = new FPS4(Patcher.GameFileSystem.OpenFileRead("btl.svo"));
+			NewBtlSvo.ClearAllEntries();
+			NewBtlSvo.CreateEntry("BTL_EFFECT.DAT", OldBtlSvo["BTL_EFFECT.DAT"].Open());
+			var PackEsEntry = NewBtlSvo.CreateEntry("BTL_PACK_ES.DAT", Patcher.TempFS.OpenFileRead("BTL_PACK_UK.DAT"));
+			NewBtlSvo.CreateEntry("BTL_PACK_DE.DAT", PackEsEntry);
+			NewBtlSvo.CreateEntry("BTL_PACK_FR.DAT", PackEsEntry);
+			NewBtlSvo.CreateEntry("BTL_PACK_UK.DAT", PackEsEntry);
+			NewBtlSvo.CreateEntry("BTL_PACK_US.DAT", PackEsEntry);
+			NewBtlSvo.Save(Patcher.TempFS.OpenFileCreate("btl.svo"));
+
+			Patcher.GameReplaceFile("btl.svo", Patcher.TempFS.OpenFileRead("btl.svo"));
 		}
 
 		public void HandleBattlePack()
@@ -60,21 +83,23 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 					{
 						var TssName = Name;
 						var Tss = new TSS().Load(TssStream);
-						Tss.HandleTexts((Entry) =>
+						Tss.TranslateTexts((Entry) =>
 						{
-							if (Entry == null) return;
-							//var TranslationEntry = Patcher.EntriesByRoom["battle/" + TssName][String.Format("{0:X8}", Entry.Id2)];
+							//if (Entry == null) return;
+							var TranslationEntry = Patcher.EntriesByRoom["battle/" + TssName][String.Format("{0:X8}", Entry.Id2)];
 
 							int TextCount = Entry.Original.Length;
 
 							for (int n = 0; n < TextCount; n++)
 							{
 								Entry.Original[n].Text = "";
-								//Entry.Translated[n] = TranslationEntry.texts.es[n];
+								Entry.Translated[n].Text = TranslationEntry.texts.es[n];
 							}
 
 							//Console.WriteLine("{0} : {1}", Entry.Translated[1], TranslationEntry.texts.es[1]);
 						});
+						TssStream.Position = 0;
+						Tss.SaveTo(TssStream);
 					});
 				}
 			});
