@@ -49,8 +49,9 @@ namespace TalesOfVesperiaTranslationEngine.ChatSvo
 								int TextId = int.Parse(Entry.text_id) - 1;
 								if (TextId >= 0)
 								{
+									//Chtx[TextId].Title = "";
 									//Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0].TrimEnd(' ', '\t', '\n', '\r', '.'));
-									Chtx[TextId].Title = "";
+									Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0]);
 									Chtx[TextId].TextOriginal = "";
 									Chtx[TextId].TextTranslated = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].TextTranslated, Entry.texts.es[1]);
 								}

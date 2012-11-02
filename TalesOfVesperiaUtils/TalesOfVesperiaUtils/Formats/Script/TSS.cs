@@ -7,6 +7,7 @@ using CSharpUtils.Streams;
 using System.Runtime.InteropServices;
 using System.IO;
 using CSharpUtils.Endian;
+using CSharpUtils.SpaceAssigner;
 
 namespace TalesOfVesperiaUtils.Formats.Script
 {
@@ -54,10 +55,40 @@ namespace TalesOfVesperiaUtils.Formats.Script
 
 			if (Header.Magic != "TSS") throw(new Exception("Not a TSS file!"));
 
-			this.CodeStream = SliceStream.CreateWithBounds(Stream, Header.CodeStart, Header.TextStart);
-			this.TextStream = SliceStream.CreateWithLength(Stream, Header.TextStart, Header.TextLen);
+			this.CodeStream = new MemoryStream(SliceStream.CreateWithBounds(Stream, Header.CodeStart, Header.TextStart).ReadAll());
+			
+			var TextData = SliceStream.CreateWithLength(Stream, Header.TextStart, Header.TextLen).ReadAll();
+			this.TextStream = new MemoryStream();
+			this.TextStream.WriteBytes(TextData);
+			this.TextStream.Position = 0;
 
 			return this;
+		}
+
+		public MemoryStream Save()
+		{
+			var Stream = new MemoryStream();
+			SaveTo(Stream);
+			return Stream;
+		}
+
+		public void SaveTo(Stream Stream)
+		{
+			long OutStart = Stream.Position;
+			Header.TextLen = (uint)TextStream.Length;
+			
+			Stream.WriteStruct(Header);
+
+			Stream.WriteByteRepeatedTo((byte)0x00, OutStart + Header.CodeStart);
+			Stream.WriteStream(CodeStream.Slice());
+
+			Stream.WriteByteRepeatedTo((byte)0x00, OutStart + Header.TextStart);
+			Stream.WriteStream(TextStream.Slice());
+		}
+
+		public int CountStringz(uint TextOffset)
+		{
+			return (SliceStream.CreateWithLength(TextStream, TextOffset)).CountStringzBytes(AlignTo4: false, AlignPosition: (int)TextOffset);
 		}
 
 		public String ReadStringz(uint TextOffset)
@@ -65,13 +96,63 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			return (SliceStream.CreateWithLength(TextStream, TextOffset)).ReadStringz(Encoding: Encoding.UTF8);
 		}
 
+		public class StringInfo
+		{
+			public SliceStream PointerStream;
+			public int StringzOffset;
+			public int StringzLength;
+			public string Text;
+
+			public uint PointerValue 
+			{
+				get
+				{
+					return (uint)PointerStream.Slice().ReadStruct<uint_be>();
+				}
+			}
+
+			public void WritePointerValue(uint value)
+			{
+				PointerStream.Slice().WriteStruct((uint_be)value);
+			}
+
+			public StringInfo(TSS Tss, int StringzOffset, SliceStream PointerStream)
+			{
+				this.PointerStream = PointerStream;
+
+				if (this.PointerStream.Length != 4) throw (new InvalidOperationException("Invalid PointerStream. Length != 4"));
+				if (this.PointerValue != StringzOffset) throw (new InvalidOperationException("StringzOffset Doesn't Match PointerStream Data"));
+
+				this.StringzOffset = StringzOffset;
+				this.StringzLength = Tss.CountStringz((uint)StringzOffset);
+				this.Text = Tss.ReadStringz((uint)StringzOffset);
+			}
+		}
+
 		public class TextEntry
 		{
 			public int TextType;
 			public uint Id;
 			public uint Id2;
-			public string[] Original;
-			public string[] Translated;
+			public StringInfo[] Original;
+			public StringInfo[] Translated;
+
+			public StringInfo[] OriginalTranslated
+			{
+				get
+				{
+					return Original.Concat(Translated).ToArray();
+				}
+			}
+
+			public TextEntry()
+			{
+			}
+
+			public override string ToString()
+			{
+				return this.ToStringDefault();
+			}
 		}
 
 		public List<TextEntry> ExtractTexts(bool HandleType1 = true)
@@ -84,13 +165,46 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			return TextEntries;
 		}
 
+		public void TranslateTexts(Action<TextEntry> TranslateTextEntry, bool HandleType1 = true)
+		{
+			var SpaceAssigner1D = new SpaceAssigner1D();
+			var SpaceAssigner1DUniqueAllocator = new SpaceAssigner1DUniqueAllocatorStream(SpaceAssigner1D, TextStream);
+
+			var Entries = new List<TextEntry>();
+
+			HandleTexts((Entry) =>
+			{
+				if (Entry == null) return;
+				Entries.Add(Entry);
+				foreach (var StringInfo in Entry.OriginalTranslated)
+				{
+					//var StringLength = CountStringz((uint)StringOffset);
+					Console.WriteLine("{0}, {1}", StringInfo.StringzOffset, StringInfo.StringzLength);
+					SpaceAssigner1D.AddAvailableWithLength(StringInfo.StringzOffset, StringInfo.StringzLength);
+				}
+				TranslateTextEntry(Entry);
+			}, HandleType1);
+
+			SpaceAssigner1DUniqueAllocator.FillSpacesWithZeroes();
+			SpaceAssigner1D.AddAvailableWithLength(TextStream.Length, 0x10000);
+
+			foreach (var Entry in Entries)
+			{
+				foreach (var StringInfo in Entry.OriginalTranslated)
+				{
+					var TextSpace = SpaceAssigner1DUniqueAllocator.AllocateUnique(StringInfo.Text, Encoding.UTF8);
+					StringInfo.WritePointerValue((uint)TextSpace.Min);
+				}
+			}
+		}
+
 		public void HandleTexts(Action<TextEntry> ActionTextEntry, bool HandleType1 = true)
 		{
 			uint TextId = 0;
 			int Lang = 0;
 			int TextType = -1;
-			var Text1 = new string[] { };
-			var Text2 = new string[] { };
+			var Text1 = new StringInfo[] { };
+			var Text2 = new StringInfo[] { };
 			var Stack = new List<dynamic>();
 			bool LastSeparator = true;
 			foreach (var Instruction in ReadInstructions())
@@ -111,8 +225,12 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							var PushInstruction = (PushInstructionNode)Instruction;
 							if (PushInstruction.ParameterType == ValueType.String)
 							{
-								if (Lang == 1) Text1 = new[] { (string)PushInstruction.ValueToPush.Value };
-								if (Lang == 2) Text2 = new[] { (string)PushInstruction.ValueToPush.Value };
+								if (new[] { 1, 2 }.Contains(Lang))
+								{
+									var StringInfo = new StringInfo(this, PushInstruction.IntValue, CodeStream.SliceWithLength(PushInstruction.InstructionPosition + 4, 4));
+									if (Lang == 1) Text1 = new[] { StringInfo };
+									if (Lang == 2) Text2 = new[] { StringInfo };
+								}
 							}
 							else
 							{
@@ -175,8 +293,8 @@ namespace TalesOfVesperiaUtils.Formats.Script
 									}
 									//Console.WriteLine("############  AddText {0:D8}:('{1}', '{2}')", Stack[0], Text1.EscapeString(), Text2.EscapeString());
 								}
-								Text1 = new string[] { };
-								Text2 = new string[] { };
+								Text1 = new StringInfo[0];
+								Text2 = new StringInfo[0];
 								TextType = -1;
 								Stack.Clear();
 							}
@@ -196,8 +314,15 @@ namespace TalesOfVesperiaUtils.Formats.Script
 								//Console.WriteLine("Dialog {0}, {1}, {2}", E[0], E[1], E[2]);
 								//Console.WriteLine("Dialog {0}, {1}, {2}", E[3], E[4], E[5]);
 								TextId = PushArrayInstruction.ArrayPointer + this.Header.TextStart;
-								Text1 = new[] { E[2], E[3] };
-								Text2 = new[] { E[4], E[5] };
+
+								Text1 = new[] {
+									new StringInfo(this, IE[2], TextStream.SliceWithLength(PushArrayInstruction.ArrayPointer + 4 * 2, 4)),
+									new StringInfo(this, IE[3], TextStream.SliceWithLength(PushArrayInstruction.ArrayPointer + 4 * 3, 4)),
+								};
+								Text2 = new[] {
+									new StringInfo(this, IE[4], TextStream.SliceWithLength(PushArrayInstruction.ArrayPointer + 4 * 4, 4)),
+									new StringInfo(this, IE[5], TextStream.SliceWithLength(PushArrayInstruction.ArrayPointer + 4 * 5, 4)),
+								};
 
 								ActionTextEntry(new TextEntry()
 								{
@@ -208,6 +333,11 @@ namespace TalesOfVesperiaUtils.Formats.Script
 									Translated = Text2,
 								});
 								LastSeparator = false;
+
+								Text1 = new StringInfo[0];
+								Text2 = new StringInfo[0];
+								TextType = -1;
+								Stack.Clear();
 
 								/*
 								if (TextType != 0)
@@ -228,165 +358,180 @@ namespace TalesOfVesperiaUtils.Formats.Script
 		public IEnumerable<InstructionNode> ReadInstructions()
 		{
 			var CodeStream = this.CodeStream.Slice();
-			while (!CodeStream.Eof())
+			//yield return null;
+			if (true)
 			{
-				uint InstructionPosition = (uint)CodeStream.Position;
-				uint InstructionData = CodeStream.ReadStruct<uint_be>();
-				var InstructionOpcode = (Opcode)((InstructionData >> 24) & 0xFF);
-				InstructionNode InstructionNode;
-				InstructionNode = new InstructionNode()
+				while (!CodeStream.Eof())
 				{
-					TSS = this,
-					InstructionPosition = InstructionPosition,
-					Opcode = InstructionOpcode,
-					InstructionData = InstructionData,
-					InlineParam = InstructionData & 0xFFFFFF,
-				};
+					uint InstructionPosition = (uint)CodeStream.Position;
+					uint InstructionData = CodeStream.ReadStruct<uint_be>();
+					int IntValue = -1;
+					var InstructionOpcode = (Opcode)((InstructionData >> 24) & 0xFF);
+					InstructionNode InstructionNode;
+					InstructionNode = new InstructionNode()
+					{
+						TSS = this,
+						InstructionPosition = InstructionPosition,
+						Opcode = InstructionOpcode,
+						InstructionData = InstructionData,
+						InlineParam = InstructionData & 0xFFFFFF,
+					};
 
-				switch (InstructionOpcode)
-				{
-					case Opcode.RETURN:
-					case Opcode.EXIT:
-					case Opcode.NOP:
-					case Opcode.UNK_0E:
-					case Opcode.UNK_14:
-					case Opcode.UNK_13:
-						break;
-					// TEXT RELATED?
-					// SET_TEXT(0C0100): 00001318
-					case Opcode.STACK_READ:
-						{
-							// uint text_block_addr = read_word;
-							InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
-						}
-						break;
-					case Opcode.CALL:
-						{
-							InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
-							var NumberOfParameters = (byte)((InstructionData >> 16) & 0xFF);
-							var NativeFunction = (short)(InstructionData & 0xFFFF);
-							InstructionNode = new CallInstructionNode()
+					switch (InstructionOpcode)
+					{
+						case Opcode.RETURN:
+						case Opcode.EXIT:
+						case Opcode.NOP:
+						case Opcode.UNK_0E:
+						case Opcode.UNK_14:
+						case Opcode.UNK_13:
+							break;
+						// TEXT RELATED?
+						// SET_TEXT(0C0100): 00001318
+						case Opcode.STACK_READ:
 							{
-								TSS = this,
-								InstructionPosition = InstructionPosition,
-								Opcode = InstructionOpcode,
-								FunctionType = (NativeFunction != -1) ? TSS.FunctionType.Native : TSS.FunctionType.Script,
-								NativeFunction = NativeFunction,
-								NumberOfParameters = NumberOfParameters,
-								ScriptFunction = InstructionNode.Parameter,
-							};
-						}
-						break;
-					case Opcode.OP:
-						{
-							InstructionNode = new OpInstructionNode()
+								// uint text_block_addr = read_word;
+								InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
+								InstructionNode.IntValue = (int)(uint)InstructionNode.Parameter;
+							}
+							break;
+						case Opcode.CALL:
 							{
-								TSS = this,
-								InstructionPosition = InstructionPosition,
-								Opcode = InstructionOpcode,
-								InlineParam = InstructionData & 0xFFFF,
-								OperationType = (OperationType)((InstructionData >> 16) & 0xFF),
-							};
-						}
-						break;
-					case Opcode.PUSH:
-						{
-							var ValueTypeInt = ((InstructionData >> 16) & 0xFF);
-
-							if ((ValueTypeInt & 0x80) != 0)
-							{
-								//bool IsText = ((ValueTypeInt & 0x02) != 0);
-
-								var Offset = CodeStream.ReadStruct<uint_be>();
-								InstructionNode = new PushInstructionNode()
+								InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
+								var NumberOfParameters = (byte)((InstructionData >> 16) & 0xFF);
+								var NativeFunction = (short)(InstructionData & 0xFFFF);
+								InstructionNode = new CallInstructionNode()
 								{
 									TSS = this,
 									InstructionPosition = InstructionPosition,
-									Opcode = Opcode.PUSH,
-									Parameter = Offset,
-									//ParameterType = IsText ? ValueType.TextString : ValueType.String,
-									ParameterType = ValueType.String,
-									ValueToPush = new DynamicValue(ValueType.String, ReadStringz(Offset)),
+									Opcode = InstructionOpcode,
+									FunctionType = (NativeFunction != -1) ? TSS.FunctionType.Native : TSS.FunctionType.Script,
+									NativeFunction = NativeFunction,
+									IntValue = (NativeFunction != -1) ? NativeFunction : (int)(uint)InstructionNode.Parameter,
+									NumberOfParameters = NumberOfParameters,
+									ScriptFunction = InstructionNode.Parameter,
 								};
 							}
-							else
+							break;
+						case Opcode.OP:
 							{
-								var ParameterType = (ValueType)(ValueTypeInt & 0x7F);
-								dynamic Parameter = (ushort)(InstructionData & 0xFFFF);
-
-								switch (ParameterType)
+								InstructionNode = new OpInstructionNode()
 								{
-									case ValueType.VOID:
-									case ValueType.NULL:
-									case ValueType.UNDEFINED:
-									case ValueType.FALSE:
-									case ValueType.TRUE:
-									case ValueType.Integer8Unsigned:
-									case ValueType.Integer8Signed:
-									case ValueType.Integer16Signed:
-										break;
-									case ValueType.Integer32:
-									case ValueType.Integer32_2:
-									case ValueType.Integer32Signed:
-										Parameter = CodeStream.ReadStruct<uint_be>();
-										break;
-									case ValueType.Float32:
-										Parameter = CodeStream.ReadStruct<float_be>();
-										break;
+									TSS = this,
+									InstructionPosition = InstructionPosition,
+									Opcode = InstructionOpcode,
+									InlineParam = InstructionData & 0xFFFF,
+									OperationType = (OperationType)((InstructionData >> 16) & 0xFF),
+									IntValue = (int)((InstructionData >> 16) & 0xFF),
+								};
+							}
+							break;
+						case Opcode.PUSH:
+							{
+								var ValueTypeInt = ((InstructionData >> 16) & 0xFF);
+
+								// Read String
+								if ((ValueTypeInt & 0x80) != 0)
+								{
+									//bool IsText = ((ValueTypeInt & 0x02) != 0);
+
+									var Offset = CodeStream.ReadStruct<uint_be>();
+									InstructionNode = new PushInstructionNode()
+									{
+										TSS = this,
+										InstructionPosition = InstructionPosition,
+										Opcode = Opcode.PUSH,
+										Parameter = Offset,
+										//ParameterType = IsText ? ValueType.TextString : ValueType.String,
+										ParameterType = ValueType.String,
+										IntValue = (int)(uint)Offset,
+										ValueToPush = new DynamicValue(ValueType.String, ReadStringz(Offset)),
+									};
 								}
+								else
+								{
+									var ParameterType = (ValueType)(ValueTypeInt & 0x7F);
+									dynamic Parameter = (ushort)(InstructionData & 0xFFFF);
 
-								InstructionNode = new PushInstructionNode()
+									switch (ParameterType)
+									{
+										case ValueType.VOID:
+										case ValueType.NULL:
+										case ValueType.UNDEFINED:
+										case ValueType.FALSE:
+										case ValueType.TRUE:
+										case ValueType.Integer8Unsigned:
+										case ValueType.Integer8Signed:
+										case ValueType.Integer16Signed:
+											break;
+										case ValueType.Integer32:
+										case ValueType.Integer32_2:
+										case ValueType.Integer32Signed:
+											Parameter = CodeStream.ReadStruct<uint_be>();
+											IntValue = (int)(uint)Parameter;
+											break;
+										case ValueType.Float32:
+											Parameter = CodeStream.ReadStruct<float_be>();
+											IntValue = -1;
+											break;
+									}
+
+									InstructionNode = new PushInstructionNode()
+									{
+										TSS = this,
+										InstructionPosition = InstructionPosition,
+										Opcode = Opcode.PUSH,
+										Parameter = Parameter,
+										ParameterType = ParameterType,
+										IntValue = IntValue,
+										InlineParam = null,
+										ValueToPush = new DynamicValue(ParameterType, Parameter),
+									};
+								}
+							}
+							break;
+						case Opcode.PUSH_ARRAY:
+							{
+								var ArrayPointer = CodeStream.ReadStruct<uint_be>();
+								var ParameterTypeInt = (InstructionData >> 16) & 0xFF;
+								var ParameterType = (ValueType)(ParameterTypeInt);
+								uint TypeSize = GetTypeSize(ParameterTypeInt);
+								uint ArrayNumberOfBytes = InstructionData & 0xFFFF;
+								uint ArrayNumberOfElements = (TypeSize > 0) ? (ArrayNumberOfBytes / TypeSize) : 0;
+								//var Elements = new List<dynamic>((int)ArrayNumberOfElements);
+
+								InstructionNode = new PushArrayInstructionNode()
 								{
 									TSS = this,
 									InstructionPosition = InstructionPosition,
-									Opcode = Opcode.PUSH,
-									Parameter = Parameter,
-									ParameterType = ParameterType,
-									InlineParam = null,
-									ValueToPush = new DynamicValue(ParameterType, Parameter),
+									Opcode = Opcode.PUSH_ARRAY,
+									ValuesType = ParameterType,
+									ArrayPointer = ArrayPointer,
+									ArrayNumberOfElements = ArrayNumberOfElements,
+									ArrayNumberOfBytes = ArrayNumberOfBytes,
+									IntValue = -1,
+									//Values = Elements,
 								};
 							}
-						}
-						break;
-					case Opcode.PUSH_ARRAY:
-						{
-							var ArrayPointer = CodeStream.ReadStruct<uint_be>();
-							var ParameterTypeInt = (InstructionData >> 16) & 0xFF;
-							var ParameterType = (ValueType)(ParameterTypeInt);
-							uint TypeSize = GetTypeSize(ParameterTypeInt);
-							uint ArrayNumberOfBytes = InstructionData & 0xFFFF;
-							uint ArrayNumberOfElements = (TypeSize > 0) ? (ArrayNumberOfBytes / TypeSize) : 0;
-							//var Elements = new List<dynamic>((int)ArrayNumberOfElements);
-
-							InstructionNode = new PushArrayInstructionNode()
+							break;
+						case Opcode.JUMP_ALWAYS:
+						case Opcode.JUMP_FALSE:
+						case Opcode.JUMP_TRUE:
+						case Opcode.FUNCTION_START:
+						case Opcode.STACK_SUBSTRACT: // POP_RELATED?
 							{
-								TSS = this,
-								InstructionPosition = InstructionPosition,
-								Opcode = Opcode.PUSH_ARRAY,
-								ValuesType = ParameterType,
-								ArrayPointer = ArrayPointer,
-								ArrayNumberOfElements = ArrayNumberOfElements,
-								ArrayNumberOfBytes = ArrayNumberOfBytes,
-								//Values = Elements,
-							};
-						}
-						break;
-					case Opcode.JUMP_ALWAYS:
-					case Opcode.JUMP_FALSE:
-					case Opcode.JUMP_TRUE:
-					case Opcode.FUNCTION_START:
-					case Opcode.STACK_SUBSTRACT: // POP_RELATED?
-						{
-							InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
-						}
-						break;
-					default:
-						throw (new NotImplementedException("Unprocessed opcode: " + InstructionOpcode));
+								InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
+								InstructionNode.IntValue = (int)(uint)InstructionNode.Parameter;
+							}
+							break;
+						default:
+							throw (new NotImplementedException("Unprocessed opcode: " + InstructionOpcode));
+					}
+
+					yield return InstructionNode;
+
+					//Console.WriteLine(InstructionNode);
 				}
-
-				yield return InstructionNode;
-
-				//Console.WriteLine(InstructionNode);
 			}
 		}
 
