@@ -39,6 +39,15 @@ namespace TalesOfVesperiaUtils
 		}
 
 		[DebuggerHidden]
+		public void SetFileSystem(FileSystem FileSystem, Action Action)
+		{
+			LanguageUtils.LocalSet(ref this.FileSystem, FileSystem, () =>
+			{
+				Action();
+			});
+		}
+
+		[DebuggerHidden]
 		public void Access(string Path, Action Action)
 		{
 			if (Path.Contains('/'))

@@ -29,14 +29,16 @@ namespace Tests.TalesOfVesperiaUtils.Formats.Script
 		{
 			var Tss = new TSS().Load(File.OpenRead(Utils.TestInputPath + "/BTL_EP_210_090"));
 			var Texts = Tss.ExtractTexts();
-			Assert.AreEqual(6, Texts.Count);
+			Assert.AreEqual(4, Texts.Count);
+			/*
 			Assert.AreEqual(
 				"TextEntry(TextType=0,Id=0x3FA74,Id2=0x42AC,Original=[\"バルボス\", \"\\t(VB36_0703)くっ、やりやがって……許さん！！\"],Translated=[\"Barbos\", \"\\t(VB36_0703)Agh... Y-you\\'ll never beat me!\"])",
 				Texts[0].ToString()
 			);
+			*/
 			Assert.AreEqual(
 				"\t(VS21_176)You have lost! \nNow give up!".EscapeString(),
-				Texts[4].Translated[1].Text.EscapeString()
+				Texts[3].Translated[1].Text.EscapeString()
 			);
 		}
 
@@ -48,16 +50,39 @@ namespace Tests.TalesOfVesperiaUtils.Formats.Script
 			var BytesTranslated = Tss.Save().ToArray();
 			CollectionAssert.AreEqual(BytesOriginal, BytesTranslated);
 		}
-
+		
 		[TestMethod]
 		public void TestTranslateScript()
 		{
-			var Tss = new TSS().Load(File.OpenRead(Utils.TestInputPath + "/BTL_EP_210_090"));
+			string TssFileName = "BTL_EP_210_090";
+			int ExpectedTextCount = 4;
+
+			var Tss = new TSS().Load(File.OpenRead(Utils.TestInputPath + "/" + TssFileName));
+			int mm = 0;
 			Tss.TranslateTexts((Text) =>
 			{
-				foreach (var Entry in Text.Original) Entry.Text = "";
+				for (int n = 0; n < Text.Translated.Length; n++)
+				{
+					Text.Original[n].Text = "Original" + mm++;
+					Text.Translated[n].Text = "Translated" + mm++;
+				}
 			});
-			File.WriteAllBytes(Utils.TestOutputPath + "/BTL_EP_210_090.translated", Tss.Save().ToArray());
+			Assert.AreEqual(ExpectedTextCount * 2 * 2, mm);
+
+			mm = 0;
+			var Tss2 = new TSS().Load(Tss.Save());
+			var TranslatedTexts = Tss2.ExtractTexts();
+			Assert.AreEqual(ExpectedTextCount, TranslatedTexts.Count);
+			foreach (var Text in TranslatedTexts)
+			{
+				for (int n = 0; n < Text.Translated.Length; n++)
+				{
+					Assert.AreEqual("Original" + mm++, Text.Original[n].Text);
+					Assert.AreEqual("Translated" + mm++, Text.Translated[n].Text);
+				}
+			}
+			Assert.AreEqual(ExpectedTextCount * 2 * 2, mm);
+			//File.WriteAllBytes(Utils.TestOutputPath + "/BTL_EP_210_090.translated", Tss.Save().ToArray());
 		}
 	}
 }

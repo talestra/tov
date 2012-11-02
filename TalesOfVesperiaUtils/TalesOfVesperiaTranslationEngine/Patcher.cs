@@ -87,6 +87,15 @@ namespace TalesOfVesperiaTranslationEngine
 		}
 
 		[DebuggerHidden]
+		public void GameSetFileSystem(FileSystem FileSystem, Action ActionAccess)
+		{
+			this.Action(String.Format("SettingFileSystem {0}", FileSystem), () =>
+			{
+				this.PatchInplace.SetFileSystem(FileSystem, ActionAccess);
+			});
+		}
+
+		[DebuggerHidden]
 		public void GameAccessPath(string Path, Action ActionAccess)
 		{
 			this.Action(String.Format("Accessing {0}", Path), () =>
@@ -101,6 +110,21 @@ namespace TalesOfVesperiaTranslationEngine
 			this.Action(String.Format("File {0}", File1), () =>
 			{
 				this.PatchInplace.GetFile(File1, ActionRead);
+			});
+		}
+
+		[DebuggerHidden]
+		public void GameReplaceFile(string File1, Stream NewStream)
+		{
+			this.Action(String.Format("Update {0}", File1), () =>
+			{
+				this.GameGetFile(File1, (OldStream) =>
+				{
+					OldStream.WriteStream(NewStream.Slice());
+					//Console.WriteLine("ZeroBytes: {0}", OldStream.Length - OldStream.Position);
+					OldStream.WriteByteRepeatedTo((byte)0x00, OldStream.Length);
+					OldStream.Flush();
+				});
 			});
 		}
 

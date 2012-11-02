@@ -189,7 +189,7 @@ namespace TovExpander
 							{
 								var Tss = new TSS().Load(FileStream);
 
-								foreach (var Entry in Tss.ExtractTexts())
+								foreach (var Entry in Tss.ExtractTexts(HandleType1: true, EmitSeparators: true))
 								{
 									if (Entry == null)
 									{
@@ -200,8 +200,8 @@ namespace TovExpander
 										TextWriter.WriteLine(
 											"{0:X8}:[{1}]:[{2}]",
 											Entry.Id,
-											Entry.Original.Select(Item => "'" + Item.EscapeString() + "'").Implode(","),
-											Entry.Translated.Select(Item => "'" + Item.EscapeString() + "'").Implode(",")
+											Entry.Original.Select(Item => "'" + Item.Text.EscapeString() + "'").Implode(","),
+											Entry.Translated.Select(Item => "'" + Item.Text.EscapeString() + "'").Implode(",")
 										);
 									}
 								}
