@@ -22,6 +22,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			public ValueType? ParameterType;
 			public dynamic Parameter;
 			public uint InstructionData;
+			public int IntValue;
 
 			virtual protected String GetParams()
 			{
