@@ -66,7 +66,7 @@ namespace TalesOfVesperiaUtils.Text
 		/// <returns></returns>
 		public String Process(String String)
 		{
-			String = String.RegexReplace(@"(<PAGE>)\s+", (Groups) =>
+			String = String.RegexReplace(@"\s+(<PAGE>)\s+", (Groups) =>
 			{
 				return Groups[1].Value;
 			});

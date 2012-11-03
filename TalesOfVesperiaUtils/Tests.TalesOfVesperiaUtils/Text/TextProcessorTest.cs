@@ -18,5 +18,11 @@ namespace Tests.TalesOfVesperiaUtils.Text
 		{
 			Assert.AreEqual("Hola\x0cMundo", TextProcessor.Instance.ProcessAndDetectPitfalls("Hello\x0cWorld", "Hola<PAGE>\r\n\r\nMundo", true));
 		}
+
+		[TestMethod]
+		public void TestPageWithLineBreaks2()
+		{
+			Assert.AreEqual("Hola\x0cMundo", TextProcessor.Instance.ProcessAndDetectPitfalls("Hello\x0cWorld", "Hola\n\n<PAGE>\r\n\r\nMundo", true));
+		}
 	}
 }
