@@ -19,110 +19,111 @@ namespace TalesOfVesperiaTranslationEngine.ChatSvo
 
 		public void Handle()
 		{
-			int CompressionVersion = 15;
-			int FallbackVersion = 3;
-			var TranslatedChatSvo = new FPS4(Patcher.GameFileSystem.OpenFileRead("chat.svo")).ClearAllEntries();
-			var OriginalChatSvo = new FPS4(Patcher.GameFileSystem.OpenFileRead("chat.svo"));
-
-			OriginalChatSvo
-				.AsParallel()
-				.ForEach((ChatSvoEntry) =>
+			Patcher.Action("chat.svo", () =>
 			{
-				var Match = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+B?)(UK)\.DAT$");
-				if (Match == null) return;
+				var TranslatedChatSvo = new FPS4(Patcher.GameFileSystem.OpenFileRead("chat.svo")).ClearAllEntries();
+				var OriginalChatSvo = new FPS4(Patcher.GameFileSystem.OpenFileRead("chat.svo"));
 
-				var CompleteFile = Match[0].Value;
-				var ChatId = Match[1].Value;
-				var EsFile = ChatId + "ES.DAT";
-				
-				Console.WriteLine("{0}...", ChatId);
+				Patcher.TempFS.CreateDirectory("CHAT_ES", 0777, false);
+				var PreppendTempFile = "CHAT_ES/";
 
-				if (!Patcher.TempFS.Exists(EsFile))
+				Patcher.Action("Translating Skits...", () =>
 				{
-					var Fps4 = new FPS4(TalesCompression.DecompressStream(OriginalChatSvo[CompleteFile].Open()));
+					Patcher.ParallelForeach("Translating", OriginalChatSvo, (ChatSvoEntry) => ChatSvoEntry.Name, (ChatSvoEntry) =>
 					{
-						var Chtx = new TO8CHTX();
-						Chtx.Load(Fps4["3"].Open());
-						// Translate
+						var Match = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+B?)(UK)\.DAT$");
+						if (Match == null) return;
+
+						var CompleteFile = Match[0].Value;
+						var ChatId = Match[1].Value;
+						var EsFile = PreppendTempFile + ChatId + "ES.DAT";
+
+						Console.WriteLine("{0}...", ChatId);
+
+						if (!Patcher.TempFS.Exists(EsFile))
 						{
-							foreach (var Entry in Patcher.EntriesByRoom["skits/" + ChatId].Values)
+							var Fps4 = new FPS4(TalesCompression.DecompressStream(OriginalChatSvo[CompleteFile].Open()));
 							{
-								int TextId = int.Parse(Entry.text_id) - 1;
-								if (TextId >= 0)
+								var Chtx = new TO8CHTX();
+								Chtx.Load(Fps4["3"].Open());
+								// Translate
 								{
-									//Chtx[TextId].Title = "";
-									//Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0].TrimEnd(' ', '\t', '\n', '\r', '.'));
-									//Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0]);
-									Chtx[TextId].Title = "";
-									Chtx[TextId].TextOriginal = "";
-									Chtx[TextId].TextTranslated = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].TextTranslated, Entry.texts.es[1]);
+									foreach (var Entry in Patcher.EntriesByRoom["skits/" + ChatId].Values)
+									{
+										int TextId = int.Parse(Entry.text_id) - 1;
+										if (TextId >= 0)
+										{
+											//Chtx[TextId].Title = "";
+											//Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0].TrimEnd(' ', '\t', '\n', '\r', '.'));
+											//Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0]);
+											Chtx[TextId].Title = "";
+											Chtx[TextId].TextOriginal = "";
+											Chtx[TextId].TextTranslated = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].TextTranslated, Entry.texts.es[1]);
+										}
+									}
+								}
+								//ChtxStream.SetLength(0);
+								var ChtxStream = new MemoryStream();
+								Chtx.SaveTo(ChtxStream);
+								ChtxStream.Position = 0;
+								Fps4["3"].SetStream(ChtxStream);
+							}
+							Patcher.TempFS.WriteAllBytes(EsFile, TalesCompression.CreateFromVersion(Patcher.CompressionVersion, Patcher.CompressionFallback).EncodeBytes(Fps4.Save(false).ToArray()));
+							Console.WriteLine("{0}...Ok", ChatId);
+						}
+						else
+						{
+							Console.WriteLine("{0}...Exists", ChatId);
+						}
+					});
+				});
+
+				Patcher.Action("Building Spanish chat.svo...", () =>
+				{
+					if (!Patcher.TempFS.Exists("chat.es.svo"))
+					{
+						foreach (var ChatSvoEntry in OriginalChatSvo)
+						{
+							var VcMatch = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+B?)(\w{2})\.DAT$");
+							if (VcMatch != null)
+							{
+								if (VcMatch[2].Value == "UK")
+								{
+									var EsEntry = TranslatedChatSvo.CreateEntry(VcMatch[1] + "DE.DAT", Patcher.TempFS.OpenFile(PreppendTempFile + VcMatch[1].Value + "ES.DAT", FileMode.Open));
+									foreach (var Ext in new[] { "FR", "UK", "US" })
+									{
+										var FileName = VcMatch[1] + Ext + ".DAT";
+										if (OriginalChatSvo.Entries.ContainsKey(FileName))
+										{
+											TranslatedChatSvo.CreateEntry(FileName, EsEntry);
+										}
+									}
+								}
+								else
+								{
+									if (!OriginalChatSvo.Entries.ContainsKey(VcMatch[1] + "UK.DAT"))
+									{
+										TranslatedChatSvo.CreateEntry(ChatSvoEntry.Name, ChatSvoEntry.Open());
+									}
 								}
 							}
-						}
-						//ChtxStream.SetLength(0);
-						var ChtxStream = new MemoryStream();
-						Chtx.SaveTo(ChtxStream);
-						ChtxStream.Position = 0;
-						Fps4["3"].SetStream(ChtxStream);
-					}
-					Patcher.TempFS.WriteAllBytes(EsFile, TalesCompression.CreateFromVersion(CompressionVersion, FallbackVersion).EncodeBytes(Fps4.Save(false).ToArray()));
-					Console.WriteLine("{0}...Ok", ChatId);
-				}
-				else
-				{
-					Console.WriteLine("{0}...Exists", ChatId);
-				}
-			});
-
-
-			foreach (var ChatSvoEntry in OriginalChatSvo)
-			{
-				var VcMatch = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+B?)(\w{2})\.DAT$");
-				if (VcMatch != null)
-				{
-					if (VcMatch[2].Value == "UK")
-					{
-#if false
-						var EsEntry = TranslatedChatSvo.CreateEntry(VcMatch[1] + "ES.DAT", Patcher.TempFS.OpenFile(VcMatch[1].Value + "ES.DAT", FileMode.Open));
-						TranslatedChatSvo.CreateEntry(VcMatch[1] + "FR.DAT", EsEntry);
-						TranslatedChatSvo.CreateEntry(VcMatch[1] + "DE.DAT", EsEntry);
-						TranslatedChatSvo.CreateEntry(VcMatch[1] + "UK.DAT", EsEntry);
-						TranslatedChatSvo.CreateEntry(VcMatch[1] + "US.DAT", EsEntry);
-#else
-						var EsEntry = TranslatedChatSvo.CreateEntry(VcMatch[1] + "DE.DAT", Patcher.TempFS.OpenFile(VcMatch[1].Value + "ES.DAT", FileMode.Open));
-						foreach (var Ext in new[] { "FR", "UK", "US" })
-						{
-							var FileName = VcMatch[1] + Ext + ".DAT";
-							if (OriginalChatSvo.Entries.ContainsKey(FileName))
+							else
 							{
-								TranslatedChatSvo.CreateEntry(FileName, EsEntry);
+								TranslatedChatSvo.CreateEntry(ChatSvoEntry.Name, ChatSvoEntry.Open());
 							}
 						}
-#endif
-					}
-					else
-					{
-						if (!OriginalChatSvo.Entries.ContainsKey(VcMatch[1] + "UK.DAT"))
+
+						using (var EsSvoStream = Patcher.TempFS.OpenFile("chat.es.svo", FileMode.Create))
 						{
-							TranslatedChatSvo.CreateEntry(ChatSvoEntry.Name, ChatSvoEntry.Open());
+							TranslatedChatSvo.SaveTo(EsSvoStream, true);
 						}
 					}
-				}
-				else
-				{
-					TranslatedChatSvo.CreateEntry(ChatSvoEntry.Name, ChatSvoEntry.Open());
-				}
-			}
+				});
 
-			if (!Patcher.TempFS.Exists("chat.es.svo"))
-			{
-				using (var EsSvoStream = Patcher.TempFS.OpenFile("chat.es.svo", FileMode.Create))
+				Patcher.Action("Updating chat.svo...", () =>
 				{
-					TranslatedChatSvo.SaveTo(EsSvoStream, true);
-				}
-			}
-
-			Patcher.GameFileSystem.ReplaceFileWithStream("chat.svo", Patcher.TempFS.OpenFileRead("chat.es.svo"));
+					Patcher.GameFileSystem.ReplaceFileWithStream("chat.svo", Patcher.TempFS.OpenFileRead("chat.es.svo"));
+				});
 #if false
 			//Patcher.TempFS.OpenFileRead("chat.es.svo").CopyTo(Patcher.GameFileSystem.OpenFileRW("chat.svo"));
 
@@ -159,6 +160,7 @@ namespace TalesOfVesperiaTranslationEngine.ChatSvo
 				});
 			});
 #endif
+			});
 		}
 	}
 }

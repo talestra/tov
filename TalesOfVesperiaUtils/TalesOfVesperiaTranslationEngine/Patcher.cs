@@ -18,6 +18,10 @@ namespace TalesOfVesperiaTranslationEngine
 {
 	public class Patcher : IDisposable
 	{
+		//public int CompressionVersion = 15;
+		public int CompressionVersion = 3;
+		public int CompressionFallback = 3;
+
 		public PatchInplace PatchInplace;
 		public string PatcherPath;
 		public FileSystem GameFileSystem;
@@ -55,14 +59,15 @@ namespace TalesOfVesperiaTranslationEngine
 			}
 		}
 
-		public void ParallelForeach<T>(string Verb, IEnumerable<T> List, Action<T> EachAction)
+		public void ParallelForeach<T>(string Verb, IEnumerable<T> List, Func<T, string> GetNameFunc, Action<T> EachAction)
 		{
+			var OldActionLevel = this.ActionLevel;
 			List.AsParallel().ForEach((Item) =>
 			{
-				this.Action(String.Format("{0} {1}", Verb, Item), () =>
+				this.Action(String.Format("{0} {1}", Verb, GetNameFunc(Item)), () =>
 				{
 					EachAction(Item);
-				}, this.ActionLevel + 1);
+				}, OldActionLevel);
 			});
 		}
 
@@ -206,9 +211,9 @@ namespace TalesOfVesperiaTranslationEngine
 		int ActionLevel = 0;
 
 		[DebuggerHidden]
-		public void Action(String Description, Action Action, int ActionLevel = -1)
+		public void Action(String Description, Action Action, int OverrideActionLevel = -1)
 		{
-			if (ActionLevel < 0) ActionLevel = this.ActionLevel;
+			if (OverrideActionLevel >= 0) ActionLevel = OverrideActionLevel;
 
 			Console.WriteLine("{0}{1}...", new String(' ', ActionLevel * 2), Description);
 
