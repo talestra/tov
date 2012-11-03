@@ -129,7 +129,7 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 					"MA_VAL_A_05",
 				};
 
-				Patcher.ParallelForeach("Translating", Names, (Name) =>
+				Patcher.ParallelForeach("Translating", Names, (Name) => Name, (Name) =>
 				{
 					using (var CompressedTssStream = OldFps4[Name].Open())
 					{
@@ -149,7 +149,7 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 								//Console.WriteLine("{0} : {1}", Entry.Translated[1], TranslationEntry.texts.es[1]);
 							});
 
-							var TranslatedCompressedStream = TalesCompression.CreateFromVersion(15, 3).EncodeFile(Tss.Save());
+							var TranslatedCompressedStream = TalesCompression.CreateFromVersion(Patcher.CompressionVersion, Patcher.CompressionFallback).EncodeFile(Tss.Save());
 
 							TranslatedFiles[Name] = TranslatedCompressedStream;
 						}

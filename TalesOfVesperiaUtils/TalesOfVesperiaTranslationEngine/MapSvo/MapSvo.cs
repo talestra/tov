@@ -1,4 +1,5 @@
-﻿using CSharpUtils.VirtualFileSystem;
+﻿using CSharpUtils;
+using CSharpUtils.VirtualFileSystem;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -29,57 +30,54 @@ namespace TalesOfVesperiaTranslationEngine.MapSvo
 				var TO8SCEL = new TO8SCEL(Patcher.TempFS.OpenFileRW("scenario_uk.dat"));
 				//TO8SCEL.Save(new MemoryStream());
 				//Patcher.GameAccessPath("language/scenario_uk.dat", () =>
+
+				Patcher.TempFS.CreateDirectory("SCENARIO_ES", 0777, false);
+				var ScenarioTempFileNamePrep = "SCENARIO_ES/";
+
+				Patcher.ParallelForeach("Translating Room", Iterators.IntRange(0, RoomCount - 1), (RoomId) => RoomId.ToString(), (RoomId) =>
 				{
-					//Patcher.GameAccessPath("SCENARIO.DAT", () =>
+					var ScenarioTempFileName = ScenarioTempFileNamePrep + RoomId;
+					
+					if (!Patcher.TempFS.Exists(ScenarioTempFileName))
 					{
-						for (int RoomId = 0; RoomId < RoomCount; RoomId++)
-						//int RoomId = 112;
+						if (TO8SCEL.Entries[RoomId].CompressedStream.Length > 0)
 						{
-							var ScenarioTempFileName = "ScenarioRoom" + RoomId;
-							//Patcher.Action("Translating Room " + RoomId, () =>
+							var Stream = TO8SCEL.Entries[RoomId].UncompressedStream;
+
+							var RoomPath = String.Format("scenario/{0:D4}", RoomId);
+
+							var Tss = new TSS().Load(Stream);
+							Tss.TranslateTexts((Entry) =>
 							{
-								if (!Patcher.TempFS.Exists(ScenarioTempFileName))
+								var TextId = String.Format("{0:X8}", Entry.Id);
+								if (Patcher.EntriesByRoom.ContainsKey(RoomPath))
 								{
-									if (TO8SCEL.Entries[RoomId].CompressedStream.Length > 0)
+									var TranslationRoom = Patcher.EntriesByRoom[RoomPath];
+									if (TranslationRoom.ContainsKey(TextId))
 									{
-										var Stream = TO8SCEL.Entries[RoomId].UncompressedStream;
+										var TranslationEntry = TranslationRoom[TextId];
 
-										var RoomPath = String.Format("scenario/{0:D4}", RoomId);
-
-										var Tss = new TSS().Load(Stream);
-										Tss.TranslateTexts((Entry) =>
-										{
-											var TextId = String.Format("{0:X8}", Entry.Id);
-											if (Patcher.EntriesByRoom.ContainsKey(RoomPath))
-											{
-												var TranslationRoom = Patcher.EntriesByRoom[RoomPath];
-												if (TranslationRoom.ContainsKey(TextId))
-												{
-													var TranslationEntry = TranslationRoom[TextId];
-
-													Entry.TranslateWithTranslationEntry(TranslationEntry);
-												}
-												else
-												{
-													Console.Error.WriteLine("Missing Translation {0} : {1:X8} : {2:X8} : {3:X8}", RoomPath, Entry.Id, Entry.Id2, Entry.Id3);
-												}
-											}
-											else
-											{
-												Console.Error.WriteLine("Missing Room");
-											}
-										});
-
-										Patcher.TempFS.WriteAllBytes(ScenarioTempFileName, Tss.Save().ToArray());
+										Entry.TranslateWithTranslationEntry(TranslationEntry);
+									}
+									else
+									{
+										Console.Error.WriteLine("Missing Translation {0} : {1:X8} : {2:X8} : {3:X8}", RoomPath, Entry.Id, Entry.Id2, Entry.Id3);
 									}
 								}
-							}
-							//);
+								else
+								{
+									Console.Error.WriteLine("Missing Room");
+								}
+							});
+
+							Patcher.TempFS.WriteAllBytes(ScenarioTempFileName, Tss.Save().ToArray());
+						}
+						else
+						{
+							Console.WriteLine("CompressedStream.Length = 0");
 						}
 					}
-					//);
-				}
-				//);
+				});
 
 				var NewTO8SCEL = new TO8SCEL();
 				for (int RoomId = 0; RoomId < RoomCount; RoomId++)
@@ -87,7 +85,7 @@ namespace TalesOfVesperiaTranslationEngine.MapSvo
 					Patcher.Action("Compressing Room " + RoomId, () =>
 					{
 
-						var ScenarioTempFileName = "ScenarioRoom" + RoomId;
+						var ScenarioTempFileName = ScenarioTempFileNamePrep + RoomId;
 						var ScenarioTempFileCompressedName = ScenarioTempFileName + ".c";
 
 						if (Patcher.TempFS.Exists(ScenarioTempFileName))
@@ -95,7 +93,7 @@ namespace TalesOfVesperiaTranslationEngine.MapSvo
 							if (!Patcher.TempFS.Exists(ScenarioTempFileCompressedName))
 							{
 								var UncompressedBytes = Patcher.TempFS.ReadAllBytes(ScenarioTempFileName);
-								var CompressedBytes = TalesCompression.CreateFromVersion(15, 3).EncodeBytes(UncompressedBytes);
+								var CompressedBytes = TalesCompression.CreateFromVersion(Patcher.CompressionVersion, Patcher.CompressionVersion).EncodeBytes(UncompressedBytes);
 								Patcher.TempFS.WriteAllBytes(ScenarioTempFileCompressedName, CompressedBytes);
 							}
 
