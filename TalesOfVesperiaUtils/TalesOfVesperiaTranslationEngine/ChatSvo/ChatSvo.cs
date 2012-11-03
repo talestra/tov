@@ -28,17 +28,18 @@ namespace TalesOfVesperiaTranslationEngine.ChatSvo
 				//.AsParallel()
 				.ForEach((ChatSvoEntry) =>
 			{
-				var Match = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+)US\.DAT$");
+				var Match = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+B?)(UK)\.DAT$");
 				if (Match == null) return;
 
-				var ChatId = Match[1];
+				var CompleteFile = Match[0].Value;
+				var ChatId = Match[1].Value;
 				var EsFile = ChatId + "ES.DAT";
 				
 				Console.WriteLine("{0}...", ChatId);
 
 				if (!Patcher.TempFS.Exists(EsFile))
 				{
-					var Fps4 = new FPS4(TalesCompression.DecompressStream(OriginalChatSvo[ChatId + "US.DAT"].Open()));
+					var Fps4 = new FPS4(TalesCompression.DecompressStream(OriginalChatSvo[CompleteFile].Open()));
 					{
 						var Chtx = new TO8CHTX();
 						Chtx.Load(Fps4["3"].Open());
@@ -75,16 +76,35 @@ namespace TalesOfVesperiaTranslationEngine.ChatSvo
 
 			foreach (var ChatSvoEntry in OriginalChatSvo)
 			{
-				var VcMatch = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+)(\w{2})\.DAT$");
+				var VcMatch = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+B?)(\w{2})\.DAT$");
 				if (VcMatch != null)
 				{
-					if (VcMatch[2].Value == "US")
+					if (VcMatch[2].Value == "UK")
 					{
+#if false
 						var EsEntry = TranslatedChatSvo.CreateEntry(VcMatch[1] + "ES.DAT", Patcher.TempFS.OpenFile(VcMatch[1].Value + "ES.DAT", FileMode.Open));
 						TranslatedChatSvo.CreateEntry(VcMatch[1] + "FR.DAT", EsEntry);
 						TranslatedChatSvo.CreateEntry(VcMatch[1] + "DE.DAT", EsEntry);
 						TranslatedChatSvo.CreateEntry(VcMatch[1] + "UK.DAT", EsEntry);
 						TranslatedChatSvo.CreateEntry(VcMatch[1] + "US.DAT", EsEntry);
+#else
+						var EsEntry = TranslatedChatSvo.CreateEntry(VcMatch[1] + "DE.DAT", Patcher.TempFS.OpenFile(VcMatch[1].Value + "ES.DAT", FileMode.Open));
+						foreach (var Ext in new[] { "FR", "UK", "US" })
+						{
+							var FileName = VcMatch[1] + Ext + ".DAT";
+							if (OriginalChatSvo.Entries.ContainsKey(FileName))
+							{
+								TranslatedChatSvo.CreateEntry(FileName, EsEntry);
+							}
+						}
+#endif
+					}
+					else
+					{
+						if (!OriginalChatSvo.Entries.ContainsKey(VcMatch[1] + "UK.DAT"))
+						{
+							TranslatedChatSvo.CreateEntry(ChatSvoEntry.Name, ChatSvoEntry.Open());
+						}
 					}
 				}
 				else
@@ -101,10 +121,11 @@ namespace TalesOfVesperiaTranslationEngine.ChatSvo
 				}
 			}
 
+			Patcher.GameFileSystem.ReplaceFileWithStream("chat.svo", Patcher.TempFS.OpenFileRead("chat.es.svo"));
+#if false
 			//Patcher.TempFS.OpenFileRead("chat.es.svo").CopyTo(Patcher.GameFileSystem.OpenFileRW("chat.svo"));
 
 			//Patcher.TempFS.WriteAllBytes("VC001US.DAT", TalesCompression.DecompressStream(ChatSvo["VC001US.DAT"].Open()).ReadAll());
-#if false
 			Patcher.GameAccessPath("chat.svo", () =>
 			{
 				var ChatId = "VC001";

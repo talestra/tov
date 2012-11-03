@@ -461,16 +461,18 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 		public override void Save(Stream Stream, bool DoAlign = true)
 		{
-			var EntryListWithLinks = EntryList.Union(new Entry[] { new Entry(FPS4: this, Stream: new MemoryStream(), Name:"") });
-			var EntryListWithoutLinks = EntryListWithLinks.Where(Entry => !Entry.IsLinked);
+			var EntryListWithLinks = EntryList.Union(new Entry[] { new Entry(FPS4: this, Stream: new MemoryStream(), Name:"") }).ToArray();
+			var EntryListWithoutLinks = EntryListWithLinks.Where(Entry => !Entry.IsLinked).ToArray();
 
 			var SectorPadding = DoAlign ? 0x800 : 0x10;
 			var BinaryWriter = new BinaryWriter(Stream);
-			Header.Magic = Encoding.ASCII.GetBytes("FPS4");
-			Header.ListStart = (uint)Marshal.SizeOf(typeof(HeaderStruct));
-			var ExtraEntrySizeof = Header.EntrySizeof - 0x0C;
 			var OriginalFilePathBytes = Encoding.GetEncoding("Shift-JIS").GetBytes(OriginalFilePath);
-			long DataStartOffset = MathUtils.Align(Header.ListStart + Header.EntrySizeof * EntryListWithLinks.Count() + OriginalFilePathBytes.Length, SectorPadding);
+			long DataStartOffset = MathUtils.Align(Header.ListStart + Header.EntrySizeof * EntryListWithLinks.Length + OriginalFilePathBytes.Length, SectorPadding);
+			Header.Magic = Encoding.ASCII.GetBytes("FPS4");
+			Header.ListCount = (uint)EntryListWithLinks.Length;
+			Header.ListStart = (uint)Marshal.SizeOf(typeof(HeaderStruct));
+			Header.ListEnd = (uint)(DataStartOffset);
+			var ExtraEntrySizeof = Header.EntrySizeof - 0x0C;
 
 			Stream.WriteStruct(Header);
 			long CurrentOffset = DataStartOffset;
@@ -479,7 +481,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			foreach (var Entry in EntryListWithoutLinks)
 			{
 				var LengthReal = Entry.Length;
-				var LengthSectorAligned = (uint)MathUtils.Align(LengthReal, SectorPadding);
+				var LengthSectorAligned = (uint)MathUtils.NextAligned((long)LengthReal, (long)SectorPadding);
 
 				Entry.EntryStruct = new EntryStruct()
 				{
@@ -522,6 +524,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 						}
 						break;
 					default:
+						Console.WriteLine("{0}", Entry.Name);
 						Stream.WriteStringz(Entry.Name, ExtraEntrySizeof);
 						break;
 				}
