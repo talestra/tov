@@ -88,7 +88,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 						case ValueType.String:
 							if (!AsInt)
 							{
-								for (int n = 0; n < ArrayNumberOfElements; n++) yield return TSS.ReadStringz(ArrayStream.ReadStruct<uint_be>());
+								for (int n = 0; n < ArrayNumberOfElements; n++) yield return TSS.ReadStringz((int)(uint)ArrayStream.ReadStruct<uint_be>());
 							}
 							else
 							{

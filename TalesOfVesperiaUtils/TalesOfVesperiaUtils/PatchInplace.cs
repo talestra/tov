@@ -22,7 +22,6 @@ namespace TalesOfVesperiaUtils
 			this.FileSystem = FileSystem;
 		}
 
-		[DebuggerHidden]
 		public void DecompressAndRecompressIfRequired(Stream Stream, Action<Stream> Action)
 		{
 			if (TalesCompression.IsValid(Stream))
@@ -38,7 +37,6 @@ namespace TalesOfVesperiaUtils
 			}
 		}
 
-		[DebuggerHidden]
 		public void SetFileSystem(FileSystem FileSystem, Action Action)
 		{
 			LanguageUtils.LocalSet(ref this.FileSystem, FileSystem, () =>
@@ -47,7 +45,6 @@ namespace TalesOfVesperiaUtils
 			});
 		}
 
-		[DebuggerHidden]
 		public void Access(string Path, Action Action)
 		{
 			if (Path.Contains('/'))
@@ -69,15 +66,18 @@ namespace TalesOfVesperiaUtils
 					{
 						LanguageUtils.LocalSet(ref this.FileSystem, new FPS4FileSystem(UncompressedStream), Action);
 					}
+					else if (TO8SCEL.IsValid(Magic))
+					{
+						LanguageUtils.LocalSet(ref this.FileSystem, new TO8SCELFileSystem(UncompressedStream), Action);
+					}
 					else
 					{
-						throw(new InvalidOperationException(String.Format("Can't access '{0}'", Path)));
+						throw (new InvalidOperationException(String.Format("Can't access '{0}'", Path)));
 					}
 				});
 			});
 		}
 
-		[DebuggerHidden]
 		public void GetFile(string File, Action<Stream> Action)
 		{
 			using (var CompressedStream = FileSystem.OpenFileRW(File))
@@ -89,7 +89,6 @@ namespace TalesOfVesperiaUtils
 			}
 		}
 
-		[DebuggerHidden]
 		public void GetFile2(string File1, string File2, Action<Stream, Stream> Action)
 		{
 			using (var Stream1 = FileSystem.OpenFileRW(File1))

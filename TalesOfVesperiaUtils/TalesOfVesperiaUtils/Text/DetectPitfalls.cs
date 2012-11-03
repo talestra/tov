@@ -53,14 +53,22 @@ namespace TalesOfVesperiaUtils.Text
 			return Modified;
 		}
 
-		/// <summary>
-		/// 
-		/// </summary>
-		/// <param name="Base"></param>
-		/// <param name="Modified"></param>
-		/// <returns></returns>
 		public string DetectAndFix(String Base, String Modified)
 		{
+			Base = Base
+				.Replace("\x01", "<01>")
+				.Replace("\x02", "<02>")
+				.Replace("\x03", "<03>")
+				.Replace("\x04", "<STR>")
+				.Replace("\x05", "<05>")
+				.Replace("\x06", "<06>")
+				.Replace("\x07", "<07>")
+				.Replace("\x08", "<08>")
+				.Replace("\x08", "<VOICE>")
+				.Replace("\x0B", "<0B>")
+				.Replace("\x0C", "<PAGE>\n")
+			;
+
 			Logger.Info("Detecting Pitfalls: '{0}' -> '{1}'", Base, Modified);
 
 			var BaseMatches = ReferencesRegex.Matches(Base);

@@ -82,6 +82,7 @@
     <Compile Include="Imaging\Y_CO_CG_ATest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Text\CharacterMappingTest.cs" />
+    <Compile Include="Text\TextProcessorTest.cs" />
     <Compile Include="Utils.cs" />
   </ItemGroup>
   <ItemGroup>

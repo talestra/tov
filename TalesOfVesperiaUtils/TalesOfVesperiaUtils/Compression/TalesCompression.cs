@@ -65,7 +65,11 @@ namespace TalesOfVesperiaUtils.Compression
 			var Warnings = new List<String>();
 
 			MagicData = MagicData.Take(0x10).ToArray();
-			if (MagicData.Length < 0x10) throw (new Exception("Start to short"));
+			if (MagicData.Length < 0x10)
+			{
+				if (ThrowException) throw (new Exception("Start to short"));
+				return -1;
+			}
 
 			// Version type (0, 1, 3, 4)
 			{
