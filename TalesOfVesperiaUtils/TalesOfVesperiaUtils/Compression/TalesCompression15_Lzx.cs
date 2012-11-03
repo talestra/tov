@@ -227,70 +227,56 @@ namespace TalesOfVesperiaUtils.Compression
 			}
 		}
 
-		static public MemoryStream CompressToLZXStream(String FileToCompress, int FallBackCompression = 15)
+		static public MemoryStream CompressToLZXStream(String FileToCompress, int FallbackCompression = 15)
 		{
-			try
+			using (Stream StreamToCompress = File.OpenRead(FileToCompress))
 			{
-				using (Stream StreamToCompress = File.OpenRead(FileToCompress))
+				var CabFile = CABUtils.CreateCAB(FileToCompress);
+				var InputStream = CABUtils.ExtractLZXStreamFromCAB(CabFile);
+				File.Delete(CabFile);
+
+				var OutputStream = new MemoryStream();
+				var InputBinaryReader = new BinaryReader(InputStream);
+				var OutputBinaryWriter = new BinaryWriter(OutputStream);
+
+				StreamToCompress.Position = 0;
+				while (InputStream.Position < InputStream.Length)
 				{
-					var CabFile = CABUtils.CreateCAB(FileToCompress);
-					var InputStream = CABUtils.ExtractLZXStreamFromCAB(CabFile);
-					File.Delete(CabFile);
+					uint Hash = InputBinaryReader.ReadUInt32();
+					ushort LengthCompressed = InputBinaryReader.ReadUInt16();
+					ushort LengthUncompressed = InputBinaryReader.ReadUInt16();
+					if (LengthUncompressed > 0x8000) throw (new Exception("Invalid chunk"));
+					var CompressedData = InputStream.ReadBytes(LengthCompressed);
 
-					var OutputStream = new MemoryStream();
-					var InputBinaryReader = new BinaryReader(InputStream);
-					var OutputBinaryWriter = new BinaryWriter(OutputStream);
-
-					StreamToCompress.Position = 0;
-					while (InputStream.Position < InputStream.Length)
+					if (LengthCompressed >= LengthUncompressed)
 					{
-						uint Hash = InputBinaryReader.ReadUInt32();
-						ushort LengthCompressed = InputBinaryReader.ReadUInt16();
-						ushort LengthUncompressed = InputBinaryReader.ReadUInt16();
-						if (LengthUncompressed > 0x8000) throw (new Exception("Invalid chunk"));
-						var CompressedData = InputStream.ReadBytes(LengthCompressed);
-
-						if (LengthCompressed >= LengthUncompressed)
-						{
-							throw (new InvalidDataException());
-						}
-
-						if ((LengthUncompressed != 0x8000))
-						{
-							OutputBinaryWriter.Write((byte)0xFF);
-							OutputBinaryWriter.WriteEndian((ushort)LengthUncompressed, Endianness.BigEndian);
-							OutputBinaryWriter.WriteEndian((ushort)LengthCompressed, Endianness.BigEndian);
-						}
-						else
-						{
-							OutputBinaryWriter.WriteEndian((ushort)LengthCompressed, Endianness.BigEndian);
-						}
-
-						OutputBinaryWriter.Write(CompressedData);
-						StreamToCompress.Position += LengthUncompressed;
-
-						if (LengthUncompressed < 0x8000)
-						{
-							if (InputStream.Position != InputStream.Length) throw (new Exception("(LengthUncompressed < 0x8000)"));
-							break;
-						}
+						throw (new InvalidDataException());
 					}
 
-					OutputStream.Position = 0;
+					if ((LengthUncompressed != 0x8000))
+					{
+						OutputBinaryWriter.Write((byte)0xFF);
+						OutputBinaryWriter.WriteEndian((ushort)LengthUncompressed, Endianness.BigEndian);
+						OutputBinaryWriter.WriteEndian((ushort)LengthCompressed, Endianness.BigEndian);
+					}
+					else
+					{
+						OutputBinaryWriter.WriteEndian((ushort)LengthCompressed, Endianness.BigEndian);
+					}
 
-					return OutputStream;
+					OutputBinaryWriter.Write(CompressedData);
+					StreamToCompress.Position += LengthUncompressed;
+
+					if (LengthUncompressed < 0x8000)
+					{
+						if (InputStream.Position != InputStream.Length) throw (new Exception("(LengthUncompressed < 0x8000)"));
+						break;
+					}
 				}
-			}
-			catch (InvalidDataException)
-			{
-				if (FallBackCompression == 15)
-				{
-					return CompressToLZXStreamRAW(FileToCompress);
-				}
-				else
-				{
-					return new MemoryStream(TalesCompression.CreateFromVersion(FallBackCompression).EncodeBytes(File.ReadAllBytes(FileToCompress)));
-				}
+
+				OutputStream.Position = 0;
+
+				return OutputStream;
 			}
 		}
 
@@ -320,8 +306,23 @@ namespace TalesOfVesperiaUtils.Compression
 			*/
 
 			//throw (new NotImplementedException("Can't compress using LZX. Please use compressión 03 instead."));
-
-			Stream LZXStream = CompressToLZXStream(FileName, FallbackCompression);
+			Stream LZXStream;
+			try
+			{
+				LZXStream = CompressToLZXStream(FileName, FallbackCompression);
+			}
+			catch (InvalidDataException)
+			{
+				if (FallbackCompression == 15)
+				{
+					LZXStream = CompressToLZXStreamRAW(FileName);
+				}
+				else
+				{
+					OutputStream.WriteBytes(TalesCompression.CreateFromVersion(FallbackCompression).EncodeBytes(File.ReadAllBytes(FileName)));
+					return;
+				}
+			}
 
 			uint UncompressedSize = (uint)(new FileInfo(FileName)).Length;
 			uint CompressedSize = (uint)LZXStream.Length;

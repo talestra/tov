@@ -1,5 +1,6 @@
 ﻿using CSharpUtils.VirtualFileSystem;
 using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
@@ -33,38 +34,89 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 				});
 			}
 
-			/*
-			Patcher.GameSetFileSystem(new FPS4FileSystem(Patcher.TempFS.OpenFileRW("BTL_PACK_UK.DAT")), () =>
+			if (!Patcher.TempFS.Exists("BTL_PACK_ES.DAT"))
 			{
-				HandleBattlePackImages();
+				//Patcher.TempFS.Copy("BTL_PACK_UK.DAT", "BTL_PACK_ES.DAT", true);
+
+				Patcher.TempFS.CreateDirectory("BTL_PACK", 0777, false);
+
+				FileSystem.CopyTree(new FPS4FileSystem(Patcher.TempFS.OpenFileRead("BTL_PACK_UK.DAT")), "/", Patcher.TempFS, "BTL_PACK");
+				Patcher.TempFS.CopyFile("BTL_PACK/3", "BTL_PACK/3.ori");
+
+				Patcher.TempFS.OpenFileReadScope("BTL_PACK/3.ori", (OldStream) =>
+				{
+					Patcher.TempFS.OpenFileCreateScope("BTL_PACK/3", (NewStream) =>
+					{
+						HandleBattlePackDialogs(OldStream, NewStream);
+					});
+				});
+
+				RepackBtlPack();
+			}
+
+			Patcher.TempFS.OpenFileRWScope("BTL_PACK_ES.DAT", (BtlPackUkStream) =>
+			{
+				Patcher.GameSetFileSystem(new FPS4FileSystem(BtlPackUkStream), () =>
+				{
+					HandleBattlePackImages();
+				});
 			});
-			*/
 
 			var OldBtlSvo = new FPS4(Patcher.GameFileSystem.OpenFileRead("btl.svo"));
 			var NewBtlSvo = new FPS4(Patcher.GameFileSystem.OpenFileRead("btl.svo"));
 			NewBtlSvo.ClearAllEntries();
 			NewBtlSvo.CreateEntry("BTL_EFFECT.DAT", OldBtlSvo["BTL_EFFECT.DAT"].Open());
-			var PackEsEntry = NewBtlSvo.CreateEntry("BTL_PACK_ES.DAT", Patcher.TempFS.OpenFileRead("BTL_PACK_UK.DAT"));
+			var PackEsEntry = NewBtlSvo.CreateEntry("BTL_PACK_ES.DAT", Patcher.TempFS.OpenFileRead("BTL_PACK_ES.DAT"));
 			NewBtlSvo.CreateEntry("BTL_PACK_DE.DAT", PackEsEntry);
 			NewBtlSvo.CreateEntry("BTL_PACK_FR.DAT", PackEsEntry);
 			NewBtlSvo.CreateEntry("BTL_PACK_UK.DAT", PackEsEntry);
 			NewBtlSvo.CreateEntry("BTL_PACK_US.DAT", PackEsEntry);
-			NewBtlSvo.Save(Patcher.TempFS.OpenFileCreate("btl.svo"));
+			Patcher.TempFS.OpenFileCreateScope("btl.svo", (NewBtlSvoStream) =>
+			{
+				NewBtlSvo.SaveTo(NewBtlSvoStream);
+			});
 
 			Patcher.GameReplaceFile("btl.svo", Patcher.TempFS.OpenFileRead("btl.svo"));
 		}
 
-		public void HandleBattlePack()
+		public void RepackBtlPack()
 		{
-			HandleBattlePackDialogs();
-			HandleBattlePackImages();
+			//var OldFps4 = new FPS4(OldStream.Slice());
+			//var NewFps4 = new FPS4(OldStream.Slice()); // Intended OldStream
 
-			//Console.Error.WriteLine("/Break Battle"); return;
+			Patcher.Action("Packing BTL_PACK_ES.DAT", () =>
+			{
+				Patcher.TempFS.OpenFileReadScope("BTL_PACK_UK.DAT", (OldStream) =>
+				{
+					Patcher.TempFS.OpenFileCreateScope("BTL_PACK_ES.DAT", (NewStream) =>
+					{
+						var OldFps4 = new FPS4(OldStream.Slice());
+						var NewFps4 = new FPS4(OldStream.Slice()); // Intended OldStream
+
+						NewFps4.ClearAllEntries();
+
+						for (int n = 0; n <= 19; n++)
+						{
+							NewFps4.CreateEntry(String.Format("{0}", n), Patcher.TempFS.OpenFileRead(String.Format("BTL_PACK/{0}", n)));
+						}
+
+						NewFps4.SaveTo(NewStream, DoAlign: false);
+					});
+				});
+			});
 		}
 
-		public void HandleBattlePackDialogs()
+		public void HandleBattlePackDialogs(Stream OldStream, Stream NewStream)
 		{
-			Patcher.GameAccessPath("3", () =>
+			FPS4 OldFps4;
+			FPS4 NewFps4;
+
+			OldFps4 = new FPS4(OldStream.Slice());
+			NewFps4 = new FPS4(OldStream.Slice()); // Intended OldStream
+
+			var TranslatedFiles = new ConcurrentDictionary<string, MemoryStream>();
+
+			Patcher.Action("Translating Battle Scripts", () =>
 			{
 				var Names = new[]
 				{
@@ -77,27 +129,51 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 					"MA_VAL_A_05",
 				};
 
-				foreach (var Name in Names)
+				Patcher.ParallelForeach("Translating", Names, (Name) =>
 				{
-					Patcher.GameGetFile(Name, (TssStream) =>
+					using (var CompressedTssStream = OldFps4[Name].Open())
 					{
-						var TssName = Name;
-						var Tss = new TSS().Load(TssStream);
-						Tss.TranslateTexts((Entry) =>
+						using (var TssStream = TalesCompression.DecompressStream(CompressedTssStream))
 						{
-							//if (Entry == null) return;
-							var TranslationEntry = Patcher.EntriesByRoom["battle/" + TssName][String.Format("{0:X8}", Entry.Id2)];
+							var TssName = Name;
+							var Tss = new TSS().Load(TssStream);
+							Tss.TranslateTexts((Entry) =>
+							{
+								//if (Entry == null) return;
+								var TranslationEntry = Patcher.EntriesByRoom["battle/" + TssName][String.Format("{0:X8}", Entry.Id2)];
 
-							int TextCount = Entry.Original.Length;
+								int TextCount = Entry.Original.Length;
 
-							Entry.TranslateWithTranslationEntry(TranslationEntry);
+								Entry.TranslateWithTranslationEntry(TranslationEntry);
 
-							//Console.WriteLine("{0} : {1}", Entry.Translated[1], TranslationEntry.texts.es[1]);
-						});
-						TssStream.Position = 0;
-						Tss.SaveTo(TssStream);
-					});
+								//Console.WriteLine("{0} : {1}", Entry.Translated[1], TranslationEntry.texts.es[1]);
+							});
+
+							var TranslatedCompressedStream = TalesCompression.CreateFromVersion(15, 3).EncodeFile(Tss.Save());
+
+							TranslatedFiles[Name] = TranslatedCompressedStream;
+						}
+					}
+				});
+			});
+
+			Patcher.Action("Reconstructing Battle Scripts Package", () =>
+			{
+				NewFps4.ClearAllEntries();
+				foreach (var Entry in OldFps4.Entries.Values)
+				{
+					var EntryName = Entry.Name;
+					if (TranslatedFiles.ContainsKey(EntryName))
+					{
+						NewFps4.CreateEntry(EntryName, TranslatedFiles[EntryName]);
+					}
+					else
+					{
+						NewFps4.CreateEntry(EntryName, Entry.Open());
+					}
 				}
+
+				NewFps4.SaveTo(NewStream, DoAlign: false);
 			});
 		}
 

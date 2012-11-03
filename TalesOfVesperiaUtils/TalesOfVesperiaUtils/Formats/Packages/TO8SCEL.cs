@@ -186,7 +186,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			}
 		}
 
-		public override void Save(Stream Stream, bool DoAlign = true)
+		public override void SaveTo(Stream Stream, bool DoAlign = true)
 		{
 			var ListStart = Marshal.SizeOf(typeof(HeaderStruct));
 			var DataStart = ListStart + Marshal.SizeOf(typeof(EntryStruct)) * Entries.Count;

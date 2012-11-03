@@ -93,6 +93,8 @@ namespace TalesOfVesperiaUtils.Text
 				}
 				return Key;
 			});
+			// Non-breaking-space -> space
+			String = String.Replace("\u00A0", " ");
 			String = CharacterMapping.Instance.Map(String);
 			return String;
 		}

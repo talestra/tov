@@ -118,7 +118,7 @@ namespace TalesOfVesperiaTranslationEngine.MapSvo
 
 				Patcher.TempFS.OpenFileCreateScope("scenario_es.dat", (Stream) =>
 				{
-					NewTO8SCEL.Save(Stream);
+					NewTO8SCEL.SaveTo(Stream);
 					Stream.Position = 0;
 				});
 

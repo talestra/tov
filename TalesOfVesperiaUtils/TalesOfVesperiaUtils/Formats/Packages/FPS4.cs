@@ -255,12 +255,15 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 		public Entry CreateEntry(String Name, Stream Stream)
 		{
-			return Entries[Name] = new Entry(this, Stream, Name);
+			var Entry = new Entry(this, Stream, Name);
+			Entry.Index = (uint)Entries.Count;
+			return Entries[Name] = Entry;
 		}
 
 		public Entry CreateEntry(String Name, Entry LinkedTo)
 		{
 			var Entry = new Entry(this, null, Name);
+			Entry.Index = (uint)Entries.Count;
 			Entry.LinkedTo = LinkedTo;
 			return Entries[Name] = Entry;
 		}
@@ -459,7 +462,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			}
 		}
 
-		public override void Save(Stream Stream, bool DoAlign = true)
+		public override void SaveTo(Stream Stream, bool DoAlign = true)
 		{
 			var EntryListWithLinks = EntryList.Union(new Entry[] { new Entry(FPS4: this, Stream: new MemoryStream(), Name:"") }).ToArray();
 			var EntryListWithoutLinks = EntryListWithLinks.Where(Entry => !Entry.IsLinked).ToArray();
@@ -467,7 +470,17 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			var SectorPadding = DoAlign ? 0x800 : 0x10;
 			var BinaryWriter = new BinaryWriter(Stream);
 			var OriginalFilePathBytes = Encoding.GetEncoding("Shift-JIS").GetBytes(OriginalFilePath);
-			long DataStartOffset = MathUtils.Align(Header.ListStart + Header.EntrySizeof * EntryListWithLinks.Length + OriginalFilePathBytes.Length, SectorPadding);
+			long NamesStartOffset = Header.ListStart + Header.EntrySizeof * EntryListWithLinks.Length + OriginalFilePathBytes.Length;
+			long DataStartOffset = NamesStartOffset;
+
+			// Strings at the end of the entry list.
+			if ((int)Header.EntryFormat == 0x47)
+			{
+				foreach (var Entry in EntryListWithLinks) DataStartOffset += Encoding.UTF8.GetByteCount(Entry.Name) + 1;
+			}
+
+			DataStartOffset = MathUtils.Align(DataStartOffset, SectorPadding);
+
 			Header.Magic = Encoding.ASCII.GetBytes("FPS4");
 			Header.ListCount = (uint)EntryListWithLinks.Length;
 			Header.ListStart = (uint)Marshal.SizeOf(typeof(HeaderStruct));
@@ -493,7 +506,9 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				CurrentOffset += LengthSectorAligned;
 			}
 
-			// PASS2. We then write all the LinkedEntryStructs.
+			var EndStringNames = new MemoryStream();
+
+			// PASS2. We then write all the EntryListWithLinks.
 			foreach (var Entry in EntryListWithLinks)
 			{
 				Stream.WriteStruct(Entry.LinkedEntryStruct);
@@ -512,15 +527,22 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 						//var Offset = BinaryReader.ReadUInt32();
 						*/
 						int NameIndex = -1;
-						int.TryParse(Entry.Name, out NameIndex);
+						if (!int.TryParse(Entry.Name, out NameIndex))
+						{
+							NameIndex = -1;
+						}
 
 						if ((Entry.Name == "") || (Entry.Index == NameIndex))
 						{
-							BinaryWriter.Write((uint)0);
+							Stream.WriteStruct((uint_be)(uint)(0));
+							//Console.Error.WriteLine("Zero '{0}' : {1} : {2}", Entry.Name, Entry.Index, NameIndex);
 						}
 						else
 						{
-							throw (new NotImplementedException());
+							Stream.WriteStruct((uint_be)(uint)(NamesStartOffset + EndStringNames.Length));
+							EndStringNames.WriteStringz(Entry.Name);
+							//Console.Error.WriteLine("Problem?");
+							//throw (new NotImplementedException());
 						}
 						break;
 					default:
@@ -532,6 +554,14 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 			Stream.WriteBytes(OriginalFilePathBytes);
 			Stream.WriteZeroToOffset(DataStartOffset);
+
+			// PASS3: Write Names
+			if ((int)Header.EntryFormat == 0x47)
+			{
+				//Console.WriteLine("PASS3: Write Names");
+				Stream.SliceWithBounds(NamesStartOffset, DataStartOffset).WriteStream(EndStringNames.Slice());
+			}
+
 			foreach (var Entry in EntryListWithoutLinks)
 			{
 				Entry.Open().CopyToFast(Stream);
