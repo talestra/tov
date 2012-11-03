@@ -34,7 +34,7 @@ namespace TalesOfVesperiaTests
 				{
 					var TO8CHTX = new TO8CHTX(InputStream);
 					TO8CHTX.TranslateWithAcmeFile(ACME1.Files["T3@VC001"]);
-					TO8CHTX.Save(OutputStream);
+					TO8CHTX.SaveTo(OutputStream);
 				}
 
 				using (var EnglishInputStream = File.OpenRead(Utils.TestInputPath + @"\VC001US.TO8CHTX"))
@@ -73,7 +73,7 @@ namespace TalesOfVesperiaTests
 					Entry.TextOriginal = "";
 					//Entry.TextTranslated = "";
 				}
-				TO8CHTX.Save(OutputStream);
+				TO8CHTX.SaveTo(OutputStream);
 			}
 			using (var OutputStream = File.Open(Utils.TestOutputPath + @"\TEST.TO8CHTX", FileMode.Create))
 			{
@@ -85,7 +85,7 @@ namespace TalesOfVesperiaTests
 					TextTranslated = CharacterMapping.Instance.Map("¡¿Esto es una prueba en ESPAÑOL o en Español?!"),
 					Talker = TalesOfVesperiaUtils.Formats.Packages.TO8CHTX.Talker.Yuri,
 				});
-				TO8CHTX.Save(OutputStream);
+				TO8CHTX.SaveTo(OutputStream);
 			}
 		}
 	}

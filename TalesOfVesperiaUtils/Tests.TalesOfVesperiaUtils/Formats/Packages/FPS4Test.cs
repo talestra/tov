@@ -71,7 +71,7 @@ namespace TalesOfVesperiaTests.Formats.Packages
 				fps4.Load(InputStream);
 				fps4.Entries["COOKDATA.BIN"].SetStream(new MemoryStream(Encoding.ASCII.GetBytes("Hello World")));
 				fps4.CreateEntry("COOKDATA2.BIN", fps4.Entries["COOKDATA.BIN"]);
-				fps4.Save(OutputStream);
+				fps4.SaveTo(OutputStream);
 				Assert.AreEqual(
 					"16bb49cdb511d95efbd357c7c7d7e102fae6b99b",
 					SHA1.Create().ComputeHash(OutputStream.ReadAll()).ToHexString()

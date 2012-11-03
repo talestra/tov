@@ -55,6 +55,17 @@ namespace TalesOfVesperiaTranslationEngine
 			}
 		}
 
+		public void ParallelForeach<T>(string Verb, IEnumerable<T> List, Action<T> EachAction)
+		{
+			List.AsParallel().ForEach((Item) =>
+			{
+				this.Action(String.Format("{0} {1}", Verb, Item), () =>
+				{
+					EachAction(Item);
+				}, this.ActionLevel + 1);
+			});
+		}
+
 		Stream GameIsoStream = null;
 		public Patcher(string GamePath)
 		{
@@ -195,9 +206,13 @@ namespace TalesOfVesperiaTranslationEngine
 		int ActionLevel = 0;
 
 		[DebuggerHidden]
-		public void Action(String Description, Action Action)
+		public void Action(String Description, Action Action, int ActionLevel = -1)
 		{
+			if (ActionLevel < 0) ActionLevel = this.ActionLevel;
+
 			Console.WriteLine("{0}{1}...", new String(' ', ActionLevel * 2), Description);
+
+			int OldActionLevel = ActionLevel;
 			ActionLevel++;
 			try
 			{
@@ -206,7 +221,7 @@ namespace TalesOfVesperiaTranslationEngine
 			}
 			finally
 			{
-				ActionLevel--;
+				ActionLevel = OldActionLevel;
 			}
 		}
 

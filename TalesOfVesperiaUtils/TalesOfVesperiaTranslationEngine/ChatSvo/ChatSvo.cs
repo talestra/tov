@@ -25,7 +25,7 @@ namespace TalesOfVesperiaTranslationEngine.ChatSvo
 			var OriginalChatSvo = new FPS4(Patcher.GameFileSystem.OpenFileRead("chat.svo"));
 
 			OriginalChatSvo
-				//.AsParallel()
+				.AsParallel()
 				.ForEach((ChatSvoEntry) =>
 			{
 				var Match = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+B?)(UK)\.DAT$");
@@ -52,7 +52,8 @@ namespace TalesOfVesperiaTranslationEngine.ChatSvo
 								{
 									//Chtx[TextId].Title = "";
 									//Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0].TrimEnd(' ', '\t', '\n', '\r', '.'));
-									Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0]);
+									//Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0]);
+									Chtx[TextId].Title = "";
 									Chtx[TextId].TextOriginal = "";
 									Chtx[TextId].TextTranslated = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].TextTranslated, Entry.texts.es[1]);
 								}
@@ -60,7 +61,7 @@ namespace TalesOfVesperiaTranslationEngine.ChatSvo
 						}
 						//ChtxStream.SetLength(0);
 						var ChtxStream = new MemoryStream();
-						Chtx.Save(ChtxStream);
+						Chtx.SaveTo(ChtxStream);
 						ChtxStream.Position = 0;
 						Fps4["3"].SetStream(ChtxStream);
 					}
@@ -117,7 +118,7 @@ namespace TalesOfVesperiaTranslationEngine.ChatSvo
 			{
 				using (var EsSvoStream = Patcher.TempFS.OpenFile("chat.es.svo", FileMode.Create))
 				{
-					TranslatedChatSvo.Save(EsSvoStream, true);
+					TranslatedChatSvo.SaveTo(EsSvoStream, true);
 				}
 			}
 
