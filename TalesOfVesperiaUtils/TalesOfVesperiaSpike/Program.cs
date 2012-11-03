@@ -362,10 +362,13 @@ namespace TalesOfVesperiaSpike
 
 			using (var Patcher = new Patcher(GamePath))
 			{
+				new ChatSvo(Patcher).Handle();
+				return;
+
 				new StringDic(Patcher).Handle();
 				new MapSvo(Patcher).Handle();
 				new CharaSvo(Patcher).Handle();
-				new BtlSvo(Patcher).Handle();
+				//new BtlSvo(Patcher).Handle(); // BATTLE IS CORRUPTING!
 				new EffectSvo(Patcher).Handle();
 				new UiSvo(Patcher).Handle();
 				new CommonSvo(Patcher).Handle();
