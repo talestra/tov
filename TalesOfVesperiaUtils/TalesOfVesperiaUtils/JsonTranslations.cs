@@ -6,7 +6,7 @@ using System.IO;
 using Newtonsoft.Json;
 using ProtoBuf;
 
-namespace TalesOfVesperiaTranslationEngine
+namespace TalesOfVesperiaTranslationUtils
 {
 	[ProtoContract]
 	public class TranslationEntry

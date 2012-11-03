@@ -56,6 +56,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="JsonTranslations.cs" />
     <Compile Include="PatchInplace.cs" />
     <Compile Include="Audio\SE3.cs" />
     <Compile Include="Audio\XMA2WAV.cs" />
@@ -92,10 +93,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Text\CharacterMapping.cs" />
     <Compile Include="Text\DetectPitfalls.cs" />
+    <Compile Include="Text\Message.cs" />
     <Compile Include="Text\PitfallDetector.cs" />
     <Compile Include="Text\TextProcessor.cs" />
     <Compile Include="VirtualFileSystem\Dvd9Xbox360FileSystem.cs" />
     <Compile Include="VirtualFileSystem\FPS4FileSystem.cs" />
+    <Compile Include="VirtualFileSystem\TO8SCELFileSystem.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="CharacterMapping.xml">

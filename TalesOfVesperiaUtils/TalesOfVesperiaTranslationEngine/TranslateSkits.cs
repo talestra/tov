@@ -15,6 +15,7 @@ using System.Threading;
 
 namespace TalesOfVesperiaTranslationEngine
 {
+#if false
 	public class TranslateSkits
 	{
 		FPS4 PAK;
@@ -212,4 +213,5 @@ namespace TalesOfVesperiaTranslationEngine
 			PAK.Save(PAKOutput);
 		}
 	}
+#endif
 }

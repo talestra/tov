@@ -25,7 +25,7 @@ namespace TalesOfVesperiaTranslationEngine.ChatSvo
 			var OriginalChatSvo = new FPS4(Patcher.GameFileSystem.OpenFileRead("chat.svo"));
 
 			OriginalChatSvo
-				.AsParallel()
+				//.AsParallel()
 				.ForEach((ChatSvoEntry) =>
 			{
 				var Match = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+)US\.DAT$");

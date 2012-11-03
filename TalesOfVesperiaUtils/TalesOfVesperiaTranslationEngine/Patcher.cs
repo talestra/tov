@@ -8,7 +8,9 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TalesOfVesperiaTranslationUtils;
 using TalesOfVesperiaUtils;
+using TalesOfVesperiaUtils.Compression;
 using TalesOfVesperiaUtils.Imaging;
 using TalesOfVesperiaUtils.VirtualFileSystem;
 
@@ -213,6 +215,21 @@ namespace TalesOfVesperiaTranslationEngine
 			if (GameIsoStream != null)
 			{
 				GameIsoStream.Dispose();
+			}
+		}
+
+		public void DecompressRecompressStreamIfRequired(Stream CompressedStream, Action<Stream> Action, int RecompressVersion = -1, bool RecompressJustWhenModified = true)
+		{
+			if (TalesCompression.DetectVersion(CompressedStream.Slice()) == -1)
+			{
+				Action(CompressedStream);
+			}
+			else
+			{
+				using (var UncompressedStream = new DecompressRecompressStream(CompressedStream, RecompressVersion, RecompressJustWhenModified))
+				{
+					Action(UncompressedStream);
+				}
 			}
 		}
 	}

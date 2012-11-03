@@ -90,11 +90,7 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 
 							int TextCount = Entry.Original.Length;
 
-							for (int n = 0; n < TextCount; n++)
-							{
-								Entry.Original[n].Text = "";
-								Entry.Translated[n].Text = TranslationEntry.texts.es[n];
-							}
+							Entry.TranslateWithTranslationEntry(TranslationEntry);
 
 							//Console.WriteLine("{0} : {1}", Entry.Translated[1], TranslationEntry.texts.es[1]);
 						});

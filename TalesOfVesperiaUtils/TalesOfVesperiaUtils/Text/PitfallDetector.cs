@@ -10,25 +10,6 @@ namespace TalesOfVesperiaUtils.Text
 	{
 		static Regex ExtractTagRegex = new Regex(@"<(\w+)>(\(([\w]+?)\))?", RegexOptions.Compiled | RegexOptions.Multiline);
 
-		public enum Severity
-		{
-			Notice,
-			Warning,
-			Error,
-		}
-
-		public struct Message
-		{
-			public Severity Severity;
-			public string Text;
-
-			public Message(Severity Severity, int MatchPosition, string Message, params object[] Parameters)
-			{
-				this.Severity = Severity;
-				this.Text = String.Format("{0} at {1}", String.Format(Message, Parameters), MatchPosition);
-			}
-		}
-
 		List<Message> Messages = new List<Message>();
 
 		private void AddMessage(Severity Severity, int MatchPosition, string Message, params object[] Parameters)

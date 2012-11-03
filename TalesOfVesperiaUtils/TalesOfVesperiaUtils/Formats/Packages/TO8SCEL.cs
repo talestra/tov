@@ -46,7 +46,12 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			/// <summary>
 			/// 
 			/// </summary>
-			public uint_be DataEnd;
+			public uint_le DataEnd;
+
+			/// <summary>
+			/// 
+			/// </summary>
+			public uint_be Padding;
 		}
 
 		[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1)]
@@ -59,7 +64,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			public uint_be LengthUncompressed;
 
 			[MarshalAs(UnmanagedType.ByValArray, SizeConst = 5)]
-			public uint[] Padding;
+			private uint[] Padding;
 
 			public override string ToString()
 			{
@@ -94,8 +99,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				}
 			}
 
-			Stream _CompressedStream;
-
+			private Stream _CompressedStream;
 			public Stream CompressedStream
 			{
 				get
@@ -106,10 +110,14 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 					}
 					return _CompressedStream;
 				}
+				set
+				{
+					_CompressedStream = value;
+					EntryStruct.LengthCompressed = (value != null) ? (uint)value.Length : (uint)0;
+				}
 			}
 
-			Stream _UncompressedStream;
-
+			private Stream _UncompressedStream;
 			public Stream UncompressedStream
 			{
 				get
@@ -126,6 +134,11 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 						}
 					}
 					return _UncompressedStream;
+				}
+				set
+				{
+					_UncompressedStream = value;
+					EntryStruct.LengthUncompressed = (value != null) ? (uint)value.Length : (uint)0;
 				}
 			}
 
@@ -158,16 +171,16 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 		{
 			this.Stream = Stream;
 
-			Header = Stream.ReadStruct<HeaderStruct>();
-			if (Header.Magic != "TO8SCEL") throw(new Exception("Invalid Magic"));
+			this.Header = this.Stream.ReadStruct<HeaderStruct>();
+			if (this.Header.Magic != "TO8SCEL") throw (new Exception("Invalid Magic"));
 
-			if (Header.ListCount > 10000) throw(new Exception("List too big"));
+			if (this.Header.ListCount > 10000) throw (new Exception("List too big"));
 
-			Stream.Position = Header.ListStart;
+			this.Stream.Position = Header.ListStart;
 
 			for (int n = 0; n < Header.ListCount; n++)
 			{
-				var Entry = new Entry(this, Stream.ReadStruct<EntryStruct>(), n);
+				var Entry = new Entry(this, this.Stream.ReadStruct<EntryStruct>(), n);
 				//Console.WriteLine(Entry.EntryStruct);
 				Entries.Add(Entry);
 			}
@@ -175,7 +188,32 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 		public override void Save(Stream Stream, bool DoAlign = true)
 		{
-			throw new NotImplementedException();
+			var ListStart = Marshal.SizeOf(typeof(HeaderStruct));
+			var DataStart = ListStart + Marshal.SizeOf(typeof(EntryStruct)) * Entries.Count;
+			Stream.Position = DataStart;
+			Stream.WriteByteRepeated(0x00, 0x10);
+			foreach (var Entry in Entries)
+			{
+				Entry.EntryStruct.Offset = (uint)(Stream.Position - DataStart);
+				Stream.WriteStream(Entry.CompressedStream);
+				Stream.WriteZeroToAlign(0x10);
+			}
+
+			Stream.Position = 0;
+
+			this.Header.Magic = "TO8SCEL\0";
+			this.Header.TotalSize = (uint)Stream.Length;
+			this.Header.ListCount = (uint)Entries.Count;
+			this.Header.ListStart = (uint)ListStart;
+			this.Header.DataStart = (uint)DataStart;
+			this.Header.DataEnd = (uint)Stream.Length;
+
+			Stream.WriteStruct(this.Header);
+
+			foreach (var Entry in Entries)
+			{
+				Stream.WriteStruct(Entry.EntryStruct);
+			}
 		}
 
 		public void Dispose()
@@ -210,6 +248,16 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			{
 			}
 			return false;
+		}
+
+		public Entry CreateEntry(int Id, Stream CompressedStream, Stream UncompressedStream)
+		{
+			var EntryStruct = default(EntryStruct);
+			var Entry = new Entry(this, EntryStruct, Id);
+			Entry.CompressedStream = CompressedStream;
+			Entry.UncompressedStream = UncompressedStream;
+			while (Entries.Count <= Id) Entries.Add(new Entry(this, default(EntryStruct), Entries.Count));
+			return Entries[Id] = Entry;
 		}
 	}
 }

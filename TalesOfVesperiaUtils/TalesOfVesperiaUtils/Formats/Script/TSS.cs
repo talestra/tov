@@ -8,6 +8,8 @@ using System.Runtime.InteropServices;
 using System.IO;
 using CSharpUtils.Endian;
 using CSharpUtils.SpaceAssigner;
+using TalesOfVesperiaTranslationUtils;
+using TalesOfVesperiaUtils.Text;
 
 namespace TalesOfVesperiaUtils.Formats.Script
 {
@@ -87,19 +89,20 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			Stream.WriteStream(TextStream.Slice());
 		}
 
-		public int CountStringz(uint TextOffset)
+		public int CountStringz(int TextOffset)
 		{
 			return (SliceStream.CreateWithLength(TextStream, TextOffset)).CountStringzBytes(AlignTo4: false, AlignPosition: (int)TextOffset);
 		}
 
-		public String ReadStringz(uint TextOffset)
+		public String ReadStringz(int TextOffset)
 		{
+			if (TextOffset < 0 || TextOffset >= TextStream.Length) return "";
 			return (SliceStream.CreateWithLength(TextStream, TextOffset)).ReadStringz(Encoding: Encoding.UTF8);
 		}
 
 		public class StringInfo
 		{
-			public SliceStream PointerStream;
+			private SliceStream PointerStream;
 			public int StringzOffset;
 			public int StringzLength;
 			public string Text;
@@ -125,8 +128,8 @@ namespace TalesOfVesperiaUtils.Formats.Script
 				if (this.PointerValue != StringzOffset) throw (new InvalidOperationException("StringzOffset Doesn't Match PointerStream Data"));
 
 				this.StringzOffset = StringzOffset;
-				this.StringzLength = Tss.CountStringz((uint)StringzOffset);
-				this.Text = Tss.ReadStringz((uint)StringzOffset);
+				this.StringzLength = Tss.CountStringz(StringzOffset);
+				this.Text = Tss.ReadStringz(StringzOffset);
 			}
 		}
 
@@ -135,6 +138,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			public int TextType;
 			public uint Id;
 			public uint Id2;
+			public uint Id3;
 			public StringInfo[] Original;
 			public StringInfo[] Translated;
 
@@ -148,6 +152,15 @@ namespace TalesOfVesperiaUtils.Formats.Script
 
 			public TextEntry()
 			{
+			}
+
+			public void TranslateWithTranslationEntry(TranslationEntry TranslationEntry)
+			{
+				for (int n = 0; n < Original.Length; n++)
+				{
+					Original[n].Text = "";
+					Translated[n].Text = TextProcessor.Instance.ProcessAndDetectPitfalls(Translated[n].Text, TranslationEntry.texts.es[n]);
+				}
 			}
 
 			public override string ToString()
@@ -184,7 +197,17 @@ namespace TalesOfVesperiaUtils.Formats.Script
 					//Console.WriteLine("{0}, {1}", StringInfo.StringzOffset, StringInfo.StringzLength);
 					SpaceAssigner1D.AddAvailableWithLength(StringInfo.StringzOffset, StringInfo.StringzLength);
 				}
-				TranslateTextEntry(Entry);
+				
+				bool HasText = false;
+				foreach (var StringInfo in Entry.OriginalTranslated)
+				{
+					if (StringInfo.Text.Length > 0) HasText = true;
+				}
+				
+				if (HasText)
+				{
+					TranslateTextEntry(Entry);
+				}
 			}, HandleType1);
 
 			SpaceAssigner1DUniqueAllocator.FillSpacesWithZeroes();
@@ -236,6 +259,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							}
 							else
 							{
+								//Console.WriteLine("{0}", PushInstruction.ValueToPush.Value);
 								Stack.Add(PushInstruction.ValueToPush.Value);
 							}
 							Lang = 0;
@@ -261,6 +285,8 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							if ((CallInstruction.FunctionType == FunctionType.Native) && (CallInstruction.NativeFunction == 1)) TextFunc = 1;
 							//if ((CallInstruction.FunctionType == FunctionType.Script) && ((new uint[] { 12, 0x12e30, }).Contains(CallInstruction.ScriptFunction))) TextFunc = 2;
 
+							bool AddEntry = true;
+
 							if (TextFunc > 0)
 							{
 								if (Text1.Length > 0 || Text2.Length > 0)
@@ -269,37 +295,49 @@ namespace TalesOfVesperiaUtils.Formats.Script
 									{
 										if (TextFunc == 1)
 										{
+											//Console.WriteLine("TEXT![1]");
 											if (!HandleType1) continue;
+											//Console.WriteLine("TEXT![1]");
 
+											TextId = 0;
 											try
 											{
-												TextId = uint.Parse(String.Format("{0}", Stack[0]));
+												var TextIdStr = String.Format("{0}", Stack[0]);
+												//Console.WriteLine("TEXT![1] : {0}", TextIdStr);
+												TextId = uint.Parse(TextIdStr);
 											}
 											catch
 											{
-												continue;
 											}
 
-											if (TextId < 00010001) continue;
+											if (TextId < 00010001) {
+												//Console.WriteLine("{0}", Stack.Implode(","));
+												//continue;
+												AddEntry = false;
+											}
+											//Console.WriteLine("TEXT![3]");
 										}
 
-										ActionTextEntry(new TextEntry()
+										if (AddEntry)
 										{
-											TextType = TextType,
-											Id = TextId,
-											Id2 = TextId,
-											Original = Text1,
-											Translated = Text2,
-										});
-										LastSeparator = false;
+											ActionTextEntry(new TextEntry()
+											{
+												TextType = TextType,
+												Id = TextId,
+												Id2 = TextId,
+												Original = Text1,
+												Translated = Text2,
+											});
+											LastSeparator = false;
+										}
 									}
 									//Console.WriteLine("############  AddText {0:D8}:('{1}', '{2}')", Stack[0], Text1.EscapeString(), Text2.EscapeString());
 								}
-								Text1 = new StringInfo[0];
-								Text2 = new StringInfo[0];
-								TextType = -1;
-								Stack.Clear();
 							}
+							Text1 = new StringInfo[0];
+							Text2 = new StringInfo[0];
+							TextType = -1;
+							Stack.Clear();
 						}
 						break;
 					case Opcode.PUSH_ARRAY:
@@ -331,6 +369,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 									TextType = TextType,
 									Id = TextId,
 									Id2 = PushArrayInstruction.ArrayPointer,
+									Id3 = PushArrayInstruction.InstructionPosition,
 									Original = Text1,
 									Translated = Text2,
 								});
@@ -447,7 +486,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 										//ParameterType = IsText ? ValueType.TextString : ValueType.String,
 										ParameterType = ValueType.String,
 										IntValue = (int)(uint)Offset,
-										ValueToPush = new DynamicValue(ValueType.String, ReadStringz(Offset)),
+										ValueToPush = new DynamicValue(ValueType.String, ReadStringz((int)(uint)Offset)),
 									};
 								}
 								else

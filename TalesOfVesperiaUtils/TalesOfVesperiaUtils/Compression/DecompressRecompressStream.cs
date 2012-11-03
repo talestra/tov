@@ -13,30 +13,36 @@ namespace TalesOfVesperiaUtils.Compression
 	{
 		byte[] UncompressedOriginalData;
 		Stream CompressedStream;
+		int RecompressVersion;
+		bool RecompressJustWhenModified;
 
-		public DecompressRecompressStream(Stream CompressedStream)
+		public DecompressRecompressStream(Stream CompressedStream, int RecompressVersion = -1, bool RecompressJustWhenModified = true)
 			: base(TalesCompression.DecompressStream(CompressedStream.Slice()))
 		{
 			this.CompressedStream = CompressedStream;
+			this.RecompressVersion = RecompressVersion;
+			this.RecompressJustWhenModified = RecompressJustWhenModified;
 			UncompressedOriginalData = ((MemoryStream)this.ParentStream).ToArray();
 		}
 
 		[DebuggerHidden]
 		public override void Close()
 		{
-			var UncompressedNewData = ((MemoryStream)this.ParentStream).ToArray();
-
 			// Data has changed.
-			if (!UncompressedOriginalData.SequenceEqual(UncompressedNewData))
-			//if (true)
+			if (!RecompressJustWhenModified || !UncompressedOriginalData.SequenceEqual(((MemoryStream)this.ParentStream).ToArray()))
 			{
-				var Compression = TalesCompression.CreateFromStart(this.CompressedStream.Slice().ReadBytes(0x10), this.CompressedStream.Length);
+				int Version = RecompressVersion;
+				if (Version == -1)
+				{
+					Version = TalesCompression.DetectVersion(this.CompressedStream.Slice());
+				}
+				var Compression = TalesCompression.CreateFromVersion(Version);
 				var RecompressedData = Compression.EncodeFile(ParentStream).ToArray();
 				if (RecompressedData.Length > this.CompressedStream.Length) throw (new Exception(String.Format("Compressed file is bigger than original Updated: {0} > Previous: {1}", RecompressedData.Length, CompressedStream.Length)));
 				var CompressedStream2 = this.CompressedStream.Slice();
 				CompressedStream2
 					.WriteBytes(RecompressedData)
-					.WriteByteRepeated((byte)0x00, (int)(this.CompressedStream.Length - RecompressedData.Length))
+					.WriteByteRepeatedTo((byte)0x00, CompressedStream2.Length);
 				;
 			}
 			else
