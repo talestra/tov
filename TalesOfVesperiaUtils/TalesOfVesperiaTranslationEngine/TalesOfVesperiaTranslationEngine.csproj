@@ -63,6 +63,7 @@
     <Compile Include="MapSvo\MapSvo.cs" />
     <Compile Include="Patcher.cs" />
     <Compile Include="PatcherComponent.cs" />
+    <Compile Include="PatchPaths.cs" />
     <Compile Include="PatchUtils.cs" />
     <Compile Include="StringDic\StringDic.cs" />
     <Compile Include="TranslateSkits.cs" />

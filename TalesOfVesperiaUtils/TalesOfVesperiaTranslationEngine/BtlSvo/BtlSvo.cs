@@ -185,7 +185,7 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 				{
 					Patcher.GameAccessPath("E_A018", () =>
 					{
-						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, "BTL_SVO/E_A018_LVUP_00.png", "E_A018_LVUP_00"); });
+						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.E_A018_LVUP_00, "E_A018_LVUP_00"); });
 					});
 				});
 
@@ -193,7 +193,7 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 				{
 					Patcher.GameAccessPath("E_A019", () =>
 					{
-						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, "BTL_SVO/E_A019_NEW_00.png", "E_A019_NEW_00"); });
+						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.E_A019_NEW_00, "E_A019_NEW_00"); });
 					});
 				});
 
@@ -201,9 +201,8 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 				{
 					Patcher.GameAccessPath("E_A024", () =>
 					{
-						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, "BTL_SVO/E_A024_LEARNING_00.png", "E_A024_LEARNING_00"); });
+						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.E_A024_LEARNING_00, "E_A024_LEARNING_00"); });
 						Patcher.GameGetTXM("10", "11", (Txm) => { Patcher.UpdateTxm2DWithEmpty(Txm, "E_A024_LEARNING_00_F", "E_A024_LEARNING_00_G"); });
-						//Patcher.GameGetTXM("10", "11", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, "BTL_SVO/E_A024_LEARNING_00.png", "E_A024_LEARNING_00_F", "E_A024_LEARNING_00_G"); });
 					});
 				});
 
@@ -211,7 +210,7 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 				{
 					Patcher.GameAccessPath("E_A027", () =>
 					{
-						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, "BTL_SVO/E_A027_MISSION_00.png", "E_A027_MISSION_00"); });
+						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.E_A027_MISSION_00, "E_A027_MISSION_00"); });
 					});
 				});
 
@@ -219,7 +218,7 @@ namespace TalesOfVesperiaTranslationEngine.BtlSvo
 				{
 					Patcher.GameAccessPath("E_A062", () =>
 					{
-						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, "BTL_SVO/E_A062_TITLE_00.png", "E_A062_TITLE_00"); });
+						Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.E_A062_TITLE_00, "E_A062_TITLE_00"); });
 						Patcher.GameGetTXM("10", "11", (Txm) => { Patcher.UpdateTxm2DWithEmpty(Txm, "E_A062_TITLE_00_F", "E_A062_TITLE_00_G"); });
 					});
 				});

@@ -51,6 +51,42 @@ namespace TalesOfVesperiaTranslationEngine.UiSvo
 			{
 				var PatcherDataFS = Patcher.PatcherDataFS;
 
+				foreach (var Suffix in new[] { "", "DE", "FR" })
+				{
+					Patcher.GameGetTXM("COMALL" + Suffix, (Txm) =>
+					{
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_COMALLINFO00, "U_COMALLINFO00");
+					});
+
+					Patcher.GameGetTXM("ICONBTN360" + Suffix, (Txm) =>
+					{
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_ICONBTN36000, "U_ICONBTN36000");
+					});
+
+					Patcher.GameGetTXM("ICONKIND" + Suffix, (Txm) =>
+					{
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_ICONKIND00, "U_ICONKIND00");
+					});
+
+					Patcher.GameGetTXM("ICONSORT" + Suffix, (Txm) =>
+					{
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_ICONSORT00, "U_ICONSORT00");
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_ICONSORT01, "U_ICONSORT01");
+					});
+
+					Patcher.GameGetTXM("ICONSYM" + Suffix, (Txm) =>
+					{
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_ICONSYM01, "U_ICONSYM01");
+					});
+
+					Patcher.GameGetTXM("MENU" + Suffix, (Txm) =>
+					{
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_MENUBTLINFO00, "U_MENUBTLINFO00");
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_MENUBTLINFO02, "U_MENUBTLINFO02");
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_MENUSTR01, "U_MENUSTR01");
+					});
+				}
+
 				foreach (var Files in GetImageParts(PatcherDataFS, "UI_SVO"))
 				{
 					var File = Files.Key;
