@@ -4,12 +4,12 @@
 		xmlns:lib="clr-namespace:Blend4PatcherAnimation;assembly=Blend4PatcherAnimation"
         Title="WINDOW_TITLE" WindowStartupLocation="CenterScreen" Width="733" Height="481" ResizeMode="NoResize" Icon="tov.ico">
     <Grid>
-        <Button x:Name="Parchear" Content="_Parchear" HorizontalAlignment="Right" Height="31" VerticalAlignment="Top" Width="104" Click="Button_Click_1" FontWeight="Bold" Margin="0,421,7,0" />
         <ProgressBar x:Name="Progreso" Height="31" VerticalAlignment="Bottom" Margin="0,0,232,0" Foreground="#FF310FCD"/>
-		<Grid x:Name="MyGrid" HorizontalAlignment="Left" VerticalAlignment="Top" Width="720" Height="405">
+        <Button x:Name="AcercaDe" Content="_Acerca de..." HorizontalAlignment="Right" Height="31" Margin="0,0,116,0" VerticalAlignment="Bottom" Width="111"/>
+        <Button x:Name="Parchear" Content="_Parchear" HorizontalAlignment="Right" Height="31" VerticalAlignment="Bottom" Width="111" Click="Button_Click_1" FontWeight="Bold" />
+        <Grid x:Name="MyGrid" HorizontalAlignment="Left" VerticalAlignment="Top" Width="720" Height="405">
 			<lib:TitleScreen></lib:TitleScreen>
 		</Grid>
-		<Button x:Name="AcercaDe" Content="_Acerca de..." HorizontalAlignment="Right" Height="31" Margin="0,0,116,0" VerticalAlignment="Bottom" Width="111"/>
 		<Label x:Name="BuildDate" Content="BUILD_DATE" HorizontalAlignment="Left" Margin="463,379,0,0" VerticalAlignment="Top" Width="254" Foreground="#8888AA" HorizontalContentAlignment="Right" />
 	</Grid>
 </Window>

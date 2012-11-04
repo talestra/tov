@@ -73,7 +73,7 @@ namespace TalesOfVesperiaFrontendWPF
 
 			if (OriginalISOPath == TranslatedISOPath)
 			{
-				MessageBox.Show("No se puede actualizar el mismo archivo directamente", "Hubo un error", MessageBoxButton.OK, MessageBoxImage.Error);
+				MessageBox.Show("No se puede actualizar el mismo archivo directamente.", "Hubo un error", MessageBoxButton.OK, MessageBoxImage.Error);
 				return;
 			}
 
@@ -88,17 +88,17 @@ namespace TalesOfVesperiaFrontendWPF
 
 					//throw (new Exception("Test ERROR!"));
 
-					UpdateProgress(0, 100, TaskbarItemProgressState.Indeterminate);
+					UpdateProgress(0, 100, TaskbarItemProgressState.Normal);
 					Console.WriteLine("Copying ISO...");
 					if (!File.Exists(TranslatedISOPath)) File.Copy(OriginalISOPath, TranslatedISOPath);
 					Console.WriteLine("Done");
 
-					UpdateProgress(50, 100, TaskbarItemProgressState.Indeterminate);
+					UpdateProgress(50, 100, TaskbarItemProgressState.Normal);
 
 					var Patcher = new Patcher(TranslatedISOPath);
 					Patcher.Progress += (Current, Total) =>
 					{
-						UpdateProgress(Current, Total, TaskbarItemProgressState.Indeterminate);
+						UpdateProgress(Current, Total, TaskbarItemProgressState.Normal);
 					};
 					new PatchAll(Patcher).Handle();
 					//Load the ISO
@@ -117,7 +117,7 @@ namespace TalesOfVesperiaFrontendWPF
 				}
 				catch (Exception Exception)
 				{
-					MessageBox.Show(Exception.ToString(), "Hubo un error", MessageBoxButton.OK, MessageBoxImage.Error);
+					MessageBox.Show(Exception.ToString(), "Hubo un error. Se ha borrado System32 sin querer.", MessageBoxButton.OK, MessageBoxImage.Error);
 				}
 				finally
 				{
@@ -131,6 +131,7 @@ namespace TalesOfVesperiaFrontendWPF
 			//RunTask.Start();
         }
 
+        /*
         void ExtractFile(Dvd9Xbox360FileSystem fs, string InputFile, string OutputPath)
         {
             var Stream = fs.OpenFile(InputFile, FileMode.Open);
@@ -144,7 +145,7 @@ namespace TalesOfVesperiaFrontendWPF
 
             if (!Directory.Exists(Path.GetDirectoryName(OutputFile))) Directory.CreateDirectory(Path.GetDirectoryName(OutputFile));
             File.WriteAllBytes(OutputFile, data);
-        }
+        }*/
 
         void UpdateProgress(long Current, long Total, TaskbarItemProgressState State)
         {

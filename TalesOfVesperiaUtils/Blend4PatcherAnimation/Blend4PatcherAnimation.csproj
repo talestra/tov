@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ExpressionBlendVersion>4.0.20525.0</ExpressionBlendVersion>
+    <ExpressionBlendVersion>4.0.20901.0</ExpressionBlendVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{6111ECB4-7634-4F87-B080-51F5D798983F}</ProjectGuid>
     <OutputType>Library</OutputType>
@@ -37,7 +37,6 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.Expression.Effects" />
     <Reference Include="Microsoft.Expression.Interactions" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -72,17 +71,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="img\90.E_A101_TITLE_P004.png" />
-    <Resource Include="img\90.E_A101_TITLE_P008.png" />
     <Resource Include="img\bg.jpg" />
-    <Resource Include="img\Logo.png" />
-    <Resource Include="img\logo2.png" />
-    <Resource Include="img\ring_240.png" />
-    <Resource Include="img\tov.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="img\bg.psd" />
-    <None Include="img\Logo.psd" />
+    <Resource Include="img\tov-logo-glow.png" />
+    <Resource Include="img\tov-logo.png" />
+    <Resource Include="img\tov-ring.png" />
+    <Resource Include="img\tov-star.png" />
+    <Resource Include="img\tov-text.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath32)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
