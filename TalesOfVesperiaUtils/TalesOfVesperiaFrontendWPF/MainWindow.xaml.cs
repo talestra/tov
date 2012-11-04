@@ -8,7 +8,11 @@ using System.Windows.Interop;
 using System.Windows.Shell;
 using TalesOfVesperiaUtils.Formats.Packages;
 using TalesOfVesperiaUtils.VirtualFileSystem;
-
+using Blend4PatcherAnimation;
+using TalesOfVesperiaTranslationEngine;
+using System.ComponentModel;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace TalesOfVesperiaFrontendWPF
 {
@@ -66,17 +70,65 @@ namespace TalesOfVesperiaFrontendWPF
             //Make a copy of the ISO
             string OriginalISOPath = ODlg.FileName;
             string TranslatedISOPath = Path.Combine(Path.GetDirectoryName(OriginalISOPath), "Tales of Vesperia [PAL] [Español].iso");
-            if (!File.Exists(TranslatedISOPath)) File.Copy(OriginalISOPath, TranslatedISOPath);
 
-            //Load the ISO
-            FileStream ToVISO = new FileStream(TranslatedISOPath, FileMode.Open, FileAccess.ReadWrite);
-            var Dvd9Xbox360 = new Dvd9Xbox360().Load(ToVISO);
-            var Vfs = new Dvd9Xbox360FileSystem(Dvd9Xbox360);
+			if (OriginalISOPath == TranslatedISOPath)
+			{
+				MessageBox.Show("No se puede actualizar el mismo archivo directamente", "Hubo un error", MessageBoxButton.OK, MessageBoxImage.Error);
+				return;
+			}
 
-            //Trasteando cosas LOLOLOL
-            ExtractFile(Vfs, "/snd/config.bin", Path.GetDirectoryName(OriginalISOPath));
+			var RunTask = Task.Run(() =>
+			{
+				try
+				{
+					this.Dispatcher.Invoke(() =>
+					{
+						this.Parchear.IsEnabled = false;
+					});
+
+					//throw (new Exception("Test ERROR!"));
+
+					UpdateProgress(0, 100, TaskbarItemProgressState.Indeterminate);
+					Console.WriteLine("Copying ISO...");
+					if (!File.Exists(TranslatedISOPath)) File.Copy(OriginalISOPath, TranslatedISOPath);
+					Console.WriteLine("Done");
+
+					UpdateProgress(50, 100, TaskbarItemProgressState.Indeterminate);
+
+					var Patcher = new Patcher(TranslatedISOPath);
+					Patcher.Progress += (Current, Total) =>
+					{
+						UpdateProgress(Current, Total, TaskbarItemProgressState.Indeterminate);
+					};
+					new PatchAll(Patcher).Handle();
+					//Load the ISO
+					/*
+					FileStream ToVISO = new FileStream(TranslatedISOPath, FileMode.Open, FileAccess.ReadWrite);
+					var Dvd9Xbox360 = new Dvd9Xbox360().Load(ToVISO);
+					var Vfs = new Dvd9Xbox360FileSystem(Dvd9Xbox360);
+
+					//Trasteando cosas LOLOLOL
+					ExtractFile(Vfs, "/snd/config.bin", Path.GetDirectoryName(OriginalISOPath));
             
-            UpdateProgress(75, TaskbarItemProgressState.Normal);
+					UpdateProgress(75, TaskbarItemProgressState.Normal);
+					*/
+
+					MessageBox.Show("¡Ya se ha traducido Tales of Vesperia al español!", "¡Felicidades!", MessageBoxButton.OK, MessageBoxImage.Information);
+				}
+				catch (Exception Exception)
+				{
+					MessageBox.Show(Exception.ToString(), "Hubo un error", MessageBoxButton.OK, MessageBoxImage.Error);
+				}
+				finally
+				{
+					this.Dispatcher.Invoke(() =>
+					{
+						this.Parchear.IsEnabled = true;
+					});
+				}
+			});
+
+			//RunTask.Start();
         }
 
         void ExtractFile(Dvd9Xbox360FileSystem fs, string InputFile, string OutputPath)
@@ -94,15 +146,18 @@ namespace TalesOfVesperiaFrontendWPF
             File.WriteAllBytes(OutputFile, data);
         }
 
-        void UpdateProgress(double Value, TaskbarItemProgressState State)
+        void UpdateProgress(long Current, long Total, TaskbarItemProgressState State)
         {
-            Progreso.Value = Value;
+			this.Dispatcher.Invoke(() =>
+			{
+				Progreso.Value = Total;
 
-            TaskbarItemInfo tb = new TaskbarItemInfo();
-            tb.ProgressValue = Value / 100;
-            tb.ProgressState = State;
+				TaskbarItemInfo tb = new TaskbarItemInfo();
+				tb.ProgressValue = (double)Current / (double)Total;
+				tb.ProgressState = State;
 
-            this.TaskbarItemInfo = tb;
+				this.TaskbarItemInfo = tb;
+			});
         }
     }
 

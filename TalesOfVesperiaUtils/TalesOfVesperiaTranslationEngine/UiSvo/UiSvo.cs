@@ -86,25 +86,6 @@ namespace TalesOfVesperiaTranslationEngine.UiSvo
 						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_MENUSTR01, "U_MENUSTR01");
 					});
 				}
-
-				foreach (var Files in GetImageParts(PatcherDataFS, "UI_SVO"))
-				{
-					var File = Files.Key;
-					Patcher.Action("Patching " + File, () =>
-					{
-						foreach (var BaseName in new[] { File, File + "DE", File + "FR" })
-						{
-							Patcher.GameGetTXM(BaseName + ".TXM", BaseName + ".TXV", (TXM) =>
-							{
-								foreach (var Item in Files.Value)
-								{
-									var PngFile = String.Format("{0}.{1}.png", File, Item);
-									TXM.Surface2DEntriesByName[Item].UpdateBitmap(new Bitmap(Image.FromStream(PatcherDataFS.OpenFile("UI_SVO/" + PngFile, FileMode.Open))));
-								}
-							});
-						}
-					});
-				}
 			});
 		}
 

@@ -1,0 +1,138 @@
+﻿<UserControl xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" xmlns:ee="http://schemas.microsoft.com/expression/2010/effects"
+	x:Class="Blend4PatcherAnimation.TitleScreen"
+	x:Name="TitleScreenControl"
+	xmlns:Lib="clr-namespace:Blend4PatcherAnimation" 
+	d:DesignWidth="720" d:DesignHeight="405" mc:Ignorable="d">
+	<UserControl.Resources>
+		<Storyboard x:Key="Storyboard1"/>
+	</UserControl.Resources>
+	<UserControl.Triggers>
+		<EventTrigger RoutedEvent="FrameworkElement.Loaded">
+			<BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+		</EventTrigger>
+	</UserControl.Triggers>
+
+	<Grid x:Name="LayoutRoot">
+		<VisualStateManager.VisualStateGroups>
+			<VisualStateGroup x:Name="VisualStateGroup">
+				<VisualStateGroup.Transitions>
+					<VisualTransition GeneratedDuration="0">
+						<Storyboard RepeatBehavior="Forever">
+							
+							<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="LogoImageGlow">
+								<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+							</ObjectAnimationUsingKeyFrames>
+							<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="LogoImageGlow">
+								<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+							</DoubleAnimationUsingKeyFrames>
+							
+						</Storyboard>
+					</VisualTransition>
+					<VisualTransition GeneratedDuration="0" To="StartAnimation">
+						<Storyboard>
+							<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="LogoImage">
+								<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="1"/>
+							</DoubleAnimationUsingKeyFrames>
+							<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(ee:BloomEffect.BloomSaturation)" Storyboard.TargetName="LogoImageGlow">
+								<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:1.8" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="2"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:3" Value="2"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:3.7" Value="2"/>
+							</DoubleAnimationUsingKeyFrames>
+							<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(ee:BloomEffect.BloomIntensity)" Storyboard.TargetName="LogoImageGlow">
+								<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:1.8" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="2"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:3" Value="1.2727272727272727"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:3.7" Value="0"/>
+							</DoubleAnimationUsingKeyFrames>
+							<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(ee:BloomEffect.Threshold)" Storyboard.TargetName="LogoImageGlow">
+								<EasingDoubleKeyFrame KeyTime="0" Value="0.25"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:1.8" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:3" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:3.7" Value="0"/>
+							</DoubleAnimationUsingKeyFrames>
+							<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="LogoImageGlow">
+								<EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:1.8" Value="1"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:2.1" Value="1"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="1"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:3" Value="1"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:3.7"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:4.3"/>
+							</DoubleAnimationUsingKeyFrames>
+							<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="LogoText">
+								<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:1.9" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:3.4" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:5.2" Value="1"/>
+							</DoubleAnimationUsingKeyFrames>
+							<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="RotatingRing">
+								<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+								<EasingDoubleKeyFrame KeyTime="0:0:2.2" Value="1"/>
+							</DoubleAnimationUsingKeyFrames>
+							<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="LogoImageGlow">
+								<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+								<DiscreteObjectKeyFrame KeyTime="0:0:0.5">
+									<DiscreteObjectKeyFrame.Value>
+										<Visibility>Hidden</Visibility>
+									</DiscreteObjectKeyFrame.Value>
+								</DiscreteObjectKeyFrame>
+								<DiscreteObjectKeyFrame KeyTime="0:0:1.8" Value="{x:Static Visibility.Visible}"/>
+								<DiscreteObjectKeyFrame KeyTime="0:0:2.1" Value="{x:Static Visibility.Visible}"/>
+								<DiscreteObjectKeyFrame KeyTime="0:0:3" Value="{x:Static Visibility.Visible}"/>
+								<DiscreteObjectKeyFrame KeyTime="0:0:3.7" Value="{x:Static Visibility.Hidden}"/>
+								<DiscreteObjectKeyFrame KeyTime="0:0:4.3" Value="{x:Static Visibility.Hidden}"/>
+							</ObjectAnimationUsingKeyFrames>
+						</Storyboard>
+					</VisualTransition>
+					<VisualTransition From="StartAnimation" GeneratedDuration="0" To="EndAnimation"/>
+					<VisualTransition From="StartAnimation" GeneratedDuration="0">
+						<Storyboard>
+							<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="LogoImageGlow">
+								<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+							</DoubleAnimationUsingKeyFrames>
+						</Storyboard>
+					</VisualTransition>
+				</VisualStateGroup.Transitions>
+				<VisualState x:Name="StartAnimation"/>
+				<VisualState x:Name="EndAnimation">
+					<Storyboard>
+						<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="LogoImageGlow">
+							<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+						</DoubleAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+			</VisualStateGroup>
+		</VisualStateManager.VisualStateGroups>
+		<Image x:Name="Background" Source="img/bg.jpg" Stretch="Fill"/>
+		<Grid x:Name="ContentGrid" Background="#00000000">
+			<Grid x:Name="RotatingRing" Width="240" Height="240" Margin="244,33.5,236,131.5">
+				<Lib:RotatingRing></Lib:RotatingRing>
+			</Grid>
+			
+			<Image x:Name="LogoImage" Margin="260,71,251,125" Source="img/logo2.png" Stretch="Fill" d:IsEffectDisabled="True" OpacityMask="Black"/>
+			<Image x:Name="LogoImageGlow" Margin="260,71,251,125" Source="img/logo2.png" Stretch="Fill" OpacityMask="Black">
+				<Image.Effect>
+					<ee:BloomEffect BloomIntensity="2" BaseSaturation="0" BaseIntensity="1" BloomSaturation="2" Threshold="0.25"/>
+				</Image.Effect>
+			</Image>
+			<Image x:Name="LogoText" Margin="115.333,93.334,84.667,181.666" Source="img/90.E_A101_TITLE_P004.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5">
+				<Image.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Image.RenderTransform>
+			</Image>
+		</Grid>
+	</Grid>
+</UserControl>

@@ -224,6 +224,7 @@ namespace TalesOfVesperiaTranslationEngine
 		}
 
 		int ActionLevel = 0;
+		public event Action<long, long> Progress;
 
 		public void Action(String Description, Action Action, int OverrideActionLevel = -1)
 		{
@@ -265,6 +266,11 @@ namespace TalesOfVesperiaTranslationEngine
 					Action(UncompressedStream);
 				}
 			}
+		}
+
+		public void PatchAll()
+		{
+
 		}
 	}
 }
