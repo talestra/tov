@@ -6,6 +6,7 @@ using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using TalesOfVesperiaTranslationUtils;
@@ -40,7 +41,7 @@ namespace TalesOfVesperiaTranslationEngine
 						_EntriesByRoom = new Dictionary<string, Dictionary<string, TranslationEntry>>();
 
 						var TovProto = "tov.proto";
-						var TovJson = "Data/tov.json";
+						var TovJson = PatchPaths.TextsTovJson;
 
 						if (!TempFS.Exists(TovProto))
 						{
@@ -57,6 +58,25 @@ namespace TalesOfVesperiaTranslationEngine
 					return _EntriesByRoom;
 				}
 			}
+		}
+
+		public Patcher CheckPatchPaths()
+		{
+			foreach (var Field in typeof(PatchPaths).GetFields(BindingFlags.Static | BindingFlags.Public))
+			{
+				var FieldFullName = Field.DeclaringType.Name + "." + Field.Name;
+				var Path = (string)Field.GetValue(null);
+				if ((Path != null) && (Path != "") && this.PatcherDataFS.Exists(Path))
+				{
+					//Console.WriteLine("{0}: '{1}'... Ok", FieldFullName, Path);
+				}
+				else
+				{
+					throw (new Exception(String.Format("{0}: Path doesn't exists '{1}'", FieldFullName, Path)));
+				}
+			}
+
+			return this;
 		}
 
 		public void ParallelForeach<T>(string Verb, IEnumerable<T> List, Func<T, string> GetNameFunc, Action<T> EachAction)
@@ -86,6 +106,7 @@ namespace TalesOfVesperiaTranslationEngine
 			}
 
 			Init(GameRootFS);
+			CheckPatchPaths();
 		}
 
 		public Patcher(FileSystem GameFileSystem)
@@ -104,7 +125,6 @@ namespace TalesOfVesperiaTranslationEngine
 			//JsonTranslations.JsonToProtocolBuffer();
 		}
 
-		[DebuggerHidden]
 		public void GameSetFileSystem(FileSystem FileSystem, Action ActionAccess)
 		{
 			this.Action(String.Format("SettingFileSystem {0}", FileSystem), () =>
@@ -113,7 +133,6 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
-		[DebuggerHidden]
 		public void GameAccessPath(string Path, Action ActionAccess)
 		{
 			this.Action(String.Format("Accessing {0}", Path), () =>
@@ -122,7 +141,6 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
-		[DebuggerHidden]
 		public void GameGetFile(string File1, Action<Stream> ActionRead)
 		{
 			this.Action(String.Format("File {0}", File1), () =>
@@ -131,7 +149,6 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
-		[DebuggerHidden]
 		public void GameReplaceFile(string File1, Stream NewStream)
 		{
 			this.Action(String.Format("Update {0}", File1), () =>
@@ -146,7 +163,11 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
-		[DebuggerHidden]
+		public void GameGetTXM(string BaseTxmTxv, Action<TXM> ActionRead)
+		{
+			GameGetTXM(BaseTxmTxv + ".TXM", BaseTxmTxv + ".TXV", ActionRead);
+		}
+
 		public void GameGetTXM(string FileTxm, string FileTxv, Action<TXM> ActionRead)
 		{
 			GameGetFile2(FileTxm, FileTxv, (StreamTxm, StreamTxv) =>
@@ -155,7 +176,6 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
-		[DebuggerHidden]
 		public void GameGetFile2(string File1, string File2, Action<Stream, Stream> ActionRead)
 		{
 			this.Action(String.Format("Files {0}, {1}", File1, File2), () =>
@@ -164,7 +184,6 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
-		[DebuggerHidden]
 		public void UpdateTxm2DWithPng(TXM Txm, string PatchPngPath, params string[] TxmNames)
 		{
 			PatcherGetImage(PatchPngPath, (Bitmap) =>
@@ -176,7 +195,6 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
-		[DebuggerHidden]
 		public void UpdateTxm2DWithEmpty(TXM Txm, params string[] TxmNames)
 		{
 			foreach (var Name in TxmNames)
@@ -186,7 +204,6 @@ namespace TalesOfVesperiaTranslationEngine
 			}
 		}
 
-		[DebuggerHidden]
 		public void PatcherGetImage(string File1, Action<Bitmap> ActionRead)
 		{
 			PatcherGetFile(File1, (Stream) =>
@@ -195,7 +212,6 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
-		[DebuggerHidden]
 		public void PatcherGetFile(string File1, Action<Stream> ActionRead)
 		{
 			this.Action(String.Format("Patcher File {0}", File1), () =>
@@ -207,10 +223,8 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
-
 		int ActionLevel = 0;
 
-		[DebuggerHidden]
 		public void Action(String Description, Action Action, int OverrideActionLevel = -1)
 		{
 			if (OverrideActionLevel >= 0) ActionLevel = OverrideActionLevel;

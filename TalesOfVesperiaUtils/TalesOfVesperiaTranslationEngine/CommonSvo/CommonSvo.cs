@@ -31,11 +31,11 @@ namespace TalesOfVesperiaTranslationEngine.CommonSvo
 			{
 				Patcher.GameGetTXM("0", "1", (Txm) =>
 				{
-					Patcher.UpdateTxm2DWithPng(Txm, "COMMON_SVO/TEXTURE_DAT/U_USUALBTLFONT00_EU.png", "U_USUALBTLFONT00", "U_USUALBTLFONT00_EU");
-					Patcher.UpdateTxm2DWithPng(Txm, "COMMON_SVO/TEXTURE_DAT/U_USUALBTLFONT01.png", "U_USUALBTLFONT01");
-					Patcher.UpdateTxm2DWithPng(Txm, "COMMON_SVO/TEXTURE_DAT/U_USUALLOAD00.png", "U_USUALLOAD00");
-					Patcher.UpdateTxm2DWithPng(Txm, "COMMON_SVO/TEXTURE_DAT/U_USUALLOAD01.png", "U_USUALLOAD01");
-					Patcher.UpdateTxm2DWithPng(Txm, "COMMON_SVO/TEXTURE_DAT/U_USUALFIEINFO02.png", "U_USUALFIEINFO02");
+					Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_USUALBTLFONT00, "U_USUALBTLFONT00", "U_USUALBTLFONT00_EU");
+					Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_USUALBTLFONT01, "U_USUALBTLFONT01");
+					Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_USUALLOAD00, "U_USUALLOAD00");
+					Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_USUALLOAD01, "U_USUALLOAD01");
+					Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_USUALFIEINFO02, "U_USUALFIEINFO02");
 				});
 			});
 		}
