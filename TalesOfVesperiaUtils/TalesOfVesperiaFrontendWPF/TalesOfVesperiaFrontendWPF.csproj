@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F152F23B-CF41-442D-B79C-8DD055D0DE86}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TalesOfVesperiaFrontendWPF</RootNamespace>
     <AssemblyName>TalesOfVesperiaFrontendWPF</AssemblyName>
@@ -37,19 +37,12 @@
   <PropertyGroup>
     <ApplicationIcon>tov.ico</ApplicationIcon>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CSharpUtils">
-      <HintPath>..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils\bin\Release\CSharpUtils.dll</HintPath>
-    </Reference>
-    <Reference Include="CSharpUtils.Drawing">
-      <HintPath>..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Drawing\bin\Release\CSharpUtils.Drawing.dll</HintPath>
-    </Reference>
-    <Reference Include="CSharpUtils.Ext">
-      <HintPath>..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Ext\bin\Release\CSharpUtils.Ext.dll</HintPath>
-    </Reference>
-    <Reference Include="CSharpUtils.Vfs">
-      <HintPath>..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Vfs\bin\Release\CSharpUtils.Vfs.dll</HintPath>
-    </Reference>
+    <Reference Include="Microsoft.Expression.Effects, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Expression.Interactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -59,12 +52,6 @@
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Xaml">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
-    </Reference>
-    <Reference Include="TalesOfVesperiaTranslationEngine">
-      <HintPath>..\TalesOfVesperiaTranslationEngine\bin\Release\TalesOfVesperiaTranslationEngine.dll</HintPath>
-    </Reference>
-    <Reference Include="TalesOfVesperiaUtils">
-      <HintPath>..\TalesOfVesperiaUtils\bin\Release\TalesOfVesperiaUtils.dll</HintPath>
     </Reference>
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
@@ -119,7 +106,36 @@
     <Resource Include="img\bg.jpg" />
     <Resource Include="tov.ico" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Drawing\CSharpUtils.Drawing.csproj">
+      <Project>{9b217880-48ae-43b6-ae1f-dc732fccbc7a}</Project>
+      <Name>CSharpUtils.Drawing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Ext\CSharpUtils.Ext.csproj">
+      <Project>{c017fbbe-ef10-4030-a69e-204e766c8f9d}</Project>
+      <Name>CSharpUtils.Ext</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Vfs\CSharpUtils.Vfs.csproj">
+      <Project>{49f6b357-35ae-498a-9e5a-67aa62a327c6}</Project>
+      <Name>CSharpUtils.Vfs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils\CSharpUtils.csproj">
+      <Project>{746fadf2-d613-4ffd-8551-2181adae3cd1}</Project>
+      <Name>CSharpUtils</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Blend4PatcherAnimation\Blend4PatcherAnimation.csproj">
+      <Project>{6111ecb4-7634-4f87-b080-51f5d798983f}</Project>
+      <Name>Blend4PatcherAnimation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TalesOfVesperiaTranslationEngine\TalesOfVesperiaTranslationEngine.csproj">
+      <Project>{4b155ade-e14a-402d-89cb-2d4a85944bf3}</Project>
+      <Name>TalesOfVesperiaTranslationEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TalesOfVesperiaUtils\TalesOfVesperiaUtils.csproj">
+      <Project>{26b46dd3-ff59-4701-bc09-1e793d05dbee}</Project>
+      <Name>TalesOfVesperiaUtils</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

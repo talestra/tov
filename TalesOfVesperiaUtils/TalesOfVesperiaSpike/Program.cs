@@ -363,7 +363,7 @@ namespace TalesOfVesperiaSpike
 			using (var Patcher = new Patcher(GamePath))
 			{
 				//new MapSvo(Patcher).Handle(); return;
-#if true
+#if false
 				new StringDic(Patcher).Handle();
 				new MapSvo(Patcher).Handle();
 				new UiSvo(Patcher).Handle();
