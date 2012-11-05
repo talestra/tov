@@ -75,6 +75,7 @@
     <Resource Include="img\tov-logo-glow.png" />
     <Resource Include="img\tov-logo.png" />
     <Resource Include="img\tov-ring.png" />
+    <Resource Include="img\tov-sparkle.png" />
     <Resource Include="img\tov-star.png" />
     <Resource Include="img\tov-text.png" />
   </ItemGroup>

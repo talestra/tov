@@ -54,6 +54,32 @@
 				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
 				<EasingDoubleKeyFrame KeyTime="0:0:2.5" Value="-160"/>
 			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="LogoSparkle">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="1"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.9" Value="0"/>
+			</DoubleAnimationUsingKeyFrames>
+			<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="LogoSparkle">
+				<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+				<DiscreteObjectKeyFrame KeyTime="0:0:1.9" Value="{x:Static Visibility.Hidden}"/>
+			</ObjectAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="LogoSparkle">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.9" Value="160"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="LogoSparkle">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="1.2"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.9" Value="1"/>
+			</DoubleAnimationUsingKeyFrames>
+			<DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="LogoSparkle">
+				<EasingDoubleKeyFrame KeyTime="0" Value="0.5"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="1.2"/>
+				<EasingDoubleKeyFrame KeyTime="0:0:1.9" Value="1"/>
+			</DoubleAnimationUsingKeyFrames>
 		</Storyboard>
 	</UserControl.Resources>
 	
@@ -66,7 +92,7 @@
 	<Grid x:Name="LayoutRoot">
 		<Image x:Name="Background" Source="img/bg.jpg" Stretch="Fill" d:IsLocked="True"/>
 		<Grid x:Name="ContentGrid" Background="#00000000">
-			<Image x:Name="LogoStar" Height="114" Source="img/tov-star.png" Stretch="Fill" VerticalAlignment="Top" HorizontalAlignment="Center" Width="114" Margin="0,82,0,0" RenderTransformOrigin="0.5,0.5">
+			<Image x:Name="LogoSparkle" Source="img/tov-sparkle.png" Stretch="Fill" HorizontalAlignment="Center" Width="128" Margin="0,76,0,201" RenderTransformOrigin="0.5,0.5">
 				<Image.RenderTransform>
 					<TransformGroup>
 						<ScaleTransform/>
@@ -76,12 +102,22 @@
 					</TransformGroup>
 				</Image.RenderTransform>
 			</Image>
-			<Grid x:Name="RotatingRing" Width="116" Height="116" HorizontalAlignment="Center" VerticalAlignment="Top" d:LayoutOverrides="Width, Height" Margin="0,80,0,0">
+			<Image x:Name="LogoStar" Height="114" Source="img/tov-star.png" Stretch="Fill" VerticalAlignment="Top" HorizontalAlignment="Center" Width="114" Margin="0,82,0,0" RenderTransformOrigin="0.5,0.5" d:IsLocked="True">
+				<Image.RenderTransform>
+					<TransformGroup>
+						<ScaleTransform/>
+						<SkewTransform/>
+						<RotateTransform/>
+						<TranslateTransform/>
+					</TransformGroup>
+				</Image.RenderTransform>
+			</Image>
+			<Grid x:Name="RotatingRing" Width="116" Height="116" HorizontalAlignment="Center" VerticalAlignment="Top" d:LayoutOverrides="Width, Height" Margin="0,80,0,0" d:IsLocked="True">
 				<Lib:RotatingRing/>
 			</Grid>
-			<Image x:Name="LogoImage" Source="img/tov-logo.png" Stretch="Fill" d:IsEffectDisabled="True" OpacityMask="Black" HorizontalAlignment="Center" Margin="0,63,0,145" Width="185"/>
-			<Image x:Name="LogoImageGlow" Source="img/tov-logo-glow.png" Stretch="Fill" d:IsEffectDisabled="True" OpacityMask="Black" HorizontalAlignment="Center" Margin="0,63,0,145" Width="187" Height="198"/>
-			<Image x:Name="LogoText" Height="86" RenderTransformOrigin="0.5,0.5" Source="img/tov-text.png" Margin="133,110,125,0" VerticalAlignment="Top" d:LayoutOverrides="Height">
+			<Image x:Name="LogoImage" Source="img/tov-logo.png" Stretch="Fill" d:IsEffectDisabled="True" OpacityMask="Black" HorizontalAlignment="Center" Margin="0,63,0,145" Width="185" d:IsLocked="True"/>
+			<Image x:Name="LogoImageGlow" Source="img/tov-logo-glow.png" Stretch="Fill" d:IsEffectDisabled="True" OpacityMask="Black" HorizontalAlignment="Center" Margin="0,63,0,145" Width="187" Height="198" d:IsLocked="True"/>
+			<Image x:Name="LogoText" Height="86" RenderTransformOrigin="0.5,0.5" Source="img/tov-text.png" Margin="133,110,125,0" VerticalAlignment="Top" d:LayoutOverrides="Height" d:IsLocked="True">
 				<Image.RenderTransform>
 					<TransformGroup>
 						<ScaleTransform/>
