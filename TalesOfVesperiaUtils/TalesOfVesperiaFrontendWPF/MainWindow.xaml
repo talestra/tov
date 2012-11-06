@@ -2,21 +2,29 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
 		xmlns:lib="clr-namespace:Blend4PatcherAnimation;assembly=Blend4PatcherAnimation"
-        Title="WINDOW_TITLE" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="tov.ico" SizeToContent="WidthAndHeight">
+        Title="WINDOW_TITLE" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="img/tov.ico" SizeToContent="WidthAndHeight">
     <Grid Height="443" Width="720">
         <Grid x:Name="MyGrid" HorizontalAlignment="Left" VerticalAlignment="Top" Width="720" Height="405">
             <lib:TitleScreen></lib:TitleScreen>
             <Label x:Name="BuildDate" Content="BUILD__DATE" HorizontalAlignment="Right" Margin="0" VerticalAlignment="Bottom" Width="254" Foreground="#8888AA" HorizontalContentAlignment="Right" />
         </Grid>
         <ProgressBar x:Name="Progreso" Height="31" VerticalAlignment="Bottom" Margin="0,0,232,0" Foreground="#FF310FCD"/>
-        <Button x:Name="AcercaDe" Content="_Acerca de..." HorizontalAlignment="Right" Height="31" Margin="0,0,116,0" VerticalAlignment="Bottom" Width="111"/>
-		<Button x:Name="Parchear" Content="_Parchear" HorizontalAlignment="Right" Height="31" VerticalAlignment="Bottom" Width="111" Click="Button_Click_1" FontWeight="Bold" ContextMenuService.Placement="Bottom">
-			<Button.ContextMenu>
-				<ContextMenu x:Name="PatchContextMenu" StaysOpen="false">
-					<MenuItem x:Name="PatchIso" Header="Parchear _iso..." Click="PatchIso_Click_1"/>
-					<MenuItem x:Name="PatchFolder" Header="Parchear _carpeta..." Click="PatchFolder_Click_1"/>
-				</ContextMenu>
-			</Button.ContextMenu>
-		</Button>
-	</Grid>
+        <Button x:Name="AcercaDe" Content="_Acerca de..." HorizontalAlignment="Right" Height="31" Margin="0,0,116,0" VerticalAlignment="Bottom" Width="111" Click="AcercaDe_Click"/>
+        <Button x:Name="Parchear" Content="_Parchear" HorizontalAlignment="Right" Height="31" VerticalAlignment="Bottom" Width="111" Click="Button_Click_1" FontWeight="Bold" ContextMenuService.Placement="Bottom">
+            <Button.ContextMenu>
+                <ContextMenu x:Name="PatchContextMenu" StaysOpen="false">
+                    <MenuItem x:Name="PatchIso" Header="Parchear _ISO..." Click="PatchIso_Click_1">
+                        <MenuItem.Icon>
+                            <Image Source="img/DVD.ico" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem x:Name="PatchFolder" Header="Parchear _carpeta (JTAG)..." Click="PatchFolder_Click_1">
+                        <MenuItem.Icon>
+                            <Image Source="img/Folder.ico" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </ContextMenu>
+            </Button.ContextMenu>
+        </Button>
+    </Grid>
 </Window>
