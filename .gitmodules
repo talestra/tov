@@ -1,3 +1,6 @@
 [submodule "LibsExternal/CSharpUtils"]
 	path = LibsExternal/CSharpUtils
 	url = https://github.com/soywiz/csharputils.git
+[submodule "LibsExternal/OpenFileOrFolderDialog"]
+	path = LibsExternal/OpenFileOrFolderDialog
+	url = git://github.com/scottwis/OpenFileOrFolderDialog.git
