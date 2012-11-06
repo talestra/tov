@@ -28,7 +28,7 @@ namespace TalesOfVesperiaFrontendWPF
 			this.GlassBackground(0, 0, 0, 39);
 
 			var BuildVersion = Assembly.GetExecutingAssembly().GetName().Version.ToString();
-			this.Title = String.Format("Tales of Vesperia en Español - v{0}", BuildVersion);
+			this.Title = String.Format("Tales of Vesperia en español - v{0}", BuildVersion);
 			this.BuildDate.Content = String.Format("Build {0}", RetrieveLinkerTimestamp());
         }
 
@@ -108,20 +108,36 @@ namespace TalesOfVesperiaFrontendWPF
 			var Dialog = new OpenFileDialog();
 			Dialog.Filter = "Archivos ISO (*.iso)|*.iso|Todos los archivos (*.*)|*.*";
 			Dialog.Title = "Elige la ISO de la versión PAL del Tales of Vesperia";
-			if (Dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
-			{
-				PatchThread.Run(Dialog.FileName);
-			}
+            if (Dialog.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
+
+            var SDialog = new SaveFileDialog();
+            SDialog.Filter = "Archivos ISO (*.iso)|*.iso";
+            SDialog.Title = "Elige dónde quieres guardar la versión traducida del Tales of Vesperia";
+            SDialog.FileName = "Tales of Vesperia [PAL] [Español].iso";
+            if (SDialog.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
+
+            PatchThread.Run(Dialog.FileName, SDialog.FileName);
 		}
 
 		private void PatchFolder_Click_1(object sender, RoutedEventArgs e)
 		{
 			var Dialog = new FolderBrowserDialog();
-			Dialog.Description = "Elige la carpeta de Tales of Vesperia extraída (para JTAG)";
-			if (Dialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
-			{
-				PatchThread.Run(Dialog.SelectedPath);
-			}
+			Dialog.Description = "Elige la carpeta con los archivos del Tales of Vesperia extraídos (para JTAG).";
+            Dialog.ShowNewFolderButton = false;
+            if (Dialog.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
+
+            var SDialog = new SaveFileDialog();
+            SDialog.Filter = "Archivos ISO (*.iso)|*.iso";
+            SDialog.Title = "Elige dónde quieres guardar la versión traducida del Tales of Vesperia";
+            SDialog.FileName = "Tales of Vesperia [PAL] [Español].iso";
+            if (SDialog.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
+
+            PatchThread.Run(Dialog.SelectedPath, SDialog.FileName, true);
 		}
+
+        private void AcercaDe_Click(object sender, RoutedEventArgs e)
+        {
+            new AboutForm().ShowDialog();
+        }
     }
 }
