@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TalesOfVesperiaUtils.Imaging;
 
-namespace TalesOfVesperiaTranslationEngine.EffectSvo
+namespace TalesOfVesperiaTranslationEngine.Components
 {
 	public class EffectSvo : PatcherComponent
 	{

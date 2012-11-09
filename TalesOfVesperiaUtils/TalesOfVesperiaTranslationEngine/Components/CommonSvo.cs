@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using TalesOfVesperiaUtils.Formats.Packages;
 using TalesOfVesperiaUtils.VirtualFileSystem;
 
-namespace TalesOfVesperiaTranslationEngine.CommonSvo
+namespace TalesOfVesperiaTranslationEngine.Components
 {
 	public class CommonSvo : PatcherComponent
 	{

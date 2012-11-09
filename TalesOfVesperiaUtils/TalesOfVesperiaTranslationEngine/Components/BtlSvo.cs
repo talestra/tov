@@ -13,7 +13,7 @@ using TalesOfVesperiaUtils.Formats.Script;
 using TalesOfVesperiaUtils.Imaging;
 using TalesOfVesperiaUtils.VirtualFileSystem;
 
-namespace TalesOfVesperiaTranslationEngine.BtlSvo
+namespace TalesOfVesperiaTranslationEngine.Components
 {
 	public class BtlSvo : PatcherComponent
 	{

@@ -11,7 +11,7 @@ using TalesOfVesperiaUtils.Formats.Packages;
 using TalesOfVesperiaUtils.Imaging;
 using TalesOfVesperiaUtils.VirtualFileSystem;
 
-namespace TalesOfVesperiaTranslationEngine.UiSvo
+namespace TalesOfVesperiaTranslationEngine.Components
 {
 	public class UiSvo : PatcherComponent
 	{
