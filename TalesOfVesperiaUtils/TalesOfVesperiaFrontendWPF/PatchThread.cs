@@ -11,6 +11,7 @@ using System.IO;
 using TalesOfVesperiaTranslationEngine;
 using TalesOfVesperiaTranslationEngine.Components;
 using TalesOfVesperiaUtils.VirtualFileSystem;
+using System.Diagnostics;
 
 namespace TalesOfVesperiaFrontendWPF
 {
@@ -32,63 +33,81 @@ namespace TalesOfVesperiaFrontendWPF
                 try
                 {
                     MainWindow.InProgress = true;
-                  
-                    //throw (new Exception("Test ERROR!"));
 
-                    var Patcher = new Patcher((string)null);
-                    var PatchAll = new PatchAll(Patcher);
-
-                    if (!UseJTAGFolder)
+                    TryCatchIfNotDebugger(() =>
                     {
-                        var Iso = new Dvd9Xbox360FileSystem(File.OpenRead(OriginalGamePath));
-                        PatchAll.CheckFileSystemVesperiaExceptions(Iso);
-                    }
+                        //throw (new Exception("Test ERROR!"));
 
-                    Patcher.Progress += (ProgressHandler) =>
-                    {
-                        OnProgress(ProgressHandler);
-                    };
+                        var Patcher = new Patcher((string)null);
+                        var PatchAll = new PatchAll(Patcher);
 
-                    if (!UseJTAGFolder)
-                    {
-                        Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("Preparing for patching", () =>
+                        if (!UseJTAGFolder)
                         {
-                            Patcher.ProgressHandler.AddProgressLevel("Copying ISO...", 1, () =>
+                            var Iso = new Dvd9Xbox360FileSystem(File.OpenRead(OriginalGamePath));
+                            PatchAll.CheckFileSystemVesperiaExceptions(Iso);
+                        }
+
+                        Patcher.Progress += (ProgressHandler) =>
+                        {
+                            OnProgress(ProgressHandler);
+                        };
+
+                        if (!UseJTAGFolder)
+                        {
+                            Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("Preparing for patching", () =>
                             {
-                                Console.WriteLine("Copying ISO...");
-                                if (!File.Exists(TranslatedGamePath) || (new FileInfo(TranslatedGamePath).Length != new FileInfo(OriginalGamePath).Length))
+                                Patcher.ProgressHandler.AddProgressLevel("Copying ISO...", 1, () =>
                                 {
-                                    using (var In = File.OpenRead(OriginalGamePath))
-                                    using (var Out = File.Open(TranslatedGamePath, FileMode.Create, FileAccess.Write, FileShare.None))
+                                    Console.WriteLine("Copying ISO...");
+                                    if (!File.Exists(TranslatedGamePath) || (new FileInfo(TranslatedGamePath).Length != new FileInfo(OriginalGamePath).Length))
                                     {
-                                        Out.WriteStream(In, (Current, Total) =>
+                                        using (var In = File.OpenRead(OriginalGamePath))
+                                        using (var Out = File.Open(TranslatedGamePath, FileMode.Create, FileAccess.Write, FileShare.None))
                                         {
-                                            //Console.WriteLine("{0}%", ((double)Current / (double)Total) * 100);
-                                            Patcher.ProgressHandler.SetLevelProgressTo(Current, Total);
-                                        });
+                                            Out.WriteStream(In, (Current, Total) =>
+                                            {
+                                                //Console.WriteLine("{0}%", ((double)Current / (double)Total) * 100);
+                                                Patcher.ProgressHandler.SetLevelProgressTo(Current, Total);
+                                            });
+                                        }
                                     }
-                                }
-                                Console.WriteLine("Done");
+                                    Console.WriteLine("Done");
+                                });
                             });
-                        });
-                    }
+                        }
 
-                    Patcher.InitWithGamePath(TranslatedGamePath);
-                    PatchAll.CheckFileSystemVesperiaExceptions(Patcher.GameFileSystem);
-                    PatchAll.Handle();
+                        Patcher.InitWithGamePath(TranslatedGamePath);
+                        PatchAll.CheckFileSystemVesperiaExceptions(Patcher.GameFileSystem);
+                        PatchAll.Handle();
 
-                    MessageBox.Show("¡Ya se ha traducido Tales of Vesperia al español!", "¡Felicidades!", MessageBoxButton.OK, MessageBoxImage.Information);
-                }
-                catch (Exception Exception)
-                {
-                    Console.Error.WriteLine(Exception);
-                    MessageBox.Show(Exception.ToString(), "Hubo un error. Se ha borrado System32 sin querer.", MessageBoxButton.OK, MessageBoxImage.Error);
+                        MessageBox.Show("¡Ya se ha traducido Tales of Vesperia al español!", "¡Felicidades!", MessageBoxButton.OK, MessageBoxImage.Information);
+                    });
                 }
                 finally
                 {
                     MainWindow.InProgress = false;
                 }
             });
+        }
+
+        static private void TryCatchIfNotDebugger(Action Action)
+        {
+            if (Debugger.IsAttached)
+            {
+                Action();
+            }
+            else
+            {
+                try
+                {
+                    Action();
+                }
+                catch (Exception Exception)
+                {
+                    Console.Error.WriteLine(Exception);
+                    MessageBox.Show(Exception.ToString(), "Hubo un error. Se ha borrado System32 sin querer.", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+            }
         }
     }
 }

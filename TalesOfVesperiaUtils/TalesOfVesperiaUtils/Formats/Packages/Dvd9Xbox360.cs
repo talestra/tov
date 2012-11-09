@@ -173,8 +173,9 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 					var Parts = Path.Replace('\\', '/').Split(new char[] { '/' });
 					Entry That = this;
 					int PartIndex = 0;
-					foreach (var Part in Parts)
+					foreach (var _Part in Parts)
 					{
+                        var Part = Dvd9Xbox360.NormalizeEntryName(_Part);
 						switch (Part)
 						{
 							case "":
@@ -303,7 +304,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 #if DEBUG_ISO_LOADING
 				Console.Error.WriteLine("--- {0}", Entry.Name);
 #endif
-				EntryParent.ChildsByName.Add(Entry.Name, Entry);
+				EntryParent.ChildsByName.Add(NormalizeEntryName(Entry.Name), Entry);
 #if DEBUG_ISO_LOADING
 				Console.WriteLine(Entry);
 #endif
@@ -314,5 +315,14 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				LoadProcessNode(IsoStream, RootStream, RightNodeOffset, EntryParent, Level + 1);
 			}
 		}
+
+        static private string NormalizeEntryName(string Name)
+        {
+#if DVD9XBOX_CASE_SENSITIVE_FS
+            return Name;
+#else
+            return Name.ToLowerInvariant();
+#endif
+        }
 	}
 }
