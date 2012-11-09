@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 
 namespace TalesOfVesperiaFrontendWPF
 {
@@ -16,7 +18,26 @@ namespace TalesOfVesperiaFrontendWPF
         {
             Console.WriteLine("Starting...");
             AppDomain.CurrentDomain.AssemblyResolve += OnResolveAssembly;
-            App.Main();
+
+#if true
+            if (Debugger.IsAttached)
+            {
+                App.Main();
+            }
+            else
+#endif
+            {
+                try
+                {
+                    //throw(new Exception("Test Error"));
+                    App.Main();
+                }
+                catch (Exception Exception)
+                {
+                    MessageBox.Show(Exception.ToString(), "Fatal Error", MessageBoxButton.OK, MessageBoxImage.Error, MessageBoxResult.OK, MessageBoxOptions.None);
+                    Environment.Exit(-1);
+                }
+            }
         }
 
         private static Assembly OnResolveAssembly(object sender, ResolveEventArgs args)

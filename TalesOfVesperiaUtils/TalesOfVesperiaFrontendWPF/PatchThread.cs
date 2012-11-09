@@ -56,6 +56,16 @@ namespace TalesOfVesperiaFrontendWPF
                         {
                             Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("Preparing for patching", () =>
                             {
+                                //LayerBreak=1913760
+                                //s-tov.iso
+
+                                var TranslatedGameDvdPath = System.IO.Path.ChangeExtension(TranslatedGamePath, ".dvd");
+
+                                File.WriteAllLines(TranslatedGameDvdPath, new[] {
+                                    "LayerBreak=1913760",
+                                    System.IO.Path.GetFileName(TranslatedGamePath),
+                                });
+
                                 Patcher.ProgressHandler.AddProgressLevel("Copying ISO...", 1, () =>
                                 {
                                     Console.WriteLine("Copying ISO...");
