@@ -13,7 +13,14 @@ namespace TalesOfVesperiaTranslationEngine.Components
 		{
 		}
 
-		public void Handle()
+        public void Handle()
+        {
+            Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("chara.svo",
+                Handle1
+            );
+        }
+
+		private void Handle1()
 		{
             Patcher.ProgressHandler.AddProgressLevel("chara.svo", 3, () =>
             {

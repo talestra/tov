@@ -22,19 +22,26 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
 		public void Handle()
 		{
-			Patcher.GameAccessPath("ui.svo", () =>
-			{
-				HandleFont();
-				HandleImages();
-			});
+            this.Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("ui.svo", new Action[] {
+                this.Handle1
+            });
 		}
 
-		public void HandleFont()
+        private void Handle1()
+        {
+            Patcher.GameAccessPath("ui.svo", () =>
+            {
+                HandleFont();
+                HandleImages();
+            });
+        }
+
+		private void HandleFont()
 		{
 			// Font
 			Patcher.GameGetTXM("FONTTEX10.TXM", "FONTTEX10.TXV", (Txm) =>
 			{
-				Patcher.PatcherGetImage("Data/FONTTEX10.FONTTEX10.15.png", (Bitmap) =>
+				Patcher.PatcherGetImage(PatchPaths.FONTTEXT10_15, (Bitmap) =>
 				{
 					var Entry = Txm.Surface3DEntries[0];
 
@@ -45,7 +52,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
 		}
 
-		public void HandleImages()
+        private void HandleImages()
 		{
 			Patcher.Action("Patching Images...", () =>
 			{

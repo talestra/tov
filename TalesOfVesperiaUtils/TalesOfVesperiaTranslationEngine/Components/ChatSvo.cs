@@ -17,7 +17,14 @@ namespace TalesOfVesperiaTranslationEngine.Components
 		{
 		}
 
-		public void Handle()
+        public void Handle()
+        {
+            Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("chat.svo",
+                Handle1
+            );
+        }
+
+		private void Handle1()
 		{
 			Patcher.Action("chat.svo", () =>
 			{
@@ -29,53 +36,59 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
 				Patcher.Action("Translating Skits...", () =>
 				{
-					Patcher.ParallelForeach("Translating", OriginalChatSvo, (ChatSvoEntry) => ChatSvoEntry.Name, (ChatSvoEntry) =>
-					{
-						var Match = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+B?)(UK)\.DAT$");
-						if (Match == null) return;
+                    Patcher.ProgressHandler.AddProgressLevel("Translating Skits...", OriginalChatSvo.Count(), () =>
+                    {
+                        Patcher.ParallelForeach("Translating", OriginalChatSvo, (ChatSvoEntry) => ChatSvoEntry.Name, (ChatSvoEntry) =>
+                        {
+                            var Match = ChatSvoEntry.Name.RegexMatch(@"^(VC\d+B?)(UK)\.DAT$");
+                            if (Match != null)
+                            {
+                                var CompleteFile = Match[0].Value;
+                                var ChatId = Match[1].Value;
+                                var EsFile = PreppendTempFile + ChatId + "ES.DAT";
 
-						var CompleteFile = Match[0].Value;
-						var ChatId = Match[1].Value;
-						var EsFile = PreppendTempFile + ChatId + "ES.DAT";
+                                Console.WriteLine("{0}...", ChatId);
 
-						Console.WriteLine("{0}...", ChatId);
+                                if (!Patcher.TempFS.Exists(EsFile))
+                                {
+                                    var Fps4 = new FPS4(TalesCompression.DecompressStream(OriginalChatSvo[CompleteFile].Open()));
+                                    {
+                                        var Chtx = new TO8CHTX();
+                                        Chtx.Load(Fps4["3"].Open());
+                                        // Translate
+                                        {
+                                            foreach (var Entry in Patcher.EntriesByRoom["skits/" + ChatId].Values)
+                                            {
+                                                int TextId = int.Parse(Entry.text_id) - 1;
+                                                if (TextId >= 0)
+                                                {
+                                                    //Chtx[TextId].Title = "";
+                                                    //Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0].TrimEnd(' ', '\t', '\n', '\r', '.'));
+                                                    //Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0]);
+                                                    Chtx[TextId].Title = "";
+                                                    Chtx[TextId].TextOriginal = "";
+                                                    Chtx[TextId].TextTranslated = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].TextTranslated, Entry.texts.es[1]);
+                                                }
+                                            }
+                                        }
+                                        //ChtxStream.SetLength(0);
+                                        var ChtxStream = new MemoryStream();
+                                        Chtx.SaveTo(ChtxStream);
+                                        ChtxStream.Position = 0;
+                                        Fps4["3"].SetStream(ChtxStream);
+                                    }
+                                    Patcher.TempFS.WriteAllBytes(EsFile, TalesCompression.CreateFromVersion(Patcher.CompressionVersion, Patcher.CompressionFallback).EncodeBytes(Fps4.Save(false).ToArray()));
+                                    Console.WriteLine("{0}...Ok", ChatId);
+                                }
+                                else
+                                {
+                                    Console.WriteLine("{0}...Exists", ChatId);
+                                }
+                            }
 
-						if (!Patcher.TempFS.Exists(EsFile))
-						{
-							var Fps4 = new FPS4(TalesCompression.DecompressStream(OriginalChatSvo[CompleteFile].Open()));
-							{
-								var Chtx = new TO8CHTX();
-								Chtx.Load(Fps4["3"].Open());
-								// Translate
-								{
-									foreach (var Entry in Patcher.EntriesByRoom["skits/" + ChatId].Values)
-									{
-										int TextId = int.Parse(Entry.text_id) - 1;
-										if (TextId >= 0)
-										{
-											//Chtx[TextId].Title = "";
-											//Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0].TrimEnd(' ', '\t', '\n', '\r', '.'));
-											//Chtx[TextId].Title = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].Title, Entry.texts.es[0]);
-											Chtx[TextId].Title = "";
-											Chtx[TextId].TextOriginal = "";
-											Chtx[TextId].TextTranslated = TextProcessor.Instance.ProcessAndDetectPitfalls(Chtx[TextId].TextTranslated, Entry.texts.es[1]);
-										}
-									}
-								}
-								//ChtxStream.SetLength(0);
-								var ChtxStream = new MemoryStream();
-								Chtx.SaveTo(ChtxStream);
-								ChtxStream.Position = 0;
-								Fps4["3"].SetStream(ChtxStream);
-							}
-							Patcher.TempFS.WriteAllBytes(EsFile, TalesCompression.CreateFromVersion(Patcher.CompressionVersion, Patcher.CompressionFallback).EncodeBytes(Fps4.Save(false).ToArray()));
-							Console.WriteLine("{0}...Ok", ChatId);
-						}
-						else
-						{
-							Console.WriteLine("{0}...Exists", ChatId);
-						}
-					});
+                            Patcher.ProgressHandler.IncrementLevelProgress();
+                        });
+                    });
 				});
 
 				Patcher.Action("Building Spanish chat.svo...", () =>
