@@ -159,8 +159,20 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
                 //Patcher.GameFileSystem.ReplaceFileWithStream("language/scenario_de.dat", ScenarioEsStream.Slice());
                 //Patcher.GameFileSystem.ReplaceFileWithStream("language/scenario_fr.dat", ScenarioEsStream.Slice());
-                Patcher.GameFileSystem.ReplaceFileWithStream("language/scenario_uk.dat", ScenarioEsStream.Slice());
-                Patcher.GameFileSystem.ReplaceFileWithStream("language/scenario_us.dat", ScenarioEsStream.Slice());
+                Patcher.ProgressHandler.AddProgressLevel("Updating scenario_uk.dat", 1, () =>
+                {
+                    Patcher.GameFileSystem.ReplaceFileWithStream("language/scenario_uk.dat", ScenarioEsStream.Slice(), (Current, Total) =>
+                    {
+                        Patcher.ProgressHandler.SetLevelProgressTo(Current, Total);
+                    });
+                });
+                Patcher.ProgressHandler.AddProgressLevel("Updating scenario_us.dat", 1, () =>
+                {
+                    Patcher.GameFileSystem.ReplaceFileWithStream("language/scenario_us.dat", ScenarioEsStream.Slice(), (Current, Total) =>
+                    {
+                        Patcher.ProgressHandler.SetLevelProgressTo(Current, Total);
+                    });
+                });
             });
         }
 

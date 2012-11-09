@@ -63,7 +63,7 @@ namespace TalesOfVesperiaTranslationEngine
         public string GetLevelDescriptionChain(int Level)
         {
             string Description = GetLevelDescription(Level);
-            if (Level < CurrentProgressLevel - 1)
+            if (Level < CurrentProgressLevel)
             {
                 Description += " / " + GetLevelDescriptionChain(Level + 1);
             }
@@ -94,12 +94,26 @@ namespace TalesOfVesperiaTranslationEngine
             }
         }
 
+        public void SetLevelProgressTo(long NewValue, long NewTotal = -1)
+        {
+            lock (this)
+            {
+                var Level = this.GetLevel(CurrentProgressLevel);
+                Level.Current = NewValue;
+                if (NewTotal != -1)
+                {
+                    Level.Total = NewTotal;
+                }
+                this.ProgressUpdated();
+            }
+        }
+
         private void ProgressUpdated()
         {
             if (OnProgressUpdated != null) OnProgressUpdated();
         }
 
-        public void AddProgressLevel(string Description, int Total, Action Action)
+        public void AddProgressLevel(string Description, long Total, Action Action)
         {
             this.CurrentProgressLevel++;
             this.SetLevelTotal(Description, Total);
