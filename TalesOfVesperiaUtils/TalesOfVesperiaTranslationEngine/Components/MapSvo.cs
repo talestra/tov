@@ -108,6 +108,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
             this.Patcher.ProgressHandler.AddProgressLevel("Compressing Rooms", RoomCount, () =>
             {
                 var NewTO8SCEL = new TO8SCEL();
+
                 Patcher.ParallelForeach("Compressing Room", Iterators.IntRange(0, RoomCount - 1), (RoomId) => RoomId.ToString(), (RoomId) =>
                 {
                     this.Patcher.ProgressHandler.IncrementLevelProgress();
