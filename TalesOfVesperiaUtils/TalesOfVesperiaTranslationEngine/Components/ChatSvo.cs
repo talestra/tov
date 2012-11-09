@@ -8,7 +8,7 @@ using TalesOfVesperiaUtils.Compression;
 using TalesOfVesperiaUtils.Formats.Packages;
 using TalesOfVesperiaUtils.Text;
 
-namespace TalesOfVesperiaTranslationEngine.ChatSvo
+namespace TalesOfVesperiaTranslationEngine.Components
 {
 	public class ChatSvo : PatcherComponent
 	{

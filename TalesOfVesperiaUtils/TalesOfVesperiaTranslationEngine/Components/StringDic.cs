@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TalesOfVesperiaUtils.Formats.Script;
 
-namespace TalesOfVesperiaTranslationEngine.StringDic
+namespace TalesOfVesperiaTranslationEngine.Components
 {
 	public class StringDic : PatcherComponent
 	{

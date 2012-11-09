@@ -11,7 +11,7 @@ using TalesOfVesperiaUtils.Formats.Packages;
 using TalesOfVesperiaUtils.Formats.Script;
 using TalesOfVesperiaUtils.VirtualFileSystem;
 
-namespace TalesOfVesperiaTranslationEngine.MapSvo
+namespace TalesOfVesperiaTranslationEngine.Components
 {
 	public class MapSvo : PatcherComponent
 	{

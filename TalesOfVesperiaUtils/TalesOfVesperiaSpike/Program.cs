@@ -12,18 +12,11 @@ using ProtoBuf;
 using Newtonsoft.Json;
 using TalesOfVesperiaUtils.Compression;
 using CSharpUtils.Streams;
-using TalesOfVesperiaTranslationEngine.CommonSvo;
+using TalesOfVesperiaTranslationEngine.Components;
 using CSharpUtils.VirtualFileSystem;
 using CSharpUtils.VirtualFileSystem.Local;
-using TalesOfVesperiaTranslationEngine.UiSvo;
-using TalesOfVesperiaTranslationEngine.BtlSvo;
 using TalesOfVesperiaUtils;
-using TalesOfVesperiaTranslationEngine.EffectSvo;
-using TalesOfVesperiaTranslationEngine.CharaSvo;
 using TalesOfVesperiaUtils.VirtualFileSystem;
-using TalesOfVesperiaTranslationEngine.ChatSvo;
-using TalesOfVesperiaTranslationEngine.MapSvo;
-using TalesOfVesperiaTranslationEngine.StringDic;
 
 #if false
 namespace TalesOfVesperiaSpike

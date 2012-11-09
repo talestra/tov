@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TalesOfVesperiaTranslationEngine.CharaSvo
+namespace TalesOfVesperiaTranslationEngine.Components
 {
 	public class CharaSvo : PatcherComponent
 	{
