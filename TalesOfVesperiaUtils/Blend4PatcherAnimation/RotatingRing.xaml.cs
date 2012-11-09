@@ -1,5 +1,4 @@
-﻿using Microsoft.Expression.Interactivity.Core;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
@@ -22,7 +21,7 @@ namespace Blend4PatcherAnimation
 		public RotatingRing()
 		{
 			this.InitializeComponent();
-			ExtendedVisualStateManager.GoToElementState(this.LayoutRoot, "StartAnimation", true);
+			VisualStateManager.GoToElementState(this.LayoutRoot, "StartAnimation", true);
 		}
 	}
 }

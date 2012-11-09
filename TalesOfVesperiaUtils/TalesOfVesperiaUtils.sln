@@ -480,7 +480,4 @@ Global
 		{619EB3AA-D266-45B9-A876-0C96A780C02E} = {DACB216B-BD31-4290-B01F-7C301949AB1E}
 		{6B08F2EC-28FF-4444-BC3E-7B3CD18DE593} = {DACB216B-BD31-4290-B01F-7C301949AB1E}
 	EndGlobalSection
-	GlobalSection(Performance) = preSolution
-		HasPerformanceSessions = true
-	EndGlobalSection
 EndGlobal

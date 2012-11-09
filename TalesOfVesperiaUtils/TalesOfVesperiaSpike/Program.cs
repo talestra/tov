@@ -350,34 +350,56 @@ namespace TalesOfVesperiaSpike
 	{
 		static void Main2(string[] Args)
 		{
-			string GamePath = @"F:\GAMES\vesperia";
-			if (!Directory.Exists(GamePath)) GamePath = @"E:\isos\360\vesperia";
+			string GamePath = null;
 
-			{
-				//File.Copy(@"C:\temp\effect.svo.bak", @"C:\temp\effect.svo", true);
-				//GamePath = @"c:\temp";
-			}
+            foreach (var _GamePath in new[]
+            {
+                @"F:\GAMES\vesperia",
+                @"E:\isos\360\vesperia",
+            }) {
+                if (Directory.Exists(_GamePath))
+                {
+                    GamePath = _GamePath;
+                    break;
+                }
+            }
 
 			Console.WriteLine("GamePath: '{0}'", GamePath);
 
-			using (var Patcher = new Patcher(GamePath))
-			{
-				//new MapSvo(Patcher).Handle(); return;
+            if (GamePath != null)
+            {
+                using (var Patcher = new Patcher(GamePath))
+                {
+                    //new MapSvo(Patcher).Handle(); return;
 #if false
 				new StringDic(Patcher).Handle();
 				new MapSvo(Patcher).Handle();
 				new UiSvo(Patcher).Handle();
 #else
-				new StringDic(Patcher).Handle();
-				new MapSvo(Patcher).Handle();
-				new CharaSvo(Patcher).Handle();
-				new BtlSvo(Patcher).Handle();
-				new EffectSvo(Patcher).Handle();
-				new UiSvo(Patcher).Handle();
-				new CommonSvo(Patcher).Handle();
-				new ChatSvo(Patcher).Handle();
+                    Patcher.Progress += (Progress) =>
+                    {
+                        Console.WriteLine(
+                            "Progress: {0}:{1:###}%, {2}:{3:###}%",
+                            Progress.GetLevelDescription(0),
+                            Progress.GetProcessedLevelProgress(0) * 100,
+                            Progress.GetLevelDescriptionChain(1),
+                            Progress.GetProcessedLevelProgress(1) * 100
+                        );
+                    };
+
+                    Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("Game",
+                        new StringDic(Patcher).Handle,
+                        new MapSvo(Patcher).Handle,
+                        new CharaSvo(Patcher).Handle,
+                        new BtlSvo(Patcher).Handle,
+                        new EffectSvo(Patcher).Handle,
+                        new UiSvo(Patcher).Handle,
+                        new CommonSvo(Patcher).Handle,
+                        new ChatSvo(Patcher).Handle
+                    );
 #endif
-			}
+                }
+            }
 		}
 
 		static public void ExtractIsoToFolder(string SourceIsoPath, string DestExtractPath)
