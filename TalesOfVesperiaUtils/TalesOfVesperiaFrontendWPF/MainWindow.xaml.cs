@@ -118,6 +118,12 @@ namespace TalesOfVesperiaFrontendWPF
                     LocalProgress.Value = 0;
                     LocalProgress.Maximum = 0;
                     LocalProgressText.Text = "";
+
+                    this.TaskbarItemInfo = new TaskbarItemInfo()
+                    {
+                        ProgressValue = 0,
+                        ProgressState = TaskbarItemProgressState.None,
+                    };
                 }
                 else
                 {

@@ -73,7 +73,13 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
         private void Handle3()
         {
-            Patcher.GameFileSystem.ReplaceFileWithStream("language/string_dic_uk.so", Patcher.TempFS.OpenFileRead("string_dic_es.so"));
+            Patcher.ProgressHandler.AddProgressLevel("Replace string_dic_uk.so", 1, () =>
+            {
+                Patcher.GameFileSystem.ReplaceFileWithStream("language/string_dic_uk.so", Patcher.TempFS.OpenFileRead("string_dic_es.so"), (Current, Total) =>
+                {
+                    Patcher.ProgressHandler.SetLevelProgressTo(Current, Total);
+                });
+            });
         }
 	}
 }
