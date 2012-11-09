@@ -252,12 +252,15 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 		public Entry CreateEntry(int Id, Stream CompressedStream, Stream UncompressedStream)
 		{
-			var EntryStruct = default(EntryStruct);
-			var Entry = new Entry(this, EntryStruct, Id);
-			Entry.CompressedStream = CompressedStream;
-			Entry.UncompressedStream = UncompressedStream;
-			while (Entries.Count <= Id) Entries.Add(new Entry(this, default(EntryStruct), Entries.Count));
-			return Entries[Id] = Entry;
+            lock (this)
+            {
+                var EntryStruct = default(EntryStruct);
+                var Entry = new Entry(this, EntryStruct, Id);
+                Entry.CompressedStream = CompressedStream;
+                Entry.UncompressedStream = UncompressedStream;
+                while (Entries.Count <= Id) Entries.Add(new Entry(this, default(EntryStruct), Entries.Count));
+                return Entries[Id] = Entry;
+            }
 		}
 	}
 }
