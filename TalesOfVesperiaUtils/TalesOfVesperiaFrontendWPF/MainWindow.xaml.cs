@@ -22,6 +22,27 @@ namespace TalesOfVesperiaFrontendWPF
     /// </summary>
     public partial class MainWindow : Window
     {
+        private bool _InProgress = false;
+        public bool InProgress
+        {
+            get
+            {
+                return _InProgress;
+            }
+            set
+            {
+                _InProgress = value;
+                if (_InProgress == false)
+                {
+                    UpdateProgress(null);
+                }
+                Dispatcher.Invoke(() =>
+                {
+                    Parchear.IsEnabled = !_InProgress;
+                });
+            }
+        }
+
         public MainWindow()
         {
             InitializeComponent();
@@ -84,18 +105,45 @@ namespace TalesOfVesperiaFrontendWPF
             File.WriteAllBytes(OutputFile, data);
         }*/
 
-        void UpdateProgress(long Current, long Total, TaskbarItemProgressState State)
+        void UpdateProgress(ProgressHandler ProgressHandler)
         {
-			this.Dispatcher.Invoke(() =>
-			{
-				Progreso.Value = Total;
+            this.Dispatcher.Invoke(() =>
+            {
+                if (ProgressHandler == null)
+                {
+                    GlobalProgress.Value = 0;
+                    GlobalProgress.Maximum = 0;
+                    GlobalProgressText.Text = "";
 
-				TaskbarItemInfo tb = new TaskbarItemInfo();
-				tb.ProgressValue = (double)Current / (double)Total;
-				tb.ProgressState = State;
+                    LocalProgress.Value = 0;
+                    LocalProgress.Maximum = 0;
+                    LocalProgressText.Text = "";
+                }
+                else
+                {
+                    var GlobalValue = ProgressHandler.GetProcessedLevelProgress(0);
+                    var GlobalText = ProgressHandler.GetLevelDescription(0);
 
-				this.TaskbarItemInfo = tb;
-			});
+                    //var LocalValue = ProgressHandler.GetProcessedLevelProgress(1);
+                    //var LocalText = ProgressHandler.GetLevelDescriptionChain(1);
+                    var LocalValue = ProgressHandler.GetProcessedLevelProgress(ProgressHandler.GetCurrentLevelIndex());
+                    var LocalText = ProgressHandler.GetLevelDescriptionChain(1);
+
+                    GlobalProgress.Value = GlobalValue;
+                    GlobalProgress.Maximum = 1;
+                    GlobalProgressText.Text = GlobalText;
+
+                    LocalProgress.Value = LocalValue;
+                    LocalProgress.Maximum = 1;
+                    LocalProgressText.Text = LocalText;
+
+                    this.TaskbarItemInfo = new TaskbarItemInfo()
+                    {
+                        ProgressValue = GlobalValue,
+                        ProgressState = TaskbarItemProgressState.Normal,
+                    };
+                }
+            });
         }
 
 		private void ParchearPopup_LostFocus(object sender, RoutedEventArgs e)
@@ -116,7 +164,7 @@ namespace TalesOfVesperiaFrontendWPF
             SDialog.FileName = "Tales of Vesperia [PAL] [Español].iso";
             if (SDialog.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
 
-            PatchThread.Run(Dialog.FileName, SDialog.FileName);
+            PatchThread.Run(this, UpdateProgress, Dialog.FileName, SDialog.FileName, false);
 		}
 
 		private void PatchFolder_Click_1(object sender, RoutedEventArgs e)
@@ -126,18 +174,23 @@ namespace TalesOfVesperiaFrontendWPF
             Dialog.ShowNewFolderButton = false;
             if (Dialog.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
 
-            var SDialog = new SaveFileDialog();
-            SDialog.Filter = "Archivos ISO (*.iso)|*.iso";
-            SDialog.Title = "Elige dónde quieres guardar la versión traducida del Tales of Vesperia";
-            SDialog.FileName = "Tales of Vesperia [PAL] [Español].iso";
-            if (SDialog.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
-
-            PatchThread.Run(Dialog.SelectedPath, SDialog.FileName, true);
+            PatchThread.Run(this, UpdateProgress, "", Dialog.SelectedPath, true);
 		}
 
         private void AcercaDe_Click(object sender, RoutedEventArgs e)
         {
             new AboutForm().ShowDialog();
+        }
+
+        private void Window_Closing_1(object sender, CancelEventArgs e)
+        {
+            if (InProgress)
+            {
+                if (System.Windows.MessageBox.Show("¿Está seguro de que desea cancelar el proceso de parcheo?\n\nLa iso generada podría quedar inutilizada.", "Atención", MessageBoxButton.YesNo, MessageBoxImage.Warning, MessageBoxResult.No) == MessageBoxResult.No)
+                {
+                    e.Cancel = true;
+                }
+            }
         }
     }
 }

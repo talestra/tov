@@ -20,7 +20,14 @@ namespace TalesOfVesperiaTranslationEngine.Components
 		{
 		}
 
-		public void Handle()
+        public void Handle()
+        {
+            Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("effect.svo",
+                Handle1
+            );
+        }
+
+        private void Handle1()
 		{
 			Patcher.GameAccessPath("effect.svo", () =>
 			{

@@ -19,13 +19,20 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
 		public void Handle()
 		{
-			Patcher.GameAccessPath("common.svo", () =>
-			{
-				HandleTextureDat();
-			});
+            Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("common.svo",
+                Handle1
+            );
 		}
 
-		public void HandleTextureDat()
+        private void Handle1()
+        {
+            Patcher.GameAccessPath("common.svo", () =>
+            {
+                HandleTextureDat();
+            });
+        }
+
+		private void HandleTextureDat()
 		{
 			Patcher.GameAccessPath("TEXTURE.DAT", () =>
 			{

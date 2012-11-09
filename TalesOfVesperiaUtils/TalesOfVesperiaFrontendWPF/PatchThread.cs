@@ -8,14 +8,15 @@ using System.Windows;
 using System.Windows.Shapes;
 using System.Windows.Shell;
 using System.IO;
+using TalesOfVesperiaTranslationEngine;
+using TalesOfVesperiaTranslationEngine.Components;
 
 namespace TalesOfVesperiaFrontendWPF
 {
     public class PatchThread
     {
-        static public void Run(string OriginalGamePath, string TranslatedGamePath, bool UseJTAGFolder = false)
+        static public void Run(MainWindow MainWindow, Action<ProgressHandler> OnProgress, string OriginalGamePath, string TranslatedGamePath, bool UseJTAGFolder)
         {
-#if false
             //string OriginalPath = GamePath;
             //string TranslatedISOPath = System.IO.Path.Combine(System.IO.Path.GetDirectoryName(OriginalPath), "Tales of Vesperia [PAL] [Español].iso");
 
@@ -29,23 +30,21 @@ namespace TalesOfVesperiaFrontendWPF
             {
                 try
                 {
-                    this.Dispatcher.Invoke(() =>
-                    {
-                        this.Parchear.IsEnabled = false;
-                    });
+                    MainWindow.InProgress = true;
 
                     //throw (new Exception("Test ERROR!"));
 
-                    UpdateProgress(0, 100, TaskbarItemProgressState.Normal);
-                    
-                    Console.WriteLine("Copying ISO...");
-                    if (!File.Exists(TranslatedGamePath)) File.Copy(OriginalGamePath, TranslatedGamePath);
-                    Console.WriteLine("Done");
+                    if (!UseJTAGFolder)
+                    {
+                        Console.WriteLine("Copying ISO...");
+                        if (!File.Exists(TranslatedGamePath)) File.Copy(OriginalGamePath, TranslatedGamePath);
+                        Console.WriteLine("Done");
+                    }
 
                     var Patcher = new Patcher(TranslatedGamePath);
-                    Patcher.Progress += (Current, Total) =>
+                    Patcher.Progress += (ProgressHandler) =>
                     {
-                        UpdateProgress(Current, Total, TaskbarItemProgressState.Normal);
+                        OnProgress(ProgressHandler);
                     };
                     new PatchAll(Patcher).Handle();
 
@@ -67,17 +66,14 @@ namespace TalesOfVesperiaFrontendWPF
                 }
                 catch (Exception Exception)
                 {
+                    Console.Error.WriteLine(Exception);
                     MessageBox.Show(Exception.ToString(), "Hubo un error. Se ha borrado System32 sin querer.", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
                 finally
                 {
-                    this.Dispatcher.Invoke(() =>
-                    {
-                        this.Parchear.IsEnabled = true;
-                    });
+                    MainWindow.InProgress = false;
                 }
             });
-#endif
         }
     }
 }

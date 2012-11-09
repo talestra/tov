@@ -25,11 +25,11 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
 		public void Handle()
 		{
-            this.Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("Translating Main Script", new Action[] {
+            this.Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("map.svo", 
                 TranslateRooms,
                 CompressRooms,
-                ReinsertFiles,
-            });
+                ReinsertFiles
+            );
 		}
 
         private void TranslateRooms()

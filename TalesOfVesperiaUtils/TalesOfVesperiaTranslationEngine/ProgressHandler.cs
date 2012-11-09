@@ -50,6 +50,11 @@ namespace TalesOfVesperiaTranslationEngine
             return ProgressLevels[Level];
         }
 
+        public int GetCurrentLevelIndex()
+        {
+            return CurrentProgressLevel;
+        }
+
         public string GetLevelDescription(int Level)
         {
             return GetLevel(Level).Description;
@@ -58,7 +63,7 @@ namespace TalesOfVesperiaTranslationEngine
         public string GetLevelDescriptionChain(int Level)
         {
             string Description = GetLevelDescription(Level);
-            if (Level < ProgressLevels.Count - 1)
+            if (Level < CurrentProgressLevel - 1)
             {
                 Description += " / " + GetLevelDescriptionChain(Level + 1);
             }

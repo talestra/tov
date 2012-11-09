@@ -34,5 +34,7 @@ namespace TalesOfVesperiaTranslationEngine
 		public static string U_MENUBTLINFO00 = "Images/Battle/MENU.U_MENUBTLINFO00.png";
 		public static string U_MENUBTLINFO02 = "Images/Battle/MENU.U_MENUBTLINFO02.png";
 		public static string U_MENUSTR01 = "Images/MENU.U_MENUSTR01.png";
-	}
+
+        public static string FONTTEXT10_15 = "Font/FONTTEX10.FONTTEX10.15.png";
+    }
 }
