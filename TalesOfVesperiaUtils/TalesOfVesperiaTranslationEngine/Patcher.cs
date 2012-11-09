@@ -29,6 +29,7 @@ namespace TalesOfVesperiaTranslationEngine
 		public FileSystem TempFS;
 		public FileSystem PatcherDataFS;
 		private Dictionary<string, Dictionary<string, TranslationEntry>> _EntriesByRoom;
+        public ProgressHandler ProgressHandler = new ProgressHandler();
 
 		public Dictionary<string, Dictionary<string, TranslationEntry>> EntriesByRoom
 		{
@@ -122,6 +123,10 @@ namespace TalesOfVesperiaTranslationEngine
 			this.PatcherDataFS = new LocalFileSystem(PatcherPath + "/../../PatchData", false);
 			this.TempFS = new LocalFileSystem(PatcherPath + "/Temp", true);
 			this.PatchInplace = new PatchInplace(GameFileSystem);
+            this.ProgressHandler.OnProgressUpdated += () =>
+            {
+                if (Progress != null) Progress(this.ProgressHandler);
+            };
 			//JsonTranslations.JsonToProtocolBuffer();
 		}
 
@@ -224,7 +229,7 @@ namespace TalesOfVesperiaTranslationEngine
 		}
 
 		int ActionLevel = 0;
-		public event Action<long, long> Progress;
+		public event Action<ProgressHandler> Progress;
 
 		public void Action(String Description, Action Action, int OverrideActionLevel = -1)
 		{

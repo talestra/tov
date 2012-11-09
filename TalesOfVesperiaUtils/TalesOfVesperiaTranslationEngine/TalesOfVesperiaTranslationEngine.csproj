@@ -66,6 +66,7 @@
     <Compile Include="PatcherComponent.cs" />
     <Compile Include="PatchPaths.cs" />
     <Compile Include="PatchUtils.cs" />
+    <Compile Include="ProgressHandler.cs" />
     <Compile Include="StringDic\StringDic.cs" />
     <Compile Include="TranslateSkits.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -93,7 +94,9 @@
       <Name>TalesOfVesperiaUtils</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Components\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
