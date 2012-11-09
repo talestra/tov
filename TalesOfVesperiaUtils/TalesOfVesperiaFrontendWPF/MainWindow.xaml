@@ -1,7 +1,7 @@
 ﻿<Window x:Class="TalesOfVesperiaFrontendWPF.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-		xmlns:lib="clr-namespace:Blend4PatcherAnimation;assembly=Blend4PatcherAnimation"
+		xmlns:lib="clr-namespace:TalesOfVesperiaFrontendWPF"
         Title="WINDOW_TITLE" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="img/tov.ico" SizeToContent="WidthAndHeight" Closing="Window_Closing_1">
     <Grid Height="443" Width="720">
         <Grid x:Name="MyGrid" HorizontalAlignment="Left" VerticalAlignment="Top" Width="720" Height="405">

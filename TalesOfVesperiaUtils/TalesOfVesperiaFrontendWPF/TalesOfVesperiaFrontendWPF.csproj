@@ -14,6 +14,7 @@
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
     <ExpressionBlendVersion>5.0.30709.0</ExpressionBlendVersion>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -24,6 +25,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,12 +35,13 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>img\tov.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject />
+    <StartupObject>TalesOfVesperiaFrontendWPF.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -61,6 +64,12 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="RotatingRing.xaml.cs">
+      <DependentUpon>RotatingRing.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TitleScreen.xaml.cs">
+      <DependentUpon>TitleScreen.xaml</DependentUpon>
+    </Compile>
     <Page Include="AboutForm.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -81,9 +90,18 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="RotatingRing.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TitleScreen.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PatchThread.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -101,6 +119,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -130,10 +149,6 @@
       <Project>{746fadf2-d613-4ffd-8551-2181adae3cd1}</Project>
       <Name>CSharpUtils</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Blend4PatcherAnimation\Blend4PatcherAnimation.csproj">
-      <Project>{6111ecb4-7634-4f87-b080-51f5d798983f}</Project>
-      <Name>Blend4PatcherAnimation</Name>
-    </ProjectReference>
     <ProjectReference Include="..\TalesOfVesperiaTranslationEngine\TalesOfVesperiaTranslationEngine.csproj">
       <Project>{4b155ade-e14a-402d-89cb-2d4a85944bf3}</Project>
       <Name>TalesOfVesperiaTranslationEngine</Name>
@@ -146,6 +161,27 @@
   <ItemGroup>
     <Resource Include="img\DVD.ico" />
     <Resource Include="img\Folder.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\tov-logo-glow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\tov-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\tov-ring.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\tov-sparkle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\tov-star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\tov-text.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

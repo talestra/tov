@@ -7,7 +7,6 @@ using System.Windows.Interop;
 using System.Windows.Shell;
 using TalesOfVesperiaUtils.Formats.Packages;
 using TalesOfVesperiaUtils.VirtualFileSystem;
-using Blend4PatcherAnimation;
 using TalesOfVesperiaTranslationEngine;
 using System.ComponentModel;
 using System.Threading;

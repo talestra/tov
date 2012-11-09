@@ -11,17 +11,19 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Blend4PatcherAnimation
+namespace TalesOfVesperiaFrontendWPF
 {
 	/// <summary>
-	/// Interaction logic for RotatingRing.xaml
+	/// Interaction logic for MainControl.xaml
 	/// </summary>
-	public partial class RotatingRing : UserControl
+	public partial class TitleScreen
 	{
-		public RotatingRing()
+		public TitleScreen()
 		{
 			this.InitializeComponent();
-			VisualStateManager.GoToElementState(this.LayoutRoot, "StartAnimation", true);
+			//this.RotatingRing.Children.Add(new RotatingRing());
+
+            VisualStateManager.GoToElementState(this.LayoutRoot, "StartAnimation", true);
 		}
 	}
 }

@@ -120,7 +120,23 @@ namespace TalesOfVesperiaTranslationEngine
 			this.GameFileSystem = GameFileSystem;
 			this.PatcherPath = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
 			//PatcherDataFS = new LocalFileSystem(PatcherPath + "/../../Images", false);
-			this.PatcherDataFS = new LocalFileSystem(PatcherPath + "/../../PatchData", false);
+
+            foreach (var PatchDataPath in new[] {
+                PatcherPath + "/PatchData",
+                PatcherPath + "/../PatchData",
+                PatcherPath + "/../../PatchData",
+            })
+            {
+                if (Directory.Exists(PatchDataPath))
+                {
+                    this.PatcherDataFS = new LocalFileSystem(PatchDataPath, false);
+                    break;
+                }
+            }
+            if (this.PatcherDataFS == null)
+            {
+                throw(new Exception("Can't find PatchData"));
+            }
 			this.TempFS = new LocalFileSystem(PatcherPath + "/Temp", true);
 			this.PatchInplace = new PatchInplace(GameFileSystem);
             this.ProgressHandler.OnProgressUpdated += () =>
