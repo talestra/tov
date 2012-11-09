@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaUtils", "TalesOfVesperiaUtils\TalesOfVesperiaUtils.csproj", "{26B46DD3-FF59-4701-BC09-1E793D05DBEE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5794FCD4-2FE8-46B9-AE62-A5E4E7F6B4BE}"
@@ -189,7 +189,6 @@ Global
 		{39D22442-0112-4487-900F-6A8984D8B5C7}.Debug|x86.Build.0 = Debug|x86
 		{39D22442-0112-4487-900F-6A8984D8B5C7}.Release|Any CPU.ActiveCfg = Release|x86
 		{39D22442-0112-4487-900F-6A8984D8B5C7}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{39D22442-0112-4487-900F-6A8984D8B5C7}.Release|Mixed Platforms.Build.0 = Release|x86
 		{39D22442-0112-4487-900F-6A8984D8B5C7}.Release|Win32.ActiveCfg = Release|x86
 		{39D22442-0112-4487-900F-6A8984D8B5C7}.Release|x86.ActiveCfg = Release|x86
 		{39D22442-0112-4487-900F-6A8984D8B5C7}.Release|x86.Build.0 = Release|x86
