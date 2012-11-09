@@ -180,7 +180,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			return TextEntries;
 		}
 
-		public void TranslateTexts(Action<TextEntry> TranslateTextEntry, bool HandleType1 = true)
+        public void TranslateTexts(Action<TextEntry> TranslateTextEntry, bool HandleType1 = true, bool AddAdditionalSpace = true)
 		{
 			var SpaceAssigner1D = new SpaceAssigner1D();
 			var SpaceAssigner1DUniqueAllocator = new SpaceAssigner1DUniqueAllocatorStream(SpaceAssigner1D, TextStream);
@@ -211,17 +211,51 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			}, HandleType1);
 
 			SpaceAssigner1DUniqueAllocator.FillSpacesWithZeroes();
-			SpaceAssigner1D.AddAvailableWithLength(TextStream.Length, 0x10000);
+
+            Console.WriteLine("SpaceAssigner1D: {0}", SpaceAssigner1D.GetAvailableSpaces().Sum(Item => Item.Length));
+
+            if (AddAdditionalSpace)
+            {
+                SpaceAssigner1D.AddAvailableWithLength(TextStream.Length, 0x10000);
+                Console.WriteLine("SpaceAssigner1D: {0}", SpaceAssigner1D.GetAvailableSpaces().Sum(Item => Item.Length));
+            }
+
+#if true
+            var StringInfoList = Entries
+                .SelectMany(Item => Item.OriginalTranslated)
+                .OrderByDescending(Item => Item.Text.Length)
+                .ToArray()
+            ;
+#else
+
+            var StringInfoList = new List<StringInfo>();
 
 			foreach (var Entry in Entries)
 			{
 				foreach (var StringInfo in Entry.OriginalTranslated)
 				{
-					var TextSpace = SpaceAssigner1DUniqueAllocator.AllocateUnique(StringInfo.Text, Encoding.UTF8);
-					StringInfo.WritePointerValue((uint)TextSpace.Min);
+                    StringInfoList.Add(StringInfo);
 				}
 			}
-		}
+
+            StringInfoList = StringInfoList.OrderByDescending(Item => Item.Text.Length).ToList();
+#endif
+
+            /*
+            foreach (var StringInfo in StringInfoList)
+            {
+                Console.WriteLine("{0}", StringInfo.Text);
+            }
+            */
+
+            //throw (new Exception("Stop"));
+
+            foreach (var StringInfo in StringInfoList)
+            {
+                var TextSpace = SpaceAssigner1DUniqueAllocator.AllocateUnique(StringInfo.Text, Encoding.UTF8);
+                StringInfo.WritePointerValue((uint)TextSpace.Min);
+            }
+        }
 
 		public void HandleTexts(Action<TextEntry> ActionTextEntry, bool HandleType1 = true)
 		{

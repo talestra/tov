@@ -41,6 +41,9 @@ namespace TalesOfVesperiaTranslationEngine.Components
                 var TotalCount = Patcher.EntriesByRoom.Where(Room => Room.Key.StartsWith("misc/")).Sum(Item => Item.Value.Count);
                 this.Patcher.ProgressHandler.AddProgressLevel("Translating String.dic", TotalCount, () =>
                 {
+                    long OriginalLength = Patcher.TempFS.GetFileInfo("string_dic_uk.so").Size;
+                    long TranslatedLength = OriginalLength;
+
                     Patcher.TempFS.OpenFileRWScope("string_dic_es.so.temp", (TssStream) =>
                     {
                         var Tss = new TSS().Load(TssStream);
@@ -54,17 +57,24 @@ namespace TalesOfVesperiaTranslationEngine.Components
                             var TranslationRoom = Patcher.EntriesByRoom[RoomPath];
                             var TranslationEntry = TranslationRoom[TextId];
 
-
                             TextEntry.TranslateWithTranslationEntry(TranslationEntry);
-                        });
+                        }, HandleType1: true, AddAdditionalSpace: true);
 
                         var TssTranslatedStream = Tss.Save();
-                        Console.WriteLine("Old: {0}", TssStream.Length);
-                        Console.WriteLine("New: {0}", TssTranslatedStream.Length);
+                        OriginalLength = TssStream.Length;
+                        TranslatedLength = TssTranslatedStream.Length;
 
                         TssStream.Position = 0;
                         TssStream.WriteStream(TssTranslatedStream.Slice()).WriteByteRepeatedTo(0x00, TssStream.Length);
                     });
+
+                    Console.WriteLine("Old: {0}", OriginalLength);
+                    Console.WriteLine("New: {0}", TranslatedLength);
+
+                    if (TranslatedLength > OriginalLength)
+                    {
+                        throw (new Exception("Translated string_dic is bigger than the original one."));
+                    }
 
                     Patcher.TempFS.MoveFile("string_dic_es.so.temp", "string_dic_es.so", true);
                 });
