@@ -93,29 +93,44 @@ namespace TalesOfVesperiaTranslationEngine
 		}
 
 		Stream GameIsoStream = null;
-		public Patcher(string GamePath)
+		public Patcher(string GamePath = null)
 		{
-			FileSystem GameRootFS;
-			if (Directory.Exists(GamePath))
-			{
-				GameRootFS = new LocalFileSystem(GamePath);
-			}
-			else
-			{
-				this.GameIsoStream = File.Open(GamePath, FileMode.Open, FileAccess.ReadWrite, FileShare.Read);
-				GameRootFS = new Dvd9Xbox360FileSystem(this.GameIsoStream);
-			}
-
-			Init(GameRootFS);
-			CheckPatchPaths();
+            InitCommon();
+            if (GamePath != null) InitWithGamePath(GamePath);
 		}
 
-		public Patcher(FileSystem GameFileSystem)
-		{
-			Init(GameFileSystem);
-		}
+        public Patcher(FileSystem GameFileSystem)
+        {
+            InitCommon();
+            InitWithFileSystem(GameFileSystem);
+        }
 
-		private void Init(FileSystem GameFileSystem)
+        private void InitCommon()
+        {
+            this.ProgressHandler.OnProgressUpdated += () =>
+            {
+                if (Progress != null) Progress(this.ProgressHandler);
+            };
+        }
+
+        public void InitWithGamePath(string GamePath)
+        {
+            FileSystem GameRootFS;
+            if (Directory.Exists(GamePath))
+            {
+                GameRootFS = new LocalFileSystem(GamePath);
+            }
+            else
+            {
+                this.GameIsoStream = File.Open(GamePath, FileMode.Open, FileAccess.ReadWrite, FileShare.Read);
+                GameRootFS = new Dvd9Xbox360FileSystem(this.GameIsoStream);
+            }
+
+            InitWithFileSystem(GameRootFS);
+            CheckPatchPaths();
+        }
+
+		private void InitWithFileSystem(FileSystem GameFileSystem)
 		{
 			this.GameFileSystem = GameFileSystem;
 			this.PatcherPath = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
@@ -139,10 +154,6 @@ namespace TalesOfVesperiaTranslationEngine
             }
 			this.TempFS = new LocalFileSystem(PatcherPath + "/Temp", true);
 			this.PatchInplace = new PatchInplace(GameFileSystem);
-            this.ProgressHandler.OnProgressUpdated += () =>
-            {
-                if (Progress != null) Progress(this.ProgressHandler);
-            };
 			//JsonTranslations.JsonToProtocolBuffer();
 		}
 

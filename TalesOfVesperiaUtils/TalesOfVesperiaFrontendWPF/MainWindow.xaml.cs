@@ -104,6 +104,8 @@ namespace TalesOfVesperiaFrontendWPF
             File.WriteAllBytes(OutputFile, data);
         }*/
 
+        DateTime LastUpdateProgressDateTime = DateTime.UtcNow;
+
         void UpdateProgress(ProgressHandler ProgressHandler)
         {
             this.Dispatcher.Invoke(() =>
@@ -129,24 +131,32 @@ namespace TalesOfVesperiaFrontendWPF
                     var GlobalValue = ProgressHandler.GetProcessedLevelProgress(0);
                     var GlobalText = ProgressHandler.GetLevelDescription(0);
 
-                    //var LocalValue = ProgressHandler.GetProcessedLevelProgress(1);
-                    //var LocalText = ProgressHandler.GetLevelDescriptionChain(1);
-                    var LocalValue = ProgressHandler.GetProcessedLevelProgress(ProgressHandler.GetCurrentLevelIndex());
-                    var LocalText = ProgressHandler.GetLevelDescriptionChain(1);
-
-                    GlobalProgress.Value = GlobalValue;
-                    GlobalProgress.Maximum = 1;
-                    GlobalProgressText.Text = GlobalText;
-
-                    LocalProgress.Value = LocalValue;
-                    LocalProgress.Maximum = 1;
-                    LocalProgressText.Text = LocalText;
-
-                    this.TaskbarItemInfo = new TaskbarItemInfo()
+                    if (GlobalProgress.Value != GlobalValue)
                     {
-                        ProgressValue = GlobalValue,
-                        ProgressState = TaskbarItemProgressState.Normal,
-                    };
+                        var CurrentDateTime = DateTime.UtcNow;
+                        if ((CurrentDateTime - LastUpdateProgressDateTime).TotalSeconds >= 0.2)
+                        {
+                            LastUpdateProgressDateTime = CurrentDateTime;
+                            //var LocalValue = ProgressHandler.GetProcessedLevelProgress(1);
+                            //var LocalText = ProgressHandler.GetLevelDescriptionChain(1);
+                            var LocalValue = ProgressHandler.GetProcessedLevelProgress(ProgressHandler.GetCurrentLevelIndex());
+                            var LocalText = ProgressHandler.GetLevelDescriptionChain(1);
+
+                            GlobalProgress.Value = GlobalValue;
+                            GlobalProgress.Maximum = 1;
+                            GlobalProgressText.Text = String.Format("{0} ({1:0}%)", GlobalText, GlobalValue * 100);
+
+                            LocalProgress.Value = LocalValue;
+                            LocalProgress.Maximum = 1;
+                            LocalProgressText.Text = String.Format("{0} ({1:0}%)", LocalText, LocalValue * 100);
+
+                            this.TaskbarItemInfo = new TaskbarItemInfo()
+                            {
+                                ProgressValue = GlobalValue,
+                                ProgressState = TaskbarItemProgressState.Normal,
+                            };
+                        }
+                    }
                 }
             });
         }

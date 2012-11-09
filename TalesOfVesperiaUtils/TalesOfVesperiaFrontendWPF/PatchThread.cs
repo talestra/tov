@@ -10,6 +10,7 @@ using System.Windows.Shell;
 using System.IO;
 using TalesOfVesperiaTranslationEngine;
 using TalesOfVesperiaTranslationEngine.Components;
+using TalesOfVesperiaUtils.VirtualFileSystem;
 
 namespace TalesOfVesperiaFrontendWPF
 {
@@ -31,36 +32,50 @@ namespace TalesOfVesperiaFrontendWPF
                 try
                 {
                     MainWindow.InProgress = true;
-
+                  
                     //throw (new Exception("Test ERROR!"));
+
+                    var Patcher = new Patcher((string)null);
+                    var PatchAll = new PatchAll(Patcher);
 
                     if (!UseJTAGFolder)
                     {
-                        Console.WriteLine("Copying ISO...");
-                        if (!File.Exists(TranslatedGamePath)) File.Copy(OriginalGamePath, TranslatedGamePath);
-                        Console.WriteLine("Done");
+                        var Iso = new Dvd9Xbox360FileSystem(File.OpenRead(OriginalGamePath));
+                        PatchAll.CheckFileSystemVesperiaExceptions(Iso);
                     }
 
-                    var Patcher = new Patcher(TranslatedGamePath);
                     Patcher.Progress += (ProgressHandler) =>
                     {
                         OnProgress(ProgressHandler);
                     };
-                    new PatchAll(Patcher).Handle();
 
+                    if (!UseJTAGFolder)
+                    {
+                        Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("Preparing for patching", () =>
+                        {
+                            Patcher.ProgressHandler.AddProgressLevel("Copying ISO...", 1, () =>
+                            {
+                                Console.WriteLine("Copying ISO...");
+                                if (!File.Exists(TranslatedGamePath) || (new FileInfo(TranslatedGamePath).Length != new FileInfo(OriginalGamePath).Length))
+                                {
+                                    using (var In = File.OpenRead(OriginalGamePath))
+                                    using (var Out = File.Open(TranslatedGamePath, FileMode.Create, FileAccess.Write, FileShare.None))
+                                    {
+                                        Out.WriteStream(In, (Current, Total) =>
+                                        {
+                                            //Console.WriteLine("{0}%", ((double)Current / (double)Total) * 100);
+                                            Patcher.ProgressHandler.SetLevelProgressTo(Current, Total);
+                                        });
+                                    }
+                                }
+                                Console.WriteLine("Done");
+                            });
+                        });
+                    }
 
-
-                    //Load the ISO
-                    /*
-                    FileStream ToVISO = new FileStream(TranslatedISOPath, FileMode.Open, FileAccess.ReadWrite);
-                    var Dvd9Xbox360 = new Dvd9Xbox360().Load(ToVISO);
-                    var Vfs = new Dvd9Xbox360FileSystem(Dvd9Xbox360);
-
-                    //Trasteando cosas LOLOLOL
-                    ExtractFile(Vfs, "/snd/config.bin", Path.GetDirectoryName(OriginalISOPath));
-            
-                    UpdateProgress(75, TaskbarItemProgressState.Normal);
-                    */
+                    Patcher.InitWithGamePath(TranslatedGamePath);
+                    PatchAll.CheckFileSystemVesperiaExceptions(Patcher.GameFileSystem);
+                    PatchAll.Handle();
 
                     MessageBox.Show("¡Ya se ha traducido Tales of Vesperia al español!", "¡Felicidades!", MessageBoxButton.OK, MessageBoxImage.Information);
                 }
