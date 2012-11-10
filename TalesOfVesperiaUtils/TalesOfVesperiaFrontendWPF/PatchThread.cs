@@ -12,6 +12,8 @@ using TalesOfVesperiaTranslationEngine;
 using TalesOfVesperiaTranslationEngine.Components;
 using TalesOfVesperiaUtils.VirtualFileSystem;
 using System.Diagnostics;
+using System.Security.Cryptography;
+using CSharpUtils;
 
 namespace TalesOfVesperiaFrontendWPF
 {
@@ -27,6 +29,9 @@ namespace TalesOfVesperiaFrontendWPF
                 MessageBox.Show("No se puede actualizar el mismo archivo directamente.", "Hubo un error", MessageBoxButton.OK, MessageBoxImage.Error);
                 return;
             }
+
+            bool CheckMd5 = true;
+            //bool CheckMd5 = false;
 
             var RunTask = Task.Run(() =>
             {
@@ -59,6 +64,15 @@ namespace TalesOfVesperiaFrontendWPF
                                 //LayerBreak=1913760
                                 //s-tov.iso
 
+                                if (CheckMd5)
+                                {
+                                    if (File.Exists(TranslatedGamePath))
+                                    {
+                                        try { File.Delete(TranslatedGamePath); }
+                                        catch { }
+                                    }
+                                }
+
                                 var TranslatedGameDvdPath = System.IO.Path.ChangeExtension(TranslatedGamePath, ".dvd");
 
                                 File.WriteAllLines(TranslatedGameDvdPath, new[] {
@@ -82,6 +96,30 @@ namespace TalesOfVesperiaFrontendWPF
                                         }
                                     }
                                     Console.WriteLine("Done");
+                                });
+                            }, () =>
+                            {
+                                Patcher.ProgressHandler.AddProgressLevel("Checking ISO MD5...", 1, () =>
+                                {
+                                    if (CheckMd5)
+                                    {
+                                        var ExpectedMd5 = "546f74b4e48bb985fcd365496e03bd10";
+                                        var ComputedMd5 = Hashing.GetMd5Hash(TranslatedGamePath, (Current, Total) =>
+                                        {
+                                            Patcher.ProgressHandler.SetLevelProgressTo(Current, Total);
+                                        });
+
+                                        if (ComputedMd5 != ExpectedMd5)
+                                        {
+                                            throw (new Exception(
+                                                "El md5 de la iso a parchear no coincide.\n" +
+                                                "Si estás intentando reparchear el juego, asegúrate de haber borrado la iso en español.\n" +
+                                                "Se tiene que parchear usando la ISO original PAL, y no se puede usar la iso en español ni ninguna otra iso para el reparcheo\n" +
+                                                "Md5 calculado: " + ComputedMd5 + "\n" +
+                                                "Md5 esperado: " + ExpectedMd5 + "\n" +
+                                            ""));
+                                        }
+                                    }
                                 });
                             });
                         }
