@@ -126,6 +126,11 @@ namespace TalesOfVesperiaUtils.Text
 				Logger.Warning(" --> " + Modified);
 			}
 
+			if (Base.EndsWith("\n") && !Modified.EndsWith("\n"))
+			{
+				Modified += "\n";
+			}
+
 			return Modified;
 		}
 	}

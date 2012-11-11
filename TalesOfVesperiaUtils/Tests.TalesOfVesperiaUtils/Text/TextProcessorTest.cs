@@ -10,19 +10,53 @@ namespace Tests.TalesOfVesperiaUtils.Text
 		[TestMethod]
 		public void TestSimpleCharaOk()
 		{
-			Assert.AreEqual("\x04(YUR)", TextProcessor.Instance.ProcessAndDetectPitfalls("\x04(YUR)", "<STR>(YUR)", true));
+			Assert.AreEqual(
+				"\x04(YUR)",
+				TextProcessor.Instance.ProcessAndDetectPitfalls(
+					"\x04(YUR)",
+					"<STR>(YUR)",
+					true
+				)
+			);
 		}
 
 		[TestMethod]
 		public void TestPageWithLineBreaks()
 		{
-			Assert.AreEqual("Hola\x0cMundo", TextProcessor.Instance.ProcessAndDetectPitfalls("Hello\x0cWorld", "Hola<PAGE>\r\n\r\nMundo", true));
+			Assert.AreEqual(
+				"Hola\x0cMundo",
+				TextProcessor.Instance.ProcessAndDetectPitfalls(
+					"Hello\x0cWorld",
+					"Hola<PAGE>\r\n\r\nMundo",
+					true
+				)
+			);
 		}
 
 		[TestMethod]
 		public void TestPageWithLineBreaks2()
 		{
-			Assert.AreEqual("Hola\x0cMundo", TextProcessor.Instance.ProcessAndDetectPitfalls("Hello\x0cWorld", "Hola\n\n<PAGE>\r\n\r\nMundo", true));
+			Assert.AreEqual(
+				"Hola\x0cMundo",
+				TextProcessor.Instance.ProcessAndDetectPitfalls(
+					"Hello\x0cWorld",
+					"Hola\n\n<PAGE>\r\n\r\nMundo",
+					true
+				)
+			);
 		}
+
+        [TestMethod]
+        public void TestAddLineBreakToTheEnd()
+        {
+			Assert.AreEqual(
+				"Refriega de cincuenta rivales (5.000 gald)\n",
+				TextProcessor.Instance.ProcessAndDetectPitfalls(
+					"Fifty Man Melee (5,000 Gald)\n",
+					"Refriega de cincuenta rivales (5.000 gald)",
+					true
+				)
+			);
+        }
 	}
 }
