@@ -29,9 +29,66 @@ namespace Tss
         protected void ExtractTss(string TssPath)
         {
             var Tss = new TSS().Load(File.OpenRead(TssPath));
-            foreach (var Instruction in Tss.ReadInstructions())
+
+			var Instructions = Tss.ReadInstructions().ToArray();
+			var JumpLabels = new HashSet<uint>();
+			var FunctionLabels = new HashSet<uint>();
+
+			foreach (var Instruction in Instructions)
+			{
+				switch (Instruction.Opcode)
+				{
+					case TSS.Opcode.JUMP_ALWAYS:
+					case TSS.Opcode.JUMP_FALSE:
+					case TSS.Opcode.JUMP_TRUE:
+						JumpLabels.Add((uint)Instruction.IntValue);
+						break;
+					case TSS.Opcode.CALL:
+						{
+							var CallInstruction = (TSS.CallInstructionNode)Instruction;
+							if (CallInstruction.FunctionType == TSS.FunctionType.Script)
+							{
+								FunctionLabels.Add((uint)CallInstruction.ScriptFunction);
+							}
+						}
+						break;
+				}
+			}
+
+			foreach (var Instruction in Instructions)
             {
-                Console.WriteLine("{0:X8}: {1} ({2})", Instruction.InstructionPosition, Instruction.Opcode, String.Join(", ", Instruction.Parameters));
+				if (JumpLabels.Contains(Instruction.InstructionPosition))
+				{
+					Console.WriteLine("Label({0:X8}):", Instruction.InstructionPosition);
+				}
+				if (FunctionLabels.Contains(Instruction.InstructionPosition))
+				{
+					Console.WriteLine("Function({0:X8}):", Instruction.InstructionPosition);
+				}
+				switch (Instruction.Opcode)
+				{
+					case TSS.Opcode.JUMP_ALWAYS:
+					case TSS.Opcode.JUMP_FALSE:
+					case TSS.Opcode.JUMP_TRUE:
+						Console.WriteLine("\t{0:X8}: {1} Label({2:X8})", Instruction.InstructionPosition, Instruction.Opcode, (uint)Instruction.IntValue);
+						break;
+					case TSS.Opcode.CALL:
+						{
+							var CallInstruction = (TSS.CallInstructionNode)Instruction;
+							if (CallInstruction.FunctionType == TSS.FunctionType.Script)
+							{
+								Console.WriteLine("\t{0:X8}: CALL_SCRIPT Function({1:X8}) ({2})", Instruction.InstructionPosition, CallInstruction.ScriptFunction, CallInstruction.NumberOfParameters);
+							}
+							else
+							{
+								Console.WriteLine("\t{0:X8}: CALL_NATIVE {1:X8} ({2})", Instruction.InstructionPosition, CallInstruction.NativeFunction, CallInstruction.NumberOfParameters);
+							}
+						}
+						break;
+					default:
+						Console.WriteLine("\t{0:X8}: {1} ({2})", Instruction.InstructionPosition, Instruction.Opcode, String.Join(", ", Instruction.Parameters));
+						break;
+				}
             }
         }
 
