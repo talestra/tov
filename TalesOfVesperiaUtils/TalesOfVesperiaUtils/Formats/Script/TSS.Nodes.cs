@@ -41,11 +41,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
             {
                 get
                 {
-                    if (InlineParam != null)
-                    {
-                        return new object[] { InlineParam };
-                    }
-                    else if (ParameterType != null)
+                    if (ParameterType != null)
                     {
                         return new object[] { ParameterType.Value };
                     }
@@ -53,6 +49,11 @@ namespace TalesOfVesperiaUtils.Formats.Script
                     {
                         return new object[] { Parameter };
                     }
+					else if (InlineParam != null)
+					{
+						return new object[] { InlineParam };
+					}
+
                     return new object[] { };
                 }
             }
@@ -184,7 +185,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			public byte NumberOfParameters;
 			public FunctionType FunctionType;
 			public short NativeFunction;
-			public uint ScriptFunction;
+			public int ScriptFunction;
 
             override public object[] Parameters
             {

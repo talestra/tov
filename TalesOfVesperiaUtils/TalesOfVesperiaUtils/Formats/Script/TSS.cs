@@ -466,13 +466,13 @@ namespace TalesOfVesperiaUtils.Formats.Script
 						case Opcode.STACK_READ:
 							{
 								// uint text_block_addr = read_word;
-								InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
+								InstructionNode.Parameter = (int)(uint)CodeStream.ReadStruct<uint_be>();
 								InstructionNode.IntValue = (int)(uint)InstructionNode.Parameter;
 							}
 							break;
 						case Opcode.CALL:
 							{
-								InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
+								InstructionNode.Parameter = (int)(uint)CodeStream.ReadStruct<uint_be>();
 								var NumberOfParameters = (byte)((InstructionData >> 16) & 0xFF);
 								var NativeFunction = (short)(InstructionData & 0xFFFF);
 								InstructionNode = new CallInstructionNode()
@@ -595,8 +595,8 @@ namespace TalesOfVesperiaUtils.Formats.Script
 						case Opcode.FUNCTION_START:
 						case Opcode.STACK_SUBSTRACT: // POP_RELATED?
 							{
-								InstructionNode.Parameter = CodeStream.ReadStruct<uint_be>();
-								InstructionNode.IntValue = (int)(uint)InstructionNode.Parameter;
+								InstructionNode.Parameter = (int)(uint)CodeStream.ReadStruct<uint_be>();
+								InstructionNode.IntValue = InstructionNode.Parameter;
 							}
 							break;
 						default:

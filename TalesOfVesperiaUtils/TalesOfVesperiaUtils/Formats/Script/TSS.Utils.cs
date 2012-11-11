@@ -29,13 +29,13 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			BRANCH_ALWAYS = 0x0B,
 			BRANCH_FALSE = 0x0C,
 			BRANCH_TRUE = 0x0D,
-			UNK_0E = 0x0E,
-			UNK_0F = 0x0F,
+			UNK_0E = 0x0E, // ?
+			UNK_0F = 0x0F, // ?
 			STACK_SUBSTRACT = 0x10,
 			FUNCTION_START = 0x11, // FUNCTION_START
 			DEBUG = 0x12, // (CScript)Debug Code\n
 			UNK_13 = 0x13, // (CScript)Error : Task Over. (Procedure call thread)\n
-			UNK_14 = 0x14,
+			UNK_14 = 0x14, // SIMILAR TO RETURN?
 		}
 
 		// TOS2.data6:80369DA8 op_01_calculate_table:.long op_01__CALCULATE_POINTER_00
@@ -124,6 +124,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 		{
 			public ValueType ValueType;
 			public dynamic Value;
+			static public bool DisplayTypes = false;
 
 			public DynamicValue(ValueType ValueType, dynamic Value)
 			{
@@ -133,13 +134,20 @@ namespace TalesOfVesperiaUtils.Formats.Script
 
 			public override string ToString()
 			{
-				if (Value is String)
+				if (!DisplayTypes)
 				{
-					return ValueType + "('" + Value + "')";
+					return (Value is String) ? ("'" + ((String)Value).EscapeString() + "'") : ("" + Value);
 				}
 				else
 				{
-					return ValueType + "(" + Value + ")";
+					if (Value is String)
+					{
+						return ValueType + "('" + ((String)Value).EscapeString() + "')";
+					}
+					else
+					{
+						return ValueType + "(" + Value + ")";
+					}
 				}
 			}
 		}
