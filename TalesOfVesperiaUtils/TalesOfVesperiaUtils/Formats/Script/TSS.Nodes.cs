@@ -24,7 +24,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			public uint InstructionData;
 			public int IntValue;
 
-			virtual protected String GetParams()
+			virtual public String GetParams()
 			{
 				var String = "";
 				String += "Opcode=" + Opcode;
@@ -37,6 +37,26 @@ namespace TalesOfVesperiaUtils.Formats.Script
 				return String;
 			}
 
+            virtual public object[] Parameters
+            {
+                get
+                {
+                    if (InlineParam != null)
+                    {
+                        return new object[] { InlineParam };
+                    }
+                    else if (ParameterType != null)
+                    {
+                        return new object[] { ParameterType.Value };
+                    }
+                    else if (Parameter != null)
+                    {
+                        return new object[] { Parameter };
+                    }
+                    return new object[] { };
+                }
+            }
+
 			public override string ToString()
 			{
 				return this.GetType().Name + "(" + GetParams() + ")";
@@ -47,7 +67,15 @@ namespace TalesOfVesperiaUtils.Formats.Script
 		{
 			public DynamicValue ValueToPush;
 
-			protected override string GetParams()
+            override public object[] Parameters
+            {
+                get
+                {
+                    return new object[] { ValueToPush };
+                }
+            }
+
+			public override string GetParams()
 			{
 				return base.GetParams() + ", ValueToPush=" + ValueToPush;
 			}
@@ -78,6 +106,14 @@ namespace TalesOfVesperiaUtils.Formats.Script
 					return _IntElements;
 				}
 			}
+
+            override public object[] Parameters
+            {
+                get
+                {
+                    return Elements;
+                }
+            }
 
 			private IEnumerable<dynamic> GetElements(bool AsInt)
 			{
@@ -119,7 +155,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 				}
 			}
 
-			protected override string GetParams()
+            public override string GetParams()
 			{
 				return base.GetParams() + ", ValuesType=" + ValuesType + ", Count=" + ArrayNumberOfElements + ", IntElements=" + IntElements.Implode(",") + ", Elements=" + Elements.Implode(",");
 			}
@@ -129,7 +165,15 @@ namespace TalesOfVesperiaUtils.Formats.Script
 		{
 			public OperationType OperationType;
 
-			protected override string GetParams()
+            override public object[] Parameters
+            {
+                get
+                {
+                    return new object[] { OperationType };
+                }
+            }
+
+            public override string GetParams()
 			{
 				return base.GetParams() + ", OperationType=" + OperationType;
 			}
@@ -142,7 +186,15 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			public short NativeFunction;
 			public uint ScriptFunction;
 
-			protected override string GetParams()
+            override public object[] Parameters
+            {
+                get
+                {
+                    return new object[] { NumberOfParameters, FunctionType, NativeFunction, ScriptFunction };
+                }
+            }
+
+            public override string GetParams()
 			{
 				return base.GetParams() + ", NumberOfParameters=" + NumberOfParameters + ", FunctionType=" + FunctionType + ", NativeFunction=" + NativeFunction + ", ScriptFunction=" + ScriptFunction;
 			}
