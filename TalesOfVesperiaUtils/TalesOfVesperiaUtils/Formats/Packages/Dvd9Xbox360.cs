@@ -17,6 +17,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 		public static long XDVDFS_SECTOR_XBOX1 = 0x30600;
 		public static long XDVDFS_SECTOR_XBOX360 = 0x1FB20;
 		public static long XDVDFS_SECTOR_XBOX360_LAYER1 = 0x1B3880;
+		public static long XDVDFS_SECTOR_XBOX360_3 = 0x4100;
 
 		public Entry RootEntry;
 		protected Stream IsoStream;
@@ -54,12 +55,21 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				}
 			}
 
+			public bool IsValid
+			{
+				get
+				{
+					//Console.WriteLine("'{0}'", MagicString);
+					return (MagicString == "MICROSOFT*XBOX*MEDIA");
+				}
+			}
+
 			/// <summary>
 			/// 
 			/// </summary>
 			public void CheckValid()
 			{
-				if (MagicString != "MICROSOFT*XBOX*MEDIA")
+				if (!IsValid)
 				{
 					throw (new Exception("Invalid Xbox360 ISO Image"));
 				}
@@ -74,17 +84,38 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 		{
 			var Offset = LBA * (long)SECTOR_SIZE;
 			if (Offset >= Stream.Length) throw(new Exception("File too small for a Xbox360 Iso File"));
+			//Console.WriteLine("0x{0:X8}", Offset);
 			return SliceStream.CreateWithLength(Stream, Offset, Size);
 		}
 
         public Dvd9Xbox360 Load(Stream Stream)
 		{
 			//Console.WriteLine("{0}", Stream.Length);
-			IsoStream = GetStreamByLBA(Stream, XDVDFS_SECTOR_XBOX360);
-			var StartStream = GetStreamByLBA(IsoStream, 0x20);
-			//Console.WriteLine("{0}", StartStream.Length);
-			var MediaHeader = StartStream.ReadStruct<MediaHeaderStruct>();
-			MediaHeader.CheckValid();
+
+			Stream StartStream;
+			var MediaHeader = default(MediaHeaderStruct);
+			bool Valid = false;
+
+			foreach (var TrySector in new[] {
+				XDVDFS_SECTOR_XBOX360,
+				XDVDFS_SECTOR_XBOX360_3
+			})
+			{
+				IsoStream = GetStreamByLBA(Stream, TrySector);
+				StartStream = GetStreamByLBA(IsoStream, 0x20);
+				//Console.WriteLine("{0}", StartStream.Length);
+				MediaHeader = StartStream.ReadStruct<MediaHeaderStruct>();
+				if (MediaHeader.IsValid)
+				{
+					Valid = true;
+					break;
+				}
+			}
+
+			if (!Valid)
+			{
+				throw (new Exception("Invalid Xbox360 ISO Image (2)"));
+			}
 
 			RootEntry = new Entry();
 
