@@ -1,6 +1,8 @@
 <?php
 
-$lines = file(__DIR__ . '/../../PatchData/Data/tov.json');
+$fileName = __DIR__ . '/../../PatchData/Text/tov.json';
+
+$lines = file($fileName);
 $lines2 = array();
 
 foreach ($lines as $line) {
@@ -14,7 +16,7 @@ foreach ($lines as $line) {
 	$lines2[] = json_encode($row2);
 }
 
-file_put_contents(__DIR__ . '/../../PatchData/Data/tov.json', implode("\n", $lines2));
+file_put_contents($fileName, implode("\n", $lines2));
 
 /*
 {
