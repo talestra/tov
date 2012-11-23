@@ -52,6 +52,12 @@ namespace TalesOfVesperiaTranslationEngine
         public static string E_A101_TITLE_CREDIT_E = "Images/Title/E_A101_TITLE_CREDIT_E.png";
         public static string E_A101_TITLE_TEAM = "Images/Title/E_A101_TITLE_TEAM.png";
 
+        public static string COOK_NA01 = "Images/Menu/COOK_NA01.png";
+        public static string COOK_NA02 = "Images/Menu/COOK_NA02.png";
+        public static string COOK_NA03 = "Images/Menu/COOK_NA03.png";
+        public static string COOK_NA04 = "Images/Menu/COOK_NA04.png";
+        public static string COOK_NA05 = "Images/Menu/COOK_NA05.png";
+
         public static string U_COMALLINFO00 = "Images/Menu/U_COMALLINFO00.png";
         public static string U_ICONKIND00 = "Images/Menu/U_ICONKIND00.png";
         public static string U_ICONSORT00 = "Images/Menu/U_ICONSORT00.png";
