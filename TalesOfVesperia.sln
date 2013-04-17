@@ -1,60 +1,60 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaUtils", "TalesOfVesperiaUtils\TalesOfVesperiaUtils.csproj", "{26B46DD3-FF59-4701-BC09-1E793D05DBEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperia", "TalesOfVesperiaUtils\TalesOfVesperiaUtils\TalesOfVesperiaUtils.csproj", "{26B46DD3-FF59-4701-BC09-1E793D05DBEE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5794FCD4-2FE8-46B9-AE62-A5E4E7F6B4BE}"
 	ProjectSection(SolutionItems) = preProject
 		Local.testsettings = Local.testsettings
-		TalesOfVesperiaUtils.vsmdi = TalesOfVesperiaUtils.vsmdi
+		TalesOfVesperia.vsmdi = TalesOfVesperia.vsmdi
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaTranslationEngine", "TalesOfVesperiaTranslationEngine\TalesOfVesperiaTranslationEngine.csproj", "{4B155ADE-E14A-402D-89CB-2D4A85944BF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaTranslationEngine", "TalesOfVesperiaUtils\TalesOfVesperiaTranslationEngine\TalesOfVesperiaTranslationEngine.csproj", "{4B155ADE-E14A-402D-89CB-2D4A85944BF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaSpike", "TalesOfVesperiaSpike\TalesOfVesperiaSpike.csproj", "{009AA81F-F97E-4593-A607-617F20D95C35}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaSpike", "TalesOfVesperiaUtils\TalesOfVesperiaSpike\TalesOfVesperiaSpike.csproj", "{009AA81F-F97E-4593-A607-617F20D95C35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpUtils", "..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils\CSharpUtils.csproj", "{746FADF2-D613-4FFD-8551-2181ADAE3CD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpUtils", "LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils\CSharpUtils.csproj", "{746FADF2-D613-4FFD-8551-2181ADAE3CD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpUtils.Drawing", "..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Drawing\CSharpUtils.Drawing.csproj", "{9B217880-48AE-43B6-AE1F-DC732FCCBC7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpUtils.Drawing", "LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Drawing\CSharpUtils.Drawing.csproj", "{9B217880-48AE-43B6-AE1F-DC732FCCBC7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpUtils.Ext", "..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Ext\CSharpUtils.Ext.csproj", "{C017FBBE-EF10-4030-A69E-204E766C8F9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpUtils.Ext", "LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Ext\CSharpUtils.Ext.csproj", "{C017FBBE-EF10-4030-A69E-204E766C8F9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaFrontend", "TalesOfVesperiaFrontend\TalesOfVesperiaFrontend.csproj", "{39D22442-0112-4487-900F-6A8984D8B5C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaFrontend", "TalesOfVesperiaUtils\TalesOfVesperiaFrontend\TalesOfVesperiaFrontend.csproj", "{39D22442-0112-4487-900F-6A8984D8B5C7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{259FAD47-32ED-41AE-B01C-3A008A1FCD36}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "TalesOfVesperiaUtils\Libs", "{259FAD47-32ED-41AE-B01C-3A008A1FCD36}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontends", "Frontends", "{B4CD6A57-E20A-4E6A-AE35-746EC03F8E43}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontends", "TalesOfVesperiaUtils\Frontends", "{B4CD6A57-E20A-4E6A-AE35-746EC03F8E43}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{DACB216B-BD31-4290-B01F-7C301949AB1E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "TalesOfVesperiaUtils\Tests", "{DACB216B-BD31-4290-B01F-7C301949AB1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.CSharpUtils.Ext", "..\LibsExternal\CSharpUtils\CSharpUtils\Tests.CSharpUtils.Ext\Tests.CSharpUtils.Ext.csproj", "{BE842BA8-54EF-4EF6-943D-667B2AA7D731}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.CSharpUtils.Ext", "LibsExternal\CSharpUtils\CSharpUtils\Tests.CSharpUtils.Ext\Tests.CSharpUtils.Ext.csproj", "{BE842BA8-54EF-4EF6-943D-667B2AA7D731}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.CSharpUtils.Drawing", "..\LibsExternal\CSharpUtils\CSharpUtils\Tests.CSharpUtils.Drawing\Tests.CSharpUtils.Drawing.csproj", "{3DF178F4-4F8E-493B-BD93-75B4C6E4660B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.CSharpUtils.Drawing", "LibsExternal\CSharpUtils\CSharpUtils\Tests.CSharpUtils.Drawing\Tests.CSharpUtils.Drawing.csproj", "{3DF178F4-4F8E-493B-BD93-75B4C6E4660B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.CSharpUtils", "..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtilsTests\Tests.CSharpUtils.csproj", "{1ED2F70F-882E-4E15-8604-AFA2E00F3A17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.CSharpUtils", "LibsExternal\CSharpUtils\CSharpUtils\CSharpUtilsTests\Tests.CSharpUtils.csproj", "{1ED2F70F-882E-4E15-8604-AFA2E00F3A17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.TalesOfVesperiaUtils", "Tests.TalesOfVesperiaUtils\Tests.TalesOfVesperiaUtils.csproj", "{4B9F7A26-0681-4A28-B5B5-DF41D2466B98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.TalesOfVesperiaUtils", "TalesOfVesperiaUtils\Tests.TalesOfVesperiaUtils\Tests.TalesOfVesperiaUtils.csproj", "{4B9F7A26-0681-4A28-B5B5-DF41D2466B98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.TalesOfVesperiaTranslationEngine", "Tests.TalesOfVesperiaTranslationEngine\Tests.TalesOfVesperiaTranslationEngine.csproj", "{619EB3AA-D266-45B9-A876-0C96A780C02E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.TalesOfVesperiaTranslationEngine", "TalesOfVesperiaUtils\Tests.TalesOfVesperiaTranslationEngine\Tests.TalesOfVesperiaTranslationEngine.csproj", "{619EB3AA-D266-45B9-A876-0C96A780C02E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Svo", "Svo\Svo.csproj", "{EC469174-69AE-400B-8BCB-3365B8C81667}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Svo", "TalesOfVesperiaUtils\Svo\Svo.csproj", "{EC469174-69AE-400B-8BCB-3365B8C81667}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Txm", "Txm\Txm.csproj", "{8A87AE45-80C0-4B60-A352-1422D8DE66F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Txm", "TalesOfVesperiaUtils\Txm\Txm.csproj", "{8A87AE45-80C0-4B60-A352-1422D8DE66F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpUtils.Vfs", "..\LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Vfs\CSharpUtils.Vfs.csproj", "{49F6B357-35AE-498A-9E5A-67AA62A327C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpUtils.Vfs", "LibsExternal\CSharpUtils\CSharpUtils\CSharpUtils.Vfs\CSharpUtils.Vfs.csproj", "{49F6B357-35AE-498A-9E5A-67AA62A327C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.CSharpUtils.Vfs", "..\LibsExternal\CSharpUtils\CSharpUtils\Tests.CSharpUtils.Vfs\Tests.CSharpUtils.Vfs.csproj", "{6B08F2EC-28FF-4444-BC3E-7B3CD18DE593}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.CSharpUtils.Vfs", "LibsExternal\CSharpUtils\CSharpUtils\Tests.CSharpUtils.Vfs\Tests.CSharpUtils.Vfs.csproj", "{6B08F2EC-28FF-4444-BC3E-7B3CD18DE593}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompTov", "CompTov\CompTov.csproj", "{AF2903E9-8282-4121-B7FD-3F37F2C50A1C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompTov", "TalesOfVesperiaUtils\CompTov\CompTov.csproj", "{AF2903E9-8282-4121-B7FD-3F37F2C50A1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaFrontendWPF", "TalesOfVesperiaFrontendWPF\TalesOfVesperiaFrontendWPF.csproj", "{F152F23B-CF41-442D-B79C-8DD055D0DE86}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaFrontendWPF", "TalesOfVesperiaUtils\TalesOfVesperiaFrontendWPF\TalesOfVesperiaFrontendWPF.csproj", "{F152F23B-CF41-442D-B79C-8DD055D0DE86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TovExpander", "TovExpander\TovExpander.csproj", "{AFAB9B58-A10C-40F4-B9CD-77816C329331}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TovExpander", "TalesOfVesperiaUtils\TovExpander\TovExpander.csproj", "{AFAB9B58-A10C-40F4-B9CD-77816C329331}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iso360Extract", "Iso360Extract\Iso360Extract.csproj", "{6E13BFAE-7BB2-4695-BC19-10D79542B218}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iso360Extract", "TalesOfVesperiaUtils\Iso360Extract\Iso360Extract.csproj", "{6E13BFAE-7BB2-4695-BC19-10D79542B218}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tss", "Tss\Tss.csproj", "{D50282CB-1EC3-4105-870C-7553A9335237}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tss", "TalesOfVesperiaUtils\Tss\Tss.csproj", "{D50282CB-1EC3-4105-870C-7553A9335237}"
 EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
