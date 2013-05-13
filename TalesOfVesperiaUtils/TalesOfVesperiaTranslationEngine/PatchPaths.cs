@@ -65,6 +65,7 @@ namespace TalesOfVesperiaTranslationEngine
         public static string U_ICONSYM01 = "Images/Menu/U_ICONSYM01.png";
         public static string U_MENUSTR01 = "Images/Menu/U_MENUSTR01.png";
 
-        public static string FONTTEXT10_15 = "Font/FONTTEX10.FONTTEX10.15.png";
+		public static string FONTTEXT10_15_ALPHA = "Font/FONTTEX10.FONTTEX10.15.alpha.png";
+		public static string FONTTEXT10_15_COLOR = "Font/FONTTEX10.FONTTEX10.15.color.png";
     }
 }

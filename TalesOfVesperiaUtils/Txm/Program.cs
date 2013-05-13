@@ -82,7 +82,22 @@ namespace Txm
 					{
 						if (Overwrite || !File.Exists(ImageEntryFileName))
 						{
-							ImageEntry.Bitmap.Save(ImageEntryFileName);
+							//ImageEntry.Bitmap.Save(ImageEntryFileName);
+							var BitmapMixed = ImageEntry.Bitmap;
+							var AlphaChannel = BitmapMixed.GetChannelsDataLinear(BitmapChannel.Alpha);
+							var SolidAlphaChannel = Enumerable.Repeat((byte)0xFF, AlphaChannel.Length).ToArray();
+							var BitmapAlpha = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+							var BitmapColor = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+							
+							BitmapAlpha.SetChannelsDataLinear(SolidAlphaChannel, BitmapChannel.Alpha);
+							
+							BitmapColor.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Red);
+							BitmapColor.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Green);
+							BitmapColor.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Blue);
+							
+							BitmapMixed.Save(ImageEntryFileName);
+							BitmapColor.Save(ImageEntryFileName + ".color.png");
+							BitmapAlpha.Save(ImageEntryFileName + ".alpha.png");
 							Console.WriteLine("Ok");
 						}
 						else
@@ -116,7 +131,24 @@ namespace Txm
 							{
 								if (Overwrite || !File.Exists(ImageEntryFileName))
 								{
-									Bitmap.Save(ImageEntryFileName);
+									//Bitmap.Save(ImageEntryFileName);
+									var BitmapMixed = Bitmap;
+									var AlphaChannel = BitmapMixed.GetChannelsDataLinear(BitmapChannel.Alpha);
+									var SolidAlphaChannel = Enumerable.Repeat((byte)0xFF, AlphaChannel.Length).ToArray();
+									var BitmapAlpha = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+									var BitmapColor = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+									
+									BitmapColor.SetChannelsDataLinear(SolidAlphaChannel, BitmapChannel.Alpha);
+									
+									BitmapAlpha.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Red);
+									BitmapAlpha.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Green);
+									BitmapAlpha.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Blue);
+									BitmapAlpha.SetChannelsDataLinear(SolidAlphaChannel, BitmapChannel.Alpha);
+									
+									
+									BitmapMixed.Save(ImageEntryFileName);
+									BitmapColor.Save(ImageEntryFileName + ".color.png");
+									BitmapAlpha.Save(ImageEntryFileName + ".alpha.png");
 									Console.WriteLine("Ok");
 								}
 								else
