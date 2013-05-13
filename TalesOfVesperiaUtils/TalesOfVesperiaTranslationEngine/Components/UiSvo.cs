@@ -41,7 +41,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 			// Font
 			Patcher.GameGetTXM("FONTTEX10.TXM", "FONTTEX10.TXV", (Txm) =>
 			{
-				Patcher.PatcherGetImage(PatchPaths.FONTTEXT10_15, (Bitmap) =>
+				Patcher.PatcherGetImageColorAlpha(PatchPaths.FONTTEXT10_15_COLOR, PatchPaths.FONTTEXT10_15_ALPHA, (Bitmap) =>
 				{
 					var Entry = Txm.Surface3DEntries[0];
 

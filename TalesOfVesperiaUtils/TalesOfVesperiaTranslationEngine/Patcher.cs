@@ -1,4 +1,5 @@
-﻿using CSharpUtils.VirtualFileSystem;
+﻿using CSharpUtils;
+using CSharpUtils.VirtualFileSystem;
 using CSharpUtils.VirtualFileSystem.Local;
 using System;
 using System.Collections.Generic;
@@ -234,6 +235,27 @@ namespace TalesOfVesperiaTranslationEngine
 				var Entry = Txm.Surface2DEntriesByName[Name];
 				Entry.UpdateBitmap(new Bitmap(Entry.Width, Entry.Height));
 			}
+		}
+
+		public void PatcherGetImageColorAlpha(string FileColor, string FileAlpha, Action<Bitmap> ActionRead)
+		{
+			PatcherGetFile(FileColor, (StreamColor) =>
+			{
+				PatcherGetFile(FileAlpha, (StreamAlpha) =>
+				{
+					var BitmapColor = new Bitmap(Image.FromStream(StreamColor));
+					var BitmapAlpha = new Bitmap(Image.FromStream(StreamAlpha));
+					if (BitmapColor.Size != BitmapAlpha.Size) throw(new InvalidDataException("Sizes from alpha and color must match"));
+					var ComposedBitmap = new Bitmap(BitmapColor.Width, BitmapColor.Height);
+					ComposedBitmap.SetChannelsDataLinear(new[] {
+						new BitmapChannelTransfer() { Bitmap = BitmapColor, From = BitmapChannel.Red, To = BitmapChannel.Red },
+						new BitmapChannelTransfer() { Bitmap = BitmapColor, From = BitmapChannel.Red, To = BitmapChannel.Blue },
+						new BitmapChannelTransfer() { Bitmap = BitmapColor, From = BitmapChannel.Red, To = BitmapChannel.Green },
+						new BitmapChannelTransfer() { Bitmap = BitmapAlpha, From = BitmapChannel.Red, To = BitmapChannel.Alpha },
+					});
+					ActionRead(ComposedBitmap);
+				});
+			});
 		}
 
 		public void PatcherGetImage(string File1, Action<Bitmap> ActionRead)
