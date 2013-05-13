@@ -26,6 +26,11 @@ namespace TalesOfVesperiaUtils.Imaging
 			this.Bitmaps = new Bitmap[Count];
 		}
 
+		public BitmapList(params Bitmap[] Bitmaps)
+		{
+			this.Bitmaps = Bitmaps;
+		}
+
 		/// <summary>
 		/// 
 		/// </summary>

@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TalesOfVesperiaUtils.Formats.Packages;
 using TalesOfVesperiaUtils.Imaging;
+using TalesOfVesperiaUtils.Imaging.Internal;
 using TalesOfVesperiaUtils.VirtualFileSystem;
 
 namespace TalesOfVesperiaTranslationEngine.Components
@@ -43,9 +44,16 @@ namespace TalesOfVesperiaTranslationEngine.Components
 			{
 				Patcher.PatcherGetImageColorAlpha(PatchPaths.FONTTEXT10_15_COLOR, PatchPaths.FONTTEXT10_15_ALPHA, (Bitmap) =>
 				{
+					//var MS = new MemoryStream();
+					//(new DXT5()).SaveSwizzled3D(new BitmapList(Bitmap, Bitmap), MS, CompressDXT.CompressionMode.Normal);
+					//var BitmapList2 = (new DXT5()).LoadSwizzled3D(MS.Slice(), Bitmap.Width, Bitmap.Height, 1);
+					//Bitmap.Save(@"c:\projects\1.bmp", System.Drawing.Imaging.ImageFormat.Bmp);
+					//BitmapList2.Bitmaps[0].Save(@"c:\projects\2.bmp", System.Drawing.Imaging.ImageFormat.Bmp);
+
 					var Entry = Txm.Surface3DEntries[0];
 
 					Entry.Bitmaps.Bitmaps[15] = Bitmap;
+					//Entry.Bitmaps.Bitmaps[15] = Entry.Bitmaps.Bitmaps[0].Duplicate();
 					Entry.UpdateBitmapList(Entry.Bitmaps);
 				});
 			});

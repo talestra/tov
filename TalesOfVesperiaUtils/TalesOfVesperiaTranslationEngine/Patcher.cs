@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;
+using System.Drawing.Imaging;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -246,13 +247,14 @@ namespace TalesOfVesperiaTranslationEngine
 					var BitmapColor = new Bitmap(Image.FromStream(StreamColor));
 					var BitmapAlpha = new Bitmap(Image.FromStream(StreamAlpha));
 					if (BitmapColor.Size != BitmapAlpha.Size) throw(new InvalidDataException("Sizes from alpha and color must match"));
-					var ComposedBitmap = new Bitmap(BitmapColor.Width, BitmapColor.Height);
+					var ComposedBitmap = new Bitmap(BitmapColor.Width, BitmapColor.Height, PixelFormat.Format32bppArgb);
 					ComposedBitmap.SetChannelsDataLinear(new[] {
 						new BitmapChannelTransfer() { Bitmap = BitmapColor, From = BitmapChannel.Red, To = BitmapChannel.Red },
-						new BitmapChannelTransfer() { Bitmap = BitmapColor, From = BitmapChannel.Red, To = BitmapChannel.Blue },
-						new BitmapChannelTransfer() { Bitmap = BitmapColor, From = BitmapChannel.Red, To = BitmapChannel.Green },
+						new BitmapChannelTransfer() { Bitmap = BitmapColor, From = BitmapChannel.Green, To = BitmapChannel.Green },
+						new BitmapChannelTransfer() { Bitmap = BitmapColor, From = BitmapChannel.Blue, To = BitmapChannel.Blue },
 						new BitmapChannelTransfer() { Bitmap = BitmapAlpha, From = BitmapChannel.Red, To = BitmapChannel.Alpha },
 					});
+					//ComposedBitmap.Save(@"c:\projects\1.png");
 					ActionRead(ComposedBitmap);
 				});
 			});
