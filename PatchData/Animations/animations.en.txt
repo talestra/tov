@@ -1,0 +1,167 @@
+AHO:
+	The Fount of Warmth
+	Yumanju
+	-
+APH:
+	The Ghost Ship
+	Atherum
+	-
+BOA:
+	The Vessel of Hope and Glory
+	Fiertia
+	-
+BUG:
+	-
+	Forest of Keiv
+	Moc
+CAP:
+	The Imperial Capital
+	Zaphias
+	-
+CAPC:
+	The Imperial Capital
+	Zaphias Castle
+	-
+CAPI:
+	The Imperial Capital
+	Inside Zaphias
+	Castle
+CAPK:
+	The Imperial Capital
+	Zaphias,the
+	Royal Quarter
+CAPS:
+	The Imperial Capital
+	Zaphias,the
+	Lower Quarter
+CAV:
+	-
+	The Weasand of
+	Cados
+CHE:
+	The City of Blossoms
+	Halure
+	-
+COG:
+	The Tower of Gears
+	Ghasfarost
+	-
+DEV:
+	The Home of the Kritya
+	Myorzo
+	-
+DRA:
+	-
+	Mt. Temza
+	-
+EXD:
+	-
+	Labyrinth of
+	Memories The
+FOR:
+	-
+	Deidon Hold
+	-
+FRI:
+	The Land of Hope
+	Aurnion
+	-
+GHO:
+	The Fallen City
+	Caer Bocram
+	-
+GRO:
+	-
+	Quoi Woods
+	-
+GUI:
+	The Den of Guilds
+	Dahngrest
+	-
+HIL:
+	-
+	Ehmead Hill
+HIS:
+	-
+	The Erealumen
+	Crystallands
+HOW:
+	The Mobile Fortress
+	Heracles
+	-
+ICE:
+	-
+	The Blade Drifts
+	of Zopheir
+LAS:
+	The Ancient Tower
+	Tarqaron
+	-
+LEG:
+	-
+	The Manor of the Wicked
+	-
+MAN:
+	-
+	Aer Krene
+	-
+MYS:
+	The Forgotten Shrine
+	Baction
+	-
+NAM:
+	The Happy Place
+	Nam Cobanda
+	Isle
+OAS:
+	The Desert Oasis
+	Mantaic
+	-
+ORG:
+	-
+	Relewiese
+	Hollow
+PORN:
+	The Port Town
+	Capua Nor
+	-
+PORR:
+	-
+	Ragou's Palace
+	-
+PORT:
+	The Port Town
+	Capua Torim
+	-
+RUI:
+	-
+	Shaikos Ruins
+	-
+SEA:
+	-
+	The Enduring
+	Shrine of Zauda
+SHA:
+	The Sealed City of Scholars
+	Aspio
+	-
+TOG:
+	The Coliseum City
+	Nordopolica
+	-
+UND:
+	The Rising City
+	Heliord
+	-
+VIL:
+	The Heartland Town
+	Yormgen
+	-
+EVSI:
+	-
+	The Sands of
+	Kogorh
+WOO:
+	-
+	Egothor Forest
+	-

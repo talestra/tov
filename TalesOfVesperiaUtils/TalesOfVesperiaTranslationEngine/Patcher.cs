@@ -218,6 +218,15 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
+		public void UpdateTxm2DWithImage(TXM Txm, Bitmap Bitmap, params string[] TxmNames)
+		{
+			foreach (var Name in TxmNames)
+			{
+				Txm.Surface2DEntriesByName[Name].UpdateBitmap(Bitmap);
+			}
+		}
+
+
 		public void UpdateTxm2DWithPng(TXM Txm, string PatchPngPath, params string[] TxmNames)
 		{
 			PatcherGetImage(PatchPngPath, (Bitmap) =>
