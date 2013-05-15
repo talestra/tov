@@ -1,10 +1,14 @@
 ﻿using CSharpUtils;
+using CSharpUtils.Drawing;
+using CSharpUtils.Drawing.Distance;
 using CSharpUtils.VirtualFileSystem;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Drawing.Text;
 using System.IO;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using TalesOfVesperiaUtils.Formats.Packages;
@@ -14,7 +18,7 @@ using TalesOfVesperiaUtils.VirtualFileSystem;
 
 namespace TalesOfVesperiaTranslationEngine.Components
 {
-	public class UiSvo : PatcherComponent
+	unsafe public class UiSvo : PatcherComponent
 	{
 		public UiSvo(Patcher Patcher)
 			: base(Patcher)
@@ -101,6 +105,49 @@ namespace TalesOfVesperiaTranslationEngine.Components
 						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_MENUSTR01, "U_MENUSTR01");
 					});
 				}
+
+				//TOWNMAPFOR.U_MAP_EFOR
+				Patcher.GameGetTXM("TOWNMAPFOR", (Txm) =>
+				{
+					Patcher.PatcherGetFile("Font/Seagull.ttf", (FontStream) =>
+					{
+						var BaseImage = Txm.Surface2DEntriesByName["U_MAP_EFOR"].Bitmap;
+						{
+							var Graphics2 = Graphics.FromImage(BaseImage);
+							Graphics2.CompositingMode = System.Drawing.Drawing2D.CompositingMode.SourceCopy;
+							Graphics2.FillRectangle(new SolidBrush(Color.Transparent), new Rectangle(0, 38, 512, 190));
+						}
+
+						var PrivateFontCollection = new PrivateFontCollection();
+						var FontBytes = FontStream.ReadAll();
+						fixed (byte* FontPointer = FontBytes)
+						{
+							PrivateFontCollection.AddMemoryFont(new IntPtr(FontPointer), FontBytes.Length);
+						}
+						
+						var Bitmap = new Bitmap(512, 512);
+						var graphics = Graphics.FromImage(Bitmap);
+						var Font1 = new Font(PrivateFontCollection.Families[0].Name, 26, FontStyle.Regular);
+						var Font2 = new Font(PrivateFontCollection.Families[0].Name, 40, FontStyle.Regular);
+						//graphics.FillRectangle(new SolidBrush(Color.White), new Rectangle(0, 0, 512, 512));
+						graphics.CompositingMode = System.Drawing.Drawing2D.CompositingMode.SourceOver;
+						graphics.CompositingQuality = System.Drawing.Drawing2D.CompositingQuality.HighQuality;
+						graphics.InterpolationMode = System.Drawing.Drawing2D.InterpolationMode.High;
+						graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
+						graphics.TextRenderingHint = TextRenderingHint.AntiAlias;
+
+						graphics.DrawString("Fuerte de Deidon", Font2, new SolidBrush((ARGB_Rev)"#503c3c"), new PointF(-3, 97));
+						//graphics.DrawString("The Imperial Capital", Font1, new SolidBrush((ARGB_Rev)"#503c3c"), new PointF(-2, 35.2f));
+
+						var _DistanceMap = DistanceMap.GetDistanceMap(DistanceMap.GetMask(Bitmap));
+
+						DistanceMap.DrawGlow(Bitmap, _DistanceMap, 6, "#fff0d3", 0.1f);
+						graphics.DrawImage(BaseImage, Point.Empty);
+
+						Patcher.UpdateTxm2DWithImage(Txm, Bitmap, "U_MAP_EFOR");
+					});
+				});
+
 			});
 		}
 

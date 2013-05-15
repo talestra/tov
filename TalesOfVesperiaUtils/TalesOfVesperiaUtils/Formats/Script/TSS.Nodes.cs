@@ -147,7 +147,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							break;
 						default:
 							{
-								Console.WriteLine("Unhandled " + ValuesType);
+								Console.Error.WriteLine("Unhandled " + ValuesType);
 								for (int n = 0; n < ArrayNumberOfElements; n++) yield return "<TODO " + "Unhandled " + ValuesType + ">";
 							}
 							break;

@@ -1,12 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperia", "TalesOfVesperiaUtils\TalesOfVesperiaUtils\TalesOfVesperiaUtils.csproj", "{26B46DD3-FF59-4701-BC09-1E793D05DBEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaUtils", "TalesOfVesperiaUtils\TalesOfVesperiaUtils\TalesOfVesperiaUtils.csproj", "{26B46DD3-FF59-4701-BC09-1E793D05DBEE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5794FCD4-2FE8-46B9-AE62-A5E4E7F6B4BE}"
 	ProjectSection(SolutionItems) = preProject
 		Local.testsettings = Local.testsettings
-		TalesOfVesperia.vsmdi = TalesOfVesperia.vsmdi
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
 EndProject
@@ -22,11 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpUtils.Ext", "LibsExte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalesOfVesperiaFrontend", "TalesOfVesperiaUtils\TalesOfVesperiaFrontend\TalesOfVesperiaFrontend.csproj", "{39D22442-0112-4487-900F-6A8984D8B5C7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "TalesOfVesperiaUtils\Libs", "{259FAD47-32ED-41AE-B01C-3A008A1FCD36}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{259FAD47-32ED-41AE-B01C-3A008A1FCD36}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontends", "TalesOfVesperiaUtils\Frontends", "{B4CD6A57-E20A-4E6A-AE35-746EC03F8E43}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontends", "Frontends", "{B4CD6A57-E20A-4E6A-AE35-746EC03F8E43}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "TalesOfVesperiaUtils\Tests", "{DACB216B-BD31-4290-B01F-7C301949AB1E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{DACB216B-BD31-4290-B01F-7C301949AB1E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.CSharpUtils.Ext", "LibsExternal\CSharpUtils\CSharpUtils\Tests.CSharpUtils.Ext\Tests.CSharpUtils.Ext.csproj", "{BE842BA8-54EF-4EF6-943D-667B2AA7D731}"
 EndProject

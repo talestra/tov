@@ -1,4 +1,5 @@
-﻿using CSharpUtils.Getopt;
+﻿using CSharpUtils;
+using CSharpUtils.Getopt;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -179,57 +180,40 @@ namespace TovExpander
 					try { RoomId = int.Parse(Path.GetFileNameWithoutExtension(FilePath)); }
 					catch { }
 					var TxtFile = FilePath + ".txt";
+
 					Console.WriteLine("{0}", TxtFile);
 					if (Overwrite || !File.Exists(TxtFile))
 					{
+						var Tss = new TSS().Load(FileStream);
+
 						using (var TxtStream = File.Open(TxtFile, FileMode.Create, FileAccess.Write))
 						using (var TextWriter = new StreamWriter(TxtStream))
 						{
 							try
 							{
-								var Tss = new TSS().Load(FileStream);
+								Tss.DumpTexts(TextWriter);
+							}
+							catch (Exception Exception)
+							{
+								ShowException(Exception);
+							}
+						}
+					}
 
-								foreach (var Entry in Tss.ExtractTexts(HandleType1: true, EmitSeparators: true))
-								{
-									if (Entry == null)
-									{
-										TextWriter.WriteLine("---------------------------------------------");
-									}
-									else
-									{
-										TextWriter.WriteLine(
-											"{0:X8}:[{1}]:[{2}]",
-											Entry.Id,
-											Entry.Original.Select(Item => "'" + Item.Text.EscapeString() + "'").Implode(","),
-											Entry.Translated.Select(Item => "'" + Item.Text.EscapeString() + "'").Implode(",")
-										);
-									}
-								}
+					var ScrFile = FilePath + ".scr";
+					Console.WriteLine("{0}", ScrFile);
+					if (Overwrite || !File.Exists(ScrFile))
+					{
+						var Tss = new TSS().Load(FileStream);
 
-								/*
-								foreach (var Instruction in Tss.ReadInstructions())
-								{
-									Console.WriteLine(Instruction);
-								}
-								foreach (var Instruction in Tss.PushArrayInstructionNodes)
-								{
-									TextWriter.WriteLine("scenario/{0:D4}@{1:X8}@{2:X8}:", RoomId, Instruction.InstructionPosition, Instruction.ArrayPointer + Tss.Header.TextStart);
-									try
-									{
-										foreach (var Element in Instruction.Elements)
-										{
-											TextWriter.WriteLine("'{0}'", StringExtensions.EscapeString(Element.ToString()));
-										}
-									}
-									catch (Exception Exception)
-									{
-										ShowException(Exception);
-									}
-									TextWriter.WriteLine("");
-									//Console.WriteLine("{0}", Instruction.Elements);
-								}
-								//Console.WriteLine("TSS");
-								*/
+						using (var TxtStream = File.Open(ScrFile, FileMode.Create, FileAccess.Write))
+						using (var TextWriter = new StreamWriter(TxtStream))
+						{
+							try
+							{
+								var ErrorString = ConsoleUtils.CaptureError(() => {
+									Tss.DumpScript(TextWriter);
+								});
 							}
 							catch (Exception Exception)
 							{

@@ -80,7 +80,7 @@ namespace TalesOfVesperiaUtils.Compression
 
 				switch (HeaderStruct.Version)
 				{
-#if false
+#if true
 					case 0:
 						if (HeaderStruct.CompressedLength != HeaderStruct.UncompressedLength)
 						{

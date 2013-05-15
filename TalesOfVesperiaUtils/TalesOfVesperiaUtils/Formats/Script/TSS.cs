@@ -623,5 +623,89 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			}
 			return false;
 		}
+
+		public void DumpTexts(TextWriter TextWriter)
+		{
+			foreach (var Entry in this.ExtractTexts(HandleType1: true, EmitSeparators: true))
+			{
+				if (Entry == null)
+				{
+					TextWriter.WriteLine("---------------------------------------------");
+				}
+				else
+				{
+					TextWriter.WriteLine(
+						"{0:X8}:[{1}]:[{2}]",
+						Entry.Id,
+						Entry.Original.Select(Item => "'" + Item.Text.EscapeString() + "'").Implode(","),
+						Entry.Translated.Select(Item => "'" + Item.Text.EscapeString() + "'").Implode(",")
+					);
+				}
+			}
+		}
+
+		public void DumpScript(TextWriter TextWriter)
+		{
+			var Instructions = this.ReadInstructions().ToArray();
+			var JumpLabels = new HashSet<uint>();
+			var FunctionLabels = new HashSet<uint>();
+
+			foreach (var Instruction in Instructions)
+			{
+				switch (Instruction.Opcode)
+				{
+					case TSS.Opcode.JUMP_ALWAYS:
+					case TSS.Opcode.JUMP_FALSE:
+					case TSS.Opcode.JUMP_TRUE:
+						JumpLabels.Add((uint)Instruction.IntValue);
+						break;
+					case TSS.Opcode.CALL:
+						{
+							var CallInstruction = (TSS.CallInstructionNode)Instruction;
+							if (CallInstruction.FunctionType == TSS.FunctionType.Script)
+							{
+								FunctionLabels.Add((uint)CallInstruction.ScriptFunction);
+							}
+						}
+						break;
+				}
+			}
+
+			foreach (var Instruction in Instructions)
+			{
+				if (JumpLabels.Contains(Instruction.InstructionPosition))
+				{
+					TextWriter.WriteLine("Label({0:X8}):", Instruction.InstructionPosition);
+				}
+				if (FunctionLabels.Contains(Instruction.InstructionPosition))
+				{
+					TextWriter.WriteLine("Function({0:X8}):", Instruction.InstructionPosition);
+				}
+				switch (Instruction.Opcode)
+				{
+					case TSS.Opcode.JUMP_ALWAYS:
+					case TSS.Opcode.JUMP_FALSE:
+					case TSS.Opcode.JUMP_TRUE:
+						TextWriter.WriteLine("\t{0:X8}: {1} Label({2:X8})", Instruction.InstructionPosition, Instruction.Opcode, (uint)Instruction.IntValue);
+						break;
+					case TSS.Opcode.CALL:
+						{
+							var CallInstruction = (TSS.CallInstructionNode)Instruction;
+							if (CallInstruction.FunctionType == TSS.FunctionType.Script)
+							{
+								TextWriter.WriteLine("\t{0:X8}: CALL_SCRIPT Function({1:X8}) ({2})", Instruction.InstructionPosition, CallInstruction.ScriptFunction, CallInstruction.NumberOfParameters);
+							}
+							else
+							{
+								TextWriter.WriteLine("\t{0:X8}: CALL_NATIVE {1:X8} ({2})", Instruction.InstructionPosition, CallInstruction.NativeFunction, CallInstruction.NumberOfParameters);
+							}
+						}
+						break;
+					default:
+						TextWriter.WriteLine("\t{0:X8}: {1} ({2})", Instruction.InstructionPosition, Instruction.Opcode, String.Join(", ", Instruction.Parameters));
+						break;
+				}
+			}
+		}
 	}
 }

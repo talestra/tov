@@ -17,6 +17,9 @@ using CSharpUtils.VirtualFileSystem;
 using CSharpUtils.VirtualFileSystem.Local;
 using TalesOfVesperiaUtils;
 using TalesOfVesperiaUtils.VirtualFileSystem;
+using System.Drawing.Text;
+using CSharpUtils.Drawing.Distance;
+using CSharpUtils.Drawing;
 
 #if false
 namespace TalesOfVesperiaSpike
@@ -414,9 +417,55 @@ namespace TalesOfVesperiaSpike
 			);
 		}
 
+		static void Main4()
+		{
+			var BaseImage = new Bitmap(Image.FromFile(@"C:\projects\talestra_tov\Tools\TOWNMAPFOR.U_MAP_EFOR.png"));
+			{
+				var Graphics2 = Graphics.FromImage(BaseImage);
+				Graphics2.CompositingMode = System.Drawing.Drawing2D.CompositingMode.SourceCopy;
+				Graphics2.FillRectangle(new SolidBrush(Color.Transparent), new Rectangle(0, 38, 512, 190));
+			}
+
+			var PrivateFontCollection = new PrivateFontCollection();
+			PrivateFontCollection.AddFontFile(@"C:\projects\talestra_tov\Fonts\Seagull.ttf");
+			var Bitmap = new Bitmap(512, 512);
+			var graphics = Graphics.FromImage(Bitmap);
+			var Font1 = new Font(PrivateFontCollection.Families[0].Name, 26, FontStyle.Regular);
+			var Font2 = new Font(PrivateFontCollection.Families[0].Name, 40, FontStyle.Regular);
+			//graphics.FillRectangle(new SolidBrush(Color.White), new Rectangle(0, 0, 512, 512));
+			graphics.CompositingMode = System.Drawing.Drawing2D.CompositingMode.SourceOver;
+			graphics.CompositingQuality = System.Drawing.Drawing2D.CompositingQuality.HighQuality;
+			graphics.InterpolationMode = System.Drawing.Drawing2D.InterpolationMode.High;
+			graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
+			graphics.TextRenderingHint = TextRenderingHint.AntiAlias;
+
+			graphics.DrawString("Fuerte de Deidon", Font2, new SolidBrush((ARGB_Rev)"#503c3c"), new PointF(-3, 97));
+			//graphics.DrawString("The Imperial Capital", Font1, new SolidBrush((ARGB_Rev)"#503c3c"), new PointF(-2, 35.2f));
+
+			var _DistanceMap = DistanceMap.GetDistanceMap(DistanceMap.GetMask(Bitmap));
+
+			DistanceMap.DrawGlow(Bitmap, _DistanceMap, 6, "#fff0d3", 0.1f);
+			graphics.DrawImage(BaseImage, Point.Empty);
+
+			Bitmap.Save(@"C:\projects\talestra_tov\test.png");
+			//Console.WriteLine(.Name);
+		}
+
+		static void Main5()
+		{
+			var Patcher = new Patcher((string)null);
+			var PatchAll = new PatchAll(Patcher);
+			Patcher.InitWithGamePath(@"C:\vesperia\vesperia");
+			//Patcher.InitWithGamePath(@"I:\GAMES\vesperia");
+			PatchAll.CheckFileSystemVesperiaExceptions(Patcher.GameFileSystem);
+			PatchAll.Handle();
+		}
+
 		static void Main(string[] Args)
 		{
-			Main2(Args);
+			Main5();
+			//Main4();
+			//Main2(Args);
 			//Main3(Args);
 
 			Console.WriteLine("<END>");
