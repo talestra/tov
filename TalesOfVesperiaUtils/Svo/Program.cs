@@ -9,6 +9,7 @@ using CSharpUtils.Getopt;
 using TalesOfVesperiaUtils;
 using TalesOfVesperiaUtils.Formats.Packages;
 using TalesOfVesperiaUtils.Compression;
+using System.Text.RegularExpressions;
 
 namespace Svo
 {
@@ -124,6 +125,100 @@ namespace Svo
 			//{
 			//	Console.Error.WriteLine("{0}", Exception);
 			//}
+		}
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="SvoPath"></param>
+		/// <param name="OutputDirectory"></param>
+		[Command("-l", "--list")]
+		[Description("Lists a FPS4/TO8SCEL file")]
+		[Example("-l UI.svo")]
+		protected void ExtractSvo(string SvoPath)
+		{
+			//try
+			//{
+			using (var _SvoStream = File.OpenRead(SvoPath))
+			{
+				Stream SvoStream = _SvoStream;
+				int Compressed = TalesCompression.DetectVersion(SvoStream.Slice().ReadBytes(16), SvoStream.Length);
+				if (Compressed >= 0)
+				{
+					SvoStream = TalesCompression.DecompressStream(SvoStream);
+				}
+
+				if (SvoStream.SliceWithLength().ReadString(7) == "TO8SCEL")
+				{
+					var TO8SCEL = new TO8SCEL(SvoStream);
+
+					foreach (var Entry in TO8SCEL)
+					{
+						Console.WriteLine("{0} ... Start: {1}, End: {2}, Length: {3}", Entry.Index, Entry.EntryStruct.Offset, Entry.EntryStruct.Offset + Entry.EntryStruct.LengthCompressed, Entry.EntryStruct.LengthCompressed);
+					}
+				}
+				else
+				{
+					var FPS4 = new FPS4(SvoStream);
+
+					Console.WriteLine("{0}", FPS4);
+
+					foreach (var Entry in FPS4)
+					{
+						Console.WriteLine("{0} ... Start: {1}, End: {2}, Length: {3}", Entry.Name, Entry.EntryStruct.Offset, Entry.EntryStruct.Offset + Entry.EntryStruct.LengthReal, Entry.EntryStruct.LengthReal);
+					}
+				}
+			}
+		}
+
+		[Command("--csvhandle")]
+		[Description("Processes a ProcessMonitor csv file and identifies SVO readings.")]
+		[Example("-csvhandle file.csv")]
+		protected void CsvHandle(string CsvPath)
+		{
+			var ListLastPair = new HashSet<string>();
+			var FPS4List = new Dictionary<string, FPS4>();
+			var Parse = new Regex(@"ReadFile"",""([^""]+)"",""SUCCESS"",""Offset: ([\d\.]+), Length: ([\d\.]+)", RegexOptions.Compiled);
+			foreach (var Line in File.ReadAllLines(CsvPath))
+			{
+				if (Line.Contains(@"ReadFile"))
+				{
+					var Match = Parse.Match(Line);
+					if (Match.Groups[1].Value == "") {
+						//Console.WriteLine(Line);
+						Console.Error.WriteLine("Invalid Line! : {0}", Line);
+					} else {
+						var FilePath = Match.Groups[1].Value;
+						var Offset = int.Parse(Match.Groups[2].Value.Replace(".", "").Trim());
+						var Length = int.Parse(Match.Groups[3].Value.Replace(".", "").Trim());
+						if (!FPS4List.ContainsKey(FilePath)) {
+							try {
+								FPS4List[FilePath] = new FPS4(File.OpenRead(FilePath));
+							} catch {
+							}
+						}
+						if (FPS4List.ContainsKey(FilePath)) {
+							var FPS4 = FPS4List[FilePath];
+							foreach (var Item in FPS4) {
+								if (Offset >= Item.EntryStruct.Offset && Offset < Item.EntryStruct.Offset + Item.EntryStruct.LengthReal) {
+									var CurrentPair = FilePath + Item.Name;
+									if (!ListLastPair.Contains(CurrentPair))
+									{
+										ListLastPair.Add(CurrentPair);
+										Console.WriteLine("{0}: {1}, {2} : {3}", FilePath, Offset, Length, Item.Name);
+									}
+								}
+							}
+						}
+					}
+
+					//var Parts = Line.Split(',');
+					//Console.WriteLine(Parts[5]);
+					//Console.WriteLine(Parts[7]);
+					//Console.WriteLine(Parts[8]);
+					//Console.WriteLine(String.Join("||", Parts));
+				}
+			}
 		}
 
 		/// <summary>
