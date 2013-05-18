@@ -106,6 +106,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 					});
 				}
 
+
 				// TODO: TOWNMAP!
 
 				//Patcher.GameGetTXM("TOWNMAPFOR", (Txm) =>
@@ -115,6 +116,15 @@ namespace TalesOfVesperiaTranslationEngine.Components
 				//	Patcher.UpdateTxm2DWithImage(Txm, Bitmap, "U_MAP_EFOR");
 				//});
 
+			});
+
+			Patcher.Action("Patching Misc...", () =>
+			{
+				//Patcher.PatcherGetFile("Test/SITE00.DAV.test", (Stream) =>
+				Patcher.PatcherGetFile("Test/SITE00.DAV.old", (Stream) =>
+				{
+					Patcher.GameReplaceFile("SITE00.DAV", Stream);
+				});
 			});
 		}
 

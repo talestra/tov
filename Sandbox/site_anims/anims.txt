@@ -1,0 +1,2 @@
+
+Parse error: syntax error, unexpected '.', expecting '}' in C:\projects\talestra_tov\Sandbox\site_anims\process.php on line 26
