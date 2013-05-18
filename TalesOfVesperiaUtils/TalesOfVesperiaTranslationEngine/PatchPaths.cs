@@ -58,6 +58,13 @@ namespace TalesOfVesperiaTranslationEngine
         public static string COOK_NA04 = "Images/Menu/COOK_NA04.png";
         public static string COOK_NA05 = "Images/Menu/COOK_NA05.png";
 
+		public static string SKILL_NA01 = "Images/Menu/SKILL_NA01.png";
+		public static string SKILL_NA02_01 = "Images/Menu/SKILL_NA02_01.png";
+		public static string SKILL_NA02_02 = "Images/Menu/SKILL_NA02_02.png";
+		public static string SKILL_NA02_03 = "Images/Menu/SKILL_NA02_03.png";
+		public static string SKILL_NA02_04 = "Images/Menu/SKILL_NA02_04.png";
+		public static string SKILL_NA03 = "Images/Menu/SKILL_NA03.png";
+
         public static string U_COMALLINFO00 = "Images/Menu/U_COMALLINFO00.png";
         public static string U_ICONKIND00 = "Images/Menu/U_ICONKIND00.png";
         public static string U_ICONSORT00 = "Images/Menu/U_ICONSORT00.png";

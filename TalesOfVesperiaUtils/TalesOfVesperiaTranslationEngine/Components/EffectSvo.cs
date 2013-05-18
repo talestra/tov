@@ -104,6 +104,27 @@ namespace TalesOfVesperiaTranslationEngine.Components
 					});
 				});
 
+				Patcher.Action("Cooking Tutorial", () =>
+				{
+					Patcher.GameAccessPath("E_A057.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA01, "COOK_NA01"); }); });
+					Patcher.GameAccessPath("E_A058.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA02, "COOK_NA02"); }); });
+					Patcher.GameAccessPath("E_A059.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA03, "COOK_NA03"); }); });
+					Patcher.GameAccessPath("E_A060.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA04, "COOK_NA04"); }); });
+					Patcher.GameAccessPath("E_A061.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA05, "COOK_NA05"); }); });
+				});
+
+				Patcher.Action("Skill Tutorial", () =>
+				{
+					Patcher.GameAccessPath("E_A031.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA01, "SKILL_NA01"); }); });
+					Patcher.GameAccessPath("E_A032.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => {
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_01, "SKILL_NA02_01");
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_02, "SKILL_NA02_02");
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_03, "SKILL_NA02_03");
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_04, "SKILL_NA02_04");
+					}); });
+					Patcher.GameAccessPath("E_A033.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA03, "SKILL_NA03"); }); });
+				});
+
 				Patcher.Action("Title Menu", () =>
 				{
 					Patcher.GameAccessPath("E_A101_TITLE.DAT", () =>

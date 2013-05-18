@@ -106,13 +106,14 @@ namespace TalesOfVesperiaTranslationEngine.Components
 					});
 				}
 
-				//TOWNMAPFOR.U_MAP_EFOR
-				Patcher.GameGetTXM("TOWNMAPFOR", (Txm) =>
-				{
-					var BaseImage = Txm.Surface2DEntriesByName["U_MAP_EFOR"].Bitmap;
-					var Bitmap = _TranslateZoneAnimationImage(BaseImage, "", "Fuerte de Deidon");
-					Patcher.UpdateTxm2DWithImage(Txm, Bitmap, "U_MAP_EFOR");
-				});
+				// TODO: TOWNMAP!
+
+				//Patcher.GameGetTXM("TOWNMAPFOR", (Txm) =>
+				//{
+				//	var BaseImage = Txm.Surface2DEntriesByName["U_MAP_EFOR"].Bitmap;
+				//	var Bitmap = _TranslateZoneAnimationImage(BaseImage, "", "Fuerte de Deidon");
+				//	Patcher.UpdateTxm2DWithImage(Txm, Bitmap, "U_MAP_EFOR");
+				//});
 
 			});
 		}
@@ -145,8 +146,17 @@ namespace TalesOfVesperiaTranslationEngine.Components
 				graphics.SmoothingMode = System.Drawing.Drawing2D.SmoothingMode.HighQuality;
 				graphics.TextRenderingHint = TextRenderingHint.AntiAlias;
 
-				graphics.DrawString(Row1, Font1, new SolidBrush((ARGB_Rev)"#503c3c"), new PointF(-2, 35.2f));
-				graphics.DrawString(Row2, Font2, new SolidBrush((ARGB_Rev)"#503c3c"), new PointF(-3, 97));
+				var SolidBrush = new SolidBrush((ARGB_Rev)"#503c3c");
+
+				graphics.DrawString(Row1, Font1, SolidBrush, new PointF(-2, 35.2f));
+				//graphics.DrawString(Row2, Font2, SolidBrush, new PointF(-3, 97));
+
+				float Position = -3;
+				for (int n = 0; n < Row2.Length; n++) {
+					graphics.DrawString(Row2.Substr(n, 1), Font2, SolidBrush, new PointF(Position, 97));
+					var Size = graphics.MeasureString(Row2.Substr(n, 1), Font2);
+					Position += Size.Width - 2;
+				}
 
 				var _DistanceMap = DistanceMap.GetDistanceMap(DistanceMap.GetMask(Bitmap));
 
@@ -154,6 +164,8 @@ namespace TalesOfVesperiaTranslationEngine.Components
 				graphics.DrawImage(BaseImage, Point.Empty);
 
 			});
+
+			Bitmap.Save(@"C:\vesperia\vesperia\test.png");
 			return Bitmap;
 		}
 
