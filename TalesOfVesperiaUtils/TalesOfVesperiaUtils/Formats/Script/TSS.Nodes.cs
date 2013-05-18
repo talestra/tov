@@ -147,8 +147,16 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							break;
 						default:
 							{
-								Console.Error.WriteLine("Unhandled " + ValuesType);
-								for (int n = 0; n < ArrayNumberOfElements; n++) yield return "<TODO " + "Unhandled " + ValuesType + ">";
+								Console.Error.WriteLine("Unhandled " + ValuesType + "(" + ArrayPointer + "," + ArrayNumberOfBytes + ")[" + ArrayNumberOfElements + "]");
+								//if (ArrayNumberOfElements == 0)
+								//{
+								//	yield return "<TODO " + "Unhandled " + ValuesType + "(" + ArrayPointer + "," + ArrayNumberOfBytes + ")>";
+								//}
+								//else
+								{
+									yield return "<TODO " + "Unhandled " + ValuesType + ">";
+									for (int n = 0; n < ArrayNumberOfBytes; n++) yield return "" + ArrayStream.ReadStruct<byte>();
+								}
 							}
 							break;
 							//throw (new Exception("Unhandled " + ValuesType));

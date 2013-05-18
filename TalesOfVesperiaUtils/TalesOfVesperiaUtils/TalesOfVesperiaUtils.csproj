@@ -56,6 +56,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Formats\Misc\TO8MAPL.cs" />
     <Compile Include="JsonTranslations.cs" />
     <Compile Include="PatchInplace.cs" />
     <Compile Include="Audio\SE3.cs" />
