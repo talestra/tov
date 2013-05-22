@@ -121,10 +121,10 @@ namespace TalesOfVesperiaTranslationEngine.Components
 			Patcher.Action("Patching Misc...", () =>
 			{
 				//Patcher.PatcherGetFile("Test/SITE00.DAV.test", (Stream) =>
-				Patcher.PatcherGetFile("Test/SITE00.DAV.old", (Stream) =>
-				{
-					Patcher.GameReplaceFile("SITE00.DAV", Stream);
-				});
+				//Patcher.PatcherGetFile("Test/SITE00.DAV.old", (Stream) =>
+				//{
+				//	Patcher.GameReplaceFile("SITE00.DAV", Stream);
+				//});
 			});
 		}
 

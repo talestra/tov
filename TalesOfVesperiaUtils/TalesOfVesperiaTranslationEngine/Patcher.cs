@@ -82,16 +82,21 @@ namespace TalesOfVesperiaTranslationEngine
 			return this;
 		}
 
-		public void ParallelForeach<T>(string Verb, IEnumerable<T> List, Func<T, string> GetNameFunc, Action<T> EachAction)
+		public void Foreach<T>(string Verb, IEnumerable<T> List, Func<T, string> GetNameFunc, Action<T> EachAction)
 		{
 			var OldActionLevel = this.ActionLevel;
-			List.AsParallel().ForEach((Item) =>
+			List.ForEach((Item) =>
 			{
 				this.Action(String.Format("{0} {1}", Verb, GetNameFunc(Item)), () =>
 				{
 					EachAction(Item);
 				}, OldActionLevel);
 			});
+		}
+
+		public void ParallelForeach<T>(string Verb, IEnumerable<T> List, Func<T, string> GetNameFunc, Action<T> EachAction)
+		{
+			Foreach(Verb, List.AsParallel(), GetNameFunc, EachAction);
 		}
 
 		Stream GameIsoStream = null;

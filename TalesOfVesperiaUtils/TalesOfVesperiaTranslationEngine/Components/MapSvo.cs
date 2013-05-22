@@ -39,6 +39,10 @@ namespace TalesOfVesperiaTranslationEngine.Components
                 return;
             }
 
+			var PasswordString = Patcher.PatcherDataFS.ReadAllBytes("Text/password.txt").GetString(Encoding.UTF8).Trim();
+			//Console.WriteLine(PasswordString);
+			//Console.ReadKey();
+
             this.Patcher.ProgressHandler.AddProgressLevel("Translating Rooms", RoomCount, () =>
             {
                 FileSystem.CopyFile(Patcher.GameFileSystem, "language/scenario_uk.dat", Patcher.TempFS, "scenario_uk.dat");
@@ -48,7 +52,9 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
                 Patcher.TempFS.CreateDirectory("SCENARIO_ES", 0777, false);
 
-                Patcher.ParallelForeach("Translating Room", Iterators.IntRange(0, RoomCount - 1), (RoomId) => RoomId.ToString(), (RoomId) =>
+                Patcher.ParallelForeach
+				//Patcher.Foreach
+				("Translating Room", Iterators.IntRange(0, RoomCount - 1), (RoomId) => RoomId.ToString(), (RoomId) =>
                 {
                     var ScenarioTempFileName = ScenarioTempFileNamePrep + RoomId;
 
@@ -82,7 +88,20 @@ namespace TalesOfVesperiaTranslationEngine.Components
                                 {
                                     Console.Error.WriteLine("Missing Room");
                                 }
-                            });
+                            }, (Text) =>
+							{
+								if (RoomId == 192)
+								{
+									//Console.WriteLine("{0}", Text);
+									if (Text == "sun")
+									{
+										return PasswordString;
+									}
+								}
+								return null;
+							});
+
+							//if (RoomId == 192) Console.ReadKey();
 
                             Patcher.TempFS.WriteAllBytes(ScenarioTempFileName, Tss.Save().ToArray());
                         }

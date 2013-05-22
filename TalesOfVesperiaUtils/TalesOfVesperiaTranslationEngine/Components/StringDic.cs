@@ -58,7 +58,9 @@ namespace TalesOfVesperiaTranslationEngine.Components
                             var TranslationEntry = TranslationRoom[TextId];
 
                             TextEntry.TranslateWithTranslationEntry(TranslationEntry);
-                        }, HandleType1: true, AddAdditionalSpace: true);
+                        }, (String) => {
+							return null;
+						}, HandleType1: true, AddAdditionalSpace: true);
 
                         var TssTranslatedStream = Tss.Save();
                         OriginalLength = TssStream.Length;
@@ -73,7 +75,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
                     if (TranslatedLength > OriginalLength)
                     {
-                        throw (new Exception("Translated string_dic is bigger than the original one."));
+                        throw (new Exception(String.Format("Translated string_dic is bigger than the original one. {0} > {1}", TranslatedLength, OriginalLength)));
                     }
 
                     Patcher.TempFS.MoveFile("string_dic_es.so.temp", "string_dic_es.so", true);
