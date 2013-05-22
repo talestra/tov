@@ -110,7 +110,10 @@ namespace TalesOfVesperiaTranslationEngine.Components
                                     Entry.TranslateWithTranslationEntry(TranslationEntry);
 
                                     //Console.WriteLine("{0} : {1}", Entry.Translated[1], TranslationEntry.texts.es[1]);
-                                });
+                                }, (String) =>
+								{
+									return null;
+								});
 
                                 var TranslatedCompressedStream = TalesCompression.CreateFromVersion(Patcher.CompressionVersion, Patcher.CompressionFallback).EncodeFile(Tss.Save());
 

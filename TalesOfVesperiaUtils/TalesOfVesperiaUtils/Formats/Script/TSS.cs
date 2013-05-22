@@ -176,16 +176,30 @@ namespace TalesOfVesperiaUtils.Formats.Script
 			{
 				if (TextEntry == null && !EmitSeparators) return;
 				TextEntries.Add(TextEntry);
+			}, (StringInfo) => {
 			}, HandleType1);
 			return TextEntries;
 		}
 
-        public void TranslateTexts(Action<TextEntry> TranslateTextEntry, bool HandleType1 = true, bool AddAdditionalSpace = true)
+		public List<StringInfo> ExtractStrings(bool HandleType1 = true, bool EmitSeparators = false)
+		{
+			var StringInfoList = new List<StringInfo>();
+			HandleTexts((TextEntry) =>
+			{
+			}, (StringInfo) =>
+			{
+				StringInfoList.Add(StringInfo);
+			}, HandleType1);
+			return StringInfoList;
+		}
+
+        public void TranslateTexts(Action<TextEntry> TranslateTextEntry, Func<string, string> TranslateNormalText, bool HandleType1 = true, bool AddAdditionalSpace = true)
 		{
 			var SpaceAssigner1D = new SpaceAssigner1D();
 			var SpaceAssigner1DUniqueAllocator = new SpaceAssigner1DUniqueAllocatorStream(SpaceAssigner1D, TextStream);
 
 			var Entries = new List<TextEntry>();
+			var StringInfoList2 = new List<StringInfo>();
 
 			HandleTexts((Entry) =>
 			{
@@ -208,6 +222,13 @@ namespace TalesOfVesperiaUtils.Formats.Script
 				{
 					TranslateTextEntry(Entry);
 				}
+			}, (StringInfo) => {
+				var Translated = TranslateNormalText(StringInfo.Text);
+				if (Translated != null)
+				{
+					StringInfo.Text = Translated;
+					StringInfoList2.Add(StringInfo);
+				}
 			}, HandleType1);
 
 			SpaceAssigner1DUniqueAllocator.FillSpacesWithZeroes();
@@ -224,6 +245,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
             var StringInfoList = Entries
                 .SelectMany(Item => Item.OriginalTranslated)
                 .OrderByDescending(Item => Item.Text.Length)
+				.Concat(StringInfoList2)
                 .ToArray()
             ;
 #else
@@ -257,7 +279,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
             }
         }
 
-		public void HandleTexts(Action<TextEntry> ActionTextEntry, bool HandleType1 = true)
+		public void HandleTexts(Action<TextEntry> ActionTextEntry, Action<StringInfo> ActionStringInfo, bool HandleType1 = true)
 		{
 			uint TextId = 0;
 			int Lang = 0;
@@ -284,11 +306,16 @@ namespace TalesOfVesperiaUtils.Formats.Script
 							var PushInstruction = (PushInstructionNode)Instruction;
 							if (PushInstruction.ParameterType == ValueType.String)
 							{
+								var StringInfo = new StringInfo(this, PushInstruction.IntValue, CodeStream.SliceWithLength(PushInstruction.InstructionPosition + 4, 4));
+								ActionStringInfo(StringInfo);
 								if (new[] { 1, 2 }.Contains(Lang))
 								{
-									var StringInfo = new StringInfo(this, PushInstruction.IntValue, CodeStream.SliceWithLength(PushInstruction.InstructionPosition + 4, 4));
 									if (Lang == 1) Text1 = new[] { StringInfo };
 									if (Lang == 2) Text2 = new[] { StringInfo };
+								}
+								else
+								{
+									//ActionStringInfo(StringInfo);
 								}
 							}
 							else

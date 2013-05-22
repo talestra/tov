@@ -4,6 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TalesOfVesperiaUtils.Formats.Script;
 using TalesOfVesperiaTests;
 using System.IO;
+using System.Collections.Generic;
 
 namespace Tests.TalesOfVesperiaUtils.Formats.Script
 {
@@ -56,6 +57,7 @@ namespace Tests.TalesOfVesperiaUtils.Formats.Script
 		{
 			string TssFileName = "BTL_EP_210_090";
 			int ExpectedTextCount = 4;
+			var ExpectedStrings = new Queue<String>();
 
 			var Tss = new TSS().Load(File.OpenRead(Utils.TestInputPath + "/" + TssFileName));
 			int mm = 0;
@@ -65,6 +67,19 @@ namespace Tests.TalesOfVesperiaUtils.Formats.Script
 				{
 					Text.Original[n].Text = "Original" + mm++;
 					Text.Translated[n].Text = "Translated" + mm++;
+				}
+			}, (String) => {
+				try
+				{
+					//Console.WriteLine(String);
+					if (String == "VB36_1402") {
+						return String = "**VB36_1403**";
+					}
+					return null;
+				}
+				finally
+				{
+					ExpectedStrings.Enqueue(String);
 				}
 			});
 			Assert.AreEqual(ExpectedTextCount * 2 * 2, mm);
@@ -80,6 +95,12 @@ namespace Tests.TalesOfVesperiaUtils.Formats.Script
 					Assert.AreEqual("Original" + mm++, Text.Original[n].Text);
 					Assert.AreEqual("Translated" + mm++, Text.Translated[n].Text);
 				}
+			}
+			var TranslatedStrings = Tss2.ExtractStrings();
+			foreach (var StringInfo in TranslatedStrings)
+			{
+				//Assert.AreEqual("Original" + mm++, Text.Original[n].Text);
+				Assert.AreEqual(ExpectedStrings.Dequeue(), StringInfo.Text);
 			}
 			Assert.AreEqual(ExpectedTextCount * 2 * 2, mm);
 			//File.WriteAllBytes(Utils.TestOutputPath + "/BTL_EP_210_090.translated", Tss.Save().ToArray());
