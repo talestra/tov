@@ -1,11 +1,10 @@
 @ECHO OFF
 ECHO MERGE
 PUSHD %~dp0
-	SET BASE_FOLDER=%~dp0\Bin\Debug
+	SET BASE_FOLDER=%~dp0\Bin\Release
 	SET FILES=
 	SET FILES=%FILES% "%BASE_FOLDER%\TalesOfVesperiaFrontendWPF.exe"
 	SET FILES=%FILES% "%BASE_FOLDER%\TalesOfVesperiaTranslationEngine.dll"
-	SET FILES=%FILES% "%BASE_FOLDER%\Blend4PatcherAnimation.dll"
 	SET FILES=%FILES% "%BASE_FOLDER%\TalesOfVesperiaUtils.dll"
 	SET FILES=%FILES% "%BASE_FOLDER%\Newtonsoft.Json.dll"
 	SET FILES=%FILES% "%BASE_FOLDER%\protobuf-net.dll"

@@ -58,5 +58,16 @@ namespace Tests.TalesOfVesperiaUtils.Text
 				)
 			);
         }
+
+		[TestMethod]
+		public void TestExtraTitlesInChatFix()
+		{
+			var Modified = TextProcessor.Instance.ProcessAndDetectPitfalls(
+				"What makes you say that all of a sudden?",
+				"<STR>(YUR)\n¿A qué viene esto ahora?",
+				true
+			);
+			Assert.AreEqual("ËA qué viene esto ahora?", Modified);
+		}
 	}
 }
