@@ -29,6 +29,11 @@ namespace TalesOfVesperiaUtils.Text
 		/// <summary>
 		/// 
 		/// </summary>
+		private Regex StartWithNameRegex;
+
+		/// <summary>
+		/// 
+		/// </summary>
         public readonly Logger Logger = Logger.CreateAnonymousLogger();
 
 		/// <summary>
@@ -39,6 +44,7 @@ namespace TalesOfVesperiaUtils.Text
 			//ReferencesRegex = new Regex("(\x02|\x03)(\\(\\w+\\))", RegexOptions.Compiled | RegexOptions.Multiline);
 			ReferencesRegex = new Regex(@"[\x01|\x02|\x03|\x04|\x05](\(\w+\))", RegexOptions.Compiled | RegexOptions.Multiline);
 			ReferencesPitfalledRegex = new Regex(@"(^|[^\x01|\x02|\x03|\x04|\x05])(\(\w+\))", RegexOptions.Compiled | RegexOptions.Multiline);
+			StartWithNameRegex = new Regex(@"^<STR>\(\w+\)\r?\n", RegexOptions.Compiled | RegexOptions.Multiline);
 		}
 
 		/// <summary>
@@ -129,6 +135,14 @@ namespace TalesOfVesperiaUtils.Text
 			if (Base.EndsWith("\n") && !Modified.EndsWith("\n"))
 			{
 				Modified += "\n";
+			}
+
+			if (!StartWithNameRegex.IsMatch(Base) && StartWithNameRegex.IsMatch(Modified))
+			{
+				//Console.WriteLine(Modified);
+				Modified = StartWithNameRegex.Replace(Modified, "");
+				//Console.WriteLine(Modified);
+				//Console.WriteLine(Modified[0]);
 			}
 
 			return Modified;
