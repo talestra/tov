@@ -447,7 +447,7 @@ namespace TalesOfVesperiaSpike
 			DistanceMap.DrawGlow(Bitmap, _DistanceMap, 6, "#fff0d3", 0.1f);
 			graphics.DrawImage(BaseImage, Point.Empty);
 
-			Bitmap.Save(@"C:\projects\talestra_tov\test.png");
+			//Bitmap.Save(@"C:\projects\talestra_tov\test.png");
 			//Console.WriteLine(.Name);
 		}
 

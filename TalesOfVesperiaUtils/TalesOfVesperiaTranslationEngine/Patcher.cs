@@ -96,7 +96,15 @@ namespace TalesOfVesperiaTranslationEngine
 
 		public void ParallelForeach<T>(string Verb, IEnumerable<T> List, Func<T, string> GetNameFunc, Action<T> EachAction)
 		{
-			Foreach(Verb, List.AsParallel(), GetNameFunc, EachAction);
+			//Foreach(Verb, List.AsParallel(), GetNameFunc, EachAction);
+			var OldActionLevel = this.ActionLevel;
+			List.AsParallel().ForEach((Item) =>
+			{
+				this.Action(String.Format("{0} {1}", Verb, GetNameFunc(Item)), () =>
+				{
+					EachAction(Item);
+				}, OldActionLevel);
+			});
 		}
 
 		Stream GameIsoStream = null;
@@ -172,11 +180,11 @@ namespace TalesOfVesperiaTranslationEngine
 			});
 		}
 
-		public void GameAccessPath(string Path, Action ActionAccess)
+		public void GameAccessPath(string Path, Action ActionAccess, int RecompressVersion = -1)
 		{
 			this.Action(String.Format("Accessing {0}", Path), () =>
 			{
-				this.PatchInplace.Access(Path, ActionAccess);
+				this.PatchInplace.Access(Path, ActionAccess, RecompressVersion);
 			});
 		}
 
@@ -231,6 +239,95 @@ namespace TalesOfVesperiaTranslationEngine
 			}
 		}
 
+		static private int ColorDistance(Color a, Color b)
+		{
+			return (
+				Math.Abs((int)a.R - (int)b.R) +
+				Math.Abs((int)a.G - (int)b.G) +
+				Math.Abs((int)a.B - (int)b.B)
+			) / 3;
+		}
+
+		class RleItem {
+			public Color Color;
+			public int Count;
+
+			public RleItem(Color Color, int Count)
+			{
+				this.Color = Color;
+				this.Count = Count;
+			}
+		}
+
+		private void ReduceRle(List<RleItem> Input)
+		{
+			for (int n = 1; n < Input.Count - 1; n++)
+			{
+				if (
+					(Input[n].Count < (Input[n - 1].Count + Input[n + 1].Count) * 0.1)
+				) {
+					if (
+						(ColorDistance(Input[n].Color, Input[n - 1].Color) < 64) &&
+						(ColorDistance(Input[n].Color, Input[n + 1].Color) < 64)
+					)
+					{
+						Input[n - 1].Count += Input[n].Count;
+						Input.RemoveAt(n);
+						n--;
+						continue;
+					}
+				}
+			}
+		}
+
+		//private void ReduceRowColors(Bitmap Bitmap)
+		//{
+		//	for (int y = 0; y < Bitmap.Height; y++)
+		//	{
+		//		var Rle = new List<RleItem>();
+		//		for (int x = 0; x < Bitmap.Width - 1; x++)
+		//		{
+		//			int R = Bitmap.GetPixel(x + 0, y).R;
+		//			int G = Bitmap.GetPixel(x + 0, y).G;
+		//			int B = Bitmap.GetPixel(x + 0, y).B;
+		//			int Count = 1;
+		//			while ((x < Bitmap.Width - 1) && (ColorDistance(Bitmap.GetPixel(x, y), Bitmap.GetPixel(x + 1, y)) < 6))
+		//			{
+		//				R += Bitmap.GetPixel(x + 1, y).R;
+		//				G += Bitmap.GetPixel(x + 1, y).G;
+		//				B += Bitmap.GetPixel(x + 1, y).B;
+		//				Count++;
+		//				x++;
+		//			}
+		//			var Color2 = Color.FromArgb(R / Count, G / Count, B / Count);
+		//			Rle.Add(new RleItem(Color2, Count));
+		//			//Console.WriteLine("{0}: {1}", Color2, Count);
+		//		}
+		//		int x2 = 0;
+		//		ReduceRle(Rle);
+		//		foreach (var Item in Rle)
+		//		{
+		//			var Color = Item.Color;
+		//			var Count = Item.Count;
+		//			while (Count-- > 0) Bitmap.SetPixel(x2++, y, Color);
+		//		}
+		//	}
+		//}
+		//
+		//public void UpdateTxm2DWithPngDxt5Loosy(TXM Txm, string PatchPngPath, params string[] TxmNames)
+		//{
+		//	PatcherGetImage(PatchPngPath, (Bitmap) =>
+		//	{
+		//		//Bitmap = new DXT5().CompressColors(Bitmap);
+		//		ReduceRowColors(Bitmap);
+		//
+		//		Bitmap.Save(@"c:\temp\temp." + TxmNames[0] + ".png");
+		//		foreach (var Name in TxmNames)
+		//		{
+		//			Txm.Surface2DEntriesByName[Name].UpdateBitmap(Bitmap);
+		//		}
+		//	});
+		//}
 
 		public void UpdateTxm2DWithPng(TXM Txm, string PatchPngPath, params string[] TxmNames)
 		{

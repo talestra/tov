@@ -91,13 +91,60 @@ namespace TalesOfVesperiaUtils.Imaging
 			});
 		}
 
+		public Bitmap CompressColors(Bitmap Bitmap, CompressDXT.CompressionMode mode = CompressDXT.CompressionMode.Normal, int ReduceColors = 4)
+		{
+			var TempStream = new MemoryStream();
+			SaveSwizzled2D(Bitmap, TempStream, mode, ReduceColors);
+			return LoadSwizzled2D(TempStream.Slice(), Bitmap.Width, Bitmap.Height);
+		}
+
+		//static private ARGB_Rev FindNearColorInPalette(IEnumerable<ARGB_Rev> Palette, ARGB_Rev Color)
+		//{
+		//	return Palette.OrderBy(PaletteColor => ARGB_Rev.DistanceRGB(PaletteColor, Color)).First();
+		//}
+		//
+		//static private ARGB_Rev FindFarColorInPalette(IEnumerable<ARGB_Rev> Palette, ARGB_Rev Color)
+		//{
+		//	return Palette.OrderBy(PaletteColor => ARGB_Rev.DistanceRGB(PaletteColor, Color)).Last();
+		//}
+		//
+		//static private ARGB_Rev AverageColors(IEnumerable<ARGB_Rev> Palette)
+		//{
+		//	return new ARGB_Rev(
+		//		(byte)Palette.Average(Item => Item.A),
+		//		(byte)Palette.Average(Item => Item.R),
+		//		(byte)Palette.Average(Item => Item.G),
+		//		(byte)Palette.Average(Item => Item.B)
+		//	);
+		//}
+		//
+		//private void ReduceColors(List<ARGB_Rev> Palette, int ColorCount)
+		//{
+		//	while (Palette.Count > ColorCount)
+		//	{
+		//		Palette.Remove(FindNearColorInPalette(Palette, AverageColors(Palette)));
+		//	}
+		//}
+		//
+		//private void DoReduceColors(ref ARGB_Rev[] Colors, int ColorCount)
+		//{
+		//	var ReducedColorsList = Colors.ToList();
+		//	ReduceColors(ReducedColorsList, ColorCount);
+		//	//Console.WriteLine(String.Join(",", Colors.ToArray()));
+		//	//Console.WriteLine(String.Join(",", ReducedColorsList.ToArray()));
+		//	for (int n = 0; n < Colors.Length; n++)
+		//	{
+		//		Colors[n] = FindNearColorInPalette(ReducedColorsList, Colors[n]);
+		//	}
+		//}
+
 		/// <summary>
 		/// 
 		/// </summary>
 		/// <param name="Bitmap"></param>
 		/// <param name="File"></param>
 		/// <param name="mode"></param>
-		public void SaveSwizzled2D(Bitmap Bitmap, Stream File, CompressDXT.CompressionMode mode = CompressDXT.CompressionMode.Normal, bool ShowWarnings = false)
+		public void SaveSwizzled2D(Bitmap Bitmap, Stream File, CompressDXT.CompressionMode mode = CompressDXT.CompressionMode.Normal, int ReduceColors = 16, bool ShowWarnings = false)
 		{
 			int Width = Bitmap.Width, Height = Bitmap.Height;
 			if ((Width % 4) != 0 || (Height % 4) != 0) throw (new InvalidDataException());
@@ -144,6 +191,8 @@ namespace TalesOfVesperiaUtils.Imaging
 							n++;
 						}
 					}
+
+					//if (ReduceColors != 16) DoReduceColors(ref CurrentDecodedColors, ReduceColors);
 
 					EncodeBlock(ref Blocks[dxt5_n], ref CurrentDecodedColors, mode);
 				}
