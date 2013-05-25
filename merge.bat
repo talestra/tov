@@ -1,7 +1,15 @@
 @ECHO OFF
 ECHO MERGE
 PUSHD %~dp0
-	SET BASE_FOLDER=%~dp0\Bin\Release
+	REM set bb.build.msbuild.exe=for /D %%D in (%SYSTEMROOT%\Microsoft.NET\Framework\v4*) do set msbuild.exe=%%D\MSBuild.exe
+	REM reg query HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSBuild\ToolsVersions\4.0 /v MSBuildToolsPath
+	
+	REM echo %bb.build.msbuild.exe%
+	REM EXIT /B
+	
+	SET CONFIG=Release
+	C:\Windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe TalesOfVesperia.sln /p:Configuration=%CONFIG%
+	SET BASE_FOLDER=%~dp0\Bin\%CONFIG%
 	SET FILES=
 	SET FILES=%FILES% "%BASE_FOLDER%\TalesOfVesperiaFrontendWPF.exe"
 	SET FILES=%FILES% "%BASE_FOLDER%\TalesOfVesperiaTranslationEngine.dll"
