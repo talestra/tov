@@ -139,8 +139,10 @@ namespace TalesOfVesperiaUtils.Text
 
 			if (!StartWithNameRegex.IsMatch(Base) && StartWithNameRegex.IsMatch(Modified))
 			{
+				Logger.Warning("Leading player title: " + Base + " : " + Modified);
 				//Console.WriteLine(Modified);
 				Modified = StartWithNameRegex.Replace(Modified, "");
+				Logger.Warning(" --> " + Modified);
 				//Console.WriteLine(Modified);
 				//Console.WriteLine(Modified[0]);
 			}

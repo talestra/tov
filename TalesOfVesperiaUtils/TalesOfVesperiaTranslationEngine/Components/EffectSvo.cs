@@ -76,6 +76,15 @@ namespace TalesOfVesperiaTranslationEngine.Components
 					});
 				});
 
+				Patcher.Action("Game Over", () =>
+				{
+					Patcher.GameAccessPath("E_A104_GAMEOVER.DAT", () =>
+					{
+						new CharaSvo(Patcher).HandleGameOver();
+					});
+				});
+				
+
 				Patcher.Action("Encounter Types", () =>
 				{
 					foreach (var DatFile in new[] { "E_A023.DAT", "E_A028.DAT" })
@@ -104,26 +113,26 @@ namespace TalesOfVesperiaTranslationEngine.Components
 					});
 				});
 
-				//Patcher.Action("Cooking Tutorial", () =>
-				//{
-				//	Patcher.GameAccessPath("E_A057.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA01, "COOK_NA01"); }); });
-				//	Patcher.GameAccessPath("E_A058.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA02, "COOK_NA02"); }); });
-				//	Patcher.GameAccessPath("E_A059.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA03, "COOK_NA03"); }); });
-				//	Patcher.GameAccessPath("E_A060.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA04, "COOK_NA04"); }); });
-				//	Patcher.GameAccessPath("E_A061.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA05, "COOK_NA05"); }); });
-				//});
-				//
-				//Patcher.Action("Skill Tutorial", () =>
-				//{
-				//	Patcher.GameAccessPath("E_A031.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA01, "SKILL_NA01"); }); });
-				//	Patcher.GameAccessPath("E_A032.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => {
-				//		Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_01, "SKILL_NA02_01");
-				//		Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_02, "SKILL_NA02_02");
-				//		Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_03, "SKILL_NA02_03");
-				//		Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_04, "SKILL_NA02_04");
-				//	}); });
-				//	Patcher.GameAccessPath("E_A033.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA03, "SKILL_NA03"); }); });
-				//});
+				Patcher.Action("Cooking Tutorial", () =>
+				{
+					Patcher.GameAccessPath("E_A057.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA01, "COOK_NA01", "COOK_FR01", "COOK_DE01"); }); }, 15);
+					Patcher.GameAccessPath("E_A058.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA02, "COOK_NA02", "COOK_FR02", "COOK_DE02"); }); }, 15);
+					Patcher.GameAccessPath("E_A059.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA03, "COOK_NA03", "COOK_FR03", "COOK_DE03"); }); }, 15);
+					Patcher.GameAccessPath("E_A060.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA04, "COOK_NA04", "COOK_FR04", "COOK_DE04"); }); }, 15);
+					Patcher.GameAccessPath("E_A061.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA05, "COOK_NA05", "COOK_FR05", "COOK_DE05"); }); }, 15);
+				});
+				
+				Patcher.Action("Skill Tutorial", () =>
+				{
+					Patcher.GameAccessPath("E_A031.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA01, "SKILL_NA01", "SKILL_FR01", "SKILL_DE01"); }); }, 15);
+					Patcher.GameAccessPath("E_A032.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => {
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_01, "SKILL_NA02_01", "SKILL_FR02_01", "SKILL_DE02_01");
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_02, "SKILL_NA02_02", "SKILL_FR02_02", "SKILL_DE02_02");
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_03, "SKILL_NA02_03", "SKILL_FR02_03", "SKILL_DE02_03");
+						Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_04, "SKILL_NA02_04", "SKILL_FR02_04", "SKILL_DE02_04");
+					}); }, 15);
+					Patcher.GameAccessPath("E_A033.DAT", () => { Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA03, "SKILL_NA03", "SKILL_FR03", "SKILL_DE03"); }); }, 15);
+				});
 
 				Patcher.Action("Title Menu", () =>
 				{

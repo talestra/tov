@@ -22,11 +22,11 @@ namespace TalesOfVesperiaUtils
 			this.FileSystem = FileSystem;
 		}
 
-		public void DecompressAndRecompressIfRequired(Stream Stream, Action<Stream> Action)
+		public void DecompressAndRecompressIfRequired(Stream Stream, Action<Stream> Action, int RecompressVersion = -1)
 		{
 			if (TalesCompression.IsValid(Stream))
 			{
-				using (var UncompressedStream = new DecompressRecompressStream(Stream))
+				using (var UncompressedStream = new DecompressRecompressStream(Stream, RecompressVersion))
 				{
 					Action(UncompressedStream);
 				}
@@ -45,7 +45,7 @@ namespace TalesOfVesperiaUtils
 			});
 		}
 
-		public void Access(string Path, Action Action)
+		public void Access(string Path, Action Action, int RecompressVersion = -1)
 		{
 			if (Path.Contains('/'))
 			{
@@ -74,18 +74,23 @@ namespace TalesOfVesperiaUtils
 					{
 						throw (new InvalidOperationException(String.Format("Can't access '{0}'", Path)));
 					}
-				});
-			});
+				}, RecompressVersion);
+			}, RecompressVersion);
 		}
 
-		public void GetFile(string File, Action<Stream> Action)
+		public void GetFile(string File, Action<Stream> Action, int RecompressVersion = -1)
 		{
 			using (var CompressedStream = FileSystem.OpenFileRW(File))
 			{
+				//Console.WriteLine("{0}", CompressedStream.Length);
 				DecompressAndRecompressIfRequired(CompressedStream, (UncompressedStream) =>
 				{
 					Action(UncompressedStream);
-				});
+					//if (UncompressedStream.Length <= 4 * 1024 * 1024)
+					//{
+					//	System.IO.File.WriteAllBytes(@"J:\isos\360\vesperia_ori\_temp\TEMP.bin", UncompressedStream.ReadAll());
+					//}
+				}, RecompressVersion);
 			}
 		}
 

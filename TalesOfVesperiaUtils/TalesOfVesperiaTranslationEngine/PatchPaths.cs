@@ -25,6 +25,8 @@ namespace TalesOfVesperiaTranslationEngine
         public static string U_MENUBTLINFO00 = "Images/Battle/U_MENUBTLINFO00.png";
         public static string U_MENUBTLINFO02 = "Images/Battle/U_MENUBTLINFO02.png";
 
+		public static string U_GAMEOVER_000_E = "Images/Over/U_GAMEOVER_000_E.png";
+
         public static string U_MG_BR = "Images/Minigames/U_MG_BR.png";
         public static string U_MINIGAMEISHI01E = "Images/Minigames/U_MINIGAMEISHI01E.png";
         public static string U_MINIGAMEISHI02E = "Images/Minigames/U_MINIGAMEISHI02E.png";

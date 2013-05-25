@@ -119,8 +119,8 @@ namespace TalesOfVesperiaTests.Imaging
 				BitConverter.ToString(Bytes)
 			);
 
-			var Bitmap = (new DXT5()).LoadSwizzled2D(File.OpenRead("../../../TestInput/FONTTEX05.TXV.mod.TXV"), 2048, 2048);
-			Bitmap.Save("../../../Lol.png");
+			//var Bitmap = (new DXT5()).LoadSwizzled2D(File.OpenRead("../../../TestInput/FONTTEX05.TXV.mod.TXV"), 2048, 2048);
+			//Bitmap.Save("../../../Lol.png");
 		}
 	}
 }
