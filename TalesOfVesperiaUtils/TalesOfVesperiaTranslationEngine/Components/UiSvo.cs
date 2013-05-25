@@ -106,6 +106,37 @@ namespace TalesOfVesperiaTranslationEngine.Components
 					});
 				}
 
+				foreach (var Suffix in new[] { "", "_E", "_F", "_G" })
+				{
+					Patcher.GameGetTXM("MINIGAMEPOKER" + Suffix, (Txm) =>
+					{
+						foreach (var n in new[] {0, 1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 70})
+						{
+							var TexName = String.Format("U_MINIGAMEPOKER{0:D2}", n);
+							Patcher.UpdateTxm2DWithPng(Txm, String.Format("Images/Minigames/{0}.png", TexName), TexName);
+						}
+					});
+				}
+
+				foreach (var Suffix in new[] { "", "_E" })
+				{
+					Patcher.GameGetTXM("MINIGAMEISHI" + Suffix, (Txm) =>
+					{
+						foreach (var n in new[] { 1, 2 })
+						{
+							var TexName = String.Format("U_MINIGAMEISHI{0:D2}", n);
+							Patcher.UpdateTxm2DWithPng(Txm, String.Format("Images/Minigames/{0}.png", TexName), TexName);
+						}
+					});
+					Patcher.GameGetTXM("MINIGAMERACE" + Suffix, (Txm) =>
+					{
+						foreach (var n in new[] { 1, 2, 3 })
+						{
+							var TexName = String.Format("U_MINIGAMERACE{0:D2}", n);
+							Patcher.UpdateTxm2DWithPng(Txm, String.Format("Images/Minigames/{0}.png", TexName), TexName);
+						}
+					});
+				}
 
 				// TODO: TOWNMAP!
 

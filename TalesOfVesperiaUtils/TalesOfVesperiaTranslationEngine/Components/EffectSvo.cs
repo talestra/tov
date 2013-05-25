@@ -146,6 +146,17 @@ namespace TalesOfVesperiaTranslationEngine.Components
 						});
 					});
 				});
+
+				Patcher.Action("E_MG_RING_2D.DAT", () =>
+				{
+					Patcher.GameAccessPath("E_MG_RING_2D.DAT", () =>
+					{
+						Patcher.GameGetTXM("0", "1", (Txm) =>
+						{
+							Patcher.UpdateTxm2DWithPng(Txm, "Images/Minigames/U_MG_BR.png", "U_MG_BR");
+						});
+					}, 15);
+				});
 			});
 		}
 	}
