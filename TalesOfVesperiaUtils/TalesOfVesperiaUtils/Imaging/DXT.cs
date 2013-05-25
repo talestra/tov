@@ -254,7 +254,7 @@ namespace TalesOfVesperiaUtils.Imaging
 
 			if (BlockCount * Marshal.SizeOf(typeof(TBlock)) > File.Length)
 			{
-				Console.Error.WriteLine("File too small");
+				Console.Error.WriteLine(String.Format("File too small ({0} > {1}) ({2}x{3}) Type:{4}", BlockCount * Marshal.SizeOf(typeof(TBlock)), File.Length, Width, Height, this.GetType()));
 				//throw(new Exception("File too small"));
 				return new BitmapList(0);
 			}
