@@ -209,7 +209,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 					{
 						Patcher.GameAccessPath("E_A018", () =>
 						{
-							Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.E_A018_LVUP_00, "E_A018_LVUP_00"); });
+							Patcher.GameGetTXM("E_A018/E_A018_LVUP.MDL", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.E_A018_LVUP_00, "E_A018_LVUP_00"); });
 						});
 					});
 

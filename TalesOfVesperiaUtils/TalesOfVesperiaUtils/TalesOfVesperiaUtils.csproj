@@ -57,6 +57,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Formats\Misc\TO8MAPL.cs" />
+    <Compile Include="Imaging\DXT5A.cs" />
+    <Compile Include="Imaging\SPM.cs" />
     <Compile Include="JsonTranslations.cs" />
     <Compile Include="PatchInplace.cs" />
     <Compile Include="Audio\SE3.cs" />
