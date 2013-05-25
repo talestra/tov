@@ -98,6 +98,15 @@ namespace TalesOfVesperiaTranslationEngine.Components
 										return PasswordString;
 									}
 								}
+								if (RoomId == 31 || RoomId == 35)
+								{
+									//Console.WriteLine("{0}", Text);
+									if (Text == "1st") return "1ª";
+									if (Text == "2nd") return "2ª";
+									if (Text == "Last") return "Última";
+									if (Text == "%s Battle") return "%s batalla";
+									if (Text == "%s?\n") return "¿%s?\n";
+								}
 								return null;
 							});
 

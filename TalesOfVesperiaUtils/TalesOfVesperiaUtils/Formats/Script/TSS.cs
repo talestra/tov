@@ -228,6 +228,7 @@ namespace TalesOfVesperiaUtils.Formats.Script
 				{
 					StringInfo.Text = Translated;
 					StringInfoList2.Add(StringInfo);
+					SpaceAssigner1D.AddAvailableWithLength(StringInfo.StringzOffset, StringInfo.StringzLength);
 				}
 			}, HandleType1);
 
