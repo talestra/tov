@@ -184,7 +184,7 @@ namespace TovExpander
 					Console.WriteLine("{0}", TxtFile);
 					if (Overwrite || !File.Exists(TxtFile))
 					{
-						var Tss = new TSS().Load(FileStream);
+						var Tss = new TSS().Load(FileStream.Slice());
 
 						using (var TxtStream = File.Open(TxtFile, FileMode.Create, FileAccess.Write))
 						using (var TextWriter = new StreamWriter(TxtStream))
@@ -204,7 +204,7 @@ namespace TovExpander
 					Console.WriteLine("{0}", ScrFile);
 					if (Overwrite || !File.Exists(ScrFile))
 					{
-						var Tss = new TSS().Load(FileStream);
+						var Tss = new TSS().Load(FileStream.Slice());
 
 						using (var TxtStream = File.Open(ScrFile, FileMode.Create, FileAccess.Write))
 						using (var TextWriter = new StreamWriter(TxtStream))
