@@ -177,6 +177,7 @@ namespace Svo
 		protected void CsvHandle(string CsvPath)
 		{
 			var ListLastPair = new HashSet<string>();
+			var ProcessedNormalFile = new HashSet<string>();
 			var FPS4List = new Dictionary<string, FPS4>();
 			var Parse = new Regex(@"ReadFile"",""([^""]+)"",""SUCCESS"",""Offset: ([\d\.]+), Length: ([\d\.]+)", RegexOptions.Compiled);
 			foreach (var Line in File.ReadAllLines(CsvPath))
@@ -208,6 +209,12 @@ namespace Svo
 										Console.WriteLine("{0}: {1}, {2} : {3}", FilePath, Offset, Length, Item.Name);
 									}
 								}
+							}
+						} else {
+							if (!ProcessedNormalFile.Contains(FilePath))
+							{
+								ProcessedNormalFile.Add(FilePath);
+								Console.WriteLine("{0}: {1}, {2}", FilePath, Offset, Length);
 							}
 						}
 					}

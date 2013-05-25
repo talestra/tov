@@ -1,0 +1,30 @@
+C:\vesperia\vesperia.ori\map.svo: 461960288, 2976 : FIELDNORMALFLD_A_0_0.DAT
+C:\vesperia\vesperia.ori\snd\MUSIC.spb: 193382400, 4256
+C:\vesperia\vesperia.ori\map.svo: 467881984, 4256 : FIELDNORMALFLD_A_1_2.DAT
+C:\vesperia\vesperia.ori\map.svo: 469237760, 65536 : FIELDNORMALFLD_A_1_3.DAT
+C:\vesperia\vesperia.ori\map.svo: 497649664, 2048 : FORTEX.DAT
+C:\vesperia\vesperia.ori\map.svo: 497647616, 4096 : FORT00.DAT
+C:\vesperia\vesperia.ori\ai.svo: 163840, 2048 : FOR_T00.DAT
+C:\vesperia\vesperia.ori\map.svo: 497651712, 28672 : FRII00.DAT
+C:\vesperia\vesperia.ori\chara.svo: 1434271744, 4256 : FOR_C.DAT
+C:\vesperia\vesperia.ori\chara.svo: 1438253056, 65536 : FRI_C.DAT
+C:\vesperia\vesperia.ori\chara.svo: 1033723904, 4256 : EP_050_010.DAT
+C:\vesperia\vesperia.ori\chara.svo: 1040777216, 65536 : EP_050_020.DAT
+C:\vesperia\vesperia.ori\effect.svo: 174430208, 4256 : W_SWO_E_03_00.DAT
+C:\vesperia\vesperia.ori\effect.svo: 174428160, 8192 : W_SWO_E_00_01.DAT
+C:\vesperia\vesperia.ori\effect.svo: 174522368, 65536 : W_SWO_E_06_00.DAT
+C:\vesperia\vesperia.ori\effect.svo: 174483456, 4256 : W_SWO_E_03_00A.DAT
+C:\vesperia\vesperia.ori\effect.svo: 170455040, 4256 : W_SHI_E_00_00.DAT
+C:\vesperia\vesperia.ori\effect.svo: 170582016, 8192 : W_SHI_E_02_00.DAT
+C:\vesperia\vesperia.ori\effect.svo: 161046528, 4256 : W_DOS_D_00_00.DAT
+C:\vesperia\vesperia.ori\effect.svo: 161153024, 65536 : W_DOS_D_01_00.DAT
+C:\vesperia\vesperia.ori\effect.svo: 161114112, 4256 : W_DOS_D_00_00A.DAT
+C:\vesperia\vesperia.ori\effect.svo: 161128448, 4256 : W_DOS_D_00_01.DAT
+C:\vesperia\vesperia.ori\effect.svo: 160825344, 4256 : W_DOG_D_00_00.DAT
+C:\vesperia\vesperia.ori\UI.svo: 342388736, 4256 : SITE00.DAT
+C:\vesperia\vesperia.ori\UI.svo: 342425600, 65536 : SITE00.DAV
+C:\vesperia\vesperia.ori\UI.svo: 342491136, 65536 : TESTMODEL.DAV
+C:\vesperia\vesperia.ori\UI.svo: 405807104, 2048 : TOWNMAPFOR.TXM
+C:\vesperia\vesperia.ori\UI.svo: 405809152, 4256 : TOWNMAPFOR.TXV
+C:\vesperia\vesperia.ori\UI.svo: 410058752, 65536 : TOWNMAPFRI.TXV
+C:\vesperia\vesperia.ori\snd\US_VOSCE01.spb: 15599616, 2048
