@@ -61,6 +61,7 @@
     <Compile Include="Components\CommonSvo.cs" />
     <Compile Include="Components\EffectSvo.cs" />
     <Compile Include="Components\MapSvo.cs" />
+    <Compile Include="Components\Parts\GameOver.cs" />
     <Compile Include="Components\Parts\Tutorial.cs" />
     <Compile Include="Components\PatchAll.cs" />
     <Compile Include="Patcher.cs" />

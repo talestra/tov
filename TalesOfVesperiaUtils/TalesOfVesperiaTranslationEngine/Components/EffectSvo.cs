@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TalesOfVesperiaTranslationEngine.Components.Parts;
 using TalesOfVesperiaUtils.Imaging;
 
 namespace TalesOfVesperiaTranslationEngine.Components
@@ -80,7 +81,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 				{
 					Patcher.GameAccessPath("E_A104_GAMEOVER.DAT", () =>
 					{
-						new CharaSvo(Patcher).HandleGameOver();
+						new GameOver(Patcher).HandleGameOverInternal();
 					});
 				});
 				
