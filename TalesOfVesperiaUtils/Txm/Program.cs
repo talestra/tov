@@ -28,6 +28,10 @@ namespace Txm
 		[Description("Iterates over all subdirectories too")]
 		protected bool Recursive = false;
 
+		[Command("-ca", "--color_alpha")]
+		[Description("Separates color and alpha in distinct images")]
+		protected bool SeparateColorAlpha = false;
+
 		/// <summary>
 		/// 
 		/// </summary>
@@ -86,9 +90,12 @@ namespace Txm
 						{
 							if (Overwrite || !File.Exists(ImageEntryFileName))
 							{
-								if (true) {
+								if (!SeparateColorAlpha)
+								{
 									ImageEntry.Bitmap.Save(ImageEntryFileName);
-								} else {
+								}
+								else
+								{
 									var BitmapMixed = ImageEntry.Bitmap;
 									var AlphaChannel = BitmapMixed.GetChannelsDataLinear(BitmapChannel.Alpha);
 									var SolidAlphaChannel = Enumerable.Repeat((byte)0xFF, AlphaChannel.Length).ToArray();

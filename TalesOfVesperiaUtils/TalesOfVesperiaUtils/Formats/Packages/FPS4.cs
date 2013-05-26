@@ -431,6 +431,11 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			var TEX_Extensions = new[] { "TXM", "TXV" };
 			var SCR_Extensions = new[] { "SCFOMBIN" };
 			var STA_Extensions = new[] { "AMS" };
+			var FOG_Extensions = new[] { "FOG" };
+			var LIT_Extensions = new[] { "LIT" };
+			var PST_Extensions = new[] { "PST" };
+			var SKY_Extensions = new[] { "SKY" };
+			var WTR_Extensions = new[] { "WTR" };
 			foreach (var Entry in EntriesByIndex)
 			{
 				if (Entry.Name == "")
@@ -453,6 +458,11 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 							case "MDL": ExtensionQueue = new Queue<string>(MDL_Extensions); break;
 							case "TEX": ExtensionQueue = new Queue<string>(TEX_Extensions); break;
 							case "SCR": ExtensionQueue = new Queue<string>(SCR_Extensions); break;
+							case "FOG": ExtensionQueue = new Queue<string>(FOG_Extensions); break;
+							case "LIT": ExtensionQueue = new Queue<string>(LIT_Extensions); break;
+							case "PST": ExtensionQueue = new Queue<string>(PST_Extensions); break;
+							case "SKY": ExtensionQueue = new Queue<string>(SKY_Extensions); break;
+							case "WTR": ExtensionQueue = new Queue<string>(SKY_Extensions); break;
 							default: throw (new Exception(String.Format("Unknown StringExtension: '{0}','{1}','{2}'", Entry.StringExtension, Entry.StringAttribute, Entry.Name)));
 						}
 					}
