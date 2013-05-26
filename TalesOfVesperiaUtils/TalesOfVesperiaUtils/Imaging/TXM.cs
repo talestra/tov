@@ -362,8 +362,10 @@ namespace TalesOfVesperiaUtils.Imaging
 				{
 					switch (ImageEntry.ImageFileFormat.TextureFormat)
 					{
-						case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
 						case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
+							return Swizzling.XGAddress2DTiledExtent(Width / 4, Height / 4, 16) * 8;
+						case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT1:
+						case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
 							return Swizzling.XGAddress2DTiledExtent(Width / 4, Height / 4, 16) * 16;
 					}
 				}

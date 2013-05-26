@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TalesOfVesperiaTranslationEngine.Components.Parts;
 
 namespace TalesOfVesperiaTranslationEngine.Components
 {
@@ -60,6 +61,8 @@ namespace TalesOfVesperiaTranslationEngine.Components
 							HandleGameOver();
 						});
 					});
+
+					new Tutorial(Patcher).HandleSkillTutorial();
 				});
 			});
 		}

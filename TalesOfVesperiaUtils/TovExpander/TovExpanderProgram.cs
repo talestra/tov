@@ -147,7 +147,24 @@ namespace TovExpander
 					//Console.WriteLine("FPS4");
 					try
 					{
-						var Fps4 = new FPS4(FileStream);
+						FPS4 Fps4 = null;
+
+						if (Path.GetExtension(FilePath).ToLower() == ".dat")
+						{
+							var BasePath = Path.GetDirectoryName(FilePath) + "/" + Path.GetFileNameWithoutExtension(FilePath);
+							var DatPath = BasePath + ".dat";
+							var DavPath = BasePath + ".dav";
+							if (File.Exists(DavPath))
+							{
+								Fps4 = new FPS4(FileStream, File.OpenRead(DavPath));
+							}
+						}
+						
+						if (Fps4 == null)
+						{
+							Fps4 = new FPS4(FileStream);
+						}
+
 						foreach (var Entry in Fps4)
 						{
 							var EntryFilePath = FilePath + ".d/" + Entry.Name;

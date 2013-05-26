@@ -20,6 +20,7 @@ using TalesOfVesperiaUtils.VirtualFileSystem;
 using System.Drawing.Text;
 using CSharpUtils.Drawing.Distance;
 using CSharpUtils.Drawing;
+using TalesOfVesperiaTranslationEngine.Components.Parts;
 
 #if false
 namespace TalesOfVesperiaSpike
@@ -460,10 +461,22 @@ namespace TalesOfVesperiaSpike
 			PatchAll.CheckFileSystemVesperiaExceptions(Patcher.GameFileSystem);
 			PatchAll.Handle();
 		}
+		
+		static void Main6()
+		{
+			using (var Patcher = new Patcher((string)null))
+			{
+				Patcher.InitWithGamePath(@"E:\GAMES\vesperia");
+				Patcher.GameAccessPath("chara.svo", () => {
+					new Tutorial(Patcher).HandleSkillTutorial();
+				});
+			}
+		}
 
 		static void Main(string[] Args)
 		{
-			Main5();
+			Main6();
+			//Main5();
 			//Main4();
 			//Main2(Args);
 			//Main3(Args);
