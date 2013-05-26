@@ -466,10 +466,12 @@ namespace TalesOfVesperiaSpike
 		{
 			using (var Patcher = new Patcher((string)null))
 			{
-				Patcher.InitWithGamePath(@"E:\GAMES\vesperia");
-				Patcher.GameAccessPath("chara.svo", () => {
-					new Tutorial(Patcher).HandleSkillTutorial();
-				});
+				//Patcher.InitWithGamePath(@"E:\GAMES\vesperia");
+				Patcher.InitWithGamePath(@"C:\vesperia\vesperia");
+				new CharaSvo(Patcher).Handle();
+				//Patcher.GameAccessPath("chara.svo", () => {
+				//	new Tutorial(Patcher).HandleSkillTutorial();
+				//});
 			}
 		}
 
