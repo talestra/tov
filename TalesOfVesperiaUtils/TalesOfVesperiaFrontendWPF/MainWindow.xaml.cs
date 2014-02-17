@@ -45,7 +45,7 @@ namespace TalesOfVesperiaFrontendWPF
         public MainWindow()
         {
             InitializeComponent();
-			this.GlassBackground(0, 0, 0, 39);
+			this.GlassBackground(0, 0, 0, 40);
 
 			var BuildVersion = Assembly.GetExecutingAssembly().GetName().Version.ToString();
 			this.Title = String.Format("Tales of Vesperia en español - v{0}", BuildVersion);
