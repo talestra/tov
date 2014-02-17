@@ -90,8 +90,8 @@
 	</UserControl.Triggers>
 
 	<Grid x:Name="LayoutRoot">
-		<Image x:Name="Background" Source="img/bg.jpg" Stretch="Fill" d:IsLocked="True"/>
-		<Grid x:Name="ContentGrid" Background="#00000000">
+		<Grid x:Name="ContentGrid">
+            <Image x:Name="Img_Background" Source="img/bg.jpg" Stretch="Fill" d:IsLocked="True"/>
 			<Image x:Name="LogoSparkle" Source="img/tov-sparkle.png" Stretch="Fill" HorizontalAlignment="Center" Width="128" Margin="0,76,0,201" RenderTransformOrigin="0.5,0.5">
 				<Image.RenderTransform>
 					<TransformGroup>
