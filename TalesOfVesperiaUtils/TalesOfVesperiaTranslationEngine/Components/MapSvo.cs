@@ -43,7 +43,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 			//Console.WriteLine(PasswordString);
 			//Console.ReadKey();
 
-            this.Patcher.ProgressHandler.AddProgressLevel("Translating Rooms", RoomCount, () =>
+            this.Patcher.ProgressHandler.AddProgressLevel("Traduciendo habitaciones", RoomCount, () =>
             {
                 FileSystem.CopyFile(Patcher.GameFileSystem, "language/scenario_uk.dat", Patcher.TempFS, "scenario_uk.dat");
                 var TO8SCEL = new TO8SCEL(Patcher.TempFS.OpenFileRW("scenario_uk.dat"));
@@ -133,7 +133,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
                 return;
             }
 
-            this.Patcher.ProgressHandler.AddProgressLevel("Compressing Rooms", RoomCount, () =>
+            this.Patcher.ProgressHandler.AddProgressLevel("Comprimiendo habitaciones", RoomCount, () =>
             {
                 var NewTO8SCEL = new TO8SCEL();
 
@@ -188,14 +188,14 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
                 //Patcher.GameFileSystem.ReplaceFileWithStream("language/scenario_de.dat", ScenarioEsStream.Slice());
                 //Patcher.GameFileSystem.ReplaceFileWithStream("language/scenario_fr.dat", ScenarioEsStream.Slice());
-                Patcher.ProgressHandler.AddProgressLevel("Updating scenario_uk.dat", 1, () =>
+                Patcher.ProgressHandler.AddProgressLevel("Actualizando scenario_uk.dat", 1, () =>
                 {
                     Patcher.GameFileSystem.ReplaceFileWithStream("language/scenario_uk.dat", ScenarioEsStream.Slice(), (Current, Total) =>
                     {
                         Patcher.ProgressHandler.SetLevelProgressTo(Current, Total);
                     });
                 });
-                Patcher.ProgressHandler.AddProgressLevel("Updating scenario_us.dat", 1, () =>
+                Patcher.ProgressHandler.AddProgressLevel("Actualizando scenario_us.dat", 1, () =>
                 {
                     Patcher.GameFileSystem.ReplaceFileWithStream("language/scenario_us.dat", ScenarioEsStream.Slice(), (Current, Total) =>
                     {
