@@ -15,9 +15,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
         public void Handle()
         {
-            Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("chara.svo",
-                Handle1
-            );
+            Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("chara.svo", Handle1);
         }
 
 		private void Handle1()
@@ -60,6 +58,50 @@ namespace TalesOfVesperiaTranslationEngine.Components
 							HandleGameOver();
 						});
 					});
+
+                    Patcher.Action("Skill Tutorial", () =>
+                    {
+                        Patcher.GameAccessPath("EP_050_010.DAT", () =>
+                        {
+                            Patcher.GameAccessPath("2", () =>
+                            {
+                                Patcher.GameAccessPath("E_A031", () =>
+                                {
+                                    Patcher.GameGetTXM("0", "1", (Txm) =>
+                                    {
+                                        Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA01, "SKILL_NA01");
+                                        Patcher.UpdateTxm2DWithEmpty(Txm, "SKILL_FR01", "SKILL_DE01");
+                                    });
+                                });
+
+                                Patcher.GameAccessPath("E_A032", () =>
+                                {
+                                    Patcher.GameGetTXM("0", "1", (Txm) =>
+                                    {
+                                        Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_01, "SKILL_NA02_01");
+                                        Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_02, "SKILL_NA02_02");
+                                        Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_03, "SKILL_NA02_03");
+                                        Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA02_04, "SKILL_NA02_04");
+
+                                        Patcher.UpdateTxm2DWithEmpty(Txm, "SKILL_FR02_01", "SKILL_DE02_01");
+                                        Patcher.UpdateTxm2DWithEmpty(Txm, "SKILL_FR02_02", "SKILL_DE02_02");
+                                        Patcher.UpdateTxm2DWithEmpty(Txm, "SKILL_FR02_03", "SKILL_DE02_03");
+                                        Patcher.UpdateTxm2DWithEmpty(Txm, "SKILL_FR02_04", "SKILL_DE02_04");
+                                    });
+                                });
+
+                                Patcher.GameAccessPath("E_A033", () =>
+                                {
+                                    Patcher.GameGetTXM("0", "1", (Txm) =>
+                                    {
+                                        Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.SKILL_NA03, "SKILL_NA03");
+                                        Patcher.UpdateTxm2DWithEmpty(Txm, "SKILL_FR03", "SKILL_DE03");
+                                    });
+                                });
+                            });
+                        }, 15);
+                    });
+
 				});
 			});
 		}
