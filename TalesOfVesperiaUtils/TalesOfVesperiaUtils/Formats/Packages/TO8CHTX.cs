@@ -1,16 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Runtime.InteropServices;
-using System.IO;
-using CSharpUtils;
-using CSharpUtils.Streams;
-using CSharpUtils;
-using System.Diagnostics;
-using CSharpUtils.SpaceAssigner;
-using TalesOfVesperiaUtils.Text;
+﻿using CSharpUtils;
 using CSharpUtils.Endian;
+using CSharpUtils.SpaceAssigner;
+using CSharpUtils.Streams;
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.IO;
+using System.Runtime.InteropServices;
+using System.Text;
+using TalesOfVesperiaUtils.Text;
 
 namespace TalesOfVesperiaUtils.Formats.Packages
 {

@@ -147,16 +147,28 @@ namespace TalesOfVesperiaTranslationEngine.Components
 					});
 				});
 
-				Patcher.Action("E_MG_RING_2D.DAT", () =>
+				Patcher.Action("Ba'ul Rings Minigame", () =>
 				{
 					Patcher.GameAccessPath("E_MG_RING_2D.DAT", () =>
 					{
 						Patcher.GameGetTXM("0", "1", (Txm) =>
 						{
-							Patcher.UpdateTxm2DWithPng(Txm, "Images/Minigames/U_MG_BR.png", "U_MG_BR");
+							Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.U_MG_BR, "U_MG_BR");
 						});
 					}, 15);
 				});
+
+                Patcher.Action("Tales of Draspi Minigame", () =>
+                {
+                    Patcher.GameAccessPath("E_MG_STG_FONT.DAT", () =>
+                    {
+                        Patcher.GameGetTXM("0", "1", (Txm) =>
+                        {
+                            Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.MG_BS_FONT, "MG_BS_FONT", "MG_BS_FONT_DE", "MG_BS_FONT_FR");
+                        });
+                    }, 15);
+                });
+
 			});
 		}
 	}

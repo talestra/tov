@@ -28,6 +28,8 @@ namespace TalesOfVesperiaTranslationEngine
 		public static string U_GAMEOVER_000_E = "Images/Over/U_GAMEOVER_000_E.png";
 
         public static string U_MG_BR = "Images/Minigames/U_MG_BR.png";
+        public static string MG_BS_FONT = "Images/Minigames/MG_BS_FONT.png";
+
         public static string U_MINIGAMEISHI01E = "Images/Minigames/U_MINIGAMEISHI01E.png";
         public static string U_MINIGAMEISHI02E = "Images/Minigames/U_MINIGAMEISHI02E.png";
         public static string U_MINIGAMEPOKER00 = "Images/Minigames/U_MINIGAMEPOKER00.png";
@@ -76,5 +78,9 @@ namespace TalesOfVesperiaTranslationEngine
 
 		public static string FONTTEXT10_15_ALPHA = "Font/FONTTEX10.FONTTEX10.15.alpha.png";
 		public static string FONTTEXT10_15_COLOR = "Font/FONTTEX10.FONTTEX10.15.color.png";
+        public static string FONTTEXT11_15_ALPHA = "Font/FONTTEX11.FONTTEX11.15.alpha.png";
+        public static string FONTTEXT11_15_COLOR = "Font/FONTTEX11.FONTTEX11.15.color.png";
+        public static string FONTTEXT12_15_ALPHA = "Font/FONTTEX12.FONTTEX12.15.alpha.png";
+        public static string FONTTEXT12_15_COLOR = "Font/FONTTEX12.FONTTEX12.15.color.png";
     }
 }
