@@ -1,18 +1,10 @@
 ﻿using System;
-using System.IO;
-using System.Reflection;
-using System.Runtime.InteropServices;
-using System.Windows;
-using System.Windows.Interop;
-using System.Windows.Shell;
-using TalesOfVesperiaUtils.Formats.Packages;
-using TalesOfVesperiaUtils.VirtualFileSystem;
-using TalesOfVesperiaTranslationEngine;
 using System.ComponentModel;
-using System.Threading;
-using System.Threading.Tasks;
+using System.Reflection;
+using System.Windows;
 using System.Windows.Forms;
-using System.Windows.Input;
+using System.Windows.Shell;
+using TalesOfVesperiaTranslationEngine;
 
 namespace TalesOfVesperiaFrontendWPF
 {
@@ -201,7 +193,7 @@ namespace TalesOfVesperiaFrontendWPF
         {
             if (InProgress)
             {
-                if (System.Windows.MessageBox.Show("¿Está seguro de que desea cancelar el proceso de parcheo?\n\nLa iso generada podría quedar inutilizada.", "Atención", MessageBoxButton.YesNo, MessageBoxImage.Warning, MessageBoxResult.No) == MessageBoxResult.No)
+                if (System.Windows.MessageBox.Show("¿Estás seguro de que deseas cancelar el proceso de parcheo?\n\nLa iso generada podría quedar inutilizada.", "Atención", MessageBoxButton.YesNo, MessageBoxImage.Warning, MessageBoxResult.No) == MessageBoxResult.No)
                 {
                     e.Cancel = true;
                 }

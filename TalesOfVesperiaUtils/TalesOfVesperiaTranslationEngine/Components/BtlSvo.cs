@@ -90,7 +90,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
             Patcher.Action("Translating Battle Scripts", () =>
             {
-                Patcher.ProgressHandler.AddProgressLevel("Translating Battle Scripts", Names.Length, () =>
+                Patcher.ProgressHandler.AddProgressLevel("Traduciendo scripts de batalla...", Names.Length, () =>
                 {
                     Patcher.ParallelForeach("Translating", Names, (Name) => Name, (Name) =>
                     {

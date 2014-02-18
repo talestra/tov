@@ -39,7 +39,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
             if (!Patcher.TempFS.Exists("string_dic_es.so"))
             {
                 var TotalCount = Patcher.EntriesByRoom.Where(Room => Room.Key.StartsWith("misc/")).Sum(Item => Item.Value.Count);
-                this.Patcher.ProgressHandler.AddProgressLevel("Translating String.dic", TotalCount, () =>
+                this.Patcher.ProgressHandler.AddProgressLevel("Traduciendo String.dic", TotalCount, () =>
                 {
                     long OriginalLength = Patcher.TempFS.GetFileInfo("string_dic_uk.so").Size;
                     long TranslatedLength = OriginalLength;
@@ -85,7 +85,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
         private void Handle3()
         {
-            Patcher.ProgressHandler.AddProgressLevel("Replace string_dic_uk.so", 1, () =>
+            Patcher.ProgressHandler.AddProgressLevel("Reemplazando string_dic_uk.so", 1, () =>
             {
                 Patcher.GameFileSystem.ReplaceFileWithStream("language/string_dic_uk.so", Patcher.TempFS.OpenFileRead("string_dic_es.so"), (Current, Total) =>
                 {
