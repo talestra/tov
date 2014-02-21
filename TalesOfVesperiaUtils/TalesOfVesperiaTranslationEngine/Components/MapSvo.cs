@@ -107,6 +107,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 									if (Text == "%s Battle") return "%s batalla";
 									if (Text == "%s?\n") return "¿%s?\n";
 								}
+
 								return null;
 							});
 
