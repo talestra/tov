@@ -29,6 +29,7 @@ namespace TalesOfVesperiaTranslationEngine
 
         public static string U_MG_BR = "Images/Minigames/U_MG_BR.png";
         public static string MG_BS_FONT = "Images/Minigames/MG_BS_FONT.png";
+        public static string MG_BS_FONT_128 = "Images/Minigames/MG_BS_FONT_128.png"; //Versión alternativa de 128 píxeles de alto
 
         public static string U_MINIGAMEISHI01E = "Images/Minigames/U_MINIGAMEISHI01E.png";
         public static string U_MINIGAMEISHI02E = "Images/Minigames/U_MINIGAMEISHI02E.png";
@@ -51,9 +52,9 @@ namespace TalesOfVesperiaTranslationEngine
         public static string U_MINIGAMERACE02 = "Images/Minigames/U_MINIGAMERACE02.png";
         public static string U_MINIGAMERACE03 = "Images/Minigames/U_MINIGAMERACE03.png";
 
+        public static string E_A101_TITLE_CREDIT_E = "Images/Title/E_A101_TITLE_CREDIT_E.png";
         public static string E_A101_TITLE_P001 = "Images/Title/E_A101_TITLE_P001.png";
         public static string E_A101_TITLE_PUSH = "Images/Title/E_A101_TITLE_PUSH.png";
-        public static string E_A101_TITLE_CREDIT_E = "Images/Title/E_A101_TITLE_CREDIT_E.png";
         public static string E_A101_TITLE_TEAM = "Images/Title/E_A101_TITLE_TEAM.png";
 
         public static string COOK_NA01 = "Images/Menu/COOK_NA01.png";

@@ -6,7 +6,7 @@ namespace TalesOfVesperiaFrontendWPF
     /// <summary>
     /// Interaction logic for AboutForm.xaml
     /// </summary>
-    public partial class AboutForm : Window
+    public partial class AboutForm
     {
         public AboutForm()
         {
@@ -16,7 +16,7 @@ namespace TalesOfVesperiaFrontendWPF
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            this.Close();
+            Close();
         }
 
         private void Label_PreviewMouseLeftButtonUp(object sender, System.Windows.Input.MouseButtonEventArgs e)
