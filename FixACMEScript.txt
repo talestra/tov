@@ -1,0 +1,4 @@
+﻿"text_id":"00050246","text_path":"misc\/50000","texts":{"en":["Condition Guard"],"es":["Guardia de estado"]
+"text_id":"00050246","text_path":"misc\/50000","texts":{"en":["Condition Guard"],"es":["Guardia condicional"]
+"text_id":"0003BC00","text_path":"scenario\/1258","texts":{"en":["","Here ya go!"],"es":["","\u00a1Aqu\u00ed ten\u00e9is!"]
+"text_id":"0003BC00","text_path":"scenario\/1258","texts":{"en":["","Here ya go!"],"es":["","\u00a1Aqu\u00ed tienes!"]
