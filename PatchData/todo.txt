@@ -3,10 +3,6 @@
   Memnoch: "Un detalle en el que me he fijado, es que los textos con el audio mal no tienen nombre encima."
 - Revisar carpeta Dropbox/Memnoch-Soywiz-Lía/Errores (Memnoch)
 - scenario/0504 | ID:00039304 - Si no sabéis apreciar el valor de la «morralla», entonces vosotros valéis menos todavía que ella.
-- Encontrar qué imágenes del minijuego Alto / Bajo se usan realmente.
-- Encontrar qué imágenes del minijuego de Ba'ul atravesando anillos se usan realmente.
-- Encontrar qué imágenes del minijuego de Tales of Draspi se usan realmente.
-- Lo mismo con el Great! que sale en batalla al cumplir el objetivo de una misión secreta.
 
 Lía y yo pensamos que lo mejor sería empezar el testeo cuando tengas la 0.5 lista (aunque los arreglos solo se vean reflejados con la consola en inglés).
 Bueno, por ejemplo lo del coliseo y los ascensores, quizá lo de las skits (que hasta podríamos solucionar nosotros en el Acme, pero sería una ultramatada),
