@@ -137,7 +137,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
             });
         }
 
-        private void FixTexts()
+        private void FixTexts() //Perdón por todo esto xd
         {
             string[] Rooms = { "344", "1331" };
 
@@ -147,7 +147,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
             uint[] BaseOffset = { 0x57602, 0x3ef22 };
 
-            for(int i = 0; i< Rooms.Length; i++)
+            for (int i = 0; i < Rooms.Length; i++)
             {
                 if (Patcher.TempFS.Exists(ScenarioTempFileNamePrep + Rooms[i]))
                 {
@@ -157,10 +157,11 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
                     byte[] CheckData = new byte[10];
                     fs.Read(CheckData, 0, CheckData.Length);
-                    if(CheckData[0] != 0x31 ||CheckData[1] != 0x73 ||CheckData[2] != 0x74 ||CheckData[3] != 0x20 ||CheckData[4] != 0x42)
+                    if (CheckData[0] != 0x31 || CheckData[1] != 0x73 || CheckData[2] != 0x74 || CheckData[3] != 0x20 || CheckData[4] != 0x42)
                     {
                         fs.Close();
-                        throw (new Exception(String.Format("Error fixing High/Low minigame texts in \"{0}\".", ScenarioTempFileNamePrep + Rooms[i])));
+                        return;
+                        //throw (new Exception(String.Format("Error fixing High/Low minigame texts in \"{0}\".", ScenarioTempFileNamePrep + Rooms[i])));
                     }
 
                     fs.Seek(BaseOffset[i], SeekOrigin.Begin);
