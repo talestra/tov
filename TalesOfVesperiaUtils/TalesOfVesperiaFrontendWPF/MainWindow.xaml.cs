@@ -5,6 +5,7 @@ using System.Windows;
 using System.Windows.Forms;
 using System.Windows.Shell;
 using TalesOfVesperiaTranslationEngine;
+using Ookii.Dialogs.Wpf;
 
 namespace TalesOfVesperiaFrontendWPF
 {
@@ -176,10 +177,13 @@ namespace TalesOfVesperiaFrontendWPF
 
 		private void PatchFolder_Click_1(object sender, RoutedEventArgs e)
 		{
-			var Dialog = new FolderBrowserDialog();
+			//var Dialog = new FolderBrowserDialog();
+            var Dialog = new VistaFolderBrowserDialog();
+            Dialog.UseDescriptionForTitle = true;
 			Dialog.Description = "Elige la carpeta con los archivos del Tales of Vesperia extraídos (para JTAG).";
             Dialog.ShowNewFolderButton = false;
-            if (Dialog.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
+            //if (Dialog.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
+            if (!(bool)Dialog.ShowDialog()) return;
 
             PatchThread.Run(this, UpdateProgress, "", Dialog.SelectedPath, true);
 		}

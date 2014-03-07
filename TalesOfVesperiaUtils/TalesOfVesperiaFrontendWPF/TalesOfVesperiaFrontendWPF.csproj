@@ -45,14 +45,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.IO.Compression.FileSystem" />
     <Reference Include="System.Windows.Forms" />
-    <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Xaml">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
@@ -71,6 +68,16 @@
     <Compile Include="TitleScreen.xaml.cs">
       <DependentUpon>TitleScreen.xaml</DependentUpon>
     </Compile>
+    <Compile Include="VistaFolderBrowserDialogWPF\Interop\ComDlgResources.cs" />
+    <Compile Include="VistaFolderBrowserDialogWPF\Interop\COMGuids.cs" />
+    <Compile Include="VistaFolderBrowserDialogWPF\Interop\ErrorHelper.cs" />
+    <Compile Include="VistaFolderBrowserDialogWPF\Interop\ShellComInterfaces.cs" />
+    <Compile Include="VistaFolderBrowserDialogWPF\Interop\ShellWrapperDefinitions.cs" />
+    <Compile Include="VistaFolderBrowserDialogWPF\Interop\Win32Resources.cs" />
+    <Compile Include="VistaFolderBrowserDialogWPF\NativeMethods.cs" />
+    <Compile Include="VistaFolderBrowserDialogWPF\Properties\Resources.Designer.cs" />
+    <Compile Include="VistaFolderBrowserDialogWPF\SafeHandles.cs" />
+    <Compile Include="VistaFolderBrowserDialogWPF\VistaFolderBrowserDialog.cs" />
     <Page Include="AboutForm.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -120,6 +127,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="VistaFolderBrowserDialogWPF\Properties\Resources.resx" />
     <None Include="packages.config" />
     <EmbeddedResource Include="PatchData.bin" />
     <None Include="Properties\Settings.settings">
