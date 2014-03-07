@@ -133,9 +133,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
                         }, 15);
                     });
 
-                    //TODO: Asegurarse de que metiendo compresión 15 a cada DAT, funcione.
-                    //TODO: Nada, que no hay manera de meter esto porque siempre ocupa más que el original
-                    /*Patcher.Action("Cooking Tutorial", () =>
+                    Patcher.Action("Cooking Tutorial", () =>
                     {
                         Patcher.GameAccessPath("EP_060_040.DAT", () =>
                         {
@@ -148,7 +146,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
                                         Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA01, "COOK_NA01", "COOK_FR01", "COOK_DE01");
                                         //Patcher.UpdateTxm2DWithEmpty(Txm, "COOK01");
                                     });
-                                }, 15);
+                                });
 
                                 //No hay E_A058, que es donde estaría el COOK_NA02
 
@@ -159,7 +157,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
                                         Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA03, "COOK_NA03", "COOK_FR03", "COOK_DE03");
                                         //Patcher.UpdateTxm2DWithEmpty(Txm, "COOK03");
                                     });
-                                }, 15);
+                                });
 
                                 Patcher.GameAccessPath("E_A060", () =>
                                 {
@@ -168,7 +166,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
                                         Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA04, "COOK_NA04", "COOK_FR04", "COOK_DE04");
                                         //Patcher.UpdateTxm2DWithEmpty(Txm, "COOK04");
                                     });
-                                }, 15);
+                                });
 
                                 Patcher.GameAccessPath("E_A061", () =>
                                 {
@@ -177,9 +175,9 @@ namespace TalesOfVesperiaTranslationEngine.Components
                                         Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA05, "COOK_NA05", "COOK_FR05", "COOK_DE05");
                                         //Patcher.UpdateTxm2DWithEmpty(Txm, "COOK05");
                                     });
-                                }, 15);
+                                });
 
-                                
+                                /*
                                 Patcher.GameAccessPath("E_A066", () =>
                                 {
                                     Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA01, "COOK_NA01"); });
@@ -196,10 +194,10 @@ namespace TalesOfVesperiaTranslationEngine.Components
                                 {
                                     Patcher.GameGetTXM("0", "1", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.COOK_NA05, "COOK_NA05"); });
                                 });
-                                
+                                */
                             });
                         }, 15);
-                    });*/
+                    });
 
                     //El dichoso "Great!" aparece en cada una de las batallas que tienen misión secreta
                     Patcher.Action("Battle texts", () =>

@@ -110,13 +110,19 @@ namespace TalesOfVesperiaTranslationEngine.Components
                                     if (Text == "SELECT") return "Selección";
                                 }
 
-                                //Esto no va. Apaño en la función FixTexts()
-                                if (RoomId == 344 || RoomId == 1331)
+                                //Los siguientes textos no se pueden arreglar con este método, ya que ni si quiera se cargan (Text nunca será "1st Battle", etc.) 
+                                //Investigando cómo van los TSS, he visto que la mayoría (o todos) los textos se cargan con un Opcode.PUSH_ARRAY
+                                //Por lo visto el programa solamente procesa por ahora las entradas que tienen 6 elementos. (TSS.HandleTexts())
+                                //En este caso, también se gestiona con un PUSH_ARRAY, pero distinto. Para empezar, los textos ya no son ValueType.String (0xC),
+                                //si no 0x2C. ¿Otro tipo de strings? Y contienen 3 elementos. He intentado apañar el asunto, y aunque he conseguido leer esos textos,
+                                //no me veo capaz de meterme en semejante inmensidad de código ajeno sin romper nada. Así que por ahora prefiero hacer un método
+                                //cutre que no implique modificar nada existente. Este método está en la función FixTexts()
+                                /*if (RoomId == 344 || RoomId == 1331)
                                 {
                                     if (Text == "1st Battle") return "Ronda 1";
                                     if (Text == "2st Battle") return "Ronda 2"; //Sí, en inglés hay una errata.
                                     if (Text == "Last Battle") return "Última ronda";
-                                }
+                                }*/
 
                                 return null;
                             });
@@ -141,9 +147,13 @@ namespace TalesOfVesperiaTranslationEngine.Components
         {
             string[] Rooms = { "344", "1331" };
 
-            byte[] Ronda1txt = { 0x52, 0x6f, 0x6e, 0x64, 0x61, 0x20, 0x31, 0x00, 0x00, 0x00, 0x00 };
-            byte[] Ronda2txt = { 0x52, 0x6f, 0x6e, 0x64, 0x61, 0x20, 0x32, 0x00, 0x00, 0x00, 0x00 };
-            byte[] Ronda3txt = { 0x52, 0x6f, 0x6e, 0x64, 0x61, 0x20, 0x33, 0x00, 0x00, 0x00, 0x00, 0x00 };
+            string Ronda1txt = "Ronda 1\0\0\0\0";
+            string Ronda2txt = "Ronda 2\0\0\0\0";
+            string Ronda3txt = "Ronda 3\0\0\0\0\0";
+
+            byte[] Ronda1bytes = Encoding.ASCII.GetBytes(Ronda1txt);
+            byte[] Ronda2bytes = Encoding.ASCII.GetBytes(Ronda2txt);
+            byte[] Ronda3bytes = Encoding.ASCII.GetBytes(Ronda3txt);
 
             uint[] BaseOffset = { 0x57602, 0x3ef22 };
 
@@ -155,33 +165,32 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
                     fs.Seek(BaseOffset[i], SeekOrigin.Begin);
 
-                    byte[] CheckData = new byte[10];
+                    byte[] CheckData = new byte[11];
                     fs.Read(CheckData, 0, CheckData.Length);
-                    if (CheckData[0] != 0x31 || CheckData[1] != 0x73 || CheckData[2] != 0x74 || CheckData[3] != 0x20 || CheckData[4] != 0x42)
+                    if (Encoding.ASCII.GetString(CheckData) != "1st Battle\0" && Encoding.ASCII.GetString(CheckData) != Ronda1txt)
                     {
                         fs.Close();
-                        return;
-                        //throw (new Exception(String.Format("Error fixing High/Low minigame texts in \"{0}\".", ScenarioTempFileNamePrep + Rooms[i])));
+                        throw (new Exception(String.Format("Error fixing High/Low minigame texts in \"{0}\".", ScenarioTempFileNamePrep + Rooms[i])));
                     }
 
                     fs.Seek(BaseOffset[i], SeekOrigin.Begin);
 
                     for (int n = 0; n < 3; n++)
                     {
-                        fs.Write(Ronda1txt, 0, Ronda1txt.Length);
-                        fs.Write(Ronda2txt, 0, Ronda2txt.Length);
-                        fs.Write(Ronda3txt, 0, Ronda3txt.Length);
+                        fs.Write(Ronda1bytes, 0, Ronda1bytes.Length);
+                        fs.Write(Ronda2bytes, 0, Ronda2bytes.Length);
+                        fs.Write(Ronda3bytes, 0, Ronda3bytes.Length);
                     }
 
                     fs.Seek(37, SeekOrigin.Current);
-                    fs.Write(Ronda1txt, 0, Ronda1txt.Length);
-                    fs.Write(Ronda2txt, 0, Ronda2txt.Length);
-                    fs.Write(Ronda3txt, 0, Ronda3txt.Length);
+                    fs.Write(Ronda1bytes, 0, Ronda1bytes.Length);
+                    fs.Write(Ronda2bytes, 0, Ronda2bytes.Length);
+                    fs.Write(Ronda3bytes, 0, Ronda3bytes.Length);
 
                     fs.Seek(31, SeekOrigin.Current);
-                    fs.Write(Ronda1txt, 0, Ronda1txt.Length);
-                    fs.Write(Ronda2txt, 0, Ronda2txt.Length);
-                    fs.Write(Ronda3txt, 0, Ronda3txt.Length);
+                    fs.Write(Ronda1bytes, 0, Ronda1bytes.Length);
+                    fs.Write(Ronda2bytes, 0, Ronda2bytes.Length);
+                    fs.Write(Ronda3bytes, 0, Ronda3bytes.Length);
 
                     fs.Close();
                 }
