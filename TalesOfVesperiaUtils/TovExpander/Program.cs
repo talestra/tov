@@ -14,7 +14,7 @@ using TalesOfVesperiaUtils.Imaging;
 
 namespace TovExpander
 {
-	class TovExpanderProgram : GetoptCommandLineProgram
+	class Program : GetoptCommandLineProgram
 	{
 		/// <summary>
 		/// 
@@ -123,7 +123,6 @@ namespace TovExpander
 								try
 								{
 									var EntryStream = DecompressIfCompressedStream(Entry.CompressedStream);
-									//Console.WriteLine("{0}: {1}, {2}", EntryFilePath, EntryStream.Position, EntryStream.Length);
 									if (EntryStream.Length > 0)
 									{
 										EntryStream.CopyToFile(EntryFilePath);
@@ -147,36 +146,16 @@ namespace TovExpander
 					//Console.WriteLine("FPS4");
 					try
 					{
-						FPS4 Fps4 = null;
-
-						if (Path.GetExtension(FilePath).ToLower() == ".dat")
-						{
-							var BasePath = Path.GetDirectoryName(FilePath) + "/" + Path.GetFileNameWithoutExtension(FilePath);
-							var DatPath = BasePath + ".dat";
-							var DavPath = BasePath + ".dav";
-							if (File.Exists(DavPath))
-							{
-								Fps4 = new FPS4(FileStream, File.OpenRead(DavPath));
-							}
-						}
-						
-						if (Fps4 == null)
-						{
-							Fps4 = new FPS4(FileStream);
-						}
-
+						var Fps4 = new FPS4(FileStream);
 						foreach (var Entry in Fps4)
 						{
 							var EntryFilePath = FilePath + ".d/" + Entry.Name;
 							if (Overwrite || !File.Exists(EntryFilePath))
 							{
-								if (Entry.Length == 0) continue;
 								Console.WriteLine("{0}", EntryFilePath);
 								try
 								{
-									//Console.WriteLine("{0}: {1}", EntryFilePath, Entry.Open().Length);
-									var EntryStream = DecompressIfCompressedStream(Entry.Open().Slice());
-									//Console.WriteLine("{0}: {1}, {2}", EntryFilePath, EntryStream.Position, EntryStream.Length);
+									var EntryStream = DecompressIfCompressedStream(Entry.Open());
 									if (EntryStream.Length > 0)
 									{
 										EntryStream.CopyToFile(EntryFilePath);
@@ -301,74 +280,69 @@ namespace TovExpander
 					}
 					else
 					{
-						Console.WriteLine("Handling non-standard TXM file name: {0}", FilePath);
 						var DirectoryPath = Path.GetDirectoryName(FilePath);
 						TxmPath = DirectoryPath + "/" + Path.GetFileName(FilePath);
 						TxvPath = DirectoryPath + "/" + (int.Parse(Path.GetFileName(TxmPath)) + 1);
 						BasePath = TxmPath;
 					}
 
-					if (File.Exists(TxmPath) && File.Exists(TxvPath))
+					var Txm = TXM.FromTxmTxv(File.OpenRead(TxmPath), File.OpenRead(TxvPath));
+					/*
+					if (Txm.Surface2DEntries.Length > 0 && Txm.Surface3DEntries.Length > 0)
 					{
+						// 3D and 2D surfaces
+						//Console.WriteLine("ERROR 3D and 2D SURFACES! (2D: {0}, 3D: {1})", Txm.Surface2DEntries.Length, Txm.Surface3DEntries.Length);
+					}
+					else if (Txm.Surface2DEntries.Length > 0)
+					{
+						// 2D Surfaces
+						//Console.WriteLine("2D SURFACES! {0}", Txm.Surface2DEntries.Length);
+					}
+					else if (Txm.Surface3DEntries.Length > 0)
+					{
+						// 3D Surfaces
+						//Console.WriteLine("3D SURFACES! {0}", Txm.Surface3DEntries.Length);
+					}
+					*/
 
-						var Txm = TXM.FromTxmTxv(File.OpenRead(TxmPath), File.OpenRead(TxvPath));
-						/*
-						if (Txm.Surface2DEntries.Length > 0 && Txm.Surface3DEntries.Length > 0)
+					foreach (var Entry in Txm.Surface2DEntries)
+					{
+						var ImagePath = BasePath + "." + Entry.Name + ".png";
+						if (Overwrite || !File.Exists(ImagePath))
 						{
-							// 3D and 2D surfaces
-							//Console.WriteLine("ERROR 3D and 2D SURFACES! (2D: {0}, 3D: {1})", Txm.Surface2DEntries.Length, Txm.Surface3DEntries.Length);
-						}
-						else if (Txm.Surface2DEntries.Length > 0)
-						{
-							// 2D Surfaces
-							//Console.WriteLine("2D SURFACES! {0}", Txm.Surface2DEntries.Length);
-						}
-						else if (Txm.Surface3DEntries.Length > 0)
-						{
-							// 3D Surfaces
-							//Console.WriteLine("3D SURFACES! {0}", Txm.Surface3DEntries.Length);
-						}
-						*/
-
-						foreach (var Entry in Txm.Surface2DEntries)
-						{
-							var ImagePath = BasePath + "." + Entry.Name + ".png";
-							if (Overwrite || !File.Exists(ImagePath))
+							try
 							{
-								try
-								{
-									Entry.Bitmap.Save(ImagePath);
-								}
-								catch (Exception Exception)
-								{
-									ShowException(Exception);
-								}
+								Entry.Bitmap.Save(ImagePath);
+							}
+							catch (Exception Exception)
+							{
+								ShowException(Exception);
 							}
 						}
+					}
 
-						foreach (var Entry in Txm.Surface3DEntries)
+					foreach (var Entry in Txm.Surface3DEntries)
+					{
+						var ImagePath0 = BasePath + "." + Entry.Name + "." + 0 + ".png";
+						if (Overwrite || !File.Exists(ImagePath0))
 						{
-							var ImagePath0 = BasePath + "." + Entry.Name + "." + 0 + ".png";
-							if (Overwrite || !File.Exists(ImagePath0))
+							try
 							{
-								try
+								var n = 0;
+								foreach (var Bitmap in Entry.Bitmaps.Bitmaps)
 								{
-									var n = 0;
-									foreach (var Bitmap in Entry.Bitmaps.Bitmaps)
+									var ImagePath = BasePath + "." + Entry.Name + "." + n + ".png";
+									Console.WriteLine("{0}", ImagePath);
+									if (Overwrite || !File.Exists(ImagePath))
 									{
-										var ImagePath = BasePath + "." + Entry.Name + "." + n + ".png";
-										Console.WriteLine("{0}", ImagePath);
-										if (Overwrite || !File.Exists(ImagePath))
-										{
-											Bitmap.Save(ImagePath);
-										}
-										n++;
+										Bitmap.Save(ImagePath);
 									}
+									n++;
 								}
-								catch (Exception Exception)
-								{
-									ShowException(Exception);
-								}
+							}
+							catch (Exception Exception)
+							{
+								ShowException(Exception);
 							}
 						}
 					}
@@ -394,7 +368,7 @@ namespace TovExpander
 
 		static void Main(string[] args)
 		{
-			new TovExpanderProgram().Run(args);
+			new Program().Run(args);
 		}
 	}
 }

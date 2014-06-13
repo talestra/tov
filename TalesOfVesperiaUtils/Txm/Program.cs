@@ -28,10 +28,6 @@ namespace Txm
 		[Description("Iterates over all subdirectories too")]
 		protected bool Recursive = false;
 
-		[Command("-ca", "--color_alpha")]
-		[Description("Separates color and alpha in distinct images")]
-		protected bool SeparateColorAlpha = false;
-
 		/// <summary>
 		/// 
 		/// </summary>
@@ -66,123 +62,112 @@ namespace Txm
 					TxvPath = BasePath + Path.DirectorySeparatorChar + "1";
 				}
 
-				using (var TxmStream = File.OpenRead(TxmPath))
-				using (var TxvStream = File.OpenRead(TxvPath))
+				var Txm = (new TXM()).Load(File.OpenRead(TxmPath), File.OpenRead(TxvPath));
+
+				if (OutputDirectory == null)
 				{
-					var Txm = (new TXM()).Load(TxmStream, TxvStream);
+					OutputDirectory = BasePath + Path.DirectorySeparatorChar + "extracted";
+				}
 
-					if (OutputDirectory == null)
+				if (!Directory.Exists(OutputDirectory)) Directory.CreateDirectory(OutputDirectory);
+
+#if true
+				Console.WriteLine("{0}:", BaseFileName);
+				foreach (var ImageEntry in Txm.Surface2DEntries)
+				{
+					var ImageEntryFileName = OutputDirectory + Path.DirectorySeparatorChar + BaseFileName + "." + ImageEntry.Name + ".png";
+					Console.Write("  {0}.png : {1}...", ImageEntry.Name, ImageEntry.ImageEntry.ImageFileFormat.TextureFormat);
+					// Console.WriteLine(ImageEntry.ImageEntry);
+					try
 					{
-						OutputDirectory = BasePath + Path.DirectorySeparatorChar + "extracted";
-					}
-
-					if (!Directory.Exists(OutputDirectory)) Directory.CreateDirectory(OutputDirectory);
-
-	#if true
-					Console.WriteLine("{0}:", BaseFileName);
-					foreach (var ImageEntry in Txm.Surface2DEntries)
-					{
-						var ImageEntryFileName = OutputDirectory + Path.DirectorySeparatorChar + BaseFileName + "." + ImageEntry.Name + ".png";
-						var ImageEntry2D = ImageEntry.ImageEntry;
-						Console.Write("  {0}.png : {1} ({2}x{3})...", ImageEntry.Name, ImageEntry2D.ImageFileFormat.TextureFormat, ImageEntry2D.Width, ImageEntry2D.Height);
-						// Console.WriteLine(ImageEntry.ImageEntry);
-						try
+						if (Overwrite || !File.Exists(ImageEntryFileName))
 						{
-							if (Overwrite || !File.Exists(ImageEntryFileName))
-							{
-								if (!SeparateColorAlpha)
-								{
-									ImageEntry.Bitmap.Save(ImageEntryFileName);
-								}
-								else
-								{
-									var BitmapMixed = ImageEntry.Bitmap;
-									var AlphaChannel = BitmapMixed.GetChannelsDataLinear(BitmapChannel.Alpha);
-									var SolidAlphaChannel = Enumerable.Repeat((byte)0xFF, AlphaChannel.Length).ToArray();
-									var BitmapAlpha = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
-									var BitmapColor = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+							//ImageEntry.Bitmap.Save(ImageEntryFileName);
+							var BitmapMixed = ImageEntry.Bitmap;
+							var AlphaChannel = BitmapMixed.GetChannelsDataLinear(BitmapChannel.Alpha);
+							var SolidAlphaChannel = Enumerable.Repeat((byte)0xFF, AlphaChannel.Length).ToArray();
+							var BitmapAlpha = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+							var BitmapColor = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
 							
-									BitmapAlpha.SetChannelsDataLinear(SolidAlphaChannel, BitmapChannel.Alpha);
+							BitmapAlpha.SetChannelsDataLinear(SolidAlphaChannel, BitmapChannel.Alpha);
 							
-									BitmapColor.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Red);
-									BitmapColor.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Green);
-									BitmapColor.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Blue);
+							BitmapColor.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Red);
+							BitmapColor.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Green);
+							BitmapColor.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Blue);
 							
-									BitmapMixed.Save(ImageEntryFileName);
-									BitmapColor.Save(ImageEntryFileName + ".color.png");
-									BitmapAlpha.Save(ImageEntryFileName + ".alpha.png");
-								}
-								Console.WriteLine("Ok");
-							}
-							else
-							{
-								Console.WriteLine("Exists");
-							}
-						}
-						catch (Exception Exception)
-						{
-							Console.WriteLine("Error({0})", Exception.Message);
-							//Console.Error.WriteLine(Exception);
-						}
-					}
-
-					foreach (var ImageEntry in Txm.Surface3DEntries)
-					{
-						var ImageEntryFileNameTest = OutputDirectory + Path.DirectorySeparatorChar + BaseFileName + "." + ImageEntry.Name + "." + 0 + ".png";
-
-						Console.Write("  {0}...", ImageEntry.Name);
-
-						if (Overwrite || !File.Exists(ImageEntryFileNameTest))
-						{
-							int n = 0;
-							foreach (var Bitmap in ImageEntry.Bitmaps.Bitmaps)
-							{
-								var ImageEntryFileName = OutputDirectory + Path.DirectorySeparatorChar + BaseFileName + "." + ImageEntry.Name + "." + n + ".png";
-								Console.Write("  {0}.png : {1}...", ImageEntry.Name, ImageEntry.ImageEntry.ImageFileFormat.TextureFormat);
-								//Console.WriteLine(ImageEntry.ImageEntry);
-
-								try
-								{
-									if (Overwrite || !File.Exists(ImageEntryFileName))
-									{
-										//Bitmap.Save(ImageEntryFileName);
-										var BitmapMixed = Bitmap;
-										var AlphaChannel = BitmapMixed.GetChannelsDataLinear(BitmapChannel.Alpha);
-										var SolidAlphaChannel = Enumerable.Repeat((byte)0xFF, AlphaChannel.Length).ToArray();
-										var BitmapAlpha = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
-										var BitmapColor = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
-									
-										BitmapColor.SetChannelsDataLinear(SolidAlphaChannel, BitmapChannel.Alpha);
-									
-										BitmapAlpha.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Red);
-										BitmapAlpha.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Green);
-										BitmapAlpha.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Blue);
-										BitmapAlpha.SetChannelsDataLinear(SolidAlphaChannel, BitmapChannel.Alpha);
-									
-									
-										BitmapMixed.Save(ImageEntryFileName);
-										BitmapColor.Save(ImageEntryFileName + ".color.png");
-										BitmapAlpha.Save(ImageEntryFileName + ".alpha.png");
-										Console.WriteLine("Ok");
-									}
-									else
-									{
-										Console.WriteLine("Exists");
-									}
-								}
-								catch (Exception Exception)
-								{
-									Console.WriteLine("Error({0})", Exception.Message);
-									//Console.Error.WriteLine(Exception);
-								}
-								n++;
-							}
+							BitmapMixed.Save(ImageEntryFileName);
+							BitmapColor.Save(ImageEntryFileName + ".color.png");
+							BitmapAlpha.Save(ImageEntryFileName + ".alpha.png");
 							Console.WriteLine("Ok");
 						}
 						else
 						{
 							Console.WriteLine("Exists");
 						}
+					}
+					catch (Exception Exception)
+					{
+						Console.WriteLine("Error({0})", Exception.Message);
+						//Console.Error.WriteLine(Exception);
+					}
+				}
+
+				foreach (var ImageEntry in Txm.Surface3DEntries)
+				{
+					var ImageEntryFileNameTest = OutputDirectory + Path.DirectorySeparatorChar + BaseFileName + "." + ImageEntry.Name + "." + 0 + ".png";
+
+					Console.Write("  {0}...", ImageEntry.Name);
+
+					if (Overwrite || !File.Exists(ImageEntryFileNameTest))
+					{
+						int n = 0;
+						foreach (var Bitmap in ImageEntry.Bitmaps.Bitmaps)
+						{
+							var ImageEntryFileName = OutputDirectory + Path.DirectorySeparatorChar + BaseFileName + "." + ImageEntry.Name + "." + n + ".png";
+							Console.Write("  {0}.png : {1}...", ImageEntry.Name, ImageEntry.ImageEntry.ImageFileFormat.TextureFormat);
+							//Console.WriteLine(ImageEntry.ImageEntry);
+
+							try
+							{
+								if (Overwrite || !File.Exists(ImageEntryFileName))
+								{
+									//Bitmap.Save(ImageEntryFileName);
+									var BitmapMixed = Bitmap;
+									var AlphaChannel = BitmapMixed.GetChannelsDataLinear(BitmapChannel.Alpha);
+									var SolidAlphaChannel = Enumerable.Repeat((byte)0xFF, AlphaChannel.Length).ToArray();
+									var BitmapAlpha = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+									var BitmapColor = BitmapMixed.Clone(BitmapMixed.GetFullRectangle(), System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+									
+									BitmapColor.SetChannelsDataLinear(SolidAlphaChannel, BitmapChannel.Alpha);
+									
+									BitmapAlpha.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Red);
+									BitmapAlpha.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Green);
+									BitmapAlpha.SetChannelsDataLinear(AlphaChannel, BitmapChannel.Blue);
+									BitmapAlpha.SetChannelsDataLinear(SolidAlphaChannel, BitmapChannel.Alpha);
+									
+									
+									BitmapMixed.Save(ImageEntryFileName);
+									BitmapColor.Save(ImageEntryFileName + ".color.png");
+									BitmapAlpha.Save(ImageEntryFileName + ".alpha.png");
+									Console.WriteLine("Ok");
+								}
+								else
+								{
+									Console.WriteLine("Exists");
+								}
+							}
+							catch (Exception Exception)
+							{
+								Console.WriteLine("Error({0})", Exception.Message);
+								//Console.Error.WriteLine(Exception);
+							}
+							n++;
+						}
+						Console.WriteLine("Ok");
+					}
+					else
+					{
+						Console.WriteLine("Exists");
 					}
 				}
 #endif

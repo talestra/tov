@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.IO;
-using CSharpUtils;
-using CSharpUtils.Streams;
-using CSharpUtils;
-using System.Diagnostics;
-using System.Runtime.InteropServices;
-using TalesOfVesperiaUtils.Compression.LZX;
-using TalesOfVesperiaUtils.Compression.CAB;
+﻿using CSharpUtils;
 using CSharpUtils.Endian;
+using CSharpUtils.Streams;
+using System;
+using System.Diagnostics;
+using System.IO;
+using System.Linq;
+using System.Runtime.InteropServices;
+using TalesOfVesperiaUtils.Compression.CAB;
+using TalesOfVesperiaUtils.Compression.LZX;
 
 namespace TalesOfVesperiaUtils.Compression
 {
@@ -97,7 +94,7 @@ namespace TalesOfVesperiaUtils.Compression
 				if (HeaderStruct.UncompressedSize != HeaderStruct.UncompressedSize2) throw (new Exception("Invalid LZX"));
 				if (HeaderStruct.CompressedSize != HeaderStruct.CompressedSize2) throw (new Exception("Invalid LZX"));
 				if (HeaderStruct.CompressedSizePlus4 != HeaderStruct.CompressedSize + 4) throw (new Exception("Invalid LZX"));
-				if (InputStream.Position != 0x34);
+				//if (InputStream.Position != 0x34);
 
 				//Console.WriteLine(InputStream.Length);
 				//Console.WriteLine(0x34 + HeaderStruct.CompressedSize);

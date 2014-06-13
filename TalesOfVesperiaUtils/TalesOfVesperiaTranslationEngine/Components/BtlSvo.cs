@@ -90,7 +90,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
             Patcher.Action("Translating Battle Scripts", () =>
             {
-                Patcher.ProgressHandler.AddProgressLevel("Translating Battle Scripts", Names.Length, () =>
+                Patcher.ProgressHandler.AddProgressLevel("Traduciendo scripts de batalla...", Names.Length, () =>
                 {
                     Patcher.ParallelForeach("Translating", Names, (Name) => Name, (Name) =>
                     {
@@ -209,7 +209,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 					{
 						Patcher.GameAccessPath("E_A018", () =>
 						{
-							Patcher.GameGetTXM("E_A018/E_A018_LVUP.MDL", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.E_A018_LVUP_00, "E_A018_LVUP_00"); });
+							Patcher.GameGetTXM("8", "9", (Txm) => { Patcher.UpdateTxm2DWithPng(Txm, PatchPaths.E_A018_LVUP_00, "E_A018_LVUP_00"); });
 						});
 					});
 

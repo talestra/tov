@@ -43,7 +43,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
 		private void HandleFont()
 		{
-			// Font
+			// Font A
 			Patcher.GameGetTXM("FONTTEX10.TXM", "FONTTEX10.TXV", (Txm) =>
 			{
 				Patcher.PatcherGetImageColorAlpha(PatchPaths.FONTTEXT10_15_COLOR, PatchPaths.FONTTEXT10_15_ALPHA, (Bitmap) =>
@@ -62,6 +62,29 @@ namespace TalesOfVesperiaTranslationEngine.Components
 				});
 			});
 
+            // Font B
+            Patcher.GameGetTXM("FONTTEX11.TXM", "FONTTEX11.TXV", (Txm) =>
+            {
+                Patcher.PatcherGetImageColorAlpha(PatchPaths.FONTTEXT11_15_COLOR, PatchPaths.FONTTEXT11_15_ALPHA, (Bitmap) =>
+                {
+                    var Entry = Txm.Surface3DEntries[0];
+
+                    Entry.Bitmaps.Bitmaps[15] = Bitmap;
+                    Entry.UpdateBitmapList(Entry.Bitmaps);
+                });
+            });
+
+            // Font C
+            Patcher.GameGetTXM("FONTTEX12.TXM", "FONTTEX12.TXV", (Txm) =>
+            {
+                Patcher.PatcherGetImageColorAlpha(PatchPaths.FONTTEXT12_15_COLOR, PatchPaths.FONTTEXT12_15_ALPHA, (Bitmap) =>
+                {
+                    var Entry = Txm.Surface3DEntries[0];
+
+                    Entry.Bitmaps.Bitmaps[15] = Bitmap;
+                    Entry.UpdateBitmapList(Entry.Bitmaps);
+                });
+            });
 		}
 
         private void HandleImages()

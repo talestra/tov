@@ -80,6 +80,18 @@ namespace TalesOfVesperiaUtils.Compression
 
 				switch (HeaderStruct.Version)
 				{
+#if true
+					case 0:
+						if (HeaderStruct.CompressedLength != HeaderStruct.UncompressedLength)
+						{
+							Warnings.Add("Compressed/Uncompressed Length must match");
+						}
+						if (HeaderStruct.CompressedLength >= 64 * 1024 * 1024)
+						{
+							Warnings.Add("Compressed/Uncompressed Length too big");
+						}
+						break;
+#endif
 					case 1:
 					case 3:
 					case 4:
@@ -91,24 +103,9 @@ namespace TalesOfVesperiaUtils.Compression
 						{
 							Warnings.Add("Uncompressed Length too big");
 						}
-
-						if (HeaderStruct.CompressedLength <= 2)
-						{
-							Warnings.Add("Compressed Length too small");
-						}
-						if (HeaderStruct.UncompressedLength <= 4)
-						{
-							Warnings.Add("Uncompressed Length too small");
-						}
-
 						if (HeaderStruct.CompressedLength > HeaderStruct.UncompressedLength)
 						{
 							Warnings.Add("Compressed size is bigger than the uncompressed size");
-						}
-
-						if (HeaderStruct.CompressedLength > FileSize)
-						{
-							Warnings.Add("Compressed Length too big for file");
 						}
 						
 					/*
