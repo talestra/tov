@@ -1,8 +1,12 @@
-﻿using CSharpUtils.Endian;
-using CSharpUtils.Streams;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
+using CSharpUtils;
+using CSharpUtils.Streams;
+using CSharpUtils;
+using System.IO;
+using CSharpUtils.Endian;
 
 namespace TalesOfVesperiaUtils.Formats.Script
 {

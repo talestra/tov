@@ -125,16 +125,16 @@ namespace TalesOfVesperiaUtils.Compression
 							}
 							*/
 
-							//int Type;
+							int Type;
 							if (WindowOffset < 0x100)
 							{
-								//Type = 1;
+								Type = 1;
 								RleByte = *InCurrent++;
 								RleLength = WindowOffset + MaxLength + 1 + 1;
 							}
 							else
 							{
-								//Type = 0;
+								Type = 0;
 								RleByte = (byte)WindowOffset;
 								RleLength = (WindowOffset >> 8) + MinLength;
 							}
@@ -319,7 +319,7 @@ namespace TalesOfVesperiaUtils.Compression
 
 					if (Length <= MinLzLength) throw(new Exception("Invalid RLE Length"));
 
-					//int Type = 0;
+					int Type = 0;
 
 					if (Length < MaxLzLength + 1 + 1)
 					{
@@ -330,7 +330,7 @@ namespace TalesOfVesperiaUtils.Compression
 						Set.WriteByte((byte)(WritePos & 0x0FF));
 						Set.WriteByte((byte)((((WritePos & 0xF00) >> 8) << 4) | (WriteLen & 0xF)));
 						Put(false);
-						//Type = 0;
+						Type = 0;
 					}
 					else
 					{
@@ -345,7 +345,7 @@ namespace TalesOfVesperiaUtils.Compression
 						Set.WriteByte((byte)((((WritePos & 0xF00) >> 8) << 4) | (WriteLen & 0xF)));
 						Set.WriteByte(Byte);
 						Put(false);
-						//Type = 1;
+						Type = 1;
 					}
 
 #if DEBUG_COMPRESSION

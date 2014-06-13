@@ -1,11 +1,12 @@
-﻿using CSharpUtils;
-using CSharpUtils.Streams;
-using ICSharpCode.SharpZipLib.Zip;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Text;
+using ICSharpCode.SharpZipLib.Zip;
+using System.IO;
+using CSharpUtils;
+using CSharpUtils.Streams;
+using CSharpUtils;
 using System.Text.RegularExpressions;
 
 namespace TalesOfVesperiaUtils.Formats

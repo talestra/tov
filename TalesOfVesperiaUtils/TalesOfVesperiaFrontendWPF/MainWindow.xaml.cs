@@ -1,20 +1,27 @@
 ﻿using System;
-using System.ComponentModel;
+using System.IO;
 using System.Reflection;
+using System.Runtime.InteropServices;
 using System.Windows;
-using System.Windows.Forms;
+using System.Windows.Interop;
 using System.Windows.Shell;
+using TalesOfVesperiaUtils.Formats.Packages;
+using TalesOfVesperiaUtils.VirtualFileSystem;
 using TalesOfVesperiaTranslationEngine;
-using Ookii.Dialogs.Wpf;
+using System.ComponentModel;
+using System.Threading;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Windows.Input;
 
 namespace TalesOfVesperiaFrontendWPF
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow
+    public partial class MainWindow : Window
     {
-        private bool _InProgress;
+        private bool _InProgress = false;
         public bool InProgress
         {
             get
@@ -41,13 +48,13 @@ namespace TalesOfVesperiaFrontendWPF
 			this.GlassBackground(0, 0, 0, 40);
 
 			var BuildVersion = Assembly.GetExecutingAssembly().GetName().Version.ToString();
-			Title = String.Format("Tales of Vesperia en español - v{0}", BuildVersion);
-			BuildDate.Content = String.Format("Build {0}", RetrieveLinkerTimestamp());
+			this.Title = String.Format("Tales of Vesperia en español - v{0}", BuildVersion);
+			this.BuildDate.Content = String.Format("Build {0}", RetrieveLinkerTimestamp());
         }
 
 		private DateTime RetrieveLinkerTimestamp()
 		{
-			string filePath = Assembly.GetCallingAssembly().Location;
+			string filePath = System.Reflection.Assembly.GetCallingAssembly().Location;
 			const int c_PeHeaderOffset = 60;
 			const int c_LinkerTimestampOffset = 8;
 			byte[] b = new byte[2048];
@@ -66,8 +73,8 @@ namespace TalesOfVesperiaFrontendWPF
 				}
 			}
 
-			int i = BitConverter.ToInt32(b, c_PeHeaderOffset);
-			int secondsSince1970 = BitConverter.ToInt32(b, i + c_LinkerTimestampOffset);
+			int i = System.BitConverter.ToInt32(b, c_PeHeaderOffset);
+			int secondsSince1970 = System.BitConverter.ToInt32(b, i + c_LinkerTimestampOffset);
 			DateTime dt = new DateTime(1970, 1, 1, 0, 0, 0);
 			dt = dt.AddSeconds(secondsSince1970);
 			dt = dt.AddHours(TimeZone.CurrentTimeZone.GetUtcOffset(dt).Hours);
@@ -177,13 +184,10 @@ namespace TalesOfVesperiaFrontendWPF
 
 		private void PatchFolder_Click_1(object sender, RoutedEventArgs e)
 		{
-			//var Dialog = new FolderBrowserDialog();
-            var Dialog = new VistaFolderBrowserDialog();
-            Dialog.UseDescriptionForTitle = true;
+			var Dialog = new FolderBrowserDialog();
 			Dialog.Description = "Elige la carpeta con los archivos del Tales of Vesperia extraídos (para JTAG).";
             Dialog.ShowNewFolderButton = false;
-            //if (Dialog.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
-            if (!(bool)Dialog.ShowDialog()) return;
+            if (Dialog.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
 
             PatchThread.Run(this, UpdateProgress, "", Dialog.SelectedPath, true);
 		}
@@ -197,7 +201,7 @@ namespace TalesOfVesperiaFrontendWPF
         {
             if (InProgress)
             {
-                if (System.Windows.MessageBox.Show("¿Estás seguro de que deseas cancelar el proceso de parcheo?\n\nLa iso generada podría quedar inutilizada.", "Atención", MessageBoxButton.YesNo, MessageBoxImage.Warning, MessageBoxResult.No) == MessageBoxResult.No)
+                if (System.Windows.MessageBox.Show("¿Está seguro de que desea cancelar el proceso de parcheo?\n\nLa iso generada podría quedar inutilizada.", "Atención", MessageBoxButton.YesNo, MessageBoxImage.Warning, MessageBoxResult.No) == MessageBoxResult.No)
                 {
                     e.Cancel = true;
                 }

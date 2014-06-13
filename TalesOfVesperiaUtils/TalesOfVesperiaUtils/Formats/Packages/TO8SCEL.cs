@@ -1,11 +1,14 @@
-﻿using CSharpUtils;
-using CSharpUtils.Endian;
-using CSharpUtils.Streams;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
+using System.Linq;
+using System.Text;
 using System.Runtime.InteropServices;
+using CSharpUtils;
+using CSharpUtils.Streams;
+using CSharpUtils;
+using System.IO;
 using TalesOfVesperiaUtils.Compression;
+using CSharpUtils.Endian;
 
 namespace TalesOfVesperiaUtils.Formats.Packages
 {
