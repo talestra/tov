@@ -1,13 +1,19 @@
-﻿using CSharpUtils;
-using System;
-using System.Diagnostics;
-using System.IO;
-using System.IO.Compression;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+//using System.Windows.Forms;
+using System.Windows.Shapes;
+using System.Windows.Shell;
+using System.IO;
 using TalesOfVesperiaTranslationEngine;
 using TalesOfVesperiaTranslationEngine.Components;
 using TalesOfVesperiaUtils.VirtualFileSystem;
+using System.Diagnostics;
+using System.Security.Cryptography;
+using CSharpUtils;
 
 namespace TalesOfVesperiaFrontendWPF
 {
@@ -53,7 +59,7 @@ namespace TalesOfVesperiaFrontendWPF
 
                         if (!UseJTAGFolder)
                         {
-                            Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("Preparándose para parchear", () =>
+                            Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("Preparing for patching", () =>
                             {
                                 //LayerBreak=1913760
                                 //s-tov.iso
@@ -74,7 +80,7 @@ namespace TalesOfVesperiaFrontendWPF
                                     System.IO.Path.GetFileName(TranslatedGamePath),
                                 });
 
-                                Patcher.ProgressHandler.AddProgressLevel("Copiando ISO", 1, () =>
+                                Patcher.ProgressHandler.AddProgressLevel("Copying ISO...", 1, () =>
                                 {
                                     Console.WriteLine("Copying ISO...");
                                     if (!File.Exists(TranslatedGamePath) || (new FileInfo(TranslatedGamePath).Length != new FileInfo(OriginalGamePath).Length))
@@ -93,7 +99,7 @@ namespace TalesOfVesperiaFrontendWPF
                                 });
                             }, () =>
                             {
-                                Patcher.ProgressHandler.AddProgressLevel("Comprobando MD5 de la ISO", 1, () =>
+                                Patcher.ProgressHandler.AddProgressLevel("Checking ISO MD5...", 1, () =>
                                 {
                                     if (CheckMd5)
                                     {
@@ -117,14 +123,10 @@ namespace TalesOfVesperiaFrontendWPF
                                 });
                             });
                         }
-                        
-                        if(!Patcher.ExternalPatchData) PatchDataDecompress();
 
                         Patcher.InitWithGamePath(TranslatedGamePath);
                         PatchAll.CheckFileSystemVesperiaExceptions(Patcher.GameFileSystem);
                         PatchAll.Handle();
-
-                        if (!Patcher.ExternalPatchData) PatchDataDelete();
 
                         MessageBox.Show("¡Ya se ha traducido Tales of Vesperia al español!", "¡Felicidades!", MessageBoxButton.OK, MessageBoxImage.Information);
                     });
@@ -134,47 +136,6 @@ namespace TalesOfVesperiaFrontendWPF
                     MainWindow.InProgress = false;
                 }
             });
-        }
-
-        static private void PatchDataDecompress()
-        {
-            Console.Write("Decompressing \"PatchData.bin\" in temporary folder... ");
-            
-            byte[] data;
-            byte[] XORBytes = { 0x54, 0x61, 0x4c, 0x65, 0x53, 0x74, 0x52, 0x61, 0x4d, 0x6f, 0x4c, 0x61, 0x4d, 0x61, 0x5a, 0x6f }; //TaLeStRaMoLaMaZo
-
-            using (Stream zip = System.Reflection.Assembly.GetExecutingAssembly().GetManifestResourceStream("TalesOfVesperiaFrontendWPF.PatchData.bin"))
-            {
-                data = new byte[zip.Length];
-                zip.Read(data, 0, data.Length);
-            }
-
-            for (int n = 0; n < data.Length; n++)
-            {
-                data[n] = (byte)((data[n] << 6) | ((data[n] & 0xc) << 2) | ((data[n] & 0x30) >> 2) | ((data[n] & 0xc0) >> 6));  //78563412 -> 12345678
-                data[n] = (byte)(data[n] ^ XORBytes[n % 16]);
-            }
-
-            string ZipPath = Path.Combine(Path.GetTempPath(), "PatchData.bin");
-            File.WriteAllBytes(ZipPath, data);
-
-            string ExtractPath = Path.Combine(Path.GetTempPath(), "PatchData");
-            if (Directory.Exists(ExtractPath)) Directory.Delete(ExtractPath, true);
-
-            ZipFile.ExtractToDirectory(ZipPath, Path.GetTempPath());
-            File.Delete(ZipPath);
-
-            Console.WriteLine("OK");
-        }
-
-        static private void PatchDataDelete()
-        {
-            Console.Write("Deleting patch data in temporary folder... ");
-            
-            string DataPath = Path.Combine(Path.GetTempPath(), "PatchData");
-            if (Directory.Exists(DataPath)) Directory.Delete(DataPath, true);
-
-            Console.WriteLine("OK");
         }
 
         static private void TryCatchIfNotDebugger(Action Action)

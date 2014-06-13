@@ -440,7 +440,7 @@ namespace TalesOfVesperiaUtils.Compression
 					int dataend = outLen - 10;
 					uint curpos = (uint)m_state.intel_curpos;
 					uint filesize = (uint)m_state.intel_filesize;
-					//uint abs_off, rel_off;
+					uint abs_off, rel_off;
 
 					m_state.intel_curpos = (int)curpos + outLen;
 

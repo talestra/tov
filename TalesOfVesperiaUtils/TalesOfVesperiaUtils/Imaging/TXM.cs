@@ -27,7 +27,7 @@ namespace TalesOfVesperiaUtils.Imaging
 			/// <summary>
 			/// 0002 -
 			/// </summary>
-			[FieldOffset(0x0000)]
+			[FieldOffset(0x0002)]
 			public ushort_be VersionPadding;
 		}
 
@@ -230,7 +230,7 @@ namespace TalesOfVesperiaUtils.Imaging
 				
 				//Console.WriteLine("{0}: {1}", Index, "%08X".Sprintf(TXM.TXVStream.Position));
 				//this.SliceStream = TXM.TXVStream.ReadStream(TotalBytes);
-				//Console.WriteLine(ContentOffset);
+				//Console.WriteLine("{0:X8}, {1:X8}, {2:X8}, {3:X8}", ContentOffset, TotalBytes, ContentOffset + TotalBytes, TXM.TXVStream.Length);
 				this.SliceStream = TXM.TXVStream.SliceWithLength(ContentOffset, TotalBytes);
 			}
 
@@ -258,8 +258,9 @@ namespace TalesOfVesperiaUtils.Imaging
 
 				switch (ImageEntry.ImageFileFormat.TextureFormat)
 				{
-					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
+						return (new DXT5A()).LoadSwizzled3D(this.SliceStream.Slice(), Width, Height, Depth, this.Tiled);
+					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
 						return (new DXT5()).LoadSwizzled3D(this.SliceStream.Slice(), Width, Height, Depth, this.Tiled);
 
 					default:
@@ -294,7 +295,7 @@ namespace TalesOfVesperiaUtils.Imaging
 					switch (ImageEntry.ImageFileFormat.TextureFormat)
 					{
 						case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
-						//case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
+						case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
 							return Swizzling.XGAddress3DTiledExtent(Width / 4, Height / 4, Depth, 16) * 16;
 					}
 				}
@@ -361,8 +362,10 @@ namespace TalesOfVesperiaUtils.Imaging
 				{
 					switch (ImageEntry.ImageFileFormat.TextureFormat)
 					{
+						case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
+							return Swizzling.XGAddress2DTiledExtent(Width / 4, Height / 4, 16) * 8;
+						case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT1:
 						case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
-						//case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
 							return Swizzling.XGAddress2DTiledExtent(Width / 4, Height / 4, 16) * 16;
 					}
 				}
@@ -520,12 +523,14 @@ namespace TalesOfVesperiaUtils.Imaging
 								R = (byte)BitUtils.ExtractScaled(Data, 16, 8, 255),
 								A = (byte)BitUtils.ExtractScaled(Data, 24, 8, 255),
 							};
+							//return new ARGB_Rev(0xFF, 0xFF, 0 ,0);
 						});
 
 						break;
 
+					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
+						return (new DXT5A()).LoadSwizzled2D(this.SliceStream, Width, Height, this.Tiled);
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT4_5:
-					//case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT5A:
 						return (new DXT5()).LoadSwizzled2D(this.SliceStream, Width, Height, this.Tiled);
 					case GPUTEXTUREFORMAT.GPUTEXTUREFORMAT_DXT1:
 						return (new DXT1()).LoadSwizzled2D(this.SliceStream, Width, Height, this.Tiled);
@@ -658,8 +663,8 @@ namespace TalesOfVesperiaUtils.Imaging
 				var ImageVersion = StructUtils.BytesToStruct<ImageVersionStruct>(MagicData);
 				switch (ImageVersion.Version)
 				{
-					case 1:
-						break;
+					//case 1:
+					//	break;
 					case 2:
 						var ImageHeader = StructUtils.BytesToStruct<ImageHeaderStructV2>(MagicData);
 						if (ImageHeader.Surface2DCount > 10000) return false;

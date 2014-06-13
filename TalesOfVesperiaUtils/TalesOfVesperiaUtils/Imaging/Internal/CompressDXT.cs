@@ -788,6 +788,23 @@ namespace TalesOfVesperiaUtils.Imaging.Internal
 		/// <param name="Colors"></param>
 		/// <param name="Block"></param>
 		/// <param name="mode"></param>
+		static public void CompressBlockDXT5A(ARGB_Rev[] Colors, out DXT5A.AlphaBlock BlockA, CompressionMode mode = CompressionMode.HighQuality)
+		{
+			var BlockPtr = stackalloc DXT5.AlphaColorBlock[1];
+			fixed (ARGB_Rev* ColorsPtr = Colors)
+			{
+				stb_compress_dxt_block((byte*)BlockPtr, ColorsPtr, true, mode);
+
+				BlockA = BlockPtr->alphaBlock;
+			}
+		}
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="Colors"></param>
+		/// <param name="Block"></param>
+		/// <param name="mode"></param>
 		static public void CompressBlockDXT1(ARGB_Rev[] Colors, out DXT1.ColorBlock Block, CompressionMode mode = CompressionMode.HighQuality)
 		{
 			Block = default(DXT1.ColorBlock);

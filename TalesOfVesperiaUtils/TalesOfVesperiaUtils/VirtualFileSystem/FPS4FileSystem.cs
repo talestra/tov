@@ -29,7 +29,7 @@ namespace TalesOfVesperiaUtils.VirtualFileSystem
 			Dispose();
 		}
 
-		public new void Dispose()
+		public void Dispose()
 		{
 			if (!Disposed)
 			{

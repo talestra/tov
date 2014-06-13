@@ -42,7 +42,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
 			Patcher.Action("Translating Skits...", () =>
 			{
-                Patcher.ProgressHandler.AddProgressLevel("Traduciendo skits", OriginalChatSvo.Count(), () =>
+                Patcher.ProgressHandler.AddProgressLevel("Translating Skits...", OriginalChatSvo.Count(), () =>
                 {
                     Patcher.ParallelForeach("Translating", OriginalChatSvo, (ChatSvoEntry) => ChatSvoEntry.Name, (ChatSvoEntry) =>
                     {
@@ -145,7 +145,7 @@ namespace TalesOfVesperiaTranslationEngine.Components
 
         private void Handle3()
         {
-            Patcher.ProgressHandler.AddProgressLevel("Actualizando chat.svo", 1, () =>
+            Patcher.ProgressHandler.AddProgressLevel("Updating chat.svo", 1, () =>
             {
                 Patcher.Action("Updating chat.svo...", () =>
                 {
