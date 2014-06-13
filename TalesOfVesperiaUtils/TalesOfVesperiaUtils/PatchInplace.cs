@@ -22,17 +22,6 @@ namespace TalesOfVesperiaUtils
 			this.FileSystem = FileSystem;
 		}
 
-		/*
-		int RecompressVersion = -1;
-
-		public void SetRecompressionVersion(int Version, Action Action)
-		{
-			LanguageUtils.LocalSet(ref RecompressVersion, Version, () => {
-				Action();
-			});
-		}
-		*/
-
 		public void DecompressAndRecompressIfRequired(Stream Stream, Action<Stream> Action, int RecompressVersion = -1)
 		{
 			if (TalesCompression.IsValid(Stream))

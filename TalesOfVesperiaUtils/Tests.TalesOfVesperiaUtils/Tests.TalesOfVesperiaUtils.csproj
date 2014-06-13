@@ -79,7 +79,6 @@
     <Compile Include="Formats\Packages\TO8CHTXTest.cs" />
     <Compile Include="Formats\Packages\TO8SCELTest.cs" />
     <Compile Include="Formats\Script\TSSTest.cs" />
-    <Compile Include="Imaging\SPMTest.cs" />
     <Compile Include="Imaging\DXT5Test.cs" />
     <Compile Include="Imaging\Y_CO_CG_ATest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

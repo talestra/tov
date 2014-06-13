@@ -100,18 +100,18 @@ namespace TalesOfVesperiaUtils.Formats.Misc
 		{
 			public int Index;
 			public EntryStruct EntryStruct;
-			public string MapSvoName;
-			public string CharaSvoName;
-			public string Name;
+			public string Text1;
+			public string Text2;
+			public string Text3;
 			public uint Flags { get { return EntryStruct.Flags; } }
 
 			public string NoDummyText
 			{
 				get
 				{
-					if (MapSvoName != "dummy") return MapSvoName;
-					if (CharaSvoName != "dummy") return CharaSvoName;
-					if (Name != "dummy") return Name;
+					if (Text1 != "dummy") return Text1;
+					if (Text2 != "dummy") return Text2;
+					if (Text3 != "dummy") return Text3;
 					return "-";
 				}
 			}
@@ -121,9 +121,9 @@ namespace TalesOfVesperiaUtils.Formats.Misc
 				return new Entry()
 				{
 					Index = Index,
-					MapSvoName = TextStream.ReadStringzAt(EntryStruct.TextPointer1),
-					CharaSvoName = TextStream.ReadStringzAt(EntryStruct.TextPointer2),
-					Name = TextStream.ReadStringzAt(EntryStruct.TextPointer3),
+					Text1 = TextStream.ReadStringzAt(EntryStruct.TextPointer1),
+					Text2 = TextStream.ReadStringzAt(EntryStruct.TextPointer2),
+					Text3 = TextStream.ReadStringzAt(EntryStruct.TextPointer3),
 					EntryStruct = EntryStruct,
 				};
 			}

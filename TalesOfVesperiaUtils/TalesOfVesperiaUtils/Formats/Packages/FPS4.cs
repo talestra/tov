@@ -1,32 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Runtime.InteropServices;
-using System.IO;
-using CSharpUtils;
-using CSharpUtils.Streams;
-using CSharpUtils;
-using TalesOfVesperiaUtils.Compression;
+﻿using CSharpUtils;
 using CSharpUtils.Endian;
+using CSharpUtils.Streams;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Runtime.InteropServices;
+using System.Text;
 
 namespace TalesOfVesperiaUtils.Formats.Packages
 {
 	public class FPS4 : BasePackage, IDisposable, IEnumerable<FPS4.Entry>
 	{
-		[Flags]
-		public enum EntryFlags : ushort
-		{
-			HasOffset = (1 << 0),
-			HasLengthSectorAligned = (1 << 1),
-			HasRealLength = (1 << 2),
-			HasInlineName = (1 << 3),
-			_Unknown1 = (1 << 4),
-			HasStringExtension = (1 << 5),
-			HasStringOffset = (1 << 6),
-			HasAdditional_Uint = (1 << 7),
-		}
-
 		[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi, Pack = 1, Size = 0x001C)]
 		public struct HeaderStruct
 		{
@@ -68,8 +53,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			/// Probably a BitField? But not sure bit meanings.
 			/// </summary>
 			//[FieldOffset(0x0012)]
-			private ushort_be _EntryFormat;
-			public EntryFlags EntryFormat { get { return (EntryFlags)(ushort)this._EntryFormat; } }
+			public ushort_be EntryFormat;
 
 			/// <summary>
 			/// Format 2 of each entry.
@@ -114,20 +98,18 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 		{
 			public FPS4 FPS4;
 			public EntryStruct EntryStruct;
-			public int Index;
+			public uint Index;
 			public String Name;
-			public String StringAttribute;
-			public String StringExtension;
-			public int MappedFileIndex;
+			public uint MappedFileIndex;
 			protected Entry _LinkedTo;
 			protected Stream _Stream;
 
-			internal Entry(FPS4 FPS4, EntryStruct EntryStruct, String Name, int MappedFileIndex)
+			internal Entry(FPS4 FPS4, EntryStruct EntryStruct, String Name)
 			{
 				this.FPS4 = FPS4;
 				this.EntryStruct = EntryStruct;
 				this.Name = Name;
-				this.MappedFileIndex = MappedFileIndex;
+				this._Stream = SliceStream.CreateWithLength((EntryStruct.Offset == 0) ? FPS4.DavStream : FPS4.DatStream, EntryStruct.Offset, EntryStruct.LengthReal);
 			}
 
 			internal Entry(FPS4 FPS4, Stream Stream, String Name)
@@ -151,12 +133,12 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				}
 			}
 
+			/*
 			public Stream Stream
 			{
 				get
 				{
-					if (this._Stream == null) Open();
-					return this._Stream;
+					return (this._Stream != null) ? Open() : null;
 				}
 				set
 				{
@@ -164,6 +146,7 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 					this._LinkedTo = null;
 				}
 			}
+			*/
 
 			public void SetStream(Stream Stream)
 			{
@@ -175,17 +158,19 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			{
 				get
 				{
-					if (this.Stream == null) return 0;
-					return this.Stream.Length;
+					if (this._Stream == null) return 0;
+					return this._Stream.Length;
 				}
 			}
 
 			public Stream Open()
 			{
-				if (this._Stream == null)
+#if false
+				if (MappedFileIndex > 0)
 				{
-					this._Stream = SliceStream.CreateWithLength(FPS4.MapStreams[MappedFileIndex], EntryStruct.Offset, EntryStruct.LengthReal);
+					return SliceStream.CreateWithLength(new ZeroStream(this.EntryStruct.LengthReal), 0, this.EntryStruct.LengthReal);
 				}
+#endif
 				return SliceStream.CreateWithLength(this._Stream, 0, this._Stream.Length);
 			}
 
@@ -250,14 +235,11 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 				else
 				{
 					return String.Format(
-						"FPS4.Entry(Name='{0}', Offset=0x{1}, LengthCompressed={2}, LengthUncompressed={3}, MappedFileIndex={4}, Attribute='{5}', Extension='{6}')",
+						"FPS4.Entry(Name='{0}', Offset=0x{1}, LengthCompressed={2}, LengthUncompressed={3})",
 						Name,
 						EntryStruct.Offset.NativeValue.ToString("X8"),
 						EntryStruct.LengthSectorAligned,
-						EntryStruct.LengthReal,
-						MappedFileIndex,
-						StringAttribute,
-						StringExtension
+						EntryStruct.LengthReal
 					);
 				}
 			}
@@ -272,23 +254,22 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 		public Entry CreateEntry(String Name, Stream Stream)
 		{
 			var Entry = new Entry(this, Stream, Name);
-			Entry.Index = Entries.Count;
+			Entry.Index = (uint)Entries.Count;
 			return Entries[Name] = Entry;
 		}
 
 		public Entry CreateEntry(String Name, Entry LinkedTo)
 		{
 			var Entry = new Entry(this, null, Name);
-			Entry.Index = Entries.Count;
+			Entry.Index = (uint)Entries.Count;
 			Entry.LinkedTo = LinkedTo;
 			return Entries[Name] = Entry;
 		}
 
 		public String OriginalFilePath = "";
-		public List<Entry> EntriesByIndex = new List<Entry>();
+		public Stream DatStream;
+		public Stream DavStream;
 		public Dictionary<String, Entry> Entries = new Dictionary<String, Entry>();
-		HeaderStruct Header;
-		Stream[] MapStreams;
 
 		public List<Entry> EntryList
 		{
@@ -302,9 +283,9 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 		{
 		}
 
-		public FPS4(Stream Fps4Stream, params Stream[] ExtraStreams)
+		public FPS4(Stream DatStream, Stream DavStream = null)
 		{
-			Load(Fps4Stream, ExtraStreams);
+			Load(DatStream, DavStream);
 		}
 
 		public override string ToString()
@@ -317,24 +298,27 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 			Dispose();
 		}
 
-		override public void Load(Stream Fps4Stream)
+		HeaderStruct Header;
+
+		override public void Load(Stream DatStream)
 		{
-			Load(Fps4Stream);
+			Load(DatStream, null);
 		}
 
-		public void Load(Stream Fps4Stream, params Stream[] ExtraStreams)
+		public void Load(Stream DatStream, Stream DavStream)
 		{
-			this.MapStreams = new Stream[] { }.Concat(new[] { Fps4Stream }).Concat(ExtraStreams);
-			//if (DavStream == null) DavStream = DatStream;
+			if (DavStream == null) DavStream = DatStream;
+			this.DatStream = DatStream;
+			this.DavStream = DavStream;
 
-			Header = Fps4Stream.ReadStruct<HeaderStruct>();
+			Header = DatStream.ReadStruct<HeaderStruct>();
 			var Magic = Encoding.ASCII.GetString(Header.Magic);
 			if (Magic != "FPS4") throw (new Exception(String.Format("Invalid Magic '{0}'", Magic)));
 
 			if (Header.FilePos != 0)
 			{
-				Fps4Stream.Position = Header.FilePos;
-				OriginalFilePath = Fps4Stream.ReadStringz(0x100, Encoding.GetEncoding("Shift-JIS"));
+				DatStream.Position = Header.FilePos;
+				OriginalFilePath = DatStream.ReadStringz(0x100, Encoding.GetEncoding("Shift-JIS"));
 			}
 			else
 			{
@@ -345,150 +329,134 @@ namespace TalesOfVesperiaUtils.Formats.Packages
 
 			if (Header.ListCount > 10000) throw (new Exception("List too big (" + Header.ListCount + ")"));
 
-			EntriesByIndex.Clear();
-			Entries.Clear();
-
-			//Console.WriteLine("EntryFormat: {0}", Header.EntryFormat);
-
-			Queue<string> Extensions = new Queue<string>();
-
-			int MaxMappedFileIndex = 0;
-			Fps4Stream.Position = Header.ListStart;
-			for (int n = 0; n < Header.ListCount; n++)
+			bool UseIndices = false;
+			foreach (var Pass in new[] { false, true })
 			{
-				var EntryOffset = Fps4Stream.Position;
-				var EntryStream = Fps4Stream.ReadStream(Header.EntrySizeof);
-				var EntryStruct = default(EntryStruct);
-				var Name = "";
-				var StringAttribute = "";
-				var StringExtension = "";
-				int MappedFileIndex = 0;
-				uint StringOffset = 0;
-
-				if ((Header.EntryFormat & EntryFlags.HasOffset) != 0) EntryStruct.Offset = EntryStream.ReadStruct<uint_be>();
-				if ((Header.EntryFormat & EntryFlags.HasLengthSectorAligned) != 0) EntryStruct.LengthSectorAligned = EntryStruct.LengthReal = EntryStream.ReadStruct<uint_be>();
-				if ((Header.EntryFormat & EntryFlags.HasRealLength) != 0) EntryStruct.LengthReal = EntryStream.ReadStruct<uint_be>();
-				if ((Header.EntryFormat & EntryFlags.HasInlineName) != 0) Name = EntryStream.ReadStringz(0x20);
-				if ((Header.EntryFormat & EntryFlags._Unknown1) != 0) throw (new Exception("Unknown FPS4 Format Flags : _Unknown1"));
-				if ((Header.EntryFormat & EntryFlags.HasStringExtension) != 0) StringExtension = EntryStream.ReadStringz(4);
-				if ((Header.EntryFormat & EntryFlags.HasStringOffset) != 0) StringOffset = EntryStream.ReadStruct<uint_be>();
-				if ((Header.EntryFormat & EntryFlags.HasAdditional_Uint) != 0) MappedFileIndex = (int)(uint)EntryStream.ReadStruct<uint_be>();
-
-				if (StringOffset != 0)
+				DatStream.Position = Header.ListStart;
+				for (uint n = 0; n < Header.ListCount; n++)
 				{
-					StringAttribute = Fps4Stream.SliceWithLength(StringOffset, 0x1000).ReadStringz();
-				}
+					var EntryOffset = DatStream.Position;
+					var EntryStream = DatStream.ReadStream(Header.EntrySizeof);
+					var EntryStruct = default(EntryStruct);
+					var ExtraEntrySizeof = Header.EntrySizeof - 0x0C;
+					var IndexName = String.Format("{0}", n);
+					var Name = "";
+					uint MappedFileIndex = 0;
+					uint StringOffset = 0;
 
-				//Console.WriteLine("{0}: {1}: {2}", Name, StringExtension, StringAttribute);
-				//Console.WriteLine("'{0}':{1}", Name, EntryStruct.ToStringDefault());
-
-				MaxMappedFileIndex = Math.Max(MaxMappedFileIndex, (int)MappedFileIndex);
-
-				EntriesByIndex.Add(new Entry(this, EntryStruct, Name, MappedFileIndex)
-				{
-					StringExtension = StringExtension,
-					StringAttribute = StringAttribute,
-					Index = n,
-				});
-			}
-
-			// Must calculate lengths
-			if (
-				((Header.EntryFormat & EntryFlags.HasLengthSectorAligned) == 0) &&
-				((Header.EntryFormat & EntryFlags.HasRealLength) == 0)
-			)
-			{
-				if (MaxMappedFileIndex > 1) throw(new Exception(String.Format("Supporting just one mapped file but found {0}", MaxMappedFileIndex)));
-
-				for (int MappedFileIndex = 0; MappedFileIndex <= MaxMappedFileIndex; MappedFileIndex++)
-				{
-					var EntriesForThisMap = EntriesByIndex.Where(Entry => Entry.MappedFileIndex == MappedFileIndex).ToList();
-					EntriesForThisMap.Add(new Entry(this, new EntryStruct() { Offset = (uint)MapStreams[MappedFileIndex].Length }, "", MappedFileIndex));
-					for (int n = 0; n < EntriesForThisMap.Count - 1; n++)
+					// @TODO: EntryFormat probably is a bitfield
+					//        or a composed enum + bit field
+					//        I don't know the bit mapping.
+					switch ((int)Header.EntryFormat)
 					{
-						EntriesForThisMap[n].EntryStruct.LengthReal = (
-							EntriesForThisMap[n + 1].EntryStruct.Offset -
-							EntriesForThisMap[n + 0].EntryStruct.Offset
-						);
+						case 0x8D:
+							EntryStruct.Offset = EntryStream.ReadStruct<uint_be>();
+							EntryStruct.LengthReal = EntryStruct.LengthSectorAligned = EntryStream.ReadStruct<uint_be>();
+							Name = EntryStream.ReadStringz(0x20);
+							MappedFileIndex = EntryStream.ReadStruct<uint_be>();
+							break;
+						case 0x47:
+							{
+								EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+								StringOffset = EntryStream.ReadStruct<uint_be>();
+								if (StringOffset != 0)
+								{
+									var NameStream = DatStream.SliceWithLength(StringOffset, 0x1000);
+									Name = NameStream.ReadStringz();
+									//File.WriteAllBytes("c:/temp/name" + StringOffset + ".bin", NameStream.Slice().ReadAll());
+									//Console.WriteLine("{0:X8}: '{1}'", StringOffset, Name);
+								}
+								else
+								{
+									if (EntryStruct.LengthReal == 0) continue;
+								}
+							}
+							break;
+						case 0x4F:
+							{
+								EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+								Name = EntryStream.ReadStringz(0x20);
+								MappedFileIndex = EntryStream.ReadStruct<uint_be>();
+							}
+							break;
+						default:
+							{
+								EntryStruct = EntryStream.ReadStruct<EntryStruct>();
+								Name = EntryStream.ReadStringz(ExtraEntrySizeof);
+
+								switch (ExtraEntrySizeof)
+								{
+									case 0:
+										{
+										}
+										break;
+									case 4:
+										{
+											StringOffset = EntryStream.ReadStruct<uint>();
+											// Pointer to string name.
+											if (StringOffset != 0)
+											{
+												throw (new NotImplementedException());
+											}
+										}
+										break;
+									default:
+										{
+											EntryStream.Position = EntryStream.Length - ExtraEntrySizeof;  // (0xC para common.svo y btl.svo, en los otros no sé) --- Apaño temporal
+											Name = EntryStream.ReadStringz(ExtraEntrySizeof);
+										}
+										break;
+								}
+
+								//Console.WriteLine("OFF:{0:X8}", EntryOffset);
+								//Console.WriteLine("STR:{0}", EntryStruct.ToStringDefault());
+								//Console.WriteLine("NAM'{0}'({1})", Name, Name.Length);
+							}
+							break;
 					}
-				}
-			}
 
-			if (EntriesByIndex.Count > 0)
-			{
-				var LastEntry = EntriesByIndex[EntriesByIndex.Count - 1];
-				if (LastEntry.Name.Length == 0 && LastEntry.EntryStruct.LengthReal == 0)
-				{
-					EntriesByIndex.Remove(LastEntry);
-				}
-			}
+					//Console.WriteLine("Name: {0}", Name);
 
-			var LastBaseIndexPerExtension = new Dictionary<string, int>();
-			string LastBaseName = "";
-			string LastExtension = "";
-			var ExtensionQueue = new Queue<string>();
-			var MDL_Extensions = new[] { "ANM", "BLD", "CLS", "HRC", "MTR", "SHD", "SPM", "SPV", "TXM", "TXV", "SCFOMBIN" };
-			var TEX_Extensions = new[] { "TXM", "TXV" };
-			var SCR_Extensions = new[] { "SCFOMBIN" };
-			var STA_Extensions = new[] { "AMS" };
-			var FOG_Extensions = new[] { "FOG" };
-			var LIT_Extensions = new[] { "LIT" };
-			var PST_Extensions = new[] { "PST" };
-			var SKY_Extensions = new[] { "SKY" };
-			var WTR_Extensions = new[] { "WTR" };
-			foreach (var Entry in EntriesByIndex)
-			{
-				if (Entry.Name == "")
-				{
-					if (Entry.StringExtension != "")
+					if (n == Header.ListCount - 1)
 					{
-						if (Entry.StringAttribute != "")
+						// Ignore last element with an empty name.
+						if (Name.Length == 0 && EntryStruct.LengthReal == 0)
 						{
-							LastBaseName = Entry.StringAttribute;
-						}
-						else
-						{
-							if (!LastBaseIndexPerExtension.ContainsKey(Entry.StringExtension)) LastBaseIndexPerExtension[Entry.StringExtension] = 0;
-							LastBaseName = String.Format("{0}_{1}", Entry.StringExtension, LastBaseIndexPerExtension[Entry.StringExtension]++);
-						}
-						LastExtension = Entry.StringExtension;
-						switch (Entry.StringExtension)
-						{
-							case "STA": ExtensionQueue = new Queue<string>(STA_Extensions); break;
-							case "MDL": ExtensionQueue = new Queue<string>(MDL_Extensions); break;
-							case "TEX": ExtensionQueue = new Queue<string>(TEX_Extensions); break;
-							case "SCR": ExtensionQueue = new Queue<string>(SCR_Extensions); break;
-							case "FOG": ExtensionQueue = new Queue<string>(FOG_Extensions); break;
-							case "LIT": ExtensionQueue = new Queue<string>(LIT_Extensions); break;
-							case "PST": ExtensionQueue = new Queue<string>(PST_Extensions); break;
-							case "SKY": ExtensionQueue = new Queue<string>(SKY_Extensions); break;
-							case "WTR": ExtensionQueue = new Queue<string>(SKY_Extensions); break;
-							default: throw (new Exception(String.Format("Unknown StringExtension: '{0}','{1}','{2}'", Entry.StringExtension, Entry.StringAttribute, Entry.Name)));
+							continue;
 						}
 					}
 
-					if (ExtensionQueue.Count > 0)
+					if (IndexName.Length == 0)
 					{
-						Entry.Name = LastBaseName + "." + ExtensionQueue.Dequeue();
+						IndexName = String.Format("{0}", n);
+					}
+
+					if (Name.Length == 0)
+					{
+						UseIndices = true;
+					}
+
+					if (UseIndices)
+					{
+						Name = IndexName;
+					}
+
+					//Console.WriteLine("Name: '{0}'", Encoding.UTF8.GetBytes(Name).ToStringArray());
+
+					if (Entries.ContainsKey(Name))
+					{
+						//Console.Error.WriteLine("Warning: Name '{0}' already contained", Name);
+						Name = n + "." + Name;
+					}
+
+					if (Pass)
+					{
+						var Entry = new Entry(this, EntryStruct, Name);
+						Entry.MappedFileIndex = MappedFileIndex;
+						Entry.Index = n;
+						Entries[Name] = Entry;
 					}
 				}
-			}
-
-			foreach (var Entry in EntriesByIndex)
-			{
-				if (Entry.Name.Length == 0 && Entry.StringExtension.Length == 0 && Entry.StringAttribute.Length > 0)
-				{
-					Entry.Name = Entry.StringAttribute;
-					//Console.WriteLine("'{0}'", StringAttribute);
-				}
-
-
-				if (Entry.Name.Length == 0) Entry.Name = String.Format("{0}", Entry.Index);
-				if (Entries.ContainsKey(Entry.Name)) Entry.Name = Entry.Index + "." + Entry.Name;
-
-				//Console.WriteLine("{0}", Entry);
-
-				Entries[Entry.Name] = Entry;
 			}
 		}
 
