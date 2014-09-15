@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F152F23B-CF41-442D-B79C-8DD055D0DE86}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TalesOfVesperiaFrontendWPF</RootNamespace>
     <AssemblyName>TalesOfVesperiaFrontendWPF</AssemblyName>
