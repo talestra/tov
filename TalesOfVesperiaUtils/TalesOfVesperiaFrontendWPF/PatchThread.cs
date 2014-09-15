@@ -24,8 +24,8 @@ namespace TalesOfVesperiaFrontendWPF
                 return;
             }
 
-            bool CheckMd5 = true;
-            //bool CheckMd5 = false;
+            const bool CheckMd5 = true;
+            //const bool CheckMd5 = false;
 
             var RunTask = Task.Run(() =>
             {
@@ -55,9 +55,30 @@ namespace TalesOfVesperiaFrontendWPF
                         {
                             Patcher.ProgressHandler.ExecuteActionsWithProgressTracking("Preparándose para parchear", () =>
                             {
-                                //LayerBreak=1913760
-                                //s-tov.iso
+                                Patcher.ProgressHandler.AddProgressLevel("Comprobando MD5 de la ISO", 1, () =>
+                                {
+                                    if (CheckMd5)
+                                    {
+                                        var ExpectedMd5 = "546f74b4e48bb985fcd365496e03bd10";
+                                        var ComputedMd5 = Hashing.GetMd5Hash(OriginalGamePath, (Current, Total) =>
+                                        {
+                                            Patcher.ProgressHandler.SetLevelProgressTo(Current, Total);
+                                        });
 
+                                        if (ComputedMd5 != ExpectedMd5)
+                                        {
+                                            throw (new Exception(
+                                                "El md5 de la ISO a parchear no coincide.\n" +
+                                                "Si estás intentando reparchear el juego, asegúrate de haber borrado la anterior ISO en español.\n" +
+                                                "Se tiene que parchear usando la ISO original PAL, y no se puede usar la ISO en español ni ninguna otra ISO para el reparcheo.\n" +
+                                                "Md5 calculado: " + ComputedMd5 + "\n" +
+                                                "Md5 esperado: " + ExpectedMd5 + "\n" +
+                                            ""));
+                                        }
+                                    }
+                                });
+                            }, () =>
+                            {
                                 if (CheckMd5)
                                 {
                                     if (File.Exists(TranslatedGamePath))
@@ -66,9 +87,12 @@ namespace TalesOfVesperiaFrontendWPF
                                         catch { }
                                     }
                                 }
-
+                                
                                 var TranslatedGameDvdPath = System.IO.Path.ChangeExtension(TranslatedGamePath, ".dvd");
 
+                                //LayerBreak=1913760
+                                //s-tov.iso
+                                
                                 File.WriteAllLines(TranslatedGameDvdPath, new[] {
                                     "LayerBreak=1913760",
                                     System.IO.Path.GetFileName(TranslatedGamePath),
@@ -91,34 +115,10 @@ namespace TalesOfVesperiaFrontendWPF
                                     }
                                     Console.WriteLine("Done");
                                 });
-                            }, () =>
-                            {
-                                Patcher.ProgressHandler.AddProgressLevel("Comprobando MD5 de la ISO", 1, () =>
-                                {
-                                    if (CheckMd5)
-                                    {
-                                        var ExpectedMd5 = "546f74b4e48bb985fcd365496e03bd10";
-                                        var ComputedMd5 = Hashing.GetMd5Hash(TranslatedGamePath, (Current, Total) =>
-                                        {
-                                            Patcher.ProgressHandler.SetLevelProgressTo(Current, Total);
-                                        });
-
-                                        if (ComputedMd5 != ExpectedMd5)
-                                        {
-                                            throw (new Exception(
-                                                "El md5 de la iso a parchear no coincide.\n" +
-                                                "Si estás intentando reparchear el juego, asegúrate de haber borrado la iso en español.\n" +
-                                                "Se tiene que parchear usando la ISO original PAL, y no se puede usar la iso en español ni ninguna otra iso para el reparcheo\n" +
-                                                "Md5 calculado: " + ComputedMd5 + "\n" +
-                                                "Md5 esperado: " + ExpectedMd5 + "\n" +
-                                            ""));
-                                        }
-                                    }
-                                });
                             });
                         }
-                        
-                        if(!Patcher.ExternalPatchData) PatchDataDecompress();
+
+                        if (!Patcher.ExternalPatchData) PatchDataDecompress();
 
                         Patcher.InitWithGamePath(TranslatedGamePath);
                         PatchAll.CheckFileSystemVesperiaExceptions(Patcher.GameFileSystem);
@@ -139,7 +139,7 @@ namespace TalesOfVesperiaFrontendWPF
         static private void PatchDataDecompress()
         {
             Console.Write("Decompressing \"PatchData.bin\" in temporary folder... ");
-            
+
             byte[] data;
             byte[] XORBytes = { 0x54, 0x61, 0x4c, 0x65, 0x53, 0x74, 0x52, 0x61, 0x4d, 0x6f, 0x4c, 0x61, 0x4d, 0x61, 0x5a, 0x6f }; //TaLeStRaMoLaMaZo
 
@@ -170,7 +170,7 @@ namespace TalesOfVesperiaFrontendWPF
         static private void PatchDataDelete()
         {
             Console.Write("Deleting patch data in temporary folder... ");
-            
+
             string DataPath = Path.Combine(Path.GetTempPath(), "PatchData");
             if (Directory.Exists(DataPath)) Directory.Delete(DataPath, true);
 
