@@ -126,7 +126,7 @@ namespace TalesOfVesperiaFrontendWPF
 
                         if (!Patcher.ExternalPatchData) PatchDataDelete();
 
-                        MessageBox.Show("¡Ya se ha traducido Tales of Vesperia al español!", "¡Felicidades!", MessageBoxButton.OK, MessageBoxImage.Information);
+                        MessageBox.Show("¡El parcheador ha terminado de traducir Tales of Vesperia al español!", "¡Felicidades!", MessageBoxButton.OK, MessageBoxImage.Information);
                     });
                 }
                 finally

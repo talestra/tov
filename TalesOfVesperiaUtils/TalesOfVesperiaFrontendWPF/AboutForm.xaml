@@ -1,7 +1,7 @@
 ﻿<Window x:Class="TalesOfVesperiaFrontendWPF.AboutForm"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Acerca de..." ResizeMode="NoResize" WindowStartupLocation="CenterScreen" ShowInTaskbar="False" Icon="img/tov.ico" SizeToContent="WidthAndHeight">
+        Title="Créditos" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" ShowInTaskbar="False" Icon="img/tov.ico" SizeToContent="WidthAndHeight">
     <Grid Width="510" Height="506">
         <Image HorizontalAlignment="Left" VerticalAlignment="Top" Source="img/credits.jpg" />
         <Button Content="_Aceptar" Height="32" VerticalAlignment="Bottom" Width="111" IsDefault="True" Click="Button_Click_1"/>
