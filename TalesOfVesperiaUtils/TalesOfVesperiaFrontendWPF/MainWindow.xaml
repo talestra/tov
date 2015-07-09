@@ -10,7 +10,7 @@
         <ProgressBar x:Name="GlobalProgress" Foreground="#FF310FCD" Margin="0,0,232,17" VerticalAlignment="Bottom" Height="15" />
         <TextBlock x:Name="LocalProgressText" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,232,0"></TextBlock>
         <TextBlock x:Name="GlobalProgressText" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,232,17"></TextBlock>
-        <Button x:Name="AcercaDe" Content="_Acerca de..." HorizontalAlignment="Right" Height="32" Margin="0,0,116,0" VerticalAlignment="Bottom" Width="111" Click="AcercaDe_Click"/>
+        <Button x:Name="AcercaDe" Content="_Créditos" HorizontalAlignment="Right" Height="32" Margin="0,0,116,0" VerticalAlignment="Bottom" Width="111" Click="AcercaDe_Click"/>
         <Button x:Name="Parchear" Content="_Parchear" HorizontalAlignment="Right" Height="32" VerticalAlignment="Bottom" Width="111" Click="Button_Click_1" FontWeight="Bold" ContextMenuService.Placement="Bottom">
             <Button.ContextMenu>
                 <ContextMenu x:Name="PatchContextMenu" StaysOpen="false">
@@ -19,7 +19,7 @@
                             <Image Source="img/DVD.ico" />
                         </MenuItem.Icon>
                     </MenuItem>
-                    <MenuItem x:Name="PatchFolder" Header="Parchear _carpeta (JTAG)..." Click="PatchFolder_Click_1">
+                    <MenuItem x:Name="PatchFolder" Header="Parchear _carpeta..." Click="PatchFolder_Click_1">
                         <MenuItem.Icon>
                             <Image Source="img/Folder.ico" />
                         </MenuItem.Icon>
